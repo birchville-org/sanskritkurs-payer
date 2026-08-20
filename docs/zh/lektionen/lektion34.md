@@ -1,182 +1,183 @@
 ---
-title: Lektion 34
+title: "第34課"
 lesson_id: 34
 status: stable
+
 ---
 
 # 第34課
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. 完成時（⟪लिट्⟫）
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
+在古典梵語中，完成時詞幹僅有直陳式和分詞。
 
 ::: grammar-box
-**Es gibt zwei Arten der Perfektbildung:**
-*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫**
-*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫**
+**完成時的構成有兩種方式：**
+*   **重音複指完成時 = ⟪द्वित्वलिट्⟫**
+*   **迂迴完成時 = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:**
-1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
-2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten**
-3. **bei einigen sonstigen Wurzeln**
+**迂迴完成時（⟪अनुप्रयोगलिट्⟫）用於：**
+1. **派生變位（使動、欲求、頻繁、名詞性派生）**
+2. **以長元音（除 ā- 外）開頭的詞根，或以元音（除 a- 外）後接兩個輔音的詞根**
+3. **其他一些詞根**
 :::
-## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+## 34.2. 重音複指完成時（⟪द्वित्वलिट्⟫）
 
-### 34.2.1. Stammabstufung
+### 34.2.1. 詞幹階級交替
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**starker Stamm:** Singular Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
+**強詞幹：** 單數第三人稱主動語態
+*   **重音複指高階級或長元音階級的詞幹 + 完成時詞尾**
 
-**schwacher Stamm:** alle übrigen Formen
-*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+**弱詞幹：** 所有其他形式
+*   **重音複指低階級的詞幹 + 完成時詞尾**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+**一般來說（即使在完成時之外），以下形式的詞根沒有詞幹階級交替：**
+*   **（輔音）-輔音-長元音-輔音**
+*   **（輔音）-輔音-元音-輔音-輔音**
 
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**此外，在完成時中，以下形式的詞根也沒有詞幹階級交替：**
+*   **a-輔音**
+*   **ā-輔音**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. 完成時詞尾
 
 ::: grammar-box
 
-| | 3. Singular | 3. Plural |
+| | 單數第三人稱 | 複數第三人稱 |
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-a** | **-ur** |
-| **Ātmanepada** | **-e** | **-re** |
+| **主動語態** | **-a** | **-ur** |
+| **中動語態** | **-e** | **-re** |
 
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.3. 連接元音 -i-
 
 ::: grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
+**在複數第三人稱中動語態詞尾（-re）之前，總是出現連接元音 -i-；在其他以輔音開頭的複數詞尾之前，對於大多數詞根也是如此。**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. 輔音起始詞根的疊音變化
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
+**輔音起始詞根的疊音規則，請參閱[第33課](lektion33.md)所述。**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
+**輔音起始詞根的疊音元音為短詞根元音。**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
+**位於輔音前的雙元音會簡化為相應的短低階元音。**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+**ṛ、ṝ、ḷ 以及詞尾雙元音以 -a- 進行疊音。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| 詞根 | 第三人稱單數完成時主動態 |
 | :--- | :--- |
-| ⟪भिद्⟫ | *:sig[⟪बि⟫]*⟪भेद⟫ |
-| ⟪मुच्⟫ | *:sig[⟪मु⟫]*⟪मोच⟫ |
-| ⟪भृ⟫ | *:sig[⟪ब⟫]*⟪भार⟫ |
+| ⟪भिद्⟫ | :sig[⟪बि⟫]⟪भेद⟫ |
+| ⟪मुच्⟫ | :sig[⟪मु⟫]⟪मोच⟫ |
+| ⟪भृ⟫ | :sig[⟪ब⟫]⟪भार⟫ |
 
 :::
 ::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
+**部分以 y- 或 v- 起始的詞根，分別以 i- 或 u- 進行疊音；在弱階形式中，該元音會與詞根元音「融合」。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| 詞根 | 第三人稱單數完成時主動態 | 第三人稱複數完成時主動態 |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+### 34.2.5. 元音起始詞根的疊音變化
 
 ::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
+**1. 起始的 a-、ā- 以 a- 進行疊音，因此呈現為 ā-**。
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| 詞根 | 第三人稱單數完成時主動態 |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "存在" 與 ⟪अस्⟫ 4 "投擲" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
+**2. 以 i- 起始的詞根，在強階詞幹中疊音節為 iy-，在弱階詞幹中為 i-，該元音會與詞根元音融合成 ī-。以 u- 起始的詞根情況類似。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| 詞根 | 第三人稱單數完成時主動態 | 第三人稱複數完成時主動態 |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
+**以 a- 開頭且在兩個輔音前，或以 ṛ- 開頭的詞根，其重疊音節為 ān-**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| 詞根 | 第三人稱單數完成式中聲動詞 | 第三人稱複數完成式中聲動詞 |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Typen des reduplizierten Perfekts
+## 34.3. 重疊完成式的類型
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
-*   unregelmäßige Perfektbildungen
+分類原則：詞幹變格的特殊性：
+*   無詞幹變格的完成式：第一型
+*   有詞幹變格的完成式：第二至第五型
+*   不規則的完成式構詞
 
-## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
+## 34.4. 完成式第一型：無詞幹變格的完成式
 
 ::: grammar-box
-**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**第一型完成式（無詞幹變格）由以下類型的詞根構成：**
+*   **(輔音)-輔音-長元音-輔音**
+*   **(輔音)-輔音-元音-輔音-輔音**
+*   **a-輔音**
+*   **ā-輔音**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. | 3. pl. Perf. |
+| 詞根 | 第三人稱單數完成式 | 第三人稱複數完成式 |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "是":br⟪अस्⟫ 4 "投擲" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:br不規則重疊！ | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+## 34.5. 完成式第二型：強詞幹為高階，弱詞幹為低階
 
 ::: grammar-box
-**Wird gebildet von Wurzeln der Form:**
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
+**由以下形式的詞根構成：**
+*   **(輔音)-(輔音)-i/u/ṛ/ḷ-輔音**
 
-**Bildung:**
-*   **starker Stamm: Hochstufe**
-*   **schwacher Stamm: Tiefstufe**
+**構詞法：**
+*   **強詞幹：高階**
+*   **弱詞幹：低階**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| 詞根 | 第三人稱單數完成式中聲動詞 | 第三人稱複數完成式中聲動詞 | 第三人稱單數完成式中聲被動語態 | 第三人稱複數完成式中聲被動語態 |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
 | ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
@@ -185,84 +186,84 @@ Beispiele:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. 词汇表
+## 34.6. 詞彙表
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** 種子、農作物、穀物
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
-Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+圖：⟪सस्यम्⟫
+印度的稻田。
+（圖片來源：[詳情](/zh/licenses#lekt3406)）
 :::
-**⟪तावत्⟫ :** so lange, so groß
+**⟪यावत्⟫ :** 多長、多大
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪तावत्⟫ :** 如此長、如此大
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** 最高的
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.n.:** 島嶼、大陸
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
-Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+圖：⟪लक्षद्वीपाः⟫
+Lakshadweep群島地圖。
+（圖片來源：[詳情](/zh/licenses#lekt3405)）
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**)
+**⟪मर्त्य⟫ 3:** 必死的（源於 ⟪मृ⟫）
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** 芝麻（*Sesamum indicum* L.）
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
-Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+圖：⟪तिलाः⟫
+芝麻種子。
+（圖片來源：[詳情](/zh/licenses#lekt3403)）
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+圖：*Sesamum indicum* L.
+芝麻植株開花。
+（圖片來源：[詳情](/zh/licenses#lekt3404)）
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** （色彩鮮豔的 =）黃金
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
-Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+圖：⟪स्वर्णम्⟫
+金廟（Harmandir Sahib），阿姆利則。
+（圖片來源：[詳情](/zh/licenses#lekt3402)）
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** 居所、寺廟
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ f.:** 頂端；一千萬
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** 最好的
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.n.:** 平原、表面
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** 公牛
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
-Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+圖：⟪ऋषभः⟫
+Nandi公牛雕像，昌迪希山，邁索爾。
+（圖片來源：[詳情](/zh/licenses#lekt3401)）
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** 抑制、保持、提供、給予
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** 伸出、提供、交付
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
+**⟪या⟫ 2P ⟪याति⟫ :** 走、行
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ f.:** 女孩、處女
 
-## 34.7. 练习
+## 34.7. 練習
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
+請為以下動詞形式，構建在性、數和格上相應的完成時形式：
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -296,38 +297,30 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. 翻译练习
+## 34.8. 翻譯練習
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen:
+請將以下出自⟪पद्मपुराण⟫中關於布施給婆羅門的文本進行翻譯：
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*:sig[⟪त्तम⟫]* ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*:sig[⟪श्चतुर्दश⟫]* ⟪॥१॥⟫  
-*:sig[⟪सप्त⟫]*⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
-⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
-⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
-⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
-⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫*:sig[⟪र्जन्म⟫]* ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
-⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
-⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
+⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो⟫:sig[⟪त्तम⟫] ⟪। विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा⟫:sig[⟪श्चतुर्दश⟫] ⟪॥१॥⟫  
+sig[⟪सप्त⟫]⟪द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज । तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥ तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति । हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥ सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥ अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले । तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟫
 
-Erklärungen:
+註釋：
 
 ::: indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **⟪देव⟫** "Gott!"
+**呼格單數**的陽性/中性以-a結尾的名詞，其形式為-a：例如 ⟪देव⟫ "神啊！"
 
-**⟪चतुर्दश⟫** vierzehn
+⟪चतुर्दश⟫ 十四
 
-**:sig[⟪सप्त⟫]** sieben
+⟪सप्त⟫ 七
 
-**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt
+⟪जन्म⟫ **⟪जन्मन्⟫** n. 出生的主格/賓格單數
 
-**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
+**⟪सर्व⟫ 3** 「所有，全部」（依代詞變格法變化）
 :::
 ::: media
 ![](/images/lekt3407.webp)
-Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***:sig[⟪र्जन्म⟫]*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
-Hindu wedding ritual.
-(Bildquelle: [Details](/licenses#lekt3407))
+圖：⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥⟫
+印度教婚禮儀式。
+（圖片來源：[詳情](/zh/licenses#lekt3407)）
 :::
 

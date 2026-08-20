@@ -1,218 +1,223 @@
 ---
-title: Lektion 35
+title: "# 第35課"
 lesson_id: 35
 status: stable
+
 ---
 
 # 第35課
 
-## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+## 35.1. 完成時第三型：強詞幹高階/長音階
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**強詞幹：**
+*   第三人稱單數：長音階
+*   第二人稱單數：高階
+*   第一人稱單數：可選高階或長音階
 
-**schwacher Stamm:** siehe bei den Untertypen
+**弱詞幹：** 見各子類型
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+### 35.1.1. 完成時第三型a：強詞幹高階/長音階，弱詞幹低階
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe
+**弱詞幹：** 低階
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant) - i/ī/u/ū
-*   (Konsonant) - ṛ
+由以下類型的詞根構成：
+*   （輔音）-（輔音）- i/ī/u/ū
+*   （輔音）- ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt:
-*   -i/-ī durch -iy
-*   -u/-ū durch -uv
-*   -ṛ durch r
-Beispiele:
+在元音開頭的詞尾前，會發生替換：
+*   -i/-ī 替換為 -iy
+*   -u/-ū 替換為 -uv
+*   -ṛ 替換為 r
+範例：
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| 詞根 | 第三人稱單數完成時主動語態 | 第三人稱複數完成時主動語態 | 第三人稱單數完成時中動語態 | 第三人稱複數完成時中動語態 |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
-| ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
-| ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
+| ⟪इ⟫ 第二類 | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:br + iy + ur | | |
+| ⟪नी⟫ 第一類 | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
+| ⟪स्तु⟫ 第二類 | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. 完成時第三型b：強詞幹高階/長音階，弱詞幹高階
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
 :::
 ::: indent
-**Bildung:**
+**弱詞幹：** 高階
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant)-ṝ
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
-Beispiele:
+由以下類型的詞根構成：
+*   （輔音）-（輔音）-ṝ
+*   輔音-輔音-ṛ（即：在多個輔音之後的 -ṛ 詞根）
+範例：
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| 詞根 | 第三人稱單數完成時主動語態 | 第三人稱複數完成時主動語態 | 第三人稱單數完成時中動語態 | 第三人稱複數完成時中動語態 |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
-| ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
-| ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
+| ⟪पॄ⟫ 第三類 | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
+| ⟪स्मृ⟫ 第一類 | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
+| ⟪संस्कृ⟫ 第八類 | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. 完成時第四型：以 -ā / -āi 結尾的詞根
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**starker Stamm:**
-*   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+**強詞幹：**
+*   第三人稱/第一人稱單數主動態完成時以 -au 結尾
+*   第二人稱單數主動態：高階 -ā 或低階 -i
 
-**schwacher Stamm:**
-*   vor Konsonant: Tiefstufe -i
-*   vor Vokal: Tiefstufe Ø
+**弱詞幹：**
+*   輔音前：低階 -i
+*   元音前：低階 Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+由以 -ā / -āi 結尾的詞根構成
 :::
-Beispiel:
+範例：
 
-| Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| 詞根 | 第三人稱單數完成主動態:br第一人稱單數完成主動態 | 第三人稱複數完成主動態 | 第三人稱單數完成被動態 | 第三人稱複數完成被動態 |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. 完成時第五型：輔音-a-輔音結構的詞根
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**強詞幹：**
+*   第三人稱單數主動態：長音階
+*   第二人稱單數主動態：高階
+*   第一人稱單數主動態：可選高階或長音階
 
-**schwacher Stamm:** siehe Untertypen
+**弱詞幹：** 見子類型
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
+由 (輔音)-輔音-a-輔音類型的詞根構成
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+### 35.3.1. 完成時第五型Va：弱詞幹低階
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
 :::
 ::: indent
-**Bildung:**
+**弱詞幹：** 低階
 :::
-**schwacher Stamm:** Tiefstufe
+由以下詞根等構成：
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Beispiele:
+範例：
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| 詞根 | 第三人稱單數完成主動態 | 第三人稱複數完成主動態 | 第三人稱單數完成被動態 | 第三人稱複數完成被動態 |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | *:sig[⟪जघ्नुर्⟫]* | | |
+| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. 完成時類型 Vb：弱詞幹縮合（e-型）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
 :::
 ::: indent
-**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
-(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
+**弱詞幹：** 無重疊。將詞根中的 -a- 替換為 -e-  
+（解釋請參見 Thumb-Hauschild 1,2 第 286-287 頁）
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
-Beispiel:
+由在兩個簡單輔音之間含有 -a-，且其首輔音在重疊音節中不變化的詞根構成（即：首輔音不是軟腭音、送氣音或 h）。
+範例：
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| 詞根 | 第三人稱單數完成時主動態 | 第三人稱複數完成時主動態 | 第三人稱單數完成時中動態 | 第三人稱複數完成時中動態 |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
+| ⟪पच्⟫ 第一類動詞 | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+### 35.3.3. 完成時類型 Vc：輔音-a-輔音詞根。弱詞幹強級
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**schwacher Stamm:** Hochstufe
+**弱詞幹：** 強級（Guṇa）
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
-*   die mit zwei Konsonanten beginnen
-*   die mit Guttural beginnen
-*   die mit Aspirat beginnen
-*   die mit h beginnen
+由所有其他中間含有 -a- 的詞根構成，即：
+*   以兩個輔音開頭的詞根
+*   以軟腭音開頭的詞根
+*   以送氣音開頭的詞根
+*   以 h 開頭的詞根
 
-sofern sie nicht zu Perfekt Typ Va gehören.
+只要它們不屬於完成時類型 Va。
 :::
-Beispiel:
+範例：
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| 詞根 | 第三人稱單數完成時主動態 | 第三人稱複數完成時主動態 | 第三人稱單數完成時中動態 | 第三人稱複數完成時中動態 |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
+| ⟪क्रम्⟫ 第一類動詞 | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. 词汇表
+## 35.4. 詞彙表
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : verloren gehen, zugrundegehen, verschwinden
+⟪नश्⟫ 第四類動詞 ⟪नश्यति⟫ ：消失，毀滅，消亡
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
-**PPP ⟪नष्ट⟫**
+**完成時 Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**未來時 ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**使役動詞 ⟪नाशयति⟫** :br
+**過去被動分詞 ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 第四類動詞 ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** ：消失，毀滅，消亡
 
-**⟪क्रम्⟫** 1U *****:sig[⟪क्रा⟫]*****⟪मति⟫**, 4P *****:sig[⟪क्रा⟫]*****⟪म्यति⟫** : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : 行走，前進
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP ***:sig[⟪क्रा⟫]***⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**完成時第二種詞幹 ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**未來時 ⟪क्रमिष्यति⟫** :br
+**被動語態 ⟪क्रम्यते⟫** :br
+**使役 ⟪क्रमयति⟫** :br
+**過去被動分詞 :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**不定詞 ⟪क्रमितुम्⟫** :br
+**絕對構式 ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+圖：⟪क्रामन्ति⟫
+行走的人們，塞內加爾。
+（圖片來源：[詳情](/zh/licenses#lekt3502)）
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti)：歌唱，以吟誦的聲調宣讀，用韻文宣告
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫**
+**完成時第四種詞幹 ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**未來時 ⟪गास्यति⟫** :br
+**被動語態 ⟪गीयते⟫** :br
+**使役 ⟪गापयति⟫** :br
+**過去被動分詞 ⟪गीत⟫** :br
+**不定詞 ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+衍生自：
+**⟪गीता⟫ 陰性名詞：** 歌曲，歌聲
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
-Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+圖：⟪जगुः⟫
+卡杜·瑪萊什瓦拉寺廟的樂師，班加羅爾。
+（圖片來源：[詳情](/zh/licenses#lekt3501)）
 :::
-## 35.5. 练习
+## 第35.5節。練習
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) 為下列動詞形式構建相應的完成時形式：
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -228,7 +233,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmäßig, nach Typ Vb!
+15. ⟪भजन्ति⟫ 不規則，依第五類模式！
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -245,9 +250,9 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
-    Abb.: ⟪मिमति⟫
-Market in Vadaseri, Tamil Nadu.
-    (Bildquelle: [Details](/licenses#lekt3503))
+圖：⟪मिमति⟫
+瓦達塞里的市場，泰米爾納德邦。
+（圖片來源：[詳情](/zh/licenses#lekt3503)）
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -262,21 +267,17 @@ Market in Vadaseri, Tamil Nadu.
 40. ⟪जुह्वति⟫
 41. ⟪अहरत्⟫
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
-
-⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
+⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3504.webp)
-Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
+圖：... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
-(Bildquelle: [Details](/licenses#lekt3504))
+（圖片來源：[詳情](/zh/licenses#lekt3504)）
 :::
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
+C) 將練習B中的句子進行轉換，用未完成體（Imperfekt）取代完成體（Perfekt）。
 

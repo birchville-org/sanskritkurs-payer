@@ -1,54 +1,55 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "第45課"
+subtitle: "第二人稱動詞形式的構成（⟪मध्यमः⟫）無元音結尾詞尾的非主題詞幹（續）"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第45課
 
-## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
+## 45.1. 第二人稱動詞形式的構成（⟪मध्यमः⟫）無元音結尾詞綴的非主題詞幹（續）
 
-### 45.1.1. 第三类现在时词干 (⟪जुहोत्यादि⟫)
+### 45.1.1. 第三現在時類（⟪जुहोत्यादि⟫）
 
-⟪हु⟫ 3P
-
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| --- | --- | --- | --- | --- |
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
-:::
-⟪धा⟫ 2U
+⟪हु⟫ 第三人稱單數
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+| **直陳式現在時** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **未完成式** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **願望式** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
-### 45.1.2. 第七类现在时词干 (⟪रुधादि⟫)
-
-::: grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen**
-
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***:sig[⟪ङ्ते⟫]***
-:::
-⟪युज्⟫ 7U
+⟪धा⟫ 第二人稱單數
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+| **直陳式現在時** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **未完成式** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **願望式** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+:::
+### 45.1.2. 第七現在時類（⟪रुधादि⟫）
+
+::: grammar-box
+**如果詞根的終結輔音 k/g 出現在鼻音 ṅ 和詞尾的齒音之間，那麼可以選擇省略 k/g**
+
+例如：⟪युज्⟫ 第三人稱單數直陳式現在時 Ā ⟪युङ्क्ते⟫ 或 ⟪यु⟫:sig[⟪ङ्ते⟫]
+:::
+⟪युज्⟫ 第七類
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **直陳式現在時** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **未完成式** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **願望式** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
@@ -56,94 +57,88 @@ z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ ode
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
+| **直陳語現在式** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **未完成過去式** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (不規則！) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **虛擬語氣** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. 呼格单数（⟪आमन्त्रितमेकवचने⟫）
+## 45.2. 呼格單數 (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.**
+**大多數呼格單數形式為詞幹加上高聲調的尾音。**
 
-z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w.
+例如：**⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** 等。
 
-**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.**
+**例外情況為以 -ā 和 -ī 結尾的陰性名詞，以及以 -in 為詞幹的名詞，其呼格單數形式需特別注意。**
 :::
 ::: no-header
-| | Vokativ Singular |
+| | 呼格單數 |
 | --- | --- |
-| Maskulina auf -a | ⟪देव⟫ |
-| Neutra auf -a | ⟪फल⟫ |
-| Feminina auf -ā | ⟪देवते⟫ |
-| Maskulina auf -i | ⟪कवे⟫ |
-| Feminina auf -i | ⟪मते⟫ |
-| Maskulina auf -u | ⟪शत्रो⟫ |
-| Feminina auf -u | ⟪धेनो⟫ |
-| Feminina auf -ī | ⟪देवि⟫ |
-| Maskulina auf -ṛ | ⟪पितर्⟫ |
-| Feminina auf -ṛ | ⟪मातर्⟫ |
-| Maskulina auf -an | ⟪राजन्⟫ |
-| Neutra auf -an | ⟪नामन्⟫:br⟪नाम⟫ |
-| Maskulina auf -man/-van | ⟪आत्मन्⟫ |
-| Maskulina auf -in | ⟪बलिन्⟫ |
-| Maskulina auf -ant | ⟪बलिन्⟫:br⟪बलि⟫ |
-| mahānt m. | ⟪महन्⟫ |
-| mahānt n. | ⟪महत्⟫:br= Nominativ |
-| Maskulina auf -mant/-vant | ⟪गुणवन्⟫ |
-| Neutra auf -mant/-vant | ⟪गुणवत्⟫:br= Nominativ |
-| Pronomina | ein Vokativ wird nicht gebildet |
+| 以 -a 結尾的陽性名詞 | ⟪देव⟫ |
+| 以 -a 結尾的中性名詞 | ⟪फल⟫ |
+| 以 -ā 結尾的陰性名詞 | ⟪देवते⟫ |
+| 以 -i 結尾的陽性名詞 | ⟪कवे⟫ |
+| 以 -i 結尾的陰性名詞 | ⟪मते⟫ |
+| 以 -u 結尾的陽性名詞 | ⟪शत्रो⟫ |
+| 以 -u 結尾的陰性名詞 | ⟪धेनो⟫ |
+| 以 -ī 結尾的陰性名詞 | ⟪देवि⟫ |
+| 以 -ṛ 結尾的陽性名詞 | ⟪पितर्⟫ |
+| 以 -ṛ 結尾的陰性名詞 | ⟪मातर्⟫ |
+| 以 -an 結尾的陽性名詞 | ⟪राजन्⟫ |
+| 以 -an 結尾的中性名詞 | ⟪नामन्⟫:br⟪नाम⟫ |
+| 以 -man/-van 結尾的陽性名詞 | ⟪आत्मन्⟫ |
+| 以 -in 結尾的陽性名詞 | ⟪बलिन्⟫ |
+| 以 -ant 結尾的陽性名詞 | ⟪बलिन्⟫:br⟪बलि⟫ |
+| mahānt 陽性 | ⟪महन्⟫ |
+| mahānt 中性 | ⟪महत्⟫:br= 主格 |
+| 以 -mant/-vant 結尾的陽性名詞 | ⟪गुणवन्⟫ |
+| 以 -mant/-vant 結尾的中性名詞 | ⟪गुणवत्⟫:br= 主格 |
+| 代詞 | 不構成呼格形式 |
 :::
 ::: media
 ![](/images/lekt4501.webp)
-Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Bildquelle: [Details](/licenses#lekt4501))
+圖：⟪भवति किं करोषि⟫
+（圖片來源：[詳情](/zh/licenses#lekt4501)）
 :::
-## 45.3. 词汇表
+## 45.3. 詞彙表
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ ：或者……或者
 
-## 45.4. 练习
+## 45.4. 練習
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden):
+A) 譯為梵文（對於過去時態，請使用未完成時 \&lt;⟪लङ्⟫\&gt;）：
 
-1\. Du spaltest die (buddhistische) Gemeinde.
+1\. 你分裂了（佛教的）僧團。
 
 ::: indent
-zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
+關於僧團分裂（⟪सङ्घभेद⟫）請參見：
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–)：** Vinayamukha ：上座部佛教戒律與僧團法的基本概念。 -- 第一部分。 -- （佛教基本概念資料）。 -- _網址_：[http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Habt ihr die Erde genossen?
+2\. 你們享受過大地嗎？
 
-3\. Hast du vom König eine Gabe empfangen?
+3\. 你從國王那裡接受了一份禮物嗎？
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+4\. 聖人，你為何不害怕危險？
 
-5\. Vater, wohin verlässt du die Familie?
+5\. 父親，你要將家庭帶往何處？
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen?
+6\. 首陀羅婦，你將重擔扛進富有的婆羅門家中了嗎？
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
+7\. 女神，你應該滿足那位行善的吠舍對幸福的願望。
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen.
+8\. 大象，你們不應該折斷鎖鏈。
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)?
+9\. 你如獅子般的男子，為何不將全部注意力集中在絕對真理（梵）上？
 
-10\. Hast du, Dichter, die Welten gemessen?
+10\. 詩人，你丈量過世界嗎？
 
-B) Übersetzen Sie:
+B) 翻譯：
 
-⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫
-
-⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫
-
-⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
+⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥ भवति कथमनन्तदुःखमरुणत् ॥२॥ ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥ शत्रो शस्तेण जीवं न छिनत्सि ॥४॥⟫
 
 ::: media
 ![](/images/lekt4502.jpg)
-Abb.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Bildquelle: [Details](/licenses#lekt4502))
+圖：⟪कन्ये किं लिखसि⟫
+（圖片來源：[詳情](/zh/licenses#lekt4502)）
 :::
 

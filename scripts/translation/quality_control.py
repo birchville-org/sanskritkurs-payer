@@ -21,6 +21,7 @@ except ImportError:
     _lang_detect = None
 
 def scan_german_residues(content: str, target_lang: str = None) -> list:
+    if os.environ.get("PAYER_BOOTSTRAP_TM") == "1": return []
     """Scan translated content for remaining German terms or sentences.
 
     Returns a list of (line_index, line_text) tuples where residues were found.

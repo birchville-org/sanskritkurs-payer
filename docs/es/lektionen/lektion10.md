@@ -1,11 +1,10 @@
 ---
-title: "Lección 10"
-subtitle: "La oración pasiva (Instrumental del agente)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
-
 ---
 
 # Lección 10
@@ -14,7 +13,7 @@ status: stable
 
 ::: grammar-box
 **Esquema:**
-**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativooooooo) - forma verbal pasiva**
+**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativooooooooo) - forma verbal pasiva**
 
 p.ej. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Un brahmán venera a un dios con un sacrificio" (literalmente: "Un dios es venerado por un brahmán con un sacrificio.")
 
@@ -23,13 +22,13 @@ Esta oración es **totalmente (!) equivalente en significado** con la oración:
 :::
 
 ::: grammar-box
-- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativooooooo** (prathamā f.).
+- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativooooooooo** (prathamā f.).
 - Las oraciones pasivas en las que no se designa al Agente suelen tener un significado impersonal ("uno"):
   p.ej. **ijyate** = ⟪इज्यते⟫ "Uno sacrifica" (literalmente: "se venera con un sacrificio").
 :::
 
 ::: grammar-box
-**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativooooooo (prathamā) en la oración pasiva:**
+**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativooooooooo (prathamā) en la oración pasiva:**
 
 A la oración activa **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma va a la aldea." corresponden las oraciones pasivas:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -96,7 +95,6 @@ Las construcciones pasivas del sánscrito son extremadamente frecuentes: el pasi
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Sobre el uso del instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -106,13 +104,11 @@ Las construcciones pasivas del sánscrito son extremadamente frecuentes: el pasi
 - **¿Con quién?**
 
 **Se utiliza**
-1. **en oraciones pasivas: el agente (kartṛ) en instrumental**
-2. **para indicar el medio o instrumento con el que se realiza algo**
-3. **para indicar la vía o camino por el que alguien llega a un lugar**
-4. **para expresar la conexión, unión o acompañamiento de**
-5. **con postposiciones en el significado "junto con, con"; p. ej. saha = ⟪सह⟫ = "con"**
-p. ej.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "junto con el brahmán"
+1. **para indicar el medio o instrumento con el que se realiza algo**
+2. **para indicar la vía o camino por el que alguien llega a un lugar**
+3. **para expresar la conexión, unión o acompañamiento de**
+4. **con postposiciones en el significado "junto con, con"; p. ej. saha = ⟪सह⟫ = "con"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "junto con el brahmán"
 :::
 Otros usos del instrumental (tṛtīyā) se presentan más adelante.
 
@@ -163,56 +159,47 @@ por ejemplo
 ### 10.4.1. Reglas especiales para la formación del pasivo
 
 1. **Raíces terminadas en -i o -u** alargan su vocal antes del sufijo pasivo **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Raíces con -a- entre consonantes** (excepto nasales, y, r, v) permanecen en grado pleno:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Algunas raíces forman su pasivo en grado pleno** (o en el grado de ablaut de la raíz del presente):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Grado profundo de verbos que comienzan con ya, va, ra, o en los que estos sonidos siguen a otro consonante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-| Raíz:br⟪धातु⟫ | Grado profundo:br⟪सम्प्रसारण⟫ | Pasivo:br⟪यक्⟫ |
-| :--- | :--- | :--- |
-| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+   | Raíz:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 La denominación tradicional nativa para esta formación del grado profundo en verbos con **ya** o **va** es **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ final** tras una única consonante se reemplaza por **-ri-** antes del sufijo pasivo **-ya-**:
-* **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Pero: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * Pero: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
 6. **Algunas raíces en -an tienen alternativamente dos formaciones de la raíz pasiva:**
-* una **-an-ya**
-* una **-ā-ya-** (la **ā** larga es un representante de una nasal larga hipotética)
+   * una **-an-ya**
+   * una **-ā-ya-** (la **ā** larga es un representante de una nasal larga hipotética)
 
 p. ej. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
-
-
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Lista de palabras
 
-**Aprenda las siguientes palabras:**
+**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
 
-**gṛha** n. ⟪गृह⟫ : casa
-**grāma** m. ⟪ग्राम⟫ : aldea
-**nagara** n. ⟪नगर⟫ : ciudad
+- **gṛha** n. ⟪गृह⟫ : Haus <!-- TODO: Fallback translation -->
+- **Aprenda las siguientes palabras:**
+- **gṛha** n. ⟪गृह⟫ : casa
 
   ::: note-box
   Para la vida urbana y rural, véase Basham, *Wonder*, cap. 6.
@@ -235,11 +222,13 @@ p. ej. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : maldad, mal (contrario a **puṇya**)
 - **satya** n. ⟪सत्य⟫ : verdad
 
-::: note-box
+:::: note-box
 En la India, se atribuía al palabra verdadera un poder mágico; de hecho, todo el orden mundial se mantiene y se crea mediante la palabra verdadera. Para esta idea importante, véase la obra fundamental:
 
+::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

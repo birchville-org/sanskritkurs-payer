@@ -4,19 +4,19 @@ layout: home
 hero:
   name: "ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ"
   text: "ਇੱਕ ਪੂਰਾ ਅਧਿਆਪਨ ਕੋਰਸ"
-  tagline: "ਐਲੋਇਸ ਪਾਯਰ (ਟਿੱਪਫ਼ਲੀ ਦੀ ਗਲੋਬਲ ਵੇਲਜ ਲਾਇਬ੍ਰੇਰੀ) ਦੁਆਰਾ"
+  tagline: "ਐਲੋਇਸ ਪਾਯਰ (ਟਿੱਪਫ਼ਲੀ ਦੀ ਗਲੋਬਲ ਵੇਲੀ ਲਾਇਬ੍ਰੇਰੀ) ਦੁਆਰਾ"
   actions:
     - theme: brand
       text: "ਕੋਰਸ ਸ਼ੁਰੂ ਕਰੋ"
       link: /pa/lektionen/lektion01
     - theme: alt
-      text: "ਵਿਆਕਰਣ ਥੀਮਾਂ"
+      text: "ਵਿਆਕਰਣ ਮੁੱਦੇ"
       link: /pa/grammatik
 
 features:
   - title: "Devanāgarī ready"
     details: "ਭਾਰਤੀ ਲਿਪੀਆਂ ਲਈ ਪੂਰਨ, ਇੰਟੀਗ੍ਰੇਟਿਡ ਟਾਈਪੋਗ੍ਰਾਫ਼ੀ।"
-  - title: "ਆਸਾਨ ਨਾਲ ਖੋਜਯੋਗ"
+  - title: "ਆਸਾਨੀ ਨਾਲ ਖੋਜਯੋਗ"
     details: "ਇੱਕ ਗਹਿਰੀ ਸਥਾਨਕ ਪੂਰਣ-ਪਾਠ ਖੋਜ ਜਾਣੇ-ਪਛਾਣੇ ਗਿਆਨ ਨੂੰ ਬਟਨ ਦੇ ਦਬਾਉਣ 'ਤੇ ਉਪਲਬਧ ਕਰਵਾਉਂਦੀ ਹੈ।"
   - title: "ਆਧੁਨਿਕ ਢਾਂਚਾ"
     details: "ਵੱਧ ਤੋਂ ਵੱਧ ਗਤੀ ਲਈ VitePress ਦੇ ਆਧਾਰ 'ਤੇ ਤਿਆਰ।"

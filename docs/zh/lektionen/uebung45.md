@@ -1,66 +1,66 @@
-
 ---
-title: "Übung 45"
+title: "練習45"
 uebung_id: 45
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習45
 
-A) Übersetzen Sie ins Sanskrit (verwenden Sie für die Vergangenheit das Imperfekt):
+A) 請將以下內容翻譯成梵文（過去時態使用未完成體）：
 
-⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Du spaltest die (buddhistische) Gemeinde.
+⟪१⟫. **⟪सङ्घं भिनत्सि ॥ १ ॥⟫**
+你分裂了（佛教的）僧團。
 
-⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Habt ihr die Erde genossen?
+⟪२⟫. **⟪किं महीमभुङ्क्त ॥ २ ॥⟫**
+你們享受了大地嗎？
 
-⟪३⟫. **⟪किं⟫ ⟪राज्ञो⟫ ⟪दानमादत्थाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **... ⟪राज्ञा⟫ ...**)
-Hast du vom König eine Gabe empfangen?
+⟪३⟫. **⟪किं राज्ञो दानमादत्थाः ॥ ३ ॥⟫**（或者：**... ⟪राज्ञा⟫ ...**）
+你從國王那裡接受了賞賜嗎？
 
-⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+⟪४⟫. **⟪साधो कस्माद्भयेभ्यो न बिभेषि ॥ ४ ॥⟫**
+聖人，你為何不害怕危險？
 
-⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Vater, wohin gehend verlässt du die Familie?
+⟪५⟫. **⟪पितः कुत्र गच्छन्कुलं जहासि ॥ ५ ॥⟫**
+父親，你前往何處而拋下家庭？
 
-⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra-Frau, hast du etwa die Last in das Haus des reichen Brahmanen getragen?
+⟪६⟫. **⟪शूद्रे ऽपि धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥ ६ ॥⟫**
+首陀羅婦女，你難道將重擔搬進了富有的婆羅門家中嗎？
 
-⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
+⟪७⟫. **⟪देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥ ७ ॥⟫**
+女神，你應該滿足行善的吠舍對幸福的渴望。
 
-⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oder: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Elefanten, ihr solltet die Fesseln nicht zerbrechen.
+⟪८⟫. **⟪हस्तिनो बन्धनानि न भञ्ज्यात ॥ ८ ॥⟫**（或者：**... ⟪न भिन्द्यात ॥⟫**）
+大象們，你們不應該掙斷鎖鏈。
 
-⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Du löwengleicher Mann, warum richtest du deine Aufmerksamkeit nicht ganz auf das Absolute?
+⟪९⟫. **⟪नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥ ९ ॥⟫**
+你這如獅子般的男子，為何不將你的注意力完全集中在絕對真理上？
 
-⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Hast du, o Dichter, etwa die Welten gemessen?
+⟪१०⟫. **⟪कवे कच्चिल्लोकानमिमीथाः ॥ १० ॥⟫**
+你這詩人，難道丈量過世界嗎？
 
 ---
 
-## Übungstexte
+## 練習文本
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, entweder wirst du getötet und den Himmel erreichen, oder du wirst siegen und die Erde geniessen. Deshalb ist von dir zu kämpfen (musst du kämpfen).
+⟪१⟫. **⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥ १ ॥⟫**
+阿周那，你要么被殺並到達天界，要么獲勝並享受大地。因此，你必須戰鬥（你要去戰鬥）。
 
-⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
+⟪२⟫. **⟪भवति कथमनन्तदुःखमरुणत् ॥ २ ॥⟫**
+具德者，您是如何終結這無盡的苦難的？
 
-⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Brahmane, hast du Ghee ins Opferfeuer gegossen?
+⟪३⟫. **⟪ब्राह्मण किमग्नौ घृतमजुहोः ॥ ३ ॥⟫**
+婆羅門，您將酥油澆入了祭火之中嗎？
 
-⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
+⟪४⟫. **⟪शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥⟫**
+敵人，您並未以劍劈開靈魂（生命）。
 
 ::: media
 ![](/images/uebung074.webp)
-Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
-(Bildquelle: [Details](/licenses#uebung074))
+圖：⟪हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात⟫
+（圖片來源：[詳情](/licenses#uebung074)）
 :::

@@ -1,18 +1,18 @@
-
 ---
-title: "Übung 39"
+title: "練習39"
 uebung_id: 39
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# 練習39
+# 練習 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) 請根據以下動詞形式，構出第一人称的形式，該形式在數、時態、語氣（直陳式、虛擬式）和體貌（完成體、中動/被動語態）上與該動詞形式相對應：
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 第三人稱 | 第一人称 |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -33,7 +33,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 | ⟪१७⟫. ⟪विक्रेष्यन्ते⟫ | ⟪विक्रेष्यामहे⟫ |
 | ⟪१८⟫. ⟪खाद्यते⟫ | ⟪खाद्ये⟫ |
 | ⟪१९⟫. ⟪आगच्छन्⟫ | ⟪आगच्छाम⟫ |
-| ⟪२०⟫. ⟪अगीयत⟫ | ⟪अगी⟫ye |
+| ⟪२०⟫. ⟪अगीयत⟫ | ⟪अगी⟫ye
 | ⟪२१⟫. ⟪चरिष्यति⟫ | ⟪चरिष्यामि⟫ |
 | ⟪२२⟫. ⟪अचोरयत्⟫ | ⟪अचोरयम्⟫ |
 | ⟪२३⟫. ⟪चिनुयुः⟫ | ⟪चिनुयाम⟫ |
@@ -106,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+圖：⟪आगारे सीदामः⟫
+（圖片來源：[詳情](/licenses#uebung064)）
 :::
 

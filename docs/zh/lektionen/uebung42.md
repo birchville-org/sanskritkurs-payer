@@ -1,77 +1,69 @@
-
 ---
-title: "Übung 42"
+title: "練習42"
 uebung_id: 42
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習42
 
-Übersetzen Sie:
+請翻譯：
 
-⟪१⟫. **⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Wer sieht, dass die Handlungen (allein) durch die materielle Natur (⟪प्रकृति⟫) vollzogen werden, der sieht, dass das Selbst (⟪आत्मा⟫) untätig ist.
+⟪१⟫。**⟪प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥ १ ॥⟫**
+誰看見行為（僅）由物質自然（⟪प्रकृति⟫）所執行，誰就看見自我（⟪आत्मा⟫）是不動的。
 
-⟪२⟫. **⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Kṛṣṇa ist Vater, Mutter, Grossvater und Schöpfer dieser Welt.
+⟪२⟫。**⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥ २ ॥⟫**
+奎師那（Kṛṣṇa）是這世界之父、之母、之祖父及創造者。
 
-⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Lehrer, Väter, Söhne, Grossväter, Schwiegerväter und Enkel haben sich zum Kampf aufgestellt. Diese will ich nicht töten!" — so sprach Arjuna in der Bhagavadgītā.
+⟪३⟫。**⟪आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥ ३ ॥⟫**
+「老師、父親、兒子、祖父、岳父及孫子們已列陣準備戰鬥。我絕不願殺害這些人！」——阿周那（Arjuna）在《薄伽梵歌》中如此說道。
 
-⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Dichter priesen Väter und Mütter für die Erlangung der Vaterschaft (bzw. Elternschaft).
+⟪४⟫。**⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥ ४ ॥⟫**
+詩人讚頌父親與母親，因為他們獲得了父職（或親職）。
 
-⟪५⟫. **⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Die Gattin ist vom Gatten zu unterhalten. Deshalb wird sie "bhāryā" (die zu Erhaltende) genannt.
+⟪५⟫。**⟪भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥ ५ ॥⟫**
+妻子應由丈夫供養。因此她被稱為「bhāryā」（被供養者）。
 
-⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Ein guter Sohn gibt seinen Vorvätern Speiseopfer (⟪पिण्ड⟫). Durch die Vorväter wird die Gabe der Speise gegessen, und so kann man ein glückliches Leben führen.
+⟪६⟫。**⟪सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥ ६ ॥⟫**
+好兒子為其先祖供養食物祭品（⟪पिण्ड⟫）。透過先祖，食物的供養被享用，如此便能過上幸福的生活。
 
-⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Ein Bruder darf seine Schwester nicht heiraten. Wenn ein Bruder seine Schwester begehrt, zürnen die Götter.
+⟪७⟫。**⟪भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥ ७ ॥⟫**
+兄弟不得娶其姊妹為妻。若兄弟覬覦其姊妹，諸神將震怒。
 
-⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Wie wird der Bruder des Ehemanns genannt? Der Gattenbruder ist als "devara" (Schwager) zu bezeichnen.
+⟪८⟫。 **⟪क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥ ८ ॥⟫**
+丈夫的兄弟被稱為什麼？夫之弟（devara，即小叔子）應稱為「devara」。
 
-⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Der Vater wünschte die Erlangung von Enkeln.
+⟪९⟫。 **⟪नप्तॄणां लाभं पितैच्छत् ॥ ९ ॥⟫**
+父親希望獲得孫子。
 
 ::: media
 ![](/images/uebung068.webp)
-Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Bildquelle: [Details](/licenses#uebung068))
+圖：⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫
+（圖片來源：[詳情](/licenses#uebung068)）
 :::
 ---
 
-## Erzählung: Sītās Hochzeit (⟪सीताविवाहः⟫)
+## 故事：悉多的婚禮（⟪सीताविवाहः⟫）
 
-⟪पुरा⟫ ⟪मिथिलायां⟫ ⟪जनको⟫ ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमारा⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा मिथिलायां जनको नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमारा जनकाय दूतान्प्रेषयामासुः ॥ जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ — ⟪तस्य सकाशे गुरुतरं किमपि धनुरासीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा शतशो राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक । लङ्काधिपती रावणो ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे ऽयोध्याधिपतेर्दशरथस्य पुत्रः श्रीरामः सलक्ष्मणो विश्वा्मित्रेण तत्रानीयत । श्रीरामो महर्षेर्विश्वामित्रस्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ — ⟪तस्य⟫ ⟪सकाशे⟫ ⟪गुरुतरं⟫ ⟪किमपि⟫ ⟪धनुरासीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
+⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन सीतरामयोर्विवाहोत्सवं निरवर्तयन् ॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ⟪शतशो⟫ ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ⟪लङ्काधिपती⟫ ⟪रावणो⟫ ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
+**翻譯：**
+從前，在米提拉有一位名叫詹卡（Janaka）的國王。他有一個女兒名叫悉多（Sītā）。她的美貌與德行無可匹敵。許多想娶她的王子們，都向詹卡派遣使者。
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ⟪ऽयोध्याधिपतेर्दशरथस्य⟫ ⟪पुत्रः⟫ ⟪श्रीरामः⟫ ⟪सलक्ष्मणो⟫ ⟪विश्वा्मित्रेण⟫ ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्रीरामो⟫ ⟪महर्षेर्विश्वामित्रस्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+然而，詹卡國王希望將她許配給一位勇猛的剎帝利王子。因此他規定，必須透過英雄氣概來「贏得」她。情況是這樣的：他擁有一張極其沉重的弓。詹卡承諾道：「誰能拾起這張弓並搭上箭矢，誰就能娶我的女兒為妻。」
 
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
+當王子們聽到這個承諾時，成百上千地趕來。然而沒有一人能移動這張弓哪怕一絲一毫。眾所周知，連蘭卡（Laṅkā）的統治者羅波那（Rāvaṇa）也傲慢地出現，最終羞愧而歸。當詹卡看到所有王子都返回時，他充滿擔憂，不知誰將成為他女兒的丈夫。與此同時，大仙人毗濕瓦密多羅（Viśvāmitra）帶領著阿約提亞（Ayodhyā）國王達沙拉塔（Daśaratha）的兒子羅摩（Rāma），以及拉克什曼那（Lakṣmaṇa）前往那裡。在偉大仙人毗濕瓦密多羅的指示下，傑出的羅摩輕鬆地拾起了弓。當他搭上箭矢時，弓斷成了兩截。
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ⟪सीतरामयोर्विवाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+「好！好！」——人們讚頌傑出羅摩的英雄氣概。
 
-**Übersetzung:**
-Einstmals gab es in Mithilā einen König namens Janaka. Er hatte eine Tochter namens Sītā. Sie war unvergleichlich an Schönheit und Tugend. Viele Prinzen, die sie heiraten wollten, sandten Boten zu Janaka.
-
-Janaka aber wollte sie einem kraftvollen Kṣatriya-Prinzen geben. Deshalb bestimmte er, dass sie durch Heldenkraft "erkauft" werden müsse. Es verhielt sich so: Er besass einen überaus schweren Bogen. Janaka versprach: "Wer diesen Bogen aufhebt und einen Pfeil darauf spannt, der soll meine Tochter heiraten."
-
-Als sie dieses Versprechen hörten, kamen Prinzen zu hunderten herbei. Doch nicht einer von ihnen vermochte den Bogen auch nur zu bewegen. Es ist bekannt, dass selbst Rāvaṇa, der Herrscher von Laṅkā, voller Hochmut erschien und beschämt umkehrte. Als Janaka sah, dass alle Prinzen zurückkehrten, wurde er voller Sorge, wer wohl der Gatte seiner Tochter sein würde. Inzwischen führte Viśvāmitra den Rāma, den Sohn des Königs Daśaratha von Ayodhyā, zusammen mit Lakṣmaṇa dorthin. Auf Geheiss des grossen Ṛṣi Viśvāmitra hob der herrliche Rāma den Bogen spielend leicht auf. Sobald er einen Pfeil darauf anlegte, zerbrach der Bogen in zwei Teile.
-
-"Gut, gut!" — so priesen die Leute die Heldenkraft des herrlichen Rāma.
-
-Das Herz des Königs Janaka war hocherfreut. Dann liess er Daśaratha und die anderen kommen und feierte mit grossem Prunk das Hochzeitsfest von Sītā und Rāma.
+詹卡國王的心充滿了極大的喜悅。隨後，他召來達沙拉塔和其他人，並以盛大的排場慶祝悉多與羅摩的婚禮。
 
 ::: media
 ![](/images/uebung069.webp)
-Abb.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
-(Bildquelle: [Details](/licenses#uebung069))
+圖：⟪श्रीसीता श्रीरामश्च⟫
+（圖片來源：[詳情](/licenses#uebung069)）
 :::

@@ -38,7 +38,6 @@ Isten, tedd minden vállalkozásomat
 Akadálymentessé!
 :::
 
-:::
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
@@ -73,9 +72,11 @@ A szójelentésnek.
 
 Kezdésképpen egy kuriózum:
 
->"Amikor William Jones [1746–1794] és Henry Thomas Colebrooke (1765—1857) először alaposan tanulmányozta, részben lefordította és megállapította, hogy a szanszkrit gazdag irodalommal és jelentős rokonsággal rendelkezik a klasszicista nyelvekkel, nem kis ellenállásba ütköztek. Mivel ez az intím kapcsolat a szanszkrit és a földrajzilag oly távoli európai nyelvek között nem egyeztethető össze a régi felfogásokkal, amelyek vagy minden nyelvet héberből vezettek le, vagy nagy részükben egymástól izolálták őket, ezért a híres filológus Dugald Steward (1753—1828) a legegyszerűbb kiutat választotta, amikor az egész történetet a szanszkrit nyelvvel hazugságnak nyilvánította. Írt egy esszét, amelyben megpróbálta bizonyítani, hogy a ravasz brahmanák a görög és latin mintájára kovácsolták össze, és hogy mind a nyelv, mind az irodalom hamisítvány. Ezt a nézetet még 1840-ben Charles William dublini professzor, Charles William Wall részletesen kifejtette (Göttingische gelehrte Anzeigen 1842, 1888. o.)."
 >
 >[Forrás: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Hozzáférés: 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Irodalom kezdőknek az indológiában
 
@@ -95,7 +96,9 @@ Kezdésképpen egy kuriózum:
 
 A legjobb rendszerezett grammatika:
 
-> **Kielhorn**, Franz (1840–1908): A szanszk nyelv grammatikája / W. Solf [1862 - 1936] angolból fordította. -- Berlin : Dümmler, 1888. -- XIII, 238 old. -- Eredeti cím: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -115,7 +118,9 @@ Jó rendszeres grammatika a bennszülött nyelvtudósok alapjain, valamint bevez
 
 Egy jó, tömör áttekintést az európai nyelvészeti terminológiáról a következő műben találunk:
 
-> **Német nyelv etimológiai szótára** / [Friedrich] Kluge (1856–1926). Készítette: Elmar Seebold. -- 24., átdolgozott és bővített kiadás.. -- Berlin [és m.] : de Gruyter, 2002. - LXXXIX, 1023 o. : 24 cm. -- ISBN 3-11-017473-1 Kötött kiadás. -- XIII - XLVII. o.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

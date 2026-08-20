@@ -1,30 +1,29 @@
+# 書寫練習 11
 
-# Schriftübung 11
+### 數字
 
-### Ziffern
-
-Folgende zwei Schreibweisen sind gebräuchlich:
+以下兩種寫法較為常見：
 
 ![](/images/schrift026.jpg)
 
-Variante in der Schrifttype von Kielhorns Grammatik:
+基爾霍恩（Kielhorn）語法書中的字體變體：
 
 ![](/images/schrift027.jpg)
 
-### Übung
+### 練習
 
-A) Schreiben Sie in Devanāgarī:
+A) 以天城文書寫：
 
 123 654 587 908 1007 9876 34 12 14 16 27 38 49 50 12 23 34 45 56 67 78 89 98 76 65 54 43 32 21
 
-B) Lesen und transliterieren Sie:
+B) 朗讀並轉寫：
 
-⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
+⟪१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६⟫
 
-### Klassifikation der Laute des Sanskrit (aus: Kielhorn: Grammatik der Sanskritsprache)
+### 梵語音素的分類（摘自：基爾霍恩《梵語語法》）
 
 ![](/images/schrift028.webp)
 
-### Ende der Schriftübungen
+### 書寫練習結束
 
-## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫
+## ⟪ॐ श्रीगणेशाय नमः ॐ⟫

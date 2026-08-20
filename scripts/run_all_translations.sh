@@ -78,13 +78,13 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
         ELAPSED_FMT="$(($ELAPSED / 3600))h $((($ELAPSED % 3600) / 60))m $(($ELAPSED % 60))s"
         echo "[$TOP_LANG] ✓ Finished translation run in $ELAPSED_FMT. Re-evaluating status..."
 
-        NEW_QUEUE_LEN=$(python3 -c "
+        IS_COMPLETED=$(python3 -c "
 import sys; sys.path.insert(0, 'scripts')
-from generate_report import get_translation_queue
-print(len(get_translation_queue('$TOP_LANG')))
-" 2>/dev/null || echo "1")
+from translation_qa import is_language_completed
+print('1' if is_language_completed('$TOP_LANG') else '0')
+" 2>/dev/null || echo "0")
 
-        if [ "$NEW_QUEUE_LEN" -eq 0 ]; then
+        if [ "$IS_COMPLETED" -eq 1 ]; then
             echo "🎉 [COMPLETED] [$TOP_LANG] is 100% clean (136/136 files)!"
             python3 scripts/send_notification_email.py "Sanskritkurs Fertiggestellt: $TOP_LANG (100% Sauber)" "Die Sprache [$TOP_LANG] wurde erfolgreich zu 100% vollständig und sauber übersetzt (136/136 Dateien, 0 Fallbacks). Dauer des letzten Durchlaufs: $ELAPSED_FMT." 2>/dev/null || true
         fi

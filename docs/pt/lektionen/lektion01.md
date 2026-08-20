@@ -21,7 +21,6 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Fonte da imagem: [Detalhes](/licenses#lekt0102))
 :::
 
-:::
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -73,9 +72,11 @@ Do significado da palavra.
 
 Para começar, uma curiosidade:
 
->"Quando William Jones [1746–1794] e Henry Thomas Colebrooke (1765—1857) estudaram pela primeira vez o sânscrito a fundo, traduziram-no parcialmente e descobriram que possuía uma rica literatura e um parentesco não insignificante com as línguas clássicas, encontraram uma resistência não insignificante. Como as antigas visões, que derivavam todas as línguas do hebraico ou as isolavam em grande parte umas das outras, não podiam ser conciliadas com esta íntima relação do sânscrito com as línguas europeias geograficamente tão distantes, o famoso filólogo Dugald Steward (1753—1828) tomou o caminho mais fácil, declarando toda a história da língua sânscrita como uma mentira. Ele escreveu um ensaio no qual procurou provar que ela tinha sido forjada pelos brâmanes malandros segundo o modelo do grego e do latim, e que tanto a língua como a literatura eram uma falsificação. Esta opinião foi ainda desenvolvida extensivamente no ano de 1840 pelo professor em Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
 >
 >[Fonte: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- Munique : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acedido em 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Literatura para iniciantes em Indologia
 
@@ -95,9 +96,10 @@ Fig.: Página de rosto
 
 A melhor gramática sistemática:
 
-> **Kielhorn**, Franz \<1840-1908\>: Gramática da Língua Sânscrita / Traduzido do inglês por W. Solf [1862 - 1936]. -- Berlim : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
-
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 :::
+
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Título da capa
@@ -116,7 +118,9 @@ Fig.: Título da capa
 
 Uma boa e concisa apresentação da terminologia linguística europeia pode ser encontrada em:
 
-> **Dicionário Etimológico da Língua Alemã** / [Friedrich] Kluge \<1856 - 1926\>. Editado por Elmar Seebold. -- 24ª ed., rev. e aum.. -- Berlim [e.a.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Brochura. -- p. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

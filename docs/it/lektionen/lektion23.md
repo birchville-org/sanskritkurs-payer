@@ -70,87 +70,35 @@ Esempi:
 ::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::
-Non è possibile stabilire regole fisse riguardo all'uso della vocale di congiunzione -i-. Fondamentalmente, la distribuzione della vocale di congiunzione nell'infinito corrisponde a quella del futuro.
 
-Tra le radici finora studiate, si prestano particolare attenzione i seguenti infiniti:
+**I verbi con prefisso formano l’infinito allo stesso modo delle semplici radici.**
+:::
+Esempi:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
--ra- come grado alto di -ṛ- hanno nell'infinito:
+Non è possibile stabilire regole fisse per l’uso della vocale di giunzione -i-. Fondamentalmente, la distribuzione della vocale di giunzione nell’infinito coincide con quella del futuro.
+
+Tra le radici finora apprese, si prestano particolare attenzione i seguenti infiniti:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
-Die anderen Radicen mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. &lt;!--  --&gt;
+>> -ra- come livello alto per -ṛ- hanno nell'infinitivo:
 
-## 23.3. L'infinito (⟪तुमुन्⟫ rispetto alle radici finora apprese)
+::: indent
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
+:::
+Le altre radici con -ṛ- nella penultima sillaba hanno facoltativamente -ra- o -ar-, se sono aniṭ.
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫
+
+## 23.3. L’infinito (⟪तुमुन्⟫) per le radici finora apprese
+
+⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P —  
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U —  
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫
 
 ## 23.4. Elenco delle parole
 
@@ -301,19 +249,13 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 11\. La chiarificazione della coscienza avviene a causa dello sviluppo meditativo della benevolenza amichevole, compassione, gioia empatica ed equanimità, che hanno come oggetto felicità e dolore, bene e male.
 
-12\. I poveri hanno molti figli, sebbene non li desiderino. I ricchi non hanno figli. Strano è il moto del destino.
+13. Chi non uccide un corpo femminile (⟪वपुस्⟫ f.) con vita sottile, fianchi larghi, labbra rosse, occhi neri, ombelico curvo e seni eretti.
 
-13\. Chi non uccide un corpo femminile (⟪वपुस्⟫ f.) con vita snella, fianchi larghi, labbra rosse, occhi neri, ombelico curvo, seni eretti.
+B) Declinate in tutti i casi a voi noti ⟪क्षत्रिया⟫ f.
 
-B) Declinare in tutti i casi a voi noti ⟪क्षत्रिया⟫ f.
+C) Fornite le forme della radice (significato, classe del presente, modo, 3. sg. Pres. Indicativo, 3. sg. Passivo, PPP, Assolutivi, Infinito) per i seguenti verbi:
 
-C) Fornire le forme fondamentali (significato, classe del presente, modo, 3. sg. presente indicativo, 3. sg. passivo, PPP, assolutivi, infinito) ai seguenti verbi:
+⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2 volte)
 
-⟪१⟫. ⟪सह्⟫
-
-⟪२⟫. ⟪पा⟫ (2x)
-
-⟪३⟫. ⟪वच्⟫
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫
+⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 

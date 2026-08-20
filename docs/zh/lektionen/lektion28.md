@@ -1,390 +1,390 @@
 ---
-title: Lektion 28
+title: "# 第28課"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
+
 ---
 
 # 第28課
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. 使動式（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）
 
 ::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+**若要表達某人或某事促使、導致另一人或他物執行或遭受由詞根（帶或不帶前綴）所表達的動作，則使用使動式（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）。**
 
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
+範例：
+⟪गम्⟫ 「去」 » 使動：⟪गमयति⟫ 「他促使某人去；他派遣」
+⟪दृश्⟫ 「看」 » 使動：⟪दर्शयति⟫ 「他使人看 = 他展示」
 :::
 
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.2. 使動句的結構（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）
 
 ::: grammar-box
-**Schema 1:**
+**模式 1：**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
+**如果使動式所基於的詞根（帶或不帶前綴）是不及物動詞（即不能帶有賓格宾语），或表示運動、知識、資訊或進食：**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
+**使動式的施事者（⟪कर्ता⟫）在主格（⟪प्रथमा⟫）中 — 被促使動作的施事者在賓格（⟪द्वितीया⟫）中 — （運動的目標、知識的對象等也在賓格 = ⟪द्वितीया⟫）— 使動式動詞**
 :::
-Beispiele:
+範例：
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
+⟪दुर्जनो रामं मोहयति⟫ = 「一個惡人導致羅摩陷入困惑 = 使羅摩困惑 = 導致羅摩迷誤」
+結果：⟪रामो मुह्यति⟫ = 「羅摩感到困惑 / 被蒙蔽 / 迷誤。」
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel"
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = 「羅摩使敵人去往天界 = 派遣敵人前往天界」
+結果：⟪शत्रवः स्वर्गं गच्छन्ति⟫ = 「敵人前往天界 / 到達天界」
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda"
+⟪गुरू रामं वेदार्थं वेदयति⟫ = 「老師使羅摩知道吠陀的含義 = 向羅摩解釋 / 教導羅摩吠陀的含義」
+結果：⟪रामो वेदार्थं वेत्ति⟫ = 「羅摩知道 / 理解吠陀的含義」
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda"
+⟪स रामं वेदमध्यापयति⟫ = "他教導羅摩吠陀"
+結果： ⟪रामो वेदमधीते⟫ "羅摩研習吠陀"
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise"
+⟪रामो देवानामृतमाशयति⟫ = "羅摩讓諸神食用不死之食 = 提供諸神不死之食" (⟪अश्⟫ 9 "吃")
+結果： ⟪देवा अमृतमश्नन्ति⟫ "諸神食用不死之食"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801))
+圖： ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
+ISKCON 班加羅爾寺廟。
+（圖片來源：[詳情](/zh/licenses#lekt2801)）
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:**
+**依模式一構造的還有詞根 ⟪दृश्⟫：**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**模式一的例外請參見模式二**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
+範例：
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "他向羅摩展示兒子"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+以下詩句總結了依模式一構成的使動語態範例（其中的動詞形式均為第三人稱未完成時外動詞）：
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte.
+我的歸依與目標是黑天，
+他將敵人送往天堂，
+他教導其眷屬吠陀的意義，
+他以不死之食餵養諸神，
+他教導創造者吠陀，
+他將大地置於水中。
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802))
+圖： ⟪स मे श्रीहरिगतिः⟫
+賈德夫普爾大學管理大樓。
+（圖片來源：[詳情](/zh/licenses#lekt2802)）
 :::
 
 ::: grammar-box
-**Schema 2:**
+**模式二：**
 
-**Bei transitiven Verben (außer den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):**
+**對於及物動詞（除模式一所述者外）。以及所有使動語態所表示的動作是被引發的情況（即當使動語態是使動語態的使動語態時）：**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**使役態的主語（⟪कर्ता⟫）以主格出現（⟪प्रथमा⟫）—— 被引發行為的主語以工具格出現（⟪तृतीया⟫）—— 被引發行為的賓語以其在簡單動詞後所處的格出現（即通常為對格）—— 使用使役態的動詞**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau"
+範例：
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = 「他使得羅摩離開他的妻子」
+結果： ⟪रामो भार्यां त्यजति⟫ = 「羅摩離開他的妻子」
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht"
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = 「毘濕奴密多使得羅摩使得戈文達離開，意即：毘湿奴密多派遣罗摩送走戈文达」
+結果： ⟪रामो गोविन्दं गमयति⟫ = 「罗摩派遣戈文达离开」
+該結果的結果： ⟪गोविन्दो गच्छति⟫ = 「戈文達離開」
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**規則一的例外：**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:**
+**以下動詞也依循第二個模式構建使役態：**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**使得……的使役態對應於以下原意動詞（Causesative of）：**
+**⟪नी⟫ 「引導」**
+**⟪वह्⟫ 「乘車/駕駛」（僅當被引發行為的主語並非司機時）**
+**⟪स्मृ⟫ 「回想/記起」（存在例外情況）**
+**⟪अद्⟫ 「吃」**
+**⟪खाद्⟫ 「咀嚼」**
 :::
-Beispiele:
+範例：
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = 「罗摩使得奴僕引導或駕駛重物」
+結果： ⟪भृत्यो भारं नयति वहति वा⟫ = 「奴僕引導或駕駛重物」
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise"
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = 「罗摩使得男孩吃或咀嚼食物」
+結果： ⟪बालो ऽन्नमत्ति खादति वा⟫ = 「男孩吃或咀嚼食物」
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = 「他使得罗摩記起」
+結果： ⟪रामः स्मरति⟫ = 「罗摩記起」
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:**
+**以下使動詞既可按照模式一，也可按照模式二進行構建：**
 
-- **⟪हृ⟫ "halten, holen"**
-- **⟪कृ⟫ "tun, machen"**
-- **Ātmanepadakausativ zu ⟪दृश्⟫**
+**⟪हृ⟫ 「持有，取來」**
+**⟪कृ⟫ 「做，製作」**
+**⟪दृश्⟫ 的自稱使動詞**
 :::
-Beispiele:
+例句：
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte"
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = 「羅摩讓僕人製作或取來一張席子（⟪कट⟫ m.）」
+或者：
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+結果：⟪भृत्यः कटं करोति हरति वा⟫ = 「僕人製作或取來一張席子」
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis"
+⟪रामो बालं प्रतिमां दर्शयते⟫ = 「羅摩讓男孩看這幅畫像＝（為了自己的利益）向男孩展示這幅畫像」
+或者：
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+結果：⟪बालः प्रतिमां पश्यति⟫ = 「男孩看到了這幅畫像」
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
+當使動詞用於被動結構時，幾乎總是應用以下模式：
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):**
+**模式 A（被動結構）：**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**使動詞的施事者以工具格出現（⟪तृतीया⟫）——被引發動作的施事者以主格出現（⟪प्रथमा⟫）——被引發動作的對象處於該詞在原動詞中應有的格位（即通常為賓格）——使動動詞**
 :::
-Beispiele:
+例句：
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = 「主人派羅摩去村莊」
+結果：⟪रामो ग्रामं गच्छति⟫ = 「羅摩前往村莊」
 
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte"
+⟪रामेण भृत्यः कटं कार्यते⟫ = 「羅摩讓僕人製作一張席子」
+結果：⟪भृत्यः कटं करोति⟫ = 「僕人製作一張席子」
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last"
+⟪रामेण भृत्यो भारं हार्यते⟫ = 「羅摩讓僕人取來重物」
+結果：⟪भृत्यो भारं हरति⟫ = 「僕人取來重物」
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+
+## 28.3. 使役現在詞幹的構成（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
+**使役詞幹後接現在詞幹的主題變格結尾**
 :::
-Es gibt verschiedene Bildungstypen:
+存在幾種不同的構成類型：
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+**構成類型 1：（通常）強級詞根 + -aya-**
 :::
-Beispiele:
+範例：
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| 詞根 | 使役式 3. sg. 直陳現在時 | 意義 |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | 使進入，帶入 |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | 使渴望，激起慾望，誘惑 |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | 使看見 = 展示 |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | 使旋轉，轉動（及物），滾動（及物），啟動 |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-**
+**構成類型 2：長級詞根 + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
+**常見於以元音結尾的詞根，以及 -a- 後僅跟一個終結輔音的詞根。**
 :::
-Beispiele:
+範例：
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| 詞根 | 使役式 3. sg. 直陳現在時 | 意義 |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | 使某人或某物成為，產生 |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | 使某人去 |
+| ⟪नी⟫ | ⟪नाययति⟫:br(nai-aya-ti) | 使引導 |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | 使做 |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | 使說話，讓說（朗讀文本 =）大聲朗讀 |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**構成類型 3：弱級詞根 + -aya-**
 
-**Kommt vor.**
+**出現。**
 :::
-Beispiel:
+範例：
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| 詞根 | 使役式 3. sg. 直陳現在時 | 意義 |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | （使）敗壞 |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-**
+**第四類詞形：詞根 + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
+**對於以 -ā 結尾的詞根及少數其他詞根。**
 :::
-Beispiele:
+範例：
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| 詞根 | 使役態 第三人稱單數 直陳式 現在時 | 意義 |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | 使站立，豎立 |
+| ⟪इ⟫ + ⟪अधि⟫:br"研習" | ⟪अध्यापयति⟫:br(前綴：adhi+ā-paya-ti):br(詳見 Thumb-Hauschildt 第一卷，第2頁，341) | 使研習，教導 |
 
 ::: grammar-box
-**Unregelmäßige Bildungen:**
+**不規則構詞：**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:**
+**本土語法學家將以下形式視為使役態：**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
+**han** ：使役 **ghātayati**¹ "使擊殺，使致死"
+**pā** 2 "守護"：**pālayati**² "使渡過，拯救，保護"
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+註釋：
+1. **ghātayati** 實際上是一個派生自動詞，源自名詞 **ghāta** m. "打擊"（denominativum），並被用來替代 **han** 的使役態。
+2. **pālayati** 是一個真正的使役態，但源自詞根 **pṛ** 3 "渡過，拯救，保護"：**pārayati** (pār-aya-ti) » **pālayati**（在印度某些地區，r 對應 l；在其他地區則相反，l 對應 r）。
 
-## 28.4. Bildung des 被动语态s (⟪यक्⟫) zum Kausativ
+
+## 28.4. 使役態的被動語態構詞（⟪यक्⟫）
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:**
+**使役態的被動語態構詞方式如下：**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-**
+**使役態詞幹 去掉 -aya- + 被動後綴 -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+範例：
+**bhāvyate** (bhāv-ya-te) "他/她/它被產生"
+**sthāpyate** (sthāp-ya-te) "他/她/它被豎立"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+雖然原始詞根的被動語態通常由弱階詞根構成，但使役態的被動語態通常可以通過其由高階或長音階詞根構成來識別。
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+
+## 第28.5課。使役態之未來時（⟪ऌट्⟫，⟪भविष्यन्ती⟫）之構成
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
+**使役態未來時由使役詞幹構成，此時使役後綴末尾之 -a- 會脱落：**
 
 **-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+範例：
+**budh** 未來使役態：**bodhayiṣyati** (bodh-ay-i-ṣya-ti)：「他/她/它將喚醒」
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 第28.6課。使役態之過去分詞（⟪क्त⟫）之構成
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
+**使役詞幹以 -ay- 結尾（無末尾 a）+ -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+範例：
+**gam** — **gamayati** — **gamita** (gam-i-ta) 「已發送」（簡單詞根之過去分詞：**gata**）
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) 「已豎立」
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 第28.7課。使役態之絕對語（⟪क्त्वा⟩ . ⟪ल्यप्⟩）之構成
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**以 -tvā 結尾之絕對語由使役詞幹（無末尾 a）構成：**
 
-**Kausativstamm auf -ay- + -i- + -tvā**
+**使役詞幹以 -ay- 結尾 + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+範例：
+**sthāpayitvā** (sthā-pay-i-tvā) 「在已豎立之後」
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
+**若使役詞帶有前綴，則以 -ya 結尾之絕對語通常附加於不含 -aya- 之使役詞幹上**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+範例：
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) 「在已喚醒之後」
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) 「在已引導至身旁之後，在已帶來之後」
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**然而，若使役詞之詞根音節在單一輔音前包含短 -a-，則絕對語之 -ya 將附加於以 -ay- 結尾（無末尾 a）之使役詞幹上**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+範例：
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) 「在已前來之後」
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. 不定詞（⟪तुमुन्⟫）對使役式的構形成法
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**使役式的不定詞由使役詞幹以 -ay-（無尾音 a）構成：**
 
-**Kausativstamm auf -ay- + -i- + -tum**
+**使役詞幹以 -ay- + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+範例：
+**jan** — **janayati** — **janayitum**（janay-i-tum）「為了產生」
 :::
 
-## 28.9. 第十现在时类（⟪चुरादि⟫ = ⟪चुर्⟫ 等）
+## 28.9. 第十現在詞類（⟪चुरादि⟫ = ⟪चुर्⟫ 等）
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
+**與使役式相同，第十現在詞類的某些根也這樣構成現在時（及其他時態），而不具備使役式。**
 
-Beispiele:
-1.  Dehnstufige Wurzel + -aya- : **⟪कम्⟫** 10Ā **⟪कामयते⟫** "lieben"
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+範例：
+1. 長音階根 + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ 「愛」
+2. 高階根 + -aya- : **cur** 10U **corayati** 「偷竊」；未來時：**corayiṣyate**；被動語態：**coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
+**第十現在詞類動詞的使役式形式與簡單動詞的形式相同。判斷是否為使役式，僅能從語意或有時從句法結構中得知。**
 :::
 
-## 28.10. 词汇表
+## 28.10. 詞彙表
 
 ::: indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
-PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫：知道，認識
+未來時 **vediṣyati**
+被動語態 **vidyate**
+使役式 **vedayati**
+過去被動分詞 **vidita**
+不定詞 **vediṣyum**
+由此衍生：**vidyā** f., **veda** m.
 :::
 ::: indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
-PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!)：找到
+未來時 **vediṣyati** / **vetsyat**
+被動語態 **vidyate**：存在，有
+使役式 **vedayati**
+過去被動分詞 **vinna** / **vitta**
+不定詞 **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**：研讀，背誦
+使役式 **adhyāpayati**：讓...研讀，教導
+由此衍生：**adhyayana** n.：研習（特指吠陀）；**adhyāya** m.：課，章節（供背誦的段落）
 :::
 ::: indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
-PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum**
+⟪कम्⟫ 10Ā ⟪कामयते⟫: 愛
+未來式 **kāmayiṣyate** / **kamiṣyate**
+被動式 **kāmyate**
+使役式 **kāmayati**
+過去分詞 **kānta** (!)
+不定式 **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+圖：⟪कृष्णो राधां कामयति⟫
+⟪राजा रवि वर्मा⟫ 繪製（1848 - 1906）
+（圖片來源：[詳情](/zh/licenses#lekt2804)）
 :::
 
 ::: indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
-PPP **corita**
-Inf. **coritum**
+⟪चुर्⟫ 10 ⟪चोरयति⟫：偷竊
+未來式 **corayiṣyati**
+被動式 **coryate**
+使役式 **corayati**
+過去分詞 **corita**
+不定式 **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**請特別記住以下動詞使役式的意義：**
+**dṛś** — **darśayati**：展示
+**man** — **mānayati**：尊敬、敬重（但可能是派生自動詞 **māna**「榮譽」的派生動詞）
+**vac** — **vācayati**：亦指朗讀（使某人誦讀文本）
+**vad** — **vādayati**：亦指使樂器發聲 = 演奏樂器
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+圖：⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+（圖片來源：[詳情](/zh/licenses#lekt2803)）
 :::
-**⟪भार⟫** m.: Last
+⟪भार⟫ m.：負擔
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+圖：⟪बाला भारं हरति⟫
+少女背負重物。位於艾哈邁達巴德附近。
+（圖片來源：[詳情](/zh/licenses#lekt2805)）
 :::
-**⟪भृत्य⟫** m.: Untergebener, Diener
+⟪भृत्य⟫ m.：下屬、僕人
 
-## 28.11. 练习
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+## 28.11. 練習
 
-**1. Mit hochstufiger Wurzel:**
+**A) 為以下動詞形式和分詞形式構建使役式，並給出意義：**
+
+**1. 使用強級詞根：**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -415,7 +415,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:**
+**2. 以延長音階詞根為基礎：**
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -456,30 +456,18 @@ Mädchen trägt Last. Bei Ahmedabad.
 38. ⟪हरन्ती⟫
 39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫**
+**3. 使役動詞以 -⟪पय⟫ 結尾**
 1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen**
+**4. 請特別注意並學習以下使役動詞的構成**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫
+2. ⟪पा⟫ 1（「喝」）— ⟪पाययति⟫
+3. ⟪पा⟫ 2（「保護」）— ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:**
+**B. 請翻譯以下句子，將梵文複合詞拆解為基本動詞，並使用這些簡單動詞構成句子，以表達使役動詞所表示的動作被實現時的情況：**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
-
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
+範例：⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫

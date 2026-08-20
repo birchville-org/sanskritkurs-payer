@@ -135,6 +135,8 @@ def main():
     if force:
         print("Force mode: mtime check disabled.")
     for lang in active_languages:
+        if force:
+            clear_force_session(lang)
         lang_start = time.time()
         print(f"[{lang}] Start: {time.strftime('%H:%M:%S')}")
         sync_missing_master_files(lang)
@@ -215,5 +217,6 @@ def main():
                 print(f"[{lang}] 🎉 ERFOLG: Sprache '{lang_name}' ({lang}) 100% sauber abgeschlossen (136/136 Dateien).")
 
 if __name__ == "__main__":
-    acquire_nyx_lock()
+    if not os.environ.get("BYPASS_LOCK"):
+        acquire_nyx_lock()
     main()

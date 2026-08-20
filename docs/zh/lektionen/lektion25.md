@@ -1,33 +1,34 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "第25課"
+subtitle: "奪格的形成（⟪पञ्चमी⟫ = 「第五格詞尾」）"
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第25課
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. 奪格（⟪पञ्चमी⟫ = "第五格尾"）的形成
 
 ::: grammar-box
-Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch.
+除陽性/中性以-a結尾的名詞及代名詞外，在所有變格類別中，單數的奪格（⟪पञ्चमी⟫）形式與屬格（⟪षष्ठी⟫）形式相同。
 
-Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch.
+除人稱代名詞外，在所有變格中，複數的奪格形式與與格（⟪चतुर्थी⟫）形式相同。
 :::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
+現在您明白了梵語中格（⟪विभक्ति⟫）順序排列的原因：它們的排列方式使得同音形式盡可能地彼此相鄰——或上下相連。
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a**
+**以-a結尾的陽性/中性名詞之單數奪格**
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
+**deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
-Frage-, Relativ- und Demonstrativpronomina:
+疑問代名詞、關係代名詞和指示代名詞：
 
 ::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum |
+| | 單數奪格：br陽性/中性 | 單數奪格：br陰性 |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -36,455 +37,392 @@ Frage-, Relativ- und Demonstrativpronomina:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
+## 25.2. 奪格（⟪पञ्चमी⟫）的用法
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht."
+"奪格表示當某物離開時，保持不變的那個事物。"
 
-Pāṇini 2,3,28 + 1,4,24
+波你尼 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
-
-::: grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
-
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw.
-:::
-Beispiele:
-
-::: indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf"
-
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen"
-
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen"
-:::
-Beispiele:
-
-::: indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma"
-
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
-:::
-::: grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor":
-:::
-Beispiel:
-
-::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden"
-:::
-::: grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache:
-:::
-Beispiele:
-
-::: indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn"
-
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
-
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle"
-:::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
-
-## 25.3. Das Suffix -⟪तस्⟫
+奪格主要用於回答「從哪裡？」、「為什麼？」的問題。
 
 ::: grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"):
+1\. 因此，奪格表示起點、來源和材料。
+
+因此，從格也可以表示購買、聆聽、祈求等動作的發出者。
 :::
-Beispiele:
+範例：
 
 ::: indent
-⟪आदितस्⟫ = "von Anfang an"
+⟪ग्रमादागच्छति⟫ = 「他來自村莊」
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma"
+⟪अश्वात्पतितः⟫ = 「從馬背上跌落」
+
+⟪तेभ्यो लब्धम्⟫ = 「從他們那裡接收」
+:::
+範例：
+
+::: indent
+⟪गुरोर्धर्मं शृणोति⟫ = 「他從老師那裡聽聞關於正法的事」
+
+⟪ब्राह्मणः क्षत्रियाद्धेनुमिच्छति⟫ = 「婆羅門向剎帝利祈求一頭乳牛」
 :::
 ::: grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme:
+2\. 從格用於具有「阻止」、「保護免受」、「防禦對抗」、「畏懼」等意義的動詞之後：
 :::
+範例：
+
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum"
-
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
-
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?"
+⟪अरिभ्यो रक्षति⟫ = 「他保護自己免受敵人侵害」
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+::: grammar-box
+3\. 從格表示原因或理由：
+:::
+範例：
+
+::: indent
+⟪क्रोधात्पुत्रं हन्ति⟫ = 「他因憤怒而殺死兒子」
+
+⟪कृतपापत्वान्नरकं गच्छति⟫ = 「因為他做了惡事，所以他墮入地獄」（「因為他是行惡之人」）
+
+⟪पापकरणान्नरकं गच्छति⟫ = 「因為他做惡／曾做惡，所以他墮入地獄」
+:::
+非陰性名詞若要表示行為的原因，可使用工具格（⟪तृतीया⟫）或從格（⟪पञ्चमी⟫）。陰性名詞在此意義上通常使用工具格，但偶爾也可使用從格。
+
+## 25.3. 後綴 -⟪तस्⟫
 
 ::: grammar-box
-**1\. Relativsätze**
-
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus.
-
-Formen des Relativpronomens, die als kausale Konjunktion dienen:
-
-*   ablativisch:
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-*   instrumental:
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..."
+若要在單數中明確表達該詞具有從格意義，可在詞幹後附加後綴 -⟪तस्⟫，該後綴構成具有從格意義的副詞（回答「從哪裡？」的問題）：
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+⟪आदितस्⟫ = 「從一開始」
+
+⟪धर्मतस्⟫ = 「由於正法、基於正法」
+:::
+::: grammar-box
+後綴 -⟪तस्⟫ 也附加於代詞詞幹：
+:::
+::: indent
+⟪तद्⟫ : ⟪ततस्⟫ （「ta-tas」）「從那裡、那裡、往那裡、在那之上、然後、因此」
+
+⟪यद्⟫ : ⟪यतस्⟫ 「從哪裡、從何處、來自何處、在哪裡、往哪裡、為何、因為」（關係代詞）
+
+⟪किम्⟫ :  ⟪कुतस्⟫ 「從哪裡？」「為什麼？」
+:::
+## 25.4. 表達理由的其他方法
+
+::: grammar-box
+**1\. 關係子句**
+
+關係子句通常表達與主句之間的因果（理由）、連帶（結果）或目的（意圖）關係。
+
+作為因果連接詞使用的關係代詞形式：
+
+*   從格用法：
+*   ⟪यतस्⟫ ... 子句 ... ⟪ततस्⟫ ... 主句 ... = 「因為 ..., 所以 ...」
+*   ⟪यस्मात्⟫ ... 子句 ... ⟪तस्मात्⟫ ... 主句 ... = 「因為 ..., 所以 ...」
+*   工具格用法：
+*   ⟪येन⟫ ... 子句 ... ⟪तेन⟫ ... 主句 ... = 「藉此/因為 ..., 因此 / 所以 ...」
+:::
+範例：
+
+::: indent
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो व्रतं चरति⟫ = 「因為羅摩渴望繁榮，他實踐了誓願」
 :::
 ::: grammar-box
 **2\. ⟪हि⟫**
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz:
+主句可以透過語氣詞 ⟪हि⟫ 「因為、由於」相互連接。帶有 ⟪हि⟫ 的句子（該詞不得位於句首，而在散文中必須位於第二位）提供理由，解釋前一句或後一句：
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
+⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "人們行善。因為他們想要往生天界。"
 :::
 ::: grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)**
+**3\. 工具格 (⟪तृतीया⟫)**
 
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
+除了離格 (⟪पञ्चमी⟫) 之外，工具格 (⟪तृतीया⟫) 也用於表示原因或理由。對於陰性名詞，工具格通常是強制性的。
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
+⟪क्रोधेन पुत्रं हन्ति⟫ = "他因憤怒而殺死兒子" = "他在憤怒中殺死兒子"
 :::
 ::: grammar-box
-**4\. Nomina**
+**4\. 名詞**
 
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit
+此外，當然也可以使用以下結構來表達理由：
 
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫
+*   ⟪कारण⟫ n. "原因"：⟪कारणात् । कारणेन⟫
 *   ⟪हेतु⟫ m.
-*   andere Nomina in der Bedeutung "Ursache"
+*   其他表示「原因」意義的名詞
 
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita:
+\+ 屬格 (⟪षष्ठी⟫) 或作為複合詞的後半部分：
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes"
+⟪पुण्यस्य कारणात्⟫ (⟪हेतोः⟫ 等) = "因為功德"
 :::
 ::: grammar-box
 **5\. ⟪इति⟫**
 
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben:
+動作的動機可以透過 ⟪इति⟫ 以思想的形式來表示：
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+⟪सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति⟫  = "因為世尊已完全覺悟真理，阿難向喬達摩詢問他的教法" (« "心想「世尊已完全覺悟真理」..." )
 :::
-## 25.5. 词汇表
+## 25.5. 詞彙表
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+⟪त्यज्⟫ 第一人稱單數 ⟪त्यजति⟫ 離開、放棄、拋棄
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
-PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫
+未來式 ⟪त्यक्ष्यति⟫  
+被動式 ⟪त्यज्यते⟫  
+過去被動分詞 (PPP) ⟪त्यक्त⟫  
+不定詞 ⟪त्यक्तुम्⟫  
+絕對構句 2: -⟪त्यज्य⟫
 
-davon:
+衍生自：
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ m.: 放棄、捨棄、避開
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ m. pl. (!!!): 妻子
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ n.: 物品、財產、物質財富、金錢
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪धान्य⟫ n.: 脫殼的穀物
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+圖：⟪धान्यम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt2501)）
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 1U ⟪धरति⟫ ：保持、緊握
 
 ::: indent
-Fut. ⟪धरिष्यति⟫  
-Pass. ⟪ध्रियते⟫  
-PPP ⟪धृत⟫  
-Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫
+未來式 ⟪धरिष्यति⟫  
+被動式 ⟪ध्रियते⟫  
+PPP（過去被動分詞） ⟪धृत⟫  
+不定式 ⟪धर्तुम्⟫  
+絕對構句（Absolutive）2：-⟪धृत्य⟫
 
-davon:
+衍生詞：
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.：堅固且能持守之物 = 達摩（Dharma，正法）
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ ：恆常、穩定、永恆
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ 副詞：總是、恆常地
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.：智慧、認知
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.：布施、施捨；贈品、供養
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) ：感到愉悅、陶醉於某事（工具格、屬格、位格）
 
 ::: indent
-Fut. ⟪मदिष्यति⟫  
-Pass. ⟪मद्यते⟫  
-PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫
+未來式 ⟪मदिष्यति⟫  
+被動式 ⟪मद्यते⟫  
+PPP（過去被動分詞） ⟪मत्त⟫  
+不定式 ⟪मदितुम्⟫
 
-davon:
+衍生詞：
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪मद⟫ m.：陶醉、感官迷醉 = 感官享樂
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪मान⟫ m.：評估、聲望、名譽、榮譽、驕傲、傲慢、自卑感；（與他人比較）
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ 連詞：如果
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪न्याय⟫ m.：規則、原則、方法、判斷（法律）、邏輯（源自 ni + i + a）
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪अन्यथा⟫ 副詞：其他、否則、錯誤地、不正確
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
-Pass. ⟪यायते⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫
+被動式 ⟪यायते⟫  
+PPP（過去被動分詞） ⟪यात⟫  
+不定式 ⟪यातुम्⟫  
+絕對構句（Absolutive）2：-⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫（第三人稱複數）：命令、教導、懲罰
 
 ::: indent
-Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
+被動式 ⟪शिष्यते⟫  
+PPP（過去被動分詞） ⟪शिष्ट ३⟫ ：受教的  
+絕對構句（Absolutive）1：⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+衍生詞：
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
+⟪शिक्षा⟫ f.：科學、教學；音韻學
 :::
-⟪स्तेन⟫ m.: Dieb
+⟪स्तेन⟫ m.：小偷
 
-⟪स्तेय⟫ n.: Diebstahl
+⟪स्तेय⟫ n.：偷竊
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
+⟪किल्बिष⟫ n.: 罪過、侮辱、罪惡
 
-⟪विना⟫ Postposition: ohne, außer (mit  Akk., Instr., Abl.)
+⟪विना⟫ 後置詞：沒有、除了（接與格、工具格、離格）
 
-⟪मूल⟫ n.: Wurzel
+⟪मूल⟫ n.: 根、根源
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
+圖：⟪मूलानि⟫
+（圖片來源：[詳情](/zh/licenses#lekt2502)）
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!)：塗抹、沾污
 
 ::: indent
-Fut. ⟪लेप्स्यति⟫  
-Pass. ⟪लिप्यते⟫  
-PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫
+未來式 ⟪लेप्स्यति⟫  
+被動式 ⟪लिप्यते⟫  
+過去分詞 ⟪लिप्त⟫  
+不定式 ⟪लेप्तुम्⟫
 
-davon:
+派生詞：
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ f.: 塗抹、書寫、文字
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+圖：⟪लिप्तिः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2503)）
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: 雨、雨季、年
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ ：引導、駕駛、吹拂（風）
 
 ::: indent
-Fut. ⟪वक्ष्यति⟫  
-Pass. ⟪उह्यते⟫  
-PPP ⟪ऊढ⟫  
-Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+未來式 ⟪वक्ष्यति⟫  
+被動式 ⟪उह्यते⟫  
+過去分詞 ⟪ऊढ⟫  
+不定式 ⟪वोढुम्⟫  
+絕對構式2：-⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ ：帶走（即把新娘從父母家帶走）= 結婚
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+派生詞：
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: 帶走、娶妻（工具格，saha）（關於婚禮請參見 Basham, Wonder S. 166 -171）
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+圖：⟪विवाहः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2504)）
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ ：帶走、教導、教育
 
 ::: indent
-davon:
+派生詞：
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: 移除、教育、管教，佛教：僧團紀律、戒律
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: 認知、知識
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: 工作、勞役
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+圖：⟪विष्टिः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2505)）
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, größer werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ ：生長、變大
 
 ::: indent
-Fut. ⟪वर्धिष्यते⟫  
-Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫
+未來式 ⟪वर्धिष्यते⟫  
+被動式 ⟪वृध्यते⟫  
+過去分詞 ⟪वृद्ध⟫ ：長大、年長、增加  
+不定式 ⟪वर्धितुम्⟫
 
-davon:
+派生詞：
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: 生長、成長、強化階（源自：vṛdh-ti）
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.：符合其目的者
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.：存在，本性，性格
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.：（汗毛豎起），喜悅
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ ：金色的；n.：黃金，金錢，財富
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+圖：⟪हिरण्यम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt2506)）
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ ：細，精微，極小；m.：原子
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
+⟪गोदान⟫ n.：贈送母牛/一頭母牛；第二次剪髮儀式（一種⟪संस्कार⟫）
 
-## 25.6. 练习
+## 第25.6課 練習
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie außerdem Deklinationsreihen mit allen bisher gelernten Formen zu
+A) 請在[第16課](lektion16.md)的複習練習A中，通過添加第四格（⟪चतुर्थी⟫）和第五格（⟪पञ्चमी⟫），補充其變位示例。此外，請為以下詞彙構建包含所有已學形式的變位表：
 
-⟪१⟫. ⟪सन्त्⟫ (m., n.)
+⟪१⟫。⟪सन्त्⟫（m.，n.）
 
-⟪२⟫. ⟪महान्त्⟫ (m., n.)
+⟪२⟫。⟪महान्त्⟫（m.，n.）
 
-⟪३⟫. ⟪यद्⟫ (m., n., f.)
+⟪३⟫。⟪यद्⟫（m.，n.，f.）
 
-Lernen Sie diese Deklinationsparadigmen auswendig!
+請背誦這些變位範式！
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) 翻譯並解析以下梵文複合詞：
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
+⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥ गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥ क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥ कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्हति ॥४॥ धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥ बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥ लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥ क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫
 
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫
-
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫
-
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫
-
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫
-
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫
-
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫
-
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫
-
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫
-
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫
-
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫
-
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫
-
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫
-
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫
-
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫
-
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫
-
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
+⟪पुत्रलाभकारणाद्ब्राह्मणी व्रतं चरति ॥९॥ लब्धपुत्रत्वाद्द्विजेन महासुखमाप्तम् ॥१०॥ विष्णुर्भक्तान्मरणात्पाति ॥११॥ रामाद्विना⟫ =  ⟪रामं विना⟫ = ⟪रामेण विना ॥१२॥ साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥ रामः कृष्णाय तिष्ठति ॥१४॥ सुखेन गच्छति ॥१५॥ अलं भयेन ॥१६॥ लोकादधिको हरिः ॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
 ::: media
 ![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
+圖：⟪लोकादधिको हरिः⟫
 :::
-## 25.7. ⟪सुभाषितानि⟫
-
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
-⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
+## 25.7. ⟪सुभाषितानि यतो यतो निवर्तते ततस्ततो विमुच्यते । निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि ॥१॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
+解釋： ⟪सर्वतस्⟫ = sarva "每個，所有" + -tas ; ⟪अणु⟫ = 中性單數主格、賓格
 :::
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
-⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
-
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
-⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫
-
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
-⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
+⟪मानाद्वा यदि वा लोभात् क्रोधाद्वा यदि वा भयात् । यो न्यायमन्यथा ब्रूते स याति नरकं नरः ॥२॥ भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥३॥ शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८⟫.⟪३१६॥ ॥४॥⟫
 
 ::: indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
+解釋： ⟪राजा⟫ = ⟪राजन्⟫ m. 的單數主格 = ⟪नृप⟫
 :::
-## 25.8. 翻译练习
+## 25.8. 翻譯練習
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie:
+1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. 關於經濟的益處：
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
+⟪वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten:
+2\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪५⟫. 關於王子的教育：
 
-⟪तस्माद्दण्डमूला⟫*:sig[⟪स्तिस्रो⟫]* ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ *:sig[⟪प्राणभृतां⟫]* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
-⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
-⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *:sig[⟪नेतरम्⟫]* ⟪॥५॥⟫  
-... ⟪॥⟫  
-⟪वृत्तचौल⟫*:sig[⟪कर्मा⟫]* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*:sig[⟪पयुन्ञ्जीत⟫]* ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *:sig[⟪वक्तृप्रयोक्तृभ्यः⟫]* ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *:sig[⟪षोडशाद्व⟫]*⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*:sig[⟪कर्म⟫]* ⟪चास्य⟫ ⟪॥१०॥⟫  
-⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
-... ⟪॥⟫  
-⟪श्रुता⟫*:sig[⟪द्धि⟫]* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*:sig[⟪दात्मवत्ते⟫]*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
-... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः ॥१॥ विनयमूलो दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
+⟪॥ वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं संख्यानं चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥ ब्रह्मचर्यं चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद् ॥९॥ अतो गोदानं दार⟫:sig[⟪कर्म⟫] ⟪चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य ॥११॥⟫  
+⟪॥ श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते प्रज्ञाया योगो योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति विद्यानां सामर्थ्यम् ॥१६॥⟫  
+⟪॥ कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter:
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei"
+解釋上述文本中以紅色突出顯示的詞彙：
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen"
+1.5.1. ⟪तिस्रस्⟫ ：名詞，賓格，陰性，源於 ⟪त्रि⟫ 「三」
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer"
+1.5.2. ⟪प्राणभृताम्⟫ ：屬格，複數，陽性，源於 ⟪प्राणभृत्⟫ 陽性 「生物」
 
-1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen"
+1.5.5. ⟪इतरम्⟫ 賓格，單數，陽性，源於 ⟪इतर ३⟫ 「其他」
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker"
+1.5.7. ⟪कर्मा⟫ ：主格，單數，陽性，源於 ⟪कर्मन्⟫ 中性 「行為、作品」；⟪उपयुञ्जीत⟫ ：願望式，第三人稱單數，中動語態，源自動詞 upa-yuj 第七變位 「他應佔有」
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ ：離格，與格，複數，源於 ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) 「理論家與實踐者」
 
-1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat"
+1.5.9. ⟪षोडश ३⟫ ：「第十六」
 
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz"
+1.5.10. ⟪कर्म⟫ 主格，賓格，單數，源於 ⟪कर्मन्⟫ 中性 「行為」
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss"
+1.5.16. ⟪धि⟫ 連音形式，源於 ⟪हि⟫；⟪आत्मवत्ता⟫ 陰性：「自我擁有」
+
+1.6.1. ⟪कार्य ३⟫ 「應做、必須被做的事」
 

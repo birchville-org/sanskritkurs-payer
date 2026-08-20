@@ -1,21 +1,22 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "第52課"
+subtitle: "以-i和-u結尾的名詞中性格"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第52課
 
-## 52.1. 以 -i 和 -u 结尾的词干的中性
+## 52.1. -i與-u詞幹的中性形式
 
 ::: grammar-box
-**Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
+**在元音開頭的詞尾前，會插入-n-，這是受n詞幹（-in）影響的結果。**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| | **⟪वारि⟫ n.:br「水」** | **⟪मधु⟫ n.:br「蜂蜜」** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -33,243 +34,234 @@ status: stable
 | ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-## 52.2. Nominalbildung
+## 52.2.名詞構詞法
 
-### 52.2.1. PPP + -vant: Parasmaipada 过去分词
-
-::: grammar-box
-**Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:**
-
-**PPP + -vant / fem.: vatī**
-**Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫**
-:::
-PPP + -vant / fem.: vatī
-
-Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫
-
-Beispiele:
-
-::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat"
-
-⟪भिन्नवन्त्⟫ "einer, der gespalten hat"
-:::
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+### 52.2.1. PPP + -vant：Parasmaipada過去分詞
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung**
+**Parasmaipada過去分詞的構成為：**
 
-*   **"gemacht aus"**
-*   **"bestehend aus"**
-*   **"reich an"**
-
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.**
+**PPP + -vant / 陰性：vatī**
+**變格如同-vant詞幹，或陰性 ⟪देवी⟫**
 :::
-Beispiele:
+PPP + -vant / 陰性：vatī
+
+變格如同-vant詞幹，或陰性 ⟪देवी⟫
+
+範例：
 
 ::: indent
-⟪अन्नमय⟫ 3 "reich an Speise"
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ 「做過的人」
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend"
+⟪भिन्नवन्त्⟫ 「劈開過的人」
+:::
+### 52.2.2. ⟪तद्धित⟫後綴 -maya / -mayī
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend"
+::: grammar-box
+**⟪तद्धित⟫後綴 -maya / 陰性：-mayī，用於名詞以構成意為**
 
-⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend"
+*   **「由……製成」**
+*   **「由……組成」**
+*   **「富含……的」**
+
+**在 -maya 之前（如同在 -⟪मात्र⟫ 之前），以輔音結尾的塞音必須用相應的鼻音取代。**
+:::
+範例：
+
+::: indent
+⟪अन्नमय⟫ 3 「富含食物」
+
+⟪चिन्मय⟫ 3 （源於 ⟪चित्⟫ f. 「知性」）「由思想／理智構成」
+
+⟪वाङ्मय⟫ 3 （源於 ⟪वाच्⟫ f. 「語言」）「由言辭構成」
+
+⟪सोममय⟫ 3 「由蘇摩製成，由蘇摩構成」
 :::
 ::: grammar-box
-**Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.**
+**以 -maya 結尾的名詞偶爾被用作中性名詞，此時它們指稱由附加了 -maya 的名詞所表示之事物的豐盛。**
 :::
 ::: indent
-z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise"
+例如： ⟪अन्नमय⟫ n. 「食物的豐盛」
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Abb.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt5202))
+圖： ⟪अन्नमयम् विवाहः⟫，欽奈 = சென்னை
+（圖片來源：[詳情](/zh/licenses#lekt5202)）
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫-後綴 -eya
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von**
+**⟪तद्धित⟫-後綴 -eya / f.: -eyī 主要附加於陰性名詞，表示**
 
-*   **"Kind der"**
-*   **"Nachkomme der"**
+*   **「...之子」**
+*   **«...之後裔»**
 
-**Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.**
+**首個元音的長音形式（⟪वृद्धि⟫）。**
 
-z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫"
+例如： ⟪कौन्तेय⟫ m. 「⟪कुन्ती⟫之子」
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang-Figur, Java, Indonesien
-(Bildquelle: [Details](/licenses#lekt5203))
+圖： ⟪भीमः कौन्तेयः⟫
+皮影戲偶，爪哇，印尼
+（圖片來源：[詳情](/zh/licenses#lekt5203)）
 :::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+## 52.3. 副詞構詞：副詞後綴 -śas
 
 ::: grammar-box
-**Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:**
+**副詞後綴 -śas 主要從具有分配意義的詞構成副詞：**
 
-*   **Zahlwörtern**  
-    Beispiele:  
-:::
-::: indent
-⟪एकशस्⟫ "einzeln, je einer"
-⟪द्विशस्⟫ "zu zweien, je zwei"
-⟪शतशस्⟫ "zu hunderten, je hundert"
-:::
+*   **數詞**  
+範例：  
+⟪एकशस्⟫ 「單獨，各一個」  
+⟪द्विशस्⟫ 「成雙，各兩個」  
+⟪शतशस्⟫ 「成百，各一百」
 
-*   **anderen Wörtern**  
-    Beispiele:  
-::: indent
-⟪भागशस्⟫ "Teil für Teil"
-⟪सर्वशस्⟫ "überall, gar alle"
-⟪नित्यशस्⟫ "beständig"
+*   **其他詞彙**  
+範例：  
+⟪भागशस्⟫ 「逐部分」  
+⟪सर्वशस्⟫ 「到處，全部」  
+⟪नित्यशस्⟫ 「持續地」
 :::
 ::: media
 ![](/images/lekt5204.webp)
-Abb.: ⟪अनुक्रमेणैकशः⟫
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Bildquelle: [Details](/licenses#lekt5204))
+圖：⟪अनुक्रमेणैकशः⟫
+寺廟前的排隊人群，特里凡得琅（Trivandrum）= Thiruvananthapuram = തിരുവനന്തപുരം
+（圖片來源：[詳情](/zh/licenses#lekt5204)）
 :::
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
+## 52.4. 表達「某物成為或變成先前並非之物」的動詞複合詞（⟪अभुततद्भावः⟫）
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. cvi 構詞法
 
 ::: grammar-box
-**Vor die Wurzeln**
+**置於詞根之前**
 
-*   **⟪कृ⟫ 8U "tun"**
-*   **⟪अस्⟫ 2P "sein"**
-*   **⟪भू⟫ 1P "werden"**
+*   **⟪कृ⟫ 8U 「做」**
+*   **⟪अस्⟫ 2P 「是」**
+*   **⟪भू⟫ 1P 「成為」**
 
-**können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird.**
+**名詞和形容詞可以作為前字置於動詞之前，以表達某人或某物成為該名詞所指稱的人、事物或狀態。**
 
-**Der Auslaut des Nomens wird folgendermaßen behandelt:**
+**名詞的尾音處理方式如下：**
 
-Der Auslaut des Nomens wird folgendermaßen behandelt:
 
-*   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  **
-    Beispiele:  
+名詞的尾音處理方式如下：
+
+*   **可變格名詞以 -a 和 -ā 結尾者，替換為 -ī**
+範例：  
+⟪कृष्णीभवति⟫ 「非黑之物變為黑色」  
+⟪कृष्णीकरोति⟫ 「使非黑之物變為黑色」  
+⟪गङ्गीभवति⟫ 「他/她成為恆河」  
+
+*   **以 -i 和 -u 結尾者，替換為相應的長元音**
+範例：  
+⟪शुचीभवति⟫ 「他/她/它變為純淨」  
+⟪गुरूभवामि⟫ 「我成為主人」  
+
+*   **以 -ṛ 結尾者，替換為 --rī**
+例如 ⟪पित्रीभवति⟫ 「非父親者成為父親 = 男子得首子」  
+
+*   **以 -n 結尾者，-n 脱落， preceding vowel 依上述規則處理**
+例如 ⟪राजीबभूव⟫ 「非王者成為王（⟪राजन्⟫）」
+
+*   **其他複詞幹名詞以其在與格（⟪सप्तमी⟫）複數中的詞幹形式出現。該詞幹隨後遵循常規的連音規則。參見Kielhorn，《語法》§ 489,3。**
+例如，⟪तिर्यक्करोति⟫ "他向側面放置（⟪तिर्यच्⟫）"
 :::
-::: indent
-⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
-⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
-⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"  
-:::
-
-*   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  **
-    Beispiele:  
-::: indent
-⟪शुचीभवति⟫ "er/sie/es wird rein"
-⟪गुरूभवामि⟫ "ich werde Meister"  
-:::
-
-*   **auslautendes -ṛ wird durch --rī ersetzt  **
-    z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"  
-
-*   **auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt  **
-    z.B. ⟪राजीबभूव⟫ "einer (der nicht König war) wurde König (⟪राजन्⟫)"  
-
-*   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  **
-    z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
 ::: media
 ![](/images/lekt5209.webp)
-Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5209))
+圖：⟪भस्मीकृतं वनम्⟫
+刀耕火種，阿魯納恰爾邦 = ⟪अरुणाचल प्रदेश⟫
+（圖片來源：[詳情](/zh/licenses#lekt5209)）
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. 後綴 -sāt
 
 ::: grammar-box
-**Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen**
+**為了表達某人或某物完全成為……，或者使某人或某物完全變成名詞所指稱的事物，可以在該名詞上**
 
-**das Suffix -sāt (das nie -ṣāt wird)**
+**附加後綴 -sāt（它永遠不會變成 -ṣāt）**
 
-**angefügt werden und das so gebildete Wort mit den Wurzeln**
+**並與以下詞根**
 
-*   ⟪कृ⟫ 8U "tun"
-*   ⟪अस्⟫ 2P "sein"
-*   ⟪भू⟫ 1P "werden"
+*   ⟪कृ⟫ 8U "做"
+*   ⟪अस्⟫ 2P "是"
+*   ⟪भू⟫ 1P "成為"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**zu einem Verbalkompositum verbunden werden.**
+**結合成動詞複合詞。**
 :::
-Beispiele:
+例子：
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "他完全變成火"
 
-⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche"))
+⟪भस्मसात्करोति⟫ "他完全轉化為灰燼（⟪भस्मन्⟫ n. "灰燜"）
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**有時後綴 -sāt 表示某人或某物**
 
-*   **von dem abhängig wird oder**
-*   **in den Besitz dessen übergeht**
-*   **oder dass jemand von dem abhängig macht**
 
-**das vom Nomen bezeichnet wird**
+*   **變得依賴於……，或者**
+*   **成為其所有者**
+*   **或者使某人變得依賴於……**
+
+**該名詞所指稱的事物**
 :::
-Beispiel:
+例子：
 
 ::: indent
-⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs"
+⟪राजसाद्भवति⟫ "他變得依賴於國王，成為國王的財產"
 :::
 ::: grammar-box
-**Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:**
+**帶有 -sāt 的構詞中的詞根不像帶前綴的動詞那樣處理，因此為絕對式：**
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫*:sig[⟪त्वा⟫]*
+⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
+## 第52.5課：詞語重複（⟪द्विरुक्तम्⟫）
 
 ::: grammar-box
-**Wortwiederholung drückt im Sanskrit aus:**
+**詞語重複在梵文中表示：**
 
-*   **Wiederholung der Handlung**  
-    z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder"
-*   **Distribution**  
-    Beispiele:  
+*   **動作的重複**  
+例如：⟪पुनः पुनः⟫ "一次又一次"
+*   **分配性**  
+範例：
+⟪पृथक्पृथक्⟫ "各自、逐一"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "無論什麼……所有這些"
+⟪युगे युगे⟫ "在每一個個別的世界週期中"
+
+**偶爾可以從這些組合中構成複合詞**
+
 :::
-::: indent
-⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
-⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
-⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter"
-:::
-
-**Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden**
-
-Beispiele:
+範例：
 
 ::: indent
-⟪एकैक⟫ 3 "jeder einzelne"
-⟪अल्पाल्प⟫ 3 "ganz klein"
-⟪नवनव⟫ 3 "stets neu"
+⟪एकैक⟫ 3 "每一個個別"
+⟪अल्पाल्प⟫ 3 "非常微小"
+⟪नवनव⟫ 3 "始終新鮮"
 :::
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff.
-## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
+關於所謂的⟪आम्रेडित⟫複合詞，其中屈折形式被重複使用，但第二個成分在古典前期獲得了重音，因此構成複合詞，請參見Wackernagel，《古印度語法》第二卷第一分冊第142頁及以下。
+## 第52.6課：數詞（⟪सम्ख्या⟫ 陰性）
 
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
+此處未涵蓋的內容，請參見Kielhorn，《語法》第201節及以下。
 
-### 52.6.1. Kardinalzahlen
+### 第52.6.1課：基數詞
 
-#### 52.6.1.1. Zahladjektive (für 1 bis 19)
+#### 第52.6.1.1課：數形容詞（用於一至十九）
 
 ::: grammar-box
-**Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.**
+**表示「一至十九」的數詞是形容詞。**
+**表示「一至四」的數詞在屈折變化中，三個性別各不相同。**
 
-**Für die Zahlwörter für **5 bis 19** ***(:sig[⟪नवदशन्⟫])*** gibt es nur eine einzige Deklination für die drei Geschlechter.**
+**對於表示「五至十九」的數詞（:sig[⟪नवदशन्⟫]），三個性別僅有一種屈折變化形式。**
 
-**Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).**
+**這些數形容詞遵循所有形容詞的規則：必須與所修飾名詞在格、數和性上保持一致，反之亦然（即一為單數，二為雙數，其餘為複數）。**
 :::
-Zahladjektive:
+數詞：
 
 ::: indent
-1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
+1 ⟪एक⟫ 3（變格同 ⟪सर्व⟫，複數意為「一些」）
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -280,513 +272,440 @@ Zahladjektive:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-Die Deklination folgt an gegebener Stelle in den Wortlisten.
+其變格見於詞彙表中的適當位置。
 
-Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201.
+其餘直至十九的數副詞，參見例如 Kielhorn，《語法》§201。
 
-#### 52.6.1.2. Zahlsubstantive (für 19ff.)
+#### 52.6.1.2. 數名詞（用於十九以上）
 
 ::: grammar-box
-**Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.**
+**表示 *19（⟪एकोनविंशति⟫* 「比二十少一」）至 *99 的數詞是陰性名詞，其變格如同 ⟪मति⟫ f. 或詞根名詞以 -t 結尾（例如 ⟪त्रिंशत्⟫ f.）。**
 
 :::
-Beispiele:
+範例：
 
 ::: indent
-20 ⟪विंशति⟫ f.
+20 ⟪विंशति⟫ f.：br
 30 ⟪त्रिंशत्⟫ f.
 :::
 
 ::: grammar-box
 
-**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.**
+**表示一百以上的數詞是中性子名詞。它們的變格如同 ⟪फलम्⟫。**
 :::
 
-Beispiele:
+範例：
 
 ::: indent
-100 ⟪शत⟫ n.
+100 ⟪शत⟫ n.：br
 1000 ⟪सहस्र⟫ n.
 :::
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
+個別數名詞參見例如 Kielhorn，《語法》§201。
+#### 52.6.1.3. 基數詞的句法
 
 ::: grammar-box
-**Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:**
-*   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden  
-    z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"  
-*   substantivische Kardinalzahlwörter können auf drei Weisen mit dem Substantiv für das Gezählte verbunden werden
-    *   sie regieren den Genetiv (⟪षष्ठी⟫) des Gezählten  
-        z.B. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "durch 20 Frauen"  
-    *   sie stehen als Apposition im selben Kasus (aber im Singular) wie das Gezählte  
-        z.B. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "durch 20 Frauen" 
-    *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied  
-        z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe" 
+**從基數詞的動形詞與動名詞之間的差異中，產生了以下句法後果：**
+*   形容詞性的基數詞只能像形容詞一樣與被計數的名詞結合  
+例如 ⟪तिसृभिर्नारीभिः⟫ 「由三位女性」  
+*   名詞性的基數詞可以通過三種方式與被計數的名詞結合
+*   它們支配被計數者的屬格（⟪षष्ठी⟫）  
+例如 ⟪विंशत्या नारीणाम्⟫ 「由二十位女性」  
+*   它們作為同位語，與被計數者處於相同的格（但為單數）  
+例如 ⟪विंशत्या नारीभिः⟫ 「由二十位女性」 
+*   它們作為 ⟪तत्पुरुष⟫ 的後部成分，而被計數者作為前部成分  
+例如 ⟪गोविंशत्या⟫ 「由二十頭母牛」
 
 :::
-### 52.6.2. Ordinalzahlen
+### 52.6.2. 序數詞
 
-Siehe z.B. bei Kielhorn, Grammatik §201f.
+參見例如 Kielhorn，《語法》§201f。
 
-### 52.6.3. Zahladverbien
+### 52.6.3. 數副詞
 
-a) "-mal":
+a) "-mal"（次）：
 
 ::: indent
-einmal: ⟪सकृत्⟫
-zweimal: ⟪द्विस्⟫
-dreimal: ⟪त्रिस्⟫
-viermal: ⟪चतुस्⟫
-fünfmal usw. wird mit dem Suffix ***\-:sig[⟪कृत्वस्⟫]*** gebildet: ⟪पञ्चकृत्वस्⟫
+一次： ⟪सकृत्⟫
+兩次： ⟪द्विस्⟫
+三次： ⟪त्रिस्⟫
+四次： ⟪चतुस्⟫
+五次等則使用後綴 -:sig[⟪कृत्वस्⟫] 構成： ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": wird mit dem Suffix ***\-:sig[⟪धा⟫]*** ausgedrückt
+b) "-fach"（倍）：使用後綴 -:sig[⟪धा⟫] 表達
 
 ::: indent
-einfach: ⟪एकधा⟫
-zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-usw.
+一次（簡單）： ⟪एकधा⟫
+兩次（雙重）： ⟪द्विधा । द्वेधा⟫
+等等。
 :::
-c) "je ...", "zu ...": wird mit dem Suffix ***\-:sig[⟪शस्⟫]*** ausgedrückt (siehe oben!)
+c) "je ...", "zu ..."（各...，每...）：使用後綴 -:sig[⟪शस्⟫] 表達（見上文！）
 
 ::: indent
-⟪द्विशस्⟫ "zu zweien, je zwei"
+⟪द्विशस्⟫ "兩人一組，各兩個"
 :::
-### 52.6.4. Zahladjektive
+### 52.6.4. 數形容詞
 
-"-fältig":
+"-fältig"（重的/層的）：
 
 ::: indent
-zweifältig, aus zweien bestehend
-dreifältig, aus drei Teilen bestehend
+zweifältig（雙重的），由兩部分組成
+dreifältig（三重的），由三部分組成
 
-ab 4 wird "-fältig" durch das Suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])*** ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig"
+從四開始，"-fältig" 使用後綴 -:sig[⟪तय⟫]（陰性：-:sig[⟪तयी⟫]）表達： ⟪चतुष्टय⟫ 陽性/中性 ⟪चतुष्टयी⟫ 陰性 "四重的"
 :::
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
+其他構詞請參考詞典或語法書。
 
-### 52.6.5. 前项为基数的复合词
+### 52.6.5. 前成分為基數詞的複合詞
 
 ::: grammar-box
-**⟪बहुव्रीहि⟫ dieser Art werden ganz regelmäßig gebildet.**
+**⟪बहुव्रीहि⟫ 這類詞的構建非常規則。**
 :::
-Beispiel:
+示例：
 
 ::: indent
-⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās)
+⟪चतुर्मुख⟫ 陽性 "一位，有四個臉的" = ⟪चत्वारि मुखानि यस्य सः⟫ （梵天的別名）
 :::
 ::: media
 ![](/images/lekt5205.webp)
-Abb.: ⟪चतुर्मुखः⟫
-(Bildquelle: [Details](/licenses#lekt5205))
+圖： ⟪चतुर्मुखः⟫
+（圖片來源：[詳情](/zh/licenses#lekt5205)）
 :::
 
 ::: grammar-box
-**⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:**
+**⟪तत्पुरुष⟫ 前成分包含基數詞的複合詞不得隨意構建：**
 
-**Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.**
+**規則 1：表示方位的詞（如 ⟪पूर्व⟫ 3 "向東的"，⟪उत्तर⟫ 3 "向北的"）以及表示基數詞的詞，只能與其他詞構成 ⟪कर्मधारय⟫ 複合詞，前提是該複合詞被用作專有名詞。**
 :::
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht.
+因此，例如不能從 ⟪उत्तरा वृक्षाः⟫「北方的樹」或 ⟪पञ्च ब्राह्मणः⟫ 構成 Tatpuruṣa（持業釋）。然而，從 ⟪सप्तन्⟫ 和 ⟪ऋषि⟫ 可以構成 Tatpuruṣa ⟪सप्तर्षि⟫ 陽性「七位仙人」，如果這是指大熊座（Ursa maior）星群的名称。
 ::: media
 ![](/images/lekt5206.jpg)
-Abb.: ⟪सप्तर्षयः⟫
-Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
-(Bildquelle: [Details](/licenses#lekt5206))
+圖：⟪सप्तर्षयः⟫
+北斗七星 = 大熊座（Ursa maior）中最亮的七顆星
+（圖片來源：[詳情](/zh/licenses#lekt5206)）
 :::
 
 ::: grammar-box
-**Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn**
+**規則 2：與規則 1 不同，表示方位或基數的名詞可以與其他名詞構成 Tatpuruṣa（持業釋），如果**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird  
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)  
+1. 如此構成的複合詞附加了 Taddhita（派生後綴）  
+範例：  
+pūrva + śālā（「廳堂」) » \*pūrvaśālā（不得這樣使用！）+ Taddhita -a » ⟪पौर्वशाल⟫ 3「位於東側廳堂中」  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ（不允許！）+ Taddhita -a » ⟪षण्मातुर⟫ 陽性「六個母親的孩子」（= ⟪कार्त्तिकेय⟫）  
 
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):  
-    Beispiele:  
-    dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
+2. 如此構成的複合詞以通常由 Taddhita（派生後綴）表示的意義使用（這種類型的 Bahuvrīhi（異代釋）過渡是流暢的）：  
+範例：  
+dvi + go » ⟪द्विगु⟫ ：不是「兩頭母牛」，而是：**「為兩頭母牛而換得」**  
+⟪द्विवर्ष⟫ 不是「兩年」，而是：**「兩歲」**  
+
+3. 如此構成的複合詞作為另一個複合詞的前成分  
+範例：  
+pañca + go » pañcagava（作為獨立詞不允許！）+ dhana » ⟪पञ्चगवधन⟫ 陽性「財富為五頭牛的人」
 :::
-::: indent
-⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"  
-:::
-
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet  
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind"
 ::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+圖：⟪षण्मातुरः कार्त्तिकेय⟫：
 Jalakandapuram = ஜலகண்டபுரம்
-(Bildquelle: [Details](/licenses#lekt5207))
+（圖片來源：[詳情](/zh/licenses#lekt5207)）
 :::
 
 ::: grammar-box
-**Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.**
+**表示基數詞（但非方位名）的詞，作為複合詞的前半部分與其他名詞結合時，即使該複合詞意指多個事物的集合（即把兩個或多個事物合併為一個整體），仍可構成限定複合詞（Tatpuruṣa）。**
 
-**Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (:sig[⟪द्विगु⟫])***.**
+**根據此規則構成的限定複合詞稱為「數目限定複合詞」（Dvigu，：sig[⟪द्विगु⟫]）。**
 
-**Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.**
+**表示單一整體的數目限定複合詞通常為中性。若後半部分以 -a 結尾，則可附加陰性後綴 -ī。若後半部分以陰性 -ā 結尾，則其位置可替換為中性 -a 或陰性 -ī。若後半部分以 -an 結尾，則替換為 -a 或 -ī。**
 :::
-Beispiele:
+範例：
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. 「三界之集合、將三界視為一體的整體、三界（天界-地界-地下世界）」
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
+⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. 「三界」
 :::
 ::: grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
+**數目限定複合詞若未附加派生後綴（Taddhita），但具有由該派生後綴所表達的意義，則其性別會根據其所修飾的名詞而定（實際上應視為擁有複合詞 Bahuvrīhi）**
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
+⟪पञ्चगु⟫ 3：「以五頭牛換得」
 :::
-## 52.7. 词汇表
+## 第52.7課。詞彙表
 
-⟪अखिल⟫ 3: lückenlos, ganz
+⟪अखिल⟫ 3：無縫隙的、完整的
 
-⟪निखिल⟫ 3: vollständig, ganz
+⟪निखिल⟫ 3：完全的、完整的
 
 ::: indent
-von:
+出處：
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: 耕地，荒地
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+圖：⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+（圖片來源：[詳情](/zh/licenses#lekt5210)）
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ 副詞：在內，內部；後置詞接屬格、位格（⟪षष्टी⟫, ⟪सप्तमी⟫）：在……之內，在中間；後置詞接屬格、離格（⟪षष्ठी⟫, ⟪पञ्चमी⟫）：從……出來
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 3：互相，彼此
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 第二人稱 ⟪विपर्येति⟫ ：失敗
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+過去分詞 ⟪विपरीत⟫ 3：錯誤的，不正確的
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3：三
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. 主格：br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. 賓格：br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. 工具格：br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. 與格：br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. 離格：br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. 屬格：br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. 位格：br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ 後置詞及前綴，用於名詞和動詞：向外，遠離，出來，顯現，從……中，離開，沒有 - 由
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 第十人稱 ⟪पीडयति⟫ ：壓迫，折磨；困擾，圍困，騷擾
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+圖：⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+（圖片來源：[詳情](/zh/licenses#lekt5212)）
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3：（變格同 ⟪सर्व⟫）遙遠的，外來的，高於（⟪पञ्चम्या⟫），最高的；其他的，外來的，敵意的；m.: 外人
 
 ::: indent
-davon:
+由此：
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ 副詞：高度地，因此，後來，但是，然而
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ 後置詞 (⟪द्वितीयया⟫)：朝向，向，關於，相對於
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 三：主要的，最好的；名詞：最重要的事物
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+圖：⟪प्रधानः मुंबई⟫
+（圖片來源：[詳情](/zh/licenses#lekt5213)）
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ 中性名詞：貪婪，慾望
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ 陽性名詞：部分，章節，群體
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ 陽性名詞：三人組（例如 ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫；或：⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫；或：⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫）
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: ***:sig[⟪उड्ढि⟫]*** : wollen, gebieten, verlangen nach
+⟪वश्⟫ 第二人稱 ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], 命令式 第二人稱單數：:sig[⟪उड्ढि⟫] ：想要，命令，渴望
 
 ::: indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
-Fut. ⟪वशिष्यति⟫
-Pass. ⟪उष्यते⟫
-Kaus. ⟪वाशयति⟫
-PPP ⟪उशित⟫
-Inf. ⟪वशितुम्⟫
-Absol. -⟪वश्य⟫
+完成時 主動詞 ⟪उवाश⟫, ⟪ऊशुर्⟫
+未來時 ⟪वशिष्यति⟫
+被動語態 ⟪उष्यते⟫
+使役語態 ⟪वाशयति⟫
+過去被動分詞 ⟪उशित⟫
+不定式 ⟪वशितुम्⟫
+絕對構式 -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 第二人稱 ⟪वाति⟫ ：吹，颳風
 
 ::: indent
-Perf IV ⟪ववौ⟫
-Fut. ⟪वास्यति⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
+完成時 IV ⟪ववौ⟫
+未來時 ⟪वास्यति⟫
+被動語態 ⟪वायते⟫
+使役語態 ⟪वापयति⟫
+過去被動分詞 ⟪वान । वात⟫
+不定式 ⟪वातुम्⟫
 
-davon:
+由此：
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ 陽性名詞：風
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschließen
+⟪वृज्⟫ 第七類 ⟪वृणक्ति⟫ 第一類 ⟪वर्जति⟫ ：轉動，旋轉；抵擋，排除
 
 ::: indent
-Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
-Fut. ⟪वर्जिष्यति⟫
-Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
-PPP ⟪वृक्त⟫
-Inf. ⟪वर्जितुम्⟫
+完成時 II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
+未來時 ⟪वर्जिष्यति⟫
+被動語態 ⟪वृज्यते⟫
+使役語態 ⟪वर्जयति⟫ ：消除
+使役語態過去被動分詞 ⟪वर्जित⟫ ：失去某物，無...的
+過去被動分詞 ⟪वृक्त⟫
+不定式 ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ 陽性名詞：活動，行為，交往，社交，業務，貿易，（法庭）訴訟
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ 中性名詞：習俗，習慣，本性，性格，良好習慣 = 道德
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ 陽性名詞：太陽
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 第一類被動語態 ⟪सेवते⟫ ：侍奉某人（⟪द्वितीया⟫），服侍，尊敬，愛慕
 
 ::: indent
-Perf I ⟪सिषेवे⟫
-Fut. ⟪सेविष्यते⟫
-Pass. ⟪सेव्यते⟫
-Kaus. ⟪सेवयति⟫
-PPP ⟪सेवित⟫
-Inf. ⟪सेवितुम्⟫
-Absol. -⟪सेव्य⟫
+完成時 I ⟪सिषेवे⟫
+未來時 ⟪सेविष्यते⟫
+被動語態 ⟪सेव्यते⟫
+使役語態 ⟪सेवयति⟫
+過去被動分詞 ⟪सेवित⟫
+不定式 ⟪सेवितुम्⟫
+絕對構式 -⟪सेव्य⟫
 
-davon:
+由此：
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ f.：服務，侍奉
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 3：堅定，堅固，持續，持久
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫，⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3：精通（⟪षष्ठ्या सप्तम्या वा⟫）
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ m.：夜間值班（每段三小時）
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
+⟪परंपरा⟫ f.：連續不斷的一串
 
-⟪अमुत्र⟫ Adv.: dort, dorthin
+⟪अमुत्र⟫ Adv.：那裡，往那裡
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫：移動，前進，落下
 
 ::: indent
-Perf. IIIa ⟪चुच्युवे⟫
-Fut. ⟪च्योष्यते⟫
-Pass. ⟪च्यूयते⟫
-Kaus. ⟪च्यावयति⟫
-PPP ⟪च्युत⟫
+完成式 IIIa ⟪चुच्युवे⟫
+未來式 ⟪च्योष्यते⟫
+被動式 ⟪च्यूयते⟫
+使動式 ⟪च्यावयति⟫
+過去被動分詞 ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫：認知，感知，察覺，體驗
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ n.：輪子
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
-Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+圖注：⟪चक्रम्⟫
+科納克 = ⟪कोनार्क⟫
+（圖片來源：[詳情](/zh/licenses#lekt5214)）
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ f.：香蕉樹（_Musa_ sp.）
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
-Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+圖注：⟪कदली⟫
+亨比 = ಹಂಪೆ
+（圖片來源：[詳情](/zh/licenses#lekt5208)）
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ m.n.：核心，髓質，本質，實質
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 3：天上的，神聖的
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 3：最好的
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ m.：鏡子
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ m.n.：污垢，瑕疵
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+圖注：⟪मलम् मुंबई⟫
+（圖片來源：[詳情](/zh/licenses#lekt5215)）
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ n.：因陀羅的天界
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ m.：人格化的惡，人格化的誘惑／操縱，魔鬼
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+圖注：
+阿馬拉瓦蒂 = అమరావతి，公元2世紀
+（圖片來源：[詳情](/zh/licenses#lekt5217)）
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 3：渴望完全認知的人
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫：保護，拯救
 
 ::: indent
-Perf. IV ⟪तत्रे⟫
-Fut. ⟪त्रास्यते⟫
-Pass. ⟪त्रायते⟫
-Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
-Inf. ⟪त्रातुम्⟫
+完成式 IV ⟪तत्रे⟫
+未來式 ⟪त्रास्यते⟫
+被動式 ⟪त्रायते⟫
+使動式 ⟪त्रापयति⟫
+過去被動分詞 ⟪त्राण । त्रात⟫
+不定式 ⟪त्रातुम्⟫
 :::
-## 52.8. 翻译练习
+## 52.8. 翻譯練習
 
-⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+⟪१⟫。⟪मनुस्मृति ४⟫，⟪१५९⟫ - ⟪१६१⟫
 
 ::: indent
-⟪यद्यत्परवशं⟫ ⟪कर्म⟫
-⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
-⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
-⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫
+⟪यद्यत्परवशं कर्म ततद्यत्नेन वर्जयेत् । यद्यदात्मवशं तु स्यात् ततत्सेवेत यत्नतः ॥१५९॥ सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् । एतद्विद्यात्समासेन लक्षणं सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥ यत्कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः । तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥१६१॥⟫
 
-⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
-⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
-⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫*:sig[⟪योः⟫]* ⟪॥१६०॥⟫
-
-⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
-⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
-⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
-⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
-
-Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
+解釋：⟪सुखदुःखयोः⟫ 屬格/處所格/雙數，陽性、陰性、中性（雙重二元）
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
+⟪२⟫。⟪मनुस्मृति २⟫，⟪६⟫ 關於 ⟪धर्म⟫ 的來源
 
 ::: indent
-⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫*:sig[⟪ले⟫]* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
-⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
-⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
+⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫:sig[⟪ले⟫] ⟪च तद्विदाम् । आचआरश्चैव साधूनाम् आत्मनस्तुष्टिरेव च ॥६॥⟫
 
-Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+解釋： ⟪स्मृतिशीले⟫ 主格/賓格，雙數，中性（雙重二元）
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+⟪३⟫。⟪कौटिलीयार्थशास्त्र १⟫，⟪७⟫，⟪२⟫ - ⟪७⟫ 關於 ⟪अर्थ⟫，⟪काम⟫，⟪धर्म⟫ 在王子生活中的
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
+⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫，⟪स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत⟫，⟪न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि धर्मका⟫:sig[⟪मावि⟫]⟪ति ।७।⟫
 
 ::: indent
-Erklärungen:
+解釋：
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer"
+⟪इतरौ⟫ 主格/賓格，雙數，陽性，對應 ⟪इतर⟫ 第3項 "其他"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva)
+⟪अर्थमूलौ⟫，⟪धर्मकामौ⟫ 主格/賓格，雙數，陽性（⟪धर्मकामौ⟫ 為雙重二元）
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis
+⟪४⟫。⟪अश्वघोष⟫（公元2世紀）：⟪बुद्धचरित ४⟫ 佛陀的救度智慧
 
 ::: media
 ![](/images/lekt5216.webp)
-Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Bildquelle: [Details](/licenses#lekt5216))
+圖：⟪अश्वत्थो महाबोधिवृक्षः⟫
+_Ficus religiosa_ L. ⟪बोधगया⟫，約1810年
+（圖片來源：[詳情](/zh/licenses#lekt5216)）
 :::
 
 ::: indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
-
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
-
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
-
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
-
-⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
-⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
-⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
-
-⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
-⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
-⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
-
-⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
-⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
-⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
-
-⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
-⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
-⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
-
-⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
-⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
-⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
-
-⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
-⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
-⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
-## 52.9. Aufgaben während der Semesterferien
+## 52.9. 學期假期期間的任務
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet.
+隨著第52課的結束，梵語課程的第一學期（13週，每週4節課）也告一段落。
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
+在學期假期期間，應完成以下任務：
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders:
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen
-    2.  Wörter
-    3.  Stammformen
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum
-3.  Durcharbeiten von [Lektion 53](lektion53.md)
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet)
-5.  Vorbereitung von ⟪भगवद्गीता⟫ Kap. 1, Lernen der dazugehörigen Wörter auf den Wortlisten (noch nicht im Internet)
-6.  Metrische Analyse aller Verse von ⟪भगवद्गीता⟫ ⟪१⟫  
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19
-7.  Lesen einer ⟪महाभारत⟫-Nacherzählung, z.B.  
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien)
-8.  Durcharbeiten:  
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government)
-9.  Fertig durcharbeiten von:  
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10.  Beginn mit der Durcharbeit von:  
-     **Winternitz, Moriz \<1863 - 1937\>:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
+1. 複習迄今為止所學的全部內容，特別是：
+1. 背誦動詞變位和名詞變格的範式
+2. 單字
+3. 詞幹形式（Stammformen）
+2. 盡可能多地背誦古典文獻中的詩歌和散文段落
+3. 研讀 [第53課](lektion53.md)
+4. 研讀《薄伽梵歌》第1至11章的講義（尚未上線）
+5. 預習 ⟪भगवद्गीता⟫ 第1章，學習詞彙表中的相關單字（尚未上線）
+6. 對 ⟪भगवद्गीता १⟫ 中的所有詩歌進行格律分析
+以下連結可提供該文本誦讀形式的良好印象：[http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3)。 -- 訪問日期：2009-01-19
+7. 閱讀 ⟪महाभारत⟫ 的敘述版本，例如：
+Mahābhārata：印度的宏大史詩 / 由 Biren Roy 從梵文翻譯並簡編。 -- 第 10 版。 -- 慕尼黑 : Diederichs, 1995. -- 335 頁 ; 19 公分。 -- (Diederichs 黃色系列 ; 16 : 印度)
+8. 研讀：
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government)
+9. 完成研讀：
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
+10. 開始研讀：
+**Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (至今仍被認為是關於梵語、巴利語和普拉克里特文學最優秀的文學史)
 
 ::: media
 ![](/images/lekt5201.webp)
-Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt5201))
+圖：⟪श्रीगुम्पिः⟫，⟪मम मन्त्री⟫
+（圖片：Payer）
+（圖片來源：[詳情](/zh/licenses#lekt5201)）
 :::
 

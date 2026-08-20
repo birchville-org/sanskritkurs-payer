@@ -1,197 +1,203 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "Pelajaran 5"
+subtitle: "Dasar-dasar Komposita Nomina (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 5
 
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+## 5.1. Komposita Nomina (samāsa m. = ⟪समास⟫)
 
-Pembentukan kata majemuk dalam jumlah yang sangat besar adalah ciri khas bahasa Sanskerta.
+Pembentukan kata majemuk dalam skala yang sangat besar merupakan ciri khas bahasa Sanskerta.
 
 Bentuk-bentuk pembentukan komposita yang paling penting adalah:
-- **komposita kopulatif** (dvandva n. = ⟪द्वन्द्व⟫)
-- **komposita determinatif** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **komposita posesif** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
+**komposita kopulatif** (dvandva n. = ⟪द्वन्द्व⟫)
+**komposita determinatif** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+**komposita posesif** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
 (Untuk dua yang terakhir, lihat nanti!)
 
+
 ## 5.2. Tentang Terminologi Sanskerta untuk Komposita
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Anggota sebuah komposita
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Pembongkaran sebuah komposita
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Komposita yang tidak memiliki vigrahavākya atau vigrahavākyanya tidak mungkin dibentuk dengan kata-kata komposita tersebut.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Komposita di mana anggota pertama mempertahankan akhiran kasus
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Komposita di mana anggota pertamanya tanpa akhiran kasus (keadaan normal)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Komposita di mana satu atau beberapa anggota tengah dihilangkan
+**ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Bagian-bagian dari sebuah kompositum
+**vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Pembongkaran sebuah kompositum
+**nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Kompositum yang tidak memiliki vigrahavākya atau vigrahavākya-nya tidak mungkin dibentuk dengan kata-kata dari kompositum tersebut.
+**aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Kompositum di mana bagian depan mempertahankan akhiran kasus
+**luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum yang bagian depannya tanpa akhiran kasus (keadaan normal)
+**madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum di mana satu atau beberapa bagian tengah dihilangkan
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
 
-Komposita kopulatif berfungsi untuk menghubungkan anggota-anggota yang setara secara gramatikal dan terkoordinasi (kata benda atau kata sifat).
+## 5.3. Komposita Kopulatif (Dvandva n. = ⟪द्वन्द्व⟫)
+
+Komposita kopulatif digunakan untuk menghubungkan bagian-bagian yang setara secara gramatikal dan terkoordinasi (kata benda atau kata sifat).
 
 ::: grammar-box
-**Sebuah Ddvandva menunjukkan:**
+**Sebuah Dvandva menyatakan:**
 
-1. **baiklah hubungan penjumlahan dari orang, benda, atau sifat yang ditunjuk oleh anggota-anggota tunggalnya:**
+1. **baik hubungan penjumlahan dari orang, benda, atau sifat yang ditunjuk oleh bagian-bagiannya secara individual:**
 Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
 2. **atau ia menggabungkan orang, benda, atau sifat-sifat tersebut menjadi satu kesatuan:**
-Samāhāradvandva ("Ddvandva ringkasan") = ⟪समाहारद्वन्द्व⟫
+Samāhāradvandva ("Dvandva penggabungan") = ⟪समाहारद्वन्द्व⟫
 
 **Dalam kasus pertama (Itaretaradvandva):**
-Ddvandva memperoleh jenis kelamin gramatikal dari anggota terakhirnya dan akhiran dualis (untuk dua benda) atau pluralis (untuk lebih dari dua benda). Akhiran singular juga diperbolehkan.
+Dvandva menerima jenis kelamin gramatikal dari anggota terakhirnya dan akhiran dual (untuk dua hal) atau plural (untuk lebih dari dua). Akhiran singular juga diperbolehkan.
 
 **Dalam kasus kedua (Samāhāradvandva):**
-Ddvandva umumnya adalah neutrum (terlepas dari jenis kelamin anggota terakhirnya) dan berada dalam bentuk singular.
+Dvandva umumnya berupa neutrum (terlepas dari jenis kelamin anggota terakhirnya) dan berada dalam bentuk singular.
 
-**Pembongkarannya:**
+**Penguraian:**
 Dilakukan dengan "dan" (**ca** = ⟪च⟫), kadang-kadang dengan "atau" (**vā** = ⟪वा⟫) atau "masing-masing".
 :::
-Lihat nanti untuk Ddvandva dualis!
+Lihat bagian selanjutnya untuk Dvandva Dual!
 
-### 5.3.1. Anggota Depan dari Komposita
+### 5.3.1. Unsur Depan Komposita
 
-Anggota pertama komposita (bukan hanya Ddvandvas) umumnya berbentuk **stam nomina** yang tidak berubah. Anggota-anggota tunggal komposita dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
+>> Unsur depan komposita (tidak hanya Dvandva) umumnya berbentuk **akar nominal** yang tidak berubah. Unsur-unsur individual dari komposita digabungkan sesuai aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
-### 5.3.2. Jamak-Itaretaradvandva
+### 5.3.2. Plural-Itaretaradvandva
 
-Contoh untuk Ddvandvas plural:
+Contoh Dvandja Plural:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas dan Śūdras)
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+> (Brahmana, Kṣatriya, Vaiśya dan Śūdra)
 > 
-> atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((seorang/tertentu) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
+> atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+> ((seorang/ sang) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (penyair dan guru [Jamak])
-> (Catatan: "Seorang penyair dan seorang guru" harus dalam bentuk Dual!)
+> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+> (Penyair dan guru [Plural])
+> (Catatan: "Seorang penyair dan seorang guru" harus berada dalam bentuk Dual!)
 
-**Untuk urutan anggota dalam Dvandva berlaku aturan berikut:**
-- Penamaan berbagai kasta (**varṇa**) harus diurutkan sesuai hierarkinya (tertinggi terlebih dahulu).
-- Nama kakak laki-laki harus didahulukan daripada nama adik laki-laki.
-- Secara umum, kata yang lebih penting harus diletakkan di awal.
-- Kata-kata yang berakhiran **-i** atau **-u** harus didahulukan.
-- Kata-kata yang berakhiran **-a** dan diawali dengan vokal harus didahulukan.
-- Kata-kata yang memiliki lebih sedikit suku kata harus didahulukan.
+**Untuk urutan unsur-unsur dalam Dvandva, berlaku antara lain aturan berikut:**
+Penamaan berbagai kasta (**varṇa**) harus diurutkan sesuai hierarkinya (yang tertinggi terlebih dahulu).
+Nama kakak laki-laki harus didahulukan daripada nama adik laki-laki.
+Secara umum, kata yang lebih penting harus diletakkan di awal.
+Kata-kata yang berakhiran **-i** atau **-u** harus didahulukan.
+Kata-kata yang berakhiran **-a** dan dimulai dengan vokal harus didahulukan.
+Kata-kata yang mengandung lebih sedikit suku kata harus didahulukan.
 
-Apabila dua dari tiga ketentuan yang disebutkan terakhir dapat berlaku secara bersamaan, maka aturan yang diberikan kemudian selalu harus diikuti. (Contoh Dvanda dwandva untuk aturan-aturan ini terdapat pada Kielhorn, Gramatika § 570).
+Jika dua dari tiga ketentuan terakhir dapat berlaku secara bersamaan, maka selalu ikuti aturan yang diberikan kemudian. (Contoh Dvandva Dwivacana untuk aturan-aturan ini terdapat pada Kielhorn, Grammatik § 570).
+
 
 ## 5.4. Daftar Kata
 
 **Pelajari kata-kata berikut:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : kecenderungan untuk, keteguhan, penekanan; secara khusus: keterikatan pada tubuh seolah-olah itu adalah milik pribadi.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : kecenderungan, kekerasan kepala, keteguhan; khususnya: keterikatan pada tubuh seolah-olah itu adalah milik pribadi.
 
-**kāma** m. = ⟪काम⟫ : Keinginan, kerinduan, anugerah yang diharapkan, kenikmatan indra, cinta; Dewa Cinta Kāma.
+**kāma** m. = ⟪काम⟫ : keinginan, hasrat, anugerah yang diinginkan, kenikmatan indria, cinta; Dewa Cinta Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
+Ilustr.: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18.
 (Sumber gambar: Wikipedia, Domain Publik)
 :::
-**krodha** m. = ⟪क्रोध⟫ : kemarahan.
+**krodha** m. = ⟪क्रोध⟫ : amarah.
 
-**kleśa** m. = ⟪क्लेश⟫ : Kesusahan, penderitaan.
+**kleśa** m. = ⟪क्लेश⟫ : penderitaan, siksaan.
 
-**trayī** f. = ⟪त्रयी⟫ : Tiga; khususnya tiga Veda (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : bilangan tiga; khususnya ketiga Veda (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (sebuah Tatpuruṣa dari daṇḍa m. = "tongkat, kekuasaan, pemerintahan, hukuman" dan nīti f. = "pimpinan yang benar").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politik (sebuah Tatpuruṣa dari daṇḍa m. = "tongkat, kekuasaan, pemerintahan, hukuman" dan nīti f. = "panduan yang benar").
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Terlahir dua kali.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : yang lahir dua kali.
 
 **dveṣa** m. = ⟪द्वेष⟫ : Kebencian.
 
-**maitrī** f. = ⟪मैत्री⟫ : persahabatan, keramahan, kerelaan yang ramah.
+**maitrī** f. = ⟪मैत्री⟫ : Persahabatan, keramahan, welas asih yang ramah.
 
 **rāga** m. = ⟪राग⟫ : (warna) merah, gairah, cinta.
 
-**lobha** m. = ⟪लोभ⟫ : Ketamakan, keserakahan.
+**lobha** m. = ⟪लोभ⟫ : Keserakahan, ketamakan.
 
-**varṇa** m. = ⟪वर्ण⟫ : Warna, Kategori, Tingkatan.
+**varṇa** m. = ⟪वर्ण⟫ : Warna, jenis, kasta.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Penghasilan, ekonomi (perdagangan).
+**vārttā** f. = ⟪वार्त्ता⟫ : Penghidupan, ekonomi (perdagangan).
 
-**vidyā** f. = ⟪विद्या⟫ : Pengetahuan, Ilmu.
+**vidyā** f. = ⟪विद्या⟫ : Pengetahuan, ilmu pengetahuan.
 
-**avidyā** f. = ⟪अविद्या⟫ : Ketidaktahuan, ketidakpengetahuan.
+**avidyā** f. = ⟪अविद्या⟫ : Ketidaktahuan, kebodohan.
 
 **ca** = ⟪च⟫ : dan.
-(Ditempatkan setelah kata yang disambungkannya. Jika lebih dari satu kata disambungkan, idealnya diletakkan setelah kata pertama dari rangkaian penghubung terakhir: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+(Ditempatkan setelah kata yang dihubungkannya. Jika beberapa kata digabungkan, sebaiknya diletakkan di belakang kata pertama dari rangkaian penggabungan terakhir: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : baik ... maupun.
 
+
 ## 5.5. Latihan
 
-**A) Terjemahkan kalimat-kalimat dan komposita berikut serta uraikan Dvandva yang terdapat di dalamnya ke dalam bahasa Sanskerta:**
+**A) Terjemahkan kalimat-kalimat dan majas berikut, serta uraikan Dvandva yang terkandung di dalamnya ke dalam bahasa Sanskerta:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
-   (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Penjelasan: catvāras = ⟪चत्वारस्⟫ = "empat")
+(Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
+⟪चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+(Penjelasan: catvāras = ⟪चत्वारस्⟫ = "empat")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
-   (Vāsiṣṭhadharmaśāstra II,1)
-   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Penjelasan: trayas = ⟪त्रयस्⟫ = "tiga")
+(Vāsiṣṭhadharmaśāstra II,1)
+⟪त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः⟫ ||
+(Penjelasan: trayas = ⟪त्रयस्⟫ = "tiga")
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / dalam Sanskerta yang baik: sāmārgyajurvedās trayī)
-   ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (dalam Sanskerta yang baik: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(Kauṭilīya-arthaśāstra 1.3.1. / dalam bahasa Sanskerta yang baik: sāmārgyajurvedās trayī)
+⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
+(dalam bahasa Sanskerta yang baik: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
-4. Tiga musuh manusia yang membentuk pintu menuju neraka (Viṣṇusmṛti 33,1+6):
+4. Tiga musuh manusia yang menjadi pintu menuju neraka (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-   ⟪कामक्रोधलोभाः⟫ ||
+⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Penjelasan: brahmavihāra: "Keadaan Tinggal Brahman", juga disebut "Yang Tak Terukur". Ini adalah bentuk meditasi Buddha.)
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫ ||
+(Penjelasan: brahmavihāra: "keadaan berdiam Brahma", juga disebut "Yang Tak Terukur". Ini adalah bentuk-bentuk meditasi Buddha.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
-   (Yogasūtra 2,3)
-   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Penjelasan: pañca = "lima")
+(Yogasūtra 2,3)
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः⟫ ||
+(Penjelasan: pañca = "lima")
 
-7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-   (Setelah Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
+(Menurut Kauṭilīya-arthaśāstra 1.2.1.)
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
-## 5.6. Latihan Tinjauan
 
-**A) Terjemahkanlah:**
+## 5.6. Latihan Ulang
+
+**A) Terjemahkan:**
 
 1. vidyā vārttā.
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
+⟪विद्या वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫ |
 
 3. dvijā vaiśyāḥ. (2 kemungkinan)
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
+⟪द्विजा वैश्याः⟫ |
 
 **B) Masukkan bentuk yang sesuai:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Uraikan majemuk (kompositum) dalam kalimat Sanskerta berikut dan bentuklah kalimat yang sama dengan bentuk uraiannya:**
+**C) Uraikan kompositum dalam kalimat berikut ke dalam bahasa Sanskerta dan buatlah kalimat yang sama dengan bentuk yang telah diuraikan tersebut:**
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Terjemahkan ke dalam bahasa Sanskerta dengan dua cara (sekali dengan kompositum, sekali tanpa):**
+**D) Terjemahkan ke dalam bahasa Sanskerta dengan dua cara (sekali menggunakan kompositum, sekali tanpa):**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
+"Keadaan berdiam Brahma" adalah: welas asih yang ramah, belas kasihan, sukacita bersama, dan keseimbangan batin.

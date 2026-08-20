@@ -20,20 +20,20 @@ mis. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu a
 :::
 Kopula verbal ("adalah", "saya adalah", "kamu adalah") tidak diperlukan, tetapi kadang-kadang dapat muncul.
 
-Tidak ada **artikel**: **devaḥ** -- ⟪देवः⟫ dapat berarti "sang dewa" atau "seorang dewa".
+Tidak ada **artikel**: **devaḥ** -- ⟪देवः⟫ dapat berarti "dewa itu" atau "seorang dewa".
 
-Meskipun dalam bahasa Sanskerta susunan kalimat cukup bebas (terutama dalam syair), saat menerjemahkan sebuah kalimat nominal, Anda harus selalu mempertimbangkan terjemahan sesuai dengan skema standar di atas sebagai prioritas utama.
+Meskipun dalam Sanskrit susunan kalimat cukup bebas (terutama dalam ayat), saat menerjemahkan sebuah kalimat nominal, Anda harus selalu mempertimbangkan terjemahan sesuai dengan skema standar di atas sebagai prioritas utama.
 
-Dalam kalimat nominal, subjek berada dalam kasus Nominatif (kasus pertama = **prathamā** f. = ⟪प्रथमा⟫). Nama predikat sesuai dengan subjek dalam hal jumlah dan kasus; jika nama predikat adalah kata sifat, ia juga sesuai dalam jenis kelamin.
+Dalam kalimat nominal, subjek berada dalam Nominatif (kasus pertama = **prathamā** f. = ⟪प्रथमा⟫). Nama predikat sesuai dengan subjek dalam jumlah dan kasus; jika nama predikat adalah kata sifat, ia juga sesuai dalam jenis kelamin.
 
 
-## 2.2. Tentang Deklinasi (Pembentukan Kata Benda)
+## 2.2. Tentang Deklinasi (Pembuahan Nomina)
 
-Dalam bahasa Sanskerta terdapat:
+Dalam Sanskrit terdapat:
 
 **tiga Numeri** (bentuk hitungan) = **vacana** n. -- ⟪वचन⟫
 Singular (tunggal) = **ekavacana** n. -- ⟪एकवचन⟫
-Dual (duanya) = **dvivacana** n. -- ⟪द्विवचन⟫
+Dual (duaan) = **dvivacana** n. -- ⟪द्विवचन⟫
 Plural (jamak) = **bahuvacana** n. -- ⟪बहुवचन⟫
 **tiga Genera** (jenis kelamin gramatikal) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
 Maskulinum (laki-laki) = **puṃs** m. -- ⟪पुंस्⟫
@@ -41,49 +41,48 @@ Femininum (perempuan) = **strī** f. -- ⟪स्त्री⟫
 Neutrum (netral) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 **delapan Kasus** (kasus) = **sup** -- ⟪सुप्⟫ (= akhiran kasus)
 
-Untuk deklinasi, akhiran kasus (**sup** = ⟪सुप्⟫) ditambahkan ke apa yang disebut **stam nomina** (bentuk kata benda tanpa akhiran kasus).
+Untuk deklinasi, akhiran kasus (**sup** = ⟪सुप्⟫) ditambahkan ke apa yang disebut **stam nomina** (bentuk nama tanpa akhiran kasus).
+Contoh: **devas** = ⟪देवस्⟫ (Nominatif Tunggal Maskulin) "dewa" = **deva-** -- ⟪देव⟫- (akar kata benda) + **-s** -- -⟪स्⟫ (akhiran kasus).
 
-Contoh: **devas** = ⟪देवस्⟫ (Nominatif Singular Maskulinum) "tuhan/seorang dewa" = **deva-** -- ⟪देव⟫- (Stem Nomina) + **-s** -- akhiran kasus -⟪स्⟫.
-
-Dalam kamus Sanskerta, nomina dicantumkan dalam **Stem Nominal**:
-**deva** m. -- ⟪देव⟫ m. (maskulin)
-**vacana** n. -- ⟪वचन⟫ n. (netral)
-**vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
+Dalam kamus bahasa Sanskerta, kata benda dicantumkan dalam **bentuk dasar kata benda**:
+- **deva** m. -- ⟪देव⟫ m. (maskulin)
+- **vacana** n. -- ⟪वचन⟫ n. (netral)
+- **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
 
 
-## 2.3. Nominatif Singular
+## 2.3. Bentuk Nominatif Tunggal
 
-**Nominatif Singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
+**Nominatif Tunggal = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Nominatif Singular berakhir dengan -s = akhiran -⟪स्⟫ atau bebas akhiran.**
+**Nominatif tunggal berakhiran -s = -⟪स्⟫ atau tanpa akhiran.**
 :::
-### 2.3.1. Nominatif Singular dengan akhiran -s
+### 2.3.1. Nominatif Tunggal yang berakhiran -s
 
-Stem nomina berikut, yang berakhir dengan vokal, membentuk Nominatif Singular dengan akhiran **-s**:
+Akarkata berikut, yang berakhir dengan vokal, membentuk nominatif tunggal dengan akhiran **-s**:
 
 ::: grammar-box
-**Maskulin dengan akhiran -a:** mis. deva m. = ⟪देव⟫ "dewa" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulin dengan akhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulin dengan akhiran -u:** mis. guru m. = ⟪गुरु⟫ "guru" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Kata benda maskulin yang berakhiran -a:** mis. deva m. = ⟪देव⟫ "Dewa" -- Nominatif tunggal: devas = ⟪देवस्⟫
+**Kata benda maskulin yang berakhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nominatif tunggal: kavis = ⟪कविस्⟫
+**Kata benda maskulin yang berakhiran -u:** mis. guru m. = ⟪गुरु⟫ "Guru" -- Nom. tunggal: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Akhiran suatu kata dalam Sanskerta juga disesuaikan dengan awalan kata berikutnya. Fenomena ini disebut **Sandhi** (m.) = ⟪सन्धि⟫ ("penyatuan").
+Akhiran sebuah kata dalam bahasa Sanskerta juga bergantung pada awalan kata berikutnya. Fenomena ini disebut **Sandhi** (m.) = ⟪सन्धि⟫ ("hubungan").
 
-### 2.4.1. Sandhi dari akhiran -s
+### 2.4.1. Sandhi pada akhiran -s
 
-Lihat juga ringkasan:
+Lihat juga ikhtisar:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi dari akhiran -s. -- (Materi Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+&gt; **Payer, Alois (1944–):** Sandhi pada akhiran -s. -- (Materi tentang bahasa Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Akhiran **-s**:
+**-s** di akhir kata:
 
-**dalam posisi akhir mutlak** (akhir kalimat) berubah menjadi **Visarga (-ḥ)**:
-**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+- **pada akhir kata mutlak** (akhir kalimat), huruf ini berubah menjadi **Visarga (-ḥ)**:
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
 **sebelum bunyi tak bersuara**:
 sebelum **k, kh, p, ph** dan **ś, ṣ, s**: berubah menjadi **Visarga (-ḥ)**
@@ -147,11 +146,11 @@ studi Weda
 **para Śūdra**
 melayani tiga kelas atas
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Dua Kali Lahir" (Inisiatus dari tiga kelas atas: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Dua Kali Terlahir" (Inisiatus dari tiga kelas atas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Warna, kasta kelahiran (kecenderungan).
 
-Empat kelas (**varṇa** m.) sering disamakan dengan kasta. Namun, empat kelas itu -- berbeda dari kasta -- bukanlah sesuatu yang spesifik India; di Eropa pun kita memiliki (sebagian hingga Perang Dunia Pertama) sistem kelas, seperti yang dibuktikan oleh gambar berikut dari abad ke-15:
+Empat kelas (**varṇa** m.) sering disamakan dengan kasta. Namun, empat kelas ini -- berbeda dari kasta -- bukanlah sesuatu yang spesifik India; di Eropa pun kita memiliki (sebagian hingga Perang Dunia Pertama) sistem kelas, seperti yang dibuktikan oleh gambar berikut dari abad ke-15:
 
 ::: media
 ![](/images/lekt0201.webp)
@@ -165,12 +164,12 @@ Ilustrasi: Penggambaran pembagian kelas masyarakat Eropa Abad Pertengahan (ukira
 
 Ketiga kelas tersebut mengenakan pakaian khas masing-masing. Di atas kelas-kelas -- yang dengan demikian disebut sebagai kehendak Tuhan -- takhta Kristus.
 
-Max Weber \&lt;1864 – 1920\&gt; mendefinisikan kelas sebagai berikut:
+Max Weber (1864–1920) mendefinisikan kelas sebagai berikut:
 
 ::: note-box
 »**Kelas**« haruslah berarti sekelompok orang yang dalam suatu ikatan
-a) memiliki penilaian khusus secara kasta, - mungkin juga
-b) menuntut monopoli khusus secara kasta.
+a) memiliki penilaian khusus kelas, - mungkin juga
+b) mengklaim monopoli khusus kelas.
 
 Kasta dapat terbentuk
 a) secara primer, melalui gaya hidup kasta sendiri, termasuk khususnya melalui jenis **pekerjaan** (**kasta profesi/gaya hidup**),
@@ -184,10 +183,9 @@ Sementara kelas pendapatan tumbuh di tanah ekonomi berorientasi pasar, kasta leb
 »**Kastal**« seharusnya disebut masyarakat jika pengelompokan sosial terutama menurut kasta, »**klasikal**«, jika terutama menurut kelas. Dari »kelas« yang terdekat dengan »kasta« adalah kelas »sosial«, yang paling jauh adalah »kelas pendapatan«. Kasta sering dibentuk oleh kelas kepemilikan menurut titik berat mereka.
 
 Setiap masyarakat kastal bersifat konvensional, diatur oleh aturan gaya hidup, sehingga menciptakan kondisi konsumsi yang tidak rasional secara ekonomi dan menghambat pembentukan pasar bebas dengan cara ini melalui apropriasi monopoli dan dengan mengeliminasi disposisi bebas atas kemampuan pendapatan sendiri.
-
-[**Weber, Max <1864 – 1920>:** Ekonomi dan Masyarakat : Kerangka Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
+[**Weber, Max (1864–1920):** Ekonomi dan Masyarakat: Garis Besar Sosiologi Hermeneutik. – Edisi ke-5 yang telah direvisi. – Tübingen: Mohr, 1976. – hlm. 625 dst.]
 :::
-Varṇa adalah kasta kelahiran.
+Varṇa, dengan demikian, adalah kasta berdasarkan kelahiran.
 
 **kavi** m. -- ⟪कवि⟫ : Penyair.
 
@@ -195,48 +193,48 @@ Varṇa adalah kasta kelahiran.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Fig.: Dewa Agni, Miniatur, abad ke-18.
+Gambar: Dewa Agni, miniatur, abad ke-18.
 (Sumber gambar: [Detail](/id/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : benar, baik.
 
-**sādhu** m. -- ⟪साधु⟫ : Pria "suci", Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : pria "suci", Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Fig.: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
+Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
 (Sumber gambar: [Detail](/id/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : berat, penting, layak disembah
+**guru** 3 -- ⟪गुरु⟫ : berat, penting, patut dihormati
 
-**guru** m. -- ⟪गुरु⟫ : Orang yang layak disembah: Ayah, Ibu, kerabat lebih tua, khususnya Guru, Master
+**guru** m. -- ⟪गुरु⟫ : orang yang patut dihormati: Ayah, ibu, kerabat yang lebih tua, khususnya guru, master
 
 
 ## 2.6. Latihan
 
-**A) Terapkan Sandhi dan bentuk Kalimat Nominal:**
+**A) Gunakan sandhi dengan benar dan buatlah kalimat nomina:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
-4. **vaiśyas ... (Tulādhara)**
-= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+4. **vaiśya ... (Tulādhara)**
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Terjemahkan ke dalam Sanskerta:**
+**B) Terjemahkan ke dalam bahasa Sanskerta:**
 
 1. Rāma adalah seorang Brahmana.
-2. Guru adalah seorang Waisya.
-3. Śūdra adalah pria suci.
-4. Penyair adalah guru.
+2. Guru itu adalah seorang Vaiśya.
+3. Śūdra itu adalah seorang suci.
+4. Penyair itu adalah guru.
 5. Viṣṇu adalah TUHAN.
 6. TUHAN adalah Śiva.
-7. Yang Lahir Dua Kali adalah seorang Brahmana.
-8. Pria suci adalah guru.
-9. Guru adalah pria suci.
+7. Orang yang dilahirkan dua kali adalah seorang Brahmana.
+8. Orang suci itu adalah seorang guru.
+9. Guru itu adalah seorang orang suci.

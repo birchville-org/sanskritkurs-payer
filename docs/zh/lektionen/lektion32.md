@@ -1,52 +1,53 @@
 ---
-title: Lektion 32
+title: "# 第32課"
 lesson_id: 32
 status: stable
+
 ---
 
 # 第32課
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. 過去時態
 
 ::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
+**在較早期的梵文文學中，本土語法學家清楚區分了三個過去時態的用法：**
 
-*   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
-*   **das Imperfekt (⟪लङ्⟫) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit**
-*   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
+*   **不定過去式（⟪लुङ्⟫，⟪अद्यतनी⟫）單純表示動作的完成，或指稱在當天發生的事，即近過去**
+*   **未完成過去式（⟪लङ्⟫）指稱在當天之前發生的事，即遠過去**
+*   **完成式（⟪लिट्⟫）與未完成過去式一樣指稱遠過去，但與未完成過去式相反，僅用於說話者本人未曾親眼目睹的事件**
 
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
+**在古典梵文文學中，三個過去時態的用法沒有意義上的區別（例外：⟪भारवि⟫的詩作⟪किरातार्जुनीय⟫）。**
 :::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+## 32.2. 未完成過去式（⟪लङ्⟫）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+**增音 a- + 現在詞幹 + 次要詞尾**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
+**第三人稱單數中主動語態未完成過去式，對於無母音詞幹由強現在詞幹構成，所有其他形式則由弱現在詞幹構成。**
 
-**Das Imperfekt hat nur den Indikativ.**
+**未完成過去式僅有直陳語氣。**
 :::
-Beispiele:
+範例：
 
 ::: indent
-**⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
+⟪भू⟫ 第三人稱單數未完成過去式主動語態 ⟪अभवत्⟫ (a-bhava-t)
 
 ⟪सु⟫
-*   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
-*   3. pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
+*   第三人稱單數未完成過去式主動語態 ⟪असुनोत्⟫ (a-suno-t)
+*   第三人稱複數未完成過去式主動語態 ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Regeln für das Augment
+## 32.3. 增音規則
 
 ::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
+**1. 當增音 a- 出現在以元音開頭的詞根之前時，增音與詞根的起始元音會融合為⟪वृद्धि⟫。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| | 3. sg. Impf. | 3. pl. Impf. |
+| | 第三人稱單數未完成時 | 第三人稱複數未完成時 |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
@@ -54,13 +55,13 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
+**2. 若前字位於詞根之前，則增音 a- 緊接於前字之後、詞根之前。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| | 3. sg. Impf. |
+| | 第三人稱單數未完成時 |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
@@ -68,176 +69,162 @@ Beispiele:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. 未完成時構成的範例
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
+**為示範形式的構成，此處亦針對「他動詞」詞根構建「中動語態」形式！這些人工構成的形式以 \&lt; \&gt; 標示。**
 :::
-### 32.4.1. Thematische Präsensklassen
+### 32.4.1. 主題性現在時類別
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| 現在時類別 | 詞根:br⟪धातु⟫ | 第三人稱單數他動詞 | 第三人稱複數他動詞 | 第三人稱單數中動語態 | 第三人稱複數中動語態 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
-| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \&lt;⟪अविशत⟫\&gt; | \&lt;⟪अविशन्त⟫\&gt; |
+| 10. / 使動 | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| 被動語態 | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. 非主題性現在時類別
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| 現在時類別 | 詞根:br⟪धातु⟫ | 第三人稱單數他動詞 | 第三人稱複數他動詞 | 第三人稱單數中動語態 | 第三人稱複數中動語態 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
 | 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \&lt;⟪आप्नुत⟫\&gt; | \&lt;⟪आप्नुवत⟫\&gt; |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. 词汇表
+## 32.5. 詞彙表
 
-**⟪अग्र⟫ n.:** Spitze, äußerstes Ende
+**⟪अग्र⟫ n.:** 尖端，最遠端
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Große)
+**⟪मही⟫ f.:** 大地，地面（字面意：偉大者）
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+圖：⟪चूतः⟫
+芒果樹，坎普爾。
+（圖片來源：[詳情](/zh/licenses#lekt3202)）
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+圖：⟪वानराः⟫
+猴子（恆河猴）在新德里。
+（圖片來源：[詳情](/zh/licenses#lekt3203)）
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+圖：⟪उपलाः⟫
+浦那南部的石礦場，馬哈拉施特拉邦。
+（圖片來源：[詳情](/zh/licenses#lekt3204)）
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+圖：⟪लक्ष्यम्⟫
+射擊練習 / 箭靶，卡納塔克邦。
+（圖片來源：[詳情](/zh/licenses#lekt3205)）
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+圖：⟪चितं गोमयं दहति⟫
+拉賈斯坦邦燃燒的牛糞餅。
+（圖片來源：[詳情](/zh/licenses#lekt3207)）
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+圖：⟪कौशलम्⟫
+孟買手部海娜紋身繪畫。
+（圖片來源：[詳情](/zh/licenses#lekt3206)）
 :::
-## 32.6. 练习
+## 32.6. 練習
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+A) 確定以下動詞形式，並構建相應的人稱、數和性的一致過去時（Imperfekt）形式：
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -315,29 +302,21 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) 翻譯並解析以下梵文複合詞：
 
-⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
-
-⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪स⟫ ⟪पुत्रो⟫ ⟪ऽध्ययनाय⟫ ⟪गुरुमैत्⟫ ⟪।⟫ ⟪गुरुगृहे⟫ ⟪प्रविश्य⟫ ⟪गुरुमुपातिष्ठद्गुरुश्च⟫ ⟪तं⟫ ⟪पुत्रम्⟫ ⟪ब्राह्मणमपृच्छत्⟫ ⟪।⟫ ⟪ततस्तेन⟫ ⟪पुत्रेणान्नमादयत्⟫ ⟪॥२॥⟫
-
-⟪राम⟫ ⟪आचार्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫
-
-⟪ब्राह्मणा⟫ ⟪वेदमध्यैयन्⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयन्⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫
-
-⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
+⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
 ![](/images/lekt3208.webp)
-Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
-Buddhist monk in Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt3208))
+圖：⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+斯里蘭卡的佛教僧侶。
+（圖片來源：[詳情](/zh/licenses#lekt3208)）
 :::
-## 32.7. 圣诞假期复习练习
+## 32.7. 聖誕假期複習練習
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+註：此課程原本在蒂賓根大學每個冬季學期開設。第32課開始時正值兩週的聖誕假期。
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+A) 確定並翻譯以下詞彙：
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,141 +403,141 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi:
+B) 練習：Sandhi。請將括號中的詞語填入以下句子中，並特別注意 Sandhi 的變化：
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
+⟪१⟫。⟪रामो ग्रामात्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह⟫ )
 
-⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪अरीन्हन्ति⟫ ⟪।⟫ (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
+⟪२⟫。⟪जयन्⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪अरीन्हन्ति ।⟫ (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
 
-⟪३⟫. ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
+⟪३⟫。⟪न हि पुण्यवन्तस्ते⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪।⟫ (⟪अरि । आर्यशत्रु⟫)
 
-⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪आद्यते⟫ ⟪।⟫ (⟪ऋषि⟫ (⟪एकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ⟪।⟫ ⟪इन्द्रदेवी⟫)
+⟪४⟫。⟪देवता⟫ ... (⟪तृतीया विभक्तिः⟫) ... ⟪आद्यते ।⟫ (⟪ऋषि⟫ (⟪एकवचने बहुवचने च⟫) ⟪। इन्द्रदेवी⟫)
 
-⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी⟫ ⟪विभक्तिरेकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪एति⟫ ⟪।⟫ (⟪नगर⟫)
+⟪५⟫。⟪ब्राह्मणस्⟫ ... (⟪सप्तमी विभक्तिरेकवचने बहुवचने च⟫) ... ⟪एति ।⟫ (⟪नगर⟫)
 
-⟪६⟫. ⟪रामो⟫ ⟪गृहे⟫ ... ⟪।⟫ (⟪आस्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪वस्⟫)
+⟪६⟫。⟪रामो गृहे⟫ ... ⟪।⟫ (⟪आस् । इ । वस्⟫)
 
-⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪जीयते⟫ ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪उक्तानृतनर⟫ ⟪।⟫ ⟪एष⟫ ⟪नर⟫)
+⟪७⟫。⟪शूरेण⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪जीयते ।⟫ (⟪अरि । इन्द्रशत्रु । उक्तानृतनर । एष नर⟫)
 
-⟪८⟫. ⟪कविना⟫... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪स्तूयन्ते⟫ ⟪।⟫ (⟪आर्यदेव⟫ ⟪।⟫ ⟪इन्द्रादिदेव⟫)
+⟪८⟫。⟪कविना⟫... (⟪प्रथमा विभक्तिः⟫) ... ⟪स्तूयन्ते ।⟫ (⟪आर्यदेव । इन्द्रादिदेव⟫)
 
-⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
+⟪९⟫。⟪रामस्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर⟫)
 
-C) Übersetzen Sie ins Sanskrit:
+C) 譯為梵文：
 
-1. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
+1. 兒子出生後，婆羅門女派一名僕人去見婆羅門。婆羅門讓這名僕人進屋，然後詢問關於兒子的情况。僕人說兒子一切安好。婆羅門聽後感到高興。
 
-2. Der Heilige hat das (ihm) getane Böse ertragen.
+2. 聖者忍受了（對他所做的）惡行。
 
-3. Sittlichkeit ist des Mannes Zier.
+3.道德是男子的榮耀。
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
+4.強大的戰士們已前往婆羅門村莊。
 
-5. Das Mädchen weint.
+5.少女在哭泣。
 
-6. Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+6.沒有疾病能與情慾相比，沒有敵人能與迷惑相比，沒有火焰能與憤怒相比，沒有幸福能與智慧相比。
 
-7. Ein Mann, den die Göttin behütet, ist glücklich.
+7.受女神庇佑的男子是幸福的。
 
-8. Mit welchem Wind auch immer eine Wolke Wasser (⟪वारि⟫ n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
+8.無論哪陣風讓雲朵降下雨水（⟪वारि⟫ n.），有學識的人便隨那陣風移動他的傘蓋。
 
-9. Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+9.種姓、人生階段等並無產生果報的行為。
 
-10. Der Kreislauf der Wiedergeburten hat keinen Anfang.
+10.輪迴的循環沒有開始。
 
-11. Es ist Zeit, sich dem Essen zu widmen.
+11.是時候專注於進食了。
 
-12. Willkommen der Königin.
+12.歡迎女王陛下。
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles.
+13.人們為了天界而行善積德。
 
-14. Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
+14.因傲慢、貪婪、憤怒或恐懼而錯誤宣判的法官，將墮入地獄。
 
-15. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
+15.羅摩遵照老師的指示，從村莊前往城市，進入聖人的住所，恭敬地站在聖人面前並說道：「請放下憤怒！」
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+16.應始終與在學問上精進的人保持聯繫，以使他的教養/良好行為得以增長。這是因為教養/良好行為以此（與此類人的聯繫）為根源。
 
-17. Während der Lehrer steht, darf der Knabe nicht sitzen.
+17.當老師站立時，男孩不得坐下。
 
-18. Es gibt keine bessere Zuflucht als Rāma.
+18.沒有比羅摩更殊勝的歸依處。
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19.毗濕奴米特拉派羅摩將戈文達送往村莊。
 
-20. Govinda lässt den Devadatta Reis kochen.
+20.戈文達派德瓦達塔煮飯。
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
+21.雅利安人的正法在於，年輕的婆羅門應反覆研讀吠陀與《法論》的章節。
 
-22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
+22。教師教導男孩們吠陀，然後回家。
 
-23. Welches Amulett hat das Mädchen beschützt?
+23。哪個護身符保護了那個女孩？
 
-24. Wahrheit ist die Leuchte der Welt.
+24。真理是世界的燈塔。
 
-25. Wem gehören diese Häuser?
+25。這些房屋屬於誰？
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
+26。所有人的達摩是：不傷害、誠實、純潔、無嫉妒、非惡意和忍耐。
 
-27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
+27。擊敗敵人的剎帝利坐在屋內。
 
-28. Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt.
+28。說愛語的才是（真正的）妻子；活著的才是（真正的）兒子。擁有良好品質的人才能生存；擁有達摩的人才能生存。
 
-29. Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
+29。天神之王擊敗了非雅利安人，即因陀羅的敵人。（被動語態）
 
-30. Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+30。業瑜伽是苦行（tapas，名詞）、吠陀誦讀、對主的服務。它有助於發展冥想專注並削弱煩惱（kleśas）。
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
+31。進食、睡眠、恐懼和交配：這是人類與動物的共同點。達摩（即）是他們附加的特殊性。背離達摩的人，在工具格意義上等同於動物。
 
-32. Die Leute werden geboren, um zu sterben.
+32。人們出生是為了死亡。
 
-33. Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben.
+33。地獄是因為邪惡而存在。邪惡的根源是貧窮。貧窮源於不布施。
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
+34。剎帝利的達摩是保護人們免受敵人侵害。
 
-35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+35。因此，三（tisras）門學問以統治為根本。以教育/良好行為為根本的統治，能給眾生（⟪प्राणभृत्⟫）帶來利益和安全的擁有。
 
-36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
+36。邪惡的人不聽從教師講述達摩的話。
 
-37. Diesem Rāma sei Verehrung!
+37。向這位羅摩致敬！
 
-38. Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen ließ, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (⟪विधि⟫) den Veda lehrte, die Erde im Wasser (fest) setzte.
+38。崇高的黑天是我的道路／目標，他將敵人送往天堂，讓自己的眷屬懂得吠陀的真義，賜予諸神不朽的食物，教導創世主（⟪विधि⟫）吠陀，將大地穩固地置於水中。
 
 39. Viṣṇu shows himself to his devotees.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+40。未加實踐的統治，會導致「魚之規範」（弱肉強食）。
 
-41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
+41。擁有財富者便有朋友；擁有財富者便有親戚；擁有財富者在世間便是個人（⟪पुमान्⟫ 主格後接）；擁有財富者確實是一位博學者。
 
-42. Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe.
+42。焚燒亡者的火，也會焚燒守節的寡婦。
 
-43. Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
+43。婆羅門的女僕已煮好食物，現在正在食用（它）。
 
-44. Jetzt reicht's!
+44。到此為止！
 
-45. Diese Frucht reicht ihm zum Essen.
+45。這顆水果夠他吃了。
 
-46. Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes.
+46。神龕是供奉神像的處所。
 
-47. Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (⟪राजा⟫ Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes.
+47。小偷透過懲罰或釋放而從盜竊罪中獲釋。但若國王（⟪राजा⟫ 單數主格）未懲罰（小偷），他便要承擔小偷的罪責。
 
-48. Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
+48。由於在祭儀中犯了錯，婆羅門便不配接受財富。
 
-49. Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (⟪उपयुज्⟫).
+49。受啟儀式舉行後，他應向博學者學習吠陀與哲學，向部門主管學習經濟學（⟪उपयुज्⟫）。
 
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
+50。吠舍的職責是透過買賣維生。正因如此，吠舍之子們便進行買賣。
 
-51. Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
+51。應說真實話，應說悅耳話；不應說刺耳的真實話，也不應說難聽的謊言。這就是永恆的正法（Dharma）。
 
-52. Auf Wiedersehen!
+52.再見！
 
 ::: media
 ![](/images/lekt3209.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
-Indian greeting / farewell.
-(Bildquelle: [Details](/licenses#lekt3209))
+圖：⟪पुनर्दर्शनाय⟫
+印度問候／告別語。
+（圖片來源：[詳情](/zh/licenses#lekt3209)）
 :::
-## 32.8. 复习练习
+## 32.8. 複習練習
 
-Übersetzen und bestimmen Sie folgende Wortformen:
+請翻譯並分析以下詞形：
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,37 +580,36 @@ Indian greeting / farewell.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. 翻译练习
+## 32.9. 翻譯練習
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
-⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
+⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
+⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
+⟪वृद्धस्य तेषु स्पृहा जाता ।⟫:br
+⟪परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥⟫:br
+⟪दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः ।⟫:br
+⟪तानवलोक्य वृद्धः प्रहर्षं गतः ।⟫:br
+⟪स किमकरोत् ।⟫:br
+⟪स कतिचिदुपला नादाय वानरां ल्लक्ष्यीकृत्य प्राक्षिपत् ।⟫:br
+⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
+⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
+⟪अहो वृद्धस्य कौशलम् ॥⟫
 :::
-(aus: ⟪संस्कृतबालादर्श⟫)
-
-Erklärungen:
+（出處：⟪संस्कृतबालादर्श⟫）
+說明：
 
 ::: indent
-**⟪पथि⟫** Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmäßige Deklination)
+⟪पथि⟫ **⟪पथ्⟫ m.** 的單數方位格，「路」 （不規則變格）
 
-**⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
+⟪लक्ष्यीकृ च्विऽ⟫-後綴 ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫**：將某物轉變為 ⟪लक्ष्य⟫，而該物先前並非 ⟪लक्ष्य⟫
 
-**⟪आदाय⟫** Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
+⟪आदाय⟫ 作為 **⟪आ⟫-⟪दा⟫** 的絕對格（第三現在時類）「拿」
 :::
 ::: media
 ![](/images/lekt3210.webp)
-Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Bildquelle: [Details](/licenses#lekt3210))
+圖：⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+芒果樹上的猴子。
+（圖片來源：[詳情](/zh/licenses#lekt3210))
 :::
 

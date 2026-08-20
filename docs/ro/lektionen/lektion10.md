@@ -95,7 +95,6 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -105,13 +104,11 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 - **Cu cine?**
 
 **Se folosește**
-1. **în propozițiile pasive: agentul (kartṛ) la instrumental**
-2. **pentru a indica mijlocul sau instrumentul cu care se realizează ceva**
-3. **pentru a indica calea pe care cineva ajunge undeva**
-4. **pentru a exprima conexiunea, unirea, însoțirea de**
-5. **înaintea postpozițiilor cu sensul "împreună cu, cu"; de ex. saha = ⟪सह⟫ = "cu"**
-de ex.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "împreună cu brahmanul"
+1. **pentru a indica mijlocul sau instrumentul cu care se realizează ceva**
+2. **pentru a indica calea pe care cineva ajunge undeva**
+3. **pentru a exprima conexiunea, unirea, însoțirea de**
+4. **înaintea postpozițiilor cu sensul "împreună cu, cu"; de ex. saha = ⟪सह⟫ = "cu"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "împreună cu brahmanul"
 :::
 Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
 
@@ -162,24 +159,17 @@ de ex.
 ### 10.4.1. Reguli speciale pentru formarea pasivului
 
 1. **Rădăcinile cu terminația -i sau -u** își prelungesc vocala înainte de sufixul pasiv **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Rădăcinile cu -a- între consoane** (în afară de nazale, y, r, v) rămân în gradul plin:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Unele rădăcini își formează pasivul în gradul plin** (sau în gradul de apofonie al temei prezente):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ de ex.
    Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ** final, după o singură consoană, este înlocuit cu **-ri-** înainte de sufixul pasiv **-ya-**:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Dar: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Dar: **smṛ** 1 P: **smaryate**
 
 6. **Unele rădăcini cu terminația -an au alternativ două forme de formare a temei pasive:**
    * una **-an-ya**
    * una **-ā-ya-** (lungul **ā** este un reprezentant al unui nasal ipotetic lung)
 
    ex. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (din \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (din \*tn-ya-nte)
 
 ## 10.5. Listă de cuvinte
 
@@ -236,11 +222,13 @@ de ex.
 - Prin care câștigi bunăstare și nașteri bune ulterioare.
 - **satya** n. ⟪सत्य⟫ : adevăr
 
-::: note-box
+:::: note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
+::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

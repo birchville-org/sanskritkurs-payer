@@ -1,586 +1,348 @@
 ---
-title: Lektion 15
+title: "第15課"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第15課
 
-## 15.1. ⟪सुभाषितम्⟫
+## 15.1. ⟪सुभाषितम् गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫
 
-⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
-⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
-⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
+## 15.2. 限定性複合詞 = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+名詞（名詞和形容詞）所指事物之間的關係，除了通過屬格結構表達外，也可以通過Tatpuruṣa（⟪तत्पुरुष⟫）來表達。同樣地，形容詞的從屬修飾或名詞的同位語從屬關係，也可以通過特定類型的Tatpuruṣa來表達，即所謂的Karmadhāraya（m.）= ⟪कर्मधारय⟫。
 
-Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man außer durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (⟪तत्पुरुष⟫) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = ⟪कर्मधारय⟫ ausdrücken.
-
-⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita.
+⟪तत्पुरुषः⟫ =  ⟪तस्य पुरुषः⟫ "他的僕人"，此類複合詞的命名即以此種複合詞為例。
 ::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum.
+在限定性複合詞（Tatpuruṣa）中，一個名詞（名詞或形容詞）通過另一個名詞或副詞進行更詳細的限定。被限定的詞通常構成複合詞的後一部分。
 
-Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein:
+前部分（限定成分）與後部分（被限定成分）之間的關係可以是：
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. außerhalb eines Satzzusammenhangs im Nominativ (⟪प्रथमा⟫), im Satz im syntaktisch geforderten Kasus)
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - ⟪प्रथमा⟫)
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort
+*   從屬修飾或同位語：當複合詞分解時，前部分對後部分構成同一格（即句法結構外為主格⟪प्रथमा⟫，在句中則為句法要求的格）的詳細限定
+*   格關係：複合詞分解時，前部分處於與後部分不同的格（即非主格 - ⟪प्रथमा⟫）
+*   副詞性：前部分為不可變格詞
 
-Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort:
+複合詞中兩個成分的格關係，獨立於該複合詞本身的格位：因為複合詞畢竟是一個可變格的單一詞彙：
 
-z. B.
+例如
 
-> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫  
-> Akk. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫  
-> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫  
-> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫  
-> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
-> usw.
+> 主格單數 ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+> 賓格單數 ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+> 工具格單數 ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+> 屬格單數 ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+> 主格複數 ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+> 等等。
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+持業釋（Tatpuruṣa）的性別——除少數例外外——取決於其後成分的性別。
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. 具有屬格/同位語前成分的限定複合詞 = Karmadhāraya 陽性 = ⟪कर्मधारय⟫
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
+當拆解 Karmadhāraya 時，複合詞的兩個成分均處於相同的格位。
 
 :::
-z.B.
+例如：
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
-Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "具有優良特質的兒子"
+賓格單數 ⟪गुणवत्पुत्रम्⟫
+主格複數 ⟪गुणवत्पुत्राः पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = "一位有功勞的剎帝利女性"
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"  
+⟪साधुजनाः⟫ = ⟪साधवो जनाः⟫ = "善良的人們"
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"  
-
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
+⟪इष्टदेवता⟫ = ⟪इष्टा देवता⟫ = "所祈願的神祇 = 人們對其懷有特別虔誠與歸依關係的神祇"
 
 ::: media
 ![](/images/lekt1501.webp)
-Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501))
+圖：⟪लक्ष्मी⟫
+（圖片來源：[詳情](/zh/licenses#lekt1501)）
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+關於 Karmadhāraya 中成分的排列順序，需注意以下特殊規則：
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums:
+*   若 Karmadhāraya 表達一種「比較」，則被比較的對象位於複合詞的後成分：
+
+⟪नरसिंहः⟫ = ⟪सिंह इव नरः⟫ = "如獅子般的男子"
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र इव पुरुषः⟫ = "如老虎般的男子"
+
+*   若表達為同位語（透過名詞對後項的進一步限定），則被修飾者位於前項，這也符合 Tatpuruṣa 複合詞中各成分順序的一般規則：
+
+⟪नरसिंहः⟫ 亦可解析為：⟪नर एव सिंहः⟫ = 「一隻獅子，（實際上）是一個人。」
+
+此類同位語式的 Karmadhāraya 在本地註釋中，如上述範例所示，係透過 ⟪एव⟫ 進行解析。
 
 :::
-::: indent
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"
-⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger"
-:::
-
-*   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert:
-
-::: indent
-⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist."
-:::
-
-    Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst.
-
 ::: media
 ![](/images/lekt1503.webp)
-Abb.: ⟪नरसिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1503))
+圖：⟪नरसिंहः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1503)）
 :::
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
+## 15.4. 以前項與後項處於非屬格/同位語關係之格位為前項的 Determinativkomposita（限定複合詞）= 狹義之 Tatpuruṣa
 
 ::: grammar-box
 
-Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäß vertritt das Vorderglied am häufigsten einen Genetiv (⟪षष्ठी⟫), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken.
+Tatpuruṣa 複合詞適用於名詞（名詞與形容詞）的組合，其中前項依語法規則可處於任何格位。不出所料地，前項最常代表屬格（⟪षष्ठी⟫），因為這正是用來表達名詞間關係的格位。
 
 :::
-z.B.
+例如：
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
-Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
-Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-u.s.w.  
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य पुत्रः⟫ = 「剎帝利的兒子」、「年輕的剎帝利」、「剎帝利群體的一員」  
+業格單數 ⟪क्षत्रियपुत्रम्⟫  
+屬格單數 ⟪क्षत्रियपुत्रस्य⟫  
+等等。  
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "die Natur eines Lehrers"
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = 「教師的本性」
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Begierde nach Reichtum, Habsucht"
+⟪धनलोभः⟫ = ⟪धनस्य लोभः⟫ = 「對財富的渴望，貪婪」
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "der Gang der Welt, das Verhalten der Leute"
+⟪लोकगतिः⟫ =  ⟪लोकस्य गतिः⟫ = 「世界的運行，人們的行為」
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini.
+幾乎所有的屬格關係都可以用限定複合詞（Tatpuruṣa）來取代。少數例外請參見 Kale，《高等梵文語法》§ 211，該處亦列有巴尼尼（Pāṇini）的相應段落。
 
-Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22.
+然而，限定複合詞的前成分原则上可以代表任何格位。不過，並非所有句法上可能的格關係都能以限定複合詞取代。若有疑問，相應的規則可參見 Kale，《高等梵文語法》§ 203 - 217，或巴尼尼 2,1,22 - 2,2,22。
 
 ::: grammar-box
 
-Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden.
+在分解複合詞時，前成分可以以單數、雙數或複數形式出現。具體是哪一種可能性，必須從意義和語境中推斷出來。
 
 :::
-Beispiele:
+範例：
 
-Das Vorderglied vertritt den Akkusativ (⟪द्वितीया⟫): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24):
+前成分代表受格（⟪द्वितीया⟫）：例如在某些表示移動動詞的過去被動分詞（PPP）中（巴尼尼 2,1,24）：
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "einer, der ins Dorf gegangen ist"  
-⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "eine, die in eine Hölle gefallen ist"
+⟪ग्रामगतः⟫ = ⟪ग्रामं गतः⟫ = "一位已前往村莊的人"  
+⟪नरकपतिता⟫ = ⟪नरकं पतिता⟫ = "一位已墜入地獄的女性"
 
-Das Vorderglied vertritt den Instrumentalis (⟪तृतीया⟫): z.B. häufig der Agens (⟪कर्तृ⟫) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP):
+前成分代表工具格（⟪तृतीया⟫）：例如經常作為施事者（⟪कर्तृ⟫），出現在帶有 kṛt 後綴的名詞化結構中（例如 PPP）：
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "von einem Gott / von Göttern gemacht"  
-Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"  
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः कृतम्⟫ = "由神／眾神所造"  
+亦可解析為：⟪देवस्य⟫ / ⟪देवानां कृतम्⟫ = "神／眾神的行為／作為；神之業，眾神之業"  
 
-⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "die, die von Buddha behütet wurde" (ein Eigenname)
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन रक्षिता⟫ = "那位受佛陀庇護者"（專有名詞）
 
-## 15.5. 复合词的分解 (Dvandva 除外)
+## 15.5. 複合詞的分解（除聯立複合詞 Dvandva 外）
 
 ::: grammar-box
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
+雖然梵文可以構建任意長度的複合詞，且這種情況也非常常見（由 10 到 30 個成分組成的複合詞並不罕見！），但除聯立複合詞（Dvandvas）外，所有複合詞都必須遞歸地、層級式地分解為兩個部分：
 
 :::
 ::: media
 ![](/images/lekt1502.jpg)
-Abb.: ⟪समासविच्छेदः⟫
-(Bildquelle: [Details](/licenses#lekt1502))
+圖：⟪समासविच्छेदः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1502)）
 :::
-u.s.w. bis man zu den einzelnen Wortstämmen kommt.
+以此類推，直到到達各個詞幹為止。
 
-z.B.
+例如：
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1\. Stufe (Hauptzäsur): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+第一階段（主節）：⟪गुणवत्पुत्रकृतं ॥१॥ पुण्यम्⟫
 
-2\. Stufe (1. Nebenzäsur): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+第二階段（第一副節）：⟪गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-3\. Stufe (2. Nebenzäsur): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+第三階段（第二副節）：⟪गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
+= 「我那有德行的兒子所行做的、值得讚譽的行為（功德）」
 :::
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw.
+在此過程中，可以混合不同類型的複合詞，例如：前成分為 Bahuvrīhi（⟪बहुव्रीहि⟫），後成分為 Tatpuruṣa 等。
 
-z.B.
+例如：
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
 ::: indent
-1\. Stufe: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Vorderglied: Itaretaradvandva)
+第一階段：⟪ब्राह्मणक्षत्रियवैश्यानां धर्मः⟫（前成分為 Itaretaradvandva）
 
-2\. Stufe: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
+第二階段：⟪ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः⟫
 
-= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+= 「婆羅門、剎帝利和吠舍的達摩（正法）」
 :::
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
+對於一個複合詞，往往存在多種解析方式。何者為正確或至少是最佳的方式，只能根據上下文和文本內容來判斷。有時這種判斷並不可能。通常作者可能意圖包含兩種解析方式。在翻譯時，則必須同時反映這兩種解析可能性（以「和」、「或」或「分別」等連接詞連結）。
 
-z.B.
+例如：
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
 ::: indent
-1\. Stufe: entweder - oder
+第一階段：或者……或者……
 
-1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
-2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
-3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
+1. ⟪पुण्यवत्पुत्रेण कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य कृतम्⟫
+3. ⟪पुण्यवत् पुत्रकृतम्⟫
 
-2\. Stufe: entsprechend
+第二階段：相應地
 
-1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das von meinem verdienstreichen Sohn Getane"
-2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die Tat meines verdienstreichen Sohnes"
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane"
-   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die verdienstvolle Tat meines Sohnes"
+1. ⟪पुण्यवता पुत्रेण कृतम्⟫ = 「由我功績卓著之子所為者」
+2. ⟪पुण्यवतः पुत्रस्य कृतम्⟫ = 「我功績卓著之子的行為」
+3. 1. ⟪पुण्यवत् पुत्रेण कृतम्⟫ = 「由我之子所為之具功德者」
+2. ⟪पुण्यवत् पुत्रस्य कृतम्⟫ = 「我之子具功德之行為」
 :::
-## 15.6. 复合词中前项的形式 (⟪समास⟫ m.)
+## 15.6. 複合詞中前成分的形態（⟪समास⟫ m.）
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
+在所有類型的複合詞中，前成分通常為未變化的詞幹。雙名詞複合詞採用弱格詞幹。修飾後續成分的陰性形容詞，通常以陽性詞幹呈現：
 
-z.B.
+例如：
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine Kṣatriyafrau, die Verdienst besitzt"  
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = 「具功德的剎帝利女子」  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान् पुत्रः⟫ = 「具優良特質之子」
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫
+## 15.7. ⟪तत्पुरुष⟫ 的分類
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Nominativ (⟪प्रथमा⟫)
-2.  ⟪द्वितीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Akkusativ (⟪द्वितीया⟫)
-3.  ⟪तृतीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Instrumentalis (⟪तृतीया⟫)
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Dativ (⟪चतुर्थी⟫)
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Ablativ (⟪पज्चमी⟫)
-6.  ⟪षष्ठीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Genetiv (⟪षष्ठी⟫)
-7.  ⟪सप्तमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Lokativ (⟪सप्तमी⟫)
+1. ⟪प्रथमातत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫主格呈現（⟪प्रथमा⟫）
+2. ⟪द्वितीयातत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫賓格呈現（⟪द्वितीया⟫）
+3. ⟪तृतीयातत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫工具格呈現（⟪तृतीया⟫）
+4. ⟪चतुर्थीतत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫與格呈現（⟪चतुर्थी⟫）
+5. ⟪पञ्चमीतत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫離格呈現（⟪पज्चमी⟫）
+6. ⟪षष्ठीतत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫屬格呈現（⟪षष्ठी⟫）
+7. ⟪सप्तमीतत्पुरुषः⟫：前成分以⟪विग्रहवाक्य⟫位格呈現（⟪सप्तमी⟫）
 
-*   ⟪कर्मधारयः⟫ : appositioneller Tatpuruṣa, u.a.:
-    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach erstem Glied
-    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach zweitem Glied
-    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫
-    *   ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied
-*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : mit Verneinung a-, an- im Vorderglied
-*   ⟪गतिसमासः⟫ : mit Präposition im Vorderglied
-*   ⟪प्रथमातत्पुरुषः⟫ u.s.w. (siehe oben)
+* ⟪कर्मधारयः⟫：同位語式限定複合詞，諸如：
+* ⟪उपमानपूर्वपदकर्मधारयः⟫：⟪विग्रहवाक्य⟫於第一成分後接⟪इव⟫
+* ⟪उपमानोत्तरपदकर्मधारयः⟫：⟪विग्रहवाक्य⟫於第二成分後接⟪इव⟫
+* ⟪रूपकसमासः⟫：⟪विग्रहवाक्य⟫接⟪एव⟫
+* ⟪द्विगुसमासः⟫：前成分為數詞
+* ⟪नञ्तत्पुरुषः⟫（⟪निषेधतत्पुरुषः⟫）：前成分含否定詞 a-, an-
+* ⟪गतिसमासः⟫：前成分含介詞
+* ⟪प्रथमातत्पुरुषः⟫等（見上文）
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 第十五章第七節第一目。⟪कर्मधारय⟫之分類
 
-1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Vorderglied ist Adjektiv (⟪विशेषण⟫)
-2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : beide Glieder sind Adjektive, hierher gehören auch Adjektive, die einen Zeitablauf ausdrücken: "zuerst gebadet, dann gesalbt"
-3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): im Vorderglied Vergleich, im Hinterglied verglichene Eigenschaft: z.B. "schön wie ein Lotus"
-4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫):  Vergleich im Hinterglied
-5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ nach Vorderglied (Metapher)
-6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : beide Glieder Glieder beziehen sich auf selbe Person oder Sache, z.B. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "der Dichter Kālidāsa"
-7.  ⟪कर्मधारयः⟫ mit ⟪कु⟫ / ⟪कद्⟫ als Vorderglied: "schlecht..."
-8.  ⟪कर्मधारयः⟫ mit ⟪किम्⟫ als Vorderglied: Tadel
-9.  PPP + negiertes PPP: "teilweise", z.B. ⟪कृताकृतम्⟫ = "teilweise getan"
-10.  ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied
+1. ⟪विशेषणपूर्वपदकर्मधारयः⟫：前成分為形容詞（⟪विशेषण⟫）
+2. ⟪विशेषणोभयपदकर्मधारयः⟫：兩個成分均為形容詞，此類亦包含表達時間順序之形容詞：「先沐浴，後塗油」
+3. ⟪उपमानपूर्वपदकर्मधारयः⟫（= ⟪उपमासमासः⟫）：前成分為比較，後成分為被比較的性質；例如「美如蓮花」
+4. ⟪उपमानोत्तरपदकर्मधारयः⟫（= ⟪उपमितसमासः⟫）：後成分為比較
+5. ⟪रूपकसमासः⟫：前成分為⟪विग्रहवाक्य⟫，後接⟪एव⟫（隱喻）
+6. ⟪संभावनपूर्वपदकर्मधारयः⟫：兩個成分指涉同一人或事物，例如 ⟪कालिदासकविः⟫ = ⟪कालिदास इति कविः⟫ 意為「詩人迦梨陀娑」
+7. ⟪कर्मधारयः⟫，以前成分為⟪कु⟫ / ⟪कद्⟫：「壞……」
+8. ⟪कर्मधारयः⟫，以前成分為⟪किम्⟫：責備
+9. 過去分詞（PPP）加上否定之過去分詞：意為「部分」，例如 ⟪कृताकृतम्⟫ 意為「部分完成」
+10. ⟪द्विगुसमासः⟫：前成分為數詞
 
-## 15.8. 词汇表
+## 第十五章第八節。單字表
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
+⟪पुष्कल⟫ 三性：壯麗、華美、豐盛
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫：或（置於後）
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫：或（置於前）
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
+⟪चतुर्थ⟫ 三性（陰性：⟪चतुर्थी⟫）：第四
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
+⟪विद्⟫「獲得」六類不規則動詞 ⟪विन्दति⟫；被動式 ⟪विद्यते⟫；過去分詞（PPP）⟪विन्न⟫ / ⟪वित्त विद्⟫「知曉」二類動詞 ⟪वेत्ति⟫；被動式 ⟪विद्यते⟫；過去分詞（PPP）⟪विदित पत्⟫「飛、掉落」一類動詞 ⟪पतति⟫；被動式 ⟪पत्यते⟫；過去分詞（PPP）⟪पतित अर्ध⟫ 三性：一半，陽性及中性意為「半」
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
-
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
-
-⟪अर्ध⟫ 3: halb, m.n. Hälfte
-
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
+⟪पूजा⟫ 陰性：尊敬、榮耀的接待、宗教崇拜（Pūjā）
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504))
+圖注：⟪पूजा⟫
+（圖片來源：[詳情](/zh/licenses#lekt1504)）
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+⟪कुल⟫ 中性：群、眾、種族、血統、家族
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
+⟪इन्द्र⟫ m.: 王子、首位者、最佳者；神王因陀羅
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505))
+圖：⟪इन्द्रः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1505)）
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+⟪दास⟫ m.: 奴隸、農奴、僕人
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
+⟪दासी⟫ f.: 女奴、農婦、侍女
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
+⟪काल⟫ m.: 時間、（恰當的）時機；命運、死亡；死神迦羅
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel
+⟪काल⟫ 3：黑色、藍黑色、深色
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht
+⟪पुरुष⟫ m.: 人類、男子、僕役
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
+\-⟪जन⟫ 作為業際複合詞的第二成分時，常表示複數
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
+⟪स्तु⟫ 2 ⟪स्तौति⟫；被動 स्तूयते⟫；過去分詞 ⟪स्तुत⟫：讚美、稱頌
 
-davon:
+由此衍生：
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied
+⟪स्तुति⟫ f.: 讚美、頌歌
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus
+⟪स्तोत्र⟫ n.: （讚美之物 =）頌歌、讚詩
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
+⟪सिंह⟫ m.: 獅子（*Panthera leo persica*）
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506))
+圖：⟪सिंहः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1506)）
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
+⟪व्याघ्र⟫ m.: 老虎（*Panthera tigris tigris*）（字面意：打哈欠者）
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507))
+圖：⟪व्याघ्रः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1507)）
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+⟪इव⟫（後置）：彷彿、如同（用於比喻中：⟪व्याघ्र इव पुरुषः⟫ = "如虎般的人"、"似虎的男子"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫（後置）：強調前述內容，在德語中常對應於強調語氣，類似表情符號 `\&lt;!\&gt;`，例如 ⟪सत्यमेव जयति⟫ "唯真理勝"、"正是真理勝"、"真理勝利"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
+⟪अरि⟫ m.: 敵人（據蒂姆《梨俱吠陀中的異鄉人》：原意 = 外來者）
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+⟪आर्य⟫ 3：雅利安、高貴；m. 雅利安人（梵語古印度人的自稱，字面意：好客的（蒂姆）；高尚者、君子
 :::
-zu ⟪जन्⟫
+至 ⟪जन्⟫
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
+⟪जाति⟫ f.：出生、種類、種姓（關於 ⟪जाति⟫ 作為種姓，請參見 Basham，《奇蹟》，第 148 頁及以下）
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫；被動式 ⟪म्रियते⟫；過去分詞 ⟪मृत⟫：死亡（根據印度語法學家：6 Ā）
 
-davon:
+由此衍生出：
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod
+⟪मरण⟫ n.：死亡、死
 
-⟪मृति⟫ f.: Sterben, Tod
+⟪मृति⟫ f.：死亡、死
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
+⟪मृत्यु⟫ m.：死亡；擬人化：死神
 :::
-## 15.9. 练习 1
+## 第 15.9 課。練習 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
+請將以下複合詞作為限定複合詞（Tatpuruṣa）在梵語中進行解析，並提供德文翻譯。請列出所有您認為可能的解析方式及對應的翻譯。同時指出整個複合詞屬於哪種格和數。
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫
+⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-⟪२⟫. ⟪दुःखदग्धा⟫
+## 第 15.10 課。練習 2
 
-⟪३⟫. ⟪मोक्षधर्मः⟫
+請像練習 1 那樣，解析以下限定複合詞：
 
-⟪४⟫. ⟪अन्नजातानि⟫
+⟪१⟫. ⟪देवतागृहम् २⟫. ⟪देवीस्तोत्रम् ३⟫. ⟪ब्राह्मणगृहम् ४⟫. ⟪वैश्यापुत्राः ५⟫. ⟪शूद्रधर्मः ६⟫. ⟪अग्निगृहम् ७⟫. ⟪साधुगता ८⟫. ⟪सत्यवचनेन ९⟫. ⟪धर्मयज्ञानाम् १०⟫. ⟪सत्यधर्मः ११⟫. ⟪अनृतवदनस्य १२⟫. ⟪देवीदासः⟫
 
-⟪५⟫. ⟪गृहकरणम्⟫
-
-⟪६⟫. ⟪शूद्रकृतेन⟫
-
-⟪७⟫. ⟪ईश्वरपूजा⟫
-
-⟪८⟫. ⟪देवेश्वरः⟫
-
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫
-
-⟪१०⟫. ⟪वैश्यभावेन⟫
-
-⟪११⟫. ⟪देवगुरोः⟫
-
-⟪१२⟫. ⟪धनलोभः⟫
-
-⟪१३⟫. ⟪गृहदासी⟫
-
-⟪१४⟫. ⟪दुःखमोहः⟫
-
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫
-
-⟪१६⟫. ⟪नगरजनाः⟫
-
-⟪१७⟫. ⟪यज्ञकालस्य⟫
-
-⟪१८⟫. ⟪देवगृहाणि⟫
-
-⟪१९⟫. ⟪देवपुत्राणाम्⟫
-
-⟪२०⟫. ⟪पश्विष्टिः⟫
-
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫
-
-⟪२२⟫. ⟪गुरुगृहम्⟫
-
-⟪२३⟫. ⟪सोमयज्ञेन⟫
-
-⟪२४⟫. ⟪स्वर्गगताः⟫
-
-⟪२५⟫. ⟪सुखप्रश्नम्⟫
-
-⟪२६⟫. ⟪पशुधर्मः⟫
-
-⟪२७⟫. ⟪स्वर्गलोकः⟫
-
-⟪२८⟫. ⟪ऋषियज्ञैः⟫
-
-⟪२९⟫. ⟪तत्कालम्⟫
-
-⟪३०⟫. ⟪सत्यवदनम्⟫
-
-## 15.10. 练习 2
-
-Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
-
-⟪१⟫. ⟪देवतागृहम्⟫
-
-⟪२⟫. ⟪देवीस्तोत्रम्⟫
-
-⟪३⟫. ⟪ब्राह्मणगृहम्⟫
-
-⟪४⟫. ⟪वैश्यापुत्राः⟫
-
-⟪५⟫. ⟪शूद्रधर्मः⟫
-
-⟪६⟫. ⟪अग्निगृहम्⟫
-
-⟪७⟫. ⟪साधुगता⟫
-
-⟪८⟫. ⟪सत्यवचनेन⟫
-
-⟪९⟫. ⟪धर्मयज्ञानाम्⟫
-
-⟪१०⟫. ⟪सत्यधर्मः⟫
-
-⟪११⟫. ⟪अनृतवदनस्य⟫
-
-⟪१२⟫. ⟪देवीदासः⟫
-
-⟪१३⟫. ⟪द्विजदासान्⟫
-
-⟪१४⟫. ⟪अग्निदग्धम्⟫
-
-⟪१५⟫. ⟪साधुवादः⟫
-
-⟪१६⟫. ⟪बालमृगः⟫
-
-⟪१७⟫. ⟪धनसर्गः⟫
-
-⟪१८⟫. ⟪अन्नद्वेषम्⟫
-
-⟪१९⟫. ⟪देवदेवम्⟫
-
-⟪२०⟫. ⟪देवप्रश्नेन⟫
-
-⟪२१⟫. ⟪गृहजनानाम्⟫
-
-⟪२२⟫. ⟪गुरुपूजायाः⟫
-
-⟪२३⟫. ⟪गुरुगतैः⟫
-
-⟪२४⟫. ⟪स्वर्गमार्गेण⟫
-
-⟪२५⟫. ⟪नरकदेवतया⟫
-
-⟪२६⟫. ⟪गृहेश्वरः⟫
-
-⟪२७⟫. ⟪ग्रामधर्मः⟫
-
-⟪२८⟫. ⟪देवीपूजाम्⟫
-
-⟪२९⟫. ⟪देवदर्शनम्⟫
-
-⟪३०⟫. ⟪देवपादान्⟫
-
-⟪३१⟫. ⟪धनजाता⟫
-
-⟪३२⟫. ⟪बालभावेन⟫
-
-⟪३३⟫. ⟪लोकगुरोः⟫
-
-⟪३४⟫. ⟪देवपुत्रः⟫
-
-⟪३५⟫. ⟪देवमार्गम्⟫
-
-⟪३६⟫. ⟪स्वर्गसुखम्⟫
-
-⟪३७⟫. ⟪सोमसुतिः⟫
-
-⟪३८⟫. ⟪देवपूजायाः⟫
-
-⟪३९⟫. ⟪लोकधर्मेण⟫
-
-⟪४०⟫. ⟪देवजनाः⟫
-
-⟪४१⟫. ⟪पापलोकः⟫
-
-⟪४२⟫. ⟪पुण्यफलानि⟫
-
-⟪४३⟫. ⟪सत्यवादः⟫
-
-⟪४४⟫. ⟪ऋषिपुत्रः⟫
-
-⟪४५⟫. ⟪पुत्रपुत्राः⟫
-
-⟪४६⟫. ⟪धर्मवादः⟫
-
-⟪४७⟫. ⟪देवलोकम्⟫
-
-⟪४८⟫. ⟪यज्ञेश्वरः⟫
-
-⟪४९⟫. ⟪ग्रामदेवता⟫
-
-⟪५०⟫. ⟪दुःखलोकः⟫
-
-⟪५१⟫. ⟪देवशत्रुणा⟫
-
-⟪५२⟫. ⟪क्षत्रियधर्मः⟫
-
-⟪५३⟫. ⟪द्विजेन्द्रः⟫
-
-⟪५४⟫. ⟪अग्निकृतम्⟫
-
-⟪५५⟫. ⟪साधूक्तानि⟫
-
-⟪५६⟫. ⟪ब्राह्मणभावेन⟫
-
-⟪५७⟫. ⟪देवधर्मः⟫
-
-⟪५८⟫. ⟪गृहदेवता⟫
-
-⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
-
-⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
+⟪१३⟫. ⟪द्विजदासान् १४⟫. ⟪अग्निदग्धम् १५⟫. ⟪साधुवादः १६⟫. ⟪बालमृगः १७⟫. ⟪धनसर्गः १८⟫. ⟪अन्नद्वेषम् १९⟫. ⟪देवदेवम् २०⟫. ⟪देवप्रश्नेन २१⟫. ⟪गृहजनानाम् २२⟫. ⟪गुरुपूजायाः २३⟫. ⟪गुरुगतैः २४⟫. ⟪स्वर्गमार्गेण २५⟫. ⟪नरकदेवतया २६⟫. ⟪गृहेश्वरः २७⟫. ⟪ग्रामधर्मः २८⟫. ⟪देवीपूजाम् २९⟫. ⟪देवदर्शनम् ३०⟫. ⟪देवपादान् ३१⟫. ⟪धनजाता ३२⟫. ⟪बालभावेन ३३⟫. ⟪लोकगुरोः ३४⟫. ⟪देवपुत्रः ३५⟫. ⟪देवमार्गम् ३६⟫. ⟪स्वर्गसुखम् ३७⟫. ⟪सोमसुतिः ३८⟫. ⟪देवपूजायाः ३९⟫. ⟪लोकधर्मेण ४०⟫. ⟪देवजनाः ४१⟫. ⟪पापलोकः ४२⟫. ⟪पुण्यफलानि ४३⟫. ⟪सत्यवादः ४४⟫. ⟪ऋषिपुत्रः ४५⟫. ⟪पुत्रपुत्राः ४६⟫. ⟪धर्मवादः ४७⟫. ⟪देवलोकम् ४८⟫. ⟪यज्ञेश्वरः ४९⟫. ⟪ग्रामदेवता ५०⟫. ⟪दुःखलोकः ५१⟫. ⟪देवशत्रुणा ५२⟫. ⟪क्षत्रियधर्मः ५३⟫. ⟪द्विजेन्द्रः ५४⟫. ⟪अग्निकृतम् ५५⟫. ⟪साधूक्तानि ५६⟫. ⟪ब्राह्मणभावेन ५७⟫. ⟪देवधर्मः ५८⟫. ⟪गृहदेवता ५९⟫. ⟪कारुकुशीलवकृतम् ६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
 ![](/images/lekt1508.webp)
-Abb.: ⟪ग्रामदेवता⟫
-(Bildquelle: [Details](/licenses#lekt1508))
+圖：⟪ग्रामदेवता⟫
+（圖片來源：[詳情](/zh/licenses#lekt1508)）
 :::
-## 15.11. 练习 3
+## 15.11. 練習3
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
+A) 翻譯本課開頭的諺語
 
-B) Lösen Sie folgende Tatpuruṣa auf:
+B) 解析以下持業釋：
 
-⟪१⟫. ⟪बलकृतः⟫
+⟪१⟫. ⟪बलकृतः २⟫. ⟪बालधनस्य ३⟫. ⟪नरककाकम् ४⟫. ⟪लोकगुरोः ५⟫. ⟪जलेश्वरेण ६⟫. ⟪जनपानम् ७⟫. ⟪वाक्यसारथीन् ८⟫. ⟪गुणवचनानि ९⟫. ⟪मृगेश्वरैः १०⟫. ⟪बुद्धिकृतायाः ११⟫. ⟪धर्मयज्ञेन १२⟫. ⟪यज्ञाङ्गानि १३⟫. ⟪गृहजनेन १४⟫. ⟪ग्रामलेखकाः १५⟫. ⟪नागदेवः १६⟫. ⟪पुण्यजिताभिः १७⟫. ⟪पापलोकम् १८⟫. ⟪सत्यवदनस्य १९⟫. ⟪दानधर्मेण⟫
 
-⟪२⟫. ⟪बालधनस्य⟫
-
-⟪३⟫. ⟪नरककाकम्⟫
-
-⟪४⟫. ⟪लोकगुरोः⟫
-
-⟪५⟫. ⟪जलेश्वरेण⟫
-
-⟪६⟫. ⟪जनपानम्⟫
-
-⟪७⟫. ⟪वाक्यसारथीन्⟫
-
-⟪८⟫. ⟪गुणवचनानि⟫
-
-⟪९⟫. ⟪मृगेश्वरैः⟫
-
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫
-
-⟪११⟫. ⟪धर्मयज्ञेन⟫
-
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫
-
-⟪१३⟫. ⟪गृहजनेन⟫
-
-⟪१४⟫. ⟪ग्रामलेखकाः⟫
-
-⟪१५⟫. ⟪नागदेवः⟫
-
-⟪१६⟫. ⟪पुण्यजिताभिः⟫
-
-⟪१७⟫. ⟪पापलोकम्⟫
-
-⟪१८⟫. ⟪सत्यवदनस्य⟫
-
-⟪१९⟫. ⟪दानधर्मेण⟫
-
-⟪२०⟫. ⟪सुखप्रश्नः⟫
-
-⟪२१⟫. ⟪दुःखमोहस्य⟫
-
-⟪२२⟫. ⟪सोमपात्राणि⟫
-
-⟪२३⟫. ⟪स्वर्गमार्गः⟫
-
-⟪२४⟫. ⟪कामधेन्वा⟫
-
-⟪२५⟫. ⟪वर्णधर्मः⟫
-
-⟪२६⟫. ⟪श्रुत्युदितम्⟫
+⟪२०⟫。⟪सुखप्रश्नः २१⟫。⟪दुःखमोहस्य २२⟫。⟪सोमपात्राणि २३⟫。⟪स्वर्गमार्गः २४⟫。⟪कामधेन्वा २५⟫。⟪वर्णधर्मः २६⟫。⟪श्रुत्युदितम्⟫
 ::: media
 ![](/images/lekt1509.webp)
-Abb.: ⟪नागदेवाः⟫
-(Bildquelle: [Details](/licenses#lekt1509))
+圖：⟪नागदेवाः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1509)）
 :::
 

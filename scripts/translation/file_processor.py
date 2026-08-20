@@ -383,7 +383,7 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     for idx, chunk in enumerate(chunks):
         c_hash = hash_chunk(chunk)
-        if not force and c_hash in tm and not tm[c_hash].startswith("ERROR:"):
+        if c_hash in tm and not tm[c_hash].startswith("ERROR:"):
             cached_tr = tm[c_hash]
             if not scan_german_residues(cached_tr, target_lang=lang):
                 sys.stdout.write(f"    [✓ TM Cache] Sektion {idx+1}/{len(chunks)} sauber & verifiziert.\n")
@@ -490,6 +490,20 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     sys.stdout.write(f"  [✓] Wrote {target_path}\n")
     sys.stdout.flush()
+
+    # Save the hash of the source file to prevent mtime invalidation
+    try:
+        from translation_qa import get_file_hash, get_stored_hashes, save_stored_hashes
+        from pathlib import Path
+        src_hash = get_file_hash(Path(source_path))
+        stored = get_stored_hashes()
+        if lang not in stored:
+            stored[lang] = {}
+        stored[lang][Path(target_path).name] = src_hash
+        save_stored_hashes(stored)
+    except Exception as e:
+        sys.stderr.write(f"  [!] Warning: Failed to save master hash: {e}\n")
+
     return True
 
 def generate_licenses(lang):

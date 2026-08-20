@@ -42,7 +42,6 @@ outline: 2
 | ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | после, вдоль, над - мимо, по длине, согласно, прибавляя, за - вслед | [36](/ru/lektionen/lektion36#_36-4-) |
 | ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | подражать, повторять | [36](/ru/lektionen/lektion36#_36-4-) |
 | ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | следовать за кем-либо, идти вдоль | [36](/ru/lektionen/lektion36#_36-4-) |
-| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | ложь, неистина (противоположность satya) | [10](/ru/lektionen/lektion10#_10-5-) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | отсутствие злобности | [16](/ru/lektionen/lektion16#_16-2-) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | много (не несколько) | [42](/ru/lektionen/lektion42#_42-2-) |
 | ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | — | конец, граница | [18](/ru/lektionen/lektion18#_18-4-) |
@@ -159,7 +158,6 @@ outline: 2
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | — | периодический процесс, сезонный период, временной отрезок, менструация, время, когда женщина способна к зачатию и имеет  | [51](/ru/lektionen/lektion51#_51-6-) |
 | ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | процветать | [20](/ru/lektionen/lektion20#_20-9-) |
-| ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | ведийский мудрец, автор ведических гимнов | [10](/ru/lektionen/lektion10#_10-5-) |
 
 ## ए
 
@@ -502,7 +500,6 @@ outline: 2
 | ⟪पृष्ठम्⟫ | [pṛṣṭham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭham&filter=roman&accent=no&transLit=roman) | — | позади, сзади | [36](/ru/lektionen/lektion36#_36-4-) |
 | ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | наполнять, исполнять | [33](/ru/lektionen/lektion33#_33-6-) |
 | ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | — | (от + ) основа, естественное состояние, природа; первичная материя, первоэлемент | [42](/ru/lektionen/lektion42#_42-2-) |
-| ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | спрашивать (кого-л.: Acc.; о чём-л.: Acc.) | [10](/ru/lektionen/lektion10#_10-5-) |
 | ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | зачатие, рождение, потомство | [29](/ru/lektionen/lektion29#_29-2-) |
 | ⟪प्रजापति⟫ | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajāpati&filter=roman&accent=no&transLit=roman) | — | господин существ, бог-творец | [36](/ru/lektionen/lektion36#_36-4-) |
 | ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | — | мудрость, познание | [25](/ru/lektionen/lektion25#_25-5-) |
@@ -617,7 +614,7 @@ outline: 2
 
 | Санскрит | IAST | Род | Русский | Лекция |
 |---|---|---|---|---|
-| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | Жертвоприношение | [10](/ru/lektionen/lektion10#_10-5-) |
+| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | жертвоприношение | [10](/ru/lektionen/lektion10#_10-5-) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | стремиться к (, , ) | [44](/ru/lektionen/lektion44#_44-5-) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | — | усилие, напряжение | [44](/ru/lektionen/lektion44#_44-5-) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | — | как, подобно | [29](/ru/lektionen/lektion29#_29-2-) |
@@ -685,7 +682,6 @@ outline: 2
 | ⟪वत्स्यति⟫ | Будущее время (Fut.): | — | br Страдательный залог (Pass.): :br PPP: :br Инфинитив (Inf.) | [27](/ru/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | официально приветствовать, обращать внимание | [36](/ru/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | говорить назад = отвечать | [44](/ru/lektionen/lektion44#_44-5-) |
-| ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | говорить, произносить | [10](/ru/lektionen/lektion10#_10-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | — | лес | [51](/ru/lektionen/lektion51#_51-6-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | — | красота, облик тело (склонение см. далее) | [20](/ru/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | лучший | [43](/ru/lektionen/lektion43#_43-4-) |
@@ -835,7 +831,6 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | однородный, равный, подобный; м.р.: сверстник | [51](/ru/lektionen/lektion51#_51-6-) |
 | ⟪समान ३⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | равный | [23](/ru/lektionen/lektion23#_23-4-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | каждый, все | [50](/ru/lektionen/lektion50#_50-2-) |
-| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | вместе с, совместно с (также при «сражаться с» и т. д.) (постпозиция с творительным падежом) | [10](/ru/lektionen/lektion10#_10-5-) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | объединённый, снабжённый | [18](/ru/lektionen/lektion18#_18-4-) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | ведущий к цели, действенный | [16](/ru/lektionen/lektion16#_16-2-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | правильно, хорошо | [2](/ru/lektionen/lektion02#_2-5-) |

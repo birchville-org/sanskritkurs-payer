@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "第61課"
+subtitle: "以 -ā、-ī、-ū 結尾的根名詞變格"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第61課
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. 以 -ā、-ī、-ū 結尾的根名詞變格
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
+### 61.1.1. 以 -ā 結尾的根名詞，位於 ⟪तत्पुरुष⟫ 末尾
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.**
+**在元音結尾前，弱格中的詞幹母音為減弱階段 Ø。**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.**
+**陽性和陰性的變格相同。**
 :::
-Paradigma:
+範例：
 
-⟪विश्वपा⟫ m.f. "das All beschützend"
+⟪विश्वपा⟫ m.f. "保護萬物者"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. 以 -ī 結尾的陰性根名詞
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**在元音結尾前，-ī 替換為 -iy。**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.**
+**除了使用常規格尾的構詞外，在與格、離格、屬格、位格的單數以及屬格的多數中，也存在遵循多音節陰性名詞 -ī（⟪देवी⟫）模式的構詞。**
 :::
-Paradigma:
+範例：
 
-⟪धी⟫ f. "Gedanke"
+⟪धी⟫ f. "思想"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmäßig: ⟪स्त्री⟫ f. "Frau"
+不規則：⟪स्त्री⟫ f. 「女性」
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,22 +69,22 @@ Unregelmäßig: ⟪स्त्री⟫ f. "Frau"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102))
+圖：⟪स्त्रियः⟫
+（圖片來源：[詳情](/zh/licenses#lekt6102)）
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
+### 61.1.3. 以 -ī 結尾的根名詞，位於 ⟪तत्पुरुष⟫ 末尾
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.**
+**當元音結尾前僅有一個屬於詞根的輔音時，-ī 會變為 -y。若有多個屬於詞根的輔音位於元音結尾前，則 -ī 會變為 -iy。**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**陽性與陰性的屈折變化相同。**
 
-**Unregelmäßigkeit: Komposita auf -:sig[⟪नी⟫] "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫
+**不規則：以 -⟪नी⟫ 「引導」為結尾的複合詞，其位格單數以 -ām 為結尾（如同 ⟪देवी⟫）：**
+例如 ⟪ग्रामणी⟩ 「引導一羣人/村莊」：位格單數陽性/陰性 ⟪ग्रामण्याम्⟫
 :::
-Paradigmen:
+詞形變化表：
 
-⟪शुद्धधी⟫ m., f. "Reines denkend"
+⟪शुद्धधी⟫ m., f. 「純淨地思考」
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +96,7 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend"
+⟪यवक्री⟫ m., f. 「購買大麥者」
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. 以 -ū 結尾之單音節陰性詞根名詞
 
 ::: grammar-box
-**Stamm vor Vokal: -uv**
+**元音前的詞幹：-uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**變格方式類同於以 -ī 結尾之陰性詞根名詞**
 :::
-Paradigma:
+範例：
 
-⟪भू⟫ f. "Erde"
+⟪भू⟫ f. 「大地」
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
+### 61.1.5. 位於 ⟪तत्पुरुष⟫ 末尾之 -ū 詞根名詞
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.**
+**若 -ū 前僅有一個屬於詞根的輔音，則在元音結尾之前會變為 -v。若 -ū 前有數個屬於詞根的輔音，則在元音結尾之前會變為 -uv。**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**陽性與陰性的變格完全相同。**
 :::
-Paradigma:
+範例：
 
-⟪खलपू⟫ m., f. "die Scheune kehrend"
+⟪खलपू⟫ m., f. 「掃除穀倉者」
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +152,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106))
+圖：⟪रथ्याप्वः काशीपुर⟫
+（圖片來源：[詳情](/zh/licenses#lekt6106)）
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. 多音節陰性名詞以 -ū 結尾的變格
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.**
+**多音節以 -ū 結尾的陰性名詞，其變格方式類同於多音節以 -ī 結尾的詞幹（⟪देवी⟫），但其在單數主格中以 -s 結尾。**
 :::
-Paradigma:
+範例：
 
-⟪वधू⟫ f. "junge Frau, Braut"
+⟪वधू⟫ f. "年輕女子，新娘"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,20 +177,19 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107))
+圖：⟪वध्वौ जोधपुर⟫
+（圖片來源：[詳情](/zh/licenses#lekt6107)）
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+## 61.2. 迂迴式未來時（⟪लुट्⟫）
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.**
+**除了簡單未來時（⟪ऌत्⟫）之外，還存在一種迂迴式未來時（⟪लुट्⟫）。根據本土語法學家的理論，迂迴式未來時用於表示遠期未來（"在當天之後"），而簡單未來時則表示近期未來（"在同一天"）。然而，在古典梵語中，這兩種未來時態在使用上似乎並沒有明顯區別。**
 
-**Bildung:**
+**構成：**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
+**迂迴式未來時是通過將以 -tṛ 結尾的名詞性動詞（nomen agentis）與 ⟪अस्⟫ 2. 的現在時結合而構成的。第三人稱則使用簡單名詞在相應數的形式，且不區分語法性別。當與 ⟪अस्⟫ 結合時，名詞在所有的人稱和數中均採用以 -tā 結尾的單數主格形式。**
 :::
-Die Endungen des periphrastischen Futur lauten also:
+因此，迂迴式未來式的詞尾如下：
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,17 +200,17 @@ Die Endungen des periphrastischen Futur lauten also:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
+**詞根形式：詞根通常與簡單未來式具有相同的形式。連接元音 -i- 亦然。**
 :::
-Beispiele:
+範例：
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ 等 |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. |
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ 等 |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ 等 |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ 等 |
 
-Paradigma:
+變位表：
 
 ⟪दा⟫ 3U
 
@@ -219,393 +218,382 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | :sig[⟪दाताहे⟫] | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.**
+**動詞 ⟪अस्⟫ 極少與名詞性詞幹分離。**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. 強調式（頻繁式）(⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heißt: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.**
+**對於前九個現在時詞根中，每一個以單音節、輔音開頭的詞根，都可以構成強調式（⟪चर्करीतम्⟫）；也就是說：除了少數例外，以雙音節詞根（例如 ⟪जागृ⟫）、元音開頭的詞根以及第十現在時類（⟪चुरादिगण⟫）的詞根，無法構成強調式。**
 
-**Das Intensivum bedeutet:**
+**強調式的意義為：**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**  
-:::
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"  
-:::
+*   **表示某人或某物反覆地做或經歷由詞根所表達的動作**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "他反覆地做"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "他經常是（變得）"  
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**  
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"  
-:::
+*   **表示某人或某物強烈地做或經歷由詞根所表達的動作：**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "他強烈地做，他有力地做"  
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**  
-::: indent
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")  
-:::
+*   **對於表示移動的詞根，強調式意味著彎曲的運動：**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "他彎曲地行走"（並非："他經常走"）  
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**  
-::: indent
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+*   **對於某些詞根（列表：Kielhorn，《語法》§ 458b），強調式表示貶責：**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "他切得不好"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "他坐得不好"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+圖：⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104))
+（圖片來源：[詳情](/zh/licenses#lekt6104)）
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:**
+**強調式的構成：**
 
-**Es gibt zwei Bildungstypen des Intensivums:**
+**強調式有兩種構成類型：**
 
-*   **Ātmanepada-Intensivum**
-*   **Parasmaipada-Intensivum**
+*   **自稱語態的強調式**
+*   **他稱語態的強調式**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.**
+**兩者均由經過強重疊（strong reduplication）的詞根構成。兩者在意義上沒有區別。兩者都可以由相同的詞根構成。**
 :::
-### 61.3.1. Ātmanepada-Intensivum
+### 61.3.1. Ātmanepada-強化式
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**reduplizierte Wurzel + -ya-**
+**重音化詞根 + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:**
+**詞根的形態：一般與被動式相同，即多為中音階：**
 
-Beispiele:
+例：
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 第二人稱：被動式 ⟪सुप्यते⟫；強化式 ⟪सोषुप्यते दा⟫ 第三人稱：被動式 ⟪दीयते⟫；強化式 ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
+具體規則見 Kielhorn《梵語文法》§ 461。
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiele:
+**重音化：遵循一般規則。但重音化元音方面，a、i、u 分別替換為 ā、e、o。**
+例：
 
-| ⟪दा⟫ 3U | ⟪देदीय⟫- |
+| ⟪दा⟫ 第三人稱 | ⟪देदीय⟫- |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪बोभूय⟫- |
-| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
-| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
-| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
-| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
+| ⟪भू⟫ 第一人稱 | ⟪बोभूय⟫- |
+| ⟪कृ⟫ 第八人稱 | ⟪चेक्रीय⟫- |
+| ⟪जीव्⟫ 第一人稱 | ⟪जेजीव्य⟫- |
+| ⟪शास्⟫ 第二人稱 | ⟪शेशिष्य⟫- |
+| ⟪ज्ञा⟫ 第九人稱 | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.**
+**以 -a-Nasal 結尾的詞根在重音化音節中不延長元音，而是重複鼻音。**
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+例如 ⟪यम्⟫ 第一人稱：⟪यंयम्य⟫-
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
+**在某些詞根中，重音化音節的元音與詞根首輔音之間會插入 -nī- 或 -rī-（若強化式詞根包含 ṛ，則插入 -rī-）。**
 
 ::: indent
-z.B.
-⟪पत्⟫ 1P: ⟪प⟫***:sig[⟪नी⟫]***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***:sig[⟪री⟫]***⟪वृत्य⟫-
+例如：
+⟪पत्⟫ 第一人稱：⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
+⟪वृत्⟫ 第一人稱（中動）：⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:**
+**變位：**
 
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).**
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:**
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **現在詞幹：與第四類現在時的 Ātmanepada（⟪दिवादिगण⟫）相同。**
+*   **被動式及其他時態詞幹：若強化式詞幹的 -ya- 前為元音，則將 -ya- 替換為 -y-；若 -ya- 前為輔音，則省略 -ya-：**
+*   **現在被動式：⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **完成時：迂迴式 ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **過去時：iṣ-過去時（第五類過去時）：⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **未來時：seṭ 形式：⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **迂迴未來時：⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada-Intensivum
+### 61.3.2. Parasmaipada-強化式
 
 ::: grammar-box
-**Präsensstamm (andere Formen sind äußerst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.**
+**現在詞幹（其他形式極為罕見）：構成與變位如同第三類現在詞的動詞（⟪जुहोत्यादिगण⟫），不同之處在於，重音音節的元音為高調級，若為-a-則為長調級。**
 
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.**
+**在單數直陳式現在時，以及第二、三人稱單數未完成過去時和第三人稱單數命令式中，可在詞根與詞尾之間插入一個-i-。若插入了這個-i-，則倒数第二個位置的短元音不得進行guṇi（強化）。**
 
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.**
+**關於帶有鼻音的重疊，以及插入-nī-或-rī-的情況，與Ātmanepada-強化式相同。除了-rī-之外，也可以選擇使用-ri-。**
 :::
-Paradigma:
+範例：
 
-⟪भू⟫ 1P
+⟪भू⟫ 第一人称
 
-Indikativ Präsens (⟪लट्⟫):
+直陳式現在時（⟪लट्⟫）：
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫):
+未完成過去時（⟪लङ्⟫）：
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativ (⟪लोट्⟫):
+命令式（⟪लोट्⟫）：
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativ (⟪विधिलिङ्⟫):
+願望式（⟪विधिलिङ्⟫）：
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|  | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+## 61.4. 派生動詞（⟪नामधातु⟫）
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen.
+派生動詞（⟪नामधातवः⟫）與此前講解的動詞不同，它們不是由動詞詞根構成，而是由名詞詞幹構成。此處存在多種構詞類型。
 
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
-
-::: grammar-box
-**Bedeutung:**
-
-:::
-::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.**
-:::
-**Konjugation:**
-
-::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.**
-:::
-Beispiele:
-
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
-| --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
-
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
+### 61.4.1. 無特殊後綴的構詞，他動語態
 
 ::: grammar-box
-**Bedeutung:**
-
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird**
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird**
-
-**Stammbildung:**
+**含義：**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:**
-
-*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
-*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
-*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **andere auslautende Konsonanten bleiben unverändert**
+**某人或某物以名詞詞幹所指稱的事物為樣貌行事，或與之相似。**
 :::
-Beispiele:
+**變位：**
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+::: indent
+**在現在時詞幹中，如同第一類現在時動詞（⟪भ्वादिगण⟫）的變位。若名詞以元音結尾，則僅將最後一個元音按第一類動詞的根元音處理。結尾的 -a 在主題元音前消失。以鼻音結尾前的元音由相應的長元音取代。**
+:::
+例詞：
+
+| ⟪कवि⟩ m. "詩人" | ⟪कवयति⟫ "他像詩人一樣行事" |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪भू⟫ f. "大地" | ⟪भवति⟫ "他像大地一樣行事" |
+| ⟪पितृ⟫ "父親" | ⟪पितरति⟫ "他像父親一樣行事" |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "他像黑天一樣行事" |
+| ⟪माला⟫ f. "花環" | ⟪मालाति⟫ "它像花環一樣" |
+| ⟪राजन्⟫ m. "國王" | ⟪राजानति⟫ "他像國王一樣行事" |
 
-Beachten sie die Bedeutung von:
+### 61.4.2. 帶後綴 -ya 的構詞，他動語態
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+::: grammar-box
+**意義：**
+
+*   **某人渴望名詞詞根所指稱的事物**
+*   **某人將人或事物視為名詞詞根所指稱之物，或將其當作那樣對待**
+
+**詞幹構成：**
+
+:::
+::: indent
+**在 -ya 之前，名詞詞幹的尾音會發生以下變化：**
+
+*   **a, ā 變為 ī ： ⟪पुत्र⟫ » ⟪पुत्रीय⟫-**
+*   **i, u 變為 ī, ū ： ⟪कवि⟫ » ⟪कवीय⟫-**
+*   **ṛ 變為 rī ： ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-**
+*   **o 變為 av ： ⟪गो⟫ » ⟪गव्य⟫-**
+*   **au 變為 āv ： ⟪नौ⟫ » ⟪नाव्य⟫-**
+*   **詞尾鼻音脱落，其前的元音依上述規則處理： ⟪राजन्⟫ » ⟪राजीय⟫-**
+*   **其他詞尾輔音保持不變**
+:::
+範例：
+
+| ⟪पुत्र⟫ m. 「兒子」 | ⟪पुत्रीयति⟫ 「他渴望得到一個兒子」 |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪कवि⟫ m. 「詩人」 | ⟪कवीयति⟫ 「他渴望得到一位詩人」 |
+| ⟪गो⟫ f. 「母牛」 | ⟪गव्यति⟫ 「他渴望得到一頭母牛」 |
+| ⟪राजन्⟫ m. 「國王」 | ⟪राजीयति⟫ 「他渴望得到一位國王」 |
+| ⟪विष्णु⟫ m. 毗濕奴 (Viṣṇu) | ⟪विष्णूयति⟫ 「他將某人視為毗濕奴」 |
+| ⟪प्रासाद⟫ m. 「宮殿」 | ⟪प्रासादीयति⟫ 「他將（例如他的茅屋）視為宮殿」 |
+
+請注意以下詞的意義：
+
+| ⟪तपस्⟫ n. 「苦行」 | ⟪तपस्यति⟫ 「他進行苦行」 |
+| --- | --- |
+| ⟪नमस्⟫ n. 「崇拜」 | ⟪नमस्यति⟫ 「他進行崇拜」 |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+圖： ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105))
+（圖片來源：[詳情](/zh/licenses#lekt6105)）
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103))
+圖： ⟪बालौ शिवं नमस्यतः ॥⟫
+（圖片來源：[詳情](/zh/licenses#lekt6103)）
 :::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+### 61.4.3. 以後綴 -kāmya 構成，Parasmaipada（他動語態）
 
 ::: grammar-box
-**Bedeutung:**
+**意義：**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird**
+**某人渴望名詞詞幹所指稱的事物**
 :::
-Beispiele:
+範例：
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. 「兒子」 | ⟪पुत्रकाय्म्यति⟫ 「他渴望得到一個兒子」 |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. 「聲譽」 | ⟪यशस्काम्यति⟫ 「他渴望得到聲譽」 |
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109))
+圖：⟪यशस्काम्यन्ति मुंबई⟫
+（圖片來源：[詳情](/zh/licenses#lekt6109)）
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### 61.4.4. 以後綴 -sya 或 -asya 構成，Parasmaipada（他動語態）
 
 ::: grammar-box
-**Bedeutung:**
+**意義：**
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.**
+**某人強烈渴望名詞詞幹所指稱的事物。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. 「蜂蜜」 | ⟪मधुस्यति । मध्वस्यति⟫ 「他強烈渴望得到蜂蜜」 |
 | --- | --- |
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+| ⟪अश्व⟫ m. 「公馬」 | ⟪अश्वस्यति⟫ 「（母馬）強烈渴望這匹公馬」 |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
-Karli
-(Bildquelle: [Details](/licenses#lekt6110))
+圖：⟪कस्तत्र न मधुस्यति⟫ ?
+Karli（卡利）
+（圖片來源：[詳情](/zh/licenses#lekt6110)）
 :::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### 61.4.5. 以後綴 -ya 構成，Ātmanepada（中動語態）
 
 ::: grammar-box
-**Bedeutung:**
+**意義：**
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.**
+**某人以名詞詞幹所指稱的事物為行為模式，或與之相似。**
 :::
-**Bildung:**
+**構成規則：**
 
-*   **auslautendes -a » -ā**
-*   **auslautendes -ā bleibt unverändert**
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **auslautendes -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **詞尾 -a 變為 -ā**
+*   **詞尾 -ā 保持不變**
+*   **其他情況同前，加後綴 -ya，Parasmaipada（他動語態）（參見上文 4.2。）**
+*   **詞尾 -as 可選擇變為 -ā**
+*   **陰性詞幹通常轉為陽性詞幹**
 
-Beispiele:
+範例：
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa（黑天） | ⟪कृष्णायते⟫ 「他的行為如同 Kṛṣṇa」 |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ 3 「著名的」 | ⟪यशायते । यशस्यते⟫ 「他的行為如同名人」 |
+| ⟪कुमारी⟫ f. 「女孩」 | ⟪कुमारायते⟫ 「他的行為如同女孩」 |
 
 ::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:**
+**對於某些名詞詞幹，此後綴意味著：某物變得如同該名詞詞幹所指稱之物，或成為其：**
 
 :::
 ::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt"
+例如 ⟪उन्मनस्⟫ 3 "激發"：⟪उन्मनायते⟫ "他被激發"
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
+**在某些情況下，使用此後綴以其他意義構建動詞：**
 
-Beispiele:
+範例：
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich"
+⟪दुःख⟫ n. "苦難"：⟪दुःखायते⟫ "他感受痛苦"
+⟪शब्द⟫ m. "聲音"：⟪शब्दायते⟫ "他發出聲響"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111))
+圖：⟪श्वानौ शब्दायेते⟫
+（圖片來源：[詳情](/zh/licenses#lekt6111)）
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. 使用後綴 -aya, -āpaya 的構詞法
 
 ::: grammar-box
-**Verschiedene Bedeutungen.**
+**不同的意義。**
 
-**Konjugiert wie Kausativa.**
+**變位方式同使動語態。**
 :::
-Beispiele:
+範例：
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "真實" | ⟪स्तयपायति⟫ "他宣稱為真" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "剃光" | ⟪मुण्डयति⟫ "他剃除頭髮" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113))
+圖：⟪भिक्षुर्मुण्डयते ।⟫
+泰國 - เมืองไทย
+（圖片來源：[詳情](/zh/licenses#lekt6113)）
 :::
-Eine Liste von Denominative z.B. in:
+例如，派生名詞（Denominative）的列表見於：
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112))
+圖：
+1845 - 1878年 哥本哈根大學印度東方語文學教授
+（圖片來源：[詳情](/zh/licenses#lekt6112)）
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. 祝福語態（⟪आशीर्लिङ्⟫）
 
 ::: grammar-box
-**Bedeutung:**
+**意義：**
 
 :::
 ::: indent
-**Segenswunsch**
+**祝福**
 :::
-**Bildung:**
+**構建：**
 
-**Parasmaipada:**
+**Parasmaipada（他動詞）：**
 
-**tiefstufige Wurzel + yās + Sekundärendung**
+**低階根 + yās + 次要後綴**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
+例如 ⟪बुध्यासम्⟫ "願我知曉！"
 :::
 **Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung**
+**（通常）高階根 + sī(y) + 次要後綴**
 
-**oder:**
+**或：**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**（高階）根 + ⟪ै⟫ + sī(y) + 次要後綴**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen"
+例如
+⟪जि⟫ : ⟪जेषीय⟫ "願我為自身利益獲勝！"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "願我知曉"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
-Paradigma:
+**關於詞根形式的規則，詳見Kielhorn《文法》§ 380及以下。**
 
-Paradigma:
+範例：
 
-⟪बुध्⟫ "erwachen"
+⟪बुध्⟫ "覺醒"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -613,84 +601,84 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | :sig[⟪बुध्यात्⟫] | ⟪बुध्यास्ताम्⟫ | :sig[⟪बुध्यासुर्⟫] | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+圖：⟪नववर्षं शुभं भूयात् ॥⟫
 Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114))
+（圖片來源：[詳情](/zh/licenses#lekt6114)）
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 第61課. 6. 條件式（⟪ऌङ्⟫）
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.**
+**條件式（⟪ऌङ्⟫）用於條件句中，以表達所稱的條件並非事實、過去未曾發生或未來不會發生。在這種句子中，條件式必須同時用於條件分句和主句。**
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ 「如果雨下得好（或正在下雨），就會有充足的糧食。（但實際上沒有（足夠）下雨。）」
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):**
+**條件式（⟪ऌङ्⟫）的構成：**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augment（過去時標記）+ 簡單未來式詞幹（⟪ऌत्⟫）+ 次要人稱結尾**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm.
+也就是說，如同以未來式詞幹為基礎的未完成過去時（⟪लङ्⟫）。
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+例如： ⟪अदास्यम्⟫；⟪अभविष्यम्⟫；⟪अतोत्स्यम्⟫
 :::
-Paradigma:
+變位表：
 
-⟪भू⟫ "sein, werden"
+⟪भू⟫ 「是，成為」
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
-| **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
+| **第一身 ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
+| **第二身 ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
+| **第三身 ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. 以 -ai, -o, -au 结尾的名词变格
+## 61.7. 以 -ai, -o, -au 結尾的名詞變格
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv**
+**在元音前，這些詞幹以 -ai, -o, -au 結尾；在輔音前則以 -āy, -av, -āv 結尾**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7.
+**⟪गो⟫ 陽/中性名詞「公牛、母牛」具有詞幹交替。** 請參閱 Thumb-Hauschild § 296/7 中的詳細說明。
 :::
-Paradigmen: Kielhorn, Grammatik § 153:
+變位表：Kielhorn, Grammatik § 153：
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115))
+（圖片來源：[詳情](/zh/licenses#lekt6115)）
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118))
+圖：⟪हरिद्वारे गावः ॥⟫
+（圖片來源：[詳情](/zh/licenses#lekt6118)）
 :::
-## 61.8. Restliche Pronomina
+## 61.8. 其餘代詞
 
-### 61.8.1. 双数人称代词
+### 61.8.1. 雙數人稱代詞
 
-Kielhorn, Grammatik § 177:
+Kielhorn，語法 § 177：
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116))
+（圖片來源：[詳情](/zh/licenses#lekt6116)）
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117))
+圖：⟪आवां स्वसारौ ॥⟫
+阿帕塔尼族，阿魯納恰爾邦
+（圖片來源：[詳情](/zh/licenses#lekt6117)）
 :::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+### 61.8.2. 指示代詞 ⟪अदस्⟫ 「彼（遠指）」
 
-Maskulinum (⟪पुंस्⟫)
+陽性（⟪पुंस्⟫）
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -703,7 +691,7 @@ Maskulinum (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫)
+中性（⟪नपुंसक⟫）
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -711,10 +699,10 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+其餘同陽性
 
 :::
-Femininum (⟪स्त्री⟫)
+陰性（⟪स्त्री⟫）
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -727,50 +715,51 @@ Femininum (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
+## 61.9. 放歸梵文文學之海：ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen:
+梵文課程結束後，才真正開始在梵文文學的海洋中「游泳」。由於這片海洋充滿障礙，以祈請象頭神（Gaṇeśa）作為這一新生涯階段的開端是恰當的：
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101))
+圖：⟪श्रीगणनाथः⟫
+Halebidu（ಹಳೆಬೀಡು），公元12/13世紀
+（圖片來源：[詳情](/zh/licenses#lekt6101)）
 :::
 
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] by Purandaradāsa（**ಪುರಂದರ ದಾಸ**）（1484 - 1564）
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+作曲家兼詩人：Purandaradāsa（ಪುರಂದರ ದಾಸ）（1484 - 1564）
 
-Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
+Rāga：Malahari（對應於⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை）：
 
-*   ārohaṇa: s r1 m1 p d1 S
+*   ārohaṇa：s r1 m1 p d1 S
 
-*   avarohaṇa: S d1 p m1 g3 r1 s
+*   avarohaṇa：S d1 p m1 g3 r1 s
 
-Tāla: Rūpaka: o |4
+
+Tāla：Rūpaka：o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119))
+圖：旋律以c為基準，可根據音域進行移調。
+（圖片來源：[詳情](/zh/licenses#lekt6119)）
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05 
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ 位於卡納達語音樂教學的開頭。請參見影片：[http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY)。-- 存取日期：2009-03-05
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
+在您已掌握梵文基礎之後，希望您能如影片中的孩童一般：偶爾笨拙，卻充滿學習與求知慾，並樂在其中。請終生保持「初學者的心」。
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer
+此致，您的 Alois Payer
 
-Ofterdingen, 2009-03-09
+奧弗特丁根，2009-03-09
 
-*:sig[⟪ॐ⟫]*
+sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+梵文課程結束
 :::
 

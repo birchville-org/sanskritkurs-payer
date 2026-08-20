@@ -1,101 +1,103 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "第4課"
+subtitle: "主格中的疑問代詞與指示代詞"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第4課
 
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. 簡單補充問句（詞語問句）與回答
 
-### 4.1.1. 疑问代词和指示代词
+### 4.1.1. 疑問代詞與指示代詞
 
-#### 4.1.1.1. 疑问代词 (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. 疑問代詞 (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
-| | Nominativ singular | Nominativ plural |
+| | 主格單數 | 主格複數 |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
-| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
-| **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
+| **中性** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **陽性** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **陰性** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. 指示代词 (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+#### 4.1.1.2. 指示代詞 (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
-| **Stämme** ||||
+| **詞幹** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
-| **Nominativ singular** ||||
-| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
-| **Nominativ plural** ||||
-| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| | **tad = ⟪तद्⟫:br"他、她、它；那個、那些":br(提及者)** | **etad = ⟪एतद्⟫:br"這位、這些":br(離說話者非常近)** | **idam = ⟪इदम्⟫:br"這位、這些":br(離說話者近)** |
+| **主格單數** ||||
+| **中性** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **陽性** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **陰性** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **主格複數** ||||
+| **中性** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **陽性** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **陰性** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**Zum Nom. sg. mask.:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a**
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende)
+**關於陽性單數主格：**
+**sa, eṣa** (⟪स एष⟫) 出現在除短 **-a** 以外的所有音素之前
+**so, eṣo** (⟪सो एषो⟫) 出現在 **-a** 之前，該 **-a** 會因 Avagraha 而省略（消失）
+**saḥ, eṣaḥ** (⟪सः एषः⟫) 僅出現在停頓處（句末、詩節末尾）
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig:
+為了能夠使用這些代名詞（sarvanāman n.）來構建句子，還需要了解以下 Sandhi 規則：
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. 詞尾 -m 的 Sandhi
 
 ::: grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.**
+**詞尾 -m 在輔音前會由 Anusvāra (-ṃ) 取代。在句末或詩行末尾，以及在元音前，-m 則保持不變。**
 :::
-### 4.1.3. Sandhi von auslautendem -e
+### 4.1.3. 詞尾 -e 的 Sandhi
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
+1. **在 a- 之前，-e 保持不變：起始的 a- 會與 Avagraha 合併：**
+例如 ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ "這些火"
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
-   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
+2. **在其他短元音 a- 之外的元音前，-e 通常會由帶有 Hiatus（元音連讀）的 -a 取代。有時也會由 -ay 取代：**
+例如 ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (罕見：imay īśvarāh = ⟪इमयीश्वराः⟫) "這些主人"
 :::
-### 4.1.4. Sandhi von auslautendem -d
+### 4.1.4. 詞尾 -d 的 Sandhi
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
+**詞尾 -d 在停頓處，以及在無聲軟顎音 (k, kh) 和雙唇音 (p, ph) 前，會由 -t 取代。**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße!
+在其他輔音前的取代規則稍後會討論。請暫時避免此類發音碰撞！
 :::
-### 4.1.5. Frageformeln
+### 4.1.5. 問句公式
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
+使用這些代名詞，可以構成以下問句公式：
 
 ::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" |
-| ^^ | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wer ist das?":br"Was ist der?" |
-| ^^ | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wer ist das?":br"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| ^^ | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^ | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| **單數** | **中性** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं किम्⟫, ⟪किमिदम्⟫ | "那是什麼？" |
+| ^^| **陽性** | sa kaḥ? / kaḥ saḥ?:br⟪स कः⟫, ⟪कः सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष कः⟫, ⟪क एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं कः⟫, ⟪को ऽयम्⟫ | "那是誰？":br"他是誰？" |
+| ^^| **陰性** | sā kā? / kā sā?:br⟪सा का⟫, ⟪का सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं का⟫, ⟪केयम्⟫ | "那是誰？":br"她是誰？" |
+| **複數** | **中性** | tāni kāni? / kāni tāni?:br⟪तानि कानि⟫, ⟪कानि तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि कानि⟫, ⟪कानीमानि⟫ | |
+|^^ | **陽性** | te ke? / ke te?:br⟪ते के⟫, ⟪के ते⟫:brete ke? / ka ete?:br⟪एते के⟫, ⟪क एते⟫:brime ke? / ka ime?:br⟪इमे के⟫, ⟪क इमे⟫ | |
+| ^^| **陰性** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः काः⟫, ⟪का एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः काः⟫, ⟪का इमाः⟫ | |
 :::
-Ein Beispiel anderer Fragen:
+其他問題範例：
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，您可以在名詞句中將主語例如移至句首，以強調與問題的銜接。）
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit.
+註：憑藉您目前所學的梵文知識，對這些問題所作的回答，自然還未在所有方面都符合地道的梵文規範。
 
-## 4.2. 练习
 
-**A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:**
+## 4.2. 練習
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
+**A) 請根據 viṣṇuḥ kaḥ（⟪विष्णुः कः⟫）的句型，用以下詞語口頭提問，並用梵文回答：**
 
-= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
+śruti, śiva, brāhmaṇa, dvija（複數）, indrāṇī, dhenu, tulādhara, kālidāsa
 
-**B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
+= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫（⟪बहुवचनम्⟫）, ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
+
+**B) 請根據 etat kim（⟪एतत्किम्⟫）的句型，為以下閱讀練習提問，並使用指定的詞語和指示代詞（例如 eṣa bālaḥ（⟪एष बालः⟫））來回答問題：**
 
 ::: media
 ![](/images/lekt0401.webp)
-(Bildquelle: [Details](/licenses#lekt0401))
+（圖片來源：[詳情](/zh/licenses#lekt0401)）
 :::

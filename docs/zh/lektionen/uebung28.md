@@ -1,19 +1,19 @@
-
 ---
-title: "Übung 28"
+title: "練習28"
 uebung_id: 28
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習28
 
-A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
+A) 為以下動詞形式與分詞形式構建使役態：
 
-### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa)
+### ⟪१⟫. 以高階詞根（Guṇa）
 
-| Form | Kausativ |
+| 形式 | 使役態 |
 | :--- | :--- |
 | ⟪अर्हन्ति⟫ | ⟪अर्हयन्ति⟫ |
 | ⟪प्राप्य⟫ | ⟪प्रापय्य⟫ |
@@ -44,9 +44,9 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-### ⟪२⟫. Mit dehnstufiger Wurzel (Vṛddhi)
+### ⟪२⟫. 以長階詞根（Vṛddhi）
 
-| Form | Kausativ |
+| 形式 | 使役態 |
 | :--- | :--- |
 | ⟪अत्ति⟫ | ⟪आदयति⟫ |
 | ⟪अस्यन्ति⟫ | ⟪आसयन्ति⟫ |
@@ -87,62 +87,62 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-### ⟪३⟫. Kausativ auf -⟪पय⟫ (und Sonderformen)
+### ⟪३⟫. 使動詞尾 -⟪पय⟫（及特殊形式）
 
-| Wurzel | Kausativ | Bedeutung |
+| 詞根 | 使動詞 | 意義 |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫ | hinstellen, festsetzen |
-| ⟪दुष्⟫ | ⟪दूषयति⟫ | verderben |
-| ⟪पा⟫ ⟪१⟫ (trinken) | ⟪पाययति⟫ | zu trinken geben |
-| ⟪पा⟫ ⟪२⟫ (schützen) | ⟪पालयति⟫ | behüten, schützen |
-| ⟪लभ्⟫ | ⟪लम्भयति⟫ | erhalten lassen |
-| ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
-| ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
-| ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
+| ⟪स्था⟫ | ⟪स्थापयति⟫ | 放置，設定 |
+| ⟪दुष्⟫ | ⟪दूषयति⟫ | 毀壞 |
+| ⟪पा १⟫（飲） | ⟪पाययति⟫ | 給……喝 |
+| ⟪पा २⟫（保護） | ⟪पालयति⟫ | 守護，保護 |
+| ⟪लभ्⟫ | ⟪लम्भयति⟫ | 使保持，維持 |
+| ⟪हन्⟫ | ⟪घातयति⟫ | 使擊殺，處死 |
+| ⟪जि⟫ | ⟪जापयति⟫ | 使獲勝 |
+| ⟪जीव्⟫ | ⟪जीवयति⟫ | 使復活，賦予生命 |
+B) 翻譯以下句子，並使用簡單動詞構建表達使動詞所導致之結果的句子。
 
-⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
-Der Kṣatriya hat, um die Feinde zu besiegen, einen Brahmanen Hari und Hara mit einem Opfer verehren lassen und wird die Feinde bekämpfen.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
+⟪१⟫. **⟪शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥⟫**
+剎帝利為了擊敗敵人，讓婆羅門哈里與黑天（Hara）進行祭祀以敬拜他們，並將與敵人作戰。
+（基礎：**⟪ब्राह्मणो हरिहरं यजति ।⟫**）
 
-⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
-Der Lehrer hat den Knaben den Veda gelehrt und ist dann nach Hause gegangen.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥⟫**
+老師教導男孩吠陀，然後回家。
+（基礎：**⟪बाला वेदमधीयते ।⟫**）
 
-⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
-Im innersten Heiligtum wird das Bildnis der Göttin gezeigt.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+⟪३⟫. **⟪गर्भगृहे देवीप्रतिमा दर्श्यते ॥३॥⟫**
+在最神聖的內殿中展示女神的神像。
+（基礎：**⟪देवीप्रतिमा दृश्यते ।⟫**）
 
-⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
-Der Opfernde gibt dem Feuer Speise zu essen und Trank zu trinken.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+⟪४⟫. **⟪यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥⟫**
+祭祀者給火神食物吃，給飲料喝。
+（基礎：**⟪अग्निरन्नमत्ति पानं च पिबति ।⟫**）
 
-⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
-Sobald der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt den Diener ins Haus kommen und fragt nach seinem Sohn.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+⟪५⟫. **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति ॥५॥⟫**
+兒子出生後，婆羅門女派僕人去請婆羅門。婆羅門讓僕人進屋，並詢問他的兒子。
+（基礎：**⟪दासो ब्राह्मणं गच्छति । दासो गृहं प्रविशति ।⟫**）
 
-⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-Der lobsingende Mann bringt den Göttern die Lobeshymnen des grossen Dichters zu Gehör.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+⟪६⟫. **⟪स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥⟫**
+歌頌者將偉大詩人的讚美詩獻給諸神。
+（基礎：**⟪देवा महाकवेः स्तोत्राणि शृण्वन्ति ।⟫**）
 
-⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
-Die edlen Krieger töten in der grossen Schlacht die Feinde.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+⟪७⟫. **⟪आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥⟫**
+高貴的戰士在偉大的戰役中殺死敵人。
+（基礎：**⟪अरयो म्रियन्ते ।⟫**）
 
-⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
-Die gute Kṣatriyā lässt einen Brahmanen ihre persönliche Gottheit verehren.
-(Basis: **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
+⟪८⟫. **⟪सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति ॥८॥⟫**
+賢淑的剎帝利女讓婆羅門供奉她個人的神祇。
+（基礎：**⟪ब्राह्मण इष्टदेवतापूजां करोति ।⟫**）
 
-⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
-Um Reichtümer zu erobern, wird der grosse Kṣatriya die tigergleichen Kämpfer Gelübde halten lassen.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+⟪९⟫. **⟪धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥⟫**
+為了征服財富，偉大的剎帝利將讓如虎般的戰士發誓。
+（基礎：**⟪योधव्याघ्रा व्रतानि चरिष्यन्ति ।⟫**）
 
-⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten erkennen.
-(Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+⟪१०⟫. **⟪पापाद्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫**
+為了使他們擺脫苦難，佛陀讓高貴的人們領悟高貴的真理。
+（基礎：**⟪आर्यजना आर्यसत्यानि बुध्यन्ते ।⟫**）
 
 ::: media
 ![](/images/uebung045.webp)
-Abb.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
-(Bildquelle: [Details](/licenses#uebung045))
+圖：⟪गर्भगृहे देवीप्रतिमा दर्श्यते⟫
+（圖片來源：[詳情](/licenses#uebung045)）
 :::

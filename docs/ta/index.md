@@ -2,33 +2,34 @@
 layout: home
 
 hero:
-  name: Sanskritkurs
-  text: Ein vollständiger Lehrgang
-  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
+  name: "சமஸ்கிருதப் பாடநெறி"
+  text: "ஒரு விரிவான பாடநெறி"
+  tagline: "அலோயிஸ் பேயர் (டுப்ளியின் குளோபல் வில்லேஜ் லைப்ரரி) அவர்களால்"
   actions:
     - theme: brand
-      text: Kurs Starten
+      text: "பாடநெறியைத் தொடங்குங்கள்"
       link: /ta/lektionen/lektion01
     - theme: alt
-      text: Grammatik Themen
+      text: "வினையியல் தலைப்புகள்"
       link: /ta/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+  - title: "Devanāgarī ready"
+    details: "இந்திய எழுத்துக்களுக்கான கச்சிதமான, ஒருங்கிணைந்த அச்சுக்கலை."
+  - title: "எளிதாகத் தேடக்கூடியது"
+    details: "ஆழமான உள்ளூர் முழு-உரை தேடல், ஒரு பொத்தானை அழுத்துவதன் மூலம் அறிவைக் கிடைக்கச் செய்கிறது."
+  - title: "நவீன கட்டமைப்பு"
+    details: "அதிகபட்ச வேகத்திற்காக VitePress அடித்தளத்தில் கட்டமைக்கப்பட்டுள்ளது."
 
 ---
 
 ::: note-box
-அலாய்ஸ் பையரின் **சமஸ்கிருத பாடம்** என்பது சமஸ்கிருத மொழி மற்றும் தேவநாகரி எழுத்துக்களைக் கற்றுக்கொள்வதற்கான விரிவான, அறிவியல் ரீதியாக ஆதரிக்கப்பட்ட கற்பித்தல் நிகழ்வு. இந்த டிஜிட்டல் பதிப்பு முழு பாடத்தையும் நவீன, பலமொழி மற்றும் தேடுதல் சாத்தியமான வாசிப்பு சூழலில் வழங்குகிறது.
+அலோயிஸ் பையரின் **சமஸ்கிருத பாடத்திட்டம்** என்பது சமஸ்கிருத மொழியையும் தேவநாகரி எழுத்துக்களையும் கற்றுக்கொள்வதற்கான விரிவான, அறிவியல் ரீதியாக ஆய்வு செய்யப்பட்ட கற்றல் நிகழ்வாகும். இந்த டிஜிட்டல் பதிப்பு முழுமையான பாடத்திட்டத்தை ஒரு நவீன, பல மொழி மற்றும் தேடுதல் சாத்தியமான வாசிப்பு சூழலில் வழங்குகிறது.
 
-மொழிகள் ஒரு செயற்கை நுண்ணறிவு (Qwen3.6-32B) உதவியுடன் முழுமையாக தானாக ஜெர்மன் மொழியிலிருந்து மொழிபெயர்க்கப்பட்டுள்ளன. மொழிபெயர்ப்பு பிழைகள் குறித்த தகவல்கள் மிகவும் வரவேற்கப்படுகின்றன.
+மொழிகள் ஒரு செயற்கை நுண்ணறிவு (Qwen3.6-32B) உதவியுடன் முழுமையாக தானியக்கமாக ஜெர்மன் மொழியிலிருந்து மொழிபெயர்க்கப்பட்டுள்ளன. மொழிபெயர்ப்பு பிழைகள் குறித்த தகவல்கள் மிகவும் வரவேற்கப்படுகின்றன.
 **குறிப்புகள் & தொடர்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**ஒரு திருத்தநூலாளர் அல்லது கண்காணிப்பாளராக பங்களிக்க**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**திறந்த மூல திருத்தி சென்டௌரி**: [GitHub](https://github.com/marcodem/zentauri) இல் தனிநபர் Markdown திருத்தி
-**அமைப்பாளர் விக்கி & கட்டமைப்பு**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**ஒரு திருத்தநபர் அல்லது கண்காணிப்பாளராக பங்களிக்க**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
+**திறந்த மூல திருத்தி சென்டௌரி**: [GitHub](https://github.com/marcodem/zentauri) இல் உள்ள ஸ்டாண்ட்அலோன் மார்க்டவுன் திருத்தி
+**வளர்ச்சியாளர் விக்கி & கட்டமைப்பு**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**தற்போதைய பதிப்பு**: v1.7.0
 :::

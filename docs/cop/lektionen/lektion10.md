@@ -95,7 +95,6 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. ⲙⲡⲓⲛⲟϥ ϧⲉⲙ ⲡⲓⲛⲁϣⲟⲥ (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -105,13 +104,11 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 - **ⲛⲉⲙ ⲛⲓⲙ?**
 
 **ⲉϥϣⲟⲡ**
-1. **ϧⲉⲛ ⲛⲓϫⲱ ⲙ̀ⲡⲁⲑⲏⲧⲓⲕⲟⲥ: ⲡⲓⲣⲉϥⲉⲣϩⲱⲃ (kartṛ) ϧⲉⲛ ⲡⲓⲕⲗⲏⲧⲓⲕⲟⲥ ⲛ̀ⲟⲣⲅⲁⲛⲓⲕⲟⲥ**
-2. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲉⲥⲟⲛ ⲓⲉ ⲡⲓⲟⲣⲅⲁⲛⲟⲛ, ⲫⲏ ⲉⲧⲟⲩϫⲱⲕ ⲉⲃⲟⲗ ⲛ̀ϩⲱⲃ ⲛⲓⲙ ϩⲓⲧⲟⲧϥ**
-3. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲱⲓⲧ, ⲉⲧⲉ ⲟⲩⲁⲓ ϣⲁϥϣⲱⲡⲓ ⲉ̀ⲙⲁ ⲛⲓⲙ ⲉϩⲣⲏⲓ ϩⲓϫⲱϥ**
-4. **ⲉⲑⲣⲉϥⲧⲁϩⲟ ⲉⲣⲁⲧϥ ⲛ̀ϯⲥⲩⲛⲁⲫⲓⲁ, ϯⲉⲛⲱⲥⲓⲥ, ϯⲥⲩⲛⲟⲇⲓⲁ ⲛ̀**
-5. **ϩⲓ ⲛⲓⲡⲁⲣⲁⲑⲉⲥⲓⲥ ϧⲉⲛ ⲡⲓⲧⲁϣⲉⲟⲉⲓϣ «ⲛⲉⲙ ⲉⲩⲥⲟⲡ, ⲛⲉⲙ»; ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ saha = ⟪सह⟫ = «ⲛⲉⲙ»**
-ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = «ⲛⲉⲙ ⲡⲓⲃⲣⲁϩⲙⲁⲛⲟⲥ ⲉⲩⲥⲟⲡ»
+1. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲉⲥⲟⲛ ⲓⲉ ⲡⲓⲟⲣⲅⲁⲛⲟⲛ, ⲫⲏ ⲉⲧⲟⲩϫⲱⲕ ⲉⲃⲟⲗ ⲛ̀ϩⲱⲃ ⲛⲓⲙ ϩⲓⲧⲟⲧϥ**
+2. **ⲉⲑⲣⲉϥϭⲱ ⲉⲃⲟⲗ ⲉ̀ⲡⲓⲙⲱⲓⲧ, ⲉⲧⲉ ⲟⲩⲁⲓ ϣⲁϥϣⲱⲡⲓ ⲉ̀ⲙⲁ ⲛⲓⲙ ⲉϩⲣⲏⲓ ϩⲓϫⲱϥ**
+3. **ⲉⲑⲣⲉϥⲧⲁϩⲟ ⲉⲣⲁⲧϥ ⲛ̀ϯⲥⲩⲛⲁⲫⲓⲁ, ϯⲉⲛⲱⲥⲓⲥ, ϯⲥⲩⲛⲟⲇⲓⲁ ⲛ̀**
+4. **ϩⲓ ⲛⲓⲡⲁⲣⲁⲑⲉⲥⲓⲥ ϧⲉⲛ ⲡⲓⲧⲁϣⲉⲟⲉⲓϣ «ⲛⲉⲙ ⲉⲩⲥⲟⲡ, ⲛⲉⲙ»; ⲉⲩⲡⲁⲣⲁⲇⲓⲅⲙⲁ saha = ⟪सह⟫ = «ⲛⲉⲙ»**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = «ⲛⲉⲙ ⲡⲓⲃⲣⲁϩⲙⲁⲛⲟⲥ ⲉⲩⲥⲟⲡ»
 :::
 ⲭⲉⲛⲕⲟⲩⲓ ⲛ̀ⲭⲣⲏⲥⲓⲥ ⲛ̀ⲧⲉ ⲡⲓⲕⲗⲏⲧⲓⲕⲟⲥ ⲛ̀ⲟⲣⲅⲁⲛⲓⲕⲟⲥ (tṛtīyā) ⲥⲉⲛⲏⲩ ⲙⲉⲛⲉⲛⲥⲱⲥ.
 
@@ -162,24 +159,17 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 ### 10.4.1. ⲛⲓⲕⲁⲛⲱⲛ ⲉⲧⲥⲉⲙⲛⲓ ⲛ̀ⲧⲉ ⲡ̀ϫⲓⲛϣⲱⲡⲓ ⲛ̀ⲧⲉ ⲡⲓⲡⲁⲥⲥⲓⲃ
 
 1. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ -i ⲛⲁⲓ -u** ⲡⲉϥⲃⲏⲧ ⲛⲁⲕ ϯϣⲱⲡⲓ ⲛⲁⲕ **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ -a- ⲛⲁⲕ ϯϣⲱⲡⲓ** (ⲛⲁⲕ ⲛⲉϥⲙⲡⲓ, y, r, v) ⲛⲉϥⲃⲏⲧ:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **ⲛⲉϥⲃⲏⲧ ⲛⲓϣⲟⲡ** ⲛⲁⲕ ϯϣⲱⲡⲓ (ⲛⲁⲕ ϯϣⲱⲡⲓ ⲛⲁⲕ ϯϣⲱⲡⲓ):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **ⲛⲓϣⲟⲡ ⲉⲃⲟⲗ ya, va, ra** ⲛⲁⲕ ϯϣⲱⲡⲓ (Samprasāraṇa = ⟪सम्प्रसारण⟫):
 
@@ -192,20 +182,16 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 ⲡⲓϧⲟⲩⲛⲉⲙ ⲡⲓϫⲟⲩⲛⲧⲉ ⲡⲓϣⲟⲡⲛⲏⲙ ⲉⲧϥⲣⲱⲡ ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲧⲉ **ϣⲁⲙⲡⲣⲥⲁⲣⲁⲛ** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Aber: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Aber: **smṛ** 1 P: **smaryate**
 
 6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
    * eine **-an-ya**
    * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
 
 z.B. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Wortliste
 
@@ -236,11 +222,13 @@ z.B. **tan** 8 U.
 - ⲡⲁⲡⲟ n. ⟪पाप⟫ : ⲛⲓⲥϣⲱⲧ, ⲡⲉⲓⲥϣⲱⲧ (ⲛⲉⲙ ⲡⲓϣⲱⲧ ⲛⲉⲙ ⲡⲁⲩⲛⲓⲁ)
 - ⲥⲁⲧⲩⲁ n. ⟪सत्य⟫ : ⲛⲓϣⲱⲧ
 
-::: note-box
+:::: note-box
 ⲛⲧⲉ Ⲭⲏⲙⲁ, ⲛⲧⲉ ϯⲥⲱⲙⲁ ⲛⲧⲉ ϯⲙⲟⲣϫ ⲛⲧⲉ ϯⲥⲁϣⲟⲡ ⲛⲧⲉ ϯⲙⲏϥⲣⲟⲛ, ⲉⲧϫⲱⲙ ϩⲓⲛ ⲡⲉϥⲣⲟⲙ ϯⲛⲓⲱϥ ⲉⲧⲃⲟⲗ ϯⲛⲓⲱϥ ⲉⲧⲃⲟⲗ. ⲛⲁϥ ϯⲧⲉⲣⲙⲏ ⲛⲁϥ ϯⲧⲉⲣⲙⲏ ⲛⲁϥ ϯⲧⲉⲣⲙⲏ:
 
+::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

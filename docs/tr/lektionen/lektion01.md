@@ -1,15 +1,13 @@
 ---
-title: "Ders 1"
-subtitle: "Sanskrit'in Sesleri"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
-
 ---
 
 # Ders 1
-
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -74,10 +72,11 @@ Kelimenin anlamı.
 
 Başlangıçta bir tuhaflık:
 
-
->"William Jones [1746–1794] ve Henry Thomas Colebrooke (1765—1857) Sanskrit'i ilk kez derinlemesine çalıştıklarında, kısmen çevirdiklerinde ve zengin bir edebiyata sahip olduğunu ve klasik dillerle azımsanmayacak derecede akrabalık gösterdiğini bulduklarında, büyük bir dirençle karşılaştılar. Sanskrit'in coğrafi olarak bu kadar uzak olan Avrupa dillerine olan içli ilişkisi, ya tüm dillerin İbraniceden türetilmesini savunan veya büyük ölçüde birbirinden izole edilen eski görüşlerle bağdaştırılamadığından, ünlü filolog Dugald Steward (1753—1828) Sanskrit diliyle ilgili tüm tarihi bir yalan olarak ilan ederek en basit çıkış yolunu seçti. Sanskrit'in Yunanca ve Latince modeline göre hilekar Brahmanlar tarafından uydurulmuş olduğu, hem dilin hem de edebiyatın bir sahtecilik olduğu konusunda kanıt sunmaya çalıştığı bir deneme yazdı. Bu görüşü Dublin'deki profesör Charles William Wall, 1840 yılında daha da ayrıntılı bir şekilde geliştirdi (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
 >(Kaynak: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Çevrimiçi: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Erişim tarihi: 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Başlangıç Seviyesi Hintoloji İçin Edebiyat
 
@@ -97,7 +96,9 @@ Resim: Kapak sayfası
 
 En iyi sistematik gramer:
 
-> **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / W. Solf [1862 - 1936] tarafından İngilizceden çevrildi. -- Berlin : Dümmler, 1888. -- XIII, 238 s. -- Orijinal başlık: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -117,7 +118,9 @@ Resim: Kapak başlığı
 
 Avrupa dilbilimsel terminolojisinin iyi ve kısa bir sunumu şurada bulunabilir:
 
-> **Almanca Dilin Etimolojik Sözlüğü** / [Friedrich] Kluge (1856–1926). Elmar Seebold tarafından düzenlenmiş. -- 24., gözden geçirilmiş ve genişletilmiş baskı. -- Berlin [ve diğerleri] : de Gruyter, 2002. - LXXXIX, 1023 s. : 24 cm. -- ISBN 3-11-017473-1 Ciltli olmayan. -- S. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -128,7 +131,6 @@ Resim: Kapak başlığı
 Meraklılar için başvuru kaynakları:
 
 > **Dilbilim Sözlüğü** / Hadumod Bussmann tarafından düzenlenmiş. -- 4., gözden geçirilmiş ve bibliyografik olarak tamamlanmış baskı / Hartmut Lauffer'un katkılarıyla. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
-
 
 ## 1.2. Sanskrit'in Sesleri
 
@@ -141,6 +143,12 @@ Geleneksel Hint sınıflandırmasına göre Sanskrit sesleri ve bilimsel yazıl�
 Modern Sanskrit sözlükleri bu sınıflandırma sırasına göre düzenlenmiştir. Bu sınıflandırma, Sanskrit dilbilgisini anlamak için vazgeçilmezdir ve bu nedenle ezberlenmelidir:
 
 ::: note-box
+Klassifikation <!-- TODO: Fallback translation -->
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
 Sınıflandırma
 **Basit ünlüler** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -172,7 +180,6 @@ Sınıflandırma
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Sürtünmeli ünsüzler, h, l'den önce: Ünlünün burun tınısı. Kelime sonunda = m. Sözcük içinde ünsüzlerden önce: Takip eden ünsüze karşılık gelen burun tınısı: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 En iyi telaffuz, cümleleri, şiirleri veya kelimeleri ünlülerin uzunluğunu tam olarak dikkate alarak oldukça yavaş ve monoton bir şekilde okuyarak elde edilir.
-
 
 ## 1.3. Alıştırma
 

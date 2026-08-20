@@ -1,216 +1,207 @@
 ---
-title: Lektion 31
+title: "# 第31課"
 lesson_id: 31
 status: stable
+
 ---
 
 # 第31課
 
-## 31.1. 第七现在时类 (⟪रुधादि⟫ = "⟪रुध्⟫ 等")
+## 31.1. 第七現在詞類（⟪रुधादि⟫ = "⟪रुध्⟫ 等"）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:**
+**在低階詞根末尾的輔音之前，插入一個所謂的鼻音 infix（-na- 或 -n-）：**
 
-*   **im starken Stamm: -na-**
-*   **im schwachen Stamm: -n-**
+*   **強詞幹：-na-**
+*   **弱詞幹：-n-**
 
-**Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.**
+**詞根末尾輔音與以輔音開頭的詞尾的結合，適用與第二現在詞類相同的規則。**
 :::
-Beispiele:
+範例：
 
-⟪युज्⟫ 7U "verbinden, anschirren"
+⟪युज्⟫ 7U "連接，套上"
 
 ::: grammar-box
 
-| | | Parasmaipada | Ātmanepada |
+⟪| | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
-| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
-| **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
-| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **直陳語氣** | **第三人稱單數** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br（在詞內喉音前，鼻音以 -ṅ- 取代） |
+| | **第三人稱複數** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+| **虛擬語氣** | **第三人稱單數** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **第三人稱複數** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+| **現在分詞** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:br陰性： ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen"
+⟪रुध्⟫ 7U "阻止，使停止"
 
 ::: grammar-box
 
-| | | Parasmaipada | Ātmanepada |
+⟪| | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
-| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
-| **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
-| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **直陳語氣** | **第三人稱單數** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
+| | **第三人稱複數** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
+| **虛擬語氣** | **第三人稱單數** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
+| | **第三人稱複數** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
+| **現在分詞** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:br陰性： ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
-**Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in außerpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.**
+**在某些詞根中，弱現在詞幹的-n-也滲入了非現在時態，因此這些詞根被設定為帶有插入的鼻音。**
 :::
-Beispiel:
+範例：
 
-**⟪भञ्ज्⟫** 7P "brechen"
+⟪भञ्ज्⟫ 第七類「破裂」
 
 ::: indent
-*   Indikativ Präsens
-    *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
-    *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
-*   Futur: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
-*   Passiv: **⟪भज्यते⟫** (entweder aus ursprünglicher Wurzel **⟪भज्⟫** oder aus *bhñj-ya-te)
-*   PPP: **⟪भग्न⟫** (evtl. aus *bhñj + na)
+*   直陳語氣現在時
+*   第三人稱單數 ⟪भनक्ति⟫ (bha-na + j + ti)
+*   第三人稱複數 ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+*   未來時：⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
+*   被動語態：⟪भज्यते⟫（源自原始詞根 ⟪भज्⟫ 或 *bhñj-ya-te）
+*   過去被動分詞：⟪भग्न⟫（可能源自 *bhñj + na）
 :::
-## 31.2. 词汇表
+## 31.2. 詞彙表
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
+⟪युज्⟫ 第七類 ⟪युनक्ति⟫：套上，裝上軛，拉緊，固定；Ā 也指：用力（= 努力），與...結合，專注於（屬格，⟪सप्तमी⟫）
 ::: indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Kaus. ⟪योजयति⟫**
+**未來時 ⟪योक्ष्यति⟫**
+**被動語態 ⟪युज्यते⟫**
+**使役 ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
+**不定詞 ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+衍生自：
+**⟪युग⟫ 中性名詞 → ⟪युग⟫ 中性名詞：** 軛，一對，時代（共有四個時代：
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das **⟪कलियुग⟫** begann um 3102 v. Chr., dem Jahr des **⟪महाभारत⟫**-Krieges. Näheres bei Basham, Wonder S. 323)
+⟪कलियुग⟫ 始於公元前 3102 年，即 ⟪महाभारत⟫ 戰爭之年。詳情請參見 Basham，《奇蹟》第 323 頁）
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ 陽性名詞：**「套上，拉緊」，努力，結合，瑜伽（請參見 Basham，《奇蹟》第 327 頁及以下）
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+圖：⟪योगः⟫
+瑜伽圖解。
+（圖片來源：[詳情](/zh/licenses#lekt3101)）
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken
+⟪रुध्⟫ 第七類 ⟪रुणद्धि⟫：停止，使靜止，阻止 = 封閉，遮蓋
 ::: indent
-**Fut. ⟪रोत्स्यति⟫**
-**Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
+**未來時 ⟪रोत्स्यति⟫**
+**被動語態 ⟪रुध्यते⟫**
+**使役 ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫**
+**不定詞 ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : 切斷
 ::: indent
-**Fut. ⟪छेत्स्यति⟫**
-**Pass. ⟪छिद्यते⟫**
-**Kaus. ⟪छेदयति⟫**
-**PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫**
+**未來式 ⟪छेत्स्यति⟫**
+**被動式 ⟪छिद्यते⟫**
+**使役式 ⟪छेदयति⟫**
+**過去分詞 ⟪छिन्न⟫**
+**不定詞 ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : （某物）破碎
 ::: indent
-**Fut. ⟪भङ्क्ष्यति⟫**
-**Pass. ⟪भज्यते⟫**
-**PPP ⟪भग्न⟫**
+**未來式 ⟪भङ्क्ष्यति⟫**
+**被動式 ⟪भज्यते⟫**
+**過去分詞 ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : 塗抹，敷上
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
-**Pass. ⟪अज्यते⟫**
-**Kaus. ⟪अञ्जयति⟫**
-**PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**未來式 ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
+**被動式 ⟪अज्यते⟫**
+**使役式 ⟪अञ्जयति⟫**
+**過去分詞 ⟪अक्त⟫**
+**不定詞 ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : 塗抹分開 = 化妝，使自己與眾不同
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**過去分詞 ⟪व्यक्त⟫ :** 區分的，展開的
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+派生自：
+**⟪व्यञ्जन⟫ n.：** 區分手段 = 化妝品，香料，標記，輔音（用以區別意義之物）
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+圖：⟪व्यञ्जनम्⟫
+卡塔卡利舞（Kathakali）的化妝準備，科契。
+（圖片來源：[詳情](/zh/licenses#lekt3102)）
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spalten
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : 劈開
 ::: indent
-**Fut. ⟪भेत्स्यति⟫**
-**Pass. ⟪भिद्यते⟫**
-**Kaus. ⟪भेदयति⟫**
-**PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫**
+**未來式 ⟪भेत्स्यति⟫**
+**被動式 ⟪भिद्यते⟫**
+**使役式 ⟪भेदयति⟫**
+**過去分詞 ⟪भिन्न⟫**
+**不定詞 ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : 享受（例如食物；「享受大地」= 統治大地）
 ::: indent
-**Fut. ⟪भोक्ष्यति⟫**
-**Pass. ⟪भुज्यते⟫**
-**Kaus. ⟪भोजयति⟫**
-**PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫**
+**未來式 ⟪भोक्ष्यति⟫**
+**被動式 ⟪भुज्यते⟫**
+**使役式 ⟪भोजयति⟫**
+**過去分詞 bhukt → 過去分詞 ⟪भुक्त⟫**
+**不定詞 ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+派生自：
+**⟪भोग⟫ m.：** 享受，食物，愉悅，利益，稅收，賦稅
 :::
-**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): binden, anbinden
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!)：捆綁，繫住
 ::: indent
-**Fut. ⟪भन्त्स्यति⟫**
-**Pass. ⟪बध्यते⟫**
-**Kaus. ⟪बन्धयति⟫**
-**PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫**
+**未來式 ⟪भन्त्स्यति⟫**
+**被動式 ⟪बध्यते⟫**
+**使役式 ⟪बन्धयति⟫**
+**過去分詞 ⟪बद्ध⟫**
+**不定詞 ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel
+派生自：
+**⟪बन्धन⟫ n.：** 捆綁，束縛
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : erkennen, verstehen
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ ：認知、理解
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
+源自：
+**⟪प्रज्ञा⟫ f.** ：智慧、洞察力
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103))
+圖：⟪प्रज्ञापारमिता⟫
+出自《般若波羅蜜多》手稿。
+（圖片來源：[詳情](/zh/licenses#lekt3103)）
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : entstehen, existieren
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ ：產生、存在
 
-**⟪शरीर⟫ n.:** Leib, Körper
+**⟪शरीर⟫ n.** ：軀體、身體
 
-## 31.3. 练习
+## 31.3. 練習
 
-A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:
+A) 翻譯以下句子並解析複合詞：
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
-
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
+⟪प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥ शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते ॥२॥⟫
 
 ::: media
 ![](/images/lekt3105.jpg)
-Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
-Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Bildquelle: [Details](/licenses#lekt3105))
+圖：⟪शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते⟫
+1965年印巴戰爭期間，印度陸軍第18騎兵團的坦克正在行進。
+（圖片來源：[詳情](/zh/licenses#lekt3105)）
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
-
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
+⟪बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥ पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥⟫
 
 ::: media
 ![](/images/lekt3104.webp)
-Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
-Rāhula, der Sohn Buddhas, Laos.
-(Bildquelle: [Details](/licenses#lekt3104))
+圖：⟪राहुलो जातो बन्धनं जातम्⟫
+佛陀之子羅睺羅，寮國。
+（圖片來源：[詳情](/zh/licenses#lekt3104)）
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+⟪समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens:
+B) 針對以下第七類詞根，構建第三人稱單數和複數、主動態和中動態（P 和 Ā）、直陳語氣和虛擬語氣的現在時：
 
-⟪१⟫. ⟪छिद्⟫
+⟪१⟫。⟪छिद् २⟫。⟪भिद् ३⟫。⟪भुज् ४⟫。⟪अञ्ज्⟫（僅P本）
 
-⟪२⟫. ⟪भिद्⟫
-
-⟪३⟫. ⟪भुज्⟫
-
-⟪४⟫. ⟪अञ्ज्⟫ (nur P)
-
-⟪५⟫. ⟪भञ्ज्⟫ (nur P)
+⟪५⟫。⟪भञ्ज्⟫（僅P本）
 

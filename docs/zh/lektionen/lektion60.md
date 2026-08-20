@@ -1,15 +1,16 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "第60課"
+subtitle: "雙數的完成時詞尾（⟪द्विवचनम्⟫）"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第60課
 
-## 60.1. 完成时双数结尾 (⟪द्विवचनम्⟫)
+## 60.1. 雙數完成時詞尾（⟪द्विवचनम्⟫）
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -17,11 +18,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. 重复式完成时（⟪द्वित्वलिट्⟫）的双数
+## 60.2. 重音完成時雙數形式（⟪द्वित्वलिट्⟫）
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. 第一類：無詞幹變格
 
-⟪बन्ध्⟫ 9P "binden"
+⟪बन्ध्⟫ 9P "捆綁"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +31,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen"
+⟪भाष्⟫ 1Ā "說話"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -39,9 +40,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. 第二類：強詞幹為高階，弱詞幹為低階
 
-⟪भिद्⟫ 7U "spalten"
+⟪भिद्⟫ 7U "劈開"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -50,11 +51,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. 第三類：強詞幹為高階/長音階
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 60.2.3.1. 第三類a：強詞幹為高階/長音階，弱詞幹為低階
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U "引導"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +64,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
+⟪स्तु⟫ 2U（⟪अनिट्⟫）"讚美"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -72,370 +73,366 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
+⟪कृ⟫ 8U (⟪अनिट्⟫) 「做、製作」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 60.2.3.2. 第三類b：強詞幹高階/長音階，弱詞幹高階
 
-⟪स्मृ⟫ 1P "vergegenwärtigen"
+⟪स्मृ⟫ 1P 「呈現」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. 第四類：以 -ā / -ai 結尾的詞根
 
-⟪दा⟫ 3U "geben"
+⟪दा⟫ 3U 「給予」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-\* identisch mit den entsprechenden Formen des Indikativ Präsens!
+\* 與相應的現在時直陳式形式相同！
 :::
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+### 60.2.5. 第五類：輔音-a-輔音
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 60.2.5.1. 第五類a：輔音-a-輔音，弱詞幹低階
 
-⟪गम्⟫ 1U "gehen"
+⟪गम्⟫ 1U 「去」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 60.2.5.2. 第五類b：輔音-a-輔音，首輔音非軟腭音、送氣音、h，弱詞幹無重疊，帶 -e-
 
-⟪पच्⟫ 1U "garen"
+⟪पच्⟫ 1U 「煮熟」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 60.2.5.3. 第五類c：輔音-a-輔音，弱詞幹高階
 
-⟪क्रम्⟫ 1U "schreiten"
+⟪क्रम्⟫ 1U 「行走」
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. 迂回完成时（⟪अनुप्रयोगलिट्⟫）的双数
+## 60.3. 複合完成時的雙數（⟪अनुप्रयोगलिट्⟫）
 
-⟪गण्⟫ 10P "zählen"
+⟪गण्⟫ 10P 「數」
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen"
+⟪आस्⟫ 2Ā 「坐」
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
 :::
-## 60.4. 重复式完成时（⟪द्वित्वलिट्⟫）的⟪परस्मैपद⟫分词
+## 60.4. 疊音完成時的分詞 ⟪परस्मैपद⟫（⟪द्वित्वलिट्⟫）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**schwacher Perfektstamm + vāṃs**
+**弱完成詞幹 + vāṃs**
 
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.**
+**若弱完成詞幹僅由一個音節組成，則附加連接元音 -i-。對於某些完成時態，該連接元音是可選的。**
 :::
-Beispiele:
+範例：
 
-| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
+| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ 「劈開者」 |
 | --- | --- |
-| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
-| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
-| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ 「存在者」；「投擲者」 |
+| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) 「給予者」 |
+| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ 「烹煮者」 |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ 「行者」 |
 
 ::: grammar-box
-**Deklination:**
+**變格：**
 
-*   **starker Stamm: -vāṃs**
-*   **schwacher Stamm:**
-    *   **vor Konsonant:** **-vat** **(!)**
-    *   **vor Vokal: -uṣ**
+*   **強詞幹：-vāṃs**
+*   **弱詞幹：**
+*   **在輔音前：-vat** **(!)**
+*   **在元音前：-uṣ**
 
-**Vor uṣ entfällt der Bindevokal -i-.**
+**uṣ 之前，連接元音 -i- 消失。**
 
-**Feminin:**
+**陰性：**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**弱詞幹在元音前加 -ī（變格方式同 ⟪देवी⟫）**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende"
+例：⟪विदुषी⟫ 「一位知者」
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124:
+變格表參見 Kielhorn，《語法》§ 124：
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001))
+（圖片來源：[詳情](/zh/licenses#lekt6001)）
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002))
+（圖片來源：[詳情](/zh/licenses#lekt6002)）
 :::
-## 60.5. Deklination der Stämme auf -añc (-ac)
+## 第60.5課。以 -añc (-ac) 結尾的詞幹變格
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
+**以 -añc/-ac 結尾的詞幹是由前綴等與根名詞 ⟪अञ्च्⟫ / ⟪अच्⟫ 1U「移動」結合而成。**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 第60.5.1課。以 -añc 結尾的三詞幹
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm:**
-    *   **vor Konsonant: -ac**
-    *   **vor Vokal:**
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**  
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**  
-            ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+*   **強詞幹：-añc**
+*   **弱詞幹：**
+*   **在輔音前：-ac**
+*   **在元音前：**
+*   **弱詞幹 -ac 中的 -a- 消失，且若前面有半元音，則用對應的長元音替換：**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच् अन्वच्⟫ » ⟪अनूच्⟫
+*   **若 -ac 前面沒有半元音，則用 -īc 替換 -ac：**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:**
+**陰性：**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**弱詞幹在元音前加 -ī（變格方式同 ⟪देवी⟫）**
 
-Beispiel: ⟪प्रतीची⟫
+例：⟪प्रतीची⟫
 :::
-####  Paradigmen siehe Kielhorn, Grammatik § 128:
+#### 變格表參見 Kielhorn，《語法》§ 128：
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003))
+（圖片來源：[詳情](/zh/licenses#lekt6003)）
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004))
+（圖片來源：[詳情](/zh/licenses#lekt6004)）
 :::
-Hierher gehören:
+以下屬於此類：
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich"
+*   ⟪प्रत्यञ्च्⟫ 3 「向後、向西」
 
-*   ⟪अन्वञ्च्⟫ 3 "folgend"
+*   ⟪अन्वञ्च्⟫ 3 「隨後」
 
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich"
+*   ⟪उदञ्च्⟫ 3 「向上、向北」
 
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren"
+*   ⟪तिर्यञ्च्⟫ 3 「水平行走（動物）」
 
-*   ⟪सम्यञ्च्⟫ 3 "richtig"
+*   ⟪सम्यञ्च्⟫ 3 「正確」
 
-*   ⟪न्यञ्च्⟫ 3 "niedrig"
+*   ⟪न्यञ्च्⟫ 3 「低下」
 
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend"
+*   ⟪विष्वञ्च्⟫ 3 「向四面八方行走」
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+
+### 60.5.2. 以 -añc 為詞幹的雙詞幹詞
 
 ::: grammar-box
-**Bildung:**
+**構詞：**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
+*   **強式詞幹：-añc**
+*   **弱式詞幹（在輔音或元音前）：-ac**
 :::
-Hierher gehören:
+以下屬於此類：
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich"
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet"
+*   ⟪प्राञ्च्⟫ 3 「向前、向東」
+*   ⟪अवाञ्च्⟫ 3 「向下」
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben!
+⟪प्राञ्च्⟫ 的變格參見上文！
 
-Die Haupthimmelsrichtungen
+主要方位
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟫ 3:br「向上，：br向北」 |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟫ 3:br「向後，：br向西」 | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br「向前，：br向東」 |
+|   | ⟪दक्षिण⟫ 3:br「向右，：br向南」 |   |
 
-(Bildquelle: [Details](/licenses#lekt6005))
+（圖片來源：[詳情](/zh/licenses#lekt6005)）
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. 欲求式（⟪सन्⟫）
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.**
+**每個詞根以及使動式都可以構成欲求式（⟪सन्⟫）。欲求式可以在主動、中動和被動的所有時態和語氣中變位。但欲求式形式若出現在現在詞幹之外，則非常罕見。**
 
-**Bedeutung:**
+**意義：**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird**
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird**
+*   **某人或某物希望做或經歷由詞根或使動式所表達的動作**
+*   **較少見：某人或某物即將做由詞根或使動式所表達的動作**
 :::
-####  Beispiele:
+#### 範例：
 
-| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
+| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ 「他希望去做」 |
 | --- | --- |
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
-| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ 「他正準備要跌倒」 |
+| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ 「他希望去偷竊」 |
+| ⟪बुध्⟫ 使動式 | ⟪बुबोधयिषति⟫ 「他希望去教導（喚醒覺知）」 |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. 欲求詞幹的構成
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:**
+**第一至第九現在詞類之詞根：**
 
-**reduplizierte Wurzel + sa**
+**重音詞根 + sa**
 
-**oder:**
+**或者：**
 
-**reduplizierte Wurzel + i + ṣa**
+**重音詞根 + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445.
+關於連接元音 -i- 的使用規則，請參見 Kielhorn《梵語文法》§ 443 - 445。
 
-**Wurzeln der 10. Präsensklasse und Kausative:**
+**第十現在詞類與使動式之詞根：**
 
-**reduplizierter Präsensstamm + i + ṣa**
+**重音現在詞幹 + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:**
+**詞根的形態：**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
+1.  詞根通常為弱級： ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
-        ⟪जि⟫ » ⟪जि⟫***:sig[⟪गी⟫]***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "zu laufen wünschen"  
+1.  若無連接元音接續，詞尾的 -i、-u 將分別替換為 -ī 或 -ū：  
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- 「他希望獲勝」  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- 「他希望奔跑」  
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
-        ⟪कृ⟫ » ⟪चि⟫***:sig[⟪कीर्ष⟫]***\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫***:sig[⟪मूर्ष⟫]***\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "zu füllen wünschen"  
+2.  若無連接元音接續，詞尾的 -ṛ、-ṝ 將分別替換為 -īr，而在唇音後則替換為 -ūr：  
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- 「他希望去做」  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- 「他正準備要死亡」  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- 「他希望去填滿」  
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
-        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
-        ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-  
+3.  ⟪दा⟫、⟪धा⟫、⟪मा⟫ 以及一些以 -ā、-e、-o 結尾的其他詞根具有弱級 Ø：  
+⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
+⟪धा⟫ » ⟪धित्स⟫-  
+⟪मा⟫ » ⟪मित्स⟫-  
 
-2.  Hochstufige Wurzel haben im Desiderativ: 
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):  
-        ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"  
+2.  強級詞根在欲求式中具有： 
+1.  大多數以 -ā（-e、-ai 等）結尾的詞根：  
+⟪गै⟫ » ⟪जिगास⟫- 「他希望去歌唱」  
+⟪पा⟫ » ⟪पिपास⟫- 「他希望去飲水，渴望」
 
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:  
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"  
+2. 大多數形式為（輔音 -）a / ā - 輔音的詞根：  
+⟪दह्⟫ » ⟪दिधक्ष⟫- 「想要燃燒」  
+⟪खाद्⟫ » ⟪चिखादिष⟫- 「想要咀嚼」  
 
-    3.  bei Antreten des Bindevokals -i-: 
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:  
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫***:sig[⟪स्म⟫]***⟪यिष⟫- "zu lächeln wünschen"  
+3. 當連接元音 -i- 出現時： 
+1. 強制性：形式為 i/u - 輔音以及（輔音 -）ṛ/ḷ - 輔音的詞根：  
+⟪इष्⟫ » ⟪एषिषिष⟫- 「想要要求」  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- 「想要合適」  
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟩]⟪यिष⟫- 「想要微笑」  
 
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_  
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
+2. 可選：形式為輔音 -（輔音 -）i/u - 輔音的詞根，除了 -v\_  
+⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- 「想要閃爍」
 :::
 ::: grammar-box
-**Zur Reduplikation:**
+**關於重疊：**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:  
-:::
-::: indent
-⟪पा⟫ » ⟪पिपास⟫-
-⟪त्यज्⟫ » ⟪तित्यज⟫-
-⟪चुर्⟫ » ⟪चुचोरयिष⟫-
-Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
+1. 以輔音開頭的詞根：根據上述規則修改後的詞根，按照通常的重疊規則進行重疊。作為重疊元音的 a 改為 i：  
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+如果詞尾的 -s 因後面的 s（Desiderativsuffix）而腭化，則不會發生由 i/u 引起的詞尾 -s 的腭化：  
 ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
-:::
 
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:  
-::: indent
-⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
-⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
+2. 以元音開頭的詞根根據重疊式不定過去時（[第56課](lektion56.md)）的相應規則進行重疊：  
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
 ⟪ऋ⟫ » ⟪अरिरिष⟫-  
-:::
 
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
-::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
+3. 某些詞根的特別願望式構詞，請參見 Kielhorn，《語法》§ 451。
 :::
-Liste bei Kielhorn, Grammatik § 452:
+::: grammar-box
+**某些詞根會形成不具有希求意義的欲求式。在這些具有非希求意義的欲求式基礎上，可以進一步形成具有希求意義的欲求式。**
+:::
+參見 Kielhorn《梵語文法》§ 452：
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006))
+（圖片來源：[詳情](/zh/licenses#lekt6006)）
 :::
-### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
+### 60.6.2. 欲求式的變位（⟪सन्⟫）
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
+**欲求式——除少數例外外——根據其基礎詞根（或基礎動詞詞幹）屬於 P、Ā 還是 U，分別採用 P、Ā 或 U 的變位規則。**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:**
+**現在時詞幹：像主題詞幹一樣進行變位：**
 
-⟪यज्⟫ 1U:
+⟪यज्⟫ 第一類（U）：
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
-Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
+P：⟪यियक्षति⟫ 「他希望為他人進行祭祀」
+Ā：⟪यियक्षते⟫ 「他希望為自身（作為祭主）進行祭祀」
+被動：⟪यियक्ष्यते⟫ 「希望進行祭祀」
 :::
-**Perfekt: periphrastisch:**
+**完成時：分析式構成：**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ 「他希望獲得」
 :::
-**Aorist: iṣ-Aorist:**
+**未完成過去時：iṣ-未完成過去時：**
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫**
+**未來時：⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
+關於從欲求式詞幹構成後綴為 -u 的施事名詞，請參見[第54課](lektion54.md)。
 
-## 60.7. 练习
+## 60.7. 練習
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben:
+A) 在 Kielhorn《梵語文法》§ 451 中，學習迄今所學動詞的不規則欲求式構成：
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007))
+（圖片來源：[詳情](/zh/licenses#lekt6007)）
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008))
+（圖片來源：[詳情](/zh/licenses#lekt6008)）
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009))
+（圖片來源：[詳情](/zh/licenses#lekt6009)）
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
+B) 請在不借助任何工具的情況下，判定並翻譯以下詞形：
 
 1.  ⟪ददुषोः⟫
 

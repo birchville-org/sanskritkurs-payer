@@ -95,7 +95,6 @@ As construções passivas em sânscrito são extremamente comuns: a passiva é, 
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Sobre o uso do Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -105,13 +104,11 @@ As construções passivas em sânscrito são extremamente comuns: a passiva é, 
 - **Com quem?**
 
 **Ele é usado**
-1. **em frases passivas: Agente (kartṛ) no Instrumental**
-2. **para indicar o meio ou instrumento com o qual algo é realizado**
-3. **para indicar o caminho pelo qual alguém chega a algum lugar**
-4. **para expressar conexão, união, acompanhamento de**
-5. **com posposições no sentido de "junto com, com"; por ex. saha = ⟪सह⟫ = "com"**
-por ex.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "juntamente com o brâmane"
+1. **para indicar o meio ou instrumento com o qual algo é realizado**
+2. **para indicar o caminho pelo qual alguém chega a algum lugar**
+3. **para expressar conexão, união, acompanhamento de**
+4. **com posposições no sentido de "junto com, com"; por ex. saha = ⟪सह⟫ = "com"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "juntamente com o brâmane"
 :::
 Outros usos do Instrumental (tṛtīyā) serão abordados mais tarde.
 
@@ -162,24 +159,17 @@ p. ex.
 ### 10.4.1. Regras especiais para a formação do passivo
 
 1. **Raízes terminadas em -i ou -u** alongam a sua vogal antes do sufixo passivo **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Raízes com -a- entre consoantes** (exceto nasais, y, r, v) permanecem no grau forte:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Algumas raízes formam seu passivo no grau forte** (ou no grau de ablaute do tema do presente):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Grau zero de verbos que começam com ya, va, ra, ou nos quais esses sons aparecem após outra consoante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ p. ex.
 A designação nativa tradicional para esta formação do grau zero em verbos com **ya** ou **va** é **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. O **-ṛ** final após uma única consoante é substituído por **-ri-** antes do sufixo passivo **-ya-**:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Mas: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Mas: **smṛ** 1 P: **smaryate**
 
 6. **Algumas raízes em -an têm alternativamente duas formações de tema passivo:**
    * uma **-an-ya**
    * uma **-ā-ya-** (o **ā** longo é um representante de uma nasal longa hipotética)
 
 p. ex. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Lista de palavras
 
@@ -236,11 +222,13 @@ p. ex. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : má ação, mal (oposto de **puṇya**)
 - **satya** n. ⟪सत्य⟫ : verdade
 
-::: note-box
+:::: note-box
 Na Índia, atribuía-se poder mágico à palavra verdadeira; de fato, toda a ordem do mundo é mantida e criada pela palavra verdadeira. Para esta importante concepção, veja a obra fundamental:
 
+::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editado postumamente por Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e o Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

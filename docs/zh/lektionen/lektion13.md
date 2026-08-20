@@ -1,335 +1,294 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "第13課"
+subtitle: "na- 詞幹的過去被動分詞"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第13課
 
-## 13.1. PPP auf -na-
 
-Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch:
+## 13.1. PPP於-na-
+
+對於PPP以-ta-或-na-結尾的分佈，無法制定固定的規則。然而：
 
 ::: grammar-box
 
-Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durch -n-n- ersetzt, was sonst im Wortsandhi nicht geschieht, sondern eine Nachahmung des Satzsandhi ist.
+幾乎所有以-d結尾的詞根都形成以-na-結尾的PPP。在這種情況下，-d-n-被替換為-n-n-，這在其他詞中不會發生，而是對句法連音的模仿。
 
-Beispiel:
+例如：
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Weiteres zum Gebrauch des PPP
+## 13.2. PPP用法的進一步說明
 
 ::: grammar-box
 
-**1. Das PPP zu Verben der Bedeutung "denken", "wünschen", "kennen", "wissen", "verehren" sowie einiger weiterer Verben, die im Dhātupāṭha, dem Wurzelverzeichnis zu Pāṇini, durch ñi gekennzeichnet sind, hat nicht nur Vergangenheitsbedeutung, sondern kann auch in präsentischer Bedeutung verwendet werden:**
-z.B.
+**1. 表示「思考」、「渴望」、「知道」、「了解」、「崇拜」等意義的動詞，以及《達圖帕塔》（Dhātupāṭha）中由ñi標記的其他一些動詞的PPP，不僅具有過去時意義，還可以用現在時的意義使用：**
+例如：
 :::
 ::: indent
-:::
-::: indent
-⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart)
+⟪इष्ट⟫ 「被渴望」（即不僅在過去被渴望，而且在現在也被渴望）
+⟪त्वरित⟫ 「匆忙、急迫」（PPP來自tvar 1 Ā「奔跑」；《達圖帕塔》：ñitvárā）
 :::
 
+**2. PPP可以作為形容詞使用：**
+例如：
 ::: indent
-⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā)
-:::
-::: indent
-:::
-::: indent
-⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)"
+⟪इष्टं फलम्⟫ 「被渴望的果實（例如行為的結果）」
 :::
 
-Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
-z.B.
+如果在此情況下⟪अपि⟫位於PPP之後，則⟪अपि⟫具有「雖然」的意義：
+例如：
 ::: indent
-:::
-::: indent
-⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht."
+⟪इष्टमपि फलं न लभते⟫ = 「雖然他渴望果實，但他無法獲得它。」
 :::
 
+**3. 任何動詞的PPP的中性單數形式也可以用作名詞：**
+例如：
 ::: indent
-⟪गत⟫ n.: "das Gehen, der Gang"
-:::
-::: indent
-:::
-::: indent
-⟪नृत्त⟫ n.: "das Tanzen, der Tanz"
+⟪गत⟫ n.: 「行走、步伐」
+⟪नृत्त⟫ n.: 「跳舞、舞蹈」
 :::
 
-## 13.3. 名词的定语（词序）
+## 13.3. 名詞的屬格修飾語（詞序）
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein:
+在散文裡，修飾語（附加成分）通常位於其所修飾的名詞之前。形容詞性的修飾語必須與名詞在數、格和性上保持一致：
 
-Beispiel:
-
-:::
-::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)."
-:::
-
-## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
-
-::: grammar-box
-
-Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend".
-
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
-
-Beispiele:
+範例：
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "Vieh besitzend"
-
-⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend"
+⟪साधुरिष्टं फलं पश्यति⟫ = 「一位聖者看見他所期望的果報（他行為的結果）。」
 :::
 
-## 13.5. 名词的词干交替
-
-Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung.
+## 13.4. -mant 與 -vant 結尾形容詞的構成（taddhita）
 
 ::: grammar-box
-Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
-:::
-**Starke Kasus sind:**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+透過 taddhita 後綴 -mant 或 -vant，可以由名詞構成表示「擁有」的形容詞。其意義為：「擁有由底層名詞所指稱之物」。
+
+vant 附加於最後一個或倒數第二個音素為 a、ā 或 m 的名詞，以及以塞音結尾的名詞；其他名詞則通常附加 -mant。
+
+範例：
+
+:::
+::: indent
+⟪पशुमन्त्⟫ 「擁有牲畜」
+
+⟪गुणवन्त्⟫ 「擁有良好特質／美德」
+:::
+
+>> ## 13.5. 名詞詞幹的強弱變化（詞幹階級變化）
+
+以 -mant 或 -vant 結尾的詞幹屬於具有強弱變化的名詞詞幹。
+
+::: grammar-box
+>> 對於具有強弱變化的名詞詞幹，需區分強格（強格）與弱格（弱格）。在強格中，構成詞幹的後綴——對於根名詞則是具詞根性質的部分——呈現強階（高階）或長音階（長音階）；在弱格中則呈現弱階（低階）。
+:::
+**強格包括：**
+
+| | 單數：br⟪एकवचन⟫ | 雙數：br⟪द्विवचन⟫ | 複數：br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **陽性與陰性名詞**：br⟪पुंस्⟫, ⟪स्त्री⟫ | 主格：br⟪प्रथमा⟫:br業格：br⟪द्वितीया⟫:br呼格：br⟪सम्बोधनप्रथमा⟫ | 主格：br⟪प्रथमा⟫:br業格：br⟪द्वितीया⟫:br呼格：br⟪सम्बोधनप्रथमा⟫ | 主格：br⟪प्रथमा⟫:br:br呼格：br⟪सम्बोधनप्रथमा⟫ |
+| **中性名詞**：br⟪नपुंसक⟫ | — | — | 主格：br⟪प्रथमा⟫:br業格：br⟪द्वितीया⟫:br呼格：br⟪सम्बोधनप्रथमा⟫ |
 
-**Alle übrigen Kasus sind schwach.**
-
-::: grammar-box
-Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
-:::
-
-## 13.6. Zum Wortsandhi
-
-Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -vant sind folgende Gesetze des Wortsandhi nötig:
+**所有其他格都是弱变化。**
 
 ::: grammar-box
-1. Anzahl der auslautenden Konsonanten eines Wortes: Von zwei oder mehr Konsonanten, auf die ein Wort schließen würde, bleibt nur der erste Konsonant erhalten, die übrigen fallen ab. Erlaubt ist die Verbindung -r- + Konsonant.
-
-2. Stimmloser Verschlusslaut wird vor stimmhaftem Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt:
+作为复合词的前半部分，名词以弱干（对于三干名词而言是所谓的中间干）形式出现，并带有词干交替。
 :::
-    Beispiele:
+
+>> ## 13.6. 关于词连音（詞連音）
+
+为了理解以 -mant 和 -vant 结尾的名词变位中各个形式的含义，需要以下关于词连音的规则：
+
+::: grammar-box
+1. 词尾辅音的数量：如果一个词以两个或更多辅音结尾，则只保留第一个辅音，其余的脱落。允许 -r- + 辅音的组合。
+
+2. 清塞音在浊塞音（非鼻音）前变为相应的浊塞音：
+:::
+示例：
 ::: indent
-    -t + bh- » -d-bh- ⟪द्भ्⟫
+t + bh- » -d-bh- ⟪द्भ्⟫
 
-    -k + bh- » -g-bh- ⟪ग्भ्⟫
+k + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + bh- » -g-bh- ⟪ग्भ्⟫
+c + bh- » -g-bh- ⟪ग्भ्⟫
 
-    -c + dh- » -g-dh- ⟪ग्ध्⟫
+c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. 辅音干的名词格尾
 
 ::: grammar-box
 
-Bei konsonantisch auslautenden Stämmen:
-* ist die Endung des Akkusativ (dvitīyā) Plural Maskulinum und Femininum -as.
-* ist bei regelmäßig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
-* ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
+对于以辅音结尾的干：
+* 阳性与阴性复数宾格（第二格）词尾为 -as。
+* 对于规则变化的干，中性单数主格（第一格）和宾格（第二格）无词尾。
+* 对于规则变化的干，中性复数主格和宾格的词尾为 -i。
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. -mant 和 -vant 干的变位
 
 ::: grammar-box
 
-* starker Stamm: Nomen + -mant- / -vant-
-* schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
+* 强干：名词 + -mant- / -vant-
+* 弱干：名词 + -mat- / -vat-（源自 *-mnt- / *-vnt-）
 
-| | | Maskulinum || Neutrum ||
+| | | 阳性 || 中性 ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| 单数：br⟪एकवचन⟫ | 主格：br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | 宾格：br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | 工具格：br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| 复数：br⟪बहुवचन⟫ | 主格：br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | 宾格：br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | 工具格：br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Femininum:
+陰性：
 
-Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-ī. Die Deklination geht wie bei devī, d.h. es gibt keine Stammabstufung.
+以-mant-和-vant-結尾的名詞，其陰性詞幹分別為-mat-ī和-vat-ī。其變格方式與devī相同，即不存在詞幹元音交替（ablaut）。
 
-Beispiel:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+範例：
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. 词汇表
+## 13.9. 詞彙表
 
-Lernen Sie folgende Wörter:
+請學習以下單字：
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
+**eva** ⟪एव⟫：強調其前的詞語
+**asura** m. ⟪असुर⟫：惡魔
 
-> **ASURA.** 'Spiritual, divine.'
->**ASURA.** 'Spiritual, divine.'
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> **ASURA。**「靈性的、神聖的。」
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> 在《梨俱吠陀》最古老的篇章中，此術語用於指稱至高精神，與祆教（Zoroastrianism）信仰中的Ahura相同。在「神」的意義上，它被應用於幾位主要的神祇，如因陀羅（Indra）、阿耆尼（Agni）和伐樓拿（Varuṇa）。後來，它獲得了完全相反的意義，並開始指稱惡魔或神的敵人。
 >
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> 此詞在《梨俱吠陀》較晚期的篇章中，特別是在最後一卷中，以及在《阿闥婆吠陀》中，便以這種意義出現。《梵書》（Brāhmaṇas）賦予它相同的意義，並記錄了阿修羅與神祇之間許多爭戰。根據《泰帝利耶梵書》（Taittirīya Brāhmaṇa），梵天的氣息（*asu*）獲得了生命，「憑藉那口氣，他創造了我們這些阿修羅。」在同一著作的另一部分中，據說梵天「懷孕了。他從自己的腹部創造了阿修羅。」《百道梵書》（Śatapatha Brāhmaṇa）與前者的說法一致，並指出「他從自己的下呼吸創造了阿修羅。」《泰帝利耶森林書》（Taittirīya Āraṇyaka）記載，梵天從水中創造了神祇、人類、祖先、乾闥婆（Gandharvas）和天女（Apsarases），而阿修羅、夜叉（Rakṣasas）和食人鬼（piśācas）則源自灑出的水滴。摩奴的說法是，他們是由梵天眾（Prajāpatis）所創造。
+>
+> 根據《毗濕奴往世書》（Viṣṇu Purāṇa），他們是由梵天（prajāpati）的腹股溝所產生。《風神往世書》（Vāyu Purāṇa）的記載是：「阿修羅最初作為他的（梵天的）腹股溝之子被創造出來。*Asu* 被《梵書》宣稱為意指氣息。這些存在者由此產生；因此他們是阿修羅。」此詞長期以來被用作神祇敵人的總稱，包括提耶（Daityas）和達那婆（Danavas）以及迦葉波的其他後裔，但不包括源自 Pulastya 的夜叉。
+>
+> 在此意義下，人們為其找到了不同的詞源：來源不再是 asu（「氣息」），而是將初始的 *a* 視為否定前綴，因此 *asura* 意指「非神」；據此，根據某些學者的說法，產生了 *sura* 一詞，通常用於指稱「神」。」
+>
+> [來源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+圖：⟪महिषासुरः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1301)）
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ ：線、繩；性質、優良的品質
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ ：走、進入
+**as** 2 P (asti) ⟪अस् अस्ति⟫ ：存在、在場
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ ：投擲、（丟）扔
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ ：走
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ ：保護、守護
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ ：喝（傳統上歸類為第一類）
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ ：憎恨、敵視
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ ：吃、消耗
+**anna** n. ⟪अन्न⟫ ：食物（源自 PPP：*ad-na: 被吃之物）
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+圖：⟪अन्नम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt1304)）
 :::
-pad 4 Ā:
+構詞法：
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
+**pada** n. ⟪पद⟫ ：步伐、立足點、地點
 
-**pāda** m. ⟪पाद⟫ : Fuß, ein Viertel, Verszeile
+**pāda** m. ⟪पाद⟫ ：腳、四分之一、詩句
 :::
 
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+圖：⟪चत्वारः पादाः⟫ ：⟪गजः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1303)）
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Hass
+**dveṣa** ⟪द्वेष⟫ ：憎恨
 :::
 
-## 13.10. 练习
+## 第13.10節。練習
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
+A) 翻譯並轉換為主動現在時句：
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
+⟪१⟫。⟪अग्निना गृहं दग्धम् । २⟫。⟪बुद्धेन सत्यं बुद्धम् । ३⟫。⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
 ![](/images/lekt1305.webp)
-Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Bildquelle: [Details](/licenses#lekt1305))
+圖：⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1305)）
 :::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
+⟪४⟫。⟪शूद्रा मूढाः ।⟫（兩種可能）
+⟪५⟫。⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫。⟪रामेण पुण्यं कृतम् । ७⟫。⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫。⟪धर्मेण स्वर्गं नीतम् । ९⟫。⟪साधुनाधर्मो न कृतम् । १०⟫。⟪मन्त्रेण मोक्षो लब्धः । ११⟫。⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit:
+B) 請翻譯並轉換為過去被動句：
 
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
+⟪१⟫。⟪राम इष्टमपि मोक्षं न लभते । २⟫。⟪योद्धा न मुञ्चति । ३⟫。⟪साधवो देवान्स्मरन्ति । ४⟫。⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫。⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫。⟪पुत्रवान्नरकं न गच्छति । ७⟫。⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫。⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫。⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫。⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫。⟪कयर्ग्वेदं शृण्वन्ति । १२⟫。⟪किमीश्वरः सृजति । १३⟫。⟪साधुः कृतं पापं सहते । १४⟫。⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫。⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫。⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
 
-## 13.11. Wiederholungsübung
 
-A) Übersetzen Sie folgende Sätze:
+## 第13.11節：複習練習
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
+A) 請翻譯以下句子：
 
-B) Setzen Sie die Sätze Übung A) ins Passiv.
+⟪१⟫。⟪रामो मार्गेण ग्रामं गच्छति । २⟫。⟪नरा धनेन सुखमिच्छन्ति । ३⟫。⟪नरः पुत्रेण नगरं पद्यते । ४⟫。⟪देवो लोकान्सृजति । ५⟫。⟪बाला जलं पिबति । ६⟫。⟪कवयो धनं लुभ्यन्ति । ७⟫。⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫。⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫。⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫。⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫。⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫。⟪इमाः साध्व्यः पापं सहन्ते । १३⟫。⟪कां देवतामृषिः पश्यति । १४⟫。⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
+B) 將練習 A) 的句子改為被動語態。
+
+C) 為練習 A) 的句子構建 PPP（過去分詞）結構。
 
 ::: media
 ![](/images/lekt1302.webp)
-Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Bildquelle: [Details](/licenses#lekt1302))
+圖：⟪सत्यमेव जयते⟫
+（圖片來源：[詳情](/zh/licenses#lekt1302)）
 :::
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+D) 以下桑迪（Sandhi）形式可能源自哪些音連？請列出所有可能性：
 
-1. -ṇḍ(h)-
-2. -o-
-3. -ṣṭ-
-4. -st(h)-
-5. -ai-
-6. -au-
-7. -mst-
-8. -ṃśc-
-9. -ṃṣṭ-
-10. -ñj-
-11. -ñś-
-12. -o vor stimmhaften Konsonanten
-13. -ar-
-14. -ñch-
-15. -ṇḍ(h)-
-16. -ṣṭ-
-17. -st(h)-
-18. -mst-
-19. -ṃśc-
-20. -ṃṣṭ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten
-22. -īr vor Vokal oder stimmhaftem Konsonanten
-23. -ur vor Vokal oder stimmhaftem Konsonanten
-24. -ūr vor Vokal oder stimmhaftem Konsonanten
-25. -er vor Vokal oder stimmhaftem Konsonanten
-26. -or vor Vokal oder stimmhaftem Konsonanten
-27. -air vor Vokal oder stimmhaftem Konsonanten
-28. -aur vor Vokal oder stimmhaftem Konsonanten
+1. -a 在元音前（除 a- 外）
+2. -ā-
+3. -ā 在元音前
+4. -ā 在不送氣濁輔音前
+5. -ī-
+6. -ū-
+7. -ṝ-
+8. -e-
+9. -e 在阿瓦格拉哈（Avagraha）前
+10. -o-
+11. -o 在阿瓦格拉哈（Avagraha）前
+12. -o 在不送氣濁輔音前
+13. -ai-
+14. -au-
+15. -y 在元音前
+16. -v 在元音前
+17. -r 在元音前
+18. -ay 在元音前
+19. -av 在元音前
+20. -ar-
+21. -ir 在元音或不送氣濁輔音前
+22. -īr 在元音或不送氣濁輔音前
+23. -ur 在元音或不送氣濁輔音前
+24. -ūr 在元音或不送氣濁輔音前
+25. -er 在元音或不送氣濁輔音前
+26. -or 在元音或不送氣濁輔音前
+27. -air 在元音或不送氣濁輔音前
+28. -aur 在元音或不送氣濁輔音前
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -337,21 +296,21 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. -mst-
+36. 鼻音化元音（Anusvāra）在輔音前
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
-E) Übersetzen Sie ins Sanskrit:
+E) 翻譯成梵文：
 
-1. -mst-
-2. Śūdras sind in einen Himmel gelangt.
-3. Die Göttin war erzürnt.
-4. Durch die Buddhalehre wurden die Leute befreit.
-5. Der Sohn tanzte.
-6. Das Amulett hat den Lehrer beschützt.
-7. Ein Brahmane hat keine Unwahrheit gesagt.
-8. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-9. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt.
-10. Die vedischen Weisen haben die Śruti gehört.
-11. Die Opferpriester haben den Soma gepresst.
+1. 女神感到憤怒。
+2. 首陀羅人進入了一個天堂。
+3. 農民們走了路。
+4. 人們通過佛陀的教法獲得了解脫。
+5. 兒子跳舞了。
+6. 護身符保護了老師。
+7. 一位婆羅門沒有說謊。
+8. 首陀羅婦女用供品崇拜女神。
+9. 佛陀覺悟了真理 = 佛陀認識到了真理。
+10. 吠賢哲們聆聽了《奧義書》（Śruti）。
+11. 祭師們壓榨了蘇摩酒。

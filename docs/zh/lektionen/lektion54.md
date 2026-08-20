@@ -1,74 +1,74 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "第54課"
+subtitle: "前言"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第54課
 
-## 54.1. Vorbemerkung
+## 54.1. 前言
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+隨著第54課的開始，大學課程進入第二學期。從現在起，本課程僅作為本學期的主要主題：閱讀整部《薄伽梵歌》的輔助內容進行。學習目標是達到對中等難度文本閱讀的高度熟練，以便在學期的最後三分之一階段能夠即興翻譯《薄伽梵歌》的大部分内容。在大學課程的初期，還會發放詞彙表；後來則要求學生自行使用相應的字典（Monier-Williams、Apte、PW）。
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
+《薄伽梵歌》課程暫時不會線上提供。
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
+本梵語課程的課文涵蓋了此前尚未講授的梵語語法主題。
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. 構詞：⟪कृत्⟫後綴 -u 附於欲求詞幹
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**在欲求詞幹（⟪इच्छाप्रकृति⟫）（意為「想要做某事」；「即將做某事」）後，為了構成施事名詞，會加上後綴 -u。**
 
-(Bildung der Desiderativstämme folgt später)
+（欲求詞幹的構成將稍後講解）
 
-Beispiel:
+範例：
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) 「好戰的，即將戰鬥」
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402))
+圖：⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+（圖片來源：[詳情](/zh/licenses#lekt5402)）
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 54.3. 韻律學 II：史詩中的 ⟪त्रिष्टुभ्⟫ 與 ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+⟪त्रिष्टुभ्⟫（「三拍節」）出現在史詩中，位於通常的 ⟪श्लोक⟫ 段落之間，特別是在情緒或情節達到特殊高潮或結束之處。
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
+⟪त्रिष्टुभ्⟫-韻由四個十一音節的⟪पाद⟫組成，它們在結構上彼此沒有區別。
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
+⟪त्रिष्टुभ्⟫有兩種基本模式，取決於韻腳（詞尾、構詞界限或特定後綴如-tara, -tama等之前）位於⟪पाद⟫的第4音節或第5音節之後。
 
-Schema I:
+模式一：
 
 :::
 ::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
-Schema II:
+模式二：
 
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+因此，兩種模式中最後四個音節的數量是相同的。
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+⟪जगती⟫基本形式：與⟪त्रिष्टुभ्⟫相同，但為十二音節。每個Pada的最後五個音節具有以下數量：
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
+此外，還有所謂的典型多餘⟪त्रिष्टुभ्⟫，其起始部分為五音節，後續行為如同具有四音節起始部分的⟪त्रिष्टुभ्⟫：
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+在後期，⟪त्रिष्टुभ्⟫的形式根據長短音的嚴格模式確定，韻腳不再起重要作用。最重要的後期形式是：
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -83,155 +83,157 @@ b) ⟪उपेन्द्रवज्रा⟫
 c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
+⟪पाद⟫與⟪इन्द्रवज्रा⟫混合，以及⟪पाद⟫與⟪उपेन्द्रवज्रा⟫混合，形成一種韻。
 :::
 ::: grammar-box
-**Merkverse:**
+**記憶詩句：**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"如果所有Pada中的音節都是ta ta ja ga ga，那麼它就是Indravājrā。
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
+「一種 Upendravajrā 類似於 Indravajrā，其開頭僅有一個輕音節。」
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
+「若一偈中包含具有 Indravajrā 或 Upendravajrā 特徵的兩個 Pāda，則稱為 Upajāti。即使一偈中混合了其他韻律，也稱之為 Upajāti。」
 :::
-## 54.4. 练习 zur Metrik
+## 54.4. 韻律練習
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+請在《薄伽梵歌》（Bhagavadgītā）第二篇中找出 Triṣṭubhs 和 Jagatīs。
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
+誦讀範例：[http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3)。—— 檢索日期：2009-01-28
 
-## 54.5. 不定过去时（⟪लुङ्⟫）的构成类型
+## 54.5. Aorist（⟪लुङ्⟫）的構詞類型
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**所有 Aorist（⟪लुङ्⟫）構詞類型共同的特徵是：前綴 a-（Augment），其添加規則與過去未完成時（⟪लङ्⟫）相同。**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
+在梵語中，Aorist 僅常用於直陳式（Indikativ）和祈願式（Prekativ）。
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**Aorist（⟪लुङ्⟫）存在以下構詞類型：**
 
-1.  Nichtsibilantische (asigmatische) Aoriste: 
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung 
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung 
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
+1. 非擦音（asigmatische）Aorist：
+*   54.1. 詞根 Aorist：Augment + 詞根 + 次要詞尾
+*   54.2. 主題元音 Aorist：Augment + 詞根 + **a** + 次要詞尾
+*   54.3. 重疊 Aorist：Augment + **重疊的**詞根 + **a** + 次要詞尾
+2. 擦音（sigmatische Aorist：s 或包含 s (ṣ) 的音節）Aorist：在個人詞尾前出現 s
+*   54.4. -s-Aorist：Augment + 詞根 + **s** \+ 次要詞尾
+*   54.5. -iṣ-Aorist：Augment + 詞根 + **i** + **ṣ** + 次要詞尾
+*   54.6. -siṣ-Aorist：Augment + 詞根 + **siṣ** + 次要詞尾
+*   54.7. -sa-Aorist：Augment + 詞根 + **s** + **a** + 次要詞尾
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
+詞根在各類構型中的分佈，請參見各類型
 :::
-## 54.6. Wurzelaorist
+## 54.6. 根過去時
 
 ::: grammar-box
-**Bildung:**
+**構型：**
 
-**Augment + Wurzel + Sekundärendung**
+**增強音 + 詞根 + 次要後綴**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+第三人稱複數後綴為 -ur。中動語態不常用。
 
-Beispiel:
+範例：
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 第一人稱 "飲"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (弱級！) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+僅有12個詞根構成根過去時：
 
-1.  ⟪गा⟫ 3 "gehen"
-2.  ⟪घ्रा⟫ 1P "riechen"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben"
-5.  ⟪दो⟫  1, 4 "schneiden"
-6.  ⟪धा⟫ 3U "setzen"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken"
-9.  ⟪शो⟫ 4P "schärfen"
-10.  ⟪सो⟫ "beendigen"
-11.  ⟪स्था⟫ 1P "stehen"
-12.  ⟪भू⟫ 1P "sein
+1.  ⟪गा⟫ 第三類 "去"
+2.  ⟪घ्रा⟫ 第一類 "聞"
+3.  ⟪छो⟫ 第六類 "切" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 第三類U "給"
+5.  ⟪दो⟫  第一類、第四類 "切"
+6.  ⟪धा⟫ 第三類U "放置"
+7.  ⟪धे⟫ 第一類 "吸" (⟪अधात्⟫)
+8.  ⟪पा⟫ 第一類 "飲"
+9.  ⟪शो⟫ 第四類P "磨"
+10. ⟪सो⟫ "終止"
+11. ⟪स्था⟫ 第一類 "站立"
+12. ⟪भू⟫ 第一類 "存在"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
+對於 ⟪भू⟫ 第一類，根過去時構型如下：
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *:sig[⟪अभूवन्⟫]* (!!!) |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.被动语态
+### 54.6.1. 第三人稱單數被動過去時
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
+根過去時的特殊形式是第三人稱單數被動過去時。此形式可由所有詞根構成。
 
 ::: grammar-box
-**Bildung:**
+**構型：**
 
-**Augment + Wurzel + i**
+**增強音 + 詞根 + i**
 
-**Die Wurzel hat folgende Gestalt:**
+**詞根呈現以下形態：**
 
-Hochstufe:
+強級：
 
-*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
-Beispiele:  
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestoßen"
+*   短元音（除 a 外）後接單一輔音的詞根，以及 ⟪जन्⟫ 和大多數以 -am 結尾的詞根  
+範例：  
+⟪भिद्⟫ 第七類U: ⟪अभेदि⟫ "他被劈開"  
+⟪तुद्⟫ 第六類U: ⟪अतोदि⟫ "他被推"
 
-Dehnstufe:
+延長階段：
 
-*   Wurzeln mit auslautendem Vokal  
-Beispiele:  
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"  
+*   以元音結尾的詞根  
+範例：  
+⟪नी⟫ 第一類：⟪अनायि⟫ 「他被引導」  
+⟪स्तु⟫ 第二類：⟪अस्तावि⟫ 「她被讚美」  
+⟪कृ⟫ 第八類：⟪अकारि⟫ 「它被製作」  
 
-*   Wurzeln mit a vor einfachem Konsonanten (außer ⟪जन्⟫ und Wurzeln auf -am)  
-Beispiel:  
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
-aber:  
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"  
 
-*   einige Wurzeln auf -am  
-Beispiel:  
-⟪गम्⟫ ⟪अगामि⟫
+*   簡單輔音前有 a 的詞根（除 ⟪जन्⟫ 和以 -am 結尾的詞根外）  
+範例：  
+⟪वद्⟫ 第一類：⟪अवादि⟫ 「它被說出」  
+但是：  
+⟪जन्⟫ 第四類：⟪अजनि⟫ 「她被出生」  
 
-Einschub von y vor Endung:
 
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:  
-Beispiel:  
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
+*   少數以 -am 結尾的詞根  
+範例：  
+⟪गम् अगामि⟫
 
-Nasalinfix:
 
-*   einige Wurzeln haben ein Nasalinfix:  
-Beispiel:  
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
+詞尾前插入 y：
 
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
+*   以 -ā、-e、-ai、-o 結尾的詞根，在詞根的 -ā 和詞尾之間插入 y：  
+範例：  
+⟪दा⟫ 第三類：⟪अदायि⟫ 「它被給予」
+
+
+鼻音 infix：
+
+*   少數詞根具有鼻音 infix：  
+範例：  
+⟪लभ्⟫ 第一類：⟪अलम्भि⟫ 與 ⟪अलाभि⟫ 並列：「它被接收」
+
+
+（被動語態的其餘形式在未完成過去式中由中動語態形式表示）。
 :::
-## 54.7. 练习
+## 54.7. 練習
 
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
+請書面翻譯以下形式，並構建相應的未完成過去式形式：
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -253,14 +255,14 @@ Beispiel:
 18.  ⟪उद्यते⟫
 19.  ⟪स्तूयते⟫
 20.  ⟪कृष्यते⟫
-21.  ⟪जायते⟫ (Pass.)
+21.  ⟪जायते⟫ （被動）
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
-Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401))
+圖：⟪त्रिचक्रेणेश्वरः स्तूयते⟫
+泰米爾納德邦
+（圖片來源：[詳情](/zh/licenses#lekt5401)）
 :::
 

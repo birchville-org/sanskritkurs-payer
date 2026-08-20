@@ -1,75 +1,69 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: "第38課"
+subtitle: "本周解答"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第38課
 
-## 38.1. Losung der Woche
+## 38.1. 本週釋義
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren:
+⟪मनुस्मृति ४⟫.⟪३२⟫ 關於正確排尿：
 
 ::: indent
-⟪प्रत्य⟫*:sig[⟪ग्नि⟫]* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
-⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫*:sig[⟪गु⟫]* ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
 :::
-Erklärungen:
+解釋：
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ 中性，主格/賓格單數，源於 ⟪अग्नि⟫ 陽性
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
+\-⟪गु⟫ 中性，主格/賓格單數，源於 ⟪गो⟫ 陽性/陰性「牛、母牛」
 
 ::: media
 ![](/images/lekt3801.webp)
-Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Bildquelle: [Details](/licenses#lekt3801))
+圖：⟪प्रज्ञा नश्यति मेहतः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3801)）
 :::
-## 38.2. Lautwandel von Nasalen im Wort
+## 38.2. 詞中鼻音的音變
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
+詞中的鼻音會同化後續的輔音，也就是說，它們會被替換為與該輔音相應的鼻音。
 
-Nach c- und j- wird -n- durch -ñ- ersetzt.
+在 c- 和 j- 之後，-n- 會被替換為 -ñ-。
 :::
-## 38.3. Deklination der Stämme auf -n
+## 38.3. 以 -n 結尾詞幹的變格
 
-### 38.3.1. 以 -an 结尾的名词以及元音后的 -man 或 -van 结尾的名词
+### 38.3.1. 以 -an 結尾的名詞以及元音後以 -man 或 -van 結尾的名詞
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
+以 **-an** 結尾的名詞以及元音後以 **-man** 或 **-van** 結尾的名詞具有三個詞幹：
 
-| Stamm | -an | -man | -van | Verwendung |
+| 詞幹 | -an | -man | -van | 用法 |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **強詞幹** | **-ān** | **-mān** | **-vān** | 陽/陰性：主格、賓格、呼格單數:br陽/陰性：主格、賓格、呼格雙數:br陽/陰性：主格、呼格複數:br中性：主格、賓格複數 |
+| **中弱詞幹** | **-a** :br(源自 -*n) | **-ma** :br(源自 -*mn) | **-va** :br(源自 -*vn) | 其餘格位，接輔音起始的詞尾:br亦可選擇性用於陽/中/陰性：主格單數 |
+| **最弱詞幹** | **-n** | **-mn** | **-vn** | 其餘格位，接元音起始的詞尾 |
 
-**Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
+**詞尾是規則的。陽性/陰性單數主格不帶結尾 -n 構成。**
 :::
-Beispiele:
+範例：
 
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ m. 「國王」
 
-*   starker Stamm: ⟪राजान्⟫
-*   mittlerer Stamm: :sig[⟪राज⟫]
-*   schwächster Stamm: ⟪राज्ञ्⟫
+*   強詞幹： ⟪राजान्⟫
+*   中詞幹： ⟪राज⟫
+*   弱詞幹： ⟪राज्ञ् सीमन्⟫ f. 「邊界」
 
-⟪सीमन्⟫ f. "Grenze"
+*   強詞幹： ⟪सीमान्⟫
+*   中詞幹： ⟪सीम⟫
+*   弱詞幹： ⟪सीम्न् नामन्⟫ n. 「名字」
 
-*   starker Stamm: ⟪सीमान्⟫
-*   mittlerer Stamm: ⟪सीम⟫
-*   schwächster Stamm: ⟪सीम्न्⟫
-
-⟪नामन्⟫ n. "Name"
-
-*   starker Stamm: ⟪नामान्⟫
-*   mittlerer Stamm: ⟪नाम⟫
-*   schwächster Stamm: ⟪नाम्न्⟫
+*   強詞幹： ⟪नामान्⟫
+*   中詞幹： ⟪नाम⟫
+*   弱詞幹： ⟪नाम्न्⟫
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -94,34 +88,32 @@ Beispiele:
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Abb.: ⟪सीमा⟫
-(Bildquelle: [Details](/licenses#lekt3803))
+圖： ⟪सीमा⟫
+（圖片來源：[詳情](/zh/licenses#lekt3803)）
 :::
-### 38.3.2. 以辅音后的 -man 或 -van 结尾的名词
+### 38.3.2. 輔音後接以 -man 或 -van 結尾的名詞
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
-*   Schwacher Stamm:
-    *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
-    *   vor vokalisch anlautenden Endungen: **\-man, -van**
+*   強詞幹：-mān, -vān
+*   弱詞幹：
+*   在輔音起始的後綴前：-ma, -va（源自 -\*mn, -\*vn）
+*   在元音起始的後綴前：**\-man, -van**
 
-Sonst Bildung wie unter 3.1.
+其餘詞形變化同第3.1節。
 :::
-Beispiele:
+範例：
 
-⟪आत्मन्⟫ n. "Seele"
+⟪आत्मन्⟫ n. 「靈魂」
 
-*   starker Stamm: ⟪आत्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪आत्म⟫
-    *   vor Vokal: ⟪आत्मन्⟫
+*   強詞幹： ⟪आत्मान्⟫
+*   弱詞幹：
+*   輔音前： ⟪आत्म⟫
+*   元音前： ⟪आत्मन् ब्रह्मन्⟫ n.：絕對式，《吠陀》，梵天
 
-⟪ब्रह्मन्⟫ n.: Absolutes, Veda, Brahman
-
-*   starker Stamm: ⟪ब्रह्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪ब्रह्म⟫
-    *   vor Vokal: ⟪ब्रह्मन्⟫
+*   強詞幹： ⟪ब्रह्मान्⟫
+*   弱詞幹：
+*   輔音前： ⟪ब्रह्म⟫
+*   元音前： ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,18 +136,18 @@ Beispiele:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
+### 38.3.3. 以 -in、-min、-vin 結尾的陽性與中性名詞
 
 ::: grammar-box
-Diese Nomina haben **keine** Stammabstufung.
+這些名詞**沒有**詞幹元音強弱變化。
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
+主格單數陽性與呼格/賓格複數中性是類比於 -an 詞幹構成的（-i- 的長音化），以**\-i-**為詞幹且在輔音結尾前亦是如此。
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
+陰性形式以後綴 -ī 構成：例如 ⟪बलिनी⟫
 :::
-Beispiel:
+範例：
 
-⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)"
+⟪बलिन्⟫ m.n. 「強壯、有力（由特殊的 ⟪बल⟫ 所標記，擁有 ⟪बल⟫）」
 
 ::: grammar-box
 
@@ -164,426 +156,422 @@ Beispiel:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
+## 38.4. 名詞形成：⟪तद्धित⟫-後綴 -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
+使用（非常重要的！）⟪तद्धित⟫-後綴 **-in**，可從名詞構成形容詞，其意義為：
 
-**gekennzeichnet durch, besitzend**
+**具有……特徵、擁有**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+最初，使用後綴 **-⟪इन्⟫** 的構成方式與使用 **-⟪मन्त्⟫/-⟪वन्त्⟫** 的構成方式不同，後者 **-⟪इन्⟫** 表示具有某種特殊特徵，而 **-⟪मन्त्⟫/-⟪वन्त्⟫** 則表示擁有或具有某種通常、普遍的事物。
 :::
-Beispiel:
+範例：
 
-⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
+⟪हस्तिन्⟫ m.：具有特殊手部特徵者 = 大象（其手並非普通的手，而是象鼻）
 
 ::: media
 ![](/images/lekt3806.webp)
-Abb.: ⟪हस्ती⟫
-(Bildquelle: [Details](/licenses#lekt3806))
+圖：⟪हस्ती⟫
+（圖片來源：[詳情](/zh/licenses#lekt3806)）
 :::
-⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat
+⟪हस्तवन्त्⟫ ：擁有（人類）雙手者
 
 ::: media
 ![](/images/lekt3807.webp)
-Abb.: ⟪हस्तवान्⟫
-(Bildquelle: [Details](/licenses#lekt3807))
+圖：⟪हस्तवान्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3807)）
 :::
 
 ::: grammar-box
-Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet.
+以 **-⟪इन्⟫** 結尾的形容詞常被構成複合詞。
 :::
-Beispiel:
+範例：
 
-⟪सत्यवादिन्⟫ zu ⟪सत्यवाद⟫ m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht"
+⟪सत्यवादिन्⟫ 源自 ⟪सत्यवाद⟫ m. 「說真話」：「具有以說真話為特徵者 = 總是說實話的人」
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. ⟪नामन्⟫ 的句法
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man:
+要表達「名叫 N.N. 的人」，構造方式為：
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**N.N.（主格）⟪नाम⟫**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz.
+字面意思：「名字是/曾是 N.N.」。因此，這是一個插入的名詞謂語句。
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
+⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ 「從前有一位國王**名叫 Nala**，他是強大的 Vīrasena 之子。」
 :::
-Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken:
+當然，同樣的意思也可以用 ⟪बहुव्रीहि⟫ 來表達：
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
+⟪देवदत्तनामा पुरुषः⟫ 「一位名叫 Devadatta 的男子」
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist"
+⟪मदयन्तिकानाम्नी बाला⟫ 「一位名叫 Madayantika 的少女」
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Bildquelle: [Details](/licenses#lekt3808))
+圖：⟪आसीन्महात्मा गन्धी नाम⟫
+（圖片來源：[詳情](/zh/licenses#lekt3808)）
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 第38課.6. ⟪आत्मन्⟫ 的句法
 
 ::: grammar-box
-**⟪आत्मन्⟫** **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+⟪आत्मन्⟫ **陽性** 在 **單數** 中可作為反身代詞（Reflexivpronomen），用於所有三個性別、數目（包括雙數和複數）以及人稱。
 :::
-Beispiele:
+範例：
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst"
+⟪आत्मन्येषा दोषं न पश्यति ।⟫ 「她沒有看到她自己身上的任何過失」
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst"
+⟪आत्मानं स्तुवन्ति ।⟫ 「他們讚揚自己」
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) **⟪आत्मनस्⟫** kann deswegen stehen für "mein/dein/sein/... eigenes"
+因此，屬格（⟪षष्ठी⟫）⟪आत्मनस्⟫ 可以表示「我的/你的/他的……自己的」
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus."
+⟪आत्मनो गृहं प्रविशति ।⟫ 「他進入他自己的房子。」
 :::
-## 38.7. 以辅音结尾的词干作为复合词的前缀
+## 第38課.7. 以輔音結尾的詞幹作為複合詞的前成分
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
+以輔音結尾的詞幹，作為複合詞的前成分時，會採用其在屬格（⟪सप्तमी⟫）複數後綴 -su 之前的（弱式）詞幹形式。
 :::
-Beispiel:
+範例：
 
 ::: indent
-***:sig[⟪राज⟫]***⟪पुत्र⟫ "Königssohn"
+sig[⟪राज⟫]⟪पुत्र⟫ 「王子」
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
+## 第38課.8. 以 -an 結尾的詞幹作為 ⟪बहुव्रीहि⟫ 後成分
 
 ::: grammar-box
-Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
+以 -an 結尾的詞幹作為 ⟪बहुव्रीहि⟫ 後成分時，可用於所有三個性別。然而通常情況下，陰性形式是通過在陽性最弱詞幹後加上後綴 -ī 構成的。
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin"
+⟪दुर्णाम्नी⟫ 「名稱為惡者；疾病女魔」
 :::
-## 38.9. 词汇表
+## 38.9. 詞彙表
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+⟪सूर्य⟫ m.：太陽、日神蘇利耶（Sūrya）
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+圖：⟪सूर्यः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3802)）
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.：水
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+圖：⟪उदकम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3805)）
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 第二人稱 ⟪वाति⟫ ：吹拂、吹氣
 
 ::: indent
-Fut. ⟪वास्यति⟫
-Perf. IV ⟪ववौ⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
+未來時 ⟪वास्यति⟫
+完成時 IV ⟪ववौ⟫
+被動語態 ⟪वायते⟫
+使役式 ⟪वापयति⟫
+過去被動分詞 (PPP) ⟪वान । वात⟫
+不定詞 ⟪वातुम्⟫
 
-davon:
+衍生自：
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.：風
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 第二人稱 ⟪निर्वाति⟫ ：吹拂、消散、熄滅
 
 ::: indent
-davon:
+衍生自：
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.：熄滅、涅槃
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.：究竟滅盡、圓滿解脫（於佛陀或阿羅漢生命終結時）
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+圖：⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3804)）
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 第一人稱 ⟪मेहति⟫ ：小便、排尿、射精
 
 ::: indent
-Fut. ⟪मेक्ष्यति⟫
-Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
-Pass. ⟪मिह्यते⟫
-Kaus. ⟪मेहयति⟫
-PPP ⟪मीढ⟫
+未來時 ⟪मेक्ष्यति⟫
+完成時 II ⟪मिमेह⟫、⟪मिमिहुर्⟫
+被動語態 ⟪मिह्यते⟫
+使役式 ⟪मेहयति⟫
+過去被動分詞 (PPP) ⟪मीढ⟫
 
-davon:
+衍生自：
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.：雲（「排尿者」）
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.：兒子
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -:sig[⟪राज⟫] m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.：國王（關於印度的王權，參見 Basham，《奇蹟》第 82-94 頁）。作為複合詞的後成分（特別是 ⟪तत्पुरुष⟫），通常意為：-⟪राज⟫ m.（如同 ⟪देव⟫）
 
 ::: indent
-Femininum:
+陰性形式：
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ f.：王后、國王之妻
 
-von :sig[⟪राज⟫] :
+源自 ⟪राज⟫ ：
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 第三人稱：王室的；n. 王國、王權、統治
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.：名稱
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ f.：邊界
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.：自我、自身、內在本質。哲學及解脫論中：個體內的絕對者，但個體在某些情況下可能並未意識到它（馮·施滕特克龍 [v. Stietencron]）
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
+⟪ब्रह्मन्⟫ n.: 絕對，吠陀（根據 Thieme 的原始說法：表述的真理；由此衍生出 ⟪ब्राह्मण⟫「真理表述者」）
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.: 人格化的創造神梵天（Brahmā）
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+圖：⟪ब्रह्मा⟫
+（圖片來源：[詳情](/zh/licenses#lekt3809)）
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
+⟪कर्मन्⟫ n.: 參見 ⟪कृ⟫ 8U：行動，行為，作品；神聖的行為，祭祀儀式；業（Karma）：先前的行為，其果報將在未來顯現（例如在轉世中） 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: 業報（Karma-phala）= 先前存在中行為所產生的善惡後果（參見 ⟪वि⟫-⟪पच्⟫）
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: 大象（_Elephas maximus_）
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: 人類，男人；人類的父親之名（參見 ⟪मन्⟫ 4Ā）
 
 ::: indent
-davon:
+衍生自：
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: 人類
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ ：（燃燒，發光）；哀悼，悲傷
 
 ::: indent
-Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
-Fut. ⟪शोचिष्यति⟫
-Pass. ⟪शुच्यते⟫
-Kaus. ⟪शोचयति⟫
-Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+完成時 II ⟪शुशोच⟫，⟪शुशुचुर्⟫
+未來時 ⟪शोचिष्यति⟫
+被動語態 ⟪शुच्यते⟫
+使役語態 ⟪शोचयति⟫
+不定詞 ⟪शुचितुम्⟫
+絕對構詞 ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+衍生自：
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: 發光的，純淨的，清晰的
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: 哀傷，悲痛
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: 無憂的；阿育樹（Ashoka）= _Saraca asoca_ (Roxb.) Wilde；皇帝阿育王（Aśoka，⟪देवानांप्रिय प्रियदर्शी⟫）之名（約公元前 304 – 前 232 年）
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+圖：⟪अशोकवृक्षः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3810)）
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+圖：⟪अशोकसाम्राज्यम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3811)）
 :::
-## 38.10. 练习
+## 第 38.10 課練習
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) 在以下句子中填入括號內單詞的相應形式並翻譯：
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
+(⟪सप्तमी विभक्तिः⟫) ... ⟪धर्मं रक्षत्यभया जनाः ॥१॥⟫ (⟪राजन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
+⟪राज्यस्य⟫ ... (⟪सप्तमी बहुवचने⟫) ... ⟪अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥⟫ (⟪सीमन्⟫)
 
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
+⟪वैश्यानां कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
 ⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
+(⟪सप्तम्येकवचने⟫) ... ⟪अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥⟫ (⟪कर्मन्⟫)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
+⟪किम्⟫ ... ⟪किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥⟫ (⟪कर्मन्⟫)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न शोचति न लुभ्यति ॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
+(⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य सुफलमाहुः ॥९॥⟫ (⟪कर्मन्⟫)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
+⟪महीभोगस्⟫ ... (⟪शष्ठी बहुवचने⟫) ... ⟪धर्मः ॥१०॥⟫ (⟪राजन्⟫)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
+⟪राज्ञे⟫ ... ⟪दीयेरन् ॥११॥⟫ (⟪बलिन् हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
+(⟪तृतीया विभक्तिः⟫) ... ⟪लोका असृज्यन्त ॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
+(⟪तृतीया विभक्तिः⟫) ... ⟪कृतं पापं⟫... (⟪तृतीया विभक्तिः⟫) ... ⟪अकृतं पापम् ॥१३॥⟫ (⟪आत्मन्⟫)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो ऽभयं दीयते ॥१४॥⟫ (⟪राजन्⟫)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
+⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. 翻译练习词汇表
+## 38.11. 翻譯練習詞彙表
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫)
+⟪प्राय⟫ 陽性：主要事物，工具格 ⟪प्रायेण⟫ : 通常，經常（源於 ⟪प्र⟫-⟪इ⟫）
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
+⟪विनोद⟫ 陽性：消遣，娛樂，樂趣
 
 ::: media
 ![](/images/lekt3812.webp)
-Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812))
+圖：⟪विनोदः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3812)）
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
+⟪अट्⟫ 第一人稱單數 ⟪अटति⟫ : 徘徊
 
 ::: indent
-Perf. I ⟪आट⟫, ⟪आटुः⟫
-Fut. ⟪अटिष्यति⟫
-Kaus. ⟪आटयति⟫
+完成時 I ⟪आट⟫, ⟪आटुः⟫
+未來時 ⟪अटिष्यति⟫
+使役動詞 ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: seicht
+⟪गाध⟫ 第三人稱：淺的
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
+⟪तॄ⟫ 第一人稱單數 ⟪तरति⟫ : 橫渡，從...逃脫（與格）
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
-Pass. ⟪तीर्यते⟫
-Kaus. ⟪टारयति⟫
-PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+完成時 IIIb ⟪ततार⟫, ⟪तेरुः⟫
+未來時 ⟪तरिष्यति । तरीष्यति⟫
+被動語態 ⟪तीर्यते⟫
+使役動詞 ⟪टारयति⟫
+過去被動分詞 ⟪तीर्ण⟫
+不定詞 ⟪तरितुम् । तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel
+⟪पार⟫ n.(m.)：彼岸、邊界、目標
 
-⟪तीर⟫ n.: Ufer
+⟪तीर⟫ n.：岸邊、河岸
 
 ::: media
 ![](/images/lekt3813.webp)
-Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813))
+圖：⟪वाराणस्यां गङ्गातीरे⟫
+（圖片來源：[詳情](/zh/licenses#lekt3813)）
 :::
-⟪एकैकशस्⟫ Adv.: je einzeln
+⟪एकैकशस्⟫ Adv.：各自、逐一
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
+⟪गण्⟫ 10P ⟪गणयति⟫：計算、數目
 
 ::: indent
-Perf. ⟪गणयां⟫ ⟪चकार⟫
-Fut. ⟪गणयिष्यति⟫
-Pass. ⟪गण्यते⟫
-PPP ⟪गणित⟫
-Absol. -⟪गणय्य⟫
-Inf. ⟪गणयितुम्⟫
+完成時 ⟪गणयां चकार⟫
+未來時 ⟪गणयिष्यति⟫
+被動語態 ⟪गण्यते⟫
+過去被動分詞 (PPP) ⟪गणित⟫
+絕對分詞 (Absol.) -⟪गणय्य⟫
+不定詞 (Inf.) ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814))
+圖：⟪गणयां चक्रुः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3814)）
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫：呼喊、哀號
 
 ::: indent
-Perf. II ⟪चुक्रोश⟫
-Fut. ⟪क्रोक्ष्यति⟫
-Pass. ⟪क्रुश्यते⟫
-Kaus. ⟪क्रोशयति⟫
-PPP ⟪क्रुष्ट⟫
+第二完成時 (Perf. II) ⟪चुक्रोश⟫
+未來時 ⟪क्रोक्ष्यति⟫
+被動語態 ⟪क्रुश्यते⟫
+使役語態 (Kaus.) ⟪क्रोशयति⟫
+過去被動分詞 (PPP) ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt
+⟪इदानीम्⟫ Adv.：現在
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
+⟪नूनम्⟫ Adv.：現在；因此、所以；確實、無疑
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫：下沉、潛入
 
 ::: indent
-PPP ⟪ममज्ज⟫
-Fut. ⟪मङ्क्ष्यति⟫
-Kaus. ⟪मज्जयति⟫
-PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+過去被動分詞 (PPP) ⟪ममज्ज⟫
+未來時 ⟪मङ्क्ष्यति⟫
+使役語態 (Kaus.) ⟪मज्जयति⟫
+過去被動分詞 (PPP) ⟪मग्न⟫
+絕對分詞 (Absol.) ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen
+⟪गवेषयति⟫ 派生動詞 (Denominativ)：尋找
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
+⟪व्याकुल⟫ 3：驚慌、不安、困惑
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm
+⟪कोलाहल⟫ m.n.：喧囂、吵鬧聲
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.：四處尋找
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen
+⟪हस्⟫ 1P ⟪हसति⟫：笑
 
 ::: indent
-Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
-Fut. ⟪हसिष्यति⟫
-Pass. ⟪हस्यते⟫
-Kaus. ⟪हासयति⟫
-PPP ⟪हसित⟫
+完成時 Vc ⟪जहास⟫, ⟪जहसुर्⟫
+未來時 ⟪हसिष्यति⟫
+被動語態 ⟪हस्यते⟫
+使役語態 (Kaus.) ⟪हासयति⟫
+過去被動分詞 (PPP) ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen
+⟪सृ⟫ 1P ⟪सरति⟫：奔跑
 
 ::: indent
-Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
-Fut. ⟪सरिष्यति⟫
-Pass. ⟪स्रियते⟫
-Kaus. ⟪सारयति⟫
-PPP ⟪सृत⟫
-Inf. ⟪सर्तुम्⟫
+完成時 ⟪ससार⟫, ⟪सस्रुर्⟫
+未來時 ⟪सरिष्यति⟫
+被動語態 ⟪स्रियते⟫
+使役語態 (Kaus.) ⟪सारयति⟫
+過去被動分詞 (PPP) ⟪सृत⟫
+不定詞 (Inf.) ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
+⟪कर्णयति⟫ 派生動詞 (Denominativ)：聽（源於 ⟪कर्ण⟫ m. "耳"）
 
-⟪लज्जा⟫ f.: Scham
+⟪लज्जा⟫ f.：羞恥、羞愧
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ Adv.：向下
 
-## 38.12. 翻译练习
+## 第38課 12. 翻譯練習
 
-*:sig[⟪दश⟫]* ⟪मूढाः⟫
+sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *:sig[⟪बाहुभ्यां⟫]* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪आसीत्तेषां मध्ये कश्चन वृद्धः । स किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो गणयामास । परं⟫ :sig[⟪नवै⟫]⟪व परिगणितास्तेन । ततः स आक्रोशत् । अहो⟫ :sig[⟪वयम्⟫] ⟪दश प्रस्थिताः । इदानीं नवैव⟫ :sig[⟪स्मः⟫] ⟪। नूनमस्माकमेको नद्यां निमग्नः ।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति । ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪। तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+註釋：
 
-Erklärungen:
+⟪दश⟫ 主格/賓格複數（陽性、陰性、中性）對應 ⟪दशन्⟫ 「十」
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn"
+⟪बाहुभ्याम्⟫ 工具格/與格/離格雙數對應 ⟪बाहु⟫ 陽性名詞 「手臂」
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
+⟪सर्वे⟫ 主格複數（陽性）對應 ⟪सर्व⟫ 3 「每一、所有」
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪जिज्ञासमान⟫ 現在分詞.Ā.欲態對應 ⟪ज्ञा⟫ 9U根 ⟪जिज्ञासते⟫ 「想要認識、想要知道」
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
+⟪नव⟫ 主格/賓格複數（陽性、陰性、中性）對應 ⟪नवन्⟫ 「九」
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
+⟪वयम्⟫ 主格複數 「我們」
 
-:sig[⟪वयम्⟫] Nom.pl. "wir"
+⟪स्मस्⟫ 第一人稱單數直陳式現在時對應 ⟪अस्⟫ 2P根
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
+⟪गवेषयत⟫ 第二人稱複數命令式
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativ P
+⟪एकैक⟫ 「各自、單獨」
 
-⟪एकैक⟫ "jeder einzeln"
+⟪समजनि⟫ 第三人稱單數被動語態不定過去時對應 ⟪जन् तरसा⟫ 工具格單數對應 ⟪तरस्⟫ 中性名詞 「能量」，作副詞使用：「迅速、強力地」
 
-:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫
+⟪यूयम्⟫ 主格複數 「你們」
 
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt"
-
-:sig[⟪यूयम्⟫] Nom.pl. "ihr"
-
-⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
+⟪युष्माकम्⟫ 屬格複數對應 ⟪यूयम्⟫
 

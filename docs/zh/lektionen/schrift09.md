@@ -1,40 +1,39 @@
+# 書寫練習 9
 
-# Schriftübung 9
+### 字詞分隔
 
-### Worttrennung
+在句子（半偈）內部，書寫中的字詞分隔僅發生於以下情況：
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+*   元音
+*   安努薩拉（ṃ）
+*   維斯爾加（ḥ）
 
-*   Vokal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ)
+結尾，且下一個詞以輔音開頭。此外，若根據句子連聲規則在元音之間產生 hiatus（元音相鄰），亦需分隔。
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+### 標點符號
 
-### Interpunktion
+句子的結尾在散文中使用 |（ardhadanda，陽性）表示。在偈頌中，| 表示半偈的結尾，||（danda，陽性）表示整首偈頌的結尾。在散文中，|| 表示較大的段落間隔（例如段落的結束）。偈頌編號置於兩個 || 之間，例如 ||⟪१⟫||。
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+### 縮寫
 
-### Abkürzung
+縮寫符號（例如在作品名稱中）為 °，例如 ⟪पा⟫° = pāṇinīye = "在波你尼的語法著作中"。
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
-
-### Weitere Vokale in Anfangsstellung
+### 起始位置的其他元音
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+請注意，a、ā、o、au 均遵循相同的基本書寫規則。
 
-## Übung
+## 練習
 
-A) Schreiben Sie in Devanāgarī:
+A) 用天城體書寫：
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) 閱讀並轉寫：
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

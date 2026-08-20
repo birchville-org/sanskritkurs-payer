@@ -1,11 +1,10 @@
 ---
-title: "Leçon 10"
-subtitle: "La phrase passive (Instrumental de l'agent)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
-
 ---
 
 # Leçon 10
@@ -97,7 +96,6 @@ important
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Sur l'utilisation de l'instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -107,13 +105,11 @@ important
 - **Formations régulières :**
 
 **Il est**
-1. | **Féminins en -i** ::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
-2. | **Féminins en -ī** ::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
-3. | **Féminins en -u** ::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
-4. **Formations irrégulières (Singulier) :**
-5. **avec les postpositions signifiant « avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »**
-z.B.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le Brahmane »
+1. | **Féminins en -ī** ::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
+2. | **Féminins en -u** ::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+3. **Formations irrégulières (Singulier) :**
+4. **avec les postpositions signifiant « avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le Brahmane »
 :::
 D'autres usages de l'instrumental (tṛtīyā) suivront plus tard.
 
@@ -164,65 +160,56 @@ par ex.
 ### 10.4.1. Règles spéciales pour la formation du passif
 
 1. **Les racines en -i ou -u** allongent leur voyelle devant le suffixe passif **-ya-** :
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. | **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"il est entré" | **viśyante**:br(⟪विश्यन्ते⟫) |
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Remarquez que pour les verbes de la 4e classe de présent, les formes Ātmanepada et passif sont identiques ! Dans ce cas, on ne peut déterminer s'il s'agit d'un Ātmanepada ou d'un passif qu'à partir de la construction de la phrase.**
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Niveau profond des verbes, commençant par ya, va, ra ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
 
-| Racine:br⟪धातु⟫ | Niveau profond:br⟪सम्प्रसारण⟫ | Passif:br⟪यक्⟫ |
-| :--- | :--- | :--- |
-| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 La désignation traditionnelle indigène pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ final** après une seule consonne est remplacé par **-ri-** devant le suffixe passif **-ya-**:
-* **kṛ** 8 U : **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Mais : **smṛ** 1 P : **smaryate** :br⟪स्मर्यते⟫
+   * **kṛ** 8 U : **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * Mais : **smṛ** 1 P : **smaryate** :br⟪स्मर्यते⟫
 
 6. **Certaines racines en -an ont alternativement deux formations de radical passif :**
-* une **-an-ya**
-* une **-ā-ya-** (le **ā** long est un représentant d'un nasal hypothétique long)
+   * une **-an-ya**
+   * une **-ā-ya-** (le **ā** long est un représentant d'un nasal hypothétique long)
 
 Par exemple, **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
-
-
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
 ## 10.5. Liste de mots
 
 **Apprenez les mots suivants :**
 
-**gṛha** n. ⟪गृह⟫ : maison
-**grāma** m. ⟪ग्राम⟫ : village
-**nagara** n. ⟪नगर⟫ : ville
+- **gṛha** n. ⟪गृह⟫ : maison
+- Pour la vie urbaine et villageoise, voir Basham, *Wonder*, chap. 6.
+- **yajña** m. ⟪यज्ञ⟫ : Sacrifice
 
   ::: note-box
-  Pour la vie urbaine et villageoise, voir Basham, *Wonder*, chap. 6.
+  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6. <!-- TODO: Fallback translation -->
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : Sacrifice
 
   ::: note-box
-  **yajña** m. ⟪यज्ञ⟫ : Sacrifice
+  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit. <!-- TODO: Fallback translation -->
 
   Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
   :::
@@ -236,11 +223,13 @@ Par exemple, **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : méfait, mal (contraire de **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vérité
 
-::: note-box
+:::: note-box
 En Inde, on attribuait au mot véritable un pouvoir magique, et en fait, tout l'ordre cosmique est maintenu et créé par le mot véritable. Pour cette conception importante, voir l'œuvre fondamentale :
 
+::: literatur-box
 Lüders, Heinrich (1869–1943) : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

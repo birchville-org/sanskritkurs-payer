@@ -1,465 +1,466 @@
 ---
-title: Lektion 53
+title: "第53課"
 lesson_id: 53
+
 ---
 
 # 第53課
 
-## 53.1. 名词的双数 (⟪द्विवचन⟫ n.)
+## 53.1. 雙數（⟪द्विवचन⟫ n.）名詞的雙數
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:**
+**雙數（⟪द्विवचनम्⟫）用於表示「兩個」：**
 
 :::
 ::: indent
-**⟪अश्विनौ⟫** "die beiden Aśvin"
+⟪अश्विनौ⟫ 「兩位阿濕婆」
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
+**當涉及兩件或更多事物時，必須使用雙數：**
 
 ::: indent
-**⟪हस्तौ⟫** "die Hände (eines Individuums)"
-**⟪पादौ⟫** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)"
+⟪हस्तौ⟫ 「雙手（單個人）」
+⟪पादौ⟫ 「雙足（人類、猴子或其他兩足動物）」
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
+**有時雙數表示同一類別（物種、屬）中的一個雄性與一個雌性：**
 
 ::: indent
-**⟪पितरौ⟫** "Vater und Mutter = Eltern"
+⟪पितरौ⟫ 「父親和母親 = 父母」
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
+**表示「一對」的詞彙——例如 ⟪युग⟫ n.、⟪द्वन्द्व⟫ n.、⟪द्वय⟫ n.——但始終以單數形式使用，除非指的是兩個或更多對：**
 
 ::: indent
-**⟪बाहुद्वयम्⟫** "ein Paar Arme"
+⟪बाहुद्वयम्⟫ 「一對手臂」
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301))
+圖：⟪मार्जारयुगम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt5301)）
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302))
+圖：⟪हस्तौ⟫
+（圖片來源：[詳情](/zh/licenses#lekt5302)）
 :::
-## 53.2. Dualendungen des Nomen
+## 53.2. 名詞的雙數結尾
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī 
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
+|   | 陽性/陰性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫、⟪द्वितीया⟫、⟪आमन्त्रितम्⟫** | -au | -ī
+| **⟪तृतीया⟫、⟪चतुर्थी⟫、⟪पञ्चमी⟫** | -bhyām ||
+| **⟪षष्ठी⟫、⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
+**對於有詞幹變格的名詞，主格、賓格與呼格的雙數（陽性/陰性）使用強詞幹**
 :::
-## 53.3. 以辅音结尾的词干的双数
+## 53.3. 輔音結尾詞幹的雙數
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. 無詞幹變格的詞幹
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
+⟪सत्यवाच्⟫ 3 「說真話者」
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ 
+|   | 陽性/陰性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark"
+⟪बलिन⟫ 3 "（特別）強"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ 
+|   | 陽性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt"
+⟪सुमनस्⟫ 3 "友善的"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ 
+|   | 陽性/陰性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe"
+⟪हविस्⟫ n. "供品"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | 中性 :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig"
+⟪दीर्घायुस्⟫ 3 "長壽的"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
+|   | 陽性/陰性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. 具有詞幹變格的詞幹
 
-**Partizip Präsens Parasmaipada**
+**現在主動態分詞**
 
-⟪भरन्त्⟫ 3 "tragend"
+⟪भरन्त्⟫ 3 「承載」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***:sig[⟪भरन्ती⟫] (!)*** 
+|   | 陽性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!)
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305))
+圖：⟪भरन्तौ⟫
+（圖片來源：[詳情](/zh/licenses#lekt5305)）
 :::
-⟪ददत्⟫ 3 "gebend"
+⟪ददत्⟫ 3 「給予」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ 
+|   | 陽性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant**
+**以 -mant/-vant 結尾的词幹**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend"
+⟪पशुमन्त्⟫ 3 「擁有牲畜」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ 
+|   | 陽性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "groß"
+⟪महान्त्⟫ 3 「巨大」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ 
+|   | 陽性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m.
+⟪आत्मन्⟫ 陽性名詞。
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | 陽性 :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n.
+⟪ब्रह्मन्⟫ 中性名詞。
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | 中性 :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ 陽性名詞，「國王」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | 陽性名詞 :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze"
+⟪सीमन्⟫ 陰性名詞，「邊界」
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | 陰性名詞 :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name"
+⟪नामन्⟫ 中性名詞，「名稱」
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | 中性名詞 :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br 單數 :sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. 以元音结尾的词干的双数
+## 53.4. 元音結尾詞幹的雙數
 
-**Stämme auf -a**
+**-a 結尾的詞幹**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht"
+⟪देव⟫ 陽性名詞，「神」  
+⟪फल⟫ 中性名詞，「果實」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | 陽性名詞 :br ⟪पुंस्⟫ | 中性名詞 :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *:sig[⟪देवाभ्याम्⟫]* | *:sig[⟪फलाभ्याम्⟫]* |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪देवयोस्⟫]* | *:sig[⟪फलयोस्⟫]* |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪देवयोस्⟫] | :sig[⟪फलयोस्⟫] |
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306))
+圖：⟪फले⟫
+（圖片來源：[詳情](/zh/licenses#lekt5306)）
 :::
-**Stämme auf -i**
+**-i 結尾的詞幹**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke"
+⟪अग्नि⟫ 陽性名詞，「火」  
+⟪वारि⟫ 中性名詞，「水」  
+⟪मति⟫ 陰性名詞，「思想」
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | 陽性名詞 :br ⟪पुंस्⟫ | 陰性名詞 :br ⟪स्त्री⟫ | 中性名詞 :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪अग्नी⟫]* | *:sig[⟪मती⟫]* | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u**
+**以-u結尾的詞幹**
 
-⟪शत्रु⟫ m.  
-⟪धिनु⟫ f.  
-⟪मधु⟫ n.
+⟪शत्रु⟫ 陽性  
+⟪धिनु⟫ 陰性  
+⟪मधु⟫ 中性
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | 陽性 :br ⟪पुंस्⟫ | 陰性 :br ⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪शत्रू⟫]* | *:sig[⟪धेनू⟫]* | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: :sig[⟪धेनू⟫]
-(Bildquelle: [Details](/licenses#lekt5307))
+圖：⟪धेनू⟫
+（圖片來源：[詳情](/zh/licenses#lekt5307)）
 :::
-**Stämme auf -ā**
+**以-ā結尾的詞幹**
 
-⟪कन्या⟫ f. "Mädchen"
+⟪कन्या⟫ 陰性 "女孩"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | 陰性 :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪कन्ये⟫]* |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪कन्ये⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪कन्ययोस्⟫]* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪कन्ययोस्⟫] |
 :::
-**Mehrsilbige Stämme auf -ī**
+**多音節以-ī結尾的詞幹**
 
-⟪देवी⟫ f. "Göttin"
+⟪देवी⟫ 陰性 "女神"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | 陰性 :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ**
+**以-ṛ結尾的詞幹**
 
-⟪दातृ⟫ 3 "Geber"
+⟪दातृ⟫ 3 "給予者"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *:sig[⟪दातृणी⟫]* 
+|   | 陽性/陰性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater"
+⟪पितृ⟫ 陽性 "父親"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | 陽性 :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
+## 53.5. 雙重複合詞（Dvandva）
 
-Beispiele:
+範例：
 
 ::: indent
-**⟪अर्थधर्मौ⟫** "Nutzen (⟪अर्थ⟫) und Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira und Arjuna"
-**⟪सुखदुःखे⟫** (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-**⟪शीतोष्णे⟫** "Kälte und Wärme"
+⟪अर्थधर्मौ⟫ 「利益（⟪अर्थ⟫）與正法」
+⟪युधिष्ठिरार्जुनौ⟫ 「Yudhiṣṭhira 與 Arjuna」
+⟪सुखदुःखे⟫ （同義於：⟪सुखदुःखम्⟫） 「福與禍」
+⟪शीतोष्णे⟫ 「冷與熱」
 :::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:**
+**若兩個表示親屬關係且以 -ṛ 結尾的名詞（或兩個指稱祭祭司的以 -ṛ 結尾的名詞）構成雙重複合詞，則第一個成分採用單數主格形式：**
 
 :::
 ::: indent
-⟪मा⟫***:sig[⟪ता⟫]***⟪पितरौ⟫ "Mutter und Vater"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ 「母親與父親」
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
+**此規則同樣適用於在 -⟪पुत्र⟫ 之前的雙重複合詞中的此類親屬稱謂：**
 
 ::: indent
-**⟪पितापुत्रौ⟫** "Vater und Sohn"
+⟪पितापुत्रौ⟫ 「父親與兒子」
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
+**若兩個常在祭祀中被提及的神祇名稱構成雙重複合詞，則第一個成分的尾元音通常會延長：**
 
 ::: indent
-⟪मि⟫***:sig[⟪त्रा⟫]***⟪वरुणौ⟫ "Mitra und Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni und Soma"
+⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ 「Mitra 與 Varuṇa」
+⟪अग्नीसोमौ⟫ 「Agni 與 Soma」
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
+**在其他雙重複合詞中，這種元音延長現象也會出現。**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308))
+圖：⟪पितापुत्रौ⟫
+（圖片來源：[詳情](/zh/licenses#lekt5308)）
 :::
-## 53.6. 代词的双数
+## 53.6. 代詞的雙數形式
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
-| :--- | :---: | :---: | :---: | :---: | :---: 
-| **Maskulinum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **陽性** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |  
-| **Neutrum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
-| **Femininum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
+| **中性** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | 其餘同陽性 ||||||||
+| **陰性** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | 其餘同陽性 ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
+⟪कतर⟫ 3「兩者中的哪一個」與 ⟪कतम⟫ 3「多者中的哪一個」在所有格位中均依 ⟪यद्⟫ 變格。
 
-## 53.7. Pronominaladjektive
+## 53.7. 代詞形容詞
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert:
+以下代詞形容詞在所有格位中均依 ⟪यद्⟫ 變格：
 
-*   ⟪अन्य⟫ 3 "ein anderer"
-*   ⟪अन्यतर⟫ 3 "einer von zweien"
-*   ⟪इतर⟫ 3 "der andere"
+*   ⟪अन्य⟫ 3「另一個」
+*   ⟪अन्यतर⟫ 3「二者之一」
+*   ⟪इतर⟫ 3「另一個（特指）」
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus außer dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert.
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫).
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert.
+*   ⟪सर्व⟫ 3「每一個、所有」除陽性與中性單數主格/賓格（⟪सर्वम्⟫）外，在所有其他格位中均依 ⟪यद्⟫ 變格。
+*   ⟪उभय⟫ 3「兩者」無雙數。在單數與複數的陽性與中性中，其變格方式同 ⟪सर्व⟫。陰性：⟪उभयी⟫（變格方式同 ⟪देवी⟫）。
+*   ⟪उभ⟫ 3「兩者」僅用於雙數，其變格方式分別為 ⟪देव⟫（陽性）、⟪फल⟫（中性）及 ⟪देवता⟫（陰性）。
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden:
+以下代詞形容詞依 ⟪सर्व⟫ 變格。在離格/處所格單數陽性與中性，以及複數主格中，它們可分別依 -a 或 -ā 詞幹變格法進行變格：
 
-*   ⟪अपर⟫ 3 "ein anderer"
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende"
-*   ⟪पर⟫ 3 "der folgende, spätere"
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche"
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)"
+*   ⟪अपर⟫ 3「另一個」
+*   ⟪उत्तर⟫ 3「上方的、北方的、後來的」
+*   ⟪पर⟫ 3「接下來的、較後的」
+*   ⟪पूर्व⟫ 3「先前的、東方的」
+*   ⟪स्व⟫ 3「自己的（我的、你的、他的……）」
 
-## 53.8. 不规则比较级
+## 53.8. 不規則比較級變化
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):**
+**若干形容詞以以下 ⟪कृत्⟫ 後綴構成比較級與最高級（注意！）：**
 
-*   Komparativ: **-īyas**
-*   Superlativ: **-iṣṭha**
+*   比較級：**-īyas**
+*   最高級：**-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.**
+**⟪तद्धित⟫ 後綴 -⟪तर⟫ 與 -⟪तम⟫ 附加於形容詞的陽性詞幹，而後綴 -⟪ईयस्⟫ 與 -⟪इष्ठ⟫ 則附加於該形容詞所源自的词根（若存在此词根！）。词根元音為高階級。**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
+**以 -iṣṭha 結尾的最高級（陰性：iṣṭhā）依 a- 或 ā- 詞幹變格。**
 
-**Deklination von -īyas siehe unten.**
+**-īyas 的變位，見下文。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ |
-| --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| 詞根 | 形容詞 | 比較級 | 最高級 |
+| --- | --- | ---
+| ⟪क्षिप्⟫ 第六類動詞「投擲」 | ⟪क्षिप्र⟫ 第三類「快速」 | :sig[⟪क्षेपीयस्⟫] 第三類「較快」 :br ⟪क्षिप्रतर⟫ 第三類 | :sig[⟪क्षेपिष्ठ⟫] 第三類「最快」 :br ⟪क्षिप्रतम⟫ 第三類 |
+| ⟪स्था⟫ 第一類動詞「站立」 | ⟪स्थिर⟫ 第三類「恆常、堅定」 | :sig[⟪स्थेयस्⟫] 第三類「較堅定」 :br ⟪स्थिरतर⟫ 第三類 | :sig[⟪स्थेष्ठ⟫] 第三類「最堅定」 :br ⟪स्थिरतम⟫ 第三類 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:**
+**附加這些後綴的特殊規則：**
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
+**規則一：多音節陽性詞幹的尾元音，或尾元音及其前的元音會脱落。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
+| 形容詞 | 比較級 | 最高級 |
+| --- | ---
+| ⟪पाप⟫ 第三類「邪惡」 | ⟪पा⟩:sig[⟪पी⟩]⟪यस्⟩ | ⟪पा⟩:sig[⟪पि⟩]⟪ष्ठ⟩ |
+| ⟪महान्त्⟩ 第三類「巨大」 | ⟪म⟩:sig[⟪ही⟩]⟪यस्⟩ | ⟪म⟩:sig[⟪हि⟩]⟪ष्ठ⟩ |
 :::
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
+**規則二：所有格後綴（-mant, vant, -vin, -in 等）會脱落。若剩餘部分僅有一個音節，則不再進一步變化，僅恢復因與所有格後綴結合而產生的音變。但若剩餘部分超過一個音節，則適用規則一。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
+| 形容詞 | 比較級 | 最高級 |
+| --- | ---
+| ⟪धनवन्त्⟩ 第三類「富有」 | ⟪ध⟩:sig[⟪नी⟩]⟪यस्⟩ | ⟪ध⟩:sig[⟪नि⟩]⟪ष्ठ⟩ |
+| ⟪बलिन्⟩ 第三類「（特別）強大」 | ⟪ब⟩:sig[⟪ली⟩]⟪यस्⟩ | ⟪ब⟩:sig[⟪लि⟩]⟪ष्ठ⟩ |
+| ⟪वसुमन्त्⟩「擁有財產」 | ⟪व⟩:sig[⟪सी⟩]⟪यस्⟩ | ⟪व⟩:sig[⟪सि⟩]⟪ष्ठ⟩ |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
+**規則 3：**對於以元音開頭且後僅接一個輔音的 -ṛ-，替換為 -ra-。
 :::
-Beispiel:
+範例：
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| 形容詞 | 比較級 | 最高級 |
+| --- | ---
+| ⟪पृथु⟫ 3 「寬廣」 | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
+**迄今所學形容詞中，此類常見比較級形式的目錄：**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
+| 形容詞 | 比較級 | 最高級 |
+| --- | ---
+| ⟪अल्प⟫ 3 「小、少」 | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 「快速」：詞源（源自 ⟪क्षिप्⟫） | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 「沉重」：詞源（源自 *⟪गृ⟫） | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 「長」：詞源（源自 *⟪दृघ्⟫） | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 「遠」：詞源（源自 *⟪दु⟫/*⟪दू⟫） | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 「富有」 | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 「邪惡」 | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 「寬廣」 | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 「親愛」 | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 「（特別）強大」 | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 「巨大」 | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 「年輕」 | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 「堅固」：詞源（源自 ⟪स्था⟫） | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 「短」 | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309))
+圖：⟪द्राघीयो लिङ्गम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt5309)）
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
+**此類比較級形式中，有些根本沒有詞根相關的原始形式，它們是「缺陷形」。因此以下幾組特別需要記憶：**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ |
-| --- | --- 
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| （形容詞） | 比較級 | 最高級 |
+| --- | ---
+| （⟪अल्प⟫ 3 「小、少」） | ⟪कनीयस्⟫：詞源 參見 ⟪कन्या⟫ f. 「女孩 = 小女孩」 | ⟪कनिष्ठ⟫ |
+| （⟪प्रशस्य⟫ 3 「值得讚美、好」） | ⟪श्रेयस्⟫：詞源 源自 ⟪श्री⟫ f. 「光輝」 | ⟪श्रेष्ठ⟫ |
+| （⟪प्रशस्य⟫ 3 「值得讚美、好」） | ⟪ज्यायस्⟫：詞源 亦作「較年長」：詞源 源自 ⟪ज्या⟫ f. 「優勢」 | ⟪ज्येष्ठ⟫：詞源 亦作「最年長」 |
+| （⟪बहु⟫ 3 「多」） | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| （⟪वृद्ध⟫ 3 「老」） | ⟪वर्षीयस्⟫：詞源 源自 ⟪वर्ष⟫ n.m. 「雨季、年」 | ⟪वर्षिष्ठ⟫ |
+| （⟪वृद्ध⟫ 3 「老」） | ⟪ज्यायस्⟫：詞源 亦作「更好」：詞源 源自 ⟪ज्या⟫ f. 「優勢」 | ⟪ज्येष्ठ⟫：詞源 亦作「最好」 |
 :::
-## 53.9. Deklination der Komparative auf -īyas
+## 53.9. 比較級詞尾為 -īyas 的變化
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
+**詞尾為 -īyas 的比較級，其陰性形式以 -īyasī 結尾（變格方式同 ⟪देवी⟫）。陽性與中性則依下列範例變格。**
 :::
 ::: grammar-box
 
@@ -473,97 +474,91 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | *:sig[⟪गरीयान्⟫]* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Lehre von den Versmaßen)
+## 53.10. 詩律學（韻律理論）
 
 ::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303))
+圖：⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+（圖片來源：[詳情](/zh/licenses#lekt5303)）
 :::
-Siehe auch:
+另請參見：
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–)：**《梵文文本釋經導論》：講義。 -- 第8章：真正的釋經，第二部分：同步理解之個別問題探討。 -- 附錄B：梵文文本詩律學簡介。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Bedeutung der Bestimmung des Metrums
+### 53.10.1. 確定詩律的重要性
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
+確定詩律之所以重要，原因如下：
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert.
-Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
-**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1. **美學上：**韻律格式（詩格）是構成陳述美感的重要因素之一。此外，特定的韻律格式有時可用來表達某種情緒，或與特定社會階層（⟪वर्ण⟫）相聯繫。不同的韻律格式以各不相同的方式誦讀。:br 例如，誦讀 ⟪शिवताण्डवस्तोत्र⟫（對濕婆之舞的讚頌）能讓人很好地感受到其美學效果：[http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **文本批判上：**韻律格式中的錯誤可能暗示該處文本的傳承並非正確。韻律格式有助於進行文本校勘與修正。
+3. **年代學上：**某些韻律格式在歷史進程中經歷了特定的變化。這有助於對文本進行大致的年代判定。參見 **Oldenberg, Hermann (1854–1920)：**《Triṣṭhubh 詩格發展史》；同氏：《Śloka 詩格發展史》。——兩文均收錄於：:br **Oldenberg, Hermann (1854–1920)：**《小型文集》/ Hermann Oldenberg。由 Klaus L. Janert 編輯。——威斯巴登：Steiner出版社。——3卷本。——（Glasenapp 基金會；...）。——第2卷。——1967年。——頁碼 1188 - 1255。
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304))
+圖：⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+（圖片來源：[詳情](/zh/licenses#lekt5304)）
 :::
-### 53.10.2. Arten von Metren
+### 53.10.2. 韻律格式（詩格）的類型
 
 ::: grammar-box
-**Die Inder unterscheiden:**
+**印度人區分：**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später)
+*   **⟪वृत्त⟫（中性）：** 韻律格式，其中音節數量（⟪अक्षर⟫）是固定的
+*   **⟪जाति⟫（陰性）：** 韻律格式，其中度量單位總和（⟪मात्रा⟫）（即「摩拉」/ Moren）是固定的（此類稍後討論）
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:**
+**對於音節數量固定的韻律（⟪वृत्त⟫），我們首先可以進一步區分：**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist
+*   音節數量固定，但這些音節的時值僅部分固定的韻律
+*   音節數量及其時值均固定的韻律
 :::
-### 53.10.3. Die metrische Quantität von Silben
+### 53.10.3. 音節的韻律時值
 
 ::: grammar-box
-**Merkvers**
+**記憶口訣**
 
 :::
 ::: indent
-⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
-⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
-⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
+⟪सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगो ऽपि वा ॥⟫
 :::
-"Eine Silber ist schwer,
+「一個音節若屬重讀，
 
-*   wenn ihr Vokal einen Anusvāra hat,
-*   lang ist,
-*   einen Visarga hat,
-*   ebenso wenn er vor einer Konsonantenverbindung steht
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht."
+*   其元音帶有鼻化符（Anusvāra），
+*   為長音，
+*   帶有送氣符（Visarga），
+*   或者位於輔音叢之前，
+*   以及若該音節處於半行詩（Pāda）末尾。」
 ::: grammar-box
-**Eine Silbe ist**
+**一個音節是**
 
-*   entweder **⟪लघु⟫ = leicht**
-*   oder **⟪गुरु⟫ = schwer**
+*   要么為 **⟪लघु⟫ = 輕**
+*   要么為 **⟪गुरु⟫ = 重**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn**
+**⟪लघु⟫ = 輕音節，若滿足以下條件**
 
-*   ihr Vokal kurz ist und auf diesen Vokal
+*   其元音為短音且該元音後
 *   kein Anusvāra,
-*   kein Visarga,
-*   nicht zwei Konsonanten folgen.
+*   無送氣符（Visarga），
+*   且不跟隨兩個輔音。
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+短元音包括 a, i, u, ṛ, ḷ
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.**
+**所有其他音節均為 ⟪गुरु⟫ = 重。半行詩的末音節（⟪पाद⟫）始終視為 ⟪गुरु⟫。**
 
-In der metrischen Analyse bedeutet:
+在韻律分析中意味著：
 
 *   **◡** = ⟪ल⟫ = ⟪लघु⟫
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫
-*   **/** = Zäsur (Worttrennung)
+*   **×** = ⟪लघु⟫ 或 ⟪गुरु⟫
+*   **/** = 韻律切分（詞間斷開）
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+範例：⟪भगवद्गीता १⟫,⟪१⟫：
 
 ::: indent
-⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
+⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
+⟪लघु⟫ 與 ⟪गुरु⟫ 的分佈：
 
 ::: metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
@@ -571,69 +566,66 @@ Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
+### 53.10.4. 史詩頌（⟪श्लोक⟫，陽性名詞）
 
 ::: grammar-box
-**Merkvers:**
+**記憶口訣：**
 
 :::
 ::: indent
-⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
-⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
-⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
+⟪श्लोके षष्ठं गुरु ज्ञेयं सर्वत्र लघु पञ्चमम् । द्विचतुष्पादयोर्ह्रस्वं सप्तमं दीर्घमन्ययोः ॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
+「在頌中，每半行的第六個音節沉重（長），
+所有半行中的第五個音節輕盈（短）；
+第七個音節在第二和第四半行中為短，在其他兩個半行中為長。」
+史詩（⟪महाभारत⟫，⟪रामायण⟫）以及無數其他作品中最主要的詩律是頌（Śloka，意為「呼喊」、「聲音」、「詩節」，源自⟪श्रु⟫「聽見」）。
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuß, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
+**⟪श्लोक⟫ 是由兩個各含十六個音節的半行組成的雙行詩。每個半行又分為兩個各含八個音節的四分之一行（⟪पाद⟫）。每個四分之一行再分為兩個各含四個音節的部分。整個詩句（⟪पद्य⟫，中性名詞）因此由四個 ⟪पाद⟫（陽性名詞，意為「足」、「四分之一」）組成。這四個 ⟪पाद⟫ 依次編號為 a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫)。**
 
-**Aufbau des Śloka:**
+**頌的結構：**
 
-**Grundschema (⟪पथ्या⟫):**
+**基本模式（⟪पथ्या⟫）：**
 
-**a = c:**
+**a = c：**
 :::
 ::: metrik-schema
 × × × ×   **◡ — — —**
 :::
-**b = d:**
+**b = d：**
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
+⟪पाद⟫ 的第二和第三個音節不應同時為 ⟪लघु⟫。在 b 和 d 中，音節 2-4 不得為 ¯ ˘ ¯。
 
-**Nebenschemata (⟪विपुला⟫) für a und c:**
+**次要模式（⟪विपुला⟫）適用於 a 和 c：**
 
-**⟪विपुला⟫ 1:**
+**⟪विपुला⟫ 1：**
 ::: metrik-schema
 × × × —   ◡ ◡ ◡ —
 :::
-**⟪विपुला⟫ 2:**
+**⟪विपुला⟫ 2：**
 ::: metrik-schema
 × — ◡ —   — ◡ ◡ —
 :::
-**⟪विपुला⟫ 3:**
+**⟪विपुला⟫ 3：**
 ::: metrik-schema
 × — ◡ —   — / — — —
 :::
-**⟪विपुला⟫ 4:**
+**⟪विपुला⟫ 4：**
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
-## 53.11. 练习
+**在所有頌詩體式中，主要停頓位於第二⟪पाद⟫的末尾：此處要么是詞尾，要么（在長複合詞的情況下）是構詞成分的末尾。**
+## 53.11. 練習
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.**
+**請從所有迄今為止學過的詩句中找出頌詩。為這些頌詩書面寫出格律模式，並指出任何不規則性或Vipulā形式。**
 :::
 ::: center
-Finitum feliciter 1984-02-15
-Editio interretialis feliciter finita 2009-01-19
+完成於1984-02-15
+網路版完成於2009-01-19
 Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
+⟪श्रीगणेशाय नमः⟫
 :::
 

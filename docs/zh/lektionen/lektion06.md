@@ -1,118 +1,123 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "第6課"
+subtitle: "動詞句的結構（施事者與動詞形式）"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第6課
 
-## 6.1. Der Verbalsatz
+## 6.1. 動詞句
 
 ::: grammar-box
-**Schema I: Verbalform**
-- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
+**模式一：動詞形式**
+例如：**yajati** = ⟪यजति⟫ = "他（她、它）以祭品供奉"，"他（她、它）祭祀"
 
-**Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform**
-- z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert"
+**模式二：施事者（kartṛ m. = ⟪कर्तृ⟫）– 動詞形式**
+例如：**rāmo yajati** = ⟪रामो यजति⟫ = "Rāma以祭品供奉"，"Rāma祭祀"
 :::
-Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
+若在動詞句中提及施事者（**kartṛ** m. = ⟪कर्तृ⟫），且該句非被動語態，則施事者採用**主格**（第一格，prathamā = ⟪प्रथमा⟫）。在數（vacana n. = ⟪वचन⟫）方面，施事者與動詞形式需保持一致。
 
-## 6.2. Zur Bildung der Verbalformen
 
-Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
+## 6.2. 動詞形式的構成
 
-1. **Bedeutung** (**artha** m. ⟪अर्थ⟫)
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \<sie, es\>, wir beide, ihr beide, sie beide, wir, ihr, sie)
-3. Verhaltensweise (genus verbi):
-   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
-   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
-   3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "Es wird mit einem Opfer verehrt"
+有限動詞形式，即帶有個人詞尾的動詞形式，在梵語中表達以下內容：
 
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
+1. **意義**（artha m. ⟪अर्थ⟫）
+2. **人稱**與**數**（vacana n. = ⟪वचन⟫）（我、你、他 \&lt;她、它\&gt;、我們二人、你們二人、他們二人、我們、你們、他們）
+3. 語態（genus verbi）：
+1. **Parasmaipada**（n. = ⟪परस्मैपद⟫）（"指向他人的詞形"）：主動語態。例如：**yajati** = ⟪यजति⟫ = "他（即為他人舉行祭祀的祭司）以祭品供奉"
+2. **Ātmanepada**（n. = ⟪आत्मनेपद⟫）（"指向自身的詞形"）：中動語態。例如：**yajate** = ⟪यजते⟫ = "他（即為自身及家族祭祀的祭主）以祭品供奉"
+3. **被動語態**（karman n. = ⟪कर्मन्⟫）。例如：**ijyate** = ⟪इज्यते⟫ = "被以祭品供奉"
 
-   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada**-Verben (**ubhayapada** n. = ⟪उभयपद⟫ = "beide Wortformen").
+在許多情況下，Ātmanepada的意義細微差別已無法察覺；甚至藝術詩人也常使用Ātmanepada，而不與Parasmaipada區分意義。然而，在翻譯時仍須仔細注意是否存在此類意義細微差別。
 
-   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = ⟪मन्यते⟫ = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
+在Parasmaipada與Ātmanepada（特指Ātmanepada的語義）中使用的動詞，稱為**Ubhayapada**-動詞（**ubhayapada** n. = ⟪उभयपद⟫ = "兩種詞形"）。
 
-4. **Aussageweise** (Modus):
-   1. **Indikativ**: Aussageform
-   2. **Optativ**: Wunschform und Möglichkeitsform
-   3. **Imperativ**: Befehlsform
-5. **Zeit** (Tempus):
-   1. **Präsens**: Gegenwart
-   2. **Imperfekt**
-   3. **Perfekt**
-   4. **Aorist**
-   5. **Futur**: Zukunft
-   6. **Konditional**
+有些動詞僅在Parasmaipada或僅在Ātmanepada中使用。對於這些動詞，Ātmanepada或Parasmaipada沒有特定的語義。例如：**manyate** = ⟪मन्यते⟫ = "他（她、它）想"（無特定的Ātmanepada語義）。
 
-   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
+4. **陳述方式**（語氣）：
+1. **Indikativ**：陳述形式
+2. **Optativ**：願望形式與可能性形式
+3. **Imperativ**：命令形式
+5. **時間**（時態）：
+1. **Präsens**：現在
+2. **Imperfekt**
+3. **Perfekt**
+4. **Aorist**
+5. **Futur**：未來
+6. **Konditional**
+
+時態由時幹構成：現在幹、Aorist幹、Perfekt幹、Futur幹。
+
 
 ## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
 
-Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
+現在時是表示現在的時態，特別是持續狀態。
 
 ::: grammar-box
-**Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.**
+**Indikativ（陳述形式）現在時的構成方式是：在現在幹後加上所謂的Primary endings。**
 :::
-Beispiele:
+例子：
 
-| Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
+| 詞根 (dhātu) | 現在幹 | 第三人稱單數 Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
-| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
-| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "他（她、它）進入" |
+| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "他（她、它）產生" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "他（她、它）跳舞" |
 
-## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
+
+## 6.4.第三人稱的primary詞尾（prathama m. = ⟪प्रथम⟫ =「第一（！）人稱」）
 
 ::: grammar-box
-| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | 單數（Einzahl）：brekavacana n.：br⟪एकवचन⟫ | 複數（Mehrzahl）：brbahuvacana n.：br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
-| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+| **Parasmaipada n.** ：br⟪परस्मैपद⟫ | **-ti** ：br-⟪ति⟫ | **-nti** ：br-⟪न्ति⟫ |
+| **Ātmanepada n.** ：br⟪आत्मनेपद⟫ | **-te** ：br-⟪ते⟫ | **-nte** ：br-⟪न्ते⟫ |
 :::
-Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
-- Präsensstamm: **yaja** = ⟪यज⟫
-  - 3. sg. P. **yajati** = ⟪यजति⟫
-  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-  - 3. sg. Ā. **yajate** = ⟪यजते⟫
-  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+範例 **yaj** = ⟪यज्⟫ =「以祭品敬拜」、「獻祭」：
+現在詞幹：**yaja** = ⟪यज⟫
+第三人稱單數 P. **yajati** = ⟪यजति⟫
+第三人稱複數 P. **yajanti** = ⟪यजन्ति⟫
+第三人稱單數 Ā. **yajate** = ⟪यजते⟫
+第三人稱複數 Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms
 
-### 6.5.1. 第六现在时类动词（tudādi = ⟪तुदादि⟫ = “tud 等”）
+## 6.5.現在詞幹的構成
+
+### 6.5.1.第六類現在詞幹動詞（tudādi = ⟪तुदादि⟫ =「tud等」）
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**
+**現在詞幹 = 弱階根（即其被列出的形式）+ a-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| 詞根（dhātu m.）：br⟪धातु⟫ | 現在詞幹 |
 | :--- | :--- |
-| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
-| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+| **viś** ：br⟪विश्⟫ | **viśa-** ：br⟪विश⟫- |
+| **sṛj** ：br⟪सृज्⟫ | **sṛja-** ：br⟪सृज⟫- |
 :::
-### 6.5.2. 第一现在时类动词（bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = “bhū 等”）
+### 6.5.2.第一類現在詞幹動詞（bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ =「bhū等」）
 
 ::: grammar-box
-| Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
-| Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm |
+| 現在詞幹 = 強階根（罕見為延長階）+ a- ||||
+| 詞根（dhātu m.）：br⟪धातु⟫ | 強階 | a-前的強階 | 現在詞幹 |
 | :--- | :--- | :--- | :--- |
-| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
-| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
-| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
-| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe ||||
-| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+| **bhū** ：br⟪भू⟫ | **bho** ：br⟪भो⟫ | **bhav** ：br⟪भव्⟫ | **bhava-** ：br⟪भव⟫- |
+| **nī** ：br⟪नी⟫ | **ne** ：br⟪ने⟫ | **nay** ：br⟪नय्⟫ | **naya-** ：br⟪नय⟫- |
+| **smṛ** ：br⟪स्मृ⟫ | **smar** ：br⟪स्मर्⟫ | **smar** ：br⟪स्मर्⟫ | **smara-** ：br⟪स्मर⟫- |
+| **yaj** ：br⟪यज्⟫ | **yaj** ：br⟪यज्⟫ | **yaj** ：br⟪यज्⟫ | **yaja-** ：br⟪यज⟫- |
+| 若元音位於長閉音节中，即短元音後跟兩個或多個輔音，則不構成強階 ||||
+| **nind** ：br⟪निन्द्⟫ | **nind** ：br⟪निन्द्⟫ | **nind** ：br⟪निन्द्⟫ | **ninda-** ：br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Wortsandhi von e und o
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
+#### 6.5.2.1. e與o的詞內連音（詞內Sandhi）
+在元音之前，詞內的 **e** 會替換為 **ay**，**o** 會替換為 **av**。
 
-#### 6.5.2.2. Lautabstufung (Ablaut)
+#### 6.5.2.2. 元音輪替（Ablaut）
 
 ::: grammar-box
-| Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
+| 低階：br弱階 | 高階：br滿階：brGuṇa m.:br⟪गुण⟫ | 長階：brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -120,185 +125,181 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. 第四现在时类的动词 (divādi = ⟪दिवादि⟫ = "div 等")
+### 6.5.3. 第四類現在時動詞（divādi = ⟪दिवादि⟫ = "div 等"）
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
+**現在詞幹 = 根詞的低階形式（即其列出的形式）+ ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| 根詞（dhātu m.）：br⟪धातु⟫ | 現在詞幹 |
 | :--- | :--- |
-| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
-| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
-| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
-| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+| **nṛt** ：br⟪नृत्⟫ | **nṛtya-** ：br⟪नृत्य⟫- |
+| **muh** ：br⟪मुह्⟫ | **muhya-** ：br⟪मुह्य⟫- |
+| **yudh** ：br⟪युध्⟫ | **yudhya-** ：br⟪युध्य⟫- |
+| **man** ：br⟪मन्⟫ | **manya-** ：br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. 主題元音，主題現在時類
 
 ::: grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen".
+現在時類詞幹構詞後綴中的 **a** 被稱為 **主題元音**。因此，具有 **a** 作為詞幹構詞後綴的現在時類被稱為「主題現在時類」。
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. 口語梵語：其他問題（praśna m. = ⟪प्रश्न⟫）
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?"
-- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen")
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?"
-- Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut."
+**N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "N.N. 在做什麼？"
+**N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "N.N.s 在做什麼？"
+（karoti, kurvanti 來自 **kṛ** = ⟪कृ⟫ 第8類： "做，製造"）
+**kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "您過得好嗎？您好嗎？"
+回答：**sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "（我）各方面都好。"
 :::
 
-## 6.7. 词汇表
+## 6.7. 詞彙表
 
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
+在梵語中，動詞以**根（Root）**的形式列出。根後面的數字代表**變位類別**。
 
-- **P:** Wurzel ist nur Parasmaipada
-- **Ā:** Wurzel ist nur Ātmanepada
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+**P：** 該根僅用於 Parasmaipada（他動語態）
+**Ā：** 該根僅用於 Ātmanepada（自動語態）
+**U：** Ubhayapada（「雙重形式」）：該根在 Parasmaipada 和 Ātmanepada 中均可使用。
+**()：** 括號內為第三人稱單數現在時直陳式（laṭ）。
 :::
-**Lernen Sie folgende Wörter:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
+**請學習以下詞彙：**
+**yaj** 1 U (yajati) ⟪यज् यजति⟫ : 以祭品敬奉，獻祭
+**bhū** 1 P (bhavati) ⟪भू भवति⟫ : 成為，產生，存在
+**smṛ** 1 P (smarati) ⟪स्मृ स्मरति⟫ : 使...顯現，回憶
+**nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ : 跳舞
+**nī** 1 U (nayati) ⟪नी नयति⟫ : 引導
+**man** 4 Ā (manyate) ⟪मन् मन्यते⟫ : 思考
+**muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ : 困惑
+**yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ : 戰鬥
+**viś** 6 P (viśati) ⟪विश् विशति⟫ : 進入
+**sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : 釋放，放出，顯現
 
-## 6.8. 练习
 
-**A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:**
+## 6.8. 練習
+
+**A) 使用括號中指定的根，通過插入動詞來構成句子：**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Setzen Sie die in Übung A gebildeten Sätze in den Plural.**
+**B) 將練習 A 中構成的句子變為複數。**
 
-**C) Übersetzen Sie ins Sanskrit:**
-1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
-2. Śiva tanzt.
-3. Śiva tanzt.
-4. Rāma führt.
-5. Śūdras sind verwirrt.
-6. Die Kṣatriyafrauen treten ein.
-7. Der HERR lässt emanieren.
-8. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr)
-9. Śūdrafrauen tanzen.
-10. Kṣatriyas kämpfen.
-11. Heilige Männer führen.
-12. Sie erinnern sich.
-13. Wer (fem.) tanzt?
+**C) 翻譯成梵文：**
+1. 他獻祭敬拜。（為祭祀主而行的祭司）
+2. Śiva 跳舞。
+3. Rāma 引導。
+4. Śūdras 感到困惑。
+5. Kṣatriya 女性進入。
+6. THE LORD 顯現。
+7. Kṣatriya 獻祭敬拜。（作為祭祀主）
+8. Śūdra 女性跳舞。
+9. Kṣatriyas 戰鬥。
+10. 聖人引導。
+11. 他們回憶起。
+12. 誰（陰性）跳舞？
+13. （前述的）Brahmanin 跳舞。
 
 ::: media
 ![](/images/lekt0601.webp)
-**Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
-Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
-(Bildquelle: Wikipedia, CC-BY-SA 2.5)
+**Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
+Śiva Naṭarāja（⟪नटराज⟫），Kadavul 印度教寺廟，考艾島，夏威夷
+（圖片來源：維基百科，CC-BY-SA 2.5）
 :::
 
-## 6.9. Wiederholungsübung
+## 6.9. 複習練習
 
-**A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:**
+**A) 填空練習：構建問題，使得您根據以下填空練習所形成的句子成為這些問題的答案：**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
 3. (śruti) ... vedaḥ
-   ⟪श्रुति⟫ ... ⟪वेदः⟫
+⟪श्रुति⟫ ... ⟪वेदः⟫
 4. (veda) ... śrutiḥ
-   ⟪वेद⟫ ... ⟪श्रुतिः⟫
+⟪वेद⟫ ... ⟪श्रुतिः⟫
 5. (brāhmaṇa, guru) ... yajanti
-   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
 6. (devī) ... indrāṇī
-   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
+⟪देवी⟫ ... ⟪इन्द्राणी⟫
 7. (śūdra, śūdrā, devī) ... nṛtyanti
-   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
 8. (kṣatriya) ... yudhyante
-   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
-   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-::: indent
 ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
-:::
 11. (sādhu) ... rāmaḥ
-::: indent
 ⟪साधु⟫ ... ⟪रामः⟫
-:::
 
-**B) Setzen Sie in den Plural:**
-1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
+**B) 變為複數：**
+1. brāhmaṇo yajati. = ⟪ब्राह्मणो यजति⟫
 2. kaiṣā. = ⟪कैषा⟫
-3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫
-4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫
-5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫
+3. kṣatriyo yajate. = ⟪क्षत्रियो यजते⟫
+4. sādhvī smarati. = ⟪साध्वी स्मरति⟫
+5. vaiśyā muhyati. = ⟪वैश्या मुह्यति⟫
 6. sṛjati. = ⟪सृजति⟫
-7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫
+7. devī manyate. = ⟪देवी मन्यते⟫
 8. gururviśati. = ⟪गुरुर्विशति⟫
-9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫
-10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫
-11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫
-12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫
+9. ko 'yam. = ⟪को ऽयम्⟫
+10. iyaṃ devī nṛtyati. = ⟪इयं देवी नृत्यति⟫
+11. eṣa devo yudhyate. = ⟪एष देवो युध्यते⟫
+12. sa sṛjati. = ⟪स सृजति⟫
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
+**C) 請將以下句子轉化為 Ātmanepada 形式：**
+1. rāmo yajati. = ⟪रामो यजति⟫
+2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
-1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫
-2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫
-
-**D) Bilden Sie das Femininum zu:**
-1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫
+**D) 請將下列句子轉化為陰性形式：**
+1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
-3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫
-4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫
-5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫
+3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
+4. kṣatriyo yudhyate。= ⟪क्षत्रियो युध्यते⟫
+5. devo guruḥ。= ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
-1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
-2. śūdretarā. = ⟪शूद्रेतरा⟫
+**E) 請翻譯：**
+1. devatānnapūrṇā。= ⟪देवतान्नपूर्णा⟫
+2. śūdretarā。= ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
 4. kavirmāghaḥ. = ⟪कविर्माघः⟫
-5. devyumā. = ⟪देव्युमा⟫
-6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫
-7. dhenurviśati. = ⟪धेनुर्विशति⟫
-8. guruścaitanyaḥ. = ⟪गुरुश्चैतन्यः⟫
-9. devīndrāṇī. = ⟪देवीन्द्राणी⟫
-10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
+5. devyumā。= ⟪देव्युमा⟫
+6. śrutirvedaḥ。= ⟪श्रुतिर्वेदः⟫
+7. dhenurviśati。= ⟪धेनुर्विशति⟫
+8. guruścaitanyaḥ。= ⟪गुरुश्चैतन्यः⟫
+9. devīndrāṇī。= ⟪देवीन्द्राणी⟫
+10. sādhurguruḥ。= ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) 請譯為梵文：**
+1. 羅摩（作為祭司）進行祭祀。
+2. 杜爾迦是一位女神。
+3. 米納克希（Mīnākṣī）是一位女神。
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
-(Bildquelle: Wikipedia, Public domain)
+**米納克希**（⟪मीनाक्षी⟫)，米納克希神廟，馬杜賴，泰米爾納德邦
+（圖片來源：維基百科，公有領域）
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
-15. Diese Brahmanen opfern im Auftrag anderer.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
-18. Geht es Ihnen gut?
-19. (Es geht mir) in jeder Hinsicht gut.
+4. 他們感到困惑。
+5. 羅摩是一位聖人。
+6. 誰是主？
+7. 因陀羅是主。
+8. 牲畜進入了。
+9. 毗濕奴使之顯現＝毗濕奴創造。
+10. 再出生者是善的。
+11. 三部吠陀（知識）即《薩摩吠陀》、《梨俱吠陀》與《夜柔吠陀》。（2種可能）
+12. 這位女神是善的。
+13. 五種「苦」是：無明、我執、情慾（愛）、憎恨、對肉身的執著。（2種可能）
+14. 「梵的安住狀態」是：友善的善意、同情、樂見他人之喜、平等心。 （2種可能）
+15. 這些婆羅門受他人委託進行祭祀。
+16. 婆羅門、剎帝利和吠舍皆為「二度誕生者」。（2種可能）
+17. （君主應修習的）學問包括：哲學、三部吠陀、經濟學與政治學。（2 種可能）
+18. 您一切安好嗎？
+19. （我）各方面都很好。

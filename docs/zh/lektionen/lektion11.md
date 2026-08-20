@@ -1,140 +1,142 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "第11課"
+subtitle: "雙重賓格（人與事物的賓格）"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第11課
 
-## 11.1. 双宾格
+## 11.1. 雙重賓格
 
 ::: grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
+**某些動詞可支配雙重賓格（dvitīyā）：人的賓格與事物的賓格。**
 
-**Hierzu gehören:**
-- **Verben des Sprechens**: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen
-- **Verben des Fragens**: jemanden (Akkusativ) nach etwas (Akkusativ) fragen
-- **Verben des Lehrens**: jemanden (Akkusativ) etwas (Akkusativ) lehren
-- einige weitere Verben, bei denen es in den Wortlisten vermerkt wird
+**包括以下幾類：**
+**言說動詞**：對某人（賓格）談論某事（賓格）；告訴某人（賓格）某事（賓格）
+**詢問動詞**：向某人（賓格）詢問某事（賓格）
+**教導動詞**：教某人（賓格）某事（賓格）
+詞典中另有標註的其他動詞
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.**
+**若將此類結構變為被動態，則人（被詢問者等）變為主格（prathamā），事物（所問之事等）仍保留在賓格。**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
+例如 **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो ब्राह्मणं धर्मं पृच्छति⟫ = 「羅摩向婆羅門詢問正法。」
+» 被動態：**rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण ब्राह्मणो धर्मं पृच्छयते⟫
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):**
+**此規則僅適用於人與事物均為賓語的情況。若事物是唯一宾语，則根據被動態的基本規則，該事物變為主格（prathamā）：**
 
-z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
+例如 **rāmo dharmaṃ pṛcchati** = ⟪रामो धर्मं पृच्छति⟫ = 「羅摩詢問正法。」
+» 被動態：**rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण धर्मः पृच्छयते⟫
 :::
 
-## 11.2. 词汇表
+## 11.2. 詞彙表
 
-**Lernen Sie folgende Wörter:**
+**請學習以下單字：**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+**iti** ⟪इति⟫ ：如此
+用於思想、願望、言論或引文的表述之後，相當於引號（"）。
+例如 **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** 「婆羅門說：『善人往生天界』」=「婆羅門說，善人往生天界」。
+梵語中沒有間接引語；使用 **iti** 構成的句子在德語中通常需轉述為間接引語。
+**... (引文) ... iti śrutiḥ** = 「吠陀如是說」。
+**iti** 之後常隱含一個思考動詞：「心想：'...'，他這樣做」。在德語中應以符合習慣的方式表達（例如「因為他餓了，所以他……」）。
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
+**evam** ⟪एवम्⟫：如此（副詞用法，例如 **evaṃ jayati**「他如此獲勝」）。
+**na** ⟪न⟫：不
+否定單個詞彙（緊接在該詞之前：**na sādhuḥ**「非善良者」）或整個句子（位於句首或動詞之前）。
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
+**putra** 陽性 ⟪पुत्र⟫：兒子（在印度，生育一個能為祖先奉獻祭品的兒子是必要的。）
+**dharma** 陽性 ⟪धर्म⟫：（「那堅固之物」，即）正法、法律、習俗、品格。
+最接近自然法則/道德法則的概念。每個人根據 **varṇa**（種姓）和 **āśrama**（人生階段）都有其自身的職責（**svadharma**）。
+**adharma** 陽性 ⟪अधर्म⟫：非正法（與 **dharma** 相對）。
+**iṣ** 第六變位（icchati）⟪इष् इच्छति⟫：渴望、希望（**iṣ-ccha-ti**）。
 
-**Einige Nominalbildungen:**
+**一些名詞派生：**
 
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+**vad** 第一變位 ⟪वद्⟫：說
+**vāda** 陽性 ⟪वाद⟫：言論、陳述、話語
+**vadana** 中性 ⟪वदन⟫：說話；發聲器官：嘴、臉
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+圖示：**vadanāni** = ⟪वदनानि⟫
+（圖片來源：[詳情](/zh/licenses#lekt1102)）
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+**prach** 第六變位 ⟪प्रच्छ्⟫：詢問
+**praśna** 陽性 ⟪प्रश्न⟫：問題（後綴 **-na**，如同 **yaj-ña**）
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
+**iṣ** 第六變位 ⟪इष्⟫：渴望、希望
+**iṣṭi** 陰性 ⟪इष्टि⟫：願望（由 **iṣ** + **-ti** 構成）
 
-## 11.3. 练习
 
-**A) Übersetzen Sie untenstehende Sätze:**
+## 11.3. 練習
 
-1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
-2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
-3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ |
-4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ |
-5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ |
-6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ |
-7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ |
-8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫
-9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | |
-10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | |
-11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
-12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
+**A) 翻譯下列句子：**
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.**
+1. ⟪ऋषिः सत्यं वदति⟩ |
+2. ⟪ब्राह्मणः पुत्रमिच्छति⟩ |
+3. ⟪साधुः स्वर्गं गच्छति⟩ |
+4. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः⟩ |
+5. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति⟩ |
+6. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति⟩ |
+7. ⟪पुत्रः पापं करोतीति वैश्या मन्यते⟩ |
+8. ⟪क्षत्रियः क्षत्रियेण सह युध्यते⟩
+9. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति⟩ | |
+10. ⟪अयं क्षत्रियो धर्मं रक्षति⟩ | |
+11. ⟪को ऽग्निं यजते⟩ | |
+12. ⟪स श्रावको बुद्धं धर्मं पृच्छति⟩ ||
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.**
+**B) 將 A) 中的句子轉換為被動語態。**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
+**C) 在 A) 的句子中，將主詞、受詞和動詞改為複數形式（若語意合適）。**
+
+**D) 將 C) 中構成的句子轉換為被動語態。**
 
 ::: media
 ![](/images/lekt1101.webp)
-Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Bildquelle: [Details](/licenses#lekt1101))
+圖：**śrāvako mahākāśyapaḥ** = ⟪श्रावको महाकाश्यपः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1101)）
 :::
 
-## 11.4. Wiederholungsübung
+## 第11.4節。複習練習
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:**
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
-2. Der Lehrer spricht ein Mantra.
-3. Heilige Frauen gelangen in einen Himmel.
-4. Ein vedischer Weiser tut nichts Böses.
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
-6. Die Śūdrafrau geht ins Dorf.
-7. Wer sieht die Wahrheit?
+**A) 將以下句子翻譯成梵文，使用被動語態：**
+1. 吠舍婦女向婆羅門詢問正法（Dharma）。
+2. 老師誦唸一個曼怛羅（Mantra）。
+3. 聖女們升入天界。
+4. 一位吠賢者不做任何惡事。
+5. 婆羅門作為祭師，以供品崇拜女神。
+6. 首陀羅婦女前往村莊。
+7. 誰看見了真理？
 
 **B)**
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
+1. 使用並列複合詞（Dvandva）指出所有再生族（Dvija）的職責。將該複合詞拆解為梵文形式。
+2. 使用並列複合詞（Dvandva）指出吠舍的職責。將該複合詞拆解為梵文形式。
 
-**C) Übersetzen Sie:**
+**C) 翻譯以下句子：**
 
-1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
-2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
-3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | |
-4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | |
-5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | |
+1. ⟪श्रवणेन श्रूयते⟫ | |
+2. ⟪कर्षर्कैः कृष्यते⟫ | |
+3. ⟪श्रावकेणेश्वरो नेज्यते⟫ | |
+4. ⟪रक्षिक्या गुरू रक्ष्यते⟫ | |
+5. ⟪ब्राह्मणेनानृतं नोद्यते⟫ | |
 6. ⟪शूद्रेतरा⟫ | |
-7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
-8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
+7. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ | |
+8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः⟫ ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:**
+**D) 翻譯以下句子，並在梵文中將施事者、受詞和動詞改為複數形式：**
 
 1. ⟪फलमश्नुते⟫ | |
-2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
-3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
-4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
+2. ⟪गुरुणा सत्यमुद्यते⟫ | |
+3. ⟪वैश्यः पशुं लभते⟫ | |
+4. ⟪पुत्रः पुण्यं करोति⟫ ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
+**E) 將 C) 1-5 的句型轉換為主動語態。**
 
 ::: media
 ![](/images/lekt1103.webp)
-Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Details](/licenses#lekt1103))
+圖： **karṣakeṇa kṛṣyate** = ⟪कर्षकेण कृष्यते⟫
+（圖片來源：[詳情](/zh/licenses#lekt1103)）
 :::

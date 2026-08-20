@@ -1,15 +1,15 @@
-
 ---
-title: "Übung 23"
+title: "練習23"
 uebung_id: 23
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習23
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+A)以下詞根構成不定式時不加連接元音 -i-。請在注意音變的情況下，構建以下詞根的不定式：
 
 1.  ⟪आप्⟫ — ⟪आप्तुम्⟫
 2.  ⟪इ⟫ — ⟪एतुम्⟫
@@ -24,8 +24,8 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 11.  ⟪द्विष्⟫ — ⟪द्वेष्टुम्⟫
 12.  ⟪नी⟫ — ⟪नेतुम्⟫
 13.  ⟪पद्⟫ — ⟪पत्तुम्⟫
-14.  ⟪पा⟫ ⟪१⟫ — ⟪पातुम्⟫
-15.  ⟪पा⟫ ⟪२⟫ — ⟪पातुम्⟫
+14.  ⟪पा १⟫ — ⟪पातुम्⟫
+15.  ⟪पा २⟫ — ⟪पातुम्⟫
 16.  ⟪भज्⟫ — ⟪भक्तुम्⟫
 17.  ⟪कृष्⟫ — ⟪कर्ष्टुम्⟫ / ⟪क्रष्टुम्⟫
 18.  ⟪सु⟫ — ⟪सोतुम्⟫
@@ -49,7 +49,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 36.  ⟪पच्⟫ — ⟪पक्तुम्⟫
 37.  ⟪सद्⟫ — ⟪सत्तुम्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
+B)以下詞根構成不定式時需加連接元音 -i-。請構建以下詞根的不定式：
 
 1.  ⟪आस्⟫ — ⟪आसितुम्⟫
 2.  ⟪नृत्⟫ — ⟪नर्तितुम्⟫
@@ -59,7 +59,7 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  ⟪वृत्⟫ — ⟪वर्तितुम्⟫
 7.  ⟪कुप्⟫ — ⟪कोपितुम्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+C)以下詞根可選擇性地加或不加連接元音：
 
 1.  ⟪अश्⟫ — ⟪अशितुम्⟫ / ⟪अष्टुम्⟫
 2.  ⟪इष्⟫ — ⟪एष्टुम्⟫ / ⟪एषितुम्⟫
@@ -67,156 +67,153 @@ C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
 4.  ⟪मुह्⟫ — ⟪मोहितुम्⟫ / ⟪मग्धुम्⟫ / ⟪मोढुम्⟫
 5.  ⟪सह्⟫ — ⟪सहितुम्⟫ / ⟪सोढुम्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+D) 請翻譯並解析複合詞：
 
-⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Um einen Himmel zu erlangen, wünschen Menschen, Götter mit Opfern zu verehren.
+⟪१⟫。 **⟪नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥⟫**
+為了獲得天界，人們希望透過供養來敬拜諸神。
 
-⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
-(⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
-Wenn jemand viel Verdienstliches getan hat, kann ein Mensch, der frei von Bösem ist, nicht in eine Hölle kommen.
+⟪२⟫。 **⟪महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥⟫**
+（⟪महत्पुण्यम् । गतं पापं यस्य तेन जनेन⟫）
+若有人已造作大量善業，則無惡之人不會墮入地獄。
 
-⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
-(⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
-Da verdienstvolle Taten fruchtbar sind, will ein guter Mensch kein Unrecht tun.
+⟪३⟫。 **⟪फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫**
+（⟪सञ्जनः । न धर्मम्⟫）
+由於善行具有果報，善良之人不會作惡。
 
-⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-Um die Welten zu erlösen, lehrt Buddha die edlen Wahrheiten.
+⟪४⟫。 **⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫**
+為了救度諸世界，佛陀宣說聖諦。
 
-⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
-(⟪शूद्राणां⟫ ⟪जनः⟫)
-Śūdras dürfen mit einem Brahmanen zusammen nicht essen.
+⟪५⟫。 **⟪शूद्रजनो ब्राह्मणेन सहात्⟫tu⟪ं नार्हति ॥५॥⟫**
+（⟪शूद्राणां जनः⟫）
+首陀羅不得與婆羅門共同進食。
 
-⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
-(⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
-Voll Gier sind die Männer gegangen, um die wunderschöne Dienerin tanzen zu sehen.
+⟪६⟫。 **⟪लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥⟫**
+（⟪लोभेन सम्पन्ना नराः । सम्पन्नं रूपं यस्यास्ताम्⟫）
+充滿貪慾的男子們前往觀看美麗侍女跳舞。
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+⟪७⟫。 **⟪शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥⟫**
+若婆羅門與首陀羅發生性行為，他不得進行供養。
 
-⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
-(⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die Grossstadt gegangen, um den Meister zu treffen.
+⟪८⟫。 **⟪धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫**
+（⟪श्रोतुं कामो यस्याः सा । पुत्रेण सह । महन्नगरम्⟫）
+由於她想聆聽達摩，婆羅門女帶著兒子前往大城市以拜見導師。
 
 ---
 
-## Scholarly Fragment
+## 學術片段
 
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषा्मधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
-Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervorhebende Unterschied der Menschen liegt im Dharma. Ohne Dharma sind sie dem Vieh gleich.
+⟪आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषा्मधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫  
+飲食、睡眠、恐懼與性愛，是人與牲畜共有的。人之所以為人的顯著區別在於達摩（正法）。沒有達摩，他們便與牲畜無異。
 
 ::: media
 ![](/images/uebung035.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
-(Bildquelle: [Details](/licenses#uebung035))
+圖：⟪आहारनिद्राभयमैथुनं च⟫
+（圖片來源：[詳情](/licenses#uebung035)）
 :::
 ---
 
-## Zusätzliche Übungen
+## 額外練習
 
-A) Übersetzen Sie ins Sanskrit:
+A) 譯為梵文：
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
-**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫**
+1\. 五種（⟪पञ्च⟫）「苦難」是：無知、對自我的錯誤信念、貪愛、憎惡以及對身體的執著。
+**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः ।⟫**
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
-**⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫ ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫ ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫**
+2\. 知識可透過對師長的順從、大量的金錢或交換知識而獲得。不存在第四種獲取知識的方式。
+**⟪गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫**
 
-3\. Ein Niedriger spricht, handelt aber nicht; ein Guter spricht nicht, sondern handelt nur.
-**⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥⟫**
+3\. 卑劣者言而不行；善良者不言而僅行。
+**⟪निचो वदति न कुरुते वदति न साधुः करोत्येव ॥⟫**
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
-**⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫**
+4\. 吠陀的輔助學科是：發音學、儀式學、語法學、詞義學、韻律學（⟪छन्दस्⟫）和曆法學。
+**⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫**
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
-**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫**
+5\. 瑜伽是止息思維器官的活動。
+**⟪योगश्चित्तवृत्तिनिरोधः ॥⟫**
 
-6\. Recht siegt, nicht Unrecht; Wahrheit siegt, nicht Lüge; Geduld siegt, nicht Zorn; Gott siegt, nicht ein Gegengott. (Passiv)
-**⟪धर्मो⟫ ⟪जयति⟫ ⟪नाधर्मः⟫ ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪।⟫ ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫ ⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪॥⟫**
+6\. 正義勝於不義；真理勝於虛妄；忍耐勝於憤怒；神勝於敵對之神。（被動語態）
+**⟪धर्मो जयति नाधर्मः सत्यं जयति नानृतम् । क्षमा जयति न क्रोधो देवो जयति नासुरः ॥⟫**
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
-**⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫**
+7\.「棍棒」能帶來哲學、吠陀與經濟學的獲得及穩固的擁有。執掌這根棍棒即是政治。
+**⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥⟫**
 
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
-**⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫ ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫ ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫ ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫**
+8\.妻子、兒子與僕役，這三者（⟪त्रयस्⟫）依傳統傳承被視為無財產者。凡此三者所獲取的，皆歸屬於擁有這三者（三人）的人。
+**⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥⟫**
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
-**⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫ ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ ⟪।⟫ ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫ ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ⟪॥⟫**
+9\.蚊蟲渴望傷口，統治者渴望財富，卑劣者渴望爭端，善良者渴望和平。
+**⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः । नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः ॥⟫**
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
-**⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪।⟫ ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪।⟫ ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥⟫**
+10\.婆羅門的特定職責是：學習、教導、作為祭主進行祭祀、代為舉行祭祀、施捨與接受；剎帝利的職責是：學習、作為祭主進行祭祀、施捨、以武器維生、保護眾生；吠舍的職責是：學習、作為祭主進行祭祀、施捨、農業、畜牧與貿易；首陀羅的職責是：服從再生族，從事經濟活動，以及（⟪कर्म⟫）工匠與表演者的工作。
+**⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च । क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च । वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च । शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥⟫**
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
-**⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫**
+11\.透過對慈、悲、喜、捨這四無量心的冥想修習，以苦樂與善惡為對象，即可達成對意識的澄清。
+**⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥⟫**
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
-**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫**
+12\. 窮人擁有許多兒子，儘管他們並不期盼。富人卻無子嗣。命運的擺弄真是奇特。
+**⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫**
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
-**⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫ ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫ ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫ ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫**
+13\. 誰不被一個擁有纖細腰身、寬闊臀部、紅潤雙唇、漆黑眼眸、彎曲肚臍、挺拔乳房的女性軀體所殺害？(⟪वपुस्⟫ f.)
+**⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫**
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ (f.):
+B) 請以所有您熟悉的格位變位 ⟪क्षत्रिया⟫ (f.)：
 
-| Kasus | Singular | Plural |
+| 格位 | 單數 | 複數 |
 | :--- | :--- | :--- |
-| 1. Nom. | ⟪क्षत्रिया⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
-| 2. Akk. | ⟪क्षत्रियाम्⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
-| 3. Instr. | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
-| 6. Gen. | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
+| 1. 主格 | ⟪क्षत्रिया⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
+| 2. 賓格 | ⟪क्षत्रियाम्⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
+| 3. 工具格 | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
+| 6. 屬格 | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+C) 請提供以下動詞的詞幹形式（意義、現在時類別、語氣、第三人稱單數現在時直陳式、第三人稱單數被動式、過去分詞、絕對副詞、不定詞）：
 
 ::: grammar-box
-⟪१⟫. ⟪सह्⟫ (1Ā, ertragen)
+⟪१⟫. ⟪सह्⟫ (第一類，承受)
 
-| Form | Wert |
+| 形式 | 值 |
 | :--- | :--- |
-| Präs. Ind. | ⟪सहते⟫ |
-| Passiv | ⟪सह्यते⟫ |
-| PPP | ⟪सोढ⟫ |
-| Absolutiv 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
-| Absolutiv 2 | -⟪सह्य⟫ |
-| Infinitiv | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
+| 現在時直陳式 | ⟪सहते⟫ |
+| 被動式 | ⟪सह्यते⟫ |
+| 過去分詞 (PPP) | ⟪सोढ⟫ |
+| 絕對副詞 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
+| 絕對副詞 2 | -⟪सह्य⟫ |
+| 不定詞 | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
 
-⟪२⟫. ⟪पा⟫ (trinken / hüten)
+⟪२⟫. ⟪पा⟫ (飲用 / 守護)
 
-| Form | trinken (1P) | hüten (2P) |
+| 形式 | 飲用 (第一類) | 守護 (第二類) |
 | :--- | :--- | :--- |
-| Präs. Ind. | ⟪पिबति⟫ | ⟪पाति⟫ |
-| Passiv | ⟪पीयते⟫ | ⟪पायते⟫ |
-| PPP | ⟪पीत⟫ | ⟪पात⟫ |
-| Absolutiv 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
-| Absolutiv 2 | -⟪पाय⟫ | -⟪पाय⟫ |
-| Infinitiv | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
+| 現在時直陳式 | ⟪पिबति⟫ | ⟪पाति⟫ |
+| 被動式 | ⟪पीयते⟫ | ⟪पायते⟫ |
+| 過去分詞 (PPP) | ⟪पीत⟫ | ⟪पात⟫ |
+| 絕對副詞 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
+| 絕對副詞 2 | -⟪पाय⟫ | -⟪पाय⟫ |
+| 不定詞 | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
 
-⟪३⟫. ⟪वच्⟫ (2P, sprechen)
+⟪३⟫。⟪वच्⟫（第二人稱，說話）
 
-| Form | Wert |
+| 形式 | 值 |
 | :--- | :--- |
-| Präs. Ind. | ⟪वक्ति⟫ |
-| Passiv | ⟪उच्यते⟫ |
-| PPP | ⟪उक्त⟫ |
-| Absolutiv 1 | ⟪उक्त्वा⟫ |
-| Absolutiv 2 | -⟪उच्य⟫ |
-| Infinitiv | ⟪वक्तुम्⟫ |
+| 現在時直陳式 | ⟪वक्ति⟫ |
+| 被動語態 | ⟪उच्यते⟫ |
+| 過去被動分詞 (PPP) | ⟪उक्त⟫ |
+| 絕對構式 1 | ⟪उक्त्वा⟫ |
+| 絕對構式 2 | -⟪उच्य⟫ |
+| 不定詞 | ⟪वक्तुम्⟫ |
 
-⟪४⟫. ⟪हन्⟫ (2P, erschlagen)
+⟪४⟫。⟪हन्⟫（第二人稱，擊殺）
 
-| Form | Wert |
+| 形式 | 值 |
 | :--- | :--- |
-| Präs. Ind. | ⟪हन्ति⟫ / ⟪घन्ति⟫ |
-| Passiv | ⟪हन्यते⟫ |
-| PPP | ⟪हत⟫ |
-| Absolutiv 1 | ⟪हत्वा⟫ |
-| Absolutiv 2 | -⟪हत्य⟫ |
-| Infinitiv | ⟪हन्तुम्⟫ |
+| 現在時直陳式 | ⟪हन्ति⟫ / ⟪घन्ति⟫ |
+| 被動語態 | ⟪हन्यते⟫ |
+| 過去被動分詞 (PPP) | ⟪हत⟫ |
+| 絕對構式 1 | ⟪हत्वा⟫ |
+| 絕對構式 2 | -⟪हत्य⟫ |
+| 不定詞 | ⟪हन्तुम्⟫ |
 :::
 ::: media
 ![](/images/uebung036.webp)
-Abb.: ⟪बालाः⟫ ⟪पिबन्ति⟫
-(Bildquelle: [Details](/licenses#uebung036))
+圖：⟪बालाः पिबन्ति⟫
+（圖片來源：[詳情](/licenses#uebung036)）
 :::
 

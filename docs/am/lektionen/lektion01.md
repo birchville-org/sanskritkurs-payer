@@ -1,15 +1,13 @@
 ---
-title: "ትምህርት 1"
-subtitle: "የሳንስክሬት ገፀ ባህርያት"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
-
 ---
 
 # ትምህርት 1
-
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -74,10 +72,11 @@ pārvatīparameśvarau |**
 
 በመጀመሪያ አንድ ጭብጦም፡
 
-
->"ዊልያም ሆንስ [1746–1794] እና ንሪ ቶማስ ሆልብሩክ (1765—1857) ሳንስክሪት በመጀመሪያ ጥልቅ ተማርተው፣ በከፊል ተረድተው እና ጥቅም ያለው መጽሐፍት እና ከክላሲካል ቋንቋዎች ጋር ያለው የተፈጥሮ ተመሳሳይነት እንዳለው ሲያገኙ፣ በእጅጉ ተቃውሞ አጋጥመዋል። ይህ የሳንስክሪት ከአውሮፓዊ ቋንቋዎች ጋር ያለው የተፈጥሮ ተመሳሳይነት ከዓለም አቀፉ ቋንቋዎች ጋር በተያያዘ የሚገኙትን አስተሳሰቦች ከዚያ ጊዜ በኋላ የተፈጥሯቸውን ተመሳሳይነት ማስተካከል አይቻልም፣ በዚህ ምክንያት ታዋቂው ፊሎሎጅስት ዱጋልድ ስቲውርድ (1753—1828) ቀላል መፍትሄ ሲያገኝ ነበር፣ ይህም ሳንስክሪት ቋንቋ በሙሉ እውነት አለመሆኑን ማስተዋል ነበር። ይህም በአንድ ጽሑፍ ላይ ይህንን እውነት ማስተዋል ነበር፣ ይህም በብራማኖች የተዘጋጀ እና ከግሪክ እና ላቲን ቋንቋዎች የተገነባ እና በሁለቱም ቋንቋዎች እና መጽሐፍት ላይ የተዘጋጀ ነው ብሏል። ይህ አስተሳሰብ በ1840 ዓ.ም. በዱብሊን ፕሮፌሰር ቻርልስ ዊልያም ዋል በዝግታ ሲያስተውል (Göttingische gelehrte Anzeigen 1842 S. 1888)።"
 >
 >[ምንጭ፡ **ኬመሪች**፣ ማክስ (1876–1932)፡ ኩልቱር-ኩሪዮሳ። -- ሙንከን : ላንገን። -- ብድ 2. -- 1923. -- ገጽ 74. -- ኦንላይን፡ [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft)። -- ጥቅም ላይ በ2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. ለአዲስ ተማሪዎች በኢንዶሎጂ ውስጥ ስለአካባቢያዊ ተማሪ ዓይነት
 
@@ -97,7 +96,9 @@ pārvatīparameśvarau |**
 
 በጣም ልዩ የሆነ ተማሪ ዓይነት፡
 
-> **ኬልዮርን**, ፍራንስ (1840–1908)፡ ግራማቲክ ናንስ ታርት / ከአንግሊዝኛ ወደ አማርኛ ትርጉም በ W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- የመነሻ ቃለ መርከብ፡ A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -117,7 +118,9 @@ pārvatīparameśvarau |**
 
 በአማርኛ ተመሳሳይ ከአስተማር በፊት ያለውን ባህል ማስተዋል በአማርኛ ውስጥ ከአስተማር በፊት ያለውን ባህል ማስተዋል፡
 
-> **የጀርመን ቋንቋ የስም ምሽት መዝገበ ቃላት** / [Friedrich] Kluge (1856–1926). Elmar Seebold አዘጋጅቷል. -- 24., በሰፊው የተመረመረ እና ተዘጋጀ. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 ገጽ : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- ገጽ XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -129,7 +132,6 @@ pārvatīparameśvarau |**
 
 > **የቋንቋ ሳይንስ መዝገበ ቃላት** / Hadumod Bussmann አስተዳድረው። -- 4., በሰፊው የተመረመረ እና ቢብዮግራፊያዊ የተሟላ ስብስብ / Hartmut Lauffer በመተባበር። -- Stuttgart : Kröner, 2008. -- 816 ገጽ ; 22 cm. -- ISBN 978-3-520-45204-7
 
-
 ## 1.2. የሳንስክሬት ድምፎች
 
 የሳንስክሬት ድምፎች በባህላዊው የኢንዲያ ምደባ መሠረት እና ሳይንሳዊ የጽሕፈት ቅርጻቸው።
@@ -138,9 +140,15 @@ pārvatīparameśvarau |**
 ![](/images/lekt0106.webp)
 (የምስል ምንጭ፡ [ዝርዝሮች](/am/licenses#lekt0106))
 :::
-> ዘመናዊ የሳንስክሬት መዝገበ ቃላት በዚህ ምደባ ቅደም ተከተል የተዘጋጁ ናቸው። ይህ ምደባ የሳንስክሬት ቋንቋ ህግን ለመረዳት አስፈላጊ ነው፤ ስለዚህም በአእምሮ መያዝ ያስፈልጋል፡
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
 
 ::: note-box
+Klassifikation <!-- TODO: Fallback translation -->
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
 ምደባ
 **ቀላል ቁጥጥር ያለው ስም** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -161,18 +169,17 @@ pārvatīparameśvarau |**
 ::: laut-table
 | ድምጽ | መግለጫ |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "አጭር a" በሕንዶች መካከል -- ከጥንት ጀምሮ -- ብዙውን ጊዜ እንደ ə ይፈነዳል። በአውሮጳ እንደ አጭር a ይነበባል፤ በብengal ደግሞ እንደ አጭር ጨለማ o ይነበባል።
-| **ṛ - ⟪ऋ⟫** | እንደ ቼክ የተገነባ r። ቀላል የ i ሬዚኒያንስ (resonance)።
-| **ṝ - ⟪ॠ⟫** | እንደ ቼክ የተገነባ r። ቀላል የ u ሬዚኒያንስ (resonance)።
-| **jñ - ⟪ज्ञ्⟫** | እንደ dny (ማራቲ) ወይም gy (ሰሜን ሕንድ)።
-| **ś - ⟪श्⟫** | እንደ sch ድምጽ ከታች የተጣመመ ቋንቋ ጫፍ ያለው። እንደ "mischen" ውስጥ ካለው sch ጋር ተመሳሳይ።
-| **ṣ - ⟪ष्⟫** | እንደ ach ድምጽ ከኋላ የተጣመመ ቋንቋ ጫፍ ያለው። በተደጋጋሚ እንዲህ ያለ በጉልበት ላይ ከተነጠቀ ብዙውን ጊዜ እንደ kh ይሆናል።
-| **h - ⟪ह्⟫** | የአየር ድምጽ (Aspiration)፣ ምንም ጊዜ የማራዘሚያ ምልክት አይደለም።
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫። ከቀድሞው ቃና ወይም ከቅድመ-ግንኙነት (diphthong) ሁለተኛ ክፍል ጋር የሚዛመድ ያልተነጣጠለ አየር ድምጽ፡ agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu
-| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫። በሸርተታ ድምጾች (sibilants)፣ h, l ቅድሚያ ላይ የቃናውን ናዛልነት (nasalization)። በመጨረሻ ላይ = m። በውስጥ ከቃናዎች ቅድሚያ ላይ፡ ከቀጣዩ ቃና ጋር የሚዛመድ ናዛል፡ saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫
+| **a - ⟪अ⟫** | "አጭር a" በሕንዶች መካከል -- ከጥንት ጀምሮ -- ብዙውን ጊዜ እንደ ə ይፈነዳል። በአውሮጳ እንደ አጭር a ይነበባል፤ በብengal ደግሞ እንደ አጭር ጨለማ o ይነበባል። |
+| **ṛ - ⟪ऋ⟫** | እንደ ቼክ የተገነባ r። ቀላል የ i ሬዚኒያንስ (resonance)። |
+| **ṝ - ⟪ॠ⟫** | እንደ ቼክ የተገነባ r። ቀላል የ u ሬዚኒያንስ (resonance)። |
+| **jñ - ⟪ज्ञ्⟫** | እንደ dny (ማራቲ) ወይም gy (ሰሜን ሕንድ)። |
+| **ś - ⟪श्⟫** | እንደ sch ድምጽ ከታች የተጣመመ ቋንቋ ጫፍ ያለው። እንደ "mischen" ውስጥ ካለው sch ጋር ተመሳሳይ። |
+| **ṣ - ⟪ष्⟫** | እንደ ach ድምጽ ከኋላ የተጣመመ ቋንቋ ጫፍ ያለው። በተደጋጋሚ እንዲህ ያለ በጉልበት ላይ ከተነጠቀ ብዙውን ጊዜ እንደ kh ይሆናል። |
+| **h - ⟪ह्⟫** | የአየር ድምጽ (Aspiration)፣ ምንም ጊዜ የማራዘሚያ ምልክት አይደለም። |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫። ከቀድሞው ቃና ወይም ከቅድመ-ግንኙነት (diphthong) ሁለተኛ ክፍል ጋር የሚዛመድ ያልተነጣጠለ አየር ድምጽ፡ agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫። በሸርተታ ድምጾች (sibilants)፣ h, l ቅድሚያ ላይ የቃናውን ናዛልነት (nasalization)። በመጨረሻ ላይ = m። በውስጥ ከቃናዎች ቅድሚያ ላይ፡ ከቀጣዩ ቃና ጋር የሚዛመድ ናዛል፡ saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 ምርጥ የልዩጥ ችሎታ በመፃኄት፣ በዜማ ወይም ቃላት በቀስታ እና በተመሳሳይ ልዩጥ ከቃናዎች ርዝመት በትክክል ጋር ነው።
-
 
 ## 1.3. ማሰልጠኒያ
 

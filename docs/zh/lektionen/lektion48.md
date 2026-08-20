@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "第48課"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第48課
@@ -12,53 +13,41 @@ status: stable
 ## 48.1. ⟪सुभाषितानि⟫
 
 ::: center
-⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
-
-⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
-
-⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫
-
-⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫
-
-⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫
-
-⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
-
-⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
+⟪सत्यम् वद ॥१॥ धर्मं चर ॥२॥ मातृदेवो भव ॥३॥ गौरवं प्राप्यते दानात् ॥४॥ श्वः कार्यमद्य कुर्वीत ॥५॥ विद्याविहीनः पशुः ॥६॥ लाघवं वैयाकरणस्य भूषणम् ॥७॥⟫
 :::
-## 48.2. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
+## 48.2. 命令式的構成（⟪लोट्⟫）非主題性現在詞幹
 
-### 48.2.1. 结尾 des Imperativ an athematischen Präsensstämmen
+### 48.2.1. 非主題性現在詞幹的命令式詞尾
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
+| **第一人稱** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **第二人稱** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **第三人稱** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **第三類：-atu** :br(除...外 -\*ntu) | \-atām:br(除...外：-\*ntām) |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm.
+註：¹ 第二和第三人稱單數的命令式詞尾可用 -tāt 取代，若需表達祝福願望。-tāt（包括第三人稱單數）附加於弱式詞幹上。
 
 ::: grammar-box
-| **Zur Form der Endung der 2.sg.Imperativ.P:** ||
+| **第二人稱單數命令式詞尾的形式：** ||
 | :---: | :--- |
-| **\-ø** | Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
-| **\-āna** | Wurzeln der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Endung \-āna |
-| **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) |
-| **\-dhi** | Alle übrigen Fälle |
+| **\-ø** | 第五類和第八類的詞根，其末尾的 \-u 前僅有一個輔音。 |
+| **\-āna** | 第九類以輔音結尾的詞根，用 \-āna 取代 -nī+詞尾 |
+| **\-hi** | 所有其他以元音或半元音結尾的現在詞幹（例外：⟪जुहुधि⟫ 對應 **⟪हु⟫ 第三類**） |
+| **\-dhi** | 所有其他情況 |
 :::
-### 48.2.2. Form des Präsensstamms
+### 48.2.2. 現在詞幹的形式
 
 ::: grammar-box
-**Starker Stamm:**
+**強式詞幹：**
 
-*   **3.sg.P Imperativ**
-*   **3.sg.P Imperativ**
+*   **所有第一人称命令式**
+*   **第三人称单数命令式**
 
-**Schwacher Stamm: alle übrigen Formen**
+**弱词干：所有其他形式**
 :::
-### 48.2.3. 第二类现在时词干 (⟪अदादि⟫)
+### 48.2.3. 第二现在时类（⟪अदादि⟫）
 
 ⟪द्विष्⟫ 2U
 
@@ -66,9 +55,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
 
@@ -76,9 +65,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
@@ -86,9 +75,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
 ⟪इ⟫ 2P
 
@@ -96,19 +85,19 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
-⟪शी⟫ 2Ā (immer hochstufig!)
+⟪शी⟫ 2Ā（始終為高階！）
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *:sig[⟪शेरताम्⟫]* |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | :sig[⟪शेरताम्⟫] |
 :::
 ⟪हन्⟫ 2P
 
@@ -116,11 +105,11 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(源自： \*hn-ta) |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
-Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
+註：¹ ⟪जहि⟫ 之解釋請參見 Thumb-Hauschild I,2 S. 253
 :::
 ⟪स्तु⟫ 2U
 
@@ -128,9 +117,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br :sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br :sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br :sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br :sig[⟪स्तुवीध्वम्⟫] |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br :sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br :sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br :sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br :sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br :sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br :sig[⟪स्तुवीध्वम्⟫] |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br :sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br :sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
 ⟪अस्⟫ 2P
 
@@ -138,9 +127,9 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | :sig[⟪एधि⟫] :br(源自： \*s-dhi) | ⟪स्त⟫ |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
@@ -148,134 +137,134 @@ Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(源自： śās + dhi):br非規則高階 | ⟪शिष्ट⟫ |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :br非規則高階 |
 :::
-### 48.2.4. 第三类现在时词干 (⟪जुहोत्यादि⟫)
+### 48.2.4. 第三現在詞類（⟪जुहोत्यादि⟫）
 
 ::: grammar-box
-**Die 3.pl.P endet auf \-atu !**
+**第三人稱複數詞尾為 \-atu！**
 :::
-⟪हु⟫ 3P
-
-::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
-
-Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinanderfolgen.
-:::
-⟪धा⟫ 3U
+⟪हु⟫ 第三人稱
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **第二人稱** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
-Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
+註：¹ 異化，因此兩個帶有 ⟪ह्⟫ 的音節不會相鄰。
 :::
-⟪हा⟫ 3P
+⟪धा⟫ 第三人稱
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+
+註：¹ ⟪धेहि⟫ 源自 \*dhazdhi：原始印歐語擦音 z 消失，並伴隨補償性延長；參見 Thumb-Hauschild I,1 S. 302
+:::
+⟪हा⟫ 第三人稱
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| **第一人稱** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **第二人稱** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **第三人稱** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
+## 48.3. 關於名詞構詞：⟪तद्धित⟫-後綴 -a 與 -ya
 
 ::: grammar-box
-Mit dem Suffix **-a** und (seltener) **-ya** kann aus einem Nomen ein anderes Nomen abgeleitet werden. Dabei erhält die erste Silbe des ursprünglichen Nomens Dehnstufe (**⟪वृद्धि⟫**). Endet der ursprüngliche Wortstamm bereits auf **-a** so ist die **⟪वृद्धि⟫** das einzige Zeichen der Ableitung, da sich am Stammauslaut nichts ändert.
+使用後綴 **-a**（較少見為 **-ya**），可以從一個名詞派生出另一個名詞。在此過程中，原始名詞的第一個音節會變為長音階（⟪वृद्धि⟫）。如果原始詞幹已經以 **-a** 結尾，那麼 ⟪वृद्धि⟫ 就是派生的唯一標記，因為詞幹結尾不會發生變化。
 
-Die abgeleiteten Wörter haben die Bedeutung:
+派生出的單詞具有如下含義：
 
-> "irgendeine Beziehung zu dem durch das Grundwort Bezeichnete habend"
+> 「與由基本詞所指稱之物有關聯」
 
-z.B.
+例如：
 
-*   "stammend von"
-*   "gehörig zu"
+*   「源自……的」
+*   「屬於……的」
 
-Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronymica (Namensbildung nach dem Vater: "Sohn des N.N.") oder Abstrakta (meist Neutra).
+如此構成的單詞是形容詞，但也可以名物化，例如作為父系名稱（根據父親命名：「某某之子」）或抽象名詞（通常為中性）。
 :::
-Beispiele:
+範例：
 
 ::: indent
-| Grundwort | Ableitung |
+| 基本詞 | 派生詞 |
 | :--- | :--- |
-| **⟪शुचि⟫** 3 "leuchtend, rein" | **⟪शौच⟫** n. "Reinheit" |
-| **⟪पुत्र⟫** m. "Sohn" | **⟪पौत्र⟫** m. "vom Sohn stammend = Sohnessohn, Enkel" |
-| **⟪गोतम⟫** m. "Besitzer sehr vieler Rinder" Eigenname | **⟪गौतम⟫** m. "Sohn des Gotama" |
-| **⟪ब्रह्मन्⟫** n. "formulierte Wahrheit, Veda, Absolutes" | **⟪ब्राह्मण⟫** m. "Wahrheitsformulierer, Brahmane" |
-| **⟪शूर⟫** 3 "heldenhaft" | **⟪शौर्य⟫** n. "Heldenhaftigkeit, Tapferkeit" |
-| **⟪राजन्⟫** m. "König" | **⟪राज्य⟫** n. "Königsherrschaft" |
-| **⟪देव⟫** m. "Himmlischer, Gott" | **⟪दैव्य⟫** 3 "himmlisch" |
-| **⟪ग्राम⟫** m. "Dorf" | **⟪ग्राम्य⟫** 3 "dörfisch" |
+| ⟪शुचि⟫ 3 「閃耀、純淨」 | ⟪शौच⟫ n. 「純潔」 |
+| ⟪पुत्र⟫ m. 「兒子」 | ⟪पौत्र⟫ m. 「源自兒子 = 孫子」 |
+| ⟪गोतम⟫ m. 「擁有極多牛隻者」專有名詞 | ⟪गौतम⟫ m. 「喬答摩之子」 |
+| ⟪ब्रह्मन्⟫ n. 「表述的真理、吠陀、絕對者」 | ⟪ब्राह्मण⟫ m. 「真理表述者、婆羅門」 |
+| ⟪शूर⟫ 3 「英勇的」 | ⟪शौर्य⟫ n. 「英勇、勇敢」 |
+| ⟪राजन्⟫ m. 「國王」 | ⟪राज्य⟫ n. 「王權」 |
+| ⟪देव⟫ m. 「天神、神」 | ⟪दैव्य⟫ 3 「天界的、神的」 |
+| ⟪ग्राम⟫ m. 「村莊」 | ⟪ग्राम्य⟫ 3 「鄉村的、農村的」 |
 :::
 ::: grammar-box
-| **Behandlung des Stammauslautes vor dem Suffix \-a:** ||
+| **後綴 \-a 前的詞幹結尾處理：** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
-| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
-| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
-| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
+| **\-ṛ** | **\-a** 通常附加在結尾 **\-r** 上::br例如 ⟪जेतृ⟫ 「勝利者」 » ⟪जैत्र⟫ 3 「戰勝的、有勝利的」 |
+| **\-a** | 以基本詞的 **\-a** 替換為新的後綴 **\-a**。.:br範例見上文。 |
+| **\-i** | 省略 **\-i** :br例如 ⟪प्रकृति⟫ f. 「自然」 » ⟪प्राकृत⟫ 3 「自然的、正常的、常見的、粗俗的」 |
+| **\-u** | 通常為：**\-av-a** :br例如 ⟪गुरु⟫ 3 「困難的」；m. 「大師、教師」 » ⟪गौरव⟫ 3 「屬於大師的、源自大師的」；n. 「重量、沉重、尊嚴」 |
+| **其他變格詞幹：** | 參見 Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Vor dem Suffix **-ya** wird der Stammauslaut ähnlich wie vor dem Suffix **-a** behandelt.
+在後綴 **-ya** 之前，詞幹尾音的處理方式與在後綴 **-a** 之前類似。
 :::
-Beispiele siehe oben!
+請參見上方的範例！
 
 ::: grammar-box
-**Mittels dieser Suffixe können auch von Komposita Ableitungen gebildet werden.**
+**透過這些後綴，也可以從複合詞派生出新的詞彙。**
 
-z.B. **⟪स्वश्व⟫** m. "der, dessen Pferde gut sind" Eigenname » **⟪सौवश्व⟫** m. "Nachkomme des Svaśva"
+例如 ⟪स्वश्व⟫ m. 「馬匹優越者」專有名詞 » ⟪सौवश्व⟫ m. 「Svaśva 的後裔」
 
-**Bei Komposita, in denen infolge des Sandhi im Vorderglied auslautendes -i oder -u durch -y bzw. -v ersetzt werden und so dem ersten Vokal des Grundwortes vorausgehen (z.B. Komposita mit ni-, vi-, su-), wird die ⟪वृद्धि⟫ so gebildet, als ob -iy bzw. -uv dastehen würde.**
+**在複合詞中，若因 Sandhi 規則導致前段末尾的 -i 或 -u 被替換為 -y 或 -v，進而位於詞根首個元音之前（例如含有 ni-、vi-、su- 的複合詞），則 ⟪वृद्धि⟩ 的形成方式，就如同原本存在 -iy 或 -uv 一樣。**
 
-z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫** 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+例如 ⟪व्याघ्र⟫ m. 「老虎」 » ⟪वैयाघ्र⟫ 3 「源自老虎的，屬於老虎的」
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/licenses#lekt4801))
+圖：⟪वैयाघ्रं विजृम्भणम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt4801)）
 :::
-## 48.4. 词汇表
+## 第48課. 詞彙表
 
-⟪श्वस्⟫ : morgen
+⟪श्वस्⟫ ：明天
 
-⟪अद्य⟫ : heute
+⟪अद्य⟫ ：今天
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟫ 3：輕易（不沉重，不困難），快速，簡短（在表達上）
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
+⟪व्याकरण⟫ n.：語法（源自 ⟪व्याकृ⟫）
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+⟪तन्त्र⟫ n.：弦線；織機，經線，织物；基礎，標準，規則；學說，教材；Tantra（密續）；咒語；手段，技巧，藥物；統治，權威
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+圖：⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802))
+（圖片來源：[詳情](/zh/licenses#lekt4802)）
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
-Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803))
+圖：⟪तन्त्री⟫
+Sitar 演奏者 = ⟪सितारवादकः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4803)）
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum
+⟪स्त्री⟫ f.：女性，妻子；陰性名詞
 
-Deklination:
+變格：
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -291,117 +280,103 @@ Deklination:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804))
+圖：⟪स्वतन्त्राः स्त्रियः⟫
+[自助互助小組（SHG）](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))，泰米爾納德邦 = தமிழ்நாடு
+（圖片來源：[詳情](/zh/licenses#lekt4804)）
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ 副詞：晝夜
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
+⟪सज्ज्⟫ 第一人稱單數現在時 ⟪सज्जति⟫ ：懸掛，執著
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ 陽性名詞：孩子，青年，王子；⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ的別名
 
 ::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+圖：⟪कुमारः⟫
+Thaipusam節 = தைப்பூசம்，巴都丁宜洞穴（Batu Caves），馬來西亞
+（圖片來源：[詳情](/zh/licenses#lekt4805)）
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ 陰性名詞：女孩，女兒
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+圖：⟪कुमारी नेपाल⟫
+（圖片來源：[詳情](/zh/licenses#lekt4806)）
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ 中性名詞：童年
 
-⟪यौवन⟫ n.: Jugend
+⟪यौवन⟫ 中性名詞：青春期
 
-⟪स्थविर⟫ 3: alt, betagt
+⟪स्थविर⟫ 第三人稱：年老，衰老
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+圖：⟪स्थविराः जोधपुर⟫
+（圖片來源：[詳情](/zh/licenses#lekt4807)）
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ 中性名詞：（高齡）老年
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 第三人稱：也可譯為：應受責備的
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil
+⟪सूक्ष्म⟫ 第三人稱：精緻，微小，微妙
 
 ::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+圖：⟪सूक्ष्मम्⟫
+Karanji湖 = ಕಾರಂಜಿ ಕೆರೆ
+（圖片來源：[詳情](/zh/licenses#lekt4808)）
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ 陽性名詞：執著，傾向；機會
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit
+⟪विशेष⟫ 陽性名詞：差異，特色
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
+⟪प्रसूति⟫ 陰性名詞：出生，後代
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ 中性名詞：習俗，禮儀，習慣法；變遷
 
-⟪जाया⟫ f.: Ehefrau
+⟪जाया⟫ 陰性名詞：妻子
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+圖：⟪मम जाया⟫
+（圖片：Payer）
+（圖片來源：[詳情](/zh/licenses#lekt4809)）
 :::
-## 48.5. 练习
+## 第48.5節。練習
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion.
+A) 翻譯位於本課開頭的 ⟪सुभाषितानि⟫。
 
-B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichst Wurzeln der 2. und 3. Präsensklasse):
+B) 請將以下內容翻譯成梵文（使用命令式，並盡可能採用第二和第三現在詞根的形態）：
 
-1. Nachdem du einen Sohn bekommen hast, verlasse die Familie!
-2. Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
-3. Die Mädchen sollen den Bettlern Speise geben.
-4. Wir wollen sprechen.
-5. Mit den Worten "Komm Mönch!" nahm Buddha den Mann in den Mönchsorden auf (⟪उपसम्पद्⟫ Kausativ).
-6. Seid wahre Nachfahren Manus!
-7. Ich will ⟪शिव⟫ und die anderen Götter preisen.
-8. Erzähle!
-9. Miss die Höllen aus!
-10. Sie (pl.) sollen auf diesen Liegen liegen.
-11. Die tigergleichen Männer sollen die töten, die Indra feind sind.
-12. Konzentriere dich!
-13. Sitzt hier!
-14. Wir wollen diese Früchte essen.
-15. Der Diener soll die Kuh melken.
-16. König, hüte den Dharma und die Leute.
-17. Lehre die Schüler den Veda!
-18. Er soll neue Kleider anziehen.
-19. Sie (pl.) sollen in meinem Haus sitzen.
-20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt).
+1. 你有了兒子之後，就離開家庭吧！
+2. 普盧的後裔們，要畏懼那些作惡之人！
+3. 少女們應給予乞食者食物。
+4. 我們想要說話。
+5. 佛陀以「來吧，比丘！」的話語接納了該男子進入僧團（⟪उपसम्पद्⟩ 使動式）。
+6. 你們要成為摩奴的真正後裔！
+7. 我想要讚頌 ⟪शिव⟩ 及其他諸神。
+8. 請講述！
+9. 丈量地獄吧！
+10. 他們（複數）應躺在這些躺椅上。
+11. 那些如虎般勇猛的男子應殺死那些與因陀羅為敵的人。
+12. 專心致志！
+13. 坐在此處！
+14. 我們想要吃這些水果。
+15. 僕人應擠母牛的奶。
+16. 國王啊，守護正法與百姓。
+17. 教導學生吠陀！
+18. 他應穿上新的衣服。
+19. 他們（複數）應坐在我家中。
+20. 丈夫們應供養他們的妻子（意指提供生活費用）。
 
-## 48.6. 翻译练习
+## 48.6. 翻譯練習
 
-⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
+⟪मनुस्मृति ९⟩（⟪स्त्रीधर्मः⟩）：
 
 ::: indent
-⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
-⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
-⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
-⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥३॥⟫  
-⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
-⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
-⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
-***:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫]*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
-⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
-⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥६॥⟫  
-⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
-⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
-⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
-⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
+⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् । विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥२॥ पिता रक्षति कौमरे भर्ता रक्षति यौवने । रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥३॥ काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः । मृते भर्तर⟩i ⟪पुत्रस्तु वाच्यो मातुररक्षिता ॥४॥ सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।⟩  
+sig[⟪द्वयोर्हि⟩] :sig[⟪कुलयोः⟩] ⟪शोकमावहेयुररक्षिताः ॥५॥ इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् । यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥ स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च । स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥७॥ पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते । जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥८॥⟩
 :::
-Erklärung:  
-:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien"
+說明：  
+⟪द्वयोर्हि कुलयोः⟫ ：屬格（⟪षष्ठी⟫）雙數，對應 ⟪द्वे कुले⟫「兩個家族」
 

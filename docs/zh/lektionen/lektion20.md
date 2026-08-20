@@ -1,568 +1,537 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "第20課"
+subtitle: "所有複合詞 = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第20課
 
-## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
+## 20.1. 所有格複合詞 = ⟪बहुव्रीहि⟫ m.
 
 ::: media
 ![](/images/lekt2004.webp)
-Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
+圖：⟪बहुव्रीहिः पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt2004))
+（圖片來源：[詳情](/zh/licenses#lekt2004)）
 :::
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt"
+⟪बहुव्रीहिः⟫ = ⟪बहवो व्रीहयो यस्य सः⟫ = "擁有大量稻米的人"
 
 ::: grammar-box
 
-**Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während ⟪बालपुत्रः⟫ als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (⟪पुत्र⟫) ausgedrückt wird, bedeutet ⟪बालपुत्रः⟫ als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (⟪पुत्र⟫) noch unbedingt jung (⟪बाल⟫), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.**
+**與限定複合詞（Tatpuruṣa）不同，所有格複合詞（Bahuvrīhi）所指稱的事物與其構成成分所表達的內容不同：當⟪बालपुत्रः⟫作為限定複合詞解析時，意為「年輕的兒子」，即由複合詞的最後一個成分（⟪पुत्र⟫）所表達的事物；而當⟪बालपुत्रः⟫作為所有格複合詞解析時，意為「其兒子年輕的人」，也就是說，所指稱者既非兒子（⟪पुत्र⟫），也不一定是年輕的（⟪बाल⟫），而是與年輕兒子不同的另一個人，即他的父親。**
 
-**Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.**
+**所有格複合詞起初總是形容詞，但也可以名物化。因此，Bahuvrīhi的語法性別取決於該Bahuvrīhi所指代的對象，而非最後一個複合成分的性別。**
 
 :::
 ::: grammar-box
 
-**Schema für die Auflösung eines Bahuvrīhi:**
+**Bahuvrīhi解析的範式：**
 
-**1. Glied meist im Nominativ (⟪प्रथमा⟫) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - ⟪षष्ठी⟫) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.**
+**1. 第一個成分通常為主格（⟪प्रथमा⟫）單數、雙數或複數 -- 2. 第二個成分為主格單數、雙數或複數 -- 關係代詞處於除主格以外的其他格（通常為屬格 - ⟪षष्ठी⟫），且其性別和數與整個Bahuvrīhi一致 -- 指示代詞的數、格和性別與整個Bahuvrīhi一致。**
 
 :::
-Beispiele:
+範例：
+
 
 ::: indent
-⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
+⟪गतपापः⟫ = ⟪गतं पापं यस्य सः⟫ = "其惡行已去的人" = "無惡行者"
 
-Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
+屬格單數 ⟪गतपापम्⟫ = ⟪गतं पापं यस्य तम्⟫
 
-Inst. sg. ⟪गतपापेन⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫
+工具格單數 ⟪गतपापेन⟫ = ⟪गतं पापं यस्य तेन⟫
 
-Gen. sg. ⟪गतपापस्य⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तस्य⟫
+屬格單數 ⟪गतपापस्य⟫ = ⟪गतं पापं यस्य तस्य⟫
 
-Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि⟫ ye⟪षां⟫ ⟪ते⟫
+主格複數 ⟪गतपापाः⟫ = ⟪गतानि पापानि⟫ ye⟪षां ते⟫
 
-usw.
+等等。
 
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "eine (Frau), die die Verblendung abgeworfen hat"
+⟪अस्तमोहा⟫ = ⟪अस्तो मोहो यया सा⟫ = 「已拋棄無明（的女性）」
 
-⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
+⟪प्राप्तोदको ग्रामः⟫ = ⟪प्राप्तमुदकं यं⟫ s ⟪ग्रामः⟫ = 「水已到達的村莊」=「受洪水威脅的村莊」
 
-⟪पुण्यवत्पुत्रः⟫ als Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, oder: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
+⟪पुण्यवत्पुत्रः⟫ 作為 Bahuvrīhi（持業釋/外格複合詞）= ⟪पुण्यवान्पुत्रो यस्य सः⟫，或：⟪पुण्यवन्तः पुत्रा यस्य सः⟫ = 「擁有功德之子的人」或：「擁有具功德之兒子們的人」
 :::
 ::: grammar-box
 
-**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
+**Bahuvrīhi 中前成分與後成分的關係可以是：**
 
-*   **attributiv**
-*   **appositionell**
-*   **kasuell**
-*   **adverbial**
+*   **形容詞性的（attributiv）**
+*   **同位語式的（appositionell）**
+*   **格位的（kasuell）**
+*   **副詞性的（adverbial）**
 
-**Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.**
+**如同 Tatpuruṣa（依主釋）一樣，被修飾的成分通常位於第二位。**
 
 :::
-Traditionell unterscheidet man:
+傳統上區分為：
 
-*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied im selben Kasus
+*   ⟪समानाधिकरणबहुव्रीहिः⟫ ：在 ⟪विग्रहवाक्य⟫ 中，前成分與後成分處於相同的格位
 
-*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied in verschiedenen Kasus
+*   ⟪व्यधिकरणबहुव्रीहिः⟫ ：在 ⟪विग्रहवाक्य⟫ 中，前成分與後成分處於不同的格位
 
-## 20.2. Bahuvrīhi mit attributivem Vorderglied
+
+## 20.2. 具有形容詞性前成分的 Bahuvrīhi
 
 ::: grammar-box
 
-**Schema:**
+**模式：**
 
 :::
 ::: indent
-**Adjektiv -- Nomen**
+**形容詞 -- 名詞**
 :::
-**Beispiel:**
+**例子：**
 
 ::: indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+⟪गुणवत्पुत्रो ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो यस्य स ब्राह्मणः⟫ = 「擁有良好特質之子/兒子們婆羅門」
 :::
-**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).**
+**由過去分詞（PPP）進行的形容詞性修飾特別常見——這在 Tatpuruṣa 中較少見。在解析時，關係代詞通常位於工具格（⟪तृतीया⟫）中（較少見於屬格 / ⟪षष्ठी⟫）。**
 
-**Faustregel:**
+**經驗法則：**
 
-*   **PPP - Substantiv = meistens Bahuvrīhi**
-*   **Substantiv -- PPP = meistens Tatpuruṣa**
+*   **PPP - 名詞 = 多數為 Bahuvrīhi（外積複合）**
+*   **名詞 -- PPP = 多數為 Tatpuruṣa（持業釋）**
 
-**Beispiel:**
+**範例：**
 
 ::: indent
-⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
+⟪कृतफल ३⟫ = ⟪कृतं फलं⟫ ye⟪न सः । यया सा ।⟫ ye⟪न तत्⟫ = "一位 / 一個 / 一件，其產生了一個結果的人/事物，某位/某個有效者"
 :::
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
+## 20.3. Bahuvrīhi（外積複合）帶有同位語的前置成分
 
 ::: grammar-box
 
-**Schema:**
+**結構：**
 
 :::
 ::: indent
-**Schema:**
+**名詞 -- 名詞**
 :::
-**Beispiele:**
+**範例：**
 
 ::: indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, dessen Söhne Helden sind"
+⟪शूरपुत्रो नरः⟫ = ⟪शूरा एव पुत्रा यस्य स नरः⟫ = "一位兒子們是英雄的男子"
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "der / die / das, dessen Ende dieses ist" = "damit endender"
+⟪तदन्त ३⟫ = ⟪सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत्⟫ = "其終點為此者" = "以此為終結的"
 :::
 ::: grammar-box
 
-**Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "erster, Anfang", seltener ⟪प्रभृति⟫ "Anfang". Solche Komposita entsprechen dem "u.s.w.":**
+**帶有後置成分 ⟪आदि । आदिक । आद्य⟫ "首要者、開始"，較少見的是 ⟪प्रभृति⟫ "開始" 的同位語 Bahuvrīhi（外積複合）非常重要。此類複合詞對應於「等」：**
 
-**Beispiel:**
+**範例：**
 
 :::
 ::: indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
+⟪देवा इन्द्रादयः⟫ =  ⟪इन्द्र आदिर्येषां ते देवाः⟫ = "其開始者是因陀羅的神祇" = "因陀羅等神祇" = "因陀羅及其他神祇"
 :::
-**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:**
+**為了表達「僅」，可以使用以 ⟪मात्रा⟫ f. "尺度、界限" 為後置成分的 Bahuvrīhi（外積複合）：**
 
-**Beispiel:**
+**範例：**
 
 ::: indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "das, dessen Maß ein Wort ist" = "nur ein Wort"
+⟪शब्दमात्रम्⟫ = ⟪शब्दो मात्रा यस्य तत्⟫ = "其尺度為一個詞者" = "僅一個詞"
 :::
-**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:**
+**PPP 之後的 ⟪मात्र⟫ 應譯為「一……就」：**
 
-**Beispiel:**
+**範例：**
 
 ::: indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist"
+⟪जातमात्रं शत्रुं घ्नन्ति⟫ = ⟪जातं मात्रा यस्य तं शत्रुं घ्नन्ति⟫ = "他們擊殺一位其尺度為產生之敵人" = "他們一當敵人產生便將其擊殺"
 :::
 ::: media
 ![](/images/lekt2005.webp)
-Abb.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus und die übrigen Götter, Ahmedabad
-(Bildquelle: [Details](/licenses#lekt2005))
+圖：⟪देवा यीश्वादयः⟫
+耶穌與其他神明，艾哈邁達巴德
+（圖片來源：[詳情](/zh/licenses#lekt2005)）
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. 以與格為前成分的 Bahuvrīhi
 
-d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (⟪प्रथमा⟫) vertritt.
+即 Bahuvrīhi，其前成分以與格（⟪प्रथमा⟫）取代主格。
 
-Beispiel:
+範例：
 
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+⟪देवरूपा⟫ = ⟪देवस्यैव रूपं यस्याः सा⟫ = 「一位（女性），其形貌如神」「具有神聖外觀的女子」
 :::
 ::: grammar-box
 
-**Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:**
+**對複合詞成分順序一般規則的例外：**
 
-**Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:**
+**當與格成分指稱身體部位（特別是手）時，該成分位於第二位：**
 
-**Beispiel:**
+**範例：**
 
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
+⟪दण्डहस्तः⟫ =  ⟪दण्डो हस्ते⟫（與格單數）⟪यस्य सः⟫ = 「手中持有棍棒者」=「手持棍棒之人。」
 :::
 ::: media
 ![](/images/lekt2001.webp)
-Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
-Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
-(Bildquelle: [Details](/licenses#lekt2001))
+圖：⟪इन्द्रो वज्रपाणिः⟫
+暹粒（ក្រុងសៀមរាប），柬埔寨，西元九世紀
+（圖片來源：[詳情](/zh/licenses#lekt2001)）
 :::
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## 20.5. 以副詞為前成分的 Bahuvrīhi
 
-Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein anderes Indeklinabile; solche Komposita sind in der Regel ⟪नित्यसमास⟫.
+前成分為副詞、介系詞、前綴或其他不變詞；此類複合詞通常為 ⟪नित्यसमास⟫。
 
-Beispiele:
+範例：
 
 ::: indent
-⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
+⟪अपुत्रो नरः⟫ = ⟪पुत्रो यस्य नास्ति स नरः⟫ = 「無子之男子」=「無子的男人」
 
-⟪दुर्बल⟫ ⟪३⟫ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
+⟪दुर्बल ३⟫ = 「力量薄弱者／物」=「無力、虛弱」
 :::
 ::: grammar-box
 
-**⟪सह⟫ "mit" als Vorderglied eines Bahuvrīhi wird oft durch ⟪स⟫ ersetzt.**
+**⟪सह⟫「具有」作為 Bahuvrīhi 的前成分，常被 ⟪स⟫ 取代。**
 
-**Beispiel:**
+**示例：**
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "mit einem Sohn", "von einem Sohn begleitet"
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण सहितः । पुत्रेण सह्⟫ = "有一個兒子"，"由一個兒子陪伴"
 :::
 ::: media
 ![](/images/lekt2006.webp)
-Abb.: ⟪सपुत्रा⟫
-Madhya Pradesh
-(Bildquelle: [Details](/licenses#lekt2006))
+圖： ⟪सपुत्रा⟫
+中央邦
+（圖片來源：[詳情](/zh/licenses#lekt2006)）
 :::
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
+## 20.6. Bahuvrīhi（持業釋）末詞的變格
 
 ::: grammar-box
 
-**Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.**
+**Bahuvrīhi（持業釋）的末詞，無論其原始性別為何，均作為多性別的形容詞進行變格。因此，如果在複合詞中末詞的性別與其原始性別不同，那麼它必須是 Bahuvrīhi（持業釋），除非它是 Samāhāradvanva（中性單數）。**
 
-**Bei der Adjektivierung werden**
+**在將形容詞化的過程中，**
 
-*   **-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen**
-*   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī**
-*   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen**
+*   **-ā 詞幹在陽性和中性中變為 -a 詞幹**
+*   **-a 詞幹（陽性、中性）以 -ā 或 -ī 構成其陰性形式**
+*   **-ī 詞幹（陰性）在 Bahuvrīhi（持業釋）末尾必須後綴 -ka、-kā、-ka（中性）；許多其他 Bahuvrīhi（持業釋）也可以或必須後綴此類詞尾**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Bahuvrīhi（持業釋）類型的另一種分類
 
-Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
+此處的範例是為了後續練習而提供，對於其中一些範例，所需的語法和詞彙尚未討論過
 
-1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2.  Indeklinabile im Vorderglied: ⟪उच्चैःश्रवस्⟫
-3.  Vergleich im Vorderglied: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4.  Impliziter Vergleich: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "kamelmündig" = dessen Mund wie der eines Kamels ist
-5.  Numerale als Hinterglied bei ungefährer Zahl:. ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "ungefähr zehn"
-6.  beide Glieder sind Numeralia: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "ein oder zwei"
-7.  mit sa-/saha- im Vorderglied: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8.  mit sa- (= ⟪समान⟫) im Vorderglied: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9.  ⟪नञ्बहुव्रीहिः⟫ = mit a-/an- im Vorderglied: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10.  mit Präposition u.ä. im Vorderglied: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11.  Richtungsbezeichnungen um Zwischenrichtungen zu bezeichnen: ⟪पुर्वोत्तरा⟫ "nordöstlich"
-12.  PPP als Vorderglied: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13.  und andere
+1.  修飾性詞語在前成分中 -- 被修飾性詞語在後成分中： ⟪स्थिरचित्तः⟫ = ⟪स्थिरं चित्तं यस्य सः⟫
+2.  前成分為不變詞： ⟪उच्चैःश्रवस्⟫
+3.  前成分為比較級： ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र इव धीर्यस्य सः⟫
+4.  隱含比較： ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य मुखमिव मुखं यस्य सः⟫ = "駱駝嘴" = 其嘴巴像駱駝的嘴巴
+5.  數詞作為後成分表示大約數量： ⟪उपसशाः⟫ = ⟪दशानां समीपे ये सन्ति ते⟫ = "大約十"
+6.  兩個成分均為數詞： ⟪एकद्वाः⟫ = ⟪एको वा द्वौ वा⟫ = "一或二"
+7.  前成分包含 sa-/saha-： ⟪सपुत्रः । सहपुत्रः⟫
+8.  前成分包含 sa-（= ⟪समान⟫）： ⟪सजनपदः⟫ = ⟪समानो जनपदो यस्य सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = 前成分包含 a-/an-： ⟪अपुत्रः⟫ = ⟪न विद्यते पुत्रो यस्य सः⟫ ; ⟪अनङ्गः⟫ = ⟪न विद्यते अङ्गं यस्य सः⟫
+10. 前成分包含介詞等： ⟪प्रवातः⟫ =⟪प्रकृष्टो वातो यस्मिन् सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं धनं यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु बुद्धिर्यस्य सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा बुद्धिर्यस्य सः⟫
+11. 方向指示用於表示中間方向： ⟪पुर्वोत्तरा⟫ "東北"
+12. 過去分詞（PPP）作為前成分： ⟪कृतकटः⟫ = ⟪कृतः कटो येन सः⟫
+13. 及其他
 
 ::: media
 ![](/images/lekt2007.webp)
-Abb.: ⟪कृतकटा⟫
+圖：⟪कृतकटा⟫
 Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt2007))
+（圖片來源：[詳情](/zh/licenses#lekt2007)）
 :::
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## 20.8. Bahuvrīhi（持業釋）與關係子句的關係
 
-Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt:
+雖然每個 Bahuvrīhi（持業釋）都可以透過關係子句來解析，但並非每個關係子句都能被替換為 Bahuvrīhi（持業釋）。赫爾曼·格奧爾格·雅可比（Hermann Georg Jacobi，1850-1937）對兩者的關係進行了更深入的研究（《複合詞與從屬句》，1897），他寫道：
 
 ::: indent
-"Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
+「當您從德語或其他現代語言翻譯成梵文時，並非所有從屬句都能用複合詞來表達；只有修飾性和描述性的從屬句可以這樣做。然而，那些包含概念上必要或重要限定的從屬句，在梵文中也會以關係子句的形式出現。」
 :::
 ::: media
 ![](/images/lekt2002.jpg)
-Abb.: Hermann Jacobi
-(Bildquelle: [Details](/licenses#lekt2002))
+圖：赫爾曼·雅可比（Hermann Jacobi）
+（圖片來源：[詳情](/zh/licenses#lekt2002)）
 :::
-Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
+這可能是正確的。然而，印度人將許多我們視為「概念上必要或重要」的事物看作修飾性和描述性的。
 
-## 20.9. 词汇表
+## 20.9. 詞彙表
 
-⟪वा⟫ : oder
+⟪वा⟫ ：或者
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+⟪आश्रम⟫ m., n.：隱居處、生命階段、人生時期（即作為 ⟪ब्रह्मचरिन्⟫、⟪गृहस्थ⟫、⟪वनप्रस्थ⟫ 以及可能作為 ⟪सन्न्यासिन्⟫；參見 Basham，《奇蹟》，第 159-160 頁）
 
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+圖：⟪आश्रमः⟫
+Rishikesh = ⟪ऋषिकेश⟫。「這實際上是披頭士樂隊曾停留的瑞詩凱詩（Rishikesh）道場的一部分。他們在那裡時，這個特定部分還不存在，但它看起來確實很酷。」
+（圖片來源：[詳情](/zh/licenses#lekt2008)）
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ 陰性名詞 ⟪करी । करा⟫ ：做、製造、引發
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ 陽性名詞：手（參見 ⟪कृ⟫ 8）
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ 陽性名詞：賦稅、貢品、稅金（與 ⟪कृ⟫ 無關，可能是來自泰米爾語 - தமிழ् 的借詞）
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ 陰性名詞：行為、神聖行為、祭祀行為、儀式（參見 ⟪कृ⟫ 8）
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf 
+⟪अधि⟫ 前綴：在……之上、向上、獲得、關於
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 第一人稱 ⟪अधिगच्छति⟫ ：遇見、到達、獲得
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 第八變位法 ⟪तनूकरोति⟫ ：減少、減弱
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ 陰性名詞：⟪दायिका⟫ ：給予、施捨
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ 陽性名詞："男子的保護者" = 國王
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ 中性名詞：應用、努力、對……的注意、服務性、沉思、誓願
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ 陰性名詞：困境、災難、痛苦
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ 陰性名詞："應被保護者" = 妻子
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ 陰性名詞：冥想發展（參見 ⟪भू⟫ 使役態）
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ 陰性名詞：土地、地面
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ 中性名詞：特徵、標記、屬性
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ 陽性名詞："顫抖者" = 詩人、歌手、祭司、婆羅門
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ 陽性名詞：地區、領域、對象、感官對象
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ 陽性名詞：終點、解脫
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下、往下、進入、向後
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 第一人稱 ⟪निवर्तते⟫ ：轉身、返回
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 第一人稱 ⟪सीदति⟫ (!) 被動語態 ⟪सद्यते⟫ 過去分詞 ⟪सन्न⟫ ：坐、坐下
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 第一人稱 ⟪प्रसीदति⟫ ：坐下、被放置（比喻義）= 平靜下來、安靜、愉悅；對某人（與格 ⟪षष्ठी⟫）仁慈
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ 陽性名詞：內在集中心、高度專注、冥想"沉浸"
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ 陽性名詞："自我學習"、誦讀（特別是吠陀）、吠陀研究
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ ：來世的、彼岸的
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪तनु ३⟫ : 苗條的
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪मध्य ३⟫ : 中等的；n. 中心
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : 寬廣，遼闊，巨大
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪श्रोणि । श्रोणी⟫ f.: 臀部
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪रक्त ३⟫ : 染色的，紅色的
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪ओष्ठ⟫ m.: 嘴唇
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪असित ३⟫ : 黑暗的，黑色的
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : 看見
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : 彎曲
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ 前綴：上，向上，向外，出，出-
 
-⟪नाभि⟫ f.: Nabel
+⟪नाभि⟫ f.: 肚臍
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: 美，形態，身體（變格見後）
 
-⟪स्त्री⟫ f.: Frau
+⟪स्त्री⟫ f.: 女人
 
-⟪स्तन⟫ m.: Brust
+⟪स्तन⟫ m.: 胸部
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪दरैद्र ३⟫ : 貧乏的
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : 繁榮
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : 繁榮；PPP：成功的，富饒的
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र ३⟫ : 多彩的，各種各樣的，美麗的，奇妙的，奇怪的
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): 安排，法則，規定；創造，命運
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : 活動
 
-## 20.10. 练习 1
+## 20.10. 練習一
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an.
+將以下複合詞作為 Bahuvrīhi、Dvandva 和 Tatpuruṣa 進行解析，以所有您認為可能的梵文形式展開（例外：具有副詞性前成分的複合詞）。將這些不同解析的複合詞翻譯成德語，並指出整個複合詞的性、格和數。
 
-1.  ⟪इन्द्रशत्रवः⟫
-2.  ⟪दुष्कुलायाः⟫
-3.  ⟪जातिमात्रस्य⟫
-4.  ⟪प्राप्तोदकाः⟫
-5.  ⟪सुनीतिभिः⟫
-6.  ⟪मृतपुत्रः⟫
-7.  ⟪गतपुण्येन⟫
-8.  ⟪आर्यरूपम्⟫
-9.  ⟪मुक्तासनया⟫
-10.  ⟪तद्रूपः⟫
-11.  ⟪कृतफलानाम्⟫
-12.  ⟪व्याघ्रबलाः⟫
-13.  ⟪प्राप्तकाला⟫
-14.  ⟪शूरपुत्राम्⟫
-15.  ⟪कृताभिषेकः⟫
-16.  ⟪शूरबलान्⟫
-17.  ⟪वीतमोहः⟫
-18.  ⟪द्ण्डहस्तस्य⟫
-19.  ⟪गतमात्रम्⟫
-20.  ⟪इन्द्रपुत्रा⟫
-21.  ⟪तद्गुणाः⟫
-22.  ⟪उपल्ब्धसुखैः⟫
-23.  ⟪प्राप्तप्रभावः⟫
-24.  ⟪तन्मात्राणि⟫
-25.  ⟪प्रभूतरूपा⟫
-26.  ⟪कृतोपनयनाः⟫
-27.  ⟪विगतनयनम्⟫
-28.  ⟪बुद्धमार्गेण⟫
-29.  ⟪विजयफलान्⟫
-30.  ⟪दुर्गमः⟫
-31.  ⟪समयकारः⟫
-32.  ⟪सम्पन्नरूपाम्⟫
-33.  ⟪रूपसम्पन्नाम्⟫
-34.  ⟪अपुण्यानाम्⟫
-35.  ⟪मृतगृहाणि⟫
-36.  ⟪अजनस्य⟫
-37.  ⟪तद्देवतैः⟫
-38.  ⟪जातपुत्राः⟫
-39.  ⟪दुरन्ताभिः⟫
-40.  ⟪भूतसर्गेण⟫
-41.  ⟪मतिदर्शनम्⟫
-42.  ⟪मुक्तहस्ता⟫
-43.  ⟪तदन्तः⟫
-44.  ⟪जातिमात्रम्⟫
-45.  ⟪तज्जयेन⟫
-46.  ⟪लब्धधनानाम्⟫
-47.  ⟪सुदर्शः⟫
-48.  ⟪सकारणः⟫
-49.  ⟪तनादयः⟫
-50.  ⟪जातमात्राम्⟫
-51.  ⟪दुर्जातयः⟫
-52.  ⟪हतपुत्रः⟫
-53.  ⟪दुरासितम्⟫
-54.  ⟪इष्टदेवतया⟫
-55.  ⟪कृतपुण्याभिः⟫
-56.  ⟪श्रुत्युदितम्⟫
-57.  ⟪गतपापैः⟫
-58.  ⟪जितारिणा⟫
-59.  ⟪जातकोपा⟫
-60.  ⟪जातिधर्मः⟫
-61.  ⟪तत्प्रभृतयः⟫
-62.  ⟪सुदुर्जयः⟫
-63.  ⟪जितक्रोधेन⟫
-64.  ⟪दुरुपदेशम्⟫
-65.  ⟪लब्धलाभा⟫
-66.  ⟪बुद्धदासः⟫
-67.  ⟪मुक्तबुद्धिः⟫
-68.  ⟪यज्ञकालम्⟫
-69.  ⟪जितशत्रून्⟫
-70.  ⟪शत्रुजितान्⟫
-71.  ⟪तत्फलः⟫
-72.  ⟪सुगुणा⟫
-73.  ⟪जातक्रोधः⟫
-74.  ⟪दृष्टमात्रः⟫
-75.  ⟪भूतकालः⟫
-76.  ⟪सुनेत्राः⟫
-77.  ⟪तदादीनाम्⟫
-78.  ⟪जातिस्मरणम्⟫
-79.  ⟪सफलम्⟫
-80.  ⟪अकरुणस्य⟫
-81.  ⟪सोढदुःखाः⟫
-
-## 20.11. 练习 2
-
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
-
-⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
-
-⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
-
-⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
-
-⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
-
-⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
-
-⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
-
-⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घ्नन्ति⟫ ⟪॥७॥⟫
-
-⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-
-⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
-
-⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
-
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
-
-1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht.
-
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
-
-3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen.
-
-4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
-
-## 20.12. 翻译练习
-
-⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
+1. ⟪इन्द्रशत्रवः⟫
+2. ⟪दुष्कुलायाः⟫
+3. ⟪जातिमात्रस्य⟫
+4. ⟪प्राप्तोदकाः⟫
+5. ⟪सुनीतिभिः⟫
+6. ⟪मृतपुत्रः⟫
+7. ⟪गतपुण्येन⟫
+8. ⟪आर्यरूपम्⟫
+9. ⟪मुक्तासनया⟫
+10. ⟪तद्रूपः⟫
+11. ⟪कृतफलानाम्⟫
+12. ⟪व्याघ्रबलाः⟫
+13. ⟪प्राप्तकाला⟫
+14. ⟪शूरपुत्राम्⟫
+15. ⟪कृताभिषेकः⟫
+16. ⟪शूरबलान्⟫
+17. ⟪वीतमोहः⟫
+18. ⟪द्ण्डहस्तस्य⟫
+19. ⟪गतमात्रम्⟫
+20. ⟪इन्द्रपुत्रा⟫
+21. ⟪तद्गुणाः⟫
+22. ⟪उपल्ब्धसुखैः⟫
+23. ⟪प्राप्तप्रभावः⟫
+24. ⟪तन्मात्राणि⟫
+25. ⟪प्रभूतरूपा⟫
+26. ⟪कृतोपनयनाः⟫
+27. ⟪विगतनयनम्⟫
+28. ⟪बुद्धमार्गेण⟫
+29. ⟪विजयफलान्⟫
+30. ⟪दुर्गमः⟫
+31. ⟪समयकारः⟫
+32. ⟪सम्पन्नरूपाम्⟫
+33. ⟪रूपसम्पन्नाम्⟫
+34. ⟪अपुण्यानाम्⟫
+35. ⟪मृतगृहाणि⟫
+36. ⟪अजनस्य⟫
+37. ⟪तद्देवतैः⟫
+38. ⟪जातपुत्राः⟫
+39. ⟪दुरन्ताभिः⟫
+40. ⟪भूतसर्गेण⟫
+41. ⟪मतिदर्शनम्⟫
+42. ⟪मुक्तहस्ता⟫
+43. ⟪तदन्तः⟫
+44. ⟪जातिमात्रम्⟫
+45. ⟪तज्जयेन⟫
+46. ⟪लब्धधनानाम्⟫
+47. ⟪सुदर्शः⟫
+48. ⟪सकारणः⟫
+49. ⟪तनादयः⟫
+50. ⟪जातमात्राम्⟫
+51. ⟪दुर्जातयः⟫
+52. ⟪हतपुत्रः⟫
+53. ⟪दुरासितम्⟫
+54. ⟪इष्टदेवतया⟫
+55. ⟪कृतपुण्याभिः⟫
+56. ⟪श्रुत्युदितम्⟫
+57. ⟪गतपापैः⟫
+58. ⟪जितारिणा⟫
+59. ⟪जातकोपा⟫
+60. ⟪जातिधर्मः⟫
+61. ⟪तत्प्रभृतयः⟫
+62. ⟪सुदुर्जयः⟫
+63. ⟪जितक्रोधेन⟫
+64. ⟪दुरुपदेशम्⟫
+65. ⟪लब्धलाभा⟫
+66. ⟪बुद्धदासः⟫
+67. ⟪मुक्तबुद्धिः⟫
+68. ⟪यज्ञकालम्⟫
+69. ⟪जितशत्रून्⟫
+70. ⟪शत्रुजितान्⟫
+71. ⟪तत्फलः⟫
+72. ⟪सुगुणा⟫
+73. ⟪जातक्रोधः⟫
+74. ⟪दृष्टमात्रः⟫
+75. ⟪भूतकालः⟫
+76. ⟪सुनेत्राः⟫
+77. ⟪तदादीनाम्⟫
+78. ⟪जातिस्मरणम्⟫
+79. ⟪सफलम्⟫
+80. ⟪अकरुणस्य⟫
+81. ⟪सोढदुःखाः⟫
+
+## 20.11. 練習二
+
+A) 請翻譯並分解以下梵文複合詞：
+
+⟪इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥ शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥ सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥ मृतपुत्रब्राह्मणी रोदिति ॥४॥ वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥ सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥ प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घ्नन्ति ॥७॥ जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥ कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥ बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥⟫
+
+B) 請使用複合詞將以下句子翻譯成梵文：
+
+1\. 手持棍杖的剎帝利，方能護佑人民。
+
+2\. 迦梨陀娑及其他詩人是梵文的教師。
+
+3\. 剎帝利以武器為生。
+
+4\. 首陀羅婦女亦具足非暴力、真理、清淨、不抱怨、無惡意及忍辱等正法。
+
+## 20.12. 翻譯練習
+
+⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १⟫.⟪३३॥⟫
 
 ::: indent
-Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+解釋：⟪भाव्नातस्⟫ = ⟪भावना⟫ + 後綴 -tas，具有從格含義。請翻譯："由於..."或類似意思。
 :::
-⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
-⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २⟫.⟪१॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २⟫.⟪२॥⟫
 
 ::: indent
-Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
+解釋：⟪तपस्⟫ n.（變格稍後講解）：熾熱、酷熱、痛苦；苦行熾熱，苦行
 :::
 ::: media
 ![](/images/lekt2010.webp)
-Abb.: ⟪तपस्⟫
-Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2010))
+圖：⟪तपस्⟫
+佛陀在獲得解脫智慧之前作為苦行者的形象，犍陀羅地區，公元2/3世紀
+（圖片來源：[詳情](/zh/licenses#lekt2010)）
 :::
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १⟫.⟪१॥⟫（關於數論派體系，請參見Basham，《奇蹟》，第324-325頁。）
 
 ::: indent
-Erklärung: ⟪त्रिविध⟫ ⟪३⟫ : "dreifach"
+解釋：⟪त्रिविध ३⟫ ：「三重」
 :::
-Definition der Erlösung nach dem Nyāyasystem:
+根據正理派體系對解脫的定義：
 
 ::: indent
-⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
-
-⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
+⟪बाधनालक्षणं दुःखम् ॥न्यायसूत्र १⟫.⟪२१॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १⟫.⟪२२॥⟫
 :::
-Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ :
+唯物主義者根據⟪सर्वदर्शनसंग्रह⟫的說法：
 
 ::: indent
-⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
-⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
+⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादी⟫na⟪ं क्रियाश्च फलदायिकाः ॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+解釋：⟪अत्मा⟫ = 陽性單數主格，源於⟪आत्मन्⟫ m. 「自我、靈魂；絕對者，就其在個體中實現而言」
 :::
-Ein ⟪सुभाषितम्⟫ :
+一個⟪सुभाषितम्⟫ ：
 
 ::: indent
-⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
-⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
-⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
-⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
+⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫
 
-Erläuterung: -da am Ende eines Kompositums: "gebend"
+說明：-da 位於複合詞末尾時意為「給予」
 :::
 ::: media
 ![](/images/lekt2009.webp)
-Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
-Karnataka
-(Bildquelle: [Details](/licenses#lekt2009))
+圖：⟪लोकानां करदा मही⟫
+卡納塔克邦
+（圖片來源：[詳情](/zh/licenses#lekt2009)）
 :::
-Über Besitzverhältnisse:
+關於財產關係：
 
 ::: indent
-⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
-⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
-⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
-⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
+⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८⟫.⟪४१६॥⟫
 
-Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
+解釋：⟪त्रयस्⟫ = 陽性複數主格，源於⟪त्रि⟫ 「三」
 :::
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
+一個關於女性美貌的⟪सुभाषितम्⟫ ：
 
 ::: indent
-⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
-⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
-⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
-⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
+⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫
 
-Erklärung: alle Formen außer ⟪कं⟫ und ⟪स्त्रीणाम्⟫ sind Nom. sg. neut. und beziehen sich auf ⟪वपुस्⟫.
+註解：除 ⟪कं⟫ 和 ⟪स्त्रीणाम्⟫ 之外的所有形式均為中性單數主格，並指涉 ⟪वपुस्⟫。
 :::
 ::: media
 ![](/images/lekt2003.webp)
-Abb.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
+圖：⟪तनुमध्यं पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
-(Bildquelle: [Details](/licenses#lekt2003))
+（圖片來源：[詳情](/zh/licenses#lekt2003)）
 :::
-Noch ein ⟪सुभाषितम्⟫ :
+另一個 ⟪सुभाषितम्⟫ ：
 
 ::: indent
-⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
-⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
-⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
-⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
+⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫
 
-Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
+註解：⟪इच्छताम्⟫ = 屬格複數現在分詞 P，源自動詞 ⟪इष्⟫ ：渴望的
 :::
 

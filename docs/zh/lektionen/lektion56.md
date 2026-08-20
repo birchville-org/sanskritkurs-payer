@@ -1,231 +1,208 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "第56課"
+subtitle: "重疊式不定過去時"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第56課
 
-## 56.1. 重复式不定过去时
+## 56.1. 重音前置詞過去時（Reduplicierter Aorist）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**Augment + reduplizierte Wurzel + a + thematische Sekundärendung**
+**Augment（過去時標記）+ 重音前置詞根 + a + 主題性次要詞尾**
 
-**Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel.**
+**詞根音節可以是低調或高調。對於以-i或-u結尾的詞根，低調是常規。**
 
-**Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
+**以-i、-u結尾時，分別替換為-iy或-uv。**
 
-**Auslautendes -ā (für -e) fällt ab.**
+**以-ā結尾（代表-e）時，則省略。**
 :::
-Paradigma:
+範例：
 
-⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen"
+⟪श्रि⟫ 1U "前往，依靠"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟩:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Diese Form des Aorist bilden u.a.:
+以下詞根形成此種過去時形式：
 
-*   ⟪श्रि⟫ 1U "sich begeben zu"
-*   ⟪द्रु⟫ 1P "rennen"
-*   ⟪कम्⟫ 1Ā "lieben": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (siehe unten!)
-*   ⟪पत्⟫ 1P "fallen": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = Tiefstufe zu pat)
-*   ⟪वच्⟫ 2P "sagen": ⟪अवोचत्⟫ (a-va + uc-a-t)
-
-::: grammar-box
-**Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.**
-:::
-### 56.1.1. 使役动词和第十现在时类词根的不定过去时构成
-
-Stammsilbe:
+*   ⟪श्रि⟫ 1U "前往"
+*   ⟪द्रु⟫ 1P "奔跑"
+*   ⟪कम्⟫ 1Ā "愛"：⟪अचकमत⟫ / ⟪अचीकमत⟫（見下文！）
+*   ⟪पत्⟫ 1P "落下"：⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = pat的低調形式)
+*   ⟪वच्⟫ 2P "說"：⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
-**Ausgangspunkt ist die Form des Präsensstamms bzw. des Kausativstamms, die dieser nach Wegfall des Bildungselements -aya- hat (also Stamm auf -p bei Kausativen auf -paya-).**
-
-**Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:**
-
-*   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**  
+**所有第十類現在時詞根以及使動詞均始終形成重音前置詞過去時。**
 :::
-::: indent
-⟪पॄ⟫ 3P: Kaus. ***:sig[⟪पार⟫]***⟪यति⟫, Aor. ⟪अपि⟫***:sig[⟪पर⟫]***⟪त्⟫
-⟪द्रु⟫ 1P: Kaus. ***:sig[⟪द्राव⟫]***⟪यति⟫, Aor. ⟪अदु⟫***:sig[⟪द्रव⟫]***⟪त्⟫ / ⟪अदि⟫***:sig[⟪द्रव⟫]***⟪त्⟫
-:sig[⟪नी⟫] 1U: Kaus.  ***:sig[⟪नाय⟫]***⟪यति⟫, Aor. ⟪अनी⟫***:sig[⟪नय⟫]***⟪त्⟫
-⟪ज्ञा⟫ 9U: Kaus. ***:sig[⟪ज्ञाप⟫]***⟪यति⟫, Aor. ⟪अजि⟫***:sig[⟪ज्ञप⟫]***⟪त्⟫  
-:::
+### 56.1.1. 使動詞與第十類現在時詞根的過去時構成
 
-*   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**  
-::: indent
-⟪चित्⟫ 1P: Kaus. ***:sig[⟪चेत⟫]***⟪यति⟫, Aor. (Ā) ⟪अची⟫***:sig[⟪चित⟫]***⟪त⟫  
-:::
-
-*   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**  
-::: indent
-⟪चुर्⟫ 10U: ***:sig[⟪चोर⟫]***⟪यति⟫, Aor. ⟪अचू⟫***:sig[⟪चुर⟫]***⟪त्⟫
-:::
-
-**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:**
-
-*   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**  
-::: indent
-⟪कॢप्⟫  1Ā: Kaus. ***:sig[⟪कल्प⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कल्प⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कॢ⟫]***⟪पत्⟫
-⟪कृष्⟫ 1P/6U: Kaus. ***:sig[⟪कर्ष⟫]***⟪यति⟫, Aor. ⟪अच⟫***:sig[⟪कर्ष⟫]***⟪त्⟫ / ⟪अची⟫***:sig[⟪कृ⟫]***⟪षत्⟫
-:::
-Vokal der Reduplikationssilbe:
-
-Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden:
+詞幹音節：
 
 ::: grammar-box
-**Ausgangspunkt ist der reguläre Reduplikationsvokal, d.h.**
+**基礎是現在時詞幹或使動詞詞幹的形式，即在去除構成元素-aya-後所剩餘的部分（因此對於以-paya-結尾的使動詞，其詞幹以-p結尾）。**
 
-*   a für a, ā, ṛ,  ṝ, ḷ
-*   i für i, ī, e, ai
-*   u für u, ū, o, au
+**此所謂「詞幹音節」中的元音，在過去時中根據以下規則確定：**
 
-**Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:**
+*   **\-ā- 在簡單輔音前會以 -a- 取代：**  
+⟪पॄ⟫ 第三人稱：使役式：sig[⟪पार⟫]⟪यति⟫，未完成過去時 ⟪अपि⟫:sig[⟪पर⟫]⟪त् द्रु⟫ 第一人稱：使役式：sig[⟪द्राव⟫]⟪यति⟫，未完成過去時 ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त् नी⟫ 第一人稱：使役式  :sig[⟪नाय⟫]⟪यति⟫，未完成過去時 ⟪अनी⟫:sig[⟪नय⟫]⟪त् ज्ञा⟫ 第九人稱：使役式：sig[⟪ज्ञाप⟫]⟪यति⟫，未完成過去時 ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
 
-*   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**  
+*   **\-ī-, -e-, -ai- 在簡單輔音前會以 -i- 取代：**  
+⟪चित्⟫ 第一人稱：使役式：sig[⟪चेत⟫]⟪यति⟫，未完成過去時（中動） ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
+
+*   **\-u-, -o-, -au- 在簡單輔音前會以 -u- 取代：**  
+⟪चुर्⟫ 第十人稱：:sig[⟪चोर⟫]⟪यति⟫，未完成過去時 ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
+
+**對於某些詞根，上述所述之變化為選擇性／或必須避免：**
+
+*   **緊接在詞幹音節尾輔音之前、替換了 ṛ, ṝ, ḷ 的 ar, ār, īr, al，可選擇性保持不變或替換為 ṛ 或 ḷ：**  
+⟪कॢप्⟫ 第一人稱：使役式：sig[⟪कल्प⟫]⟪यति⟫，未完成過去時 ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 第一人稱/第六人稱：使役式：sig[⟪कर्ष⟫]⟪यति⟫，未完成過去時 ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
-::: indent
-⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भिदत्⟫
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***:sig[⟪तू⟫]***⟪तुदत्⟫  
-:::
+重疊音節之元音：
 
-*   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**  
-    :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫***:sig[⟪नी⟫]***⟪नयत्⟫  
-    :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫***:sig[⟪ची⟫]***⟪करत्⟫  
-::: indent
-⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***:sig[⟪ति⟫]***⟪त्यजत्⟫
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫***:sig[⟪बी⟫]***⟪भवत्⟫
-:::
-
-Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
-
-**Vokalisch anlautende Stammsilben werden nach folgenden Regeln redupliziert:**
-
-*   **Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe:**
-
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
-
-::: indent
-⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
-:::
-*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
-
-Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
-
-::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
-## 56.2. Der Injunktiv
+在將上述規則應用於詞幹音節後，必須遵循以下關於重疊音節元音之規則：
 
 ::: grammar-box
-**Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.**
+**起點為標準的重疊元音，即：**
+
+*   a 對應於 a, ā, ṛ,  ṝ, ḷ
+*   i 對應於 i, ī, e, ai
+*   u 對應於 u, ū, o, au
+
+**此重疊元音會經歷以下變化：**
+
+*   **i、u 若詞幹音節僅以一個輔音開頭且為短音，則分別被 ī、ū 取代：**
+⟪भिद्⟫ 7U：使役 ⟪भेदयति⟫，未完成時態 ⟪अ⟫：sig[⟪बी⟫]⟪भिदत् तुद्⟫ 6U：使役 ⟪तोदयति⟫，未完成時態 ⟪अ⟫：sig[⟪तू⟫]⟪तुदत्⟫
+
+*   **a 若詞幹音節為短音且僅以一個輔音開頭，則被 ī 取代。若詞幹音節為短音但以多個輔音開頭，則重疊音節中的 a 被 i 取代。若詞幹音節為長音，則保留 a：**
+⟪नी⟫ 1U：使役 ⟪नाययति⟫，未完成時態詞幹 ⟪नय्⟫，未完成時態 ⟪अ⟫：sig[⟪नी⟫]⟪नयत् कृ⟫ 8U：使役 ⟪कारयति⟫，未完成時態詞幹 ⟪कर्⟫，未完成時態 ⟪अ⟫：sig[⟪ची⟫]⟪करत् त्यज्⟫ 1P：使役 ⟪त्याजयति⟫，未完成時態詞幹 ⟪त्यज्⟫，未完成時態 ⟪अ⟫：sig[⟪ति⟫]⟪त्यजत् भू⟫ 1P：使役 ⟪भावयति⟫，未完成時態詞幹 ⟪भव्⟫，未完成時態 ⟪अ⟫：sig[⟪बी⟫]⟪भवत्⟫
+
+關於基爾霍恩（Kielhorn）《語法》§ 435c 及以下章節中特定詞根的例外情況。
+
+**以元音開頭的詞幹音節，根據以下規則進行重疊：**
+
+*   **若開頭元音後僅跟一個輔音或一組輔音，且該組輔音的第一個成員既非鼻音也非 d 或 r，則重疊音節為：**
+
+元音 - 隨後的第一個輔音（或其重疊音節中要求的對應形式）- **i** - 所有其他輔音
+
 :::
-Gemäß der grundlegenden Arbeit:
+::: indent
+⟪अश्⟫ 9P：使役 ⟪आशयति⟫，重疊音節 ⟪आशिश्⟫，未完成時態 ⟪आशिशत् इष्⟫ 6P：使役 ⟪एषयति⟫，重疊音節 ⟪एषिष्⟫，未完成時態 ⟪ऐषिषत् ईक्ष्⟫ 1Ā：使役 ⟪ईक्षयति⟫，重疊音節 ⟪ईचिक्ष्⟫，未完成時態 ⟪ऐचिक्षत्⟫
+:::
+*   如果起始元音後接以鼻音或 d、r 開頭的輔音群，則該群的第二个辅音（或其替代音）會依照以下模式插入 i：
+
+
+元音 - 第一個輔音 - 第二個輔音（替代音）- i - 第二個輔音
+
+::: indent
+⟪अञ्ज्⟫ 7P：使役 ⟪अञ्जयति⟫，重疊音節 ⟪अञ्जिज्⟫，不定過去式 ⟪आञ्जिजत् ऋ⟫ 1P：使役 ⟪अर्पयति⟫，重疊音節 ⟪अर्पिप्⟫，不定過去式 ⟪आर्पिपत् अर्ह्⟫ 1P：使役 ⟪अर्हयति⟫，重疊音節 ⟪अर्जिह्⟫，不定過去式 ⟪आर्जिहत्⟫
+:::
+這種以元音開頭的派生詞幹（使役式）的重疊形式，稱為「阿提卡重疊」。
+## 56.2. 祈願式
+
+::: grammar-box
+**祈願式是無增音形式，對應於有增音的形式；也就是說，它的形式與陳述式未完成過去式或不定過去式的無增音形式完全相同。本土印度語法並未將祈願式視為一個獨立的語法範疇。**
+:::
+根據基礎研究：
 
 ::: media
 ![](/images/lekt5601.jpg)
-Abb.:
-Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
-(Bildquelle: [Details](/licenses#lekt5601))
+圖示：
+愛爾朗根-紐倫堡大學比較語言學教授（1955 - 1983）
+（圖片來源：[詳情](/zh/licenses#lekt5601)）
 :::
 
 ::: indent
-Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+霍夫曼，卡爾（1915–1996）：《吠陀中的祈願式：同步功能研究》／卡爾·霍夫曼著。-- 海德堡 : Winter, 1967. -- 298頁。-- (印度-伊朗圖書館 : 第三系列, 研究)
 :::
-hat der Injunktiv im Veda folgende Eigenschaften:
+祈願式在吠陀中具有以下特徵：
 
-*   er ist nicht berichtend, sondern erwähnend
-*   er ist zeitstufenlos
-*   der Injunktiv Präsens (= augmentloses Imperfekt) bezeichnet den unvollendeten Aspekt
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
+*   它不是敘述性的，而是提及性的
+*   它是無時間階段的
+*   祈願式現在時（= 無增音未完成過去式）表示未完成的體貌
+*   祈願式不定過去式表示已完成的體貌。
+::: grammar-box
+**在後吠陀梵語中，命令式僅與禁止助詞 ⟪मा⟫ （+ 命令式過去時）或 ⟪मा स्म⟫ （+ 命令式現在時或過去時）出現，不同的體通常不再起作用。**
+
+（若帶有體
+
+*   ⟪मा⟫ + 命令式過去時將表示禁止句：「不要開始……！」、「不要……！」
+*   若為 ⟪मा स्म⟫ + 命令式現在時，則表示禁止句，即禁止某項正在進行的動作或已存在的狀態：「停止……！」、 「別再……了！」
+
+然而，在古典梵語中通常並不區分這兩種情況。）
+:::
+## 56.3. 禁止句
 
 ::: grammar-box
-**Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel ⟪मा⟫ (+ Injunktiv Aorist) bzw. ⟪मा⟫ ⟪स्म⟫ (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen.**
+**主要形式：**
 
-(mit Aspekt
+**⟪मा⟫ + 命令式過去式**
 
-*   würde ⟪मा⟫ + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!"
-*   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!"
-
-Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
+**⟪मा स्म⟫ + 命令式過去式或命令式現在式**
 :::
-## 56.3. Der Verbotssatz
-
-::: grammar-box
-**Hauptform:**
-
-**⟪मा⟫ + Injunktiv Aorist**
-
-**⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens**
-:::
-Beispiele:
+範例：
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा कर्महेतुर्भूः⟫ 「切勿成為受行為果報驅使之人！」（命令式過去時） (⟪भगवद्गीता⟫ 2,47c)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Werde nicht unmännlich!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
+⟪क्लैब्यं मा स्म गमः⟫ 「不要變得不陽剛！」（命令式過去時） (⟪भगवद्गीता⟫ 2,3a)
 :::
 ::: media
 ![](/images/lekt5602.webp)
-Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Bildquelle: [Details](/licenses#lekt5602))
+圖：⟪क्लैब्यं मा स्म गमः⟫
+位於特里蘇爾（Thrissur）瓦拉奇拉（瓦拉奇拉，瓦拉奇拉）某政黨的海報（埃內斯托·切·格瓦拉） (തൃश्ശൂര്‍)。該海報上的文字粗略翻譯如下：「殉難對革命者而言是一場迷人的體驗，但對懦夫來說卻是令人卻步的選擇。切·格瓦拉絕非懦夫的榜樣。」
+（圖片來源：[詳情](/zh/licenses#lekt5602))
 :::
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
+這兩個例子都具有禁止性語義。 因此，此處的命令式過去時是以其原始意義使用的。（在這種句子中，命令式過去時佔主導地位，或許是因為禁止句比抑制句更為普遍，但關於古典梵語的這一點，仍有待進一步研究。）
 
 ::: grammar-box
-**Andere Formen von Verbotssätzen:**
+**禁止句的其他形式：**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (selten)  **
-**z.B.  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
+*   **⟪मा⟫ + (⟪स्म⟫) + 命令式（罕見） **
+**例如： ⟪मा ते सङ्गो ऽस्त्वकर्मणि⟫**
 
-*   ⟪अलम्⟫ oder ⟪कृतम्⟫  = Instrumentalis im Inhibitivsatz  
-    z.B. ⟪अलं⟫  ⟪विषादेन⟫ "Genug mit dem Verzagen! = Hör auf, verzagt zu sein! = Kopf hoch!"  
+*   ⟪अलम्⟫ 或 ⟪कृतम्⟫ = 禁止句中的工具格  
+例如 ⟪अलं विषादेन⟫ "別再沮喪了！= 停止沮喪吧！= 振作起來！"  
 
-*   ⟪न⟫ + Gerundiv (Partizip der Notwendigkeit)
+*   ⟪न⟫ + 動形詞（必要分詞）
 
-Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B.
+此外，還有其他一些較少見的禁止句形式，請參見例如
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
-Abb.: ⟪अलं⟫  ⟪विषादेन⟫
-(Bildquelle: [Details](/licenses#lekt5603))
+圖： ⟪अलं विषादेन⟫
+（圖片來源：[詳情](/zh/licenses#lekt5603)）
 :::
-## 56.4. ⟪स्म⟫
+## 第56課.4節. ⟪स्म⟫
 
 ::: grammar-box
-**⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"**
+**⟪स्म⟫ 強調：「確實、的確、肯定、正是」**
 
-**Außerdem ist folgende Konstruktion sehr wichtig:**
+**此外，以下結構也非常重要：**
 
 :::
 ::: indent
-⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen:
+⟪स्म⟫ + 現在時直陳式用於講述過去的事情，特別是為了表示過去的持續狀態：
 
-z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
+例如 ⟪वसति स्म⟫ "曾經居住"（⟪स्म⟫ 有時也可能省略）。
 :::
-## 56.5. 练习
+## 第56課.5節. 練習
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
+A) 請在不使用輔助工具的情況下（！）確定並翻譯以下形式：
 
 1.  ⟪अस्मत्⟫
 2.  ⟪अस्मात्⟫
@@ -307,4 +284,3 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

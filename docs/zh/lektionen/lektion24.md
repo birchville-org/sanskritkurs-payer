@@ -1,114 +1,115 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "第24課"
+subtitle: "與格（⟪चतुर्थी⟫ = 「第四格詞尾」）"
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第24課
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. 與格（⟪चतुर्थी⟫ = 「第四種詞尾」）
 
 ::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.**
+**1. 為了表達動作的目的或意圖（「為了」），除了使用不定詞（⟪तुमुन्⟫）之外，也可以使用帶有 kṛt 詞綴的名詞（該名詞表示動作或狀態），並使用與格（⟪चतुर्थी⟫ = 「第四種詞尾」）。**
 
-anstatt:
+範例：
 
-anstatt:
+代替：
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
 :::
-kann man auch sagen:
+也可以說：
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
-oder:
+或者：
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनश्रवणाय गतः ।⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+= 「羅摩前往，以聆聽老師的演講。」
 ::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404))
+圖：⟪बाला गुरुश्रवणाय गताः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2404)）
 :::
 
 ::: grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
+**2. 與格（⟪चतुर्थी⟫）也可以表示目的不定詞所省略的賓語：**
 
-Beispiel:
+範例：
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
+⟪फलेभ्यो ग्रामं गच्छति⟫ = 「他為了水果的目的前往村莊 = 他去村莊是為了取水果。」
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
+**同樣地，與格（⟪चतुर्थी⟫）也表示某物或某動作的目的：**
 
-Beispiel:
+範例：
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+⟪यज्ञायान्नम्⟫ = 「為了祭祀目的的食物 = 供祭祀用的食物」
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401))
+圖：⟪यज्ञायान्नम्⟫
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] 是印度教傳統活動，在印度教新年慶祝期間於所有 BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] 寺廟舉行。當天會向 Bhagwan Swaminarayan [સ્વામિનારાયણ] 供奉數百種素食佳餚。
+（圖片來源：[詳情](/zh/licenses#lekt2401)）
 :::
 
 ::: grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)**
+**3. 與格（⟪चतुर्थी⟫）也用來表示動作對象所服務的人或事物（間接賓語；問題：對誰？）。但請注意具有雙重賓格的動詞（⟪द्वितीया⟫）！**
 
-Beispiel:
+範例：
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse)
+⟪रामाय फलं ददाति⟫ = 「他給羅摩一顆水果。」（詞根 ⟪दा⟫ 第三現在時類）
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402))
+圖：⟪बाला बालाय रक्षबन्धनं ददाति⟫
+Raksha bandhan 在印度各地以熱情和喜悅慶祝。這個節日體現了兄弟姐妹之間無條件的愛。
+（圖片來源：[詳情](/zh/licenses#lekt2402)）
 :::
 
 ::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
+**4. 與格在一些動詞（和一些其他詞彙）中，如同德語一樣用於回答「對誰？」的問題：**
 
-Beispiele:
+範例：
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern."
+⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = 「神對人類發怒。」
 
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen"
+⟪अलम्⟫ 副詞：「足夠、充分、匹敵」： ⟪अलं योधो योधाय⟫ = 「一位戰士是另一位戰士的對手」
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403))
+圖：⟪अलं योधो योधाय⟫
+「羅摩（右）坐在哈奴曼的肩膀上，與魔王羅波那作戰。」約 1820 年
+（圖片來源：[詳情](/zh/licenses#lekt2403)）
 :::
-Weitere Verwendungen des Dativ später.
+與格的其它用法稍後介紹。
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. 與格（⟪चतुर्थी⟫）的構成
 
 ::: grammar-box
-**Die regelmäßigen Endungen des Dativ sind:**
+**與格的規則詞尾是：**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
+* **單數：-e；元音結尾的陰性詞幹：-ai**
+* **複數：與格和離格 ⟪पञ्चमी⟫：-bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. 輔音詞幹
 
 ::: grammar-box
 
-| | Dativ Singular | Dativ Plural |
+| | 與格單數 | 與格複數 |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
 | ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
@@ -116,292 +117,275 @@ Weitere Verwendungen des Dativ später.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. 疑问代词
+### 24.2.2. 疑問代詞
 
 ::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum |
+| | 陽性 / 中性 | 陰性 |
 | :--- | :--- | :--- |
-| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
+| **與格單數** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **與格複數** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. 指示代词
+### 24.2.3. 指示代詞
 
 ::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
-| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
-| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
-| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
+| **陽性 / 中性** | **與格單數** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **與格複數** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **陰性** | **與格單數** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **與格複數** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. 元音詞幹
 
 ::: grammar-box
-**Vokalische Stämme**
+**元音詞幹**
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫
-  * Dat. sg. **⟪देवाय⟫**
-  * Dat. pl. **⟪देवेभ्यस्⟫**
-* **Maskulina auf -i:** ⟪कवि⟫
-  * Dat. sg. **⟪कवये⟫**
-  * Dat. pl. **⟪कविभ्यस्⟫**
-* **Maskulina auf -u:** ⟪पशु⟫
-  * Dat. sg. **⟪पशवे⟫**
-  * Dat. pl. **⟪पशुभ्यस्⟫**
-* **Feminina auf -ā:** ⟪देवता⟫
-  * Dat. sg. **⟪देवतायै⟫**
-  * Dat. pl. **⟪देवताभ्यस्⟫**
-* **Feminina auf -ī:** ⟪देवी⟫
-  * Dat. sg. **⟪देव्यै⟫**
-  * Dat. pl. **⟪देवीभ्यस्⟫**
-* **Feminina auf -i:** ⟪श्रुति⟫
-  * Dat. sg. **⟪श्रुतये⟫** oder **⟪श्रुत्यै⟫** (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
-  * Dat. pl. **⟪श्रुतिभ्यस्⟫**
-* **Feminina auf -u:** ⟪धेनु⟫
-  * Dat. sg. **⟪धेनवे⟫** oder **⟪धेन्वै⟫**
-  * Dat. pl. **⟪धेनुभ्यस्⟫**
+* **以 -a 結尾的陽性 / 中性：** ⟪देव⟫
+* 與格單數 ⟪देवाय⟫
+* 與格複數 ⟪देवेभ्यस्⟫
+* **以 -i 結尾的陽性：** ⟪कवि⟫
+* 與格單數 ⟪कवये⟫
+* 與格複數 ⟪कविभ्यस्⟫
+* **以 -u 結尾的陽性：** ⟪पशु⟫
+* 與格單數 ⟪पशवे⟫
+* 與格複數 ⟪पशुभ्यस्⟫
+* **以 -ā 結尾的陰性：** ⟪देवता⟫
+* 與格單數 ⟪देवतायै⟫
+* 與格複數 ⟪देवताभ्यस्⟫
+* **以 -ī 結尾的陰性：** ⟪देवी⟫
+* 與格單數 ⟪देव्यै⟫
+* 與格複數 ⟪देवीभ्यस्⟫
+* **以 -i 結尾的陰性：** ⟪श्रुति⟫
+* 與格單數 ⟪श्रुतये⟫ 或 ⟪श्रुत्यै⟫（即如 ⟪कवि⟫ 或如 ⟪देवी⟫）
+* 與格複數 ⟪श्रुतिभ्यस्⟫
+* **以 -u 結尾的陰性：** ⟪धेनु⟫
+* 與格單數 ⟪धेनवे⟫ 或 ⟪धेन्वै⟫
+* 與格複數 ⟪धेनुभ्यस्⟫
 :::
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. 詞尾 -ai 和 -au 的連聲
 
 ::: grammar-box
-**Sandhi von auslautendem -ai und -au**
+**詞尾 -ai 和 -au 的連聲**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)**
+* **-ai 在元音前通常變為 -ā（較少見的是像詞中那樣變為 -āy）**
+* **-au 在元音前通常變為 -āv（較少見的是變為 -ā）**
 
-Beispiel:
+範例：
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "這團火"
 :::
-## 24.4. 词汇表
+## 24.4. 詞彙表
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
+⟪अलम्⟫ 副詞：足夠，充足；（對某人、某事）勝任；與具格連用表示：足夠，充足；與工具格連用表示：受得了……，停止做……，例如 ⟪अलं क्रोधेन⟫ = "對憤怒受夠了 = 停止憤怒！"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
+以同樣的方式，⟪अलम्⟫ 與工具格連用時：
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "憤怒已盡 = 停止憤怒！"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫：裝飾
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ 陽性：裝飾品，裝飾物（在詩歌中）
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+圖：⟪अलंकारः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2405)）
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ 陽性：動機，起因，原因；⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ 與屬格連用或作為複合詞的後半部分，意為"為了……，因為"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ 陰性：形象，肖像
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+圖：⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+（圖片來源：[詳情](/zh/licenses#lekt2406)）
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫：發生，出現，產生
 
-Von ⟪वृत्⟫:
+源自 ⟪वृत्⟫：
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ 陰性：行為，活動，生活方式
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ 中性：行為
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ 前綴：附著，朝向……去，向……來，朝向，進入，關於，對，在……之上，在
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下，往下，進入，向後
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ 介詞 / 後置詞：在離格之前或與賓格之後連用，意為"直到……，直至……"；與離格連用，意為"從……起，自……開始"
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ 不變詞：從那裡，然後，因此（代詞詞幹 a- "這" + 離格後綴 -tas）
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: 監督、部門主管；目擊者
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: 力量、感官
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: 思考、論證
 
-davon
+關於此事
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: 否定（⟪अप⟫ + ⟪ऊह⟫）
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: 正反論辯
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+圖：⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+（圖片來源：[詳情](/zh/licenses#lekt2407)）
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : 有用的
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: 林產物、金屬（非貴金屬）
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : 看見、顯現；稱呼、解釋、告知
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : 講述
 
-davon:
+關於此事：
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: 敘事
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+圖：⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+（圖片來源：[詳情](/zh/licenses#lekt2408)）
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : 加總、計算
 
-davon:
+關於此事：
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+⟪संख्या⟫ f.: 計數、列舉； ⟪सांख्य⟫ n.: 六種哲學體系之一（簡寫：Basham, Wonder S. 326f.）
 :::
-⟪ग्रहण⟫ n.: Ergreifen
+⟪ग्रहण⟫ n.: 抓取
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
+⟪चौल⟫ n.: 剃髮儀式（⟪संस्कार⟫）（於三歲時進行）
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
+⟪तत्त्व⟫ n.: 真實本質、真理、現實（⟪तद्⟫ + ⟪त्व⟫ = 此性）
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
+⟪स्वस्ति⟫ f.: 幸福、救贖（名詞化自 ⟪सु अस्ति⟫ = "它很好"）
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruß (Deklination später). Begrüßungsformel: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: 鞠躬、敬意、問候（變格稍後）。問候語：⟪नमो नमः⟫
 
-davon:
+由此：
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüßen
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ ：鞠躬、敬意、問候
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+圖：⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+⟪गीतगोविन्द⟫ 的手稿，公元 1730 年
+（圖片來源：[詳情](/zh/licenses#lekt2411)）
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: 歡迎（源自 su-ā-gata）
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: 草莖
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ 副詞：再次、又、返回、但是
 
-## 24.5. 练习
+## 第 24.5 課。練習
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) 構建與格單數和與格/從格複數，並給出名詞詞幹的意義：
 
-1.  ⟪श्रव⟫
-2.  ⟪भवन⟫
-3.  ⟪गति⟫
-4.  ⟪ऋषि⟫
-5.  ⟪सुख⟫
-6.  ⟪गमन⟫
-7.  ⟪जय⟫
-8.  ⟪साधु⟫
-9.  ⟪धेनु⟫
-10.  ⟪शुद्रा⟫
-11.  ⟪ब्राह्मणी⟫
-12.  ⟪अग्नि⟫
-13.  ⟪एतद्⟫ ⟪३⟫
-14.  ⟪सन्त्⟫
-15.  ⟪बुद्धिमन्त्⟫
-16.  ⟪यज्ञ⟫
-17.  ⟪वचन⟫
-18.  ⟪सत्यवन्त्⟫
-19.  ⟪स्मृति⟫
-20.  ⟪सर्ग⟫
-21.  ⟪स्वर्ग⟫
-22.  ⟪दर्शन⟫
-23.  ⟪सृष्टि⟫
-24.  ⟪अर्हन्त्⟫
-25.  ⟪भक्ति⟫
-26.  ⟪दोष⟫
-27.  ⟪पूजा⟫
-28.  ⟪दासी⟫
-29.  ⟪गुरु⟫
+1. ⟪श्रव⟫
+2. ⟪भवन⟫
+3. ⟪गति⟫
+4. ⟪ऋषि⟫
+5. ⟪सुख⟫
+6. ⟪गमन⟫
+7. ⟪जय⟫
+8. ⟪साधु⟫
+9. ⟪धेनु⟫
+10. ⟪शुद्रा⟫
+11. ⟪ब्राह्मणी⟫
+12. ⟪अग्नि⟫
+13. ⟪एतद् ३⟫
+14. ⟪सन्त्⟫
+15. ⟪बुद्धिमन्त्⟫
+16. ⟪यज्ञ⟫
+17. ⟪वचन⟫
+18. ⟪सत्यवन्त्⟫
+19. ⟪स्मृति⟫
+20. ⟪सर्ग⟫
+21. ⟪स्वर्ग⟫
+22. ⟪दर्शन⟫
+23. ⟪सृष्टि⟫
+24. ⟪अर्हन्त्⟫
+25. ⟪भक्ति⟫
+26. ⟪दोष⟫
+27. ⟪पूजा⟫
+28. ⟪दासी⟫
+29. ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) 翻譯並解析梵文中的複合詞：
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
+⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥ नरा धनलाभाय व्रतानि चरन्ति ॥२॥ गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥ बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥ देवप्रतिमायै गृहं गर्भगृहम् ॥५॥ स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥ मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥ देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥ मरणाय जना जायन्ते ॥९॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
+C) 用梵文重述句子 A) 1-4，將不定式（⟪तुमुन्⟫）替換為與格。請注意，不定式支配的格與其對應動詞相同。
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
+D) 將句子 A）7 中帶有 -⟪अर्थ⟫ 的結構替換為同義的與格。
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
+E) 將句子 A）6 中的與格結構替換為帶有 -⟪अर्थ⟫ 的同義結構。
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
+## 24.6. 關於與格用法的進一步練習
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
+譯為梵語：
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
+1\. 未受祭祀的女神，對人類感到憤怒。
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
+2\. 他讓牛進入村莊（釋放奶牛到村子裡）。
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
+3\. 現在足夠了 = 忍耐已到極限。
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb.
+4\. 這對婆羅門來說很好（⟪हित⟫，⟪सुख⟫）。
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
-
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
-
-## 24.6. Weitere 练习en zum Gebrauch des Dativ
-
-Übersetzen Sie ins Sanskrit:
-
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-
-2\. Er lässt die Kuh ins Dorf los.
-
-3\. Jetzt reichts = Genug mit der Geduld.
-
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen.
-
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
+5\. 致敬（⟪नमस्⟫）給 Śiva！向 Śrī Gaṇeśa 致敬！
 
 ::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409))
+圖注：⟪श्रीगणेशाय नमः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2409)）
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
+6\. 再見！（= 祝您平安吉祥（⟪स्वस्ति⟫ f.）！）
 
-7\. Diese Frucht reicht zum Essen.
+7\. 這顆水果足夠食用。
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫).
+8\. 一名戰士能抵擋（⟪शक्त⟫）另一名（對手）戰士。
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+9\. 即使是 Viṣṇu（⟪प्र⟫-⟪भू⟫ + 與格）也無法超越 Śiva。
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
+10\. 在我向三位智者（賓格）鞠躬之後（⟪नमस्कृ⟫）……他向 Narasiṃha（與格）鞠躬。
 
 ::: indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+解釋：⟪मुनित्रयम्⟫ "三智者之團體 = 三位智者" = 語法學家 ⟪पाणिनि⟫、⟪कात्यायन⟫ 和 ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410))
+圖注：⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫撕咬 ⟪हिरण्यकशिपु⟫，出自 ⟪भागवतपुराण⟫ 的手稿葉片
+（圖片來源：[詳情](/zh/licenses#lekt2410)）
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
+11\. 歡迎（⟪स्वागतम्⟫）您。歡迎王后光臨。
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen!
+12\. 我祝您平安吉祥（⟪कुशल⟫）= 願您平安！
 
-13\. Er betrachtet ihn nicht als Grashalm.
+13\. 他不將他視為草莖。
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
+14\. 一顆水果足夠食用，水則足以飲用。
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
+15⟪१५⟫。再見！（新梵語：⟪पुनर्दर्शनाय⟫）
 

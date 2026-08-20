@@ -31,10 +31,12 @@ outline: 2
 | ⟪अन्न⟫ | [anna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anna&filter=roman&accent=no&transLit=roman) | n | 被吃之物） | [13](/zh-CN/lektionen/lektion13#_13-9-) |
 | ⟪अन्यद्⟫ | [anyad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyad&filter=roman&accent=no&transLit=roman) | 3 | 另一个（变格同） | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | m | 终点，解脱 | [20](/zh-CN/lektionen/lektion20#_20-9-) |
+| ⟪अपि⟫ | [api](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=api&filter=roman&accent=no&transLit=roman) | — | 也（后置） | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | 否定（ + ） | [24](/zh-CN/lektionen/lektion24#_24-4-) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | 被、朝向、向、向、对、进入、关于、在、超过、在 | [36](/zh-CN/lektionen/lektion36#_36-4-) |
 | ⟪अभिगम्⟫ | [abhigam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhigam&filter=roman&accent=no&transLit=roman) | — | 前往，接近 | [36](/zh-CN/lektionen/lektion36#_36-4-) |
 | ⟪अभिनिवेष⟫ | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhiniveṣa&filter=roman&accent=no&transLit=roman) | m | 倾向，固执，坚持；特指：对身体的执着，视其为“自我”所有。 | [5](/zh-CN/lektionen/lektion05#_5-4-) |
+| ⟪अभिषेक⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | abhiṣeka m. : 国王加冕时的灌顶仪式，王权授予 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪अभ्यन्तर⟫ | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhyantara&filter=roman&accent=no&transLit=roman) | 3 | 位于内部，最近的；m. 最近的成员，本地人 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 | ⟪अरण्य⟫ | [araṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=araṇya&filter=roman&accent=no&transLit=roman) | n | 荒野，森林 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 | ⟪अरि⟫ | [ari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ari&filter=roman&accent=no&transLit=roman) | m | 敌人（据蒂姆所著《梨俱吠陀中的异乡人》：原义 = 外邦人） | [15](/zh-CN/lektionen/lektion15#_15-8-) |
@@ -186,6 +188,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | 棍棒，鞭打，惩罚 | [18](/zh-CN/lektionen/lektion18#_18-4-) |
+| ⟪दह् दहति दग्ध⟫ | [dah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dah&filter=roman&accent=no&transLit=roman) | — | （使）燃烧 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪दायक⟫ | [dāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāyaka&filter=roman&accent=no&transLit=roman) | — |  给予的，施予的 | [20](/zh-CN/lektionen/lektion20#_20-9-) |
 | ⟪दास⟫ | [dāsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāsa&filter=roman&accent=no&transLit=roman) | m | 奴隶，农奴，仆人 | [15](/zh-CN/lektionen/lektion15#_15-8-) |
 | ⟪दासी⟫ | [dāsī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāsī&filter=roman&accent=no&transLit=roman) | f | 女奴，农妇，女仆 | [15](/zh-CN/lektionen/lektion15#_15-8-) |
@@ -262,6 +265,8 @@ outline: 2
 | ⟪बलि⟫ | [bali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bali&filter=roman&accent=no&transLit=roman) | m | 贡品，捐赠，赋税 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 | ⟪बाण⟫ | [bāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāṇa&filter=roman&accent=no&transLit=roman) | m | 箭，目标 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 | ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | 困境，折磨，痛苦 | [20](/zh-CN/lektionen/lektion20#_20-9-) |
+| ⟪बुध् बुध्यते बोधति बुद्ध⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | 觉醒，获得觉悟；PPP buddha 3 已觉醒者，因此 Buddha = “觉者”（非：觉悟者） | [12](/zh-CN/lektionen/lektion12#_12-5-) |
+| ⟪बोधि⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | bodhi m./f. : 觉悟（佛陀或耆那教祖师由此获得解脱的智慧） | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | m | 个人设想的创世神梵天（Brahmā） | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | 婆罗门女。 | [3](/zh-CN/lektionen/lektion03#_3-6-) |
 
@@ -294,15 +299,19 @@ outline: 2
 | ⟪मातृ⟫ | [mātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātṛ&filter=roman&accent=no&transLit=roman) | f | 母亲 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 | ⟪मात्स्य⟫ | [mātsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātsya&filter=roman&accent=no&transLit=roman) | 3 | 属于（鱼类）的 | [29](/zh-CN/lektionen/lektion29#_29-2-) |
 | ⟪मान⟫ | [māna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māna&filter=roman&accent=no&transLit=roman) | m | 评估，声誉，名声，荣誉，骄傲，傲慢，自卑感；（人们以他人为标准衡量自己） | [25](/zh-CN/lektionen/lektion25#_25-5-) |
+| ⟪मार्ग⟫ | [mārga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mārga&filter=roman&accent=no&transLit=roman) | m | 道路（路径常为兽径） | [12](/zh-CN/lektionen/lektion12#_12-5-) |
+| ⟪मुच् मुञ्चति मुक्त⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | 解开，松开，解放；从轮回（saṃsāra m.）中解脱 = 救赎 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | 喜悦，特别是随喜（与嫉妒相对）。 | [3](/zh-CN/lektionen/lektion03#_3-6-) |
 | ⟪मूल⟫ | [mūla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūla&filter=roman&accent=no&transLit=roman) | n | 词根 | [25](/zh-CN/lektionen/lektion25#_25-5-) |
 | ⟪मूल्य⟫ | [mūlya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūlya&filter=roman&accent=no&transLit=roman) | n | 价值，价格 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪मृ⟫ | [mṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛ&filter=roman&accent=no&transLit=roman) | — | 死亡（根据印度语法学家：6 Ā） | [15](/zh-CN/lektionen/lektion15#_15-8-) |
+| ⟪मृग⟫ | [mṛga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛga&filter=roman&accent=no&transLit=roman) | m | 野兽 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪मृगया⟫ | [mṛgayā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛgayā&filter=roman&accent=no&transLit=roman) | f | 狩猎 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 | ⟪मृति⟫ | [mṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛti&filter=roman&accent=no&transLit=roman) | f | 死亡，死 | [15](/zh-CN/lektionen/lektion15#_15-8-) |
 | ⟪मृत्यु⟫ | [mṛtyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛtyu&filter=roman&accent=no&transLit=roman) | m | 死亡；拟人化：死神 | [15](/zh-CN/lektionen/lektion15#_15-8-) |
 | ⟪मेघ⟫ | [megha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=megha&filter=roman&accent=no&transLit=roman) | m | 云（“雨者”） | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪मैत्री⟫ | [maitrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maitrī&filter=roman&accent=no&transLit=roman) | f | 友谊，友好，友善的善意。 | [5](/zh-CN/lektionen/lektion05#_5-4-) |
+| ⟪मोक्ष⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | mokṣa m. : 解脱，解放，救赎 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 
 ## य
 
@@ -414,9 +423,11 @@ outline: 2
 | ⟪समान ३⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | 相同，平等 | [23](/zh-CN/lektionen/lektion23#_23-4-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | 每个，所有 | [50](/zh-CN/lektionen/lektion50#_50-2-) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | 联合，配备 | [18](/zh-CN/lektionen/lektion18#_18-4-) |
+| ⟪सह्⟫ | [sah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sah&filter=roman&accent=no&transLit=roman) | — | 克服，忍受，忍耐 = 宽恕 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | 正确，好。 | [2](/zh-CN/lektionen/lektion02#_2-5-) |
 | ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | 平等，一致 | [23](/zh-CN/lektionen/lektion23#_23-4-) |
 | ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | m | 狮子（Panthera leo persica） | [15](/zh-CN/lektionen/lektion15#_15-8-) |
+| ⟪सिच् सिञ्चति सिक्त⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | 洒，滴 | [12](/zh-CN/lektionen/lektion12#_12-5-) |
 | ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | 边界 | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | 儿子 | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | hochgepriesen, ausgezeichnet, gut | [18](/zh-CN/lektionen/lektion18#_18-4-) |

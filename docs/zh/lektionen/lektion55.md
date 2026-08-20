@@ -1,32 +1,33 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "第55課"
+subtitle: "a-不定過去時（帶主題元音的不定過去時）"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第55課
 
-## 55.1. a-不定过去时（带主题元音的不定过去时）
+## 55.1. a-無定過去時（帶主題元音的無定過去時）
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**a-無定過去時的構成方式如同六類現在時（⟪लङ्⟫）的不定過去式（⟪तुदादि⟫），即：**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**增強元音 + 弱級詞根 + a + 次要語尾**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**在與不定過去式相同的情況下，-a- 會被 -ā- 取代。**
 
-**Keine Nasalinfixe.**
+**無鼻音 infixes（插入成分）。**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**自稱形式較少見；對於雙動詞（Ubhayapada），通常根據其他無定過去時類別構成（參見 Kielhorn《語法》§340 以及下文相應的無定過去時類別）。**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**具有此種無定過去時的詞根列表，參見 Kielhorn《語法》§340。**
 :::
-Beispiel:
+範例：
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 六類 "澆灌"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +37,23 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmäßige Bildungen:
+不規則構成：
 
 ::: indent
-⟪अस्⟫ 4P "werfen": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 四類 "投掷"：:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]（解釋參見 Thumb-Hauschild §541,4）
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
+⟪ख्या⟫ + ⟪आ⟫ 二類 "講述"：:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Hochstufe!)
+⟪दृश्⟫ "看見"：:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]（強級！）
 :::
-Beachte:
+請注意：
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!)
+⟪शास्⟫ 二類 "命令"：⟪अशिषत्⟫（規則的弱級！）
 :::
-## 55.2. 练习
+## 55.2. 練習
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+請書面確定並翻譯以下形式，並構成相應的 a-無定過去時形式：
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -74,23 +75,23 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  ⟪श्राम्यन्ति⟫
 19.  ⟪विन्दथ⟫
 20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P)
+21.  ⟪वर्तामहे⟫ (a-無定過去時：自稱)
 22.  ⟪अशात्⟫
 23.  ⟪सेक्ष्यसे⟫
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+27.  ⟪अजीर्यम्⟫ (無定過去時：強級)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+30.  ⟪अशोभथाः⟫ (a-無定過去時：自稱)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+圖：⟪अजीर्यमिति⟫
+「伊納亞特·汗病危，為賈漢吉爾手稿繪製的微型畫草稿 = جهانگير，約1618年
+（圖片來源：[詳情](/zh/licenses#lekt5501)）
 :::
 

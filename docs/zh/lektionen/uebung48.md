@@ -1,160 +1,160 @@
-
 ---
-title: "Übung 48"
+title: "練習48"
 uebung_id: 48
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習48
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion:
+A) 翻譯位於本課開頭的 ⟪सुभाषितानि⟫：
 
-⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Sprich die Wahrheit!
+⟪१⟫。 **⟪सत्यं वद ॥ १ ॥⟫**
+說實話！
 
-⟪२⟫. **⟪धर्मं⟫ ⟪चर⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Wandle nach Recht und Sitte!
+⟪२⟫。 **⟪धर्मं चर ॥ २ ॥⟫**
+依正法與習俗行事！
 
-⟪३⟫. **⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Betrachte deine Mutter als Gottheit!
+⟪३⟫。 **⟪मातृदेवो भव ॥ ३ ॥⟫**
+視你的母親如神明！
 
-⟪४⟫. **⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Würde wird durch Freigebigkeit erlangt.
+⟪४⟫。 **⟪गौरवं प्राप्यते दानात् ॥ ४ ॥⟫**
+慷慨贏得尊嚴。
 
-⟪५⟫. **⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वी⟫it ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Was morgen zu tun ist, soll man heute tun. (Verschiebe nicht auf morgen, was du heute kannst besorgen!)
+⟪५⟫。 **⟪श्वः कार्यमद्य कुर्वी⟫it ⟪॥ ५ ॥⟫**
+今日事今日畢。（勿將今日可為之事推至明日！）
 
-⟪६⟫. **⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Ein Mensch ohne Bildung ist ein Vieh.
+⟪६⟫。 **⟪विद्याविहीनः पशुः ॥ ६ ॥⟫**
+無教育之人猶如牲畜。
 
-⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Die Kürze ist der Schmuck des Grammatikers.
+⟪७⟫。 **⟪लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥⟫**
+簡潔是文法家的裝飾。
 
 ::: media
 ![](/images/uebung083.webp)
-Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
-(Bildquelle: [Details](/licenses#uebung083))
+圖： ⟪विद्याविहीनः पशुः⟫
+（圖片來源：[詳情](/licenses#uebung083)）
 :::
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ)
+## 譯為梵文（命令式）
 
-B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs (vorzugsweise Wurzeln der 2. und 3. Klasse):
+B) 使用命令式（ preferably 第二類和第三類詞根）將以下內容譯為梵文：
 
-⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Oder: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
-Nachdem du einen Sohn bekommen hast, verlasse die Familie!
+⟪१⟫。 **⟪पुत्रं लब्ध्वा कुलं जहाहि ॥ १ ॥⟫** （或：**... ⟪जहीहि⟫ / ⟪जहिहि ॥⟫**）
+既得子嗣，便離家！
 
-⟪२⟫. **⟪पौरवाः⟫ ⟪कृतपापेभ्यो⟫ ⟪बिभीत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
+⟪२⟫。 **⟪पौरवाः कृतपापेभ्यो बिभीत ॥ २ ॥⟫**
+普盧後裔，畏懼行惡者！
 
-⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Die Mädchen sollen den Bettlern Speise geben.
+⟪३⟫。 **⟪कन्या भिक्षुभ्यो ऽन्नं ददतु ॥ ३ ॥⟫**
+少女應施食予乞者。
 
-⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Oder: **⟪वचाम⟫ ⟪॥⟫**)
-Wir wollen sprechen.
+⟪४⟫。 **⟪ब्रवाम ॥ ४ ॥⟫** （或：**⟪वचाम ॥⟫**）
+我們欲言。
 
 ::: media
 ![](/images/uebung085.webp)
-Abb.: ⟪वचाम⟫
-(Bildquelle: [Details](/licenses#uebung085))
+圖： ⟪वचाम⟫
+（圖片來源：[詳情](/licenses#uebung085)）
 :::
-⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Mit den Worten "Komm, Mönch!" nahm der Buddha den Mann in den Orden auf.
+⟪५⟫. **"⟪एहि भिक्ष⟫" ⟪इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥⟫**
+佛陀以「來吧，比丘！」之言，接納該男子加入僧團。
 
-⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Seid wahre Menschen (Nachfahren Manus)!
+⟪६⟫. **⟪सन्मानवाः स्त ॥ ६ ॥⟫**
+成為真正的人（摩奴的後裔）！
 
-⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Ich will Śiva und die anderen Götter preisen.
+⟪७⟫. **⟪शिवादिदेवान्स्तवानि ॥ ७ ॥⟫**
+我要讚頌濕婆及其他諸神。
 
-⟪८⟫. **⟪आख्याहि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Erzähle!
+⟪८⟫. **⟪आख्याहि ॥ ८ ॥⟫**
+講述吧！
 
-⟪९⟫. **⟪नरकान्मिमीष्व⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Miss die Höllen aus!
+⟪९⟫. **⟪नरकान्मिमीष्व ॥ ९ ॥⟫**
+丈量地獄！
 
-⟪१०⟫. **⟪एतेषु⟫ ⟪शयनेषु⟫ ⟪शेरताम्⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen auf diesen Lagern liegen.
+⟪१०⟫. **⟪एतेषु शयनेषु शेरताम् ॥ १० ॥⟫**
+他們應躺在這些床榻上。
 
-⟪११⟫. **⟪पुरुषव्याघ्रा⟫ ⟪इन्द्रशत्रून्घ्नन्तु⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Die tigergleichen Männer sollen die Feinde Indras töten.
+⟪११⟫. **⟪पुरुषव्याघ्रा इन्द्रशत्रून्घ्नन्तु ॥ ११ ॥⟫**
+如虎般的男子應殺死因陀羅的敵人。
 
-⟪१२⟫. **⟪समाधेहि⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (Oder: **⟪समाधत्स्व⟫ ⟪॥⟫**)
-Konzentriere dich!
+⟪१२⟫. **⟪समाधेहि ॥ १२ ॥⟫** (或：**⟪समाधत्स्व ॥⟫**)
+專注！
 
-⟪१३⟫. **⟪अत्राध्वम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Sitzt hier!
+⟪१३⟫. **⟪अत्राध्वम् ॥ १३ ॥⟫**
+坐在此處！
 
-⟪१४⟫. **⟪तानि⟫ ⟪फलान्यदाम⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Wir wollen diese Früchte essen.
+⟪१४⟫. **⟪तानि फलान्यदाम ॥ १४ ॥⟫**
+我們要吃這些水果。
 
-⟪१५⟫. **⟪दासो⟫ ⟪धेनुं⟫ ⟪दोग्धु⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Der Diener soll die Kuh melken.
+⟪१५⟫. **⟪दासो धेनुं दोग्धु ॥ १५ ॥⟫**
+僕人應擠牛奶。
 
-⟪१६⟫. **⟪राजन्धर्मं⟫ ⟪जनांश्च⟫ ⟪पाहि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-König, schütze das Recht und die Leute!
+⟪१६⟫. **⟪राजन्धर्मं जनांश्च पाहि ॥ १६ ॥⟫**
+國王，保護正法與人民！
 
-⟪१७⟫. **⟪शिष्याञ्शाधि⟫ ⟪वेदम्⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫** (Oder: **... ⟪शाधि⟫ ...**)
-Lehre die Schüler den Veda!
+⟪१७⟫. **⟪शिष्याञ्शाधि वेदम् ॥ १७ ॥⟫** (或：**... ⟪शाधि⟫ ...**)
+教導學生吠陀！
 
-⟪१८⟫. **⟪नवानि⟫ ⟪वस्त्राणि⟫ ⟪वस्ताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll neue Kleider anziehen.
+⟪१८⟫. **⟪नवानि वस्त्राणि वस्ताम् ॥ १८ ॥⟫**
+他應穿上新的衣服。
 
-⟪१९⟫. **⟪मम⟫ ⟪गृह⟫ ⟪आसताम्⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Sie sollen in meinem Haus sitzen.
+⟪१९⟫. **⟪मम गृह आसताम् ॥ १९ ॥⟫**
+他們應坐在我家中。
 
-⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Ehemänner sollen ihre Gattinnen erhalten.
+⟪२०⟫. **⟪भर्तारो भार्या बिभ्रतु ॥ २० ॥⟫**
+丈夫應撫養其妻子。
 
 ::: media
 ![](/images/uebung076.webp)
-Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
-(Bildquelle: [Details](/licenses#uebung076))
+圖：⟪तानि फलान्यदाम⟫
+（圖片來源：[詳情](/licenses#uebung076)）
 :::
 ---
 
-## Dharma der Frauen (⟪स्त्रीधर्मः⟫)
+## 婦女之法（⟪स्त्रीधर्मः⟫）
 
-Aus der **⟪मनुस्मृति⟫ ⟪९⟫**:
+出自**⟪मनुस्मृति ९⟫**：
 
-**⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫**  
-**⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Die Männer müssen ihre Frauen Tag und Nacht abhängig machen. Frauen, die an den Sinnesobjekten haften, müssen unter die eigene Kontrolle gebracht werden.
+**⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫**  
+**⟪विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥⟫**  
+男子應使妻子日夜處於依賴狀態。執著於感官對象的婦女，必須被納入自身的掌控之中。
 
-**⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमारे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫**  
-**⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Der Vater behütet sie in der Kindheit, der Gatte in der Jugend, und die Söhne behüten sie im Alter; eine Frau ist nicht für die Eigenständigkeit geeignet.
+**⟪पिता रक्षति कौमारे भर्ता रक्षति यौवने ।⟫**  
+**⟪रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥ ३ ॥⟫**  
+父親在童年時期庇護她，丈夫在青年時期庇護她，兒子們在老年時期庇護她；婦女並不適合獨立自主。
 
-**⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫**  
-**⟪मृते⟫ ⟪भर्तरि⟫ ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**  
-Tadelnswert ist der Vater, der sie nicht zur rechten Zeit verheiratet; tadelnswert ist der Gatte, der sich ihr nicht zur rechten Zeit nähert; und tadelnswert ist der Sohn, der seine Mutter nach dem Tod des Vaters nicht beschützt.
+**⟪काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।⟫**  
+**⟪मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता ॥ ४ ॥⟫**  
+未能適時將她出嫁的父親是可譴責的；未能適時親近她的丈夫是可譴責的；在父親去世後未能保護其母親的兒子是可譴責的。
 
-**⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫**  
-**⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**  
-Besonders vor geringfügigen Anlässen sind Frauen zu schützen; denn ungeschützt würden sie zwei Familien in Kummer stürzen.
+**⟪सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।⟫**  
+**⟪द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥ ५ ॥⟫**  
+婦女尤其應免受微小誘惑的侵害；因為若無保護，她們會將兩個家庭陷入悲苦之中。
 
-**⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫**  
-**⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-Da sie dies als die höchste Pflicht aller Stände erkennen, bemühen sich selbst schwache Gatten, ihre Ehefrau zu beschützen.
+**⟪इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।⟫**  
+**⟪यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥⟫**  
+由於他們將此視為所有種姓的最高職責，即使是軟弱的丈夫也會努力保護他們的妻子。
 
-**⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫**  
-**⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**  
-Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, seinen Lebenswandel, seine Familie, sich selbst und seine religiöse Pflicht.
+**⟪स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।⟫**  
+**⟪स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥ ७ ॥⟫**  
+誰能謹慎地守護他的妻子，他確實就守護了他的後代、生活方式、家庭、他自己以及他的宗教義務。
 
-**⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
-**⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (⟪जायात्वम्⟫) der Gattin, dass der Gatte in ihr wiedergeboren wird.
+**⟪पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते ।⟫**  
+**⟪जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥⟫**  
+丈夫進入他的妻子，成為胚胎，然後在此出生；這便是妻子的「妻性」（⟪जायात्वम्⟫），即丈夫在她身上重生。
 
 ::: media
 ![](/images/uebung084.webp)
-Abb.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung084))
+圖：⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫
+（圖片來源：[詳情](/licenses#uebung084)）
 :::
 ::: media
 ![](/images/uebung077.webp)
-Abb.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
-(Bildquelle: [Details](/licenses#uebung077))
+圖：⟪पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते⟫
+（圖片來源：[詳情](/licenses#uebung077)）
 :::
 

@@ -1,113 +1,113 @@
-
 ---
-title: "Übung 9"
+title: "練習9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+A) 請嘗試確定以下詞語的可能含義：
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. 僅類似婆羅門者 = 劣等婆羅門
 
-2\. mati ⟪मति⟫ : f. Meinung
+2\. mati ⟪मति⟫ : f. 意見
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+3\. śravaṇa ⟪श्रवण⟫ : n. 耳朵
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : m. （性交）如母牛般
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+5\. jayaka ⟪जयक⟫ : 3 勝利者
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett
+6\. rakṣikā ⟪रक्षिका⟫ : f. 守護者，護身符
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer
+7\. karṣaka ⟪कर्षक⟫ : 3 耕種者；m. 農夫
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+8\. kleśa ⟪क्लेश⟫ : m. 痛苦
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : n. 愛妾之狀態
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+10\. tantraka ⟪तन्त्रक⟫ : 3 （剛）從經線 / 織機而來 = 新織成
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : 舞者
 
-12\. naraka ⟪नरक⟫ : m. Hölle
+12\. naraka ⟪नरक⟫ : m. 地獄
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : f. 主宰狀態
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. 戰士
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. 憤怒
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 進入者
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 觀看者
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig
+20\. kopaka ⟪कोपक⟫ : 3 易怒者，脾氣暴躁者
 
-B) Übersetzen Sie:
+B) 翻譯：
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. 所有再生者（Dvija）的義務：
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
-(Yājñavalkyadharmaśāstra I, 118)
+（《耶若伏吉亞達摩經》I, 118）
 
-Opfer, Vedastudium, Gaben geben.
+祭祀、吠陀研讀、布施。
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. 婆羅門特有的義務：
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
-(Gautamadharmasūtra X,2)
+（《高塔摩達摩經》X,2）
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+教導、代為祭祀、接受供養。
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. 剎帝利特有的義務：
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+（sarvabhūtānām = 屬格：「所有眾生」）
 
-(Gautamadharmasūtra X,7)
+（《高塔摩達摩經》X,7）
 
-Hüten aller Wesen.
+守護所有眾生。
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4\. 吠舍的特定職責：
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+（根據《Gautama-Dharmaśāstra》X,49）
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+農業、貿易、畜牧與放貸。
 
-5\. Aufgaben eines Śūdra:
+5\. 首陀羅的職責：
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+（根據《Kauṭilīya-Arthaśāstra》1.3.8。）
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+解釋：
+dvijātīnām = 屬格（所有格）複數，源於 dvijāti（此處譯為「相對於再生族」）
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma 是一個 Tatpuruṣa（依主釋），其前成分包含一個 Dvandva（持業釋，kārukuśīlava）。karma = 單數主格，源於 karman n.「行為、活動、業」，詞根為 kṛ 8 U）。請譯為「……（由 Dvandva 所指稱者）的行為／活動」（屬格）。
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+對再生族的服從、謀生手段、工匠或流浪表演者的工作。
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+（根據《Kauṭilīya-Arthaśāstra》1.4.1。）
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+經濟學即農業、畜牧與貿易。
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+圖：⟪रक्षणं सर्वभूतानाम्⟫
+（圖片來源：[詳情](/licenses#uebung013)）
 :::

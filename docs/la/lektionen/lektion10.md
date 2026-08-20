@@ -95,7 +95,6 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. De usu Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -105,13 +104,11 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 - **Cum quo?**
 
 **Ei stat**
-1. **in orationibus passivis:agens (kartṛ) in ablativo instrumentali**
-2. **ad indicium medii vel instrumenti, quo aliquid perficitur**
-3. **ad indicium viae, qua quis quo pervenit**
-4. **ad exprimendam coniunctionem, unionem, societatem cum**
-5. **apud postpositiones in significatione "cum, simul cum"; exempli gratia: saha = ⟪सह⟫ = "cum"**
-z.B.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "simul cum brahmano"
+1. **ad indicium medii vel instrumenti, quo aliquid perficitur**
+2. **ad indicium viae, qua quis quo pervenit**
+3. **ad exprimendam coniunctionem, unionem, societatem cum**
+4. **apud postpositiones in significatione "cum, simul cum"; exempli gratia: saha = ⟪सह⟫ = "cum"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "simul cum brahmano"
 :::
 Aliae usus ablativi instrumentalís (tṛtīyā) sequentur postea.
 
@@ -162,24 +159,17 @@ e.g.
 ### 10.4.1. Regulae speciales de formatione vocis passivae
 
 1. **Radices in -i vel -u** vocalem ante suffixum passivum **-ya-** **prolongant**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Radices cum -a- inter consonantes** (praeter nasales, y, r, v) manent acuta:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Quaedam radices suum Passivum altum formant** (aut in gradu ablautis radicis praesentis):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Gradus profundus verborum, quae litteris ya, va, ra incipiunt, vel quibus litteris post aliam consonantem positis (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ e.g.
 Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ finale** post unicum consonanten ante suffixum passivum **-ya-** per **-ri-** mutatur:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Aber: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Aber: **smṛ** 1 P: **smaryate**
 
 6. **Quaedam radices in -an finientes alterne duas formas passivae radicis formant:**
    * **-an-ya**
    * **-ā-ya-** (longum **ā** est exemplum hypothetici longi nasalis)
 
 z.B. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Vocabularium
 
@@ -236,11 +222,13 @@ z.B. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : scelus, malum (contrarium ad **puṇya**)
 - **satya** n. ⟪सत्य⟫ : veritas
 
-::: note-box
+:::: note-box
 In India, verum verbum vim magicam habere putabatur, immo totum ordinem mundi per verum verbum conservari et creari. De hac opinione magna vide fundamentale opus:
 
+::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tom. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

@@ -155,10 +155,10 @@ def check_has_de_phrases(txt, code, fast=False):
                 try:
                     lang_detected = detector.detect_language_of(p)
                     if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
-                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:"]):
+                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf"]):
                             continue
                         return True
-                    elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code != "en":
+                    elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code not in ["en", "rm"]:
                         return True
                 except Exception:
                     pass

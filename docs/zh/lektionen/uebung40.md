@@ -1,36 +1,36 @@
-
 ---
-title: "Übung 40"
+title: "練習40"
 uebung_id: 40
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習40
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ am Beginn der Lektion:
+A) 翻譯位於本課開頭的 ⟪सुभाषितानि⟫：
 
-⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
-**⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen ergibt rechtes Betragen, wegen rechten Betragens wird man ehrenswert; wenn man ehrenswert ist, wird man reich; wenn man reich ist, wird man gerecht — und daraus folgt das Glück.
+⟪१⟫. **⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् ।⟫**  
+**⟪पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥ १ ॥⟫**  
+知識產生正確的行為，因為正確的行為使人值得尊敬；當一個人值得尊敬時，他便會變得富裕；當一個人富裕時，他就會公正——由此便產生了幸福。
 
-⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
-**⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Wenn man auf der Suche nach Glück das Wissen aufgibt, oder wenn man auf der Suche nach Wissen das Glück aufgibt: Woher sollte dann ein Glücksuchender Wissen haben, und woher ein Wissensuchender Glück?
+⟪२⟫. **⟪सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् ।⟫**  
+**⟪सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥ २ ॥⟫**  
+如果一個人在追求幸福時放棄了知識，或者如果一個人在追求知識時放棄了幸福：那麼尋求幸福的人從何處獲得知識，而尋求知識的人又從何處獲得幸福呢？
 
-⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
-**⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel durch seinen eigenen Verstand, ein Viertel von seinen Mitschülern und ein Viertel durch den Lauf der Zeit.
+⟪३⟫. **⟪आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया ।⟫**  
+**⟪पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥ ३ ॥⟫**  
+學生從他的老師那裡獲得四分之一（的知識），四分之一來自於他自己的理智，四分之一來自於他的同學，還有一部分則隨著時間流逝而獲得。
 
 ---
 
-## Verbale Transformationen (Perfekt)
+## 動詞變位（完成時）
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person):
+B) 將以下動詞形式轉換為相應的完成時形式（第一人稱）：
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt (1. Person) |
+| 現在時 / 未完成過去時 | 完成時（第一人稱） |
 | :--- | :--- |
 | ⟪१⟫. ⟪अश्नीमः⟫ | ⟪आशिम⟫ |
 | ⟪२⟫. ⟪स्मः⟫ | ⟪आसिम⟫ |
@@ -46,9 +46,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪१२⟫. ⟪युञ्ज्मः⟫ | ⟪युयुजिम⟫ |
 | ⟪१३⟫. ⟪अजानीम⟫ | ⟪जज्ञिम⟫ |
 | ⟪१४⟫. ⟪ददामि⟫ | ⟪ददौ⟫ |
-| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां⟫ ⟪चकार⟫ |
+| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां चकार⟫ |
 | ⟪१६⟫. ⟪वच्मः⟫ | ⟪ऊचिम⟫ |
-| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां⟫ ⟪चक्रे⟫ |
+| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां चक्रे⟫ |
 | ⟪१८⟫. ⟪वसामः⟫ | ⟪ऊषिम⟫ |
 | ⟪१९⟫. ⟪अभवाम⟫ | ⟪बभूविम⟫ |
 | ⟪२०⟫. ⟪अस्यामि⟫ | ⟪आस⟫ |
@@ -61,12 +61,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪२७⟫. ⟪अनश्याम⟫ | ⟪नेशिम⟫ / ⟪नेश्म⟫ |
 | ⟪२८⟫. ⟪चरामः⟫ | ⟪चे⟫er⟪िम⟫ |
 | ⟪२९⟫. ⟪अवदाम⟫ | ⟪ऊदिम⟫ |
-| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां⟫ ⟪चकृम⟫ |
+| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां चकृम⟫ |
 | ⟪३१⟫. ⟪दध्महे⟫ | ⟪दधिमहे⟫ |
 | ⟪३२⟫. ⟪पिबामि⟫ | ⟪पपौ⟫ |
 | ⟪३३⟫. ⟪धरामः⟫ | ⟪दध्रिम⟫ |
 | ⟪३४⟫. ⟪म्रिये⟫ | ⟪ममार⟫ / ⟪ममर⟫ (P!) |
-| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां⟫ ⟪चकृम⟫ |
+| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां चकृम⟫ |
 | ⟪३६⟫. ⟪मन्ये⟫ | ⟪मेने⟫ |
 | ⟪३७⟫. ⟪स्वपिमः⟫ | ⟪सुषुप्पिम⟫ |
 | ⟪३८⟫. ⟪पामि⟫ | ⟪पपौ⟫ |
@@ -86,7 +86,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪५२⟫. ⟪स्मरिष्यामः⟫ | ⟪सस्मरिम⟫ |
 | ⟪५३⟫. ⟪अभजाम⟫ | ⟪भेजिम⟫ |
 | ⟪५४⟫. ⟪जेष्यामः⟫ | ⟪जिग्यिम⟫ |
-| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां⟫ ⟪चक्रे⟫ |
+| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां चक्रे⟫ |
 | ⟪५६⟫. ⟪विन्दामः⟫ | ⟪विविदिम⟫ |
 | ⟪५७⟫. ⟪धक्ष्यामः⟫ | ⟪देहिम⟫ |
 | ⟪५८⟫. ⟪शक्नुमः⟫ | ⟪शेकिम⟫ |
@@ -94,66 +94,66 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪६०⟫. ⟪भोत्स्ये⟫ | ⟪बुबुधे⟫ |
 | ⟪६१⟫. ⟪लभे⟫ | ⟪लेभे⟫ |
 | ⟪६२⟫. ⟪नर्तिष्यामि⟫ | ⟪ननर्त⟫ |
-| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां⟫ ⟪चकार⟫ |
+| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां चकार⟫ |
 | ⟪६४⟫. ⟪द्विष्महे⟫ | ⟪दिद्विषिमहे⟫ |
-| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां⟫ ⟪चक्रे⟫ |
+| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां चक्रे⟫ |
 | ⟪६६⟫. ⟪अजुहुम⟫ | ⟪जुहुविम⟫ |
 | ⟪६७⟫. ⟪अहनम्⟫ | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. ⟪पश्यामः⟫ | ⟪ददृशिम⟫ |
-| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
+| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां चक्रे⟫ |
 :::
 ::: media
 ![](/images/uebung065.webp)
-Abb.: ⟪आशिमेति⟫
-(Bildquelle: [Details](/licenses#uebung065))
+圖：⟪आशिमेति⟫
+（圖片來源：[詳情](/licenses#uebung065)）
 :::
 ---
 
-## Wortformbestimmung
+## 詞形判定
 
-Bestimmen und übersetzen Sie folgende Wortformen:
+請確定並翻譯以下詞形：
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| 詞形 | 判定 | 意義 |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | ich gab / er gab für sich |
-| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | sie geben für sich |
-| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | im Bösen |
-| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | ich sitze |
-| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | diese |
-| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | im Gegangenen |
-| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | von hier / gegangen |
-| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | von wo / des Gehenden |
-| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | dem Gehenden |
-| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | er wird gegangen |
-| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | welches |
-| ⟪१२⟫. ⟪यदा⟫ | Adv. | wann (relativ) |
-| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | ich pries für mich |
-| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | er pries |
-| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | des Absoluten / des Brahmanen |
-| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | der Brahmane |
-| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | ich erhalte |
-| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | im Gewinn |
-| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | ich erhielt / er erhielt |
-| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | in der Gier |
-| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | irgendwelche |
-| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | im System |
-| ⟪२३⟫. ⟪तत्र⟫ | Adv. | dort |
-| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | in Manu |
-| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | ich dachte / er dachte |
-| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | wir werden wissen |
-| ⟪२७⟫. ⟪कच्चित्⟫ | Fragepartikel | etwa? |
-| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | ich verliess / er verliess |
-| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | o Wissenschaft! |
-| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | die Wissenschaft |
-| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | durch diesen |
-| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | ich sah |
-| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | er sagte |
-| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | er schlug |
+| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | 我給予 / 他為己而給 |
+| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | 他們為己而給 |
+| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | 在惡中 |
+| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | 我坐著 |
+| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | 這些 |
+| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | 在已去者中 |
+| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | 從這裡 / 已去者 |
+| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | 從哪裡 / 去者的 |
+| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | 給去者 |
+| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | 他被去 |
+| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | 哪個 |
+| ⟪१२⟫. ⟪यदा⟫ | Adv. | 何時（關係） |
+| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | 我為己而讚美 |
+| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | 他讚美 |
+| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | 絕對者 / 婆羅門的 |
+| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | 婆羅門 |
+| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | 我獲得 |
+| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | 在利益中 |
+| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | 我獲得 / 他獲得 |
+| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | 在貪慾中 |
+| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | 任何一些 |
+| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | 在系統中 |
+| ⟪२३⟫. ⟪तत्र⟫ | Adv. | 那裡 |
+| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | 在摩努中 |
+| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | 我思考 / 他思考 |
+| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | 我們將知道 |
+| ⟪२७⟫. ⟪कच्चित्⟫ | Fragepartikel | 嗎？ |
+| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | 我離開 / 他離開 |
+| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | 哦，知識！ |
+| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | 知識 |
+| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | 通過這個 |
+| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | 我看見 |
+| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | 他說 |
+| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | 他擊打 |
 :::
 ::: media
 ![](/images/uebung066.webp)
-Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Bildquelle: [Details](/licenses#uebung066))
+圖：⟪काश्चन वाहिकाः⟫
+（圖片來源：[詳情](/licenses#uebung066)）
 :::
 

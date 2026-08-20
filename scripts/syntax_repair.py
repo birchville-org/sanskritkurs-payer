@@ -158,7 +158,7 @@ def repair_containers(path: Path, fix: bool = False) -> list:
             # Enforce strict nesting limits:
             # - If not stack OR tag is strictly top-level, it must be exactly 3 colons.
             # - Else if stack is not empty, max nesting depth is 3 (max 5 colons).
-            if not stack or tag in ('grammar-box', 'deleteme-box'):
+            if not stack or tag in ('grammar-box', 'deleteme-box', 'literatur-box', 'literatur'):
                 if d != 3:
                     d = 3
                     line = ':' * d + ' ' + tag + mo.group(3)

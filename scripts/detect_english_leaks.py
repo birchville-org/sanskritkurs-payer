@@ -30,7 +30,7 @@ def scan_file_for_english(filepath):
         if in_frontmatter:
             continue
             
-        if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped:
+        if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped or '::: literatur' in stripped:
             in_deleteme = True
         if in_deleteme and stripped == ':::':
             in_deleteme = False

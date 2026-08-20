@@ -1,54 +1,50 @@
-
 ---
-title: "Übung 21"
+title: "練習21"
 uebung_id: 21
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習21
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und übersetzen Sie sie:
+A) 請將以下梵文複合詞拆解並翻譯：
 
-⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
-⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
-Der Lauf durch die Wiedergeburten ohne Anfang und feste Zeitdauer.
+⟪१⟫。⟪अनादिकालिकसंसरः । अनादिः कालो यस्य सो ऽनादिकालिकः संसरः ।⟫
+無始且無固定時長的輪迴流轉。
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫ ⟪।⟫
-⟪न⟫ ⟪आदिश्च⟫ ⟪मध्यं⟫ ⟪च⟫ ⟪अन्तश्च⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Ohne Anfang, Mitte und Ende.
+⟪२⟫。⟪अनादिमध्यान्तः । न आदिश्च मध्यं च अन्तश्च यस्य सः ।⟫
+無始、無中、無終。
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫ ⟪।⟫
-⟪महती⟫ ⟪मैत्री⟫ ⟪च⟫ ⟪करुणा⟫ ⟪च⟫ ⟪यस्मिंस्तच्चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Mit einem Herz voll grossen Wohlwollens und Mitgefühls.
+⟪३⟫。⟪महामैत्रीकरुणाचित्तः । महती मैत्री च करुणा च यस्मिंस्तच्चित्तं यस्य सः ।⟫
+懷抱廣大慈悲之心。
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫ ⟪।⟫
-⟪सर्वस्मिन्हतो⟫ ⟪ऽन्धकारो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫
-Der überall die Finsternis zerstört hat.
+⟪४⟫。⟪सर्वहतान्धकारः । सर्वस्मिन्हतो ऽन्धकारो येन सः ।⟫
+已摧毀 everywhere 黑暗者。
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪१⟫. ⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥⟫
-Das Feuer, das den Toten verbrennt, verbrennt auch die treue Gattin (satī).
+⟪१⟫。⟪मृतं दहन्नग्निः सतीमपि दहति ॥⟫
+焚燒亡者的火，也焚燒忠貞的妻子（satī）。
 
-⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-Der gute Meister preist den grossen Gott mit Lobliedern der grossen Dichter.
+⟪२⟫。⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥⟫
+善師以偉大詩人的讚歌稱頌大神。
 
-⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-Die Knaben, die grosse Früchte essen, trinken auch Wasser.
+⟪३⟫。⟪महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥⟫
+食用大果實的男孩們也飲水。
 
-⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
-Während der Verehrung opfert und preist der Mann die Gottheit.
+⟪४⟫。⟪पुजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥⟫
+在崇拜期間，男子向神祇獻祭並讚頌。
 
-⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
+⟪५⟫。⟪गुरूपनीतनरो द्विजः ॥⟫
+再生人（Dvija）是受導師啟蒙進入吠陀的男子。
 
-⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
-Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
+⟪६⟫。⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥⟫
+已戰勝憤怒者，即使敵人殺害他也不會憎恨敵人。但被憤怒征服者則會心生憎恨。
 
 ::: media
 ![](/images/uebung033.webp)
-Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#uebung033))
+圖：⟪हतान्धकारा दीपाः⟫
+（圖片來源：[詳情](/licenses#uebung033)）
 :::

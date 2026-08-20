@@ -2,24 +2,24 @@
 layout: home
 
 hero:
-  name: "Kurs da sanscrit"
+  name: "Kurs da Sanscrit"
   text: "In curs cumplet"
-  tagline: "dad Alois Payer (Biblioteca Global Village da Tüpfli)"
+  tagline: "d'Alois Payer (Biblioteca Global Village da Tüpfli)"
   actions:
     - theme: brand
       text: "Cumenzar il curs"
       link: /rm/lektionen/lektion01
     - theme: alt
-      text: "Argumets da gramatica"
+      text: "Argumets da grammatica"
       link: /rm/grammatik
 
 features:
   - title: "Devanāgarī ready"
     details: "Perfecziunada tipografia integrata per scripts indians."
-  - title: "[L14> Facilità da tschertgar"
-    details: "Ina tschertga locala profunda da text cumplet metta la savida a disposiziun cun in clic."
+  - title: "Facilità da tschertgar"
+    details: "Ina tschertga locala profunda en tut il text metta la savida a disposiziun cun in clic."
   - title: "Architectura moderna"
-    details: "Construí sin il fundamaint da VitePress per la massima sveltezza."
+    details: "Construí sin la basa da VitePress per ina maximala sveltezza."
 
 ---
 

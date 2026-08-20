@@ -95,7 +95,6 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Az instrumentális (tṛtīyā = ⟪तृतीया⟫) használata
 
 ::: grammar-box
@@ -105,13 +104,11 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 - **Kivel?**
 
 **Az instrumentális**
-1. **passzív mondatokban áll: az agens (kartṛ) eszközhatározó esetben (instrumentalis)**
-2. **az eszköz vagy fegyver megjelölésére, amellyel valamit végrehajtanak**
-3. **az út megjelölésére, amelyen valaki hová jut**
-4. **a kapcsolat, egyesülés, kíséret kifejezésére**
-5. **posztpozíciók esetén „együtt, társaságban” jelentésben; pl. saha = ⟪सह⟫ = „együtt”**
-pl.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = „a bráhmanával együtt”
+1. **az eszköz vagy fegyver megjelölésére, amellyel valamit végrehajtanak**
+2. **az út megjelölésére, amelyen valaki hová jut**
+3. **a kapcsolat, egyesülés, kíséret kifejezésére**
+4. **posztpozíciók esetén „együtt, társaságban” jelentésben; pl. saha = ⟪सह⟫ = „együtt”**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = „a bráhmanával együtt”
 :::
 Az instrumentális (tṛtīyā) további használatait később tárgyaljuk.
 
@@ -162,24 +159,17 @@ pl.
 ### 10.4.1. Különleges szabályok a passzív képzéséhez
 
 1. **-i** vagy **-u** végződésű tő **nyújtja** magánhangzóját a passív képző **-ya-** előtt:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Tőn mit -a- zwischen Konsonanten** (ausser Nasalen, y, r, v) bleiben hochstufig:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Einige Tőn bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Jelen idejű tős):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ pl.
 A mély szintű képzés hagyományos belföldi megnevezése az **ya** vagy **va** végződésű igéknél a **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. A **kizárólagos -ṛ** egy mássalhangzó után a passzív képző **-ya-** előtt **-ri**-re cserélődik:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* De: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * De: **smṛ** 1 P: **smaryate**
 
 6. **Egyes -an végű alapok alternatívan két passzív képzést mutatnak:**
    * egy **-an-ya**
    * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője)
 
 pl. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
 
 ## 10.5. Szószedet
 
@@ -236,11 +222,13 @@ pl. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : rossz cselekedet, gonoszság (ellentéte a **puṇya**nak)
 - **satya** n. ⟪सत्य⟫ : igazság
 
-::: note-box
+:::: note-box
 Indiában az igazi szó varázserőt tulajdonítottak, sőt a világrendet is az igaz szó tartja fenn és teremti. Erről a fontos elképzelésről lásd az alábbi alapművet:
 
+::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kéziratokból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. oldal
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

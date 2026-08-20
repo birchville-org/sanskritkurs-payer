@@ -1,12 +1,12 @@
-
 ---
-title: "Übung 61"
+title: "練習61"
 uebung_id: 61
 category: "Übung"
+
 ---
 
 # 練習61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+第61課為梵語課程的結尾，不包含任何書面練習。
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+透過學習根名詞、迂迴未來時以及派生動詞，已為閱讀梵語原文奠定了基礎。課程以傳統的伽內什祈請文（⟪श्रीगणनाथ⟫）作結，標誌著從教材學習過渡到獨立閱讀。

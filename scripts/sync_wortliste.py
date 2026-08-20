@@ -194,7 +194,7 @@ def sync_wortliste_de(lektion_nums: list[int]) -> None:
             print(f"  L{n:02d}: '## Lektion {n}' not found in wortliste.md, skipping")
             continue
         body_start = m2.end()
-        next_m2 = re.search(r'^(?:## |::: deleteme-box)', wortliste_text[body_start:], re.MULTILINE)
+        next_m2 = re.search(r'^(?:## |::: deleteme-box|::: literatur)', wortliste_text[body_start:], re.MULTILINE)
         body_end = body_start + next_m2.start() if next_m2 else len(wortliste_text)
         old_body = wortliste_text[body_start:body_end]
         new_body = "\n" + new_content + "\n\n"

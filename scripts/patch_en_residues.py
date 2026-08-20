@@ -39,8 +39,8 @@ def scan_en_residues(content: str) -> list:
         if in_frontmatter:
             continue
 
-        # Track ::: deleteme-box containers (these often contain english citations/licenses)
-        if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped:
+        # Track ::: deleteme-box and literatur-box containers (these often contain english citations/licenses)
+        if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped or '::: literatur' in stripped:
             in_deleteme = True
         if in_deleteme and stripped == ':::':
             in_deleteme = False

@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "第40課"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第40課
@@ -12,29 +13,16 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
-⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
-⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
-
-⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
-⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
-⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
-
-⟪आचार्यात्पादमादत्ते⟫  
-⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
-⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
 :::
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Bildquelle: [Details](/licenses#lekt4005))
+圖：⟪पादं सब्रह्मचारिभ्यः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4005)）
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. 第一類完成時動詞形式的構成（⟪लिट्⟫）
 
-Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫)
+第一人称的詞尾（⟪तृतीयः⟫）在完成時（⟪लिट्⟫）中
 
 ::: grammar-box
 
@@ -45,355 +33,355 @@ Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट�
 
 :::
 ::: grammar-box
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
+請注意，第一人称單數 P、Ā 的詞尾與第三人称單數相同。因此，除了類型 III(a,b) 和 V(a,b,c) 之外的所有完成時類型中，第一人称單數 P 或 Ā 的形式始終與第三人称單數 P 或 Ā 相同。
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
+在類型 IV 中，第一人称單數 P. 與第三人称單數 P. 一樣以 -au 結尾。
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
+在類型 III 和 V 的完成時中，第一人称單數 Ā 始終與第三人称單數 Ā 相同。
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein.
+在類型 III 和 V 的完成時中，第一人称單數 P 與第三人称單數 P 可選地相同：在這些構成類型中，第三人称單數 P 必須始終為長音階（dehnstufig），而第一人称單數 P 可選地為高聲調階（hochstufig）或長音階。
 :::
 ::: grammar-box
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
+在多數詞根中，當後接以輔音開頭的尾端時，會插入連接元音 -i-。
 
-Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
+除了後接尾端 -re 之外，因為此處必須始終插入 -i-；而連接元音不會出現在以輔音開頭的尾端之前，這僅發生在八個以 -ṛ 或 -u 結尾的詞根上，分別是
 
-1.  ⟪कृ⟫ 8U (außer ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "wählen"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "rennen"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "fließen"
+1. ⟪कृ⟫ 8U（除 ⟪संस्कृ⟫ 外）
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U「選擇」
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p「奔跑」
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P「流動」
 
-Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
+對於所謂的任意性 ⟪अनिट्⟫-詞根，連接元音可以選擇插入或不插入。（這些詞根的列表見 Kielhorn《文法》第 92 頁 § 298b,2,3）
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. 完成時第一型：無詞幹變格
 
-1.sg. = 3.sg.
+第一人稱單數 = 第三人稱單數
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   輔音-長元音-輔音
+*   輔音-短元音-輔音-輔音
+*   a-輔音（-輔音）
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
 
 ::: indent
-*   1.sg.P ⟪बबन्ध⟫
-*   1.pl.P ⟪बबन्धिम⟫
+*   第一人稱單數完成時 ⟪बबन्ध⟫
+*   第一人稱複數完成時 ⟪बबन्धिम⟫
 :::
 ⟪जीव्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिजीव⟫
-*   1.pl.P ⟪जिजिविम⟫
+*   第一人稱單數完成時 ⟪जिजीव⟫
+*   第一人稱複數完成時 ⟪जिजिविम⟫
 :::
 ⟪अश्⟫ 5Ā
 
 ::: indent
-*   1.sg.Ā ⟪आनशे⟫
-*   1.pl.Ā ⟪आनशिमहे⟫
+*   第一人稱單數中動 ⟪आनशे⟫
+*   第一人稱複數中動 ⟪आनशिमहे⟫
 :::
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+⟪अस्⟫ 2P 以及 ⟪अस्⟫ 4P
 
 ::: indent
-*   1.sg.P ⟪आस⟫
-*   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
+*   第一人稱單數完成時 ⟪आस⟫
+*   第一人稱複數完成時 ⟪आसिम⟫（a + as-i-ma）
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. 完成時第二型：強詞幹為高階級，弱詞幹為低階級
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   （輔音-）i/u/ṛ/ḷ-輔音
 
 ⟪भिद्⟫ 7U
 
 ::: indent
-*   1.sg.P ⟪बिभेद⟫
+*   第一人稱單數完成時 ⟪बिभेद⟫
 
-*   1.pl.P ⟪बिभिदिम⟫
+*   第一人稱複數完成時 ⟪बिभिदिम⟫
 
-*   1.sg.Ā ⟪बिभिदे⟫
+*   第一人稱單數中動 ⟪बिभिदे⟫
 
-*   1.pl.Ā ⟪बिभिदिमहे⟫
+*   第一人稱複數中動 ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 4P（任意性）⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪मुमोह⟫
+*   第一人稱單數完成時 ⟪मुमोह⟫
 
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+*   第一人稱複數完成時 ⟪मुमुहिम । मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. 完成時第三型：強詞幹為高階級/長音階級
 
-1.sg.P wahlweise hochstufig oder dehnstufig
+第一人稱單數完成時：可選高階或長音階
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. 完成時類型 IIIa：強幹高階/長音階，弱幹低階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
-*   (Konsonant-)-ṛ
+*   (輔音-)(輔音-)i/ī/u/ū
+*   (輔音-)-ṛ
 
-⟪इ⟫ 2P
+⟪इ⟫ 第二人稱單數
 
 ::: indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
+*   第一人稱單數完成時 ⟪इयाय । इयय⟫ (i+e+a)
 
-*   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
+*   第一人稱複數完成時 ⟪ईयिम⟫ (i+iy+i+ma)
 :::
-⟪नी⟫ 1U
+⟪नी⟫ 第一人稱單數未完成時
 
 ::: indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
+*   第一人稱單數完成時 ⟪निनाय । निनय⟫
 
-*   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
+*   第一人稱複數完成時 ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
 
-*   1.sg.Ā ⟪निन्ये⟫
+*   第一人稱單數被動 ⟪निन्ये⟫
 
-*   1.pl.Ā ⟪निन्यिमहे⟫
+*   第一人稱複數被動 ⟪निन्यिमहे⟫
 :::
-⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
+⟪स्तु⟫ 第二人稱單數未完成時，嚴格遵循 ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
+*   第一人稱單數完成時 ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
 
-*   1.pl.P ⟪तुष्टुम⟫
+*   第一人稱複數完成時 ⟪तुष्टुम⟫
 
-*   1.sg.Ā ⟪तुष्टुवे⟫
+*   第一人稱單數被動 ⟪तुष्टुवे⟫
 
-*   1.pl.Ā ⟪तुष्टुमहे⟫
+*   第一人稱複數被動 ⟪तुष्टुमहे⟫
 :::
-⟪कृ⟫ 8U strikt ⟪अनिट्⟫
+⟪कृ⟫ 第八人稱單數未完成時，嚴格遵循 ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
+*   第一人稱單數完成時 ⟪चकार । चकर⟫
 
-*   1.pl.P ⟪चकृम⟫
+*   第一人稱複數完成時 ⟪चकृम⟫
 
-*   1.sg.Ā ⟪चक्रे⟫
+*   第一人稱單數被動 ⟪चक्रे⟫
 
-*   1.pl.Ā ⟪चकृमहे⟫
+*   第一人稱複數被動 ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. 完成時類型 IIIb：強幹高階/長音階，弱幹高階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)(Konsonant-)-ṝ
+*   (輔音-)(輔音-)-ṝ
 *   Konsonant-Konsonant-ṛ
 
-⟪पॄ⟫ 3P
+⟪पॄ⟫ 第三人稱單數
 
 ::: indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
+*   第一人稱單數完成時 ⟪पपार । पपर⟫
 
-*   1.pl.P ⟪पपरिम⟫
+*   第一人稱複數完成時 ⟪पपरिम⟫
 :::
-⟪स्मृ⟫ 1P
+⟪स्मृ⟫ 第一人稱單數
 
 ::: indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
+*   第一人稱單數完成時 ⟪सस्मार । सस्मर⟫
 
-*   1.pl.P ⟪सस्मरिम⟫
+*   第一人稱複數完成時 ⟪सस्मरिम⟫
 :::
-⟪संस्कृ⟫ 8U
+⟪संस्कृ⟫ 第八人稱單數未完成時
 
 ::: indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
+*   第一人稱單數完成時 ⟪सञ्चस्कार । सञ्चस्कर⟫
 
-*   1.pl.P ⟪सञ्चस्करिम⟫
+*   第一人稱複數完成時 ⟪सञ्चस्करिम⟫
 
-*   1.sg.Ā ⟪सञ्चस्करे⟫
+*   第一人稱單數被動 ⟪सञ्चस्करे⟫
 
-*   1.pl.Ā ⟪सञ्चस्करिमहे⟫
+*   第一人稱複數被動 ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. 完成時類型 IV：以 -ā / -ai 結尾的词根
 
-*   Starker Stamm:
-    *   Starker Stamm:
-*   1.,3. sg. Parasamaip.: -au
-    *   Schwacher Stamm:
-    *   vor Vokal: Tiefstufe-ø
+*   強幹：
+*   第一、三人稱單數後接完成時詞尾：-au
+*   弱幹：
+*   輔音前：低階-i
+*   元音前：低階-ø
 
-⟪दा⟫ 3U
+⟪दा⟫ 第三人稱單數未完成時
 
 ::: indent
-*   1.sg.P ⟪ददौ⟫
+*   第一人稱單數完成時 ⟪ददौ⟫
 
-*   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
+*   第一人稱複數 ⟪ददिम⟫ (da-d-i-ma)
 
-*   1.sg.Ā ⟪ददे⟫
+*   第一人稱單數 ⟪ददे⟫
 
-*   1.pl.Ā ⟪ददिमहे⟫
+*   第一人稱複數 ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
+### 40.2.5. 完成時第五型：輔音-a-輔音
 
-1.sg.P. wahlweise hochstufig oder dehnstufig
+第一人稱單數完成時：可選擇高階或長音階
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. 完成時第五型Va：輔音-a-輔音，弱詞幹低階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
 ::: indent
-1.  u.a.
-2.  han (»ghan) "erschlagen"
-3.  u.a.
-4.  u.a.
-5.  u.a.
-6.  u.a.
-7.  u.a.
+1. gam 「去」
+2. han (「ghan」) 「擊殺」
+3. jan 「出生」
+4. vac 「說話」
+5. vad 「說話」
+6. yaj 「祭祀」
+7. 等。
 :::
-⟪गम्⟫ 1P
+⟪गम्⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
+*   第一人稱單數完成時 ⟪जगाम । जगम⟫
 
-*   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
+*   第一人稱複數完成時 ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
-⟪हन्⟫ 2P
+⟪हन्⟫ 第二人稱
 
 ::: indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
+*   第一人稱單數完成時 ⟪जघान । जघन⟫
 
-*   1.pl.P ⟪जघ्निम⟫
+*   第一人稱複數完成時 ⟪जघ्निम⟫
 :::
-⟪जन्⟫ 4Ā
+⟪जन्⟫ 第四人稱
 
 ::: indent
-*   1.sg.Ā ⟪जज्ञे⟫
+*   第一人稱單數 ⟪जज्ञे⟫
 
-*   1.pl.Ā ⟪जज्ञिमहे⟫
+*   第一人稱複數 ⟪जज्ञिमहे⟫
 :::
-⟪वच्⟫ 2P
+⟪वच्⟫ 第二人稱
 
 ::: indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
+*   第一人稱單數完成時 ⟪उवाच । उवच⟫
 
-*   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
+*   第一人稱複數完成時 ⟪ऊचिम⟫ (u + uc-ima)
 :::
-⟪वद्⟫ 1P (Ā)
+⟪वद्⟫ 第一人稱 (Ā)
 
 ::: indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
+*   第一人稱單數完成時 ⟪उवाद । उवद⟫
 
-*   1.pl.P ⟪ऊदिम⟫
+*   第一人稱複數完成時 ⟪ऊदिम⟫
 
-*   1.sg.Ā ⟪ऊदे⟫
+*   第一人稱單數 ⟪ऊदे⟫
 
-*   1.pl.Ā  ⟪ऊदिमहे⟫
+*   第一人稱複數 ⟪ऊदिमहे⟫
 :::
-⟪यज्⟫ 1U
+⟪यज्⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
+*   第一人稱單數完成時 ⟪इयाज । इयज⟫
 
-*   1.pl.P ⟪ईजिम⟫
+*   第一人稱複數完成時 ⟪ईजिम⟫
 
-*   1.sg.Ā ⟪ईजे⟫
+*   第一人稱單數 ⟪ईजे⟫
 
-*   1.pl.Ā ⟪ईजिमहे⟫
+*   第一人稱複數 ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 40.2.5.2. 完成時第五型Vb：輔音-a-輔音，起始輔音非軟腭音、送氣音或 h，弱詞幹無重疊，帶 -e-
 
-⟪पच्⟫ 1U
+⟪पच्⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
+*   第一人稱單數完成時 ⟪पपाच । पपच⟫
 
-*   1.pl.P ⟪पेचिम⟫
+*   第一人稱複數完成時 ⟪पेचिम⟫
 
-*   1.sg.Ā ⟪पेचे⟫
+*   第一人稱單數 ⟪पेचे⟫
 
-*   1.pl.Ā ⟪पेचिमहे⟫
+*   第一人稱複數 ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 40.2.5.3. 完成時第五型Vc：輔音-a-輔音，弱詞幹高階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   所有其他中間帶 -a- 的詞根
 
-⟪क्रम्⟫ 1U
+⟪क्रम्⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
+*   第一人稱單數完成時 ⟪चक्राम । चक्रम⟫
 
-*   1.pl.P ⟪चक्रमिम⟫
+*   1.人稱複數 ⟪चक्रमिम⟫
 
-*   1.sg.Ā ⟪चक्रमे⟫
+*   1.人稱單數 ⟨Ā⟩ ⟪चक्रमे⟫
 
-*   1.pl.Ā ⟪चक्रमिमहे⟫
+*   1.人稱複數 ⟨Ā⟩ ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen
+### 40.2.6. 特殊的完成時構詞法
 
-⟪विद्⟫ 2P präsentisches Perfekt:
+⟪विद्⟫ 第二人稱現在完成時：
 
 ::: indent
-*   1.sg.P ⟪वेद⟫ (= 3.sg.P)
+*   1.人稱單數完成時 ⟪वेद⟫ （＝第三人稱單數完成時）
 
-*   1.pl.P ⟪विद्म⟫
+*   1.人稱複數完成時 ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪अह्⟫ 第一人稱不常用！
 
-⟪भू⟫ 1P
+⟪भू⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
+*   1.人稱單數完成時 ⟪बभूव⟫ （＝第三人稱單數完成時）
 
-*   1.pl.P ⟪बभूविम⟫
+*   1.人稱複數完成時 ⟪बभूविम⟫
 :::
-⟪जि⟫ 1P
+⟪जि⟫ 第一人稱
 
 ::: indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
+*   1.人稱單數完成時 ⟪जिगाय⟫ （＝第三人稱單數完成時） ⟪। जिगय⟫
 
-*   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+*   1.人稱複數完成時 ⟪जिग्यिम⟫ （ji-gi + i + ma ！）
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. 迂迴完成時第一人稱動詞形式的構詞法（⟪अनुप्रयोगलिट्⟫）
 
-Das periphrastische Perfekt wird gebildet von:
+迂迴完成時由以下構成：
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (außer ā) beginnen
-*   Wurzeln: Vokal (außer a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   派生動詞詞幹（使役、欲求、頻繁、名源），尤其是使役
+*   以長元音（除 ā 外）開頭的詞根
+*   詞根：元音（除 a-外）-輔音-輔音
+*   其他一些詞根
+*   對於某些詞根，兩種完成時均可選擇性構建：uṣ「燃燒」，vid「知道」，jāgṛ「醒著」，daridrā「貧窮」
+*   對於以下詞根，兩種完成時均可選擇性構建，且迂迴完成時也進行重疊，具體使用現在詞幹的重疊音節：
+*   bhī「恐懼」
+*   bhṛ「攜帶」
+*   hu「獻祭」
+*   hrī「羞愧」
 
-⟪ईक्ष्⟫ 1Ā
+⟪ईक्ष्⟫ 第一人稱 ⟨Ā⟩
 
 ::: indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
+*   1.人稱單數 ⟨Ā⟩ ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
 
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
+*   1.人稱複數 ⟨Ā⟩ ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
 :::
-⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
+⟪बन्ध्⟫ 使役完成時： ⟪बन्धयति⟫
 
 ::: indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
+*   1.人稱單數完成時 ⟪बन्धयां चकर । बन्धयां चकार⟫ （＝第三人稱單數完成時） ⟪। बन्धयामास⟫ （＝第三人稱單數完成時） ⟪। बन्धयां बभूव⟫ （＝第三人稱單數完成時）
 
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+*   第一格複數 ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. 關於第一人的句法（⟪तृतीयः⟫）
 
 ::: grammar-box
-Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
+由於限定動詞（變位動詞）同時表達施事者（⟪कर्तृ⟫），因此在非被動語態的限定動詞謂語句中，「我」、「我們」不需要額外通過人稱代詞來表達。
 :::
-## 40.5. 第一人称单数和复数人称代词 (⟪पुरुषार्थकसर्वनाम⟫)
+## 40.5. 第一人稱單數和複數的人稱代詞（⟪पुरुषार्थकसर्वनाम⟫）
 
 ::: grammar-box
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+人稱代詞（人稱代名詞）的形式對於所有性別都是相同的。
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br「我」 | ⟪बहुवचनम्⟫ :br「我們」 |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -405,141 +393,141 @@ Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlech
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
+上述排在第二位較短的形式（⟪मा⟫、⟪मे⟫、⟪नस्⟫）絕不能用於句首或詩行開頭。
 
-Vor den Partikeln ⟪च⟫, ⟪वा⟫, ⟪एव⟫ dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden:
+在語氣助詞 ⟪च⟫、⟪वा⟫、⟪एव⟫ 之前，這些所謂的附著形式同樣不得使用：
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... "und mich"
+僅可：... ⟪मां च⟫ ... 「和我」
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
+人稱代詞的屬格（⟪षष्ठी⟫）用作所有格代詞：
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mein"
+⟪मम । मे⟫ = 「我的」
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "unser"
+⟪अस्माकम् । नस्⟫ = 「我們的」
 :::
 ::: grammar-box
-Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
+作為複合詞的前成分，這些代詞的詞幹為：
 
-*   sg. ⟪मद्⟫
-*   pl. ⟪अस्मद्⟫
+*   單數 ⟪मद्⟫
+*   複數 ⟪अस्मद्⟫
 
-z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
+例如 ⟪मत्पुस्तकम्⟫ "我的書"；⟪अस्मद्पुस्तकानि⟫ "我們的書"
 :::
-## 40.6. 词汇表
+## 40.6. 詞彙表
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
+⟪पात्र⟫ n.：尊者，大師，值得尊敬者
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
+⟪मेधा⟫ f.：智慧，理智，思想
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
+⟪पुस्तक⟫ m.n.：手稿，書
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫：處於正確狀態，與（屬格）相符；形成，構成；決心做某事，屈就於（與格）
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
-PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+完成時 II ⟪चकॢपे⟫ 可選 ⟪अनिट्⟫  
+未來時 ⟪कल्पिष्यते । कल्प्स्यते⟫  
+使動 ⟪कल्पयति⟫：整理好，創造，在想象中構建，自以為是
+過去被動分詞 ⟪कॢप्त⟫  
+不定式 ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+派生自：
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.：思想中的構建，在現實中接受不存在之物的假設，虛構
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ 使動 ⟪विकल्पयति⟫：（以不同方式想像 =）質疑，懷疑
 
 ::: indent
-davon:
+派生自：
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.：替代方案，懷疑
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫：打擊
 
 ::: indent
-Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
-Fut. ⟪तोत्स्यति⟫  
-Pass. ⟪तुद्यते⟫  
-Kaus. ⟪तोदयति⟫  
-PPP ⟪तुन्न⟫ (tud + na)  
-Inf. ⟪तोत्तुम्⟫
+完成時 II ⟪तुतोद⟫，⟪तुतुदुर्⟫  
+未來時 ⟪तोत्स्यति⟫  
+被動 ⟪तुद्यते⟫  
+使動 ⟪तोदयति⟫  
+過去被動分詞 ⟪तुन्न⟫ (tud + na)  
+不定式 ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫：渡過，跨越，從某人那裡逃脫（賓格 = 跨越某人）
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
-Pass. ⟪तीर्यते⟫  
-Kaus. ⟪तारयति⟫  
-PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+完成時 IIIb ⟪ततार⟫，⟪ततरुर् । तेरुर्⟫  
+未來時 ⟪तरिष्यति । तरीष्यति⟫  
+被動 ⟪तीर्यते⟫  
+使動 ⟪तारयति⟫  
+過去被動分詞 ⟪तीर्ण⟫  
+不定式 ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+派生自：
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.：淺灘，聖浴場，朝聖地
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+圖注：⟪हरिद्वारे तीर्थम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt4003)）
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m.（源自：⟪तीर्थम्⟫+ ⟪कृ⟫）：渡河者（超越苦難）= 耆那教的二十四位導師
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+圖：⟪तीर्थङ्करः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4002)）
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ 前綴：向下、往下、離開、下-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 第一人稱單數 ⟪अवतरति⟫ ：下降
 
 ::: indent
-davon:
+派生詞：
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ 陽性名詞：（下降者、下降）神的化身，特別是毗濕奴的十個化身（參見 Basham，《奇蹟》，第 304 - 309 頁）
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+圖：⟪विष्णोर्दशावताराः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4001)）
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 第二人稱單數 ⟪स्वपिति⟫，  ⟪स्वपन्ति⟫ ：睡覺、躺下休息
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
-PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫
+未完成時 ⟪अस्वपीत् । अस्वपत्⟫  
+完成時 ⟪सुष्वाप⟫，⟪सुषुपुर्⟫  
+未來時 ⟪स्वप्स्यति⟫  
+被動語態 ⟪सुप्यते⟫ （源自 \*svp-ya-te）  
+使役 ⟪स्वापयति⟫  
+過去被動分詞 ⟪सुप्त⟫  
+不定詞 ⟪स्वप्तुम्⟫
 
-davon:
+派生詞：
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ 陽性名詞：睡眠、夢
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ 陰性名詞（源自 \*svp-ti）：睡眠，特別是熟睡
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+圖：⟪स्वपन्ति⟫
+（圖片來源：[詳情](/zh/licenses#lekt4004)）
 :::
-## 40.7. 练习
+## 第40課。練習
 
-A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion.
+A) 翻譯位於本課開頭的 ⟪सुभाषितानि⟫。
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an.
+B) 將以下動詞形式變換為相應的完成時形式。若有多种可能，請列出所有可能性。
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
+（符號說明：⟪अ⟫ = ⟪अनिट्⟫，⟪इ⟫ = 可選 ⟪अनिट्⟫）
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
 3.  ⟪स्रक्ष्यामि⟫
-4.  ⟪स्तुमहे⟫ ⟪अ⟫
+4.  ⟪स्तुमहे अ⟫
 5.  ⟪वर्धामहे⟫
 6.  ⟪आवर्ते⟫
 7.  ⟪सेक्ष्यामि⟫
@@ -556,13 +544,13 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 18.  ⟪वसामः⟫
 19.  ⟪अभवाम⟫
 20.  ⟪अस्यामि⟫
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫
-22.  ⟪कल्पामहे⟫ ⟪इ⟫
+21.  ⟪अबिभ्रि अ⟫
+22.  ⟪कल्पामहे इ⟫
 23.  ⟪त्यज्यामि⟫
 24.  ⟪अतरम्⟫
 25.  ⟪चिन्मः⟫
 26.  ⟪पृच्छामः⟫
-27.  ⟪अनश्याम⟫ ⟪इ⟫
+27.  ⟪अनश्याम इ⟫
 28.  ⟪चरामः⟫
 29.  ⟪अवदाम⟫
 30.  ⟪शोचयामः⟫
@@ -574,12 +562,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ⟪मन्ये⟫
 37.  ⟪स्वपिमः⟫
 38.  ⟪पामि⟫
-39.  ⟪शृणुमः⟫ ⟪अ⟫
+39.  ⟪शृणुमः अ⟫
 40.  ⟪अतुदम्⟫
 41.  ⟪अमिम⟫
 42.  ⟪तिष्ठामि⟫
 43.  ⟪अवहाम⟫
-44.  ⟪अकुर्महि⟫ ⟪अ⟫
+44.  ⟪अकुर्महि अ⟫
 45.  ⟪जहीमः⟫
 46.  ⟪अस्पृशम्⟫
 47.  ⟪नेष्यामः⟫
@@ -588,9 +576,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (geht nach Typ Vb)
+53.  ⟪अभजाम⟫ （遵循 Vb 類型）
 54.  ⟪जेष्यामः⟫
-55.  ⟪आसे⟫ (periphrast.)
+55.  ⟪आसे⟫ （迂迴式）
 56.  ⟪विन्दामः⟫
 57.  ⟪धक्ष्यामः⟫
 58.  ⟪शक्नुमः⟫
@@ -606,44 +594,44 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8。詞形變化複習練習
 
-1.  ⟪ददे⟫
-2.  ⟪ददते⟫
-3.  ⟪पापे⟫
-4.  ⟪आसे⟫
-5.  ⟪एते⟫
-6.  ⟪इते⟫
-7.  ⟪इतः⟫
-8.  ⟪यतः⟫
-9.  ⟪यते⟫
-10.  ⟪ईयते⟫
-11.  ⟪यत्⟫
-12.  ⟪यदा⟫
-13.  ⟪अस्तुवि⟫
-14.  ⟪अस्तुवति⟫
-15.  ⟪अस्तवीत्⟫
-16.  ⟪ब्रह्मिणः⟫
-17.  ⟪ब्रह्मणः⟫
-18.  ⟪ब्राह्मणः⟫
-19.  ⟪लभे⟫
-20.  ⟪लाभे⟫
-21.  ⟪लेभे⟫
-22.  ⟪लोभे⟫
-23.  ⟪काश्चन⟫
-24.  ⟪तन्त्रे⟫
-25.  ⟪तत्र⟫
-26.  ⟪मनौ⟫
-27.  ⟪मेने⟫
-28.  ⟪सत्स्यामि⟫
-29.  ⟪वेत्स्यामः⟫
-30.  ⟪कच्चित्⟫
-31.  ⟪तत्त्यागः⟫
-32.  ⟪तत्याज⟫
-33.  ⟪विद्ये⟫
-34.  ⟪विद्याम्⟫
-35.  ⟪एनेन⟫
-36.  ⟪ऐक्षे⟫
-37.  ⟪आह⟫
-38.  ⟪आहन्⟫
+1. ⟪ददे⟫
+2. ⟪ददते⟫
+3. ⟪पापे⟫
+4. ⟪आसे⟫
+5. ⟪एते⟫
+6. ⟪इते⟫
+7. ⟪इतः⟫
+8. ⟪यतः⟫
+9. ⟪यते⟫
+10. ⟪ईयते⟫
+11. ⟪यत्⟫
+12. ⟪यदा⟫
+13. ⟪अस्तुवि⟫
+14. ⟪अस्तुवति⟫
+15. ⟪अस्तवीत्⟫
+16. ⟪ब्रह्मिणः⟫
+17. ⟪ब्रह्मणः⟫
+18. ⟪ब्राह्मणः⟫
+19. ⟪लभे⟫
+20. ⟪लाभे⟫
+21. ⟪लेभे⟫
+22. ⟪लोभे⟫
+23. ⟪काश्चन⟫
+24. ⟪तन्त्रे⟫
+25. ⟪तत्र⟫
+26. ⟪मनौ⟫
+27. ⟪मेने⟫
+28. ⟪सत्स्यामि⟫
+29. ⟪वेत्स्यामः⟫
+30. ⟪कच्चित्⟫
+31. ⟪तत्त्यागः⟫
+32. ⟪तत्याज⟫
+33. ⟪विद्ये⟫
+34. ⟪विद्याम्⟫
+35. ⟪एनेन⟫
+36. ⟪ऐक्षे⟫
+37. ⟪आह⟫
+38. ⟪आहन्⟫
 

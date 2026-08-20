@@ -95,7 +95,6 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -105,13 +104,11 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 - **Mit wem?**
 
 **Er steht**
-1. **in Passivsätzen: Agens (kartṛ) im Instrumentalis**
-2. **zur Angabe des Mittels oder Werkzeugs, mit dem etwas vollbracht wird**
-3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
-4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"**
-z.B.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
+1. **zur Angabe des Mittels oder Werkzeugs, mit dem etwas vollbracht wird**
+2. **zur Angabe des Weges, auf dem jemand wohin gelangt**
+3. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
+4. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
 :::
 Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
@@ -162,24 +159,17 @@ z.B.
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
 1. **Wurzeln auf -i oder -u** dehnen ihren Vokal vor dem Passivsuffix **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Wurzeln mit -a- zwischen Konsonanten** (ausser Nasalen, y, r, v) bleiben hochstufig:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Einige Wurzeln bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Präsensstamms):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ z.B.
    Die traditionelle einheimische Bezeichnung für diese Bildung der Tiefstufe bei Verben mit **ya** bzw. **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Aber: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Aber: **smṛ** 1 P: **smaryate**
 
 6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
    * eine **-an-ya**
    * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
 
    z.B. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Wortliste
 
@@ -236,11 +222,13 @@ z.B.
 - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-::: note-box
+:::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
+::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

@@ -72,9 +72,11 @@ Pārvatī καὶ Śiva,
 
 Ἐν ἀρχῇ μία περιέργεια·
 
->Ὅτε Οὐίλλιαμ Τζόνς [1746–1794] καὶ Ἑρρίκος Θωμᾶς Κόλεμπρουκ (1765—1857) τὴν Σανσκριτικὴν γλῶσσαν τὸ πρῶτον ἐπιμελῶς ἐμελέτησαν, μέρος τι αὐτῆς μεταφράσαντες, καὶ εὗρον ὅτι λογοτεχνίαν πλουσίαν εἶχε καὶ συγγένειαν οὐ μικρὰν πρὸς τὰς κλασσικὰς γλώσσας, ἀντιστάσει οὐ μικρᾷ ἐνέτυχον. Ἐπεὶ δὲ διὰ ταύτης τῆς στενῆς σχέσεως τῆς Σανσκριτικῆς πρὸς τὰς γεωγραφικῶς τοσοῦτον ἀπωτέρω κειμένας Εὐρωπαϊκὰς γλώσσας αἱ παλαιαὶ δόξαι — αἵ τε πάσας τὰς γλώσσας ἐκ τῆς Ἑβραϊκῆς παραγόμενας ἐτίθεντο ἢ τὸ πλεῖστον ἀπ' ἀλλήλων ἀπομεμονωμένας — εἰς συμφωνίαν ἄγεσθαι οὐκ ἠδύναντο, ὁ περιώνυμος φιλόλογος Ντούγκαλδ Στιούαρτ (1753—1828) τὴν ἁπλουστάτην ὁδὸν εἵλετο, πᾶσαν τὴν περὶ τῆς Σανσκριτικῆς γλώσσης ἱστορίαν ψεῦδος εἶναι ἀποφηνάμενος. Δοκίμιον δὲ συνέγραψεν, ἐν ᾧ ἀποδεικνύειν ἐπειρᾶτο ὅτι ὑπὸ τῶν πανούργων Βραχμάνων κατὰ τὸ παράδειγμα τῆς Ἑλληνικῆς καὶ τῆς Λατινικῆς συνεπλάσθη, καὶ ἥ τε γλῶσσα καὶ ἡ λογοτεχνία πλάσμα εἶεν. Ταύτην τὴν δόξαν ἔτι τῷ ἔτει 1840 ὁ ἐν Δουβλίνῳ καθηγητής, Κάρολος Οὐίλλιαμ Οὐάλ, διὰ μακρῶν ἀνέπτυξε (Göttingische gelehrte Anzeigen 1842 σ. 1888).
 >
 >[Πηγή: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Τόμ. 2. -- 1923. -- σ. 74. -- Ἐν δικτύῳ: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- πρόσβασις τῇ 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Γραμματεία διὰ ἀρχαρίους ἐν τῇ Ἰνδολογίᾳ
 
@@ -94,7 +96,9 @@ Pārvatī καὶ Śiva,
 
 **Ἡ ἀρίστη συστηματικὴ γραμματική**
 
-> **Kielhorn**, Franz (1840–1908): Γραμματική τῆς Σανσκριτικῆς γλώσσης / Μεταφρασθὲν ἐκ τῆς Ἀγγλικῆς ὑπὸ W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 σ. -- Πρωτότυπος τίτλος: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +118,9 @@ Pārvatī καὶ Śiva,
 
 Μια καλή, σύντομη παρουσίαση της ευρωπαϊκής γλωσσολογικής ορολογίας βρίσκεται στο:
 
-> **Ετυμολογικόν Λεξικόν της Γερμανικής Γλώσσης** / [Friedrich] Kluge (1856–1926). Επιμέλεια: Elmar Seebold. -- 24η, αναθεωρημένη και διευρυμένη έκδοση. -- Βερολίνο [κ.ά.] : de Gruyter, 2002. - LXXXIX, 1023 σ. : 24 εκ. -- ISBN 3-11-017473-1 χαρτόδετο. -- σ. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

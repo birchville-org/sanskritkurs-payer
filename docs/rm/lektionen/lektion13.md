@@ -17,7 +17,7 @@ Per la distribuziun dals PPPs sin -ta- u resp. -na- na pon vegnir stabilidas reg
 
 ::: grammar-box
 
-Quasi tut las radis sin -d furman il PPP sin -na-. En quest cas vegn -d-n- sustituid cun -n-n-, quai che n’accatta betg en il Wortsandhi, mabain è ina imitaziun dal Satzsandhi.
+Quasi tut las radis sin -d furman il PPP sin -na-. En quest cas vegn -d-n- sustituid cun -n-n-, quai che n’accatta betg en il Sandhi dal pled, mabain è ina imitaziun dal Satzsandhi.
 
 Exempel:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫

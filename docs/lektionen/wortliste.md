@@ -15,6 +15,12 @@ outline: 2
 
 
 
+
+
+
+
+
+
 **deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
@@ -118,9 +124,13 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
 
----
-
 ## Lektion 3
+
+
+
+
+
+
 
 
 
@@ -188,9 +198,13 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
----
-
 ## Lektion 5
+
+
+
+
+
+
 
 
 
@@ -240,9 +254,13 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
 
----
-
 ## Lektion 6
+
+
+
+
+
+
 
 
 
@@ -270,9 +288,13 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
 
----
-
 ## Lektion 7
+
+
+
+
+
+
 
 
 
@@ -302,11 +324,13 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 - **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
 
-
-
----
-
 ## Lektion 8
+
+
+
+
+
+
 
 
 
@@ -339,6 +363,7 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
 (Bildquelle: [Details](/licenses#lekt0809))
 :::
+
 ::: media
 ![](/images/lekt0810.jpg)
 Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
@@ -347,9 +372,13 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 - **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
 - **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
 
----
-
 ## Lektion 9
+
+
+
+
+
+
 
 
 
@@ -389,9 +418,13 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
 
----
-
 ## Lektion 10
+
+
+
+
+
+
 
 
 
@@ -405,28 +438,99 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 - **grāma** m. ⟪ग्राम⟫ : Dorf
 - **nagara** n. ⟪नगर⟫ : Stadt
 
-::: note-box
+  ::: note-box
   Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  - **yajña** m. ⟪यज्ञ⟫ : Opfer
+  :::
 
-:::
-::: note-box
+- **yajña** m. ⟪यज्ञ⟫ : Opfer
+
+  ::: note-box
   Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+  :::
 
-:::
-::: note-box
+- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+
+  ::: note-box
   Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+  :::
+
+- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-:::
-::: note-box
+:::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
+::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+::::
+
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Bildquelle: [Details](/licenses#lekt1003))
+:::
+- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪विश्वामित्रः⟫
+(Bildquelle: [Details](/licenses#lekt1002))
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+:::
+
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Bildquelle: [Details](/licenses#lekt1003))
+:::
+- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪विश्वामित्रः⟫
+(Bildquelle: [Details](/licenses#lekt1002))
+:::
+- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -457,6 +561,12 @@ Abb.: ⟪विश्वामित्रः⟫
 ---
 
 ## Lektion 11
+
+
+
+
+
+
 
 
 
@@ -500,9 +610,13 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : wünschen
   - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
 
----
-
 ## Lektion 12
+
+
+
+
+
+
 
 
 
@@ -547,7 +661,6 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
 
----
 
 ### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
@@ -598,9 +711,13 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
----
-
 ## Lektion 13
+
+
+
+
+
+
 
 
 
@@ -658,6 +775,7 @@ pad 4 Ā:
 
 **pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
 :::
+
 ::: media
 ![](/images/lekt1303.webp)
 Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
@@ -668,9 +786,14 @@ dviṣ 2 U:
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : Hass
 :::
----
 
 ## Lektion 14
+
+
+
+
+
+
 
 
 
@@ -702,6 +825,12 @@ Abb.: ⟪दीपाः⟫
   * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
 
 ## Lektion 15
+
+
+
+
+
+
 
 
 
@@ -797,7 +926,14 @@ davon:
 
 ⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
 :::
+
 ## Lektion 16
+
+
+
+
+
+
 
 
 
@@ -863,7 +999,14 @@ Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Bildquelle: [Details](/licenses#lekt1603))
 :::
+
 ## Lektion 17
+
+
+
+
+
+
 
 
 
@@ -878,6 +1021,7 @@ davon:
 ::: indent
 ⟪घात⟫ m.: Tötung
 :::
+
 ::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
@@ -891,6 +1035,7 @@ davon:
 ::: indent
 ⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
 :::
+
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
@@ -921,7 +1066,14 @@ davon:
 
 ⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
 :::
+
 ## Lektion 18
+
+
+
+
+
+
 
 
 
@@ -964,6 +1116,12 @@ davon:
 ⟪प्रभृति⟫ f.: Anfang
 
 ## Lektion 19
+
+
+
+
+
+
 
 
 
@@ -1077,6 +1235,12 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 
 
+
+
+
+
+
+
 ⟪वा⟫ : oder
 
 ⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
@@ -1141,7 +1305,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, gross
+⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß
 
 ⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
 
@@ -1185,6 +1349,12 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 
 
+
+
+
+
+
+
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
 davon:
@@ -1201,6 +1371,7 @@ Abb.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
 (Bildquelle: [Details](/licenses#lekt2103))
 :::
+
 ::: indent
 **⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
 :::
@@ -1210,6 +1381,7 @@ Abb.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
 (Bildquelle: [Details](/licenses#lekt2105))
 :::
+
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
 :::
@@ -1232,6 +1404,12 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
 
 ## Lektion 22
+
+
+
+
+
+
 
 
 
@@ -1291,7 +1469,14 @@ Abb.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Bildquelle: [Details](/licenses#lekt2201))
 :::
+
 ## Lektion 23
+
+
+
+
+
+
 
 
 
@@ -1308,6 +1493,12 @@ Goa = ⟪गोंय⟫
 ⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
 
 ## Lektion 24
+
+
+
+
+
+
 
 
 
@@ -1396,6 +1587,7 @@ Abb.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Bildquelle: [Details](/licenses#lekt2408))
 :::
+
 ::: indent
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
 
@@ -1431,6 +1623,12 @@ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
 ⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
 
 ## Lektion 25
+
+
+
+
+
+
 
 
 
@@ -1634,6 +1832,12 @@ Abb.: ⟪हिरण्यम्⟫
 
 
 
+
+
+
+
+
+
 ⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
 
 ::: indent
@@ -1699,13 +1903,21 @@ Abb.: ⟪हरिहरः⟫
 Harihara (links: Viṣṇu, rechts: Śiva).
 (Bildquelle: [Details](/licenses#lekt2704))
 :::
+
 ::: media
 ![](/images/lekt2705.webp)
 Abb.: ⟪हरिहरः⟫
 Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 (Bildquelle: [Details](/licenses#lekt2705))
 :::
+
 ## Lektion 28
+
+
+
+
+
+
 
 
 
@@ -1749,6 +1961,7 @@ Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Bildquelle: [Details](/licenses#lekt2804))
 :::
+
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
 Fut. **corayiṣyati**
@@ -1780,9 +1993,13 @@ Mädchen trägt Last. Bei Ahmedabad.
 :::
 ⟪भृत्य⟫ m.: Untergebener, Diener
 
----
-
 ## Lektion 29
+
+
+
+
+
+
 
 
 
@@ -1866,7 +2083,14 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
+
 ## Lektion 30
+
+
+
+
+
+
 
 
 
@@ -2000,6 +2224,12 @@ davon:
 
 
 
+
+
+
+
+
+
 ⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
@@ -2114,6 +2344,12 @@ Aus einem Prajñāpāramitā-Manuskript.
 **⟪शरीर⟫ n.:** Leib, Körper
 
 ## Lektion 32
+
+
+
+
+
+
 
 
 
@@ -2247,7 +2483,14 @@ Abb.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
 :::
+
 ## Lektion 33
+
+
+
+
+
+
 
 
 
@@ -2407,7 +2650,14 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
 :::
+
 ## Lektion 34
+
+
+
+
+
+
 
 
 
@@ -2449,6 +2699,7 @@ Abb.: ⟪तिलाः⟫
 Sesame seeds.
 (Bildquelle: [Details](/licenses#lekt3403))
 :::
+
 ::: media
 ![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
@@ -2488,6 +2739,12 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **⟪कन्या⟫ f.:** Mädchen, Jungfrau
 
 ## Lektion 35
+
+
+
+
+
+
 
 
 
@@ -2538,7 +2795,14 @@ Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/licenses#lekt3501))
 :::
+
 ## Lektion 36
+
+
+
+
+
+
 
 
 
@@ -2575,6 +2839,7 @@ Inf. ⟪चेतुम्⟫
 Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Bildquelle: [Details](/licenses#lekt3601))
 :::
+
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
 
 ::: indent
@@ -2594,6 +2859,7 @@ Inf. ⟪व्रजितुम्⟫
 Abb.: ⟪अगारम्⟫
 (Bildquelle: [Details](/licenses#lekt3602))
 :::
+
 ::: indent
 davon:
 
@@ -2701,9 +2967,16 @@ PPP ⟪हृषित⟫
 Abb.: ⟪लोमहर्षः⟫
 (Bildquelle: [Details](/licenses#lekt3604))
 :::
+
 ⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
 ## Lektion 37
+
+
+
+
+
+
 
 
 
@@ -2735,6 +3008,12 @@ Abb.: ⟪वृक्षः⟫
 ⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
 
 ## Lektion 38
+
+
+
+
+
+
 
 
 
@@ -2862,12 +3141,20 @@ davon:
 Abb.: ⟪अशोकवृक्षः⟫
 (Bildquelle: [Details](/licenses#lekt3810))
 :::
+
 ::: media
 ![](/images/lekt3811.webp)
 Abb.: ⟪अशोकसाम्राज्यम्⟫
 (Bildquelle: [Details](/licenses#lekt3811))
 :::
+
 ## Lektion 40
+
+
+
+
+
+
 
 
 
@@ -2930,6 +3217,7 @@ davon:
 Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Bildquelle: [Details](/licenses#lekt4003))
 :::
+
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
 :::
@@ -2974,7 +3262,14 @@ davon:
 Abb.: ⟪स्वपन्ति⟫
 (Bildquelle: [Details](/licenses#lekt4004))
 :::
+
 ## Lektion 41
+
+
+
+
+
+
 
 
 
@@ -3021,6 +3316,7 @@ davon:
 Abb.: ⟪शासना⟫
 (Bildquelle: [Details](/licenses#lekt4109))
 :::
+
 ::: indent
 ⟪शास्त्र⟫ n.: Lehre, Lehrwerk
 
@@ -3031,6 +3327,7 @@ Abb.: ⟪शासना⟫
 Abb.: ⟪शास्त्री⟫
 (Bildquelle: [Details](/licenses#lekt4110))
 :::
+
 ::: indent
 ⟪शिष्य⟫ 3: zu belehrender = Schüler
 :::
@@ -3047,25 +3344,14 @@ Abb.: ⟪शास्त्री⟫
 ::: indent
 PPP ⟪अतीत⟫ : n. Vergangenheit
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
-
-::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
-
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
-
-::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
 ## Lektion 42
+
+
+
+
+
+
 
 
 
@@ -3206,6 +3492,12 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 
 
+
+
+
+
+
+
 ⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
 ⟪आपण⟫ m.: Markt
@@ -3220,7 +3512,7 @@ Abb.: ⟪आपणः⟫
 ⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
 
 ::: media
-![]/images/lekt4303.webp
+![](/images/lekt4303.webp)
 Abb.: ⟪पण्यानि⟫
 (Bildquelle: [Details](/licenses#lekt4303))
 :::
@@ -3324,6 +3616,12 @@ Inf. ⟪द्रोतुम्⟫
 ⟪आनन्द⟫ m.: Wonne, Freude
 
 ## Lektion 44
+
+
+
+
+
+
 
 
 
@@ -3466,17 +3764,14 @@ Absol. -⟪रभ्य⟫
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildquelle: [Details](/licenses#lekt4408))
 :::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
+
 ## Lektion 45
+
+
+
+
+
+
 
 
 
@@ -3487,6 +3782,12 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
 
 ## Lektion 46
+
+
+
+
+
+
 
 
 
@@ -3535,16 +3836,19 @@ Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
 Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
 (Bildquelle: [Details](/licenses#lekt4602))
 :::
+
 ::: media
 ![](/images/lekt4603.webp)
 Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
 (Bildquelle: [Details](/licenses#lekt4603))
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
 Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
 (Bildquelle: [Details](/licenses#lekt4604))
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
 Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
@@ -3610,6 +3914,7 @@ Absol. -⟪हूय⟫
 Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
 (Bildquelle: [Details](/licenses#lekt4608))
 :::
+
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
 
@@ -3732,7 +4037,14 @@ z.B.
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
 (Bildquelle: [Details](/licenses#lekt4611))
 :::
+
 ## Lektion 48
+
+
+
+
+
+
 
 
 
@@ -3756,6 +4068,7 @@ Abb.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Bildquelle: [Details](/licenses#lekt4802))
 :::
+
 ::: media
 ![](/images/lekt4803.webp)
 Abb.: ⟪तन्त्री⟫
@@ -3844,7 +4157,14 @@ Abb.: ⟪मम⟫ ⟪जाया⟫
 (Bild: Payer)
 (Bildquelle: [Details](/licenses#lekt4809))
 :::
+
 ## Lektion 49
+
+
+
+
+
+
 
 
 
@@ -3988,7 +4308,14 @@ Abb.: ⟪गजशिशुः⟫
 Sri Lanka
 (Bildquelle: [Details](/licenses#lekt4906))
 :::
+
 ## Lektion 50
+
+
+
+
+
+
 
 
 
@@ -4118,6 +4445,12 @@ in den übrigen Tempora nicht verwendet
 
 
 
+
+
+
+
+
+
 ⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
@@ -4135,7 +4468,7 @@ Abb.:
 
 ⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
 
-::: indent
+::: note-box
 Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
 
 Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
@@ -4362,6 +4695,12 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 
 
+
+
+
+
+
+
 ⟪अखिल⟫ 3: lückenlos, ganz
 
 ⟪निखिल⟫ 3: vollständig, ganz
@@ -4575,359 +4914,4 @@ Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-#### Quellen
-
-**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
-
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
-
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
-
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildquelle: Wikipedia, Public domain]
-
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
-
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
-
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
-
-**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
-
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
-
-**lekt1602**: ⟪अध्यापनम्⟫ "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt1603**: ⟪अहिंसा⟫ "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
-
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt1701**: ⟪योगासनम्⟫ [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt1702**: ⟪दोग्धि⟫ [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
-
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2103**: ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2105**: ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2202**: ⟪कामदेवः⟫ , 19. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2405**: ⟪अलंकारः⟫ [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Bildquelle: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2408**: ⟪आख्यानम्⟫ "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
-
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Bildquelle: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Bildquelle: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2704**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2705**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ Bei Ahmedabad [Bildquelle: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-
-**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3002**: ⟪ज्ञातयः⟫ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3004**: ⟪प्रिया⟫ [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2904**: ⟪पुनर्भवः⟫ [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
-**lekt3101**: ⟪योगः⟫ [Bildquelle: http://www.flickr.com/photos/wricontest/294029791/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3102**: ⟪व्यञ्जनम्⟫ Vorbereitung zum Kathakali-Tanz = കഥകളി, Kochi = കൊച്ചി [Bildquelle: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3103**: Aus einem ⟪प्रज्ञापारमिता⟫-Manuskript [Bildquelle: zeno.org. -- gemeinfrei]
-
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
-
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3204**: ⟪उपलाः⟫ "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
-
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3306**: ⟪दानम्⟫ "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
-
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3308**: ⟪घृतम्⟫ [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
-
-**lekt3406**: ⟪सस्यम्⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = die 100.000 (⟪लक्ष⟫ m.n.) Inseln (Unionsterritorium) [Bildquelle: CIA. Public domain]
-
-**lekt3403**: ⟪तिलाः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt3404**: ⟪तिलाः⟫ [Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense]
-
-**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿಬ, Amritsar = ਅੰਮ੍ਰਿਤසር [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3401**: ⟪ऋषभः⟫ Chamundi-Hills [Bildquelle: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3502**: ⟪क्रामन्ति⟫ [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
-
-**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Bildquelle: Payer]
-
-**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
-
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
-
-**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
-
-**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
-
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4001**: ⟪विष्णोर्दशावताराः⟫ Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4105**: ⟪भुजङ्गः⟫ Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
-
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Bildquelle: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Bildquelle: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4306**: ⟪वत्सः⟫ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Bildquelle: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4307**: ⟪तोलन्ति⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Bildquelle: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Bildquelle: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Bildquelle: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Bildquelle: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
-
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4803**: ⟪तन्त्री⟫ Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Self-help group (SHG)], Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4805**: ⟪कुमारः⟫ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Bildquelle: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Bildquelle: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4809**: ⟪जाया⟫ [Bild: Payer]
-
-**lekt4901**: ⟪कुलूहलम्⟫ [Bildquelle: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
-
-**lekt4903**: ⟪विहंगः⟫ [Bildquelle: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4909**: ⟪पञ्जरम्⟫ Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht. Mysore. [Bildquelle: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰಿತਸਰ [Bildquelle: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Bildquelle: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5005**: ⟪आदित्यः⟫ [Bildquelle: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5003**: ⟪कल्याणी⟫ [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5105**: ⟪कृष्णमृगः⟫ Hirschziegenantilope -- _Antilope cervicapra_ L., Bock [Bildquelle: Wikipedia, public domain]
-
-**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
-
-**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Bildquelle: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Bildquelle: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
-
-**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Quelle von Bild und Text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5116**: ⟪भुजङ्गः⟫ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5118**: ⟪मणिः⟫ Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
-
-**lekt5117**: ⟪मदः⟫ [Bildquelle: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Zugriff am 2009-01-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
 

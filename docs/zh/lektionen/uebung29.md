@@ -1,41 +1,36 @@
-
 ---
-title: "Übung 29"
+title: "練習29"
 uebung_id: 29
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習29
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
+請以精確的德文進行字對字翻譯，並背誦梵文文本：
 
-### ⟪१⟫. Definition von ⟪अविद्या⟫
+### ⟪१⟫。定義 ⟪अविद्या⟫
 
-**⟪अनित्याशुचिदुःखानात्मसु⟫ ⟪नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪५⟫ ⟪॥⟫**
+**⟪अनित्याशुचिदुःखानात्मसु नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या ॥ योगसूत्र २⟫.⟪५ ॥⟫**
 
-Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absolutes als beständig, rein, freudvoll bzw. absolut ansieht.
+無知意味著將無常、不淨、苦與非絕對之物，視為恆常、清淨、樂及絕對。
 
-### ⟪२⟫. Über den rechten Gebrauch des ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+### ⟪२⟫。關於 ⟪दण्ड⟫ 的正當使用（《政事論》1.4）
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
+⟪तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫，⟪किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति । चतुर्वर्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते स्वेषु वर्त्मसु ॥१६॥⟫
 
-⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫  
-⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
-⟪स्वधर्मकर्माभिरतो⟫  
-⟪वर्तते⟫ ⟪स्वेषु⟫ ⟪वर्त्मसु⟫ ⟪॥१६॥⟫
+面對過於嚴苛的統治（daṇḍa），眾生會感到戰慄。鬆散的統治則遭人輕蔑。恰如其分的統治受人敬仰。由智者引導的統治，能促進臣民的正義、利益與喜悅。因貪愛或憎恨，或因輕蔑而治理不善的統治，不僅會激怒在家者，甚至連退隱山林的老者与苦行者也會憤怒。未施行的統治則導致「魚牧法」（mātsyanayāya）般的行為，即強者吞噬弱者。若無人維持統治秩序，強者便會吞食弱者。當弱者受到統治者的保護時，便能繁榮發展。
 
-Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische (mātsyanayāya). Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
-
-> Die Welt mit ihren vier Ständen und Lebensstadien  
-> Wird vom König durch das Regiment beschützt:  
-> Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
-> Bewegt sie sich auf ihren eigenen Bahnen.
+> 世界及其四種階級與人生階段  
+> 由君王透過統治予以保護：  
+> 因依其正當權利與固有習俗而從事活動，感到喜悅  
+> 遂循其自身軌道運行。
 
 ::: media
 ![](/images/uebung046.webp)
-Abb.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
-(Bildquelle: [Details](/licenses#uebung046))
+圖：⟪चतुर्वर्णाश्रमो लोको⟫
+（圖片來源：[詳情](/licenses#uebung046)）
 :::
 

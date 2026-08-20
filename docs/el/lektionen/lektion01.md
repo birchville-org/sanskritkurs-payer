@@ -1,11 +1,10 @@
 ---
-title: "Μάθημα 1"
-subtitle: "Τα φωνήεντα του Σανσκριτ"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
-
 ---
 
 # Μάθημα 1
@@ -73,9 +72,11 @@ pārvatīparameśvarau |**
 
 Στην αρχή ένα περιέργεια:
 
->«Όταν οι Γουίλιαμ Τζόουνς [1746–1794] και Χένρι Θόμας Κολμπρούκ (1765–1857) μελέτησαν για πρώτη φορά συστηματικά το Σανσκριτικό, το μετέφρασαν εν μέρει και διαπίστωσαν ότι διέθετε πλούσια λογοτεχνία και σημαντική συγγένεια με τις κλασικές γλώσσες, συνάντησαν σημαντική αντίσταση. Επειδή η εγγύς αυτή σχέση του Σανσκριτικού με τις γεωγραφικά τόσο απομακρυσμένες ευρωπαϊκές γλώσσες δεν μπορούσε να συμβιβαστεί με τις παλαιές αντιλήψεις, οι οποίες είτε εξαγόρευαν όλες τις γλώσσες από τα Εβραϊκά ή τις απομόνωνε κατά κύριο λόγο η μία από την άλλη, ο διάσημος φιλόλογος Ντάγκνταλ Στιούαρτ (1753–1828) επελέγη την απλούστερη διέξοδο, δηλώνοντας ολόκληρη την ιστορία με τη γλώσσα του Σανσκριτικού ως ψευδή. Έγραψε ένα δοκίμιο, στο οποίο προσπάθησε να αποδείξει ότι είχε κατασκευαστεί από τους πονηρούς Βραμάνους μετά το πρότυπο των Ελληνικών και Λατινικών, και ότι τόσο η γλώσσα όσο και η λογοτεχνία ήταν πλαστογραφίες. Αυτή την άποψη ανέπτυξε περαιτέρω το 1840 ο καθηγητής στο Δουβλίνο, Τσαρλς Ουίλιαμ Γουόλ, εκτενώς (Göttingische gelehrte Anzeigen 1842 σ. 1888).»
 >
 >[Πηγή: **Κέμεριχ**, Μάξ (1876–1932): Kultur-Kuriosa. -- Μόναχο : Λάνγκεν. -- Τόμ. 2. -- 1923. -- σ. 74. -- Διαδίκτυο: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoff). -- Πρόσβαση στις 10-01-2010]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Βιβλιογραφία για αρχάριους στην Ινδολογία
 
@@ -95,7 +96,9 @@ pārvatīparameśvarau |**
 
 **Η καλύτερη συστηματική γραμματική**
 
-> **Κίελχορν**, Φραντς (1840–1908): Γραμματική της Σανσκριτικής γλώσσας / Μετάφραση από τα Αγγλικά του W. Σολφ [1862 - 1936]. -- Βερολίνο : Ντόιμλερ, 1888. -- XIII, 238 σελ. -- Αρχικός τίτλος: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -115,7 +118,9 @@ pārvatīparameśvarau |**
 
 Μια καλή, συνοπτική παρουσίαση της ευρωπαϊκής γλωσσολογικής ορολογίας μπορεί να βρεθεί σε:
 
-> **Ετυμολογικό Λεξικό της Γερμανικής Γλώσσας** / [Friedrich] Kluge (1856–1926). Επιμ. από Elmar Seebold. -- 24., αναθεωρ. και επαυξ. έκδ.. -- Berlin [κ.ά.] : de Gruyter, 2002. - LXXXIX, 1023 σσ. : 24 εκ. -- ISBN 3-11-017473-1 Χάρτινη. -- σσ. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

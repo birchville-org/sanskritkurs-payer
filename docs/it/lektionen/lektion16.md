@@ -12,7 +12,7 @@ status: stable
 
 ## 16.1. Sul Sandhi delle consonanti finali
 
-Per la formazione di composti, il cui primo membro è costituito da radici che terminano in consonante, sono necessarie le seguenti regole:
+Per la formazione di composti, il cui primo membro è costituito da radici che terminano con una consonante, sono necessarie le seguenti regole:
 
 Occlusivi finali gutturali, retroflessi, dentali e labiali (cioè non nasali e non palatali).
 
@@ -25,7 +25,7 @@ Occlusivi finali gutturali, retroflessi, dentali e labiali (cioè non nasali e n
 | **davanti alle nasali** | **Sostituzione con la nasale corrispondente:** :br **ad esempio** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Eccezione alla regola sopra:
+Eccezione alla regola precedente:
 
 Occlusivo dentale finale (non nasale):
 
@@ -33,9 +33,9 @@ Occlusivo dentale finale (non nasale):
 
 |   |   |
 | :--- | :--- |
-| **davanti a un palatale** | **Sostituzione con il rispettivo palatale non aspirato:** :br **cioè** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **davanti a una palatale** | **Sostituzione con la corrispondente palatale non aspirata:** :br **cioè** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 **+ ś** | **» -cś- o -cch-** |
-| **davanti a un retroflesso** | **Sostituzione con il rispettivo retroflesso non aspirato:** :br **cioè** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **davanti a una retroflessa** | **Sostituzione con la corrispondente retroflessa non aspirata:** :br **cioè** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **davanti a l-** | **Sostituzione con -l:** :br **cioè** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
@@ -216,28 +216,18 @@ Imparare a memoria i modelli di declinazione basandosi su questi esempi!!!
 
 B) Tradurre e scomporre tutti i composti (samāsa) in sanscrito:
 
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः ॥योगसूत्र १⟫.⟪२॥ २⟫. ⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥ क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥ वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥ शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥ सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥⟫
 
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
-
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
-
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
-
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
-
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
+(⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: indent
 Spiegazioni;
 
-Frase 7: ⟪कृषिपाशुपाल्ये⟫ Dualeeeeee, Nom. Acc.: Dvandva, che indica due "cose"
+Verso 7: ⟪कृषिपाशुपाल्ये⟫ Duale, Nominativo e Accusativo: Dvandva, che indica le due "cose"
 
-Frase 8: ⟪कर्म⟫ Nom., Acc. sg. Neutro derivato da ⟪कर्मन्⟫ "azione/fatto"
+Verso 8: ⟪कर्म⟫ Nominativo, Accusativo singolare neutro di ⟪कर्मन्⟫ "Azione"
 
-Frase 13: ⟪सर्वेषाम⟫ Gen. pl. masc. derivato da ⟪सर्व⟫ "ogni, tutti" (pronome, non declinato come deva)
+Verso 13: ⟪सर्वेषाम्⟫ Genitivo plurale maschile di ⟪सर्व⟫ "ogni, tutti" (Pronome, non declinato come deva)
 :::
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३॥⟫
 

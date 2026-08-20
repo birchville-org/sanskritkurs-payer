@@ -1,10 +1,10 @@
-
 ---
-title: "Übung 1"
+title: "練習一"
 uebung_id: 1
 category: "Übung"
+
 ---
 
-# 練習1
+# 練習一
 
-Lektion 1 enthält keine schriftlichen Übungen, da sie als Einführung in die Lautlehre und Aussprache konzipiert ist. Die Leseübungen am Ende der Lektion dienen der praktischen Einübung der Laute und erfordern keinen separaten Lösungsschlüssel.
+第一課不包含書面練習，因為它被設計為語音和發音的入門。課末的閱讀練習旨在實踐掌握這些音素，因此不需要單獨的答案鍵。

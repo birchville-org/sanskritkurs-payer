@@ -3,23 +3,23 @@ layout: home
 
 hero:
   name: "Курс санскрита"
-  text: "Полный курс"
-  tagline: "Алоиса Пейера (Tüpfli's Global Village Library)"
+  text: "Полный курс обучения"
+  tagline: "автор Алоис Пайер (библиотека Tüpfli's Global Village)"
   actions:
     - theme: brand
       text: "Начать курс"
       link: /ru/lektionen/lektion01
     - theme: alt
-      text: "Грамматика"
+      text: "Темы грамматики"
       link: /ru/grammatik
 
 features:
-  - title: "Поддержка Devanāgarī"
-    details: "Идеальная встроенная типографика для индийских шрифтов."
-  - title: "Удобный поиск"
-    details: "Глубокий локальный полнотекстовый поиск под рукой."
+  - title: "Devanāgarī ready"
+    details: "Идеальная, интегрированная типографика для индийских шрифтов."
+  - title: "Легкость поиска"
+    details: "Глубокий локальный полнотекстовый поиск обеспечивает мгновенный доступ к знаниям."
   - title: "Современная архитектура"
-    details: "Построено на основе VitePress для максимальной скорости."
+    details: "Построена на базе VitePress для максимальной скорости."
 
 ---
 

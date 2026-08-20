@@ -1,294 +1,256 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "第50課"
+subtitle: "名詞構造：規則性比較"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第50課
 
-## 50.1. 名词构成：规则比较级
+## 50.1. 名詞構詞：規則性比較級與最高級的構成
 
 ::: grammar-box
-**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"**
+**規則性比較級與最高級的構成在梵語中使用 ⟪तद्धित⟫ 後綴**
+* **-⟪तर⟫（陰性：⟪तरा⟫）用於「比較級」**
+* **⟪तम⟫（陰性：⟪तमा⟫）用於「最高級」**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.**
+**這些後綴附加於形容詞的陽性詞幹。對於具有強弱變格（ablaut）的名詞，則附加於弱式詞幹上，其形式與在屬格後綴 -su（⟪पञ्चमी⟫）複數之前出現的形式相同。**
 :::
 ::: media
 ![](/images/lekt5007.webp)
-Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007))
+圖：⟪लोकस्योत्तमो गिरिः सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗瑪峰 = Mount Everest
+（圖片來源：[詳情](/zh/licenses#lekt5007)）
 :::
 
 ::: grammar-box
-**Bedeutung:**
+**含義：**
 
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":**
+**「比較級」在沒有明確指出被比較對象時，意味著「相當、非常、過於」：**
 
 :::
 ::: indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
+例如 ⟪सुचितर⟫ 3「相當純淨」、「非常純淨」、「過於純淨」
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
+**若表達了被比較的對象，該對象位於離格（⟪पञ्चमी⟫）。比較級加離格對應於德語中使用「als」的比較結構。**
 
 ::: indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
+例如 ⟪देवदत्ताद्रामो धीमत्तरः⟫ = 字面意：「從 Devadatta 的角度看，Rāma 更具洞察力」= 「Rāma 比 Devadatta 更具洞察力」
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":**
+**「最高級」在沒有明確指出被比較對象時，意味著「極度、非常」：**
 
 ::: indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut"
+例如 ⟪सत्तम⟫ 3（源自 ⟪सन्त्⟫）「極好、非常好」
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
+**若表達了被比較的對象，該對象位於屬格（⟪षष्ठी⟫）（「從...之中」、「在...之下」），且最高級對應於德語的最高級（最高階）：**
 
 ::: indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
+例如 ⟪द्विजानां सत्तमः⟫ = 「再生族中最優秀者」
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
+**後綴 -⟪तर⟫ 和 -⟪तम⟫ 不僅可以附加於形容詞，也可以附加於名詞、不變位詞（Indeklinabilia），甚至動詞形式：**
 
-Beispiele:
+範例：
 
 ::: indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas)
+⟪गजतम⟫ 陽性「最優之象」（⟪गज⟫）（亦為佛陀的稱號之一）
 
-⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
+⟪गोतम⟫ 陽性「最偉大之牛」（⟪गो⟫）或：「於牛隻方面最富饒者」
 
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
+⟪उद्⟫ 不變位詞「向上」、「往上去」 » ⟪उत्तर⟫ 3 「較高者」 » ⟪उत्तम⟫ 3「最高者」
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
+**當這些後綴附加於動詞形式時，它們總是呈現為副詞性形式：**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
 
-Beispiele:
+範例：
 
 ::: indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser"
+⟪पचतितराम्⟫ 「他/她/它煮得更好」
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
+⟪पचतितमाम्⟫ 「他/她/它煮得最好」
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
+**當這些後綴附加於不變位詞，且派生出的名詞被用作副詞時，這些後綴也具有這種形式：**
 
 ::: indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
+例如 ⟪सुतराम्⟫（源於 ⟪सु⟫）「以更好的方式」（副詞用法）
 :::
 ::: media
 ![](/images/lekt5006.webp)
-Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006))
+圖：⟪का पचतितमाम्⟫
+Lisu = 傈僳族, ⟪अरुणाचल प्रदेश⟫
+（圖片來源：[詳情](/zh/licenses#lekt5006)）
 :::
-## 50.2. 词汇表
+## 第50.2課。詞彙表
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
+⟪ध्रुव⟫ 3：堅定，不可改變
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
+⟪निषेक⟫ 陽性：澆灌，受精，液體，精液，受孕時的儀式
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
+⟪पण्डित⟫ 3：聰明，睿智，博學
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ ：忽視，輕蔑
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+⟪मन्त्रिन्⟫ 3：提供建議的；陽性：顧問，參議員，大臣
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+圖：⟪मन्त्री⟫
+Kapil Sibal（1948年－），印度聯邦科學與技術部及地球科學部長（自2006年起）
+（圖片來源：[詳情](/zh/licenses#lekt5001)）
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ 中性：秘密，孤獨
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ ：受到損害，失敗，被破壞
 
 ::: indent
-Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
-Fut. ⟪रेषिष्यति⟫
-Pass. ⟪रिष्यते⟫
-Kaus. ⟪रेषयति⟫
-PPP ⟪रिष्ट⟫
+完成時 II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+未來時 ⟪रेषिष्यति⟫
+被動語態 ⟪रिष्यते⟫
+使役動詞 ⟪रेषयति⟫
+過去被動分詞 (PPP) ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 第六變位法：sig[⟪लुम्प⟫]⟪ति⟫** ：打破，摧毀
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
-Fut. ⟪लोप्स्यति⟫
-Pass. ⟪लुप्यते⟫
-Kaus. ⟪लोपयति⟫
-PPP ⟪लुप्त⟫
-Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+完成時 II ⟪लुलोप⟫, ⟪लुलुपे⟫
+未來時 ⟪लोप्स्यति⟫
+被動語態 ⟪लुप्यते⟫
+使役動詞 ⟪लोपयति⟫
+過去被動分詞 (PPP) ⟪लुप्त⟫
+不定詞 ⟪लोप्तुम्⟫
+動名詞 ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ 陽性名詞：亦指命運（源於 ⟪विधा⟫）
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 第一類動詞 ⟪वर्षति⟫ ：下雨（通常與一個 ⟪कर्तृ⟫ —— 神祇或雲朵 —— 搭配使用）
 
 ::: indent
-Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
-Fut. ⟪वर्षिष्यति⟫
-Pass. ⟪वृष्यते⟫
-Kaus. ⟪वर्षयति⟫
-PPP ⟪वृष्ट⟫
-Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫
+完成時 II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
+未來時 ⟪वर्षिष्यति⟫
+被動語態 ⟪वृष्यते⟫
+使役動詞 ⟪वर्षयति⟫
+過去被動分詞 (PPP) ⟪वृष्ट⟫
+不定詞 ⟪वर्षितुम्⟫
+絕對構式 ⟪वर्षित्वा । वृष्ट्वा⟫
+絕對構式-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+圖注：⟪महामेघो वर्षिष्यति⟫
+季風抵達，班加羅爾 ಬೆಂಗಳೂರು
+（圖片來源：[詳情](/zh/licenses#lekt5002)）
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ 副詞：正確，真實，恰當地；完全地，徹底地
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ 陽性名詞：太陽；複數形式：[Āditya](http://en.wikipedia.org/wiki/Aditya) ：一類特定的神祇
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+圖注：⟪आदित्यः⟫
+（圖片來源：[詳情](/zh/licenses#lekt5005)）
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 第三變位法：每個，所有
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+變格規則同 ⟪यद्⟫ （例外：中性單數主格與賓格）
 
 ::: grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | 單數：br⟪एकवचनम्⟫ || || 複數：br⟪बहुवचनम्⟫ || ||
+| | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | *:sig[⟪सर्वम्⟫]* | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | *:sig[⟪सर्वम्⟫]* | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **1. 主格：br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. 賓格：br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. 工具格：br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. 與格：br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. 離格：br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. 屬格：br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. 位格：br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫：語助詞，用於強調前面的單字：確實、的確、然而
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ 副詞：這裡、此世、至此；現在。位於屬格名詞（⟪षष्ठी⟫）之前時，與 ⟪अस्मिन्⟫、⟪अस्याम् कल्प⟫ 同義：m. 法則、習俗、儀式；[劫]（時間單位）（源於 ⟪कॢप्⟫）
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3（f.：⟪कल्याणी⟫）：美麗
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+圖注：⟪कल्याणी⟫
+（圖片來源：[詳情](/zh/licenses#lekt5003)）
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫-：作為複合詞的前半部分時，意為「壞的」
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+圖注：⟪कुनगरम् धारावी⟫、⟪मुंबई⟫
+（圖片來源：[詳情](/zh/licenses#lekt5004)）
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫：看見
 
 ::: indent
-Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+完成時 ⟪चचक्षे⟫
+在其他時態中不使用
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫：講述、認為是、命名
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.：地方、位置、國家、地區
 
-## 50.3. 翻译练习
+## 第50課。翻譯練習
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
+A) 為了複習變格：以下詩句包含了 ⟪गुरु⟫ m. 的所有單數變格形式：
 
 ::: indent
-⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
-⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
-⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
-⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
+⟪गुरुरेव गतिर्गुरुमेव भजे गुरुणैव सहास्मि नमो गुरवे । न गुरोः परमं शिशुरस्मि गुरोर् मतिरस्ति गुरौ मम पाहि गुरो ॥⟫
 :::
 ::: media
 ![](/images/lekt5008.webp)
-Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
-Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008))
+圖注：⟪गुरुमेव भजे⟫
+甘尼什普里，距離孟買（⟪मुंबई⟫）80公里
+（圖片來源：[詳情](/zh/licenses#lekt5008)）
 :::
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
+⟪मनुस्मृति ४⟫、⟪१७८⟫
 
 ::: indent
-⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
-⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
-⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
-⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫
+⟪येनास्य पितरो याता येन याताः पितामहाः । तेन यायात्सतां मार्गम् तेन गच्छन्न रिष्यते ॥१॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+⟪मनुस्मृति ३⟫、⟪६३⟫
 
 ::: indent
-⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
-⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
-⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
-⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫
+⟪कुविवाहैः क्रियालोपैर् वेदानध्ययनेन च । कुलान्यकुलतां यान्ति ब्राह्मणातिक्रमेण च ॥२॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+⟪मनुस्मृति ३⟫, ⟪६०⟫
 
 ::: indent
-⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
-⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
-⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
+⟪संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+⟪मनुस्मृति ३⟫, ⟪७५⟫ - ⟪७६⟫：關於祭祀的必要性
 
 ::: indent
-⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
-⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
-⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
-⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥४॥⟫
-⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫
-⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫
-⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫
-⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫
+⟪स्वाध्याये नित्ययुक्तः स्याद् दैवे चैवेह कर्मणि । दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥४॥ अग्नौ प्रास्ताहुतिः सम्यग् आदित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर् वृष्टेरन्नं ततः प्रजाः ॥५॥⟫
 :::
-⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+⟪योगसूत्र २⟫, ⟪१६⟫ - ⟪१७⟫
 
 ::: indent
-⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-*:sig[⟪द्रष्टृदृश्ययोः⟫]* ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
+⟪हेयं दुःखमनागतम् ॥६॥⟫
+sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो हेयहेतुः ॥७॥⟫
 
-Erklärung:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva)
+解釋：
+⟪द्रष्टृदृश्ययोः⟫ ：屬格、地方格、陽性/中性/陰性，雙數（雙重雙數）
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+⟪कौटिलीयार्थशास्त्र १⟫, ⟪१५⟫：關於國王的顧問
 
 ::: indent
-⟪न⟫ ⟪किंचिदवमन्येत⟫
-⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
-⟪बालस्याप्यर्थवद्वाक्यम्⟫
-⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
+⟪न किंचिदवमन्येत सर्वस्य शृणुयानमतम् । बालस्याप्यर्थवद्वाक्यम् उपयुन्जीत पाण्डितः ॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+⟪मनुस्मृति २⟫, ⟪१४०⟫ - ⟪१४२⟫：⟪आचार्य⟫、⟪उपाध्याय⟫、⟪गुरु⟫的定義
 
 ::: indent
-⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
-⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
-⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
-⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥९॥⟫
+⟪उपनीय तु यः शिष्यं वेदमधापयेत्द्द्विजः । सकल्पं सरहस्यं च तमाचार्यां प्रचक्षते ॥९॥ एकदेशं तु वेदस्य वेदाङ्गान्यपि वा पुनः । यो ऽध्यापयति वृत्त्यर्थम् उपाध्यायः स उच्यते ॥१०॥ निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि यः करोति यथाविधि । संभावयति चान्नेन स विप्रो गुरुरुच्यते ॥११॥⟫
 
-⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫
-⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫
-⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
-⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
-
-⟪निषेका⟫*:sig[⟪दीनि⟫]* ⟪कर्माणि⟫
-⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
-⟪संभावयति⟫ ⟪चान्नेन⟫
-⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
-
-Erklärungen:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
+解釋：
+⟪निषेकादीनि⟫ ：主格/賓格，複數，中性
 :::
 

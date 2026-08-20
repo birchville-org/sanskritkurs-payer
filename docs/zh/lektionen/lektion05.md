@@ -1,197 +1,203 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "第5課"
+subtitle: "名詞複合詞（samāsa）的基礎"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第5課
 
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+## 5.1. 名詞複合詞（samāsa m. = ⟪समास⟫）
 
-Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit.
+在極大範圍內構建詞彙複合是梵語的一個特徵。
 
-Die wichtigsten Bildungsformen von Komposita sind:
-- **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫)
-- **determinative Komposita** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **Possesivkomposita** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
+最重要的複合構建形式包括：
+**並列複合詞**（dvandva n. = ⟪द्वन्द्व⟫）
+**限定複合詞**（tatpuruṣa m. = ⟪तत्पुरुष⟫）
+**屬格複合詞**（bahuvrīhi m. = ⟪बहुव्रीहि⟫）
 
-(Zu den beiden letztgenannten siehe später!)
+（關於後兩者，請參見下文！）
 
-## 5.2. 关于复合词的梵语术语
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Glieder eines Kompositums
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Auflösung eines Kompositums
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Kompositum, in dem das Vorderglied eine Kasusendung behält
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden
+## 5.2. 關於梵語複合詞術語
 
-## 5.3. 并列复合词 (Dvandva n. = ⟪द्वन्द्व⟫)
+**ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ ：複合詞的構成成分
+**vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ ：複合詞的分解
+**nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ ：沒有 vigrahavākya 或無法用複合詞中的詞彙構建其 vigrahavākya 的複合詞。
+**aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ ：前一部分保留格詞尾的複合詞
+**luksamāsaḥ** m. = ⟪लुक्समासः⟫ ：前一部分沒有格詞尾的複合詞（常規情況）
+**madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ ：省略一個或多個中間成分的複合詞
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven).
+
+## 5.3. 並列複合詞（Dvandva n. = ⟪द्वन्द्व⟫）
+
+並列複合詞用於連接語法上同類、並列的成分（名詞或形容詞）。
 
 ::: grammar-box
-**Ein Dvandva bezeichnet:**
+**Dvandva 表示：**
 
-1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:**
-   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
+1. **要么是其所指代的人、事物或性質的總和：**
+Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:**
-   Samāhāradvandva ("Zusammenfassungsdvandva") = ⟪समाहारद्वन्द्व⟫
+2. **要么將這些人、事物或性質合併為一個整體：**
+Samāhāradvandva（“總括性 Dvanda”）= ⟪समाहारद्वन्द्व⟫
 
-**Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig.
+**在第一種情況（Itaretaradvandva，異義複合）：**
+此類複合詞的語法性別取決於最後一個成分，並採用雙數（指兩件事物）或複數（指多於兩件事物）的詞尾。單數詞尾也是允許的。
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular.
+**在第二種情況（Samāhāradvandva，總義複合）：**
+此類複合詞通常為中性（無論最後一個成分的性別為何），並使用單數形式。
 
-**Die Auflösung:**
-Erfolgt mit "und" (**ca** = ⟪च⟫), gelegentlich mit "oder" (**vā** = ⟪वा⟫) oder "je".
+**解析：**
+通常以「和」來連接（**ca** = ⟪च⟫），有時以「或」（**vā** = ⟪वा⟫）或「各自」來連接。
 :::
-Zu den Dualdvandva siehe später!
+關於雙數複合詞，請參見後文！
 
-### 5.3.1. 复合词的前项
+### 5.3.1. 複合詞的前置成分
 
-Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten **Nominalstamms**. Die einzelnen Glieder von Komposita werden nach den Regeln des **Satzsandhi** verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet).
+>> 複合詞（不僅限於異義複合）的前置成分通常採用未變化的**名詞詞幹**形式。複合詞的各個成分根據**句法連聲規則**（Satzsandhi）進行連接（即我們迄今為止所學的連聲，與在詞內形態成分之前應用的「語音連聲」**Wortsandhi** 相對）。
 
-### 5.3.2. 复数 Itaretaradvandva
+### 5.3.2. 複數異義複合（Plural-Itaretaradvandva）
 
-Beispiele für Pluraldvandva:
+複數雙重異義複合詞的例子：
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
->
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+> （婆羅門、剎帝利、吠舍和首陀羅）
+> 
+> 或 = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+> （一位/那位婆羅門、剎帝利、吠舍和首陀羅）
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Dichter und Lehrer [Plur.])
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+> （詩人和老師 [複數]）
+> （註：「一位詩人和一位老師」應使用雙數形式！）
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:**
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäß ihrer Hierarchie (höchster zuerst) geordnet werden.
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden.
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden.
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen.
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen.
-- Wörter, die weniger Silben enthalten, sollen vorausgehen.
+**關於複數合成詞中各成分的順序，適用以下規則：**
+各種種姓（**varṇa**）的名稱應按其等級順序排列（最高者在前）。
+兄長的名字應置於弟妹名字之前。
+一般而言，更重要的詞彙應放在前面。
+以**-i**或**-u**結尾的詞彙應置於前面。
+以**-a**結尾且以元音開頭的詞彙應置於前面。
+包含較少音節的詞彙應置於前面。
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
+若上述最後三項規定同時適用，則始終遵循後提出的規則。（關於這些規則的雙數複數合成詞示例，參見Kielhorn，《文法》§ 570）。
 
-## 5.4. 词汇表
 
-**Lernen Sie folgende Wörter:**
+## 5.4. 詞彙表
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+**請學習以下詞彙：**
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ ：傾向、固執、堅持；特指：對身體的依附，視其為自我所有。
+
+**kāma** m. = ⟪काम⟫ ：慾望、渴望、所求之物、感官享樂、愛；愛神Kāma。
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+圖：愛神Kāma = kāmadeva = ⟪कामदेव⟫，18世紀
+（圖片來源：維基百科，公有領域）
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn.
+**krodha** m. = ⟪क्रोध⟫ ：憤怒。
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
+**kleśa** m. = ⟪क्लेश⟫ ：痛苦、折磨。
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ ：三數；特指三部吠陀（《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》）。
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ ：政治（由daṇḍa m. = "棍棒、權力、統治、懲罰"和nīti f. = "正確引導"組成的業際限定合成詞）。
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ ：再生者。
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**dveṣa** m. = ⟪द्वेष⟫：憎恨。
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**maitrī** f. = ⟪मैत्री⟫：友誼、友善、友好的善意。
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**rāga** m. = ⟪राग⟫：（紅）色、激情、愛。
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**lobha** m. = ⟪लोभ⟫：貪婪、吝嗇。
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**varṇa** m. = ⟪वर्ण⟫：顏色、種類、種姓。
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**vārttā** f. = ⟪वार्त्ता⟫：謀生、經濟（商業）。
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**vidyā** f. = ⟪विद्या⟫：知識、科學。
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**avidyā** f. = ⟪अविद्या⟫：無知、非知識。
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+**ca** = ⟪च⟫：和。
+（它被置於它所連接的詞之後。如果連接多個詞，理想情況下應放在最後一個連接組的第一個詞後面：brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫）。
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫：既...又。
 
-## 5.5. 练习
 
-**A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:**
+## 5.5. 練習
+
+**A) 翻譯以下句子和複合詞，並用梵語分解其中出現的雙重複合詞（dvandva）：**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
-   (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Erklärung: catvāras = ⟪चत्वारस्⟫ = "vier")
+（Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1）
+⟪चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+（解釋：catvāras = ⟪चत्वारस्⟫ = "四"）
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
-   (Vāsiṣṭhadharmaśāstra II,1)
-   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Erklärung: trayas = ⟪त्रयस्⟫ = "drei")
+（Vāsiṣṭhadharmaśāstra II,1）
+⟪त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः⟫ ||
+（解釋：trayas = ⟪त्रयस्⟫ = "三"）
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
-   ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in gutem Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+（Kauṭilīya-arthaśāstra 1.3.1. / 在標準梵語中：sāmārgyajurvedās trayī）
+⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
+（在標準梵語中：⟪सामार्यजुर्वेदास्त्रयी⟫）
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6):
+4. 人類的三大敵人，它們構成通往地獄的大門（Viṣṇusmṛti 33,1+6）：
    kāmakrodhalobhāḥ
-   ⟪कामक्रोधलोभाः⟫ ||
+⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.)
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫ ||
+（說明：brahmavihāra 意為「梵住」，亦稱「無量」。此為佛教禪修方法。）
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
-   (Yogasūtra 2,3)
-   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Erklärung: pañca = "fünf")
+（《瑜伽經》2,3）
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः⟫ ||
+（說明：pañca 意為「五」）
 
-7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-   (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
+（根據《政事論》Kauṭilīya-arthaśāstra 1.2.1。）
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
-## 5.6. Wiederholungsübung
 
-**A) Übersetzen Sie:**
+## 5.6. 複習練習
+
+**A) 請翻譯：**
 
 1. vidyā vārttā.
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
+⟪विद्या वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten)
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
+3. dvijā vaiśyāḥ. （兩種可能）
+⟪द्विजा वैश्याः⟫ |
 
-**B) Setzen Sie die entsprechende Form ein:**
+**B) 填入適當的形式：**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:**
+**C) 請將下列句子中的梵文複合詞拆解，並使用該拆解形式重寫同一個句子：**
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):**
+**D) 請以兩種方式將以下內容翻譯成梵文（一次使用複合詞，一次不使用）：**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
+「梵住」包括：慈、悲、喜、捨。

@@ -1,15 +1,13 @@
 ---
-title: "الدرس 1"
-subtitle: "أصوات السنسكريتية"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
-
 ---
 
 # الدرس 1
-
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -74,10 +72,11 @@ pārvatīparameśvarau |**
 
 في البداية، غرابة:
 
-
->"عندما درس ويليام جونز [1746–1794] وهنري توماس كولبروك (1765—1857) السنسكريتية بجدية لأول مرة، وترجموا أجزاء منها ووجدوا أنها تحتوي على أدب غني ولها قرابة كبيرة مع اللغات الكلاسيكية، واجهوا مقاومة كبيرة. وبما أن هذه العلاقة الوثيقة للسنسكريتية مع اللغات الأوروبية البعيدة جغرافياً لا يمكن التوفيق بينها وبين الآراء القديمة التي إما كانت تستمد جميع اللغات من العبرية أو تعتبرها معزولة إلى حد كبير، فقد اتخذ الفيلسوف الشهير دوجالد ستيوارت (1753—1828) أبسط مخرج، حيث أعلن أن كل القصة مع اللغة السنسكريتية كذبة. كتب مقالاً حاول فيه إثبات أنها من صنع البراهمة الخداعين على غرار اليونانية واللاتينية، وأن اللغة والأدب معاً مزيفان. وطور هذا الرأي بشكل موسع في عام 1840 البروفيسور في دبلن، تشارلز وليام وال (الإعلانات الأكاديمية الغوتنغية 1842 ص. 1888)."
 >
 >(المصدر: **كيمريش**، ماكس (1876–1932): كوروسا-كولتور. -- ميونخ: لانغن. -- المجلد 2. -- 1923. -- ص. 74. -- عبر الإنترنت: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- تم الوصول إليه في 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. الأدب للمبتدئين في الدراسات الهندية
 
@@ -97,7 +96,9 @@ pārvatīparameśvarau |**
 
 أفضل قواعد منهجية:
 
-> **كيلهورن**، فرانتس (1840–1908): قواعد اللغة السنسكريتية / ترجمة من الإنجليزية بواسطة دبليو. سولف [1862 - 1936]. -- برلين : ديميلر، 1888. -- XIII، 238 ص. -- العنوان الأصلي: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -117,7 +118,9 @@ pārvatīparameśvarau |**
 
 يمكن العثور على عرض جيد ومختصر للمصطلحات اللغوية الأوروبية في:
 
-> **قاموس علم الاشتقاق للغة الألمانية** / [فريدريش] كلوج (1856–1926). إعداد: إلمار زيبولد. -- الطبعة 24، المنقحة والموسَّعَة. -- برلين [وأماكن أخرى] : دي غروتر، 2002. - LXXXIX, 1023 ص : 24 سم. -- ISBN 3-11-017473-1 غلاف ورقي. -- ص XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -128,7 +131,6 @@ pārvatīparameśvarau |**
 للمهتمين بالاطلاع والبحث:
 
 > **قاموس علم اللغة** / تحرير: هادومود بومان. -- الطبعة 4، المنقحة والمكمَّلة bibliographischًا / بالتعاون مع هارتموت لاوفر. -- شتوتغارت : كريونر، 2008. -- 816 ص ; 22 سم. -- ISBN 978-3-520-45204-7
-
 
 ## 1.2. أصوات السنسكريتية
 
@@ -141,6 +143,12 @@ pārvatīparameśvarau |**
 القواميس الحديثة للغة السنسكريتية مرتبة وفق تسلسل هذا التصنيف. وهذا التصنيف ضروري لفهم قواعد اللغة السنسكريتية، ولذلك يجب حفظه عن ظهر قلب:
 
 ::: note-box
+Klassifikation <!-- TODO: Fallback translation -->
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
 التصنيف
 **متحركات بسيطة** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -172,7 +180,6 @@ pārvatīparameśvarau |**
 | **ṃ** | **أنوسفار (Anusvara)** -- ⟪अनुस्वर⟫. قبل الأصوات الصريرية، h، l: أنفية للحرف المتحرك. في نهاية الكلمة = m. في وسط الكلمة قبل الساكنات: الأنفي المقابل للساكن التالي: saṃdhi -- ⟪संधि⟫ = sandhī -- ⟪सन्धि⟫ |
 :::
 يتم تحقيق أفضل نطق عندما تقرأ الجمل أو الأبيات أو الكلمات ببطء نسبي وبطريقة رتيبة مع مراعاة دقيقة لطول الحروف المتحركة.
-
 
 ## 1.3. تمرين
 

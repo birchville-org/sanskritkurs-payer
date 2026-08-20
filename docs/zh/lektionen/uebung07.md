@@ -1,15 +1,15 @@
-
 ---
-title: "Übung 7"
+title: "練習7"
 uebung_id: 7
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習7
 
-A) Setzen Sie jeweils im Singular und Plural (sofern es keine Eigennamen sind) das direkte Objekt bzw. den Richtungsakkusativ ein:
+A) 請分別以單數和複數（若非專有名詞）填入直接受格或方向受格：
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -17,7 +17,7 @@ A) Setzen Sie jeweils im Singular und Plural (sofern es keine Eigennamen sind) d
 
 brāhmaṇo devaṃ / devān yajati. brāhmaṇo devīṃ / devīr yajati. brāhmaṇo viṣṇuṃ yajati. brāhmaṇo 'gniṃ yajati. brāhmaṇo devatām / devatā yajati.
 
-⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजते⟫ ⟪।⟫ ⟪ब्राह्मनो⟫ ⟪देवीर्यजति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪विष्णुं⟫ ⟪यजति⟫ ⟪।⟫ ⟪ब्राह्मनो⟫ ⟪ऽग्निं⟫ ⟪यजति⟫ | ⟪ब्राह्मणो⟫ ⟪देवतां⟫ ⟪यजति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪देवता⟫ ⟪यजति⟫ ⟪।⟫
+⟪ब्राह्मणो देवं यजति । ब्राह्मणो देवान्यजति । ब्राह्मणो देवीं यजते । ब्राह्मनो देवीर्यजति । ब्राह्मणो विष्णुं यजति । ब्राह्मनो ऽग्निं यजति⟫ | ⟪ब्राह्मणो देवतां यजति । ब्राह्मणो देवता यजति ।⟫
 
 2\. gurus ... khādati (phala)
 
@@ -25,7 +25,7 @@ brāhmaṇo devaṃ / devān yajati. brāhmaṇo devīṃ / devīr yajati. brāh
 
 guruḥ phalaṃ / phalāni khādati.
 
-⟪गुरुः⟫ ⟪फलं⟫ ⟪खादति⟫ ⟪।⟫ ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫ ⟪।⟫
+⟪गुरुः फलं खादति । गुरुः फलानि खादति ।⟫
 
 3\. sādhus ... gacchati (svarga)
 
@@ -33,7 +33,7 @@ guruḥ phalaṃ / phalāni khādati.
 
 sādhuḥ svargaṃ / svargān gacchati.
 
-⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪साधुः⟫ ⟪स्वर्गान्गच्छति⟫ ⟪।⟫
+⟪साधुः स्वर्गं गच्छति । साधुः स्वर्गान्गच्छति ।⟫
 
 4\. śūdrā ... gacchati (naraka)
 
@@ -41,41 +41,41 @@ sādhuḥ svargaṃ / svargān gacchati.
 
 sūdro narakaṃ / narakān gacchati.
 
-⟪शूद्रो⟫ ⟪नरकं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪शूद्रो⟫ ⟪नरकान्गच्छति⟫ ⟪।⟫
+⟪शूद्रो नरकं गच्छति । शूद्रो नरकान्गच्छति ।⟫
 
 5\. ... jayati (śūdra)
 
-... ⟪जयति⟫ (⟪शूद्र⟫)
+⟪जयति⟫ (⟪शूद्र⟫)
 
 śūdraṃ jayati. śūdrāñ jayati.
 
-⟪शूद्रं⟫ ⟪जयति⟫ ⟪।⟫ ⟪शूद्रञ्जयति⟫ ⟪।⟫
+⟪शूद्रं जयति । शूद्रञ्जयति ।⟫
 
 6\. ... labhate (dhenu, paśu, phala)
 
-... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
 dhenuṃ labhate. dhenūr labhate. paśuṃ labhate. paśūṃḷ labhate. phalaṃ labhate. phalāni labhate.
 
-⟪धनुं⟫ ⟪लभते⟫ ⟪।⟫ ⟪धेनूर्लभते⟫ ⟪।⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫ ⟪पशूंल्लभते⟫ ⟪।⟫ ⟪फलं⟫ ⟪लभते⟫ ⟪।⟫ ⟪फलानि⟫ ⟪लभते⟫ ⟪॥⟫
+⟪धनुं लभते । धेनूर्लभते । पशुं लभते । पशूंल्लभते । फलं लभते । फलानि लभते ॥⟫
 
-B) Setzen Sie die entsprechenden Verbformen ein:
+B) 填入適當的動詞形式：
 
 1\. sādhuḥ svargam ... (āp, gam, aś)
 
-⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+⟪साधुः स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
 
 sādhuḥ svargam āpnoti. sādhuḥ svargaṃ gacchati. sādhuḥ svragam aśnute.
 
-⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫ ⟪।⟫ ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪साधुः⟫ ⟪स्व्रगमश्नुते⟫ ⟪।⟫
+⟪साधुः स्वर्गमाप्नोति । साधुः स्वर्गं गच्छति । साधुः स्व्रगमश्नुते ।⟫
 
-2\. brāhmaṇaḥ somam ... (su) (2 Formen)
+2\. brāhmaṇaḥ somam ... (su) （兩種形式）
 
-⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+⟪ब्राह्मणः सोमम्⟫ ... (⟪सु⟫)
 
 brāhmaṇaḥ somaṃ sunoti / sunute.
 
-⟪ब्राह्मणः⟫ ⟪सोमं⟫ ⟪सुनोति⟫ ⟪।⟫ ⟪ब्राह्मणः⟫ ⟪सोमं⟫ ⟪सुनुते⟫ ⟪।⟫
+⟪ब्राह्मणः सोमं सुनोति । ब्राह्मणः सोमं सुनुते ।⟫
 
 3\. sādhur gurum ... (śru)
 
@@ -83,7 +83,7 @@ brāhmaṇaḥ somaṃ sunoti / sunute.
 
 sādhur guruṃ śṛṇoti.
 
-⟪साधुर्गुरुं⟫ ⟪शृणोति⟫ ⟪।⟫
+⟪साधुर्गुरुं शृणोति ।⟫
 
 4\. devī ... (kup, krudh)
 
@@ -91,27 +91,27 @@ sādhur guruṃ śṛṇoti.
 
 devī kupyati. devī krudhyati.
 
-⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
+⟪देवी कुप्यति । देवी क्रुध्यति ।⟫
 
-C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.
+C) 將練習 B) 中的施事者、受事者和動詞變為複數。
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
-⟪साधवः⟫ ⟪स्वर्गानाप्नुवन्ति⟫ ⟪।⟫ ⟪साधवः⟫ ⟪स्वर्गान्गच्छन्ति⟫ ⟪।⟫ ⟪साधवः⟫ ⟪स्वर्गानश्नुवते⟫ ⟪।⟫
+⟪साधवः स्वर्गानाप्नुवन्ति । साधवः स्वर्गान्गच्छन्ति । साधवः स्वर्गानश्नुवते ।⟫
 
 2\. brāhmanāḥ somaṃ sunvanti.
 
-⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणाः सोमं सुन्वन्ति ।⟫
 
 3\. sādhavo gurūñ chrṇvanti / śṛṇvanti.
 
-⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ ⟪।⟫ ⟪साधवो⟫ ⟪गुरूञ्शृण्वन्ति⟫ ⟪।⟫
+⟪साधवो गुरूञ्छृण्वन्ति । साधवो गुरूञ्शृण्वन्ति ।⟫
 
 4\. devyaḥ kupyanti. devyaḥ krudhyanti.
 
-⟪देव्यः⟫ ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪देव्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪।⟫
+⟪देव्यः कुप्यन्ति । देव्यः क्रुध्यन्ति ।⟫
 
-D) Setzen Sie ins Ātmanepada:
+D) 變為中動語態（Ātmanepada）：
 
 1\. sunvanti.
 
@@ -119,7 +119,7 @@ D) Setzen Sie ins Ātmanepada:
 
 sunvate.
 
-⟪सुन्वते⟫ ⟪।⟫
+⟪सुन्वते ।⟫
 
 2\. nayanti.
 
@@ -127,7 +127,7 @@ sunvate.
 
 nayante.
 
-⟪नयन्ते⟫ ⟪।⟫
+⟪नयन्ते ।⟫
 
 3\. sunoti.
 
@@ -135,7 +135,7 @@ nayante.
 
 sunute.
 
-⟪सुनुते⟫ ⟪।⟫
+⟪सुनुते ।⟫
 
 4\. yajati.
 
@@ -143,80 +143,80 @@ sunute.
 
 yajate.
 
-⟪यजते⟫ ⟪।⟫
+⟪यजते ।⟫
 
-E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.
+E) 為所有迄今學名詞構成單數（sg.）和複數（pl.）的第四格（dvitīyā，即業格）。
 
-F) Übersetzen Sie:
+F) 請翻譯：
 
 1\. narakāṃś ca svargāṃś ca gacchanti.
 
-⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
+⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫
 
-Sie gehen in Himmel und Höllen.
+他們前往天堂與地獄。
 
 2\. gurūṃs tu śṛṇvanti.
 
-⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+⟪गुरूंस्तु शृण्वन्ति⟫
 
-Sie hören aber auf die Meister.
+然而他們聆聽師長。
 
-3\. Śūdras erlangen einen Himmel.
+3\. 首陀羅（Śūdra）獲得升天。
 
 śūdrāḥ svargam āpnuvanti.
 
-⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
+⟪शूद्राः स्वर्गमाप्नुवन्ति ।⟫
 
-4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
+4\. 剎帝利（Kṣatriyas）作為祭主，用祭品敬奉女神。
 
 kṣatriyā devīr yajante.
 
-⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
+⟪क्षत्रिया देवीर्यजन्ते ।⟫
 
-5\. Vaiśyafrauen verehren Gottheiten mit Opfern.
+5\. 吠舍（Vaiśya）婦女用祭品敬奉神明。
 
 vaiśyā devatā yajante.
 
-⟪वैश्या⟫ ⟪देवता⟫ ⟪यजन्ते⟫ ⟪।⟫
+⟪वैश्या देवता यजन्ते ।⟫
 
-6\. Der HERR zürnt.
+6\. 主神發怒。
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
-⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
+⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. （摘自《考底利耶政事論》Kauṭilīya-arthaṣāstra 1.3.3.） 說明：chando = chandas（中性）的主格、賓格單數。）
 
-⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
+⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
-Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre.
+吠陀輔助學科包括：發音學、儀軌學、文法學、詞源學、詩律學、天文曆算學。
 
-8\. Welchem Gott opfert dieser Brahmane?
+8\. 這位婆羅門向哪位神明獻祭？
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
-⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
+⟪अयं ब्राह्मणः कं देवं यजति⟫ / ⟪यजते ।⟫
 
-9\. Was kaut dieser heilige Mann?
+9\. 這位聖人正在咀嚼什麼？
 
 ayaṃ sādhuḥ kiṃ khādati?
 
-⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
+⟪अयं साधुः किं खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+10\. 這些人（在這裡）壓榨什麼？
 
 ete kiṃ sunvanti / sunvate?
 
-⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
+⟪एते किं सुन्वन्ति⟫ / ⟪सुन्वते ।⟫
 
-11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11\. 他是老師。人們聽從他。
 
 sa guruḥ. enaṃ śṛṇvanti.
 
-⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
+⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 ::: media
 ![](/images/uebung006.jpg)
-Abb.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung006))
+圖：⟪स गुरुः । एनं शृण्वन्ति ॥⟫
+（圖片來源：[詳情](/licenses#uebung006)）
 :::

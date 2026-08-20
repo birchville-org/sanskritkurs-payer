@@ -21,7 +21,6 @@ Kuva 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0102))
 :::
 
-:::
 ::: center
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -51,7 +50,6 @@ Kuva 1.1: Ardhanarīśvara
 (Kuv lähde: [Tiedot](/fi/licenses#lekt0101))
 :::
 
-:::
 ::: center
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये |]
@@ -74,9 +72,11 @@ Sanan merkityksestä.
 
 Aluksi pieni kuriositeetti:
 
->"Kun William Jones [1746–1794] ja Henry Thomas Colebrooke (1765—1857) tutkivat sanskritia perusteellisesti ensimmäistä kertaa, osittain käänsivät sen ja totesivat, että sillä oli rikas kirjallisuus ja huomattava sukulaissuhde klassisiin kieliin, he kohtasivat merkittävää vastarintaa. Koska tämä sanskritin läheinen suhde maantieteellisesti niin kaukana oleviin eurooppalaisiin kieliin ei sopinut vanhoihin käsityksiin, jotka joko johtivat kaikki kielet hepreasta tai pitivät niitä suurelta osin erillään toisistaan, kuuluisa filologi Dugald Steward (1753—1828) otti yksinkertaisimman keinon, kun hän julisti koko historian sanskritin kielen olevan valhe. Hän kirjoitti esseen, jossa hän yritti todistaa, että se oli keksitty vilpikkaiden brahmanien toimesta kreikan ja latinan mallin mukaan, ja että sekä kieli että kirjallisuus olivat väärennöksiä. Tätä näkemystä Dublinin professori Charles William Wall kehitti vielä vuonna 1840 laajasti (Göttingische gelehrte Anzeigen 1842 s. 1888)."
 >
 >[Lähde: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- s. 74. -- Verkossa: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Haettu 10.1.2010]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Kirjallisuus aloittelijoille indologiassa
 
@@ -88,7 +88,6 @@ Kuv.: Taskukirjan kansinimike
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ osa: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
 
-:::
 ::: media
 ![](/images/lekt0104.webp)
 Kuv.: Nimilehti
@@ -97,9 +96,10 @@ Kuv.: Nimilehti
 
 Paras systemaattinen grammatikka:
 
-> **Kielhorn**, Franz (1840–1908): Sanskritin kielioppi / Englannista kääntänyt W. Solf [1862 - 1936]. -- Berliini : Dümmler, 1888. -- XIII, 238 s. -- Alkuperäinen otsikko: A grammar of the Sanscrit language
-
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 :::
+
 ::: media
 ![](/images/lekt0105.webp)
 Kuva: Kansiotsikko
@@ -110,7 +110,6 @@ Hyvä systemaattinen kielioppi kotimaisten kielitieteilijöiden perusteella ja s
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskritin kielioppi / Alkuperäisesti kirjoitettu malajalamiksi. Kääntänyt englanniksi K.V.R. Pai. -- Parathode : Omakustanne, 1983. -- 818 s. ; 23 cm.
 
-:::
 ::: media
 ![](/images/lekt0107.jpg)
 Kuv.: Kannetunniste
@@ -119,9 +118,10 @@ Kuv.: Kannetunniste
 
 Hyvä, tiivis esitys eurooppalaisesta kielitieteen terminologiasta löytyy seuraavasta teoksesta:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
-
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
 :::
+
 ::: media
 ![](/images/lekt0108.jpg)
 Kuv.: Kannen otsikko
@@ -132,7 +132,6 @@ Tutkijoille tarkistettavaksi:
 
 > **Lexikon der Sprachwissenschaft** / toim. Hadumod Bussmann. -- 4., läpikatsottu ja bibliografisesti täydennetty painos / yhteistyössä Hartmut Laufferin kanssa. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-:::
 ## 1.2. Sanskritin äänteet
 
 Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen translitteraation mukaisesti.

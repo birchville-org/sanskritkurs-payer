@@ -1,129 +1,130 @@
 ---
-title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+title: "第10課"
+subtitle: "被動句（施事工具格）"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第10課
 
-## 10.1. Der 被动语态satz
+## 10.1. 被動句
 
 ::: grammar-box
-**Schema:**
-**(Agens - kartṛ - im Instrumentalis (tṛtīyā)) - (direktes Objekt - karman - im Nominativ) - passive Verbalform**
+**句型：**
+**(施事者 - kartṛ - 工具格 (tṛtīyā)) - (直接受事者 - karman - 主格) - 被動語態動詞形式**
 
-z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Ein Brahmane verehrt einen Gott mit einem Opfer" (wörtlich: "Ein Gott wird von einem Brahmanen mit einem Opfer verehrt.")
+例如 **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = 「一位婆羅門以祭祀供奉一位神祇」（字面意思：「一位神祇被一位婆羅門以祭祀所供奉。」）
 
-Dieser Satz ist **völlig (!) bedeutungsgleich** mit dem Satz:
-**brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
+此句與以下句子**完全（！）意義相同**：
+**brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
 
 ::: grammar-box
-- Im Passivsatz steht der Agens (**kartṛ**) im **Instrumentalis** (tṛtīyā f. "dritte Kasusendung"), das direkte Objekt (**karman** n.) im **Nominativ** (prathamā f.).
-- Passivsätze, in denen der Agens nicht bezeichnet wird, haben meist unpersönliche Bedeutung ("man"):
-  z.B. **ijyate** = ⟪इज्यते⟫ "Man opfert" (wörtlich: "es wird mit einem Opfer verehrt").
+在被動句中，施事者（**kartṛ**）位於**工具格**（tṛtīyā f.「第三格」），直接受事者（**karman** n.）位於**主格**（prathamā f.）。
+未指明施事者的被動句，通常具有無人稱的意義（「人們」）：
+例如 **ijyate** = ⟪इज्यते⟫ 「人們進行祭祀」（字面意思：「以祭祀被供奉。」）。
 :::
 
 ::: grammar-box
-**Auch wenn der entsprechende aktive Satz einen Akkusativ (dvitīyā) des Zieles enthalten würde, kann dieser im Passivsatz in den Nominativ (prathamā) gesetzt werden:**
+**即使相應的主動句包含表示目標的第四格（dvitīyā），該受事者仍可在被動句中轉換為第一格（prathamā）：**
 
-Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf." entsprechen die Passivsätze:
-- **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
-- alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
+主動句 **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = 「羅摩前往村莊。」對應的被動句為：
+**rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
+或者：**rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
 :::
 
 ::: grammar-box
-**Intransitive Verben (Verben ohne direktes Objekt) haben häufig Passivkonstruktionen, bes. auch in höflichen Aufforderungen:**
-- **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Man möge eintreten = Bitte treten Sie ein = Herein!"
-- **niṣadyatām** = ⟪निषद्यताम्⟫ = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz"
+**不及物動詞（沒有直接受事者的動詞）經常具有被動結構，尤其在禮貌的請求中：**
+**praviśyatām** = ⟪प्रविश्यताम्⟫ = 「請進」（字面意思：「願其進入」）
+**niṣadyatām** = ⟪निषद्यताम्⟫ = 「請坐」（字面意思：「願其坐下」）
 :::
-Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
+梵語被動結構非常常見：畢竟，被動的構建比例如許多現在時詞幹更容易。
 
 ::: important
-**Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.**
+**梵語被動句在德語中通常不能用被動句來表達，因為德語的被動具有完全不同的風格功能。**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. 工具格（tṛtīyā f. = ⟪तृतीया⟫ = “第三格詞尾”）
 
 ::: grammar-box
-**Die regulären Endungen des Instrumentalis (tṛtīyā):**
-- **Singular: -ā**
-- **Plural: -bhis**
+**工具格的規則詞尾：**
+**單數：-ā**
+**複數：-bhis**
 
-**Regelmäßige Bildungen:**
+**規則變化：**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | 工具格單數 | 工具格複數 |
 | :--- | :--- | :--- |
-| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **以 -i 結尾的陰性名詞**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **以 -ī 結尾的陰性名詞**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **以 -u 結尾的陰性名詞**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
-**Unregelmäßige Bildungen (Singular):**
+**不規則變化（單數）：**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | 工具格單數 | 工具格複數 |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **以 -i 結尾的陽性名詞**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **以 -u 結尾的陽性名詞**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **以 -ā 結尾的陰性名詞**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
+**以 -a 結尾的陽性名詞和中性名詞（單數和複數均不規則）：**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | 工具格單數 | 工具格複數 |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **以 -a 結尾的陽性名詞**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **以 -a 結尾的中性名詞**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
-**Fragepronomen kim:**
+**疑問代詞 kim：**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | 工具格單數 | 工具格複數 |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
-| **Femininum** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
+| **陽性／中性** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **陰性** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
-**Demonstrativpronomina:**
+**指示代詞：**
 
-| Pronomen | Genus | Instrumentalis Singular | Instrumentalis Plural |
+| 代詞 | 性 | 工具格單數 | 工具格複數 |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
-| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
-| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
-| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+| **tad** :br"他、她、它；那（指前述者）"：br⟪तद्⟫ | 陽／中 | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | 陰 | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"這（離說話者極近）"：br⟪एतद्⟫ | 陽／中 | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | 陰 | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"這（離說話者近）"：br⟪इदम्⟫ | 陽／中 | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | 陰 | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+
+### 10.2.1. 關於工具格（tṛtīyā = ⟪तृतीया⟫）的用法
 
 ::: grammar-box
-**Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen:**
-- **Wodurch?**
-- **Womit?**
-- **Mit wem?**
+**工具格（tṛtīyā）主要用於回答以下問題：**
+**憑藉什麼？**
+**用什麼（工具）？**
+**與誰一起？**
 
-**Er steht**
-1. **in Passivsätzen: Agens (kartṛ) im Instrumentalis**
-2. **zur Angabe des Mittels oder Werkzeugs, mit dem etwas vollbracht wird**
-3. **zur Angabe des Weges, auf dem jemand wohin gelangt**
-4. **zum Ausdruck der Verbindung, Vereinigung, Begleitung von**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"**
-z.B.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "gemeinsam mit dem Brahmanen"
+**它用於**
+1. **被動句中：施事者（kartṛ）以工具格出現**
+2. **表示完成某事的手段或工具**
+3. **表示某人到達某處所經的路徑**
+4. **表示連接、結合或陪伴**
+5. **在後置詞中，意為「與……一起、和」；例如 saha = ⟪सह⟫ = "與"** :br例如：br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "與婆羅門一起"
 :::
-Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
+工具格（tṛtīyā）的其他用法將在稍後出現。
 
-## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
+
+## 10.3. 所謂的「腦化律」針對 -n-（一個詞內連音現象）
 
 ::: grammar-box
-Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht.
+當一個 **-n-** 後面緊接著元音或 **n, m, y, v**，且詞中 **-ṇ-** 之前有 **ṛ, ṝ, r, ṣ**，或者在這些音與後續的 **-n-** 之間沒有其他輔音（僅有元音、軟腭音、雙唇音、**y, v, h** 或安努薩瓦拉），則該 **-n-** 會替換為 **-ṇ-**。
 :::
-**Deshalb:**
+**因此：**
 
 ::: grammar-box
-| | Instrumentalis Singular |
+| | 工具格單數 |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
 | **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
@@ -131,7 +132,7 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**śravaṇa** ⟪श्रवण⟫
+**因此，以下詞彙中的 -ṇ- 也可由此解釋：**
 
 ::: indent
 **śravaṇa** ⟪श्रवण⟫
@@ -143,136 +144,133 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das 被动语态, Indikativ Präsens (yak = ⟪यक्⟫)
+
+## 10.4. 被動語態，現在時直陳式 (yak = ⟪यक्⟫)
 
 ::: grammar-box
-**Bildung:**
-**(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
+**構成方式：**
+**(通常) 弱級詞根 + -ya- + 中動語尾**
 :::
-z.B.
+例如
 
-| Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
+| 詞根:br⟪धातु⟫ | 第三人稱單數被動現在直陳:br⟪यक् लट्⟫ | 第三人稱複數被動現在直陳:br⟪यक् लट्⟫ |
 | :--- | :--- | :--- |
-| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
-| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"他被引導" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"他被思考" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"它被進入" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschließen.**
+**請注意，對於第四類現在時動詞，中動語態和被動語態具有相同的形態！在這種情況下，只能從句子結構推斷是中動語態還是被動語態。**
 
-### 10.4.1. 被动语态构成的特殊规则
 
-1. **Wurzeln auf -i oder -u** dehnen ihren Vokal vor dem Passivsuffix **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
 
-2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+### 10.4.1. 被動態構成的特殊規則
 
-3. **Einige Wurzeln bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Präsensstamms):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+1. **以-i或-u結尾的词根**在被动后缀**-ya-**之前會延長其元音：
+* **ji** 第一人稱單數：**jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 第五人稱複數：**śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 第五人稱單數：**sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
-4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+2. **輔音之間帶有-a-的词根**（鼻音、y、r、v除外）保持高階：
+* **labh** 第一人稱中動：**labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
-   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
-   | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+3. **某些词根以高階形成其被動態**（或在現在時詞幹的交替階段）：
+* **āp** 第五人稱單數：**āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 第一人稱單數：**khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 第一人稱單數：**smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-   Die traditionelle einheimische Bezeichnung für diese Bildung der Tiefstufe bei Verben mit **ya** bzw. **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+4. **以ya、va、ra開頭的動詞的低階，或這些音位於其他輔音之後（Samprasāraṇa = ⟪सम्प्रसारण⟫）：**
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Aber: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+| 詞根:br⟪धातु⟫ | 低階:br⟪सम्प्रसारण⟫ | 被動態:br⟪यक्⟫ |
+| :--- | :--- | :--- |
+| **yaj** 第一人稱中動:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+| **vad** 第一人稱單數:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+| **prach** 第六人稱單數:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-6. **Einige Wurzeln auf -an haben alternativ zwei Passivstamm-Bildungen:**
-   * eine **-an-ya**
-   * eine **-ā-ya-** (das lange **ā** ist ein Vertreter für einen hypothetischen langen Nasal)
+對於帶有 **ya** 或 **va** 的動詞，此深層構成的傳統本土名稱是 **Samprasāraṇa**（⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫）。
 
-   z.B. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+5. **單個輔音後的最終 -ṛ**，在被动詞綴 **-ya-** 之前會替換為 **-ri-**：
+* **kṛ** 第8類主動： **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* 但是： **smṛ** 第1類被動： **smaryate** :br⟪स्मर्यते⟫
 
-## 10.5. 词汇表
+6. **一些以 -an 結尾的词根，其被動詞幹構建有兩種選擇：**
+* 一種是 **-an-ya**
+* 另一種是 **-ā-ya-**（長 **ā** 代表假想的長鼻音）
 
-**gṛha** n. ⟪गृह⟫ : Haus
+例如，**tan** 第8類主動。
+* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫（源自 \*tn-ya-nte）
 
-- **gṛha** n. ⟪गृह⟫ : Haus
-- **grāma** m. ⟪ग्राम⟫ : Dorf
-- **nagara** n. ⟪नगर⟫ : Stadt
+
+
+## 10.5. 詞彙表
+
+**請學習以下單字：**
+
+**gṛha** 中性 ⟪गृह⟫ ：房屋
+**grāma** 陽性 ⟪ग्राम⟫ ：村莊
+**nagara** 中性 ⟪नगर⟫ ：城市
 
   ::: note-box
-  **yajña** m. ⟪यज्ञ⟫ : Opfer
+  關於城鎮與村莊生活，請參見 Basham，《Wonder》，第六章。
   :::
 
-- **yajña** m. ⟪यज्ञ⟫ : Opfer
+**yajña** 陽性 ⟪यज्ञ⟫ ：祭儀
 
   ::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
+  在印度，祭儀首要的是將神靈視為賓客來敬拜。藉此，人便對神靈產生了義務。
 
-  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
+  構詞法：**yaj** 第1類主動 + kṛt後綴 **-na-**。
   :::
 
-- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+**puṇya** 中性 ⟪पुण्य⟫ ：善行、功德
 
   ::: note-box
-  **satya** n. ⟪सत्य⟫ : Wahrheit
+  藉此，人獲得了福祉與良好的再生。
   :::
 
-- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
-- **satya** n. ⟪सत्य⟫ : Wahrheit
+**pāpa** 中性 ⟪पाप⟫ ：惡行、邪惡（與 **puṇya** 相對）
+**satya** 中性 ⟪सत्य⟫ ：真理
 
-::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+:::: note-box
+在印度，人們認為真實的言語具有魔力；甚至整個宇宙秩序都是透過真理之言而維持與創造的。關於這一重要觀念，請參見基礎著作：
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+::: literatur-box
+Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf從遺稿中編輯出版。-哥廷根：Vandenhoeck & Ruprecht。-- 第2卷：Varuna與Ṛta。-- 1959年。-- XXIII頁，第340 - 764頁
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+圖：⟪वरुणः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1003)）
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+**anṛta** n. ⟪अनृत⟫ ：不實，謊言（與**satya**相對）
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
+  詞形構成 **an-**（「非-」）+ **ṛta** n.
 
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** 是吠陀中的一個核心概念，其翻譯存在爭議：「真理」（Lüders, Thieme）、「秩序」（Renou）。
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+**ṛṣi** m. ⟪ऋषि⟫ ：吠陀聖人，吠陀詩歌的作者
 
   ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  這些**ṛṣi**的名字在《梵書》以及各自的吠陀目錄中都有提及。所有婆羅門都追溯其血統源自這些**ṛṣi**，他們的**gotra**（⟪गोत्र⟫）即以這些聖人命名。關於**gotra**一詞，請參見Basham，《Wonder》，第5章。
   :::
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+圖：⟪विश्वामित्रः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1002)）
 :::
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+**vad** 1 P (vadati) ⟪वद् वदति⟫ ：說，講
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ ：問（某人：賓格；某事：賓格）
+**saha** ⟪सह⟫ ：與...一起，共同（在「與...戰鬥」等情況下也使用）（後置詞接工具格）
 
-## 10.6. 练习
 
-**A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):**
+## 10.6. 練習
+
+**A) 為以下動詞形式構成被動態（並翻譯該動詞形式）：**
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)
@@ -282,7 +280,7 @@ Abb.: ⟪विश्वामित्रः⟫
 6. **nayanti** (⟪नयन्ति⟫)
 7. **smarati** (⟪स्मरति⟫)
 8. **śṛṇvanti** (⟪शृण्वन्ति⟫)
-9. **paśyati** (⟪पश्यति⟫) (Passiv wird von **dṛś** gebildet!)
+9. **paśyati** (⟪पश्यति⟫) （被動態由 **dṛś** 構成！）
 10. **jayanti** (⟪जयन्ति⟫)
 11. **kurvate** (⟪कुर्वते⟫)
 12. **āpnuvanti** (⟪आप्नुवन्ति⟫)
@@ -295,106 +293,104 @@ Abb.: ⟪विश्वामित्रः⟫
 19. **rakṣanti** (⟪रक्षन्ति⟫)
 20. **vadanti** (⟪वदन्ति⟫)
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
-22. **tanvanti** (⟪तन्वन्ति⟫) (2 Formen!)
+22. **tanvanti** (⟪तन्वन्ति⟫) （兩種形式！）
 
-**B) Bilden Sie den Instrumentalis Singular und Plural zu allen bisher gelernten Nomina.**
+**B) 為所有迄今學過的名詞構建工具格單數與複數。**
 
-**C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:**
-1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
-2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫)
-3. **śūdraṃ jayati.** (⟪शूद्रं⟫ ⟪जयति⟫)
-4. **guruḥ phalāni khādati.** (⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫)
+**C) 將以下句子改為被動語態並翻譯：**
+1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
+2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
+3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
+4. **guruḥ phalāni khādati.** (⟪गुरुः फलानि खादति⟫)
 5. **gurūñchṛṇoti.** (⟪गुरूञ्छृणोति⟫)
-6. **ko 'gniṃ paśyati.** (⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫)
-7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫)
-8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं⟫ ⟪देवी⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫) (2 Möglichkeiten)
-10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫) (2 Möglichkeiten)
-12. **ete gurūṃstu śṛṇvanti.** (⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫)
-13. **sādhuḥ svargamāpnoti.** (⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫)
-14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫)
+6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
+7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
+8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) （兩種可能）
+10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) （兩種可能）
+12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
+13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
+14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
 15. **paśūllabhate.** (⟪पशूल्लभते⟫)
-16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫)
+16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫)
 
-**D) Übersetzen Sie ins Sanskrit:**
-1. Ein Brahmane geht mit einem Vaiśya ins Dorf.
-2. Er verehrt Viṣṇu mit einem Opfer. (Opfer **yajña** ausdrücken!)
-3. Der Veda wird śruti genannt. (**vad**)
-4. Man spannt die Webkette auf. (2 Möglichkeiten)
+**D) 翻譯成梵文：**
+1. 一位婆羅門與一位吠舍前往村莊。
+2. 他以祭品崇拜毗濕奴。（需表達「祭品」**yajña**！）
+3. 《吠陀》被稱為śruti。（**vad**）
+4. 人們織上經線。（兩種可能）
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: ⟪तन्तुवायः⟫
-(Bildquelle: [Details](/licenses#lekt1004))
+圖：⟪तन्तुवायः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1004)）
 :::
-5. Lehrer fragen. (Passivkonstruktion)
-6. Das Auge führt. (Passivkonstruktion)
-7. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
-8. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
-9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden)
-10. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
+5. 老師提問。（被動結構）
+6. 眼睛引導。（被動結構）
+7. 詩人看見一位神祇。（被動結構）
+8. 誰（陰性）看護著女孩？（被動結構）
+9. 剎帝利以祭品崇拜主。（被動結構，不使用**yajña**一詞）
+10. 透過慷慨，一位佛陀的追隨者達到天界。
 
-## 10.7. 词汇表 2
 
-- **makṣikā** f. ⟪मक्षिका⟫ : Fliege, Biene
-- **vraṇa** m. ⟪व्रण⟫ : Wunde, Fehler, Schaden
-- **dhana** n. ⟪धन⟫ : Lohn, Geld, Reichtum, Besitz
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen
-- **pārthiva** m. ⟪पार्थिव⟫ : König
-- **nīca** 3 ⟪नीच⟫ : niedrig, tief
-- **kalaha** m. ⟪कलह⟫ : Streit, Zank
-- **śānti** f. ⟪शान्ति⟫ : Aufhören, Ruhe, Frieden
-- **śam** 4 P (śāmyati !) ⟪शम्⟫ ⟪शाम्यति⟫ : ruhig sein, ruhig werden
-- **nara** m. ⟪नर⟫ : Mann, Mensch
-- **lubh** 4 P (lubhyati) ⟪लुभ्⟫ ⟪लुभ्यति⟫ : begehren
-- **sūkta** 3 ⟪सूक्त⟫ : gut gesagt, schön gesprochen; n. Lied
-- **śiṣya** m. ⟪शिष्य⟫ : Schüler
-- **atra** ⟪अत्र⟫ : hier
-- **tatra** ⟪तत्र⟫ : dort
-- **bhānu** m. ⟪भानु⟫ : Glanz, Sonne
-- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : grüßen, ehren
-- **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : regnen
-- **nṛpa** m. ⟪नृप⟫ : König, Fürst
-- **kṣīra** n. ⟪क्षीर⟫ : Milch
-- **mārga** m. ⟪मार्ग⟫ : Weg
-- **evam** ⟪एवम्⟫ : so
-- **iha** ⟪इह⟫ : hier
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : schön sein, glänzen
 
-## 10.8. 阅读和翻译练习
+## 10.7. 詞彙表 2
 
-**Lesen und übersetzen Sie und setzen Sie ins Passiv:**
+**makṣikā** f. ⟪मक्षिका⟫ : 蒼蠅，蜜蜂
+**vraṇa** m. ⟪व्रण⟫ : 傷口，錯誤，損害
+**dhana** n. ⟪धन⟫ : 報酬，金錢，財富，財產
+**iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : 渴望
+**pārthiva** m. ⟪पार्थिव⟫ : 國王
+**nīca** 3 ⟪नीच⟫ : 低下的，深的
+**kalaha** m. ⟪कलह⟫ : 爭吵，糾紛
+**śānti** f. ⟪शान्ति⟫ : 停止，平靜，和平
+**śam** 4 P (śāmyati !) ⟪शम् शाम्यति⟫ : 平靜，變得平靜
+**nara** m. ⟪नर⟫ : 男人，人類
+**lubh** 4 P (lubhyati) ⟪लुभ् लुभ्यति⟫ : 貪婪
+**sūkta** 3 ⟪सूक्त⟫ : 說得好，講得美；n. 歌曲
+**śiṣya** m. ⟪शिष्य⟫ : 學生
+**atra** ⟪अत्र⟫ : 這裡
+**tatra** ⟪तत्र⟫ : 那裡
+**bhānu** m. ⟪भानु⟫ : 光輝，太陽
+**vand** 1 Ā (vandate) ⟪वन्द् वन्दते⟫ : 問候，尊敬
+**vṛṣ** 1 P (varṣati) ⟪वृष् वर्षति⟫ : 下雨
+**nṛpa** m. ⟪नृप⟫ : 國王，君主
+**kṣīra** n. ⟪क्षीर⟫ : 牛奶
+**mārga** m. ⟪मार्ग⟫ : 道路
+**evam** ⟪एवम्⟫ : 如此
+**iha** ⟪इह⟫ : 這裡
+**śubh** 1 Ā (śobhate) ⟪शुभ् शोभते⟫ : 美麗，閃耀
 
-⟪क⟫
 
-⟪१⟫.
+
+## 10.8. 閱讀與翻譯練習
+
+**請閱讀並翻譯，然後轉換為被動語態：**
+
+⟪क १⟫.
 ::: center
-⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
-⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
-⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
-⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
+⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
+⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ | |
-⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ | |
-⟪४⟫. ⟪ऋषयः⟫ ⟪सूक्तानि⟫ ⟪पश्यन्ति⟫ | |
+⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
+⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
+⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ | |
-⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ | |
-⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ | |
-⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ | |
-⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
-⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ | |
+⟪७⟫. ⟪स्वर्गं लभन्ते⟫ | |
+⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ | |
+⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ | |
+⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
 
-⟪ख⟫
-
-⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
-⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |
-⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ | |
-⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
-⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ | |
-⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ | |
-⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ | |
-⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ | |
-⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ | |
-⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छति⟫ | |
-⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
+⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ | |
+⟪२⟫. ⟪ऋषिभी रामो वसति⟫ | |
+⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ | |
+⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ | |
+⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ | |
+⟪६⟫. ⟪एवं वदन्ति⟫ | |
+⟪७⟫. ⟪शान्त्यर्षय इह शोभन्ते⟫ | |
+⟪८⟫. ⟪कपयः फलानि खादन्ति⟫ | |
+⟪९⟫. ⟪गजो गच्छति⟫ | |
+⟪१०⟫. ⟪हरिर्गृहं गच्छति⟫ | |
+⟪११⟫. ⟪सारथी रथं नयति⟫ ||

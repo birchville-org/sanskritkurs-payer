@@ -1,206 +1,211 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "第3課"
+subtitle: "陰性單數主格"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第3課
 
-## 3.1. 阴性主格单数
+## 3.1. 陰性單數主格
 
-### 3.1.1. 以 -s 结尾的主格单数
+### 3.1.1. 以-s結尾的陰性單數主格
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+以下列元音結尾的名詞詞幹，其單數主格亦以**-s**結尾：
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+**以-i結尾的陰性名詞**：例如 **śruti** f. 「聽聞」——單數主格：**śrutis** = ⟪श्रुतिस्⟫
+**以-u結尾的陰性名詞**：例如 **dhenu** f. 「母牛」——單數主格：**dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. 无词尾的单数主格
+### 3.1.2. 無詞尾的陰性單數主格
 
-Den Nominativ Singular bilden ohne Endung:
+以下列名詞構成無詞尾的單數主格：
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
+**以-ā結尾的陰性名詞**：例如 **devatā** f. 「神靈」——單數主格：**devatā** = ⟪देवता⟫
+**以-ī結尾的陰性名詞**：例如 **devī** f. 「女神」——單數主格：**devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**注意！** 此外，還存在以-ī結尾的單音節陰性根名詞，其單數主格以-s結尾：例如 dhī f. 「思想」——單數主格：dhīs = ⟪धीस्⟫。此外，lakṣmī (⟪लक्ष्मी⟫) f.、tarī (⟪तरी⟫) f. 「船」以及 tantrī (⟪तन्त्री⟫) f. 「弦」也均以不規則方式構成以-s結尾的單數主格：lakṣmīs = ⟪लक्ष्मीस्⟫。
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina
+## 3.2. 由陽性名詞構成陰性名詞
 
 ::: grammar-box
-**Maskulina auf -a:**
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
+**以-a結尾的陽性名詞：**
+**以-ā結尾的陰性名詞**：例如 **kṣatriya** m. » **kṣatriyā** f. 「剎帝利女」 = ⟪क्षत्रिया⟫
+**以-ī結尾的陰性名詞**：例如 **brāhmaṇa** m. » **brāhmaṇī** f. 「婆羅門女」 = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:**
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
+**以-u結尾的陽性名詞：**
+**以-ī結尾的陰性名詞**：例如 **sādhu** m. » **sādhvī** f. （善人、聖女）= ⟪साध्वी⟫
+（**-u-** 在元音前變為 **-v-**，因此 **-u- + -ī** » **-vī**）
 :::
 
-## 3.3. 主格复数阳性和阴性
+## 3.3. 陽性與陰性的複數主格
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+陽性與陰性的複數主格詞尾為**-as**。
+**以-a結尾的陽性名詞**：**deva- + -as** » **devās** = ⟪देवास्⟫
+**以-ā結尾的陰性名詞**：**devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**以-i結尾的陽性名詞**：**kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**以-i結尾的陰性名詞**：**śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**以-ī結尾的陰性名詞**：**devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**以-u結尾的陽性名詞**：**guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**以-u結尾的陰性名詞**：**dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
+註解：**e** 是 **i** 的高階（guṇa），**o** 是 **u** 的高階。
 
-## 3.4. Vokalsandhi
+
+## 3.4. 元音連聲
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
-- -a / -ā + a- / ā- » **-ā-**
-- -i / -ī + i- / ī- » **-ī-**
-- -u / -ū + u- / ū- » **-ū-**
-- (-ṛ + ṛ- » **-ṝ-**)
+**簡單元音，若僅在長度上不同或完全相同，會「融合」為相應的長元音：**
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B.
+例如
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā 「Annapūrṇā 是一位神祇」= ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+> （Annapūrṇā 是食物與烹飪的女神，她被視為 Śiva 之妻 Pārvatī 的化身。）
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
+devī + indrāṇī » devīndrāṇī 「Indrāṇī 是一位女神」= ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.)
+> （Indrāṇī 是神祇 Indra 的妻子。）
 
 ::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301))
+圖：Indra 與 Indrāṇī 騎在大象 Airavata 上，微型畫，拉賈斯坦邦，1670/80年
+（圖片來源：[詳情](/zh/licenses#lekt0301)）
 :::
 
 ::: grammar-box
-**Einfache Vokale (außer -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
-- -i / -ī » **-y-**
-- -u / -ū » **-v-**
-- -ṛ » **-r-**
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
+**簡單元音（除 -a / -ā 外）在遇到不同類型的元音前，會替換為相應的半元音：**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! 關於此規則，特別是雙數形式存在例外 !!)
 :::
-z.B.
+例如
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
+devī + umā » devy umā 「Umā 是一位／那位女神」= ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
+> （Umā 是 Pārvatī 的名字，Pārvatī 是 Śiva 的妻子）
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:**
-- -a / -ā + i- / ī- » **-e-**
-- -a / -ā + ṛ- » **-ar-**
-- -a / -ā + e- / ai- » **-ai-**
-- -a / -ā + o- / au- » **-au-**
+**-a / -ā 在遇到不同類型的元音前：**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema:
+因此，此連聲遵循以下模式：
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302))
+（圖片來源：[詳情](/zh/licenses#lekt0302)）
 :::
-Zu dieser sog. Stammabstufung siehe später!
+關於此所謂的血統階級，請見後文！
 
-z.B.
+例如：
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā 「Itarā 是一位首陀羅女子」= ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+
+## 3.5. -ās 的句法連聲
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās 在所有濁音之前均替換為 -ā。**
 :::
-z.B.
+例如：
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ 「吠舍是再生者」= ⟪द्विजा वैश्याः⟫
 
-## 3.6. 词汇表
 
-**Lernen Sie folgende Wörter:**
+## 3.6. 詞彙表
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**請學習以下單字：**
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der großen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die großen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**śruti** 陰性名詞 = ⟪श्रुति⟫ ：聽聞，永恆的傳承（指代《韋陀》與《梵書》）。
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
+**smṛti** 陰性名詞 = ⟪स्मृति⟫ ：再現，記憶，冥想中的再現＝正念，傳承（與 **śruti** 相對的概念）。包含：
+六種 **vedāṅga** 中性名詞 (⟪वेदाङ्ग⟫)
+1. **śikṣā** 陰性名詞 (⟪शिक्षा⟫)：正確的發音
+2. **chandas** 中性名詞 (⟪छन्दस्⟫)：格律
+3. **vyākaraṇa** 中性名詞 (⟪व्याकरण⟫)：文法
+4. **nirukta** 中性名詞 (⟪निरुक्त⟫) ：詞義解釋，語源學
+5. **jyotiṣa** 中性名詞 (⟪ज्योतिष⟫) ：天文學，曆法
+6. **kalpa** 陽性名詞 (⟪कल्प⟫) ：儀式
+**śrautasūtra** 中性名詞 (⟪श्रौतसूत्र⟫) ：關於大型祭祀執行的經典
+**gṛhyasūtra** 中性名詞 (⟪गृह्यसूत्र⟫) ：關於日常生活儀式與祭祀的經典
+**dharmasūtra** 中性名詞 (⟪धर्मसूत्र⟫) 與 **dharmaśāstra** 中性名詞 (⟪धर्मशास्त्र⟫) ：關於法律與習俗（正確行為）的經典
+兩大史詩 **mahābhārata** 中性名詞 (⟪महाभारत⟫) 與 **rāmāyaṇa** 中性名詞 (⟪रामायण⟫)
+**purāṇa** 中性名詞 (⟪पुराण⟫)
+**nītiśāstra** 中性名詞 (⟪नीतिशास्त्र⟫) ：處世智慧經典
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
+**smṛti** 也特別指稱法論。
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
+**dhenu** f. = ⟪धेनु⟫：（乳）母牛。
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**paśu** m. = ⟪पशु⟫：驯化的家畜、牲畜（集合名词）。
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
+**devatā** f. = ⟪देवता⟫：神祇（抽象与具体）。
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫：婆罗门女。
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫：女性刹帝利。
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫：刹帝利之妻。
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**vaiśyā** f. = ⟪वैश्या⟫：女性吠舍。
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫：女性首陀罗。
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫：首陀罗之妻。
+
+**devī** f. = ⟪देवी⟫：女神，特指难近母（Durgā）f. = ⟪दुर्गा⟫，即湿婆（Śiva）的配偶 = ⟪शिव⟫。
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+图：难近母（Durgā）= ⟪दुर्गा⟫，奥里萨邦
+（图片来源：[详情](/images/lekt0303)）
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+**sādhvī** f. = ⟪साध्वी⟫：sādhu 的阴性形式。
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
+**gurvī** f. = ⟪गुर्वी⟫：guru 的阴性形式。
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫：“我性”，即（错误的）信念：**我**是那个看等等的人。
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫：哲学（通过逻辑上正确的推理得出结论的科学）。
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
+**upekṣā** f. = ⟪उपेक्षा⟫：忽视、冷漠。
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
+**karuṇā** f. = ⟪करुणा⟫：慈悲、怜悯。
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
+**muditā** f. = ⟪मुदिता⟫：喜悦，特别是随喜（与嫉妒相对）。
+
 
 ## 3.7. 练习
 
-**A) Setzen Sie folgende Sätze in den Plural:**
+**A) 将下列句子转换为复数：**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
 4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
 9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:**
+**B) 透過填入名詞來構建名詞句：**
 
 1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
@@ -208,19 +213,19 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
 5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:**
+**C) 轉換為陰性形式：**
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:**
+**D) 翻譯成梵文：**
 
-1. Umā ist eine Göttin.
-2. Umā ist eine Göttin.
-3. Der Veda ist śruti.
-4. Die Lehrerinnen sind Göttinnen.
-5. Milchkühe sind domestizierte Tiere.
-6. Dichter sind Lehrer.
-7. Die heiligen Männer sind Śūdras.
+1. Umā是一位女神。
+《吠陀》是śruti（天啟）。
+女教師們是女神。
+母牛是被馴化的動物。
+詩人是教師。
+Kṣatriyas（剎帝利）是再生族。
+聖人們是Śūdras（首陀羅）。
 

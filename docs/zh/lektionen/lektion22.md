@@ -1,261 +1,244 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "第22課"
+subtitle: "絕對格（⟪क्त्वा । ल्यप्⟫）"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第22課
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. 絕對格（⟪क्त्वा । ल्यप्⟫）
 
 ::: grammar-box
 
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also
+若要在梵語中表達施事者（⟪कर्तृ⟫）的某個動作先於另一個施事者的動作，或與之作為伴隨狀況同時發生，則使用絕對格（⟪क्त्वा । ल्यप्⟫）。因此
 
-"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
+「在他做了那件事之後，他做了這件事」；「他做這事，然後做那事」；「由於這個原因，他做了那件事」；「我來，我看見，我勝利了」等。
 
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (⟪कर्तृ⟫) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (⟪प्रथमा⟫)  oder Instrumentalis (⟪तृतीया⟫).
+絕對格是一種動詞副詞，也就是說它既不能變位也不能變格，但它始終——除少數例外情況外——具有與絕對格所表示的動作先於或伴隨的主動詞相同的施事者（⟪कर्तृ⟫）。因此，絕對格的施事者處於主格（⟪प्रथमा⟫）或工具格（⟪तृतीया⟫）。
 
-Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
+除了複合詞之外，絕對格是梵語中最常見的表達方式之一。
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
+在翻譯成德語時，應避免不斷使用「在……之後」。請改用德語中常用的時間順序表達方式。
 
-**Schema:**
+**模式：**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+（對絕對格的進一步限定：狀語、賓語等）- 絕對格 - 絕對格 - ... - 絕對格 - ... 施事者 + 動詞句（主動或被動）
 
 :::
-**Beispiele:**
+**例子：**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passivkonstruktion: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = 被動結構：**⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**  
+「男子進入房屋，看見小女孩並與之交談。」
 
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+複數：**⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-## 22.2. Bildung des Absolutivums
+## 22.2. 絕對分詞的構成
 
 ::: grammar-box
-**Bildung des Absolutivums**
+**絕對分詞的構成**
 
-*   Verben ohne Präverb: Absolutiv auf **-tvā**
-*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
+*   無前綴動詞：以 **-tvā** 結尾的絕對分詞
+*   有前綴動詞：以 **-ya** 或 **-tya** 結尾的絕對分詞
 :::
-### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-
-::: grammar-box
-
-**Bildung:**
-
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
-
-Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "ohne getan zu haben"
-
-:::
-**Beispiele:**
-
-::: indent
-**⟪आप्त्वा⟫** "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
-
-**⟪आसित्वा⟫** "nachdem er (...) gesessen war / ist"
-
-**⟪इत्वा⟫** "nachdem er (...) gegangen war / ist"
-
-**⟪स्थित्वा⟫** "nachdem er (...) gestanden war / ist"
-
-**⟪जित्वा⟫** "nachdem er (...) gesiegt hat / hatte"
-
-**⟪उक्त्वा⟫** "nachdem er (...) gesprochen hat / hatte"
-:::
-### 22.2.2. Verben mit Präverb
-
-#### 22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
+### 22.2.1. 無前綴動詞：以 -⟪त्वा⟫ 結尾的絕對分詞
 
 ::: grammar-box
 
-**(meist) tiefstufige Wurzel + -ya**
+**構成方式：**
+
+（通常為）弱級根詞，採用其在過去被動分詞（PPP）之前的形式 + **-tvā** （**-⟪त्वा⟫**）
+
+僅否定前綴 **a-** / **an-** 可與後綴 **-⟪त्वा⟫** 結合： ⟪अकृत्वा⟫ 「未曾做……之後」
 
 :::
-**Beispiele:**
+**範例：**
 
 ::: indent
-**⟪उपनीय⟫** "nachdem er (...) herangeführt hat / hatte"
+⟪आप्त्वा⟫ 「在……之後（他/她/它/我/你/我們/你們/他們/我們雙數/你們雙數/他們雙數）已達到 / 曾達到」
 
-**⟪प्रभूय⟫** "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
+⟪आसित्वा⟫ 「在……之後（他）已坐 / 曾坐」
 
-**⟪प्राप्य⟫** "nachdem er (...) erlangt hat / hatte"
+⟪इत्वा⟫ 「在……之後（他）已走 / 曾走」
+
+⟪स्थित्वा⟫ 「在……之後（他）已站 / 曾站」
+
+⟪जित्वा⟫ 「在……之後（他）已勝利 / 曾勝利」
+
+⟪उक्त्वा⟫ 「在……之後（他）已說 / 曾說」
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+### 22.2.2. 有前綴動詞
+
+#### 22.2.2.1. 以長元音（除 -ā 外）或輔音結尾的根詞
 
 ::: grammar-box
 
-**unverändert hochstufige Wurzel + -ya**
+**（通常為）弱級根詞 + -ya**
 
 :::
-**Beispiel:**
+**範例：**
 
 ::: indent
-**⟪उपस्थाय⟫** "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: **⟪स्थित्वा⟫**)
+⟪उपनीय⟫ 「在……之後（他）已帶來 / 曾帶來」
+
+⟪प्रभूय⟫ 「在……之後（他）已突出 / 曾突出」；「在……之後（他）擁有權力 / 曾擁有權力」
+
+⟪प्राप्य⟫ 「在……之後（他）已獲得 / 曾獲得」
 :::
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
+#### 22.2.2.2. 以 -ā 結尾的根詞
 
 ::: grammar-box
 
-**tiefstufige Wurzel + -tya**
+**保持不變的全級根詞 + -ya**
 
 :::
-**Beispiele:**
+**範例：**
 
 ::: indent
-**⟪प्रस्तुत्य⟫** "nachdem er (...) laut gepriesen hat / hatte"
-
-**⟪विस्मृत्य⟫** "nachdem er (...) vergessen hat / hatte"
-
-**⟪संस्कृत्य⟫** "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+⟪उपस्थाय⟫ 「在……之後（他）已踏入 / 曾踏入」；（但無前綴時： ⟪स्थित्वा⟫）
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.3. 在弱級中以短元音 -i、-u、-ṛ 結尾的根詞
 
 ::: grammar-box
 
-**Optionell:**
-
-Wurzel auf **-am** / **-an** + **-ya**
-
-oder:
-
-Wurzel auf **-a** + **-tya**
+**低階詞根 + -tya**
 
 :::
-**Beispiel:**
+**範例：**
 
 ::: indent
-**⟪विगम्य⟫** oder **⟪विगत्य⟫** "nachdem er (...) vergangen ist / war"
+⟪प्रस्तुत्य⟫ 「在他（……）被大力讚頌之後／曾」
+
+⟪विस्मृत्य⟫ 「在他（……）被遺忘之後／曾」
+
+⟪संस्कृत्य⟫ 「在他（……）為祭典準備好之後／曾」
 :::
-## 22.3. 词汇表
+#### 22.2.2.4. 以-am / -an結尾，且在低階形式中以-a結尾的詞根
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+::: grammar-box
+
+**可選：**
+
+以**-am** / **-an**結尾的詞根 + **-ya**
+
+或：
+
+以**-a**結尾的詞根 + **-tya**
+
+:::
+**範例：**
 
 ::: indent
-**⟪कामम्⟫** Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪विगम्य⟫ 或 ⟪विगत्य⟫ 「在他（……）過去／曾」
+:::
+## 22.3. 詞彙表
+
+**⟪काम⟫ 陽性名詞：** 願望，慾望；所求之賜物，感官享樂，愛欲，愛神
+
+::: indent
+⟪कामम्⟫ 賓格副詞用法：隨心所欲，盡情地
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+圖：⟪कामदेवः⟫
+19世紀
+（圖片來源：[詳情](/zh/licenses#lekt2202)）
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 第五變位法  ⟪शक्नोति⟩⟫ 被動語態  ⟪शक्यते⟫ 過去被動分詞  ⟪शक्त⟫ 不定式  ⟪शक्तुम्⟫ ：有能力，能夠
 
-davon:
+由此衍生：
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von **⟪शिव⟫**
+**⟪शक्ति⟫ 陰性名詞：** 能力，力量，技能；亦指：神力，人格化為女性伴侶，特別是⟪शिव⟫的伴侶
 
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von **⟪इन्द्र⟫**)
+**⟪शक्र⟫ 陽性名詞：** 強有力者（⟪इन्द्र⟫的別名）
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+圖：⟪दुर्गाशक्तिः⟫
+加爾各答 = কলকাতা
+（圖片來源：[詳情](/zh/licenses#lekt2203)）
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird **⟪अर्ह्⟫** + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 第一變位法  ⟪अर्हति⟫ 被動語態  ⟪अर्ह्यते⟫ 過去被動分詞  ⟪अर्हित⟫ 不定式  ⟪अर्हितुम्⟫ ：值得（配得上某事），有資格，應負責任於，應該（在第二人稱中，⟪अर्ह्⟫ + 不定式常用作委婉命令：「你應該」）**
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: 一位值得尊敬的人。在佛教和耆那教中：指已達到最終解脫之人
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (**⟪देवदासी⟫**) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige **⟪व्रत⟫** heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den **⟪व्रत⟫**: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von **⟪व्रत⟫** und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** 誓願、宗教義務、宗教實踐（向神明許下承諾以換取恩惠。例如：一位母親承諾若女兒康復，便將女兒獻為寺廟妓女（⟪देवदासी⟫）。重要的 ⟪व्रत⟫ 包括：禁食；戒除喜愛的食物；性節制；誦讀聖典；執行特定儀式；供養婆羅門等。關於 ⟪व्रत⟫ 的簡要說明：Walker, 《印度教世界》第二卷，第581-582頁。詳細說明：P. V. Kane: 《達摩論史》第五卷第一分冊，第1-462頁。該書第253-462頁列出了 ⟪व्रत⟫ 和宗教節日清單（「以下清單……聲稱並非完全詳盡」！！！）
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** 放牧、遊歷、活動、移動、行動、實踐、執行（例如 **⟪व्रतं चर्⟫**: 實踐誓願，特別是性節制）
 
-davon:
+由此衍生：
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** 可移動的；n.: 可動物 = 動物（與植物相對）
 
-**⟪चरण⟫ n., m.:** Fuß
+**⟪चरण⟫ n., m.:** 腳
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ n.:** 生活方式、生活行為
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (**⟪ब्रह्मन्⟫**) = Studium des Veda im ersten Lebensstadium (dem des **⟪ब्रह्मचारिन्⟫**), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ n.:** 吠陀實踐（⟪ब्रह्मन्⟫）= 在人生第一個階段（即 ⟪ब्रह्मचारिन्⟫ 階段）學習吠陀，此階段要求嚴格的性節制；因此也指：性節制、獨身生活方式
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
-Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+圖：⟪धेनवश्चरन्ति⟫
+果阿 = ⟪गोंय⟫
+（圖片來源：[詳情](/zh/licenses#lekt2201)）
 :::
-## 22.4. 练习
+## 第22.4課 練習
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
+**A) 為以下動詞構建並翻譯絕對分詞：**
 
-1.  ⟪आप्⟫
-2.  ⟪प्राप्⟫
-3.  ⟪समास्⟫
-4.  ⟪आस्⟫
-5.  ⟪समि⟫
-6.  ⟪संस्कृ⟫
-7.  ⟪कृ⟫
-8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 Formen)
-10.  ⟪जि⟫
-11.  ⟪विजि⟫
-12.  ⟪तन्⟫
-13.  ⟪दह्⟫
-14.  ⟪उपदिश्⟫
-15.  ⟪नी⟫
-16.  ⟪पच्⟫
-17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
-19.  ⟪प्रच्छ्⟫
-20.  ⟪बुध्⟫
-21.  ⟪सम्बुध्⟫
-22.  ⟪भज्⟫
-23.  ⟪भू⟫
-24.  ⟪प्रभू⟫
-25.  ⟪मन्⟫
-26.  ⟪मुच्⟫
-27.  ⟪विमुच्⟫
-28.  ⟪मृ⟫
-29.  ⟪यज्⟫
-30.  ⟪लभ्⟫
-31.  ⟪उपलभ्⟫
-32.  ⟪वच्⟫
-33.  ⟪प्रवच्⟫
-34.  ⟪वद्⟫
-35.  ⟪प्रवद्⟫
-36.  ⟪हन्⟫
+1. ⟪आप्⟫
+2. ⟪प्राप्⟫
+3. ⟪समास्⟫
+4. ⟪आस्⟫
+5. ⟪समि⟫
+6. ⟪संस्कृ⟫
+7. ⟪कृ⟫
+8. ⟪गम्⟫
+9. ⟪उपगम्⟫ （兩種形式）
+10. ⟪जि⟫
+11. ⟪विजि⟫
+12. ⟪तन्⟫
+13. ⟪दह्⟫
+14. ⟪उपदिश्⟫
+15. ⟪नी⟫
+16. ⟪पच्⟫
+17. ⟪उपपद्⟫
+18. ⟪पा १⟫
+19. ⟪प्रच्छ्⟫
+20. ⟪बुध्⟫
+21. ⟪सम्बुध्⟫
+22. ⟪भज्⟫
+23. ⟪भू⟫
+24. ⟪प्रभू⟫
+25. ⟪मन्⟫
+26. ⟪मुच्⟫
+27. ⟪विमुच्⟫
+28. ⟪मृ⟫
+29. ⟪यज्⟫
+30. ⟪लभ्⟫
+31. ⟪उपलभ्⟫
+32. ⟪वच्⟫
+33. ⟪प्रवच्⟫
+34. ⟪वद्⟫
+35. ⟪प्रवद्⟫
+36. ⟪हन्⟫
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
+**B) 翻譯以下句子並解析梵文複合詞：**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen**
+**C) 將上述句子（除第8和第10句外）改為被動結構**
 
 ::: media
 ![](/images/lekt2204.webp)
-Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Bildquelle: [Details](/licenses#lekt2204))
+圖：⟪अन्नं पक्त्वा⟫
+（圖片來源：[詳情](/zh/licenses#lekt2204)）
 :::
 

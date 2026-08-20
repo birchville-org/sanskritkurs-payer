@@ -1,149 +1,146 @@
-
 ---
-title: "Übung 18"
+title: "練習十八"
 uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習18
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+A) 翻譯位於本課開頭的⟪सुभाषित⟫。
 
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫  
-Es gibt keine Krankheit wie die Liebe,  
-Es gibt keinen Betrüger und Feind wie die Verblendung,  
-Es gibt kein Feuer wie den Zorn,  
-Es gibt kein Glück wie die Erkenntnis.
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫  
+沒有疾病能像愛情，
+沒有欺詐者與敵人能像無明，
+沒有火焰能像憤怒，
+沒有幸福能像智慧。
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+B) 翻譯以下Tatpuruṣa（持業釋）：
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
+⟪१⟫. ⟪सुकर ३⟫ — 易於執行
 
-⟪२⟫. ⟪सुकुल⟫ n. — gute Familie
+⟪२⟫. ⟪सुकुल⟫ n. — 良好的家庭
 
-⟪३⟫. ⟪सुकृति⟫ f. — gute Tat
+⟪३⟫. ⟪सुकृति⟫ f. — 良好的行為
 
-⟪४⟫. ⟪अकरण⟫ n. — Nichttun
+⟪४⟫. ⟪अकरण⟫ n. — 不作為
 
-⟪५⟫. ⟪दुरिष्ट⟫ n. — böser Wunsch
+⟪५⟫. ⟪दुरिष्ट⟫ n. — 惡意
 
-⟪६⟫. ⟪दुरिष्टि⟫ f. — fehlerhaftes Opfer
+⟪६⟫. ⟪दुरिष्टि⟫ f. — 有缺陷的祭祀
 
-⟪७⟫. ⟪सुखादित⟫ 3 — gut gekaut
+⟪७⟫. ⟪सुखादित⟫ 3 — 咀嚼良好
 
-⟪८⟫. ⟪दुष्कर⟫ 3 — schwer zu tun
+⟪८⟫. ⟪दुष्कर⟫ 3 — 難以執行
 
-⟪९⟫. ⟪दुर्जय⟫ 3 — schwer zu besiegen
+⟪९⟫. ⟪दुर्जय⟫ 3 — 難以戰勝
 
-⟪१०⟫. ⟪सुगत⟫ m. — gut (durch die Wiedergeburten) Gegangener (= Buddha)
+⟪१०⟫. ⟪सुगत⟫ m. — 善逝（=佛陀）
 
-⟪११⟫. ⟪सुजन⟫ m. — guter Mensch
+⟪११⟫. ⟪सुजन⟫ m. — 好人
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f. — harte Rede
+⟪१२⟫. ⟪दुरुक्ति⟫ f. — 嚴厲的言語
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m. — schlechte Anweisung
+⟪१३⟫. ⟪दुरुपदेश⟫ m. — 惡劣的指導
 
-⟪१४⟫. ⟪सुजात⟫ 3 — wohlgeboren
+⟪१४⟫. ⟪सुजात⟫ 3 — 出身良好
 
-⟪१५⟫. ⟪सु⟫guru 3 — sehr schwer
+⟪१५⟫. ⟪सु⟫guru 3 — 極其困難
 
-⟪१६⟫. ⟪अनाप्त⟫ 3 — ungeeignet
+⟪१६⟫. ⟪अनाप्त⟫ 3 — 不適合
 
-⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
+⟪१७⟫. ⟪अनीति⟫ f. — 不當的行為
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — 非主宰
 
-⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
+⟪१९⟫. ⟪सुदुःख⟫ n. — 巨大的痛苦
 
-⟪२०⟫. ⟪दुर्जन⟫ m. — böser Mensch
+⟪२०⟫. ⟪दुर्जन⟫ m. — 惡人
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — schlecht verbrannt
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — 燃燒不良
 
-⟪२२⟫. ⟪अतिकृत⟫ 3 — übertrieben
+⟪२२⟫. ⟪अतिकृत⟫ 3 — 過度
 
-⟪२३⟫. ⟪सुपुत्र⟫ m. — guter Sohn
+⟪२३⟫. ⟪सुपुत्र⟫ m. — 好兒子
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f. — gute Einsicht
+⟪२४⟫. ⟪सुबुद्धि⟫ f. — 良好的洞察力
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m. — schlechter Sohn
+⟪२५⟫. ⟪दुष्पुत्र⟫ m. — 壞兒子
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — schlecht ausgeführt
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — 執行不良
 
-⟪२७⟫. ⟪सुमति⟫ f. — Freundlichkeit
+⟪२७⟫. ⟪सुमति⟫ f. — 友善
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3 — schwer zu bekommen
+⟪२८⟫. ⟪दुर्लभ⟫ 3 — 難以獲得
 
-⟪२९⟫. ⟪दुर्वच⟫ 3 — schwer zu sagen
+⟪२९⟫. ⟪दुर्वच⟫ 3 — 難以言說
 
-⟪३०⟫. ⟪दुर्वचन⟫ n. — schlechte Rede
+⟪३०⟫. ⟪दुर्वचन⟫ n. — 惡言
 
-⟪३१⟫. ⟪अमृत⟫ n. — Unsterblichkeit, Unsterblichkeitsspeise, Unsterblichkeitstrank
+⟪३१⟫。⟪अमृत⟫ n. — 不朽，不死之食，不死之飲
 
 ::: media
 ![](/images/uebung027.jpg)
-Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
-(Bildquelle: [Details](/licenses#uebung027))
+圖：⟪नास्ति कामसमो व्याधिः⟫
+（圖片來源：[詳情](/licenses#uebung027)）
 :::
 ---
 
-## Zusätzliche Übungen
+## 額外練習
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) 請將以下梵文複合詞拆解，並提供翻譯建議：
 
-⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — zu Ende gegangen, Grammatik: auslautend
+⟪१⟫。⟪अन्तगत ३ । अन्तं गतः ।⟫ — 已結束，語法：詞尾形式
 
-⟪२⟫. ⟪क्षमाकर⟫ ⟪३।⟫ ⟪क्षमा⟫-⟪करः⟫ ⟪।⟫ — jemand der geduldig ist, geduldiges Tun
+⟪२⟫。⟪क्षमाकर ३। क्षमा⟫-⟪करः ।⟫ — 有耐心的人，耐心的行為
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪।⟫ ⟪क्षेमस्येन्द्रः⟫ ⟪।⟫ — Herr der Ruhe / des Wohlergehens / Friedens
+⟪३⟫。⟪क्षेमेन्द्र⟫ m.⟪। क्षेमस्येन्द्रः ।⟫ — 平靜／福祉／和平之主
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — Stoppen des Zorns mit dem Schwert = Stoppen des Kampfes
+⟪४⟫。⟪शस्त्रकोपनिरोध⟫ m. ⟪। शस्त्राणां कोपस्य निरोधः ।⟫ — 以劍止怒 = 停止戰鬥
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — Töten eines / mehrerer Löwen, Töten durch einen / mehrere Löwen
+⟪५⟫。⟪सिंहसंहनन⟫ n.⟪। सिंहस्य संहननम् ।⟫ — 殺死一頭／多頭獅子，被一頭／多头獅子的殺害
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
+⟪६⟫。⟪अरिसिंह⟫ m. ⟪। सिंह इव अरिः ।⟫ — 如獅之敵
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — Essen, Schlafen und Furcht
+⟪७⟫。⟪आहारनिद्राभय⟫ n. ⟪। आहारो निद्रा भयं च ।⟫ — 食、睡與恐懼
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪।⟫ ⟪मृतेः⟫ ⟪साधनी⟫ ⟪।⟫ — Tod bewirkende
+⟪८⟫。⟪मृतिसाधनी⟫ f. ⟪। मृतेः साधनी ।⟫ — 致死者
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — Familienname (Hinweis auf die Familie)
+⟪९⟫。⟪कुलोपदेश⟫ m. ⟪। कुलस्योपदेशः ।⟫ — 姓氏（暗示家族）
 
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) 使用第二現在時類的動詞進行翻譯：
 
-1\. Der Brahmane preist die Göttinnen.
-⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (oder: ⟪स्तवीति⟫ ⟪।⟫)
+1\. 婆羅門讚頌女神們。
+⟪ब्राह्मणो देवीः स्तौति ।⟫（或：⟪स्तवीति ।⟫）
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
-⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
+2\. 英雄們走在難以通行的道路上，前往雅利安人的村莊。
+⟪शूरा दुर्गमेण मार्गेणार्यग्रामं यन्ति ।⟫
 
-3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
+3\. 女僕擠牛奶。
+⟪गृहदासी धेनूर्दोग्धि ।⟫
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (oder: ⟪आर्यशत्रवो⟫...)
+4\. 雅利安人的敵人擊殺強大的剎帝利。
+⟪आर्यारयो बलवत्क्षत्रियान्घन्ति ।⟫（或：⟪आर्यशत्रवो⟫...）
 
-5\. Ein Gespenst isst keine Früchte.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+5\. 鬼魂不吃水果。
+⟪भूतं फलानि नात्ति ।⟫
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (oder: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+6\. 這就是那位已善走輪迴之路者對弟子所說的話。
+⟪एवं सुगतः श्रावकं वक्ति ।⟫（或：⟪ब्रवीति । ब्रूते ।⟫）
 
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) 請用兩種方式以梵文給出瑜伽的定義：一種使用複合詞，另一種將該複合詞拆解。
 
-⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
+⟪योगश्चित्तवृत्तिनिरोधः ।⟫（⟪योगश्चित्तस्य वृत्तेर्निरोधः ।⟫）
 
-D) Übersetzen Sie:
+D) 請翻譯：
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
+（⟪धर्मः⟫）⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
+眾生的義務是：非暴力、誠實、清淨、不抱怨自己的命運、無惡意以及耐心的寬容。
 
 ::: media
 ![](/images/uebung028.webp)
-Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#uebung028))
+圖：⟪दुर्गमो मार्गः⟫
+（圖片來源：[詳情](/licenses#uebung028)）
 :::

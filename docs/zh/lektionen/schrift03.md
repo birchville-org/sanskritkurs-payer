@@ -1,18 +1,17 @@
+# 天城文 = ⟪देवनागरी⟫
 
-# Devanāgarī = ⟪देवनागरी⟫
-
-## Schriftübung 3
+## 書寫練習 3
 
 ![](/images/schrift005.webp)
 
-## Übung
+## 練習
 
-A) Schreiben Sie in Devanāgarī:
+A) 以天城文書寫：
 
 śivaḥ vedaḥ kaviḥ guruḥ paśuḥ devatā devī kalaśa vayaḥ yaśo śaraṭa paraśa śataśaḥ daśaśata diva kṛś yātu kaikeyī coro śṛta rūpaka roga yoga yuj yadā rāja rujati rocate lulopa loḍayitṛ
 
-B) Lesen und transliterieren Sie:
+B) 閱讀並轉寫：
 
-⟪देवः⟫ ⟪शिवः⟫ | ⟪गुरुः⟫ ⟪कविः⟫ | ⟪देवी⟫ | ⟪वेद⟫ | ⟪लोको⟫ | ⟪शृत⟫ | ⟪रजः⟫ | ⟪योगी⟫ | ⟪वदति⟫ | ⟪वलो⟫ | ⟪लोचयति⟫ | ⟪लोकपालाः⟫ | ⟪युगल⟫ | ⟪यावत्⟫ | ⟪शरः⟫ | ⟪शशी⟫ ||
+⟪देवः शिवः⟫ | ⟪गुरुः कविः⟫ | ⟪देवी⟫ | ⟪वेद⟫ | ⟪लोको⟫ | ⟪शृत⟫ | ⟪रजः⟫ | ⟪योगी⟫ | ⟪वदति⟫ | ⟪वलो⟫ | ⟪लोचयति⟫ | ⟪लोकपालाः⟫ | ⟪युगल⟫ | ⟪यावत्⟫ | ⟪शरः⟫ | ⟪शशी⟫ ||
 
 

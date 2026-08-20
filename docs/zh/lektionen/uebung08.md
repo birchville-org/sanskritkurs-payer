@@ -1,215 +1,215 @@
-
 ---
-title: "Übung 8"
+title: "練習8"
 uebung_id: 8
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習8
 
-A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:
+A) 請透過指出所衍生的詞根（Wurzel）與名詞後綴，解釋以下名詞。請標明性別（Geschlecht）與意義：
 
-1\. lobha: lubh 4 P "begehren" + -a m.: "Begierde"
+1\. lobha: lubh 4 P "渴望" + -a m.: "慾望、貪婪"
 
-2\. rakṣa: rakṣ 1 P "hüten" + -a 3: "hütend, beschützend" ; m.: "Wächter"
+2\. rakṣa: rakṣ 1 P "守護" + -a 3: "守護、保護的"; m.: "守衛者"
 
-3\. śrotra: śru 5 P "hören" + -tra n.: "Ohr"
+3\. śrotra: śru 5 P "聽" + -tra n.: "耳朵"
 
-4\. mati: man 4 Ā "denken" + -ti f.: "Gedanke, Meinung"
+4\. mati: man 4 Ā "思考" + -ti f.: "思想、意見"
 
-5\. savana: su 5 U "auspressen" + -ana n.: "Somapressung"
+5\. savana: su 5 U "榨取、擠出" + -ana n.: "蘇摩榨汁（儀式）"
 
-6\. yodha: yudh 4 Ā "kämpfen" + -a m.: "Kämpfer, Soldat"
+6\. yodha: yudh 4 Ā "戰鬥" + -a m.: "戰士、士兵"
 
-7\. lābha: labh 1 Ā "erhalten" + -a m.: "Bekommen, Gewinn"
+7\. lābha: labh 1 Ā "獲得" + -a m.: "獲得、利益、利潤"
 
-8\. kāraṇa: kṛ 8 U "machen, tun" + -ana n.: "Ursache, Grund"
+8\. kāraṇa: kṛ 8 U "做、執行" + -ana n.: "原因、理由"
 
-9\. gati: gam 1 P "gehen" + -ti f.: "Gang, 'Laufbahn', Ziel"
+9\. gati: gam 1 P "走" + -ti f.: "行走、'軌跡/生涯'、目標"
 
-10\. khādana: khād 1 P "kauen" + -ana n.: "Kauen, Verzehr, Futter"
+10\. khādana: khād 1 P "咀嚼" + -ana n.: "咀嚼、消耗、飼料"
 
-11\. smara: smṛ 1 P "vergegenwärtigen" + -a m.: "Erinnerung, Gedächtnis, Sehnsucht, Liebe"
+11\. smara: smṛ 1 P "回想、使顯現" + -a m.: "記憶、智力、渴望、愛"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "Emanation, Schöpfung"
+12\. sṛṣṭi: sṛj 6 P / 4 A "使流出、創造" + -ti: "流溢、創造"
 
-13\. tantra: tan 8 U "aufspannen" + -tra n.: "Webkette, Gewebe"
+13\. tantra: tan 8 U "張開、伸展" + -tra n.: "經線（織布）、織物"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter"
+14\. bhāva: bhū 1 P "成為、存在" + -a m.: "生成、本性、性格/特質"
 
-15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System"
+15\. darśana: dṛś (4 P: paśyati) "看" + -ana n-: "看見、現象、觀點、哲學體系"
 
-16\. netra: nī 1 U "führen" + -tra n.: "Auge"
+16\. netra: nī 1 U "引導、帶領" + -tra n.: "眼睛"
 
-17\. veśana: viś 6 P "eintreten" + -ana n.: "Eintritt"
+17\. veśana: viś 6 P "進入" + -ana n.: "進入、入口"
 
-18\. kopa: kup 4 P "zürnen" + -a m.: "Zorn"
+18\. kopa: kup 4 P "憤怒、生氣" + -a m.: "怒氣"
 
-19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "Loslassen, Emanation, Schöpfung"
+19\. sarga: ṛj 6 P / 4 A "使流出、創造" + -a m.: "釋放、流溢、創造"
 
-20\. yajana: yaj 1 U "opfern" + -ana n.: "Opfern, Opferplatz"
+20\. yajana: yaj 1 U "祭祀、供養" + -ana n.: "祭祀、祭壇/獻祭場所"
 
-21\. moha: muḥ 4 P "verwirrt sein" + -a m.: "Verwirrtsein, Verblendung, Irrtum"
+21\. moha：muḥ 4 P「感到困惑」+ -a m.：「困惑、迷惑、錯誤」
 
-22\. śrava: śru 5 P "hören" + -a m.: "Hören"
+22\. śrava：śru 5 P「聽」+ -a m.：「聽聞」
 
-23\. bhavana: bhū 1 P "werden, sein" + -ana n.: "Werden, Entstehen, Entstehung"
+23\. bhavana：bhū 1 P「成為、存在」+ -ana n.：「生成、產生、起源」
 
-24\. nīti: nī 1 U "führen" + -ti f.: "Führung"
+24\. nīti：nī 1 U「引導」+ -ti f.：「領導、指導」
 
-25\. nartana: nṛt 4 P "tanzen" + -ana 3: "tanzend, Tänzer" ; n.: "Tanz"
+25\. nartana：nṛt 4 P「跳舞」+ -ana 3：「跳舞的、舞者」；n.：「舞蹈」
 
-26\. jaya: ji 1 P "siegen" + -a m.: "Siegen, Sieg"
+26\. jaya：ji 1 P「勝利」+ -a m.：「勝利、勝仗」
 
-27\. nayana: nī 1 U "führen" + -ana n.: "Auge"
+27\. nayana：nī 1 U「引導」+ -ana n.：「眼睛」
 
-28\. śravaṇa: śru 5 P "hören" + -ana n.: "Ohr"
+28\. śravaṇa：śru 5 P「聽」+ -ana n.：「耳朵」
 
-B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich)
+B) 為所有迄今學過的名詞構建抽象名詞，並思考其含義（口頭）
 
-C) Setzen Sie als direktes Objekt im Singular und Plural ein:
+C) 以單數和複數形式填入直接受詞：
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
+⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+D) 翻譯以下內容
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Kṣatriyas 保護婆羅門、吠舍和首陀羅。（兩種方式）
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
+⟪क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।⟫
 
-2\. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
+2\. 聖人既能見天界，亦能見地獄。
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪साधुः स्वर्गांश्च नरकांश्च पश्यति ।⟫
 
-3\. Er besiegt Kṣatriyas.
+3\. 他擊敗剎帝利。
 
 kṣatriyāñ jayati.
 
-⟪क्षत्रियञ्जयति⟫ ⟪।⟫
+⟪क्षत्रियञ्जयति ।⟫
 
-4\. Sie spannt die Webkette auf.
+4\. 她織上經線。
 
 tantraṃ tanoti.
 
-⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
+⟪तन्त्रं तनोति ।⟫
 
-5\. Soldaten kämpfen.
+5\. 士兵們戰鬥。
 
 yodhā yudhyante.
 
-⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪योधा युध्यन्ते ।⟫
 
-6\. Der Brahmane macht ein Feuer.
+6\. 婆羅門生火。
 
 brāhmaṇo 'gniṃ karoti.
 
-⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
+⟪ब्राह्मणो ऽग्निं करोति ।⟫
 
-7\. Brahmanen machen Feuer.
+7\. 婆羅門們生火。
 
 brāhmaṇā agniṃ kurvanti.
 
-⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा अग्निं कुर्वन्ति ।⟫
 
-8\. Was tun diese Kämpfer?
+8\. 這些戰士在做什麼？
 
 ime yodhāḥ kiṃ kurvanti?
 
-⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪इमे योधाः किं कुर्वन्ति ।⟫
 
-9\. Wen sieht das Auge?
+9\. 眼睛看見什麼？
 
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं पश्यति ।⟫
 
-10\. Was begehren Götter?
+10\. 諸神渴望什麼？
 
 devāḥ kiṃ lubhyanti?
 
-⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪देवाः किं लुभ्यन्ति ।⟫
 
-11\. Was ist der Grund?
+11\. 原因是什麼？
 
 kiṃ kāraṇam?
 
-⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
+⟪किं कारणम् ॥⟫
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+圖：⟪इमे योधाः किं कुर्वन्ति ।⟫
+（圖片來源：[詳情](/licenses#uebung007)）
 :::
 ---
 
-## Leseübung
+## 閱讀練習
 
-1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-Der Śūdra führt den Knaben.
+1\. ⟪शूद्रो बालं नयति⟫ |
+首陀羅引導男孩。
 
-2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-Der Dichter opfert dem Gott.
+2\. ⟪कविर्देवं यजते⟫ |
+詩人向神獻祭。
 
-3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Der Heilige isst Früchte.
+3\. ⟪साधुः फलानि खादति⟫ |
+聖人吃水果。
 
-4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-Der Meister besiegt seinen Zorn.
+4\. ⟪गुरुः क्रोधं जयति⟫ |
+大師戰勝他的憤怒。
 
-5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Der Gott erschafft die Hölle.
+5\. ⟪देवो नरकं सृजति⟫ |
+神創造地獄。
 
-6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Die Kuh betritt das Dorf.
+6\. ⟪धेनुर्ग्रामं विशति⟫ |
+牛進入村莊。
 
-7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-Leidenschaft, Zorn und Gier führen zur Hölle.
+7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+慾望、憤怒和貪婪導致地獄。
 
-8\. ⟪देवतां⟫ ⟪यजति⟫ |
-Er opfert für einen Opferherren der Gottheit.
+8\. ⟪देवतां यजति⟫ |
+他為神的主祭者獻祭。
 
-9\. ⟪बाला⟫ ⟪भवति⟫ |
-Ein Mädchen entsteht.
+9\. ⟪बाला भवति⟫ |
+一名女孩產生了。
 
-10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-Ein Wagenlenker lenkt den Wagen.
+10\. ⟪सारथी रथं नयति⟫ |
+一名車夫駕馭著車輛。
 
-11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-Die Affen fressen die Früchte.
+11\. ⟪कपयः फलानि खादन्ति⟫ |
+猴子們啃食著果實。
 
-12\. ⟪बाला⟫ ⟪लिखति⟫ |
-Das Mädchen scheibt bzw. zeichnet.
+12\. ⟪बाला लिखति⟫ |
+女孩正在書寫或繪畫。
 
-13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-Die Jungfrau betritt das Haus.
+13\. ⟪कुमारी गृहं विशति⟫ |
+少女走進了房屋。
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+14\. ⟪देवो नागं सृजति⟫ |
+神創造了大象、蛇或那伽（Nāga）。
 
-15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-Der Knabe führt den Elefanten.
+15\. ⟪बालो गजं नयति⟫ |
+男孩牽引著大象。
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-Vimalā ist traurig.
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ 人名 Vimalā)
+Vimalā 感到悲傷。
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
-Der Papagei fliegt.
+17\. ⟪शुकः पतति⟫ |
+鸚鵡飛翔。
 
-18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
-Der Knabe schreibt einen Brief.
+18\. ⟪बालः पत्रिकां लिखति⟫ |
+男孩寫了一封信。
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
-(Bildquelle: [Details](/licenses#uebung008))
+圖：⟪कपिः फलं खदति⟫
+（圖片來源：[詳情](/licenses#uebung008)）
 :::

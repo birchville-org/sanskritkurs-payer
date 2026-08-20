@@ -1,172 +1,173 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "第17課"
+subtitle: "第二現在類（⟪अदादि⟫ = ⟪अद्⟫ 等）"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第17課
 
-## 17.1. 第二现在时类 (⟪अदादि⟫ = ⟪अद्⟫ 等)
+## 17.1. 第二現在詞類（⟪अदादि⟫ = ⟪अद्⟫ 等）
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
+動詞詞尾直接附加於詞根。此處需注意由語音連聲（Sandhi）所產生的音變現象。
 
 ::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
+第二現在詞類包含以下構形形式：
 
-1.  Wurzeln mit Stammabstufung 
-    *   meistens: Hochstufe - Tiefstufe
-    *   einige Wurzeln: Dehnstufe - Tiefstufe 
-2.  Wurzeln ohne Stammabstufung 
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+1. 具有階級變化的詞根
+*   多數情況：強級（Guna）- 弱級（Zero grade）
+*   部分詞根：延長級（Vriddhi）- 弱級
+2. 無階級變化的詞根
+3. 以 -i/-ī 結尾的雙音節詞根，具有階級變化
 
 :::
-## 17.2. 第二现在时类词根的词干交替：高阶 - 低阶
+## 17.2. 具有強級 - 弱級階級變化的第二現在詞類詞根
 
-Beispiele:
+範例：
 
-⟪द्विष्⟫ 2 U "hassen"
+⟪द्विष्⟫ 第二類「憎恨」
 
-*   starker Präsensstamm: dveṣ-
-*   schwacher Präsensstamm: dviṣ-
+*   強現在詞幹：dveṣ-
+*   弱現在詞幹：dviṣ-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 第三人稱單數現在主動 | ⟪द्वेष्टि⟫（dveṣ + -ti） |
+| 第三人稱複數現在主動 | ⟪द्विषन्ति⟫（dviṣ-anti） |
+| 第三人稱單數現在中動 | ⟪द्विष्टे⟫（dviṣ + -te） |
+| 第三人稱複數現在中動 | ⟪द्विषते⟫（dviṣ-ate） |
 
 :::
-Hierbei wirkt folgendes Wortsandhigesetz:
+此處適用以下語音連聲規則：
 
 ::: grammar-box
-Wortsandhi von -ṣ + t(h)-
+ṣ 與 t(h)- 的語音連聲
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
-Weitere Beispiele:
+其他範例：
 
-⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien)
+⟪इ⟫ 第二類「行走」（特定前綴後使用中動）
 
-*   starker Präsensstamm: e-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: i-
-    *   vor Vokal: y-/iy-
-
-::: no-header
-
-| | |
-| :--- | :--- |
-| 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
-| 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
-| 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
-
-:::
-⟪दुह्⟫ 2 U "melken"
-
-*   starker Präsensstamm: doh-
-*   schwacher Präsensstamm: duh-
+*   強現在詞幹：e-
+*   弱現在詞幹：
+*   在輔音前：i-
+*   在元音前：y-/iy-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
-| 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
-| 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 第三人稱單數現在主動 | ⟪एति⟫（e-ti） |
+| 第三人稱複數現在主動 | ⟪यन्ति⟫（y-anti） |
+| 第三人稱單數現在中動 | ⟪इते⟫（i-te） |
+| 第三人稱複數現在中動 | ⟪इयते⟫（iy-ate） |
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+⟪दुह्⟫ 第二類「擠奶」
 
-*   starker Präsensstamm: han-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han-
+*   強現在詞幹：doh-
+*   弱現在詞幹：duh-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
-| 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
-| 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 第三人稱單數現在主動 | ⟪दोग्धि⟫（doh- + -ti） |
+| 第三人稱複數現在主動 | ⟪दुहन्ति⟫（duh-anti） |
+| 第三人稱單數現在中動 | ⟪दुग्धे⟫（duh- + -te） |
+| 第三人稱複數現在中動 | ⟪दुहते⟫（duh-ate） |
 
 :::
-⟪अस्⟫ 2 P "sein"
+⟪हन्⟫ 第二類「擊打、打死、殺死」
 
-*   starker Präsensstamm: as-
-*   schwacher Präsensstamm: s-
+*   強式現在詞幹：han-
+*   弱式現在詞幹：
+*   在輔音前：ha-（「\*hn-」）
+*   在元音前：ghn-/han-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 第三人稱單數現在主動 | ⟪हन्ति⟫ (han-ti) |
+| 第三人稱複數現在主動 | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 第三人稱單數現在中動 | ⟪हते⟫ (ha-te) |
+| 第三人稱複數現在中動 | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
-## 17.3. 第二类现在时词根的词干交替：增级 - 零级
+⟪अस्⟫ 第二類「存在」
 
-Beispiel:
-
-⟪स्तु⟫ 2 U "preisen"
-
-*   starker Präsensstamm: stau-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: stu-
-    *   vor Vokal: stuv-
+*   強式現在詞幹：as-
+*   弱式現在詞幹：s-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
-| 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
-| 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 第三人稱單數現在主動 | ⟪अस्ति⟫ (as-ti) |
+| 第三人稱複數現在主動 | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.4. 第二类现在时词根无词干交替
+## 17.3. 第二類現在詞根，具詞幹變調：長音級 - 弱音級
+
+範例：
+
+⟪स्तु⟫ 第二類「讚美」
+
+*   強式現在詞幹：stau-
+*   弱式現在詞幹：
+*   在輔音前：stu-
+*   在元音前：stuv-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 第三人稱單數現在主動 | ⟪स्तौति⟫ (stau-ti)：broder: ⟪स्तवीति⟫ |
+| 第三人稱複數現在主動 | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 第三人稱單數現在中動 | ⟪स्तुते⟫ (stu-te) |
+| 第三人稱複數現在中動 | ⟪स्तुवते⟫ (stuv-ate) |
+
+:::
+## 17.4. 第二類現在詞根，無詞幹變調
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
+第二類現在詞根，若以 -ā 結尾，則無詞幹變調
 :::
-Beispiel:
+範例：
 
-⟪पा⟫  2 P "schützen, behüten, hüten"
+⟪पा⟩ 第二類「保護、守護、看守」
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 第三人稱單數現在主動 | ⟪पाति⟫ (pā-ti) |
+| 第三人稱複數現在主動 | ⟪पान्ति⟫（「pā- + -anti」） |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
+其他一些第二類詞根也無詞幹變調：
 
-Beispiele:
+範例：
 
-⟪अद्⟫ 2 P "essen"
+⟪अद्⟫ 第二類「吃」
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 第三人稱單數現在主動 | ⟪अत्ति⟫（「ad- + -ti」） |
+| 第三人稱複數現在主動 | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
-⟪आस्⟫ 2 Ā "sitzen"
+⟪आस्⟫ 2 Ā 「坐」
 
 ::: no-header
 
@@ -176,28 +177,28 @@ Beispiele:
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
-⟪वच्⟫ 2 P "sagen"
+⟪वच्⟫ 2 P 「說」
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. pl. Präs. P | 不出现
 
 :::
-## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+## 第17.5課。雙音節根詞，以 -i/-ī 結尾，具詞幹變格
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
+若干根詞在一系列形式中為雙音節，即在輔音結尾前帶有 -i（或在某些結尾前帶 -ī）。然而，這些根詞仍被本土語法學家及字典等視為單音節處理。
 
-Beispiele:
+範例：
 
-⟪रुद्⟫ 2 P "weinen, heulen"
+⟪रुद्⟫ 2 P 「哭泣，嚎叫」
 
-*   starker Präsensstamm: rodi-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: rudi-
-    *   vor Vokal: rud-
+*   強式現在詞幹：rodi-
+*   弱式現在詞幹：
+*   輔音前：rudi-
+*   元音前：rud-
 
 ::: no-header
 
@@ -207,12 +208,12 @@ Beispiele:
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
-⟪ब्रू⟫ 2 U "sprechen"
+⟪ब्रू⟫ 2 U 「說話」
 
-*   starker Präsensstamm: bravī- (« bro- + -ī)
-*   schwacher Präsensstamm:
-    *   vor Konsonant: brū-
-    *   vor Vokal: bruv-
+*   強式現在詞幹：bravī- (« bro- + -ī)
+*   弱式現在詞幹：
+*   輔音前：brū-
+*   元音前：bruv-
 
 ::: no-header
 
@@ -224,7 +225,7 @@ Beispiele:
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
+此外，⟪स्तु⟫ 2 U 「讚美」除第3節所列形式外，亦具依此模式變化的形式：
 
 ::: no-header
 
@@ -233,180 +234,90 @@ Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen 
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. 词汇表
+## 第17.6課。詞彙表
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ 被動 ⟪हन्यते⟫ 過去被動分詞 ⟪हत⟫ ：擊打，打死，殺死
 
-davon:
+由此：
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ 陽性：殺害
 :::
 
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
-Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+圖：⟪घाताः⟫
+班加羅爾 = ಬೆಂಗಳೂರು
+（圖片來源：[詳情](/zh/licenses#lekt1703)）
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 第二類 ⟪आस्ते⟫ 被動語態 ⟪आस्यते⟫ 過去分詞 ⟪आसित⟫ ：坐
 
-davon:
+由此：
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ 中性：坐，座位；亦指瑜伽士的坐姿
 :::
 
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+圖：⟪योगासनम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt1701)）
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 第二類 ⟪रोदिति⟫ 被動語態 ⟪रुद्यते⟫ 過去分詞 ⟪रुदित⟫ ：哭泣，嚎叫
 
-davon:
+由此：
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ 陽性：（嚎叫者 =）風暴之神魯陀羅
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 第二類 ⟪ब्रवीति⟫ 主動語態 ⟪ब्रूते⟫ 無被動語態及過去分詞：說話，說（對某人說某事：雙賓格）
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 第二類 ⟪दोग्धि⟫ 被動語態 ⟪दुह्यते⟫ 過去分詞 ⟪दुग्ध⟫ ：擠奶
 
 ::: media
 ![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
+圖：⟪दोग्धि⟫
+（圖片來源：[詳情](/zh/licenses#lekt1702)）
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪दिश्⟫ 第六類 ⟪दिशति⟫ 被動語態 ⟪दिश्यते⟫ 過去分詞 ⟪दिष्ट⟫ ：指示，指引，命令
 
-davon:
+由此：
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+⟪दिष्टि⟫ 陰性：指示，幸運的安排
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+⟪दिष्ट्या⟫ 工具格：（字面意：透過幸運的安排）啊，幸運的安排！（歡欣與祝福的感嘆）
 :::
 
-## 17.7. 练习 1
+## 第十七課.7. 練習一
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+A) 在以下句子中填入動詞並翻譯：
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
+⟪१⟫. ⟪ब्राह्मणो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫)
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫)
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫)
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫)
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫)
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫)
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫)
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫)
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫)
+⟪८⟫。⟪द्विजदासः शूद्रस्⟫ ...（⟪अस् २ । भू⟫）
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫)
+⟪९⟫。⟪बालब्राह्मणी⟫ ...（⟪रुद् । आस् । मृ⟫）
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
+⟪१०⟫。⟪साधुजनो ऽधर्मम्⟫ ...（⟪द्विष् । न कृ⟫）
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
+B) 將 A) 中構成的句子中的施事者與動詞變為複數
 
-## 17.8. 练习 2
+## 17.8. 練習二
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
+翻譯以下動詞形式，並指出其對應的詞根：
 
-⟪१⟫. ⟪अदन्ति⟫
-
-⟪२⟫. ⟪सन्ति⟫
-
-⟪३⟫. ⟪आसते⟫
-
-⟪४⟫. ⟪यन्ति⟫
-
-⟪५⟫. ⟪इच्छति⟫
-
-⟪६⟫. ⟪कुर्वते⟫
-
-⟪७⟫. ⟪गच्छन्ति⟫
-
-⟪८⟫. ⟪जायते⟫
-
-⟪९⟫. ⟪जयति⟫
-
-⟪१०⟫. ⟪तनोति⟫
-
-⟪११⟫. ⟪दहति⟫
-
-⟪१२⟫. ⟪दोग्धि⟫
-
-⟪१३⟫. ⟪पश्यति⟫
-
-⟪१४⟫. ⟪द्विष्टे⟫
-
-⟪१५⟫. ⟪नयन्ति⟫
-
-⟪१६⟫. ⟪नृत्यति⟫
-
-⟪१७⟫. ⟪पद्यन्ते⟫
-
-⟪१८⟫. ⟪पिबति⟫
-
-⟪१९⟫. ⟪पान्ति⟫
-
-⟪२०⟫. ⟪पृच्छति⟫
-
-⟪२१⟫. ⟪बुध्यन्ते⟫
-
-⟪२२⟫. ⟪ब्रवीति⟫
-
-⟪२३⟫. ⟪भवन्ति⟫
-
-⟪२४⟫. ⟪मन्यते⟫
-
-⟪२५⟫. ⟪मुञ्चन्ति⟫
-
-⟪२६⟫. ⟪म्रियन्ते⟫
-
-⟪२७⟫. ⟪यजते⟫
-
-⟪२८⟫. ⟪युध्यन्ते⟫
-
-⟪२९⟫. ⟪रक्षति⟫
-
-⟪३०⟫. ⟪रोदिति⟫
-
-⟪३१⟫. ⟪लभते⟫
-
-⟪३२⟫. ⟪वक्ति⟫
-
-⟪३३⟫. ⟪वदति⟫
-
-⟪३४⟫. ⟪शृणोति⟫
-
-⟪३५⟫. ⟪स्तौति⟫
-
-⟪३६⟫. ⟪स्मरति⟫
-
-⟪३७⟫. ⟪हन्ति⟫
-
-⟪३८⟫. ⟪अश्नुवते⟫
-
-⟪३९⟫. ⟪कुप्यते⟫
-
-⟪४०⟫ ⟪कर्षन्ति⟫
-
-⟪४१⟫. ⟪उद्यते⟫
-
-⟪४२⟫. ⟪सहन्ते⟫
-
-⟪४३⟫. ⟪सिच्यन्ते⟫
-
-⟪४४⟫. ⟪आप्नोति⟫
-
-⟪४५⟫. ⟪जीव्यते⟫
-
-⟪४६⟫. ⟪दिश्यन्ते⟫
+⟪१⟫。⟪अदन्ति २⟫。⟪सन्ति ३⟫。⟪आसते ४⟫。⟪यन्ति ५⟫。⟪इच्छति ६⟫。⟪कुर्वते ७⟫。⟪गच्छन्ति ८⟫。⟪जायते ९⟫。⟪जयति १०⟫。⟪तनोति ११⟫。⟪दहति १२⟫。⟪दोग्धि १३⟫。⟪पश्यति १४⟫。⟪द्विष्टे १५⟫。⟪नयन्ति १६⟫。⟪नृत्यति १७⟫。⟪पद्यन्ते १८⟫。⟪पिबति १९⟫。⟪पान्ति २०⟫。⟪पृच्छति २१⟫。⟪बुध्यन्ते २२⟫。⟪ब्रवीति २३⟫。⟪भवन्ति २४⟫。⟪मन्यते २५⟫。⟪मुञ्चन्ति २६⟫。⟪म्रियन्ते २७⟫。⟪यजते २८⟫。⟪युध्यन्ते २९⟫。⟪रक्षति ३०⟫。⟪रोदिति ३१⟫。⟪लभते ३२⟫。⟪वक्ति ३३⟫。⟪वदति ३४⟫。⟪शृणोति ३५⟫。⟪स्तौति ३६⟫。⟪स्मरति ३७⟫。⟪हन्ति ३८⟫。⟪अश्नुवते ३९⟫。⟪कुप्यते ४० कर्षन्ति ४१⟫。⟪उद्यते ४२⟫。⟪सहन्ते ४३⟫。⟪सिच्यन्ते ४४⟫。⟪आप्नोति ४५⟫。⟪जीव्यते ४६⟫。⟪दिश्यन्ते⟫
 

@@ -28,6 +28,10 @@ GEMINI_MODEL = "gemini-3.1-pro-preview"
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "ce036e22-7662-41b4-b0e0-32d7fe04f63f:fx")
 DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
 
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+ANTHROPIC_API_URL = "https://api.anthropic.com/v1/messages"
+ANTHROPIC_MODEL = "claude-sonnet-5"
+
 DE_FALLBACK_ALLOWED = {"rm", "grc", "el", "la", "cop"}
 
 LANGUAGES = [

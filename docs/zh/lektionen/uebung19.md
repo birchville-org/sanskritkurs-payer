@@ -1,66 +1,54 @@
-
 ---
-title: "Übung 19"
+title: "練習十九"
 uebung_id: 19
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# 練習19
+# 練習十九
 
-A) Übersetzen Sie ins Sanskrit:
+A) 譯為梵文：
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint.
-⟪यस्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रो⟫ ⟪मृतः⟫ ⟪सा⟫ ⟪रोदिति⟫ ⟪।⟫ (oder: ⟪यस्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रो⟫ ⟪मृतो⟫ ⟪रोदिति⟫ ⟪।⟫)
+1\. 其子已逝之吠舍婦人，哭泣。
+⟪यस्या वैश्यायाः पुत्रो मृतः सा रोदिति ।⟫（或：⟪यस्या वैश्यायाः पुत्रो मृतो रोदिति ।⟫）
 
-2\. Rāma opfert der Gottheit, die ihn behütet.
-⟪या⟫ ⟪देवता⟫ ⟪रामं⟫ ⟪रक्षति⟫ ⟪तां⟫ ⟪यजते⟫ ⟪।⟫
+2\. 羅摩向護佑其人之神祇獻祭。
+⟪या देवता रामं रक्षति तां यजते ।⟫
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt.
-⟪यस्य⟫ ⟪क्षत्रियस्य⟫ ⟪धनं⟫ ⟪लुभ्यति⟫ ⟪तं⟫ ⟪कविः⟫ ⟪स्तौति⟫ ⟪।⟫
+3\. 詩人讚頌剎帝利，其財富為人所貪求。
+⟪यस्य क्षत्रियस्य धनं लुभ्यति तं कविः स्तौति ।⟫
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
-⟪यो⟫ ⟪नरो⟫ ⟪ऽग्निं⟫ ⟪न⟫ ⟪यजते⟫ ⟪तस्य⟫ ⟪गृहमग्निर्दहति⟫ ⟪।⟫
+4\. 火焚燒不藉祭品敬拜阿耆尼之男子之家。
+⟪यो नरो ऽग्निं न यजते तस्य गृहमग्निर्दहति ।⟫
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
-⟪यैः⟫ ⟪क्षत्रिययोधै⟫ ⟪रामो⟫ ⟪जितस्तान्पुरुषव्याघ्रो⟫ ⟪हन्ति⟫ ⟪॥⟫
+5\. 如虎之男子擊殺曾擊敗羅摩之剎帝利戰士（被動語態）。
+⟪यैः क्षत्रिययोधै रामो जितस्तान्पुरुषव्याघ्रो हन्ति ॥⟫
 
-B) Übersetzen Sie:
+B) 翻譯：
 
-⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
-⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫  
-Mit welchem Wind die Wolke Wasser lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
-(Entspricht: *Hinter dem Winde schifft der Kluge. / Je nach dem Winde dreht sich die Fahne.*)
+⟪येन येन च वातेन वारिदो वारि मुञ्चति । तेन तेन च वातेन छत्रं वहति पण्डितः ॥१॥⟫  
+雲以何風降雨，智者亦隨此風移動其傘。
+（意譯：*智者順風而行。/ 旗幟隨風而轉。*）
 
-⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
-⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
-⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫  
-Wer zur rechten Zeit Religion (dharma), gewinnbringender Tätigkeit (artha) bzw. Liebe (kāma) frönt, der findet auf dieser Welt und im Jenseits Gemeinschaft mit Religion, Gewinn und Liebe.
+⟪यो धर्ममर्थं कामं च यथाकालं निषेवते । धर्मार्थकामसंयोगं सो ऽमुत्रेह च विन्दति ॥२॥⟫  
+於適當時機奉行正法（dharma）、利益（artha）或愛欲（kāma）者，於此世與來世皆能獲致正法、利益與愛欲之共融。
 
-⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
-⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫  
-Das ist seine Gattin, die Liebes spricht,  
-Das ist aber ein Sohn, der lebt,  
-Der lebt, der Tugend hat,  
-Wer Religion, Recht und Sitte hat, der lebt.
+⟪सा भार्या या प्रियं ब्रूते स पुत्रो यस्तु जीवति । स जीवति गुणो यस्य धर्मो यस्य स जीवति ॥३॥⟫  
+此乃其妻，能言愛語；
+此乃其子，得以存活；
+彼若存活，必具美德；
+擁有正法、正義與禮儀者，方能存活。
 
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
-⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫  
-Wer Wohlstand hat, der hat Freunde,  
-Wer Wohlstand hat, der hat Verwandte,  
-Wer Wohlstand hat, der ist in der Welt ein Mann,  
-Wer nämlich Wohlstand hat, der ist ein Gelehrter.
+⟪यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः । यस्यार्थाः स पुमांल्लोके यस्यार्थाः स हि पण्डितः ॥४॥⟫  
+有財富者，便有朋友；
+有財富者，便有親屬；
+有財富者，在世間便為大丈夫；
+蓋因有財富者，即為博學之士。
 
 ::: media
 ![](/images/uebung029.webp)
-Abb.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
-(Bildquelle: [Details](/licenses#uebung029))
+圖：⟪यस्यार्थास्तस्य मित्राणि⟫
+（圖片來源：[詳情](/licenses#uebung029)）
 :::

@@ -1,222 +1,210 @@
 ---
-title: Lektion 19
+title: "# 第19課"
 lesson_id: 19
+
 ---
 
 # 第19課
 
-## 19.1. Der Relativsatz
+## 19.1. 關係子句
 
 ::: grammar-box
 
-**Schema:**
+**句型：**
 
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
+**關係代詞 -- 包含其所關聯名詞的關係子句 -- （指示代詞）-- 主句**
 
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
+**關係子句也可位於主句之後，但不可插入主句中。**
+
+**關係代詞與關聯詞（此處指關係子句中的名詞，與德語不同）處於關係子句在句法上所要求的格位。指示代詞則處於主句在句法上所要求的格位。**
 :::
 
-Beispiele:
+範例：
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
+註記：在具有普遍真理內容的關係子句中，常使用虛擬語氣（Optativ）而非直陳語氣。因此，我們許多範例本應更傾向使用虛擬語氣。
 
-**1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
+**1. 句子的施事者（⟪कर्तृ⟫）透過關係子句進一步限定：**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
+⟪यो नरः पुण्यं करोति स स्वर्गं गच्छति⟫ =  ⟪यो नरः पुण्यं करोति तेन स्वर्गं गम्यते⟫ = ⟪येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते⟫ 等。= "行善者，得生天界。"
 :::
-**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
+**2. 主句的直接受詞（⟪कर्म⟫）透過關係子句進一步限定：**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
+⟪यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति⟫ = "諸天護佑為其舉行祭儀的婆羅門。"
 :::
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
+**3. 主句中名詞的進一步限定位於關係子句中：**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
+⟪ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते⟫ = "作惡之人的子孫，無法獲得財富。"
 :::
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
+**4. 關係代名詞與關聯詞位於屬格（⟪षष्ठी⟫）：**
 
 ::: indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
+⟪यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान्⟫ = 「那人並不幸福，因為他的兒子們作惡。」
 :::
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
+**5. 關係代名詞與關聯詞位於工具格（⟪तृतीया⟫）：**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
+⟪येन शत्रुणा ग्रामो जितस्तं द्विषन्ति⟫ = 「他們憎恨那個擊敗／征服了他們的村莊的敵人。」
 :::
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
+**6. 關係代名詞與關聯詞位於賓格（⟪द्वितीया⟫）：**
 
 ::: indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
+⟪यं नरं देवी रक्षति स सुखमाप्नोति⟫ = 「受女神庇佑之人，必得幸福。」
 :::
-## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. 關係代名詞 = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::: grammar-box
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmäßigem Sandhi.**
+**⟪यद्⟫「誰、哪一個」的變格如同 ⟪तद्⟫，但遵循規則的連聲（Sandhi）。**
 
-| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
+| | **陽性** :br ⟪पुंस्⟫ | **中性** :br ⟪नपुंसक⟫ | **陰性** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
-| **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| **單數** :br ⟪एकवचन⟫ | **1. 主格** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. 賓格** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. 工具格** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. 屬格** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **複數** :br ⟪बहुवचन⟫ | **1. 主格** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. 賓格** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. 工具格** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. 屬格** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
-**Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
+**作為複合詞的前成分，⟪यद्⟫ 的詞幹出現（需遵守音變規則 Sandhi）。**
 
 :::
 
-## 19.3. 词汇表
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+## 19.3. 詞彙表
 
-**⟪अर्थ⟫** ist einer der drei Lebenszwecke (**⟪पुरुषार्थ⟫**), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+**⟪अर्थ⟫ m.：** 目的、目標、含義（詞的意義）、財富、財產、資產。⟪अर्थम्⟫（賓格）、⟪अर्थेन⟫（工具格）與屬格連用，或作為 Tatpuruṣa 複合詞的後成分：為了……、以便。
+
+⟪अर्थ⟫ 是世俗與宗教文獻中所描述的三大人生目標（⟪पुरुषार्थ⟫）之一：
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.：** 通過履行正當行為而獲得功德，或至少避免由於不遵循 Dharma（達摩/法）所導致的惡果。
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.：** 目的理性的行為、獲得繁榮富庶
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.：** 感官享樂，特別是性領域的享樂
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+圖：⟪कामः⟫
+⟪कामसूत्र⟫ 插圖
+（圖片來源：[詳情](/zh/licenses#lekt1809)）
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 第一人稱單數現在時 ⟪तिष्ठति⟫ 被動語態 ⟪स्थीयते⟫ 過去分詞 ⟪स्थित⟫ ：** 站立、停留、繼續存在、處於。 （傳統上歸入第一現在時類，儘管它實際上是一個重音複合主題現在時類，如 ⟪पा⟫ 第一人稱單數 ⟪पिबति⟫）
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 第一類動詞 ⟪उपतिष्ठति⟫ ：** 上前、以恭敬的姿態站在某人面前
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 第一類反身動詞 ⟪प्रतिष्ठते⟫ ：** 出發、離開
 
-von **⟪स्था⟫** :
+源自 ⟪स्था⟫ ：
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.：** 地點、（正確的）位置、站點
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.：** 停留、堅定、堅持
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.：** 子宮、腹中、內部、胚胎 / 胎兒。在 Bahuvrīhi（持業釋/外喻複合詞）的末尾時，常意為「內部」，例如
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3：**「其內為金＝其中藏有金錢」
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.：**印度教神廟中最內層的聖所，供奉神廟中最重要的神像（關於印度教神廟的結構，請參見：Volwahsen, A.：《印度：印度教、佛教與耆那教的建築》。——慕尼黑，1968年）
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
-Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+圖：⟪गर्भगृहम्⟫
+巴達米（ಬದಾಮಿ）
+（圖片來源：[詳情](/zh/licenses#lekt1901)）
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.：**持水者＝雨雲
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
-Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+圖：⟪वारिदः⟫
+果阿（⟪गोंय⟫）
+（圖片來源：[詳情](/zh/licenses#lekt1902)）
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 二數 ⟪वाति⟫ 被動語態 ⟪वायते⟫ 過去分詞 ⟪वान⟫ / ⟪वात⟫ ：**吹拂
 
-davon:
+由此衍生：
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.：**風
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 一類 ⟪वहति⟫ 被動語態 ⟪उह्यते⟫ 過去分詞 ⟪ऊढ⟫ ：**引導、駕駛（及物）
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ n.：**陽傘、遮陽傘
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+圖：⟪छत्त्रम्⟫
+「Onappottan（ഓണപ്പൊട്ടന്‍）是喀拉拉邦南部地區的一種傳統習俗。Onappottan 在 Onam 節期間走訪民宅並賜予祝福。近年來，Onappottan 已成為罕見的景觀，僅限於村莊中可見。」
+（圖片來源：[詳情](/zh/licenses#lekt1904)）
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.：**學者、智者；3：聰明、博學（於）
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+圖：⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+（圖片來源：[詳情](/zh/licenses#lekt1903)）
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 一類 ā ⟪सेवते⟫ 被動語態 ⟪सेव्यते⟫ 過去分詞 ⟪सेवित⟫ ：**居住於、佔有（與格，處所格）；拜訪、前往（賓格）；侍奉、照料、崇拜；實踐、使用；親近、行房事
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ 前綴：**向下，進入
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫ 一 ā ⟪निषेवते⟫ ：**居住於，占有，拜訪
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ ：**那裡，在彼岸
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ ：**這裡，在此岸
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 六 u ⟪विन्दति⟫ 被動 ⟪विद्यते⟫ 過去分詞 ⟪विन्न⟫ / ⟪वित्त⟫ ：**找到
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ 陰性：**應被維持者 = 妻子
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 三：**親愛的，令人愉快的
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ 中性（！）：**朋友
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ 陽性：**親戚
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ ：**因為，確實（絕不能放在句首）
 
-## 19.4. 练习
+## 19.4. 練習
 
-**Übersetzen Sie ins Sanskrit:**
+**翻譯成梵文：**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint.
+1\. 其子已逝的吠舍婦女在哭泣。
 
-2\. Rāma opfert der Gottheit, die ihn behütet.
+2\. 羅摩向庇護他的神靈獻祭。
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt.
+3\. 詩人讚頌剎帝利，其財富為他所貪求。
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
+4\. 火焰焚燒了那個未以祭品供養阿耆尼的男子的房屋。
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
+5\. 如虎般的男子擊殺了已被羅摩戰勝的剎帝利戰士（被動語態）。
 
 ## 19.5. ⟪सुभाषितानि⟫
 
-**Übersetzen Sie:**
+**翻譯：**
 
 ::: indent
-⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
-⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
+⟪येन येन च वातेन वारिदो वारि मुञ्चति । तेन तेन च वातेन छत्रं वहति पण्डितः ॥१॥⟫
 :::
-Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
+解釋：⟪वारि⟫ 主格，賓格單數，源於 ⟪वारि⟫ 中性：水
 
 ::: indent
-⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
-⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
-⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
+⟪यो धर्ममर्थं कामं च यथाकालं निषेवते । धर्मार्थकामसंयोगं सो ऽमुत्रेह च विन्दति ॥२॥⟫
 :::
-Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+解釋：⟪यथाकालम्⟫ 依主釋複合詞：適時；只要恰當的時機出現。
 
 ::: indent
-⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
-⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
-⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
+⟪सा भार्या या प्रियं ब्रूते स पुत्रो यस्तु जीवति । स जीवति गुणो यस्य धर्मो यस्य स जीवति ॥३॥ यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः । यस्यार्थाः स पुमांल्लोके यस्यार्थाः स हि पण्डितः ॥४॥⟫
 :::
-Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
+說明：⟪पुमान्⟫ 屬格單數，對應 ⟪पुंस्⟫「男人」；⟪लोके⟫ 處格單數，對應 ⟪लोक⟫ 陽性：在……
 

@@ -1,234 +1,237 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "第8課"
+subtitle: "名詞的構成與第8類現在時"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # 第8課
 
 
-## 8.1. 关于名词的构成
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
+## 8.1. 名詞詞幹的構成
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+在傳統的印度語法中，對於構成名詞詞幹的后綴，區分如下：
 
-::: grammar-box
-**Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
-
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen**
-:::
-
-## 8.2. Einteilung der Nominalsuffixe
-
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta
-
-- **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
-
-**Einteilung nach dem Ablaut:**
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung
-
-## 8.3. Einige wichtige Nominalsuffixe
-
-### 8.3.1. -a m. (kṛt)
+**kṛt后綴（⟪कृत्⟫）（基本后綴）：** 由動詞詞根（**dhātu** m. = ⟪धातु⟫）和動詞詞幹構成名詞詞幹、絕對格（Absolutiva，即獨立分詞）和不定式。
+**taddhita后綴（⟪तद्धित⟫）（派生后綴）：** 附加於名詞詞幹和無變化詞上，構成新的名詞詞幹或無變化詞。
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
-:::
-**Beispiele:**
+**圖式：**
+**詞根 + kṛt后綴 » 名詞詞幹等 + taddhita后綴 » 新的名詞詞幹等**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+**名詞詞幹 + 格尾 » 可句法運用的名詞**
+:::
+
+## 8.2. 名詞后綴的分類
+
+**kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+**kārakakṛt** (⟪कारककृत्⟫) » 施事名詞（指稱執行由詞根所表示之動作的人）
+**kṛtikṛt** (⟪कृतिकृत्⟫) » 動作名詞（指稱由詞根所表達的動作）或抽象名詞
+
+**taddhita**
+**viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » 形容詞
+**bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » 抽象名詞
+**tadvattaddhita** (⟪तद्वत्तद्धित⟫) » 所有格（例如 **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫）
+**tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » 比較級（Comparativ, Superlativ），比較
+**pūraṇataddhita** (⟪पूरणतद्धित⟫) » 序數詞（第一等）
+**vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » 替代格尾（例如 **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫）
+**abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » （cvi構成 ⟨JAच्वि⟫, **-sāt** -⟪सात्⟫）
+
+**根據元音交替的分類：**
+**guṇya**（⟪गुण्य⟫）：高階構詞
+**na guṇya**（⟪न गुण्य⟫）：低階構詞
+**vṛddhyarha**（⟪वृद्ध्यर्ह⟫）：長音階構詞
+
+
+## 8.3. 一些重要的名詞後綴
+
+### 8.3.1. -a m.（kṛt）
+
+::: grammar-box
+**kṛt後綴-a構成陽性（較少為中性）名詞，指稱由詞根所表示的動作或狀態；有時也構成形容詞或名詞，表達由動詞詞根所表示之動作的主事者（kartṛ）。對於短元音的倒数第二音节（= 詞根結尾輔音前的元音）或詞根以元音結尾的情況，通常會以高階（guṇa）或長音階（vṛddhi）取代。**
+:::
+**範例：**
+
+| 詞根：br⟪धातु⟫ | + -a（kṛt） | 意義 |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **ji** 1 P:br⟪आप्⟫:br「勝利」 | **jaya** m.:br⟪जय⟫ | 「勝利，勝者」 |
+| **muh** 4 P:br⟪मुह्⟫:br「迷惑」 | **moha** m.:br⟪मोह⟫ | 「迷惑，無明，錯誤」 |
+| **krudh** 4 P:br⟪क्रुध्⟫:br「憤怒」 | **krodha** m.:br⟪क्रोध⟫ | 「憤怒」 |
+| **kup** 4 P:br⟪कुप्⟫:br「憤怒」 | **kopa** m.:br⟪कोप⟫ | 「憤怒」 |
+| **lubh** 4 P:br⟪लुभ्⟫:br「渴望」 | **lobha** m.:br⟪लोभ⟫ | 「貪婪」 |
+| **labh** 1 Ā:br⟪लभ्⟫:br「獲得」 | **lābha** m.:br⟪लाभ⟫ | 「獲得，利益」 |
+| **sṛj** 6 P:br⟪सृज्⟫:br「釋放，使 emanate」 | **sarga** m.:br⟪सर्ग⟫ | 「釋放， emanation，創造」（關於詞音變 j » g 請見後文） |
+| **śru** 5 P:br⟪श्रु⟫:br「聽」 | **śrava** m.:br⟪श्रव⟫ | 「聽」 |
+| **bhū** 1 P:br⟪भू⟫:br「成為，存在」 | **bhāva** m.:br⟪भाव⟫ | 「成為，（某物）存在，本性，性格」 |
+| **yudh** 4 Ā:br⟪युध्⟫:br「戰鬥」 | **yodha** m.:br⟪योध⟫ | 「戰士，武士，士兵」 |
+
 
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
+**後綴 -ana 通常構成中性名詞，指稱由詞根或動詞詞幹所表示的動作得以實現的行為、狀態，以及手段或工具。對於短元音居中的非重讀音节（Penultima）或詞尾的母音，通常會以高階形式（guṇa）取代。**
 :::
-**Beispiele:**
+**範例：**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| 詞根:br⟪धातु⟫ | + -ana (kṛt) | 意義 |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"行走" | **gamana** n.:br⟪गमन⟫ | "行走" |
+| **nī** 1 U:br⟪नी⟫:br"引導" | **nayana** n.:br⟪नयन⟫ | "(引導的工具，即) 眼睛" |
+| **śru** 5 P:br⟪श्रु⟫:br"聽" | **śravaṇa** n.:br⟪श्रवण⟫ | "(聽覺工具 =) 耳朵" |
+| **kṛ** 8 U:br⟪कृ⟫:br"做" | **kāraṇa** n.:br⟪कारण⟫ | "(使某事得以發生的事物，即) 原因、理由" |
+| **bhū** 1 P:br⟪भू⟫:br"成為、存在" | **bhavana** n.:br⟪भवन⟫ | "成為、產生" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"看、看見" | **darśana** n.:br⟪दर्शन⟫ | "看、觀點、哲學體系、顯現，特別指：Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801))
+圖：Maa Batakali Darshan，普里（Puri），奧里薩邦
+（圖片來源：[詳情](/zh/licenses#lekt0801)）
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
+**"Darshan" 或 "Darshana"** 是印度教中的一個概念，指對神聖與神性的觀看與視野。*Darshana* 一詞可指學生受大師邀請而與之進行的正式會面。它也可能意味著在凝視神像時的全然沉浸。後者這層意義是現代印地語中最常見的用法。在與 Mata Amritanandamayi 相關的脈絡中，Darshan 則指上師的擁抱。
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia)
+虔誠的印度教徒前往寺廟，透過象徵或神像（其中被認為具有神靈的精神臨在）來獲得對神的「darśana」。在此意義下，也指透過神靈的祝福。然而，darśana 也可以透過在祈禱或冥想中親見神靈而獲得。此外，被視為神靈化身（avatāra）的活生生的人，也能給予 darśana。
+（來源：維基百科）
 :::
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
+**後綴 -tra 形成（通常）中性名詞，指稱使根所表示的動作得以實現的手段或工具。短促的第二重音節元音及詞尾元音以高階（guṇa）取代。**
 :::
 
-**Beispiele:**
+**範例：**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| 詞根：br⟪धातु⟫ | + -tra (kṛt) | 意義 |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br「引導」 | **netra** n.:br⟪नेत्र⟫|「（引導的手段 =）眼睛」 |
+| **śru** 5 P:br⟪श्रु⟫:br「聽」 | **śrotra** :br⟪श्रोत्र⟫|「（聽覺工具 =）耳朵」 |
+| **man** 4 Ā:br⟪मन्⟫:br「思考」 | **mantra** **m. (!)** :br⟪मन्त्र⟫|「（思考工具：）咒語，『魔法』公式（mantra）」 |
+| **tan** 8 U:br⟪तन्⟫:br「張開」 | **tantra** n.:br⟪तन्त्र⟫|「經線」 |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
+**原始咒語 Oṃ（⟪ॐ⟫）在不同印度文獻中**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| In Kannaresischer Schrift | In Tamil-Schrift |
+| 在坎納達文字中 | 在泰米爾文字中 |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Bildquellen: [Details](/licenses#lekt0803))
+（圖片來源：[詳情](/zh/licenses#lekt0803)）
 :::
+
 
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
+**kṛt 後綴 -ti 構成陰性名詞，通常表示由詞根所指稱的動作或狀態。詞根的形態為弱級。**
 :::
-**Beispiele:**
+**範例：**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| 詞根：br⟪धातु⟫ | + -ti (kṛt) | 意義 |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"聽聞" | **śruti** f.:br⟪श्रुति⟫ | "聽聞、吠陀" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"憶念、回想" | **smṛti** f.:br⟪स्मृति⟫ | "憶念、記憶、傳承、正念" |
+| **nī** 1 U:br⟪नी⟫:br"引導、帶領" | **nīti** f.:br⟪नीति⟫ | "引導、領導、行為" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"使流出、釋放" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "流現、創造" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"看見、觀察" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "視線、面貌、見解" |
+| **gam** 1 P:br⟪गम्⟫:br"行走、前往" | **gati** f.:br⟪गति⟫ | "行走、軌跡、行動的目標" (源自 *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"思考、思惟" | **mati** f.:br⟪मति⟫ | "思考、思想、意見" (源自 *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*註解：* 符號 \* 置於某形式之前，表示該形式在梵語中並不存在，而是作為特定構詞法的前提條件所推論出的理論形式。**gam** 的弱級為 gṃ = \*gm，其中的 m 被稱為鼻響音（nasalis sonans），以 **a** 取代，故為 **ga**。此規則同樣適用於 **man** » **ma**。
+
+
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
+**taddhita 後綴 -tva n. 與 -tā f. 用於名詞以構成抽象名詞。其基礎名詞詞幹的形態保持不變。**
 :::
-**Beispiele:**
+**範例：**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| 名詞詞幹：br⟪नामप्रातिपदिक⟫:br | + -tva n.:br(附加詞尾) | + -tā f.:br(附加詞尾) | 意義 |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **guru** :br⟪गुरु⟫:br3 「沉重、可敬，：brm. 老師」 | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | 「沉重、可敬，：br教師的身份（老師的本質或性質）」 |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. 「婆羅門」 | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | 「婆羅門的身份，：br使某人成為婆羅門的事物，：br婆羅門的本質／性質」 |
+| **deva** :br⟪देव⟫:brm. 「天神、神」 | — | **devatā** f.:br⟪देवता⟫ | 「神性」 |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
+這些構詞法可以實際應用於幾乎所有名詞，且在學術性梵文著作中極為常見。
 
-## 8.4. 第八类现在时词干 (tanādi = ⟪तनादि⟫ = “tan 等等”)
 
-::: grammar-box
-**Stammbildung:**
-- **Starker Stamm: Wurzel + -o-**
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
-
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**
-⟪तनोति⟫
-- 3\. pl. P. **tanvanti**
-⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**
-⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**
-⟪तन्वते⟫
-:::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
-
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmäßig:
+## 8.4. 第八現在詞類（tanādi = ⟪तनादि⟫ = 「tan 等」）
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**
-⟪करोति⟫
-- 3\. pl. P. **kurvanti**
-⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**
-⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**
-⟪कुर्वते⟫
+**詞幹構建：**
+強式詞幹：詞根 + -o-
+弱式詞幹：詞根 + -u-（元音前為 -v-）
+
+範例 **tan** 8 U（⟪तन्⟫) 「伸展」：
+3\. sg. P. **tanoti** :br⟪तनोति⟫
+3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
+3\. sg. Ā. **tanute** :br⟪तनुते⟫
+3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
+:::
+註記：關於 **tan** 究竟是否為第五類詞根（*tn » ta + no-）的爭議，請參見 Thumb-Hauschild，《梵文手冊》第二卷，第 265 頁。
+
+第八類最重要的詞根是 **kṛ** 8 U（⟪कृ⟫) 「做、製作」。其變位為不規則：
+
+::: grammar-box
+**kṛ 8 U（⟪कृ⟫) 「製作、做」**
+3\. sg. P. **karoti** :br⟪करोति⟫
+3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
+3\. sg. Ā. **kurute** :br⟪कुरुते⟫
+3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. 词汇表
 
-**Lernen Sie folgende Wörter:**
+## 8.5. 詞彙表
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+**請學習以下單字：**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : 勝利、征服、戰勝
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : 抓住、獲得、取得
+**tu** ⟪तु⟫ : 但是（位於相反分句或句子部分的第一個詞之後）
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : 看見、瞥見（此處用作現在時詞幹，取代根 **dṛś** 0「看見、瞥見」）
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : 做、製作
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : 伸展
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : 守護
+**sārathi** m. ⟪सारथि⟫ : 車夫、御者
+**kapi** m. ⟪कपि⟫ : 猴子
+**kumārī** f. ⟪कुमारी⟫ : 女孩、少女
+**nāga** m. ⟪नाग⟫ : 裸體者、大象、蛇（大象和蛇都沒有皮毛，就像「無毛的猴子」人類一樣）
+**gaja** m. ⟪गज⟫ : 大象
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : 哀悼
+**śuka** m. ⟪शुक⟫ : 鸚鵡
+**pat** 1 P (patati) ⟪पत् पतति⟫ : 落下、飛翔
+**patrikā** f. ⟪पत्रिका⟫ : 信件
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : 刻劃、書寫（最初是用尖筆在貝葉上刻劃，後來則泛指一般書寫）
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+圖示：**likh** (⟪लिख्⟫) ：印度製鋼筆，用於在貝葉上刻劃
+（圖片來源：[詳情](/zh/licenses#lekt0809)）
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+圖示：**likh** (⟪लिख्⟫) ：巴塔克人（Sumatra）使用的書寫木棍，據信在印度也曾使用
+（圖片來源：[詳情](/zh/licenses#lekt0809)）
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+**sukha** n. ⟪सुख⟫：幸福、安樂
+**duḥkha** n. ⟪दुःख⟫：不幸、苦難
 
-## 8.6. 练习
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+
+## 8.6. 練習
+
+**A) 請透過指出所從屬的词根（Wurzel）與名詞後綴，解釋以下名詞。請標明性別與意義：**
 1. lobha
 2. rakṣa
 3. śrotra
@@ -258,41 +261,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 27. nayana
 28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
+**B) 為所有迄今學過的名詞構成抽象名詞，並思考其意義（口頭進行）。**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
+**C) 將以下詞語作為單數與複數的直接賓語填入：**
+kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:**
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
-3. Er besiegt Kṣatriyas.
-4. Sie spannt die Webkette auf.
-5. Soldaten kämpfen.
-6. Der Brahmane macht ein Feuer.
-7. Brahmanen machen Feuer.
-8. Was tun diese Kämpfer?
-9. Wen sieht das Auge?
-10. Was begehren Götter?
-11. Was ist der Grund?
+**D) 請翻譯：**
+1. Kṣatriyas 既保護 Brahmanen，也保護 Vaiśyas 與 Śūdras。（兩種可能）
+2. 一位聖人既看見天堂，也看見地獄。
+3. 他擊敗了 Kṣatriyas。
+4. 她將經線張掛在織機上。
+5. 士兵們戰鬥。
+6. Brahmane 生起火焰。
+7. Brahmans 生起火焰。
+8. 這些戰士在做什麼？
+9. 眼睛看見了誰？
+10. 諸神渴望什麼？
+11. 原因為何？
 
-## 8.7. 阅读和翻译练习
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-8. ⟪देवतां⟫ ⟪यजति⟫ |
-9. ⟪बाला⟫ ⟪भवति⟫ |
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-12. ⟪बाला⟫ ⟪लिखति⟫ |
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-17. ⟪शुकः⟫ ⟪पतति⟫ |
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+
+## 8.7. 閱讀與翻譯練習
+
+1. ⟪शूद्रो बालं नयति⟫ |
+2. ⟪कविर्देवं यजते⟫ |
+3. ⟪साधुः फलानि खादति⟫ |
+4. ⟪गुरुः क्रोधं जयति⟫ |
+5. ⟪देवो नरकं सृजति⟫ |
+6. ⟪धेनुर्ग्रामं विशति⟫ |
+7. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+8. ⟪देवतां यजति⟫ |
+9. ⟪बाला भवति⟫ |
+10. ⟪सारथी रथं नयति⟫ |
+11. ⟪कपयः फलानि खादन्ति⟫ |
+12. ⟪बाला लिखति⟫ |
+13. ⟪कुमारी गृहं विशति⟫ |
+14. ⟪देवो नागं सृजति⟫ |
+15. ⟪बालो गजं नयति⟫ |
+16. ⟪विमला शोचति⟫ | (⟪विमला⟫ 人名 Vimalā)
+17. ⟪शुकः पतति⟫ |
+18. ⟪बालः पत्रिकां लिखति⟫ |

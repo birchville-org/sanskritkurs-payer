@@ -1,45 +1,46 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "第46課"
+subtitle: "第二人稱動詞形式的構成（⟪मध्यमः⟫）完成時（⟪लिट्⟫）"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第46課
 
-## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. 第二人稱動詞形式的構成（⟪मध्यमः⟫）完成時（⟪लिट्⟫）
 
-### 46.1.1. 结尾
+### 46.1.1. 詞尾
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Perfektendungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :---: | :---: | :---: | :---: |
+| **完成時詞尾** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
+請注意，詞尾 -- 通常並非形式！ -- 第二人稱複數與第一人稱和第三人稱單數的完成時相重合。
 
 ::: grammar-box
-Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
+在大多數以 -ṛ 結尾的词根中，-tha 前不出現連接元音 \-i-。在某些詞根中，\-tha 前的 \-i- 是可選的。
 :::
-### 46.1.2. Lautveränderung der Endung -dhve
+### 46.1.2. 詞尾 -dhve 的音變
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+如果詞根中的 -u 或 -ṛ 直接位於完成時之前，則必須將詞尾 -dhve 替換為 -ḍhve。如果半元音或 h 直接位於連接元音 -i- 之前，則可以選擇在 -i- 之後進行此替換。
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. 完成時類型 I：無詞幹變格
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞有：
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   輔音-長元音-輔音
+*   輔音-元音-輔音-輔音
+*   a-輔音(-輔音)
 *   ā-Konsonant
 
 ::: grammar-box
-1.sg.P = 3.sg.P = 2.pl.P
+第一人稱單數完成時 = 第三人稱單數完成時 = 第二人稱複數完成時
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -55,23 +56,23 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
-⟪अस्⟫ 2P, 4P
+⟪अस्⟫ 第二人稱，四人稱
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. 完成時類型 II：強詞幹高階，弱詞幹低階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   （輔音）i/u/ṛ/ḷ-輔音
 
-⟪भिद्⟫ 7U
+⟪भिद्⟫ 第七類
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -79,7 +80,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 第四類，可選 ⟪अनिट्⟫
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -87,16 +88,16 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. 完成時類型 III：強詞幹高階/長音階
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. 完成時類型 IIIa：強詞幹高階/長音階，弱詞幹低階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
-*   (Konsonant-)-ṛ
+*   （輔音-）（輔音-）i/ī/u/ū
+*   （輔音-）-ṛ
 
-⟪इ⟫ 2P
+⟪इ⟫ 第二類
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -104,7 +105,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
 :::
-⟪नी⟫ 2U
+⟪नी⟫ 第二類
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -112,7 +113,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫)
+⟪स्तु⟫ 第二類（⟪अनिट्⟫）
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -128,11 +129,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 46.1.5.2. 完成時類型 IIIb：強幹高階/長音階，弱幹高階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   (Konsonant-)(Konsonant-)-ṝ
+*   (輔音)(輔音)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
@@ -141,7 +142,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
+| ⟪पपरिथ⟫ | ⟪पपर⟫:br= 第一人稱單數.完成時 |
 :::
 ⟪संस्कृ⟫ 8U
 
@@ -151,11 +152,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. 完成時類型 IV：以 -ā / -ai 結尾的詞根
 
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   弱幹：
+*   在輔音前：低階-i
+*   在元音前：低階-ø
 
 ⟪दा⟫ 3U
 
@@ -173,22 +174,22 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. 完成時類型 V：輔音-a-輔音
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. 完成時類型 Va：輔音-a-輔音，弱幹低階
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
 ::: indent
-1.  u.a.
-2.  han (»ghan) "erschlagen"
-3.  u.a.
-4.  u.a.
-5.  u.a.
-6.  u.a.
-7.  u.a.
+1.  gam "去"
+2.  han (»ghan) "擊殺"
+3.  jan "出生"
+4.  vac "說話"
+5.  vad "說話"
+6.  yaj "祭祀"
+7.  等。
 :::
-⟪गम्⟫ 1P
+⟪गम्⟫ 第一人稱單數
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -196,7 +197,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
 :::
-⟪हन्⟫ 2P
+⟪हन्⟫ 第二人稱單數
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -204,7 +205,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
 :::
-⟪जन्⟫ 4Ā
+⟪जन्⟫ 第四類動詞
 
 ::: grammar-box
 | ⟪आत्मनेपदम्⟫ ||
@@ -212,7 +213,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
 :::
-⟪यज्⟫ 1U
+⟪यज्⟫ 第一類動詞
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -220,7 +221,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
 :::
-⟪वच्⟫ 1P
+⟪वच्⟫ 第一人稱單數
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -228,7 +229,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
 :::
-⟪वह्⟫ 1U
+⟪वह्⟫ 第一類動詞
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -236,7 +237,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
 :::
-⟪वद्⟫ 1P
+⟪वद्⟫ 第一人稱單數
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -244,7 +245,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवदिथ⟫ | ⟪ऊद⟫ |
 :::
-⟪स्वप्⟫ 2P
+⟪स्वप्⟫ 第二人稱單數
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -252,12 +253,12 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 46.1.7.2. 完成時第五型：輔音-a-輔音，首輔音非軟顎音、送氣音、h、弱幹無重疊，帶-e-
 
 ::: grammar-box
-Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
+第二人稱單數由弱幹構成，當連接元音-i-出現時。
 :::
-⟪पच्⟫ 1U
+⟪पच्⟫ 第一類動詞
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -265,11 +266,11 @@ Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. 完成時類型 Vc：輔音-a-輔音，弱幹高階形式
 
-Verben, die diesem Typ folgen:
+遵循此類型的動詞：
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   所有其餘帶有中間 -a- 的根
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +280,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. 特殊的完成時構成
 
-⟪विद्⟫ 2P präsentisches Perfekt
+⟪विद्⟫ 2P 現在完成時
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -313,346 +314,343 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. 複合完成時（⟪अनुप्रयोगलिट्⟫）
 
-Das periphrastische Perfekt wird gebildet von:
+複合完成時由以下構成：
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (außer ā) beginnen
-*   Wurzeln: Vokal (außer a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   派生動詞幹（使役、欲求、頻繁、名源），特別是使役
+*   以長元音（除 ā 外）開頭的根
+*   根：元音（除 a-外）-輔音-輔音
+*   其他一些情況
+*   對於某些根，兩種完成時可選擇性地構成：uṣ "燃燒", vid "知道", jāgṛ "醒著", daridrā "貧窮"
+*   對於以下根，兩種完成時可選擇性地構成，且複合完成時也進行疊音重複，使用的是現在幹的疊音節：
+*   bhī "恐懼"
+*   bhṛ "攜帶"
+*   hu "獻祭"
+*   hrī "羞愧"
 
-⟪बन्ध्⟫ Kausativ
+⟪बन्ध्⟫ 使役態
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
+| ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
-## 46.2. 词汇表
+## 46.2. 詞彙表
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+⟪सम⟫ 3: 相同，正是，相似
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmäßig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+由此衍生：
+⟪समम्⟫ 副詞：以相同方式，同時（⟪तृतीयया⟫），均勻地
+⟪समता⟫ 陰性：平等心
+⟪विषम⟫ 3: 不平等，不平坦，邪惡
 
 :::
-⟪ग्रह्⟫ 9U ***:sig[⟪गृ⟫]***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : 抓住，握住，觸及
 
 ::: indent
-Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***:sig[⟪ही⟫]***⟪ष्यति⟫  
-Pass. ⟪गृह्यते⟫  
-Kaus.⟪ग्राहयति⟫  
-PPP :sig[⟪गृ⟫]***:sig[⟪ही⟫]***⟪त⟫  
-Inf. ⟪ग्रहितुम्⟫  
-Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+完成態主動 (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
+未來態 ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
+被動態 ⟪गृह्यते⟫  
+使役態 ⟪ग्राहयति⟫  
+過去被動分詞 ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
+不定詞 ⟪ग्रहितुम्⟫  
+獨立分詞 -⟪ग्राह्य⟫
+由此衍生：
+⟪ग्रह⟫ 陽性：抓取，抓握者，鱷魚，遊星
+⟪नवग्रह⟫ 陽性：九遊星（非行星！）(參見 Basham, Wonder S. 493)：
+1. ⟪सूर्यः⟫ = 太陽
+2. ⟪चन्द्रः⟫ = 月亮
+3. ⟪मङ्गलः⟫ = 火星
+4. ⟪बुधः⟫ = 水星
+5. ⟪बृहस्पतिः⟫ = 木星
+6. ⟪शुक्रः⟫ = 金星
+7. ⟪शनिः⟫ = 土星
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+關於 ⟪राहु⟫ 和 ⟪केतु⟫，請參見：
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–)：** Dharmashastra：導論與概覽。 -- 第十節：十種聖禮與過渡儀式（samskara）。 -- 附錄 C：羅睺與計都，隱形的遊星 。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+圖：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/zh/licenses#lekt4602)
+（圖片來源：[詳情](/zh/licenses#lekt4602)）
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+圖：[⟪बुधः⟫, ⟪बृहस्पतिः⟫](/zh/licenses#lekt4603)
+（圖片來源：[詳情](/zh/licenses#lekt4603)）
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+圖：[⟪शुक्रः⟫, ⟪शनिः⟫](/zh/licenses#lekt4604)
+（圖片來源：[詳情](/zh/licenses#lekt4604)）
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+圖：[⟪राहुः⟫, ⟪केतुः⟫](/zh/licenses#lekt4605)
+（圖片來源：[詳情](/zh/licenses#lekt4605)）
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ ：知足，滿足於（⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫）
 
 ::: indent
-Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Fut. ⟪तोक्ष्यति⟫  
-Pass. ⟪तुष्यते⟫  
-Kaus. ⟪तोषयति⟫  
-PPP ⟪तुष्ट⟫  
-Inf. ⟪तोष्टुम्⟫
+完成時 II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
+未來時 ⟪तोक्ष्यति⟫  
+被動語態 ⟪तुष्यते⟫  
+使役語態 ⟪तोषयति⟫  
+過去被動分詞 ⟪तुष्ट⟫  
+不定詞 ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ ：彎曲，鞠躬，傾斜，跪拜
 
 ::: indent
-Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Fut. ⟪नंस्यति⟫  
-Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
-PPP ⟪नत⟫  
-Inf. ⟪नन्तुम्⟫
+完成時 Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
+未來時 ⟪नंस्यति⟫  
+被動語態 ⟪नम्यते⟫  
+使役語態 ⟪नमयति । नामयति⟫  
+過去被動分詞 ⟪नत⟫  
+不定詞 ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+圖：[⟪नारायण तुभ्यं नमामि⟫](/zh/licenses#lekt4607)
+（圖片來源：[詳情](/zh/licenses#lekt4607)）
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ ：攀登，登上
 
 ::: indent
-Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Fut. ⟪रोक्ष्यति⟫  
-Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***:sig[⟪प⟫]***⟪यति⟫  
-PPP. ***:sig[⟪रूढ⟫]***  
-Inf. ⟪रोढुम्⟫
+完成時 II ⟪रुरोह⟫, ⟪रुरुहे⟫  
+未來時 ⟪रोक्ष्यति⟫  
+被動語態 ⟪रुह्यते⟫  
+使役語態 ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
+過去被動分詞. :sig[⟪रूढ⟫]  
+不定詞 ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+圖：[⟪अश्वरोहकः⟫](/zh/licenses#lekt4606)
+（圖片來源：[詳情](/zh/licenses#lekt4606)）
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ ：呼叫，召喚
 
 ::: indent
-Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
-Fut. ⟪ह्वास्यति⟫  
-Pass. ⟪हूयते⟫  
-Kaus. ⟪ह्वाययति⟫  
-PPP ⟪हूत⟫  
-Inf. ⟪ह्वातुम्⟫  
-Absol. -⟪हूय⟫
+完成時 IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
+未來時 ⟪ह्वास्यति⟫  
+被動語態 ⟪हूयते⟫  
+使役語態 ⟪ह्वाययति⟫  
+過去被動分詞 ⟪हूत⟫  
+不定詞 ⟪ह्वातुम्⟫  
+絕對構式 -⟪हूय⟫
 
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+圖：[⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/zh/licenses#lekt4608)
+（圖片來源：[詳情](/zh/licenses#lekt4608)）
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. 「象夫」；⟪चरिष्णु⟫ 3 「可移動的」，⟪दूरशब्द⟫ m. 「長途電話、電話機」» ⟪चरिष्णुदूरशब्द⟫ 「行動電話」（構詞：A. Payer）
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.：來回走動
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.：掉落、脫落
 
-⟪श्रम्⟫ 4P ***:sig[⟪श्रा⟫]***⟪म्यति⟫ : sich abmühen, müde werden
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫：辛勤工作、感到疲憊
 
 ::: indent
-Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Fut. ⟪श्रमिष्यति⟫  
-Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***:sig[⟪श्रान्⟫]***⟪त⟫  
-Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
+完成時態，虛擬語氣 ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
+未來時態 ⟪श्रमिष्यति⟫  
+被動語態 ⟪श्रम्यते⟫  
+使役語態 ⟪श्रमयति । श्रामयति⟫  
+過去被動分詞 :sig[⟪श्रान्⟫]⟪त⟫  
+不定詞 ⟪श्रमितुम्⟫  
+絕對構詞 ⟪श्रमित्वा । श्रान्त्वा⟫
+衍生自：
 ⟪आश्रम⟫ m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+圖：[⟪श्रान्तः⟫](/zh/licenses#lekt4609)
+（圖片來源：[詳情](/zh/licenses#lekt4609)）
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫：倚靠、依靠、找到支撐、前往某人處（⟪द्वितीयया⟫, ⟪सप्तम्या⟫）
 
 ::: indent
-Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
-Fut. ⟪श्रयिष्यति⟫  
-Pass. ⟪श्रीयते⟫  
-Kaus. ⟪श्राययति⟫  
-PPP ⟪श्रित⟫  
-Inf. ⟪श्रयितुम्⟫
+完成時態 IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
+未來時態 ⟪श्रयिष्यति⟫  
+被動語態 ⟪श्रीयते⟫  
+使役語態 ⟪श्राययति⟫  
+過去被動分詞 ⟪श्रित⟫  
+不定詞 ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***:sig[⟪सज⟫]***⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫：附著、粘貼在（⟪सप्तम्या⟫）
 
 ::: indent
-Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
-Fut. ⟪संक्ष्यति⟫  
-Pass. ⟪सज्यते⟫  
-Kaus. ⟪सञ्जयति⟫  
-PPP ⟪सक्त⟫  
-Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+完成時態 I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
+未來時態 ⟪संक्ष्यति⟫  
+被動語態 ⟪सज्यते⟫  
+使役語態 ⟪सञ्जयति⟫  
+過去被動分詞 ⟪सक्त⟫  
+不定詞 ⟪संक्तुम्⟫
+衍生自：
+⟪सङ्ग⟫ m.：附著、接觸（⟪तृतीयया⟫）
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
+圖：[⟪सङ्गः⟫](/zh/licenses#lekt4610)
+（圖片來源：[詳情](/zh/licenses#lekt4610)）
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+⟪द्रु⟫ 1P ⟪द्रवति⟫：奔跑、疾行
 
 ::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
-Fut. ⟪द्रोष्यति⟫  
-Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
-PPP ⟪द्रुत⟫  
-Inf. ⟪द्रोतुम्⟫  
-Absol. -⟪द्रुत्य⟫
+完成時態 IIIa（⟪अनिट्⟫） ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
+未來時態 ⟪द्रोष्यति⟫  
+被動語態 ⟪द्रूयते⟫  
+使役語態 ⟪द्रावयति⟫  
+過去被動分詞 ⟪द्रुत⟫  
+不定詞 ⟪द्रोतुम्⟫  
+絕對構詞 -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***:sig[⟪भ्रा⟫]***⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 第一人稱單數主動語態 ⟪भ्रमति ।⟫ 第四人稱單數主動語態 :sig[⟪भ्रा⟫]⟪म्यति⟫ : 徘徊，漫遊
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
-Fut. ⟪भ्रमिष्यति⟫  
-Kaus. ⟪भ्रमयति⟫  
-PPP ***:sig[⟪भ्रा⟫]***⟪न्त⟫  
-Inf. ⟪भ्रमितुम्⟫  
-Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+完成時被動語態 ⟪बभ्राम⟫，⟪बभ्रमुर् ।⟫ 第二人稱單數主動語態 ⟪भ्रेमुर्⟫  
+未來時 ⟪भ्रमिष्यति⟫  
+使役式 ⟪भ्रमयति⟫  
+過去被動分詞 :sig[⟪भ्रा⟫]⟪न्त⟫  
+不定詞 ⟪भ्रमितुम्⟫  
+絕對構詞 -⟪भ्रम्य⟫
+由此衍生：
+⟪विभ्रम⟫ 陽性名詞：徘徊，困惑，錯誤
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 第一人稱單數中動語態 ⟪लम्बते⟫ : 垂掛於（⟪सप्तम्या⟫），依附於（⟪सप्तम्या⟫）
 
 ::: indent
-Perf. I ⟪ललम्बे⟫  
-Fut. ⟪लम्बिष्यते⟫  
-Pass. ⟪लम्ब्यते⟫  
-Kaus. ⟪लम्बयति⟫  
-PPP ⟪लम्बित⟫  
-Inf. ⟪लम्बितुम्⟫  
-Absol. -⟪लम्ब्य⟫
+完成時第一人稱單數 ⟪ललम्बे⟫  
+未來時 ⟪लम्बिष्यते⟫  
+被動語態 ⟪लम्ब्यते⟫  
+使役式 ⟪लम्बयति⟫  
+過去被動分詞 ⟪लम्बित⟫  
+不定詞 ⟪लम्बितुम्⟫  
+絕對構詞 -⟪लम्ब्य⟫
 
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+圖注：[⟪लम्बोदर नमस्तुभ्यम्⟫](/zh/licenses#lekt4601)
+（圖片來源：[詳情](/zh/licenses#lekt4601)）
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 第一人稱單數中動語態 ⟪आलम्बते⟫ : 依附於（⟪द्वितीयया⟫）
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ 連詞：如果
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 第一人稱單數主動語態 ⟪परिभवति⟫ : 包圍，征服，戰勝
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+過去被動分詞 ⟪परिभूत⟫ 第三人稱：戰勝，羞辱，貶低
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下，往下，進入，向後
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***:sig[⟪षी⟫]***⟪दति⟫ : sich niedersetzen
+例如：
+⟪सद्⟫ + ⟪नि⟫ 第一人稱單數主動語態 ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : 坐下
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***:sig[⟪भो⟫]***.
+⟪भोस्⟫ 呼格粒子：表示稱呼的感嘆，例如：嘿、喂、哦、唉、你好、嗨！通常無法翻譯。此粒子具有特殊的連音規則：在所有濁音之前，其形式為:sig[⟪भो⟫]。
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+圖注：[⟪भोः⟫](/zh/licenses#lekt4611)
+（圖片來源：[詳情](/zh/licenses#lekt4611)）
 :::
-## 46.3. 练习
+## 第46.3節。練習
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) 確定並翻譯以下形式：
 
-1.  ⟪वित्थ⟫
-2.  ⟪वेत्थ⟫
-3.  ⟪शिश्रियिढ्वे⟫
-4.  ⟪शिश्ये⟫
-5.  ⟪शिष्ये⟫
-6.  ⟪चक्र⟫
-7.  ⟪तुष्टुव⟫
-8.  ⟪तुष्टम्⟫
-9.  ⟪ददिथ⟫
-10.  ⟪दत्थ⟫
-11.  ⟪जग⟫
-12.  ⟪जग्म⟫
-13.  ⟪एनम्⟫
-14.  ⟪ईय⟫
-15.  ⟪निनेथ⟫
-16.  ⟪शेक⟫
-17.  ⟪सस्मर⟫
-18.  ⟪पप्रष्ठ⟫
-19.  ⟪दुग्ध⟫
-20.  ⟪दुहितः⟫
-21.  ⟪पेदिषे⟫
-22.  ⟪ननर्त⟫
-23.  ⟪ननृत⟫
-24.  ⟪उवोढ⟫
-25.  ⟪जुहोथ⟫
-26.  ⟪जुहुथ⟫
-27.  ⟪सक्तः⟫
-28.  ⟪शक्तः⟫
-29.  ⟪नेश्म⟫
-30.  ⟪सोढुम्⟫
-31.  ⟪ग्रहीष्ये⟫
-32.  ⟪यत्ने⟫
-33.  ⟪यते⟫
-34.  ⟪बाले⟫
-35.  ⟪ऊद⟫
-36.  ⟪ऊदे⟫
-37.  ⟪जज्ञिषे⟫
-38.  ⟪चिक्य⟫
-39.  ⟪अवेक्ष्य⟫
-40.  ⟪वक्थ⟫
-41.  ⟪शिष्ठ⟫
-42.  ⟪पेचिथ⟫
-43.  ⟪हथ⟫
-44.  ⟪हस्त⟫
-45.  ⟪ननन्द⟫
-46.  ⟪श्राम्यसि⟫
-47.  ⟪विषमम्⟫
-48.  ⟪विशामः⟫
-49.  ⟪उवस्थ⟫
-50.  ⟪ददाने⟫
-51.  ⟪सुषुपुः⟫
-52.  ⟪ऊस⟫
+1. ⟪वित्थ⟫
+2. ⟪वेत्थ⟫
+3. ⟪शिश्रियिढ्वे⟫
+4. ⟪शिश्ये⟫
+5. ⟪शिष्ये⟫
+6. ⟪चक्र⟫
+7. ⟪तुष्टुव⟫
+8. ⟪तुष्टम्⟫
+9. ⟪ददिथ⟫
+10. ⟪दत्थ⟫
+11. ⟪जग⟫
+12. ⟪जग्म⟫
+13. ⟪एनम्⟫
+14. ⟪ईय⟫
+15. ⟪निनेथ⟫
+16. ⟪शेक⟫
+17. ⟪सस्मर⟫
+18. ⟪पप्रष्ठ⟫
+19. ⟪दुग्ध⟫
+20. ⟪दुहितः⟫
+21. ⟪पेदिषे⟫
+22. ⟪ननर्त⟫
+23. ⟪ननृत⟫
+24. ⟪उवोढ⟫
+25. ⟪जुहोथ⟫
+26. ⟪जुहुथ⟫
+27. ⟪सक्तः⟫
+28. ⟪शक्तः⟫
+29. ⟪नेश्म⟫
+30. ⟪सोढुम्⟫
+31. ⟪ग्रहीष्ये⟫
+32. ⟪यत्ने⟫
+33. ⟪यते⟫
+34. ⟪बाले⟫
+35. ⟪ऊद⟫
+36. ⟪ऊदे⟫
+37. ⟪जज्ञिषे⟫
+38. ⟪चिक्य⟫
+39. ⟪अवेक्ष्य⟫
+40. ⟪वक्थ⟫
+41. ⟪शिष्ठ⟫
+42. ⟪पेचिथ⟫
+43. ⟪हथ⟫
+44. ⟪हस्त⟫
+45. ⟪ननन्द⟫
+46. ⟪श्राम्यसि⟫
+47. ⟪विषमम्⟫
+48. ⟪विशामः⟫
+49. ⟪उवस्थ⟫
+50. ⟪ददाने⟫
+51. ⟪सुषुपुः⟫
+52. ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(Bildquelle: [Details](/licenses#lekt4612))
+圖：[⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/zh/licenses#lekt4612)
+（圖片來源：[詳情](/zh/licenses#lekt4612)）
 :::
 

@@ -1,129 +1,129 @@
-
 ---
-title: "Übung 50"
+title: "練習五十"
 uebung_id: 50
 category: "Übung"
 last_reconstructed: 2026-05-15
----
-
-
-# 練習50
-
-A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
-
-**⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫**  
-**⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫**  
-**⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫**  
-**⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
-
-> Mein Lehrer ist meine Zuflucht,  
-> Meinen Lehrer verehre ich,  
-> Ich bin mit meinem Lehrer zusammen,  
-> Verehrung meinem Lehrer,  
-> Es gibt nichts Höheres als den Lehrer,  
-> Ich bin das Kind meines Lehrers,  
-> Mein Herz ist bei meinem Lehrer,  
-> Lehrer, hüte mich!
 
 ---
 
-## B) Übersetzungen
 
-### ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
+# 練習五十
 
-**⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫**  
-**⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫**  
-**⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
-**⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
+A) 複習變格：以下詩頌包含⟪गुरु⟫陽性單數的所有變格形式：
 
-> Man gehe auf dem Weg der Guten, auf dem die Väter gegangen sind, auf dem die Grossväter gegangen sind. Wenn man auf diesem Weg geht, dann erleidet man keinen Schaden.
+**⟪गुरुरेव गतिर्गुरुमेव भजे⟫**  
+**⟪गुरुणैव सहास्मि नमो गुरवे ।⟫**  
+**⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
+**⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+> 我的老師是我的歸依處，  
+> 我禮敬我的老師，  
+> 我和我的老師在一起，  
+> 向我的老師致敬，  
+> 沒有比老師更高的存在，  
+> 我是老師的孩子，  
+> 我的心與我的老師同在，  
+> 老師啊，請保護我！
 
-**⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫**  
-**⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫**  
-**⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
-**⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+---
 
-> Familien werden zu Nichtfamilien durch schlechte Heiraten, durch Unterlassen der Riten, durch Nichtstudium der Veden und durch Vergehen gegen Brahmanen.
+## B) 翻譯
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+### ⟪मनुस्मृति ४⟫，⟪१७८⟫
 
-**⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫**  
-**⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫**  
-**⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
-**⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+**⟪येनास्य पितरो याता⟫**  
+**⟪येन याताः पितामहाः ।⟫**  
+**⟪तेन यायात्सतां मार्गम्⟫**  
+**⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> Eine Familie, in der der Gatte mit der Gattin stets zufrieden ist und die Gattin mit dem Gatten, in einer solchen Familie ist stetes Glück gewiss.
+> 當行於善人之道，即諸父所行之道，諸祖所行之道。若人行此道，則不遭受損害。
+
+### ⟪मनुस्मृति ३⟫，⟪६३⟫
+
+**⟪कुविवाहैः क्रियालोपैर्⟫**  
+**⟪वेदानध्ययनेन च ।⟫**  
+**⟪कुलान्यकुलतां यान्ति⟫**  
+**⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
+
+> 家庭因不良婚姻、廢棄儀式、不研習吠陀以及冒犯婆羅門而淪為非家庭。
+
+### ⟪मनुस्मृति ३⟫，⟪६०⟫
+
+**⟪संतुष्टो भार्यया भर्ता⟫**  
+**⟪भर्त्रा भार्या तथैव च ।⟫**  
+**⟪यस्मिन्नेव कुले नित्यम्⟫**  
+**⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
+
+> 丈夫與妻子彼此常懷滿足，此類家庭必享恆久福樂。
 
 ::: media
 ![](/images/uebung081.webp)
-Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung081))
+圖：⟪संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥⟫
+（圖片來源：[詳情](/licenses#uebung081)）
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+### ⟪मनुस्मृति ३⟫, ⟪७५⟫ - ⟪७६⟫：論祭祀之必要性
 
-**⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
-**⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
-**⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫**  
-**⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+**⟪स्वाध्याये नित्ययुक्तः स्याद्⟫**  
+**⟪दैवे चैवेह कर्मणि ।⟫**  
+**⟪दैवे कर्मणि युक्तो हि⟫**  
+**⟪बिभर्तीदं चराचरम् ॥ ४ ॥⟫**
 
-**⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫**  
-**⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫**  
-**⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
-**⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+**⟪अग्नौ प्रास्ताहुतिः सम्यग्⟫**  
+**⟪आदित्यमुपतिष्ठते ।⟫**  
+**⟪आदित्याज्जायते वृष्टिर्⟫**  
+**⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Man engagiere sich stets im Vedastudium und in den Riten für die Götter. Wer sich in den Riten für die Götter engagiert, erhält nämlich diese Welt aus Belebtem und Unbelebtem. Das Opfer, das in rechter Weise ins Feuer geworfen wird, geht zur Sonne, aus der Sonne entsteht Regen, aus Regen Speise, daraus die Geschöpfe.
+> 人應恆常致力於吠陀研習與諸神之儀軌。蓋因投身於諸神儀軌者，將獲致此由有情與無情所構成之世界。恰如其分地投入火中的祭品，會抵達太陽；從太陽產生雨水；由雨水生出食物；由此孕育出眾生。
 
 ::: media
 ![](/images/uebung082.webp)
-Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung082))
+圖：⟪दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥⟫
+（圖片來源：[詳情](/licenses#uebung082)）
 :::
 ---
 
-### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+### ⟪योगसूत्र २⟫, ⟪१६⟫ - ⟪१७⟫
 
-**⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-**⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+**⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
+**⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Aufzugeben ist das zukünftige Leiden.  
-> Ursache dieses Aufzugebenden ist die Verbindung von Sehendem und Sichtbarem [= Wahrnehmendem und Wahrnehmbarem].
+> 應捨棄未來之苦。  
+> 此捨棄行為之根源，在於見者與所見 [= 能知與所知] 的結合。
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+### ⟪कौटिलीयार्थशास्त्र १⟫, ⟪१५⟫：論君王之謀臣
 
-**⟪न⟫ ⟪किंचिदवमन्येत⟫**  
-**⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
+**⟪न किंचिदवमन्येत⟫**  
+**⟪सर्वस्य शृणुयान्मतम् ।⟫**  
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
-**⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+**⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Der König] soll nichts verschmähen, er höre die Meinung eines jeden. Ein Gelehrter eignet sich auch das Wort eines Knaben an, wenn es bedeutsam ist.
+> [國王]不應輕視任何事物，他應聆聽每個人的意見。一位博學者也會採納孩童的言論，如果它有意義的話。
 
 ---
 
-### ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+### ⟪मनुस्मृति २⟫, ⟪१४०⟫ - ⟪१४२⟫: 定義 ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
-**⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫**  
-**⟪वेदमध्यापयेद्द्द्विजः⟫ ⟪।⟫**  
-**⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
-**⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+**⟪उपनीय तु यः शिष्यं⟫**  
+**⟪वेदमध्यापयेद्द्द्विजः ।⟫**  
+**⟪सकल्पं सरहस्यं च⟫**  
+**⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya** nennt man den Zweimalgeborenen, der dem Schüler Upanayana gibt und ihn dann den Veda, das Ritual und die Geheimlehre lehrt.
+> 我們稱「Ācārya」為雙生者，他給予學生Upanayana（入學禮），然後教導他吠陀、儀式和秘密教義。
 
-**⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
-**⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
-**⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
-**⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
+**⟪एकदेशं तु वेदस्य⟫**  
+**⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
+**⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
+**⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya** nennt man den, der um seines Lebensunterhalts willen einen Teil des Veda oder die Hilfswissenschaften lehrt.
+> 我們稱「Upādhyāya」為為了謀生而教導部分吠陀或輔助科學的人。
 
-**⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
-**⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  
-**⟪संभावयति⟫ ⟪चान्नेन⟫**  
-**⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
+**⟪निषेकादीनि कर्माणि⟫**  
+**⟪यः करोति यथाविधि ।⟫**  
+**⟪संभावयति चान्नेन⟫**  
+**⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru** nennt man den Brahmanen, der vorschriftsgemäss Niṣeka und die anderen Rituale vollzieht und ihn durch Speise entstehen lässt.
+> 我們稱「Guru」為婆羅門，他按照規定執行Niṣeka（授精儀式）和其他儀式，並通過食物使他產生。

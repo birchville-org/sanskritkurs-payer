@@ -72,9 +72,11 @@ kaip žodis ir prasmė, kad būtų suprasta
 
 Pradžioje – kuriozas:
 
->"Kai Williamas Jonesas [1746–1794] ir Henry Thomas Colebrooke'as (1765–1857) pirmą kartą nuodugniai išstudijavo sanskritą, iš dalies jį išvertė ir nustatė, kad jis turi turtingą literatūrą ir nemažą giminystę su klasikinėmis kalbomis, jie susidūrė su nemažu pasipriešinimu. Kadangi šis artimas sanskrito ryšys su geografiškai taip tolimomis Europos kalbomis buvo nesuderinamas su senosiomis pažiūromis, kurios arba visas kalbas kildino iš hebrajų kalbos, arba daugumą jų laikė izoliuotomis viena nuo kitos, garsus filologas Dugaldas Stewardas (1753–1828) pasirinko paprasčiausią išeitį, visą istoriją su sanskrito kalba paskelbdamas melu. Jis parašė esė, kurioje bandė įrodyti, kad ją, pagal graikų ir lotynų kalbų pavyzdį, suklastojo sukčiai brahmanai, ir kad tiek kalba, tiek literatūra yra klastotė. Šią nuomonę dar 1840 metais plačiai išdėstė profesorius iš Dublino, Charlesas Williamas Wallas (Göttingische gelehrte Anzeigen 1842 p. 1888)."
 >
 >[Šaltinis: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- T. 2. -- 1923. -- P. 74. -- Prieiga internetu: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Žiūrėta 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Literatūra pradedantiesiems indologams
 
@@ -94,7 +96,9 @@ Pav.: Titulinis lapas
 
 Geriausia sisteminė gramatika:
 
-> **Kielhorn**, Franz \<1840-1908\>: Sanskrito kalbos gramatika / Iš anglų kalbos išvertė W. Solf [1862 - 1936]. -- Berlynas : Dümmler, 1888. -- XIII, 238 p. -- Originalus pavadinimas: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +118,9 @@ Paveikslas: Viršelio pavadinimas
 
 Gerą, glaustą Europos kalbotyros terminijos apžvalgą galima rasti:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \<1856 - 1926\>. Parengė Elmar Seebold. -- 24-asis, peržiūrėtas ir papildytas leidimas. -- Berlynas [ir kt.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Minkštais viršeliais. -- p. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

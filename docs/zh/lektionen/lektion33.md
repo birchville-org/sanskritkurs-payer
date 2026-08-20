@@ -1,419 +1,391 @@
 ---
-title: Lektion 33
+title: "# 第33課"
 lesson_id: 33
 status: stable
+
 ---
 
 # 第33課
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. 疊音（⟪अभ्यास⟫，陽性）
 
-* Die dritte Präsensklasse
-* (sowie einige Verben anderer Präsensklassen),
-* das Perfekt,
-* der reduplizierte Aorist,
-* das Frequentativum und
-* das Desiderativum
+* 第三現在詞類
+* （以及一些其他現在詞類的動詞），
+* 完成時，
+* 疊音式不定過去時，
+* 頻動詞和
+* 欲求式
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heißt Reduplikationssilbe.
+均透過疊音構成。疊音形式中置於詞根之前的部分，稱為疊音音节（Reduplikationssilbe）。
 
-Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
+疊音音节由一個輔音和（或）一個元音構成。
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. 疊音輔音
 
 ::: grammar-box
-**1. Gewöhnlich:**  
-**Wiederholung des ersten Konsonanten der Wurzel**
+**1. 通常：**  
+**重複詞根的第一個輔音**
 :::
-Beispiele:
+例詞：
 
 ::: indent
-**⟪दा⟫** 3 "geben"
-* 3.sg.P.Ind.Präs. **⟪ददाति⟫**
-
-**⟪पॄ⟫** 3 "füllen"
-* 3.sg.P.Ind.Präs. ***:sig[⟪पि⟫]***⟪पर्ति⟫
-
-**⟪मा⟫** 3Ā "messen"
-* 3.sg.Ā.Ind.Präs. ***:sig[⟪मि⟫]***⟪मीते⟫
+⟪दा⟫ 3 "給予"
+* 第三人稱單數直陳式現在時 ⟪ददाति पॄ⟫ 3 "充滿"
+* 第三人稱單數直陳式現在時 :sig[⟪पि⟫]⟪पर्ति मा⟫ 3Ā "測量"
+* 第三人稱單數中動直陳式現在時 :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
+**2. 若詞根以送氣輔音開頭，則疊音時使用其對應的不送氣輔音。**
 :::
-Beispiele:
+例詞：
 
 ::: indent
-**:sig[⟪धा⟫]** 3 "setzen"
-* 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
-
-**⟪भी⟫** 3 "fürchten"
-* 3.sg.P.Ind.Präs. ***:sig[⟪बि⟫]***⟪भेति⟫
+⟪धा⟫ 3 "放置"
+* 第三人稱單數直陳式現在時 ⟪दधाति भी⟫ 3 "恐懼"
+* 第三人稱單數直陳式現在時 :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
+**3. 若詞根以軟齦音（Guttural）開頭，則疊音時使用其對應的不送氣腭音：**
 
 :::
 ::: indent
-**⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
-**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
+⟪क्⟫、⟪ख्⟫ 疊音為 ⟪च् ग्⟫、⟪घ्⟫ 疊音為 ⟪ज्⟫
 :::
-**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-Beispiele:
+**⟪ह्⟫ 始終疊音為 ⟪ज्⟫。**
+例詞：
 
 ::: indent
-**⟪हु⟫** 3 "(zum Opfer) ins Feuer gießen"
-* 3.sg.P.Ind.Präs. **⟪जुहोति⟫**
+⟪हु⟫ 3 "（向祭火）澆注"
+* 第三人稱單數直陳式現在時 ⟪जुहोति⟫
 :::
 ::: grammar-box
-**4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.**
+**4. 若詞根以多個輔音開頭，則僅重複第一個輔音（如有必要，可應用規則2或3）。**
 :::
 ::: grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert.**
+**5. 若詞根以「擦音 + 清輔音」的輔音群開頭，則不重複擦音，而是根據上述規則重複其後的清輔音。**
 :::
-Beispiel:
+範例：
 
 ::: indent
-**⟪स्था⟫** 1 "stehen"
-* 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
+⟪स्था⟫ 1 「站立」
+* 第三人稱單數直陳式現在時 ⟪तिष्ठति⟫
 :::
-## 33.2. 第三类现在时词干 (⟪जुहोत्यादि⟫ = “⟪जुहोति⟫ 等等”)
+## 33.2. 第三現在時類（⟪जुहोत्यादि⟫ =「⟪जुहोति⟫ 等」）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-**starker Stamm:**  
-**reduplizierte hochstufige Wurzel + Endung**
+**強詞幹：**  
+**重音的、帶有增補音節（reduplication）的词根 + 詞尾**
 
-**schwacher Stamm:**  
-**reduplizierte tiefstufige Wurzel + Endung**
+**弱詞幹：**  
+**非重音的、帶有增補音節（reduplication）的词根 + 詞尾**
 
-**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.**
+**關於增補音節輔音，請參照上述規則。**
 :::
-### 33.2.1. 第三类现在时词干的重叠元音
+### 33.2.1. 第三現在時類的增補音節元音
 
 ::: grammar-box
-* **Der regelmäßige Reduplikationsvokal ist -i-**
-* **u-haltige Wurzeln reduplizieren mit -u-**
-* **die Wurzeln ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ mit -a-**
+* **規則的增補音節元音是 -i-**
+* **含有 u 的词根以 -u- 進行增補音節化**
+* **词根 ⟪दा⟫、⟪धा⟫、⟪हा⟫ 以 -a- 進行增補音節化**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-**⟪हु⟫** 3P "(zum Opfer) ins Feuer gießen"
+⟪हु⟫ 第三人稱複數 「（向祭火）澆注」
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **強詞幹：** ⟪जुहो⟫
+* **弱詞幹：** ⟪जुहु⟫
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| | 第三人稱單數 P. | 第三人稱複數 P. | 第三人稱單數 Ā. | 第三人稱複數 Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **直陳式現在時** | ⟪जुहोति⟫ | ⟪जुह्वति⟫: brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;: brjuhu + ate |
+| **未完成過去時** | ⟪अजुहोत्⟫: bra-juho-t | ⟪जुहवुर्⟫: bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;: bra-juhu + ata |
+| **願望式** | ⟪जुहुयात्⟫: brjuhu-yā-t | ⟪जुहुयुर्⟫: brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;: brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;: brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. 關於 ā 的元音交替（Ablaut）
 
 ā kann
 
-* einerseits Dehnstufe einer der Ablautreihen mit -a- sein
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* 一方面，它是帶有 -a- 的元音交替系列中的延長階段（Dehnstufe）
+* 另一方面，它是 ā 系列中的高階階段（Hochstufe）
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+ā 系列中最重要的兩個元音交替系列是：
 
 ::: grammar-box
 **A.**
 
-* **Tiefstufe**
-  * **vor Konsonant: -i-**  
-    z.B. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
-  * **vor Vokal: Ø**  
-    z.B. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
-* **Hochstufe: -ā-**  
-  z.B. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
+* **低階階段**
+* **在輔音前：-i-**  
+例如 ⟪धा⟫ 過去分詞：⟪हित⟫ (hi-ta)
+* **在元音前：Ø**  
+例如 ⟪धा⟫ 第三人稱複數 P.直陳式現在時 ⟪दधति⟫ (dadh-ati)
+* **高階階段：-ā-**  
+例如 ⟪धा⟫ 第三人稱單數 P.直陳式現在時 ⟪दधाति⟫
 :::
-Hierher gehört z.B. auch:
+例如，以下也屬於此類：
 
 ::: indent
 ⟪स्था⟫ 1
-* PPP **⟪स्थित⟫** (sthi-ta)
-* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
+* PPP ⟪स्थित⟫ (sthi-ta)
+* 3.sg.P.Fut. ⟪स्थास्यति⟫ (sthā-sya-ti)
 :::
 ::: grammar-box
 **B.**
 
-* **Tiefstufe: -ī-**  
-  z.B. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
-* **Hochstufe: -ā-**  
-  z.B. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
+* **弱級：-ī-**  
+例如，⟪पा⟫ 1：PPP ⟪पीत⟫ (pī-ta)
+* **強級：-ā-**  
+例如，⟪पा⟫ 1：不定詞 ⟪पातुम्⟫
 :::
-## 33.4. 第三现在时类中以 -ā 结尾的词根
+## 33.4. 第三現在詞類中以 -ā 結尾的根
 
 ::: grammar-box
-**Wurzeln auf -ā (außer ⟪दा⟫ und :sig[⟪धा⟫]) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+**以 -ā 結尾的根（除 ⟪दा⟫ 和 ⟪धा⟫ 外）在弱級詞幹中通常變為 -ī-**（參見 Thumb-Hauschild 第一卷，第1部分，第271頁。推測此處是以上述的 B 類元音交替為範例，儘管這些根在其他情況下遵循 A 類變換），**在元音詞尾前，根元音完全消失（參見 A 類元音交替）。**
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-**⟪मा⟫** 3Ā "messen"
+⟪मा⟫ 3Ā 「測量」
 
-| | 3. sg. Ā. | 3. pl. Ā. |
+| | 第三人稱單數 Ā. | 第三人稱複數 Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
-| **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
+| **現在時直陳式** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **未完成時** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
+| **虛擬語氣** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-**⟪हा⟫** 3P "verlassen"
+⟪हा⟫ 3P 「離開」
 
-| | 3. sg. P. | 3. pl. P. |
+| | 第三人稱單數 P. | 第三人稱複數 P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
-| **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **現在時直陳式** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **未完成時** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **虛擬語氣** | ⟪जह्यात्⟫:brjah-yā-t:br（該根 ⟪हा⟫ 在虛擬語氣 -yā/y 之前具有與元音前相同的形式！） | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln **⟪दा⟫** und **:sig[⟪धा⟫]**
+### 33.4.1. 根 ⟪दा⟫ 和 ⟪धा⟫
 
 ::: grammar-box
-**Die Wurzeln ⟪दा⟫ und :sig[⟪धा⟫] reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
+**根 ⟪दा⟫ 和 ⟪धा⟫ 以元音 -a- 進行重疊，並在弱級詞幹中失去根元音。**
 
-**Beachten Sie bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
+**請注意 ⟪धा⟫ 的送氣異化規則！**
 :::
 ::: grammar-box
-**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen"
+⟪धा⟫ 3U "放置、確定、分配"
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| | 第三人稱單數主動 | 第三人稱複數主動 | 第三人稱單數被動 | 第三人稱複數被動 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
-| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
-| **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
+| **現在時直陳式** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(解釋：Thumb-Hauschild 1,1 第302-303頁) | ⟪दधते⟫:brdadh-ate |
+| **未完成時** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **虛擬語氣** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **:sig[⟪धा⟫]** **dh** durch **d** ersetzt. Also:
+⟪दा⟫ 的詞形是透過在 ⟪धा⟫ 的變位表中將 **dh** 替換為 **d** 而得來的。因此：
 
 ::: grammar-box
-**⟪दा⟫** 3U "geben"
+⟪दा⟫ 3U "給予"
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| | 第三人稱單數主動 | 第三人稱複數主動 | 第三人稱單數被動 | 第三人稱複數被動 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
-| **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
-| **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
+| **現在時直陳式** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **未完成時** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
+| **虛擬語氣** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. 第三现在时类词根的⟪परस्मैपद⟫现在分词
+## 33.5. 第三類現在詞根的陽動現在分詞
 
 ::: grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
+**第三類動詞的所有陽動現在分詞形式均源自弱幹。**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
+**例外：中性主格/賓格複數可選擇性地從強幹或弱幹構成。**
 :::
-**⟪दा⟫** Partizip Präsens Parasmaipada:
+⟪दा⟫ 陽動現在分詞：
 
 ::: grammar-box
-| | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
+| | 陽性:br⟪पुंल्लिङ्ग⟫ | 中性:br⟪नपुंसकलिङ्ग⟫ | 陰性:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
-| **Singular** | | | |
-| **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
-| **2. Akkusativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
-| **Plural** | | | |
-| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
-| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+| **單數** | | | |
+| **1. 主格** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. 賓格** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
+| **複數** | | | |
+| **1. 主格** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. 賓格** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
-Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)
+類似 ⟪जुह्वत्⟫ (juhu-at + s)
 
-## 33.6. 词汇表
+## 第33.6節。詞彙表
 
-**⟪दा⟫** 3U **⟪ददाति⟫**: geben
+⟪दा⟫ 3U ⟪ददाति⟫：給予
 
 ::: indent
-**Fut.**  ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
-**PPP** ⟪दत्त⟫  
-**Inf.** ⟪दातुम्⟫
+**未來式**  ⟪दास्यति⟫  
+**被動式** ⟪दीयते⟫  
+**使役式** ⟪दापयति⟫  
+**PPP（過去被動分詞）** ⟪दत्त⟫  
+**不定式** ⟪दातुम्⟫
 
-davon:
+派生自：
 
-**⟪दान⟫** n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ 中性名詞：給予、贈禮、慷慨
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+圖注：⟪दानम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3306)）
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫：（接收）拿取、佔有、帶走
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**絕對分詞** ⟪आदाय⟫：帶賓格，表示「與……一起」、「陪同」
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+圖注：⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+（圖片來源：[詳情](/zh/licenses#lekt3307)）
 :::
-***:sig[⟪धा⟫]*** 3U ***:sig[⟪दधाति⟫]***: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]：放置、設定、分配
 
 ::: indent
-**Fut.** ***:sig[⟪धास्यति⟫]***  
-**Pass.** ***:sig[⟪धीयते⟫]***  
-**Kaus.** ***:sig[⟪धापयति⟫]***  
-**PPP** ***:sig[⟪हित⟫]*** (!!)  
-**Inf.** ***:sig[⟪धातुम्⟫]***
+**未來式** :sig[⟪धास्यति⟫]  
+**被動式** :sig[⟪धीयते⟫]  
+**使役式** :sig[⟪धापयति⟫]  
+**PPP（過去被動分詞）** :sig[⟪हित⟫] (!!)  
+**不定式** :sig[⟪धातुम्⟫]
 :::
-**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫：將全部注意力集中於某事、集中心力
 
 ::: indent
-davon:
+派生自：
 
-**⟪समाधि⟫** m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ 陽性名詞：內在的集中、最高的注意力
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+圖注：⟪समाधि⟫
+（圖片來源：[詳情](/zh/licenses#lekt3305)）
 :::
-**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫：充滿、填滿
 
 ::: indent
-Merke:
-3.pl.P ***:sig[⟪पिपुरति⟫]***  
-3.sg.Impf.P ***:sig[⟪अपिपर्⟫]*** (aus: \*apipart)  
-3.pl.Impf.P ***:sig[⟪अपिपरुर्⟫]***  
-3.sg.Opt.P ***:sig[⟪पिपूर्यात्⟫]***
+注意：
+3人複數現在被動 :sig[⟪पिपुरति⟫]  
+3人單數未完成時態被動 :sig[⟪अपिपर्⟫] （源自：\*apipart）  
+3人複數未完成時態被動 :sig[⟪अपिपरुर्⟫]  
+3人單數祈願式被動 :sig[⟪पिपूर्यात्⟫]
 
-**Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
-**Pass.** ⟪पूर्यते⟫  
-**Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
-**PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
+**未來式** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
+**被動式** ⟪पूर्यते⟫  
+**使役式** ⟪पूरयति⟫ / ⟪पारयति⟫  
+**PPP（過去被動分詞）** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ 僅有 **被動式** ⟪सम्पूर्यते⟫ 和 **使役式**：完全充滿
 
-**⟪भी⟫** 3P **⟪बिभेति⟫**: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫：畏懼（接離格、屬格）
 
 ::: indent
-**Fut.** ⟪भेष्यति⟫  
-**Pass.** ⟪भीयते⟫  
-**Kaus.** ⟪भाययति⟫  
-**PPP** ⟪भीत⟫  
-**Inf.** ⟪भेतुम्⟫
+**未來式** ⟪भेष्यति⟫  
+**被動式** ⟪भीयते⟫  
+**使役式** ⟪भाययति⟫  
+**過去分詞** ⟪भीत⟫  
+**不定詞** ⟪भेतुम्⟫
 
-davon:
+由此衍生：
 
-**⟪भय⟫** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ n.：恐懼、害怕；危險（主觀與客觀兩方面）
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+圖注：⟪भयम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3304)）
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 第三類動詞 ⟪बिभर्ति⟫：攜帶、帶來；維持、養育
 
 ::: indent
-**Fut.** ⟪भरिष्यति⟫  
-**Pass.** ⟪भ्रियते⟫  
-**Kaus.** ⟪भारयति⟫  
-**PPP** ⟪भृत⟫  
-**Inf.** ⟪भर्तुम्⟫
+**未來式** ⟪भरिष्यति⟫  
+**被動式** ⟪भ्रियते⟫  
+**使役式** ⟪भारयति⟫  
+**過去分詞** ⟪भृत⟫  
+**不定詞** ⟪भर्तुम्⟫
 
-davon:
+由此衍生：
 
-**⟪भार⟫** m.: Last
+⟪भार⟫ m.：負擔
 :::
-**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen
+⟪मा⟫ 第三類動詞（以-a結尾） ⟪मिमीते⟫：測量
 
 ::: indent
-**Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
-**Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
-**PPP** ⟪मित⟫  
-**Inf.** ⟪मातुम्⟫
+**未來式** ⟪मास्यति⟫ / ⟪मास्यते⟫  
+**被動式** ⟪मीयते⟫  
+**使役式** ⟪मापयति⟫  
+**過去分詞** ⟪मित⟫  
+**不定詞** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 第三類動詞（以-a結尾） ⟪उपमिमीते⟫：比較
 
 ::: indent
-davon:
+由此衍生：
 
-**⟪उपमा⟫** f.: Vergleich
+⟪उपमा⟫ f.：比較
 
-**⟪प्रतिमा⟫** f.: Abbild
+⟪प्रतिमा⟫ f.：圖像、模型
 :::
-**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen
+⟪हा⟫ 第三類動詞（以-p結尾） ⟪जहाति⟫：離開
 
 ::: indent
-**Fut.** ⟪हास्यति⟫  
-**Pass.** ⟪हीयते⟫  
-**Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
-**Inf.** ⟪हातुम्⟫
-von PPP **⟪हीन⟫**:
+**未來式** ⟪हास्यति⟫  
+**被動式** ⟪हीयते⟫  
+**使役式** ⟪हापयति⟫  
+**過去分詞** ⟪हीन⟫：被遺棄的、缺乏的、有缺陷的  
+**不定詞** ⟪हातुम्⟫
+源自過去分詞 ⟪हीन⟫：
 
-**⟪हीनयान⟫** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **⟪महायान⟫**; der mangelhafte Weg (**⟪यान⟫** zu **⟪या⟫** 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **⟪थेरवाद⟫**.
+⟪हीनयान⟫ n.：有缺陷的載具（佛教用語）：由「大乘」⟪महायान⟫代表所使用的輕蔑稱呼；有缺陷的道路（⟪यान⟫ 源自 ⟪या⟫ 2：走、行）。此詞 ⟪हीनयान⟫已不再使用。今日仍存續的古老佛教形式稱為 ⟪थेरवाद⟫。
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+圖注：⟪हीनयानमेव⟫
+（圖片來源：[詳情](/zh/licenses#lekt3303)）
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 第三類動詞（以-p結尾） ⟪जुहोति⟫：倒入火中（作為祭品，特別是融化的酥油）
 
 ::: indent
-**Fut.** ⟪होष्यति⟫  
-**Pass.** ⟪हूयते⟫  
-**Kaus.** ⟪हावयति⟫  
-**PPP** ⟪हुत⟫  
-**Inf.** ⟪होतुम्⟫
+**未來式** ⟪होष्यति⟫  
+**被動式** ⟪हूयते⟫  
+**使役式** ⟪हावयति⟫  
+**過去分詞** ⟪हुत⟫  
+**不定詞** ⟪होतुम्⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+圖：⟪घृतमग्नौ जुहोति⟫
+（圖片來源：[詳情](/zh/licenses#lekt3302)）
 :::
-**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ n.：酥油、澄清黃油（⟪घी⟫ / گھی / ঘী）
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+「酥油是將無鹽黃油在大鍋中慢火熬煮，直到所有水分蒸發且蛋白質沉澱至底部製成。煮熟並澄清的黃油隨後被舀出，以避免攪動鍋底的乳固體。與黃油不同，只要將酥油存放在密閉容器中以防止氧化並保持無水狀態，它就可以在不冷藏的情況下長期儲存。酥油的質地、顏色或味道取決於製作黃油所用牛奶的來源。在印度，酥油通常用水牛乳製成，因為它往往比牛乳更白。」
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[來源：http://en.wikipedia.org/wiki/Ghee。——訪問於2008-12-26]
 :::
-## 33.7. 练习
+## 第33.7課。練習
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
+A) 請在以下句型中填入括號內單詞的相應形式：
 
-⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
+⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने बहुवचने च⟫) ... ⟪अन्नं ददाति ।⟫ (⟪भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु⟫)
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
+B) 請填入括號內指定動詞在直陳式現在時、未完成過去時和虛擬語氣中的相應形式：
 
-⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
+⟪ब्राह्मणो घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥ बुद्धगता भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥ सुगतः कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥ दुर्जना भिक्षुभ्यो ऽन्नं न⟫ ... (⟪दा⟫) ⟪॥४॥ साधुः कृष्णे मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 
-⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫
+⟪ईश्वरो लोकान्⟫ ... ⟪जनास्तु न⟫ ... (⟪मा⟫) ⟪॥६॥ दासा भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥ ब्राह्मणी पात्रं जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
-⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫
+C) 請翻譯並將單數句轉換為複數句，反之亦然：
 
-⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫
-
-⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
-
-⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫
-
-⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫
-
-⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
-
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt:
-
-⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
-
-⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
+⟪योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥ यो भिक्षवे दानानि दद्यात्सो ऽपि दानपुण्यमाददीत ॥२॥ ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3308.webp)
-Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Bildquelle: [Details](/licenses#lekt3308))
+圖：⟪पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3308)）
 :::
-⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
-
-⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
-
-⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
-
-⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
+⟪क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥ देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥ यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥ मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥⟫
 

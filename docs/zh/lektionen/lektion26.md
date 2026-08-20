@@ -1,123 +1,125 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "第26課"
+subtitle: "詞中-s-的腦化律"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第26課
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. 詞中-s-的腭化規律
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **⟪अनुस्वार⟫** oder **⟪विसर्ग⟫** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+當 **k, r, l** 或除 **a, ā** 外的任何 **元音** — 直接或僅通過 ⟪अनुस्वार⟫ 或 ⟪विसर्ग⟫ 間隔 — 緊接其前，且後接非 **ṛ, r** 的音時，**-s-** 會替換為 **-ṣ-**。
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
+此 Sandhi（合音）規則同樣適用於複合詞中無聲軟腭音與雙唇音前的 **⟪दुस्⟫-**。
 :::
-*Beispiele:*
+*範例：*
 ::: indent
-**⟪तेषाम्⟫** (aus: *te-sām*)
+⟪तेषाम्⟫（源自：*te-sām*）
 
-aber: **⟪तासाम्⟫** (*tā-sām*)
+但： ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. 詞中齒音的腭化規律
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
+齒塞音在捲舌音（包括 **-ṣ-**）之後，會替換為相應的捲舌音：
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*（**ṣ** 是因前接 **i**，**ṭh** 是因隨後接 **ṣ**）*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. 腭音、軟腭音、ṣ、h + -s 的詞尾 Sandhi
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten
+範例見下文
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Grassmann 送氣音異化規律
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+**兩個送氣音的直接連續（送氣音 - 元音 - 送氣音）會導致第一個音的送氣特徵喪失：**
 
-Beispiel:
+範例：
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**若第二個音因音變規律喪失送氣特徵，則第一個音會重新獲得送氣特徵。**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
+範例：見下文 ⟪दुह्⟫ 和 ⟪बुध्⟫ 的未來時態
 ::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Graßmann
-(Bildquelle: [Details](/licenses#lekt2601))
+圖：Hermann Grassmann
+（圖片來源：[詳情](/zh/licenses#lekt2601)）
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. 詞尾-sandhi：-m、-n 在咝音前的變化
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+**在咝音前，-n 和 -m 會被替換為 -ṃ-：**
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+範例：見下文 ⟪मन्⟫ 的未來時
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. 簡單未來時（⟪ऌत्⟫，⟪भविष्यन्ती⟫ 陰性）的用法
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**簡單未來時（⟪ऌत्⟫，⟪भविष्यन्ती⟫ 陰性）表達：**
 
-- **die Zukunft**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
-- **Hoffnung**
-- **Befürchtung**
-- **Wahrscheinlichkeit**
-- **Meinung des Sprechenden**
-- **Befehl**
+**未來**
+**意圖或意願的行為（「我將去」、「我想去」）**
+**預期（「事情將會如此發生」）**
+**希望**
+**擔憂**
+**可能性**
+**說話者的觀點**
+**命令**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+**未來時在部分情況下與願望語氣（Optativ）形成競爭關係（見後文）。**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+例如，⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = 「發願者前往寺廟。」
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602))
+圖：⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+（圖片來源：[詳情](/zh/licenses#lekt2602)）
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. 簡單未來時（⟪ऌत्⟫，⟪भविष्यन्ती⟫ 陰性）的構成
 
 ::: grammar-box
-**Einfaches Futur:**
+**簡單未來時：**
 
 :::
 ::: indent
-**Einfaches Futur:**
+**未來時詞幹 + 主要人稱變位結尾**
 :::
 ::: grammar-box
-**Futurstamm:**
+**未來時詞幹：**
 
 :::
 ::: indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+**（通常）強級詞根 + -sya**  
+**或**  
+**（通常）強級詞根 + -i- + -sya (= - iṣya)**
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
+**哪些詞根採用哪種未來時詞幹構成方式，必須透過學習其詞形變化表來掌握！**  
+**一般而言，未來時的詞根形式與連接元音與不定式一致。**  
+**某些詞根的未來時可選擇性地帶或不帶連接元音 -i- 來構成。**  
+**未來時主動分詞（Parasmaipada）是通過在未來時詞幹後附加後綴 -nt- 構成的，陰性形式可選地以 -ntī 或 -tī 結尾：**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
 
-| Wurzel | Futur 3. sg. P (Ā) |
+| 詞根 | 未來式第三人稱單數（Ā） |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -130,15 +132,15 @@ Beispiele:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ 在清音前 = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. 练习
+## 26.8. 練習
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:  
+構建在數、人稱和語態（Parasmaipada，Ātmanepada）上相應的未來式形式：  
 
-A) ohne Bindevokal -i-:
+A) 無連接元音 -i-：
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +149,7 @@ A) ohne Bindevokal -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (構建 ⟪दृश्⟫ 的未來式)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +178,7 @@ A) ohne Bindevokal -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-:
+B) 帶有連接元音 -i-：
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +195,7 @@ B) Mit Bindevokal -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (未來式 Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +204,11 @@ B) Mit Bindevokal -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-:
+C) 未來時可選，帶與不帶 -i-：
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
+3.  ⟪अश्नुवते⟫（未來時他動詞）
+
+
 

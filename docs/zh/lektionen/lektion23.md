@@ -1,318 +1,243 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "第23課"
+subtitle: "不定詞（⟪तुमुन्⟫）"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第23課
 
-## 23.1. 不定式 (⟪तुमुन्⟫)
+## 23.1. 不定詞 (⟪तुमुन्⟫)
 
 ::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
+**若要在梵語中表達某項活動是出於另一項活動的目的而進行（「為了」），可以使用不定詞 (⟪तुमुन्⟫) 來表示該目的活動。不定詞主要指稱目的或意圖：**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = 「羅摩去聽了導師的演講。」
 
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:**
+**請注意，不定詞——除了一些明確定義的例外情況外——不能作為動詞的主語或賓語：**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+> 因此，「他學習跳舞」不能用不定詞（「跳舞」）來翻譯，而必須使用動名詞，例如：⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: 「學習」)。
 
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:**
+**不定詞也用於表示「想要」或「渴望」意義的動詞和名詞，當不定詞的主語（⟪कर्तृ⟫）與動詞的主語相同時：**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = 「羅摩想要聽導師的演講。」
 
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":**
+**不定詞還用於表示「能夠」、「有」、「知道」、「開始」等意義的動詞：**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = 「聖人不能作惡。」
+> ⟪अस्ति भोक्तुमन्नम्⟫ = 「有食物可以吃」（⟪भुज्⟫ 7: Ā: 吃，P: 統治）
 
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":**
+**不定詞也用於表示「足夠」、「能夠」意義的詞，以及表示「能力」、「力量」、「技巧」意義的名詞：**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
+> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = 「火有燃燒一切的力量。」
 
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
+**即使使用表示「時間」的詞彙，不定式也可用於表達如「是時候……」之類的句型：**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
+> ⟪कालो भोजनं सेवितुम्⟫ = 「是時候專心用餐了」=「是時候進食了」
 
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
+**不定式可作主動或被動使用。德語的被動不定式在梵文中透過將依賴該不定式的動詞（尤其是⟪शक्⟩「能夠、可以」）變為被動語態來表達。**
 
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.**
+**就受詞而言，不定式的行為類似於動詞形式；也就是說，當使用主動式不定式時，直接受詞（⟪कर्मन्⟩）位於與格（⟪द्वितीया⟩），或該動詞所要求的格位；當使用被動式不定式時，直接受詞位於主格。**
 
-z.B.
+例如：
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = 「聖人不會作惡。」
 
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".**
+**在第二人稱中，⟪अर्ह्⟩ + 不定式常用作委婉的命令：「你應該……」。**
 
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
+**當不定式依附於名詞時，不得與該名詞結合成複合詞。例外情況是 Bahuvrīhi（異類複合），其第二成分為⟪काम⟩ 或 ⟪मनस्⟩：**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
+> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = 「其願望是說話的人；想要說話的人」。
 :::
-## 23.2. 不定式的构成 (⟪तुमुन्⟫)
+## 23.2. 不定式的構成（⟪तुमुन्⟩）
 
 ::: grammar-box
-**oder**
+**高階詞根 + -tum**
 
-**oder**
+**或**
 
-**oder**
+**高階詞根 + -i- + -tum**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
+**詞尾的輔音在 -tum 之前會依照與 PPP（過去被動分詞）之 -ta 相同的規則進行變化。**
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
+**帶有前綴的動詞以與簡單詞根相同的方式構成不定式。**
 :::
-Beispiele:
+範例：
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+關於連接元音 -i- 的使用，無法制定固定的規則。基本上，不定式中連接元音的分佈與未來時一致。
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
+對於迄今為止學過的詞根，以下不定式特別需要注意：
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+>> -ra- 作為 -ṛ- 的高階階段，在無分詞中：
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+其他在倒數第二個位置帶有 -ṛ- 的詞根，如果它們是 aniṭ（非易位）的，則可選擇性地使用 -ra- 或 -ar-。
 
-## 23.3. 迄今所学词根的不定式 (⟪तुमुन्⟫)
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫  
+## 23.3. 迄今為止學過的詞根的不定式 (⟪तुमुन्⟫)
 
-## 23.4. 词汇表
+⟪अद्⟫ 第二人稱單數 ⟪अत्तुम् अश्⟫ 第五類動詞 ⟪अशितुम् । अष्टुम् अस्⟫ 第二人稱單數 —  
+⟪अस्⟫ 第四人稱單數 ⟪असितुम् आप्⟫ 第五類動詞 ⟪आप्तुम् आस्⟫ 第二人稱單數 ⟪आसितुम् इ⟫ 第二人稱單數 ⟪एतुम् इष्⟫ 第六類動詞 ⟪एष्टुम् । एषितुम् कुप्⟫ 第四類動詞 ⟪कोपितुम् कृ⟫ 第八類動詞 ⟪कर्तुम् कृष्⟫ 第一人稱單數 ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 第六類動詞 ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 第四類動詞 ⟪कोद्धुम् खाद्⟫ 第一人稱單數 ⟪खादितुम् गम्⟫ 第一人稱單數 ⟪गन्तुम् जन्⟫ 第四類動詞 ⟪जनितुम् जि⟫ 第一人稱單數 ⟪जेतुम् जीव्⟫ 第一人稱單數 ⟪जीवितुम् तन्⟫ 第八類動詞 ⟪तनितुम् दह्⟫ 第一人稱單數 ⟪दग्धुम् दिश्⟫ 第六類動詞 ⟪देष्टुम् दुष्⟫ 第四類動詞 —  
+⟪दुह्⟫ 第二類動詞 ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 第二類動詞 ⟪द्वेष्टुम् नी⟫ 第一類動詞 ⟪नेतुम् नृत्⟫ 第四類動詞 ⟪नर्तितुम् पच्⟫ 第一類動詞 ⟪पक्तुम् पद्⟫ 第四類動詞 ⟪पत्तुम् पा⟫ 第一人稱單數 ⟪पातुम् पा⟫ 第二人稱單數 ⟪पातुम् प्रच्छ्⟫ 第六類動詞 ⟪प्रष्टुम् बुध्⟫ 第一類動詞，第四類動詞 ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 第二類動詞 —  
+⟪भज्⟫ 第一類動詞 ⟪भक्तुम् भू⟫ 第一人稱單數 ⟪भवितुम् मन्⟫ 第四類動詞 ⟪मन्तुम् मुच्⟫ 第六類動詞 ⟪मोक्तुम् मुह्⟫ 第四類動詞 ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 第四類動詞 ⟪मर्तुम् यज्⟫ 第一類動詞 ⟪यष्टुम् युध्⟫ 第四類動詞 ⟪योद्धुम् रक्ष्⟫ 第一人稱單數 ⟪रक्षितुम् रुद्⟫ 第二人稱單數 ⟪रोदितुम् लभ्⟫ 第一人稱單數 ⟪लब्धुम् लुभ्⟫ 第四類動詞 ⟪लोभितुम् वच्⟫ 第二人稱單數 ⟪वक्तुम् वद्⟫ 第一人稱單數 ⟪वदितुम् विश्⟫ 第六類動詞 ⟪वेष्टुम् वृत्⟫ 第一人稱單數 ⟪वर्तितुम् श्रु⟫ 第五類動詞 ⟪श्रोतुम् सद्⟫ 第一人稱單數 ⟪सत्तुम् सह्⟫ 第一人稱單數 ⟪सहितुम् । सोढुम् सिच्⟫ 第六類動詞 ⟪सेक्तुम् सु⟫ 第五類動詞 ⟪सोतुम् सृज्⟫ 第六類動詞 ⟪स्रष्टुम् स्तु⟫ 第二類動詞 ⟪स्तोतुम् स्था⟫ 第一人稱單數 ⟪स्थातुम् स्मृ⟫ 第一人稱單數 ⟪स्मर्तुम् हन्⟫ 第二人稱單數 ⟪हन्तुम्⟫
 
-⟪समान⟫ ⟪३⟫: gleich
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, größer, besser, außerordentlich
+## 23.4. 詞彙表
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+⟪समान ३⟫：相等、相同
 
-## 23.5. 练习
+⟪सामान्य⟫ n.：平等、一致
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+⟪अधिक ३⟫ ：過剩的、額外的、更大的、更好的、非凡的
 
-1.  ⟪आप्⟫
-2.  ⟪इ⟫
-3.  ⟪गम्⟫
-4.  ⟪कृ⟫
-5.  ⟪क्रुध्⟫
-6.  ⟪जि⟫
-7.  duh (⟪दुह्⟫)
-8.  ⟪दिश्⟫
-9.  ⟪दह्⟫
-10.  ⟪सृज्⟫
-11.  ⟪द्विष्⟫
-12.  ⟪नी⟫
-13.  ⟪पद्⟫
-14.  ⟪पा⟫ ⟪१⟫
-15.  ⟪पा⟫ ⟪२⟫
-16.  ⟪भज्⟫
-17.  ⟪कृष्⟫
-18.  ⟪सु⟫
-19.  ⟪मन्⟫
-20.  ⟪मुच्⟫
-21.  ⟪मृ⟫
-22.  ⟪यज्⟫
-23.  ⟪युध्⟫
-24.  ⟪वच्⟫
-25.  ⟪विश्⟫
-26.  ⟪श्रु⟫
-27.  ⟪प्रच्छ्⟫
-28.  ⟪सिच्⟫
-29.  ⟪स्तु⟫
-30.  ⟪स्था⟫
-31.  ⟪स्मृ⟫
-32.  ⟪हन्⟫
-33.  ⟪लभ्⟫
-34.  ⟪अद्⟫
-35.  ⟪दृश्⟫
-36.  ⟪पच्⟫
-37.  ⟪सद्⟫
+⟪विशेष⟫ m.：特殊性、規範、種差（differentia specifica）
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
 
-1.  ⟪आस्⟫
-2.  ⟪नृत्⟫
-3.  ⟪रक्ष्⟫
-4.  ⟪रुद्⟫
-5.  ⟪वद्⟫
-6.  ⟪वृत्⟫
-7.  ⟪कुप्⟫
+## 23.5. 練習
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+A) 以下詞根構成不定式時不加連接元音 -i-。請在注意音變的情況下，為以下詞根構成不定式：
 
-1.  ⟪अश्⟫
-2.  ⟪इष्⟫
-3.  ⟪बुध्⟫
-4.  ⟪मुह्⟫ (3 Formen!)
-5.  ⟪सह्⟫
+1. ⟪आप्⟫
+2. ⟪इ⟫
+3. ⟪गम्⟫
+4. ⟪कृ⟫
+5. ⟪क्रुध्⟫
+6. ⟪जि⟫
+7. duh（⟪दुह्⟫）
+8. ⟪दिश्⟫
+9. ⟪दह्⟫
+10. ⟪सृज्⟫
+11. ⟪द्विष्⟫
+12. ⟪नी⟫
+13. ⟪पद्⟫
+14. ⟪पा १⟫
+15. ⟪पा २⟫
+16. ⟪भज्⟫
+17. ⟪कृष्⟫
+18. ⟪सु⟫
+19. ⟪मन्⟫
+20. ⟪मुच्⟫
+21. ⟪मृ⟫
+22. ⟪यज्⟫
+23. ⟪युध्⟫
+24. ⟪वच्⟫
+25. ⟪विश्⟫
+26. ⟪श्रु⟫
+27. ⟪प्रच्छ्⟫
+28. ⟪सिच्⟫
+29. ⟪स्तु⟫
+30. ⟪स्था⟫
+31. ⟪स्मृ⟫
+32. ⟪हन्⟫
+33. ⟪लभ्⟫
+34. ⟪अद्⟫
+35. ⟪दृश्⟫
+36. ⟪पच्⟫
+37. ⟪सद्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+B) 以下詞根構成不定式時需加連接元音 -i-。請為以下詞根構成不定式：
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
+1. ⟪आस्⟫
+2. ⟪नृत्⟫
+3. ⟪रक्ष्⟫
+4. ⟪रुद्⟫
+5. ⟪वद्⟫
+6. ⟪वृत्⟫
+7. ⟪कुप्⟫
 
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
+C) 以下詞根可選擇性地加或不加連接元音：
 
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
+1. ⟪अश्⟫
+2. ⟪इष्⟫
+3. ⟪बुध्⟫
+4. ⟪मुह्⟫（3種形式！）
+5. ⟪सह्⟫
+
+D) 請翻譯並分解以下複合詞：
+
+⟪नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥ महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥ फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303))
+圖：⟪फलवन्ति पुण्यानीति⟫
+ทำบุญ = ⟪पुण्यकरणम्⟫，泰國 = ประเทศไทย
+（圖片來源：[詳情](/zh/licenses#lekt2303)）
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301))
+圖：⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+清邁，泰國 = เชียงใหม่, ประเทศไทย
+（圖片來源：[詳情](/zh/licenses#lekt2301)）
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
+C) 請將以下 ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫ 譯為中文
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
-
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
-
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+說明：⟪हीन ३⟫：動詞 ⟪हा⟫ 的第三種完成分詞（PPP）；意為「離開」；⟪धर्मे⟫ = 單數方位格，意為「在……之中」
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+圖：⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302))
+（圖片來源：[詳情](/zh/licenses#lekt2302)）
 :::
-## 23.6. Wiederholungsübung
+## 第23課：複習練習
 
-Bitte keine Hilfsmittel benutzen!
+請不要使用輔助工具！
 
-A) Übersetzen Sie ins Sanskrit:
+A) 將以下內容譯為梵文：
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
+1\. 五種（⟪पञ्च⟫）「苦惱」是：無知、對自我的錯誤信念、貪愛、憎惡以及對身體的執著。
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
+2\. 知識可透過順從老師、付出大量金錢或交換其他知識而獲得。不存在第四種獲取知識的方式。
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur.
+3\. 低賤者言而不行；高尚者不言而僅行。
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
+4\. 《吠陀》的輔助學科是：發音學、儀式學、語法學、詞義學、韻律學（⟪छन्दस्⟫）以及曆法學。
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
+5\. 瑜伽是止息思維器官的活動。
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv)
+6\.正義勝於不義；真理勝於虛妄；忍耐勝於憤怒；神勝於偽神。（被動語態）
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
+7\.「棍棒」能帶來哲學、吠陀與經濟學的獲取及穩固擁有。執掌此棍棒即為政治。
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304))
+圖：⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫，印度總理 = ⟪भारत के प्रधानमन्त्री⟫，自2004年起
+（圖片來源：[詳情](/zh/licenses#lekt2304)）
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\.妻子、兒子與奴僕，這三者（⟪त्रयस्⟫）依傳統傳承皆無財產。凡此三者所屬之物，皆歸於擁有這三者（三人）之人所有。
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
+9\.蚊蟲渴望傷口，統治者渴望財富，卑劣者渴望爭端，善良者渴望和平。
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
+10\.婆羅門的特定職責是：學習、教導、作為祭主進行祭祀、代為祭祀、施捨與接受；剎帝利的職責是：學習、作為祭主進行祭祀、施捨、以武器維生、護佑眾生；吠舍的職責是：學習、作為祭主進行祭祀、施捨、農業、畜牧與貿易；首陀羅的職責是：服從再生族，從事經濟活動，以及（⟪कर्म⟫）工匠與表演者的工作。
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
+11\.對意識的澄清，是基於慈、悲、喜、捨這四無量心的禪修發展而實現，其對象分別為樂與苦、善與惡。
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
+12\.窮人擁有許多兒子，儘管他們並不渴望；富人卻無子嗣。命運的波動真是奇特。
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
+13\. 誰不殺害那擁有纖細腰身、寬闊臀部、紅唇、黑眸、彎曲臍眼、挺拔雙乳的女子軀體（⟪वपुस्⟫ f.）？
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f.
+B) 請以所有您熟悉的名詞格位，變位 क्षत्रिया f.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+C) 請提供以下動詞的詞幹形式（意義、現在時類別、語氣、第三人稱單數現在式直陳語態、第三人稱單數被動語態、過去分詞（PPP）、絕對副詞、不定式）：
 
-⟪१⟫. ⟪सह्⟫
+१。⟪सह् २⟫。⟪पा⟫（兩次）
 
-⟪२⟫. ⟪पा⟫ (2x)
-
-⟪३⟫. ⟪वच्⟫
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫
+३。⟪वच् ४⟫。⟪हन् ॥⟫
 

@@ -28,9 +28,11 @@ def get_top_unfinished_language(skip_langs=None):
     if skip_langs is None:
         skip_langs = []
 
+    target_langs = ["en", "ru", "uk", "bg", "id", "zh-CN", "zh"]
+
     all_rows = []
     for code, name, emoji in LANG_MAP:
-        if code == "de" or code in skip_langs:
+        if code == "de" or code in skip_langs or code not in target_langs:
             continue
         queue = get_translation_queue(code)
         sauber = TOTAL_MASTER - len(queue)
@@ -110,7 +112,7 @@ LANG_MAP = [
     ('zu', 'isiZulu', '🇿🇦')
 ]
 
-TOTAL_MASTER = 136
+TOTAL_MASTER = 140
 
 def get_active_process():
     try:

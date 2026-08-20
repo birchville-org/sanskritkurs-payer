@@ -37,7 +37,7 @@ sarvakāryeṣu sarvadā |**
 Hai yang berperut gendut, hai pencinta manisan,
 Semoga selalu ada penghormatan bagimu!
 Wahai Tuhan, buatlah semua usahaku
-Bebas dari halangan!
+Bebas dari hambatan!
 :::
 
 ::: center
@@ -75,37 +75,41 @@ Makna dari sebuah kalimat.
 Di awal, sebuah keanehan:
 
 
-&gt;"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskerta secara mendalam, sebagian menerjemahkannya dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat disesuaikan dengan pandangan lama, yang baik menurunkan semua bahasa dari Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka filsuf terkenal Dugald Steward (1753—1828) mengambil jalan keluar termudah dengan menyatakan seluruh sejarah bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut diciptakan oleh Brahmana yang licik dengan meniru Yunani dan Latin, serta bahwa bahasa maupun literaturnya adalah pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
-&gt;
-&gt;[Sumber: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- hlm. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
+>"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskerta secara mendalam, sebagian menerjemahkannya dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat disesuaikan dengan pandangan lama, yang baik menurunkan semua bahasa dari Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar yang paling sederhana dengan menyatakan seluruh sejarah bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya merupakan pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
+>
+::: literatur-box
+[Sumber: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
+:::
 
 ## 1.1. Literatur untuk Pemula dalam Indologi
 
 ::: media
 ![](/images/lekt0103.webp)
-Abb.: Sampul judul edisi buku saku
+Ilm.: Sampul judul edisi buku saku
 (Sumber gambar: [Details](/id/licenses#lekt0103))
 :::
 
-&gt;**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk juga edisi buku saku. -- **Wajib baca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk juga edisi buku saku. -- **Wajib baca.** Gambaran umum yang baik tentang kehidupan, sejarah dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
 
 ::: media
 ![](/images/lekt0104.webp)
-Abb.: Halaman judul
+Ilm.: Halaman judul
 (Sumber gambar: [Details](/id/licenses#lekt0104))
 :::
 
 Tata bahasa sistematis terbaik:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 hlm. -- Judul asli: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 hlm. -- Judul asli: A grammar of the Sanscrit language
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
-Abb.: Sampul belakang judul
+Ilm.: Sampul belakang
 (Sumber gambar: [Details](/id/licenses#lekt0105))
 :::
 
-Tata bahasa sistematis yang baik berdasarkan pada para grammatikus lokal dan sekaligus pengantar ke Pāṇini:
+Tata bahasa sistematis yang baik berdasarkan pada para grammatikus pribumi dan sekaligus pengantar ke Pāṇini:
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Awalnya ditulis dalam bahasa Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm. ; 23 cm.
 
@@ -115,19 +119,21 @@ Abb.: Sampul judul
 (Sumber gambar: [Details](/id/licenses#lekt0107))
 :::
 
-Sebuah gambaran yang baik dan ringkas dari terminologi ilmu bahasa Eropa dapat ditemukan dalam:
+Sebuah paparan yang baik dan ringkas mengenai terminologi linguistik Eropa dapat ditemukan dalam:
 
-> **Kamus Etimologi Bahasa Jerman** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Dikompilasi oleh Elmar Seebold. -- Edisi ke-24, direvisi dan diperluas.. -- Berlin [dan lain-lain] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Sampul tipis. -- Hlm. XIII - XLVII.
+::: literatur-box
+**Kamus Etimologi Bahasa Jerman** / [Friedrich] Kluge (1856–1926). Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah direvisi dan diperluas. -- Berlin [dlsb.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Jilid tipis. -- Hlm. XIII - XLVII.
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)
-Ilh.: Judul sampul
-(Sumber gambar: [Rincian](/id/licenses#lekt0108))
+Abb.: Sampul belakang judul
+(Sumber gambar: [Details](/id/licenses#lekt0108))
 :::
 
-Untuk para penuntut ilmu yang ingin mencari rujukan:
+Untuk para pembaca yang ingin tahu sebagai referensi:
 
-> **Ensiklopedia Ilmu Bahasa** / disunting oleh Hadumod Bussmann. -- Edisi ke-4, direvisi dan dilengkapi secara bibliografis / dengan kontribusi dari Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 hlm. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Ensiklopedia Linguistik** / disunting oleh Hadumod Bussmann. -- Edisi ke-4, yang telah direvisi dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 hlm. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. Bunyi-bunyi Sanskerta
@@ -136,17 +142,17 @@ Bunyi-bunyi Sanskerta menurut klasifikasi India tradisional dan transliterasi il
 
 ::: media
 ![](/images/lekt0106.webp)
-(Sumber gambar: [Rincian](/id/licenses#lekt0106))
+(Sumber gambar: [Details](/id/licenses#lekt0106))
 :::
-Kamus Sanskerta modern disusun berdasarkan urutan klasifikasi ini. Klasifikasi ini esensial untuk memahami tata bahasa Sanskerta dan karenanya harus dihafal:
+Kamus Sanskerta modern disusun sesuai urutan klasifikasi ini. Klasifikasi ini sangat penting untuk memahami tata bahasa Sanskerta dan karenanya harus dihafal:
 
 ::: note-box
 Klasifikasi
-**Vokal sederhana** (samānākṣara -- ⟪समानाक्षर⟫):
+**vokal sederhana** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-**Diftong** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+**diftong** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
 ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-**Konsonan** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+**konsonan** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
 ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
 ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
 ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa

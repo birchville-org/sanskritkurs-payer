@@ -44,11 +44,14 @@ def clear_force_session(lang: str):
             pass
 
 def is_language_completed(lang: str) -> bool:
-    """Return True if language has 136 clean files with 0 fallbacks, 0 missing, and 0 stale files."""
-    if lang == "de":
-        return True
-    try:
-        from translation_qa import get_translation_queue
-        return len(get_translation_queue(lang)) == 0
-    except Exception:
-        return False
+    """Return True if language is completed. Proxy to single source of truth."""
+    import sys
+    from pathlib import Path
+    
+    # Ensure scripts directory is in sys.path
+    scripts_dir = Path(__file__).parent.parent
+    if str(scripts_dir) not in sys.path:
+        sys.path.insert(0, str(scripts_dir))
+        
+    from translation_qa import is_language_completed as _is_language_completed
+    return _is_language_completed(lang)

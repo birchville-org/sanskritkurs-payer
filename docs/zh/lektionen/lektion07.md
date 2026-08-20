@@ -1,77 +1,78 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "第7課"
+subtitle: "帶有直接賓格的動詞句"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第7課
 
 
 ::: center
-**Wochenspruch**
+**每週箴言**
 :::
 
+
 ::: center
-⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
-⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
+⟪धर्मो जयति नधर्मः सत्यं जयति नानृतम् | क्षमा जयति न क्रोधो देवो जयति नासुरः ||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
-Das Recht siegt, nicht das Unrecht,
-Die Wahrheit siegt, nicht die Unwahrheit,
-Nachsicht siegt, nicht Zorn,
-Gott siegt, nicht der Widergott.
+正法勝利，非邪法，
+真理勝利，非虛妄，
+寬容勝利，非憤怒，
+神明勝利，非阿修羅。
 :::
 
-## 7.1. Der Verbalsatz mit direktem Objekt
+
+## 7.1. 帶直接賓格的動詞句
 
 ::: grammar-box
-**Schema:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb**
+**範例：**
+**(施事者 = kartṛ m. = ⟪कर्तृ⟫) – 直接賓語 (karman n. = ⟪कर्मन्⟫) – 動詞**
 
-z.B.
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
+例如
+**rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫：「羅摩吃（咀嚼）一顆水果。」
+**brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫：「婆羅門以祭品（為他人）供奉神明。」
 :::
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
+若動詞為他動語態（Parasmaipada）或自益語態（Ātmanepada），則直接賓語（**karman** n. = ⟪कर्मन्⟫）通常處於**第四格**（業格，dvitīyā f. = ⟪द्वितीया⟫）。
 
-## 7.2. 宾格 (dvitīyā f. = ⟪द्वितीया⟫ = “第二格词尾”)
+
+## 7.2. 第四格（業格，dvitīyā f. = ⟪द्वितीया⟫ =「第二格尾」）
 
 ::: grammar-box
-**Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m**
+**陽性與陰性單數第四格，以元音結尾之詞：-m**
 
-| Maskulina auf | Akkusativ Singular |
+| 陽性詞以...結尾 | 單數第四格 |
 | :--- | :--- |
-| **-a**: deva | **devam** :br⟪देवम्⟫ |
-| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
-| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
-| Feminina auf | Akkusativ Singular |
-| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
-| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
-| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
-| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+| **-a**：deva（神明） | **devam**：br⟪देवम्⟫ |
+| **-i**：kavi（詩人） | **kavim**：br⟪कविम्⟫ |
+| **-u**：guru（導師） | **gurum**：br⟪गुरुम्⟫ |
+| 陰性詞以...結尾 | 單數第四格 |
+| **-ā**：devatā（神靈） | **devatām**：br⟪देवताम्⟫ |
+| **-i**：śruti（天啟） | **śrutim**：br⟪श्रुतिम्⟫ |
+| **-ī**：devī（女神） | **devīm**：br⟪देवीम्⟫ |
+| **-u**：dhenu（母牛） | **dhenum**：br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
-**Akkusativ Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n**
+**陽性複數對格，以元音結尾的詞幹（例外：單音節根詞幹以長元音結尾）：延長末尾元音 + -n**
 
-| Maskulina auf | Akkusativ Plural |
+| 陽性詞以...結尾 | 複數對格 |
 | :--- | :--- |
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
-**Akkusativ Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s**
+**陰性複數對格，以元音結尾的詞幹（例外：單音節根詞幹以長元音結尾）：延長末尾元音 + -s**
 
-| Feminina auf | Akkusativ Plural |
+| 陰性詞以...結尾 | 複數對格 |
 | :--- | :--- |
 | **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
 | **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
@@ -79,214 +80,221 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und 指示代词
+### 7.2.1. 疑問代詞與指示代詞的單數與複數對格
 
 ::: grammar-box
-| || Maskulinum | Femininum | Neutrum |
+| || 陽性 | 陰性 | 中性 |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
-| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
-| **tad** :brer/es/jenes | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
-| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
-| **etad** :brdieses hier | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
-| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
-| **idam** :brdieses | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
-| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
+| **kim** :br誰/什麼 | 單數 | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | 複數 | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad** :br他/它/那 | 單數 | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | 複數 | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| **etad** :br這/這裡 | 單數 | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | 複數 | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam** :br這 | 單數 | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | 複數 | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
-Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
-z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Er ist ein Gott. Man opfert ihm."
+形式 **enam**（⟪एनम्⟫）等屬於詞根 **enad**（⟪एनद्⟫），該詞根僅在部分格位中形成變格形式。當所指稱的事物在前文中已提及時，便使用這些形式來代替 **etad** 和 **idam** 的形式。
+例如：**ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪एनं यजन्ते⟫ || ：「他是一位神。人們向他獻祭。」
 
-### 7.2.2. 宾格的用法 (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "第二格结尾")
+
+### 7.2.2. 賓格（第四格，dvitīyā f. = ⟪द्वितीया⟫ = 「第二格詞尾」）的用法
 
 ::: grammar-box
-Der Akkusativ (dvitīyā f. = ⟪द्वितीया⟫) bezeichnet:
-1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = ⟪कर्मन्⟫) der durch das Verb ausgedrückten Handlung:
-   z.B.
-   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : "Er verehrt einen Gott mit einem Opfer."
-   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : "Er erlangt die Frucht (z.B. seines Handelns)."
-2. Bei Verben, die ein Gehen, eine Bewegung, ein Führen oder dergl. nach etwas hin ausdrücken, bezeichnet der Akkusativ das Ziel der Bewegung:
-   z.B.
-   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Er geht zur Hölle."
+賓格（dvitīyā f. = ⟪द्वितीया⟫）表示：
+1. 在非被動語態的謂詞句中：作為由動詞所表達之行為的**直接賓語**（karman n. = ⟪कर्मन्⟫）：
+例如
+**devaṃ yajati** = ⟪देवं यजति⟫ ：「他向一位神獻祭。」
+**phalam āpnoti** = ⟪फलमाप्नोति⟫ ：「他獲得果報（例如其行為的後果）。」
+2. 在表示前往、移動、引導或類似含義的動詞中，賓格表示運動的目標：
+例如
+**narakaṃ gacchati** = ⟪नरकं गच्छति⟫ ：「他前往地獄。」
 :::
-Weitere Verwendungen des Akkusativ werden später behandelt.
+賓格的其他用法將在後續章節中討論。
 
-## 7.3. Sandhi von auslautendem -n
+
+
+## 7.3. 詞尾 -n 的連聲（Sandhi）
 
 ::: grammar-box
-**Auslautendes -n:**
+**詞尾 -n：**
 
-1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt:
-   - **-n** vor **j-, jh-, ñ-, ś-** » **-ñ**
-   - **-n** vor **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ**
-   z.B. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "Er besiegt die Kṣatriyas."
-   Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Er hört die Lehrer." "Er hört auf die Lehrer."
+1. 在濁音腭塞音和 retroflex（捲舌）塞音以及 **ś-** 之前，替換為對應這些音的鼻音：
+**-n** 在 **j-, jh-, ñ-, ś-** 之前 » **-ñ**
+**-n** 在 **ḍ-, ḍh-, ṇ-, ṣ-** 之前 » **-ṇ**
+例如：**kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ ：「他擊敗剎帝利。」
+此處詞首的 **ś-** 通常替換為 **ch-**：
+**gurūn + śṛṇoti** » **gurūñ chṛṇoti**（與 gurūñ śṛṇoti 並存）= ⟪गुरूञ्छृणोति⟫ （⟪गुरूञ्शृणोति⟫） ：「他聽老師的話。」
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt:
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
+2. 若詞首為 **l-**，則以帶鼻音的 **-l**（書寫上為 ⟪ल्⟫，並帶有鼻音化符號 ⟪ँ⟫）取代：
+例如 **paśūn + labhate** » ⟪पशूंल्लभते⟫：「他獲得牲畜。」
 
-3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt:
-   - **-n** vor **c-, ch-** » **-ṃś**
-   - **-n** vor **ṭ-, ṭh-** » **-ṃṣ**
-   - **-n** vor **t-, th-** » **-ṃs**
-   z.B. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "und die Götter (Akk.)"
-   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "aber die Götter (Akk.)"
+3. 若詞首為清腭音、捲舌音或齒音，則以 **Anusvāra**（鼻化音）加上對應這些音的擦音取代：
+**c-, ch-** 前的 **-n** » **-ṃś**
+**ṭ-, ṭh-** 前的 **-n** » **-ṃṣ**
+**t-, th-** 前的 **-n** » **-ṃs**
+例如 **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫：「以及諸神（賓格）」
+**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫：「但諸神（賓格）」
 
-4. Außer nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert.
+4. 除非在短元音之後（見後文），否則在其他所有情況下，詞尾的 **-n** 保持不變。
 :::
 
-## 7.4. 中性（napuṃsaka n. = ⟪नपुंसक⟫）
+## 7.4. 中性名詞 (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.**
+**在中性名詞中，主格 (prathamā) 與賓格 (dvitīyā) 的形式相同。**
 :::
-### 7.4.1. 以 -a 结尾的词干的中性
+### 7.4.1. 以 -a 結尾的中性詞幹
 
 ::: grammar-box
-- **Endung Nominativ / Akkusativ Singular: -m**
-  z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
-- **Endung Nominativ / Akkusativ Plural: -āni**
-  z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
+**單數主格 / 賓格詞尾：-m**
+例如 **phala** n. = ⟪फल⟫ = 「果實」：主格 / 賓格單數 **phalam** = ⟪फलम्⟫
+**複數主格 / 賓格詞尾：-āni**
+例如 **phala** n. = ⟪फल⟫：主格 / 賓格複數 **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Athematische Präsensklassen
+## 7.5. 無元音詞幹現在時類別
 
-Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus.
+第五類現在時構成所謂的「無元音詞幹」現在時，也就是說，其現在時詞幹不像主題類現在時（第一、四、六、十類）那樣以「主題元音」**-a** 結尾。
 
 ::: grammar-box
-**Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:**
-1. **starker Stamm**: hochstufig (selten dehnstufig)
-2. **schwacher Stamm**: tiefstufig
+**無元音詞幹現在時類別具有詞幹強弱變化，也就是說，存在兩種現在時詞幹形式：**
+1. **強式詞幹**：高階級（罕見為長音階級）
+2. **弱式詞幹**：低階級
 
-**Der starke Stamm steht:**
-- im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ)
-- allen ersten Personen des Imperativ (loṭ) Parasmaipada und Ātmanepada
-- in der dritten Person Singular Imperativ (loṭ) Parasmaipada
+**強詞幹為：**
+在直陳語氣單數第三人稱後接詞形（laṭ）和未完成過去時（laṅ）中
+在命令語氣（loṭ）後接詞形和內動詞形的所有第一人称中
+在命令語氣（loṭ）後接詞形的第三人稱單數中
 
-**Alle anderen Formen haben den schwachen Präsensstamm.**
+**所有其他形式使用弱現在時詞幹。**
 :::
-### 7.5.1. 非主题词干的第三人称复数主要词尾
+### 7.5.1. 非韻律詞幹第三人稱複數的主要後綴
 
 ::: grammar-box
-**Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:**
-- **Parasmaipada: -anti**
-- **Ātmanepada: -ate**
+**對於非韻律現在時詞幹，第三人稱複數的主要後綴為：**
+**後接詞形：-anti**
+**內動詞形：-ate**
 :::
-### 7.5.2. 第五类现在时词干 (svādi = ⟪स्वादि⟫ = “su 等等”)
+### 7.5.2. 第五現在時類（svādi = ⟪स्वादि⟫ = "su 等"）
 
 ::: grammar-box
-- **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-**
-- **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-**
+**強詞幹**：（通常）低階根 + **-no-**
+**弱詞幹**：（通常）低階根 + **-nu-**
 
-**Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Wurzeln wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.**
+**對於以元音結尾的詞根，在元音後綴前，-nu- 變為 -nv-；對於以輔音結尾的詞根，在元音後綴前，-nu- 變為 -nuv-。**
 :::
-**Beispiele:**
+**例子：**
 
-| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
+| 詞根：br⟪धातु⟫ | 強詞幹 | 弱詞幹 | 元音前：br(弱) |
 | :--- | :--- | :--- | :--- |
-| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **āp** :br5 P:br⟪आप्⟫:br"到達" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"到達" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"擠出" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"聽" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. 词汇表
 
-**Lernen Sie folgende Wörter:**
+## 7.6. 詞彙表
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+**學習以下單字：**
+
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : 到達，抵達，獲得
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : 到達，獲得
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : 憤怒
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : 憤怒
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : 咀嚼，吃
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : 聽（某事：受格，某人：屬格或受格；關於：受格；從某人那裡：屬格、離格、工具格）
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : 壓榨
+**soma** m. ⟪सोम⟫ : 壓榨飲料，蘇摩；月亮（關於蘇摩是從哪種植物中壓榨出來的，至今仍有爭議）。
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701))
+圖：這是吠陀時期的蘇摩植物嗎？：毒蠅傘：*Amanita muscaria* (L.) Lam.
+（圖片來源：[詳情](/zh/licenses#lekt0701)）
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
+**phala** n. ⟪फल⟫ : 果實（也可引申為：行為的（業力）果報）
+**nṛtya** n. ⟪नृत्य⟫ : 舞蹈
+**svarga** m. ⟪स्वर्ग⟫ : 天界
+**naraka** m. ⟪नरक⟫ : 地獄（根據一種印度教觀點，宇宙呈蛋形（**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "梵天之蛋"）：地球之上是有著遞增幸福感的六重天界，地球之下是七層所謂的 **pātāla** n. = ⟪पाताल⟫，是 **nāga** m. = ⟪नाग⟫（蛇）及其他神話生物的居所，其下還有七層地獄，痛苦逐層加深）
+**aṅga** n. ⟪अङ्ग⟫ : 身體部位，組成部分；也可指 **vedāṅga** = ⟪वेदाङ्ग⟫
+**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : 走（根據本土的動詞分類，屬於第一類現在時，但實際上是一個帶有現在時詞幹形成後綴 **-ccha-** 的構造物：**gam** » 弱階（**gm** »） **ga-ccha-ti**）
 
-## 7.7. 练习
 
-**A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:**
+
+
+## 7.7. 練習
+
+**A) 請分別以單數和複數填入直接受格或方向受格：**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
-   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
+⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
-Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
-(Bildquelle: [Details](/licenses#lekt0704))
+圖：Viṣṇu = ⟪विष्णु⟫，8./9. 世紀。
+（圖片來源：[詳情](/zh/licenses#lekt0704)）
 :::
 2. gurus ... khādati (phala)
-   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
-   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
 4. śūdrā ... gacchati (naraka)
-   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
 5. ... jayati (śūdra)
-   ... ⟪जयति⟫ (⟪शूद्र⟫)
+⟪जयति⟫ (⟪शूद्र⟫)
 6. ... labhate (dhenu, paśu, phala)
-   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
-**B) Setzen Sie die entsprechenden Verbformen ein:**
+**B) 請填入相應的動詞形式：**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
-   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+⟪साधुः स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
 2. brāhmaṇaḥ somam ... (su) (2 Formen)
-   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+⟪ब्राह्मणः सोमम्⟫ ... (⟪सु⟫)
 3. sādhur gurum ... (śru)
-   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 4. devī ... (kup, krudh)
-   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
+⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.**
+**C) 請將練習題 B) 中的施事者、受詞和動詞改為複數。**
 
-**D) Setzen Sie ins Ātmanepada:**
+**D) 請填入中動語態（Ātmanepada）：**
 
 1. sunvanti.
-   ⟪सुन्वन्ति⟫ |
+⟪सुन्वन्ति⟫ |
 2. nayanti.
-   ⟪नयन्ति⟫ |
+⟪नयन्ति⟫ |
 3. sunoti.
-   ⟪सुनोति⟫ |
+⟪सुनोति⟫ |
 4. yajati.
-   ⟪यजति⟫ |
+⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
-Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪यज्ञ⟫
-(Bildquelle: [Details](/licenses#lekt0702))
+圖：**yajati** = ⟪यजति⟫ — 吠陀祭儀 = **yajña** m. = ⟪यज्ञ⟫
+（圖片來源：[詳情](/zh/licenses#lekt0702)）
 :::
-**E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.**
+**E) 請為所有迄今學名詞構成單數（dvitīyā）和複數的受格。**
 
-**F) Übersetzen Sie:**
+**F) 請翻譯：**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
-   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
-   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
-3. Śūdras erlangen einen Himmel.
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
-5. Vaiśyafrauen verehren Gottheiten mit Opfern.
-6. Der HERR zürnt.
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
-   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+⟪गुरूूंस्तु शृण्वन्ति⟫ |
+3. Śūdras erlangen einen Himmel。
+4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern。
+5. Vaiśyafrauen verehren Gottheiten mit Opfern。
+6. Der HERR zürnt。
+7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni。
+⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ |
 8. Welchem Gott opfert dieser Brahmane?
 
 ::: media
 ![](/images/lekt0703.webp)
-Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Bildquelle: [Details](/licenses#lekt0703))
+圖：向哪位神祇獻祭？答案：Gaṇeśa（Gaṇapati）= ⟪गणेश⟫（⟪गणपति⟫）。Gaṇapatihoma（yajña）。
+（圖片來源：[Details](/zh/licenses#lekt0703)）
 :::
 9. Was kaut dieser heilige Mann?
 10. Was pressen diese (hier) aus?
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11. Er ist der Lehrer。Auf ihn hört man (= hören sie)。
 

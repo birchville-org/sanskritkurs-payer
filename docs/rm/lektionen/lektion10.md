@@ -1,10 +1,11 @@
 ---
-title: Lektion 10
-subtitle: "Den Passivsatz (Instrumental des Agens)"
+title: "Lecziun 10"
+subtitle: "La frasa passiva (Instrumental dal agent)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 10
@@ -95,8 +96,6 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-:::
-
 ### 10.2.1. Tar l'utilisaziun dal instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
@@ -106,13 +105,11 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 - **Cun tgi?**
 
 **El stat**
-1. **en cunstrucziuns passivas: agent (kartṛ) en instrumental**
-2. **per inditgar il mez or l'instrument cun il qual quai vegn realisa**
-3. **per inditgar il viadi sin il qual in persuna cuntanscha in lieu**
-4. **per exprimer la connexiun, la uniun, la cumpagnia cun**
-5. **a postposiziuns en il significat "cun, cun"; p.ex. saha = ⟪सह⟫ = "cun"**
-z.B.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "cun il brahman"
+1. **per inditgar il mez or l'instrument cun il qual quai vegn realisa**
+2. **per inditgar il viadi sin il qual in persuna cuntanscha in lieu**
+3. **per exprimer la connexiun, la uniun, la cumpagnia cun**
+4. **a postposiziuns en il significat "cun, cun"; p.ex. saha = ⟪सह⟫ = "cun"**
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "cun il brahman"
 :::
 Ulterras utilisaziuns dal instrumental (tṛtīyā) suondan pli tard.
 
@@ -163,24 +160,17 @@ ex.
 ### 10.4.1. Reglas spezialas per la furmaziun dal passiv
 
 1. **Radis cun finala -i u -u** allungeschan lur vocal davant il suffix dal passiv **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Radixs cun -a- tranter consonantas** (except nasals, y, r, v) restan a liv elevà:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Quai radis formeschan lur passiv cun la stgala auta** (u en la stgala d’ablaut dal stem dal present):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -193,20 +183,16 @@ ex.
 La denominaziun tradiziunala autoctona per questa furmaziun dal nivel profund en verbs cun **ya** resp. **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ final suenter in singul consonant vegn remplazzà tras -ri- davant il suffix dal passiv -ya-:**
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Ma: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Ma: **smṛ** 1 P: **smaryate**
 
 6. **Certas radischs cun -an han alternativamain duas furmas dal stem dal passiv:**
    * ina **-an-ya**
    * ina **-ā-ya-** (il **ā** lung è in represchentant per in nasals lung ipotetic)
 
 z.B. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
 ## 10.5. Glista da pleds
 
@@ -237,13 +223,14 @@ z.B. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : anṛta, mal (cuntrari a **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vardad
 
-::: note-box
+:::: note-box
 **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
 
+::: literatur-box
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
+::::
 
-:::
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫

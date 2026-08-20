@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "第12課"
+subtitle: "完成被動分詞（PPP）"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第12課
 
 
-## 12.1. Partizip Perfekt 被动语态 (PPP)
+## 12.1. 被動過去分詞（PPP）
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+構建過去被動句的一種方法是使用所謂的被動過去分詞（PPP）結構。
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**實際上，PPP並非真正的分詞，因為它不是由時態詞幹構成的。相反地，它是帶有主要後綴 -ta 或 -na 的詞根名物化構成的。因此，在印度語法中，人們稱之為後綴 kta。**
 :::
 
-### 12.1.1. 及物动词的图式
+### 12.1.1. 及物動詞的結構模式
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**施事者（kartṛ）以工具格（tṛtīyā）出現 -- 直接受事者（karman）以主格（prathamā）出現 -- 被動過去分詞**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+在這種情況下，PPP 與受事者在數、格和性上保持一致。
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+不需要助動詞（「是」）。
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
->
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+例句：
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = 「（天堂被聖人獲得）= 聖人獲得了天堂。」
+> 
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = 「（女神被婆羅門以祭品供奉）= 婆羅門用祭品供奉了女神。」
 :::
 
-### 12.1.2. 不及物动词和运动动词的图式 I
+### 12.1.2. 不及物動詞和位移动詞的結構模式 I
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**施事者（kartṛ）以主格（prathamā）出現 -- 被動過去分詞**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+在這種情況下，PPP 與施事者在數、格和性上保持一致。不及物動詞（沒有直接受事者的動詞）和位移动詞的「被動」過去分詞具有主動含義。
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+例句：
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = 「剎帝利女子進入了城市。」
 :::
 
-### 12.1.3. 不及物动词和运动动词的方案 II
+### 12.1.3. 第二模式：不及物動詞與表示移動的動詞
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**施事者（kartṛ）以工具格（tṛtīyā）出現 -- 過去分詞（PPP）為單數中性主格**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+範例：
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „（由剎帝利）前往（城市）= 該剎帝利已前往（城市）。“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+第二模式的構句比第一模式少見得多。
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. 關於過去分詞（PPP）的意義
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+因此，所謂「被動完成時分詞」對於及物動詞主要具有被動意義（**āpta** = „已被到達“），對於不及物動詞和表示移動的動詞則具有主動意義（**gata** = „已前往“），但有些動詞的過去分詞既可具有主動意義，也可具有被動意義：
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+例如
+**gata** = ⟪गत⟫ = „已前往“（主動）；但也指：**gato mārgaḥ** = ⟪गतो मार्गः⟫ = „已通行的道路“（被動）
+**āpta** = ⟪आप्त⟫ = „已被到達“（被動），“已持有/已取得“（主動）
 
-## 12.3. Bildung des PPP
+
+## 12.3. 過去分詞（PPP）的構成
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+以下為常見的構詞方式（每個詞根都必須學習其對應的過去分詞！）：
 
-**(meist) tiefstufige Wurzel**
+**（通常為）弱級形式的詞根**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - **+ -na**
-- **+ -na**
+**+ -ta**
+前接連接元音 **-i-**：**-ita**
+無連接元音：**-ta**
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+陰性詞幹為：**-tā**, **-itā**, **-nā**；中性詞的變格如同 **phala**（果實，中性）。
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. 以 -ta (kta) 結尾的過去分詞
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. 無連接元音 -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = „無（an-）後綴前所加的（*-i-*）*t*“（即無連接元音 *i*）。
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+通常，在不帶連接元音的情況下，由以元音結尾的詞根以及許多其他詞根構成過去分詞（PPP），但無法給出一條固定的規則來說明哪些結構的詞根會出現或不出現連接元音。
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+*aniṭ* 詞根的列表見於 Kielhorn，《語法》第 298 節。
 :::
-**Beispiele:**
+**例子：**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| 詞根 | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -100,86 +102,87 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
 | **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
-| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\&lt; \*gm-ta):br(⟪गत⟫) |
 | **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
 | **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
-| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\&lt; \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. 帶連接元音 -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „帶有 (*sa-*) 後綴前置的 (*-i-) *t*"（即帶連接元音 *i*）。
 
-**Beispiele:**
+**例子：**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| 詞根 | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
-| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\&lt; \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. 詞中音連規則
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+在 *aniṭ*- 構詞中，需注意以下詞中音連規則。**這些規則是理解整個梵語形態學非常關鍵的。**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – außer j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p 在清塞音（如 t, th）前保持不變：** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct 被 kt = ⟪क्त्⟫ 取代：** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt 被 ṣṭ = ⟪ष्ट्⟫ 取代：** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. 除 j 以外，濁不送氣塞音在清音前被替換為對應的濁不送氣音：** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫**（對第二現在時類很重要） |
+| **5. jt 被 kt 或 ṣṭ 取代（非可選！）：** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\&lt; \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. 濁送氣塞音 + 清塞音 » 濁不送氣塞音 + 濁送氣塞音（巴托洛梅烏斯送氣法則）：** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t 被 ḍh 取代，並使前接的 i 或 u 延長；或被 gdh 取代。在這樣的 ḍh 前，a 被 o 取代，較少見的是被 ā 取代：** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „隱藏某物”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. 词汇表
+## 12.5. 詞彙表
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : 覺醒，開悟；PPP **buddha** 3 已覺者，因此 **Buddha** = "覺者"（非： enlightenment）
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+圖： ⟪गौतमो बुद्धः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1201)）
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ ：（使）燃燒
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha ：克服，忍受，忍耐 = 寬恕
+**mṛga** m. ⟪मृग⟫ ：野獸
+**mārga** m. ⟪मार्ग⟫ ：道路（這些路徑常為野獸小徑）
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+圖： ⟪मार्गः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1202)）
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ ：也（置於句末）
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+關於第六類現在時，本土語法學家將一些詞根歸入此類，這些詞根的現在時詞幹由鼻音插入成分和元音 a 構成，例如：
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ ：解開，釋放，解放；從輪迴（**saṃsāra** m.）中解脫 = 救贖
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ ：澆灌
 
-Zur Wortbildung:
+關於構詞法：
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**：**mokṣa** m. ⟪मोक्ष⟫ ：解脫，解放，救贖
+**sic** + **abhi-**：**abhiṣeka** m. ⟪अभिषेक⟫ ：國王加冕時的灑水儀式，即王位授予
+**budh**：**bodhi** m./f. ⟪बोधि⟫ ：覺悟（由此佛陀或耆那教祖師達到救贖性的洞察）
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+圖： ⟪महावीरो जिनः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1203)）
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ ：認知、認知器官。
 
-### 12.5.1. 被动语态 und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. 迄今所學詞根的被動語態與過去分詞（PPP）
+
+| 詞根：br⟪धातु⟫ | 被動語態現在時第三人稱單數直陳式：br⟪यक् लट्⟫ | 過去分詞（PPP）：br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. 练习
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. 練習
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) 根據[第7課](/lektionen/lektion07)練習A中的主動句，構建過去被動語態的句子；對於不及物動詞和表示移動的動詞，則構建過去主動語態的句子。**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) 根據[第10課](/lektionen/lektion10)練習A中的動詞形式，構建相應的過去分詞（PPP）。請注意，像 sṛjati 這樣的動詞形式對應的過去分詞需具備三種性（陽、陰、中）的形式。**
+
+**C) 將[第10課](/lektionen/lektion10)練習C中的句子轉換為過去被動語態。**
 

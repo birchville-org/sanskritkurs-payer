@@ -1,15 +1,13 @@
 ---
-title: "درس ۱"
-subtitle: "آوا‌های سنسکریت"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
-
 ---
 
 # درس ۱
-
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -74,12 +72,13 @@ pārvatīparameśvarau |**
 
 در آغاز یک نکته عجیب:
 
-
->"وقتی ویلیام جونز [۱۷۴۶–۱۷۹۴] و هنری توماس کولبروک (۱۸۶۵–۱۷۵۳) برای نخستین بار سنسکریت را به طور جدی مطالعه کردند، تا حد زیادی ترجمه نمودند و دریافتند که ادبیات غنی دارد و خویشاوندی غیر ناچیزی با زبان‌های کلاسیک نشان می‌دهد، در برابر مقاومت قابل توجهی قرار گرفتند. از آنجا که این رابطه نزدیک سنسکریت با زبان‌های اروپایی که از نظر جغرافیایی بسیار دور بودند، با دیدگاه‌های قدیمی که یا همه زبان‌ها را از عبری می‌دانستند و یا آنها را تا حد زیادی جداگانه تلقی می‌کردند، سازگار نبود، فیلولوژیست مشهور داگالد استوارت (۱۸۲۸–۱۷۵۳) ساده‌ترین راه را برگزید و تمام تاریخچه زبان سنسکریت را دروغ خواند. او مقاله‌ای نوشت که سعی کرد ثابت کند این زبان توسط برهمنان حیله‌گر به الگوی یونانی و لاتین ساخته شده است و هم زبان و هم ادبیات آن جعلی هستند. این دیدگاه توسط پروفسور در دوبلین، چارلز ویلیام وال، هنوز در سال ۱۸۴۰ به تفصیل توسعه یافت (آگهی‌های علمی گوتینگن ۱۸۴۲ ص. ۱۸۸۸)."
 >
 >[منبع: **کمریش**، مکس (۱۹۳۲–۱۸۷۶): کولتور-کوریوزا. -- مونیخ : لانگن. -- جلد ۲. -- ۱۹۲۳. -- ص. ۷۴. -- آنلاین: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- دسترسی در ۲۰۱۰-۰۱-۱۰]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
-## ۱.۱. ادبیات برای مبتدیان در هندشناسی
+## 1.1. Literatur für Anfänger in Indologie <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt0103.webp)
@@ -97,7 +96,9 @@ pārvatīparameśvarau |**
 
 بهترین دستور سیستماتیک:
 
-> **کیلهورن**، فرانتس (۱۸۴۰–۱۹۰۸): دستور زبان سانسکریت / ترجمه از انگلیسی توسط و. زولف [۱۸۶۲ - ۱۹۳۶]. -- برلین : دیملر، ۱۸۸۸. -- سیزده صفحه مقدمه، ۲۳۸ صفحه. -- عنوان اصلی: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -117,7 +118,9 @@ pārvatīparameśvarau |**
 
 نمایشی خوب و مختصر از اصطلاحات زبان‌شناسی اروپایی در موارد زیر یافت می‌شود:
 
-> **واژه‌نامه ریشه‌شناسی زبان آلمانی** / [فردریخ] کلوگه (۱۸۵۶–۱۹۲۶). تدوین: الم زیبولد. -- چاپ بیست و چهارم، بازبینی‌شده و گسترش‌یافته. -- برلین [و دیگران] : دِ گرویتِر، ۲۰۰۲. - LXXXIX, 1023 ص. : 24 سانتی‌متر. -- ISBN 3-11-017473-1 جلد کاغذی. -- ص. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -129,8 +132,7 @@ pārvatīparameśvarau |**
 
 > **دایرةالمعارف زبان‌شناسی** / به سردبیری هادومود بوسمان. -- چاپ چهارم، بازبینی‌شده و تکمیل‌شده با منابع کتاب‌شناختی / با همکاری هارتمویت لاوفر. -- اشتوتگارت : کرونر، ۲۰۰۸. -- 816 ص. ; 22 سانتی‌متر. -- ISBN 978-3-520-45204-7
 
-
-## ۱.۲. واج‌های سانسکریت
+## 1.2. Die Laute des Sanskrit <!-- TODO: Fallback translation -->
 
 واج‌های سانسکریت بر اساس طبقه‌بندی سنتی هند و نوشتار علمی آن.
 
@@ -141,6 +143,12 @@ pārvatīparameśvarau |**
 واژه‌نامه‌های مدرن سانسکریت بر اساس این طبقه‌بندی مرتب شده‌اند. این طبقه‌بندی برای درک دستور زبان سانسکریت ضروری است و بنابراین باید آن را از حفظ دانست:
 
 ::: note-box
+Klassifikation <!-- TODO: Fallback translation -->
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
 طبقه‌بندی
 **حروف صامت ساده** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -156,7 +164,7 @@ pārvatīparameśvarau |**
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 :::
-### ۱.۲.۱. درباره تلفظ حروف منفرد
+### 1.2.1. Zur Aussprache einzelner Laute <!-- TODO: Fallback translation -->
 
 ::: laut-table
 | حرف | توضیح |
@@ -173,20 +181,19 @@ pārvatīparameśvarau |**
 :::
 بهترین تلفظ زمانی حاصل می‌شود که جملات، ابیات یا کلمات را نسبتاً آهسته و یکنواخت با رعایت دقیق طول واکه‌ها بخوانید.
 
-
-## ۱.۳. تمرین
+## 1.3. Übung <!-- TODO: Fallback translation -->
 
 **الف) کلمات زیر را بخوانید:**
 
-۱. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र⟫
-۲. brahmā viṣṇu śiva — ⟪ब्रह्मा विष्णु शिव⟫
-۳. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्⟫
-۴. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद सामवेद यजुर्वेद अथर्ववेद⟫
-۵. upaniṣad — ⟪उपनिषद्⟫
-۶. jaina bauddha — ⟪जैन बौद्ध⟫
-۷. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
-۸. cakra vajra — ⟪चक्र वज्र⟫
-۹. pitṝn — ⟪पितॄन्⟫
-۱۰. saṃskṛta — ⟪संस्कृत⟫
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा विष्णु शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद सामवेद यजुर्वेद अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
 **ب) عبارات سانسکریت را در طبقه‌بندی آوایی بالا بخوانید.**

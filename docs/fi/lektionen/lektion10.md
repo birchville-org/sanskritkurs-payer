@@ -95,7 +95,6 @@ Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin my�
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
-
 ### 10.2.1. Instrumentaalin (tṛtīyā = ⟪तृतीया⟩) käytöstä
 
 ::: grammar-box
@@ -109,9 +108,7 @@ Sanskritin passiivirakenteet ovat erittäin yleisiä: passiivi on nimittäin my�
 2. **ilmaiseena välineelle tai työkalulle, jolla jotakin tehdään**
 3. **ilmaiseena reitille, jolla joku saapuu johonkin**
 4. **ilmaiseena yhteyttä, liitosta tai seurustelua jonkun kanssa**
-5. **postpositioiden yhteydessä merkityksessä "yhdessä, kanssa"; esim. saha = ⟪सह⟩ = "kanssa"
-z.e.
-**brāhmaṇena saha** = ⟪ब्राह्मणेन⟩ ⟪सह⟩ = "yhdessä brahmanin kanssa"
+5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟩ ⟪सह⟩ = "yhdessä brahmanin kanssa"
 :::
 Instrumentaalin (tṛtīyän) muita käyttötapoja seuraa myöhemmin.
 
@@ -162,24 +159,17 @@ esim.
 ### 10.4.1. Passivin muodostuksen erityissäännöt
 
 1. **-i** tai **-u** päättävät juuret pitkittävät vokaalinsa ennen passiivijänettä **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante**
-⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante**
-⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante**
-⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante**
+   * **śru** 5 P: **śrūyate**, **śrūyante**
+   * **su** 5 U: **sūyate**, **sūyante**
 
 2. **Juuret -a-välillä konsonanttien** (paitsi nasaalit, y, r, v) säilyttävät korkean aksentin:
-* **labh** 1 Ā: **labhyate**, **labhyante**
-⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante**
 
 3. **Jotkut juuret muodostavat passiivin korkealla aksentilla** (tai preesensvartalon ablauttasolla):
-* **āp** 5 P: **āpyate**, **āpyante**
-⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante**
-⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante**
-⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante**
+   * **khād** 1 P: **khādyate**, **khādyante**
+   * **smṛ** 1 P: **smaryate**, **smaryante**
 
 4. **Matala aste verbeissä, jotka alkavat yllä, v tai r, tai joissa nämä äänteet sijaitsevat minkä tahansa muun konsonantin jälkeen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
@@ -192,20 +182,16 @@ esim.
 Perinteinen kotimainen nimitys tälle syvän vaiheen muodostukselle verbien **ya** tai **va** kanssa on **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Lopussa oleva -ṛ** yksittäisen konsonantin jälkeen korvautuu passiivijänteen **-ya-** edellä muodolla **-ri-**:
-* **kṛ** 8 U: **kriyate**, **kriyante**
-⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Mutta: **smṛ** 1 P: **smaryate**
-⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante**
+   * Mutta: **smṛ** 1 P: **smaryate**
 
 6. **Jotkin juuret päättyen -an** voivat vaihtoehtoisesti muodostaa kaksi passiivijänteen muotoa:
    * **-an-ya**
    * **-ā-ya-** (pitkä **ā** on edustaja hypoteettiselle pitkälle nasaalille)
 
 esim. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte**
-⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte**
-⟪तायते⟫, ⟪तायन्ते⟫ (muodosta \*tn-ya-nte)
+   * **tā-ya-te**, **tā-ya-nte**
+   * ⟪तायते⟫, ⟪तायन्ते⟫ (muodosta \*tn-ya-nte)
 
 ## 10.5. Sanalista
 
@@ -236,11 +222,13 @@ esim. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : paha teko, pahuus (vastakohta **puṇya**)
 - **satya** n. ⟪सत्य⟫ : totuus
 
-::: note-box
+:::: note-box
 Intiassa aidolle sanalle oli annettu taikavoimaa; koko maailmankaikkeus ylläpidetään ja luodaan aidon sanan kautta. Katso perusteos tärkeään käsitykseen:
 
+::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Toim. Ludwig Alsdorf jälkikäsittelystä. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
+::::
 
 ::: media
 ![](/images/lekt1003.webp)

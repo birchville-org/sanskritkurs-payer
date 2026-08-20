@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # Glossary Sanskrit–English
 
@@ -539,7 +543,7 @@ outline: 2
 | ⟪पा पिबति पीयते पीत⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | to drink (traditionally counted in the 1st class) | [13](/en/lektionen/lektion13#_13-9-vocabulary-list) |
 | ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | n | Venerable, Master, Worthy One | [40](/en/lektionen/lektion40#_40-6-word-list) |
 | ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | foot, a quarter, verse line | [13](/en/lektionen/lektion13#_13-9-vocabulary-list) |
-| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | evil deed, evil (opposite of puṇya) | [10](/en/lektionen/lektion10#_10-5-vocabulary-list) |
+| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | evil deed, wickedness (opposite of puṇya) | [10](/en/lektionen/lektion10#_10-5-vocabulary-list) |
 | ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | also synonymous with Indecl.: again, time and again, back, once more ; however, but (before voiced sounds except r-: ) | [29](/en/lektionen/lektion29#_29-2-vocabulary-list) |
 | ⟪पाशुपाल्य⟫ | [pāśupālya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāśupālya&filter=roman&accent=no&transLit=roman) | n | cattle-rearing, livestock farming | [9](/en/lektionen/lektion09#_9-3-vocabulary) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | paternal grandfather | [42](/en/lektionen/lektion42#_42-2-word-list) |
@@ -955,7 +959,7 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | of the same kind, equal, similar; m.: contemporary | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪समान ३⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | equal, same | [23](/en/lektionen/lektion23#_23-4-word-list) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | each, all | [50](/en/lektionen/lektion50#_50-2-word-list) |
-| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | together with, jointly with (also in the context of "fighting with" etc.) (Postposition taking the Instrumental) | [10](/en/lektionen/lektion10#_10-5-vocabulary-list) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | together with, jointly with (also in „to fight with“ etc.) (Postposition with Instrumental) | [10](/en/lektionen/lektion10#_10-5-vocabulary-list) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | united, provided with | [18](/en/lektionen/lektion18#_18-4-word-list) |
 | ⟪सह्⟫ | [sah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sah&filter=roman&accent=no&transLit=roman) | — | to overcome, to endure, patiently to endure = to forgive | [12](/en/lektionen/lektion12#_12-5-word-list) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | leading to the goal, effecting | [16](/en/lektionen/lektion16#_16-2-vocabulary-list) |

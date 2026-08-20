@@ -72,9 +72,11 @@ Van die woord se betekenis.
 
 Om te begin, 'n kuriositeit:
 
->"Toe William Jones [1746–1794] en Henry Thomas Colebrooke (1765—1857) Sanskrit vir die eerste keer deeglik bestudeer, gedeeltelik vertaal en bevind het dat dit 'n ryk literatuur en 'n aansienlike verwantskap met die klassieke tale toon, het hulle op aansienlike weerstand gestuit. Aangesien die ou opvattings, wat óf alle tale van Hebreeus afgelei het óf hulle grotendeels van mekaar geïsoleer het, nie met hierdie intieme verhouding van Sanskrit tot die geografies so ver afgeleë Europese tale versoen kon word nie, het die beroemde filoloog Dugald Steward (1753—1828) die eenvoudigste uitweg geneem deur die hele verhaal met die Sanskrit-taal tot 'n leuen te verklaar. Hy het 'n essay geskryf waarin hy probeer bewys het dat dit deur die skelm Brahmane volgens die model van Grieks en Latyn saamgeflans is, en dat beide die taal en die literatuur 'n vervalsing is. Hierdie siening is nog in die jaar 1840 deur die professor in Dublin, Charles William Wall, breedvoerig uiteengesit (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
 >[Bron: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Aanlyn: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Toegang verkry op 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Literatuur vir beginners in Indologie
 
@@ -94,7 +96,9 @@ Afb.: Titelblad
 
 Beste sistematiese grammatika:
 
-> **Kielhorn**, Franz \<1840-1908\>: Grammatika van die Sanskrit-taal / Uit Engels vertaal deur W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 bl. -- Oorspronklike titel: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +118,9 @@ Afb.: Omslagtitel
 
 'n Goeie, bondige voorstelling van die Europese taalkundige terminologie kan gevind word in:
 
-> **Etimologiese Woordeboek van die Duitse Taal** / [Friedrich] Kluge \<1856 - 1926\>. Geredigeer deur Elmar Seebold. -- 24ste, hersiene en uitgebreide uitgawe. -- Berlin [e.a.] : de Gruyter, 2002. - LXXXIX, 1023 bl. : 24 cm. -- ISBN 3-11-017473-1 Sagteband. -- bl. XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

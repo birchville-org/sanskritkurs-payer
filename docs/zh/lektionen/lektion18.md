@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "# 第18課"
 lesson_id: 18
+
 ---
 
 # 第18課
@@ -8,433 +9,407 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. 限定複合詞（⟪तत्पुरुष⟫）帶副詞性前成分
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können
+作為副詞性的（不可變格的）前成分，可以
 
-*   Partikel
-*   Partikel
-*   Partikel
-*   andere Indeklinabilia
+*   副詞
+*   介詞
+*   語助詞
+*   其他不可變格詞
 
 ::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+被使用。此類 Tatpuruṣa（持業釋）通常屬於 Nityasamāsa 類別，即 ⟪नित्यसमास⟫（m. "固定複合詞"），也就是說，這些複合詞完全無法僅憑其內部出現的詞彙來解析。
 :::
-Beispiele:
+範例：
 
-⟪अति⟫ "darüber hinaus":
+⟪अति⟫ "除此之外"：
 
 ::: indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+⟪अतिगुरु⟫ 3：極度沉重，極具分量
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+⟪अतिपुरुष⟫ m.：卓越之人，超人，英雄
 
-⟪अतिस्तुति⟫ f.: übermäßiges Lob
+⟪अतिस्तुति⟫ f.：過度的讚美
 
-⟪अत्युक्ति⟫ f.: übermäßiges Sprechen, Übertreibung
+⟪अत्युक्ति⟫ f.：過度的言說，誇大
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+最重要的副詞性前成分是 a-/an-、su-、dus-。
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
+⟪अ⟫（在輔音前），⟪अन्⟫（在元音前）：un-：在複合詞中代替 ⟪न⟫ "不"。
 
-Beispiele:
+範例：
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫)：虛妄，謊言
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3：未做，無為
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ ：非婆羅門女，無婆羅門性
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ ：非神，無神性
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "好，善"；在解析複合詞時，註釋者會用含義為「好」的形容詞（例如 ⟪सुष्टु⟫ 3，⟪शोभन⟫ 3）來替換它。
 
-Beispiele:
+範例：
 
 ::: indent
-⟪सुकवि⟫ m.: ein guter Dichter
+⟪सुकवि⟫ m.：一位優秀的詩人
 
-⟪सुकृत⟫ n.: gute Tat
+⟪सुकृत⟫ n.：善行
 
-⟪सुखादित⟫ 3: gut gekaut
+⟪सुखादित⟫ 3：咀嚼良好
 
-⟪सुदुःख⟫ n.: großes Leid
+⟪सुदुःख⟫ n.：巨大的痛苦
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
+⟪दुस्⟫ 「惡劣、糟糕」（注意Sandhi連音規則）。
 
-Beispiele:
+範例：
 
 ::: indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
+⟪दुर्नय⟫ m.：不良的引導、不佳的行為
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+⟪दुष्करण⟫ n.：惡行、艱難的行動
 :::
-Dabei gilt folgendes Gesetz:
+此處適用以下規則：
 
 ::: grammar-box
 
-Lautveränderung von -s in Komposita
+複合詞中-s的音變規則
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+與句子Sandhi不同，在複合詞前成分的末尾：
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-i-或-u-之後的-s，若位於清軟腭音或雙唇音之前，則變為 » -ṣ
 
-Deshalb: ⟪दुष्करण⟫
+因此：⟪दुष्करण⟫
 
 :::
-### 18.2.1. ⟪सुकर⟫ / ⟪दुष्कर⟫ 类型的复合词
+### 18.2.1. 類型為 ⟪सुकर⟫ / ⟪दुष्कर⟫ 的複合詞
 
 ::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+類型為 ⟪सुकर⟫ / ⟪दुष्कर⟫ 的複合詞主要具有被動可能性的意義：
 
-Beispiele:
+範例：
 
 :::
 ::: indent
-⟪सुकर⟫ 3: leicht zu tun
+⟪सुकर⟫ 3：容易做
 
-⟪सुगम⟫ 3: leicht zu gehen
+⟪सुगम⟫ 3：容易走
 
-⟪दुर्गम⟫ 3: schwer zu gehen
+⟪दुर्गम⟫ 3：難以行走
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+⟪सुदुर्गम⟫ 3：極難行走
 :::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. nañ-Tatpuruṣa（a- / an-）的意義
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+帶有 a- / an- 的 Tatpuruṣa 複合詞可能具有以下意義：
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):  
-::: indent
-⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-:::
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):  
-::: indent
-⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
-:::
-3.  Andersheit (⟪तदन्यत्वम्⟫):  
-::: indent
-⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
-:::
-4.  Kleinheit (⟪तदल्पता⟫):  
-::: indent
-⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
-:::
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):  
-::: indent
-⟪अकालः⟫ = Unzeit
-:::
-6.  Feindschaft (⟪निरोधः⟫):  
-::: indent
-⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
-:::
+1. 相似性（⟪तत्सादृश्यम्⟫）：
+⟪अब्राह्मणः⟫ = 佩戴聖線（⟪यज्ञोपवीत⟫ n.）的剎帝利或吠舍，因而類似婆羅門但並非婆羅門
+2. 缺乏、不存在（⟪तदभावः⟫）：
+⟪अज्ञानम्⟫ = 無知（缺乏知識）
+3. 異質性（⟪तदन्यत्वम्⟫）：
+⟪अपटम्⟫ = 非布料／衣物（⟪पट⟫ m：織物、衣服）之物
+4. 微小（⟪तदल्पता⟫）：
+⟪अनुदरम्⟫ = 小肚子（非肚子）
+5. 貶抑（⟪अप्राशास्त्यम्⟫）：
+⟪अकालः⟫ = 非時
+6. 敵意（⟪निरोधः⟫）：
+⟪असुरः⟫ = 敵神（根據錯誤的詞源 a-sura）
 
-Folgender Vers fasst diese Bedeutungen zusammen:
+以下偈頌總結了這些含義：
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+我們稱 nañ（= a-/an-）有六種含義 ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. 動詞複合詞
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ 第 2 頁，行 14-15
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süße des Gangeswassers durch Meerwasser.
+通過前綴，詞根的含義被強行改變，就像恆河水的甜味被海水改變一樣。
 
 ::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+梵語中的動詞可以與前綴（⟪उपसर्ग⟫ m.）結合。通常適用句子連聲規則。前綴可能會顯著修改詞根的含義，因此在許多情況下，必須單獨學習帶有前綴的動詞含義。帶前綴的動詞可能具有與簡單詞根不同的語氣（P, Ā）。在一個詞根之前，可以同時放置多個前綴。
 
 :::
-Einige wichtige Präverbe sind:
+一些重要的前綴是：
 
-⟪उप⟫ "zu, hin, gegen"
+⟪उप⟫ "向、朝、對"
 
-Beispiele:
+例子：
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : 前往、着手
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : 指示、教導、勸告
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : 到達
 
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: 配備有（工具格）
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : 掌握、獲得
 :::
-⟪प्र⟫ "vorwärts, hervor"
+⟪प्र⟫ "向前、突出"
 
-Beispiele:
+例子：
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : 獲得
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : 展示
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : 醒來、察覺
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : 出現、突出、統治（屬格、位格、與格）
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫（「pra + ukta）：解釋、告知、宣說
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫：宣說、稱呼為、解釋為
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫：讚頌、大聲讚頌、提及某事、開始
 :::
-⟪वि⟫ "auseinander, weg, zer-, ver-"
+⟪वि⟫ 「分開、離開、破碎、分離」
 
-Beispiele:
+範例：
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+⟪विगम्⟫ 1 ⟪विगच्छति⟫：分散、消逝、消失
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
+⟪विजि⟫ 1 Ā（！）⟪विजयते⟫：擊敗
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫：取代、解放
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫：辯論、闡述、講述
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫：遺忘
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+⟪विहन्⟫ 2 ⟪विहन्ति⟫：擊碎、摧毀、消滅
 :::
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ 「一起、共同」
 
-Beispiele:
+範例：
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫：坐在一起、停留、居住
 
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫：聚集、聯合
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā（！）⟪संगच्छते⟫：聚集、相遇（友好或敵對）、與（受格）發生性關係
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫：產生
 
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3：出生、產生、成為
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫：完全覺醒（朝向真理）
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫：被給予某人、成功
 
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3：配備（工具格）
 :::
 ::: grammar-box
 
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
+詞根 ⟪कृ⟫ 「做」在與前綴 ⟪सम् । उप । अप । परि⟫ 結合時，也顯示出形式 ⟪स्कृ⟫
 
 :::
-Beispiel:
+範例：
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
+sam-kṛ 8 ⟪संस्करोति⟫：準備、為祭典準備、奉獻
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+*   PPP ⟪संस्कृत⟫ 3：為祭典準備好； ⟪संस्कृत⟫ n.：梵語：適合祭典的語言；對應詞 ⟪प्राकृत⟫ 3：普通、平凡； ⟪प्राकृत⟫ n.：普通語言，巴利語（指與梵語相關的民間和通用語言的稱呼）
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 第18.3.1節。動詞複合名詞的派生
 
 ::: grammar-box
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+帶有前綴的词根可以透過 kṛt 後綴來派生名詞。
 
 :::
-Beispiele:
+範例：
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.：奉獻、準備；過渡儀式 = 指伴隨生命各個階段（從受孕到死亡）的各種儀式的總稱（參見 Basham 的精彩總結，頁160-170！）
 
 ::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804))
+圖：⟪विवाहः⟫
+婚禮 = ⟪विवाह⟫ m.，一個重要的 ⟪संस्कारः⟫
+（圖片來源：[詳情](/zh/licenses#lekt1804)）
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.：引導（至祭火旁）= 儀式，在此為三個上層階級的男性成員繫上聖線（⟪यज्ञोपवीत⟫ n.），並將神聖的偈頌 ⟪सावित्री⟫ 低語於其耳中，從那時起他們每天日出日落時都要誦讀。對於婆羅門而言，《梨俱吠陀》III.62.10 是：
 
 ::: indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+「願我們接受『驅策者』神聖的卓越光輝，願其激發我們的思想。」
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+透過 Upanayana（入學禮）實現第二次出生，因此：⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801))
+圖：⟪उपनयनम्⟫
+「一名年輕男孩在 Upanayana 儀式中。從左肩垂至腰部的黃色細線是 Yagnopaivta（聖線）。另請注意腰部纏繞的 Munja 草腰帶。右手持有的枝條（通常來自 Peepa 樹）象徵他進入 Brahmacharya（梵行期）。」
+（圖片來源：[詳情](/zh/licenses#lekt1801)）
 :::
-## 18.4. 词汇表
+## 第十八章第4節。詞彙表
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
+⟪सुष्टु⟫ 3：受高度讚揚的、卓越的、好的
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
+⟪शोभन⟫ 3：閃耀的、壯觀的、華麗的、美麗的、好的
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪सम⟫ 3：相同的、平等的、相似的（接工具格）
 
-⟪व्याधि⟫ m.: Krankheit
+⟪व्याधि⟫ m.：疾病
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
+⟪रिपु⟫ m. = ⟪शत्रु⟫ ，騙子
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.：知識
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪शूर⟫ 3：勇敢的、英雄般的；m.：英雄
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.：聲音、音調、信號聲；詞語
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.：水
 
-⟪उदक⟫ n.: Wasser
+⟪अन्त⟫ m.：結束、界限
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪आदि⟫ m.：開始
 
-⟪आदि⟫ m.: Anfang
+⟪दण्ड⟫ m.：棍棒、鞭打、懲罰
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.：度量、限制
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Maß, Begrenzung
+⟪सहित⟫ 3：結合的、配備有……的
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪हस्त⟫ m.：手
 
-⟪हस्त⟫ m.: Hand
+⟪प्रभृति⟫ f.：開始
 
-⟪प्रभृति⟫ f.: Anfang
+## 第十八章第5節。練習
 
-## 18.5. 练习
+A) 翻譯位於本課開頭的 ⟪सुभाषित⟫。
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+B) 翻譯以下持業釋（Tatpuruṣa）：
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+⟪१⟫。 ⟪सुकर ३ २⟫。 ⟪सुकुल⟫ n.
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
+⟪३⟫。 ⟪सुकृती⟫ f.
 
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪४⟫。 ⟪अकरण⟫ n.
 
-⟪३⟫. ⟪सुकृती⟫ f.
+⟪५⟫。 ⟪दुरिष्ट⟫ n.
 
-⟪४⟫. ⟪अकरण⟫ n.
+⟪६⟫。 ⟪दुरिष्टि⟫ f.
 
-⟪५⟫. ⟪दुरिष्ट⟫ n.
+⟪७⟫。 ⟪सुखादित⟫ 3
 
-⟪६⟫. ⟪दुरिष्टि⟫ f.
+⟪८⟫。 ⟪दुष्कर⟫ 3
 
-⟪७⟫. ⟪सुखादित⟫ 3
+⟪९⟫。 ⟪दुर्जय⟫ 3
 
-⟪८⟫. ⟪दुष्कर⟫ 3
+⟪१०⟫。 ⟪सुगत⟫ m.
 
-⟪९⟫. ⟪दुर्जय⟫ 3
+⟪११⟫。 ⟪सुजन⟫ m.
 
-⟪१०⟫. ⟪सुगत⟫ m.
+⟪१२⟫。 ⟪दुरुक्ति⟫ f.
 
-⟪११⟫. ⟪सुजन⟫ m.
+⟪१३⟫。 ⟪दुरुपदेश⟫ m.
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f.
+⟪१४⟫。 ⟪सुजात⟫ 3
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m.
+⟪१५⟫。 ⟪सुगुरु⟫ 3
 
-⟪१४⟫. ⟪सुजात⟫ 3
+⟪१६⟫。 ⟪अनाप्त⟫ 3
 
-⟪१५⟫. ⟪सुगुरु⟫ 3
+⟪१७⟫。 ⟪अनीति⟫ f.
 
-⟪१६⟫. ⟪अनाप्त⟫ 3
+⟪१८⟫。 ⟪अनीश्वरत्व⟫ n.
 
-⟪१७⟫. ⟪अनीति⟫ f.
+⟪१९⟫。 ⟪सुदुःख⟫ n.
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n.
+⟪२०⟫。 ⟪दुर्जन⟫ m.
 
-⟪१९⟫. ⟪सुदुःख⟫ n.
+⟪२१⟫。 ⟪दुर्दग्ध⟫ 3
 
-⟪२०⟫. ⟪दुर्जन⟫ m.
+⟪२२⟫。 ⟪अतिकृत⟫ 3
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3
+⟪२३⟫。 ⟪सुपुत्र⟫ m.
 
-⟪२२⟫. ⟪अतिकृत⟫ 3
+⟪२४⟫。 ⟪सुबुद्धि⟫ f.
 
-⟪२३⟫. ⟪सुपुत्र⟫ m.
+⟪२५⟫。 ⟪दुष्पुत्र⟫ m.
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f.
+⟪२६⟫。 ⟪दुष्प्रणीत⟫ 3
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m.
+⟪२७⟫。 ⟪सुमति⟫ f.
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3
+⟪२८⟫。 ⟪दुर्लभ⟫ 3
 
-⟪२७⟫. ⟪सुमति⟫ f.
+⟪२९⟫。 ⟪दुर्वच⟫ 3
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3
+⟪३०⟫。 ⟪दुर्वचन⟫ n.
 
-⟪२९⟫. ⟪दुर्वच⟫ 3
+⟪३१⟫。 ⟪अमृत⟫ n.
 
-⟪३०⟫. ⟪दुर्वचन⟫ n.
+## 第十八章第6節。複習練習
 
-⟪३१⟫. ⟪अमृत⟫ n.
+請勿使用任何輔助工具！
 
-## 18.6. Wiederholungsübung
+A) 解析以下梵文複合詞，並提供翻譯建議：
 
-Bitte keine Hilfsmittel benutzen!
+⟪१⟫。 ⟪अन्तगत⟫ 3
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+⟪२⟫。 ⟪क्षमाकर⟫ 3
 
-⟪१⟫. ⟪अन्तगत⟫ 3
+⟪३⟫。 ⟪क्षेमेन्द्र⟫ m.
 
-⟪२⟫. ⟪क्षमाकर⟫ 3
+⟪४⟫。 ⟪शस्त्रकोपनिरोध⟫ m.
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.
+⟪५⟫。 ⟪सिंहसंहनन⟫ n.
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m.
+⟪६⟫。⟪अरिसिंह⟫ m.
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.
+⟪७⟫。⟪आहारनिद्राभय⟫ n.
 
-⟪६⟫. ⟪अरिसिंह⟫ m.
+⟪८⟫。⟪मृतिसाधनी⟫ f.
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n.
-
-⟪८⟫. ⟪मृतिसाधनी⟫ f.
-
-⟪९⟫. ⟪कुलोपदेश⟫ m.
+⟪९⟫。⟪कुलोपदेश⟫ m.
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Bildquelle: [Details](/licenses#lekt1802))
+圖：⟪मृतिसाधनी काली⟫
+1770年印刷品
+（圖片來源：[詳情](/zh/licenses#lekt1802)）
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) 請使用第二現在時類的動詞進行翻譯：
 
-1\. Der Brahmane preist die Göttinnen.
+1\. 婆羅門讚頌諸女神。
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
+2\. 英雄們走在通往雅利安人村莊的艱難道路上。
 
-3\. Die Hausmagd melkt die Kühe.
+3\. 女僕擠牛奶。
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
+4\. 雅利安人的敵人擊殺強大的剎帝利。
 
-5\. Ein Gespenst isst keine Früchte.
+5\. 鬼魂不吃水果。
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
+6\. 如此說道那位[走好輪迴之路]的人對弟子說。
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803))
+圖：⟪सुगतः गन्धार⟫ 公元一/二世紀
+（圖片來源：[詳情](/zh/licenses#lekt1803)）
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) 請用兩種方式提供瑜伽的梵文定義：一種使用複合詞，另一種將複合詞拆解。
 
-D) Übersetzen Sie:
+D) 翻譯：
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 

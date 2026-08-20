@@ -1,519 +1,496 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "第30課"
+subtitle: '第九現在時類（⟪क्र्यादि⟫ = \"⟪क्री⟫ 等\"）'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第30課
 
-## 30.1. 第九现在时类 (⟪क्र्यादि⟫ = "⟪क्री⟫ 等")
+## 30.1. 第九現在詞類（⟪क्र्यादि⟫ = "⟪क्री⟩ 等"）
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-*   starker Stamm: tiefstufige Wurzel + -nā-
+*   強詞幹：低階根 + -nā-
 
-*   schwacher Stamm:
+*   弱詞幹：
 
-    *   vor Konsonant: Tiefstufige Wurzel + -nī-
+*   在輔音前：低階根 + -nī-
 
-    *   vor Vokal: tiefstufige Wurzel + -n-
+*   在元音前：低階根 + -n-
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "購買"
 :::
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
-| **3. Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
+|**第三人稱:br向動詞**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
+|**第三人稱:br中動詞**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
-Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ⟪ज्ञा⟫ 9U "erkennen, wissen":
+對於此現在詞類，特別需要注意的是由根 ⟪ज्ञा⟫ 9U "認知、知道"構成現在詞幹的方式：
 
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
-| **3. Person:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
+|**第三人稱:br向動詞**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
+|**第三人稱:br中動詞**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
-Die Form ⟪जा⟫ die dem Präsensstamm von ⟪ज्ञा⟫ zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
+形式 ⟪जा⟫，其基礎為 ⟪ज्ञा⟫ 的現在詞幹，可以通過元音交替序列 -ā（低階）-nā（高階）來解釋，或者通過從 *jñā-nā-ti 同化而來。
 
-Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix der 9. Klasse:
+一些以長元音結尾的根，在第九詞類的現在詞幹後綴前會縮短該元音：
 
-Beispiel:
+範例：
 
 ::: indent
-⟪पू⟫ 9U "reinigen"
+⟪पू⟫ 9U "淨化"
 :::
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
-| **3. Person:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
+|**第三人稱:br向動詞**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
+|**第三人稱:br中動詞**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
 :::
-Bildung des Partizip Präsens Parasmaipada:
+現在分詞（Parasmaipada）的構成：
 
-Beispiel:
+範例：
 
 ::: indent
-⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
+⟪क्रीणन्त्⟫ (krī + n + ant)；陰性： ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
+## 30.2. 願意的用法（⟪लिङ्⟫）
 
-Der Optativ wird gebraucht:
+願意（Optativ）用於：
 
 ::: grammar-box
-**1. zur Bezeichnung**
+**1. 表示**
 
-*   **eines Wunsches**
-*   **eines Wunsches**
-*   **einer Bitte**
+*   **願望**
+*   **請求**
+*   **委婉的命令**
 
-**(hierbei überschneidet sich der Optativ - ⟪लिङ्⟫ - mit dem Imperativ - ⟪लोट्⟫)**
+**（此處願意 - ⟪लिङ्⟫ - 與命令式 - ⟪लोट्⟫ 重疊）**
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Der Leibeigene möge ins Dorf kommen"
+⟪दासो ग्राममागच्छेत्⟫ = 「僕役應來到村莊」
 :::
 ::: grammar-box
-**2. Wenn etwas als**
+**2. 當某事被呈現為**
 
-*   **möglich**
-*   **wahrscheinlich**
-*   **vermutlich**
+*   **可能**
+*   ** probable（可能的）**
+*   **推測**
 
-**dargestellt werden soll.**
+**時。**
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात्⟫ = 「如果他離開村莊，他就聽不到老師」
 :::
 ::: grammar-box
-**3. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."**
+**3. 帶有願意的關係子句有時具有「如果有人……」的含義。**
 :::
-Beispiel:
+範例：
 
 ::: indent
-⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
+⟪यो नृतं वदेत्स नरकं पतेत्⟫ = 「如果有人說謊，他會下地獄」=「有人說謊時，他便墮入地獄」
 :::
-## 30.3. 第三人称单数和复数的次要词尾
+## 30.3. 第三人稱單數和複數的後綴
 
-Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (⟪लुङ्⟫), Prekativ (⟪आशिर्लिङ्⟫) und Konditionalis haben die sog. Sekundärendungen:
+願意（⟪लिङ्⟫）、未完成過去時（⟪लङ्⟫）、不定過去時（⟪लुङ्⟫）、祈願式（⟪आशिर्लिङ्⟫）和條件式具有所謂的「次要後綴」（Sekundärendungen）：
 
 ::: grammar-box
 
-| | 3. Person Singular | 3. Person Plural |
+| |第三人稱單數|第三人稱複數|
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
+|**Parasmaipada（他動語態）**|**-t**|無詞幹變化類別：**-an** 或 **-ur**：<br>願意：** -ur**|
+|**Ātmanepada（自動語態）**|**-ta**|無詞幹變化類別：**-ata**（源自 *nta）：<br>願意：** -ran**|
 
 :::
-## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
+## 30.4. 虛擬語氣現在時的構成（⟪लिङ्⟫）
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. 主題性現在時類別
 
 ::: grammar-box
-**vor konsonantisch anlautenden Endungen:**
+**在輔音起始的詞尾前：**
 
-**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
+**現在時詞幹 + -i-（與-a-融合為-e-）+ 次要詞尾**
 
-**vor vokalisch anlautenden Endungen:**
+**在元音起始的詞尾前：**
 
-**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
+**現在時詞幹 + -i-（» -e-）+ -y- + 次要詞尾**
 :::
-Beispiele:
+範例：
 
-1\. Präsensklasse:
+1\. 現在時類別：
 
 ⟪भू⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
-| **3. Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
+|**第三人稱:brParasmaipada（他動語態）**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
+|**第三人稱:brĀtmanepada（自動語態）**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
-4\. Präsensklasse:
+4\. 現在時類別：
 
 ⟪नृत्⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
-| **3. Person:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
+|**第三人稱:brParasmaipada（他動語態）**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
+|**第三人稱:brĀtmanepada（自動語態）**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
-6\. Präsensklasse
+6\. 現在時類別
 
 ⟪विश्⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
-| **3. Person:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
+|**第三人稱:brParasmaipada（他動語態）**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
+|**第三人稱:brĀtmanepada（自動語態）**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
-10\. Präsensklasse und Kausative
+10\. 現在時類別與使動式
 
 ⟪चुर्⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
-| **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
+|**第三人稱:brParasmaipada（他動語態）**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
+|**第三人稱:brĀtmanepada（自動語態）**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. 非主題現在詞類
 
 ::: grammar-box
-**Parasmaipada:**
+**外動語態：**
 
-**schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung**
+**弱現在詞幹 + -yā-（在 -ur 前為：-y-）+ 次要詞尾**
 
 **Ātmanepada:**
 
-**schwacher Präsensstamm + -ī- + Sekundärendung**
+**弱現在詞幹 + -ī- + 次要詞尾**
 :::
-Beispiele:
+範例：
 
-2\. Präsensklasse:
+2\. 現在詞類：
 
 ⟪द्विष्⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
-| **3. Person:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
+|**第三人稱:br外動語態**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
+|**第三人稱:br內動語態**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
 :::
-5\. Präsensklasse
+5\. 現在詞類
 
 ⟪सु⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
-| **3. Person:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
+|**第三人稱:br外動語態**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
+|**第三人稱:br內動語態**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
 :::
-8\. Präsensklasse
+8\. 現在詞類
 
 ⟪तन्⟫
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
-| **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
+|**第三人稱:br外動語態**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
+|**第三人稱:br內動語態**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
 :::
-**kṛ**
-(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
-| **3. Person:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
+|**第三人稱:br外動語態**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
+|**第三人稱:br內動語態**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
 :::
 ::: grammar-box
 
-| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| |單數:br⟪एकवचन⟫|複數:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **3. Person Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
-| **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
+|**第三人稱 外動語態**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
+|**第三人稱 內動語態**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. 詞尾 -r 的連音變化
 
 ::: grammar-box
-**Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
+**除了 -ar 之外，詞尾的 -r 適用與詞尾 -s 相同的連音規則。**
 
-**-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
+**-ar 在濁音前保持為 -ar，但在 r- 之前則省略 -r，且其中的 -a- 被替換為 -ā-。**
 :::
-Beispiele:
+範例：
 
 ::: indent
-⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
-
-⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
-
-⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
+⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना रोदिति⟫
 :::
-## 30.6. 词汇表
+## 30.6. 詞彙表
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ ：購買
 
 ::: indent
-Fut. ⟪क्रेष्यति⟫  
-Pass. ⟪क्रीयते⟫  
-PPP ⟪क्रीत⟫  
-Inf. ⟪क्रेतुम्⟫
+未來式 ⟪क्रेष्यति⟫  
+被動式 ⟪क्रीयते⟫  
+過去分詞 ⟪क्रीत⟫  
+不定詞 ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ ：出售
 
 ::: indent
-Absol. ⟪विक्रीय⟫
+絕對副詞 ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
-Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+圖注：⟪क्रीणन्ति विक्रीणते च⟫
+Bundi = ⟪बुन्दी⟫，Rajasthan = ⟪राजस्थान⟫
+（圖片來源：[詳情](/zh/licenses#lekt3001)）
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ ：認識、辨識、知道、理解
 
 ::: indent
-Fut. ⟪ज्ञास्यति⟫  
-Pass. ⟪ज्ञायते⟫  
-Kaus. ⟪ज्ञापयति⟫  
-Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
-PPP ⟪ज्ञात⟫  
-Inf. ⟪ज्ञातुम्⟫
+未來式 ⟪ज्ञास्यति⟫  
+被動式 ⟪ज्ञायते⟫  
+使役式 ⟪ज्ञापयति⟫  
+使役式過去分詞 ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+過去分詞 ⟪ज्ञात⟫  
+不定詞 ⟪ज्ञातुम्⟫
 
-davon:
+衍生自：
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ 陽性名詞：（血緣）親戚（親戚就是那些你認識的人！）
 
-⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+⟪ज्ञान⟫ 中性名詞：認知、知識、認識（特別指宗教與哲學中「更高」真理的認知）
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+圖注：⟪ज्ञातयः⟫
+Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫，Maharashtra = ⟪महाराष्ट्र⟫
+（圖片來源：[詳情](/zh/licenses#lekt3002)）
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
+⟪पू⟫ 9U ⟪पुनाति⟫ ：清潔、淨化
 
 ::: indent
-Fut. ⟪पविष्यति⟫  
-Pass. ⟪पूयते⟫  
-Kaus. ⟪पावयति⟫  
-PPP ⟪पूत⟫  
-Inf. ⟪पवितुम्⟫
+未來式 ⟪पविष्यति⟫  
+被動式 ⟪पूयते⟫  
+使役式 ⟪पावयति⟫  
+過去分詞 ⟪पूत⟫  
+不定詞 ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Details](/licenses#lekt3003))
+圖注：⟪श्रोत्राणि पुनाति⟫
+（圖片來源：[詳情](/zh/licenses#lekt3003)）
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : 吃，消耗
 
 ::: indent
-Fut. ⟪अशिष्यति⟫  
-Pass. ⟪अश्यते⟫  
-Kaus. ⟪आशयति⟫  
+未來式 ⟪अशिष्यति⟫  
+被動式 ⟪अश्यते⟫  
+使役式 ⟪आशयति⟫  
 PPP ⟪अशित⟫  
-Inf. ⟪अशितुम्⟫
+不定詞 ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
-⟪थाली⟫, Südindien
-(Bildquelle: [Details](/licenses#lekt3005))
+圖：⟪अश्नीयात् थाली⟫，南印度
+（圖片來源：[詳情](/zh/licenses#lekt3005)）
 :::
-⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+⟪प्रिय ३⟫：可愛，慈愛，友好
 
 ::: media
 ![](/images/lekt3004.webp)
-Abb.: ⟪प्रिया⟫
-(Bildquelle: [Details](/licenses#lekt3004))
+圖：⟪प्रिया⟫
+（圖片來源：[詳情](/zh/licenses#lekt3004)）
 :::
-⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+⟪चेत्⟫ 連詞：如果；前提是（從不出現在句首）
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न चेत्⟫ ：如果不
 :::
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ 連詞：如果
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
+⟪यद्यपि⟫ ：即使，縱使，雖然
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫ ：如果是這樣，在這種情況下
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫ ：再次，反覆地，返回，再一次，相反，但是
 
 ::: indent
-davon:
+⟪पुनः पुनर्⟫ ：反覆地
 
-davon:
+由此衍生：
 
-⟪पुनर्भव⟫ m.: Wiedergeburt
+⟪पुनर्भव⟫ 陽性：轉世
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/licenses#lekt2904))
+圖：⟪पुनर्भवः⟫
+（圖片來源：[詳情](/zh/licenses#lekt2904)）
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+⟪जीव्⟫ 1P ⟪जीवति⟫ ：生活
 
 ::: indent
-Fut. ⟪जीविष्यति⟫  
-Pass. ⟪जीव्यते⟫  
-Kaus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : lebend  
-Inf. ⟪जीवितुम्⟫
+未來式 ⟪जीविष्यति⟫  
+被動式 ⟪जीव्यते⟫  
+使役式 ⟪जीवयति⟫  
+PPP ⟪जीवित⟫ ：活著的  
+不定詞 ⟪जीवितुम्⟫
 
-davon:
+由此衍生：
 
-⟪जीव⟫ m./n.: Leben, individuelle Seele
+⟪जीव⟫ 陽性/中性：生命，個體靈魂
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+⟪सनातन ३⟫ 陰性：⟪सनातनी⟫ ：永恆，不朽，持久
 
-## 30.7. 练习
+## 第30.7節。練習
 
-A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um:
+A) 將以下動詞形式轉換為相應的人稱、數和語態的虛擬式：
 
-1.  ⟪ह्रियते⟫
-2.  ⟪ध्नन्ति⟫
-3.  ⟪स्मरति⟫
-4.  ⟪स्थापयन्ति⟫
-5.  ⟪स्तौति⟫
-6.  ⟪सर्ज्यते⟫
-7.  ⟪सुन्वन्ति⟫
-8.  ⟪सिञ्चति⟫
-9.  ⟪शृणोति⟫
-10.  ⟪शक्नुवन्ति⟫
-11.  ⟪वर्तन्ते⟫
-12.  ⟪वेशयन्ति⟫
-13.  ⟪वस्ते⟫
-14.  ⟪उष्यते⟫
-15.  ⟪वाद्यते⟫
-16.  ⟪उच्यते⟫
-17.  ⟪लम्भ्यते⟫
-18.  ⟪रक्षयन्ति⟫
-19.  ⟪युध्यते⟫
-20.  ⟪इज्यते⟫
-21.  ⟪म्रियते⟫
-22.  ⟪मुञ्चन्ति⟫
-23.  ⟪मन्यन्ते⟫
-24.  ⟪भवति⟫
-25.  ⟪भजन्ति⟫
-26.  ⟪ब्रवीति⟫
-27.  ⟪बुध्यते⟫
-28.  ⟪पृच्छन्ति⟫
-29.  ⟪पुनाति⟫
-30.  ⟪पाति⟫
-31.  ⟪पीयते⟫
-32.  ⟪पद्यते⟫
-33.  ⟪पतति⟫
-34.  ⟪पाचयन्ति⟫
-35.  ⟪नृत्यन्ति⟫
-36.  ⟪नीयते⟫
-37.  ⟪द्विषते⟫
-38.  ⟪पश्यन्ति⟫
-39.  ⟪दोग्धि⟫
-40.  ⟪दुष्यति⟫
-41.  ⟪देशयन्ति⟫
-42.  ⟪दहति⟫
-43.  ⟪तनुते⟫
-44.  ⟪जानाति⟫
-45.  ⟪जानते⟫
-46.  ⟪जयन्ति⟫
-47.  ⟪जायन्ते⟫
-48.  ⟪चोर्यते⟫
-49.  ⟪चारयति⟫
-50.  ⟪गच्छन्ति⟫
-51.  ⟪खाद्यते⟫
-52.  ⟪क्रीणीते⟫
-53.  ⟪क्रियते⟫
-54.  ⟪कोपयति⟫
-55.  ⟪कामयते⟫
-56.  ⟪इच्छति⟫
-57.  ⟪आययन्ति⟫
-58.  ⟪आस्यते⟫
-59.  ⟪आप्नुवते⟫
-60.  ⟪अस्यते⟫
-61.  ⟪सन्ति⟫
-62.  ⟪अश्नुते⟫
-63.  ⟪अर्हति⟫
-64.  ⟪अदन्ति⟫
-65.  ⟪अध्यापयन्ति⟫
+1. ⟪ह्रियते⟫
+2. ⟪ध्नन्ति⟫
+3. ⟪स्मरति⟫
+4. ⟪स्थापयन्ति⟫
+5. ⟪स्तौति⟫
+6. ⟪सर्ज्यते⟫
+7. ⟪सुन्वन्ति⟫
+8. ⟪सिञ्चति⟫
+9. ⟪शृणोति⟫
+10. ⟪शक्नुवन्ति⟫
+11. ⟪वर्तन्ते⟫
+12. ⟪वेशयन्ति⟫
+13. ⟪वस्ते⟫
+14. ⟪उष्यते⟫
+15. ⟪वाद्यते⟫
+16. ⟪उच्यते⟫
+17. ⟪लम्भ्यते⟫
+18. ⟪रक्षयन्ति⟫
+19. ⟪युध्यते⟫
+20. ⟪इज्यते⟫
+21. ⟪म्रियते⟫
+22. ⟪मुञ्चन्ति⟫
+23. ⟪मन्यन्ते⟫
+24. ⟪भवति⟫
+25. ⟪भजन्ति⟫
+26. ⟪ब्रवीति⟫
+27. ⟪बुध्यते⟫
+28. ⟪पृच्छन्ति⟫
+29. ⟪पुनाति⟫
+30. ⟪पाति⟫
+31. ⟪पीयते⟫
+32. ⟪पद्यते⟫
+33. ⟪पतति⟫
+34. ⟪पाचयन्ति⟫
+35. ⟪नृत्यन्ति⟫
+36. ⟪नीयते⟫
+37. ⟪द्विषते⟫
+38. ⟪पश्यन्ति⟫
+39. ⟪दोग्धि⟫
+40. ⟪दुष्यति⟫
+41. ⟪देशयन्ति⟫
+42. ⟪दहति⟫
+43. ⟪तनुते⟫
+44. ⟪जानाति⟫
+45. ⟪जानते⟫
+46. ⟪जयन्ति⟫
+47. ⟪जायन्ते⟫
+48. ⟪चोर्यते⟫
+49. ⟪चारयति⟫
+50. ⟪गच्छन्ति⟫
+51. ⟪खाद्यते⟫
+52. ⟪क्रीणीते⟫
+53. ⟪क्रियते⟫
+54. ⟪कोपयति⟫
+55. ⟪कामयते⟫
+56. ⟪इच्छति⟫
+57. ⟪आययन्ति⟫
+58. ⟪आस्यते⟫
+59. ⟪आप्नुवते⟫
+60. ⟪अस्यते⟫
+61. ⟪सन्ति⟫
+62. ⟪अश्नुते⟫
+63. ⟪अर्हति⟫
+64. ⟪अदन्ति⟫
+65. ⟪अध्यापयन्ति⟫
 
-B) Überrsetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskrit auf:
+B) 翻譯以下句子，並以梵語解析複合詞：
 
-⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
+⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥ ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥ ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥ अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥ क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥ कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥ ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥ यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥ सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४⟫.⟪१३८॥⟫
 
-⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫
+## 30.8. 詞形變化複習練習
 
-⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫
+確定並翻譯以下詞形：
 
-⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫
-
-⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫
-
-⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫
-
-⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫
-
-⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
-⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
-
-## 30.8. Wiederholungsübung zur Formenlehre
-
-Bestimmen und übersetzen Sie folgende Wortformen:
-
-1.  ⟪भारे⟫
-2.  ⟪अध्ययनम्⟫
-3.  ⟪वस्तुतस्⟫
-4.  ⟪वस्त्राणि⟫
-5.  ⟪प्रतिमया⟫
-6.  ⟪आचाराय⟫
-7.  ⟪आचार्यैः⟫
-8.  ⟪अश्वेषु⟫
-9.  ⟪ताम्⟫
-10.  ⟪वृत्त्यै⟫
-11.  ⟪चरितस्य⟫
-12.  ⟪अर्हता⟫
-13.  ⟪शक्तीः⟫
-14.  ⟪कामम्⟫
-15.  ⟪भिक्षवे⟫
-16.  ⟪भगवद्गीतायाम्⟫
-17.  ⟪भगवति⟫
-18.  ⟪भक्त्याः⟫
-19.  ⟪स्थानात्⟫
-20.  ⟪स्थित्या⟫
-21.  ⟪मात्रायै⟫
-22.  ⟪प्रभृतौ⟫
-23.  ⟪हस्तेन⟫
-24.  ⟪आदेः⟫
-25.  ⟪दिष्टिम्⟫
-26.  ⟪रुद्रः⟫
-27.  ⟪मृत्यौ⟫
-28.  ⟪मृतिः⟫
-29.  ⟪द्विजातये⟫
-30.  ⟪जातिभिः⟫
-31.  ⟪व्याघ्रान्⟫
-32.  ⟪पूजाः⟫
-33.  ⟪शत्रोः⟫
-34.  ⟪उक्तिभ्यः⟫
-35.  ⟪महान्ति⟫
-36.  ⟪महति⟫
-37.  ⟪सा⟫
-38.  ⟪तस्यै⟫
-39.  ⟪तस्मिन्⟫
-40.  ⟪सते⟫
-
+1. ⟪भारे⟫
+2. ⟪अध्ययनम्⟫
+3. ⟪वस्तुतस्⟫
+4. ⟪वस्त्राणि⟫
+5. ⟪प्रतिमया⟫
+6. ⟪आचाराय⟫
+7. ⟪आचार्यैः⟫
+8. ⟪अश्वेषु⟫
+9. ⟪ताम्⟫
+10. ⟪वृत्त्यै⟫
+11. ⟪चरितस्य⟫
+12. ⟪अर्हता⟫
+13. ⟪शक्तीः⟫
+14. ⟪कामम्⟫
+15. ⟪भिक्षवे⟫
+16. ⟪भगवद्गीतायाम्⟫
+17. ⟪भगवति⟫
+18. ⟪भक्त्याः⟫
+19. ⟪स्थानात्⟫
+20. ⟪स्थित्या⟫
+21. ⟪मात्रायै⟫
+22. ⟪प्रभृतौ⟫
+23. ⟪हस्तेन⟫
+24. ⟪आदेः⟫
+25. ⟪दिष्टिम्⟫
+26. ⟪रुद्रः⟫
+27. ⟪मृत्यौ⟫
+28. ⟪मृतिः⟫
+29. ⟪द्विजातये⟫
+30. ⟪जातिभिः⟫
+31. ⟪व्याघ्रान्⟫
+32. ⟪पूजाः⟫
+33. ⟪शत्रोः⟫
+34. ⟪उक्तिभ्यः⟫
+35. ⟪महान्ति⟫
+36. ⟪महति⟫
+37. ⟪सा⟫
+38. ⟪तस्यै⟫
+39. ⟪तस्मिन्⟫
+40. ⟪सते⟫

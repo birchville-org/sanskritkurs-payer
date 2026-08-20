@@ -194,7 +194,7 @@ def check_container_nesting(content):
     stack = []
     
     valid_containers = {
-        'indent', 'grammar-box', 'media', 'deleteme-box', 'note-box',
+        'indent', 'grammar-box', 'media', 'deleteme-box', 'literatur-box', 'literatur', 'note-box',
         'no-header', 'tip', 'warning', 'important', 'center', 'metrik-schema'
     }
     

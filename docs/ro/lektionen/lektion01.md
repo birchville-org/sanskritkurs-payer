@@ -21,7 +21,6 @@ Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
 :::
 
-:::
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
 ⟪सततं⟫ ⟪मोदकप्रिय⟫ |
@@ -51,7 +50,6 @@ Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
 :::
 
-:::
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |
@@ -75,9 +73,11 @@ Semnificației cuvântului.
 
 La început, un curiosum:
 
->„Când William Jones [1746–1794] și Henry Thomas Colebrooke (1765—1857) au studiat în mod temeinic pentru prima dată limba sanscrită, au tradus parțial din ea și au constatat că prezintă o literatură bogată și o afinitate considerabilă cu limbile clasice, ei s-au lovit de o rezistență semnificativă. Deoarece această legătură intimă a sanscritei cu limbile europene, situate la distanțe geografice atât de mari, nu putea fi compatibilă cu vechile concepții care fie deduceau toate limbile din ebraică, fie le considera în mare parte izolate una de cealaltă, filologul celebru Dugald Steward (1753—1828) a adoptat cea mai simplă soluție, declarând întreaga istorie legată de limba sanscrită drept o minciună. El a scris un esai în care a încercat să demonstreze că aceasta ar fi fost forjată de brahmani escroci după modelul grecesc și latin, iar atât limba, cât și literatura fiind o falsificare. Această opinie a fost dezvoltată în detaliu încă din anul 1840 de către profesorul din Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888).“
 >
 >[Sursă: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesat la 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1. Literatur pentru începători în studii indiene
 
@@ -89,7 +89,6 @@ Fig.: Coperta unei ediții de buzunar
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
 
-:::
 ::: media
 ![](/images/lekt0104.webp)
 Fig.: Pagina de titlu
@@ -98,9 +97,10 @@ Fig.: Pagina de titlu
 
 **Cea mai bună gramatică sistematică**
 
-> **Kielhorn**, Franz (1840–1908): Grammatica limbii sanscrite / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language
-
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
 :::
+
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Coperta
@@ -111,7 +111,6 @@ Fig.: Coperta
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditare, 1983. -- 818 p. ; 23 cm.
 
-:::
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Coperta
@@ -120,9 +119,10 @@ Fig.: Coperta
 
 O prezentare bună și concisă a terminologiei lingvistice europene se găsește în:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Editat de Elmar Seebold. -- A 24-a, rev. și ext. ed. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broșură. -- P. XIII - XLVII.
-
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
 :::
+
 ::: media
 ![](/images/lekt0108.jpg)
 Fig.: Coperta
@@ -133,7 +133,6 @@ Pentru cei curioși, pentru consultare:
 
 > **Lexikon der Sprachwissenschaft** / Editat de Hadumod Bußmann. -- A 4-a, rev. și completată bibliografic. ed. / cu colaborarea lui Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-:::
 ## 1.2. Sunetele sanscrite
 
 Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea lor științifică.

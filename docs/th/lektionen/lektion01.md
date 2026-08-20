@@ -72,9 +72,11 @@ Pārvatī และ Śiva,
 
 เริ่มต้นด้วยความแปลกประหลาดอย่างหนึ่ง:
 
->"เมื่อ William Jones [1746–1794] และ Henry Thomas Colebrooke (1765—1857) ได้ศึกษาภาษาสันสกฤตอย่างละเอียดถี่ถ้วนเป็นครั้งแรก บางส่วนได้แปลและพบว่ามันมีวรรณกรรมอันอุดมสมบูรณ์และความสัมพันธ์ไม่น้อยกับภาษาคลาสสิก พวกเขาพบกับการต่อต้านอย่างมาก เนื่องจากความสัมพันธ์ที่ใกล้ชิดของภาษาสันสกฤตกับภาษายุโรปที่อยู่ห่างไกลทางภูมิศาสตร์นั้นไม่สามารถสอดคล้องกับความเชื่อเก่าแก่ที่Eitherสืบสายทุกภาษาจากภาษาฮีบรูหรือแยกจากกันโดยส่วนใหญ่ นักปราชญ์ที่มีชื่อเสียง Dugald Steward (1753—1828) จึงเลือกวิธีแก้ปัญหาที่ง่ายที่สุด โดยประกาศว่าประวัติศาสตร์ทั้งหมดเกี่ยวกับภาษาสันสกฤตเป็นคำโกหก เขาเขียนบทความที่พยายามพิสูจน์ว่ามันถูกสร้างโดยพราหมณ์ผู้เจ้าเล่ห์ตามแบบฉบับของภาษากรีกและละติน และทั้งภาษาวรรณกรรมเป็นของปลอม มุมมองนี้ยังได้รับการพัฒนาโดยศาสตราจารย์ในดับลิน Charles William Wall อย่างกว้างขวางในปี 1840 (Göttingische gelehrte Anzeigen 1842 น. 1888)."
 >
 >[แหล่งที่มา: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- น. 74. -- ออนไลน์: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- เข้าถึงเมื่อ 2010-01-10]
+::: literatur-box
+[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+:::
 
 ## 1.1.วรรณกรรมสำหรับผู้เริ่มต้นในสาขาอินเดียศึกษา
 
@@ -94,7 +96,9 @@ Pārvatī และ Śiva,
 
 ไวยากรณ์เชิงระบบที่ดีที่สุด:
 
-> **Kielhorn**, Franz (1840–1908): ไวยากรณ์ภาษาสันสกฤต / แปลจากภาษาอังกฤษโดย W. Solf [1862 - 1936]. -- เบอร์ลิน : Dümmler, 1888. -- XIII, 238 หน้า. -- ชื่อเดิม: A grammar of the Sanscrit language
+::: literatur-box
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +118,9 @@ Pārvatī และ Śiva,
 
 การนำเสนอที่ดีและกระชับของศัพท์แสงทางภาษาศาสตร์ยุโรปพบได้ใน:
 
-> **พจนานุกรมศัพท์รากศัพท์ของภาษาเยอรมัน** / [Friedrich] Kluge (1856–1926). แก้ไขโดย Elmar Seebold. -- พิมพ์ครั้งที่ 24, ผ่านการตรวจสอบและขยายความ. -- เบอร์ลิน [และที่อื่นๆ] : de Gruyter, 2002. - LXXXIX, 1023 หน้า : 24 ซม. -- ISBN 3-11-017473-1 ฉบับปกอ่อน. -- หน้า XIII - XLVII.
+::: literatur-box
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+:::
 
 ::: media
 ![](/images/lekt0108.jpg)

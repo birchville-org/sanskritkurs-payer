@@ -1,53 +1,53 @@
-
 ---
-title: "Übung 41"
+title: "練習41"
 uebung_id: 41
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習41
 
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion:
+A) 翻譯本課開頭的兩句諺語：
 
-⟪१⟫. **⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫**  
-**⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫ ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen, das (nur) in Büchern steht, und Geld, das in fremder Hand ist: Wenn der Augenblick des Bedarfs eintritt, ist dieses Wissen kein Wissen und dieses Geld kein Geld.
+⟪१⟫. **⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् ।⟫**
+**⟪कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥ १ ॥⟫**
+僅存於書本中的知識，以及存放在他人手中的金錢：當需求時刻來臨時，此種知識並非真知，此筆金錢亦非實財。
 
-⟪२⟫. **⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫ ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫**  
-**⟪पयःपानं⟫ ⟪भुजङ्गानां⟫ ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Unterweisung für Toren führt zur Erbitterung, nicht zum Frieden. Das Trinken von Milch durch Schlangen ist lediglich eine Vermehrung des Giftes.
+⟪२⟫. **⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।⟫**
+**⟪पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥ २ ॥⟫**
+對愚者的教導只會帶來怨恨，而非和平。蛇飲牛奶不過是增加了毒液而已。
 
 ---
 
-## Übungstexte
+## 練習文本
 
-B) Übersetzen Sie:
+B) 翻譯：
 
-⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-"Ich nehme Zuflucht zum Buddha, ich nehme Zuflucht zum Dharma, ich nehme Zuflucht zum Sangha" — dies ist von denen zu sagen, die zum Buddha gegangen sind.
+⟪१⟫. **⟪बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥⟫**
+「我皈依佛，我皈依法，我皈依僧」——這是由那些已歸依佛陀之人所說的話。
 
-### Exkurs: Die drei Zufluchten
-Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
+### 插曲：三皈依
+這三重歸依對於在解脫之道上擁有必要的動力和毅力至關重要。由於智慧導師數不勝數，逐一跟隨所有導師是不可能的。必須做出選擇。一位導師的人格必須顯得值得信賴（皈依佛）。
 
-Das Wesentliche ist jedoch nicht die Erlöserpersönlichkeit, sondern die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg selbst zu gehen. Man muss von der Lehre so überzeugt sein, dass man die Energie aufbringt, sie auf ihren Wahrheitsgehalt zu testen (**Zuflucht zum Dharma**).
+然而，重點並非救度者的人格，而是那使個人能夠自行行走解脫之道的教義。必須對教法深信不疑，從而投入精力去檢驗其真實性（皈依法）。
 
-Zudem muss man überzeugt sein, dass auch andere diesen Weg erfolgreich gegangen sind. Dies ist die **Zuflucht zum Sangha**, der Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind.
-⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-"Ich werde nach Benares (Kāśī) gehen, den Ganges sehen und dort sterben" — mit diesem Gedanken verliess der ehrenwerte alte Mann Söhne, Enkelsöhne und Besitz und zog nach Benares aus. Ich denke, dass er so das zu beendende Leiden überwinden wird.
+此外，人們必須確信，其他人也已成功走過這條道路。這就是**皈依僧伽**，即那些已依循佛陀之道達成解脫的聖眾團體。
+⟪२⟫. **⟪काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥⟫**
+「我將前往瓦拉納西（Kāśī），瞻仰恆河並在那裡圓寂」——懷著這樣的念頭，那位可敬的老者拋棄了兒子、孫子與財產，遷往瓦拉納西。我想，他將能藉此超越應被終結的苦痛。
 
-⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Ich habe ein Mädchen geheiratet, mit ihr einen Sohn gezeugt und grossen Reichtum erlangt; so habe ich das Glück erreicht" — in dieser Weise täuschte ich mich in der Vergangenheit. Dann erkannte ich: Aus Glück entsteht Leid; deshalb ist auch das weltliche Glück aufzugeben, und nichts sollte mit den Sinnen berührt werden.
+⟪३⟫. **⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥⟫**
+「我已娶妻，育有一子並積累了巨大財富；如此我便達到了幸福」——過去我曾以此種方式自欺。隨後我領悟：從幸福中會衍生苦痛；因此，世間的福樂也應被捨棄，感官不應再與外境接觸。
 
-⟪४⟫. **⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वैश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Nachdem er die zu verkaufenden Waren veräussert hatte, gab der sohnlose Vaiśya den Erlös den Mönchen und empfing das Verdienst der Gabe. Die Mönche verkündeten: "Diese Tat ist lobenswert." Die Einsichtigen jedoch zweifeln, ob der so handelnde Vaiśya tatsächlich Verdienstvolles getan hat.
+⟪४⟫. **⟪विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वैश्यः पुण्यं चकारेति ॥ ४ ॥⟫**
+在將待售商品變現後，這位無子的吠舍（Vaiśya）將所得款項布施給比丘們，並獲得了施捨的功德。比丘們宣稱：「此舉值得讚揚。」然而，有智慧的人卻懷疑，這樣行事的吠舍是否真的做了功德之事。
 
-⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Von Lehrern sind Schüler zu unterweisen; von Schülern ist das Pensum zu studieren.
+⟪५⟫. **⟪गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥⟫**
+教師應教導學生；學生應研習課程。
 
 ::: media
 ![](/images/uebung067.jpg)
-Abb.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
-(Bildquelle: [Details](/licenses#uebung067))
+圖：⟪बुद्धं शरणं गच्छामि⟫
+（圖片來源：[詳情](/licenses#uebung067)）
 :::

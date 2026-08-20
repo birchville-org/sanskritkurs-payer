@@ -1,464 +1,443 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "第37課"
+subtitle: "副詞 (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第37課
 
-## 37.1. 副词（⟪क्रियाविशेषणम्⟫）
+## 37.1. 副詞 (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet
+梵語中的副詞由以下方式構成：
 
-1.  durch Kasusformen von Nomina und Pronomina
-2.  mit Hilfe besonderer Suffixe und Endungen
+1. 通過名詞和代詞的格形式
+2. 使用特殊的後綴和詞尾
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fließend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
+在第一種情況下，活用的格形式與副詞之間的界限是流動的。作為特例，這裡包括那些已經凝固、古老的格形式的副詞；而在變格中則使用其他形式，或者相應的名詞不再作為名詞使用。
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. 格形式的副詞用法
 
-### 37.2.1. 宾格 (⟪द्वितीया⟫)
-
-::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   wohin?
-*   u. ä.
-*   wohin?
-*   u. ä.
-
-Adverbial gebraucht werden kann der Akkusativ:
-
-*   von Substantiven  
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäß, nach Wunsch"
-⟪अर्थम्⟫ "wegen"  
-:::
-
-*   von Adjektiven im Neutrum  
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"  
-:::
-
-*   von Pronomina im Neutrum  
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt"
-:::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.1. 賓格 (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen:
+賓格 (⟪द्वितीया⟫) 可以作為副詞使用，回答以下問題：
 
-*   wodurch?
-*   womit?
-*   u. ä.
+*   以什麼方式？
+*   多長時間？
+*   往哪裡去？
+*   等等。
 
-Adverbial gebraucht werden kann der Instrumentalis:
+賓格可以作為副詞使用：
 
-*   von Substantiven  
-    Beispiele:  
+*   名詞  
+例子：  
+⟪कामम्⟫ "如願地，依願望"  
+⟪अर्थम्⟫ "因為，由於"
+
+*   中性形容詞  
+例子：  
+⟪सुखम्⟫ "容易地，幸運地"  
+⟪नित्यम्⟫ "總是"  
+⟪साधु⟫ "正確地，好"
+
+*   中性代詞  
+例子：  
+⟪तद्⟫ "那時，因此"  
+⟪यद्⟫ "如果，就"  
+⟪एतद्⟫ "如此，這裡，現在"
 :::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")  
-:::
-
-*   von Adjektiven, oft auch in der Pluralform  
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
-:::
-### 37.2.3. Dativ (⟪चतुर्थी⟫)
+### 37.2.2. 工具格 (⟪तृतीया⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+工具格 (⟪तृतीया⟫) 可以作為副詞使用，回答以下問題：
 
-*   u. ä.
-*   u. ä.
+*   憑藉什麼？
+*   用什麼？
+*   等等。
 
-Beispiel:
+工具格可以作為副詞使用：
+
+*   名詞  
+例子：  
+⟪अर्थेन⟫ "因為，由於"  
+⟪क्षणेन⟫ "在當下，立即" (源自 ⟪क्षण⟫ m. "時刻")
+
+*   形容詞，常以複數形式出現  
+例子：  
+⟪दूरेण⟫ "遙遠地，從遠處" (源自 ⟪दूर⟫ 3 "遙遠，遠離")  
+⟪उच्चैस्⟫ "高聲地，響亮" (源自 ⟪उच्च⟫ 3 "高，升高，響亮，尖銳 (指聲音)")
 :::
-::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen"
-:::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.3.與格 (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen:
+與格 (⟪चतुर्थी⟫) 偶有作為副詞用法，用於回答以下問題：
 
-*   warum?
-*   u. ä.
-*   woher?
-*   u. ä.
+*   為了什麼目的？
+*   等等。
 
-Adverbial gebraucht werden kann der Ablativ:
-
-*   von Substantiven  
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"  
-
-*   von Adjektiven  
-    z.B. ⟪दूरात्⟫ "von fern"  
-
-*   von Pronomina  
-    Beispiele:  
+範例：
 :::
 ::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet"
+⟪अर्थाय⟫ 「為了……的目的，為了……」
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+### 37.2.4.奪格 (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?"
+奪格 (⟪पञ्चमी⟫) 可作為副詞用法，用於回答以下問題：
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
+*   為什麼？
+*   基於什麼原因？
+*   從哪裡來？
+*   等等。
+
+奪格可作為副詞用法，源自：
+
+*   名詞  
+例如：⟪बलात्⟫ 「強迫地，以暴力」  
+
+*   形容詞  
+例如：⟪दूरात्⟫ 「從遠處」  
+
+*   代詞  
+範例：  
+⟪कस्मात्⟫ 「為什麼」
+⟪अकस्मात्⟫ 「出乎意料地」
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
+### 37.2.5.屬格 (⟪षष्ठी⟫)
 
 ::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen:
+屬格 (⟪षष्ठी⟫) 偶有作為副詞用法，用於回答「多久之後？」這個問題。
 
-*   wo?
-*   u. ä.
-*   u. ä.
+例如：⟪चिरस्य⟫ 「很久之後」（對應 ⟪चिर⟫ 3「長（時間）」）
+:::
+### 37.2.6.位格 (⟪सप्तमी⟫)
 
-Beispiele:
+::: grammar-box
+位格 (⟪सप्तमी⟫) 可作為副詞用法，用於回答以下問題：
+
+*   在哪裡？
+*   在什麼情況下？
+*   等等。
+
+範例：
 :::
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern"
+\-⟪अर्थे⟫ 「因為」  
+\-⟪कृते⟫ 「為了……」  
+⟪दूरे⟫ 「遙遠地」
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+## 37.3.已不再常用的格位之副詞用法
 
-Beispiele:
+範例：
 ::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>)
+⟪जातु⟫ 「總之」（原意為「出於天性，生來」，對應中性單數對格 ⟪जातु⟫ \&lt;已不再作為名詞使用\&gt;）
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
+⟪तूष्णीम्⟫ 「沉默地」（對應中性單數對格，源自已不再常用的 ⟪तूष्णी⟫ 陰性名詞「沉默」）
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig")
+⟪एवम्⟫ 「如此」（源自一個通常已遺失的代詞詞根 ⟪एव⟫ 「一，唯一」）
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 第37.4課：帶有副詞後綴的副詞構詞法
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen
+從代詞詞幹 ⟪तद्⟫、⟪इदम्⟫ 或 ⟪अ⟫-、⟪यद्⟫、⟪किम्⟫ 或 ⟪कु⟫，可以通過以下副詞後綴
 
-*   \-⟪तस्⟫ (Ablativ)
-*   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Art und Weise)
-*   \-⟪थम्⟫ (Art und Weise)
-*   \-⟪दा⟫ (Zeit)
+*   \-⟪तस्⟫（離格）
+*   \-⟪त्र⟫（依格）
+*   \-⟪था⟫（方式）
+*   \-⟪थम्⟫（方式）
+*   \-⟪दा⟫（時間）
 
-entsprechende Pronominaladverbien ableiten.
+派生出相應的代詞副詞。
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| 後綴 | 代詞詞幹 | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(離格) | ⟪ततस्⟫ :br從那裡、因此、所以 | ⟪इतस्⟫ :br ⟪अतस्⟫ :br從這裡、因此 | ⟪यतस्⟫ :br從哪裡、從何處 | ⟪कुतस्⟫ :br從哪裡？為何？ |
+| **-⟪त्र⟫** :br(依格) | ⟪तत्र⟫ :br在那裡、那裡 | ⟪अत्र⟫ :br在這裡 | ⟪यत्र⟫ :br在哪裡 | ⟪कुत्र⟫ :br在哪裡？ |
+| **-⟪था⟫** :br(方式) | ⟪तथा⟫ :br如此、這樣 | | ⟪यथा⟫ :br如何、怎樣 | |
+| **-⟪थम्⟫** :br(方式) | | | | ⟪कथम्⟫ :br如何？怎樣？ |
+| **-⟪दा⟫** :br(時間) | ⟪तदा⟫ :br那時、當時 | | ⟪यदा⟫ :br當……時、在……時候 | ⟪कदा⟫ :br何時？ |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?"
+另一個疑問副詞是：⟪क्व⟫「在哪裡？」
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701))
+圖：⟪क्व⟫
+（圖片來源：[詳情](/zh/licenses#lekt3701)）
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe**
+**其他副詞後綴**
 
-| Suffix | |
+| 後綴 | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | 可附加於任何名詞，表示「像……一樣、如同」：br例如 ⟪पुत्रवत्⟫「像兒子一樣」 |
+| **-⟪तस्⟫** | 附加於名詞和代詞。通常具有離格意義「從哪裡？」，但也表示「在哪裡？」「去哪裡？」：br例如 ⟪आदितस्⟫「從一開始」 |
+| **-⟪धा⟫** | 1. 用於數詞副詞，表示「……倍」、「……重」：br例如 ⟪द्विधा⟫「兩倍、兩次」：br2. 表示「以……方式」：br例如 ⟪समधा⟫「以相同的方式」（源於 ⟪सम⟫ 3「相同」） |
 
 :::
-## 37.5. 副词性复合词
+## 37.5. 副詞性複合詞
 
-### 37.5.1. 以后缀为副词或副词性用法的格的复合词
+### 37.5.1. 以前置副詞或作副詞使用的格為後成分的複合詞
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)"
+例：⟪सुचिरम्⟫「非常長（的時間）」
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. 作副詞使用的 ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied.
+例：⟪रक्षार्थम्⟫「以某人的目的為守護者，為了守護的目的」。也可視為屬於 5.1.：-⟪अर्थम्⟫ 作為副詞性後成分。
 
-### 37.5.3. ⟪अव्ययीभाव⟫复合词
+### 37.5.3. ⟪अव्ययीभाव⟫-複合詞
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
+⟪अव्ययीभाव⟫ =「已變成不變/不可變格的」
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
+一個 ⟪अव्ययीभाव⟫ 是一個副詞性複合詞，其前成分是一個不變詞（後置詞、語助詞等），後成分是一個名詞，採用中性單數對格結尾。
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+在解析複合詞時，前成分會支配後成分：
 
-Beispiele:
+例：
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ =「對著火」
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ =「盡力」
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ =「向前，迎面」
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied:
+⟪अव्ययीभाव⟫ 與作前成分的 ⟪यथा⟫「如何」特別重要：
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig"
+例如 ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ =「如願，依願望，隨意」
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702))
+圖：⟪यथाशक्ति⟫
+（圖片來源：[詳情](/zh/licenses#lekt3702)）
 :::
-## 37.6. Syntaktisches
+## 37.6. 句法
 
 ::: grammar-box
-Bei den Verben
+對於動詞
 
-*   ⟪अस्⟫ 2P "sein"
-*   ⟪भू⟫ 1P
-*   ⟪कृ⟫ 8U
+*   ⟪अस्⟫ 第二人稱「是」
+*   ⟪भू⟫ 第一人稱
+*   ⟪कृ⟫ 第八類
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
+表語形容詞的位置可由表語副詞取代：
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte"
+例如 ⟪तूष्णीं बभूव⟫「他變得沉默，他啞了」
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703))
+圖：⟪तूष्णीं बभूवुः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3703)）
 :::
-## 37.7. Indefinitpronomina
+## 37.7. 不定代詞
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
+不定代詞（unbestimmte Fürwörter）是透過附加
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+到疑問代詞 ⟪किम्⟫ 的格變化上而構成的。
 
-z.B.
+例如：
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "某個人、任何人"  
+⟪कस्यचिद्⟫ = 某人的
 :::
-## 37.8. Der Fragesatz
+## 37.8. 疑問句
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm."
+"誰？、怎麼？、什麼？、為什麼？為何？  
+不發問的人保持愚昧。"
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstraße, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist
+《芝麻街》的標語，這是一條對人生與梵文學習皆有益的良好指引
 :::
-Siehe auch [Lektion 4](lektion04.md).
+另請參見 [第4課](lektion04.md)。
 
-Man muss unterscheiden
+必須區分
 
-*   Wortfragen (Ergänzungsfragen)
-*   Satzfragen
+*   詞語疑問句（補充疑問句）
+*   句子疑問句
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
+在詞語疑問句中，是針對施事者（⟪कर्तृ⟫）、受詞、動作、情境等進行提問，例如：
 
-*   wer kommt?
-*   was tut Rāma?
-*   wen hört er?
-*   wie spricht sie Sanskrit?
-*   wo ist die Mutter?
+*   誰來了？
+*   Rāma 在做什麼？
+*   他聽誰說話？
+*   她怎麼說梵文？
+*   母親在哪裡？
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
+在句子疑問句中，則是針對整個句子的內容進行提問，例如：
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es richtig, dass ... ?
+*   Rāma 今天去 Ofterdingen 嗎？
+*   ……是正確的嗎？
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. 詞語疑問句（補充疑問句）
 
 ::: grammar-box
-Schema:
+句型：
 
-Schema:
+疑問代詞／疑問副詞 - 句子
 :::
-Beispiele:
+範例：
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "誰去村莊？"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?"
+⟪किं बाला अधीयीरन्⟫ = "孩子應該學什麼？"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma?
+⟪क्व रामो वसति⟫ = Rāma 住哪裡？
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704))
+圖：⟪किं बाला अधीयीरन्⟫
+（圖片來源：[詳情](/zh/licenses#lekt3704)）
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. 句子疑問句
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist.
+有時僅從上下文才能判斷一個句子是否為疑問句。
 :::
 ::: grammar-box
-Schema I:
+模式 I：
 
-Verb - restlicher Satz
+動詞 - 句子其餘部分
 :::
-Beispiel:
+範例：
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ 「婆羅門少年將成為一位導師嗎？」
 :::
 ::: grammar-box
-Schema II:
+模式 II：
 
-Fragepartikel (meist am Satzanfang) - Satz
+> 疑問粒子（通常位於句首）- 句子
 
-Die wichtigsten Fragepartikel sind:
+最重要的疑問粒子有：
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten)
+*   ⟪किम्⟫（通常預示否定回答）
 
 *   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen.
+
+這些粒子相當於問號。
 :::
-Beispiel:
+範例：
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ 「這難道不是真的嗎？」
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ 「他難道能嗎？」
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ 「剎帝利難道擊敗了敵人嗎？」
 :::
-Anmerkung: ⟪किम्⟫ kann außer "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫):
+註釋：⟪किम्⟫ 除了「什麼？」之外，作為疑問粒子還可以表示「為什麼？為了什麼？」。例如與工具格（⟪तृतीया⟫）連用時：
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?"
+⟪किं क्रोधेन ।⟫ 「憤怒有何用？憤怒有什麼益處？憤怒想做什麼？」
 :::
-## 37.9. 词汇表
+## 37.9. 詞彙表
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
+⟪मूर्ख⟫ 3：愚鈍的、愚蠢的、笨拙的 m. 傻瓜
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+⟪मुनि⟫ m.：智者、（沉默）苦行者
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.：來自⟪शाक्य⟫（來自⟪कपिलवस्तु⟫的剎帝利）種姓的苦行者 = 佛陀喬達摩
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+圖：⟪शाक्यमुनिः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3705)）
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.：天、日
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.：樹
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+圖：⟪वृक्षः⟫
+（圖片來源：[詳情](/zh/licenses#lekt3706)）
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.：口、臉、前部、開始
 
-## 37.10. 练习
+## 37.10. 練習
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+A) 請使用括號中提供的詞彙，以梵語回答以下問題。並翻譯這些問句。
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+範例：⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \&lt;Absolutiv\&gt;)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707))
+圖：⟪कृष्णः बलरामश्च⟫
+（圖片來源：[詳細資訊](/zh/licenses#lekt3707)）
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708))
+圖：⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+（圖片來源：[詳細資訊](/zh/licenses#lekt3708)）
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+C) 請翻譯下列 ⟪अव्ययीभाव⟫ ：
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus"
+1\. ⟪अति⟫ 後置詞，接對格：「在……之外」
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in"
+2\. ⟪अधि⟫ 「在……裡面」
 
 ::: indent
 1.  ⟪अधिहरि⟫
@@ -466,10 +445,10 @@ C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709))
+圖示：⟪अधिकेरलं वर्तन्ते⟫
+（圖片來源：[詳情](/zh/licenses#lekt3709)）
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach"
+3\. ⟪अनु⟫ 「依照、沿著、按照」
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -477,18 +456,18 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne"
+4\. ⟪अप⟫ 「沒有」
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ 「朝向」
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschließlich"
+6\. ⟪आ⟫ 「自、直到、包含」
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -496,27 +475,26 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710))
+圖示：⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+（圖片來源：[詳情](/zh/licenses#lekt3710)）
 :::
-7\. ⟪उप⟫ "nahe"
+7\. ⟪उप⟫ 「靠近」
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711))
+圖示：⟪उपवृक्षं सीदन्ति⟫
+（圖片來源：[詳情](/zh/licenses#lekt3711)）
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 第37.11課。複習練習
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
+請僅使用完成時動詞形式翻譯成梵文：
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
+從前，有一位老人在前往另一個村莊的途中疲憊不堪。於是，他走到路旁一棵芒果樹下休息。這棵樹上結滿了成熟的果實。老人很想吃這些果子，但他無法爬上樹去摘取。幸運的是，這棵樹上有一些猴子正在吃果子。老人看到後十分高興。他做了什麼呢？他撿起一些石頭，瞄准猴子並扔過去。憤怒的猴子摘下一些果子扔向老人。老人高興地接住這些果子，然後前往他想去的地方。看啊！這就是老人的命運！

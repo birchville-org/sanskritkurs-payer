@@ -1,46 +1,45 @@
+# 天城文 = ⟪देवनागरी⟫
 
-# Devanāgarī = ⟪देवनागरी⟫
+## 書寫練習一
 
-## Schriftübung 1
-
-Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
+梵語過去和現在都使用多種文字進行書寫。以下概覽展示了這些文字中的一小部分：
 
 ![](/images/schrift001.webp)  
-Abb.: Schriftproben Sanskrit  
-\[Bildquelle: Wikipedia, GNU FD LIzenz\]
+圖：梵語書寫樣本
+\[圖片來源：維基百科，GNU 自由文檔許可證\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+現代最重要的北印度梵語文字是天城文：
 
 ![](/images/schrift002.webp)
 
-Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = ⟪विराम⟫ -- kennzeichnen:
+每個輔音符號都包含一個跟在輔音後的「a」音。如果要書寫純淨的輔音（沒有後續元音），必須通過在下部放置一個斜線來標記 -- virāma（止符）= ⟪विराम⟫ -- 以作標識：
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Auf einen Konsonanten folgende Vokale -- ausser "a" -- werden so geschrieben:
+跟在輔音後的元音 -- 除了「a」以外 -- 這樣書寫：
 
 ⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Die Reihenfolge beim Schreiben dieser Verbindungen von Konsonant + Vokal ist:
+書寫這些輔音加元音組合時的順序是：
 
 ![](/images/schrift003.jpg)
 
-Beim Schreiben wird jeder Buchstabe inklusive Querstrich an Oberlinie vollendet bevor der nächste Buchstabe geschrieben wird.
+書寫時，每個字母包括橫線都必須在頂線上完成後，才能開始書寫下一個字母。
 
-## Übung
+## 練習
 
 Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Lesen und transliterieren Sie:
+朗讀並轉寫：
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-Zusätzliche Leseübung:
+額外閱讀練習：
 
-⟪पिता⟫ Vater, ⟪कपि⟫ Affe, ⟪कृत⟫ getan,  ⟪टीका⟫ Subkommentar, ⟪तत्⟫ dieses, ⟪तट⟫ Ufer, ⟪पत्⟫ dahinschiessen, ⟪पट⟫ Gewebe, ⟪काच⟫ Glas,  ⟪काकुत्⟫ Gaumen, ⟪चित्⟫ wahrnehmen, ⟪पृच्⟫ mischen,  ⟪पोटक⟫ Knecht, ⟪चेतु⟫ Absicht, ⟪तौतातित⟫ Anhänger des Kumārila (Mīmāṃsā), ⟪तूत⟫ Maulbeerbaum, ⟪पीत⟫ getrunken,  ⟪पीति⟫ Trank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ er jammert, ⟪पुटी⟫ Falte, ⟪चापि⟫ desgleichen, ⟪तोक⟫ Nachkommenschaft, ⟪तृपत्⟫ satt, ⟪पॄ⟫ füllen, ⟪कृकाटी⟫ Halsgelenk, ⟪पूपौ⟫ zwei Kuchen, ⟪पैतृकी⟫ väterlich (fem.), ⟪कौट⟫ betrügerisch, ⟪कच⟫ Haupthaar, ⟪कुतपे⟫ auf der Ziegenhaardecke, ⟪कुचौ⟫ Busen, ⟪चकिता⟫ erschrocken (fem.)
+⟪पिता⟫ 父親，⟪कपि⟫ 猴子，⟪कृत⟫ 已做， ⟪टीका⟫ 註疏，⟪तत्⟫ 這，⟪तट⟫ 岸邊，⟪पत्⟫ 射去，⟪पट⟫ 織物，⟪काच⟫ 玻璃， ⟪काकुत्⟫ 上顎，⟪चित्⟫ 感知，⟪पृच्⟫ 混合， ⟪पोटक⟫ 僕人，⟪चेतु⟫ 意圖，⟪तौतातित⟫ 庫瑪拉派（Mīmāṃsā）的追隨者，⟪तूत⟫ 桑樹，⟪पीत⟫ 已飲用， ⟪पीति⟫ 飲料，⟪कॢप्⟫ 適合，⟪कृपते⟫ 他悲嘆，⟪पुटी⟫ 皺紋，⟪चापि⟫ 同樣的，⟪तोक⟫ 後代，⟪तृपत्⟫ 飽足，⟪पॄ⟫ 填滿，⟪कृकाटी⟫ 頸椎關節，⟪पूपौ⟫ 兩個糕餅，⟪पैतृकी⟫ 父親的（陰性），⟪कौट⟫ 欺騙性的，⟪कच⟫ 頭髮，⟪कुतपे⟫ 在羊毛氈上，⟪कुचौ⟫ 胸部，⟪चकिता⟫ 驚恐的（陰性）
 
 

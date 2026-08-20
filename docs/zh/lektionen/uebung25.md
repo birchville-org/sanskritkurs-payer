@@ -1,140 +1,136 @@
-
 ---
-title: "Übung 25"
+title: "練習二十五"
 uebung_id: 25
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# 練習25
+# 練習二十五
 
-A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫).
+A) 請在第十六課的變格範例中，補充第四格與格（⟪चतुर्थी⟫）和第五格離格（⟪पञ्चमी⟫）。
 
-### ⟪१⟫. ⟪सन्त्⟫ (seiend, gut)
+### ⟪१⟫。⟪सन्त्⟫（存在，善）
 
-| Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
+| 格位 | 陽性單數 | 陽性複數 | 中性單數 | 中性複數 |
 | :--- | :--- | :--- | :--- | :--- |
-| 1. Nom. | ⟪सन्⟫ | ⟪सन्तः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
-| 2. Akk. | ⟪सन्तम्⟫ | ⟪सतः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
-| 3. Instr. | ⟪सता⟫ | ⟪सद्भुः⟫ | ⟪सता⟫ | ⟪सद्भुः⟫ |
-| 4. Dat. | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
-| 5. Abl. | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
+| 一、主格 | ⟪सन्⟫ | ⟪सन्तः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
+| 二、賓格 | ⟪सन्तम्⟫ | ⟪सतः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
+| 三、工具格 | ⟪सता⟫ | ⟪सद्भुः⟫ | ⟪सता⟫ | ⟪सद्भुः⟫ |
+| 四、與格 | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
+| 五、離格 | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
 
-### ⟪२⟫. ⟪महान्त्⟫ (gross)
+### ⟪२⟫。⟪महान्त्⟫（大）
 
-| Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
+| 格位 | 陽性單數 | 陽性複數 | 中性單數 | 中性複數 |
 | :--- | :--- | :--- | :--- | :--- |
-| 1. Nom. | ⟪महान्⟫ | ⟪महान्तः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
-| 2. Akk. | ⟪महान्तम्⟫ | ⟪महतः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
-| 3. Instr. | ⟪महता⟫ | ⟪महद्भुः⟫ | ⟪महता⟫ | ⟪महद्भुः⟫ |
-| 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
-| 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
+| 一、主格 | ⟪महान्⟫ | ⟪महान्तः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
+| 二、賓格 | ⟪महान्तम्⟫ | ⟪महतः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
+| 三、工具格 | ⟪महता⟫ | ⟪महद्भुः⟫ | ⟪महता⟫ | ⟪महद्भुः⟫ |
+| 四、與格 | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
+| 五、離格 | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. ⟪यद्⟫ (welcher, wer)
+### ⟪३⟫。⟪यद्⟫（哪個，誰）
 
-| Kasus | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
+| 格位 | 陽性單數 | 陽性複數 | 中性單數 | 中性複數 | 陰性單數 | 陰性複數 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. Nom. | ⟪यः⟫ | ⟪ये⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪या⟫ | ⟪याः⟫ |
-| 2. Akk. | ⟪यम्⟫ | ⟪यान्⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪याम्⟫ | ⟪याः⟫ |
-| 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
-| 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
-| 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+| 一、主格 | ⟪यः⟫ | ⟪ये⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪या⟫ | ⟪याः⟫ |
+| 二、賓格 | ⟪यम्⟫ | ⟪यान्⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪याम्⟫ | ⟪याः⟫ |
+| 三、工具格 | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
+| 四、與格 | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
+| 五、離格 | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
+B) 請翻譯並解析以下梵文複合詞：
 
-⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
-Auf Anweisung des Lehrers geht Rāma aus dem Dorf in die Stadt, betritt das Haus des Heiligen, stellt sich ehrerbietig vor den Heiligen und spricht: "Genug des Zornes!"
+⟪१⟫。**⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥⟫**
+遵照老師的指示，羅摩離開村莊前往城市，進入聖人的住所，恭敬地站在聖人面前並說道：「憤怒已夠了！」
 
-⟪२⟫. **⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫**
-Der Veda (śruti) und die Tradition (smṛti) sagen, dass man von einem Meister nichts Unrechtes hören kann.
+⟪२⟫。 **⟪गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥⟫**
+《吠陀》（śruti）與傳統（smṛti）指出，從導師那裡聽不到任何不正確的事。
 
-⟪३⟫. **⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫**
-Pflicht der Kṣatriyas ist, dass die Kṣatriyas das Volk vor den Feinden schützen sollen.
+⟪३⟫。 **⟪क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥⟫**
+剎帝利的職責是保護民眾免受敵人侵害。
 
-⟪४⟫. **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्ह⟫ti ⟪॥४॥⟫**
-Da er einen Opferfehler begangen hat, darf der Brahmane kein Geld bekommen.
+⟪४⟫。 **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्ह⟫ti ⟪॥४॥⟫**
+由於他犯了祭祀錯誤，婆羅門不得收取金錢。
 
-⟪५⟫. **⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫**
-(⟪धनस्य⟫ ⟪लाभाय⟫)
-Um reich zu werden, haben diese Vaiśyas ein Gelübde gemacht und enthalten sich sexuell.
+⟪५⟫。 **⟪धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥⟫**
+（⟪धनस्य लाभाय⟫）
+為了致富，這些吠舍發下了誓願並保持性節制。
 
-⟪६⟫. **⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫**
-Buddhas und Arhants sind vom Leid befreit. Sie haben nämlich die erlösende Einsicht erreicht.
+⟪६⟫。 **⟪बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥⟫**
+佛陀與阿羅漢已從苦難中解脫。他們確實達到了救度的洞察力。
 
-⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
-Durch Gier, Hass und Verblendung verderben Menschen. Wenn die Zeit gekommen ist, fallen sie dann in eine Hölle.
+⟪७⟫。 **⟪लोभ⟫en ⟪च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥⟫**
+由於貪婪、瞋恨與愚癡，人們會腐敗墮落。當時機成熟時，他們便墜入地獄。
 
 ::: media
 ![](/images/uebung040.webp)
-Abb.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
-(Bildquelle: [Details](/licenses#uebung040))
+圖：⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
+（圖片來源：[詳情](/licenses#uebung040)）
 :::
-⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-Der Kṣatriya bringt heldenhafte Krieger aus der Grossstadt, um das Dorf der Feinde zu bekämpfen.
+⟪८⟫。 **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
+剎帝利從大城市帶來英勇的戰士，以征討敵人的村莊。
 
-⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
-Um einen Sohn zu bekommen, hält die Brahmanin ein Gelübde (d.h. sie fastet).
+⟪९⟫。 **⟪पुत्रलाभकारणाद्ब्राह्मणी व्रतं चरति ॥९॥⟫**
+為了得到兒子，婆羅門女發下誓願（即她進行齋戒）。
 
-⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫**
-Weil er einen Sohn bekommen hat, überkommt den Zweimalgeborenen grosses Glück.
+⟪१०⟫。 **⟪लब्धपुत्रत्वाद्द्विजेन महासुखमाप्तम् ॥१०॥⟫**
+因為他得到了一個兒子，雙生者（dvija）被巨大的喜悅所籠罩。
 
-⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫**
-Viṣṇu bewahrt seine Gläubigen vor dem Tod.
+⟪११⟫。 **⟪विष्णुर्भक्तान्मरणात्पाति ॥११॥⟫**
+毗濕奴保護他的信徒免於死亡。
 
-⟪१२⟫. **⟪रामाद्विना⟫ = ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫**
-Ohne Rāma.
+⟪१२⟫。 **⟪रामाद्विना⟫ = ⟪रामं विना⟫ = ⟪रामेण विना ॥१२॥⟫**
+沒有羅摩。
 
-⟪१३⟫. **⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫**
-Der Unterricht eines Heiligen gereicht zur Tugend, nicht der eines Unheiligen.
+⟪१३⟫。 **⟪साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥⟫**
+聖人的教導能帶來功德，而非聖人的教導則不能。
 
-⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
+⟪१४⟫。 **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
 Rāma wartet auf Kṛṣṇa.
 
-⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
-Es geht leicht (glücklich).
+⟪१५⟫。 **⟪सुखेन गच्छति ॥१५॥⟫**
+這很輕鬆（順利）。
 
-⟪१६⟫. **⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫**
-Hör auf mit der Angst!
+⟪१६⟫。 **⟪अलं भयेन ॥१६॥⟫**
+停止恐懼！
 
-⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Grösser als die Welt ist Hari.
+⟪१७⟫。 **⟪लोकादधिको हरिः ॥१७॥⟫**
+（哈里 = 毗濕奴 / 克里希納）哈里比世界更偉大。
 
 ---
 
-## Scholarly Fragments
+## 學術片段
 
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫ ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫ ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫  
-Wovon man sich zurückzieht, davon wird man befreit. Wenn man sich nämlich von allem zurückzieht, dann kennt man kein Leid, und sei's so klein wie ein Atom.
+⟪यतो यतो निवर्तते ततस्ततो विमुच्यते । निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि ॥ १ ॥⟫  
+從中退縮的事物，就會使人得到解脫。因為如果一個人從所有事物中退縮，那麼即使痛苦微小如原子，他也將不會體驗到它。
 
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫ ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫ ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫  
-Wenn jemand aus Hochmut, Gier, Zorn oder Furcht ein falsches Gerichtsurteil spricht, dann kommt er in eine Hölle.
+⟪मानाद्वा यदि वा लोभात् क्रोधाद्वा यदि वा भयात् । यो न्यायमन्यथा ब्रूते स याति नरकं नरः ॥ २ ॥⟫  
+如果某人出於傲慢、貪婪、憤怒或恐懼而做出錯誤的判決，他將墮入地獄。
 
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫ ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
-Höllen entstehen wegen des Bösen, Böses entsteht aus Armut, Armut entsteht aus Nicht-Geben.
+⟪भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥ ३ ॥⟫  
+地獄源於惡行，惡行源於貧窮，貧窮源於不施捨。
 
 ::: media
 ![](/images/uebung041.webp)
-Abb.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
-(Bildquelle: [Details](/licenses#uebung041))
+圖：⟪भवन्ति नरकाः पापात्⟫
+（圖片來源：[詳情](/licenses#uebung041)）
 :::
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freilassung. Wenn ihn aber der König nicht bestraft, dann übernimmt er die Schuld des Diebes.
+⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
+小偷透過受罰或釋放，可從盜竊罪責中獲免。但若國王未加懲處，則由該人承擔小偷的罪責。
 
 ---
 
-## Staatswissenschaftliche Fragmente (Arthaśāstra)
+## 政事論（Arthaśāstra）片段
 
-⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
-Die Wirtschaft ist nützlich, weil sie Getreide, Vieh, Gold, Metalle und Arbeit hervorbringt.
+⟪१⟫. **⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫**（政事論 1.4.1）  
+經濟之所以有益，在於它能產出穀物、牲畜、黃金、金屬與勞動力。
 
 ::: media
 ![](/images/uebung042.webp)
-Abb.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
-(Bildquelle: [Details](/licenses#uebung042))
+圖：⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
+（圖片來源：[詳情](/licenses#uebung042)）
 :::
-⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Deswegen haben die drei Wissenschaften den Stock (daṇḍa) als Grundlage. Der Stock, der die Grundlage von gutem Verhalten ist, bringt den Lebewesen Erwerb und sicheren Besitz. Gutes Verhalten ist erarbeitet bzw. angeboren. Tätigkeit erzieht nämlich ein geeignetes Material, kein ungeeignetes. Wissen erzieht einen Geist, der durch Gehorsam, Zuhören, Bergreifen, Verstehen und Überlegen zur Wahrheit gekommen ist, nicht einen anderen. ... Aus Gehörten entsteht nämlich Erkenntnis, aus Erkenntnis Praxis, aus Praxis Selbstbesitz; so entsprechen die Wissenschaften ihrem Zweck. Wissen und gutes Verhalten ist die Ursache für den Sieg über die Sinne. Dieser ist nötig, um Lüsternheit, Hass, Gier, Einbildung, Rausch und Erregung abzulegen.
+⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫**（政事論 1.5）  
+因此，這三門學問以杖（daṇḍa）為基礎。作為良好行為根基的杖，能為眾生帶來財富與安全的擁有。良好行為是透過修習或天生而得。因為活動能教化適宜的材料，而非不適宜的；知識能教化已透過順從、聆聽、體察、理解與思惟而達致真理的心智，而非其他心智。……因為從所聞生起認知，從認知生起實踐，從實踐生起自我掌控；所以學問符合其目的。知識與良好行為是戰勝感官的原因。必須如此，才能捨棄貪欲、瞋恨、貪婪、傲慢、迷醉與激動。

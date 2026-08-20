@@ -1,11 +1,11 @@
-
 ---
 outline: 2
+
 ---
 
-# 詞彙表 (Gesamtübersicht)
+# 詞彙表（總覽）
 
-*Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
+*課程中所有新單字，依其引入順序排列，並附主題說明。*
 
 
 ## 第2課
@@ -16,110 +16,114 @@ outline: 2
 
 
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+
+**deva** m. -- ⟪देव⟫：天神、神；君主、國王。
+
+**īśvara** m. -- ⟪ईश्वर⟫：主宰、統治者、神（一神論意義）。
+
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫：婆羅門（神職階層）。
+
+**kṣatriya** m. -- ⟪क्षत्रिय⟫：剎帝利（王族與武士階層）。
+
+**vaiśya** m. -- ⟪वैश्य⟫：吠舍（農商階層）。
+
+**śūdra** m. -- ⟪शूद्र⟫：首陀羅（服務階層）。
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+根據古典理論（例如《摩奴法典》I, 88-91），職責分配如下：
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**婆羅門**
+研習吠陀
+教授教法
+為己祭祀
+為人祭祀
+布施
+接受供養
+**剎帝利**
+保護百姓
+布施（給婆羅門）
+為己祭祀
+研習吠陀
+**吠舍**
+畜牧
+農業
+商業
+放貸
+為己祭祀
+布施（給婆羅門）
+為己祭祀
+研習吠陀
+**首陀羅**
+服務前三個階層
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫：「再生者」（前三個階層中受過 Initiation 的人：婆羅門、剎帝利、吠舍）。
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫：顏色、出生階層（社會等級）。
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+四個種姓（**varṇa** m.）常被誤認為是「賤民」或「種姓」（Kasten）。然而，四個種姓與「種姓」不同——它並非印度特有；在歐洲，我們也曾有階級制度（部分直至第一次世界大戰），如下圖所示，這幅15世紀的插畫即為明證：
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+圖：歐洲中世紀的階級劃分（十五世紀末期的木刻版畫）。
+（圖片來源：[詳情](/licenses#lekt0201)）
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**標註：**
+**祭司階層**（≈婆羅門）：Tu supplex ora = 你應懇切祈禱！
+**貴族階層**（≈剎帝利）：Tu protege = 你應保衛！
+**農民階層**（≈吠舍/首陀羅）：Tuque labora = 你應工作！
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+這三個階層各自穿著其相應的階級服裝。在這些被標記為神聖旨意的階層之上，基督端坐寶座。
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+馬克斯·韋伯（Max Weber，1864–1920）如此定義「階層」：
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**階層**「意指一群人在某個組織內部，
+a) 享有特殊的階級評價，—可能也包括
+b) 主張特殊的階級壟斷權。
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+階層的形成可以
+a) 源於自身的生活方式，特別是透過**職業**（生活方式或職業階層），
+b) 次生地，透過世襲的卡里斯瑪特質，憑藉階級**血統**所主張的成功聲望（出生階層），
+c) 透過對政治或神權統治力量的**佔有**作為壟斷（政治或神權階層）。
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+出生階層的發展通常是一種將特權佔有給某個組織或合格個人的（世襲）形式。任何對機會的固定佔有，特別是[由]主人[統治權力或謀生]機會的佔有，都傾向於導致階層的形成。任何階層的形成都傾向於導致對統治權力和謀生機會的壟斷性佔有。
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+當職業階級在市場導向經濟的基礎上成長時，等級制度則主要建立在壟斷性利他主義、封建或等級制家長式團體需求滿足的基礎上產生並存在。
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+「**等級制**」意指社會的分層主要依據等級，「**階級化**」則指其分層主要依據階級。在諸「階級」中，與「等級」最接近的是「社會性」階級，而「職業階級」則相距最遠。等級往往以其重心由財產階級構成。
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+每一種等級制社會都是約定俗成的，由生活規範所秩序化，因而創造出經濟上非理性的消費條件，並透過壟斷性佔有以及排除對自身謀生能力的自由支配，阻礙了自由市場的形成。
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**韋伯，馬克斯（1864–1920）：**《經濟與社會：理解 sociologie 大綱》。——第5版，修訂版。——蒂賓根：莫爾出版社，1976年。——第625頁及以下。]
 :::
-Varṇas sind demgemäss Geburtsstände.
+因此，varṇas（種姓）是出生等級。
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : 詩人。
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : 火，神阿耆尼。
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+圖：神阿耆尼，微型畫，18世紀。
+（圖片來源：[詳情](/licenses#lekt0203)）
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : 正確，好。
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : 「聖」人，Sadhu。
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+圖：Sadhu（⟪साधु⟫），帕斯帕提納特寺，加德滿都。
+（圖片來源：[詳情](/licenses#lekt0202)）
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+**guru** 3 -- ⟪गुरु⟫ : 沉重、重要、值得崇敬
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
-
----
+**guru** m. -- ⟪गुरु⟫ : 值得崇敬之人：父親、母親、年長親屬，尤指教師、導師
 
 ## 第3課
 
@@ -129,67 +133,71 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**學習以下詞彙：**
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
+**śruti** f. = ⟪श्रुति⟫ : 聽聞、永恆的傳承（吠陀與梵書之稱謂）。
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**smṛti** f. = ⟪स्मृति⟫ : 再現、記憶、冥想中的再現 = 正念、傳承（與 **śruti** 相對之概念）。包含：
+六種 **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫)：正確發音
+2. **chandas** n. (⟪छन्दस्⟫)：格律
+3. **vyākaraṇa** n. (⟪व्याकरण⟫)：文法
+4. **nirukta** n. (⟪निरुक्त⟫) : 詞義解釋、語源學
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : 天文學、曆法
+6. **kalpa** m. (⟪कल्प⟫) : 儀式
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : 大型祭祀執行之教科書
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : 日常生活儀式與祭祀之教科書
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) 與 **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : 關於法與習俗之教科書（正確行為）
+兩大史詩 **mahābhārata** n. (⟪महाभारत⟫) 與 **rāmāyaṇa** n. (⟪रामायण⟫)
+**purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : 處世智慧之教科書
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**smṛti** 亦特別作為法論之稱謂。
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**dhenu** f. = ⟪धेनु⟫ : （乳）牛。
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**paśu** m. = ⟪पशु⟫ : 家養牲畜、畜群（集合名詞）。
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**devatā** f. = ⟪देवता⟫ : 神祇（抽象與具體）。
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ ：婆羅門女。
+
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ ：剎帝利女。
+
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ ：剎帝利之妻。
+
+**vaiśyā** f. = ⟪वैश्या⟫ ：吠舍女。
+
+**śūdrā** f. = ⟪शूद्रा⟫ ：首陀羅女。
+
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ ：首陀羅之妻。
+
+**devī** f. = ⟪देवी⟫ ：女神，特指杜爾迦 f. = ⟪दुर्गा⟫，濕婆之妻 = ⟪शिव⟫。
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+圖：杜爾迦 = ⟪दुर्गा⟫，奧里薩邦
+（圖片來源：[詳情](/images/lekt0303)）
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+**sādhvī** f. = ⟪साध्वी⟫ ：sādhu 的陰性形式。
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
+**gurvī** f. = ⟪गुर्वी⟫ ：guru 的陰性形式。
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫ ：「我性」，即（錯誤的）信念：**我**是那個看見等等的人。
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ ：哲學（透過邏輯上正確的論證來得出其結論的學問）。
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
+**upekṣā** f. = ⟪उपेक्षा⟫ ：不關注，平等心。
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
+**karuṇā** f. = ⟪करुणा⟫ ：慈悲，憐憫。
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
-
----
+**muditā** f. = ⟪मुदिता⟫ ：喜悅，特別是隨喜（嫉妒的反義詞）。
 
 ## 第5課
 
@@ -199,49 +207,53 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 
 
-**Lernen Sie folgende Wörter:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
+
+
+
+
+**學習以下單字：**
+
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ ：傾向，固執，堅持；特指：對身體的依附，視其為自我所有。
+
+**kāma** m. = ⟪काम⟫ ：慾望，渴望，所求之物，感官享樂，愛；愛神迦摩。
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+圖：愛神迦摩 = kāmadeva = ⟪कामदेव⟫，十八世紀
+（圖片來源：維基百科，公有領域）
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn.
+**krodha** m. = ⟪क्रोध⟫ ：憤怒。
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
+**kleśa** m. = ⟪क्लेश⟫ ：痛苦，折磨。
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ ：三數；特指三部吠陀（《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》）。
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ ：政治（由 daṇḍa m. =「棍棒、權力、統治、懲罰」與 nīti f. =「正確引導」組成的 Tatpuruṣa 複合詞）。
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ ：再生者。
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**dveṣa** m. = ⟪द्वेष⟫ ：憎恨。
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**maitrī** f. = ⟪मैत्री⟫ ：友誼、友善、友好的善意。
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**rāga** m. = ⟪राग⟫ ：（紅）色、激情、愛。
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**lobha** m. = ⟪लोभ⟫ ：貪婪、吝嗇。
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**varṇa** m. = ⟪वर्ण⟫ ：顏色、種類、種姓。
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**vārttā** f. = ⟪वार्त्ता⟫ ：謀生、經濟（商業）。
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**vidyā** f. = ⟪विद्या⟫ ：知識、科學。
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**avidyā** f. = ⟪अविद्या⟫ ：無知、非知識。
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+**ca** = ⟪च⟫ ：和。
+（置於其所連接的詞之後。若連接多個詞，理想情況下應位於最後一個連接成分的第一個詞之後：brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫）。
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
-
----
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ ：既……又……。
 
 ## 第6課
 
@@ -251,27 +263,31 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 
 
+
+
+
+
+
+
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
+在梵語中，動詞以**根的形式**列出。根後面的數字表示**變位類別**。
 
-- **P:** Wurzel ist nur Parasmaipada
-- **Ā:** Wurzel ist nur Ātmanepada
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+**P：** 僅 Parasmaipada（他動語態）
+**Ā：** 僅 Ātmanepada（自動語態）
+**U：** Ubhayapada（「雙向」）：該根在 Parasmaipada 和 Ātmanepada 中均使用。
+**()：** 括號內為第三人稱單數現在時直陳式（laṭ）。
 :::
-**Lernen Sie folgende Wörter:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
-
----
+**學習以下詞彙：**
+**yaj** 1 U (yajati) ⟪यज् यजति⟫ ：以祭品敬拜、獻祭
+**bhū** 1 P (bhavati) ⟪भू भवति⟫ ：成為、產生、存在
+**smṛ** 1 P (smarati) ⟪स्मृ स्मरति⟫ ：使現前、回憶
+**nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ ：跳舞
+**nī** 1 U (nayati) ⟪नी नयति⟫ ：引導
+**man** 4 Ā (manyate) ⟪मन् मन्यते⟫ ：思考
+**muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ ：困惑
+**yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ ：戰鬥
+**viś** 6 P (viśati) ⟪विश् विशति⟫ ：進入
+**sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ ：釋放、放出、使 emanate
 
 ## 第7課
 
@@ -281,31 +297,33 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+
+
+
+
+
+**學習以下詞彙：**
+
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : 到達，抵達，獲得
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : 到達，獲得
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : 憤怒
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : 憤怒
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : 咀嚼，吃
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : 聽（某事：賓格；某人：屬格或賓格；關於：賓格；從某人那裡：屬格、離格、工具格）
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : 壓榨
+**soma** m. ⟪सोम⟫ : 壓榨飲料，蘇摩；月亮（從哪種植物中壓榨出蘇摩至今仍有爭議）。
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701))
+圖：這是吠陀蘇摩植物嗎？：毒蠅傘：*Amanita muscaria* (L.) Lam.
+（圖片來源：[詳情](/licenses#lekt0701)）
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
-
-
-
----
+**phala** n. ⟪फल⟫ : 果實（也可引申為：行為的（業力）果報）
+**nṛtya** n. ⟪नृत्य⟫ : 舞蹈
+**svarga** m. ⟪स्वर्ग⟫ : 天界
+**naraka** m. ⟪नरक⟫ : 地獄（根據一種印度教觀點，宇宙呈蛋形（**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "梵蛋"）：地球之上是有著遞增幸福感的六重天界，地球之下是七層所謂的 **pātāla** n. = ⟪पाताल⟫，是 **nāga** m. = ⟪नाग⟫（蛇）及其他神話生物的居所，其下還有七層地獄，痛苦逐層加深）
+**aṅga** n. ⟪अङ्ग⟫ : 身體部位，組成部分；也可指 **vedāṅga** = ⟪वेदाङ्ग⟫
+**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : 走（根據本土動詞分類屬於第一現在時類，但實際上是一個帶有現在時詞幹形成後綴 **-ccha-** 的構造物：**gam** » 弱階（**gm** »） **ga-ccha-ti**）
 
 ## 第8課
 
@@ -315,40 +333,45 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+
+
+
+
+
+**學習以下詞彙：**
+
+**ji** 第一類主動態 (jayati) ⟪जि जयति⟫ : 勝利，征服
+**labh** 第一類被動態 (labhate) ⟪लभ् लभते⟫ : 抓住，獲得
+**tu** ⟪तु⟫ : 但是（位於相反句或分句的第一個詞之後）
+**paś** 第四類主動態 (paśyati) ⟪पश् पश्यति⟫ : 看見，瞥見（此處用作現在時詞幹，取代根 **dṛś** 零類「看見，瞥見」）
+**kṛ** 第八類中動態 (karoti) ⟪कृ करोति⟫ : 做，製作
+**tan** 第八類中動態 (tanoti) ⟪तन् तनोति⟫ : 伸展
+**rakṣ** 第一類主動態 (rakṣati) ⟪रक्ष् रक्षति⟫ : 保護
+**sārathi** 陽性 ⟪सारथि⟫ : 車夫，馭手
+**kapi** 陽性 ⟪कपि⟫ : 猴子
+**kumārī** 陰性 ⟪कुमारी⟫ : 女孩，少女
+**nāga** 陽性 ⟪नाग⟫ : 裸體者，大象，蛇（大象和蛇都沒有皮毛，就像「無毛的猴子」人類一樣）
+**gaja** 陽性 ⟪गज⟫ : 大象
+**śuc** 第一類主動態 (śocati) ⟪शुच् शोचति⟫ : 哀悼
+**śuka** 陽性 ⟪शुक⟫ : 鸚鵡
+**pat** 第一類主動態 (patati) ⟪पत् पतति⟫ : 落下，飛翔
+**patrikā** 陰性 ⟪पत्रिका⟫ : 信
+**likh** 第一類主動態 (likhati) ⟪लिख् लिखति⟫ : 刻劃，書寫（最初是用尖筆在貝葉上刻劃，後來泛指）
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+圖：**likh** (⟪लिख्⟫) ：印度鋼製書寫尖筆，用於在貝葉上刻劃
+（圖片來源：[詳情](/licenses#lekt0809)）
 :::
+
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+圖：**likh** (⟪लिख्⟫) ：巴塔克人（Sumatra）使用的書寫木棍，這在印度可能也很常見
+（圖片來源：[詳情](/licenses#lekt0809)）
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
-
----
+**sukha** n. ⟪सुख⟫ : 幸福，安樂
+**duḥkha** n. ⟪दुःख⟫ : 不幸，苦難
 
 ## 第9課
 
@@ -358,39 +381,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
+
+
+
+
+
+**學習以下詞彙：**
+
+**adhyayana** n. (⟪अध्ययन⟫) : 學習，特指吠陀研習
 
 ::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903))
+圖：**adhyayana** = ⟪अध्ययन⟫，斯里坎達古魯維迪亞拉亞姆學校（Sri Skandaguru Vidyalayam），位於馬杜賴附近的蒂魯帕蘭昆德拉姆。
+（圖片來源：[詳情](/licenses#lekt0903)）
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
+**kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : 工匠
 
 ::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902))
+圖：**kāru** = ⟪कारु⟫，古吉拉特邦。
+（圖片來源：[詳情](/licenses#lekt0902)）
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
-
----
+**kuśīlava** m. (⟪कुशीलव⟫) : （流浪的）表演者，演員，歌手
+**kusīda** n. (⟪कुसीद⟫) : 高利貸
+**kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : 拉
+**kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : 耕種
+由此衍生：**kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : 農業
+**dāna** n. (⟪दान⟫) : 給予，贈禮，慷慨
+**pratigraha** m. (⟪प्रतिग्रह⟫) : 接受，禮物
+**pravacana** n. (⟪प्रवचन⟫) : 演講，（口頭的）教學
+**pāśupālya** n. (⟪पाशुपाल्य⟫) : 畜牧，養殖
+關於 **yaj** 1 U：
+**ijyā** f. (⟪इज्या⟫) : 祭祀（源自 \*yj » ij + 後綴 **yā**）
+**yajana** n. (⟪यजन⟫) : 代他人進行的祭祀
+**rūpa** n. (⟪रूप⟫) : 外貌，形狀，美好的形態，本性，本質
+**vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : 商業
+**śuśrūṣā** f. (⟪शुश्रूषा⟫) : 順從，服侍
 
 ## 第10課
 
@@ -400,60 +427,137 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **gṛha** n. ⟪गृह⟫ : Haus
-- **grāma** m. ⟪ग्राम⟫ : Dorf
-- **nagara** n. ⟪नगर⟫ : Stadt
 
-::: note-box
-  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  - **yajña** m. ⟪यज्ञ⟫ : Opfer
 
+
+
+
+**學習以下詞彙：**
+
+**gṛha** n. ⟪गृह⟫ : 房屋
+**grāma** m. ⟪ग्राम⟫ : 村莊
+**nagara** n. ⟪नगर⟫ : 城市
+
+  ::: note-box
+  關於城鎮與村莊生活，請參見 Basham，《奇蹟》，第六章。
+  :::
+
+**yajña** m. ⟪यज्ञ⟫ ：祭儀
+
+  ::: note-box
+  在印度，祭儀首要的是將神靈視為賓客來崇敬。藉此，人們對神靈承擔了義務。
+
+  詞源：**yaj** 第一類動詞 + kṛt後綴 **-na-**。
+  :::
+
+**puṇya** n. ⟪पुण्य⟫ ：善行，功德
+
+  ::: note-box
+  藉此贏得福祉與善趣再生。
+  :::
+
+**pāpa** n. ⟪पाप⟫ ：惡行，邪惡（與 **puṇya** 相對）
+**satya** n. ⟪सत्य⟫ ：真理
+
+:::: note-box
+在印度，人們認為真實的言語具有魔力；甚至整個宇宙秩序都由真理之言維持並創造。關於這一重要觀念，請參見以下基礎著作：
+
+::: literatur-box
+Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由 Ludwig Alsdorf 根據遺稿編輯出版。- Göttingen : Vandenhoeck & Ruprecht. -- 第二卷：Varuna 與 Ṛta。-- 1959. -- XXIII 頁，第 340 - 764 頁
 :::
-::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
-  
-  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+::::
 
+::: media
+![](/images/lekt1003.webp)
+圖：⟪वरुणः⟫
+（圖片來源：[詳情](/licenses#lekt1003)）
 :::
-::: note-box
-  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
-- **satya** n. ⟪सत्य⟫ : Wahrheit
+**anṛta** n. ⟪अनृत⟫ ：虛妄，謊言（與 **satya** 相對）
 
+  ::: note-box
+  詞源 **an-**（「非-」）+ **ṛta** n.
+
+  **ṛta** 是吠陀中的核心概念，其翻譯存在爭議：「真理」（Lüders, Thieme）、「秩序」（Renou）。
+  :::
+
+**ṛṣi** m. ⟪ऋषि⟫ ：吠陀聖人，吠陀詩歌的作者
+
+  ::: note-box
+  這些 **ṛṣi**s 的名字在《梵書》以及專門的吠陀目錄中均有提及。所有婆羅門都追溯其血統源自這些 **ṛṣi**s，他們的 **gotra**（⟪गोत्र⟫）即以此類聖人命名。關於 **gotra** 一詞，請參見 Basham，《奇蹟》，第五章。
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+圖：⟪विश्वामित्रः⟫
+（圖片來源：[詳情](/licenses#lekt1002)）
 :::
-::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+**vad** 第一類人稱（vadati）⟪वद् वदति⟫：說，說話
+**prach** 第六類人稱（pṛcchati！）⟪प्रच्छ् पृच्छति⟫：問（某人：對格；關於某事：對格）
+**saha** ⟪सह⟫：與……一起，共同（在「與……戰鬥」等情況下也使用）（後置詞接工具格）
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+::: literatur-box
+Lüders, Heinrich（1869–1943）：Varuna / Heinrich Lüders。由 Ludwig Alsdorf 從遺稿中編輯出版。-哥廷根：Vandenhoeck & Ruprecht。--第二卷：Varuna 和 Ṛta。--1959年出版。--XXIII頁，第340-764頁
+:::
+:::
+
+::: media
+![](/images/lekt1003.webp)
+圖：⟪वरुणः⟫
+（圖片來源：[詳情](/licenses#lekt1003)）
+:::
+**anṛta** 中性名詞 ⟪अनृत⟫：虛假，謊言（與 **satya** 相對）
+
+  ::: note-box
+  詞法構成 **an-**（「非-」）+ **ṛta** 中性名詞
+
+  **ṛta** 是吠陀中的一個核心概念，其翻譯存在爭議：「真理」（Lüders, Thieme）、「秩序」（Renou）。
+  :::
+
+**ṛṣi** 陽性名詞 ⟪ऋषि⟫：吠陀聖人，吠陀詩歌的作者
+
+  ::: note-box
+  這些 **ṛṣi**s 的名字在《梵書》以及各自的吠陀目錄中都有提及。所有婆羅門都追溯其血統源自這些 **ṛṣi**s，他們的 **gotra**（⟪गोत्र⟫）即以這些聖人的名字命名。關於 **gotra** 一詞，請參見 Basham，《Wonder》，第五章。
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+圖：⟪विश्वामित्रः⟫
+（圖片來源：[詳情](/licenses#lekt1002)）
+:::
+**vad** 第一類人稱（vadati）⟪वद् वदति⟫：說，說話
+**prach** 第六類人稱（pṛcchati！）⟪प्रच्छ् पृच्छति⟫：問（某人：對格；關於某事：對格）
+**saha** ⟪सह⟫：與……一起，共同（在「與……戰鬥」等情況下也使用）（後置詞接工具格）
+
+::: literatur-box
+Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf從遺稿中編輯出版。-哥廷根：Vandenhoeck & Ruprecht出版社。-- 第2卷：Varuna與Ṛta。-- 1959年出版。-- XXIII頁，第340-764頁
+:::
 :::
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+圖：⟪वरुणः⟫
+（圖片來源：[詳情](/licenses#lekt1003)）
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+**anṛta** n. ⟪अनृत⟫ ：不實，謊言（與**satya**相對）
 
 ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
-  
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+詞源構成 **an-**（「非-」）+ **ṛta** n.
+
+**ṛta** 是吠陀中的一個核心概念，其翻譯存在爭議：「真理」（Lüders, Thieme）、「秩序」（Renou）。
+**ṛṣi** m. ⟪ऋषि⟫ ：吠陀聖人，吠陀詩歌的作者
 
 :::
 ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+這些**ṛṣi**的名字在《梵書》以及各自的吠陀目錄中都有提及。所有婆羅門都將自己的血統追溯到這些**ṛṣi**，他們的**gotra**（⟪गोत्र⟫）就是根據這些聖人命名的。關於**gotra**一詞，請參見Basham，《Wonder》，第5章。
 :::
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+圖：⟪विश्वामित्रः⟫
+（圖片來源：[詳情](/licenses#lekt1002)）
 :::
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+**vad** 第一人稱單數現在時（vadati）⟪वद् वदति⟫ ：說，講
+**prach** 第三人稱單數現在時（pṛcchati！）⟪प्रच्छ् पृच्छति⟫ ：問（某人：賓格；某事：與格）
+**saha** ⟪सह⟫ ：與……一起，共同（在「與……戰鬥」等情況下也使用）（後置詞，帶工具格）
 
 ---
 
@@ -465,45 +569,49 @@ Abb.: ⟪विश्वामित्रः⟫
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:**
 
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+
+**學習以下詞彙：**
+
+**iti** ⟪इति⟫ ：如此
+當它出現在思想、願望、言論或引用的陳述之後時，就像引號（"）一樣。
+例如：**sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** 「婆羅門說：『聖人升入天堂』」=「婆羅門說，聖人升入天堂」。
+梵語中沒有間接引語；帶有**iti**的結構在德語中通常需要用間接引語來表達。
+**... (引用) ... iti śrutiḥ** = 「吠陀如此說」。
+在**iti**之後，經常可以補充一個表示思考的動詞：「心想：'...' 他做了那件事」。在德語中應以習慣的方式表達（例如，「因為他餓了，所以他去……」）。
+
+**evam** ⟪एवम्⟫：如此（副詞用法，例如 **evaṃ jayati**「他如此獲勝」）。
+**na** ⟪न⟫：不
+否定單個詞語（緊接在該詞之前：**na sādhuḥ**「非善良者」）或整個句子（位於句首或動詞之前）。
+
+**putra** 陽性 ⟪पुत्र⟫：兒子（在印度，生育一個能為祖先舉行祭儀的兒子是必要的。）
+**dharma** 陽性 ⟪धर्म⟫：（「那堅固之物」，即）正法、法律、習俗、品格。
+最接近自然法則/道德法則的概念。每個人根據 **varṇa**（種姓）和 **āśrama**（人生階段）都有其自身的職責（**svadharma**）。
+**adharma** 陽性 ⟪अधर्म⟫：非正法（與 **dharma** 相對）。
+**iṣ** 第六類動詞（icchati）⟪इष् इच्छति⟫：渴望、希望（**iṣ-ccha-ti**）。
+
+**一些名詞構詞：**
+
+**vad** 第一類動詞（現在時）⟪वद्⟫：說
+**vāda** 陽性 ⟪वाद⟫：言論、陳述、話語
+**vadana** 中性 ⟪वदन⟫：說話；發聲器官：嘴、臉
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+圖注：**vadanāni** = ⟪वदनानि⟫
+（圖片來源：[詳情](/licenses#lekt1102)）
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+**prach** 第六類動詞（現在時）⟪प्रच्छ्⟫：詢問
+**praśna** 陽性 ⟪प्रश्न⟫：問題（後綴 **-na**，如同 **yaj-ña**）
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
+**iṣ** 第六類動詞（現在時）⟪इष्⟫：渴望、希望
+**iṣṭi** 陰性 ⟪इष्टि⟫：願望（由 **iṣ** + **-ti** 構成）
 
----
-
-## 第12課
+## 第十二課
 
 
 
@@ -511,95 +619,98 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 
 
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+
+
+
+
+
+
+**budh** 第四類動詞（被動語態 budhyate）/ 第一類動詞（主動語态 bodhati），過去分詞 **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫：覺醒、獲得智慧、認知；過去分詞 **buddha** 意為「已覺醒」，因此 **Buddha**（佛陀）的意思是「覺者」（而非「 enlightenment 者」或「開悟者」）。
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+圖注：⟪गौतमो बुद्धः⟫
+（圖片來源：[詳情](/licenses#lekt1201)）
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 第一類主動（dahati），過去被動分詞 **dagdha** ⟪दह् दहति दग्ध⟫ ：（某物）燃燒
+**sah** 第一類被動（sahate），過去被動分詞 **soḍha** ⟪सह्⟫ sahate soḍha ：克服、忍受、忍耐＝原諒
+**mṛga** 陽性 ⟪मृग⟫ ：野獸
+**mārga** 陽性 ⟪मार्ग⟫ ：道路（這些道路往往也是野獸的小徑）
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+圖注：⟪मार्गः⟫
+（圖片來源：[詳情](/licenses#lekt1202)）
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ ：也（置於句末）
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+本土語法學家將一些詞根歸入第六現在時類，這些詞根的現在時詞幹由鼻音插入音和主題元音 a 構成，例如：
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 第六類主動（muñcati），過去被動分詞 **mukta** ⟪मुच् मुञ्चति मुक्त⟫ ：解開、放開、解放；從輪迴（**saṃsāra** 陽性）中解脫＝救贖
+**sic** 第六類主動（siñcati），過去被動分詞 **sikta** ⟪सिच् सिञ्चति सिक्त⟫ ：澆灌
 
-Zur Wortbildung:
+關於構詞法：
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**：**mokṣa** 陽性 ⟪मोक्ष⟫ ：解脫、解放、救贖
+**sic** + **abhi-**：**abhiṣeka** 陽性 ⟪अभिषेक⟫ ：國王即位時的灑水儀式，即王位加冕
+**budh**：**bodhi** 陽性/陰性 ⟪बोधि⟫ ：覺悟（由此佛陀或耆那教祖師達至救贖性的洞察）
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+圖注：⟪महावीरो जिनः⟫
+（圖片來源：[詳情](/licenses#lekt1203)）
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** 陰性（**budh** + **-ti**）⟪बुद्धि⟫ ：認知、認知器官。
 
----
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
+### 12.5.1. 迄今所學詞根的被動語態與過去被動分詞
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| 詞根：br⟪धातु⟫ | 被動現在時第三人稱單數直陳式：br⟪यक् लट्⟫ | 過去被動分詞：br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
-| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
-| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
-| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
-| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
-| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
-| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
-| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
-| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
-| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
-| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
-| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
-| **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
-| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
-| **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
-| **ji** 1 P:br⟪जि⟫ | **jīyate** :br⟪जीयते⟫ | **jita** :br⟪जित⟫ |
-| **kath** 10 U:br⟪कथ्⟫ | **kathyate** :br⟪कथ्यते⟫ | **kathita** :br⟪कथित⟫ |
-| **khād** 1 P:br⟪खाद्⟫ | **khādyate** :br⟪खाद्यते⟫ | **khādita** :br⟪खादित⟫ |
-| **kṛ** 8 U:br⟪कृ⟫ | **kriyate** :br⟪क्रियते⟫ | **kṛta** :br⟪कृत⟫ |
-| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate** :br⟪क्रुध्यते⟫ | **kruddha** :br⟪क्रुद्ध⟫ |
-| **kup** 4 P:br⟪कुप्⟫ | **kupyate** :br⟪कुप्यते⟫ | **kupita** :br⟪कुपित⟫ |
-| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate** :br⟪लभ्यते⟫ | **labdha** :br⟪लब्ध⟫ |
-| **man** 4 Ā:br⟪मन्⟫ | **manyate** :br⟪मन्यते⟫ | **mata** :br⟪मत⟫ |
-| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate** :br⟪म्रियते⟫ | **mṛta** :br⟪मृत⟫ |
-| **muc** 6 U:br⟪मुच्⟫ | **mucyate** :br⟪मुच्यते⟫ | **mukta** :br⟪मुक्त⟫ |
-| **nī** 1 U:br⟪नी⟫ | **nīyate** :br⟪नीयते⟫ | **nīta** :br⟪नीत⟫ |
-| **paś** :br⟪पश्⟫ | **(dṛśyate)** :br⟪दृश्यते⟫ | **(dṛṣṭa)** :br⟪दृष्ट⟫ |
-| **pat** 1 P:br⟪पत्⟫ | **patyate** :br⟪पत्यते⟫ | **patita** :br⟪पतित⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate** :br⟪पृच्छ्यते⟫ | **pṛṣṭa** :br⟪पृष्ट⟫ |
-| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate** :br⟪पूज्यते⟫ | **pūjita** :br⟪पूजित⟫ |
-| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate** :br⟪रक्ष्यते⟫ | **rakṣita** :br⟪रक्षित⟫ |
-| **ram** 1 Ā:br⟪रम्⟫ | **ramyate** :br⟪रम्यते⟫ | **rata** :br⟪रत⟫ |
-| **sah** 1 Ā:br⟪सह्⟫ | **sahyate** :br⟪सह्यते⟫ | **soḍha** :br⟪सोढ⟫ |
-| **sic** 6 U:br⟪सिच्⟫ | **sicyate** :br⟪सिच्यते⟫ | **sikta** :br⟪सिक्त⟫ |
-| **śru** 5 P:br⟪श्रु⟫ | **śrūyate** :br⟪श्रूयते⟫ | **śruta** :br⟪श्रुत⟫ |
-| **su** 5 U:br⟪सु⟫ | **sūyate** :br⟪सूयते⟫ | **suta** :br⟪सुत⟫ |
-| **svap** 2 P:br⟪स्वप्⟫ | **supyate** :br⟪सुप्यते⟫ | **supta** :br⟪सुप्त⟫ |
-| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate** :br⟪त्यज्यते⟫ | **tyakta** :br⟪त्यक्त⟫ |
-| **uch** :br⟪उछ्⟫ | — | **uṣita** :br⟪उषित⟫ |
-| **vad** 1 P:br⟪वद्⟫ | **udyate** :br⟪उद्यते⟫ | **udita** :br⟪उदित⟫ |
-| **vas** 1 P:br⟪वस्⟫ | **uṣyate** :br⟪उष्यते⟫ | **uṣita** :br⟪उषित⟫ |
-| **vadh** :br⟪वध्⟫ | **vadyate** :br⟪वद्यते⟫ | **hata** :br⟪हत⟫ |
-| **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
-| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
-
----
+| **aś** 第五類被動：br⟪अश्⟫ | **aśyate** ：br⟪अश्यते⟫ | **aṣṭa** ：br⟪अष्ट⟫ |
+| **āp** 第五類主動：br⟪आप्⟫ | **āpyate** ：br⟪आप्यते⟫ | **āpta** ：br⟪आप्त⟫ |
+| **as** 第二類主動：br⟪अस्⟫ | — | **bhūta** ：br⟪भूत⟫ |
+| **bhaj** 第一類主動：br⟪भज्⟫ | **bhajyate** ：br⟪भज्यते⟫ | **bhakta** ：br⟪भक्त⟫ |
+| **bhū** 第一類主動：br⟪भू⟫ | **bhūyate** ：br⟪भूयते⟫ | **bhūta** ：br⟪भूत⟫ |
+| **budh** 第四類被動 / 第一類主動：br⟪बुध्⟫ | **budhyate** ：br⟪बुध्यते⟫ | **buddha** ：br⟪बुद्ध⟫ |
+| **dah** 第一類主動：br⟪दह्⟫ | **dahyate** ：br⟪दह्यते⟫ | **dagdha** ：br⟪दग्ध⟫ |
+| **div** 第四類主動：br⟪दिव्⟫ | **dīvyate** ：br⟪दीव्यते⟫ | **dyūta** ：br⟪द्यूत⟫ |
+| **dṛś** ：br⟪दृश्⟫ | **dṛśyate** ：br⟪दृश्यते⟫ | **dṛṣṭa** ：br⟪दृष्ट⟫ |
+| **gam** 第一類主動：br⟪गम्⟫ | **gamyate** ：br⟪गम्यते⟫ | **gata** ：br⟪गत⟫ |
+| **grah** 第九類主動：br⟪ग्रह्⟫ | **gṛhyate** ：br⟪गृह्यते⟫ | **gṛhīta** ：br⟪गृहीत⟫ |
+| **hṛ** 第一類主動：br⟪हृ⟫ | **hriyate** ：br⟪ह्रियते⟫ | **hṛta** ：br⟪हृत⟫ |
+| **i** 第二類主動：br⟪इ⟫ | **īyate** ：br⟪ईयते⟫ | **ita** ：br⟪इत⟫ |
+| **iṣ** 第六類主動：br⟪इष्⟫ | **iṣyate** ：br⟪इष्यते⟫ | **iṣṭa** ：br⟪इष्ट⟫ |
+| **jan** 第四類被動：br⟪जन्⟫ | **janyate** ：br⟪जन्यते⟫ | **jāta** ：br⟪जात⟫ |
+| **ji** 第一類主動：br⟪जि⟫ | **jīyate** ：br⟪जीयते⟫ | **jita** ：br⟪जित⟫ |
+| **kath** 第十類主動：br⟪कथ्⟫ | **kathyate** ：br⟪कथ्यते⟫ | **kathita** ：br⟪कथित⟫ |
+| **khād** 第一類主動：br⟪खाद्⟫ | **khādyate** ：br⟪खाद्यते⟫ | **khādita** ：br⟪खादित⟫ |
+| **kṛ** 第八類主動：br⟪कृ⟫ | **kriyate** ：br⟪क्रियते⟫ | **kṛta** ：br⟪कृत⟫ |
+| **krudh** 第四類主動：br⟪क्रुध्⟫ | **krudhyate** ：br⟪क्रुध्यते⟫ | **kruddha** ：br⟪क्रुद्ध⟫ |
+| **kup** 第四類主動：br⟪कुप्⟫ | **kupyate** ：br⟪कुप्यते⟫ | **kupita** ：br⟪कुपित⟫ |
+| **labh** 第一類被動：br⟪लभ्⟫ | **labhyate** ：br⟪लभ्यते⟫ | **labdha** ：br⟪लब्ध⟫ |
+| **man** 第四類被動：br⟪मन्⟫ | **manyate** ：br⟪मन्यते⟫ | **mata** ：br⟪मत⟫ |
+| **mṛ** 第六類被動：br⟪मृ⟫ | **mriyate** ：br⟪म्रियते⟫ | **mṛta** ：br⟪मृत⟫ |
+| **muc** 第六類主動：br⟪मुच्⟫ | **mucyate** ：br⟪मुच्यते⟫ | **mukta** ：br⟪मुक्त⟫ |
+| **nī** 第一類主動：br⟪नी⟫ | **nīyate** ：br⟪नीयते⟫ | **nīta** ：br⟪नीत⟫ |
+| **paś** ：br⟪पश्⟫ | **(dṛśyate)** ：br⟪दृश्यते⟫ | **(dṛṣṭa)** ：br⟪दृष्ट⟫ |
+| **pat** 第一類主動：br⟪पत्⟫ | **patyate** ：br⟪पत्यते⟫ | **patita** ：br⟪पतित⟫ |
+| **prach** 第六類主動：br⟪प्रच्छ्⟫ | **pṛcchyate** ：br⟪पृच्छ्यते⟫ | **pṛṣṭa** ：br⟪पृष्ट⟫ |
+| **pūj** 第十類主動：br⟪पूज्⟫ | **pūjyate** ：br⟪पूज्यते⟫ | **pūjita** ：br⟪पूजित⟫ |
+| **rakṣ** 第一類主動：br⟪रक्ष्⟫ | **rakṣyate** ：br⟪रक्ष्यते⟫ | **rakṣita** ：br⟪रक्षित⟫ |
+| **ram** 第一類被動：br⟪रम्⟫ | **ramyate** ：br⟪रम्यते⟫ | **rata** ：br⟪रत⟫ |
+| **sah** 第一類被動：br⟪सह्⟫ | **sahyate** ：br⟪सह्यते⟫ | **soḍha** ：br⟪सोढ⟫ |
+| **sic** 第六類主動：br⟪सिच्⟫ | **sicyate** ：br⟪सिच्यते⟫ | **sikta** ：br⟪सिक्त⟫ |
+| **śru** 第五類主動：br⟪श्रु⟫ | **śrūyate** ：br⟪श्रूयते⟫ | **śruta** ：br⟪श्रुत⟫ |
+| **su** 第五類主動：br⟪सु⟫ | **sūyate** ：br⟪सूयते⟫ | **suta** ：br⟪सुत⟫ |
+| **svap** 第二類主動：br⟪स्वप्⟫ | **supyate** ：br⟪सुप्यते⟫ | **supta** ：br⟪सुप्त⟫ |
+| **tyaj** 第一類主動：br⟪त्यज्⟫ | **tyajyate** ：br⟪त्यज्यते⟫ | **tyakta** ：br⟪त्यक्त⟫ |
+| **uch** ：br⟪उछ्⟫ | — | **uṣita** ：br⟪उषित⟫ |
+| **vad** 第一類主動：br⟪वद्⟫ | **udyate** ：br⟪उद्यते⟫ | **udita** ：br⟪उदित⟫ |
+| **vas** 第一類主動：br⟪वस्⟫ | **uṣyate** ：br⟪उष्यते⟫ | **uṣita** ：br⟪उषित⟫ |
+| **vadh** ：br⟪वध्⟫ | **vadyate** ：br⟪वद्यते⟫ | **hata** ：br⟪हत⟫ |
+| **yaj** 第一類主動：br⟪यज्⟫ | **ijyate** ：br⟪इज्यते⟫ | **iṣṭa** ：br⟪इष्ट⟫ |
+| **yudh** 第四類被動：br⟪युध्⟫ | **yudhyate** ：br⟪युध्यते⟫ | **yuddha** ：br⟪युद्ध⟫ |
 
 ## 第13課
 
@@ -609,67 +720,73 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
 
-> **ASURA.** 'Spiritual, divine.'
+
+
+
+
+學習以下詞彙：
+
+**eva** ⟪एव⟫ : 強調前面的詞
+**asura** m. ⟪असुर⟫ : 惡魔
+
+> **ASURA。**「靈性的，神聖的。」
 >
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+> 在《梨俱吠陀》最古老的部分中，這個詞被用來指最高精神，與祆教徒的阿胡拉（Ahura）相同。在「神」的意思上，它被應用於幾位主要的神祇，如因陀羅（Indra）、阿耆尼（Agni）和伐樓拿（Varuṇa）。後來它獲得了完全相反的意思，並開始像現在一樣表示惡魔或神的敵人。
 >
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+> 這個詞在《梨俱吠陀》的較晚部分，特別是最後一卷中，以及在《阿闥婆吠陀》中，都找到了這種意義。《梵書》賦予它相同的意義，並記錄了阿修羅與神之間的許多爭鬥。根據《泰帝利耶梵書》，普沙帕蒂的呼吸（*asu*）變得有生命，「憑藉那呼吸他創造了我阿修羅。」在同一作品的另一部分中說，普沙帕蒂「懷孕了。他從他的腹部創造了阿修羅。」《百道梵書》與前一種說法一致，並指出「他從他的下呼吸創造了阿修羅。」《泰帝利耶森林書》表示普沙帕蒂從水中創造了神、人、父親、乾闥婆和天女，而阿修羅、夜叉和食人鬼則從灑出的水滴中產生。摩奴的說法是他們是由普沙帕蒂創造的。
 >
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> 根據《毗濕奴往世書》，他們是由梵天（普沙帕蒂）的腹股溝產生的。《風神往世書》的記載是：「阿修羅首先作為他的（普沙帕蒂）腹股溝之子產生。*Asu* 被《梵書》宣稱為呼吸的意思。從它這些生物產生了；因此他們是阿修羅。」這個詞長期以來被用作神的敵人的總稱，包括戴提亞人和達那婆人以及迦葉波的其他後裔，但不包括從普拉斯蒂耶下來的夜叉。
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> 在這種意義下，為它找到了不同的詞源：來源不再是 *asu*「呼吸」，而是初始的 *a* 被視為否定前綴，而 *asura* 意味著「不是神」；因此，根據某些人的說法，產生了詞 *sura*，通常用於「神」。」
 >
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [來源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+圖：⟪महिषासुरः⟫
+（圖片來源：[詳情](/licenses#lekt1301)）
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ ：線、繩；性質、優良品質
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ ：走、進入
+**as** 2 P (asti) ⟪अस् अस्ति⟫ ：存在、在場
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ ：投擲、（丟）扔
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ ：走
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ ：保護、守護
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ ：喝（傳統上歸入第一類）
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ ：憎恨、敵視
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ ：吃、消耗
+**anna** n. ⟪अन्न⟫ ：食物（源自 PPP：*ad-na: 被吃之物）
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+圖：⟪अन्नम्⟫
+（圖片來源：[詳情](/licenses#lekt1304)）
 :::
-Wortbildung:
+構詞法：
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
+**pada** n. ⟪पद⟫ ：步伐、位置、地點
 
-**pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
+**pāda** m. ⟪पाद⟫ ：腳、四分之一、詩句
 :::
+
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+圖：⟪चत्वारः पादाः⟫ ：⟪गजः⟫
+（圖片來源：[詳情](/licenses#lekt1303)）
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Hass
+**dveṣa** ⟪द्वेष⟫ ：憎恨
 :::
----
 
 ## 第14課
 
@@ -679,28 +796,34 @@ dviṣ 2 U:
 
 
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
-* **dīpa m.** (⟪दीप⟫) : Lampe
+
+
+
+
+
+
+* **śīla n.** (⟪शील⟫) ：（良好）品格、道德
+* **bhūṣ-aṇa n** (⟪भूषण⟫) ：飾品
+* **dīpa m.** (⟪दीप⟫) ：燈
 
 ::: media
 ![](/images/lekt1405.webp)
-Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405))
+圖：⟪दीपाः⟫
+（圖片來源：[詳情](/licenses#lekt1405)）
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟫) ：暴力、力量、強度；軍隊兵力
+* **bāla 3** (⟪बाल⟫) ：年輕的、孩童般的、愚蠢的；m. 男孩
+* **bālā f.** (⟪बाला⟫) ：年輕女孩
+* **nara m.** (⟪नर⟫) ：男人、人類
+* **śatru m.** (⟪शत्रु⟫) ：敵人
+* **loka m.** (⟪लोक⟫) ：世界；單數與複數：人們、人類、民眾
+* **jala n.** (⟪जल⟫) ：水
+* **jan 4 Ā** (jāyate)，被動語態 janyate / jāyate，過去分詞 jāta (⟪जन् जायते जन्यते जायते जात⟫) ：出生、產生、出現
+* **jan-a m.** (⟪जन⟫) ：生物、人類、人們
+* **vac 2 P** (vakti，無第三人稱複數！)，被動語態 ucyate，過去分詞 ukta (⟪वच् वक्ति उच्यते उक्त⟫) ：說、對（第四格）說話
+* **uk-ti f.** (⟪उक्ति⟫) ：言論、話語
+* **vac-ana n.** (⟪वचन⟫) ：說話、話語
+* **vāk-ya n.** (⟪वाक्य⟫) ：話語、言論
 
 ## 第15課
 
@@ -710,95 +833,96 @@ Abb.: ⟪दीपाः⟫
 
 
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
 
-⟪अथवा⟫ : oder (vorangestellt)
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
+⟪पुष्कल⟫ 3：壯麗、華麗、豐盛
 
-⟪अर्ध⟫ 3: halb, m.n. Hälfte
+⟪वा⟫ ：或者（置於後）
 
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
+⟪अथवा⟫ ：或者（置於前）
+
+⟪चतुर्थ⟫ 3（f.：⟪चतुर्थी⟫）：第四
+
+⟪विद्⟫ 「找到」6 U ⟪विन्दति⟫ ；被動語態 ⟪विद्यते⟫ ；過去分詞 ⟪विन्न⟫ / ⟪वित्त विद्⟫ 「知道」2 P ⟪वेत्ति⟫ ；被動語態 ⟪विद्यते⟫ ；過去分詞 ⟪विदित पत्⟫ 「飛、掉落」1 P ⟪पतति⟫ ；被動語態 ⟪पत्यते⟫ ；過去分詞 ⟪पतित अर्ध⟫ 3：一半，m.n. 半
+
+⟪पूजा⟫ f.：尊敬、榮耀的接待、宗教崇拜（Pūjā）
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504))
+圖：⟪पूजा⟫
+（圖片來源：[詳情](/licenses#lekt1504)）
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+⟪कुल⟫ n.：群體、大眾、種族、血統、家庭
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
+⟪इन्द्र⟫ m.: 王子、首位者、最佳者；神王因陀羅
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505))
+圖：⟪इन्द्रः⟫
+（圖片來源：[詳情](/licenses#lekt1505)）
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+⟪दास⟫ m.: 奴隸、農奴、僕人
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
+⟪दासी⟫ f.: 女奴、農婦、侍女
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
+⟪काल⟫ m.: 時間、（恰當的）時機；命運、死亡；死神迦羅
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel
+⟪काल⟫ 3：黑色、藍黑色、深色
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht
+⟪पुरुष⟫ m.: 人類、男子、僕役
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
+\-⟪जन⟫ 作為業際複合詞的第二成分時，常表示複數
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
+⟪स्तु⟫ 2 ⟪स्तौति⟫；被動 स्तूयते⟫；過去分詞 ⟪स्तुत⟫：讚美、稱頌
 
-davon:
+由此衍生：
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied
+⟪स्तुति⟫ f.: 讚美、頌歌
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus
+⟪स्तोत्र⟫ n.: （讚美之物 =）頌歌、讚詩
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
+⟪सिंह⟫ m.: 獅子（*Panthera leo persica*）
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506))
+圖：⟪सिंहः⟫
+（圖片來源：[詳情](/licenses#lekt1506)）
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
+⟪व्याघ्र⟫ m.: 老虎（*Panthera tigris tigris*）（字面意：打哈欠者）
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507))
+圖：⟪व्याघ्रः⟫
+（圖片來源：[詳情](/licenses#lekt1507)）
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+⟪इव⟫（後置）：彷彿、如同（用於比喻中：⟪व्याघ्र इव पुरुषः⟫ = "如虎般的人"、"似虎的男子"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫（後置）：強調前述內容，在德語中常對應於強調語氣，類似表情符號 `\&lt;!\&gt;`，例如 ⟪सत्यमेव जयति⟫ "唯真理勝"、"正是真理勝"、"真理勝利"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
+⟪अरि⟫ m.: 敵人（據蒂姆《梨俱吠陀中的異鄉人》：原意 = 外來者）
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+⟪आर्य⟫ 3：雅利安、高貴；m. 雅利安人（梵語古印度人的自稱，字面意：好客的（蒂姆）；高尚者、君子
 :::
-zu ⟪जन्⟫
+至 ⟪जन्⟫
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
+⟪जाति⟫ f.：出生、種類、種姓（關於 ⟪जाति⟫ 作為種姓，請參見 Basham，《奇蹟》，第 148 頁及以下）
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫；被動式 ⟪म्रियते⟫；過去分詞 ⟪मृत⟫：死亡（根據印度語法學家：6 Ā）
 
-davon:
+由此衍生出：
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod
+⟪मरण⟫ n.：死亡、死
 
-⟪मृति⟫ f.: Sterben, Tod
+⟪मृति⟫ f.：死亡、死
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
+⟪मृत्यु⟫ m.：死亡；擬人化：死神
 :::
-## 第16課
+
+## 第 16 課
 
 
 
@@ -806,64 +930,71 @@ davon:
 
 
 
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht
+
+
+
+
+
+
+⟪अध्यापन⟫ n.：教導、教學
 
 ::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602))
+圖：⟪अध्यापनम्⟫
+「這是 Satara（⟪सातारा⟫）一座小寺廟裡的一項特殊儀式。由 Swami Muktananda Vedashala 的學生在慶祝 Mahāśivarātri（大黑天節）時舉行。這是一所吠陀學校，孩子們在那裡背誦稱為《韋達》的神聖文本。這所學校教授克里希納·雅朱爾吠陀和部分薩摩吠陀內容。我正在為這所學校撰寫我的碩士論文。」
+（圖片來源：[詳情](/licenses#lekt1602)）
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
+⟪अनसूया⟫ f.：不抱怨、無嫉妒
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht
+⟪नृशंस्य⟫ n.：邪惡、卑鄙
 
-davon:
+由此衍生出：
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.：不邪惡
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
+⟪जीव्⟫ 1 P ⟪जीवति⟫；被動式 ⟪जीव्यते⟫；過去分詞 ⟪जीवित⟫：生活
 
-davon:
+由此衍生出：
 
 ::: indent
-⟪आजीव⟫ m.: Lebensunterhalt
+⟪आजीव⟫ m.：生計
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
+⟪क्षमा⟫ f.：耐心、寬容、諒解
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
+⟪क्षेम⟫ n.：平靜、和平、福祉、安全的財產
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
+⟪चित्त⟫ n.：意識、思考、心靈
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
+⟪निरोध⟫ m.：停止、使靜止
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
+* **bhūta n.**（⟪भूत⟫）（bhū 的過去分詞）：生物、鬼魂
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
+⟪योग⟫ m.：套索、連接、聯合、獲得；瑜伽
 
 ::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
-Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601))
+圖：⟪योगी⟫
+Birla Mandir，德里
+（圖片來源：[詳情](/licenses#lekt1601)）
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫：旋轉、轉動、（在某處）存在、居住
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
+⟪शस्त्र⟫ (śastra) n.：切割工具、切割武器、劍、兵器
 
-⟪शौच⟫ n.: Reinigung, Reinheit
+⟪शौच⟫ n.：淨化、純潔
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.：導向目標、產生效果
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
+⟪अहिंसा⟫ f.：不害、不傷害、非暴力
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603))
+圖：⟪अहिंसा⟫
+「掌心有輪的手象徵耆那教的「不害」誓願。中間的文字是「ahimsa」（不害）。輪子代表法輪，象徵透過不懈追求真理與非暴力來終止轉世循環的決心。」
+（圖片來源：[詳情](/licenses#lekt1603)）
 :::
+
 ## 第17課
 
 
@@ -872,56 +1003,65 @@ Abb.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
 
-davon:
+
+
+
+
+
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫：擊打、打死、殺死
+
+衍生詞：
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.：殺戮
 :::
+
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+圖：⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+（圖片來源：[詳情](/licenses#lekt1703)）
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫：坐
 
-davon:
+衍生詞：
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.：坐姿；亦指瑜伽行者的坐位姿勢
 :::
+
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+圖：⟪योगासनम्⟫
+（圖片來源：[詳情](/licenses#lekt1701)）
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫：哭泣、嚎叫
 
-davon:
+衍生詞：
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.：（嚎叫者＝）風暴之神魯陀羅
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ 無被動語態與過去分詞：說話、說（對某人說某事：雙賓格）
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫：擠奶
 
 ::: media
 ![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
+圖：⟪दोग्धि⟫
+（圖片來源：[詳情](/licenses#lekt1702)）
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ ：顯示、指示、命令
 
-davon:
+由此衍生：
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+⟪दिष्टि⟫ f.：指示、幸運的安排
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+⟪दिष्ट्या⟫ Instr.：（字面意思：透過幸運的安排）啊！幸運的安排（歡喜與祝福的感嘆）
 :::
+
 ## 第18課
 
 
@@ -930,39 +1070,43 @@ davon:
 
 
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
 
-⟪व्याधि⟫ m.: Krankheit
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪सुष्टु⟫ 3：高度讚揚、傑出、良好
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शोभन⟫ 3：閃耀、壯麗、輝煌、美麗、良好
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪सम⟫ 3：相同、平等、相似（接工具格）
 
-⟪उदक⟫ n.: Wasser
+⟪व्याधि⟫ m.：疾病
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪रिपु⟫ m. = ⟪शत्रु⟫ ，騙子
 
-⟪आदि⟫ m.: Anfang
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.：認知
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪शूर⟫ 3：勇敢、英勇；m.：英雄
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪शब्द⟫ m.：聲音、響聲、信號音；詞語
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪उदक⟫ n.：水
 
-⟪हस्त⟫ m.: Hand
+⟪अन्त⟫ m.：結束、界限
 
-⟪प्रभृति⟫ f.: Anfang
+⟪आदि⟫ m.：開始
+
+⟪दण्ड⟫ m.：棍棒、鞭打、懲罰
+
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.：尺度、限制
+
+⟪सहित⟫ 3：結合、配備有
+
+⟪हस्त⟫ m.：手
+
+⟪प्रभृति⟫ f.：開始
 
 ## 第19課
 
@@ -972,103 +1116,108 @@ davon:
 
 
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+
+
+
+
+
+**⟪अर्थ⟫ m.**：目的、目標、意義（詞語的）、財富、財產、資產。⟪अर्थम्⟫（賓格）、⟪अर्थेन⟫（工具格）接屬格或作為Tatpuruṣa複合詞的後半部分：為了...、以便。
+
+⟪अर्थ⟫ 是世俗與宗教文獻中所描述的三個生活目標（⟪पुरुषार्थ⟫）之一：
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.**：透過履行正當行為而獲得功德，或至少避免由於不遵循Dharma（法）所帶來的惡果
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.**：目的理性的行為、獲得繁榮
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.：**感官享樂，尤指性領域
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+圖：⟪कामः⟫
+⟪कामसूत्र⟫ 插圖
+（圖片來源：[詳情](/licenses#lekt1809)）
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 一動詞 ⟪तिष्ठति⟫ 被動語態 ⟪स्थीयते⟫ 過去分詞 ⟪स्थित⟫ ：**站立，停留，堅持，存在。（傳統上歸入第一現在時類，儘管它實際上是一個重音主題性現在時類，如 ⟪पा⟫ 1 ⟪पिबति⟫）
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 一動詞 ⟪उपतिष्ठति⟫ ：**走近，以恭敬的姿態站在某人面前
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 一動詞 ⟪प्रतिष्ठते⟫ ：**出發，離開
 
-von ⟪स्था⟫ :
+源自 ⟪स्था⟫ ：
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.：**位置，（正確的）地點，站點
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.：**停留，堅定，堅持
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.：**子宮，腹中，內部，胚胎。在 Bahuvrīhi（持業釋）複合詞末尾常表示「內部」，例如
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3：**「其內部為金錢者 = 其中有錢存在」
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.：**印度教神廟中最內層的聖所，供奉神廟最重要的神像（關於印度教神廟的結構，參見：Volwahsen, A.：《India : Bauten der Hindus, Buddhisten und Jainas》。-- 慕尼黑，1968年）
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
-Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+圖：⟪गर्भगृहम्⟫
+Badami（ಬದಾಮಿ）
+（圖片來源：[詳情](/licenses#lekt1901)）
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.：**供水者 = 雨雲
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
-Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+圖：⟪वारिदः⟫
+Goa（⟪गोंय⟫）
+（圖片來源：[詳情](/licenses#lekt1902)）
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 二動詞 ⟪वाति⟫ 被動語態 ⟪वायते⟫ 過去分詞 ⟪वान⟫ / ⟪वात⟫ ：**吹拂
 
-davon:
+以下內容：
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ 陽性名詞：**風
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 第一類動詞，主動態 ⟪वहति⟫ 被動態 ⟪उह्यते⟫ 過去分詞 ⟪ऊढ⟫ ：引導，駕駛（及物動詞）**
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ 中性名詞：**太陽傘，遮陽傘
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+圖注：⟪छत्त्रम्⟫
+"_Onappottan_（ഓണപ്പൊട്ടന്‍），身著傳統服裝，是喀拉拉邦南部地區的一種習俗。_Onappottan_ 在 _onam_（屠妖節）期間走訪各家各戶並賜予祝福。近年來，_onappottan_ 已成為罕見的景觀，僅限於村莊中可見。"
+（圖片來源：[詳情](/licenses#lekt1904)）
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ 陽性名詞：**學者，智者；第三義項：聰明，博學（於……）
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+圖注：⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+（圖片來源：[詳情](/licenses#lekt1903)）
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 第一類動詞，被動態 ⟪सेवते⟫ 主動態 ⟪सेव्यते⟫ 過去分詞 ⟪सेवित⟫ ：居住於，佔有（與格，處所格）；拜訪，前往（與格）；服務，照料，崇拜；實踐，使用；親近，發生性關係**
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ 前綴：**向下，進入
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫ 第一類動詞，主動態 ⟪निषेवते⟫ ：居住於，佔有，拜訪**
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ ：那裡，在彼岸**
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ ：這裡，在此岸**
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 第六類動詞，主動態 ⟪विन्दति⟫ 被動態 ⟪विद्यते⟫ 過去分詞 ⟪विन्न⟫ / ⟪वित्त⟫ ：找到**
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ 陰性名詞：**應被保護者 = 妻子
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 第三義項：**親愛的，令人愉快的
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ 中性名詞（註）：**朋友
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ 陽性名詞：**親戚
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ ：因為，確實（絕不可用於句首）**
 
 ## 第20課
 
@@ -1078,105 +1227,111 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 
 
-⟪वा⟫ : oder
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+
+
+
+
+
+⟪वा⟫ ：或者
+
+⟪आश्रम⟫ 陽性名詞，中性名詞：隱居生活，人生階段（即作為 ⟪ब्रह्मचरिन्⟫、⟪गृहस्थ⟫、⟪वनप्रस्थ⟫ 以及可能的 ⟪सन्न्यासिन्⟫；參見 Basham，《奇蹟》，第159-160頁）
 
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+圖：⟪आश्रमः⟫
+Rishikesh = ⟪ऋषिकेश⟫。「這實際上是披頭四樂團在瑞詩凱詩停留的修習所的一部分。他們在那裡時，這特定部分還不存在，但它看起來確實很酷。」
+（圖片來源：[詳情](/licenses#lekt2008)）
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ f. ⟪करी । करा⟫ ：做、製造、引發
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.：手（參見 ⟪कृ⟫ 8）
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ m.：貢賦、稅收（與 ⟪कृ⟫ 無關，可能是來自泰米爾語 - தமிழ् 的借詞）
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ f.：行為、神聖行為、祭祀行為、儀式（參見 ⟪कृ⟫ 8）
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf 
+⟪अधि⟫ 前綴：在……之上、向上、關於
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 第一人稱 ⟪अधिगच्छति⟫ ：遇見、到達、獲得
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 第八變位法 ⟪तनूकरोति⟫ ：減少、減弱
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ f.：⟪दायिका⟫ ：給予的、施捨的
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ m.："男人的保護者" = 國王
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ n.：應用、努力、專注於……的反向服務性、沉思、誓願
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ f.：困境、苦難、痛苦
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ f.："應被維持者" = 妻子
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ f.：冥想發展（參見 ⟪भू⟫ 使動式）
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ f.：土地、地面
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ n.：特徵、標記、屬性
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ m.："顫抖者" = 詩人、歌手、祭司、婆羅門
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.：區域、領域、對象、感官對象
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ m.：終結、解脫
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下、往下、進入、向後
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 第一人稱 ⟨Ā⟩ ⟪निवर्तते⟫ ：轉身、返回
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 第一人稱 ⟪सीदति⟫ (!) 被動語態 ⟪सद्यते⟫ 過去分詞 ⟪सन्न⟫ ：坐、坐下
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 第一人稱 ⟪प्रसीदति⟫ ：坐下、被放置（引申義）= 平靜下來、安靜、愉悅；對某人（屬格 ⟪षष्ठी⟫）仁慈
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: 內在的集中心力、最高的專注力、冥想中的「入定」
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: 「自我研習」、誦讀（特別是《吠陀》）、吠陀研究
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ : 涉及來世的、彼岸的
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪तनु ३⟫ : 纖細的、苗條的
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪मध्य ३⟫ : 中等的；n. 中心、中間
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, gross
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : 寬廣、遼闊、巨大
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪श्रोणि । श्रोणी⟫ f.: 臀部、胯部
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪रक्त ३⟫ : 染色的、紅色的
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪ओष्ठ⟫ m.: 嘴唇
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪असित ३⟫ : 黑暗的、黑色的
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : 看、看見
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : 彎曲、使彎曲
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ 前綴：上、向上、向外、出、出-
 
-⟪नाभि⟫ f.: Nabel
+⟪नाभि⟫ f.: 肚臍
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: 美麗、姿態、身體（變格見後文）
 
-⟪स्त्री⟫ f.: Frau
+⟪स्त्री⟫ f.: 女人、妻子
 
-⟪स्तन⟫ m.: Brust
+⟪स्तन⟫ m.: 胸部
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪दरैद्र ३⟫ : 貧窮的、缺乏的
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : 繁榮、興旺
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : 繁榮；PPP: 成功的、富足的
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र ३⟫ : 多彩的、各種各樣的、美麗的、奇妙的、奇怪的
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): 安排、法則、規定；創造、命運
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : 活動、振作
 
 ## 第21課
 
@@ -1186,51 +1341,57 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
-davon:
+
+
+
+
+
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** 給予某人（賓格）某物、分配給某人、愛慕某人、尊敬某人、崇拜
+
+由此衍生：
 
 ::: indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ f.:** 虔誠、忠誠、愛（在宗教領域中：對個人神靈的愛與尊敬。參見 Basham, Wonder 第332-333頁）  
+**⟪भाग⟫ m.:** 份額、部分  
+**⟪भग⟫ m.:** （好的）份額、幸運、福祉、尊嚴  
+**⟪भगवन्त्⟫ 3:** 擁有幸運的、擁有尊嚴的（⟪विष्णु⟫ – ⟪कृष्ण⟫ 的別名）
 :::
 ::: media
 ![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103))
+圖：⟪भगवान्कृष्णः भगवान्कृष्णः⟫（右）作為 ⟪जगन्नाथ⟫，與其同父異母妹妹 ⟪सुभद्रा⟫（中）及長兄 ⟪बलराम⟫ 在一起，奧里薩邦 = ଓଡ଼ିଶ⟪ा⟫
+（圖片來源：[詳情](/licenses#lekt2103)）
 :::
+
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.：**「聖者（⟪कृष्ण⟫）之讚歌（⟪गीता⟫）」
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105))
+圖：⟪भगवद्गीता भगवद्गीता⟫ - 手稿，19世紀
+（圖片來源：[詳情](/licenses#lekt2105)）
 :::
-::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
-:::
-davon:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ 被動語態 ⟪भिक्ष्यते⟫ 過去分詞 ⟪भिक्षित⟫**（本質上為 ⟪भज्⟫：希望、渴望分享 的欲求動詞）：乞討
+:::
+衍生詞：
+
+::: indent
+**⟪भिक्षु⟫ m.：** 乞丐、僧侶
 :::
 ::: media
 ![](/images/lekt2104.webp)
-Abb.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
-(Bildquelle: [Details](/licenses#lekt2104))
+圖：⟪भिक्षवः⟫
+琅勃拉邦 = ຫລວງພະບາງ，寮國 = ປະເທດລາວ
+（圖片來源：[詳情](/licenses#lekt2104)）
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ 被動語態 ⟪दुष्यते⟫ 過去分詞 ⟪दुष्ट⟫：** 毀壞（不及物）、變壞、蒙羞
 
 ::: indent
-**⟪दोष⟫ m.:** Fehler
+**⟪दोष⟫ m.：** 錯誤
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+**⟪पच्⟫ 1 U ⟪पचति⟫ 被動語態 ⟪पच्यते⟫（無過去分詞，取而代之為 ⟪पक्व⟫ 3：煮熟、燉煮）絕對分詞 ⟪पक्त्वा⟫：** 烹調（及物）= 煮、煎、烤等
 
 ## 第22課
 
@@ -1240,58 +1401,65 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 
 
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+
+
+
+
+
+
+**⟪काम⟫ m.：** 願望、慾望；所求之賜予、感官享樂、愛、愛神
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪कामम्⟫ 業格副詞化：隨心所欲、盡情地
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+圖：⟪कामदेवः⟫
+19世紀
+（圖片來源：[詳情](/licenses#lekt2202)）
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P ⟪शक्नोति⟫ 被動語態 ⟪शक्यते⟫ 過去分詞 ⟪शक्त⟫ 不定詞 ⟪शक्तुम्⟫：** 有能力、能夠
 
-davon:
+衍生詞：
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
+**⟪शक्ति⟫ f.：** 能力、力量、技能；亦指：神力，人格化為女性伴侶，特別是 ⟪शिव⟫ 的伴侶
 
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
+**⟪शक्र⟫ m.：**強者（⟪इन्द्र⟫的別名）
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
+圖：⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+（圖片來源：[詳情](/licenses#lekt2203)）
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 1 P ⟪अर्हति⟫ Pass. ⟪अर्ह्यते⟫ PPP ⟪अर्हित⟫ Inf. ⟪अर्हितुम्⟫：**值得（配得上某事），被允許，有義務做某事，應該（在第二人稱中，⟪अर्ह्⟫ + 不定式常用作委婉的命令：「你應該」）
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** 現在分詞 P：一位值得尊敬者。在佛教和耆那教中：已達到最終解脫的人
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.：**誓願，宗教義務，宗教實踐（向神靈許下承諾以換取恩惠。例如：一位母親承諾，若女兒康復，將把女兒獻作寺廟妓女（⟪देवदासी⟫）。重要的⟪व्रत⟫包括：禁食；戒除喜愛的食物；性節制；誦讀聖典；執行特定儀式；供養婆羅門等。關於⟪व्रत⟫的簡述：Walker，《Hindu World》第二卷，第581-582頁。詳細內容：P. V. Kane，《Dharmaśāstra史》第五卷第一冊，第1-462頁。其中第253-462頁列出了⟪व्रत⟫和宗教節日（「以下列表……聲稱並非完全詳盡」！！！）
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫)：**放牧，漫步，活動，移動，行動，實踐，執行（例如 **⟪व्रतं चर्⟫**：實踐誓願，特別是性節制）
 
-davon:
+由此：
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫：** 可動的；名詞：可動者＝動物（相對於植物而言）
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ 名詞，陽性：** 腳
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ 名詞：** 生活方式，生命行為
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ 名詞：** 《吠陀》的實踐（⟪ब्रह्मन्⟫）＝在人生第一個階段（即⟪ब्रह्मचारिन्⟫階段）研習《吠陀》，此階段要求嚴格的性禁慾；因此也指：性禁慾，獨身生活方式
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
-Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+圖：⟪धेनवश्चरन्ति⟫
+果阿＝⟪गोंय⟫
+（圖片來源：[詳情](/licenses#lekt2201)）
 :::
+
 ## 第23課
 
 
@@ -1300,13 +1468,19 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪समान⟫ ⟪३⟫: gleich
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+
+
+
+⟪समान ३⟫：相等
+
+⟪सामान्य⟫ 名詞：平等，一致
+
+⟪अधिक ३⟫ ：過剩，額外，更大，更好，非凡
+
+⟪विशेष⟫ 陽性：特殊性，規範，種差
 
 ## 第24課
 
@@ -1316,120 +1490,127 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+
+
+
+⟪अलम्⟫ 副詞：足夠，充足；（對某人、某事）能勝任；接與格：對於……足夠，足以應付……；接工具格：對……受夠了，停止……，例如 ⟪अलं क्रोधेन⟫ ＝「對憤怒受夠了＝停止憤怒！」
+
+與 ⟪अलम्⟫ 接工具格用法相同的是：
+
+⟪कृतम्⟫ ：⟪कृतं क्रोधेन⟫ ＝「憤怒已止＝停止憤怒！」
+
+⟪अलम्⟫ ＋ ⟪कृ⟫ 8U ⟪अलंकरोति⟫ ：裝飾
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ 陽性：裝飾品，裝飾物（在詩歌中）
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+圖：⟪अलंकारः⟫
+（圖片來源：[詳情](/licenses#lekt2405)）
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ 陽性：動機，起因，原因；⟪हेतुना⟫、⟪हेतोस्⟫、⟪हेतवे⟫ 接屬格或作為複合詞的後半部分＝「為了……，因為」
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ f.: 肖像，圖像
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+圖：⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+（圖片來源：[詳情](/licenses#lekt2406)）
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ ：發生，出現，產生
 
-Von ⟪वृत्⟫:
+源自 ⟪वृत्⟫：
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ f.: 行為，活動，生活方式
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ n.: 行為
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ 前綴： 附著，朝向 - 去，向 - 來，向 - 去，對，在...裡面，關於，對於，超過，在
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下，往下，進入，向後
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ 介詞 / 後置詞：在離格之前或與格之後：直到，直至；與離格連用：從...來，自...起，自從
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ 不變詞：從那裡，然後，因此，所以（代詞詞幹 a- "這" + 離格後綴 -tas）
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: 監督者，部門主管；目擊者
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: 力量，感官
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: 思考，論證
 
-davon
+由此
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: 否定（⟪अप⟫ + ⟪ऊह⟫）
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: 正反論辯
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+圖：⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+（圖片來源：[詳情](/licenses#lekt2407)）
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ ：有用
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: 林產物，金屬（非貴金屬）
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ ：看，變得可見；稱呼，解釋，告知
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ ：講述
 
-davon:
+由此：
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: 敘事
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+圖：⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+（圖片來源：[詳情](/licenses#lekt2408)）
 :::
-::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
-
-davon:
-
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
-:::
-⟪ग्रहण⟫ n.: Ergreifen
-
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
-
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
-
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
-
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
-
-davon:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪ख्या⟫ + ⟪सम्⟫ 第二人稱 ⟪संख्याति⟫ ：加總，計算
+
+衍生詞：
+
+⟪संख्या⟫ 陰性名詞：計數，列舉； ⟪सांख्य⟫ 中性名詞：六種哲學體系之一（簡稱為 Basham，《奇蹟》第 326-327 頁）
+:::
+⟪ग्रहण⟫ 中性名詞：執取
+
+⟪चौल⟫ 中性名詞：儀式（⟪संस्कार⟫）剪髮禮（於三歲時舉行）
+
+⟪तत्त्व⟫ 中性名詞：真實本質，真理，現實（⟪तद्⟫ + ⟪त्व⟫ = 此性）
+
+⟪स्वस्ति⟫ 陰性名詞：幸福，吉祥（由 ⟪सु अस्ति⟫ = 「很好」構成的名詞）
+
+⟪नमस्⟫ 中性名詞：鞠躬，敬意，問候（變格稍後講解）。問候語： ⟪नमो नमः⟫
+
+衍生詞：
+
+::: indent
+⟪कृ⟫ + ⟪नमस्⟫ 第八格 ⟪नमस्करोमि⟫ ：鞠躬，致敬，問候
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+圖： ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+⟪गीतगोविन्द⟫ 手稿，西元 1730 年
+（圖片來源：[詳情](/licenses#lekt2411)）
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ 中性名詞：歡迎（源自 su-ā-gata）
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ 中性名詞：草莖
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ 副詞：再次，重新，返回，但是
 
 ## 第25課
 
@@ -1439,193 +1620,193 @@ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
 
 
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+
+
+
+
+
+
+⟪त्यज्⟫ 第一人稱 ⟪त्यजति⟫ ：離開，放棄，拋棄
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
-PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫
+未來式 ⟪त्यक्ष्यति⟫  
+被動式 ⟪त्यज्यते⟫  
+過去被動分詞 ⟪त्यक्त⟫  
+不定詞 ⟪त्यक्तुम्⟫  
+絕對構式二：-⟪त्यज्य⟫
 
-davon:
+衍生詞：
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ 陽性名詞：放棄，捨棄，避開
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ 陽性名詞，複數（!!!）：妻子
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ 中性名詞：物品，財產，物質財富，金錢
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪धान्य⟫ 中性名詞：脫殼穀物
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+圖： ⟪धान्यम्⟫
+（圖片來源：[詳情](/licenses#lekt2501)）
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 第一類動詞 ⟪धरति⟫ ：握住，抓住
 
 ::: indent
-Fut. ⟪धरिष्यति⟫  
-Pass. ⟪ध्रियते⟫  
-PPP ⟪धृत⟫  
-Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫
+未來式 ⟪धरिष्यति⟫  
+被動式 ⟪ध्रियते⟫  
+過去被動分詞 ⟪धृत⟫  
+不定詞 ⟪धर्तुम्⟫  
+絕對構式二：-⟪धृत्य⟫
 
-davon:
+由此：
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.: 堅固且能持守者 = Dharma（法）
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ : 恆常、持久、永恆
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ Adv.: 總是、恆常地
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.: 智慧、認知
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.: 布施、施捨；贈品、供物
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : 感到愉悅，陶醉於某事（工具格、屬格、位格）
 
 ::: indent
-Fut. ⟪मदिष्यति⟫  
-Pass. ⟪मद्यते⟫  
-PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫
+未來式 ⟪मदिष्यति⟫  
+被動式 ⟪मद्यते⟫  
+PPP（過去被動分詞） ⟪मत्त⟫  
+不定式 ⟪मदितुम्⟫
 
-davon:
+由此：
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪मद⟫ m.: 陶醉、感官迷醉 = 感官享樂
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪मान⟫ m.: 評估、聲望、名譽、榮譽、驕傲、傲慢、自卑感；（人們互相比較）
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ 連接詞：如果
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪न्याय⟫ m.: 規則、原則、方法、判斷（法律）、邏輯（源自 ni + i + a）
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪अन्यथा⟫ Adv.: 不同、否則、錯誤地、不正確
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
-Pass. ⟪यायते⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫
+被動式 ⟪यायते⟫  
+PPP（過去被動分詞） ⟪यात⟫  
+不定式 ⟪यातुम्⟫  
+獨立格（Absol.）2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫（第三人稱複數）：命令、教導、懲罰
 
 ::: indent
-Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
+被動式 ⟪शिष्यते⟫  
+PPP（過去被動分詞） ⟪शिष्ट ३⟫ : 被教導  
+獨立格（Absol）1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+由此：
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
+⟪शिक्षा⟫ f.: 科學、教學；音韻學
 :::
-⟪स्तेन⟫ m.: Dieb
+⟪स्तेन⟫ m.: 小偷
 
-⟪स्तेय⟫ n.: Diebstahl
+⟪स्तेय⟫ n.: 偷竊
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
+⟪किल्बिष⟫ n.: 罪過、侮辱、罪行
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.)
+⟪विना⟫ 後置詞：沒有、除了（接工具格、離格）
 
-⟪मूल⟫ n.: Wurzel
+⟪मूल⟫ n.: 根
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
+圖注：⟪मूलानि⟫
+（圖片來源：[詳情](/licenses#lekt2502)）
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!)：塗抹、弄髒
 
 ::: indent
-Fut. ⟪लेप्स्यति⟫  
-Pass. ⟪लिप्यते⟫  
-PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫
+未來式 ⟪लेप्स्यति⟫  
+被動式 ⟪लिप्यते⟫  
+PPP（過去被動分詞） ⟪लिप्त⟫  
+不定式 ⟪लेप्तुम्⟫
 
-davon:
+由此：
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ f.: 塗抹，書寫，文字
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+圖：⟪लिप्तिः⟫
+（圖片來源：[詳情](/licenses#lekt2503)）
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: 雨，雨季，年
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ ：引導，駕馭，吹拂（風）
 
 ::: indent
-Fut. ⟪वक्ष्यति⟫  
-Pass. ⟪उह्यते⟫  
-PPP ⟪ऊढ⟫  
-Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+未來時 ⟪वक्ष्यति⟫  
+被動語態 ⟪उह्यते⟫  
+過去分詞 ⟪ऊढ⟫  
+不定式 ⟪वोढुम्⟫  
+絕對構詞 2：-⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ ：帶走（即把新娘從父母家帶走）= 結婚
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+由此：
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: 帶走，女子出嫁（工具格，saha）（關於婚禮請參見 Basham，《奇蹟》第 166-171 頁）
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+圖：⟪विवाहः⟫
+（圖片來源：[詳情](/licenses#lekt2504)）
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ ：帶走，教導，教育
 
 ::: indent
-davon:
+由此：
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: 移除，教育，管教，佛教：僧團紀律，僧團戒律
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: 認知，知識
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: 工作，勞役
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+圖：⟪विष्टिः⟫
+（圖片來源：[詳情](/licenses#lekt2505)）
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ ：生長，變大
 
 ::: indent
-Fut. ⟪वर्धिष्यते⟫  
-Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫
+未來時 ⟪वर्धिष्यते⟫  
+被動語態 ⟪वृध्यते⟫  
+過去分詞 ⟪वृद्ध⟫ ：長大成人，年長，增加  
+不定式 ⟪वर्धितुम्⟫
 
-davon:
+由此：
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: 生長，成長，強化階（源自：vṛdh-ti）
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.: 符合其目的
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.: 本質，天性，性格
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.: （汗毛豎起），喜悅
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ ：金色的；n.: 黃金，金錢，財富
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+圖：⟪हिरण्यम्⟫
+（圖片來源：[詳情](/licenses#lekt2506)）
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ ：細薄，精細，極小；m.: 原子
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
+⟪गोदान⟫ n.: 贈送母牛／一頭母牛；第二次剪髮儀式（一種 ⟪संस्कार⟫）
 
 ## 第27課
 
@@ -1635,85 +1816,85 @@ Abb.: ⟪हिरण्यम्⟫
 
 
 
-⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
+
+
+
+
+
+
+⟪वस्⟫ 第一人稱單數主動態 (⟪वसति⟫)：停留，居住（帶有人格屬格的與格，表示所住之處）
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**未來式：** ⟪वत्स्यति⟫:br **被動語態：** ⟪उष्यते⟫:br **過去分詞：** ⟪उषित⟫:br **不定詞：** ⟪वस्तुम्⟫
 :::
-davon:
+由此衍生：
 
 ::: indent
-⟪वस्तु⟫ n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
+⟪वस्तु⟫ n.: 座位，地點；實物，真實之物，現實，對象
 
 :::
 ::: indent
-⟪वस्तुतस्⟫: in Wirklichkeit, wirklich
+⟪वस्तुतस्⟫: 實際上，真正地
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
+⟪वस्⟫ 第二人稱單數被動態 (⟪वस्ते⟫)：穿著（衣物），穿戴
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**未來式：** ⟪वसिष्यते⟫:br **過去分詞：** ⟪वसित⟫:br **不定詞：** ⟪वसितुम्⟫
 :::
-davon:
+由此衍生：
 
 ::: indent
-⟪वस्त्र⟫ n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+⟪वस्त्र⟫ n.: 用來穿著之物 = 衣服，長袍，布料
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Abb.: ⟪वस्त्राणि⟫
+圖注：⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Bildquelle: [Details](/licenses#lekt2706))
+（圖片來源：[詳情](/licenses#lekt2706)）
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
+⟪वस्⟫ 第六人稱單數主動態 (⟪उच्छति⟫)：發光（此詞根因名詞派生而重要：）
 
 ::: indent
-⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz
+⟪वसु⟫ n.: 財富，寶藏，財產，所有物
 
-⟪वसन्त⟫ m.: ("leuchtend" =) Frühling (März bis Mai)
+⟪वसन्त⟫ m.: （「發光」=）春季（三月至五月）
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Abb.: ⟪वसन्तः⟫
-Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Bildquelle: [Details](/licenses#lekt2707))
+圖注：⟪वसन्तः⟫
+Vasanta（小葉欖仁），Khopoli，Maharashtra，2007-04-07。
+（圖片來源：[詳情](/licenses#lekt2707)）
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
+⟪हृ⟫ 第一類不規則動詞 (⟪हरति⟫)：持有，攜帶；取走，奪取
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**未來式：** ⟪हरिष्यति⟫:br **被動語態：** ⟪ह्रियते⟫:br **過去分詞：** ⟪हृत⟫:br **不定詞：** ⟪हर्तुम्⟫
 :::
-davon:
+由此衍生：
 
 ::: indent
-⟪हर⟫ 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
+⟪हर⟫ 第三人稱單數主動態：取走者；m.: 毀滅者 = Śiva的別名
 :::
-Gegenstück zu ⟪हर⟫:
+⟪हर⟫的對應詞：
 
-⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
+⟪हरि⟫ 第三人稱單數主動態：金髮的，黃色的，綠色的；m. Viṣṇu的別名（不屬於詞根 ⟪हृ⟫ 第一類）
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫ m.：毗濕奴與濕婆合一為單一神祇。
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704))
+圖：⟪हरिहरः⟫
+哈里哈拉（左：毗濕奴，右：濕婆）。
+（圖片來源：[詳情](/licenses#lekt2704)）
 :::
+
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705))
+圖：⟪हरिहरः⟫
+哈里哈拉（左：毗濕奴，右：濕婆）。戈德魯姆德維普，西孟加拉邦。
+（圖片來源：[詳情](/licenses#lekt2705)）
 :::
+
 ## 第28課
 
 
@@ -1722,74 +1903,79 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 
 
 
+
+
+
+
+
+
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
-PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+⟪विद्⟫ 第二人稱單數 ⟨वेत्ति⟫, ⟪विदन्ति⟫：知道，認識
+未來式 **vediṣyati**
+被動式 **vidyate**
+使役式 **vedayati**
+過去被動分詞 **vidita**
+不定式 **vediṣyum**
+由此派生：**vidyā** f.（阴性），**veda** m.（男性）
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
-PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum**
+⟪विद्⟫ 第六變位 ⟨विन्दति⟫（！）：找到
+未來式 **vediṣyati** / **vetsyat**
+被動式 **vidyate**：存在，有
+使役式 **vedayati**
+過去被動分詞 **vinna** / **vitta**
+不定式 **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 第二人稱單數 **adhīte**, **adhīyate**：研讀，背誦
+使役式 **adhyāpayati**：讓...研讀，教導
+由此派生：**adhyayana** n.（中性）：研讀（特指吠陀）；**adhyāya** m.（男性）：課，章節（用於背誦的段落）
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
-PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum**
+⟪कम्⟫ 第十變位 ⟨कामयते⟫：愛
+未來式 **kāmayiṣyate** / **kamiṣyate**
+被動式 **kāmyate**
+使役式 **kāmayati**
+過去被動分詞 **kānta**（！）
+不定式 **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+圖：⟪कृष्णो राधां कामयति⟫
+⟪राजा रवि वर्मा⟫ 的畫作（1848 - 1906）
+（圖片來源：[詳情](/licenses#lekt2804)）
+:::
+
+::: indent
+⟪चुर्⟫ 第十變位 ⟨चोरयति⟫：偷竊
+未來式 **corayiṣyati**
+被動式 **coryate**
+使役式 **corayati**
+過去被動分詞 **corita**
+不定式 **coritum**
 :::
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
-PPP **corita**
-Inf. **coritum**
-:::
-::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**請特別注意以下使役式的意義：**
+**dṛś** — **darśayati**：展示
+**man** — **mānayati**：尊重，尊敬（但可能是從 **māna**「榮譽」派生的名詞動詞）
+**vac** — **vācayati**：亦指朗讀（使某人誦讀文本）
+**vad** — **vādayati**：亦指使樂器發聲 = 演奏樂器
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+圖：⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+（圖片來源：[詳情](/licenses#lekt2803)）
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ 陽性：負擔
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+圖：⟪बाला भारं हरति⟫
+少女背負重物。於艾哈邁達巴德拍攝。
+（圖片來源：[詳情](/licenses#lekt2805)）
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
-
----
+⟪भृत्य⟫ 陽性：下屬，僕人
 
 ## 第29課
 
@@ -1799,82 +1985,86 @@ Mädchen trägt Last. Bei Ahmedabad.
 
 
 
-Präverben:
+
+
+
+
+
+
+前綴：
 
 ::: indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
+⟪उद्⟫°：向上，往上，高舉，向外，出，出-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher
+⟪परि⟫°：環繞，周圍（地點、時間），四處
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+⟪भू⟫ + ⟪परि⟫ 第一類動詞第三人稱單數 ⟪परिभवति⟫：（包圍某人 = 包圍 =）征服，擊敗；忽視，輕蔑
 
-⟪अवज्ञान⟫ n.: Missachtung
+⟪अवज्ञान⟫ 中性：輕蔑
 
-⟪गुप्त⟫ 3: behütet, beschützt
+⟪गुप्त⟫ 第三人稱：保護，庇護
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet)
+⟪गृहस्थ⟫ 第三人稱：在家中；陽性：家主（指處於第二 ⟪आश्रम⟫ 狀態的人）
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
+⟪ग्रस्⟫ 第一類動詞反身 ⟪ग्रसते⟫：消耗，吞食
 
 ::: indent
-Fut. ⟪ग्रसिष्यते⟫  
-Pass. ⟪ग्रस्यते⟫  
-Kaus. ⟪ग्रासयति⟫  
-PPP ⟪ग्रस्त⟫  
-Inf. ⟪ग्रसितुम्⟫
+未來時 ⟪ग्रसिष्यते⟫  
+被動語態 ⟪ग्रस्यते⟫  
+使役動詞 ⟪ग्रासयति⟫  
+過去被動分詞 ⟪ग्रस्त⟫  
+不定詞 ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+⟪तीक्ष्ण⟫ 第三人稱：「野蠻的」，尖銳的，尖的，嚴格的，猛烈的，毒舌的
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
+⟪न्याय⟫ 陽性：規範，規則，正確的方式；方法，邏輯（源自 ⟪इ⟫ + ⟪नि⟫）
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
+⟪परिव्राजक⟫ 陽性：遊行者，流浪僧侶，朝聖者
 
 ::: media
 ![](/images/lekt2903.webp)
-Abb.: ⟪परिव्राजकाः⟫
+圖：⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903))
+（圖片來源：[詳情](/licenses#lekt2903)）
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫：也與 ⟪पाति पुनर्⟫ 意義相同。不變詞：再次，反覆，返回，再一次；然而，但是（在濁音前，除 r- 外：⟪पुनर्⟫）
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten ausser r-: ⟪पुनर्⟫)
+⟪प्रजा⟫ 陰性：生育，出生，後代
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
+⟪मत्स्य⟫ 陽性：魚
 
-⟪मत्स्य⟫ m.: Fisch
-
-davon:
+由此衍生：
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+⟪मात्स्य⟫ 第三人稱：屬於魚（或鱼类）的
 :::
 ::: media
 ![](/images/lekt2901.webp)
-Abb.: ⟪मत्स्यः⟫
-⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901))
+圖：⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+（圖片來源：[詳情](/licenses#lekt2901)）
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+⟪मृदु⟫ 3（陰性：⟪मृद्वी⟫）：溫柔、溫和、柔軟；緩慢、微弱
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ 副詞：如何、彷彿
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
+⟪रम्⟫ 1Ā ⟪रमते⟫ ：靜立、停留、逗留；感到愉悅、享受
 
 ::: indent
-Fut. ⟪रंस्यते⟫  
-Pass. ⟪रम्यते⟫  
-Kaus. ⟪रमयति⟫  
-PPP ⟪रत⟫  
-Inf. ⟪रन्तुम्⟫
+未來式 ⟪रंस्यते⟫  
+被動式 ⟪रम्यते⟫  
+使役式 ⟪रमयति⟫  
+過去分詞 ⟪रत⟫  
+不定詞 ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+⟪वानप्रस्थ⟫ 陽性：林居者（處於第三 ⟪आश्रम⟫ 階段的人）
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
+⟪शुचि⟫ 3：閃耀、明亮、精緻；陽性：純潔
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
+⟪पूज्⟫ 10P ⟪पूजयति⟫ ：尊敬、崇敬
 
 ::: indent
-PPP ⟪पूजित⟫
+過去分詞 ⟪पूजित⟫
 :::
+
 ## 第30課
 
 
@@ -1883,123 +2073,128 @@ PPP ⟪पूजित⟫
 
 
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
+
+
+
+
+
+
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ ：購買
 
 ::: indent
-Fut. ⟪क्रेष्यति⟫  
-Pass. ⟪क्रीयते⟫  
-PPP ⟪क्रीत⟫  
-Inf. ⟪क्रेतुम्⟫
+未來式 ⟪क्रेष्यति⟫  
+被動式 ⟪क्रीयते⟫  
+過去分詞 ⟪क्रीत⟫  
+不定詞 ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ ：出售
 
 ::: indent
-Absol. ⟪विक्रीय⟫
+絕對分詞 ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
-Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+圖注：⟪क्रीणन्ति विक्रीणते च⟫
+Bundi = ⟪बुन्दी⟫，Rajasthan = ⟪राजस्थान⟫
+（圖片來源：[詳情](/licenses#lekt3001)）
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ ：知道、認出、了解、理解
 
 ::: indent
-Fut. ⟪ज्ञास्यति⟫  
-Pass. ⟪ज्ञायते⟫  
-Kaus. ⟪ज्ञापयति⟫  
-Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
-PPP ⟪ज्ञात⟫  
-Inf. ⟪ज्ञातुम्⟫
+未來式 ⟪ज्ञास्यति⟫  
+被動式 ⟪ज्ञायते⟫  
+使役式 ⟪ज्ञापयति⟫  
+使役過去分詞 ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+過去分詞 ⟪ज्ञात⟫  
+不定詞 ⟪ज्ञातुम्⟫
 
-davon:
+衍生自：
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ 陽性：（血緣）親戚（親戚就是那些你認識的人！）
 
-⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+⟪ज्ञान⟫ 中性：認知、知識、認識（尤指宗教和哲學中「更高」真理的認知）
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+圖注：⟪ज्ञातयः⟫
+Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫，Maharashtra = ⟪महाराष्ट्र⟫
+（圖片來源：[詳情](/licenses#lekt3002)）
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
+⟪पू⟫ 9U ⟪पुनाति⟫ ：清潔、淨化
 
 ::: indent
-Fut. ⟪पविष्यति⟫  
-Pass. ⟪पूयते⟫  
-Kaus. ⟪पावयति⟫  
-PPP ⟪पूत⟫  
-Inf. ⟪पवितुम्⟫
+未來式 ⟪पविष्यति⟫  
+被動式 ⟪पूयते⟫  
+使役式 ⟪पावयति⟫  
+過去分詞 ⟪पूत⟫  
+不定詞 ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Details](/licenses#lekt3003))
+圖：⟪श्रोत्राणि पुनाति⟫
+（圖片來源：[詳情](/licenses#lekt3003)）
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+⟪अश्⟫ 9P ⟪अश्नाति⟫：吃，消耗
 
 ::: indent
-Fut. ⟪अशिष्यति⟫  
-Pass. ⟪अश्यते⟫  
-Kaus. ⟪आशयति⟫  
+未來式 ⟪अशिष्यति⟫  
+被動式 ⟪अश्यते⟫  
+使役式 ⟪आशयति⟫  
 PPP ⟪अशित⟫  
-Inf. ⟪अशितुम्⟫
+不定詞 ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
-⟪थाली⟫, Südindien
-(Bildquelle: [Details](/licenses#lekt3005))
+圖：⟪अश्नीयात् थाली⟫，南印度
+（圖片來源：[詳情](/licenses#lekt3005)）
 :::
-⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+⟪प्रिय ३⟫：可愛，慈愛，友好
 
 ::: media
 ![](/images/lekt3004.webp)
-Abb.: ⟪प्रिया⟫
-(Bildquelle: [Details](/licenses#lekt3004))
+圖：⟪प्रिया⟫
+（圖片來源：[詳情](/licenses#lekt3004)）
 :::
-⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+⟪चेत्⟫ 連詞：如果；假設（從不出現在句首）
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न चेत्⟫：如果不
 :::
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ 連詞：如果
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
+⟪यद्यपि⟫：即使，縱使，雖然
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫：如果是這樣，在這種情況下
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫：再次，反覆地，返回，再一次，相反，但是
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
+⟪पुनः पुनर्⟫：反覆地
 
-davon:
+由此衍生出：
 
-⟪पुनर्भव⟫ m.: Wiedergeburt
+⟪पुनर्भव⟫ 陽性：轉世
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/licenses#lekt2904))
+圖：⟪पुनर्भवः⟫
+（圖片來源：[詳情](/licenses#lekt2904)）
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+⟪जीव्⟫ 1P ⟪जीवति⟫：生活
 
 ::: indent
-Fut. ⟪जीविष्यति⟫  
-Pass. ⟪जीव्यते⟫  
-Kaus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : lebend  
-Inf. ⟪जीवितुम्⟫
+未來式 ⟪जीविष्यति⟫  
+被動式 ⟪जीव्यते⟫  
+使役式 ⟪जीवयति⟫  
+PPP ⟪जीवित⟫：活著的  
+不定詞 ⟪जीवितुम्⟫
 
-davon:
+由此衍生出：
 
-⟪जीव⟫ m./n.: Leben, individuelle Seele
+⟪जीव⟫ 陽性/中性：生命，個體靈魂
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+⟪सनातन ३⟫ 陰性：⟪सनातनी⟫：永恆的，不朽的，持久的
 
 ## 第31課
 
@@ -2009,118 +2204,124 @@ davon:
 
 
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
-::: indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Kaus. ⟪योजयति⟫**
-**PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+
+
+
+
+
+⟪युज्⟫ 7U ⟪युनक्ति⟫：套上，裝上軛，拉緊，固定；Ā 也指：努力（= exert oneself），與...結合，專注於（屬格，⟪सप्तमी⟫）
+::: indent
+**未來式 ⟪योक्ष्यति⟫**
+**被動式 ⟪युज्यते⟫**
+**使役式 ⟪योजयति⟫**
+**PPP ⟪युक्त⟫**
+**不定詞 ⟪योक्तुम्⟫**
+
+由此：
+**⟪युग⟫ n. → ⟪युग⟫ n.:** 軛，對，時代（共有四個時代：
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323)
+⟪कलियुग⟫ 始於公元前3102年，即 ⟪महाभारत⟫ 戰爭之年。詳情見 Basham，《奇蹟》，第323頁）
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ m.:** 「套軛，拉緊」，努力，連結，瑜伽（見 Basham，《奇蹟》，第327頁及以下）
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+圖：⟪योगः⟫
+瑜伽圖像。
+（圖片來源：[詳情](/licenses#lekt3101)）
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ ：停止，使靜止，抑制 = 封閉，遮蓋
 ::: indent
-**Fut. ⟪रोत्स्यति⟫**
-**Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
+**未來式 ⟪रोत्स्यति⟫**
+**被動式 ⟪रुध्यते⟫**
+**使役式 ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫**
+**不定詞 ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ ：切斷
 ::: indent
-**Fut. ⟪छेत्स्यति⟫**
-**Pass. ⟪छिद्यते⟫**
-**Kaus. ⟪छेदयति⟫**
+**未來式 ⟪छेत्स्यति⟫**
+**被動式 ⟪छिद्यते⟫**
+**使役式 ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫**
+**不定詞 ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ ：（使）破碎
 ::: indent
-**Fut. ⟪भङ्क्ष्यति⟫**
-**Pass. ⟪भज्यते⟫**
+**未來式 ⟪भङ्क्ष्यति⟫**
+**被動式 ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ ：塗抹，沾污
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
-**Pass. ⟪अज्यते⟫**
-**Kaus. ⟪अञ्जयति⟫**
+**未來式 ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
+**被動式 ⟪अज्यते⟫**
+**使役式 ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**不定詞 ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ ：塗開 = 化妝，使自己與眾不同
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**PPP ⟪व्यक्त⟫ :** 區別的，展開的
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+由此：
+**⟪व्यञ्जन⟫ n.:** 區分手段 = 化妝品，香料，標記，輔音（用以區別意義者）
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+圖：⟪व्यञ्जनम्⟫
+Kochi 的 Kathakali 舞蹈準備。
+（圖片來源：[詳情](/licenses#lekt3102)）
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : 分裂
 ::: indent
-**Fut. ⟪भेत्स्यति⟫**
-**Pass. ⟪भिद्यते⟫**
-**Kaus. ⟪भेदयति⟫**
-**PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫**
+**未來式 ⟪भेत्स्यति⟫**
+**被動式 ⟪भिद्यते⟫**
+**使役式 ⟪भेदयति⟫**
+**過去分詞 ⟪भिन्न⟫**
+**不定詞 ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : 享受（例如：食物；「享受大地」意為統治大地）
 ::: indent
-**Fut. ⟪भोक्ष्यति⟫**
-**Pass. ⟪भुज्यते⟫**
-**Kaus. ⟪भोजयति⟫**
-**PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫**
+**未來式 ⟪भोक्ष्यति⟫**
+**被動式 ⟪भुज्यते⟫**
+**使役式 ⟪भोजयति⟫**
+**過去分詞 bhukt → 過去分詞 ⟪भुक्त⟫**
+**不定詞 ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+衍生詞：
+**⟪भोग⟩ m.：** 享受、食物、愉悅、利益、稅賦
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!)：綁、繫
 ::: indent
-**Fut. ⟪भन्त्स्यति⟫**
-**Pass. ⟪बध्यते⟫**
-**Kaus. ⟪बन्धयति⟫**
-**PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫**
+**未來式 ⟪भन्त्स्यति⟫**
+**被動式 ⟪बध्यते⟫**
+**使役式 ⟪बन्धयति⟫**
+**過去分詞 ⟪बद्ध⟫**
+**不定詞 ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel
+衍生詞：
+**⟪बन्धन⟫ n.：** 綁、束縛
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ ：認知、理解
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
+衍生詞：
+**⟪प्रज्ञा⟫ f.：** 智慧、知識
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103))
+圖：⟪प्रज्ञापारमिता⟫
+出自《般若波羅蜜多》手稿。
+（圖片來源：[詳情](/licenses#lekt3103)）
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ ：產生、存在
 
-**⟪शरीर⟫ n.:** Leib, Körper
+**⟪शरीर⟫ n.：** 軀體、身體
 
 ## 第32課
 
@@ -2130,132 +2331,125 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+
+
+
+
+
+**⟪अग्र⟫ n.：** 尖端、最末端
+
+**⟪मही⟫ f.：** 大地、土壤（字面意：大者）
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+圖：⟪चूतः⟫
+芒果樹，坎普爾。
+（圖片來源：[詳情](/licenses#lekt3202)）
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
-⟪ग्रहीतुम्⟫ (!)
+⟪ग्रहीष्यति⟫（！）：br
+⟪गृह्यते⟫：br
+⟪ग्राहयति⟫：br
+⟪गृहीत⟫：br
+⟪गृह्य⟫：br
+⟪ग्रहीतुम्⟫（！）
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+圖：⟪वानराः⟫
+德里（新德里）的猴子（恆河猴）。
+（圖片來源：[詳情](/licenses#lekt3203)）
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫：br
+⟪लोक्यते⟫：br
+⟪लोकित⟫：br
+⟪लोक्य⟫：br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+圖：⟪उपलाः⟫
+浦那（Pune）南部的石礦場，馬哈拉施特拉邦。
+（圖片來源：[詳情](/licenses#lekt3204)）
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+圖：⟪लक्ष्यम्⟫
+靶場練習／箭靶，卡納塔克邦。
+（圖片來源：[詳情](/licenses#lekt3205)）
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫：br
+⟪क्षिप्यते⟫：br
+⟪क्षेपयति⟫：br
+⟪क्षिप्त⟫：br
+⟪क्षिप्य⟫：br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫：br
+⟪चीयते⟫：br
+⟪चाययति⟫：br
+⟪चित⟫：br
+⟪चित्य⟫：br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+圖：⟪चितं गोमयं दहति⟫
+拉賈斯坦邦燃燒的牛糞餅。
+（圖片來源：[詳情](/licenses#lekt3207)）
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+圖：⟪कौशलम्⟫
+孟買手上的海娜花紋繪畫（Mehndi）。
+（圖片來源：[詳情](/licenses#lekt3206)）
 :::
+
 ## 第33課
 
 
@@ -2264,159 +2458,172 @@ Mehndi painting on hands in Mumbai.
 
 
 
-⟪दा⟫ 3U ⟪ददाति⟫: geben
+
+
+
+
+
+
+⟪दा⟫ 3U ⟪ददाति⟫：給予
 
 ::: indent
-**Fut.**  ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
-**PPP** ⟪दत्त⟫  
-**Inf.** ⟪दातुम्⟫
+**未來時** ⟪दास्यति⟫  
+**被動語態** ⟪दीयते⟫  
+**使役語態** ⟪दापयति⟫  
+**PPP（過去分詞）** ⟪दत्त⟫  
+**動名詞** ⟪दातुम्⟫
 
-davon:
+其中：
 
-⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ n.：給予、贈禮、慷慨
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+圖：⟪दानम्⟫
+（圖片來源：[詳情](/licenses#lekt3306)）
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫：（接收）接受，佔有，帶走
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**絕對用法** ⟪आदाय⟫：帶賓格時，意為「與……一起」
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+圖注：⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+（圖片來源：[詳情](/licenses#lekt3307)）
 :::
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]：設定，確定，分配
 
 ::: indent
-**Fut.** :sig[⟪धास्यति⟫]  
-**Pass.** :sig[⟪धीयते⟫]  
-**Kaus.** :sig[⟪धापयति⟫]  
-**PPP** :sig[⟪हित⟫] (!!)  
-**Inf.** :sig[⟪धातुम्⟫]
+**未來式** :sig[⟪धास्यति⟫]  
+**被動式** :sig[⟪धीयते⟫]  
+**使役式** :sig[⟪धापयति⟫]  
+**過去分詞** :sig[⟪हित⟫] (!!)  
+**不定詞** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫：將全部注意力集中於某事，集中心力
 
 ::: indent
-davon:
+衍生詞：
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ 陽性名詞：內在的專注，極高的注意力
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+圖注：⟪समाधि⟫
+（圖片來源：[詳情](/licenses#lekt3305)）
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫：充滿，填滿
 
 ::: indent
-Merke:
-3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
-3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
-3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
+注意：
+第三人稱複數現在時直陳式 :sig[⟪पिपुरति⟫]  
+第三人稱單數未完成時直陳式 :sig[⟪अपिपर्⟫] （源自：\*apipart）  
+第三人稱複數未完成時直陳式 :sig[⟪अपिपरुर्⟫]  
+第三人稱單數未完成時虛擬式 :sig[⟪पिपूर्यात्⟫]
 
-**Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
-**Pass.** ⟪पूर्यते⟫  
-**Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
-**PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
+**未來式** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
+**被動式** ⟪पूर्यते⟫  
+**使役式** ⟪पूरयति⟫ / ⟪पारयति⟫  
+**過去分詞** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ 僅有 **被動式** ⟪सम्पूर्यते⟫ 和 **使役式**：完全充滿
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫：害怕（接離格、屬格）
 
 ::: indent
-**Fut.** ⟪भेष्यति⟫  
-**Pass.** ⟪भीयते⟫  
-**Kaus.** ⟪भाययति⟫  
-**PPP** ⟪भीत⟫  
-**Inf.** ⟪भेतुम्⟫
+**未來式** ⟪भेष्यति⟫  
+**被動式** ⟪भीयते⟫  
+**使役式** ⟪भाययति⟫  
+**過去分詞** ⟪भीत⟫  
+**不定詞** ⟪भेतुम्⟫
 
-davon:
+衍生詞：
 
-⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ 中性名詞：恐懼，害怕；危險（主觀與客觀兩方面）
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+圖注：⟪भयम्⟫
+（圖片來源：[詳情](/licenses#lekt3304)）
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 3U ⟪बिभर्ति⟫：攜帶，帶來；維持，供養
 
 ::: indent
-**Fut.** ⟪भरिष्यति⟫  
-**Pass.** ⟪भ्रियते⟫  
-**Kaus.** ⟪भारयति⟫  
-**PPP** ⟪भृत⟫  
-**Inf.** ⟪भर्तुम्⟫
+**未來式** ⟪भरिष्यति⟫  
+**被動語態** ⟪भ्रियते⟫  
+**使役式** ⟪भारयति⟫  
+**過去分詞** ⟪भृत⟫  
+**不定式** ⟪भर्तुम्⟫
 
-davon:
+其中：
 
-⟪भार⟫ m.: Last
+⟪भार⟫ 陽性名詞：負擔
 :::
-⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
+⟪मा⟫ 第三類動詞 ⟪मिमीते⟫：測量
 
 ::: indent
-**Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
-**Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
-**PPP** ⟪मित⟫  
-**Inf.** ⟪मातुम्⟫
+**未來式** ⟪मास्यति⟫ / ⟪मास्यते⟫  
+**被動語態** ⟪मीयते⟫  
+**使役式** ⟪मापयति⟫  
+**過去分詞** ⟪मित⟫  
+**不定式** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 第三類動詞 ⟪उपमिमीते⟫：比較
 
 ::: indent
-davon:
+其中：
 
-⟪उपमा⟫ f.: Vergleich
+⟪उपमा⟫ 陰性名詞：比較
 
-⟪प्रतिमा⟫ f.: Abbild
+⟪प्रतिमा⟫ 陰性名詞：圖像
 :::
-⟪हा⟫ 3P ⟪जहाति⟫: verlassen
+⟪हा⟫ 第三類動詞 ⟪जहाति⟫：離開
 
 ::: indent
-**Fut.** ⟪हास्यति⟫  
-**Pass.** ⟪हीयते⟫  
-**Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
-**Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+**未來式** ⟪हास्यति⟫  
+**被動語態** ⟪हीयते⟫  
+**使役式** ⟪हापयति⟫  
+**過去分詞** ⟪हीन⟫：被離開的、缺乏的、有缺陷的  
+**不定式** ⟪हातुम्⟫
+源自過去分詞 ⟪हीन⟫：
 
-⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+⟪हीनयान⟫ 中性名詞：有缺陷的載具（佛教用語）：由「大乘」⟪महायान⟫代表所使用的輕蔑稱呼；有缺陷的道路（⟪यान⟫ 至 ⟪या⟫ 第二類：走、行）。此術語 ⟪हीनयान⟫ 不應再使用。現今仍存在的古老佛教形式稱為 ⟪थेरवाद⟫。
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+圖示：⟪हीनयानमेव⟫
+（圖片來源：[詳情](/licenses#lekt3303)）
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 第三類動詞 ⟪जुहोति⟫：倒入火中（作為祭品，特別是澄清奶油）
 
 ::: indent
-**Fut.** ⟪होष्यति⟫  
-**Pass.** ⟪हूयते⟫  
-**Kaus.** ⟪हावयति⟫  
-**PPP** ⟪हुत⟫  
-**Inf.** ⟪होतुम्⟫
+**未來式** ⟪होष्यति⟫  
+**被動語態** ⟪हूयते⟫  
+**使役式** ⟪हावयति⟫  
+**過去分詞** ⟪हुत⟫  
+**不定式** ⟪होतुम्⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+圖示：⟪घृतमग्नौ जुहोति⟫
+（圖片來源：[詳情](/licenses#lekt3302)）
 :::
-⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ 中性名詞：澄清奶油、酥油（⟪घी⟫ / گھی / ঘী）
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+「酥油是通過在大型鍋中慢煮無鹽黃油製成的，直到所有水分蒸發且蛋白質沉澱到底部。然後用勺子舀出煮熟的澄清黃油，以避免攪動鍋底的乳固體。與黃油不同，只要將酥油存放在密封容器中以防止氧化並保持無水狀態，它就可以在不冷藏的情況下長期儲存。酥油的質地、顏色或味道取決於製作黃油所用的牛奶來源。在印度，酥油通常用水牛乳製成，因為它往往比牛乳更白。」
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[來源：http://en.wikipedia.org/wiki/Ghee. -- 存取日期：2008-12-26]
 :::
+
 ## 第34課
+
+
+
+
+
+
 
 
 
@@ -2426,128 +2633,136 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** 種子，農作物，穀物
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
+圖：⟪सस्यम्⟫
 Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+(圖片來源：[詳情](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** 多久，多大
 
-**⟪तावत्⟫ :** so lange, so gross
+**⟪तावत्⟫ :** 如此久，如此大
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** 最高的
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.n.:** 島嶼，大陸
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
+圖：⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+(圖片來源：[詳情](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** 必死的（源於 ⟪मृ⟫）
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** 芝麻（*Sesamum indicum* L.）
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
+圖：⟪तिलाः⟫
 Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+(圖片來源：[詳情](/licenses#lekt3403))
 :::
+
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
+圖：*Sesamum indicum* L.
 Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+(圖片來源：[詳情](/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** （色彩鮮豔的 =）黃金
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
+圖：⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+(圖片來源：[詳情](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** 居所，寺廟
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ f.:** 頂端；一千萬
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** 最好的
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.n.:** 平原，平面
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** 公牛
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
+圖：⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+(圖片來源：[詳情](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** 抑制，保持，提供，給予
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** 伸出，提供，交付
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
+**⟪या⟫ 第二人稱 ⟪याति⟫**：走，行
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ 陰性名詞**：少女，處女
 
-## 第35課
-
-
+## 第三十五課
 
 
 
 
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+
+
+
+
+
+
+
+
+⟪नश्⟫ 第四類動詞 ⟪नश्यति⟫：迷失，毀滅，消失
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
-**PPP ⟪नष्ट⟫**
+**完成時動詞 ⟪ननाश⟫，⟪नेशुर्⟫**：br
+**未來時 ⟪नशिष्यति । नङ्क्ष्यति⟫**：br
+**使役動詞 ⟪नाशयति⟫**：br
+**過去被動分詞 ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 第四類動詞 ⟪प्र⟫：sig[⟪ण⟫]⟪श्यति⟫**：消失，迷失，毀滅
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 第一類動詞：sig[⟪क्रा⟫]⟪मति⟫，第四類動詞：sig[⟪क्रा⟫]⟪म्यति⟫：行走，走動
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**完成時動詞 ⟪चक्राम⟫，⟪चक्रमुर्⟫**：br
+**未來時 ⟪क्रमिष्यति⟫**：br
+**被動語態 ⟪क्रम्यते⟫**：br
+**使役動詞 ⟪क्रमयति⟫**：br
+**過去被動分詞：sig[⟪क्रा⟫]⟪न्त⟫**：br
+**不定詞 ⟪क्रमितुम्⟫**：br
+**絕對分詞 ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+圖注：⟪क्रामन्ति⟫
+行走的人們，塞內加爾。
+（圖片來源：[詳情](/licenses#lekt3502)）
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 第一類動詞 ⟪गायति⟫ (gai + a-ti)：歌唱，以吟誦的語調宣讀，用韻文宣告
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
-**Inf. ⟪गातुम्⟫**
+**完成時第四類 ⟪जगौ⟫，⟪जगुर्⟫**：br
+**未來時 ⟪गास्यति⟫**：br
+**被動語態 ⟪गीयते⟫**：br
+**使役動詞 ⟪गापयति⟫**：br
+**過去被動分詞 ⟪गीत⟫**：br
+**不定詞 ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+由此：
+**⟪गीता⟫ 陰性名詞**：歌曲，歌聲
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
-Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+圖注：⟪जगुः⟫
+卡杜·馬萊什瓦拉寺廟的樂師，班加羅爾。
+（圖片來源：[詳情](/licenses#lekt3501)）
 :::
-## 第36課
+
+## 第三十六課
 
 
 
@@ -2555,193 +2770,208 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 
 
-⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen
 
-⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten
+
+
+
+
+⟪अह्⟫ 僅完成時，帶有現在時的意義 ⟪आह⟫，⟪आहुर्⟫：說，談論
+
+⟪अह् प्र⟫ 僅完成時，帶有現在時的意義 ⟪प्राह⟫：說，談論
+
+⟪ईक्ष्⟫ 第一類動詞 ⟪ईक्षते⟫：看，（發）現，注視
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
-Fut. ⟪ईक्षिष्यते⟫  
-Pass. ⟪ईक्ष्यते⟫  
-Kaus. ⟪ईक्षयति⟫  
-PPP ⟪ईक्षित⟫  
-Inf. ⟪ईक्षितुम्⟫
+完成時 ⟪ईक्षां चक्रे⟫  
+未來時 ⟪ईक्षिष्यते⟫  
+被動語態 ⟪ईक्ष्यते⟫  
+使役動詞 ⟪ईक्षयति⟫  
+過去被動分詞 ⟪ईक्षित⟫  
+不定詞 ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln
+⟪चि⟫ 5U ⟪चिनोति⟫ :堆積，收集
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
-Fut. ⟪चेष्यति⟫  
-Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
-PPP ⟪चित⟫  
-Inf. ⟪चेतुम्⟫
+完成時 ⟪चिकाय । चिचाय⟫  
+未來時 ⟪चेष्यति⟫  
+被動語態 ⟪चीयते⟫  
+使役式 ⟪चाययति । चापयति⟫  
+過去被動分詞 ⟪चित⟫  
+不定詞 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+圖注：⟪गोमयं चिकाय⟫
+（圖片來源：[詳情](/licenses#lekt3601)）
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
+
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ ：行走，走開
 
 ::: indent
-Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
-Fut. ⟪व्रजिष्यति⟫  
-Pass. ⟪व्रज्यते⟫  
-Kaus. ⟪व्राजयति⟫  
-PPP ⟪व्रजित⟫  
-Inf. ⟪व्रजितुम्⟫
+完成時虛擬式 ⟪वव्राज⟫，⟪वव्रजुर्⟫  
+未來時 ⟪व्रजिष्यति⟫  
+被動語態 ⟪व्रज्यते⟫  
+使役式 ⟪व्राजयति⟫  
+過去被動分詞 ⟪व्रजित⟫  
+不定詞 ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ ：離開（特指離開家庭走向無家可歸的修行者生活，即出家為僧）
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim
+⟪अगार⟫ n.⟪। आगार⟫ n.：房屋，家
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+圖注：⟪अगारम्⟫
+（圖片來源：[詳情](/licenses#lekt3602)）
 :::
-::: indent
-davon:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
+::: indent
+衍生詞：
+
+⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.：佛教僧侶或沙彌的無家可歸狀態
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+圖注：⟪अनगार्यम्⟫
+（圖片來源：[詳情](/licenses#lekt3603)）
 :::
-⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
+⟪अञ्जलि⟫ m.：雙手合十致敬
 
-⟪आदृत⟫ 3: geachtet
+⟪आदृत⟫ 3：受尊敬的
 
-⟪उपाध्याय⟫ m.: Lehrer
+⟪उपाध्याय⟫ m.：導師
 
-⟪पृथिवी⟫ f.: Erde
+⟪पृथिवी⟫ f.：大地
 
-⟪पृष्ठ⟫ n: Rücken, Rückseite
+⟪पृष्ठ⟫ n.：背部，背面
 
 ::: indent
-⟪पृष्ठम्⟫ : hinter
+⟪पृष्ठम्⟫ ：在...之後
 :::
-⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott
+⟪प्रजापति⟫ m.：眾生之主，創造神
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäss, hinzu, hinter - her
+⟪अनु⟫ 前綴：向後，沿著，跨越 - 過去，沿着，根據，朝向，在...之後
 
 ::: indent
-z.B.
+例如
 
-⟪अनुकृ⟫ : nachahmen, nachmachen
+⟪अनुकृ⟫ ：模仿，效仿
 
-⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen
+⟪अनुगम्⟫ ：跟隨某人，沿著走
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ ：朝向，向 - 去，朝 - 來，向 - 去，對，進入，關於，在...上，超過，在...旁
 
 ::: indent
-z.B.
+例如
 
-⟪अभिगम्⟫ : hingehen, sich nähern
+⟪अभिगम्⟫ ：前往，靠近
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüssen, anreden
+⟪वद्⟫ + ⟪अभि⟫ 使役 Ā ⟪अभिवादयते⟫ ：正式地問候、致意
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
+⟪ग्लै⟫ 第一人稱 ⟪ग्लायति⟫ ：感到不情願、消散
 
 ::: indent
-Perf. IV ⟪जग्लौ⟫  
-Fut. ⟪ग्लास्यति⟫  
-Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
-PPP ⟪ग्लान⟫  
-Inf. ⟪ग्लातुम्⟫  
-Absol. -⟪ग्लाय⟫
+完成時 IV ⟪जग्लौ⟫  
+未來式 ⟪ग्लास्यति⟫  
+被動語態 ⟪ग्लायते⟫  
+使役 ⟪ग्लापयति । ग्लपयति⟫  
+過去分詞 ⟪ग्लान⟫  
+不定式 ⟪ग्लातुम्⟫  
+獨立分詞 -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : etwas riechen
+⟪घ्रा⟫ 第一人稱 :sig[⟪जिघ्रति⟫] ：聞到氣味
 
 ::: indent
-Perf. IV ⟪जघ्रौ⟫  
-Fut. ⟪घ्रास्यति⟫  
-Pass. ⟪घ्रायते⟫  
-Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
-Inf. ⟪घ्रातुम्⟫  
-Absol. -⟪घ्राय⟫
+完成時 IV ⟪जघ्रौ⟫  
+未來式 ⟪घ्रास्यति⟫  
+被動語態 ⟪घ्रायते⟫  
+使役 ⟪घ्रापयति⟫  
+過去分詞 ⟪घ्रात । घ्राण⟫  
+不定式 ⟪घ्रातुम्⟫  
+獨立分詞 -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein
+⟪प्री⟫ 第九類 U ⟪प्रीणति⟫ ：使愉悅、使高興；喜愛、對某人友善
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen
+⟪प्री⟫ 第四類 Ā ⟪प्रीयते⟫ ：感到高興
 
 ::: indent
-Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
-Fut. ⟪प्रेष्यति⟫  
-Pass. ⟪प्रीयते⟫  
-Kaus. :sig[⟪प्रीणयति⟫]  
-PPP ⟪प्रीत⟫  
-Inf. ⟪प्रेतुम्⟫
+完成時 IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
+未來式 ⟪प्रेष्यति⟫  
+被動語態 ⟪प्रीयते⟫  
+使役 :sig[⟪प्रीणयति⟫]  
+過去分詞 ⟪प्रीत⟫  
+不定式 ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren
+⟪स्पृश्⟫ 第六類 P ⟪स्पृशति⟫ ：觸摸
 
 ::: indent
-Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
-Pass. ⟪स्पृश्यते⟫  
-Kaus. ⟪स्पर्शयति⟫  
-PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
-Absol. -⟪स्पृश्य⟫
+完成時 IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
+未來式 ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
+被動語態 ⟪स्पृश्यते⟫  
+使役 ⟪स्पर्शयति⟫  
+過去分詞 ⟪स्पृष्ट⟫  
+不定式 ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
+獨立分詞 -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Abb.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606))
+圖注：⟪सुगतो भूमीं पस्पर्श⟫
+（圖片來源：[詳情](/licenses#lekt3606)）
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
+⟪हृष्⟫ 第四類 P ⟪हृष्यति⟫ ：變得僵硬；豎起（頭髮）、因……而高興（工具格、賓格、處所格）
 
 ::: indent
-Perf II ⟪जहर्ष⟫  
-Fut. ⟪हर्षिष्यति⟫  
-Pass. ⟪हृष्यते⟫  
-Kaus. ⟪हर्षयति⟫  
-PPP ⟪हृषित⟫
+完成時 II ⟪जहर्ष⟫  
+未來式 ⟪हर्षिष्यति⟫  
+被動語態 ⟪हृष्यते⟫  
+使役 ⟪हर्षयति⟫  
+過去分詞 ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604))
+圖注：⟪लोमहर्षः⟫
+（圖片來源：[詳情](/licenses#lekt3604)）
 :::
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
-## 第37課
+⟪स्वक⟫ 第三類：自己的（我的、你的……）；陽性：成員
 
-
-
+## 第三十七課
 
 
 
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+
+
+
+
+
+
+
+
+⟪मूर्ख⟫ 第三類：愚鈍的、愚蠢的、笨拙的；陽性：傻瓜
+
+⟪मुनि⟫ m.: 智者，（沉默）苦行者
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: 來自 ⟪शाक्य⟫（來自 ⟪कपिलवस्तु⟫ 的 Kṣatriya）種姓的苦行者 = 佛陀喬達摩
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+圖：⟪शाक्यमुनिः⟫
+（圖片來源：[詳情](/licenses#lekt3705)）
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: 天
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: 樹
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+圖：⟪वृक्षः⟫
+（圖片來源：[詳情](/licenses#lekt3706)）
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.: 口，臉，前部，開始
 
 ## 第38課
 
@@ -2751,131 +2981,139 @@ Abb.: ⟪वृक्षः⟫
 
 
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+
+
+
+
+
+
+⟪सूर्य⟫ m.: 太陽，太陽神 Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+圖：⟪सूर्यः⟫
+（圖片來源：[詳情](/licenses#lekt3802)）
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.: 水
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+圖：⟪उदकम्⟫
+（圖片來源：[詳情](/licenses#lekt3805)）
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : 吹，鼓風
 
 ::: indent
-Fut. ⟪वास्यति⟫
-Perf. IV ⟪ववौ⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
+未來式 ⟪वास्यति⟫
+完成式 IV ⟪ववौ⟫
+被動式 ⟪वायते⟫
+使役式 ⟪वापयति⟫
+過去被動分詞 ⟪वान । वात⟫
+不定式 ⟪वातुम्⟫
 
-davon:
+衍生詞：
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: 風
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : 吹，消散，熄滅
 
 ::: indent
-davon:
+衍生詞：
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.: 熄滅，涅槃
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.: 完全熄滅，完美解脫（佛陀或阿羅漢生命結束時）
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+圖：⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+（圖片來源：[詳情](/licenses#lekt3804)）
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : 小便，排尿，射精
 
 ::: indent
-Fut. ⟪मेक्ष्यति⟫
-Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
-Pass. ⟪मिह्यते⟫
-Kaus. ⟪मेहयति⟫
-PPP ⟪मीढ⟫
+未來式 ⟪मेक्ष्यति⟫
+完成式 II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
+被動式 ⟪मिह्यते⟫
+使役式 ⟪मेहयति⟫
+過去被動分詞 ⟪मीढ⟫
 
-davon:
+衍生詞：
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: 雲（「排尿者」）
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: 兒子
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: 國王（關於印度的王權，請參見 Basham, Wonder S. 82 -94）。作為複合詞的後半部分（特別是 ⟪तत्पुरुष⟫），通常為：-⟪राज⟫ m.（如 ⟪देव⟫）
 
 ::: indent
-Femininum:
+陰性：
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ f.：女王、國王之妻
 
-von ⟪राज⟫ :
+源自 ⟪राज⟫ ：
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 3：王室的；n. 王國、王權、統治
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.：名稱
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ f.：邊界
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.：自我、自身、內在本質。哲學及解脫論中：個體內的絕對者，但個體在特定情況下未必意識到（Stietencron 語）
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
+⟪ब्रह्मन्⟫ n.：絕對者、吠陀（根據 Thieme 最初之意：表述的真理，由此 ⟪ब्राह्मण⟫ 「真理表述者」）
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.：人格化的創造神梵天（Brahmā）
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+圖：⟪ब्रह्मा⟫
+（圖片來源：[詳情](/licenses#lekt3809)）
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
+⟪कर्मन्⟫ n.：關於 ⟪कृ⟫ 8U：行動、行為、作品；神聖的行為，祭祀儀式；業力（Karma）：先前的作為，其後果將遲早顯現（例如在輪迴中） 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.：業的果報 = 先前存在中善惡行為所導致的後果（參見 ⟪वि⟫-⟪पच्⟫）
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.：大象（_Elephas maximus_）
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.：人類、男子；人類的父親之名（參見 ⟪मन्⟫ 4Ā）
 
 ::: indent
-davon:
+由此：
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.：人類
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ ：（燃燒、發光）；哀悼、悲傷
 
 ::: indent
-Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
-Fut. ⟪शोचिष्यति⟫
-Pass. ⟪शुच्यते⟫
-Kaus. ⟪शोचयति⟫
-Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+完成時 II ⟪शुशोच⟫，⟪शुशुचुर्⟫
+未來時 ⟪शोचिष्यति⟫
+被動語態 ⟪शुच्यते⟫
+使役語態 ⟪शोचयति⟫
+不定詞 ⟪शुचितुम्⟫
+絕對構詞 ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+由此：
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3：發光的、純淨的、清晰的
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.：哀傷、悲痛
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3：無憂的；阿育樹 = _Saraca asoca_ (Roxb.) Wilde；皇帝阿育王之名（⟪देवानांप्रिय प्रियदर्शी⟫）（約公元前 304 – 232 年）
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+圖：⟪अशोकवृक्षः⟫
+（圖片來源：[詳情](/licenses#lekt3810)）
 :::
+
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+圖：⟪अशोकसाम्राज्यम्⟫
+（圖片來源：[詳情](/licenses#lekt3811)）
 :::
+
 ## 第40課
 
 
@@ -2884,106 +3122,114 @@ Abb.: ⟪अशोकसाम्राज्यम्⟫
 
 
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+
+
+
+⟪पात्र⟫ n.：可敬者、大師、值得尊敬的人
+
+⟪मेधा⟫ f.：智慧、理智、思想
+
+⟪पुस्तक⟫ m.n.：手稿、書籍
+
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ ：處於正確狀態、與...相符（屬格）；形成、構成；決心做某事、屈就於（與格）
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
-PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+完成時 II ⟪चकॢपे⟫ 可選地 ⟪अनिट्⟫  
+未來時 ⟪कल्पिष्यते । कल्प्स्यते⟫  
+使役動詞 ⟪कल्पयति⟫ ：整理好、創造、在想象中構建、自以為是  
+過去被動分詞 ⟪कॢप्त⟫  
+不定式 ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+派生詞：
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.：思想中的構建、在現實中接受不存在之物的假設、虛構
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ 使役動詞 ⟪विकल्पयति⟫ ：（以不同方式想像 =）質疑、懷疑
 
 ::: indent
-davon:
+派生詞：
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.：替代方案、疑問
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ ：打擊
 
 ::: indent
-Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
-Fut. ⟪तोत्स्यति⟫  
-Pass. ⟪तुद्यते⟫  
-Kaus. ⟪तोदयति⟫  
-PPP ⟪तुन्न⟫ (tud + na)  
-Inf. ⟪तोत्तुम्⟫
+完成時 II ⟪तुतोद⟫、⟪तुतुदुर्⟫  
+未來時 ⟪तोत्स्यति⟫  
+被動語態 ⟪तुद्यते⟫  
+使役動詞 ⟪तोदयति⟫  
+過去被動分詞 ⟪तुन्न⟫ (tud + na)  
+不定式 ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ ：渡過、跨越、從某人那裡逃脫（賓格 = 跨越某人）
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
-Pass. ⟪तीर्यते⟫  
-Kaus. ⟪तारयति⟫  
-PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+完成時 IIIb ⟪ततार⟫、⟪ततरुर् । तेरुर्⟫  
+未來時 ⟪तरिष्यति । तरीष्यति⟫  
+被動語態 ⟪तीर्यते⟫  
+使役動詞 ⟪तारयति⟫  
+過去被動分詞 ⟪तीर्ण⟫  
+不定式 ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+派生詞：
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.：淺灘、神聖沐浴處、朝聖地
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+圖：⟪हरिद्वारे तीर्थम्⟫
+（圖片來源：[詳情](/licenses#lekt4003)）
 :::
+
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ 陽性名詞（源自：⟪तीर्थम्⟫ + ⟪कृ⟫）：渡河者（超越苦難）= 耆那教的二十四位導師
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+圖：⟪तीर्थङ्करः⟫
+（圖片來源：[詳情](/licenses#lekt4002)）
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ 前綴：向下、往下、離開、下-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 第一人稱單數 ⟪अवतरति⟫ ：下降
 
 ::: indent
-davon:
+衍生詞：
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ 陽性名詞：（下降者、下降）神的化身，特別是毗濕奴的十個化身（參見 Basham，《奇蹟》，第 304 - 309 頁）
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+圖：⟪विष्णोर्दशावताराः⟫
+（圖片來源：[詳情](/licenses#lekt4001)）
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 第二人稱單數 ⟪स्वपिति⟫， ⟪स्वपन्ति⟫ ：睡覺、躺下休息
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
-PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫
+未完成時 ⟪अस्वपीत् । अस्वपत्⟫  
+完成時 ⟪सुष्वाप⟫， ⟪सुषुपुर्⟫  
+未來時 ⟪स्वप्स्यति⟫  
+被動語態 ⟪सुप्यते⟫（源自 \*svp-ya-te）  
+使役 ⟪स्वापयति⟫  
+過去被動分詞 ⟪सुप्त⟫  
+不定詞 ⟪स्वप्तुम्⟫
 
-davon:
+衍生詞：
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ 陽性名詞：睡眠、夢
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ 陰性名詞（源自 \*svp-ti）：睡眠，特指熟睡
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+圖：⟪स्वपन्ति⟫
+（圖片來源：[詳情](/licenses#lekt4004)）
 :::
-## 第41課
+
+## 第 41 課
 
 
 
@@ -2991,89 +3237,78 @@ Abb.: ⟪स्वपन्ति⟫
 
 
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
 
-⟪भुजङ्ग⟫ m.: Schlange
+
+
+
+
+
+⟪मूर्ख⟫ 陽性名詞 = ⟪मूढ भुजङ्ग⟫ 陽性名詞：蛇
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
-Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/licenses#lekt4105))
+圖：⟪भुजङ्गः⟫
+（圖片來源：[詳情](/licenses#lekt4105)）
 :::
-⟪केवलम्⟫ Adv.: nur, allein, vollständig
+⟪केवलम्⟫ 副詞：僅、只有、完全
 
-⟪विष⟫ n.: Gift
+⟪विष⟫ 中性名詞：毒藥
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Bildquelle: [Details](/licenses#lekt4104))
+圖：⟪भुजङ्गस्य विषम्⟫
+（圖片來源：[詳情](/licenses#lekt4104)）
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+⟪शास्⟫ 第二人稱單數 ⟪शास्ति⟫ ：責備、控制、命令、教導
 
 ::: indent
-hat den schwachen Präsensstamm ⟪शिष्⟫ : ⟪शिष्मस्⟫, die 3.Pl. P. hat aber starken Stamm: ⟪शासति⟫ (!! Endung -ati) neben gelegentlich ⟪शासन्ति⟫. ⟪अशासुर्⟫. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: ⟪शास्ते⟫
+具有弱式現在詞幹 ⟪शिष्⟫ ：⟪शिष्मस्⟫，但第三人稱複數現在式具有強式詞幹：⟪शासति⟫ (!! 結尾 -ati) 以及偶爾出現的 ⟪शासन्ति⟫。⟪अशासुर्⟫。此外，整個 ⟪आत्मनेपद⟫ 在出現時，均具有強式詞幹：⟪शास्ते⟫
 
-Perf I ⟪शशास⟫, ⟪शशासुर्⟫  
-Fut. ⟪शासिष्यति⟫  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ : gelehrt, weise  
-Inf. ⟪शासितुम्⟫  
-Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
+完成時 I ⟪शशास⟫，⟪शशासुर्⟫  
+未來時 ⟪शासिष्यति⟫  
+被動 **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+過去分詞 ⟪शिष्ट⟫ ：被教導、智慧的  
+不定詞 ⟪शासितुम्⟫  
+絕對構詞 **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-davon:
+派生自：
 
-⟪शासना⟫ f.: königliches Edikt, Lehre, Religion
+⟪शासना⟫ 陰性：皇家敕令、教義、宗教
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/licenses#lekt4109))
+圖注：⟪शासना⟫
+（圖片來源：[詳情](/licenses#lekt4109)）
 :::
-::: indent
-⟪शास्त्र⟫ n.: Lehre, Lehrwerk
 
-⟪शास्त्रिन्⟫ m.: gelehrt, Gelehrter
+::: indent
+⟪शास्त्र⟫ 中性：教義、教材
+
+⟪शास्त्रिन्⟫ 陽性：博學的、學者
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/licenses#lekt4110))
+圖注：⟪शास्त्री⟫
+（圖片來源：[詳情](/licenses#lekt4110)）
 :::
-::: indent
-⟪शिष्य⟫ 3: zu belehrender = Schüler
-:::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
-
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
-
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
-
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+⟪शिष्य⟫ 第三格：受教導者 = 學生
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+⟪शरण⟫ 第三格：保護的、庇護的；中性名詞：保護、避難所、投靠
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+⟪सङ्घ⟫ 中性：（源於 ⟪सम्⟫-⟪हन्⟫ ：共同打擊）：群體、大隊、團體（例如佛教僧團）
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+⟪कन्या⟫ 陰性：年輕女孩、女兒、處女
+
+⟪अति⟫ 前綴：超過、跨越（在空間上、時間上、數量上、總量上、順序上、權力上、強度上）、極度
+
+⟪इ⟫ + ⟪अति⟫ 第二人稱單數 ⟪अत्येति⟫ ：經過
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+過去分詞 ⟪अतीत⟫ ：中性名詞，過去
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
-
-::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
 ## 第42課
 
 
@@ -3082,130 +3317,134 @@ PPP ⟪अतीत⟫ : n. Vergangenheit
 
 
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+
+
+
+
+⟪प्रकृति⟫ 陰性：（源於 ⟪कृ⟫ + ⟪प्र⟫）基本形式、自然狀態、本性；原始物質、原初元素
+
+⟪अर्जुन⟫ 陽性專有名詞：阿周那，⟪पण्डु⟫ 的五個兒子之一。⟪महाभारत⟫ 中的英雄（參見 Basham，《奇蹟》第 409 - 414 頁）
+
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ ：戒除、遠離、保持距離、停留、站立
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3：站立、存在
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ 副詞：曾經、過去
 
-⟪अनेक⟫ 3: viele (nicht einige)
+⟪अनेक⟫ 3：許多（而非一些）
 
-⟪कुमार⟫ m.: Prinz
+⟪कुमार⟫ 陽性：王子
 
-⟪दूत⟫ m.: Bote, Gesandter
+⟪दूत⟫ 陽性：使者、使節
 
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
+⟪इष्⟫ (1,4,9) 使動：sig[⟪इष⟫]⟪यति⟫ ：派遣
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
+⟪सकाश⟫ 陽性：存在、臨在
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ 陽性：箭桿、箭
 
-⟪बाण⟫ m.: Pfeil, Ziel
+⟪बाण⟫ 陽性：箭、目標
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ ：認可、承諾；Ā：回答、確認、聲稱、認知
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ ：開始移動
 
 ::: indent
-Fut. ⟪चलिष्यति⟫  
-Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
-Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+未來式 ⟪चलिष्यति⟫  
+完成式動詞 ⟪चचाल⟫, ⟪चेलुर्⟫  
+被動式 ⟪चल्यते⟫  
+使動式 ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
-Absol. -⟪चल्य⟫  
-Inf. ⟪चलितुम्⟫
+絕對式 -⟪चल्य⟫  
+不定式 ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ 陽性 = ⟪राजन् आटोप⟫ 陽性：虛榮、驕傲
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3：沉思的
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ 副詞：在此期間
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ 陰性：玩笑、遊戲
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ 副詞：多長時間、期間
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ 副詞：如此長的時間
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ 副詞：兩倍、分為兩部分
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ ：讚美、命令
 
 ::: indent
-Fut. ⟪शंसिष्यति⟫  
-Perf. I ⟪शशंस⟫  
-Pass. ⟪शस्यते⟫  
-Kaus. ⟪शंसयति⟫  
+未來式 ⟪शंसिष्यति⟫  
+完成式 I ⟪शशंस⟫  
+被動式 ⟪शस्यते⟫  
+使動式 ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
-Inf. ⟪शंसितुम्⟫
+絕對式 ⟪शसित्वा । शस्त्वा⟫  
+不定式 ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪हृदय⟫ 中性：心
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. 一些親屬稱謂
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+圖注：⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+（圖片來源：[詳情](/licenses#lekt4202)）
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ 陽性（源於 ⟪भृ⟫ “攜帶、維持”）：養育者、供養者、丈夫
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ 陰性, ⟪जाया⟫ 陰性, ⟪पत्नी⟫ 陰性：妻子（⟪भार्या⟫ = ⟪भृ⟫ 的動名詞：應被攜帶者、應被維持者、受供養權人）
 
-⟪पितृ⟫ m.: Vater
+⟪पितृ⟫ m.: 父親
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪पितृ⟫ m. 複數：已故的男性祖先，即
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+1. 父親、祖父、曾祖父
+2. 人類的始祖
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+對這兩者會舉行儀式，即所謂的 ⟪श्राद्ध⟫ n. 每天會分別向三位男性祖先（父系和母系的）供奉水和在特定場合供奉米球或麵粉球（⟪पिण्ड⟫ m. 「小球」）。這樣做是為了讓祖先獲得食物。舉行這項儀式的理由之一，就是男性應該生育兒子。透過這種 ⟪पिण्ड⟫ 供養而連結的人被稱為 ⟪सपिण्ड⟫（他們共同擁有 ⟪पिण्ड⟫）。⟪सपिण्ड⟫ 涵蓋六代人：向後三代（直到曾祖父）和向前三代（直到曾孫）。
 
-⟪तात⟫ m.: Papa
+⟪तात⟫ m.: 爸爸
 
-⟪मातृ⟫ f.: Mutter
+⟪मातृ⟫ f.: 母親
 
-⟪पुत्र⟫ m.:  Sohn
+⟪पुत्र⟫ m.: 兒子
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: 女兒
 
-⟪नप्तृ⟫ m.: Enkel
+⟪नप्तृ⟫ m.: 孫子
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪भ्रातृ⟫ m.: 兄弟
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: 姐妹
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪देवृ⟫ m.: 丈夫的兄弟（妻子的姐夫或妹夫）
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪यातृ⟫ m.: 丈夫兄弟的妻子
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ f.: 丈夫的姐妹
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪श्वसुर⟫ f.: 岳父（在古代：僅指妻子的父親）
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪श्वस्रू⟫ f.: 岳母（變格稍後說明）
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪मातुल⟫ m.: 舅舅（母系兄弟）
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪मातुलानी⟫ f.: 舅舅的妻子（舅母）
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितृव्य⟫ m.: 伯父或叔父（父系兄弟）
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪पितामह⟫ m.: 祖父（父系）
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
+⟪पितामही⟫ f.: 祖母（父系）
 
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
+⟪मातामह⟫ m.: 祖父（母系）
 
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
+⟪मातामही⟫ f.: 祖母（母系）
 
 ## 第43課
 
@@ -3215,122 +3454,128 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
-⟪आपण⟫ m.: Markt
+
+
+
+
+
+⟪ज्ञा⟫ + ⟪आ⟫ 使役 ⟪आज्ञापयति⟫ ：命令，安排
+
+⟪आपण⟫ 陽性：市場
 
 ::: media
 ![](/images/lekt4302.webp)
-Abb.: ⟪आपणः⟫
-(Bildquelle: [Details](/licenses#lekt4302))
+圖：⟪आपणः⟫
+（圖片來源：[詳情](/licenses#lekt4302)）
 :::
-⟪सत्वर⟫ 3: schnell, eilig
+⟪सत्वर⟫ 三：快速，匆忙
 
-⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
+⟪पण्य⟫ 三：可購買的；中性名詞：商品，貿易
 
 ::: media
-![]/images/lekt4303.webp
-Abb.: ⟪पण्यानि⟫
-(Bildquelle: [Details](/licenses#lekt4303))
+![](/images/lekt4303.webp)
+圖：⟪पण्यानि⟫
+（圖片來源：[詳情](/licenses#lekt4303)）
 :::
-⟪आम्⟫ : ja
+⟪आम्⟫ ：是
 
-⟪सम⟫ m. = ⟪वर्ष⟫ n.
+⟪सम⟫ 陽性名詞 = ⟪वर्ष⟫ 中性名詞
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 三：配備有
 
-⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
+⟪भद्र⟫ 三：好，幸福；呼格：親愛的！
 
-⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): Übereinkunft, Vertrag, Frist, Termin, Zeit
+⟪समय⟫ 陽性名詞（源於 ⟪सम्⟫-⟪इ⟫）：協議，合同，期限，日期，時間
 
-⟪निश्चित⟫ 3: entschieden, festgesetzt
+⟪निश्चित⟫ 三：決定的，確定的
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ ：如果不，否則
 
-⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
+⟪विलम्ब⟫ 中性名詞/陽性名詞：延誤，遲到
 
-⟪विपणि⟫ f.: Laden
+⟪विपणि⟫ 陰性名詞：商店
 
 ::: media
 ![](/images/lekt4304.webp)
-Abb.: ⟪विपणिः⟫
-(Bildquelle: [Details](/licenses#lekt4304))
+圖：⟪विपणिः⟫
+（圖片來源：[詳情](/licenses#lekt4304)）
 :::
-⟪वणिज्⟫ m.: Kaufmann
+⟪वणिज्⟫ 陽性名詞：商人
 
 ::: media
 ![](/images/lekt4305.webp)
-Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/licenses#lekt4305))
+圖：⟪वणिक्⟫
+（圖片來源：[詳情](/licenses#lekt4305)）
 :::
-⟪वर⟫ 3: bester
+⟪वर⟫ 三：最好的
 
-⟪शीघ्र⟫ 3: schnell, rasch
+⟪शीघ्र⟫ 三：快速，迅速
 
-⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber
+⟪वत्स⟫ 陽性名詞：小牛，幼崽，孩子；呼格：親愛的
 
 ::: media
 ![](/images/lekt4306.webp)
-Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/licenses#lekt4306))
+圖：⟪वत्सः⟫
+（圖片來源：[詳情](/licenses#lekt4306)）
 :::
-⟪उत्तम⟫ 3: oberster, bester
+⟪उत्तम⟫ 三：最高的，最好的
 
-⟪अल्प⟫ 3: klein, gering
+⟪अल्प⟫ 三：小的，少的
 
-⟪मूल्य⟫ n.: Wert, Preis
+⟪मूल्य⟫ 中性名詞：價值，價格
 
-⟪कियत्⟫ 3: wie gross
+⟪कियत्⟫ 三：多大
 
-⟪शर्करा⟫ f.: Zucker (das deutsche "Zucker" geht über italienisch zucchero, von dort über arabisch sukkar - سكر und persisch äkär - شکر auf das Sanskrit ⟪शर्करा⟫ zurück!)
+⟪शर्करा⟫ 陰性名詞：糖（德語 "Zucker" 源自義大利語 zucchero，再從那裡經阿拉伯語 sukkar - سكر 和波斯語 äkär - شکر，最終追溯至梵文 ⟪शर्करा⟫！）
 
-⟪अधिक⟫ 3: zusätzlich, überschüssig, ausserordendlich
+⟪अधिक⟫ 三：額外的，過剩的，非凡的
 
-⟪तर्हि⟫ : damals, dann ; darum, also
+⟪तर्हि⟫ ：當時，然後；因此，所以
 
-⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
+⟪तुल्⟫ 十 ⟪तुलयति । तोलयति⟫ ：稱重
 
 ::: media
 ![](/images/lekt4307.webp)
-Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4307))
+圖：⟪तोलन्ति⟫
+（圖片來源：[詳情](/licenses#lekt4307)）
 :::
-⟪कर्गल⟫ n.: Papier
+⟪कर्गल⟫ n.：紙
 
-⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
+⟪संपुट⟫ m.：罐（此處指包裹、捆）
 
-⟪पुरतस्⟫ : vorn, davor, vor
+⟪पुरतस्⟫ ：在前面，之前，在……前面
 
-⟪श्रेष्ठिन्⟫ m.: reicher Kaufmann
+⟪श्रेष्ठिन्⟫ m.：富有的商人
 
-⟪जव⟫ 3: schnell, eilig
+⟪जव⟫ 3：快速，匆忙
 
-⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen
+⟪द्रु⟫ 第一人稱單數 ⟪द्रवति⟫ 奔跑
 
 ::: indent
-Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
-Fut. ⟪द्रोष्यति⟫  
-Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
-PPP ⟪द्रुत⟫  
-Absol. -⟪द्रुत्य⟫  
-Inf. ⟪द्रोतुम्⟫
+完成時 IIIa ⟪दुद्राव⟫，⟪दुद्रुवुर्⟫  
+未來時 ⟪द्रोष्यति⟫  
+被動語態 ⟪द्रूयते⟫  
+使役 ⟪द्रावयति⟫  
+PPP（過去被動分詞） ⟪द्रुत⟫  
+絕對分詞 -⟪द्रुत्य⟫  
+不定詞 ⟪द्रोतुम्⟫
 :::
-⟪रे⟫ Interjektion: He! Du da!
+⟪रे⟫ 感嘆詞：嘿！你這傢伙！
 
-⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
+⟪अन्यद्⟫ 3：另一個（變格同 ⟪यद्⟫ ）
 
-⟪वञ्चक⟫ m.: Betrüger
+⟪वञ्चक⟫ m.：騙子
 
-⟪पश्चात्ताप⟫ m.: Reue
+⟪पश्चात्ताप⟫ m.：懊悔
 
-⟪इत्थम्⟫ Adv.: auf diese Weise, so
+⟪इत्थम्⟫ 副詞：以這種方式，如此
 
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.：天
 
-⟪जन्मन्⟫ n.: Geburt
+⟪जन्मन्⟫ n.：出生
 
-⟪आनन्द⟫ m.: Wonne, Freude
+⟪आनन्द⟫ m.：喜悅，快樂
 
 ## 第44課
 
@@ -3340,151 +3585,148 @@ Inf. ⟪द्रोतुम्⟫
 
 
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+
+
+
+
+
+
+⟪प्रति⟫ 前綴：返回，反對，朝向……去
 
 ::: indent
-z.B.
+例如
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
+**⟪हन्⟫ + ⟪प्रति⟫** 第二人稱單數 ⟪प्रतिहन्ति⟫ ：回擊
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 第一人稱單數 ⟪प्रतिवदति⟫ ：回話 = 回答
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 第二人稱單數 ⟪प्रत्याख्याति⟫ ：拒絕，蔑視
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 第二人稱單數 ⟪याति⟫ ：走，行
 
 ::: indent
-Perf. IV ⟪ययौ⟫  
-Fut. ⟪यास्यति⟫  
-Pass. ⟪यायते⟫  
-Kaus. ⟪यापयति⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
+完成時 IV ⟪ययौ⟫  
+未來時 ⟪यास्यति⟫  
+被動語態 ⟪यायते⟫  
+使役 ⟪यापयति⟫  
+PPP（過去被動分詞） ⟪यात⟫  
+不定詞 ⟪यातुम्⟫  
 
-davon:
+衍生自：
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.：行走，路，車輛
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403))
+圖注：⟪रेल्यानम्⟫
+（圖片來源：[詳情](/licenses#lekt4403)）
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 第二人稱單數中動語態 ⟪शेते⟫ ：躺臥。此詞根在現在時詞幹的所有形式中均為**強級：** 第一人稱單數直陳式現在時中動語態：sig[⟪शेये⟫] (śe + e)。以下形式需特別注意：第三人稱單數直陳式現在時中動語態：sig[⟪शेरते⟫]，第三人稱單數未完成式中動語態：sig[⟪अशेरत⟫]
 
 ::: indent
-Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
-Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
-PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫  
+完成時 IIIa ⟪शिश्ये⟫ (śi-śī + e)  
+未來時 ⟪शयिष्यते⟫  
+使役 ⟪शापयति⟫  
+PPP（過去被動分詞） ⟪शयित⟫  
+不定詞 ⟪शयितुम्⟫  
 
-davon:
+衍生自：
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.：躺處，床
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404))
+圖：⟪योगी शयने शेते⟫
+（圖片來源：[詳情](/licenses#lekt4404)）
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+⟪नन्द्⟫ 第一人稱單數 ⟪नन्दति⟫ ：以（⟪तृतीयया⟫）為樂
 
 ::: indent
-Perf. I ⟪ननन्द⟫  
-Fut. ⟪नन्दिष्यति⟫  
-Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
-PPP ⟪नन्दित⟫  
-Inf. ⟪नन्दितुम्⟫  
-Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫  
+完成時 I ⟪ननन्द⟫  
+未來式 ⟪नन्दिष्यति⟫  
+被動語態： ⟪नन्द्यते⟫  
+使役式 ⟪नन्दयति⟫  
+過去被動分詞 ⟪नन्दित⟫  
+不定式 ⟪नन्दितुम्⟫  
+絕對構句 -⟪नन्द्य⟫  
+動形詞 ⟪नन्द्य⟫  
 
-davon:
+衍生自：
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 第三格：以（特殊）喜悅為特徵，歡欣的；陽性名詞，指⟪शिव⟩（一頭公牛）的騎乘動物（⟪वहन⟫）
 :::
 ::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405))
+圖：⟪नन्दी⟫
+（圖片來源：[詳情](/licenses#lekt4405)）
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 第一人稱單數（第一變位法） ⟪अभिनन्दति⟫ ：以（⟪द्वितीयया⟫）為樂，愉快地迎接某人，表示歡迎
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 第一人稱單數：sig[⟪यच्छति⟫] ：持握，攜帶；提供，給予；保持在一起，控制，勒住，征服
 
 ::: indent
-Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
-Fut. ⟪यंस्यति⟫  
-Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
-PPP ⟪यत⟫  
-Inf. ⟪यन्तुम्⟫  
-Absol. -⟪यम्य⟫
+完成時動詞 ⟪ययाम⟫，⟪येमुर्⟫  
+未來式 ⟪यंस्यति⟫  
+被動語態 ⟪यम्यते⟫  
+使役式 ⟪यामयति⟫ 但：⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+過去被動分詞 ⟪यत⟫  
+不定式 ⟪यन्तुम्⟫  
+絕對構句 -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
+**⟪यम्⟫ + ⟪आ⟫** 第一變位法 ⟪आयच्छति⟫ ：伸展，拉長
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt
+過去被動分詞 ⟪आयत⟫ 第三格：長長的伸展著
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406))
+圖：⟪आयतो मरुः⟫
+（圖片來源：[詳情](/licenses#lekt4406)）
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
+⟪यम्⟫ + ⟪प्र⟫ 第一人稱單數 ⟪प्रयच्छति⟫ ：提供，呈獻，移交
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
+⟪यम्⟫ + ⟪सम्⟫ 第一人稱單數 ⟪संयच्छति⟫ ：捆綁在一起，繫住，控制
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 第一變位法（中動語態） ⟪यतते⟫ ：追求（⟪सप्तमी⟫，⟪चतुर्थी⟫，⟪द्वितीया⟫）
 
 ::: indent
-Perf. Vb ⟪येते⟫  
-Fut. ⟪यतिष्यते⟫  
-Pass. ⟪यत्यते⟫  
-Kaus. ⟪यातयति⟫  
-PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫  
+完成時動詞 ⟪येते⟫  
+未來式 ⟪यतिष्यते⟫  
+被動語態 ⟪यत्यते⟫  
+使役式 ⟪यातयति⟫  
+過去被動分詞 ⟪यत्त⟫  
+不定式 ⟪यतितुम्⟫  
 
-davon:
+衍生自：
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung
+⟪यत्न⟫ 陽性名詞：努力，奮鬥
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407))
+圖：⟪यत्नेन⟫
+（圖片來源：[詳情](/licenses#lekt4407)）
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
+⟪रभ्⟫ 1Ā ⟪रभते⟫（⟪लभ्⟫的變體）：抓住
 
 ::: indent
-Perf. Vb ⟪रेभे⟫  
-Fut. ⟪रप्स्यते⟫  
-Pass. ⟪रभ्यते⟫  
-Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
-PPP ⟪रब्ध⟫  
-Inf. ⟪रब्धुम्⟫  
-Absol. -⟪रभ्य⟫
+完成時動詞 ⟪रेभे⟫  
+未來時 ⟪रप्स्यते⟫  
+被動語態 ⟪रभ्यते⟫  
+使役語態：sig[⟪रम्भ⟫]⟪यति⟫  
+過去被動分詞 ⟪रब्ध⟫  
+不定詞 ⟪रब्धुम्⟫  
+絕對構詞 -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫：觸及，開始，從事
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ 陰性名詞（源於⟪प्र⟫-⟪व्रज्⟫）：離開家庭走向無家可歸的狀態；成為佛教沙彌的儀式（巴利語：⟪पब्बजा⟫）
 
 ::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
+圖：⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+（圖片來源：[詳情](/licenses#lekt4408)）
 :::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
+
 ## 第45課
 
 
@@ -3493,7 +3735,13 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+
+
+
+
+
+
+⟪वा⟫ ... ⟪वा⟫：或者...或者
 
 ## 第46課
 
@@ -3503,244 +3751,255 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+
+
+
+
+
+
+⟪सम⟫ 3：相同，正好，相似
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+由此衍生：
+⟪समम्⟫ 副詞：以相同的方式，同時（⟪तृतीयया⟫），均勻地
+⟪समता⟫ 陰性名詞：平等心
+⟪विषम⟫ 3：不平等，不平坦，邪惡
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U：sig[⟪गृ⟫]⟪ह्णाति⟫（gṛh-ṇā-ti）：抓住，握住，觸及
 
 ::: indent
-Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
-Pass. ⟪गृह्यते⟫  
-Kaus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
-Inf. ⟪ग्रहितुम्⟫  
-Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+完成時主動語態（！）⟪जग्राह⟫，⟪जगृहुर्⟫  
+未來時 ⟪ग्र⟫：sig[⟪ही⟫]⟪ष्यति⟫  
+被動語態 ⟪गृह्यते⟫  
+使役語態 ⟪ग्राहयति⟫  
+過去被動分詞 ⟪गृ⟫：sig[⟪ही⟫]⟪त⟫  
+不定詞 ⟪ग्रहितुम्⟫  
+絕對構詞 -⟪ग्राह्य⟫
+由此衍生：
+⟪ग्रह⟫ 陽性名詞：抓取，捕捉者，鱷魚，遊星
+⟪नवग्रह⟫ 陽性名詞：九遊星（非行星！）（參見 Basham，《奇蹟》，第493頁）：
+1. ⟪सूर्यः⟫ = 太陽
+2. ⟪चन्द्रः⟫ = 月亮
+3. ⟪मङ्गलः⟫ = 火星
+4. ⟪बुधः⟫ = 水星
+5. ⟪बृहस्पतिः⟫ = 木星
+6. ⟪शुक्रः⟫ = 金星
+7. ⟪शनिः⟫ = 土星
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+關於 ⟪राहु⟫ 和 ⟪केतु⟫，請參見：
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–)：**《法論》：導論與概覽。 -- 第十節： sacraments 及過渡儀式（samskara）。 -- 附錄C：羅睺與計都，隱形的遊星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+圖：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
+（圖片來源：[詳情](/licenses#lekt4602)）
 :::
+
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+圖：[⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+（圖片來源：[詳情](/licenses#lekt4603)）
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+圖：[⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
+（圖片來源：[詳情](/licenses#lekt4604)）
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+圖：[⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
+（圖片來源：[詳情](/licenses#lekt4605)）
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ ：以……為滿足，對……感到滿意（⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫）
 
 ::: indent
-Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Fut. ⟪तोक्ष्यति⟫  
-Pass. ⟪तुष्यते⟫  
-Kaus. ⟪तोषयति⟫  
-PPP ⟪तुष्ट⟫  
-Inf. ⟪तोष्टुम्⟫
+完成時 II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
+未來時 ⟪तोक्ष्यति⟫  
+被動語態 ⟪तुष्यते⟫  
+使役態 ⟪तोषयति⟫  
+過去被動分詞 PPP ⟪तुष्ट⟫  
+不定詞 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ ：彎曲，鞠躬，傾斜，跪拜
 
 ::: indent
-Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Fut. ⟪नंस्यति⟫  
-Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
-PPP ⟪नत⟫  
-Inf. ⟪नन्तुम्⟫
+完成時 Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
+未來時 ⟪नंस्यति⟫  
+被動語態 ⟪नम्यते⟫  
+使役態 ⟪नमयति । नामयति⟫  
+過去被動分詞 PPP ⟪नत⟫  
+不定詞 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+圖：[⟪नारायण तुभ्यं नमामि⟫](/licenses#lekt4607)
+（圖片來源：[詳情](/licenses#lekt4607)）
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ ：攀登，登上
 
 ::: indent
-Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Fut. ⟪रोक्ष्यति⟫  
-Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
-PPP. :sig[⟪रूढ⟫]  
-Inf. ⟪रोढुम्⟫
+完成時 II ⟪रुरोह⟫, ⟪रुरुहे⟫  
+未來時 ⟪रोक्ष्यति⟫  
+被動語態 ⟪रुह्यते⟫  
+使役態 ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
+過去被動分詞 PPP. :sig[⟪रूढ⟫]  
+不定詞 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+圖：[⟪अश्वरोहकः⟫](/licenses#lekt4606)
+（圖片來源：[詳情](/licenses#lekt4606)）
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ ：呼叫，召喚
 
 ::: indent
-Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
-Fut. ⟪ह्वास्यति⟫  
-Pass. ⟪हूयते⟫  
-Kaus. ⟪ह्वाययति⟫  
-PPP ⟪हूत⟫  
-Inf. ⟪ह्वातुम्⟫  
-Absol. -⟪हूय⟫
+完成式 IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
+未來式 ⟪ह्वास्यति⟫  
+被動式 ⟪हूयते⟫  
+使役式 ⟪ह्वाययति⟫  
+過去被動分詞 ⟪हूत⟫  
+不定式 ⟪ह्वातुम्⟫  
+絕對構句 -⟪हूय⟫
 
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+圖說：[⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+（圖片來源：[詳情](/licenses#lekt4608)）
 :::
-::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
-
-:::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
-
-⟪भ्रंश⟫ m.: das Entfallen
-
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
 
 ::: indent
-Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Fut. ⟪श्रमिष्यति⟫  
-Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP :sig[⟪श्रान्⟫]⟪त⟫  
-Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
+1 ⟪महामात्र⟫ m. 「象夫」；⟪चरिष्णु⟫ 3 「可移動的」，⟪दूरशब्द⟫ m. 「長途電話、電話機」 » ⟪चरिष्णुदूरशब्द⟫ 「行動電話」（構詞：A. Payer）
+
+:::
+⟪विभ्रम⟫ m.：來來回回地走動
+
+⟪भ्रंश⟫ m.：掉落、脫落
+
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : 努力、疲憊
+
+::: indent
+完成式 Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
+未來式 ⟪श्रमिष्यति⟫  
+被動式 ⟪श्रम्यते⟫  
+使役式 ⟪श्रमयति । श्रामयति⟫  
+過去被動分詞 :sig[⟪श्रान्⟫]⟪त⟫  
+不定式 ⟪श्रमितुम्⟫  
+絕對構句 ⟪श्रमित्वा । श्रान्त्वा⟫
+由此衍生：
 ⟪आश्रम⟫ m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+圖說：[⟪श्रान्तः⟫](/licenses#lekt4609)
+（圖片來源：[詳情](/licenses#lekt4609)）
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ ：倚靠、依靠、找到支撐、投靠某人（⟪द्वितीयया⟫, ⟪सप्तम्या⟫）
 
 ::: indent
-Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
-Fut. ⟪श्रयिष्यति⟫  
-Pass. ⟪श्रीयते⟫  
-Kaus. ⟪श्राययति⟫  
-PPP ⟪श्रित⟫  
-Inf. ⟪श्रयितुम्⟫
+完成式 IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
+未來式 ⟪श्रयिष्यति⟫  
+被動式 ⟪श्रीयते⟫  
+使役式 ⟪श्राययति⟫  
+過去被動分詞 ⟪श्रित⟫  
+不定式 ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ ：附著、黏貼於（⟪सप्तम्या⟫）
 
 ::: indent
-Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
-Fut. ⟪संक्ष्यति⟫  
-Pass. ⟪सज्यते⟫  
-Kaus. ⟪सञ्जयति⟫  
-PPP ⟪सक्त⟫  
-Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+完成式 I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
+未來式 ⟪संक्ष्यति⟫  
+被動式 ⟪सज्यते⟫  
+使役式 ⟪सञ्जयति⟫  
+過去被動分詞 ⟪सक्त⟫  
+不定式 ⟪संक्तुम्⟫
+由此衍生：
+⟪सङ्ग⟫ m. ：附著、接觸（⟪तृतीयया⟫）
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
+圖說：[⟪सङ्गः⟫](/licenses#lekt4610)
+（圖片來源：[詳情](/licenses#lekt4610)）
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+⟪द्रु⟫ 第一語根 ⟪द्रवति⟫ : 奔跑，疾行
 
 ::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
-Fut. ⟪द्रोष्यति⟫  
-Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
-PPP ⟪द्रुत⟫  
-Inf. ⟪द्रोतुम्⟫  
-Absol. -⟪द्रुत्य⟫
+完成時 IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
+未來時 ⟪द्रोष्यति⟫  
+被動語態 ⟪द्रूयते⟫  
+使役動詞 ⟪द्रावयति⟫  
+過去被動分詞 PPP ⟪द्रुत⟫  
+不定詞 Inf. ⟪द्रोतुम्⟫  
+絕對構式 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 第一語根 ⟪भ्रमति ।⟫ 第四語根 :sig[⟪भ्रा⟫]⟪म्यति⟫ : 徘徊，漫遊
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
-Fut. ⟪भ्रमिष्यति⟫  
-Kaus. ⟪भ्रमयति⟫  
-PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
-Inf. ⟪भ्रमितुम्⟫  
-Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+完成時 Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ 第五語根 Vb ⟪भ्रेमुर्⟫  
+未來時 ⟪भ्रमिष्यति⟫  
+使役動詞 ⟪भ्रमयति⟫  
+過去被動分詞 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
+不定詞 Inf. ⟪भ्रमितुम्⟫  
+絕對構式 Absol. -⟪भ्रम्य⟫
+衍生自：
+⟪विभ्रम⟫ 陽性名詞：徘徊，混亂，錯誤
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 第一語根 Ā ⟪लम्बते⟫ : 從（⟪सप्तम्या⟫）垂下，掛在（⟪सप्तम्या⟫）上
 
 ::: indent
-Perf. I ⟪ललम्बे⟫  
-Fut. ⟪लम्बिष्यते⟫  
-Pass. ⟪लम्ब्यते⟫  
-Kaus. ⟪लम्बयति⟫  
-PPP ⟪लम्बित⟫  
-Inf. ⟪लम्बितुम्⟫  
-Absol. -⟪लम्ब्य⟫
+完成時 I ⟪ललम्बे⟫  
+未來時 ⟪लम्बिष्यते⟫  
+被動語態 ⟪लम्ब्यते⟫  
+使役動詞 ⟪लम्बयति⟫  
+過去被動分詞 PPP ⟪लम्बित⟫  
+不定詞 Inf. ⟪लम्बितुम्⟫  
+絕對構式 Absol. -⟪लम्ब्य⟫
 
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+圖注： [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+（圖片來源： [詳情](/licenses#lekt4601)）
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 第一語根 Ā ⟪आलम्बते⟫ : 掛在（⟪द्वितीयया⟫）上
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ 連接詞： 如果
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 第一語根 ⟪परिभवति⟫ : 包圍，征服，擊敗
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+過去被動分詞 PPP ⟪परिभूत⟫ 第三語根：被擊敗，被羞辱，被貶低
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ 前綴：向下，往下，進入，向後
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+例如：
+⟪सद्⟫ + ⟪नि⟫ 第一語根 ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : 坐下
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ 呼格粒子：表示招呼的感嘆詞，例如：嘿、喂、哦、唉、你好、嗨！通常無法翻譯。此粒子具有特殊的桑迪（sandhi）規則：在所有濁音之前，其形式為 :sig[⟪भो⟫]。
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+圖注： [⟪भोः⟫](/licenses#lekt4611)
+（圖片來源： [詳情](/licenses#lekt4611)）
 :::
+
 ## 第48課
 
 
@@ -3749,31 +4008,38 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 
 
-⟪श्वस्⟫ : morgen
 
-⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+
+
+⟪श्वस्⟫ : 明天
+
+⟪अद्य⟫ : 今天
+
+⟪लघु⟫ 3: 輕（不重，不難），快，短（在表達上）
+
+⟪व्याकरण⟫ n.: 語法（關於 ⟪व्याकृ⟫）
+
+⟪तन्त्र⟫ n.: 弦；織機，經線，織物；基礎，標準，規則；學說，教材；坦特羅（密教）；咒語；手段，技巧，藥物；政府，權威
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+圖： ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802))
+（圖片來源：[詳情](/licenses#lekt4802)）
 :::
+
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
-Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803))
+圖： ⟪तन्त्री⟫
+Sitar演奏者 = ⟪सितारवादकः⟫
+（圖片來源：[詳情](/licenses#lekt4803)）
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum
+⟪स्त्री⟫ f.: 女人，妻子；陰性名詞
 
-Deklination:
+變格：
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -3789,70 +4055,69 @@ Deklination:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804))
+圖： ⟪स्वतन्त्राः स्त्रियः⟫
+[自助小組 (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+（圖片來源：[詳情](/licenses#lekt4804)）
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ 副詞：晝夜
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
+⟪सज्ज्⟫ 第一人稱單數 ⟪सज्जति⟫ ：懸掛，附著
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ m.: 孩子，青年，王子； ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ的別名
 
 ::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+圖：⟪कुमारः⟫
+泰普薩姆節（Thaipusam）= தைப்பூசம்，巴圖洞窟，馬來西亞
+（圖片來源：[詳情](/licenses#lekt4805)）
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ f.：少女，女兒
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+圖：⟪कुमारी नेपाल⟫
+（圖片來源：[詳情](/licenses#lekt4806)）
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ n.：童年
 
-⟪यौवन⟫ n.: Jugend
+⟪यौवन⟫ n.：青春期，青年時期
 
-⟪स्थविर⟫ 3: alt, betagt
+⟪स्थविर⟫ 3：年老，高齡
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+圖：⟪स्थविराः जोधपुर⟫
+（圖片來源：[詳情](/licenses#lekt4807)）
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ n.：（高）齡
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3：亦：應受責備的
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil
+⟪सूक्ष्म⟫ 3：精細，微小，微妙
 
 ::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+圖：⟪सूक्ष्मम्⟫
+Karanji 湖 = ಕಾರಂಜಿ ಕೆರೆ
+（圖片來源：[詳情](/licenses#lekt4808)）
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ m.：執著，傾向；機會
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit
+⟪विशेष⟫ m.：差異，特色
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
+⟪प्रसूति⟫ f.：出生，後代
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ n.：習俗，禮儀，習慣法；行為
 
-⟪जाया⟫ f.: Ehefrau
+⟪जाया⟫ f.：妻子
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+圖：⟪मम जाया⟫
+（圖片：Payer）
+（圖片來源：[詳情](/licenses#lekt4809)）
 :::
+
 ## 第49課
 
 
@@ -3861,142 +4126,147 @@ Abb.: ⟪मम⟫ ⟪जाया⟫
 
 
 
-⟪दीर्घ⟫ 3: lange
 
-⟪ह्रस्व⟫ 3: kurz
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+
+
+
+
+⟪दीर्घ⟫ 3：長
+
+⟪ह्रस्व⟫ 3：短
+
+⟪आयुस्⟫ n.：壽命（完整的預期壽命，假設中間沒有意外）；
 
 ::: indent
-davon:
+由此衍生：
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.：印度傳統醫學體系
 
-siehe:
+參見：
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**《車剎集》（Carakasaṃhitā）：** 摘自《車剎集》選篇 / Alois Payer（1944–）譯註。-- 0. 導論。-- URL：[http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : 投擲，拋射
 
 ::: indent
-Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
-Fut. ⟪क्षेप्स्यति⟫
-Pass. ⟪क्षिप्यते⟫
-Kaus. ⟪क्षेपयति⟫
-PPP ⟪क्षिप्त⟫
-Inf. ⟪क्षेप्तुम्⟫
-Absol. -⟪क्षिप्य⟫
-Gerundiv: ⟪क्षेप्य⟫
+完成時 II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
+未來時 ⟪क्षेप्स्यति⟫
+被動語態 ⟪क्षिप्यते⟫
+使役動詞 ⟪क्षेपयति⟫
+過去被動分詞 PPP ⟪क्षिप्त⟫
+不定詞 Inf. ⟪क्षेप्तुम्⟫
+絕對構式 Absol. -⟪क्षिप्य⟫
+動詞性形容詞 Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : 疾行
 
 ::: indent
-Perf. Vc ⟪तत्वरे⟫
-Fut. ⟪त्वरिष्यते⟫
-Pass. ⟪त्वर्यते⟫
-Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
-Inf. ⟪त्वरितुम्⟫
+完成時 Vc ⟪तत्वरे⟫
+未來時 ⟪त्वरिष्यते⟫
+被動語態 ⟪त्वर्यते⟫
+使役動詞 ⟪त्वरयति⟫
+過去被動分詞 PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+不定詞 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : 損害
 
 ::: indent
-Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
-Pass. ⟪द्रुह्यते⟫
-Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
-Inf. ⟪द्रोग्धुम्⟫
+完成時 II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
+未來時 ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
+被動語態 ⟪द्रुह्यते⟫
+使役動詞 ⟪द्रोहयति⟫
+過去被動分詞 PPP ⟪द्रुग्ध । द्रूढ⟫
+不定詞 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: 好奇心，興趣
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+圖注：⟪कुलूहलम्⟫
+（圖片來源：[詳情](/licenses#lekt4901)）
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3：完全，完整
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: 友誼
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: 藝術
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+圖注：⟪उत्तमा काला शिवो नटराजा⟫，11世紀
+（圖片來源：[詳情](/licenses#lekt4902)）
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: 願望
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: 和，也，或
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: 鳥（"飛入空⟪स्⟫氣夢境 - ⟪विह⟫ - 之中"）
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+圖注：⟪विहंगः⟫
+（圖片來源：[詳情](/licenses#lekt4903)）
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: 衣服，外貌，外表
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+圖注：⟪वेषः वाराणस्याम्⟫
+（圖片來源：[詳情](/licenses#lekt4904)）
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: 毯子，藏身處
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: 籠子
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+圖注：⟪पञ्जरम्⟫
+帶著籠中鸚鵡的占卜師：鸚鵡抽取寫有命運的小紙條 邁索爾
+（圖片來源：[詳情](/licenses#lekt4909)）
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.：最低階層 [達利特](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Indekl.：自己，自動
 
-⟪अवनि⟫ f.: Erde
+⟪अवनि⟫ f.：大地
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
+⟪मुहूर्त⟫ m.,n.：瞬間，時刻，恰當時機
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ ：想像，思考
 
 ::: indent
-Perf. IV ⟪दध्यौ⟫
-Fut. ⟪ध्यास्यति⟫
-Pass. ⟪ध्यायते⟫
-Kaus. ⟪ध्यापयति⟫
+完成時 IV ⟪दध्यौ⟫
+未來式 ⟪ध्यास्यति⟫
+被動語態 ⟪ध्यायते⟫
+使役式 ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
-Inf. ⟪ध्यातुम्⟫
-Gerundiv ⟪ध्येय⟫
+不定詞 ⟪ध्यातुम्⟫
+動形容詞 ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.：顧慮，注意，尊敬
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
-Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+圖注：⟪सादरः⟫
+阿姆利則 = ਅੰਮ੍ਰਿਤਸਰ
+（圖片來源：[詳情](/licenses#lekt4905)）
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3：最遠，最高；⟪पञ्चम्या⟫ ：優於，高於
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.：孩子，幼崽
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
-Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+圖注：⟪गजशिशुः⟫
+斯里蘭卡
+（圖片來源：[詳情](/licenses#lekt4906)）
 :::
+
 ## 第50課
 
 
@@ -4005,119 +4275,122 @@ Sri Lanka
 
 
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+
+
+⟪ध्रुव⟫ 3：堅定，不變
+
+⟪निषेक⟫ m.：澆灌，受精，液體，精液，受孕儀式
+
+⟪पण्डित⟫ 3：聰明，智慧，博學
+
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ ：忽視，蔑視
+
+⟪मन्त्रिन्⟫ 3：提供建議的；m.：顧問，議員，部長
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+圖注：⟪मन्त्री⟫
+卡皮爾·西巴爾（Kapil Sibal，1948年-），科學與技術部及地球科學部聯邦部長（自2006年起）
+（圖片來源：[詳情](/licenses#lekt5001)）
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ n.：秘密，孤獨
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ ：受損，失敗，損壞
 
 ::: indent
-Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
-Fut. ⟪रेषिष्यति⟫
-Pass. ⟪रिष्यते⟫
-Kaus. ⟪रेषयति⟫
+完成時 II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+未來式 ⟪रेषिष्यति⟫
+被動語態 ⟪रिष्यते⟫
+使役式 ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** ：打破，摧毀
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
-Fut. ⟪लोप्स्यति⟫
-Pass. ⟪लुप्यते⟫
-Kaus. ⟪लोपयति⟫
-PPP ⟪लुप्त⟫
-Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+完成式 II ⟪लुलोप⟫, ⟪लुलुपे⟫
+未來式 ⟪लोप्स्यति⟫
+被動式 ⟪लुप्यते⟫
+使役式 ⟪लोपयति⟫
+過去被動分詞 ⟪लुप्त⟫
+不定詞 ⟪लोप्तुम्⟫
+動形容詞（Gerundiv） ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ 陽性：亦指：命運（源於 ⟪विधा⟫）
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 第一人稱 ⟪वर्षति⟫ ：下雨（通常與一個 ⟪कर्तृ⟫ —— 一位神祇或一朵雲 —— 連用）
 
 ::: indent
-Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
-Fut. ⟪वर्षिष्यति⟫
-Pass. ⟪वृष्यते⟫
-Kaus. ⟪वर्षयति⟫
-PPP ⟪वृष्ट⟫
-Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫
+完成式 II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
+未來式 ⟪वर्षिष्यति⟫
+被動式 ⟪वृष्यते⟫
+使役式 ⟪वर्षयति⟫
+過去被動分詞 ⟪वृष्ट⟫
+不定詞 ⟪वर्षितुम्⟫
+絕對構式 ⟪वर्षित्वा । वृष्ट्वा⟫
+絕對構式- ⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+圖注： ⟪महामेघो वर्षिष्यति⟫
+季風的到來，班加羅爾 ಬೆಂಗಳೂರು
+（圖片來源：[詳情](/licenses#lekt5002)）
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ 副詞：正確、真實、恰當地；完全地、徹底地
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ 陽性：太陽；複數：[Āditya](http://en.wikipedia.org/wiki/Aditya) ：一類特定的神祇
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+圖注： ⟪आदित्यः⟫
+（圖片來源：[詳情](/licenses#lekt5005)）
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 第三人稱：每個、所有
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+變格如同 ⟪यद्⟫ （例外：中性單數主格/賓格）
 
 ::: grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | 單數：br⟪एकवचनम्⟫ || || 複數：br⟪बहुवचनम्⟫ || ||
+| | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **1. 主格：br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. 賓格：br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. 工具格：br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. 與格：br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. 離格：br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. 屬格：br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. 位格：br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : 語助詞，強調其前的詞：確實、的確、然而
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ 副詞：這裡、此世、至此；現在。在屬格名詞（⟪षष्ठी⟫）之前，與 ⟪अस्मिन्⟫、⟪अस्याम् कल्प⟫ 同義：m. 法則、習俗、儀式；[劫](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\))（源於 ⟪कॢप्⟫）
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3（f.：⟪कल्याणी⟫）：美麗
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+圖：⟪कल्याणी⟫
+（圖片來源：[詳情](/licenses#lekt5003)）
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- ：作為複合詞的前半部分：糟糕
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+圖：⟪कुनगरम् धारावी⟫、⟪मुंबई⟫
+（圖片來源：[詳情](/licenses#lekt5004)）
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ ：看
 
 ::: indent
-Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+完成時 ⟪चचक्षे⟫
+在其他時態中不使用
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ ：講述、認為是、命名
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.：地方、位置、國家、地區
 
 ## 第51課
 
@@ -4127,239 +4400,243 @@ in den übrigen Tempora nicht verwendet
 
 
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+
+
+
+
+
+⟪अजिन⟫ n.：羚羊皮，特指黑羚（黑斑羚：_Antilope cervicapra_ L.）的皮。原產於整個印度次大陸，從旁遮普和信德到孟加拉，從尼泊爾到科摩林角（Cape Comorin）（泰米爾語：கன்னியாகுமரி）。參見：
+
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)
-Abb.:
-(Bildquelle: [Details](/licenses#lekt5105))
+圖：
+（圖片來源：[詳情](/licenses#lekt5105)）
 :::
-⟪अतिथि⟫ m.: Gast
+⟪अतिथि⟫ m.：客人
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
+⟪अभ्यन्तर⟫ 3：在內部、最近的；m. 最近的親屬、本地人
 
-⟪अरण्य⟫ n.: Wildnis, Wald
+⟪अरण्य⟫ n.: 荒野，森林
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
+⟪ऋतु⟫ m.: 週期性過程，季節，時期，月經，女性受孕且有权接受丈夫性交的时期。
 
-::: indent
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
+::: note-box
+關於 ⟪ऋतु⟫，參見《摩奴法典》III, 45-48：根據該處規定，⟪ऋतु⟫ 持續16天（根據另一種譯法：20天），自月經開始之日起算；在月經開始的前四天禁止性交（根據另一種譯法：在前八天（4 + 4）），在第11天（或第15天）和第13天（或第18天）也禁止性交。在偶數日受孕會生兒子，在奇數日受孕則生女兒。對於以下內容，假設 ⟪ऋतु⟫ 總共為16天（而非另一種譯法），這與大多數本土註釋者的觀點一致，因此這應是主流看法。
 
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+由於排卵發生在月經開始前14天，根據此 fertile period（受孕期）的規定，若月經週期為19至30天，則幾乎「保證」了受孕能力。禁止性交的日子（第11天和第13天）提高了在第12天和第14天進行性交的可能性，也就是說，在週期為28天的情況下提高了受孕機率（精子在女性體內的存活時間約為3天）。這些規定可視為克努斯-奧吉諾（Knaus-Ogino）法的積極應用。
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106))
+圖示：⟪ऋतुः⟫
+（圖片來源：[詳情](/licenses#lekt5106)）
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Adv.: 在某處
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
+⟪जटा⟫ f.: 髮辮（苦行者的髮型）
 
 ::: media
 ![](/images/lekt5107.webp)
-Abb.: ⟪जटा⟫
-⟪ऋषिकेश⟫
-(Bildquelle: [Details](/licenses#lekt5107))
+圖：⟪जटा ऋषिकेश⟫
+（圖片來源：[詳情](/licenses#lekt5107)）
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3：相同，可比較（⟪तृतीयया⟫）
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): dreifältig, aus drei Teilen bestehend
+⟪तरय⟫ 3（陰性：⟪तरयी⟫）：三重的，由三部分組成的
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): tödlich, todbringend, lebenslänglich
+⟪प्राणान्तिक⟫ 3（陰性：-ī）：致命的，致死的，終身的
 
-⟪बाह्य⟫ 3: ausserhalb, draussen befindlich, fremd
+⟪बाह्य⟫ 3：在外部，在外面，陌生的
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise
+⟪भिक्षा⟫ 陰性：乞討來的施捨，乞食
 
-⟪मार्यादा⟫ f.: Grenze
+⟪मार्यादा⟫ 陰性：邊界
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlassen, übriglassen
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ ：遺棄，留下
 
 ::: indent
-Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
-Fut. ⟪शेक्ष्यति⟫
-Pass. ⟪शिष्यते⟫
-Kaus. ⟪शेषयति⟫
-PPP⟪शिष्ट⟫
-Absol. -⟪शिष्य⟫
+完成時 II ⟪शिशेषे⟫，⟪शिशिषुर्⟫
+未來時 ⟪शेक्ष्यति⟫
+被動語態 ⟪शिष्यते⟫
+使役語態 ⟪शेषयति⟫
+過去被動分詞⟪शिष्ट⟫
+絕對構詞 -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : unterscheiden
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ ：區分
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), besser sein als (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), der beste sein unter (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+被動語態 ⟪विशिष्यते⟫ ：與（⟪पञ्चम्या⟫，⟪तृतीयया⟫）不同，比（⟪पञ्चम्या⟫，⟪तृतीयया⟫）更好，在（⟪षष्ठ्या⟫，⟪सप्तम्या⟫）中最好
 :::
-⟪समान⟫ 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse
+⟪समान⟫ 3：同類的，相同的，相似的；陽性：同年齡的人
 
-⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden:
-
-::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ :sig[⟪स्⟫]⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
-:::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln
+⟪स्व⟫ 3：自己的，屬於（我的，你的等）。其變格方式如同 ⟪सर्व⟫。在離格、與格單數陽性/中性以及主格複數陽性中，它也可以像 ⟪देव⟫ 那樣變格：
 
 ::: indent
-Perf I ⟪जगर्हे⟫
-Fut. ⟪गर्हिष्यते⟫
-PPP ⟪गर्हित⟫
+離格單數陽性/中性 ⟪स्वस्मात् ।⟫ ：sig[⟪स्वात्⟫]
+與格單數陽性/中性 ⟪स्वस्मिन् ।⟫ ：sig[⟪स्⟫]⟪वे⟫
+主格複數陽性 ⟪स्वे ।⟫ ：sig[⟪स्वास्⟫]
 :::
-⟪पिशित⟫ n.: (zubereitetes) Fleisch
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ ：責罵，譴責
+
+::: indent
+完成時 I ⟪जगर्हे⟫
+未來時 ⟪गर्हिष्यते⟫
+過去被動分詞 ⟪गर्हित⟫
+:::
+⟪पिशित⟫ 中性：（準備好的）肉
 
 ::: media
 ![](/images/lekt5108.webp)
-Abb.: ⟪पिशितम्⟫
+圖：⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Bildquelle: [Details](/licenses#lekt5108))
+（圖片來源：[詳情](/licenses#lekt5108)）
 :::
-⟪उपहार⟫ m.: Darbringung, Opfer, Geschenk
+⟪उपहार⟫ 陽性：奉獻，祭品，禮物
 
-⟪मधु⟫ n.: Honig, Süsstrank, Met (Honigwein)
+⟪मधु⟫ 中性：蜂蜜，甜飲料，蜜酒（蜂蜜葡萄酒）
 
 ::: media
 ![](/images/lekt5109.webp)
-Abb.: ⟪मधु⟫
-City Palace, ⟪उदयपुर⟫
-(Bildquelle: [Details](/licenses#lekt5109))
+圖：⟪मधु⟫
+City Palace，⟪उदयपुर⟫
+（圖片來源：[詳情](/licenses#lekt5109)）
 :::
-⟪मांस⟫ n.: Fleisch
+⟪मांस⟫ n.: 肉
 
-⟪मृगया⟫ f.: Jagd
+⟪मृगया⟫ f.: 狩獵
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Bildquelle: [Details](/licenses#lekt5110))
+圖：⟪मृगया⟫
+使用 ⟪चीता⟫ (_Acinonyx jubatus venaticus_) 狩獵，古吉拉特邦 = ગુજરાત, 1812
+（圖片來源：[詳情](/licenses#lekt5110)）
 :::
-⟪शिवा⟫ f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
+⟪शिवा⟫ f.: （雌性）胡狼（金豺 = _Canis aureus_）
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
-_Canis aureus_, Kalatop Khajjiar Sanctuary
-(Bildquelle: [Details](/licenses#lekt5111))
+圖：⟪शिवा⟫
+_Canis aureus_, Kalatop Khajjiar 保護區
+（圖片來源：[詳情](/licenses#lekt5111)）
 :::
-⟪रुत⟫ n.: Geschrei
+⟪रुत⟫ n.: 叫聲
 
-⟪कौशिक⟫ m.: Eule
+⟪कौशिक⟫ m.: 貓頭鷹
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Bildquelle: [Details](/licenses#lekt5112))
+圖：⟪कौशिकः⟫
+梵天貓頭鷹 (_Athene brama_), Mahesana = મહેસાણા
+（圖片來源：[詳情](/licenses#lekt5112)）
 :::
-⟪शकुनि⟫ m.: Vogel
+⟪शकुनि⟫ m.: 鳥
 
-⟪श्वन्⟫ m.: Hund
+⟪श्वन्⟫ m.: 狗
 
 ::: indent
-starker Stamm ⟪श्वान्⟫
-schwacher Stamm vor Vokal ⟪सुन्⟫
-schwacher Stamm vor Konsonant ⟪श्व⟫
+強詞幹 ⟪श्वान्⟫
+元音前的弱詞幹 ⟪सुन्⟫
+輔音前的弱詞幹 ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
-Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt5113))
+圖：⟪श्वा लिङ्गं च⟫
+卡納塔克邦 = ಕರ್ನಾಟಕ
+（圖片來源：[詳情](/licenses#lekt5113)）
 :::
-⟪परिचित⟫ 3: vertraut, bekannt
+⟪परिचित⟫ 3: 熟悉，知名
 
-⟪अटवी⟫ f.: Wald
+⟪अटवी⟫ f.: 森林
 
-⟪शून्य⟫ 3: leer, öde
+⟪शून्य⟫ 3: 空虛，荒蕪
 
-⟪आपान⟫(⟪क⟫) n.: Zechgelage
+⟪आपान⟫(⟪क⟫) n.: 宴飲
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम्⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt5114))
+圖：⟪आपानकम् जोधपुर⟫
+（圖片來源：[詳情](/licenses#lekt5114)）
 :::
-⟪क्रूर⟫ 3: roh, grausam
+⟪क्रूर⟫ 3: 野蠻，殘酷
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bestreichen, beschmieren
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : 塗抹，沾污
 
 ::: indent
-Perf. II ⟪दिदेह⟫
-Fut. ⟪धेक्ष्यति⟫
-Pass. ⟪दिह्यते⟫
-Kaus. ⟪देहयति⟫
-PPP ⟪दिग्ध⟫
+完成時 II ⟪दिदेह⟫
+未來時 ⟪धेक्ष्यति⟫
+被動語態 ⟪दिह्यते⟫
+使役動詞 ⟪देहयति⟫
+過去被動分詞 ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: 毒藥
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
-Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5115))
+圖：⟪मूषिकाविषाणि⟫
+班加羅爾 = ಬೆಂಗಳೂರು
+（圖片來源：[詳情](/licenses#lekt5115)）
 :::
-⟪भुजंग⟫ m.: Schlange
+⟪भुजंग⟫ m.: 蛇
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5116))
+圖：⟪भुजंगः⟫
+鏈蛇 (_Daboia russelii_), 班加羅爾 = ಬೆಂಗಳೂರು
+（圖片來源：[詳情](/licenses#lekt5116)）
 :::
-⟪सायक⟫ m.: Pfeil
+⟪सायक⟫ m.: 箭
 
-⟪उत्साद⟫ m.: Zugrundegehen
+⟪उत्साद⟫ m.: 毀滅，消亡
 
-⟪कलत्र⟫ **Neutrum**: Ehefrau, Weibchen
+⟪कलत्र⟫ **中性**：妻子，雌性
 
-⟪बन्दी⟫ f.: Gefangene, Raub
+⟪बन्दी⟫ f.: 俘虜，戰利品
 
-⟪योषित्⟫ f.: junge Frau, Mädchen
+⟪योषित्⟫ f.: 年輕女子，少女
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: Blut
+⟪रुधिर⟫ n.: 血
 
 ⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut
+⟪बलि⟫ m.: 賦稅，捐贈，貢品
 
-⟪मणि⟫ m.: Juwel
+⟪मणि⟫ m.: 寶石
 
 ::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Bildquelle: [Details](/licenses#lekt5118))
+圖：⟪मणिः⟫
+Hope Diamond（希望鑽石）來自貢圖爾 = గుంటూరు，現藏於華盛頓特區史密森尼國家自然歷史博物館
+（圖片來源：[詳情](/licenses#lekt5118)）
 :::
-⟪वन⟫ n.: Wald
+⟪वन⟫ n.: 森林
 
-⟪मद⟫ m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: 亦指大象的「發情液」（參見 [Musht](http://en.wikipedia.org/wiki/Musth)）
 
 ::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
-(Bildquelle: [Details](/licenses#lekt5117))
+圖：⟪मदः⟫
+（圖片來源：[詳情](/licenses#lekt5117)）
 :::
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: 亦指：顏色，紅色
 
-⟪कालन⟫ n.: Wald
+⟪कालन⟫ n.: 森林
 
-⟪खन्⟫ 1U ⟪खनति⟫ : graben
+⟪खन्⟫ 第一類動詞 ⟪खनति⟫ ：挖掘
 
 ::: indent
-Perf. ⟪चखान⟫, ⟪चखने⟫
-Fut. ⟪खनिष्यति⟫
-Kaus. ⟪खानयति⟫
-PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
+完成時 ⟪चखान⟫，⟪चखने⟫
+未來時 ⟪खनिष्यति⟫
+使役式 ⟪खानयति⟫
+過去被動分詞 (PPP) ⟪खात⟫
+絕對格 (Absol) ⟪खनित्वा । खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, nachdenken
+⟪चिन्त्⟫ 第十類動詞 ⟪चिन्तयति⟫ ：思考，沉思
 
-⟪शबर⟫ .:  Eigenname eines nichtarischen Stammes
+⟪शबर⟫ .: 非雅利安部落的專有名稱
 
 ## 第52課
 
@@ -4371,572 +4648,216 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 
 
-⟪अखिल⟫ 3: lückenlos, ganz
 
-⟪निखिल⟫ 3: vollständig, ganz
+
+
+
+
+
+⟪अखिल⟫ 第三類動詞：無縫隙，完整
+
+⟪निखिल⟫ 第三類動詞：完全，完整
 
 ::: indent
-von:
+源自：
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: 休耕地，荒地
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+圖：⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+（圖片來源：[詳情](/licenses#lekt5210)）
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ 副詞：在內，內部；與屬格、方位格連用（⟪षष्टी⟫，⟪सप्तमी⟫）：在...內部，在中間；與屬格、從格連用（⟪षष्ठी⟫，⟪पञ्चमी⟫）：從...出來
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 第三類動詞：互相，彼此
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 第二人稱單數 ⟪विपर्येति⟫ ：失敗
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+過去被動分詞 (PPP) ⟪विपरीत⟫ 第三類動詞：錯誤，不正確
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3：三
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **陽性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **陰性：br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. 主格：br⟪१⟫。 ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. 賓格：br⟪२⟫。 ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. 工具格：br⟪३⟫。 ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. 與格：br⟪४⟫。 ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. 離格：br⟪५⟫。 ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. 屬格：br⟪६⟫。 ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. 位格：br⟪७⟫。 ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ 後置詞及前綴，用於名詞與動詞：向外、遠離、出來、顯現、從…中、離開、沒有 - 由
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 10P ⟪पीडयति⟫ ：壓迫、折磨；困擾、圍困、騷擾
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
-Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+圖：⟪पीडिताः⟫
+海得拉巴 = హైదరాబాద్
+（圖片來源：[詳情](/licenses#lekt5212)）
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3：（變格同 ⟪सर्व⟫）遙遠、異國、高於（⟪पञ्चम्या⟫）、極遠、最高；其他、異國的、敵意的；陽性：外邦人
 
 ::: indent
-davon:
+由此：
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ 副詞：高度地、隨後、後來、但是、然而
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ 後置詞（⟪द्वितीयया⟫）：朝向 - 去、向、關於、相對於
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 3：主要的、最好的；中性：最重要的事物
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+圖：⟪प्रधानः मुंबई⟫
+（圖片來源：[詳情](/licenses#lekt5213)）
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ 中性：貪婪、慾望
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ 陽性：章節、部分、群體
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ 陽性：三數組（例如 ⟪धर्मः⟫、⟪अर्थः⟫、⟪कामः⟫；或：⟪सत्त्वम्⟫、⟪रजस्⟫、⟪तमस्⟫；或：⟪ब्राह्मणाः⟫、⟪क्षत्रियाः⟫、⟪वैश्याः⟫）
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : wollen, gebieten, verlangen nach
+⟪वश्⟫ 第二人稱 ⟪वस्टि⟫，：sig[⟪उशन्ति⟫]，命令式 第二人稱單數：:sig[⟪उड्ढि⟫] ：想要、命令、渴望
 
 ::: indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
-Fut. ⟪वशिष्यति⟫
-Pass. ⟪उष्यते⟫
-Kaus. ⟪वाशयति⟫
-PPP ⟪उशित⟫
-Inf. ⟪वशितुम्⟫
-Absol. -⟪वश्य⟫
+完成時動詞 ⟪उवाश⟫，⟪ऊशुर्⟫
+未來時 ⟪वशिष्यति⟫
+被動語態 ⟪उष्यते⟫
+使役式 ⟪वाशयति⟫
+過去被動分詞 ⟪उशित⟫
+不定式 ⟪वशितुम्⟫
+絕對構式 -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 第二人稱 ⟪वाति⟫ ：吹拂、吹氣
 
 ::: indent
-Perf IV ⟪ववौ⟫
-Fut. ⟪वास्यति⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
+完成時第四類 ⟪ववौ⟫
+未來時 ⟪वास्यति⟫
+被動語態 ⟪वायते⟫
+使役式 ⟪वापयति⟫
+過去被動分詞 ⟪वान । वात⟫
+不定式 ⟪वातुम्⟫
 
-davon:
+衍生自：
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ 陽性：風
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschliessen
+⟪वृज्⟫ 第七類 ⟪वृणक्ति⟫ 第一類 ⟪वर्जति⟫ ：轉動、旋轉；抵擋、排除
 
 ::: indent
-Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
-Fut. ⟪वर्जिष्यति⟫
-Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
-PPP ⟪वृक्त⟫
-Inf. ⟪वर्जितुम्⟫
+完成時第二類 ⟪ववर्ज⟫，⟪ववृजुर्⟫
+未來時 ⟪वर्जिष्यति⟫
+被動語態 ⟪वृज्यते⟫
+使役式 ⟪वर्जयति⟫ ：消除
+使役式過去被動分詞 ⟪वर्जित⟫ ：失去某物、無
+過去被動分詞 ⟪वृक्त⟫
+不定式 ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ 陽性：活動、行為、交往、社交、業務、貿易、（法庭）訴訟
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ 中性：習俗、習慣、本性、性格、良好習慣 = 道德
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ 陽性：太陽
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 第一類動詞 ⟪सेवते⟫ ：服侍某人（⟪द्वितीया⟫）、侍奉、尊敬、愛慕
 
 ::: indent
-Perf I ⟪सिषेवे⟫
-Fut. ⟪सेविष्यते⟫
-Pass. ⟪सेव्यते⟫
-Kaus. ⟪सेवयति⟫
-PPP ⟪सेवित⟫
-Inf. ⟪सेवितुम्⟫
-Absol. -⟪सेव्य⟫
+完成時第一類 ⟪सिषेवे⟫
+未來時 ⟪सेविष्यते⟫
+被動語態 ⟪सेव्यते⟫
+使役式 ⟪सेवयति⟫
+過去被動分詞 ⟪सेवित⟫
+不定式 ⟪सेवितुम्⟫
+絕對構式 -⟪सेव्य⟫
 
-davon:
+衍生自：
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ 陰性：服務、侍奉
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 第三類：堅定、堅固、持續、持久
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫，⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 第三類：精通（⟪षष्ठ्या सप्तम्या वा⟫）
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ 陽性：夜間守衛（每段三小時）
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
+⟪परंपरा⟫ 陰性：連續序列
 
-⟪अमुत्र⟫ Adv.: dort, dorthin
+⟪अमुत्र⟫ 副詞：那裡、往那裡
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
+⟪च्यु⟫ 第一類動詞 ⟪च्यवते⟫ ：移動、前進、落下
 
 ::: indent
-Perf. IIIa ⟪चुच्युवे⟫
-Fut. ⟪च्योष्यते⟫
-Pass. ⟪च्यूयते⟫
-Kaus. ⟪च्यावयति⟫
-PPP ⟪च्युत⟫
+完成時第三類a ⟪चुच्युवे⟫
+未來時 ⟪च्योष्यते⟫
+被動語態 ⟪च्यूयते⟫
+使役式 ⟪च्यावयति⟫
+過去被動分詞 ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 第一人稱 ⟪अनुभवति⟫ ：認知、感受、感知、體驗
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ 中性名詞：輪子
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+圖示：⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+（圖片來源：[詳情](/licenses#lekt5214)）
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ 陰性名詞：香蕉樹（Musa sp.）
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+圖示：⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+（圖片來源：[詳情](/licenses#lekt5208)）
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ 陽性/中性名詞：核心、髓、本質、實體
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 三級：天上的、神聖的
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 三級：最好的
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ 陽性名詞：鏡子
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ 陽性/中性名詞：污垢、瑕疵
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+圖示：⟪मलम् मुंबई⟫
+（圖片來源：[詳情](/licenses#lekt5215)）
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ 中性名詞：因陀羅的天界
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ 陽性名詞：人格化的惡、人格化的誘惑/操縱，魔鬼
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+圖示：
+Amaravati = అమరావతి，公元二世紀
+（圖片來源：[詳情](/licenses#lekt5217)）
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 三級：渴望完全認知之人
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 第一類動詞，帶 ā 音變 ⟪त्रायते⟫ ：保護、拯救
 
 ::: indent
-Perf. IV ⟪तत्रे⟫
-Fut. ⟪त्रास्यते⟫
-Pass. ⟪त्रायते⟫
-Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
-Inf. ⟪त्रातुम्⟫
+完成時第四類 ⟪तत्रे⟫
+未來時 ⟪त्रास्यते⟫
+被動語態 ⟪त्रायते⟫
+使役語態 ⟪त्रापयति⟫
+過去被動分詞 ⟪त्राण । त्रात⟫
+不定式 ⟪त्रातुम्⟫
 :::
-#### Quellen
-
-**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
-
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
-
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
-
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain]
-
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
-
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
-
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
-
-**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
-
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
-
-**lekt1602**: ⟪अध्यापनम्⟫ "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt1603**: ⟪अहिंसा⟫ "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
-
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt1701**: ⟪योगासनम्⟫ [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt1702**: ⟪दोग्धि⟫ [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
-
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2103**: ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2105**: ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2202**: ⟪कामदेवः⟫ , 19. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2405**: ⟪अलंकारः⟫ [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Bildquelle: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2408**: ⟪आख्यानम्⟫ "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
-
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Bildquelle: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Bildquelle: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2704**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2705**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ Bei Ahmedabad [Bildquelle: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-
-**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3002**: ⟪ज्ञातयः⟫ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3004**: ⟪प्रिया⟫ [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2904**: ⟪पुनर्भवः⟫ [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
-**lekt3101**: ⟪योगः⟫ [Bildquelle: http://www.flickr.com/photos/wricontest/294029791/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3102**: ⟪व्यञ्जनम्⟫ Vorbereitung zum Kathakali-Tanz = കഥകളി, Kochi = കൊച്ചി [Bildquelle: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3103**: Aus einem ⟪प्रज्ञापारमिता⟫-Manuskript [Bildquelle: zeno.org. -- gemeinfrei]
-
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
-
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3204**: ⟪उपलाः⟫ "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
-
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3306**: ⟪दानम्⟫ "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
-
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3308**: ⟪घृतम्⟫ [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
-
-**lekt3406**: ⟪सस्यम्⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = die 100.000 (⟪लक्ष⟫ m.n.) Inseln (Unionsterritorium) [Bildquelle: CIA. Public domain]
-
-**lekt3403**: ⟪तिलाः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt3404**: ⟪तिलाः⟫ [Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense]
-
-**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿಬ, Amritsar = ਅੰਮ੍ਰਿਤසር [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3401**: ⟪ऋषभः⟫ Chamundi-Hills [Bildquelle: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3502**: ⟪क्रामन्ति⟫ [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
-
-**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Bildquelle: Payer]
-
-**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
-
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
-
-**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
-
-**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
-
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4001**: ⟪विष्णोर्दशावताराः⟫ Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4105**: ⟪भुजङ्गः⟫ Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
-
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Bildquelle: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Bildquelle: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4306**: ⟪वत्सः⟫ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Bildquelle: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4307**: ⟪तोलन्ति⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Bildquelle: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Bildquelle: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Bildquelle: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Bildquelle: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
-
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4803**: ⟪तन्त्री⟫ Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Self-help group (SHG)], Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4805**: ⟪कुमारः⟫ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Bildquelle: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Bildquelle: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4809**: ⟪जाया⟫ [Bild: Payer]
-
-**lekt4901**: ⟪कुलूहलम्⟫ [Bildquelle: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
-
-**lekt4903**: ⟪विहंगः⟫ [Bildquelle: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4909**: ⟪पञ्जरम्⟫ Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht. Mysore. [Bildquelle: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰಿತਸਰ [Bildquelle: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Bildquelle: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5005**: ⟪आदित्यः⟫ [Bildquelle: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5003**: ⟪कल्याणी⟫ [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5105**: ⟪कृष्णमृगः⟫ Hirschziegenantilope -- _Antilope cervicapra_ L., Bock [Bildquelle: Wikipedia, public domain]
-
-**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
-
-**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Bildquelle: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Bildquelle: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
-
-**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Quelle von Bild und Text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5116**: ⟪भुजङ्गः⟫ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5118**: ⟪मणिः⟫ Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
-
-**lekt5117**: ⟪मदः⟫ [Bildquelle: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Zugriff am 2009-01-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
 

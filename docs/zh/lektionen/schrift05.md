@@ -1,18 +1,17 @@
+# 天城文 = ⟪देवनागरी⟫
 
-# Devanāgarī = ⟪देवनागरी⟫
-
-## Schriftübung 5
+## 書寫練習 5
 
 ![](/images/schrift008.webp)
 
-## Übung
+## 練習
 
-A) Schreiben Sie in Devanāgarī:
+A) 以天城文書寫：
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 
-B) Lesen und transliterieren Sie:
+B) 朗讀並轉寫：
 
-⟪फूत्⟫ ⟪विठोबा⟫ ⟪वितथ⟫ ⟪पाययति⟫ ⟪छलकं⟫ ⟪खेदो⟫ ⟪पाठीनं⟫ ⟪छिदुरा⟫ ⟪खेडकं⟫ ⟪खटू⟫ ⟪मुखं⟫ ⟪मुथहा⟫ ⟪नाथो⟫
+⟪फूत् विठोबा वितथ पाययति छलकं खेदो पाठीनं छिदुरा खेडकं खटू मुखं मुथहा नाथो⟫
 
 

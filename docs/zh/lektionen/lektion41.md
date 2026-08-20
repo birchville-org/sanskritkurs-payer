@@ -1,401 +1,388 @@
 ---
-title: Lektion 41
-subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
+title: "第41課"
+subtitle: "⟪सुभाषिते⟫ （兩則諺語）"
 lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第41課
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫ （兩則諺語）
 
 ::: indent
-⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
-⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
-⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
-⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥१॥⟫
+⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् । कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥१॥⟫
 :::
-Erklärung: ⟪पर⟫ "anderer"
+解釋： ⟪पर⟫ 「其他的」
 
 ::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
-Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
-(Bildquelle: [Details](/licenses#lekt4102))
+圖： ⟪पुस्तकस्था च या विद्या⟫ ...
+（圖片來源：[詳情](/zh/licenses#lekt4102)）
 :::
 
 ::: indent
-⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
-⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
-⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
-⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
+⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये । पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥२॥⟫
 :::
-Erklärung: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
+解釋： ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. 更多 ⟪कृत्⟫-a結尾的派生詞
 
-### 41.2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) 被动语态, Partizip Futur (⟪ऌडादेशः⟫) Ā
+### 41.2.1. 現在分詞（⟪लडादेशः⟫）Ā，被動現在分詞（⟪लडादेशः⟫），未來分詞（⟪ऌडादेशः⟫）Ā
 
-#### 41.2.1.1. 主题现在时词干、被动语态和将来时
+#### 41.2.1.1. 主題現在詞幹、被動與未來
 
 ::: grammar-box
-**Bildung:**
+**構詞：**
 
-Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
+現在詞幹 / 被動詞幹 / 未來詞幹 + -māna（陰性 mānā）
 :::
-Beispiele:
+範例：
 
-⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "jemand, der im eignen Interesse mit einem Opfer verehrt = Opferherr"
+⟪यज्⟫ 第一類，現在分詞Ā ⟪यजमान⟫ 第三格 「以祭品供奉他人者 = 祭祀主人」
 
-⟪मन्⟫ 4Ā, Part.Präs.Ā  ⟪मन्यमान⟫ 3 "ein denkender"
+⟪मन्⟫ 第四類，現在分詞Ā ⟪मन्यमान⟫ 第三格 「思考者」
 
-⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "etwas, das getan wird"
+⟪कृ⟫ 第八類，被動現在分詞 ⟪क्रियमाण⟫ 第三格 「被做的事」
 
-⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "jemand, der im eignen Interesse geben wird"
+⟪दा⟫ 第三類，未來分詞Ā ⟪दास्यमान⟫ 第三格 「將為自身利益給予者」
 
-#### 41.2.1.2. Athematische Präsensklassen
+#### 41.2.1.2. 非主題現在類別
 
 ::: grammar-box
-**Bildung:**
+**構詞：**
 
-Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
+弱現在詞幹（即第三人稱複數Ā結尾 -ate 之前的形式） + -āna（陰性 -ānā）
 :::
-Beispiele:
+範例：
 
 ::: grammar-box
-| Wurzel / Klasse | Partizip Präsens Ā |
+| 詞根 / 類別 | 現在分詞 Ā |
 | :--- | :--- |
-| **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
-| **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
-| **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
-| **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
-| **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
+| ⟪द्विष्⟫ 第一類 | ⟪द्विषाण⟫ |
+| ⟪हु⟫ 第三類 | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| ⟪सु⟫ 第五類 | ⟪सुन्वान⟫:brsu-nu + āna |
+| ⟪रुध्⟫ 第七類 | ⟪रुन्धान⟫:brru-n-dh-āna |
+| ⟪तन्⟫ 第八類 | ⟪तन्वान⟫:brtan-u + āna |
+| ⟪क्री⟫ 第九類 | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. 被动必要性“分词”（动名词）(⟪कृत्य⟫)
+### 41.2.2. 「被動必要性」的分詞（Gerundivum）(⟪कृत्य⟫)
 
 ::: grammar-box
-**Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden:**
+**為了表達被動必要性（「必須/應該被做的事」），可以從詞根和派生出的語幹中，選擇以下後綴來構成形容詞：**
 
-* **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
-* **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
-* **-⟪य⟫** (fem. **-⟪या⟫**)
-* **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (statt **-⟪य⟫**/**-⟪या⟫**)
+* **-⟪तव्य⟫**（陰性形式為**-⟪तव्या⟫**）
+* **-⟪अनीय⟫**（陰性形式為**-⟪अनीया⟫**）
+* **-⟪य⟫**（陰性形式為**-⟪या⟫**）
+* **-⟪त्य⟫**（陰性形式為**-⟪त्या⟫**）（代替**-⟪य⟫**/**-⟪या⟫**）
 :::
-#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. 後綴 -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
-**Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫ wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -⟪तुम्⟫ (s. [Lektion 23](lektion23.md)), d.h.**
+**後綴 -⟪तव्य⟫ / -⟪तव्या⟫ 附加於詞根和派生出的語幹（例如使動語幹）的方式，與不定式後綴 -⟪तुम्⟫ 相同（參見 [第23課](lektion23.md)），即：**
 
-* **hochstufige Wurzel + ⟪तव्य⟫**
+* **強級詞根 + ⟪तव्य⟫**
 
-oder
+或
 
-* **hochstufige Wurzel + -i- + ⟪तव्य⟫**
+* **強級詞根 + -i- + ⟪तव्य⟫**
 
-**Im Kausativ:**
+**在使動語態中：**
 
-* **Kausativstamm auf -ay + -i- + ⟪तव्य⟫**
+* **以 -ay 結尾的使動語幹 + -i- + ⟪तव्य⟫**
 :::
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
-| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
+| ⟪जि⟫ 第一人稱單數 | ⟪जेतव्य⟫ 第三人稱單數 | 「必須被擊敗的人；一個應被打敗的」 |
+| ⟪वृत्⟫ 第一類被動語態 | ⟪वर्तितव्य⟫ 第三人稱單數 | 「應該處於其中的地方」 |
+| ⟪बुध्⟫ 使動語態 | ⟪बोधयितव्य⟫ | 「應該被喚醒的人；一個應被喚起的」 |
 
 :::
-#### 41.2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
+#### 41.2.2.2. 後綴 -⟪अनीय⟫ / -⟪अनीया⟫
 
 ::: grammar-box
-**Bildung:**
+**構成：**
 
-Hochstufige Wurzel + -⟪अनीय⟫ / -⟪अनीया⟫
+強級詞根 + -⟪अनीय⟫ / -⟪अनीया⟫
 
-**Kausativ und 10. Präsensklasse:**
+**使動語態與第十現在時類別：**
 
-Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
+出現在使動語幹中的詞根形式，去掉 -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
 :::
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "zu gebendes; was gegeben werden muss" |
-| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "zu besiegender" |
-| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
-| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪दा⟫ 第三類主動語態 | ⟪दानीय⟫ 第三人稱單數 | 「應給予的；必須被給予的東西」 |
+| ⟪जि⟫ 第一人稱單數 | ⟪जयनीय⟫ 第三人稱單數 | 「應被打敗的」 |
+| ⟪कृ⟫ 第八類主動語態 | ⟪करणीय⟫ 第三人稱單數 | 「應被做的」 |
+| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 第三人稱單數 | 「必須被看見的；值得看的」 |
+| ⟪बुध्⟫ 使動語態 | ⟪बोधनीय⟫ 第三人稱單數: brbodh-aya - aya + -anīya | 「一個應被喚起的」 |
+| ⟪दा⟫ 使動語態 | ⟪दापनीय⟫ 第三人稱單數: brdā-paya - aya + -anīya | 「必須被讓予的」 |
 
 :::
-#### 41.2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
+#### 41.2.2.3. 後綴 -⟪य⟫ / -⟪या⟫
 
 ::: grammar-box
-**Bildung:**
+**構詞：**
 
-Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫
+詞根（處於深、高或長音階段）+ -⟪य⟫
 
-Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
+詳細規則請參見 Kielhorn，《梵語文法》，第 195 - 197 頁！
 :::
-Behandlung auslautender Vokale:
+詞尾元音的處理：
 
 ::: grammar-box
-**1. Wurzeln auf -ā bilden dieses Gerundiv auf -eya**
+**1. 以 -ā 結尾的詞根，其 gerundivum（動形詞）以 -eya 結尾**
 :::
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "應被知曉的；必須被認識的" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "應被給予的" |
 
 :::
 ::: grammar-box
-**2. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).**
+**2. 以 -i /-ī / -u / -ū /-ṛ 結尾的詞根，通常具有高或長音階段，除非它們屬於那些以 -i / -u /-ṛ 結尾並帶有後綴 -⟪त्य⟫（陰性形式為 -⟪त्या⟫）的動形詞的詞根（此類詞根列表見 Kielhorn，《文法》§537）。**
 :::
-Beispiel:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "應被回憶的" |
 
 :::
 ::: grammar-box
-**2a. Wurzeln auf -i/-ī haben Hochstufe**
+**2a. 以 -i/-ī 結尾的詞根具有高音階段**
 :::
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "應被出售的；可銷售的" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "應被引導的" |
 
 :::
 ::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
-Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
-(Bildquelle: [Details](/licenses#lekt4103))
+圖：⟪विक्रेयाणि पुष्पानि⟫
+（圖片來源：[詳情](/zh/licenses#lekt4103)）
 :::
 
 ::: grammar-box
-**2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.**
+**2b. 以 -u /-ū 結尾的詞根，將高音階段的 -o 替換為 -av（在 -ya 之前），將長音階段的 -au 替換為 -āv。在此情況下，長音階構詞意味著必要性。**
 :::
-Beispiel:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "應被讚美的" |
+|   | ⟪स्ताव्य⟫ 3 | "必須被讚美的" |
 
 :::
-Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
+輔音結尾詞根的範例（規則參見 Kielhorn，《文法》§533ff.）：
 
-Tiefstufige Bildung:
+低階（Guna）形式構建：
 
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "值得觀看" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "應被教導的人 = 學生" |
 
 :::
 ::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
-Abb.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
-(Bildquelle: [Details](/licenses#lekt4106))
+圖：⟪दृश्यो मन्दिरः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4106)）
 :::
-Hochstufige Bildung:
+高階（Vriddhi）形式構建：
 
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "應被憎恨的 = 敵人" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "應被劈開的" |
 
 :::
 ::: grammar-box
-**Kausative und Verben der 10. Präsensklasse (⟪चुरादि⟫)**
+**使動詞與第十類現在時詞根（⟪चुरादि⟫）**
 
-**Bildung:**
+**構建：**
 
-Kausativ-/Präsensstamm ohne -aya- + -⟪य⟫
+使動/現在詞幹不含 -aya- + -⟪य⟫
 :::
-Beispiel:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ 使動¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "應被尊敬的，極受崇敬的" |
 
 :::
 ::: indent
-¹ eigentl. Denominativ zu **⟪मान⟫**
+¹ 本質上為派生自 ⟪मान⟫ 的派生詞（Denominativ）
 :::
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
-Abb.: ⟪मान्यः⟫
-(Bildquelle: [Details](/licenses#lekt4107))
+圖：⟪मान्यः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4107)）
 :::
-#### 41.2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
+#### 41.2.2.4. 後綴 -⟪त्य⟫ / ⟪त्या⟫（取代 -⟪य⟫ / -⟪या⟫）
 
 ::: grammar-box
-Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -⟪य⟫ / -⟪या⟫ mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden, bei Kielhorn, Grammatik §537.
+以 -i / -u /-ṛ 結尾的詞根列表，它們構建動名詞（Gerundiv）時不使用 -⟪य⟫ / -⟪या⟫，而是使用後綴 -⟪त्य⟫（陰性 -⟪त्या⟫），參見 Kielhorn，《文法》§537。
 
-**Bildung:**
+**構建：**
 
-tiefstufige Wurzel + -⟪त्य⟫ / -⟪त्या⟫
+低階詞根 + -⟪त्य⟫ / -⟪त्या⟫
 :::
-Beispiele:
+範例：
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
-| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
+| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "應去走的" |
+| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "應去聽的" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "應去做的" |
 
 :::
-### 41.2.3. 关于被动必要分词（动名词）（⟪कृत्य⟫）的句法
+### 41.2.3. 「被動必要性分詞」（Gerundivum，即「未來被動分詞」）的句法特徵（⟪कृत्य⟫）
 
 ::: grammar-box
-Das Gerundiv kann attributiv verwendet werden:
+Gerundivum 可作定語使用：
 
 :::
 ::: indent
-**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "eine Stadt, die man sehen muss; eine sehenswerte Stadt"
+**⟪दर्शनीयं नगरम्⟫** = 「必須被看見的城市；值得一看的城市」
 :::
-Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit ⟪न⟫ ein Verbot, eine Unmöglichkeit):
+Gerundivum 也可作為謂語名詞，用於表達義務或命令的被動結構句中（使用 ⟪न⟫ 表示禁止或不可能）：
 
 ::: indent
-**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Zweimalgeborene müssen Benares sehen"
+**⟪काशी द्विजैर्द्रष्टव्या⟫** = 「再生族必須親眼目睹瓦拉納西」
 :::
 ::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
-Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Bildquelle: [Details](/licenses#lekt4108))
+圖：⟪दर्शनीयं नगरं काशी⟫
+（圖片來源：[詳情](/zh/licenses#lekt4108)）
 :::
-### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
+### 41.2.4. Gerundivum 後綴用法的差異
 
 ::: grammar-box
-Weitgehend überschneidet sich der Gebrauch dieser Suffixe
+這些後綴的用法在很大程度上重疊
 
-* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Bildungen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden.
-* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) und -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (statt -⟪य⟫/-⟪या⟫):** können eine weitere Bedeutung haben (bes. -⟪य⟫) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (⟪दृश्य⟫ "sichtbar"). Bildungen mit diesen Suffixen können mit ⟪अ⟫-/-⟪अन्⟫- verneint werden (nicht aber Bildungen mit -⟪तव्य⟫) und es gibt ⟪तत्पुरुष⟫ als deren Hinterglied sie vorkommen.
+* **-⟪तव्य⟫（陰性 -⟪तव्या⟫）：** 始終表示必要性，且傾向於作謂語使用（較少作定語）。帶有此後綴的構詞不應用於名詞複合詞中。
+* **-⟪अनीय⟫（陰性 -⟪अनीया⟫）與 -⟪य⟫（陰性 -⟪या⟫）/ -⟪त्य⟫（陰性 -⟪त्या⟫）（替代 -⟪य⟫/-⟪या⟫）：** 可能具有其他含義（尤其是 -⟪य⟫），對應德語的「-wert」（如「值得一看」）或僅表示可能性「-bar」（⟪दृश्य⟫ 「可見的」）。帶有這些後綴的構詞可用 ⟪अ⟫-/-⟪अन्⟫ 否定（但帶有 -⟪तव्य⟫ 的構詞除外），並且存在 ⟪तत्पुरुष⟫ 作為其後接成分出現。
 :::
-### 41.2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
+### 41.2.5. 不與 ⟪सु⟫- 和 ⟪दुस्⟫- 連用
 
 ::: grammar-box
-Mit  ⟪सु⟫- und ⟪दुस्⟫- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen ⟪तत्पुरुष⟫ vom Typ  ⟪सुकर⟫ 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md)).
+Gerundivum 不得與表示「容易」或「困難」的 ⟪सु⟫- 和 ⟪दुस्⟫- 連用。取而代之的是使用類型為 ⟪सुकर⟫ 3（「易於做」）的 ⟪तत्पुरुष⟫（參見 [第18課](lektion18.md)）。
 :::
-## 41.3. 词汇表
+## 41.3. 詞彙表
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
-
-⟪भुजङ्ग⟫ m.: Schlange
+⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.：蛇
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
-Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/licenses#lekt4105))
+圖：⟪भुजङ्गः⟫
+（圖片來源：[詳情](/zh/licenses#lekt4105)）
 :::
-⟪केवलम्⟫ Adv.: nur, allein, vollständig
+⟪केवलम्⟫ Adv.：僅，單獨，完全
 
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.：毒藥
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Bildquelle: [Details](/licenses#lekt4104))
+圖：⟪भुजङ्गस्य विषम्⟫
+（圖片來源：[詳情](/zh/licenses#lekt4104)）
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+⟪शास्⟫ 2P ⟪शास्ति⟫：訓誡，控制，命令，教導
 
 ::: indent
-hat den schwachen Präsensstamm **⟪शिष्⟫** : **⟪शिष्मस्⟫**, die 3.Pl. P. hat aber starken Stamm: **⟪शासति⟫** (!! Endung -ati) neben gelegentlich **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: **⟪शास्ते⟫**
+具有弱式現在詞幹 ⟪शिष्⟫：⟪शिष्मस्⟫，但第三人稱複數現在式具有強式詞幹：⟪शासति⟫（!! 後綴 -ati）以及偶爾出現的 ⟪शासन्ति⟫。⟪अशासुर्⟫。此外，整個 ⟪आत्मनेपद⟫ 在出現時也具有強式詞幹：⟪शास्ते⟫
 
-Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
-Fut. **⟪शासिष्यति⟫**  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ **⟪शिष्यते⟫**  
-PPP **⟪शिष्ट⟫** : gelehrt, weise  
-Inf. **⟪शासितुम्⟫**  
-Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
+完成式 I ⟪शशास⟫，⟪शशासुर्⟫  
+未來式 ⟪शासिष्यति⟫  
+被動式 **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+過去分詞 ⟪शिष्ट⟫：被教導，智慧的  
+不定詞 ⟪शासितुम्⟫  
+絕對構詞 **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-davon:
+衍生自：
 
-**⟪शासना⟫** f.: königliches Edikt, Lehre, Religion
+⟪शासना⟫ f.：皇家敕令，教義，宗教
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/licenses#lekt4109))
+圖：⟪शासना⟫
+（圖片來源：[詳情](/zh/licenses#lekt4109)）
 :::
 
 ::: indent
-**⟪शास्त्र⟫** n.: Lehre, Lehrwerk
+⟪शास्त्र⟫ n.：教義，教材
 
-**⟪शास्त्रिन्⟫** m.: gelehrt, Gelehrter
+⟪शास्त्रिन्⟫ m.：博學的，學者
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/licenses#lekt4110))
+圖：⟪शास्त्री⟫
+（圖片來源：[詳情](/zh/licenses#lekt4110)）
 :::
 
 ::: indent
-**⟪शिष्य⟫** 3: zu belehrender = Schüler
+⟪शिष्य⟫ 3：受教者 = 學生
 :::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
+⟪शरण⟫ 3：保護的，庇護的；n. 保護，避難所，投靠
 
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
+⟪सङ्घ⟫ n.：（源於 ⟪सम्⟫-⟪हन्⟫：共同打擊）：群體，堆積，團體（例如佛教徒）
 
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+⟪कन्या⟫ f.：年輕女孩，女兒，處女
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+⟪अति⟫ 前綴：在...之上，跨越，超出（在空間、時間、數量、總量、順序、權力、強度上），極度
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+⟪इ⟫ + ⟪अति⟫ 第二人稱 ⟪अत्येति⟫ ：經過
 
 ::: indent
-PPP **⟪अतीत⟫** : n. Vergangenheit
+過去分詞 ⟪अतीत⟫ ：名詞，過去時
 :::
-## 41.4. 练习
+## 第41.4節。練習
 
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion.
+A) 翻譯本課開頭的兩句諺語。
 
-B) Übersetzen Sie:
+B) 請翻譯：
 
-⟪बुद्धम्⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥१॥⟫
-
-⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥२॥⟫
+⟪बुद्धम् शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥१॥ काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥⟫
 
 ::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
-Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
-(Bildquelle: [Details](/licenses#lekt4111))
+圖示：⟪काशीं पत्स्ये गङ्गां द्रक्ष्यामि⟫ ...
+（圖片來源：[詳情](/zh/licenses#lekt4111)）
 :::
-⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
-
-⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥४॥⟫
-
-⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
+⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥ विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वश्यः पुण्यं चकारेति ॥४॥ गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥⟫
 

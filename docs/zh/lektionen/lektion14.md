@@ -1,82 +1,83 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "第14課"
+subtitle: "名詞所表示事物之間關係的表達：屬格（ṣaṣṭhī f. = ⟪षष्टी⟫ = 第六格詞尾）"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 第14課
 
-## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
+## 14.1. 名詞所表徵事物之間關係的表達：屬格（ṣaṣṭhī f. = ⟪षष्टी⟫ = 第六格詞尾）
 
 ::: grammar-box
-Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
+若要表達由兩個名詞所表徵事物之間的關係，則使用屬格（ṣaṣṭhī f.「第六格詞尾」）。屬格與其他所有格的區別在於，它——除少數例外情況外——並非用於進一步限定由動詞所表達的動作，而是用於表達由名詞所表徵的人或事物之間的關係。屬格常用來回答「誰的？」這個問題。
 :::
-Beispiele:
+範例：
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "Des Dichters Sohn"
+⟪कवेः पुत्रः⟫ 「詩人的兒子」
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum"
+⟪धनस्य लोभः⟫ 「對財富的貪婪」
 
-⟪नगरस्यार्धम्⟫ "Die Hälfte der Stadt"
+⟪नगरस्यार्धम्⟫ 「城市的一半」
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas"
+⟪रामस्य कृतम्⟫ 「羅摩的／某項行為」
 
 ::: grammar-box
-Die normale Wortstellung ist:
+> 正常的詞序為：
 
-> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
+> **屬格中的限定詞 — 其他格中的被限定名詞**
 :::
-**Genetiv und PPP:**
+> **屬格與過去分詞（PPP）：**
 
 ::: grammar-box
-Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens).
+> 在使用過去分詞（PPP）時，屬格可代替工具格（tṛtīyā）來表示施事者（kartṛ）；在工具格結構中，過去分詞被視為被動語態的動詞形式（處於工具格的詞表示施事者）；在屬格結構中，過去分詞被視為名詞或形容詞（因此處於屬格的詞並非真正作為施事者）。
 
-Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
+> 根據波你尼（Pāṇini）2.3.67，當過去分詞具有現在時意義時（見上文），使用屬格；當過去分詞具有過去時意義時，使用工具格：
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
->
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat"
+> ⟪रामस्येष्टं फलम्⟫ 「羅摩所期望的果實 = 羅摩此刻所期望的果實」
+> 
+> ⟪रामेणेष्टं फलम्⟫ 「羅摩所期望的果實」
 
-Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
+毫無疑問，當一個過去分詞（PPP）的中性單數形式被用作動名詞——即作為名詞使用時，會採用屬格。
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. 屬格形式（ṣaṣṭhī f. = ⟪षष्ठी⟫）的構成
 
-Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet.
+對於具有詞幹變格（詞幹階級）的動詞詞幹，屬格是根據弱式詞幹構成的。
 
-**Genetiv von konsonantisch auslautenden Stämmen:**
+**輔音結尾詞幹的屬格：**
 
 ::: grammar-box
 
-Nach Konsonant sind die regelmäßigen Genetivendungen:
-* Singular: **-as**
-* Plural: **-ām**
+輔音之後的規則屬格詞尾為：
+* 單數：**-as**
+* 複數：**-ām**
 
 :::
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| 名詞詞幹 | 弱式詞幹 | 屬格單數 | 屬格複數 |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Genetiv von vokalisch auslautenden Stämmen, außer einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:**
+**元音結尾詞幹的屬格，不包括單音节根名詞和雙元音結尾的词幹：**
 
-**Plural:**
+**複數：**
 
 ::: grammar-box
 
-Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
+元音結尾詞幹的屬格複數構成方式如下：
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **-長元音結尾的詞幹 + -nām**
 
 :::
 ::: center
 
-| Nominalstamm | Genetiv Plural |
+| 名詞詞幹 | 屬格複數 |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
@@ -88,16 +89,16 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiv Singular vokalisch auslautender Stämme:**
+**以元音結尾之詞幹的屬格單數：**
 
 ::: grammar-box
 
-Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet und ist gut auswendig zu lernen.
+以元音結尾之詞幹的屬格單數是不規則構成的，必須熟記。
 
 :::
 ::: center
 
-| Stamm | Genetiv Singular |
+| 詞幹 | 屬格單數 |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,233 +106,111 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br（即：或如 kavi，或如 devī） |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br（即：或如 paśu，或如多音節陰性詞以 -ū 結尾） |
 
 :::
-**Fragepronomen und Demonstrativpronomen:**
+**疑問代詞與指示代詞：**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **陽性 / 中性** | **屬格單數** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **屬格複數** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **陰性** | **屬格單數** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **屬格複數** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formengleichheit:**
+**形式相同：**
 
 ::: important
 
-Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
+除以 -a 結尾的陽性與中性名詞以及代詞外，所有名詞詞幹的屬格單數形式與離格（pañcamī「第五格尾」）單數形式相同！
 
-Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum!
+請注意，在以輔音結尾的词幹中，離格與屬格的單數形式與陽性及中性賓格複數的形式相同！
 
 :::
-## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
+## 14.3. 屬格的進一步用法（⟪षष्ठी⟫）
 
 ::: grammar-box
-Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
+與上述基本規則相反，屬格用於表達某些動詞的受詞，例如表示「紀念」或「想起」的動詞：
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवानां स्मरति⟫ 「他紀念諸神」
 
-Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
+然而，所有這些動詞的受詞也可以使用賓格：
 
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवान्स्मरति⟫ 「他紀念諸神」
 
-Weiteres später.
+更多內容稍後介紹。
 :::
-## 14.4. 词汇表
+## 14.4. 詞彙表
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
-* **dīpa m.** (⟪दीप⟫) : Lampe
+* **śīla n.** (⟪शील⟩) : （良好的）品格，道德
+* **bhūṣ-aṇa n** (⟪भूषण⟩) : 飾品
+* **dīpa m.** (⟪दीप⟩) : 燈
 
 ::: media
 ![](/images/lekt1405.webp)
-Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405))
+圖：⟪दीपाः⟩
+（圖片來源：[詳情](/zh/licenses#lekt1405)）
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟩) : 力量，力氣；軍隊
+* **bāla 3** (⟪बाल⟩) : 年輕的，幼稚的；m. 男孩
+* **bālā f.** (⟪बाला⟩) : 年輕女孩
+* **nara m.** (⟪नर⟩) : 男人，人類
+* **śatru m.** (⟪शत्रु⟩) : 敵人
+* **loka m.** (⟪लोक⟩) : 世界；單數及複數：人們，人類
+* **jala n.** (⟪जल⟩) : 水
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟩) : 出生，產生，出現
+* **jan-a m.** (⟪जन⟩) : 生物，人
+* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟩) : 說，對...說話（第二格）
+* **uk-ti f.** (⟪उक्ति⟩) : 言論，話語
+* **vac-ana n.** (⟪वचन⟩) : 說話，話語
+* **vāk-ya n.** (⟪वाक्य⟩) : 話語，言論
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = 格言
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
+請翻譯以下格言並背誦：
 
-**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
+**⟪नीचो वद⟫ati ⟪न कुरुते⟫** **⟪वदति न साधुः करोत्येव ॥१॥⟫**
 
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫**
+**⟪शीलं नरस्य भूषणम् ॥२॥⟫**
 
-**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫**
+**⟪सत्येन जनानां सुखं भवति ॥३॥⟫**
 
-**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫**
+**⟪पापा नराः स्वर्गं न लभन्ते ॥४॥⟫**
 
-**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
+**⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
-## 14.6. 练习
+## 14.6. 練習
 
-**A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:**
+**A) 為下列詞語構成單數與複數屬格。請提供這些詞語的意義與性別：**
 
-⟪१⟫. ⟪अनृत⟫
-
-⟪२⟫. ⟪ऋषि⟫
-
-⟪३⟫. ⟪पाद⟫
-
-⟪४⟫. ⟪बुद्धि⟫
-
-⟪५⟫. ⟪गुरु⟫
-
-⟪६⟫. ⟪स्वर्ग⟫
-
-⟪७⟫. ⟪नगर⟫
-
-⟪८⟫. ⟪धेनु⟫
-
-⟪९⟫. ⟪द्विज⟫
-
-⟪१०⟫. ⟪मुक्ता⟫
-
-⟪११⟫. ⟪विद्या⟫
-
-⟪१२⟫. ⟪वर्ण⟫
-
-⟪१३⟫. ⟪द्विजाति⟫
-
-⟪१४⟫. ⟪रूप⟫
-
-⟪१५⟫. ⟪प्रतिग्रह⟫
-
-⟪१६⟫. ⟪सोढ⟫
-
-⟪१७⟫. ⟪नायिका⟫
-
-⟪१८⟫. ⟪साध्वी⟫
-
-⟪१९⟫. ⟪अग्नि⟫
-
-⟪२०⟫. ⟪वैश्या⟫
-
-⟪२१⟫. ⟪लोक⟫
-
-⟪२२⟫. ⟪उक्ति⟫
-
-⟪२३⟫. ⟪शत्रु⟫
-
-⟪२४⟫. ⟪सुखवन्त्⟫
-
-⟪२५⟫. ⟪पुत्रवती⟫
+⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1404.webp)
-Abb.: ⟪पुत्रवती⟫
-(Bildquelle: [Details](/licenses#lekt1404))
+圖：⟪पुत्रवती⟫
+（圖片來源：[詳情](/zh/licenses#lekt1404)）
 :::
-⟪२६⟫. ⟪जल⟫
+⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ （兩種含義）
 
-⟪२७⟫. ⟪मार्ग⟫
-
-⟪२८⟫. ⟪मोक्ष⟫
-
-⟪२९⟫. ⟪शूद्रा⟫
-
-⟪३०⟫. ⟪अन्न⟫
-
-⟪३१⟫. ⟪साधु⟫
-
-⟪३२⟫. ⟪नीति⟫
-
-⟪३३⟫. ⟪योध⟫
-
-⟪३४⟫. ⟪सत्यवन्त्⟫
-
-⟪३५⟫. ⟪लाभ⟫
-
-⟪३६⟫. ⟪मोह⟫
-
-⟪३७⟫. ⟪गति⟫
-
-⟪३८⟫. ⟪प्रश्न⟫
-
-⟪३९⟫. ⟪सृष्टि⟫
-
-⟪४०⟫. ⟪नेत्र⟫
-
-⟪४१⟫. ⟪गुरुता⟫
-
-⟪४२⟫. ⟪ईश्वर⟫
-
-⟪४३⟫. ⟪कारण⟫
-
-⟪४४⟫. ⟪कृत⟫
-
-⟪४५⟫. ⟪धर्मवन्त्⟫
-
-⟪४६⟫. ⟪युद्ध⟫
-
-⟪४७⟫. ⟪दर्शन⟫
-
-⟪४८⟫. ⟪धातु⟫
-
-⟪४९⟫. ⟪गूढा⟫
-
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen)
-
-⟪५१⟫. ⟪उदित⟫
-
-⟪५२⟫. ⟪इदम्⟫
-
-⟪५३⟫. ⟪किम्⟫
+⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1403))
+圖：⟪अयं बालः कस्याः पुत्रः ।⟫
+（圖片來源：[詳情](/zh/licenses#lekt1403)）
 :::
-**B) Übersetzen Sie:**
+**B) 請翻譯：**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+⟪१⟫。⟪ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः ।⟫（兩種可能）
 
-⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
-
-⟪३⟫. ⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
-
-⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
-
-⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
-
-⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-
-⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫
-
-⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
-
-⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
-
-⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-
-⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
+⟪२⟫。⟪यज्ञस्याग्निनान्नं दग्धम् । ३⟫。⟪बुद्धः सत्यस्य बुद्ध्या मुक्तः । ४⟫。⟪अधर्मो ऽनृतस्य वदनमित्यृषयो वदन्ति । ५⟫。⟪नरा देवानां यज्ञैर्न मुच्यन्ते । ६⟫。⟪बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति । ७⟫。⟪कवेरुक्तिं शृण्वन्ति । ८⟫。⟪कविर्देव्याः कृतं वदति । ९⟫。⟪द्विजाः पशोर्लाभमिच्छन्ति । १०⟫。⟪रामः पुण्यवतो गुरोर्मन्त्रस्य स्मरति । ११⟫。⟪अयं बालः कस्याः पुत्रः । १२⟫。⟪केषामिमानि गृहाणि । १३⟫。⟪कस्यान्नमनेनर्षिणेष्टम् ।⟫
 
 ::: media
 ![](/images/lekt1402.webp)
-Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1402))
+圖：⟪केषामिमानि गृहाणि ।⟫
+（圖片來源：[詳情](/zh/licenses#lekt1402)）
 :::

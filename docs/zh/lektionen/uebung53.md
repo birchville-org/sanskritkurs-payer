@@ -1,12 +1,12 @@
-
 ---
-title: "Übung 53"
+title: "練習53"
 uebung_id: 53
 category: "Übung"
+
 ---
 
 # 練習53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+第53課的練習在於對先前各課所學偈頌進行韻律分析（確定śloka格律）。
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+由於此為一項綜合性的複習與分析任務，故無傳統意義上的獨立解答鍵。答案乃透過將第53課所傳授之規則應用於已熟悉之文本而得。
