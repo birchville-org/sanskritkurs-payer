@@ -22,7 +22,7 @@ This is the valuable, reusable machinery that powers the website:
 
 Because VitePress uses Vue-powered Markdown, the content files are not limited to static text. The platform natively supports advanced, interactive course features:
 - **Vue Component Injection**: You can write or import custom interactive widgets (e.g., `<Tooltip text="Definition">`, `<QuizWidget>`, or `<AudioPlayer>`) and inject them directly into the Markdown files as if they were HTML tags.
-- **Custom Containers**: Built-in VitePress block alerts (e.g., `::: tip`, `::: warning`) for highlighting rules or grammar exceptions instantly.
+- **Custom Containers**: Built-in VitePress block alerts (`::: info`, `::: tip`, `::: warning`, `::: danger`, `::: details`) for highlighting rules or grammar exceptions instantly, alongside domain-specific containers like `::: grammar-box` and `::: literatur-box`.
 - **Raw HTML & CSS**: Complete freedom to drop `<span class="highlight">` elements anywhere inside the Markdown for absolute layout control.
 
 ## 🚀 3. Reusability: Creating a New Course

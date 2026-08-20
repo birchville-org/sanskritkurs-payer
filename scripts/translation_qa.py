@@ -277,3 +277,11 @@ def get_language_status(code):
         "unfinished_files": queue
     }
 
+
+def is_language_completed(lang):
+    """
+    Returns True if the language is 100% complete (0 items in translation queue).
+    """
+    if lang == "de":
+        return True
+    return len(get_translation_queue(lang)) == 0

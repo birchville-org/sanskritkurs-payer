@@ -1,51 +1,43 @@
-📊 Translation Status Report (Master-Basis: 136 Dateien)
-Timestamp: 2026-08-14 08:00:02 CEST
-Vergleich zum letzten Bericht: `2026-08-14 07:30:02 CEST`
+📊 Translation Status Report (Master-Basis: 140 Dateien)
+Timestamp: 2026-08-20 08:30:07 CEST
+Vergleich zum letzten Bericht: `2026-08-20 08:11:50 CEST`
 
-✅ **2 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `ru`
+✅ **9 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `ru`, `uk`, `rm`, `pa`, `id`, `he`, `zh-CN`, `zh`
 
 🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):
 
-Sprache: 🇹🇷 Türkçe (tr)
-Prozess-PID: 63115 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python scripts/lan_translate.py --lang tr -f` – Ungepuffert & Aktiv, CPU-Time: 0:00.84)
-Aktuelle Datei / Chunk-Fortschritt: `lektion06.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **5/136 Dateien (3.7%)**
-Pipeline-Queue (131 Dateien ausstehend): `lektion01.md` (Veraltet), `lektion06.md` (Veraltet), `lektion07.md` (Veraltet), `lektion08.md` (DE-Reste), `lektion09.md` (Veraltet), `lektion10.md` (Veraltet), `lektion11.md` (DE-Reste), `lektion12.md` (Veraltet) ... (+123 weitere)
-Delta zum letzten Bericht: **+3 Sauber | Δ +2.2%**
+Sprache: 🇮🇳 தமிழ் (ta)
+Prozess-PID: Nicht aktiv (Wartet auf Start)
+Aktuelle Datei / Chunk-Fortschritt: `lektion10.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **138/140 Dateien (98.6%)**
+Pipeline-Queue (2 Dateien ausstehend): `lektion08.md` (Contains unallowed German/English phrases or remnants), `lektion10.md` (Contains unallowed German/English phrases or remnants)
 Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).
 Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/s*
 
 | Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |
-| `id` | Bahasa Indonesia | 88/136 | 23 | 48 Dateien | — | 64.7% | ⌛ In Warteschlange |
-| `hi` | हिंदी | 84/136 | 21 | 52 Dateien | — | 61.8% | ⌛ In Warteschlange |
-| `pa` | ਪੰਜਾਬੀ | 67/136 | 39 | 69 Dateien | — | 49.3% | ⌛ In Warteschlange |
-| `zh-CN` | 简体中文 | 65/136 | 43 | 71 Dateien | — | 47.8% | ⌛ In Warteschlange |
-| `uk` | Українська | 65/136 | 52 | 71 Dateien | — | 47.8% | ⌛ In Warteschlange |
-| `it` | Italiano | 63/136 | 56 | 73 Dateien | — | 46.3% | ⌛ In Warteschlange |
-| `ta` | தமிழ் | 61/136 | 43 | 75 Dateien | — | 44.9% | ⌛ In Warteschlange |
-| `he` | עברית | 55/136 | 50 | 81 Dateien | — | 40.4% | ⌛ In Warteschlange |
-| `th` | ไทย | 54/136 | 53 | 82 Dateien | — | 39.7% | ⌛ In Warteschlange |
-| `fr` | Français | 53/136 | 54 | 83 Dateien | — | 39.0% | ⌛ In Warteschlange |
-| `ar` | العربية | 52/136 | 59 | 84 Dateien | — | 38.2% | ⌛ In Warteschlange |
-| `grc` | Ἀρχαία | 50/136 | 58 | 86 Dateien | — | 36.8% | ⌛ In Warteschlange |
-| `el` | Ελληνικά | 47/136 | 61 | 89 Dateien | — | 34.6% | ⌛ In Warteschlange |
-| `la` | Latina | 31/136 | 82 | 105 Dateien | — | 22.8% | ⌛ In Warteschlange |
-| `am` | አማርኛ | 30/136 | 76 | 106 Dateien | — | 22.1% | ⌛ In Warteschlange |
-| `es` | Español | 27/136 | 92 | 109 Dateien | — | 19.9% | ⌛ In Warteschlange |
-| `fa` | فارسی | 23/136 | 85 | 113 Dateien | — | 16.9% | ⌛ In Warteschlange |
-| `rm` | Rumantsch | 15/136 | 103 | 121 Dateien | — | 11.0% | ⌛ In Warteschlange |
-| `ro` | Română | 10/136 | 102 | 126 Dateien | — | 7.4% | ⌛ In Warteschlange |
-| `sh` | Srpsko-hrvatski | 8/136 | 102 | 128 Dateien | — | 5.9% | ⌛ In Warteschlange |
-| `af` | Afrikaans | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
-| `lt` | Lietuvių | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
-| `sq` | Shqip | 7/136 | 103 | 129 Dateien | — | 5.1% | ⌛ In Warteschlange |
-| `bg` | Български | 6/136 | 106 | 130 Dateien | — | 4.4% | 🔄 Nächste Sprache |
-| `tr` | Türkçe | 5/136 | 90 | 131 Dateien | +3 Sauber | Δ +2.2% | 3.7% | 🎯 Aktiv (`lektion06.md` Sektion 1/1) |
-| `fi` | Suomi | 5/136 | 115 | 131 Dateien | — | 3.7% | ⌛ In Warteschlange |
-| `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 4/136 | 106 | 132 Dateien | — | 2.9% | ⌛ In Warteschlange |
-| `nl` | Nederlands | 3/136 | 107 | 133 Dateien | — | 2.2% | ⌛ In Warteschlange |
-| `hu` | Magyar | 2/136 | 110 | 134 Dateien | — | 1.5% | ⌛ In Warteschlange |
-| `pt` | Português | 2/136 | 112 | 134 Dateien | — | 1.5% | ⌛ In Warteschlange |
-| `vi` | Tiếng Việt | 0/136 | 16 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |
-| `zu` | isiZulu | 0/136 | 16 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |
-| `zh` | 繁體中文 | 0/136 | 110 | 139 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| `ta` | தமிழ் | 138/140 | 2 | 2 (lektion08.md, lektion10.md) | — | 98.6% | ⌛ In Warteschlange |
+| `ro` | Română | 135/140 | 2 | 5 Dateien | — | 96.4% | ⌛ In Warteschlange |
+| `it` | Italiano | 133/140 | 7 | 7 Dateien | +4 Sauber | +1 FB | Δ +2.9% | 95.0% | ⌛ In Warteschlange |
+| `bg` | Български | 132/140 | 8 | 8 Dateien | — | 94.3% | ⚠️ Nächste (Wartet auf Start) |
+| `es` | Español | 130/140 | 5 | 10 Dateien | — | 92.9% | ⌛ In Warteschlange |
+| `th` | ไทย | 130/140 | 6 | 10 Dateien | — | 92.9% | ⌛ In Warteschlange |
+| `ar` | العربية | 129/140 | 7 | 11 Dateien | — | 92.1% | ⌛ In Warteschlange |
+| `hi` | हिंदी | 129/140 | 7 | 11 Dateien | — | 92.1% | ⌛ In Warteschlange |
+| `fr` | Français | 129/140 | 11 | 11 Dateien | +2 Sauber | +2 FB | Δ +1.4% | 92.1% | ⌛ In Warteschlange |
+| `el` | Ελληνικά | 128/140 | 8 | 12 Dateien | — | 91.4% | ⌛ In Warteschlange |
+| `grc` | Ἀρχαία | 128/140 | 8 | 12 Dateien | — | 91.4% | ⌛ In Warteschlange |
+| `fi` | Suomi | 126/140 | 10 | 14 Dateien | — | 90.0% | ⌛ In Warteschlange |
+| `hu` | Magyar | 125/140 | 11 | 15 Dateien | — | 89.3% | ⌛ In Warteschlange |
+| `fa` | فارسی | 125/140 | 11 | 15 Dateien | — | 89.3% | ⌛ In Warteschlange |
+| `la` | Latina | 123/140 | 13 | 17 Dateien | — | 87.9% | ⌛ In Warteschlange |
+| `tr` | Türkçe | 121/140 | 14 | 19 Dateien | — | 86.4% | ⌛ In Warteschlange |
+| `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 72/140 | 64 | 68 Dateien | — | 51.4% | ⌛ In Warteschlange |
+| `am` | አማርኛ | 63/140 | 73 | 77 Dateien | — | 45.0% | ⌛ In Warteschlange |
+| `pt` | Português | 59/140 | 77 | 81 Dateien | — | 42.1% | ⌛ In Warteschlange |
+| `vi` | Tiếng Việt | 5/140 | 131 | 135 Dateien | — | 3.6% | ⌛ In Warteschlange |
+| `zu` | isiZulu | 5/140 | 131 | 135 Dateien | — | 3.6% | ⌛ In Warteschlange |
+| `af` | Afrikaans | 3/140 | 125 | 137 Dateien | — | 2.1% | ⌛ In Warteschlange |
+| `nl` | Nederlands | 3/140 | 132 | 137 Dateien | — | 2.1% | ⌛ In Warteschlange |
+| `lt` | Lietuvių | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
+| `sh` | Srpsko-hrvatski | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
+| `sq` | Shqip | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
