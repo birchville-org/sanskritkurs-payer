@@ -49,6 +49,7 @@ import { et } from './locales/et.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
+const attrs = require('markdown-it-attrs')
 import extensiblePlugin from 'markdown-it-extensible'
 import { getSidebarItems } from './utils.mjs'
 
@@ -242,6 +243,7 @@ export default defineConfig({
     lineNumbers: false,
     breaks: true,
     config: (md) => {
+      md.use(attrs)
 
       md.use(multimd_table, {
         multiline: true,
