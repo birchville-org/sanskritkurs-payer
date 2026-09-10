@@ -1,236 +1,242 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Lektion 2"
+subtitle: "Nominalinis sakinys ir linksniavimo pagrindai"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Pamoka 2
 
-## 2.1. Der Nominalsatz
+
+## 2.1. Nominalinis sakinys
 
 ::: grammar-box
-**Schema: Prädikatsnomen - Subjekt**
+**Schema: Predikatinis daiktavardis – subjektas**
 
-z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
+pvz. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = „Višnus yra dievas.“
 :::
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
+Veikiamoji jungtis („yra“, „esu“, „esi“ ir kt.) nėra būtina, tačiau kartais gali pasitaikyti.
 
-Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott".
+Nėra **nustatomųjų artikulių**: **devaḥ** -- ⟪देवः⟫ gali reikšti „tas dievas“ arba „dievas“.
 
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäss obigem Standardschema in Betracht ziehen.
+Nors sanskrito kalboje sakinių tvarka yra gana laisva (ypač eilėraščiuose), vertinant nominalinį sakinį visada pirmiausia reikia remtis aukščiau pateiktu standartiniu schema.
 
-Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht.
+Nominaliniame sakinyje subjektas yra nominatyve (pirmasis linksnis = **prathamā** f. = ⟪प्रथमा⟫). Predikatinis daiktavardis sutampa su subjektu skaičiumi ir linksniu; jei predikatinis daiktavardis yra būdvardis, tai ir lytimi.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
 
-Im Sanskrit gibt es:
+## 2.2. Dėl linksniavimo (daiktavardžių keitimas)
 
-- **drei Numeri** (Zählformen) = **vacana** n. -- ⟪वचन⟫
-  - Singular (Einzahl) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫
-- **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫
-  - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫
-- **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen)
+Sanskrito kalboje yra:
 
-Zur Deklination treten die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nominalstamm** (Form des Nomens ohne Kasusendungen).
+**trys skaičiai** (skaitinės formos) = **vacana** n. -- ⟪वचन⟫
+vienaskaita = **ekavacana** n. -- ⟪एकवचन⟫
+dvaskaita = **dvivacana** n. -- ⟪द्विवचन⟫
+daugiskaita = **bahuvacana** n. -- ⟪बहुवचन⟫
+**trys giminės** (gramatinės lytys) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+vyriškoji giminė = **puṃs** m. -- ⟪पुंस्⟫
+moteriškoji giminė = **strī** f. -- ⟪स्त्री⟫
+vidurinė giminė = **napuṃsaka** n. -- ⟪नपुंसक⟫
+**aštuoni linksniai** = **sup** -- ⟪सुप्⟫ (= linksnių priesagos)
 
-Beispiel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung).
+Prie linksniavimo prisijungia linksnių priesagos (**sup** = ⟪सुप्⟫) prie vadinamojo **daiktavardžio kamieno** (daiktavardžio formos be linksnių priesagų).
 
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
-- **deva** m. -- ⟪देव⟫ m. (maskulin)
-- **vacana** n. -- ⟪वचन⟫ n. (neutrum)
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
+Pavyzdys: **devas** = ⟪देवस्⟫ (Vardininko vienaskaitos vyriškoji g.) „dievas / vienas dievas“ = **deva-** -- ⟪देव⟫- (vardinio kamienas) + **-s** -- -⟪स्⟫ (linksnių priesaga).
 
-## 2.3. Der Nominativ Singular
+Sanskrito žodynuose daiktavardžiai pateikiami **vardinio kamieno** forma:
+**deva** vyž. -- ⟪देव⟩ žym. (vyriškoji g.)
+**vacana** nž. -- ⟪वचन⟩ žym. (vidurinė g.)
+**vyakti** motž. -- ⟪व्यक्ति⟩ žym. (moteriškoji g.)
 
-**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+
+## 2.3. Vardininko vienaskaita
+
+**Vardininkas vienaskaita = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.**
+**Vardininko vienaskaita baigiasi -s = -⟪स्⟫ arba yra be priesagos.**
 :::
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Vardininko vienaskaita su -s
 
-Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+Šie vardinių kamienai, kurie baigiasi balsiu, sudaro Vardininko vienaskaitą su **-s**:
 
 ::: grammar-box
-**Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Vyriškosios g. kamienai su -a:** pvz., deva vyž. = ⟪देव⟫ „dievas“ -- Vd. vsk.: devas = ⟪देवस्⟫
+**Vyriškosios g. kamienai su -i:** pvz., kavi vyž. = ⟪कवि⟫ „poetas“ -- Vd. vsk.: kavis = ⟪कविस्⟫
+**Vyriškosios g. kamienai su -u:** pvz., guru vyž. = ⟪गुरु⟫ „mokytojas“ -- Vd. vsk.: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = ⟪सन्धि⟫ ("Verbindung").
+Sanskrite žodžio galūnė taip pat priklauso nuo kitojo, einančio po jo, žodžio pradžios. Šis reiškinys vadinamas **Sandhi** (vyž.) = ⟪सन्धि⟫ („jungtis“).
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Galūnės -s sandhi
 
-Siehe auch die Übersicht:
+Žr. taip pat apžvalgą:
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Galūnės -s sandhi. -- (Sanskrito medžiaga). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+Galūnė **-s**:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+**absoliučioje galūnėje** (sakymo pabaigoje) ji virsta **Visarga (-ḥ)**:
+**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+**prie balsių**:
+prieš **k, kh, p, ph** ir **ś, ṣ, s**: tampa **Visarga (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Šiva yra dievas")
+prieš **c, ch**: tampa **-ś**
+prieš **ṭ, ṭh**: tampa **-ṣ**
+prieš **t, th**: lieka **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Čaitanja yra šventasis")
 
-- **vor stimmhaften Lauten**:
-  - nach Nicht-a-Vokalen: wird zu **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha ist ein Dichter")
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt.
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma ist ein Lehrer")
-  - nach **a-**: **-as**
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ⟪ऽ⟫)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-    - vor anderen Vokalen: wird zu **-a** (Hiatus)
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+**prie priebalsių**:
+po ne-a balsių: tampa **-r**
+**kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha yra poetas")
+po ne-a balsių prieš **r-**: **-s** dingsta, balsys pailgėja.
+**gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू रामः⟫ ("Rāma yra mokytojas")
+po **a-**: **-as**
+prieš priebalsius/a: tampa **-o** (pradinis a dingsta » ⟪ऽ⟫)
+**devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो विष्णुः⟫
+**devas agnis** » **devo 'gniḥ** = ⟪देवो ऽग्निः⟫
+prieš kitus balsius: tampa **-a** (hiatusas)
+**devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
-## 2.5. Wortliste
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
+## 2.5. Žodynas
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
+**deva** m. -- ⟪देव⟫ : Dangaus būtybė, dievas; kunigaikštis, karalius.
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
+**īśvara** m. -- ⟪ईश्वर⟫ : Valdovas, valdovas, dievas (monoteistiškai).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmanas (dvasinė kasta).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatrija (kunigaikščių ir karo kasta).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaišja (žemdirbių ir prekių kasta).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Šūdra (paslaugų kasta).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+Pagal klasikinę teoriją (pvz., Manusmṛti I, 88-91) užduotys pasiskirsto taip:
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**brahmanų**
+Vedų studijos
+Mokymas
+Auka sau
+Auka kitiems
+Dovanojimas
+Dovanų gavimas
+**kṣatrijų**
+Saugoti tautą
+Dovanoti (brahmanams)
+Aukoti sau
+Vedų studijos
+**vaišjų**
+Gyvulininkystė
+Žemdirbystė
+Prekyba
+Lizingas
+Aukoti sau
+Dovanoti (brahmanams)
+Aukoti sau
+Vedų studijos
+**šūdrų**
+Tarnauti trims aukščiausioms kilmėms
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Antrą kartą gimęs" (aukštesnių trijų kilmės sluoksnių iniciuoti: brāhmaṇa, kṣatriya, vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫ : Spalva, gimimo kilmės sluoksnis (stiprybė).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+Keturi kilmės sluoksniai (**varṇa** m.) dažnai painiojami su kasta. Tačiau keturi kilmės sluoksniai, skirtingai nuo kastų, nėra specifinė Indijos savybė; Europoje taip pat buvo kilmės sluoksnių sistema, kaip rodo šis 15-ojo amžiaus paveikslas:
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+Pav.: Europos viduramžių kilmės sluoksnių pasiskirstymo vaizdas (medžio drožinys iš vėlyvojo 15-ojo amžiaus).
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Pažymėjimas:**
+**Dvasininkų sluoksnis** (~Brāhmaṇa): Tu supplex ora = Tu melstis su pagarbą!
+**Aristokratijos sluoksnis** (~Kṣatriya): Tu protege = Tu saugoti!
+**Valstiečių sluoksnis** (~Vaiśya/Śūdra): Tuque labora = Ir tu dirbti!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+Trys kilmės sluoksniai dėvi savo atitinkamus drabužius. Virš jų – kaip dieviškai nulemta – sėdi Kristus.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weberis (1864–1920) apibrėžia kilmės sluoksnį taip:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**Kilmės sluoksnis**« turėtų būti vadinamas žmonių daugybe, kuri veiksmingai
+a) reikalauja kilmės sluoksnio ypatingo vertinimo, - galbūt taip pat
+b) kilmės sluoksnio monopolijų.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+Stambys gali atsirasti
+a) pirminiai, dėl savos stambiškos gyvenimo tvarkos, ypač dėl **profesijos** (**gyvenimo tvarkos arba profesinės stambys**),
+b) antriniai, paveldimi-charizminiai, dėl sėkmingų prestižo reikalavimų pagal stambišką **kilimą** (**gimimo stambys**),
+c) dėl stambiškos **appropriacijos** politinių arba hierokratinių valdžių kaip monopolio (**politinės arba hierokratinės stambys**).
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+Gimimo stambiškas vystymasis yra reguliari (paveldimos) privilegijų appropriacijos forma į asociaciją arba kvalifikuotus individ. Kiekviena tvirta chansenų, ypač [nuo] valdžios arba uždarbio **chansenų**, appropriacija linksta vesti prie stambiškos formacijos. Kiekviena stambiška formacija linksta vesti prie monopolistinės valdžių ir uždarbio chansenų appropriacijos.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+Kol uždarbio klasės auga rinkos orientuotos ekonomikos pagrindu, stambys atsiranda ir egzistuoja pirmiausia monopolistinio liturginio arba feodalinio arba stambiško patrimonialinio poreikių tenkinimo asociacijoms pagrindu.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+»**Stambiška**« turėtų būti vadinama visuomenė, jei socialinė struktūra pirmiausia pagal stambis, »**klasine**«, jei ji pirmiausia pagal klases vyksta. »Stand« artimiausiai nuo »Klassen« yra »socialinė« klasė, »Uždarbio klasė« toliausiai. Stambys dažnai savo centru sudarytos turto klasių.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+Kiekviena stambiška visuomenė yra konvencinė, gyvenimo tvarkos taisyklėmis, sutvarkyta, todėl sukuria ekonomiškai iracionalias vartojimo sąlygas ir tokio būdo per monopolistines appropriacijas bei laisvo nuosavybės teisės panaikinimą savo uždarbio gebėjimu trukdo laisvai rinkos formacijai.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+Varṇos yra gimtinės luomai.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : poetas.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : ugnis, dievas Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+Pav.: Dievas Agni, miniatiūra, 18 a.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : teisingai, gerai.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : "šventasis" vyras, Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+Pav.: Sādhu (⟪साधु⟫), Pašupatinath šventykla, Katmandu.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+**guru** 3 -- ⟪गुरु⟫ : sunkus, reikšmingas, garbingas
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
+**guru** m. -- ⟪गुरु⟫ : garbingas asmuo: tėvas, motina, vyresnis giminaitis, ypač mokytojas, meistras
 
-## 2.6. Übung
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:**
+## 2.6. Pratimas
+
+**A) Įterpkite, atsižvelgdami į Sandhį, ir sudarykite nominalias sakinius:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Übersetzen Sie ins Sanskrit:**
+**B) Išverkite į sanskritą:**
 
-1. Rāma ist ein Brahmane.
-2. Der Lehrer ist ein Vaiśya.
-3. Der Śūdra ist ein heiliger Mann.
-4. Der Dichter ist der Lehrer.
-5. Viṣṇu ist der HERR.
-6. Der HERR ist Śiva.
-7. Der Zweimalgeborene ist ein Brahmane.
-8. Der heilige Mann ist ein Lehrer.
-9. Der Lehrer ist ein heiliger Mann.
+1. Rama yra brahmanas.
+2. Mokytojas vaišyas yra.
+3. Šūdra yra šventasis vyras.
+4. Poetas yra mokytojas.
+5. Višnu yra VYRAS.
+6. VYRAS yra Šiva.
+7. Antrą kartą gimęs yra brahmanas.
+8. Šventasis vyras yra mokytojas.
+9. Mokytojas yra šventasis vyras.

@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lección 59"
+subtitle: "Las desinencias secundarias y las desinuencias del imperativo en dual (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 59

@@ -142,7 +142,7 @@ In Sanskrit kan werkwoorde met voorwoorde (⟪उपसर्ग⟫ m.) gekombin
 :::
 Sommige belangrike voorvoegsels is:
 
-⟪⟨DEVA_5⟫⟫ 'na, in die rigting van, teen'
+⟪उप⟫ 'na, in die rigting van, teen'
 
 Voorbeelde:
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Lição 16"
+subtitle: "Sobre o Sandhi de consoantes finais"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 16
@@ -64,7 +65,7 @@ Exemplos:
 ![](/images/lekt1602.webp)
 Fig.: ⟪अध्यापनम्⟫
 "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Fonte da imagem: [Details](/licenses#lekt1602))
+(Fonte da imagem: [Details](/pt/licenses#lekt1602))
 :::
 ⟪अनसूया⟫ f.: não-resmungar, ausência de inveja
 
@@ -98,7 +99,7 @@ dos quais:
 ![](/images/lekt1601.webp)
 Fig.: ⟪योगी⟫
 Birla Mandir, Deli
-(Fonte da imagem: [Detalhes](/licenses#lekt1601))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1601))
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : girar, virar-se, estar (em algum lugar), habitar
 
@@ -114,7 +115,7 @@ Birla Mandir, Deli
 ![](/images/lekt1603.jpg)
 Fig.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Fonte da imagem: [Detalhes](/licenses#lekt1603))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1603))
 :::
 ## 16.3. Exercício
 
@@ -132,7 +133,7 @@ A) Transforme as seguintes expressões em Tatpuruṣa e traduza-as:
 ![](/images/lekt1604.webp)
 Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Fonte da imagem: [Detalhes](/licenses#lekt1604))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 

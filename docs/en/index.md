@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Sanskrit Course"
-  text: "A Complete Course"
+  text: "A Complete Course of Instruction"
   tagline: "by Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
@@ -24,12 +24,12 @@ features:
 ---
 
 ::: note-box
-Alois Payer’s **Sanskrit Course** is a comprehensive, scientifically grounded program for learning the Sanskrit language and Devanāgarī script. This digital edition presents the entire course in a modern, multilingual, and searchable reading environment.
+Alois Payer's **Sanskrit Course** is a comprehensive, scientifically grounded course for learning the Sanskrit language and Devanāgarī script. This digital edition presents the entire course in a modern, multilingual, and searchable reading environment.
 
-The languages were fully automatically translated from German using a multi-stage AI cascade. Reports concerning translation errors are very welcome.
+The languages were fully automatically translated from German with the help of a multi-stage AI cascade. Reports regarding translation errors are highly welcome.
 
 **Contact & Contribution**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Current Version**: v1.7.0
+**Editors**: Online editor available via [QA](https://payer.birchville.cc/qa_viewer.html) (View-only, Write Login-protected)
+**Current Version**: v1.7.4
 :::

@@ -1,17 +1,18 @@
 ---
-title: "Exercise 39"
+title: "Pratimas 39"
 uebung_id: 39
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 39
+# Pratimas 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Sudarykite pirmojo asmens formas iš šių veiksmažodžių formų, kurios atitiktų šią veiksmažodžio formą skaičiumi, laiku, nuosaka (rodomoji, linkimo) ir būdo veiksmažodžio aspektu (P, Ā, pasyvąja):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 3 asmuo | 1 asmuo |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -105,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Pav.: ⟪आगारे सीदामः⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung064))
 :::
 

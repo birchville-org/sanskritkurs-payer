@@ -1,0 +1,237 @@
+---
+title: "Lekcia 57"
+subtitle: "Aorist 4: s-Aorist"
+lesson_id: 57
+last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
+
+---
+
+# Lekcia 57
+
+## 57.1. Aorist 4: s-Aorist
+
+::: grammar-box
+**s-Aorist sa tvorí k väčšine ⟪अनिट्⟫-koreňov, pokiaľ nemajú výlučne inú aoristickú formu. Fakultatívne ⟪अनिट्⟫-korene môžu všeobecne voľne tvoriť buď tento, alebo iṣ-Aorist. Tiež ⟪अनिट्⟫-korene, ktoré tvoria ⟪परस्मैपद⟫ podľa 1., 2. alebo 6. formy aoristu, tvoria ⟪आत्मनेपद⟫ podľa s-Aoristu.**
+
+**Tvorba: Augment + koreň + s + athematická sekundárna koncovka**
+:::
+Tabuľka končoviek s kmeňotvorným suffixom
+
+::: grammar-box
+
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
+| **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
+| **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
+:::
+::: grammar-box
+**Aplikuje sa všeobecný fonetický zákon, že šumivá spoluhláska medzi dvoma uzatváracími spoluhláskami vypadne (porovnaj ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), t.j. kmeňotvorný suffix -s- pred koncovkami, ktoré začínajú na -t- alebo -th-, vypadne (nie však po nosovkách ani r-).**
+
+Príklady:
+
+:::
+::: indent
+3.sg.Ā a-kṣip + s + ta » ⟪अ⟫:sig[⟪क्षिप्त⟫]
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
+:::
+Takéto formy by mohli patriť aj ku koreňovému aoristu a pravdepodobne čiastočne aj patria.
+Indickí gramatici zaradili aj formy ako ⟪अकृत⟫ (3.sg.Ā) k s-Aoristu, ktoré jednoznačne patria ku koreňovému aoristu. Na tento účel vymysleli indickí gramatici nasledujúce ad-hoc fonetické pravidlo pre s-Aorist:
+
+::: indent
+„Po krátkom samohláske koncovky začínajúce na -st- alebo -sth- strácajú -s-.“
+:::
+Inak treba dodržiavať fonetické pravidlá pre spojenie koncových spoluhlások so s-.
+
+Pre -dhvam platí:
+
+::: grammar-box
+**-dh- v -dhvam sa po všetkých samohláskach okrem a/ā, ako aj po -r nahrádza za -ḍh-.**
+
+:::
+::: indent
+napr. :sig[⟪चि⟫] 5U: 2.os.Ā :sig[⟪अचेढ्वम्⟫]
+:::
+::: grammar-box
+**Tvar koreňa:**
+
+*   **⟪परस्मैपद⟫ : Dĺžkový stupeň**
+*   **⟪आत्मनेपद⟫ :**
+*   **Korene s koncovým i/ī/u/ū: Vysoký stupeň**
+*   **koncové -ṝ sa nahrádza za -īr alebo -ūr**
+*   **korene s ablautom na ā/e/o: Nízky stupeň**
+*   **iné samohlásky koreňa: nezmenené (t.j. zvyčajne nízky stupeň)**
+:::
+Príklady:
+
+|   | **3.os.P** |
+| --- | --- |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
+| ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
+| ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
+| ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
+| ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
+
+|   | **3.os.Ā** |
+| --- | --- |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
+| ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
+|   | **os.Ā** |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
+|   | **1.os.Ā** |
+| ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
+| ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
+
+::: grammar-box
+**⟪दृश्⟫ a ⟪सृज्⟫ majú v परस्मैपद Dĺžkový stupeň s rastúcim diftongom -rā-:**
+
+:::
+::: indent
+⟪दृश्⟫ 3.os.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
+:::
+Aj aorist iných koreňov s -ṛ- na predposlednom mieste sa môže tvoriť takto:
+
+::: indent
+⟪कृष्⟫ 1P/6U 3.os.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
+:::
+Paradigmata:
+
+⟪नी⟫ 1U " viesť"
+
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟩:sig[⟪ढ्वम्⟩] |
+| **3. ⟪प्रथमः⟩** | ⟪अनैषीत्⟩ | ⟪अनैषुर्⟩ | ⟪नेष्ट⟩ | ⟪अनेषत⟩ |
+
+::: media
+![](/images/lekt5701.webp)
+Obr.: ⟪भीमराव रामजी आंबेडकर⟩ (⟪१८९१ १९५६⟩) ⟪। सो ऽनैषीद्दलितान् ॥⟩
+(Zdroj obrázku: [Podrobnosti](/sk/licenses#lekt5701))
+:::
+⟪कृ⟩ 8U "robiť"
+
+|   | ⟪परस्मैपदम्⟩ || ⟪आत्मनेपदम्⟩ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ |
+| **1. ⟪तृतीयः⟩** | ⟪अकार्षम्⟩ | ⟪अकार्ष्म⟩ | ⟪अकृषि⟩ | ⟪अकृष्महि⟩ |
+| **2. ⟪द्वितीयः⟩** | ⟪अकार्षीस्⟩ | ⟪अकार्ष्ट⟩ | :sig[⟪अकृथास्⟩] | ⟪अकृढ्वम्⟩ |
+| **3. ⟪प्रथमः⟩** | ⟪अकार्षीत्⟩ | ⟪अकार्षुर्⟩ | :sig[⟪अकृत⟩] | ⟪अकृषत⟩ |
+
+⟪तुद्⟩ 6U "biť"
+
+|   | ⟪परस्मैपदम्⟩ || ⟪आत्मनेपदम्⟩ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ |
+| **1. ⟪तृतीयः⟩** | ⟪अतौत्सम्⟩ | ⟪अतौत्स्म⟩ | ⟪अतुत्सि⟩ | ⟪अतुत्स्महि⟩ |
+| **2. ⟪द्वितीयः⟩** | ⟪अतौत्सीस्⟩ | ⟪अतौत्त⟩:braus: a-taut + s + ta | ⟪अतुत्थास्⟩ | ⟪अतुद्ध्वम्⟩ |
+| **3. ⟪प्रथमः⟩** | ⟪अतौत्सीत्⟩ | ⟪अतौत्सुर्⟩ | ⟪अतुत्त⟩ | ⟪अतुत्सत⟩ |
+
+::: grammar-box
+**Nesprávne tvary:**
+
+**1. Korene na nosový (⟪गम्⟩, ⟪मन्⟩, ⟪रम्⟩) tvoria s-aorist vysoko stupňovaný:**
+**⟪अगंसि । अमंसि । अरंस्त⟩**
+**Okrem toho existujú pre ⟪गम्⟩ pravidelné nízko stupňované tvary:**
+**⟪अगसि⟩ (« \*a-gm-si) ⟪। अगथास् । अगत⟩ (v P má ⟪गम्⟩ tematický aorist)**
+
+2. ⟪पद्⟫ 4Ā je pravidelné (napr. ⟪अपत्सि⟫), v 3.os.Ċ však má tvar pasívneho koreňového aoristu:
+⟪अपादि⟫ "išiel"
+
+3. ⟪बुध्⟫ Ā môže v 3.os.Ċ voliteľne prijať tvar pasívneho koreňového aoristu:
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "rozpoznal"
+:::
+## 57.2. Cvičenie
+
+A) Preložte a určite bez pomôcok nasledujúce tvary a vytvorte príslušné tvary aoristu. Okrem kauzátívov a koreňov, ktoré tvoria s-aorist, je v zátvorke uvedená trieda príslušného aoristu:
+
+1. ⟪पेचिथ⟫
+2. ⟪अवक्⟫ (⟪३⟫)
+3. ⟪सोष्यसि⟫
+4. ⟪छिन्दे⟫
+5. ⟪कुरुषे⟫
+6. ⟪आधत्ते⟫
+7. ⟪पद्यते⟫
+8. ⟪जिगाय⟫
+9. ⟪जिघ्रामः⟫ (⟪१⟫, ⟪६⟫)
+10. ⟪शासति⟫ (⟪२⟫)
+11. ⟪स्तुवे⟫
+12. ⟪दिग्धे⟫
+13. ⟪प्लवध्वे⟫
+14. ⟪तस्थिथ⟫ (⟪१⟫)
+15. ⟪बिभ्यति⟫
+16. ⟪ततर्प⟫
+17. ⟪जुहुथ⟫
+18. ⟪ऊषुः⟫
+19. ⟪ससर्जिथ⟫
+20. ⟪लिल्यिरे⟫
+21. ⟪अत्याजयम्⟫
+22. ⟪सिध्यथ⟫ (⟪२⟫)
+23. ⟪निन्य⟫
+24. ⟪कर्षन्ति⟫
+25. ⟪अप्रच्छयन्⟫
+
+B) Preložte a určite nasledujúce tvary:
+
+1. ⟪चेलुः⟫
+2. ⟪जन्तुः⟫
+3. ⟪अश्वसीत्⟫
+4. ⟪ज्येष्ठायाः⟫
+5. ⟪संयक्⟫
+6. ⟪असे⟫
+7. ⟪असि⟫
+8. ⟪अचैष्ट⟫
+9. ⟪अचेष्ट⟫
+10. ⟪अभग्नम्⟫
+11. ⟪भस्म⟫
+12. ⟪हवींषि⟫
+13. ⟪अद्राक्षीः⟫
+14. ⟪शनैः⟫
+15. ⟪अपन्थाः⟫
+16. ⟪शत्रुह⟫
+17. ⟪उदासीने⟫
+18. ⟪कनीयान्⟫
+19. ⟪कन्याम्⟫
+20. ⟪आरम्⟫
+21. ⟪रिपू⟫
+22. ⟪अदात्⟫
+23. ⟪आदत्⟫
+24. ⟪अवोढ⟫
+25. ⟪अवोचम्⟫
+26. ⟪दिक्⟫
+27. ⟪शुनोः⟫
+28. ⟪यते⟫
+29. ⟪येते⟫
+30. ⟪याते⟫
+31. ⟪चतस्रः⟫
+32. ⟪परंपरायै⟫
+33. ⟪विमलाभ्याम्⟫
+34. ⟪ते⟫
+35. ⟪रजसि⟫
+36. ⟪रजसी⟫
+37. ⟪विक्रेढ्वम्⟫
+38. ⟪युष्मत्⟫
+39. ⟪अघम्⟫
+40. ⟪अभुक्थाः⟫
+41. ⟪उत्थानाय⟫
+42. ⟪अलुम्पत⟫
+43. ⟪अलुपत⟫
+44. ⟪अलुप्त⟫
+45. ⟪अलुप्तम्⟫
+46. ⟪वसिष्ठे⟫
+47. ⟪वर्षिष्ठे⟫
+48. ⟪अक्षैष्म⟫
+49. ⟪अहृत⟫
+50. ⟪कामधुग्भिः⟫
+51. ⟪अमुत्र⟫
+52. ⟪पत्युः⟫
+53. ⟪क्षेपीयन्⟫
+54. ⟪आदि्षि⟫
+55. ⟪पाणी⟫
+56. ⟪अस्प्राक्षम्⟫

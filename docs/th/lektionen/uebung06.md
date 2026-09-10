@@ -1,8 +1,9 @@
 ---
-title: "แบบฝึกหัด 6"
+title: "การฝึกหัดที่ 6"
 uebung_id: 6
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -565,7 +566,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
+14\. "พรหมวิหาร" (สภาวะธรรมอันเป็นที่อยู่ของพรหม) คือ: ความเมตตา, ความกรุณา, ความมุทิตา, ความอุเบกขา (2 รูปแบบ)
 
 เมตฺตกรุณาโมทิตเปกฺษอา พรมวิหาเรḥ / เมตฺตกรุณา โมทิตเปกฺษอา (ca) พรมวิหาเรḥ
 

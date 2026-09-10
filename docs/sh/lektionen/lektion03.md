@@ -1,156 +1,163 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Lekcija 3"
+subtitle: "Nominativ jednine ženskog roda"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 3
+# Lesson 3
 
-## 3.1. Nominativ Singular des Femininums
+## 3.1. Nominative Singular of the Feminine
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominative Singular ending in -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+The following nominal stems, which end in a vowel, also form the Nominative Singular with **-s**:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+**Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+**Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung
+### 3.1.2. Nominative Singular without ending
 
-Den Nominativ Singular bilden ohne Endung:
+The Nominative Singular is formed without an ending:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
+**Feminines in -ā**: e.g., **devatā** f. "deity" -- Nom. sg.: **devatā** = ⟪देवता⟫
+**Feminines in -ī**: e.g., **devī** f. "goddess" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose Nominative Singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the Nominative Singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina
+## 3.2. Formation of Feminines from Masculines
 
 ::: grammar-box
-**Maskulina auf -a:**
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
+**Masculines in -a:**
+**Feminine in -ā**: e.g., **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya woman" = ⟪क्षत्रिया⟫
+**Feminine in -ī**: e.g., **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmin woman" = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:**
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
+**Masculines in -u:**
+**Feminine in -ī**: e.g., **sādhu** m. » **sādhvī** f. (good, holy woman) = ⟪साध्वी⟫
+(**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominative Plural Masculine and Feminine
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-:::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
-
-## 3.4. Vokalsandhi
+The ending of the Nominative Plural in Masculine and Feminine is **-as**.
+**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
-- -a / -ā + a- / ā- » **-ā-**
-- -i / -ī + i- / ī- » **-ī-**
-- -u / -ū + u- / ū- » **-ū-**
-- (-ṛ + ṛ- » **-ṝ-**)
+The ending of the Nominative Plural in Masculine and Feminine is **-as**.
+**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+
+::: grammar-box
+The ending of the Nominative Plural in Masculine and Feminine is **-as**.
+**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-z.B.
+Napomena: **e** je visoki stupanj (**guṇa**) za **i**, **o** je visoki stupanj za **u**.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+## 3.4. Vokalni sandhi
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
+::: grammar-box
+**Jednostavni vokali koji se razlikuju samo u duljini ili se ne razlikuju, "spajaju" u odgovarajući dugi vokal:**
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
+:::
+npr.
 
-> (Indrāṇī ist die Gattin des Gottes Indra.)
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā je božanstvo" = ⟪देवतान्नपूर्णा⟫
+
+> (Annapūrṇā je božica hrane i kuhanja, smatra se utjelovljenjem Pārvatījeve, Šiveove supruge.)
+
+devī + indrāṇī » devīndrāṇī "Indrāṇī je božica" = ⟪देवीन्द्राणी⟫
+
+> (Indrāṇī je supruga boga Indre.)
 
 ::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301))
+Slika: Indra i Indrāṇī na slonu Airavati, minijatura, Rājasthān, 1670/80
+(Izvor slike: [Detalji](/sh/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
-- -i / -ī » **-y-**
-- -u / -ū » **-v-**
-- -ṛ » **-r-**
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
+**Jednostavni vokali (osim -a / -ā) zamjenjuju se odgovarajućim poluglasom ispred ne-sličnih vokala:**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! Za ovu pravilo postoje iznimke, posebno za dualne forme !!)
 :::
-z.B.
+npr.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
+devī + umā » devy umā "Umā je božica" = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
+> (Umā je ime za Pārvatī, Šivuovu suprugu)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:**
-- -a / -ā + i- / ī- » **-e-**
-- -a / -ā + ṛ- » **-ar-**
-- -a / -ā + e- / ai- » **-ai-**
-- -a / -ā + o- / au- » **-au-**
+**-a / -ā ispred ne-sličnog vokala:**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema:
+Za ovaj sandhi vrijedi sljedeći shematski prikaz:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302))
+(Izvor slike: [Detalji](/sh/licenses#lekt0302))
 :::
-Zu dieser sog. Stammabstufung siehe später!
+See later for this so-called caste hierarchy!
 
-z.B.
+e.g.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "Itarā is a Śūdrafrau" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+
+## 3.5. Satzsandhi of -ās
 
 ::: grammar-box
-**-ās se pred svim zvučnim suglasnicama zamjenjuje s -ā.**
+**-ās is replaced by -ā before all voiced sounds.**
 :::
-z.B.
+e.g.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द्विजा वैश्याः⟫
 
-## 3.6. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 3.6. Word list
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**Learn the following words:**
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**śruti** f. = ⟪श्रुति⟫ : hearing, eternal tradition (designation for the Vedas and Brāhmaṇa's).
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
+**dhenu** f. = ⟪धेनु⟫ : (milch) cow.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
+**paśu** m. = ⟪पशु⟫ : domesticated livestock, cattle (collective).
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
-
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**devatā** f. = ⟪देवता⟫ : deity (abstract and concrete).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
@@ -160,47 +167,48 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = �
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : female Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : Frau eines Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : goddess, esp. Durgā f. = ⟪दुर्गा⟫, the wife of Śiva = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
 Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+(Image source: [Details](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫ : "I-ness", i.e., the (false) belief: **I** am the one who sees, etc.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : philosophy (the science that arrives at its conclusions through logically correct reasoning).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
+**upekṣā** f. = ⟪उपेक्षा⟫ : disregard, equanimity.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
+**karuṇā** f. = ⟪करुणा⟫ : compassion, pity.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
+**muditā** f. = ⟪मुदिता⟫ : joy, specifically sympathetic joy (opposite of envy).
+
 
 ## 3.7. Übung
 
-**A) Setzen Sie folgende Sätze in den Plural:**
+**A) Put the following sentences into the plural:**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
 4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
 9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:**
+**B) Form nominalne rečenice ubacivanjem:**
 
 1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
@@ -208,19 +216,19 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
 5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:**
+**C) Prebacite u ženski rod:**
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:**
+**D) Prevedite na sanskrit:**
 
-1. Umā ist eine Göttin.
-2. Der Veda ist śruti.
-3. Die Lehrerinnen sind Göttinnen.
-4. Milchkühe sind domestizierte Tiere.
-5. Dichter sind Lehrer.
-6. Kṣatriyas sind Zweimalgeborene.
-7. Die heiligen Männer sind Śūdras.
+1. Umā je boginja.
+2. Veda je śruti.
+3. Učiteljice su boginje.
+4. Mliječne krave su domaća životinja.
+5. Pjesnici su učitelji.
+6. Kṣatriyas su dvaput rođeni.
+7. Sveti muškarci su Śūdras.
 

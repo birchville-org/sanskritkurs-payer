@@ -6,8 +6,7 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----
-# Les 13
+---# Les 13
 
 
 ## 13.1. PPP's wat op -na- eindig
@@ -230,7 +229,7 @@ A) Vertaal en omskakel na aktiewe teenwoordige sinne:
 ::: media
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
-(Bildquelle: [Details](/af/licenses#lekt1305))
+(Beeldbron: [Details](/af/licenses#lekt1305))
 :::
 ⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 Möglichkeiten)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫

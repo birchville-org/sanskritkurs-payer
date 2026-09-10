@@ -1,6 +1,6 @@
 ---
 title: "Pelajaran 20"
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+subtitle: "Komposit posesif (⟪बहुव्रीहि⟫ m.)"
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,7 +10,7 @@ status: stable
 
 # Pelajaran 20
 
->> ## 20.1. Komposita Possesif = ⟪बहुव्रीहि⟫ m.
+## 20.1. Komposita Possesif = ⟪बहुव्रीहि⟫ m.
 
 ::: media
 ![](/images/lekt2004.webp)
@@ -24,7 +24,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **Sebuah Bahuvrīhi berbeda dari Tatpuruṣa dalam hal ia merujuk pada sesuatu yang lain daripada apa yang diungkapkan oleh komponennya: sementara ⟪बालपुत्रः⟫ sebagai Tatpuruṣa diterjemahkan "seorang putra muda", yaitu sesuatu yang diungkapkan oleh komponen akhir kompositum (⟪पुत्र⟫), ⟪बालपुत्रः⟫ sebagai Bahuvrīhi diterjemahkan "seseorang yang putranya muda", artinya yang dirujuk bukanlah putra (⟪पुत्र⟫) dan belum tentu muda (⟪बाल⟩), melainkan seseorang yang berbeda dari putra muda tersebut, yaitu ayahnya.**
 
->> **Komposita possessif pada awalnya selalu berupa kata sifat, yang dapat di-substantiv-kan. Oleh karena itu, jenis kelamin gramatikal sebuah Bahuvrīhi bergantung pada apa yang dirujuk oleh Bahuvrīhi tersebut, dan bukan pada jenis kelamin komponen akhir kompositum.**
+**Komposita possessif pada awalnya selalu berupa kata sifat, yang dapat di-substantiv-kan. Oleh karena itu, jenis kelamin gramatikal sebuah Bahuvrīhi bergantung pada apa yang dirujuk oleh Bahuvrīhi tersebut, dan bukan pada jenis kelamin komponen akhir kompositum.**
 
 :::
 ::: grammar-box
@@ -90,7 +90,7 @@ Secara tradisional, kita membedakan:
 ::: indent
 ⟪गुणवत्पुत्रो ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो यस्य स ब्राह्मणः⟫ = "seorang Brahmana yang putranya / putra-putranya memiliki sifat baik"
 :::
->> **Sangat umum adalah -- yang jarang pada Tatpuruṣa -- penentuan atributif oleh PPP. Kata ganti relatif kemudian biasanya berada dalam Instrumentalis (⟪तृतीया⟫) saat diuraikan (lebih jarang dalam Genetiv / ⟪षष्ठी⟫).**
+**Sangat umum adalah -- yang jarang pada Tatpuruṣa -- penentuan atributif oleh PPP. Kata ganti relatif kemudian biasanya berada dalam Instrumentalis (⟪तृतीया⟫) saat diuraikan (lebih jarang dalam Genetiv / ⟪षष्ठी⟫).**
 
 **Aturan praktis:**
 
@@ -121,7 +121,7 @@ Secara tradisional, kita membedakan:
 :::
 ::: grammar-box
 
->> **Sangat penting adalah Bahuvrīhi aposisional dengan komponen akhir ⟪आदि । आदिक । आद्य⟫ "pertama, awal", lebih jarang ⟪प्रभृति⟫ "awal". Komposita semacam itu sesuai dengan "dan seterusnya":**
+**Sangat penting adalah Bahuvrīhi aposisional dengan komponen akhir ⟪आदि । आदिक । आद्य⟫ "pertama, awal", lebih jarang ⟪प्रभृति⟫ "awal". Komposita semacam itu sesuai dengan "dan seterusnya":**
 
 **Contoh:**
 
@@ -179,7 +179,7 @@ Siemreap (ក្រុងសៀមរាប), Kamboja, abad ke-9 M.
 :::
 ## 20.5. Bahuvrīhi dengan anggota pertama adverbial
 
->> Pada anggota pertama terdapat sebuah kata keterangan, preposisi, pra-verba atau indeklinabilia lainnya; komposita semacam itu pada umumnya adalah ⟪नित्यसमास⟫.
+Pada anggota pertama terdapat sebuah kata keterangan, preposisi, pra-verba atau indeklinabilia lainnya; komposita semacam itu pada umumnya adalah ⟪नित्यसमास⟫.
 
 Contoh-contoh:
 
@@ -246,7 +246,7 @@ Chennai = சென்னை
 Meskipun setiap Bahuvrīhi dapat diuraikan menjadi kalimat relatif, tidak semua kalimat relatif dapat digantikan dengan Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), yang telah meneliti hubungan keduanya secara lebih mendalam (Compositum und Nebensatz, 1897), menulis:
 
 ::: indent
->> "Jika Anda menerjemahkan dari bahasa Jerman atau bahasa modern lainnya ke dalam Sanskerta, tidak semua klausa bawahan dapat direpresentasikan dengan komposita, melainkan hanya yang bersifat hiasan dan deskriptif; sedangkan klausa yang mengandung penentuan konseptual yang perlu atau penting, juga muncul dalam Sanskerta sebagai kalimat relatif."
+"Jika Anda menerjemahkan dari bahasa Jerman atau bahasa modern lainnya ke dalam Sanskerta, tidak semua klausa bawahan dapat direpresentasikan dengan komposita, melainkan hanya yang bersifat hiasan dan deskriptif; sedangkan klausa yang mengandung penentuan konseptual yang perlu atau penting, juga muncul dalam Sanskerta sebagai kalimat relatif."
 :::
 ::: media
 ![](/images/lekt2002.jpg)
@@ -359,7 +359,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rish
 
 ## 20.10. Latihan 1
 
->> Pecahkan komposita berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang Anda anggap mungkin dalam bahasa Sanskerta (kecuali: komposita dengan anggota depan adverbal). Terjemahkan komposita yang dipecahkan secara berbeda ini ke dalam bahasa Jerman, berikan jenis kelamin, kasus, dan jumlah dari komposita keseluruhan.
+Pecahkan komposita berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang Anda anggap mungkin dalam bahasa Sanskerta (kecuali: komposita dengan anggota depan adverbal). Terjemahkan komposita yang dipecahkan secara berbeda ini ke dalam bahasa Jerman, berikan jenis kelamin, kasus, dan jumlah dari komposita keseluruhan.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -445,11 +445,11 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rish
 
 ## 20.11. Latihan 2
 
->> A) Terjemahkan dan uraikan komposita berikut ke dalam bahasa Sanskerta:
+A) Terjemahkan dan uraikan komposita berikut ke dalam bahasa Sanskerta:
 
 ⟪इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥ शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥ सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥ मृतपुत्रब्राह्मणी रोदिति ॥४॥ वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥ सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥ प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घ्नन्ति ॥७॥ जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥ कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥ बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥⟫
 
->> B) Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan komposita:
+B) Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan komposita:
 
 1\. Seorang Kṣatriya yang tidak memegang tongkat di tangannya tidak melindungi rakyat.
 
@@ -464,7 +464,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rish
 ⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १⟫.⟪३३॥⟫
 
 ::: indent
->> Penjelasan: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + akhiran -tas, yang memiliki makna ablative. Terjemahkan: "berdasarkan ..." atau serupa.
+Penjelasan: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + akhiran -tas, yang memiliki makna ablative. Terjemahkan: "berdasarkan ..." atau serupa.
 :::
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २⟫.⟪१॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २⟫.⟪२॥⟫
 

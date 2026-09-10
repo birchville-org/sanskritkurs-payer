@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Lekcija 12"
+subtitle: "Perfekt pasivni particip (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 12
 
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Participle Perfekt Passiv (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Jedan način za tvorbu pasivnih rečenica u prošlosti jest konstrukcija s tzv. Participle Perfekt Passiv (PPP).
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**U stvarnosti PPP nije pravi participle, jer se ne tvori od korijena vremena. On je zapravo nominalna tvorba uz korijen s primarnim sufiksom -ta odnosno -na. Zato se u indijskoj gramatici govori o sufiksu kta.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Shema za tranzitivne glagole
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agent (kartṛ) u instrumentalnom padežu (tṛtīyā) -- izravni objekt (karman) u nominativu (prathamā) -- Participle Perfekt Passiv**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+PPP se u ovom slučaju slaže s objektom po broju, padežu i rodu.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+Pomoćni glagol ("biti") nije potreban.
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Primjeri:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetca je postignut raj) = Svetac je postigao raj."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je boginja s žrtvom počašćena) = Brahman je počastio boginju s žrtvom."
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. Shema I za intranzitivne glagole i glagole kretanja
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agent (kartṛ) u nominativu (prathamā) -- Participle Perfekt Passiv**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+U ovom slučaju PPP se slaže s agentom po broju, padežu i rodu. Participle Perfekt "Passiv" kod intranzitivnih glagola (glagoli bez izravnog objekta) i glagola kretanja ima aktivno značenje.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Primjer:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je otišla u grad."
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. Schema II für intransitive Verben und Bewegungsvorbe
 
 ::: grammar-box
 **Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
 
 Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)» (Kielhorn).
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+Konstrukcija prema shemi II mnogo je rjeđa od konstrukcije prema shemi I (Kielhorn).
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. O značenju PPP-a (Kielhorn)
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Dok tzv. «particip perfekta pasiva» kod prijelaznih glagola prvenstveno ima pasivno značenje (**āpta** = «postignut»), a kod neprijelaznih glagola i glagola kretanja aktivno značenje (**gata** = «otišao»), postoje glagoli kod kojih PPP može imati i aktivno i pasivno značenje (Kielhorn):
 
 z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+**gata** = ⟪गत⟫ = «otišao» (aktiv); ali i: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = «prijeđeni put» (pasiv) (Kielhorn)
+**āpta** = ⟪आप्त⟫ = «postignut» (pasiv), «koji je postigao» (aktiv) (Kielhorn)
+
 
 ## 12.3. Bildung des PPP
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Pojavljuju se sljedeći načini tvorbe (za svaki korijen treba naučiti njegov PPP!) (Kielhorn):
 
 **(meist) tiefstufige Wurzel**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
-- **+ -na**
+**+ -ta**
+sa spojnim vokalom **-i-** ispred: **-ita**
+bez spojnog vokala: **-ta** (Kielhorn)
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Ženske osnove glase: **-tā**, **-itā**, **-nā**; srednji rod se sklanja kao **phala** n. (Kielhorn)
 :::
 
 ### 12.3.1. PPP auf -ta (kta)
 
 #### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = «bez (*an-*) spojnog vokala *i*» (Kielhorn).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Without a connecting vowel, the PPP is generally formed from roots ending in vowels as well as many other roots, without one being able to specify a fixed rule for which structured roots take the connecting vowel and which do not.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 :::
-**Beispiele:**
+**Examples:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Root | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +109,14 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. With connecting vowel -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = "with (*sa-*) the suffix preceded by (*-i-) *t*" (i.e., with the connecting vowel *i*).
 
-**Beispiele:**
+**Examples:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Root | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +124,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Laws of sound combination in the word
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva (Kielhorn):
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p ispred bezvučnih okluziva (npr. t, th) ostaju nepromijenjeni (Kielhorn):** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct se zamjenjuje s kt = ⟪क्त्⟫ (Kielhorn):** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt se zamjenjuje s ṣṭ = ⟪ष्ट्⟫ (Kielhorn):** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Zvučni neaspirirani okluziv – osim j – ispred bezvučnog glasa zamjenjuje se odgovarajućim bezvučnim neaspiriranim glasom (Kielhorn):** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (važno za 2. razred prezenta) (Kielhorn) |
+| **5. jt se zamjenjuje s kt ili ṣṭ (Kielhorn):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Zvučni aspirirani okluziv + bezvučni okluziv » zvučni neaspirirani + zvučni aspirirani okluziv (Bartholomaeov zakon aspiracije) (Kielhorn):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t se zamjenjuje s ḍh uz duljenje prethodnog i odn. u; ili s gdh (Kielhorn):** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) «nešto sakriti» (Kielhorn)):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Word List
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Fig.: ⟪गौतमो बुद्धः⟫
+(Image source: [Details](/sh/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : to burn (something)
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, patiently to endure = to forgive
+**mṛga** m. ⟪मृग⟫ : wild animal
+**mārga** m. ⟪मार्ग⟫ : path (paths were often game trails)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Fig.: ⟪मार्गः⟫
+(Image source: [Details](/sh/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : also (postposed)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Regarding the 6th conjugation class, some roots are counted by indigenous grammarians that form the present stem with a nasal infix and thematic vowel a, e.g.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : to release, to let go, to free; from the cycle of rebirths (**saṃsāra** m.) to free = to liberate
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : to sprinkle
 
-Zur Wortbildung:
+Regarding word formation:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : release, liberation, salvation
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : sprinkling of a king during the royal consecration, royal consecration
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : awakening (through which a Buddha or Jina attains liberating insight)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Fig.: ⟪महावीरो जिनः⟫
+(Image source: [Details](/sh/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cognition, organ of cognition.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Passive and PPP of the roots learned so far
+
+| Root:br⟪धातु⟫ | Passive Pres. 3. sg. Indic.:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Vježba
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) Iz aktivnih rečenica iz [Lekcije 7](/lektionen/lektion07), Vježba A, tvorite pasivne rečenice u prošlosti pomoću PPP-a; kod ne-transitivnih glagola i glagola kretanja tvorite aktivne rečenice u prošlosti.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) Tvorite odgovarajuće PPP-e za glagolske oblike iz [Lekcije 10](/lektionen/lektion10), Vježba A. Pritom imajte na umu da glagolskom obliku sṛjati odgovaraju PPP-i u sva tri roda.**
+
+**C) Prebacite rečenice iz [Lekcije 10](/lektionen/lektion10), Vježba C, u pasiv i prošlost.**
 

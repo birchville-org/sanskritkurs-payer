@@ -1,123 +1,125 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Pamoka 26"
+subtitle: "Cerebralizacijos dėsnis -s- viduryje žodžio"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. Cerebralizacijos dėsnis -s- viduje žodyje
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — ausser **a, ā** — unmittelbar oder nur durch ⟪अनुस्वार⟫ oder ⟪विसर्ग⟫ getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+**-s-** pakeičiamas **-ṣ-**, jei **k, r, l** arba **vokalis** — išskyrus **a, ā** — tiesiogiai arba tik per ⟪अनुस्वार⟫ ar ⟪विसर्ग⟫ atskirtas eina prieš tai ir seka kitoks garsas nei **ṛ, r**.
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
+Šiam sandhi taip pat taikoma taisyklė **⟪दुस्⟫-** prieš bebalius guturinius ir labialus junginiuose.
 :::
-*Beispiele:*
+*Pavyzdžiai:*
 ::: indent
-⟪तेषाम्⟫ (aus: *te-sām*)
+⟪तेषाम्⟫ (iš: *te-sām*)
 
-aber: ⟪तासाम्⟫ (*tā-sām*)
+bet: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. Cerebralizacijos dėsnis dantinių viduje žodyje
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
+Dantinių uždaromieji garsai po retrofleksais (įskaitant **-ṣ-**) pakeičiami atitinkamais retrofleksais:
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** dėl ankstesnio **i**, **ṭh** dėl tada einančio **ṣ**)*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. Žodžio sandhi palataliniams, guturiniams, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten
+Pavyzdžius žr. toliau
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Grassmanno aspiracijos disimiliacijos dėsnis
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+**Tiesioginė dviejų aspiruotųjų sekos (aspiruotoji - vokalis - aspiruotoji) pasekmė yra pirmojo garso aspiracijos praradimas:**
 
-Beispiel:
+Pavyzdys:
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**Jei dėl garsų dėsnių antrasis garsas praranda aspiraciją, tai pirmajame garse atsiranda aspiracija.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
+Pavyzdžiai: žr. toliau būsimąjį laiką  ⟪दुह्⟫ ir  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Grassmann
-(Bildquelle: [Details](/licenses#lekt2601))
+Pav.: Hermann Grassmann
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Žodžių sanda prieš šnabždesio garsus
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+**Prieš šnabždesio garsus -n ir -m pakeičiami į -ṃ-:**
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+Pavyzdys: žr. toliau būsimąjį laiką ⟪मन्⟫
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Paprastojo būtojo laiko vartojimas (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**Paprastasis būtojo laikas (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) reiškia:**
 
-- **die Zukunft**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
-- **Hoffnung**
-- **Befürchtung**
-- **Wahrscheinlichkeit**
-- **Meinung des Sprechenden**
-- **Befehl**
+**būsimąjį laiką**
+**numatomą arba norimą veiksmą („aš eisiu“, „norėčiau eiti“)**
+**tikėjimą („tai įvyks taip“)**
+**viltį**
+**baimę**
+**tikimybę**
+**kalbančiojo nuomonę**
+**įsakymą**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+**Būtojo laikas iš dalies konkuruoja su sąlygojuoju būdu (žr. vėliau).**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+pvz. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = „Kas nori duoti įžadą, eina į šventyklą.“
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602))
+Pav.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2602))
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Paprastojo būtojo laiko daryba (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Einfaches Futur:**
+**Paprastasis būtojo laikas:**
 
 :::
 ::: indent
-**Futursstamm + Primärendung**
+**Būtojo laiko kamienas + pirminis priesaga**
 :::
 ::: grammar-box
-**Futurstamm:**
+**Būtojo laiko kamienas:**
 
 :::
 ::: indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+**(dažniausiai) aukštojo laipsnio šaknis + -sya**  
+**arba**  
+**(dažniausiai) aukštojo laipsnio šaknis + -i- + -sya (= - iṣya)**
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
+**Kuri šaknis turi kurią būtojo laiko kamieno darybą, reikia mokytis iš kamienų formų!**  
+**Kaip taisyklė, šaknies forma ir jungiamasis balsas būtajame laike sutampa su infinityvu.**  
+**Kai kurios šaknys gali pasirinktinai daryti būtojo laiką su jungiamuoju balsu -i- ir be jo.**  
+**Būtojo laiko Parasmaipada dalyvis daromas pridedant priesagą -nt- prie būtojo laiko kamieno, moteriškoji giminė fakultatyviai -ntī arba -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: grammar-box
 
-| Wurzel | Futur 3. sg. P (Ā) |
+| Šaknis | Būsimasis laikas 3 d. g. P (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -130,15 +132,15 @@ Beispiele:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ prieš balsius = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Übung
+## 26.8. Pratimas
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:
+Sudarykite atitinkamas būsimosios laikos formas skaičiumi, asmeniu ir veiksmažodžio giminėmis (Parasmaipada, Ātmanepada):  
 
-A) ohne Bindevokal -i-:
+A) be jungiamosios balsės -i-:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +149,7 @@ A) ohne Bindevokal -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (sudaryti būsimąją laiką nuo ⟪दृश्⟫)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +178,7 @@ A) ohne Bindevokal -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-:
+B) Su jungiamąja balsė -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +195,7 @@ B) Mit Bindevokal -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (būsimuoju laiku Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +204,11 @@ B) Mit Bindevokal -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-:
+C) Futuras opcionais, com e sem -i-:
 
-1.  ⟪मुह्यन्ति⟫
-2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
+1. ⟪मुह्यन्ति⟫
+2. ⟪वर्तते⟫
+3. ⟪अश्नुवते⟫ (no Futuro Parasmaipada)
+
+
 

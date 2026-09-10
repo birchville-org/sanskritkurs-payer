@@ -4,14 +4,13 @@ import json
 import subprocess
 import time
 
-API_URL = "http://nyx.local:8088/v1/chat/completions"
-MODEL = "mlx-community--Qwen3.6-35B-A3B-4bit"
+API_URL = "http://nyx.local:8000/v1/chat/completions"
+MODEL = "mlx-community/Qwen2.5-32B-Instruct-4bit"
 
 LANG_NAMES = {
     'zh-CN': 'Simplified Chinese',
     'th': 'Thai',
     'el': 'Modern Greek',
-    'cop': 'Coptic (Bohairic)',
     'hi': 'Hindi',
     'rm': 'Rumantsch Grischun',
     'ru': 'Russian',
@@ -28,7 +27,6 @@ LANG_NAMES = {
     'he': 'Hebrew',
     'id': 'Indonesian',
     'ar': 'Arabic',
-    'arc': 'Aramaic',
     'nl': 'Dutch',
     'af': 'Afrikaans',
     'lt': 'Lithuanian',

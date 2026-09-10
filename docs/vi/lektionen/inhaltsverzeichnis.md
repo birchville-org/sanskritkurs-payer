@@ -93,23 +93,23 @@ Câu nói trong tuần
 
 ## [Bài 8](lektion08)
 
-*   1\. Về việc hình thành danh từ (Nomina)
-*   2\. Phân loại các hậu tố danh từ (Nominalsuffixe)
+*   1\. Về việc hình thành danh từ
+*   2\. Phân loại các hậu tố danh từ
 *   3\. Một số hậu tố danh từ quan trọng
 *   3.1. -a giống đực (kṛt)
 *   3.2. -ana giống trung (kṛt)
 *   3.3. -tra giống trung (kṛt)
 *   3.4. -ti giống cái (kṛt)
-*   3.5. -va giống trung, tāi giống cái (taddhita)
+*   3.5. -tva giống trung, tā giống cái (taddhita)
 *   4\. Lớp hiện tại thứ 8 (tanādi = ⟪तनादि⟫ = "tan v.v.")
 *   5\. Danh sách từ vựng
 *   6\. Bài tập
-*   7\. Bài đọc và dịch thuật
+*   7\. Bài đọc và dịch
 
 ## [Bài 9](lektion09)
 
 *   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Dvandva tổng hợp")
-*   2\. Về việc hình thành gốc danh từ (Nominalstämmen)
+*   2\. Về việc hình thành gốc danh từ
 *   2.1. -ka (taddhita)
 *   2.2. -aka (kṛt), giống cái thường là -ikā
 *   3\. Danh sách từ vựng
@@ -118,19 +118,19 @@ Câu nói trong tuần
 ## [Bài 10](lektion10)
 
 *   1\. Câu bị động
-*   2\. Cách dụng cụ (Instrumentalis) = tṛtīyā giống cái = ⟪तृतीया⟫ = "hậu tố cách thứ ba"
-*   2.1. Về việc sử dụng cách dụng cụ (tṛtīyā = ⟪तृतीया⟫)
-*   3\. Quy luật Cerebralisations cho -n- (một loại Wortsandhi)
-*   4\. Câu bị động, Chỉ định hiện tại (yak = ⟪यक्⟫)
-*   4.1. Quy tắc đặc biệt về việc hình thành câu bị động
+*   2\. Cách dụng cụ = tṛtīyā f. = ⟪तृतीया⟫ = "hậu tố cách thứ ba"
+*   2.1. Về cách sử dụng cách dụng cụ (tṛtīyā = ⟪तृतीया⟫)
+*   3\. Quy luật Cerebralisations được gọi là đối với -n- (một loại Wortsandhi)
+*   4\. Bị động, Hiện tại chỉ định (yak = ⟪यक्⟫)
+*   4.1. Quy tắc đặc biệt về việc hình thành bị động
 *   5\. Danh sách từ vựng
 *   6\. Bài tập
 *   7\. Danh sách từ vựng 2
-*   8\. Bài đọc và dịch thuật
+*   8\. Bài đọc và dịch
 
 ## [Bài 11](lektion11)
 
-*   1\. Tân ngữ kép (Doppelter Akkusativ)
+*   1\. Tân ngữ kép
 *   2\. Danh sách từ vựng
 *   3\. Bài tập
 *   4\. Bài tập ôn tập
@@ -142,13 +142,13 @@ Câu nói trong tuần
 *   1.2. Sơ đồ I cho động từ nội động và động từ chỉ chuyển động
 *   1.3. Sơ đồ II cho động từ nội động và động từ chỉ chuyển động
 *   2\. Về ý nghĩa của PPP
-*   3\. Việc hình thành PPP
+*   3\. Hình thành PPP
 *   3.1. PPP kết thúc bằng -ta (kta)
 *   3.1.1. Không có nguyên âm nối -i- (aniṭ)
 *   3.1.2. Có nguyên âm nối -i- (seṭ)
-*   4\. Các quy luật về tổ hợp âm trong từ
+*   4\. Quy luật kết hợp âm trong từ
 *   5\. Danh sách từ vựng
-*   5.1. Câu bị động và PPP của các gốc từ đã học cho đến nay
+*   5.1. Bị động và PPP của các gốc từ đã học cho đến nay
 *   6\. Bài tập
 
 ## [Bài 13](lektion13)

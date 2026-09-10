@@ -44,8 +44,32 @@ GLOSSARY_CLEANUP_MAPS = {
         ("della", "da la"),
         ("richtig:", "gueldig:"),
         ("Erklärung:", "Explicaziun:"),
+        ("Lektion", "Lecziun"),
+        ("lektion", "lecziun"),
+        ("Der", "Il"),
+        ("Die", "La"),
+        ("Das", "Il"),
+        ("ist", "è"),
+        ("ein", "in"),
+        ("eine", "ina"),
+        ("Nominativ", "Nominativ"),
+        ("Akkusativ", "Accusativ"),
+        ("Instrumentalis", "Instrumental"),
+        ("Dativ", "Dativ"),
+        ("Ablativ", "Ablativ"),
+        ("Genetiv", "Genitiv"),
+        ("Lokativ", "Locativ"),
+        ("Vokativ", "Vocativ")
     ]
 }
+
+for _lang, _phrases in LICENSES_PHRASES.items():
+    if _lang not in GLOSSARY_CLEANUP_MAPS:
+        GLOSSARY_CLEANUP_MAPS[_lang] = []
+    for _k, _v in _phrases.items():
+        if _k in ("Bildquelle:", "Fig.:"):
+            if (_k, _v) not in GLOSSARY_CLEANUP_MAPS[_lang]:
+                GLOSSARY_CLEANUP_MAPS[_lang].append((_k, _v))
 
 def escape_angle_brackets_in_tables(text):
     lines = text.split('\n')
@@ -298,13 +322,16 @@ def translate_yaml_frontmatter(yaml_content, target_lang):
 
     return '\n'.join(lines)
 
-def translate_file(source_path, target_path, lang, post_process=None, force=False):
+def translate_file(source_path, target_path, lang, post_process=None, force=False, is_completed=None):
     filename = os.path.basename(source_path)
     src_mtime = os.path.getmtime(source_path)
     tgt_mtime = os.path.getmtime(target_path) if os.path.exists(target_path) else 0
 
+    if is_completed is None:
+        is_completed = is_language_completed(lang)
+
     # TOTALBREMSE: Absolute write lock for DE master and 100% completed languages
-    if not force and is_language_completed(lang):
+    if not force and is_completed:
         sys.stdout.write(f"[{lang}] 🔒 TOTALBREMSE: Language '{lang}' is 100% completed & write-locked.\n")
         sys.stdout.flush()
         return
@@ -318,16 +345,11 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
                 sys.stdout.flush()
                 return True
             
-            if not force:
-                sys.stdout.write(f"[{lang}] Skipping {filename} (already translated but has residues/fallbacks: {reason}). Needs manual fix or --force.\n")
+            session_start = get_force_session_start_time(lang, init_if_missing=True)
+            if tgt_mtime >= session_start:
+                sys.stdout.write(f"[{lang}] Skipping {filename} (already retried in current session. Reason: {reason})\n")
                 sys.stdout.flush()
-                return True
-            else:
-                session_start = get_force_session_start_time(lang, init_if_missing=True)
-                if tgt_mtime >= session_start:
-                    sys.stdout.write(f"[{lang}] Skipping {filename} (already retried in current force session)\n")
-                    sys.stdout.flush()
-                    return
+                return
         except Exception:
             pass
 
@@ -590,7 +612,7 @@ def sync_missing_master_files(lang):
             sys.stdout.write(f"[{lang}] Synced missing master file template: {fname}\n")
             sys.stdout.flush()
 
-def translate_main_pages(lang, force=False):
+def translate_main_pages(lang, force=False, is_completed=None):
     lang_dir = os.path.join(BASE_DIR, lang)
     os.makedirs(lang_dir, exist_ok=True)
 
@@ -610,4 +632,4 @@ def translate_main_pages(lang, force=False):
         else:
             post_proc = fix_main_page_links
 
-        translate_file(source_path, target_path, lang, post_process=post_proc, force=force)
+        translate_file(source_path, target_path, lang, post_process=post_proc, force=force, is_completed=is_completed)

@@ -1,9 +1,10 @@
 ---
-title: "Exercise 1"
+title: "Pratimas 1"
 uebung_id: 1
-category: "Exercise"
+category: "Übung"
+
 ---
 
-# Užduotis 1
+# Pratimas 1
 
-Lektion 1 enthält keine schriftlichen Übungen, da sie als Einführung in die Lautlehre und Aussprache konzipiert ist. Die Leseübungen am Ende der Lektion dienen der praktischen Einübung der Laute und erfordern keinen separaten Lösungsschlüssel.
+Pamoka 1 neturi rašytinių pratimų, nes ji sukurta kaip įžanga fonetika ir tarimo studijas. Pamokos pabaigoje esantys skaitymo pratimai skirti praktiniam garsų įsisavinimui ir nereikalauja atskiro atsakymų rakto.

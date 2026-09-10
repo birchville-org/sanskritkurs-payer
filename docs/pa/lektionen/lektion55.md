@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "ਪਾਠ 55"
+subtitle: "ਏ-ਅੋਰਿਸਟ (ਥੀਮੈਟ ਵੋਕਲ ਨਾਲ ਅੋਰਿਸਟ)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 55

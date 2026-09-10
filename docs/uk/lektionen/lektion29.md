@@ -1,10 +1,11 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Урок 29"
+subtitle: "Вживання парасмаїпади (⟪परस्मैपद⟫) та атманепади (⟪आत्मनेपद⟫) у каузативі"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 29
@@ -263,5 +264,34 @@ PPP ⟪पूजित⟫
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
+⟪३६⟫. ⟪स्मरति⟫
 
+⟪३७⟫. ⟪हन्ति⟫
+
+⟪३८⟫. ⟪अश्नुवते⟫
+
+⟪३९⟫. ⟪कुप्यते⟫
+
+⟪४०⟫ ⟪कर्षन्ति⟫
+
+⟪४१⟫. ⟪उद्यते⟫
+
+⟪४२⟫. ⟪सहन्ते⟫
+
+⟪४३⟫. ⟪सिच्यन्ते⟫
+
+⟪४४⟫. ⟪आप्नोति⟫
+
+⟪४५⟫. ⟪जीव्यते⟫
+
+⟪४६⟫. ⟪दिश्यन्ते⟫
+
+::: deleteme-box
+
+**lekt1701:** [Джерело зображення: від tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без змін)]
+
+**lekt1702:** [Джерело зображення: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання, поділитися на тих самих умовах)]
+
+**lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання)]
+:::
+ &lt;!--  --&gt;

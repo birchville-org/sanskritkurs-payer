@@ -1,126 +1,122 @@
 ---
-title: Lektion 51
-subtitle: "⟪उपपद⟫-Komposita"
+title: "Lekcija 51"
+subtitle: "⟪उपपद⟫-kompoziti"
 lesson_id: 51
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. ⟪उपपद⟫-kompoziti
 
 ::: grammar-box
-**⟪उपपद⟫-Komposita (⟪उपपद⟫ n. "Begleitwort") sind ⟪तत्पुरुष⟫ mit einem Verbalnomen als Hinterglied, das nur als Hinterglied von Komposita auftritt, nicht aber als selbständiges, einzelnes Wort. ⟪उपपद⟫ werden mit den ⟪कृत्⟫-Suffixen**
+**⟪उपपद⟫-kompoziti (⟪उपपद⟫ n. "prateća riječ") su ⟪तत्पुरुष⟫ s verbalnom imenicom kao zadnjim članom, koji se pojavljuje samo kao zadnji član kompozita, a ne kao samostalna riječ. ⟪उपपद⟫ se tvore s ⟪कृत्⟫ sufiksima**
 * **-Ø**
 * **-a**
 * **-t**
 
-**gebildet. Sie sind Nomina agentis, d. h. sie bezeichnen einen Agens (⟪कर्तृ⟫), der die durch die zugrundeliegende Wurzel bezeichnete Handlung tut.**
+**tvoreni. Oni su imenice agenta, tj. označavaju agens (⟪कर्तृ⟫) koji obavlja radnju koju označava osnovni korijen.**
 
-**Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst:**
+**Takve kompoziti domaći komentatori ne razlažu putem nominalnih kombinacija, već pomoću glagolskih oblika:**
 
-Beispiele:
+Primjeri:
 
 :::
 ::: indent
-⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
-
-⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
+⟪सुखकरः⟫ = ⟪सुखं करोतीति सुखकरः कुलघ्नः⟫ = ⟪कुलम्हन्तीति कुलघ्नः⟫
 :::
-Beispiele:
+Primjeri:
 
-a) ⟪कृत्⟫-Suffix \-Ø
+a) ⟪कृत्⟫-sufiks \-Ø
 
 ::: indent
-\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer")
+\-⟪नी⟫ 3 "vodeći" npr. ⟪सेनानी⟫ m. "zapovjednik vojske" (⟪सेना⟫ f. "vojska")
 
-\-⟪भुज्⟫ 3 "geniessend, essen" z.B. ⟪भूमिभुज्⟫ m. "König" (⟪भूमि⟫ f. "Erde")
+\-⟪भुज्⟫ 3 "uživajući, jedući" npr. ⟪भूमिभुज्⟫ m. "kralj" (⟪भूमि⟫ f. "zemlja")
 
-\-⟪विद्⟫ 3 "wissend" z.B. ⟪धर्मविद्⟫  3 "den Dharma kennend"
+\-⟪विद्⟫ 3 "znajući" npr. ⟪धर्मविद्⟫ 3 "poznajući Dhammu"
 :::
 ::: media
 ![](/images/lekt5101.webp)
-Abb.: ⟪भूमिभुज्⟫
-⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
-(Bildquelle: [Details](/licenses#lekt5101))
+Slika: ⟪भूमिभुज् ज्ञानेन्द्र वीर बिक्रम शाह⟫, ⟪नेपालस्यान्तिमो राजा⟫ (2001. – 2008.)
+(Izvor slike: [Detalji](/sh/licenses#lekt5101))
 :::
-b) ⟪कृत्⟫-Suffix -t
+b) ⟪कृत्⟫-sufiks -t
 
 ::: indent
-\-⟪कृत्⟫ 3 "machend" z. B.
+\-⟪कृत्⟫ 3 "čineći" npr.
 
 :::
 ::: indent
-⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend"
+⟪कुलक्षयकृत्⟫ 3 "uzrokujući uništenje obitelji"
 
-⟪पापकृत्⟫ 3 "Böses tuend, Übeltäter"
+⟪पापकृत्⟫ 3 "čineći zlo, zlikovac"
 :::
-\-⟪जित्⟫ 3 "besiegend", z. B.
+\-⟪जित्⟫ 3 "pobjeđujući", npr.
 
 ::: indent
-⟪शत्रुजित्⟫ 3 "die Feinde besiegend"
+⟪शत्रुजित्⟫ 3 "pobjeđujući neprijatelje"
 
-⟪पुरुजित्⟫ 3 "viele besiegend" (⟪पुरु⟫ 3 "viel, reichlich")
+⟪पुरुजित्⟫ 3 "pobjeđujući mnoge" (⟪पुरु⟫ 3 "mnogo, obilno")
 :::
-\-⟪भृत्⟫ 3 "tragend" z. B.  ⟪भूमिभृत्⟫ m. "König"
+\-⟪भृत्⟫ 3 "noseći" npr. ⟪भूमिभृत्⟫ m. "kralj"
 ::: media
 ![](/images/lekt5103.webp)
-Abb.: ⟪पापकृत्⟫
-⟪भरतपुर⟫, ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt5103))
+Abb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
+(Image source: [Details](/sh/licenses#lekt5103))
 :::
 c) ⟪कृत्⟫-Suffix -a
 
 ::: indent
-\-⟪ग⟫ 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. ⟪खग⟫ 3 "fliegend" m. "Vogel, Wandelstern" (⟪ख⟫ n. "Loch, 'Luft'raum")
+\-⟪ग⟫ 3 "going (in, to)" (probably from the root gā, zero-grade g + a) e.g. ⟪खग⟫ 3 "flying" m. "bird, wandering star" (⟪ख⟫ n. "hole, 'air'space'")
 
-\-⟪घ्न⟫ 3 "erschlagend" z.B. ⟪कुलघ⟫ 3 "Familie(n) tötend"
+\-⟪घ्न⟫ 3 "striking down" e.g. ⟪कुलघ⟫ 3 "killing families"
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. ⟪आत्मज⟫ "Sohn"
+\-⟪ज⟫ 3 (jña » jā » zero-grade j + a) "descended from, born in" e.g. ⟪आत्मज⟫ "son"
 
-\-⟪ज्ञ⟫ 3 "kundig" (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 "allwissend"
+\-⟪ज्ञ⟫ 3 "knowing" (jñ-a) e.g. ⟪सर्वज्ञ⟫ 3 "all-knowing"
 
-\-⟪द⟫ 3 "gebend" (d-a) z.B. ⟪वारिद⟫ m. "Wolke" (⟪वारि⟫ n. "Wasser")
+\-⟪द⟫ 3 "giving" (d-a) e.g. ⟪वारिद⟫ m. "cloud" (⟪वारि⟫ n. "water")
 
-\-⟪प⟫ 3 "trinkend" (p-a) z.B. ⟪द्विप⟫ m. "Elefant (zweimal trinkend)"
+\-⟪प⟫ 3 "drinking" (p-a) e.g. ⟪द्विप⟫ m. "elephant (drinking twice)"
 
-\-⟪प⟫ 3 "schützend" (p-a) z.B. ⟪भूप⟫ "die Erde schützend = König"
+\-⟪प⟫ 3 "protecting" (p-a) e.g. ⟪भूप⟫ "protecting the earth = king"
 
-\-⟪स्थ⟫ 3 "stehend in, befindlich in" (sth-a) z.B. ⟪गृहस्थ⟫ m. "Haushalter, Hausvater"
+\-⟪स्थ⟫ 3 "standing in, located in" (sth-a) e.g. ⟪गृहस्थ⟫ m. "steward, housefather"
 
-\-⟪कर⟫ 3 "bewirkend, tuend" z.B. ⟪सुखकर⟫ 3 "Glück verschaffend"
+\-⟪कर⟫ 3 "causing, doing" e.g. ⟪सुखकर⟫ 3 "bringing happiness"
 
-\-⟪स्मर⟫ 3 "sich erinnernd" z.B. ⟪जातिस्मर⟫ 3 "sich früherer Geburten erinnernd"
+\-⟪स्मर⟫ 3 "remembering" e.g. ⟪जातिस्मर⟫ 3 "remembering previous births"
 :::
 ::: media
 ![](/images/lekt5102.webp)
-Abb.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt5102))
+Abb.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
+(Image source: [Details](/sh/licenses#lekt5102))
 :::
-## 51.2. Deklination der Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten
+## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
 
 ::: grammar-box
-**Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten, haben keine Stammabstufung. Die Deklination geschieht völlig regelmässig durch Anfügung der regulären Kasusendungen.**
+**Stems ending in a simple consonant (except nasal, semivowel, -s) have no stem gradation. Declension occurs completely regularly by adding the regular case endings.**
 
-**Einzige Unregelmässigkeit: im Nom.,Akk.,Vok.pl.Neutrum wird vor den Stammauslaut ein Nasal eingeschoben.**
+**Only irregularity: in Nom., Acc., Voc. pl. Neuter, a nasal is inserted before the stem ending.**
 :::
-### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
+### 51.2.1. Stems ending in non-palatal plosives
 
 ::: grammar-box
-**Es gelten die üblichen Lautveränderungsgesetze, d.h.**
-* **im Auslaut steht der entsprechende stimmlose Nichtaspirat**
-* **vor dem -su des Lok.plur wird der Auslaut zunächst durch den entsprechenden stimmlosen Nichtaspiraten ersetzt, dann treten die entsprechenden Lautveränderungen ein**
-* **vor stimmhaftem Konsonanten wird der Auslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt.**
+**The usual sound change laws apply, i.e.**
+* **in word-final position stands the corresponding voiceless non-aspirate**
+* **before -su of the locative plural, the word-final sound is first replaced by the corresponding voiceless non-aspirate, then the corresponding sound changes occur**
+* **before a voiced consonant, the word-final sound is replaced by the corresponding voiced non-aspirate.**
 :::
-Beispiele:
+Examples:
 
-⟪शत्रुजित्⟫ 3 "Feinde besiegend"
+⟪शत्रुजित्⟫ 3 "conquering enemies"
 
 ::: indent
-Maskulinum, Femininum:
+Masculine, Feminine:
 
 :::
 ::: indent
@@ -128,41 +124,41 @@ Singular:
 
 :::
 ::: indent
-Nom.Vok. ⟪शत्रुजित्⟫ (śatrujit + s)
-Akk. ⟪शत्रुजितम्⟫
+Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
+Acc. ⟪शत्रुजितम्⟫
 :::
 Plural:
 
 ::: indent
-Nom.Akk.Vok. ⟪शत्रुजितस्⟫
+Nom.Acc.Voc. ⟪शत्रुजितस्⟫
 Instr. ⟪शत्रुजिद्भिस्⟫
-Lok. ⟪शत्रुजित्सु⟫
+Loc. ⟪शत्रुजित्सु⟫
 :::
-Neutrum
+Neuter
 
 ::: indent
-Singular Nom.Akk.Vok.  ⟪शत्रुजित्⟫
-Plural Nom.Akk.Vok. :sig[⟪शत्रुजिन्ति⟫]
+Singular Nom.Acc.Voc. ⟪शत्रुजित्⟫
+Plural Nom.Acc.Voc. :sig[⟪शत्रुजिन्ति⟫]
 :::
-⟪सुयुध्⟫ 3 "gut kämpfend"
+⟪सुयुध्⟫ 3 "fighting well"
 
 ::: indent
-Singular.Nom.Vok.m.f.n. ⟪सुयुत्⟫
-u.s.w.
+Singular.Nom.Voc.m.f.n. ⟪सुयुत्⟫
+etc.
 :::
-Vollständige Paradigmen bei Kielhorn, Grammatik S. 16ff.
+Complete paradigms in Kielhorn, Grammar p. 16ff.
 
-### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
+### 51.2.2. Stems ending in palatal plosives (c, ch, j), ś, ṣ
 
 ::: grammar-box
-**Vor vokalisch anlautender Endung bleibt der Auslaut des Stammes unverändert.**
+**Before a vowel-initial ending, the stem-final sound remains unchanged.**
 
-**Vor den übrigen Endungen gilt:**
+**For all other endings:**
 
-* **auslautendes -c und -j werden durch k ersetzt und der Stamm wird dann so behandelt, als ob er auf -k auslautete**
-* **in einigen Wörtern (Liste bei Kielhorn, Grammatik S. 18) wird auslautendes -j durch -ṭ ersetzt**
-* **auslautendes -ch wird durch -ṭ ersetzt**
-* **auslautendes -ś und -ṣ werden - mit einigen Ausnahmen - durch -ṭ ersetzt. In den Ausnahmefällen werden -ś und -ṣ durch -k ersetzt**
+* **final -c and -j are replaced by k, and the stem is then treated as if it ended in -k**
+* **in some words (list in Kielhorn, Grammar p. 18), final -j is replaced by -ṭ**
+* **final -ch is replaced by -ṭ**
+* **final -ś and -ṣ are, with a few exceptions, replaced by -ṭ. In the exceptional cases, -ś and -ṣ are replaced by -k**
 
 **d. h.**
 
@@ -172,107 +168,106 @@ Vollständige Paradigmen bei Kielhorn, Grammatik S. 16ff.
 * **-ś » -ṭ oder -k**
 * **-ṣ » -ṭ oder -k**
 :::
-Beispiele:
+Primjeri:
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit redend" (⟪बहुव्रीहि⟫)
+⟪सत्यवाच्⟫ 3 "govoreći istinu" (⟪बहुव्रीहि⟫)
 
 ::: indent
-Maskulinum, Femininum:
+Muški rod, Ženski rod:
 
 :::
 ::: indent
-Singular:
+Jednina:
 
 :::
 ::: indent
-Nom.Vok. ⟪सत्यवाक्⟫
-Akk. ⟪सत्यवाचम्⟫
-Instr. ⟪सत्यवाचा⟫
+Nominativ/Vokativ ⟪सत्यवाक्⟫
+Akuzativ ⟪सत्यवाचम्⟫
+Instrumental ⟪सत्यवाचा⟫
 :::
-Plural:
+Množina:
 
 ::: indent
-Instr. ⟪सत्यवाग्भिस्⟫
-Lok. ⟪सत्यवाक्षु⟫
+Instrumental ⟪सत्यवाग्भिस्⟫
+Lokativ ⟪सत्यवाक्षु⟫
 :::
-Neutrum
+Srednji rod
 
 ::: indent
-Singular Nom.Akk.Vok. ⟪सत्यवाक्⟫
-Plural Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
+Jednina Nominativ/Akuzativ/Vokativ ⟪सत्यवाक्⟫
+Množina Nominativ/Akuzativ/Vokativ ⟪सत्यवाञ्चि⟫
 :::
-⟪शेषभुज्⟫ 3 "Speisereste essend"
+⟪शेषभुज्⟫ 3 "jedući ostatke hrane"
 
 ::: indent
-Maskulinum, Femininum:
-
-:::
-::: indent
-Singular:
+Muški rod, Ženski rod:
 
 :::
 ::: indent
-Nom.Vok. ⟪शेषभुक्⟫
-Akk. ⟪शेषभुजम्⟫
-:::
-Plural:
-
-::: indent
-Instr. ⟪शेषभुग्भिस्⟫
-Lok. ⟪शेषभुक्षु⟫
-:::
-Neutrum
-
-::: indent
-Singular Nom.Akk.Vok. ⟪शेषभुक्⟫
-Plural Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
-:::
-⟪परिव्राज्⟫ m. "Wandermönch"
-
-::: indent
-Maskulinum, Femininum:
+Jednina:
 
 :::
 ::: indent
-Singular:
+Nominativ/Vokativ ⟪शेषभुक्⟫
+Akuzativ ⟪शेषभुजम्⟫
+:::
+Množina:
+
+::: indent
+Instrumental ⟪शेषभुग्भिस्⟫
+Lokativ ⟪शेषभुक्षु⟫
+:::
+Srednji rod
+
+::: indent
+Jednina Nominativ/Akuzativ/Vokativ ⟪शेषभुक्⟫
+Množina Nominativ/Akuzativ/Vokativ ⟪शेषभुञ्जि⟫
+:::
+⟪परिव्राज्⟫ m. "lutajući monah"
+
+::: indent
+Muški rod, Ženski rod:
 
 :::
 ::: indent
-Nom.Vok. ⟪परिव्राट्⟫
-Akk. ⟪परिव्राजम्⟫
+Jednina:
+
 :::
-Plural:
+::: indent
+Nominativ/Vokativ ⟪परिव्राट्⟫
+Akuzativ ⟪परिव्राजम्⟫
+:::
+Množina:
 
 ::: indent
-Instr. ⟪परिव्राड्भिस्⟫
-Lok. ⟪परिव्राट्सु⟫
+Instrumental ⟪परिव्राड्भिस्⟫
+Lokativ ⟪परिव्राट्सु⟫
 :::
 ::: media
 ![](/images/lekt5104.webp)
-Abb.: ⟪परिव्राट्⟫
-⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt5104))
+Slika: ⟪परिव्राट् पुष्कर⟫
+(Izvor slike: [Detalji](/sh/licenses#lekt5104))
 :::
-### 51.2.3. Stämme auf -h
+### 51.2.3. Osnove na -h
 
 ::: grammar-box
-**Vor vokalisch anlautender Endung bleibt das -h unverändert.**
+**Pri vokalski početnom nastavku, -h ostaje nepromijenjen.**
 
-**Vor den übrigen Endungen**
-* **wird normalerweise das -h durch -ḍh ersetzt**
-* **lautet die zugrundeliegende Wurzel mit d- an, wird -h durch -gh ersetzt. Ebenso bei einigen anderen Wörtern wahlweise oder obligatorisch (Zusammenstellung bei Kielhorn, Grammatik §80,2)**
-* **(im Auslaut des Wurzelnomens wird -h durch -dh ersetzt)**
+**Pri preostalim nastavcima**
+* **-h se obično zamjenjuje s -ḍh**
+* **ako je osnovni korijen počeo s d-, -h se zamjenjuje s -gh. Isto tako kod nekih drugih riječi po izboru ili obavezno (pregled kod Kielhorn, Gramatika §80,2)**
+* **(na kraju korijenske riječi, -h se zamjenjuje s -dh)**
 
-**Nach diesen Ersetzungen wird der Stamm weiter behandelt, als ob  er auf -ḍh, -gh bzw. -dh auslauten würde.**
+**After these substitutions, the stem is treated further as if it ended in -ḍh, -gh or -dh respectively.**
 
-**Siehe die Paradigmen bei Kielhorn, Grammatik, S. 20f.**
+**See the paradigms in Kielhorn, Grammar, p. 20f.**
 :::
-Beispiele:
+Examples:
 
 ::: indent
-⟪गुह्⟫ 3 "verbergend"
+⟪गुह्⟫ 3 "concealing"
 
-Maskulinum, Femininum:
+Masculine, Feminine:
 
 :::
 ::: indent
@@ -280,328 +275,307 @@ Singular:
 
 :::
 ::: indent
-Nom.Vok. ⟪घुट्⟫ (Grassmannsches Hauchdissimilationsgesetz: ⟪गुढ्⟫ + s)
-Akk. ⟪गुहम्⟫
+Nom.Voc. ⟪घुट्⟫ (Grassmann's Law of Breath Dissimilation: ⟪गुढ्⟫ + s)
+Acc. ⟪गुहम्⟫
 :::
 Plural:
 
 ::: indent
 Instr. ⟪घुड्भिस्⟫
-Lok. ⟪घुट्सु⟫
+Loc. ⟪घुट्सु⟫
 :::
-⟪द्रुह्⟫ "schädigend, hassend" (wahlweise -ḍh/-gh)
+⟪द्रुह्⟫ "harming, hating" (optionally -ḍh/-gh)
 
-Maskulinum, Femininum:
+Masculine, Feminine:
 
 ::: indent
 Singular:
 
 :::
 ::: indent
-Nom.Vok. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
-Akk. ⟪द्रुहम्⟫
+Nom.Voc. ⟪ध्रुट् । ध्रुक्⟫
+Acc. ⟪द्रुहम्⟫
 :::
 Plural:
 
 ::: indent
-Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
-Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
+Instr. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
+Loc. ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
-## 51.3. Sandhi von anlautendem h-
+## 51.3. Sandhi of initial h-
 
 ::: grammar-box
-**Vor anlautendem h- wird ein vorausgehender Verschlusslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt und das anlautende h- durch den diesem Verschlusslaut entsprechenden stimmhaften Aspiraten:**
+**Before initial h-, a preceding stop is replaced by the corresponding voiced non-aspirate, and the initial h- is replaced by the voiced aspirate corresponding to that stop:**
 
 :::
 ::: indent
-⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि⟫
-
-⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
-
-⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. Sandhi of initial ch-
 
 ::: grammar-box
-**Anlautendes ch- wird nach kurzem Vokal, nach ⟪मा⟫ "nicht" und nach ⟪आ⟫ "zu" durch cch- ersetzt:**
+**Initial ch- is replaced by cch- after a short vowel, after ⟪मा⟫ "not" and after ⟪आ⟫ "to":**
 
 :::
 ::: indent
-⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
+⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
 :::
-## 51.5. -ch- im Wortinnern
+## 51.5. -ch- within the word
 
 ::: grammar-box
-**Im Wortinnern wird -ch- nach allen Vokalen durch -cch- ersetzt:**
+**Within the word, -ch- is replaced by -cch- after all vowels:**
 
 :::
 ::: indent
-z.B. ⟪छिद्⟫ » ⟪चिच्छेद⟫
+e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-## 51.6. Wortliste
+## 51.6. Word list
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
+⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). It originally occurred throughout the Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)
-Abb.:
-(Bildquelle: [Details](/licenses#lekt5105))
+Fig.:
+(Image source: [Details](/sh/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: Gast
+⟪अतिथि⟫ m.: guest
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
+⟪अभ्यन्तर⟫ 3: located inside, nearest; m. the closest relative, native
 
-⟪अरण्य⟫ n.: Wildnis, Wald
+⟪अरण्य⟫ n.: wilderness, forest
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
+⟪ऋतु⟫ m.: periodic process, season, time period, menstruation, time during which the woman is fertile and has a right to sexual intercourse with her husband.
 
 ::: note-box
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
+Regarding ⟪ऋतु⟫ see Manu III, 45-48: according to this, ⟪ऋतु⟫ lasts 16 days (according to the alternative translation: 20 days) from the beginning of menstruation; sexual intercourse is forbidden on the first four days after the onset of bleeding (according to the alternative translation: on the first eight (4 + 4) days), as well as on the 11th (or 15th) and 13th (or 18th) day. On even days the woman conceives sons, on odd days daughters. For what follows, a ⟪ऋतु⟫ of 16 days in total is assumed (not the alternative translation), as most indigenous commentaries do, which was thus the prevailing view.
 
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+Since ovulation occurs 14 days before the onset of menstruation, this determination of the fertile period nearly "guarantees" fertility for a menstrual cycle interval of 19 to 30 days. The forbidden days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th days, i.e., the probability of conception in a cycle of 28 days (the lifespan of sperm in the woman is approx. 3 days). These regulations are as it were a positive application of Knaus-Ogino.
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106))
+Fig.: ⟪ऋतुः⟫
+(Image source: [Details](/sh/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Adv.: at one place
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
+⟪जटा⟫ f.: braid of hair (ascetic's hairstyle)
 
 ::: media
 ![](/images/lekt5107.webp)
-Abb.: ⟪जटा⟫
-⟪ऋषिकेश⟫
-(Bildquelle: [Details](/licenses#lekt5107))
+Fig.: ⟪जटा ऋषिकेश⟫
+(Image source: [Details](/sh/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3: equal, comparable (⟪तृतीयया⟫)
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): dreifältig, aus drei Teilen bestehend
+⟪तरय⟫ 3 (f.: ⟪तरयी⟫): threefold, consisting of three parts
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): tödlich, todbringend, lebenslänglich
+⟪प्राणान्तिक⟫ 3 (f.: -ī): deadly, bringing death, lifelong
 
-⟪बाह्य⟫ 3: ausserhalb, draussen befindlich, fremd
+⟪बाह्य⟫ 3: outside, located outdoors, foreign
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise
+⟪भिक्षा⟫ f.: begged alms, begging food
 
-⟪मार्यादा⟫ f.: Grenze
+⟪मार्यादा⟫ f.: boundary, limit
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlassen, übriglassen
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : to leave, to abandon
 
 ::: indent
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
 Fut. ⟪शेक्ष्यति⟫
 Pass. ⟪शिष्यते⟫
-Kaus. ⟪शेषयति⟫
+Caus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : unterscheiden
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : to distinguish
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), besser sein als (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), der beste sein unter (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+Pass. ⟪विशिष्यते⟫ : to differ from (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be better than (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be the best among (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse
+⟪समान⟫ 3: of the same kind, equal, similar ; m.: contemporary
 
-⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden:
+⟪स्व⟫ 3: own, his/her/its (my, your etc.). Declined like ⟪सर्व⟫. In the Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ :sig[⟪स्⟫]⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
+Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
+Loc.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
+Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
 :::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : to scold, to blame
 
 ::: indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (zubereitetes) Fleisch
+⟪पिशित⟫ n.: (prepared) meat
 
 ::: media
 ![](/images/lekt5108.webp)
-Abb.: ⟪पिशितम्⟫
+Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Bildquelle: [Details](/licenses#lekt5108))
+(Image source: [Details](/sh/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: Darbringung, Opfer, Geschenk
+⟪उपहार⟫ m.: offering, sacrifice, gift
 
-⟪मधु⟫ n.: Honig, Süsstrank, Met (Honigwein)
+⟪मधु⟫ n.: honey, sweet drink, mead (honey wine)
 
 ::: media
 ![](/images/lekt5109.webp)
-Abb.: ⟪मधु⟫
+Fig.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Bildquelle: [Details](/licenses#lekt5109))
+(Image source: [Details](/sh/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: Fleisch
+⟪मांस⟫ n.: meat
 
-⟪मृगया⟫ f.: Jagd
+⟪मृगया⟫ f.: hunting
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Bildquelle: [Details](/licenses#lekt5110))
+Fig.: ⟪मृगया⟫
+Hunting with ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Image source: [Details](/sh/licenses#lekt5110))
 :::
-⟪शिवा⟫ f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
+⟪शिवा⟫ f.: (female) jackal (golden jackal = _Canis aureus_)
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
+Fig.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
-(Bildquelle: [Details](/licenses#lekt5111))
+(Image source: [Details](/sh/licenses#lekt5111))
 :::
-⟪रुत⟫ n.: Geschrei
+⟪रुत⟫ n.: shrieking
 
-⟪कौशिक⟫ m.: Eule
+⟪कौशिक⟫ m.: owl
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Bildquelle: [Details](/licenses#lekt5112))
+Fig.: ⟪कौशिकः⟫
+Brahma owl (_Athene brama_), Mahesana = મહેસાણા
+(Image source: [Details](/sh/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: Vogel
+⟪शकुनि⟫ m.: bird
 
-⟪श्वन्⟫ m.: Hund
+⟪श्वन्⟫ m.: dog
 
 ::: indent
-starker Stamm ⟪श्वान्⟫
-schwacher Stamm vor Vokal ⟪सुन्⟫
-schwacher Stamm vor Konsonant ⟪श्व⟫
+strong stem ⟪श्वान्⟫
+weak stem before vowel ⟪सुन्⟫
+weak stem before consonant ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
+Fig.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt5113))
+(Image source: [Details](/sh/licenses#lekt5113))
 :::
-⟪परिचित⟫ 3: vertraut, bekannt
+⟪परिचित⟫ 3: familiar, well-known
 
-⟪अटवी⟫ f.: Wald
+⟪अटवी⟫ f.: forest
 
-⟪शून्य⟫ 3: leer, öde
+⟪शून्य⟫ 3: empty, desolate
 
-⟪आपान⟫(⟪क⟫) n.: Zechgelage
+⟪आपान⟫(⟪क⟫) n.: drinking bout
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम्⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt5114))
+Fig.: ⟪आपानकम् जोधपुर⟫
+(Image source: [Details](/sh/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: roh, grausam
+⟪क्रूर⟫ 3: raw, cruel
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bestreichen, beschmieren
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : to smear, daub
 
 ::: indent
 Perf. II ⟪दिदेह⟫
 Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
-Kaus. ⟪देहयति⟫
+Caus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: poison
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
+Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5115))
+(Image source: [Details](/sh/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: Schlange
+⟪भुजंग⟫ m.: snake
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5116))
+Fig.: ⟪भुजंगः⟫
+Chain viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
+(Image source: [Details](/sh/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: Pfeil
+⟪सायक⟫ m.: arrow
 
-⟪उत्साद⟫ m.: Zugrundegehen
+⟪उत्साद⟫ m.: destruction, perishing
 
-⟪कलत्र⟫ **Neutrum**: Ehefrau, Weibchen
+⟪कलत्र⟫ **Neuter**: wife, female
 
-⟪बन्दी⟫ f.: Gefangene, Raub
+⟪बन्दी⟫ f.: captive, booty
 
-⟪योषित्⟫ f.: junge Frau, Mädchen
+⟪योषित्⟫ f.: young woman, girl
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: Blut
+⟪रुधिर⟫ n.: blood
 
-⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
+⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut
+⟪बलि⟫ m.:  payment, donation, tribute
 
-⟪मणि⟫ m.: Juwel
+⟪मणि⟫ m.: jewel
 
 ::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Bildquelle: [Details](/licenses#lekt5118))
+Fig.: ⟪मणिः⟫
+Hope Diamond from Guntur = గుంటూరు, today Smithsonian Museum of Natural History, Washington DC
+(Image source: [Details](/sh/licenses#lekt5118))
 :::
-⟪वन⟫ n.: Wald
+⟪वन⟫ n.: forest
 
-⟪मद⟫ m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: also "must" of an elephant (in [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
-(Bildquelle: [Details](/licenses#lekt5117))
+Fig.: ⟪मदः⟫
+(Image source: [Details](/sh/licenses#lekt5117))
 :::
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: also: color, red color
 
-⟪कालन⟫ n.: Wald
+⟪कालन⟫ n.: forest
 
-⟪खन्⟫ 1U ⟪खनति⟫ : graben
+⟪खन्⟫ 1U ⟪खनति⟫ : to dig
 
 ::: indent
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
-Kaus. ⟪खानयति⟫
+Caus. ⟪खानयति⟫
 PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
+Absol ⟪खनित्वा । खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, nachdenken
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : to think, to ponder
 
-⟪शबर⟫ .:  Eigenname eines nichtarischen Stammes
+⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## 51.7. Übersetzungsübung
+## 51.7. Translation Exercise
 
-⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
+⟪१⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪३⟫, ⟪९⟫ - ⟪१२ आश्रमधर्मः गृहस्तस्य स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं देवपित्रातिथिपूजा भृत्येषु त्यागः शेषभोजनं च ।९। ब्रह्मचारिणः स्वाध्यायो ऽग्निकार्याभिषे⟫:sig[⟪कौ⟫] ⟪भैक्षाव्रतित्वमाचार्ये प्राणान्तिकी वृत्तिस्तदभावे गुरुपुत्रे सब्रह्मचारिणि वा ।१०। वानप्रस्थस्य ब्रह्मचर्यं भूमौ शय्या जाटाजिनधारणमग्निहोत्राभिषे⟫:sig[⟪कौ⟫] ⟪देवतापित्रतिथिपूजा वन्यश्चाहारः ।११। प्रव्राजकस्य जितेन्द्रियत्वमनारम्भो निष्किंचनत्वं सङ्गत्यागो भैक्षाव्रतमनेकत्रारण्ये च वासो बाह्याभ्यन्तरं च शौचम् ॥१२॥⟫
 
-⟪गृहस्तस्य⟫ ⟪स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं⟫ ⟪देवपित्रातिथिपूजा⟫ ⟪भृत्येषु⟫ ⟪त्यागः⟫ ⟪शेषभोजनं⟫ ⟪च⟫ ⟪।९।⟫  
-⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫:sig[⟪कौ⟫] ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
-⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫:sig[⟪कौ⟫] ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
-⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
+Explanation: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
-Erklärung: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
-
-⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ Über die Notwendigkeit des Achtens auf den ⟪वर्नाश्रमधर्म⟫
+⟪२⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ On the necessity of paying attention to the ⟪वर्नाश्रमधर्म⟫
 
 ::: indent
-⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
-⟪राजा⟫ ⟪न⟫ ⟪व्यभिचारयेत्⟫ ⟪।स्⟫
-⟪स्वधर्मं⟫ ⟪संदधानो⟫ ⟪हि⟫
-⟪प्रेत्य⟫ ⟪चेह⟫ ⟪च⟫ ⟪नन्दति⟫ ⟪॥१६॥⟫
-⟪व्यवस्थितार्यमर्यादः⟫
-⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫
-⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
-⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
+⟪तस्मात्स्वधर्मं भूतानाम् राजा न व्यभिचारयेत् ।स् स्वधर्मं संदधानो हि प्रेत्य चेह च नन्दति ॥१६॥ व्यवस्थितार्यमर्यादः कृतवर्णाश्रमस्थितिः । त्रय्याभिरक्षितो लोकः प्रसीदति न सीदति ॥१७॥⟫
 :::
-⟪३⟫. ⟪बाण⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, S. 65ff.: Überlegungen des Papagei ⟪वैशम्पायन⟫ über das Jägerdasein:
+⟪३⟫. ⟪बाण⟫ (7th cent. CE): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ff.: Reflections of the parrot ⟪वैशम्पायन⟫ on the life of a hunter:
 
-⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
+⟪आसीच्च मे मनसि⟫ -- ⟪अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः⟫ , ⟪अहारः साधुजनगर्हितो मधुमांसादिः⟫ , ⟪श्रमो मृगया⟫ , ⟪शास्त्रं शिवारुतम्⟫ , ⟪समुपदेष्टारः सद्सतां कौशिकाः⟫ , ⟪प्रज्ञा शकुनिज्ञानम्⟫ , ⟪परिचिताः श्वानः⟫ , ⟪राज्यं शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि क्रुरकर्मसाधनानि धनूंषि⟫ , ⟪सहाया विषदिग्धमुखा भुजंगा इव सायकाः⟫ , ⟪गीतमुत्सादकारि मुग्धमृगाणाम्⟫ , ⟪कलत्राणि बन्दीगृहीताः परयोषितः⟫ , ⟪क्रूरात्मभिः शार्दूलैः सह संवासः⟫ , ⟪पशुरुधिरेण देवतार्चनम्⟫ , ⟪मांसेन बलिकर्म⟫ , ⟪चौर्येण जीवनम्⟫ , ⟪भूषणानि भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥ ४⟫. Commentary of the ⟪भानुचन्द्र⟫ (16th cent.) on the preceding section of the ⟪कादम्बरी⟫ (this exercise should be translated under the guidance of a teacher. If such is not available, it may be skipped)
 
-⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Übung sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen)
-
-⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
-
+⟪आसीच्चेति । मे मम मनसि चित्त आसीद्बभूव । खेद इति शेषः । तदेव दर्शयति⟫ -- ⟪अहो इत्यादिना । अहो इत्याश्चर्ये । एतेषां भिल्लानां जीवितं प्राणितं मोहो ऽज्ञानं प्रायं प्रचुरं यत्र तादृशम् । चः पुनरर्थे । चरितमाचरणं साधुजनैः सज्जनजनैर्गर्हितं निन्दितम् । तदेव विशेषतो दर्शयति⟫ -- ⟪तथा हीति । पुरुषेति । पुरुषस्य पुंसो यत्पिशितं मांसं तस्य य उपहारो भगवत्यै नैवेद्यदर्शनं तस्मिन्धर्मबुद्धिः श्रेयोधीः । आहार इति । आहारः प्रत्यवसानं साधुजनैर्गर्हितो निन्दितो मधुमांसादिर्मधुः मद्यं माक्षिकं वा । मांसं प्रतीतम् । ते आदौ यस्येति बहुव्रीहिः । आदिशब्दात्कन्दादिपरिग्रहः । श्रम इति । श्रमः शक्तिसाधनायासो मृगयाखेटकः । शास्त्रमिति । शिवा सृगाली तस्य रुतं शब्दितं शास्त्रमुच्चस्वरवेदपाठः । प्रबोधजनकत्वसाम्यात्तदुपमानम् । सदिति । सदसतां शुभाशुभानां समुपदेष्टारो बोधकाः कौशिका उलूकाः । प्रज्ञेति । शकुनयः पत्त्रिणस्तेषां स्थूलमहत्त्वादिना ज्ञानं तदेव प्रज्ञा विवेकबुद्धिः । परीति । श्वानः सारमेयाः परिचिता विश्वासपालत्राणि । राज्यमिति । शून्यासु जनरहितासु विन्ध्याटवीषु राज्यं स्वामित्वम् । आपानकेति । उत्सवः संतुष्टिकार्यं तदेवापानमेवापानकम् । स्वार्थे कः । पानगोष्ठिका । मित्राणीति । क्रूरं यत्कर्म तत्साधनानि तद्धेतुभूतानि धनूंष्येव चापान्येव मित्राणि सहृदः । हितचिन्तकानीति यावत् । सहाया इति । विषेण दिग्धं मुखमाननं येषामेवंविधाः सायका बाणास्त एव सहाया इष्टकार्यकर्तृत्वात्साहाय्यकारिणः । क इव । भुजंगाः सर्पा इव । एतेषां विषदिग्धमुखत्वं स्वाभाविकम् । तेषामौपाधिकमिति भावः । गीतमिति । मुग्धा अनभिज्ञा ये मृगा हरिणास्तेषामुत्साहकारि स्तब्धताविधायि गीतं गानम् । कलत्रेति । परयोषितो ऽन्यस्त्रिय एव बन्दी ग्रहकस्तद्रूपत्वेन गृहीताः स्त्रीकृताः कलत्राणि स्वपत्न्यः । क्रूरेति । क्रूरात्मभिर्दुष्टात्मभिः शार्दुलैश्चित्रकैः समं संवासः सहावस्थानम् । पश्वेति । पशवो महिषास्तेषां रुधिरेण रक्तेन देवतार्चनं देवपूजनम् । मांसेनेति । मांसेन पिशितेन बलिर्हन्तकरस्तत्कर्म तत्कृत्यम् । चौर्येणेति । चौर्येण परद्रव्यापहारेण जीवनं प्राणधारणम् । भूषणनीति । भूषणान्याभरणानि भुजंगमणयः सर्परत्नानि । पर्वतवासित्वात्तेषां ते सुलभा इति भावः । वनेति । वनकरिणामरण्यहस्तिनां मदैर्दानवारिभिरङ्गरागो विलेपनम् । यस्मिन्निति । अनिर्दिष्टनामनि कानने वने निवसन्ति निवासं कुर्वन्ति तदेव काननमशेषतः समग्रत उत्खातमुत्पाटितं मूलं मध्यभागो यस्यैवंभूतं कुर्वते विदधत इति पूर्वोक्तप्रकारेण मयि चन्तयति ध्यायति सत्येव⟫ ... ⟪॥⟫

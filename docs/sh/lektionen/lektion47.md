@@ -1,129 +1,137 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Lekcija 47"
+subtitle: "Imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-Der Imperativ (⟪लोट्⟫) bezeichnet
+Imperativ (⟪लोट्⟫) označava
 
-*   **Befehl** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt)
-*   **Vorschrift**
-*   **Forderung**
-*   **Wunsch**
-*   **Bitte**
-*   **Einladung**
-*   **Überlegung**
-*   **Frage**
+*   **Naredbu** (također se izražava gerundivom (⟪कृत्य⟫))
+*   **Propis**
+*   **Zahtjev**
+*   **Želju**
+*   **Molbu**
+*   **Pozivnicu**
+*   **Razmišljanje**
+*   **Pitanje**
 
-Die genannten Bedeutungen hat er mit dem Optativ (⟪विधिलिङ्⟫) gemeinsam.
+Navedena značenja dijeli s optativom (⟪विधिलिङ्⟫).
 
-Mit dem Imperativ drückt man auch aus:
+Imperativom se također izražava:
 
-*   **Erlaubnis**
-*   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt)
-*   **Segenswunsch**
+*   **Dopuštenje**
+*   **da je radnja na vremenu** (također se izražava gerundivom (⟪कृत्य⟫))
+*   **Blagoslov**
 :::
-Beispiele:
+Primjeri:
 
 ::: indent
-⟪एहि⟫ ⟪।⟫ "Komm!"
+⟪एहि ।⟫ "Dođi!"
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ oder Optativ : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Kommen Sie zum Dorf!"
+⟪ग्रामं भवानागच्छतु ।⟫ ili optativ: ⟪ग्रामं भवानगच्छेत् ।⟫ "Dođite u selo!"
 
-⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪वेदमधीयीय⟫ ⟪।⟫ "Ich möchte den Veda studieren."
+⟪वेदमध्ययै ।⟫ ili optativ: ⟪वेदमधीयीय ।⟫ "Želim proučavati Vedu."
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ oder Optativ:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Ich wünsche, sie mögen essen."
+⟪इच्छामि भुङ्क्तां भवान् ।⟫ ili optativ:  ⟪इच्छामि भुञ्जीत भवान् ।⟫ "Želim, neka jedu."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Sollte ich den Veda studieren?"
+⟪किं वेदमध्ययै ।⟫ ili optativ: ⟪किं वेदमधीयीय ।⟫ "Trebam li proučavati Vedu?"
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ oder Gerundiv: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Machen Sie ein Messer!" ; "Sie dürfen ein Messer machen." ; "Es ist an der Zeit, dass Sie ein Messer machen."
+⟪करोतु शस्त्रं भवान् ।⟫ ili gerundiv: ⟪भवता शस्त्रं कर्तव्यम् ।⟫ "Napravi nož!" ; "Smiješ napraviti nož." ; "Vrijeme je da napraviš nož."
 
-⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!"
+⟪चिरं जीवतु भवान् ।⟫ "Dugo neka živiš!"
 :::
 ::: grammar-box
-Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt.
+Ljubazne naredbe često se izražavaju pasivnim imperativima.
 :::
-Beispiele:
+Primjeri:
 
 ::: indent
-⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!"
+⟪भवता प्रविश्यताम् ।⟫ "Molim vas, uđite!"
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!"
+⟪निषद्यताम् ।⟫ "Molim vas, sjednite!"
 :::
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!"
+U imperativu klasičnog sanskrita, forme prve osobe su stari konjunktivni oblici. Vedska konjunkcija je prvenstveno modus koji izražava želju: "Pođimo!" "Idemo!"
 
 ::: grammar-box
-Der Imperativ wird vom Präsensstamm gebildet.
+The imperative is formed from the present stem.
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
+## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
 
-### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen
+### 47.2.1. Endings of the Imperative on thematic present stems
+
+::: grammar-box
+The imperative is formed from the present stem.
+:::
+## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
+
+### 47.2.1. Endings of the Imperative on thematic present stems
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Endungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Endings** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2nd Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3rd Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll:
+Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt when a blessing is to be expressed:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!"
+⟪भद्रो भवतात्⟫ "May you be happy!" "May he be happy!"
 
-⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!"
+⟪शुभं भवतु⟫ or ⟪शुभं भवतात्⟫ "May it be good!" "All the best!"
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
+### 47.2.2. First present class (⟪भ्वादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | ⟪भवै⟫ | ⟪भवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | ⟪भवस्व⟫ | ⟪भवध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | ⟪भ्वताम्⟫ | ⟪भवन्ताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | ⟪भवै⟫ | ⟪भवामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | ⟪भवस्व⟫ | ⟪भवध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | ⟪भ्वताम्⟫ | ⟪भवन्ताम्⟫ |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. Sixth present class (⟪तुदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | ⟪विशै⟫:br(viś-a + ai) | ⟪विशामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | ⟪विशस्व⟫ | ⟪विशध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | ⟪विशताम्⟫ | ⟪विशन्ताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | ⟪विशै⟫:br(viś-a + ai) | ⟪विशामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | ⟪विशस्व⟫ | ⟪विशध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | ⟪विशताम्⟫ | ⟪विशन्ताम्⟫ |
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
-Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/licenses#lekt4702))
+Slika: ⟪प्रविशत⟫
+Hanuman-Tempel, Delhi = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
+(Izvor slike: [Detalji](/sh/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. Fourth present class (⟪दिवादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | ⟪नृत्यै⟫ | ⟪नृत्यामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | ⟪नृत्यस्व⟫ | ⟪नृत्यध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्यन्ताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | ⟪नृत्यै⟫ | ⟪नृत्यामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | ⟪नृत्यस्व⟫ | ⟪नृत्यध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्यन्ताम्⟫ |
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/licenses#lekt4701))
+Slika: ⟪नृत्यत⟫
+(Izvor slike: [Detalji](/sh/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
+### 47.2.5. Tenth present class (⟪चुरादि⟫) and causatives
 
 ⟪चुर्⟫ 10U
 
@@ -131,9 +139,9 @@ Abb.: ⟪नृत्यत⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
 ### 47.2.6. Passiv
 
@@ -143,113 +151,109 @@ Abb.: ⟪नृत्यत⟫
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
-
-A) Übersetzen Sie:
-
-⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫
-
-⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫
-
-⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
+## 47.3. Exercise
+## 47.3. Exercise
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
+:::
+## 47.3. Exercise
 
 ::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Bildquelle: [Details](/licenses#lekt4703))
+Fig.: ⟪भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु⟫
+(Image source: [Details](/sh/licenses#lekt4703))
 :::
-⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
-
-⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
-
-⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
+⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥ प्रसीदत्वार्यः ॥५॥ आर्ये स्वागतं ते ॥६॥⟫
 
 ::: media
 ![](/images/lekt4704.webp)
-Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Bildquelle: [Details](/licenses#lekt4704))
+Fig.: ⟪आर्ये स्वागतं ते⟫
+(Image source: [Details](/sh/licenses#lekt4704))
 :::
-⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
+⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥ युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥ प्रश्नः⟫ : ⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥ तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥ भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥११॥⟫
 
-⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
+B.) Translate into Sanskrit (use the imperative):
 
-⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫
+1. I wish to be received.
 
-⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫
+2. He should be satisfied.
 
-⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
+3. We wish to call.
 
-B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ):
+4. I wish to bow down to you (⟪चतुर्थ्या⟫).
 
-1\. Ich will erhalten werden.
+5. This deed should be done.
 
-2\. Er soll zufrieden sein.
+6. They should sleep (passive construction).
 
-3\. Wir wollen rufen.
+7. My son, strive for wealth!
 
-4\. Ich will mich dir (⟪चतुर्थ्या⟫) beugen.
+8. Begin the study!
 
-5\. Diese Tat soll getan werden.
+9. Give (⟪प्र⟫-⟪यम्⟫) rice balls to the ancestors!
 
-6\. Sie sollen schlafen (Passivkonstruktion).
+10. They should rejoice!
 
-7\. Mein Sohn strebe nach Reichtum!
+11. I wish to look down upon the world.
 
-8\. Beginnt das Studium!
+12. We wish to go to Benares (⟪पद्⟫).
 
-9\. Gebt (⟪प्र⟫-⟪यम्⟫) den Ahnvätern Reisbällchen!
+13. They (pl.) should worship the gods with a sacrifice as hosts of the offering.
 
-10\. Sie sollen sich freuen!
+14\. Sing a hymn of praise!
 
-11\. Ich will auf die Welt hinabblicken.
+15\. Sons shall be born to me!
 
-12\. Wir wollen nach Benares gehen (⟪पद्⟫).
+16\. I will show you my house.
 
-13\. Sie (pl.) sollen als Opferherren die Götter mit einem Opfer verehren.
+17\. Go away from me!
 
-14\. Singe ein Loblied!
+18\. He shall be freed!
 
-15\. Söhne sollen mir geboren werden!
+19\. I will protect your wife.
 
-16\. Ich will dir mein Haus zeigen.
+20\. Die, enemy!
 
-17\. Gehe von mir weg!
+21\. Fight!
 
-18\. Er soll befreit werden!
+22\. They (pl.) may command.
 
-19\. Ich will deine Gattin behüten.
+23\. We want to live in your house.
 
-20\. Stirb, Feind!
+24\. Thus shall it happen!
 
-21\. Kämpft!
+25\. Strike the horse!
 
-22\. Sie (pl.) mögen befehlen.
+26\. They (pl.) shall wander about.
 
-23\. Wir wollen in deinem Haus wohnen.
+27\. Intoxicate yourselves!
 
-24\. So soll es geschehen!
+28\. The horse shall pull the load.
 
-25\. Schlage das Pferd!
+29\. We want to bring order to the worlds.
 
-26\. Sie (pl.) sollen umherirren.
+30\. Drink the draught!
 
-27\. Berauscht euch!
+31\. Think!
 
-28\. Das Pferd soll die Last ziehen.
+32\. They (pl.) shall be defeated!
 
-29\. Wir wollen die Welten in Ordnung bringen.
+33\. We want to be led by you.
 
-30\. Trinke den Trank!
-
-31\. Denke!
-
-32\. Sie (pl.) sollen besiegt werden!
-
-33\. Wir wollen von dir geführt werden.
-
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
+34\. May it lead to good fortune! (Blessing)
 

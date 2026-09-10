@@ -362,7 +362,7 @@ Resim: ⟪हिरण्यम्⟫
 
 ## 25.6. Alıştırma
 
->> A) [Lektion 16](lektion16.md)'dan Deklinasyon örneklerini, Tekrar alıştırması A'yı 4. Dativ (⟪चतुर्थी⟫) ve 5. Ablativ (⟪पञ्चमी⟫) ekleyerek tamamlayın. Ayrıca daha önce öğrenilen tüm formlarla Deklinasyon dizileri oluşturun
+A) [Lektion 16](lektion16.md)'dan Deklinasyon örneklerini, Tekrar alıştırması A'yı 4. Dativ (⟪चतुर्थी⟫) ve 5. Ablativ (⟪पञ्चमी⟫) ekleyerek tamamlayın. Ayrıca daha önce öğrenilen tüm formlarla Deklinasyon dizileri oluşturun
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 

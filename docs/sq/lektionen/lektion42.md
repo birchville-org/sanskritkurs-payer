@@ -1,39 +1,40 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: "Mësimi 42"
+subtitle: "Fise me -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. Fise me -ṛ
 
-### 42.1.1. Stämme mit Dehnstufe im starken Stamm
+### 42.1.1. Fise me shkallë të zgjatur në rrënën e fortë
 
 ::: grammar-box
-Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen:
+Të gjitha maskulinat me -ṛ përveç atyre të marrëdhënies së afërsisë të përmendura në 1.3. Këtu bëjnë pjesë edhe emrat e marrëdhënies së afërsisë:
 
-*   ⟪नप्तृ⟫ m. "Enkel"
-*   ⟪भर्तृ⟫ m. "Gatte (wörtl. Erhalter)"
+*   ⟪नप्तृ⟫ m. "Nip"
+*   ⟪भर्तृ⟫ m. "Bashkëshort (fjalë për fjal. Mbajtës)"
 
-Den Grossteil der hierhergehörigen Nomina bilden Nomina agentis auf das ⟪कृत्⟫-Suffix -⟪तृ⟫.
+Pjesën më të madhe të emrave që i përkasin kësaj kategorie e formojnë emrat agentivë me prapashtesën ⟪कृत्⟫ -⟪तृ⟫.
 
-**Bildung:**
+**Formimi:**
 
-*   **Starker Stamm: -ār**
-*   **Schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **Rrëna e fortë: -ār**
+*   **Rrëna e dobët**
+*   **para zanores: -r**
+*   **para bashkëtingëllores: -ṛ**
 
-Beachten Sie die unregelmässigen Bildungen (durch **rot** gekennzeichnet)!
+Kini parasysh formimet e paimtuara (të shënuara me **kuq**)!
 :::
 Maskulinum:
 
 ::: indent
-⟪दातृ⟫ m. "Geber"
+⟪दातृ⟫ m. "Dhënës"
 :::
 ::: grammar-box
 
@@ -48,78 +49,78 @@ Maskulinum:
 | ⟪सप्तमी⟫ | :sig[⟪दातरि⟫] | ⟪दातृषु⟫ |
 
 :::
-Zur Erklärung der unregelmässigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81
+Për shpjegimin e formimeve të paimtuara shih Thumb-Hauschild I,2 faq. 76-81
 
 Femininum:
 
 ::: indent
-⟪स्वसृ⟫ f. wird wie ⟪दातृ⟫ dekliniert mit Ausnahme des Akkusativ (⟪द्वितीया⟫) Plural: :sig[⟪स्वसॄस्⟫].
+⟪स्वसृ⟫ f. përkthehet si ⟪दातृ⟫ përveç Akuzativit (⟪द्वितीया⟫) Plural: :sig[⟪स्वसॄस्⟫].
 :::
-### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
+### 42.1.2. Formimi i emrave: prapashtesa ⟪कृत्⟫ -⟪तृ⟫
 
 ::: grammar-box
-Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet man Nomina agentis (Bezeichnungen für den ⟪कर्तृ⟫) zu fast jeder Wurzel bzw. Kausativstamm.
+Me prapashtesën shumë të shpeshtë ⟪कृत्⟫ -⟪तृ⟫ formohen emra agentivë (përshkrime për ⟪कर्तृ⟫) pothuajse çdo rrëze ose stam kausativ.
 
-**Bildung:**
+**Formimi:**
 
-*   **hochstufige Wurzel + -tṛ**
+*   **Rrëzë me shkallë të lartë + -tṛ**
 
-oder
+ose
 
-*   **hochstufige Wurzel / Kausativstamm + i + tṛ**
+*   **Gresi i lartë / Stemi Kausativ + i + tṛ**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪कर्तृ⟫ m. "Täter"
+⟪कर्तृ⟫ m. "Veprues"
 
-⟪जेतृ⟫ m. "Sieger"
+⟪जेतृ⟫ m. "Fitues"
 
-⟪धातृ⟫ m. "Schöpfer"
+⟪धातृ⟫ m. "Krijues"
 
-⟪रक्षितृ⟫ m. "Beschützer"
+⟪रक्षितृ⟫ m. "Mbrojtës"
 
-⟪बोधयितृ⟫ m. "Wecker"
+⟪बोधयितृ⟫ m. "Zgjues"
 :::
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
-Abb.: ⟪अयं⟫ ⟪बोधयिता⟫
-(Bildquelle: [Details](/licenses#lekt4201))
+Fig.: ⟪अयं बोधयिता⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4201))
 :::
 
 ::: grammar-box
-Selten vorkommende Neutra auf -⟪तृ⟫ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148).
+Neutrat me shpeshësi të ulët në -⟪तृ⟫ kanë një deklinim pjesërisht të veçantë (shih Kielhorn, Gramatikë § 148).
 
-Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫** (wie ⟪देवी⟫).
+Femijori për stemet në -⟪तृ⟫ përfundon në **-⟪त्री⟫** (si ⟪देवी⟫).
 
-z.B. ⟪कर्त्री⟫ f. "Täterin"
+p.sh. ⟪कर्त्री⟫ f. "Vepruese"
 :::
-### 42.1.3. Stämme mit Hochstufe im starken Stamm
+### 42.1.3. Steme me Gresi të Lartë në stemin e fortë
 
 ::: grammar-box
-Dazu gehören folgende Verwandtschaftsbezeichnungen:
+Këtu përfshihen emrat e mëposhtëm të lidhjeve familjare:
 
-*   ⟪पितृ⟫ m. "Vater"
-*   ⟪मातृ⟫ f. "Mutter"
-*   ⟪दुहितृ⟫ f. "Tochter"
-*   ⟪भ्रातृ⟫ m. "Bruder"
-*   ⟪देवृ⟫ m. "Gattenbruder (Schwager der Frau)"
-*   ⟪यातृ⟫ f. "Frau des Gattenbruders"
-*   ⟪ननान्दृ⟫ f. "Schwester des Gatten (Schwägerin der Frau)"
+*   ⟪पितृ⟫ m. "Babai"
+*   ⟪मातृ⟫ f. "Nëna"
+*   ⟪दुहितृ⟫ f. "Vajza"
+*   ⟪भ्रातृ⟫ m. "Vëllai"
+*   ⟪देवृ⟫ m. "Vëllai i bashkëshortit (vëllai i motrës së gruas)"
+*   ⟪यातृ⟫ f. "Grua e vëllait të bashkëshortit"
+*   ⟪ननान्दृ⟫ f. "Motra e bashkëshortit (vëllai i motrës së burrit)"
 
-**Bildung:**
+**Formimi:**
 
-*   **starker Stamm: -ar**
-*   **schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **stemi i fortë: -ar**
+*   **stemi i dobët**
+*   **para zanore: -r**
+*   **para konsonante: -ṛ**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪पितृ⟫ m. "Vater"
+⟪पितृ⟫ m. "Babai"
 
-⟪मातृ⟫ f. "Mutter"
+⟪मातृ⟫ f. "Nëna"
 :::
 ::: grammar-box
 
@@ -127,74 +128,72 @@ Beispiele:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪प्रथमा⟫ | ⟪पिता⟫ | :sig[⟪पितरस्⟫] | ⟪माता⟫ | :sig[⟪मातरस्⟫] |
 | ⟪द्वितीया⟫ | :sig[⟪पितरम्⟫] | ⟪पितॄन्⟫ | :sig[⟪मातरम्⟫] | ⟪मातॄस्⟫ |
-| Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
+Siç është në ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Steme në -ṛ në kompozita
 
 ::: grammar-box
-Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h.
+Si pjesë e parë e një kompoziti, emrat në -ṛ natyrisht qëndrojnë në stemin e tyre të dobët, d.m.th.
 
-*   **vor Konsonant: -ṛ**
-*   **vor Vokal: -r**
+*   **para konsonantit: -ṛ**
+*   **para zanore: -r**
 :::
-## 42.2. Wortliste
+## 42.2. Lista e fjalëve
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
+⟪प्रकृति⟫ f.: (nga ⟪कृ⟫ + ⟪प्र⟫) forma bazë, gjendje natyrore, natyrë; materja e parë, elementi i parë
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
+⟪अर्जुन⟫ m. Emër i vetes: Arjuna, njëri nga pesë bijtë e ⟪पण्डु⟫. Herou në ⟪महाभारत⟫ (shih Basham, Mrekulli fq. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : të largohesh nga, të mbash distancë nga, të ruhesh, të qëndrosh, të qëndroj
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3: i qëndrueshëm, i pranishëm
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ Adv.: dikur, më parë
 
-⟪अनेक⟫ 3: viele (nicht einige)
+⟪अनेक⟫ 3: shumë (jo disa)
 
-⟪कुमार⟫ m.: Prinz
+⟪कुमार⟫ m.: princ
 
-⟪दूत⟫ m.: Bote, Gesandter
+⟪दूत⟫ m.: meshtar, ambasador
 
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : të dërgoj
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
+⟪सकाश⟫ m.: praninë, prezencën
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ m.: shufër hiri, harë
 
-⟪बाण⟫ m.: Pfeil, Ziel
+⟪बाण⟫ m.: harë, qëllim
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : të miratojë, të premtoj; Ā: të përgjigjet, të konfirmojë, të pohojë, të njoh
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : të lëviz
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: krenari, krenar
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: i humbur në mendime
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ Adv.: ndërkohë
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ f.:  lojë, lojë
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ Adv.:  sa kohë, gjatë
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ Adv.: aq kohë
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ Adv.: dyfishtë, në dy pjesë
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : të lavdëroj, urdhëroj
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
@@ -202,166 +201,131 @@ Perf. I ⟪शशंस⟫
 Pass. ⟪शस्यते⟫  
 Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪भर्तृ⟫ m. (nga ⟪भृ⟫ "mbaj, ruaj"): Mbajtës, Ushqyes, Bashkëshort
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Bashkëshorte (⟪भार्या⟫ = Gerundiv ndaj ⟪भृ⟫ : ajo që duhet mbajtur, ajo që duhet ruajtur, e drejtuar për ushqim)
 
-::: media
-![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
-:::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪पितृ⟫ m.: Babë
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪पितृ⟫ m. Shumës: Paraardhësit meshkuj të ndjerë, d.m.th.
 
-⟪पितृ⟫ m.: Vater
+1. Babë, gjyshi, stërgjyshi
+2. Paraardhësit e njerëzimit
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+Për të dyja kryhen rituale, të quajtura ⟪श्राद्ध⟫ n. Çdo ditë i ofrohen tre paraardhës meshkuj (nga ana e babait dhe nga ana e nënës) ujë dhe, në raste të caktuara, topza orizi ose mielli (⟪पिण्ड⟫ m. "topza"). Kështu, paraardhësit marrin ushqim. Kryerja e këtij ceremoniali është një nga arsyet pse burri duhet të ketë bir. Ata që janë të lidhur përmes kësaj ⟪पिण्ड⟫-dhurate quhen ⟪सपिण्ड⟫ (ata të cilëve i përkasin ⟪पिण्ड⟫). ⟪सपिण्ड⟫ përfshin gjashtë gjenerata: tre mbrapsht (deri te stërgjyshi) dhe tri përpara (deri te nip-i madh).
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+⟪तात⟫ m.: Babo
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+⟪मातृ⟫ f.: Nëna
 
-⟪तात⟫ m.: Papa
+⟪पुत्र⟫ m.: Bir
 
-⟪मातृ⟫ f.: Mutter
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Vajzë
 
-⟪पुत्र⟫ m.:  Sohn
+⟪नप्तृ⟫ m.: Nip
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪भ्रातृ⟫ m.: Vëlla
 
-⟪नप्तृ⟫ m.: Enkel
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Motër
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪देवृ⟫ m.: Vëllai i bashkëshortit (vëlla i gruas)
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪यातृ⟫ m.: Bashkëshortja e vëllait të bashkëshortit
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪ननान्दृ⟫ f.: Motra e burrit
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪श्वसुर⟫ f.: Njëri nga prindërit e bashkëshortit (në kohët e lashta: vetëm i gruas)
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪श्वस्रू⟫ f.: Tjetri nga prindërit e bashkëshortit (deklinationi vjen më vonë)
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪मातुल⟫ m.: Vëllai i nënës (xhaxhai nga ana e nënës)
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪मातुलानी⟫ f.: Bashkëshortja e vëllait të nënës (graja e xhaxhait nga ana e nënës)
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪पितृव्य⟫ m.: Vëllai i babait (xhaxhai nga ana e babait)
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪पितामह⟫ m.: gjyshi nga ana e babait
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितामही⟫ f.: gjyshja nga ana e babait
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪मातामह⟫ m.: gjyshi nga ana e nënës
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
+⟪मातामही⟫ f.: gjyshja nga ana e nënës
 
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
+## 42.3. Ushtrimi
 
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
+Përktheni:
 
-## 42.3. Übung
-
-Übersetzen Sie:
-
-⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
-
-⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
+⟪प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥ कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥⟫
 
 ::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
-Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Bildquelle: [Details](/licenses#lekt4203))
+Fig.: ⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4203))
 :::
-⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+⟪आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥⟫
 
 ::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
-Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt4204))
+Fig.: ⟪अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4204))
 :::
-⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥ भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥ सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥६॥ भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥७॥ क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥८॥ नप्तॄणां लाभं पितैच्छत् ॥९॥⟫
 
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
+## 42.4. Ushtrimi i përkthimit
 
-⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥६॥⟫
-
-⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥७॥⟫
-
-⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥८॥⟫
-
-⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
-
-## 42.4. Übersetzungsübung
-
-:sig[⟪सीता⟫]⟪विवाहः⟫
+sig[⟪सीता⟫]⟪विवाहः पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥⟫
 
 ⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
-
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
-
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः⟫ ⟪श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ -- ⟪तस्य सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक ।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत । श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
-Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Bildquelle: [Details](/licenses#lekt4208))
+Fig.: ⟪धनुर्द्वेधा भग्नं बभूव⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4208))
 :::
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
-
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं निरवर्तयन् ॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der **rot** hervorgehobenen Ausdrücke:
+Shpjegimi i shprehjeve të theksuara me **të kuq**:
 
-:sig[⟪सीता⟫] f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: :sig[⟪सीता⟫] f. "Ackerfurche"
+⟪सीता⟫ f. Emër i veçantë: Bijë e mbretit ⟪जनक⟫ nga ⟪विदेह⟫. Ajo kisdalë nga toka, kur mbreti dikur po aratonte fushën, prandaj emri i saj: ⟪सीता⟫ f. "Gropa e arës"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Abb.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Bildquelle: [Details](/licenses#lekt4205))
+Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
+⟪मिथिला⟫ f. Em i vetës: Kryeqyteti i ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
-Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Bildquelle: [Details](/licenses#lekt4206))
+Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+⟪जनक⟫ m. Em i vetës: Mbret i ⟪विदेह गुरुतर⟫ 3: Krahasore ndaj ⟪गुरु⟫ 3: më i rëndë, shumë i rëndë
 
-⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
+⟪धनुस्⟫ Nom.Akk.sg.n. ndaj ⟪धनुस्⟫ n. "Hark"
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Bogen"
+⟪शतशस्⟫ Adv.: në qindra
 
-⟪शतशस्⟫ Adv.: zu hunderten
+⟪लङ्का⟫ f. Emra të vetës: identifikohet me Sri Lankën e sotme (ශ්‍රී ලංකාව / இலங்கை)
 
-:sig[⟪लङ्का⟫] f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert
-
-⟪रावण⟫ m. Eigennamen; Herrscher von :sig[⟪लङ्का⟫], Herrscher der ⟪राक्षस⟫.
+⟪रावण⟫ m. Emra të vetës; Sundimtar i ⟪लङ्का⟫, sundimtar i ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt4207))
+Fig.: ⟪रावणः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
+⟪अयोध्या⟫ f. Emra të vetës: Kryeqyteti i ⟪कोसल⟫ (shih hartën më lart!)
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ m. Em i vetës: Mbret i ⟪कोसल राम⟫ m. Em i vetës: Bir i ⟪दशरथ लक्ष्मन⟫ m. Em i vetës: Bir i ⟪दशरथ विश्वामित्र⟫ m. Em i vetës: ⟪ऋषि⟫, doli me ⟪राम⟫ dhe ⟪लक्ष्मन⟫ për të vrarë demonë; për këtë marrin nga ai armë magjike.
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-:sig[⟪विश्वामित्र⟫] m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen.
-
-⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Lok.Dual ndaj ⟪सीताराम⟫
 

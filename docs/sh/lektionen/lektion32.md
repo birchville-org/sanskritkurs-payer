@@ -1,34 +1,35 @@
 ---
-title: Lektion 32
+title: "Lekcija 32"
 lesson_id: 32
 status: stable
+
 ---
 
-# Lekcija 32
+# Lesson 32
 
-## 32.1. Die Vergangenheitstempora
-
-::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
-
-*   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
-*   **das Imperfekt (⟪लङ्⟫) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit**
-*   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
-
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
-:::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+## 32.1. The Past Tenses
 
 ::: grammar-box
-**Bildung:**
+**In older Sanskrit literature and among indigenous grammarians, the three past tenses are clearly distinguished in their usage:**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+*   **the Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) either simply denotes the completion of an action or refers to what happened on the current day, i.e., recent past**
+*   **the Imperfect (⟪लङ्⟫) denotes what happened before the current day, i.e., distant past**
+*   **the Perfect (⟪लिट्⟫) denotes, like the Imperfect, distant past, but unlike the Imperfect is used only for events that the speaker himself did not witness**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
-
-**Das Imperfekt hat nur den Indikativ.**
+**In classical Sanskrit literature, the three past tenses are used without distinction of meaning (exception: ⟪भारवि⟫'s poetic work ⟪किरातार्जुनीय⟫).**
 :::
-Beispiele:
+## 32.2. The Imperfect (⟪लङ्⟫)
+
+::: grammar-box
+**Formation:**
+
+**Augment a- + Present stem + Secondary ending**
+
+**The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are derived from the weak present stem.**
+
+**The Imperfect has only the Indicative mood.**
+:::
+Examples:
 
 ::: indent
 ⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
@@ -37,16 +38,16 @@ Beispiele:
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Regeln für das Augment
+## 32.3. Rules for the Augment
 
 ::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
+**1. If the augment a- precedes a root beginning with a vowel, the augment and the initial sound of the root merge to form ⟪वृद्धि⟫ of the root vowel.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
-| | 3. sg. Impf. | 3. pl. Impf. |
+| | 3. sg. Imperfect | 3. pl. Imperfect |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
@@ -54,13 +55,13 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
+**2. If prepositions precede a root, the augment a- appears immediately after the preposition and directly before the root.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
-| | 3. sg. Impf. |
+| | 3. sg. Imperfect |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
@@ -68,32 +69,32 @@ Beispiele:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. Examples of Imperfect Formation
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
+**To demonstrate the formation of forms, Ātmanepada forms are also created here for Parasmaipada roots! These artificial forms stand between \< \>.**
 :::
-### 32.4.1. Thematische Präsensklassen
+### 32.4.1. Thematic Present Classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | ⟪अभवत⟫ | ⟪अभवन्त⟫ |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | ⟪अनृत्यत⟫ | ⟪अनृत्यन्त⟫ |
 | 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | ⟪अविशत⟫ | ⟪अविशन्त⟫ |
-| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Athematic Present Classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
 | 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
@@ -102,142 +103,128 @@ Beispiele:
 | 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | ⟪आप्नुत⟫ | ⟪आप्नुवत⟫ |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. Word List
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
+**⟪अग्र⟫ n.:** tip, extreme end
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+**⟪मही⟫ f.:** earth, ground and soil (lit.: the Great One)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Fig.: ⟪चूतः⟫
+Mango tree, Kanpur.
+(Image source: [Details](/sh/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Fig.: ⟪वानराः⟫
+Monkeys (rhesus macaques) in Delhi.
+(Image source: [Details](/sh/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
+Fig.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+(Image source: [Details](/sh/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
+Fig.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+(Image source: [Details](/sh/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
+Fig.: ⟪चितं गोमयं दहति⟫
 Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+(Image source: [Details](/sh/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
+Slika: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+(Izvor slike: [Detalji](/sh/licenses#lekt3206))
 :::
-## 32.6. Übung
+## 32.6. Exercise
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and gender:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -315,29 +302,21 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Translate and resolve the compounds into Sanskrit:
 
-⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
-
-⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪स⟫ ⟪पुत्रो⟫ ⟪ऽध्ययनाय⟫ ⟪गुरुमैत्⟫ ⟪।⟫ ⟪गुरुगृहे⟫ ⟪प्रविश्य⟫ ⟪गुरुमुपातिष्ठद्गुरुश्च⟫ ⟪तं⟫ ⟪पुत्रम्⟫ ⟪ब्राह्मणमपृच्छत्⟫ ⟪।⟫ ⟪ततस्तेन⟫ ⟪पुत्रेणान्नमादयत्⟫ ⟪॥२॥⟫
-
-⟪राम⟫ ⟪आचार्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫
-
-⟪ब्राह्मणा⟫ ⟪वेदमध्यैयन्⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयन्⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫
-
-⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
+⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
 ![](/images/lekt3208.webp)
-Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
+Fig.: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt3208))
+(Image source: [Details](/sh/licenses#lekt3208))
 :::
-## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+## 32.7. Review Exercise for the Christmas Holidays
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+Note: Originally, this was held each winter semester at the University of Tübingen. With Lesson 32, the two-week Christmas holidays began.
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+A) Determine and translate the following words:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,141 +403,141 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi:
+B) Exercise on Sandhi: Insert the words in parentheses into the following sentences. Pay special attention to the sandhi rules:
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
+⟪१⟫. ⟪रामो ग्रामात्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह⟫ )
 
-⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪अरीन्हन्ति⟫ ⟪।⟫ (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
+⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪अरीन्हन्ति ।⟫ (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
 
-⟪३⟫. ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
+⟪३⟫. ⟪न हि पुण्यवन्तस्ते⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪।⟫ (⟪अरि । आर्यशत्रु⟫)
 
-⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪आद्यते⟫ ⟪।⟫ (⟪ऋषि⟫ (⟪एकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ⟪।⟫ ⟪इन्द्रदेवी⟫)
+⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया विभक्तिः⟫) ... ⟪आद्यते ।⟫ (⟪ऋषि⟫ (⟪एकवचने बहुवचने च⟫) ⟪। इन्द्रदेवी⟫)
 
-⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी⟫ ⟪विभक्तिरेकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪एति⟫ ⟪।⟫ (⟪नगर⟫)
+⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी विभक्तिरेकवचने बहुवचने च⟫) ... ⟪एति ।⟫ (⟪नगर⟫)
 
-⟪६⟫. ⟪रामो⟫ ⟪गृहे⟫ ... ⟪।⟫ (⟪आस्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪वस्⟫)
+⟪६⟫. ⟪रामो गृहे⟫ ... ⟪।⟫ (⟪आस् । इ । वस्⟫)
 
-⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪जीयते⟫ ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪उक्तानृतनर⟫ ⟪।⟫ ⟪एष⟫ ⟪नर⟫)
+⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪जीयते ।⟫ (⟪अरि । इन्द्रशत्रु । उक्तानृतनर । एष नर⟫)
 
-⟪८⟫. ⟪कविना⟫... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪स्तूयन्ते⟫ ⟪।⟫ (⟪आर्यदेव⟫ ⟪।⟫ ⟪इन्द्रादिदेव⟫)
+⟪८⟫. ⟪कविना⟫... (⟪प्रथमा विभक्तिः⟫) ... ⟪स्तूयन्ते ।⟫ (⟪आर्यदेव । इन्द्रादिदेव⟫)
 
-⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
+⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर⟫)
 
-C) Übersetzen Sie ins Sanskrit:
+C) Translate into Sanskrit:
 
-1. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
+1. After the son is born, the Brahmin woman sends a servant to the Brahman. The Brahman has this servant enter the house and then asks about the son. The servant says that the son is well. Upon hearing this, the Brahman becomes happy.
 
-2. Der Heilige hat das (ihm) getane Böse ertragen.
+2. The holy one has endured the evil done to him.
 
-3. Sittlichkeit ist des Mannes Zier.
+3. Morality is the ornament of man.
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
+4. The mighty warriors have gone to the Brahmin village.
 
-5. Das Mädchen weint.
+5. The girl weeps.
 
-6. Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+6. There is no disease like lust, there is no enemy like confusion, there is no fire like anger, there is no happiness like knowledge.
 
-7. Ein Mann, den die Göttin behütet, ist glücklich.
+7. A man protected by the goddess is happy.
 
-8. Mit welchem Wind auch immer eine Wolke Wasser (⟪वारि⟫ n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
+8. With whatever wind a cloud lets fall water (⟪वारि⟫ n.), with that wind a scholar moves his umbrella.
 
-9. Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+9. There are no fruitful activities of castes, stages of life, etc.
 
-10. Der Kreislauf der Wiedergeburten hat keinen Anfang.
+10. The cycle of rebirths has no beginning.
 
-11. Es ist Zeit, sich dem Essen zu widmen.
+11. It is time to devote oneself to eating.
 
-12. Willkommen der Königin.
+12. Welcome the queen.
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles.
+13. For the sake of heaven, people do meritorious deeds.
 
-14. Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
+14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to hell.
 
-15. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
+15. Rāma went from the village to the city by instruction of the teacher, entered the house of the holy man, stood respectfully before the saint and says: "Desist from anger!"
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+16. Always (be his) connection with those who have grown in the sciences, so that his education/good conduct may grow. (This) because education/good conduct has as its root this (the connection with such).
 
-17. Während der Lehrer steht, darf der Knabe nicht sitzen.
+17. While the teacher stands, the boy must not sit.
 
-18. Es gibt keine bessere Zuflucht als Rāma.
+18. There is no better refuge than Rāma.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19. Viṣṇumitra has Rāma send Govinda to the village.
 
-20. Govinda lässt den Devadatta Reis kochen.
+20. Govinda has Devadatta cook rice.
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
+21. The dharma of the Āryas is that young Brahmins repeatedly study the sections of the Veda and Smṛti.
 
-22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
+22. The teacher taught the boys the Veda and then went into the house.
 
-23. Welches Amulett hat das Mädchen beschützt?
+23. Which amulet has protected the girl?
 
-24. Wahrheit ist die Leuchte der Welt.
+24. Truth is the lamp of the world.
 
-25. Wem gehören diese Häuser?
+25. Whom do these houses belong to?
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
+26. The dharma of all is: non-injury, truthfulness, purity, freedom from envy, non-maliciousness, and patience.
 
-27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
+27. The Kṣatriyas who have defeated the enemies are sitting in the house.
 
-28. Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt.
+28. She is a (real) wife who speaks lovingly; but he is an (true) son who lives. He lives who possesses good qualities; he lives who possesses dharma.
 
-29. Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
+29. The lord of the gods defeats the non-Aryans, who are the enemies of Indra. (Passive)
 
-30. Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+30. Yoga of action is asceticism (tapas n.), recitation of the Veda, and servitude towards the LORD. He serves the unfolding of meditative absorption and the weakening of kleśas.
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
+31. Eating, sleeping, fear, and mating: this is a commonality of humans with animals. In dharma lies their additional peculiarity. Abandoned by dharma, they are equal to animals (Instr.).
 
-32. Die Leute werden geboren, um zu sterben.
+32. People are born in order to die.
 
-33. Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben.
+33. Hells exist because of evil. Evil has poverty as its origin. Poverty arises through non-giving.
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
+34. It is the dharma of the Kṣatriyas that the Kṣatriyas protect people from enemies.
 
-35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+35. Therefore, the three (tisras) sciences have governance as their root. Governance that has education/good conduct as its root brings benefit and secure possession to living beings (⟪प्राणभृत्⟫).
 
-36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
+36. Evil people do not listen when the teacher speaks about dharma.
 
-37. Diesem Rāma sei Verehrung!
+37. Neka se Rāma poštuje!
 
-38. Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (⟪विधि⟫) den Veda lehrte, die Erde im Wasser (fest) setzte.
+38. Uzvišeni Hari je moj put/cilj, koji (svoje) neprijatelje poslao u nebo, svojim vernicima omogućio da razumeju značenje Vede, bogovima dao besmrtnu hranu za jelo, stvoritelju (⟪विधि⟫) naučio Vedu, zemlju postavio na vodi (čvrsto).
 
-39. Viṣṇu shows himself to his devotees.
+39. Viṣṇu se pokazuje svojim posvećenima.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+40. Regimen koji nije izvođen, proizvodi normu riba.
 
-41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
+41. Ko poseduje bogatstvo, taj ima prijatelje; ko poseduje bogatstvo, taj ima rođake; ko poseduje bogatstvo, taj je čovek (⟪पुमान्⟫ Nom. sq.) u svetu; ko poseduje bogatstvo, taj je naime učeni čovek.
 
-42. Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe.
+42. Vatra koja spaljuje mrtvog, takođe spaljuje i dobru udovicu.
 
-43. Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
+43. Sluškinja brahmana je skuhala hranu i sada je jede (sada).
 
-44. Jetzt reicht's!
+44. Sada je dosta!
 
-45. Diese Frucht reicht ihm zum Essen.
+45. Ova voćka mu služi za jelo.
 
-46. Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes.
+46. Unutrašnji hramski svetište je kuća za kip boga.
 
-47. Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (⟪राजा⟫ Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes.
+47. Lopov se oslobađa krađe kaznom ili puštanjem na slobodu. Ako ga kralj (⟪राजा⟫ Nom. sg.) ne kazni, on preuzima krivicu lopova.
 
-48. Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
+48. Zbog toga što je napravio grešku u žrtvovanju, brahman nije dostojan da prima bogatstvo.
 
-49. Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (⟪उपयुज्⟫).
+49. Kada je inicijaciona ceremonija održana, treba da usvoji Vedu i filozofiju od učenjaka, ekonomiju od šefova odeljenja (⟪उपयुज्⟫).
 
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
+50. Vaiśyadharma je da se Vaišje hrane kupovinom i prodajom. Pošto je tako, sinovi Vaiśya kupuju i prodaju.
 
-51. Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
+51. Treba govoriti istinu, treba govoriti prijatno; ne treba govoriti neprijatnu istinu i ne treba govoriti ni neprijatnu neistinu. Ovo je večni Dharma.
 
-52. Auf Wiedersehen!
+52. Farewell!
 
 ::: media
 ![](/images/lekt3209.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
+Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
-(Bildquelle: [Details](/licenses#lekt3209))
+(Image source: [Details](/sh/licenses#lekt3209))
 :::
-## 32.8. Übung zur Wiederholung
+## 32.8. Review Exercise
 
-Übersetzen und bestimmen Sie folgende Wortformen:
+Translate and identify the following word forms:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,37 +580,38 @@ Indian greeting / farewell.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. Translation Exercise
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
-⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
+⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
+⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
+⟪वृद्धस्य तेषु स्पृहा जाता ।⟫:br
+⟪परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥⟫:br
+⟪दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः ।⟫:br
+⟪तानवलोक्य वृद्धः प्रहर्षं गतः ।⟫:br
+⟪स किमकरोत् ।⟫:br
+⟪स कतिचिदुपला नादाय वानरां ल्लक्ष्यीकृत्य प्राक्षिपत् ।⟫:br
+⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
+⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
+⟪अहो वृद्धस्य कौशलम् ॥⟫
 :::
-(aus: ⟪संस्कृतबालादर्श⟫)
+(from: ⟪संस्कृतबालादर्श⟫)
 
-Erklärungen:
+
+Objašnjenja:
 
 ::: indent
-⟪पथि⟫ Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmässige Deklination)
+⟪पथि⟫ Lok. sg. uz **⟪पथ्⟫ m.** "put" (nepravilna deklinacija)
 
-⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
+⟪लक्ष्यीकृ च्विऽ⟫ sufiks ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : nešto učiniti da bude ono što prije nije ⟪लक्ष्य⟫ bilo
 
-⟪आदाय⟫ Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
+⟪आदाय⟫ absolutiv uz **⟪आ⟫-⟪दा⟫** (3. klasa prezenta) "uzeti"
 :::
 ::: media
 ![](/images/lekt3210.webp)
-Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Bildquelle: [Details](/licenses#lekt3210))
+Slika: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+Majmuni u stablima mangoa.
+(Izvor slike: [Detalji](/sh/licenses#lekt3210))
 :::
 

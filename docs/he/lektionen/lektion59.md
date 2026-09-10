@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "שיעור 59"
+subtitle: "הסיומות המשניות וסיומות הציווי של הזוג (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 59

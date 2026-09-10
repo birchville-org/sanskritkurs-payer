@@ -77,7 +77,7 @@ Dari akar-akar yang telah dipelajari sejauh ini, infinitif berikut perlu diperha
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- sebagai tingkat tinggi untuk -ṛ- memiliki dalam infinitif:
+-ra- sebagai tingkat tinggi untuk -ṛ- memiliki dalam infinitif:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

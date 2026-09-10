@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Bài tập 61"
 uebung_id: 61
 category: "Übung"
 
 ---
 
-# Übung 61
+# Bài tập 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+Bài học 61 đánh dấu phần kết thúc của khóa học Sanskrit và không chứa thêm các bài tập viết nào. 
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+Với việc nghiên cứu về danh từ gốc, thì tương lai phân tích và các danh từ phái sinh, nền tảng cho việc đọc hiểu văn bản gốc Sanskrit đã được thiết lập. Khóa học kết thúc với lời cầu nguyện truyền thống đến Gaṇeśa (⟪श्रीगणनाथ⟫), đánh dấu sự chuyển tiếp từ sách giáo khoa sang việc đọc hiểu độc lập.

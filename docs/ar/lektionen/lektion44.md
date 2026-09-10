@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "الدرس 44"
+subtitle: "تكوين تصريفات الفعل للشخص الثاني (⟪मध्यमः⟫) من الجذور غير الصوتية ذات اللاحقة المنتهية بحرف متحرك"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 44

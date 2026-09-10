@@ -1,10 +1,11 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Lecziun 36"
+subtitle: "Furmas spezialas dal perfectum"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 36
@@ -109,7 +110,7 @@ Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
+Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt3601))
 :::
 
@@ -237,8 +238,8 @@ PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt3604))
+Fig.: ⟪लोमहर्षः⟫
+(Font dal maletg: [Detagl](/rm/licenses#lekt3604))
 :::
 
 ⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
@@ -432,7 +433,7 @@ Explicaziuns:
 :::
 ::: media
 ![](/images/lekt3607.webp)
-Abb.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
+Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt3607))
 :::
 2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ davart il comportament correct envers persunas veglias:

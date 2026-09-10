@@ -1,6 +1,6 @@
 ---
 title: "Ders 39"
-subtitle: 'Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**üçüncü** şahıs")'
+subtitle: 'Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**üçüncü** şahıs\")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -19,21 +19,21 @@ Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Birincil sonlar tematik kökler için** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Birincil sonlar atematik kökler için** | ^^ | ^^ | **-e** | ^^ |
-| **İkincil sonlar tematik kökler için** | **-m** | **-ma** | **-i** | **-mahi** |
-| **İkincil sonlar atematik kökler için** | **-am** | ^^ | ^^ | ^^ |
+| **Birincil sonlar tematik kökler** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Birincil sonlar atematik kökler** | ^^ | ^^ | **-e** | ^^ |
+| **İkincil sonlar tematik kökler** | **-m** | **-ma** | **-i** | **-mahi** |
+| **İkincil sonlar atematik kökler** | **-am** | ^^ | ^^ | ^^ |
 | **Optativ sonu** | ^^ | ^^ | **-a** | ^^ |
 | **Perfect sonu** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-¹ Not: Aslında tematik kökler için birincil son Ā da -e olarak kabul edilebilir, ancak burada tematik ünlü -a- analoji nedeniyle düşer. Etki, sanki son -i tematik ünlü -a-'ya ekleniyormuş gibi olur: a + i » e.
+¹ Not: Aslında tematik köklerin birincil sonu Ā da -e olarak kabul edilmelidir, ancak tematik ünlü -a- analoji nedeniyle düşer. Etki, sanki son -i tematik ünlü -a-'ya ekleniyormuş gibi olur: a + i » e.
 
 ## 39.2. Tematik present köklerinin birinci şahıs fiil formlarının oluşturulması
 
 ::: grammar-box
 **Kural:**
-**-mi, -mas, -ma, -mahe, -mahi öncesinde tematik ünlü -a- yerine -ā- gelir !!!**
+**-mi, -mas, -ma, -mahe, -mahi öncesinde tematik ünlü -a- -ā- ile değiştirilir !!!**
 :::
 ### 39.2.1. İlk present sınıfı (⟪भ्वादि⟫)
 
@@ -99,17 +99,17 @@ Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Gösterge Kiplem Şimdiki Zaman - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Kiplem Geçmiş Zaman - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Dilek Kipi - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **İndikativ Şimdiki Zaman - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **İmperfekt - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Basit Gelecek Zamanın Birinci Kişi Fiil Biçimlerinin Oluşturulması - ⟪ऌत्⟫
+## 39.3. Basit gelecek zamanın birinci şahıs fiil formlarının oluşturulması - ⟪ऌत्⟫
 
 ::: grammar-box
-**Gelecek zaman temalı bir yapıya sahiptir. Bu nedenle tematik kökler için geçerli olan kural da buraya uygulanır:**
+**Gelecek zaman tematik olarak oluşturulur. Bu nedenle tematik kökler için geçerli olan kural da buraya uygulanır:**
 
-**-mi, -mas, -mahe öneklerinden önce tema ünlüsü -a-, -ā- ile değiştirilir !!!**
+**-mi, -mas, -mahe öneklerinden önce tematik ünlü -a-, -ā- ile değiştirilir !!!**
 :::
 ### 39.3.1. ⟪अनिट्⟫-oluşturma
 
@@ -118,9 +118,9 @@ Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः�
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Gelecek Zaman - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Gelecek zaman - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
 ### 39.3.2. ⟪सेट्⟫-oluşturma
@@ -130,38 +130,38 @@ Birinci şahıs sonları (:sig[⟪तृतीयः⟫] ⟪पुरुषः�
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Gelecek Zaman - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **⟪भविष्ये⟫** | **⟪भविष्यामहे⟫** |
+| **Gelecek zaman - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **⟪भविष्ये⟫** | **⟪भविष्यामहे⟫** |
 
 :::
-## 39.4. Temalı olmayan Şimdiki Zaman Köklerinin Birinci Kişi Fiil Biçimlerinin Oluşturulması
+## 39.4. Temasız şimdiki zaman köklerinin birinci şahıs fiil formlarının oluşturulması
 
 ::: grammar-box
-**Kelime içindeki - cümle Sandhi'ye karşı olarak - ünlü ile başlayan eklerden önce**
-* **Ünlü**
-* **Yarı ünlü**
-* **Burun sesi (Nasal)**
+**Kelime içindeki - cümle sandhisinin aksine - ünlü ile**
+* **Ünsüzle**
+* **Yarı ünlüyle**
+* **Burun ünlüsüyle (nasal)**
 
-**başladığında, ünsüzler genellikle değişmeden kalır.**
+**başlayan eklerden önce, ünsüzlerin genellikle değişmeden kaldığına dikkat edin.**
 
-z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
+örn. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 :::
-### 39.4.1. İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫)
+### 39.4.1. İkinci şimdiki zaman sınıfı (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **İndikatif Şimdiki Zaman - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
-| **İmperfekt - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
-| **Optatif - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
+| **Şimdiki zaman bildirme kipi - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
+| **Geçmiş zaman - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
+| **Dilek kipi - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
 
 :::
-⟪अस्⟫ 2P
+⟪अस्⟫ 3P
 
 ::: grammar-box
 
@@ -175,8 +175,8 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
 :::
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
-Abb.: ⟪सो ऽस्मि⟫
-(Bildquelle: [Details](/tr/licenses#lekt3901))
+Resim: ⟪सो ऽस्मि⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt3901))
 :::
 ### 39.4.2. Üçüncü Şimdiki Zaman Sınıfı (⟪जुहोत्यादि⟫)
 
@@ -199,15 +199,15 @@ Abb.: ⟪सो ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Şimdiki Zaman Bildirme Kipi  - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
-| **Mükemmel Olmayan Geçmiş Zaman  - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
-| **Dilek Kipi  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
+| **İndikatif Şimdiki Zaman - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
+| **İmperfekt - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
 ### 39.4.3. Beşinci Şimdiki Zaman Sınıfı (⟪स्वादि⟫)
 
 ::: grammar-box
-**Ünlü ile biten köklerde, m- ile başlayan eklerden önce kök yapım eki (-nu) -u'sunun isteğe bağlı olarak düşmesi mümkündür.**
+**Ünlü ile biten kökler durumunda, m- ile başlayan eklerden önce çekim eki yapım soneki (-nu) -u'sü isteğe bağlı olarak düşebilir.**
 :::
 ⟪सु⟫ 5U
 
@@ -216,9 +216,9 @@ Abb.: ⟪सो ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Şimdiki Zaman Bildirme Kipi  - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
-| **Mükemmel Olmayan Geçmiş Zaman  - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
-| **Dilek Kipi  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
+| **İşaret Kipi Şimdiki Zaman - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
+| **Mükerep Kipi - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
+| **Dilek Kipi - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
 ### 39.4.4. Sekizinci Şimdiki Zaman Sınıfı (⟪तनादि⟫)
@@ -230,9 +230,9 @@ Abb.: ⟪सो ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Şimdiki Zaman Bildirme Kipi  - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
-| **Mükemmel Olmayan Geçmiş Zaman  - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
-| **Dilek Kipi  - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
+| **İşaret Kipi Şimdiki Zaman - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
+| **Mükerep Kipi - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
+| **Dilek Kipi - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
 
 :::
 ⟪कृ⟫ 8U
@@ -243,8 +243,8 @@ Abb.: ⟪सो ऽस्मि⟫
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **İşaret Kipi Şimdiki Zaman - ⟪लट्⟫** | ⟪करोमि⟫ | ⟪कुर्मस्⟫ | ⟪कुर्वे⟫ | ⟪कुर्महे⟫ |
-| **Geçmiş Zaman (Imperfekt) - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
-| **Dilek Kipi (Optatif) - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
+| **Mükerep Kipi - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
+| **Dilek Kipi - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
 ### 39.4.5. Yedinci Şimdiki Zaman Sınıfı (⟪रुधादि⟫)
@@ -257,11 +257,11 @@ Abb.: ⟪सो ऽस्मि⟫
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **İşaret Kipi Şimdiki Zaman - ⟪लट्⟫** | ⟪युनज्मि⟫ :bryu-na-j-mi | ⟪युञ्ज्मस्⟫ :bryu + n + j-mas | ⟪युञ्जे⟫ | ⟪युञ्ज्महे⟫ |
-| **Geçmiş Zaman (Imperfekt) - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
-| **Dilek Kipi (Optatif) - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
+| **Mükerep Kipi - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
+| **Dilek Kipi - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Dokuzuncu Şimdiki Zaman Sınıfı (⟪क्र्यादि⟫)
+### 39.4.6. Dokuzuncu Prezent Sınıfı (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -270,14 +270,14 @@ Abb.: ⟪सो ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **İşaret Kipi Şimdiki Zaman - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
-| **Geçmiş Zaman (Imperfekt) - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
-| **Dilek Kipi (Optatif) - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
+| **İndikativ Prezent - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
+| **İmperfekt - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
 ## 39.5. Alıştırma
 
-Aşağıdaki fiil formlarına, bu fiil formunun sayı, zaman (işaret kipi, dilek kipi) ve eylem biçimi (P, Ā, Edilgen) açısından karşılık gelen birinci şahıs formlarını oluşturun.
+Aşağıdaki fiil formlarına, bu fiil formunun sayı, zaman, kip (İndikativ, Optativ) ve eylem biçimi (P, Ā, Edilgen) açısından karşılık gelen birinci şahıs formlarını oluşturun.
 
 Örnek: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 
@@ -370,4 +370,3 @@ Aşağıdaki fiil formlarına, bu fiil formunun sayı, zaman (işaret kipi, dile
 87.  ⟪जहति⟫
 88.  ⟪अजुहवुः⟫
 89.  ⟪हरति⟫
-

@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "บทที่ 30"
+subtitle: 'กลุ่มกริยาปัจจุบันที่ 9 (⟪क्र्यादि⟫ = "⟪क्री⟫ เป็นต้น")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 30
@@ -516,4 +517,3 @@ B) จงแปลประโยคต่อไปนี้และแยก�
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

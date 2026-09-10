@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "पाठ 50"
+subtitle: "नाम निर्माण: नियमित वृद्धि"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ 50

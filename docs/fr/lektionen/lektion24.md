@@ -1,6 +1,6 @@
 ---
 title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+subtitle: "Le datif (⟪चतुर्थी⟫ = \"quatrième terminaison casuelle\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"

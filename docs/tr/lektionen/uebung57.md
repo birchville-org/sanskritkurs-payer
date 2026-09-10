@@ -45,13 +45,13 @@ Aşağıdaki formları çevirin ve belirleyin; ayrıca ilgili **Aorist** formlar
 ::: media
 ![](/images/uebung090.webp)
 Abb.: ⟪वारानास्यां गङ्गायामप्लोढ्वम्⟫
-(Bildquelle: [Details](/licenses#uebung090))
+(Görüntü kaynağı: [Details](/licenses#uebung090))
 :::
 ---
 
-## B) Wortbestimmungen
+## B) Kelime Belirlemeleri
 
->> Belirleyin ve çevirin:
+Aşağıdaki formları belirleyin ve çevirin:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |

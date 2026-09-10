@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Lecke 20"
+subtitle: "Posszív összetételek = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 20. lecke

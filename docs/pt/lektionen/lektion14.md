@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lição 14"
+subtitle: "A expressão da relação de posse por substantivos: o genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminação casual)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 14
@@ -88,16 +89,16 @@ O genitivo plural de temas que terminam em vogal é formado da seguinte maneira:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitivo Singular de radicais terminados em vogal:**
+**Genitivo singular dos temas vocálicos:**
 
 ::: grammar-box
 
-O genitivo singular dos temas de terminação vocálica é formado irregularmente e deve ser bem memorizado.
+O genitivo singular dos temas vocálicos é formado irregularmente e deve ser aprendido de cor.
 
 :::
 ::: center
 
-| Radical | Genitivo Singular |
+| Tema | Genitivo Singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,8 +106,8 @@ O genitivo singular dos temas de terminação vocálica é formado irregularment
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(ou seja, ora como kavi, ora como devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(ou seja, ora como paśu, ora como femininos dissílabos em -ū) |
 
 :::
 **Pronomes interrogativos e demonstrativos:**
@@ -121,11 +122,11 @@ O genitivo singular dos temas de terminação vocálica é formado irregularment
 | | **Genitivo Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Igualdade de forma:**
+**Identidade de formas:**
 
 ::: important
 
-Em todos os radicais nominais, com exceção dos masculinos e neutros em -a e dos pronomes, a forma do genitivo singular é idêntica à forma do ablativo (pañcamī "quinta terminação de caso") singular!
+Em todos os temas nominais, exceto nos masculinos e neutros em -a e nos pronomes, a forma do genitivo singular é idêntica à forma do ablativo (pañcamī "quinta desinência casuál") singular!
 
 Note que, em radicais terminados em consoante, o ablativo e o genitivo singular são idênticos ao acusativo plural masculino e feminino!
 
@@ -152,7 +153,7 @@ Mais sobre isso posteriormente.
 ::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1405))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1405))
 :::
 * **bala n.** (⟪बल⟫) : força, poder, vigor; força militar, exército
 * **bāla 3** (⟪बाल⟫) : jovem, infantil, tolo; m. menino
@@ -239,7 +240,7 @@ Traduza os seguintes provérbios e memorize-os:
 ::: media
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
-(Fonte da imagem: [Details](/licenses#lekt1404))
+(Fonte da imagem: [Details](/pt/licenses#lekt1404))
 :::
 ⟪२६⟫. ⟪जल⟫
 
@@ -300,7 +301,7 @@ Fig.: ⟪पुत्रवती⟫
 ::: media
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1403))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1403))
 :::
 **B) Traduza:**
 
@@ -333,5 +334,5 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 ::: media
 ![](/images/lekt1402.webp)
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1402))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1402))
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Oppitunti 55"
+subtitle: "A-aoristi (aoristi teemavokaalilla)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 55

@@ -1,6 +1,6 @@
 {
   "name": "sanskritkurs-pipeline",
-  "version": "1.7.4",
+  "version": "1.8.0",
   "description": "SSG Pipeline für Sanskritkurs",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "iconv-lite": "^0.6.3",
     "markdown-it": "^14.2.0",
     "markdown-it-container": "^4.0.0",
-    "markdown-it-extensible": "^1.1.0",
+    "markdown-it-extensible": "^1.2.1",
     "markdown-it-multimd-table": "^4.2.3",
     "turndown": "^7.2.0",
     "turndown-plugin-gfm": "^1.0.2"
@@ -32,7 +32,7 @@
     "vitepress": "^1.6.4"
   },
   "optionalDependencies": {
-    "@rollup/rollup-linux-x64-gnu": "^4.22.4",
-    "@esbuild/linux-x64": "^0.28.1"
+    "@esbuild/linux-x64": "^0.28.1",
+    "@rollup/rollup-linux-x64-gnu": "^4.22.4"
   }
 }

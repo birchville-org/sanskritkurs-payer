@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Oppitunti 20"
+subtitle: "Posessiivikomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 20

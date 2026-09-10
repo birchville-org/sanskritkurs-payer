@@ -1,43 +1,45 @@
 ---
-title: Lektion 35
+title: "Lekcija 35"
 lesson_id: 35
 status: stable
+
 ---
 
 # Lekcija 35
 
-## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+## 35.1. Perfekt Tip III: Snažni korijen visoki stupanj/dugi stupanj
 
 ::: grammar-box
-**Bildung:**
+**Formiranje:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**snažni korijen:**
+*   3.os.P: dugi stupanj
+*   2.os.P: visoki stupanj
+*   1.os.P: po izboru visoki stupanj ili dugi stupanj
 
-**schwacher Stamm:** siehe bei den Untertypen
+**slabi korijen:** vidi pod podtipovima
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+### 35.1.1. Perfekt Tip IIIa: Snažni korijen visoki stupanj/dugi stupanj, slabi korijen niski stupanj
 
 ::: grammar-box
-**Bildung:**
+**Formiranje:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe
+**slabi korijen:** niski stupanj
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant) - i/ī/u/ū
-*   (Konsonant) - ṛ
+Formira se od korijena tipova:
+*   (Suglasnik)-(Suglasnik) - i/ī/u/ū
+*   (Suglasnik) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt:
-*   -i/-ī durch -iy
-*   -u/-ū durch -uv
-*   -ṛ durch r
-Beispiele:
+Pred nastavkom koji počinje samoglasnikom zamjenjuje se:
+*   -i/-ī s -iy
+*   -u/-ū s -uv
+*   -ṛ s r
+Primjeri:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| Korijen | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
@@ -45,80 +47,83 @@ Beispiele:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. Perfekt Tip IIIb: Snažni korijen visoki stupanj/dugi stupanj, slabi korijen visoki stupanj
 
 ::: grammar-box
-**Bildung:**
+**Formiranje:**
 
 :::
 ::: indent
-**schwacher Stamm:** Hochstufe
+**slabi korijen:** visoki stupanj
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant)-ṝ
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
-Beispiele:
+Formira se od korijena tipova:
+*   (Suglasnik)-(Suglasnik)-ṝ
+*   Suglasnik-Suglasnik-ṛ (tj. korijeni na -ṛ, ako im prethode više suglasnika)
+Primjeri:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| Korijen | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. Perfect Type IV: Roots ending in -ā / -āi
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**starker Stamm:**
-*   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+**strong stem:**
+*   3rd/1st sg. P Perfect ends in -au
+*   2nd sg. P : Strong grade -ā or Weak grade -i
 
-**schwacher Stamm:**
-*   vor Konsonant: Tiefstufe -i
-*   vor Vokal: Tiefstufe Ø
+**weak stem:**
+*   before consonant: Weak grade -i
+*   before vowel: Weak grade Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+Formed from roots ending in -ā / -āi
 :::
-Beispiel:
+Example:
 
-| Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| Root | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfect Type V: Roots Consonant-a-Consonant
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**strong stem:**
+*   3.sg.P: Guṇa grade
+*   2.sg.P: Strong grade
+*   1.sg.P: optionally Strong grade or Guṇa grade
 
-**schwacher Stamm:** siehe Untertypen
+**weak stem:** see subtypes
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
+Formed from roots of the type (Consonant)-Consonant-a-Consonant
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+### 35.3.1. Perfect Type Va: weak stem Weak grade
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe
+**weak stem:** Weak grade
 :::
-Wird gebildet u.a. von den Wurzeln:
+Formed among others from the roots:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Beispiele:
+Examples:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+
+| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
@@ -127,92 +132,92 @@ Beispiele:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | ⟪ऊदे⟫ | ⟪ऊदिरे⟫ |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. Perfect Type Vb: weak stem contraction (e-type)
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
 :::
 ::: indent
-**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
-(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
+**weak stem:** no reduplication. Replacement of the root's -a- with -e-  
+(for explanation see Thumb-Hauschild 1,2 p. 286f.)
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
-Beispiel:
+Formed from roots with -a- between two simple consonants, whose initial consonant remains unchanged in the reduplication syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
+Example:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+### 35.3.3. Perfect Type Vc: Roots consonant-a-consonant. Weak stem strong grade
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**schwacher Stamm:** Hochstufe
+**weak stem:** strong grade
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
-*   die mit zwei Konsonanten beginnen
-*   die mit Guttural beginnen
-*   die mit Aspirat beginnen
-*   die mit h beginnen
+Formed from all other roots with medial -a-, i.e., roots with medial -a-
+*   that begin with two consonants
+*   that begin with a guttural
+*   that begin with an aspirate
+*   that begin with h
 
-sofern sie nicht zu Perfekt Typ Va gehören.
+provided they do not belong to Perfect Type Va.
 :::
-Beispiel:
+Example:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. Word list
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+⟪नश्⟫ 4P ⟪नश्यति⟫ : to perish, be destroyed, disappear
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**Caus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : to disappear, perish, be destroyed
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : to stride, to go
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Kaus. ⟪क्रमयति⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Fig.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Image source: [Details](/sh/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Kaus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+thereof:
+**⟪गीता⟫ f.:** song, chant
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Image source: [Details](/sh/licenses#lekt3501))
 :::
-## 35.5. Übung
+## 35.5. Exercise
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) Form the corresponding perfect forms for the following verb forms:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -228,7 +233,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmässig, nach Typ Vb!
+15. ⟪भजन्ति⟫ irregular, according to Type Vb!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -245,9 +250,9 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
-Abb.: ⟪मिमति⟫
+Fig.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Bildquelle: [Details](/licenses#lekt3503))
+(Image source: [Details](/sh/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -262,21 +267,17 @@ Market in Vadaseri, Tamil Nadu.
 40. ⟪जुह्वति⟫
 41. ⟪अहरत्⟫
 
-B) Übersetzen Sie:
+B) Translate:
 
-⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
-
-⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
+⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3504.webp)
-Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
+Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
-(Bildquelle: [Details](/licenses#lekt3504))
+(Image source: [Details](/sh/licenses#lekt3504))
 :::
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
+C) Transform the sentences of exercise B by replacing perfects with imperfects.
 

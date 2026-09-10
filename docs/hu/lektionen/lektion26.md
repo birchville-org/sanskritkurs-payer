@@ -58,7 +58,7 @@ Példák: lásd lent a Jövő időum alakját  ⟪दुह्⟫ és  ⟪ब�
 Ábr.: Hermann Grassmann
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2601))
 :::
->> ## 26.5. Wortsandhi a -m, -n előtt hangzó sziszajegy előtt
+## 26.5. Wortsandhi a -m, -n előtt hangzó sziszajegy előtt
 
 ::: grammar-box
 **Hangzó sziszajegy előtt a -n és -m helyett -ṃ- lép:**

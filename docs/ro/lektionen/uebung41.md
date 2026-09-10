@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 41"
 uebung_id: 41
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -27,7 +28,7 @@ B) Traduceți:
 ⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 „Mă refugiez la Buddha, mă refugiez la Dharma, mă refugiez la Saṅgha” — aceasta este afirmația celor care au mers la Buddha.
 
-### Exkurs: Die drei Zufluchten
+### Exkurs: Cele trei refugii
 Această triplă refugiu este decisivă pentru a avea motivația și perseverența necesare pe calea eliberării. Deoarece există numeroși învățători ai înțelepciunii, este imposibil să îi urmezi pe fiecare în parte. Trebuie să faci o alegere. Personalitatea unui învățător trebuie să inspire încredere (**Refugiu în Buddha**).
 
 Totuși, esența nu este personalitatea mântuitorului, ci doctrina eliberării, care îi permite individului să urmeze calea însuși. Trebuie să fii atât de convins de doctrină, încât să depui efortul de a-i testa autenticitatea (**Refugiu în Dharma**).
@@ -42,11 +43,11 @@ Totuși, esența nu este personalitatea mântuitorului, ci doctrina eliberării,
 ⟪४⟫. **⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वैश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 După ce a vândut mărfurile de vândut, Vaiśya fără fii a dat venitul monahilor și a primit meritul donației. Monahii au proclamat: „Această faptă este laudabilă.” Înțelepții, totuși, se îndoiesc dacă Vaiśya care acționează astfel a făcut cu adevărat ceva meritoriu.
 
-⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Învățătorii trebuie să-i învețe pe elevi; elevii trebuie să studieze cursul.
+⟪५⟫. **⟪गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥⟫**
+Elevii trebuie instruiți de către profesori; elevii trebuie să studieze programa.
 
 ::: media
 ![](/images/uebung067.jpg)
-Abb.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
-(Bildquelle: [Details](/licenses#uebung067))
+Fig.: ⟪बुद्धं शरणं गच्छामि⟫
+(Sursa imaginii: [Detalii](/licenses#uebung067))
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Lesing 3"
+subtitle: "Die nominatief enkelvoud van die vroulike geslag"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 3
@@ -79,7 +80,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī is 'n godin" = ⟪देव�
 ::: media
 ![](/images/lekt0301.webp)
 Afb.: Indra en Indrāṇī op die olifant Airavata, miniatuur, Rājasthān, 1670/80
-(Bron: [Besonderhede](/licenses#lekt0301))
+(Bron: [Besonderhede](/af/licenses#lekt0301))
 :::
 
 ::: grammar-box
@@ -106,7 +107,7 @@ Vir hierdie sandhi geld dus die volgende skema:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bron: [Besonderhede](/licenses#lekt0302))
+(Bron: [Besonderhede](/af/licenses#lekt0302))
 :::
 Aangaande hierdie sogenaamde stamgradasie, sien later!
 

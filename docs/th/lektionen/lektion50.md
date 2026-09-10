@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "บทที่ 50"
+subtitle: "การสร้างคำนาม: การเปรียบเทียบระดับปกติ"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 50

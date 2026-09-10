@@ -1,10 +1,11 @@
 ---
-title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+title: "Lecție 43"
+subtitle: "Terminațiile personale pentru a doua persoană (⟪मध्यमः⟫ = „persoana de mijloc”)"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 43

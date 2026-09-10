@@ -1,17 +1,17 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
-## Schriftübung 3
+## Rašymo pratimas 3
 
 ![](/images/schrift005.webp)
 
-## Užduotis
+## Pratimas
 
-A) Schreiben Sie in Devanāgarī:
+A) Parašykite Devanagari raštu:
 
 śivaḥ vedaḥ kaviḥ guruḥ paśuḥ devatā devī kalaśa vayaḥ yaśo śaraṭa paraśa śataśaḥ daśaśata diva kṛś yātu kaikeyī coro śṛta rūpaka roga yoga yuj yadā rāja rujati rocate lulopa loḍayitṛ
 
-B) Lesen und transliterieren Sie:
+B) Skaitykite ir transliteruokite:
 
-⟪देवः⟫ ⟪शिवः⟫ | ⟪गुरुः⟫ ⟪कविः⟫ | ⟪देवी⟫ | ⟪वेद⟫ | ⟪लोको⟫ | ⟪शृत⟫ | ⟪रजः⟫ | ⟪योगी⟫ | ⟪वदति⟫ | ⟪वलो⟫ | ⟪लोचयति⟫ | ⟪लोकपालाः⟫ | ⟪युगल⟫ | ⟪यावत्⟫ | ⟪शरः⟫ | ⟪शशी⟫ ||
+⟪देवः शिवः⟫ | ⟪गुरुः कविः⟫ | ⟪देवी⟫ | ⟪वेद⟫ | ⟪लोको⟫ | ⟪शृत⟫ | ⟪रजः⟫ | ⟪योगी⟫ | ⟪वदति⟫ | ⟪वलो⟫ | ⟪लोचयति⟫ | ⟪लोकपालाः⟫ | ⟪युगल⟫ | ⟪यावत्⟫ | ⟪शरः⟫ | ⟪शशी⟫ ||
 
 

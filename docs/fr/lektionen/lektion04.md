@@ -1,19 +1,20 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Leçon 4"
+subtitle: "Pronoms interrogatifs et pronoms démonstratifs au nominatif"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 4
 
-## 4.1. Questions partielles simples (questions mot) et réponses
+## 4.1. Questions de complément simples (questions mot) et réponses
 
 ### 4.1.1. Pronoms interrogatifs et pronoms démonstratifs
 
-#### 4.1.1.1. Interrogative pronoms (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. Pronoms interrogatifs (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
 | | Nominatif singulier | Nominatif pluriel |
@@ -25,22 +26,22 @@ status: stable
 #### 4.1.1.2. Pronoms démonstratifs (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
-| **Tribus** ||||
+| **Stems** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
+| | **tad = ⟪तद्⟫:br"il, elle, ça ; le, la, les":br(Évoqué)** | **etad = ⟪एतद्⟫:br"celui-ci, celle-ci, ceci":br(Très proche de l'interlocuteur)** | **idam = ⟪इदम्⟫:br"celui-ci, celle-ci, ceci":br(Proche)** |
 | **Nominatif singulier** ||||
-| **Neutre** | **tad = ⟪तद्⟩** | **etad = ⟪एतद्⟩** | **idam = ⟪इदम्⟩** |
-| **Masculin** | **sa, so saḥ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **eṣa, eṣo, eṣaḥ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ayam = ⟪अयम्⟩** |
-| **Féminin** | **sā = ⟪सा⟩** | **eṣā = ⟪एषा⟩** | **iyam = ⟪इयम्⟩** |
+| **Neutre** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Masculin** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Féminin** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
 | **Nominatif pluriel** ||||
-| **Neutre** | **tāni = ⟪तानि⟩** | **etāni = ⟪एतानि⟩** | **imāni = ⟪इमानि⟩** |
-| **Masculin** | **te = ⟪ते⟩** | **ete = ⟪एते⟩** | **ime = ⟪इमे⟩** |
-| **Féminin** | **tās = ⟪तास्⟩** | **etās = ⟪एतास्⟩** | **imās ⟪इमास्⟩** |
+| **Neutre** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Masculin** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Féminin** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**Pour le N. sg. masc. :**
-- **sa, eṣa** (⟪स⟩ ⟪एष⟩) se place devant tous les sons sauf **-a** bref
-- **so, eṣo** (⟪सो⟩ ⟪एषो⟩) se place devant **-a**, qui est élidé par Avagraha (omission)
-- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers)
+**Pour le Nom. sg. masc.:**
+**sa, eṣa** (⟪स एष⟫) se place devant tous les sons sauf le **-a** bref
+**so, eṣo** (⟪सो एषो⟫) se place devant **-a**, qui est élidé par avagraha (disparaît)
+**saḥ, eṣaḥ** (⟪सः एषः⟫) se place uniquement en pause (fin de phrase, fin de vers)
 
 Afin de pouvoir former des phrases avec ces pronoms (sarvanāman n.), il est encore nécessaire de connaître les règles de sandhi suivantes :
 

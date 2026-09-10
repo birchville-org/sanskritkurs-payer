@@ -115,7 +115,7 @@ Fig.: ⟪गोमयं चिकाय⟫
 (Beeldbron: [Details](/af/licenses#lekt3601))
 :::
 
-⟪⟨DEVA_19⟫⟫ 1P ⟪⟨DEVA_20⟫⟫ : stap, loop, weglop
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : stap, loop, weglop
 
 ::: indent
 Perfektief ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -418,7 +418,7 @@ Verduidelikings:
 :::
 ::: media
 ![](/images/lekt3607.webp)
-Fig.: ⟪⟨DEVA_29⟫
+Fig.: ⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫
 (Beeldbron: [Details](/af/licenses#lekt3607))
 :::
 2\. ⟪मनुस्मृति ४⟫.⟪१५४⟫ oor die korrekte gedrag teenoor bejaardes:

@@ -1,6 +1,6 @@
 ---
 title: "[Bài 38]"
-subtitle: "Lời giải của tuần"
+subtitle: "[Bài giải trong tuần]"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -353,7 +353,7 @@ từ ⟪राज⟫ :
 ::: media
 ![](/images/lekt3809.webp)
 Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/vi/licenses#lekt3809))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n.: liên quan đến ⟪कृ⟫ 8U: hành động, việc làm; công việc thiêng liêng, nghi lễ hy sinh; Karma: những gì đã làm trước đây, sẽ mang lại quả sau này (ví dụ trong tái sinh)
 
@@ -390,13 +390,13 @@ từ đó:
 ::: media
 ![](/images/lekt3810.webp)
 Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/vi/licenses#lekt3810))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
 Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/vi/licenses#lekt3811))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3811))
 :::
 ## 38.10. Bài tập
 
@@ -469,7 +469,7 @@ PPP ⟪तीर्ण⟫
 ::: media
 ![](/images/lekt3813.webp)
 Abb.: ⟪वाराणस्यां गङ्गातीरे⟫
-(Bildquelle: [Details](/vi/licenses#lekt3813))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3813))
 :::
 ⟪एकैकशस्⟫ Adv.: je einzeln
 
@@ -486,9 +486,9 @@ Inf. ⟪गणयितुम्⟫
 ::: media
 ![](/images/lekt3814.webp)
 Abb.: ⟪गणयां चक्रुः⟫
-(Bildquelle: [Details](/vi/licenses#lekt3814))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : la hét, than khóc
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -499,7 +499,7 @@ PPP ⟪क्रुष्ट⟫
 :::
 ⟪इदानीम्⟫ Adv.: jetzt
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
+⟪नूनम्⟫ Adv.: bây giờ; vậy, do đó; chắc chắn, nhất định
 
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
 
@@ -512,7 +512,7 @@ Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
 ⟪गवेषयति⟫ Denominativ: suchen
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
+⟪व्याकुल⟫ 3: hoảng hốt, bồn chồn, bối rối
 
 ⟪कोलाहल⟫ m.n.: Geschrei, Lärm
 

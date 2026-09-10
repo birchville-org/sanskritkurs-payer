@@ -15,21 +15,21 @@ hero:
 
 features:
   - title: "Globale e poliglotta"
-    details: "Completamente disponibile in oltre 20 lingue grazie a una cascata di traduzione automatizzata basata su intelligenza artificiale multilivello."
+    details: "Completamente disponibile in oltre 20 lingue grazie a una cascata di traduzione automatizzata basata su intelligenza artificiale a più livelli."
   - title: "PWA offline-first"
-    details: "L'intero corso (incluso il motore di ricerca locale) è utilizzabile su tutti i dispositivi senza una connessione internet attiva."
+    details: "L'intero corso (inclusa la ricerca locale) è utilizzabile su tutti i dispositivi senza una connessione internet attiva."
   - title: "Tipografia accademica"
-    details: "Supporto nativo per il Devanāgarī e la traslitterazione IAST con un allineamento del testo accademico rigoroso."
+    details: "Supporto nativo per Devanāgarī e traslitterazione IAST con un allineamento del testo accademico rigoroso."
 
 ---
 
 ::: note-box
 Il **corso di sanscrito** di Alois Payer è un corso completo e scientificamente fondato per l'apprendimento della lingua sanscrita e della scrittura Devanāgarī. Questa edizione digitale mette a disposizione l'intero corso in un ambiente di lettura moderno, multilingue e ricercabile.
 
-Le lingue sono state tradotte completamente in modo automatico dall'italiano tramite una cascata di IA a più livelli. I segnalazioni relative ad errori di traduzione sono molto benvenute.
+Le lingue sono state tradotte completamente in modo automatico dall' tedesco utilizzando una cascata di IA multilivello. I segnalazioni relative a errori di traduzione sono molto benvenute.
 
 **Contatto e Contributo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Wiki del Progetto](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versione corrente**: v1.7.0
+**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Editori**: Editor online disponibile tramite [QA](/qa_viewer.html){target="_blank"} (Sola lettura, Accesso protetto per la scrittura)
+**Versione corrente**: v1.7.5
 :::

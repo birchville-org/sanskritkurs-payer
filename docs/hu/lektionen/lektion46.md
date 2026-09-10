@@ -129,12 +129,12 @@ Azok a igék, amelyek ezt a típust követik:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Erhöhte Stammstufe der starken Form / Dehnungsstufe, erhöhte Stammstufe der schwachen Form
+#### 46.1.5.2. Perfekt IIIb típus: nyújtott fokú erős tő, teljes fokú gyenge tő
 
 Ilyen típusú igék:
 
-*   (Konsonáns-)(konsonáns-)-ṝ
-*   Konsonant-Konsonant-ṛ
+*   (Mássalhangzó-)(mássalhangzó-)-ṝ
+*   Mássalhangzó-mássalhangzó-ṛ
 
 ⟪पॄ⟫ 3P
 

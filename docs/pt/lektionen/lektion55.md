@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Lição 55"
+subtitle: "O aoristo em -a (Aoristo com vogal temática)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 55
@@ -91,6 +92,6 @@ Determine e traduza por escrito as seguintes formas e forme as formas correspond
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân morrendo, esboço para uma miniatura de um manuscrito para Jahângîr = جهانگير, por volta de 1618
-(Fonte da imagem: [Detalhes](/licenses#lekt5501))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5501))
 :::
 

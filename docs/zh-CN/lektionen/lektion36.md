@@ -1,6 +1,6 @@
 ---
 title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+subtitle: "完成时的特殊构成"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"

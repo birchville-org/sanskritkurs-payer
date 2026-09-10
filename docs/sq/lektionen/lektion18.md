@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "# Mësimi 18"
 lesson_id: 18
+
 ---
 
 # Mësimi 18
@@ -8,321 +9,298 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Kompozitive determinative (⟪तत्पुरुष⟫) me pjesë të parë adverbore
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können
+Si pjesë e parë (e paprekshme) adverbore mund të
 
-*   Adverbien
-*   Präpositionen
-*   Partikel
-*   andere Indeklinabilia
+*   përdoren advarbe
+*   parafjalët
+*   pjesëza
+*   indeklinabla të tjera
 
 ::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+përdoren. Këto Tatpuruṣa zakonisht i përketin klasës së Nityasamāsa = ⟪नित्यसमास⟫ (m. "kompozit i përhershëm"), d.m.th., kompozitive që nuk mund të shpalosen fare ose jo vetëm përmes fjalëve që gjenden brenda kompozitivin vetë.
 :::
-Beispiele:
+Shembuj:
 
-⟪अति⟫ "darüber hinaus":
+⟪अति⟫ "përtej kësaj":
 
 ::: indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+⟪अतिगुरु⟫ 3: jashtëzakonisht i rëndë, jashtëzakonisht i rëndësishëm
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+⟪अतिपुरुष⟫ m.: njeri i jashtëzakonshëm, superman, heroi
 
-⟪अतिस्तुति⟫ f.: übermässiges Lob
+⟪अतिस्तुति⟫ f.: lëvdata e tepërt
 
-⟪अत्युक्ति⟫ f.: übermässiges Sprechen, Übertreibung
+⟪अत्युक्ति⟫ f.: të folurit i tepërt, tepricë
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+Pjesët më të rëndësishme adverbore janë a-/an-, su-, dus-.
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
+⟪अ⟫ (para konsonantit), ⟪अन्⟫ (para zanorit): un-: qëndron në kompozitiv si zëvendësues i ⟪न⟫ "jo".
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): pavërtetësi, gënjeshtër
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: i papërbërë, i patreguar
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : një jo-brahmane, e papagëzuar
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ : një jo-perëndi, i pafuqishëm
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "mirë, mirë"; gjatë shpalosjes së kompozitivit nga komentuesit zëvendësohet me një mbiemër me kuptimin "mirë" (p.sh. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪सुकवि⟫ m.: ein guter Dichter
+⟪सुकवि⟫ m.: një poet i mirë
 
-⟪सुकृत⟫ n.: gute Tat
+⟪सुकृत⟫ n.: veprim i mirë
 
-⟪सुखादित⟫ 3: gut gekaut
+⟪सुखादित⟫ 3: i mirë fort
 
-⟪सुदुःख⟫ n.: grosses Leid
+⟪सुदुःख⟫ n.: dhimbje e madhe
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
+⟪दुस्⟫ "keq, i keq" (vini re me Sandhi!).
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
+⟪दुर्नय⟫ m.: udhëheqje e keqe, sjellje e keqe
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+⟪दुष्करण⟫ n.: veprim i keq, veprim i vështirë
 :::
-Dabei gilt folgendes Gesetz:
+Në këtë rast vlen ligji i mëposhtëm:
 
 ::: grammar-box
 
-Lautveränderung von -s in Komposita
+Ndryshimi i tingullit nga -s në kompozita
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+Përballë Saty-sandhi, vlen në fund të pjesës së parë të kompozitave:
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-s pas -i- ose -u- përpara guturalesh ose labialeve të patonifikuara » -ṣ
 
-Deshalb: ⟪दुष्करण⟫
+Prandaj: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Kompozita nga tipi ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+Kompozitat nga tipi ⟪सुकर⟫ / ⟪दुष्कर⟫ kanë kryesisht kuptimin e mundësisë pasive:
 
-Beispiele:
+Shembuj:
 
 :::
 ::: indent
-⟪सुकर⟫ 3: leicht zu tun
+⟪सुकर⟫ 3: i lehtë për t'u bërë
 
-⟪सुगम⟫ 3: leicht zu gehen
+⟪सुगम⟫ 3: i lehtë për t'u ecur
 
-⟪दुर्गम⟫ 3: schwer zu gehen
+⟪दुर्गम⟫ 3: i vështirë për t'u ecur
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+⟪सुदुर्गम⟫ 3: shumë i vështirë për t'u ecur
 :::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Kuptimet e nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+Tatpuruṣa me a- / an- mund të kenë kuptimet e mëposhtme:
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):
-::: indent
-⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-:::
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):
-::: indent
-⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
-:::
-3.  Andersheit (⟪तदन्यत्वम्⟫):
-::: indent
-⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
-:::
-4.  Kleinheit (⟪तदल्पता⟫):
-::: indent
-⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
-:::
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):
-::: indent
-⟪अकालः⟫ = Unzeit
-:::
-6.  Feindschaft (⟪निरोधः⟫):
-::: indent
-⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
-:::
+1. Ngjashmëri (⟪तत्सादृश्यम्⟫):  
+⟪अब्राह्मणः⟫ = një Kṣatriya ose Vaiśya, që mban fije të shenjtë (⟪यज्ञोपवीत⟫ n.) dhe kështu i ngjan një Brahmani, pa qenë një
+2. Mungesë, mosprani (⟪तदभावः⟫):  
+⟪अज्ञानम्⟫ = Ignorancë (mungesë e dijes)
+3. Tjetrshmëri (⟪तदन्यत्वम्⟫):  
+⟪अपटम्⟫ = diçka që nuk është material / veshje (⟪पट⟫ m: pëlhurë, veshje)
+4. Vogëlsi (⟪तदल्पता⟫):  
+⟪अनुदरम्⟫ = bark i vogël (një jo-bark)
+5. Dënim moral (⟪अप्राशास्त्यम्⟫):  
+⟪अकालः⟫ = Kohë e papërshtatshme
+6. Armiqësi (⟪निरोधः⟫):  
+⟪असुरः⟫ = Perëndi armike (sipas etimologjisë së gabuar a-sura)
 
-Folgender Vers fasst diese Bedeutungen zusammen:
+Mësimi i mëposhtëm përmbledh këto kuptime:
+
+Mësimi i mëposhtëm përmbledh këto kuptime:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+Emërtohen gjashtë kuptime të nañ (= a-/an-) ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. Kompozita verbale
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ fq. 2 radhë 14f.
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süsse des Gangeswassers durch Meerwasser.
+Një para-fjalë ndryshon me dhunë kuptimin e një rrënje, ashtu si ëmbëlsia e ujit të Gangut ndryshohet nga uji i detit.
 
 ::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+Verbet në sanskritisht mund të bashkohen me para-fjalë (⟪उपसर्ग⟩ m.). Zakonisht zbatohet Sandhi-i i fjalive. Para-fjalët mund të modifikojnë ndjeshëm kuptimin e rrënjes, prandaj në shumë raste duhet të mësohet veçmas kuptimi i një rrënje me para-fjalë. Verbet me para-fjalë mund të kenë një mënyrë tjetër (P, Ā) se sa rrënja e thjeshtë. Para një rrënje mund të vendosen njëkohësisht më shumë para-fjalë.
 
 :::
-Einige wichtige Präverbe sind:
+Disa para-fjalë të rëndësishme janë:
 
-⟪उप⟫ "zu, hin, gegen"
+⟪उप⟫ "te, drejt, kundër"
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : të shkosh drejt, të fillosh
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : të tregosh, të mësosh, të këshillosh
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : të arrish te diçka
 
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: i pajisur me (Instrumental)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : të kapësh, të arrish
 :::
-⟪प्र⟫ "vorwärts, hervor"
+⟪प्र⟫ "përpara, përpara"
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : të arrish
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : të tregosh
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : të zgjohesh, të njohësh
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : të dalësh përpara, të spikatësh, të ke pushtet mbi (Gjen., Lok. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : shpjegoj, njoftoj, shpreh
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : shpreh, emërtoj si, shpjegoj për
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : lëvdo përpara, lëvdo me zë të lartë, hyr në diskutim për diçka, filloj
 :::
-⟪वि⟫ "auseinander, weg, zer-, ver-"
+⟪वि⟫ "larg, larg, shpërbërje-, ver-"
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : shpërndahen, kalon, zhduket
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : mposht
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : zëvendësoj, çliroj
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫ : debatoj, shpjegoj detajisht, tregoj
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : harroj
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : shkatërroj, shpërbër, asgjësoj
 :::
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "bashkë, me"
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : ulen bashkë, qëndroj, jetoj
 
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫ : mblidhen bashkë, bashkohën
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : mblidhen bashkë, takohen (miqësor ose armiqësor), marrin marrëdhënie seksuale me (Akuzativ)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : lindin
 
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3: i lindur, i krijuar, bërë
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : zgjohet plotësisht (ndaj të vërtetës)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : i ndodh dikujt, arrin sukses
 
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3: i pajisur me (Instrumental)
 :::
 ::: grammar-box
 
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
+Rrënja ⟪कृ⟫ "bëj" tregon në lidhje me parafjalët ⟪सम् । उप । अप । परि⟫ edhe formën ⟪स्कृ⟫
 
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
+sam-kṛ 8 ⟪संस्करोति⟫ : përgatis, përgatis për flijim, kushtoj
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+*   PPP ⟪संस्कृत⟫ 3: i përgatitur për flijim ; ⟪संस्कृत⟫ n.: Sanskritisht: gjuha e përshtatshme për flijim ; kundërshtar ⟪प्राकृत⟫ 3: i zakonshëm, i thjeshtë ; ⟪प्राकृत⟫ n.: gjuhë e zakonshme, Prakrit (term për gjuhët popullore dhe të komunikimit, që janë të lidhura me Sanskritin)
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Formime emëruese nga kompozitat verbale
 
 ::: grammar-box
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+Nga rrënjët me para-shtesa mund të formohen emra përmes shtesave kṛt.
 
 :::
-Beispiele:
+Shembuj:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: sakrifikim, përgatitje ; Rituale kalimtare = Emërtime për ceremonitë që shoqërojnë fazat e ndryshme të jetës nga konceptimi deri në vdekje (shih përmbledhjen të shkëlqyer te Basham, Wonder faqe 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804))
+Fig.: ⟪विवाहः⟫
+Martesë = ⟪विवाह⟫ m., një ⟪संस्कारः⟫ i rëndësishëm
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: afrimi (te zjarri i sakrificës) = Ceremoni ku anëtarëve meshkuj të tre shtresave më të larta u vendos fijeja e shenjtë (⟪यज्ञोपवीत⟫ n.) dhe u psherëtihet në vesh vargu i shenjtë ⟪सावित्री⟫, të cilin ata do ta recitojnë çdo ditë në lindje dhe perëndim dielli. Për brahmanët, Ṛgveda III.62.10:
 
 ::: indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+"Le të marrim shkëlqimin më të lartë të hyjit 'Nxitës', që t'i nxisë mendimet tona."
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Përmes Upanayanës ndodh lindja e dytë, prandaj: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801))
+Fig.: ⟪उपनयनम्⟫
+"Një djalë i ri shihet gjatë ritualit të upanayanës. Fijeja e verdhë, e hollë që shkon nga sulli i majtë deri te barku është Yagnopaivta. Vini re gjithashtu rripin nga barja munja përreth barkut. Degët në dorën e djathtë (zakonisht nga pemë peepa) tregojnë hyrjen e tij në Brahmacharya."
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1801))
 :::
-## 18.4. Wortliste
+## 18.4. Fjalori i fjalëve
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
+⟪सुष्टु⟫ 3: i lartëpëlqyer, i dalluar, mirë
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
+⟪शोभन⟫ 3: i ndritshëm, i mrekullueshëm, i bukur, i mirë
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪सम⟫ 3: i barabartë, i njëjtë, i ngjashëm (me Instrumental)
 
-⟪व्याधि⟫ m.: Krankheit
+⟪व्याधि⟫ m.: sëmundje
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , mashtrues
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: njohuri
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪शूर⟫ 3: trim, heroik ; m.: heroi
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.: tingull, ton, tingull sinjali: fjalë
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.: ujë
 
-⟪उदक⟫ n.: Wasser
+⟪अन्त⟫ m.: fund, kufi
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪आदि⟫ m.: fillim
 
-⟪आदि⟫ m.: Anfang
+⟪दण्ड⟫ m.: shkop, shuplakë, dënim
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: masë, kufizim
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪सहित⟫ 3: i bashkuar, i pajisur me
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪हस्त⟫ m.: dorë
 
-⟪हस्त⟫ m.: Hand
+⟪प्रभृति⟫ f.: fillim
 
-⟪प्रभृति⟫ f.: Anfang
+## 18.5. Ushtrim
 
-## 18.5. Übung
+A) Përktheni ⟪सुभाषित⟫ në fillim të mësimit.
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+B) Përktheni Tatpuruṣa të mëposhtme:
 
-B) Übersetzen Sie folgende Tatpuruṣa:
-
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -382,11 +360,11 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Ushtrim përsëritës
 
-Bitte keine Hilfsmittel benutzen!
+Ju lutemi mos përdorni asnjë mjet ndihmës!
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Zgjidhni kompozitat e mëposhtme në sanskritisht dhe jepni sugjerime për përkthim:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -408,33 +386,32 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Bildquelle: [Details](/licenses#lekt1802))
+Fig.: ⟪मृतिसाधनी काली⟫
+1770 Printimë
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1802))
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Përktheni duke përdorur folje të klasës së 2-të të prezencit:
 
-1\. Der Brahmane preist die Göttinnen.
+1\. Brahmani e lavdëron hyjneshat.
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
+2\. Heronjtë shkojnë në fshatin e arëve në rrugën të cilën është e vështirë për t'u kaluar.
 
-3\. Die Hausmagd melkt die Kühe.
+3\. Shërbyesja e shtëpisë qumështon lopët.
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
+4\. Armikët e arëve godasin Kṣatriyas-të të fuqishëm.
 
-5\. Ein Gespenst isst keine Früchte.
+5\. Një fantazmë nuk ha fruta.
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
+6). Kështu flet ai, i cili [ka kaluar mirë rrugën e rilindjeve], me nxënësin.
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803))
+Fig.: ⟪सुगतः गन्धार⟫ shek. 1./2-të pas Krishtit
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1803))
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Jepni në sanskritisht përkufizimin e Jogas me dy mënyra: një herë duke përdorur një kompozitum, dhe një herë duke e shpërbërë atë.
 
-D) Übersetzen Sie:
+D) Përktheni:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 

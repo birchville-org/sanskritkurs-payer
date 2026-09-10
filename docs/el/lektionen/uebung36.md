@@ -3,6 +3,7 @@ title: "Άσκηση 36"
 uebung_id: 36
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -148,7 +149,7 @@ last_reconstructed: 2026-05-15
 :::
 ::: media
 !
-Abb.: ⟪जगौ⟫
-(Bildquelle: [Details](/licenses#uebung059))
+Εικ.: ⟪जगौ⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung059))
 :::
 

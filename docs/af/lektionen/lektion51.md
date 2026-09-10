@@ -37,7 +37,7 @@ a) ⟪कृत्⟫-suffix \-Ø
 
 \-⟪भुज्⟫ 3 "genietend, eet" bv. ⟪भूमिभुज्⟫ m. "koning" (⟪भूमि⟫ f. "aarde")
 
-\-⟪विद्⟫ 3 "wetend" bv. ⟪धर्मविद्⟫ 3 "die Dharma kenend"
+\-⟪विद्⟫ 3 "wetend" bv. ⟪धर्मविद्⟫ 3 "wat die Dharma ken"
 :::
 ::: media
 ![](/images/lekt5101.webp)
@@ -65,7 +65,7 @@ b) ⟪कृत्⟫-suffix -t
 \-⟪भृत्⟫ 3 "draend" bv. ⟪भूमिभृत्⟫ m. "koning"
 ::: media
 ![](/images/lekt5103.webp)
-Fig.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
+Afb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt5103))
 :::
 c) ⟪कृत्⟫ agtervoegsel -a
@@ -93,7 +93,7 @@ c) ⟪कृत्⟫ agtervoegsel -a
 :::
 ::: media
 ![](/images/lekt5102.webp)
-Fig.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
+Afb.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
 (Beeldbron: [Details](/af/licenses#lekt5102))
 :::
 ## 51.2. Deklinasie van stamwoorde wat in 'n enkele medeklinker eindig (anders as 'n neusklinker, halfvokaal of -s)
@@ -244,7 +244,7 @@ Loc. ⟪परिव्राट्सु⟫
 :::
 ::: media
 ![](/images/lekt5104.webp)
-Fig.: ⟪परिव्राट् पुष्कर⟫
+Afb.: ⟪परिव्राट् पुष्कर⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt5104))
 :::
 ### 51.2.3. Wortels wat in -h eindig
@@ -335,7 +335,7 @@ Lokatief ⟪ध्रुट्सु । ध्रुक्षु⟫
 
 ::: media
 ![](/images/lekt5105.webp)
-Fig.:
+Afb.:
 (Beeldbron: [Besonderhede](/af/licenses#lekt5105))
 :::
 ⟪अतिथि⟫ m.: gas
@@ -353,7 +353,7 @@ Aangesien ovulasie 14 dae voor die aanvang van menstruasie plaasvind, beteken hi
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Fig.: ⟪ऋतुः⟫
+Afb.: ⟪ऋतुः⟫
 (Beeldbron: [Details](/af/licenses#lekt5106))
 :::
 ⟪एकत्र⟫ Adv.: op een plek
@@ -362,7 +362,7 @@ Fig.: ⟪ऋतुः⟫
 
 ::: media
 ![](/images/lekt5107.webp)
-Fig.: ⟪जटा ऋषिकेश⟫
+Afb.: ⟪जटा ऋषिकेश⟫
 (Beeldbron: [Details](/af/licenses#lekt5107))
 :::
 ⟪तुल्य⟫ 3: dieselfde, vergelykbare (⟪तृतीयया⟫)
@@ -422,7 +422,7 @@ Kolkata = কলকাতা
 
 ::: media
 ![](/images/lekt5109.webp)
-Fig.: ⟪मधु⟫
+Afb.: ⟪मधु⟫
 Stadspaleis, ⟪उदयपुर⟫
 (Beeldbron: [Details](/af/licenses#lekt5109))
 :::
@@ -432,7 +432,7 @@ Stadspaleis, ⟪उदयपुर⟫
 
 ::: media
 ![](/images/lekt5110.webp)
-Fig.: ⟪मृगया⟫
+Afb.: ⟪मृगया⟫
 Jag met ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Beeldbron: [Besonderhede](/af/licenses#lekt5110))
 :::
@@ -440,7 +440,7 @@ Jag met ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજર
 
 ::: media
 ![](/images/lekt5111.webp)
-Fig.: ⟪शिवा⟫
+Afb.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar-wildreservaat
 (Beeldbron: [Besonderhede](/af/licenses#lekt5111))
 :::
@@ -450,7 +450,7 @@ _Canis aureus_, Kalatop Khajjiar-wildreservaat
 
 ::: media
 ![](/images/lekt5112.webp)
-Fig.: ⟪कौशिकः⟫
+Afb.: ⟪कौशिकः⟫
 Brahma-uil (_Athene brama_), Mahesana = મહેસાણા
 (Beeldbron: [Besonderhede](/af/licenses#lekt5112))
 :::
@@ -465,7 +465,7 @@ swak stam voor 'n medeklinker ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Fig.: ⟪श्वा लिङ्गं च⟫
+Afb.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Beeldbron: [Besonderhede](/af/licenses#lekt5113))
 :::
@@ -479,7 +479,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ::: media
 ![](/images/lekt5114.webp)
-Fig.: ⟪आपानकम् जोधपुर⟫
+Afb.: ⟪आपानकम् जोधपुर⟫
 (Beeldbron: [Details](/af/licenses#lekt5114))
 :::
 ⟪क्रूर⟫ 3: grof, wreed
@@ -505,7 +505,7 @@ Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5116.webp)
-Fig.: ⟪भुजंगः⟫
+Afb.: ⟪भुजंगः⟫
 Kettingadder (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Beeldbron: [Besonderhede](/af/licenses#lekt5116))
 :::
@@ -541,7 +541,7 @@ Die Hoop-diamant van Guntur = గు terwyl, nou in die Smithsonian Museum of Na
 
 ::: media
 ![](/images/lekt5117.webp)
-Fig.: ⟪मदः⟫
+Afb.: ⟪मदः⟫
 (Beeldbron: [Details](/af/licenses#lekt5117))
 :::
 ⟪राग⟫ m.: ook: kleur, rooi kleur

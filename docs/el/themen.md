@@ -4,15 +4,15 @@ outline: false
 
 ---
 
-# Grammatik Index
+# Ευρετήριο Γραμματικής
 
-Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
+Το Ευρετήριο Γραμματικής καταγράφει όλα τα γραμματικά θέματα και φαινόμενα από το μάθημα Σανσκριτικών, επιτρέποντας γρήγορη πρόσβαση σε συγκεκριμένα μαθήματα.
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
-.VPDoc {
-  padding: 32px 48px 64px !important;
+/* Προσαρμογή διάταξης για ευρετήριο πλήρους πλάτους */
+VPDoc {
+padding: 32px 48px 64px !important;
 }
 </style>

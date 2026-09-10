@@ -1,34 +1,35 @@
 ---
-title: Lektion 32
+title: "[Bài 32]"
 lesson_id: 32
 status: stable
+
 ---
 
-# Lektion 32
+# Bài 32
 
-## 32.1. Die Vergangenheitstempora
-
-::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
-
-*   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
-*   **das Imperfekt (⟪लङ्⟫) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit**
-*   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
-
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
-:::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+## 32.1. Các thì quá khứ
 
 ::: grammar-box
-**Bildung:**
+**Trong văn học Sanskrit cổ điển và theo các nhà ngữ pháp bản địa, ba thì quá khứ được phân biệt rõ ràng trong cách sử dụng:**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+*   **Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) chỉ đơn giản biểu thị sự hoàn thành của một hành động, hoặc nó biểu thị những gì đã xảy ra trong ngày hiện tại, tức là quá khứ gần**
+*   **Imperfect (⟪लङ्⟫) biểu thị những gì đã xảy ra trước ngày hiện tại, tức là quá khứ xa**
+*   **Perfect (⟪लिट्⟫) cũng biểu thị quá khứ xa như Imperfect, nhưng khác với Imperfect, nó chỉ được sử dụng cho các sự kiện mà người nói không trực tiếp chứng kiến**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
-
-**Das Imperfekt hat nur den Indikativ.**
+**Trong văn học Sanskrit cổ điển, ba thì quá khứ được sử dụng mà không có sự khác biệt về nghĩa (ngoại trừ: ⟪भारवि⟫'s bài thơ nghệ thuật ⟪किरातार्जुनीय⟫).**
 :::
-Beispiele:
+## 32.2. Thì Imperfect (⟪लङ्⟫)
+
+::: grammar-box
+**Hình thành:**
+
+**Augment a- + Gốc hiện tại + Hậu tố thứ cấp**
+
+**Ba ngôi số ít của thì Imperfect Parasmaipada được hình thành từ gốc hiện tại mạnh đối với các gốc không có âm tiết, tất cả các dạng khác được hình thành từ gốc hiện tại yếu.**
+
+**Thì Imperfect chỉ có dạng Indicative (bằng chứng).**
+:::
+Ví dụ:
 
 ::: indent
 ⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
@@ -37,12 +38,12 @@ Beispiele:
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Regeln für das Augment
+## 32.3. Quy tắc cho Augment
 
 ::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
+**1. Khi Augment a- đứng trước một gốc bắt đầu bằng nguyên âm, thì Augment và phụ âm khởi đầu của gốc hợp nhất thành ⟪वृद्धि⟫ của nguyên âm gốc.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
@@ -54,9 +55,9 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
+**2. Khi các tiền tố đứng trước một gốc động từ, thì phần mở rộng a- được đặt ngay sau các tiền tố và liền trước gốc động từ.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
@@ -68,29 +69,29 @@ Beispiele:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. Ví dụ về cách hình thành thì Quá khứ chưa hoàn thành
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
+**Để minh họa cách hình thành các dạng thức, ở đây cũng sẽ tạo ra các dạng thức Ātmanepada cho các gốc động từ Parasmaipada! Các dạng thức nhân tạo này được đặt trong dấu ngoặc nhọn \< \>.**
 :::
-### 32.4.1. Thematische Präsensklassen
+### 32.4.1. Các lớp Hiện tại có nguyên âm chủ đề
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Lớp Hiện tại | Gốc động từ:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | ⟪अभवत⟫ | ⟪अभवन्त⟫ |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | ⟪अनृत्यत⟫ | ⟪अनृत्यन्त⟫ |
 | 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | ⟪अविशत⟫ | ⟪अविशन्त⟫ |
-| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 10. / Nhân quả | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Bị động | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Các lớp Hiện tại không có nguyên âm chủ đề
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Lớp Hiện tại | Gốc động từ:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
 | 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
@@ -107,137 +108,123 @@ Beispiele:
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. Danh sách từ vựng
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
+**⟪अग्र⟫ n.:** Đỉnh, đầu mút cùng
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+**⟪मही⟫ f.:** Đất, nền tảng (nghĩa đen: Đại địa)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
 Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Cây xoài, Kanpur.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
 Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Khỉ (khỉ đuôi dài rhesus) tại Delhi.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
 Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+Đá quý phía nam Pune, Maharashtra.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
 Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+Tập bắn / bia tên, Karnataka.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+Abb.: ⟪चितं गोमयं दहति⟫
+Đốt phân bò tại Rajasthan.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
 Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+Tranh Mehndi trên tay ở Mumbai.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3206))
 :::
-## 32.6. Übung
+## 32.6. Bài tập
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+A) Xác định các dạng động từ sau và tạo thành các dạng imperfect tương ứng về ngôi, số và giống:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -315,29 +302,21 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Dịch và phân tích các từ ghép trong tiếng Sanskrit:
 
-⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
-
-⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪स⟫ ⟪पुत्रो⟫ ⟪ऽध्ययनाय⟫ ⟪गुरुमैत्⟫ ⟪।⟫ ⟪गुरुगृहे⟫ ⟪प्रविश्य⟫ ⟪गुरुमुपातिष्ठद्गुरुश्च⟫ ⟪तं⟫ ⟪पुत्रम्⟫ ⟪ब्राह्मणमपृच्छत्⟫ ⟪।⟫ ⟪ततस्तेन⟫ ⟪पुत्रेणान्नमादयत्⟫ ⟪॥२॥⟫
-
-⟪राम⟫ ⟪आचार्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫
-
-⟪ब्राह्मणा⟫ ⟪वेदमध्यैयन्⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयन्⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫
-
-⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
+⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
 ![](/images/lekt3208.webp)
-Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
-Buddhist monk in Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt3208))
+Abb.: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+Nhà sư Phật giáo tại Sri Lanka.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3208))
 :::
-## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+## 32.7. Bài tập ôn tập trong kỳ nghỉ Giáng sinh
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+Lưu ý: ban đầu, phần này được giảng dạy mỗi học kỳ mùa đông tại Đại học Tübingen. Ở Bài 32, hai tuần nghỉ Giáng sinh bắt đầu.
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+A) Xác định và dịch các từ sau:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,141 +403,141 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi:
+B) Bài tập về Sandhi: Hãy điền các từ trong ngoặc vào những câu sau. Đặc biệt chú ý đến quy tắc Sandhi:
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
+⟪१⟫. ⟪रामो ग्रामात्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह⟫ )
 
-⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪अरीन्हन्ति⟫ ⟪।⟫ (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
+⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪अरीन्हन्ति ।⟫ (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
 
-⟪३⟫. ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
+⟪३⟫. ⟪न हि पुण्यवन्तस्ते⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪।⟫ (⟪अरि । आर्यशत्रु⟫)
 
-⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪आद्यते⟫ ⟪।⟫ (⟪ऋषि⟫ (⟪एकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ⟪।⟫ ⟪इन्द्रदेवी⟫)
+⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया विभक्तिः⟫) ... ⟪आद्यते ।⟫ (⟪ऋषि⟫ (⟪एकवचने बहुवचने च⟫) ⟪। इन्द्रदेवी⟫)
 
-⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी⟫ ⟪विभक्तिरेकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪एति⟫ ⟪।⟫ (⟪नगर⟫)
+⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी विभक्तिरेकवचने बहुवचने च⟫) ... ⟪एति ।⟫ (⟪नगर⟫)
 
-⟪६⟫. ⟪रामो⟫ ⟪गृहे⟫ ... ⟪।⟫ (⟪आस्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪वस्⟫)
+⟪६⟫. ⟪रामो गृहे⟫ ... ⟪।⟫ (⟪आस् । इ । वस्⟫)
 
-⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪जीयते⟫ ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪उक्तानृतनर⟫ ⟪।⟫ ⟪एष⟫ ⟪नर⟫)
+⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪जीयते ।⟫ (⟪अरि । इन्द्रशत्रु । उक्तानृतनर । एष नर⟫)
 
-⟪८⟫. ⟪कविना⟫... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪स्तूयन्ते⟫ ⟪।⟫ (⟪आर्यदेव⟫ ⟪।⟫ ⟪इन्द्रादिदेव⟫)
+⟪८⟫. ⟪कविना⟫... (⟪प्रथमा विभक्तिः⟫) ... ⟪स्तूयन्ते ।⟫ (⟪आर्यदेव । इन्द्रादिदेव⟫)
 
-⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
+⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर⟫)
 
-C) Übersetzen Sie ins Sanskrit:
+C) Dịch sang tiếng Phạn:
 
-1. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
+1. Sau khi đứa con được sinh ra, người phụ nữ Brahman gửi một đầy tớ đến gặp vị Brahmana. Vị Brahmana cho phép đầy tớ này bước vào nhà và sau đó hỏi về đứa con. Người đầy tớ nói rằng đứa con vẫn khỏe mạnh. Khi nghe điều này, vị Brahmana trở nên vui mừng.
 
-2. Der Heilige hat das (ihm) getane Böse ertragen.
+2. Vị Thánh nhân đã chịu đựng điều ác (được thực hiện đối với) ngài.
 
-3. Sittlichkeit ist des Mannes Zier.
+3. Đạo đức là vẻ đẹp của người đàn ông.
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
+4. Những chiến binh mạnh mẽ đã đi đến làng Brahman.
 
 5. Das Mädchen weint.
 
-6. Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+6. Không có bệnh tật nào sánh bằng dục lạc, không có kẻ thù nào sánh bằng sự hoang mang, không có ngọn lửa nào sánh bằng sân hận, không có hạnh phúc nào sánh bằng trí tuệ.
 
-7. Ein Mann, den die Göttin behütet, ist glücklich.
+7. Một người được nữ thần bảo vệ thì hạnh phúc.
 
-8. Mit welchem Wind auch immer eine Wolke Wasser (⟪वारि⟫ n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
+8. Mây nào rơi nước bởi gió nào, thì học giả cũng lay chuyển ô của mình bởi gió ấy.
 
-9. Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+9. Không có những hành động mang lại kết quả từ các giai cấp, các giai đoạn đời sống, v.v.
 
-10. Der Kreislauf der Wiedergeburten hat keinen Anfang.
+10. Vòng luân hồi tái sinh không có khởi đầu.
 
-11. Es ist Zeit, sich dem Essen zu widmen.
+11. Đã đến lúc dành thời gian cho việc ăn uống.
 
-12. Willkommen der Königin.
+12. Chào đón Nữ hoàng.
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles.
+13. Vì trời mà con người làm điều thiện.
 
-14. Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
+14. Một người vì kiêu ngạo, tham lam, sân hận, hoặc sợ hãi mà phán xét sai lầm thì sẽ đọa vào địa ngục.
 
-15. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
+15. Rāma theo chỉ thị của thầy rời làng vào thành, bước vào nhà bậc thánh, cung kính đảnh lễ bậc thánh và nói: "Hãy bỏ sân hận!"
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+16. Luôn (hãy) kết nối với những người đã trưởng thành trong các khoa học, để sự giáo dục/lành mạnh của anh ta phát triển. (Điều) này bởi vì sự giáo dục/lành mạnh có gốc rễ từ điều này (sự kết nối với những người như vậy).
 
-17. Während der Lehrer steht, darf der Knabe nicht sitzen.
+17. Khi thầy đứng, học trò không được ngồi.
 
-18. Es gibt keine bessere Zuflucht als Rāma.
+18. Không có nơi nương tựa nào tốt hơn Rāma.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19. Viṣṇumitra sai Rāma đưa Govinda về làng.
 
-20. Govinda lässt den Devadatta Reis kochen.
+20. Govinda bảo Devadatta nấu cơm.
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
+21. Pháp của người Aryan là các Brahman trẻ luôn luôn nghiên cứu các phần của Veda và Smṛti.
 
-22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
+22. Giáo viên dạy các em trai Veda rồi sau đó về nhà.
 
-23. Welches Amulett hat das Mädchen beschützt?
+23. Bùa hộ mệnh nào đã bảo vệ cô bé?
 
-24. Wahrheit ist die Leuchte der Welt.
+24. Chân lý là ngọn đèn soi sáng thế gian.
 
-25. Wem gehören diese Häuser?
+25. Những ngôi nhà này thuộc về ai?
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
+26. Pháp của tất cả mọi người là: bất hại, chân thật, thanh tịnh, không ghen tị, không độc ác và kiên nhẫn.
 
-27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
+27. Những Kṣatriyas đã đánh bại kẻ thù đang ngồi trong nhà.
 
-28. Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt.
+28. Người vợ (thực sự) là người nói lời yêu thương; còn con trai (chân chính) là người biết sống. Người biết sống là người có những phẩm chất tốt đẹp; người biết sống là người có Pháp.
 
-29. Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
+29. Thiên chủ đánh bại những kẻ phi Aryan, là kẻ thù của Indra. (Bị động)
 
-30. Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+30. Yoga của hành động là khổ hạnh (tapas n.), tụng đọc Veda, và sự phục tùng đối với CHÚA TỂ. Ngài giúp phát triển trạng thái thiền định sâu sắc và làm suy yếu các kleśas (phiền não).
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
+31. Ăn uống, ngủ nghỉ, sợ hãi và giao phối: đây là điểm chung giữa con người và động vật. Trong Pháp (Dharma) chính là đặc tính bổ sung của chúng. Bị bỏ rơi bởi Pháp, chúng giống như động vật (Danh cách).
 
-32. Die Leute werden geboren, um zu sterben.
+32. Con người được sinh ra để chết đi.
 
-33. Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben.
+33. Địa ngục tồn tại do cái ác. Cái ác có nguồn gốc từ nghèo khó. Nghèo khó sinh ra từ việc không cho đi.
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
+34. Đó là Pháp của các Kṣatriyas, rằng các Kṣatriyas bảo vệ mọi người khỏi kẻ thù.
 
-35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+35. Vì vậy, ba (tisras) khoa học có chính quyền làm gốc rễ. Chính quyền, lấy giáo dục/lối sống tốt đẹp làm gốc rễ, mang lại lợi ích và sự sở hữu an toàn cho chúng sinh (⟪प्राणभृत्⟫).
 
-36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
+36. Người xấu không lắng nghe khi giáo viên nói về Pháp.
 
-37. Diesem Rāma sei Verehrung!
+37. Xin dâng lên Rāma sự tôn kính!
 
-38. Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (⟪विधि⟫) den Veda lehrte, die Erde im Wasser (fest) setzte.
+38. Vị Hari cao quý là con đường/mục tiêu của tôi, vị đã đưa kẻ thù vào thiên đàng, khiến những người thân hiểu ý nghĩa của Veda, ban cho các vị thần thức ăn bất tử, dạy Veda cho người sáng tạo (⟪विधि⟫), và đặt trái đất vững chắc trong nước.
 
-39. Viṣṇu shows himself to his devotees.
+39. Viṣṇu hiện thân với các tín đồ của Ngài.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+40. Một quân đội không được điều hành sẽ tạo ra chuẩn mực của cá.
 
-41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
+41. Người có tài sản thì có bạn bè; người có tài sản thì có thân thích; người có tài sản thì là một con người (⟪पुमान्⟩ Nominative sq.) trên thế gian; người có tài sản thực sự là một học giả.
 
-42. Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe.
+42. Ngọn lửa thiêu đốt người chết cũng thiêu đốt góa phụ tốt lành.
 
-43. Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
+43. Người nữ tỳ của người Brahman đã nấu thức ăn và bây giờ đang ăn nó.
 
-44. Jetzt reicht's!
+44. Đủ rồi!
 
-45. Diese Frucht reicht ihm zum Essen.
+45. Quả này đủ để anh ta ăn.
 
-46. Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes.
+46. Nơi thờ tự sâu thẳm nhất là một ngôi nhà cho hình tượng của vị thần.
 
-47. Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (⟪राजा⟫ Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes.
+47. Một tên trộm được giải thoát khỏi tội trộm cắp bằng hình phạt hoặc bằng sự phóng thích. Nhưng nếu nhà vua (⟪राजा⟩ Nominative sg.) không trừng phạt (tên trộm), ông ta sẽ gánh chịu tội lỗi của kẻ trộm.
 
-48. Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
+48. Vì đã phạm sai lầm trong lễ tế, người Brahman không xứng đáng nhận tài sản.
 
-49. Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (⟪उपयुज्⟫).
+49. Sau khi nghi thức khai tâm diễn ra, anh ta nên học Veda và triết lý từ các học giả, kinh tế học từ các trưởng phòng ban (⟪उपयुज्⟩).
 
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
+50. Vaiśyadharma là việc người Vaiśyas sống bằng mua bán. Vì vậy, con trai của người Vaiśya mua và bán.
 
-51. Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
+51. Người ta nên nói sự thật, người ta nên nói điều dễ chịu; người ta không nên nói một sự thật khó nghe và cũng không nên nói một lời dối trá khó nghe. Đây là Dharma vĩnh cửu.
 
-52. Auf Wiedersehen!
+52. Tạm biệt!
 
 ::: media
 ![](/images/lekt3209.webp)
 Abb.: ⟪पुनर्दर्शनाय⟫
-Indian greeting / farewell.
-(Bildquelle: [Details](/licenses#lekt3209))
+Lời chào / lời tạm biệt của người Ấn Độ.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3209))
 :::
-## 32.8. Übung zur Wiederholung
+## 32.8. Bài tập ôn tập
 
-Übersetzen und bestimmen Sie folgende Wortformen:
+Dịch và xác định các dạng từ sau:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,37 +580,38 @@ Indian greeting / farewell.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. Bài tập dịch thuật
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
-⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
+⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
+⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
+⟪वृद्धस्य तेषु स्पृहा जाता ।⟫:br
+⟪परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥⟫:br
+⟪दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः ।⟫:br
+⟪तानवलोक्य वृद्धः प्रहर्षं गतः ।⟫:br
+⟪स किमकरोत् ।⟫:br
+⟪स कतिचिदुपला नादाय वानरां ल्लक्ष्यीकृत्य प्राक्षिपत् ।⟫:br
+⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
+⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
+⟪अहो वृद्धस्य कौशलम् ॥⟫
 :::
-(aus: ⟪संस्कृतबालादर्श⟫)
+(từ: ⟪संस्कृतबालादर्श⟫)
 
-Erklärungen:
+
+Giải thích:
 
 ::: indent
-⟪पथि⟫ Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmässige Deklination)
+⟪पथि⟫ Cách cách số ít của **⟪पथ्⟫** giống đực "con đường" (suy biến bất quy tắc)
 
-⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
+⟪लक्ष्यीकृ च्विऽ⟫-hậu tố ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : làm cho cái gì đó trở thành ⟪लक्ष्य⟫, điều mà trước đây không phải là ⟪लक्ष्य⟫
 
-⟪आदाय⟫ Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
+⟪आदाय⟫ Cách tuyệt đối của **⟪आ⟫-⟪दा⟫** (lớp hiện tại thứ 3) "nhận"
 :::
 ::: media
 ![](/images/lekt3210.webp)
-Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Bildquelle: [Details](/licenses#lekt3210))
+Hình: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+Khỉ trong cây xoài.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3210))
 :::
 

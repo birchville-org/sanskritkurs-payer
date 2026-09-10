@@ -1,34 +1,35 @@
 ---
-title: Lektion 32
+title: "[Pamoka 32]"
 lesson_id: 32
 status: stable
+
 ---
 
 # Pamoka 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. Praeterito laikai
 
 ::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
+**Senesnėje sanskritų literatūroje ir vietinių gramatikų tradicijoje trys praeities laikai aiškiai skiriami savo vartojimu:**
 
-*   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
-*   **das Imperfekt (⟪लङ्⟫) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit**
-*   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
+*   **Aoristas (⟪लुङ्⟫ , ⟪अद्यतनी⟫) žymi paprastą veiksmo įvykdymą arba tai, kas nutiko bėgančią dieną – artimą praeitį**
+*   **Imperfectas (⟪लङ्⟫) žymi tai, kas nutiko prieš bėgančią dieną – tolimą praeitį**
+*   **Perfekta (⟪लिट्⟫) taip pat, kaip ir imperfectas, žymi tolimą praeitį, tačiau priešingai nei imperfectas, vartojama tik apie įvykius, kurių kalbantis asmuo pats nematė**
 
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
+**Klasikinėje sanskritų literatūroje trys praeities laikai vartojami be reikšminio skirtumo (išimtis: ⟪भारवि⟫'s kūrybinis poemėlis ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+## 32.2. Imperfectas (⟪लङ्⟫)
 
 ::: grammar-box
-**Bildung:**
+**Formavimas:**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+**Augmentas a- + Esamojo laiko kamienas + Antrinės galūnės**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
+**Trijų asmenų singuliaro parasmaipada imperfectas formuojamas iš stipriojo esamojo laiko kamieno neamatiškajams kamienams, o visos kitos formos – iš silpnojo esamojo laiko kamieno.**
 
-**Das Imperfekt hat nur den Indikativ.**
+**Imperfectas turi tik indikatyvą.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
 ⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
@@ -37,16 +38,16 @@ Beispiele:
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Regeln für das Augment
+## 32.3. Taisyklės dėl augmento
 
 ::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
+**1. Jei augmentas a- stovi prieš balsiu prasidedančią šaknį, tai augmentas ir šaknies pradžios balsis susilieja į ⟪वृद्धि⟫ šaknies balsio.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
-| | 3. sg. Impf. | 3. pl. Impf. |
+| | 3. sg. Imperfect | 3. pl. Imperfect |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
@@ -54,13 +55,13 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
+**2. If prepositions precede a root, the augment a- appears immediately after the preposition and directly before the root.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
-| | 3. sg. Impf. |
+| | 3. sg. Imperfect |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
@@ -68,32 +69,32 @@ Beispiele:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. Examples of Imperfect Formation
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
+**To demonstrate the formation of forms, Ātmanepada forms are also created here for Parasmaipada roots! These artificial forms stand between \< \>.**
 :::
-### 32.4.1. Thematische Präsensklassen
+### 32.4.1. Thematic Present Classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | ⟪अभवत⟫ | ⟪अभवन्त⟫ |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | ⟪अनृत्यत⟫ | ⟪अनृत्यन्त⟫ |
 | 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | ⟪अविशत⟫ | ⟪अविशन्त⟫ |
-| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Athematic Present Classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
 | 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
@@ -102,142 +103,128 @@ Beispiele:
 | 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | ⟪आप्नुत⟫ | ⟪आप्नुवत⟫ |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. Žodynas
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
+**⟪अग्र⟫ n.:** Galas, pats tolimiausias taškas
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+**⟪मही⟫ f.:** Žemė, gruntas (žodžiškai: Didžioji)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Pav.: ⟪चूतः⟫
+Mangų medis, Kanpur.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Pav.: ⟪वानराः⟫
+Žvėrys (rhesus makakai) Delhi.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+Pav.: ⟪उपलाः⟫
+Akmenų karjeras pietuose Pune, Maharashtra.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+Pav.: ⟪लक्ष्यम्⟫
+Šaudymo praktika / strėlių taikinys, Karnataka.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+Pav.: ⟪चितं गोमयं दहति⟫
+Deginant karvės mėšlo plokšteles Rajastane.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+Pav.: ⟪कौशलम्⟫
+Mehndi piešinys ant rankų Mumbajuje.
+(Nuotraukos šaltinis: [Išsami informacija](/lt/licenses#lekt3206))
 :::
-## 32.6. Übung
+## 32.6. Pratimas
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+A) Nustatykite šias veiksmažodžio formas ir sudarykite atitinkamas imperfekto formas pagal asmenį, skaičių ir giminę:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -315,29 +302,21 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Išverkite ir išskirkite sanskrito sandaugas:
 
-⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
-
-⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪स⟫ ⟪पुत्रो⟫ ⟪ऽध्ययनाय⟫ ⟪गुरुमैत्⟫ ⟪।⟫ ⟪गुरुगृहे⟫ ⟪प्रविश्य⟫ ⟪गुरुमुपातिष्ठद्गुरुश्च⟫ ⟪तं⟫ ⟪पुत्रम्⟫ ⟪ब्राह्मणमपृच्छत्⟫ ⟪।⟫ ⟪ततस्तेन⟫ ⟪पुत्रेणान्नमादयत्⟫ ⟪॥२॥⟫
-
-⟪राम⟫ ⟪आचार्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫
-
-⟪ब्राह्मणा⟫ ⟪वेदमध्यैयन्⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयन्⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫
-
-⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
+⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
 ![](/images/lekt3208.webp)
-Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
-Buddhist monk in Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt3208))
+Pav.: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+Budistinis vienuolis Šri Lankoje.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3208))
 :::
-## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+## 32.7. Kartojimo pratimas per Kalėdų atostogas
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+Pastaba: iš pradžių šis kursas buvo skaitomas Tübingeno universitete kiekvieną žiemos semestrą. 32-ojoje pamokoje prasidėjo dvejų savaičių Kalėdų atostogos.
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+A) Nustatykite ir išverškite šiuos žodžius:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,141 +403,141 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi:
+B) Sandhi pratikrija: Įrašykite žodžius iš skliaustų į šiuos sakinius. Atkreipkite ypatingą dėmesį į sandhį:
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
+⟪१⟫. ⟪रामो ग्रामात्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह⟫ )
 
-⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪अरीन्हन्ति⟫ ⟪।⟫ (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
+⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪अरीन्हन्ति ।⟫ (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
 
-⟪३⟫. ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
+⟪३⟫. ⟪न हि पुण्यवन्तस्ते⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪।⟫ (⟪अरि । आर्यशत्रु⟫)
 
-⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪आद्यते⟫ ⟪।⟫ (⟪ऋषि⟫ (⟪एकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ⟪।⟫ ⟪इन्द्रदेवी⟫)
+⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया विभक्तिः⟫) ... ⟪आद्यते ।⟫ (⟪ऋषि⟫ (⟪एकवचने बहुवचने च⟫) ⟪। इन्द्रदेवी⟫)
 
-⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी⟫ ⟪विभक्तिरेकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪एति⟫ ⟪।⟫ (⟪नगर⟫)
+⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी विभक्तिरेकवचने बहुवचने च⟫) ... ⟪एति ।⟫ (⟪नगर⟫)
 
-⟪६⟫. ⟪रामो⟫ ⟪गृहे⟫ ... ⟪।⟫ (⟪आस्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪वस्⟫)
+⟪६⟫. ⟪रामो गृहे⟫ ... ⟪।⟫ (⟪आस् । इ । वस्⟫)
 
-⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪जीयते⟫ ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪उक्तानृतनर⟫ ⟪।⟫ ⟪एष⟫ ⟪नर⟫)
+⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪जीयते ।⟫ (⟪अरि । इन्द्रशत्रु । उक्तानृतनर । एष नर⟫)
 
-⟪८⟫. ⟪कविना⟫... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪स्तूयन्ते⟫ ⟪।⟫ (⟪आर्यदेव⟫ ⟪।⟫ ⟪इन्द्रादिदेव⟫)
+⟪८⟫. ⟪कविना⟫... (⟪प्रथमा विभक्तिः⟫) ... ⟪स्तूयन्ते ।⟫ (⟪आर्यदेव । इन्द्रादिदेव⟫)
 
-⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
+⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर⟫)
 
-C) Übersetzen Sie ins Sanskrit:
+C) Išversti į sanskritą:
 
-1. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
+1. Kai sūnus gimsta, brahmanė siunčia tarną pas brahmaną. Brahmanas leidžia tam tarnui įeiti į namus ir tada klausia apie sūnų. Tarnas sako, kad sūnus yra sveikas. Tai išgirdęs brahmanas džiaugiasi.
 
-2. Der Heilige hat das (ihm) getane Böse ertragen.
+2. Šventasis iškentė (jam) padarytą blogį.
 
-3. Sittlichkeit ist des Mannes Zier.
+3. Dorybė yra vyro puošmena.
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
+4. Galingieji kariai nuėjo į brahmanų kaimą.
 
-5. Das Mädchen weint.
+5. Merelė verkia.
 
-6. Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+6. Nėra ligos, prilygstančios geidulingumui; nėra priešo, lygio painiavai; nėra ugnies, prilygstančios pykčiui; nėra laimės, lygios išmanymui.
 
-7. Ein Mann, den die Göttin behütet, ist glücklich.
+7. Žmogus, kurį saugo deivė, yra laimingas.
 
-8. Mit welchem Wind auch immer eine Wolke Wasser (⟪वारि⟫ n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
+8. Koks vėjas neša debesyje esantį vandenį (⟪वारि⟫ n.), tuo pačiu vėju išmintis judina savo skėtį.
 
-9. Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+9. Nėra vaisių duodančių veiklų, susijusių su kilmėmis, gyvenimo etapais ir pan.
 
-10. Der Kreislauf der Wiedergeburten hat keinen Anfang.
+10. Pergimimų ratas neturi pradžios.
 
-11. Es ist Zeit, sich dem Essen zu widmen.
+11. Atėjo laikas skirti dėmesį maistui.
 
-12. Willkommen der Königin.
+12. Sveikinu karalienę.
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles.
+13. Žmonės daro nuopelnus dėl dangaus.
 
-14. Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
+14. Žmogus, kuris iš pasipūtimo, godumo, pykčio ar baimės priima neteisingą teismo sprendimą, keliauja į pragarą.
 
-15. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
+15. Rāma, mokytojo nurodymu, iš kaimo nuėjo į miestą, įžengė į šventojo žmogaus namus, pagarbiai atsistojo prieš šventąjį ir tarė: „Atsisakyk pykčio!“
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+16. Tegul jo ryšys su tais, kurie subrendo moksluose, visada išlieka, kad jo auklėjimas/geras elgesys augtų. (Tai) todėl, kad auklėjimas/geras elgesys turi šį ryšį su tais kaip savo šaknimis.
 
-17. Während der Lehrer steht, darf der Knabe nicht sitzen.
+17. Kol mokytojas stovi, berniukas negali sėdėti.
 
-18. Es gibt keine bessere Zuflucht als Rāma.
+18. Nėra geresnio prieglobsčio kaip Rāma.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19. Viṣṇumitra siunčia Rāma pasiųsti Govindą į kaimą.
 
-20. Govinda lässt den Devadatta Reis kochen.
+20. Govinda siunčia Devadatta virti ryžius.
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
+21. Arijų dharma yra ta, kad jauni brahmanai nuolat studijuoja Vėdų ir Smṛti skyrius.
 
-22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
+22. Mokytojas mokė berniukus Vedą ir tada nuėjo į namus.
 
-23. Welches Amulett hat das Mädchen beschützt?
+23. Koks amuletas apsaugojo mergaitę?
 
-24. Wahrheit ist die Leuchte der Welt.
+24. Tiesa yra pasaulio žibintas.
 
-25. Wem gehören diese Häuser?
+25. Kam priklauso šie namai?
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
+26. Visų dharma: nekenkimas, tiesa, švarumas, pavydo nebuvimas, piktybingumo nebuvimas ir kantrybė.
 
-27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
+27. Kṣatrijos, kurie nugalėjo priešus, sėdi namie.
 
-28. Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt.
+28. Tai yra (tikra) žmona, kuri kalba meilę; o tas yra (tikras) sūnus, kuris gyvena. Gyvena tas, kuris turi gerų savybių; gyvena tas, kuris turi dharmą.
 
-29. Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
+29. Dievų valdovas nugalėtoja ne-arijus, Indros priešus. (Pasyvas)
 
-30. Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+30. Veikimo joga yra asketizmas (tapas n.), (Vedos) recitavimas, tarnystė PANAUGIAM. Jis padeda meditacinio susitelkimo plėtrai ir kleśų silpninimui.
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
+31. Maisto vartojimas, miegas, baimė ir poravimasis: tai yra bendras bruožas žmonių ir gyvūnų. Dharma (yra) būtent jų papildomas ypatumas. Palikę dharmą, jie yra lygūs gyvūnams (Instr.).
 
-32. Die Leute werden geboren, um zu sterben.
+32. Žmonės gimsta, kad mirtų.
 
-33. Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben.
+33. Pragarai yra dėl blogio. Blogis turi pradžią skurdą. Skurdas kyla iš nedavimo.
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
+34. Tai yra Kṣatrijų dharma, kad Kṣatrijos saugo žmones nuo priešų.
 
-35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+35. Todėl trys (tris) mokslai turi valdymą kaip šaknį. Valdymas, kuris turi auklėjimą/gelą elgesį kaip šaknį, duoda gyvoms būtybėms (⟪प्राणभृत्⟫) naudą ir saugią nuosavybę.
 
-36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
+36. Blogi žmonės neklauso, kai mokytojas kalba apie dharmą.
 
-37. Diesem Rāma sei Verehrung!
+37. Tam Rāmai būti garbinimas!
 
-38. Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (⟪विधि⟫) den Veda lehrte, die Erde im Wasser (fest) setzte.
+38. Šlovintas Hari yra mano kelias/tikslas, kuris (jo) priešus į dangų išsiuntė, savo žmones Vedos prasmę suprasti privertė, dievams nemirtingumo maistą duoti leido, kūrėją (⟪विधि⟫) Vedą mokyti, žemę vandenyje (tvirtai) įsitvirtinti.
 
-39. Viṣṇu shows himself to his devotees.
+39. Viṣṇu pasirodo savo šalininkams.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+40. Karalystė, kuri nėra valdoma, sukelia žuvų normą.
 
-41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
+41. Kas turi turtus, tas turi draugų; kas turi turtus, tas turi giminaičių; kas turi turtus, tas yra žmogus (⟪पुमान्⟫ v. g.) pasaulyje; kas turi turtus, tas iš tikrųjų yra išminčius.
 
-42. Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe.
+42. Ugnis, kuri sudegina mirusįjį, sudegina ir gerąją našlę.
 
-43. Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
+43. Brahmano tarnaitė paruošė maistą ir dabar jį valgo.
 
-44. Jetzt reicht's!
+44. Dabar užtenka!
 
-45. Diese Frucht reicht ihm zum Essen.
+45. Šis vaisius jam pakanka valgyti.
 
-46. Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes.
+46. Vidiniausias šventyklos rūmas yra namas dievo paveikslui.
 
-47. Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (⟪राजा⟫ Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes.
+47. Vagis yra atleidžiamas nuo vagystės bausme arba paleidimu. Tačiau jei karalius (⟪राजा⟫ v. g.) nubaustų (vagies), jis prisiimtų vagies kaltę.
 
-48. Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
+48. Kadangi jis padarė klaidą aukojime, Brahmanas nėra vertas priimti turto.
 
-49. Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (⟪उपयुज्⟫).
+49. Jei įvyko iniciacijos ceremonija, jis turi pasisemti Vedą ir filosofiją iš išminčių, ekonomiką – iš skyrių vadovų (⟪उपयुज्⟫).
 
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
+50. Vaiśjų dharma yra tai, kad vaišjos gyvena iš pirkimo ir pardavimo. Kadangi taip yra, vaiśjų sūnūs pirko ir pardavė.
 
-51. Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
+51. Turi kalbėti tiesą, turi kalbėti malonų; neturi kalbėti nemalonios tiesos ir neturi kalbėti nemalonių melo. Tai yra amžinoji dharma.
 
-52. Auf Wiedersehen!
+52. Farewell!
 
 ::: media
 ![](/images/lekt3209.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
+Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
-(Bildquelle: [Details](/licenses#lekt3209))
+(Image source: [Details](/lt/licenses#lekt3209))
 :::
-## 32.8. Übung zur Wiederholung
+## 32.8. Review Exercise
 
-Übersetzen und bestimmen Sie folgende Wortformen:
+Translate and analyze the following word forms:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,37 +580,38 @@ Indian greeting / farewell.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. Translation Exercise
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
-⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
+⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
+⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
+⟪वृद्धस्य तेषु स्पृहा जाता ।⟫:br
+⟪परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥⟫:br
+⟪दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः ।⟫:br
+⟪तानवलोक्य वृद्धः प्रहर्षं गतः ।⟫:br
+⟪स किमकरोत् ।⟫:br
+⟪स कतिचिदुपला नादाय वानरां ल्लक्ष्यीकृत्य प्राक्षिपत् ।⟫:br
+⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
+⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
+⟪अहो वृद्धस्य कौशलम् ॥⟫
 :::
-(aus: ⟪संस्कृतबालादर्श⟫)
+(from: ⟪संस्कृतबालादर्श⟫)
 
-Erklärungen:
+
+Paaiškinimai:
 
 ::: indent
-⟪पथि⟫ Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmässige Deklination)
+⟪पथि⟫ Lok. sg. prie **⟪पथ्⟫ m.** "kelias" (netolygios linksnys)
 
-⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
+⟪लक्ष्यीकृ च्विऽ⟫-priesaga ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : daryti ką nors, kas anksčiau nebuvo ⟪लक्ष्य⟫
 
-⟪आदाय⟫ Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
+⟪आदाय⟫ abliutivas prie **⟪आ⟫-⟪दा⟫** (3. esamojo laiko klasė) "imti"
 :::
 ::: media
 ![](/images/lekt3210.webp)
-Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Bildquelle: [Details](/licenses#lekt3210))
+Pav.: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+Žiurkės mango medžiuose.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3210))
 :::
 

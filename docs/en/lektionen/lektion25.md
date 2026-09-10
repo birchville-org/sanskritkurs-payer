@@ -10,17 +10,17 @@ status: stable
 
 # Lesson 25
 
->> ## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
+## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 
 ::: grammar-box
->> Except for masculines/neuters in -a as well as the pronouns, in the singular the forms of the Ablative (⟪पञ्चमी⟫) are identical to those of the Genitive (⟪षष्ठी⟫) in all declension classes.
+Except for masculines/neuters in -a as well as the pronouns, in the singular the forms of the Ablative (⟪पञ्चमी⟫) are identical to those of the Genitive (⟪षष्ठी⟫) in all declension classes.
 
->> Except for the personal pronouns, in all declensions in the plural the forms of the Ablative are identical to those of the Dative (⟪चतुर्थी⟫).
+Except for the personal pronouns, in all declensions in the plural the forms of the Ablative are identical to those of the Dative (⟪चतुर्थी⟫).
 :::
 Now you recognize the reason for the order of the cases (⟪विभक्ति⟫) in Sanskrit: they are arranged so that identical forms stand as close together - or one below the other - as possible.
 
 ::: grammar-box
->> **Ablative Singular of the Masculines / Neuters in -a**
+**Ablative Singular of the Masculines / Neuters in -a**
 
 **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -28,7 +28,7 @@ Interrogative, Relative and Demonstrative Pronouns:
 
 ::: grammar-box
 
->> | | Ablative Singular:brMasculine / Neuter | Ablative Singular:brFeminine |
+| | Ablative Singular:brMasculine / Neuter | Ablative Singular:brFeminine |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -37,18 +37,18 @@ Interrogative, Relative and Demonstrative Pronouns:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
->> ## 25.2. Usage of the Ablative (⟪पञ्चमी⟫)
+## 25.2. Usage of the Ablative (⟪पञ्चमी⟫)
 
->> "The Ablative denotes that which remains fixed when something departs from it."
+"The Ablative denotes that which remains fixed when something departs from it."
 
 Pāṇini 2,3,28 + 1,4,24
 
->> The Ablative stands primarily in response to the questions "From where?", "Why?".
+The Ablative stands primarily in response to the questions "From where?", "Why?".
 
 ::: grammar-box
->> 1\. Thus, the Ablative denotes the starting point, origin and material.
+1\. Thus, the Ablative denotes the starting point, origin and material.
 
->> The ablative can therefore also denote the person from whom one buys, hears, wishes for something, etc.
+The ablative can therefore also denote the person from whom one buys, hears, wishes for something, etc.
 :::
 Examples:
 
@@ -67,7 +67,7 @@ Examples:
 ⟪ब्राह्मणः क्षत्रियाद्धेनुमिच्छति⟫ = "the Brāhmaṇa wishes for a milk cow from the Kṣatriya"
 :::
 ::: grammar-box
->> 2. The ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
+2. The ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
 :::
 Example:
 
@@ -75,7 +75,7 @@ Example:
 ⟪अरिभ्यो रक्षति⟫ = "he protects from the enemies"
 :::
 ::: grammar-box
->> 3. The ablative denotes the reason or cause:
+3. The ablative denotes the reason or cause:
 :::
 Examples:
 
@@ -86,12 +86,12 @@ Examples:
 
 ⟪पापकरणान्नरकं गच्छति⟫ = "Because he does/has done evil, he comes to hell"
 :::
->> Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminines stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
+Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminines stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
 
 ## 25.3. The Suffix -⟪तस्⟫
 
 ::: grammar-box
->> If one wants to express in the singular (unambiguously) that the word is used with an ablative meaning, one can attach the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
+If one wants to express in the singular (unambiguously) that the word is used with an ablative meaning, one can attach the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
 :::
 Examples:
 
@@ -119,7 +119,7 @@ Relative clauses often express a causal (reasoning), consecutive (resultative) o
 
 Forms of the relative pronoun that serve as causal conjunctions:
 
->> *   ablative:
+*   ablative:
 *   ⟪यतस्⟫ ... subordinate clause ... ⟪ततस्⟫ ... main clause ... = "because ..., therefore ..."
 *   ⟪यस्मात्⟫ ... subordinate clause ... ⟪तस्मात्⟫ ... main clause ... = "because ..., therefore ..."
 *   instrumental:
@@ -143,7 +143,7 @@ Example:
 ::: grammar-box
 **3\. Instrumental (⟪तृतीया⟫)**
 
->> In addition to the Ablative (⟪पञ्चमी⟫), the Instrumental (⟪तृतीया⟫) is used to indicate reason or cause. With feminine nouns, the Instrumental is generally obligatory.
+In addition to the Ablative (⟪पञ्चमी⟫), the Instrumental (⟪तृतीया⟫) is used to indicate reason or cause. With feminine nouns, the Instrumental is generally obligatory.
 :::
 Example:
 
@@ -362,7 +362,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Exercise
 
->> A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding the 4th Dative (⟪चतुर्थी⟫) and the 5th Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
+A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding the 4th Dative (⟪चतुर्थी⟫) and the 5th Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 

@@ -1,96 +1,97 @@
 ---
-title: "Exercise 4"
+title: "[Vježba 4]"
 uebung_id: 4
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 4
+# Lekcija 4
 
-A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:
+A) Formirajte usmeno pitanja prema šemi viṣṇuḥ kaḥ (⟪विष्णुः कः⟫) koristeći sljedeće riječi i odgovorite na pitanja na sanskrtu:
 
-śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (množina), indrāṇī, dhenu, tulādhara, kālidāsa
 
 \= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
 śrutiḥ kā? vedaḥ śrutiḥ.
 
-⟪श्रुतिः⟫ ⟪का⟫ ⟪।⟫ ⟪वेदः⟫ ⟪श्रुतिः⟫ ⟪।⟫
+⟪श्रुतिः का । वेदः श्रुतिः ।⟫
 
 śivaḥ kaḥ? īśvaraḥ śivaḥ.
 
-⟪शिवः⟫ ⟪कः⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪शिवः⟫ ⟪।⟫
+⟪शिवः कः । ईश्वरः शिवः ।⟫
 
 brāhmaṇaḥ kaḥ? dvijo brāhmaṇaḥ.
 
-⟪ब्राह्मणः⟫ ⟪कः⟫ ⟪।⟫ ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ ⟪।⟫
+⟪ब्राह्मणः कः । द्विजो ब्राह्मणः ।⟫
 
 dvijāḥ ke? brāhmānakṣatriyavaiśyā dvijāḥ.
 
-⟪द्विजाः⟫ ⟪के⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्या⟫ ⟪द्विजाः⟫ ⟪।⟫
+⟪द्विजाः के । ब्राह्मणक्षत्रियवैश्या द्विजाः ।⟫
 
 indrāṇī kā? devīndrāṇī.
 
-⟪इन्द्राणी⟫ ⟪का⟫ ⟪।⟫ ⟪देवीन्द्राणी⟫ ⟪।⟫
+⟪इन्द्राणी का । देवीन्द्राणी ।⟫
 
 dhenuḥ kā? paśur dhenuḥ.
 
-⟪धेनुः⟫ ⟪का⟫ ⟪।⟫ ⟪पशुर्धेनुः⟫ ⟪।⟫
+⟪धेनुः का । पशुर्धेनुः ।⟫
 
 tulādharaḥ kaḥ? vaiśyas tulādharaḥ.
 
-⟪तुलाधरः⟫ ⟪कः⟫ ⟪।⟫ ⟪वैश्यस्तुलाधरः⟫ ⟪।⟫
+⟪तुलाधरः कः । वैश्यस्तुलाधरः ।⟫
 
 kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
-⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
+⟪कालिदासः कः । कविः कालिदासः ॥⟫
 
-B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Formirajte pitanja prema uzorku etat kim (⟪एतत्किम्⟫) za sljedeću vježbu čitanja i odgovorite na pitanja koristeći navedene riječi i demonstrativne zamjenice, npr. eṣa bālaḥ (⟪एष बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)
-Abb.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt0401))
+Slika: ⟪एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।⟫
+(Izvor slike: [Detalji](/licenses#lekt0401))
 :::
 eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
-⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
+⟪एष कः । एष गजः । अयं गजः । स गजः ।⟫
 
 eṣā kā? eṣā bālā / iyaṃ bālā / sā bālā.
 
-⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
+⟪एषा का । एषा बाला । इयं बाला । सा बाला ।⟫
 
-etad kim? eṣa śukaḥ.
+What is this? This is a parrot.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪शुकः⟫ ⟪।⟫
+⟪एतत्किम् । एष शुकः ।⟫
 
-etat kim? eṣa kākaḥ.
+What is this? This is a crow.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
+⟪एतत्किम् । एष काकः ।⟫
 
-etat kim? eṣā peṭikā.
+What is this? This is a box.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पेटिका⟫ ⟪।⟫
+⟪एतत्किम् । एषा पेटिका ।⟫
 
-etat kim? eṣā lātā.
+What is this? This is a tree.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪लाता⟫ ⟪।⟫
+⟪एतत्किम् । एषा लाता ।⟫
 
-etat kim? eṣa pādaḥ.
+What is this? This is a foot.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪पादः⟫ ⟪।⟫
+⟪एतत्किम् । एष पादः ।⟫
 
-eṣa kaḥ? eṣa bālaḥ.
+Who is this? This is a child.
 
-⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪बालः⟫ ⟪।⟫
+⟪एष कः । एष बालः ।⟫
 
-etat kim? eṣā pipīlikā.
+What is this? This is an ant.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पिपीलिका⟫ ⟪॥⟫
+⟪एतत्किम् । एषा पिपीलिका ॥⟫
 
 ::: media
 ![](/images/uebung003.webp)
-Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung003))
+Fig.: ⟪एतत्किम् । एष काकः ।⟫
+(Image source: [Details](/licenses#uebung003))
 :::

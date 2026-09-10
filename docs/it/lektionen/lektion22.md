@@ -1,6 +1,6 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lezione 22"
+subtitle: "L'assolutivo (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"

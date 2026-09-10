@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Lecziun 20"
+subtitle: "Possessivcomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 20
@@ -170,7 +171,7 @@ Esempel:
 :::
 ::: media
 ![](/images/lekt2001.webp)
-Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
+Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodgia, 9. tschienten onn suenter Crist.
 (Sursa d'imaginas: [Detagls](/rm/licenses#lekt2001))
 :::
@@ -525,9 +526,9 @@ Erläuterung: -da am Ende eines Kompositums: "gebend"
 :::
 ::: media
 ![](/images/lekt2009.webp)
-Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
+Fig.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
-(Bildquelle: [Details](/rm/licenses#lekt2009))
+(Font dal maletg: [Details](/rm/licenses#lekt2009))
 :::
 Über Besitzverhältnisse:
 

@@ -1,6 +1,6 @@
 ---
 title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+subtitle: "Pembentukan khusus perfek"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"

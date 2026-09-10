@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "14. lecke"
+subtitle: "A főnevekkel jelölt dolgok közötti viszony kifejezése: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatodik esetrag)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 14. lecke
@@ -88,16 +89,16 @@ A magánhangzó végződésű tövek többes számának birtokos esete így kép
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**birtokos eset (genitivus) egyes szám vokalisch auslautender Stämme:**
+**Genetiv singularis magánhangzó végződésű tövek esetén:**
 
 ::: grammar-box
 
-A genitivus singularis magánhangzóval végződő tövek esetén szabálytalanul képződik, és jól fejből tanulandó.
+A magánhangzó végződésű tövek genetivus singularisát szabálytalanul képezik, és jól memorizálni kell.
 
 :::
 ::: center
 
-| Tő | birtokos eset (genitivus) egyes szám |
+| Tő | Genetivus singularis |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,20 +106,27 @@ A genitivus singularis magánhangzóval végződő tövek esetén szabálytalanu
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(vagyis vagy mint kavi, vagy mint devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(vagyis vagy mint paśu, vagy mint több szótagos nőnemű szavak -ū végződés esetén) |
 
 :::
-**Kérdő- és mutató névmások:**
+**Kérdő- és mutatószók:**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **hímnem / semlegesnem** | **birtokos eset (genitivus) egyes szám** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **birtokos eset (genitivus) többes szám** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **nőnem** | **birtokos eset (genitivus) egyes szám** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **birtokos eset (genitivus) többes szám** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Nemű / Neutrum** | **Genetivus singularis** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetivus pluralis** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Nőnemű** | **Genetivus singularis** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetivus pluralis** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+
+:::
+**Formamegfelelés:**
+
+::: important
+
+Minden névszó tőnél, kivéve a -a végződésű hímneműeket és középneműeket, valamint a névmásokat, a genetivus singularis alakja megegyezik az ablativus (pañcamī "ötös esetrag") singularis alakjával!
 
 :::
 **Formengleichheit:**

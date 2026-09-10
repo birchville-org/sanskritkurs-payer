@@ -45,7 +45,7 @@ Nikmat dunia adalah kewajiban para raja.
 Strong elephants should be given to the king.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā menciptakan alam semesta.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 One does evil oneself, one refrains from evil oneself.

@@ -1,6 +1,6 @@
 ---
 title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+subtitle: "Le participe passé passif (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -150,7 +150,7 @@ Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
-- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes)
+- **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent les pistes du gibier)
 
 ::: media
 ![](/images/lekt1202.webp)

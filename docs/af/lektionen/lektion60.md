@@ -1,6 +1,6 @@
 ---
 title: "Lesing 60"
-subtitle: "Die dualische Perfektendung (⟪द्विवचनम्⟫)"
+subtitle: "Die duaal-perfekuitgang (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"

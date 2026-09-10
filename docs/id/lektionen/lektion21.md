@@ -1,6 +1,6 @@
 ---
 title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+subtitle: "Batang kala kini berakhiran -nt lainnya"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 21
 
-## 21.1. Weitere Batang Present auf -nt
+## 21.1. Batang Present Berakhiran -nt Lainnya
 
 ### 21.1.1. Partisip Present (⟪लडादेशः⟫) Parasmaipada
 

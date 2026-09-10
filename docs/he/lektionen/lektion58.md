@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "שיעור 58"
+subtitle: "הסיומות הדואליות העיקריות (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 58

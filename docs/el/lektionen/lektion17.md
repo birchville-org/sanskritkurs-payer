@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Μάθημα 17"
+subtitle: "Δεύτερη κλάση ριζικών παρατατικών (⟪अदादि⟫ = ⟪अद्⟫ κ.ο.κ.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 17
@@ -409,4 +410,3 @@ status: stable
 ⟪४५⟫. ⟪जीव्यते⟫
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
-

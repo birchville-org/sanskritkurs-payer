@@ -4,7 +4,7 @@ uebung_id: 49
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----
+---# Esercizio 49
 
 Identificate le seguenti forme:
 

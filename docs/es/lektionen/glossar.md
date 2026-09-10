@@ -17,371 +17,372 @@ outline: 2
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪अखिल⟫ | [akhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=akhila&filter=roman&accent=no&transLit=roman) | 3 | sin lagunas, entero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪अगार⟫ | [agāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agāra&filter=roman&accent=no&transLit=roman) | n | casa, hogar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अग्नि⟫ | [agni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agni&filter=roman&accent=no&transLit=roman) | m | fuego, dios Agni | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
-| ⟪अजिन⟫ | [ajina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ajina&filter=roman&accent=no&transLit=roman) | n | piel de antílope, especialmente la piel de la antílope negra (antílope ciervo: _Antilope cervicapra_ L. ). Originariamen | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪अञ्जलि⟫ | [añjali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añjali&filter=roman&accent=no&transLit=roman) | m | Las dos manos puestas juntas en señal de reverencia | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अञ्ज्⟫ | [añj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añj&filter=roman&accent=no&transLit=roman) | 7P | untar, embadurnar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪अटवी⟫ | [aṭavī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṭavī&filter=roman&accent=no&transLit=roman) | f | bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪अणु⟫ | [aṇu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṇu&filter=roman&accent=no&transLit=roman) | — | delgado, fino, muy pequeño ; m.: átomo | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪अतस्⟫ | [atas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atas&filter=roman&accent=no&transLit=roman) | — | de allí, entonces, por eso, de ahí (raíz pronominal a- "este" + sufijo ablativo -tas) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अति⟫ | [ati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ati&filter=roman&accent=no&transLit=roman) | — | sobre, por encima de, más allá (en el espacio, en el tiempo, en número, en cantidad, en orden, en poder, en intensidad), | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪अतिथि⟫ | [atithi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atithi&filter=roman&accent=no&transLit=roman) | m | huésped | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪अथवा⟫ | [athavā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=athavā&filter=roman&accent=no&transLit=roman) | — | o (antepuesto) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪अद्य⟫ | [adya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adya&filter=roman&accent=no&transLit=roman) | — | hoy | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪अधि⟫ | [adhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhi&filter=roman&accent=no&transLit=roman) | — | sobre, hacia arriba, er-, con referencia a | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪अधिक⟫ | [adhika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhika&filter=roman&accent=no&transLit=roman) | — | superfluo, adicional, mayor, mejor, extraordinario | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
-| ⟪अधिक⟫ | [adhika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhika&filter=roman&accent=no&transLit=roman) | 3 | adicional, excedente, extraordinario | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪अध्यक्ष⟫ | [adhyakṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhyakṣa&filter=roman&accent=no&transLit=roman) | m | supervisor, jefe de departamento; testigo presencial | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अध्यापन⟫ | [adhyāpana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhyāpana&filter=roman&accent=no&transLit=roman) | n | Enseñanza, instrucción | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪अनगार्य⟫ | [anagārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anagārya&filter=roman&accent=no&transLit=roman) | n | sinhogaridad de un monje budista o novicio | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अनसूया⟫ | [anasūyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anasūyā&filter=roman&accent=no&transLit=roman) | f | Ausencia de murmuración, falta de envidia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | hacia, a lo largo de, sobre - hacia, a lo largo de, según, hacia, detrás - hacia | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | imitar, hacer como | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | seguir a alguien, ir a lo largo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अखिल⟫ | अखिल | 3 | sin lagunas, entero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪अगार⟫ | अगार | n | casa, hogar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अग्नि⟫ | [agni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agni&filter=roman&accent=no&transLit=roman) | m | Fuego, dios Agni | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪अजिन⟫ | अजिन | n | piel de antílope, especialmente la piel de la antílope negra (antílope ciervo: _Antilope cervicapra_ L. ). Originariamen | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪अञ्जलि⟫ | अञ्जलि | m | Las dos manos puestas juntas en señal de reverencia | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अञ्ज्⟫ | अञ्ज् | 7P | untar, embadurnar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪अटवी⟫ | अटवी | f | bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪अणु ३⟫ | अणु ३ | — | delgado, fino, muy pequeño ; m.: átomo | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪अतस्⟫ | अतस् | — | de allí, entonces, por eso, de ahí (raíz pronominal a- "este" + sufijo ablativo -tas) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अति⟫ | अति | — | sobre, por encima de, más allá (en el espacio, en el tiempo, en número, en cantidad, en orden, en poder, en intensidad), | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪अतिथि⟫ | अतिथि | m | huésped | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪अथवा⟫ | अथवा | — | o (antepuesto) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪अद्य⟫ | अद्य | — | hoy | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪अधि⟫ | अधि | — | sobre, hacia arriba, er-, con referencia a | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪अधिक⟫ | अधिक | — | superfluo, adicional, mayor, mejor, extraordinario | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
+| ⟪अधिक⟫ | अधिक | 3 | adicional, sobrante, extraordinario | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪अध्यक्ष⟫ | अध्यक्ष | m | supervisor, jefe de departamento; testigo presencial | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अध्यापन⟫ | अध्यापन | n | Enseñanza, instrucción | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪अनगार्य⟫ | अनगार्य | n | sinhogaridad de un monje budista o novicio | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अनसूया⟫ | अनसूया | f | Ausencia de murmuración, falta de envidia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪अनु⟫ | अनु | — | hacia, a lo largo de, sobre - hacia, a lo largo de, según, hacia, detrás - hacia | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अनुकृ⟫ | अनुकृ | — | imitar, hacer como | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अनुगम्⟫ | अनुगम् | — | seguir a alguien, ir a lo largo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 | ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | falsedad, mentira (contrario a satya) | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | Ausencia de malicia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | muchos (no algunos) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | m | final, límite | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪अन्तरे⟫ | [antare](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=antare&filter=roman&accent=no&transLit=roman) | Adv | mientras tanto | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪अन्तर्⟫ | [antar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=antar&filter=roman&accent=no&transLit=roman) | Adv | dentro, en el interior ; posposición con Gen. Loc. (, ): dentro de, en medio ; posposición con Gen. Abl. (, ): de ... ha | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪अन्यथा⟫ | [anyathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyathā&filter=roman&accent=no&transLit=roman) | Adv | de otra manera, de otro modo, erróneamente, incorrectamente | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪अन्यद्⟫ | [anyad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyad&filter=roman&accent=no&transLit=roman) | 3 | otro (declinación como ) | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | mutuamente, el uno al otro | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | m | final, liberación | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | negación ( + ) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | hacia, después - hacia, hacia - hacia, contra, en - dentro, con respecto a, sobre, sobre, en | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪अभिगम्⟫ | [abhigam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhigam&filter=roman&accent=no&transLit=roman) | — | ir hacia, acercarse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अनृशंस्य⟫ | अनृशंस्य | n | Ausencia de malicia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪अनेक⟫ | अनेक | 3 | muchos (no algunos) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪अन्त⟫ | अन्त | m | final, límite | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪अन्तरे⟫ | अन्तरे | Adv | mientras tanto | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪अन्तर्⟫ | अन्तर् | Adv | dentro, en el interior ; posposición con Gen. Loc. (, ): dentro de, en medio ; posposición con Gen. Abl. (, ): de ... ha | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪अन्यथा⟫ | अन्यथा | Adv | de otra manera, de lo contrario, falsamente, incorrectamente | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪अन्यद्⟫ | अन्यद् | 3 | otro (declinación como ) | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪अन्योन्य⟫ | अन्योन्य | 3 | mutuamente, el uno al otro | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪अपवर्ग⟫ | अपवर्ग | m | final, liberación | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪अपोह⟫ | अपोह | m | negación ( + ) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अभि⟫ | अभि | — | pre-, después - hacia, hacia - hacia, hacia, en - dentro, en relación con, sobre, sobre, a | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अभि⟫ | अभि | — | hacia, después - hacia, hacia - hacia, contra, en - dentro, con respecto a, sobre, sobre, en | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अभिगम्⟫ | अभिगम् | — | ir hacia, acercarse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 | ⟪अभिनिवेष⟫ | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhiniveṣa&filter=roman&accent=no&transLit=roman) | m | Inclinación a, terquedad, insistencia en; específicamente: apego al cuerpo como si fuera algo propio | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪अभ्यन्तर⟫ | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhyantara&filter=roman&accent=no&transLit=roman) | 3 | situado en el interior, más cercano; m. el pariente más cercano, nativo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪अमुत्र⟫ | [amutra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=amutra&filter=roman&accent=no&transLit=roman) | Adv | allí, hacia allá | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪अरण्य⟫ | [araṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=araṇya&filter=roman&accent=no&transLit=roman) | n | desierto, bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪अरि⟫ | [ari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ari&filter=roman&accent=no&transLit=roman) | m | enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪अर्जुन⟫ | [arjuna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=arjuna&filter=roman&accent=no&transLit=roman) | m | Arjuna, uno de los cinco hijos de . Héroe en el (véase Basham, Maravilla p. 409 - 414) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪अर्थ⟫ | [artha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=artha&filter=roman&accent=no&transLit=roman) | — | por ... causa, con el fin de | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
-| ⟪अर्ह⟫ | [arha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=arha&filter=roman&accent=no&transLit=roman) | m | "Deberías") | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪अर्हन्त्⟫ | [arhant](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=arhant&filter=roman&accent=no&transLit=roman) | — | un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación final | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪अलंकार⟫ | [alaṃkāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alaṃkāra&filter=roman&accent=no&transLit=roman) | m | adorno, medio de adorno (en la poesía) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अलम्⟫ | [alam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alam&filter=roman&accent=no&transLit=roman) | — | suficiente, bastante, capaz de (alguien, algo); con dativo: suficiente para, bastante para, capaz de; con instrumental:  | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪अल्प⟫ | [alpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alpa&filter=roman&accent=no&transLit=roman) | 3 | pequeño, mínimo | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪अव⟫ | [ava](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ava&filter=roman&accent=no&transLit=roman) | — | hacia abajo, abajo, lejos, ab- | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪अवज्ञान⟫ | [avajñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avajñāna&filter=roman&accent=no&transLit=roman) | n | menosprecio | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪अवतार⟫ | [avatāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avatāra&filter=roman&accent=no&transLit=roman) | m | (Descendedor, descenso) Encarnación de un dios, especialmente las 10 encarnaciones de Viṣṇu (véase Basham, Maravillas, p | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪अवनि⟫ | [avani](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avani&filter=roman&accent=no&transLit=roman) | f | tierra | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪अभ्यन्तर⟫ | अभ्यन्तर | 3 | situado en el interior, más cercano; m. el pariente más cercano, nativo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪अमुत्र⟫ | अमुत्र | Adv | allí, hacia allá | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪अरण्य⟫ | अरण्य | n | desierto, bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪अरि⟫ | अरि | m | enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪अर्जुन⟫ | अर्जुन | m | Arjuna, uno de los cinco hijos de . Héroe en el (véase Basham, Maravilla p. 409 - 414) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪अर्थ⟫ | अर्थ | — | por ... causa, con el fin de | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
+| ⟪अर्ह⟫ | अर्ह | m | "Deberías") | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪अर्हन्त्⟫ | अर्हन्त् | — | un digno. En el budismo y el jainismo: alguien que ha alcanzado la liberación final | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪अलंकार⟫ | अलंकार | m | adorno, medio de adorno (en la poesía) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अलम्⟫ | अलम् | — | suficiente, bastante, capaz de (alguien, algo); con dativo: suficiente para, bastante para, capaz de; con instrumental:  | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪अल्प⟫ | अल्प | 3 | pequeño, insignificante | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪अव⟫ | अव | — | hacia abajo, abajo, lejos, ab- | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪अवज्ञान⟫ | अवज्ञान | n | menosprecio | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪अवतार⟫ | अवतार | m | (Descendedor, descenso) Encarnación de un dios, especialmente las 10 encarnaciones de Viṣṇu (véase Basham, Maravillas, p | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪अवनि⟫ | अवनि | f | tierra | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
 | ⟪अविद्या⟫ | [avidyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avidyā&filter=roman&accent=no&transLit=roman) | f | Ignorancia, no conocimiento | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | libre de tristeza; árbol Ashoka = _Saraca asoca_ (Roxb.) Wilde; nombre del emperador Aśoka ( ) (ca. 304 – 232 a.C.) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | comer, consumir | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | oscuro, negro | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪अशोक⟫ | अशोक | 3 | libre de tristeza; árbol Ashoka = _Saraca asoca_ (Roxb.) Wilde; nombre del emperador Aśoka ( ) (ca. 304 – 232 a.C.) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪अश्⟫ | अश् | 9P | comer, consumir | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪असित⟫ | असित | — | oscuro, negro | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 | ⟪असुर⟫ | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asura&filter=roman&accent=no&transLit=roman) | m | demonio | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
 | ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | "egoidad", es decir, la (falsa) creencia: Yo soy quien ve, etc | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | f | No causar daño a nadie, no violencia, no ofensa | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | decir, hablar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪अहिंसा⟫ | अहिंसा | f | No causar daño a nadie, no violencia, no ofensa | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪अह्⟫ | अह् | — | decir, hablar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
 ## आ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪आख्यान⟫ | [ākhyāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ākhyāna&filter=roman&accent=no&transLit=roman) | n | narración | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪आजीव⟫ | [ājīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ājīva&filter=roman&accent=no&transLit=roman) | m | Sustento, medios de vida | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪आटोप⟫ | [āṭopa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āṭopa&filter=roman&accent=no&transLit=roman) | m | vanidad, orgullo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪आत्मन्⟫ | [ātman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ātman&filter=roman&accent=no&transLit=roman) | m | Sí mismo, propia persona, esencia interior. Filosófico y en doctrinas de salvación: lo Absoluto en el individuo, del cua | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪आदर⟫ | [ādara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādara&filter=roman&accent=no&transLit=roman) | m | consideración, atención, respeto | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪आदर्श⟫ | [ādarśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādarśa&filter=roman&accent=no&transLit=roman) | m | espejo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪आख्यान⟫ | आख्यान | n | narración | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪आजीव⟫ | आजीव | m | Sustento, medios de vida | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪आटोप⟫ | आटोप | m | vanidad, orgullo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪आत्मन्⟫ | आत्मन् | m | Sí mismo, propia persona, esencia interior. Filosófico y en doctrinas de salvación: lo Absoluto en el individuo, del cua | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪आदर⟫ | आदर | m | consideración, atención, respeto | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪आदर्श⟫ | आदर्श | m | espejo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪आदाय⟫ | Absol. | — | con Ac.: en compañía de, con | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪आदि⟫ | [ādi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādi&filter=roman&accent=no&transLit=roman) | m | comienzo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪आदित्य⟫ | [āditya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āditya&filter=roman&accent=no&transLit=roman) | m | Sol; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : una clase específica de deidades | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪आदृत⟫ | [ādṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādṛta&filter=roman&accent=no&transLit=roman) | 3 | estimado | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪आनन्द⟫ | [ānanda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānanda&filter=roman&accent=no&transLit=roman) | m | dicha, alegría | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
+| ⟪आदि⟫ | आदि | m | comienzo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪आदित्य⟫ | आदित्य | m | Sol; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : una clase específica de deidades | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪आदृत⟫ | आदृत | 3 | estimado | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪आनन्द⟫ | आनन्द | m | dicha, alegría | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | filosofía (la ciencia que llega a sus conclusiones mediante razonamientos lógicamente correctos) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪आपण⟫ | [āpaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpaṇa&filter=roman&accent=no&transLit=roman) | m | mercado | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪आपान⟫ | [āpāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpāna&filter=roman&accent=no&transLit=roman) | — | banquete | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪आम्⟫ | [ām](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ām&filter=roman&accent=no&transLit=roman) | — | sí | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪आयुर्वेद⟫ | [āyurveda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyurveda&filter=roman&accent=no&transLit=roman) | m | el sistema médico tradicional de la India | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪आयुस्⟫ | [āyus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āyus&filter=roman&accent=no&transLit=roman) | n | tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene)  | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪आर्य⟫ | [ārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ārya&filter=roman&accent=no&transLit=roman) | 3 | ario, noble ; m. aria (autodenominación de los antiguos indios que hablaban sánscrito, literal: hospitalario (Thieme)) ; | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪आश्रम⟫ | [āśrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āśrama&filter=roman&accent=no&transLit=roman) | m | eremitorio, etapa de vida, fase de la vida (a saber como , , y posiblemente como ; véase Basham, Maravillas p. 159s.) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪आसन⟫ | [āsana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āsana&filter=roman&accent=no&transLit=roman) | n | el sentarse, asiento; también: posturas de meditación del yogui | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪आस्⟫ | [ās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ās&filter=roman&accent=no&transLit=roman) | 2Ā | sentarse | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪आपण⟫ | आपण | m | mercado | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪आपान⟫ | आपान | — | banquete | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪आम्⟫ | आम् | — | sí | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪आयुर्वेद⟫ | आयुर्वेद | m | el sistema médico tradicional de la India | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪आयुस्⟫ | आयुस् | n | tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene)  | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪आर्य⟫ | आर्य | 3 | ario, noble ; m. aria (autodenominación de los antiguos indios que hablaban sánscrito, literal: hospitalario (Thieme)) ; | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪आश्रम⟫ | आश्रम | m | eremitorio, etapa de vida, fase de la vida (a saber como , , y posiblemente como ; véase Basham, Maravillas p. 159s.) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪आसन⟫ | आसन | n | el sentarse, asiento; también: posturas de meditación del yogui | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪आस्⟫ | आस् | 2Ā | sentarse | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
 
 ## इ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪इत्थम्⟫ | [ittham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ittham&filter=roman&accent=no&transLit=roman) | Adv | de esta manera, así | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | príncipe, primero, mejor entre ; rey de los dioses Indra | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | fuerza, sentido | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | como si, como (en comparaciones: = "un hombre como un tigre", "un hombre semejante a un tigre" | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : enviar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | aquí, aquí en la tierra, hacia aquí; ahora. Ante sustantivos en locativo () equivalente a  | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪इत्थम्⟫ | इत्थम् | Adv | de esta manera, así | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪इन्द्र⟫ | इन्द्र | m | príncipe, primero, mejor entre ; rey de los dioses Indra | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪इन्द्रिय⟫ | इन्द्रिय | n | fuerza, sentido | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪इव⟫ | इव | — | como si, como (en comparaciones: = "un hombre como un tigre", "un hombre semejante a un tigre" | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪इष्⟫ | इष् | — | sig[] : enviar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪इह⟫ | इह | Adv | aquí, aquí en la tierra, hacia aquí; ahora. Ante sustantivos en locativo () equivalente a  | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 
 ## ई
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪ईक्ष्⟫ | [īkṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īkṣ&filter=roman&accent=no&transLit=roman) | — | ver | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪ईक्ष्⟫ | [īkṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īkṣ&filter=roman&accent=no&transLit=roman) | 1Ā | ver, (re)bajar, contemplar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪ईश्वर⟫ | [īśvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īśvara&filter=roman&accent=no&transLit=roman) | m | Señor, soberano, dios (monoteísta) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪ईक्ष्⟫ | ईक्ष् | — | ver | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪ईक्ष्⟫ | ईक्ष् | 1Ā | ver, (re)bajar, contemplar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪ईश्वर⟫ | [īśvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īśvara&filter=roman&accent=no&transLit=roman) | m | Señor, soberano, dios (monoteísticamente) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 
 ## उ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪उत⟫ | [uta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=uta&filter=roman&accent=no&transLit=roman) | — | y, también, o | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪उत्तम⟫ | [uttama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=uttama&filter=roman&accent=no&transLit=roman) | 3 | supremo, mejor | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪उत्साद⟫ | [utsāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=utsāda&filter=roman&accent=no&transLit=roman) | m | Pérdida, destrucción | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪उदक⟫ | [udaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=udaka&filter=roman&accent=no&transLit=roman) | n | agua | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪उदक⟫ | [udaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=udaka&filter=roman&accent=no&transLit=roman) | n | Agua | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪उद्⟫ | [ud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ud&filter=roman&accent=no&transLit=roman) | — | sobre, hacia arriba, hacia fuera, de, extra- | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪उद्⟫ | [ud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ud&filter=roman&accent=no&transLit=roman) | — | sobre, hacia arriba, en alto, hacia fuera, de, extraer- | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪उपमा⟫ | [upamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upamā&filter=roman&accent=no&transLit=roman) | f | comparación | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪उपहार⟫ | [upahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upahāra&filter=roman&accent=no&transLit=roman) | m | ofrenda, sacrificio, regalo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪उपाध्याय⟫ | [upādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upādhyāya&filter=roman&accent=no&transLit=roman) | m | maestro | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪उत⟫ | उत | — | y, también, o | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪उत्तम⟫ | उत्तम | 3 | supremo, mejor | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪उत्साद⟫ | उत्साद | m | Pérdida, destrucción | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪उदक⟫ | उदक | n | agua | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪उदक⟫ | उदक | n | Agua | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪उद्⟫ | उद् | — | sobre, hacia arriba, hacia fuera, de, extra- | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪उद्⟫ | उद् | — | sobre, hacia arriba, en alto, hacia fuera, de, extraer- | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪उपमा⟫ | उपमा | f | comparación | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪उपहार⟫ | उपहार | m | ofrenda, sacrificio, regalo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪उपाध्याय⟫ | उपाध्याय | m | maestro | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 | ⟪उपेक्षा⟫ | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upekṣā&filter=roman&accent=no&transLit=roman) | f | indiferencia, ecuanimidad | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 
 ## ऊ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪ऊह⟫ | [ūha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūha&filter=roman&accent=no&transLit=roman) | m | reflexión, argumentación | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪ऊहापोह⟫ | [ūhāpoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūhāpoha&filter=roman&accent=no&transLit=roman) | m | discusión del pro y el contra | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪ऊह⟫ | ऊह | m | reflexión, argumentación | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪ऊहापोह⟫ | ऊहापोह | m | discusión del pro y el contra | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
 
 ## ऋ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | proceso periódico, estación del año, período de tiempo, menstruación, tiempo en el que la mujer es fértil y tiene derech | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | prosperar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪ऋतु⟫ | ऋतु | m | proceso periódico, estación del año, período de tiempo, menstruación, tiempo en el que la mujer es fértil y tiene derech | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪ऋध्⟫ | ऋध् | — | prosperar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 | ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | sabio védico, autor de himnos védicos | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
 
 ## ए
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | en un lugar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪एकत्र⟫ | एकत्र | Adv | en un lugar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatiza la palabra precedente | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatiza lo anterior, en alemán a menudo corresponde al énfasis, una especie de emoticono \<!\>, p. ej. "sólo la verdad  | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪एव⟫ | एव | — | enfatiza lo anterior, en alemán a menudo corresponde al énfasis, una especie de emoticono \<!\>, p. ej. "sólo la verdad  | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
 
 ## ओ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪ओष्ठ⟫ | [oṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=oṣṭha&filter=roman&accent=no&transLit=roman) | m | labio | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪ओष्ठ⟫ | ओष्ठ | m | labio | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 
 ## औ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪औपकारिक⟫ | [aupakārika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aupakārika&filter=roman&accent=no&transLit=roman) | 3 | - : útil | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪औपकारिक⟫ | औपकारिक | 3 | - : útil | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
 
 ## क
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪कदली⟫ | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kadalī&filter=roman&accent=no&transLit=roman) | f | banano (_Musa_ sp.) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | f | joven chica, hija, doncella | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪कम्⟫ | [kam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kam&filter=roman&accent=no&transLit=roman) | 10Ā | amar | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
-| ⟪कर⟫ | [kara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kara&filter=roman&accent=no&transLit=roman) | — | actuando, haciendo, causando | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪कदली⟫ | कदली | f | banano (_Musa_ sp.) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪कन्या⟫ | कन्या | f | joven chica, hija, doncella | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪कम्⟫ | कम् | 10Ā | amar | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
+| ⟪कर⟫ | कर | — | actuando, haciendo, causando | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 | ⟪करुणा⟫ | [karuṇā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=karuṇā&filter=roman&accent=no&transLit=roman) | f | compasión, lástima | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪कर्गल⟫ | [kargala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kargala&filter=roman&accent=no&transLit=roman) | n | papel | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪कर्मन्⟫ | [karman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=karman&filter=roman&accent=no&transLit=roman) | n | acción, hecho, obra; obra sagrada, acto de sacrificio; Karma: la acción pasada que más tarde trae sus frutos (por ejempl | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪कर्मविपाक⟫ | [karmavipāka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=karmavipāka&filter=roman&accent=no&transLit=roman) | m | Rodaje de las acciones = las consecuencias buenas y malas de las acciones en existencias anteriores (a -) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪कलत्र⟫ | [kalatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalatra&filter=roman&accent=no&transLit=roman) | — | Esposa, hembra | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪कला⟫ | [kalā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalā&filter=roman&accent=no&transLit=roman) | f | arte | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪कल्प⟫ | [kalpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalpa&filter=roman&accent=no&transLit=roman) | m | estatuto, costumbre, ritual; [período mundial](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (de ) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪कल्पना⟫ | [kalpanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalpanā&filter=roman&accent=no&transLit=roman) | f | La formación en pensamientos, la suposición de algo que no existe en la realidad, ficción | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪कल्याण⟫ | [kalyāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalyāṇa&filter=roman&accent=no&transLit=roman) | 3 | hermoso | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪कवि⟫ | [kavi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kavi&filter=roman&accent=no&transLit=roman) | m | poeta | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪कर्गल⟫ | कर्गल | n | papel | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪कर्मन्⟫ | कर्मन् | n | acción, hecho, obra; obra sagrada, acto de sacrificio; Karma: la acción pasada que más tarde trae sus frutos (por ejempl | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪कर्मविपाक⟫ | कर्मविपाक | m | Rodaje de las acciones = las consecuencias buenas y malas de las acciones en existencias anteriores (a -) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪कलत्र⟫ | कलत्र | — | Esposa, hembra | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪कला⟫ | कला | f | arte | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪कल्प⟫ | कल्प | m | estatuto, costumbre, ritual; [período mundial](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (de ) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪कल्पना⟫ | कल्पना | f | La formación en pensamientos, la suposición de algo que no existe en la realidad, ficción | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪कल्याण⟫ | कल्याण | 3 | hermoso | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪कवि⟫ | [kavi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kavi&filter=roman&accent=no&transLit=roman) | m | Poeta | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪काम⟫ | [kāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāma&filter=roman&accent=no&transLit=roman) | m | Deseo, anhelo, don deseado, placer sensual, amor; dios del amor Kāma | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪कामम्⟫ | [kāmam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāmam&filter=roman&accent=no&transLit=roman) | — | a voluntad, a placer | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪काल⟫ | [kāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāla&filter=roman&accent=no&transLit=roman) | m | tiempo, (correcto) momento ; destino, muerte ; dios de la muerte Kāla | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪कालन⟫ | [kālana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kālana&filter=roman&accent=no&transLit=roman) | n | Bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪कियत्⟫ | [kiyat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kiyat&filter=roman&accent=no&transLit=roman) | 3 | ¿cuánto mide? | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪किल्बिष⟫ | [kilbiṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kilbiṣa&filter=roman&accent=no&transLit=roman) | n | culpa, ofensa, pecado | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪कु⟫ | [ku](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ku&filter=roman&accent=no&transLit=roman) | — | como prefijo en compuestos: malo | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪कुप्य⟫ | [kupya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kupya&filter=roman&accent=no&transLit=roman) | n | producto del bosque, metal (no metal precioso) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | m | príncipe | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | m | niño, joven, príncipe; epíteto de / Murugan = முருகன் = മുരുകന് / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪कुमारी⟫ | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumārī&filter=roman&accent=no&transLit=roman) | f | chica, hija | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪कुल⟫ | [kula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kula&filter=roman&accent=no&transLit=roman) | n | Rebaño, multitud, casta, linaje, familia | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪कुलूहल⟫ | [kulūhala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kulūhala&filter=roman&accent=no&transLit=roman) | n | curiosidad, interés | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪कृ⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | inclinarse, venerar, saludar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪कृतम्⟫ | [kṛtam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtam&filter=roman&accent=no&transLit=roman) | — | = "Está hecho con la ira = ¡abstente de la ira!" | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪कृत्स्न⟫ | [kṛtsna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtsna&filter=roman&accent=no&transLit=roman) | 3 | entero, completo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪केवलम्⟫ | [kevalam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kevalam&filter=roman&accent=no&transLit=roman) | Adv | solo, únicamente, completamente | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | experto en () | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | n | infancia | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | m | búho | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : avanzar, ir | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪कामम्⟫ | कामम् | — | a voluntad, a placer | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪काल⟫ | काल | m | tiempo, (correcto) momento ; destino, muerte ; dios de la muerte Kāla | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪कालन⟫ | कालन | n | Bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪कियत्⟫ | कियत् | 3 | ¿cuánto? | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪किल्बिष⟫ | किल्बिष | n | culpa, ofensa, pecado | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪कु⟫ | कु | — | como prefijo en compuestos: malo | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪कुप्य⟫ | कुप्य | n | producto del bosque, metal (no metal precioso) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪कुमार⟫ | कुमार | m | príncipe | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪कुमार⟫ | कुमार | m | niño, joven, príncipe; epíteto de / Murugan = முருகன் = മുരുകന് / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪कुमारी⟫ | कुमारी | f | chica, hija | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪कुल⟫ | कुल | n | Rebaño, multitud, casta, linaje, familia | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪कुलूहल⟫ | कुलूहल | n | curiosidad, interés | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪कृ⟫ | कृ | — | inclinarse, venerar, saludar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪कृतम्⟫ | कृतम् | — | = "Está hecho con la ira = ¡abstente de la ira!" | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪कृत्स्न⟫ | कृत्स्न | 3 | entero, completo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪केवलम्⟫ | केवलम् | Adv | solo, únicamente, completamente | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪कोविद⟫ | कोविद | 3 | experto en () | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪कौमर⟫ | कौमर | n | infancia | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪कौशिक⟫ | कौशिक | m | búho | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : avanzar, ir | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
-| ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | acción, acción sagrada, acto de sacrificio, ceremonia (para 8) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | comprar | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | crudo, cruel | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪क्रिया⟫ | क्रिया | f | acción, acción sagrada, acto de sacrificio, ceremonia (para 8) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪क्री⟫ | क्री | 9U | comprar | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪क्रूर⟫ | क्रूर | 3 | crudo, cruel | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
 | ⟪क्रोध⟫ | [krodha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krodha&filter=roman&accent=no&transLit=roman) | m | Ira | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
 | ⟪क्लेश⟫ | [kleśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kleśa&filter=roman&accent=no&transLit=roman) | m | Tormento, plaga | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪क्षत्रिय⟫ | [kṣatriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriya&filter=roman&accent=no&transLit=roman) | m | Kṣatriya (estado de príncipes y guerreros) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪क्षत्रिय⟫ | [kṣatriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriya&filter=roman&accent=no&transLit=roman) | m | Kṣatriya (orden de príncipes y guerreros) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪क्षत्रिया⟫ | [kṣatriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyā&filter=roman&accent=no&transLit=roman) | f | kṣatriya (mujer) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | esposa de un kṣatriya | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪क्षमा⟫ | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣamā&filter=roman&accent=no&transLit=roman) | f | Paciencia, longanimidad, tolerancia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪क्षिप्⟫ | [kṣip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣip&filter=roman&accent=no&transLit=roman) | 6P | lanzar, arrojar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪क्षेम⟫ | [kṣema](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣema&filter=roman&accent=no&transLit=roman) | n | Tranquilidad, paz, bienestar, posesión segura | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪कॢप्⟫ | [kḷp](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kḷp&filter=roman&accent=no&transLit=roman) | 1Ā | estar en orden correcto, corresponder a (Loc.); formarse, constituirse; decidirse por, conformarse con (Dat.) | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪क्षमा⟫ | क्षमा | f | Paciencia, longanimidad, tolerancia | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪क्षिप्⟫ | क्षिप् | 6P | lanzar, arrojar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪क्षेम⟫ | क्षेम | n | Tranquilidad, paz, bienestar, posesión segura | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪कॢप्⟫ | कॢप् | 1Ā | estar en orden correcto, corresponder a (Loc.); formarse, constituirse; decidirse por, conformarse con (Dat.) | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
 
 ## ख
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪खन्⟫ | [khan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khan&filter=roman&accent=no&transLit=roman) | 1U | cavar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪खिल⟫ | [khila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khila&filter=roman&accent=no&transLit=roman) | m | campo de cultivo, tierra baldía | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪ख्या⟫ | [khyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khyā&filter=roman&accent=no&transLit=roman) | 2P | ver, hacerse visible; nombrar, explicar, comunicar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪ख्या⟫ | [khyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khyā&filter=roman&accent=no&transLit=roman) | 2P | rechazar, desdeñar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪खन्⟫ | खन् | 1U | cavar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪खिल⟫ | खिल | m | campo de cultivo, tierra baldía | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪ख्या⟫ | ख्या | 2P | ver, hacerse visible; nombrar, explicar, comunicar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪ख्या⟫ | ख्या | 2P | rechazar, desdeñar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
 
 ## ग
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪गम्⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | — | encontrar, llegar a, obtener | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪गर्भ⟫ | [garbha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbha&filter=roman&accent=no&transLit=roman) | — | "interior", por ejemplo | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
-| ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | Volwahsen, A.: India: construcciones de hindúes, budistas y jainas. -- Múnich, 1968) | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
-| ⟪गर्ह्⟫ | [garh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garh&filter=roman&accent=no&transLit=roman) | 1Ā | regañar, reprender | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | protegido, resguardado | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪गम्⟫ | गम् | — | encontrar, llegar a, obtener | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪गर्भ⟫ | गर्भ | — | "interior", por ejemplo | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
+| ⟪गर्भगृह⟫ | गर्भगृह | — | Volwahsen, A.: India: construcciones de hindúes, budistas y jainas. -- Múnich, 1968) | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
+| ⟪गर्ह्⟫ | गर्ह् | 1Ā | regañar, reprender | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪गुप्त⟫ | गुप्त | 3 | protegido, resguardado | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | pesado, importante, digno de veneración | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | fem. de guru | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪गृह⟫ | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛha&filter=roman&accent=no&transLit=roman) | n | casa | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | en la casa; m. padre de familia (alguien que se encuentra en el 2. ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪गृहस्थ⟫ | गृहस्थ | 3 | en la casa; m. padre de familia (alguien que se encuentra en el 2. ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 | ⟪गृह्यसूत्र⟫ | [gṛhyasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyasūtra&filter=roman&accent=no&transLit=roman) | n | obras didácticas para las ceremonias y sacrificios de la vida diaria | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | cantar, recitar en tono cantado, anunciar en discurso poético | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
-| ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | Dar vacas / una vaca; segunda ceremonia de corte de cabello (un ) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | consumir, devorar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | acción de agarrar, as, cocodrilo, planeta errante | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | agarrar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : agarrar, asir, tomar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪गै⟫ | गै | 1P | cantar, recitar en tono cantado, anunciar en discurso poético | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪गोदान⟫ | गोदान | n | dar vacas / una vaca ; segunda ceremonia de corte de cabello (un ) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪ग्रस्⟫ | ग्रस् | 1Ā | consumir, devorar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪ग्रह⟫ | ग्रह | m | acción de agarrar, as, cocodrilo, planeta errante | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪ग्रहण⟫ | ग्रहण | n | agarrar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : agarrar, asir, tomar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | aldea | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | sentir aversión, desvanecerse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪ग्लै⟫ | ग्लै | 1P | sentir aversión, desvanecerse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
 ## घ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | muerte | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | mantequilla clarificada, ghee ( / گھی / ঘী) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : oler algo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪घात⟫ | घात | m | muerte | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪घृत⟫ | घृत | n | mantequilla clarificada, ghee ( / گھی / ঘী) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : oler algo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
 ## च
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | n | rueda | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪चक्ष्⟫ | [cakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakṣ&filter=roman&accent=no&transLit=roman) | 2Ā | ver \<!-- --\> | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪चतुर्थ⟫ | [caturtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caturtha&filter=roman&accent=no&transLit=roman) | 3 | cuarto | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪चर⟫ | [cara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cara&filter=roman&accent=no&transLit=roman) | m | lo móvil = animales (en contraste con las plantas) | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪चरित्र⟫ | [caritra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caritra&filter=roman&accent=no&transLit=roman) | n | costumbre, uso, derecho consuetudinario ; comportamiento | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪चर्⟫ | [car](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=car&filter=roman&accent=no&transLit=roman) | — | practicar un voto, especialmente abstinencia sexual) | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪चल्⟫ | [cal](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cal&filter=roman&accent=no&transLit=roman) | 1P | entrar en movimiento | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪चाण्डाल⟫ | [cāṇḍāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cāṇḍāla&filter=roman&accent=no&transLit=roman) | — | nivel más bajo de los [Dalits](http://de.wikipedia.org/wiki/Dalit) | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪चि⟫ | [ci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ci&filter=roman&accent=no&transLit=roman) | 5U | apilar, reunir | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪चित्त⟫ | [citta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=citta&filter=roman&accent=no&transLit=roman) | n | Conciencia, pensamiento, mente | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪चिन्तापर⟫ | [cintāpara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cintāpara&filter=roman&accent=no&transLit=roman) | 3 | absorto en pensamientos | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪चिन्त्⟫ | [cint](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cint&filter=roman&accent=no&transLit=roman) | — | pensar, reflexionar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪चुर्⟫ | [cur](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cur&filter=roman&accent=no&transLit=roman) | — | robar | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
-| ⟪चेत्⟫ | [cet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cet&filter=roman&accent=no&transLit=roman) | — | si; con la condición de que (nunca se encuentra al inicio de una oración) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪चेष्ट्⟫ | [ceṣṭ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ceṣṭ&filter=roman&accent=no&transLit=roman) | — | moverse | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪चौल⟫ | [caula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caula&filter=roman&accent=no&transLit=roman) | n | ceremonia () de corte de cabello (a los 3 años) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪च्यु⟫ | [cyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cyu&filter=roman&accent=no&transLit=roman) | 1Ā | moverse, desplazarse, caer | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪चक्र⟫ | चक्र | n | rueda | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪चक्ष्⟫ | चक्ष् | 2Ā | ver \<!-- --\> | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪चतुर्थ⟫ | चतुर्थ | 3 | cuarto | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪चर⟫ | चर | m | lo móvil = animales (en contraste con las plantas) | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪चरित्र⟫ | चरित्र | n | costumbre, uso, derecho consuetudinario ; comportamiento | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪चर्⟫ | चर् | — | practicar un voto, especialmente abstinencia sexual) | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪चल्⟫ | चल् | 1P | entrar en movimiento | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪चाण्डाल⟫ | चाण्डाल | — | nivel más bajo de los [Dalits](http://de.wikipedia.org/wiki/Dalit) | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪चि⟫ | चि | 5U | apilar, reunir | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪चित्त⟫ | चित्त | n | Conciencia, pensamiento, mente | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪चिन्तापर⟫ | चिन्तापर | 3 | absorto en pensamientos | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪चिन्त्⟫ | चिन्त् | — | pensar, reflexionar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪चुर्⟫ | चुर् | — | robar | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
+| ⟪चेत्⟫ | चेत् | — | si; con la condición de que (nunca se encuentra al inicio de una oración) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪चेष्ट्⟫ | चेष्ट् | — | moverse | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪चौल⟫ | चौल | n | ceremonia () de corte de cabello (a los 3 años) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪च्यु⟫ | च्यु | 1Ā | moverse, desplazarse, caer | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 
 ## छ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪छन्न⟫ | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=channa&filter=roman&accent=no&transLit=roman) | n | manta, escondite | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪छिद्⟫ | [chid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=chid&filter=roman&accent=no&transLit=roman) | 7U | cortar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪छन्न⟫ | छन्न | n | manta, escondite | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪छिद्⟫ | छिद् | 7U | cortar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
 
 ## ज
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪जटा⟫ | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jaṭā&filter=roman&accent=no&transLit=roman) | f | trenza de cabello (peinado de asceta) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪जन्मन्⟫ | [janman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=janman&filter=roman&accent=no&transLit=roman) | n | nacimiento | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪जव⟫ | [java](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=java&filter=roman&accent=no&transLit=roman) | 3 | rápido, apresurado | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪जाति⟫ | [jāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāti&filter=roman&accent=no&transLit=roman) | f | nacimiento, tipo, casta (para la casta véase Basham, Wonder, p. 148ss.) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪जाया⟫ | [jāyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāyā&filter=roman&accent=no&transLit=roman) | f | esposa | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪जीव⟫ | [jīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīva&filter=roman&accent=no&transLit=roman) | m | vida, alma individual | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | — | vivir | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | 1P | vivir | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | 9U | conocer, reconocer, saber, entender | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | 9U | reconocer, comprender | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | — | aprobar, prometer; Ā: responder, confirmar, afirmar, reconocer | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | — | ordenar, disponer | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪ज्ञाति⟫ | [jñāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñāti&filter=roman&accent=no&transLit=roman) | m | (pariente por) sangre (los parientes son aquellos que se conocen) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪ज्ञान⟫ | [jñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñāna&filter=roman&accent=no&transLit=roman) | n | conocimiento | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪ज्ञान⟫ | [jñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñāna&filter=roman&accent=no&transLit=roman) | n | conocimiento, saber, reconocimiento (especialmente de las "verdades" superiores en religión y filosofía) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪जटा⟫ | जटा | f | trenza de cabello (peinado de asceta) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪जन्मन्⟫ | जन्मन् | n | nacimiento | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪जव⟫ | जव | 3 | rápido, apresurado | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪जाति⟫ | जाति | f | nacimiento, tipo, casta (para la casta véase Basham, Wonder, p. 148ss.) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪जाया⟫ | जाया | f | esposa | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪जीव⟫ | जीव | m | vida, alma individual | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪जीव्⟫ | जीव् | — | vivir | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪जीव्⟫ | जीव् | 1P | vivir | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪ज्ञा⟫ | ज्ञा | 9U | conocer, reconocer, saber, entender | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪ज्ञा⟫ | ज्ञा | 9U | reconocer, comprender | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪ज्ञा⟫ | ज्ञा | — | aprobar, prometer; Ā: responder, confirmar, afirmar, reconocer | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪ज्ञा⟫ | ज्ञा | — | ordenar, disponer | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪ज्ञाति⟫ | ज्ञाति | m | (pariente por) sangre (los parientes son aquellos que se conocen) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪ज्ञान⟫ | ज्ञान | n | conocimiento | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪ज्ञान⟫ | ज्ञान | n | conocimiento, saber, reconocimiento (especialmente de las "verdades" superiores en religión y filosofía) | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
 
 ## त
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | verdadera naturaleza, verdad, realidad ( + = estaidad) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪तनु⟫ | [tanu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanu&filter=roman&accent=no&transLit=roman) | — | esbelto | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪तनूकृ⟫ | [tanūkṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanūkṛ&filter=roman&accent=no&transLit=roman) | — | disminuir, debilitar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪तन्त्र⟫ | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tantra&filter=roman&accent=no&transLit=roman) | n | cuerda ; telar, urdimbre, tejido ; base, norma, regla ; doctrina, obra didáctica ; tantra ; fórmula mágica ; medio, truc | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪तरय⟫ | [taraya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=taraya&filter=roman&accent=no&transLit=roman) | 3 | triple, compuesto de tres partes | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪तर्हि⟫ | [tarhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tarhi&filter=roman&accent=no&transLit=roman) | — | entonces, entonces; por eso, así que | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪तात⟫ | [tāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tāta&filter=roman&accent=no&transLit=roman) | m | Papá | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪तावत्⟫ | [tāvat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tāvat&filter=roman&accent=no&transLit=roman) | Adv | mientras | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪तीक्ष्ण⟫ | [tīkṣṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīkṣṇa&filter=roman&accent=no&transLit=roman) | 3 | "salvaje", agudo, afilado, severo, intenso, mordaz | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪तीर्थ⟫ | [tīrtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrtha&filter=roman&accent=no&transLit=roman) | n | Vado, lugar sagrado de baños, lugar de peregrinaje | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪तीर्थङ्कर⟫ | [tīrthaṅkara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrthaṅkara&filter=roman&accent=no&transLit=roman) | m | Hacedor de vados (a través del sufrimiento) = los 24 maestros de los jainistas | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪तुद्⟫ | [tud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tud&filter=roman&accent=no&transLit=roman) | 6U | golpear | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪तुल्⟫ | [tul](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tul&filter=roman&accent=no&transLit=roman) | — | pesar | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪तुल्य⟫ | [tulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tulya&filter=roman&accent=no&transLit=roman) | 3 | igual, comparable () | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪तुष्⟫ | [tuṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tuṣ&filter=roman&accent=no&transLit=roman) | 4P | conformarse, estar satisfecho con (genitivo, dativo, instrumental, locativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪तृण⟫ | [tṛṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tṛṇa&filter=roman&accent=no&transLit=roman) | n | tallo de hierba | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪तॄ⟫ | [tṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tṝ&filter=roman&accent=no&transLit=roman) | 1P | cruzar, sobrepasar, salvarse de alguien (Akk. = sobrepasar a alguien) | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪त्याग⟫ | [tyāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tyāga&filter=roman&accent=no&transLit=roman) | m | abandono, renuncia, evitación | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪तत्त्व⟫ | तत्त्व | n | verdadera naturaleza, verdad, realidad ( + = estaidad) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪तनु⟫ | तनु | — | esbelto | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪तनूकृ⟫ | तनूकृ | — | disminuir, debilitar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪तन्त्र⟫ | तन्त्र | n | cuerda ; telar, urdimbre, tejido ; base, norma, regla ; doctrina, obra didáctica ; tantra ; fórmula mágica ; medio, truc | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪तरय⟫ | तरय | 3 | triple, compuesto de tres partes | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪तर्हि⟫ | तर्हि | — | entonces, luego; por lo tanto, así que | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪तात⟫ | तात | m | Papá | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪तावत्⟫ | तावत् | Adv | mientras | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪तीक्ष्ण⟫ | तीक्ष्ण | 3 | "salvaje", agudo, afilado, severo, intenso, mordaz | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪तीर्थ⟫ | तीर्थ | n | Vado, lugar sagrado de baños, lugar de peregrinaje | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪तीर्थङ्कर⟫ | तीर्थङ्कर | m | Hacedor de vados (a través del sufrimiento) = los 24 maestros de los jainistas | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪तुद्⟫ | तुद् | 6U | golpear | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪तुल्⟫ | तुल् | — | pesar | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪तुल्य⟫ | तुल्य | 3 | igual, comparable () | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪तुष्⟫ | तुष् | 4P | conformarse, estar satisfecho con (genitivo, dativo, instrumental, locativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪तृण⟫ | तृण | n | tallo de hierba | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪तॄ⟫ | तॄ | 1P | cruzar, sobrepasar, salvarse de alguien (Akk. = sobrepasar a alguien) | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪त्याग⟫ | त्याग | m | Abandono, renuncia, evitación | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪त्रयी⟫ | [trayī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=trayī&filter=roman&accent=no&transLit=roman) | f | Trío; en especial los tres Vedas (Ṛgveda, Sāmaveda, Yajurveda) | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪त्रि⟫ | [tri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tri&filter=roman&accent=no&transLit=roman) | 3 | tres | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪त्रिपिष्टप⟫ | [tripiṣṭapa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tripiṣṭapa&filter=roman&accent=no&transLit=roman) | n | el cielo de Indra | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪त्रिवर्ग⟫ | [trivarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=trivarga&filter=roman&accent=no&transLit=roman) | m | grupo de tres (por ejemplo, , , ; o: , , ; o: , , ) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪त्रै⟫ | [trai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=trai&filter=roman&accent=no&transLit=roman) | 1Ā | proteger, salvar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪त्वर्⟫ | [tvar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tvar&filter=roman&accent=no&transLit=roman) | 1Ā | apresurarse | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪त्रि⟫ | त्रि | 3 | tres | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪त्रिपिष्टप⟫ | त्रिपिष्टप | n | el cielo de Indra | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪त्रिवर्ग⟫ | त्रिवर्ग | m | grupo de tres (por ejemplo, , , ; o: , , ; o: , , ) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪त्रै⟫ | त्रै | 1Ā | proteger, salvar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪त्वर्⟫ | त्वर् | 1Ā | apresurarse | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
 
 ## द
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | palo, garrote, castigo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪दण्ड⟫ | दण्ड | m | palo, garrote, castigo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | Política (un Tatpuruṣa compuesto de daṇḍa m. = "bastón, poder, dominio, castigo" y nīti f. = "guía correcta") | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪दरैद्र⟫ | [daraidra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daraidra&filter=roman&accent=no&transLit=roman) | — | pobre | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪दा⟫ | [dā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dā&filter=roman&accent=no&transLit=roman) | 3U | dar | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪दान⟫ | [dāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāna&filter=roman&accent=no&transLit=roman) | n | dar, donación, generosidad | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪दायक⟫ | [dāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāyaka&filter=roman&accent=no&transLit=roman) | — |  dando, concediendo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪दार⟫ | [dāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāra&filter=roman&accent=no&transLit=roman) | m | esposa | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪दास⟫ | [dāsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāsa&filter=roman&accent=no&transLit=roman) | m | esclavo, siervo, sirviente | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪दासी⟫ | [dāsī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāsī&filter=roman&accent=no&transLit=roman) | f | esclava, sierva, sirvienta | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪दिन⟫ | [dina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dina&filter=roman&accent=no&transLit=roman) | n | Día | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
-| ⟪दिन⟫ | [dina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dina&filter=roman&accent=no&transLit=roman) | n | día | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪दिवानिशम्⟫ | [divāniśam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=divāniśam&filter=roman&accent=no&transLit=roman) | — | de día y de noche | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪दिव्य⟫ | [divya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=divya&filter=roman&accent=no&transLit=roman) | 3 | celestial, divino | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪दिश्⟫ | [diś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diś&filter=roman&accent=no&transLit=roman) | — | mostrar, indicar, ordenar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪दिष्टि⟫ | [diṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diṣṭi&filter=roman&accent=no&transLit=roman) | f | instrucción, feliz disposición | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪दिष्ट्या⟫ | [diṣṭyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diṣṭyā&filter=roman&accent=no&transLit=roman) | — | (literalmente: por una feliz disposición) ¡Oh, feliz disposición! (exclamación de alegría y dicha) | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪दिह्⟫ | [dih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dih&filter=roman&accent=no&transLit=roman) | 2U | untar, enmascarar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪दीर्घ⟫ | [dīrgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dīrgha&filter=roman&accent=no&transLit=roman) | 3 | largo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪दुहितृ⟫ | [duhitṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duhitṛ&filter=roman&accent=no&transLit=roman) | f | Hija | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪दुह्⟫ | [duh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duh&filter=roman&accent=no&transLit=roman) | — | ordeñar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪दूत⟫ | [dūta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dūta&filter=roman&accent=no&transLit=roman) | m | mensajero, enviado | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪दरैद्र⟫ | दरैद्र | — | pobre | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪दा⟫ | दा | 3U | dar | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪दान⟫ | दान | n | dar, donación, generosidad | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪दायक⟫ | दायक | — |  dando, concediendo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪दार⟫ | दार | m | esposa | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪दारिद्र्य⟫ | दारिद्र्य | n | ordenar, enseñar, castigar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪दास⟫ | दास | m | esclavo, siervo, sirviente | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪दासी⟫ | दासी | f | esclava, sierva, sirvienta | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪दिन⟫ | दिन | n | Día | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
+| ⟪दिन⟫ | दिन | n | día | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪दिवानिशम्⟫ | दिवानिशम् | — | de día y de noche | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪दिव्य⟫ | दिव्य | 3 | celestial, divino | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪दिश्⟫ | दिश् | — | mostrar, indicar, ordenar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪दिष्टि⟫ | दिष्टि | f | instrucción, feliz disposición | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪दिष्ट्या⟫ | दिष्ट्या | — | (literalmente: por una feliz disposición) ¡Oh, feliz disposición! (exclamación de alegría y dicha) | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪दिह्⟫ | दिह् | 2U | untar, enmascarar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪दीर्घ⟫ | दीर्घ | 3 | largo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪दुहितृ⟫ | दुहितृ | f | Hija | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪दुह्⟫ | दुह् | — | ordeñar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪दूत⟫ | दूत | m | mensajero, enviado | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 | ⟪देव⟫ | [deva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deva&filter=roman&accent=no&transLit=roman) | m | Celestial, dios; príncipe, rey | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | deidad (abstracta y concreta) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | diosa, en particular Durgā f. = , la esposa de Śiva =  | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪देवृ⟫ | [devṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devṛ&filter=roman&accent=no&transLit=roman) | m | Hermano del esposo (cuñado de la mujer) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪देश⟫ | [deśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deśa&filter=roman&accent=no&transLit=roman) | m | lugar, espacio, país, región | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪द्रव्य⟫ | [dravya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dravya&filter=roman&accent=no&transLit=roman) | n | objeto, posesión, posesión material, dinero | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪द्रु⟫ | [dru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dru&filter=roman&accent=no&transLit=roman) | 1P | correr, apresurarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪द्रुह्⟫ | [druh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=druh&filter=roman&accent=no&transLit=roman) | 4P | dañar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪द्विज⟫ | [dvija](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvija&filter=roman&accent=no&transLit=roman) | m | "Dos veces nacido" (iniciados de las tres clases superiores: Brāhmaṇa, Kṣatriya, Vaiśya) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪देवृ⟫ | देवृ | m | Hermano del esposo (cuñado de la mujer) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪देश⟫ | देश | m | lugar, espacio, país, región | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪द्रव्य⟫ | द्रव्य | n | objeto, bienes, posesión material, dinero | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪द्रु⟫ | द्रु | 1P | correr, apresurarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪द्रुह्⟫ | द्रुह् | 4P | dañar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪द्विज⟫ | [dvija](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvija&filter=roman&accent=no&transLit=roman) | m | "Nacido dos veces" (Iniciados de las tres clases superiores: brāhmaṇa, kṣatriya, vaiśya) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪द्विजाति⟫ | [dvijāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvijāti&filter=roman&accent=no&transLit=roman) | 3 | Dos veces nacido | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪द्विधा⟫ | [dvidhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvidhā&filter=roman&accent=no&transLit=roman) | — | doble, en dos partes | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪द्विधा⟫ | द्विधा | — | doble, en dos partes | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 | ⟪द्वेष⟫ | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dveṣa&filter=roman&accent=no&transLit=roman) | m | Odio | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
 | ⟪द्वेष⟫ | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dveṣa&filter=roman&accent=no&transLit=roman) | — | odio | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
 
@@ -389,508 +390,517 @@ outline: 2
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | lo que es firme y sostiene = Dharma | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪धर्म⟫ | धर्म | m | lo que es firme y sostiene = Dharma | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | obras didácticas sobre derecho y costumbre (comportamiento correcto) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | dirigir toda la atención hacia algo, concentrarse | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪धा⟫ | धा | — | dirigir toda la atención hacia algo, concentrarse | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | granos trillados | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪धान्य⟫ | धान्य | n | cereal trillado | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪धापयति⟫ | Caus. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪धीयते⟫ | Pás. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | firme, constante, continuo, perseverante | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | sostener, retener | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪धीर⟫ | धीर | 3 | firme, constante, continuo, perseverante | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪धृ⟫ | धृ | 1U | sostener, sujetar firmemente | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | vaca (de leche) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪ध्यै⟫ | [dhyai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhyai&filter=roman&accent=no&transLit=roman) | 1P | imaginarse, pensar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪ध्रुव⟫ | [dhruva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhruva&filter=roman&accent=no&transLit=roman) | 3 | firme, inmutable | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪ध्यै⟫ | ध्यै | 1P | imaginarse, pensar | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪ध्रुव⟫ | ध्रुव | 3 | firme, inmutable | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 
 ## न
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
 | ⟪नगर⟫ | [nagara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nagara&filter=roman&accent=no&transLit=roman) | n | ciudad | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | Hermana del hombre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪नन्दिन्⟫ | [nandin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nandin&filter=roman&accent=no&transLit=roman) | 3 | caracterizado por (especial) alegría, alegre; m. nombre del animal de monta () del (un toro) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪नन्द्⟫ | [nand](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nand&filter=roman&accent=no&transLit=roman) | 1P | alegrarse de () | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪नप्तृ⟫ | [naptṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naptṛ&filter=roman&accent=no&transLit=roman) | m | Nieto | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪नमस्⟫ | [namas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=namas&filter=roman&accent=no&transLit=roman) | n | reverencia, veneración, saludo (declinación más tarde). Fórmula de saludo | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | — | doblar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | doblarse, inclinarse, hacer una reverencia | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | m | los nueve planetas errantes (¡no los planetas del sistema solar!) (véase Basham, Maravillas p. 493) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | perderse, perecer, desaparecer | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
-| ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | f | ombligo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | Nombre | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | hacia abajo, abajo, dentro, hacia atrás | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | hacia abajo, hacia abajo, hacia dentro, hacia atrás | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | hacia abajo, hacia abajo, hacia dentro, hacia atrás | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪निखिल⟫ | [nikhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nikhila&filter=roman&accent=no&transLit=roman) | 3 | completo, entero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪नित्य⟫ | [nitya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nitya&filter=roman&accent=no&transLit=roman) | — | constantemente, permanente, eterno | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪नित्यम्⟫ | [nityam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nityam&filter=roman&accent=no&transLit=roman) | Adv | siempre, constantemente, siempre | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪निरोध⟫ | [nirodha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nirodha&filter=roman&accent=no&transLit=roman) | m | Detención, hacer detenerse | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪निर्वाण⟫ | [nirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nirvāṇa&filter=roman&accent=no&transLit=roman) | n | Extinción, Nirvana | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪निश्चित⟫ | [niścita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=niścita&filter=roman&accent=no&transLit=roman) | 3 | decidido, fijado | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪निषेक⟫ | [niṣeka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=niṣeka&filter=roman&accent=no&transLit=roman) | m | aspersión, fertilización, líquido, eyaculado, ceremonia de concepción | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪निस्⟫ | [nis](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nis&filter=roman&accent=no&transLit=roman) | — | hacia fuera, lejos, hacia afuera, hacia arriba, de, sin - de | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪नी⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | llevarse, instruir, educar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪ननान्दृ⟫ | ननान्दृ | f | Hermana del hombre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪नन्दिन्⟫ | नन्दिन् | 3 | caracterizado por (especial) alegría, alegre ; m. nombre de la montadura () del (un toro) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪नन्द्⟫ | नन्द् | 1P | alegrarse de () | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪नप्तृ⟫ | नप्तृ | m | Nieto | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪नमस्⟫ | नमस् | n | reverencia, veneración, saludo (declinación más tarde). Fórmula de saludo | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪नम्⟫ | नम् | — | doblar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪नम्⟫ | नम् | 1P | doblarse, inclinarse, hacer una reverencia | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪नवग्रह⟫ | नवग्रह | m | los nueve planetas errantes (¡no los planetas del sistema solar!) (véase Basham, Maravillas p. 493) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪नश्⟫ | नश् | 4P | perderse, perecer, desaparecer | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪नाभि⟫ | नाभि | f | ombligo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪नामन्⟫ | नामन् | n | Nombre | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪नि⟫ | नि | — | hacia abajo, abajo, dentro, hacia atrás | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪नि⟫ | नि | — | hacia abajo, hacia abajo, hacia dentro, hacia atrás | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪नि⟫ | नि | — | hacia abajo, hacia abajo, hacia dentro, hacia atrás | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪निखिल⟫ | निखिल | 3 | completo, entero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪नित्य ३⟫ | नित्य ३ | — | constante, permanente, eterno | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪नित्यम्⟫ | नित्यम् | Adv | siempre, constantemente | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪निरोध⟫ | निरोध | m | Detención, hacer detenerse | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪निर्वाण⟫ | निर्वाण | n | Extinción, Nirvana | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪निश्चित⟫ | निश्चित | 3 | decidido, fijado | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪निषेक⟫ | निषेक | m | aspersión, fertilización, líquido, eyaculado, ceremonia de concepción | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪निस्⟫ | निस् | — | hacia fuera, lejos, hacia afuera, hacia arriba, de, sin - de | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪नी⟫ | नी | — | llevarse, instruir, educar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪नी नयति⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | guiar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
 | ⟪नीतिशास्त्र⟫ | [nītiśāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nītiśāstra&filter=roman&accent=no&transLit=roman) | n | obras didácticas de la sabiduría práctica | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪नृप⟫ | [nṛpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛpa&filter=roman&accent=no&transLit=roman) | m | "protector de los hombres" = rey | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪नृशंस्य⟫ | [nṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | Malicia, bajeza | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪नोचेत्⟫ | [nocet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nocet&filter=roman&accent=no&transLit=roman) | — | si no, de lo contrario | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪न्याय⟫ | [nyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nyāya&filter=roman&accent=no&transLit=roman) | m | regla, principio, método, juicio (jurídico), lógica (de ni + i +a) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪न्याय⟫ | [nyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nyāya&filter=roman&accent=no&transLit=roman) | m | norma, regla, manera correcta; método, lógica (de + ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪नृत् नृत्यति⟫ | [nṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛt&filter=roman&accent=no&transLit=roman) | — | bailar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪नृप⟫ | नृप | m | "protector de los hombres" = rey | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪नृशंस्य⟫ | नृशंस्य | n | Malicia, bajeza | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪नोचेत्⟫ | नोचेत् | — | si no, de lo contrario | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪न्याय⟫ | न्याय | m | regla, principio, método, juicio (jurídico), lógica (de ni + i + a) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪न्याय⟫ | न्याय | m | norma, regla, manera correcta; método, lógica (de + ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 
 ## प
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪पञ्जर⟫ | [pañjara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pañjara&filter=roman&accent=no&transLit=roman) | n | jaula | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | — | inteligente, experto (en) | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
-| ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | inteligente, sabio, erudito | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪पण्य⟫ | [paṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇya&filter=roman&accent=no&transLit=roman) | 3 | vendible; n.: mercancía, comercio | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
+| ⟪पञ्जर⟫ | पञ्जर | n | jaula | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪पण्डित⟫ | पण्डित | — | inteligente, experto (en) | [19](/es/lektionen/lektion19#_19-3-lista-de-palabras) |
+| ⟪पण्डित⟫ | पण्डित | 3 | inteligente, sabio, erudito | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪पण्य⟫ | पण्य | 3 | a la venta; n.: mercancía, comercio | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪पद⟫ | [pada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pada&filter=roman&accent=no&transLit=roman) | n | paso, lugar, sitio | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
-| ⟪पर⟫ | [para](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=para&filter=roman&accent=no&transLit=roman) | 3 | (declinación como ) lejano, extraño, más alto que (), extremo, supremo ; otro, extraño, hostil ; m.: extranjero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪परंपरा⟫ | [paraṃparā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paraṃparā&filter=roman&accent=no&transLit=roman) | f | serie ininterrumpida | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪परम⟫ | [parama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parama&filter=roman&accent=no&transLit=roman) | 3 | más lejano, más alto ; : mejor que, más alto que | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪परम्⟫ | [param](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=param&filter=roman&accent=no&transLit=roman) | Adv | en alto grado, sobre ello, más tarde, pero, sin embargo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪परलौकिक⟫ | [paralaukika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paralaukika&filter=roman&accent=no&transLit=roman) | — | concerniente al más allá, trascendente | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪परि⟫ | [pari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pari&filter=roman&accent=no&transLit=roman) | — | alrededor, por (lugar, tiempo), por ahí | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪परिचय⟫ | [paricaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricaya&filter=roman&accent=no&transLit=roman) | m | conocimiento, familiaridad | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪परिचित⟫ | [paricita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricita&filter=roman&accent=no&transLit=roman) | 3 | familiar, conocido | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪परिनिर्वाण⟫ | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parinirvāṇa&filter=roman&accent=no&transLit=roman) | n | Extinción completa, salvación completa (al final de la vida de un Buda o un Arhat) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪परिव्राजक⟫ | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parivrājaka&filter=roman&accent=no&transLit=roman) | m | vagabundo, monje errante, peregrino | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪पर⟫ | पर | 3 | (declinación como ) lejano, extraño, más alto que (), extremo, supremo ; otro, extraño, hostil ; m.: extranjero | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪परंपरा⟫ | परंपरा | f | serie ininterrumpida | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪परम⟫ | परम | 3 | más lejano, más alto ; : mejor que, más alto que | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪परम्⟫ | परम् | Adv | en alto grado, sobre ello, más tarde, pero, sin embargo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪परलौकिक⟫ | परलौकिक | — | concerniente al más allá, trascendente | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪परि⟫ | परि | — | alrededor, por (lugar, tiempo), por ahí | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪परिचय⟫ | परिचय | m | conocimiento, familiaridad | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪परिचित⟫ | परिचित | 3 | familiar, conocido | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪परिनिर्वाण⟫ | परिनिर्वाण | n | Extinción completa, salvación completa (al final de la vida de un Buda o un Arhat) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪परिव्राजक⟫ | परिव्राजक | m | vagabundo, monje errante, peregrino | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 | ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | animal doméstico de utilidad, ganado (colectivo) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪पश्चात्ताप⟫ | [paścāttāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paścāttāpa&filter=roman&accent=no&transLit=roman) | m | arrepentimiento | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
+| ⟪पश्चात्ताप⟫ | पश्चात्ताप | m | arrepentimiento | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | beber (traditionally counted as class 1) | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
-| ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | n | Venerable, maestro, digno | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪पात्र⟫ | पात्र | n | Venerable, maestro, digno | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
 | ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | pie, una cuarta parte, línea de verso | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
 | ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | mala acción, mal (contrario a puṇya) | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | también sinónimo con | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | Abuelo paterno | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | Abuela paterna | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पितृ⟫ | [pitṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛ&filter=roman&accent=no&transLit=roman) | m | Padre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पितृव्य⟫ | [pitṛvya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛvya&filter=roman&accent=no&transLit=roman) | m | Hermano del padre (tío paterno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पिशित⟫ | [piśita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=piśita&filter=roman&accent=no&transLit=roman) | n | (preparado) carne | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪पीड्⟫ | [pīḍ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pīḍ&filter=roman&accent=no&transLit=roman) | 10P | presionar, atormentar ; apretar, sitiar, afligir | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪पालयति⟫ | पालयति | — | también sinónimo con | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪पितामह⟫ | पितामह | m | Abuelo paterno | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पितामही⟫ | पितामही | f | Abuela paterna | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पितृ⟫ | पितृ | m | Padre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पितृव्य⟫ | पितृव्य | m | Hermano del padre (tío paterno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पिशित⟫ | पिशित | n | (preparado) carne | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪पीड्⟫ | पीड् | 10P | presionar, atormentar ; apretar, sitiar, afligir | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪पुण्य⟫ | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṇya&filter=roman&accent=no&transLit=roman) | n | buena acción, mérito | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | Hijo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पुनः⟫ | [punaḥ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punaḥ&filter=roman&accent=no&transLit=roman) | — | una y otra vez | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | de nuevo, otra vez, de vuelta, pero | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonidos sonoros excepto r-: ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | de nuevo, una y otra vez, atrás, otra vez, en cambio, pero | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪पुनर्भव⟫ | [punarbhava](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punarbhava&filter=roman&accent=no&transLit=roman) | m | renacimiento | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪पुरतस्⟫ | [puratas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puratas&filter=roman&accent=no&transLit=roman) | — | delante, antes, ante | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪पुरा⟫ | [purā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=purā&filter=roman&accent=no&transLit=roman) | Adv | antes, anteriormente | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪पुरुष⟫ | [puruṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puruṣa&filter=roman&accent=no&transLit=roman) | m | hombre, varón, siervo | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪पुष्कल⟫ | [puṣkala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṣkala&filter=roman&accent=no&transLit=roman) | 3 | magnífico, espléndido, abundante | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪पुस्तक⟫ | [pustaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pustaka&filter=roman&accent=no&transLit=roman) | m | Manuscrito, libro | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪पू⟫ | [pū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pū&filter=roman&accent=no&transLit=roman) | 9U | purificar | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪पूजा⟫ | [pūjā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pūjā&filter=roman&accent=no&transLit=roman) | f | Honor, recepción honorífica, veneración religiosa (Pūjā) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪पूज्⟫ | [pūj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pūj&filter=roman&accent=no&transLit=roman) | 10P | honrar, venerar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪पृथिवी⟫ | [pṛthivī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛthivī&filter=roman&accent=no&transLit=roman) | f | tierra | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪पृथु⟫ | [pṛthu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛthu&filter=roman&accent=no&transLit=roman) | — | amplio, extenso, grande | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪पृष्ठ⟫ | [pṛṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭha&filter=roman&accent=no&transLit=roman) | n | espalda, parte posterior | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪पृष्ठम्⟫ | [pṛṣṭham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭham&filter=roman&accent=no&transLit=roman) | — | detrás | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | llenar, satisfacer | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | f | (a partir de + ) forma básica, estado natural, naturaleza; materia prima, elemento primordial | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पुत्र⟫ | पुत्र | m | Hijo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पुनः⟫ | पुनः | — | una y otra vez | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪पुनर्⟫ | पुनर् | — | de nuevo, otra vez, de vuelta, pero | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪पुनर्⟫ | पुनर् | — | de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonidos sonoros excepto r-: ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪पुनर्⟫ | पुनर् | — | de nuevo, una y otra vez, atrás, otra vez, en cambio, pero | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪पुनर्भव⟫ | पुनर्भव | m | renacimiento | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪पुरतस्⟫ | पुरतस् | — | delante, antes de | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪पुरा⟫ | पुरा | Adv | antes, anteriormente | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪पुरुष⟫ | पुरुष | m | hombre, varón, siervo | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪पुष्कल⟫ | पुष्कल | 3 | magnífico, espléndido, abundante | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪पुस्तक⟫ | पुस्तक | m | Manuscrito, libro | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪पू⟫ | पू | 9U | purificar | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪पूजा⟫ | पूजा | f | Honor, recepción honorífica, veneración religiosa (Pūjā) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪पूज्⟫ | पूज् | 10P | honrar, venerar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪पृथिवी⟫ | पृथिवी | f | tierra | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪पृथु⟫ | पृथु | — | amplio, extenso, grande | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪पृष्ठ⟫ | पृष्ठ | n | espalda, parte posterior | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪पृष्ठम्⟫ | पृष्ठम् | — | detrás | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪पॄ⟫ | पॄ | 3P | llenar, satisfacer | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪प्रकृति⟫ | प्रकृति | f | (a partir de + ) forma básica, estado natural, naturaleza; materia prima, elemento primordial | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 | ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | preguntar (a alguien: Ac.; por algo: Ac.) | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | generación, nacimiento, descendencia | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪प्रजापति⟫ | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajāpati&filter=roman&accent=no&transLit=roman) | m | señor de las criaturas, dios creador | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | f | sabiduría, conocimiento | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪प्रणिधान⟫ | [praṇidhāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=praṇidhāna&filter=roman&accent=no&transLit=roman) | n | aplicación, esfuerzo, atención contra, servicialidad, reflexión, voto | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪प्रति⟫ | [prati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prati&filter=roman&accent=no&transLit=roman) | — | de vuelta, contra, en contra - hacia | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪प्रति⟫ | [prati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prati&filter=roman&accent=no&transLit=roman) | — | hacia - hacia, a, con respecto a, frente a | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪प्रतिमा⟫ | [pratimā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pratimā&filter=roman&accent=no&transLit=roman) | f | imagen, retrato | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪प्रतिमा⟫ | [pratimā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pratimā&filter=roman&accent=no&transLit=roman) | f | imagen | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪प्रदान⟫ | [pradāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pradāna&filter=roman&accent=no&transLit=roman) | n | dar, donar; regalo, donación | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪प्रधान⟫ | [pradhāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pradhāna&filter=roman&accent=no&transLit=roman) | 3 | principal, mejor ; n.: lo más importante | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪प्रभृति⟫ | [prabhṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prabhṛti&filter=roman&accent=no&transLit=roman) | f | comienzo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪प्रव्रज्या⟫ | [pravrajyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pravrajyā&filter=roman&accent=no&transLit=roman) | f | la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪प्रसङ्ग⟫ | [prasaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prasaṅga&filter=roman&accent=no&transLit=roman) | m | apego, inclinación ; oportunidad | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪प्रसूति⟫ | [prasūti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prasūti&filter=roman&accent=no&transLit=roman) | f | nacimiento, descendencia | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪प्राणान्तिक⟫ | [prāṇāntika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prāṇāntika&filter=roman&accent=no&transLit=roman) | 3 | mortal, que causa la muerte, de por vida | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪प्रिय⟫ | [priya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=priya&filter=roman&accent=no&transLit=roman) | — | querido, amoroso, amable | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪प्री⟫ | [prī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prī&filter=roman&accent=no&transLit=roman) | 9U | deleitar, agradar; amar, estar dispuesto a alguien | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪प्रजा⟫ | प्रजा | f | generación, nacimiento, descendencia | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪प्रजापति⟫ | प्रजापति | m | señor de las criaturas, dios creador | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪प्रज्ञा⟫ | प्रज्ञा | f | sabiduría, conocimiento | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪प्रणिधान⟫ | प्रणिधान | n | aplicación, esfuerzo, atención contra, servicialidad, reflexión, voto | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪प्रति⟫ | प्रति | — | atrás, contra, en dirección a | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪प्रति⟫ | प्रति | — | hacia - hacia, a, con respecto a, frente a | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪प्रतिमा⟫ | प्रतिमा | f | imagen, retrato | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪प्रतिमा⟫ | प्रतिमा | f | imagen | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪प्रदान⟫ | प्रदान | n | dar, donar; regalo, donación | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪प्रधान⟫ | प्रधान | 3 | principal, mejor ; n.: lo más importante | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪प्रभृति⟫ | प्रभृति | f | comienzo | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪प्रव्रज्या⟫ | प्रव्रज्या | f | la salida del hogar hacia el no-hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪प्रसङ्ग⟫ | प्रसङ्ग | m | apego, inclinación ; oportunidad | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪प्रसूति⟫ | प्रसूति | f | nacimiento, descendencia | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪प्राणान्तिक⟫ | प्राणान्तिक | 3 | mortal, que causa la muerte, de por vida | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪प्रिय⟫ | प्रिय | — | querido, amoroso, amable | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪प्री⟫ | प्री | 9U | deleitar, agradar; amar, estar dispuesto a alguien | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
 ## ब
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪बन्दी⟫ | [bandī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandī&filter=roman&accent=no&transLit=roman) | f | Prisionera, botín | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪बन्ध्⟫ | [bandh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandh&filter=roman&accent=no&transLit=roman) | 9P | atar, amarrar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪बलि⟫ | [bali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bali&filter=roman&accent=no&transLit=roman) | m | Impuesto, donación, tributo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪बाण⟫ | [bāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāṇa&filter=roman&accent=no&transLit=roman) | m | flecha, objetivo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | angustia, plaga, tormento | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪बाह्य⟫ | [bāhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāhya&filter=roman&accent=no&transLit=roman) | 3 | fuera, ubicado afuera, extraño | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪ब्रह्मचर्य⟫ | [brahmacarya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahmacarya&filter=roman&accent=no&transLit=roman) | — | abstinencia sexual, estilo de vida celibatario | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | lo Absoluto, el Veda (según Thieme originalmente: la verdad formulada, de ello "formulador de la verdad") | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | m | Brahmanes (estado sacerdotal) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪बन्दी⟫ | बन्दी | f | Prisionera, botín | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪बन्ध्⟫ | बन्ध् | 9P | atar, amarrar | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪बलि⟫ | बलि | m | Impuesto, donación, tributo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪बाण⟫ | बाण | m | flecha, objetivo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪बाधना⟫ | बाधना | f | angustia, plaga, tormento | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪बाह्य⟫ | बाह्य | 3 | fuera, ubicado afuera, extraño | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪ब्रह्मचर्य⟫ | ब्रह्मचर्य | — | abstinencia sexual, estilo de vida celibatario | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪ब्रह्मन्⟫ | ब्रह्मन् | n | lo Absoluto, el Veda (según Thieme originalmente: la verdad formulada, de ello "formulador de la verdad") | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | m | Brahman (orden sacerdotal) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | brahmán (mujer) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪ब्रू⟫ | [brū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brū&filter=roman&accent=no&transLit=roman) | — | hablar, decir (algo a alguien: acusativo doble) | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪ब्रू⟫ | ब्रू | — | hablar, decir (algo a alguien: acusativo doble) | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
 
 ## भ
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪भक्ति⟫ | [bhakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhakti&filter=roman&accent=no&transLit=roman) | — | amor y respeto a un dios personal. véase al respecto Basham, Wonder p. 332s.) | [21](/es/lektionen/lektion21#_21-4-lista-de-palabras) |
-| ⟪भञ्ज्⟫ | [bhañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhañj&filter=roman&accent=no&transLit=roman) | 7P | (algo) romper | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪भद्र⟫ | [bhadra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhadra&filter=roman&accent=no&transLit=roman) | 3 | bueno, feliz; vocativo: ¡querido mío! | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪भय⟫ | [bhaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhaya&filter=roman&accent=no&transLit=roman) | n | miedo, temor; peligro (el aspecto subjetivo y el objetivo) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪भर्तृ⟫ | [bhartṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhartṛ&filter=roman&accent=no&transLit=roman) | m | Mantenedor, Nutridor, Esposo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪भार⟫ | [bhāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāra&filter=roman&accent=no&transLit=roman) | m | carga | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
-| ⟪भार⟫ | [bhāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāra&filter=roman&accent=no&transLit=roman) | m | carga | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪भार्या⟫ | [bhāryā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāryā&filter=roman&accent=no&transLit=roman) | f | "la que debe ser mantenida" = esposa | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪भार्या⟫ | [bhāryā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāryā&filter=roman&accent=no&transLit=roman) | f | Esposa ( = gerundivo de : La que debe ser llevada, la que debe ser sostenida, con derecho a mantenimiento) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪भावना⟫ | [bhāvanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāvanā&filter=roman&accent=no&transLit=roman) | f | expansión meditativa (para causativo) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪भिक्षा⟫ | [bhikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣā&filter=roman&accent=no&transLit=roman) | f | limosna mendigada, comida de limosna | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪भिक्ष्⟫ | [bhikṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣ&filter=roman&accent=no&transLit=roman) | — | mendigar | [21](/es/lektionen/lektion21#_21-4-lista-de-palabras) |
-| ⟪भिद्⟫ | [bhid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhid&filter=roman&accent=no&transLit=roman) | 7U | dividir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪भी⟫ | [bhī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhī&filter=roman&accent=no&transLit=roman) | 3P | temer a (Abl., Gen.) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪भुजंग⟫ | [bhujaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṃga&filter=roman&accent=no&transLit=roman) | m | Serpiente | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪भुजङ्ग⟫ | [bhujaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṅga&filter=roman&accent=no&transLit=roman) | m | Serpiente | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪भुज्⟫ | [bhuj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhuj&filter=roman&accent=no&transLit=roman) | 7U | disfrutar (p. ej. comida; "disfrutar de la tierra" = dominar la tierra) | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | 1P | surgir, existir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | cercar, dominar, vencer | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | reconocer, sentir, percibir, experimentar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪भृ⟫ | [bhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛ&filter=roman&accent=no&transLit=roman) | 3U | llevar, traer; mantener, nutrir | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | subordinado, sirviente | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
-| ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | exclamación de saludo, por ejemplo: ¡hey, eh, oh, ¡ay!, ¡hola!, ¡hi! a menudo no se traduce. Esta partícula tiene un san | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | la caída | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : divagar, deambular | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | Hermano | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪भक्ति⟫ | भक्ति | — | amor y respeto a un dios personal. véase al respecto Basham, Wonder p. 332s.) | [21](/es/lektionen/lektion21#_21-4-lista-de-palabras) |
+| ⟪भञ्ज्⟫ | भञ्ज् | 7P | (algo) romper | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪भद्र⟫ | भद्र | 3 | bueno, feliz; vocativo: ¡querido mío! | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪भय⟫ | भय | n | miedo, temor; peligro (el aspecto subjetivo y el objetivo) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪भर्तृ⟫ | भर्तृ | m | Mantenedor, Nutridor, Esposo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪भार⟫ | भार | m | carga | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
+| ⟪भार⟫ | भार | m | carga | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪भार्या⟫ | भार्या | f | "la que debe ser mantenida" = esposa | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪भार्या⟫ | भार्या | f | Esposa ( = gerundivo de : La que debe ser llevada, la que debe ser sostenida, con derecho a mantenimiento) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪भावना⟫ | भावना | f | expansión meditativa (para causativo) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪भिक्षा⟫ | भिक्षा | f | limosna mendigada, comida de limosna | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪भिक्ष्⟫ | भिक्ष् | — | mendigar | [21](/es/lektionen/lektion21#_21-4-lista-de-palabras) |
+| ⟪भिद्⟫ | भिद् | 7U | dividir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪भी⟫ | भी | 3P | temer a (Abl., Gen.) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪भुजंग⟫ | भुजंग | m | Serpiente | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪भुजङ्ग⟫ | भुजङ्ग | m | Serpiente | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪भुज्⟫ | भुज् | 7U | disfrutar (p. ej. comida; "disfrutar de la tierra" = dominar la tierra) | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪भू⟫ | भू | — | (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪भू⟫ | भू | 1P | surgir, existir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪भू⟫ | भू | — | cercar, dominar, vencer | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪भू⟫ | भू | — | reconocer, sentir, percibir, experimentar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | llegar a ser, surgir, existir | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪भृ⟫ | भृ | 3U | llevar, traer; mantener, nutrir | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪भृत्य⟫ | भृत्य | m | subordinado, sirviente | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
+| ⟪भोस्⟫ | भोस् | — | exclamación de saludo, por ejemplo: ¡hey, eh, oh, ¡ay!, ¡hola!, ¡hi! a menudo no se traduce. Esta partícula tiene un san | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪भ्रंश⟫ | भ्रंश | m | la caída | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : divagar, deambular | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪भ्रातृ⟫ | भ्रातृ | m | Hermano | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 
 ## म
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪मणि⟫ | [maṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maṇi&filter=roman&accent=no&transLit=roman) | m | Joya | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मत्स्य⟫ | [matsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=matsya&filter=roman&accent=no&transLit=roman) | m | pez | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪मद⟫ | [mada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mada&filter=roman&accent=no&transLit=roman) | m | embriaguez, embriaguez sensorial = placer sensorial | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪मद⟫ | [mada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mada&filter=roman&accent=no&transLit=roman) | m | también "savia de celo" de un elefante (en el [Musht](http://en.wikipedia.org/wiki/Musth)) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मद्⟫ | [mad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mad&filter=roman&accent=no&transLit=roman) | — | alegrarse, embriagarse con algo (Instr., Gen., Loc.) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪मधु⟫ | [madhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=madhu&filter=roman&accent=no&transLit=roman) | n | miel, bebida dulce, hidromiel (vino de miel) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मध्य⟫ | [madhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=madhya&filter=roman&accent=no&transLit=roman) | — | medio; n. centro | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪मनु⟫ | [manu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=manu&filter=roman&accent=no&transLit=roman) | m | Ser humano, hombre; nombre del padre de la raza humana (a 4Ā) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪मनुष्य⟫ | [manuṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=manuṣya&filter=roman&accent=no&transLit=roman) | m | Ser humano | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪मन्⟫ | [man](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=man&filter=roman&accent=no&transLit=roman) | — | despreciar, menospreciar | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪मन्त्रिन्⟫ | [mantrin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mantrin&filter=roman&accent=no&transLit=roman) | 3 | asesor; m.: consejero, magistrado, ministro | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪मरण⟫ | [maraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maraṇa&filter=roman&accent=no&transLit=roman) | n | morir, muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪मल⟫ | [mala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mala&filter=roman&accent=no&transLit=roman) | m | suciedad, mancha | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪मही⟫ | [mahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mahī&filter=roman&accent=no&transLit=roman) | f | tierra, suelo y terreno | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪मही⟫ | [mahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mahī&filter=roman&accent=no&transLit=roman) | — | la Grande) | [32](/es/lektionen/lektion32#_32-5-lista-de-vocabulario) |
-| ⟪मा⟫ | [mā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mā&filter=roman&accent=no&transLit=roman) | 3Ā | medir | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪मांस⟫ | [māṃsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māṃsa&filter=roman&accent=no&transLit=roman) | n | carne | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मातामह⟫ | [mātāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātāmaha&filter=roman&accent=no&transLit=roman) | m | Abuelo materno | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪मातामही⟫ | [mātāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātāmahī&filter=roman&accent=no&transLit=roman) | f | Abuela materna | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪मातुल⟫ | [mātula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātula&filter=roman&accent=no&transLit=roman) | m | Hermano de la madre (tío materno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪मातुलानी⟫ | [mātulānī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātulānī&filter=roman&accent=no&transLit=roman) | f | Esposa del hermano de la madre (esposa del tío materno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪मातृ⟫ | [mātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātṛ&filter=roman&accent=no&transLit=roman) | f | Madre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪मात्रा⟫ | [mātrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātrā&filter=roman&accent=no&transLit=roman) | f | medida, límite | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪मात्स्य⟫ | [mātsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātsya&filter=roman&accent=no&transLit=roman) | 3 | perteneciente al pez (a los peces) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪मान⟫ | [māna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māna&filter=roman&accent=no&transLit=roman) | m | evaluación, reputación, fama, honor, orgullo, presunción, sentimiento de inferioridad; (uno se compara con otros) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪मार⟫ | [māra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māra&filter=roman&accent=no&transLit=roman) | m | el mal personificado, la seducción/manipulación personificada, diablo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪मार्यादा⟫ | [māryādā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māryādā&filter=roman&accent=no&transLit=roman) | f | límite | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मिह्⟫ | [mih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mih&filter=roman&accent=no&transLit=roman) | 1P | orinar, hacer pis, eyacular | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪मुख⟫ | [mukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mukha&filter=roman&accent=no&transLit=roman) | n | Boca, rostro, parte frontal, comienzo | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
+| ⟪मणि⟫ | मणि | m | Joya | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मत्स्य⟫ | मत्स्य | m | pez | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪मद⟫ | मद | m | embriaguez, éxtasis sensorial = placer sensual | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪मद⟫ | मद | m | también "savia de celo" de un elefante (en el [Musht](http://en.wikipedia.org/wiki/Musth)) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मद्⟫ | मद् | — | alegrarse, embriagarse con algo (Instr., Gen., Loc.) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪मधु⟫ | मधु | n | miel, bebida dulce, hidromiel (vino de miel) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मध्य⟫ | मध्य | — | medio; n. centro | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪मनु⟫ | मनु | m | Ser humano, hombre; nombre del padre de la raza humana (a 4Ā) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪मनुष्य⟫ | मनुष्य | m | Ser humano | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪मन्⟫ | मन् | — | despreciar, menospreciar | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪मन् मन्यते⟫ | [man](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=man&filter=roman&accent=no&transLit=roman) | — | pensar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪मन्त्रिन्⟫ | मन्त्रिन् | 3 | asesor; m.: consejero, magistrado, ministro | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪मरण⟫ | मरण | n | morir, muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪मल⟫ | मल | m | suciedad, mancha | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪मही⟫ | मही | f | tierra, suelo y terreno | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪मही⟫ | मही | — | la Grande) | [32](/es/lektionen/lektion32#_32-5-lista-de-vocabulario) |
+| ⟪मा⟫ | मा | 3Ā | medir | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪मांस⟫ | मांस | n | carne | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मातामह⟫ | मातामह | m | Abuelo materno | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪मातामही⟫ | मातामही | f | Abuela materna | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪मातुल⟫ | मातुल | m | Hermano de la madre (tío materno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪मातुलानी⟫ | मातुलानी | f | Esposa del hermano de la madre (esposa del tío materno) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪मातृ⟫ | मातृ | f | Madre | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪मात्रा⟫ | मात्रा | f | medida, límite | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪मात्स्य⟫ | मात्स्य | 3 | perteneciente al pez (a los peces) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪मान⟫ | मान | m | evaluación, reputación, fama, honor, orgullo, presunción, sentimiento de inferioridad; (uno se mide por los demás) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪मार⟫ | मार | m | el mal personificado, la seducción/manipulación personificada, diablo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪मार्यादा⟫ | मार्यादा | f | límite | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मिह्⟫ | मिह् | 1P | orinar, hacer pis, eyacular | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪मुख⟫ | मुख | n | Boca, rostro, parte delantera, comienzo | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
 | ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | alegría, en particular alegría simpática (contrario a la envidia) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪मुनि⟫ | [muni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muni&filter=roman&accent=no&transLit=roman) | m | Sabio, (asceta) silencioso | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
-| ⟪मुहूर्त⟫ | [muhūrta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muhūrta&filter=roman&accent=no&transLit=roman) | m | momento, instante, momento justo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪मूर्ख⟫ | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūrkha&filter=roman&accent=no&transLit=roman) | 3 | insensato, estúpido, tonto m. Tonto | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
-| ⟪मूल⟫ | [mūla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūla&filter=roman&accent=no&transLit=roman) | n | raíz | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪मूल्य⟫ | [mūlya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūlya&filter=roman&accent=no&transLit=roman) | n | valor, precio | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪मृ⟫ | [mṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛ&filter=roman&accent=no&transLit=roman) | — | morir (según gramáticos indios: 6 Ā) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪मृगया⟫ | [mṛgayā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛgayā&filter=roman&accent=no&transLit=roman) | f | caza | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪मृति⟫ | [mṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛti&filter=roman&accent=no&transLit=roman) | f | morir, muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪मृत्यु⟫ | [mṛtyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛtyu&filter=roman&accent=no&transLit=roman) | m | muerte ; personificado: dios de la muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪मृदु⟫ | [mṛdu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛdu&filter=roman&accent=no&transLit=roman) | 3 | suave, benigno, blando; lento, débil | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪मेघ⟫ | [megha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=megha&filter=roman&accent=no&transLit=roman) | m | Nube ("que hace pis") | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪मेधा⟫ | [medhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=medhā&filter=roman&accent=no&transLit=roman) | f | Sabiduría, entendimiento, pensamiento | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪मुनि⟫ | मुनि | m | Sabio, (asceta del) silencio | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
+| ⟪मुहूर्त⟫ | मुहूर्त | m | momento, instante, momento justo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪मुह् मुह्यति⟫ | [muh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muh&filter=roman&accent=no&transLit=roman) | — | estar confundido | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪मूर्ख⟫ | मूर्ख | 3 | obtuso, estúpido, tonto m. Tonto | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
+| ⟪मूल⟫ | मूल | n | raíz | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪मूल्य⟫ | मूल्य | n | valor, precio | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪मृ⟫ | मृ | — | morir (según gramáticos indios: 6 Ā) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪मृगया⟫ | मृगया | f | caza | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪मृति⟫ | मृति | f | morir, muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪मृत्यु⟫ | मृत्यु | m | muerte ; personificado: dios de la muerte | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪मृदु⟫ | मृदु | 3 | suave, benigno, blando; lento, débil | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪मेघ⟫ | मेघ | m | Nube ("que hace pis") | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪मेधा⟫ | मेधा | f | Sabiduría, entendimiento, pensamiento | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
 | ⟪मैत्री⟫ | [maitrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maitrī&filter=roman&accent=no&transLit=roman) | f | Amistad, amabilidad, benevolencia amistosa | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
 
 ## य
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
+| ⟪यज् यजति⟫ | [yaj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yaj&filter=roman&accent=no&transLit=roman) | — | honrar con una ofrenda, sacrificar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
 | ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | sacrificio | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | aspirar a (, , ) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | m | esfuerzo, diligencia | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | Adv | cómo, como si | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | si | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | si | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | si | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | aunque, incluso si, a pesar de que | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | si es así, en estas circunstancias | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : sostener, llevar; ofrecer, conceder; mantener unido, domar, frenar, conquistar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | ir, viajar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | Esposa del hermano del esposo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | ir, camino, vehículo | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪याम⟫ | [yāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāma&filter=roman&accent=no&transLit=roman) | m | guardia nocturna (cada una de tres horas) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪यावत्⟫ | [yāvat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāvat&filter=roman&accent=no&transLit=roman) | Adv | cuánto tiempo, durante | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪युज्⟫ | [yuj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yuj&filter=roman&accent=no&transLit=roman) | 7U | engancher, acollarar, tensar, fijar; Ā también: tensarse (= esforzarse), unirse con, concentrarse en (Locativo, ) | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪योग⟫ | [yoga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yoga&filter=roman&accent=no&transLit=roman) | m | Enganche, conexión, unión, adquisición; Yoga | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪योषित्⟫ | [yoṣit](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yoṣit&filter=roman&accent=no&transLit=roman) | f | Mujer joven, muchacha | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪यौवन⟫ | [yauvana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yauvana&filter=roman&accent=no&transLit=roman) | n | juventud | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪यत्⟫ | यत् | 1Ā | aspirar a (, , ) | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪यत्न⟫ | यत्न | m | esfuerzo, diligencia | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪यथा⟫ | यथा | Adv | cómo, como si | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪यदि⟫ | यदि | — | si | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪यदि⟫ | यदि | — | si | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪यदि⟫ | यदि | — | si | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪यद्यपि⟫ | यद्यपि | — | aunque, incluso si, a pesar de que | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪यद्येवम्⟫ | यद्येवम् | — | si es así, en estas circunstancias | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪यम्⟫ | यम् | 1P | sig[] : sostener, llevar ; ofrecer, conceder ; mantener unido, domar, frenar, conquistar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪या⟫ | या | 2P | ir, viajar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪यातृ⟫ | यातृ | m | Esposa del hermano del esposo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪यान⟫ | यान | n | ir, camino, vehículo | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪याम⟫ | याम | m | guardia nocturna (cada una de tres horas) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪यावत्⟫ | यावत् | Adv | cuánto tiempo, durante | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪युज्⟫ | युज् | 7U | engancher, acollarar, tensar, fijar; Ā también: tensarse (= esforzarse), unirse con, concentrarse en (Locativo, ) | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪युध् युध्यते⟫ | [yudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yudh&filter=roman&accent=no&transLit=roman) | — | luchar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪योग⟫ | योग | m | Enganche, conexión, unión, adquisición; Yoga | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪योषित्⟫ | योषित् | f | Mujer joven, muchacha | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪यौवन⟫ | यौवन | n | juventud | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
 
 ## र
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪रक्त⟫ | [rakta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakta&filter=roman&accent=no&transLit=roman) | — | coloreado, rojo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪रभ्⟫ | [rabh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rabh&filter=roman&accent=no&transLit=roman) | 1Ā | captar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪रम्⟫ | [ram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ram&filter=roman&accent=no&transLit=roman) | 1Ā | permanecer quieto, descansar, permanecer; encontrar placer, deleitarse | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | n | misterio, soledad | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪रक्त⟫ | रक्त | — | coloreado, rojo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪रभ्⟫ | रभ् | 1Ā | asir, tomar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪रम्⟫ | रम् | 1Ā | permanecer quieto, descansar, permanecer; encontrar placer, deleitarse | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪रहस्⟫ | रहस् | n | misterio, soledad | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (rojo) Color, pasión, amor | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | también: Color, color rojo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪राजन्⟫ | [rājan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājan&filter=roman&accent=no&transLit=roman) | m | Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especia | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪राज्ञी⟫ | [rājñī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājñī&filter=roman&accent=no&transLit=roman) | f | Reina, esposa de un rey | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪राज्य⟫ | [rājya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rājya&filter=roman&accent=no&transLit=roman) | 3 | real; n. Reino, realeza, gobierno | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪रिष्⟫ | [riṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=riṣ&filter=roman&accent=no&transLit=roman) | 1P | resultar dañado, fracasar, ser perjudicado | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪रुत⟫ | [ruta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruta&filter=roman&accent=no&transLit=roman) | n | alarido | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪रुद्⟫ | [rud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rud&filter=roman&accent=no&transLit=roman) | — | llorar, aullar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪रुद्र⟫ | [rudra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudra&filter=roman&accent=no&transLit=roman) | m | (el que aúlla =) el dios de la tormenta Rudra | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪रुधिर⟫ | [rudhira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudhira&filter=roman&accent=no&transLit=roman) | n | Sangre | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪रुध्⟫ | [rudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rudh&filter=roman&accent=no&transLit=roman) | 7U | detener, llevar a un estado de quietud, retener = encerrar, cubrir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
-| ⟪रुह्⟫ | [ruh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ruh&filter=roman&accent=no&transLit=roman) | 1P | escalar, subir | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪रे⟫ | [re](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=re&filter=roman&accent=no&transLit=roman) | — | ¡Hey! ¡Tú ahí! | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
+| ⟪राग⟫ | राग | m | también: Color, color rojo | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪राजन्⟫ | राजन् | m | Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especia | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪राज्ञी⟫ | राज्ञी | f | Reina, esposa de un rey | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪राज्य⟫ | राज्य | 3 | real; n. Reino, realeza, gobierno | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪रिष्⟫ | रिष् | 1P | resultar dañado, fracasar, ser perjudicado | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪रुत⟫ | रुत | n | alarido | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪रुद्⟫ | रुद् | — | llorar, aullar | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪रुद्र⟫ | रुद्र | m | (el que aúlla =) el dios de la tormenta Rudra | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪रुधिर⟫ | रुधिर | n | Sangre | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪रुध्⟫ | रुध् | 7U | detener, llevar a un estado de quietud, retener = encerrar, cubrir | [31](/es/lektionen/lektion31#_31-2-lista-de-palabras) |
+| ⟪रुह्⟫ | रुह् | 1P | escalar, subir | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪रे⟫ | रे | — | ¡Oye! ¡Tú ahí! | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 
 ## ल
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | n | rasgo, signo, atributo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | ligero (no pesado, no difícil), rápido, breve (en expresión) | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪लम्ब्⟫ | [lamb](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lamb&filter=roman&accent=no&transLit=roman) | 1Ā | colgar de (con el ablativo), estar colgado de (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | untar, enmascarar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | f | untar, escribir, escritura | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | broma, juego | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | sig[] : romper, destruir | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪लक्षण⟫ | लक्षण | n | rasgo, signo, atributo | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪लघु⟫ | लघु | 3 | ligero (no pesado, no difícil), rápido, breve (en expresión) | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪लम्ब्⟫ | लम्ब् | 1Ā | colgar de (con el ablativo), estar colgado de (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪लिप्⟫ | लिप् | 6U | untar, enmascarar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪लिप्ति⟫ | लिप्ति | f | untado, escritura | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪लीला⟫ | लीला | f | broma, juego | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪लुप्⟫ | लुप् | 6U | sig[] : romper, destruir | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Codicia, avaricia | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | n | codicia, lujuria | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪लौल्य⟫ | लौल्य | n | codicia, lujuria | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 
 ## व
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | estafador | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | comerciante | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | ternero, cría, hijo; voc.: ¡querido mío! | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
+| ⟪वञ्चक⟫ | वञ्चक | m | estafador | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪वणिज्⟫ | वणिज् | m | comerciante | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪वत्स⟫ | वत्स | m | ternero, cría, niño; voc.: mi querido | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪वत्स्यति⟫ | Fut.: | — | br Pás.: :br PPP: :br Inf | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | saludar formalmente, dirigirse a | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | decir de vuelta = responder | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪वद्⟫ | वद् | — | saludar formalmente, dirigirse a | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪वद्⟫ | वद् | 1P | decir hacia atrás = responder | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
 | ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | decir, hablar | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | Bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | n | belleza, forma corporal (para la declinación ver más tarde) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | mejor | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | m | deseo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | mejor | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वर्ग⟫ | [varga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varga&filter=roman&accent=no&transLit=roman) | m | sección, división, grupo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, estado de nacimiento (tendencia) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪वन⟫ | वन | n | Bosque | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪वपुस्⟫ | वपुस् | n | belleza, forma corporal (para la declinación ver más tarde) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪वर⟫ | वर | 3 | mejor | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪वर⟫ | वर | m | deseo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪वर⟫ | वर | 3 | mejor | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वर्ग⟫ | वर्ग | m | sección, división, grupo | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, orden de nacimiento (tendencia) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, género, casta | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | lluvia, temporada de lluvias, año | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : querer, ordenar, desear | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("brillante" =) primavera (marzo a mayo) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वर्ष⟫ | वर्ष | n | lluvia, temporada de lluvias, año | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : querer, ordenar, desear | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वसन्त⟫ | वसन्त | m | ("brillante" =) primavera (marzo a mayo) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | riqueza, tesoro, bienes, posesión | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | residir, habitar (con locativo de la persona donde se reside) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | asiento, lugar; realidad, cosa real, realidad, objeto | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | en realidad, verdaderamente | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | medio para vestirse = vestido, ropa, tela | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | 1U | conducir, viajar, soplar (viento) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | — | o (pospuesto) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | 2P | soplar, hacer soplar | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | — | ya sea ... o | [45](/es/lektionen/lektion45#_45-3-lista-de-palabras) |
-| ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | 2P | soplar, hacer viento | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वाच्य⟫ | [vācya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vācya&filter=roman&accent=no&transLit=roman) | 3 | también: censurable | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪वात⟫ | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vāta&filter=roman&accent=no&transLit=roman) | m | Viento | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪वात⟫ | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vāta&filter=roman&accent=no&transLit=roman) | m | viento | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वानप्रस्थ⟫ | [vānaprastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vānaprastha&filter=roman&accent=no&transLit=roman) | m | ermitaño del bosque (alguien que se encuentra en el 3. ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪वसु⟫ | वसु | n | riqueza, tesoro, bienes, posesión | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वस्⟫ | वस् | 1P | residir, habitar (con locativo de la persona donde se reside) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वस्तु⟫ | वस्तु | n | asiento, lugar; realidad, cosa real, realidad, objeto | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वस्तुतस्⟫ | वस्तुतस् | — | en realidad, verdaderamente | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वस्त्र⟫ | वस्त्र | n | medio para vestirse = vestido, ropa, tela | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪वह्⟫ | वह् | 1U | conducir, viajar, soplar (viento) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪वा⟫ | वा | — | o (pospuesto) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪वा⟫ | वा | 2P | soplar, hacer soplar | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪वा⟫ | वा | — | ya sea ... o | [45](/es/lektionen/lektion45#_45-3-lista-de-palabras) |
+| ⟪वा⟫ | वा | 2P | soplar, hacer viento | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वाच्य⟫ | वाच्य | 3 | también: censurable | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪वात⟫ | वात | m | Viento | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪वात⟫ | वात | m | viento | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वानप्रस्थ⟫ | वानप्रस्थ | m | ermitaño del bosque (alguien que se encuentra en el 3. ) | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 | ⟪वार्त्ता⟫ | [vārttā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vārttā&filter=roman&accent=no&transLit=roman) | f | Sustento, economía (economía) | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪विक्ल्प⟫ | [viklpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viklpa&filter=roman&accent=no&transLit=roman) | m | Alternativa, duda | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪विचित्र⟫ | [vicitra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vicitra&filter=roman&accent=no&transLit=roman) | — | multicolor, variado, hermoso, maravilloso, extraño | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪विजिज्ञासु⟫ | [vijijñāsu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vijijñāsu&filter=roman&accent=no&transLit=roman) | 3 | alguien que quiere comprender completamente | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪विज्ञान⟫ | [vijñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vijñāna&filter=roman&accent=no&transLit=roman) | n | conocimiento, cognición | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪विद्⟫ | [vid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vid&filter=roman&accent=no&transLit=roman) | — | mitad, m.n. Mitad | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪विद्⟫ | [vid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vid&filter=roman&accent=no&transLit=roman) | 2P | saber, conocer | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
+| ⟪विक्ल्प⟫ | विक्ल्प | m | Alternativa, duda | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪विचित्र⟫ | विचित्र | — | multicolor, variado, hermoso, maravilloso, extraño | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪विजिज्ञासु⟫ | विजिज्ञासु | 3 | alguien que quiere comprender completamente | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪विज्ञान⟫ | विज्ञान | n | conocimiento, cognición | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪विद्⟫ | विद् | — | mitad, m.n. Mitad | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪विद्⟫ | विद् | 2P | saber, conocer | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
 | ⟪विद्या⟫ | [vidyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vidyā&filter=roman&accent=no&transLit=roman) | f | Conocimiento, ciencia | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
-| ⟪विधि⟫ | [vidhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vidhi&filter=roman&accent=no&transLit=roman) | m | orden, ley, norma; creación, destino | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪विधि⟫ | [vidhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vidhi&filter=roman&accent=no&transLit=roman) | m | también: destino (de ) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪विनय⟫ | [vinaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vinaya&filter=roman&accent=no&transLit=roman) | m | alejamiento, educación, disciplina, budista: disciplina monástica, derecho monástico | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪विना⟫ | [vinā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vinā&filter=roman&accent=no&transLit=roman) | — | sin, excepto (con Acus., Instr., Abl.) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪विपणि⟫ | [vipaṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vipaṇi&filter=roman&accent=no&transLit=roman) | f | tienda | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪विप्र⟫ | [vipra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vipra&filter=roman&accent=no&transLit=roman) | m | "el que tiembla" = poeta, cantor, sacerdote, brahmán | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪विभ्रम⟫ | [vibhrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vibhrama&filter=roman&accent=no&transLit=roman) | m | el ir y venir | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪विलम्ब⟫ | [vilamba](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vilamba&filter=roman&accent=no&transLit=roman) | n | retraso, demora | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪विवाह⟫ | [vivāha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vivāha&filter=roman&accent=no&transLit=roman) | m | llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio ver Basham, Wonder p. 166 -171) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | m | particularidad, especificación, differentia specifica | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
-| ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | m | diferencia, particularidad | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | n | Veneno | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | n | Veneno | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪विषम⟫ | [viṣama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣama&filter=roman&accent=no&transLit=roman) | 3 | desigual, irregular, maligno | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪विषय⟫ | [viṣaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣaya&filter=roman&accent=no&transLit=roman) | m | territorio, ámbito, objeto, objeto sensorial | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪विष्टि⟫ | [viṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣṭi&filter=roman&accent=no&transLit=roman) | f | trabajo, servicio laboral | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪विहंग⟫ | [vihaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vihaṃga&filter=roman&accent=no&transLit=roman) | m | ave ("en el sueño del aire - - yendo") | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪वृक्ष⟫ | [vṛkṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛkṣa&filter=roman&accent=no&transLit=roman) | m | Árbol | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
-| ⟪वृज्⟫ | [vṛj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛj&filter=roman&accent=no&transLit=roman) | 7P | girar, voltear ; rechazar, excluir | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | girar, volverse, encontrarse (en algún lugar), residir | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | invertir, regresar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | ocurrir, suceder, surgir | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪वृत्त⟫ | [vṛtta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛtta&filter=roman&accent=no&transLit=roman) | n | conducta | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪वृत्ति⟫ | [vṛtti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛtti&filter=roman&accent=no&transLit=roman) | f | conducta, actividad, modo de vida | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪वृद्धि⟫ | [vṛddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛddhi&filter=roman&accent=no&transLit=roman) | f | Crecimiento, crecimiento, grado de dilatación (de: vṛdh-ti) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪वृध्⟫ | [vṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛdh&filter=roman&accent=no&transLit=roman) | 1Ā | crecer, hacerse más grande | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪वृष्⟫ | [vṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛṣ&filter=roman&accent=no&transLit=roman) | 1P | llover (generalmente con un -- un dios o una nube) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪वेष⟫ | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=veṣa&filter=roman&accent=no&transLit=roman) | m | vestido, apariencia, exterior | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪वै⟫ | [vai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vai&filter=roman&accent=no&transLit=roman) | — | partícula que enfatiza la palabra anterior: ciertamente, verdaderamente, pero | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | m | Vaiśya (estado de ganaderos y comerciantes) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪विधि⟫ | विधि | m | orden, ley, norma; creación, destino | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪विधि⟫ | विधि | m | también: destino (de ) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪विनय⟫ | विनय | m | remoción, educación, disciplina, budista: disciplina monástica, derecho monástico | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪विना⟫ | विना | — | sin, excepto (con Ac., Instr., Abl.) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪विपणि⟫ | विपणि | f | tienda | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪विप्र⟫ | विप्र | m | "el que tiembla" = poeta, cantor, sacerdote, brahmán | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪विभ्रम⟫ | विभ्रम | m | el ir y venir | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪विलम्ब⟫ | विलम्ब | n | retraso, demora | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪विवाह⟫ | विवाह | m | llevarse, matrimonio de una mujer (Instr., saha) (para el matrimonio véase Basham, Wonder pp. 166-171) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪विशेष⟫ | विशेष | m | particularidad, especificación, differentia specifica | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
+| ⟪विशेष⟫ | विशेष | m | diferencia, particularidad | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪विश् विशति⟫ | [viś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viś&filter=roman&accent=no&transLit=roman) | — | entrar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪विष⟫ | विष | n | Veneno | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪विष⟫ | विष | n | Veneno | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪विषम⟫ | विषम | 3 | desigual, irregular, maligno | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪विषय⟫ | विषय | m | territorio, ámbito, objeto, objeto sensorial | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪विष्टि⟫ | विष्टि | f | trabajo, servicio obligatorio | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪विहंग⟫ | विहंग | m | ave ("en el sueño del aire - - yendo") | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪वृक्ष⟫ | वृक्ष | m | Árbol | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
+| ⟪वृज्⟫ | वृज् | 7P | girar, voltear ; rechazar, excluir | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वृत्⟫ | वृत् | — | girar, volverse, encontrarse (en algún lugar), residir | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪वृत्⟫ | वृत् | — | invertir, regresar | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪वृत्⟫ | वृत् | — | ocurrir, suceder, surgir | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪वृत्त⟫ | वृत्त | n | conducta | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪वृत्ति⟫ | वृत्ति | f | conducta, actividad, modo de vida | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪वृद्धि⟫ | वृद्धि | f | crecimiento, aumento, grado vṛdh (de: vṛdh-ti) | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪वृध्⟫ | वृध् | 1Ā | crecer, hacerse más grande | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪वृष्⟫ | वृष् | 1P | llover (generalmente con un -- un dios o una nube) | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪वेष⟫ | वेष | m | vestido, apariencia, exterior | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪वै⟫ | वै | — | partícula que enfatiza la palabra anterior: ciertamente, verdaderamente, pero | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | m | Vaiśya (orden de productores y comerciantes) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | vaiśya (mujer) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪व्यवहार⟫ | [vyavahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyavahāra&filter=roman&accent=no&transLit=roman) | m | actividad, conducta, trato, comercio, asunto, negocio, (proceso judicial) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪व्याकरण⟫ | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyākaraṇa&filter=roman&accent=no&transLit=roman) | n | gramática (para ) | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪व्याघ्र⟫ | [vyāghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyāghra&filter=roman&accent=no&transLit=roman) | m | tigre (_Panthera tigris tigris_) (literal: guardián) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪व्याधि⟫ | [vyādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyādhi&filter=roman&accent=no&transLit=roman) | m | enfermedad | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪व्रज्⟫ | [vraj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vraj&filter=roman&accent=no&transLit=roman) | 1P | caminar, ir, irse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪व्रत⟫ | [vrata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vrata&filter=roman&accent=no&transLit=roman) | — | una madre promete entregar a su hija como prostituta sagrada () si su hija se recupera. importantes hoy: ayuno; abstinen | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪व्यवहार⟫ | व्यवहार | m | actividad, conducta, trato, comercio, asunto, negocio, (proceso judicial) | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪व्याकरण⟫ | व्याकरण | n | gramática (para ) | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪व्याघ्र⟫ | व्याघ्र | m | tigre (_Panthera tigris tigris_) (literal: guardián) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪व्याधि⟫ | व्याधि | m | enfermedad | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪व्रज्⟫ | व्रज् | 1P | caminar, ir, irse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪व्रत⟫ | व्रत | — | una madre promete entregar a su hija como prostituta sagrada () si su hija se recupera. importantes hoy: ayuno; abstinen | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
 
 ## श
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪शंस्⟫ | [śaṃs](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaṃs&filter=roman&accent=no&transLit=roman) | 1P | alabar, ordenar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | m | ave | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪शक्ति⟫ | [śakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakti&filter=roman&accent=no&transLit=roman) | — | fuerza divina, personificada como compañera femenina, especialmente de | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
-| ⟪शबर⟫ | [śabara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabara&filter=roman&accent=no&transLit=roman) | — | Nombre propio de una tribu no aria | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | m | sonido, tono, sonido de señal: palabra | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪शयन⟫ | [śayana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śayana&filter=roman&accent=no&transLit=roman) | n | litera, cama | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪शर⟫ | [śara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śara&filter=roman&accent=no&transLit=roman) | m | caña de flecha, flecha | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪शरण⟫ | [śaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaraṇa&filter=roman&accent=no&transLit=roman) | 3 | protector, amparador; n. protección, refugio, el buscar refugio | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शर्करा⟫ | [śarkarā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śarkarā&filter=roman&accent=no&transLit=roman) | f | azúcar (el alemán "Zucker" proviene del italiano zucchero, de allí al árabe sukkar - سكر y al persa äkär - شکر, y remon | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪शस्त्र⟫ | [śastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śastra&filter=roman&accent=no&transLit=roman) | — | Instrumento cortante, arma cortante, espada, arma | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪शाक्यमुनि⟫ | [śākyamuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śākyamuni&filter=roman&accent=no&transLit=roman) | m | Asceta perteneciente a la familia de (Kṣatriyas de ) = Buda Gautama | [37](/es/lektionen/lektion37#_37-9-lista-de-vocabulario) |
-| ⟪शासना⟫ | [śāsanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāsanā&filter=roman&accent=no&transLit=roman) | f | edicto real, doctrina, religión | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शास्⟫ | [śās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śās&filter=roman&accent=no&transLit=roman) | 2P | ordenar, enseñar, castigar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪शास्⟫ | [śās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śās&filter=roman&accent=no&transLit=roman) | 2P | reprender, dominar, ordenar, enseñar | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शास्त्र⟫ | [śāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāstra&filter=roman&accent=no&transLit=roman) | n | doctrina, obra didáctica | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शास्त्रिन्⟫ | [śāstrin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāstrin&filter=roman&accent=no&transLit=roman) | m | instruido, erudito | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शिक्षा⟫ | [śikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śikṣā&filter=roman&accent=no&transLit=roman) | f | ciencia, enseñanza; fonética | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪शिवा⟫ | [śivā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śivā&filter=roman&accent=no&transLit=roman) | f | (fem.) chacal (chacal dorado = _Canis aureus_) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | niño, cría | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | abandonar, dejar atrás | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | aquel que debe ser instruido = alumno | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | yacer. Esta raíz tiene en todas las formas del tema del presente grado alto: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Las siguie | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | rápido, veloz | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | costumbre, hábito, naturaleza, carácter, buena costumbre = moral | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | resplandeciente, brillante, fino; m.: pureza | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
-| ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | brillante, puro, claro | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪शुच्⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | 1P | (arder, brillar); lamentar, llorar | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | m | Śūdra (estado de servicios) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
+| ⟪शंस्⟫ | शंस् | 1P | alabar, ordenar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪शकुनि⟫ | शकुनि | m | ave | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪शक्ति⟫ | शक्ति | — | fuerza divina, personificada como compañera femenina, especialmente de | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
+| ⟪शबर⟫ | शबर | — | Nombre propio de una tribu no aria | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪शब्द⟫ | शब्द | m | sonido, tono, sonido de señal: palabra | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪शयन⟫ | शयन | n | lecho, cama | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪शर⟫ | शर | m | caña de flecha, flecha | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪शरण⟫ | शरण | 3 | protector, amparador; n. protección, refugio, el buscar refugio | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शर्करा⟫ | शर्करा | f | azúcar (el alemán "Zucker" proviene del italiano zucchero, de allí del árabe sukkar - سكر y del persa šakkar - شکر, que  | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪शस्त्र⟫ | शस्त्र | — | Instrumento cortante, arma cortante, espada, arma | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪शाक्यमुनि⟫ | शाक्यमुनि | m | Asceta de la casta de (kṣatriyas de ) = Buda Gautama | [37](/es/lektionen/lektion37#_37-9-lista-de-palabras) |
+| ⟪शासना⟫ | शासना | f | edicto real, doctrina, religión | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शास्⟫ | शास् | 2P | reprender, dominar, ordenar, enseñar | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शास्त्र⟫ | शास्त्र | n | doctrina, obra didáctica | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शास्त्रिन्⟫ | शास्त्रिन् | m | instruido, erudito | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शिक्षा⟫ | शिक्षा | f | ciencia, enseñanza; fonética | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪शिवा⟫ | शिवा | f | (fem.) chacal (chacal dorado = _Canis aureus_) | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪शिशु⟫ | शिशु | m | niño, cría | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪शिष्⟫ | शिष् | 7P | abandonar, dejar atrás | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪शिष्य⟫ | शिष्य | 3 | aquel que debe ser instruido = alumno | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪शी⟫ | शी | 2Ā | yacer. Esta raíz tiene en todas las formas de la base del presente Grado fuerte: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Las si | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪शीघ्र⟫ | शीघ्र | 3 | rápido, veloz | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪शील⟫ | शील | n | costumbre, hábito, naturaleza, carácter, buena costumbre = moral | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪शुचि⟫ | शुचि | 3 | resplandeciente, brillante, fino; m.: pureza | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
+| ⟪शुचि⟫ | शुचि | 3 | brillante, puro, claro | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪शुच्⟫ | शुच् | 1P | (arder, brillar); lamentar, llorar | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | m | Śūdra (orden de servicios) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | śūdra (mujer) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪शूद्री शूद्राणी⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | esposa de un śūdra | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪शून्य⟫ | [śūnya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūnya&filter=roman&accent=no&transLit=roman) | 3 | vacío, desolado | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪शूर⟫ | [śūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūra&filter=roman&accent=no&transLit=roman) | 3 | valiente, heroico ; m.: héroe | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | Lamento, tristeza | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | brillante, magnífico, espléndido, hermoso, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | Purificación, pureza | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : fatigarse, cansarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | apoyarse, inclinarse, encontrar apoyo, dirigirse a alguien (con el dativo, ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪शून्य⟫ | शून्य | 3 | vacío, desolado | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪शूर⟫ | शूर | 3 | valiente, heroico ; m.: héroe | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪शोक⟫ | शोक | m | Lamento, tristeza | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪शोभन⟫ | शोभन | 3 | brillante, magnífico, espléndido, hermoso, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪शौच⟫ | शौच | n | Purificación, pureza | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : fatigarse, cansarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪श्रि⟫ | श्रि | 1U | apoyarse, inclinarse, encontrar apoyo, dirigirse a alguien (con el dativo, ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | la escucha, la tradición eterna (denominación para los Vedas y Brāhmaṇa's) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | comerciante rico | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪श्रोणि⟫ | [śroṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śroṇi&filter=roman&accent=no&transLit=roman) | — | cadera | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | rico comerciante | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪श्रोणि⟫ | श्रोणि | — | cadera | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 | ⟪श्रौतसूत्र⟫ | [śrautasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrautasūtra&filter=roman&accent=no&transLit=roman) | n | obras didácticas para la ejecución de los grandes sacrificios | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪श्वन्⟫ | [śvan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvan&filter=roman&accent=no&transLit=roman) | m | perro | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪श्वसुर⟫ | [śvasura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvasura&filter=roman&accent=no&transLit=roman) | f | Suegro (en tiempos antiguos: solo de la mujer) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪श्वस्⟫ | [śvas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvas&filter=roman&accent=no&transLit=roman) | — | mañana | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪श्वस्रू⟫ | [śvasrū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvasrū&filter=roman&accent=no&transLit=roman) | f | Suegra (la declinación se verá más adelante) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪श्वन्⟫ | श्वन् | m | perro | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪श्वसुर⟫ | श्वसुर | f | Suegro (en tiempos antiguos: solo de la mujer) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪श्वस्⟫ | श्वस् | — | mañana | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪श्वस्रू⟫ | श्वस्रू | f | Suegra (la declinación se verá más adelante) | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 
 ## स
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪संख्या⟫ | [saṃkhyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃkhyā&filter=roman&accent=no&transLit=roman) | f | conteo, enumeración; n.: uno de los seis sistemas filosóficos (abreviado: Basham, Wonder p. 326f.) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪संपुट⟫ | [saṃpuṭa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃpuṭa&filter=roman&accent=no&transLit=roman) | m | lata (aquí: paquete, fardo) | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪संयक्⟫ | [saṃyak](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃyak&filter=roman&accent=no&transLit=roman) | Adv | correctamente, verdaderamente, de la manera apropiada; por completo, totalmente | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
-| ⟪सकाश⟫ | [sakāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sakāśa&filter=roman&accent=no&transLit=roman) | m | presencia, presencia actual | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | la adhesión a, el contacto con (con el instrumental) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (de - : golpear juntos): grupo, multitud, comunidad (por ejemplo, budista) | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | colgar, adherirse | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : adherirse, pegarse a (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪संख्या⟫ | संख्या | f | conteo, enumeración; n.: uno de los seis sistemas filosóficos (abreviado: Basham, Wonder p. 326f.) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪संपुट⟫ | संपुट | m | lata (aquí: paquete, fardo) | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪संयक्⟫ | संयक् | Adv | correctamente, verdaderamente, de la manera apropiada; por completo, totalmente | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪सकाश⟫ | सकाश | m | presencia, presencia actual | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪सङ्ग⟫ | सङ्ग | m | la adhesión a, el contacto con (con el instrumental) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪सङ्घ⟫ | सङ्घ | n | (de - : golpear juntos): grupo, multitud, comunidad (por ejemplo, budista) | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
+| ⟪सज्ज्⟫ | सज्ज् | 1P | colgar, adherirse | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : adherirse, pegarse a (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | verdad | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | rápido, apresurado | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sentarse, instalarse | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : sentarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  eterno, incólume, permanente | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | igual, mismo, similar (con instrumental) | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | igual, mismo, similar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪समता⟫ | [samatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samatā&filter=roman&accent=no&transLit=roman) | f | ecuanimidad | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪समम्⟫ | [samam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samam&filter=roman&accent=no&transLit=roman) | Adv | de la misma manera, al mismo tiempo (instrumental), uniformemente | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪समय⟫ | [samaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samaya&filter=roman&accent=no&transLit=roman) | m | acuerdo, contrato, plazo, fecha, tiempo | [43](/es/lektionen/lektion43#_43-4-lista-de-palabras) |
-| ⟪समाधि⟫ | [samādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samādhi&filter=roman&accent=no&transLit=roman) | m | concentración interior, máxima atención, "sumersión" meditativa | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪समाधि⟫ | [samādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samādhi&filter=roman&accent=no&transLit=roman) | m | concentración interior, máxima atención | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | igual | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
-| ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | del mismo tipo, igual, similar; m.: compañero de edad | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | cada, todos | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪सत्वर⟫ | सत्वर | 3 | rápido, apresurado | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪सद्⟫ | सद् | — | sentarse, instalarse | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪सद्⟫ | सद् | — | sig[] : sentarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪सनातन⟫ | सनातन | — |  eterno, incólume, permanente | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
+| ⟪सम⟫ | सम | 3 | igual, mismo, similar (con instrumental) | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪सम⟫ | सम | 3 | igual, mismo, similar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪समता⟫ | समता | f | ecuanimidad | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪समम्⟫ | समम् | Adv | de la misma manera, al mismo tiempo (instrumental), uniformemente | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪समय⟫ | समय | m | acuerdo, contrato, plazo, fecha, tiempo | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
+| ⟪समाधि⟫ | समाधि | m | concentración interior, máxima atención, "sumersión" meditativa | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪समाधि⟫ | समाधि | m | concentración interior, máxima atención | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪समान⟫ | समान | — | igual | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
+| ⟪समान⟫ | समान | 3 | del mismo tipo, igual, similar; m.: compañero de edad | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪सर्व⟫ | सर्व | 3 | cada, todos | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 | ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | junto con, conjuntamente (también en „luchar contra“ etc.) (Postposición con Instrumental) | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
-| ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | unido, provisto de | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | conducente al objetivo, eficaz | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
+| ⟪सहित⟫ | सहित | 3 | unido, provisto de | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪साधन⟫ | साधन | m | conducente al objetivo, eficaz | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | correcto, bueno | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪साध्वी⟫ | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhvī&filter=roman&accent=no&transLit=roman) | f | fem. de sādhu | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪सामर्थ्य⟫ | [sāmarthya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmarthya&filter=roman&accent=no&transLit=roman) | n | lo que corresponde a su propósito | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | igualdad, concordancia | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
-| ⟪सायक⟫ | [sāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāyaka&filter=roman&accent=no&transLit=roman) | m | Flecha | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪सार⟫ | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāra&filter=roman&accent=no&transLit=roman) | m | núcleo, médula, esencia, sustancia | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | m | león (_Panthera leo persica_) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | Límite | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | Hijo | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪सुप्ति⟫ | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=supti&filter=roman&accent=no&transLit=roman) | f | Sueño, especialmente sueño profundo | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | alabado, excelente, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪सूक्ष्म⟫ | [sūkṣma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūkṣma&filter=roman&accent=no&transLit=roman) | 3 | fino, diminuto, sutil | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | m | Sol, dios del sol Sūrya \<!-- --\> | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | m | sol | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪सेवा⟫ | [sevā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sevā&filter=roman&accent=no&transLit=roman) | f | servicio, asistencia | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪सेव्⟫ | [sev](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sev&filter=roman&accent=no&transLit=roman) | 1Ā | servir a alguien (), atender, honrar, amar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪स्तन⟫ | [stana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stana&filter=roman&accent=no&transLit=roman) | m | pecho | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪स्तु⟫ | [stu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stu&filter=roman&accent=no&transLit=roman) | — | alabar, ensalzar | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪स्तुति⟫ | [stuti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stuti&filter=roman&accent=no&transLit=roman) | f | alabanza, himno de alabanza | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪स्तेन⟫ | [stena](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stena&filter=roman&accent=no&transLit=roman) | m | ladrón | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪स्तेय⟫ | [steya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=steya&filter=roman&accent=no&transLit=roman) | n | robo | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪स्तोत्र⟫ | [stotra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stotra&filter=roman&accent=no&transLit=roman) | n | (medio para alabar =) himno de alabanza, himno | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪स्त्री⟫ | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=strī&filter=roman&accent=no&transLit=roman) | f | mujer | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪स्त्री⟫ | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=strī&filter=roman&accent=no&transLit=roman) | f | mujer, esposa ; femenino | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪स्थविर⟫ | [sthavira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthavira&filter=roman&accent=no&transLit=roman) | 3 | viejo, anciano | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪स्था⟫ | [sthā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthā&filter=roman&accent=no&transLit=roman) | — | abstenerse, apartarse, mantenerse alejado, permanecer, estar de pie | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪स्थाविर⟫ | [sthāvira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthāvira&filter=roman&accent=no&transLit=roman) | n | (alta) vejez | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪स्पृश्⟫ | [spṛś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=spṛś&filter=roman&accent=no&transLit=roman) | 6P | tocar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪सामर्थ्य⟫ | सामर्थ्य | n | lo que corresponde a su propósito | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪सामान्य⟫ | सामान्य | n | igualdad, concordancia | [23](/es/lektionen/lektion23#_23-4-lista-de-vocabulario) |
+| ⟪सायक⟫ | सायक | m | Flecha | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪सार⟫ | सार | m | núcleo, médula, esencia, sustancia | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪सिंह⟫ | सिंह | m | león (_Panthera leo persica_) | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪सीमन्⟫ | सीमन् | f | Límite | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪सुत⟫ | सुत | m | Hijo | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪सुप्ति⟫ | सुप्ति | f | Sueño, especialmente sueño profundo | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪सुष्टु⟫ | सुष्टु | 3 | alabado, excelente, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪सूक्ष्म⟫ | सूक्ष्म | 3 | fino, diminuto, sutil | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪सूर्य⟫ | सूर्य | m | Sol, dios del sol Sūrya \<!-- --\> | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪सूर्य⟫ | सूर्य | m | sol | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪सृज् सृजति⟫ | [sṛj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sṛj&filter=roman&accent=no&transLit=roman) | — | soltar, liberar, emanar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
+| ⟪सेवा⟫ | सेवा | f | servicio, asistencia | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪सेव्⟫ | सेव् | 1Ā | servir a alguien (), atender, honrar, amar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪स्तन⟫ | स्तन | m | pecho | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪स्तु⟫ | स्तु | — | alabar, ensalzar | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪स्तुति⟫ | स्तुति | f | alabanza, himno de alabanza | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪स्तेन⟫ | स्तेन | m | ladrón | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪स्तेय⟫ | स्तेय | n | robo | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪स्तोत्र⟫ | स्तोत्र | n | (medio para alabar =) himno de alabanza, himno | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪स्त्री⟫ | स्त्री | f | mujer | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪स्त्री⟫ | स्त्री | f | mujer, esposa ; femenino | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪स्थविर⟫ | स्थविर | 3 | viejo, anciano | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪स्था⟫ | स्था | — | abstenerse, apartarse, mantenerse alejado, permanecer, estar de pie | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪स्थाविर⟫ | स्थाविर | n | (alta) vejez | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
+| ⟪स्पृश्⟫ | स्पृश् | 6P | tocar | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪स्मृ स्मरति⟫ | [smṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛ&filter=roman&accent=no&transLit=roman) | — | hacer presente, recordar | [6](/es/lektionen/lektion06#_6-7-lista-de-palabras) |
 | ⟪स्मृति⟫ | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛti&filter=roman&accent=no&transLit=roman) | f | Presentificación, recuerdo, presentificación meditativa = atención plena, tradición (concepto opuesto a śruti). Incluye | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
-| ⟪स्व⟫ | [sva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sva&filter=roman&accent=no&transLit=roman) | 3 | propio, suyo (mío, tuyo, etc.). Se declina como . En Abl.Loc.sg.m.n y en Nom.pl.m también puede declinarse como  | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪स्वक⟫ | [svaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svaka&filter=roman&accent=no&transLit=roman) | 3 | propio (mío, tuyo ...) ; m.: miembro | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪स्वप्⟫ | [svap](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svap&filter=roman&accent=no&transLit=roman) | 2P | dormir, acostarse a dormir | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪स्वप्न⟫ | [svapna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svapna&filter=roman&accent=no&transLit=roman) | m | Sueño, sueño onírico | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
-| ⟪स्वभाव⟫ | [svabhāva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svabhāva&filter=roman&accent=no&transLit=roman) | m | Ser, naturaleza, carácter | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪स्वयम्⟫ | [svayam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svayam&filter=roman&accent=no&transLit=roman) | — | mismo, por sí mismo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪स्वसृ⟫ | [svasṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svasṛ&filter=roman&accent=no&transLit=roman) | f | Hermana | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪स्वस्ति⟫ | [svasti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svasti&filter=roman&accent=no&transLit=roman) | f | felicidad, salvación (formación nominal de = "está bien") | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪स्वागत⟫ | [svāgata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svāgata&filter=roman&accent=no&transLit=roman) | n | bienvenida (de su-ā-gata) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪स्वाध्याय⟫ | [svādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svādhyāya&filter=roman&accent=no&transLit=roman) | m | "autoestudio", recitación (especialmente del Veda), estudio védico | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
+| ⟪स्व⟫ | स्व | 3 | propio, suyo (mío, tuyo, etc.). Se declina como . En Abl.Loc.sg.m.n y en Nom.pl.m también puede declinarse como  | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
+| ⟪स्वक⟫ | स्वक | 3 | propio (mío, tuyo ...) ; m.: miembro | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪स्वप्⟫ | स्वप् | 2P | dormir, acostarse a dormir | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪स्वप्न⟫ | स्वप्न | m | Sueño, sueño onírico | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
+| ⟪स्वभाव⟫ | स्वभाव | m | ser, naturaleza, carácter | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪स्वयम्⟫ | स्वयम् | — | mismo, por sí mismo | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪स्वसृ⟫ | स्वसृ | f | Hermana | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪स्वस्ति⟫ | स्वस्ति | f | felicidad, salvación (formación nominal de = "está bien") | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪स्वागत⟫ | स्वागत | n | bienvenida (de su-ā-gata) | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪स्वाध्याय⟫ | स्वाध्याय | m | "autoestudio", recitación (especialmente del Veda), estudio védico | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 
 ## ह
 
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
-| ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | golpear, matar, dar muerte | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
-| ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | golpear de vuelta | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | quitando; m.: el destructor = epíteto de Śiva | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | rubio, amarillo, verde; m. epíteto de Viṣṇu (no pertenece a la raíz 1) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪हन्⟫ | हन् | — | golpear, matar, dar muerte | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
+| ⟪हन्⟫ | हन् | 2P | golpear hacia atrás | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪हर⟫ | हर | 3 | quitando; m.: el destructor = epíteto de Śiva | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪हरि⟫ | हरि | 3 | rubio, amarillo, verde; m. epíteto de Viṣṇu (no pertenece a la raíz 1) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
 | ⟪हरिष्यति⟫ | Fut.: | — | br Pass.: :br PPP: :br Inf | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu y Śiva unidos como una única deidad | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (Erectión del vello corporal), alegría | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | mano | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
-| ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | Elefante (_Elephas maximus_) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
-| ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | abandonar | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪हरिहर⟫ | हरिहर | m | Viṣṇu y Śiva unidos como una única deidad | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪हर्ष⟫ | हर्ष | m | (erizar los pelos), alegría | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪हस्त⟫ | हस्त | m | mano | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
+| ⟪हस्तिन्⟫ | हस्तिन् | m | Elefante (_Elephas maximus_) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪हा⟫ | हा | 3P | abandonar | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪हिरण्य⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | dorado ; n.: oro, dinero, riqueza | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
+| ⟪हिरण्य ३⟫ | हिरण्य ३ | — | dorado ; n.: oro, dinero, riqueza | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | abandonado por, carente de, defectuoso | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | el vehículo defectuoso (del budismo): término despectivo utilizado por los representantes del "gran vehículo", el ; el c | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | 3P | verter en el fuego (como ofrenda, especialmente mantequilla derretida) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | sostener, llevar; traer, quitar, robar | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
-| ⟪हृदय⟫ | [hṛdaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛdaya&filter=roman&accent=no&transLit=roman) | n | corazón | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪हृष्⟫ | [hṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛṣ&filter=roman&accent=no&transLit=roman) | 4P | volverse rígido: erizarse (pelo), alegrarse por (Instr., Acus., Loc.) | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
-| ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | m | impulso, motivo, causa, razón; , , con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a" | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪ह्रस्व⟫ | [hrasva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hrasva&filter=roman&accent=no&transLit=roman) | 3 | corto | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
-| ⟪ह्वे⟫ | [hve](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hve&filter=roman&accent=no&transLit=roman) | — | llamar, llamar a alguien | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪हीनयान⟫ | हीनयान | n | el vehículo defectuoso (del budismo): término despectivo utilizado por los representantes del "gran vehículo", el ; el c | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪हु⟫ | हु | 3P | verter en el fuego (como ofrenda, especialmente mantequilla derretida) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪हृ⟫ | हृ | 1U | sostener, llevar; traer, quitar, robar | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
+| ⟪हृदय⟫ | हृदय | n | corazón | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪हृष्⟫ | हृष् | 4P | volverse rígido: erizarse (pelo), alegrarse por (Instr., Acus., Loc.) | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪हेतु⟫ | हेतु | m | impulso, motivo, causa, razón; , , con genitivo o como segundo miembro de un compuesto = "por ... causa, debido a" | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
+| ⟪ह्रस्व⟫ | ह्रस्व | 3 | corto | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
+| ⟪ह्वे⟫ | ह्वे | — | llamar, llamar a alguien | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |

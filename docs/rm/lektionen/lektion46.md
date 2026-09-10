@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Lecziun 46"
+subtitle: "Furmaziun dals verbs da la segunda persuna (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 46
@@ -376,19 +377,19 @@ Per ⟪राहु⟫ e ⟪केतु⟫ vesair:
 > **Payer, Alois \<1944 - \>:** Dharmashastra : Introducziun e survista. -- 10. Sacraments e ritgs da transiziun (samskara). -- Appendix C: Rahu e Ketu, las stailas invisiblas dal moviment. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/rm/licenses#lekt4602)
-(Bildquelle: [Details](/rm/licenses#lekt4602))
+Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/rm/licenses#lekt4602)
+(Font dal maletg: [Details](/rm/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/rm/licenses#lekt4603)
+Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/rm/licenses#lekt4603)
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
+Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
 (Imàgin da la font: [Detagls](/rm/licenses#lekt4604))
 :::
 
@@ -421,8 +422,8 @@ V. inf. ⟪नन्तुम्⟫
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/rm/licenses#lekt4607)
-(Bildquelle: [Detagls](/rm/licenses#lekt4607))
+Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/rm/licenses#lekt4607)
+(Font dal maletg: [Detagls](/rm/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : gudagnar, muntar
 
@@ -437,8 +438,8 @@ Inf. ⟪रोढुम्⟫
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/rm/licenses#lekt4606)
-(Bildquelle: [Details](/rm/licenses#lekt4606))
+Fig.: [⟪अश्वरोहकः⟫](/rm/licenses#lekt4606)
+(Font dal maletg: [Details](/rm/licenses#lekt4606))
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : clamar, evocar
 
@@ -454,7 +455,7 @@ Absol. -⟪⟪हूय⟫⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/rm/licenses#lekt4608)
+Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/rm/licenses#lekt4608)
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4608))
 :::
 

@@ -1,6 +1,7 @@
 ---
-title: Lektion 53
+title: "[M0] Μάθημα 53"
 lesson_id: 53
+
 ---
 
 # Μάθημα νγʹ
@@ -210,8 +211,8 @@ lesson_id: 53
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/grc/licenses#lekt5306))
+Εἰκ.: ⟪फले⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5306))
 :::
 **Θέματα σε -i**
 

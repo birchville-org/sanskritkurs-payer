@@ -443,10 +443,14 @@ la **yaj** 1 U:
   Pentru viața urbană și rurală, consultați Basham, *Wonder*, cap. 6.
   :::
 
+  ::: note-box
+  Pentru viața urbană și rurală, consultați Basham, *Wonder*, cap. 6.
+  :::
+
 **yajña** m. ⟪यज्ञ⟫ : jertfă
 
   ::: note-box
-  În India, jertfa este în primul rând o onorare a divinității ca pe un gazdă. Prin aceasta, te obligi față de divinitate.
+  În India, jertfa este, în primul rând, o onorare a divinității ca pe un oaspete. Prin aceasta, te angajezi față de divinitate.
 
   Formare lexicală: **yaj** 1 U + sufixul kṛt **-na-**.
   :::
@@ -454,7 +458,7 @@ la **yaj** 1 U:
 **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
 
   ::: note-box
-  Prin care câștigi bunăstare și nașteri bune în reîncarnări.
+  Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
   :::
 
 **pāpa** n. ⟪पाप⟫ : faptă rea, rău (opusul lui **puṇya**)
@@ -465,7 +469,7 @@ la **yaj** 1 U:
 
 :::
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire, editat de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
+[LN471] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire, editat de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
 ::: media
@@ -481,10 +485,10 @@ Fig.: ⟪वरुणः⟫
   **ṛta** este un concept central în Veda, a cărui traducere este disputată: „adevăr” (Lüders, Thieme), „ordine” (Renou).
   :::
 
-**ṛṣi** m. ⟪ऋषि⟫ : înțelept vedic, autor al cântărilor veda
+**ṛṣi** m. ⟪ऋषि⟫ : înțelept vedic, autor al cântărilor vedice
 
   ::: note-box
-  Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste separate dedicate Vede. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care își denumesc **gotra**-urile (⟪गोत्र⟫). Pentru conceptul de **gotra**, consultați Basham, *Wonder*, cap. 5.
+  Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste proprii dedicate Vedelor. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care își denumesc **gotra** (⟪गोत्र⟫). Pentru conceptul **gotra**, consultați Basham, *Wonder*, cap. 5.
   :::
 
 ::: media
@@ -493,11 +497,11 @@ Fig.: ⟪विश्वामित्रः⟫
 (Sursa imaginii: [Detalii](/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : a spune, a vorbi
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Ac.; despre ceva: Ac.)
 **saha** ⟪सह⟫ : împreună cu, alături de (de asemenea în contextul „a lupta împotriva“ etc.) (Postpoziție cu Instrumental)
 
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire editorială de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+[LN503] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire editorială de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
 ::: media
@@ -508,7 +512,7 @@ Fig.: ⟪वरुणः⟫
 **anṛta** n. ⟪अनृत⟫ : nedreptate, minciună (opusul lui **satya**)
 
   ::: note-box
-  Formare de cuvinte **an-** („ne-“) + **ṛta** n.
+  Derivare **an-** („ne-“) + **ṛta** n.
 
   **Ṛta** este un concept central în Veda, a cărui traducere este disputată: „adevăr” (Lüders, Thieme), „ordine” (Renou).
   :::
@@ -516,7 +520,7 @@ Fig.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : înțelept vedic, autor al cântărilor veda
 
   ::: note-box
-  Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste proprii dedicate Vedelor. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care sunt numite **gotra**-urile lor (⟪गोत्र⟫). Pentru conceptul **gotra** consultați Basham, *Wonder*, cap. 5.
+  Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste proprii dedicate Vede. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care sunt numite **gotra**-urile lor (⟪गोत्र⟫). Pentru conceptul **gotra** consultați Basham, *Wonder*, cap. 5.
   :::
 
 ::: media
@@ -525,11 +529,11 @@ Fig.: ⟪विश्वामित्रः⟫
 (Sursa imaginii: [Detalii](/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : a spune, a vorbi
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Ac.; despre ceva: Ac.)
 **saha** ⟪सह⟫ : împreună cu, alături de (de asemenea în contextul „a lupta împotriva“ etc.) (Postpoziție cu Instrumental)
 
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editat din moștenire de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+[LN535] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editat din moștenire de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -546,7 +550,7 @@ Formare de cuvinte **an-** („ne-“) + **ṛta** n.
 
 :::
 ::: note-box
-Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste proprii dedicate Vede. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care sunt numite **gotra**-urile lor (⟪गोत्र⟫). Pentru conceptul **gotra** consultați Basham, *Wonder*, cap. 5.
+Numele acestor **ṛṣi**s sunt menționate în Brāhmaṇas, precum și în liste proprii dedicate Vede. Toți brahmanii își derivă originea de la astfel de **ṛṣi**s, după care își denumesc **gotra**-urile (⟪गोत्र⟫). Pentru conceptul **gotra** consultați Basham, *Wonder*, cap. 5.
 :::
 ::: media
 ![](/images/lekt1002.jpg)
@@ -554,7 +558,7 @@ Fig.: ⟪विश्वामित्रः⟫
 (Sursa imaginii: [Detalii](/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : a spune, a vorbi
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Ac.; despre ceva: Ac.)
 **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta împotriva” etc.) (Postpoziție cu Instrumental)
 
 ---
@@ -576,11 +580,11 @@ Fig.: ⟪विश्वामित्रः⟫
 **Învățați următoarele cuvinte:**
 
 **iti** ⟪इति⟫ : așa
-Apare *după* formularea unei gândiri, dorințe, declarații sau citat, funcționând ca niște ghilimele (").
-De exemplu, **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** „Brahmanii spun: 'Cei sfinți merg în cer'” = „Brahmanii spun că cei sfinți merg în cer”.
+Stă *după* formularea unei gândiri, dorințe, afirmații, citatului ca și ghilimele (").
+De ex. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** „Brahmanii spun: 'Cei sfinți merg în cer'” = „Brahmanii spun că cei sfinți merg în cer”.
 În sanscrită nu există discurs indirect; construcțiile cu **iti** trebuie adesea redate în germană prin discurs indirect.
 **... (Citat) ... iti śrutiḥ** = „așa spune Veda”.
-Adesea, după **iti** se subînțelege un verb de gândire: „gândind: '...' face aceasta”. Redați idiomat în germană (de exemplu, „Deoarece are foame, merge...” ).
+Adesea, după **iti** se presupune un verb de gândire: „gândind: '...' face el asta”. Redat idiomatic în germană (de ex. „Pentru că are foame, merge el...” ).
 
 **evam** ⟪एवम्⟫ : așa (adverbial, de ex. **evaṃ jayati** „așa învinge el“).
 **na** ⟪न⟫ : nu
@@ -1801,8 +1805,6 @@ din aceasta:
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Sursa imaginii: [Detalii](/licenses#lekt2506))
-:::
-⟪अणु ३⟫ : subțire, fin, foarte mic ; m.: atom
 
 ⟪गोदान⟫ n.: darul vacilor / al unei vaci; a doua ceremonie de tundere a părului (un ⟪संस्कार⟫)
 
@@ -1834,7 +1836,7 @@ din acesta:
 ::: indent
 ⟪वस्तुतस्⟫: în realitate, cu adevărat
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): a îmbrăca (îmbrăcăminte), a purta (îmbrăcăminte)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): a îmbrăca (haine), a purta (haine)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
@@ -1871,9 +1873,11 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 din acesta:
 
 ::: indent
-⟪हर⟫ 3: luând; m.: distrugătorul = nume al lui Śiva
+⟪हर⟫ 3: luând; m.: distrugătorul = epitet al lui Śiva
 :::
-Corespondentul lui ⟪हर⟫:
+Contrapartea lui ⟪हर⟫:
+
+⟪हरि⟫ 3: blond, galben, verde; m. epitet al lui Viṣṇu (nu aparține rădăcinii ⟪हृ⟫ 1)
 
 ⟪हरि⟫ 3: blond, galben, verde; m. nume al lui Viṣṇu (nu aparține rădăcinii ⟪हृ⟫ 1)
 
@@ -2735,59 +2739,6 @@ Statuia taurului Nandi, Dealurile Chamundi, Mysore.
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
-::: media
-![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
-:::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): a cânta, a recita în ton melodic, a proclama în versuri
-::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
-**Fut. ⟪गास्यति⟫** :br
-**Pass. ⟪गीयते⟫** :br
-**Kaus. ⟪गापयति⟫** :br
-**PPP ⟪गीत⟫** :br
-**Inf. ⟪गातुम्⟫**
-
-din care:
-**⟪गीता⟫ f.:** cântec, imn
-:::
-::: media
-![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
-Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
-:::
-
-## Lecție 36
-
-
-
-
-
-
-
-
-
-
-
-
-
-⟪अह्⟫ P only Perfekt cu sens de prezent ⟪आह⟫, ⟪आहुर्⟫ : a spune, a vorbi
-
-⟪अह् प्र⟫ P only Perfekt cu sens de prezent ⟪प्राह⟫ : a spune, a vorbi
-
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : a vedea, (a) privi, a contempla
-
-::: indent
-Perf. ⟪ईक्षां चक्रे⟫  
-Fut. ⟪ईक्षिष्यते⟫  
-Pass. ⟪ईक्ष्यते⟫  
-Kaus. ⟪ईक्षयति⟫  
-PPP ⟪ईक्षित⟫  
-Inf. ⟪ईक्षितुम्⟫
-:::
 ⟪चि⟫ 5U ⟪चिनोति⟫ : a amassa, a colecta
 
 ::: indent
@@ -2801,7 +2752,7 @@ Inf. ⟪चेतुम्⟫
 ::: media
 ![](/images/lekt3601.webp)
 Abb.: ⟪गोमयं चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+[LN2754] (Sursa imaginii: [Details](/licenses#lekt3601))
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : a pași, a merge, a pleca
@@ -2821,7 +2772,7 @@ Inf. ⟪व्रजितुम्⟫
 ::: media
 ![](/images/lekt3602.webp)
 Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+[LN2774] (Sursa imaginii: [Details](/licenses#lekt3602))
 :::
 
 ::: indent
@@ -2832,7 +2783,7 @@ davon:
 ::: media
 ![](/images/lekt3603.webp)
 Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+[LN2785] (Sursa imaginii: [Details](/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: cele două mâini unite în sus pentru respect
 
@@ -2847,21 +2798,21 @@ Abb.: ⟪अनगार्यम्⟫
 ::: indent
 ⟪पृष्ठम्⟫ : în spate
 :::
-⟪प्रजापति⟫ m.: stăpânul ființelor, zeu creator
+⟪प्रजापति⟫ m.: stăpânul ființelor, zeul creator
 
 ⟪अनु⟫ Präverb: după, de-a lungul, peste - în sus, de-a lungul, conform, spre, în spate - după
 
 ::: indent
-z.B.
+[LN2805] de exemplu
 
 ⟪अनुकृ⟫ : a imita, a copia
 
 ⟪अनुगम्⟫ : a merge după cineva, a merge de-a lungul
 :::
-⟪अभि⟫ : pe, după - în sus, spre - jos, spre, împotriva, în - interiorul, cu privire la, pe, peste, la
+⟪अभि⟫ : a-și îndrepta, spre - în sus, către - jos, către - în sus, împotriva, în - interiorul, cu privire la, pe, peste, la
 
 ::: indent
-z.B.
+[LN2814] de exemplu
 
 ⟪अभिगम्⟫ : a merge spre, a se apropia
 
@@ -2889,7 +2840,7 @@ PPP ⟪घ्रात । घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ Cl. 9U ⟪प्रीणति⟫ : a se bucura, a încânta; a iubi, a fi favorabil cuiva
+⟪प्री⟫ Cl. 9U ⟪प्रीणति⟫ : a încânta, a bucura; a iubi, a fi favorabil cuiva
 
 ⟪प्री⟫ Cl. 4Ā ⟪प्रीयते⟫ : a se bucura
 
@@ -2900,6 +2851,55 @@ Pass. ⟪प्रीयते⟫
 Caus. :sig[⟪प्रीणयति⟫]  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
+:::
+⟪स्पृश्⟫ Cl. 6P ⟪स्पृशति⟫ : a atinge
+
+::: indent
+Perf. IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
+Pass. ⟪स्पृश्यते⟫  
+Caus. ⟪स्पर्शयति⟫  
+PPP ⟪स्पृष्ट⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
+Absol. -⟪स्पृश्य⟫
+:::
+::: media
+![](/images/lekt3606.webp)
+Fig.: ⟪सुगतो भूमीं पस्पर्श⟫
+(Sursa imaginii: [Detalii](/licenses#lekt3606))
+:::
+⟪हृष्⟫ Cl. 4P ⟪हृष्यति⟫ : a deveni rigid: a se încăruna (părul), a se bucura de (Instr., Akk., Lok.)
+
+::: indent
+Perf. II ⟪जहर्ष⟫  
+Fut. ⟪हर्षिष्यति⟫  
+Pass. ⟪हृष्यते⟫  
+Caus. ⟪हर्षयति⟫  
+PPP ⟪हृषित⟫
+:::
+::: media
+![](/images/lekt3604.webp)
+Fig.: ⟪लोमहर्षः⟫
+(Sursa imaginii: [Detalii](/licenses#lekt3604))
+:::
+
+⟪स्वक⟫ Cl. 3: propriu (al meu, al tău ...) ; m.: membru
+
+## Lecția 37
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪मूर्ख⟫ Cl. 3: obtuz, stupid, prost m. Idiot
 :::
 ⟪स्पृश्⟫ Cl. 6P ⟪स्पृशति⟫ : a atinge
 
@@ -4117,37 +4117,8 @@ Fig.: ⟪मम जाया⟫
 :::
 
 ## Lecție 49
-
-
-
-
-
-
-
-
-
-
-
-
-
-⟪दीर्घ⟫ 3: lung
-
-⟪ह्रस्व⟫ 3: scurt
-
-⟪आयुस्⟫ n.: durată de viață (durata completă a vieții, pe care o poți trăi dacă nu intervine nimic) ;
-
-::: indent
-din aceasta:
-
-⟪आयुर्वेद⟫ m.: sistemul medical tradițional al Indiei
-
-vezi:
-
 :::
-::: indent
-**Carakasaṃhitā:** Texte selectate din Carakasaṃhită / traduse și comentate de Alois Payer (1944–). -- 0. Introducere. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : a arunca, a împinge
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : a arunca, a proiecta
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -4169,7 +4140,7 @@ Kaus. ⟪त्वरयति⟫
 PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : a dăuna
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : a afecta
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
@@ -4184,7 +4155,7 @@ Inf. ⟪द्रोग्धुम्⟫
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+[LN4157] (Sursa imaginii: [Details](/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: întreg, complet
 
@@ -4195,25 +4166,25 @@ Abb.: ⟪कुलूहलम्⟫
 ::: media
 ![](/images/lekt4902.webp)
 Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, sec. al XI-lea
-(Bildquelle: [Details](/licenses#lekt4902))
+[LN4168] (Sursa imaginii: [Details](/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: dorință
 
 ⟪उत⟫ Indekl.: și, de asemenea, sau
 
-⟪विहंग⟫ m.: pasăre ("în visul aerian - ⟪विह⟫ - mergând")
+⟪विहंग⟫ m.: pasăre ("în aerul स् vis - ⟪विह⟫ - mergând")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+[LN4179] (Sursa imaginii: [Details](/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: haină, aspect, exterior
 
 ::: media
 ![](/images/lekt4904.webp)
 Abb.: ⟪वेषः वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+[LN4186] (Sursa imaginii: [Details](/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: pătură, ascunziș
 
@@ -4223,9 +4194,9 @@ Abb.: ⟪वेषः वाराणस्याम्⟫
 ![](/images/lekt4909.webp)
 Abb.: ⟪पञ्जरम्⟫
 Vrăjitor cu papagal în cușcă: papagalul trage bilețele pe care este scris destinul Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+[LN4196] (Sursa imaginii: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल । चण्डाल⟫ m.: cel mai jos nivel al [Dalitilor](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: nivelul de jos al [Dalitilor](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indekl.: insusi, de la sine
 
@@ -4254,7 +4225,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: cel mai indepartat, suprem ; ⟪पञ्चम्या⟫ : mai bun decat, superior cu
+⟪परम⟫ 3: cel mai indepartat, cel mai inalt ; ⟪पञ्चम्या⟫ : mai bun ca, mai presus de
 
 ⟪शिशु⟫ m.: copil, pui
 
@@ -4265,7 +4236,7 @@ Sri Lanka
 (Sursa imaginii: [Detalii](/licenses#lekt4906))
 :::
 
-## Lecție 50
+## Lectia 50
 
 
 
@@ -4288,6 +4259,25 @@ Sri Lanka
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : a dispretui, a ignora
 
 ⟪मन्त्रिन्⟫ 3: consilier ; m.: consultant, membru al consiliului, ministru
+
+::: media
+![](/images/lekt5001.jpg)
+Abb.: ⟪मन्त्री⟫
+Kapil Sibal (1948 -), ministru federal in Ministerul Stiintei si Tehnologiei si Ministerul Stiintelor Pamantului (din 2006)
+(Sursa imaginii: [Detalii](/licenses#lekt5001))
+:::
+⟪रहस्⟫ n.: secret, singuratate
+
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : a fi afectat, a esua, a deteriora
+
+::: indent
+Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+Fut. ⟪रेषिष्यति⟫
+Pass. ⟪रिष्यते⟫
+Kaus. ⟪रेषयति⟫
+PPP ⟪रिष्ट⟫
+:::
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : a sparge, a distruge
 
 ::: media
 ![](/images/lekt5001.jpg)

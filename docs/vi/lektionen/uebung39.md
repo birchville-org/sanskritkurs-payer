@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 39"
 uebung_id: 39
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,12 +7,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 39
+# Bài tập 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Hãy tạo các dạng ngôi thứ nhất tương ứng với các hình thái động từ sau đây, phù hợp về số, thì, phương thức (Báo tin, Cầu khẩn) và thể hành động (P, Ā, Bị động):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| Ngôi thứ 3 | Ngôi thứ 1 |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -106,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Hình: ⟪आगारे सीदामः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung064))
 :::
 

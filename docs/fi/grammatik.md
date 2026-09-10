@@ -1,107 +1,108 @@
 ---
 aside: true
 outline: [2, 3]
+
 ---
 
-# Grammatik Themen
+# Kielioppi Aiheet
 
-Tämä sivu tarjoaa systemaattisen katsauksen Sanskrit-kurssin kaikista grammatiikan aiheista. Jokainen 61 tunnista on luokiteltu tähän teemakohtaisesti.
+Tämä sivu tarjoaa systemaattisen katsauksen sanskritin kielen kaikkien kurssin kieliopillisten aiheiden osalta. Jokainen 61:stä tunnista on tässä luokiteltu teemoittain.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Äänneoppi & Kirjoitus (Saṃhitā & Lipi)
 
-*   **Phonemien johdanto**: Järjestelmällisyys ja ääntäminen -\> [Lektion 1](/lektionen/lektion01)
-*   **Kirjoitusjärjestelmän johdanto (Devanāgarī)**:
-*   Vokaalit ja yksinkertaiset konsonantit -\> [Lektion 40](/lektionen/lektion40)
-*   Yhdistetyt konsonantit (ligatuurit) -\> [Lektion 41](/lektionen/lektion41) & [Lektion 42](/lektionen/lektion42)
+*   **Äänteiden esittely**: Järjestelmällisyys ja ääntäminen -\> [Lektion 1](/fi/lektionen/lektion01)
+*   **Kirjoituksen esittely (Devanāgarī)**:
+*   Vokaalit ja yksinkertaiset konsonantit -\> [Lektion 40](/fi/lektionen/lektion40)
+*   Yhdistelmäkonsontit (ligatuurit) -\> [Lektion 41](/fi/lektionen/lektion41) & [Lektion 42](/fi/lektionen/lektion42)
 *   **Sandhi (äänneyhteys)**:
-*   Sandhi loppuäänteen **-s/visarga** kanssa -\> [Lektion 2](/lektionen/lektion02), [Lektion 3](/lektionen/lektion03), [Lektion 30](/lektionen/lektion30)
-*   Sandhi **-m, -e, -d** kanssa -\> [Lektion 4](/lektionen/lektion04)
-*   **Vokaalisandhi** -\> [Lektion 3](/lektionen/lektion03), [Lektion 24](/lektionen/lektion24)
-*   Sandhi **-n** kanssa -\> [Lektion 7](/lektionen/lektion07)
-*   Sandhi **nasaleille** -\> [Lektion 21](/lektionen/lektion21), [Lektion 26](/lektionen/lektion26)
-*   Cerebralisaatio (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/lektionen/lektion10), [Lektion 26](/lektionen/lektion26)
-*   Sanasandhi (h-, ch-) -\> [Lektion 44](/lektionen/lektion44), [Lektion 51](/lektionen/lektion51)
-*   **Konsonantisandhi** (yhteenvetot) -\> [Lektion 16](/lektionen/lektion16), [Lektion 43](/lektionen/lektion43)
+*   Sandhi ulkoisesta **-s/Visarga** -\> [Lektion 2](/fi/lektionen/lektion02), [Lektion 3](/fi/lektionen/lektion03), [Lektion 30](/fi/lektionen/lektion30)
+*   Sandhi **-m, -e, -d** -\> [Lektion 4](/fi/lektionen/lektion04)
+*   **Vokaalisandhi** -\> [Lektion 3](/fi/lektionen/lektion03), [Lektion 24](/fi/lektionen/lektion24)
+*   Sandhi **-n** -\> [Lektion 7](/fi/lektionen/lektion07)
+*   Sandhi **nasaleille** -\> [Lektion 21](/fi/lektionen/lektion21), [Lektion 26](/fi/lektionen/lektion26)
+*   Cerebralisaatio (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/fi/lektionen/lektion10), [Lektion 26](/fi/lektionen/lektion26)
+*   Sanasandhi (h-, ch-) -\> [Lektion 44](/fi/lektionen/lektion44), [Lektion 51](/fi/lektionen/lektion51)
+*   **Konsonanttisandhi** (yhteenvetot) -\> [Lektion 16](/fi/lektionen/lektion16), [Lektion 43](/fi/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Sanakirja (Morfologia)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Substantiivit ja adjektiivit (Deklinaatio)
 
-*   **Perusteet**: Taivutusoppi -\> [Lektion 1](/lektionen/lektion01), [Lektion 2](/lektionen/lektion02)
-*   **A-taivutus** (Maskuliini & Neutri) -\> [Lektion 2](/lektionen/lektion02), [Lektion 7](/lektionen/lektion07)
-*   **I- ja U-taivutus** -\> [Lektion 3](/lektionen/lektion03), [Lektion 27](/lektionen/lektion27), [Lektion 52](/lektionen/lektion52)
-*   **Konsonanttitaivutus**:
-*   Vartalon päättyminen **-mant / -vant** -\> [Lektion 13](/lektionen/lektion13)
-*   Vartalon päättyminen **-n** (Rājan, Ātman) -\> [Lektion 38](/lektionen/lektion38)
-*   Yksinkertaiset konsonanttivartalon päättyminen -\> [Lektion 51](/lektionen/lektion51), [Lektion 54](/lektionen/lektion54)
-*   Juurinomin päättyminen **-ā, -ī, -ū** -\> [Lektion 61](/lektionen/lektion61)
-*   **Dualin (kaksikko)** substantiiveissa -\> [Lektion 49](/lektionen/lektion49), [Lektion 50](/lektionen/lektion50), [Lektion 53](/lektionen/lektion53)
-*   **Numerot ja vertailu**:
-*   Numeraalit (kardinaali/ordinaali) -\> [Lektion 52](/lektionen/lektion52)
-*   Vertailu (komparatiivi/superlatiivi) -\> [Lektion 53](/lektionen/lektion53)
+*   **Perusasiat**: Kasusteoria -\> [Oppitunti 1](/fi/lektionen/lektion01), [Oppitunti 2](/fi/lektionen/lektion02)
+*   **A-tyyppiset varat** (Maskuliini & Neutrum) -\> [Oppitunti 2](/fi/lektionen/lektion02), [Oppitunti 7](/fi/lektionen/lektion07)
+*   **I- ja U-tyyppiset varat** -\> [Oppitunti 3](/fi/lektionen/lektion03), [Oppitunti 27](/fi/lektionen/lektion27), [Oppitunti 52](/fi/lektionen/lektion52)
+*   **Konsonanttityyppiset varat**:
+*   Varat, jotka päättyvät **-mant / -vant** -\> [Oppitunti 13](/fi/lektionen/lektion13)
+*   Varat, jotka päättyvät **-n** (Rājan, Ātman) -\> [Oppitunti 38](/fi/lektionen/lektion38)
+*   Yksinkertaiset konsonanttityyppiset varat -\> [Oppitunti 51](/fi/lektionen/lektion51), [Oppitunti 54](/fi/lektionen/lektion54)
+*   Juurinominat, jotka päättyvät **-ā, -ī, -ū** -\> [Oppitunti 61](/fi/lektionen/lektion61)
+*   **Dualin (kaksikko)** nominien -\> [Oppitunti 49](/fi/lektionen/lektion49), [Oppitunti 50](/fi/lektionen/lektion50), [Oppitunti 53](/fi/lektionen/lektion53)
+*   **Numerot & vertailu**:
+*   Numeraalit (kardinaali/ordinaali) -\> [Oppitunti 52](/fi/lektionen/lektion52)
+*   Vertailu (komparatiivi/superlatiivi) -\> [Oppitunti 53](/fi/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Pronominit & adverbien
 
 *   **Pronominit**:
-*   Kysymis- ja demonstratiivipronominit -\> [Lektion 4](/lektionen/lektion04)
-*   Relatiivipronomini (yad) -\> [Lektion 19](/lektionen/lektion19)
-*   Persoonapronominit (1. & 2. persoona) -\> [Lektion 46](/lektionen/lektion46), [Lektion 47](/lektionen/lektion47)
-*   Indefiniitipronominit -\> [Lektion 37](/lektionen/lektion37)
-*   **Adverbit ja puhuttelut**:
-*   Adverbien muodostus -\> [Lektion 37](/lektionen/lektion37), [Lektion 52](/lektionen/lektion52)
-*   Kohtelias puhuttelu ja vokatiivi -\> [Lektion 21](/lektionen/lektion21), [Lektion 44](/lektionen/lektion44)
+*   Kysymis- & demonstratiivipronominit -\> [Oppitunti 4](/fi/lektionen/lektion04)
+*   Relatiivipronominit (yad) -\> [Oppitunti 19](/fi/lektionen/lektion19)
+*   Persoonapronominit (1. & 2. persoona) -\> [Oppitunti 46](/fi/lektionen/lektion46), [Oppitunti 47](/fi/lektionen/lektion47)
+*   Indefiniittipronominit -\> [Oppitunti 37](/fi/lektionen/lektion37)
+*   **Adverbien & puhuttelu**:
+*   Adverbit -\> [Oppitunti 37](/fi/lektionen/lektion37), [Oppitunti 52](/fi/lektionen/lektion52)
+*   Kohtelias puhuttelu & vokatiivi -\> [Oppitunti 21](/fi/lektionen/lektion21), [Oppitunti 44](/fi/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Verbet (konjugointi)
 
-*   **Preesensijärjestelmä (indikaativi)**:
-*   Henkilöpäätteet (3., 2., 1. persoona) -\> [Lektion 6](/lektionen/lektion06), [Lektion 44](/lektionen/lektion44), [Lektion 39](/lektionen/lektion39)
-*   Teemaluokat (1, 4, 6, 10) -\> [Lektion 6](/lektionen/lektion06), [Lektion 28](/lektionen/lektion28)
-*   Ateemaluokat -\> [Lektion 17](/lektionen/lektion17), [Lektion 33](/lektionen/lektion33), [Lektion 7](/lektionen/lektion07), [Lektion 31](/lektionen/lektion31), [Lektion 8](/lektionen/lektion08), [Lektion 30](/lektionen/lektion30)
+*   **Preesensjärjestelmä (indikaativi)**:
+*   Henkilöloppu (3., 2., 1. persoona) -\> [Oppitunti 6](/fi/lektionen/lektion06), [Oppitunti 44](/fi/lektionen/lektion44), [Oppitunti 39](/fi/lektionen/lektion39)
+*   Teemaluokat (1, 4, 6, 10) -\> [Oppitunti 6](/fi/lektionen/lektion06), [Oppitunti 28](/fi/lektionen/lektion28)
+*   Ateemaattiset luokat -\> [Oppitunti 17](/fi/lektionen/lektion17), [Oppitunti 33](/fi/lektionen/lektion33), [Oppitunti 7](/fi/lektionen/lektion07), [Oppitunti 31](/fi/lektionen/lektion31), [Oppitunti 8](/fi/lektionen/lektion08), [Oppitunti 30](/fi/lektionen/lektion30)
 *   **Muut aikamuodot & moodit**:
-*   **Imperfekti** (menneisyys) -\> [Lektion 32](/lektionen/lektion32)
-*   **Optatiivi & imperatiivi** -\> [Lektion 30](/lektionen/lektion30), [Lektion 48](/lektionen/lektion48)
-*   **Perfekti** (yksikkö/määräinen monikko) -\> [Lektion 34](/lektionen/lektion34), [Lektion 35](/lektionen/lektion35), [Lektion 36](/lektionen/lektion36)
-*   **Perfekti (duali)** -\> [Lektion 60](/lektionen/lektion60)
-*   **Futurum** (yksinkertainen ja perifraastinen) -\> [Lektion 26](/lektionen/lektion26), [Lektion 61](/lektionen/lektion61)
-*   **Aoristi** (menneisyys) -\> [Lektion 54](/lektionen/lektion54), [Lektion 55](/lektionen/lektion55), [Lektion 56](/lektionen/lektion56), [Lektion 57](/lektionen/lektion57), [Lektion 58](/lektionen/lektion58)
-*   **Johdettu verbumuodot**:
-*   **Passiivi & kausatiivi** -\> [Lektion 10](/lektionen/lektion10), [Lektion 28](/lektionen/lektion28), [Lektion 29](/lektionen/lektion29)
-*   **Intensivum & denominatiivit** -\> [Lektion 61](/lektionen/lektion61)
-*   **Verbit dualissa (kaksikko)** -\> [Lektion 59](/lektionen/lektion59), [Lektion 60](/lektionen/lektion60)
+*   **Imperfekti** (menneisyys) -\> [Oppitunti 32](/fi/lektionen/lektion32)
+*   **Optatiivi & imperatiivi** -\> [Oppitunti 30](/fi/lektionen/lektion30), [Oppitunti 48](/fi/lektionen/lektion48)
+*   **Perfekti** (yksikkö/monikko) -\> [Oppitunti 34](/fi/lektionen/lektion34), [Oppitunti 35](/fi/lektionen/lektion35), [Oppitunti 36](/fi/lektionen/lektion36)
+*   **Perfekti (duali)** -\> [Oppitunti 60](/fi/lektionen/lektion60)
+*   **Futurum** (yksinkertainen & perifraastinen) -\> [Oppitunti 26](/fi/lektionen/lektion26), [Oppitunti 61](/fi/lektionen/lektion61)
+*   **Aoristos** (menneisyys) -\> [Oppitunti 54](/fi/lektionen/lektion54), [Oppitunti 55](/fi/lektionen/lektion55), [Oppitunti 56](/fi/lektionen/lektion56), [Oppitunti 57](/fi/lektionen/lektion57), [Oppitunti 58](/fi/lektionen/lektion58)
+*   **Johdetut verbimuodot**:
+*   **Passiivi & kausatiivi** -\> [Oppitunti 10](/fi/lektionen/lektion10), [Oppitunti 28](/fi/lektionen/lektion28), [Oppitunti 29](/fi/lektionen/lektion29)
+*   **Intensiivi & denominatiivit** -\> [Oppitunti 61](/fi/lektionen/lektion61)
+*   **Verbit dualissa (kaksikko)** -\> [Oppitunti 59](/fi/lektionen/lektion59), [Oppitunti 60](/fi/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Nominaalit ja yhdyssanat
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **Yhdyssanat (Samāsa)**:
+*   **Dvandva** (yhteysyhdyssana) -\> [Oppitunti 5](/fi/lektionen/lektion05), [Oppitunti 9](/fi/lektionen/lektion09)
+*   **Tatpuruṣa** (määriteyhdyssana) -\> [Oppitunti 15](/fi/lektionen/lektion15), [Oppitunti 18](/fi/lektionen/lektion18)
+*   Upapada-yhdyssanat -\> [Oppitunti 51](/fi/lektionen/lektion51)
+*   **Bahuvrīhi** (omistusyhdyssana) -\> [Oppitunti 20](/fi/lektionen/lektion20)
+*   **Jäsenet & partisiipit**:
+*   Tärkeät jäsenet (-a, -ana, -tra jne.) -\> [Oppitunti 8](/fi/lektionen/lektion08), [Oppitunti 9](/fi/lektionen/lektion09)
+*   **PPP** (Partisiippi Perfekti Passiivi) -\> [Oppitunti 12](/fi/lektionen/lektion12), [Oppitunti 13](/fi/lektionen/lektion13)
+*   **PPA** (Partisiippi Perfekti Aktiivi) -\> [Oppitunti 52](/fi/lektionen/lektion52)
+*   **Absolutiivi & infinitiivi** -\> [Oppitunti 22](/fi/lektionen/lektion22), [Oppitunti 23](/fi/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Lausetiede (syntaksi)
 
-*   **Nominaalilause** -\> [Luento 2](/lektionen/lektion02)
-*   **Kysymyslause** -\> [Luento 37](/lektionen/lektion37)
-*   **Käyttötapaukset**:
-*   Nominaalilause & nominatiivi -\> [Luento 2](/lektionen/lektion02)
-*   Akkusatiivi (myös kaksoisakkusatiivi) -\> [Luento 7](/lektionen/lektion07), [Luento 11](/lektionen/lektion11)
-*   Instrumentaali -\> [Luento 10](/lektionen/lektion10)
-*   Genetiivi -\> [Luento 14](/lektionen/lektion14)
-*   Datiivi -\> [Luento 24](/lektionen/lektion24)
-*   Ablatiivi -\> [Luento 25](/lektionen/lektion25)
-*   Lokatiivi -\> [Luento 27](/lektionen/lektion27)
+*   **Nominiaalilause** -\> [Oppitunti 2](/fi/lektionen/lektion02)
+*   **Kysymyslause** -\> [Oppitunti 37](/fi/lektionen/lektion37)
+*   **Käyttötapojen käyttö**:
+*   Nominiaalilause & nominatiivi -\> [Oppitunti 2](/fi/lektionen/lektion02)
+*   Akkusatiivi (myös kaksoisakkusatiivi) -\> [Oppitunti 7](/fi/lektionen/lektion07), [Oppitunti 11](/fi/lektionen/lektion11)
+*   Instrumentaali -\> [Oppitunti 10](/fi/lektionen/lektion10)
+*   Genetiivi -\> [Oppitunti 14](/fi/lektionen/lektion14)
+*   Datiivi -\> [Oppitunti 24](/fi/lektionen/lektion24)
+*   Ablatiivi -\> [Oppitunti 25](/fi/lektionen/lektion25)
+*   Lokatiivi -\> [Oppitunti 27](/fi/lektionen/lektion27)
 *   **Alalauseet**:
-*   Relatiivilauseet -\> [Luento 19](/lektionen/lektion19)
-*   Partisiippien käyttö -\> [Luento 12](/lektionen/lektion12), [Luento 44](/lektionen/lektion44)
+*   Relatiivilauseet -\> [Oppitunti 19](/fi/lektionen/lektion19)
+*   Partisiippien käyttö -\> [Oppitunti 12](/fi/lektionen/lektion12), [Oppitunti 44](/fi/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Metriikka (runomittateoria)
 
-Sanskritfilosofia ja -kirjallisuus on usein koottu säkeistöihin. Metrinen oppi opettaa näiden säkeistön rytmin ja rakenteen.
+Sanskritfilosofia ja -kirjallisuus on usein kirjoitettu säkeistöissä. Metriikka opettaa näiden säkeistön rytmin ja rakenteen.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
+*   **Johdanto & Śloka** -\> [Oppitunti 45](/fi/lektionen/lektion45), [Oppitunti 53](/fi/lektionen/lektion53)
+*   **Edistyneet metrit** (Trīṣṭubh, Jāgatī) -\> [Oppitunti 54](/fi/lektionen/lektion54)
 

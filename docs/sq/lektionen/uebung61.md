@@ -1,11 +1,12 @@
 ---
-title: "Ushqim 61"
+title: "Ushtrimi 61"
 uebung_id: 61
-category: "Ushqim"
+category: "Übung"
+
 ---
 
-# Ushtrim 61
+# Ushtrimi 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+Mësimi 61 shënon përfundimin e kursit të Sanskritishtes dhe nuk përmban ushtrime shtesë shkrimore. 
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+Me studimin e emrave rrënjorë, kohës së ardhshme periphrastike dhe emrave denominativë janë vendosur bazat për leximin e teksteve origjinale në Sanskritishte. Kursi përfundon me thirrjen tradicionale drejtuar Gaṇeśa-s (⟪श्रीगणनाथ⟫), e cila shënon kalimin nga libri mësimor në lexim të pavarur.

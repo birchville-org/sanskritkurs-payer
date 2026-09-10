@@ -1,7 +1,8 @@
 ---
-title: Lektion 35
+title: "Lecziun 35"
 lesson_id: 35
 status: stable
+
 ---
 
 # Lecziun 35
@@ -188,7 +189,7 @@ Exempel:
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Fig.: ⟪क्रामन्ति⟫
 Persunas che van, Senegal.
 (Sursa d’imagine: [Detagls](/rm/licenses#lekt3502))
 :::
@@ -206,9 +207,9 @@ davon:
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/rm/licenses#lekt3501))
+(Font dal maletg: [Details](/rm/licenses#lekt3501))
 :::
 ## 35.5. Esercitaziun
 

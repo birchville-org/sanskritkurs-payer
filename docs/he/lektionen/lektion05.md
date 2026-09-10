@@ -1,10 +1,11 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "שיעור 5"
+subtitle: "יסודות הרכבים שמיים (סמאסה)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 5

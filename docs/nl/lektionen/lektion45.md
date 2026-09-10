@@ -22,7 +22,7 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | ⟪जुहुषे⟫ | ⟪जुहुध्वे⟫ |
 | **Imperfectum** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | ⟪अजुहुथास्⟫ | ⟪अजुहुध्वम्⟫ |
-| **Optatief** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
 :::
 ⟪धा⟫ 2U
 
@@ -32,7 +32,7 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicativ Present** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
 | **Imperfectum** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
-| **Optatief** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
 ### 45.1.2. Zevende presentisklasse (⟪रुधादि⟫)
 
@@ -49,7 +49,7 @@ b.v. ⟪युज्⟫ 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ of ⟪�
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indicativ Present** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
 | **Imperfectum** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
-| **Optatief** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
@@ -92,7 +92,7 @@ bijv. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन
 | mahānt n. | ⟪महत्⟫:br= Nominatief |
 | Mannelijke vormen op -mant/-vant | ⟪गुणवन्⟫ |
 | Mannelijke vormen op -mant/-vant | ⟪गुणवत्⟫:br= Nominatief |
-| Pronomina | er wordt geen vocatief gevormd |
+| voornaamwoorden | er wordt geen vocatief gevormd |
 :::
 ::: media
 ![](/images/lekt4501.webp)
@@ -105,32 +105,32 @@ Afbeelding: ⟪भवति किं करोषि⟫
 
 ## 45.4. Oefening
 
-A) Vertaal naar het Sanskriet (gebruik voor verleden tijden de imperfectum ⟨⟪लङ्⟫⟩):
+A) Vertaal naar het Sanskriet (gebruik voor verleden tijden de imperfectum ⟪लङ्⟫):
 
-1. Gij breekt de (boeddhistische) gemeenschap uiteen.
+1\. Gij breekt de (boeddhistische) gemeenschap.
 
 ::: indent
-voor de gemeenschapsverbreking (⟪सङ्घभेद⟫) zie:
+voor de breuk in de gemeenschap (⟪सङ्घभेद⟫) zie:
 
-**Payer, Alois (1944–):** Vinayamukha : Grondbegrippen van de monniksregels en het kloosterrecht van het Theravāda. -- Deel I. -- (Materialen over de grondbegrippen van het boeddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Grondbegrippen van de monastieke regels en het monastieke recht van het Theravāda. -- Deel I. -- (Materialen over de grondbegrippen van het boeddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2. Hebt gij de aarde genoten?
+2\. Hebt gij de aarde genoten?
 
-3. Heb jij van de koning een geschenk ontvangen?
+3\. Heb jij van de koning een geschenk ontvangen?
 
-4. Heilige man, waarom vreest gij niet voor gevaren?
+4\. Heilige man, waarom vrees jij geen gevaren?
 
-5. Vader, waar laat je het gezin achter?
+5\. Vader, waar laat je het gezin achter?
 
-6. Śūdravrouw, heb jij het gewicht naar het huis van de rijke brahmaan gedragen?
+6\. Śūdravrouw, heb jij het gewicht naar het huis van de rijke brahmaan gedragen?
 
-7. Godin, gij hadt de wens naar geluk van de Vaiśya, die verdienstelijk heeft gehandeld, moeten vervullen.
+7\. Godin, gij hadt de wens naar geluk van de Vaiśya, die verdienste heeft verricht, moeten vervullen.
 
-8. Olifanten, gij hadt de banden niet mogen breken.
+8\. Olifanten, gij hadt de banden niet moeten breken.
 
-9. Gij leeuwenlijke man, waarom richt gij uw volledige aandacht niet op het Absolute (Brahman)?
+9\. Gij leeuwengelijke man, waarom richt gij al uw aandacht niet op het Absolute (Brahman)?
 
-10. Heb jij, dichter, de werelden gemeten?
+10\. Heb jij, dichter, de werelden gemeten?
 
 B) Vertaal:
 

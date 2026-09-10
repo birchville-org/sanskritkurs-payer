@@ -98,7 +98,7 @@ Voorbeeld:
 Voorbeeld:
 
 ::: indent
-⟪⟨DEVA_6⟫⟫ = "As hy die dorp sou verlaat, sou hy nie die meester hoor nie"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात्⟫ = "As hy die dorp sou verlaat, sou hy nie die meester hoor nie"
 :::
 ::: grammar-box
 **3. Relatiewe klousules met die optatief beteken soms: "As iemand …"**

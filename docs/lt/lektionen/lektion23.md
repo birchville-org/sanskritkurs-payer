@@ -1,318 +1,250 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Pamoka 23"
+subtitle: "Infinitivas (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. Infinitivas (⟪तुमुन्⟫)
 
 ::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
+**Jei sanskrit kalboje norima išreikšti, kad veiksmas vyksta dėl kito veiksmo („kad būtų galima“), galima naudoti infinityvą (⟪तुमुन्⟩) veiksmui, dėl kurio jis vyksta. Infinitivas pirmiausia nurodo paskirtį ar tikslą:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुं गतः⟩ = „Rāma nuėjo, kad išklausytų mokytojo kalbą.“
 
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:**
+**Atkreipkite dėmesį, kad infinityvas – su keliais aiškiai apibrėžtais išimtimis – negali būti veiksmažodžio subjekto ar objekto:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+> „Jis mokosi šokti“ negalima versti infinityvu („šokti“), bet reikia vartoti veiksmininką, pvz.: ⟪नर्तनमधीते⟩ (⟪इ⟩ + ⟪अधि⟩ 2 Ā: „mokytis“).
 
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:**
+**Infinitivas taip pat vartojamas su veiksmažodžiais ir daiktavardžiais reikšmėmis „norėti“ ar „trokšti“, kai infinityvo ir veiksmažodžio veikėjas (⟪कर्तृ⟩) yra tapatus:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟩ = „Rāma nori išklausyti mokytojo kalbą.“
 
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":**
+**Infinitivas taip pat vartojamas su veiksmažodžiais reikšmėmis „gebėti“, „yra“, „žinoti“, „pradėti“:**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = „Šventasis negali padaryti neteisybės.“  
+> ⟪अस्ति भोक्तुमन्नम्⟩ = „Yra maisto, kurį galima valgyti“ (⟪भुज्⟩ 7: Ā: valgyti, P: valdyti)
 
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":**
+**Infinitivas taip pat vartojamas su žodžiais reikšmėmis „pakankamai“, „gebantis“ ir daiktavardžiais reikšmėmis „sugebėjimas“, „galia“, „įgūdžiai“:**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
+> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟩ = „Ugnis turi galią sudeginti viską.“
 
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
+**Taip pat su žodžiais, turinčiais reikšmę „laikas“, infinitas gali būti vartojamas išraiškose, tokiuose kaip „Laikas ...“:**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
+> ⟪कालो भोजनं सेवितुम्⟫ = „Laikas skirti dėmesį valgymui“ = „Laikas valgyti“
 
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
+**Infinitas gali būti vartojamas aktyviai ir pasyviai. Vokiečių kalbos pasyvus infinitas sanskrite perteikiamas taip, kad veiksmažodis (ypač dažnai ⟪शक्⟫ „būti gebančiam, mokėti“), nuo kurio priklauso infinitas, yra dedamas į pasyvąją gretą.**
 
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.**
+**Dėl objekto infinitas elgiasi kaip veiksmažodinė forma, t.y. tiesioginis objektas (⟪कर्मन्⟫) vartojamas su aktyviai vartotu infinitu kilmininko linksnyje (⟪द्वितीया⟩), arba tose linksnyje, kurią reikalauja atitinkamas veiksmažodis; su pasyviai vartotu infinitu tiesioginis objektas yra nominatyve.**
 
-z.B.
+pvz.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = „Šventasis negali padaryti neteisybės.“
 
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".**
+**Antruoju asmeniu ⟪अर्ह्⟫ + infinitas dažnai vartojamas kaip švelnus įsakymas: „Turėtum.“**
 
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
+**Kai infinitas priklauso nuo daiktavardžio, jis negali būti sujungtas su juo į kompozitą. Išimtis yra Bahuvrīhi, kurių antrasis narys yra ⟪काम⟫ arba ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = „tas, kurio noras yra kalbėti; tas, kuris nori kalbėti“.
 :::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+## 23.2. Infinito (⟪तुमुन्⟫) formavimas
 
 ::: grammar-box
-**hochstufige Wurzel + -tum**
+**aukštojo laipsnio šaknis + -tum**
 
-**oder**
+**arba**
 
-**hochstufige Wurzel + -i- + -tum**
+**aukštojo laipsnio šaknis + -i- + -tum**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
+**Galūnės šaknies priebalsiai prieš -tum keičiasi pagal tas pačias taisykles kaip ir prieš -ta PPP.**
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
+**Veikiai su priešdėliais infinityvą sudaro tuo pačiu būdu kaip ir paprastosios šaknys.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫
-:::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
+**Veikiai su priešdėliais infinityvą sudaro tuo pačiu būdu kaip ir paprastosios šaknys.**
+:::
+Pavyzdžiai:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+Apie jungiamąjį balsį -i- negalima nustatyti griežtų taisyklių. Iš esmės jungiamojo balso pasiskirstymas infinityve sutampa su būsimuoju laiku.
+
+Tarp iki šiol išmoktų šaknų ypač reikėtų atkreipti dėmesį į šiuos infinityvus:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+--ra- kaip laipsnį prie -ṛ- bendratyje turi:
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
+::: indent
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
+:::
+Kitos šaknys, kurių priešpaskutinėje vietoje yra -ṛ-, turi fakultatyviai -ra- arba -ar-, jei jos yra aniṭ.
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.3. Infinityvas (⟪तुमुन्⟫) iki šiol išmoktoms šaknims
 
-⟪समान⟫ ⟪३⟫: gleich
+⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P —  
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U —  
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+## 23.4. Žodžių sąrašas
 
-## 23.5. Übung
+⟪समान ३⟫: lygus, vienodas
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+⟪सामान्य⟫ n.: lygybė, sutapimas
 
-1.  ⟪आप्⟫
-2.  ⟪इ⟫
-3.  ⟪गम्⟫
-4.  ⟪कृ⟫
-5.  ⟪क्रुध्⟫
-6.  ⟪जि⟫
-7.  duh (⟪दुह्⟫)
-8.  ⟪दिश्⟫
-9.  ⟪दह्⟫
-10.  ⟪सृज्⟫
-11.  ⟪द्विष्⟫
-12.  ⟪नी⟫
-13.  ⟪पद्⟫
-14.  ⟪पा⟫ ⟪१⟫
-15.  ⟪पा⟫ ⟪२⟫
-16.  ⟪भज्⟫
-17.  ⟪कृष्⟫
-18.  ⟪सु⟫
-19.  ⟪मन्⟫
-20.  ⟪मुच्⟫
-21.  ⟪मृ⟫
-22.  ⟪यज्⟫
-23.  ⟪युध्⟫
-24.  ⟪वच्⟫
-25.  ⟪विश्⟫
-26.  ⟪श्रु⟫
-27.  ⟪प्रच्छ्⟫
-28.  ⟪सिच्⟫
-29.  ⟪स्तु⟫
-30.  ⟪स्था⟫
-31.  ⟪स्मृ⟫
-32.  ⟪हन्⟫
-33.  ⟪लभ्⟫
-34.  ⟪अद्⟫
-35.  ⟪दृश्⟫
-36.  ⟪पच्⟫
-37.  ⟪सद्⟫
+⟪अधिक ३⟫ : perteklinis, papildomas, didesnis, geresnis, neįprastas
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
+⟪विशेष⟫ m.: ypatumas, specifikacija, differentia specifica
 
-1.  ⟪आस्⟫
-2.  ⟪नृत्⟫
-3.  ⟪रक्ष्⟫
-4.  ⟪रुद्⟫
-5.  ⟪वद्⟫
-6.  ⟪वृत्⟫
-7.  ⟪कुप्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+## 23.5. Pratimai
 
-1.  ⟪अश्⟫
-2.  ⟪इष्⟫
-3.  ⟪बुध्⟫
-4.  ⟪मुह्⟫ (3 Formen!)
-5.  ⟪सह्⟫
+A) Šios šaknys sudaro infinityvą be jungiamosios balsės -i-. Sudarykite infinityvus, atsižvelgdami į garsinius pokyčius:
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+1. ⟪आप्⟫
+2. ⟪इ⟫
+3. ⟪गम्⟫
+4. ⟪कृ⟫
+5. ⟪क्रुध्⟫
+6. ⟪जि⟫
+7. duh (⟪दुह्⟫)
+8. ⟪दिश्⟫
+9. ⟪दह्⟫
+10. ⟪सृज्⟫
+11. ⟪द्विष्⟫
+12. ⟪नी⟫
+13. ⟪पद्⟫
+14. ⟪पा १⟫
+15. ⟪पा २⟫
+16. ⟪भज्⟫
+17. ⟪कृष्⟫
+18. ⟪सु⟫
+19. ⟪मन्⟫
+20. ⟪मुच्⟫
+21. ⟪मृ⟫
+22. ⟪यज्⟫
+23. ⟪युध्⟫
+24. ⟪वच्⟫
+25. ⟪विश्⟫
+26. ⟪श्रु⟫
+27. ⟪प्रच्छ्⟫
+28. ⟪सिच्⟫
+29. ⟪स्तु⟫
+30. ⟪स्था⟫
+31. ⟪स्मृ⟫
+32. ⟪हन्⟫
+33. ⟪लभ्⟫
+34. ⟪अद्⟫
+35. ⟪दृश्⟫
+36. ⟪पच्⟫
+37. ⟪सद्⟫
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
+B) Šios šaknys sudaro infinityvą su jungiamąja balsė -i-. Sudarykite infinityvus:
 
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
+1. ⟪आस्⟫
+2. ⟪नृत्⟫
+3. ⟪रक्ष्⟫
+4. ⟪रुद्⟫
+5. ⟪वद्⟫
+6. ⟪वृत्⟫
+7. ⟪कुप्⟫
 
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
+C) Šios šaknys galimai su arba be jungiamosios balsės:
+
+1. ⟪अश्⟫
+2. ⟪इष्⟫
+3. ⟪बुध्⟫
+4. ⟪मुह्⟫ (3 formos!)
+5. ⟪सह्⟫
+
+D) Išverkite ir išskirkite sandaugas:
+
+⟪नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥ महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥ फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303))
+Pav.: ⟪फलवन्ति पुण्यानीति⟫
+ทำบุญ = ⟪पुण्यकरणम्⟫, Tailandas = ประเทศไทย
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2303))
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301))
+Pav.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Chiang Mai, Tailanda = เชียงใหม่, ประเทศไทย
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
+C) Išverkite šį ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
-
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
-
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+Paaiškinimas: ⟪हीन ३⟫: PPP prie ⟪हा⟫ 3: palikti ; ⟪धर्मे⟫ = lokalinis linksnis, vienaskaita „... viduje“
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
-Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302))
+Pav.: ⟪आहारनिद्राभयमैथुनं च⟫
+Chittorgarhas = ⟪चित्तौडगढ⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung
+## 23.6. Kartojimo pratimas
 
-Bitte keine Hilfsmittel benutzen!
+Prašome nenaudoti pagalbinės literatūros!
 
-A) Übersetzen Sie ins Sanskrit:
+A) Išverkite į sanskritą:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
+1. Penki (⟪पञ्च⟫) „kančios“ yra: nežinios, klaidingas tikėjimas ašimi, palankumas, nepalankumas ir priklausomybė nuo kūno.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
+2. Žinios įgyjamos klausant mokytojo, už didelius pinigus arba mainais į žinias. Ketvirtas žinių įgijimo būdas neegzistuoja.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur.
+3. Žemas žmogus kalba, bet neveikia; geras žmogus nekalba, o tik veikia.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
+4. Vedos pagalbinės mokslinės disciplinos yra: tarimo teorija, ritualistika, gramatika, reikšmių teorija, metrika (⟪छन्दस्⟫) ir kalendoriaus teorija.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
+5. Joga yra mąstymo organo veiklos sustabdymas.
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv)
+6\. Teisingumas nugalí, ne neteisybė; tiesa nugalí, ne melas; kantrybė nugalí, ne pyktis; Dievas nugalí, o ne priešingas dievas. (Pasyvinė forma)
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
+7\. "Lazda" sukelia filosofijos, Vėdų ir ekonomikos įgijimą bei saugią nuosavybę. Šios lazdos valdymas yra politika.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304))
+Pav.: ⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Indijos premjer-ministras = ⟪भारत के प्रधानमन्त्री⟫, nuo 2004 m.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\. Žmona, sūnus ir vergas – šie trys (⟪त्रयस्⟫) pagal tradiciją neturi nuosavybės. Kas jiems priklauso, tas priklaiso tam, kam jie (trims) priklauso.
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
+9\. Uodai trokšta žaizdos, valdovai trokšta turto, žemiškieji trokšta ginčų, geri žmonės trokšta taikos.
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
+10\. Specifinė brahmano pareiga yra: studijos, mokymas, aukojimas kaip aukotojas, aukojimas pagal užsakymą, davimas ir priėmimas; kšatrijos pareiga yra: studijos, aukojimas kaip aukotojas, davimas, pragyvenimas ginklais, gyvų būtybių saugojimas; vaišjos pareiga yra: studijos, aukojimas kaip aukotojas, davimas, žemdirbystė, gyvulininkystė ir prekyba; šūdrų pareiga yra: paklusnumas dvigimiams, ūkinė veikla, amatininkų ir šoumenų (⟪कर्म⟫) veikla.
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
+11\. Sąmonės išaiškinimas įvyksta dėl meditacinio draugiško palankumo, gailestingumo, džiaugsmo dėl kitų sėkmės ir lygybės plėtros, kurios objektai yra laimė ir kančia, geras ir blogas.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
+12\. Vargšai turi daug sūnų, nors jų nenori. Turtingieji neturi sūnaus. Stebina likimo judesys.
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
+13. Ką nužudo moters kūnas (⟪वपुस्⟫ f.) su lieknais šonais, plačiomis klubais, raudonomis lūpomis, juodomis akimis, išlinkusiu bambuku, tiesiais krūtine.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f.
+B) Linksniuokite visais jums žinomais linksniais ⟪क्षत्रिया⟫ f.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+C) Pateikite šaknines formas (reikšmė, prezentinė klasė, modus, 3 asm. sing. prezento indikatyvas, 3 asm. sing. pasyvus, PPP, absoliutyvai, infinityvas) šiems veiksmažodžiams:
 
-⟪१⟫. ⟪सह्⟫
+⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2 kartus)
 
-⟪२⟫. ⟪पा⟫ (2x)
-
-⟪३⟫. ⟪वच्⟫
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫
+⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 

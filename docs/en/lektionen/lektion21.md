@@ -47,11 +47,11 @@ Examples:
 
 | | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
->> | **Singular** :br⟪एकवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| **Singular** :br⟪एकवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
 | | **2. Accusative** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | like **devī** :br⟪देवी⟫ |
 | | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
 | | **6. Genitive** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
->> | **Plural** :br⟪बहुवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| **Plural** :br⟪बहुवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
 | | **2. Accusative** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
 | | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
 | | **6. Genitive** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
@@ -97,11 +97,11 @@ Note the identical form of ⟪यजन्ति⟫ (Nom. pl. Neuter) with the 3
 
 | | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
->> | **Singular**:br⟪एकवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | ⟪सन्⟫ :brfrom s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
+| **Singular**:br⟪एकवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | ⟪सन्⟫ :brfrom s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
 | | **2. Accusative**:br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | like **devī**:br⟪देवी⟫ |
 | | **3. Instrumental**:br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
 | | **6. Genitive**:br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
->> | **Plural**:br⟪बहुवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
+| **Plural**:br⟪बहुवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
 | | **2. Accusative**:br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
 | | **3. Instrumental**:br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :brfrom s-at-bhis | ⟪सद्भिस्⟫ | |
 | | **6. Genitive**:br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
@@ -151,11 +151,11 @@ Fig.: ⟪सती⟫ memorial plaque
 
 | | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
->> | **Singular** :br⟪एकवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪महान्⟫ :brfrom mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
+| **Singular** :br⟪एकवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪महान्⟫ :brfrom mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
 | | **2. Accusative** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | like **devī** :br⟪देवी⟫ |
 | | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
 | | **6. Genitive** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
->> | **Plural** :br⟪बहुवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
+| **Plural** :br⟪बहुवचन⟫ | **1. Nominative** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
 | | **2. Accusative** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
 | | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :brfrom mahat-bhis | ⟪महद्भिस्⟫ | |
 | | **6. Genitive** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
@@ -195,7 +195,7 @@ Fig.: ⟪महादेवो विष्णुः⟫
 ## 21.3. Polite forms of address
 
 ::: grammar-box
->> **In Sanskrit, one can address someone in the 2nd person singular without being impolite. However, if one wishes to be polite, one can use a noun whose meaning is "Venerable" and similar terms, and put the verb in the 3rd person singular or plural, or use a passive construction. The escalation of politeness in the use of persons when addressing someone is roughly as follows:**
+**In Sanskrit, one can address someone in the 2nd person singular without being impolite. However, if one wishes to be polite, one can use a noun whose meaning is "Venerable" and similar terms, and put the verb in the 3rd person singular or plural, or use a passive construction. The escalation of politeness in the use of persons when addressing someone is roughly as follows:**
 
 :::
 ::: indent

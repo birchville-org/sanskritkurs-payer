@@ -1,6 +1,7 @@
 ---
-title: Lektion 18
+title: "[Pamoka 18]"
 lesson_id: 18
+
 ---
 
 # Pamoka 18
@@ -8,321 +9,296 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Determinatyviniai compoundai (⟪तत्पुरुष⟫) su prieveiksmine pirmąja dalimi
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können
+Kaip adverbialinė (neindeklinuojama) pirmoji dalis gali būti
 
-*   Adverbien
-*   Präpositionen
-*   Partikel
-*   andere Indeklinabilia
+*   prieveiksmiai
+*   prielinksniai
+*   dalelytės
+*   kiti indeklinabilia
 
 ::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+naudojamos. Toks Tatpuruṣa dažniausiai priklauso Nityasamāsa klasei = ⟪नित्यसमास⟫ (m. "nuolatinis compoundas"), t.y. compoundams, kurių negalima išskirti arba galima tik iš dalies naudojant žodžius, esančius pačiame compounde.
 :::
-Beispiele:
+Pavyzdžiai:
 
-⟪अति⟫ "darüber hinaus":
+⟪अति⟫ "virš to":
 
 ::: indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+⟪अतिगुरु⟫ 3: itin sunkus, itin svarbus
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+⟪अतिपुरुष⟫ m.: išskirtinis žmogus, superžmogus, herojus
 
-⟪अतिस्तुति⟫ f.: übermässiges Lob
+⟪अतिस्तुति⟫ f.: per didelis pagyras
 
-⟪अत्युक्ति⟫ f.: übermässiges Sprechen, Übertreibung
+⟪अत्युक्ति⟫ f.: per daug kalbėjimas, perdėta išraiška
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+Svarbiausios adverbialinės pirmosios dalys yra a-/an-, su-, dus-.
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
+⟪अ⟫ (prie priebalsio), ⟪अन्⟫ (prie balsės): ne-: compounde vartojama vietoj ⟪न⟫ "ne".
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): melas, klaidinga informacija
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: nedarytas, neįvykdytas
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : nebrahmanė, nebrahmaniška moteris
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ : negodas, ne dievas
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "gerai, gerai"; išskiriant compoundą komentatoriai jį pakeičia būdvardžiu su reikšme "geras" (pvz., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪सुकवि⟫ m.: ein guter Dichter
+⟪सुकवि⟫ m.: geras poetas
 
-⟪सुकृत⟫ n.: gute Tat
+⟪सुकृत⟫ n.: geras darbas
 
-⟪सुखादित⟫ 3: gut gekaut
+⟪सुखादित⟫ 3: gerai kramtytas
 
-⟪सुदुःख⟫ n.: grosses Leid
+⟪सुदुःख⟫ n.: didelis skausmas
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
+⟪दुस्⟫ „blogas, prastas“ (atsižvelgti į sandhį!).
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
+⟪दुर्नय⟫ m.: blogas elgesys, prasta taktika
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+⟪दुष्करण⟫ n.: blogas darbas, sunkus darbas
 :::
-Dabei gilt folgendes Gesetz:
+Taikomas šis dėsnis:
 
 ::: grammar-box
 
-Lautveränderung von -s in Komposita
+Garsų pokyčiai junginiuose, kai -s virsta
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+Skirtingai nei sakytinėje sandhoje, junginių pirmosios dalies pabaigoje galioja:
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-s po -i- arba -u- prieš bebalį guturalą ar labialą » -ṣ
 
-Deshalb: ⟪दुष्करण⟫
+Todėl: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Junginių tipas ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+Junginiai tipo ⟪सुकर⟫ / ⟪दुष्कर⟫ dažniausiai reiškia galimybę būti padarytam:
 
-Beispiele:
+Pavyzdžiai:
 
 :::
 ::: indent
-⟪सुकर⟫ 3: leicht zu tun
+⟪सुकर⟫ 3: lengva padaryti
 
-⟪सुगम⟫ 3: leicht zu gehen
+⟪सुगम⟫ 3: lengva eiti
 
-⟪दुर्गम⟫ 3: schwer zu gehen
+⟪दुर्गम⟫ 3: sunku eiti
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+⟪सुदुर्गम⟫ 3: labai sunku eiti
 :::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. nañ-Tatpuruṣa (a- / an-) reikšmės
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+Tatpuruṣa su a- / an- gali turėti šias reikšmes:
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):
-::: indent
-⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-:::
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):
-::: indent
-⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
-:::
-3.  Andersheit (⟪तदन्यत्वम्⟫):
-::: indent
-⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
-:::
-4.  Kleinheit (⟪तदल्पता⟫):
-::: indent
-⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
-:::
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):
-::: indent
-⟪अकालः⟫ = Unzeit
-:::
-6.  Feindschaft (⟪निरोधः⟫):
-::: indent
-⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
-:::
+1. Panašumas (⟪तत्सादृश्यम्⟫):
+⟪अब्राह्मणः⟫ = kṣatrija arba vaiśya, nešiojantis šventą giją (⟪यज्ञोपवीत⟫ n.), todėl panašus į brahmaną, nors nėra juo
+2. Nebuvimas (⟪तदभावः⟫):
+⟪अज्ञानम्⟫ = nežinojimas (žinių nebuvimas)
+3. Skirtumas (⟪तदन्यत्वम्⟫):
+⟪अपटम्⟫ = tai, kas nėra audinys / drabužis (⟪पट⟫ m: audinys, drabužis)
+4. Mažumas (⟪तदल्पता⟫):
+⟪अनुदरम्⟫ = mažas pilvas (ne-pilvas)
+5. Nepagrįstas vertinimas (⟪अप्राशास्त्यम्⟫):
+⟪अकालः⟫ = netinkamas laikas
+6. Priešprieša (⟪निरोधः⟫):
+⟪असुरः⟫ = priešingas dievas (pagal klaidingą etimologiją a-sura)
 
-Folgender Vers fasst diese Bedeutungen zusammen:
+Šis eilutė apibendrina šias reikšmes:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+Sakoma, kad nañ (= a-/an-) turi šešias reikšmes ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. Veiksmažodžių junginiai
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ 2 psl. eilutė 14-15
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süsse des Gangeswassers durch Meerwasser.
+Priešdėlis prievarta pakeičia šaknies reikšmę, kaip Gango vandens saldumą keičia jūros vanduo.
 
 ::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+Sanskrito kalboje veiksmažodžiai gali būti jungiami su priešdėliais (⟪उपसर्ग⟫ m.). Dažniausiai taikomas sandhis. Priešdėliai gali reikšmingai modifikuoti šaknies reikšmę, todėl daugeliu atvejų priešdėlio su šaknimi reikšmę reikia mokytis atskirai. Veiksmažodžiai su priešdėliu gali turėti kitokią formą (P, Ā) nei paprasta šaknis. Prieš vieną šaknį gali būti dedama kelios priešdėliai vienu metu.
 
 :::
-Einige wichtige Präverbe sind:
+Kai kurie svarbūs priešdėliai yra:
 
-⟪उप⟫ "zu, hin, gegen"
+⟪उप⟫ "prie, link, prieš"
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : eiti link, imtis
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : nurodyti, mokyti, patarti
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : pasiekti
 
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: apdovanotas (instrumentalis)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : suvokti, pasiekti
 :::
-⟪प्र⟫ "vorwärts, hervor"
+⟪प्र⟫ "į priekį, išsiskirti"
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : pasiekti
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : parodyti
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : pabusti, atpažinti
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : iškilti, išsiskirti, valdyti (gen., lok. dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : paaiškinti, pranešti, ištarti
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : ištarti, pavadinti kaip, paaiškinti
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : girti pirm, garsiai girti, užsiminti apie ką nors, pradėti
 :::
-⟪वि⟫ "auseinander, weg, zer-, ver-"
+⟪वि⟫ "atskirai, toli, iš-, su-"
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : išsisklaidyti, praeiti, dingti
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : nugalėti
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : atskirti, išvaduoti
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫ : ginčytis, aiškinti, pasakoti
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : pamiršti
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : sutraiškyti, sunaikinti, išnaikinti
 :::
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "kartu, su"
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : sėdėti kartu, būti, gyventi
 
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫ : susitikti, susijungti
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : susitikti, sutapti (draugiškai ar priešiškai), turėti lytinių santykių su (K.)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : atsirasti
 
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3: gimęs, atsiradęs, tapęs
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : visiškai pabusti (tiesai)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : atitekti kam nors, pavykti
 
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3: aprūpintas (I.)
 :::
 ::: grammar-box
 
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
+Šaknis ⟪कृ⟫ "daryti" sujungta su priešdėliais ⟪सम् । उप । अप । परि⟫ taip pat rodo formą ⟪स्कृ⟫
 
 :::
-Beispiel:
+Pavyzdys:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
+sam-kṛ 8 ⟪संस्करोति⟫ : paruošti, pasirengti aukojimui, pašventinti
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+*   PPP ⟪संस्कृत⟫ 3: pasirengęs aukojimui ; ⟪संस्कृत⟫ n.: sanskritas: kalba tinkama aukojimui ; atitikmuo ⟪प्राकृत⟫ 3: įprastas, paprastas ; ⟪प्राकृत⟫ n.: įprasta kalba, prakritas (terminas liaudies ir bendravimo kalboms, susijusioms su sanskritu)
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Nominalinės formos, sudarytos iš veiksmažodinių jungtinių žodžių
 
 ::: grammar-box
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+Iš šaknų su priešdėliais galima sudaryti daiktavardžius naudojant kṛt priesagas.
 
 :::
-Beispiele:
+Pavyzdžiai:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: pašventimas, paruošimas ; perėjimo ritualai = terminas ceremonijoms, lydinčioms skirtingus gyvenimo etapus nuo apvaisinimo iki mirties (žr. puikią santrauką Basham, Wonder psl. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804))
+Pav.: ⟪विवाहः⟫
+Vestuvės = ⟪विवाह⟫ m., svarbus ⟪संस्कारः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: atvedimas (prie aukojimosi ugnies) = ceremonija, kurios metu vyriškiems trijų viršutinių luomų atstovams užmaunama šventa gija (⟪यज्ञोपवीत⟫ n.) ir į ausį šnabždoma šventa eilutė ⟪सावित्री⟫, kurią jie nuo šiol kasdien kartos saulėtekio ir saulėlydžio metu. Brahmanams tai yra Ṛgveda III.62.10:
 
 ::: indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+„Tegul mes priimame puikų dievo 'Variklio' žavesį, tegul jis paskatina mūsų mintis judėti.“
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Dėl Upanayana įvyksta antrasis gimimas, todėl: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801))
+Pav.: ⟪उपनयनम्⟫
+„Vaizduojamas jaunas berniupas Upanayana ritualo metu. Geltona, plona gija, einanti nuo kairiojo peties iki juosmens, yra Yagnopaivta. Taip pat atkreipkite dėmesį į munja žolės diržą aplink juosmenį. Šakelė dešinėje rankoje (dažniausiai iš peepa medžio) simbolizuoja jo įėjimą į Brahmacharya būseną.“
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1801))
 :::
-## 18.4. Wortliste
+## 18.4. Žodynas
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
+⟪सुष्टु⟫ 3: garsiai šlovinamas, išskirtinis, geras
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
+⟪शोभन⟫ 3: blizgus, puikus, didingas, gražus, geras
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪सम⟫ 3: lygus, vienodas, panašus (su įnagininku)
 
-⟪व्याधि⟫ m.: Krankheit
+⟪व्याधि⟫ m.: liga
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , sukčiavimas
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: žinojimas
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪शूर⟫ 3: drąsus, herojiškas ; m.: didvyris
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.: garsas, tonas, signalinis garsas: žodis
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.: vanduo
 
-⟪उदक⟫ n.: Wasser
+⟪अन्त⟫ m.: pabaiga, riba
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪आदि⟫ m.: pradžia
 
-⟪आदि⟫ m.: Anfang
+⟪दण्ड⟫ m.: lazda, plaktukas, bausmė
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: matas, ribojimas
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪सहित⟫ 3: sujungtas, aprūpintas
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪हस्त⟫ m.: ranka
 
-⟪हस्त⟫ m.: Hand
+⟪प्रभृति⟫ f.: pradžia
 
-⟪प्रभृति⟫ f.: Anfang
+## 18.5. Pratimai
 
-## 18.5. Übung
+A) Išverkite ⟪सुभाषित⟫ pamokos pradžioje.
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+B) Išverkite šiuos Tatpuruṣa:
 
-B) Übersetzen Sie folgende Tatpuruṣa:
-
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -382,11 +358,11 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Kartojimo pratimas
 
-Bitte keine Hilfsmittel benutzen!
+Prašome nenaudoti pagalbos priemonių!
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Išskirkite šiuos Sanskrito junginius ir pateikite vertimo pasiūlymus:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -408,33 +384,32 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Bildquelle: [Details](/licenses#lekt1802))
+Pav.: ⟪मृतिसाधनी काली⟫
+1770 Spausdintas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1802))
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Išverkite naudodami 2-osios dabarties klasės veiksmažodžius:
 
-1\. Der Brahmane preist die Göttinnen.
+1\. Brahmanas giria deives.
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
+2\. Kariai eina sunkiai praeinamu keliu į arijų kaimą.
 
-3\. Die Hausmagd melkt die Kühe.
+3\. Namų tarnaitė melžia karves.
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
+4\. Arijų priešai muša galingus kšatrijus.
 
-5\. Ein Gespenst isst keine Früchte.
+5\. Vaiduoklis nevalgo vaisių.
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
+6). Taip kalba tas, kuris [gerai praėjo per gimimų kelią], mokinio link.
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803))
+Pav.: ⟪सुगतः गन्धार⟫ I/II a. po Kr.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1803))
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Pateikite sanskrito kalba jogos apibrėžimą dviem būdais: vieną kartą naudodami sudurtinį žodį, kitą kartą išskaidydami šį sudurtinį žodį.
 
-D) Übersetzen Sie:
+D) Išverkite:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 

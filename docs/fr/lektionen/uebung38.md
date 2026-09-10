@@ -45,7 +45,7 @@ Jouir du monde est le devoir des rois.
 On doit donner de forts éléphants au roi.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā a créé les mondes.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 On fait soi-même le mal, on s'abstient soi-même du mal.

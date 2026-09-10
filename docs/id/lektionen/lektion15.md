@@ -21,15 +21,15 @@ status: stable
 
 Hubungan antara yang ditunjuk oleh nomina (kata benda dan kata sifat) dapat dinyatakan tidak hanya melalui konstruksi genitif, tetapi juga dengan Tatpuruṣa (⟪तत्पुरुष⟫). Demikian pula, penataan atributif kata sifat atau penataan aposisional kata benda dapat dinyatakan melalui jenis Tatpuruṣa tertentu, yaitu yang disebut Karmadhāraya (m.) = ⟪कर्मधारय⟫.
 
->> ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫ "pelayannya", yaitu sebagai penunjuk jenis komposita ini digunakan contoh dari komposita tersebut.
+⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫ "pelayannya", yaitu sebagai penunjuk jenis komposita ini digunakan contoh dari komposita tersebut.
 ::: grammar-box
 
->> Dalam komposita determinatif (Tatpuruṣa), sebuah nomina (kata benda atau kata sifat) ditentukan lebih lanjut oleh nomina lain atau adverbia. Kata yang ditentukan lebih lanjut biasanya membentuk komponen belakang dari komposita tersebut.
+Dalam komposita determinatif (Tatpuruṣa), sebuah nomina (kata benda atau kata sifat) ditentukan lebih lanjut oleh nomina lain atau adverbia. Kata yang ditentukan lebih lanjut biasanya membentuk komponen belakang dari komposita tersebut.
 
 Hubungan antara komponen depan (komponen penentu) dengan komponen belakang (komponen yang ditentukan) dapat berupa:
 
->> * atributif atau aposisional: ketika komposita diuraikan, komponen depan membentuk penentuan lebih lanjut terhadap komponen belakang dalam kasus yang sama (yaitu di luar konteks kalimat dalam Nominatif (⟪प्रथमा⟫), dan dalam kalimat sesuai kasus yang disyaratkan secara sintaksis)
->> * kasual: komponen depan berada dalam kasus yang berbeda dari komponen belakang ketika komposita diuraikan (yaitu bukan Nominatif - ⟪प्रथमा⟫)
+* atributif atau aposisional: ketika komposita diuraikan, komponen depan membentuk penentuan lebih lanjut terhadap komponen belakang dalam kasus yang sama (yaitu di luar konteks kalimat dalam Nominatif (⟪प्रथमा⟫), dan dalam kalimat sesuai kasus yang disyaratkan secara sintaksis)
+* kasual: komponen depan berada dalam kasus yang berbeda dari komponen belakang ketika komposita diuraikan (yaitu bukan Nominatif - ⟪प्रथमा⟫)
 *   adverbial: komponen depan adalah kata yang tidak dapat dideklinasikan
 
 Hubungan kasus kedua anggota suatu kompositum tidak bergantung pada kasus di mana kompositum tersebut berada: kompositum adalah satu kata yang dapat dideklinasikan:
@@ -125,17 +125,17 @@ Komponen pertama mewakili Akusatif (⟪द्वितीया⟫): misalnya pa
 ⟪ग्रामगतः⟫ = ⟪ग्रामं गतः⟫ = "seseorang yang telah pergi ke desa"
 ⟪नरकपतिता⟫ = ⟪नरकं पतिता⟫ = "seorang yang telah jatuh ke dalam neraka"
 
->> Komponen pertama mewakili Instrumentalis (⟪तृतीया⟫): misalnya sering kali Agen (⟪कर्तृ⟫) dari pembentukan nomina dengan sufiks kṛt (misalnya PPP):
+Komponen pertama mewakili Instrumentalis (⟪तृतीया⟫): misalnya sering kali Agen (⟪कर्तृ⟫) dari pembentukan nomina dengan sufiks kṛt (misalnya PPP):
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः कृतम्⟫ = "dibuat oleh seorang dewa / oleh para dewa"
 Juga dapat diuraikan: ⟪देवस्य⟫ / ⟪देवानां कृतम्⟫ = "Tindakan / Perbuatan seorang dewa / oleh para dewa; Tindakan Dewa, Tindakan Para Dewa"
 
 ⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन रक्षिता⟫ = "dia yang dilindungi oleh Buddha" (sebuah nama diri)
 
->> ## 15.5. Penguraian Komposita (kecuali Dvandvas)
+## 15.5. Penguraian Komposita (kecuali Dvandvas)
 
 ::: grammar-box
->> Meskipun dalam bahasa Sanskrit komposita dengan panjang berapapun dapat dibentuk dan juga sangat sering dibentuk (komposita dari 10 hingga 30 komponen bukanlah hal yang jarang!), namun - dengan pengecualian Dvandvas - semua komposita secara progresif dan hierarkis harus diuraikan menjadi dua bagian masing-masing:
+Meskipun dalam bahasa Sanskrit komposita dengan panjang berapapun dapat dibentuk dan juga sangat sering dibentuk (komposita dari 10 hingga 30 komponen bukanlah hal yang jarang!), namun - dengan pengecualian Dvandvas - semua komposita secara progresif dan hierarkis harus diuraikan menjadi dua bagian masing-masing:
 
 :::
 ::: media
@@ -158,7 +158,7 @@ mis.
 
 = "tindakan berkaharmatan (keberkahan), yang telah dilakukan oleh putra berbudi luhur saya"
 :::
->> Berbagai jenis komposita dapat dicampur, mis. komponen depan: Bahuvrīhi (⟪बहुव्रीहि⟫) - komponen belakang: Tatpuruṣa, dan seterusnya.
+Berbagai jenis komposita dapat dicampur, mis. komponen depan: Bahuvrīhi (⟪बहुव्रीहि⟫) - komponen belakang: Tatpuruṣa, dan seterusnya.
 
 mis.
 
@@ -171,7 +171,7 @@ mis.
 
 = "dharma dari Brahmana, Kṣatriya dan Vaiśya"
 :::
->> Sangat sering ada berbagai kemungkinan untuk menguraikan sebuah komposita. Mana yang benar atau setidaknya terbaik, hanya dapat diputuskan dari konteks dan isi teks. Terkadang keputusan seperti itu tidak mungkin dilakukan. Seringkali dua kemungkinan penguraian tampaknya dimaksudkan oleh penulis. Maka dalam terjemahan, kedua kemungkinan penguraian harus ditampilkan (dihubungkan dengan "dan", "atau" "atau" dan sejenisnya.
+Sangat sering ada berbagai kemungkinan untuk menguraikan sebuah komposita. Mana yang benar atau setidaknya terbaik, hanya dapat diputuskan dari konteks dan isi teks. Terkadang keputusan seperti itu tidak mungkin dilakukan. Seringkali dua kemungkinan penguraian tampaknya dimaksudkan oleh penulis. Maka dalam terjemahan, kedua kemungkinan penguraian harus ditampilkan (dihubungkan dengan "dan", "atau" "atau" dan sejenisnya.
 
 mis.
 
@@ -320,7 +320,7 @@ darinya:
 :::
 ## 15.9. Latihan 1
 
->> Uraikan komposita berikut sebagai Tatpuruṣa dalam bahasa Sanskerta dan berikan terjemahan ke dalam bahasa Indonesia. Berikan semua uraian dan terjemahan yang menurut Anda mungkin. Sebutkan juga kasus dan bilangan mana yang berlaku untuk komposita secara keseluruhan.
+Uraikan komposita berikut sebagai Tatpuruṣa dalam bahasa Sanskerta dan berikan terjemahan ke dalam bahasa Indonesia. Berikan semua uraian dan terjemahan yang menurut Anda mungkin. Sebutkan juga kasus dan bilangan mana yang berlaku untuk komposita secara keseluruhan.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 

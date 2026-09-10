@@ -1,197 +1,203 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "Pamoka 5"
+subtitle: "Daiktinių junginių (samāsa) pagrindai"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 5
 
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+## 5.1. Nominaliniai jungtys (samāsa m. = ⟪समास⟫)
 
-Die Bildung von Wortzusammensetzungen in sehr grossem Umfang ist ein Charakteristikum des Sanskrit.
+Žodžių junginių sudarymas labai dideliu mastu yra sanskrito charakteristika.
 
-Die wichtigsten Bildungsformen von Komposita sind:
-- **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫)
-- **determinative Komposita** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **Possesivkomposita** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
+Svarbiausios junginių sudarymo formos yra:
+**kopuliniai junginiai** (dvandva n. = ⟪द्वन्द्व⟫)
+**determinatyviniai junginiai** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+**Nuosavybės junginiai** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
-(Zu den beiden letztgenannten siehe später!)
+(Dėl dviejų paskutiniųjų žr. vėliau!)
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Glieder eines Kompositums
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Auflösung eines Kompositums
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Kompositum, in dem das Vorderglied eine Kasusendung behält
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden
+## 5.2. Sanskrito terminologija junginiams
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+**ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : junginio dalys
+**vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : junginio išskaidymas
+**nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : junginys, kuriam nėra vigrahavākya arba kurio vigrahavākya negalima sudaryti su junginio žodžiais.
+**aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : junginys, kuriame pirmoji dalis išlaiko linksnio priesagą
+**luksamāsaḥ** m. = ⟪लुक्समासः⟫ : junginys, kurio pirmosios dalys be linksnio priesagų (normalus atvejis)
+**madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : junginys, kuriame viena ar kelios vidurinės dalies praleidžiamos
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven).
+
+## 5.3. Kopuliniai junginiai (Dvandva n. = ⟪द्वन्द्व⟫)
+
+Kopuliniai junginiai skirti gramatiškai vienodų, koordinuotų dalių (daiktavardžių arba daiktinių būdvardžių) sujungimui.
 
 ::: grammar-box
-**Ein Dvandva bezeichnet:**
+**Dvandva reiškia:**
 
-1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:**
-   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
+1. **arba sumuojantį ryšį tarp asmenų, dalykų ar savybių, kuriuos nurodo jo atskiros dalys:**
+Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:**
-   Samāhāradvandva ("Zusammenfassungsdvandva") = ⟪समाहारद्वन्द्व⟫
+2. **arba apibendrina šiuos asmenis, dalykus ar savybes į vienybę:**
+Samāhāradvandva ("apibendrinantis dvandva") = ⟪समाहारद्वन्द्व⟫
 
-**Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig.
+**Pirmuoju atveju (Itaretaradvandva):**
+Dvandva įgyja paskutinio nario gramatinę lytį ir dviejų skaičiaus galūnes (kai yra du dalykai) arba daugiskaitos galūnes (kai jų daugiau nei du). Taip pat leidžiamos vienaskaitos galūnės.
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular.
+**Antruoju atveju (Samāhāradvandva):**
+Dvandva paprastai yra vidurinės lyties (nepriklausomai nuo paskutinio nario lyties) ir vartojamas vienaskaita.
 
-**Die Auflösung:**
-Erfolgt mit "und" (**ca** = ⟪च⟫), gelegentlich mit "oder" (**vā** = ⟪वा⟫) oder "je".
+**Išskyrimas:**
+Vykdomas su „ir“ (**ca** = ⟪च⟫), kartais su „arba“ (**vā** = ⟪वा⟫) arba „kiekvienas“.
 :::
-Zu den Dualdvandva siehe später!
+Dėl dviejų skaičiaus dvandva žr. vėliau!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Sudurtinių žodžių pirmieji nariai
 
-Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten **Nominalstamms**. Die einzelnen Glieder von Komposita werden nach den Regeln des **Satzsandhi** verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet).
+Sudurtinių žodžių (ne tik dvandva) pirmieji nariai paprastai turi nepakitusio **vardinio kamieno** formą. Atskiri sudurtinių žodžių nariai jungiami pagal **sakmės sandhi** taisykles (t. y. sandhi, kurį iki šiol išmokome, skirtingai nei žodžio viduje prieš formacinius elementus taikomas žodžio sandhi).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Daugiskaitos Itaretaradvandva
 
-Beispiele für Pluraldvandva:
+Pavyzdžiai su daugiskaitos dvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+> (brahmanai, kṣatrijai, vaišjos ir šūdras)
 > 
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+> arba = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+> (vienas/šis brahmanas, kṣatrijas, vaišja ir šūdra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Dichter und Lehrer [Plur.])
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+> (poetai ir mokytojai [daugisk.])
+> (Pastaba: „Vienas poetas ir vienas mokytojas“ turėtų būti dviejų skaičiaus!)
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:**
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäss ihrer Hierarchie (höchster zuerst) geordnet werden.
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden.
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden.
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen.
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen.
-- Wörter, die weniger Silben enthalten, sollen vorausgehen.
+**Taikantis dvandva sandūrinių žodžių tvarkai galioja šie taisyklės:**
+Skirtingų varṇa (kastos) pavadinimai turi būti išdėstyti pagal jų hierarchiją (pirmiausia aukščiausią).
+Vyresniojo brolio vardas turi būti nurodytas prieš jaunesniojo brolio vardą.
+Paprastai svarbesnis žodis turi būti pastatytas į pradžią.
+Žodžiai, baigiantys **-i** arba **-u**, turi eiti pirmieji.
+Žodžiai, baigiantys **-a** ir prasidedantys balsiu, turi eiti pirmieji.
+Žodžiai, turintys mažiau skiemenų, turi eiti pirmieji.
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
+Kai gali būti taikomos dvi iš paskutiniųjų trijų taisyklių, visada turi būti laikomasi vėliau pateiktos taisyklės. (Dviejų narių dvandva pavyzdžiai šiems taisyklėms pateikiami Kielhorn, Gramatika § 570).
 
-## 5.4. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 5.4. Žodynas
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+**Išmokite šiuos žodžius:**
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : linkimas, užsispyrimas, tvirtinimasis; ypač: priklausomybė nuo kūno, lyg jis būtų savas.
+
+**kāma** m. = ⟪काम⟫ : noras, troškimas, pageidaujama dovana, aistrinė malonė, meilė; meilės dievas Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+Pav.: Dievas Kāma = kāmadeva = ⟪कामदेव⟫, XVIII a.
+(Nuotraukos šaltinis: Wikipedia, viešas turtas)
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn.
+**krodha** m. = ⟪क्रोध⟫ : pyktis.
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
+**kleśa** m. = ⟪क्लेश⟫ : kančia, vargas.
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : trigubas skaičius; ypač trys Veda (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politika (Tatpuruṣa sandūrinis žodis iš daṇḍa m. = "lazda, galia, valdžia, bausmė" ir nīti f. = "teisingas vadovavimas").
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : dvigubai gimęs.
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**dveṣa** m. = ⟪द्वेष⟫ : Hatred.
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**maitrī** f. = ⟪मैत्री⟫ : Friendship, friendliness, friendly goodwill.
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**rāga** m. = ⟪राग⟫ : (red) color, passion, love.
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**lobha** m. = ⟪लोभ⟫ : Greed, avarice.
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**varṇa** m. = ⟪वर्ण⟫ : Color, genus, social class.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**vārttā** f. = ⟪वार्त्ता⟫ : Livelihood, economics (economy).
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**vidyā** f. = ⟪विद्या⟫ : Knowledge, science.
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**avidyā** f. = ⟪अविद्या⟫ : Ignorance, non-knowledge.
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+**ca** = ⟪च⟫ : and.
+(Placed after the word it connects. When connecting multiple words, ideally stands behind the first word of the last linking element: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
-## 5.5. Übung
 
-**A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:**
+## 5.5. Exercise
+
+**A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
-   (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Erklärung: catvāras = ⟪चत्वारस्⟫ = "vier")
+(Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
+⟪चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+(Explanation: catvāras = ⟪चत्वारस्⟫ = "four")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
-   (Vāsiṣṭhadharmaśāstra II,1)
-   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Erklärung: trayas = ⟪त्रयस्⟫ = "drei")
+(Vāsiṣṭhadharmaśāstra II,1)
+⟪त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः⟫ ||
+(Explanation: trayas = ⟪त्रयस्⟫ = "three")
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
-   ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in gutem Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+(Kauṭilīya-arthaśāstra 1.3.1. / in good Sanskrit: sāmārgyajurvedās trayī)
+⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
+(in good Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6):
+4. The three enemies of man, which form the gate to hell (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
-   ⟪कामक्रोधलोभाः⟫ ||
+⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.)
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫ ||
+(Explanation: brahmavihāra: "abiding states of Brahma", also called the "Immeasurables". They are Buddhist meditation practices.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
-   (Yogasūtra 2,3)
-   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Erklärung: pañca = "fünf")
+(Yogasūtra 2,3)
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः⟫ ||
+(Explanation: pañca = "five")
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-   (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+(According to Kauṭilīya-arthaśāstra 1.2.1.)
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
-## 5.6. Wiederholungsübung
 
-**A) Übersetzen Sie:**
+## 5.6. Review Exercise
+
+**A) Translate:**
 
 1. vidyā vārttā.
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
+⟪विद्या वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten)
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
+3. dvijā vaiśyāḥ. (2 possibilities)
+⟪द्विजा वैश्याः⟫ |
 
-**B) Setzen Sie die entsprechende Form ein:**
+**B) Insert the corresponding form:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:**
+**C) Resolve the compound in the following sentence into Sanskrit and form the same sentence with this resolved form:**
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):**
+**D) Translate into Sanskrit in two ways (once with a compound, once without):**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
+"Abiding states of Brahma" are: friendly goodwill, compassion, sympathetic joy, equanimity.

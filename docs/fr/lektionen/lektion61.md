@@ -436,31 +436,13 @@ Exemples :
 | ⟪राजन्⟫ m. «roi» | ⟪राजीयति⟫ «il souhaite un roi» |
 | ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ «il traite quelqu'un comme Viṣṇu» |
 | ⟪प्रासाद⟫ m. «palais» | ⟪प्रासादीयति⟫ «il considère (par ex. sa hutte) comme un palais» |
-
-Veuillez noter l'importance de :
-
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
-| --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
-
-::: media
-![](/images/lekt6105.webp)
-Fig. : ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
-⟪हरिद्वार⟫
-(Source de l'image : [Détails](/fr/licenses#lekt6105))
-:::
-
-::: media
-![](/images/lekt6103.webp)
-Fig. : ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Source de l'image : [Détails](/fr/licenses#lekt6103))
 :::
 ### 61.4.3. Formation avec le suffixe -kāmya, Parasmaipada
 
 ::: grammar-box
 **Signification :**
 
-**quelqu’un souhaite ce qui est désigné par la racine nominale**
+**quelqu'un souhaite ce qui est désigné par la base nominale**
 :::
 Exemples :
 
@@ -470,8 +452,7 @@ Exemples :
 
 ::: media
 ![](/images/lekt6109.webp)
-Fig. : ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
+Lég. : ⟪यशस्काम्यन्ति मुंबई⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6109))
 :::
 ### 61.4.4. Formation avec le suffixe -sya ou -asya, Parasmaipada
@@ -481,18 +462,18 @@ Fig. : ⟪यशस्काम्यन्ति⟫
 
 :::
 ::: indent
-**quelqu’un désire ardemment ce qui est désigné par la racine nominale.**
+**quelqu'un désire ardemment ce qui est désigné par la base nominale.**
 :::
 Exemples :
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. "miel" | ⟪मधुस्यति । मध्वस्यति⟫ "il désire ardemment du miel" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+| ⟪अश्व⟫ m. "étalon" | ⟪अश्वस्यति⟫ "(la jument) désire ardemment l'étalon" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Fig. : ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Lég. : ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
 (Source de l'image : [Détails](/fr/licenses#lekt6110))
 :::
@@ -503,55 +484,78 @@ Karli
 
 :::
 ::: indent
-**quelqu’un se comporte comme ce que, ou est semblable à, ce qui est désigné par la racine nominale.**
+**quelqu'un se comporte comme ce qui est désigné par la base nominale, ou lui ressemble.**
 :::
 **Formation :**
 
-*   **la finale -a » -ā**
-*   **la finale -ā reste inchangée**
+*   **-a final » -ā**
+*   **-ā final reste inchangé**
 *   **sinon comme avant -ya, Parasmaipada (voir ci-dessus 4.2.)**
-*   **la finale -as optionnellement » -ā**
-*   **le thème féminin généralement » thème masculin**
+*   **-as final optionnellement » -ā**
+*   **base féminine généralement » base masculine**
 
 Exemples :
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ «il se comporte comme Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "il se comporte comme Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 «célèbre» | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ «il se comporte comme un Célèbre» |
-| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» |
+| ⟪यशस्⟫ 3 "célèbre" | ⟪यशायते । यशस्यते⟫ "il se comporte comme un célèbre" |
+| ⟪कुमारी⟫ f. "fille" | ⟪कुमारायते⟫ "il se comporte comme une fille" |
 
 ::: grammar-box
-**Pour certaines bases nominales, ce suffixe signifie : quelque chose devient comme ce qui est désigné par la base nominale, ou devient ce qui est désigné par la base nominale :**
+**Pour certaines racines nominales, ce suffixe signifie : quelque chose devient comme cela, ou devient ce qui est désigné par la racine nominale :**
 
 :::
 ::: indent
-par ex. ⟪उन्मनस्⟫ 3 « provoque » : ⟪उन्मनायते⟫ « il est provoqué »
+par ex. ⟪उन्मनस्⟫ 3 "excite" : ⟪उन्मनायते⟫ "il est excité"
 :::
 **Dans certains cas, ce suffixe forme des verbes avec d'autres significations :**
 
 Exemples :
 
 ::: indent
-⟪दुःख⟫ n. « Souffrance » : ⟪दुःखायते⟫ « il éprouve de la souffrance »
-⟪शब्द⟫ m. « Son » : ⟪शब्दायते⟫ « il émet un son »
+⟪दुःख⟫ n. "souffrance" : ⟪दुःखायते⟫ "il ressent de la souffrance"
+⟪शब्द⟫ m. "son" : ⟪शब्दायते⟫ "il émet un son"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Fig. : ⟪श्वानौ⟫ ⟪शब्दायेते⟫
+Lég. : ⟪श्वानौ शब्दायेते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6111))
 :::
 ### 61.4.6. Formation avec le suffixe -aya, -āpaya
 
 ::: grammar-box
-**Conjuguer comme le causatif.**
+**Différentes significations.**
 
-Exemples :
+**Conjugaison comme le causatif.**
 :::
 Exemples :
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "vrai" | ⟪स्तयपायति⟫ "il déclare comme vrai" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "tondu" | ⟪मुण्डयति⟫ "il tond" |
+
+::: media
+![](/images/lekt6113.webp)
+Lég. : ⟪भिक्षुर्मुण्डयते ।⟫
+Thaïlande - เมืองไทย
+(Source de l'image : [Détails](/fr/licenses#lekt6113))
+:::
+Une liste de dénominaux par ex. dans :
+
+::: media
+![](/images/lekt6112.jpg)
+Lég. :
+1845 - 1878 Professeur de philologie indo-orientale à l'Université de Copenhague
+(Source de l'image : [Détails](/fr/licenses#lekt6112))
+:::
+
+::: indent
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- P. 335 - 341.
+:::
+## 61.5. Le bénédictif (⟪आशीर्लिङ्⟫)
+
+::: grammar-box
+**Signification :**
 
 ::: media
 ![](/images/lekt6113.webp)
@@ -616,27 +620,17 @@ Paradigma :
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
-::: media
-![](/images/lekt6114.webp)
-Lég. : ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-(Source de l’image : [Détails](/fr/licenses#lekt6114))
-:::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
-
-::: grammar-box
-**Le Conditionnel (⟪ऌङ्⟫) est utilisé lorsqu'on veut exprimer dans des phrases conditionnelles que ce qui est nommé comme condition n'est pas le cas / n'a pas été le cas / ne sera pas le cas. Le conditionnel doit être utilisé dans de telles phrases, tant dans la phrase conditionnelle que dans la phrase principale.**
-:::
 Exemple :
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ « S'il avait bien plu (ou pleuvrait), il y aurait abondance de nourriture. (Mais il n'a pas (suffisamment) plu.) »
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ « S’il avait bien plu (ou s’il pleuvait), il y aurait abondamment de la nourriture. (Mais il n’a pas plu [suffisamment].) »
 :::
 ::: grammar-box
 **Formation du conditionnel (⟪ऌङ्⟫) :**
 
-**Augment + racine du futur simple (⟪ऌत्⟫) + terminaison secondaire**
+**Augment + radical du futur simple (⟪ऌत्⟫) + terminaison secondaire**
 
-c'est-à-dire comme un imparfait (⟪लङ्⟫) à la racine du futur.
+c’est-à-dire comme un imparfait (⟪लङ्⟫) pour la racine du futur.
 
 par ex. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
@@ -655,27 +649,27 @@ Paradigme :
 ## 61.7. Déclinaison des noms en -ai, -o, -au
 
 ::: grammar-box
-**Devant une consonne, ces radicaux se terminent par -ai, -o, -au ; devant une voyelle par -āy, -av, -āv**
+**Devant une voyelle, ces radicaux se terminent par -ai, -o, -au ; devant une consonne, par -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "bœuf, vache" présente une alternance de radical.** Voir l'explication détaillée chez Thumb-Hauschild § 296/7.
+**⟪गो⟩ m.f. « bœuf, vache » présente une alternance de radical.** Voir l’explication détaillée dans Thumb-Hauschild § 296/7.
 :::
 Paradigmes : Kielhorn, Grammatik § 153 :
 
 ::: media
 ![](/images/lekt6115.webp)
-(Source de l'image : [Détails](/fr/licenses#lekt6115))
+(Source de l’image : [Détails](/fr/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Fig. : ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Source de l'image : [Détails](/fr/licenses#lekt6118))
+Fig. : ⟪हरिद्वारे गावः ॥⟫
+(Source de l’image : [Détails](/fr/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina
+## 61.8. Autres pronoms
 
 ### 61.8.1. Pronoms personnels du duel
 
-Kielhorn, Grammatik § 177 :
+Kielhorn, Grammaire § 177 :
 
 ::: media
 ![](/images/lekt6116.jpg)
@@ -684,7 +678,7 @@ Kielhorn, Grammatik § 177 :
 
 ::: media
 ![](/images/lekt6117.webp)
-Fig. : ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
+Légende : ⟪आवां स्वसारौ ॥⟫
 Peuple Apatani, Arunachal Pradesh
 (Source de l'image : [Détails](/fr/licenses#lekt6117))
 :::
@@ -711,7 +705,7 @@ Neutre (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rester comme masculin
+Reste comme le masculin
 
 :::
 Féminin (⟪स्त्री⟫)
@@ -727,13 +721,13 @@ Féminin (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
+## 61.9. Plongée dans l'océan de la littérature sanskrite : ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Après l'achèvement du cours de sanskrit, ne commence que la véritable « nage » dans l'océan de la littérature sanskrite. Puisque cet océan est plein d'obstacles, il est approprié de commencer cette nouvelle étape de la vie par une invocation à Gaṇeśa :
+Après l'achèvement du cours de sanskrit, ne commence que le véritable "natation" dans l'océan de la littérature sanskrite. Cet océan étant plein d'obstacles, il est approprié de commencer cette nouvelle étape de la vie par une invocation à Gaṇeśa :
 
 ::: media
 ![](/images/lekt6101.webp)
-Fig. : ⟪श्रीगणनाथः⟫
+Lég. : ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), XIIe/XIIIe s. apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt6101))
 :::
@@ -741,9 +735,9 @@ Halebidu (ಹಳೆಬೀಡು), XIIe/XIIIe s. apr. J.-C.
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compositeur et poète : Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -753,24 +747,24 @@ Rāga : Malahari (correspondant à ⟪मायामाळवगौळ⟫ = Mā
 
 *   avarohaṇa : S d1 p m1 g3 r1 s
 
-Tāla : Rūpaka : o |4
+
+Tāla : Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Fig. : Mélodie, rapportée à do, peut être transposée selon la tessiture vocale.
+Lég. : Mélodie, rapportée à do (c), peut être transposée selon la tessiture vocale.
 (Source de l'image : [Détails](/fr/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] se trouve au début de l'enseignement de la musique kannaraise. Voir la vidéo : [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Consulté le 2009-03-05 
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ marque le début de l'enseignement de la musique kannaraise. Voir la vidéo : [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Consulté le 2009-03-05
 
-Maintenant que vous avez appris les bases du sanskrit, vous êtes peut-être comme les tout-petits dans la vidéo : parfois maladroits, mais désireux d'apprendre et de savoir, et prenant plaisir à l'activité. Gardez jusqu'à la fin de votre vie « un esprit de débutant ».
+Maintenant que vous avez acquis les bases du sanskrit, vous êtes probablement comme les tout-petits dans la vidéo : parfois maladroits, mais avides d'apprendre et de connaissances, et prenant plaisir à l'exercice. Gardez jusqu'à la fin de votre vie « un esprit d'initié ».
 
 ::: center
-center
-C'est le vœu de votre Alois Payer
+C'est ce que vous souhaite Alois Payer
 
 Ofterdingen, 2009-03-09
 
-*:sig[⟪ॐ⟫]*
+sig[⟪ॐ⟫]
 
 FIN DU COURS DE SANSKRIT
 :::

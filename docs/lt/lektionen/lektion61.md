@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Pamoka 61"
+subtitle: "Šakninių daiktavardžių, baigiančiųsi -ā, -ī, -ū, linksniavimas"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Šakninių daiktavardžių linksnavimas su galūnėmis -ā, -ī, -ū
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
+### 61.1.1. Šakniniai daiktavardžiai su -ā pabaigoje ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.**
+**Prie balsinių galūnių šaknies balsis silpnosiose linksnybėse nyksta į Ø.**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.**
+**Vyr. ir mot. giminės linksnavimas yra identiškas.**
 :::
 Paradigma:
 
-⟪विश्वपा⟫ m.f. "das All beschützend"
+⟪विश्वपा⟫ v. „viską saugantis“
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Mot. giminės šakniniai daiktavardžiai su -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Prie balsinės galūnės -ī pakeičiama į -iy.**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.**
+**Be reguliarių linksnių galūnių, Duok.Šak.Naud.Gal.sg. ir Gen.pl. taip pat vartojamos formos pagal daugiaskambės mot. giminės daiktavardžių su -ī (⟪देवी⟫) modelį.**
 :::
 Paradigma:
 
-⟪धी⟫ f. "Gedanke"
+⟪धी⟫ f. „mintis“
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmässig: ⟪स्त्री⟫ f. "Frau"
+Netaisyklingai: ⟪स्त्री⟫ f. „moteris“
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,34 +69,34 @@ Unregelmässig: ⟪स्त्री⟫ f. "Frau"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102))
+Pav.: ⟪स्त्रियः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6102))
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
+### 61.1.3. Šakniniai daiktavardžiai su -ī pabaigoje ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.**
+**Prie balsinių pabaigų -ī pakeičiama į -y, jei prieš tai yra tik šakniai priklausantis priebalsis. Jei prieš tai yra keli šakniai priklausantys priebalsiai, -ī prieš balsinę pabaigą pakeičiama į -iy.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Linksniavimas vyriškoji ir moteriškoji lytimiems yra identiškas.**
 
-**Unregelmässigkeit: Komposita auf -:sig[⟪नी⟫] "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫
+**Netaisyklingumas: Sudurtiniai žodžiai su -⟪नी⟩ „vedantis“ lok. sg. turi pabaigą -ām (kaip ⟪देवी⟩):**
+pvz. ⟪ग्रामणी⟩ „viena gauja/kaimas vedantis“: lok. sg.m.f. ⟪ग्रामण्याम्⟩
 :::
-Paradigmen:
+Paradigmos:
 
-⟪शुद्धधी⟫ m., f. "Reines denkend"
+⟪शुद्धधी⟩ m., f. „Grynas minties“
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟩ | ⟪द्विवचनम्⟩ | ⟪बहुवचनम्⟩ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
-| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
-| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
-| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
-| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
-| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
+| **⟪प्रथमा⟩ /:br⟪आमन्त्रितम्⟩** | ⟪शुद्धधीस्⟩ | ⟪शुद्धध्यौ⟩ | ⟪शुद्धध्यस्⟩ |
+| ⟪द्वितीया⟩ | ⟪शुद्धध्यम्⟩ | ^^ | ^^ |
+| ⟪तृतीया⟩ | ⟪शुद्धध्या⟩ | ⟪शुद्धधीभ्याम्⟩ | ⟪शुद्धधीभिस्⟩ |
+| ⟪चतुर्थी⟩ | ⟪शुद्धध्ये⟩ | ^^ | ⟪शुद्धधीभ्यस्⟩ |
+| ⟪पञ्चमी⟩ | ⟪शुद्धध्यस्⟩ | ^^ | ^^ |
+| ⟪षष्ठी⟩ | ^^ | ⟪शुद्धध्योस्⟩ | ⟪शुद्धध्याम्⟩ |
+| ⟪सप्तमी⟩ | ⟪शुद्धध्यि⟩ | ^^ | ⟪शुद्धधीषु⟩ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend"
+⟪यवक्री⟫ m., f. "purchasing barley"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Monosyllabic feminine root nouns ending in -ū
 
 ::: grammar-box
-**Stamm vor Vokal: -uv**
+**Stem before vowel: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Declension analogous to feminine root nouns ending in -ī**
 :::
-Paradigma:
+Paradigm:
 
-⟪भू⟫ f. "Erde"
+⟪भू⟫ f. "earth"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
+### 61.1.5. Root nouns ending in -ū at the end of ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.**
+**Before vocalic endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, -ū before a vocalic ending is replaced by -uv.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Declension is identical in the masculine and feminine.**
 :::
-Paradigma:
+Paradigm:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend"
+⟪खलपू⟫ m., f. "sweeping the barn"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +152,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106))
+Pav.: ⟪रथ्याप्वः काशीपुर⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6106))
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. Daugiasilabių moteriškosios giminės daiktavardžių, baigiančių -ū, linksniavimas
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.**
+**Daugiasiliai moteriškosios giminės daiktavardžiai, baigiantys -ū, linksniuojami analogiškai daugiasiliams kamienams su -ī (⟪देवी⟫), tačiau jie vardininko linksnio vienaskaitoje baigiasi -s.**
 :::
 Paradigma:
 
-⟪वधू⟫ f. "junge Frau, Braut"
+⟪वधू⟫ f. "jauna moteris, nuotaka"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,20 +177,19 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107))
+Pav.: ⟪वध्वौ जोधपुर⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6107))
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+## 61.2. Perifrazinis būsimasis laikas (⟪लुट्⟫)
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.**
+**Be paprastojo būtojo laiko (⟪ऌत्⟫) egzistuoja ir perifrazinis būsimasis laikas (⟪लुट्⟫). Pagal vietinių gramatikų mokymą jis vartojamas būsimajam laikui, esančiam toliau ("po einamosios dienos"), žymėti, tuo tarpu paprastasis būsimasis laikas nurodo artimą ateitį ("einamosios dienos metu"). Klasikiniame sanskrite dažniausiai nedaroma skirties tarp šių dviejų būtojo laiko formų vartosenoje.**
 
-**Bildung:**
+**Formavimas:**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
+**Perifrazinis būsimasis laikas sudaromas sujungiant veiksmažidinį daiktavardį su priesaga -tṛ ir dabartinio laiko forma ⟪अस्⟫ 2. Trečiajam asmeniui tinka paprastas daiktavardis atitinkamu skaičiumi, be skirtumo gramatine lytimi. Sujungimuose su ⟪अस्⟫ daiktavardis visais asmenimis ir skaičiais turi vardininko linksnio vienaskaitos formą su -tā.**
 :::
-Die Endungen des periphrastischen Futur lauten also:
+Prieveidinio būtojo laiko priesagos skamba taip:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,15 +200,15 @@ Die Endungen des periphrastischen Futur lauten also:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
+**Šaknies forma: Šaknis bendruoju atveju turi tą pačią formą, kaip ir paprastajame būtajame laike. Tas pats galioja ir jungiamajam balsiui -i-.**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ ir t. t. |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. |
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ ir t. t. |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ ir t. t. |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ ir t. t. |
 
 Paradigma:
 
@@ -224,74 +223,65 @@ Paradigma:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.**
+**Labai retai veiksmažodis ⟪अस्⟫ yra atskiriamas nuo nominalinės šaknies.**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. Intensyvus (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heisst: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.**
+**Iš kiekvieno vienos skiemenų, priebalsiu prasidedančio šaknies pirmųjų devynių presento klasių galima sudaryti intensyvą (⟪चर्करीतम्⟫); tai reiškia: su keliomis išimtimis negalima sudaryti intensyvo iš dviejų skiemenų šaknų (pvz., ⟪जागृ⟫), balsiu prasidedančių šaknų ir dešintosios presento klasės šaknų (⟪चुरादिगण⟫).**
 
-**Das Intensivum bedeutet:**
+**Intensyvas reiškia:**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**
-:::
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"
-:::
+*   **kad asmuo ar dalykas nuolat daro arba patiria tai, ką reiškia šaknis**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "jis nuolat daro"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "jis dažnai yra (tampa)"  
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"
-:::
+*   **kad asmuo ar dalykas intensyviai daro arba patiria tai, ką reiškia šaknis:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "jis intensyviai daro, jis tvirtai daro"  
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**
-::: indent
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")
-:::
+*   **šaknims, reiškiančioms judesį, intensyvas reiškia lenktą judesį:**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "jis eina lenktynėmis" (NE: "jis dažnai eina")  
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**
-::: indent
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+*   **kai kuriose šaknyse (sąrašas: Kielhorn, Gramatika § 458b) intensyvas reiškia priekaištą:**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "jis blogai pjauna"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "jis blogai sėdi"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Pav.: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:**
+**Intensyvo sudarymas:**
 
-**Es gibt zwei Bildungstypen des Intensivums:**
+**Yra du intensyvo sudarymo tipai:**
 
-*   **Ātmanepada-Intensivum**
-*   **Parasmaipada-Intensivum**
+*   **Ātmanepada intensyvas**
+*   **Parasmaipada intensyvas**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.**
+**Abu sudaromi iš šaknies, reduplikuotos stipria reduplikacija. Abu nesiskiria reikšme. Abus galima sudaryti iš tų pačių šaknų.**
 :::
-### 61.3.1. Ātmanepada-Intensivum
+### 61.3.1. Ātmanepada intensyvumas
 
 ::: grammar-box
-**Bildung:**
+**Formavimas:**
 
-**reduplizierte Wurzel + -ya-**
+**reduplikuotas šaknis + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:**
+**Šaknies forma: bendrai kaip ir tiesioginiame veiksmažodžio forme, t. y. dažniausiai žemojo laipsnio:**
 
-Beispiele:
+Pavyzdžiai:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Ties. veiks. ⟪सुप्यते⟫ ; Intensyv. ⟪सोषुप्यते दा⟫ 3U: Ties. veiks. ⟪दीयते⟫ ; Intensyv. ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
+Taisyklės išsamiau pateikiamos Kielhorn, Gramatika § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiele:
+**Reduplikacija: pagal bendrąsias taisykles. Reduplikacijos balsis vietoj a,i,u yra ā, e, o**
+Pavyzdžiai:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -302,165 +292,173 @@ Beispiele:
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.**
+**Šaknys, kurios baigiasi -a-Nasal, reduplikacijos skiemenyje balsio nepailgina, bet kartoją nosalinį.**
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+pvz. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
+**Kai kuriose šaknyse tarp reduplikacijos skiemens balsio ir šaknies pradžios priebalsio atsiranda -nī- arba -rī- (-rī- šaknyse, kurios intensyve turi ṛ).**
 
 ::: indent
-z.B.
+pvz.
 ⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:**
+**Konjugacija:**
 
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).**
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:**
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Esamojo laiko šaknis: kaip 4-osios esamųjų laikų klasės Ātmanepada (⟪दिवादिगण⟫).**
+*   **Tiesioginis veiksmažodis ir kiti laiko šaknys: jei prieš -ya- intensyvumo šaknyje yra balsis, tai -ya- pakeičiamas į -y-, jei prieš -ya- yra priebalsis, tai -ya- dingsta:**
+*   **Tiesioginis veiksmažodis esamasis laikas: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfekto laikas: periphrastiškai: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aoristas: iṣ-Aoristas (Aoristas 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Būsimasis laikas: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Periphrastinis būsimasis laikas: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada-Intensivum
+### 61.3.2. Parasmaipada intensyvumas
 
 ::: grammar-box
-**Präsensstamm (andere Formen sind äusserst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.**
+**Esamojo laiko kamienas (kitos formos yra itin retos): sudarymas ir linksniavimas kaip 3-osios esamojo laiko klasės veiksmažodžio (⟪जुहोत्यादिगण⟫), su ta išimtimi, kad reduplikacijos skiemenio balsis yra aukštojo tono, o esant -a- – ilgojo tono.**
 
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.**
+**Vienaskaitos indikatyve esamajame laike bei antrojo ir trečiojo asmens vienaskaitos imperfekte ir imperatyve tarp šaknies ir priesagos gali būti įterpiamas -ī-. Jei šis -ī- yra įterptas, trumpasis balsis priešpaskutinėje pozicijoje negali būti guṇiruojamas.**
 
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.**
+**Dėl reduplikacijos su nosaline bei -nī- arba -rī- įterpimo galioja tas pats, kas ir Ātmanepada intensyvumui. Vietoj -rī- gali būti pasirenkama ir -ri-.**
 :::
 Paradigma:
 
 ⟪भू⟫ 1P
 
-Indikativ Präsens (⟪लट्⟫):
+Indikatyvas esamajame laike (⟪लट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫):
+Imperfektas (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativ (⟪लोट्⟫):
+Imperatyvas (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativ (⟪विधिलिङ्⟫):
+Optatyvas (⟪विधिलिङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|  | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+## 61.4. Derivata (⟪नामधातु⟫)
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen.
+Derivata (⟪नामधातवः⟫) sudaromi, priešingai nei iki šiol nagrinėti veiksmažodžiai, ne nuo veiksmažodžio šaknies, o nuo daiktavardžio kamieno. Čia yra įvairūs darinio tipai.
 
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
+### 61.4.1. Darinys be specialaus priesagos, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Reikšmė:**
 
 :::
 ::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.**
+**asmuo ar daiktas elgiasi taip, kaip tas, arba lygina su tuo, ką žymi daiktavardžio kamienas.**
 :::
-**Konjugation:**
+**Linksniavimas:**
 
 ::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.**
+**dabarties kamene kaip 1-osios dabarties klasės veiksmažodis (⟪भ्वादिगण⟫). Jei daiktavardžio miltai turi vokalo, tik paskutinis vokalas traktuojamas kaip 1-osios klasės šaknies vokalas. Galinis -a dingsta prieš tematinį vokalo. Vokalis prieš galinį nosalinį pakeičiamas atitinkamu ilguoju vokalu.**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
+| ⟪कवि⟩ m. "poetas" | ⟪कवयति⟩ "jis elgiasi kaip poetas" |
 | --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪भू⟩ f. "žemė" | ⟪भवति⟩ "jis elgiasi kaip žemė" |
+| ⟪पितृ⟩ "tėvas" | ⟪पितरति⟩ "jis elgiasi kaip tėvas" |
+| ⟪कृष्ण⟩ m. Kṛṣṇa | ⟪कृष्णति⟩ "jis elgiasi kaip Kṛṣṇa" |
+| ⟪माला⟩ f. "vainikas" | ⟪मालाति⟩ "jis lygina su vainiku" |
+| ⟪राजन्⟩ m. "karalius" | ⟪राजानति⟩ "jis elgiasi kaip karalius" |
 
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
+### 61.4.2. Darinys su priesaga -ya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Meaning:**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird**
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird**
+*   **someone desires what is denoted by the nominal stem**
+*   **someone treats or regards a person or thing as what is denoted by the nominal stem**
 
-**Stammbildung:**
+::: grammar-box
+**Meaning:**
+
+*   **someone desires what is denoted by the nominal stem**
+*   **someone treats or regards a person or thing as what is denoted by the nominal stem**
+
+**Stem Formation:**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:**
+**before the -ya, the final sound of the nominal stem undergoes the following changes:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **andere auslautende Konsonanten bleiben unverändert**
+*   **a final nasal is dropped, the preceding vowel is treated according to the rules just mentioned:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **other final consonants remain unchanged**
 :::
-Beispiele:
+Examples:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "son" | ⟪पुत्रीयति⟫ "he desires a son" |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪कवि⟫ m. "poet" | ⟪कवीयति⟫ "he desires a poet" |
+| ⟪गो⟫ f. "cow" | ⟪गव्यति⟫ "he desires a cow" |
+| ⟪राजन्⟫ m. "king" | ⟪राजीयति⟫ "he desires a king" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "he treats someone as Viṣṇu" |
+| ⟪प्रासाद⟫ m. "palace" | ⟪प्रासादीयति⟫ "he regards (e.g. his hut) as a palace" |
 
-Beachten sie die Bedeutung von:
+Note the meaning of:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+| ⟪तपस्⟫ n. "austerity" | ⟪तपस्यति⟫ "he practices austerity" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "veneration" | ⟪नमस्यति⟫ "he venerates" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Fig.: ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105))
+(Image source: [Details](/lt/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103))
+Fig.: ⟪बालौ शिवं नमस्यतः ॥⟫
+(Image source: [Details](/lt/licenses#lekt6103))
+:::
+### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
 :::
 ### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
 
 ::: grammar-box
 **Bedeutung:**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird**
+**someone wishes for what is denoted by the nominal stem**
 :::
-Beispiele:
+Examples:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
@@ -468,9 +466,8 @@ Beispiele:
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109))
+Pav.: ⟪यशस्काम्यन्ति मुंबई⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt6109))
 :::
 ### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
 
@@ -479,20 +476,20 @@ Abb.: ⟪यशस्काम्यन्ति⟫
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.**
+**someone strongly desires what is denoted by the nominal stem.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति । मध्वस्यति⟫ "er verlangt heftig nach Honig" |
 | --- | --- |
 | ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Pav.: ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
-(Bildquelle: [Details](/licenses#lekt6110))
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt6110))
 :::
 ### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
 
@@ -501,110 +498,101 @@ Karli
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.**
+**someone behaves as that which is denoted by the nominal stem, or resembles it.**
 :::
 **Bildung:**
 
-*   **auslautendes -a » -ā**
-*   **auslautendes -ā bleibt unverändert**
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **auslautendes -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **galinis -a » -ā**
+*   **galinis -ā lieka nepakitęs**
+*   **kitais atvejais kaip prieš -ya, Parasmaipada (žr. aukščiau 4.2.)**
+*   **galinis -as pasirinktinai » -ā**
+*   **moteriškosios giminės kamienas dažniausiai » vyriškosios giminės kamienas**
 
-Beispiele:
+Examples:
 
 | ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
+| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते । यशस्यते⟫ "er verhält sich wie ein Berühmter" |
 | ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
-::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:**
-
-:::
-::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt"
-:::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
-
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich"
+⟪दुःख⟫ n. "kančia" : ⟪दुःखायते⟫ "jis jaučia kančią"
+⟪शब्द⟫ m. "garsas" : ⟪शब्दायते⟫ "jis išleidžia garsą"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111))
+Pav.: ⟪श्वानौ शब्दायेते⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6111))
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. Sudarymas su priesaga -aya, -āpaya
 
 ::: grammar-box
-**Verschiedene Bedeutungen.**
+**Skirtingos reikšmės.**
 
-**Konjugiert wie Kausativa.**
+**Linksniuojamas kaip kausatyvas.**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "tiesa" | ⟪स्तयपायति⟫ "jis pripažįsta tiesą" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "nusiskutęs" | ⟪मुण्डयति⟫ "jis nusiskuta" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113))
+Pav.: ⟪भिक्षुर्मुण्डयते ।⟫
+Tailandas - เมืองไทย
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6113))
 :::
-Eine Liste von Denominative z.B. in:
+Denominalinių veiksmažodžių sąrašas, pvz.:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112))
+Pav.:
+1845 - 1878 Indijos ir Rytų filologijos profesorius Kopenhagos universitete
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. Benediktyvas (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Bedeutung:**
+**Reikšmė:**
 
 :::
 ::: indent
-**Segenswunsch**
+**Palaiminimas**
 :::
-**Bildung:**
+**Švietimas:**
 
 **Parasmaipada:**
 
-**tiefstufige Wurzel + yās + Sekundärendung**
+**žemo lygio šaknis + yās + antrinis priesaga**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
+pvz. ⟪बुध्यासम्⟫ "tegu aš pažįstu!"
 :::
 **Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung**
+**(dažniausiai) aukšto lygio šaknis + sī(y) + antrinis priesaga**
 
-**oder:**
+**arba:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(aukšto lygio) šaknis + ⟪ै⟫ + sī(y) + antrinis priesaga**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen"
+pvz.
+⟪जि⟫ : ⟪जेषीय⟫ "tegu aš nugalėsiu savo naudai!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "tegu aš pažįstu"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
+**Taisyklės dėl šaknies formos išsamiau Kielhorn, Gramatika § 380ff.**
 
 Paradigma:
 
-⟪बुध्⟫ "erwachen"
+⟪बुध्⟫ "pabusti"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -616,32 +604,32 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114))
+Pav.: ⟪नववर्षं शुभं भूयात् ॥⟫
+Santa Cruz Bazilika, Kochi = കൊച്ചി
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6114))
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 61.6. Kondicionális (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.**
+**Kondicionális (⟪ऌङ्⟫) naudojamas, kai norima sąlyginėse sakiniuose išreikšti, kad tai, kas paminėta kaip sąlyga, nėra / nebuvo / nebūsiu. Tokiuose sakiniuose kondicionális turi būti vartojamas tiek sąlyginame sakinyje, tiek pagrindiniame sakinyje.**
 :::
-Beispiel:
+Pavyzdys:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ „Kai būtų gerai paliję (arba lietus lytų), maisto būtų gausiai. (Tačiau nelijo (pakankamai).)“
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):**
+**Kondicionalio formavimas (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augmentas + paprastojo futuro šaknis (⟪ऌत्⟫) + antrinės galūnės**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm.
+t. y. kaip imperfektas (⟪लङ्⟫) prie futuro šaknies.
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+pvz., ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
 Paradigma:
 
-⟪भू⟫ "sein, werden"
+⟪भू⟫ „būti, tapti“
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -651,45 +639,60 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. Daiktavardžių linksnavimas su galūnėmis -ai, -o, -au
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv**
+**Prie priebalsių šaknys baigiasi -ai, -o, -au; prie balsių – -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7.
+**⟪गो⟩ vyriškosios ir moteriškosios giminės „jautis, karvė“ turi šaknies laipsniavimą.** Žr. išsamiau Thumb-Hauschild § 296/7.
 :::
-Paradigmen: Kielhorn, Grammatik § 153:
+Paradigmos: Kielhorn, Gramatika § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118))
+Pav.: ⟪हरिद्वारे गावः ॥⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina
+## 61.8. Likę įvardžiai
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. Asmeniniai dviejų skaičiaus įvardžiai
 
-Kielhorn, Grammatik § 177:
+Kielhorn, Gramatika § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117))
-:::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+Pav.: ⟪आवां स्वसारौ ॥⟫
+Apatani tauta, Arunachalo Pradešas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6117))
 
-Maskulinum (⟪पुंस्⟫)
+### 61.8.1. Asmeniniai dviejų skaičiaus įvardžiai
+
+Kielhorn, Gramatika § 177:
+
+::: media
+![](/images/lekt6116.jpg)
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6116))
+:::
+
+::: media
+![](/images/lekt6117.webp)
+Pav.: ⟪आवां स्वसारौ ॥⟫
+Apatani tauta, Arunachalo Pradešas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6117))
+:::
+### 61.8.2. Rodomieji įvardžiai ⟪अदस्⟫ "tas (tolimas)"
+
+Vyriškoji giminė (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -702,7 +705,7 @@ Maskulinum (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫)
+Vidurinėji giminė (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -710,10 +713,10 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+Likę kaip vyriškoji giminė
 
 :::
-Femininum (⟪स्त्री⟫)
+Moteriškoji giminė (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -726,25 +729,23 @@ Femininum (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
-
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen:
+## 61.9. Išleidimas į sanskritinės literatūros vandenyną: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101))
+Pav.: ⟪श्रीगणनाथः⟫
+Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt6101))
 :::
 
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
 ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+Composer and poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
 Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
@@ -752,24 +753,23 @@ Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagau�
 
 *   avarohaṇa: S d1 p m1 g3 r1 s
 
+
 Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119))
+Pav.: Melody, referenced to c, can be transposed depending on vocal range.
+(Image source: [Details](/lt/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05
-
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer
+Jūsų linki Alois Payer
 
-Ofterdingen, 2009-03-09
+Ofterdingenas, 2009-03-09
 
-:sig[⟪ॐ⟫]
+sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+SANSKRITO KURSO GALAS
 :::
 

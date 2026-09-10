@@ -1,10 +1,11 @@
 ---
-title: Lektion 48
+title: "Lecziun 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 48
@@ -245,8 +246,8 @@ z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/rm/licenses#lekt4801))
+Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
+(Font dal maletg: [Details](/rm/licenses#lekt4801))
 :::
 ## 48.4. Glista da pleds
 
@@ -291,7 +292,7 @@ Declinaziun:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
+Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Gruppa d'autoajut (GAA)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt4804))
 :::

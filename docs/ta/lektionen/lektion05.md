@@ -1,10 +1,11 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "பாடம் 5"
+subtitle: "பெயர்ச்சொல் சேர்க்கைகளின் அடிப்படைகள் (சமாஸம்)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 5

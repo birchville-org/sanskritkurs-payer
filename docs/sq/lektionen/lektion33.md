@@ -1,136 +1,130 @@
 ---
-title: Lektion 33
+title: "# Mësimi 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Mësimi 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. Reduplikimi (⟪अभ्यास⟫ m.)
 
-* Die dritte Präsensklasse
-* (sowie einige Verben anderer Präsensklassen),
-* das Perfekt,
-* der reduplizierte Aorist,
-* das Frequentativum und
-* das Desiderativum
+* Klasa e tretë prezence
+* (dhe disa folje të klasave të tjera prezence),
+* Perfekti,
+* Aoristi i reduplikuar,
+* Frekuentativum dhe
+* Desiderativum
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heisst Reduplikationssilbe.
+formohen me anë të reduplikimit. Pjesa e një forme të reduplikuar, që vendoset përpara rrënjës, quhet sllabë reduplikimi.
 
-Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
+Sllabja e reduplikimit përbëhet nga (një konsonant dhe) një zanore.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. Konsonanti i reduplikimit
 
 ::: grammar-box
-**1. Gewöhnlich:**  
-**Wiederholung des ersten Konsonanten der Wurzel**
+**1. Zakonisht:**  
+**Ripërsëritja e konsonantit të parë të rrënjës**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪दा⟫ 3 "geben"
-* 3.sg.P.Ind.Präs. ⟪ददाति⟫
-
-⟪पॄ⟫ 3 "füllen"
-* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति⟫
-
-⟪मा⟫ 3Ā "messen"
+⟪दा⟫ 3 "të jap"
+* 3.sg.P.Ind.Präs. ⟪ददाति पॄ⟫ 3 "të mbush"
+* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति मा⟫ 3Ā "të mat"
 * 3.sg.Ā.Ind.Präs. :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
+**2. Një konsonant fillimor aspiruar i një rrënje reduplikohet nga konsonanti përkatës jo-aspiruar.**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-:sig[⟪धा⟫] 3 "setzen"
-* 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
-
-⟪भी⟫ 3 "fürchten"
+⟪धा⟫ 3 "të vendos"
+* 3.sg.P.Ind.Präs. ⟪दधाति भी⟫ 3 "të frikësohet"
 * 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
+**3. Një gutural reduplikohet nga palatali përkatës jo-aspiruar:**
 
 :::
 ::: indent
-⟪क्⟫, ⟪ख्⟫ durch ⟪च्⟫  
-⟪ग्⟫, ⟪घ्⟫ durch ⟪ज्⟫
+⟪क्⟫, ⟪ख्⟫ nga ⟪च् ग्⟫, ⟪घ्⟫ nga ⟪ज्⟫
 :::
-**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-Beispiele:
+**⟪ह्⟫ reduplikohet gjithmonë nga ⟪ज्⟫.**
+Shembuj:
 
 ::: indent
-⟪हु⟫ 3 "(zum Opfer) ins Feuer giessen"
+⟪हु⟫ 3 "(në flijim) të derdh në zjarr"
 * 3.sg.P.Ind.Präs. ⟪जुहोति⟫
 :::
 ::: grammar-box
-**4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.**
+**4. Nëse një rrënjë fillon me më shumë se një konsonant, ripërsëritet vetëm i pari (nëse është e nevojshme, duke zbatuar rregullin 2 ose 3).**
 :::
 ::: grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäss obigen Regeln redupliziert.**
+**5. Nëse një rrënjë fillon me një grup konsonantësh zërimor + konsonant i paaspiruar, nuk reduplikohet zërimi, por konsonanti pasues i paaspiruar sipas rregullave të mësipërme.**
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪स्था⟫ 1 "stehen"
+⟪स्था⟫ 1 "qëndroj"
 * 3.sg.P.Ind.Präs. ⟪तिष्ठति⟫
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
+## 33.2. Klasa e tretë prezense (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etj.")
 
 ::: grammar-box
-**Bildung:**
+**Formimi:**
 
-**starker Stamm:**  
-**reduplizierte hochstufige Wurzel + Endung**
+**Stemi i fortë:**  
+**rrënja e reduplikuar me shkallë të lartë + fundi**
 
-**schwacher Stamm:**  
-**reduplizierte tiefstufige Wurzel + Endung**
+**Stemi i dobët:**  
+**rrënja e reduplikuar me shkallë të ulët + fundi**
 
-**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.**
+**Për konsonantin e reduplikimit vlenin rregullat e dhëna më sipër.**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. Vokali i reduplikimit të klasës së tretë prezense
 
 ::: grammar-box
-* **Der regelmässige Reduplikationsvokal ist -i-**
-* **u-haltige Wurzeln reduplizieren mit -u-**
-* **die Wurzeln ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ mit -a-**
+* **Vokali i reduplikimit rregullor është -i-**
+* **Rrënjët që përmbajnë u reduplikojnë me -u-**
+* **rrënjet ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ me -a-**
 :::
-Beispiele:
+Shembuj:
 
 ::: grammar-box
-⟪हु⟫ 3P "(zum Opfer) ins Feuer giessen"
+⟪हु⟫ 3P "(në flijim) derdh në zjarr"
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **Stemi i fortë:** ⟪जुहो⟫
+* **Stemi i dobët:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+| **Indikativ Prezës** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. Rreth ablautit të ā
 
 ā kann
 
-* einerseits Dehnstufe einer der Ablautreihen mit -a- sein
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* nga njëra anë, shkalla e zgjatuar është ajo e njërës prej rreshtave të ablautit me -a-
+* nga ana tjetër, shkalla e lartë në një rresht ablauti të grupit ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Dy rreshtat më të rëndësishëm të ablautit të grupit ā janë:
 
 ::: grammar-box
 **A.**
 
-* **Tiefstufe**
-  * **vor Konsonant: -i-**
-    z.B. :sig[⟪धा⟫] PPP: :sig[⟪हित⟫] (hi-ta)
-  * **vor Vokal: Ø**
-    z.B. :sig[⟪धा⟫] 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
-* **Hochstufe: -ā-**
-  z.B. :sig[⟪धा⟫] 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
+* **Shkalla e ulët**
+* **para konsonantit: -i-**  
+p.sh. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+* **para vokali: Ø**  
+p.sh. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
+* **Shkalla e lartë: -ā-**  
+p.sh. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 :::
-Hierher gehört z.B. auch:
+Këtu përfshihen, për shembull:
 
 ::: indent
 ⟪स्था⟫ 1
@@ -140,56 +134,56 @@ Hierher gehört z.B. auch:
 ::: grammar-box
 **B.**
 
-* **Tiefstufe: -ī-**
-  z.B. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
-* **Hochstufe: -ā-**
-  z.B. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
+* **Niveli i thellë: -ī-**  
+për shembull, ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
+* **Niveli i lartë: -ā-**  
+për shembull, ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
-## 33.4. Wurzeln auf -ā der dritten Präsensklasse
+## 33.4. Rrënjët me -ā të klasës së tretë prezense
 
 ::: grammar-box
-**Wurzeln auf -ā (ausser ⟪दा⟫ und :sig[⟪धा⟫]) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+**Rrënjët me -ā (përveç ⟪दा⟫ dhe ⟪धा⟫) zakonisht përfundojnë me -ī- në rrënën e dobët** (shih Thumb-Hauschild Vol. 1,1 faq. 271. Me sa duket, vargu i mësipërm i ablautit B shërbeu si model, megjithatë këto rrënjë përndryshe ndjekin vargun A), **para fundeve vokalore, vokalrrënës zhduket plotësisht (shih vargun e ablautit A).**
 :::
-Beispiele:
+Shembuj:
 
 ::: grammar-box
-⟪मा⟫ 3Ā "messen"
+⟪मा⟫ 3Ā "mat"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **Indikativ Prezës** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
 | **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-⟪हा⟫ 3P "verlassen"
+⟪हा⟫ 3P "lër"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Indikativ Prezës** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Rrënja ⟪हा⟫ ka të njëjtën formë para Optativ-yā/y si përpara vokaleve!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln ⟪दा⟫ und :sig[⟪धा⟫]
+### 33.4.1. Rrënjët ⟪दा⟫ dhe ⟪धा⟫
 
 ::: grammar-box
-**Die Wurzeln ⟪दा⟫ und :sig[⟪धा⟫] reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
+**Rrënjët ⟪दा⟫ dhe ⟪धा⟫ reduplikohen me vokalin -a- dhe humbasin vokalrrënës në rrënën e dobët.**
 
-**Beachten Sie bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
+**Kujdesuni për ligjin e dissimilimit të aspiratës te ⟪धा⟫!**
 :::
 ::: grammar-box
-:sig[⟪धा⟫] 3U "setzen, festsetzen, zuteilen"
+⟪धा⟫ 3U "vendos, cakto, shpërndaj"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Shpjegim: Thumb-Hauschild 1,1 faq. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Die Formen von ⟪दा⟫ erhält man, indem man im Paradigma von :sig[⟪धा⟫] **dh** durch **d** ersetzt. Also:
+Formet e ⟪दा⟫ fitohen duke zëvendësuar **dh** me **d** në paradigmën e ⟪धा⟫. Pra:
 
 ::: grammar-box
-⟪दा⟫ 3U "geben"
+⟪दा⟫ 3U "jap"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -197,95 +191,95 @@ Die Formen von ⟪दा⟫ erhält man, indem man im Paradigma von :sig[⟪ध�
 | **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
+## 33.5. Participi i Kohës së Tashme Parasmaipada të rrënjëve të klasës së 3-të të Kohës së Tashme
 
 ::: grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
+**Verbat e klasës së 3-të formojnë të gjitha format e Participit të Kohës së Tashme Parasmaipada nga stema e dobët.**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
+**Përjashtim: Nominativ/Akusativ Plural Neutrum mund të formohet opsionalisht nga stema e fortë ose ajo e dobët.**
 :::
-⟪दा⟫ Partizip Präsens Parasmaipada:
+⟪दा⟫ Participi i Kohës së Tashme Parasmaipada:
 
 ::: grammar-box
 | | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
 | **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
-| **2. Akkusativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
+| **2. Akuzativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
 | **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
-| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+| **2. Akuzativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
-Ähnlich ⟪जुह्वत्⟫ (juhu-at + s)
+Ngjashëm ⟪जुह्वत्⟫ (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. Fjalori i fjalëve
 
-⟪दा⟫ 3U ⟪ददाति⟫: geben
+⟪दा⟫ 3U ⟪ददाति⟫: jap
 
 ::: indent
 **Fut.**  ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
+**Pësh.** ⟪दीयते⟫  
 **Kaus.** ⟪दापयति⟫  
 **PPP** ⟪दत्त⟫  
 **Inf.** ⟪दातुम्⟫
 
-davon:
+prej tij:
 
-⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ n.: dhënie, dhuratë, mirësi
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+Fig.: ⟪दानम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (në marrje) merr, zotëron, merr me vete
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**Absol.** ⟪आदाय⟫: me Akk.: në shoqëri të, me
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3307))
 :::
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: vendos, caktson, shpërndan
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
-**Pass.** :sig[⟪धीयते⟫]  
+**Pësh.** :sig[⟪धीयते⟫]  
 **Kaus.** :sig[⟪धापयति⟫]  
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: drejton tërë vëmendjen ndaj diçkaje, mblidhet
 
 ::: indent
-davon:
+prej tij:
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ m.: mbledhje e brendshme, vëmendje më e lartë
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+Fig.: ⟪समाधि⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: mbush, plotëson
 
 ::: indent
-Merke:
+Kujdes:
 3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (nga: \*apipart)  
 3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
 3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
-**Pass.** ⟪पूर्यते⟫  
+**Pësh.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ vetëm **Pësh.** ⟪सम्पूर्यते⟫ dhe **Kaus.**: mbush plotësisht
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: frikësohet nga (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -294,16 +288,16 @@ Merke:
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-davon:
+prej:
 
-⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ n.: frik, tmerr; rrezik (ana e subjektit dhe ana e objektit)
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+Fig.: ⟪भयम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: mbaj, sjell; ruaj, ushqej
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -312,11 +306,11 @@ Abb.: ⟪भयम्⟫
 **PPP** ⟪भृत⟫  
 **Inf.** ⟪भर्तुम्⟫
 
-davon:
+prej:
 
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: barrë
 :::
-⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
+⟪मा⟫ 3Ā ⟪मिमीते⟫: mat
 
 ::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -325,33 +319,33 @@ davon:
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: krahasoj
 
 ::: indent
-davon:
+prej:
 
-⟪उपमा⟫ f.: Vergleich
+⟪उपमा⟫ f.: krahasim
 
-⟪प्रतिमा⟫ f.: Abbild
+⟪प्रतिमा⟫ f.: imazh
 :::
-⟪हा⟫ 3P ⟪जहाति⟫: verlassen
+⟪हा⟫ 3P ⟪जहाति⟫: braktis
 
 ::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
 **Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
+**PPP** ⟪हीन⟫: i braktisur, pa të, i paplotë  
 **Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+nga PPP ⟪हीन⟫:
 
-⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+⟪हीनयान⟫ n.: mjeti i paplotë (i Budizmit): emër poshtërues nga përfaqësuesit e "Vehikulit të Madh", i ⟪महायान⟫; rruga e paplotë (⟪यान⟫ për në ⟪या⟫ 2: shko, udhëtoj). Shprehja ⟪हीनयान⟫ nuk duhet të përdoret më. Forma e mbijetuar e Budizmit të vjetër quhet ⟪थेरवाद⟫.
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+Fig.: ⟪हीनयानमेव⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 3P ⟪जुहोति⟫: derdh në zjarr (si flijim, veçanërisht yndyrnë të shkrirë)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -362,58 +356,36 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+Fig.: ⟪घृतमग्नौ जुहोति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3302))
 :::
-⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ n.: Yje i shkrirë, Ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+"Ghee përgatitet duke zierur yje të paaltosur në një tenxhere të madhe derisa të avullojë krejt uji dhe proteinat të vendosen në fund. Më pas, yji i pjekur dhe i pastruar hiqet me lugë për të shmangur shqetësimin e ngurtësirave qumështore në fund të tenxheres. Ndryshe nga yji, ghee mund të ruhet për periudha të gjata pa nevojë për ftohës, me kusht që të ruhet në një enë hermetikisht të mbyllur për të parandaluar oksidimin dhe mbetet pa lagështi. Tekstura, ngjyra ose shija e ghee varet nga burimi i qumështit nga i cili është bërë yji. Në Indi, ghee zakonisht përgatitet me qumësht të kafshëve ujore pasi tendencën për të qenë më i bardhë se yji i lopës."
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[Burimi: http://en.wikipedia.org/wiki/Ghee. -- Hyrja më 2008-12-26]
 :::
-## 33.7. Übung
+## 33.7. Ushtrim
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
+A) Plotësoni në modelin e mëposhtëm të fjalisë format përkatëse të fjalëve në kllapa:
 
-⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
+⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने बहुवचने च⟫) ... ⟪अन्नं ददाति ।⟫ (⟪भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु⟫)
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
+B) Plotësoni format përkatëse të foljeve të dhëna në kllapa në Indikativ Prezent, Imperfekt dhe Optativ:
 
-⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
+⟪ब्राह्मणो घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥ बुद्धगता भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥ सुगतः कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥ दुर्जना भिक्षुभ्यो ऽन्नं न⟫ ... (⟪दा⟫) ⟪॥४॥ साधुः कृष्णे मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 
-⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫
+⟪ईश्वरो लोकान्⟫ ... ⟪जनास्तु न⟫ ... (⟪मा⟫) ⟪॥६॥ दासा भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥ ब्राह्मणी पात्रं जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
-⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫
+C) Përktheni dhe shndërroni fjali në numrin njëjës në shumës dhe anasjelltas:
 
-⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫
-
-⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
-
-⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫
-
-⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫
-
-⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
-
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt:
-
-⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
-
-⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
+⟪योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥ यो भिक्षवे दानानि दद्यात्सो ऽपि दानपुण्यमाददीत ॥२॥ ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3308.webp)
-Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Bildquelle: [Details](/licenses#lekt3308))
+Fig.: ⟪पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3308))
 :::
-⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
-
-⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
-
-⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
-
-⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
+⟪क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥ देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥ यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥ मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥⟫
 

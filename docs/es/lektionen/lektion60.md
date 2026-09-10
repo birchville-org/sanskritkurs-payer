@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lección 60"
+subtitle: "Las desinencias duales del perfecto (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 60

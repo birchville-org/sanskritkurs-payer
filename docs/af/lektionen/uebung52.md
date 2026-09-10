@@ -1,8 +1,9 @@
 ---
 title: "Oefening 52"
 uebung_id: 52
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -13,39 +14,39 @@ last_reconstructed: 2026-05-15
 **⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
 **⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
 
-> Jede Tat, die auf fremdem Willen beruht, vermeide man eifrig; was aber aus eigenem Willen geschieht, das pflege man eifrig.
+> Elke daad wat op 'n ander se wil berus, moet 'n mens ywerig vermy; maar wat uit 'n mens se eie wil voortspruit, moet 'n mens ywerig koester.
 
 **⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
 **⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
 
-> Alles, was auf fremdem Willen beruht, ist leidvoll; alles, was auf eigenem Willen beruht, ist Glück. Das soll man zusammengefasst als das Merkmal von Glück und Leid kennen.
+> Alles wat op 'n ander se wil berus, bring lyding; alles wat op eie wil berus, is geluk. Dit moet 'n mens saamvattend as die kenmerk van geluk en smart verstaan.
 
 **⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
 **⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
 
-> Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
+> Wat tot innerlike bevrediging lei wanneer 'n mens dit doen, dít moet 'n mens ywerig beoefen; maar die teendeel moet 'n mens nalaat.
 
 ::: media
 ![](/images/uebung087.webp)
-Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Bildquelle: [Details](/licenses#uebung087))
+Afb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
+(Beeldbron: [Details](/af/licenses#uebung087))
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Oor die bronne van ⟪धर्म⟫
 
 **⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
 **⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> Die Wurzel des Dharma ist:
-> * der gesamte Veda
-> * die Überlieferung und die Sitte der Vedakundigen
-> * das Verhalten der Guten
-> * die Zufriedenheit der Seele
+> Die wortel van Dharma is:
+> * die hele Veda
+> * die oorlewering en die gebruike van die Veda-kundiges
+> * die gedrag van die goeies
+> * die tevredenheid van die siel
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Oor ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in die lewe van die vors
 
 **⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
@@ -59,66 +60,66 @@ Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> So halte er seine Sinne unter Kontrolle, meide fremde Frauen, fremdes Gut und Gewalt, und vermeide Schlaf, Lüsternheit, Lüge, Geckenhaftigkeit, Unnützes und unrechte oder unnütze Geschäfte. Er gebe sich der Lust hin, ohne dass dadurch Recht und zweckrationales Verhalten gestört werden; er sei nicht freudlos. Oder er pflege gleichmässig alle drei Lebensziele, die miteinander verbunden sind. Wenn man sich nämlich einem von Recht und Sitte, zweckrationalem Verhalten und Lust übermässig hingibt, dann bedrückt das die Seele und die beiden anderen Ziele. Kauṭilya sagt, dass zweckrationales Verhalten (**Artha**) das Wichtigste ist. Recht und Sitte sowie Lust wurzeln nämlich in zweckrationalem Handeln.
+> Laat hom dus sy sintuie onder beheer hou, vreemde vroue, ander se besittings en geweld vermy, en laat hom slaap, wellus, leuens, ydelheid, nutteloosheid en onregverdige sake vermy. Laat hy hom aan vreugde oorgee sonder dat geregtigheid en doelgerigte gedrag daardeur versteur word; laat hom nie vreugdeloos wees nie. Of laat hom al drie lewensdoelwitte gelykmatig koester, wat onderling verbind is. Want as 'n mens jou oormatig aan een van geregtigheid, doelgerigte gedrag of genot oorgee, onderdruk dit die siel en die ander twee doelwitte. Kauṭilya sê dat doelgerigte gedrag (**Artha**) die belangrikste is, aangesien sedes en vreugde in doelgerigte handeling gewortel is.
 
 ---
 
-## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫
+## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫de eeu n.C.): ⟪बुद्धचरित⟫ ⟪४⟫
 
 Buddhas erlösende Erkenntnis:
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Als er mit Festigkeit und Ruhe das Heer Māras besiegt hatte, wollte der in Meditation Erfahrene die höchste Wahrheit und Wirklichkeit völlig erkennen und meditierte.
+> Nadat hy Māra se leër met standvastigheid en kalmte verslaan het, wou hy wat ervare was in meditasie die hoogste waarheid en werklikheid ten volle begryp en het hy gemediteer.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Er brachte es zur höchsten Meisterschaft in allen Meditationsmethoden und erinnerte sich in der ersten Nachtwache an die ununterbrochene Abfolge seiner Wiedergeburten.
+> Hy het die hoogste bemeestering in alle meditasiemetodes bereik en het in die eerste nagwaak die ononderbroke opeenvolging van sy hergeboortes onthou.
 
 **⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
 **⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> "Dort war ich der So-und-so, von dort geschieden bin ich hierher gekommen" – so erinnerte er sich an Tausende von Geburten, so als ob er sie gerade erfahren würde.
+> "Daar was ek so-en-so; nadat ek daarvandaan vertrek het, het ek hierheen gekom" – so het hy duisende geboortes onthou, asof hy dit nou beleef.
 
 **⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
 **⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 
-> Als er sich so an Geburt und Tod in diesen verschiedenen Existenzen erinnert hatte, entfaltete er gegenüber den Wesen Mitgefühl, er, dessen Wesen Mitgefühl ist.
+> Toe hy so geboorte en dood in hierdie verskillende eksistensies onthou het, het hy deernis teenoor alle wesens ontwikkel, hy wie se natuur deernis is.
 
 **⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
 **⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Wahrlich, diese Welt ist ohne Rettung und irrt herum wie ein Rad: sie entlässt ihre Geschöpfe hier und dann wieder dort.
+> Waarlik, hierdie wêreld is sonder toevlug en dwaal rond soos 'n wiel: dit laat sy skepsele hier en dan weer daar vry.
 
 **⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
 **⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> Als er sich entschlossenen Herzens so erinnerte, kam er zur festen Erkenntnis: Der Lauf der Wiedergeburten ist ohne Mark und Kern wie das Innere einer Bananenpflanze.
+> Toe hy met 'n vasberade hart so onthou het, het hy tot die vaste besef gekom: Die kringloop van hergeboortes is sonder murg en kern, soos die binnekant van 'n piesangplant.
 
 **⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
 **⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Als die zweite Nachtwache gekommen war, hat er, dessen Macht wie die keines Zweiten ist, das höchste himmlische Auge bekommen, er, der Beste aller, die ein Auge haben.
+> Toe die tweede nagwaak aangebreek het, het hy die hoogste hemelse oog ontvang, hy die beste van almal wat oë het.
 
 **⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
 **⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> Dann sah er mit diesem völlig reinen himmlischen Auge die ganze Welt wie in einem makellosen Spiegel.
+> Toe het hy met hierdie volkome suiwer hemelse oog die hele wêreld gesien soos in 'n vlekkelose spieël.
 
 **⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
 **⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> Als er das Vergehen und Entstehen der Wesen sah, die gutes oder schlechtes Karma hatten, da wuchs das Mitgefühl in seinem Herzen.
+> Toe hy die vergaan en ontstaan van wesens met goeie of slegte karma aanskou het, het die medelye in sy hart gegroei.
 
 **⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
 **⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
+> "Hierdie wesens wat bose dade gepleeg het, gaan na 'n slegte bestaan; hierdie ander wat goeie karma het, herrys weer in Indra se hemel."
 
 ::: media
 ![](/images/uebung088.webp)
-Abb.: ⟪कदलीगर्भनिःसारः⟫
-(Bildquelle: [Details](/licenses#uebung088))
+Afb.: ⟪कदलीगर्भनिःसारः⟫
+(Beeldbron: [Details](/af/licenses#uebung088))
 :::

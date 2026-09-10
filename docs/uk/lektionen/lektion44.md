@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Урок 44"
+subtitle: "Утворення дієслівних форм другої особи (⟪मध्यमः⟫) безтематичних основ із суфіксом, що закінчується на голосний"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 44

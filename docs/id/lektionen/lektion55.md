@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Pelajaran 55"
+subtitle: "Aorist-a (Aorist dengan vokal tema)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 55

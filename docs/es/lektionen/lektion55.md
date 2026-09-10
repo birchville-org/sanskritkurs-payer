@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Lección 55"
+subtitle: "El aoristo en -a (aoristo con vocal temática)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 55

@@ -1,6 +1,6 @@
 ---
 title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+subtitle: "Χρήση του Parasmaipada (⟪परस्मैपद⟫) και Ātmanepada (⟪आत्मनेपद⟫) στο Αιτιατικό"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"

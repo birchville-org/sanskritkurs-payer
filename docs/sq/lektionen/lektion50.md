@@ -1,109 +1,105 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "Mësimi 50"
+subtitle: "Formimi i emrave: rritja e rregullt"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 50
 
-## 50.1. Nominalbildung: regelmässige Steigerung
+## 50.1. Formimi i emrave: shkallëzimi rregullor
 
 ::: grammar-box
-**Die regelmässige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"**
+**Shkallëzimi rregullor bëhet në sanskrit me prapashtesat ⟪तद्धित⟫**
+* **-⟪तर⟫ (fem.: ⟪तरा⟫) në "Krahasor"**
+* **⟪तम⟫ (fem.: ⟪तमा⟫) në "Mbi krahasor"**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.**
+**Këto prapashtesa i shtohen rrënjës mashkullore adjektivave. Për emrat me gradim rrënje, ato i shtohen formës së dobët që ka të njëjtën formë si para mbarimit -su të Lokativit (⟪पञ्चमी⟫) në shumës.**
 :::
 ::: media
 ![](/images/lekt5007.webp)
-Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007))
+Fig.: ⟪लोकस्योत्तमो गिरिः सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mali Everest
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5007))
 :::
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":**
+**"Krahasori" do të thotë, kur nuk shprehet një objekt krahasues: "mjaft, shumë, tepër":**
 
 :::
 ::: indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
+p.sh. ⟪सुचितर⟫ 3 "mjaft i pastër", "shumë i pastër", "tepër i pastër"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
+**Nëse shprehet një objekt krahasues, ky qëndron në Ablativ (⟪पञ्चमी⟫). Krahasori + Ablativi i përgjigjet shkallëzimit me "se" në gjermanisht.**
 
 ::: indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
+p.sh. ⟪देवदत्ताद्रामो धीमत्तरः⟫ = fjalë për fjalë: "Duke parë nga Devadatta, Rāma është më i mençur" = "Rāma është më i mençur se Devadatta"
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äusserst, sehr":**
+**"Mbi krahasori" do të thotë, kur nuk shprehet një objekt krahasues: "jashtëzakonisht, shumë":**
 
 ::: indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äusserst gut, sehr gut"
+p.sh. ⟪सत्तम⟫ 3 (nga ⟪सन्त्⟫) "jashtëzakonisht i mirë, shumë i mirë"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
+**Nëse shprehet një objekt krahasues, ky qëndron në Gjenitiv (⟪षष्ठी⟫) ("nga", "në mes") dhe mbi krahasori i përgjigjet mbi krahasorit gjerman (shkalla më e lartë):**
 
 ::: indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
+p.sh. ⟪द्विजानां सत्तमः⟫ = "më i miri i dyfishtë të lindurve"
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
+**Mbaresat -⟪⟪तर⟫⟫ dhe -⟪⟪तम⟫⟫ mund të mos vijnë vetëm mbi adjektivet, por edhe mbi emrat, indeklinablat dhe madje edhe format verbale:**
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas)
+⟪गजतम⟫ mashk. "diku më i mirë elefant" (⟪गज⟫) (gjithashtu emërtim i Budës)
 
-⟪गोतम⟫ m. "der grösste Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
+⟪गोतम⟫ mashk. "diku më i madh dem" (⟪गो⟫) ose: "më i pasur në lopë"
 
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
+⟪उद्⟫ indekl. "në", "lart" » ⟪उत्तर⟫ 3 "më i lartë" » ⟪उत्तम⟫ 3 "më i larti"
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
+**Kur këto mbaresa vijnë mbi një formë verbale, ato shfaqen gjithmonë në formën adverbiale:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser"
+⟪पचतितराम्⟫ "ai/e ajo/ajo bën më mirë"
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
+⟪पचतितमाम्⟫ "ai/e ajo/ajo bën më së miri"
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
+**Kjo formë e kanë këto mbaresa edhe kur vijnë mbi një indeklinabël dhe fjalia e nxjerrur përdoret si adverb:**
 
 ::: indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
+p.sh. ⟪सुतराम्⟫ (për ⟪सु⟫) "në mënyrë më të mirë" (adverbialisht)
 :::
 ::: media
 ![](/images/lekt5006.webp)
-Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006))
+Fig.: ⟪का पचतितमाम्⟫
+Lisu = 傈僳族, ⟪अरुणाचल प्रदेश⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5006))
 :::
-## 50.2. Wortliste
+## 50.2. Fjalor
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
+⟪ध्रुव⟫ 3: i fortë, i pandryshueshëm
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
+⟪निषेक⟫ mashk.: shpërthim, pjellshmëri, lëngje, ejakulat, ceremoni gjatë konceptimit
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
+⟪पण्डित⟫ 3: i zgjuar, i mençur, i ditur
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : të neglizhosh, të përçmos
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+⟪मन्त्रिन्⟫ 3: këshillues ; mashk.: këshilltar, anëtar i këshillit, ministër
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
-:::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
-
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+Fig.: ⟪मन्त्री⟫
+Kapil Sibal (1948 -), ministër i Bashkimit në Ministrinë e Shkencës dhe Teknologjisë dhe Ministrisë së Shkencave të Tokës (që nga 2006)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5001))
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -112,7 +108,7 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : shkatërroj, shkatërron
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -121,11 +117,11 @@ Pass. ⟪लुप्यते⟫
 Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+Gerundiv ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: gjithashtu: fat (për ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : bën shi (zakonisht me një ⟪कर्तृ⟫ -- një hyjni ose qiell)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -134,161 +130,123 @@ Pass. ⟪वृष्यते⟫
 Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+Fig.: ⟪महामेघो वर्षिष्यति⟫
+Ardhja e monsunit, Bangalore  ಬೆಂಗಳೂರು
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ Adv.: saktë, i vërtetë, në mënyrën e duhur ; plotësisht, krejtësisht
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ m.: diell ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : një klasë e caktuar hyjnore
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+Fig.: ⟪आदित्यः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: çdo, të gjithë
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+Deklinim si ⟪यद्⟫ (përjashtim: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **Maskulin:br⟪पुंस्⟫** | **Neutër:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** | **Maskulin:br⟪पुंस्⟫** | **Neutër:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **2. Akuzativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **6. Gjenitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : Partikel që thekson fjalën paraardhëse: vërtet, me të vërtetë, por
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Ndajf.: këtu, këtu në tokë, këtej ; tani. Para emrave në Lokativ (⟪षष्ठी⟫) me kuptim të njëjtë si ⟪अस्मिन्⟫, ⟪अस्याम् कल्प⟫ m: rregull, zakon, rituell ; [Epokë bote](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (nga ⟪कॢप्⟫)
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) : i bukur
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+Fig.: ⟪कल्याणी⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- : si pjesë e parë e kompozitave: keq
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+Fig.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : shoh
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+nuk përdoret në tempot e tjera
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : tregoj, konsideroj, quaj
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.: vend, hapësirë, tokë, rajon
 
-## 50.3. Übersetzungsübung
+## 50.3. Ushtrim përkthimi
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
+A) Për përsëritjen e deklinimit: vargu i mëposhtëm përmban të gjitha format e deklinimit në numrin njëjës për ⟪गुरु⟫ m.:
 
 ::: indent
-⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
-⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
-⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
-⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
+⟪गुरुरेव गतिर्गुरुमेव भजे गुरुणैव सहास्मि नमो गुरवे । न गुरोः परमं शिशुरस्मि गुरोर् मतिरस्ति गुरौ मम पाहि गुरो ॥⟫
 :::
 ::: media
 ![](/images/lekt5008.webp)
-Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
-Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008))
+Fig.: ⟪गुरुमेव भजे⟫
+Ganeshpuri, 80 km larg Mumbai (⟪मुंबई⟫)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5008))
 :::
-B) Übersetzen Sie:
+B) Përktheni:
 
-⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
+⟪मनुस्मृति ४⟫, ⟪१७८⟫
 
 ::: indent
-⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
-⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
-⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
-⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫
+⟪येनास्य पितरो याता येन याताः पितामहाः । तेन यायात्सतां मार्गम् तेन गच्छन्न रिष्यते ॥१॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+⟪मनुस्मृति ३⟫, ⟪६३⟫
 
 ::: indent
-⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
-⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
-⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
-⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫
+⟪कुविवाहैः क्रियालोपैर् वेदानध्ययनेन च । कुलान्यकुलतां यान्ति ब्राह्मणातिक्रमेण च ॥२॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+⟪मनुस्मृति ३⟫, ⟪६०⟫
 
 ::: indent
-⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
-⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
-⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
+⟪संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+⟪मनुस्मृति ३⟫, ⟪७५⟫ - ⟪७६⟫: Mbi nevojën e flijimit
 
 ::: indent
-⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
-⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
-⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
-⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥४॥⟫
-⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫
-⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫
-⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫
-⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫
+⟪स्वाध्याये नित्ययुक्तः स्याद् दैवे चैवेह कर्मणि । दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥४॥ अग्नौ प्रास्ताहुतिः सम्यग् आदित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर् वृष्टेरन्नं ततः प्रजाः ॥५॥⟫
 :::
-⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+⟪योगसूत्र २⟫, ⟪१६⟫ - ⟪१७⟫
 
 ::: indent
-⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-:sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
+⟪हेयं दुःखमनागतम् ॥६॥⟫
+sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो हेयहेतुः ॥७॥⟫
 
-Erklärung:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva)
+Shpjegim:
+⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva)
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+⟪कौटिलीयार्थशास्त्र १⟫, ⟪१५⟫: Mbi këshilltarët e mbretit
 
 ::: indent
-⟪न⟫ ⟪किंचिदवमन्येत⟫
-⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
-⟪बालस्याप्यर्थवद्वाक्यम्⟫
-⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
+⟪न किंचिदवमन्येत सर्वस्य शृणुयानमतम् । बालस्याप्यर्थवद्वाक्यम् उपयुन्जीत पाण्डितः ॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+⟪मनुस्मृति २⟫, ⟪१४०⟫ - ⟪१४२⟫: Përkufizimi i ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 ::: indent
-⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
-⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
-⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
-⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥९॥⟫
+⟪उपनीय तु यः शिष्यं वेदमधापयेत्द्द्विजः । सकल्पं सरहस्यं च तमाचार्यां प्रचक्षते ॥९॥ एकदेशं तु वेदस्य वेदाङ्गान्यपि वा पुनः । यो ऽध्यापयति वृत्त्यर्थम् उपाध्यायः स उच्यते ॥१०॥ निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि यः करोति यथाविधि । संभावयति चान्नेन स विप्रो गुरुरुच्यते ॥११॥⟫
 
-⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫
-⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫
-⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
-⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
-
-⟪निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि⟫
-⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
-⟪संभावयति⟫ ⟪चान्नेन⟫
-⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
-
-Erklärungen:
+Shpjegime:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
 :::
 

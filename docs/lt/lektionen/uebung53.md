@@ -1,11 +1,12 @@
 ---
-title: "Exercise 53"
+title: "Pratimas 53"
 uebung_id: 53
-category: "Exercise"
+category: "Übung"
+
 ---
 
-# Užduotis 53
+# Pratimas 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+Pratima prie Lektijos 53 yra metrinė analizė (Šlokos schema nustatymas) visų ankstesnėse lekcijose išmoktų šlokų.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Kadangi tai yra išsanti kartojimo ir analizės užduotis, nėra atskiro sprendimų rakto klasikinė prasme. Sprendimai gaunami taikant Lektijoje 53 perteiktas taisykles jau žinomiems tekstams.

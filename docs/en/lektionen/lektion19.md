@@ -62,11 +62,11 @@ Note: In relative clauses of general validity, the optative is often used instea
 
 | | **Masculine** :br ⟪पुंस्⟫ | **Neuter** :br ⟪नपुंसक⟫ | **Feminine** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
->> | **Singular** :br ⟪एकवचन⟫ | **1. Nominative** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| **Singular** :br ⟪एकवचन⟫ | **1. Nominative** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
 | | **2. Accusative** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
 | | **3. Instrumental** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
 | | **6. Genitive** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
->> | **Plural** :br ⟪बहुवचन⟫ | **1. Nominative** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| **Plural** :br ⟪बहुवचन⟫ | **1. Nominative** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **2. Accusative** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumental** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
 | | **6. Genitive** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
@@ -187,7 +187,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 4\. Fire burns the house of the man who does not honor Agni with a sacrifice.
 
->> 5\. The tiger-like man slays the Kṣatriya warriors who have defeated Rāma (Passive).
+5\. The tiger-like man slays the Kṣatriya warriors who have defeated Rāma (Passive).
 
 ## 19.5. ⟪सुभाषितानि⟫
 

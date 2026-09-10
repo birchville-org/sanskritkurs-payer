@@ -275,17 +275,29 @@ Krallar hediye yağdırır.
 ⟪सदा देवाः स्मर्यन्ते।⟫
 Onlar tanrıları daima hatırlar.
 
+⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ |
+⟪ग्रामं गम्यते । ग्रामो गम्यते ।⟫
+Köyü ziyaret ederler.
+
+⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
+⟪दानानि वृष्यन्ते नृपैः ॥⟫
+Krallar hediye yağdırır.
+
+⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ |
+⟪सदा देवाः स्मर्यन्ते।⟫
+Tanrıları daima hatırlarlar.
+
 ⟪२⟫. ⟪ऋषिभी रामो वसति⟫ |
 ⟪ऋषिभिः सह रामेणोष्यते ।⟫
 Rāma vedik bilgelerle birlikte yaşar.
 
 ⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ |
 ⟪हरिः क्षीरेणेज्यते ।⟫
-O, bir süt sunağı ile Hari'yi şereflendirir.
+Onu bir süt sunumuyla Hari'ye tapar.
 
 ⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ |
 ⟪मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।⟫
-Onlar yolda köye giderler.
+Yolda köye giderler.
 
 ⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ |
 ⟪धनेने नरैः सुखमिष्यते ।⟫
@@ -317,6 +329,6 @@ Arabacı arabayı yönetir.
 
 ::: media
 ![](/images/uebung012.webp)
-Abb.: ⟪सारथी रथं नयति⟫
-(Bildquelle: [Details](/licenses#uebung012))
+Resim: ⟪सारथी रथं नयति⟫
+(Resim kaynağı: [Detaylar](/licenses#uebung012))
 :::

@@ -122,7 +122,7 @@ Pav.: Viršelio pavadinimas
 Gerą, glaustą Europos kalbotyros terminijos aprašymą rasite:
 
 ::: literatur-box
-**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Parengė Elmar Seebold. -- 24-asis peržiūrėtas ir papildytas leidimas. -- Berlin [u.a.] : de Gruyter, 2002. -- 1023 p. -- ISBN 3-11-017473-1.I.
 :::
 
 ::: media
@@ -133,7 +133,7 @@ Pav.: Viršelio pavadinimas
 
 Smalsiems ieškantiems papildomos informacijos:
 
-> **Lexikon der Sprachwissenschaft** / herausgegeben von Hadumod Bussmann. -- 4., durchgearbeitete und bibliographisch ergänzte Auflage / unter Mitarbeit von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / išleido Hadumod Bussmann. -- 4-asis pataisytas ir bibliografiškai papildytas leidimas / bendradarbiaujant Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. Sanskrito garsai

@@ -62,15 +62,15 @@ status: stable
 | **Imperfek** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
->> ## 44.2. Tentang Wortsandhi
+## 44.2. Tentang Wortsandhi
 
->> Pada akar present yang berakhir dengan konsonan, hukum-hukum Wortsandhi yang telah dibahas sebelumnya harus diperhatikan.
+Pada akar present yang berakhir dengan konsonan, hukum-hukum Wortsandhi yang telah dibahas sebelumnya harus diperhatikan.
 
->> Selain itu, hukum-hukum Wortsandhi berikut juga diterapkan.
+Selain itu, hukum-hukum Wortsandhi berikut juga diterapkan.
 
 (Kumpulan lengkap semua perubahan fonetik yang relevan dapat ditemukan di Kielhorn, Grammatik S. 76f.)
 
->> ### 44.2.1. Tentang Wortsandhi untuk dh-
+### 44.2.1. Tentang Wortsandhi untuk dh-
 
 grammar-box
 1. **Aspirata diganti dengan non-aspirat yang sesuai sebelum aspirata:**
@@ -82,7 +82,7 @@ Contoh: ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे�
 4. **-s + dh- » -dh-** (Penghilangan -s)
 Contoh: ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 
->> ### 44.2.2. Tentang Wortsandhi untuk s-
+### 44.2.2. Tentang Wortsandhi untuk s-
 
 grammar-box
 1. **-s + s- » -ts- atau (tidak opsional!) -ss-** (seperti pada Kelas Present ke-2)

@@ -1,10 +1,11 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "Lecție 21"
+subtitle: "Alte teme de prezent în -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 21

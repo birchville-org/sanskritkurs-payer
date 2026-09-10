@@ -1,10 +1,11 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lección 22"
+subtitle: "El absolutivo (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 22
@@ -145,7 +146,7 @@ Raíz en **-a** + **-tya**
 ![](/images/lekt2202.webp)
 Ilustración: ⟪कामदेवः⟫
 19. Jhdt
-(Origen de la imagen: [Detalles](/licenses#lekt2202))
+(Origen de la imagen: [Detalles](/es/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pas.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 
@@ -244,20 +245,4 @@ Goa = ⟪गोंय⟫
 ⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
 
 ⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Convierta las oraciones anteriores (excepto las oraciones 8 y 10) en construcciones pasivas**
-
-::: media
-![](/images/lekt2204.webp)
-Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
-::: \<!--  --\>
-
 :::
-

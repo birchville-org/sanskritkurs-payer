@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lecție 60"
+subtitle: "Desinențele duale ale perfectului (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 60

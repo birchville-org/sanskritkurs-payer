@@ -1,10 +1,11 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Урок 36"
+subtitle: "Особливі утворення перфекту"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 36

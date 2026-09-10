@@ -1,214 +1,215 @@
 ---
-title: "Exercise 8"
+title: "[Vježba 8]"
 uebung_id: 8
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 8
+# Vježba 8
 
-A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:
+A) Objasnite sljedeće imenice navođenjem korijena iz kojeg su izvedene i nominalnog sufiksa. Navedite rod i značenje:
 
-1\. lobha: lubh 4 P "begehren" + -a m.: "Begierde"
+1\. lobha: lubh 4 P "želeti" + -a m.: "požuda, pohlepa"
 
-2\. rakṣa: rakṣ 1 P "hüten" + -a 3: "hütend, beschützend" ; m.: "Wächter"
+2\. rakṣa: rakṣ 1 P "čuvati" + -a 3: "čuvar, zaštitnik"; m.: "stražar"
 
-3\. śrotra: śru 5 P "hören" + -tra n.: "Ohr"
+3\. śrotra: śru 5 P "čuti" + -tra n.: "uho"
 
-4\. mati: man 4 Ā "denken" + -ti f.: "Gedanke, Meinung"
+4\. mati: man 4 Ā "misliti" + -ti f.: "misao, mišljenje"
 
-5\. savana: su 5 U "auspressen" + -ana n.: "Somapressung"
+5\. savana: su 5 U "cijediti" + -ana n.: "cijedjenje Soma"
 
-6\. yodha: yudh 4 Ā "kämpfen" + -a m.: "Kämpfer, Soldat"
+6\. yodha: yudh 4 Ā "boriti se" + -a m.: "ratnik, vojnik"
 
-7\. lābha: labh 1 Ā "erhalten" + -a m.: "Bekommen, Gewinn"
+7\. lābha: labh 1 Ā "dobiti" + -a m.: "dobitak, dobit"
 
-8\. kāraṇa: kṛ 8 U "machen, tun" + -ana n.: "Ursache, Grund"
+8\. kāraṇa: kṛ 8 U "učiniti, napraviti" + -ana n.: "uzrok, razlog"
 
-9\. gati: gam 1 P "gehen" + -ti f.: "Gang, 'Laufbahn', Ziel"
+9\. gati: gam 1 P "ići" + -ti f.: "hod, 'karijera', cilj"
 
-10\. khādana: khād 1 P "kauen" + -ana n.: "Kauen, Verzehr, Futter"
+10\. khādana: khād 1 P "žvakati" + -ana n.: "žvakanje, konzumacija, hrana za životinje"
 
-11\. smara: smṛ 1 P "vergegenwärtigen" + -a m.: "Erinnerung, Gedächtnis, Sehnsucht, Liebe"
+11\. smara: smṛ 1 P "podsjetiti" + -a m.: "sjećanje, pamćenje, čežnja, ljubav"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "Emanation, Schöpfung"
+12\. sṛṣṭi: sṛj 6 P / 4 A "emanirati, stvoriti" + -ti: "emanacija, stvaranje"
 
-13\. tantra: tan 8 U "aufspannen" + -tra n.: "Webkette, Gewebe"
+13\. tantra: tan 8 U "napeti, razvući" + -tra n.: "osnova (tkanja), tkanina"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter"
+14\. bhāva: bhū 1 P "postati, biti" + -a m.: "postajanje, priroda, karakter"
 
-15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System"
+15\. darśana: dṛś (4 P: paśyati) "vidjeti" + -ana n-: "viđenje, pojava, pogled na svijet, filozofski sustav"
 
-16\. netra: nī 1 U "führen" + -tra n.: "Auge"
+16\. netra: nī 1 U "voditi" + -tra n.: "oko"
 
-17\. veśana: viś 6 P "eintreten" + -ana n.: "Eintritt"
+17\. veśana: viś 6 P "ući" + -ana n.: "ulazak"
 
-18\. kopa: kup 4 P "zürnen" + -a m.: "Zorn"
+18\. kopa: kup 4 P "gnjevati se" + -a m.: "gnjev, bijes"
 
-19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "Loslassen, Emanation, Schöpfung"
+19\. sarga: ṛj 6 P / 4 A "emanirati, stvoriti" + -a m.: "ispuštanje, emanacija, stvaranje"
 
-20\. yajana: yaj 1 U "opfern" + -ana n.: "Opfern, Opferplatz"
+20\. yajana: yaj 1 U "žrtvovati" + -ana n.: "žrtvovanje, mjesto žrtve"
 
 21\. moha: muḥ 4 P "verwirrt sein" + -a m.: "Verwirrtsein, Verblendung, Irrtum"
 
 22\. śrava: śru 5 P "hören" + -a m.: "Hören"
 
-23\. bhavana: bhū 1 P "werden, sein" + -ana n.: "Werden, Entstehen, Entstehung"
+23\. bhavana: bhū 1 P "to become, to be" + -ana n.: "becoming, arising, origin"
 
-24\. nīti: nī 1 U "führen" + -ti f.: "Führung"
+24\. nīti: nī 1 U "to lead" + -ti f.: "leadership"
 
 25\. nartana: nṛt 4 P "tanzen" + -ana 3: "tanzend, Tänzer" ; n.: "Tanz"
 
-26\. jaya: ji 1 P "siegen" + -a m.: "Siegen, Sieg"
+26\. jaya: ji 1 P "to conquer" + -a m.: "conquering, victory"
 
 27\. nayana: nī 1 U "führen" + -ana n.: "Auge"
 
 28\. śravaṇa: śru 5 P "hören" + -ana n.: "Ohr"
 
-B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich)
+B) Formirajte apstrakte od svih do sada naučenih imenica i razmislite o njihovom značenju (usmeno)
 
-C) Setzen Sie als direktes Objekt im Singular und Plural ein:
+C) Umetnite kao direktni objekat u jedini i množini:
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
+⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+D) Prevedite
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Kṣatriyas čuvaju i brahmane i vaiśye i śūdre. (2 mogućnosti)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
+⟪क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।⟫
 
-2\. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
+2\. A holy man sees both heaven and hell.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪साधुः स्वर्गांश्च नरकांश्च पश्यति ।⟫
 
-3\. Er besiegt Kṣatriyas.
+3\. He defeats the Kṣatriyas.
 
 kṣatriyāñ jayati.
 
-⟪क्षत्रियञ्जयति⟫ ⟪।⟫
+⟪क्षत्रियञ्जयति ।⟫
 
-4\. Sie spannt die Webkette auf.
+4\. She sets up the warp.
 
 tantraṃ tanoti.
 
-⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
+⟪तन्त्रं तनोति ।⟫
 
-5\. Soldaten kämpfen.
+5\. Soldiers fight.
 
 yodhā yudhyante.
 
-⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪योधा युध्यन्ते ।⟫
 
-6\. Der Brahmane macht ein Feuer.
+6\. The Brahmin makes a fire.
 
 brāhmaṇo 'gniṃ karoti.
 
-⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
+⟪ब्राह्मणो ऽग्निं करोति ।⟫
 
-7\. Brahmanen machen Feuer.
+7\. Brahmins make fires.
 
 brāhmaṇā agniṃ kurvanti.
 
-⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा अग्निं कुर्वन्ति ।⟫
 
-8\. Was tun diese Kämpfer?
+8\. What are these warriors doing?
 
 ime yodhāḥ kiṃ kurvanti?
 
-⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪इमे योधाः किं कुर्वन्ति ।⟫
 
-9\. Wen sieht das Auge?
+9\. Whom does the eye see?
 
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं पश्यति ।⟫
 
-10\. Was begehren Götter?
+10\. What do the gods desire?
 
 devāḥ kiṃ lubhyanti?
 
-⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪देवाः किं लुभ्यन्ति ।⟫
 
-11\. Was ist der Grund?
+11\. What is the reason?
 
 kiṃ kāraṇam?
 
-⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
+⟪किं कारणम् ॥⟫
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
+(Image source: [Details](/licenses#uebung007))
 :::
 ---
 
-## Leseübung
+## Reading Exercise
 
-1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-Der Śūdra führt den Knaben.
+1\. ⟪शूद्रो बालं नयति⟫ |
+The Śūdra leads the boy.
 
-2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-Der Dichter opfert dem Gott.
+2\. ⟪कविर्देवं यजते⟫ |
+The poet sacrifices to the god.
 
-3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Der Heilige isst Früchte.
+3\. ⟪साधुः फलानि खादति⟫ |
+The holy one eats fruits.
 
-4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-Der Meister besiegt seinen Zorn.
+4\. ⟪गुरुः क्रोधं जयति⟫ |
+The master conquers his anger.
 
-5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Der Gott erschafft die Hölle.
+5\. ⟪देवो नरकं सृजति⟫ |
+The god creates hell.
 
-6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Die Kuh betritt das Dorf.
+6\. ⟪धेनुर्ग्रामं विशति⟫ |
+The cow enters the village.
 
-7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-Leidenschaft, Zorn und Gier führen zur Hölle.
+7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+Passion, anger, and greed lead to hell.
 
-8\. ⟪देवतां⟫ ⟪यजति⟫ |
-Er opfert für einen Opferherren der Gottheit.
+8\. ⟪देवतां यजति⟫ |
+He sacrifices for a lord of sacrifice to the deity.
 
-9\. ⟪बाला⟫ ⟪भवति⟫ |
-Ein Mädchen entsteht.
+9\. ⟪बाला भवति⟫ |
+A girl is created.
 
-10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-Ein Wagenlenker lenkt den Wagen.
+10\. ⟪सारथी रथं नयति⟫ |
+A charioteer drives the chariot.
 
-11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-Die Affen fressen die Früchte.
+11\. ⟪कपयः फलानि खादन्ति⟫ |
+The monkeys eat the fruits.
 
-12\. ⟪बाला⟫ ⟪लिखति⟫ |
-Das Mädchen scheibt bzw. zeichnet.
+12\. ⟪बाला लिखति⟫ |
+The girl writes or draws.
 
-13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-Die Jungfrau betritt das Haus.
+13\. ⟪कुमारी गृहं विशति⟫ |
+The maiden enters the house.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+14\. ⟪देवो नागं सृजति⟫ |
+God creates the elephant or the snake or the nāga.
 
-15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-Der Knabe führt den Elefanten.
+15\. ⟪बालो गजं नयति⟫ |
+The boy leads the elephant.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-Vimalā ist traurig.
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ Proper name Vimalā)
+Vimalā is sad.
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
-Der Papagei fliegt.
+17\. ⟪शुकः पतति⟫ |
+The parrot flies.
 
-18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
-Der Knabe schreibt einen Brief.
+18\. ⟪बालः पत्रिकां लिखति⟫ |
+The boy writes a letter.
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
-(Bildquelle: [Details](/licenses#uebung008))
+Fig.: ⟪कपिः फलं खदति⟫
+(Image source: [Details](/licenses#uebung008))
 :::

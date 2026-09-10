@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lezione 14"
+subtitle: "L'espressione della relazione tra ciò che è designato da sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 14
@@ -88,16 +89,16 @@ Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitivo singolare di radici con desinenza vocalica:**
+**Genitivo singolare dei temi vocalici:**
 
 ::: grammar-box
 
-Il genitivo singolare di radici con desinenza vocalica si forma in modo irregolare ed è bene impararlo a memoria.
+Il genitivo singolare dei temi vocalici si forma in modo irregolare e deve essere imparato a memoria.
 
 :::
 ::: center
 
-| Tema | Genitivo Singolare |
+| Tema | Genitivo singolare |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,23 +106,27 @@ Il genitivo singolare di radici con desinenza vocalica si forma in modo irregola
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | \<!--  --\>
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(cioè o come kavi o come devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(cioè o come paśu o come i femminili plurisillabici in -ū) |
 
 :::
-**Pronomi interrogativi e pronomi dimostrativi:**
+**Pronomi interrogativi e dimostrativi:**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maschile / Neutro** | **Genitivo Singolare** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genitivo Plurale** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Femminile** | **Genitivo Singolare** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genitivo Plurale** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Maschile / Neutro** | **Genitivo singolare** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitivo plurale** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femminile** | **Genitivo singolare** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitivo plurale** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Identità formale:**
+**Identità di forma:**
+
+::: important
+
+In tutti i temi nominali, ad eccezione dei maschili e neutri in -a e dei pronomi, la forma del genitivo singolare è identica a quella dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
 ::: important
 

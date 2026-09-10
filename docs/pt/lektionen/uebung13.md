@@ -1,8 +1,9 @@
 ---
 title: "Exercício 13"
 uebung_id: 13
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -188,39 +189,39 @@ Que divindade o Ṛṣi vê?
 ⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
 
 ⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
+A quais deuses sacrificam os Brâmanes, Kṣatriyas e Vaiśyas?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
 D) De quais combinações fonéticas podem ter surgido as seguintes formas de Sandhi? Forneça todas as possibilidades:
 
-1. -a vor Vokal (ausser a-): -as
+1. -a antes de vogal (exceto a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
-3. -ā vor Vokal: -ās
-4. -ā vor stimmhaften Konsonanten: -ās
+3. -ā antes de vogal: -ās
+4. -ā antes de consoantes sonoras: -ās
 5. -ī-: -i + i-/ī-, -ī + i-/-ī
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e vor Avagraha: -e + a-
+9. -e antes de Avagraha: -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o vor Avagraha: -o
-12. -o vor stimmhaften Konsonanten -as
+11. -o antes de Avagraha: -o
+12. -o antes de consoantes sonoras -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
-15. -y vor Vokal: -i/-ī
-16. -v vor Vokal: -u/-ū
-17. -r vor Vokal: -ṛ/-ṝ
-18. -ay vor Vokal: -e
-19. -av vor Vokal: -o
+15. -y antes de vogal: -i/-ī
+16. -v antes de vogal: -u/-ū
+17. -r antes de vogal: -ṛ/-ṝ
+18. -ay antes de vogal: -e
+19. -av antes de vogal: -o
 20. -ar-: -a/-ā + ṛ-/ṝ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten: -is
-22. -īr vor Vokal oder stimmhaftem Konsonanten: -īs
-23. -ur vor Vokal oder stimmhaftem Konsonanten: -us
-24. -ūr vor Vokal oder stimmhaftem Konsonanten: -ūs
-25. -er vor Vokal oder stimmhaftem Konsonanten: -es
-26. -or vor Vokal oder stimmhaftem Konsonanten: -os
-27. -air vor Vokal oder stimmhaftem Konsonanten: -ais
-28. -aur vor Vokal oder stimmhaftem Konsonanten: -aus
+21. -ir antes de vogal ou consoante sonora: -is
+22. -īr antes de vogal ou consoante sonora: -īs
+23. -ur antes de vogal ou consoante sonora: -us
+24. -ūr antes de vogal ou consoante sonora: -ūs
+25. -er antes de vogal ou consoante sonora: -es
+26. -or antes de vogal ou consoante sonora: -os
+27. -air antes de vogal ou consoante sonora: -ais
+28. -aur antes de vogal ou consoante sonora: -aus
 29. -ñj-: -n + j-
 30. -ñś-: -n + ś
 31. -ñch-: -n + ch-
@@ -228,48 +229,39 @@ D) De quais combinações fonéticas podem ter surgido as seguintes formas de Sa
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvara vor Konsonant: -m
+36. Anusvara antes de consoante: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
 
-E) Übersetzen Sie ins Sanskrit:
+E) Traduza para o sânscrito:
 
-1\. Die Göttin war erzürnt.
+1\. A deusa estava zangada.
 ⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
 
-2\. Śūdras sind in einen Himmel gelangt.
+2\. Os śūdras alcançaram um céu.
 ⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
 
-3. Os camponeses seguiram o caminho.
+3\. Os agricultores percorreram o caminho.
 ⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
 
-4. As pessoas foram libertadas pela doutrina budista.
+4\. As pessoas foram libertadas pelo ensinamento do Buda.
 ⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
 
-5\. Der Sohn tanzte.
+5\. O filho dançou.
 ⟪पुत्रेण⟫ ⟪नृत्तम्⟫ ⟪।⟫
 
-6. O amuleto protegeu o professor.
+6\. O amuleto protegeu o professor.
 ⟪रक्षिकया⟫ ⟪गुरू⟫ ⟪रक्षितः⟫ ⟪।⟫
 
-7. Um brâmane não disse uma mentira.
+7\. Um brâmane não disse uma mentira.
 ⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
 
-8\. Śūdrafrauen haben die Göttin mit Opfern verehrt.
+8\. As mulheres śūdra honraram a deusa com oferendas.
 ⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
 
-9\. O Buda despertou para a verdade = o Buda reconheceu a verdade.
+9\. O Buda despertou para a verdade = O Buda reconheceu a verdade.
 ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
 
-10\. Die vedischen Weisen haben die Śruti gehört.
-⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫
-
-11. Os sacerdotes sacrificadores espremeram o soma.
-⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
-
-::: media
-![](/images/uebung018.webp)
-Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
-(Fonte da imagem: [Detalhes](/licenses#uebung018))
-:::
+10\. Os sábios védicos ouviram a Śruti.
+⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫ ⟪ऋषयः⟫ ⟪श्रुतिं⟫ ⟪श्रुतवन्तः⟫ ⟪॥⟫

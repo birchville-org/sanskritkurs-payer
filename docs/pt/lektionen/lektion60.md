@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lição 60"
+subtitle: "As desinências duais do perfeito (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 60
@@ -198,12 +199,12 @@ Paradigmas, ver Kielhorn, Gramática § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6001))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6002))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6002))
 :::
 ## 60.5. Declinação dos temas em -añc (-ac)
 
@@ -236,12 +237,12 @@ Exemplo: ⟪प्रतीची⟫
 
 ::: media
 ![](/images/lekt6003.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6003))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6004))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6004))
 :::
 A este grupo pertencem:
 
@@ -281,7 +282,7 @@ As direções cardeais principais
 | ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
 |   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
-(Fonte da imagem: [Detalhes](/licenses#lekt6005))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6005))
 
 ## 60.6. O Desiderativo (⟪सन्⟫)
 
@@ -379,7 +380,7 @@ Lista em Kielhorn, Gramática § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Fonte da imagem: [Details](/licenses#lekt6006))
+(Fonte da imagem: [Details](/pt/licenses#lekt6006))
 :::
 ### 60.6.2. Conjugação do Desiderativo (⟪सन्⟫)
 
@@ -419,17 +420,17 @@ A) Aprenda em Kielhorn, Gramática § 451, as formações desiderativas irregula
 
 ::: media
 ![](/images/lekt6007.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6007))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6008))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt6009))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt6009))
 :::
 B) Analise e traduza as seguintes formas sem auxílios:
 

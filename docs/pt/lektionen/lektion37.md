@@ -1,24 +1,25 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Lição 37"
+subtitle: "O advérbio (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 37
 
-## 37.1. O advérbio (⟪क्रियाविशेषणम्⟫)
+## 37.1. O Advérbio (⟪क्रियाविशेषणम्⟫)
 
-Os advérbios em sânscrito são formados
+Advérbios são formados no sânscrito
 
-1.  por meio de formas de caso de substantivos e pronomes
-2.  com a ajuda de sufixos e terminações especiais
+1. por formas casuais de substantivos e pronomes
+2. com a ajuda de sufixos e desinências especiais
 
-No primeiro caso, a fronteira entre o caso vivo e o advérbio é fluida. Incluem-se aqui, como um caso especial, os advérbios que são formas de caso antigas e fossilizadas, enquanto na declinação são usadas outras formas, ou os substantivos correspondentes não são mais usados como substantivos.
+No primeiro caso, o limite entre a forma casual viva e o advérbio é fluido. Pertencem a este caso especial os advérbios que são formas casuais antigas fossilizadas, enquanto na declinação outras formas são usadas ou os substantivos correspondentes já não são mais usados como substantivos.
 
-## 37.2. Uso adverbial de formas de caso
+## 37.2. Uso adverbial de formas casuais
 
 ### 37.2.1. Acusativo (⟪द्वितीया⟫)
 
@@ -28,47 +29,47 @@ O acusativo (⟪द्वितीया⟫) pode ser usado adverbialmente para 
 *   de que maneira?
 *   por quanto tempo?
 *   para onde?
-*   e similares.
+*   etc.
 
 O acusativo pode ser usado adverbialmente:
 
-*   de substantivos
-Exemplos:
-⟪कामम्⟫ "conforme o desejo, segundo o desejo"
+*   de substantivos  
+Exemplos:  
+⟪कामम्⟫ "conforme o desejo, a gosto"  
 ⟪अर्थम्⟫ "por causa de"
 
-*   de adjetivos no neutro
-Exemplos:
-⟪सुखम्⟫ "facilmente, felizmente"
-⟪नित्यम्⟫ "sempre"
+*   de adjetivos no neutro  
+Exemplos:  
+⟪सुखम्⟫ "facilmente, felizmente"  
+⟪नित्यम्⟫ "sempre"  
 ⟪साधु⟫ "corretamente, bem"
 
-*   de pronomes no neutro
-Exemplos:
-⟪तद्⟫ "então, por isso"
-⟪यद्⟫ "quando, que"
+*   de pronomes no neutro  
+Exemplos:  
+⟪तद्⟫ "então, por isso"  
+⟪यद्⟫ "quando, que"  
 ⟪एतद्⟫ "assim, aqui, agora"
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-O instrumental (⟪तृतीया⟫) pode ser usado adverbialmente para responder às perguntas:
+O instrumental (⟪तृतीया⟫) pode ser usado adverbialmente para as perguntas:
 
-*   através de quê?
-*   com que?
-*   e semelhantes.
+*   por meio de quê?
+*   com o quê?
+*   etc.
 
 O instrumental pode ser usado adverbialmente:
 
-*   de substantivos
-Exemplos:
-⟪अर्थेन⟫ "por causa de"
+*   de substantivos  
+Exemplos:  
+⟪अर्थेन⟫ "por causa de"  
 ⟪क्षणेन⟫ "no momento, imediatamente" (de ⟪क्षण⟫ m. "momento")
 
-*   de adjetivos, frequentemente também na forma plural
-Exemplos:
-⟪दूरेण⟫ "longe, de longe" (de ⟪दूर⟫ 3 "longe, distante de")
-⟪उच्चैस्⟫ "alto, em voz alta" (de ⟪उच्च⟫ 3 "alto, elevado, em voz alta, estridente (de voz)")
+*   de adjetivos, muitas vezes também na forma plural  
+Exemplos:  
+⟪दूरेण⟫ "longe, de longe" (para ⟪दूर⟫ 3 "longe, distante")  
+⟪उच्चैस्⟫ "alto, alto som" (para ⟪उच्च⟫ 3 "alto, elevado, alto som, agudo (de voz)")
 :::
 ### 37.2.3. Dativo (⟪चतुर्थी⟫)
 
@@ -76,42 +77,42 @@ Exemplos:
 Raramente o dativo (⟪चतुर्थी⟫) é usado adverbialmente para as perguntas:
 
 *   com que propósito?
-*   e semelhantes.
+*   e similares.
 
 Exemplo:
 :::
 ::: indent
-⟪अर्थाय⟫ "com o propósito de, por causa de..."
+⟪अर्थाय⟫ "com o propósito de, por causa de ..."
 :::
 ### 37.2.4. Ablativo (⟪पञ्चमी⟫)
 
 ::: grammar-box
-O ablativo (⟪पञ्चमी⟫) pode ser usado adverbialmente para responder às perguntas:
+O ablativo (⟪पञ्चमी⟫) pode ser usado adverbialmente para as perguntas:
 
 *   por quê?
-*   devido a quê?
+*   em virtude de quem/quê?
 *   de onde?
-*   e semelhantes.
+*   e similares.
 
 O ablativo pode ser usado adverbialmente:
 
-*   de substantivos
-p. ex. ⟪बलात्⟫ "violentamente, com violência"
+*   por substantivos  
+p.ex. ⟪बलात्⟫ "violentamente, com força"  
 
-*   de adjetivos
-p. ex. ⟪दूरात्⟫ "de longe"
+*   por adjetivos  
+p.ex. ⟪दूरात्⟫ "de longe"  
 
-*   de pronomes
+*   por pronomes  
 Exemplos:  
-⟪कस्मात्⟫ "porquê"  
+⟪कस्मात्⟫ "por quê"  
 ⟪अकस्मात्⟫ "inesperadamente"
 :::
 ### 37.2.5. Genitivo (⟪षष्ठी⟫)
 
 ::: grammar-box
-Raramente o genitivo (⟪षष्ठी⟫) é usado adverbialmente para a pergunta "depois de quanto tempo?"
+Raramente o genitivo (⟪षष्ठी⟫) é usado adverbialmente para a pergunta "após quanto tempo?"
 
-p. ex. ⟪चिरस्य⟫ "depois de muito tempo" (de ⟪चिर⟫ 3 "longo (tempo)")
+p.ex. ⟪चिरस्य⟫ "após muito tempo" (para ⟪चिर⟫ 3 "longo (tempo)")
 :::
 ### 37.2.6. Locativo (⟪सप्तमी⟫)
 
@@ -119,30 +120,30 @@ p. ex. ⟪चिरस्य⟫ "depois de muito tempo" (de ⟪चिर⟫ 3 "l
 O locativo (⟪सप्तमी⟫) pode ser usado adverbialmente para as perguntas:
 
 *   onde?
-*   sob que circunstâncias?
-*   e similares
+*   sob quais circunstâncias?
+*   e similares.
 
 Exemplos:
 :::
 ::: indent
-\-⟪अर्थे⟫ "por causa de"
-\-⟪कृते⟫ "pelo bem de"
+\-⟪अर्थे⟫ "por causa de"  
+\-⟪कृते⟫ "por amor de"  
 ⟪दूरे⟫ "longe"
 :::
-## 37.3. Uso adverbial de formas de caso obsoletas
+## 37.3. Uso adverbial de formas casuais já não em uso
 
 Exemplos:
 ::: indent
-⟪जातु⟫ "em geral" (originalmente "de nascimento, por natureza", Ac.sg.n. de ⟪जातु⟫ \<não mais em uso como substantivo\>)
+⟪जातु⟫ "de modo algum" (originalmente "por nascimento, por natureza", acusativo singular neutro para ⟪जातु⟫ \<não mais usado como substantivo\>)
 
-⟪तूष्णीम्⟫ "silenciosamente" (Ac.sg. de um obsoleto ⟪तूष्णी⟫ f. "silêncio")
+⟪तूष्णीम्⟫ "silenciosamente" (acusativo singular para um ⟪तूष्णी⟫ feminino já não em uso "silêncio")
 
-⟪एवम्⟫ "assim" (de um radical pronominal ⟪एव⟫ "um, único", de resto perdido)
+⟪एवम्⟫ "assim" (para uma raiz pronominal geralmente perdida ⟪एव⟫ "um, único")
 :::
 ## 37.4. Formação de advérbios com sufixos adverbiais
 
 ::: grammar-box
-Dos radicais pronominais ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou ⟪कु⟫, pode-se com os sufixos adverbiais
+Das radicais pronominais ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou ⟪कु⟫, pode-se derivar advérbios pronominais com os sufixos adverbiais
 
 *   \-⟪तस्⟫ (Ablativo)
 *   \-⟪त्र⟫ (Locativo)
@@ -150,18 +151,18 @@ Dos radicais pronominais ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪�
 *   \-⟪थम्⟫ (Modo)
 *   \-⟪दा⟫ (Tempo)
 
-derivar os advérbios pronominais correspondentes.
+advérbios pronominais correspondentes.
 :::
 ::: grammar-box
 
 | Sufixo | Radical pronominal | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablativo) | ⟪ततस्⟫ :brda, sobre isso, por isso | ⟪इतस्⟫ :br ⟪अतस्⟫ :brdaqui, por isso | ⟪यतस्⟫ :brde onde, de quê | ⟪कुतस्⟫ :brde onde?, por quê? |
+| **-⟪त्र⟫** :br(Locativo) | ⟪तत्र⟫ :braqui, ali | ⟪अत्र⟫ :braqui | ⟪यत्र⟫ :braonde | ⟪कुत्र⟫ :braonde? |
+| **-⟪था⟫** :br(Modo) | ⟪तथा⟫ :brasim | | ⟪यथा⟫ :brcomo | |
+| **-⟪थम्⟫** :br(Modo) | | | | ⟪कथम्⟫ :brcomo? |
+| **-⟪दा⟫** :br(Tempo) | ⟪तदा⟫ :brentão, então | | ⟪यदा⟫ :brquando (tempo) | ⟪कदा⟫ :braqando? |
 
 :::
 ::: grammar-box
@@ -170,7 +171,7 @@ Outro advérbio interrogativo é: ⟪क्व⟫ "onde?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Fig.: ⟪क्व⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3701))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3701))
 :::
 
 ::: grammar-box
@@ -179,148 +180,145 @@ Fig.: ⟪क्व⟫
 
 | Sufixo | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | pode ser anexado a qualquer substantivo para expressar "à maneira de, como":brpor exemplo, ⟪पुत्रवत्⟫ "como um filho" |
+| **-⟪तस्⟫** | em substantivos e pronomes. Geralmente significado ablativo "de onde?", mas também "onde?", "para onde?":brpor exemplo, ⟪आदितस्⟫ "desde o início" |
+| **-⟪धा⟫** | 1. Em advérbios numéricos no sentido de "-vezes", "-duplo":brpor exemplo, ⟪द्विधा⟫ "duas vezes":br2. no sentido de "da maneira tal e qual":brpor exemplo, ⟪समधा⟫ "da mesma maneira" (para ⟪सम⟫ 3 "igual") |
 
 :::
-## 37.5. Compostos adverbiais
+## 37.5. Locativos compostos
 
-### 37.5.1. Compostos com um advérbio ou um caso usado adverbialmente como segundo membro
+### 37.5.1. Compostos com um advérbio ou caso usado adverbialmente como segundo membro
 
-Exemplo: ⟪सुचिरम्⟫ "por muito tempo"
+Exemplo: ⟪सुचिरम्⟫ "por muito tempo (tempo)"
 
 ### 37.5.2. ⟪बहुव्रीहि⟫ usados adverbialmente
 
-Exemplo: ⟪रक्षार्थम्⟫ "à maneira de alguém, cujo propósito é proteger, com o propósito de proteger". Também pode ser considerado como pertencente a 5.1.: -⟪अर्थम्⟫ como membro final adverbial.
+Exemplo: ⟪रक्षार्थम्⟫ "do tipo de alguém, cujo objetivo é proteger, com o propósito de proteger". Também pode ser considerado pertencente a 5.1.: -⟪अर्थम्⟫ como segundo membro adverbial.
 
-### 37.5.3. Compostos-⟪अव्ययीभाव⟫
+### 37.5.3. Compostos ⟪अव्ययीभाव⟫
 
-⟪अव्ययीभाव⟫ = "tornado(s) imutável/indeclinável"
+⟪अव्ययीभाव⟫ = "tornados imutáveis/inflexíveis"
 
 ::: grammar-box
-Um ⟪अव्ययीभाव⟫ é um composto adverbial, cujo primeiro membro é um indeclinável (posposição, partícula, etc.), e cujo segundo membro é um nome, que assume a terminação do acusativo singular neutro.
+Um ⟪अव्ययीभाव⟫ é um composto adverbial, cujo primeiro membro é um indeclinável (pós-posição, partícula etc.) e cujo segundo membro é um substantivo que assume a terminação do acusativo singular neutro.
 
-Na dissolução do composto, o primeiro membro regeria o segundo membro:
+Ao resolver o composto, o primeiro membro governaria o segundo:
 
 Exemplos:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "contra o fogo"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "contra o fogo"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "conforme as forças"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "segundo as forças"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "para a frente, em direção a"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "para a frente, em direção"
 :::
-Particularmente importantes são ⟪अव्ययीभाव⟫ com ⟪यथा⟫ "como" como primeiro membro:
+Especialmente importantes são ⟪अव्ययीभाव⟫ com ⟪यथा⟫ "como" como primeiro membro:
 
-p. ex. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "conforme o desejo, a gosto, à vontade"
+p.ex. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "como é o desejo, conforme o desejo, arbitrariamente"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3702))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3702))
 :::
 ## 37.6. Sintaxe
 
 ::: grammar-box
-Com os verbos
+Nos verbos
 
 *   ⟪अस्⟫ 2P "ser"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-em vez de um adjetivo predicativo, pode ocorrer um advérbio predicativo:
+em vez de um adjetivo predicativo pode estar um advérbio predicativo:
 
-p. ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "ele tornou-se silencioso, ele emudeceu"
+p.ex. ⟪तूष्णीं बभूव⟫ "ele ficou em silêncio, ele calou-se"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Fonte da imagem: [Details](/licenses#lekt3703))
+Fig.: ⟪तूष्णीं बभूवुः⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3703))
 :::
 ## 37.7. Pronomes indefinidos
 
 ::: grammar-box
-Os pronomes indefinidos (pronomes indeterminados) são formados pela anexação de
+Os pronomes indefinidos (pronomes não determinados) são formados pela adição de
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-são formados a partir dos casos do pronome interrogativo ⟪किम्⟫.
+ao caso do pronome interrogativo ⟪किम्⟫.
 
-p. ex.
+por exemplo
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "algum, alguém"
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "algum, alguém"  
 ⟪कस्यचिद्⟫ = de alguém
 :::
-## 37.8. A frase interrogativa
+## 37.8. A pergunta
 
 ::: grammar-box
-"Quem?, como?, o quê?, por quê?, por qual motivo?, por que razão?
-Quem não pergunta, fica tolo."
+"Quem?, como?, o quê?, por quê? para que?, por qual razão?  
+Quem não pergunta, permanece ignorante."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Lema da Rua Sésamo, que é uma boa diretriz para a vida e para o estudo do sânscrito
+Lema da Vila Sésamo, que é uma boa diretriz para a vida e para o estudo do sânscrito
 :::
 Veja também [Lição 4](lektion04.md).
 
-Deve-se distinguir
+Deve-se distinguir entre
 
-*   Perguntas com pronome interrogativo (perguntas de informação)
-*   Perguntas de sim/não
+*   Perguntas de palavra (perguntas complementares)
+*   Perguntas de frase
 
-Em perguntas de palavra, pergunta-se por um agente (⟪कर्तृ⟫), um objeto, uma atividade, uma circunstância, etc., por exemplo:
+Nas perguntas de palavra, pergunta-se por um agente (⟪कर्तृ⟫), um objeto, uma ação, uma circunstância etc., por exemplo
 
 *   quem vem?
 *   o que Rāma faz?
-*   quem ele ouve?
+*   a quem ele ouve?
 *   como ela fala sânscrito?
 *   onde está a mãe?
 
-Em perguntas de frase, questiona-se todo o conteúdo da frase, por exemplo:
+Nas perguntas de frase, pergunta-se por todo o conteúdo da frase, por exemplo
 
-*   Rāma vai hoje para Ofterdingen?
-*   está correto que ... ?
+*   Rāma vai a Ofterdingen hoje?
+*   é correto que ... ?
 
-### 37.8.1. Perguntas com pronome/advérbio interrogativo (Perguntas de informação)
+### 37.8.1. Perguntas de palavra (perguntas complementares)
 
 ::: grammar-box
 Esquema:
 
-Pronome interrogativo/Advérbio interrogativo - Oração
+Pronome interrogativo/advérbio interrogativo - Frase
 :::
 Exemplos:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Quem vai para a aldeia?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Quem vai à aldeia?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "O que as crianças deveriam aprender?"
+⟪किं बाला अधीयीरन्⟫ = "O que as crianças deveriam aprender?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Onde mora Rāma?
+⟪क्व रामो वसति⟫ = Onde mora Rāma?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Fonte da imagem: [Details](/licenses#lekt3704))
+Fig.: ⟪किं बाला अधीयीरन्⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3704))
 :::
-### 37.8.2. Frases interrogativas
+### 37.8.2. Perguntas de frase
 
 ::: grammar-box
-Às vezes, só é possível reconhecer pelo contexto se uma frase é interrogativa.
+Às vezes, apenas a partir do contexto é possível reconhecer se uma frase é uma pergunta.
 :::
 ::: grammar-box
 Esquema I:
 
-Verbo - restante da frase
+Verbo - resto da frase
 :::
 Exemplo:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "O jovem brâmane irá a um mestre?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "O jovem brâmane irá a um mestre?"
 :::
 ::: grammar-box
 Esquema II:
@@ -331,116 +329,109 @@ As partículas interrogativas mais importantes são:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (muitas vezes espera uma resposta negativa)
+*   ⟪किम्⟫ (geralmente espera-se uma resposta negativa)
 
 *   ⟪कच्चिद्⟫
 
-Estas partículas correspondem ao ponto de interrogação.
+
+Essas partículas correspondem ao ponto de interrogação.
 :::
 Exemplo:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Será que é verdade?"
+⟪अपि सत्यम् ।⟫ "É também verdade?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Será que ele pode?"
+⟪किं शक्नोति ।⟫ "Pode ele, então?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Será que o Kṣatriya derrotou os inimigos?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Terá o kṣatriya derrotado os inimigos?"
 :::
-Nota: ⟪किम्⟫, além de "o quê?" e como partícula interrogativa, também pode significar "por quê?, para quê?". Especialmente com o instrumental (⟪तृतीया⟫):
+Nota: ⟪किम्⟫ pode significar, além de "o quê?", também como partícula interrogativa: "por quê?, para quê?". Especialmente com o instrumental (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Para que a ira? De que serve a ira? Qual o sentido da ira?"
+⟪किं क्रोधेन ।⟫ "Para quê a ira? De que serve a ira? O que deve ser a ira?"
 :::
-## 37.9. Lista de vocabulário
+## 37.9. Lista de palavras
 
-⟪मूर्ख⟫ 3: obtuso, estúpido, tolo m. Tolo
+⟪मूर्ख⟫ 3: estúpido, tolo, idiota m. Idiota
 
-⟪मुनि⟫ m.: sábio, asceta (silencioso)
+⟪मुनि⟫ m.: Sábio, (asceta) silencioso
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: asceta da linhagem dos ⟪शाक्य⟫ (Kṣatriyas de ⟪कपिलवस्तु⟫) = Buda Gautama
+⟪शाक्यमुनि⟫ m.: Asceta da linhagem dos ⟪शाक्य⟫ (kṣatriyas de ⟪कपिलवस्तु⟫) = Buda Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Fig.: ⟪शाक्यमुनिः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3705))
+Legenda: ⟪शाक्यमुनिः⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: dia
+⟪दिन⟫ n.: Dia
 
-⟪वृक्ष⟫ m.: árvore
+⟪वृक्ष⟫ m.: Árvore
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Fig.: ⟪वृक्षः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3706))
+Legenda: ⟪वृक्षः⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: boca, rosto, parte frontal, início
+⟪मुख⟫ n.: Boca, rosto, parte frontal, início
 
 ## 37.10. Exercício
 
-A) Responda às seguintes perguntas em sânscrito com a ajuda das palavras indicadas entre parênteses. Traduza as frases interrogativas.
+A) Responda às seguintes perguntas em sânscrito, utilizando as palavras indicadas entre parênteses. Traduza as frases interrogativas.
 
-Exemplo: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Exemplo: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutivo\>)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutivo\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3707))
+Fig.: ⟪कृष्णः बलरामश्च⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3708))
+Fig.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
 B) Traduza:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+C) Traduza as seguintes ⟪अव्ययीभाव⟫ :
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Traduza os seguintes ⟪अव्ययीभाव⟫ :
-
-⟪अति⟫ Posposição com Ac.: "além de"
+1\. ⟪अति⟫ Posposição com Ac.: "além de ..."
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
@@ -454,10 +445,10 @@ C) Traduza os seguintes ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3709))
+Fig.: ⟪अधिकेरलं वर्तन्ते⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "conforme, ao longo de, segundo"
+3\. ⟪अनु⟫ "de acordo com, ao longo de, segundo"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -484,8 +475,8 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3710))
+Fig.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "perto"
 
@@ -494,8 +485,8 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3711))
+Fig.: ⟪उपवृक्षं सीदन्ति⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
@@ -504,7 +495,6 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 :::
 ## 37.11. Exercício de revisão
 
-Traduza para o sânscrito usando exclusivamente formas verbais do perfeito:
+Traduza para o sânscrito usando exclusivamente formas verbais do Perfeito:
 
-Certa vez, quando um certo ancião foi para outra aldeia, ele se cansou no caminho. Então, para descansar, ele foi para o pé de uma mangueira que estava ao lado. Nesta árvore havia frutos maduros. O ancião sentiu desejo por eles. Mas ele não conseguia subir na árvore e pegar os frutos. Por sorte, havia nesta árvore alguns macacos que comiam frutos. Quando ele os viu, o ancião se alegrou. O que ele fez? Ele pegou algumas pedras, mirou nos macacos e atirou. Os macacos enfurecidos colheram alguns frutos e os atiraram no ancião. O ancião pegou-os alegremente e foi para a sua região desejada. Veja, a astúcia do ancião
-
+Quando certa vez um ancião foi para outra aldeia, cansou-se no caminho. Então ele foi descansar ao pé de uma mangueira que estava do lado. Neste árvore havia frutos maduros. O ancião teve vontade desses frutos. Mas ele não pôde subir na árvore e alcançar os frutos. Por sorte havia alguns macacos nesta árvore que comiam os frutos. Quando ele os viu, o ancião alegrou-se. O que ele fez? Ele pegou algumas pedras, mirou nos macacos e atirou. Os macacos irritados colhiam alguns frutos e os jogavam no ancião. O ancião pegou-os alegremente e foi para a região desejada. Veja, o destino do ancião!

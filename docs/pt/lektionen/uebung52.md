@@ -1,53 +1,54 @@
 ---
 title: "Exercício 52"
 uebung_id: 52
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 52
 
-## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+## ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-**⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
-**⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
+**⟪यद्यत्परवशं कर्म तत्तद्यत्नेन वर्जयेत् ।⟫**  
+**⟪यद्यदात्मवशं तु स्यात्तत्तत्सेवेत यत्नतः ॥ १५९ ॥⟫**
 
-> Jede Tat, die auf fremdem Willen beruht, vermeide man eifrig; was aber aus eigenem Willen geschieht, das pflege man eifrig.
+> Evite com zelo qualquer ação que se baseie na vontade alheia; mas pratique com zelo o que surge da própria vontade.
 
-**⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
-**⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
+**⟪सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् ।⟫**  
+**⟪एतद्विद्यात्समासेन लक्षणं सुखदुःखयोः ॥ १६० ॥⟫**
 
-> Alles, was auf fremdem Willen beruht, ist leidvoll; alles, was auf eigenem Willen beruht, ist Glück. Das soll man zusammengefasst als das Merkmal von Glück und Leid kennen.
+> Tudo o que se baseia na vontade alheia é fonte de sofrimento; tudo o que se baseia na própria vontade é fonte de felicidade. Isso deve ser compreendido em resumo como a característica da felicidade e do sofrimento.
 
-**⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
-**⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
+**⟪यत्कर्म कुर्वतो ऽस्य स्यात्परितोषो ऽन्तरात्मनः ।⟫**  
+**⟪तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥ १६१ ॥⟫**
 
-> Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
+> Aquilo que, ao ser praticado, traz satisfação interior deve ser feito com zelo; o oposto deve-se evitar.
 
 ::: media
 ![](/images/uebung087.webp)
-Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Bildquelle: [Details](/licenses#uebung087))
+Fig.: ⟪सर्वं परवशं दुःखम्⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung087))
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫: Sobre as fontes do ⟪धर्म⟫
 
-**⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
-**⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪वेदो ऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।⟫**  
+**⟪आचारश्चैव साधूनामात्मनस्तुष्टिरेव च ॥ ६ ॥⟫**
 
-> Die Wurzel des Dharma ist:
-> * der gesamte Veda
-> * die Überlieferung und die Sitte der Vedakundigen
-> * das Verhalten der Guten
-> * die Zufriedenheit der Seele
+> A raiz do Dharma é:
+> * todo o Veda
+> * a tradição e os costumes dos conhecedores do Veda
+> * o comportamento dos bons
+> * a satisfação da alma
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Sobre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ na vida do príncipe
 
-**⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+**⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ॥ २ ॥⟫**
 
 **⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
@@ -59,66 +60,66 @@ Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> So halte er seine Sinne unter Kontrolle, meide fremde Frauen, fremdes Gut und Gewalt, und vermeide Schlaf, Lüsternheit, Lüge, Geckenhaftigkeit, Unnützes und unrechte oder unnütze Geschäfte. Er gebe sich der Lust hin, ohne dass dadurch Recht und zweckrationales Verhalten gestört werden; er sei nicht freudlos. Oder er pflege gleichmässig alle drei Lebensziele, die miteinander verbunden sind. Wenn man sich nämlich einem von Recht und Sitte, zweckrationalem Verhalten und Lust übermässig hingibt, dann bedrückt das die Seele und die beiden anderen Ziele. Kauṭilya sagt, dass zweckrationales Verhalten (**Artha**) das Wichtigste ist. Recht und Sitte sowie Lust wurzeln nämlich in zweckrationalem Handeln.
+> Que ele mantenha assim os seus sentidos sob controle, evite mulheres alheias, bens alheios e violência, e evite o sono, a luxúria, a mentira, a leviandade, o que é inútil e os negócios injustos ou inúteis. Entregue-se ao prazer sem que com isso o direito e o comportamento de razão prática sejam prejudicados; não seja desprovido de alegria. Ou cultive igualmente os três objetivos da vida, que estão interligados. Pois se alguém se entregar excessivamente a um deles — o direito e os costumes, o comportamento prático ou o prazer —, isso oprime a alma e os outros dois objetivos. Kauṭilya afirma que o comportamento prático orientador (**Artha**) é o mais importante. Pois o direito, os costumes e o prazer têm as suas raízes na ação prática orientadora.
 
 ---
 
-## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫
+## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. séc. d.C.): ⟪बुद्धचरित⟫ ⟪४⟫
 
-Buddhas erlösende Erkenntnis:
+O conhecimento libertador do Buda:
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Als er mit Festigkeit und Ruhe das Heer Māras besiegt hatte, wollte der in Meditation Erfahrene die höchste Wahrheit und Wirklichkeit völlig erkennen und meditierte.
+>> > Tendo derrotado o exército de Māra com firmeza e serenidade, aquele versado na meditação quis conhecer plenamente a verdade e a realidade supremas e meditou.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Er brachte es zur höchsten Meisterschaft in allen Meditationsmethoden und erinnerte sich in der ersten Nachtwache an die ununterbrochene Abfolge seiner Wiedergeburten.
+> Ele alcançou a mais alta maestria em todos os métodos de meditação e, na primeira vigília da noite, recordou a sequência ininterrupta de seus renascimentos.
 
-**⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
-**⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+**⟪अमुत्राहमयं नाम च्युतस्तस्मादिहागतः ।⟫**  
+**⟪इति जन्मसहस्राणि सस्मारानुभवन्निव ॥ ३ ॥⟫**
 
-> "Dort war ich der So-und-so, von dort geschieden bin ich hierher gekommen" – so erinnerte er sich an Tausende von Geburten, so als ob er sie gerade erfahren würde.
+> "Lá eu era tal e qual, de lá partindo, vim para cá" – assim ele recordou milhares de nascimentos, como se os tivesse acabado de experimentar.
 
-**⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
-**⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+**⟪स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु ।⟫**  
+**⟪ततः सत्त्वेषु कारुण्यं चकार करुणात्मकः ॥ ४ ॥⟫**
 
-> Als er sich so an Geburt und Tod in diesen verschiedenen Existenzen erinnert hatte, entfaltete er gegenüber den Wesen Mitgefühl, er, dessen Wesen Mitgefühl ist.
+> Ao recordar assim o nascimento e a morte nessas diversas existências, ele, cuja natureza é a compaixão, desenvolveu compaixão para com os seres.
 
-**⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
-**⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+**⟪कृत्वेह स्वजनोत्सर्गं पुनरन्यत्र च कृत्वा ।⟫**  
+**⟪अत्राणः खलु लोको ऽयं परिभ्रमति चक्रवत् ॥ ५ ॥⟫**
 
-> Wahrlich, diese Welt ist ohne Rettung und irrt herum wie ein Rad: sie entlässt ihre Geschöpfe hier und dann wieder dort.
+> Certamente, este mundo está sem salvação e vagueia como uma roda: ela libera suas criaturas aqui e então novamente lá.
 
-**⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
-**⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪इत्येवं स्मरतस्तस्य बभूव नियतात्मनः ।⟫**  
+**⟪कदलीगर्भनिःसारः संसार इति निश्चयः ॥ ६ ॥⟫**
 
-> Als er sich entschlossenen Herzens so erinnerte, kam er zur festen Erkenntnis: Der Lauf der Wiedergeburten ist ohne Mark und Kern wie das Innere einer Bananenpflanze.
+> Ao recordar assim com coração determinado, ele chegou à certeza firme: o fluxo dos renascimentos é sem núcleo e substância como o interior de uma bananeira.
 
-**⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
-**⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+**⟪द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः ।⟫**  
+**⟪दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥ ७ ॥⟫**
 
-> Als die zweite Nachtwache gekommen war, hat er, dessen Macht wie die keines Zweiten ist, das höchste himmlische Auge bekommen, er, der Beste aller, die ein Auge haben.
+> Quando chegou a segunda vigília da noite, ele, cujo poder é como o de nenhum outro, obteve o mais elevado olho celestial, ele, o melhor de todos os que têm olhos.
 
-**⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
-**⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+**⟪ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा ।⟫**  
+**⟪ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥ ८ ॥⟫**
 
-> Dann sah er mit diesem völlig reinen himmlischen Auge die ganze Welt wie in einem makellosen Spiegel.
+> Então ele viu com esse olho celestial completamente puro todo o mundo como num espelho impecável.
 
-**⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
-**⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+**⟪सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्टकर्मणाम् ।⟫**  
+**⟪प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥ ९ ॥⟫**
 
-> Als er das Vergehen und Entstehen der Wesen sah, die gutes oder schlechtes Karma hatten, da wuchs das Mitgefühl in seinem Herzen.
+> Ao ver a dissolução e o surgimento dos seres que tinham bom ou mau karma, a compaixão cresceu em seu coração.
 
-**⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
-**⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
+**⟪इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् ।⟫**  
+**⟪इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥ १० ॥⟫**
 
-> "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
+> "Estes seres que cometeram ações más vão para uma existência má; estes outros, que têm bom karma, renascem no céu de Indra."
 
 ::: media
 ![](/images/uebung088.webp)
-Abb.: ⟪कदलीगर्भनिःसारः⟫
-(Bildquelle: [Details](/licenses#uebung088))
+Fig.: ⟪कदलीगर्भनिःसारः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung088))
 :::

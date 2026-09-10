@@ -1,6 +1,6 @@
 ---
 title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+subtitle: "Formazione delle forme verbali della 2ª persona (⟪मध्यमः⟫) dei temi atematici senza suffisso vocalico (continuazione)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"

@@ -3,6 +3,7 @@ title: "แบบฝึกหัด 44"
 uebung_id: 44
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -157,8 +158,7 @@ B) จงแปลข้อความต่อไปนี้:
 :::
 ::: media
 ![](/images/uebung073.webp)
-Abb.: ⟪वदिता⟫
-(Bildquelle: [Details](/licenses#uebung073))
+ภาพ: ⟪वदिता⟫
+(แหล่งที่มาของภาพ: [รายละเอียด](/licenses#uebung073))
 :::
-
 

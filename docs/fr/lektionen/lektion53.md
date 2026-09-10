@@ -374,7 +374,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 
 **Les superlatifs en -iṣṭha (Fem. : iṣṭhā) se déclinent comme les thèmes en a ou ā.**
 
-**Deklination von -īyas siehe unten.**
+**Pour la déclinaison de -īyas, voir ci-dessous.**
 :::
 Exemples :
 

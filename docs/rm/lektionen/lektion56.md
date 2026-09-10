@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "Lecziun 56"
+subtitle: "L'aorist cun reduplicaziun"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 56
@@ -139,7 +140,7 @@ Conformamain a la lavur fundamental:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Abb.:
+Fig.:
 Professor per lingvisticha comparativa, Universitad Erlangen-Nürnberg (1955 - 1983)
 (Fontana da l’imagines: [Detagls](/rm/licenses#lekt5601))
 :::
@@ -182,7 +183,7 @@ Ezempels:
 :::
 ::: media
 ![](/images/lekt5602.webp)
-Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
+Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) d'ina partida politica en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "La traduziun grossa da quai ch'è scrit sin el esser: Il martiri è ina experientscha fascinanta per in revolucionari. E ina resursa spaventusa per in viles. Che n'è betg in model per pusillanimus."
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt5602))
 :::
@@ -207,8 +208,8 @@ Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill
 :::
 ::: media
 ![](/images/lekt5603.webp)
-Abb.: ⟪अलं⟫  ⟪विषादेन⟫
-(Bildquelle: [Detagls](/rm/licenses#lekt5603))
+Fig.: ⟪अलं⟫  ⟪विषादेन⟫
+(Font dal maletg: [Detagls](/rm/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
@@ -307,4 +308,3 @@ A) Determinar e traduscher senza agid (!) las suandantas furmas:
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

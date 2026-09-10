@@ -3,6 +3,7 @@ title: "Gyakorlat 3"
 uebung_id: 3
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -109,66 +110,64 @@ C) Alakítsa nőnemre:
 
 gurvī brāhmaṇī.
 
-⟪गुर्वी⟫ ⟪ब्राह्मणी⟫
-
 2\. sādhur guruḥ = ⟪साधुर्गुरुः⟫
 
 sādhvī gurvī.
 
-⟪साध्वी⟫ ⟪गुर्वी⟫
+⟪साध्वी गुर्वी⟫
 
-3\. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3\. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
 kṣatriyā sādhvī.
 
-⟪क्षत्रिया⟫ ⟪साध्वी⟫
+⟪क्षत्रिया साध्वी⟫
 
-D) Fordítsa szanszkrtba:
+D) Fordítsa le szanszkritra:
 
-1\. Umā ist eine Göttin.
+1\. Umā egy istennő.
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. Der Veda ist śruti.
+2\. A Véda śruti.
 
 śrutir vedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. Die Lehrerinnen sind Göttinnen.
+3\. A tanítónők istennők.
 
 devyo gurvyaḥ.
 
-⟪देव्यो⟫ ⟪गुर्व्यः⟫
+⟪देव्यो गुर्व्यः⟫
 
-4\. Milchkühe sind domestizierte Tiere.
+4\. A tejelő tehenek háziállatok.
 
 paśavo dhenavaḥ.
 
-⟪पशवो⟫ ⟪धेनवः⟫
+⟪पशवो धेनवः⟫
 
-5\. Dichter sind Lehrer.
+5\. A költők tanítók.
 
 guravaḥ kavayaḥ.
 
-⟪गुरवः⟫ ⟪कवयः⟫
+⟪गुरवः कवयः⟫
 
-6\. Kṣatriyas sind Zweimalgeborene.
+6\. A kṣatriyák kétszer születettek.
 
 dvijāḥ kṣatriyāḥ.
 
-⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
+⟪द्वि्जाः क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+7\. A szent férfiak śūdrák.
 
 śūdrāḥ sādhavaḥ.
 
-⟪शूद्राः⟫ ⟪साधवः⟫
+⟪शूद्राः साधवः⟫
 
 ::: media
 ![](/images/uebung001.webp)
 Abb.: ⟪पशुर्धेनुः⟫
-(Bildquelle: [Details](/licenses#uebung001))
+(Kép forrása: [Details](/licenses#uebung001))
 :::

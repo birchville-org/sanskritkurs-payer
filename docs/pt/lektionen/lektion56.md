@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "Lição 56"
+subtitle: "O aoristo reduplicado"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 56
@@ -129,7 +130,7 @@ De acordo com o trabalho fundamental:
 ![](/images/lekt5601.jpg)
 Fig.:
 Professor de Linguística Comparada, Universidade de Erlangen-Nuremberga (1955 - 1983)
-(Fonte da imagem: [Detalhes](/licenses#lekt5601))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5601))
 :::
 
 ::: indent
@@ -172,7 +173,7 @@ Exemplos:
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Pôster (Ernesto Che Guevara) de um partido político em Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Fonte da imagem: [Detalhes](/licenses#lekt5602))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5602))
 :::
 Ambos os exemplos têm um sentido proibitivo. O injuntivo aoristo é, portanto, usado aqui em seu significado original. (A predominância do injuntivo aoristo em tais frases talvez se explique pela predominância de frases proibitivas em relação às frases inibitivas, mas esta questão ainda precisaria ser investigada para o sânscrito clássico.)
 
@@ -196,7 +197,7 @@ Speyer, Jacob S. (Jacob Samuel) <1849-1913>: Sanskrit sytax. -- Leyden : Brill, 
 ::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5603))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
@@ -295,4 +296,3 @@ A) Determine e traduza as seguintes formas sem ajuda (!):
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

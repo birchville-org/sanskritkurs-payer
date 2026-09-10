@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Lectio 49"
+subtitle: "Formationis imperativi (⟪लोट्⟫) athematicorum praesentis radicalium (continuatio)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 49
@@ -228,8 +229,8 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/la/licenses#lekt4901))
+Fig.: ⟪कुलूहलम्⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: totus, integer
 
@@ -239,7 +240,7 @@ Abb.: ⟪कुलूहलम्⟫
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
+Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI
 (Fons imaginis: [Detalia](/la/licenses#lekt4902))
 :::

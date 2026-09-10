@@ -33,7 +33,7 @@ The normal word order is:
 **Genitive and PPP:**
 
 ::: grammar-box
->> With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), while in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive thus does not function essentially as an agent).
+With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), while in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive thus does not function essentially as an agent).
 
 According to Pāṇini 2.3.67, with PPPs the genitive stands if the PPP has present-tense meaning (see above), and the instrumental stands if the PPP has past-tense meaning:
 
@@ -126,9 +126,9 @@ The genitive singular of stems ending in a vowel is formed irregularly and must 
 
 ::: important
 
->> In all nominal stems except for the masculine and neuter stems ending in -a, as well as pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
+In all nominal stems except for the masculine and neuter stems ending in -a, as well as pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
 
->> Note that in stems ending with a consonant, the ablative and genitive singular sound like the accusative plural masculine and feminine!
+Note that in stems ending with a consonant, the ablative and genitive singular sound like the accusative plural masculine and feminine!
 
 :::
 ## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)

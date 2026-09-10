@@ -1,6 +1,6 @@
 ---
 title: "Lesing 24"
-subtitle: 'Die Dativ (⟪चतुर्थी⟫ = "vierde Kasusuitgang")'
+subtitle: 'Die datief (⟪चतुर्थी⟫ = "vierde naamvalsuitgang")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -34,7 +34,7 @@ of:
 = "Rāma het gaan luister na die onderwyser se toespraak."
 ::: media
 ![](/images/lekt2404.webp)
-Fig.: ⟪बाला गुरुश्रवणाय गताः⟫
+Afb.: ⟪बाला गुरुश्रवणाय गताः⟫
 (Beeldbron: [Details](/af/licenses#lekt2404))
 :::
 
@@ -56,7 +56,7 @@ Voorbeeld:
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Fig.: ⟪यज्ञायान्नम्⟫
+Afb.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] is 'n tradisionele Hindoe-geleentheid wat tydens die Hindoe-nuwjaarsvieringe by alle BAPS plaasvind [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમTAM Swami Narayan Sanstha = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Honderde vegetariese geregte word op hierdie dag aan Bhagwan Swaminarayan [સ્વામિનારાયણ] aangebied.
 (Beeldbron: [Details](/af/licenses#lekt2401))
 :::
@@ -72,7 +72,7 @@ Voorbeeld:
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Fig.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
+Afb.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
 Raksha Bandhan word met ywer en vreugde regdeur Indië gevier. Hierdie fees beliggaam die onvoorwaardelike liefde tussen broers en susters.
 (Beeldbron: [Besonderhede](/af/licenses#lekt2402))
 :::
@@ -90,7 +90,7 @@ Voorbeelde:
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Fig.: ⟪अलं योधो योधाय⟫
+Afb.: ⟪अलं योधो योधाय⟫
 "Rama (regs), wat op Hanuman se skouers sit, beveg die demoonkoning Ravana." c. 1820
 (Beeldbron: [Details](/af/licenses#lekt2403))
 :::
@@ -192,7 +192,7 @@ Op dieselfde wyse word ⟪अलम्⟫ met die instrumentale geval gebruik:
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Fig.: ⟪अलंकारः⟫
+Afb.: ⟪अलंकारः⟫
 (Beeldbron: [Details](/af/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: dryfkrag, motivering, oorsaak, rede; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ met die genitief of as die tweede element van 'n samestelling = 'ter wille van …, weens'
@@ -201,7 +201,7 @@ Fig.: ⟪अलंकारः⟫
 
 ::: media
 ![](/images/lekt2406.webp)
-Fig.: ⟪देवीप्रतिमा⟫
+Afb.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Beeldbron: [Details](/af/licenses#lekt2406))
 :::
@@ -236,7 +236,7 @@ waarvan
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Fig.: ⟪ऊहापोहः⟫
+Afb.: ⟪ऊहापोहः⟫
 "NUWE DELHI/INDIË, 16 NOV 08 – Suhasini Haidar, Adjunk-buitelandse redakteur, CNN-IBN Network 18, Indië, voorsit 'n paneelbespreking by die Wêreld-ekonomiese Forum se Indiese Ekonomiese Top 2008 in New Delhi."
 (Beeldbron: [Besonderhede](/af/licenses#lekt2407))
 :::
@@ -255,7 +255,7 @@ waarvan:
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Fig.: ⟪आख्यानम्⟫
+Afb.: ⟪आख्यानम्⟫
 "San Francisco-verteller Jeff Byers deel 'n storie met die inwoners van Chenneri, 'n Irula-dorpie. Verteller Jeeva Raghunath vertaal dit in Tamil vir die dorpenaars."
 (Beeldbron: [Besonderhede](/af/licenses#lekt2408))
 :::
@@ -283,7 +283,7 @@ waarvan:
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Fig.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Afb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
 Handskrif van die ⟪गीतगोविन्द⟫, AD 1730
 (Beeldbron: [Besonderhede](/af/licenses#lekt2411))
 :::
@@ -352,7 +352,7 @@ Vertaal in Sanskrit:
 
 ::: media
 ![](/images/lekt2409.webp)
-Fig.: ⟪श्रीगणेशाय नमः⟫
+Afb.: ⟪श्रीगणेशाय नमः⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt2409))
 :::
 6\. Skuilnaam! (= Mag dit goed met jou gaan (⟪स्वस्ति⟫ f.)!)
@@ -370,7 +370,7 @@ Verduideliking: ⟪मुनित्रयम्⟫ "die triade van wyse manne 
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Fig.: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ skeur ⟪हिरण्यकशिपु⟫ uitmekaar, bladsy uit 'n manuskrip van ⟪भागवतपुराण⟫
+Afb.: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ skeur ⟪हिरण्यकशिपु⟫ uitmekaar, bladsy uit 'n manuskrip van ⟪भागवतपुराण⟫
 (Beeldbron: [Details](/af/licenses#lekt2410))
 :::
 11\. Welkom (⟪स्वागतम्⟫) aan jou. Welkom by die Koningin.

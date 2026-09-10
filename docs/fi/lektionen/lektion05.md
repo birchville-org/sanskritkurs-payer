@@ -1,10 +1,11 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "Oppitunti 5"
+subtitle: "Nominaalisten yhdyssanojen (samāsa) perusteet"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 5

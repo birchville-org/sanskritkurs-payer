@@ -1,45 +1,44 @@
-
 export const sv = {
   label: '🇸🇪 SV - Svenska',
   lang: 'sv-SE',
   link: '/sv/',
-  title: 'Sanskrit Course',
-  description: 'Grammar textbook by Alois Payer',
+  title: 'Sanskritkurs',
+  description: 'Grammatikbok av Alois Payer',
   themeConfig: {
-    outline: { level: [2, 3], label: 'On this page' },
-    returnToTopLabel: 'Return to top',
-    sidebarMenuLabel: 'Menu',
-    darkModeSwitchLabel: 'Appearance',
-    lightModeSwitchTitle: 'Switch to light theme',
-    darkModeSwitchTitle: 'Switch to dark theme',
-    langMenuLabel: 'Change language',
+    outline: { level: [2, 3], label: 'På denna sida' },
+    returnToTopLabel: 'Tillbaka till toppen',
+    sidebarMenuLabel: 'Meny',
+    darkModeSwitchLabel: 'Utseende',
+    lightModeSwitchTitle: 'Växla till ljust tema',
+    darkModeSwitchTitle: 'Växla till mörkt tema',
+    langMenuLabel: 'Byt språk',
     nav: [
-      { text: 'Home', link: '/sv/' },
+      { text: 'Start', link: '/sv/' },
       { text: 'TOC', link: '/sv/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Credits', link: '/sv/impressum' },
-      { text: '<span class="nav-gear-icon"></span>', link: '/sv/settings', ariaLabel: 'Open Settings' }
+      { text: 'Tack', link: '/sv/impressum' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/sv/settings', ariaLabel: 'Öppna inställningar' }
     ],
     docFooter: {
-      prev: 'Previous Lesson',
-      next: 'Next Lesson'
+      prev: 'Föregående lektion',
+      next: 'Nästa lektion'
     },
     sidebar: [
-      { text: 'Table of Contents', link: '/sv/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammar Topics', link: '/sv/grammatik' },
-            { text: 'Grammar Index', link: '/sv/themen' },
-      { text: 'Vocabulary', link: '/sv/lektionen/wortliste' },
-      { text: 'Glossary', link: '/sv/lektionen/glossar' },
-      { text: 'Lessons', collapsed: false, items: [] },
-      { text: 'Script (Introduction)', collapsed: true, items: [] },
-      { text: 'Exercises', collapsed: true, items: [] },
-      { text: 'Legal', collapsed: true, items: [
-          { text: 'Legal Notice & Citation', link: '/sv/impressum' },
-          { text: 'Image Licenses', link: '/sv/licenses' },
+      { text: 'Innehållsförteckning', link: '/sv/lektionen/inhaltsverzeichnis' },
+      { text: 'Grammatikämnen', link: '/sv/grammatik' },
+      { text: 'Grammatikindex', link: '/sv/themen' },
+      { text: 'Vokabulär', link: '/sv/lektionen/wortliste' },
+      { text: 'Glossar', link: '/sv/lektionen/glossar' },
+      { text: 'Lektioner', collapsed: false, items: [] },
+      { text: 'Skript (Introduktion)', collapsed: true, items: [] },
+      { text: 'Övningar', collapsed: true, items: [] },
+      { text: 'Juridiskt', collapsed: true, items: [
+          { text: 'Juridiskt meddelande & citat', link: '/sv/impressum' },
+          { text: 'Bildlicenser', link: '/sv/licenses' },
       ]}
     ],
     footer: {
-      message: "Part of Tüpfli's Global Village Library",
+      message: "Del av Tüpfli's Global Village Library",
       copyright: 'Copyright © 2008-2010 Alois Payer'
     }
   }

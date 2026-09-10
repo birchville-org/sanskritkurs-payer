@@ -1,27 +1,28 @@
 ---
-title: "Ushqim 49"
+title: "Ushtrimi 49"
 uebung_id: 49
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 49
+# Ushtrimi 49
 
-Bestimmen Sie folgende Formen:
+Përcaktoni format e mëposhtme:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung |
+| Nr. | Forma | Përcaktimi |
 |:---|:---|:---|
 | ⟪१⟫. | ⟪गृहाणि⟫ | :sig[⟪गृह⟫] n.: Nom. Akk. Pl. n. |
 | ⟪२⟫. | ⟪नमानि⟫ | :sig[⟪नम्⟫] 1P: Imp. 1. Sg. P. |
 | ⟪३⟫. | ⟪नामानि⟫ | :sig[⟪नामन्⟫] n.: Nom. Akk. Pl. n. |
-| ⟪४⟫. | ⟪नामनि⟫ | :sig[⟪नामन्⟫] n.: Lok. Sg. n. (neben ⟪नाम्नि⟫) |
+| ⟪४⟫. | ⟪नामनि⟫ | :sig[⟪नामन्⟫] n.: Lok. Sg. n. (bëj नाम्नि) |
 | ⟪५⟫. | ⟪मत्यै⟫ | :sig[⟪मति⟫] f.: Dat. Sg. f. |
 | ⟪६⟫. | ⟪मन्यै⟫ | :sig[⟪मन्⟫] 4Ā: Imp. 1. Sg. Ā. |
 | ⟪७⟫. | ⟪मान्यै⟫ | :sig[⟪मन्⟫] 4Ā: Kaus. Pass. Imp. 1. Sg. |
 | ⟪८⟫. | ⟪मान्यैः⟫ | :sig[⟪मन्⟫] 4Ā: Kaus. Gerundiv Instr. Pl. m. n. |
-| ⟪९⟫. | ⟪अहम्⟫ | Ich: Nom. Sg. |
+| ⟪९⟫. | ⟪अहम्⟫ | Unë: Nom. Sg. |
 | ⟪१०⟫. | ⟪अहन्⟫ | :sig[⟪हन्⟫] 2P: Impf. 2. 3. Sg. P. |
 | ⟪११⟫. | ⟪आत्थ⟫ | :sig[⟪अह्⟫]: Perf. 2. Sg. P. |
 | ⟪१२⟫. | ⟪आत्त⟫ | :sig[⟪अद्⟫] 2P: Impf. 2. Pl. P. |
@@ -33,19 +34,19 @@ Bestimmen Sie folgende Formen:
 | ⟪१८⟫. | ⟪तस्य⟫ | :sig[⟪तद्⟫]: Gen. Sg. m. n. |
 | ⟪१९⟫. | ⟪दाता⟫ | :sig[⟪दातृ⟫]: Nom. Sg. m. |
 | ⟪२०⟫. | ⟪तता⟫ | :sig[⟪तन्⟫] 8U: PPP Nom. Sg. f. |
-| ⟪२१⟫. | ⟪तथा⟫ | "so" |
-| ⟪२२⟫. | ⟪तदा⟫ | "dann, damals" |
+| ⟪२१⟫. | ⟪तथा⟫ | "kështu" |
+| ⟪२२⟫. | ⟪तदा⟫ | "atëherë, atëherë" |
 | ⟪२३⟫. | ⟪तुद⟫ | :sig[⟪तुद्⟫] 6U: Imper. 2. Sg. P. |
-| ⟪२४⟫. | ⟪शेकिथ⟫ | :sig[⟪शक्⟫] 5P: Perf. Vb. 2. Sg. P. (neben ⟪शशक्थ⟫) |
+| ⟪२४⟫. | ⟪शेकिथ⟫ | :sig[⟪शक्⟫] 5P: Perf. Vb. 2. Sg. P. (bëj शशक्थ) |
 | ⟪२५⟫. | ⟪अनृतम्⟫ | :sig[⟪अनृत⟫] n.: Nom. Akk. Sg. n. |
 | ⟪२६⟫. | ⟪अदूष्यः⟫ | :sig[⟪दुष्⟫] 4P: Kaus. Gerundiv Nom. Sg. m. + *⟪अ⟫-* |
 | ⟪२७⟫. | ⟪अदुष्यः⟫ | :sig[⟪दुष्⟫] 4P: Impf. 2. Sg. P. |
 | ⟪२८⟫. | ⟪त्वत्⟫ | :sig[⟪त्वम्⟫]: Abl. Sg. |
-| ⟪२९⟫. | ⟪यदि⟫ | "wenn" |
+| ⟪२९⟫. | ⟪यदि⟫ | "nëse" |
 | ⟪३०⟫. | ⟪यति⟫ | :sig[⟪इ⟫] 2P: Part. Präs. P. Lok. Sg. m. n.; Vok. Sg. f. |
-| ⟪३१⟫. | ⟪याति⟫ | :sig[⟪या⟫] 2P: Ind. Präs. 3. Sg. P. (*sic*, Korrektur: 3. Sg.); Part. Präs. P. Lok. Sg. m. n. |
+| ⟪३१⟫. | ⟪याति⟫ | :sig[⟪या⟫] 2P: Ind. Präs. 3. Sg. P. (*sic*, korrigjim: 3. Sg.); Part. Präs. P. Lok. Sg. m. n. |
 | ⟪३२⟫. | ⟪यातुः⟫ | :sig[⟪यातृ⟫]: Abl. Gen. Sg. m. |
-| ⟪३३⟫. | ⟪यतः⟫ | "von wo"; :sig[⟪इ⟫]: Part. Präs. P. Gen. Abl. Sg. m. n.; :sig[⟪यम्⟫] 1P: PPP Nom. Sg. m. |
+| ⟪३३⟫. | ⟪यतः⟫ | "nga ku"; :sig[⟪इ⟫]: Part. Präs. P. Gen. Abl. Sg. m. n.; :sig[⟪यम्⟫] 1P: PPP Nom. Sg. m. |
 | ⟪३४⟫. | ⟪यातः⟫ | :sig[⟪यातृ⟫]: Vok. Sg. m.; :sig[⟪या⟫]: Part. Präs. P. Gen. Abl. Sg. m. n.; PPP Nom. Sg. m. |
 | ⟪३५⟫. | ⟪आसीथाः⟫ | :sig[⟪आस्⟫] 2Ā: Opt. 2. Sg. Ā. |
 | ⟪३६⟫. | ⟪वक्थ⟫ | :sig[⟪वच्⟫] 2P: Ind. Präs. 2. Pl. P. |
@@ -55,25 +56,25 @@ Bestimmen Sie folgende Formen:
 :::
 ::: media
 ![](/images/uebung078.webp)
-Abb.: ⟪गायी⟫
-(Bildquelle: [Details](/licenses#uebung078))
+Fig.: ⟪गायी⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung078))
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟫. shek. pashe Krishtit): ⟪कादम्बरी⟫
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
+Pyetjet e mbretit ⟪शूद्रक⟫ nga ⟪विदिशा⟫ tek papagalli ⟪वैशम्पायन⟫:
 
-**⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
+**⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ॥⟫**
 
-**⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
+**⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Der König sprach: "Lassen wir all das auf sich beruhen! Befriedigen Sie unsere Neugier! Herr, erzählen Sie uns von Anfang an: In welchem Land wurden Sie geboren? Wer hat Ihnen den Namen gegeben? Wer ist Ihre Mutter? Wie haben Sie die Veden erhalten? Wie haben Sie sich mit den Lehrwerken vertraut gemacht? Woher haben Sie die Künste erworben? Können Sie sich an frühere Geburten erinnern oder Wünsche erfüllen? Oder bewohnen Sie, indem Sie das Kleid eines Vogels tragen, ein Versteck? Oder wo wohnten Sie früher? Oder wie alt sind Sie? Wie wurden Sie in einen Käfig gefangen? Und wie sind Sie in die Hände von Cāṇḍālas gekommen? Oder wie sind Sie hierher gekommen?"
->
-> Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit grossem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!"
+> Mbreti foli: "Le të mbetet gjithçka ashtu siç është! Shijoni kureshtjen tonë! Zoti, tregoni na nga fillimi: Në cilin vend u lindët? Kush ju dha emrin? Kush është nëna juaj? Si i morët Vedat? Si u njohët me veprat mësimore? Nga keni fituar artesë? A mund të kujtoni lindje të mëparshme ose të plotësoni dëshira? Apo a banoni, duke veshur rroba të një shpendi, në një fshehtinë? Apo ku keni banuar më parë? Ose sa vjeç jeni? Si u kapët në një kafaz? Dhe si hynit në duart e Cāṇḍālas? Apo si erdhët këtu?"
+\>
+> Por Vaiśampāyana, i cili ishte pyetur nga Zoti i Tokës me kureshtje të lindur spontane dhe me respekt të madh, mendoi për një moment dhe pastaj iu përgjigjuar me respekt të plotë: "Mbret, kjo është një histori e gjatë. Nëse ju intereson, më hyni veshin tuaj!"
 
 ::: media
 ![](/images/uebung079.webp)
-Abb.: ⟪शुकः⟫
-(Bildquelle: [Details](/licenses#uebung079))
+Fig.: ⟪शुकः⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung079))
 :::

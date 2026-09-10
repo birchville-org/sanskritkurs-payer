@@ -1,226 +1,157 @@
 ---
-title: "Exercise 13"
+title: "[Vježba 13]"
 uebung_id: 13
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 13
+# Exercise 13
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
+A) Translate and convert into active present tense sentences:
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-Ein Feuer hat das Haus verbrannt.
-⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
+⟪१⟫. ⟪अग्निना गृहं दग्धम् ।⟫
+A fire has burned down the house.
+⟪अग्निर्गृहं दहति । २⟫. ⟪बुद्धेन सत्यं बुद्धम् ।⟫
+The Buddha has awakened to the truth. The Buddha has recognized the truth.
+⟪बुद्धः सत्यं बुध्यते⟫ / ⟪बोधति । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
+Knowledge has liberated Gautama. By means of knowledge, Gautama was liberated.
+⟪बोधिर्गौतमं मुञ्चति । ४⟫. ⟪शूद्रा मूढाः ।⟫ (2 possibilities)
+The Śūdras / Śūdra women are deluded.
+⟪शूद्रा मुह्यन्ति । ५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः ।⟫
+The Brahmin desired liberation.
+⟪ब्राह्मणो मोक्षमिच्छति । ६⟫. ⟪रामेण पुण्यं कृतम् ।⟫
+Rāma performed a meritorious deed. Rāma did something commendable.
+⟪रामः पुण्यं करोति । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् ।⟫
+It is said that the Vedic sages have spoken only the truth.
+⟪ऋषयः सत्यमेव वदन्तीति वदन्ति । ८⟫. ⟪धर्मेण स्वर्गं नीतम् ।⟫
+Dharma has led to a heaven.
+⟪धर्मः स्वर्गं नयति । ९⟫. ⟪साधुनाधर्मो न कृतम् ।⟫
+A holy person has done nothing unjust.
+⟪साधुरधर्मं न करोति । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः ।⟫
+By means of the mantra, liberation has been attained.
+⟪मन्त्रेण मोक्षं लभन्ते । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
+What kind of amulet has protected this girl?
+⟪का रक्षिका बालां रक्षति ॥⟫
 
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-Buddha ist zur Wahrheit erwacht. Buddha hat die Wahrheit erkannt.
-⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
+B) Translate and convert into passive voice sentences of the past tense.
 
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
-Die Erkenntnis hat Gautama erlöst. Durch die Erkenntnis wurde Gautama erlöst.
-⟪बोधिर्गौतमं⟫ ⟪मुञ्चति⟫ ⟪।⟫
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते ।⟫
+Although Rāma desires liberation, he does not attain it.
+⟪रामेणेष्टो ऽपि मोक्षो न लब्धः ।⟫
 
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-Die Śūdras / Śūdrafrauen sind verblendet.
-⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
+⟪२⟫. ⟪योज्ञो न मुञ्चति ।⟫
+Sacrifices do not liberate.
+⟪यज्ञेन न मुक्तः । ३⟫. ⟪साधवो देवान्स्मरन्ति ।⟫
+The holy ones visualize the gods.
+⟪साधुभिर्देवाः स्मृताः । ४⟫. ⟪पुण्यवान्पुत्रो देवान्यजते ।⟫
+The virtuous son sacrifices to the gods.
+⟪पुण्यवता पुत्रेण देवा इष्टाः । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति ।⟫
+The fortunate Kṣatriya guards the dharma.
+⟪सुखवता क्षत्रियेण धर्मो रक्षितः । ६⟫. ⟪पुत्रवान्नरकं न गच्छति ।⟫
+He who has sons does not go to hell.
+⟪पुत्रवान्न्रकं न गतः । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति ।⟫
+The master says that a pious woman does no evil.
+⟪धर्मवत्या पापं न कृतमिति गुरुणोदितम् । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं प्र्च्छन्ति ।⟫
+The insightful question those who possess the truth about dharma.
+⟪बुद्धिमद्भिः सत्यवन्तो धर्मं पृष्टाः । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।⟫
+Religious persons perform meritorious deeds that bear fruit.
+⟪धर्मवद्भिः फलवत्पुण्यं कृतम् । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।⟫
+Brahmins desire excellent sons.
+⟪ब्राह्मणैर्गुणवन्तः पुत्रा इष्टाः । ११⟫. ⟪कयृग्वेदं शृण्वन्ति ।⟫
+Which men listen to the Ṛgveda?
+⟪कैरृग्वेदः श्रुतः । १२⟫. ⟪किमीश्वरः सृजति ।⟫
+What does the LORD create?
+⟪किमीश्वरेण सृष्टम् । १३⟫. ⟪साधुः कृतं पापं सहते ।⟫
+A holy person endures evil inflicted upon him.
+⟪साधुना कृतं पापं सोढम् । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।⟫
+Lowly people think that rulers desire wealth.
+⟪पार्थिवेन धनमिष्टमिति नीचैर्मतम् ।⟫
 
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-Der Brahmane wünschte Erlösung.
-⟪ब्राह्मणो⟫ ⟪मोक्षमिच्छति⟫ ⟪।⟫
-
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
-
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-Es ist gesagt, dass vedische Weise nur die Wahrheit gesagt haben.
-⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-Der Dharma hat in einen Himmel geführt.
-⟪धर्मः⟫ ⟪स्वर्गं⟫ ⟪नयति⟫ ⟪।⟫
-
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-Ein Heiliger hat nichts Unrechtes getan.
-⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-Mittels des Mantra hat man Erlösung erlangt.
-⟪मन्त्रेण⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
-Was für ein Amulett hat dieses Mädchen beschützt?
-⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
-
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit
-
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-Obwohl Rāma Erlösung wünscht, erlangt er sie nicht.
-⟪रामेणेष्टो⟫ ⟪ऽपि⟫ ⟪मोक्षो⟫ ⟪न⟫ ⟪लब्धः⟫ ⟪।⟫
-
-⟪२⟫. ⟪योज्ञो⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-Opfer erlöst nicht.
-⟪यज्ञेन⟫ ⟪न⟫ ⟪मुक्तः⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-Heilige vergegenwärtigen sich die Götter.
-⟪साधुभिर्देवाः⟫ ⟪स्मृताः⟫ ⟪।⟫
-
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्यजते⟫ ⟪।⟫
-Der tugendsame Sohn opfert den Göttern.
-⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
-
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Der glückliche Kṣatriya hütet den Dharma.
-⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫
-
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-Wer Söhne hat, kommt in keine Hölle.
-⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫
-
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-Der Meister sagt, dass eine fromme Frau nichts Böses tut.
-⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
-
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
-Einsichtige befragen die, die die Wahrheit besitzen, über den Dharma.
-⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
-
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-Religiöse Personen tun Verdienstvolles, das Frucht bringt.
-⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-Brahmanen wünschen sich vorzügliche Söhne.
-⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫
-
-⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Welche Männer hören den Ṛgveda?
-⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-Was erschafft der HERR?
-⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
-
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-Ein Heiliger erträgt ihm zugefügtes Übel.
-⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫
-
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-Niedrige denken, dass Herrscher Reichtum wünschen.
-⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
-
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-Die vedischen Weisen sehen, dass der Dämon auf keinen Fall siegt.
-⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
-
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
-Was essen und trinken Brahmanen?
-⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
+⟪१५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति ।⟫
+The Vedic sages see that the demon does not win under any circumstances.
+⟪नैवासुरेण जितमित्यृषिभिर्दृष्टम् । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
+What do Brahmins eat and drink?
+⟪ब्राह्मणैः किं पीतं खादितं च ॥⟫
 
 ::: media
 ![](/images/uebung019.webp)
-Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung019))
+Fig.: ⟪अग्निर्गृहं दहति ।⟫
+(Image source: [Details](/licenses#uebung019))
 :::
 ---
 
-## Zusätzliche Übungen
+## Additional Exercises
 
-A) Übersetzen Sie folgende Sätze.
+A) Translate the following sentences.
 
-B) Setzen Sie die Sätze Übung A) ins Passiv
+B) Put the sentences from Exercise A into the passive voice
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion
+C) Form a PPP construction for the sentences in Exercise A
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
-⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति ।⟫
+Rāma walks on the path to the village.
+⟪रामेण मार्गेण ग्रामं गम्यते । रामेण मार्गो ग्रामं गम्यते । रामो मार्गेण ग्रामं गतः । रामेण मार्गो ग्रामं गतम् । २⟫. ⟪नरा धनेन सुखमिच्छन्ति ।⟫
+People wish for happiness through wealth.
+⟪नरैर्धनेन सुखमिष्यते । सुखमिष्टम् । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते ।⟫
+The man goes to the city with his son.
+⟪नरेण पुत्रेण⟫ (⟪सह⟫) ⟪नगरं पद्यते । नरः पुत्रेण⟫ (⟪सह⟫) ⟪नगरं पन्नः । ४⟫. ⟪देवो लोकान्सृजति ।⟫
+God creates the worlds.
+⟪देवेन लोकाः सृज्यन्ते । सृष्टाः । ५⟫. ⟪बाला जलं पिबति ।⟫
+The girl drinks water.
+⟪बालया जलं पीयते । पीतम् । ६⟫. ⟪कवयो धनं लुभ्यन्ति ।⟫
+Poets desire wealth.
+⟪कविबिर्धनं लुभ्यते । लुब्धम् । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति ।⟫
+The powerful Kṣatriya defeats the Śūdras.
+⟪बल्वता क्षत्रियेण शत्रवो जीयन्ते । जिताः ।⟫
 
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-Menschen wünschen sich Glück durch Reichtum.
-⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
+⟪८⟫. ⟪गुणवान्द्विष्टमपि शत्रुं न युध्यते ।⟫
+A virtuous person does not fight their enemy, even if they are hateful to them.
+⟪गुणवता द्विष्तो ऽपि शत्रुर्न युध्यते । युद्धः । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।⟫
+The Vedic sage says that anger, hatred and greed are wrong.
+⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिणोद्यते । लोभश्चेत्यृषिणोदितम् । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति ।⟫
+Boys become strong through eating.
+⟪बालैरन्नेन बलमाप्यते । बालाभिरन्नेन बलमाप्यते । बलमाप्तम् । ११⟫. ⟪बुद्धिमन्तः सत्य⟫en ⟪मोक्षं लभन्ते ।⟫
+The insightful attain liberation through truth.
+⟪बुद्धिमद्भिः सत्येन मोक्षो लभ्यते । लब्धः । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते ।⟫
+These holy women endure evil.
+⟪इमाभिः साध्वीभिः पापं सह्यते । सोढम् । १३⟫. ⟪कां देवतामृषिः पश्यति ।⟫
+Which deity does the Ṛṣi see?
+⟪का देवतर्षिना दृश्यन्ते । दृष्टा । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
+Which gods do Brahmins, Katriyas and Vaśyas sacrifice to?
+⟪के देवा ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते । ब्राह्मणक्षत्रियवैश्यैरिष्टाः ॥⟫
 
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-Der Mann geht mit seinem Sohn in die Stadt.
-⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
+D) From which sound combinations could the following Sandhi forms have arisen? Give all possibilities:
 
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-Gott erschafft die Welten.
-⟪देवेन⟫ ⟪लोकाः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫ ⟪सृष्टाः⟫ ⟪।⟫
-
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-Das Mädchen trinkt Wasser.
-⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫ ⟪पीतम्⟫ ⟪।⟫
-
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-Dichter begehren Reichtum.
-⟪कविबिर्धनं⟫ ⟪लुभ्यते⟫ ⟪।⟫ ⟪लुब्धम्⟫ ⟪।⟫
-
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-Der mächtige Kṣatriya besiegt die Śūdras.
-⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
-
-⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-Jemand Tugendhaftes bekämpft seinen Feind nicht, auch wenn dieser ihm verhasst ist.
-⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
-
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-Der vedische Weise sagt, das Zorn, Hass und Gier Unrecht sind.
-⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
-
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-Knaben werden durch Essen stark.
-⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
-
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-Einsichtige erlangen durch die Wahrheit die Erlösung.
-⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-Diese heiligen Frauen ertragen das Übel.
-⟪इमाभिः⟫ ⟪साध्वीभिः⟫ ⟪पापं⟫ ⟪सह्यते⟫ ⟪।⟫ ⟪सोढम्⟫ ⟪।⟫
-
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-Welche Gottheit sieht der Ṛṣi?
-⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
-
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
-⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
-
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
-
-1. -a vor Vokal (ausser a-): -as
+1. -a before vowel (except a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
-3. -ā vor Vokal: -ās
-4. -ā vor stimmhaften Konsonanten: -ās
+3. -ā before vowel: -ās
+4. -ā before voiced consonants: -ās
 5. -ī-: -i + i-/ī-, -ī + i-/-ī
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e vor Avagraha: -e + a-
+9. -e before Avagraha: -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o vor Avagraha: -o
-12. -o vor stimmhaften Konsonanten -as
+11. -o before Avagraha: -o
+12. -o before voiced consonants -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
-15. -y vor Vokal: -i/-ī
-16. -v vor Vokal: -u/-ū
-17. -r vor Vokal: -ṛ/-ṝ
-18. -ay vor Vokal: -e
-19. -av vor Vokal: -o
+15. -y before vowel: -i/-ī
+16. -v before vowel: -u/-ū
+17. -r before vowel: -ṛ/-ṝ
+18. -ay before vowel: -e
+19. -av before vowel: -o
 20. -ar-: -a/-ā + ṛ-/ṝ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten: -is
-22. -īr vor Vokal oder stimmhaftem Konsonanten: -īs
-23. -ur vor Vokal oder stimmhaftem Konsonanten: -us
-24. -ūr vor Vokal oder stimmhaftem Konsonanten: -ūs
-25. -er vor Vokal oder stimmhaftem Konsonanten: -es
-26. -or vor Vokal oder stimmhaftem Konsonanten: -os
-27. -air vor Vokal oder stimmhaftem Konsonanten: -ais
-28. -aur vor Vokal oder stimmhaftem Konsonanten: -aus
+21. -ir before vowel or voiced consonant: -is
+22. -īr before vowel or voiced consonant: -īs
+23. -ur before vowel or voiced consonant: -us
+24. -ūr before vowel or voiced consonant: -ūs
+25. -er before vowel or voiced consonant: -es
+26. -or before vowel or voiced consonant: -os
+27. -air before vowel or voiced consonant: -ais
+28. -aur before vowel or voiced consonant: -aus
 29. -ñj-: -n + j-
 30. -ñś-: -n + ś
 31. -ñch-: -n + ch-
@@ -228,48 +159,48 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvara vor Konsonant: -m
+36. Anusvara before consonant: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
 
-E) Übersetzen Sie ins Sanskrit:
+E) Translate into Sanskrit:
 
-1\. Die Göttin war erzürnt.
-⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
+1. The goddess was angry.
+⟪देवी कुपिता । देव्या कुपितम्⟫
 
-2\. Śūdras sind in einen Himmel gelangt.
-⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
+2. The Śūdras have reached a heaven.
+⟪शूद्रैः स्वर्ग आप्तः । स्वर्गो ऽष्टः ।⟫
 
-3\. Die Bauern sind den Weg gegangen.
-⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
+3. The farmers have walked the path.
+⟪कर्षकैर्मार्गो गतः । कर्षका मार्गं गताः ।⟫
 
-4\. Durch die Buddhalehre wurden die Leute befreit.
-⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
+4. The people were liberated through the Buddha's teaching.
+⟪धर्मेण जना मुक्ताः ।⟫
 
-5\. Der Sohn tanzte.
-⟪पुत्रेण⟫ ⟪नृत्तम्⟫ ⟪।⟫
+5. The son danced.
+⟪पुत्रेण नृत्तम् ।⟫
 
-6\. Das Amulett hat den Lehrer beschützt.
-⟪रक्षिकया⟫ ⟪गुरू⟫ ⟪रक्षितः⟫ ⟪।⟫
+6. The amulet protected the teacher.
+⟪रक्षिकया गुरू रक्षितः ।⟫
 
-7\. Ein Brahmane hat keine Unwahrheit gesagt.
-⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
+7. A Brāhmaṇa did not speak an untruth.
+⟪ब्राह्मणेनानृतं नोदितम् ।⟫
 
-8\. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
+8. The Śūdra women worshipped the goddess with offerings.
+⟪शूद्राभिर्देवीष्टा ।⟫
 
-9\. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt.
-⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
+9. Buddha awakened to the truth = Buddha recognized the truth.
+⟪बुद्धेन सत्यं बुद्धम् । बुद्धः सत्यं बुद्धः ।⟫
 
-10\. Die vedischen Weisen haben die Śruti gehört.
-⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫
+10. The Vedic sages heard the Śruti.
+⟪ऋषिभिः श्रुतिः श्रुता ।⟫
 
-11\. Die Opferpriester haben den Soma gepresst.
-⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
+11. The sacrificial priests pressed the Soma.
+⟪यजकैः सोमः सुतः ॥⟫
 
 ::: media
 ![](/images/uebung018.webp)
-Abb.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung018))
+Fig.: ⟪बाला जलं पिबति । बालया जलं पीयते ।⟫
+(Image source: [Details](/licenses#uebung018))
 :::

@@ -1,54 +1,55 @@
 ---
-title: "Exercise 55"
+title: "Pratimas 55"
 uebung_id: 55
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 55
+# Pratimas 55
 
-Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **a-Aorists**:
+Nustatykite ir išverskite šias formas bei sudarykite atitinkamas **a-aoristo** formas:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | a-Aorist |
+| Nr. | Forma | Nustatymas / Reikšmė | a-aoristas |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪दोक्ष्यन्ति⟫ | :sig[⟪दुष्⟫] 4P: 3. Pl. Fut. P. (sie werden verderben) | ⟪अदुषन्⟫ |
-| ⟪२⟫. | ⟪बुबोध⟫ | :sig[⟪बुध्⟫] 1U: 1. 3. Sg. Perf. P. (ich erwachte / er erwachte) | **⟪अबुधम्⟫ / ⟪अबुधत्⟫** |
-| ⟪३⟫. | ⟪क्रुध्यसि⟫ | :sig[⟪क्रुध्⟫] 4P: 2. Sg. Ind. Präs. P. (du zürnst) | ⟪अक्रुधः⟫ |
-| ⟪४⟫. | ⟪तोक्ष्यथ⟫ | :sig[⟪तुष्⟫] 4P: 2. Pl. Fut. P. (ihr werdet zufrieden sein) | ⟪अतुषत⟫ |
-| ⟪५⟫. | ⟪कुप्यामः⟫ | :sig[⟪कुप्⟫] 4P: 1. Pl. Ind. Präs. P. (wir zürnen) | ⟪अकुपाम⟫ |
-| ⟪६⟫. | ⟪आप⟫ | :sig[⟪आप्⟫] 5P: 1. 3. Sg. 2. Pl. Perf. P. (ich / er / ihr erlangte/t) | **⟪आपम्⟫ / ⟪आपत्⟫ / ⟪आपत⟫** |
-| ⟪७⟫. | ⟪जग्मुः⟫ | :sig[⟪गम्⟫] 1P: 3. Pl. Perf. P. (sie gingen) | ⟪अगमन्⟫ |
-| ⟪८⟫. | ⟪छेत्स्यसि⟫ | :sig[⟪छिद्⟫] 7U: 2. Sg. Fut. P. (du wirst abschneiden) | ⟪अच्छिदः⟫ |
-| ⟪९⟫. | ⟪पश्यथ⟫ | :sig[⟪दृश्⟫] 4P: 2. Pl. Ind. Präs. P. (ihr seht) | ⟪अदर्शत⟫ |
-| ⟪१०⟫. | ⟪ध्रोक्ष्यामि⟫ | :sig[⟪द्रुह्⟫] 4P: 1. Sg. Fut. P. (ich werde schädigen) | ⟪अद्रुहम्⟫ |
-| ⟪११⟫. | ⟪नेश⟫ | :sig[⟪नश्⟫] 4P: 2. Pl. Perf. P. (ihr gingt verloren) | ⟪अनशत⟫ |
-| ⟪१२⟫. | ⟪भिन्त्थ⟫ | :sig[⟪भिद्⟫] 7U: 2. Pl. Ind. Präs. P. (ihr spaltet) | ⟪अभिदत⟫ |
-| ⟪१३⟫. | ⟪भ्राम्यामः⟫ | :sig[⟪भ्रम्⟫] 4P: 1. Pl. Ind. Präs. P. (wir irren umher) | ⟪अभ्रमाम⟫ |
-| ⟪१४⟫. | ⟪मुञ्चति⟫ | :sig[⟪मुच्⟫] 6U: 3. Sg. Ind. Präs. P. (er lässt los) | ⟪अमुचत्⟫ |
-| ⟪१५⟫. | ⟪मुह्यसि⟫ | :sig[⟪मुह्⟫] 4P: 2. Sg. Ind. Präs. P. (du irrst) | ⟪अमुहः⟫ |
-| ⟪१६⟫. | ⟪अरोदीत्⟫ | :sig[⟪रुद्⟫] 2P: 3. Sg. Impf. P. (er weinte) | ⟪अरुदत्⟫ |
-| ⟪१७⟫. | ⟪रुरोधिथ⟫ | :sig[⟪रुध्⟫] 7U: 2. Sg. Perf. P. (du hieltest auf) | ⟪अरुधः⟫ |
-| ⟪१८⟫. | ⟪श्राम्यन्ति⟫ | :sig[⟪श्रम्⟫] 4P: 3. Pl. Ind. Präs. P. (sie mühen sich ab) | ⟪अश्रमन्⟫ |
-| ⟪१९⟫. | ⟪विन्दथ⟫ | :sig[⟪विद्⟫] 6U: 2. Pl. Ind. Präs. P. (ihr findet) | ⟪अविदत⟫ |
-| ⟪२०⟫. | ⟪असीदन्⟫ | :sig[⟪सद्⟫] 1P: 3. Pl. Impf. P. (sie sassen) | ⟪असदन्⟫ |
-| ⟪२१⟫. | ⟪वर्तामहे⟫ | :sig[⟪वृत्⟫] 1Ā: 1. Pl. Ind. Präs. Ā. (wir befinden uns) | ⟪अवृतमाम⟫ (a-Aor.: P.) |
-| ⟪२२⟫. | ⟪अशात्⟫ | :sig[⟪शास्⟫] 2P: 3. Sg. Impf. P. (er befahl) | ⟪अशिषत्⟫ |
-| ⟪२३⟫. | ⟪सेक्ष्यसे⟫ | :sig[⟪शिच्⟫] 6U: 2. Sg. Fut. Ā. (du wirst beträufeln) | ⟪असिचथाः⟫ |
-| ⟪२४⟫. | ⟪अयुनक्⟫ | :sig[⟪युज्⟫] 7U: 2. 3. Sg. Impf. P. (du hast / er hat angeschirrt) | **⟪अयुजः⟫ / ⟪अयुजत्⟫** |
-| ⟪२५⟫. | ⟪आरिथ⟫ | :sig[⟪ऋ⟫] 3P: 2. Sg. Perf. P. (du bist gegangen) | ⟪आरः⟫ |
-| ⟪२६⟫. | ⟪अक्लिद्यन्⟫ | :sig[⟪क्लिद्⟫] 4P: 3. Pl. Impf. P. (sie wurden feucht) | ⟪अक्लिदन्⟫ |
-| ⟪२७⟫. | ⟪अजीर्यम्⟫ | :sig[⟪जॄ⟫] 4P: 1. Sg. Impf. P. (ich alterte) | ⟪अजरम्⟫ (hochstufig) |
-| ⟪२८⟫. | ⟪लुम्पति⟫ | :sig[⟪लुप्⟫] 6U: 3. Sg. Ind. Präs. P. (er bricht) | ⟪अलुपत्⟫ |
-| ⟪२९⟫. | ⟪अशाम्यत⟫ | :sig[⟪शम्⟫] 4P: 2. Pl. Impf. P. (ihr wurdet ruhig) | ⟪अशमत⟫ |
-| ⟪३०⟫. | ⟪अशोभथाः⟫ | :sig[⟪शुभ्⟫] 1Ā: 2. Sg. Impf. Ā. (du warst schön) | ⟪अशुभः⟫ (a-Aor.: P.) |
-| ⟪३१⟫. | ⟪अशुष्याम⟫ | :sig[⟪शुष्⟫] 4P: 1. Pl. Impf. P. (wir wurden trocken) | ⟪अशुषाम⟫ |
-| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (ich liebte / er liebte) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
+| ⟪१⟫. | ⟪दोक्ष्यन्ति⟫ | :sig[⟪दुष्⟫] 4P: 3. da. Tiesioginis laikas. Veikiamasis (jie žus) | ⟪अदुषन्⟫ |
+| ⟪२⟫. | ⟪बुबोध⟫ | :sig[⟪बुध्⟫] 1U: 1. 3. asg. Esamasis laikas. Veikiamasis (aš pabudau / jis pabudo) | **⟪अबुधम्⟫ / ⟪अबुधत्⟫** |
+| ⟪३⟫. | ⟪क्रुध्यसि⟫ | :sig[⟪क्रुध्⟫] 4P: 2. asg. Tiesioginis laikas. Veikiamasis (tu pyksti) | ⟪अक्रुधः⟫ |
+| ⟪४⟫. | ⟪तोक्ष्यथ⟫ | :sig[⟪तुष्⟫] 4P: 2. da. Tiesioginis laikas. Veikiamasis (jūs būsite patenkinti) | ⟪अतुषत⟫ |
+| ⟪५⟫. | ⟪कुप्यामः⟫ | :sig[⟪कुप्⟫] 4P: 1. da. Tiesioginis laikas. Veikiamasis (mes pykstame) | ⟪अकुपाम⟫ |
+| ⟪६⟫. | ⟪आप⟫ | :sig[⟪आप्⟫] 5P: 1. 3. asg. 2. da. Esamasis laikas. Veikiamasis (aš / jis / jie pasiekė) | **⟪आपम्⟫ / ⟪आपत्⟫ / ⟪आपत⟫** |
+| ⟪७⟫. | ⟪जग्मुः⟫ | :sig[⟪गम्⟫] 1P: 3. da. Esamasis laikas. Veikiamasis (jie ėjo) | ⟪अगमन्⟫ |
+| ⟪८⟫. | ⟪छेत्स्यसि⟫ | :sig[⟪छिद्⟫] 7U: 2. asg. Tiesioginis laikas. Veikiamasis (tu nukirs) | ⟪अच्छिदः⟫ |
+| ⟪९⟫. | ⟪पश्यथ⟫ | :sig[⟪दृश्⟫] 4P: 2. da. Tiesioginis laikas. Veikiamasis (jūs matote) | ⟪अदर्शत⟫ |
+| ⟪१०⟫. | ⟪ध्रोक्ष्यामि⟫ | :sig[⟪द्रुह्⟫] 4P: 1. asg. Tiesioginis laikas. Veikiamasis (aš žalosiu) | ⟪अद्रुहम्⟫ |
+| ⟪११⟫. | ⟪नेश⟫ | :sig[⟪नश्⟫] 4P: 2. da. Esamasis laikas. Veikiamasis (jūs pražudote) | ⟪अनशत⟫ |
+| ⟪१२⟫. | ⟪भिन्त्थ⟫ | :sig[⟪भिद्⟫] 7U: 2. da. Tiesioginis laikas. Veikiamasis (jūs skaldote) | ⟪अभिदत⟫ |
+| ⟪१३⟫. | ⟪भ्राम्यामः⟫ | :sig[⟪भ्रम्⟫] 4P: 1. da. Tiesioginis laikas. Veikiamasis (mes klaidžiojame) | ⟪अभ्रमाम⟫ |
+| ⟪१४⟫. | ⟪मुञ्चति⟫ | :sig[⟪मुच्⟫] 6U: 3. asg. Tiesioginis laikas. Veikiamasis (jis atleidžia) | ⟪अमुचत्⟫ |
+| ⟪१५⟫. | ⟪मुह्यसि⟫ | :sig[⟪मुह्⟫] 4P: 2. asg. Tiesioginis laikas. Veikiamasis (tu klaidžioji) | ⟪अमुहः⟫ |
+| ⟪१६⟫. | ⟪अरोदीत्⟫ | :sig[⟪रुद्⟫] 2P: 3. asg. Neapibrėžtinis laikas. Veikiamasis (jis verkė) | ⟪अरुदत्⟫ |
+| ⟪१७⟫. | ⟪रुरोधिथ⟫ | :sig[⟪रुध्⟫] 7U: 2. asg. Esamasis laikas. Veikiamasis (tu sustojai) | ⟪अरुधः⟫ |
+| ⟪१८⟫. | ⟪श्राम्यन्ति⟫ | :sig[⟪श्रम्⟫] 4P: 3. da. Tiesioginis laikas. Veikiamasis ( jie vargsta) | ⟪अश्रमन्⟫ |
+| ⟪१९⟫. | ⟪विन्दथ⟫ | :sig[⟪विद्⟫] 6U: 2. da. Tiesioginis laikas. Veikiamasis (jūs randate) | ⟪अविदत⟫ |
+| ⟪२०⟫. | ⟪असीदन्⟫ | :sig[⟪सद्⟫] 1P: 3. da. Neapibrėžtinis laikas. Veikiamasis (jie sėdėjo) | ⟪असदन्⟫ |
+| ⟪२१⟫. | ⟪वर्तामहे⟫ | :sig[⟪वृत्⟫] 1Ā: 1. da. Tiesioginis laikas. Viduminis. (mes esame) | ⟪अवृतमाम⟫ (a-aor.: V.) |
+| ⟪२२⟫. | ⟪अशात्⟫ | :sig[⟪शास्⟫] 2P: 3. asg. Neapibrėžtinis laikas. Veikiamasis (jis liepė) | ⟪अशिषत्⟫ |
+| ⟪२३⟫. | ⟪सेक्ष्यसे⟫ | :sig[⟪शिच्⟫] 6U: 2. asg. Tiesioginis laikas. Viduminis (tu lašins) | ⟪असिचथाः⟫ |
+| ⟪२४⟫. | ⟪अयुनक्⟫ | :sig[⟪युज्⟫] 7U: 2. 3. asg. Neapibrėžtinis laikas. Veikiamasis (tu / jis prisegė) | **⟪अयुजः⟫ / ⟪अयुजत्⟫** |
+| ⟪२५⟫. | ⟪आरिथ⟫ | :sig[⟪ऋ⟫] 3P: 2. asg. Esamasis laikas. Veikiamasis (tu nuėjai) | ⟪आरः⟫ |
+| ⟪२६⟫. | ⟪अक्लिद्यन्⟫ | :sig[⟪क्लिद्⟫] 4P: 3. da. Neapibrėžtinis laikas. Veikiamasis (jie sudrėko) | ⟪अक्लिदन्⟫ |
+| ⟪२७⟫. | ⟪अजीर्यम्⟫ | :sig[⟪जॄ⟫] 4P: 1. asg. Neapibrėžtinis laikas. Veikiamasis (aš senau) | ⟪अजरम्⟫ (pilnasis laipsnis) |
+| ⟪२८⟫. | ⟪लुम्पति⟫ | :sig[⟪लुप्⟫] 6U: 3. asg. Tiesioginis laikas. Veikiamasis (jis lūžta) | ⟪अलुपत्⟫ |
+| ⟪२९⟫. | ⟪अशाम्यत⟫ | :sig[⟪शम्⟫] 4P: 2. da. Neapibrėžtinis laikas. Veikiamasis (jūs nusiramino) | ⟪अशमत⟫ |
+| ⟪३०⟫. | ⟪अशोभथाः⟫ | :sig[⟪शुभ्⟫] 1Ā: 2. asg. Neapibrėžtinis laikas. Viduminis (tu buvai graži) | ⟪अशुभः⟫ (a-aor.: V.) |
+| ⟪३१⟫. | ⟪अशुष्याम⟫ | :sig[⟪शुष्⟫] 4P: 1. da. Neapibrėžtinis laikas. Veikiamasis (mes išdžiuvome) | ⟪अशुषाम⟫ |
+| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. asg. Esamasis laikas. Veikiamasis (aš mylėjau / jis mylėjo) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
 :::
 ::: media
 ![](/images/uebung092.webp)
-Abb.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
-(Bildquelle: [Details](/licenses#uebung092))
+Fig.: ⟪अशोभथाः । अशुभः⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#uebung092))
 :::
 

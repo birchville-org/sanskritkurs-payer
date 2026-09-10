@@ -1,114 +1,115 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Lekcija 24"
+subtitle: 'Dativ (⟪चतुर्थी⟫ = "četvrti padež")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. Dativ (⟪चतुर्थी⟫ = "četvrti padež")
 
 ::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.**
+**1. Da bi se izrazio cilj ili namera ("kako bi") radnje, umesto infinitiva (⟪तुमुन्⟫) može se koristiti i imenica sa kṛt sufiksom, koji označava radnju ili stanje, u dativu (⟪चतुर्थी⟫ = "četvrti padež").**
 
-Beispiel:
+Primer:
 
-anstatt:
+umesto:
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
 :::
-kann man auch sagen:
+može se takođe reći:
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
-oder:
+ili:
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनश्रवणाय गतः ।⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+= "Rāma je otišao da čuje predavanje učitelja."
 ::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404))
+Slika: ⟪बाला गुरुश्रवणाय गताः⟫
+(Izvor slike: [Detalji](/sh/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
+**2. Dativ (⟪चतुर्थी⟫) može takođe označavati objekat infinitiva cilja koji treba dopuniti:**
 
-Beispiel:
+Primer:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
+⟪फलेभ्यो ग्रामं गच्छति⟫ = "On ide u selo s ciljem voća = On ide u selo da donese voće."
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
+**Na isti način, dativ (⟪चतुर्थी⟫) označava cilj neke stvari ili radnje:**
 
-Beispiel:
+Primer:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+⟪यज्ञायान्नम्⟫ = "Hrana s ciljem žrtve = Hrana za žrtvu"
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401))
+Slika: ⟪यज्ञायान्नम्⟫
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] je tradicionalni hinduistički događaj koji se održava na proslavama Hindu nove godine u svim BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirima. Stotine vegetarijanskih jela se prinosi Bhagwan Swaminarayan [સ્વામિનારાયણ] tog dana.
+(Izvor slike: [Detalji](/sh/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)**
+**3. The dative (⟪चतुर्थी⟫) also denotes the person or thing for which the object of an action is intended (indirect object; question: to whom?). (However, note the verbs with double accusative (⟪द्वितीया⟫)!)**
 
-Beispiel:
+Example:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse)
+⟪रामाय फलं ददाति⟫ = "He gives Rāma a fruit." (Root ⟪दा⟫, 3rd present class)
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
+Fig.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402))
+(Image source: [Details](/sh/licenses#lekt2402))
 :::
 
 ::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
+**4. The dative is used with certain verbs (and some other words) similar to German in response to the question "to whom?":**
 
-Beispiele:
+Examples:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern."
+⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = "The god is angry with the men."
 
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen"
+⟪अलम्⟫ Adverb: "enough, sufficient, equal": ⟪अलं योधो योधाय⟫ = "a warrior is the match of another warrior"
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
+Fig.: ⟪अलं योधो योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403))
+(Image source: [Details](/sh/licenses#lekt2403))
 :::
-Weitere Verwendungen des Dativ später.
+Further uses of the dative later.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Die regelmässigen Endungen des Dativ sind:**
+**The regular endings of the dative are:**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
+* **Singular: -e ; vowel-ending feminine stems: -ai**
+* **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Consonant Stems
 
 ::: grammar-box
 
-| | Dativ Singular | Dativ Plural |
+| | Dative Singular | Dative Plural |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
 | ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
@@ -116,7 +117,7 @@ Weitere Verwendungen des Dativ später.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Interrogativpronomen
 
 ::: grammar-box
 
@@ -126,7 +127,7 @@ Weitere Verwendungen des Dativ später.
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Demonstrativpronomen
 
 ::: grammar-box
 
@@ -138,270 +139,253 @@ Weitere Verwendungen des Dativ später.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Vokalske osnove (Kielhorn)
 
 ::: grammar-box
-**Vokalische Stämme**
+**Vokalske osnove** (Kielhorn)
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫
-  * Dat. sg. ⟪देवाय⟫
-  * Dat. pl. ⟪देवेभ्यस्⟫
-* **Maskulina auf -i:** ⟪कवि⟫
-  * Dat. sg. ⟪कवये⟫
-  * Dat. pl. ⟪कविभ्यस्⟫
-* **Maskulina auf -u:** ⟪पशु⟫
-  * Dat. sg. ⟪पशवे⟫
-  * Dat. pl. ⟪पशुभ्यस्⟫
-* **Feminina auf -ā:** ⟪देवता⟫
-  * Dat. sg. ⟪देवतायै⟫
-  * Dat. pl. ⟪देवताभ्यस्⟫
-* **Feminina auf -ī:** ⟪देवी⟫
-  * Dat. sg. ⟪देव्यै⟫
-  * Dat. pl. ⟪देवीभ्यस्⟫
-* **Feminina auf -i:** ⟪श्रुति⟫
-  * Dat. sg. ⟪श्रुतये⟫ oder ⟪श्रुत्यै⟫ (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
-  * Dat. pl. ⟪श्रुतिभ्यस्⟫
-* **Feminina auf -u:** ⟪धेनु⟫
-  * Dat. sg. ⟪धेनवे⟫ oder ⟪धेन्वै⟫
-  * Dat. pl. ⟪धेनुभ्यस्⟫
+* **Imenice muškog i srednjeg roda na -a:** ⟪देव⟫ (Kielhorn)
+* Dat. jd. ⟪देवाय⟫
+* Dat. mn. ⟪देवेभ्यस्⟫
+* **Imenice muškog roda na -i:** ⟪कवि⟫ (Kielhorn)
+* Dat. jd. ⟪कवये⟫
+* Dat. mn. ⟪कविभ्यस्⟫
+* **Imenice muškog roda na -u:** ⟪पशु⟫ (Kielhorn)
+* Dat. jd. ⟪पशवे⟫
+* Dat. mn. ⟪पशुभ्यस्⟫
+* **Imenice ženskog roda na -ā:** ⟪देवता⟫ (Kielhorn)
+* Dat. jd. ⟪देवतायै⟫
+* Dat. mn. ⟪देवताभ्यस्⟫
+* **Imenice ženskog roda na -ī:** ⟪देवी⟫ (Kielhorn)
+* Dat. jd. ⟪देव्यै⟫
+* Dat. mn. ⟪देवीभ्यस्⟫
+* **Imenice ženskog roda na -i:** ⟪श्रुति⟫ (Kielhorn)
+* Dat. jd. ⟪श्रुतये⟫ ili ⟪श्रुत्यै⟫ (tj. kao ⟪कवि⟫ ili kao ⟪देवी⟫) (Kielhorn)
+* Dat. mn. ⟪श्रुतिभ्यस्⟫
+* **Imenice ženskog roda na -u:** ⟪धेनु⟫ (Kielhorn)
+* Dat. jd. ⟪धेनवे⟫ ili ⟪धेन्वै⟫ (Kielhorn)
+* Dat. mn. ⟪धेनुभ्यस्⟫
 :::
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. Sandhi završnog -ai i -au (Kielhorn)
 
 ::: grammar-box
-**Sandhi von auslautendem -ai und -au**
+**Sandhi završnog -ai i -au** (Kielhorn)
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)**
+* **-ai ispred početnog samoglasnika u pravilu se zamjenjuje s -ā (rjeđe s -āy kao unutar riječi)** (Kielhorn)
+* **-au ispred samoglasnika u pravilu se zamjenjuje s -āv (rjeđe s -ā)** (Kielhorn)
 
-Beispiel:
+Example:
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "to this fire"
 :::
-## 24.4. Wortliste
+## 24.4. Vocabulary List
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
+⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone or something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough of, stop (doing something), e.g., ⟪अलं क्रोधेन⟫ = "enough of anger = stop being angry!"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
+In the same way, ⟪अलम्⟫ is used with the Instrumental:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "It is done with anger = stop being angry!"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : to adorn
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ m.: ornament, means of adornment (in poetry)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+Fig.: ⟪अलंकारः⟫
+(Image source: [Details](/sh/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ m.: motive, occasion, cause, reason; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ f.: image, likeness
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+(Image source: [Details](/sh/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, happen, arise
 
-Von ⟪वृत्⟫:
+From ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ f.: behavior, activity, way of life
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ n.: behavior
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ Preverb:  be-, towards - there, to - here, to - there, against, into - within, with regard to, on, over, at
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Preverb: downwards, down, in, backwards
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ Preposition / Postposition: before Ablative or after Accusative: as far as, up to; with Ablative: from here, from then, since
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ Indeclinable: from there, then, therefore (Pronominal stem a- "this" + Ablative suffix -tas)
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: overseer, department head; eyewitness
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: strength, sense organ
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: consideration, argumentation
 
-davon
+thereof
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: discussion of pros and cons
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+(Image source: [Details](/sh/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: forest product, metal (non-precious)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : see, become visible; name, explain, communicate
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : tell
 
-davon:
+thereof:
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: narrative, story
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+Fig.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+(Image source: [Details](/sh/licenses#lekt2408))
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : add up, calculate
 
-davon:
+thereof:
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+⟪संख्या⟫ f.: counting, enumeration; ⟪सांख्य⟫ n.: one of the six philosophical systems (short: Basham, Wonder p. 326f.)
 :::
-⟪ग्रहण⟫ n.: Ergreifen
+⟪ग्रहण⟫ n.: grasping
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
+⟪चौल⟫ n.: ceremony (⟪संस्कार⟫) of hair cutting (at the age of 3 years)
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
+⟪तत्त्व⟫ n.: true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness)
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
+⟪स्वस्ति⟫ f.: happiness, salvation (nominal formation from ⟪सु अस्ति⟫ = "it is good")
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: bowing, reverence, greeting (declension later). Greeting formula: ⟪नमो नमः⟫
 
-davon:
+thereof:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : to bow, revere, greet
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+Fig.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
+(Image source: [Details](/sh/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: welcome (from su-ā-gata)
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: blade of grass
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ Adverb: again, back, return, but
 
-## 24.5. Übung
+## 24.5. Exercise
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 
-1.  ⟪श्रव⟫
-2.  ⟪भवन⟫
-3.  ⟪गति⟫
-4.  ⟪ऋषि⟫
-5.  ⟪सुख⟫
-6.  ⟪गमन⟫
-7.  ⟪जय⟫
-8.  ⟪साधु⟫
-9.  ⟪धेनु⟫
-10.  ⟪शुद्रा⟫
-11.  ⟪ब्राह्मणी⟫
-12.  ⟪अग्नि⟫
-13.  ⟪एतद्⟫ ⟪३⟫
-14.  ⟪सन्त्⟫
-15.  ⟪बुद्धिमन्त्⟫
-16.  ⟪यज्ञ⟫
-17.  ⟪वचन⟫
-18.  ⟪सत्यवन्त्⟫
-19.  ⟪स्मृति⟫
-20.  ⟪सर्ग⟫
-21.  ⟪स्वर्ग⟫
-22.  ⟪दर्शन⟫
-23.  ⟪सृष्टि⟫
-24.  ⟪अर्हन्त्⟫
-25.  ⟪भक्ति⟫
-26.  ⟪दोष⟫
-27.  ⟪पूजा⟫
-28.  ⟪दासी⟫
-29.  ⟪गुरु⟫
+1. ⟪श्रव⟫
+2. ⟪भवन⟫
+3. ⟪गति⟫
+4. ⟪ऋषि⟫
+5. ⟪सुख⟫
+6. ⟪गमन⟫
+7. ⟪जय⟫
+8. ⟪साधु⟫
+9. ⟪धेनु⟫
+10. ⟪शुद्रा⟫
+11. ⟪ब्राह्मणी⟫
+12. ⟪अग्नि⟫
+13. ⟪एतद् ३⟫
+14. ⟪सन्त्⟫
+15. ⟪बुद्धिमन्त्⟫
+16. ⟪यज्ञ⟫
+17. ⟪वचन⟫
+18. ⟪सत्यवन्त्⟫
+19. ⟪स्मृति⟫
+20. ⟪सर्ग⟫
+21. ⟪स्वर्ग⟫
+22. ⟪दर्शन⟫
+23. ⟪सृष्टि⟫
+24. ⟪अर्हन्त्⟫
+25. ⟪भक्ति⟫
+26. ⟪दोष⟫
+27. ⟪पूजा⟫
+28. ⟪दासी⟫
+29. ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Translate and resolve the compounds in Sanskrit:
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
+⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥ नरा धनलाभाय व्रतानि चरन्ति ॥२॥ गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥ बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥ देवप्रतिमायै गृहं गर्भगृहम् ॥५॥ स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥ मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥ देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥ मरणाय जना जायन्ते ॥९॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
+C) Render sentences A) 1-4 in Sanskrit by replacing the Dative Infinitives (⟪तुमुन्⟫). Note that the infinitive governs the same case as the corresponding verb.
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
+D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ by an equivalent dative.
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
+E) Replace in sentence A) 6 the dative construction by an equivalent construction with -⟪अर्थ⟫
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
+## 24.6. Further exercises on the use of the dative
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
+Translate into Sanskrit:
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
+1. The goddess, to whom no sacrifice has been offered, is angry with humans.
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
+2. He lets the cow loose into the village.
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
+3. Now it is enough = Enough with patience.
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb.
+4. That is good (⟪हित⟫, ⟪सुख⟫) for a Brahmin.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
-
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
-
-## 24.6. Weitere Übungen zum Gebrauch des Dativ
-
-Übersetzen Sie ins Sanskrit:
-
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-
-2\. Er lässt die Kuh ins Dorf los.
-
-3\. Jetzt reichts = Genug mit der Geduld.
-
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen.
-
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
+5. Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409))
+Fig.: ⟪श्रीगणेशाय नमः⟫
+(Image source: [Details](/sh/licenses#lekt2409))
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
+6. Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
-7\. Diese Frucht reicht zum Essen.
+7. This fruit is sufficient for eating.
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫).
+8. A warrior is a match (⟪शक्त⟫) for the (other) warrior.
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+9. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
+10. After I have bowed down to the three sages (Acc.) (⟪नमस्कृ⟫)... He bows down to Narasiṃha (Dat.)
 
 ::: indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+Explanation: ⟪मुनित्रयम्⟫ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410))
+Fig.: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ devours ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫
+(Image source: [Details](/sh/licenses#lekt2410))
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
+11. Welcome (⟪स्वागतम्⟫) to you. Welcome to the queen.
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen!
+12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
 
-13\. Er betrachtet ihn nicht als Grashalm.
+13. He does not regard him as a blade of grass.
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
+14. One fruit is sufficient for eating and water for drinking.
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
+15⟪१५⟫. Do viđenja! (Novosanskrit: ⟪पुनर्दर्शनाय⟫)
 

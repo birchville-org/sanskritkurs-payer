@@ -1,74 +1,74 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "Pamoka 54"
+subtitle: "Išankstinė pastaba"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 54
 
-## 54.1. Vorbemerkung
+## 54.1. Pastaba
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+Nuo 54-os pamokos universitetiniame kursą prasideda antrasis semestras. Nuo šiol kursas vyksta tik kaip papildoma veikla pagrindinei šio semestro temai – Bhagavadgītā visos apimties skaitymui. Mokymosi tikslas – pasiekti tokį sklandumą skaitant vidutinio sudėtingumo tekstus, kad paskutiniame semestro trečdalyje būtų galima iš karto versti dideles Bhagavadgītā dalis. Pradžioje universitetiniame kursą buvo išdalintos žodžių sąrašai, vėliau studentai turėjo patys naudoti atitinkamus žodynus (Monier-Williams, Apte, PW).
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
+Bhagavadgītā kursas laikinai nebus prieinamas internete.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
+Sanskrito kurso pamokos nagrinėja sansrito gramatikos temas, kurios iki šiol nebuvo aptartos.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Žodžių daryba: ⟪कृत्⟫ priesaga -u prie desideratyvinių kamienų
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**Prie desideratyvinių kamienų (⟪इच्छाप्रकृति⟫) ("norėti ką nors daryti"; "būti ketinimo ką nors padaryti") sudarant veikėjo daiktavardžius, pridedama priesaga -u.**
 
-(Bildung der Desiderativstämme folgt später)
+(Desideratyvinių kamienų daryba bus aptarta vėliau)
 
-Beispiel:
+Pavyzdys:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "karingas, ketinantis kautis"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402))
+Pav.: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 54.3. Metrika II: epinė ⟪त्रिष्टुभ्⟫ ir ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+⟪त्रिष्टुभ्⟫ ("trisluoksnis") epe pasirodo įprastų ⟪श्लोक⟫ dalių viduryje būtent ten, kur nuotaika ar veiksmas patiria ypatingą pakilimą arba pabaigą.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
+⟪त्रिष्टुभ्⟫-strofa susideda iš keturių vienuolikės skiemenų ⟪पाद⟫, kurie savo struktūra nesiskiria vienas nuo kito.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
+⟪त्रिष्टुभ्⟫ turi du pagrindinius schemas, priklausomai nuo to, ar cezūra (žodžio pabaiga, kompozicijos riba arba prieš tam tikrus priesagas kaip -tara, -tama ir kt.) yra po 4-ojo ar 5-ojo ⟪पाद⟫ skiemo.
 
-Schema I:
+I schema:
 
 :::
 ::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
-Schema II:
+II schema:
 
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+Taigi keturių paskutinių skiemenų kiekis abiejose schemose yra vienodas.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+⟪जगती⟫ pagrindinė forma: kaip ir ⟪त्रिष्टुभ्⟫, bet 12 skiemenų. Paskutiniai 5 kiekvieno pada skiemenai turi šiuos kiekius:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
+Be to, yra vadinamoji tipiška perteklinė ⟪त्रिष्टुभ्⟫ su penkių skiemenų pradine dalimi, kuri tęsiasi kaip ⟪त्रिष्टुभ्⟫ su keturių skiemenų pradine dalimi:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+Vėlesniais laikais ⟪त्रिष्टुभ्⟫ formos yra nustatomos pagal griežtą ilgų ir trumpų skiemenų schemą, cezūra nebeatsako. Svarbiausios vėlesnės formos yra:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -83,167 +83,157 @@ b) ⟪उपेन्द्रवज्रा⟫
 c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
+⟪पाद⟫ yra sumaišyta su ⟪इन्द्रवज्रा⟫, o ⟪पाद⟫ yra sumaišyta su ⟪उपेन्द्रवज्रा⟫.
 :::
 ::: grammar-box
-**Merkverse:**
+**Mnemoninės eilutės:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"Tai yra Indravājrā, jei skiemenys visuose pada yra ta ta ja ga ga.
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
+„Upendravajrā yra kaip Indravajrā, kuri pradžioje turi lengvą skiemens dalį“
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
+„Kai dviejuose pādose, turinčiuose Indravajrā arba Upendravajrā požymius, dalyvauja vienas eilėraštis, tai yra Upajāti. Net jei kitos metrikos sumaišytos viename eilėraštyje, tai vadinama Upajāti.“
 :::
-## 54.4. Übung zur Metrik
+## 54.4. Metrikos pratimas
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+Bhagavadgītā II triṣṭubh ir jagatī metrikas nustatykite.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
+Pavyzdys skaitant: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Prieiga 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Aoristo formavimo tipai (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**Visiems aoristo formavimo tipams (⟪लुङ्⟫) bendra tai, kad priešais dedamas augmenas a-, kuris taikomas pagal tas pačias taisykles kaip ir imperfektui (⟪लङ्⟫).**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
+Iš aoristo sanskrito kalboje dažniausiai vartojamas tik indikatyvas ir prektyvas.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**Yra šie aoristo formavimo tipai (⟪लुङ्⟫):**
 
-1.  Nichtsibilantische (asigmatische) Aoriste:
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
+1. Nesibilantiniai (asigminiai) aoristai: 
+*   54.1. Šaknies aoristas: Augmenas + šaknis + antrinė galūnė
+*   54.2. Tematinis aoristas: Augmenas + šaknis + **a** + antrinė galūnė
+*   54.3. Redupliuotas aoristas: Augmenas + **redupliuota** šaknis + **a** + antrinė galūnė 
+2. Sibilantiniai (sigminiai) aoristai: s arba skiemuo, kuriame yra s (ṣ), priešais dedamas prie asmeninės galūnės 
+*   54.4. -s aoristas: Augmenas + šaknis + **s** \+ antrinė galūnė
+*   54.5. -iṣ aoristas: Augmenas + šaknis + **i** + **ṣ** + antrinė galūnė
+*   54.6. -siṣ aoristas: Augmenas + šaknis + **siṣ** + antrinė galūnė
+*   54.7. -sa aoristas: Augmenas + šaknis + **s** + **a** + antrinė galūnė
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
+The distribution of roots among the various formation types is discussed under each individual type.
 :::
-## 54.6. Wurzelaorist
+## 54.6. Root Aorist
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**Augment + Wurzel + Sekundärendung**
+**Augment + Root + Secondary Ending**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+The ending of the 3rd person plural is -ur. Ātmanepada (middle voice) is not in common use.
 
-Beispiel:
+Example:
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 1P "to drink"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
+| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫: bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫: bra-p-ur (Guṇa grade!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+The Root Aorist is formed from only 12 roots:
 
-1.  ⟪गा⟫ 3 "gehen"
-2.  ⟪घ्रा⟫ 1P "riechen"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben"
-5.  ⟪दो⟫  1, 4 "schneiden"
-6.  ⟪धा⟫ 3U "setzen"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken"
-9.  ⟪शो⟫ 4P "schärfen"
-10.  ⟪सो⟫ "beendigen"
-11.  ⟪स्था⟫ 1P "stehen"
-12.  ⟪भू⟫ 1P "sein
+1. ⟪गा⟫ 3 "to go"
+2. ⟪घ्रा⟫ 1P "to smell"
+3. ⟪छो⟫ 6 "to cut" (⟪अच्छात्⟫)
+4. ⟪दा⟫ 3U "to give"
+5. ⟪दो⟫  1, 4 "to cut"
+6. ⟪धा⟫ 3U "to place"
+7. ⟪धे⟫ 1 "to suck" (⟪अधात्⟫)
+8. ⟪पा⟫ 1P "to drink"
+9. ⟪शो⟫ 4P "to sharpen"
+10. ⟪सो⟫ "to finish"
+11. ⟪स्था⟫ 1P "to stand"
+12. ⟪भू⟫ 1P "to be"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
+For ⟪भू⟫ 1P, the Root Aorist is formed as follows:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
+| 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. The Aorist of the 3rd person singular Passive
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
+A special form of the Root Aorist is the 3rd person singular Passive Aorist. This can be formed from all roots.
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**Augment + Wurzel + i**
+**Augment + Root + i**
 
-**Die Wurzel hat folgende Gestalt:**
+**The root takes the following form:**
 
-Hochstufe:
+Strong grade:
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am
-    Beispiele:  
+*   Roots with a short vowel (except a) before a single consonant, as well as ⟪जन्⟫ and most roots ending in -am  
+Examples:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "he was split"  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "he was pushed"
+
+Pratarmė:
+
+*   Šaknys su galiniu balsiu  
+Pavyzdžiai:  
+⟪नी⟫ 1U: ⟪अनायि⟫ „jis buvo vedamas“  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ „ji buvo giriamas“  
+⟪कृ⟫ 8U: ⟪अकारि⟫ „jis buvo padarytas“  
+
+
+*   Šaknys su a prieš paprastą priebalsį (išskyrus ⟪जन्⟫ ir šaknis su -am pabaiga)  
+Pavyzdys:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ „jis buvo pasakyta“  
+bet:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ „ji buvo gimusi“  
+
+
+*   kai kurios šaknys su -am pabaiga  
+Pavyzdys:  
+⟪गम् अगामि⟫
+
+
+Įterpiamas y prieš priesagą:
+
+*   Šaknys su -ā, -e, -ai, -o įterpia y tarp šaknies -ā ir priesagos:  
+Pavyzdys:  
+⟪दा⟫ 3U: ⟪अदायि⟫ „jis buvo duotas“
+
+
+Nosinė infixas:
+
+*   Kai kurios šaknys turi nosinę infixą:  
+Pavyzdys:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ šalia ⟪अलाभि⟫ : „jis buvo priimtas“
+
+
+(Kitos aktyvo formos aoriste išreiškiamos Ātmanepada formomis).
 :::
-::: indent
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
-:::
+## 54.7. Pratimas
 
-Dehnstufe:
-
-*   Wurzeln mit auslautendem Vokal
-    Beispiele:  
-::: indent
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"
-:::
-
-*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)
-    Beispiel:  
-::: indent
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
-aber:
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"
-:::
-
-*   einige Wurzeln auf -am
-    Beispiel:  
-::: indent
-⟪गम्⟫ ⟪अगामि⟫
-:::
-
-Einschub von y vor Endung:
-
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:
-    Beispiel:  
-::: indent
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
-:::
-
-Nasalinfix:
-
-*   einige Wurzeln haben ein Nasalinfix:
-    Beispiel:  
-::: indent
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
-:::
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-## 54.7. Übung
-
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
+Raštu išverkite šias formas ir sudarykite atitinkamas aoristo formas:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -265,14 +255,14 @@ Nasalinfix:
 18.  ⟪उद्यते⟫
 19.  ⟪स्तूयते⟫
 20.  ⟪कृष्यते⟫
-21.  ⟪जायते⟫ (Pass.)
+21.  ⟪जायते⟫ (P.)
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Pav.: ⟪त्रिचक्रेणेश्वरः स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5401))
 :::
 

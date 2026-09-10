@@ -250,7 +250,7 @@ Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt1703))
 :::
-⟪आस्⟫ 2nd class ⟨IAST_L_N⟩ Pass. ⟨IAST_L_N⟩ PPP ⟪आसित⟫ : to sit
+⟪आस्⟫ 2 Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : to sit
 
 thereof:
 
@@ -263,23 +263,23 @@ thereof:
 Fig.: ⟪योगासनम्⟫
 (Image source: [Details](/en/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2nd class ⟨IAST_L_N⟩ Pass. ⟨IAST_L_N⟩ PPP ⟪रुदित⟫ : to weep, howl
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : to weep, howl
 
 thereof:
 
 ::: indent
 ⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
 :::
->> ⟪ब्रू⟫ 2nd class ⟨IAST_L_N⟩ Ā ⟨IAST_L_N⟩ no Passive and PPP: to speak, say (something to someone: double accusative)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ no Passive and PPP: to speak, say (something to someone: double accusative)
 
-⟪दुह्⟫ 2nd class ⟨IAST_L_N⟩ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
 
 ::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
 (Image source: [Details](/en/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6th class ⟨IAST_L_N⟩ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : to show, instruct, command
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : to show, instruct, command
 
 thereof:
 
@@ -304,6 +304,8 @@ A) Insert the verb in the following sentences and translate:
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
 
 ⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
+
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
 
 ⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
 

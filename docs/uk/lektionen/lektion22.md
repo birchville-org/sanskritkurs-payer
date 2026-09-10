@@ -1,10 +1,11 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Урок 22"
+subtitle: "Абсолют (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 22
@@ -259,5 +260,35 @@ status: stable
 ![](/images/lekt2204.webp)
 Рис.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt2204))
-:::
 
+⟪३६⟫. ⟪स्मरति⟫
+
+⟪३७⟫. ⟪हन्ति⟫
+
+⟪३८⟫. ⟪अश्नुवते⟫
+
+⟪३९⟫. ⟪कुप्यते⟫
+
+⟪४०⟫ ⟪कर्षन्ति⟫
+
+⟪४१⟫. ⟪उद्यते⟫
+
+⟪४२⟫. ⟪सहन्ते⟫
+
+⟪४३⟫. ⟪सिच्यन्ते⟫
+
+⟪४४⟫. ⟪आप्नोति⟫
+
+⟪४५⟫. ⟪जीव्यते⟫
+
+⟪४६⟫. ⟪दिश्यन्ते⟫
+
+::: deleteme-box
+
+**lekt1701:** [Джерело зображення: від tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без змін)]
+
+**lekt1702:** [Джерело зображення: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання, поділитися на тих самих умовах)]
+
+**lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання)]
+:::
+ &lt;!--  --&gt;

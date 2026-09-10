@@ -10,6 +10,21 @@ Overview of releases, new features, and technical optimizations in the Sanskritk
 
 ---
 
+## 🚀 Version 1.8.0 (September 2026)
+
+**Focus:** *100% Completion Milestone across 48 Target Languages, Addition of Estonian & isiZulu, Autonomous Healing Architecture*
+
+### ✨ Features & Highlights
+- **100% Completion Milestone (0 Fallbacks)**: All 48 supported target languages (`en`, `it`, `es`, `fr`, `ru`, `uk`, `rm`, `ar`, `fi`, `ta`, `pa`, `la`, `id`, `th`, `hi`, `el`, `grc`, `ro`, `he`, `hu`, `zh-CN`, `am`, `pt`, `af`, `nl`, `fa`, `lt`, `sh`, `sq`, `bg`, `zh`, `tr`, `vi`, `pl`, `cs`, `sk`, `sl`, `ka`, `hy`, `si`, `te`, `da`, `no`, `sv`, `is`, `gez`, `et`, `zu`) have achieved 100.0% completion without fallbacks (140/140 files clean each, totaling 6,860 clean localized markdown files).
+- **Estonian (`et`) Addition**: Integrated, localized, and fully translated with native Estonian grammar conventions (`# Harjutus`, `Pildi allikas:`, `Joonis:`).
+- **isiZulu (`zu`) Addition**: Integrated, localized, and fully translated with native isiZulu grammar conventions (`# Isivivinyo`, `Umthombo wesithombe:`, `Umfanekiso:`).
+- **Ge'ez (`gez`) & Bulgarian (`bg`) Completion**: Ge'ez (`gez`) healed and verified to 100% with Ethiopic script integrity; Bulgarian (`bg`) fully restored and validated.
+- **Autonomous Multi-Worker Healer Pipeline**: Production deployment of `scripts/autonomous_healer.py` with multi-process safe PID isolation, forward/reverse bidirectional queue resolution, and strict Lingua verification gates (`is_file_fallback`).
+- **Repository Optimization**: Streamlined project scope by purging non-viable ancient and dialectal corpora (`cop`, `akk`, `arc`, `gsw`), focusing computational and philological resources exclusively on supported living languages.
+- **Full QA-Viewer & Navigation Parity**: Interactive QA Viewer (`docs/public/qa_viewer.html`) and VitePress configuration updated to full 49-locale parity with dynamic sidebar and theme generation.
+
+---
+
 ## 🚀 Version 1.7.0 (August 2026)
 
 **Focus:** *100% Completion in Key Target Locales, Offline-First PWA & UI Polish*

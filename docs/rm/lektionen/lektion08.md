@@ -1,10 +1,11 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. classa da preschent"
+title: "Lecziun 8"
+subtitle: "Furmaziun da sustantivs & Classa da present 8"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Lecziun 8
@@ -84,8 +85,8 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/rm/licenses#lekt0801))
+Fig.: Maa Batakali Darshan, Puri, Orissa
+(Font dal maletg: [Details](/rm/licenses#lekt0801))
 :::
 
 ::: note-box
@@ -214,7 +215,7 @@ La radiz principala da la 8. classa è **kṛ** 8 U (⟪कृ⟫) "far, far". L
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Stylus indian da scriver en azzier per incider sin paglia da palma
+Fig.: **likh** (⟪लिख्⟫) : Stylus indian da scriver en azzier per incider sin paglia da palma
 (Fontana da l’imagines: [Detagls](/rm/licenses#lekt0809))
 :::
 

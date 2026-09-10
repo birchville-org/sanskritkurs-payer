@@ -241,8 +241,8 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/grc/licenses#lekt1003))
+Εἰκ.: ⟪वरुणः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
@@ -260,8 +260,8 @@ Abb.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/grc/licenses#lekt1002))
+Εἰκ.: ⟪विश्वामित्रः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
@@ -323,8 +323,8 @@ Abb.: ⟪विश्वामित्रः⟫
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: ⟪तन्तुवायः⟫
-(Bildquelle: [Details](/grc/licenses#lekt1004))
+Εἰκ.: ⟪तन्तुवायः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1004))
 :::
 5. Lehrer fragen. (Passivkonstruktion)
 6. Das Auge führt. (Passivkonstruktion)

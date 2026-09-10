@@ -1,74 +1,74 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "Mësimi 54"
+subtitle: "Shënime paraprake"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 54
 
-## 54.1. Vorbemerkung
+## 54.1. Shënime paraprake
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+Me Mësimin 54 fillon në mësimdhënien universitare semestri i 2-të. Nga kjo pikë e tutje, kurset ndjekin vetëm paralelisht me temën kryesore të këtij semestri: leximin e plotë të Bhagavadgītās. Qëllimi i mësimit është një rrjedhshmëri e tillë në leximin e teksteve mesatarisht të vështira, sa pjesët më të mëdha të Bhagavadgītās në fundin e semestrit mund të përkthehen nga goja. Në fillim, në mësimdhënien universitare shpërndaheshin lista fjalësh; më vonë, studentët duhej të përdornin vetë fjalaret përkatëse (Monier-Williams, Apte, PW).
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
+Kurset për Bhagavadgītās nuk do të ofrohen përkohësisht në internet.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
+Mësime të kursit të Sanskritit trajtojnë tema gramatikore sanskrite që nuk janë trajtuar më parë.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Formimi i fjalëve: Sufiksi -u ⟪कृत्⟫ në rrënjët e dëshirës
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**Në rrënjët e dëshirës (⟪इच्छाप्रकृति⟫) ("duan të bëjnë diçka"; "janë në procesin e bërjes së diçkaje") shtohet sufiksi -u për formimin e emrave të vepruesit.**
 
-(Bildung der Desiderativstämme folgt später)
+(Formimi i rrënjëve të dëshirës vjen më vonë)
 
-Beispiel:
+Shembull:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "i dëshirueshëm për luftë, në procesin e luftës"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402))
+Fig.: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 54.3. Metrika II: ⟪त्रिष्टुभ्⟫ epik dhe ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+⟪त्रिष्टुभ्⟫ ("Tre-hapësirë") shfaqet në epope midis pjesëve të zakonshme ⟪श्लोक⟫ pikërisht në vendet ku ndjenja ose veprimi përjetojnë një ngritje të veçantë apo përfundim.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
+Strofa ⟪त्रिष्टुभ्⟫ përbëhet nga katër strofa ⟪पाद⟫ me nga dhjetë e një zëra, të cilat nuk ndryshojnë në strukturën e tyre.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
+⟪त्रिष्टुभ्⟫ ka dy skema themelore, varësisht nëse caesura (fund i fjalës, kufi kompozicioni ose para shtesave specifike si -tara, -tama etj.) ndodhet pas zërit të 4-t ose të 5-t të ⟪पाद⟫.
 
-Schema I:
+Skema I:
 
 :::
 ::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
-Schema II:
+Skema II:
 
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+Sasi e katër zërave të fundit është pra e njëjtë në të dyja skemat.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+Forma bazë ⟪जगती⟫: si te ⟪त्रिष्टुभ्⟫, por me 12 zëra. Pesë zërat e fundit të çdo Pada shfaqin sasi të mëposhtme:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
+Përveç kësaj, ekziston ⟪त्रिष्टुभ्⟫-ja e quajtur tipike tepërse me pjesë fillimi pesëzërshe, e cila vazhdon si një ⟪त्रिष्टुभ्⟫ me pjesë fillimi katërzërshe:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+Në periudha më të vona, format e ⟪त्रिष्टुभ्⟫ përcaktohen sipas një skeme të rreptë gjatësish dhe shkurtesash, caesura nuk luan më asnjë rol. Format kryesore të periudhave më të vona janë:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -83,167 +83,157 @@ b) ⟪उपेन्द्रवज्रा⟫
 c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
+⟪पाद⟫ në ⟪इन्द्रवज्रा⟫ dhe ⟪पाद⟫ në ⟪उपेन्द्रवज्रा⟫ janë të përzierë në një strofë.
 :::
 ::: grammar-box
-**Merkverse:**
+**Varze kujtesë:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"Është një Indravājrā, nëse zërat janë ta ta ja ga ga në të gjitha Pādās.
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
+"Një Upendravajrā është si një Indravajrë, e cila në fillim ka një varg të lehtë"
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
+"Kur dy Pādas, që kanë karakteristikat e Indravajrës përkatësisht Upendravajrës, janë të përfshira në një varg, atëherë ato quhen Upajātis. Edhe kur metra të tjerë janë të përzier në një varg, thuhet se është Upajāti."
 :::
-## 54.4. Übung zur Metrik
+## 54.4. Ushtrim për Metrikën
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+Përcaktoni në Bhagavadgītā II Triṣṭubhs dhe Jagatīs.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
+Shembull i një recitimi: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Qasje më 28-01-2009
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Llojet e formimit të Aorit (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**Gjithë llojeve të formimit të Aorit (⟪लुङ्⟫) u përbashkëtohet Augmenti a-, i cili vendoset sipas të njëjtave rregulla si në Imperfekt (⟪लङ्⟫).**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
+Nga Aori në sanskritisht janë të përdorura vetëm Indikativi dhe Prekativi.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**Ekzistojnë llojet e mëposhtme të formimit të Aorit (⟪लुङ्⟫):**
 
-1.  Nichtsibilantische (asigmatische) Aoriste:
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
+1. Aoret jo-sibilante (asigmatike): 
+*   54.1. Aori i rrënjës: Augment + Rrënja + Fundimi dytësor
+*   54.2. Aori me vokalin temës: Augment + Rrënja + **a** + Fundimi dytësor
+*   54.3. Aori i ripërtëritur: Augment + **rrënja e ripërtëritur** + **a** + Fundimi dytësor 
+2. Aoret sibilante (sigmatike: s ose një varg që përmban s (ṣ) paraqitet para fundimit personal 
+*   54.4. Aori -s: Augment + Rrënja + **s** \+ Fundimi dytësor
+*   54.5. Aori -iṣ: Augment + Rrënja + **i** + **ṣ** + Fundimi dytësor
+*   54.6. Aori -siṣ: Augment + Rrënja + **siṣ** + Fundimi dytësor
+*   54.7. Aori -sa: Augment + Rrënja + **s** + **a** + Fundimi dytësor
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
+Shpërndarja e rrënjeve te tipet individuale të formimit shihni tek tipat individualë
 :::
-## 54.6. Wurzelaorist
+## 54.6. Aoristi i rrënjës
 
 ::: grammar-box
-**Bildung:**
+**Formimi:**
 
-**Augment + Wurzel + Sekundärendung**
+**Augment + Rrënjë + Përfundim dytësor**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+Përfundimi për 3.pl.P është -ur. Ātmanepada nuk përdoret.
 
-Beispiel:
+Shembull:
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 1P "pij"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Niveli i ulët!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+Vetëm nga 12 rrënjë formohet aoristi i rrënjës:
 
-1.  ⟪गा⟫ 3 "gehen"
-2.  ⟪घ्रा⟫ 1P "riechen"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben"
-5.  ⟪दो⟫  1, 4 "schneiden"
-6.  ⟪धा⟫ 3U "setzen"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken"
-9.  ⟪शो⟫ 4P "schärfen"
-10.  ⟪सो⟫ "beendigen"
-11.  ⟪स्था⟫ 1P "stehen"
-12.  ⟪भू⟫ 1P "sein
+1.  ⟪गा⟫ 3 "shkoj"
+2.  ⟪घ्रा⟫ 1P "ndiej erë"
+3.  ⟪छो⟫ 6 "pres" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U " jap"
+5.  ⟪दो⟫   1, 4 "pres"
+6.  ⟪धा⟫ 3U "vendos"
+7.  ⟪धे⟫ 1 "gëlltit" (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P "pij"
+9.  ⟪शो⟫ 4P "mpreht"
+10. ⟪सो⟫ "përfundoj"
+11. ⟪स्था⟫ 1P "qëndroj"
+12. ⟪भू⟫ 1P "jam"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
+Për ⟪भू⟫ 1P aoristi i rrënjës formohet kështu:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Aoristi i 3.sg.Passiv
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
+Një formë speciale e aoritit të rrënjës është aoristi i 3.sg.Passiv. Ky mund të formohet nga të gjitha rrënjët.
 
 ::: grammar-box
-**Bildung:**
+**Formimi:**
 
-**Augment + Wurzel + i**
+**Augment + Rrënjë + i**
 
-**Die Wurzel hat folgende Gestalt:**
+**Rrënja ka këtë formë:**
 
-Hochstufe:
+Niveli i lartë:
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am
-    Beispiele:  
+*   Rrënjët me zanore të shkurtër (përveç a) para një konsonante të vetme si dhe ⟪जन्⟫ dhe shumica e rrënjeve me -am  
+Shembuj:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "u nda"  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "u shtyu"
+
+Shkalla e zgjatjes:
+
+*   Rrënjët me zanor në fund  
+Shembuj:  
+⟪नी⟫ 1U: ⟪अनायि⟫ "u udhëzua"  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "u lavdërua"  
+⟪कृ⟫ 8U: ⟪अकारि⟫ "u bë"  
+
+
+*   Rrënjët me a përpara një konsonante të vetme (përveç ⟪जन्⟫ dhe rrënje me -am)  
+Shembull:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ "u tha"  
+por:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "lindi"  
+
+
+*   disa rrënjë me -am  
+Shembull:  
+⟪गम् अगामि⟫
+
+
+> Zbritja e y para fundëzës:
+
+*   Rrënjët me -ā, -e, -ai, -o shtojnë një y midis -a-s së rrënjes dhe fundëzës:  
+Shembull:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "iu dha"
+
+
+Infix nazal:
+
+*   Disa rrënjë kanë një infix nazal:  
+Shembull:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ përballë ⟪अलाभि⟫ : "u mor"
+
+
+(Format e tjera të pasivës shfaqen në aorist me forma Ātmanepada).
 :::
-::: indent
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
-:::
+## 54.7. Ushtrim
 
-Dehnstufe:
-
-*   Wurzeln mit auslautendem Vokal
-    Beispiele:  
-::: indent
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"
-:::
-
-*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)
-    Beispiel:  
-::: indent
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
-aber:
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"
-:::
-
-*   einige Wurzeln auf -am
-    Beispiel:  
-::: indent
-⟪गम्⟫ ⟪अगामि⟫
-:::
-
-Einschub von y vor Endung:
-
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:
-    Beispiel:  
-::: indent
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
-:::
-
-Nasalinfix:
-
-*   einige Wurzeln haben ein Nasalinfix:
-    Beispiel:  
-::: indent
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
-:::
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-## 54.7. Übung
-
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
+Përktheni me shkrim format e mëposhtme dhe formoni format përkatëse të aoristit:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -265,14 +255,14 @@ Nasalinfix:
 18.  ⟪उद्यते⟫
 19.  ⟪स्तूयते⟫
 20.  ⟪कृष्यते⟫
-21.  ⟪जायते⟫ (Pass.)
+21.  ⟪जायते⟫ (Pas.)
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Fig.: ⟪त्रिचक्रेणेश्वरः स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5401))
 :::
 

@@ -1,17 +1,18 @@
 ---
-title: "Exercise 35"
+title: "Pratimas 35"
 uebung_id: 35
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 35
+# Pratimas 35
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) Sudarykite atitinkamas perfektines formas iš šių veiksmažodžių formų:
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt |
+| Esamasis / Neapibrėžtasis praeities laikas | Perfektas |
 | :--- | :--- |
 | ⟪१⟫. ⟪गायन्ति⟫ | ⟪जगुः⟫ |
 | ⟪२⟫. ⟪स्मरन्ति⟫ | ⟪सस्मरुः⟫ |
@@ -55,36 +56,32 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 | ⟪४०⟫. ⟪जुह्वति⟫ | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. ⟪अहरत्⟫ | ⟪जहार⟫ |
 :::
-B) Übersetzen Sie:
+B) Išverkite:
 
-⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Einstmals begann ein grosser Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."
+⟪१⟫. **⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥⟫**
+Kartą galingas kšatrijas pradėjo aukoti. Indra pagrobė (paėmė) jo aukos gyvulį. Tačiau kai gyvulys dingo, piktas brahmanas tarė kšatrijui: „Gyvulys dingo dėl prasto kšatrijo elgesio.“
 
-⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma war sohnlos. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Göttern und vollzog Gelübde wie sexuelle Enthaltsamkeit und dergleichen. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn.
+⟪२⟫. **⟪रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवू रामाय चेष्टपुत्रं ददुः ॥२॥⟫**
+Rāma was be vaikaiš. Jis troško sūnaus, tačiau negavo jo. Todėl jis aukojosi dievams ir vykdė įžadus, tokius kaip seksuališkas susilaikymas ir panašiai. Dievai išgirdo Rāmos norą ir dovanojo jam pageidaujamą sūnų.
 
-⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-Die Brahmaninnen kochten Ghee für das Opfer. Während die Brahmaninnen kochten, bereiteten die Brahmanen den Opferplatz. Dann opferten die Kṣatriyas Śiva und den anderen Göttern als Opferherren, und die Brahmanen vollzogen das Opfer (im Auftrag).
+⟪३⟫. **⟪ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫**
+Brahmanės virino sviestą aukojimui. Kol brahmanės virė, brahmanai rengė aukojimo vietą. Tada kṣatrijai aukojo Šivai ir kitiems dievams kaip aukojimo šeimininkai, o brahmanai vykdė aukojimą (įsakymu).
 
-⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats haben die Familienbande zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und — vom Leiden befreit — das Glück der Erlösung erreicht.
+⟪४⟫. **⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫**
+Arhatai sutriuškino šeimos ryšius, nutraukė troškimą, neapykantą ir apgaulę, atpažino tiesą ir — išvaduoti nuo kančios — pasiekė išganymo laimę.
 
 ---
 
-## Syntaktische Variation (Perfekt zu Imperfekt)
+## Sintaksinis kaitumas (Perfekto į Imperfektą)
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen:
+C) Pakeiskite B) pratimų sakinius, perfekto formas pakeisdami imperfektais:
 
-⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
+⟪१⟫. ⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपाक्रामत । तस्य यज्ञपशुमिन्द्रो ऽहरत् ॥ २⟫. ⟪रामो ऽपुत्र आसीत् । स पुत्रमैच्छन्न त्वलभत । तस्माद्देवानयजत ब्रह्मचर्यादिव्रतानि चाचरत् । देवा रामस्येष्टिमशृण्वन्रामाय चेष्टपुत्रमददुः ॥⟫
 
-⟪२⟫. ⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आसीत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमैच्छन्न⟫ ⟪त्वलभत⟫ ⟪।⟫ ⟪तस्माद्देवानयजत⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪चाचरत्⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिमशृण्वन्रामाय⟫ ⟪चेष्टपुत्रमददुः⟫ ⟪॥⟫
-
-⟪३⟫. ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतमपचन्⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪समस्कुर्वन्⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानयजन्त⟫ ⟪ब्राह्मणाश्चायजन्⟫ ⟪॥⟫
-
-⟪४⟫. ⟪अर्हन्तः⟫ ⟪कुलबन्धनमभिन्दंल्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪चारुन्धन्सत्यमजानन्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमाप्नुवन्⟫ ⟪॥⟫
+⟪३⟫. ⟪ब्राह्मण्यो यज्ञाय घृतमपचन् । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं समस्कुर्वन् । ततः क्षत्रियाः शिवादिदेवानयजन्त ब्राह्मणाश्चायजन् ॥ ४⟫. ⟪अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥⟫
 
 ::: media
 ![](/images/uebung058.webp)
-Abb.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
-(Bildquelle: [Details](/licenses#uebung058))
+Fig.: ⟪ब्राह्मणीषु पचन्तीषु⟫ ...
+(Image source: [Details](/licenses#uebung058))
 :::

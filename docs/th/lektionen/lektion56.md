@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "บทที่ 56"
+subtitle: "อกรรมกริยาแบบซ้ำ"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 56
@@ -295,4 +296,3 @@ A) จงระบุและแปลรูปต่อไปนี้โด�
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 58]"
 uebung_id: 58
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,91 +7,79 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 58
+# Bài tập 58
 
-## A) iṣ-Aorist-Transformationen
+## A) Biến đổi iṣ-Aorist
 
-Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **iṣ-Aorists**:
+Xác định và dịch các dạng sau, đồng thời tạo ra các dạng tương ứng của **iṣ-Aorist**:
 
-1.  ⟪औहे⟫ - ⟪ऊह्⟫  1Ā 1.sg.Impf.Ā ich schob - ⟪औहिषि⟫
-2.  ⟪जाग्रति⟫ - ⟪जागृ⟫ 2P 3.pl.Ind.Präs.P sie sind wach - ⟪अजागरिषुः⟫
-3.  ⟪जीर्यन्ति⟫ - ⟪जॄ⟫ 4P 3.pl.Ind.Präs.P sie altern - ⟪अजारिषुः⟫
-4.  ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P verehren 1.3.sg.2.pl.Perf.P  - ⟪आर्चिषम्⟫ ⟪।⟫ ⟪आर्चीत्⟫ ⟪।⟫ ⟪आर्चिष्ट⟫
-    
-5.  ⟪खादामः⟫ - ⟪खाद्⟫ 1P 1.pl.Ind.Präs.P wir kauen - ⟪अखादिष्म⟫
-6.  ⟪नेद⟫ - ⟪नद्⟫ 1P 2.pl.Perf.P ihr ertöntet - ⟪अनादिष्ट⟫ ⟪।⟫ ⟪अनदिष्ट⟫
-7.  ⟪आश्नीत⟫ -⟪अश्⟫ 9P 2.pl.Impf.P ihr asst - ⟪आशिष्ट⟫
-8.  ⟪पुनते⟫ - ⟪पू⟫ 9U 3.pl.Ind.Präs.Ā sie reinigen im eigenen Interesse - ⟪अपविषत⟫
-9.  ⟪अशेरत⟫ - ⟪शी⟫ 2Ā 3.pl.Impf.Ā sie lagen - ⟪अशयिषत⟫
-10.  ⟪इयेषिथ⟫ - ⟪इष्⟫ 6P 2.sg.Perf.P du hast gewünscht - ⟪ऐषीः⟫
-11.  ⟪आर्च्छत्⟫  - ⟪ऋ⟫ 1P 3.sg.Impf.P er ging - ⟪आरीत्⟫
-12.  ⟪अर्हन्ति⟫ - ⟪अर्ह्⟫ 1P 3.pl.Ind.Präs.P sie sind würdig - ⟪आर्हिषुः⟫
-13.  ⟪ऊदुः⟫ - ⟪वद्⟫ 1P 3.pl.Perf.P sie sprachen - ⟪अवादिषुः⟫
-14.  ⟪इन्त्से⟫ - ⟪इन्ध्⟫ 7Ā 2.sg.Ind.Präs,Ā du zündest an - ⟪ऐन्धिष्ठाः⟫
-15.  ⟪आध्वे⟫ - ⟪आस्⟫ 2Ā 2.pl.Ind.Präs.Ā ihr sitzt -⟪आसिध्वम्⟫
-16.  ⟪कल्पे⟫ - ⟪कॢप्⟫ 1.sg.Ind.Präs.Ā ich passe -⟪अकल्पिषि⟫
-17.  ⟪आनीत्⟫ - ⟪अन्⟫ 2P 3.sg.Impf.P er atmete - ⟪आनीत्⟫
-18.  ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.Ā ihr saht - ⟪ऐक्षिध्वम्⟫
-19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P du nahmst wahr - ⟪अचेतीः⟫
+1. ⟪औहे⟫ - ⟪ऊह्⟫ 1Ā 1.sg.Impf.Ā tôi đẩy - ⟪औहिषि⟫
+2. ⟪जाग्रति⟫ - ⟪जागृ⟫ 2P 3.pl.Ind.Präs.P họ thức - ⟪अजागरिषुः⟫
+3. ⟪जीर्यन्ति⟫ - ⟪जॄ⟫ 4P 3.pl.Ind.Präs.P họ già đi - ⟪अजारिषुः⟫
+4. ⟪आनर्च⟫ - ⟪अर्च्⟫ 1P thờ cúng 1.3.sg.2.pl.Perf.P - ⟪आर्चिषम् । आर्चीत् । आर्चिष्ट⟫
+
+5. ⟪खादामः⟫ - ⟪खाद्⟫ 1P 1.pl.Ind.Präs.P chúng tôi nhai - ⟪अखादिष्म⟫
+6. ⟪नेद⟫ - ⟪नद्⟫ 1P 2.pl.Perf.P các bạn vang lên - ⟪अनादिष्ट । अनदिष्ट⟫
+7. ⟪आश्नीत⟫ -⟪अश्⟫ 9P 2.pl.Impf.P các bạn ăn - ⟪आशिष्ट⟫
+8. ⟪पुनते⟫ - ⟪पू⟫ 9U 3.pl.Ind.Präs.Ā họ thanh lọc vì lợi ích riêng - ⟪अपविषत⟫
+9. ⟪अशेरत⟫ - ⟪शी⟫ 2Ā 3.pl.Impf.Ā họ nằm - ⟪अशयिषत⟫
+10. ⟪इयेषिथ⟫ - ⟪इष्⟫ 6P 2.sg.Perf.P bạn đã mong muốn - ⟪ऐषीः⟫
+11. ⟪आर्च्छत्⟫ - ⟪ऋ⟫ 1P 3.sg.Impf.P anh ấy đi - ⟪आरीत्⟫
+12. ⟪अर्हन्ति⟫ - ⟪अर्ह्⟫ 1P 3.pl.Ind.Präs.P họ xứng đáng - ⟪आर्हिषुः⟫
+13. ⟪ऊदुः⟫ - ⟪वद्⟫ 1P 3.pl.Perf.P họ nói - ⟪अवादिषुः⟫
+14. ⟪इन्त्से⟫ - ⟪इन्ध्⟫ 7Ā 2.sg.Ind.Präs,Ā bạn thắp sáng - ⟪ऐन्धिष्ठाः⟫
+15. ⟪आध्वे⟫ - ⟪आस्⟫ 2Ā 2.pl.Ind.Präs.ġ các bạn ngồi - ⟪आसिध्वम्⟫
+16. ⟪कल्पे⟫ - ⟪कॢप्⟫ 1.sg.Ind.Präs.Ā tôi phù hợp - ⟪अकल्पिषि⟫
+17. ⟪आनीत्⟫ - ⟪अन्⟫ 2P 3.sg.Impf.P anh ấy thở - ⟪आनीत्⟫
+18. ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.ġ các bạn thấy - ⟪ऐक्षिध्वम्⟫
+19. ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P bạn nhận thức - ⟪अचेतीः⟫
 
 ::: media
 ![](/images/uebung095.webp)
-Abb.: ⟪तब्लाः⟫
-(Bildquelle: [Details](/licenses#uebung095))
-:::
----
+Hình: ⟪तब्लाः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung095))
 
-## B) Wortbestimmungen
-
-Bestimmen und übersetzen Sie die folgenden Formen:
-
-::: media
-![](/images/uebung097.webp)
-Abb.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
-Pune - ⟪पुणे⟫  
-\[Bildquelle: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Zugriff am 2009-03-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-
-1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā ihr führtet im eigenen Interesse
-2.  ⟪एनयोः⟫ - ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫ Gen.Lok.du.m.f.n. dieser beiden / in diesen beiden
-3.  ⟪अष्टौ⟫ - ⟪अष्ट⟫ Nom.Vok.Akk. acht
-4.  ⟪चक्रम⟫ - ⟪क्रम्⟫ 2.pl.Perf.P ihr seid geschritten
-5.  ⟪ना⟫ - ⟪नृ⟫ m. Nom.sg. der Mann
-6.  ⟪अत्तः⟫ - ⟪अद्⟫ 2P 3.du.Ind.Präs.P ihr beide esst
-7.  ⟪अधृत⟫ - ⟪धृ⟫ 1U 3.sg.Aor(4).Ā er hielt im eigenen Interesse fest ; ⟪अ⟫ + PPP zu ⟪धृ⟫ 1U Vok.sg.m. Unfester!
-8.  ⟪ईहेरन्⟫ - ⟪ईह्⟫ 1Ā 3.pl.Opt.Ā sie mögen begehren
-9.  ⟪अधिजगे⟫ - ⟪अधि⟫-⟪इ⟫ 2Ā 1.3.sg.Perf.Ā ich / er studierte
-10.  ⟪जग्म⟫ - ⟪गम्⟫ 1P 2.pl.Perf.P ihr seid gegangen
-11.  ⟪अघ्रात्⟫ - ⟪घ्रा⟫ 1P 3.sg.Aor(1).P er roch
-12.  ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ 1.pl.Aor(4).P wir sahen
-13.  ⟪अस्थाः⟫ - ⟪अस्⟫ 4P 2.sg.Injunktiv.Aor(2).P werfe \[+ ⟪मा⟫ nicht\]
-14.  ⟪अधमः⟫ - ⟪ध्मा⟫ 1P 2.sg.Impf.P du hast geblasen ; ⟪अधम⟫ 3 Nom.sg.m. der unterste
-15.  ⟪आनर्ध⟫ - ⟪ऋध्⟫ 5P 1.3.sg.Perf.P ich / er gedieh
-16.  ⟪पथोः⟫ - ⟪पथ्⟫ m. Gen.Lok.du der beiden Wege / auf beiden Wegen
-17.  ⟪जेता⟫ - ⟪जेतृ⟫ m. Nom.sg. der Sieger
-18.  ⟪श्वा⟫ - ⟪श्वन्⟫ m. Nom.sg. der Hund
-19.  ⟪स्वः⟫ - ⟪अस्⟫ 2P 1.du.Ind.Präs.P wir beide sind ; ⟪स्व⟫ 3 Nom.sg.m. der eigene
-20.  ⟪यदृच्छया⟫ - Adv. zufällig, von selbst ...
-21.  ⟪अकार्षम्⟫ - ⟪कृ⟫ 8U 1.sg.Aor(4).P ich machte
-22.  ⟪क्रीणीथः⟫ - ⟪क्री⟫ 9U 2.du.Ind.Präs.P ihr beide kauft
-23.  ⟪क्रीणीथ⟫ - ⟪क्री⟫ 9U 2.pl.Ind.Präs.P ihr kauft
-24.  ⟪जानानि⟫ - ⟪ज्ञा⟫ 9U 1.sg.Imperativ.P ich will erkennen
-25.  ⟪भोः⟫ - Indekl. he!, he da!
-26.  ⟪अजैष्त⟫ - ⟪जि⟫ 1P 2.pl.Aor(4).p ihr siegtet
-27.  ⟪पुरा⟫ - Adv. früher, einst
-28.  ⟪देवा⟫ - ⟪देवृ⟫ m. Nom.sg. Gattenbruder, Schwager (der Frau)
-29.  ⟪गन्धी⟫ - ⟪गन्धिन्⟫ 3 Nom.sg.m der durch Geruch besonders gekennzeichnete
-30.  ⟪ईय⟫ - ⟪इ⟫ 2P 2.pl.Perf.P ihr seid gegangen
-31.  ⟪नाना⟫ - Adv. auf verschiedene Weise
-32.  ⟪देह⟫ - ⟪दह्⟫ 1P 2.pl.Perf.P ihr habt verbrannt ; ⟪देह⟫ m. Vok.sg. Leib!
-33.  ⟪अतत⟫ - ⟪तन्⟫ 8U 3.sg.Aor(4/1).Ā er spannte im eigenen Interesse auf ;⟪अ⟫ + PPP zu ⟪तन्⟫ 8U Vok.sg.m. Unaufgespannter!
-34.  ⟪आप्स्यावः⟫ - ⟪आप्⟫ 5P 1.du.Fut.P wir beide werden erlangen
-35.  ⟪अतौत्त⟫ - ⟪तुद्⟫ 6U 2.pl.Aor(4).P ihr habt geschlagen
-36.  ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Akk.du.f.n. diese / diese beiden
-37.  ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Präs.P ihr beide geht ; ⟪इतस्⟫ Adv. von hier
-38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P ihr gabt
-39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P wir beide salben
+1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā các ngươi đã dẫn dắt vì lợi ích riêng
+2.  ⟪एनयोः⟫ - ⟪एतद् । इदम्⟫ Gen.Lok.du.m.f.n. hai người này / trong hai người này
+3.  ⟪अष्टौ⟫ - ⟪अष्ट⟫ Nom.Vok.Akk. tám
+4.  ⟪चक्रम⟫ - ⟪क्रम्⟫ 2.pl.Perf.P các ngươi đã bước đi
+5.  ⟪ना⟫ - ⟪नृ⟫ m. Nom.sg. người đàn ông
+6.  ⟪अत्तः⟫ - ⟪अद्⟫ 2P 3.du.Ind.Präs.P cả hai các ngươi ăn
+7.  ⟪अधृत⟫ - ⟪धृ⟫ 1U 3.sg.Aor(4).Ā ông ấy đã giữ chặt vì lợi ích riêng ; ⟪अ⟫ + PPP để tạo thành ⟪धृ⟫ 1U Vok.sg.m. Hỡi kẻ không vững vàng!
+8.  ⟪ईहेरन्⟫ - ⟪ईह्⟫ 1Ā 3.pl.Opt.ġ họ mong muốn
+9.  ⟪अधिजगे⟫ - ⟪अधि⟫-⟪इ⟫ 2Ā 1.3.sg.Perf.ġ tôi / ông ấy đã nghiên cứu
+10.  ⟪जग्म⟫ - ⟪गम्⟫ 1P 2.pl.Perf.P các ngươi đã đi
+11.  ⟪अघ्रात्⟫ - ⟪घ्रा⟫ 1P 3.sg.Aor(1).P ông ấy đã ngửi
+12.  ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ 1.pl.Aor(4).P chúng tôi đã thấy
+13.  ⟪अस्थाः⟫ - ⟪अस्⟫ 4P 2.sg.Injunktiv.Aor(2).P hãy ném \[+ ⟪मा⟫ không\]
+14.  ⟪अधमः⟫ - ⟪ध्मा⟫ 1P 2.sg.Impf.P ngươi đã thổi ; ⟪अधम⟫ 3 Nom.sg.m. kẻ thấp hèn nhất
+15.  ⟪आनर्ध⟫ - ⟪ऋध्⟫ 5P 1.3.sg.Perf.P tôi / ông ấy đã phát triển
+16.  ⟪पथोः⟫ - ⟪पथ्⟫ m. Gen.Lok.du của hai con đường / trên cả hai con đường
+17.  ⟪जेता⟫ - ⟪जेतृ⟫ m. Nom.sg. kẻ chiến thắng
+18.  ⟪श्वा⟫ - ⟪श्वन्⟫ m. Nom.sg. con chó
+19.  ⟪स्वः⟫ - ⟪अस्⟫ 2P 1.du.Ind.Präs.P cả hai chúng tôi là ; ⟪स्व⟫ 3 Nom.sg.m. của riêng mình
+20.  ⟪यदृच्छया⟫ - Adv. tình cờ, tự nhiên ...
+21.  ⟪अकार्षम्⟫ - ⟪कृ⟫ 8U 1.sg.Aor(4).P tôi đã làm
+22.  ⟪क्रीणीथः⟫ - ⟪क्री⟫ 9U 2.du.Ind.Präs.P cả hai các ngươi mua
+23.  ⟪क्रीणीथ⟫ - ⟪क्री⟫ 9U 2.pl.Ind.Präs.P các ngươi mua
+24.  ⟪जानानि⟫ - ⟪ज्ञा⟫ 9U 1.sg.Imperativ.P tôi muốn nhận biết
+25.  ⟪भोः⟫ - Indekl. hỡi!, này kia!
+26.  ⟪अजैष्त⟫ - ⟪जि⟫ 1P 2.pl.Aor(4).p các ngươi đã chiến thắng
+27.  ⟪पुरा⟫ - Adv. trước đây, một thời
+28.  ⟪देवा⟫ - ⟪देवृ⟫ m. Nom.sg. anh rể (vợ), em chồng
+29.  ⟪गन्धी⟫ - ⟪गन्धिन्⟫ 3 Nom.sg.m kẻ được đặc trưng bởi mùi hương
+30.  ⟪ईय⟫ - ⟪इ⟫ 2P 2.pl.Perf.P các ngươi đã đi
+31.  ⟪नाना⟫ - Adv. theo nhiều cách khác nhau
+32.  ⟪देह⟫ - ⟪दह्⟫ 1P 2.pl.Perf.P các ngươi đã đốt ; ⟪देह⟫ m. Vok.sg. Hỡi thân thể!
+33.  ⟪अतत⟫ - ⟪तन्⟫ 8U 3.sg.Aor(4/1).ġ ông ấy đã căng ra vì lợi ích riêng ;⟪अ⟫ + PPP để tạo thành ⟪तन्⟫ 8U Vok.sg.m. Hỡi kẻ chưa được căng!
+34.  ⟪आप्स्यावः⟫ - ⟪आप्⟫ 5P 1.du.Fut.P cả hai chúng tôi sẽ đạt được
+35.  ⟪अतौत्त⟫ - ⟪तुद्⟫ 6U 2.pl.Aor(4).P các ngươi đã đánh
+36.  ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Akk.du.f.n. những này / hai người này
+37.  ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Präs.P cả hai các ngươi đi ; ⟪इतस्⟫ Adv. từ đây
+38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P các ngươi đã cho
+39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Präs.P cả hai chúng tôi xức dầu
 
 ![](/images/uebung096.webp)
-Abb.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
-(Bildquelle: [Details](/licenses#uebung096))
+Hình: ⟪श्वा श्वानमघ्रात्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung096))
 :::

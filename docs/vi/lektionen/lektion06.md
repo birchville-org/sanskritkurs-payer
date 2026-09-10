@@ -1,118 +1,123 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "Bài 6"
+subtitle: "Cấu trúc của câu vị ngữ (Chủ ngữ và hình thức động từ)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 6
+# Bài 6
 
-## 6.1. Der Verbalsatz
+## 6.1. Câu vị ngữ
 
 ::: grammar-box
-**Schema I: Verbalform**
-- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
+**Mẫu I: Dạng động từ**
+VD: **yajati** = ⟪यजति⟫ = "Hắn (bà ấy, nó) tôn kính bằng một lễ tế", "Hắn (bà ấy, nó) dâng cúng"
 
-**Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform**
-- z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert"
+**Mẫu II: Chủ ngữ (kartṛ m. = ⟪कर्तृ⟫) – Dạng động từ**
+VD: **rāmo yajati** = ⟪रामो यजति⟫ = "Rāma tôn kính bằng một lễ tế", "Rāma dâng cúng"
 :::
-Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
+Khi chủ ngữ (**kartṛ** m. = ⟪कर्तृ⟫) được nêu trong một câu vị ngữ không ở thể bị động, thì chủ ngữ đứng ở **cách danh xưng** (nominative, trường hợp thứ nhất, prathamā = ⟪प्रथमा⟫). Về số lượng (số, vacana n. = ⟪वचन⟫), chủ ngữ và dạng động từ phải phù hợp với nhau.
 
-## 6.2. Zur Bildung der Verbalformen
 
-Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
+## 6.2. Về cách hình thành các dạng động từ
 
-1. **Bedeutung** (**artha** m. ⟪अर्थ⟫)
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \<sie, es\>, wir beide, ihr beide, sie beide, wir, ihr, sie)
-3. Verhaltensweise (genus verbi):
-   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
-   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
-   3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "Es wird mit einem Opfer verehrt"
+Một dạng động từ hữu hạn, tức là một dạng động từ có kết thúc theo ngôi người, trong tiếng Phạn diễn đạt những điều sau đây:
 
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt.
+1. **Ý nghĩa** (**artha** m. ⟪अर्थ⟫)
+2. **Ngôi** và **Số lượng** (số, **vacana** n. = ⟪वचन⟫) (tôi, ngươi, hắn \\<bà ấy, nó\\>, chúng ta đôi, các người đôi, họ đôi, chúng tôi, các bạn, họ)
+3. Cách thức hành động (genus verbi):
+1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Dạng từ có liên quan đến người khác"): Thể chủ động. VD: **yajati** = ⟪यजति⟫ = "Hắn tôn kính bằng một lễ tế" (cụ thể là vị tư tế, người thực hiện lễ tế cho một ai đó khác)
+2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Dạng từ có liên quan đến chính mình"): Thể trung gian. VD: **yajate** = ⟪यजते⟫ = "Hắn tôn kính bằng một lễ tế vì lợi ích riêng" (cụ thể là chủ nhân của lễ tế, người dâng cúng cho bản thân và gia đình mình)
+3. **Bị động** (**karman** n. = ⟪कर्मन्⟫). VD: **ijyate** = ⟪इज्यते⟫ = "Nó được tôn kính bằng một lễ tế"
 
-   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada**-Verben (**ubhayapada** n. = ⟪उभयपद⟫ = "beide Wortformen").
+Trong nhiều trường hợp, sắc thái ý nghĩa của Ātmanepada không còn rõ ràng nữa; thậm chí các nhà thơ nghệ thuật cũng thường sử dụng Ātmanepada mà không có sự khác biệt về ý nghĩa so với Parasmaipada. Tuy nhiên, khi dịch thuật luôn cần chú ý chính xác xem liệu có tồn tại sắc thái ý nghĩa như vậy hay không.
 
-   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = ⟪मन्यते⟫ = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung).
+Các động từ được sử dụng trong Parasmaipada và Ātmanepada (với ý nghĩa cụ thể của Ātmanepada) được gọi là động từ **Ubhayapada** (**ubhayapada** n. = ⟪उभयपद⟫ = "cả hai dạng từ").
 
-4. **Aussageweise** (Modus):
-   1. **Indikativ**: Aussageform
-   2. **Optativ**: Wunschform und Möglichkeitsform
-   3. **Imperativ**: Befehlsform
-5. **Zeit** (Tempus):
-   1. **Präsens**: Gegenwart
-   2. **Imperfekt**
-   3. **Perfekt**
-   4. **Aorist**
-   5. **Futur**: Zukunft
-   6. **Konditional**
+Một số động từ chỉ được dùng ở Parasmaipada hoặc chỉ được dùng ở Ātmanepada. Đối với các động từ này, Ātmanepada hoặc Parasmaipada không mang ý nghĩa cụ thể. Ví dụ: **manyate** = ⟪मन्यते⟫ = "anh ấy (cô ấy, nó) nghĩ" (không có ý nghĩa Ātmanepada cụ thể).
 
-   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
+4. **Cách diễn đạt** (Mệnh đề):
+1. **Indikativ**: Dạng khẳng định
+2. **Optativ**: Dạng ước muốn và khả năng
+3. **Imperativ**: Dạng mệnh lệnh
+5. **Thời gian** (Thì):
+1. **Präsens**: Hiện tại
+2. **Imperfekt**
+3. **Perfekt**
+4. **Aorist**
+5. **Futur**: Tương lai
+6. **Konditional**
+
+Các thì được hình thành từ các gốc thì: Gốc Präsens, Gốc Aorist, Gốc Perfekt, Gốc Futur.
+
 
 ## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
 
-Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
+Präsens là thì của hiện tại, đặc biệt cũng mang tính liên tục.
 
 ::: grammar-box
-**Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.**
+**Indikativ Präsens (dạng khẳng định) được hình thành bằng cách thêm các hậu tố chính gọi là Primärendungen vào gốc Präsens.**
 :::
-Beispiele:
+Ví dụ:
 
-| Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
+| Gốc (dhātu) | Gốc Präsens | Ngôi thứ 3 số ít Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
-| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
-| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
+| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "anh ấy (cô ấy, nó) bước vào" |
+| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "anh ấy (cô ấy, nó) sinh ra" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "anh ấy (cô ấy, nó) nhảy múa" |
 
-## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
+
+## 6.4. Các kết thúc chính của ngôi thứ ba (prathama m. = ⟪प्रथम⟫ = "ngôi thứ nhất (!)")
 
 ::: grammar-box
-| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | Số ít (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Số nhiều (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
-Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
-- Präsensstamm: **yaja** = ⟪यज⟫
-  - 3. sg. P. **yajati** = ⟪यजति⟫
-  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-  - 3. sg. Ā. **yajate** = ⟪यजते⟫
-  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+Ví dụ **yaj** = ⟪यज्⟫ = "tôn kính bằng một lễ hy sinh", "hy sinh":
+Gốc hiện tại: **yaja** = ⟪यज⟫
+3. sg. P. **yajati** = ⟪यजति⟫
+3. pl. P. **yajanti** = ⟪यजन्ति⟫
+3. sg. Ā. **yajate** = ⟪यजते⟫
+3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+## 6.5. Hình thành gốc hiện tại
+
+### 6.5.1. Động từ lớp hiện tại thứ 6 (tudādi = ⟪तुदादि⟫ = "tud v.v.")
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**
+**Gốc hiện tại = Gốc ở dạng thấp (dạng được liệt kê) + a-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Gốc (dhātu m.):br⟪धातु⟫ | Gốc hiện tại |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. Động từ lớp hiện tại thứ 1 (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū v.v.")
 
 ::: grammar-box
-| Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
-| Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm |
+| Gốc hiện tại = Gốc ở dạng cao (hiếm khi là dạng dài) + a- ||||
+| Gốc (dhātu m.):br⟪धातु⟫ | Dạng cao | Dạng cao trước a- | Gốc hiện tại |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe ||||
+| Nếu nguyên âm nằm trong một âm tiết đóng dài, tức là nguyên âm ngắn đứng trước hai hoặc nhiều phụ âm, thì việc hình thành dạng cao sẽ không được thực hiện ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Wortsandhi von e und o
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
+#### 6.5.2.1. Wortsandhi của e và o
+Trước nguyên âm, trong nội bộ từ, **e** được thay bằng **ay**, **o** được thay bằng **av**.
 
-#### 6.5.2.2. Lautabstufung (Ablaut)
+#### 6.5.2.2. Biến đổi âm (Ablaut)
 
 ::: grammar-box
-| Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
+| Mức thấp:brMức suy giảm | Mức cao:brMức đầy đủ:brGuṇa m.:br⟪गुण⟫ | Mức kéo dài:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -120,148 +125,160 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. Động từ lớp Present thứ 4 (divādi = ⟪दिवादि⟫ = "div v.v.")
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
+**Gốc Present = Gốc ở mức thấp (mức được liệt kê) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Gốc (dhātu m.):br⟪धातु⟫ | Gốc Present |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. Nguyên âm chủ đề, các lớp Present mang tính chủ đề
 
 ::: grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heissen deswegen "thematische Präsensklassen".
+Chữ **a** trong các hậu tố tạo gốc của các lớp Present được gọi là **nguyên âm chủ đề**. Các lớp Present có **a** trong hậu tố tạo gốc được gọi là "các lớp Present mang tính chủ đề".
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. Sanskrit nói: Các câu hỏi khác (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?"
-- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen")
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?"
-- Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut."
+**N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "N. N. đang làm gì?"
+**N. N. (số nhiều) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Những người N.N. đang làm gì?"
+(karoti, kurvanti từ **kṛ** = ⟪कृ⟫ 8 U: "làm, thực hiện")
+**kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Bạn có khỏe không?, Dạo này bạn thế nào?"
+Trả lời: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Tôi) khỏe mạnh ở mọi phương diện."
 :::
 
-## 6.7. Wortliste
+## 6.7. Danh sách từ vựng
 
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
+Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc** (Wurzel). Số đứng sau dạng gốc biểu thị **lớp chia động từ**.
 
-- **P:** Wurzel ist nur Parasmaipada
-- **Ā:** Wurzel ist nur Ātmanepada
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+**P:** Gốc động từ chỉ dùng ở thể Parasmaipada
+**Ā:** Gốc động từ chỉ dùng ở thể Ātmanepada
+**U:** Ubhayapada ("cả hai dạng"): Gốc động từ được sử dụng ở cả Parasmaipada và Ātmanepada.
+**():** Trong ngoặc đơn là ngôi thứ ba số ít, thì hiện tại chỉ định (laṭ).
 :::
-**Lernen Sie folgende Wörter:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
+**Học các từ sau:**
+**yaj** 1 U (yajati) ⟪यज् यजति⟫ : tôn kính bằng lễ tế, hiến tế
+**bhū** 1 P (bhavati) ⟪भू भवति⟫ : trở thành, sinh ra, là
+**smṛ** 1 P (smarati) ⟪स्मृ स्मरति⟫ : hồi tưởng, nhớ lại
+**nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ : nhảy múa
+**nī** 1 U (nayati) ⟪नी नयति⟫ : dẫn dắt
+**man** 4 Ā (manyate) ⟪मन् मन्यते⟫ : suy nghĩ
+**muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ : bối rối, hoang mang
+**yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ : chiến đấu
+**viś** 6 P (viśati) ⟪विश् विशति⟫ : bước vào
+**sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : thả ra, phóng thích, phát sinh
 
-## 6.8. Übung
 
-**A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:**
+## 6.8. Bài tập
+
+**A) Hãy tạo các câu vị ngữ bằng cách chèn các gốc động từ được chỉ định trong ngoặc:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Setzen Sie die in Übung A gebildeten Sätze in den Plural.**
+**B) Chuyển các câu đã tạo ở Bài tập A sang số nhiều.**
 
-**C) Übersetzen Sie ins Sanskrit:**
-1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
-2. Śiva tanzt.
-3. Rāma führt.
-4. Śūdras sind verwirrt.
-5. Die Kṣatriyafrauen treten ein.
-6. Der HERR lässt emanieren.
-7. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr)
-8. Śūdrafrauen tanzen.
-9. Kṣatriyas kämpfen.
-10. Heilige Männer führen.
-11. Sie erinnern sich.
-12. Wer (fem.) tanzt?
-13. Die (erwähnte) Brahmanin tanzt.
+**C) Dịch sang tiếng Phạn:**
+1. Ngài tôn kính bằng một lễ hy sinh. (Tư tế cho chủ nhân lễ hy sinh)
+2. Śiva nhảy múa.
+3. Rāma dẫn dắt.
+4. Những người Śūdra bối rối.
+5. Các phụ nữ Kṣatriya bước vào.
+6. THE HERR (Chúa Tể) cho phát sinh.
+7. Người Kṣatriya tôn kính bằng một lễ hy sinh. (với tư cách chủ nhân lễ hy sinh)
+8. Phụ nữ Śūdra nhảy múa.
+9. Những người Kṣatriya chiến đấu.
+10. Các bậc thánh nhân dẫn dắt.
+11. Họ nhớ lại.
+12. Ai (giống cái) nhảy múa?
+13. Người phụ nữ Brahman (được nhắc đến) nhảy múa.
+
+**C) Dịch sang tiếng Phạn:**
+1. Ngài tôn kính bằng một lễ hy sinh. (Tư tế cho chủ nhân lễ hy sinh)
+2. Śiva nhảy múa.
+3. Rāma dẫn dắt.
+4. Những người Śūdra bối rối.
+5. Các phụ nữ Kṣatriya bước vào.
+6. THE HERR (Chúa Tể) cho phát sinh.
+7. Người Kṣatriya tôn kính bằng một lễ hy sinh. (với tư cách chủ nhân lễ hy sinh)
+8. Phụ nữ Śūdra nhảy múa.
+9. Những người Kṣatriya chiến đấu.
+10. Các bậc thánh nhân dẫn dắt.
+11. Họ nhớ lại.
+12. Ai (giống cái) nhảy múa?
+13. Người phụ nữ Brahman (được nhắc đến) nhảy múa.
 
 ::: media
 ![](/images/lekt0601.webp)
-**Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
-Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
-(Bildquelle: Wikipedia, CC-BY-SA 2.5)
+**Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
+Śiva Naṭarāja (⟪नटराज⟫), Đền Hindu Kadavul, Kauai, Hawaii
+(Nguồn ảnh: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung
+## 6.9. Bài tập ôn lại
 
-**A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:**
+**A) Bài tập điền vào chỗ trống: Đặt câu hỏi, mà các câu được hình thành sau bài tập điền vào sẽ là câu trả lời:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
 3. (śruti) ... vedaḥ
-   ⟪श्रुति⟫ ... ⟪वेदः⟫
+⟪श्रुति⟫ ... ⟪वेदः⟫
 4. (veda) ... śrutiḥ
-   ⟪वेद⟫ ... ⟪श्रुतिः⟫
+⟪वेद⟫ ... ⟪श्रुतिः⟫
 5. (brāhmaṇa, guru) ... yajanti
-   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
 6. (devī) ... indrāṇī
-   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
+⟪देवी⟫ ... ⟪इन्द्राणी⟫
 7. (śūdra, śūdrā, devī) ... nṛtyanti
-   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
 8. (kṣatriya) ... yudhyante
-   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
-   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-::: indent
 ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
-:::
 11. (sādhu) ... rāmaḥ
-::: indent
 ⟪साधु⟫ ... ⟪रामः⟫
-:::
 
-**B) Setzen Sie in den Plural:**
-1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
+**B) Chuyển sang số nhiều:**
+1. brāhmaṇo yajati. = ⟪ब्राह्मणो यजति⟫
 2. kaiṣā. = ⟪कैषा⟫
-3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫
-4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫
-5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫
+3. kṣatriyo yajate. = ⟪क्षत्रियो यजते⟫
+4. sādhvī smarati. = ⟪साध्वी स्मरति⟫
+5. vaiśyā muhyati. = ⟪वैश्या मुह्यति⟫
 6. sṛjati. = ⟪सृजति⟫
-7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫
+7. devī manyate. = ⟪देवी मन्यते⟫
 8. gururviśati. = ⟪गुरुर्विशति⟫
-9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫
-10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫
-11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫
-12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫
+9. ko 'yam. = ⟪को ऽयम्⟫
+10. iyaṃ devī nṛtyati. = ⟪इयं देवी नृत्यति⟫
+11. eṣa devo yudhyate. = ⟪एष देवो युध्यते⟫
+12. sa sṛjati. = ⟪स सृजति⟫
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
 **C) Bilden Sie das Ātmanepada zu:**
-1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫
-2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫
+1. rāmo yajati. = ⟪रामो यजति⟫
+2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
 **D) Bilden Sie das Femininum zu:**
-1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫
+1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
-3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫
-4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫
-5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫
+3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
+4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
+5. devo guruḥ. = ⟪देवो गुरुः⟫
 
 **E) Übersetzen Sie:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
@@ -276,29 +293,29 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) Dịch sang tiếng Phạn:**
+1. Rāma tế lễ (với tư cách là chủ tế).
+2. Durgā là một nữ thần.
+3. Mīnākṣī là một nữ thần.
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
-(Bildquelle: Wikipedia, Public domain)
+**Mīnākṣī** (⟪मीनाक्षी⟫), Đền Mīnākṣī, Madurai, Tamil Nadu
+(Nguồn ảnh: Wikipedia, Phạm vi công cộng)
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
-15. Diese Brahmanen opfern im Auftrag anderer.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
-18. Geht es Ihnen gut?
-19. (Es geht mir) in jeder Hinsicht gut.
+4. Họ đang bối rối.
+5. Rāma là một bậc thánh hiền.
+6. Ai là CHÚA TỂ?
+7. Indra là CHÚA TỂ.
+8. Gia súc đi vào.
+9. Viṣṇu phóng xuất = Viṣṇu sáng tạo.
+10. Những người tái sinh (hai lần sinh) đều tốt lành.
+11. Tam minh (ba bộ tri thức) là Sāmaveda, Ṛgveda và Yajurveda. (2 khả năng)
+12. Nữ thần này tốt lành.
+13. Năm "phiền não" là: vô minh, ngã mạn, ái dục, sân hận, chấp trước thân xác. (2 khả năng)
+14. "Phạm trú" (Tứ vô lượng tâm) là: từ, bi, hỷ, xả. (2 khả năng)
+15. Các Bà-la-môn này tế lễ theo lệnh người khác.
+16. Bà-la-môn, Kṣatriya và Vaiśya là những người tái sinh. (2 khả năng)
+17. Các ngành học (cho một bậc đế vương) là: triết học, tam phạn (tri thức ba kinh Veda), kinh tế học và chính trị học. (2 khả năng)
+18. Ngài có khỏe không?
+19. (Tôi) mọi sự đều tốt lành.

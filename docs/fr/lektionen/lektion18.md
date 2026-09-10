@@ -14,7 +14,7 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Composés déterminatifs (⟪तत्पुरुष⟫) avec premier membre adverbial
 
 En tant que membre antérieur adverbial (indeclinable), peuvent
 

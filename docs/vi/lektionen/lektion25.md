@@ -1,33 +1,34 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "Bài 25"
+subtitle: 'Hình thành cách Abalatīv (⟪पञ्चमी⟫ = \"tận cùng cách thứ năm\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 25
+# Bài 25
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. Cách tạo thành cách Ablative (⟪पञ्चमी⟫ = "hậu tố cách thứ năm")
 
 ::: grammar-box
-Ausser bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch.
+Ngoại trừ giống đực / trung tính kết thúc bằng -a cũng như các đại từ, ở số ít trong tất cả các lớp declined, các hình thức của Ablative (⟪पञ्चमी⟫) giống với các hình thức của Genitive (⟪षष्ठी⟫).
 
-Ausser bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch.
+Ngoại trừ các đại từ cá nhân, trong tất cả declined ở số nhiều, các hình thức của Ablative giống với các hình thức của Dative (⟪चतुर्थी⟫).
 :::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
+Bây giờ bạn nhận ra lý do cho thứ tự của các cách (⟪विभक्ति⟫) trong tiếng Phạn: chúng được sắp xếp sao cho các hình thức giống nhau đứng gần nhất có thể - hoặc dưới nhau.
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a**
+**Ablative số ít của giống đực / trung tính kết thúc bằng -a**
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
+**deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
-Frage-, Relativ- und Demonstrativpronomina:
+Đại từ nghi vấn, quan hệ và chỉ định:
 
 ::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum |
+| | Ablative số ít:brGiống đực / trung tính | Ablative số ít:brGiống cái |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -36,172 +37,179 @@ Frage-, Relativ- und Demonstrativpronomina:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
+## 25.2. Cách sử dụng Ablative (⟪पञ्चमी⟫)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht."
+"Ablative chỉ điều đó, cái mà vẫn còn nguyên khi có thứ gì đó rời khỏi nó."
 
 Pāṇini 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
+Ablative đứng chủ yếu trước các câu hỏi "Từ đâu?", "Tại sao?".
 
 ::: grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
+1\. Ablative do đó chỉ điểm xuất phát, nguồn gốc và vật liệu.
 
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw.
+Do đó, cách trích xuất cũng có thể chỉ người mà từ đó ta mua, nghe, mong muốn v.v.
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf"
+⟪ग्रमादागच्छति⟫ = "Anh ấy đến từ ngôi làng"
 
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen"
+⟪अश्वात्पतितः⟫ = "ngã khỏi con ngựa"
 
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen"
+⟪तेभ्यो लब्धम्⟫ = "nhận từ họ (hướng về)"
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma"
+⟪गुरोर्धर्मं शृणोति⟫ = "anh ấy nghe từ vị thầy về Pháp"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
+⟪ब्राह्मणः क्षत्रियाद्धेनुमिच्छति⟫ = "vị Bà-la-môn mong muốn từ vị Sát-đế-lợi một con bò cái sữa"
 :::
 ::: grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor":
+2\. Cách trích xuất đứng sau các động từ có nghĩa là "ngăn cản khỏi", "bảo vệ trước", "phòng thủ chống lại", "sợ hãi trước":
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden"
+⟪अरिभ्यो रक्षति⟫ = "anh ấy bảo vệ khỏi kẻ thù"
 :::
 ::: grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache:
+3\. Cách trích xuất chỉ lý do hoặc nguyên nhân:
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn"
+⟪क्रोधात्पुत्रं हन्ति⟫ = "Anh ấy giết con trai mình vì giận dữ"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
+⟪कृतपापत्वान्नरकं गच्छति⟫ = "Vì anh ấy đã làm điều ác, nên anh ấy đi vào địa ngục" (« Vì anh ấy là một người, qua đó điều ác đã được thực hiện)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle"
+⟪पापकरणान्नरकं गच्छति⟫ = "Vì anh ấy làm / đã làm điều ác, nên anh ấy đi vào địa ngục"
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
+Danh từ không phải giống cái có thể, để chỉ lý do của một hành động, đứng ở cách dụng cụ (⟪तृतीया⟫) hoặc cách trích xuất (⟪पञ्चमी⟫). Danh từ giống cái trong ý nghĩa này thường đứng ở cách dụng cụ, nhưng đôi khi cũng có thể đứng ở cách trích xuất.
 
-## 25.3. Das Suffix -⟪तस्⟫
+## 25.3. Hậu tố -⟪तस्⟫
 
 ::: grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"):
+Nếu muốn ở số ít (một cách rõ ràng) thể hiện rằng từ được sử dụng với nghĩa trích xuất, có thể gắn hậu tố -⟪तस्⟫ vào gốc từ, tạo thành các trạng từ thường mang nghĩa trích xuất (trả lời câu hỏi "Từ đâu?"):
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪आदितस्⟫ = "von Anfang an"
+⟪आदितस्⟫ = "từ đầu"
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma"
+⟪धर्मतस्⟫ = "vì pháp, do pháp"
 :::
 ::: grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme:
+Hậu tố -⟪तस्⟫ cũng xuất hiện trên các gốc đại từ:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum"
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "từ đó, ở đó, đến đó, trên đó, sau đó, vì lý do đó"
 
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
+⟪यद्⟫ : ⟪यतस्⟫ "từ cái nào, từ đâu, từ nơi nào, ở đâu, đến đâu, vì lý do gì, bởi vì" (quan hệ)
 
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?"
+⟪किम्⟫ :  ⟪कुतस्⟫ "từ đâu?" "tại sao?"
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+## 25.4. Các cách khác để diễn đạt lý do
 
 ::: grammar-box
-**1\. Relativsätze**
+**1\. Mệnh đề quan hệ**
 
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus.
+Mệnh đề quan hệ thường biểu thị mối quan hệ nhân quả (lý do), liên tiếp (kết quả) hoặc mục đích với mệnh đề chính.
 
-Formen des Relativpronomens, die als kausale Konjunktion dienen:
+Các hình thức của đại từ quan hệ đóng vai trò là liên từ nhân quả:
 
-*   ablativisch:
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-*   instrumental:
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..."
+*   cách trích dẫn (ablativisch):
+*   ⟪यतस्⟫ ... mệnh đề phụ ... ⟪ततस्⟫ ... mệnh đề chính ... = "bởi vì ..., do đó ..."
+*   ⟪यस्मात्⟫ ... mệnh đề phụ ... ⟪तस्मात्⟫ ... mệnh đề chính ... = "bởi vì ..., do đó ..."
+*   cách dụng cụ (instrumental):
+*   ⟪येन⟫ ... mệnh đề phụ ... ⟪तेन⟫ ... mệnh đề chính ... = "bằng cách / bởi vì ..., do đó ..."
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो व्रतं चरति⟫ = "Vì Rāma mong muốn thịnh vượng, ngài thực hành lời thệ"
 :::
 ::: grammar-box
 **2\. ⟪हि⟫**
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz:
+Các mệnh đề chính có thể được liên kết với nhau bằng cách sử dụng thán từ ⟪हि⟫ "vì, bởi vì". Một câu với ⟪हि⟫ (không được đứng ở vị trí đầu tiên, mà trong văn xuôi phải đứng ở vị trí thứ hai) đưa ra lý do cho câu trước đó hoặc cho câu tiếp theo:
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
-:::
-::: grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)**
-
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
-:::
-Beispiel:
+⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Mọi người làm những việc công đức. Bởi vì họ muốn được lên thiên đường."
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
+⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Mọi người làm những việc công đức. Bởi vì họ muốn được lên thiên đường."
 :::
 ::: grammar-box
-**4\. Nomina**
+**3\. Công cụ cách (⟪तृतीया⟫)**
 
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit
+Bên cạnh Ablativ (⟪पञ्चमी⟫), Instrumentalis (⟪तृतीया⟫) được sử dụng để chỉ lý do hoặc nguyên nhân. Với các danh từ giống cái, Instrumentalis nói chung là bắt buộc.
+:::
+Ví dụ:
 
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫
+::: indent
+⟪क्रोधेन पुत्रं हन्ति⟫ = "Hắn giết chết con trai mình vì giận dữ" = "Hắn giết chết con trai mình trong cơn thịnh nộ"
+:::
+::: grammar-box
+**4\. Danh từ**
+
+Ngoài ra, đương nhiên người ta cũng có thể diễn đạt lý do bằng các cấu trúc với
+
+*   ⟪कारण⟫ n. "Nguyên nhân": ⟪कारणात् । कारणेन⟫
 *   ⟪हेतु⟫ m.
-*   andere Nomina in der Bedeutung "Ursache"
+*   các danh từ khác mang nghĩa "Nguyên nhân"
 
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita:
+\+ Genitiv (⟪षष्ठी⟫) hoặc làm thành phần sau của từ ghép:
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes"
+⟪पुण्यस्य कारणात्⟫ (⟪हेतोः⟫ v.v.) = "vì công đức"
 :::
 ::: grammar-box
 **5\. ⟪इति⟫**
 
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben:
+Động cơ cho một hành động có thể được trình bày dưới dạng suy nghĩ với ⟪इति⟫:
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+⟪सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति⟫  = "Vì Sugata đã hoàn toàn tỉnh thức với chân lý, Ānanda hỏi Gautama về giáo pháp của ngài" (« "Suy nghĩ "Sugata đã hoàn toàn tỉnh thức với chân lý" ...)
 :::
-## 25.5. Wortliste
+## 25.5. Từ vựng
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+⟪त्यज्⟫ ngôi thứ nhất số ít ⟪त्यजति⟫  rời bỏ, từ bỏ, bỏ rơi
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
+Tương lai ⟪त्यक्ष्यति⟫  
+Bị động ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫
+Động từ nguyên mẫu ⟪त्यक्तुम्⟫  
+Tuyệt đối 2: -⟪त्यज्य⟫
 
-davon:
+trong đó:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ m.: sự từ bỏ, sự từ khước, sự tránh né
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ m. pl. (!!!): vợ
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ n.: vật, tài sản, của cải vật chất, tiền bạc
+:::
+⟪दार⟫ m. pl. (!!!): vợ
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪द्रव्य⟫ n.: vật, tài sản, của cải vật chất, tiền bạc
+
+⟪धान्य⟫ n.: ngũ cốc đã giã
 
 ::: media
 ![](/images/lekt2501.webp)
 Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 1U ⟪धरति⟫ : giữ, nắm chặt
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -210,20 +218,20 @@ PPP ⟪धृत⟫
 Inf. ⟪धर्तुम्⟫  
 Absol. 2: -⟪धृत्य⟫
 
-davon:
+từ đó:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.: cái gì vững chắc và giữ vững = Pháp (Dharma)
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ : thường hằng, bất biến, vĩnh cửu
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ Adv.: luôn luôn, thường xuyên, mãi mãi
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.: trí tuệ, nhận thức
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.: sự cho đi, bố thí; quà tặng, vật phẩm cúng dường
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : hân hoan, say sưa vì điều gì (Instr., Gen., Lok.)
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -231,17 +239,17 @@ Pass. ⟪मद्यते⟫
 PPP ⟪मत्त⟫  
 Inf. ⟪मदितुम्⟫
 
-davon:
+từ đó:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪मद⟫ m.: sự say sưa, say đắm giác quan = dục lạc
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪मान⟫ m.: đánh giá, danh tiếng, vinh dự, kiêu mạn, tự phụ, mặc cảm; (tự so mình với người khác)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Liên từ: nếu
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪न्याय⟫ m.: quy tắc, nguyên tắc, phương pháp, phán quyết (pháp lý), logic (từ ni + i + a)
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪अन्यथा⟫ Adv.: khác đi, nếu không thì, sai lầm, không đúng
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -251,123 +259,108 @@ PPP ⟪यात⟫
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
+PPP ⟪शिष्ट ३⟫ : gelehrt  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+từ đó:
 
 ⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
 :::
 ⟪स्तेन⟫ m.: Dieb
 
 ⟪स्तेय⟫ n.: Diebstahl
-
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
-
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.)
-
-⟪मूल⟫ n.: Wurzel
-
-::: media
-![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
-:::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
-
-::: indent
-Fut. ⟪लेप्स्यति⟫  
-Pass. ⟪लिप्यते⟫  
-PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫
-
-davon:
-
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+Hình: ⟪लिप्तिः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: mưa, mùa mưa, năm
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : dẫn, đi, thổi (gió)
 
 ::: indent
-Fut. ⟪वक्ष्यति⟫  
-Pass. ⟪उह्यते⟫  
+Tương lai ⟪वक्ष्यति⟫  
+Bị động ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
-Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+Động từ danh hóa ⟪वोढुम्⟫  
+Tuyệt đối 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : dẫn đi (cụ thể là cô dâu từ nhà cha mẹ) = kết hôn
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+Từ đó:
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: sự dẫn đi, hôn nhân của một người phụ nữ (instrumental, saha) (xem về hôn nhân Basham, Wonder tr. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+Hình: ⟪विवाहः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : dẫn đi, giảng dạy, giáo dục
 
 ::: indent
-davon:
+Từ đó:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: sự loại bỏ, giáo dục, kỷ luật, Phật giáo: kỷ luật tăng đoàn, luật tăng
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: nhận thức, kiến thức
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: lao động, dịch vụ bắt buộc
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+Hình: ⟪विष्टिः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : phát triển, trở nên lớn hơn
 
 ::: indent
-Fut. ⟪वर्धिष्यते⟫  
-Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫
+Tương lai ⟪वर्धिष्यते⟫  
+Bị động ⟪वृध्यते⟫  
+PPP ⟪वृद्ध⟫ : trưởng thành, già, gia tăng  
+Động từ danh hóa ⟪वर्धितुम्⟫
 
-davon:
+Từ đó:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: sự phát triển, tăng trưởng, giai đoạn vṛdh (từ: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.: (sự dựng đứng lông), niềm vui
+:::
+⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách
+
+⟪हर्ष⟫ m.: (sự dựng đứng lông), niềm vui
+:::
+⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
+:::
+⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
+
+⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách
+
+⟪हर्ष⟫ m.: (sự dựng đứng lông), niềm vui
+
+⟪हिरण्य ३⟫ : vàng ; n.: vàng, tiền bạc, sự giàu có
 
 ::: media
 ![](/images/lekt2506.webp)
 Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ : mỏng, tinh tế, rất nhỏ ; m.: nguyên tử
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
+⟪गोदान⟫ n.: việc cho bò / một con bò ăn ; nghi thức cắt tóc lần thứ hai (một ⟪संस्कार⟫)
 
-## 25.6. Übung
+## 25.6. Bài tập
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie ausserdem Deklinationsreihen mit allen bisher gelernten Formen zu
+A) Hãy bổ sung các ví dụ chia cách trong [Bài 16](lektion16.md), bài tập ôn tập A bằng cách thêm Cách thứ 4: Dative (⟪चतुर्थी⟫) và Cách thứ 5: Ablative (⟪पञ्चमी⟫). Đồng thời, hãy tạo các bảng chia cách với tất cả các dạng đã học cho
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -375,116 +368,46 @@ A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiede
 
 ⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
-Lernen Sie diese Deklinationsparadigmen auswendig!
+Hãy học thuộc lòng các bảng chia cách này!
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Dịch và phân tích các từ ghép trong tiếng Phạn:
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
-
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫
-
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫
-
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫
-
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫
-
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫
-
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫
-
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫
-
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫
-
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫
-
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫
-
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫
-
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫
-
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫
-
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫
-
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫
-
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
-
-::: media
-![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
-:::
-## 25.7. ⟪सुभाषितानि⟫
-
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
-⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
+⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥ गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥ क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥ कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्हति ॥४॥ धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥ बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥ लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥ क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
+Giải thích: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
-⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
+## 25.8. Bài tập dịch
 
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
-⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫
+1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. về lợi ích của kinh tế:
 
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
-⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
+⟪वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫
 
-::: indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
-:::
-## 25.8. Übersetzungsübung
+2\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪५⟫. về việc đào tạo một vị vua:
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie:
+⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः ॥१॥ विनयमूलो दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
+⟪॥ वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं संख्यानं चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥ ब्रह्मचर्यं चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद् ॥९॥ अतो गोदानं दार⟫:sig[⟪कर्म⟫] ⟪चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य ॥११॥⟫  
+⟪॥ श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते प्रज्ञाया योगो योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति विद्यानां सामर्थ्यम् ॥१६॥⟫  
+⟪॥ कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten:
+Giải thích các từ được làm nổi bật màu đỏ trong văn bản trên:
 
-⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
-⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
-⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
-... ⟪॥⟫  
-⟪वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫:sig[⟪कर्म⟫] ⟪चास्य⟫ ⟪॥१०॥⟫  
-⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
-... ⟪॥⟫  
-⟪श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
-... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+1.5.1. ⟪तिस्रस्⟫ : Danh từ, Cách accusative, giống cái, thuộc ⟪त्रि⟫ "ba"
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter:
+1.5.2. ⟪प्राणभृताम्⟫ : Cách genitive, số nhiều, giống đực, thuộc ⟪प्राणभृत्⟫ giống đực "chúng sinh"
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei"
+1.5.5. ⟪इतरम्⟫ Cách accusative, số ít, giống đực, thuộc ⟪इतर ३⟫ "khác"
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen"
+1.5.7. ⟪कर्मा⟫ : Cách nominative, số ít, giống đực, thuộc ⟪कर्मन्⟫ giống trung "hành động, việc làm" ; ⟪उपयुञ्जीत⟫ : Optative ngôi thứ 3, số ít, Ā đối với động từ upa-yuj lớp 7 "tự chiếm hữu": "ngài hãy tự chiếm hữu"
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Cách ablative, Dative, số nhiều, thuộc ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "các nhà lý thuyết và thực hành"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen"
+1.5.9. ⟪षोडश ३⟫ : "thứ mười sáu"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker"
+1.5.10. ⟪कर्म⟫ Cách nominative, accusative, số ít, thuộc ⟪कर्मन्⟫ giống trung "hành động"
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter"
+1.5.16. ⟪धि⟫ dạng Sandhi thuộc ⟪हि⟫ ; ⟪आत्मवत्ता⟫ giống cái: "sự tự chủ"
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat"
-
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz"
-
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss"
+1.6.1. ⟪कार्य ३⟫ "điều cần được làm, điều bắt buộc phải thực hiện"
 

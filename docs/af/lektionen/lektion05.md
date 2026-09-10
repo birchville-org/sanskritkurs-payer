@@ -1,6 +1,6 @@
 ---
 title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+subtitle: "Grondbeginsels van nominale samestellings (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -100,7 +100,7 @@ Afb.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18de eeu.
 
 **kleśa** m. = ⟪क्लेश⟫ : Kwelling, plaag.
 
-**trayī** f. = ⟪त्रयी⟫ : Drietal; veral die drie Vedas (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** v. = ⟪त्रयी⟫ : Drietal; veral die drie tradisionele Vedas wat hier genoem word (Ṛgveda, Sāmaveda, Yajurveda).
 
 **daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politiek ('n Tatpuruṣa uit daṇḍa m. = "stok, mag, heerskappy, straf" en nīti f. = "regte leiding").
 

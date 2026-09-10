@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "பாடம் 55"
+subtitle: "அ-ஆகாரிஸ்ட் (தேமவோக்கல் கொண்ட ஆகாரிஸ்ட்)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 55

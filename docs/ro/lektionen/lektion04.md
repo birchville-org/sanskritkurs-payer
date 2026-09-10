@@ -1,13 +1,14 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Lecție 4"
+subtitle: "Pronumele interogative și pronumele demonstrative în nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lecția 4
+# Lecție 4
 
 ## 4.1. Întrebări simple de completare (întrebări cu cuvinte) și răspunsuri
 
@@ -18,29 +19,29 @@ status: stable
 ::: grammar-box
 | | Nominativ singular | Nominativ plural |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
-| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
-| **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
+| **Neutru** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **Masculin** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **Feminin** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
 #### 4.1.1.2. Pronume demonstrative (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
-| **Steme** ||||
+| **Teme** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
+| | **tad = ⟪तद्⟫:br"el, ea, el; acela, aceea, acel":br(Referit)** | **etad = ⟪एतद्⟫:br"acest, această, acest":br(foarte aproape de vorbitor)** | **idam = ⟪इदम्⟫:br"acest, această, acest":br(Aproape)** |
 | **Nominativ singular** ||||
-| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **Neutru** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Masculin** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Feminin** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
 | **Nominativ plural** ||||
-| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| **Neutru** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Masculin** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Feminin** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
 **Pentru Nom. sg. masc.:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) apare înainte de toate sunetele, cu excepția scurtului **-a**
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) apare înainte de **-a**, care este elidat prin Avagraha (dispare)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers)
+**sa, eṣa** (⟪स एष⟫) apare înainte de toate sunetele, cu excepția lui **-a** scurt
+**so, eṣo** (⟪सो एषो⟫) apare înainte de **-a**, care este elidat prin Avagraha (dispare)
+**saḥ, eṣaḥ** (⟪सः एषः⟫) apare doar în pauză (sfârșit de propoziție, sfârșit de vers)
 
 Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesară cunoașterea următoarelor reguli de Sandhi:
 

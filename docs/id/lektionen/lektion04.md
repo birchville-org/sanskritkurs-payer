@@ -1,46 +1,47 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Pelajaran 4"
+subtitle: "Kata tanya dan kata ganti demonstratif dalam kasus nominatif"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 4
 
-## 4.1. Pertanyaan Sederhana dengan Kata Tanya dan Jawabannya
+## 4.1. Pertanyaan pelengkap sederhana (pertanyaan kata) dan jawaban
 
-### 4.1.1. Kata Ganti Tanya dan Kata Ganti Penunjuk
+### 4.1.1. Kata ganti tanya (interogatif) dan kata ganti demonstratif
 
-#### 4.1.1.1. Kata Ganti Tanya (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. Kata ganti tanya (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
-| | Nominatif singular | Nominatif plural |
+| | Nominatif tunggal | Nominatif jamak |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **Netrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Femininum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. Kata Ganti Penunjuk (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+#### 4.1.1.2. Kata ganti demonstratif (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
-| **Suku** ||||
+| **Stem** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
-| **Nominatif singular** ||||
-| **Netral** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Maskulin** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **Feminin** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
-| **Nominatif plural** ||||
-| **Netral** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **Maskulin** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **Feminin** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| | **tad = ⟪तद्⟫:br"ia, mereka, itu; si, dia, yang":br(Yang Disebut)** | **etad = ⟪एतद्⟫:br"inilah, ini, ini":br(Sangat Dekat dengan Penutur)** | **idam = ⟪इदम्⟫:br"inilah, ini, ini":br(Dekat)** |
+| **Nominatif tunggal** ||||
+| **Netrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Maskulinum** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **Nominatif jamak** ||||
+| **Netrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
 **Untuk Nom. sg. mask.:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) muncul sebelum semua bunyi kecuali **-a** pendek
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) muncul sebelum **-a**, yang dielisis dengan Avagraha (hilang)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) hanya muncul dalam jeda (akhir kalimat, akhir bait)
+**sa, eṣa** (⟪स एष⟫) digunakan sebelum semua bunyi kecuali **-a** pendek
+**so, eṣo** (⟪सो एषो⟫) digunakan sebelum **-a**, yang dielisi (hilang) dengan Avagraha
+**saḥ, eṣaḥ** (⟪सः एषः⟫) hanya digunakan dalam jeda (akhir kalimat, akhir bait)
 
 Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan juga pengetahuan tentang aturan Sandha berikut:
 

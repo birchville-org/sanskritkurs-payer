@@ -1,53 +1,56 @@
 ---
-title: Lektion 9
-subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
+title: "Lekcija 9"
+subtitle: "Samāhāradvandva i nominalni sufiksi -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
-# Lekcija 9
+# Lesson 9
 
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
+
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Collective Dvandva")
 
 ::: grammar-box
-**Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:**
+**When a Dvandva is intended to express that a series of things, etc., form a unity, it generally stands in the singular neuter:**
 
-z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert.
+e.g. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ does not simply mean "food intake (**āhāra** m.), sleep (**nidrā** f.), copulation (**maithuna** n.) and fear (**bhaya** n.)", but these four as a **unity**, which characterizes animal life.
 :::
-Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
+In addition to this basic rule for the formation of Samāhāradvandvas, there are a number of other rules that can be found in Pāṇini 2,4,2-17 or e.g. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. In the various stages of language development, not always were the same rules adhered to!
 
-## 9.2. Zur Bildung von Nominalstämmen
+
+## 9.2. On the Formation of Nominal Stems
 
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
-**Das taddhita-Suffix -ka bildet u.a.:**
+**The taddhita suffix -ka forms among other things:**
 
-1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
-   **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"**
+1\. **Diminutives (diminutive forms like German -chen, -lein, -li, -le):**
+**putra m. "son" » putraka m. ⟪पुत्रक⟫ "little son"**
 
-2\. **Nomina, die eine annähernde Ähnlichkeit bezeichnen:**
-   **aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"**
+2\. **Nouns that denote an approximate similarity:**
+**aśva m. "horse" » aśvaka m. ⟪अश्वक⟫ "little horse, a thing similar to a horse"**
 
-3\. **Nomina ohne Bedeutungsunterschied zum zugrundeliegenden Nomen:**
-   **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
+3\. **Nouns without semantic difference from the underlying noun:**
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
-   **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
-   **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
+4\. **Nouns that express "related to the concept of the base word":**
+**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "native of Benares, originating from Benares"**
+**rūpa n. "form" » rūpaka 3 ⟪रूपक⟫ "possessing the form of something"**
 :::
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
 ::: grammar-box
-**Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.**
+**Kṛt-sufiks -aka, femininum često -ikā, tvori nomina agentis (imenice koje izražavaju vršitelja radnje) za svaki korijen (Kielhorn).**
 
-Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt.
+A final vowel of the root as well as **-a-** in the penultimate position of the root are replaced by their lengthened grade (**vṛddhi**) (there are some exceptions), the other vowels are replaced by their strengthened grade (**guṇa**).
 :::
-**Beispiele:**
+**Examples:**
 
 | Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -59,11 +62,11 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 | **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmässig oder als Obliegenheit oder gut vollziehend".**
+**Some of these formations have the narrower meaning: "one who habitually or as a duty or properly performs that which is expressed by the root".**
 :::
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
+see above e.g. **śrāvaka**, **yājaka**, **jayaka**
 
-**Beispiele:**
+**Examples:**
 
 | Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -71,45 +74,47 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
 | **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
-Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
+Additionally, there are a few less important uses of the suffix **-aka**. Cf. Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 9.3. Word List
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
+**Learn the following words:**
+
+**adhyayana** n. (⟪अध्ययन⟫) : Learning, esp. Vedic study
 
 ::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903))
+Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram near Madurai.
+(Image source: [Details](/sh/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
+**kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Craftsman
 
 ::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902))
+Fig.: **kāru** = ⟪कारु⟫, Gujarat.
+(Image source: [Details](/sh/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
+**kuśīlava** m. (⟪कुशीलव⟫) : (wandering) showman, actor, singer
+**kusīda** n. (⟪कुसीद⟫) : Usury
+**kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : to pull
+**kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : to plough
+from this: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Agriculture
+**dāna** n. (⟪दान⟫) : Giving, gift, generosity
+**pratigraha** m. (⟪प्रतिग्रह⟫) : Receiving, gift
+**pravacana** n. (⟪प्रवचन⟫) : Discourse, (oral) instruction
+**pāśupālya** n. (⟪पाशुपाल्य⟫) : Cattle rearing, cattle breeding
+to **yaj** 1 U:
+**ijyā** f. (⟪इज्या⟫) : Sacrifice (from \*yj » ij + suffix **yā**)
+**yajana** n. (⟪यजन⟫) : Sacrifice on behalf of someone else
+**rūpa** n. (⟪रूप⟫) : Appearance, form, beautiful shape, nature, essence
+**vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Trade
+**śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obedience, obedient service
 
-## 9.4. Übung
 
-**A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
+## 9.4. Exercise
+
+**A) Try to determine the possible meanings of the following words:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
 2\. **mati** ⟪मति⟫
 3\. **śravaṇa** ⟪श्रवण⟫
@@ -120,8 +125,8 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 
 ::: media
 ![](/images/lekt0901.webp)
-Abb.: **karṣaka** = ⟪कर्षक⟫.
-(Bildquelle: [Details](/licenses#lekt0901))
+Fig.: **karṣaka** = ⟪कर्षक⟫.
+(Image source: [Details](/sh/licenses#lekt0901))
 :::
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
@@ -137,34 +142,34 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 19\. darśaka (⟪दर्शक⟫)
 20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:**
+**B) Translate:**
 
-1. Aufgaben aller Zweimalgeborenen:
+1. Duties of all twice-born:
    **ijyādhyayanadānāni**
-   ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118)
+⟪इज्याध्ययनदानानि⟫
+(Yājñavalkyadharmaśāstra I, 118)
 
-2. Spezifische Aufgaben eines Brahmanen:
+2. Specific duties of a Brāhmaṇa:
    **pravacanayājanapratigrahāḥ**
-   ⟪प्रवचनयाजनप्रतिग्रहाः⟫
-   (Gautamadharmasūtra X, 2)
+⟪प्रवचनयाजनप्रतिग्रहाः⟫
+(Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya:
+3. Specific duties of a Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
-   ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
+⟪रक्षणं सर्वभूतानाम्⟫
+(sarvabhūtānām = Genitive: "of all beings"; Gautamadharmasūtra X, 7)
 
-4. Spezifische Aufgaben eines Vaiśya:
+4. Specific duties of a Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
-   ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-   (nach Gautamadharmasūtra X, 49)
+⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
+(according to Gautamadharmasūtra X, 49)
 
-5. Aufgaben eines Śūdra:
+5. Duties of a Śūdra:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-   ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
-   (nach Kauṭilīya-Arthaśāstra 1.3.8.)
-   Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
+(according to Kauṭilīya-Arthaśāstra 1.3.8.)
+Explanation: dvijātīnām = Genitive plural of dvijāti (translate here as "towards the twice-born"); kārukuśīlavakarma is a Tatpuruṣa compound with a Dvandva (kārukuśīlava) in the prior member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate "deed / activity of the ... (Genitive)" (as designated by the Dvandva).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
-   ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+⟪कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता⟫ |
+(nach Kauṭilīya-Arthaśāstra 1.4.1.)

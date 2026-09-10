@@ -23,7 +23,7 @@ A) Translate into Sanskrit:
 4. Fire burns the house of the man who does not worship Agni with a sacrifice.
 ⟪यो नरो ऽग्निं न यजते तस्य गृहमग्निर्दहति ।⟫
 
->> 5. The tiger-like man slays the Kṣatriya warriors who have defeated Rāma (Passive).
+5. The tiger-like man slays the Kṣatriya warriors who have defeated Rāma (Passive).
 ⟪यैः क्षत्रिययोधै रामो जितस्तान्पुरुषव्याघ्रो हन्ति ॥⟫
 
 B) Translate:

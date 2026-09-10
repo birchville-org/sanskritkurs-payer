@@ -1,10 +1,11 @@
 ---
-title: Lektion 9
-subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
+title: "Lecziun 9"
+subtitle: "Samāhāradvandva & Nominalsuffixes -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Lecziun 9
@@ -120,8 +121,8 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 
 ::: media
 ![](/images/lekt0901.webp)
-Abb.: **karṣaka** = ⟪कर्षक⟫.
-(Bildquelle: [Details](/rm/licenses#lekt0901))
+Fig.: **karṣaka** = ⟪कर्षक⟫.
+(Font dal maletg: [Details](/rm/licenses#lekt0901))
 :::
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)

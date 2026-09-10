@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lição 59"
+subtitle: "As desinências secundárias e as desinências do imperativo no dual (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 59
@@ -766,7 +767,7 @@ O ⟪भट्टिकाव्य⟫ foi composto no período entre 495 e 641 
 ::: media
 ![](/images/lekt5902.webp)
 Fig.: ⟪रावणः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5902))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5902))
 :::
 A seção seguinte é o início do 15º canto, dedicado ao aoristo. ⟪रावण⟫, o rei dos demônios, que raptou a esposa ⟪सीता⟫ de ⟪राम⟫, manda chamar seu irmão ⟪कुम्भकर्ण⟫ ("Orelha de Pote"), que, como punição por seus malfeitos, jaz em uma espécie de sono perpétuo.
 
@@ -774,13 +775,13 @@ A seção seguinte é o início do 15º canto, dedicado ao aoristo. ⟪राव
 ![](/images/lekt5903.webp)
 Fig.: ⟪कुम्भकर्णः⟫
 Dança Kecak, Bali (Indonésia)
-(Fonte da imagem: [Detalhes](/licenses#lekt5903))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5903))
 :::
 _Auxílio de tradução:_ Verso 6: ⟪दिदृक्षते⟫ \= Desiderativo de ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt5901))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5901))
 :::
 Texto de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 

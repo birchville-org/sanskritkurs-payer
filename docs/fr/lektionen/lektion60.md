@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Leçon 60"
+subtitle: "Les désinences du duel au parfait (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 60
@@ -19,9 +20,9 @@ status: stable
 
 ## 60.2. Le duel du parfait redoublé (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Type 1 : pas d'apophonie de la racine
 
-⟪बन्ध्⟫ 9P « lier »
+⟪बन्ध्⟫ 9P "lier"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +31,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā «parler»
+⟪भाष्⟫ 1Ā "parler"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -39,9 +40,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. Type 2 : racine forte au degré plein, racine faible au degré réduit
 
-⟪भिद्⟫ 7U « fendre »
+⟪भिद्⟫ 7U "fendre"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -50,11 +51,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. Type 3 : racine forte au degré plein/au degré allongé
 
-#### 60.2.3.1. Type 3a : Radical fort au degré élevé/étendu, radical faible au degré bas
+#### 60.2.3.1. Type 3a : racine forte au degré plein/au degré allongé, racine faible au degré réduit
 
-⟪नी⟫ 1U « mener »
+⟪नी⟫ 1U "conduire"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +64,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟩ 2U (⟪अनिट्⟩) « louer »
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "louer"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |

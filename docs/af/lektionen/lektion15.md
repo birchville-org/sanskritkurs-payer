@@ -1,586 +1,341 @@
 ---
-title: Lektion 15
+title: "Lesing 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 15
+---# Les 15
 
-## 15.1. ⟪सुभाषितम्⟫
+## 15.1. ⟪सुभाषितम् गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫
 
-⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
-⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
-⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
+## 15.2. Bepalende samestellings = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+Die verhouding tussen die elemente wat deur selfstandige naamwoorde (substantiewe en byvoeglike naamwoorde) aangedui word, kan nie net deur 'n genitiefkonstruksie uitgedruk word nie, maar ook deur 'n Tatpuruṣa (⟪तत्पुरुष⟫). Op dieselfde wyse kan attributiewe konstruksies met bywoorde of apposisie van selfstandige naamwoorde uitgedruk word deur 'n spesifieke tipe Tatpuruṣa, naamlik die sogenaamde Karmadhāraya (m.) = ⟪कर्मधारय⟫.
 
-Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man ausser durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (⟪तत्पुरुष⟫) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = ⟪कर्मधारय⟫ ausdrücken.
-
-⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita.
+⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫ 'sy dienaar', d.w.s. 'n voorbeeld van hierdie tipe samestelling dien as die term vir hierdie tipe samestelling.
 ::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum.
+In determinatiewe samestellings (Tatpuruṣa) word 'n selfstandige naamwoord (substantief of byvoeglike naamwoord) verder gespesifiseer deur 'n ander selfstandige naamwoord of byvoeglike naamwoord. Die woord wat verder gespesifiseer word, vorm gewoonlik die tweede element van die samestelling.
 
-Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein:
+Die verhouding tussen die voorste element (bepalende element) en die agterste element (gedefinieerde element) kan wees:
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. ausserhalb eines Satzzusammenhangs im Nominativ (⟪प्रथमा⟫), im Satz im syntaktisch geforderten Kasus)
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - ⟪प्रथमा⟫)
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort
+*   attributief of appositief: wanneer die samestelling uitgebrei word, funksioneer die eerste element as 'n meer spesifieke wyser van die tweede element in dieselfde geval (d.w.s. buite 'n sinskonteks in die nominatief (⟪प्रथमा⟫), en in die sintakties vereiste geval binne 'n sin)
+*   gevallerelateerd: wanneer die samestelling ontleed word, is die eerste element in 'n ander geval as die tweede element (d.w.s. nie in die nominatief nie – ⟪प्रथमा⟫)
+*   adverbiaal: die eerste element is 'n nie-fleksibele woord
+Die gevalleverhouding tussen die twee dele van 'n samestelling is onafhanklik van die geval waarin die samestelling voorkom: immers, die samestelling is 'n enkele, buigbare woord:
 
-Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort:
+bv.
 
-z. B.
+&gt; Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
+&gt; Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
+&gt; Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
+&gt; Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
+&gt; Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
+&gt; ens.
 
-> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫
-> Akk. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫
-> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫
-> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫
-> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
-> usw.
-
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+Die geslag van 'n Tatpuruṣa is – met 'n paar uitsonderings – dié van sy tweede komponent.
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. Bepalende samestellings met 'n attributiewe / appositiewe eerste element = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
+Wanneer die Karmadhāraya uitgebrei word, is beide elemente van die samestelling in dieselfde geval.
 
 :::
-z.B.
+bv.
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "'n seun met goeie eienskappe"  
 Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫
+Nominatief meervoud ⟪गुणवत्पुत्राः पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = "'n deugsaam Kṣatriya-vrou"  
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"
+⟪साधुजनाः⟫ = ⟪साधवो जनाः⟫ = "goeie mense"  
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"
-
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat"
+⟪इष्टदेवता⟫ = ⟪इष्टा देवता⟫ = "die verlangde godheid = die godheid met wie 'n mens 'n spesiale verhouding van toewyding en toevlug het"
 
 ::: media
 ![](/images/lekt1501.webp)
-Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501))
+Afb.: ⟪लक्ष्मी⟫
+(Beeldbron: [Details](/af/licenses#lekt1501))
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+Die volgende spesiale reël geld vir die volgorde van die bestanddele in 'n Karmadhāraya:
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums:
+*   As 'n Karmadhāraya 'n VERGELYKING uitdruk, word die element waarmee vergelyk word, in die laaste bestanddeel van die samestelling geplaas:
+    
+    ⟪नरसिंहः⟫ = ⟪सिंह इव नरः⟫ = "'n man soos 'n leeu"  
+    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र इव पुरुषः⟫ = "'n man soos 'n tier"
+    
+*   As 'n Karmadhāraya egter 'n apposisie uitdruk ('n meer spesifieke beskrywing van die tweede element deur middel van 'n selfstandige naamwoord), verskyn die meer spesifieke element in die eerste element, soos vereis deur die algemene reël wat die volgorde van elemente in 'n Tatpuruṣa reguleer:
+    
+    ⟪नरसिंहः⟫ kan ook uitgebrei word as: ⟪नर एव सिंहः⟫ = ''n leeu wat (in werklikheid) 'n man is.'
+      
+    Sulke apposisisionele Karmadhāraya word in die inheemse kommentare, soos in die voorbeeld hierbo, uitgebrei met behulp van ⟪एव⟫.
 
 :::
-::: indent
-⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"
-⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger"
-:::
-
-*   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert:
-
-::: indent
-⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist."
-:::
-
-    Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst.
-
 ::: media
 ![](/images/lekt1503.webp)
-Abb.: ⟪नरसिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1503))
+Afb.: ⟪नरसिंहः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1503))
 :::
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
+## 15.4. Determinatiewe samestellings met 'n eerste element wat in 'n nie-atributiewe/apposisionele gevalleverhouding tot die tweede element staan = Tatpuruṣa in die streng sin
 
 ::: grammar-box
 
-Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäss vertritt das Vorderglied am häufigsten einen Genetiv (⟪षष्ठी⟫), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken.
+Tatpuruṣa-konstruksies is moontlik vir kombinasies van selfstandige naamwoorde (substantiewe en byvoeglike naamwoorde) waarin die eerste element – in ooreenstemming met die reëls van sintaksis – in enige geval kan voorkom. Soos verwag, neem die eerste element die genitief die meeste gereeld (⟪षष्ठी⟫), aangesien dit die gevall wat gebruik word om die verhouding tussen selfstandige naamwoorde uit te druk.
 
 :::
-z.B.
+bv.
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
-Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
-Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-u.s.w.
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य पुत्रः⟫ = "die seun van 'n Kṣatriya", "'n jong Kṣatriya", "'n lid van die Kṣatriya-groep"  
+Akk. enk. ⟪क्षत्रियपुत्रम्⟫  
+Gen. enk. ⟪क्षत्रियपुत्रस्य⟫  
+ens.  
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "die Natur eines Lehrers"
+⟪गुरुभावः⟫ = ⟪गुरोर्भावः⟫ = "die aard van 'n onderwyser"
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Begierde nach Reichtum, Habsucht"
+⟪धनलोभः⟫ = ⟪धनस्य लोभः⟫ = "begeerte na rykdom, gierigheid"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "der Gang der Welt, das Verhalten der Leute"
+⟪लोकगतिः⟫ = ⟪लोकस्य गतिः⟫ = "die gang van die wêreld, die gedrag van mense"
+Byna elke genitiefverhouding kan deur 'n Tatpuruṣa vervang word. Vir die paar uitsonderings, sien byvoorbeeld Kale, *A Higher Sanskrit Grammar*, § 211, wat ook die relevante gedeeltes uit Pāṇini aanhaal.
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini.
-
-Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22.
+In beginsel kan die voorste element van 'n tatpuruṣa egter enige geval verteenwoordig. Nietemin kan nie alle sintakties moontlike gevalsverhoudings deur 'n tatpuruṣa vervang word nie. By twyfel kan die relevante reëls gevind word in Kale, *A Higher Sanskrit Grammar*, § 203–217, of in Pāṇini 2.1.22–2.2.22.
 
 ::: grammar-box
 
-Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden.
+Wanneer die samestelling ontleed word, kan die voorste element in die enkelvoud, die dualis of die meervoud wees. Watter vorm van toepassing is, moet uit die betekenis en konteks afgelei word.
 
 :::
-Beispiele:
+Voorbeelde:
 
-Das Vorderglied vertritt den Akkusativ (⟪द्वितीया⟫): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24):
+Die eerste element is in die akkusatief (⟪द्वितीया⟫): bv. in sekere voltooide deelwoorde met bewegingswerkwoorde (Pāṇini 2.1.24):
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "einer, der ins Dorf gegangen ist"  
-⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "eine, die in eine Hölle gefallen ist"
+⟪ग्रामगतः⟫ = ⟪ग्रामं गतः⟫ = "iemand wat na die dorp gegaan het"  
+⟪नरकपतिता⟫ = ⟪नरकं पतिता⟫ = "iemand wat in die hel geval het"
 
-Das Vorderglied vertritt den Instrumentalis (⟪तृतीया⟫): z.B. häufig der Agens (⟪कर्तृ⟫) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP):
+Die eerste element verteenwoordig die instrumentale geval (⟪तृतीया⟫): bv. dikwels die agent (⟪कर्तृ⟫) in nominale konstruksies met kṛt-agtervoegsels (bv. PPP):
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "von einem Gott / von Göttern gemacht"  
-Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः कृतम्⟫ = "gemaak deur 'n god / deur gode"  
+Kan ook afgebreek word as: ⟪देवस्य⟫ / ⟪देवानां कृतम्⟫ = "handeling / daad van 'n god / van gode; goddelike handeling, handeling van die gode"  
 
-⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "die, die von Buddha behütet wurde" (ein Eigenname)
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन रक्षिता⟫ = "sy wat deur die Boeddha beskerm is" ('n eie naam)
 
-## 15.5. Zerlegung von Komposita (ausser Dvandvas)
+## 15.5. Ontleding van samestellings (behalwe vir dvandvas)
 
 ::: grammar-box
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen:
-
+Alhoewel samestellings van enige lengte in Sanskrit gevorm kan word en baie gereeld gevorm word (samestellings wat uit 10 tot 30 elemente bestaan, is geensins skaars nie!), kan alle samestellings – met die uitsondering van dvandvas – progressief hiërargies in elk twee dele afgebreek word:
 :::
 ::: media
 ![](/images/lekt1502.jpg)
-Abb.: ⟪समासविच्छेदः⟫
-(Bildquelle: [Details](/licenses#lekt1502))
+Afb.: ⟪समासविच्छेदः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1502))
 :::
-u.s.w. bis man zu den einzelnen Wortstämmen kommt.
+en so voorts totdat jy by die individuele woordstamme uitkom.
 
-z.B.
+bv.
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1\. Stufe (Hauptzäsur): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+1ste vlak (hoofkessuur): ⟪गुणवत्पुत्रकृतं ॥१॥ पुण्यम्⟫
 
-2\. Stufe (1. Nebenzäsur): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+2de vlak (1ste sekondêre kessuur): ⟪गुणवत्पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-3\. Stufe (2. Nebenzäsur): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+3de vlak (2de sekondêre breek): ⟪गुणवता॥३॥ पुत्रेण ॥२॥ कृतं ॥१॥ पुण्यम्⟫
 
-= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat"
+= "die verdienstelike daad (die verdienste) wat my deugsaamse seun verrig het"
 :::
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw.
+Verskillende soorte samestellings kan hier gemeng word; byvoorbeeld, eerste element: Bahuvrīhi (⟪बहुव्रीहि⟫) – tweede element: Tatpuruṣa, ens.
 
-z.B.
+bv.
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
 ::: indent
-1\. Stufe: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Vorderglied: Itaretaradvandva)
+1ste vlak: ⟪ब्राह्मणक्षत्रियवैश्यानां धर्मः⟫ (eerste element: Itaretaradvandva)
 
-2\. Stufe: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
+2de vlak: ⟪ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः⟫
 
-= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+= "die Dharma van Brahmins, Kṣatriyas en Vaiśyas"
 :::
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen.
+Baie dikwels is daar verskeie moontlike maniere om 'n samestelling op te los. Watter een die korrekte een is, of ten minste die beste een, kan slegs uit die konteks en die inhoud van die teks bepaal word. Soms is so 'n besluit nie moontlik nie. Dikwels word na alle waarskynlikheid twee moontlike interpretasies deur die outeur bedoel. In sulke gevalle moet albei interpretasies in die vertaling weerspieël word (gekoppel deur 'en', 'of', 'onderskeidelik' en derglike).
 
-z.B.
+bv.
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
 ::: indent
-1\. Stufe: entweder - oder
+Stap 1: óf – of
 
-1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
-2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
-3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
+1. ⟪पुण्यवत्पुत्रेण कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य कृतम्⟫
+3. ⟪पुण्यवत् पुत्रकृतम्⟫
 
-2\. Stufe: entsprechend
-
-1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das von meinem verdienstreichen Sohn Getane"
-2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die Tat meines verdienstreichen Sohnes"
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane"
-   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die verdienstvolle Tat meines Sohnes"
+Fase 2: ooreenkomstig
+1. ⟪पुण्यवता पुत्रेण कृतम्⟫ = "dit van my deugdelike seun Getane"
+2. ⟪पुण्यवतः पुत्रस्य कृतम्⟫ = "die daad van my deugdelike seun"
+3. 1. ⟪पुण्यवत् पुत्रेण कृतम्⟫ = "die verdienstelike, deur my seun Getane"
+   2. ⟪पुण्यवत् पुत्रस्य कृतम्⟫ = "die verdienstelike daad van my seun"
 :::
-## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
+## 15.6. Die vorm van die eerste element in samestellings (⟪समास⟫ m.)
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
+In alle soorte samestellings is die eerste element gewoonlik die onverbuigde woordstam. Selfstandige naamwoorde met twee stamme is in die swak stam. Vroulike byvoeglike naamwoorde wat 'n daaropvolgende element in die samestelling verder spesifiseer, is oor die algemeen in die manlike stam:
 
-z.B.
+bv.
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine Kṣatriyafrau, die Verdienst besitzt"  
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती क्षत्रिया⟫ = "'n Kṣatriya-vrou wat verdienste besit"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान् पुत्रः⟫ = "'n seun met goeie eienskappe"
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫
+## 15.7. Klassifikasie van ⟪तत्पुरुष⟫
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Nominativ (⟪प्रथमा⟫)
-2.  ⟪द्वितीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Akkusativ (⟪द्वितीया⟫)
-3.  ⟪तृतीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Instrumentalis (⟪तृतीया⟫)
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Dativ (⟪चतुर्थी⟫)
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Ablativ (⟪पज्चमी⟫)
-6.  ⟪षष्ठीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Genetiv (⟪षष्ठी⟫)
-7.  ⟪सप्तमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im Lokativ (⟪सप्तमी⟫)
+1.  ⟪प्रथमातत्पुरुषः⟫: Die eerste element is in die nominatief in ⟪विग्रहवाक्य⟫ (⟪प्रथमा⟫)
+2.  ⟪द्वितीयातत्पुरुषः⟫: Die eerste element is in die akkusatief in ⟪विग्रहवाक्य⟫ (⟪द्वितीया⟫)
+3.  ⟪तृतीयातत्पुरुषः⟫ : Die eerste element is in die instrumentale geval in ⟪विग्रहवाक्य⟫ (⟪तृतीया⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : Die eerste element is in die datief in ⟪विग्रहवाक्य⟫ (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : Die eerste element is in die ablatief in ⟪विग्रहवाक्य⟫ (⟪पज्चमी⟫)
+6.  ⟪षष्ठीतत्पुरुषः⟫ : Die eerste element is in ⟪विग्रहवाक्य⟫ in die genitief (⟪षष्ठी⟫)
+7.  ⟪सप्तमीतत्पुरुषः⟫ : Die eerste element is in die lokatiwus in ⟪विग्रहवाक्य⟫ (⟪सप्तमी⟫)
 
-*   ⟪कर्मधारयः⟫ : appositioneller Tatpuruṣa, u.a.:
-    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach erstem Glied
-    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach zweitem Glied
-    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫
-    *   ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied
-*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : mit Verneinung a-, an- im Vorderglied
-*   ⟪गतिसमासः⟫ : mit Präposition im Vorderglied
-*   ⟪प्रथमातत्पुरुषः⟫ u.s.w. (siehe oben)
+*   ⟪कर्मधारयः⟫ : appositiewe Tatpuruṣa, bv.:
+    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ met ⟪इव⟫ ná die eerste element
+    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ met ⟪इव⟫ ná die tweede element
+    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ met ⟪एव⟫
+    *   ⟪द्विगुसमासः⟫ : getal in die eerste element
+*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫): met ontkenning 'a-', 'an-' in die eerste element
+*   ⟪गतिसमासः⟫ : met 'n voorsetsel in die voorste element
+*   ⟪प्रथमातत्पुरुषः⟫ ens. (sien hierbo)
+### 15.7.1. Klassifikasie van ⟪कर्मधारय⟫
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫: die eerste element is 'n byvoegsel (⟪विशेषण⟫)
+2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : albei elemente is byvoeglike naamwoorde; hierdie kategorie sluit ook byvoeglike naamwoorde in wat 'n volgorde van gebeure uitdruk: 'eerstens gebad, dan gesalf'
+3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (= ⟪उपमासमासः⟫): 'n vergelyking in die eerste element, die vergelykte kwaliteit in die tweede element: bv. "mooi soos 'n lotus"
+4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (= ⟪उपमितसमासः⟫): vergelyking in die tweede deel
+5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ met ⟪एव⟫ as die antecedent (metafoor)
+6. ⟪संभावनपूर्वपदकर्मधारयः⟫ : beide dele verwys na dieselfde persoon of ding, bv. ⟪कालिदासकविः⟫ = ⟪कालिदास इति कविः⟫ = "die digter Kālidāsa"
+7.  ⟪कर्मधारयः⟫ met ⟪कु⟫ / ⟪कद्⟫ as die eerste element: "sleg..."
+8.  ⟪कर्मधारयः⟫ met ⟪किम्⟫ as die eerste element: berisping
+9.  PPP + ontkende PPP: "gedeeltelik", bv. ⟪कृताकृतम्⟫ = "gedeeltelik gedoen"
+10.  ⟪द्विगुसमासः⟫ : getal in die voorste element
 
-1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Vorderglied ist Adjektiv (⟪विशेषण⟫)
-2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : beide Glieder sind Adjektive, hierher gehören auch Adjektive, die einen Zeitablauf ausdrücken: "zuerst gebadet, dann gesalbt"
-3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): im Vorderglied Vergleich, im Hinterglied verglichene Eigenschaft: z.B. "schön wie ein Lotus"
-4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫):  Vergleich im Hinterglied
-5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ nach Vorderglied (Metapher)
-6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : beide Glieder Glieder beziehen sich auf selbe Person oder Sache, z.B. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "der Dichter Kālidāsa"
-7.  ⟪कर्मधारयः⟫ mit ⟪कु⟫ / ⟪कद्⟫ als Vorderglied: "schlecht..."
-8.  ⟪कर्मधारयः⟫ mit ⟪किम्⟫ als Vorderglied: Tadel
-9.  PPP + negiertes PPP: "teilweise", z.B. ⟪कृताकृतम्⟫ = "teilweise getan"
-10.  ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied
+## 15.8. Woordelys
 
-## 15.8. Wortliste
+⟪पुष्कल⟫ 3: pragtig, magnifiek, volop
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
+⟪वा⟫ : of (daarna)
 
-⟪वा⟫ : oder (nachgestellt)
+⟪अथवा⟫ : of (voorafgaande)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪चतुर्थ⟫ 3 (v.: ⟪चतुर्थी⟫): vierde
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
+⟪विद्⟫ 'vind' 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त विद्⟫ "weet" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित पत्⟫ "vlieg, val" 1ste persoon ⟪पतति⟫ ; Passief ⟪पत्यते⟫ ; PPP ⟪पतित अर्ध⟫ 3: half, m.n. half
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
-
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
-
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
-
-⟪अर्ध⟫ 3: halb, m.n. Hälfte
-
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
+⟪पूजा⟫ f.: eer, eervolle ontvangs, godsdienstige aanbidding (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504))
+Afb.: ⟪पूजा⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+⟪कुल⟫ n.: trop, skare, geslag, geslaglyn, familie
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
+⟪इन्द्र⟫ m.: prince, first, best among ; king of gods Indra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505))
+Afb.: ⟪इन्द्रः⟫
+(Image source: [Details](/af/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+⟪दास⟫ m.: slave, serf, servant
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
+⟪दासी⟫ f.: slave woman, serf, servant
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
+⟪काल⟫ m.: time, (right) moment ; fate, death ; god of death Kāla
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel
+⟪काल⟫ 3: black, dark blue-black, dark
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht
+⟪पुरुष⟫ m.: human, man, servant
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
+\-⟪जन⟫ as the second component of Tatpuruṣas often expresses the plural
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : to praise, extol
 
-davon:
+from this:
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied
+⟪स्तुति⟫ f.: praise, hymn of praise
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus
+⟪स्तोत्र⟫ n.: (means of praise =) hymn of praise, hymnus
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
+⟪सिंह⟫ m.: lion (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506))
+Afb.: ⟪सिंहः⟫
+(Image source: [Details](/af/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
+⟪व्याघ्र⟫ m.: tiger (_Panthera tigris tigris_) (lit.: yawner)
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507))
+Afb.: ⟪व्याघ्रः⟫
+(Image source: [Details](/af/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+⟪इव⟫ (postposed): as it were, like (in comparisons: ⟪व्याघ्र इव पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
+⟪अरि⟫ m.: vyand (volgens Thieme, Der Fremdling im Ṛgveda: oorspronklik = vreemdeling)
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+⟪आर्य⟫ 3: Aryan, noble ; m. Aryan (self-designation of the Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; nobleman, gentleman
 :::
-zu ⟪जन्⟫
+na ⟪जन्⟫
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
+⟪जाति⟫ v.: geboorte, soort, kaste (vir kaste as ⟪जाति⟫ kyk na Basham, Wonder, p. 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : om te sterf (volgens Indiese grammatikers: 6 Ā)
 
-davon:
+thereof:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod
+⟪मरण⟫ n.: dying, death
 
-⟪मृति⟫ f.: Sterben, Tod
+⟪मृति⟫ f.: dying, death
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
+⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Übung 1
+## 15.9. Exercise 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
+Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫
+⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-⟪२⟫. ⟪दुःखदग्धा⟫
+## 15.10. Exercise 2
 
-⟪३⟫. ⟪मोक्षधर्मः⟫
+Resolve the following Tatpuruṣa as in Exercise 1:
 
-⟪४⟫. ⟪अन्नजातानि⟫
+⟪१⟫. ⟪देवतागृहम् २⟫. ⟪देवीस्तोत्रम् ३⟫. ⟪ब्राह्मणगृहम् ४⟫. ⟪वैश्यापुत्राः ५⟫. ⟪शूद्रधर्मः ६⟫. ⟪अग्निगृहम् ७⟫. ⟪साधुगता ८⟫. ⟪सत्यवचनेन ९⟫. ⟪धर्मयज्ञानाम् १०⟫. ⟪सत्यधर्मः ११⟫. ⟪अनृतवदनस्य १२⟫. ⟪देवीदासः⟫
 
-⟪५⟫. ⟪गृहकरणम्⟫
-
-⟪६⟫. ⟪शूद्रकृतेन⟫
-
-⟪७⟫. ⟪ईश्वरपूजा⟫
-
-⟪८⟫. ⟪देवेश्वरः⟫
-
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫
-
-⟪१०⟫. ⟪वैश्यभावेन⟫
-
-⟪११⟫. ⟪देवगुरोः⟫
-
-⟪१२⟫. ⟪धनलोभः⟫
-
-⟪१३⟫. ⟪गृहदासी⟫
-
-⟪१४⟫. ⟪दुःखमोहः⟫
-
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫
-
-⟪१६⟫. ⟪नगरजनाः⟫
-
-⟪१७⟫. ⟪यज्ञकालस्य⟫
-
-⟪१८⟫. ⟪देवगृहाणि⟫
-
-⟪१९⟫. ⟪देवपुत्राणाम्⟫
-
-⟪२०⟫. ⟪पश्विष्टिः⟫
-
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫
-
-⟪२२⟫. ⟪गुरुगृहम्⟫
-
-⟪२३⟫. ⟪सोमयज्ञेन⟫
-
-⟪२४⟫. ⟪स्वर्गगताः⟫
-
-⟪२५⟫. ⟪सुखप्रश्नम्⟫
-
-⟪२६⟫. ⟪पशुधर्मः⟫
-
-⟪२७⟫. ⟪स्वर्गलोकः⟫
-
-⟪२८⟫. ⟪ऋषियज्ञैः⟫
-
-⟪२९⟫. ⟪तत्कालम्⟫
-
-⟪३०⟫. ⟪सत्यवदनम्⟫
-
-## 15.10. Übung 2
-
-Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf:
-
-⟪१⟫. ⟪देवतागृहम्⟫
-
-⟪२⟫. ⟪देवीस्तोत्रम्⟫
-
-⟪३⟫. ⟪ब्राह्मणगृहम्⟫
-
-⟪४⟫. ⟪वैश्यापुत्राः⟫
-
-⟪५⟫. ⟪शूद्रधर्मः⟫
-
-⟪६⟫. ⟪अग्निगृहम्⟫
-
-⟪७⟫. ⟪साधुगता⟫
-
-⟪८⟫. ⟪सत्यवचनेन⟫
-
-⟪९⟫. ⟪धर्मयज्ञानाम्⟫
-
-⟪१०⟫. ⟪सत्यधर्मः⟫
-
-⟪११⟫. ⟪अनृतवदनस्य⟫
-
-⟪१२⟫. ⟪देवीदासः⟫
-
-⟪१३⟫. ⟪द्विजदासान्⟫
-
-⟪१४⟫. ⟪अग्निदग्धम्⟫
-
-⟪१५⟫. ⟪साधुवादः⟫
-
-⟪१६⟫. ⟪बालमृगः⟫
-
-⟪१७⟫. ⟪धनसर्गः⟫
-
-⟪१८⟫. ⟪अन्नद्वेषम्⟫
-
-⟪१९⟫. ⟪देवदेवम्⟫
-
-⟪२०⟫. ⟪देवप्रश्नेन⟫
-
-⟪२१⟫. ⟪गृहजनानाम्⟫
-
-⟪२२⟫. ⟪गुरुपूजायाः⟫
-
-⟪२३⟫. ⟪गुरुगतैः⟫
-
-⟪२४⟫. ⟪स्वर्गमार्गेण⟫
-
-⟪२५⟫. ⟪नरकदेवतया⟫
-
-⟪२६⟫. ⟪गृहेश्वरः⟫
-
-⟪२७⟫. ⟪ग्रामधर्मः⟫
-
-⟪२८⟫. ⟪देवीपूजाम्⟫
-
-⟪२९⟫. ⟪देवदर्शनम्⟫
-
-⟪३०⟫. ⟪देवपादान्⟫
-
-⟪३१⟫. ⟪धनजाता⟫
-
-⟪३२⟫. ⟪बालभावेन⟫
-
-⟪३३⟫. ⟪लोकगुरोः⟫
-
-⟪३४⟫. ⟪देवपुत्रः⟫
-
-⟪३५⟫. ⟪देवमार्गम्⟫
-
-⟪३६⟫. ⟪स्वर्गसुखम्⟫
-
-⟪३७⟫. ⟪सोमसुतिः⟫
-
-⟪३८⟫. ⟪देवपूजायाः⟫
-
-⟪३९⟫. ⟪लोकधर्मेण⟫
-
-⟪४०⟫. ⟪देवजनाः⟫
-
-⟪४१⟫. ⟪पापलोकः⟫
-
-⟪४२⟫. ⟪पुण्यफलानि⟫
-
-⟪४३⟫. ⟪सत्यवादः⟫
-
-⟪४४⟫. ⟪ऋषिपुत्रः⟫
-
-⟪४५⟫. ⟪पुत्रपुत्राः⟫
-
-⟪४६⟫. ⟪धर्मवादः⟫
-
-⟪४७⟫. ⟪देवलोकम्⟫
-
-⟪४८⟫. ⟪यज्ञेश्वरः⟫
-
-⟪४९⟫. ⟪ग्रामदेवता⟫
-
-⟪५०⟫. ⟪दुःखलोकः⟫
-
-⟪५१⟫. ⟪देवशत्रुणा⟫
-
-⟪५२⟫. ⟪क्षत्रियधर्मः⟫
-
-⟪५३⟫. ⟪द्विजेन्द्रः⟫
-
-⟪५४⟫. ⟪अग्निकृतम्⟫
-
-⟪५५⟫. ⟪साधूक्तानि⟫
-
-⟪५६⟫. ⟪ब्राह्मणभावेन⟫
-
-⟪५७⟫. ⟪देवधर्मः⟫
-
-⟪५८⟫. ⟪गृहदेवता⟫
-
-⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
-
-⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
+⟪१३⟫. ⟪द्विजदासान् १४⟫. ⟪अग्निदग्धम् १५⟫. ⟪साधुवादः १६⟫. ⟪बालमृगः १७⟫. ⟪धनसर्गः १८⟫. ⟪अन्नद्वेषम् १९⟫. ⟪देवदेवम् २०⟫. ⟪देवप्रश्नेन २१⟫. ⟪गृहजनानाम् २२⟫. ⟪गुरुपूजायाः २३⟫. ⟪गुरुगतैः २४⟫. ⟪स्वर्गमार्गेण २५⟫. ⟪नरकदेवतया २६⟫. ⟪गृहेश्वरः २७⟫. ⟪ग्रामधर्मः २८⟫. ⟪देवीपूजाम् २९⟫. ⟪देवदर्शनम् ३०⟫. ⟪देवपादान् ३१⟫. ⟪धनजाता ३२⟫. ⟪बालभावेन ३३⟫. ⟪लोकगुरोः ३४⟫. ⟪देवपुत्रः ३५⟫. ⟪देवमार्गम् ३६⟫. ⟪स्वर्गसुखम् ३७⟫. ⟪सोमसुतिः ३८⟫. ⟪देवपूजायाः ३९⟫. ⟪लोकधर्मेण ४०⟫. ⟪देवजनाः ४१⟫. ⟪पापलोकः ४२⟫. ⟪पुण्यफलानि ४३⟫. ⟪सत्यवादः ४४⟫. ⟪ऋषिपुत्रः ४५⟫. ⟪पुत्रपुत्राः ४६⟫. ⟪धर्मवादः ४७⟫. ⟪देवलोकम् ४८⟫. ⟪यज्ञेश्वरः ४९⟫. ⟪ग्रामदेवता ५०⟫. ⟪दुःखलोकः ५१⟫. ⟪देवशत्रुणा ५२⟫. ⟪क्षत्रियधर्मः ५३⟫. ⟪द्विजेन्द्रः ५४⟫. ⟪अग्निकृतम् ५५⟫. ⟪साधूक्तानि ५६⟫. ⟪ब्राह्मणभावेन ५७⟫. ⟪देवधर्मः ५८⟫. ⟪गृहदेवता ५९⟫. ⟪कारुकुशीलवकृतम् ६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
 ![](/images/lekt1508.webp)
-Abb.: ⟪ग्रामदेवता⟫
-(Bildquelle: [Details](/licenses#lekt1508))
+Afb.: ⟪ग्रामदेवता⟫
+(Beeldbron: [Details](/af/licenses#lekt1508))
 :::
-## 15.11. Übung 3
+## 15.11. Oefening 3
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
+A) Vertaal die spreekwoord aan die begin van die lesie
 
-B) Lösen Sie folgende Tatpuruṣa auf:
+B) Ontbind die volgende Tatpuruṣa:
 
-⟪१⟫. ⟪बलकृतः⟫
+⟪१⟫. ⟪बलकृतः २⟫. ⟪बालधनस्य ३⟫. ⟪नरककाकम् ४⟫. ⟪लोकगुरोः ५⟫. ⟪जलेश्वरेण ६⟫. ⟪जनपानम् ७⟫. ⟪वाक्यसारथीन् ८⟫. ⟪गुणवचनानि ९⟫. ⟪मृगेश्वरैः १०⟫. ⟪बुद्धिकृतायाः ११⟫. ⟪धर्मयज्ञेन १२⟫. ⟪यज्ञाङ्गानि १३⟫. ⟪गृहजनेन १४⟫. ⟪ग्रामलेखकाः १५⟫. ⟪नागदेवः १६⟫. ⟪पुण्यजिताभिः १७⟫. ⟪पापलोकम् १८⟫. ⟪सत्यवदनस्य १९⟫. ⟪दानधर्मेण⟫
 
-⟪२⟫. ⟪बालधनस्य⟫
-
-⟪३⟫. ⟪नरककाकम्⟫
-
-⟪४⟫. ⟪लोकगुरोः⟫
-
-⟪५⟫. ⟪जलेश्वरेण⟫
-
-⟪६⟫. ⟪जनपानम्⟫
-
-⟪७⟫. ⟪वाक्यसारथीन्⟫
-
-⟪८⟫. ⟪गुणवचनानि⟫
-
-⟪९⟫. ⟪मृगेश्वरैः⟫
-
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫
-
-⟪११⟫. ⟪धर्मयज्ञेन⟫
-
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫
-
-⟪१३⟫. ⟪गृहजनेन⟫
-
-⟪१४⟫. ⟪ग्रामलेखकाः⟫
-
-⟪१५⟫. ⟪नागदेवः⟫
-
-⟪१६⟫. ⟪पुण्यजिताभिः⟫
-
-⟪१७⟫. ⟪पापलोकम्⟫
-
-⟪१८⟫. ⟪सत्यवदनस्य⟫
-
-⟪१९⟫. ⟪दानधर्मेण⟫
-
-⟪२०⟫. ⟪सुखप्रश्नः⟫
-
-⟪२१⟫. ⟪दुःखमोहस्य⟫
-
-⟪२२⟫. ⟪सोमपात्राणि⟫
-
-⟪२३⟫. ⟪स्वर्गमार्गः⟫
-
-⟪२४⟫. ⟪कामधेन्वा⟫
-
-⟪२५⟫. ⟪वर्णधर्मः⟫
-
-⟪२६⟫. ⟪श्रुत्युदितम्⟫
+⟪२०⟫. ⟪सुखप्रश्नः २१⟫. ⟪दुःखमोहस्य २२⟫. ⟪सोमपात्राणि २३⟫. ⟪स्वर्गमार्गः २४⟫. ⟪कामधेन्वा २५⟫. ⟪वर्णधर्मः २६⟫. ⟪श्रुत्युदितम्⟫
 ::: media
 ![](/images/lekt1509.webp)
-Abb.: ⟪नागदेवाः⟫
-(Bildquelle: [Details](/licenses#lekt1509))
+Afb.: ⟪नागदेवाः⟫
+(Beeldbron: [Details](/af/licenses#lekt1509))
 :::
 

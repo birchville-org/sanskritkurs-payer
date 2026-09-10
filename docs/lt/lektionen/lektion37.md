@@ -1,464 +1,443 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Pamoka 37"
+subtitle: "Prieveiksmis (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Prieveiksmis (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet
+Sanskrito kalbų prieveiksmiai sudaromi
 
-1.  durch Kasusformen von Nomina und Pronomina
-2.  mit Hilfe besonderer Suffixe und Endungen
+1.  vartojant daiktavardžių ir įvardžių linksnių formas
+2.  naudojant specialius priesagas ir galūnes
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
+Pirmuoju atveju riba tarp gyvo linksnio ir prieveiksmio yra sklandi. Čia įeina kaip ypatingas atvejis prieveiksmiai, kurie yra sustingusios senos linksnių formos, nors deklinacijoje vartojamos kitos formos arba atitinkami daiktavardžiai nebėra vartojami kaip daiktavardžiai.
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. Linksnių formų prieveiksminis vartojimas
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
-
-::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   in welcher Weise?
-*   wie lange?
-*   wohin?
-*   u. ä.
-
-Adverbial gebraucht werden kann der Akkusativ:
-
-*   von Substantiven
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäss, nach Wunsch"
-⟪अर्थम्⟫ "wegen"
-:::
-
-*   von Adjektiven im Neutrum
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"
-:::
-
-*   von Pronomina im Neutrum
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt"
-:::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.1. Galininkas (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen:
+Galininkas (⟪द्वितीया⟫) gali būti vartojamas prieveiksmiškai atsakydamas į klausimus:
 
-*   wodurch?
-*   womit?
-*   u. ä.
+*   kokiais būdais?
+*   kaip ilgai?
+*   kur?
+*   ir kt.
 
-Adverbial gebraucht werden kann der Instrumentalis:
+Galininkas gali būti vartojamas prieveiksmiškai:
 
-*   von Substantiven
-    Beispiele:  
+*   nuo daiktavardžių  
+Pavyzdžiai:  
+⟪कामम्⟫ "pagal norą, pagal pageidavimą"  
+⟪अर्थम्⟫ "dėl"
+
+*   nuo daiktavardžių viduriniojo giminės  
+Pavyzdžiai:  
+⟪सुखम्⟫ "lengva, laiminga"  
+⟪नित्यम्⟫ "visada"  
+⟪साधु⟫ "teisinga, gerai"
+
+*   nuo įvardžių viduriniojo giminės  
+Pavyzdžiai:  
+⟪तद्⟫ "tada, todėl"  
+⟪यद्⟫ "kai, kad"  
+⟪एतद्⟫ "taip, čia, dabar"
 :::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
-:::
+### 37.2.2. Įnagininkas (⟪तृतीया⟫)
 
-*   von Adjektiven, oft auch in der Pluralform
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
+::: grammar-box
+Įnagininkas (⟪तृतीया⟫) gali būti vartojamas prieveiksmiškai atsakydamas į klausimus:
+
+*   kuo?
+*   su kuo?
+*   ir kt.
+
+Įnagininkas gali būti vartojamas prieveiksmiškai:
+
+*   nuo daiktavardžių  
+Pavyzdžiai:  
+⟪अर्थेन⟫ "dėl"  
+⟪क्षणेन⟫ "akimirksniu, iš karto" (nuo ⟪क्षण⟩ vyriškosios lyties "akimirksnis")
+
+*   nuo būdvardžių, dažnai ir daugiskaitos forma  
+Pavyzdžiai:  
+⟪दूरेण⟫ "tol, iš tolo" (prie ⟪दूर⟩ 3 "tolu, toli")  
+⟪उच्चैस्⟫ "aukštai, garsiai" (prie ⟪उच्च⟩ 3 "aukštas, padidintas, garsus, aštrus (apie balsą)")
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Retkarai vartojamas davinys (⟪चतुर्थी⟫) adverbialiai atsako į klausimus:
 
-*   zu welchem Zweck?
-*   u. ä.
+*   kokiu tikslu?
+*   ir kt.
 
-Beispiel:
+Pavyzdys:
 :::
 ::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen"
+⟪अर्थाय⟫ "dėl, siekiant ..."
 :::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.4. Abliatyvas (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen:
+Abliatyvas (⟪पञ्चमी⟫) gali būti vartojamas adverbialiai atsako į klausimus:
 
-*   warum?
-*   aufgrund wessen?
-*   woher?
-*   u. ä.
+*   kodėl?
+*   kuo remiantis?
+*   iš kur?
+*   ir kt.
 
-Adverbial gebraucht werden kann der Ablativ:
+Abliatyvas gali būti vartojamas adverbialiai:
 
-*   von Substantiven
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"
+*   nuo daiktavardžių  
+pvz. ⟪बलात्⟫ "prievarta, su jėga"  
 
-*   von Adjektiven
-    z.B. ⟪दूरात्⟫ "von fern"
+*   nuo daiktavardžių  
+pvz. ⟪दूरात्⟫ "iš toli"  
 
-*   von Pronomina
-    Beispiele:  
+*   nuo įvardžių  
+Pavyzdžiai:  
+⟪कस्मात्⟫ "kodėl"  
+⟪अकस्मात्⟫ "netikėtai"
+:::
+### 37.2.5. Genityvas (⟪षष्ठी⟫)
+
+::: grammar-box
+Retkarai vartojamas genityvas (⟪षष्ठी⟫) adverbialiai atsako į klausimą "po kiek laiko?"
+
+pvz. ⟪चिरस्य⟫ "po ilgo laiko" (prie ⟪चिर⟫ 3 "ilgas (laikas)")
+:::
+### 37.2.6. Lokatyvas (⟪सप्तमी⟫)
+
+::: grammar-box
+Lokatyvas (⟪सप्तमी⟫) gali būti vartojamas adverbialiai atsako į klausimus:
+
+*   kur?
+*   kokiais aplinkybėmis?
+*   ir kt.
+
+Pavyzdžiai:
 :::
 ::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet"
+\-⟪अर्थे⟫ "dėl"  
+\-⟪कृते⟫ "dėl"  
+⟪दूरे⟫ "toliai"
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+## 37.3. Adverbialinis nebedarinių linksnių vartojimas
 
-::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?"
-
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
-:::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
-
-::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   wo?
-*   unter welchen Umständen?
-*   u. ä.
-
-Beispiele:
-:::
+Pavyzdžiai:
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern"
+⟪जातु⟫ "visiškai" (iš pradžių "nuo gimimo, nuo prigimties", ak. sg. n. prie ⟪जातु⟫ \<nebedarinių kaip daiktavardis\>)
+
+⟪तूष्णीम्⟫ "tyliai" (ak. sg. prie nebedarinio ⟪तूष्णी⟫ f. "tyla")
+
+⟪एवम्⟫ "taip" (prie kitaip dingusio įvardinio šaknies ⟪एव⟫ "vienas, vienintelis")
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
-
-Beispiele:
-::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>)
-
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
-
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig")
-:::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Adverbijų su adverbialiniais priesagomis darymas
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen
+Iš vietvardžių kamienų ⟪तद्⟫, ⟪इदम्⟫ arba ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ arba ⟪कु⟫ galima daryti atitinkamus vietadvorbinius priesagas
 
-*   \-⟪तस्⟫ (Ablativ)
-*   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Art und Weise)
-*   \-⟪थम्⟫ (Art und Weise)
-*   \-⟪दा⟫ (Zeit)
+*   \-⟪तस्⟫ (abliatyvas)
+*   \-⟪त्र⟫ (lokatyvas)
+*   \-⟪था⟫ (būdo ir būdo)
+*   \-⟪थम्⟫ (būdo ir būdo)
+*   \-⟪दा⟫ (laikas)
 
-entsprechende Pronominaladverbien ableiten.
+atitinkamus vietadvorbinius priesagas.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Priesaga | Vietvardžio kamienas | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablatyvas) | ⟪ततस्⟫ :briš ten, dėl to, todėl | ⟪इतस्⟫ :br ⟪अतस्⟫ :briš čia, dėl to | ⟪यतस्⟫ :briš kur, iš ko | ⟪कुतस्⟫ :briš kur?, kodėl? |
+| **-⟪त्र⟫** :br(Lokatyvas) | ⟪तत्र⟫ :brten, tenai | ⟪अत्र⟫ :brčia | ⟪यत्र⟫ :brkur | ⟪कुत्र⟫ :brkur? |
+| **-⟪था⟫** :br(Būdo ir būdas) | ⟪तथा⟫ :brtaip | | ⟪यथा⟫ :brkaip | |
+| **-⟪थम्⟫** :br(Būdo ir būdas) | | | | ⟪कथम्⟫ :brkaip? |
+| **-⟪दा⟫** :br(Laikas) | ⟪तदा⟫ :brtuomet, tada | | ⟪यदा⟫ :brkai | ⟪कदा⟫ :brkada? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?"
+Kitas klausiamasis advorbius yra: ⟪क्व⟫ "kur?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701))
+Pav.: ⟪क्व⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe**
+**Kiti adverbialiniai priesagos**
 
-| Suffix | |
+| Priesaga | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | gali būti pridedama prie bet kokių daiktavardžių, kad išreikštumėte "pagal tipą, lyg":brpvz. ⟪पुत्रवत्⟫ "kaip sūnus" |
+| **-⟪तस्⟫** | prie daiktavardžių ir vietvardžių. Dažniausiai ablatyvinė reikšmė "iš kur?", bet ir "kur?", "kryptimi?":brpvz. ⟪आदितस्⟫ "nuo pat pradžios" |
+| **-⟪धा⟫** | 1. Skaičiaus advorbiniuose žodžiuose reikšmė "-kartų", "-daug":brpvz. ⟪द्विधा⟫ "dvigubai":br2. reikšmė "tam tikru būdu":brpvz. ⟪समधा⟫ "tuo pačiu būdu" (prie ⟪सम⟫ 3 "lygus") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Adverbialiniai jungtiniams žodžiai
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. Jungtiniams žodžiai su prieveiksniu arba adverbialiniu linksniu kaip galine dalimi
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)"
+Pavyzdys: ⟪सुचिरम्⟫ "labai ilgą (laiką)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbialiniu būdu vartojami ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied.
+Pavyzdys: ⟪रक्षार्थम्⟫ "tokio, kurio tikslas yra saugoti, saugojimo tikslu". Taip pat galima laikyti priklausantį 5.1.: -⟪अर्थम्⟫ kaip adverbialinė galinė dalis.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. ⟪अव्ययीभाव⟫-jungtiniams žodžiai
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
+⟪अव्ययीभाव⟫ = "nekeičiamas / nedeklinuojamas tapęs"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
+⟪अव्ययीभाव⟫ yra adverbialinis jungtinis žodis, kurio priekinė dalis yra indeklinabilas (postpozicija, dalelytė ir pan.), o galinė dalis yra daiktavardis, įgyjantis akuzatyvo vienaskaitos viduriniojo galo priesagą.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+Išskleidžiant jungtinį žodį, priekinė dalis valdytų galinę dalį:
 
-Beispiele:
+Pavyzdžiai:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "prie ugnies"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "pagal jėgas"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "pirmyn, priešinga kryptimi"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied:
+Ypač svarbūs yra ⟪अव्ययीभाव⟫ su ⟪यथा⟫ "kaip" kaip priekine dalimi:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig"
+pvz. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "kaip norima, pagal pageidavimą, laisvai"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702))
+Pav.: ⟪यथाशक्ति⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches
+## 37.6. Sintaksė
 
 ::: grammar-box
-Bei den Verben
+Veiksmažodžių atveju
 
-*   ⟪अस्⟫ 2P "sein"
+*   ⟪अस्⟫ 2P "būti"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
+vietoj predikatinio būtojo daiktavardžio gali stovėti predikatinis prieveiksmis:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte"
+pvz. ⟪तूष्णीं बभूव⟫ "jis tapo tylus, jis nutilo"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703))
+Pav.: ⟪तूष्णीं बभूवुः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina
+## 37.7. Netermininiai įvardžiai
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
+Netermininiai įvardžiai (unbestimmte Fürwörter) sudaromi pridedant
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+prie klausiamojo įvardžio ⟪किम्⟫ linksnių formų.
 
-z.B.
+pvz.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "koks nors, kas nors"  
+⟪कस्यचिद्⟫ = kieno nors
 :::
-## 37.8. Der Fragesatz
+## 37.8. Klausiamasis sakinys
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm."
+"Kas?, kaip? kas?, kodėl? kam? kodėl?  
+Kas neklauso, tas neišmanys."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist
+Sesamstrasse moto, kuris yra geras gyvenimo ir sanskrito studijų orientyras
 :::
-Siehe auch [Lektion 4](lektion04.md).
+Taip pat žr. [4 pamoka](lektion04.md).
 
-Man muss unterscheiden
+Reikia skirti
 
-*   Wortfragen (Ergänzungsfragen)
-*   Satzfragen
+*   Žodžio klausimai (papildymo klausimai)
+*   Sakinio klausimai
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
+Žodžio klausimuose klausiama apie veikėją (⟪कर्तृ⟫), objektą, veiksmą, aplinkybę ir pan., pvz.
 
-*   wer kommt?
-*   was tut Rāma?
-*   wen hört er?
-*   wie spricht sie Sanskrit?
-*   wo ist die Mutter?
+*   kas ateina?
+*   ką daro Rāma?
+*   ką jis girdi?
+*   kaip ji kalba sanskritu?
+*   kur yra motina?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
+Sakinio klausimuose klausiama apie visą sakinio turinį, pvz.
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es richtig, dass ... ?
+*   ar Rāma šiandien eina į Ofterdingeną?
+*   ar teisinga, kad ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Žodžio klausimai (papildymo klausimai)
 
 ::: grammar-box
 Schema:
 
-Fragepronomen/Frageadverb - Satz
+Klausiamasis įvardis / prieveiksmis - sakinys
 :::
-Beispiele:
+Pavyzdžiai:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Kas eina į kaimą?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?"
+⟪किं बाला अधीयीरन्⟫ = "Ką turėtų mokytis vaikai?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma?
+⟪क्व रामो वसति⟫ = Kur gyvena Rāma?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704))
+Pav.: ⟪किं बाला अधीयीरन्⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. Klausiniai sakiniai
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist.
+Kartais tik iš konteksto galima suprasti, ar sakinys yra klausiamasis.
 :::
 ::: grammar-box
 Schema I:
 
-Verb - restlicher Satz
+Veiksmažodis – likusi sakinio dalis
 :::
-Beispiel:
+Pavyzdys:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "Ar brahmanų berniukas eis pas mokytoją?"
 :::
 ::: grammar-box
 Schema II:
 
-Fragepartikel (meist am Satzanfang) - Satz
+Klausiamasis dalelytė (dažniausiai sakinio pradžioje) – sakinys
 
-Die wichtigsten Fragepartikel sind:
+Svarbiausios klausiamosios dalelytės yra:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten)
+*   ⟪किम्⟫ (dažnai leidžia tikėtis neigiamo atsakymo)
 
 *   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen.
+
+Šios dalelytės atitinka klausimo ženklą.
 :::
-Beispiel:
+Pavyzdys:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ "Ar tai taip pat tiesa?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ "Ar jis gali?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Ar kšatrijas nugalėjo priešus?"
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫):
+Pastaba: ⟪किम्⟫ gali reikšti ne tik "ką?", bet ir kaip klausiamoji dalelytė – "kodėl?, kam?". Pvz., su instrumentalu (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?"
+⟪किं क्रोधेन ।⟫ "Kam pyktis? Ką naudos iš pykčio? Kam tas pyktis?"
 :::
-## 37.9. Wortliste
+## 37.9. Žodynas
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
+⟪मूर्ख⟫ 3: bukas, kvailas, idiotiškas m. Kvailys
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+⟪मुनि⟫ m.: išmintis, (tylos) asketas
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: asketa iš ⟪शाक्य⟫ (kšatrijų iš ⟪कपिलवस्तु⟫) giminės = Budga Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+Pav.: ⟪शाक्यमुनिः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: diena
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: medis
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+Pav.: ⟪वृक्षः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.: burna, veidas, priekinė dalis, pradžia
 
-## 37.10. Übung
+## 37.10. Pratimai
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+A) Atsakykite į šiuos klausimus sanskritu, naudodami skliaustuose nurodytus žodžius. Išverkite klausimo sakinius.
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Pavyzdys: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟩ \<Absolutiv\>)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707))
+Pav.: ⟪कृष्णः बलरामश्च⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708))
+Pav.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Verktiškite:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+C) Verktiškite šiuos ⟪अव्ययीभाव⟫ :
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus"
+1\. ⟪अति⟫ Postpozicija su akuzatyvu: „virš ...“
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in"
+2\. ⟪अधि⟫ „į“
 
 ::: indent
 1.  ⟪अधिहरि⟫
@@ -466,10 +445,10 @@ C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709))
+Pav.: ⟪अधिकेरलं वर्तन्ते⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach"
+3\. ⟪अनु⟫ „pagal, išilgai, pagal“
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -477,18 +456,18 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne"
+4\. ⟪अप⟫ „be“
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ „link“
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich"
+6\. ⟪आ⟫ „nuo, iki, įskaitant“
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -496,27 +475,26 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710))
+Pav.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe"
+7\. ⟪उप⟫ „šalia“
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711))
+Pav.: ⟪उपवृक्षं सीदन्ति⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Kartojimo pratimas
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden:
+Versti į sanskritą naudodami tik perfektas veiksmažodžių formas:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
+Kai kartą senis ėjo į kitą kaimą, jis pavargo kelionėje. Tada jis nuėjo pailsėti pas mangų medį, augantį šalia kelio. Šiame medyje buvo brandžių vaisių. Senis norėjo jų. Bet jis negalėdamas įlipti ant medžio ir paimti vaisių. Laimei, tame medyje buvo beždžionių, kurios valgė vaisius. Kai jis jas pamatė, senis džiaugsmingai nusijuokė. Ką jis padarė? Jis paėmė keletą akmenų, taikė į beždžiones ir metė. Piktos beždžionės nuskynė vaisius ir metė juos į senį. Senis džiaugsmingai paėmė vaisius ir nuėjo į norimą vietą. Žiūrėkite, senio likimas!

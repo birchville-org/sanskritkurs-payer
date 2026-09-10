@@ -1,234 +1,237 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Bài 8"
+subtitle: "Hình thành danh từ & Lớp hiện tại thứ 8"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
-# Lektion 8
+# Bài 8
 
 
-## 8.1. Zur Bildung von Nomina
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
+## 8.1. Về việc hình thành danh từ
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+Trong ngữ pháp Ấn Độ truyền thống, người ta phân biệt các hậu tố được dùng để hình thành gốc danh từ:
+
+**Hậu tố kṛt (⟪कृत्⟫) (Hậu tố sơ cấp):** hình thành từ gốc động từ (**dhātu** giống đực = ⟪धातु⟫) và gốc động từ các gốc danh từ, trạng ngữ tuyệt đối (absolutiva) và động từ nguyên mẫu.
+**Hậu tố taddhita (⟪तद्धित⟫) (Hậu tố thứ cấp):** gắn vào gốc danh từ và các từ bất biến, hình thành nên các gốc danh từ mới hoặc các từ bất biến.
 
 ::: grammar-box
-**Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
+**Sơ đồ:**
+**Gốc + hậu tố kṛt » Gốc danh từ v.v. + hậu tố taddhita » Gốc danh từ mới v.v.**
 
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen**
+**Gốc danh từ + đuôi cách » Danh từ có khả năng cú pháp**
 :::
 
-## 8.2. Einteilung der Nominalsuffixe
+## 8.2. Phân loại các hậu tố danh từ
 
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta
+**kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+**kārakakṛt** (⟪कारककृत्⟫) » danh từ chỉ tác nhân (chỉ người thực hiện hành động do gốc từ biểu thị)
+**kṛtikṛt** (⟪कृतिकृत्⟫) » danh từ chỉ hành động (chỉ hành động được biểu thị bởi gốc từ) hoặc các khái niệm trừu tượng
 
-- **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+**taddhita**
+**viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » tính từ
+**bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » khái niệm trừu tượng
+**tadvattaddhita** (⟪तद्वत्तद्धित⟫) » chỉ sự sở hữu (ví dụ: **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+**tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » so sánh (so sánh hơn, so sánh nhất), sự so sánh
+**pūraṇataddhita** (⟪पूरणतद्धित⟫) » số thứ tự (thứ nhất v.v.)
+**vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » thay thế cho đuôi cách (ví dụ: **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+**abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (các hình thức cvi ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Einteilung nach dem Ablaut:**
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung
+**Phân loại theo Ablaut:**
+**guṇya** (⟪गुण्य⟫): hình thành ở bậc cao
+**na guṇya** (⟪न गुण्य⟫): hình thành ở bậc thấp
+**vṛddhyarha** (⟪वृद्ध्यर्ह⟫): hình thành ở bậc dài
 
-## 8.3. Einige wichtige Nominalsuffixe
+
+## 8.3. Một số hậu tố danh từ quan trọng
 
 ### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
+**Hậu tố kṛt -a tạo thành các danh từ giống đực (hiếm hơn là giống trung) chỉ một hành động hoặc trạng thái được biểu thị bởi gốc từ; đôi khi cũng là tính từ hoặc danh từ chỉ tác nhân (kartṛ) của hành động do gốc động từ biểu thị. Đối với âm tiết thứ hai tính từ cuối ngắn (= nguyên âm đứng trước phụ âm, nơi gốc từ kết thúc) hoặc nguyên âm gốc kết thúc, thường được thay thế bằng bậc cao (guṇa) hoặc bậc dài (vṛddhi).**
 :::
-**Beispiele:**
+**Ví dụ:**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+| Gốc từ:br⟪धातु⟫ | + -a (kṛt) | Ý nghĩa |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **ji** 1 P:br⟪आप्⟫:br"thắng lợi" | **jaya** m.:br⟪जय⟫ | "sự thắng lợi, chiến thắng" |
+| **muh** 4 P:br⟪मुह्⟫:br"bối rối" | **moha** m.:br⟪मोह⟫ | "sự bối rối, mê muội, sai lầm" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"nổi giận" | **krodha** m.:br⟪क्रोध⟫ | "nộ khí" |
+| **kup** 4 P:br⟪कुप्⟫:br"nổi giận" | **kopa** m.:br⟪कोप⟫ | "nộ khí" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"ham muốn" | **lobha** m.:br⟪लोभ⟫ | "tham lam" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"nhận được" | **lābha** m.:br⟪लाभ⟫ | "sự nhận được, lợi ích" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"giải phóng,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "sự giải phóng, sự phát sinh, sự sáng tạo" (xem sandhi từ j » g ở sau) |
+| **śru** 5 P:br⟪श्रु⟫:br"nghe" | **śrava** m.:br⟪श्रव⟫ | "sự nghe" |
+| **bhū** 1 P:br⟪भू⟫:br"trở thành, tồn tại" | **bhāva** m.:br⟪भाव⟫ | "sự trở thành, sự tồn tại (của cái gì đó), bản chất, tính cách" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"chiến đấu" | **yodha** m.:br⟪योध⟫ | "chiến binh, chiến sĩ, lính" |
+
 
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
+**Hậu tố kṛt -ana thường tạo thành các danh từ trung tính, chỉ một hành động, trạng thái hoặc phương tiện/công cụ thông qua đó hành động được biểu thị bởi gốc từ hoặc stem động từ diễn ra. Đối với âm tiết thứ hai tính từ cuối ngắn hoặc nguyên âm kết thúc của gốc từ, thường được thay thế bằng mức độ cao (guṇa).**
 :::
-**Beispiele:**
+**Ví dụ:**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Gốc từ:br⟪धातु⟫ | + -ana (kṛt) | Ý nghĩa |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"đi" | **gamana** n.:br⟪गमन⟫ | "sự đi" |
+| **nī** 1 U:br⟪नी⟫:br"dẫn" | **nayana** n.:br⟪नयन⟫ | "(công cụ dẫn dắt, tức là) mắt" |
+| **śru** 5 P:br⟪श्रु⟫:br"nghe" | **śravaṇa** n.:br⟪श्रवण⟫ | "(công cụ nghe =) tai" |
+| **kṛ** 8 U:br⟪कृ⟫:br"làm" | **kāraṇa** n.:br⟪कारण⟫ | "(điều mà qua đó điều gì đó được làm, tức là) nguyên nhân, lý do" |
+| **bhū** 1 P:br⟪भू⟫:br"trở thành" | **bhavana** n.:br⟪भवन⟫ | "sự trở thành, sinh ra" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"nhìn thấy" | **darśana** n.:br⟪दर्शन⟫ | "sự nhìn thấy, quan điểm, hệ thống triết học, hiện tượng, đặc biệt: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801))
+Ảnh: Maa Batakali Darshan, Puri, Orissa
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0801))
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
+**"Darshan"** hoặc **"Darshana"** là một thuật ngữ trong Ấn Độ giáo để chỉ cái nhìn và tầm nhìn về Thánh thiện và Thần thánh. Dưới *Darshana* được hiểu là cuộc gặp chính thức giữa học sinh và thầy, trong đó học sinh đã được mời bởi thầy. Nó cũng có thể mang ý nghĩa *sự đắm chìm* khi ngắm nhìn tượng thần. Ý nghĩa cuối cùng này là phổ biến nhất trong cách sử dụng ngôn ngữ Hindi ngày nay. Trong mối liên hệ với Mata Amritanandamayi, Darshan có nghĩa là vòng ôm của Guru.
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia)
+Những tín đồ Hindu sùng đạo đến đền thờ để đạt được cái nhìn thấy thần linh thông qua một biểu tượng hoặc bức tượng, nơi sự hiện diện tinh thần của vị thần được cho là tồn tại. Theo nghĩa này, đó cũng là một lời chúc phúc từ vị thần. Tuy nhiên, Darshan cũng có thể được nhận thông qua thị kiến về vị thần trong lúc cầu nguyện hoặc thiền định. Một người sống, được coi là hóa thân của vị thần, chẳng hạn như một Avatara, cũng có thể ban tặng Darshan.
+(Nguồn: Wikipedia)
 :::
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
+**Hậu tố kṛt -tra hình thành (chủ yếu) các danh từ trung tính, chỉ phương tiện hoặc công cụ thông qua đó hành động được biểu thị bởi gốc từ diễn ra. Nguyên âm ngắn của âm tiết thứ hai tính từ cuối và nguyên âm tận cùng của gốc từ được thay thế bằng mức độ guṇa.**
 :::
 
-**Beispiele:**
+**Ví dụ:**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Gốc từ:br⟪धातु⟫ | + -tra (kṛt) | Ý nghĩa |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br"dẫn dắt" | **netra** n.:br⟪नेत्र⟫ | "(Phương tiện dẫn dắt =) Mắt" |
+| **śru** 5 P:br⟪श्रु⟫:br"nghe" | **śrotra** :br⟪श्रोत्र⟫ | "(Công cụ nghe =) Tai" |
+| **man** 4 Ā:br⟪मन्⟫:br"suy nghĩ" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Công cụ suy nghĩ:) Lời chú, công thức 'ma thuật' (Mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"giăng ra" | **tantra** n.:br⟪तन्त्र⟫ | "Dọc vải" |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
+**Mantra nguyên thủy Oṃ (⟪ॐ⟫) trong các văn bản Ấn Độ khác nhau**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| In Kannaresischer Schrift | In Tamil-Schrift |
+| Bằng chữ Kannada | Bằng chữ Tamil |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Bildquellen: [Details](/licenses#lekt0803))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0803))
 :::
+
 
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
+**Hậu tố kṛt -ti tạo thành danh từ giống cái, thường biểu thị hành động hoặc trạng thái do gốc từ chỉ định. Dạng của gốc từ ở bậc thấp.**
 :::
-**Beispiele:**
+**Ví dụ:**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Gốc từ:br⟪धातु⟫ | + -ti (kṛt) | Ý nghĩa |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"nghe" | **śruti** f.:br⟪श्रुति⟫ | "sự nghe, Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"nhắc lại" | **smṛti** f.:br⟪स्मृति⟫ | "Sự nhắc lại, ký ức, truyền thừa, chánh niệm" |
+| **nī** 1 U:br⟪नी⟫:br"dẫn dắt" | **nīti** f.:br⟪नीति⟫ | "sự dẫn dắt, sự lãnh đạo, cách cư xử" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"phát sinh" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Sự phát sinh, sáng tạo" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"nhìn thấy" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Cái nhìn, gương mặt, quan điểm" |
+| **gam** 1 P:br⟪गम्⟫:br"đi" | **gati** f.:br⟪गति⟫ | "Bước đi, quỹ đạo, mục đích của việc đi" (từ *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"suy nghĩ" | **mati** f.:br⟪मति⟫ | "Sự suy nghĩ, ý tưởng, quan điểm" (từ *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*Lưu ý: Dấu \* trước một dạng cho biết rằng dạng đó không xuất hiện trong tiếng Phạn, mà được suy luận lý thuyết như là điều kiện tiên quyết cho một hình thái cụ thể. Bậc thấp của **gam** là gṃ = \*gm, chữ m được thay thế bằng **a** dưới dạng nasalis sonans » **ga**. Tương tự áp dụng cho **man** » **ma**.
+
+
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
+**Các hậu tố taddhita -tva n. và -tā f. tạo thành danh từ trừu tượng từ các danh từ. Dạng của gốc danh từ cơ bản được giữ nguyên.**
 :::
-**Beispiele:**
+**Ví dụ:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| Gốc danh từ:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Ý nghĩa |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **guru** :br⟪गुरु⟫:br3 "nặng, đáng kính,:brm. Thầy" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Sự nặng nề, sự đáng kính,:brTính chất làm thầy (bản chất hoặc bản tính của một người thầy)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Bà-la-môn" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Tính chất là Bà-la-môn,:brĐiều làm cho một người trở thành Bà-la-môn,:brBản chất / Bản tính của một Bà-la-môn" |
+| **deva** :br⟪देव⟫:brm. "Thần, Thiên thần" | — | **devatā** f.:br⟪देवता⟫ | "Thần linh" |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
+Những cấu trúc này có thể được tạo ra một cách thực tế cho bất kỳ danh từ nào và rất phổ biến trong các tác phẩm Sanskrit học thuật.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
 
-::: grammar-box
-**Stammbildung:**
-- **Starker Stamm: Wurzel + -o-**
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
-
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**
-⟪तनोति⟫
-- 3\. pl. P. **tanvanti**
-⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**
-⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**
-⟪तन्वते⟫
-:::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
-
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmässig:
+## 8.4. Lớp hiện tại thứ 8 (tanādi = ⟪तनादि⟫ = "tan v.v.")
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**
-⟪करोति⟫
-- 3\. pl. P. **kurvanti**
-⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**
-⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**
-⟪कुर्वते⟫
+**Hình thành gốc:**
+**Gốc mạnh: Gốc rễ + -o-**
+**Gốc yếu: Gốc rễ + -u- (trước nguyên âm: -v-)**
+
+Ví dụ **tan** 8 U (⟪तन्⟫) "kéo dài":
+3\. sg. P. **tanoti** :br⟪तनोति⟫
+3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
+3\. sg. Ā. **tanute** :br⟪तनुते⟫
+3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
+:::
+Lưu ý: Về cuộc tranh luận liệu **tan** thực sự là một gốc rễ của lớp thứ 5 (*tn » ta + no-), xem Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+
+Gốc rễ quan trọng nhất của lớp thứ 8 là **kṛ** 8 U (⟪कृ⟫) "làm, tạo ra". Việc chia động từ của nó là bất quy tắc:
+
+::: grammar-box
+**kṛ 8 U (⟪कृ⟫) "làm, thực hiện"**
+3\. sg. P. **karoti** :br⟪करोति⟫
+3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
+3\. sg. Ā. **kurute** :br⟪कुरुते⟫
+3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 8.5. Từ vựng
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+**Học các từ sau:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : chiến thắng, chinh phục
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : nắm lấy, nhận được, chiếm hữu
+**tu** ⟪तु⟫ : nhưng (đứng sau từ đầu tiên của mệnh đề hoặc thành phần câu đối lập)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : nhìn, thấy (được dùng làm gốc hiện tại thay cho gốc động từ **dṛś** 0 "nhìn, thấy")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : làm, thực hiện
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : kéo dài
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : bảo vệ, canh giữ
+**sārathi** m. ⟪सारथि⟫ : người đánh xe
+**kapi** m. ⟪कपि⟫ : khỉ
+**kumārī** f. ⟪कुमारी⟫ : cô gái, trinh nữ
+**nāga** m. ⟪नाग⟫ : người trần trụi, voi, rắn (voi và rắn không có lông, giống như "con khỉ trần trụi" là con người)
+**gaja** m. ⟪गज⟫ : voi
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : đau buồn, khóc lóc
+**śuka** m. ⟪शुक⟫ : vẹt
+**pat** 1 P (patati) ⟪पत् पतति⟫ : rơi, bay
+**patrikā** f. ⟪पत्रिका⟫ : bức thư
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : khắc, viết (ban đầu dùng mũi nhọn khắc trên lá cọ, sau đó mang nghĩa chung)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Hình: **likh** (⟪लिख्⟫) : Bút sắt Ấn Độ dùng để khắc lên lá cọ
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+Hình: **likh** (⟪लिख्⟫) : Que viết của người Batak (Sumatra), có lẽ cũng được sử dụng phổ biến ở Ấn Độ
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+**sukha** n. ⟪सुख⟫ : hạnh phúc, sự an vui
+**duḥkha** n. ⟪दुःख⟫ : bất hạnh, khổ đau
 
-## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+
+## 8.6. Bài tập
+
+**A) Giải thích các danh từ sau bằng cách chỉ ra gốc động từ (wurzel) mà chúng được phái sinh, và hậu tố danh pháp. Cho biết giống và ý nghĩa:**
 1. lobha
 2. rakṣa
 3. śrotra
@@ -258,41 +261,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 27. nayana
 28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
+**B) Tạo các danh từ trừu tượng cho tất cả các danh từ đã học và suy nghĩ về ý nghĩa của chúng (nói miệng).**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
+**C) Đặt làm tân ngữ trực tiếp ở số ít và số nhiều:**
+kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:**
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
-3. Er besiegt Kṣatriyas.
-4. Sie spannt die Webkette auf.
-5. Soldaten kämpfen.
-6. Der Brahmane macht ein Feuer.
-7. Brahmanen machen Feuer.
-8. Was tun diese Kämpfer?
-9. Wen sieht das Auge?
-10. Was begehren Götter?
-11. Was ist der Grund?
+**D) Dịch:**
+1. Các Kṣatriya bảo vệ cả người Brahman và người Vaiśya cũng như Śūdra. (2 cách)
+2. Một người đàn ông thánh thiện nhìn thấy cả thiên đường và địa ngục.
+3. Ông ấy đánh bại các Kṣatriya.
+4. Bà căng khung dệt.
+5. Các chiến binh chiến đấu.
+6. Người Brahman tạo ra một ngọn lửa.
+7. Các người Brahman tạo ra lửa.
+8. Những chiến binh này đang làm gì?
+9. Con mắt nhìn thấy ai?
+10. Các vị thần khao khát điều gì?
+11. Nguyên nhân là gì?
 
-## 8.7. Lese- und Übersetzungsübung
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-8. ⟪देवतां⟫ ⟪यजति⟫ |
-9. ⟪बाला⟫ ⟪भवति⟫ |
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-12. ⟪बाला⟫ ⟪लिखति⟫ |
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-17. ⟪शुकः⟫ ⟪पतति⟫ |
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+
+## 8.7. Bài tập đọc và dịch
+
+1. ⟪शूद्रो बालं नयति⟫ |
+2. ⟪कविर्देवं यजते⟫ |
+3. ⟪साधुः फलानि खादति⟫ |
+4. ⟪गुरुः क्रोधं जयति⟫ |
+5. ⟪देवो नरकं सृजति⟫ |
+6. ⟪धेनुर्ग्रामं विशति⟫ |
+7. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+8. ⟪देवतां यजति⟫ |
+9. ⟪बाला भवति⟫ |
+10. ⟪सारथी रथं नयति⟫ |
+11. ⟪कपयः फलानि खादन्ति⟫ |
+12. ⟪बाला लिखति⟫ |
+13. ⟪कुमारी गृहं विशति⟫ |
+14. ⟪देवो नागं सृजति⟫ |
+15. ⟪बालो गजं नयति⟫ |
+16. ⟪विमला शोचति⟫ | (⟪विमला⟫ Tên riêng Vimalā)
+17. ⟪शुकः पतति⟫ |
+18. ⟪बालः पत्रिकां लिखति⟫ |

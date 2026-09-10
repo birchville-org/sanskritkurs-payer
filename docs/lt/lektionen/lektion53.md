@@ -1,90 +1,91 @@
 ---
-title: Lektion 53
+title: "[Pamoka 53]"
 lesson_id: 53
+
 ---
 
 # Pamoka 53
 
-## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
+## 53.1. Dvejetas (⟪द्विवचन⟫ n.) daiktavardžių
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:**
+**Dvejetas (⟪द्विवचनम्⟫) naudojamas nurodyti „du“:**
 
 :::
 ::: indent
-⟪अश्विनौ⟫ "die beiden Aśvin"
+⟪अश्विनौ⟫ „du Aśvinai“
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
+**Dvejeto vartojimas yra privalomas, kai kalbama apie du dalykus ir t. t.:**
 
 ::: indent
-⟪हस्तौ⟫ "die Hände (eines Individuums)"
-⟪पादौ⟫ "die Füsse (eines Menschen, Affen oder sonstigen Zweifüssers)"
+⟪हस्तौ⟫ „rankos (vieno individo)“
+⟪पादौ⟫ „kojos (žmogaus, beždionės ar kito dviejų kojų gyvūno)“
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
+**Kartais dvejetas nurodo vieną patiną ir vieną patelę to pačio tipo (rūšies, genties):**
 
 ::: indent
-⟪पितरौ⟫ "Vater und Mutter = Eltern"
+⟪पितरौ⟫ „tėvas ir motina = tėvai“
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
+**Žodžiai, reiškiantys „porą“ – pvz., ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – visada vartojami vienaskaita, nebent kalbama apie dvi ar daugiau porų:**
 
 ::: indent
-⟪बाहुद्वयम्⟫ "ein Paar Arme"
+⟪बाहुद्वयम्⟫ „porą rankų“
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301))
+Pav.: ⟪मार्जारयुगम्⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302))
+Pav.: ⟪हस्तौ⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5302))
 :::
-## 53.2. Dualendungen des Nomen
+## 53.2. Daiktavardžių dvejetinės galūnės
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī 
+|   | Vyriškoji moteriškoji :br ⟪पुंस्⟫/⟪स्त्री⟫ | Vardinė :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
+**Daiktavardžiai su šaknies laipsnių kaita turi stipriąją šaknį vardinėje, galininkinėje ir raginamajame dvejetuose vyriškojo ir moteriškojo giminės**
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme
+## 53.3. Dvejetas priebalsiais besibaigiančių šaknų
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Šaknys be šaknies laipsnių kaitos
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
+⟪सत्यवाच्⟫ 3 „kalbantis tiesą“
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ 
+|   | Masculinum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark"
+⟪बलिन⟫ 3 "(especially) strong"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ 
+|   | Masculinum/Femininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt"
+⟪सुमनस्⟫ 3 "well-disposed"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ 
+|   | Masculinum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe"
+⟪हविस्⟫ n. "offering"
 
 ::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
@@ -93,116 +94,116 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig"
+⟪दीर्घायुस्⟫ 3 "long-lived"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
+|   | Masculinum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Stems with Stem Gradation
 
-**Partizip Präsens Parasmaipada**
+**Present Participle Parasmaipada**
 
-⟪भरन्त्⟫ 3 "tragend"
+⟪भरन्त्⟫ 3 "nešantis"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!) 
+|   | Vyr. g. :br ⟪पुंस्⟫ | Bevardis :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!)
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305))
+Pav.: ⟪भरन्तौ⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5305))
 :::
-⟪ददत्⟫ 3 "gebend"
+⟪ददत्⟫ 3 "duodantis"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ 
+|   | Vyr. g. :br ⟪पुंस्⟫ | Bevardis :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant**
+**Šaknys su -mant/-vant**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend"
+⟪पशुमन्त्⟫ 3 "galvijus turintis"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ 
+|   | Vyr. g. :br ⟪पुंस्⟫ | Bevardis :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "gross"
+⟪महान्त्⟫ 3 "didelis"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ 
+|   | Vyr. g. :br ⟪पुंस्⟫ | Bevardis :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m.
+⟪आत्मन्⟫ v. g.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | Vyr. g. :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n.
+⟪ब्रह्मन्⟫ b. g.
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Bevardis :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ m. "karalius"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | Masculinis :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze"
+⟪सीमन्⟫ f. "ribos"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | Femininis :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name"
+⟪नामन्⟫ n. "vardas"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Neutras :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. Dvaskaita balsiniais galūnėmis
 
-**Stämme auf -a**
+**Šaknys su -a**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht"
+⟪देव⟫ m. "dievas"  
+⟪फल⟫ n. "vaisius"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | Masculinis :br ⟪पुंस्⟫ | Neutras :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] |
@@ -210,30 +211,23 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306))
+Pav.: ⟪फले⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5306))
 :::
-**Stämme auf -i**
+**Šaknys su -i**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke"
-
-::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
-| :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
+⟪अग्नि⟫ m. "ugnis"  
+⟪वारि⟫ n. "vanduo"  
+⟪मति⟫ f. "mintis"
 :::
-**Stämme auf -u**
+**Kamienai su -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
 ⟪मधु⟫ n.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | Masculinum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
@@ -241,12 +235,12 @@ Abb.: ⟪फले⟫
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: :sig[⟪धेनू⟫]
-(Bildquelle: [Details](/licenses#lekt5307))
+Pav.: ⟪धेनू⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5307))
 :::
-**Stämme auf -ā**
+**Kamienai su -ā**
 
-⟪कन्या⟫ f. "Mädchen"
+⟪कन्या⟫ f. „mergaitė“
 
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
@@ -271,9 +265,9 @@ Abb.: :sig[⟪धेनू⟫]
 ⟪दातृ⟫ 3 "Geber"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫] 
+|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -286,180 +280,187 @@ Abb.: :sig[⟪धेनू⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
+⟪पितृ⟫ m. "Vater"
+
+::: grammar-box
+|   | Maskulininum :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
+:::
 ## 53.5. Dualdvandva
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪अर्थधर्मौ⟫ "Nutzen (⟪अर्थ⟫) und Dharma"
-⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira und Arjuna"
-⟪सुखदुःखे⟫ (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-⟪शीतोष्णे⟫ "Kälte und Wärme"
+⟪अर्थधर्मौ⟫ "Nauda (⟪अर्थ⟫) ir dharma"
+⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira ir Arjuna"
+⟪सुखदुःखे⟫ (šalia: ⟪सुखदुःखम्⟫) "Laimė ir kančia"
+⟪शीतोष्णे⟫ "Šaltis ir karštis"
 :::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:**
+**Kai du giminystės žodžiai su -ṛ (arba du daiktavardžiai su -ṛ, kurie yra aukų kunigaikščių pavadinimai) sudaro dvandvą, pirmasis narys yra nominativo vienaskaitos formoje:**
 
 :::
 ::: indent
-⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Motina ir tėvas"
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
+**Tas pats nutinka su tokiu giminystės žodžiu dvandve prieš -⟪पुत्र⟫ :**
 
 ::: indent
-⟪पितापुत्रौ⟫ "Vater und Sohn"
+⟪पितापुत्रौ⟫ "Tėvas ir sūnus"
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
+**Kai dviejų dievybių, kurios dažnai minimos aukose, pavadinimai sudaro dvandvą, pirmojo nario galūnės balsis paprastai pailginamas:**
 
 ::: indent
-⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra und Varuṇa"
-⟪अग्नीसोमौ⟫ "Agni und Soma"
+⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra ir Varuṇa"
+⟪अग्नीसोमौ⟫ "Agni ir Soma"
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
+**Šis balsio pailginimas pasitaiko ir kituose dvandvuose.**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308))
+Pav.: ⟪पितापुत्रौ⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5308))
 :::
-## 53.6. Der Dual von Pronomina
+## 53.6. Įvardžių dviskaita
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
-| :--- | :---: | :---: | :---: | :---: | :---: 
-| **Maskulinum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **Vyriškoji giminė** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |  
-| **Neutrum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
-| **Femininum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
+| **Vidurinėji giminė** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Likutis kaip vyriškoji giminė ||||||||
+| **Moteriškoji giminė** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Likutis kaip vyriškoji giminė ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
+⟪कतर⟫ 3 „kas iš“ ir ⟪कतम⟫ 3 „kas iš“ linksniuojami visais linksniais kaip ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive
+## 53.7. Įvardiniai daiktavardžiai
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert:
+Šie įvardiniai daiktavardžiai linksniuojami visais linksniais kaip ⟪यद्⟫:
 
-*   ⟪अन्य⟫ 3 "ein anderer"
-*   ⟪अन्यतर⟫ 3 "einer von zweien"
-*   ⟪इतर⟫ 3 "der andere"
+*   ⟪अन्य⟫ 3 „kitas“
+*   ⟪अन्यतर⟫ 3 „vienas iš dviejų“
+*   ⟪इतर⟫ 3 „kitas“
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus ausser dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert.
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫).
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert.
+*   ⟪सर्व⟫ 3 „kiekvienas, visi“ linksniuojami visais linksniais išskyrus vardininko ir galininko vienaskaitos vidurinio giminės formą (⟪सर्वम्⟫) kaip ⟪यद्⟫.
+*   ⟪उभय⟫ 3 „abu“ neturi dvikaitos. Vienaskaitoje ir daugiskaitoje vyriškosios ir vidurinės giminės formos linksniuojamos kaip ⟪सर्व⟫. Moteriškosios giminės forma: ⟪उभयी⟫ (kaip ⟪देवी⟫).
+*   ⟪उभ⟫ 3 „abu“ vartojamas tik dvikaitoje ir linksniuojamas kaip ⟪देव⟫ vyriškosios giminės, ⟪फल⟫ vidurinės giminės arba ⟪देवता⟫ moteriškosios giminės.
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden:
+Šie įvardiniai daiktavardžiai linksniuojami kaip ⟪सर्व⟫. Vienaskaitos abliatyvo ir lokativo vyriškosios bei vidurinės giminės formose, taip pat daugiskaitos vardininke jie gali būti linksniuojami pagal -a- arba -ā-deklinaciją:
 
-*   ⟪अपर⟫ 3 "ein anderer"
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende"
-*   ⟪पर⟫ 3 "der folgende, spätere"
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche"
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)"
+*   ⟪अपर⟫ 3 „kitas“
+*   ⟪उत्तर⟫ 3 „viršutinis, šiaurinis, vėlesnis“
+*   ⟪पर⟫ 3 „vėlesnis, paskesnis“
+*   ⟪पूर्व⟫ 3 „ankstesnis, rytinis“
+*   ⟪स्व⟫ 3 „savo (mano, tavo, jo ... )“
 
-## 53.8. Unregelmässige Steigerung
+## 53.8. Netaisyklingas laipsniavimas
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):**
+**Kai kurie daiktavardžiai sudaro palyginamąjį ir aukščiausiąjį laipsnį su šiais ⟪कृत्⟫ priesagomis (!):**
 
-*   Komparativ: **-īyas**
-*   Superlativ: **-iṣṭha**
+*   Palyginamasis laipsnis: **-īyas**
+*   Aukščiausiasis laipsnis: **-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.**
+**Nors ⟪तद्धित⟫ priesagos -⟪तर⟫ ir -⟪तम⟫ pridedamos prie daiktavardžio vyriškosios giminės kamieno, priesagos -⟪ईयस्⟫ ir -⟪इष्ठ⟫ pridedamos prie šaknies, iš kurios kilęs daiktavardis (jei tokia šaknis yra!). Šaknies balsas yra aukštojo laipsnio.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
-
-**Deklination von -īyas siehe unten.**
+**-īyas linksniavimą žr. žemiau.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ |
-| --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| Šaknis | Daiktavardis | Komparatyvas | Superlatyvas |
+| --- | --- | ---
+| ⟪क्षिप्⟫ 6P "mesti" | ⟪क्षिप्र⟫ 3 "greitas" | :sig[⟪क्षेपीयस्⟫] 3 "greitesnis" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "greičiausias" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "stovėti" | ⟪स्थिर⟫ 3 "pastovus, tvirtas" | :sig[⟪स्थेयस्⟫] 3 "tvirtesnis" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "tvirčiausias" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:**
+**Ypatingi taisyklės dėl šių priesagų pridėjimo:**
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
+**Taisyklė 1:** **Daugiasilabio vyriškosios giminės kamieno galūnė arba galūnė ir prieš tai esanti balsė dingsta.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "gross" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ |
+| Daiktavardis | Komparatyvas | Superlatyvas |
+| --- | ---
+| ⟪पाप⟫ 3 "blogas" | ⟪⟪पी⟫⟪यस्⟫:sig[⟪पा⟫] | ⟪⟪पि⟫⟪ष्ठ⟫:sig[⟪पा⟫] |
+| ⟪महान्त्⟫ 3 "didelis" | ⟪⟪ही⟫⟪यस्⟫:sig[⟪म⟫] | ⟪⟪हि⟫⟪ष्ठ⟫:sig[⟪म⟫] |
 :::
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
+**Taisyklė 2:** **Nuosavybės priesagos (-mant, vant, -vin, -in ir kt.) dingsta. Jei likusi dalis yra tik viena skiemenė, ji nebekeičiama, atliekami tik tie fonetiniai pokyčiai, kuriuos lėmė nuosavybės priesaga. Jei likusi dalis yra daugiau nei viena skiemenė, taikoma 1 taisyklė.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ |
+| Daiktavardis | Komparatyvas | Superlatyvas |
+| --- | ---
+| ⟪धनवन्त्⟫ 3 "turtingas" | ⟪⟪नी⟫⟪यस्⟫:sig[⟪ध⟫] | ⟪⟪नि⟫⟪ष्ठ⟫:sig[⟪ध⟫] |
+| ⟪बलिन्⟫ 3 "(ypač) stiprus" | ⟪⟪ली⟫⟪यस्⟫:sig[⟪ब⟫] | ⟪⟪लि⟫⟪ष्ठ⟫:sig[⟪ब⟫] |
+| ⟪वसुमन्त्⟩ "turintis turtų" | ⟪⟪सी⟫⟪यस्⟫:sig[⟪व⟫] | ⟪⟪सि⟫⟪ष्ठ⟫:sig[⟪व⟫] |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
+**Taisyklė 3:** **-ra-** pakeičia **-ṛ-**, jei jam priešais yra pradinė balsė ir po jo seka tik vienas priebalsis.
 :::
-Beispiel:
+Pavyzdys:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| Daiktavardis | Komparatyvas | Superlatyvas |
+| --- | ---
+| ⟪पृथु⟫ 3 "platūs" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
+**Dažniausiai pasitaikančių tokio tipo laipsniavimo formų sąrašas iki šiol išmoktiems daiktavardžiams:**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "gross" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
+| Daiktavardis | Komparatyvas | Superlatyvas |
+| --- | ---
+| ⟪अल्प⟫ 3 "mažas, nedaug" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "greitas" :br (nuo ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "sunkus" :br (nuo *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "ilgas" :br (nuo *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "tolimas" :br (nuo *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "turtingas" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 "blogas" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "platūs" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 "brangus" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(ypač) stiprus" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "didelis" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 "jaunas" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "tvirtas" :br (nuo ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 "trumpas" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309))
+Pav.: ⟪द्राघीयो लिङ्गम्⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5309))
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
+**Kai kurios tokio tipo laipsniavimo formos visai neturi šaknies susijusios bazinės formos, jos yra "defektinės". Todėl šias sekas reikia ypač gerai išmokti:**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ |
-| --- | --- 
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+(Daiktavardis) | Komparatyvas | Superlatyvas |
+| --- | ---
+| (⟪अल्प⟫ 3 "mažas, nedaug") | ⟪कनीयस्⟩ :br žr. ⟪कन्या⟩ f. "mergaitė = maža mergina" | ⟪कनिष्ठ⟩ |
+| (⟪प्रशस्य⟩ 3 "pagirytinas, geras") | ⟪श्रेयस्⟩ :br nuo ⟪श्री⟩ f. "švytėjimas" | ⟪श्रेष्ठ⟩ |
+| (⟪प्रशस्य⟩ 3 "pagirytinas, geras") | ⟪ज्यायस्⟩ :br taip pat: "vyresnis" :br nuo ⟪ज्या⟩ f. "viršenybė" | ⟪ज्येष्ठ⟩ :br taip pat: "vyriausias" |
+| (⟪बहु⟩ 3 "daug") | ⟪भूयस्⟩ | ⟪भूयिष्ठ⟩ |
+| (⟪वृद्ध⟩ 3 "senas") | ⟪वर्षीयस्⟩ :br nuo ⟪वर्ष⟩ n.m. "lietų sezonas, metai" | ⟪वर्षिष्ठ⟩ |
+| (⟪वृद्ध⟩ 3 "senas") | ⟪ज्यायस्⟩ :br taip pat: "geresnis" :br nuo ⟪ज्या⟩ f. "viršenybė" | ⟪ज्येष्ठ⟩ :br taip pat: "geriausias" |
 :::
-## 53.9. Deklination der Komparative auf -īyas
+## 53.9. Deklinavimas palyginamųjų laipsnių su -īyas
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
+**Palyginamieji laipsniai su -īyas sudaro moteriškąją lytį su -īyasī (deklinavimas kaip ⟪देवी⟫). Vyr. ir vid. lytis deklinuojama pagal šį paradigmą.**
 :::
 ::: grammar-box
 
@@ -474,126 +475,115 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
-:::
-## 53.10. Metrik (Lehre von den Versmassen)
 
-::: media
-![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303))
-:::
-Siehe auch:
-
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
-
-### 53.10.1. Bedeutung der Bestimmung des Metrums
-
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
-
-1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert.
-Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
-**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1. **Estetiškai:** eilėraščio metras sudaro teiginio grožį. Be to, tam tikri eilėraščio metai gali padėti išreikšti konkrečias nuotaikas arba būti priskirti tam tikroms socialinėms grupėms (⟪वर्ण⟫). Skirtingi eilėraščio metai skaitomi skirtingai. :br Gerą estetine įspūdį galima gauti, pavyzdžiui, skaitant ⟪शिवताण्डवस्तोत्र⟫ (Šivos šokio giesmė): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Teksto kritika:** klaidos eilėraščio metre gali rodyti, kad tekstas vienoje vietoje nėra teisingai perduotas. Eilėraščio metras padeda atlikti teksto taisymus.
+3. **Chronologiškai:** tam tikri eilėraščio metai istorijos metu patyrė tam tikrus pokyčius. Tai gali padėti apytiksliai datuoti tekstą. Žr. **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; tas pats: Zur Geschichte des Śloka. -- Abu straipsniai išspausdinti: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304))
+Pav.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt5304))
 :::
-### 53.10.2. Arten von Metren
+### 53.10.2. Metų rūšys
 
 ::: grammar-box
-**Die Inder unterscheiden:**
+**Indai skiria:**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später)
+*   **⟪वृत्त⟩ n.:** metai, kuriuose nustatytas skiemenų skaičius (⟪अक्षर⟩)
+*   **⟪जाति⟩ f.:** metai, kuriuose nustatytas metrinės ilgio vieneto (⟪मात्रा⟩) suma (apie juos vėliau)
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:**
-
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist
+::: media
+![](/images/lekt5304.jpg)
+Pav.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt5304))
 :::
-### 53.10.3. Die metrische Quantität von Silben
+### 53.10.2. Metų rūšys
 
 ::: grammar-box
-**Merkvers**
+**Indai skiria:**
+
+*   **⟪वृत्त⟩ n.:** metai, kuriuose nustatytas skiemenų skaičius (⟪अक्षर⟩)
+*   **⟪जाति⟩ f.:** metai, kuriuose nustatytas metrinės ilgio vieneto (⟪मात्रा⟩) suma (apie juos vėliau)
+
+**Tarp metrais, kurių skiemenų skaičius yra nustatytas (⟪वृत्त⟩), galima iš pradžių atlikti tolesnį skirstymą:**
+
+*   Metrai, kurių skiemenų skaičius yra nustatytas, tačiau šių skiemenų kiekis (trumpumas ar ilgas) yra nustatytas tik iš dalies
+*   Metrai, kurių skiemenų skaičius ir jų kiekis (trumpumas ar ilgas) yra nustatyti
+:::
+### 53.10.3. Skiemenų metrinis kiekis
+
+::: grammar-box
+**Mokymasis mintinai**
 
 :::
 ::: indent
-⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
-⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
-⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
+⟪सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगो ऽपि वा ॥⟫
 :::
-"Eine Silber ist schwer,
+„Vienas skiemenys yra sunkus,
 
-*   wenn ihr Vokal einen Anusvāra hat,
-*   lang ist,
-*   einen Visarga hat,
-*   ebenso wenn er vor einer Konsonantenverbindung steht
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht."
+*   jei jo balsis turi anusvārą,
+*   yra ilgas,
+*   turi visargą,
+*   taip pat jei jis stovi prieš dviejų priebalsių junginį
+*   taip pat jei skiemenys yra ketvirčio eilutės (pāda) pabaigoje.“
 ::: grammar-box
-**Eine Silbe ist**
+**Skiemenys yra**
 
-*   entweder **⟪लघु⟫ = leicht**
-*   oder **⟪गुरु⟫ = schwer**
+*   arba **⟪लघु⟩ = lengvas**
+*   arba **⟪गुरु⟩ = sunkus**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn**
+**⟪लघु⟩ = lengvas yra skiemenys, jei**
 
-*   ihr Vokal kurz ist und auf diesen Vokal
+*   jo balsis yra trumpas ir po šio balso
 *   kein Anusvāra,
-*   kein Visarga,
-*   nicht zwei Konsonanten folgen.
+*   nėra visargo,
+*   nepasitaiko du priebalsiai.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Trumpi balsiai yra a, i, u, ṛ, ḷ
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.**
+**Visi kiti skiemenys yra ⟪गुरु⟩ = sunkūs. Paskutinis eilutės ketvirčio (⟪पाद⟩) skiemenys visada laikomas ⟪गुरु⟩.**
 
-In der metrischen Analyse bedeutet:
+Metrinėje analizėje tai reiškia:
 
-*   **◡** = ⟪ल⟫ = ⟪लघु⟫
-*   **—** = ⟪ग⟫ = ⟪गुरु⟫
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫
-*   **/** = Zäsur (Worttrennung)
+*   **◡** = ⟪ल⟩ = ⟪लघु⟩
+*   **—** = ⟪ग⟩ = ⟪गुरु⟩
+*   **×** = ⟪लघु⟩ arba ⟪गुरु⟩
+*   **/** = cezūra (žodžių skyrimas)
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+Pavyzdys: ⟪भगवद्गीता १⟩,⟪१⟩:
 
 ::: indent
-⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
+⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟩
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
+⟪लघु⟩ ir ⟪गुरु⟩ pasiskirstymas:
 
 ::: metrik-schema
-— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
+— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
+### 53.10.4. Epinisches šlokas (⟪श्लोक⟫ m.)
 
 ::: grammar-box
-**Merkvers:**
+**Merkversas:**
 
 :::
 ::: indent
-⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
-⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
-⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
+⟪श्लोके षष्ठं गुरु ज्ञेयं सर्वत्र लघु पञ्चमम् । द्विचतुष्पादयोर्ह्रस्वं सप्तमं दीर्घमन्ययोः ॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
+"Šlokoje šeštoji padakos silaba yra sunki,
+penktoji visose padakose lengva.
+Septintoji silaba antrame ir ketvirtame padake trumpa, ilga kitose dviejose."
+Svarbiausias epų (⟪महाभारत⟫, ⟪रामायण⟩) bei daugybės kitų kūrinių metras yra šloka ("kvietimas", "triukšmas", "strofa" nuo ⟪श्रु⟫ "girdėti").
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuss, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
+**⟪श्लोक⟫ yra dviguba eilutė, sudaryta iš puseilių po 16 silabų. Kiekviena pusėeilutė skirstoma į du ketvirtadalio eilutes (⟪पाद⟫) po 8 silabas. Kiekvienas ketvirtadalis eilutės skirstomas į dvi dalis po 4 silabas. Visas eilutė (⟪पद्य⟫ n.) susideda iš keturių ⟪पाद⟫ (m. "koja, ketvirtadalis"). Keturi ⟪पाद⟫ skaičiuojami a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
 
-**Aufbau des Śloka:**
+**Šloko struktūra:**
 
-**Grundschema (⟪पथ्या⟫):**
+**Pagrindinė schema (⟪पथ्या⟫):**
 
 **a = c:**
 :::
@@ -604,9 +594,9 @@ Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪राम�
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
+Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु⟫. b ir d silaba 2-4 negali būti ¯ ˘ ¯.
 
-**Nebenschemata (⟪विपुला⟫) für a und c:**
+**Papildomos schemos (⟪विपुला⟫) a ir c:**
 
 **⟪विपुला⟫ 1:**
 ::: metrik-schema
@@ -624,16 +614,16 @@ Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪ल�
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
-## 53.11. Übung
+**Visose śloka formose pagrindinė pauzė yra antrojo ⟪पाद⟫ pabaigoje: ten yra žodžio galas arba – esant ilgiems sudurtiniams žodžiams – sandaros dalies pabaiga.**
+## 53.11. Pratimas
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.**
+**Nustatykite tarp visų iki šiol išmoktų eilėraščių ślokas. Sudarykite jiems metrinę schemą raštu. Pažymėkite galimus netaisyklingumus arba Vipulā formas.**
 :::
 ::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
+⟪श्रीगणेशाय नमः⟫
 :::
 

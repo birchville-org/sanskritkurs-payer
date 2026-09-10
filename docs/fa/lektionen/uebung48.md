@@ -39,7 +39,7 @@ Sprich die Wahrheit!
 :::
 ---
 
->> ## Übersetzungen ins Sanskrit (Imperativ)
+## Übersetzungen ins Sanskrit (Imperativ)
 
 ب) ترجمه به سانسکریت با استفاده از امری (ترجیحاً ریشه‌های کلاس دوم و سوم):
 

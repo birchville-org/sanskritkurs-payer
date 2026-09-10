@@ -34,7 +34,7 @@ Resim: ⟪लोकस्योत्तमो गिरिः सगरमा�
 ::: indent
 örn. ⟪सुचितर⟫ 3 "oldukça temiz", "çok temiz", "aşırı temiz"
 :::
->> **Karşılaştırılan bir nesne belirtilirse, bu Ablativ (⟪पञ्चमी⟫) halindedir. Karşılaştırma derecesi + Ablativ, Almancadaki "karşı" ile derece arttırma karşılığıdır.**
+**Karşılaştırılan bir nesne belirtilirse, bu Ablativ (⟪पञ्चमी⟫) halindedir. Karşılaştırma derecesi + Ablativ, Almancadaki "karşı" ile derece arttırma karşılığıdır.**
 
 ::: indent
 örn. ⟪देवदत्ताद्रामो धीमत्तरः⟫ = kelime anlamı: "Devadatta'dan bakıldığında Rāma daha anlayışlıdır" = "Rāma, Devadatta'dan daha anlayışlıdır"
@@ -44,7 +44,7 @@ Resim: ⟪लोकस्योत्तमो गिरिः सगरमा�
 ::: indent
 örn. ⟪सत्तम⟫ 3 (⟪सन्त्⟫'den türemiş) "son derece iyi, çok iyi"
 :::
->> **Karşılaştırılan bir nesne belirtilirse, bu Genetiv (⟪षष्ठी⟫) halindedir ("tarafından", "arasında") ve üstünlük derecesi Almancadaki üstünlük derecesine (en yüksek derece) karşılık gelir:**
+**Karşılaştırılan bir nesne belirtilirse, bu Genetiv (⟪षष्ठी⟫) halindedir ("tarafından", "arasında") ve üstünlük derecesi Almancadaki üstünlük derecesine (en yüksek derece) karşılık gelir:**
 
 ::: indent
 örn. ⟪द्विजानां सत्तमः⟫ = "iki kez doğanların en iyisi"

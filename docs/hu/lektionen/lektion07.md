@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "7. lecke"
+subtitle: "Az állítmányos mondat közvetlen tárggyal"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 7. lecke

@@ -1,10 +1,11 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "Μάθημα 6"
+subtitle: "Η δομή της ρηματικής πρότασης (Υποκείμενο και Ρηματικός τύπος)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα ϛʹ
@@ -203,7 +204,7 @@ status: stable
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
-(Bildquelle: Wikipedia, CC-BY-SA 2.5)
+(Πηγὴ εἰκόνος: Wikipedia, CC-BY-SA 2.5)
 :::
 
 ## 6.9. Ἐπαναληπτικὴ ἄσκησις

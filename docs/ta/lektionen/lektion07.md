@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "பாடம் 7"
+subtitle: "நேரடிப் பொருளுடன் வினைத்தொடர்"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 7

@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "[Vježba 61]"
 uebung_id: 61
-category: "Exercise"
+category: "Übung"
+
 ---
 
-# Vežba 61
+# Exercise 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+Lesson 61 marks the conclusion of the Sanskrit course and contains no further written exercises.
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+With the study of root nouns, the periphrastic future tense, and denominative verbs, the foundations for reading Sanskrit original texts have been laid. The course concludes with the traditional invocation to Gaṇeśa (⟪श्रीगणनाथ⟫), which marks the transition from textbook study to independent reading.

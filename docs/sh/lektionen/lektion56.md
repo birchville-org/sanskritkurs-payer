@@ -1,310 +1,288 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "Lekcija 56"
+subtitle: "Reduplicirani aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 56
+# Lesson 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. The reduplicated aorist
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**Augment + reduplizierte Wurzel + a + thematische Sekundärendung**
+**Augment + reduplicated root + a + thematic secondary ending**
 
-**Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel.**
+**The root syllable can be in the low or high grade. For roots ending in -i or -u, the low grade is the rule.**
 
-**Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
+**Final -i and -u are replaced by -iy and -uv, respectively.**
 
-**Auslautendes -ā (für -e) fällt ab.**
+**Final -ā (for -e) is dropped.**
 :::
-Paradigma:
+Paradigm:
 
-⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen"
+⟪श्रि⟫ 1U "to go to, to lean on"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟩:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Diese Form des Aorist bilden u.a.:
+This form of the aorist is formed by, among others:
 
-*   ⟪श्रि⟫ 1U "sich begeben zu"
-*   ⟪द्रु⟫ 1P "rennen"
-*   ⟪कम्⟫ 1Ā "lieben": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (siehe unten!)
-*   ⟪पत्⟫ 1P "fallen": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = Tiefstufe zu pat)
-*   ⟪वच्⟫ 2P "sagen": ⟪अवोचत्⟫ (a-va + uc-a-t)
-
-::: grammar-box
-**Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.**
-:::
-### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-
-Stammsilbe:
+*   ⟪श्रि⟫ 1U "to go to"
+*   ⟪द्रु⟫ 1P "to run"
+*   ⟪कम्⟫ 1Ā "to love": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (see below!)
+*   ⟪पत्⟫ 1P "to fall": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = low grade of pat)
+*   ⟪वच्⟫ 2P "to say": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
-**Ausgangspunkt ist die Form des Präsensstamms bzw. des Kausativstamms, die dieser nach Wegfall des Bildungselements -aya- hat (also Stamm auf -p bei Kausativen auf -paya-).**
-
-**Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:**
-
-*   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**
+**All roots of the 10th present class as well as all causatives always form the reduplicated aorist.**
 :::
-::: indent
-⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
-⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
-:sig[⟪नी⟫] 1U: Kaus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫
-⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
-:::
+### 56.1.1. Formation of the aorist of causatives and roots of the 10th present class
 
-*   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**
-::: indent
-⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
-:::
+Root syllable:
 
-*   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**
-::: indent
+::: grammar-box
+**The starting point is the form of the present stem or causative stem that remains after dropping the formation element -aya- (i.e., a stem ending in -p for causatives on -paya-).**
+
+**The vowel of this so-called root syllable is determined in the aorist according to the following rules:**
+
+*   **\-ā- before a simple consonant is replaced by -a-:**  
+⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त् द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त् नी⟫ 1U: Caus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त् ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
+
+*   **\-ī-, -e-, -ai- before a simple consonant is replaced by -i-:**  
+⟪चित्⟫ 1P: Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
+
+*   **\-u-, -o-, -au- before a simple consonant is replaced by -u-:**  
 ⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
+
+**For some roots, the changes mentioned so far are optional or must be omitted:**
+
+*   **ar, ār, īr, al substituting for ṛ, ṝ, ḷ and immediately preceding the final consonant of the stem syllable remains optionally unchanged or is replaced by ṛ or ḷ:**  
+⟪कॢप्⟫ 1Ā: Caus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
+Vowel of the reduplication syllable:
 
-**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:**
-
-*   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**
-::: indent
-⟪कॢप्⟫  1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫
-⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
-:::
-Vokal der Reduplikationssilbe:
-
-Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden:
+After applying the rules just mentioned to the stem syllable, the following rules for the vowel of the reduplication syllable must be followed:
 
 ::: grammar-box
-**Ausgangspunkt ist der reguläre Reduplikationsvokal, d.h.**
+**The starting point is the regular reduplication vowel, i.e.**
 
-*   a für a, ā, ṛ,  ṝ, ḷ
-*   i für i, ī, e, ai
-*   u für u, ū, o, au
+*   a for a, ā, ṛ,  ṝ, ḷ
+*   i for i, ī, e, ai
+*   u for u, ū, o, au
 
-**Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:**
+**This reduplication vowel is subject to the following changes:**
 
-*   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**
+*   **i, u is replaced by ī, ū when the stem syllable begins with only one consonant and is metrically short:**  
+⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत् तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫  
+
+*   **a is replaced by ī when the stem syllable is metrically short and begins with only one consonant. If the stem syllable is metrically short but begins with more than one consonant, the a of the reduplicating syllable is replaced by i. If the stem syllable is metrically long, a remains unchanged:**  
+⟪नी⟫ 1U: Caus. ⟪नाययति⟫, stem syllable of the Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत् कृ⟫ 8U: Caus. ⟪कारयति⟫, stem syllable of the Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत् त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, stem syllable of the Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत् भू⟫ 1P: Caus. ⟪भावयति⟫, stem syllable of the Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
+
+Special cases of certain roots in Kielhorn, Grammar § 435c ff.
+
+**Vowel-initial stem syllables are reduplicated according to the following rules:**
+
+*   **If only a single consonant or a consonant cluster follows the initial vowel, whose first member is neither nasal nor d nor r, then the reduplicated syllable reads:**
+
+Vowel - first following consonant (or its representative required in a reduplicating syllable) - **i** \- all consonants
+
 :::
 ::: indent
-⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
+⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicated syllable ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicated syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicated syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
+*   If a vowel-initial syllable is followed by a consonant cluster beginning with a nasal or d or r, then the second consonant of the cluster (or its substitute) is inserted with i according to the following schema:
 
-*   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**
-    :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-    :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
-::: indent
-⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
-:::
 
-Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
-
-**Vokalisch anlautende Stammsilben werden nach folgenden Regeln redupliziert:**
-
-*   **Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe:**
-
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
+Vowel - first consonant - second consonant (substitute) - i - second consonant
 
 ::: indent
-⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, reduplicated syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicated syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicated syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
-*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
-
-Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
-
-::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
-## 56.2. Der Injunktiv
+This form of reduplication for vowel-initial derived stems (causatives) is called "Attic reduplication".
+## 56.2. The Injunctive
 
 ::: grammar-box
-**Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.**
+**The injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical with the augmentless forms of the Indicative Imperfect or Aorist. Indigenous Indian grammar did not recognize the injunctive as a distinct grammatical category.**
 :::
-Gemäss der grundlegenden Arbeit:
+According to the foundational work:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Abb.:
-Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
-(Bildquelle: [Details](/licenses#lekt5601))
+Fig.:
+Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983)
+(Image source: [Details](/sh/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl (1915–1996): The Injunctive in the Veda: A Synchronic Functional Study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3rd series, Investigations)
 :::
-hat der Injunktiv im Veda folgende Eigenschaften:
+the injunctive in the Veda has the following properties:
 
-*   er ist nicht berichtend, sondern erwähnend
-*   er ist zeitstufenlos
-*   der Injunktiv Präsens (= augmentloses Imperfekt) bezeichnet den unvollendeten Aspekt
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
+*   it is not narrative, but mentionative
+*   it is tenseless
+*   the Injunctive Present (= augmentless Imperfect) denotes the imperfective aspect
+*   the Injunctive Aorist denotes the perfective aspect.
 
 ::: grammar-box
-**Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel ⟪मा⟫ (+ Injunktiv Aorist) bzw. ⟪मा⟫ ⟪स्म⟫ (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen.**
+**In post-Vedic Sanskrit, the injunctive occurs only in combination with the prohibitive particle ⟪मा⟫ (+ injunctive aorist) or ⟪मा स्म⟫ (+ injunctive present or aorist); the distinction in aspect usually no longer plays a role.**
 
-(mit Aspekt
+(with aspect
 
-*   würde ⟪मा⟫ + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!"
-*   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!"
+*   ⟪मा⟫ + injunctive aorist would denote a prohibitive sentence: "Do not begin to ...!", "Do not do ...!"
+*   ⟪मा स्म⟫ + injunctive present would denote an inhibitive sentence, i.e., a process already underway or an existing state is forbidden: "Stop ...!", "Desist from ...!"
 
-Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
+However, this distinction is usually not made in Classical Sanskrit.)
 :::
-## 56.3. Der Verbotssatz
+## 56.3. The Prohibitive Sentence
 
 ::: grammar-box
-**Hauptform:**
+**Main form:**
 
-**⟪मा⟫ + Injunktiv Aorist**
+**⟪मा⟫ + injunctive aorist**
 
-**⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens**
+**⟪मा स्म⟫ + injunctive aorist or injunctive present**
 :::
-Beispiele:
+Examples:
 
-::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा कर्महेतुर्भूः⟫ "Ne budi onaj koga motivira plod djelovanja!" (injunktiv aorista) (⟪भगवद्गीता⟫ 2,47c) (Kielhorn)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Werde nicht unmännlich!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
+⟪क्लैब्यं मा स्म गमः⟫ "Do not become effeminate!" (injunctive aorist) (⟪भगवद्गीता⟫ 2,3a)
 :::
 ::: media
 ![](/images/lekt5602.webp)
-Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Bildquelle: [Details](/licenses#lekt5602))
+Fig.: ⟪क्लैब्यं मा स्म गमः⟫
+Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
+(Image source: [Details](/sh/licenses#lekt5602))
 :::
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
+Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
+:::
+Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
 
 ::: grammar-box
-**Andere Formen von Verbotssätzen:**
+**Other forms of prohibitive sentences:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (selten)  **
-**z.B.  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
+*   **⟪मा⟫ + (⟪स्म⟫) + Imperative (rare)**
+**e.g. ⟪मा ते सङ्गो ऽस्त्वकर्मणि⟫**
 
-*   ⟪अलम्⟫ oder ⟪कृतम्⟫  = Instrumentalis im Inhibitivsatz
-    z.B. ⟪अलं⟫  ⟪विषादेन⟫ "Genug mit dem Verzagen! = Hör auf, verzagt zu sein! = Kopf hoch!"
+*   ⟪अलम्⟫ or ⟪कृतम्⟫ = Instrumental in the inhibitive sentence
+e.g. ⟪अलं विषादेन⟫ "Enough with despairing! = Stop being despondent! = Head up!"
 
-*   ⟪न⟫ + Gerundiv (Partizip der Notwendigkeit)
+*   ⟪न⟫ + Gerundive (Participle of Necessity)
 
-Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B.
+In addition, there are other, rarer forms of prohibitive sentences, see e.g.
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
-Abb.: ⟪अलं⟫  ⟪विषादेन⟫
-(Bildquelle: [Details](/licenses#lekt5603))
+Fig.: ⟪अलं विषादेन⟫
+(Image source: [Details](/sh/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
-**⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"**
+**⟪स्म⟫ emphasizes: "truly, indeed, certainly, precisely"**
 
-**Ausserdem ist folgende Konstruktion sehr wichtig:**
+**Furthermore, the following construction is very important:**
 
 :::
 ::: indent
-⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen:
+⟪स्म⟫ + Indicative Present serves for storytelling in the past, especially to denote a duration in the past:
 
-z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
+e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be missing).
 :::
-## 56.5. Übung
+## 56.5. Exercise
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
+A) Determine and translate the following forms without aids (!):
 
-1.  ⟪अस्मत्⟫
-2.  ⟪अस्मात्⟫
-3.  ⟪दध्यौ⟫
-4.  ⟪लिल्यिरे⟫
-5.  ⟪अगामि⟫
-6.  ⟪आगामी⟫
-7.  ⟪अक्लिद्यत्⟫
-8.  ⟪अक्लिदत्⟫
-9.  ⟪अचिक्लिदत्⟫
-10.  ⟪स्त्रीघ्नाय⟫
-11.  ⟪नेद⟫
-12.  ⟪प्लवमान⟫
-13.  ⟪अकारि⟫
-14.  ⟪अद्य⟫
-15.  ⟪अतन्द्रिते⟫
-16.  ⟪अन्तरे⟫
-17.  ⟪महीक्षितम्⟫
-18.  ⟪आर्दिधाम⟫
-19.  ⟪आसम्⟫
-20.  ⟪आसाम्⟫
-21.  ⟪आसि⟫
-22.  ⟪अनूनुदत्⟫
-23.  ⟪जिघ्रति⟫
-24.  ⟪जाग्रति⟫
-25.  ⟪आस्थत्⟫
-26.  ⟪आस्थात्⟫
-27.  ⟪अबीभषम्⟫
-28.  ⟪अशुषः⟫
-29.  ⟪कपी⟫
-30.  ⟪आततायी⟫
-31.  ⟪महती⟫
-32.  ⟪इतरेतरेषाम्⟫
-33.  ⟪धेक्षि⟫
-34.  ⟪अश्यन्⟫
-35.  ⟪कन्ये⟫
-36.  ⟪सौमि⟫
-37.  ⟪आर्पिपन्⟫
-38.  ⟪परिव्राट्⟫
-39.  ⟪जेरिम⟫
-40.  ⟪अततर्पत⟫
-41.  ⟪तत्रिरे⟫
-42.  ⟪मात्रीकुरु⟫
-43.  ⟪आनीः⟫
-44.  ⟪मानुषाभ्याम्⟫
-45.  ⟪अजिघ्रपम्⟫
-46.  ⟪रते⟫
-47.  ⟪जातु⟫
-48.  ⟪जाती⟫
-49.  ⟪जाता⟫
-50.  ⟪अपरस्मै⟫
-51.  ⟪अदीपि⟫
-52.  ⟪अजूजुषाम⟫
-53.  ⟪नवानाम्⟫
-54.  ⟪अश्रुणोः⟫
-55.  ⟪पृथक्पृथक्⟫
-56.  ⟪असिष्णिहम्⟫
-57.  ⟪मन्मय्यः⟫
-58.  ⟪औजिहः⟫
-59.  ⟪अशिनट्⟫
-60.  ⟪पाप्यभूवन्⟫
-61.  ⟪शोत्स्यामः⟫
-62.  ⟪अदीर्यथाः⟫
-63.  ⟪भस्मसात्संपेदे⟫
-64.  ⟪नवधा⟫
-65.  ⟪अविनक्⟫
-66.  ⟪आन⟫
-67.  ⟪शान्तयोः⟫
-68.  ⟪वारीणि⟫
-69.  ⟪वारिणी⟫
-70.  ⟪वारिणि⟫
-71.  ⟪अद्भिः⟫
-72.  ⟪अदिध्मपन्⟫
-73.  ⟪अववर्जन्⟫
-74.  ⟪शितवत्यौ⟫
-75.  ⟪अहो⟫
-76.  ⟪एकशः⟫
-77.  ⟪अपप्तः⟫
-78.  ⟪अकस्मात्⟫
-79.  ⟪मित्रध्रुक्⟫
-80.  ⟪अवोचन्⟫
-
+1. ⟪अस्मत्⟫
+2. ⟪अस्मात्⟫
+3. ⟪दध्यौ⟫
+4. ⟪लिल्यिरे⟫
+5. ⟪अगामि⟫
+6. ⟪आगामी⟫
+7. ⟪अक्लिद्यत्⟫
+8. ⟪अक्लिदत्⟫
+9. ⟪अचिक्लिदत्⟫
+10. ⟪स्त्रीघ्नाय⟫
+11. ⟪नेद⟫
+12. ⟪प्लवमान⟫
+13. ⟪अकारि⟫
+14. ⟪अद्य⟫
+15. ⟪अतन्द्रिते⟫
+16. ⟪अन्तरे⟫
+17. ⟪महीक्षितम्⟫
+18. ⟪आर्दिधाम⟫
+19. ⟪आसम्⟫
+20. ⟪आसाम्⟫
+21. ⟪आसि⟫
+22. ⟪अनूनुदत्⟫
+23. ⟪जिघ्रति⟫
+24. ⟪जाग्रति⟫
+25. ⟪आस्थत्⟫
+26. ⟪आस्थात्⟫
+27. ⟪अबीभषम्⟫
+28. ⟪अशुषः⟫
+29. ⟪कपी⟫
+30. ⟪आततायी⟫
+31. ⟪महती⟫
+32. ⟪इतरेतरेषाम्⟫
+33. ⟪धेक्षि⟫
+34. ⟪अश्यन्⟫
+35. ⟪कन्ये⟫
+36. ⟪सौमि⟫
+37. ⟪आर्पिपन्⟫
+38. ⟪परिव्राट्⟫
+39. ⟪जेरिम⟫
+40. ⟪अततर्पत⟫
+41. ⟪तत्रिरे⟫
+42. ⟪मात्रीकुरु⟫
+43. ⟪आनीः⟫
+44. ⟪मानुषाभ्याम्⟫
+45. ⟪अजिघ्रपम्⟫
+46. ⟪रते⟫
+47. ⟪जातु⟫
+48. ⟪जाती⟫
+49. ⟪जाता⟫
+50. ⟪अपरस्मै⟫
+51. ⟪अदीपि⟫
+52. ⟪अजूजुषाम⟫
+53. ⟪नवानाम्⟫
+54. ⟪अश्रुणोः⟫
+55. ⟪पृथक्पृथक्⟫
+56. ⟪असिष्णिहम्⟫
+57. ⟪मन्मय्यः⟫
+58. ⟪औजिहः⟫
+59. ⟪अशिनट्⟫
+60. ⟪पाप्यभूवन्⟫
+61. ⟪शोत्स्यामः⟫
+62. ⟪अदीर्यथाः⟫
+63. ⟪भस्मसात्संपेदे⟫
+64. ⟪नवधा⟫
+65. ⟪अविनक्⟫
+66. ⟪आन⟫
+67. ⟪शान्तयोः⟫
+68. ⟪वारीणि⟫
+69. ⟪वारिणी⟫
+70. ⟪वारिणि⟫
+71. ⟪अद्भिः⟫
+72. ⟪अदिध्मपन्⟫
+73. ⟪अववर्जन्⟫
+74. ⟪शितवत्यौ⟫
+75. ⟪अहो⟫
+76. ⟪एकशः⟫
+77. ⟪अपप्तः⟫
+78. ⟪अकस्मात्⟫
+79. ⟪मित्रध्रुक्⟫
+80. ⟪अवोचन्⟫

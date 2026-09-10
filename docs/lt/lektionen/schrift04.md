@@ -1,27 +1,27 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
-## Schriftübung 4
+## Rašto pratimas 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Punkt über dem Buchstaben. der dem Laut vorausgeht: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: Taštas virš raidės. kuris eina prieš garsą: ⟪कं कां किं कीं कुं कूं कें कैं कों कौं⟫
 
-Schreibung:
+Rašymas:
 
 ![](/images/schrift007.jpg)
 
-Beachten Sie die obligatorische Schreibung von hṛ: ⟪हृ⟫
+Atkreipkite dėmesį į privalomą hṛ rašymą: ⟪हृ⟫
 
-## Užduotis
+## Pratimas
 
-A) Schreiben Sie in Devanāgarī:
+A) Parašykite Devanagari:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 
-B) Lesen und translitterieren Sie:
+B) Skaitykite ir transliteruokite:
 
-⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
+⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो नयति⟫ | ⟪देवः सृजति⟫ ||
 
-Zu Lektion 6
+Apie 6-ąją pamoką
 
-Zu Schriftübung 5
+Apie rašto pratimą 5

@@ -1,150 +1,150 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "Bài 21"
+subtitle: "Các gốc hiện tại thêm -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 21
+# Bài 21
 
-## 21.1. Weitere Präsensstämme auf -nt
+## 21.1. Các gốc hiện tại khác có đuôi -nt
 
-### 21.1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. Phân từ hiện tại (⟪लडादेशः⟫) Parasmaipada
 
 ::: grammar-box
-Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden.
+Phân từ này là một hình danh từ được tạo thành từ gốc hiện tại, do đó nó là một phân từ thực sự. Nó là một tính từ cho biết rằng ai đó hoặc cái gì đó đang làm điều được diễn đạt bởi gốc động từ (+ tiền tố) ngay lúc một sự việc khác xảy ra. Cũng có thể diễn đạt một trạng thái liên tục bằng cách này.
 
-**Beispiele:**
+**Ví dụ:**
 
 :::
 ::: indent
-"Während Vater liest, raucht er = der lesende Vater raucht"  
-"ein seiender (= wirklicher, echter) Freund"
+"Trong khi cha đọc, ông ấy hút thuốc = người cha đang đọc hút thuốc"  
+"một người bạn hiện hữu (= thực sự, chân chính)"
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** |||
+| **Cách tạo Phân từ hiện tại Parasmaipada cho các gốc hiện tại chủ đề:** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-nt-** |
-| | **schwacher Stamm** | Präsensstamm + **-t-** |
-| **Femininum** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
+| **Giống đực, Giống trung** | | |
+| | **Gốc mạnh** | Gốc hiện tại + **-nt-** |
+| | **Gốc yếu** | Gốc hiện tại + **-t-** |
+| **Giống cái** | | |
+| | | Gốc hiện tại + **-nt-** + **-ī** (Lúc biến giống như **devī** :br⟪देवी⟫) |
+| | **Lớp hiện tại thứ 6** | Gốc hiện tại + **-nt-** + **-ī** :broder::brGốc hiện tại + **-t-** + **-ī** |
 
 :::
-Beispiele:
+Ví dụ:
 
-1\. Präsensklasse:
+1\. Lớp hiện tại thứ nhất:
 
 ::: indent
-**yajant**
-⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
+**yajant** :br⟪यजन्त्⟫ "người đang thờ cúng với một lễ vật"
 :::
 ::: grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+| | | Giống đực:br⟪पुंस्⟫ | Giống trung:br⟪नपुंसक⟫ | Giống cái:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
-| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
+| **Số ít** :br⟪एकवचन⟫ | **1. Cách danh xưng** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| | **2. Cách đối xưng** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | giống như **devī** :br⟪देवी⟫ |
+| | **3. Cách dụng xưng** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. Cách sở xưng** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| **Số nhiều** :br⟪बहुवचन⟫ | **1. Cách danh xưng** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| | **2. Cách đối xưng** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. Cách dụng xưng** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. Cách sở xưng** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
-Beachten Sie den Gleichlaut von ⟪यजन्ति⟫ (Nom. pl. Neutrum) mit der 3. pl. P.!
+Lưu ý sự trùng âm giữa ⟪यजन्ति⟫ (Danh cách số nhiều Trung tính) với ngôi thứ 3 số nhiều của Động từ!
 
-4\. Präsensklasse
+4\. Lớp Hiện tại
 
 ::: indent
-⟪नृत्यन्त्⟫ "tanzend"
+⟪नृत्यन्त्⟫ "đang nhảy"
 
-*   Maskulinum Nom. sg. ⟪नृत्यन्⟫
-*   Neutrum Nom. Akk. sg. ⟪नृत्यत्⟫
-*   Femininum Nom. sg. ⟪नृत्यन्ती⟫
+*   Giống đực Danh cách số ít ⟪नृत्यन्⟫
+*   Trung tính Danh cách/Tân cách số ít ⟪नृत्यत्⟫
+*   Giống cái Danh cách số ít ⟪नृत्यन्ती⟫
 :::
-6\. Präsensklasse
+6\. Lớp Hiện tại
 
 ::: indent
-⟪विशन्त्⟫ "eintretend"
+⟪विशन्त्⟫ "đang bước vào"
 
-*   Maskulinum Nom. sg. ⟪विशन्⟫
-*   Neutrum Nom. Akk. sg. ⟪विशत्⟫
-*   Femininum Nom. sg. ⟪विशन्ती⟫ ⟪।⟫ ⟪विशती⟫
+*   Giống đực Danh cách số ít ⟪विशन्⟫
+*   Trung tính Danh cách/Tân cách số ít ⟪विशत्⟫
+*   Giống cái Danh cách số ít ⟪विशन्ती । विशती⟫
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (ausser 3. Präsensklasse):** |||
+| **Hình thành Phân từ Hiện tại Parasmaipada cho các gốc hiện tại không có phụ âm (ngoại trừ Lớp 3):** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-ant-** |
-| | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) |
-| **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| **Giống đực, Trung tính** | | |
+| | **Gốc mạnh** | Gốc hiện tại + **-ant-** |
+| | **Gốc yếu** | Gốc hiện tại + **-at-** :br(Phần đuôi của gốc hiện tại yếu giống như trước ngôi thứ 3 số nhiều.) |
+| **Giống cái** | | |
+| | | Gốc hiện tại + **-at-** + **-ī** (Suy biến như **devī** :br⟪देवी⟫) |
 
 :::
-2\. Präsensklasse:
+2\. Lớp Hiện tại:
 
 ::: indent
-⟪अस्⟫ "sein": ⟪सन्त्⟫ "seiend, echter, guter, wahrer"
+⟪अस्⟫ "là": ⟪सन्त्⟫ "đang là, đích thực, tốt lành, chân thật"
 :::
 ::: grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+| | | Giống đực:br⟪पुंस्⟫ | Trung tính:br⟪नपुंसक⟫ | Giống cái:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
+| **Số ít** :br⟪एकवचन⟫ | **1. Danh cách** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
+| | **2. Tân cách** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | như **devī** :br⟪देवी⟫ |
 | | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
-| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
+| | **6. Sở cách** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
+| **Số nhiều** :br⟪बहुवचन⟫ | **1. Danh cách** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
+| | **2. Tân cách** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
 | | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
-| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
+| | **6. Sở cách** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
-¹ ⟪सती⟫ "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee
+¹ ⟪सती⟫ "một người vợ tốt (trung thành, người tự thiêu theo chồng sau khi ông qua đời)" tiếng Anh: sati
 :::
 ::: media
 ![](/images/lekt2101.webp)
-Abb.: ⟪सती⟫-Gedenkplatte
-⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt2101))
+Hình: Tấm bia tưởng niệm ⟪सती⟫
+Tấm bia tưởng niệm ⟪सती⟫ trong cung điện Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2101))
 :::
-5\. Präsensklasse:
+5\. Lớp hiện tại:
 
 ::: indent
-⟪सु⟫ "pressen": ⟪सुन्वन्त्⟫
+⟪सु⟫ "ép, vắt": ⟪सुन्वन्त्⟫
 
-*   Maskulinum Nom. sg. ⟪सुन्वन्⟫
-*   Neutrum Nom. Akk. sg. ⟪सुन्वत्⟫
-*   Femininum Nom. sg. ⟪सुन्वती⟫
+*   Giống đực Nom. sg. ⟪सुन्वन्⟫
+*   Giống trung Nom. Akk. sg. ⟪सुन्वत्⟫
+*   Giống cái Nom. sg. ⟪सुन्वती⟫
 :::
-8\. Präsensklasse
+8\. Lớp hiện tại
 
 ::: indent
-⟪कृ⟫ "tun": ⟪कुर्वन्त्⟫
+⟪कृ⟫ "làm": ⟪कुर्वन्त्⟫
 
-*   Maskulinum Nom. sg. ⟪कुर्वन्⟫
-*   Neutrum Nom. Akk. sg. ⟪कुर्वत्⟫
-*   Femininum Nom. sg. ⟪कुर्वती⟫
+*   Giống đực Nom. sg. ⟪कुर्वन्⟫
+*   Giống trung Nom. Akk. sg. ⟪कुर्वत्⟫
+*   Giống cái Nom. sg. ⟪कुर्वती⟫
 :::
-### 21.1.2. ⟪महान्त्⟫ "gross"
+### 21.1.2. ⟪महान्त्⟫ "lớn"
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | ⟪महान्त्⟫ |
-| | **schwacher Stamm** | ⟪महत्⟫ |
+| | **thân mạnh** | ⟪महान्त्⟫ |
+| | **thân yếu** | ⟪महत्⟫ |
 | **Femininum** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brnhư **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
@@ -152,7 +152,7 @@ Abb.: ⟪सती⟫-Gedenkplatte
 | | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | như **devī** :br⟪देवी⟫ |
 | | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
 | | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
 | **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
@@ -162,148 +162,132 @@ Abb.: ⟪सती⟫-Gedenkplatte
 
 :::
 ::: grammar-box
-**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:**
+**Khi làm thành phần đầu của một hợp danh từ, thay vì ⟪महत् महा⟫:**
 
-**Beispiele:**
+**Ví dụ:**
 
 :::
 ::: indent
-⟪महादेव⟫ "der grosse Gott" (z.B. ⟪शिव⟫)  
-⟪महादेवी⟫ "die grosse Göttin, die Hauptfrau eines Königs (⟪देव⟫)"
+⟪महादेव⟫ "vị thần vĩ đại" (ví dụ: ⟪शिव⟫)  
+⟪महादेवी⟫ "nữ thần vĩ đại, chính thất của một vị vua (⟪देव⟫)"
 :::
 ::: media
 ![](/images/lekt2102.webp)
-Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Bildquelle: [Details](/licenses#lekt2102))
+Abb.: ⟪महादेवो विष्णुः⟫
+"Con dấu Sardonyx thế kỷ 4-6 sau Công nguyên, khắc hình Vishnu cùng một tín đồ. Dòng chữ viết tay bằng tiếng Bactria ghi: 'Mihira, Vishnu và Shiva'."
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2102))
 :::
 
 ::: indent
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
+"Con dấu Sardonyx thế kỷ 4-6 sau Công nguyên, khắc hình Vishnu cùng một tín đồ. Dòng chữ viết tay bằng tiếng Bactria ghi: 'Mihira, Vishnu và Shiva'."
 :::
-## 21.2. Sandhi für auslautende Nasale
+## 21.2. Quy tắc Sandhi cho các âm mũi cuối từ
 
 ::: grammar-box
-**Nach kurzem Vokal werden auslautende Nasale – ausser -m – vor anlautendem Vokal verdoppelt.**
+**Sau nguyên âm ngắn, các âm mũi cuối từ – trừ -m – được lặp lại khi đứng trước một nguyên âm đầu từ.**
 
-**Beispiel:**
+**Ví dụ:**
 
 :::
 ::: indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » ⟪जयन्नरिः⟫ "der siegende Feind"
+**⟪जयन्⟫ + ⟪अरिः⟫** » ⟪जयन्नरिः⟫ "kẻ thù chiến thắng"
 :::
-## 21.3. Höfliche Formen der Anrede
+## 21.3. Các hình thức xưng hô lịch sự
 
 ::: grammar-box
-**Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:**
+**Trong tiếng Phạn, bạn có thể xưng hô với ai đó ở ngôi thứ hai số ít mà không bị coi là bất lịch sự. Tuy nhiên, nếu muốn thể hiện sự tôn trọng, bạn có thể sử dụng một danh từ mang nghĩa "Đấng đáng kính" hoặc tương tự, và chia động từ ở ngôi thứ ba số ít hoặc số nhiều, hoặc sử dụng cấu trúc bị động. Mức độ tăng dần của sự lịch sự trong việc xưng hô theo ngôi như sau:**
 
 :::
 ::: indent
-**2. sg. » 2. pl. » 3. sg. mit entsprechendem Nomen » 3. pl. mit entspr. Nomen**
+**2. sg. » 2. pl. » 3. sg. với danh từ tương ứng » 3. pl. với danh từ tương ứng**
 :::
-**Das wichtigste solche Höflichkeitsnomen ist ⟪भवन्त्⟫ , fem.: ⟪भवती⟫ . Es entspricht in seiner Verwendung unserem höflichen "Sie".**
-Dieses ⟪भवन्त्⟫ ist eine Zusammenziehung aus ⟪भगवन्त्⟫, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses ⟪भवन्त्⟫ ist zu unterscheiden vom Partizip Präsens P von ⟪भू⟫ "werden" ⟪भवन्त्⟫ : der Nom sg. mask. von ⟪भवन्त्⟫ "Sie" lautet ⟪भवान्⟫, der des Partizips ⟪भवन्⟫. 
+**Danh từ lịch sự quan trọng nhất là ⟪भवन्त्⟫ , giống cái: ⟪भवती⟫ . Nó tương đương với cách xưng hô "Quý vị" lịch sự của chúng ta.**
+⟪भवन्त्⟫ này là một sự hợp nhất từ ⟪भगवन्त्⟫, cách biến đổi của nó giống như các danh từ kết thúc bằng **-vant** (xem [Bài 13](lektion13.md)). ⟪भवन्त्⟫ này cần được phân biệt với Phân từ hiện tại ngôi thứ nhất của ⟪भू⟫ "trở thành" ⟪भवन्त्⟫ : cách biến đổi ngôi thứ ba số ít giống đực của ⟪भवन्त्⟫ "Quý vị" là ⟪भवान्⟫, còn của phân từ ⟪भवन्⟫ là khác.
 
-**Beispiele:**
+**Ví dụ:**
 
 ::: indent
-**⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = "Was tun Sie?"
+**⟪किं भवान्करोति⟫** = **⟪किं भवता क्रियते⟫** = "Bạn đang làm gì?"
 :::
-höflicher:
+lịch sự hơn:
 
 ::: indent
-**⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
+**⟪किं भवन्तः कुर्वन्ति⟫** = **⟪किं भवद्भिः क्रियते⟫**
 :::
-Femininum:
+Giống cái:
 
 ::: indent
-**⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
-**⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
+**⟪किं भवती करोति⟫** = **⟪किं भवत्या क्रियते⟫**  
+**⟪किं भवत्यः कुर्वन्ति⟫** = **⟪किं भवतीभिः क्रियते⟫**
 :::
-Weitere Wörter, die ähnlich wie ⟪भवन्त्⟫ verwendet werden können:
+Các từ khác có thể được sử dụng tương tự như ⟪भवन्त्⟫:
 
-*   ⟪आर्य⟫ (f.: ⟪आर्या⟫) "Edler". z.B. **⟪यदार्य⟫ ⟪इच्छति⟫** "Was Sie wünschen"
-*   ⟪महाभाग⟫ "der dessen Anteil / Glück gross ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig.
+*   ⟪आर्य⟫ (giống cái: ⟪आर्या⟫) "Quý tộc". Ví dụ: **⟪यदार्य इच्छति⟫** "Điều bạn mong muốn"
+*   ⟪महाभाग⟫ "người có phần / vận may lớn = Cao quý". Thường được phụ nữ sử dụng khi xưng hô hoặc nói về những người đàn ông thuộc tầng lớp tốt. Rất phổ biến trong tiếng Sanskrit hiện đại được nói.
 
-Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücken, verwendet man bei jemandem, der anwesend oder in der Nähe ist, anstelle von ⟪भवन्त्⟫ ⟪अत्रभवन्त्⟫ , für jemanden Abwesenden oder Entfernten ⟪तत्रभवन्त्⟫. ⟪अत्रभवन्त्⟫ und ⟪तत्रभवन्त्⟫ kann man mit "Sie", "Ehrwürden", "Hochwürden" usw. übersetzen:
+Nếu muốn không chỉ thể hiện sự lịch thiệp mà còn cả lòng tôn kính đối với ai đó, người ta sử dụng ⟪भवन्त् अत्रभवन्त्⟫ đối với những người có mặt hoặc ở gần, và ⟪तत्रभवन्त्⟫ đối với những người vắng mặt hoặc ở xa. ⟪अत्रभवन्त्⟫ và ⟪तत्रभवन्त्⟫ có thể được dịch là "Bạn", "Ngài", "Thánh thượng" v.v.:
 
 ::: indent
-**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
-**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?"
+**⟪किमत्रभवत्यत्रभवतां भार्या⟫** = "Bà (đang có mặt ở đây) có phải là vợ của ông không?"  
+**⟪किं तत्रभवतां कुशलवृत्तम्⟫** (trong một bức thư hoặc cuộc gọi điện thoại) = "Bạn có khỏe không?"
 :::
-## 21.4. Wortliste
+## 21.4. Từ vựng
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
+**⟪भज्⟫ 1 U ⟪भजति⟫ Bị động ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** phân phát, ban cho ai đó (cách accusative) điều gì đó, yêu mến, tôn kính, sùng bái ai đó
 
-davon:
+từ đó:
 
 ::: indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ giống cái:** Sự tận tụy, lòng trung thành, tình yêu (trong lĩnh vực tôn giáo: tình yêu và sự kính trọng đối với một vị thần cá nhân. Xem Basham, Wonder tr. 332f.)  
+**⟪भाग⟫ giống đực:** Phần, phần chia  
+**⟪भग⟫ giống đực:** (Phần tốt), vận may, sự thịnh vượng, phẩm giá  
+**⟪भगवन्त्⟫ 3:** Có vận may, có phẩm giá (biệt danh của ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 :::
 ::: media
 ![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103))
+Abb.: ⟪भगवान्कृष्णः भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (phải) với em gái cùng cha khác mẹ ⟪सुभद्रा⟫ (giữa) và anh trai lớn hơn ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2103))
 :::
 
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.:** "Bài ca (⟪गीता⟫) của bậc Thánh đức (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105))
+Abb.: ⟪भगवद्गीता भगवद्गीता⟫ - Bản thảo, thế kỷ 19.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2105))
 :::
 
 ::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (thực chất là một Dêxítativum của ⟪भज्⟫: mong muốn, muốn tham dự): ăn xin
 :::
-davon:
+từ đó:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch
+**⟪भिक्षु⟫ m.:** Khất sĩ, nhà tu
 :::
 ::: media
 ![](/images/lekt2104.webp)
 Abb.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
-(Bildquelle: [Details](/licenses#lekt2104))
+Luang Prabang = ຫລວງພະບາງ, Lào = ປະເທດລາວ
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** làm hỏng (nội động từ), trở nên xấu đi, bị nhục nhã
 
 ::: indent
-**⟪दोष⟫ m.:** Fehler
+**⟪दोष⟫ m.:** Lỗi lầm
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (không có PPP, thay vào đó là ⟪पक्व⟫ 3: đã nấu chín, đã hầm) Tuyệt đối ⟪पक्त्वा⟫ :** nấu chín (ngoại động từ) = luộc, rang, nướng v.v.
 
-## 21.5. Übung
+## 21.5. Bài tập
 
-A) Übersetzen Sie folgende Komposita:
+A) Dịch các từ ghép sau:
 
-⟪१⟫. ⟪अनादिकालिकसंसारः⟫
+⟪१⟫. ⟪अनादिकालिकसंसारः २⟫. ⟪अनादिमध्यान्तः ३⟫. ⟪महामैत्रीकरुणाचित्तः ४⟫. ⟪सर्वहतान्धकारः⟫
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫
+B) Dịch:
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫
+⟪मृतं दहन्नग्निः सतीमपि दहति ॥१॥ सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥२॥ महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥ पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥ गुरूपनीतनरो द्विजः ॥५॥⟫
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫
-
-B) Übersetzen Sie:
-
-⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥१॥⟫
-
-⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥२॥⟫
-
-⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥३॥⟫
-
-⟪पूजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥४॥⟫
-
-⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥५॥⟫
-
-⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
+⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥⟫
 

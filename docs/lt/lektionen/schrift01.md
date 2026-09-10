@@ -1,45 +1,45 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
-## Schriftübung 1
+## Raštas pratimas 1
 
-Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
+Sanskritas buvo ir yra rašomas įvairiais raštais. Ši apžvalga pateikia nedidelę ištrauką iš šių raštų:
 
 ![](/images/schrift001.webp)  
-Abb.: Schriftproben Sanskrit  
-\[Bildquelle: Wikipedia, GNU FD LIzenz\]
+Pav.: Sanskrito raštų pavyzdžiai
+\[Nuotraukos šaltinis: „Wikipedia“, GNU laisvosios dokumentacijos licencija\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Svarbiausias šiuolaikinis šiaurės indiškas sanskrito raštas yra devanagari:
 
 ![](/images/schrift002.webp)
 
-Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = ⟪विराम⟫ -- kennzeichnen:
+Kiekvienas priebalsio ženklas nurodo po priebalsio einantį „a“. Jei norima užrašyti grynąjį priebalsį (be vėliau einančio balsio), tai turi būti pažymėta apatiniu brūkšneliu -- virāma = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Auf einen Konsonanten folgende Vokale -- ausser "a" -- werden so geschrieben:
+Po priebalsio einantys balsiai -- išskyrus „a“ -- rašomi taip:
 
 ⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Die Reihenfolge beim Schreiben dieser Verbindungen von Konsonant + Vokal ist:
+Rašant šiuos priebalsio ir balsio junginius, laikomasi tokios tvarkos:
 
 ![](/images/schrift003.jpg)
 
-Beim Schreiben wird jeder Buchstabe inklusive Querstrich an Oberlinie vollendet bevor der nächste Buchstabe geschrieben wird.
+Rašant kiekvienas raidės brūkšnys, įskaitant viršutinę liniją, yra užbaigiamas prieš pradedant rašyti kitą raidę.
 
-## Užduotis
+## Pratimas
 
 Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Lesen und transliterieren Sie:
+Perskaitykite ir transkribuokite:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-Zusätzliche Leseübung:
+Papildoma skaitymo pratimas:
 
-⟪पिता⟫ Vater, ⟪कपि⟫ Affe, ⟪कृत⟫ getan,  ⟪टीका⟫ Subkommentar, ⟪तत्⟫ dieses, ⟪तट⟫ Ufer, ⟪पत्⟫ dahinschiessen, ⟪पट⟫ Gewebe, ⟪काच⟫ Glas,  ⟪काकुत्⟫ Gaumen, ⟪चित्⟫ wahrnehmen, ⟪पृच्⟫ mischen,  ⟪पोटक⟫ Knecht, ⟪चेतु⟫ Absicht, ⟪तौतातित⟫ Anhänger des Kumārila (Mīmāṃsā), ⟪तूत⟫ Maulbeerbaum, ⟪पीत⟫ getrunken,  ⟪पीति⟫ Trank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ er jammert, ⟪पुटी⟫ Falte, ⟪चापि⟫ desgleichen, ⟪तोक⟫ Nachkommenschaft, ⟪तृपत्⟫ satt, ⟪पॄ⟫ füllen, ⟪कृकाटी⟫ Halsgelenk, ⟪पूपौ⟫ zwei Kuchen, ⟪पैतृकी⟫ väterlich (fem.), ⟪कौट⟫ betrügerisch, ⟪कच⟫ Haupthaar, ⟪कुतपे⟫ auf der Ziegenhaardecke, ⟪कुचौ⟫ Busen, ⟪चकिता⟫ erschrocken (fem.)
+⟪पिता⟫ tėvas, ⟪कपि⟫ beždžionė, ⟪कृत⟫ padarė,  ⟪टीका⟫ poena, ⟪तत्⟫ šis, ⟪तट⟫ krantas, ⟪पत्⟫ šaudyti pro šalį, ⟪पट⟫ audinys, ⟪काच⟫ stiklas,  ⟪काकुत्⟫ gomurys, ⟪चित्⟥ suvokti, ⟪पृच्⟫ maišyti,  ⟪पोटक⟫ tarnas, ⟪चेतु⟫ ketinimas, ⟪तौतातित⟫ Kumārilo (Mīmāṃsā) sekėjas, ⟪तूत⟫ šilkmedis, ⟪पीत⟫ išgėrė,  ⟪पीति⟫ gėrimas, ⟪कॢप्⟫  tinka, ⟪कृपते⟫ jis liūdėja, ⟪पुटी⟫ raukšlė, ⟪चापि⟫ taip pat, ⟪तोक⟫ palikuonys, ⟪तृपत्�>> sotus, ⟪पॄ⟫ pripildyti, ⟪कृकाटी⟫ kaklo sąnarys, ⟪पूपौ⟫ du pyragaičiai, ⟪पैतृकी⟫ tėviškas (moter. g.), ⟪कौट⟫ sukčiškas, ⟪कच⟫ plaukai ant galvos, ⟪कुतपे⟫ ant ožkos kailio kilimo, ⟪कुचौ⟫ krūtinė, ⟪चकिता⟫ išgąsdintas (moter. g.)
 
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "Lição 25"
+subtitle: 'Formação do Ablativo (⟪पञ्चमी⟫ = "quinta desinência casuаl")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 25
@@ -199,7 +200,7 @@ disso:
 ::: media
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2501))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : segurar, agarrar
 
@@ -279,7 +280,7 @@ daí:
 ::: media
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2502))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2502))
 :::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): untar, besuntar
 
@@ -296,7 +297,7 @@ dele:
 ::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2503))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2503))
 :::
 ⟪वर्ष⟫ n.,m.: chuva, estação das chuvas, ano
 
@@ -318,7 +319,7 @@ disso:
 ::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
-(Fonte da imagem: [Details](/licenses#lekt2504))
+(Fonte da imagem: [Details](/pt/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : levar embora, instruir, educar
 
@@ -334,7 +335,7 @@ deles:
 ::: media
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2505))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2505))
 :::
 ⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescer, tornar-se maior
 
@@ -359,7 +360,7 @@ Disso:
 ::: media
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2506))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2506))
 :::
 ⟪अणु⟫ ⟪३⟫ : fino, delicado, muito pequeno ; m.: átomo
 

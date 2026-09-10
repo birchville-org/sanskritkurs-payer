@@ -1,45 +1,46 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Mësimi 46"
+subtitle: "Formimi i formave verbale të personit të dytë (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 46
 
-## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Formimi i formave verbale të personit të dytë (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Përfundimet
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Perfektendungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :---: | :---: | :---: | :---: |
+| **Përfundimet e Perfektit** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
+Vini re se përfundimi -- zakonisht jo forma! -- i 2.shum.P përputhet me atë të 1.drejt.P dhe 3.drejt.P.
 
 ::: grammar-box
-Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
+Para -tha, te rrënjët më të shumta që përfundojnë në -ṛ, nuk shfaqet asnjë zanor lidhës \-i-. Te disa rrënja, -i- para \-tha është fakultativ.
 :::
-### 46.1.2. Lautveränderung der Endung -dhve
+### 46.1.2. Ndryshimi fonetik i përfundimit -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Përfundimi -dhve duhet zëvendësuar me -ḍhve në Perfekt, kur një -u ose -ṛ rrënjësor ndodhet menjëherë para tij. Kjo zëvendësim mund të bëhet vullnetarisht pas zanorit lidhës -i-, nëse një gjysmëzannor ose h ndodhet menjëherë para tij.
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. Perfekt Tipi I: pa shkallëzim të stamit
 
-Verben, die diesem Typ folgen:
+Verbat që ndjekin këtë tip:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
+*   Konsonant-Zannor i gjatë-Konsonant
+*   Konsonant-Zannor-Konsonant-Konsonant
 *   a-Konsonant(-Konsonant)
 *   ā-Konsonant
 
 ::: grammar-box
-1.sg.P = 3.sg.P = 2.pl.P
+1.drejt.P = 3.drejt.P = 2.shum.P
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -65,9 +66,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | ⟪आसिषे⟫ | ⟪आसिध्वे⟫ |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Tipi i Perfektit: rrënja e fortë në shkallë të lartë, rrënja e dobët në shkallë të ulët
 
-Verben, die diesem Typ folgen:
+Verbet që ndjekin këtë tip:
 
 *   (Konsonant-)i/u/ṛ/ḷ-Konsonant
 
@@ -87,11 +88,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. Tipi i III i Perfektit: Shkalla e lartë/Shkalla e zgjeruar e rrënjës së fortë
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. Tipi i IIIa i Perfektit: Shkalla e lartë/Shkalla e zgjeruar e rrënjës së fortë, shkalla e ulët e rrënjës së dobët
 
-Verben, die diesem Typ folgen:
+Verbet që ndjekin këtë tip:
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -102,7 +103,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
+| ⟪इयेथ⟫:br⟪इययिथ⟫:bri-e + i-tha | ⟪ईय⟫:bri + iy-a |
 :::
 ⟪नी⟫ 2U
 
@@ -128,9 +129,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 46.1.5.2. Perfekti Tipi IIIb: Gërm i fortë në nivel të lartë/ndezur, gërm i dobët në nivel të lartë
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -151,11 +152,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Perfekti Tipi IV: Rrënjët mbi -ā / -ai
 
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Gërma e dobët:
+*   përpara konsonantit: niveli i ulët-i
+*   përpara vokalit: niveli i ulët-ø
 
 ⟪दा⟫ 3U
 
@@ -173,20 +174,20 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. Perfekti Tipi V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. Perfekti Tipi Va: Konsonant-a-Konsonant, gërm i dobët në nivel të ulët
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1.  gam "shkoj"
+2.  han (»ghan) "vras"
+3.  jan "lindem"
+4.  vac "flas"
+5.  vad "flas"
+6.  yaj "flij"
+7.  e.a.
 :::
 ⟪गम्⟫ 1P
 
@@ -252,10 +253,10 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 46.1.7.2. Perfekt Tipi Vb: Konsonant-a-Konsonant, konsonanti fillues nuk është guturale, aspiratë, h, stam i dobët pa reduplikim, me -e-
 
 ::: grammar-box
-Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
+2.sg.P. formohet nga stami i dobët, kur bashkëtingëllores -i- i shtohet.
 :::
 ⟪पच्⟫ 1U
 
@@ -265,11 +266,11 @@ Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. Perfekt Tipi Vc: Konsonant-a-Konsonant, stami i dobët në nivelin e lartë
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   Të gjitha rrënjët e tjera me -a- në mes
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +280,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Formime të veçanta të Perfektit
 
-⟪विद्⟫ 2P präsentisches Perfekt
+⟪विद्⟫ 2P perfekt prezentik
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -313,20 +314,20 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Perfekt periphrastik (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+Perfekti periphrastik formohet nga:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   rrënjë foljore të nxjerra (Kausativ, Desiderativ, Frequentativ, Denominativa), veçanërisht Kausativ
+*   rrënjë që fillojnë me zanor të gjatë (përveç ā)
+*   rrënjë: Zanor (përveç a-)-Konsonant-Konsonant
+*   disa të tjera
+*   te disa rrënjë mund të formohen opsionalisht të dyja format e Perfektit: uṣ "digjet", vid "dijë", jāgṛ "mbaj vigjilencë", daridrā "jam i varfër"
+*   te rrënjët e mëposhtme mund të formohen opsionalisht të dyja format e Perfektit dhe gjithashtu perfekti periphrastik është i ripërsëritur, dhe saktësisht me njësinë e ripërtëritjes së rrënjës prezente:
+*   bhī "kuroh"
+*   bhṛ "mbaj"
+*   hu "sakrifikoj"
+*   hrī "turpërohem"
 
 ⟪बन्ध्⟫ Kausativ
 
@@ -334,70 +335,70 @@ Das periphrastische Perfekt wird gebildet von:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
+| ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Listë fjalësh
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+⟪सम⟫ 3: i barabartë, saktësisht, i ngjashëm
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+prej tij:
+⟪समम्⟫ Adv.: në mënyrë të njëjtë, njëkohësisht (⟪तृतीयया⟫), në mënyrë të barabartë
+⟪समता⟫ f.: baraspirtshmëri
+⟪विषम⟫ 3: i papërsosur, jo i barabartë, i keq
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : kap, mbërthej, prek
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
 Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫  
-PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫  
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+prej tij:
+⟪ग्रह⟫ m.: kapje, kapëse, krokodil, yll lëvizës
+⟪नवग्रह⟫ m.: nëntë yjtë lëvizës (jo planetët!) (shih Basham, Mrekulli fq. 493):
+1. ⟪सूर्यः⟫ = Dielli
+2. ⟪चन्द्रः⟫ = Hëna
+3. ⟪मङ्गलः⟫ = Marsi
+4. ⟪बुधः⟫ = Merkuri
+5. ⟪बृहस्पतिः⟫ = Jupiteri
+6. ⟪शुक्रः⟫ = Venera
+7. ⟪शनिः⟫ = Saturni
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Për ⟪राहु⟫ dhe ⟪केतु⟫ shihni:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra: Hyrje dhe Përmbledhje. -- 10. Sakramente dhe Rite kalimi (samskara). -- Shtesë C: Rahu dhe Ketu, yjtë lëvizës të padukshëm. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/sq/licenses#lekt4602)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/sq/licenses#lekt4603)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/sq/licenses#lekt4604)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/sq/licenses#lekt4605)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : të mjaftohesh, të jesh i kënaqur me (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -408,39 +409,39 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ : të përkulesh, të përshëndesh, të lësh kokën poshtë, të përulesh
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+Fig.: [⟪नारायण तुभ्यं नमामि⟫](/sq/licenses#lekt4607)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ : të ngjitesh, të mbërrish në kulm
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+Fig.: [⟪अश्वरोहकः⟫](/sq/licenses#lekt4606)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : të thërras, të thërres dikë pranë
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -454,38 +455,38 @@ Absol. -⟪हूय⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+Fig.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/sq/licenses#lekt4608)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4608))
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "Drejtori i elefantëve"; ⟪चरिष्णु⟫ 3 "i lëvizshëm", ⟪दूरशब्द⟫ m. "telefonim i largët, telefon" » ⟪चरिष्णुदूरशब्द⟫ "telefon celular" (Formimi i fjalës: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: ecja përpara dhe prapa
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: rënia
 
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : të mundohesh, të lodhesh
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
+prej kësaj:
 ⟪आश्रम⟫ m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+Fig.: [⟪श्रान्तः⟫](/sq/licenses#lekt4609)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : të mbështesësh, të mbështesh, të gjeresh stabilitet, të shko tek dikush (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -496,7 +497,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : të ngjitesh, të fiksohesh në (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -505,16 +506,16 @@ Pass. ⟪सज्यते⟫
 Kaus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+prej kësaj:
+⟪सङ्ग⟫ m.: ngjitja, prekje me (⟪तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
+Fig.: [⟪सङ्गः⟫](/sq/licenses#lekt4610)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : të ecësh, të përshpejtosh hapin
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -526,20 +527,20 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : të rrëshqas, të përshkoj
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+prej kësaj:
+⟪विभ्रम⟫ m.: të rrëshqas, konfuzion, gabim
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : të varet nga (⟪सप्तम्या⟫), të ketë lidhje me (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
@@ -553,36 +554,36 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+Fig.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/sq/licenses#lekt4601)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : të lidhesh me (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ Konjunktion:  nëse
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : të rrethosh, të nënshtrosh, të mundësh
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: i mundur, i poshtëruar, i ulur
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Para-verb: poshtë, lart, brenda, prapa
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+p.sh.
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : të ulësh
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ Partikula vokative: thirrje për të fjalosur, p.sh.: o, hej, oh, ei, hallo, hi! shpesh nuk përkthehet. Kjo partikulë ka një Sandhi specifik: para të gjitha zanoreve të zëshme, ajo bëhet :sig[⟪भो⟩].
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+Fig.: [⟪भोः⟫](/sq/licenses#lekt4611)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4611))
 :::
-## 46.3. Übung
+## 46.3. Ushtrim
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) Përcaktoni dhe përktheni format e mëposhtme:
 
 1.  ⟪वित्थ⟫
 2.  ⟪वेत्थ⟫
@@ -637,22 +638,19 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 51.  ⟪सुषुपुः⟫
 52.  ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) Përktheni:
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(Bildquelle: [Details](/licenses#lekt4612))
+Fig.: [⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/sq/licenses#lekt4612)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4612))
 :::
 

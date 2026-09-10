@@ -1,14 +1,15 @@
 ---
-title: "Ushqim 4"
+title: "Ushtrimi 4"
 uebung_id: 4
-category: "Ushqim"
+category: "Ushtrim"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Ushtrim 4
 
-A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:
+A) Formuloni me gojë pyetje me fjalët e mëposhtme sipas skemës viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) dhe përgjigjuni pyetjeve në sanskritisht:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -46,12 +47,12 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Për ushtrimin e mëposhtëm të leximit, formuloni pyetje sipas modelit etat kim (⟪एतत्किम्⟫) dhe përgjigjuni pyetjeve me fjalët e dhëna dhe përemrat dëftues, p.sh. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)
-Abb.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt0401))
+Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0401))
 :::
 eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
@@ -91,6 +92,6 @@ etat kim? eṣā pipīlikā.
 
 ::: media
 ![](/images/uebung003.webp)
-Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung003))
+Fig.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#uebung003))
 :::

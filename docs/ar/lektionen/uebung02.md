@@ -1,8 +1,9 @@
 ---
-title: "تمرين 2"
+title: "الممارسة 2"
 uebung_id: 2
-category: "تمرين"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -72,19 +73,19 @@ guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu هو السَيِّد.
+5\. فيشنو هو الرَّبّ.
 
 īśvaro viṣṇuḥ.
 
 ⟪ईश्वरो⟫ ⟪विष्णुः⟫
 
-6\. السَيِّد هو Śiva.
+6\. الرَّبّ هو شيفا.
 
 śiva īśvaraḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. ذو المواليد مرتين هو براهمي.
+7\. المولود مرتين هو برهمن.
 
 brāhmaṇo dvijaḥ.
 
@@ -104,6 +105,6 @@ sādhur guruḥ.
 
 ::: media
 ![](/images/uebung002.jpg)
-Abb.: ⟪ईश्वरः⟫ ⟪शिवः⟫
-(Bildquelle: [Details](/licenses#uebung002))
+الصورة: ⟪ईश्वरः⟫ ⟪शिवः⟫
+(مصدر الصورة: [تفاصيل](/licenses#uebung002))
 :::

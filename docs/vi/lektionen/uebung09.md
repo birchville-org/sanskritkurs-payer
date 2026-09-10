@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,107 +7,107 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 9
+# Bài tập 9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+A) Hãy cố gắng xác định các nghĩa có thể có của những từ sau đây:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. người chỉ giống một Brahman = một Brahman kém cỏi
 
-2\. mati ⟪मति⟫ : f. Meinung
+2\. mati ⟪मति⟫ : f. ý kiến
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+3\. śravaṇa ⟪श्रवण⟫ : n. tai
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : m. (quan hệ tình dục) theo kiểu một con bò cái
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+5\. jayaka ⟪जयक⟫ : 3 chiến thắng
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett
+6\. rakṣikā ⟪रक्षिका⟫ : f. người canh gác, bùa hộ mệnh
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer
+7\. karṣaka ⟪कर्षक⟫ : 3 cày ; m. nông dân
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+8\. kleśa ⟪क्लेश⟫ : m. đau khổ
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : n. trạng thái của một người tình
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+10\. tantraka ⟪तन्त्रक⟫ : 3 (vừa) đến từ khung cửi / máy dệt = mới được dệt
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : vũ công
 
-12\. naraka ⟪नरक⟫ : m. Hölle
+12\. naraka ⟪नरक⟫ : m. địa ngục
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : f. quyền lực
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. chiến binh
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. giận dữ
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 bước vào
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 nhìn thấy
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig
+20\. kopaka ⟪कोपक⟫ : 3 người dễ nổi giận, nóng nảy
 
-B) Übersetzen Sie:
+B) Dịch:
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. Nhiệm vụ của tất cả những người sinh hai lần:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben.
+Tế lễ, nghiên cứu Veda, ban tặng.
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. Nhiệm vụ đặc thù của một Brahman:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Giảng dạy, tế lễ theo yêu cầu, nhận quà tặng.
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. Nhiệm vụ đặc thù của một Kṣatriya:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+(sarvabhūtānām = Genetiv (Wesfall): "của tất cả chúng sinh")
 
 (Gautamadharmasūtra X,7)
 
-Hüten aller Wesen.
+Bảo vệ tất cả chúng sinh.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4\. Các nhiệm vụ cụ thể của một Vaiśya:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(theo Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Canh tác nông nghiệp, thương mại, chăn nuôi gia súc và cho vay tiền.
 
-5\. Aufgaben eines Śūdra:
+5\. Nhiệm vụ của một Śūdra:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(theo Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+Giải thích:
+dvijātīnām = Cách cách (Genetiv) số nhiều của dvijāti (dịch ở đây là: "đối với những người được sinh hai lần")
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma là một loại compound Tatpuruṣa với thành phần trước là Dvandva (kārukuśīlava). karma = Danh cách số ít của karman neuter "hành động, hoạt động, nghiệp" từ gốc kṛ 8 U). Dịch là "Hoạt động / Hành động của ... (ở cách sở hữu)" (được chỉ định bởi Dvandva).
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Vâng lời đối với những người được sinh hai lần, các hoạt động để kiếm sống, hoạt động như một thợ thủ công hoặc diễn viên lưu động.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(theo Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+Kinh tế là canh tác nông nghiệp, chăn nuôi gia súc và thương mại.
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Hình: ⟪रक्षणं सर्वभूतानाम्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung013))
 :::

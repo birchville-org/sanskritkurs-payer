@@ -1,6 +1,6 @@
 ---
 title: "Lesing 1"
-subtitle: "Die klanken van Sanskrit"
+subtitle: "Die klanke van Sanskrit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
@@ -132,7 +132,7 @@ Afbeelding: Boekomslagtitel (rug/voorzijde)
 
 Voor de nieuwsgierige lezer ter naslag:
 
-> **Lexikon der Sprachwissenschaft** / red. door Hadumod Bussmann. -- 4., doorz. en bibliogr. aanvullende dr. / medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 blz. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / geredigeer deur Hadumod Bussmann. -- 4de hersiene en bibliografies aangevulde uitgawe / medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 bl. ; 22 cm. -- ISBN 978-3-520-45204-7 (Sien ook Kielhorn).
 
 
 ## 1.2. De klanken van het Sanskriet

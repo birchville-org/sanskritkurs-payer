@@ -1,10 +1,11 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "ਪਾਠ 36"
+subtitle: "ਪਰਤੀਤ ਦੇ ਵਿਸ਼ੇਸ਼ ਰੂਪ"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 36

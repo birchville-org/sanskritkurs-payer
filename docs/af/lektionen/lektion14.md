@@ -68,9 +68,7 @@ Na 'n medeklinker is die gereelde genitief-uitgange:
 
 ::: grammar-box
 
-Die genitief meervoud van stam eindigend op 'n vokaal word soos volg gevorm:
-
-&gt; **finale lang vokaal van die stam + -nām**
+Die genitief meervoud van stam eindigend op 'n vokaal word soos volg gevorm: **finale lang vokaal van die stam + -nām**
 
 :::
 ::: center
@@ -188,7 +186,7 @@ Vertaal die volgende spreuke en leer dit uit die kop:
 
 ::: media
 ![](/images/lekt1404.webp)
-Fig.: ⟪पुत्रवती⟫
+Afb.: ⟪पुत्रवती⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt1404))
 :::
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 betekenisse)
@@ -197,7 +195,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
+Afb.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt1403))
 :::
 **B) Vertaal:**

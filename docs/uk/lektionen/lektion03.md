@@ -1,10 +1,11 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Урок 3"
+subtitle: "Називний відмінок однини жіночого роду"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 3

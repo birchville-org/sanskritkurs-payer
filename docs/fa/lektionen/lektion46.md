@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "درس ۴۶"
+subtitle: "شکل‌دهی به فعل‌های شخص دوم (⟪मध्यमः⟫) ماضی کامل (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # درس ۴6
@@ -376,26 +377,26 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 > **پایر، آلويس \<1944 - \>:** دارماساترا: مقدمه و مرور کلی. -- ۱۰. ساکرامنت‌ها و آیین‌های گذار (سامسکارا). -- الحاقیه ج: راهو و کِتو، سیارات دگرگون‌ساز نامرئی. -- نشانی اینترنتی: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-تصویر: [⟪सूर्यः⟫، ⟪चन्द्रः⟫، ⟪मङ्गलः⟫](/licenses#lekt4602)
-(منبع تصویر: [جزئیات](/licenses#lekt4602))
+تصویر: [⟪सूर्यः⟫، ⟪चन्द्रः⟫، ⟪मङ्गलः⟫](/fa/licenses#lekt4602)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-تصویر: [⟪बुधः⟫، ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(منبع تصویر: [جزئیات](/licenses#lekt4603))
+تصویر: [⟪बुधः⟫، ⟪बृहस्पतिः⟫](/fa/licenses#lekt4603)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-تصویر: [⟪शुक्रः⟫، ⟪शनिः⟫](/licenses#lekt4604)
-(منبع تصویر: [جزئیات](/licenses#lekt4604))
+تصویر: [⟪शुक्रः⟫، ⟪शनिः⟫](/fa/licenses#lekt4604)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-تصویر: [⟪राहुः⟫، ⟪केतुः⟫](/licenses#lekt4605)
-(منبع تصویر: [جزئیات](/licenses#lekt4605))
+تصویر: [⟪राहुः⟫، ⟪केतुः⟫](/fa/licenses#lekt4605)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : قانع شدن، با (⟪षष्ठ्या⟫، ⟪चतुर्थ्या⟫، ⟪तृतियया⟫، ⟪सप्तम्या⟫) رضایت داشتن
 
@@ -421,8 +422,8 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ::: media
 ![](/images/lekt4607.webp)
-تصویر: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(منبع تصویر: [جزئیات](/licenses#lekt4607))
+تصویر: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/fa/licenses#lekt4607)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : صعود کردن، سوار شدن
 
@@ -437,8 +438,8 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ::: media
 ![](/images/lekt4606.webp)
-تصویر: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(منبع تصویر: [جزئیات](/licenses#lekt4606))
+تصویر: [⟪अश्वरोहकः⟫](/fa/licenses#lekt4606)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4606))
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : صدا زدن، فراخواندن
 
@@ -454,8 +455,8 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ::: media
 ![](/images/lekt4608.webp)
-تصویر: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(منبع تصویر: [جزئیات](/licenses#lekt4608))
+تصویر: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/fa/licenses#lekt4608)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4608))
 :::
 
 ::: indent
@@ -482,8 +483,8 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 :::
 ::: media
 ![](/images/lekt4609.webp)
-تصویر: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(منبع تصویر: [جزئیات](/licenses#lekt4609))
+تصویر: [⟪श्रान्तः⟫](/fa/licenses#lekt4609)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4609))
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : تکیه دادن، به کسی تکیه کردن، پناه یافتن، نزد کسی رفتن (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
@@ -511,8 +512,8 @@ Inf. ⟪संक्तुम्⟫
 :::
 ::: media
 ![](/images/lekt4610.webp)
-توضیح: [⟪सङ्गः⟫](/licenses#lekt4610)
-(منبع تصویر: [جزئیات](/licenses#lekt4610))
+توضیح: [⟪सङ्गः⟫](/fa/licenses#lekt4610)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4610))
 :::
 ⟪द्रु⟫ ۱P ⟪द्रवति⟫ : دویدن، شتابیدن
 
@@ -553,8 +554,8 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-تصویر: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(منبع تصویر: [جزئیات](/licenses#lekt4601))
+تصویر: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/fa/licenses#lekt4601)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ ۱Ā ⟪आलम्बते⟫: به (⟪द्वितीयया⟫) آویختن
 
@@ -577,8 +578,8 @@ PPP ⟪परिभूत⟫ ۳: شکست‌خورده، تحقیرشده، ذل
 
 ::: media
 ![](/images/lekt4611.webp)
-تصویر: [⟪भोः⟫](/licenses#lekt4611)
-(منبع تصویر: [جزئیات](/licenses#lekt4611))
+تصویر: [⟪भोः⟫](/fa/licenses#lekt4611)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4611))
 :::
 ## ۴۶.۳. تمرین
 
@@ -652,7 +653,7 @@ PPP ⟪परिभूत⟫ ۳: شکست‌خورده، تحقیرشده، ذل
 
 ::: media
 ![](/images/lekt4612.webp)
-تصویر: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(منبع تصویر: [جزئیات](/licenses#lekt4612))
+تصویر: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/fa/licenses#lekt4612)
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4612))
 :::
 

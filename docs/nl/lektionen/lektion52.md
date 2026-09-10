@@ -1,6 +1,6 @@
 ---
 title: "Les 52"
-subtitle: "Neutra van stammen op -i en -u"
+subtitle: "Onzijdige stammen op -i en -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"

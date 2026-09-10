@@ -1,17 +1,18 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Lição 4"
+subtitle: "Pronomes interrogativos e pronomes demonstrativos no nominativo"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 4
 
-## 4.1. Perguntas abertas simples (perguntas de palavra) e respostas
+## 4.1. Perguntas de complemento simples (perguntas por palavra) e respostas
 
-### 4.1.1. Pronomes interrogativos e demonstrativos
+### 4.1.1. Pronomes interrogativos e pronomes demonstrativos
 
 #### 4.1.1.1. Pronomes interrogativos (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
@@ -27,20 +28,20 @@ status: stable
 ::: grammar-box
 | **Temas** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
+| | **tad = ⟪तद्⟫:br"ele, ela, isso; aquele, aquela, aquilo":br(Mencionado)** | **etad = ⟪एतद्⟫:br"este, esta, isto":br(Muito próximo do falante)** | **idam = ⟪इदम्⟫:br"este, esta, isto":br(Próximo)** |
 | **Nominativo singular** ||||
 | **Neutro** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Masculino** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Masculino** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
 | **Feminino** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
 | **Nominativo plural** ||||
 | **Neutro** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **Masculino** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **Feminino** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**Sobre o Nom. sg. masc.:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) ocorre antes de todos os sons, exceto o **-a** breve
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) ocorre antes de **-a**, que é elidido (omitido) com Avagraha
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) ocorre apenas em Pausa (fim de frase, fim de verso)
+**Para o Nom. sg. masc.:**
+**sa, eṣa** (⟪स एष⟫) ocorre antes de todos os sons exceto o **-a** curto
+**so, eṣo** (⟪सो एषो⟫) ocorre antes de **-a**, que é elidido (omitido) com Avagraha
+**saḥ, eṣaḥ** (⟪सः एषः⟫) ocorre apenas em pausa (fim de frase, fim de verso)
 
 Para poder formar frases com estes pronomes (sarvanāman n.), é ainda necessário o conhecimento das seguintes regras de Sandhi:
 
@@ -97,5 +98,5 @@ NOTA: As respostas que você pode dar a tais perguntas com seu conhecimento atua
 
 ::: media
 ![](/images/lekt0401.webp)
-(Fonte da imagem: [Detalhes](/licenses#lekt0401))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0401))
 :::

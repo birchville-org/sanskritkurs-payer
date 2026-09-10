@@ -1,10 +1,11 @@
 ---
-title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+title: "ਪਾਠ 43"
+subtitle: 'ਦੂਜੇ ਵਿਅਕਤੀ ਦੇ ਸਮਾਪਿਕ (⟪मध्यमः⟫ = \"ਮੱਧਮ <ਵਿਅਕਤੀ>\")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 43

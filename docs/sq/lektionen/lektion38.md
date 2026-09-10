@@ -1,75 +1,69 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: "Mësimi 38"
+subtitle: "Zgjidhja e javës"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 38
 
-## 38.1. Losung der Woche
+## 38.1. Zgjidhja e javës
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren:
+⟪मनुस्मृति ४⟫.⟪३२⟫ për urinimin e duhur:
 
 ::: indent
-⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
-⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
 :::
-Erklärungen:
+Shpjegime:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutër Nom.Akk.sg. për ⟪अग्नि⟫ m.
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
+\-⟪गु⟫ Neutër Nom.Akk.sg. për ⟪गो⟫ m.f. "Dardhë, lopë"
 
 ::: media
 ![](/images/lekt3801.webp)
-Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Bildquelle: [Details](/licenses#lekt3801))
+Fig.: ⟪प्रज्ञा नश्यति मेहतः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3801))
 :::
-## 38.2. Lautwandel von Nasalen im Wort
+## 38.2. Ndryshimi fonetik i nazaleve në fjalë
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
+Nazalet në fjalë i asimilohen konsonantit që vjen pas, d.m.th. ato zëvendësohen nga nazali përkatës i atij konsonanti.
 
-Nach c- und j- wird -n- durch -ñ- ersetzt.
+Pas c- dhe j-, -n- zëvendësohet nga -ñ-.
 :::
-## 38.3. Deklination der Stämme auf -n
+## 38.3. Deklinimi i rrënjëve me -n
 
-### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
+### 38.3.1. Emra me -an si dhe emra me -man ose -van pas zanori
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
+Emrat me **-an** si dhe emrat **-man** ose **-van** pas zanori kanë tre rrënjë:
 
-| Stamm | -an | -man | -van | Verwendung |
+| Rrënja | -an | -man | -van | Përdorimi |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Rrënja e fortë** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m f.:brNom., Akk., Vok. dual m f.:brNom., Vok. pl. m f.:brNom., Akk. pl. n |
+| **Rrënja e mesme e dobët** | **-a** :br(nga -*n) | **-ma** :br(nga -*mn) | **-va** :br(nga -*vn) | Rastet e tjera para fundeve që fillojnë me konsonant:brZgjedhje edhe Lok. sg. m n f |
+| **Rrënja më e dobët** | **-n** | **-mn** | **-vn** | Rastet e tjera para fundeve që fillojnë me zanor |
 
-**Die Endungen sind regelmässig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
+**Fondet janë të rregullta. Nominativ Singular m f formohet pa -n në fund.**
 :::
-Beispiele:
+Shembuj:
 
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ m. "Mbret"
 
-*   starker Stamm: ⟪राजान्⟫
-*   mittlerer Stamm: :sig[⟪राज⟫]
-*   schwächster Stamm: ⟪राज्ञ्⟫
+*   Themeli i fortë: ⟪राजान्⟫
+*   Themeli i mesëm: ⟪राज⟫
+*   Themeli më i dobët: ⟪राज्ञ् सीमन्⟫ f. "Kufi"
 
-⟪सीमन्⟫ f. "Grenze"
+*   Themeli i fortë: ⟪सीमान्⟫
+*   Themeli i mesëm: ⟪सीम⟫
+*   Themeli më i dobët: ⟪सीम्न् नामन्⟫ n. "Emër"
 
-*   starker Stamm: ⟪सीमान्⟫
-*   mittlerer Stamm: ⟪सीम⟫
-*   schwächster Stamm: ⟪सीम्न्⟫
-
-⟪नामन्⟫ n. "Name"
-
-*   starker Stamm: ⟪नामान्⟫
-*   mittlerer Stamm: ⟪नाम⟫
-*   schwächster Stamm: ⟪नाम्न्⟫
+*   Themeli i fortë: ⟪नामान्⟫
+*   Themeli i mesëm: ⟪नाम⟫
+*   Themeli më i dobët: ⟪नाम्न्⟫
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -94,34 +88,32 @@ Beispiele:
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Abb.: ⟪सीमा⟫
-(Bildquelle: [Details](/licenses#lekt3803))
+Fig.: ⟪सीमा⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3803))
 :::
-### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
+### 38.3.2. Emra mbiemror me -man ose -van pas konsonantesh
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
-*   Schwacher Stamm:
-    *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
-    *   vor vokalisch anlautenden Endungen: **\-man, -van**
+*   Themeli i fortë: -mān, -vān
+*   Themeli i dobët:
+*   përpara fundeve që fillojnë me konsonant: -ma, -va (nga -\*mn, -\*vn)
+*   përpara fundeve që fillojnë me zanore: **\-man, -van**
 
-Sonst Bildung wie unter 3.1.
+Përveç kësaj, formimi është si në 3.1.
 :::
-Beispiele:
+Shembuj:
 
-⟪आत्मन्⟫ n. "Seele"
+⟪आत्मन्⟫ n. "shpirt"
 
-*   starker Stamm: ⟪आत्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪आत्म⟫
-    *   vor Vokal: ⟪आत्मन्⟫
+*   rrënja e fortë: ⟪आत्मान्⟫
+*   rrënja e dobët:
+*   përpara konsonantit: ⟪आत्म⟫
+*   përpara vokalit: ⟪आत्मन् ब्रह्मन्⟫ n.: Absolutive, Veda, Brahman
 
-⟪ब्रह्मन्⟫ n.: Absolutes, Veda, Brahman
-
-*   starker Stamm: ⟪ब्रह्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪ब्रह्म⟫
-    *   vor Vokal: ⟪ब्रह्मन्⟫
+*   rrënja e fortë: ⟪ब्रह्मान्⟫
+*   rrënja e dobët:
+*   përpara konsonantit: ⟪ब्रह्म⟫
+*   përpara vokalit: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,18 +136,18 @@ Beispiele:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
+### 38.3.3. Mashkullore dhe Neutrale me -in, -min, -vin
 
 ::: grammar-box
-Diese Nomina haben **keine** Stammabstufung.
+Këto emra **nuk kanë** gradacion rrënje.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
+Nom.sg.m. dhe Nom.Akk.pl.n. janë formuar me analogji me stëmat -an (zgjatja e -i-), ashtu siç është stema me **\-i-** përpara fundeve konsonantore.
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
+Femërori formohet me mbaresën -ī: p.sh. ⟪बलिनी⟫
 :::
-Beispiel:
+Shembull:
 
-⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)"
+⟪बलिन्⟫ m.n. "i fortë, i guximshëm (i karakterizuar nga ⟪बल⟫ i veçantë, ⟪बल⟫ pronar)"
 
 ::: grammar-box
 
@@ -164,165 +156,167 @@ Beispiel:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
+## 38.4. Për formimin e emrave: ⟪तद्धित⟫-sufiks -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
+Me sufiksin (shumë të rëndësishëm!) ⟪तद्धित⟫ **-in** nga emrat formohen mbiemra me kuptimin:
 
-**gekennzeichnet durch, besitzend**
+**i karakterizuar nga, që posedon**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+Në fillim, formimi me sufiksin **-⟪इन्⟫** ndryshonte nga ai me **-⟪मन्त्⟫/-⟪वन्त्⟫** në atë që **-⟪इन्⟫** shënonte karakterizimin nga diçka e veçantë, ndërsa **-⟪मन्त्⟫/-⟪वन्त्⟫** shprehte posedimin, karakterizimin nga diçka e zakonshme ose të përgjithshme.
 :::
-Beispiel:
+Shembull:
 
-⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
+⟪हस्तिन्⟫ mashk.: ai i karakterizuar nga një dorë e veçantë = elefanti (dora e tij nuk është një dorë e zakonshme, por një shushunjë)
 
 ::: media
 ![](/images/lekt3806.webp)
-Abb.: ⟪हस्ती⟫
-(Bildquelle: [Details](/licenses#lekt3806))
+Fig.: ⟪हस्ती⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat
+⟪हस्तवन्त्⟫ : një që ka (duar njerëzore)
 
 ::: media
 ![](/images/lekt3807.webp)
-Abb.: ⟪हस्तवान्⟫
-(Bildquelle: [Details](/licenses#lekt3807))
+Fig.: ⟪हस्तवान्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet.
+Mbiemrat me **-⟪इन्⟫** preferohen të formojnë kompozita.
 :::
-Beispiel:
+Shembull:
 
-⟪सत्यवादिन्⟫ zu ⟪सत्यवाद⟫ m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht"
+⟪सत्यवादिन्⟫ për ⟪सत्यवाद⟫ mashk. "folja e së vërtetës": "dikush që është i karakterizuar nga folja e së vërtetës = ai që falë gjithmonë të vërtetën"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Sintaksisht për ⟪नामन्⟫
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man:
+Për të shprehur "dikush me emrin N. N.", ndërtohet:
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**N.N. (në rënien nominative) ⟪नाम⟫**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz.
+Fjalë për fjalë: "Emri është/ishte N.N". Pra, bëhet fjalë për një fjali emërore të futur midis.
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
+⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Një herë kishte një mbret **me emrin Nala**, i fortë, biri i Vīrasenas."
 :::
-Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken:
+Natürlicherweise mund të shprehësh të njëjtën gjë me një ⟪बहुव्रीहि⟫:
+:::
+Natürlicherweise mund të shprehësh të njëjtën gjë me një ⟪बहुव्रीहि⟫:
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
+⟪देवदत्तनामा पुरुषः⟫ "një burrë, i cili ka emrin Devadatta"
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist"
+⟪मदयन्तिकानाम्नी बाला⟫ "një vajzë, e cila ka emrin Madayantika"
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Bildquelle: [Details](/licenses#lekt3808))
+Fig.: ⟪आसीन्महात्मा गन्धी नाम⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 38.6. Sintaksë për ⟪आत्मन्⟫
 
 ::: grammar-box
-⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+⟪आत्मन्⟫ **maskulin** mund të përdoret në **numrin njëjës** si përemër refleksiv për të tre gjinitë, numrat (përfshirë dyjën dhe shumës) dhe personat.
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst"
+⟪आत्मन्येषा दोषं न पश्यति ।⟫ "Ajo nuk sheh asnjë gabim te vetja e saj"
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst"
+⟪आत्मानं स्तुवन्ति ।⟫ "Ata lavdërojnë veten e tyre"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kann deswegen stehen für "mein/dein/sein/... eigenes"
+Gjenitiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ mund të qëndrojë këtu për "tim/yjën/tij/... vetjak"
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus."
+⟪आत्मनो गृहं प्रविशति ।⟫ "Ai hyn në shtëpinë e tij vetjake."
 :::
-## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
+## 38.7. Fushat me përfundim konsonant si pjesa e parë e kompozitave
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
+Fushat që përfundojnë me një konsonant shfaqen si pjesa e parë e një kompoziti në atë (të dobët) fushë, të cilën ato marrin përpara përfundimit -su të Lokativit (⟪सप्तमी⟫) Shumës.
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-:sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
+sig[⟪राज⟫]⟪पुत्र⟫ "bir mbreti"
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
+## 38.8. Fushat me -an si pjesa e dytë e një ⟪बहुव्रीहि⟫
 
 ::: grammar-box
-Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
+Si pjesa e dytë e një ⟪बहुव्रीहि⟫, një fushë me -an mund të përdoret për të tre gjinitë. Megjithatë, në përgjithësi feminoresh formohet me shtesën -ī nga forma më e dobët maskuline.
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin"
+⟪दुर्णाम्नी⟫ "një, e cila ka emër të keq; demon sëmundjesh"
 :::
-## 38.9. Wortliste
+## 38.9. Listë fjalësh
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+⟪सूर्य⟫ m.: Diell, perëndi dielli Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+Fig.: ⟪सूर्यः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.: Ujë
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+Fig.: ⟪उदकम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : fryj, shpërthej
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+prej tij:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: Erë
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : fryj, shpërndaj, zbehem
 
 ::: indent
-davon:
+prej tij:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.: Zbehje, Nirvana
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.: Zbehje e plotë, shpëtim i plotë (në fund të jetës së një Budai ose Arhanti)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+Fig.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : urinoj, pipëtoj, ejakuloj
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -331,160 +325,160 @@ Pass. ⟪मिह्यते⟫
 Kaus. ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-davon:
+prej tij:
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: Re ("shkrirës")
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: Bir
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -:sig[⟪राज⟫] m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: Mbret (për mbretërinë në Indi shih Basham, Mrekullia fq. 82-94). Si pjesë përbërëse e një kompoziti (veçanërisht ⟪तत्पुरुष⟫) zakonisht: -⟪राज⟫ m. (si ⟪देव⟫)
 
 ::: indent
-Femininum:
+Femini:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ f.: Mbretëreshë, grua e një mbreti
 
-von :sig[⟪राज⟫] :
+nga ⟪राज⟫ :
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 3: mbretëror; n. Mbretëri, Mbretërim, Sundim
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.: Emër
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ f.: Kufi
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.: Vetë, personi i vet, thelbi më i brendshëm. Filozofikisht dhe në doktrinat e shpëtimit: Absoluti te individi, të cilin megjithatë individi nuk është ndonjëherë i vetëdijshëm (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
-
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.: Zoti krijues i menduar personalisht Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+Fig.: ⟪ब्रह्मा⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)
+⟪कर्मन्⟫ n.: për ⟪कृ⟫ 8U: Veprim, veprë, punë; veprë e shenjtë, rit i flijimit; Karma: veprimi i mëparshëm, që më vonë sjell frytet e veta (p.sh. në rilindje)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: Mbarimi i veprave = pasojat e mira dhe të këqija të veprimeve në ekzistencat e mëparshme (për ⟪वि⟫-⟪पच्⟫)
 :::
 ⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: Njeri, burrë; Emri i babait të gjinisë njerëzore (për ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon:
+prej kësaj:
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: Njeri
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (flakëron, shkëlqen) ; pikëllohet, qaj
 
 ::: indent
-Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
-Fut. ⟪शोचिष्यति⟫
-Pass. ⟪शुच्यते⟫
-Kaus. ⟪शोचयति⟫
-Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Perfekt II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
+E ardhme ⟪शोचिष्यति⟫
+Pasiv ⟪शुच्यते⟫
+Kausativ ⟪शोचयति⟫
+Infinitiv ⟪शुचितुम्⟫
+Absolutiv ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+prej kësaj:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: i ndritshëm, i pastër, i qartë
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: Pikëllim, hidhërim
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: i lirë nga hidhërimi; Pema Ashoka = _Saraca asoca_ (Roxb.) Wilde; Emri i perandorit Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (rreth 304 – 232 para Krishtit)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+Fig.: ⟪अशोकवृक्षः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+Fig.: ⟪अशोकसाम्राज्यम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3811))
 :::
-## 38.10. Übung
+## 38.10. Ushtrim
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) Vendosni në fjalitë e mëposhtme formën përkatëse të fjalëve në kllapa dhe përktheni:
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
+(⟪सप्तमी विभक्तिः⟫) ... ⟪धर्मं रक्षत्यभया जनाः ॥१॥⟫ (⟪राजन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
+⟪राज्यस्य⟫ ... (⟪सप्तमी बहुवचने⟫) ... ⟪अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥⟫ (⟪सीमन्⟫)
+
+⟪वैश्यानां कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
 ⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
+(⟪सप्तम्येकवचने⟫) ... ⟪अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥⟫ (⟪कर्मन्⟫)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
+⟪किम्⟫ ... ⟪किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥⟫ (⟪कर्मन्⟫)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न शोचति न लुभ्यति ॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
+(⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य सुफलमाहुः ॥९॥⟫ (⟪कर्मन्⟫)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
+⟪महीभोगस्⟫ ... (⟪शष्ठी बहुवचने⟫) ... ⟪धर्मः ॥१०॥⟫ (⟪राजन्⟫)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
+⟪राज्ञे⟫ ... ⟪दीयेरन् ॥११॥⟫ (⟪बलिन् हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
+(⟪तृतीया विभक्तिः⟫) ... ⟪लोका असृज्यन्त ॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
+(⟪तृतीया विभक्तिः⟫) ... ⟪कृतं पापं⟫... (⟪तृतीया विभक्तिः⟫) ... ⟪अकृतं पापम् ॥१३॥⟫ (⟪आत्मन्⟫)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो ऽभयं दीयते ॥१४॥⟫ (⟪राजन्⟫)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
+⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Listë fjalësh për ushtrimin e përkthimit
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫)
+⟪प्राय⟫  m.: çështje kryesore, Instr. ⟪प्रायेण⟫ : zakonisht, përgjithësisht (për ⟪प्र⟫-⟪इ⟫)
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
+⟪विनोद⟫ m.: kalimi i kohës, argëtim, kënaqësi
 
 ::: media
 ![](/images/lekt3812.webp)
-Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812))
+Fig.: ⟪विनोदः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
+⟪अट्⟫ 1P ⟪अटति⟫ : të rrotullohesh
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Kaus. ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: seicht
+⟪गाध⟫ 3: i cekët
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
+⟪तॄ⟫ 1P ⟪तरति⟫ : të kalosh, të shpëtosh nga (Akk.)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
+Fut. ⟪तरिष्यति । तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
 Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel
+⟪पार⟫ n.(m.): bregu i përtejshëm, kufi, qëllim
 
-⟪तीर⟫ n.: Ufer
+⟪तीर⟫ n.: breg, bregdet
 
 ::: media
 ![](/images/lekt3813.webp)
-Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813))
+Fig.: ⟪वाराणस्यां गङ्गातीरे⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: je einzeln
+⟪एकैकशस्⟫ Adv.: secili veç e veç
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
+⟪गण्⟫ 10P ⟪गणयति⟫: numëroj
 
 ::: indent
-Perf. ⟪गणयां⟫ ⟪चकार⟫
+Perf. ⟪गणयां चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
@@ -493,10 +487,10 @@ Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814))
+Fig.: ⟪गणयां चक्रुः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: bërtas, qaj
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
@@ -505,28 +499,28 @@ Pass. ⟪क्रुश्यते⟫
 Kaus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt
+⟪इदानीम्⟫ Adv.: tani
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
+⟪नूनम्⟫ Adv.: tani; pra, prandaj; me siguri, padyshim
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫: zhytem, fundos
 
 ::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen
+⟪गवेषयति⟫ Denominativ: kërkoj
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
+⟪व्याकुल⟫ 3: i shqetësuar, i trazuar, i hutuar
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm
+⟪कोलाहल⟫ m.n.: britmë, zhurmë
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: kërkesa rrethore
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen
+⟪हस्⟫ 1P ⟪हसति⟫: qesh
 
 ::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
@@ -535,7 +529,7 @@ Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
 PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen
+⟪सृ⟫ 1P ⟪सरति⟫: vrapoj
 
 ::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
@@ -545,45 +539,41 @@ Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
+⟪कर्णयति⟫ Denominativ: dëgjoj (nga ⟪कर्ण⟫ m. "vesh")
 
-⟪लज्जा⟫ f.: Scham
+⟪लज्जा⟫ f.: turp
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ Adv.: poshtë
 
-## 38.12. Übersetzungsübung
+## 38.12. Ushtrim përkthimi
 
-:sig[⟪दश⟫] ⟪मूढाः⟫
+sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪आसीत्तेषां मध्ये कश्चन वृद्धः । स किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो गणयामास । परं⟫ :sig[⟪नवै⟫]⟪व परिगणितास्तेन । ततः स आक्रोशत् । अहो⟫ :sig[⟪वयम्⟫] ⟪दश प्रस्थिताः । इदानीं नवैव⟫ :sig[⟪स्मः⟫] ⟪। नूनमस्माकमेको नद्यां निमग्नः ।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति । ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪। तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+Shpjegime:
 
-Erklärungen:
+⟪दश⟫ Nom.Akk.pl.m.f.n. për ⟪दशन्⟫ "dhjetë"
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual për ⟪बाहु⟫ m. "Dorë"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
+⟪सर्वे⟫ Nom.pl.m. për ⟪सर्व⟫ 3 "çdo, të gjithë"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ për ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "duan të njohin, duan të dinë"
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
+⟪नव⟫ Nom.Akk.pl.m.f.n. për ⟪नवन्⟫ "nëntë"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
+⟪वयम्⟫ Nom.pl. "ne"
 
-:sig[⟪वयम्⟫] Nom.pl. "wir"
+⟪स्मस्⟫ 1.pl.Ind.Präs.P për ⟪अस्⟫ 2P
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
+⟪गवेषयत⟫ 2.pl.Imperativ P
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativ P
+⟪एकैक⟫ "çdo një nga një"
 
-⟪एकैक⟫ "jeder einzeln"
+⟪समजनि⟫ 3.sg.Passiv Aorist për ⟪जन् तरसा⟫ Instr. sg. për ⟪तरस्⟫ n. "Energji", i përdorur adverbial: "shpejt, me forcë"
 
-:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫
+⟪यूयम्⟫ Nom.pl. "ju"
 
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt"
-
-:sig[⟪यूयम्⟫] Nom.pl. "ihr"
-
-⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
+⟪युष्माकम्⟫ Gen.pl. për ⟪यूयम्⟫
 

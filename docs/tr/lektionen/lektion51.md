@@ -1,6 +1,6 @@
 ---
 title: "Ders 51"
-subtitle: "⟪उपपद⟫ bileşikler"
+subtitle: "⟪उपपद⟫-Bileşikler"
 lesson_id: 51
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,17 +10,17 @@ status: stable
 
 # Ders 51
 
-## 51.1. ⟪उपपद⟫-Birleşik Sözcükler
+## 51.1. ⟪उपपद⟫-Birlikleri
 
 ::: grammar-box
-**⟪उपपद⟫-Birleşik Sözcükler (⟪उपपद⟫ n. "Yardımcı Söz") bir Fiil Adının arka bileşeni olduğu, yalnızca birleşik sözcüklerin arka bileşeni olarak ortaya çıkan ve bağımsız, tek başına bir kelime olarak bulunmayan ⟪तत्पुरुष⟫ türüdür. ⟪उपपद⟫, ⟪कृत्⟫-sonekleriyle**
+**⟪उपपद⟫-Birlikleri (⟪उपपद⟫ n. "Yardımcı Sözcük") ⟪तत्पुरुष⟫ türündendir ve arka bileşen olarak bir fiilimsi (verbal noun) içerir; bu arka bileşen yalnızca birliklerin içinde yer alır, bağımsız bir kelime olarak tek başına kullanılmaz. ⟪उपपद⟫, ⟪कृत्⟫ sonekleriyle**
 * **-Ø**
 * **-a**
 * **-t**
 
-**oluşturulur. Bunlar Agens (⟪कर्तृ⟫) adını taşıyan isimlerdir, yani temel yığıntı tarafından ifade edilen eylemi yapan bir Agensi belirtirler.**
+**şeklinde türetilirler. Bunlar "eyleyici isimler"dir (nomina agentis), yani temel kökün ifade ettiği eylemi yapan bir eyleyiciyi (⟪कर्तृ⟫) belirtirler.**
 
-**Bu tür bileşik sözcükler yerli yorumcular tarafından isim kombinasyonları ile değil, fiil formları aracılığıyla çözümlenir:**
+**Bu tür birlikler yerli yorumcularca isim birleşimleri şeklinde değil, fiil formları kullanılarak çözümlenir:**
 
 Örnekler:
 
@@ -30,21 +30,21 @@ status: stable
 :::
 Örnekler:
 
-a) ⟪कृत्⟫-Sonek \-Ø
+a) ⟪कृत्⟫ Sonek \-Ø
 
 ::: indent
-\-⟪नी⟫ 3 "öncülük eden" örn. ⟪सेनानी⟫ m. "ordu öncüsü" (⟪सेना⟫ f. "ordu")
+\-⟪नी⟫ 3 "yöneten, liderlik eden" örn. ⟪सेनानी⟫ m. "ordu komutanı" (⟪सेना⟫ f. "ordu")
 
-\-⟪भुज्⟫ 3 "yeniyen, yiyen" örn. ⟪भूमिभुज्⟫ m. "kral" (⟪भूमि⟫ f. "dünya")
+\-⟪भुज्⟫ 3 "yiyen, tadını çıkaran" örn. ⟪भूमिभुज्⟫ m. "kral" (⟪भूमि⟫ f. "dünya")
 
-\-⟪विद्⟫ 3 "bilgi sahibi olan" örn. ⟪धर्मविद्⟫ 3 "Dharma'yı bilen"
+\-⟪विद्⟫ 3 "bilan, bilen" örn. ⟪धर्मविद्⟫ 3 "dharma'yı bilen"
 :::
 ::: media
 ![](/images/lekt5101.webp)
 Resim: ⟪भूमिभुज् ज्ञानेन्द्र वीर बिक्रम शाह⟫, ⟪नेपालस्यान्तिमो राजा⟫ (2001 - 2008)
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt5101))
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt5101))
 :::
-b) ⟪कृत्⟫-Sonek -t
+b) ⟪कृत्⟫ Sonek -t
 
 ::: indent
 \-⟪कृत्⟫ 3 "yapan" örn.
@@ -55,61 +55,53 @@ b) ⟪कृत्⟫-Sonek -t
 
 ⟪पापकृत्⟫ 3 "kötülük yapan, suçlu"
 :::
-\-⟪जित्⟫ 3 "zafer kazanan", örn.
+\-⟪जित्⟫ 3 "yenilen" örn.
 
 ::: indent
-⟪शत्रुजित्⟫ 3 "düşmanları yenerek"
+⟪शत्रुजित्⟫ 3 "düşmanları yenilen"
 
-⟪पुरुजित्⟫ 3 "çok yenerek" (⟪पुरु⟫ 3 "çok, bol")
+⟪पुरुजित्⟫ 3 "çokları yenilen" (⟪पुरु⟫ 3 "çok, bol")
 :::
 \-⟪भृत्⟫ 3 "taşıyan" örn. ⟪भूमिभृत्⟫ m. "kral"
 ::: media
 ![](/images/lekt5103.webp)
-Abb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
-(Bildquelle: [Details](/tr/licenses#lekt5103))
+Resm.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt5103))
 :::
-c) ⟪कृत्⟫-Suffix -a
+c) ⟪कृत्⟫-ek eki -a
 
 ::: indent
-\-⟪ग⟫ 3 "gitmek (içinde, doğru)" (muhtemelen gā köküne, en derin formu g + a) örn. ⟪खग⟫ 3 "uçan" m. "kuş, gezegen yıldızı" (⟪ख⟫ n. "delik, 'hava' alanı")
+\-⟪ग⟫ 3 "giden (içeri, doğru)" (muhtemelen gā köküne, derin formu g + a) örn. ⟪खग⟫ 3 "uçan" m. "kuş, gezegen yıldızı" (⟪ख⟫ n. "delik, 'hava' boşluğu")
 
-\-⟪घ्न⟫ 3 "vurup düşüren" örn. ⟪कुलघ⟫ 3 "aile(leri) öldüren"
+\-⟪घ्न⟫ 3 "vuran" örn. ⟪कुलघ⟫ 3 "aile(leri) öldüren"
 
-\-⟪ज⟫ 3 (jña » jā » en derin form j + a) "kökeni, doğduğu yer" örn. ⟪आत्मज⟫ "oğul"
+\-⟪ज⟫ 3 (jña » jā » derin formu j + a) "ait olan, doğduğu" örn. ⟪आत्मज⟫ "oğul"
 
 \-⟪ज्ञ⟫ 3 "bilgili" (jñ-a) örn. ⟪सर्वज्ञ⟫ 3 "her şeyi bilen"
 
-\-⟪द⟫ 3 "verici" (d-a) örn. ⟪वारिद⟫ m. "bulut" (⟪वारि⟫ n. "su")
+\-⟪द⟫ 3 "veren" (d-a) örn. ⟪वारिद⟫ m. "bulut" (⟪वारि⟫ n. "su")
 
 \-⟪प⟫ 3 "içen" (p-a) örn. ⟪द्विप⟫ m. "fil (iki kez içen)"
 
 \-⟪प⟫ 3 "koruyan" (p-a) örn. ⟪भूप⟫ "yeri koruyan = kral"
 
-\-⟪स्थ⟫ 3 "içinde duran, içinde bulunan" (sth-a) örn. ⟪गृहस्थ⟫ m. "ev yöneticisi, ev babası"
+\-⟪स्थ⟫ 3 "içinde duran, bulunan" (sth-a) örn. ⟪गृहस्थ⟫ m. "ev sahibi, ev babası"
 
-\-⟪कर⟫ 3 "yapan, işleyen" örn. ⟪सुखकर⟫ 3 "mutluluk sağlayan"
+\-⟪कर⟫ 3 "yapan, eden" örn. ⟪सुखकर⟫ 3 "mutluluk sağlayan"
 
 \-⟪स्मर⟫ 3 "hatırlayan" örn. ⟪जातिस्मर⟫ 3 "önceki doğumları hatırlayan"
 :::
 ::: media
 ![](/images/lekt5102.webp)
-Abb.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
-(Bildquelle: [Details](/tr/licenses#lekt5102))
+Resm.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt5102))
 :::
-## 51.2. Basit bir ünsüzle (nazal, yarı ünlü hariç ve -s dışındaki) biten köklerin çekimi
+## 51.2. Basit bir ünsüzle (nazal, yarı ünlü hariç, -s hariç) biten köklerin çekimi
 
 ::: grammar-box
-**Basit bir ünsüzle (nazal, yarı ünlü hariç ve -s dışındaki) biten kökler, kök derecelendirmesi göstermez. Çekim tamamen düzenli olarak normal hal eklerinin eklenmesiyle gerçekleşir.**
+**Basit bir ünsüzle (nazal, yarı ünlü hariç, -s hariç) biten kökler, kök derecelendirmesi göstermez. Çekim, düzenli hal eklerinin eklenmesiyle tamamen düzgün bir şekilde gerçekleşir.**
 
-**Tek istisna: Nom., Akk. ve Vok.pl.Neutrum hallerinde, kökün sonuna bir nazal ünsüz eklenir.**
-:::
-### 51.2.1. Palatal olmayan ünsüzle biten kökler
-
-::: grammar-box
-**Genel ses değişim kuralları geçerli olup, yani:**
-* **Kelime sonunda uygun sessiz (aspirasyonsuz) ünsüz bulunur**
-* **Lok.plur (-su) öncesinde kelime sonu önce uygun sessiz (aspirasyonsuz) ünsüzle değiştirilir, ardından ilgili ses değişimleri gerçekleşir**
-* **Ünlü (sesli) ünsüz öncesinde kelime sonu uygun sesli (aspirasyonsuz) ünsüzle değiştirilir.**
+**Tek istisna: Nom., Akk., Vok. çoğul nötrde, kök sonundan önce bir nazal ünsüz yerleştirilir.**
 :::
 Örnekler:
 
@@ -196,6 +188,43 @@ Lok. ⟪सत्यवाक्षु⟫
 ::: indent
 > Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
 > Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
+
+**yani**
+
+* **-c » -k**
+* **-ch » -ṭ**
+* **-j » -k veya -ṭ**
+* **-ś » -ṭ veya -k**
+* **-ṣ » -ṭ veya -k**
+:::
+Örnekler:
+
+⟪सत्यवाच्⟫ 3 "doğruluk söyleyen" (⟪बहुव्रीहि⟫)
+
+::: indent
+> Maskulin, Feminin:
+
+:::
+::: indent
+> Tekil:
+
+:::
+::: indent
+> Nom.Vok. ⟪सत्यवाक्⟫
+Akk. ⟪सत्यवाचम्⟫
+> Enstr. ⟪सत्यवाचा⟫
+:::
+> Çoğul:
+
+::: indent
+> Enstr. ⟪सत्यवाग्भिस्⟫
+Lok. ⟪सत्यवाक्षु⟫
+:::
+> Nötr
+
+::: indent
+> Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
+> Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
 :::
 > ⟪शेषभुज्⟫ 3 "yemek artıkları yiyen"
 
@@ -206,9 +235,11 @@ Lok. ⟪सत्यवाक्षु⟫
 > ::: indent
 > Tekil:
 
+:::
 > ::: indent
 > Nom.Vok. ⟪शेषभुक्⟫
 > Akk. ⟪शेषभुजम्⟫
+:::
 > Çoğul:
 
 ::: indent
@@ -230,9 +261,11 @@ Lok. ⟪सत्यवाक्षु⟫
 > ::: indent
 > Tekil:
 
+:::
 > ::: indent
 > Nom.Vok. ⟪परिव्राट्⟫
 > Akk. ⟪परिव्राजम्⟫
+:::
 > Çoğul:
 
 ::: indent
@@ -243,6 +276,7 @@ Lok. ⟪सत्यवाक्षु⟫
 ![](/images/lekt5104.webp)
 > Resim: ⟪परिव्राट् पुष्कर⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt5104))
+:::
 > ### 51.2.3. -h ile biten kökler
 
 ::: grammar-box
@@ -250,83 +284,83 @@ Lok. ⟪सत्यवाक्षु⟫
 
 > **Diğer eklerden önce**
 * **-h genellikle -ḍh ile değiştirilir**
-> * **temel kök d- ile başlıyorsa, -h yerine -gh gelir. Ayrıca bazı kelimelerde isteğe bağlı veya zorunlu olarak da böyle olur (Kielhorn, Grammatik §80,2'de listelenmiştir)**
+> * **temel kök d- ile başlıyorsa, -h yerine -gh gelir. Ayrıca bazı diğer kelimelerde de isteğe bağlı veya zorunlu olarak (Kielhorn, Grammatik §80,2'de listelenmiştir)**
 * **(kök isminin sonunda -h, -dh ile değiştirilir)**
 
-**Bu değişikliklerden sonra, kök sanki -ḍh, -gh veya -dh ile bitermiş gibi ele alınmaya devam eder.**
+**Bu değişikliklerden sonra kök, sanki -ḍh, -gh veya -dh ile bitermiş gibi işlemeye devam eder.**
 
-**Kielhorn, Grammatik, s. 20f'deki çekim tablolarına bakınız.**
-:::
+**Kielhorn'un Dilbilgisi'ndeki (Grammatik) 20. ve sonraki sayfalardaki paradigmalara bakınız.**
+::: -> :::
 Örnekler:
 
-::: indent
-⟪गुह्⟫ 3 "gizleyen"
+::: indent -> ::: indent
+⟪गुह्⟫ 3 "verbergend" -> ⟪गुह्⟫ 3 "gizleyen"
 
-Eril, Dişil:
+Maskulinum, Femininum: -> Eril, Dişi:
 
-:::
-::: indent
-Tekil:
+::: -> :::
+::: indent -> ::: indent
+Singular: -> Tekil:
 
-:::
-::: indent
-Yal./Çağ. ⟪घुट्⟫ (Grassmann'ın hırıltı dissimilasyon yasası: ⟪गुढ्⟫ + s)
-Bel./Nesn. ⟪गुहम्⟫
-:::
-Çoğul:
+::: -> :::
+::: indent -> ::: indent
+Nom.Vok. ⟪घुट्⟫ (Grassmannsches Hauchdissimilationsgesetz: ⟪गुढ्⟫ + s) -> Yal.Çağ. ⟪घुट्⟫ (Grassmann ünsüz benzerliğini azaltma kuralı: ⟪गुढ्⟫ + s)
+Akk. ⟪गुहम्⟫ -> Bel. ⟪गुहम्⟫
+::: -> :::
+Plural: -> Çoğul:
 
-::: indent
-Alet. ⟪घुड्भिस्⟫
-Yer./Yer. ⟪घुट्सु⟫
-:::
+::: indent -> ::: indent
+Instr. ⟪घुड्भिस्⟫ -> Alet. ⟪घुड्भिस्⟫
+Lok. ⟪घुट्सु⟫ -> Bul. ⟪घुट्सु⟫
+::: -> :::
 ⟪द्रुह्⟫ "zarar veren, nefret eden" (isteğe bağlı -ḍh/-gh)
 
-Eril, Dişil:
+Maskulinum, Femininum: -> Eril, Dişi:
 
-::: indent
-Tekil:
+::: indent -> ::: indent
+Singular: -> Tekil:
 
-:::
-::: indent
-Yal./Çağ. ⟪ध्रुट् । ध्रुक्⟫
-Bel./Nesn. ⟪द्रुहम्⟫
-:::
-Çoğul:
+::: -> :::
+::: indent -> ::: indent
+Nom.Vok. ⟪ध्रुट् । ध्रुक्⟫ -> Yal.Çağ. ⟪ध्रुट् । ध्रुक्⟫
+Akk. ⟪द्रुहम्⟫ -> Bel. ⟪द्रुहम्⟫
+::: -> :::
+Plural: -> Çoğul:
 
-::: indent
-Alet. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
-Yer./Yer. ⟪ध्रुट्सु । ध्रुक्षु⟫
-:::
-## 51.3. Başlangıç h- ile Sandhi
+::: indent -> ::: indent
+Instr. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫ -> Alet. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
+Lok. ⟪ध्रुट्सु । ध्रुक्षु⟫ -> Bul. ⟪ध्रुट्सु । ध्रुक्षु⟫
+::: -> :::
+## 51.3. Sandhi von anlautendem h- -> ## 51.3. Başında h- bulunan kelimelerde Sandhi
 
-::: grammar-box
-**Başlangıç h- öncesinde, önceki bir tıkanıklık ünsüzü karşılık gelen sesli olmayan aspirasyonsuz ünsüzle değiştirilir ve başlangıçtaki h- bu tıkanıklık ünsüzüne karşılık gelen sesli aspirasyonlu ünsüzle değiştirilir:**
+::: grammar-box -> ::: grammar-box
+**Başında h- bulunan bir kelime öncesi, önceki pürüz sesini (konsonant) ilgili sessiz olmayan aspiratsız karşılığıyla değiştirilir ve baştaki h-, bu pürüz sesine uygun sessiz olmayan aspiratlı sese dönüşür:**
 
-:::
-::: indent
-⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::
-## 51.4. Başında ch- ile başlayan kelimelerde Sandhi
+::: -> :::
+::: indent -> ::: indent
+⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫ -> ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+::: -> :::
+## 51.4. Sandhi von anlautendem ch- -> ## 51.4. Başında ch- bulunan kelimelerde Sandhi
 
-::: grammar-box
-**Kısa ünlüden sonra, ⟪मा⟫ "değil" ve ⟪आ⟫ "-e/-a"dan sonra ch-, cch- ile değiştirilir:**
+::: grammar-box -> ::: grammar-box
+**Başta ch-, kısa ünlüden sonra, ⟪मा⟫ "değil" ve ⟪आ⟫ "için/zorunda" kelimelerinden sonra cch- ile değiştirilir:**
 
-:::
-::: indent
-⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
-:::
-## 51.5. Kelime içindeki -ch-
+::: -> :::
+::: indent -> ::: indent
+⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫ -> ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
+::: -> :::
+## 51.5. -ch- im Wortinnern -> ## 51.5. Kelime içindeki -ch-
 
-::: grammar-box
-**Kelime içinde -ch-, tüm ünlülerden sonra -cch- ile değiştirilir:**
+::: grammar-box -> ::: grammar-box
+**Kelime içinde, tüm ünlülerden sonra -ch-, -cch- ile değiştirilir:**
 
-:::
-::: indent
+::: -> :::
+::: indent -> ::: indent
 örn. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::
-## 51.6. Kelime listesi
+::: -> :::
+## 51.6. Wortliste -> ## 51.6. Kelime listesi
 
-⟪अजिन⟫ n.: Antilop derisi, özellikle siyah antilobun (Hirschziegenantilope : _Antilope cervicapra_ L. ) derisi. Orijinal olarak Hindistan alt kıtasının tamamında Punjab ve Sind'den Bengal'e ve Nepal'dan Kanyakumari'ye (Cape Comorin) (Tamil: கன்னியாகுமரி) kadar yaygındı. Bakınız:
+⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe: -> ⟪अजिन⟫ n.: Antilop derisi, özellikle siyah antilobun (Hirsch-keçi antilobi: _Antilope cervicapra_ L.) derisi. Orijinal olarak Hindistan yarımadasının tamamında, Pencap ve Sind'den Bengal'e ve Nepal'den Kanyakumari'ye (Comorin Burnu) (Tamil: கன்னியாகுமரி) yaygındı. Bakınız:
 
 > **Walker'ın Dünya Memelileri** / Ronald M. Nowak. -- 6. baskı. -- Baltimore \[diğer yerler\] : Johns Hopkins Univ. Yayınları, 1999. -- 2 cilt. -- ISBN 0-8018-5789-9. -- Cilt 2. -- S. 1193f.
 
@@ -334,6 +368,19 @@ Yer./Yer. ⟪ध्रुट्सु । ध्रुक्षु⟫
 ![](/images/lekt5105.webp)
 Resim:
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt5105))
+:::
+⟪अतिथि⟫ m.: Konuk
+
+⟪अभ्यन्तर⟫ 3: içte bulunan, en yakın ; m. en yakın akraba, yerli
+
+⟪अरण्य⟫ n.: Vahşi doğa, orman
+
+⟪ऋतु⟫ m.: periyodik olay, mevsim, zaman dilimi, adet dönemi, kadınların gebeliğe hazır olduğu ve eşinin cinsel birleşme hakkına sahip olduğu zaman.
+
+::: note-box
+⟪ऋतु⟫ için Manu III, 45-48'e bakınız: buna göre ⟪ऋतु⟫ adet kanamasının başlangıcından itibaren 16 gün (alternatif çeviriye göre: 20 gün) sürer; adet kanamasının ilk dört günü cinsel ilişki yasaktır (alternatif çeviriye göre: ilk sekiz (4 + 4) gün), ayrıca 11. (veya 15.) ve 13. (veya 18.) günlerde de yasaktır. Çift sayılı günlerde kadın erkek çocuk, tek sayılı günlerde kız çocuk hamile kalır. Aşağıdaki kısımlar için, çoğu yerli yorumun yaptığı gibi ve bu da baskın görüş olduğu için, toplam 16 günlük bir ⟪ऋतु⟫ kabul edilir (alternatif çeviri değil).
+
+Ovülasyon adet kanamasının başlangıcından 14 gün önce gerçekleştiğinden, bu verimli dönem belirlemesiyle, adet kanaması aralıkları 19 ila 30 gün arasında olduğunda verimlilik neredeyse "garantilenir". Yasaklı günler (11. ve 13.) 12. ve 14. günlerde cinsel ilişki olasılığını artırır, yani 28 günlük bir döngüde hamile kalma olasılığı (kadındaki sperm ömrü yaklaşık 3 gündür). Bu düzenlemeler, Knaus-Ogino yönteminin adeta pozitif bir uygulaması olarak görülebilir.
 :::
 ⟪अतिथि⟫ m.: Konuk
 
@@ -574,4 +621,3 @@ Açıklama: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
 ⟪आसीच्च मे मनसि⟫ -- ⟪अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः⟫ , ⟪अहारः साधुजनगर्हितो मधुमांसादिः⟫ , ⟪श्रमो मृगया⟫ , ⟪शास्त्रं शिवारुतम्⟫ , ⟪समुपदेष्टारः सद्सतां कौशिकाः⟫ , ⟪प्रज्ञा शकुनिज्ञानम्⟫ , ⟪परिचिताः श्वानः⟫ , ⟪राज्यं शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि क्रुरकर्मसाधनानि धनूंषि⟫ , ⟪सहाया विषदिग्धमुखा भुजंगा इव सायकाः⟫ , ⟪गीतमुत्सादकारि मुग्धमृगाणाम्⟫ , ⟪कलत्राणि बन्दीगृहीताः परयोषितः⟫ , ⟪क्रूरात्मभिः शार्दूलैः सह संवासः⟫ , ⟪पशुरुधिरेण देवतार्चनम्⟫ , ⟪मांसेन बलिकर्म⟫ , ⟪चौर्येण जीवनम्⟫ , ⟪भूषणानि भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥ ४⟫. ⟪भानुचन्द्र⟫'ın (16. yy.) önceki ⟪कादम्बरी⟫ bölümüne ilişkin yorumu (bu alıştırma bir öğretmen rehberliğinde çevrilmelidir. Böyle biri yoksa, atlanabilir)
 
 ⟪आसीच्चेति । मे मम मनसि चित्त आसीद्बभूव । खेद इति शेषः । तदेव दर्शयति⟫ -- ⟪अहो इत्यादिना । अहो इत्याश्चर्ये । एतेषां भिल्लानां जीवितं प्राणितं मोहो ऽज्ञानं प्रायं प्रचुरं यत्र तादृशम् । चः पुनरर्थे । चरितमाचरणं साधुजनैः सज्जनजनैर्गर्हितं निन्दितम् । तदेव विशेषतो दर्शयति⟫ -- ⟪तथा हीति । पुरुषेति । पुरुषस्य पुंसो यत्पिशितं मांसं तस्य य उपहारो भगवत्यै नैवेद्यदर्शनं तस्मिन्धर्मबुद्धिः श्रेयोधीः । आहार इति । आहारः प्रत्यवसानं साधुजनैर्गर्हितो निन्दितो मधुमांसादिर्मधुः मद्यं माक्षिकं वा । मांसं प्रतीतम् । ते आदौ यस्येति बहुव्रीहिः । आदिशब्दात्कन्दादिपरिग्रहः । श्रम इति । श्रमः शक्तिसाधनायासो मृगयाखेटकः । शास्त्रमिति । शिवा सृगाली तस्य रुतं शब्दितं शास्त्रमुच्चस्वरवेदपाठः । प्रबोधजनकत्वसाम्यात्तदुपमानम् । सदिति । सदसतां शुभाशुभानां समुपदेष्टारो बोधकाः कौशिका उलूकाः । प्रज्ञेति । शकुनयः पत्त्रिणस्तेषां स्थूलमहत्त्वादिना ज्ञानं तदेव प्रज्ञा विवेकबुद्धिः । परीति । श्वानः सारमेयाः परिचिता विश्वासपालत्राणि । राज्यमिति । शून्यासु जनरहितासु विन्ध्याटवीषु राज्यं स्वामित्वम् । आपानकेति । उत्सवः संतुष्टिकार्यं तदेवापानमेवापानकम् । स्वार्थे कः । पानगोष्ठिका । मित्राणीति । क्रूरं यत्कर्म तत्साधनानि तद्धेतुभूतानि धनूंष्येव चापान्येव मित्राणि सहृदः । हितचिन्तकानीति यावत् । सहाया इति । विषेण दिग्धं मुखमाननं येषामेवंविधाः सायका बाणास्त एव सहाया इष्टकार्यकर्तृत्वात्साहाय्यकारिणः । क इव । भुजंगाः सर्पा इव । एतेषां विषदिग्धमुखत्वं स्वाभाविकम् । तेषामौपाधिकमिति भावः । गीतमिति । मुग्धा अनभिज्ञा ये मृगा हरिणास्तेषामुत्साहकारि स्तब्धताविधायि गीतं गानम् । कलत्रेति । परयोषितो ऽन्यस्त्रिय एव बन्दी ग्रहकस्तद्रूपत्वेन गृहीताः स्त्रीकृताः कलत्राणि स्वपत्न्यः । क्रूरेति । क्रूरात्मभिर्दुष्टात्मभिः शार्दुलैश्चित्रकैः समं संवासः सहावस्थानम् । पश्वेति । पशवो महिषास्तेषां रुधिरेण रक्तेन देवतार्चनं देवपूजनम् । मांसेनेति । मांसेन पिशितेन बलिर्हन्तकरस्तत्कर्म तत्कृत्यम् । चौर्येणेति । चौर्येण परद्रव्यापहारेण जीवनं प्राणधारणम् । भूषणनीति । भूषणान्याभरणानि भुजंगमणयः सर्परत्नानि । पर्वतवासित्वात्तेषां ते सुलभा इति भावः । वनेति । वनकरिणामरण्यहस्तिनां मदैर्दानवारिभिरङ्गरागो विलेपनम् । यस्मिन्निति । अनिर्दिष्टनामनि कानने वने निवसन्ति निवासं कुर्वन्ति तदेव काननमशेषतः समग्रत उत्खातमुत्पाटितं मूलं मध्यभागो यस्यैवंभूतं कुर्वते विदधत इति पूर्वोक्तप्रकारेण मयि चन्तयति ध्यायति सत्येव⟫ ... ⟪॥⟫
-

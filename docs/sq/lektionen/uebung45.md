@@ -1,65 +1,66 @@
 ---
-title: "Ushqim 45"
+title: "Ushtrimi 45"
 uebung_id: 45
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
-
-
-# Ushtrim 45
-
-A) Übersetzen Sie ins Sanskrit (verwenden Sie für die Vergangenheit das Imperfekt):
-
-⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Du spaltest die (buddhistische) Gemeinde.
-
-⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Habt ihr die Erde genossen?
-
-⟪३⟫. **⟪किं⟫ ⟪राज्ञो⟫ ⟪दानमादत्थाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **... ⟪राज्ञा⟫ ...**)
-Hast du vom König eine Gabe empfangen?
-
-⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
-
-⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Vater, wohin gehend verlässt du die Familie?
-
-⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra-Frau, hast du etwa die Last in das Haus des reichen Brahmanen getragen?
-
-⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
-
-⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oder: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Elefanten, ihr solltet die Fesseln nicht zerbrechen.
-
-⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Du löwengleicher Mann, warum richtest du deine Aufmerksamkeit nicht ganz auf das Absolute?
-
-⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Hast du, o Dichter, etwa die Welten gemessen?
 
 ---
 
-## Übungstexte
 
-B) Übersetzen Sie:
+# Ushqim 45
 
-⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, entweder wirst du getötet und den Himmel erreichen, oder du wirst siegen und die Erde geniessen. Deshalb ist von dir zu kämpfen (musst du kämpfen).
+A) Përktheni në sanskrit (për të kaluarën përdorni Imperfektin):
 
-⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
+⟪१⟫. **⟪सङ्घं भिनत्सि ॥ १ ॥⟫**
+Ti e shpërndan komunitetin (buddhist).
 
-⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Brahmane, hast du Ghee ins Opferfeuer gegossen?
+⟪२⟫. **⟪किं महीमभुङ्क्त ॥ २ ॥⟫**
+A e keni shijuar tokën?
 
-⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
+⟪३⟫. **⟪किं राज्ञो दानमादत्थाः ॥ ३ ॥⟫** (Ose: **... ⟪राज्ञा⟫ ...**)
+A ke marrë nga mbreti një dhuratë?
+
+⟪४⟫. **⟪साधो कस्माद्भयेभ्यो न बिभेषि ॥ ४ ॥⟫**
+O njeri i shenjtë, pse nuk frikësosh nga rreziku?
+
+⟪५⟫. **⟪पितः कुत्र गच्छन्कुलं जहासि ॥ ५ ॥⟫**
+O babë, ku po shkoni duke u larguar nga familja?
+
+⟪६⟫. **⟪शूद्रे ऽपि धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥ ६ ॥⟫**
+O grua śūdra, a ke bartur barrën në shtëpinë e brahmanit të pasur?
+
+⟪७⟫. **⟪देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥ ७ ॥⟫**
+O hyjni, ti duhet ta plotësosh dëshirën për lumturi të vaiśya-s, i cili ka bërë vepra meritore.
+
+⟪८⟫. **⟪हस्तिनो बन्धनानि न भञ्ज्यात ॥ ८ ॥⟫** (Ose: **... ⟪न भिन्द्यात ॥⟫**)
+O elefantë, ju nuk duhet të thyeni zinxhirët.
+
+⟪९⟫. **⟪नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥ ९ ॥⟫**
+O njeri i barabartë me luanin, pse nuk e përqendron vëmendjen tënde plotësisht në Absolut?
+
+⟪१०⟫. **⟪कवे कच्चिल्लोकानमिमीथाः ॥ १० ॥⟫**
+A ke matur, o poet, botët?
+
+---
+
+## Tekste stërvitore
+
+B) Përktheni:
+
+⟪१⟫. **⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥ १ ॥⟫**
+O Arjuna, ose do të vritesh dhe do ta arrish qiellin, ose do të fitosh dhe do ta shijosh tokën. Prandaj duhet të luftosh (duhet të bësh betejë).
+
+⟪२⟫. **⟪भवति कथमनन्तदुःखमरुणत् ॥ २ ॥⟫**
+Nderuarë, si e keni ndaluar vuajtjen e pafundme?
+
+⟪३⟫. **⟪ब्राह्मण किमग्नौ घृतमजुहोः ॥ ३ ॥⟫**
+Brahman, a ke hedhur gjalpë në zjarrin e sakrificës?
+
+⟪४⟫. **⟪शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥⟫**
+Armik, me shpatë nuk e ndan asnjëherë shpirtin (jetën).
 
 ::: media
 ![](/images/uebung074.webp)
-Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
-(Bildquelle: [Details](/licenses#uebung074))
+Fig.: ⟪हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung074))
 :::

@@ -656,8 +656,6 @@ Paradigma's: Kielhorn, Grammatik § 153:
 ![](/images/lekt6118.webp)
 Afbeelding: ⟪हरिद्वारे गावः ॥⟫
 (Bron afbeelding: [Details](/nl/licenses#lekt6118))
-:::
-## 61.8. Overige pronomina
 
 ### 61.8.1. Persoonlijke voornaamwoorden van de dualis
 
@@ -714,6 +712,8 @@ Femininum (⟪स्त्री⟫)
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
 ## 61.9. Ontslag in de oceaan van de Sanskritliteratuur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+
+Na afsluiting van de Sanskritcursus begint pas het echte "zwemmen" in de oceaan van de Sanskritliteratuur. Omdat deze oceaan vol hindernissen zit, is het gepast om dit nieuwe levensdeel te beginnen met een aanroep van Gaṇeśa:
 
 Na afsluiting van de Sanskritcursus begint pas het echte "zwemmen" in de oceaan van de Sanskritliteratuur. Omdat deze oceaan vol hindernissen zit, is het gepast om dit nieuwe levensdeel te beginnen met een aanroep van Gaṇeśa:
 

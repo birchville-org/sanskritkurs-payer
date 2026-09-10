@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "पाठ 49"
+subtitle: "आत्मनेपद के कृदंत का निर्माण (⟪⟪लोट्⟫⟫) अथेमैटिक वर्तमान काल के मूल (जारी)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ 49

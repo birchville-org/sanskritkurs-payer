@@ -1,15 +1,16 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Pamoka 60"
+subtitle: "Dualo perfektų galūnės (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 60
 
-## 60.1. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
+## 60.1. Dualo perfektinės galūnės (⟪द्विवचनम्⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -17,11 +18,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.2. Reduplikuoto perfecto dualas (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. 1 tipas: be šaknies laipsniavimo
 
-⟪बन्ध्⟫ 9P "binden"
+⟪बन्ध्⟫ 9P „rišti“
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +31,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen"
+⟪भाष्⟫ 1Ā „kalbėti“
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -39,9 +40,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. 2 tipas: stiprioji šaknis aukštuoju laipsniu, silpnosios šaknies žemasis laipsnis
 
-⟪भिद्⟫ 7U "spalten"
+⟪भिद्⟫ 7U „skaldyti“
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -50,11 +51,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. 3 tipas: stiprioji šaknis aukštuoju / pailgintuoju laipsniu
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 60.2.3.1. 3a tipas: stiprioji šaknis aukštuoju / pailgintuoju laipsniu, silpnosios šaknies žemasis laipsnis
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U „vesti“
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +64,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
+⟪स्तु⟫ 2U (⟪अनिट्⟫) „girti“
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -72,370 +73,366 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
+⟪कृ⟫ 8U (⟪अनिट्⟫) "to do, to make"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 60.2.3.2. Type 3b: Strong stem guṇa/lengthened grade, weak stem guṇa
 
-⟪स्मृ⟫ 1P "vergegenwärtigen"
+⟪स्मृ⟫ 1P "to present, to show"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. Type 4: Roots ending in -ā / -ai
 
-⟪दा⟫ 3U "geben"
+⟪दा⟫ 3U "to give"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
-| 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
+| 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ * |
+| 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ * |
 
-\* identisch mit den entsprechenden Formen des Indikativ Präsens!
+* identical to the corresponding forms of the Indicative Present!
 :::
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+### 60.2.5. Type 5: Consonant-a-Consonant
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 60.2.5.1. Type 5a: Consonant-a-Consonant, weak stem zero-grade
 
-⟪गम्⟫ 1U "gehen"
+⟪गम्⟫ 1U "to go"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 60.2.5.2. Type 5b: Consonant-a-Consonant, initial consonant not guttural, aspirate, h; weak stem without reduplication, with -e-
 
-⟪पच्⟫ 1U "garen"
+⟪पच्⟫ 1U "to cook"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 60.2.5.3. Type 5c: Consonant-a-Consonant, weak stem guṇa grade
 
-⟪क्रम्⟫ 1U "schreiten"
+⟪क्रम्⟫ 1U "stride"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. The Dual of the Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
 
-⟪गण्⟫ 10P "zählen"
+⟪गण्⟫ 10P "count"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen"
+⟪आस्⟫ 2Ā "sit"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. The Participle ⟪परस्मैपद⟫ of the Reduplicated Perfect (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**schwacher Perfektstamm + vāṃs**
+**weak perfect stem + vāṃs**
 
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.**
+**If the weak perfect stem consists of only one syllable, then the connecting vowel -i- is added. For some perfects, the connecting vowel is optional.**
 :::
-Beispiele:
+Examples:
 
-| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
+| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "one who has split" |
 | --- | --- |
-| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
-| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
-| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "one who has been" ; "one who has thrown" |
+| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "one who has given" |
+| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "one who has cooked" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "one who has gone" |
 
 ::: grammar-box
-**Deklination:**
+**Links:**
 
-*   **starker Stamm: -vāṃs**
-*   **schwacher Stamm:**
-    *   **vor Konsonant:** **-vat** **(!)**
-    *   **vor Vokal: -uṣ**
+*   **Starker kamienas: -vāṃs**
+*   **Silpnasis kamienas:**
+*   **prieš priebalsius: -vat** **(!)**
+*   **prieš balsius: -uṣ**
 
-**Vor uṣ entfällt der Bindevokal -i-.**
+**Prieš uṝ, jungtukinis balsis -i- dinga.**
 
-**Feminin:**
+**Moteriškosios giminės:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**Silpnasis kamienas prieš balsius + -ī (links kaip ⟪देवी⟫)**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende"
+Pavyzdys: ⟪विदुषी⟫ „žinanti“
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124:
+Paradigmas žr. Kielhorn, Gramatika § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6002))
 :::
-## 60.5. Deklination der Stämme auf -añc (-ac)
+## 60.5. Kamienų su -añc (-ac) linksniavimas
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
+**Kamienai su -añc/-ac yra junginiai priešdėlių ir kt. su šaknies daiktavardžiu iš šaknies ⟪अञ्च्⟫ / ⟪अच्⟫ 1U „judėti“.**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 60.5.1. Trijų kamienų -añc kamienai
 
 ::: grammar-box
-**Bildung:**
+**Formavimas:**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm:**
-    *   **vor Konsonant: -ac**
-    *   **vor Vokal:**
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**
-            ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+*   **Starkus kamienas: -añc**
+*   **Silpnasis kamienas:**
+*   **prieš priebalsius: -ac**
+*   **prieš balsius:**
+*   **-a- iš silpniojo kamieno -ac dingsta, o prieš tai esančiam pusbalsiui pakeičiamas atitinkamas ilgas balsis:**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच् अन्वच्⟫ » ⟪अनूच्⟫
+*   **Jei prieš -ac nėra pusbalsio, -ac pakeičiamas į -īc:**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:**
+**Moteriškoji giminė:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**Silpnasis kamienas prieš balsius + -ī (linksniavimas kaip ⟪देवी⟫)**
 
-Beispiel: ⟪प्रतीची⟫
+Pavyzdys: ⟪प्रतीची⟫
 :::
-####  Paradigmen siehe Kielhorn, Grammatik § 128:
+#### Paradigmas žr. Kielhorn, Gramatika § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6004))
 :::
-Hierher gehören:
+Čia priskiriamos:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich"
+*   ⟪प्रत्यञ्च्⟫ 3 "atgal, vakarinė"
 
-*   ⟪अन्वञ्च्⟫ 3 "folgend"
+*   ⟪अन्वञ्च्⟫ 3 "sekantis"
 
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich"
+*   ⟪उदञ्च्⟫ 3 "į viršų nukreiptas, šiaurinis"
 
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren"
+*   ⟪तिर्यञ्च्⟫ 3 "horizontaliai judantis (gyvūnų"
 
-*   ⟪सम्यञ्च्⟫ 3 "richtig"
+*   ⟪सम्यञ्च्⟫ 3 "teisingas"
 
-*   ⟪न्यञ्च्⟫ 3 "niedrig"
+*   ⟪न्यञ्च्⟫ 3 "žemas"
 
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend"
+*   ⟪विष्वञ्च्⟫ 3 "į visas puses judantis"
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+
+### 60.5.2. Dvigalčiai kamensiniai šaknys su -añc
 
 ::: grammar-box
-**Bildung:**
+**Formavimas:**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
+*   **stiprus kamienas: -añc**
+*   **silpnas kamienas prieš priebalsį arba balsę: -ac**
 :::
-Hierher gehören:
+Čia priskiriamos:
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich"
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet"
+*   ⟪प्राञ्च्⟫ 3 "į priekį nukreiptas, rytinis"
+*   ⟪अवाञ्च्⟫ 3 "žemyn nukreiptas"
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben!
+Paradigma ⟪प्राञ्च्⟫ žr. aukščiau!
 
-Die Haupthimmelsrichtungen
+Pagrindinės pasaulio šalys
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟫ 3:br"į viršų nukreiptas,:bršiaurinis" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"atgal,:rvakarinis" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"į priekį nukreiptas,:brytinis" |
+|   | ⟪दक्षिण⟫ 3:brdešinė,:bsiaurinis |   |
 
-(Bildquelle: [Details](/licenses#lekt6005))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. Desideratyvas (⟪सन्⟫)
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen ausserhalb des Präsensstamms sind aber sehr selten.**
+**Iš kiekvienos šaknies bei kauzatyvo galima sudaryti desiderativą (⟪सन्⟩). Desideratyvas gali būti linksniuojamas visais laiko ir nuosakos formomis P, Ā ir Passiv. Desideratyvinės formos už praeities kamieno ribų yra labai retos.**
 
-**Bedeutung:**
+**Reikšmė:**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird**
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird**
+*   **asmuo arba daiktas nori padaryti ar patirti tai, ką išreiškia šaknis arba kauzatyvas**
+*   **rečiau: kas nors ar kažkas yra linkęs padaryti tai, ką išreiškia šaknis arba kauzatyvas**
 :::
-####  Beispiele:
+####  Pavyzdžiai:
 
-| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
+| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ „jis nori daryti“ |
 | --- | --- |
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
-| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ „jis ketvirtas kristi“ |
+| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ „jis nori vogti“ |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ „jis nori mokyti (budinti į žinojimą)“ |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. Desideratyvinio kamieno formavimas
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:**
+**Prienų klasės 1–9 šaknys:**
 
-**reduplizierte Wurzel + sa**
+**redupliuota šaknis + sa**
 
-**oder:**
+**arba:**
 
-**reduplizierte Wurzel + i + ṣa**
+**redupliuota šaknis + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445.
+Taisyklės dėl jungiamosios balsės -i- naudojimo žr. Kielhorn, Gramatika § 443–445.
 
-**Wurzeln der 10. Präsensklasse und Kausative:**
+**10-osios priešakinių laikų klasės šaknys ir kausatyvai:**
 
-**reduplizierter Präsensstamm + i + ṣa**
+**redupliuotas priešakinių laikų kamienas + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:**
+**Šaknies forma:**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-
+1. Šaknis dažniausiai yra vidutinio laipsnio: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:
-        ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"
+1. galinėje pozicijoje esantys -i, -u pakeičiami atitinkamai -ī arba -ū, jei neseką jungiamoji balsė:  
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- „norėti nugalėti“  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- „norėti bėgti“  
 
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:
-        ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "zu füllen wünschen"
+2. galinėje pozicijoje esantys -ṛ, -ṝ pakeičiami atitinkamai -īr arba po labialų -ūr, jei neseką jungiamoji balsė:  
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- „norėti daryti“  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- „ketvirtas mirti“  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- „norėti pripildyti“  
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:
-        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
-        ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-
+3. ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ir keletas kitų šaknų su -ā, -e, -o turi vidutinio laipsnio Ø:  
+⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
+⟪धा⟫ » ⟪धित्स⟫-  
+⟪मा⟫ » ⟪मित्स⟫-  
 
-2.  Hochstufige Wurzel haben im Desiderativ:
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):
-        ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"
+2. Aukšto laipsnio šaknys desideratyve turi: 
+1. dauguma šaknų su -ā (-e, -ai ir kt.):  
+⟪गै⟫ » ⟪जिगास⟫- „norėti dainuoti“  
+⟪पा⟫ » ⟪पिपास⟫- „norėti gerti, trokšti“
 
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"
+2.  the majority of roots with the form (consonant -) a / ā - consonant:  
+⟪दह्⟫ » ⟪दिधक्ष⟫- "to wish to burn"  
+⟪खाद्⟫ » ⟪चिखादिष⟫- "to wish to chew"  
 
-    3.  bei Antreten des Bindevokals -i-:
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"
+3.  upon the addition of the connecting vowel -i-: 
+1.  obligatory: roots with the form i/u - consonant as well as (consonant -) ṛ/ḷ - consonant:  
+⟪इष्⟫ » ⟪एषिषिष⟫- "to wish to desire"  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "to wish to be suitable"  
+⟪स्मि⟫ » ⟪सि⟩:sig[⟪स्म⟩]⟪यिष⟩- "to wish to smile"  
 
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant ausser -v\_
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
+2.  optional: roots with the form consonant - (consonant -) i/u - consonant except -v\_  
+⟪द्युत्⟩ » ⟪दिद्योतिष⟩- / ⟪दिद्युतिष⟩- "to wish to flash"
 :::
 ::: grammar-box
-**Zur Reduplikation:**
+**On reduplication:**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:
-:::
-::: indent
-⟪पा⟫ » ⟪पिपास⟫-
-⟪त्यज्⟫ » ⟪तित्यज⟫-
-⟪चुर्⟫ » ⟪चुचोरयिष⟫-
-Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-
-:::
+1.  Consonant-initial roots: Reduplication takes place on the roots modified according to the above rules, following the usual rules. Instead of a as the reduplicating vowel, i appears:  
+⟪पा⟩ » ⟪पिपास⟩-  
+⟪त्यज्⟩ » ⟪तित्यज⟩-  
+⟪चुर्⟩ » ⟪चुचोरयिष⟩-  
+The cerebralization after i/u of final -s of the root is omitted if the s of the desiderative suffix is cerebralized:  
+⟪स्मि⟩ » ⟪सिस्मयिष⟩-  
 
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:
-::: indent
-⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
-⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
-⟪ऋ⟫ » ⟪अरिरिष⟫-
-:::
+2.  Vowel-initial roots are reduplicated according to the corresponding rules for the reduplicated aorist ([Lesson 56](lektion56.md)):  
+⟪इष्⟩ » ⟪एषिषिष⟩- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟩ » ⟪ईचिक्षिष⟩- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟩ » ⟪अरिरिष⟩-  
 
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
+3.  For the special desiderative formation of certain roots, see Kielhorn, Grammar § 451.
+:::
 ::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
+**Kai kurioms šaknims sudaromi desideratyvai be desideratyvinės reikšmės. Iš šių desiderativų gali būti sudaromi desideratyvai su desideratyvine reikšme.**
 :::
-Liste bei Kielhorn, Grammatik § 452:
+Sąrašas pas Kielhorn, Gramatika § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6006))
 :::
-### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
+### 60.6.2. Desideratyvo konjugacija (⟪सन्⟫)
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
+**Desideratyvas – su keliomis išimtimis – yra P, Ā arba U, priklausomai nuo to, ar pagrindinė šaknis (arba pagrindinis veiksmažodžio kamienas) yra P, Ā arba U.**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:**
+**Dabarties kamienas: Konjugacija kaip tematinis kamienas:**
 
 ⟪यज्⟫ 1U:
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
-Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
+P: ⟪यियक्षति⟫ "jis nori aukoti už kitą"
+Ā: ⟪यियक्षते⟫ "jis nori aukoti už save (kaip aukoje valdovą)"
+Pusiauji: ⟪यियक्ष्यते⟫ "norima aukoti"
 :::
-**Perfekt: periphrastisch:**
+**Perfekto: periphrastiškai:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ "jis norėjo pasiekti"
 :::
-**Aorist: iṣ-Aorist:**
+**Aoristas: iṣ-aoristas:**
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫**
+**Futūras: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
+Dėl veiksmažodinių daiktavardžių, sudarytų iš -u kamieno iš desideratyvo kamieno, žr. [54 pamoka](lektion54.md).
 
-## 60.7. Übung
+## 60.7. Pratimas
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben:
+A) Išmokite pagal Kielhorn, Gramatika § 451 netaisyklingus desideratyvų formavimus iki šiol išmoktiems veiksmažodžiams:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
+B) Nustatykite ir išveriskite šias formas be pagalbos priemonių:
 
 1.  ⟪ददुषोः⟫
 

@@ -389,7 +389,7 @@ Periphrasticum perfectum ita formatum est:
 ::: grammar-box
 Quia verbum finitum (verbum coniugatum) agentem (⟪कर्तृ⟫) simul exprimit, "ego", "nos" in sententiis verbalibus non-passivis cum verbo finito extra per pronomen personale exprimi non debet
 :::
-## 40.5. Pronomina personalia (⟪पुरुषार्थकसर्वनाम⟫) primae personae singularis et pluralis
+## 40.5. Pronominalia personalia (⟪पुरुषार्थकसर्वनाम⟫) primae personae singularis et pluralis
 
 ::: grammar-box
 Forma pronominalis personalis (pronomini personali) est eadem pro omnibus generibus.
@@ -433,7 +433,6 @@ Ut pars prior compositorum pro his pronomini bus stant radices:
 
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ordinem rectum habere, convenire (Loc.) ; se formare, se constituere ; ad aliquid se determinare, se accommodare (Dat.)
 
-:::
 ::: indent
 Perf. II ⟪चकॢपे⟫ facultīvum ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  

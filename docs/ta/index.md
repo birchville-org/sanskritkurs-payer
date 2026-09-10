@@ -2,24 +2,24 @@
 layout: home
 
 hero:
-  name: "சமசுகிருத பாடநெறி"
-  text: "ஒரு முழுமையான பாடத்திட்டம்"
-  tagline: "Alois Payer அவர்களால் (Tüpfli's Global Village Library)"
+  name: "சமஸ்கிருத பாடம்"
+  text: "ஒரு முழுமையான கற்றல் நிரல்"
+  tagline: "அலாய்ஸ் பையர் (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: "பாடநெறியைத் தொடங்குக"
+      text: "பாடத்தைத் தொடங்கு"
       link: /ta/lektionen/lektion01
     - theme: alt
-      text: "இலக்கணத் தலைப்புகள்"
+      text: "Grammatik Themen"
       link: /ta/grammatik
 
 features:
-  - title: "உலகளாவிய & பலமொழி"
-    details: "ஒரு தானியங்கி, பல-நிலை AI மொழிபெயர்ப்பு அடுக்கு வழியாக 20+ மொழிகளில் முழுமையாகக் கிடைக்கிறது."
-  - title: "ஆஃப்லைன்-முதன்மை PWA"
-    details: "முழு பாடநெறியும் (உள்ளூர் தேடல் இயந்திரம் உட்பட) செயலில் உள்ள இணைய இணைப்பு இல்லாமல் அனைத்துச் சாதனங்களிலும் பயன்படுத்தக்கூடியது."
-  - title: "அறிஞர் தர அச்சுவடிவமைப்பு"
-    details: "Devanāgarī மற்றும் IAST எழுத்துப்பெயர்ப்புக்கு சொந்த ஆதரவு, துல்லியமான கல்விசார் உரை சீரமைப்புடன்."
+  - title: "Global & Polyglot"
+    details: "Vollständig verfügbar in 20+ Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade."
+  - title: "Offline-First PWA"
+    details: "Der gesamte Kurs (inklusive lokaler Suchmaschine) ist ohne aktive Internetverbindung auf allen Endgeräten nutzbar."
+  - title: "Scholarly Typography"
+    details: "Nativer Support für Devanāgarī und IAST-Transliteration mit exakter akademischer Textausrichtung."
 
 ---
 

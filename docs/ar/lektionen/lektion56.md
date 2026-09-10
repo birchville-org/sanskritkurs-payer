@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "الدرس 56"
+subtitle: "الماضي المزدوج"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 56
@@ -307,4 +308,3 @@ status: stable
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

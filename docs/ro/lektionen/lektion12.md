@@ -1,10 +1,11 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Lecție 12"
+subtitle: "Participiul Perfect Pasiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 12

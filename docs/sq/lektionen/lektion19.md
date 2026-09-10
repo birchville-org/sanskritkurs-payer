@@ -1,222 +1,210 @@
 ---
-title: Lektion 19
+title: "Mësimi 19"
 lesson_id: 19
+
 ---
 
 # Mësimi 19
 
-## 19.1. Der Relativsatz
+## 19.1. Propozicioni relativ
 
 ::: grammar-box
 
-**Schema:**
+**Skema:**
 
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
+**Pronomi relativ -- Propozicioni relativ, që përmban emrin te i cili referohet propozicioni relativ -- (Pronomi demonstrativ) -- Propozicioni kryesor**
 
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
+**Propozicioni relativ mund të qëndrojë edhe pas propozicionit kryesor, por nuk mund të vendoset brenda propozicionit kryesor.**
+
+**Pronomi relativ dhe fjalia lidhëse, e cila - në kontrast me gjermanishten - qëndron në propozicionin relativ, ndodhet në rastin që propozicioni relativ kërkon sintaksikisht. Pronomi demonstrativ ndodhet në rastin që propozicioni kryesor kërkon sintaksikisht.**
 :::
 
-Beispiele:
+Shembuj:
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
+Shënim: Në propozicione me përmbajtje të përgjithshme, shpesh përdoret optativu në vend të indikativit. Prandaj, shumë nga shembujt tanë do të preferoheshin në optativ.
 
-**1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
+**1. Agjenti (⟪कर्तृ⟫) i propozicionit përcaktohet më tej nga një propozicion relativ:**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
+⟪यो नरः पुण्यं करोति स स्वर्गं गच्छति⟫ =  ⟪यो नरः पुण्यं करोति तेन स्वर्गं गम्यते⟫ = ⟪येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते⟫ etj. = "Një burrë, që bën vepra të vlefshme, shkon në qiell."
 :::
-**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
+**2. Objekti i drejtë (⟪कर्म⟫) i propozicionit kryesor përcaktohet më tej nga propozicioni relativ:**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
+⟪यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति⟫ = "Perënditë mbrojnë një brahman, që u flijon atyre si zotër i sakrificës."
 :::
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
+**3. Përcaktimi më i afërt i një emri të propozicionit kryesor qëndron në propozicionin relativ:**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
+⟪ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते⟫ = "Birrat e burrave, që bëjnë të keqe, nuk marrin pasuri."
 :::
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
+**4. Pronomi relativ dhe fjalë lidhëse janë në gjinitiv (⟪षष्ठी⟫):**
 
 ::: indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
+⟪यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान्⟫ = "Nuk është njeriu i lumtur, të cilit bijtë bëjnë keq."
 :::
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
+**5. Pronomi relativ dhe fjalë lidhëse janë në instrumentalis (⟪तृतीया⟫):**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
+⟪येन शत्रुणा ग्रामो जितस्तं द्विषन्ति⟫ = "Ata e urrejnë armikun, i cili ka mundur / pushtuar fshatin e tyre."
 :::
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
+**6. Pronomi relativ dhe fjalë lidhëse janë në akuzativ (⟪द्वितीया⟫):**
 
 ::: indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
+⟪यं नरं देवी रक्षति स सुखमाप्नोति⟫ = "Një njeri, të cilin e mbron hyjnesha, arrin fat."
 :::
-## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. Pronomi relativ = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::: grammar-box
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmässigem Sandhi.**
+**⟪यद्⟫ "cilës, cilët, cila" përkthen si ⟪तद्⟫, por me sandhi të rregullt.**
 
-| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
+| | **Maskulin** :br ⟪पुंस्⟫ | **Neutër** :br ⟪नपुंसक⟫ | **Feminin** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **2. Akuzativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| | **6. Gjenitiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
 | **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Akuzativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| | **6. Gjenitiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
-**Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
+**Si stema ⟪यद्⟫ shfaqet si komponenti i parë i fjalëve të përbashkëta (duke marrë parasysh Sandhin).**
 
 :::
 
-## 19.3. Wortliste
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+## 19.3. Lista e fjalëve
 
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+**⟪अर्थ⟫ m.:** qëllim, synim, kuptim (i një fjale), pasuri, pronë, mjet. ⟪अर्थम्⟫ (Akuzativ), ⟪अर्थेन⟫ (Instrumental) me Gjenitiv ose si komponenti i dytë i një Tatpuruṣa: për ... arsye, për të.
+
+⟪अर्थ⟫ është një nga tre qëllimet e jetës (⟪पुरुषार्थ⟫), siç përshkruhen në letërsinë sekulare dhe fetare:
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.:** fitimi i meritës përmes veprimit të asaj që është e drejtë, ose së paku shmangia e keqes, e cila do të rezultonte nga moszbatimi i Dharmës
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.:** sjellje qëllimore, fitimi i mirëqenies
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.:** kënaqësia e shqisave, veçanërisht edhe në fushën seksuale
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+Fig.: ⟪कामः⟫
+Ilustrim për ⟪कामसूत्र⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pas. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** qëndroj, mbetem, qëndro i pandryshuar, ndodhem. (Tradicionisht klasifikohet në klasën e parë të prezencës, megjithatë është një klasë tematike prezence me reduplikim, si ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** afrohu, qëndro me respekt para dikujt
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** nis, largohu
 
-von ⟪स्था⟫ :
+nga ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** vend, (i) drejtë, pozicion
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.:** qëndrim, durim, mbetja në vend
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** bark, shtrati i nënës, brendësi, embrion / fetus. Në fundin e një Bahuvrīhi shpesh: "brendësi", p.sh.
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "brendi i brendshëm është paraja = në të cilin ndodhet para"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** dhoma më e brendshme e shenjtë e një tempulli hindu, që përmban imazhin më të rëndësishëm hyjnor të tempullit (për ndërtimin e tempujve hindu shihni: Volwahsen, A.: India : Ndërtimet e Hinduve, Budistëve dhe Xhainëve. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** mbajtës uji = re shiu
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** fryn
 
-davon:
+prej tij:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** erë
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** udhëheq, ngas (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ n.:** kumbull dielli, parashutë
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+Fig.: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), në veshje tradicionale është një zakon në pjesët jugore të Kerala-s. _Onappottan_ viziton shtëpitë gjatë _onam-it_ dhe jep bekime. Kohët e fundit _onappottan-i_ ka bërë një pamje të rrallë, i kufizuar në fshatra."
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.:** dijetar, i urtë ; 3: zgjuar, i aftë (në)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** banon pranë, banon (Akuz., Lok.) ; viziton, shkon te (Akuz.) ; shërben, kujdeset për, adhuron ; praktikon, përdor ; bashkohet seksualisht
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ Paraprefix:** poshtë, brenda
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** banohet pranë, banon, viziton
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** atje, në botën tjetër
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** këtu, në këtë botë
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pës. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** gjen
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ f.:** ajo që duhet të ruhet = bashkëshorte
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 3:** i dashur, i këndshëm
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ n. (!):** mik
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ m.:** i afërm
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ :** sepse, po në fakt (nuk lejohet të qëndrojë kurrë në fillim të fjalisë)
 
-## 19.4. Übung
+## 19.4. Ushtrimi
 
-**Übersetzen Sie ins Sanskrit:**
+**Përktheni në sanskritisht:**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint.
+1. Gruaja vaiśya, të cilës i ka vdekur biri, qan.
 
-2\. Rāma opfert der Gottheit, die ihn behütet.
+2. Rama flijon hyjnise që e mbron atë.
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt.
+3. Përkuesi lavdëron kṣatriyan, të cilin pasurinë e tij dëshiron.
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
+4. Zjarri djeg shtëpinë e burrit që nuk e nderon Agnin me një flijim.
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
+5. Burri i ngjashëm me tigër vret luftëtarët kṣatriya, të cilët Rama ka mundur (Pësore).
 
 ## 19.5. ⟪सुभाषितानि⟫
 
-**Übersetzen Sie:**
+**Përktheni:**
 
 ::: indent
-⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
-⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
+⟪येन येन च वातेन वारिदो वारि मुञ्चति । तेन तेन च वातेन छत्रं वहति पण्डितः ॥१॥⟫
 :::
-Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
+Shpjegim: ⟪वारि⟫ Nj., Ak. sg. për ⟪वारि⟫ n.: ujë
 
 ::: indent
-⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
-⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
-⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
+⟪यो धर्ममर्थं कामं च यथाकालं निषेवते । धर्मार्थकामसंयोगं सो ऽमुत्रेह च विन्दति ॥२॥⟫
 :::
-Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+Shpjegim: ⟪यथाकालम्⟫ Kompozit Avyayībhāva: në kohën e duhur; gjithmonë, kur ekziston momenti i duhur për këtë.
 
 ::: indent
-⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
-⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
-⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
+⟪सा भार्या या प्रियं ब्रूते स पुत्रो यस्तु जीवति । स जीवति गुणो यस्य धर्मो यस्य स जीवति ॥३॥ यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः । यस्यार्थाः स पुमांल्लोके यस्यार्थाः स हि पण्डितः ॥४॥⟫
 :::
-Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
+Shpjegim: ⟪पुमान्⟫ Nom. sg. për ⟪पुंस्⟫ "njeri" ; ⟪लोके⟫ Lokativ sg. për ⟪लोक⟫ m.: në ...
 

@@ -3,6 +3,7 @@ title: "[Gyakorlat 38]"
 uebung_id: 38
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -47,7 +48,7 @@ A világ élvezete a királyok kötelessége.
 Erős elefántokat kell adni a királynak.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā megteremtette a világokat.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 Magunk követünk el rosszat, magunk tartózkodunk a rossztól.

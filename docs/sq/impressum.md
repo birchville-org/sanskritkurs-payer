@@ -1,35 +1,35 @@
 ---
 layout: doc
-titulli: Impressum & Citim
+title: "Imprint dhe Citim"
+
 ---
 
-# Impressum, Copyright & Zitierweise
+# Impressum, Copyright & Citimë
 
-*Der folgende Text wurde bei der Konvertierung aus den Lektions-Dateien ausgelagert, um den Lesefluss zu verbessern.*
+*Teksti i mëposhtëm u shkëput gjatë konvertimit nga skedarët e mësimeve për të përmirësuar rrjedhshmërinë e leximit.*
 
-## Zitierweise | cite as:
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
+## Citim | cite as:
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Versioni i vitit 2010. -- URL: http://www.payer.de/sanskritkurs/
 
-## Anlass
-Erstellt für die Lehrveranstaltungen 1980 - 1984
+## Arsyeja
+I krijuar për kurset mësimore 1980 - 1984
 
 ## Copyright
-Dieser Text steht der Allgemeinheit zur Verfügung. 
-Eine Verwertung in Publikationen, die über übliche Zitate hinausgeht, bedarf der ausdrücklichen Genehmigung des Verfassers.
+Ky tekst është në dispozicion të publikut. 
+Përdorimi i tij në botime që tejkalon citimet e zakonshme kërkon miratimin eksplicit të autorit.
 
-Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Library**.
+Ky tekst është pjesë e seksionit Sanskrit i **Tüpfli's Global Village Library**.
 
 ---
 
-## Lizenz dieser Publikation
+## Licenca e kësaj publikimi
 
-**Originaltext** (deutsche Lektionen): © Alois Payer. Der Text steht der Allgemeinheit zur Verfügung; eine Verwertung in Publikationen bedarf der ausdrücklichen Genehmigung des Verfassers.
+**Teksti origjinal** (mësimet gjermane): © Alois Payer. Teksti është në dispozicion të publikut; përdorimi i tij në botime kërkon miratimin eksplicit të autorit.
 
-**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) und **technische Pipeline** (Skripte, QA-Viewer, VitePress-Konfiguration):
+**Përkthimet e gjeneruara nga AI** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) dhe **pipeline teknike** (skriptet, shikuesi QA, konfigurimi VitePress):
 
-- Übersetzungen: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
-- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
+Përkthime: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Attribution, Share Alike
+Kod/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
-**Zitierweise für die Übersetzungen:**
-> Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
-
+**Citim për përkthimet:**
+> Payer, Alois: Sanskritkurs. Përkthyer me ndihmën e AI. Marco Demarmels (Ed. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

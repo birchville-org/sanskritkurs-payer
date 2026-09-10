@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "ਪਾਠ 58"
+subtitle: "ਦੋਵੇਂ ਵੱਖਰੀਆਂ ਸਮਾਪਤੀਆਂ (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 58
@@ -457,4 +458,3 @@ B) ਹੇਠ ਲਿਖੇ ਰੂਪਾਂ ਦਾ ਅਨੁਵਾਦ ਅਤੇ �
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

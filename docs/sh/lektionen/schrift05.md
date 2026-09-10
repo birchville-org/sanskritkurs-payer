@@ -1,17 +1,17 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
-## Schriftübung 5
+## Pismo vježba 5
 
 ![](/images/schrift008.webp)
 
-## Vežba
+## Vježba
 
-A) Schreiben Sie in Devanāgarī:
+A) Napišite na Devanagariju:
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 
-B) Lesen und transliterieren Sie:
+B) Čitajte i transliterirajte:
 
-⟪फूत्⟫ ⟪विठोबा⟫ ⟪वितथ⟫ ⟪पाययति⟫ ⟪छलकं⟫ ⟪खेदो⟫ ⟪पाठीनं⟫ ⟪छिदुरा⟫ ⟪खेडकं⟫ ⟪खटू⟫ ⟪मुखं⟫ ⟪मुथहा⟫ ⟪नाथो⟫
+⟪फूत् विठोबा वितथ पाययति छलकं खेदो पाठीनं छिदुरा खेडकं खटू मुखं मुथहा नाथो⟫
 
 

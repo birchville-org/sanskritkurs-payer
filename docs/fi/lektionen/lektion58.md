@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Oppitunti 58"
+subtitle: "Dualin primääripäätteet (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 58
@@ -445,4 +446,3 @@ B) Käännä ja määritä seuraavat muodot:
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

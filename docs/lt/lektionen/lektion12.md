@@ -1,95 +1,97 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Pamoka 12"
+subtitle: "Perfekto dalyvio kamandainis (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 12
 
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Perfekto dalyvio būtojo kilmės (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Vienas būdų sudaryti praeities laiko būtojo kilmės sakinius yra konstrukcija su vadinamuoju Perfekto dalyviu būtojo kilmės (PPP).
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**Iš tikrųjų PPP nėra tikras dalyvis, nes jis nededamas nuo laiko šaknies. Tai yra nominalinis darinys prie šaknies su pirminiu priesaga -ta arba -na. Todėl indiškoje gramatikoje kalbama apie priesagą kta.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Schema tolesniems veiksmažodžiams
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Veikėjas (kartṛ) įnagininkas (tṛtīyā) -- tiesioginis objektas (karman) vardininkas (prathamā) -- Perfekto dalyvis būtojo kilmės**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+Šiuo atveju PPP sutampa su objektu skaičiumi, linksniu ir giminė.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+Pagalbinis veiksmažodis („būti“) nėra būtinas.
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Pavyzdžiai:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nuo šventojo buvo pasiektas dangus) = Šventasis pasiekė dangų.“
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Nuo brahmano buvo garbinta deivė aukojant) = Brahmanas garbino deivę aukodamas.“
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. I schema netiesiniams veiksmažodžiams ir judesio veiksmažodžiams
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Veikėjas (kartṛ) vardininkas (prathamā) -- Perfekto dalyvis būtojo kilmės**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+Šiuo atveju PPP sutampa su veikėju skaičiumi, linksniu ir giminė. „Būtojo kilmės“ dalyvis netiesiniams veiksmažodžiams (veiksmažodžiams be tiesioginio objekto) ir judesio veiksmažodžiams turi aktyvią reikšmę.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Pavyzdys:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijos motis nuėjo į miestą.“
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. II schema nebeigiamiesiems veiksmažodžiams ir judesio veiksmažodžiams
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Agentas (kartṛ) įnagininku (tṛtīyā) -- PPP nominatyve vienaskaitos vidurinio lyties**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+Pavyzdys:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Nuo kšatrijos buvo (į miestą) eita) = Kšatrija yra (į miestą) ėjęs.“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+II schema konstrukcija yra daug rečiau pasitaikanti nei I schema konstrukcija.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. Dėl PPP reikšmės
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Taigi, nors vadinamasis „Perfecto Participo Passyvus“ (Participium Perfecti Passive) daiktiniams veiksmažodžiams pirmiausia turi pasyvų reikšmę (**āpta** = „pasiektas (būta)“) ir nebeigiamiesiems veiksmažodžiams bei judesio veiksmažodžiams aktyvią reikšmę (**gata** = „ėjęs“), yra keletas veiksmažodžių, kuriems PPP gali turėti tiek aktyvią, tiek pasyvų reikšmę:
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+pvz.
+**gata** = ⟪गत⟫ = „ėjęs“ (aktyvi); bet taip pat: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „nuo eito kelias“ (pasivus)
+**āpta** = ⟪आप्त⟫ = „pasiektas būta“ (pasivus), „pasiekęs turintis“ (aktyvi)
 
-## 12.3. Bildung des PPP
+
+## 12.3. PPP formavimas
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Pasitaiko šie formavimo būdai (kiekvienam šaknies žodžiui reikia mokytis jo PPP!):
 
-**(meist) tiefstufige Wurzel**
+**(dažniausiai) giluminės laipsnio šaknis**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
-- **+ -na**
+**+ -ta**
+su jungtiniu balsiu **-i-** prieš tai: **-ita**
+be jungtinio balsio: **-ta**
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Moteriškosios giminės kamienai skamba: **-tā**, **-itā**, **-nā**; vidurinioji giminė linksniuojasi kaip **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP su -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Be jungtinio balsio -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = „be (*an-*) priesagos prieš tai esančio (*-i-*) *t*“ (t.y. be jungtinio balsio *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Retention of the connecting vowel: The Perfect Passive Participle (PPP) is generally formed from roots ending in a vowel as well as from many other roots, without a fixed rule being given as to which structured roots exhibit the connecting vowel and which do not.
 
 Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 :::
-**Beispiele:**
+**Examples:**
 
 ::: grammar-box
 | Wurzel | PPP (kta) |
@@ -109,9 +111,9 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 :::
 #### 12.3.1.2. Mit Bindevokal -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = “with (*sa-*) the suffix prefixed (*-i-*) *t*” (i.e., with the connecting vowel *i*).
 
-**Beispiele:**
+**Examples:**
 
 ::: grammar-box
 | Wurzel | PPP (kta) |
@@ -122,64 +124,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Laws of Sandhi in the Word
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+Pri *aniṭ*-dariniuose reikia atkreipti dėmesį į šiuos sandūros dėsnius žodyje. **Šie dėsniai yra labai svarbūs visos sanskrito formų mokymo supratimui.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p prieš balsio uždarąjį (pvz., t, th) lieka nepakitę:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct pakeičiamas kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt pakeičiamas ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Balsis uždarasis – išskyrus j – prieš balsio garsą pakeičiamas atitinkamu balsiu uždaruoju:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (svarbu 2-ajai darymo klasei) |
+| **5. jt pakeičiamas kt arba ṣṭ (ne fakultatyviai!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Balsis uždarasis + balsio uždarasis » balsis uždarasis + balsis uždarasis (Bartholomaus aspiracijos dėsnis):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t pakeičiamas ḍh su ilgėjimu prieš tai esančio i arba u; arba gdh. Prie tokio ḍh a pakeičiamas o, rečiau ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „paslėpti”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Žodžių sąrašas
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : pabusti, pabusti iki žinios, pažinti; PPP **buddha** 3 pabusęs, todėl **Buddha** = „pabudęs“ (ne: apšviestas)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Pav.: ⟪गौतमो बुद्धः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (ką nors) sudeginti
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : įveikti, ištverti, kantriai ištverti = atleisti
+**mṛga** m. ⟪मृग⟫ : laukinis gyvūnas
+**mārga** m. ⟪मार्ग⟫ : kelias (keliuose dažnai būdavo laukinių gyvūnų takai)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Pav.: ⟪मार्गः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : taip pat (pastovus)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Prie šeštosios prezento klasės vietiniai gramatikai priskiria kai kurias šaknis, kurios formuoja prezento kamieną su nosine infixu ir teminiu balsiu a, pvz.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : atleisti, paleisti, išlaisvinti; nuo gimimo ir mirties rato (**saṃsāra** m.) išlaisvinti = išgelbėti
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : apšlakstyti
 
-Zur Wortbildung:
+Žodžių daryba:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : atskyrimas, išlaisvinimas, išgelbėjimas
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : karaliaus apšlakstymas karūnavimo metu, karūnavimas
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : pabudimas (kuo Budha arba Jina pasiekia išgelbėjančią įžvalgą)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Pav.: ⟪महावीरो जिनः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : žinios, pažinimo organas.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Veikiamoji rūšis ir PPP iki šiol išmoktoms šaknims
+
+| Šaknis:br⟪धातु⟫ | Veik. dalyvis, esamasis laikas, 3 asmuo, vienaskaita, rodinys:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Pratimas
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) Sudarykite iš [7-osios lekcijos](/lektionen/lektion07) A pratimo aktyviųjų sakinių pasyviusios praeities laiko sakinius; su neperleidžiaisiais veiksmažodžiais ir judesio veiksmažodžiais sudarykite aktyviuosius praeities laiko sakinius.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) Sudarykite atitinkamuosius PPP (pagalbinio veiksmažodžio praeities dalyvius) prie [10-osios lekcijos](/lektionen/lektion10) A pratimo veiksmažodžių formų. Atkreipkite dėmesį, kad tokiai formai kaip sṛjati PPP atitinka visose trijuose giminėse.**
+
+**C) Perrašykite [10-osios lekcijos](/lektionen/lektion10) C pratimo sakinius pasyviai ir praeities laiku.**
 

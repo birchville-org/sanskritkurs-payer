@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Pelajaran 58"
+subtitle: "Akhiran dual utama (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 58
@@ -451,4 +452,3 @@ B) Translate and identify the following forms:
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

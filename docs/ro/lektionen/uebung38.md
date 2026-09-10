@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 38"
 uebung_id: 38
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -45,7 +46,7 @@ Gustarea lumii este datoria regilor.
 Cailor puternici trebuie să li se dea regelui.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā a creat lumile.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 Insuși faci răul, însuși eviți răul.

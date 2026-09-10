@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "பாடம் 45"
+subtitle: "இரண்டாம் வேற்றுமை வினைச்சொற்களின் உருவாக்கம் (⟪मध्यमः⟫) துடிப்பற்ற தனிமங்களுக்குச் சுவை முடிச்சு இல்லாமல் முடிவதில்லை (தொடர்ச்சி)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 45
@@ -146,4 +147,3 @@ B) மொழிபெயர்க்கவும்:
 படம்: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (பட மூலம்: [விவரங்கள்](/ta/licenses#lekt4502))
 :::
-

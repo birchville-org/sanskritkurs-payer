@@ -1,10 +1,11 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "Lição 21"
+subtitle: "Outras raízes de presente em -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 21
@@ -114,7 +115,7 @@ Note a homofonia de ⟪यजन्ति⟫ (Nom. pl. Neutro) com a 3ª pl. P.!
 ![](/images/lekt2101.webp)
 Fig.: placa comemorativa de ⟪सती⟫
 Placa comemorativa de ⟪सती⟫ no palácio de Jodhpur - ⟪जोधपुर⟫ / Rajastão - ⟪राजस्थान⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2101))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2101))
 :::
 5ª classe do presente:
 
@@ -175,7 +176,7 @@ Placa comemorativa de ⟪सती⟫ no palácio de Jodhpur - ⟪जोधप�
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Fonte da imagem: [Detalhes](/licenses#lekt2102))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2102))
 :::
 
 ::: indent
@@ -247,7 +248,7 @@ dele:
 ![](/images/lekt2103.webp)
 Fig.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ como ⟪जगन्नाथ⟫ (à direita) com a sua meia-irmã ⟪सुभद्रा⟫ (ao centro) e o seu irmão mais velho ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2103))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2103))
 :::
 
 ::: indent
@@ -257,7 +258,7 @@ Fig.: ⟪भगवान्कृष्णः⟫
 ![](/images/lekt2105.webp)
 Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - Manuscrito, séc. XIX
-(Fonte da imagem: [Detalhes](/licenses#lekt2105))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2105))
 :::
 
 ::: indent
@@ -272,7 +273,7 @@ dele:
 ![](/images/lekt2104.webp)
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาว
-(Fonte da imagem: [Detalhes](/licenses#lekt2104))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2104))
 :::
 **⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** estragar-se (intransitivo), deteriorar-se, arruinar-se
 

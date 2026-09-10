@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "الدرس 30"
+subtitle: 'الصف التاسع من الأزمنة الحالية (⟪क्र्यादि⟫ = \"⟪क्री⟫ وما إلى ذلك\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 30
@@ -516,4 +517,3 @@ status: stable
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

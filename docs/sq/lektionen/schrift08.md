@@ -1,22 +1,22 @@
-# Ushtrimi Shkrimor 8
+# Ushtrim shkrimi 8
 
-Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:
+Shenja zanore për fillimin e fjalës, nëse fjala nuk është e lidhur me një fjalë të mëparshme në shkrim:
 
 ![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
-### Konsonantenligaturen
+### Ligaturat e bashkëtingëlloreve
 
-Wenn im Wort oder Satz zwei oder mehrere Konsonanten unmittelbar aufeinander folgen, werden sie mit Ligatur (verbundenes Zeichen) geschrieben.
+Kur në fjalë ose fjali dy ose më shumë bashkëtingëlloresh ndjekin menjëherë njëra-tjetrën, ato shkruhen me ligaturë (shenjë të bashkuar).
 
-1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschliesst, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
+1. Nëse shenja e parë e bashkëtingëllores që duhet të lidhet përfundon me vijën vertikale në të djathtë, ajo e humb këtë vijë dhe vendoset përpara bashkëtingëllores së dytë.
 
-Ausnahme: wenn das zweite Konsonantenzeichen ⟪न्⟫ oder ⟪ल्⟫ ist, wird dieses mit Verlust des wagrechten Strichs unter das erste Konsonantenzeichen gesetzt. Je nach Schrifttype gibt es weitere Ausnahmen, die in der folgenden aufgeführt sind. Ist in der betreffenden Schrifttype eine Ligatur nicht vorgesehen, wird ein Virāma gesetzt.
+Përjashtim: nëse shenja e dytë e bashkëtingëllores është ⟪न्⟫ ose ⟪ल्⟫, kjo vendoset nën shenjën e parë të bashkëtingëllores, duke humbur vijën horizontale. Varësisht nga stili i shkronjave, ka përjashtime të tjera që janë të listuara më poshtë. Nëse një ligaturë nuk parashihet në stilin e caktuar të shkronjave, vendoset një Virāma.
 
-Beispiele:
+Shembuj:
 
-In der Type, die in diesem Skript verwendet wird:
+Në stilin që përdoret në këtë tekst:
 
 ⟪ख्⟫ kh: ⟪ख्य⟫  khya, ⟪ख्र⟫ khra
 
@@ -40,7 +40,7 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,23 +60,23 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Vinihëz shkrimin e jña:
 
 ![](/images/schrift017.webp)
 
-Anlautendes -a, das gemäss den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
+Një -a fillimor, i cili elidohet sipas rregullave të Sandhitë së fjalive (-as + a- » -o ' ), tregohet nga ajo që quhet Avagraha:
 
 ⟪ऽ⟫
 
-z.B.
+P.sh.
 
-⟪देवो⟫ ⟪ऽग्निः⟫ \= devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
 ## Ushtrim
 
-A) Schreiben Sie alle in der obigen Liste vorkommenden Ligaturen
+A) Shkruani të gjitha ligaturat që shfaqen në listën e mësipërme
 
-B) Schreiben und übersetzen Sie:
+B) Shkruani dhe përktheni:
 
 1\. devo viṣṇuḥ.
 
@@ -102,24 +102,24 @@ B) Schreiben und übersetzen Sie:
 
 12\. devatānnapūrṇā.
 
-13\. sādhvī gurvī.
+13\. e femër i mirë.
 
-14\. devyo gurvyaḥ.
+14\. hyjnesha është e respektueshme.
 
-15\. devo nṛtyati.
+15\. hyji vallëzon.
 
-16\. kavirmanyate.
+poeti mendohet.
 
-17\. kaviḥ smarati.
+poeti kujton.
 
-18\. devā yudhyante.
+hyjtë luftojnë.
 
-C) Schreiben Sie:
+C) Shkruani:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
-D) Lesen, transliterieren und übersetzen Sie:
+D) Lexoni, transliteroni dhe përktheni:
 
-⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ | ⟪साध्व्यः⟫ ⟪स्मरन्ति⟫ | ⟪देव्यो⟫ ⟪मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | ⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
+⟪शूद्रा नृत्यन्ति⟫ | ⟪साध्व्यः स्मरन्ति⟫ | ⟪देव्यो मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः स्वर्गं गच्छति⟫ | ⟪साधवो गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
 
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lição 44"
+subtitle: "Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) de temas atemáticos com sufixo terminado em vogal"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 44
@@ -200,7 +201,7 @@ Os gramáticos nativos não consideram o vocativo (⟪आमन्त्रि�
 ::: media
 ![](/images/lekt4402.webp)
 Fig.: Sobre o uso correto de "Ó" em alemão: **"Ó homem!"**
-(Fonte da imagem: [Detalhes](/licenses#lekt4402))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4402))
 :::
 
 ::: grammar-box
@@ -238,7 +239,7 @@ Dele:
 ::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4403))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : jazer. Esta raiz tem em todas as formas do tema do presente **grau forte:** 1.sg.Ind.Pres.Ā :sig[⟪शेये⟫] (śe + e). Deve-se prestar atenção especial às seguintes formas: 3.pl.Ind.Pres.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
@@ -256,7 +257,7 @@ dele:
 ::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4404))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrar-se com (⟪तृतीयया⟫)
 
@@ -277,7 +278,7 @@ dele:
 ::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4405))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4405))
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : alegrar-se com (⟪द्वितीयया⟫), saudar alguém com alegria, dar as boas-vindas
 
@@ -300,7 +301,7 @@ PPP ⟪आयत⟫ 3: estendido, alongado
 ::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4406))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : oferecer, apresentar, entregar
 
@@ -323,7 +324,7 @@ disto:
 ::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4407))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4407))
 :::
 ⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma secundária de ⟪लभ्⟫): agarrar, segurar
 
@@ -343,7 +344,7 @@ Absol. -⟪रभ्य⟫
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4408))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4408))
 :::
 ## 44.6. Exercício
 
@@ -405,7 +406,7 @@ A) Analise e traduza as seguintes formas:
 ::: media
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4409))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4409))
 :::
 B) Traduza:
 

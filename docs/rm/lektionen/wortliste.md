@@ -109,7 +109,7 @@ Varṇas èn per consequenza estats da naschientscha.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Dieu Agni, miniatura, 18avel tschientaner.
+Fig.: Dieu Agni, miniatura, 18avel tschientaner.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : correct, bun.
@@ -118,7 +118,7 @@ Abb.: Dieu Agni, miniatura, 18avel tschientaner.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Temple Pashupatinath, Kathmandu.
+Fig.: Sādhu (⟪साधु⟫), Temple Pashupatinath, Kathmandu.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt0202))
 :::
 **guru** 3 -- ⟪गुरु⟫ : pesant, impurtant, degno da veneraziun
@@ -315,7 +315,7 @@ En il Sanscrit vegnan ils verbs preschentads en la **furma da radis**. Il numer 
 **soma** m. ⟪सोम⟫ : bevanda premida, Soma; glina (Da quala planta il Soma è vegnì premì, è fin oz anc disputà).
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: Era questa la planta da Soma vedica?: Amanita muscaria (L.) Lam.
+Fig.: Era questa la planta da Soma vedica?: Amanita muscaria (L.) Lam.
 (Sursainta da l'imaginescha: [Detagls](/licenses#lekt0701))
 :::
 **phala** n. ⟪फल⟫ : fruit (era en il sens figurà: fruit (karmic) d'ina acziun)
@@ -637,7 +637,7 @@ Fig.: ⟪गौतमो बुद्धः⟫
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
+Fig.: ⟪मार्गः⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt1202))
 :::
 **api** ⟪अपि⟫ : era (postposìt)
@@ -655,7 +655,7 @@ Verso la furmaziun da parolas:
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो जिनः⟫
+Fig.: ⟪महावीरो जिनः⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt1203))
 :::
 **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : perscrutaziun, organ da la perscrutaziun.
@@ -743,8 +743,8 @@ Memorisar las suandantas paraulas:
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+Fig.: ⟪महिषासुरः⟫
+(Font dal maletg: [Details](/licenses#lekt1301))
 :::
 **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
 **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gehen, geraten in
@@ -762,8 +762,8 @@ Abb.: ⟪महिषासुरः⟫
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+Fig.: ⟪अन्नम्⟫
+(Font dal maletg: [Details](/licenses#lekt1304))
 :::
 Furmaziun da pleds:
 
@@ -777,8 +777,8 @@ pad 4 Ā:
 
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Font dal maletg: [Details](/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
@@ -863,54 +863,55 @@ Fig.: ⟪पूजा⟫
 Fig.: ⟪इन्द्रः⟫
 (sursa d’imagines: [detagls](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: schiav, serf, servitger
+⟪कुल⟫ n.: greg, multitudine, schattamain, discendenza, famiglia
 
-⟪दासी⟫ f.: schiava, serfa, servitgira
+⟪इन्द्र⟫ m.: Prins, Emprim, Meglier tranter ; Re da ils dieus Indra
+::: media
+![](/images/lekt1505.webp)
+Fig.: ⟪इन्द्रः⟫
+(Sursa da l’imagina: [Detagls](/rm/licenses#lekt1505))
+:::
+⟪दास⟫ m.: Serv, serf, servitur
 
-⟪काल⟫ m.: temp, (dretg) moment ; destins, mort ; dieus da la mort Kāla
+⟪दासी⟫ f.: serva, serva, servidura
 
-⟪काल⟫ 3: nair, blau-nair, stgir
+⟪काल⟫ m.: temp, (correct) temp; destin, mort; dieu de la mort Kāla
 
-⟪पुरुष⟫ m.: uman, um, serv
+⟪काल⟫ 3: nair, nairagiatg, scur
 
-\-⟪जन⟫ sco segund part da Tatpuruṣas spessegiadamein expressiun dal plural
+⟪पुरुष⟫ m.: umna, ùom, serv
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : laudir, preisar
+\-⟪जन⟫ sco second element da Tatpuruṣas spessamain exprimi il plural
 
-da quai:
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : laudar, preisar
+
+daquest:
 
 ::: indent
-⟪स्तुति⟫ f.: laudaziun, lai da laud
+⟪स्तुति⟫ f.: Laudaziun, himna
 
-⟪स्तोत्र⟫ n.: (mez per laudir =) lai da laud, himnus
+⟪स्तोत्र⟫ m.: (Mez da laudar =) laud, himna
 :::
-⟪सिंह⟫ m.: leon (_Panthera leo persica_)
+⟪सिंह⟫ m.: leun (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
 Fig.: ⟪सिंहः⟫
-(sursa d’imagines: [detagls](/licenses#lekt1506))
+(Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (literal: guard)
+⟪व्याघ्र⟫ m.: tigir (_Panthera tigris tigris_) (literalmain: 'gahner')
 ::: media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
-(sursa d’imagines: [detagls](/licenses#lekt1507))
+(Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1507))
 :::
-⟪इव⟫ (postposiziun): sco, sco che (en cumpareglianzas: ⟪व्याघ्र इव पुरुषः⟫ = "in uman sco in tigre", "in uman sco il tigir"
+⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir')
 
-⟪एव⟫ (postposiziun): emfatisescha il precedent, correspunda en tudestg spessegiadamein a l’emfasis, ina sorta d’emoticon `\<!\>`, p.ex. ⟪सत्यमेव जयति⟫ "sola la verit gudogna", "propi la verit gudogna", "la verit gudogna"
+⟪एव⟫ (postposizionà): emfatisescha quai che va avant, correspunda en il tudestg savens a l'emfasa, ina sorta d'emoticon `\<!\>`, per exempel ⟪सत्यमेव⟫ ⟪जयति⟫ "sola la verit gudogna", "exactamain la verit gudogna", "la verit gudogna"
 
-⟪अरि⟫ m.: inimis (suenter Thieme, Der Fremdling im Ṛgveda: originalmain = forestier)
+⟪अरि⟫ m.: inimic (secun Thieme, Der Fremdling im Ṛgveda: originalmain = forestir)
 
 ::: indent
-⟪आर्य⟫ 3: arian, nobil ; m. Arier (autodefiniziun dals vegls Indians che parlavan sanscrit, literal: ospital (Thieme)) ; nobil, um onurabel
-:::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫: morir (suenter grammaticers indians: 6 Ā)
-
-da quai:
-
-::: indent
-⟪मरण⟫ n.: morir, mort
+⟪आर्य⟫ 3: arian, nobel ; m. Ari (denominaziun da sè da l'indians vegls che parlavan sanscrit, literalmain: ospital (Thieme)) ; nobel, um d'onur
 
 ⟪मृति⟫ f.: morir, mort
 
@@ -985,7 +986,7 @@ Birla Mandir, Delhi
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
+Fig.: ⟪अहिंसा⟫
 "La maun cun ina roda sin il palmt symbolisescha il Vot da Ahimsa giain. La paraula en il mez è "ahimsa". La roda represchenta il dharmacakra, che symbolisescha la decisiun da fermar il ciclus da reincarnaziun tras ina persviziun infatigabla da la veritad e da la na-violenza."
 (Sursa d'imagines: [Detagls](/licenses#lekt1603))
 :::
@@ -1014,7 +1015,7 @@ da quai:
 
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa d'imagines: [Detagls](/licenses#lekt1703))
 :::
@@ -1028,7 +1029,7 @@ da quai:
 
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
+Fig.: ⟪योगासनम्⟫
 (Sursa d'imagines: [Detagls](/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : plorar, ulular
@@ -1130,7 +1131,7 @@ da:
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
+Fig.: ⟪कामः⟫
 Illustraziun al ⟪कामसूत्र⟫
 (Font da l’imaginescha: [Detagls](/licenses#lekt1809))
 :::
@@ -1156,7 +1157,7 @@ da ⟪स्था⟫ :
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Font da l’imaginescha: [Detagls](/licenses#lekt1901))
 :::
@@ -1164,7 +1165,7 @@ Badami (ಬದಾಮಿ)
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
 (Font da l’imaginescha: [Detagls](/licenses#lekt1902))
 :::
@@ -1181,7 +1182,7 @@ da:
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
+Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), en vestida tradiziunala, è in usanza en las parts dal sid da Kerala. _Onappottan_ visita chas durant il _onam_ e dat benedicziuns. Dapi paucs onns è l'_Onappottan_ daventà ina vista rara, limitada a vischnancas."
 (sursainta d'imagines: [Detagls](/licenses#lekt1904))
 :::
@@ -1189,7 +1190,7 @@ Abb.: ⟪छत्त्रम्⟫
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
 (sursainta d'imagines: [Detagls](/licenses#lekt1903))
 :::
 **⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** abitar cun, abituar (Akk., Lok.) ; visitar, ir a (Akk.) ; servir, curar, venerar ; exercitar, adoperar ; esser cun, avair relaziuns sexualas
@@ -1424,7 +1425,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
+Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Surs d'imagina: [Detagls](/licenses#lekt2203))
 :::
@@ -1450,7 +1451,7 @@ da:
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (sursainta da l'imaginescha: [Detagls](/licenses#lekt2201))
 :::
@@ -1504,7 +1505,7 @@ En il medem mument sco ⟪अलम्⟫ cun instrumental vegn duvrà:
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
+Fig.: ⟪अलंकारः⟫
 (sursainta da l'imaginescha: [Detagls](/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: impuls, motivaziun, causa, grond ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ cun genitiv u sco element posterior d'in cumposit = "per il motiv da ..., per causa da"
@@ -1513,7 +1514,7 @@ Abb.: ⟪अलंकारः⟫
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (sursa d’imagines: [detagls](/licenses#lekt2406))
 :::
@@ -1549,7 +1550,7 @@ da quai
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (sursa d’imagines: [detagls](/licenses#lekt2407))
 :::
@@ -1568,7 +1569,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+Fig.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (sursa d’imagines: [detagls](/licenses#lekt2408))
 :::
@@ -1597,7 +1598,7 @@ da:
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Fig.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
 Manuscrip dal ⟪गीतगोविन्द⟫, 1730 n. Chr.
 (Sursa da l'imagines: [Detagls](/licenses#lekt2411))
 :::
@@ -1642,7 +1643,7 @@ da:
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
+Fig.: ⟪धान्यम्⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : tegnair, tegnair ferm
@@ -1718,7 +1719,7 @@ dafrom:
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
+Fig.: ⟪मूलानि⟫
 (Font da l'imagines: [Detagls](/licenses#lekt2502))
 :::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungir, smiar
@@ -1735,7 +1736,7 @@ dafrom:
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
+Fig.: ⟪लिप्तिः⟫
 (sursa d'imagines: [detagls](/licenses#lekt2503))
 :::
 ⟪वर्ष⟫ n.,m.: plievgia, stagiun da la plievgia, onn
@@ -1755,7 +1756,7 @@ dafrom:
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
+Fig.: ⟪विवाहः⟫
 (sursa d'imagines: [detagls](/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : duar via, instruir, educar
@@ -1771,7 +1772,7 @@ dafrom:
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
+Fig.: ⟪विष्टिः⟫
 (sursa d'imagines: [detagls](/licenses#lekt2505))
 :::
 ⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescher, vegnir pli grond
@@ -1796,7 +1797,7 @@ dafrom:
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
+Fig.: ⟪हिरण्यम्⟫
 (sursa d'imagines: [detagls](/licenses#lekt2506))
 :::
 ⟪अणु ३⟫ : fin, suttil, fitg pitschen ; m.: atom
@@ -1843,7 +1844,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Abb.: ⟪वस्त्राणि⟫
+Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt2706))
 :::
@@ -1856,7 +1857,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Abb.: ⟪वसन्तः⟫
+Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt2707))
 :::
@@ -1878,14 +1879,14 @@ Cumpareglia a ⟪हर⟫:
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
+Fig.: ⟪हरिहरः⟫
 Harihara (a sanestra: Viṣṇu, a dretga: Śiva).
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
+Fig.: ⟪हरिहरः⟫
 Harihara (a sanestra: Viṣṇu, a dretga: Śiva). Godrumdwip, Bengal Occidental.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt2705))
 :::
@@ -1936,7 +1937,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो राधां कामयति⟫
+Fig.: ⟪कृष्णो राधां कामयति⟫
 Quadern da ⟪राजा रवि वर्मा⟫ (1848 - 1906)
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt2804))
 :::
@@ -2089,7 +2090,7 @@ Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति विक्रीणते च⟫
+Fig.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt3001))
 :::
@@ -2111,7 +2112,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
+Fig.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt3002))
 :::
@@ -2126,7 +2127,7 @@ Inf. ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि पुनाति⟫
+Fig.: ⟪श्रोत्राणि पुनाति⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar
@@ -2140,14 +2141,14 @@ Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात् थाली⟫, India dal sid
+Fig.: ⟪अश्नीयात् थाली⟫, India dal sid
 (Sursa da l'imagines: [Detagls](/licenses#lekt3005))
 :::
 ⟪प्रिय ३⟫: car, amant, friendly
 
 ::: media
 ![](/images/lekt3004.webp)
-Abb.: ⟪प्रिया⟫
+Fig.: ⟪प्रिया⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Conjuncziun: sche; presupponì, che (n'è mai al cumenzament d'in frasa)
@@ -2173,7 +2174,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
+Fig.: ⟪पुनर्भवः⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : viver
@@ -2310,7 +2311,7 @@ dafrom:
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
+Fig.: ⟪प्रज्ञापारमिता⟫
 In d'in manuscrit da Prajñāpāramitā.
 (Sursa d'imagines: [Detagls](/licenses#lekt3103))
 :::
@@ -2352,7 +2353,7 @@ In d'in manuscrit da Prajñāpāramitā.
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
+Fig.: ⟪चूतः⟫
 Mangobaum, Kanpur.
 (Sursa d'imagines: [Detagls](/licenses#lekt3202))
 :::
@@ -2380,7 +2381,7 @@ Mangobaum, Kanpur.
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
+Fig.: ⟪वानराः⟫
 Scimias (macacus rhesus) a Delhi.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3203))
 :::
@@ -2396,7 +2397,7 @@ Scimias (macacus rhesus) a Delhi.
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
+Fig.: ⟪उपलाः⟫
 Cava da crappa a sid da Pune, Maharashtra.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3204))
 :::
@@ -2404,7 +2405,7 @@ Cava da crappa a sid da Pune, Maharashtra.
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
+Fig.: ⟪लक्ष्यम्⟫
 Tirar cun l'arc / bersagl da saetas, Karnataka.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3205))
 :::
@@ -2428,7 +2429,7 @@ Tirar cun l'arc / bersagl da saetas, Karnataka.
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं गोमयं दहति⟫
+Fig.: ⟪चितं गोमयं दहति⟫
 Brischar pastgias da sterp da vacca en Rajasthan.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3207))
 :::
@@ -2440,7 +2441,7 @@ Brischar pastgias da sterp da vacca en Rajasthan.
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
+Fig.: ⟪कौशलम्⟫
 Pittura Mehndi sin mauns a Mumbai.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3206))
 :::
@@ -2474,7 +2475,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
+Fig.: ⟪दानम्⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt3306))
 :::
 ⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (recepziun) prender, en possessiun prender, emportar
@@ -2484,7 +2485,7 @@ Abb.: ⟪दानम्⟫
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (sursa da l'imaginescha: [detagls](/licenses#lekt3307))
 :::
 sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: stabilir, fixar, distribuir
@@ -2505,7 +2506,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
+Fig.: ⟪समाधि⟫
 (sursa da l'imaginescha: [detagls](/licenses#lekt3305))
 :::
 ⟪पॄ⟫ 3P ⟪पिपर्ति⟫: emplenir, saturar
@@ -2539,7 +2540,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
+Fig.: ⟪भयम्⟫
 (sursa da l'imaginescha: [detagls](/licenses#lekt3304))
 :::
 ⟪भृ⟫ 3U ⟪बिभर्ति⟫: purtar, portar; mantegnair, nutrir
@@ -2587,7 +2588,7 @@ da PPP ⟪हीन⟫:
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
+Fig.: ⟪हीनयानमेव⟫
 (sursa da l'imaginescha: [Detagls](/licenses#lekt3303))
 :::
 ⟪हु⟫ 3P ⟪जुहोति⟫: versar en il fieu ( sco offerta, specialmain buter stgala)
@@ -2601,7 +2602,7 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ जुहोति⟫
+Fig.: ⟪घृतमग्नौ जुहोति⟫
 (sursa da l'imaginescha: [Detagls](/licenses#lekt3302))
 :::
 ⟪घृत⟫ n.: buter stgala, Ghee (⟪घी⟫ / گھی / ঘী)
@@ -2632,7 +2633,7 @@ Abb.: ⟪घृतमग्नौ जुहोति⟫
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
+Fig.: ⟪सस्यम्⟫
 Rice field in India.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3406))
 :::
@@ -2646,7 +2647,7 @@ Rice field in India.
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
+Fig.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3405))
 :::
@@ -2656,14 +2657,14 @@ Lakshadweep Islands Map.
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
+Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
+Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3404))
 :::
@@ -2671,7 +2672,7 @@ Sesame plant flowering.
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
+Fig.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3402))
 :::
@@ -2687,7 +2688,7 @@ Golden Temple (Harmandir Sahib), Amritsar.
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
+Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Sursa da l'imagines: [Detagls](/licenses#lekt3401))
 :::
@@ -2734,7 +2735,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Fig.: ⟪क्रामन्ति⟫
 Persunas che van, Senegal.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt3502))
 :::
@@ -2752,7 +2753,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Fig.: ⟪जगुः⟫
 Musicists dal temple Kaadu Malleswara Temple Bangalore.
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt3501))
 :::
@@ -2797,7 +2798,7 @@ Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं चिकाय⟫
+Fig.: ⟪गोमयं चिकाय⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3601))
 :::
 
@@ -2817,7 +2818,7 @@ Inf. ⟪व्रजितुम्⟫
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
+Fig.: ⟪अगारम्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3602))
 :::
 
@@ -2828,7 +2829,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
+Fig.: ⟪अनगार्यम्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: ils mauns dus unids en aut per onur
@@ -2911,7 +2912,7 @@ Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
+Fig.: ⟪सुगतो भूमीं पस्पर्श⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3606))
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : esser stent; s'irrigar (ails), alegrar-si sur (Instr., Akk., Lok.)
@@ -2925,7 +2926,7 @@ PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Abb.: ⟪लोमहर्षः⟫
+Fig.: ⟪लोमहर्षः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3604))
 :::
 
@@ -2954,7 +2955,7 @@ Abb.: ⟪लोमहर्षः⟫
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
+Fig.: ⟪शाक्यमुनिः⟫
 (sürza da l’imagines: [detagls](/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: di
@@ -2963,7 +2964,7 @@ Abb.: ⟪शाक्यमुनिः⟫
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
+Fig.: ⟪वृक्षः⟫
 (sürza da l’imagines: [detagls](/licenses#lekt3706))
 :::
 ⟪मुख⟫ n.: bucca, visadi, part davant, cumenzament
@@ -2986,14 +2987,14 @@ Abb.: ⟪वृक्षः⟫
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
+Fig.: ⟪सूर्यः⟫
 (sürza da l’imagines: [detagls](/licenses#lekt3802))
 :::
 ⟪उदक⟫ n.: aua
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
+Fig.: ⟪उदकम्⟫
 (sürza da l’imagines: [detagls](/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : spirar, suflar
@@ -3021,7 +3022,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+Fig.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
 (sürza da l’imagines: [detagls](/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : pisserar, pisserar, eiacular
@@ -3062,7 +3063,7 @@ da ⟪राज⟫ :
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
+Fig.: ⟪ब्रह्मा⟫
 (sursa da l'imagines: [detagls](/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n.: a ⟪कृ⟫ 8U: acziun, fatg, lavur; lavur sacra, sacrifici; Karma: il far en il passà che porta pli tard ses fruits (p.ex. en la reincarnaziun) 
@@ -3099,13 +3100,13 @@ da quai:
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
+Fig.: ⟪अशोकवृक्षः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
+Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt3811))
 :::
 
@@ -3272,7 +3273,7 @@ da quai:
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
+Fig.: ⟪शासना⟫
 (sursainta d'imagines: [Detagls](/licenses#lekt4109))
 :::
 
@@ -3283,7 +3284,7 @@ Abb.: ⟪शासना⟫
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
+Fig.: ⟪शास्त्री⟫
 (sursainta d'imagines: [Detagls](/licenses#lekt4110))
 :::
 
@@ -3387,7 +3388,7 @@ Inf. ⟪शंसितुम्⟫
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (sursa da l'imaginescha: [detagls](/licenses#lekt4202))
 :::
 ⟪भर्तृ⟫ m. (a ⟪भृ⟫ "portar, mantegnair"): mantentader, nutrider, consors
@@ -3461,7 +3462,7 @@ Per els vegnan executads ritus, cun il num ⟪श्राद्ध⟫ n. Tutgì
 
 ::: media
 ![](/images/lekt4302.webp)
-Abb.: ⟪आपणः⟫
+Fig.: ⟪आपणः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: svelt, spert
@@ -3470,7 +3471,7 @@ Abb.: ⟪आपणः⟫
 
 ::: media
 ![](/images/lekt4303.webp)
-Abb.: ⟪पण्यानि⟫
+Fig.: ⟪पण्यानि⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4303))
 :::
 ⟪आम्⟫: già
@@ -3493,14 +3494,14 @@ Abb.: ⟪पण्यानि⟫
 
 ::: media
 ![](/images/lekt4304.webp)
-Abb.: ⟪विपणिः⟫
+Fig.: ⟪विपणिः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: commerziant
 
 ::: media
 ![](/images/lekt4305.webp)
-Abb.: ⟪वणिक्⟫
+Fig.: ⟪वणिक्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: il pli bun
@@ -3511,7 +3512,7 @@ Abb.: ⟪वणिक्⟫
 
 ::: media
 ![](/images/lekt4306.webp)
-Abb.: ⟪वत्सः⟫
+Fig.: ⟪वत्सः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: il pli aut, il pli bun
@@ -3532,7 +3533,7 @@ Abb.: ⟪वत्सः⟫
 
 ::: media
 ![](/images/lekt4307.webp)
-Abb.: ⟪तोलन्ति⟫
+Fig.: ⟪तोलन्ति⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: pèr
@@ -3613,7 +3614,7 @@ da quai:
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
+Fig.: ⟪रेल्यानम्⟫
 (sursainta d'imagines: [detagls](/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : giacer. Questa radis ha en tut las furmas dal stem da presenz **stadi aut:** 1.sg.Ind.Prez.Ā :sig[⟪शेये⟫] (śe + e). Las proximas furmas èn da notar specialmain: 3.pl.Ind.Prez.Ā :sig[⟪शेरते⟫], 3.pl.Imparf.Ā :sig[⟪अशेरत⟫]
@@ -3865,7 +3866,6 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-:::
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
@@ -3878,7 +3878,7 @@ Absol. -⟪हूय⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+Fig.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
 (Sursa da l'imagina: [Details](/licenses#lekt4608))
 :::
 
@@ -3966,7 +3966,7 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+Fig.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Fotografia: [Detagls](/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : pendair sin (⟪द्वितीयया⟫)
@@ -3990,7 +3990,7 @@ p.ex.
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
+Fig.: [⟪भोः⟫](/licenses#lekt4611)
 (Fotografia: [Detagls](/licenses#lekt4611))
 :::
 
@@ -4020,14 +4020,14 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa d'imagines: [Detagls](/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
+Fig.: ⟪तन्त्री⟫
 Siatirist = ⟪सितारवादकः⟫
 (Sursa d'imagines: [Detagls](/licenses#lekt4803))
 :::
@@ -4049,7 +4049,7 @@ Declinaziun:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
+Fig.: ⟪स्वतन्त्राः स्त्रियः⟫
 [Gruppa d'aiut mutua (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa d'imagines: [Detagls](/licenses#lekt4804))
 :::
@@ -4179,7 +4179,7 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
+Fig.: ⟪कुलूहलम्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: tut, cumplet
@@ -4190,7 +4190,7 @@ Abb.: ⟪कुलूहलम्⟫
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. tschientaner
+Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. tschientaner
 (Sursa da l'imagina: [Details](/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: desideri
@@ -4201,14 +4201,14 @@ Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11.
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
+Fig.: ⟪विहंगः⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: vestgadira, aspect, exterior
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः वाराणस्याम्⟫
+Fig.: ⟪वेषः वाराणस्याम्⟫
 (Sursa da l'imagina: [Details](/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: tala, nascondider
@@ -4217,7 +4217,7 @@ Abb.: ⟪वेषः वाराणस्याम्⟫
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
+Fig.: ⟪पञ्जरम्⟫
 Indoviner cun pappagall en gabbia: il pappagall tira zettels, sin ils quals sto il destin Mysore
 (Sursa da l'imagina: [Details](/licenses#lekt4909))
 :::
@@ -4244,7 +4244,7 @@ Gerundiv ⟪ध्येय⟫
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Sursa da l'imagina: [Details](/licenses#lekt4905))
 :::
@@ -4256,7 +4256,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Sursa da l'imagina: [Details](/licenses#lekt4906))
 :::
@@ -4287,7 +4287,7 @@ Sri Lanka
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
+Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), minister federal en il Ministeri da scienza e tecnologia ed en il Ministeri per las scienzas da la terra (dapi 2006)
 (Sursa da l'imagina: [Details](/licenses#lekt5001))
 :::
@@ -4329,7 +4329,7 @@ Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो वर्षिष्यति⟫
+Fig.: ⟪महामेघो वर्षिष्यति⟫
 Arrivada dal monsun, Bangalore  ಬೆಂಗಳೂರು
 (sursa da l’imaginescha: [detagls](/licenses#lekt5002))
 :::
@@ -4339,7 +4339,7 @@ Arrivada dal monsun, Bangalore  ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
+Fig.: ⟪आदित्यः⟫
 (sursa da l’imaginescha: [detagls](/licenses#lekt5005))
 :::
 ⟪सर्व⟫ 3: mintgin, tut
@@ -4366,14 +4366,14 @@ Declinaziun sco ⟪यद्⟫ (ecceziun: Nom.Akk.sg.Neuter)
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
+Fig.: ⟪कल्याणी⟫
 (sursa d’imagines: [detagls](/licenses#lekt5003))
 :::
 ⟪कु⟫- : sco element avant da cumposiziuns: mal
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+Fig.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
 (sursa d’imagines: [detagls](/licenses#lekt5004))
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : vesair
@@ -4406,7 +4406,7 @@ betg duvrà en ils ulteriurs temps
 
 ::: media
 ![](/images/lekt5105.webp)
-Abb.:
+Fig.:
 (sursa d’imagines: [detagls](/licenses#lekt5105))
 :::
 ⟪अतिथि⟫ m.: ospit
@@ -4424,7 +4424,7 @@ Perquai ch'il ovulaziun è 14 dis avant il cumenzament da la menstraziun, è en 
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
+Fig.: ⟪ऋतुः⟫
 (Sursa da l'imaginescha: [Detagls](/licenses#lekt5106))
 :::
 ⟪एकत्र⟫ Adv.: ad in lieu
@@ -4503,7 +4503,7 @@ Palace da la citad, ⟪उदयपुर⟫
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
+Fig.: ⟪मृगया⟫
 Chascha cun ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Sursa da l'imagina: [Details](/licenses#lekt5110))
 :::
@@ -4511,7 +4511,7 @@ Chascha cun ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુ�
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
+Fig.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Sursa da l'imagina: [Details](/licenses#lekt5111))
 :::
@@ -4521,7 +4521,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
+Fig.: ⟪कौशिकः⟫
 Guf da Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Sursa da l'imagina: [Details](/licenses#lekt5112))
 :::
@@ -4536,7 +4536,7 @@ stem debel avant consonant ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा लिङ्गं च⟫
+Fig.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Sursa da l'imagina: [Details](/licenses#lekt5113))
 :::
@@ -4550,7 +4550,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम् जोधपुर⟫
+Fig.: ⟪आपानकम् जोधपुर⟫
 (Sursa da l'imagina: [Details](/licenses#lekt5114))
 :::
 ⟪क्रूर⟫ 3: crud, crudel
@@ -4568,7 +4568,7 @@ PPP ⟪दिग्ध⟫
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
+Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa da l'imagina: [Details](/licenses#lekt5115))
 :::
@@ -4576,7 +4576,7 @@ Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
+Fig.: ⟪भुजंगः⟫
 Vipra da chainas (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Sursa da l'imagina: [Details](/licenses#lekt5116))
 :::
@@ -4602,7 +4602,7 @@ Vipra da chainas (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
+Fig.: ⟪मणिः⟫
 Hope Diamond da Guntur = గుంటూరు, oz Smithsonian Museum of Natural History, Washington DC
 (sursainta da l'imaginescha: [detagls](/licenses#lekt5118))
 :::
@@ -4612,7 +4612,7 @@ Hope Diamond da Guntur = గుంటూరు, oz Smithsonian Museum of Natural
 
 ::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
+Fig.: ⟪मदः⟫
 (sursainta da l'imaginescha: [detagls](/licenses#lekt5117))
 :::
 ⟪राग⟫ m.: er: colur, colur cotschna
@@ -4659,7 +4659,7 @@ da:
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (sursainta da l'imaginescha: [detagls](/licenses#lekt5210))
 :::
@@ -4691,7 +4691,7 @@ PPP ⟪विपरीत⟫ 3: sbagl, errà
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Sursa da l'imagines: [Detagls](/licenses#lekt5212))
 :::
@@ -4708,7 +4708,7 @@ da quai:
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः मुंबई⟫
+Fig.: ⟪प्रधानः मुंबई⟫
 (Sursa da l'imagines: [Detagls](/licenses#lekt5213))
 :::
 ⟪लौल्य⟫ n.: avidad, lüsternadad
@@ -4805,7 +4805,7 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Sursa da l'imagina: [Details](/licenses#lekt5214))
 :::
@@ -4813,7 +4813,7 @@ Konark = ⟪कोनार्क⟫
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Sursa da l'imagina: [Details](/licenses#lekt5208))
 :::
@@ -4829,7 +4829,7 @@ Hampi = ಹಂಪೆ
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम् मुंबई⟫
+Fig.: ⟪मलम् मुंबई⟫
 (Sursa da l'imagina: [Details](/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: il tschiel d'Indra
@@ -4838,7 +4838,7 @@ Abb.: ⟪मलम् मुंबई⟫
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
+Fig.:
 Amaravati = అమరావతి, 2. tschientaner p. Chr.
 (Sursa da l'imagina: [Details](/licenses#lekt5217))
 :::

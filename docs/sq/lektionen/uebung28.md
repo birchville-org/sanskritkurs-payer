@@ -1,18 +1,19 @@
 ---
-title: "Ushqim 28"
+title: "Ushtrimi 28"
 uebung_id: 28
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 28
+# Ushtrimi 28
 
-A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
+A) Formoni kausativin për format e mëposhtme verbale dhe participiale:
 
-### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa)
+### ⟪१⟫. Me rrënjë në shkallën e lartë (Guṇa)
 
-| Form | Kausativ |
+| Forma | Kausativi |
 | :--- | :--- |
 | ⟪अर्हन्ति⟫ | ⟪अर्हयन्ति⟫ |
 | ⟪प्राप्य⟫ | ⟪प्रापय्य⟫ |
@@ -43,9 +44,9 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-### ⟪२⟫. Mit dehnstufiger Wurzel (Vṛddhi)
+### ⟪२⟫. Me rrënjë në shkallën e zgjeruar (Vṛddhi)
 
-| Form | Kausativ |
+| Forma | Kausativi |
 | :--- | :--- |
 | ⟪अत्ति⟫ | ⟪आदयति⟫ |
 | ⟪अस्यन्ति⟫ | ⟪आसयन्ति⟫ |
@@ -86,62 +87,62 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-### ⟪३⟫. Kausativ auf -⟪पय⟫ (und Sonderformen)
+### ⟪३⟫. Kausativ në -⟪पय⟫ (dhe format e veçanta)
 
-| Wurzel | Kausativ | Bedeutung |
+| Rrëza | Kausativ | Kuptimi |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫ | hinstellen, festsetzen |
-| ⟪दुष्⟫ | ⟪दूषयति⟫ | verderben |
-| ⟪पा⟫ ⟪१⟫ (trinken) | ⟪पाययति⟫ | zu trinken geben |
-| ⟪पा⟫ ⟪२⟫ (schützen) | ⟪पालयति⟫ | behüten, schützen |
-| ⟪लभ्⟫ | ⟪लम्भयति⟫ | erhalten lassen |
-| ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
-| ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
-| ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
+| ⟪स्था⟫ | ⟪स्थापयति⟫ | vendos, fiksoj |
+| ⟪दुष्⟫ | ⟪दूषयति⟫ | shkatërroj, prish |
+| ⟪पा १⟫ (pij) | ⟪पाययति⟫ | jap për të pirë |
+| ⟪पा २⟫ (mbroj) | ⟪पालयति⟫ | ruaj, mbrojt |
+| ⟪लभ्⟫ | ⟪लम्भयति⟫ | lejoj të ruhet, mbaj gjallë |
+| ⟪हन्⟫ | ⟪घातयति⟫ | lejoj të goditet, vras |
+| ⟪जि⟫ | ⟪जापयति⟫ | lejoj të fitojë, triumfoj |
+| ⟪जीव्⟫ | ⟪जीवयति⟫ | ringjall, jap jetë |
+B) Përktheni fjalitë e mëposhtme dhe formoni me anë të foljeve bazë fjalitë që shprehin se çfarë ndodh kur ajo që shprehet nga kausativi realizohet.
 
-⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
-Der Kṣatriya hat, um die Feinde zu besiegen, einen Brahmanen Hari und Hara mit einem Opfer verehren lassen und wird die Feinde bekämpfen.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
+⟪१⟫. **⟪शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥⟫**
+Kṣatriya-ja ka lejuar që brahmani Hari dhe Hara të nderohen me një flijim, për të mundur armiqit, dhe do t'i luftojë armiqtë.
+(Baza: **⟪ब्राह्मणो हरिहरं यजति ।⟫**)
 
-⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
-Der Lehrer hat den Knaben den Veda gelehrt und ist dann nach Hause gegangen.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥⟫**
+Mësimdhënësi e ka mësuar djaloshin me Vedën dhe më pas është kthyer në shtëpi.
+(Baza: **⟪बाला वेदमधीयते ।⟫**)
 
-⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
-Im innersten Heiligtum wird das Bildnis der Göttin gezeigt.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+⟪३⟫. **⟪गर्भगृहे देवीप्रतिमा दर्श्यते ॥३॥⟫**
+Në brendësinë e shenjtërores tregohet imazhi i perëndeshës.
+(Baza: **⟪देवीप्रतिमा दृश्यते ।⟫**)
 
-⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
-Der Opfernde gibt dem Feuer Speise zu essen und Trank zu trinken.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+⟪४⟫. **⟪यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥⟫**
+Flijuesi i jep zjarrit ushqim për të ngrënë dhe pije për të pirë.
+(Baza: **⟪अग्निरन्नमत्ति पानं च पिबति ।⟫**)
 
-⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
-Sobald der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt den Diener ins Haus kommen und fragt nach seinem Sohn.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+⟪५⟫. **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति ॥५॥⟫**
+Sapë të lind djali, brahmanja dërgon një shërbyes te brahmani. Brahmani e lejon shërbyesin të hyjë në shtëpi dhe pyet për djalin e tij.
+(Baza: **⟪दासो ब्राह्मणं गच्छति । दासो गृहं प्रविशति ।⟫**)
 
-⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-Der lobsingende Mann bringt den Göttern die Lobeshymnen des grossen Dichters zu Gehör.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+⟪६⟫. **⟪स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥⟫**
+Burruesi i cili lavdon, ua sjell pervejtuesve hyjnive këngët e lavdërimit të poetit të madh.
+(Bazë: **⟪देवा महाकवेः स्तोत्राणि शृण्वन्ति ।⟫**)
 
-⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
-Die edlen Krieger töten in der grossen Schlacht die Feinde.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+⟪७⟫. **⟪आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥⟫**
+Luftëtarët fisnikë vrasin armiqit në betejën e madhe.
+(Bazë: **⟪अरयो म्रियन्ते ।⟫**)
 
-⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
-Die gute Kṣatriyā lässt einen Brahmanen ihre persönliche Gottheit verehren.
-(Basis: **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
+⟪८⟫. **⟪सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति ॥८॥⟫**
+Kṣatriyā e mirë lejon që një Brahman të nderojë hyjninë e saj personale.
+(Bazë: **⟪ब्राह्मण इष्टदेवतापूजां करोति ।⟫**)
 
-⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
-Um Reichtümer zu erobern, wird der grosse Kṣatriya die tigergleichen Kämpfer Gelübde halten lassen.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+⟪९⟫. **⟪धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥⟫**
+Për të pushtuar pasuritë, Kṣatriya i madh do t'i bëjë luftëtarët si tigër të mbajnë betime.
+(Bazë: **⟪योधव्याघ्रा व्रतानि चरिष्यन्ति ।⟫**)
 
-⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten erkennen.
-(Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+⟪१०⟫. **⟪पापाद्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫**
+Për t'i çliruar ata nga e keqja, Buddha i bën njerëzit fisnikë të njohin të vërtetat e mira.
+(Bazë: **⟪आर्यजना आर्यसत्यानि बुध्यन्ते ।⟫**)
 
 ::: media
 ![](/images/uebung045.webp)
-Abb.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
-(Bildquelle: [Details](/licenses#uebung045))
+Fig.: ⟪गर्भगृहे देवीप्रतिमा दर्श्यते⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung045))
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Ders 18"
+title: "# Ders 18"
 lesson_id: 18
 
 ---
@@ -11,17 +11,17 @@ lesson_id: 18
 ::: indent
 ⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkarmadhāraya (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Determinativkarma (⟪तत्पुरुष⟫) ile edimsel ön bileşen
 
-Als adverbiales (deklinierbar olmayan) Vorderglied olarak şunlar
+Edimsel (çatısız) ön bileşen olarak
 
-*   zarflar
-*   edatlar
-*   parçacıklar
-*   diğer indeklinabiller
+*   Zarf
+*   Edatlar
+*   Parçacıklar
+*   Diğer çatısız kelimeler
 
 ::: indent
-kullanılabilir. Böyle Tatpuruş bileşikler genellikle Nityasamāsa sınıfına = ⟪नित्यसमास⟫ (m. "sabit bileşik") aittir, yani bu bileşikler yalnızca kendilerinde bulunan kelimelerle veya hiç çözümlenemeyen bileşiklerdir.
+kullanılabilir. Böyle Tatpuruş bileşikler genellikle Nityasamāsa sınıfına aittir = ⟪नित्यसमास⟫ (m. "sürekli bileşik"), yani bileşiğin içindeki kelimelerle veya sadece bu kelimeler aracılığıyla çözülemeyen bileşikler.
 :::
 Örnekler:
 
@@ -30,13 +30,13 @@ kullanılabilir. Böyle Tatpuruş bileşikler genellikle Nityasamāsa sınıfın
 ::: indent
 ⟪अतिगुरु⟫ 3: son derece ağır, son derece önemli
 
-⟪अतिपुरुष⟫ m.: üstün insan, süpermen, kahraman
+⟪अतिपुरुष⟫ m.: üstün insan, süper kahraman, yiğit
 
 ⟪अतिस्तुति⟫ f.: aşırı övgü
 
 ⟪अत्युक्ति⟫ f.: aşırı konuşma, abartı
 :::
->> En önemli edimsel ön bileşenler a-/an-, su-, dus-'dir.
+En önemli edimsel ön bileşenler a-/an-, su-, dus- dir.
 
 ⟪अ⟫ (ünsüzden önce), ⟪अन्⟫ (sesliden önce): un-: bileşikte ⟪न⟫ "değil" yerine kullanılır.
 
@@ -47,9 +47,9 @@ kullanılabilir. Böyle Tatpuruş bileşikler genellikle Nityasamāsa sınıfın
 
 ⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: yapılmamış, işlenmemiş
 
-⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : bir Brahman olmayan kadın, Unbrahmin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : bir Brahman olmayan kadın, Brahman değil
 
-⟪अदेव⟫ m. = ⟪न देवः⟫ : bir tanrı olmayan, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ : bir ilah olmayan, tanrı değil
 :::
 ⟪सु⟫ "iyi, güzel"; bileşik çözülürken yorumcular tarafından "iyi" anlamına gelen bir sıfatla (örneğin ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) değiştirilir.
 
@@ -384,27 +384,27 @@ A) Aşağıdaki bileşikleri Sanskritçe olarak çözün ve çeviri önerileri s
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी काली⟫
+Resm.: ⟪मृतिसाधनी काली⟫
 1770 Baskı
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1802))
 :::
-B) 2. Şimdiki Zaman sınıfındaki fiilleri kullanarak çevirin:
+B) 2. Şimdiki Zaman Sınıfı fiillerini kullanarak çevirin:
 
 1\. Brahman, tanrıçaları övmektedir.
 
 2\. Kahramanlar, Aryaların köyüne giden zor yürünür yolda ilerlemektedirler.
 
-3\. Ev kadını inekleri sağmaktadır.
+3\. Ev hizmetçisi inekleri sağmaktadır.
 
-4\. Aryaların düşmanları, güçlü Kṣatriyaları öldürmektedir.
+4\. Aryaların düşmanları güçlü Kṣatriyaları öldürmektedir.
 
 5\. Bir hayalet meyve yemez.
 
-6\. Böylece, [yeniden doğum yolunu iyi giden], öğrenciye şöyle konuşur.
+6\. Böylece, [yeniden doğum yolunu iyi giden], öğrenciye şöyle der.
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः गन्धार⟫ 1./2. yy. MS
+Resm.: ⟪सुगतः गन्धार⟫ 1./2. yy. MS
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1803))
 :::
 C) Yoga'nın tanımını Sanskritçe iki şekilde verin: birleşik kelime kullanarak ve birleşik kelimeyi çözerek.

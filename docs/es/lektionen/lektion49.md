@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Lección 49"
+subtitle: "Formación del imperativo (⟪लोट्⟫) de las raíces presentes no temáticas (continuación)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 49

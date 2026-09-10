@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Lectio 47"
+subtitle: "Imperativus (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 47
@@ -104,9 +105,9 @@ Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substit
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
+Fig.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/la/licenses#lekt4702))
+(Fons imaginis: [Detalia](/la/licenses#lekt4702))
 :::
 ### 47.2.4. Classis praesentis quarta (⟪दिवादि⟫)
 
@@ -120,8 +121,8 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/la/licenses#lekt4701))
+Fig.: ⟪नृत्यत⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt4701))
 :::
 ### 47.2.5. Classis praesentis decima (⟪चुरादि⟫) et Causativa
 

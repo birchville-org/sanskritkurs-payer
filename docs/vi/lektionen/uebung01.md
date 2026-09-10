@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Bài tập 1"
 uebung_id: 1
 category: "Übung"
 
 ---
 
-# Übung 1
+# Bài tập 1
 
-Lektion 1 enthält keine schriftlichen Übungen, da sie als Einführung in die Lautlehre und Aussprache konzipiert ist. Die Leseübungen am Ende der Lektion dienen der praktischen Einübung der Laute und erfordern keinen separaten Lösungsschlüssel.
+Bài học 1 không chứa các bài tập viết, vì nó được thiết kế như một phần giới thiệu về âm vị học và phát âm. Các bài đọc ở cuối bài học nhằm mục đích thực hành các âm thanh và không yêu cầu một khóa giải đáp riêng.

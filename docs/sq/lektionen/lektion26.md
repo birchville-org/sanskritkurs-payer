@@ -1,123 +1,125 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Mësimi 26"
+subtitle: "Ligji i cerebralizimit për -s- brenda fjalës"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. Ligji i cerebralizimit për -s- brenda fjalës
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — ausser **a, ā** — unmittelbar oder nur durch ⟪अनुस्वार⟫ oder ⟪विसर्ग⟫ getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+**-s-** zëvendësohet me **-ṣ-**, kur **k, r, l** ose një **vokal** — përveç **a, ā** — ndodhet menjëherë ose vetëm i ndarë nga ⟪अनुस्वार⟫ ose ⟪विसर्ग⟫ dhe ndjeket nga një tingull tjetër përveç **ṛ, r**.
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
+Ky Sandhi ndodh gjithashtu me **⟪दुस्⟫-** para guturaleve dhe labialeve të pa-zërit në kompozita.
 :::
-*Beispiele:*
+*Shembuj:*
 ::: indent
-⟪तेषाम्⟫ (aus: *te-sām*)
+⟪तेषाम्⟫ (nga: *te-sām*)
 
-aber: ⟪तासाम्⟫ (*tā-sām*)
+por: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. Ligji i cerebralizimit për dentale brenda fjalës
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
+Ngërthyesit dentalë zëvendësohen nga ngërthyesit përkatës retrofleksë pas retrofleksëve (përfshirë **-ṣ-**):
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** për shkak të **i**-së pararendëse, **ṭh** për shkak të **ṣ**-së që ndjek më pas)*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. Wortsandhi për Palatal, Guttural, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten
+Shembujt shihni më poshtë
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Ligji i dissimilimit të aspiratës së Grassmannit
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+**Një ndjekje e drejtpërdrejtë e dy aspiratave (Aspirata - Vokal - Aspirata) çon në humbjen e aspiratës së tingullit të parë:**
 
-Beispiel:
+Shembull:
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**Nëse tingulli i dytë humbet aspiratën e tij për shkak të ligjeve fonetike, atëherë aspirata rikthehet te tingulli i parë.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
+Shembujt: shihni më poshtë Futurin e  ⟪दुह्⟫ dhe  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Grassmann
-(Bildquelle: [Details](/licenses#lekt2601))
+Fig.: Hermann Grassmann
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Sandhi fjalësh për -m, -n para zëzave
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+**Para zëzave, -n dhe -m zëvendësohen me -ṃ-:**
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+Shembull: sh. më poshtë Futuri i ⟪मन्⟫
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Përdorimi i futurit të thjeshtë (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**Futuri i thjeshtë (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) shpreh:**
 
-- **die Zukunft**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
-- **Hoffnung**
-- **Befürchtung**
-- **Wahrscheinlichkeit**
-- **Meinung des Sprechenden**
-- **Befehl**
+**të ardhmen**
+**një veprim të qëlluar ose të dëshiruar ("do të shkoj", "dua të shkoj")**
+**një pritshmëri ("do të ndodhë kështu")**
+**shpresën**
+**kërcënimin ose frikën**
+**probabilitetin**
+**mendimin e folësit**
+**urdhër**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+**Futuri qëndron pjesërisht në konkurrencë me Optativin (shih më vonë).**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+p.sh. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Një person që dëshiron të bëjë një zotim, shkon te tempulli."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602))
+Fig.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2602))
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Formimi i futurit të thjeshtë (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Einfaches Futur:**
+**Futur i thjeshtë:**
 
 :::
 ::: indent
-**Futursstamm + Primärendung**
+**Stami i futurit + përfundim primar**
 :::
 ::: grammar-box
-**Futurstamm:**
+**Stami i futurit:**
 
 :::
 ::: indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+**(zakonisht) rrënjë në gradën e lartë + -sya**  
+**ose**  
+**(zakonisht) rrënjë në gradën e lartë + -i- + -sya (= - iṣya)**
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
+**Cila rrënjë ka cilin formim të stamit të futurit, duhet mësuar me format e stameve!**  
+**Në përgjithësi, forma e rrënjes dhe vokali lidhës i futurit përputhen me infinitivin.**  
+**Disa rrënje mund ta formojnë futurin opsionalisht me dhe pa vokalin lidhës -i-.**  
+**Participa Parasmaipada e futurit formohet duke i shtuar prapashtesën -nt- stamit të futurit, femini në mënyrë fakultative me -ntī ose -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele:
+Shembuj:
 
 ::: grammar-box
 
-| Wurzel | Futur 3. sg. P (Ā) |
+| Gërshen | E ardhshëm 3. sg. P (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -130,15 +132,15 @@ Beispiele:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ para të përzemërt = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Übung
+## 26.8. Ushtrim
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:
+Formoni format e ardhshme te përshtatshme ne numër, person dhe gjini verbale (Parasmaipada, Ātmanepada):  
 
-A) ohne Bindevokal -i-:
+A) pa vokal lidhës -i-:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +149,7 @@ A) ohne Bindevokal -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (Formoni të ardhshmen e ⟪दृश्⟫)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +178,7 @@ A) ohne Bindevokal -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-:
+B) Me vokal lidhës -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +195,7 @@ B) Mit Bindevokal -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (në të ardhshmen Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +204,11 @@ B) Mit Bindevokal -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-:
+C) Futuri opsionale me dhe pa -i-:
 
-1.  ⟪मुह्यन्ति⟫
-2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
+1. ⟪मुह्यन्ति⟫
+2. ⟪वर्तते⟫
+3. ⟪अश्नुवते⟫ (në Futurin Parasmaipada)
+
+
 

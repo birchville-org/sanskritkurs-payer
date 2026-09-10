@@ -1,10 +1,11 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Lição 8"
+subtitle: "Formação de substantivos & Classe presente 8"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Lição 8
@@ -85,7 +86,7 @@ Na gramática indiana tradicional, distingue-se, entre os sufixos com os quais o
 ::: media
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
-(Fonte da imagem: [Detalhes](/licenses#lekt0801))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0801))
 :::
 
 ::: note-box
@@ -120,7 +121,7 @@ Hindus devotos vão ao templo para obter a visão de Deus através de um símbol
 | Em escrita canaresa | Em escrita tâmil |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Fontes das imagens: [Detalhes](/licenses#lekt0803))
+(Fontes das imagens: [Detalhes](/pt/licenses#lekt0803))
 :::
 
 ### 8.3.4. -ti f. (kṛt)
@@ -215,13 +216,13 @@ A raiz mais importante da 8ª classe é **kṛ** 8 U (⟪कृ⟫) "fazer". A s
 ::: media
 ![](/images/lekt0809.jpg)
 Fig.: **likh** (⟪लिख्⟫) : Estilete indiano de aço para gravar em folhas de palmeira
-(Fonte da imagem: [Detalhes](/licenses#lekt0809))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : Bastão de escrita dos Batak (Sumatra), como provavelmente também era comum na Índia
-(Fonte da imagem: [Detalhes](/licenses#lekt0809))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0809))
 :::
 - **sukha** n. ⟪सुख⟫ : Felicidade, bem-estar
 - **duḥkha** n. ⟪दुःख⟫ : Infelicidade, sofrimento

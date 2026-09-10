@@ -1,108 +1,109 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Mësimi 27"
+subtitle: 'Përdorimi i Lokativit (⟪सप्तमी⟫ f. = "njëmbëdhjetë përfundim rasti")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 27
 
-## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung")
+## 27.1. Përdorimi i Lokativit (⟪सप्तमी⟫ f. = "shtatëtin pëshirim të rastit")
 
 ::: grammar-box
 
-**Der Lokativ (⟪सप्तमी⟫) steht auf die Fragen:**
-*   **wo?**
-*   **wann?**
-*   **unter welchen Umständen?**
-*   **in Bezug auf was?**
+**Lokativi (⟪सप्तमी⟫) përdoret për pyetjet:**
+*   **ku?**
+*   **kur?**
+*   **nën cilat rrethana?**
+*   **nga ana e çfarë?**
 
 :::
 ::: grammar-box
 
-**1. Der Lokativ (⟪सप्तमी⟫) bezeichnet auf die Frage "Wo?" den Raum, in (an, auf, bei) welchem der Agens (⟪कर्ता⟫) oder das Objekt einer Handlung sich befindet oder wo die Handlung selbst vor sich geht.**
+**1. Lokativi (⟪सप्तमी⟫) përgjigjet në pyetjen "Ku?" duke treguar hapësirën, ku (në, në, mbi, pranë) ndodhet agjenti (⟪कर्ता⟫) ose objekti i një veprimi, ose ku zhvillohet vetë veprimi.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "Er wohnt in der Stadt"
+> ⟪नगरे वसति⟫ = "Ai banon në qytet"
 
 :::
 ::: media
 ![](/images/lekt2701.webp)
-Abb.: ⟪जयपुरनगरे⟫
+Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Bildquelle: [Details](/licenses#lekt2701))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2701))
 :::
 
 ::: grammar-box
 
-**2. Der Lokativ bezeichnet auf die Frage "Wann?" den Zeitpunkt oder die äusseren Umstände:**
+**2. Lokativi përgjigjet në pyetjen "Kur?" duke treguar momentin kohor ose rrethanat e jashtme:**
 
-> ⟪तस्मिन्काले⟫ = "zu jenem Zeitpunkt, zu dieser Zeit"
+> ⟪तस्मिन्काले⟫ = "atëherë, në atë kohë"
 
-**Hierher gehört auch der sog. Locativus Absolutus:**
+**Kjo përfshin edhe atë që quhet Locativus Absolutus:**
 
-**Bestimmt die Handlung oder der Zustand einer Person oder Sache die Zeit, zu welcher - oder die Umstände, unter denen - eine ANDERE Person oder Sache eine Handlung vollbringt oder sich in einem bestimmten Zustand befindet, so tritt das die erste Person oder Sache bezeichnende Wort zusammen mit dem dasselbe näher bestimmenden Wort (das häufig ein Partizip ist) in den Lokativ (⟪सप्तमी⟫):**
+**Nëse veprimi ose gjendja e një personi apo sendi përcakton kohën kur - ose rrethanat në të cilat - NJË PERSON TJETËR apo send kryen një veprim ose ndodhet në një gjendje të caktuar, atëherë fjala që tregon personin ose sendin e parë bashkë me fjalën që e specifikon atë (shpesh një participle) vihet në Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit so vergeht..."
->
-> ⟪तस्मिन्गते⟫ = "als er gegangen war..."
+> ⟪एवं गच्छति काले⟫ = "ndërsa koha po kalon..."
+\>
+> ⟪तस्मिन्गते⟫ = "kur ai kishte shkuar..."
 
-**Manchmal wird der Agens (⟪कर्ता⟫) nicht extra bezeichnet:**
+**Ndoshta agjenti (⟪कर्ता⟫) nuk përmendet veçmas:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "da es sich so verhält"
+> ⟪एवं सति⟫ = "pasi gjendja është kështu"
 
-**Der Locativus absolutus muss je nach Zusammenhang übersetzt werden mit "während" (z.B. Partizip Präsens), "nachdem", "als" (z.B. PPP), "da", "weil", "obwohl", "wenn" u.s.w.**
+**Locativus absolutus duhet të përkthehet sipas kontekstit me "ndërsa" (p.sh. participle present), "pas", "kur" (p.sh. PPP), "meqenëse", "sepse", "edhe pse", "nëse" etj.**
 
-**Merke: beim Absolutivum muss Agens des Absolutivums und Agens der Hauptvers identisch sein, beim Locativus absolutus müssen der Agens des Locativus absolutus und der Agens des Hauptverbs verschieden sein.**
+**Shënim: Në absolutiv, agjenti i absolutivit dhe agjenti i fjalisë kryesore duhet të jenë identikë; në lokativ absolut, agjenti i lokativit absolut dhe agjenti i foljes kryesore duhet të jenë të ndryshëm.**
 
 :::
 ::: media
 ![](/images/lekt2702.webp)
-Abb.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
+Fig.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthan.
-(Bildquelle: [Details](/licenses#lekt2702))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2702))
 :::
 
 ::: grammar-box
 
-**3. Der Lokativ steht auch auf die Frage "In Bezug auf was?" u.ä.:**
+**3. Lokativi përdoret edhe për pyetjen "N lidhje me çfarë?" etj.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Er hat Liebe zu seinem Sohn" (wörtl. "In Bezug auf den Sohn ist bei ihm Liebe")
+> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Ai ka dashuri për të birin e tij" (fjalë për fjalë: "Në lidhje me të birin, te ai ka dashuri")
 
 :::
 ::: media
 ![](/images/lekt2703.webp)
-Abb.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
+Fig.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holi.
-(Bildquelle: [Details](/licenses#lekt2703))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2703))
 :::
 
 ::: grammar-box
 
-**4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:**
+**4. Lokativi shërben në leksikontë vendase dhe te komentuesit për të treguar kuptimin e një fjale:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)"
+> ⟪भू सत्तायाम्⟫ = "rrënja ⟪भू⟫ në kuptimin 'qenie' (sat-tā)"
 
 :::
-Weiteres zum Gebrauch des Lokativ später.
+Më tepër për përdorimin e lokativit më vonë.
 
-## 27.2. Bildung des Lokativ (⟪सप्तमी⟫)
+## 27.2. Formimi i lokativit (⟪सप्तमी⟫)
 
 ::: grammar-box
 
-**Die regulären Endungen des Lokativ (⟪सप्तमी⟫) sind:**
+**Fondet rregulltare të lokativit (⟪सप्तमी⟫) janë:**
 *   **Singular: -i**
 *   **Plural: -su**
 
-**Beachten Sie die Lautveränderungen vor -su sowie die eventuelle Cerebralisation von -su zu -ṣu!**
+**Kujdesuni për ndryshimet fonetike para -su dhe për eventualin cerebralizim të -su në -ṣu!**
 
 :::
-### 27.2.1. Konsonantische Stämme
+### 27.2.1. Fushat konsonantore
 
 ::: grammar-box
 
-| Stamm | Lokativ Singular:br⟪सप्तमी⟫ ⟪एकवचन⟫ | Lokativ Plural:br⟪सप्तमी⟫ ⟪बहुवचन⟫ |
+| Fusha | Lokativ Singular:br⟪सप्तमी एकवचन⟫ | Lokativ Plural:br⟪सप्तमी बहुवचन⟫ |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजति⟫ (yaj-at-i) | ⟪यजत्सु⟫ |
 | ⟪महान्त्⟫ | ⟪महति⟫ | ⟪महत्सु⟫ |
@@ -110,19 +111,19 @@ Weiteres zum Gebrauch des Lokativ später.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
-### 27.2.2. Frage-, Demonstrativ- und Relativpronomina
+### 27.2.2. Përemrat pyetës, dëshmor dhe lidhësor
 
 ::: grammar-box
 
 | | ⟪किम्⟫ | ⟪यद्⟫ | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Maskulinum / Neutrum:brLokativ Singular | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
-| Maskulinum / Neutrum:brLokativ Plural | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
-| Femininum:brLokativ Singular | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
-| Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
+| Maskulin / Neutër:brLokativ Singular | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
+| Maskulin / Neutër:brLokativ Plural | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
+| Feminer:brLokativ Singular | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
+| Feminer:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vokalische Stämme
+### 27.2.3. Fjalë me rrënjë zanore
 
 ::: grammar-box
 
@@ -133,191 +134,164 @@ Weiteres zum Gebrauch des Lokativ später.
 | ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
-| ⟪धेनु⟫ f. | ⟪धेनौ⟫ oder ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ ose ⟪श्रुत्याम्⟫ :br(d.m.th. ose si **kavi** :br⟪कवि⟫ ose si **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪धेनु⟫ f. | ⟪धेनौ⟫ ose ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
-## 27.3. Übersicht über die regulären Kasusendungen (⟪विभक्ति⟫)
+## 27.3. Përmbledhje e fundeve rregulltë të rastëve (⟪विभक्ति⟫)
 
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ || Plural:br⟪बहुवचनम्⟫ ||
-| | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ |
+| | Maskulin / Feminer:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutër:br⟪नपुंसकम्⟫ | Maskulin / Feminer:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutër:br⟪नपुंसकम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
-| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
-| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
+| **2. Akuzativ** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
+| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
 | **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
 | **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
-| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
+| **6. Gjenitiv** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
-**Signalrot gedruckt**: starke Kasus (bei Stammabstufung).
+**Printuar në të kuq**: raste të forta (në rast të gradimit të stamit).
 
-## 27.4. Ein Vers mit allen Deklinationsformen (Singular) zu :sig[⟪राम⟫]
+## 27.4. Një varg me të gjitha format e deklinimit (numri njëjës) për ⟪राम⟫
 
 ::: media
 ![](/images/lekt2708.webp)
-Abb.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
-(Bildquelle: [Details](/licenses#lekt2708))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2708))
 :::
-:sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
-:sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
-:sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
-:sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
-**Übersetzung:**
-1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟫).
-2. **Akkusativ:** Ich liebe (⟪भज्⟫ 1U) den Rāma, den Gebieter und Gatten (⟪ईश⟫ m.) der Ramā (= Lakṣmī).
-3. **Instrumentalis:** Rāma hat das Heer (⟪चमू⟫ f.) der Nachtstreuner (= Dämonen) (⟪निशा⟫ f. = Nacht) getötet.
-4. **Dativ:** Diesem Rāma sei Verehrung!
-5. **Ablativ:** Es gibt keine bessere (⟪परतर⟫ 3) Zuflucht (⟪परायण⟫ n.) als Rāma.
-6. **Genetiv:** Ich (⟪अहम्⟫) bin (⟪अस्मि⟫) ein Knecht Rāmas.
-7. **Lokativ:** In Rāma sei (⟪भवतु⟫) immer die Ruhe (⟪लय⟫ m.) meines (⟪मे⟫) Herzens.
-8. **Vokativ:** Rāma, errette (⟪उद्धर⟫ = Imperativ zu ⟪उद्⟫ + ⟪हृ⟫ bzw. ⟪उद्⟫ + ⟪धृ⟫) mich (⟪माम्⟫)!
+**Përkthimi:**
+1. **Nominativ:** Rāma, xhevahiri (⟪मणि⟫ mashk.) midis mbretërve (⟪राजन्⟫ mashk.) fiton gjithmonë (⟪सदा⟫).
+2. **Akkuzativ:** Unë dua (⟪भज्⟫ 1U) Rāmën, zotin dhe bashkëshortin (⟪ईश⟫ mashk.) të Ramās (= Lakṣmī).
+3. **Instrumentalis:** Rāma ka vrarë ushtrën (⟪चमू⟫ fem.) të shëtitësve natën (= demonët) (⟪निशा⟫ fem. = natë).
+4. **Dativ:** Këtij Rāme i takon adhurimi!
+5. **Ablativ:** Nuk ka një strehë më të mirë (⟪परतर⟫ 3) se Rāma.
+6. **Gjenitiv:** Unë (⟪अहम्⟫) jam (⟪अस्मि⟫) shërbëtor i Rāmas.
+7. **Lokativ:** Në Rāmën le të jetë (⟪भवतु⟫) gjithmonë qetësia (⟪लय⟫ mashk.) e zemrës sime (⟪मे⟫).
+8. **Vokativ:** Rāma, shpëto (⟪उद्धर⟫ = Imperativ për ⟪उद्⟫ + ⟪हृ⟫ ose ⟪उद्⟫ + ⟪धृ⟫) mua (⟪माम्⟫)!
 
-## 27.5. Wortliste
+## 27.5. Fjalor
 
-⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
+⟪वस्⟫ 1P (⟪वसति⟫): të qëndroj, të banoj (me lokativin e personit te i cili banon)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
-davon:
+prej tij:
 
 ::: indent
-⟪वस्तु⟫ n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
+⟪वस्तु⟫ n.: ulëse, vend; realitet, gjë reale, realitet, objekt
 
 :::
 ::: indent
-⟪वस्तुतस्⟫: in Wirklichkeit, wirklich
+⟪वस्तुतस्⟫: në fakt, vërtet
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): vesh (vishje), mbaj (vishje)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
-davon:
+prej kësaj:
 
 ::: indent
-⟪वस्त्र⟫ n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+⟪वस्त्र⟫ n.: mjet për t'u veshur = rrobë, vestim, pambuk
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Abb.: ⟪वस्त्राणि⟫
+Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Bildquelle: [Details](/licenses#lekt2706))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): shkëlqej (kjo rrënjë është e rëndësishme për shkak të formimeve emërore:)
 
 ::: indent
-⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz
+⟪वसु⟫ n.: pasuri, thesar, pronë, zotërim
 
-⟪वसन्त⟫ m.: ("leuchtend" =) Frühling (März bis Mai)
+⟪वसन्त⟫ m.: ("i ndritshëm" =) pranverë (mars deri në maj)
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Abb.: ⟪वसन्तः⟫
+Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Bildquelle: [Details](/licenses#lekt2707))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
+⟪हृ⟫ 1U (⟪हरति⟫): mbaj, bart; marr, heq, vjedh
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
-davon:
+prej kësaj:
 
 ::: indent
-⟪हर⟫ 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
+⟪हर⟫ 3: duke marrë; m.: shkatërruesi = emër tjetër i Śiva-s
 :::
-Gegenstück zu ⟪हर⟫:
+Kundërshtari i ⟪हर⟫:
 
-⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
+⟪हरि⟫ 3: blond, i verdhë, jeshil; m. emër tjetër i Viṣṇu-s (nuk i përket rrënjës ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫ m.: Viṣṇu dhe Śiva të bashkuar si një hyjni e vetme.
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704))
+Fig.: ⟪हरिहरः⟫
+Harihara (majtas: Viṣṇu, djathtas: Śiva).
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705))
+Fig.: ⟪हरिहरः⟫
+Harihara (majtas: Viṣṇu, djathtas: Śiva). Godrumdwip, Bengal Perëndimor.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2705))
 :::
-## 27.6. Übung
+## 27.6. Ushtrim
 
-**A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (⟪सप्तमी⟫) Singular und - wo es sinnvoll ist - Plural ein. Beachten Sie den verschiedenen Sandhi, d.h. schreiben Sie jedesmal den vollen Satz aus!**
+**A) Vendosni shprehjet në kllapa në Lokativ (⟪सप्तमी⟫) numër njëjës dhe - ku është e arsyeshme - shumës në fjalën e mëposhtme. Vini re Sandhi të ndryshëm, pra shkruani çdo herë fjalën e plotë!**
 
-⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+⟪रामस्⟫ ... ⟪वसति ।⟫ (⟪ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः⟫)
 
-**B) Übersetzen Sie und lösen Sie die Komposita auf:**
+**B) Përktheni dhe zgjidhni kompozitat:**
 
-⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
-
-⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫
-
-⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫
+⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2709.webp)
-Abb.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
-Gemälde von Rāja Ravi Varmā (1848 - 1906).
-(Bildquelle: [Details](/licenses#lekt2709))
+Fig.: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
+Pikture nga Rāja Ravi Varmā (1848 - 1906).
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2709))
 :::
-⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
+⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
-⟪उपनीतबालैर्गुरुकुले⟫ ⟪उष्यते⟫ ⟪॥५॥⟫
+## 27.7. Paradigmat e deklinimit për t’u mësuar
 
-⟪यज्ञकाले⟫ ⟪विगतेऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫
-
-⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫
-
-⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रोऽप्यागच्छति⟫ ⟪॥९॥⟫
-
-⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫
-
-## 27.7. Deklinationsparadigmen zum Auswendiglernen
-
-### 27.7.1. Maskulina auf -a: ⟪नर⟫
+### 27.7.1. Maskulina në -a: ⟪नर⟫
 
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪नरस्⟫ | ⟪नरास्⟫ |
-| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪नरम्⟫ | ⟪नरान्⟫ |
-| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪नरेण⟫ | ⟪नरैस्⟫ |
+| **2. Akuzativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪नरम्⟫ | ⟪नरान्⟫ |
+| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪नरेण⟫ | ⟪नरैस्⟫ |
 | **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪नराय⟫ | ⟪नरेभ्यस्⟫ |
 | **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪नरात्⟫ | ⟪नरेभ्यस्⟫ |
-| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪नरस्य⟫ | ⟪नराणाम्⟫ |
+| **6. Gjenitiv** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪नरस्य⟫ | ⟪नराणाम्⟫ |
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪नरे⟫ | ⟪नरेषु⟫ |
 
 :::
 ::: media
 ![](/images/lekt2711.webp)
-Abb.: ⟪नराः⟫
+Fig.: ⟪नराः⟫
 Naran. Udaipur.
-(Bildquelle: [Details](/licenses#lekt2711))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2711))
 :::
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### 27.7.2. Fjalë neutrale në -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -334,11 +308,11 @@ Naran. Udaipur.
 :::
 ::: media
 ![](/images/lekt2710.webp)
-Abb.: ⟪फलानि⟫
-Früchte. Bangalore.
-(Bildquelle: [Details](/licenses#lekt2710))
+Fig.: ⟪फलानि⟫
+Fruta. Bangalore.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2710))
 :::
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Fjalë feminore në -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -355,11 +329,11 @@ Früchte. Bangalore.
 :::
 ::: media
 ![](/images/lekt2718.webp)
-Abb.: ⟪क्षत्रिया⟫
-Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
-(Bildquelle: [Details](/licenses#lekt2718))
+Fig.: ⟪क्षत्रिया⟫
+Maharani Vani Vilasa Sannidhana (1866 - 1934) me nipin e saj Princ Jaya Chamaraja Wadiyar, Mysore.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2718))
 :::
-### 27.7.4. Maskulina auf -i: ⟪अरि⟫
+### 27.7.4. Maskulina në -i: ⟪अरि⟫
 
 ::: grammar-box
 
@@ -376,11 +350,11 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 :::
 ::: media
 ![](/images/lekt2712.webp)
-Abb.: ⟪अरयः⟫
-Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907).
-(Bildquelle: [Details](/licenses#lekt2712))
+Fig.: ⟪अरयः⟫
+Varësi e dy pjesëmarrësve të rebelimit të vitit 1857. Foto nga Felice Beato (1833/1834 - rreth 1907).
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2712))
 :::
-### 27.7.5. Feminina auf -i: ⟪मति⟫
+### 27.7.5. Feminina në -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -395,7 +369,7 @@ Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Bea
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
-### 27.7.6. Maskulina auf -u: ⟪गुरु⟫
+### 27.7.6. Maskulina në -u: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -412,11 +386,11 @@ Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Bea
 :::
 ::: media
 ![](/images/lekt2713.webp)
-Abb.: ⟪गुरुः⟫
+Fig.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Bildquelle: [Details](/licenses#lekt2713))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2713))
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Femina në -u: ⟪धेनु⟫
 
 ::: grammar-box
 
@@ -433,11 +407,11 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 :::
 ::: media
 ![](/images/lekt2714.webp)
-Abb.: ⟪धेनुः⟫
-Kuh in Udaipur.
-(Bildquelle: [Details](/licenses#lekt2714))
+Fig.: ⟪धेनुः⟫
+Duh në Udaipur.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2714))
 :::
-### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
+### 27.7.8. Femina shumëzëshë në -ī: ⟪देवी⟫
 
 ::: grammar-box
 
@@ -454,11 +428,11 @@ Kuh in Udaipur.
 :::
 ::: media
 ![](/images/lekt2715.webp)
-Abb.: ⟪त्रिदेवी⟫
+Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Bildquelle: [Details](/licenses#lekt2715))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2715))
 :::
-### 27.7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
+### 27.7.9. Participo i Kohës së Tashme Parasmaipada me -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -475,9 +449,9 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 :::
 ::: media
 ![](/images/lekt2716.webp)
-Abb.: ⟪सद्गुरुः⟫
+Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Bildquelle: [Details](/licenses#lekt2716))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
@@ -494,7 +468,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. Maskulina dhe Neutra në -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
 
@@ -509,7 +483,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+### 27.7.12. Demonstrativpronomina: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
 
@@ -584,8 +558,8 @@ Sai Baba of Shirdi (1835 - 1918).
 :::
 ::: media
 ![](/images/lekt2717.webp)
-Abb.: ⟪कस्मात्⟫ ?
+Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt2717))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2717))
 :::
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "Lição 50"
+subtitle: "Formação nominal: declinação regular"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 50
@@ -22,7 +23,7 @@ status: stable
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Monte Everest
-(Fonte da imagem: [Detalhes](/licenses#lekt5007))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5007))
 :::
 
 ::: grammar-box
@@ -81,7 +82,7 @@ p.ex. ⟪सुतराम्⟫ (para ⟪सु⟫) "de uma maneira melhor" (a
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5006))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5006))
 :::
 ## 50.2. Lista de palavras
 
@@ -99,7 +100,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 ![](/images/lekt5001.jpg)
 Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Fonte da imagem: [Detalhes](/licenses#lekt5001))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: segredo, solidão
 
@@ -141,7 +142,7 @@ Absol.-⟪वृष्य⟫
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Chegada da monção, Bangalore ಬೆಂಗಳೂರು
-(Fonte da imagem: [Detalhes](/licenses#lekt5002))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5002))
 :::
 ⟪संयक्⟫ Adv.: corretamente, verdadeiramente, da maneira devida; completamente, inteiramente
 
@@ -150,7 +151,7 @@ Chegada da monção, Bangalore ಬೆಂಗಳೂರು
 ::: media
 ![](/images/lekt5005.jpg)
 Fig.: ⟪आदित्यः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5005))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5005))
 :::
 ⟪सर्व⟫ 3: cada, todos
 
@@ -179,7 +180,7 @@ Declinação como ⟪यद्⟫ (exceção: nominativo/acusativo singular neut
 ::: media
 ![](/images/lekt5003.webp)
 Fig.: ⟪कल्याणी⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5003))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5003))
 :::
 ⟪कु⟫- : como primeiro membro de compostos: mau
 
@@ -187,7 +188,7 @@ Fig.: ⟪कल्याणी⟫
 ![](/images/lekt5004.webp)
 Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5004))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5004))
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver
 
@@ -213,7 +214,7 @@ A) Para a revisão da declinação: o seguinte verso contém todas as formas de 
 ![](/images/lekt5008.webp)
 Fig.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, a 80 km de Mumbai (⟪मुंबई⟫)
-(Fonte da imagem: [Detalhes](/licenses#lekt5008))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5008))
 :::
 B) Traduza:
 

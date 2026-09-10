@@ -1,10 +1,11 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Oppitunti 8"
+subtitle: "Nomien muodostus & 8. preesensluokka"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Oppitunti 8

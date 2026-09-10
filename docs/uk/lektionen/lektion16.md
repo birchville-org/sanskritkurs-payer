@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Урок 16"
+subtitle: "Про сандху приголосних на кінці слова"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 16

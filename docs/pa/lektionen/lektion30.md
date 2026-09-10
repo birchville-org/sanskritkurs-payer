@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "ਪਾਠ 30"
+subtitle: 'ਨੌਵਾਂ ਵਰਤਮਾਨ ਕਾਲ ਸ਼੍ਰੇਣੀ (⟪क्र्यादि⟫ = \"⟪क्री⟫ ਆਦਿ\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 30
@@ -516,4 +517,3 @@ B) ਹੇਠ ਲਿਖੇ ਵਾਕਿਆਂ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

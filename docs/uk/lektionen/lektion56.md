@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "Урок 56"
+subtitle: "Повторювальний аорист"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 56
@@ -306,4 +307,3 @@ A) Визначте та перекладіть без довідкових ма
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

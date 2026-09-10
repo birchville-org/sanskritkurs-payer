@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 40"
 uebung_id: 40
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,30 +7,30 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 40
+# Bài tập 40
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ am Beginn der Lektion:
+A) Dịch các ⟪सुभाषितानि⟫ ở đầu bài học:
 
-⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
-**⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen ergibt rechtes Betragen, wegen rechten Betragens wird man ehrenswert; wenn man ehrenswert ist, wird man reich; wenn man reich ist, wird man gerecht — und daraus folgt das Glück.
+⟪१⟫. **⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् ।⟫**  
+**⟪पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥ १ ॥⟫**  
+Tri thức mang lại ứng xử đúng đắn; nhờ có ứng xử đúng đắn, người ta trở nên đáng kính trọng; khi đã đáng kính trọng, người ta sẽ giàu có; khi giàu có, người ta sẽ công bằng — và từ đó dẫn đến hạnh phúc.
 
-⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
-**⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Wenn man auf der Suche nach Glück das Wissen aufgibt, oder wenn man auf der Suche nach Wissen das Glück aufgibt: Woher sollte dann ein Glücksuchender Wissen haben, und woher ein Wissensuchender Glück?
+⟪२⟫. **⟪सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् ।⟫**  
+**⟪सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥ २ ॥⟫**  
+Nếu người ta từ bỏ tri thức khi tìm kiếm hạnh phúc, hoặc nếu người ta từ bỏ hạnh phúc khi tìm kiếm tri thức: Từ đâu một kẻ tìm kiếm hạnh phúc có thể có tri thức, và từ đâu một kẻ tìm kiếm tri thức có được hạnh phúc?
 
-⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
-**⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel durch seinen eigenen Verstand, ein Viertel von seinen Mitschülern und ein Viertel durch den Lauf der Zeit.
+⟪३⟫. **⟪आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया ।⟫**  
+**⟪पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥ ३ ॥⟫**  
+Một học trò nhận được một phần tư (tri thức) từ thầy giáo của mình, một phần tư nhờ trí tuệ của chính mình, một phần tư từ các bạn học cùng lớp và một phần tư do dòng chảy của thời gian.
 
 ---
 
-## Verbale Transformationen (Perfekt)
+## Biến đổi Động từ (Thì Hoàn thành)
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person):
+B) Chuyển các dạng động từ sau sang thì hoàn ứng tương ứng (Ngôi thứ nhất):
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt (1. Person) |
+| Hiện tại / Quá khứ chưa hoàn thành | Hoàn thành (Ngôi thứ nhất) |
 | :--- | :--- |
 | ⟪१⟫. ⟪अश्नीमः⟫ | ⟪आशिम⟫ |
 | ⟪२⟫. ⟪स्मः⟫ | ⟪आसिम⟫ |
@@ -46,9 +46,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪१२⟫. ⟪युञ्ज्मः⟫ | ⟪युयुजिम⟫ |
 | ⟪१३⟫. ⟪अजानीम⟫ | ⟪जज्ञिम⟫ |
 | ⟪१४⟫. ⟪ददामि⟫ | ⟪ददौ⟫ |
-| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां⟫ ⟪चकार⟫ |
+| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां चकार⟫ |
 | ⟪१६⟫. ⟪वच्मः⟫ | ⟪ऊचिम⟫ |
-| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां⟫ ⟪चक्रे⟫ |
+| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां चक्रे⟫ |
 | ⟪१८⟫. ⟪वसामः⟫ | ⟪ऊषिम⟫ |
 | ⟪१९⟫. ⟪अभवाम⟫ | ⟪बभूविम⟫ |
 | ⟪२०⟫. ⟪अस्यामि⟫ | ⟪आस⟫ |
@@ -61,12 +61,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪२७⟫. ⟪अनश्याम⟫ | ⟪नेशिम⟫ / ⟪नेश्म⟫ |
 | ⟪२८⟫. ⟪चरामः⟫ | ⟪चे⟫er⟪िम⟫ |
 | ⟪२९⟫. ⟪अवदाम⟫ | ⟪ऊदिम⟫ |
-| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां⟫ ⟪चकृम⟫ |
+| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां चकृम⟫ |
 | ⟪३१⟫. ⟪दध्महे⟫ | ⟪दधिमहे⟫ |
 | ⟪३२⟫. ⟪पिबामि⟫ | ⟪पपौ⟫ |
 | ⟪३३⟫. ⟪धरामः⟫ | ⟪दध्रिम⟫ |
 | ⟪३४⟫. ⟪म्रिये⟫ | ⟪ममार⟫ / ⟪ममर⟫ (P!) |
-| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां⟫ ⟪चकृम⟫ |
+| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां चकृम⟫ |
 | ⟪३६⟫. ⟪मन्ये⟫ | ⟪मेने⟫ |
 | ⟪३७⟫. ⟪स्वपिमः⟫ | ⟪सुषुप्पिम⟫ |
 | ⟪३८⟫. ⟪पामि⟫ | ⟪पपौ⟫ |
@@ -86,7 +86,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪५२⟫. ⟪स्मरिष्यामः⟫ | ⟪सस्मरिम⟫ |
 | ⟪५३⟫. ⟪अभजाम⟫ | ⟪भेजिम⟫ |
 | ⟪५४⟫. ⟪जेष्यामः⟫ | ⟪जिग्यिम⟫ |
-| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां⟫ ⟪चक्रे⟫ |
+| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां चक्रे⟫ |
 | ⟪५६⟫. ⟪विन्दामः⟫ | ⟪विविदिम⟫ |
 | ⟪५७⟫. ⟪धक्ष्यामः⟫ | ⟪देहिम⟫ |
 | ⟪५८⟫. ⟪शक्नुमः⟫ | ⟪शेकिम⟫ |
@@ -94,66 +94,66 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪६०⟫. ⟪भोत्स्ये⟫ | ⟪बुबुधे⟫ |
 | ⟪६१⟫. ⟪लभे⟫ | ⟪लेभे⟫ |
 | ⟪६२⟫. ⟪नर्तिष्यामि⟫ | ⟪ननर्त⟫ |
-| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां⟫ ⟪चकार⟫ |
+| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां चकार⟫ |
 | ⟪६४⟫. ⟪द्विष्महे⟫ | ⟪दिद्विषिमहे⟫ |
-| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां⟫ ⟪चक्रे⟫ |
+| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां चक्रे⟫ |
 | ⟪६६⟫. ⟪अजुहुम⟫ | ⟪जुहुविम⟫ |
 | ⟪६७⟫. ⟪अहनम्⟫ | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. ⟪पश्यामः⟫ | ⟪ददृशिम⟫ |
-| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
+| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां चक्रे⟫ |
 :::
 ::: media
 ![](/images/uebung065.webp)
 Abb.: ⟪आशिमेति⟫
-(Bildquelle: [Details](/licenses#uebung065))
+(Nguồn ảnh: [Chi tiết](/licenses#uebung065))
 :::
 ---
 
-## Wortformbestimmung
+## Xác định hình thái từ
 
-Bestimmen und übersetzen Sie folgende Wortformen:
+Hãy xác định và dịch các hình thái từ sau:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| Hình thái từ | Xác định | Ý nghĩa |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | ich gab / er gab für sich |
-| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | sie geben für sich |
-| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | im Bösen |
-| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | ich sitze |
-| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | diese |
-| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | im Gegangenen |
-| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | von hier / gegangen |
-| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | von wo / des Gehenden |
-| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | dem Gehenden |
-| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | er wird gegangen |
-| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | welches |
-| ⟪१२⟫. ⟪यदा⟫ | Adv. | wann (relativ) |
-| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | ich pries für mich |
-| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | er pries |
-| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | des Absoluten / des Brahmanen |
-| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | der Brahmane |
-| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | ich erhalte |
-| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | im Gewinn |
-| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | ich erhielt / er erhielt |
-| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | in der Gier |
-| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | irgendwelche |
-| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | im System |
-| ⟪२३⟫. ⟪तत्र⟫ | Adv. | dort |
-| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | in Manu |
-| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | ich dachte / er dachte |
-| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | wir werden wissen |
-| ⟪२७⟫. ⟪कच्चित्⟫ | Fragepartikel | etwa? |
-| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | ich verliess / er verliess |
-| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | o Wissenschaft! |
-| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | die Wissenschaft |
-| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | durch diesen |
-| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | ich sah |
-| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | er sagte |
-| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | er schlug |
+| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | tôi đã cho / ông ấy đã cho chính mình |
+| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | họ cho chính mình |
+| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | trong cái ác |
+| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | tôi ngồi |
+| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | những cái này |
+| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | trong cái đã đi qua |
+| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | từ đây / đã đi qua |
+| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | từ đâu / của người đang đi |
+| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | cho người đang đi |
+| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | ông ấy được đi qua |
+| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | cái nào |
+| ⟪१२⟫. ⟪यदा⟫ | Adv. | khi nào (quan hệ) |
+| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | tôi đã ca ngợi chính mình |
+| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | ông ấy đã ca ngợi |
+| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | của cái Tuyệt đối / của người Bà-la-môn |
+| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | người Bà-la-môn |
+| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | tôi nhận được |
+| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | trong lợi nhuận |
+| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | tôi đã nhận được / ông ấy đã nhận được |
+| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | trong sự tham lam |
+| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | bất kỳ cái nào |
+| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | trong hệ thống |
+| ⟪२३⟫. ⟪तत्र⟫ | Adv. | ở đó |
+| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | trong Manu |
+| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | tôi đã nghĩ / ông ấy đã nghĩ |
+| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | chúng ta sẽ biết |
+| ⟪२७⟫. ⟪कच्चित्⟫ | Question particle | có lẽ? |
+| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | tôi đã rời bỏ / ông ấy đã rời bỏ |
+| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | hỡi Tri thức! |
+| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | Tri thức |
+| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | bằng cái này |
+| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | tôi đã thấy |
+| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | ông ấy đã nói |
+| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | ông ấy đã đánh |
 :::
 ::: media
 ![](/images/uebung066.webp)
-Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Bildquelle: [Details](/licenses#uebung066))
+Hình: ⟪काश्चन वाहिकाः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung066))
 :::
 

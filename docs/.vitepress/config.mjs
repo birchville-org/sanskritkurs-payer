@@ -19,7 +19,6 @@ import { rm } from './locales/rm.mjs'
 import { ro } from './locales/ro.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
 import { ar } from './locales/ar.mjs'
-// import { arc } from './locales/arc.mjs'
 import { id } from './locales/id.mjs'
 import { zhCN } from './locales/zh-CN.mjs'
 import { he } from './locales/he.mjs'
@@ -29,7 +28,6 @@ import { grc } from './locales/grc.mjs'
 import { fi } from './locales/fi.mjs'
 import { hu } from './locales/hu.mjs'
 import { zh } from './locales/zh.mjs'
-import { cop } from './locales/cop.mjs'
 import { fa } from './locales/fa.mjs'
 import { nl } from './locales/nl.mjs'
 import { am } from './locales/am.mjs'
@@ -84,7 +82,6 @@ populateSidebar(el, 'Μάθημα', 'el', 'Γραφή', 'Άσκηση');
 populateSidebar(th, 'บทที่', 'th', 'ตัวอักษร', 'แบบฝึกหัด');
 populateSidebar(grc, 'Μάθημα', 'grc', 'Γραφή', 'Ἄσκησις');
 populateSidebar(zh, '第', 'zh', '書寫', '練習');
-populateSidebar(cop, 'ⲙⲁⲑⲏⲙⲁ', 'cop', 'ⲥϧⲁⲓ', 'ⲅⲩⲙⲛⲁⲥⲓⲁ');
 populateSidebar(fa, 'درس', 'fa', 'خط', 'تمرین');
 populateSidebar(nl, 'Les', 'nl', 'Schrift', 'Oefening');
 populateSidebar(am, 'ትምህርት', 'am', 'ጽሕፈት', 'መልመጃ');
@@ -105,7 +102,7 @@ populateSidebar(et, 'Õppetund', 'et', 'Kiri', 'Harjutus');
 
 
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, zu, da, no, sv, is, et
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, et, zu
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
@@ -155,7 +152,6 @@ export default defineConfig({
     fi: { ...fi },
     hu: { ...hu },
     zh: { ...zh },
-    cop: { ...cop },
     fa: { ...fa },
     nl: { ...nl },
     am: { ...am },
@@ -169,7 +165,8 @@ export default defineConfig({
     no: { ...no },
     sv: { ...sv },
     is: { ...is },
-    et: { ...et }
+    et: { ...et },
+    zu: { ...zu }
   },
   
   themeConfig: {
@@ -227,7 +224,6 @@ export default defineConfig({
           he: { translations: { button: { buttonText: 'חפש' } } },
           rm: { translations: { button: { buttonText: 'Tschertgar' } } },
           ar: { translations: { button: { buttonText: 'بحث' } } },
-          // arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
           la: { translations: { button: { buttonText: 'Quaerere' } } },
           sq: { translations: { button: { buttonText: 'Kërko' } } },
           el: { translations: { button: { buttonText: 'Αναζήτηση' } } },

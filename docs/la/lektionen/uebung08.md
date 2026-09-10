@@ -1,8 +1,9 @@
 ---
-title: "Exercitium VIII"
+title: "Exercitatio VIII"
 uebung_id: 8
-category: "Exercitium"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -86,124 +87,131 @@ kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / 
 
 2\. Vir sanctus caelum et inferna videt.
 
+2\. A holy man sees both heaven and hell.
+
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪साधुः स्वर्गांश्च नरकांश्च पश्यति ।⟫
 
-3\. Eum Kṣatriyas vincit.
+3\. He defeats the Kṣatriyas.
 
 kṣatriyāñ jayati.
 
-⟪क्षत्रियञ्जयति⟫ ⟪।⟫
+⟪क्षत्रियञ्जयति ।⟫
 
-4\. Illa telam intendit.
+4\. She sets up the warp.
 
 tantraṃ tanoti.
 
-⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
+⟪तन्त्रं तनोति ।⟫
 
-5\. Milites pugnānt.
+5\. Soldiers fight.
 
 yodhā yudhyante.
 
-⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪योधा युध्यन्ते ।⟫
 
-6\. Brahmanus ignem facit.
+6\. The Brahmin makes a fire.
+
 brāhmaṇo 'gniṃ karoti.
 
-⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
+⟪ब्राह्मणो ऽग्निं करोति ।⟫
 
-7\. Brahmanī ignes faciunt.
+7\. Brahmins make fires.
 
 brāhmaṇā agniṃ kurvanti.
 
-⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा अग्निं कुर्वन्ति ।⟫
 
-8\. Quid faciunt hi milites?
+8\. What do these warriors do?
+
 ime yodhāḥ kiṃ kurvanti?
 
-⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪इमे योधाः किं कुर्वन्ति ।⟫
 
-9\. Quem videt oculus?
+9\. Whom does the eye see?
+
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं पश्यति ।⟫
 
-10\. Quid deī concupiscunt?
+10\. What do the gods desire?
+
 devāḥ kiṃ lubhyanti?
 
-⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪देवाः किं लुभ्यन्ति ।⟫
 
-11\. Quae est causa?
+11\. What is the reason?
+
 kiṃ kāraṇam?
 
-⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
+⟪किं कारणम् ॥⟫
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
+(Image source: [Details](/licenses#uebung007))
 :::
 ---
 
-## Leseexercitium
+## Reading Exercise
 
-1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-Śūdra puerum ducit.
+1\. ⟪शूद्रो बालं नयति⟫ |
+The Śūdra leads the boy.
 
-2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-Poeta deō sacrificat.
+2\. ⟪कविर्देवं यजते⟫ |
+The poet sacrifices to the god.
 
-3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Sanctus fructūs edít.
+3\. ⟪साधुः फलानि खादति⟫ |
+The holy man eats fruits.
 
-4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-Magister iram suam vincit.
+4\. ⟪गुरुः क्रोधं जयति⟫ |
+The master conquers his anger.
 
-5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Deus inferna creat.
+5\. ⟪देवो नरकं सृजति⟫ |
+The god creates hell.
 
-6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Vaca villum intrat.
+6\. ⟪धेनुर्ग्रामं विशति⟫ |
+The cow enters the village.
 
-7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-Concupiscentia, ira et cupiditas ad inferna ducunt.
+7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+Passion, anger, and greed lead to hell.
 
-8\. ⟪देवतां⟫ ⟪यजति⟫ |
-Ille pro domino sacrificii deī sacrificat.
+8\. ⟪देवतां यजति⟫ |
+He sacrifices for a lord of sacrifice to the deity.
 
-9\. ⟪बाला⟫ ⟪भवति⟫ |
+9\. ⟪बाला भवति⟫ |
 Puella nascitur.
 
-10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
+10\. ⟪सारथी रथं नयति⟫ |
 Auriga currum regit.
 
-11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-Mācī fructūs edunt.
+11\. ⟪कपयः फलानि खादन्ति⟫ |
+Simiae fructus edunt.
 
-12\. ⟪बाला⟫ ⟪लिखति⟫ |
+12\. ⟪बाला लिखति⟫ |
 Puella scribit vel pingit.
 
-13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+13\. ⟪कुमारी गृहं विशति⟫ |
 Virgo domum intrat.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+14\. ⟪देवो नागं सृजति⟫ |
+Deus elephantum vel serpentem vel nāgam creat.
 
-15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-Puer elephāntum ducit.
+15\. ⟪बालो गजं नयति⟫ |
+Puer elephantum ducit.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nōmen proprium Vimalā)
-Vimalā ist traurig.
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ nomen proprium Vimalā)
+Vimalā tristis est.
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
+17\. ⟪शुकः पतति⟫ |
 Psittacus volat.
 
-18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
-Puer litteram scribit.
+18\. ⟪बालः पत्रिकां लिखति⟫ |
+Puer epistulam scribit.
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
-(Bildquelle: [Details](/licenses#uebung008))
+Abb.: ⟪कपिः फलं खदति⟫
+(Imaginis auctor: [Details](/licenses#uebung008))
 :::

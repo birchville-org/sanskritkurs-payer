@@ -1,6 +1,7 @@
 ---
-title: Lektion 53
+title: "Lecție 53"
 lesson_id: 53
+
 ---
 
 # Lecția 53
@@ -374,15 +375,15 @@ Următoarele adjective pronominale se declină ca ⟪सर्व⟫. La ablativ
 
 **Superlativul în -iṣṭha (fem.: iṣṭhā) se declină ca declinarea temelor în a- sau ā-.**
 
-**Deklination von -īyas siehe unten.**
+**Pentru declinarea lui -īyas, vezi mai jos.**
 :::
 Exemple:
 
 ::: grammar-box
 | Rădăcină | Adjectiv | Comparativ | Superlativ |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "a arunca" | ⟪क्षिप्र⟫ 3 "rapid" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "a sta" | ⟪स्थिर⟫ 3 "stabil, ferm" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "a arunca" | ⟪क्षिप्र⟫ 3 "rapid" | :sig[⟪क्षेपीयस्⟫] 3 "mai rapid" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "cel mai rapid" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "a sta" | ⟪स्थिर⟫ 3 "stabil, ferm" | :sig[⟪स्थेयस्⟫] 3 "mai ferm" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "cel mai ferm" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Reguli speciale pentru atașarea acestor sufixe:**
 
@@ -439,27 +440,10 @@ Exemplu:
 | ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "scurt" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
-::: media
-![](/images/lekt5309.webp)
-Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Sursa imaginii: [Detalii](/ro/licenses#lekt5309))
-:::
-**Unele forme de comparație de acest tip nu au deloc o formă de bază derivată din rădăcină, ele sunt "defective". De aceea, următoarele serii trebuie reținute cu deosebită atenție:**
-
-::: grammar-box
-| (Adjectiv) | Comparativ | Superlativ |
-| --- | --- 
-| (⟪अल्प⟫ 3 "mic, puțin") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "demn de laudă, bun") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "demn de laudă, bun") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "mult") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "bătrân") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "bătrân") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
-:::
 ## 53.9. Declinarea comparativelor în -īyas
 
 ::: grammar-box
-**Comparativele în -īyas formează femininul în -īyasī (declinare conform cu ⟪देवी⟫). Masculinul și neutrul se declină conform următorului paradigmă.**
+**Comparativele în -īyas formează femininul în -īyasī (declinare ca ⟪देवी⟫). Masculinul și neutrul se declină conform următorului paradigmă.**
 :::
 ::: grammar-box
 
@@ -473,7 +457,22 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | **:sig[⟪गरीयान्⟫]** | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+:::
+## 53.10. Metrică (Teoria metrelor)
+
+::: media
+![](/images/lekt5303.jpg)
+Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5303))
+:::
+Vezi de asemenea:
+
+> **Payer, Alois (1944–):** Introducere în exegeza textelor sanscrite : Script. -- Cap. 8: Exegeza propriu-zisă, Partea a II-a: La anumite probleme de înțelegere sincron. -- Anexa B: Despre metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+
+### 53.10.1. Semnificația determinării metrului
+
+Determinarea metrului este importantă din următoarele motive:
 :::
 ## 53.10. Metrică (învățământ despre măsurile versurilor)
 

@@ -574,7 +574,26 @@ de:
 
 ⟪अमुत्र⟫ Adv.: acolo, în acea direcție
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : a se mișca, a se deplasa, a cădea
+din aceasta:
+
+⟪सेवा⟫ f.: serviciu, vizită de respect
+:::
+⟪धीर⟫ 3: ferm, statornic, continuu, perseverent
+
+⟪शम् शाम्यति⟫
+
+::: indent
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
+:::
+⟪कोविद⟫ 3: experimentat în (⟪षष्ठ्या सप्तम्या वा⟫)
+
+⟪याम⟫ m.: strajă de noapte (fiecare trei ore)
+
+⟪परंपरा⟫ f.: serie neîntreruptă
+
+⟪अमुत्र⟫ Adv.: acolo, în acea direcție
+
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : a se mișca, a se deplasa, a cădea în jos
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -591,7 +610,7 @@ PPP ⟪च्युत⟫
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/ro/licenses#lekt5214))
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: bananier (_Musa_ sp.)
 
@@ -599,7 +618,7 @@ Konark = ⟪कोनार्क⟫
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/ro/licenses#lekt5208))
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5208))
 :::
 ⟪सार⟫ m.n.: miez, esență, substanță
 
@@ -614,7 +633,7 @@ Hampi = ಹಂಪೆ
 ::: media
 ![](/images/lekt5215.webp)
 Abb.: ⟪मलम् मुंबई⟫
-(Bildquelle: [Details](/ro/licenses#lekt5215))
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: cerul lui Indra
 
@@ -624,7 +643,7 @@ Abb.: ⟪मलम् मुंबई⟫
 ![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, sec. II d.Hr.
-(Bildquelle: [Details](/ro/licenses#lekt5217))
+(Sursa imaginii: [Detalii](/ro/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: cineva care dorește să cunoască pe deplin
 
@@ -637,13 +656,6 @@ Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
-:::
-## 52.8. Exerciții de traducere
-
-⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
-
-::: indent
-⟪यद्यत्परवशं कर्म ततद्यत्नेन वर्जयेत् । यद्यदात्मवशं तु स्यात् ततत्सेवेत यत्नतः ॥१५९॥ सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् । एतद्विद्यात्समासेन लक्षणं सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥ यत्कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः । तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥१६१॥⟫
 
 Explicație: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
 :::

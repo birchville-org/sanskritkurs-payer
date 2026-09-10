@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lição 58"
+subtitle: "As desinências primárias do dual (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 58
@@ -47,7 +48,7 @@ Antes de -vas e -vahe, a vogal temática -a- é substituída por -ā-.
 ![](/images/lekt5802.webp)
 Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5802))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5802))
 :::
 ### 58.2.3. Sexta classe do presente (⟪तुदादिगणः⟫)
 
@@ -75,7 +76,7 @@ Fig.: ⟪नृत्यतः⟫
 ![](/images/lekt5803.webp)
 Fig.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Fonte da imagem: [Detalhes](/licenses#lekt5803))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5803))
 :::
 ## 58.3. O dual do futuro simples (⟪ऌत्⟫)
 
@@ -145,7 +146,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ::: media
 ![](/images/lekt5806.webp)
 Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5806))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5806))
 :::
 ⟪इ⟫ + ⟪अधि⟫ 2Ā "estudar"
 
@@ -159,7 +160,7 @@ Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 ::: media
 ![](/images/lekt5804.webp)
 Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5804))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5804))
 :::
 ⟪हन्⟫ 2P "matar"
 
@@ -182,7 +183,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 ::: media
 ![](/images/lekt5805.webp)
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5805))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5805))
 :::
 ### 58.5.2. Terceira classe do presente (⟪जुहोत्यादिगणः⟫)
 
@@ -218,7 +219,7 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ![](/images/lekt5807.webp)
 Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5807))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5807))
 :::
 ### 58.5.4. Oitava classe do presente (⟪तनादिगणः⟫)
 
@@ -273,7 +274,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ::: media
 ![](/images/lekt5801.webp)
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5801))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5801))
 :::
 ## 58.6. Aoristo 5: Aoristo em iṣ
 
@@ -378,7 +379,7 @@ Paradigmas:
 ::: media
 ![](/images/lekt5808.webp)
 Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5808))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5808))
 :::
 ## 58.7. Exercício
 
@@ -445,4 +446,3 @@ B) Traduza e analise as seguintes formas:
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

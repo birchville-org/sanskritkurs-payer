@@ -4,18 +4,18 @@ layout: home
 hero:
   name: "Curso de sánscrito"
   text: "Un curso completo"
-  tagline: "por Alois Payer (Biblioteca Global Village de Tüpfli)"
+  tagline: "de Alois Payer (Biblioteca Global Village de Tüpfli)"
   actions:
     - theme: brand
       text: "Iniciar curso"
       link: /es/lektionen/lektion01
     - theme: alt
-      text: "Temas gramaticales"
+      text: "Temas de gramática"
       link: /es/grammatik
 
 features:
   - title: "Global y políglota"
-    details: "Completamente disponible en más de 20 idiomas mediante una cascada automatizada y multicapa de traducción por inteligencia artificial."
+    details: "Completamente disponible en más de 20 idiomas mediante una cascada automatizada de traducción por inteligencia artificial multicapa."
   - title: "PWA con prioridad offline"
     details: "Todo el curso (incluida la base de datos local) es utilizable en todos los dispositivos sin conexión activa a Internet."
   - title: "Tipografía académica"

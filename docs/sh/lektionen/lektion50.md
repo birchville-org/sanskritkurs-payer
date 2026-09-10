@@ -1,109 +1,109 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "Lekcija 50"
+subtitle: "Imenička tvorba: pravilno povišenje"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 50
 
-## 50.1. Nominalbildung: regelmässige Steigerung
+## 50.1. Nominalna tvorba: pravilno stupnjevanje
 
 ::: grammar-box
-**Die regelmässige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"**
+**Pravilno stupnjevanje se u sanskrtu vrši uz pomoć ⟪तद्धित⟫ sufiksa**
+* **-⟪तर⟫ (ž. rod: ⟪तरा⟫) u "komparativu"**
+* **⟪तम⟫ (ž. rod: ⟪तमा⟫) u "superlativu"**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.**
+**Ovi se sufiksi pridodaju muškom korenu priložnih imenica. Kod imenica sa promenom osnove pridodaju se slaboj osnovi, koja ima oblik kao pre nastavka -su lokativa (⟪पञ्चमी⟫) množine.**
 :::
 ::: media
 ![](/images/lekt5007.webp)
-Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007))
+Slika: ⟪लोकस्योत्तमो गिरिः सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
+(Izvor slike: [Detalji](/sh/licenses#lekt5007))
 :::
 
 ::: grammar-box
-**Bedeutung:**
+**Značenje:**
 
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":**
+**"Komparativ" znači, ako nije izražen upoređeni predmet: "prilično, veoma, previše":**
 
 :::
 ::: indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
+npr. ⟪सुचितर⟫ 3 "prilično čist", "veoma čist", "previše čist"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
+**Ako je izražen upoređeni predmet, on stoji u ablativu (⟪पञ्चमी⟫). Komparativ + ablativ odgovara stupnjevanju sa "od" na nemačkom.**
 
 ::: indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
+npr. ⟪देवदत्ताद्रामो धीमत्तरः⟫ = dosl.: "gledano od Devadatte, Rāma je razumniji" = "Rāma je razumniji od Devadatte"
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äusserst, sehr":**
+**"Superlativ" znači, ako nije izražen upoređeni predmet: "najviše, veoma":**
 
 ::: indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äusserst gut, sehr gut"
+npr. ⟪सत्तम⟫ 3 (od ⟪सन्त्⟫) "najbolji, veoma dobar"
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
+**Ako je izražen upoređeni predmet, on stoji u genitivu (⟪षष्ठी⟫) ("od", "među"), a superlativ odgovara nemačkom superlativu (najviši stepen):**
 
 ::: indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
+npr. ⟪द्विजानां सत्तमः⟫ = "najbolji među dvaput rođenima"
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
+**The suffixes -⟪तर⟫ and -⟪तम⟫ can attach not only to adjectives, but also to nouns, indeclinables, and even verbal forms:**
 
-Beispiele:
+Examples:
 
 ::: indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas)
+⟪गजतम⟫ m. "the best elephant" (⟪गज⟫) (also a designation of the Buddha)
 
-⟪गोतम⟫ m. "der grösste Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
+⟪गोतम⟫ m. "the greatest ox" (⟪गो⟫) or: "richest in cattle"
 
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
+⟪उद्⟫ Indecl. "on", "upwards" » ⟪उत्तर⟫ 3 "higher" » ⟪उत्तम⟫ 3 "highest"
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:**
+**When these suffixes attach to a verbal form, they always appear in the adverbial form:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
 
-Beispiele:
+Examples:
 
 ::: indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser"
+⟪पचतितराम्⟫ "he/she/it cooks better"
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
+⟪पचतितमाम्⟫ "he/she/it cooks best"
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
+**This form do these suffixes also have when they attach to an indeclinable and the derived word is used adverbially:**
 
 ::: indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
+e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbial)
 :::
 ::: media
 ![](/images/lekt5006.webp)
-Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006))
+Fig.: ⟪का पचतितमाम्⟫
+Lisu = 傈僳族, ⟪अरुणाचल प्रदेश⟫
+(Image source: [Details](/sh/licenses#lekt5006))
 :::
-## 50.2. Wortliste
+## 50.2. Word List
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
+⟪ध्रुव⟫ 3: firm, unchangeable
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
+⟪निषेक⟫ m.: sprinkling, fertilization, fluid, ejaculate, ceremony at conception
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
+⟪पण्डित⟫ 3: clever, wise, learned
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : to disregard, to despise
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+⟪मन्त्रिन्⟫ 3: advisory ; m.: advisor, councilor, minister
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
+Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+(Image source: [Details](/sh/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ n.: secret, solitude
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : to be damaged, to fail, to injure
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -112,7 +112,7 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : break, destroy
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -121,11 +121,11 @@ Pass. ⟪लुप्यते⟫
 Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+Gerundiv ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: also: fate (to ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : to rain (mostly with a ⟪कर्तृ⟫ -- a god or a cloud)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -134,161 +134,123 @@ Pass. ⟪वृष्यते⟫
 Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+Fig.: ⟪महामेघो वर्षिष्यति⟫
+Arrival of the monsoon, Bangalore  ಬೆಂಗಳೂರು
+(Image source: [Details](/sh/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ Adv.: correctly, truly, in the proper manner ; thoroughly, completely
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ m.: sun ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : a specific class of gods
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+Fig.: ⟪आदित्यः⟫
+(Image source: [Details](/sh/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: each, all
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+Declension like ⟪यद्⟫ (exception: Nom.Acc.sg.Neuter)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : Particle, which emphasizes the preceding word: indeed, truly, but
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Adv.: here, here on earth, hither; now. Before nouns in the locative (⟪षष्ठी⟫) synonymous with ⟪अस्मिन्⟫, ⟪अस्याम् कल्प⟫ m: ordinance, custom, ritual; [World period](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (to ⟪कॢप्⟫)
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :beautiful
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+Fig.: ⟪कल्याणी⟫
+(Image source: [Details](/sh/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- : as the first member of compounds: bad
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+Fig.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(Image source: [Details](/sh/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : to see
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+not used in other tenses
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : to tell, to consider as, to name
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.: place, spot, land, region
 
-## 50.3. Übersetzungsübung
+## 50.3. Translation Exercise
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
+A) For review of declension: the following verse contains all singular declension forms for ⟪गुरु⟫ m.:
 
 ::: indent
-⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
-⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
-⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
-⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
+⟪गुरुरेव गतिर्गुरुमेव भजे गुरुणैव सहास्मि नमो गुरवे । न गुरोः परमं शिशुरस्मि गुरोर् मतिरस्ति गुरौ मम पाहि गुरो ॥⟫
 :::
 ::: media
 ![](/images/lekt5008.webp)
-Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
-Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008))
+Fig.: ⟪गुरुमेव भजे⟫
+Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫) away
+(Image source: [Details](/sh/licenses#lekt5008))
 :::
-B) Übersetzen Sie:
+B) Translate:
 
-⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
+⟪मनुस्मृति ४⟫, ⟪१७८⟫
 
 ::: indent
-⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
-⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
-⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
-⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫
+⟪येनास्य पितरो याता येन याताः पितामहाः । तेन यायात्सतां मार्गम् तेन गच्छन्न रिष्यते ॥१॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+⟪मनुस्मृति ३⟫, ⟪६३⟫
 
 ::: indent
-⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
-⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
-⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
-⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫
+⟪कुविवाहैः क्रियालोपैर् वेदानध्ययनेन च । कुलान्यकुलतां यान्ति ब्राह्मणातिक्रमेण च ॥२॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+⟪मनुस्मृति ३⟫, ⟪६०⟫
 
 ::: indent
-⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
-⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
-⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
+⟪संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+⟪मनुस्मृति ३⟫, ⟪७५⟫ - ⟪७६⟫: On the Necessity of Sacrifice
 
 ::: indent
-⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
-⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
-⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
-⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥४॥⟫
-⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫
-⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫
-⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫
-⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫
+⟪स्वाध्याये नित्ययुक्तः स्याद् दैवे चैवेह कर्मणि । दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥४॥ अग्नौ प्रास्ताहुतिः सम्यग् आदित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर् वृष्टेरन्नं ततः प्रजाः ॥५॥⟫
 :::
-⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+⟪योगसूत्र २⟫, ⟪१६⟫ - ⟪१७⟫
 
 ::: indent
-⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-:sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
+⟪हेयं दुःखमनागतम् ॥६॥⟫
+sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो हेयहेतुः ॥७॥⟫
 
-Erklärung:
-:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.Dual (Dualdvandva)
+Explanation:
+⟪द्रष्टृदृश्ययोः⟫ : Gen.Loc.m.n.f.Dual (Dualdvandva)
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+⟪कौटिलीयार्थशास्त्र १⟫, ⟪१५⟫: On the King's Advisors
 
 ::: indent
-⟪न⟫ ⟪किंचिदवमन्येत⟫
-⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
-⟪बालस्याप्यर्थवद्वाक्यम्⟫
-⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
+⟪न किंचिदवमन्येत सर्वस्य शृणुयानमतम् । बालस्याप्यर्थवद्वाक्यम् उपयुन्जीत पाण्डितः ॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+⟪मनुस्मृति २⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition of ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 ::: indent
-⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
-⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
-⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
-⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥९॥⟫
+⟪उपनीय तु यः शिष्यं वेदमधापयेत्द्द्विजः । सकल्पं सरहस्यं च तमाचार्यां प्रचक्षते ॥९॥ एकदेशं तु वेदस्य वेदाङ्गान्यपि वा पुनः । यो ऽध्यापयति वृत्त्यर्थम् उपाध्यायः स उच्यते ॥१०॥ निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि यः करोति यथाविधि । संभावयति चान्नेन स विप्रो गुरुरुच्यते ॥११॥⟫
 
-⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫
-⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫
-⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
-⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
-
-⟪निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि⟫
-⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
-⟪संभावयति⟫ ⟪चान्नेन⟫
-⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
-
-Erklärungen:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
+Explanations:
+⟪निषेकादीनि⟫ : Nom.Acc.pl.Neuter
 :::
 

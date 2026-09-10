@@ -461,11 +461,11 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ::: grammar-box
 | | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
->> | **1. Nominative:br⟪१⟫. ⟪prathamā⟫** | ⟪trayas⟫ | ⟪trīṇi⟫ | ⟪tisras⟫ |
+| **1. Nominative:br⟪१⟫. ⟪prathamā⟫** | ⟪trayas⟫ | ⟪trīṇi⟫ | ⟪tisras⟫ |
 | **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
 | **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
->> | **5. Ablative:br⟪५⟫. ⟪pañcamī⟫** | ⟪tribhyas⟫ || ⟪tisṛbhyas⟫ |
+| **5. Ablative:br⟪५⟫. ⟪pañcamī⟫** | ⟪tribhyas⟫ || ⟪tisṛbhyas⟫ |
 | **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::

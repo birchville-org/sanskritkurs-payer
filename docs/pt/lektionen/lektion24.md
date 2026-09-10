@@ -1,10 +1,11 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Lição 24"
+subtitle: 'O dativo (⟪चतुर्थी⟫ = "quarta terminação casu'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 24
@@ -35,7 +36,7 @@ ou:
 ::: media
 ![](/images/lekt2404.webp)
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2404))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2404))
 :::
 
 ::: grammar-box
@@ -58,7 +59,7 @@ Exemplo:
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Fonte da imagem: [Details](/licenses#lekt2401))
+(Fonte da imagem: [Details](/pt/licenses#lekt2401))
 :::
 
 ::: grammar-box
@@ -74,7 +75,7 @@ Exemplo:
 ![](/images/lekt2402.webp)
 Fig.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Fonte da imagem: [Detalhes](/licenses#lekt2402))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2402))
 :::
 
 ::: grammar-box
@@ -92,7 +93,7 @@ Exemplos:
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Fonte da imagem: [Detalhes](/licenses#lekt2403))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2403))
 :::
 Outros usos do dativo mais tarde.
 
@@ -195,7 +196,7 @@ Da mesma forma que ⟪अलम्⟫ com o instrumental, usa-se:
 ::: media
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2405))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: impulso, motivo, causa, razão ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ com genitivo ou como último membro de um composto = "por causa de, devido a"
 
@@ -205,7 +206,7 @@ Fig.: ⟪अलंकारः⟫
 ![](/images/lekt2406.webp)
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Fonte da imagem: [Detalhes](/licenses#lekt2406))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2406))
 :::
 ⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : ocorrer, acontecer, surgir
 
@@ -241,7 +242,7 @@ disso
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Fonte da imagem: [Detalhes](/licenses#lekt2407))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : útil
 
@@ -260,7 +261,7 @@ disso:
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Fonte da imagem: [Details](/licenses#lekt2408))
+(Fonte da imagem: [Details](/pt/licenses#lekt2408))
 :::
 
 ::: indent
@@ -289,7 +290,7 @@ disso:
 ![](/images/lekt2411.webp)
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscrito do ⟪गीतगोविन्द⟫, 1730 d.C.
-(Fonte da imagem: [Detalhes](/licenses#lekt2411))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2411))
 :::
 ⟪स्वागत⟫ n.: Boas-vindas (de su-ā-gata)
 
@@ -374,7 +375,7 @@ Veneração (⟪नमस्⟫) a Śiva! Veneração a Śrī Gaṇeśa!
 ::: media
 ![](/images/lekt2409.webp)
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2409))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2409))
 :::
 Até logo! (= Bem-estar (⟪स्वस्ति⟫ f.) para vós!)
 
@@ -393,7 +394,7 @@ Explicação: ⟪मुनित्रयम्⟫ "a tríade dos sábios = os t
 ![](/images/lekt2410.webp)
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ despedaça ⟪हिरण्यकशिपु⟫, folha de um manuscrito do ⟪भागवतपुराण⟫
-(Fonte da imagem: [Details](/licenses#lekt2410))
+(Fonte da imagem: [Details](/pt/licenses#lekt2410))
 :::
 Boas-vindas (⟪स्वागतम्⟫) a vós. Boas-vindas à rainha.
 

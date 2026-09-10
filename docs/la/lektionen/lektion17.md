@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Lectio 17"
+subtitle: "Secunda classis praesentis (⟪अदादि⟫ = ⟪अद्⟫ etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 17

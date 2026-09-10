@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "บทที่ 25"
+subtitle: 'การสร้างกรณีวิภัตติบทที่ 5 (⟪पञ्चमी⟫ = \"วิภัตติบทที่ห้า\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 25

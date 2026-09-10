@@ -74,7 +74,7 @@ Voorbeelden:
 **Vorming:**
 
 **sterke stam:**
->> *   3./1. sg. P Perfectum eindigt op -au
+*   3./1. sg. P Perfectum eindigt op -au
 *   2\. sg. P : Hoogstand -ā of Laagstand -i
 
 **zwakke stam:**
@@ -104,7 +104,7 @@ Voorbeeld:
 
 Wordt gevormd van wortels van het type (Medeklinker)-Medeklinker-a-Medeklinker
 :::
->> ### 35.3.1. Perfectum Type Va: zwakke stam Laagstand
+### 35.3.1. Perfectum Type Va: zwakke stam Laagstand
 
 ::: grammar-box
 **Vorming:**

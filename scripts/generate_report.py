@@ -10,6 +10,7 @@ import re
 import subprocess
 import difflib
 from pathlib import Path
+from translation.config import TOTAL_MASTER
 from datetime import datetime
 import time
 import json
@@ -98,7 +99,6 @@ LANG_MAP = [
     ('zh-CN', '简体中文', '🇨🇳'),
     ('am', 'አማርኛ', '🇪🇹'),
     ('pt', 'Português', '🇵🇹'),
-    ('cop', 'ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ', '🇪🇬'),
     ('af', 'Afrikaans', '🇿🇦'),
     ('nl', 'Nederlands', '🇳🇱'),
     ('fa', 'فارسی', '🇮🇷'),
@@ -109,7 +109,6 @@ LANG_MAP = [
     ('zh', '繁體中文', '🇹🇼'),
     ('tr', 'Türkçe', '🇹🇷'),
     ('vi', 'Tiếng Việt', '🇻🇳'),
-    ('zu', 'isiZulu', '🇿🇦'),
     ('pl', 'Polski', '🇵🇱'),
     ('cs', 'Čeština', '🇨🇿'),
     ('sk', 'Slovenčina', '🇸🇰'),
@@ -117,10 +116,17 @@ LANG_MAP = [
     ('ka', 'ქართული', '🇬🇪'),
     ('hy', 'Հայերեն', '🇦🇲'),
     ('si', 'සිංහල', '🇱🇰'),
-    ('te', 'తెలుగు', '🇮🇳')
+    ('te', 'తెలుగు', '🇮🇳'),
+    ('da', 'Dansk', '🇩🇰'),
+    ('no', 'Norsk', '🇳🇴'),
+    ('sv', 'Svenska', '🇸🇪'),
+    ('is', 'Íslenska', '🇮🇸'),
+    ('gez', "Ge'ez", '🇪🇹'),
+    ('et', 'Eesti', '🇪🇪'),
+    ('zu', 'isiZulu', '🇿🇦')
 ]
 
-TOTAL_MASTER = 140
+
 
 def get_active_process():
     try:
@@ -434,6 +440,9 @@ def generate_report():
         elif r["code"] in skipped_langs:
             status = "🚧 Maschinelles Limit"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
+        elif not (DOCS / r["code"]).exists() if r["code"] != "de" else False:
+            status = "📁 Nicht angelegt"
+            offen_str = "0 Dateien"
         else:
             status = "⌛ In Warteschlange"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"

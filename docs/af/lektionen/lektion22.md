@@ -1,6 +1,6 @@
 ---
 title: "Lesing 22"
-subtitle: "Die Absolutivkonstruktion (⟪क्त्वा । ल्यप्⟫)"
+subtitle: "Die absolutiefkonstruksie (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -156,7 +156,7 @@ waarvan:
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Fig.: ⟪दुर्गाशक्तिः⟫
+Afb.: ⟪दुर्गाशक्तिः⟫
 Kolkata = কলকাতা
 (Beeldbron: [Besonderhede](/af/licenses#lekt2203))
 :::
@@ -182,7 +182,7 @@ waarvan:
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Fig.: ⟪धेनवश्चरन्ति⟫
+Afb.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt2201))
 :::
@@ -235,6 +235,6 @@ Goa = ⟪गोंय⟫
 
 ::: media
 ![](/images/lekt2204.webp)
-Fig.: ⟪अन्नं पक्त्वा⟫
+Afb.: ⟪अन्नं पक्त्वा⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt2204))
 :::

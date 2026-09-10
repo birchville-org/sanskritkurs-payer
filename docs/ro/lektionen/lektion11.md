@@ -1,10 +1,11 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Lecție 11"
+subtitle: "Acuzativul dublu (acuzativul persoanei și al lucrului)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 11

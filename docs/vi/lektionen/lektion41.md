@@ -299,11 +299,6 @@ Việc sử dụng các hậu tố này phần lớn trùng lặp
 * **-⟪तव्य⟫ (giống cái -⟪तव्या⟫):** luôn diễn đạt sự cần thiết và được ưu tiên sử dụng với chức năng vị ngữ (hiếm khi là định ngữ). Các từ được tạo thành bằng hậu tố này không nên được sử dụng trong các danh từ ghép.
 * **-⟪अनीय⟫ (giống cái -⟪अनीया⟫) và -⟪य⟫ (giống cái -⟪या⟫) / -⟪त्य⟫ (giống cái -⟪त्या⟫) (thay cho -⟪य⟫/-⟪या⟫):** có thể mang thêm một ý nghĩa khác (đặc biệt là -⟪य⟫) theo nghĩa của tiếng Đức "-wert" (ví dụ: "đáng xem") hoặc chỉ một khả năng "-bar" (⟪दृश्य⟫ "có thể nhìn thấy"). Các từ được tạo thành bằng các hậu tố này có thể bị phủ định bởi ⟪अ⟫-/-⟪अन्⟫- (nhưng không phải các từ được tạo thành bằng -⟪तव्य⟫) và có ⟪तत्पुरुष⟫ xuất hiện như một thành phần đứng sau của chúng.
 :::
-### 41.2.5. Không kết hợp với ⟪सु⟫- và ⟪दुस्⟫-
-
-::: grammar-box
-Không được kết hợp Gerundivum với ⟪सु⟫- và ⟪दुस्⟫- mang nghĩa "dễ" hoặc "khó". Thay vào đó, sử dụng ⟪तत्पुरुष⟫ thuộc loại  ⟪सुकर⟫ 3 ("dễ để làm") (xem [Bài học 18](lektion18.md)).
-:::
 ## 41.3. Danh sách từ vựng
 
 ⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.: rắn
@@ -311,7 +306,7 @@ Không được kết hợp Gerundivum với ⟪सु⟫- và ⟪दुस्�
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/vi/licenses#lekt4105))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4105))
 :::
 ⟪केवलम्⟫ Adv.: chỉ, duy nhất, hoàn toàn
 
@@ -320,7 +315,7 @@ Abb.: ⟪भुजङ्गः⟫
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Abb.: ⟪भुजङ्गस्य विषम्⟫
-(Bildquelle: [Details](/vi/licenses#lekt4104))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4104))
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : quở trách, chế ngự, ra lệnh, dạy dỗ
 
@@ -341,7 +336,7 @@ trong đó có:
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/vi/licenses#lekt4109))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4109))
 :::
 
 ::: indent
@@ -352,8 +347,19 @@ Abb.: ⟪शासना⟫
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/vi/licenses#lekt4110))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4110))
 :::
+
+::: indent
+⟪शिष्य⟫ 3: người được dạy = học sinh
+:::
+⟪शरण⟫ 3: bảo vệ, che chở ; n. sự bảo vệ, nơi nương tựa, việc tìm đến chỗ nương tựa
+
+⟪सङ्घ⟫ n.: (dùng với ⟪सम्⟫-⟪हन्⟫ : đánh cùng nhau): đám đông, nhóm, cộng đồng (ví dụ Phật giáo)
+
+⟪कन्या⟫ f.: cô gái trẻ, con gái, trinh nữ
+
+⟪अति⟫ Tiền tố: vượt qua, ngang qua, hơn nữa (về không gian, thời gian, số lượng, khối lượng, thứ tự, quyền lực, cường độ), vô cùng
 
 ::: indent
 ⟪शिष्य⟫ 3: người được dạy = học sinh

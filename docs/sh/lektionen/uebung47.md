@@ -1,158 +1,159 @@
 ---
-title: "Exercise 47"
+title: "[Vježba 47]"
 uebung_id: 47
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
-
-
-# Vežba 47
-
-A) Übersetzen Sie:
-
-⟪१⟫. **⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Wenn du gehen willst, dann geh! Ich werde nicht gehen.
-
-⟪२⟫. **⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Edler, sieh meine Demütigung!
-
-⟪३⟫. **⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Herr Rāma, wenn ich gehen muss, dann soll auch dieses Mädchen meine Begleiterin sein.
-
-⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Gnädige Frau, bleiben Sie stehen, bleiben Sie stehen. Sie brauchen keine Angst zu haben.
-
-⟪५⟫. **⟪प्रसीदत्वार्यः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Beruhigen Sie sich, edler Herr!
-
-⟪६⟫. **⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Willkommen, gnädige Frau!
-
-⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Edler Herr, bitte befehlen Sie, was ich tun soll.
-
-⟪८⟫. **⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Rüste dich zum Kampf, so wird dir kein Übel geschehen.
-
-⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Frage: "Wovor fürchtest du dich?" Antwort: "Vor den Vorzügen dieses Rāma." Frager: "Was sind das für Vorzüge eines Mannes, in dessen Haus es nichts zu essen gibt, wenn man eintritt?"
-
-⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Das Schwert bleibe in deiner Hand!
-
-⟪११⟫. **⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Gnädige Frau, Ihre Demütigung soll Herrn Rāma nicht berichtet werden.
 
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ)
 
-B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs:
+# Exercise 47
 
-⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden.
+A) Translate:
 
-⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein.
+⟪१⟫. **⟪यदि गच्छसि गच्छ त्वम् । अहं न गमिष्यामि ॥ १ ॥⟫**
+If you want to go, then go! I will not go.
 
-⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Wir wollen rufen.
+⟪२⟫. **⟪आर्य प्रेक्षस्व मे परिभवम् ॥ २ ॥⟫**
+Noble one, behold my humiliation!
 
-⟪४⟫. **⟪तुभ्यं⟫ ⟪नमानि⟫ ⟪।⟫** (Oder: **⟪नमानि⟫ ⟪ते⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**)
-Ich will mich dir beugen.
+⟪३⟫. **⟪भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥ ३ ॥⟫**
+Lord Rāma, if I must go, then this girl too shall be my companion.
 
-⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Diese Tat soll getan werden.
+⟪४⟫. **⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥ ४ ॥⟫**
+My lady, stay, stay. You need not be afraid.
 
-⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Sie sollen schlafen. (Passiv-Konstruktion)
+⟪५⟫. **⟪प्रसीदत्वार्यः ॥ ५ ॥⟫**
+Calm yourself, noble lord!
 
-⟪७⟫. **⟪पुत्र⟫ ⟪धने⟫ ⟪यतस्व⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (Oder: **... ⟪धनं⟫ / ⟪धनाय⟫ ...**)
-Mein Sohn, strebe nach Reichtum!
+⟪६⟫. **⟪आर्ये स्वागतं ते ॥ ६ ॥⟫**
+Welcome, my lady!
 
-⟪८⟫. **⟪अध्ययनमारभध्वम्⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Beginnt das Studium!
+⟪७⟫. **⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥ ७ ॥⟫**
+Noble lord, please command what I should do.
 
-⟪९⟫. **⟪पितृभ्यः⟫ ⟪पिण्डान्प्रयच्छत⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Gebt den Vorvätern Speiseopfer!
+⟪८⟫. **⟪युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥ ८ ॥⟫**
+Arm yourself for battle, and no harm shall befall you.
 
-⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen sich freuen!
+⟪९⟫. **⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥ ९ ॥⟫**
+Question: "What do you fear?" Answer: "The merits of this Rāma." Interrogator: "What kind of merits are these for a man, in whose house there is nothing to eat when one enters?"
 
-⟪११⟫. **⟪लोकमवेक्षै⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Ich will auf die Welt blicken.
+⟪१०⟫. **⟪तवैव हस्ते शस्त्रं तिष्ठतु ॥ १० ॥⟫**
+Let the sword remain in your hand!
 
-⟪१२⟫. **⟪काशीं⟫ ⟪पद्यामहै⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫**
-Wir wollen nach Benares gehen.
+⟪११⟫. **⟪भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥ ११ ॥⟫**
+My lady, your humiliation shall not be reported to Lord Rāma.
 
-⟪१३⟫. **⟪देवान्यजन्ताम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Sie sollen als Opferherren die Götter verehren.
+---
 
-⟪१४⟫. **⟪स्तोत्रं⟫ ⟪गाय⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Singe ein Loblied!
+## Translations into Sanskrit (Imperative)
 
-⟪१५⟫. **⟪पुत्रा⟫ ⟪मे⟫ ⟪जायन्ताम्⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Söhne sollen mir geboren werden!
+B) Translate into Sanskrit using the imperative:
 
-⟪१६⟫. **⟪तुभ्यं⟫ ⟪मे⟫ ⟪गृहं⟫ ⟪दिशानि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-Ich will dir mein Haus zeigen.
+⟪१⟫. **⟪भ्रियै ॥ १ ॥⟫**
+I want to be received.
 
-⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
-Gehe von mir weg!
+⟪२⟫. **⟪तुष्यतु ॥ २ ॥⟫**
+He shall be content.
 
-⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll befreit werden!
+⟪३⟫. **⟪ह्वयाम ॥ ३ ॥⟫**
+We want to call.
 
-⟪१९⟫. **⟪तव⟫ ⟪भार्यां⟫ ⟪रक्षाणि⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Ich will deine Gattin behüten.
+⟪४⟫. **⟪तुभ्यं नमानि ।⟫** (Or: **⟪नमानि ते ॥ ४ ॥⟫**)
+I want to bow down to you.
 
-⟪२०⟫. **⟪शत्रो⟫ ⟪म्रियस्व⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Stirb, Feind!
+⟪५⟫. **⟪एतत्कर्म क्रियताम् ॥ ५ ॥⟫**
+This deed shall be done.
 
-⟪२१⟫. **⟪युध्यध्वम्⟫ ⟪॥⟫ ⟪२१⟫ ⟪॥⟫**
-Kämpft!
+⟪६⟫. **⟪भवता सुप्यताम् ॥ ६ ॥⟫**
+They shall sleep. (Passive construction)
 
-⟪२२⟫. **⟪आज्ञापयन्तु⟫ ⟪॥⟫ ⟪२२⟫ ⟪॥⟫**
-Sie mögen befehlen.
+⟪७⟫. **⟪पुत्र धने यतस्व ॥ ७ ॥⟫** (Or: **... ⟪धनं⟫ / ⟪धनाय⟫ ...**)
+My son, strive for wealth!
 
-⟪२३⟫. **⟪तव⟫ ⟪गृहे⟫ ⟪वसाम⟫ ⟪॥⟫ ⟪२३⟫ ⟪॥⟫**
-Wir wollen in deinem Haus wohnen.
+⟪८⟫. **⟪अध्ययनमारभध्वम् ॥ ८ ॥⟫**
+Begin the study!
 
-⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
-So soll es geschehen!
+⟪९⟫. **⟪पितृभ्यः पिण्डान्प्रयच्छत ॥ ९ ॥⟫**
+Give food offerings to the forefathers!
 
-⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
-Schlage das Pferd!
+⟪१०⟫. **⟪नन्दन्तु ॥ १० ॥⟫**
+They shall rejoice!
 
-⟪२६⟫. **⟪भ्रमन्तु⟫ ⟪॥⟫ ⟪२६⟫ ⟪॥⟫**
-Sie sollen umherirren.
+⟪११⟫. **⟪लोकमवेक्षै ॥ ११ ॥⟫**
+I want to look upon the world.
 
-⟪२७⟫. **⟪माद्यत⟫ ⟪॥⟫ ⟪२७⟫ ⟪॥⟫**
-Berauscht euch!
+⟪१२⟫. **⟪काशीं पद्यामहै ॥ १२ ॥⟫**
+We want to go to Benares.
 
-⟪२८⟫. **⟪अश्वो⟫ ⟪भारं⟫ ⟪कर्षतु⟫ ⟪॥⟫ ⟪२८⟫ ⟪॥⟫**
-Das Pferd soll die Last ziehen.
+⟪१३⟫. **⟪देवान्यजन्ताम् ॥ १३ ॥⟫**
+They shall worship the gods as sacrifice-lords.
 
-⟪२९⟫. **⟪लोकान्कल्पयाम⟫ ⟪॥⟫ ⟪२९⟫ ⟪॥⟫**
-Wir wollen die Welten ordnen.
+⟪१४⟫. **⟪स्तोत्रं गाय ॥ १४ ॥⟫**
+Sing a hymn of praise!
 
-⟪३०⟫. **⟪पानं⟫ ⟪पिब⟫ ⟪॥⟫ ⟪३०⟫ ⟪॥⟫**
-Trinke den Trank!
+⟪१५⟫. **⟪पुत्रा मे जायन्ताम् ॥ १५ ॥⟫**
+Sons shall be born to me!
 
-⟪३१⟫. **⟪मन्यस्व⟫ ⟪॥⟫ ⟪३१⟫ ⟪॥⟫**
-Denke!
+⟪१६⟫. **⟪तुभ्यं मे गृहं दिशानि ॥ १६ ॥⟫**
+I want to show you my house.
 
-⟪३२⟫. **⟪जीयन्ताम्⟫ ⟪॥⟫ ⟪३२⟫ ⟪॥⟫**
-Sie sollen besiegt werden!
+⟪१७⟫. **⟪मत्प्रव्रज ॥ १७ ॥⟫**
+Go away from me!
 
-⟪३३⟫. **⟪त्वया⟫ ⟪नीयामहै⟫ ⟪॥⟫ ⟪३३⟫ ⟪॥⟫**
-Wir wollen von dir geführt werden.
+⟪१८⟫. **⟪मुच्यताम् ॥ १८ ॥⟫**
+He shall be liberated!
 
-⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
-Es möge zum Glück gereichen! (Segenswunsch)
+⟪१९⟫. **⟪तव भार्यां रक्षाणि ॥ १९ ॥⟫**
+I want to protect your wife.
+
+⟪२०⟫. **⟪शत्रो म्रियस्व ॥ २० ॥⟫**
+Die, enemy!
+
+⟪२१⟫. **⟪युध्यध्वम् ॥ २१ ॥⟫**
+Fight!
+
+⟪२२⟫. **⟪आज्ञापयन्तु ॥ २२ ॥⟫**
+They may command.
+
+⟪२३⟫. **⟪तव गृहे वसाम ॥ २३ ॥⟫**
+We want to live in your house.
+
+⟪२४⟫. **⟪एवं भवतु ॥ २४ ॥⟫**
+So shall it be done!
+
+⟪२५⟫. **⟪अश्वं तुद ॥ २५ ॥⟫**
+Strike the horse!
+
+⟪२६⟫. **⟪भ्रमन्तु ॥ २६ ॥⟫**
+They shall wander about.
+
+⟪२७⟫. **⟪माद्यत ॥ २७ ॥⟫**
+Intoxicate yourselves!
+
+⟪२८⟫. **⟪अश्वो भारं कर्षतु ॥ २८ ॥⟫**
+The horse shall pull the load.
+
+⟪२९⟫. **⟪लोकान्कल्पयाम ॥ २९ ॥⟫**
+We want to order the worlds.
+
+⟪३०⟫. **⟪पानं पिब ॥ ३० ॥⟫**
+Drink the draught!
+
+⟪३१⟫. **⟪मन्यस्व ॥ ३१ ॥⟫**
+Think!
+
+⟪३२⟫. **⟪जीयन्ताम् ॥ ३२ ॥⟫**
+They shall be defeated!
+
+⟪३३⟫. **⟪त्वया नीयामहै ॥ ३३ ॥⟫**
+We want to be led by you.
+
+⟪३४⟫. **⟪सुखाय भवतात् ॥ ३४ ॥⟫**
+May it bring good fortune! (Blessing)
 
 ::: media
 ![](/images/uebung075.webp)
-Abb.: ⟪माद्यत⟫
-(Bildquelle: [Details](/licenses#uebung075))
+Fig.: ⟪माद्यत⟫
+(Image source: [Details](/licenses#uebung075))
 :::

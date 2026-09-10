@@ -1,96 +1,65 @@
 ---
-title: "Ushqim 16"
+title: "Ushtrimi 16"
 uebung_id: 16
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 16
+# Ushtrimi 16
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
+A) Shndërroni shprehjet e mëposhtme në Tatpuruṣa dhe përkulini ato:
 
-⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ — ⟪देवपुरुषः⟫
+⟪१⟫. ⟪देवस्य पुरुषः ।⟫ — ⟪देवपुरुषः २⟫. ⟪गुणवती ब्राह्मणी ।⟫ — ⟪गुणवद्ब्राह्मणी ३⟫. ⟪सत्यवान्ब्राह्मणः ।⟫ — ⟪सत्यवद्ब्राह्मणः ४⟫. ⟪पशुमन्तो जनाः ।⟫ — ⟪पशुमज्जनाः ५⟫. ⟪सुखवान्वैश्यायाः पुत्रः ।⟫ — ⟪सुखवद्वैश्यापुत्रः ६⟫. ⟪सुखवत्या वैश्यायाः पुत्रः ।⟫ — ⟪सुखवद्वैश्यापुत्रः ७⟫. ⟪कवेरुक्त्याः सत्यम् ।⟫ — ⟪कव्युक्तिसत्यम् ८⟫. ⟪शिव⟫en ⟪रक्षिता बाला ।⟫ — ⟪शिवरक्षितबाला ९⟫. ⟪रामेण पीतं जलम् ।⟫ — ⟪रामपीतजलम् १०⟫. ⟪फलवांल्लाभः ।⟫ — ⟪फलवद्लाभः ११⟫. ⟪इष्टाया देवतायाः पूजा ।⟫ — ⟪इष्टदेवतापूजा १२⟫. ⟪देवानां स्तुतिः ।⟫ — ⟪देवस्तुतिः⟫
 
-⟪२⟫. ⟪गुणवती⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ — ⟪गुणवद्ब्राह्मणी⟫
+B) Zgjidhni të gjitha kompozitat në sanskritisht në fjalitë e mëposhtme, formoni fjali me emra të përkulur dhe përkulini ato:
 
-⟪३⟫. ⟪सत्यवान्ब्राह्मणः⟫ ⟪।⟫ — ⟪सत्यवद्ब्राह्मणः⟫
+⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति । पुण्यवान्वैश्यस्य पुत्रो देवानामिन्द्रस्य लोकं गच्छति ।⟫ (ose: ⟪पुण्यवतो वैश्यस्य पुत्रो⟫...)
+Bir i merituar i një Vaiśya vjen në qiellin e princit të perëndive. (ose: Bir i një Vaiśya me meritë...)
 
-⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫ — ⟪पशुमज्जनाः⟫
+⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । पुण्यस्य करणं स्वर्गस्य मार्गः ।⟫ (ose: ⟪पुण्यानां करणं स्वर्गं मार्गः ।⟫)
+Bërja e merituar është rruga për në qiell.
 
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ — ⟪सुखवद्वैश्यापुत्रः⟫
+⟪३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । न साधुः पशुवतो नरस्य धेनूनां लोभः ।⟫ (ose: ...⟪धेनोर्लोभः ।⟫)
+Dëshira e njeriut të pasur me bagëti për lopët / për lopën nuk është e mirë.
 
-⟪६⟫. ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ — ⟪सुखवद्वैश्यापुत्रः⟫
+⟪४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । न पशूनां यज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मस्य यज्ञैस्तु स्वर्गस्य सुखमाप्नुवन्ति ।⟫
+Njerëzit nuk vijnë në qiell me flijime kafshësh. Por, me flijime të drejtësie (pa gjak), ata arrijnë lumturinë qiellore.
 
-⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫ — ⟪कव्युक्तिसत्यम्⟫
+⟪५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । द्विजानां दासा इति शूद्रा उच्यन्ते ।⟫
+Një Sklav i Dyfishë të Lindurve quhet një Shudra.
 
-⟪८⟫. ⟪शिव⟫en ⟪रक्षिता⟫ ⟪बाला⟫ ⟪।⟫ — ⟪शिवरक्षितबाला⟫
+⟪६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । बा्ला ब्राह्मणानां पुत्राः स्त्यवन्तं नरं शृण्वन्ति ।⟫
+Të rinjtë bijtë të Brahmanëve dëgjojnë burrin e vërtetë.
 
-⟪९⟫. ⟪रामेण⟫ ⟪पीतं⟫ ⟪जलम्⟫ ⟪।⟫ — ⟪रामपीतजलम्⟫
+⟪७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । बलवन्तः क्षत्रिया धनवतां शत्रूनां नगरं जयन्ति ।⟫
+Kshatriyat e fuqishëm mundin qytetin e pasur të armiqve.
 
-⟪१०⟫. ⟪फलवांल्लाभः⟫ ⟪।⟫ — ⟪फलवद्लाभः⟫
+⟪८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ऋषीणामुक्त्या सत्यमुच्यते ।⟫
+Fjala e urtë të Vedave thotë të vërtetën.
 
-⟪११⟫. ⟪इष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजा⟫ ⟪।⟫ — ⟪इष्टदेवतापूजा⟫
+⟪९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । बलवन्तो योधा ब्राह्मणानां ग्रामं गताः ।⟫
+Luftëtarët e fortë kanë shkuar në fshatin Brahman.
 
-⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
-
-B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie:
-
-⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (oder: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
-Der verdienstvolle Sohn eines Vaiśya kommt in den Himmel des Götterfürsten. (oder: Der Sohn eines verdienstvollen Vaiśya...)
-
-⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
-⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (oder: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
-Tun von Verdienstlichem ist der Weg zum Himmel.
-
-⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
-⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (oder: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-Die Gier des an Vieh reichen Mannes nach Kühen / nach der Kuh ist nicht gut.
-
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
-⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-Mit Tieropfern kommen Menschen nicht in den Himmel. Mit (unblutigen) Opfern der Gerechtigkeit aber erreichen sie himmlisches Glück.
-
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-Śūdras nennt man Sklaven der Zweimalgeborenen.
-
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Die jungen Brahmanensöhne hören auf den wahrhaftigen Mann.
-
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
-⟪बलवन्तः⟫ ⟪क्षत्रिया⟫ ⟪धनवतां⟫ ⟪शत्रूनां⟫ ⟪नगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
-Die mächtigen Kṣatriyas besiegen die reiche Stadt der Feinde.
-
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-⟪ऋषीणामुक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-Das Wort der vedischen Weisen sagt die Wahrheit.
-
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-⟪बलवन्तो⟫ ⟪योधा⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-Die starken Krieger sind ins Brahmanendorf gegangen.
-
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
-⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
-Er verehrt die persönliche Gottheit des verdienstvollen Vaiśya.
+⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां करोति । पुन्यवतो वैश्यस्येष्टाया देवतायाः पूजां करोति ।⟫
+Ai nderon hyjninë personale të Vaishya-s së merituar.
 
 ::: media
 ![](/images/uebung023.webp)
-Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
-(Bildquelle: [Details](/licenses#uebung023))
+Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung023))
 :::
 ---
 
-## Deklinationsmuster
+## Model Flektimi
 
-A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen.
+A) Formoni të gjitha rastet e mëparshme të mësuar për fjalët e mëposhtme si shembuj për klasat deri tani të mësuar të flektimit.
 
 ::: grammar-box
 ⟪१⟫. ⟪नर⟫ (m.)
 
-| Kasus | Singular | Plural |
+| Rasti | Njëjës | Shumës |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪नरस्⟫ (⟪नरः⟫) | ⟪नरास्⟫ (⟪नराः⟫) |
 | 2. Akk. | ⟪नरम्⟫ | ⟪नरान्⟫ |
@@ -99,7 +68,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 ⟪२⟫. ⟪फल⟫ (n.)
 
-| Kasus | Singular | Plural |
+| Rasti | Njëjës | Shumës |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪फलम्⟫ | ⟪फलानि⟫ |
 | 2. Akk. | ⟪फलम्⟫ | ⟪फलानि⟫ |
@@ -162,9 +131,9 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 ⟪९⟫. ⟪गुणवन्त्⟫ (m./n.)
 
-**Maskulinum:**
+**Maskilino:**
 
-| Kasus | Singular | Plural |
+| Rastari | Njëjës | Shumës |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪गुणवान्⟫ | ⟪गुणवन्तस्⟫ (⟪गुणवन्तः⟫) |
 | 2. Akk. | ⟪गुणवन्तम्⟫ | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) |
@@ -173,18 +142,18 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 **Neutrum:**
 
-| Kasus | Singular | Plural |
+| Rastari | Njëjës | Shumës |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪गुणवत्⟫ | ⟪गुणवन्ति⟫ |
 | 2. Akk. | ⟪गुणवत्⟫ | ⟪गुणवन्ति⟫ |
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Femininum ⟪गुणवती⟫ përkthen si ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Rastari | Nj. m. | Nj. n. | Nj. f. | Shm. m. | Shm. n. | Shm. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪कस्⟫ (⟪कः⟫) | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
 | 2. Akk. | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
@@ -193,7 +162,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 ⟪११⟫. ⟪तद्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Rastari | Nj. m. | Nj. n. | Nj. f. | Shm. m. | Shm. n. | Shm. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪स⟫ / ⟪सो⟫ / ⟪सः⟫ | ⟪तद्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
 | 2. Akk. | ⟪तम्⟫ | ⟪तद्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
@@ -202,7 +171,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 ⟪१२⟫. ⟪एतद्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Rastari | Nj. m. | Nj. n. | Nj. f. | Shm. m. | Shm. n. | Shm. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪एष⟫ / ⟪एषो⟫ / ⟪एषः⟫ | ⟪एतद्⟫ | ⟪एषा⟫ | ⟪एते⟫ | ⟪एतानि⟫ | ⟪एतास्⟫ (⟪एताः⟫) |
 | 2. Akk. | ⟪एतम्⟫ / ⟪एनम्⟫ | ⟪एतद्⟫ / ⟪एनद्⟫ | ⟪एताम्⟫ / ⟪एनाम्⟫ | ⟪एतान्⟫ / ⟪एनान्⟫ | ⟪एतानि⟫ / ⟪एनानि⟫ | ⟪एतास्⟫ / ⟪एनास्⟫ |
@@ -211,7 +180,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 
 ⟪१३⟫. ⟪इदम्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Rasti | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪अयम्⟫ | ⟪इदम्⟫ | ⟪इयम्⟫ | ⟪इमे⟫ | ⟪इमानि⟫ | ⟪इमास्⟫ (⟪इ⟫ma⟪ाः⟫) |
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
@@ -220,39 +189,34 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 :::
 ---
 
-## Zusätzliche Übungen
+## Ushtrime Shtesë
 
-B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
+B) Përktheni dhe zgjidhni të gjitha kompozitët në sanskritisht:
 
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
-⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (oder: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
-Yoga ist das Stoppen der mentalen Tätigkeit.
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः ॥ योगसूत्र १⟫.⟪२ ॥ योगश्चित्तस्य वृत्तेर्निरोधः⟫ (ose: ⟪वृत्तीनां निरोधः⟫) ⟪।⟫
+Yoga është ndalimi i aktivitetit mendor.
 
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
-Die spezifische Pflicht des Brahmanen ist: Vedastudium, Vedaunterricht, Opfern als Opferherr, Opfern in fremdem Auftrag, Geben an Brahmanen, Empfang von Gaben.
+⟪२⟫. ⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥⟫
+Detyra specifike e Brahmanit është: studimi i Vedave, mësimdhënia e Vedave, ofrimi si zotëruesi i flijimit, ofrimi për urdhër të huaj, dhënia ndaj Brahmanëve, marrja e dhuratave.
 
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शास्त्रेणाजीवो⟫ ⟪भूतानां⟫ ⟪रक्षणं⟫ ⟪च्⟫ ⟪।⟫
-Die spezifische Pflicht eines Kṣatriya ist: Vedastudium, Opfern als Opferherr, Geben an Brahmanen, Lebensunterhalt durch das Schwert, Hüten der Lebewesen.
+⟪क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥ क्षत्रियस्याध्ययनं यजनं दानं शास्त्रेणाजीवो भूतानां रक्षणं च् ।⟫
+Detyra specifike e një Kṣatriya është: studimi i Vedave, ofrimi si zotëruesi i flijimit, dhënia ndaj Brahmanëve, mbijetesa me shpatën, ruajtja e qenieve të gjalla.
 
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪च⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫
-Die spezifische Pflicht eines Vaiśya ist: Vedastudium, Opfern als Opferherr, Geben an Brahmanen, Ackerbau und Viehhaltung, Handel.
+⟪वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥ वैश्यस्याध्ययनं यजनं दानं कृषिः पाशुपाल्यं च वणिज्या च ।⟫
+Detyra specifike e një Vaiśya është: studimi i Vedave, ofrimi si zotëruesi i flijimit, dhënia ndaj Brahmanëve, bujqësia dhe blegtoria, tregtia.
 
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
-⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
-Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgeborenen, Wirtschaftstätigkeit und Tätigkeit als Handwerker und Schausteller.
+⟪शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥ शुड्रस्य द्विजातीनां शुश्रूषा वार्त्ता कारूणां कुशीलवानां च कर्म ।⟫
+Detyra specifike e një Śūdra është shërbimi i bindshëm ndaj dy herë të lindurve, aktiviteti ekonomik dhe puna si zanatliu dhe shfaqës.
 
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
+⟪सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥⟫
+Detyrë e të gjithëve është: mosdhuna, saktësia, pastërtia, mungesa e ankesave kundrejt fatit të vet, paqëndrimi nga keqbashkimi dhe durimi i durueshëm.
+(⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
-⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
-Der Prügel bewirkt Erwerb und sicheren Besitz von Philosophie, Vedististik und Ökonomie. Die Führung des Prügels ist Politik.
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३ ॥ आन्वीक्षिक्याः त्रय्याः वार्त्ताया योगस्य क्ष⟫e⟪मस्य च साधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ।⟫
+Shuplaka shkakton fitim dhe pronësi të sigurt mbi filozofinë, vedistikën dhe ekonominë. Udhëheqja e shuplakës është politika.
 
 ::: media
 ![](/images/uebung024.webp)
-Abb.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
-(Bildquelle: [Details](/licenses#uebung024))
+Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung024))
 :::

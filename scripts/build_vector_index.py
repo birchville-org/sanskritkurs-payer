@@ -73,31 +73,49 @@ def build_index(lang="de"):
         print(f"[{lang}] Directory not found: {target_dir}")
         return
 
+    pub_mtime = pub_file.stat().st_mtime if pub_file.exists() else 0
+    old_records_by_file = {}
+    if pub_file.exists():
+        try:
+            old_data = json.loads(pub_file.read_text(encoding="utf-8"))
+            for rec in old_data.get("records", []):
+                old_records_by_file.setdefault(rec["file"], []).append(rec)
+        except Exception:
+            pass
+
     master_files = sorted(list(target_dir.glob("lektion*.md")))
     records = []
     success_count = 0
 
     for fidx, fpath in enumerate(master_files, 1):
-        content = fpath.read_text(encoding="utf-8", errors="ignore")
-        sections = content.split("\n## ")
-        for idx, sec in enumerate(sections):
-            text_snippet = sec[:1000].strip()
-            if not text_snippet:
-                continue
-            heading = text_snippet.split("\n")[0].strip("# ").strip() if idx > 0 else fpath.stem
-            vec = get_embedding(text_snippet)
-            if vec:
-                records.append({
-                    "file": fpath.name,
-                    "section": idx,
-                    "heading": heading,
-                    "snippet": text_snippet[:200].replace("\n", " "),
-                    "embedding": vec
-                })
-                success_count += 1
-        
-        print(f"[{lang}] [{fidx}/{len(master_files)}] Embedded {fpath.name} ({success_count} total sections)", flush=True)
+        if pub_mtime > 0 and fpath.stat().st_mtime < pub_mtime and fpath.name in old_records_by_file:
+            cached_recs = old_records_by_file[fpath.name]
+            records.extend(cached_recs)
+            success_count += len(cached_recs)
+            # print(f"[{lang}] [{fidx}/{len(master_files)}] Cached {fpath.name}", flush=True)
+            pass
+        else:
+            content = fpath.read_text(encoding="utf-8", errors="ignore")
+            sections = content.split("\n## ")
+            for idx, sec in enumerate(sections):
+                text_snippet = sec[:1000].strip()
+                if not text_snippet:
+                    continue
+                heading = text_snippet.split("\n")[0].strip("# ").strip() if idx > 0 else fpath.stem
+                vec = get_embedding(text_snippet)
+                if vec:
+                    records.append({
+                        "file": fpath.name,
+                        "section": idx,
+                        "heading": heading,
+                        "snippet": text_snippet[:200].replace("\n", " "),
+                        "embedding": vec
+                    })
+                    success_count += 1
+            
+            print(f"[{lang}] [{fidx}/{len(master_files)}] Embedded {fpath.name} ({success_count} total sections)", flush=True)
 
+        # Write to disk after every file (even cached ones, to ensure we don't lose data if interrupted)
         payload_json = json.dumps({
             "lang": lang,
             "total_sections": len(records),

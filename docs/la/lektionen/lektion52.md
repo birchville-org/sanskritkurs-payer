@@ -1,10 +1,11 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Lectio 52"
+subtitle: "Neutrum radicum in -i et -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 52
@@ -413,7 +414,7 @@ Septem stellae = septem clarissimae stellae Ursae maioris (Ursa maior)
     pañca + go » pañcagava (ut verbum unum non licet!) + dhana » ⟪पञ्चगवधन⟫ m. "cui divitiae quinque vaccae sunt"
 ::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
 (Fons imaginis: [Detalia](/la/licenses#lekt5207))
 :::
@@ -605,9 +606,9 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/la/licenses#lekt5214))
+(Fons imaginis: [Detalia](/la/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: bananum (_Musa_ sp.)
 

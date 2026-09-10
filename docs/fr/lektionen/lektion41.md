@@ -216,7 +216,7 @@ Exemples :
 Fig. : ⟪दृश्यो मन्दिरः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4106))
 :::
->> Formation au degré fort (Bildung der Hochstufe) :
+Formation au degré fort (formation du degré plein) :
 
 Exemples :
 

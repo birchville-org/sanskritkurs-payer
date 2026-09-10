@@ -1,6 +1,6 @@
 ---
 title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+subtitle: "Il participio perfetto passivo (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"

@@ -104,7 +104,7 @@ Aanm.: ¹ Die eindigings van die tweede en derde enkelvoud kan vervang word deur
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Fig.: ⟪प्रविशत⟫
+Afb.: ⟪प्रविशत⟫
 Hanuman-temple, Delhi = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Beeldbron: [Details](/af/licenses#lekt4702))
 :::
@@ -120,7 +120,7 @@ Hanuman-temple, Delhi = ⟪हनुमान् मन्दिर⟫, ⟪द�
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Fig.: ⟪नृत्यत⟫
+Afb.: ⟪नृत्यत⟫
 (Beeldbron: [Details](/af/licenses#lekt4701))
 :::
 ### 47.2.5. Tienste teenwoordige klas (⟪चुरादि⟫) en kausatiw
@@ -155,14 +155,14 @@ A) Vertaal:
 
 ::: media
 ![](/images/lekt4703.webp)
-Fig.: ⟪भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु⟫
+Afb.: ⟪भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु⟫
 (Beeldbron: [Details](/af/licenses#lekt4703))
 :::
 ⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥ प्रसीदत्वार्यः ॥५॥ आर्ये स्वागतं ते ॥६॥⟫
 
 ::: media
 ![](/images/lekt4704.webp)
-Fig.: ⟪आर्ये स्वागतं ते⟫
+Afb.: ⟪आर्ये स्वागतं ते⟫
 (Beeldbron: [Details](/af/licenses#lekt4704))
 :::
 ⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥ युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥ प्रश्नः⟫ : ⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥ तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥ भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥११॥⟫
@@ -193,7 +193,7 @@ B.) Vertaal na Sanskriet (gebruik de imperatief):
 
 12. Wij willen naar Benares gaan (⟪पद्⟫).
 
-13. Zij (mv.) moeten als offerheren de goden met een offer vereren.
+13. Hulle moet as offerhere die gode met 'n offer vereer.
 14\. Sing 'n loflied!
 
 15\. Mag daar seuns vir my gebore word!

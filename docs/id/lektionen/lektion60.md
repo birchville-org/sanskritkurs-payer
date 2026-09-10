@@ -1,15 +1,16 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Pelajaran 60"
+subtitle: "Akhiran dwiwarjana Perfect (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 60
 
-## 60.1. Akhiran-akhiran Perfek Dual (⟪द्विवचनम्⟫)
+## 60.1. Akhiran Dualis Perfek (⟪द्विवचनम्⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -17,11 +18,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. Bentuk Dual  reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.2. Dualis Perfek Reduplikatif (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Batangabstufung
+### 60.2.1. Tipe 1: tanpa variasi akar
 
-⟪बन्ध्⟫ 9P "binden"
+⟪बन्ध्⟫ 9P "mengikat"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -30,7 +31,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen"
+⟪भाष्⟫ 1Ā "berbicara"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -39,9 +40,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Batang Hochstufe, schwacher Batang Tiefstufe
+### 60.2.2. Tipe 2: akar kuat tingkat tinggi, akar lemah tingkat rendah
 
-⟪भिद्⟫ 7U "to split"
+⟪भिद्⟫ 7U "membelah"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -50,11 +51,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Batang Hochstufe/Dehnstufe
+### 60.2.3. Tipe 3: Akar kuat tingkat tinggi/panjang
 
-#### 60.2.3.1. Typ 3a: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
+#### 60.2.3.1. Tipe 3a: Akar kuat tingkat tinggi/panjang, akar lemah tingkat rendah
 
-⟪नी⟫ 1U "to lead"
+⟪नी⟫ 1U "memimpin"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -63,7 +64,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "to praise"
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "memuji"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -72,366 +73,366 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "to do, to make"
+⟪कृ⟫ 8U (⟪अनिट्⟫) "melakukan, membuat"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
+#### 60.2.3.2. Tipe 3b: Stamm kuat tingkat tinggi/pemanjangan, Stamm lemah tingkat tinggi
 
-⟪स्मृ⟫ 1P "to make present"
+⟪स्मृ⟫ 1P "menghadirkan kembali"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Akarn auf -ā / -ai
+### 60.2.4. Tipe 4: Akar kata berakhiran -ā / -ai
 
-⟪दा⟫ 3U "to give"
+⟪दा⟫ 3U "memberikan"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-identik dengan bentuk-bentuk yang sesuai dari Indikatif Sekarang!
+\* identik dengan bentuk-bentuk yang sesuai dari Indikatif Präsens!
 :::
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+### 60.2.5. Tipe 5: Konsonan-a-Konsonan
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Batang Tiefstufe
+#### 60.2.5.1. Tipe 5a: Konsonan-a-Konsonan, Stamm lemah tingkat rendah
 
-⟪गम्⟫ 1U "to go"
+⟪गम्⟫ 1U "pergi"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Tipe 5b: Konsonan-a-konsonan, konsonan awal bukan gutural, aspirat, h, akar lemah tanpa reduplikasi, dengan -e-
+#### 60.2.5.2. Tipe 5b: Konsonan-a-Konsonan, konsonan awal bukan gutural, aspirat, h, Stamm lemah tanpa reduplikasi, dengan -e-
 
-⟪पच्⟫ 1U "to cook"
+⟪पच्⟫ 1U "memasak"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Batang Hochstufe
+#### 60.2.5.3. Tipe 5c: Konsonan-a-Konsonan, Stamm lemah tingkat tinggi
 
-⟪क्रम्⟫ 1U "to stride"
+⟪क्रम्⟫ 1U "melangkah"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Bentuk Dual  periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. Dual dari Perfekt Periphrastis (⟪अनुप्रयोगलिट्⟫)
 
-⟪गण्⟫ 10P "to count"
+⟪गण्⟫ 10P "menghitung"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "to sit"
+⟪आस्⟫ 2Ā "duduk"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
 :::
-## 60.4. Partisip ⟪परस्मैपद⟫ dari Perfek Reduplikasi (⟪द्वित्वलिट्⟫)
+## 60.4. Partisip ⟪परस्मैपद⟫ dari Perfekt Reduplikatif (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**weak perfect stem + vāṃs**
+**Stam Perfekt lemah + vāṃs**
 
-**Jika akar sempurna lemah hanya terdiri dari satu suku kata, vokal penghubung -i- ditambahkan. Untuk beberapa bentuk sempurna, vokal penghubung bersifat opsional.**
+**Jika stam Perfekt lemah hanya terdiri dari satu suku kata, maka vokal penghubung -i- ditambahkan. Pada beberapa bentuk Perfekt, vokal penghubung bersifat opsional.**
 :::
 Contoh:
 
-| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "one who has split" |
+| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "seseorang yang telah membelah" |
 | --- | --- |
-| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "one who has been" ; "one who has thrown" |
-| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "one who has given" |
-| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "one who has cooked" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "one who has gone" |
+| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "seseorang yang telah menjadi" ; "seseorang yang telah melempar" |
+| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "seseorang yang telah memberikan" |
+| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "seseorang yang telah memasak" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "seseorang yang telah pergi" |
 
 ::: grammar-box
-**Declension:**
+**Deklinasi:**
 
-*   **strong stem: -vāṃs**
-*   **weak stem:**
-    *   **before consonant:** **-vat** **(!)**
-    *   **before vowel: -uṣ**
+*   **Stem kuat: -vāṃs**
+*   **Stem lemah:**
+*   **sebelum konsonan: -vat** **(!)**
+*   **sebelum vokal: -uṣ**
 
-**Before uṣ, the connecting vowel -i- is dropped.**
+**Sebelum uṣ, vokal penghubung -i- dihilangkan.**
 
-**Feminine:**
+**Feminin:**
 
-**weak stem before vowel + -ī (declined like ⟪देवी⟫)**
+**Stem lemah sebelum vokal + -ī (dideklinasikan seperti ⟪देवी⟫)**
 
-Example: ⟪विदुषी⟫ "a knowing one"
+Contoh: ⟪विदुषी⟫ "seorang yang mengetahui"
 :::
-Paradigms see Kielhorn, Grammar § 124:
+Lihat paradigma di Kielhorn, Grammatik § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Image source: [Detail](/en/licenses#lekt6001))
+(Sumber gambar: [Details](/id/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Sumber gambar: [Detail](/en/licenses#lekt6002))
+(Sumber gambar: [Details](/id/licenses#lekt6002))
 :::
-## 60.5. Deklinasi: Batang yang berakhiran -añc (-ac)
+## 60.5. Deklinasi Stem Berakhiran -añc (-ac)
 
 ::: grammar-box
-**Kata benda yang berakhiran -añc/-ac adalah gabungan dari prefiks, dll., dengan kata dasar akar dari akar ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "bergerak".**
+**Stem berakhiran -añc/-ac adalah gabungan dari partikel verbal dll. dengan nomina akar dari akar ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "bergerak".**
 :::
-### 60.5.1. Batang tiga bentuk yang berakhiran -añc
+### 60.5.1. Stem Tiga-Stem Berakhiran -añc
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-*   **batang kuat: -añc**
-*   **batang lemah:**
-    *   **sebelum konsonan: -ac**
-    *   **sebelum vokal:**
-        *   **-a- dari batang lemah -ac dihilangkan dan semivokal sebelumnya diganti dengan vokal panjang yang sesuai:**  
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Jika tidak ada semivokal yang mendahului -ac, -ac diganti dengan -īc:**  
-            ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+*   **Stem kuat: -añc**
+*   **Stem lemah:**
+*   **sebelum konsonan: -ac**
+*   **sebelum vokal:**
+*   **-a- dari stem lemah -ac dihilangkan dan untuk semi-vokal sebelumnya, vokal panjang yang sesuai digantikan:**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच् अन्वच्⟫ » ⟪अनूच्⟫
+*   **Jika tidak ada semi-vokal yang mendahului -ac, maka -ac diganti dengan -īc:**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Feminine:**
+**Femininum:**
 
-**weak stem before vowel + -ī (declined like ⟪देवी⟫)**
+**Stem lemah sebelum vokal + -ī (dideklinasikan seperti ⟪देवी⟫)**
 
-Example: ⟪प्रतीची⟫
+Contoh: ⟪प्रतीची⟫
 :::
-####  Paradigmen siehe Kielhorn, Tata Bahasa § 128:
+#### Lihat paradigma di Kielhorn, Grammatik § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Image source: [Detail](/en/licenses#lekt6003))
+(Sumber gambar: [Details](/id/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Image source: [Detail](/en/licenses#lekt6004))
+(Sumber gambar: [Details](/id/licenses#lekt6004))
 :::
-Here belong:
+Termasuk ke dalam kategori ini:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "backward, western"
+*   ⟪प्रत्यञ्च्⟫ 3 "mundur, barat"
 
-*   ⟪अन्वञ्च्⟫ 3 "following"
+*   ⟪अन्वञ्च्⟫ 3 "berikutnya"
 
-*   ⟪उदञ्च्⟫ 3 "directed upward, northern"
+*   ⟪उदञ्च्⟫ 3 "menghadap ke atas, utara"
 
-*   ⟪तिर्यञ्च्⟫ 3 "going horizontally (of animals)"
+*   ⟪तिर्यञ्च्⟫ 3 "bergerak horizontal (dari hewan"
 
-*   ⟪सम्यञ्च्⟫ 3 "correct"
+*   ⟪सम्यञ्च्⟫ 3 "benar"
 
-*   ⟪न्यञ्च्⟫ 3 "low"
+*   ⟪न्यञ्च्⟫ 3 "rendah"
 
-*   ⟪विष्वञ्च्⟫ 3 "going in all directions"
+*   ⟪विष्वञ्च्⟫ 3 "bergerak ke segala arah"
 
-### 60.5.2. Suku-suku Dua Batang pada -añc
+
+### 60.5.2. Kata sifat dua akar pada -añc
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-*   **strong stem: -añc**
-*   **weak stem before consonant or vowel: -ac**
+*   **akar kuat: -añc**
+*   **akar lemah sebelum konsonan atau vokal: -ac**
 :::
-Here belong:
+Termasuk ke dalam kategori ini:
 
-*   ⟪प्राञ्च्⟫ 3 "directed forward, eastern"
-*   ⟪अवाञ्च्⟫ 3 "directed downward"
+*   ⟪प्राञ्च्⟫ 3 "menghadap ke depan, timur"
+*   ⟪अवाञ्च्⟫ 3 "menghadap ke bawah"
 
-Paradigm ⟪प्राञ्च्⟫ see above!
+Paradigma ⟪प्राञ्च्⟫ lihat di atas!
 
-[Arah utama langit]
+Arah mata angin utama
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟫ 3:br"menghadap ke atas,:brutara" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"mundur,:barat" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"menghadap ke depan,:baretimur" |
+|   | ⟪दक्षिण⟫ 3:br"kanan,:bselatan" |   |
 
-(Image source: [Detail](/en/licenses#lekt6005))
+(Sumber gambar: [Details](/id/licenses#lekt6005))
 
 ## 60.6. Desiderativum (⟪सन्⟫)
 
 ::: grammar-box
-**Desideratif (⟪सन्⟫) dapat dibentuk dari setiap akar serta dari bentuk kausatif. Desideratif dapat dikonjugasikan dalam semua waktu dan modus P, Ā, dan Pasif. Bentuk-bentuk desideratif di luar stem present, bagaimanapun, sangat jarang.**
+**Dari setiap akar serta dari Kausativum, sebuah Desiderativum (⟪सन्⟫) dapat dibentuk. Desiderativum dapat dikonjugasikan dalam semua waktu dan modus P, Ā, dan Pasif. Bentuk Desiderativum di luar akar presentasi namun sangat jarang.**
 
-**Meaning:**
+**Arti:**
 
-*   **seseorang atau sesuatu ingin melakukan atau mengalami apa yang dinyatakan oleh akar kata atau bentuk kausatif**
-*   **jarang: seseorang atau sesuatu akan melakukan apa yang dinyatakan oleh akar kata atau bentuk kausatif**
+*   **seseorang atau sesuatu menginginkan untuk melakukan atau mengalami, apa yang diungkapkan oleh akar atau Kausativum**
+*   **jarang: seseorang atau sesuatu berada dalam keadaan, untuk melakukan, apa yang diungkapkan oleh akar atau Kausativum**
 :::
-####  Contohe:
+####  Contoh:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "ia ingin melakukan" |
 | --- | --- |
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "ia akan jatuh" |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "ia sedang dalam keadaan akan jatuh" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "ia ingin mencuri" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ia ingin menginstruksikan (untuk membangkitkan pengetahuan)" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ia ingin mengajar (membangunkan ke pengetahuan)" |
 
-### 60.6.1. Pembentukan  Desideratifstammes
+### 60.6.1. Pembentukan akar Desideratif
 
 ::: grammar-box
-**Roots of Present Classes 1 - 9:**
+**Akar dari kelas-kelas Present 1 - 9:**
 
-**reduplicated root + sa**
+**akar yang diduplikasi + sa**
 
-**or:**
+**atau:**
 
-**reduplicated root + i + ṣa**
+**akar yang diduplikasi + i + ṣa**
 
-Lihat Kielhorn, Tata Bahasa §§ 443 - 445 untuk aturan penggunaan vokal penghubung -i-.
+Lihat aturan penggunaan vokal penghubung -i- pada Kielhorn, Grammatik § 443 - 445.
 
-**Akar Kelas 10 Periode dan Kausatif:**
+**Akar dari kelas Present ke-10 dan Kausatif:**
 
-**reduplicated present stem + i + ṣa**
+**stam present yang diduplikasi + i + ṣa**
 :::
 ::: grammar-box
-**Form of the Root:**
+**Bentuk akar:**
 
-1.  Akar kata sebagian besar berada dalam tingkat guṇa: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
+1.  Akar biasanya berada dalam tingkat rendah: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-    1.  akhiran -i, -u diganti dengan -ī atau -ū masing-masing, jika tidak ada vokal penghubung yang mengikuti:  
-⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "ingin menaklukkan"  
-⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "ingin berlari"  
+1.  -i, -u di akhir digantikan oleh -ī atau -ū jika tidak ada vokal penghubung yang mengikuti:  
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "ingin menang"  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "ingin berlari"  
 
-    2.  akhiran -ṛ, -ṝ diganti dengan -īr, setelah konsonan labial menjadi -ūr, jika tidak ada vokal penghubung yang mengikuti:  
-⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "ingin melakukan"  
-⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "akan mati"  
-⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "ingin mengisi"  
+2.  -ṛ, -ṝ di akhir digantikan oleh -īr, atau setelah konsonan labial menjadi -ūr jika tidak ada vokal penghubung yang mengikuti:  
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "ingin melakukan"  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "dalam keadaan akan mati"  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "ingin mengisi"  
 
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ dan beberapa akar kata lain yang berakhiran -ā, -e, -o memiliki tingkat nol:  
+3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ dan beberapa akar lain yang berakhir dengan -ā, -e, -o memiliki tingkat rendah Ø:  
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
 ⟪धा⟫ » ⟪धित्स⟫-  
 ⟪मा⟫ » ⟪मित्स⟫-  
 
-2.  Akar kata dalam tingkat kuat memiliki pada Bentuk Keinginan: 
-    1.  sebagian besar akar kata yang berakhiran -ā (-e, -ai dll.):  
+2.  Akar dalam tingkat tinggi memiliki pada Desideratif: 
+1.  sebagian besar akar yang berakhir dengan -ā (-e, -ai dll.):  
 ⟪गै⟫ » ⟪जिगास⟫- "ingin bernyanyi"  
-⟪पा⟫ » ⟪पिपास⟫- "ingin minum, haus"  
+⟪पा⟫ » ⟪पिपास⟫- "ingin minum, haus"
 
-    2.  sebagian besar akar kata dengan bentuk (Konsonan -) a / ā - Konsonan:  
+2.  sebagian besar akar kata dengan bentuk (Konsonan -) a / ā - Konsonan:  
 ⟪दह्⟫ » ⟪दिधक्ष⟫- "ingin membakar"  
 ⟪खाद्⟫ » ⟪चिखादिष⟫- "ingin mengunyah"  
 
-    3.  setelah penambahan vokal penghubung -i-: 
-        1.  wajib: akar kata dengan bentuk i/u - Konsonan dan (Konsonan -) ṛ/ḷ - Konsonan:  
+3.  ketika menambahkan vokal penghubung -i-: 
+1.  wajib: akar kata dengan bentuk i/u - Konsonan serta (Konsonan -) ṛ/ḷ - Konsonan:  
 ⟪इष्⟫ » ⟪एषिषिष⟫- "ingin menginginkan"  
-⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "ingin sesuai"  
-⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "ingin tersenyum"  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "ingin menjadi sesuai"  
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "ingin tersenyum"  
 
-        2.  opsional: akar kata dengan bentuk Konsonan - (Konsonan -) i/u - Konsonan kecuali -v\_  
+2.  opsional: akar kata dengan bentuk Konsonan - (Konsonan -) i/u - Konsonan kecuali -v\_  
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "ingin berkilau"
 :::
 ::: grammar-box
-**Pada Reduplikasi:**
+**Tentang Reduplikasi:**
 
-1.  Akar yang diawali konsonan: Reduplikasi terjadi pada akar yang dimodifikasi sesuai aturan di atas, mengikuti aturan umum. Sebagai pengganti a sebagai vokal reduplikasi, muncul i:
-⟪पा⟫ » ⟪पिपास⟫-
-⟪त्यज्⟫ » ⟪तित्यज⟫-
-⟪चुर्⟫ » ⟪चुचोरयिष⟫-
-Retrofleksi setelah i/u dari akhir -s akar dihilangkan jika s dari sufiks desideratif diretrofleks:
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+1.  Akar kata yang dimulai dengan konsonan: Reduplikasi dilakukan pada akar kata yang telah diubah sesuai aturan di atas, mengikuti aturan umum. Sebagai pengganti a sebagai vokal reduplikasi, muncul i:  
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+Zerebralisasi setelah i/u dari -s akhir akar kata tidak terjadi, jika s dari sufiks desideratif mengalami zerebralisasi:  
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
 
-2.  Akar yang diawali vokal direplikasi sesuai aturan terkait untuk aorist reduplikatif ([Pelajaran 56](lektion56.md)):
-⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
-⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
-⟪ऋ⟫ » ⟪अरिरिष⟫-
+2.  Akar kata yang dimulai dengan vokal direduplikasi sesuai aturan terkait untuk Aorist tereduplikasi ([Pelajaran 56](lektion56.md)):  
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟫ » ⟪अरिरिष⟫-  
 
-3.  Untuk pembentukan desideratif khusus dari akar tertentu, lihat Kielhorn, Tata Bahasa § 451.
+3.  Pembentukan desideratif khusus untuk akar kata tertentu lihat pada Kielhorn, Grammatik § 451.
 :::
 ::: grammar-box
-**Desideratif tanpa makna desideratif dibentuk untuk beberapa akar. Desideratif dengan makna desideratif dapat dibentuk dari desideratif-desideratif ini.**
+**Untuk beberapa akar, bentuk desideratif tanpa makna desideratif dibentuk. Dari bentuk-bentuk desideratif ini dapat dibentuk bentuk-bentuk desideratif dengan makna desideratif.**
 :::
-Daftar dalam Kielhorn, Tata Bahasa § 452:
+Daftar dalam Kielhorn, Grammatik § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Image source: [Detail](/en/licenses#lekt6006))
+(Sumber gambar: [Details](/id/licenses#lekt6006))
 :::
-### 60.6.2. Konjugation  Desideratifs (⟪सन्⟫)
+### 60.6.2. Konjugasi Desideratif (⟪सन्⟫)
 
 ::: grammar-box
-**Desideratif adalah — dengan beberapa pengecualian — P, Ā, atau U, tergantung pada apakah akar dasar (atau stam verbal dasar) adalah P, Ā, atau U.**
+**Desideratif adalah - dengan beberapa pengecualian - P, Ā atau U, tergantung pada apakah akar dasar (atau bentuk verbal dasarnya) adalah P, Ā atau U.**
 
-**Present stem: Conjugated like a thematic stem:**
+**Stem Present: Konjugasi seperti stem tematik:**
 
 ⟪यज्⟫ 1U:
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "ia bermaksud untuk mengorbankan bagi orang lain"
-Ā: ⟪यियक्षते⟫ "ia bermaksud untuk mengorbankan bagi dirinya sendiri (sebagai korban)"
-Pasif: ⟪यियक्ष्यते⟫ "dimaksudkan untuk mengorbankan"
+P: ⟪यियक्षति⟫ "ia menginginkan, untuk berkorban demi orang lain"
+Ā: ⟪यियक्षते⟫ "ia menginginkan, untuk berkorban demi dirinya sendiri (sebagai tuan korban)"
+Pasif: ⟪यियक्ष्यते⟫ "diinginkan untuk berkorban"
 :::
-**Sempurna: perifrastis:**
+**Perfekt: periphrastis:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "he wished to attain"
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ "ia ingin memperoleh"
 :::
-**Aorist: iṣ-Aorist:**
+**Aorist: Aorist iṣ:**
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Future: ⟪सेट्⟫**
+**Futur: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Untuk pembentukan kata benda agen dalam -u dari batang desideratif, lihat [Pelajaran 54](lektion54.md).
+Untuk pembentukan nomina agentis pada -u dari stem desideratif, lihat [Pelajaran 54](lektion54.md).
 
 ## 60.7. Latihan
 
-A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far:
+A) Pelajari dalam Kielhorn, Grammatik § 451 pembentukan desideratif tidak beraturan untuk kata kerja yang telah dipelajari sejauh ini:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Image source: [Detail](/en/licenses#lekt6007))
+(Sumber gambar: [Details](/id/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Image source: [Detail](/en/licenses#lekt6008))
+(Sumber gambar: [Details](/id/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Image source: [Detail](/en/licenses#lekt6009))
+(Sumber gambar: [Details](/id/licenses#lekt6009))
 :::
-B) Determine and translate the following forms without aids:
+B) Tentukan dan terjemahkan bentuk-bentuk berikut tanpa alat bantu:
 
 1.  ⟪ददुषोः⟫
 

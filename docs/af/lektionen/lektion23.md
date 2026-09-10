@@ -6,8 +6,7 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----
-# Les 23
+---# Les 23
 
 ## 23.1. Die infinitief (⟪तुमुन्⟫)
 
@@ -63,34 +62,34 @@ bv.
 
 **Werwe met 'n voorwerf vorm die infinitief op dieselfde wyse as eenvoudige wortels.**
 
-**Werwe met 'n voorwerf vorm die infinitief op dieselfde wyse as eenvoudige wortels.**
+**Werkwoorde met voorvoegsels vorm die infinitief op dezelfde manier als de eenvoudige wortels.**
 :::
-Voorbeelde:
+Voorbeelden:
 
 ::: indent
 ⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Geen vaste reëls kan vasgestel word ten opsigte van die gebruik van die verbindingsvokaal -i-. In wese stem die verspreiding van die verbindingsvokaal in die infinitief ooreen met dié in die toekomende tyd.
+Er kunnen geen vaste regels worden opgesteld voor het gebruik van de tussenvoegselklinker -i-. In wezen komt de verdeling van de tussenvoegselklinker bij de infinitief overeen met die van het futurum.
 
-Van die wortels wat tot dusver geleer is, verdien die volgende infinitiewe besondere aandag:
+Onder de tot nu toe geleerde wortels zijn de volgende infinitieven bijzonder om te onthouden:
 
 ::: indent
-⟪⟨DEVA_3⟫ : ⟪⟨DEVA_4⟫ : ⟪⟨DEVA_5⟫
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als hoëtraps zu -ṛ- haben im Infinitiv:
+--ra- as hoë graad tot -ṛ- het in die infinitief:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die ander wortels met -ṛ- in die voorlaaste posisie het 'n opsionele -ra- of -ar- as hulle aniṭ is.
+De andere wortels met -ṛ- op de voorlaatste plaats hebben facultatief -ra- of -ar-, als ze aniṭ zijn.
 
 
-## 23.3. Die infinitief (⟪तुमुन्⟫) vir die wortels wat tot dusver geleer is
+## 23.3. De infinitief (⟪तुमुन्⟫) van de tot nu toe geleerde wortels
 
 ⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P — 
-⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U — 
-⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P —  
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U —  
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫
 
 
 
@@ -178,7 +177,7 @@ Afb.: ⟪फलवन्ति पुण्यानीति⟫
 ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 ::: media
 ![](/images/lekt2301.webp)
-Fig.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Afb.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
 (Beeldbron: [Besonderhede](/af/licenses#lekt2301))
 :::
@@ -190,7 +189,7 @@ Verduideliking: ⟪हीन ३⟫: PPP na ⟪हा⟫ 3: laat staan ; ⟪ध�
 
 ::: media
 ![](/images/lekt2302.webp)
-Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
+Afb.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Beeldbron: [Details](/af/licenses#lekt2302))
 :::
@@ -215,7 +214,7 @@ A) Vertaal in Sanskrit:
 
 ::: media
 ![](/images/lekt2304.jpg)
-Fig.: ⟪दण्डनीतिः⟫
+Afb.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Hoofminister van Indië = ⟪भारत के प्रधानमन्त्री⟫, sedert 2004
 (Beeldbron: [Details](/af/licenses#lekt2304))
 :::

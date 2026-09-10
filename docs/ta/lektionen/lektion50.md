@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "பாடம் 50"
+subtitle: "பெயர் உருவாக்கம்: வழக்கமான உயர்த்தல்"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 50
@@ -154,7 +155,7 @@ Absol.-⟪वृष्य⟫
 :::
 ⟪सर्व⟫ 3: எவரும், அனைவரும்
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+⟪यद्⟫ போன்ற உருபேற்பு (விதிவிலக்கு: Nom.Akk.sg. நபும்சகம்)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||

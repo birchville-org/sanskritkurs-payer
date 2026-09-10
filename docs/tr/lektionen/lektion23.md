@@ -77,7 +77,7 @@ Bağlayıcı ünlü -i-'nin kullanımı hakkında kesin kurallar koyulamaz. Teme
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- als Hochstufe zu -ṛ- haben im Infinitiv: -> -ra- yüksek ses basamağı olarak -ṛ-'ye sahiptir, infinitifte:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv: -> -ra- yüksek ses basamağı olarak -ṛ-'ye sahiptir, infinitifte:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

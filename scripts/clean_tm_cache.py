@@ -42,6 +42,18 @@ def clean_tm_caches():
                 if re.search(r'^#+\s+Lektion\b', val, flags=re.M):
                     purged_keys.append(key)
                     continue
+                # Purge unresolved placeholders
+                if re.search(r'(?:⟨|&lang;)?(?:DEVA|IAST_L|STRUCT)_[0-9\u0966-\u096F\u0660-\u0669N]+(?:⟩|&rang;)?', val):
+                    purged_keys.append(key)
+                    continue
+                # Purge patcher markers
+                if re.search(r'^\s*>>', val, flags=re.M):
+                    purged_keys.append(key)
+                    continue
+                # Purge known deadlocked German text blocks
+                if "Brahmā hat die Welten erschaffen" in val or "So halte er seine Sinne unter Kontrolle" in val:
+                    purged_keys.append(key)
+                    continue
 
         if purged_keys:
             for k in purged_keys:

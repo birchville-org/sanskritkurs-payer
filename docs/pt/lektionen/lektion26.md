@@ -1,10 +1,11 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lição 26"
+subtitle: "Lei da cerebraização para -s- no interior das palavras"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 26
@@ -55,7 +56,7 @@ Exemplos: veja abaixo o futuro de ⟪दुह्⟫ e ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
-(Fonte da imagem: [Detalhes](/licenses#lekt2601))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2601))
 :::
 ## 26.5. Sandhi de palavra para -m, -n antes de sibilante
 
@@ -85,7 +86,7 @@ p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫
 ::: media
 ![](/images/lekt2602.webp)
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2602))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2602))
 :::
 ## 26.7. Formação do futuro simples (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 

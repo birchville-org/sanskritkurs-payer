@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Lição 17"
+subtitle: "Segunda classe do presente (⟪अदादि⟫ = ⟪अद्⟫ etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 17
@@ -247,7 +248,7 @@ dele:
 ![](/images/lekt1703.webp)
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Fonte da imagem: [Detalhes](/licenses#lekt1703))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentar-se
 
@@ -260,7 +261,7 @@ daí:
 ::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
-(Fonte da imagem: [Details](/licenses#lekt1701))
+(Fonte da imagem: [Details](/pt/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : chorar, lamentar
 
@@ -276,7 +277,7 @@ Derivado:
 ::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1702))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1702))
 :::
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrar, indicar, ordenar
 

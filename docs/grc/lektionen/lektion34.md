@@ -1,7 +1,8 @@
 ---
-title: Lektion 34
+title: "Μάθημα 34"
 lesson_id: 34
 status: stable
+
 ---
 
 # Μάθημα λδʹ
@@ -207,9 +208,9 @@ Rice field in India.
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
+Εἰκ.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Bildquelle: [Details](/grc/licenses#lekt3405))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3405))
 :::
 **⟪मर्त्य⟫ 3:** θνητος (προς **⟪मृ⟫**)
 
@@ -227,7 +228,7 @@ Lakshadweep Islands Map.
 ![](/images/lekt3404.webp)
 Ἀπ.: *Sesamum indicum* L.
 Φυτὸν σησαμίνου ἀνθοφοροῦν.
-(Bildquelle: [Details](/grc/licenses#lekt3404))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3404))
 :::
 **⟪स्वर्ण⟫ n.:** (καλὸς χρώματος =) χρυσόν
 
@@ -329,6 +330,6 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 ![](/images/lekt3407.webp)
 Εικ.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
-(Bildquelle: [Details](/grc/licenses#lekt3407))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3407))
 :::
 

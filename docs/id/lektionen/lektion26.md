@@ -1,114 +1,116 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Pelajaran 26"
+subtitle: "Hukum serebralisasi untuk -s- di dalam kata"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 26
 
-## 26.1. Hukum Serebralisasi untuk -s- di dalam Kata
+## 26.1. Hukum serebralisasi untuk -s- di dalam kata
 
 ::: grammar-box
-**-s-** diganti dengan **-ṣ-** ketika **k, r, l** atau sebuah **vokal** — kecuali **a, ā** — segera mendahului atau hanya dipisahkan oleh **⟪अनुस्वार⟫** atau **⟪विसर्ग⟫** dan bunyi lain selain **ṛ, r** mengikuti.
+**-s-** diganti dengan **-ṣ-**, jika **k, r, l** atau sebuah **vokal** — kecuali **a, ā** — mendahului secara langsung atau hanya dipisahkan oleh ⟪अनुस्वार⟫ atau ⟪विसर्ग⟫ dan diikuti oleh bunyi lain selain **ṛ, r**.
 
-Sandhi ini juga berlaku untuk **⟪दुस्⟫-** sebelum gutural dan labial tak bersuara dalam majemuk.
+Sandhi ini juga berlaku untuk **⟪दुस्⟫-** sebelum gutural dan labial tanpa suara dalam komposita.
 :::
 *Contoh:*
 ::: indent
-**⟪तेषाम्⟫** (dari: *te-sām*)
+⟪तेषाम्⟫ (dari: *te-sām*)
 
-tetapi: **⟪तासाम्⟫** (*tā-sām*)
+tetapi: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Hukum serebralisasi untuk konsonan dental di tengah kata
+## 26.2. Hukum serebralisasi untuk dentals di dalam kata
 
 ::: grammar-box
-Dental stops are replaced by the corresponding retroflexes after retroflexes (including **-ṣ-**):
+Konsonan letup dentals diganti dengan konsonan retrofleks yang sesuai setelah retrofleks (termasuk **-ṣ-**):
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-*(**ṣ** karena sebelumnya **i**, **ṭh** karena sebelumnya **ṣ**)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** karena adanya **i** sebelumnya, **ṭh** karena adanya **ṣ** yang mendahuluinya)*
 :::
-## 26.3. Sandhi Kata untuk Palatal, Guttural, ṣ, h + -s
+## 26.3. Sandhi kata untuk Palatal, Gutural, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-See examples below
+Lihat contoh di bawah
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Hukum disimilasi aspirasi Grassmann
 
 ::: grammar-box
-**Konsekuensi langsung dari dua aspirat (aspirat - vokal - aspirat) adalah hilangnya aspirasi pada bunyi pertama:**
+**Urutan langsung dua aspirasi (Aspirasi - Vokal - Aspirasi) menyebabkan hilangnya aspirasi pada bunyi pertama:**
 
-Example:
+Contoh:
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Jika, karena hukum bunyi, bunyi kedua kehilangan aspirasinya, maka aspirasi muncul kembali pada bunyi pertama.**
+**Jika bunyi kedua kehilangan aspirasinya akibat hukum fonologis, maka aspirasi muncul kembali pada bunyi pertama.**
 
-Contoh: lihat di bawah Masa Depan dari  ⟪दुह्⟫ dan  ⟪बुध्⟫
+Contoh: lihat di bawah Futur dari  ⟪दुह्⟫ dan  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Fig.: Hermann Grassmann
-(Sumber gambar: [Detail](/en/licenses#lekt2601))
+Ilm.: Hermann Grassmann
+(Sumber gambar: [Details](/id/licenses#lekt2601))
 :::
-## 26.5. Sandhi Kata untuk -m, -n vor Zischlaut
+## 26.5. Wortsandhi untuk -m, -n sebelum sibilan
 
 ::: grammar-box
-**Before sibilants, -n and -m are replaced by -ṃ-:**
+**Sebelum sibilan, -n dan -m diganti dengan -ṃ-:**
 
-Contoh: l. di bawah Ini Bentuk Masa Depan dari ⟪मन्⟫
+Contoh: s. di bawah Futur dari ⟪मन्⟫
 :::
-## 26.6. Penggunaan Futurum Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ dst.)
+## 26.6. Penggunaan Futur Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**The Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
+**Futur Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) menyatakan:**
 
-- **the future**
-- **an intended or desired action ("I will go", "I want to go")**
-- **an expectation ("it will happen so")**
-- **hope**
-- **fear**
-- **probability**
-- **speaker's opinion**
-- **command**
+**masa depan**
+**tindakan yang direncanakan atau diinginkan ("saya akan pergi", "saya ingin pergi")**
+**ekspektasi ("itu akan terjadi seperti itu")**
+**harapan**
+**kekhawatiran**
+**kemungkinan**
+**pendapat pembicara**
+**perintah**
 
-**Bentuk masa depan sebagian bersaing dengan optatif (lihat selanjutnya).**
+**Futur kadang-kadang bersaing dengan Optatif (lihat nanti).**
 :::
-mis. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Seseorang yang ingin membuat janji pergi ke kuil."
+z. B. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Seseorang yang ingin membuat sumpah, pergi ke kuil."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Gbr.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Sumber gambar: [Detail](/en/licenses#lekt2602))
+Abb.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Sumber gambar: [Details](/id/licenses#lekt2602))
 :::
-## 26.7. Pembentukan futurum sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.7. Pembentukan Futur Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::: grammar-box
-**Simple Future:**
+**Futur Sederhana:**
 
 :::
 ::: indent
-**Future stem + primary endings**
+**Stem Futur + Akhiran Primer**
 :::
 ::: grammar-box
-**Future stem:**
+**Stem Futur:**
 
 :::
 ::: indent
-**(biasanya) akar kelas guṇa + -sya**  
-**atau**
-**(biasanya) akar kelas guṇa + -i- + -sya (= - iṣya)**
+**(biasanya) akar tingkat tinggi + -sya**  
+**atau**  
+**(biasanya) akar tingkat tinggi + -i- + -sya (= - iṣya)**
 :::
-**Haruslah dipelajari dengan bentuk-bentuk stam, akar mana yang memiliki pembentukan stam masa depan!**
-**Secara umum, bentuk akar dan vokal penghubung dari masa depan sesuai dengan infinitif.**
-**Beberapa akar dapat secara opsional membentuk masa depan dengan dan tanpa vokal penghubung -i-.**
-**The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, feminine optionally on -ntī or -tī:**
+**Akar mana yang membentuk stem Futur seperti apa, harus dipelajari bersama bentuk-bentuk dasar!**  
+**Secara umum, bentuk akar dan vokal penghubung Futur sesuai dengan Infinitif.**  
+**Beberapa akar dapat membentuk Futur secara opsional dengan dan tanpa vokal penghubung -i-.**  
+**Partisip Parasmaipada Futur dibentuk dengan menambahkan sufiks -nt- ke stem Futur, Femininum opsional pada -ntī atau -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫

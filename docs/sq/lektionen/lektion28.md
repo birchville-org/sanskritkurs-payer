@@ -1,341 +1,340 @@
 ---
-title: Lektion 28
+title: "# Mësimi 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
+
 ---
 
 # Mësimi 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+**Për të shprehur se dikush ose diçka nxit ose bën që dikush tjetër ose diçka tjetër të bëjë ose të përjetojë atë që shprehet nga një rrënjë (me ose pa parafjalë), përdoret kausativi (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
+Shembull:
+⟪गम्⟫ "shkoj" » Kausativ: ⟪गमयति⟫ "ai nxit që dikush të shkojë; ai dërgon"
+⟪दृश्⟫ "shoh" » Kausativ: ⟪दर्शयति⟫ "ai bën të shohësh = ai tregon"
 :::
 
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.2. Struktura e fjalisë me Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema 1:**
+**Skema 1:**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
+**Kur rrënja që shërben si bazë për kausativin (me ose pa parafjalë) është INTRANSITIVE (d.m.th., nuk mund të ketë një objekt në akuzativ) ose shpreh lëvizje, njohuri, informacion ose ushqim:**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
+**Agjenti (⟪कर्ता⟫) i kausativit në nominativ (⟪प्रथमा⟫) — Agjenti i veprimit të nxitur në akuzativ (⟪द्वितीया⟫) — (Objekt i lëvizjes, njohurisë etj. në akuzativ = ⟪द्वितीया⟫) — Folja në kausativ**
 :::
-Beispiele:
+Shembuj:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
+⟪दुर्जनो रामं मोहयति⟫ = "një njeri i keq bën që Rāma të jetë i përzier = e ngatërrojnë Rāmën = bën që Rama të gabojë"
+Rezultati: ⟪रामो मुह्यति⟫ = "Rāma është i përzier / i verbuar / gabon."
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel"
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = "Rāma i bën armiqit të shkojnë në qiell = i dërgon armiqtë në qiell"
+Rezultati: ⟪शत्रवः स्वर्गं गच्छन्ति⟫ = "armiqit shkojnë në qiell / vijnë në qiell"
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda"
+⟪गुरू रामं वेदार्थं वेदयति⟫ = "Mësimdhënësi e bën Rāmën të dijë kuptimin e Vedës = i shpjegon / mëson Rāmën kuptimin e Vedas"
+Rezultati: ⟪रामो वेदार्थं वेत्ति⟫ = "Rāma e njeh / kupton kuptimin e Vedas"
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda"
+⟪स रामं वेदमध्यापयति⟫ = "ai mëson Rāmën Vedën"
+Rezultati: ⟪रामो वेदमधीते⟫ "Rāmën studion Vedën"
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise"
+⟪रामो देवानामृतमाशयति⟫ = "Rāmën i bën perënditë të hanin ushqim imortaliteti = u jep perëndive ushqim imortaliteti për të ngrënë" (⟪अश्⟫ 9 "ngrenë")
+Rezultati: ⟪देवा अमृतमश्नन्ति⟫ "Perënditë hanë ushqim imortaliteti"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801))
+Fig.: ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
+Tempulli ISKCON Bangalore.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:**
+**Sipas Skemës 1 konstruhen gjithashtu midis të tjerash rrënja ⟪दृश्⟫:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**Përjashtimet nga Skema 1 shihni nën Skemën 2**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
+Shembull:
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "ai i tregon Rāmës birin"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+Varshi i mëposhtëm përmbledh shembujt për formimin e kausativit sipas Skemës 1 (format verbale janë në çdo rast persona i tretë, imperfekt, Parasmaipada):
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte.
+Mbrojtja dhe qëllimi im është Hari,
+Ai që i dërgoi armiqët në qiell,
+Ai që u mësoi të vetëve kuptimin e Vedës,
+Ai që i ushqeu perënditë me ushqim imortaliteti,
+Ai që u mësoi Vedën krijuesit,
+Ai që e vendosi tokën në ujë.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802))
+Fig.: ⟪स मे श्रीहरिगतिः⟫
+Ndërtesa e menaxhimit të Universitetit Jadavpur.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2802))
 :::
 
 ::: grammar-box
-**Schema 2:**
+**Skema 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):**
+**Për verbat tranzitivë (përveç atyre të përmendura nën Skemën 1). Gjithashtu për të gjitha verbat, kur ajo që shënohet nga kausativi shkaktohet (kur pra kausativi është një kausativ për kausativin):**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Agjenti (⟪कर्ता⟫) i Kausativit në Nominativ (⟪प्रथमा⟫) — Agjenti i veprimit të shkaktuar në Instrumental (⟪तृतीया⟫) — Objekti i veprimit të shkaktuar në rastin që do ta kishte sipas foljes së thjeshtë (dmth. zakonisht në Akuzativ) — Folja në Kausativ**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau"
+Shembuj:
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = "Ai e nxit Rāmën të braktisë gruan e tij"
+Rezultati: ⟪रामो भार्यां त्यजति⟫ = "Rāma e braktison gruan e tij"
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht"
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = "Viṣṇumitra e nxit Rāmën që ky ta nxisë Govindën të shkojë = Viṣṇumitra e liron Rāmën ta dërgojë Govindën përpara"
+Rezultati: ⟪रामो गोविन्दं गमयति⟫ = "Rāma e dërgon Govindën përpara"
+Rezultati i këtij rezultati: ⟪गोविन्दो गच्छति⟫ = "Govinda shkon"
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**Përjashtime nga Skema 1:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:**
+**Sipas Skemës 2 ndërtohen gjithashtu veprat e mëposhtme:**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**Kausativ për:**
+**⟪नी⟫ "udhëtoj"**
+**⟪वह्⟫ "ngas" (vetëm kur agjenti i veprimit të shkaktuar nuk është shoferi)**
+**⟪स्मृ⟫ "përkujtoj" (ka përjashtime në lidhje me këtë)**
+**⟪अद्⟫ "ha"**
+**⟪खाद्⟫ "përtyp"**
 :::
-Beispiele:
+Shembuj:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = "Rāma e liron shërbëtorin ta udhëtojë ose ngasë barrën"
+Rezultati: ⟪भृत्यो भारं नयति वहति वा⟫ = "Shërbëtori udhëton ose ngas barrën"
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise"
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = "Rāma e liron djaloshin ta hajë ose të përtypë ushqimin"
+Rezultati: ⟪बालो ऽन्नमत्ति खादति वा⟫ = "djaloshi ha ose përtyp ushqimin"
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = "Ai shkakton që Rāma të kujtohet"
+Rezultati: ⟪रामः स्मरति⟫ = "Rāma kujtohet"
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:**
+**Kausativetë e mëposhtme mund të konstruksionohen si sipas skemës 1 ashtu edhe sipas skemës 2:**
 
-- **⟪हृ⟫ "halten, holen"**
-- **⟪कृ⟫ "tun, machen"**
-- **Ātmanepadakausativ zu ⟪दृश्⟫**
+**⟪हृ⟫ "mbaj, merr"**
+**⟪कृ⟫ "bëj, bëj"**
+**Kausativ me radhë Ātmanepadak për ⟪दृश्⟫**
 :::
-Beispiele:
+Shembuj:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte"
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = "Rāma e bën ose merr që shërbëtori të bëjë një tapet (⟪कट⟫ m.)"
+ose:
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+Rezultati: ⟪भृत्यः कटं करोति हरति वा⟫ = "Shërbëtori bën ose merr një tapet"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis"
+⟪रामो बालं प्रतिमां दर्शयते⟫ = "Rāma e bën që djaloshi të shikojë portretin = i tregon djaloshit portretin (për interesin e vet)"
+ose:
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+Rezultati: ⟪बालः प्रतिमां पश्यति⟫ = "djaloshi e sheh portretin"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
+Kur kausativet përdoret në një konstrukcion pasiv, pothuajse gjithmonë zbatohet skema e mëposhtme:
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):**
+**Skema A (konstrukcion pasiv):**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Agjenti i kausativit në Instrumental (⟪तृतीया⟫) — Agjenti i veprimit të shkaktuar në Nominativ (⟪प्रथमा⟫) — Objekti i veprimit të shkaktuar në rastin që do ta kishte sipas verbës së thjeshtë (d.m.th. zakonisht në Akuzativ) — Verbi në formën kausative**
 :::
-Beispiele:
+Shembuj:
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = "Mjeshti e dërgon Rāman në fshat"
+Rezultati: ⟪रामो ग्रामं गच्छति⟫ = "Rāma shkon në fshat"
 
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte"
+⟪रामेण भृत्यः कटं कार्यते⟫ = "Rāma e bën që shërbëtori të bëjë një tapet"
+Rezultati: ⟪भृत्यः कटं करोति⟫ = "Shërbëtori bën një tapet"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last"
+⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma e bën që shërbëtori të marrë barrën"
+Rezultati: ⟪भृत्यो भारं हरति⟫ = "Shërbëtori merr barrën"
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+
+## 28.3. Formimi i rrënjës së prezencit për kausativin (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
+**Në rrënjën kausative shtohen përfundimet tematike të prezencit**
 :::
-Es gibt verschiedene Bildungstypen:
+Ekzistojnë tipe të ndryshme formimi:
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+**Tipi i formimit 1: (zakonisht) rrënjë në gradën e lartë + -aya-**
 :::
-Beispiele:
+Shembuj:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Rrënjë | Kausativ 3. sg. Indikativ Prezenc | Kuptimi |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | ai/ajo/e bën të hyjë, fut brenda |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | bën të dëshirojë, bëhet i dëshirueshëm, tërheq |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | bën të shohë = tregon |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | bën të rrotullohet, kthen (transitiv), rrëzon (transitiv), e vën në lëvizje |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-**
+**Tipi i formimit 2: rrënjë në gradën e zgjeruar + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
+**Shpesh te rrënjët që përfundojnë me zanore, dhe te rrënjët ku pas -a- ndjek një konsonant fundor i vetëm.**
 :::
-Beispiele:
+Shembuj:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Rrënjë | Kausativ 3. sg. Indikativ Prezenc | Kuptimi |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | shkakton që dikush ose diçka të bëhet, prodhon |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | shkakton që dikush të shkojë |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | lejon të udhëhiqet |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | lejon të bëhet |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | lejon të flasë, bën të flasë, (ta bëjë dikënd të thotë një tekst =) lexon me zë të lartë |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**Tipi i formimit 3: rrënjë në gradën e ulët + -aya-**
 
-**Kommt vor.**
+**Ndodh.**
 :::
-Beispiel:
+Shembull:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Rrënjë | Kausativ 3. sg. Indikativ Prezenc | Kuptimi |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (dikë) e shkatërron
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-**
+**Lloji i formimit 4: Radikal + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
+**Për radikalet që mbarojnë në -ā dhe disa radikale të tjera.**
 :::
-Beispiele:
+Shembuj:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Radikal | Kausativ 3. sg. Indikativ Present | Kuptimi |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | bëj të qëndrojë, vendos |
+| ⟪इ⟫ + ⟪अधि⟫:br"studjoj" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(për shpjegim shih Thumb-Hauschildt Vol. I,2 faq. 341) | mësoj të lexojë, mësoj |
 
 ::: grammar-box
-**Unregelmässige Bildungen:**
+**Formime të parregullta:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:**
+**Gramatikantët vendas i konsiderojnë format e mëposhtme si kausative:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
+**han** : Kaus. **ghātayati**¹ "lej të goditet, lej të vritet"
+**pā** 2 "ruaj": **pālayati**² "kalon, shpëton, mbrojt"
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+Shënime:
+1. **ghātayati** në fakt është një folje i nxjerrë nga emri **ghāta** m. "goditje" (denominativum) dhe përdoret në vend të kausativit të **han**.
+2. **pālayati** është një kausativ i vërtetë, megjithatë nga radikalja **pṛ** 3 "kalon, shpëton, mbrojt": **pārayati** (pār-aya-ti) » **pālayati** (në disa rajone të Indisë i përputhet r një l, ndërsa në të tjerat anasjelltas i përputhet l një r).
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ
+
+## 28.4. Formimi i Pasivit (⟪यक्⟫) për Kausativin
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:**
+**Pasivi për Kausativin formohet kështu:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-**
+**Stamba e Kausativit PA -aya- + Sufiksi i Pasivit -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+Shembuj:
+**bhāvyate** (bhāv-ya-te) "ai/ajo/ajo bëhet i nxjerrë"
+**sthāpyate** (sthāp-ya-te) "ai/ajo/ajo vendoset"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+Ndërsa pasivi për radikalën origjinale zakonisht formohet nga radikalja me shkallë të ulët, pasivi i kausativit zakonisht mund të njihet nga fakti se formohet nga radikalja me shkallë të lartë ose të zgjatur.
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+
+## 28.5. Formimi i së ardhmes (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) për Kausativin
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
+**Së ardhmes e Kausativit formohet nga stamba kausative, ku -a- përfundues i mbaresës kausative bie:**
 
 **-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+Shembull:
+**budh** Kausativ i së ardhmes: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "ai/ajo/e do të zgjojë"
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. Formimi i PPP (⟪क्त⟫) për Kausativin
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
+**Stamb kausativ në -ay- (pa -a përfundues) + -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+Shembuj:
+**gam** — **gamayati** — **gamita** (gam-i-ta) "i dërguar" (PPP i rrënjës së thjeshtë: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "i vendosur"
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. Formimi i Absolutivit (⟪क्त्वा⟫ . ⟪ल्यप्⟫) për Kausativin
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Absolutivi në -tvā formohet nga stamba kausative në -ay- (pa -a përfundues):**
 
-**Kausativstamm auf -ay- + -i- + -tvā**
+**Stamb kausativ në -ay- + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+Shembull:
+**sthāpayitvā** (sthā-pay-i-tvā) "pasi e ka vendosur"
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
+**Absolutivi në -ya shfaqet te kausativat me para-shtesë zakonisht tek stamba kausative PA -aya-**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+Shembuj:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "pasi e ka zgjuar"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "pasi e ka lejuar të arrijë, pasi e ka lejuar ta sjellë"
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**Megjithatë, nëse njëra nga rrënja e kausativit përmban -a- të shkurtër para një konsonanti të vetëm, -ya e absolutivit bashkohet me stambin kausativ në -ay- (pa -a përfundues)**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+Shembull:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "pasi e ka lejuar të vijë"
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. Formimi i infinitivit (⟪तुमुन्⟫) për Kausativin
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Infinitivi për Kausativin formohet nga stamba kausative me -ay- (pa 'a' përfundimtare):**
 
-**Kausativstamm auf -ay- + -i- + -tum**
+**Stamba kausative me -ay- + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+Shembull:
+**jan** — **janayati** — **janayitum** (janay-i-tum) "për të krijuar"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. Klasa e 10-të e prezencës (⟪चुरादि⟫ = ⟪चुर्⟫ etj.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
+**Në të njëjtën mënyrë si kausativat, disa rrënjë të klasës së 10-të të prezencës formojnë prezensin (dhe kohët e tjera), pa qenë kausative.**
 
-Beispiele:
-1.  Dehnstufige Wurzel + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben"
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+Shembuj:
+1. Rrënjë me shkallë të zgjeruar + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "të doj"
+2. Rrënjë me shkallë të lartë + -aya- : **cur** 10U **corayati** "të vjedh"; E ardhme: **corayiṣyate**; Pasiv: **coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
+**Format e kausativit për verbat e klasës së 10-të të prezencës janë identike me format e verbit të thjeshtë. Vendimi nëse ka të bëjë me një kausativ është i mundur vetëm nga konteksti ose ndonjëherë nga konstrukcioni.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Fjalor
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: dija, njoh
+E ardhme. **vediṣyati**
+Pasiv. **vidyate**
+Kausativ. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+prej tij: **vidyā** f., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): gjej
+E ardhme. **vediṣyati** / **vetsyat**
+Pasiv. **vidyate**: ka, ekziston
+Kausativ. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: studioj, mësoj nënkuptueshëm
+Kausativ. **adhyāpayati**: lejo studimin, mësoj
+prej tij: **adhyayana** n.: studim (veçanërisht i Vedës); **adhyāya** m.: leksion, kapitull (pjesë për t'u mësuar nënkuptueshëm)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
+⟪कम्⟫ 10Ā ⟪कामयते⟫: të dojë
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
@@ -344,13 +343,13 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Fig.: ⟪कृष्णो राधां कामयति⟫
+Piktur nga ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10 ⟪चोरयति⟫: vjedh
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
@@ -358,33 +357,34 @@ PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Kujtoni veçanërisht kuptimin e Kausativave për verbetet vijuese:**
+**dṛś** — **darśayati**: tregoj
+**man** — **mānayati**: nderoj, respektuj (ndoshta është një Denominativ ndaj **māna** "nder")
+**vac** — **vācayati**: gjithashtu: lexoj me zë të lartë (bën që dikush të flasë një tekst)
+**vad** — **vādayati**: gjithashtu: bën që një instrument muzikor të flasë = luaj një instrument muzikor
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Fig.: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: barrë
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Fig.: ⟪बाला भारं हरति⟫
+Vajzë mban barrë. Pranë Ahmedabadit.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
+⟪भृत्य⟫ m.: nënrenditur, shërbëtor
 
-## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+## 28.11. Ushtrim
 
-**1. Mit hochstufiger Wurzel:**
+**A) Formoni Kausativin për format e mëposhtëm të verbit dhe formave participiale dhe jepni kuptimin:**
+
+**1. Me rrënjë në shkallën e lartë:**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -415,7 +415,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:**
+**2. Me radhë me rrënjë të zgjatur:**
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -456,30 +456,18 @@ Mädchen trägt Last. Bei Ahmedabad.
 38. ⟪हरन्ती⟫
 39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫**
+**3. Kausativ me -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen**
+**4. Vini re dhe mësoni veçanërisht këto formime kausative**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫
+2. ⟪पा⟫ 1 ("pij") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("mbroj") — ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:**
+**B. Përktheni fjalitët e mëposhtme, shpërndani kompozitat në sanskritisht dhe formoni fjalitë duke përdorur verbat e thjeshta që shprehin se çfarë ndodh kur realizohet ajo që shprehet nga kausativi:**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
-
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
+Shembull: ⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫

@@ -210,8 +210,8 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ::: media
 ![](/images/uebung011.webp)
-Abb.: ⟪ग्रामः⟫
-(Bildquelle: [Details](/licenses#uebung011))
+Εἰκ.: ⟪ग्रामः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung011))
 :::
 ---
 
@@ -317,6 +317,6 @@ Der Fuhrmann lenkt den Wagen.
 
 ::: media
 ![](/images/uebung012.webp)
-Abb.: ⟪सारथी रथं नयति⟫
-(Bildquelle: [Details](/licenses#uebung012))
+Εἰκ.: ⟪सारथी रथं नयति⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung012))
 :::

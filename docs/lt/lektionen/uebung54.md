@@ -1,45 +1,46 @@
 ---
-title: "Exercise 54"
+title: "Pratimas 54"
 uebung_id: 54
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 54
+# Pratimas 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Sudarykite atitinkamas aoristo formas iš šių esamųjų arba perfektinių formų:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Nr. | Forma | Nustatymas / Reikšmė | Aoristas |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | jie eina | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | aš geriu | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫ | aš / jis davė | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫ | aš / jis / jie buvo | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫ | jie sėdi | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫ | mes ėjome | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫ | tu išgeri / saugai | ⟪अपाः⟫ (iš :sig[⟪पा⟫] "gerti") |
+| ⟪८⟫. | ⟪तिष्ठति⟫ | jis stovi | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫ | tu nuėjai | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫ | jūs išgerėte | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫ | jūs eisite | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫ | jie stovėjo | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫ | jūs sėdėjote | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫ | tu davėte | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫ | jie buvo | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫ | mes davėme | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫ | jis skaldomas | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫ | jis sakomas | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫ | jis giriamas | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫ | jis arimas | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫ | jis gimstamas | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫ | jis dainuojamas | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫ | jis einamas | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Pav.: ⟪अगायि⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung093))
 :::
 

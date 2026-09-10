@@ -97,7 +97,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
->> ## 58.4. The Dual Passive (Suffix -⟪यक्⟫)
+## 58.4. The Dual Passive (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "to push, to strike"
 
@@ -358,7 +358,7 @@ Paradigms:
 2. Roots of the 8th present class ending in -n (or -ṇ) can be grade-reduced in the 2.3.sg.Ā:  
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (root aorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
->> 3. ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā and others can take the form of the passive aorist instead of the 3.sg. Ā:
+3. ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā and others can take the form of the passive aorist instead of the 3.sg. Ā:
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 
 4. ⟪विज्⟫ 7P has no ablaut:  

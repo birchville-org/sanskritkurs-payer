@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "पाठ 45"
+subtitle: "द्वितीय पुरुष के क्रिया रूपों का निर्माण (⟪⟪मध्यमः⟫⟫) अथेमाटिक वंशों का, जिनके उपसर्ग स्वरान्त नहीं हैं (अनुक्रम)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ 45
@@ -145,5 +146,5 @@ B) अनुवाद करें:
 ![](/images/lekt4502.jpg)
 अभियुक्त: ⟪⟪कन्ये⟫⟫ ⟪⟪किं⟫⟫ ⟪⟪लिखसि⟫⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt4502))
-:::
 
+:::

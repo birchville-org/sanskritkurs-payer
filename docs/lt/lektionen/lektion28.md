@@ -1,341 +1,340 @@
 ---
-title: Lektion 28
+title: "Pamoka 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
+
 ---
 
 # Pamoka 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Kausatyvas (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+**Norint išreikšti, kad kas nors arba kažkas skatina ar sukelia kitą asmenį ar daiktą atlikti arba patirti veiksmą, išreiškiamą šaknimi (su priešdėliu ar be jo), vartojamas kausatyvas (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
+Pavyzdys:
+⟪गम्⟫ "eiti" » Kausatyvas: ⟪गमयति⟫ "jis skatina kitą eiti; jis siunčia"
+⟪दृश्⟫ "matyti" » Kausatyvas: ⟪दर्शयति⟫ "jis verčia matyti = jis rodo"
 :::
 
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.2. Sakinio konstrukcija su kausatyvu (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Schema 1:**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
+**Jei kausatyvui būdinga šaknis (su priešdėliu ar be jo) yra NEPERSIENINĖ (t. y. negali turėti tiesioginio papildinio akuzatyve) arba reiškia judėjimą, žinojimą, informaciją ar valgymą:**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
+**Kausatyvo veikėjas (⟪कर्ता⟫) vardininku (⟪प्रथमा⟩) — skatinamos veiklos veikėjas akuzatyve (⟪द्वितीया⟩) — (judėjimo tikslas, žinojimo objektas ir kt. akuzatyve = ⟪द्वितीया⟩) — veiksmažodis kausatyve**
 :::
-Beispiele:
+Pavyzdžiai:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
+⟪दुर्जनो रामं मोहयति⟫ = "blogas žmogus sukelia, kad Rāma būtų sumaišytas = supainioja Ramą = sukelia, kad Rāma klysta"
+Rezultatas: ⟪रामो मुह्यति⟫ = "Rāma yra sumaišytas / apakintas / klaidžioja."
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel"
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = "Rāma verčia priešus eiti į dangų = siunčia priešus į dangų"
+Rezultatas: ⟪शत्रवः स्वर्गं गच्छन्ति⟫ = "priešai eina į dangų / atvyksta į dangų"
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda"
+⟪गुरू रामं वेदार्थं वेदयति⟫ = "Mokytojas verčia Ramą žinoti Vedos prasmę = aiškina / moko Ramą Vedos prasmės"
+Rezultatas: ⟪रामो वेदार्थं वेत्ति⟫ = "Rāma žino / supranta Vedos prasmę"
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda"
+⟪स रामं वेदमध्यापयति⟫ = "he teaches Rāma the Veda"
+Result: ⟪रामो वेदमधीते⟫ "Rāma studies the Veda"
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise"
+⟪रामो देवानामृतमाशयति⟫ = "Rāma causes the gods to eat nectar of immortality = gives the gods nectar of immortality to eat" (⟪अश्⟫ 9 "to eat")
+Result: ⟪देवा अमृतमश्नन्ति⟫ "The gods eat nectar of immortality"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
+Fig.: ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
 ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801))
+(Image source: [Details](/lt/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:**
+**Constructed according to Schema 1, among others, the root ⟪दृश्⟫:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**1 schemos išimtis žr. prie 2 schemos**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
+Example:
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "he shows Rāma the son"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+The following verse summarizes examples for the causative formation according to Schema 1 (the verbal forms are each in the 3rd person Imperfect Parasmaipada):
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte.
+My refuge and my goal is Hari,
+Who sent the enemies to heaven,
+Who taught his followers the meaning of the Veda,
+Who fed the gods with nectar of immortality,
+Who taught the Creator the Veda,
+Who placed the earth in the water.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
+Fig.: ⟪स मे श्रीहरिगतिः⟫
 Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802))
+(Image source: [Details](/lt/licenses#lekt2802))
 :::
 
 ::: grammar-box
 **Schema 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):**
+**For transitive verbs (except those mentioned under Schema 1). Also for all verbs, when the action denoted by the causative is caused (i.e., when the causative is a causative of a causative):**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Agentis (⟪कर्ता⟫) kausatyvo nominative — agentis sukeltos veiksmo instrumentalis (⟪प्रथमा⟫) — sukeltos veiksmo objektas linksnyje, kurį jis turėtų pagal paprastąjį veiksmažodį (t. y. dažniausiai akuzatyve) — kausatyvas**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau"
+Pavyzdžiai:
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = „Jis verčia Rāmą palikti savo žmoną“
+Rezultatas: ⟪रामो भार्यां त्यजति⟫ = „Rāma palieka savo žmoną“
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht"
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = „Viṣṇumitra verčia Rāmą, kad šis verstų Govindą eiti = Viṣṇumitra leidžia Rāmai nusiųsti Govindą“
+Rezultatas: ⟪रामो गोविन्दं गमयति⟫ = „Rāma nusiunčia Govindą“
+Šio rezultato rezultatas: ⟪गोविन्दो गच्छति⟫ = „Govinda eina“
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**Išimtys nuo 1-os schemos:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:**
+**Pagal 2-ąją schemą konstruojami ir šie veiksmažodžiai:**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**Kausatyvas prie:**
+**⟪नी⟫ „vesti“**
+**⟪वह्⟫ „važiuoti“ (tik jei sukeltos veiksmo agentis nėra vairuotojas)**
+**⟪स्मृ⟫ „prisiminti“ (yra išimčių)**
+**⟪अद्⟫ „valgyti“**
+**⟪खाद्⟫ „kramtyti“**
 :::
-Beispiele:
+Pavyzdžiai:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = „Rāma leidžia tarnui nešti arba vežti krovinį“
+Rezultatas: ⟪भृत्यो भारं नयति वहति वा⟫ = „Tarnas neša arba veža krovinį“
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise"
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = „Rāma leidžia berniukui valgyti arba kramtyti maistą“
+Rezultatas: ⟪बालो ऽन्नमत्ति खादति वा⟫ = „Berniukas valgo arba kramto maistą“
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = „Jis sukelia tai, kad Rāma prisimena“
+Rezultatas: ⟪रामः स्मरति⟫ = „Rāma prisimena“
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:**
+**Šie kausatyvai gali būti vartojami tiek pagal 1-ąją, tiek pagal 2-ąją schemas:**
 
-- **⟪हृ⟫ "halten, holen"**
-- **⟪कृ⟫ "tun, machen"**
-- **Ātmanepadakausativ zu ⟪दृश्⟫**
+**⟪हृ⟫ "laikyti, atnešti"**
+**⟪कृ⟫ "daryti, gaminti"**
+**Ātmanepadakausativas prie ⟪दृश्⟫**
 :::
-Beispiele:
+Pavyzdžiai:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte"
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = "Rāma lieka tarnui padaryti arba atnešti kilimėlį (⟪कट⟩ m. g.)"
+arba:
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+Rezultatas: ⟪भृत्यः कटं करोति हरति वा⟫ = "Tarnas gamina arba atneša kilimėlį"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis"
+⟪रामो बालं प्रतिमां दर्शयते⟫ = "Rāma lieka berniukui pamatyti paveikslą = parodo berniukui paveikslą (savo naudai)"
+arba:
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+Rezultatas: ⟪बालः प्रतिमां पश्यति⟫ = "Berniukas mato paveikslą"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
+Jei kausatyvas vartojamas tiesioginės kalbos konstrukcijoje, beveik visada taikoma ši schema:
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):**
+**A schema (tiesioginė kalba):**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Kausatyvo veikėjas instrumentalu (⟪तृतीया⟫) — sukelto veiksmo atlikėjas nominatyvu (⟪प्रथमा⟫) — sukeltos veiksmo objektas tuo pačiu linksniu, kokį jis turėtų pagal paprastąjį veiksmažodį (t. y. dažniausiai akuzatyvu) — kausatyvas**
 :::
-Beispiele:
+Pavyzdžiai:
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = "Mokytojas siunčia Rāma į kaimą"
+Rezultatas: ⟪रामो ग्रामं गच्छति⟫ = "Rāma eina į kaimą"
 
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte"
+⟪रामेण भृत्यः कटं कार्यते⟫ = "Rāma lieka tarnui padaryti kilimėlį"
+Rezultatas: ⟪भृत्यः कटं करोति⟫ = "Tarnas gamina kilimėlį"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last"
+⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma lieka tarnui atnešti krovinį"
+Rezultatas: ⟪भृत्यो भारं हरति⟫ = "Tarnas atneša krovinį"
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+
+## 28.3. Kausativo dabarties kamieno formavimas (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
+**Kausativo kamienui pridedamos tematinės dabarties kamieno galūnės**
 :::
-Es gibt verschiedene Bildungstypen:
+Yra skirtingi formavimo tipai:
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+**Formavimo tipas 1: (dažniausiai) aukštojo laipsnio šaknis + -aya-**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Šaknis | Kausativ 3. sg. Indikativ Präsens | Reikšmė |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | jis/ji/leisti įvykti, įvesti vidun |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | norėti padaryti, trokštingą padaryti, viliooti |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | matyti padaryti = parodyti |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | suktis padaryti, versti (transityviai), ridenti (transityviai), įvesti į ratą |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-**
+**Formavimo tipas 2: pailgintojo laipsnio šaknis + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
+**Dažnai pasitaiko balsėmis besibaigiančiose šaknyse ir šaknyse, kurių -a- seka vienas galūninis priebalsis.**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Šaknis | Kausativ 3. sg. Indikativ Präsens | Reikšmė |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | sukelti, kad kas nors taptų, pagaminti |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | sukelti, kad kas nors eitų |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | leisti vesti |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | leisti daryti |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | leisti kalbėti, priversti kalbėti, (tekstą pasakyti =) garsiai skaityti |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**Formavimo tipas 3: žemojo laipsnio šaknis + -aya-**
 
-**Kommt vor.**
+**Pasitaiko.**
 :::
-Beispiel:
+Pavyzdys:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Šaknis | Kausativ 3. sg. Indikativ Präsens | Reikšmė |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (ką nors) sugadinti |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-**
+**Švietimo tipas 4: Šaknis + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
+**Esant šaknims, kurios baigiasi -ā, ir kai kurioms kitoms šaknimis.**
 :::
-Beispiele:
+Pavyzdžiai:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Šaknis | Kausatyvas 3. asg. Indikativo Esamasis laikas | Reikšmė |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | padaryti stovintį, pastatyti |
+| ⟪इ⟫ + ⟪अधि⟫:br"studijuoti" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(dėl paaiškinimo žr. Thumb-Hauschildt, I t., p. 341) | leisti studijuoti, mokyti |
 
 ::: grammar-box
-**Unregelmässige Bildungen:**
+**Netaisyklingos formacijos:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:**
+**Vietiniai gramatikai šias formas laiko kausatyvais:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
+**han** : Kaus. **ghātayati**¹ "leisti mušti, leisti žudyti"
+**pā** 2 "ganyti": **pālayati**² "pervežti, išgelbėti, saugoti"
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+Pastabos:
+1. **ghātayati** iš tikrųjų yra veiksmažodis, kilęs nuo daiktavardžio **ghāta** m. "smūgis" (denominatyvas), ir vartojamas vietoj kausatyvo nuo **han**.
+2. **pālayati** yra tikras kausatyvas, tačiau šaknies **pṛ** 3 "pervežti, išgelbėti, saugoti": **pārayati** (pār-aya-ti) » **pālayati** (kai kuriose Indijos dalyse r atitinka l, o kitose atvirkščiai – l atitinka r).
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ
+
+## 28.4. Galiniojo (⟪यक्⟫) formavimas nuo kausatyvo
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:**
+**Galinojys nuo kausatyvo formuojamas taip:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-**
+**Kausatyvo kamienas BE -aya- + Galiniojo priesaga -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+Pavyzdžiai:
+**bhāvyate** (bhāv-ya-te) "jis/ji/ji yra išvedamas/išvedama/išvedama"
+**sthāpyate** (sthāp-ya-te) "jis/ji/ji yra pastatomas/pastatoma/pastatoma"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+Nors galinojys nuo pradinės šaknies dažniausiai formuojamas nuo žemojo laipsnio šaknies, kausatyvo galinojį dažniausiai galima atpažinti pagal tai, kad jis formuojamas nuo aukštojo arba pailgintojo laipsnio šaknies.
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+
+## 28.5. Budinys (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) prie Kausatyvo
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
+**Kausatyvo budinys sudaromas nuo kausatyvo kamieno, tuo pačiu nukrenta galinė -a- kausatyvo priesagos:**
 
 **-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+Pavyzdys:
+**budh** Kausatyvo-budinys: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „jis/ji/ji pažadins“
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. PPP (⟪क्त⟫) sudarymas prie Kausatyvo
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
+**Kausatyvo kamienas su -ay- (be galinės a) + -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+Pavyzdžiai:
+**gam** — **gamayati** — **gamita** (gam-i-ta) „išsiųstas“ (PPP paprastojo šaknies: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) „pastatytas“
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. Absoliutyvo (⟪क्त्वा⟩ . ⟪ल्यप्⟩) sudarymas prie Kausatyvo
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Absoliutyvas su -tvā sudaromas nuo kausatyvo kamieno su -ay- (be galinės a):**
 
-**Kausativstamm auf -ay- + -i- + -tvā**
+**Kausatyvo kamienas su -ay- + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+Pavyzdys:
+**sthāpayitvā** (sthā-pay-i-tvā) „po to, kai jis pastatė“
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
+**Absoliutyvas su -ya pasitaiko kausatyvuose su priešdėliu, kaip taisyklė, prie kausatyvo kamieno BE -aya-**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+Pavyzdžiai:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „po to, kai jis pažadino“
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „po to, kai jis leido atvesti, po to, kai jis leido atsinešti“
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**Tačiau jei šaknies skiemuo kausatyve turi trumpą -a- prieš vieną priebalsį, absoliutyvo -ya pridedama prie kausatyvo kamieno su -ay- (be galinės a)**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+Pavyzdys:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „po to, kai jis leido ateiti“
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. Infinitivo formavimas (⟪तुमुन्⟫) prie kausatyvo
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Kausatyvo infinitivas formuojamas nuo kausatyvo kamieno su -ay- (be galūnės a):**
 
-**Kausativstamm auf -ay- + -i- + -tum**
+**Kausatyvo kamienas su -ay- + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+Pavyzdys:
+**jan** — **janayati** — **janayitum** (janay-i-tum) „kad sukurtų“
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. Dešimtoji dabartinių laikų klasė (⟪चुरादि⟫ = ⟪चुर्⟫ ir t.t.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
+**Taip pat kaip kausatyvai, kai kurios dešimtosios dabartinių laikų klasės šaknys formuoja dabartinį laiką (ir kitus laikus) be kausatyvų.**
 
-Beispiele:
-1.  Dehnstufige Wurzel + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben"
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+Pavyzdžiai:
+1. Išlaikytos laipsnio šaknis + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ „mylėti“
+2. Padidintos laipsnio šaknis + -aya- : **cur** 10U **corayati** „vogti“; ateitis: **corayiṣyate**; tikrinė veiksmažodžio forma: **coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
+**Dešimtosios dabartinių laikų klasės veiksmažodžių kausatyvo formos sutampa su paprastojo veiksmažodžio formomis. Sprendimas, ar tai kausatyvas, priimamas tik pagal kontekstą arba kartais pagal konstrukciją.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Žodynas
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: žinoti, pažinti
+Ateitis **vediṣyati**
+Tikrinė veiksmažodžio forma **vidyate**
+Kausatyvas **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+iš to: **vidyā** f., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): rasti
+Ateitis **vediṣyati** / **vetsyat**
+Tikrinė veiksmažodžio forma **vidyate**: yra, egzistuoja
+Kausatyvas **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: studijuoti, mokytis iš atminties
+Kausatyvas **adhyāpayati**: leisti studijuoti, mokyti
+iš to: **adhyayana** n.: studijos (ypač Vėdų); **adhyāya** m.: pamoka, skyrius (dalys mokymuisi iš atminties)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
+⟪कम्⟫ 10Ā ⟪कामयते⟫: mylėti
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
@@ -344,13 +343,13 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Pav.: ⟪कृष्णो राधां कामयति⟫
+Dailininko ⟪राजा रवि वर्मा⟫ paveikslas (1848 - 1906)
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10 ⟪चोरयति⟫: vogti
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
@@ -358,33 +357,34 @@ PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Ypač įsiminkite kausatyvų reikšmes šioms veiksmažodžių formoms:**
+**dṛś** — **darśayati**: parodyti
+**man** — **mānayati:** gerbti, garbinti (tikėtina, kad tai denominatyvas nuo **māna** "garbė")
+**vac** — **vācayati:** taip pat: garsiai skaityti (leisti kalbėti tekstą)
+**vad** — **vādayati:** taip pat: paskatinti kalbėti muzikos instrumentą = groti muzikos instrumentu
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Pav.: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: krovinys
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Pav.: ⟪बाला भारं हरति⟫
+Meraitė neša krovinį. Netoli Ahmedabado.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
+⟪भृत्य⟫ m.: pavaldinis, tarnas
 
-## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+## 28.11. Pratimai
 
-**1. Mit hochstufiger Wurzel:**
+**A) Sudarykite kausatyvus iš šių veiksmažodžių ir dalyvinių formų bei nurodykite jų reikšmes:**
+
+**1. Su stiprinama šaknimi:**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -415,7 +415,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:**
+**2. With root-strengthened stem:**
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -456,30 +456,18 @@ Mädchen trägt Last. Bei Ahmedabad.
 38. ⟪हरन्ती⟫
 39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫**
+**3. Causative in -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen**
+**4. Pay special attention to and learn the following causative formations**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫
+2. ⟪पा⟫ 1 ("to drink") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("to protect") — ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:**
+**B. Translate the following sentences, resolve the compounds into Sanskrit, and form sentences using the simple verbs that express what happens when the action expressed by the causative is brought about:**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
-
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
+Example: ⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫

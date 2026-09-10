@@ -1,10 +1,11 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Lesing 2"
+subtitle: "Die naamlike sin en die beginsels van deklinasie"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Les 2
@@ -151,7 +152,7 @@ Die vier stande (**varṇa** m.) word dikwels met kastes verwar. Die vier stande
 ::: media
 ![](/images/lekt0201.webp)
 Afb.: Voorstelling van die stande-indeling van die Europese Middeleeue (houtsnee uit die laat 15de eeu).
-(Bron van beeld: [Besonderhede](/licenses#lekt0201))
+(Bron van beeld: [Besonderhede](/af/licenses#lekt0201))
 :::
 **Beskrywing:**
 - **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Jy, bid smekend!
@@ -191,7 +192,7 @@ Varṇas is gevolglik geboortestate.
 ::: media
 ![](/images/lekt0203.jpg)
 Afb.: God Agni, miniatuur, 18de eeu.
-(Bron van beeld: [Details](/licenses#lekt0203))
+(Bron van beeld: [Details](/af/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : reg, goed.
 
@@ -200,7 +201,7 @@ Afb.: God Agni, miniatuur, 18de eeu.
 ::: media
 ![](/images/lekt0202.webp)
 Afb.: Sādhu (⟪साधु⟫), Pashupatinath-tempel, Kathmandu.
-(Bron: [Besonderhede](/licenses#lekt0202))
+(Bron: [Besonderhede](/af/licenses#lekt0202))
 :::
 **guru** 3 -- ⟪गुरु⟫ : swaar, belangrik, eerbiedwaardig
 

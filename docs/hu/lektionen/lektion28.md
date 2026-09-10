@@ -1,8 +1,9 @@
 ---
-title: Lektion 28
+title: "Lecke 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
+
 ---
 
 # 28. lecke
@@ -53,7 +54,7 @@ ISKCON Templom Bangalor.
 ::: grammar-box
 **Az 1. sémát követve konstruált többek között a ⟪दृश्⟫ gyökér:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**Az 1. séma alóli kivételeket lásd a 2. séma alatt**
 
 Példa:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = „megmutatja Rámának a fiút”
@@ -482,4 +483,3 @@ Példa: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारय
 ⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-

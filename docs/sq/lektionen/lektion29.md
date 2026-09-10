@@ -1,56 +1,59 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Mësimi 29"
+subtitle: "Përdorimi i Parasmaipada (⟪परस्मैपद⟫) dhe Ātmanepada (⟪आत्मनेपद⟫) në Kausativ"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 29
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. Përdorimi i Parasmaipada (⟪परस्मैपद⟫) dhe Ātmanepada (⟪आत्मनेपद⟫) në Kausativ
+
 
 ::: grammar-box
-**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)**
+**Kausativi është përjashtimisht pak Ubhayapada (⟪उभयपद⟫)**
 :::
 ::: grammar-box
-**Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:**
+**Në Kausativ përdoret Ātmanepada (⟪आत्मनेपद⟫):**
 
-**1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
+**1. Kur fryti i veprimit të nxitur shërben për iniciatorin:**
 :::
-Beispiel:
+Shembull:
 
-⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
+⟪रामः कटं कारयते⟫ = "Rāma bën që të bëhet një tapet për vete (në interesin e vet)"
 
-**2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (⟪कर्तृ⟫) des Kausativs ist:**
+**2. Kur Kausativ i verbeve tranzitive përdoret refleksivisht ("të shfaqet", "të dëgjohet" etj.), ose kur objekti i verbit të thjeshtë është Agens (⟪कर्तृ⟫) i Kausativit:**
 
-Beispiel:
+Shembull:
 
-⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu zeigt sich seinen Verehrern"
+⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu shfaqet vetë adhuruesve të tij"
 
-Ergebnis: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Die Gläubigen sehen Viṣṇu"
+Rezultati: ⟪भक्ता विष्णुं पश्यन्ति⟫ = "Besimtarët e shikojnë Viṣṇun"
 
-Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada (⟪आत्मनेपद⟫) bei Ubhayapada (⟪उभयपद⟫)-Verben.
 
-## 29.2. Wortliste
+Rregullat përputhen pra në përgjithësi me rregullat për përdorimin e Ātmanepada (⟪आत्मनेपद⟫) te verbet Ubhayapada (⟪उभयपद⟫).
 
-Präverben:
+## 29.2. Fjalor
+
+Paravërbe:
 
 ::: indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
+⟪उद्⟫° : lart, në krye, ngrihu, jashtë, dal-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher
+⟪परि⟫° : rreth, për (vend, kohë), përreth
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (të bëhesh rreth dikujt = të rrethosh =) pushtove, mposhti; neglizhoj, përçmoj
 
-⟪अवज्ञान⟫ n.: Missachtung
+⟪अवज्ञान⟫ n.: përçmim
 
-⟪गुप्त⟫ 3: behütet, beschützt
+⟪गुप्त⟫ 3: mbrojtur, i ruajtur
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet)
+⟪गृहस्थ⟫ 3: në shtëpi ; m. kryefamiljar (dikush që ndodhet në 2. ⟪आश्रम⟫)
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : hanë, gllabërro
 
 ::: indent
 Fut. ⟪ग्रसिष्यते⟫  
@@ -59,41 +62,38 @@ Kaus. ⟪ग्रासयति⟫
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+⟪तीक्ष्ण⟫ 3: "i egër", i mprehtë, pikant, ashpër, i fortë, fjalëngusht
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
+⟪न्याय⟫ m.: Norm, rregull, mënyrë e drejtë dhe e saktë; metodë, logjikë (nga ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
+⟪परिव्राजक⟫ m.: udhëtar, monah i lundrueshëm, pelegrin
 
 ::: media
 ![](/images/lekt2903.webp)
-Abb.: ⟪परिव्राजकाः⟫
+Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2903))
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫ : gjithashtu sinonim me  ⟪पाति पुनर्⟫ Indecl.: përsëri, gjithmonë e më tepër, prapa, sërish ; kundrejt, por (para zanoreve të zëshme përveç r-: ⟪पुनर्⟫)
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten ausser r-: ⟪पुनर्⟫)
+⟪प्रजा⟫ f.: lindje, pjellim, pasardhës
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
+⟪मत्स्य⟫ m.: peshk
 
-⟪मत्स्य⟫ m.: Fisch
-
-davon:
+prej kësaj:
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+⟪मात्स्य⟫ 3: i përket peshkut (peshqve)
 :::
 ::: media
 ![](/images/lekt2901.webp)
-Abb.: ⟪मत्स्यः⟫
-⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901))
+Fig.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): i butë, i lehtë, i butë ; i ngadaltë, i dobët
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ Adv.: si, sikur
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
+⟪रम्⟫ 1Ā ⟪रमते⟫ : qëndron i qetë, pushon, mbetet ; gjen kënaqësi, argëtohet
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
@@ -102,77 +102,60 @@ Kaus. ⟪रमयति⟫
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+⟪वानप्रस्थ⟫ m.: eremit i pyllit (dikush që ndodhet në 3. ⟪आश्रम⟫)
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
+⟪शुचि⟫ 3: i ndritshëm, i shkëlqyeshëm, i hollë ; m.: pastërti
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : nderoj, adoroj
 
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Übersetzungsübung zur Wiederholung
+## 29.3. Ushtrim përkthimi për përsëritje
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
+Përktheni fjalë-pas-fjalë në gjermanisht të mirë dhe mësoni përmendësh tekstet sanskrite:
 
-1\. Definition von ⟪अविद्या⟫ :
+1\. Përkufizimi i ⟪अविद्या⟫ :
 
-⟪अनित्याशुचिदुःखा⟫:sig[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫:sig[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २⟫.⟪५॥⟫
 
-Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
+Shpjegim: ⟪आत्मसु⟫ = Lok. sg. për ⟪आत्मन्⟫ m. "shpirt ; Absoluti, në masën që realizohet te individi"
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ :
+2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. mbi përdorimin e duhur të ⟪दण्ड⟫ :
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫:sig[⟪मुद्वेजनीयो⟫] ⟪भवति⟫ ⟪।८।⟫
-
-⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
-
-⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
-
-⟪सु⟫:sig[⟪विज्ञात⟫]⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫:sig[⟪र्योजयति⟫] ⟪।११।⟫
-
-⟪दुष्प्रणीतः⟫ :sig[⟪कामक्रोधाभ्याम⟫]⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, :sig[⟪किमङ्ग⟫] ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
-
-⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
-
-⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
-
-⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
+⟪तीक्ष्णदण्डो भूताना⟫:sig[⟪मुद्वेजनीयो⟫] ⟪भवति ।८। मृदुदण्डः परिभूयते ।९। यथार्हदण्डः पूज्यते ।१०। सु⟫:sig[⟪विज्ञात⟫]⟪प्रणीतो हि दण्डः प्रजा धर्मार्थकामै⟫:sig[⟪र्योजयति⟫] ⟪।११। दुष्प्रणीतः⟫ :sig[⟪कामक्रोधाभ्याम⟫]⟪वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, :sig[⟪किमङ्ग⟫] ⟪पुनर्गृहस्थान् ।१२। अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३। बलीयान अबलं हि ग्रसते दण्डधराभावे ।१४। स तेन गुप्तः प्रभवतीति ।१५।⟫
 ::: indent
-⟪चतुर्व⟫⟪र्णाश्रमो⟫ ⟪लोको⟫  
-⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
-⟪स्वधर्मकर्माभिरतो⟫  
-⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
+⟪चतुर्व र्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते⟫ **⟪स्वेषु वर्त्मसु⟫** ⟪॥१६॥⟫
 :::
 ::: media
 ![](/images/lekt2902.jpg)
-Abb.: ⟪मात्स्यन्याय⟫:
-(Zeichnung: Namcha Payer, 2002-11)
-(Bildquelle: [Details](/licenses#lekt2902))
+Fig.: ⟪मात्स्यन्याय⟫:
+(Dizajn: Namcha Payer, 2002-11)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt2902))
 :::
-Erklärungen:
+Shpjegime:
 
-⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss"
+⟪।८। उद्वेजनीय ३⟫ "diçka (dikush), përpara së cilit duhet të drithërosh"
 
-⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "erkannt" ; n.: Erkennen
+⟪।११। विज्ञात ३⟫ "i njohur" ; n.: Njohja
 
-⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "anschirren, verbinden mit, vereinigen mit"
+⟪।११। योजयति⟫ (Kaus. për ⟪युज्⟫) "lidh, bashko me, bashkëngjit me"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२। कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. nga ⟪कामक्रोध⟫ (Dualdvandva)
 
-⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "um wieviel mehr"
+⟪।१२। किमङ्ग⟫ "aq më shumë"
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker"
+⟪।१४। बलीयान्⟫ : Nom. sg. mask. për ⟪बलीयस् ३⟫ "më i fortë"
 
-⟪।१६।⟫ ⟪चतुर्⟫ "vier" als Vorderglied eines Kompositums
+⟪।१६। चतुर्⟫ "katër" si pjesa e parë e një kompozite
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
+⟪राज्ञा⟫ Instr. sg. mask. për ⟪राजन्⟫ m. "Mbret"
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)"
+⟪स्वेषु⟫ : Lok. plur. mask. / neutr. për ⟪स्व ३⟫ "vetjak (im, yt, tij etj.)"
 
-⟪वर्त्मसु⟫ : Lok. plur neutr. zu ⟪वर्त्मन्⟫ n. "Bahn, Gleis, Pfad"
+⟪वर्त्मसु⟫ : Lok. plur neutr. për ⟪वर्त्मन्⟫ n. "Shteg, gjurmë, rrugicë"
 
-## 29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
+## 29.4. E ardhmen dhe Kausativin për rrënjët e mësura deri tani
 
 ::: grammar-box
 
@@ -262,6 +245,5 @@ Erklärungen:
 | ⟪स्मृ⟫ ⟪१⟫ ⟪प⟫ | ⟪स्मरिष्यति⟫ | ⟪स्मारयति⟫:br⟪स्मरयति⟫ |
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
-
 :::
 

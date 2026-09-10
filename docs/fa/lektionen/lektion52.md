@@ -591,7 +591,7 @@ PPP ⟪च्युत⟫
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/fa/licenses#lekt5214))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: درخت موز (_Musa_ sp.)
 
@@ -599,7 +599,7 @@ Konark = ⟪कोनार्क⟫
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/fa/licenses#lekt5208))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt5208))
 :::
 ⟪सार⟫ m.n.: هسته، مغز، جوهر، ماده
 
@@ -614,7 +614,7 @@ Hampi = ಹಂಪೆ
 ::: media
 ![](/images/lekt5215.webp)
 Abb.: ⟪मलम् मुंबई⟫
-(Bildquelle: [Details](/fa/licenses#lekt5215))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: آسمان ایندرا
 
@@ -623,8 +623,8 @@ Abb.: ⟪मलम् मुंबई⟫
 ::: media
 ![](/images/lekt5217.webp)
 Abb.:
-Amaravati = అమరావతి، سده ۲ پس از میلاد
-(Bildquelle: [Details](/fa/licenses#lekt5217))
+Amaravati = అమరావతి، سده ۲ میلادی
+(منبع تصویر: [جزئیات](/fa/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: کسی که می‌خواهد کاملاً بشناسد
 

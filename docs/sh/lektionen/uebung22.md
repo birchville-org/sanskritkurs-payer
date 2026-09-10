@@ -1,115 +1,104 @@
 ---
-title: "Exercise 22"
+title: "[Vježba 22]"
 uebung_id: 22
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 22
+# Exercise 22
 
-A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
+A) Form and translate the Absolute for the following verbs:
 
-1.  ⟪आप्⟫ — ⟪आप्त्वा⟫ (nachdem er erlangt hat)
-2.  ⟪प्राप्⟫ — ⟪प्राप्य⟫ (nachdem er erreicht hat)
-3.  ⟪समास्⟫ — ⟪समास्य⟫ (nachdem er sich hingesetzt hat)
-4.  ⟪आस्⟫ — ⟪आसित्वा⟫ (nachdem er gesessen hat)
-5.  ⟪समि⟫ — ⟪समित्य⟫ (nachdem er zusammengekommen ist)
-6.  ⟪संस्कृ⟫ — ⟪संस्कृत्य⟫ (nachdem er zubereitet/geheiligt hat)
-7.  ⟪कृ⟫ — ⟪कृत्वा⟫ (nachdem er getan hat)
-8.  ⟪गम्⟫ — ⟪गत्वा⟫ (nachdem er gegangen ist)
-9.  ⟪उपगम्⟫ — ⟪उपगत्य⟫ / ⟪उपगम्य⟫ (nachdem er herangegangen ist)
-10.  ⟪जि⟫ — ⟪जित्वा⟫ (nachdem er gesiegt hat)
-11.  ⟪विजि⟫ — ⟪विजित्य⟫ (nachdem er besiegt hat)
-12.  ⟪तन्⟫ — ⟪तत्वा⟫ (nachdem er gespannt hat)
-13.  ⟪दह्⟫ — ⟪दग्ध्वा⟫ (nachdem er verbrannt hat)
-14.  ⟪उपदिश्⟫ — ⟪उपदिश्य⟫ (nachdem er angewiesen hat)
-15.  ⟪नी⟫ — ⟪नीत्वा⟫ (nachdem er geführt hat)
-16.  ⟪पच्⟫ — ⟪पक्त्वा⟫ (nachdem er gekocht hat)
-17.  ⟪उपपद्⟫ — ⟪उपपद्य⟫ (nachdem er herangetreten ist)
-18.  ⟪पा⟫ ⟪१⟫ — ⟪पीत्वा⟫ (nachdem er getrunken hat)
-19.  ⟪प्रच्छ्⟫ — ⟪पृष्ट्वा⟫ (nachdem er gefragt hat)
-20.  ⟪बुध्⟫ — ⟪बुद्ध्वा⟫ (nachdem er erkannt hat)
-21.  ⟪सम्बुध्⟫ — ⟪सम्बुध्य⟫ (nachdem er zur Erkenntnis erwacht ist)
-22.  ⟪भज्⟫ — ⟪भक्त्वा⟫ (nachdem er zugeteilt hat)
-23.  ⟪भू⟫ — ⟪भूत्वा⟫ (nachdem er geworden ist)
-24.  ⟪प्रभू⟫ — ⟪प्रभूय⟫ (nachdem er entstanden ist)
-25.  ⟪मन्⟫ — ⟪मत्वा⟫ (nachdem er gemeint hat)
-26.  ⟪मुच्⟫ — ⟪मुक्त्वा⟫ (nachdem er befreit hat)
-27.  ⟪विमुच्⟫ — ⟪विमुच्य⟫ (nachdem er losgelassen hat)
-28.  ⟪मृ⟫ — ⟪मृत्वा⟫ (nachdem er gestorben ist)
-29.  ⟪यज्⟫ — ⟪ईष्ट्वा⟫ (nachdem er geopfert hat)
-30.  ⟪लभ्⟫ — ⟪लब्ध्वा⟫ (nachdem er erhalten hat)
-31.  ⟪उपलभ्⟫ — ⟪उपलभ्य⟫ (nachdem er wahrgenommen hat)
-32.  ⟪वच्⟫ — ⟪उक्त्वा⟫ (nachdem er gesprochen hat)
-33.  ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (nachdem er verkündet hat)
-34.  ⟪वद्⟫ — ⟪उदित्वा⟫ (nachdem er gesprochen hat)
-35.  ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (nachdem er hervorgesagt hat)
-36.  ⟪हन्⟫ — ⟪हत्वा⟫ (nachdem er erschlagen hat)
+1. ⟪आप्⟫ — ⟪आप्त्वा⟫ (after he has obtained)
+2. ⟪प्राप्⟫ — ⟪प्राप्य⟫ (after he has reached)
+3. ⟪समास्⟫ — ⟪समास्य⟫ (after he has sat down)
+4. ⟪आस्⟫ — ⟪आसित्वा⟫ (after he has sat)
+5. ⟪समि⟫ — ⟪समित्य⟫ (after he has come together)
+6. ⟪संस्कृ⟫ — ⟪संस्कृत्य⟫ (after he has prepared/consecrated)
+7. ⟪कृ⟫ — ⟪कृत्वा⟫ (after he has done)
+8. ⟪गम्⟫ — ⟪गत्वा⟫ (after he has gone)
+9. ⟪उपगम्⟫ — ⟪उपगत्य⟫ / ⟪उपगम्य⟫ (after he has approached)
+10. ⟪जि⟫ — ⟪जित्वा⟫ (after he has won)
+11. ⟪विजि⟫ — ⟪विजित्य⟫ (after he has conquered)
+12. ⟪तन्⟫ — ⟪तत्वा⟫ (after he has strung)
+13. ⟪दह्⟫ — ⟪दग्ध्वा⟫ (after he has burned)
+14. ⟪उपदिश्⟫ — ⟪उपदिश्य⟫ (after he has instructed)
+15. ⟪नी⟫ — ⟪नीत्वा⟫ (after he has led)
+16. ⟪पच्⟫ — ⟪पक्त्वा⟫ (after he has cooked)
+17. ⟪उपपद्⟫ — ⟪उपपद्य⟫ (after he has stepped forward)
+18. ⟪पा १⟫ — ⟪पीत्वा⟫ (after he has drunk)
+19. ⟪प्रच्छ्⟫ — ⟪पृष्ट्वा⟫ (after he has asked)
+20. ⟪बुध्⟫ — ⟪बुद्ध्वा⟫ (after he has recognized)
+21. ⟪सम्बुध्⟫ — ⟪सम्बुध्य⟫ (after he has awakened to knowledge)
+22. ⟪भज्⟫ — ⟪भक्त्वा⟫ (after he has distributed)
+23. ⟪भू⟫ — ⟪भूत्वा⟫ (after he has become)
+24. ⟪प्रभू⟫ — ⟪प्रभूय⟫ (after he has arisen)
+25. ⟪मन्⟫ — ⟪मत्वा⟫ (after he has meant)
+26. ⟪मुच्⟫ — ⟪मुक्त्वा⟫ (after he has liberated)
+27. ⟪विमुच्⟫ — ⟪विमुच्य⟫ (after he has released)
+28. ⟪मृ⟫ — ⟪मृत्वा⟫ (after he has died)
+29. ⟪यज्⟫ — ⟪ईष्ट्वा⟫ (after he has sacrificed)
+30. ⟪लभ्⟫ — ⟪लब्ध्वा⟫ (after he has received)
+31. ⟪उपलभ्⟫ — ⟪उपलभ्य⟫ (after he has perceived)
+32. ⟪वच्⟫ — ⟪उक्त्वा⟫ (after he has spoken)
+33. ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (after he has proclaimed)
+34. ⟪वद्⟫ — ⟪उदित्वा⟫ (after he has spoken)
+35. ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (after he has recited)
+36. ⟪हन्⟫ — ⟪हत्वा⟫ (after he has slain)
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Translate and resolve the compounds into Sanskrit:
 
-⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
-(⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
-Die Dienerin des Brahmanen kochte Speise und isst nun.
+⟪१⟫. **⟪अन्नं पक्त्वा ब्राह्मणदास्यत्ति ॥१॥⟫**
+(⟪ब्राह्मणस्य दासी⟫)
+The servant of the Brahmin cooked food and is now eating.
 
-⟪२⟫. **⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫**
-(⟪इष्टाया⟫ ⟪देवताया⟫ ⟪पूजां⟫ ⟪।⟫ ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪तान्देवान्⟫ ⟪।⟫ ⟪सन्तो⟫ ⟪ब्राह्मणाः⟫)
-Die guten Brahmanen verehrten ihre persönliche Gottheit und preisen nun Indra und die übrigen Götter.
+⟪२⟫. **⟪इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥⟫**
+(⟪इष्टाया देवताया पूजां । इन्द्र आदिर्येषां तान्देवान् । सन्तो ब्राह्मणाः⟫)
+The good Brahmins worshipped their personal deity and now praise Indra and the other gods.
 
-⟪३⟫. **⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫**
-(⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪सतो⟫ ⟪गुरोः⟫ ⟪श्रवणार्थेन⟫ ⟪।⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामम्⟫)
-Rāma ist mit seinem Sohn aufgebrochen und geht ins Brahmanendorf, um den guten Meister zu hören.
+⟪३⟫. **⟪प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥⟫**
+(⟪पुत्रेण सह । सतो गुरोः श्रवणार्थेन । ब्राह्मणानां ग्रामम्⟫)
+Rāma has set out with his son and is going to the Brahmin village to hear from the good teacher.
 
-⟪४⟫. **⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫**
-Auch wenn er nie geopfert hat, erlangt ein Mensch allein durch Hingabe an den Ehrwürdigen (Kṛṣṇa) Erlösung.
+⟪४⟫. **⟪अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥⟫**
+Even if he has never performed a sacrifice, a person attains liberation solely through devotion to the Venerable One (Kṛṣṇa).
 
-⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
-(⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
-Der Kṣatriyaheld betritt das Innere des Hauses, stellte sich in ehrerbietiger Haltung vor den Sohn des Brahmanen und spricht.
+⟪५⟫. **⟪गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥⟫**
+(⟪गृहस्य गर्भम् । ब्राह्मणस्य पुत्रम् । क्षत्रिय एव शूरः⟫)
+The Kṣatriya hero enters the interior of the house, stands in a respectful posture before the son of the Brahmin and speaks.
 
-⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
-(⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
-Buddha (Sugata) ist zur Erkenntnis erwacht, hat die Wahrheit vom Leid und die übrigen edlen Wahrheiten verkündet und führt nun die Menschen auf dem Weg zur Erlösung.
+⟪६⟫. **⟪सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥⟫**
+(⟪दुःखमादिर्येषां तान्यार्याणि सत्यानि । सुष्टु गतः । मोक्षस्य मार्गेण⟫)
+Buddha (Sugata) has awakened to insight, has proclaimed the truth of suffering and the other noble truths, and now leads people on the path to liberation.
 
-⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
-(⟪यज्ञस्य⟫ ⟪दोषम्⟫)
-Da er den Spruch vergessen hat, macht der Opfernde einen Opferfehler.
+⟪७⟫. **⟪मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥⟫**
+(⟪यज्ञस्य दोषम्⟫)
+Since he has forgotten the verse, the sacrificer commits a sacrificial error.
 
-⟪८⟫. **⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫**
-(⟪बुद्धस्य⟫ ⟪मार्गो⟫ ⟪मार्गो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪भिक्षवः⟫)
-Wenn sie Geld bekommen, verderben Mönche, die den Weg Buddhas gehen.
+⟪८⟫. **⟪धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥⟫**
+(⟪बुद्धस्य मार्गो मार्गो येषां ते भिक्षवः⟫)
+When they receive money, monks who follow the Buddha's path are corrupted.
 
-⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
-(⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
-Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammengestossen, und siegen vollkommen.
+⟪९⟫. **⟪अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥⟫**
+(⟪अनार्यैः शत्रुभिः । नराः सिंहा इव⟫)
+The lion-like men have encountered the enemies who are not Āryas, and they achieve complete victory.
 
-⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
-Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein Mensch in keine Hölle.
+⟪१०⟫. **⟪पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫**
+If he has done meritorious deeds and spoken only the truth, a person does not go to any hell.
 
 ::: media
 ![](/images/uebung034.jpg)
-Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
-(Bildquelle: [Details](/licenses#uebung034))
+Fig.: ⟪धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति⟫
+(Image source: [Details](/licenses#uebung034))
 :::
 ---
 
-## Passiv-Konstruktionen
+## Passive Constructions
 
-C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen:
+C) Form passive constructions from the above sentences (except for sentences 8 and 10):
 
-⟪१⟫. ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्याद्यते⟫ ⟪॥⟫
+⟪१⟫. ⟪अन्नं पक्त्वा ब्राह्मणदास्याद्यते ॥ २⟫. ⟪इष्टदेवतापूजां कृत्वेन्द्रादिदेवाः सद्ब्राह्मणैः स्तूयन्ते ॥ ३⟫. ⟪प्रस्थाय रामेण सपुत्रेण सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गम्यते ॥ ४⟫. ⟪अनिष्ट्वा नरेण भगवद्भक्तिमात्रेणापि मोक्ष आप्यते ॥ ५⟫. ⟪गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरेणोच्यते ॥ ६⟫. ⟪सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतेन मोक्षमार्गेण नरा नीयन्ते ॥ ७⟫. ⟪मन्त्रं विस्मृत्य यजता यज्ञदोषः क्रियते ॥⟫
 
-⟪२⟫. ⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवाः⟫ ⟪सद्ब्राह्मणैः⟫ ⟪स्तूयन्ते⟫ ⟪॥⟫
-
-⟪३⟫. ⟪प्रस्थाय⟫ ⟪रामेण⟫ ⟪सपुत्रेण⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गम्यते⟫ ⟪॥⟫
-
-⟪४⟫. ⟪अनिष्ट्वा⟫ ⟪नरेण⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्ष⟫ ⟪आप्यते⟫ ⟪॥⟫
-
-⟪५⟫. ⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरेणोच्यते⟫ ⟪॥⟫
-
-⟪६⟫. ⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतेन⟫ ⟪मोक्षमार्गेण⟫ ⟪नरा⟫ ⟪नीयन्ते⟫ ⟪॥⟫
-
-⟪७⟫. ⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजता⟫ ⟪यज्ञदोषः⟫ ⟪क्रियते⟫ ⟪॥⟫
-
-⟪९⟫. ⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहैर्विजीयते⟫ ⟪॥⟫
+⟪९⟫. ⟪अनार्यशत्रुभिः संगत्य नरसिंहैर्विजीयते ॥⟫

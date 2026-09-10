@@ -1,52 +1,54 @@
-
 ---
-title: "Übung 52"
+title: "練習52"
 uebung_id: 52
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # 練習52
 
-## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+## ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-**⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
-**⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
+**⟪यद्यत्परवशं कर्म तत्तद्यत्नेन वर्जयेत् ।⟫**  
+**⟪यद्यदात्मवशं तु स्यात्तत्तत्सेवेत यत्नतः ॥ १५९ ॥⟫**
 
-> Jede Tat, die auf fremdem Willen beruht, vermeide man eifrig; was aber aus eigenem Willen geschieht, das pflege man eifrig.
+> 凡依他人意志而行之行為，應勤勉避免；然由己意所為者，則當勤勉奉行。
 
-**⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
-**⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
+**⟪सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् ।⟫**  
+**⟪एतद्विद्यात्समासेन लक्षणं सुखदुःखयोः ॥ १६० ॥⟫**
 
-> Alles, was auf fremdem Willen beruht, ist leidvoll; alles, was auf eigenem Willen beruht, ist Glück. Das soll man zusammengefasst als das Merkmal von Glück und Leid kennen.
+> 凡依他人意志而行之事，皆為苦；凡依己意而行之事，皆為樂。此應總括知曉為苦與樂之特徵。
 
-**⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
-**⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
+**⟪यत्कर्म कुर्वतो ऽस्य स्यात्परितोषो ऽन्तरात्मनः ।⟫**  
+**⟪तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥ १६१ ॥⟫**
 
-> Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
+> 凡行之能致內心滿足者，當勤勉奉行；反之則應避免。
 
 ::: media
 ![](/images/uebung087.webp)
-Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Bildquelle: [Details](/licenses#uebung087))
+圖：⟪सर्वं परवशं दुःखम्⟫
+（圖片來源：[詳情](/licenses#uebung087)）
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫：關於 ⟪धर्म⟫ 之源頭
 
-**⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
-**⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪वेदो ऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।⟫**  
+**⟪आचारश्चैव साधूनामात्मनस्तुष्टिरेव च ॥ ६ ॥⟫**
 
-> Die Wurzel des Dharma ist:
-> * der gesamte Veda
-> * die Überlieferung und die Sitte der Vedakundigen
-> * das Verhalten der Guten
-> * die Zufriedenheit der Seele
+> 正法之根為：
+> * 全部吠陀
+> * 通曉吠陀者之傳承與習俗
+> * 善行之行為
+> * 靈魂之滿足
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫：關於 ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ 在君主生活中的應用
+
+**⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ॥ २ ॥⟫**
 
 **⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
@@ -60,66 +62,63 @@ Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> So halte er seine Sinne unter Kontrolle, meide fremde Frauen, fremdes Gut und Gewalt, und vermeide Schlaf, Lüsternheit, Lüge, Geckenhaftigkeit, Unnützes und unrechte oder unnütze Geschäfte. Er gebe sich der Lust hin, ohne dass dadurch Recht und zweckrationales Verhalten gestört werden; er sei nicht freudlos. Oder er pflege gleichmässig alle drei Lebensziele, die miteinander verbunden sind. Wenn man sich nämlich einem von Recht und Sitte, zweckrationalem Verhalten und Lust übermässig hingibt, dann bedrückt das die Seele und die beiden anderen Ziele. Kauṭilya sagt, dass zweckrationales Verhalten (**Artha**) das Wichtigste ist. Recht und Sitte sowie Lust wurzeln nämlich in zweckrationalem Handeln.
+> 因此，他應控制自己的感官，遠離他人的妻子、他人的財物和暴力，並避免沉睡、貪欲、虛妄、浮華、無益之物以及不正當或無益的事務。他可在不損害正義與功利行為的前提下享受享樂；他不應過著毫無喜悅的生活。或者，他應同等地追求這三種互相聯繫的人生目標。因為若過度沉溺於正義、功利行為與享樂中的任何一者，將會損害心靈與其他兩個目標。考提利耶（Kauṭilya）說，功利行為（**Artha**）是最重要的。因為正義與享樂皆根源於功利行為。
 
 ---
 
 ## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫
 
-Buddhas erlösende Erkenntnis:
+佛陀的解脫覺悟：
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Als er mit Festigkeit und Ruhe das Heer Māras besiegt hatte, wollte der in Meditation Erfahrene die höchste Wahrheit und Wirklichkeit völlig erkennen und meditierte.
+> 當他以堅定與平靜戰勝了魔羅（Māra）的軍隊後，這位精通禪修者渴望完全證悟至高真理與實相，因而進行禪修。
 
-**⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
-**⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+> 他達到了所有禪修方法的最高精通境界，並在初夜分憶念其無間斷的轉世序列。
 
-> Er brachte es zur höchsten Meisterschaft in allen Meditationsmethoden und erinnerte sich in der ersten Nachtwache an die ununterbrochene Abfolge seiner Wiedergeburten.
+**⟪अमुत्राहमयं नाम च्युतस्तस्मादिहागतः ।⟫**  
+**⟪इति जन्मसहस्राणि सस्मारानुभवन्निव ॥ ३ ॥⟫**
 
-**⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
-**⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+> 「我曾在那裡，名叫某某；從那裡離去後，我來到了這裡。」他如此憶念著千生萬世，彷彿親身經歷一般。
 
-> "Dort war ich der So-und-so, von dort geschieden bin ich hierher gekommen" – so erinnerte er sich an Tausende von Geburten, so als ob er sie gerade erfahren würde.
+**⟪स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु ।⟫**  
+**⟪ततः सत्त्वेषु कारुण्यं चकार करुणात्मकः ॥ ४ ॥⟫**
 
-**⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
-**⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+> 當他如此憶念這些不同存在中的生與死時，他對眾生展現了慈悲；他是本性即為慈悲者。
 
-> Als er sich so an Geburt und Tod in diesen verschiedenen Existenzen erinnert hatte, entfaltete er gegenüber den Wesen Mitgefühl, er, dessen Wesen Mitgefühl ist.
+**⟪कृत्वेह स्वजनोत्सर्गं पुनरन्यत्र च कृत्वा ।⟫**  
+**⟪अत्राणः खलु लोको ऽयं परिभ्रमति चक्रवत् ॥ ५ ॥⟫**
 
-**⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
-**⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+> 確實，此世間無處可逃，如輪般輾轉流轉：它將眾生遣送至這裡，隨後又送往那裡。
 
-> Wahrlich, diese Welt ist ohne Rettung und irrt herum wie ein Rad: sie entlässt ihre Geschöpfe hier und dann wieder dort.
+**⟪इत्येवं स्मरतस्तस्य बभूव नियतात्मनः ।⟫**  
+**⟪कदलीगर्भनिःसारः संसार इति निश्चयः ॥ ६ ॥⟫**
 
-**⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
-**⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+> 當他以堅定的心如此憶念時，他獲得了確切的洞察：輪迴的流轉如同芭蕉樹的心髓一般，空無核心。
 
-> Als er sich entschlossenen Herzens so erinnerte, kam er zur festen Erkenntnis: Der Lauf der Wiedergeburten ist ohne Mark und Kern wie das Innere einer Bananenpflanze.
+**⟪द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः ।⟫**  
+**⟪दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥ ७ ॥⟫**
 
-**⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
-**⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+> 當第二夜分到來時，他——其力量無與倫比、一切有眼者中最勝者——獲得了最殊勝的天眼。
 
-> Als die zweite Nachtwache gekommen war, hat er, dessen Macht wie die keines Zweiten ist, das höchste himmlische Auge bekommen, er, der Beste aller, die ein Auge haben.
+**⟪ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा ।⟫**  
+**⟪ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥ ८ ॥⟫**
 
-**⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
-**⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+> 隨後，他以這雙完全清淨的天眼，看見整個世界如同在無瑕的鏡子中一般。
 
-> Dann sah er mit diesem völlig reinen himmlischen Auge die ganze Welt wie in einem makellosen Spiegel.
+**⟪सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्टकर्मणाम् ।⟫**  
+**⟪प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥ ९ ॥⟫**
 
-**⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
-**⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+> 當他看見眾生因善業或惡業而經歷生滅時，他的心中湧起了慈悲。
 
-> Als er das Vergehen und Entstehen der Wesen sah, die gutes oder schlechtes Karma hatten, da wuchs das Mitgefühl in seinem Herzen.
+**⟪इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् ।⟫**  
+**⟪इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥ १० ॥⟫**
 
-**⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
-**⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-
-> "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
+> 「這些造作惡行的眾生，將墮入惡趣；而那些擁有善業的眾生，則會再生於帝釋天的天界。」
 
 ::: media
 ![](/images/uebung088.webp)
-Abb.: ⟪कदलीगर्भनिःसारः⟫
-(Bildquelle: [Details](/licenses#uebung088))
+圖：⟪कदलीगर्भनिःसारः⟫
+（圖片來源：[詳情](/licenses#uebung088)）
 :::

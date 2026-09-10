@@ -1,52 +1,53 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Bài 49"
+subtitle: "Hình thành thì mệnh lệnh (⟪लोट्⟫) của các gốc hiện tại không có âm đệm (tiếp theo)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 49
+# Bài 49
 
-## 49.1. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
+## 49.1. Hình thành thì mệnh lệnh (⟪लोट्⟫) của các gốc hiện tại không có âm tiết (tiếp theo)
 
-### 49.1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
+### 49.1.1. Lớp hiện tại thứ bảy (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 49.1.2. Lớp hiện tại thứ năm (⟪स्वादि⟫)
 
 ::: grammar-box
-Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht.
+Thì mệnh lệnh ngôi thứ hai số ít không có hậu tố đối với các gốc thuộc lớp 5 và lớp 8, khi chỉ có một phụ âm đứng trước -u tận cùng của hậu tố.
 :::
 ⟪सु⟫ 5U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
 
@@ -54,11 +55,11 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Präsensklasse (⟪तनादि⟫)
+### 49.1.3. Lớp hiện tại thứ tám (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -66,9 +67,9 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪तनु⟫] | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | :sig[⟪तनु⟫] | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
@@ -76,11 +77,11 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪कुरु⟫] | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | :sig[⟪कुरु⟫] | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 49.1.4. Lớp hiện tại thứ chín (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -88,12 +89,12 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+| **Ngôi thứ nhất** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **Ngôi thứ hai** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **Ngôi thứ ba** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna
+Gốc của lớp 9, kết thúc bằng phụ âm, thay thế -nī-hi tận cùng của câu mệnh lệnh ngôi thứ 2 số ít bằng -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -101,16 +102,16 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| **Ngôi thứ 1** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **Ngôi thứ 2** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
+| **Ngôi thứ 3** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Deklination der Nominalstämme auf -as, -is, -us
+## 49.2. Biến danh từ gốc kết thúc bằng -as, -is, -us
 
-#### Neutra (⟪नपुंसक⟫)
+#### Trung tính (⟪नपुंसक⟫)
 
 ::: grammar-box
-| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
+| | **⟪मनस्⟫ n.** :br"Tư tưởng" | **⟪हविस्⟫ n.** :br"Lễ vật tế" | **⟪चक्षुस्⟫ n.** :br"Mắt" |
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
@@ -127,12 +128,12 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫)
+#### Giống đực (⟪पुंस्⟫) và giống cái (⟪स्त्री⟫)
 
-Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied.
+Hầu hết các trường hợp là ⟪बहुव्रीहि⟫ với một gốc kết thúc bằng -s (ban đầu là trung tính) ở thành phần thứ hai.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
+| | **⟪सुमनस्⟫ 3** :br"từ suy nghĩ tốt, nhân từ | **⟪दीर्घायुस्⟫ 3** :br"trường thọ" |
 | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
@@ -140,7 +141,7 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Singular wie Neutrum
+Các cách khác của số ít giống như neutrum
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
@@ -149,50 +150,50 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Plural wie Neutrum
+Các cách khác của số nhiều giống như neutrum
 :::
-## 49.3. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
+## 49.3. Hình thành danh từ: Hậu tố ⟪कृत्⟫-as neutrum
 
-Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen).
+Với hậu tố ⟪कृत्⟫-as neutrum, nhiều danh từ được hình thành. Thường thì đó là các khái niệm trừu tượng hoặc danh từ hành động (những từ chỉ hành động).
 
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe.
+Nguyên âm ngắn của gốc trước phụ âm đơn cũng như nguyên âm tận cùng của gốc xuất hiện ở cấp độ mạnh (guṇa).
 
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
-| Wurzel | Nomen auf -as |
+| Gốc | Danh từ tận cùng -as |
 | --- | --- |
-| ⟪मन्⟫ 4Ā "denken" | ⟪मनस्⟫ n. "Denken, Gedanke, Denkorgan" |
-| ⟪नम्⟫ 1P "beugen" | ⟪नमस्⟫ n. "Verbeugung, Verehrung" |
-| ⟪चित्⟫ 1P "wahrnehmen, denken" | ⟪चेतस्⟫ n. "Einsicht" |
+| ⟪मन्⟫ 4Ā "suy nghĩ" | ⟪मनस्⟫ n. "Sự suy nghĩ, ý tưởng, cơ quan tư duy" |
+| ⟪नम्⟫ 1P "bẻ cong" | ⟪नमस्⟫ n. "Sự cúi chào, sự tôn kính" |
+| ⟪चित्⟫ 1P "cảm nhận, suy nghĩ" | ⟪चेतस्⟫ n. "Sự thấu hiểu" |
 :::
-Nomina auf -is und -us sind relativ selten.
+Danh từ tận cùng -is và -us tương đối hiếm.
 
 ::: media
 ![](/images/lekt4907.webp)
-Abb.: ⟪नमस्ते⟫
-(Bildquelle: [Details](/licenses#lekt4907))
+Hình: ⟪नमस्ते⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4907))
 :::
-## 49.4. Wortliste
+## 49.4. Danh sách từ vựng
 
-⟪दीर्घ⟫ 3: lange
+⟪दीर्घ⟫ 3: dài
 
-⟪ह्रस्व⟫ 3: kurz
+⟪ह्रस्व⟫ 3: ngắn
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+⟪आयुस्⟫ n.: thời gian sống (toàn bộ thời gian sống, những gì có thể sống nếu không có điều gì cản trở) ;
 
 ::: indent
-davon:
+từ đó:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: hệ thống y học truyền thống của Ấn Độ
 
-siehe:
+xem:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Các văn bản được chọn từ Carakasaṃhitā / dịch và chú giải bởi Alois Payer (1944–). -- 0. Giới thiệu. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : ném, quăng
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -204,83 +205,81 @@ Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : hối hả
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : gây hại
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: sự tò mò, sự quan tâm
 
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: hoàn toàn, đầy đủ
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: sự quen biết
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: nghệ thuật
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, thế kỷ 11
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: mong muốn
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: và, cũng, hoặc
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: chim ("đi vào giấc mơ trên không trung - ⟪विह⟫")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: trang phục, ngoại hình, bề ngoài
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+Abb.: ⟪वेषः वाराणस्याम्⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: tấm màn, nơi ẩn náu
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: lồng
 
 ::: media
 ![](/images/lekt4909.webp)
 Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+Thầy bói với vẹt trong lồng: con vẹt rút những mẩu giấy ghi vận mệnh Mysore
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: tầng lớp thấp nhất của [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Indekl.: bản thân, tự nhiên
 
-⟪अवनि⟫ f.: Erde
+⟪अवनि⟫ f.: đất
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
+⟪मुहूर्त⟫ m.,n.: khoảnh khắc, thời điểm, đúng lúc
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : tưởng tượng, nghĩ
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
@@ -291,29 +290,29 @@ PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.: sự cân nhắc, chú ý, tôn trọng
 
 ::: media
 ![](/images/lekt4905.webp)
 Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3: xa nhất, cao nhất ; ⟪पञ्चम्या⟫ : tốt hơn, cao hơn
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.: trẻ em, con non
 
 ::: media
 ![](/images/lekt4906.webp)
 Abb.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt4906))
 :::
-## 49.5. Wiederholungsübung zur Formenlehre
+## 49.5. Bài tập lặp lại về hình thái học
 
-Bestimmen Sie folgende Formen:
+Xác định các dạng sau:
 
 1.  ⟪गृहाणि⟫
 2.  ⟪नमानि⟫
@@ -355,20 +354,18 @@ Bestimmen Sie folgende Formen:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Übersetzungsübung
+## 49.6. Bài tập dịch thuật
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
+⟪बान⟫ (thế kỷ 7 sau Công nguyên): ⟪कादम्बरी⟫, biên tập bởi M. R. Kale, 1968, tr. 35f.
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
+Câu hỏi của vua ⟪शूद्रक⟫ từ ⟪विदिशा⟫ dành cho con vẹt ⟪वैशम्पायन⟫:
 
-⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
-
-⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
+⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति । वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫
 
 ::: media
 ![](/images/lekt4908.webp)
-Abb.: ⟪शुकः⟫
-Pflaumenkopfsittich = Psittacula cyanocephala
-(Bildquelle: [Details](/licenses#lekt4908))
+Hình: ⟪शुकः⟫
+Vẹt đầu mận = Psittacula cyanocephala
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4908))
 :::
 

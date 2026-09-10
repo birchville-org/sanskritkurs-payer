@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "Lição 45"
+subtitle: "Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) de temas atemáticos sem sufixo terminado em vogal (continuação)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 45
@@ -96,7 +97,7 @@ p. ex. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राज�
 ::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4501))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4501))
 :::
 ## 45.3. Lista de palavras
 
@@ -144,7 +145,5 @@ B) Traduza:
 ::: media
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4502))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4502))
 :::
-
-

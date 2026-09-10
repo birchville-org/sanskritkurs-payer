@@ -1,5 +1,12 @@
 #!/bin/bash
 
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+if [ -f "$PROJECT_ROOT/venv/bin/activate" ]; then
+    source "$PROJECT_ROOT/venv/bin/activate"
+fi
+cd "$PROJECT_ROOT"
+
 # Enforce single runner instance using cross-platform Python lock on inherited file descriptor 200
 exec 200>/tmp/payer_runner_bash.lock
 python3 -c "import fcntl, sys; fcntl.flock(200, fcntl.LOCK_EX | fcntl.LOCK_NB)" 2>/dev/null || exit 0
@@ -44,9 +51,9 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
 
     if [ "$TOP_LANG" = "$PREV_LANG" ]; then
         if [ "$CURR_SAUBER" -le "$PREV_SAUBER" ]; then
-            if [ "$EXTRA_FLAGS" != "--f""orce" ]; then
+            if [ "$EXTRA_FLAGS" != "--force" ]; then
                 echo "⚠️ [STUCK] [$TOP_LANG] No progress. Forcing retry on un-QC'd files before skipping..."
-                EXTRA_FLAGS="--f""orce"
+                EXTRA_FLAGS="--force"
             else
                 echo "🚨 [MASCHINELLES LIMIT ERREICHT] [$TOP_LANG] Keine weiteren automatischen Fortschritte möglich ($CURR_SAUBER/136). Sprache wird für manuelle Nacharbeit markiert und übersprungen."
                 SKIP_LANGS="$SKIP_LANGS $TOP_LANG"
@@ -66,7 +73,7 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
 
     echo "============================================================"
     echo "🎯 TARGET LANGUAGE: [$TOP_LANG] (Clean: $CURR_SAUBER/136)"
-    if [ "$EXTRA_FLAGS" = "--f""orce" ]; then
+    if [ "$EXTRA_FLAGS" = "--force" ]; then
         echo "⚠️ MODE: forced-mode (Retrying failed files)"
     fi
     echo "============================================================"

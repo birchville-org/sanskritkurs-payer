@@ -1,328 +1,304 @@
 ---
-title: Lektion 18
+title: "[Bài 18]"
 lesson_id: 18
+
 ---
 
-# Lektion 18
+# Bài 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Determinativcompound (⟪तत्पुरुष⟫) với thành phần trước mang chức năng trạng ngữ
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können
+Với tư cách là thành phần trước (không biến đổi) mang chức năng trạng ngữ, có thể
 
-*   Adverbien
-*   Präpositionen
-*   Partikel
-*   andere Indeklinabilia
+*   Trạng từ
+*   Giới từ
+*   Tiểu từ
+*   Các từ không biến đổi khác
 
 ::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+được sử dụng. Các loại Tatpuruṣa này thường thuộc lớp Nityasamāsa = ⟪नित्यसमास⟫ (n. "compound cố định"), tức là các compound không thể hoặc chỉ có thể giải nghĩa một phần bằng cách phân tích dựa trên chính các từ cấu thành chúng.
 :::
-Beispiele:
+Ví dụ:
 
-⟪अति⟫ "darüber hinaus":
+⟪अति⟫ "ngoài ra, hơn nữa":
 
 ::: indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+⟪अतिगुरु⟫ 3: cực kỳ nặng nề, vô cùng quan trọng
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+⟪अतिपुरुष⟫ n.: người đàn ông vượt trội, siêu nhân, anh hùng
 
-⟪अतिस्तुति⟫ f.: übermässiges Lob
+⟪अतिस्तुति⟫ f.: lời khen quá mức
 
-⟪अत्युक्ति⟫ f.: übermässiges Sprechen, Übertreibung
+⟪अत्युक्ति⟫ f.: lời nói quá mức, sự phóng đại
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+Các thành phần trước mang chức năng trạng ngữ quan trọng nhất là a-/an-, su-, dus-.
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
+⟪अ⟫ (trước phụ âm), ⟪अन्⟫ (trước nguyên âm): un-: đứng trong compound thay cho ⟪न⟫ "không".
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): sự không đúng sự thật, lời nói dối
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: chưa làm, không được thực hiện
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : một phụ nữ không phải Brahmin, người ngoài hàng ngũ Bà-la-môn
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ : một vị thần không phải, người ngoài hàng ngũ thiên thần
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "tốt, hay"; khi giải nghĩa compound, các nhà chú giải thường thay thế bằng một tính từ mang nghĩa "tốt" (ví dụ ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪सुकवि⟫ m.: ein guter Dichter
+⟪सुकवि⟫ n.: một nhà thơ giỏi
 
-⟪सुकृत⟫ n.: gute Tat
+⟪सुकृत⟫ n.: một hành động tốt
 
-⟪सुखादित⟫ 3: gut gekaut
+⟪सुखादित⟫ 3: nhai kỹ
 
-⟪सुदुःख⟫ n.: grosses Leid
+⟪सुदुःख⟫ n.: nỗi khổ lớn
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
+⟪दुस्⟫ "xấu, tệ" (chú ý Sandhi!).
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
+⟪दुर्नय⟫ m.: sự dẫn dắt kém, hành vi tệ hại
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+⟪दुष्करण⟫ n.: hành động xấu, hành động khó khăn
 :::
-Dabei gilt folgendes Gesetz:
+Khi đó, quy luật sau đây được áp dụng:
 
 ::: grammar-box
 
-Lautveränderung von -s in Komposita
+Biến đổi âm thanh của -s trong hợp danh từ (Komposita)
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+Khác với Sandhi câu, ở âm cuối của thành phần đầu trong hợp danh từ:
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-s sau -i- hoặc -u- trước âm họng vô thanh hoặc âm môi » -ṣ
 
-Deshalb: ⟪दुष्करण⟫
+Do đó: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Hợp danh từ loại ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+Hợp danh từ loại ⟪सुकर⟫ / ⟪दुष्कर⟫ chủ yếu mang nghĩa khả năng bị động:
 
-Beispiele:
+Ví dụ:
 
 :::
 ::: indent
-⟪सुकर⟫ 3: leicht zu tun
+⟪सुकर⟫ 3: dễ làm
 
-⟪सुगम⟫ 3: leicht zu gehen
+⟪सुगम⟫ 3: dễ đi
 
-⟪दुर्गम⟫ 3: schwer zu gehen
+⟪दुर्गम⟫ 3: khó đi
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+⟪सुदुर्गम⟫ 3: rất khó đi
 :::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Nghĩa của nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+Tatpuruṣa với a- / an- có thể mang các nghĩa sau:
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):  
-::: indent
-⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-:::
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):  
-::: indent
-⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
-:::
-3.  Andersheit (⟪तदन्यत्वम्⟫):  
-::: indent
-⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
-:::
-4.  Kleinheit (⟪तदल्पता⟫):  
-::: indent
-⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
-:::
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):  
-::: indent
-⟪अकालः⟫ = Unzeit
-:::
-6.  Feindschaft (⟪निरोधः⟫):  
-::: indent
-⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
-:::
+1.  Sự tương đồng (⟪तत्सादृश्यम्⟫):  
+⟪अब्राह्मणः⟫ = một Kṣatriya hoặc Vaiśya, người mang sợi chỉ thánh (⟪यज्ञोपवीत⟫ n.) và do đó giống một Brahman, dù không phải là Brahman
+2.  Sự thiếu vắng, không tồn tại (⟪तदभावः⟫):  
+⟪अज्ञानम्⟫ = vô minh (sự thiếu vắng tri thức)
+3.  Sự khác biệt (⟪तदन्यत्वम्⟫):  
+⟪अपटम्⟫ = thứ gì đó không phải là vải / y phục (⟪पट⟫ m: dệt, vải)
+4.  Sự nhỏ bé (⟪तदल्पता⟫):  
+⟪अनुदरम्⟫ = một cái bụng nhỏ (một cái không phải bụng)
+5.  Sự phê phán, bất mãn (⟪अप्राशास्त्यम्⟫):  
+⟪अकालः⟫ = thời điểm không thích hợp
+6.  Sự thù địch (⟪निरोधः⟫):  
+⟪असुरः⟫ = thần đối nghịch (theo ngữ nguyên học sai a-sura)
 
-Folgender Vers fasst diese Bedeutungen zusammen:
+Vers sau tóm tắt các nghĩa này:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+Người ta gọi sáu nghĩa của nañ (= a-/an-) ....
 :::
 ## 18.3. Verbalkomposita
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
 ⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süsse des Gangeswassers durch Meerwasser.
+Thông qua một tiền tố, nghĩa của một gốc động từ bị thay đổi một cách cưỡng bức, giống như vị ngọt của nước sông Hằng bị biến đổi bởi nước biển.
 
 ::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+Động từ trong tiếng Phạn có thể được kết hợp với các tiền tố (⟪उपसर्ग⟫ m.). Thông thường, Sandhi câu được áp dụng. Tiền tố có thể điều chỉnh đáng kể nghĩa của gốc từ, do đó trong nhiều trường hợp, nghĩa của một gốc động từ kết hợp với tiền tố cần được học riêng. Động từ có tiền tố có thể có một chế độ (P, Ā) khác với gốc động từ đơn giản. Nhiều tiền tố có thể được đặt trước một gốc động từ cùng lúc.
 
 :::
-Einige wichtige Präverbe sind:
+Một số tiền tố quan trọng là:
 
-⟪उप⟫ "zu, hin, gegen"
+⟪उप⟫ "đến, hướng tới, chống lại"
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : đi đến, bắt đầu
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : chỉ ra, dạy bảo, khuyên nhủ
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : đạt tới
 
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: được trang bị (với Instrumentalis)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : nắm bắt, đạt được
 :::
-⟪प्र⟫ "vorwärts, hervor"
+⟪प्र⟫ "tiến lên, tiến ra"
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : đạt được
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : chỉ ra
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : thức dậy, nhận ra
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : xuất hiện, nhô lên, có quyền lực đối với (Gen., Lok. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : giải thích, thông báo, phát biểu
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : phát biểu, gọi là, giải thích là
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : ca ngợi trước, ca ngợi rõ ràng, đề cập đến điều gì đó, bắt đầu
 :::
-⟪वि⟫ "auseinander, weg, zer-, ver-"
+⟪वि⟫ "tách ra, đi away, phân-, ver-"
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : phân tán, tiêu tan, biến mất
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : chinh phục
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : thay thế, giải phóng
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫ : tranh luận, phân tích, kể chuyện
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : quên
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : đập vỡ, phá hủy, tiêu diệt
 :::
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "cùng nhau, với"
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : ngồi cùng nhau, cư trú, sống
 
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫ : tụ họp, hợp nhất
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : tụ họp, gặp gỡ (thân thiện hoặc thù địch), giao phối với (Akk.)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : sinh ra
 
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3: sinh ra, hình thành, trở nên
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : hoàn toàn tỉnh thức (về chân lý)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : được ban cho ai đó, thành công
 
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3: được trang bị với (Instr.)
 :::
 ::: grammar-box
 
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
+Gốc ⟪कृ⟫ "làm" khi kết hợp với các tiền tố ⟪सम् । उप । अप । परि⟫ cũng tạo thành dạng ⟪स्कृ⟫
 
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
+sam-kṛ 8 ⟪संस्करोति⟫ : chuẩn bị, chuẩn bị cho hy tế, hiến dâng
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+*   PPP ⟪संस्कृत⟫ 3: được chuẩn bị cho hy tế ; ⟪संस्कृत⟫ n.: tiếng Sanskrit: ngôn ngữ thích hợp cho hy tế ; đối lập ⟪प्राकृत⟫ 3: thông thường, bình dân ; ⟪प्राकृत⟫ n.: ngôn ngữ thông thường, Prakrit (chỉ các ngôn ngữ dân gian và giao tiếp liên quan đến tiếng Sanskrit)
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Danh từ phái sinh từ tổ hợp động từ
 
 ::: grammar-box
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+Từ các gốc động từ có tiền tố, danh từ có thể được hình thành thông qua các hậu tố kṛt.
 
 :::
-Beispiele:
+Ví dụ:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: sự hiến tế, sự chuẩn bị; các nghi lễ chuyển tiếp = thuật ngữ chỉ các nghi thức gắn liền với các giai đoạn khác nhau của cuộc đời, từ khi thụ thai cho đến khi chết (xem phần tổng hợp xuất sắc về chủ đề này của Basham, Wonder tr. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804))
+Hình: ⟪विवाहः⟫
+Đám cưới = ⟪विवाह⟫ m., một ⟪संस्कारः⟫ quan trọng
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: sự dẫn đến (lửa tế) = nghi lễ mà trong đó, đối với những nam giới thuộc ba đẳng cấp trên, sợi dây thiêng (⟪यज्ञोपवीत⟫ n.) được đeo vào và câu kệ thiêng ⟪सावित्री⟫ thì thì thầm vào tai, mà từ đó trở đi họ sẽ tụng đọc mỗi ngày khi mặt trời mọc và lặn. Đối với các Brahman, đó là Ṛgveda III.62.10:
 
 ::: indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+"Nguyện chúng con đón nhận ánh sáng xuất sắc của vị thần 'Người điều khiển', người có thể khơi dậy suy nghĩ của chúng con."
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Thông qua nghi lễ Upanayana, sự tái sinh thứ hai diễn ra, do đó: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801))
+Hình: ⟪उपनयनम्⟫
+"Một cậu bé được nhìn thấy trong nghi lễ upanayana. Sợi dây mỏng, màu vàng chạy từ vai trái đến eo là Yagnopaivta. Cũng lưu ý chiếc thắt lưng làm bằng cỏ munja quanh eo. Cành cây trong tay phải (thường là từ cây peepa) biểu thị sự bước vào giai đoạn Brahmacharya của cậu."
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1801))
 :::
-## 18.4. Wortliste
+## 18.4. Danh sách từ vựng
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
+⟪सुष्टु⟫ 3: được ca ngợi, xuất sắc, tốt
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
+⟪शोभन⟫ 3: rực rỡ, tráng lệ, huy hoàng, đẹp đẽ, tốt
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪सम⟫ 3: bằng nhau, giống hệt, tương tự (với cách dụng cụ)
 
-⟪व्याधि⟫ m.: Krankheit
+⟪व्याधि⟫ m.: bệnh tật
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , kẻ lừa đảo
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: nhận thức
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪शूर⟫ 3: dũng cảm, anh hùng ; m.: anh hùng
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.: âm thanh, giọng nói, tiếng báo hiệu: lời
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.: nước
 
-⟪उदक⟫ n.: Wasser
+⟪अन्त⟫ m.: kết thúc, ranh giới
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪आदि⟫ m.: khởi đầu
 
-⟪आदि⟫ m.: Anfang
+⟪दण्ड⟫ m.: gậy, roi, hình phạt
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: khối lượng, giới hạn
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪सहित⟫ 3: hợp nhất, được cung cấp với
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪हस्त⟫ m.: tay
 
-⟪हस्त⟫ m.: Hand
+⟪प्रभृति⟫ f.: khởi đầu
 
-⟪प्रभृति⟫ f.: Anfang
+## 18.5. Bài tập
 
-## 18.5. Übung
+A) Dịch đoạn ⟪सुभाषित⟫ ở đầu bài học.
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+B) Dịch các từ hợp thành Tatpuruṣa sau đây:
 
-B) Übersetzen Sie folgende Tatpuruṣa:
-
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -382,11 +358,11 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Bài tập ôn tập
 
-Bitte keine Hilfsmittel benutzen!
+Vui lòng không sử dụng tài liệu tham khảo!
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Phân tích các từ hợp thành sau đây trong tiếng Phạn và đưa ra đề xuất dịch nghĩa:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -402,39 +378,42 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 
 ⟪७⟫. ⟪आहारनिद्राभय⟫ n.
 
+⟪६⟫. ⟪अरिसिंह⟫ m.
+
+⟪७⟫. ⟪आहारनिद्राभय⟫ n.
+
 ⟪८⟫. ⟪मृतिसाधनी⟫ f.
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
+Abb.: ⟪मृतिसाधनी काली⟫
 1770 Print
-(Bildquelle: [Details](/licenses#lekt1802))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1802))
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Dịch các câu sau bằng cách sử dụng động từ thuộc lớp hiện tại thứ hai:
 
-1\. Der Brahmane preist die Göttinnen.
+1\. Người Brahman ca ngợi các nữ thần.
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
+2\. Các anh hùng đi trên con đường khó khăn đến ngôi làng của người Aryan.
 
-3\. Die Hausmagd melkt die Kühe.
+3\. Người đầy tớ nữ vắt sữa những con bò.
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
+4\. Kẻ thù của người Aryan giết chết các Kṣatriya mạnh mẽ.
 
-5\. Ein Gespenst isst keine Früchte.
+5\. Một con ma không ăn trái cây.
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
+6\. Người đã đi tốt [con đường qua các kiếp sống tái sinh] nói với đệ tử như sau.
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803))
+Abb.: ⟪सुगतः गन्धार⟫ 1./2. Jhdt. n. Chr.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1803))
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Hãy đưa ra định nghĩa của Yoga trong tiếng Phạn theo hai cách: một lần sử dụng danh từ ghép, và một lần bằng cách phân tích danh từ đó.
 
-D) Übersetzen Sie:
+D) Dịch:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 

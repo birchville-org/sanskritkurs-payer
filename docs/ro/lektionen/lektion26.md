@@ -58,7 +58,7 @@ Exemple: vezi mai jos viitorul pentru  ⟪दुह्⟫ și  ⟪बुध्
 Fig.: Hermann Grassmann
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2601))
 :::
->> ## 26.5. Wortsandhi pentru -m, -n în fața sibilantelor
+## 26.5. Wortsandhi pentru -m, -n în fața sibilantelor
 
 ::: grammar-box
 **În fața sibilantelor, -n și -m sunt înlocuite cu -ṃ-:**

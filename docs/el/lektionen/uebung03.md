@@ -3,6 +3,7 @@ title: "Άσκηση 3"
 uebung_id: 3
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -169,6 +170,6 @@ dvijāḥ kṣatriyāḥ.
 
 ::: media
 ![](/images/uebung001.webp)
-Abb.: ⟪पशुर्धेनुः⟫
-(Bildquelle: [Details](/licenses#uebung001))
+Εικ.: ⟪पशुर्धेनुः⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung001))
 :::

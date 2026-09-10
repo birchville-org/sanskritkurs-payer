@@ -1,10 +1,11 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Leçon 29"
+subtitle: "Utilisation du Parasmaipada (⟪परस्मैपद⟫) et Ātmanepada (⟪आत्मनेपद⟫) dans le causatif"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 29
@@ -263,5 +264,6 @@ Explications :
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
-:::
+**lekt1804:** Mariage = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫ [Source de l'image : Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Consulté le 2008-12-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)]
 
+:::

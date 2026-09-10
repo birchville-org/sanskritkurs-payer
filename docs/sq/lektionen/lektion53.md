@@ -1,110 +1,111 @@
 ---
-title: Lektion 53
+title: "Mësimi 53"
 lesson_id: 53
+
 ---
 
 # Mësimi 53
 
-## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
+## 53.1. Duali (⟪द्विवचन⟫ n.) i emrave
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:**
+**Duali (⟪द्विवचनम्⟫) përdoret për të treguar "dy":**
 
 :::
 ::: indent
-⟪अश्विनौ⟫ "die beiden Aśvin"
+⟪अश्विनौ⟫ "dy Aśvinët"
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
+**Përdorimi i dualit është aty ku detyrueshëm, kur bëhet fjalë për dy gjëra etj.:**
 
 ::: indent
-⟪हस्तौ⟫ "die Hände (eines Individuums)"
-⟪पादौ⟫ "die Füsse (eines Menschen, Affen oder sonstigen Zweifüssers)"
+⟪हस्तौ⟫ "duart (e një individi)"
+⟪पादौ⟫ "këmbët (e një njeriu, majmuni ose çdo dyqafeje tjetër)"
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
+**Ndërsa, ndonjëherë duali tregon një mashkull dhe një femër të së njëjtës klasë (lloj, gjini):**
 
 ::: indent
-⟪पितरौ⟫ "Vater und Mutter = Eltern"
+⟪पितरौ⟫ "baba dhe nënë = prindër"
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
+**Fjalët që do të thotë "çift" - p.sh. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - përdoren gjithmonë në numrin njëjës, përveç nëse bëhet fjalë për dy ose më shumë çifte:**
 
 ::: indent
-⟪बाहुद्वयम्⟫ "ein Paar Arme"
+⟪बाहुद्वयम्⟫ "një çift krahësh"
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301))
+Fig.: ⟪मार्जारयुगम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302))
+Fig.: ⟪हस्तौ⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5302))
 :::
-## 53.2. Dualendungen des Nomen
+## 53.2. Përfundimet e dualit për emrat
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī 
+|   | Mashkullore/Feminore :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrale :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
+**Për emrat me gradim të rrënjës, Nom.Akk.Vok.Dual m.f. ka formën e fortë**
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme
+## 53.3. Duali i rrënjeve me përfundim konsonant
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Rrënje pa gradim të rrënjës
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
+⟪सत्यवाच्⟫ 3 "që thotë të vërtetën"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ 
+|   | Maskulin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark"
+⟪बलिन⟫ 3 "(veçanërisht) i fortë"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ 
+|   | Maskulin/Feminin :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt"
+⟪सुमनस्⟫ 3 "mikpritës"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ 
+|   | Maskulin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe"
+⟪हविस्⟫ n. "ofertë"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Neutër :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig"
+⟪दीर्घायुस्⟫ 3 "gjatë jetës"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
+|   | Maskulin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Steme me shkallëzim steme
 
-**Partizip Präsens Parasmaipada**
+**Participo i Kohës së Tashme Parasmaipada**
 
 ⟪भरन्त्⟫ 3 "tragend"
 
@@ -114,45 +115,54 @@ Abb.: ⟪हस्तौ⟫
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!) 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
+
+⟪भरन्त्⟫ 3 "qëndrues"
+
+::: grammar-box
+|   | Mashkull :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!)
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305))
+Fig.: ⟪भरन्तौ⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5305))
 :::
-⟪ददत्⟫ 3 "gebend"
+⟪ददत्⟫ 3 "dhënës"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ 
+|   | Mashkull :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant**
+**Steme me -mant/-vant**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend"
+⟪पशुमन्त्⟫ 3 "me bagëti"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ 
+|   | Mashkull :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "gross"
+⟪महान्त्⟫ 3 "i madh"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ 
+|   | Mashkull :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
 ⟪आत्मन्⟫ m.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | Mashkull :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
@@ -161,48 +171,30 @@ Abb.: ⟪भरन्तौ⟫
 ⟪ब्रह्मन्⟫ n.
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Neutër :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König"
+⟪नामन्⟫ n. "Emër"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
-| :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
-:::
-⟪सीमन्⟫ f. "Grenze"
-
-::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
-| :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
-:::
-⟪नामन्⟫ n. "Name"
-
-::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Neutër :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. Duali i stëmbjeve me përfundim zanor
 
-**Stämme auf -a**
+**Stërmbje mbi -a**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht"
+⟪देव⟫ m. "Zot"  
+⟪फल⟫ n. "Frut"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | Maskulin :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] |
@@ -210,14 +202,21 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306))
+Fig.: ⟪फले⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5306))
 :::
-**Stämme auf -i**
+**Stërmbje mbi -i**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke"
+⟪अग्नि⟫ m. "Zjarr"  
+⟪वारि⟫ n. "Ujë"  
+⟪मति⟫ f. "Mendim"
+
+::: grammar-box
+|   | Maskulin :br ⟪पुंस्⟫ | Feminitet :br ⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
@@ -226,14 +225,14 @@ Abb.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u**
+**Fjalë me fund -u**
 
-⟪शत्रु⟫ m.  
-⟪धिनु⟫ f.  
-⟪मधु⟫ n.
+⟪शत्रु⟫ mashk.  
+⟪धिनु⟫ fem.  
+⟪मधु⟫ neutër.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+|   | Maskulin :br ⟪पुंस्⟫ | Femini |br ⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
@@ -241,230 +240,220 @@ Abb.: ⟪फले⟫
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: :sig[⟪धेनू⟫]
-(Bildquelle: [Details](/licenses#lekt5307))
+Fig.: ⟪धेनू⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5307))
 :::
-**Stämme auf -ā**
+**Fjalë me fund -ā**
 
-⟪कन्या⟫ f. "Mädchen"
+⟪कन्या⟫ fem. "Vajzë"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | Femini :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪कन्ये⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪कन्ययोस्⟫] |
 :::
-**Mehrsilbige Stämme auf -ī**
+**Fjalë me shumë zëra me fund -ī**
 
-⟪देवी⟫ f. "Göttin"
+⟪देवी⟫ fem. "Perëndeshë"
 
 ::: grammar-box
-|   | Femininum :br ⟪स्त्री⟫ |
+|   | Femini :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ**
+**Fjalë me fund -ṛ**
 
-⟪दातृ⟫ 3 "Geber"
+⟪दातृ⟫ 3 "Dhënës"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
-| :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫] 
+|   | Maskulin/Femini :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutër :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater"
+⟪पितृ⟫ mashk. "Babë"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ |
+|   | Maskulin :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
-
-Beispiele:
-
-::: indent
-⟪अर्थधर्मौ⟫ "Nutzen (⟪अर्थ⟫) und Dharma"
-⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira und Arjuna"
-⟪सुखदुःखे⟫ (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-⟪शीतोष्णे⟫ "Kälte und Wärme"
-:::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:**
+**Kur dy fjalë lidhjeje të afërsisë mbi -ṛ (ose dy emra mbi -ṛ, që janë emërtime për priftërinj të sakrificës) kompozohen në një Dvandva, pjesa e parë qëndron në formën e Nominativit Singular:**
 
 :::
 ::: indent
-⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Nënë dhe Babë"
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
+**E njëjta gjë ndodh me një të tillë fjalë lidhjeje të afërsisë në një Dvandva para -⟪पुत्र⟫ :**
 
 ::: indent
-⟪पितापुत्रौ⟫ "Vater und Sohn"
+⟪पितापुत्रौ⟫ "Babë dhe Bir"
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
+**Kur emrat e dy hyjnive, që zakonisht përmenden në sakrifica, formojnë një Dvandva, zakonisht zgjatet zanori përfundimtar i pjesës së parë:**
 
 ::: indent
-⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra und Varuṇa"
-⟪अग्नीसोमौ⟫ "Agni und Soma"
+⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra dhe Varuṇa"
+⟪अग्नीसोमौ⟫ "Agni dhe Soma"
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
+**Kjo zgjatje zanore ndodh edhe te Dvandva të tjerë.**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308))
+Fig.: ⟪पितापुत्रौ⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5308))
 :::
-## 53.6. Der Dual von Pronomina
+## 53.6. Djalori i Pronomineve
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
-| :--- | :---: | :---: | :---: | :---: | :---: 
-| **Maskulinum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **Maskulin** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |  
-| **Neutrum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
-| **Femininum** |   |   |   |   |  
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest wie Maskulinum ||||||||
+| **Neutër** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Siç është te Maskulini ||||||||
+| **Feminin** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | Siç është te Maskulini ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
+⟪कतर⟫ 3 "cilat nga" dhe ⟪कतम⟫ 3 "cilat nga shumë" përkaten në të gjitha rastet si ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive
+## 53.7. Adjeqte pronominale
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert:
+Adjeqtet pronomiale të mëposhtme përkaten në të gjitha rastet si ⟪यद्⟫:
 
-*   ⟪अन्य⟫ 3 "ein anderer"
-*   ⟪अन्यतर⟫ 3 "einer von zweien"
-*   ⟪इतर⟫ 3 "der andere"
+*   ⟪अन्य⟫ 3 "një tjetër"
+*   ⟪अन्यतर⟫ 3 "njëri nga dy"
+*   ⟪इतर⟫ 3 "tjetri"
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus ausser dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert.
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫).
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert.
+*   ⟪सर्व⟫ 3 "çdo, të gjithë" përkaten në të gjitha rastet përveç Nom.Akk.sg.n (⟪सर्वम्⟫) si ⟪यद्⟫.
+*   ⟪उभय⟫ 3 "të dy" nuk ka numër dual. Në singular dhe shumës maskulino dhe neuter përkaten si ⟪सर्व⟫. Femino: ⟪उभयी⟫ (si ⟪देवी⟫).
+*   ⟪उभ⟫ 3 "të dy" përdoret vetëm në numrin dual dhe përkaten si ⟪देव⟫ m., ⟪फल⟫ n. dhe përkatësisht ⟪देवता⟫ f.
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden:
+Adjeqtet pronomiale të mëposhtme përkaten si ⟪सर्व⟫. Në Abl.Lok.sg.m.n si dhe në Nom.pl., ato mund të përkaten sipas deklinimit -a ose -ā:
 
-*   ⟪अपर⟫ 3 "ein anderer"
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende"
-*   ⟪पर⟫ 3 "der folgende, spätere"
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche"
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)"
+*   ⟪अपर⟫ 3 "një tjetër"
+*   ⟪उत्तर⟫ 3 "më i larti, veriori, pasuesi"
+*   ⟪पर⟫ 3 "pasuesi, më vonë"
+*   ⟪पूर्व⟫ 3 "pararendësi, lindori"
+*   ⟪स्व⟫ 3 "vetjak (im, yt, i tij ...)"
 
-## 53.8. Unregelmässige Steigerung
+## 53.8. Krahasim i parregullt
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):**
+**Një numër adjeqtesh formojnë krahasimin ose superlativin me shtesat e mëposhtme ⟪कृत्⟫ (!):**
 
-*   Komparativ: **-īyas**
+*   Krahasimi: **-īyas**
 *   Superlativ: **-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.**
+**Ndërsa shtesat ⟪तद्धित⟫ -⟪तर⟫ dhe -⟪तम⟫ i bashkohen stamit maskulin të adjeqtit, shtesat -⟪ईयस्⟫ dhe -⟪इष्ठ⟫ i bashkohen rrënjës nga e cila është nxjerrë adjeqti (nëse ka një rrënjë të tillë!). Vokali i rrënjës është në shkallën e lartë.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
+**Superlativet me -iṣṭha (Fem.: iṣṭhā) përkaten si stame a ose ā.**
 
-**Deklination von -īyas siehe unten.**
+**Deklinationi e -īyas shihet më poshtë.**
 :::
-Beispiele:
-
-::: grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ |
-| --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
-:::
-**Besondere Regeln für die Anfügung dieser Suffixe:**
+Shembuj:
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
+| Rrënjë | Mbiemër | Krahasore | Superlativ |
+| --- | --- | ---
+| ⟪क्षिप्⟫ 6P "hedh" | ⟪क्षिप्र⟫ 3 "shpejtë" | :sig[⟪क्षेपीयस्⟫] 3 "më shpejtë" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "më shpejtën" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "ndalem" | ⟪स्थिर⟫ 3 "i qëndrueshëm, i fortë" | :sig[⟪स्थेयस्⟫] 3 "më i fortë" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "më i fortën" :br ⟪स्थिरतम⟫ 3 |
 :::
-Beispiele:
+**Rregulla të veçanta për bashkëngjitjen e këtyre prapashtesave:**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "gross" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ |
+**Rregulla 1:** **Zëri përfundimtar i një themeli mashkullor me më shumë se një zë, ose zëri përfundimtar dhe zëri përpara tij bien.**
 :::
-::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
-:::
-Beispiele:
+Shembuj:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ |
+| Mbiemër | Krahasore | Superlativ |
+| --- | ---
+| ⟪पाप⟫ 3 "keq" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "i madh" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
+**Rregulla 2:** **Prapashtesat pronare (-mant, vant, -vin, -in etj.) bien. Nëse pjesa e mbetur përbëhet vetëm nga një zë, ajo nuk ndryshohet më tej; vetëm ndryshimet zanore të shkaktuara nga bashkëngjitja me prapashtesën pronare anulohen. Nëse pjesa e mbetur përbëhet nga më shumë se një zë, hyn në fuqi Rregulla 1.**
 :::
-Beispiel:
+Shembuj:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| Mbiemër | Krahasore | Superlativ |
+| --- | ---
+| ⟪धनवन्त्⟫ 3 "i pasur" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(veçanërisht) i fortë" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "që posedon pasuri" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
+::: grammar-box
+**Rregulla 3:** Për -ṛ-, të cilin e ndjek një zanor fillimi dhe pas së cilit vjen vetëm një konsonant i vetëm, zëvendësohet me -ra-.
+:::
+Shembull:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ |
-| --- | --- 
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "gross" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
+| Mbiemër | Krahasore | Superlativ |
+| --- | ---
+| ⟪पृथु⟫ 3 "i gjerë" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+:::
+**Lista e formave më të shpeshta të shkallëzimit të këtij lloji për mbiemrat e mëparshëm:**
+
+::: grammar-box
+| Mbiemër | Krahasore | Superlativ |
+| --- | ---
+| ⟪अल्प⟫ 3 "i vogël, pak" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "i shpejtë" :br (nga ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "i rëndë" :br (nga *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "i gjatë" :br (nga *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "i largët" :br (nga *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "i pasur" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 "i keq" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "i gjerë" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 "i dashur" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(veçanërisht) i fortë" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "i madh" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 "i ri" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "i fortë" :br (nga ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 "i shkurtër" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309))
+Fig.: ⟪द्राघीयो लिङ्गम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5309))
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
+**Disa forma shkallëzuese të këtij lloji nuk kanë fare formë bazë të rrënjosur, ato janë "defektive". Prandaj, vijimet e mëposhtme duhen mbajtur mend veçanërisht:**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ |
-| --- | --- 
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| (Mbiemër) | Krahasore | Superlativ |
+| --- | ---
+| (⟪अल्प⟫ 3 "i vogël, pak") | ⟪कनीयस्⟫ :br shihni ⟪कन्या⟫ f. "vajzë = ajo e vogla" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "i lavdërueshëm, i mirë") | ⟪श्रेयस्⟫ :br për ⟪श्री⟫ f. "ndriçim" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "i lavdërueshëm, i mirë") | ⟪ज्यायस्⟫ :br gjithashtu: "më i vjetër" :br për ⟪ज्या⟫ f. "mbizotërim" | ⟪ज्येष्ठ⟫ :br gjithashtu: "më i vjetri" |
+| (⟪बहु⟫ 3 "shumë") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "i vjetër") | ⟪वर्षीयस्⟫ :br për ⟪वर्ष⟫ n.m. "stina e shiut, vit" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "i vjetër") | ⟪ज्यायस्⟫ :br gjithashtu: "më i mirë" :br për ⟪ज्या⟫ f. "mbizotërim" | ⟪ज्येष्ठ⟫ :br gjithashtu: "më i miri" |
 :::
-## 53.9. Deklination der Komparative auf -īyas
+## 53.9. Deklinimi i komparativave me -īyas
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
+**Komparativet me -īyas formojnë femijorin në -īyasī (deklinojnë si ⟪देवी⟫). Mashkullore dhe neutrale deklinojnë sipas paradigmës së mëposhtme.**
 :::
 ::: grammar-box
 
 |   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ |
 | ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 | ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
@@ -475,95 +464,89 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Lehre von den Versmassen)
+## 53.10. Metrika (Mësimi për masat e vargjeve)
 
 ::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303))
+Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5303))
 :::
-Siehe auch:
+Shihni gjithashtu:
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Hyrje në ekzegjezën e teksteve sanskrite : Skript. -- Kap. 8: Ekzegjeza e vërtetë, pjesa II: Për çështje të caktuara të kuptimit sinkron. -- Shtesë B: Për metrikën e teksteve sanskrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Bedeutung der Bestimmung des Metrums
+### 53.10.1. Rëndësia e përcaktimit të metrit
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
+Përcaktimi i metrit është i rëndësishëm për arsyet e mëposhtme:
 
-1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert.
-Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in:
-**Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1. **Estetik:** Masa epikeqja përfshin, ndër të tjera, bukurinë e një deklarat. Gjithashtu, disa masa të caktuara mund të shërbejnë për të shprehur gjendje të caktuara emocionale, ose ato i janë caktuar klasave sociale të caktuara (⟪वर्ण⟫). Masat e ndryshme recitohen në mënyra të ndryshme. :br Një përshtypje të mirë të efektit estetik jep, për shembull, recitimi i ⟪शिवताण्डवस्तोत्र⟫ (lavdërimi i vallëzimit të Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Tekstologjik:** Gabimet në masën e vargut mund të jenë një tregues se teksti nuk është transmetuar saktë në një pikë. Masa e vargut ndihmon në kryerjen e përmirësimeve të tekstit.
+3. **Kronologjik:** Disa masa të caktuara kanë pësuar ndryshime gjatë historisë. Kjo mund të ndihmojë në datimin e afërt të një teksti. Shiko këtu **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; i njëjti autor: Zur Geschichte des Śloka. -- Të dyja të shtypura në: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304))
+Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5304))
 :::
-### 53.10.2. Arten von Metren
+### 53.10.2. Llojet e metreve
 
 ::: grammar-box
-**Die Inder unterscheiden:**
+**Indët bëjnë dallimin:**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später)
+*   **⟪वृत्त⟩ n.:** Metra, ku numri i shqiptimeve (⟪अक्षर⟩) është i caktuar
+*   **⟪जाति⟩ f.:** Metra, ku shuma e njësive metrike të gjatësisë (⟪मात्रा⟩) (Mores) është e caktuar (për këto më vonë)
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:**
+**Për metrat, ku numri i vargjeve është i caktuar (⟪वृत्त⟫) mund të bëhet dallimi i parë:**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist
+*   Metra, ku numri i vargjeve është i caktuar, por sasia e këtyre vargjeve vetëm pjesërisht
+*   Metra, ku numri i vargjeve dhe sasia e tyre janë të caktuara
 :::
-### 53.10.3. Die metrische Quantität von Silben
+### 53.10.3. Sasia metrike e vargjeve
 
 ::: grammar-box
-**Merkvers**
+**Mjete për memorizim**
 
 :::
 ::: indent
-⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
-⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
-⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
+⟪सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगो ऽपि वा ॥⟫
 :::
-"Eine Silber ist schwer,
+"Një varg është i rëndë,
 
-*   wenn ihr Vokal einen Anusvāra hat,
-*   lang ist,
-*   einen Visarga hat,
-*   ebenso wenn er vor einer Konsonantenverbindung steht
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht."
+*   kur zanori i tij ka Anusvāra,
+*   është i gjatë,
+*   ka Visarga,
+*   ashtu edhe kur ndodhet përpara një bashkëtingëlloreje
+*   dhe kur vargu ndodhet në fund të një katërshe (Pāda)."
 ::: grammar-box
-**Eine Silbe ist**
+**Një varg është**
 
-*   entweder **⟪लघु⟫ = leicht**
-*   oder **⟪गुरु⟫ = schwer**
+*   ose **⟪लघु⟫ = i lehtë**
+*   ose **⟪गुरु⟫ = i rëndë**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn**
+**⟪लघु⟫ = i lehtë është një varg, kur**
 
-*   ihr Vokal kurz ist und auf diesen Vokal
+*   zanori i tij është i shkurtër dhe pas këtij zani
 *   kein Anusvāra,
-*   kein Visarga,
-*   nicht zwei Konsonanten folgen.
+*   nuk ka Visarga,
+*   nuk ndjeken dy bashkëtingëllore.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Zanorët e shkurtër janë a, i, u, ṛ, ḷ
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.**
+**Të gjitha vargjet e tjera janë ⟪गुरु⟫ = të rënda. Vargu i fundit i një katërshe (⟪पाद⟫) llogaritet gjithmonë si ⟪गुरु⟫.**
 
-In der metrischen Analyse bedeutet:
+Në analizën metrike do të thotë:
 
 *   **◡** = ⟪ल⟫ = ⟪लघु⟫
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫
-*   **/** = Zäsur (Worttrennung)
+*   **×** = ⟪लघु⟫ ose ⟪गुरु⟫
+*   **/** = Cezurë (ndarje fjale)
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+Shembull: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 ::: indent
-⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
+⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
+> Shpërndarja e ⟪लघु⟫ dhe ⟪गुरु⟫ :
 
 ::: metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
@@ -571,29 +554,26 @@ Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
+### 53.10.4. Epik Śloka (⟪श्लोक⟫ m.)
 
 ::: grammar-box
-**Merkvers:**
+**Mnemonik:**
 
 :::
 ::: indent
-⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
-⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
-⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
+⟪श्लोके षष्ठं गुरु ज्ञेयं सर्वत्र लघु पञ्चमम् । द्विचतुष्पादयोर्ह्रस्वं सप्तमं दीर्घमन्ययोः ॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
+"Në Śloka, gjashta vargje e një Pāda janë të rënda,
+e pesta në të gjitha Pādas është e lehtë
+E shtata vargje është në të dytën dhe të katërtën Pāda e shkurtër, e gjatë në dy të tjerët."
+Metrika më e rëndësishme vargje në epikë (⟪महाभारत⟫, ⟪रामायण⟫) si dhe në numërs të veprave të tjera është Śloka ("thirrje", "zhurmë", "strophe" për ⟪श्रु⟫ "dëgjo").
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuss, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
+**⟪श्लोक⟫ është një varg i dyfishtë nga gjysmë-vargje me 16 vargje secila. Çdo gjysmë-varg përsëri ndahet në dy katërthi (⟪पाद⟫) me 8 vargje secila. Çdo katërthi ndahet në dy pjesë me 4 vargje secila. I gjithë vargu (⟪पद्य⟫ n.) përbëhet nga katër ⟪पाद⟫ (m. "këmbë, katërthi"). Katër ⟪पाद⟫ numërohen me a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
 
-**Aufbau des Śloka:**
+**Ndërtimi i Śloka:**
 
-**Grundschema (⟪पथ्या⟫):**
+**Skema bazë (⟪पथ्या⟫):**
 
 **a = c:**
 :::
@@ -604,36 +584,18 @@ Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪राम�
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
-
-**Nebenschemata (⟪विपुला⟫) für a und c:**
-
-**⟪विपुला⟫ 1:**
-::: metrik-schema
-× × × —   ◡ ◡ ◡ —
+E dyta dhe e treta vargje e një ⟪पाद⟫ nuk duhet të jenë njëkohësisht ⟪लघु⟫. Në b dhe d, vargjet 2 - 4 nuk mund të jenë ¯ ˘ ¯.
 :::
-**⟪विपुला⟫ 2:**
-::: metrik-schema
-× — ◡ —   — ◡ ◡ —
-:::
-**⟪विपुला⟫ 3:**
-::: metrik-schema
-× — ◡ —   — / — — —
-:::
-**⟪विपुला⟫ 4:**
-::: metrik-schema
-× × × ×   / — ◡ — —
-:::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
-## 53.11. Übung
+**Në të gjitha format e Śloka, ndarja kryesore është në fund të 2. ⟪पाद⟫: aty është ose fund i fjalës ose - në rastin e kompoziteve të gjata - fundi i një pjese përbërëse.**
+## 53.11. Ushtrim
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.**
+**Përcaktoni midis të gjitha vargjeve të mësuar deri tani ato që janë Ślokas. Bëni skemën metrike për këto në mënyrë të shkruar. Tregoni çdo mosrregullsi ose forma Vipulā.**
 :::
 ::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫
+⟪श्रीगणेशाय नमः⟫
 :::
 

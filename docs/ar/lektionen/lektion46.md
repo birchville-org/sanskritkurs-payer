@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "الدرس 46"
+subtitle: "تكوين تصريفات الفعل للشخص الثاني (⟪मध्यमः⟫) الماضي التام (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 46

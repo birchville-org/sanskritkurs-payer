@@ -1,45 +1,45 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 1
+## Ushtrim për shkrimin 1
 
-Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
+Sanskriti është shkruar dhe ende shkruhet në një numër të madh shkrimesh. Përmbledhja e mëposhtme jep një fragment të vogël nga këto shkrime:
 
 ![](/images/schrift001.webp)  
-Abb.: Schriftproben Sanskrit  
-\[Bildquelle: Wikipedia, GNU FD LIzenz\]
+Fig.: Shembuj shkrimi Sanskrit
+\[Burimi i imazhit: Wikipedia, Liçens GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Shkrimi kryesor modern nord-indian për Sanskritin është Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = ⟪विराम⟫ -- kennzeichnen:
+Çdo shenjë konsonante tregon gjithashtu një "a" që ndjek konsonantin. Nëse dëshironi të shkruani vetëm konsonantin e pastër (pa një zanor pasues), duhet ta tregoni këtë me një vijë të pjerrët nënshtruar -- virāma = ⟪विराम⟫ -- për ta identifikuar:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Auf einen Konsonanten folgende Vokale -- ausser "a" -- werden so geschrieben:
+Zanoret që ndjekin një konsonant -- përveç "a" -- shkruhen kështu:
 
 ⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Die Reihenfolge beim Schreiben dieser Verbindungen von Konsonant + Vokal ist:
+Renditja gjatë shkrimit të këtyre lidhjeve konsonant + zanor është:
 
 ![](/images/schrift003.jpg)
 
-Beim Schreiben wird jeder Buchstabe inklusive Querstrich an Oberlinie vollendet bevor der nächste Buchstabe geschrieben wird.
+Gjatë shkrimit, çdo shkronjë përfundohet plotësisht përfshirë vijën horizontale në linjën e sipërme, para se të shkruhet shkronja tjetër.
 
-## Ushtrim
+## Ushtrimi
 
 Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Lesen und transliterieren Sie:
+Lexoni dhe transliteroni:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-Zusätzliche Leseübung:
+Ushqim shtesë leximi:
 
-⟪पिता⟫ Vater, ⟪कपि⟫ Affe, ⟪कृत⟫ getan,  ⟪टीका⟫ Subkommentar, ⟪तत्⟫ dieses, ⟪तट⟫ Ufer, ⟪पत्⟫ dahinschiessen, ⟪पट⟫ Gewebe, ⟪काच⟫ Glas,  ⟪काकुत्⟫ Gaumen, ⟪चित्⟫ wahrnehmen, ⟪पृच्⟫ mischen,  ⟪पोटक⟫ Knecht, ⟪चेतु⟫ Absicht, ⟪तौतातित⟫ Anhänger des Kumārila (Mīmāṃsā), ⟪तूत⟫ Maulbeerbaum, ⟪पीत⟫ getrunken,  ⟪पीति⟫ Trank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ er jammert, ⟪पुटी⟫ Falte, ⟪चापि⟫ desgleichen, ⟪तोक⟫ Nachkommenschaft, ⟪तृपत्⟫ satt, ⟪पॄ⟫ füllen, ⟪कृकाटी⟫ Halsgelenk, ⟪पूपौ⟫ zwei Kuchen, ⟪पैतृकी⟫ väterlich (fem.), ⟪कौट⟫ betrügerisch, ⟪कच⟫ Haupthaar, ⟪कुतपे⟫ auf der Ziegenhaardecke, ⟪कुचौ⟫ Busen, ⟪चकिता⟫ erschrocken (fem.)
+⟪पिता⟫ baba, ⟪कपि⟫ majmun, ⟪कृत⟫ bërë,  ⟪टीका⟫ nënkoment, ⟪तत्⟫ ky, ⟪तट⟫ breg, ⟪पत्⟫ qëllim, ⟪पट⟫ pëlhurë, ⟪काच⟫ qelq,  ⟪काकुत्⟫ gozhda, ⟪चित्⟫ perceptoj, ⟪पृच्⟫ përziej,  ⟪पोटक⟫ shërbëtor, ⟪चेतु⟫ qëllim, ⟪तौतातित⟫ ndjekës i Kumārila-s (Mīmāṃsā), ⟪तूत⟫ morë, ⟪पीत⟫ pirë,  ⟪पीति⟫ pije, ⟪कॢप्⟫  përputhet, ⟪कृपते⟫ ai ankohet, ⟪पुटी⟫ rrudhë, ⟪चापि⟫ i njëjti, ⟪तोक⟫ pasardhës, ⟪तृपत्⟫ i ngopur, ⟪पॄ⟫ mbush, ⟪कृकाटी⟫ nyja e qafës, ⟪पूपौ⟫ dy bukë, ⟪पैतृकी⟫ babanor (fem.), ⟪कौट⟫ mashtrues, ⟪कच⟫ flokë kryeje, ⟪कुतपे⟫ në shtratin e qimeve të dhisë, ⟪कुचौ⟫ gjoks, ⟪चकिता⟫ i frikësuar (fem.)
 
 

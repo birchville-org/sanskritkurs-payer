@@ -1,10 +1,11 @@
 ---
-title: "# Lesjon 4"
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Les 4"
+subtitle: "Vragpronomen en aanwijzende voornaamwoorden in de nominatief"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 

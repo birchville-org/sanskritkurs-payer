@@ -1,10 +1,11 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "שיעור 3"
+subtitle: "היחיד של נוקב בשם הנטייה"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 3
@@ -106,7 +107,7 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 
 ::: media
 ![](/images/lekt0302.jpg)
-(מקור התמונה: [פרטים](/licenses#lekt0302))
+(מקור התמונה: [פרטים](/he/licenses#lekt0302))
 :::
 על מה שמכונה דירוג הגזע הזה, ראו בהמשך
 

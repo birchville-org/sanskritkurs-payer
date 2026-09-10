@@ -206,7 +206,7 @@ in de derde persoon singular imperatief (loṭ) Parasmaipada
 - **soma** m. ⟪सोम⟫ : persdrank, soma; maan (uit welke plant soma werd geperst, is tot op de dag van vandaag omstreden).
 ::: media
 ![](/images/lekt0701.webp)
->> Afb.: Was dit de Vedische somaplant?: Vliegenzwam: *Amanita muscaria* (L.) Lam.
+Afb.: Was dit de Vedische somaplant?: Vliegenzwam: *Amanita muscaria* (L.) Lam.
 (Bron: [Details](/nl/licenses#lekt0701))
 :::
 - **phala** zn. ⟪फल⟫ : vrucht (ook in overdrachtelijke zin: (karmische) vrucht van een daad)

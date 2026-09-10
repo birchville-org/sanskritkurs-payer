@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۳۹"
 uebung_id: 39
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -102,9 +103,10 @@ last_reconstructed: 2026-05-15
 | ⟪८७⟫. ⟪जहति⟫ | ⟪जहीमः⟫ |
 | ⟪८८⟫. ⟪अजुहवुः⟫ | ⟪अजुहुम⟫ |
 | ⟪८९⟫. ⟪हरति⟫ | ⟪हरामि⟫ |
+:::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+تصویر: ⟪आगारे सीदामः⟫
+(منبع تصویر: [جزئیات](/licenses#uebung064))
 :::
 

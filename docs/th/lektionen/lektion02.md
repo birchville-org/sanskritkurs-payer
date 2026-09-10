@@ -1,10 +1,11 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "บทที่ 2"
+subtitle: "ประโยคนามและพื้นฐานของการผันรูป"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # บทที่ 2

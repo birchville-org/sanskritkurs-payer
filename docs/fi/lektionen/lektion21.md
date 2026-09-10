@@ -1,10 +1,11 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: "Oppitunti 21"
+subtitle: "Lisää -nt-päätteisiä preesensvartioita"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 21

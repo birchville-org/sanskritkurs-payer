@@ -1,101 +1,106 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Pamoka 4"
+subtitle: "Klausiamieji ir rodiklieji įvardžiai nominatyve"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 4
 
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. Paprastos papildomo klausimo (žodžių) formos ir atsakymai
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Klausiamieji ir rodomieji įvardžiai
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. Klausiamieji įvardžiai (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
-| | Nominativ singular | Nominativ plural |
+| | Vardininkas vienaskaita | Vardininkas daugininką |
 | :--- | :--- | :--- |
-| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
-| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
-| **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
+| **Vidurinis g.** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **Vyriškoji g.** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **Moteriškoji g.** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+#### 4.1.1.2. Rodomieji įvardžiai (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
-| **Stämme** ||||
+| **Šaknys** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
-| **Nominativ singular** ||||
-| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
-| **Nominativ plural** ||||
-| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| | **tad = ⟪तद्⟫:br"jis, ji, jis; tas, ta, tą":br(Paminėtas)** | **etad = ⟪एतद्⟫:br"šis, ši, šį":br(Bučiamas labai arti)** | **idam = ⟪इदम्⟫:br"šis, ši, šį":br(Artimas)** |
+| **Vardininkas vienaskaita** ||||
+| **Vidurinis g.** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Vyriškoji g.** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Moteriškoji g.** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **Vardininkas daugininką** ||||
+| **Vidurinis g.** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Vyriškoji g.** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Moteriškoji g.** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**Zum Nom. sg. mask.:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten ausser kurzem **-a**
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende)
+**Dėl V. v. vyriškosios g.:**
+**sa, eṣa** (⟪स एष⟫) vartojamas prieš visus garsus, išskyrus trumpą **-a**
+**so, eṣo** (⟪सो एषो⟫) vartojamas prieš **-a**, kuris eliduoja su Avagraha (nedingsta)
+**saḥ, eṣaḥ** (⟪सः एषः⟫) vartojamas tik pauzėje (sakinių pabaigoje, eilutės pabaigoje)
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig:
+Kad būtų galima sudaryti sakinius su šiais įvardžiais (sarvanāman n.), dar būtina žinoti šias sandhi taisykles:
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. Galinio -m sandhi
 
 ::: grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.**
+**Galinis -m prieš priebalsius pakeičiamas į Anusvāra (-ṃ). Sakinio ar posmo pabaigoje bei prieš balsius -m išlieka.**
 :::
-### 4.1.3. Sandhi von auslautendem -e
+
+### 4.1.3. Galinio -e sandhi
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
+1. **Prieš a- balsis -e lieka nepakitęs: pradinis a- eliduojamas su Avagraha:**
+pvz., ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ „Šios ugnys“
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
-   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
+2. **Prieš kitus balsius nei trumpasis a-, -e paprastai pakeičiamas į -a su hiatu. Taip pat pasitaiko pakeitimas į -ay:**
+pvz., ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (retai: imay īśvarāh = ⟪इमयीश्वराः⟫) „Šie Viešpačiai“
 :::
-### 4.1.4. Sandhi von auslautendem -d
+
+### 4.1.4. Galinio -d sandhi
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
+**Galinis -d pauzėje bei prieš dusliuosius gomurinius (k, kh) ir lūpinius (p, ph) pakeičiamas į -t.**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstösse!
+Pakeitimas prieš kitus priebalsius bus aptariamas vėliau. Kol kas venkite tokių garsų sandūrų!
 :::
-### 4.1.5. Frageformeln
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
+### 4.1.5. Klausiamieji modeliai
+
+Naudojant šiuos įvardžius sudaromi, pvz., tokie klausimai:
 
 ::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" |
-| ^^ | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wer ist das?":br"Was ist der?" |
-| ^^ | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wer ist das?":br"Wer ist die?" |
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| ^^ | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^ | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| **Vienaskaita** | **Bevardė g.** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं किम्⟫, ⟪किमिदम्⟫ | „Kas tai yra?“ |
+| ^^| **Vyriškoji g.** | sa kaḥ? / kaḥ saḥ?:br⟪स कः⟫, ⟪कः सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष कः⟫, ⟪क एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं कः⟫, ⟪को ऽयम्⟫ | „Kas jis yra?“:br„Kas yra tas?“ |
+| ^^| **Moteriškoji g.** | sā kā? / kā sā?:br⟪सा का⟫, ⟪का सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं का⟫, ⟪केयम्⟫ | „Kas ji yra?“:br„Kas yra ta?“ |
+| **Daugiskaita** | **Bevardė g.** | tāni kāni? / kāni tāni?:br⟪तानि कानि⟫, ⟪कानि तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि कानि⟫, ⟪कानीमानि⟫ | |
+|^^ | **Vyriškoji g.** | te ke? / ke te?:br⟪ते के⟫, ⟪के ते⟫:brete ke? / ka ete?:br⟪एते के⟫, ⟪क एते⟫:brime ke? / ka ime?:br⟪इमे के⟫, ⟪क इमे⟫ | |
+| ^^| **Moteriškoji g.** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः काः⟫, ⟪का एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः काः⟫, ⟪का इमाः⟫ | |
 :::
-Ein Beispiel anderer Fragen:
+Kitas klausimų pavyzdys:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Atsakymas: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Nominaliniame sakinyje galima, pavyzdžiui, iškelti subjektą į pradžią, kad būtų pabrėžtas ryšys su klausimu.)
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit.
+PASTABA: Atsakymai, kuriuos galite duoti į tokius klausimus naudodami savo dabartines sanskrito žinias, savaime suprantama, dar ne visais atžvilgiais atitinka idiomiškai gerą sanskritą.
 
-## 4.2. Übung
 
-**A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:**
+## 4.2. Pratimas
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
+**A) Žodžiais pagal schemą viṣṇuḥ kaḥ (⟪विष्णुः कः⟫) sudarykite klausimus ir atsakykite į juos sanskritu:**
+
+śruti, śiva, brāhmaṇa, dvija (daugiskaita), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
+**B) Sudarykite klausimus pagal šį skaitymo pratimą pagal modelį etat kim (⟪एतत्किम्⟫) ir atsakykite į juos nurodytais žodžiais bei rodikliniais įvardžiais, pvz., eṣa bālaḥ (⟪एष बालः⟫):**
 
 ::: media
 ![](/images/lekt0401.webp)
-(Bildquelle: [Details](/licenses#lekt0401))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0401))
 :::

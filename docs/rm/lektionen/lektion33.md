@@ -1,7 +1,8 @@
 ---
-title: Lektion 33
+title: "Lecziun 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Lecziun 33
@@ -235,7 +236,7 @@ daquest:
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
+Fig.: ⟪दानम्⟫
 (fontana da l’imaginescha: [detagls](/rm/licenses#lekt3306))
 :::
 **⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (en l’empègn) prender, s’appropriar, emportar
@@ -245,7 +246,7 @@ Abb.: ⟪दानम्⟫
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
+Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt3307))
 :::
 **:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: stabilir, fixar, distribuir
@@ -266,7 +267,7 @@ davon:
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
+Fig.: ⟪समाधि⟫
 (Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3305))
 :::
 **⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: emplenir, cuntanscher
@@ -300,7 +301,7 @@ daquest:
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
+Fig.: ⟪भयम्⟫
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt3304))
 :::
 **⟪भृ⟫** 3U **⟪बिभर्ति⟫**: purtar, portar; mantegnair, nutrir
@@ -348,7 +349,7 @@ da PPP **⟪हीन⟫**:
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
+Fig.: ⟪हीनयानमेव⟫
 (Fontana dal maletg: [Detagls](/rm/licenses#lekt3303))
 :::
 **⟪हु⟫** 3P **⟪जुहोति⟫**: versar en il fieu (com'offrenda, specialmain butira fundida)
@@ -362,8 +363,8 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt3302))
+Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
+(Font dal maletg: [Detagl](/rm/licenses#lekt3302))
 :::
 **⟪घृत⟫** n.: Burra da fundida, Ghee (⟪घी⟫ / گھی / ঘী)
 

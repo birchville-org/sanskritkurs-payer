@@ -1,10 +1,11 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Pelajaran 8"
+subtitle: "Pembentukan Nomina & Kelas Present Ke-8"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Pelajaran 8

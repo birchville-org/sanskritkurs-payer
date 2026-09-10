@@ -1,236 +1,242 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Mësimi 2"
+subtitle: "Propozicioni nominal dhe bazat e deklimit"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Mësimi 2
 
-## 2.1. Der Nominalsatz
+
+## 2.1. Propozicioni nominal
 
 ::: grammar-box
-**Schema: Prädikatsnomen - Subjekt**
+**Skema: Emër predikativ - Subjekt**
 
-z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
+p.sh. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu është një hyjni."
 :::
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
+Një kopulë verbale ("është", "janë", "jam", "je", "jeni") nuk është e nevojshme, por mund të shfaqet ndonjëherë.
 
-Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott".
+Nuk ka **artikuj**: **devaḥ** -- ⟪देवः⟫ mund të dojë të thotë "hyjnia" ose "një hyjni".
 
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäss obigem Standardschema in Betracht ziehen.
+Megjithatë, në sanskritisht renditja e fjalëve është mjaft e lirshme (veçanërisht në vargje), por kur përkthehet një propozicion nominal, duhet të merret parasysh në mënyrë primare një përkthim sipas skemës standarde të mësipërme.
 
-Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht.
+Në propozicionin nominal, subjekti është në rastin nominativ (rasti i parë = **prathamā** f. = ⟪प्रथमा⟫). Emri predikativ përputhet me subjektin në numër dhe rast; nëse emri predikativ është një mbiemër, atëherë edhe në gjini.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
 
-Im Sanskrit gibt es:
+## 2.2. Mbi deklinimin (përkuljen e emrave)
 
-- **drei Numeri** (Zählformen) = **vacana** n. -- ⟪वचन⟫
-  - Singular (Einzahl) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫
-- **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫
-  - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫
-- **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen)
+Në sanskritisht ekzistojnë:
 
-Zur Deklination treten die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nominalstamm** (Form des Nomens ohne Kasusendungen).
+**tre numra** (forma të numërimit) = **vacana** n. -- ⟪वचन⟫
+Singulari (numri një) = **ekavacana** n. -- ⟪एकवचन⟫
+Duali (numri dy) = **dvivacana** n. -- ⟪द्विवचन⟫
+Plurali (numri shumë) = **bahuvacana** n. -- ⟪बहुवचन⟫
+**tre gjini** (gjinitë gramatikore) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+Maskulini (meshkuj) = **puṃs** m. -- ⟪पुंस्⟫
+Femini (femër) = **strī** f. -- ⟪स्त्री⟫
+Neutri (asnjëra) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+**tetë kaze** (raste) = **sup** -- ⟪सुप्⟫ (= fundje kazi)
 
-Beispiel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung).
+Për deklinimin, fundjet e kazave (**sup** = ⟪सुप्⟫) i shtohen asaj që quhet **themel nominal** (forma e emrit pa fundje kazi).
 
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
-- **deva** m. -- ⟪देव⟫ m. (maskulin)
-- **vacana** n. -- ⟪वचन⟫ n. (neutrum)
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
+Shembull: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "per/e hyjnë" = **deva-** -- ⟪देव⟫- (stema nominal) + **-s** -- -⟪स्⟫ (fundim kasus).
 
-## 2.3. Der Nominativ Singular
+Në fjalaret sanskrite, emrat japën në **stem nominal**:
+**deva** m. -- ⟪देव⟫ m. (maskulin)
+**vacana** n. -- ⟪वचन⟫ n. (neutër)
+**vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
 
-**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+
+## 2.3. Nominativ Singulari
+
+**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.**
+**Nominativ Singulari mbaron me -s = -⟪स्⟫ ose është pa fundim.**
 :::
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Nominativ Singulari me -s
 
-Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+Stemat e mëposhtëm, që mbarojnë me një zanor, formojnë Nominativ Singularin me **-s**:
 
 ::: grammar-box
-**Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Maskulina me -a:** p.sh. deva m. = ⟪देव⟫ "hyjnë" -- Nom. sg.: devas = ⟪देवस्⟫
+**Maskulina me -i:** p.sh. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
+**Maskulina me -u:** p.sh. guru m. = ⟪गुरु⟫ "mësues" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = ⟪सन्धि⟫ ("Verbindung").
+Dalja e një fjale rregullohet në sanskrit edhe sipas hyrjes së fjalës pasuese. Ky fenomen quhet **Sandhi** (m.) = ⟪सन्धि⟫ ("lidhje").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Sandhi i -s në dalje
 
-Siehe auch die Übersicht:
+Shihni gjithashtu përmbledhjen:
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi i -s në dalje. -- (Materiale për Sanskritin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+**-s** në dalje:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+**në daljen absolute** (fund i fjali) bëhet **Visarga (-ḥ)**:
+**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+**para shqiptimeve të pa-zëzme**:
+para **k, kh, p, ph** dhe **ś, ṣ, s**: bëhet **Visarga (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva është një hyjni")
+para **c, ch**: bëhet **-ś**
+para **ṭ, ṭh**: bëhet **-ṣ**
+para **t, th**: mbetet **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya është një shenjtër")
 
-- **vor stimmhaften Lauten**:
-  - nach Nicht-a-Vokalen: wird zu **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha ist ein Dichter")
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt.
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma ist ein Lehrer")
-  - nach **a-**: **-as**
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ⟪ऽ⟫)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-    - vor anderen Vokalen: wird zu **-a** (Hiatus)
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+**para shqiptimeve të zëzme**:
+pas zanoreve jo-a: bëhet **-r**
+**kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha është një poet")
+pas zanoreve jo-a para **r-**: **-s** bie, zanorja zgjatet.
+**gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू रामः⟫ ("Rāma është një mësues")
+pas **a-**: **-as**
+para konsonanteve/zanoreve të zëzme: bëhet **-o** (a-ja filluese bie » ⟪ऽ⟫)
+**devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो विष्णुः⟫
+**devas agnis** » **devo 'gniḥ** = ⟪देवो ऽग्निः⟫
+para zanoreve të tjera: bëhet **-a** (Hiatus)
+**devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
-## 2.5. Wortliste
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
+## 2.5. Lista e fjalëve
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
+**deva** m. -- ⟪देव⟫ : Qiejtar, hyjni; princ, mbret.
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
+**īśvara** m. -- ⟪ईश्वर⟫ : Zot, sundimtar, hyjni (monoteistike).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (kaste shpirtërore).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (kasta e princërve dhe ushtarake).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (kasta e bujqve dhe tregtarëve).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta e shërbëtorëve).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+Sipas teorisë klasike (p.sh. Manusmṛti I, 88-91), detyrat janë të shpërndara:
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**brahmanëve**
+studimi i Vedave
+mësimi
+flijim për vete
+flijim për të tjerët
+dhënia
+marrja e dhuratave
+**kṣatriyave**
+mbrojtja e popullit
+dhënia e dhuratave (te brahmanët)
+flijimi për vete
+studimi i Vedave
+**vaiśyave**
+blegtoria
+bujqësia
+tregtia
+huadhënia e parave
+flijimi për vete
+dhënia e dhuratave (te brahmanët)
+flijimi për vete
+studimi i Vedave
+**śūdrave**
+shërbimi ndaj tre klasave të larta
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "I lindur dy herë" (të iniciuarit e tre stërtimeve të larta: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫ : Ngjyrë, klasë e lindjes (tendencë).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+Katër stërtimet (**varṇa** m.) shpesh ngatërrohen me kastat. Por katër stërtimet janë -- në dallim nga kastat -- diçka specifike indiane, edhe në Evropë kishim (deri në Luftën e Parë Botërore) një rend stërtimor, siç dëshmon figura e mëposhtme nga shek. 15:
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+Fig.: Paraqitja e ndarjes stërtimore të Mesjetës evropiane (gdhendje në dru nga fundi i shek. 15).
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Shkruarja:**
+**Kategoria e priftërve** (~Brāhmaṇa): Tu supplex ora = Ti lutu me përkulje!
+**Kategoria e fisnikërve** (~Kṣatriya): Tu protege = Ti mbro!
+**Kategoria e bujqërve** (~Vaiśya/Śūdra): Tuque labora = Dhe ti puno!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+Tre stërtimet mbajnë veshjen e përshtatshme të klasës së tyre. Mbi stërtimet -- që kështu quhen të vullnetit hyjnor -- mbretëron Krishti.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weber (1864–1920) e përcakton stërtimin kështu:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**Stërtimi**« duhet të jetë një shumë njerëzish, që brenda një bashkësie
+a) ushtrojnë një vlerësim të veçantë stërtimor, - ndoshta edhe
+b) kërkojnë monopole të veçanta stërtimore.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+Kategoritë mund të lindin
+a) primarisht, përmes një mënyre të veçantë jetese kategoriale, nën të cilën përfshihet veçanërisht lloji i **profesionit** (**kategoritë profesionale ose të jetesës**),
+b) sekondarisht, me karakter trashëgimor-karizmatik, përmes kërkesave të suksesshme për prestigj bazuar në **ardhjen** kategoriale (**kategoritë e lindjes**),
+c) përmes **përshkallëzimit** kategorial të pushteteve zotëruese politike ose hierokratike si monopole (**kategoritë politike ose hierokratike**).
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+Zhvillimi i kategorive të lindjes është rregullisht një formë e (trashëgimore) përshkallëzimit të privilegjve te një bashkësi ose tek individë të kualifikuar. Çdo përshkallëzim i fiksuar i mundësive, veçanërisht [nga] pushtetet [zotëruese ose mundësitë e fitimit], ka tendencën të çojë në formimin e kategorive. Çdo formim kategoriash ka tendencën të çojë në përshkallëzim monopolistik i pushteteve zotëruese dhe mundësive të fitimit.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+Ndërsa klasat e fitimit rriten mbi bazën e ekonomisë së orientuar nga tregu, kategoritë lindin dhe ekzistojnë kryesisht mbi bazën e mbulimit të nevojave të bashkësive në mënyrë monopolistisht leurgjike, ose feudale, ose patrimoniale kategoriale.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+»**Kategorike**« duhet të thuhet se ka një shoqëri, kur ndarja sociale bëhet kryesisht sipas kategorive, »**klasore**«, kur ajo bëhet kryesisht sipas klasave. Nga «kategoritë», klasa »sociale« i afrohet më shumë «kategoriës», ndërsa »klasa e fitimit« është më e largët. Kategoritë shpesh formohen nga klasat pronësore sipas thelbit të tyre.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+Çdo shoqëri kategoriale është konvencionale, e rregulluar nga rregulla të jetesës, prandaj krijon kushte konsumi ekonomik joracionale dhe pengon në këtë mënyrë përmes përshkallësimeve monopoliste dhe përmes eliminimit të disponimit të lirë mbi aftësinë e vetme për fitim formimin e lirë të tregut.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Ekonomi dhe shoqëri : Bazat e sociologjisë kuptuese. – 5., rishikuar edicioni. – Tübingen : Mohr, 1976. – F. 625 e.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+Varṇat janë sipas kësaj kategori lindje.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : poet.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : zjarr, perëndia Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+Fig.: Perëndia Agni, miniaturë, shek. 18.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : i saktë, mirë.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : njeri "i shenjtë", Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+Fig.: Sādhu (⟪साधु⟫), Tempulli Pashupatinath, Kathmandu.
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+**guru** 3 -- ⟪गुरु⟫ : i rëndë, i madhështishëm, i nderueshëm
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
+**guru** m. -- ⟪गुरु⟫ : person i nderueshëm: babai, nëna, afërmi më i vjetër, veçanërisht mësuesi, mjeshti
 
-## 2.6. Übung
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:**
+## 2.6. Ushtrim
+
+**A) Plotësoni duke marrë parasysh Sandhin dhe formoni fjali nominale:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Übersetzen Sie ins Sanskrit:**
+**B) Përktheni në sanskritisht:**
 
-1. Rāma ist ein Brahmane.
-2. Der Lehrer ist ein Vaiśya.
-3. Der Śūdra ist ein heiliger Mann.
-4. Der Dichter ist der Lehrer.
-5. Viṣṇu ist der HERR.
-6. Der HERR ist Śiva.
-7. Der Zweimalgeborene ist ein Brahmane.
-8. Der heilige Mann ist ein Lehrer.
-9. Der Lehrer ist ein heiliger Mann.
+1. Rāma është një Brahman.
+2. Mësuesi është një Vaiśya.
+3. Śūdra-ja është një njeri i shenjtë.
+4. Poeti është mësuesi.
+5. Viṣṇu-ja është ZOTI.
+6. Zoti është Śiva.
+7. Dy herë i linduri është një Brahman.
+8. Njeriu i shenjtë është një mësues.
+9. Mësuesi është një njeri i shenjtë.

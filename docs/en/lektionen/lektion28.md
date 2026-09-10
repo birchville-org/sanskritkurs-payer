@@ -25,7 +25,7 @@ Example:
 
 **If the root underlying the causative (with or without prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
 
->> **Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Accusative (⟪द्वितीया⟫) — (Goal of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟫) — Verb in the Causative**
+**Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Accusative (⟪द्वितीया⟫) — (Goal of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟫) — Verb in the Causative**
 :::
 Examples:
 
@@ -84,7 +84,7 @@ Jadavpur University Management building.
 
 **For transitive verbs (except those mentioned under Schema 1). Also for all verbs, when the action denoted by the causative is caused (i.e., when the causative is a causative of a causative):**
 
->> **Agent (⟪कर्ता⟫) of the causative in the nominative (⟪प्रथमा⟫) — Agent of the caused action in the instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would take with the simple verb (i.e., usually in the accusative) — Verb in the causative**
+**Agent (⟪कर्ता⟫) of the causative in the nominative (⟪प्रथमा⟫) — Agent of the caused action in the instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would take with the simple verb (i.e., usually in the accusative) — Verb in the causative**
 :::
 ::: indent
 Examples:
@@ -137,12 +137,12 @@ or:
 ⟪रामो बालेन प्रतिमां दर्शयते⟫
 Result: ⟪बालः प्रतिमां पश्यति⟫ = "the boy sees the portrait"
 
->> When the causative is used in a passive construction, the following schema is almost always applied:
+When the causative is used in a passive construction, the following schema is almost always applied:
 
 ::: grammar-box
->> **Schema A (Passive Construction):**
+**Schema A (Passive Construction):**
 
->> **Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
+**Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
 :::
 Examples:
 
@@ -226,18 +226,18 @@ Notes:
 2. **pālayati** is a genuine causative, however from the root **pṛ** 3 "to bring across, to save, to protect": **pārayati** (pār-aya-ti) » **pālayati** (in some parts of India, r corresponds to l, and conversely in others, l corresponds to r).
 
 
->> ## 28.4. Formation of the Passive (⟪यक्⟫) from the Causative
+## 28.4. Formation of the Passive (⟪यक्⟫) from the Causative
 
 ::: grammar-box
->> **The passive of the causative is formed as follows:**
+**The passive of the causative is formed as follows:**
 
->> **Causative stem WITHOUT -aya- + Passive suffix -ya-**
+**Causative stem WITHOUT -aya- + Passive suffix -ya-**
 
 Examples:
 **bhāvyate** (bhāv-ya-te) "he/she/it is caused to be"
 **sthāpyate** (sthāp-ya-te) "he/she/it is caused to be set up"
 :::
->> While the passive of the original root is usually formed from the zero-grade root, one can generally recognize the passive of the causative by the fact that it is formed from the strong or lengthened-grade root.
+While the passive of the original root is usually formed from the zero-grade root, one can generally recognize the passive of the causative by the fact that it is formed from the strong or lengthened-grade root.
 
 
 ## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) for the Causative
@@ -285,10 +285,10 @@ Example:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after having caused to come"
 :::
 
->> ## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
+## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
 
 ::: grammar-box
->> **The infinitive for the causative is formed from the causative stem in -ay- (without final a):**
+**The infinitive for the causative is formed from the causative stem in -ay- (without final a):**
 
 **Causative stem in -ay- + -i- + -tum**
 
@@ -303,7 +303,7 @@ Example:
 
 Examples:
 1. Lengthened-grade root + -aya- : ⟪कम्⟫ 10A कामयते "to love"
->> 2. Guṇa-grade root + -aya- : **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
+2. Guṇa-grade root + -aya- : **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
 :::
 ::: grammar-box
 **The forms of the causative for verbs of the 10th present class are identical to the forms of the simple verb. The decision as to whether a causative is present can only be made based on meaning or sometimes on construction.**

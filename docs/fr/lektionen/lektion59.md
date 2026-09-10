@@ -1,20 +1,21 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Leçon 59"
+subtitle: "Les désinences secondaires et les désinences de l'impératif du duel (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 59
 
-## 59.1. Les désinences du duel secondaire et impératif du ⟨⟪द्विवचनम्⟩⟩
+## 59.1. Les désinences secondaires et les désinences de l'impératif du duel (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | secondaire | Impératif (⟪लोट्⟫) | secondaire thématique | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Impératif (⟪लोट्⟫) |
+|   | secondaire | Impératif (⟪लोट्⟫) | secondaire thématique | secondaire athématique : br optatif (⟪विधिलिङ्⟫) | Impératif (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
@@ -22,11 +23,11 @@ status: stable
 ## 59.2. Le duel des classes de présent thématiques : optatif (⟪विधिलिङ्⟫), imparfait (⟪लङ्⟫), impératif (⟪लोट्⟫)
 
 ::: grammar-box
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+**Devant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
 :::
 ### 59.2.1. Première classe de présent (⟪भ्वादिगणः⟫)
 
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+⟪भू⟫ 1P "devenir, être"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -55,14 +56,14 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | ⟪भवेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | ⟪भवेताम्⟫ |
 :::
-### 59.2.2. Quatrième classe de présent (⟪divādigaṇaḥ⟫)
+### 59.2.2. Quatrième classe de présent (⟪दिवादिगणः⟫)
 
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+⟪नृत्⟫ 4P "danser"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | ⟪नृत्येवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | ⟪नृत्येयाथाम्⟫ |
@@ -71,7 +72,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | ⟪अनृत्यावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | ⟪अनृत्येथाम्⟫ |
@@ -80,20 +81,20 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | ⟪नृत्यावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | ⟪नृत्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्येताम्⟫ |
 :::
-### 59.2.3. Sixième classe de présent (⟪tudādigaṇaḥ⟫)
+### 59.2.3. Sixième classe de présent (⟪तुदादिगणः⟫)
 
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+⟪तुद्⟫ 6U "pousser, frapper"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदेव⟫ | ⟪तुदेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
@@ -102,7 +103,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतुदाव⟫ | ⟪अतुदावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ |
@@ -111,7 +112,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
@@ -119,12 +120,12 @@ Impératif (⟪लोट्⟫)
 :::
 ### 59.2.4. Dixième classe de présent (⟪चुरादिगणः⟫) et causatifs (⟪णिजन्त⟫)
 
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+⟪चुर्⟫ 10U "voler"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयेव⟫ | ⟪चोरयेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
@@ -133,7 +134,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अचोरयाव⟫ | ⟪अचोरयावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ |
@@ -142,15 +143,15 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयाव⟫ | ⟪चोरयावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passif (Suffix -⟪यक्⟫)
+### 59.2.5. Le Passif (Suffixe -⟪यक्⟫)
 
-**Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
+⟪तुद्⟫ 6U "pousser, frapper"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -176,16 +177,16 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Le duel des classes de présent athématiques : optatif (⟪vidhiliṅ⟫), imparfait (⟪laṅ⟫), impératif (⟪loṭ⟫)
+## 59.3. Le duel des classes de présent athématiques : Optatif (⟪विधिलिङ्⟫), Imparfait (⟪लङ्⟫), Impératif (⟪लोट्⟫)
 
-### 59.3.1. Deuxième classe de présent (⟪adādigaṇaḥ⟫)
+### 59.3.1. Deuxième classe de présent (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U « haïr »
+⟪द्विष्⟫ 2U "haïr"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्याव⟫ | ⟪द्विषीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
@@ -209,7 +210,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्टम्⟫ | ⟪द्विषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषाताम्⟫ |
 :::
-⟪दुह्⟩ 2U « traire »
+⟪दुह्⟫ 2U "traire"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -238,7 +239,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दुग्धम्⟫ | ⟪दुहाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुग्धाम्⟫ | ⟪दुहाताम्⟫ |
 :::
-⟪इ⟩ 2P «aller»
+⟪इ⟫ 2P "aller"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -261,18 +262,18 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अयाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪इतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इताम्⟫ |
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā «étudier»
+⟪इ⟫ + ⟪अधि⟫ 2Ā "étudier"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीयीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
@@ -281,7 +282,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अध्यैवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अध्यैयाथाम्⟫ |
@@ -290,18 +291,18 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अध्यैयावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयाताम्⟫ |
 :::
-⟪हन्⟫ 2P «abattre»
+⟪हन्⟫ 2P "abattre"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪हन्याव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
@@ -310,28 +311,28 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अहन्व⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫   |
 | \*a-hn-tam | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अहताम्⟫ |
 :::
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪हनाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪हतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हताम्⟫ |
 :::
-⟪अस्⟫ 2P «être»
+⟪अस्⟫ 2P "être"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪स्याव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
@@ -340,7 +341,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आस्व⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ |
@@ -349,7 +350,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
@@ -357,12 +358,12 @@ Impératif (⟪लोट्⟫)
 :::
 ### 59.3.2. Troisième classe de présent (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P « verser dans le feu du sacrifice »
+⟪हु⟫ 3P "verser dans le feu de l'offrande"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | ⟪जुह्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | ⟪जुह्वीयाथाम्⟫ |
@@ -371,7 +372,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | ⟪अजुहुवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | ⟪अजुह्वाथाम्⟫ |
@@ -380,18 +381,18 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | ⟪जुहवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | ⟪जुह्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | ⟪जुह्वाताम्⟫ |
 :::
-⟪धा⟫ 3U «mettre, poser, placer»
+⟪धा⟫ 3U "placer, poser, mettre"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्याव⟫ | ⟪दधीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
@@ -400,7 +401,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अदध्व⟫ | ⟪अदध्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ |
@@ -409,16 +410,16 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫   |
 | da-dhā + āvahai | | | |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Cinquième classe de présent (⟪svādigaṇaḥ⟫)
+### 59.3.3. Cinquième classe de présent (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U « presser »
+⟪सु⟫ 5U "presser"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -447,9 +448,9 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Huitième classe de présent (⟪tanādigaṇaḥ⟫)
+### 59.3.4. Huitième classe de présent (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U « étendre »
+⟪तन्⟫ 8U "tendre"
 
 Optatif (⟪विधिलिङ्⟫)
 
@@ -478,12 +479,12 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ |
 :::
-⟪कृ⟩ 8U « faire, accomplir » »
+⟪कृ⟫ 8U "faire, accomplir"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्याव⟫ | ⟪कुर्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
@@ -492,7 +493,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अकुर्व⟫ | ⟪अकुर्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अकुरुतम्⟫ | ⟪अकुर्वाथाम्⟫ |
@@ -501,7 +502,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪करवाव⟫ | ⟪करवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
@@ -509,12 +510,12 @@ Impératif (⟪लोट्⟫)
 :::
 ### 59.3.5. Septième classe de présent (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U « arrêter »
+⟪रुध्⟫ 7U "arrêter"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्याव⟫ | ⟪रुन्धीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
@@ -523,7 +524,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अरुन्ध्व⟫ | ⟪अरुन्ध्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अरुन्द्धम्⟫ | ⟪अरुन्धाथाम्⟫ |
@@ -532,18 +533,18 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुणधाव⟫ | ⟪रुणधावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ |
 :::
-⟪युज्⟩ 7U "atteler"
+⟪युज्⟫ 7U "atteler"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्याव⟫ | ⟪युञ्जीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
@@ -552,7 +553,7 @@ Optatif (⟪विधिलिङ्⟫)
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अयुञ्ज्व⟫ | ⟪युञ्ज्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ |
@@ -561,7 +562,7 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
@@ -569,21 +570,21 @@ Impératif (⟪लोट्⟫)
 :::
 ### 59.3.6. Neuvième classe de présent (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U « acheter »
+⟪क्री⟫ 9U "acheter"
 
 Optatif (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi |
+| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brī + n + ī + vahi |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
 Imparfait (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अक्रीणीव⟫ | ⟪अक्रीणीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ |
@@ -592,17 +593,17 @@ Imparfait (⟪लङ्⟫)
 Impératif (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪क्रीणाव⟫ | ⟪क्रीणावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Duel (⟪dvivacanam⟫) Aoriste (⟪luṅ⟫)
+## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
 
-### 59.4.1. Wurzelaorist
+### 59.4.1. Aorist de la racine
 
-⟪पा⟫ 1P «boire»
+⟪पा⟫ 1P "boire"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -611,9 +612,9 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. Aoriste en a
+### 59.4.2. Aorist en a
 
-⟪सिच्⟫ 6U «asperger»
+⟪सिच्⟫ 6U "asperger"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -622,9 +623,9 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Aoriste rédupliqué
+### 59.4.3. Aorist redoublé
 
-⟪श्रि⟫ 1U « se rendre à »
+⟪श्रि⟫ 1U "se rendre auprès de"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -633,7 +634,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. Aoriste en s
+### 59.4.4. Aorist en s
 
 ⟪नी⟫ 1U "conduire"
 
@@ -650,13 +651,13 @@ Impératif (⟪लोट्⟫)
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतौत्स्व⟫ | ⟪अतुत्स्वहि⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫ | |
+| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫   | |
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. Aoriste en iṣ
+### 59.4.5. Aorist en iṣ
 
-⟪पू⟫ 9U « purifier »
+⟪पू⟫ 9U "purifier"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -665,16 +666,16 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: sAoriste en iṣ (nur P)
+## 59.5. Aoriste (⟪लुङ्⟫) 6 : aoriste en siṣ (seulement P)
 
 ::: grammar-box
-**La formation de l’aoriste en siṣ à la Parantam (P) concerne toutes les racines se terminant par -ā, -e, -o, -ai, qui ne sont pas limitées aux 1ᵉʳ, 2ᵉ ou 3ᵉ aoristes, ainsi que certaines autres racines, notamment ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. À l’Ārdhadhātukā (Ā), toutes ces racines forment l’aoriste en s.**
+**L'aoriste en siṣ se forme au P pour toutes les racines en -ā, -e, -o, -ai qui ne sont pas limitées au 1er, 2ème ou 3ème aoriste, ainsi que pour certaines autres racines, notamment ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Au Ā, toutes ces racines forment l'aoriste en s.**
 
 **Formation :**
 
-**Augment + racine au degré plein + s + i + ṣ + terminaison secondaire athématique (comme l’aoriste en iṣ)**
+**Augment + racine au degré plein + s + i + ṣ + désinence secondaire athématique (comme l'aoriste en iṣ)**
 :::
-Le suffixe de formation de la base + les terminaisons de l’aoriste en siṣ sont donc :
+Le suffixe de formation du thème + les désinences de l'aoriste en siṣ sont donc :
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -686,28 +687,28 @@ Le suffixe de formation de la base + les terminaisons de l’aoriste en siṣ so
 :::
 Paradigme :
 
-⟪या⟫ 2ᵖᵉ personne « aller »
+⟪या⟫ 2P "aller"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ |||
 | :--- | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अयासिषम्⟫ | ⟪अयासिष्व⟫ | ⟪अयासिष्म⟫ |
-| **2. ⟪द्वितीयः⟫** | *:sig[⟪अयासीस्⟫]* | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
-| **3. ⟪प्रथमः⟫** | *:sig[⟪अयासीत्⟫]* | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
+| **2. ⟪द्वितीयः⟫** | :sig[⟪अयासीस्⟫] | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
+| **3. ⟪प्रथमः⟫** | :sig[⟪अयासीत्⟫] | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer Aoriste en s)
+## 59.6. Aoriste (⟪लुङ्⟫) 7 : aoriste en sa (aoriste thématique en s)
 
 ::: grammar-box
-**La plupart des racines ⟪अनिट्⟫ se terminant par -ś, -ṣ ou -h, et dont l'avant-dernière syllabe est i, u ou ṛ, forment l'aoriste en s. Les racines facultatives ⟪अनिट्⟫ de cette forme peuvent former soit l'aoriste en s, soit l'aoriste en iṣ.**
+**La plupart des racines ⟪अनिट्⟫ qui se terminent par -ś, -ṣ ou -h et dont l'avant-dernière lettre est i, u ou ṛ forment l'aoriste en sa. Les racines facultatives ⟪अनिट्⟫ de cette forme peuvent former soit l'aoriste en sa, soit l'aoriste en iṣ.**
 
 **Formation :**
 
-**Augment + racine au degré zéro + s + a + terminaison secondaire thématique**
+**Augment + racine au degré réduit + s + a + désinence secondaire thématique**
 
-**Les 1.sg.2.3.du.Ā se forment à partir de l'aoriste en s, c'est-à-dire de manière athématique.**
+**La 1.sg.2.3.du.Ā se forme à partir de l'aoriste en s, c'est-à-dire de manière athématique.**
 :::
-Le suffixe de formation de la racine + les terminaisons de l'aoriste en s sont donc :
+Le suffixe de formation du radical + les désinences de l'aoriste en sa sont donc :
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -725,14 +726,14 @@ Paradigme :
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अदिक्षम्⟫ | ⟪अदिक्षाव⟫ | ⟪अदिक्षाम⟫ | *:sig[⟪अदिक्षि⟫]* | ⟪अदिक्षावहि⟫ | ⟪अदिक्षामहि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अदिक्षस्⟫ | ⟪अदिक्षतम्⟫ | ⟪अदिक्षत⟫ | ⟪अदिक्षथास्⟫ | *:sig[⟪अदिक्षाथाम्⟫]* | ⟪अदिक्षध्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | *:sig[⟪अदिक्षाताम्⟫]* | ⟪अदिक्षन्त⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अदिक्षम्⟫ | ⟪अदिक्षाव⟫ | ⟪अदिक्षाम⟫ | :sig[⟪अदिक्षि⟫] | ⟪अदिक्षावहि⟫ | ⟪अदिक्षामहि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अदिक्षस्⟫ | ⟪अदिक्षतम्⟫ | ⟪अदिक्षत⟫ | ⟪अदिक्षथास्⟫ | :sig[⟪अदिक्षाथाम्⟫] | ⟪अदिक्षध्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | :sig[⟪अदिक्षाताम्⟫] | ⟪अदिक्षन्त⟫ |
 :::
 ::: grammar-box
 **Particularités :**
 
-**Quelques racines se terminant par -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) peuvent, dans le Ā, former les 2.3.sg.1.du.2.pl. sans -sa- au choix.**
+**Quelques racines en -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) peuvent former à l'Ā la 2.3.sg.1.du.2.pl. optionnellement sans -sa-.**
 :::
 Paradigme :
 
@@ -742,45 +743,45 @@ Paradigme :
 |   | ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अधिक्षि⟫ | ⟪अधिक्षावहै⟫ / *:sig[⟪अदिह्वहि⟫]* | ⟪अधिक्षामहि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / *:sig[⟪अधिग्धास्⟫]* | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / *:sig[⟪अधिग्ध्वम्⟫]* |
-| **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / *:sig[⟪अदिग्ध⟫]* | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अधिक्षि⟫ | ⟪अधिक्षावहै⟫ / :sig[⟪अदिह्वहि⟫] | ⟪अधिक्षामहि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / :sig[⟪अधिग्धास्⟫] | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / :sig[⟪अधिग्ध्वम्⟫] |
+| **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / :sig[⟪अदिग्ध⟫] | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
 ## 59.7. Exercice
 
 A) Traduisez le texte suivant et identifiez toutes les formes verbales qui y figurent.
 
-_Avis préliminaire:_
+_Remarque préliminaire :_
 
-Le texte suivant provient du ⟪भट्टिकाव्य⟫ (« Poème d’art du [poète] Bhaṭṭi »). Le ⟪भट्टिकाव्य⟫ raconte, en 22 chants, l’histoire de ⟪राम⟫, tout en illustrant par des exemples les règles de la grammaire et de la poétique.
+Le texte suivant provient du ⟪भट्टिकाव्य⟫ ("Poème d'art de \[le poète\] Bhaṭṭi"). Le ⟪भट्टिकाव्य⟫ raconte en 22 chants l'histoire de ⟪राम⟫, tout en illustrant les règles de la grammaire et de la poétique par des exemples.
 
 Le poème comporte quatre sections :
 
-1.  Chants 1-5 : règles mixtes
-2.  Chants 6-9 : règles principales de la grammaire de Pāṇini
-3.  Chants 10-13 : les principaux ornements poétiques
-4.  Chants 14-22 : emploi des temps et des modes
+1. Chant 1-5 : règles mixtes
+2. Chant 6-9 : règles principales de la grammaire de Pāṇini
+3. Chant 10-13 : les ornements poétiques les plus importants
+4. Chant 14-22 : usage des temps et des modes
 
 Le ⟪भट्टिकाव्य⟫ a été composé entre 495 et 641 après J.-C.
 
 ::: media
 ![](/images/lekt5902.webp)
-Fig. : ⟪रावणः⟫
-(Source de l’image : [Détails](/fr/licenses#lekt5902))
+Lég. : ⟪रावणः⟫
+(Source de l'image : [Détails](/fr/licenses#lekt5902))
 :::
-L’extrait suivant constitue le début du 15e chant, consacré à l’aoriste. ⟪रावण⟫, le roi des démons, qui a enlevé à ⟪राम⟫ son épouse ⟪सीता⟫, fait appeler son frère ⟪कुम्भकर्ण⟫ (« Oreille-de-plot »), qui, en punition de ses méfaits, est plongé dans un état de sommeil prolongé.
+Le passage suivant est le début du 15e chant, consacré à l'aoriste. ⟪रावण⟫, le roi des démons qui a enlevé l'épouse de ⟪राम⟫, à savoir ⟪सीता⟫, envoie chercher son frère ⟪कुम्भकर्ण⟫ ("Oreille-de-pot"), qui, en punition de ses méfaits, est plongé dans un état de sommeil permanent.
 
 ::: media
 ![](/images/lekt5903.webp)
-Fig. : ⟪कुम्भकर्णः⟫
+Lég. : ⟪कुम्भकर्णः⟫
 Danse Kecak, Bali (Indonésie)
-(Source de l’image : [Détails](/fr/licenses/lekt5903))
+(Source de l'image : [Détails](/fr/licenses#lekt5903))
 :::
 _Aide à la traduction :_ Vers 6 : ⟪दिदृक्षते⟫ \= Désidératif de ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
-(Source de l’image : [Détails](/fr/licenses#lekt5901))
+(Source de l'image : [Détails](/fr/licenses#lekt5901))
 :::
-Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie, p. 127s.
+Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie p. 127s.
 

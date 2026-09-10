@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "பாடம் 46"
+subtitle: "இரண்டாம் வேற்றுமை வினைச்சொற்களின் உருவாக்கம் (⟪मध्यमः⟫) முன்னிலை (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 46

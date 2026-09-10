@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "ਪਾਠ 44"
+subtitle: "ਦੂਜੇ ਵਿਅਕਤੀ ਦੇ ਕ੍ਰਿਆ ਰੂਪਾਂ ਦੀ ਬਣਾਵਟ (⟪मध्यमः⟫) ਅਧਾਤਮਿਕ ਸ਼ਬਦਾਂ ਦੇ, ਜੋ ਵਾਕਾਲ ਨਾਲ ਖਤਮ ਹੁੰਦੇ ਹਨ"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 44

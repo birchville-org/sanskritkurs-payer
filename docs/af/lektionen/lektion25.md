@@ -153,10 +153,10 @@ Voorbeeld:
 Verder kan redes natuurlik ook uitgedruk word met konstruksies met
 
 *   ⟪कारण⟫ n. 'rede': ⟪कारणात् । कारणेन⟫
-*   ⟪⟨DEVA_7⟫⟫ m.
+*   ⟪हेतु⟫ m.
 *   ander selfstandige naamwoorde wat "oorsaak" beteken
 
-\+ Genitief (⟪⟨DEVA_8⟫⟫) of as die tweede element van 'n samestelling:
+\+ Genitief (⟪षष्ठी⟫) of as die tweede element van 'n samestelling:
 :::
 Voorbeeld:
 

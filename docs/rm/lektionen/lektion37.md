@@ -1,379 +1,366 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Lecziun 37"
+subtitle: "L'advèrb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 37
 
-## 37.1. L'adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. L'avverb (⟪क्रियाविशेषणम्⟫)
 
-Adverbien vegnan en il Sanscrit
+En il Sanscrit vegnan ils avverbs formads
 
-1.  tras formas casuales da sustantivs e pronomens
-2.  cun agid da sufixs ed finals spezials
+1.  tras formas da casus da sustantivs e pronomens
+2.  cun agid da suffixs spezials e desinenzas
 
-En il prüm cas è la cunfinaziun tranter casus vivents ed avverbis fluida. Quai includa sco cas spezial ils avverbis, ch’èn formas casuales veglias cristallisadas, mentrà che en la declinaziun vegnan duvradas autras formas u che ils numens correspundents n’èn betg pli duvrads sco numens.
+En il prüm cas è la cunfins tranter il casus viv e l'avverb fluid. Qua tutgan sco cas spezial ils avverbs, ch'èn formas da casus veglias cristallisadas, mentra che en la declinaziun vegnan duvradas autras formas u ils sustantivs correspundents na vegnan betg pli duvrads sco sustantivs.
 
-## 37.2. Adverbiala utilizaziun da formas casuales
+## 37.2. Usgadi adverbial da formas da casus
 
-### 37.2.1. Accusativ (⟪dvitīyā⟫)
+### 37.2.1. Accusatīv (⟪द्वितीया⟫)
 
 ::: grammar-box
-L’accusativ (⟪द्वितीया⟫) po vegnir adina adina adina
+L'accusatīv (⟪द्वितीया⟫) po vegnir duvrà adverbialmain sin las dumondas:
 
-*   nua?
-*   e c.
-*   nua?
-*   e c.
+*   en tge moda?
+*   per tge temp?
+*   nua enavant?
+*   e sim.
 
-L’accusativ po vegnir adina aduprà sco
+L'accusatīv po vegnir duvrà adverbialmain:
 
 *   da sustantivs  
-    Exemples:  
-:::
-::: indent
-⟪कामम्⟫ "secundam illescentia, secundam illescentia"
-⟪अर्थम्⟫ "propter"
-:::
+Exempels:  
+⟪कामम्⟫ "secund il desideri, a moda da desideri"  
+⟪अर्थम्⟫ "per motiv da"  
 
-*   da agiectivs al neutral  
-    Exempels:  
-::: indent
-⟪सुखम्⟫ "legier, feliç"
-⟪नित्यम्⟫ "adina"
-⟪साधु⟫ "correct, bun"
-:::
+*   d'agietivs en il neutrum  
+Exempels:  
+⟪सुखम्⟫ "facil, feliç"  
+⟪नित्यम्⟫ "adina"  
+⟪साधु⟫ "correct, bun"  
 
-*   da pronomina en il neutrum  
-    Exemples:  
-::: indent
-⟪तद्⟫ "lura, perquai"
-⟪यद्⟫ "schend, che"
-⟪एतद्⟫ "uschè, qua, uss"
+*   da pronomens en il neutrum  
+Exempels:  
+⟪तद्⟫ "lura, perquai"  
+⟪यद्⟫ "sch'i è, che"  
+⟪एतद्⟫ "uschè, qua, ussa"
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-L'Instrumental (⟪तृतीया⟫) pozz vegnir adoperà adverbialmain sias dumondas:
+L'instrumental (⟪तृतीया⟫) po vegnir duvrà adverbialmain sin las dumondas:
 
-*   dals che?
+*   tras tge?
 *   cun tge?
-*   e c.
+*   e sim.
 
-L’instrumental pozz’ esser adoperà sco adverbial:
+L'instrumental po vegnir duvrà adverbialmain:
 
 *   da sustantivs  
-    Exemples:  
-:::
-::: indent
-⟪अर्थेन⟫ "a causa da"
-⟪क्षणेन⟫ "en il mument, immediatamain" (da ⟪क्षण⟩ m. "mument")
-:::
+Exempels:  
+⟪अर्थेन⟫ "per motiv da"  
+⟪क्षणेन⟫ "en quel mument, immediatamain" (da ⟪क्षण⟫ m. "mument")  
 
-*   da agiectivs, savens er en il plural
-    Exemples:
-::: indent
-⟪दूरेण⟫ "lunsch, da la lunsch" (a ⟪दूर⟫ 3 "lunsch, lunsch da")
-⟪उच्चैस्⟫ "aut, aut" (a ⟪उच्च⟫ 3 "aut, elevà, aut, clar (da vusch)")
+*   d'agietivs, spess er en la furma dal plural  
+Exempels:  
+⟪दूरेण⟫ "lontan, da la lontananza" (a ⟪दूर⟫ 3 "lontan, lunsch da")  
+⟪उच्चैस्⟫ "aut, clar" (a ⟪उच्च⟫ 3 "aut, elevà, clar, acut (da la vusch)")
 :::
-### 37.2.3. Datīv (⟪चतुर्थी⟫)
+### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Rar vegn il Dativ (⟪⟪चतुर्थी⟫) adverbial duvrà per las dumondas:
 
-*   e cetera
-*   e cetera
+*   A tge fin?
+*   u.s.v.
 
-Esempel:
+Exempl:
 :::
 ::: indent
-⟪अर्थाय⟫ "a favor da, per il scop da, per il ben da ..."
+⟪अर्थाय⟫ "per la fin da, per ... giaveus"
 :::
 ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-L’ablativ (⟪पञ्चमी⟫) po vegnir adoperà adverbialmain sün las dumondas:
+L'Ablativ (⟪पञ्चमी⟫) po vegnir duvrà adverbial per las dumondas:
 
-*   perche?
-*   e cetera
-*   da ubi?
-*   e cetera
+*   Per tge raun?
+*   A basa da tgei?
+*   Da nua?
+*   u.s.v.
 
-L'ablativ pozz' vegnir aduprà sco avverbial:
+L'Ablativ po vegnir duvrà adverbial:
 
-*   da sustantivs  
-    p.ex. ⟪बलात्⟫ "cun violenza, cun forza"
+*   Da substantivs  
+p.ex. ⟪बलात्⟫ "cun violenza, cun forza"  
 
-*   da aggettivs  
-    p.ex. ⟪दूरात्⟫ "lunsch"
+*   Da adjetivs  
+p.ex. ⟪दूरात्⟫ "da lunsch"  
 
-*   da pronomina  
-    Exemples:  
-:::
-::: indent
-⟪कस्मात्⟫ "perche"
+*   Da pronom  
+Exemples:  
+⟪कस्मात्⟫ "per tgei"  
 ⟪अकस्मात्⟫ "imprevistamain"
 :::
-### 37.2.5. Genitiv (⟪षष्ठी⟫)
+### 37.2.5. Genetiv (⟪षष्ठी⟫)
 
 ::: grammar-box
-Rar vegn il genitiv (⟪षष्ठी⟫) adverbial adoperà per la dumonda "suenter quant temp?"
+Rar vegn il Genetiv (⟪षष्ठी⟫) adverbial duvrà per la dumonda "suenter tge temp lung?"
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
+p.ex. ⟪चिरस्य⟫ "suenter lung temp" (a ⟪चिर⟫ 3 "lung (temp)")
 :::
 ### 37.2.6. Lokativ (⟪सप्तमी⟫)
 
 ::: grammar-box
-Il locativ (⟪सप्तमी⟫) po vegnir adoperà adverbialmain sin las dumondas:
+Il Lokativ (⟪सप्तमी⟫) po vegnir duvrà adverbial per las dumondas:
 
-*   e.c.
-*   sut tgeas circumstanzas?
-*   e.c.
+*   Nua?
+*   Sot tge circumstanzas?
+*   u.s.v.
 
-Ezempels:
+Exemples:
 :::
 ::: indent
-\-⟪अर्थे⟫ "a causa da"  
-\-⟪कृते⟫ "per l'amur da"  
+\-⟪अर्थे⟫ "per raun"  
+\-⟪कृते⟫ "per giaveus"  
 ⟪दूरे⟫ "lunsch"
 :::
-## 37.3. Adverbiala utilizaziun da furmas da casus betg pli usitadas
+## 37.3. Duvrà adverbial da furmas da casus betg pli usitadas
 
-Ezempels:
+Exemples:
 ::: indent
-⟪जातु⟫ "en tut" (originalmain "per naschientscha, per natira", accusativ singulare neutrum a जातु⟩ \<betg pli usità sco num\>)
+⟪जातु⟫ "en general" (originalmain "da la naschientscha, da la natira", Akk.sg.n. a ⟪जातु⟩ ⟨betg pli usità sco numn⟩)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
+⟪तूष्णीम्⟫ "taciturnamain" (Akk.sg. a in betg pli usità ⟪तूष्णी⟫ f. "taciturnitad")
 
-⟪एवम्⟫ "uschei" (a inàts da n'atgna radis pronominala ⟪एव⟫ "in, suletta")
+⟪एवम्⟫ "uschè" (a in autramain persì stem da pronom ⟪एव⟫ "in, sulet")
 :::
-## 37.4. Furmaziun d'adverbis cun suffixes adverbials
+## 37.4. Furmaziun d’advérbs cun suffixes advrbials
 
 ::: grammar-box
-Dals ils stems pronominala ⟪तद्⟫, ⟪इदम्⟫ resp. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ resp. ⟪कु⟫ ponan cun ils suffixes adverbials
+Dals stems pronominal ⟪तद्⟫, ⟪इदम्⟫ resp. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ resp. ⟪कु⟫ pon ins cun ils suffixes advrbials
 
 *   \-⟪तस्⟫ (Ablativ)
 *   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Moda)
-*   \-⟪थम्⟫ (Moda)
+*   \-⟪था⟫ (Modus)
+*   \-⟪थम्⟫ (Modus)
 *   \-⟪दा⟫ (Tempus)
 
-deducir correspondents adverbis pronominala.
+advérbs pronominals correspundents derivar.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Suffix | Stem pronominal | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brda, sin quai, perquai | ⟪इतस्⟫ :br ⟪अतस्⟫ :brqui, perquai | ⟪यतस्⟫ :brco, da co | ⟪कुतस्⟫ :brco?, per qual motiv? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brlà, là | ⟪अत्र⟫ :brqui | ⟪यत्र⟫ :brnua | ⟪कुत्र⟫ :brnua? |
+| **-⟪था⟫** :br(Modus) | ⟪तथा⟫ :bruschè | | ⟪यथा⟫ :brcoamain | |
+| **-⟪थम्⟫** :br(Modus) | | | | ⟪कथम्⟫ :brcoamain? |
+| **-⟪दा⟫** :br(Tempus) | ⟪तदा⟫ :brlura, alura | | ⟪यदा⟫ :brquand che | ⟪कदा⟫ :brtge? |
 
 :::
 ::: grammar-box
-Ina ulteriura domanda d'adverb è: ⟪क्व⟫ "nua?"
+In’autra interjeziun d’interrogaziun è: ⟪क्व⟫ "nua?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt3701))
+Fig.: ⟪क्व⟫
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Auters suffizis adverbials**
+**Auters suffixes advrbials**
 
 | Suffix | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | po vegnir agglutinà a tut ils nouns, per exprimer "a moda da, sco":brex. ⟪पुत्रवत्⟫ "sco in figl" |
+| **-⟪तस्⟫** | a nouns e pronomins. Per ordinari significat ablattiv "nua da?", ma era "nua?", "nua en":brex. ⟪आदितस्⟫ "dapi il cumenzament" |
+| **-⟪धा⟫** | 1. A advérbs numerals en il significat "-fachi", "-multipel":brex. ⟪द्विधा⟫ "doppelfachi":br2. en il significat "en la moda e maniera":brex. ⟪समधा⟫ "en la medema maniera" (a ⟪सम⟫ 3 "medem") |
 
 :::
-## 37.5. Composita adverbiala
+## 37.5. Composita adverbialas
 
-### 37.5.1. Composita cun in avverb u casus adverbial sco element posteriur
+### 37.5.1. Composita cun in avverbio u casus adverbialmain duvrà sco element posterior
 
-Esempel: ⟪सुचिरम्⟫ "mol mult (temp)"
+Exempl: ⟪सुचिरम्⟫ "fitg ditg (temp)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. ⟪बहुव्रीहि⟫ adverbialmain duvrads
 
-Esempel: ⟪रक्षार्थम्⟫ "en moda da inu, cun in intent da protecziun, per l'intent da protecziun". Po er vegnir considerà sco apartenent a 5.1.: -⟪अर्थम्⟫ sco part adverbiala posteriora.
+Exempl: ⟪रक्षार्थम्⟫ "en il mod da in umna, cun la finiziun da protegir, per la protecziun". Po er vegnir considerà sco apartenent a 5.1.: -⟪अर्थम्⟫ sco element adverbial posterior.
 
 ### 37.5.3. Composita ⟪अव्ययीभाव⟫
 
-⟪अव्ययीभाव⟫ = «unchangiabel/undeklinabel geworden»
+⟪अव्ययीभाव⟫ = "devnì immutabel/inddeclinabel"
 
 ::: grammar-box
-In ⟪अव्ययीभाव⟫ è in cumpost adverbial, cun in element avant che è in indeclinabla (postposiziun, particula e c. a.) e in element suenter che è in num che piglia la finamira dal accusativ singular neutrum.
+In ⟪अव्ययीभाव⟫ è in composit adverbial, cun l'element anterior essend in indeclinabel (postposiziun, particla u sim.) e l'element posterior essend in num che piglia la finiziun dal accusativ singular neutrum.
 
-En la dissoluziun dal cumponì, il element avant regiria l'element suenter:
+En il cas da disfar il composit, reglaria l'element anterior l'element posterior:
 
-Esempis:
+Exemples:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "cunter il fieu"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "cunter il fieu"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = «a moda pussibla»
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "second las pussanzas"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "verso avant, cunter"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "avant, cunter"
 :::
-Specialmaina èn ⟪अव्ययीभाव⟫ cun ⟪यथा⟫ " sco " sco part avant:
+Specialmain impurtantas èn las compositas ⟪अव्ययीभाव⟫ cun ⟪यथा⟫ "sco" sco element anterior:
 
-p.ex. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = « scoz sco il gudogn, suenter il gudogn, a disposiziun »
+p.ex. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "sco il desideri è, second il desideri, a disposiziun"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
-(fonte da l'imagina: [detagls](/rm/licenses#lekt3702))
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3702))
 :::
 ## 37.6. Sintactic
 
 ::: grammar-box
-Tar las verbs
+Tar ils verbs
 
 *   ⟪अस्⟫ 2P "esser"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-possa en invec da in aggettiv predicativ star in avverb predicativ:
+po star en funcziun preditiva in avverbio al lieu d'in adjectiv predicativ:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "el è restà en silenzi, el ha tacit"
+p.ex. ⟪तूष्णीं बभूव⟫ "el è daventà tacent, el ha tacitgì"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt3703))
+Fig.: ⟪तूष्णीं बभूवुः⟫
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3703))
 :::
 ## 37.7. Pronoms indefinids
 
 ::: grammar-box
-Pronomina indefins (pronomins indeterminads) vegnan formads cun l'aggregaziun da
+I prons indefinids (pronomas senza definiziun) vegnan formads cun agiunta da
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+al cas dal pronom interrogativ ⟪किम्⟫.
 
-p.ex.
+per ex.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "inqualis, inqualis"  
-⟪कस्यचिद्⟫ = d'inqualis
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "inqualchidà, inqualchissain"  
+⟪कस्यचिद्⟫ = da inqualchidà
 :::
-## 37.8. La dumonda
+## 37.8. La dumonda da frasa
 
 ::: grammar-box
-«Tgi?, co?, tgei?, per tgei? per tgei? per tgei?  
-Tgi che na dumonda resta stupidi.»
+"Tgi?, co?, tge?, per tge raun? per tge motiv?  
+Tgi che na dumonda resta stupp."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto da la via dals sesam, quai ch'è ina buna directiva per la vita ed il studi dal sanscrit
+Motto da Sesamstrasse, che è ina buna linea directiva per la vita ed il studi dal sanscrit
 :::
-Vesair era [Lecziun 4](lektion04.md).
+Vesa era [Lecziun 4](lektion04.md).
 
-Man duvessa distinger
+Bisogna differenziar
 
-*   Dumondas (agiondondas)
-*   Fragas da frasa
+*   Dumondas da parola (dumondas da cumpletament)
+*   Dumondas da frasa
 
-En las preguntas sobre palabras se pregunta por un agente (⟪कर्तृ⟫), un objeto, una actividad, una circunstancia, etc., por ejemplo:
+En cas da dumondas da parola vegn dumandà davart in agen (⟪कर्तृ⟫), in object, ina activitad, in cuntegn u.s.v., per ex.
 
 *   tgi vegn?
-*   tge fa Rama?
-*   tgi auda el?
-*   co dis ella Sanskrit?
-*   nua è la mamma?
+*   co fa Rama?
+*   a tgi ascolta el?
+*   co discurra ella sanscrit?
+*nua è la mamma?
 
-En las preguntas totales se interroga sobre todo el contenido de la oración, por ejemplo:
+En cas da dumondas da frasa vegn dumandà l'entir cuntegn da la frasa, per ex.
 
-*   va Rāma ozendi a Ofterdingen?
-*   è correct, che ... ?
+*   va Rama oz a Ofterdingen?
+*   è quai corect, che ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Dumondas da parola (dumondas da cumpletament)
 
 ::: grammar-box
 Schema:
 
-Schema:
+Pronom interrogativ/adverb interrogativ - frasa
 :::
-Ezempels:
+Exemples:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Tge va en il vitg?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Tgi va al vitg?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Quai duvessan l'uffants apprender?"
+⟪किं बाला अधीयीरन्⟫ = "Tge duessan uffants midar?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Ubi abita Rama?
+⟪क्व रामो वसति⟫ = Nua abita Rama?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt3704))
+Abb.: ⟪किं बाला अधीयीरन्⟫
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3704))
 :::
 ### 37.8.2. Frondas da frasa
 
 ::: grammar-box
-A voutadas è mo cumprendibel dal context, sche ina frasa è ina frasa da dumonda.
+A l'emprima vista è mo dal context visibel sche ina frasa è ina fronda da domanda.
 :::
 ::: grammar-box
 Schema I:
 
-Verbo - parte restante da la frasa
+Verbum – il rest da la frasa
 :::
-Esempio:
+Exempl:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Il fanciullo brahmanico diventerà un maestro?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "Vai il giuven brahman a l'insegnant?"
 :::
 ::: grammar-box
 Schema II:
 
-Particella interrogativa (per lo più all'inizio da la frasa) - Frase
+Particla da domanda (per ordinari al cumenzament da la frasa) – frasa
 
-Las particlas interrogativas pli impurtantas èn:
+Las particlas da domanda pli impurtantas èn:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lascha savenscha ina resposta negativa)
+*   ⟪किम्⟫ (spetga per ordinari ina resposta negativa)
 
 *   ⟪कच्चिद्⟫
 
-Questa particella corrisponde al punto interrogativo.
+
+Questas particlas correspundan al sign da domanda.
 :::
-Esempio:
+Exempl:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "È anche vero?"
+⟪अपि सत्यम् ।⟫ "È quai er ver?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Ei el po?"
+⟪किं शक्नोति ।⟫ "Po el uschè?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Ha domin il kṣatriya gudagnà ils adversaris?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Ha il kṣatriya vinçì ils inimis?"
 :::
-Nota: ⟪किम्⟫ po betg mo significar "tge?" ed esser ina particula interrogativa, mabain era "per tge?, a tge fin?". Uschia spezialmain cun il instrumental (⟪तृतीया⟫):
+Nota: ⟪किम्⟫ po betg mo significar "tge?" ma er sco particla da domanda "per tge?, per che fin?". Specialmain cun l'instrumental (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "A tge fin la collera? A tge fin la collera? A tge fin la collera?"
+⟪किं क्रोधेन ।⟫ "Per tge la collera? A che vala la collera? Tge vul dir la collera?"
 :::
-## 37.9. Glossari
+## 37.9. Glosa
 
-⟪मूर्ख⟫ 3: stupid, stupid, stupid m. Idiot
+⟪मूर्ख⟫ 3: stupid, fat, dumb m. stupp
 
-⟪मुनि⟫ m.: sàvia, (silentzi) ascet
+⟪मुनि⟫ m.: sav, ascet (da silentzi)
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: ascet dal clan dals ⟪शाक्य⟫ (Kṣatriyas da ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: ascet dal clan dals ⟪शाक्य⟫ (kṣatriyas da ⟪कपिलवस्तु⟫) = Buddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(fontana dal maletg: [Detagls](/rm/licenses#lekt3705))
+Fig.: ⟪शाक्यमुनिः⟫
+(Sursa da l'imagines: [Detagls](/rm/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: di
 
@@ -381,84 +368,76 @@ Abb.: ⟪शाक्यमुनिः⟫
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Fontana da l'imagines: [Detagls](/rm/licenses#lekt3706))
+Fig.: ⟪वृक्षः⟫
+(Sursa da l'imagines: [Detagls](/rm/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: bosa, visadi, part avant, cumenzament
+⟪मुख⟫ n.: bucca, vart, part davantana, cumenzament
 
 ## 37.10. Exercizi
 
-A) Respondezi a las suentas suenter en sanscrit cun l'agut da las paraulas en parentesis. Traducì las frasis da suenta.
+A) Respondei a las suandantas dumondas en sanscrit cun agid da las paraulas inditgadas en parentesis. Traducì ils frars da dumonda.
 
-Esempel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Exempl: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \<Absolutiv\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Fontana da l’imagine: [Detagls](/rm/licenses#lekt3707))
+Abb.: ⟪कृष्णः बलरामश्च⟫
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Fontana da l'imagina: [Detagls](/rm/licenses#lekt3708))
+Abb.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Tradusci:
+B) Traducir:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+C) Traducir las siguientes ⟪अव्ययीभाव⟫ :
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Tradurretz las suandantas ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposiziun cun accusativ: "sur ... empro
+1\. ⟪अति⟫ Postposiziun cun accusativ: "sur ... auza"
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ «in»
+2\. ⟪अधि⟫ "en"
 
 ::: indent
 1.  ⟪अधिहरि⟫
@@ -466,10 +445,10 @@ C) Tradurretz las suandantas ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Fontana da l'imagines: [Detagls](/rm/licenses#lekt3709))
+Abb.: ⟪अधिकेरलं वर्तन्ते⟫
+(Sursa d'imagines: [Detagls](/rm/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "conform, lung, su"
+3\. ⟪अनु⟫ "conform, lung, suenter"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -482,13 +461,13 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "vers la direcziun"
+5\. ⟪अभि⟫ "en direcziun a"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "dapi, fin a, inclusiv"
+6\. ⟪आ⟫ "dapi, fin, inclusiv"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -496,8 +475,8 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Fontana da l'imagines: [Detagls](/rm/licenses#lekt3710))
+Abb.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Sursa d'imagines: [Detagls](/rm/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "prope"
 
@@ -506,8 +485,8 @@ Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Fonte da figura: [Detagls](/rm/licenses#lekt3711))
+Abb.: ⟪उपवृक्षं सीदन्ति⟫
+(Sursa d'imagines: [Detagls](/rm/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
@@ -516,7 +495,6 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 :::
 ## 37.11. Exercizi da repetiziun
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
+Traducir en sanscrit usand exclusivamain formas verbalas dal perfect:
 
-Cun in vegl umada va en in auter vit, el s’affatgescha sutvia. El va per s’arposar al pied d’in manglier che stat a l’atgna. Sin quest arbul gievan fruits madirs. Al vegl daventa il gust per quels fruits. Ma el na po betg s’arrampiciar sin l’arbul e prender ils fruits. Per sort gievan sin quest arbul quai ch’è affes, che manglian fruits. Cun vesair quels, s’allegra il vegl. Co fa el? El prenda quai ch’è pitschens, mira sin ils affes e lantscha. Ils affes offesos prendan quai ch’è fruits e lantschan sin il vegl. Il vegl prenda quels cuntent e va en ses lieu desiderà. Vede, il destin dal vegl!
-
+Cun in vegl ch'è ì en in auter vitg, el è stà sfinì sutvia. El è ì per sa repusar al pie d'in manglier ch'era sin la vart. Sin quest arbul era fruits madirs. Il vegl ha avì il gust per quels fruits. Ma el na pudeva betg sa drizzar sin l'arbul e prender ils fruits. Per fortuna eran sin quest arbul qualchissas scimias, ch'han mangià fruits. Cun avair vis quels, il vegl è stà cuntent. Tge ha el fatg? El ha prendì qualchissas stailas, ha visà las scimias e lantschà. Las scimias arrabbiadas han prendì qualchissas fruits e lantschà quels sin il vegl. Il vegl ha prendì quels cuntentamain ed è ì en ses lieu desiderà. Vede, il destins dal vegl!

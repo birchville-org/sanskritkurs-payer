@@ -1,6 +1,6 @@
 ---
 title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+subtitle: "Il dativo (⟪चतुर्थी⟫ = \"quarta desinenza di caso\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"

@@ -1,140 +1,142 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Bài 11"
+subtitle: "Cách tân ngữ kép (tân ngữ chỉ người và sự vật)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 11
+# Bài 11
 
-## 11.1. Doppelter Akkusativ
+## 11.1. Cách tân ngữ kép
 
 ::: grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
+**Một số động từ có thể điều khiển cách tân ngữ kép (dvitīyā): Tân ngữ chỉ người và Tân ngữ chỉ vật.**
 
-**Hierzu gehören:**
-- **Verben des Sprechens**: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen
-- **Verben des Fragens**: jemanden (Akkusativ) nach etwas (Akkusativ) fragen
-- **Verben des Lehrens**: jemanden (Akkusativ) etwas (Akkusativ) lehren
-- einige weitere Verben, bei denen es in den Wortlisten vermerkt wird
+**Bao gồm:**
+**Động từ nói**: nói với ai đó (Tân ngữ) về điều gì đó (Tân ngữ); nói cho ai đó (Tân ngữ) điều gì đó (Tân ngữ)
+**Động từ hỏi**: hỏi ai đó (Tân ngữ) về điều gì đó (Tân ngữ)
+**Động từ dạy**: dạy ai đó (Tân ngữ) điều gì đó (Tân ngữ)
+một số động từ khác, được ghi chú trong danh sách từ vựng
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.**
+**Khi cấu trúc như vậy được chuyển sang bị động, người (người được hỏi v.v.) được đặt ở cách chủ ngữ (prathamā), vật (vật được hỏi về v.v.) vẫn giữ ở cách tân ngữ.**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
+vd. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो ब्राह्मणं धर्मं पृच्छति⟫ = "Rāma hỏi vị Brahmana về Dharma."
+» Bị động: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण ब्राह्मणो धर्मं पृच्छयते⟫
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):**
+**Quy tắc này chỉ áp dụng khi cả người và vật đều là tân ngữ. Nếu một vật là tân ngữ duy nhất, nó đứng ở cách chủ ngữ (prathamā) theo sơ đồ cơ bản của câu bị động:**
 
-z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
+vd. **rāmo dharmaṃ pṛcchati** = ⟪रामो धर्मं पृच्छति⟫ = "Rāma hỏi về Dharma."
+» Bị động: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण धर्मः पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Danh sách từ vựng
 
-**Lernen Sie folgende Wörter:**
+**Hãy học các từ sau:**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+**iti** ⟪इति⟫ : như vậy
+Đứng *sau* khi diễn đạt một suy nghĩ, mong muốn, lời nói hoặc trích dẫn, giống như dấu ngoặc kép (").
+vd. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Các Brahmana nói: 'Những người thánh thiện đi đến thiên đường'" = "Các Brahmana nói rằng những người thánh thiện đi đến thiên đường".
+Trong tiếng Phạn không có câu gián tiếp; các cấu trúc với **iti** thường phải được diễn đạt bằng câu gián tiếp trong tiếng Đức.
+**... (trích dẫn) ... iti śrutiḥ** = "như vậy là lời kinh Veda."
+Thường sau **iti** cần thêm một động từ suy nghĩ: "nghĩ rằng '...' anh ta làm điều đó". Diễn đạt theo cách bản địa trong tiếng Đức (vd. "Vì anh ấy đói, anh ta đi...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
+**evam** ⟪एवम्⟫ : vậy (trạng từ, ví dụ **evaṃ jayati** "ông ấy chiến thắng như vậy").
+**na** ⟪न⟫ : không
+Phủ định các từ đơn lẻ (đứng ngay trước: **na sādhuḥ** "một người không tốt") hoặc cả câu (đứng ở đầu hoặc ngay trước động từ).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
+**putra** m. ⟪पुत्र⟫ : con trai (Ở Ấn Độ, việc sinh một người con trai để có thể dâng lễ vật cho tổ tiên là điều cần thiết.)
+**dharma** m. ⟪धर्म⟫ : ("cái gì đó vững chắc", tức là) Công lý, Luật pháp, Phong tục, Bản chất.
+Tương ứng nhất với quy luật tự nhiên/quy luật đạo đức. Mỗi người có những bổn phận riêng (**svadharma**) theo **varṇa** và **āśrama** (giai đoạn cuộc sống).
+**adharma** m. ⟪अधर्म⟫ : Bất chính nghĩa (Đối lập với **dharma**).
+**iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : mong muốn (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:**
+**Một số hình thành danh từ:**
 
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+**vad** 1 P ⟪वद्⟫ : nói
+**vāda** m. ⟪वाद⟫ : Lời nói, Tuyên bố, Từ ngữ
+**vadana** n. ⟪वदन⟫ : việc nói; Công cụ nói: Miệng, Khuôn mặt
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+Hình: **vadanāni** = ⟪वदनानि⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+**prach** 6 P ⟪प्रच्छ्⟫ : hỏi
+**praśna** m. ⟪प्रश्न⟫ : Câu hỏi (Hậu tố **-na** như trong **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
+**iṣ** 6 P ⟪इष्⟫ : mong muốn
+**iṣṭi** f. ⟪इष्टि⟫ : Mong muốn (**iṣ** + **-ti**)
 
-## 11.3. Übung
 
-**A) Übersetzen Sie untenstehende Sätze:**
+## 11.3. Bài tập
 
-1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
-2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
-3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ |
-4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ |
-5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ |
-6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ |
-7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ |
-8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫
-9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | |
-10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | |
-11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
-12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
+**A) Dịch các câu dưới đây:**
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.**
+1. ⟪ऋषिः सत्यं वदति⟫ |
+2. ⟪ब्राह्मणः पुत्रमिच्छति⟫ |
+3. ⟪साधुः स्वर्गं गच्छति⟫ |
+4. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः⟫ |
+5. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति⟫ |
+6. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति⟫ |
+7. ⟪पुत्रः पापं करोतीति वैश्या मन्यते⟫ |
+8. ⟪क्षत्रियः क्षत्रियेण सह युध्यते⟫
+9. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति⟫ | |
+10. ⟪अयं क्षत्रियो धर्मं रक्षति⟫ | |
+11. ⟪को ऽग्निं यजते⟫ | |
+12. ⟪स श्रावको बुद्धं धर्मं पृच्छति⟫ ||
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.**
+**B) Chuyển các câu ở mục A) sang cấu trúc bị động.**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
+**C) Trong các câu của mục A), hãy chuyển chủ ngữ, tân ngữ và vị ngữ sang số nhiều khi thấy phù hợp.**
+
+**D) Chuyển các câu đã được hình thành theo mục C) sang cấu trúc bị động.**
 
 ::: media
 ![](/images/lekt1101.webp)
-Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Bildquelle: [Details](/licenses#lekt1101))
+Hình.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाकाश्यपः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung
+## 11.4. Bài tập ôn tập
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:**
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
-2. Der Lehrer spricht ein Mantra.
-3. Heilige Frauen gelangen in einen Himmel.
-4. Ein vedischer Weiser tut nichts Böses.
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
-6. Die Śūdrafrau geht ins Dorf.
-7. Wer sieht die Wahrheit?
+**A) Dịch sang tiếng Phạn với các cấu trúc bị động:**
+1. Các phụ nữ vaiśya hỏi các brahman về dharma.
+2. Người thầy tụng một mantra.
+Các phụ nữ thánh thiện đạt đến một thiên giới.
+Một vị hiền triết Veda không làm điều ác nào.
+Các brahman, với tư cách là các tế sư, thờ phụng nữ thần bằng các lễ vật hy sinh.
+Người phụ nữ śūdra đi đến làng.
+Ai thấy sự thật?
 
 **B)**
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
+1. Hãy nêu nhiệm vụ của tất cả những người được sinh lại hai lần bằng một từ compound Dvandva. Hãy phân tích compound đó trong tiếng Phạn.
+2. Hãy nêu nhiệm vụ của các vaiśya bằng một từ compound Dvandva. Hãy phân tích compound đó trong tiếng Phạn.
 
-**C) Übersetzen Sie:**
+**C) Dịch:**
 
-1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
-2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
-3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | |
-4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | |
-5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | |
+1. ⟪श्रवणेन श्रूयते⟫ | |
+2. ⟪कर्षर्कैः कृष्यते⟫ | |
+3. ⟪श्रावकेणेश्वरो नेज्यते⟫ | |
+4. ⟪रक्षिक्या गुरू रक्ष्यते⟫ | |
+5. ⟪ब्राह्मणेनानृतं नोद्यते⟫ | |
 6. ⟪शूद्रेतरा⟫ | |
-7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
-8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
+7. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ | |
+8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः⟫ ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:**
+**D) Dịch và chuyển tác nhân, tân ngữ và động từ sang số nhiều trong tiếng Phạn:**
 
 1. ⟪फलमश्नुते⟫ | |
-2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
-3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
-4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
+2. ⟪गुरुणा सत्यमुद्यते⟫ | |
+3. ⟪वैश्यः पशुं लभते⟫ | |
+4. ⟪पुत्रः पुण्यं करोति⟫ ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
+**E) Chuyển các câu C) 1-5 sang cấu trúc chủ động.**
 
 ::: media
 ![](/images/lekt1103.webp)
-Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Details](/licenses#lekt1103))
+Hình: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण कृष्यते⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1103))
 :::

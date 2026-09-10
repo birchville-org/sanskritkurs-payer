@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Lecție 49"
+subtitle: "Formarea imperativului (⟪लोट्⟫) pentru rădăcinile prezente atematice (continuare)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 49

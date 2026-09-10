@@ -115,52 +115,70 @@ Good systematic grammar based on indigenous grammarians and at the same time an 
 
 ::: media
 ![](/images/lekt0107.jpg)
-Abb.: Einbandtitel -> Fig.: Cover title
-(Bildquelle: [Details](/sh/licenses#lekt0107)) -> (Image source: [Details](/sh/licenses#lekt0107))
+Fig.: Cover title
+(Image source: [Details](/sh/licenses#lekt0107))
 :::
 
-Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in: -> A good, concise presentation of European linguistic terminology can be found in:
+A good, concise presentation of European linguistic terminology can be found in:
 
 ::: literatur-box
-**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. -> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Edited by Elmar Seebold. -- 24th, revised and expanded ed.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
+**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Edited by Elmar Seebold. -- 24th, revised and expanded ed.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
 :::
 
 ::: media
 ![](/images/lekt0108.jpg)
-Fig.: Title on cover -> Fig.: Title on cover
-(Bildquelle: [Details](/sh/licenses#lekt0108)) -> (Image source: [Details](/sh/licenses#lekt0108))
+Fig.: Title on cover
+(Image source: [Details](/sh/licenses#lekt0108))
 :::
 
-For the inquisitive to look up: -> For the inquisitive to look up:
+For the inquisitive to look up:
 
-> **Lexikon der Sprachwissenschaft** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7 -> > **Lexikon der Sprachwissenschaft** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** (Kielhorn) / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
-## 1.2. The Sounds of Sanskrit -> ## 1.2. The Sounds of Sanskrit
+## 1.2. The Sounds of Sanskrit
 
-The sounds of Sanskrit according to the traditional Indian classification and their scientific transcription. -> The sounds of Sanskrit according to the traditional Indian classification and their scientific transcription.
+The sounds of Sanskrit according to the traditional Indian classification and their scientific transcription.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Bildquelle: [Details](/sh/licenses#lekt0106)) -> (Image source: [Details](/sh/licenses#lekt0106))
+(Image source: [Details](/sh/licenses#lekt0106))
 :::
-Modern dictionaries of Sanskrit are arranged in the order of this classification. This classification is essential for understanding Sanskrit grammar and must therefore be memorized: -> Modern dictionaries of Sanskrit are arranged in the order of this classification. This classification is essential for understanding Sanskrit grammar and must therefore be memorized:
+Modern dictionaries of Sanskrit are arranged in the order of this classification. This classification is essential for understanding Sanskrit grammar and must therefore be memorized:
 
 ::: note-box
-Klassifikation -> Classification
-**einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): -> - **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
-⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ ->   ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-**Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): -> - **diphthongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au ->   ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-**Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): -> - **consonants** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa ->   ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña ->   ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa ->   ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na ->   ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma ->   ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va ->   ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa ->   ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-⟪ह⟫ ha ->   ⟪ह⟫ ha
+Classification
+- **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diphthongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **consonants** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
+:::
+Modern dictionaries of Sanskrit are arranged in the order of this classification. This classification is essential for understanding Sanskrit grammar and must therefore be memorized:
+
+::: note-box
+Classification
+- **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diphthongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **consonants** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
 ### 1.2.1. On the pronunciation of individual sounds
 

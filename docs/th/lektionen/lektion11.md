@@ -1,10 +1,11 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "บทที่ 11"
+subtitle: "กริยากรรมสองแบบ (กริยากรรมของบุคคลและสิ่งของ)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 11

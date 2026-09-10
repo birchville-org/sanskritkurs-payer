@@ -1,6 +1,6 @@
 ---
 title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+subtitle: "命令式的构成（⟪लोट्⟫）无元音词尾的非主题现在词干（续）"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"

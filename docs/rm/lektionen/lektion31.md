@@ -1,7 +1,8 @@
 ---
-title: Lektion 31
+title: "Lecziun 31"
 lesson_id: 31
 status: stable
+
 ---
 
 # Lecziun 31
@@ -84,7 +85,7 @@ Il **⟪कलियुग⟫** cumenzà vers l'onn 3102 a.C., l'onn da la guerr
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
+Fig.: ⟪योगः⟫
 Representaziun da Yoga.
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt3101))
 :::
@@ -127,7 +128,7 @@ davon:
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
+Fig.: ⟪व्यञ्जनम्⟫
 Preparaziun per il dastg da Kathakali, Kochi.
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt3102))
 :::
@@ -168,9 +169,9 @@ davon:
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
+Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/rm/licenses#lekt3103))
+(Font dal maletg: [Details](/rm/licenses#lekt3103))
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : nascher, exister
 

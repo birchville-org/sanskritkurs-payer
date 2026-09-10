@@ -1,394 +1,379 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Mësimi 37"
+subtitle: "Adverbi (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Adverbi (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet
+Në sanskritisht, adverbet formohen
 
-1.  durch Kasusformen von Nomina und Pronomina
-2.  mit Hilfe besonderer Suffixe und Endungen
+1.  nga forma rasti të emrave dhe zëvendësuesve
+2.  me ndihmën e prapashtesave dhe fundeve të veçanta
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
+Në rastin e parë, kufiri midis rasteve të gjalla dhe adverbit është i lëvizshëm. Kjo përfshin si rast të veçantë adverbet që janë forma rase të ngurtëzuara dhe të vjetra, ndërsa në deklinim përdoren forma të tjera ose emrat përkatës nuk përdoren më si emra.
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. Përdorimi adverbial i formave të rasteve
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
-
-::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   in welcher Weise?
-*   wie lange?
-*   wohin?
-*   u. ä.
-
-Adverbial gebraucht werden kann der Akkusativ:
-
-*   von Substantiven
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäss, nach Wunsch"
-⟪अर्थम्⟫ "wegen"
-:::
-
-*   von Adjektiven im Neutrum
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"
-:::
-
-*   von Pronomina im Neutrum
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt"
-:::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.1. Akuzativ (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen:
+Akuzativi (⟪द्वितीया⟫) mund të përdoret adverbialisht për pyetjet:
 
-*   wodurch?
-*   womit?
-*   u. ä.
+*   në çfarë mënyre?
+*   sa gjatë?
+*   ku drejt?
+*   etj.
 
-Adverbial gebraucht werden kann der Instrumentalis:
+Akuzativi mund të përdoret adverbialisht:
 
-*   von Substantiven
-    Beispiele:  
+*   nga emrat  
+Shembuj:  
+⟪कामम्⟫ "sipas dëshirës, siç dëshirohet"  
+⟪अर्थम्⟫ "për shkak të"
+
+*   nga mbiemrat në neuter  
+Shembuj:  
+⟪सुखम्⟫ "lehtësisht, me fat"  
+⟪नित्यम्⟫ "gjithmonë"  
+⟪साधु⟫ "saktë, mirë"
+
+*   nga zëvendësuesit në neuter  
+Shembuj:  
+⟪तद्⟫ "atëherë, prandaj"  
+⟪यद्⟫ "kur, që"  
+⟪एतद्⟫ "kështu, këtu, tani"
 :::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
-:::
+### 37.2.2. Instrumental (⟪तृतीया⟫)
 
-*   von Adjektiven, oft auch in der Pluralform
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
+::: grammar-box
+Instrumentali (⟪तृतीया⟫) mund të përdoret adverbialisht për pyetjet:
+
+*   me çfarë?
+*   nga çfarë?
+*   etj.
+
+Instrumentali mund të përdoret adverbialisht:
+
+*   nga emrat  
+Shembuj:  
+⟪अर्थेन⟫ "për shkak të"  
+⟪क्षणेन⟫ "në atë moment, menjëherë" (nga ⟪क्षण⟩ m. "moment")
+
+*   nga mbiemrat, shpesh edhe në numrin shumës  
+Shembuj:  
+⟪दूरेण⟫ "larg, nga larg" (nga ⟪दूर⟫ 3 "larg, larg nga")  
+⟪उच्चैस्⟫ "lart, me zë të lartë" (nga ⟪उच्च⟫ 3 "lart, i ngritur, me zë të lartë, i mprehtë (nga zëri)")
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Shpesh përdoret dativi (⟪चतुर्थी⟫) si adverb për pyetjet:
 
-*   zu welchem Zweck?
-*   u. ä.
+*   për çfarë qëllimi?
+*   dhe të tjerat
 
-Beispiel:
+Shembull:
 :::
 ::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen"
+⟪अर्थाय⟫ "për qëllimin e, për hir të ..."
 :::
 ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen:
+Ablativi (⟪पञ्चमी⟫) mund të përdoret si adverb për pyetjet:
 
-*   warum?
-*   aufgrund wessen?
-*   woher?
-*   u. ä.
+*   pse?
+*   për shkak të kujt/çfarë?
+*   nga ku?
+*   dhe të tjerat
 
-Adverbial gebraucht werden kann der Ablativ:
+Ablativi mund të përdoret si adverb:
 
-*   von Substantiven
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"
+*   nga emra  
+p.sh. ⟪बलात्⟫ "me dhunë, me forcë"  
 
-*   von Adjektiven
-    z.B. ⟪दूरात्⟫ "von fern"
+*   nga mbiemra  
+p.sh. ⟪दूरात्⟫ "nga larg"  
 
-*   von Pronomina
-    Beispiele:  
+*   nga përemrat  
+Shembuj:  
+⟪कस्मात्⟫ "pse"  
+⟪अकस्मात्⟫ "papritur"
 :::
-::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet"
-:::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+### 37.2.5. Gjenitiv (⟪षष्ठी⟫)
 
 ::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?"
+Shpesh përdoret gjenitivi (⟪षष्ठी⟫) si adverb për pyetjen "pas sa kohë?"
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
+p.sh. ⟪चिरस्य⟫ "pas kohe të gjatë" (nga ⟪चिर⟫ 3 "i gjatë (kohë)")
 :::
 ### 37.2.6. Lokativ (⟪सप्तमी⟫)
 
 ::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen:
+Lokativi (⟪सप्तमी⟫) mund të përdoret si adverb për pyetjet:
 
-*   wo?
-*   unter welchen Umständen?
-*   u. ä.
+*   ku?
+*   në cilat rrethana?
+*   dhe të tjerat
 
-Beispiele:
+Shembuj:
 :::
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern"
+\-⟪अर्थे⟫ "për shkak të"  
+\-⟪कृते⟫ "për hir të"  
+⟪दूरे⟫ "larg"
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+## 37.3. Përdorimi adverbial i formave të rasteve që nuk përdoren më
 
-Beispiele:
+Shembuj:
 ::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>)
+⟪जातु⟫ "në përgjithësi" (fillimisht "nga lindja, nga natyra", akuzativ singular neutër ndaj ⟪जातु⟫ \<jo më i përdorur si emër\>)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
+⟪तूष्णीम्⟫ "duke heshtur" (akuzativ singular ndaj një ⟪तूष्णी⟫ femëror jo më të përdorur "heshtje")
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig")
+⟪एवम्⟫ "kështu" (ndaj një rrënjë përemrore tjetër të humbur ⟪एव⟫ "një, i vetëm")
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Formimi i fjalisë me prapashtesa adverbiale
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen
+Nga rrënjët e përemrave ⟪तद्⟫, ⟪इदम्⟫ përkatësisht ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ përkatësisht ⟪कु⟫, mund të nxirren me prapashtesat adverbiale
 
 *   \-⟪तस्⟫ (Ablativ)
 *   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Art und Weise)
-*   \-⟪थम्⟫ (Art und Weise)
-*   \-⟪दा⟫ (Zeit)
+*   \-⟪था⟫ (Mënyrë)
+*   \-⟪थम्⟫ (Mënyrë)
+*   \-⟪दा⟫ (Kohë)
 
-entsprechende Pronominaladverbien ableiten.
+fjali përkatës të përemrave.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Prapashtesa | Rrënja e përemrit | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brnga aty, mbi këtë, për shkak të kësaj | ⟪इतस्⟫ :br ⟪अतस्⟫ :brnga këtu, për shkak të kësaj | ⟪यतस्⟫ :brnga ku, nga çfarë | ⟪कुतस्⟫ :brnga ku?, pse? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :braty, atje | ⟪अत्र⟫ :brkëtu | ⟪यत्र⟫ :brku | ⟪कुत्र⟫ :brku? |
+| **-⟪था⟫** :br(Mënyrë) | ⟪तथा⟫ :brashtu | | ⟪यथा⟫ :brsi | |
+| **-⟪थम्⟫** :br(Mënyrë) | | | | ⟪कथम्⟫ :brsi? |
+| **-⟪दा⟫** :br(Kohë) | ⟪तदा⟫ :bratëherë, atëherë | | ⟪यदा⟫ :brkur | ⟪कदा⟫ :brkur? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?"
+Një fjali tjetër pyetëse është: ⟪क्व⟫ "ku?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701))
+Fig.: ⟪क्व⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe**
+**Prapashtesa të tjera adverbiale**
 
-| Suffix | |
+| Prapashtesa | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | mund të bashkëngjitet në çdo emër për të shprehur "sipas natyrës së, si":brp.sh. ⟪पुत्रवत्⟫ "si një (djali)" |
+| **-⟪तस्⟫** | në emra dhe përemra. Zakonisht kuptim ablativ "nga ku?", por edhe "ku?", "ku?":brp.sh. ⟪आदितस्⟫ "nga fillimi" |
+| **-⟪धा⟫** | 1. Në fjali numërore me kuptimin "-fish", "-të shumëfishtë":brp.sh. ⟪द्विधा⟫ "dyfish":br2. me kuptimin "në mënyrën e dhe të":brp.sh. ⟪समधा⟫ "në mënyrën e njëjtë" (për ⟪सम⟫ 3 "i njëjtë") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Kompozita Adverbiale
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. Kompozita me një Adverb ose Kasus të përdorur si adverb si pjesën e dytë
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)"
+Shembull: ⟪सुचिरम्⟫ "shumë gjatë (kohë)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. ⟪बहुव्रीहि⟫ të përdorura si adverb
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied.
+Shembull: ⟪रक्षार्थम्⟫ "në mënyrën e dikujt, të cilit qëllimi është mbrojtja, për qëllimin e mbrojtjes". Mund të konsiderohet gjithashtu si i përkatshëm me 5.1.: -⟪अर्थम्⟫ si pjesë e dytë adverbiale.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Kompozita ⟪अव्ययीभाव⟫
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
+⟪अव्ययीभाव⟫ = "të pandryshueshme/ të patransmetueshme"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
+Një ⟪अव्ययीभाव⟫ është një kompozit adverbial, ku pjesa e parë është një indeklinabil (postpozicion, grimcë etj.), dhe pjesa e dytë është një emër që merr fundin e Akuzativit Singular Neutër.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+Gjatë shpërbërjes së kompozitum, pjesa e parë do të regjizonte pjesën e dytë:
 
-Beispiele:
+Shembuj:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "kundër zjarrit"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "sipas fuqive"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "përpara, kundrejt"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied:
+Veçanërisht të rëndësishme janë ⟪अव्ययीभाव⟫ me ⟪यथा⟫ "si" si pjesë e parë:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig"
+p.sh. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "siç është dëshira, sipas dëshirës, arbitrarisht"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702))
+Fig.: ⟪यथाशक्ति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches
+## 37.6. Sintaksë
 
 ::: grammar-box
-Bei den Verben
+Tek verbet
 
-*   ⟪अस्⟫ 2P "sein"
+*   ⟪अस्⟫ 2P "jam"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
+në vend të një mbiemri predikativ mund të qëndrojë një adverb predikativ:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte"
+p.sh. ⟪तूष्णीं बभूव⟫ "ai u bë i heshtur, ai qetësoi"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703))
+Fig.: ⟪तूष्णीं बभूवुः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina
+## 37.7. Pronometratë të pacaktuara
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
+Pronometratë të pacaktuara (fjalët zëvendësuese të pacaktuara) formohen duke i shtuar
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+në rastin e pronomit pyetës ⟪किम्⟫.
 
-z.B.
+p.sh.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "dikush, ndokush"  
+⟪कस्यचिद्⟫ = dikujt
 :::
-## 37.8. Der Fragesatz
+## 37.8. Propozimi pyetës
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm."
+"Kush?, si?, çfarë?, pse? përse?, përse?  
+Kush nuk pyet mbetet i pafat."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist
+Motto i Sesamstrasse, që është një udhëzues i mirë për jetën dhe studimin e Sanskritishtes
 :::
-Siehe auch [Lektion 4](lektion04.md).
+Shih gjithashtu [Lektion 4](lektion04.md).
 
-Man muss unterscheiden
+Duhet bërë dallimi midis
 
-*   Wortfragen (Ergänzungsfragen)
-*   Satzfragen
+*   Pyetje fjalësh (pyetje plotësuese)
+*   Pyetje propozimesh
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
+Në pyetjet e fjalëve, kërkohet për një agjent (⟪कर्तृ⟫), një objekt, një veprim, një rrethanë etj., p.sh.
 
-*   wer kommt?
-*   was tut Rāma?
-*   wen hört er?
-*   wie spricht sie Sanskrit?
-*   wo ist die Mutter?
+*   kush vjen?
+*   çfarë bën Rāma?
+*   kë dëgjon ai?
+*   si flet ajo Sanskritishten?
+*   ku është nëna?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
+Në pyetjet e propozimit, kërkohet i gjithë përmbajtja e propozimit, p.sh.
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es richtig, dass ... ?
+*   a shkon Rāma sot në Ofterdingen?
+*   a është e saktë që ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Pyetje fjalësh (pyetje plotësuese)
 
 ::: grammar-box
-Schema:
+Skema:
 
-Fragepronomen/Frageadverb - Satz
+Pronom/Pjesëz pyetëse - Propozim
 :::
-Beispiele:
+Shembuj:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Kush shkon në fshat?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?"
+⟪किं बाला अधीयीरन्⟫ = "Çfarë duhet të mësojnë fëmijët?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma?
+⟪क्व रामो वसति⟫ = Ku jeton Rāma?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704))
+Fig.: ⟪किं बाला अधीयीरन्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. Pyetësorët e fjalive
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist.
+Ndonjëherë është e qartë vetëm nga konteksti nëse një fjali është pyetësore.
 :::
 ::: grammar-box
-Schema I:
+Skema I:
 
-Verb - restlicher Satz
+Folje - pjesa tjetër e fjalise
 :::
-Beispiel:
+Shembull:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "A do të shkojë djali brahman tek një mësues?"
 :::
 ::: grammar-box
-Schema II:
+Skema II:
 
-Fragepartikel (meist am Satzanfang) - Satz
+Ndjeshja pyetëse (zakonisht në fillim të fjalise) - fjalia
 
-Die wichtigsten Fragepartikel sind:
+Ndjeshjet kryesore pyetëse janë:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten)
+*   ⟪किम्⟫ (shpesh pritet një përgjigje negative)
 
 *   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen.
+
+Këto ndjeshje i përgjigjen shenjës së pyetjes.
 :::
-Beispiel:
+Shembull:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ "A është e vërtetë edhe kjo?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ "A mund ai ta bëjë?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "A e ka munduar armikun kshatriya?"
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫):
+Shënim: ⟪किम्⟫ mund të ketë kuptimin jo vetëm "çfarë?" por edhe si ndjeshje pyetëse "përse?, për çfarë?". Veçanërisht me instrumentalin (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?"
+⟪किं क्रोधेन ।⟫ "Përse zemërimi? Çfarë do të thotë zemërimi? Çfarë dëshiron zemërimi?"
 :::
-## 37.9. Wortliste
+## 37.9. Lista e fjalëve
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
+⟪मूर्ख⟫ 3: i paimagjinueshëm, budalla, i marrë m. Budallai
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+⟪मुनि⟫ m.: i urti, (asket) heshtës
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: Asket nga fis i ⟪शाक्य⟫ (kshatriyas nga ⟪कपिलवस्तु⟫) = Buddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+Fig.: ⟪शाक्यमुनिः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: Ditë
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: Pemë
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+Fig.: ⟪वृक्षः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.: Gojë, fytyrë, pjesa e përparme, fillim
 
-## 37.10. Übung
-
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+## 37.10. Ushtrime
 
 Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
@@ -418,15 +403,15 @@ Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707))
+Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3707))
 :::
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708))
+Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3708))
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -440,25 +425,23 @@ Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 
 ⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+B) Përktheni:
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
+C) Përktheni këto ⟪अव्ययीभाव⟫ :
 
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus"
+1\. ⟪अति⟫ Postpozicion me Akuzativ: "mbi ... përtej"
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in"
+2\. ⟪अधि⟫ "në"
 
 ::: indent
 1.  ⟪अधिहरि⟫
@@ -466,10 +449,10 @@ C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709))
+Fig.: ⟪अधिकेरलं वर्तन्ते⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach"
+3\. ⟪अनु⟫ "sipas, përgjatë, pas"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -477,18 +460,18 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne"
+4\. ⟪अप⟫ "pa"
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ "drejt drejtimi të"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich"
+6\. ⟪आ⟫ "që nga, deri, përfshirë"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -496,27 +479,26 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710))
+Fig.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe"
+7\. ⟪उप⟫ "afër"
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711))
+Fig.: ⟪उपवृक्षं सीदन्ति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Ushtrim përsëritës
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden:
+Përktheni në Sanskritisht duke përdorur ekskluzivisht forma të Perfektit:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
+Kur një herë një pleqër i shkoi në një fshat tjetër, u lodh në rrugë. Atëherë shkoi për të pushuar te këmbët e një peme mangoje që ndodhej në anë. Në këtë pemë kishte fruta të pjekura. Pleqtari u dëshiroi këto fruta. Por nuk mundet të ngjitej në pemë dhe të kapte frutat. Fatmirësisht, në këtë pemë kishte disa majmunë që hanin fruta. Kur i pa këta, pleqtari u gëzua. Çfarë bëri ai? Ai mori disa gurë, synoi majmunët dhe hodhi. Majmunët e zemëruar mbledhën disa fruta dhe i hodhën mbi pleqtarin. Pleqtari i mori këto me gëzim dhe shkoi në zonën e dëshiruar. Shiko, fati i pleqtarit!

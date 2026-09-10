@@ -1,11 +1,12 @@
 ---
-title: "Ushqim 53"
+title: "Ushtrimi 53"
 uebung_id: 53
-category: "Ushqim"
+category: "Übung"
+
 ---
 
-# Ushtrim 53
+# Ushtrimi 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+Ushtrimi për Mësimin 53 përbëhet nga analiza metrike (përcaktimi i skemës së Ślokas) e të gjitha vargjeve të mësuar në leksionet përpara.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Meqenëse kjo është një detyrë e plotë përsëritjeje dhe analize, nuk ka një çelës zgjidhjesh të veçantë në kuptimin klasik. Zgjidhjet rrjedhin nga zbatimi i rregullave të mësuara në Mësimin 53 mbi tekstet tashmë të njohura.

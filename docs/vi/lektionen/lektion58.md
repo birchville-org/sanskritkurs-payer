@@ -1,41 +1,42 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Bài 58"
+subtitle: "Các hậu tố số đôi chính (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 58
+# Bài 58
 
-## 58.1. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
+## 58.1. Các hậu tố số hai của Dual (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: |
-|   |   | thematisch | athematisch |
+|   |   | theo chủ đề | không theo chủ đề |
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. Số hai của các lớp thì hiện tại theo chủ đề: Chỉ định Hiện tại (⟪लट्⟫)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
+Trước -vas và -vahe, nguyên âm chủ đề -a- được thay thế bằng -ā-.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. Lớp thì hiện tại thứ nhất (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein"
+⟪भू⟫ 1P "trở thành, là"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | ⟪भवावहे⟫ |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | ⟪भवेथे⟫:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | ⟪भवेते⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"chúng tôi cả hai trở thành" | ⟪भवावहे⟫ |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"cả hai các bạn trở thành" | ⟪भवेथे⟫:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"họ cả hai trở thành" | ⟪भवेते⟫ |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Lớp thì hiện tại thứ tư (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen"
+⟪नृत्⟫ 4P "nhảy múa"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -45,27 +46,26 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
 ::: media
 ![](/images/lekt5802.webp)
-Abb.: ⟪नृत्यतः⟫
-⟪ओडिसी⟫
-(Bildquelle: [Details](/licenses#lekt5802))
+Abb.: ⟪नृत्यतः ओडिसी⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5802))
 :::
-### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 58.2.3. Lớp thì hiện tại thứ sáu (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "đẩy, đánh"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. Lớp thì hiện tại thứ mười (⟪चुरादिगणः⟫) và Nguyên nhân (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen"
+⟪चुर्⟫ 10U "steal"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ |
@@ -73,37 +73,33 @@ Abb.: ⟪नृत्यतः⟫
 :::
 ::: media
 ![](/images/lekt5803.webp)
-Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
+Fig.: ⟪वानरौ रथाद्भाण्डानि चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Bildquelle: [Details](/licenses#lekt5803))
+(Image source: [Details](/vi/licenses#lekt5803))
 :::
-## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫)
+## 58.3. The Dual of the Simple Future (⟪ऌत्⟫)
 
-### 58.3.1. ⟪अनिट्⟫
-
-⟪दा⟫ 3U "geben"
+### 58.3.1. ⟪अनिट् दा⟫ 3U "give"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ |
 :::
-### 58.3.2. ⟪सेट्⟫
-
-⟪भू⟫ 1P "werden, sein"
+### 58.3.2. ⟪सेट् भू⟫ 1P "become, be"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. The Dual Passive (Suffix -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "push, strike"
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
@@ -111,32 +107,30 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.5. The Dual of athematic present classes: Indicative Present (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Second Present Class (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen"
+⟪द्विष्⟫ 2U "hate"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
-:::
-⟪दुह्⟫ 2U "melken"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाते⟫ |
 :::
-⟪इ⟫ 2P "gehen"
+⟪इ⟫ 2P "đi"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪इवस्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪इथस्⟫ |
@@ -144,13 +138,13 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ::: media
 ![](/images/lekt5806.webp)
-Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Bildquelle: [Details](/licenses#lekt5806))
+Abb.: ⟪उष्ट्रौ मरावितः⟫
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt5806))
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
+⟪इ⟫ + ⟪अधि⟫ 2Ā "học tập"
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधी⟫:sig[⟪या⟫]⟪थे⟫ |
@@ -158,10 +152,10 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 :::
 ::: media
 ![](/images/lekt5804.webp)
-Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Bildquelle: [Details](/licenses#lekt5804))
+Abb.: ⟪कन्ये अधीयते⟫
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt5804))
 :::
-⟪हन्⟫ 2P "erschlagen"
+⟪हन्⟫ 2P "giết chết"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -170,7 +164,7 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
 | **3. ⟪प्रथमः⟫** | :sig[⟪हतस्⟫] |
 :::
-⟪अस्⟫ 2P "sein"
+⟪अस्⟫ 2P "là"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -181,32 +175,32 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 :::
 ::: media
 ![](/images/lekt5805.webp)
-Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Bildquelle: [Details](/licenses#lekt5805))
+Abb.: ⟪भगिन्यौ स्वः⟫
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt5805))
 :::
-### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. Lớp hiện tại thứ ba (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer giessen"
+⟪हु⟫ 3P "rót vào lửa tế"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | ⟪जुहुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | ⟪जुह्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | ⟪जुह्वाते⟫ |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen"
+⟪धा⟫ 3U "đặt, để, đứng"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Lớp hiện tại thứ năm (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen"
+⟪सु⟫ 5U "ép, vắt"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -216,77 +210,76 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 
 ::: media
 ![](/images/lekt5807.webp)
-Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
-⟪पुणेनगरे⟫
-(Bildquelle: [Details](/licenses#lekt5807))
+Hình.: ⟪शर्कराम्बु सुनुतः पुणेनगरे⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5807))
 :::
-### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 58.5.4. Lớp hiện tại thứ tám (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen"
+⟪तन्⟫ 8U "căng, kéo căng"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen"
+⟪कृ⟫ 8U "làm, thực hiện"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 58.5.5. Lớp hiện tại thứ bảy (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen"
+⟪रुध्⟫ 7U "ngăn, chặn"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | :sig[⟪रुन्द्धस्⟫] | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
-⟪युज्⟫ 7U "anschirren"
+⟪युज्⟫ 7U "đeo, buộc"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. Lớp vị từ thứ chín (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "mua"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪क्रीणीवस्⟫ | ⟪क्रीणीवहे⟫ |
-| **2. ⟪मध्यमः⟫** | ⟪क्रीणीथस्⟫ | ⟪क्रीणाथे⟫:brkrī-ṇ-āthe |
+| **2. ⟪मध्यमः⟫** | ⟪क्रीणीथस्⟫ | ⟪क्रीणाथे⟩:brkrī-ṇ-āthe |
 | **3. ⟪प्रथमः⟫** | ⟪क्रीणीतस्⟫ | ⟪क्रीणाते⟫ |
 
 ::: media
 ![](/images/lekt5801.webp)
-Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Bildquelle: [Details](/licenses#lekt5801))
+Abb.: ⟪स्त्रियौ शाकं क्रीणाते⟫
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt5801))
 :::
 ## 58.6. Aorist 5: iṣ-Aorist
 
 ::: grammar-box
-**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschliesslich eine andere Form des Aorist gelehrt wird.**
+**Dạng iṣ-Aorist được hình thành từ tất cả các gốc seṭ, trừ những trường hợp được quy định rõ ràng chỉ có một dạng Aorist khác.**
 
 **Bildung:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung**
+**Augment + Gốc + i + s + Hậu tố thứ cấp không nguyên âm**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
+**!!!** Dạng 2.sg.P và 3.sg.P bắt nguồn từ **-**īs và -īt tương ứng **!!!** (Điều này phát sinh từ sự chuyển đổi của dạng Imperfect từ các gốc thuộc loại ⟪अब्रवीत्⟫; do đó, về bản chất đây là các dạng Aorist gốc).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
+Hậu tố hình thành gốc + hậu tố kết thúc của iṣ-Aorist do đó là:
 
 ::: grammar-box
 
@@ -301,100 +294,82 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 ::: grammar-box
 **Form der Wurzel:**
 
-*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**  
-    Beispiele:  
-:::
-::: indent
-⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
-:::
+*   **Các gốc có nguyên âm ngắn trước phụ âm đơn: Mức cao (Guna) trong P và Ā**
+Ví dụ:
+⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम् कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
 
-*   **Wurzeln mit auslautendem Vokal:**
-    *   **P: Dehnstufe**
-    *   **Ā: Hochstufe**
+*   **Các gốc động từ có nguyên âm cuối:**
+*   **P: Cường độ dài**
+*   **Ā: Cường độ cao**
 
-    Beispiele:  
-::: indent
-⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
+Ví dụ:  
+⟪पू⟫ 9U: ngôi thứ nhất số ít P ⟪अपाविषम्⟫ ; ngôi thứ nhất số ít Ā ⟪अपविषि⟫
+
+*   **Các gốc động từ tận cùng bằng -ar., -al cũng như ⟪वद्⟫ 1P "nói", ⟪व्रज्⟫ 1P "đi away": P: Cường độ dài**  
+Ví dụ:  
+⟪चर्⟫ 1P: ngôi thứ nhất số ít P ⟪अचारिषम् वद्⟫ 1P: ngôi thứ nhất số ít P ⟪अवादिषम्⟫
+
+*   **Các gốc động từ khác có dạng (Phụ âm -) Phụ âm - a - Phụ âm: trong P tùy chọn Cường độ dài (không áp dụng cho các gốc động từ tận cùng bằng -h, -m, -y cũng như một số gốc động từ khác)**  
+Ví dụ:  
+⟪तन्⟫ 8U: ngôi thứ nhất số ít P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
+nhưng:  
+⟪क्रम्⟫ 1U: ngôi thứ nhất số ít P ⟪अक्रमिषम्⟫
 :::
+Bảng chia động từ:
 
-*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**  
-    Beispiele:  
-::: indent
-⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
-⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
-:::
-
-*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**  
-    Beispiel:  
-::: indent
-⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
-aber:
-⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
-:::
-Paradigmen:
-
-⟪पू⟫ 9U "reinigen"
+⟪पू⟫ 9U "làm sạch"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
+| **Ngôi thứ nhất ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
+| **Ngôi thứ hai ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
+| **Ngôi thứ ba ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
-⟪बुध्⟫ 1U "erwachen, erkennen"
+⟪बुध्⟫ 1U "tỉnh thức, nhận biết"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||
 | :--- | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
+| **Ngôi thứ nhất ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
+| **Ngôi thứ hai ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
+| **Ngôi thứ ba ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
-⟪कॢप्⟫ 1Ā "passend sein"
+⟪कॢप्⟫ 1Ā "phù hợp"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
+| **Ngôi thứ nhất ⟪तृतीयः⟫** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ |
+| **Ngôi thứ hai ⟪द्वितीयः⟫** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ |
+| **Ngôi thứ ba ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:**
+**Đặc điểm:**
 
-1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:  
-:::
-::: indent
+1.  Đối với một số gốc động từ, nguyên âm nối -i- trong ⟪आत्मनेपद⟫ có thể được thay thế bằng -ī-. Sau ⟪ग्रह्⟫ 9U "nắm lấy", sự thay thế này phải được thực hiện ở P và Ā:  
 ⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
-:::
 
-2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:  
-::: indent
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
-:::
+2.  Các gốc động từ thuộc lớp Hiện tại thứ 8 kết thúc bằng -n (hoặc -ṇ) có thể ở dạng thấp nhất trong ngôi thứ 2, số ít, chủ động:  
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Aorist gốc) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
-::: indent
+3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā và các trường hợp khác có thể thay cho hình thức ngôi thứ 3, số ít, chủ động bằng hình thức của Aorist bị động:  
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
-:::
 
-4.  ⟪विज्⟫ 7P hat keinen Ablaut:  
-::: indent
+4.  ⟪विज्⟫ 7P không có sự biến đổi nguyên âm:  
 ⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
-Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5808))
+Hình: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5808))
 :::
-## 58.7. Übung
+## 58.7. Bài tập
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
+A) Xác định và dịch các hình thái sau đây mà không sử dụng tài liệu tham khảo, đồng thời tạo ra các hình thái tương ứng của Aorist i:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -416,7 +391,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen:
+B) Dịch và xác định các hình thái sau đây:
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -457,4 +432,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

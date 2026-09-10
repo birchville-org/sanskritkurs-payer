@@ -1,21 +1,22 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lección 44"
+subtitle: "Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) de las raíces no temáticas con sufijo que termina en vocal"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 44
 
-## 44.1. Formación de las formas verbales de la 2.ª persona (⟪मध्यमः⟫) de las raíces no temáticas con sufijo que termina en vocal
+## 44.1. Formación de las formas verbales de la 2ª persona (⟪मध्यमः⟫) de las raíces atemáticas con sufijo que termina en vocal
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**La 3.sg. del Ā. del imperfecto es formalmente idéntica a la 2.pl. del P. del imperfecto.**
+**¡La 3.sg. del Ā. Imperfecto es formalmente idéntica a la 2.pl. del P. Imperfecto!!!**
 :::
 ### 44.1.1. Quinta clase de presente (⟪स्वादि⟫)
 
@@ -25,7 +26,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralización! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralización! | ⟪सुनुध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
@@ -37,7 +38,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
@@ -47,7 +48,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
@@ -57,41 +58,41 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralización! | ⟪क्रीणीध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
 ## 44.2. Sobre el sandhi de palabras
 
-En las raíces del presente que terminan en consonante, se deben observar las leyes del sandhi de palabras ya tratadas.
+En las raíces del presente que terminan en consonante, deben observarse las leyes ya tratadas del sandhi de palabras.
 
 Además, se aplican las siguientes leyes del sandhi de palabras.
 
-(Para una recopilación exhaustiva de todas las variaciones fonéticas aquí pertinentes, véase Kielhorn, Gramática, p. 76s.)
+(Para una recopilación exhaustiva de todas las modificaciones fonéticas aquí pertinentes, véase Kielhorn, Gramática p. 76f.)
 
 ### 44.2.1. Sobre el sandhi de palabras para dh-
 
 ::: grammar-box
-1. **La aspirada se reemplaza por la correspondiente no aspirada antes de otra aspirada:**
-   p. ej. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+1. **La aspirada se reemplaza por la no aspirada correspondiente cuando va seguida de otra aspirada:**
+p. ej. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
 2. **-h + dh- » -gdh-**
-   p. ej. **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
+p. ej. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
 3. **-ṣ + dh- » -ḍḍh-** (¡Esta regla solo se aplica a la conjugación!)
-   p. ej. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
+p. ej. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
 4. **-s + dh- » -dh-** (Pérdida de la -s)
-   p. ej. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
+p. ej. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
 ### 44.2.2. Sobre el sandhi de palabras para s-
 
 ::: grammar-box
-1. **-s + s- » -ts- o (¡no opcional!) -ss-** (así en la 2. clase de presente)
-   Ejemplos:
-   * **⟪वस्⟫** 1P: Futuroooooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+1. **-s + s- » -ts- o (¡no opcional!) -ss-** (como en la 2. clase de presente)
+Ejemplos:
+* ⟪वस्⟫ 1P: Futuro: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+* ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   p. ej. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
+p. ej. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Formación de las formas verbales de la 2. persona (⟪मध्यमः⟫) de raíces no temáticas sin sufijo final vocálico
+## 44.3. Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) de las raíces atemáticas sin sufijo que termina en vocal
 
 ### 44.3.1. Segunda clase de presente (⟪अदादि⟫)
 
@@ -99,7 +100,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
@@ -109,7 +110,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
@@ -119,7 +120,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
@@ -129,15 +130,15 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | ⟪इषे⟫ | ⟪इध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | ⟪इषे⟫ | ⟪इध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optativo** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
@@ -147,29 +148,27 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
-⟪अस्⟫ 2P (¡especialmente de recordar!)
+⟪अस्⟫ 2P (¡especialmente para recordar!)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
-| **Imperfecto** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
-| **Optativo** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
+| **Indicativo Presente** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **Imperfecto** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Optativo** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
-⟪तत्त्वमसि⟫
-
-⟪शास्⟫ 2P
+⟪तत्त्वमसि शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
@@ -177,47 +176,47 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
 | **Imperfecto** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
 ## 44.4. El vocativo (⟪आमन्त्रितम्⟫)
 
-Los gramáticos nativos no consideran el vocativo (⟪आमन्त्रितम्⟫) como un caso propio, sino solo como una modificación del nominativo (⟪प्रथमा⟫).
+Los gramáticos nativos no consideran el vocativo (⟪आमन्त्रितम्⟫) como un caso propio, sino únicamente como una modificación del nominativo (⟪प्रथमा⟫).
 
 ::: important
-**El vocativo sirve para el llamamiento, el trato directo y se encuentra fuera de la relación con el resto de la oración, por lo que se diferencia de los otros casos, que expresan una relación con el verbo o con otro sustantivo.**
+**El vocativo sirve para el llamamiento, la invocación y se sitúa fuera de la relación con el resto de la oración, por lo que difiere de los demás casos, que expresan una relación con el verbo o con otro sustantivo.**
 
 **Por lo general, el vocativo se coloca al inicio de la oración:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Hijo, ¿qué dices?"
+⟪बाल किं वदसि⟫ = "Hijo, ¿qué dices?"
 :::
 ::: important
-**Se debe evitar la traducción del vocativo con "**¡Oh** ...". En alemán utilizamos constantemente vocativos, cuando por ejemplo decimos: "Cariño, ¿qué cocinamos hoy?". Nadie diría en este sentido: "**¡Oh** cariño, ¿qué cocinamos hoy?"**
+**Se debe evitar traducir el vocativo con "**¡Oh** ...". En alemán utilizamos constantemente vocativos, por ejemplo cuando decimos: "Cariño, ¿qué cocinamos hoy?". Nadie diría en este sentido: "**¡Oh** cariño, ¿qué cocinamos hoy?**"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
-Fig.: Para el uso correcto de "¡Oh" en alemán: **"¡Oh hombre!"**
+Fig.: Para el uso correcto de "¡Oh!" en alemán: **"¡Oh hombre!"**
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Las formas del vocativo en plural y dual son idénticas a las del nominativo (⟪प्रथमा⟫) en plural o dual.**
+**Las formas del vocativo plural y dual son idénticas a las del nominativo (⟪प्रथमा⟫) plural o dual.**
 
-**Las formas del vocativo en singular se presentan en [Lección 45](lektion45.md).**
+**Las formas del vocativo singular se tratarán en la [Lección 45](lektion45.md).**
 :::
 ## 44.5. Lista de palabras
 
-⟪प्रति⟫ Prefijo: de vuelta, contra, en contra - hacia
+⟪प्रति⟫ Prefijo: atrás, contra, en dirección a
 
 ::: indent
 por ejemplo
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : golpear de vuelta
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : golpear hacia atrás
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : decir de vuelta = responder
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : decir hacia atrás = responder
 
 **⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : rechazar, desdeñar
 :::
@@ -226,36 +225,36 @@ por ejemplo
 ::: indent
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
-Pass. ⟪यायते⟫  
-Kaus. ⟪यापयति⟫  
+Pas. ⟪यायते⟫  
+Caus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
+Inf. ⟪यातुम्⟫
 
 de ello:
 
-**⟪यान⟫** n.: ir, camino, vehículo
+⟪यान⟫ n.: ir, camino, vehículo
 :::
 ::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : yacer. Esta raíz tiene en todas las formas del tema del presente **grado alto:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
+⟪शी⟫ 2Ā ⟪शेते⟫ : yacer. Esta raíz tiene en todas las formas de la base del presente **Grado fuerte:** 1.sg.Ind.Pres.Ā :sig[⟪शेये⟫] (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Pres.Ā :sig[⟪शेरते⟫], 3.pl.Impf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
+Caus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
 de ello:
 
-**⟪शयन⟫** n.: litera, cama
+⟪शयन⟫ n.: lecho, cama
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
+Fig.: ⟪योगी शयने शेते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : alegrarse de (⟪तृतीयया⟫)
@@ -263,31 +262,31 @@ Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 ::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
-Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
+Pas.: ⟪नन्द्यते⟫  
+Caus. ⟪नन्दयति⟫  
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫  
+Gerundivo ⟪नन्द्य⟫  
 
 de ello:
 
-**⟪नन्दिन्⟫** 3: caracterizado por (especial) alegría, alegre; m. nombre del animal de monta (⟪वहन⟫) del ⟪शिव⟫ (un toro)
+⟪नन्दिन्⟫ 3: caracterizado por (especial) alegría, alegre ; m. nombre de la montadura (⟪वहन⟫) del ⟪शिव⟫ (un toro)
 :::
 ::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : tener su alegría de (⟪द्वितीयया⟫), saludar alegremente a alguien, dar la bienvenida
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : tener su alegría en (⟪द्वितीयया⟫), saludar alegremente a alguien, dar la bienvenida
 
-**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : sostener, llevar; ofrecer, conceder; mantener unido, domar, frenar, conquistar
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : sostener, llevar ; ofrecer, conceder ; mantener unido, domar, frenar, conquistar
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
-Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ pero: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
+Pas. ⟪यम्यते⟫  
+Caus. ⟪यामयति⟫ pero: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -295,16 +294,16 @@ Absol. -⟪यम्य⟫
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : estirar, extender
 
 ::: indent
-PPP ⟪आयत⟫ 3: largo extendido
+PPP ⟪आयत⟫ 3: extendido
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Fig.: ⟪आयतो⟫ ⟪मरुः⟫
+Fig.: ⟪आयतो मरुः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : ofrecer, presentar, entregar
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : atar juntos, atar, domar
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : atar, sujetar, domar
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : aspirar a (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
@@ -318,27 +317,27 @@ Inf. ⟪यतितुम्⟫
 
 de ello:
 
-**⟪यत्न⟫** m.: esfuerzo, diligencia
+⟪यत्न⟫ m.: esfuerzo, diligencia
 :::
 ::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4407))
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (forma alternativa a ⟪लभ्⟫): captar
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma variante de ⟪लभ्⟫): asir, tomar
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
 ⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : tocar, comenzar, emprender
 
-⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): la salida del hogar hacia la vida sin hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (a ⟪प्र⟫-⟪व्रज्⟫): la salida del hogar hacia el no-hogar; ceremonia mediante la cual uno se convierte en novicio budista (Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
@@ -409,24 +408,9 @@ Fig.: ⟪कस्माद्रोदिषि⟫
 :::
 B) Traduzca:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
-
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
-
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
-
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
-
-## 44.7. Ejercicio de repaso de la morfología
+## 44.7. Ejercicio de repaso sobre la morfología
 
 Determine las siguientes formas:
 

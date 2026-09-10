@@ -1,10 +1,11 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Lição 29"
+subtitle: "Uso do Parasmaipada (⟪परस्मैपद⟫) e Ātmanepada (⟪आत्मनेपद⟫) no causativo"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 29
@@ -69,7 +70,7 @@ Inf. ⟪ग्रसितुम्⟫
 ![](/images/lekt2903.webp)
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2903))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2903))
 :::
 ⟪पालयति⟫ : também sinônimo de  ⟪पाति⟫
 
@@ -87,7 +88,7 @@ dele:
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Fonte da imagem: [Details](/licenses#lekt2901))
+(Fonte da imagem: [Details](/pt/licenses#lekt2901))
 :::
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): suave, brando, macio ; lento, fraco
 
@@ -148,7 +149,7 @@ Explicação: ⟪आत्मसु⟫ = Loc. sg. de ⟪आत्मन्⟫ m.
 ![](/images/lekt2902.jpg)
 Fig.: ⟪मात्स्यन्याय⟫:
 (Desenho: Namcha Payer, 2002-11)
-(Fonte da imagem: [Detalhes](/licenses#lekt2902))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2902))
 :::
 Explicações:
 
@@ -262,6 +263,4 @@ Explicações:
 | ⟪स्मृ⟫ ⟪१⟫ ⟪प⟫ | ⟪स्मरिष्यति⟫ | ⟪स्मारयति⟫:br⟪स्मरयति⟫ |
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
-
 :::
-

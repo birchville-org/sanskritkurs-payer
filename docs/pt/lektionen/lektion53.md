@@ -1,6 +1,7 @@
 ---
-title: Lektion 53
+title: "Lição 53"
 lesson_id: 53
+
 ---
 
 # Lição 53
@@ -33,13 +34,13 @@ lesson_id: 53
 ::: media
 ![](/images/lekt5301.webp)
 Fig.: ⟪मार्जारयुगम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5301))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
-(Fonte da imagem: [Details](/licenses#lekt5302))
+(Fonte da imagem: [Details](/pt/licenses#lekt5302))
 :::
 ## 53.2. Desinências do dual do nome
 
@@ -118,7 +119,7 @@ Fig.: ⟪हस्तौ⟫
 ::: media
 ![](/images/lekt5305.webp)
 Fig.: ⟪भरन्तौ⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5305))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5305))
 :::
 ⟪ददत्⟫ 3 "que dá"
 
@@ -211,7 +212,7 @@ Fig.: ⟪भरन्तौ⟫
 ::: media
 ![](/images/lekt5306.webp)
 Fig.: ⟪फले⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5306))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5306))
 :::
 **Temas em -i**
 
@@ -242,7 +243,7 @@ Fig.: ⟪फले⟫
 ::: media
 ![](/images/lekt5307.webp)
 Fig.: :sig[⟪धेनू⟫]
-(Fonte da imagem: [Detalhes](/licenses#lekt5307))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5307))
 :::
 **Temas em -ā**
 
@@ -318,7 +319,7 @@ Exemplos:
 ::: media
 ![](/images/lekt5308.webp)
 Fig.: ⟪पितापुत्रौ⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5308))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5308))
 :::
 ## 53.6. O dual dos pronomes
 
@@ -374,7 +375,7 @@ Os seguintes adjetivos pronominais são declinados como ⟪सर्व⟫. No A
 
 **Os superlativos em -iṣṭha (Fem.: iṣṭhā) são declinados como temas em -a e -ā.**
 
-**Deklination von -īyas siehe unten.**
+**Para a declinação de -īyas veja abaixo.**
 :::
 Exemplos:
 
@@ -412,49 +413,52 @@ Exemplos:
 ::: grammar-box
 **Regra 3:** **Para -ṛ-, que é precedido por uma vogal inicial e seguido por apenas uma única consoante, substitui-se por -ra-.**
 :::
+::: grammar-box
+**Regra 3:** **-ra- é substituído para -ṛ-, quando precedido por uma vogal inicial e seguido apenas por um único consoante.**
+:::
 Exemplo:
 
 ::: grammar-box
 | Adjetivo | Comparativo | Superlativo |
-| --- | --- 
-| ⟪पृथु⟫ 3 "largo" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| --- | ---
+| ⟪पृथु⟫ 3 "amplo" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Lista das formas comparativas e superlativas mais comuns deste tipo para adjetivos já aprendidos:**
+**Lista das formas de grau mais comuns deste tipo para adjetivos aprendidos até agora:**
 
 ::: grammar-box
 | Adjetivo | Comparativo | Superlativo |
-| --- | --- 
+| --- | ---
 | ⟪अल्प⟫ 3 "pequeno, pouco" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "rápido" :br (de ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "pesado" :br (de *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "longo" :br (de *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "distante" :br (de *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
 | ⟪धनवन्त्⟫ 3 "rico" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
 | ⟪पाप⟫ 3 "mau" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
-| ⟪पृथु⟫ 3 "largo" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪पृथु⟫ 3 "amplo" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
 | ⟪प्रिय⟫ 3 "querido" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
 | ⟪बलिन्⟫ 3 "(especialmente) forte" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
 | ⟪महान्त्⟫ 3 "grande" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
 | ⟪युवन्⟫ 3 "jovem" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "firme" :br (de ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "curto" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5309))
+Fig.: ⟪द्राघीयो लिङ्गम्⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5309))
 :::
-**Algumas formas comparativas e superlativas deste tipo não têm nenhuma forma básica etimologicamente relacionada; são "defectivas". Portanto, as seguintes séries devem ser memorizadas especialmente:**
+**Algumas formas de grau deste tipo não possuem nenhuma forma básica etimologicamente relacionada; elas são "defectivas". Portanto, as seguintes séries devem ser memorizadas especialmente:**
 
 ::: grammar-box
 | (Adjetivo) | Comparativo | Superlativo |
-| --- | --- 
-| (⟪अल्प⟫ 3 "pequeno, pouco") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "louvável, bom") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "louvável, bom") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
+| --- | ---
+| (⟪अल्प⟫ 3 "pequeno, pouco") | ⟪कनीयस्⟫ :br cf. ⟪कन्या⟫ f. "menina = a pequena" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "digno de louvor, bom") | ⟪श्रेयस्⟫ :br de ⟪श्री⟫ f. "brilho" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "digno de louvor, bom") | ⟪ज्यायस्⟫ :br também: "mais velho" :br de ⟪ज्या⟫ f. "supremacia" | ⟪ज्येष्ठ⟫ :br também: "o mais velho" |
 | (⟪बहु⟫ 3 "muito") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "velho") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "velho") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| (⟪वृद्ध⟫ 3 "velho") | ⟪वर्षीयस्⟫ :br de ⟪वर्ष⟫ n.m. "estação das chuvas, ano" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "velho") | ⟪ज्यायस्⟫ :br também: "melhor" :br de ⟪ज्या⟫ f. "supremacia" | ⟪ज्येष्ठ⟫ :br também: "o melhor" |
 :::
 ## 53.9. Declinação dos comparativos em -īyas
 
@@ -480,7 +484,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: media
 ![](/images/lekt5303.jpg)
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5303))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5303))
 :::
 Ver também:
 
@@ -499,7 +503,7 @@ Uma boa impressão do efeito estético é dada, por exemplo, pela recitação do
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5304))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5304))
 :::
 ### 53.10.2. Tipos de metros
 

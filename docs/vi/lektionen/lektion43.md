@@ -179,7 +179,7 @@ Abb.: ⟪विपणिः⟫
 ::: media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/vi/licenses#lekt4305))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: tốt nhất
 
@@ -190,7 +190,7 @@ Abb.: ⟪वणिक्⟫
 ::: media
 ![](/images/lekt4306.webp)
 Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/vi/licenses#lekt4306))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: tối cao, tốt nhất
 
@@ -211,7 +211,7 @@ Abb.: ⟪वत्सः⟫
 ::: media
 ![](/images/lekt4307.webp)
 Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/vi/licenses#lekt4307))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: giấy
 
@@ -332,7 +332,7 @@ B) Dịch sang tiếng Phạn:
 ::: media
 ![](/images/lekt4308.webp)
 Abb.: ⟪कदा पूराववर्तथाः ।⟫
-(Bildquelle: [Details](/vi/licenses#lekt4308))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt4308))
 :::
 ## 43.6. ⟪संवादः⟫ = Cuộc trò chuyện
 

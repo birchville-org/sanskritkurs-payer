@@ -32,7 +32,7 @@ status: stable
 ![](/images/lekt2701.webp)
 Abb.: ⟪जयपुरनगरे⟫
 Iaiapura, 1875.
-(Fons imaginis: [Detalia](/la/licenses#lekt2701))
+(Fons imaginis: [Details](/la/licenses#lekt2701))
 :::
 
 ::: grammar-box
@@ -43,19 +43,17 @@ Iaiapura, 1875.
 
 **Huc etiam pertinet Locativus Absolutus:**
 
-**Si actio vel status personae vel rei determinat tempus, quo - aut circumstantias, sub quibus - ALIA persona vel res actionem perficit vel in certo statu versatur, verbum personam vel rem primam designans simul cum verbo eandem magis determinante (quod saepe participium est) in locativum (⟪सप्तमी⟫) venit:**
+**Si actio vel status personae vel rei tempus determinat, quo - aut circumstantias, sub quibus - ALIA persona vel res actionem perficit vel in certo statu versatur, verbum personam vel rem primam designans simul cum verbo eandem magis specificante (quod saepe participium est) in locativum (⟪सप्तमी⟫) venit:**
 
 > ⟪एवं गच्छति काले⟫ = "tempore sic fluente..."
 \>
-> ⟪तस्मिन्गते⟫ = "cum ille abiisset..."
+> ⟪तस्मिन्गते⟫ = "cum abiisset..."
 
 **Saepe agens (⟪कर्ता⟫) non expresse designatur:**
 
 > ⟪एवं सति⟫ = "cum ita res se habeat"
 
-**Locativus absolutus secundum contextum verti debet cum "dum" (e.g. participium praesentis), "postquam", "cum" (e.g. PPP), "quoniam", "quia", "etsi", "si" etc.**
-
-**Nota: in absolutivo necesse est agentem absolutivi et agentem propositionis principalis idem esse; in locativo absoluto autem agens locativi absoluti et agens verbi principalis diversi esse debent.**
+**Locativus absolutus secundum contextum verti debet cum "dum" (e.g. participium praesens), "postquam", "cum" (e.g. PPP), "quod", "quia", "etsi", "si" etc.**
 
 :::
 ::: media
@@ -111,7 +109,7 @@ De ulterioribus locativi usibus postea.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
-### 27.2.2. Pronomina interrogativa, demonstrativa et relativa
+### 27.2.2. Pronominalia interrogativa, demonstrativa et relativa
 
 ::: grammar-box
 
@@ -483,7 +481,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Locativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Pronomina Demonstrativa: ⟪तद् । एतद् । इदम्⟫
+### 27.7.12. Pronominalia Demonstrativa: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
 

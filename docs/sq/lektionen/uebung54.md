@@ -1,45 +1,46 @@
 ---
-title: "Ushqim 54"
+title: "Ushtrimi 54"
 uebung_id: 54
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 54
+# Ushqimi 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Formoni aoristët përkatës për format e mëposhtëm të Presentit ose Perfektit:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Nr. | Forma | Përcaktimi / Kuptimi | Aoristi |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | ata shkojnë | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | unë pi | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫| unë / ai ka dhënë | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫| unë / ai / ata ishin | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫| ata vendosin | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫| ne shkëmbyem | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫| ti ke pirë / mbrojtur | ⟪अपाः⟫ (nga :sig[⟪पा⟫] "pi") |
+| ⟪८⟫. | ⟪तिष्ठति⟫| ai qëndron | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫| ti ke shkuar | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫| ju keni pirë | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫| ju do të shkoni | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫| ata qëndruan | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫| ju vendosët | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫| ti dha | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫| ata ishin | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫| ne kemi dhënë | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫| ndahet | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫| thuhet | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫| ai lavdërohet | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫| arat përpunohen | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫| ai lindet | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫| këndohet | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫| është shkuar | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Fig.: ⟪अगायि⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung093))
 :::
 

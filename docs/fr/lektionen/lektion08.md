@@ -1,10 +1,11 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Leçon 8"
+subtitle: "Formation des noms & 8. classe de présent"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Leçon 8

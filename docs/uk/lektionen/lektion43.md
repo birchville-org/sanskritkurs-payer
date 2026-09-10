@@ -1,10 +1,11 @@
 ---
-title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+title: "Урок 43"
+subtitle: 'Особові закінчення другої особи (⟪मध्यमः⟫ = \"середня <особа>\")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 43

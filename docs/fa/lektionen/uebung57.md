@@ -51,7 +51,7 @@ last_reconstructed: 2026-05-15
 
 ## B) Wortbestimmungen
 
->> شکل‌های زیر را تعیین و ترجمه کنید:
+شکل‌های زیر را تعیین و ترجمه کنید:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
@@ -115,8 +115,7 @@ last_reconstructed: 2026-05-15
 :::
 ::: media
 ![](/images/uebung094.webp)
-Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung094))
+تصویر: ⟪पाणी धूपं कुरुतः ॥⟫
+(منبع تصویر: [جزئیات](/licenses#uebung094))
 :::
-
 

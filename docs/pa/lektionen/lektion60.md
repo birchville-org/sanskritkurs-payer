@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "ਪਾਠ 60"
+subtitle: "ਦੋਵੇਂ ਵਚਨ ਦੇ ਪਰਤੀਤ ਕਾਲ ਦੇ ਅੰਤਮ (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 60

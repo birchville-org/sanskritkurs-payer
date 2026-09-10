@@ -1,52 +1,53 @@
 ---
-title: "Exercise 41"
+title: "[Vježba 41]"
 uebung_id: 41
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
-
-
-# Vežba 41
-
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion:
-
-⟪१⟫. **⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫**  
-**⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫ ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen, das (nur) in Büchern steht, und Geld, das in fremder Hand ist: Wenn der Augenblick des Bedarfs eintritt, ist dieses Wissen kein Wissen und dieses Geld kein Geld.
-
-⟪२⟫. **⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫ ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫**  
-**⟪पयःपानं⟫ ⟪भुजङ्गानां⟫ ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Unterweisung für Toren führt zur Erbitterung, nicht zum Frieden. Das Trinken von Milch durch Schlangen ist lediglich eine Vermehrung des Giftes.
 
 ---
 
-## Übungstexte
 
-B) Übersetzen Sie:
+# Exercise 41
 
-⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-"Ich nehme Zuflucht zum Buddha, ich nehme Zuflucht zum Dharma, ich nehme Zuflucht zum Sangha" — dies ist von denen zu sagen, die zum Buddha gegangen sind.
+A) Translate the two proverbs at the beginning of the lesson:
 
-### Exkurs: Die drei Zufluchten
-Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
+⟪१⟫. **⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् ।⟫**
+**⟪कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥ १ ॥⟫**
+Knowledge that exists only in books, and money that is in someone else's hand: When the moment of need arrives, this knowledge is no knowledge and this money is no money.
 
-Das Wesentliche ist jedoch nicht die Erlöserpersönlichkeit, sondern die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg selbst zu gehen. Man muss von der Lehre so überzeugt sein, dass man die Energie aufbringt, sie auf ihren Wahrheitsgehalt zu testen (**Zuflucht zum Dharma**).
+⟪२⟫. **⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।⟫**
+**⟪पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥ २ ॥⟫**
+Instruction for fools leads to bitterness, not to peace. Drinking milk by snakes is merely an increase of poison.
 
-Zudem muss man überzeugt sein, dass auch andere diesen Weg erfolgreich gegangen sind. Dies ist die **Zuflucht zum Sangha**, der Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind.
-⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-"Ich werde nach Benares (Kāśī) gehen, den Ganges sehen und dort sterben" — mit diesem Gedanken verliess der ehrenwerte alte Mann Söhne, Enkelsöhne und Besitz und zog nach Benares aus. Ich denke, dass er so das zu beendende Leiden überwinden wird.
+---
 
-⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Ich habe ein Mädchen geheiratet, mit ihr einen Sohn gezeugt und grossen Reichtum erlangt; so habe ich das Glück erreicht" — in dieser Weise täuschte ich mich in der Vergangenheit. Dann erkannte ich: Aus Glück entsteht Leid; deshalb ist auch das weltliche Glück aufzugeben, und nichts sollte mit den Sinnen berührt werden.
+## Practice Texts
 
-⟪४⟫. **⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वैश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Nachdem er die zu verkaufenden Waren veräussert hatte, gab der sohnlose Vaiśya den Erlös den Mönchen und empfing das Verdienst der Gabe. Die Mönche verkündeten: "Diese Tat ist lobenswert." Die Einsichtigen jedoch zweifeln, ob der so handelnde Vaiśya tatsächlich Verdienstvolles getan hat.
+B) Prevedite: (Kielhorn)
 
-⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Von Lehrern sind Schüler zu unterweisen; von Schülern ist das Pensum zu studieren.
+⟪१⟫. **⟪बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥⟫**
+"Utječem se Budi, utječem se Dharmi, utječem se Sanghi" — to trebaju izgovoriti oni koji su pošli Budi. (Kielhorn)
+
+### Ekskurs: Tri utočišta (Kielhorn)
+Ovo trostruko utočište ključno je za stjecanje potrebne motivacije i ustrajnosti na putu oslobođenja. Budući da postoji bezbroj učitelja mudrosti, nemoguće je slijediti svakoga pojedinačno. Mora se donijeti izbor. Osobnost učitelja mora djelovati vjerodostojno (**Utočište u Budi**). (Kielhorn)
+
+Međutim, bitan element nije osobnost spasitelja nego učenje o oslobođenju koje pojedincu omogućuje da sam prođe tim putem. Čovjek mora biti toliko uvjeren u učenje da uloži energiju kako bi ispitao njegovu istinitost (**Utočište u Dharmi**). (Kielhorn)
+
+Nadalje, mora postojati uvjerenje da su i drugi uspješno slijedili taj put. To je **utočište u Sanghi**, zajednici onih koji su na Budinu putu postigli oslobođenje. (Kielhorn)
+⟪२⟫. **⟪काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥⟫**
+"Poći ću u Varanasi (Kāśī), vidjeti Ganges i ondje preminuti" — misleći tako, časni starac napustio je sinove, unuke i imovinu te se uputio u Varanasi. Smatram da će time nadvladati patnju koju treba okončati. (Kielhorn)
+
+⟪३⟫. **⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥⟫**
+"I have married a girl, begotten a son with her, and acquired great wealth; thus I have attained happiness" — in this way I deluded myself in the past. Then I realized: From happiness arises suffering; therefore, worldly happiness must also be abandoned, and nothing should be touched by the senses.
+
+⟪४⟫. **⟪विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वैश्यः पुण्यं चकारेति ॥ ४ ॥⟫**
+Nakon što je prodao robu za prodaju, bezdetni vajšija dao je prihod redovnicima i primio zaslugu dara. Redovnici rekoše: "Ovo djelo je hvalevrijedno." Razumni pak sumnjaju je li vajšija postupajući tako doista učinio nešto zaslužno. (Kielhorn)
+
+⟪५⟫. **⟪गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥⟫**
+Teachers are to instruct students; from students, the curriculum is to be studied.
 
 ::: media
 ![](/images/uebung067.jpg)
-Abb.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
-(Bildquelle: [Details](/licenses#uebung067))
+Fig.: ⟪बुद्धं शरणं गच्छामि⟫
+(Image source: [Details](/licenses#uebung067))
 :::

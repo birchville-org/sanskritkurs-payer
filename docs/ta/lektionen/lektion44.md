@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "பாடம் 44"
+subtitle: "இரண்டாம் வேற்றுமை வினைச்சொல் வடிவங்களின் உருவாக்கம் (⟪मध्यमः⟫) சுவரந்திர வார்த்தைகளில் ஒலி இல்லாத முனை"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 44

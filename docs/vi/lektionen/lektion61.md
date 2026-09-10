@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "[Bài 61]"
+subtitle: "[B2] Sự biến cách của các danh từ gốc có tận cùng là -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 61
+# Bài 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Sự biến cách của các danh từ gốc kết thúc bằng -ā, -ī, -ū
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
+### 61.1.1. Danh từ gốc kết thúc bằng -ā ở cuối ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.**
+**Trước các đuôi nguyên âm, nguyên âm gốc của stem ở các cách yếu có dạng biến mất Ø.**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.**
+**Sự biến cách giống đực và giống cái là giống hệt nhau.**
 :::
-Paradigma:
+Bảng biến cách:
 
-⟪विश्वपा⟫ m.f. "das All beschützend"
+⟪विश्वपा⟫ m.f. "người bảo vệ toàn thể"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Danh từ gốc giống cái kết thúc bằng -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Trước đuôi nguyên âm, -ī được thay bằng -iy.**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.**
+**Bên cạnh các hình thành với đuôi cách quy tắc, trong Dat.Ab.Gen.Lok.sg. và Gen.pl. cũng xuất hiện các hình thành theo mẫu của danh từ giống cái nhiều âm tiết kết thúc bằng -ī (⟪देवी⟫).**
 :::
-Paradigma:
+Bảng biến cách:
 
-⟪धी⟫ f. "Gedanke"
+⟪धी⟫ f. "ý nghĩ"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmässig: ⟪स्त्री⟫ f. "Frau"
+Bất quy tắc: ⟪स्त्री⟫ f. "phụ nữ"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,17 +69,17 @@ Unregelmässig: ⟪स्त्री⟫ f. "Frau"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102))
+Hình: ⟪स्त्रियः⟫
+(nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt6102))
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
+### 61.1.3. Danh từ gốc từ (Wurzelnomina) tận cùng bằng -ī ở cuối ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.**
+**Trước các đuôi nguyên âm, -ī được thay bằng -y nếu chỉ có một phụ âm thuộc về gốc từ đứng trước nó. Nếu có nhiều phụ âm thuộc về gốc từ đứng trước, thì -ī trước đuôi nguyên âm được thay bằng -iy.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Sự biến đổi (Deklinieren) giống nhau ở giống đực và giống cái.**
 
-**Unregelmässigkeit: Komposita auf -⟪नी⟫ "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
+**Bất thường: Các hợp danh từ (Komposita) tận cùng bằng -⟪नी⟩ "dẫn dắt" có đuôi -ām ở cách Loc.sg (giống như ⟪देवी⟩):**
 z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmen:
@@ -95,7 +96,7 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend"
+⟪यवक्री⟫ m., f. "mua lúa mạch"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Danh từ gốc đơn âm, giống cái kết thúc bằng -ū
 
 ::: grammar-box
-**Stamm vor Vokal: -uv**
+**Gốc trước nguyên âm: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Biến cách tương tự như các danh từ gốc giống cái kết thúc bằng -ī**
 :::
-Paradigma:
+Bảng biến cách:
 
-⟪भू⟫ f. "Erde"
+⟪भू⟫ f. "Đất"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
+### 61.1.5. Danh từ gốc kết thúc bằng -ū ở cuối ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.**
+**Trước các đuôi nguyên âm, -ū được thay bằng -v nếu chỉ có một phụ âm thuộc gốc đứng trước. Nếu nhiều phụ âm thuộc gốc đứng trước, thì -ū trước đuôi nguyên âm được thay bằng -uv.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Sự biến cách giống và nam là như nhau.**
 :::
-Paradigma:
+Bảng biến cách:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend"
+⟪खलपू⟫ m., f. "quét nhà kho"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +152,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106))
+Hình: ⟪रथ्याप्वः काशीपुर⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6106))
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. Biến danh từ giống cái nhiều âm tiết kết thúc bằng -ū
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.**
+**Danh từ giống cái nhiều âm tiết kết thúc bằng -ū được biến đổi tương tự như các gốc danh từ giống cái nhiều âm tiết kết thúc bằng -ī (⟪देवी⟫), nhưng chúng kết thúc bằng -s ở cách danh xưng số ít.**
 :::
-Paradigma:
+Bảng biến đổi:
 
-⟪वधू⟫ f. "junge Frau, Braut"
+⟪वधू⟫ f. "phụ nữ trẻ, cô dâu"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,20 +177,19 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107))
+Hình: ⟪वध्वौ जोधपुर⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6107))
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+## 61.2. Thì tương lai phân tích (⟪लुट्⟫)
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.**
+**Bên cạnh thì tương lai đơn (⟪ऌत्⟫), còn có thì tương lai phân tích (⟪लुट्⟫). Theo lý thuyết của các nhà ngữ pháp bản địa, thì tương lai phân tích được sử dụng để chỉ tương lai xa ("sau ngày hiện tại"), trong khi thì tương lai đơn chỉ tương lai gần ("vào ngày hiện tại"). Trong tiếng Phạn cổ điển, dường như không có sự khác biệt rõ rệt trong cách sử dụng giữa hai thì này.**
 
-**Bildung:**
+**Cách hình thành:**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
+**Thì tương lai phân tích được tạo thành bằng cách kết hợp một danh từ chỉ tác nhân kết thúc bằng -tṛ với dạng hiện tại của ⟪अस्⟫ 2. Ở ngôi thứ ba, danh từ đơn giản được sử dụng ở số tương ứng, không phân biệt giống ngữ pháp. Trong các kết hợp với ⟪अस्⟫, danh từ ở tất cả các ngôi và số đều có dạng cách danh xưng số ít kết thúc bằng -tā.**
 :::
-Die Endungen des periphrastischen Futur lauten also:
+Các hậu tố của tương lai vòng loại (periphrastic future) như sau:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,17 +200,17 @@ Die Endungen des periphrastischen Futur lauten also:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
+**Hình thái của gốc động từ: Gốc động từ nói chung có cùng hình thái như trong tương lai đơn giản. Điều này cũng đúng với nguyên âm nối -i-.**
 :::
-Beispiele:
+Ví dụ:
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ v.v. |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. |
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ v.v. |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ v.v. |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ v.v. |
 
-Paradigma:
+Bảng biến đổi:
 
 ⟪दा⟫ 3U
 
@@ -224,74 +223,65 @@ Paradigma:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.**
+**Rất hiếm khi động từ ⟪अस्⟫ được tách khỏi gốc danh từ.**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. Thì nhấn mạnh (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heisst: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.**
+**Từ mỗi gốc động từ đơn âm tiết, bắt đầu bằng phụ âm thuộc chín lớp hiện tại thứ nhất, có thể hình thành một dạng Intensivum (⟪चर्करीतम्⟫); nghĩa là: với vài ngoại lệ, không thể hình thành dạng Intensivum từ các gốc động từ hai âm tiết (ví dụ ⟪जागृ⟫), các gốc động từ bắt đầu bằng nguyên âm và các gốc thuộc lớp hiện tại thứ 10 (⟪चुरादिगण⟫).**
 
-**Das Intensivum bedeutet:**
+**Dạng Intensivum mang nghĩa:**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**  
-:::
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"  
-:::
+*   **rằng một người hoặc sự vật liên tục lặp lại hành động hoặc trải nghiệm điều được diễn đạt bởi gốc động từ**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "anh ta làm đi làm lại"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "anh ta thường xuyên là (trở thành)"  
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**  
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"  
-:::
+*   **rằng một người hoặc sự vật thực hiện hoặc trải nghiệm điều được diễn đạt bởi gốc động từ một cách mạnh mẽ:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "anh ta làm mạnh mẽ, anh ta làm một cách tài giỏi"  
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**  
-::: indent
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")  
-:::
+*   **đối với các gốc động từ diễn tả chuyển động, dạng Intensivum mang nghĩa chuyển động cong:**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "anh ta đi theo những đường cong" (KHÔNG PHẢI: "anh ta thường xuyên đi")  
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**  
-::: indent
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+*   **đối với một số gốc động từ (danh sách: Kielhorn, Grammatik § 458b), dạng Intensivum mang nghĩa chỉ trích:**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "anh ta cắt một cách tệ hại"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "anh ta ngồi một cách tệ hại"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Hình: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:**
+**Hình thành dạng Intensivum:**
 
-**Es gibt zwei Bildungstypen des Intensivums:**
+**Có hai kiểu hình thành của dạng Intensivum:**
 
-*   **Ātmanepada-Intensivum**
-*   **Parasmaipada-Intensivum**
+*   **Intensivum Ātmanepada**
+*   **Intensivum Parasmaipada**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.**
+**Cả hai đều được hình thành từ gốc động từ đã được lặp lại với phần reduplication mạnh. Cả hai không khác biệt về mặt ý nghĩa. Cả hai có thể được hình thành từ cùng các gốc động từ.**
 :::
 ### 61.3.1. Ātmanepada-Intensivum
 
 ::: grammar-box
-**Bildung:**
+**Hình thành:**
 
-**reduplizierte Wurzel + -ya-**
+**gốc lặp lại + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:**
+**Hình dạng của gốc: nói chung giống như ở thể bị động, tức là thường ở bậc thấp:**
 
-Beispiele:
+Ví dụ:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Bị động. ⟪सुप्यते⟫ ; Cường hóa. ⟪सोषुप्यते दा⟫ 3U: Bị động. ⟪दीयते⟫ ; Cường hóa. ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
+Các quy tắc chi tiết xem ở Kielhorn, Grammatik § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiele:
+**Lặp lại: theo các quy tắc chung. Nguyên âm lặp lại nhưng thay vì a, i, u thì là ā, e, o**
+Ví dụ:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -302,69 +292,69 @@ Beispiele:
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.**
+**Các gốc có dạng -a-Nasal không kéo dài nguyên âm trong âm tiết lặp lại, mà lặp lại phụ âm mũi.**
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+ví dụ. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
+**Ở một số gốc, giữa nguyên âm của âm tiết lặp lại và phụ âm đầu tiên của gốc xuất hiện -nī- hoặc -rī- (-rī- đối với các gốc có chứa ṛ trong dạng cường hóa).**
 
 ::: indent
-z.B.
+ví dụ.
 ⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:**
+**Chia động từ:**
 
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).**
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:**
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Gốc hiện tại: giống như một Ātmanepada của lớp hiện tại thứ 4 (⟪दिवादिगण⟫).**
+*   **Bị động và các gốc thì khác: nếu trước -ya- của gốc cường hóa là một nguyên âm, thì -ya- được thay bằng -y-, nếu trước -ya- là một phụ âm, thì -ya- bị lược bỏ:**
+*   **Bị động hiện tại: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Quá khứ hoàn thành: vòng quanh: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Quá khứ đơn: Aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Tương lai: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Tương lai vòng quanh: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Parasmaipada-Intensivum
 
 ::: grammar-box
-**Präsensstamm (andere Formen sind äusserst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.**
+**Thân hiện tại (các dạng khác cực kỳ hiếm): Hình thành và chia giống như một động từ thuộc lớp hiện tại thứ 3 (⟪जुहोत्यादिगण⟫) với sự khác biệt là nguyên âm của âm tiết lặp lại có cấp độ cao, trong trường hợp -a- thì có cấp độ dài.**
 
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.**
+**Ở ngôi đơn của chỉ định hiện tại cũng như ở ngôi 2.3.sg. quá khứ và ngôi 3.sg. mệnh lệnh, có thể chèn một -ī- giữa gốc động từ và hậu tố. Nếu chèn -ī-, nguyên âm ngắn ở vị trí thứ hai từ cuối không được guṇa hóa.**
 
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.**
+**Về việc lặp lại với phụ âm mũi và việc chèn -nī- hoặc -rī-, áp dụng cùng quy tắc như đối với Intensivum Ātmanepada. Thay vì -rī-, có thể chọn dùng -ri-.**
 :::
-Paradigma:
+Bảng chia:
 
 ⟪भू⟫ 1P
 
-Indikativ Präsens (⟪लट्⟫):
+Chỉ định hiện tại (⟪लट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫):
+Quá khứ (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativ (⟪लोट्⟫):
+Mệnh lệnh (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
 Optativ (⟪विधिलिङ्⟫):
 
@@ -375,236 +365,235 @@ Optativ (⟪विधिलिङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+## 61.4. Danh từ phái sinh (⟪नामधातु⟫)
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen.
+Danh từ phái sinh (⟪नामधातवः⟫) được hình thành, khác với các động từ đã được trình bày trước đó, không phải từ một gốc động từ mà từ một gốc danh từ. Có nhiều kiểu hình thành khác nhau.
 
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
+### 61.4.1. Hình thành không có hậu tố đặc biệt, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Ý nghĩa:**
 
 :::
 ::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.**
+**một người hoặc một sự vật hành xử giống như cái được gốc danh từ chỉ, hoặc tương tự với nó.**
 :::
-**Konjugation:**
+**Chia động từ:**
 
 ::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.**
+**ở gốc hiện tại giống như một động từ thuộc lớp hiện tại thứ nhất (⟪भ्वादिगण⟫). Nếu danh từ có nguyên âm 'meh' là một nguyên âm, thì chỉ nguyên âm cuối cùng được xử lý như nguyên âm gốc của lớp 1. Âm -a ở tận từ bị lược bỏ trước nguyên âm chủ đề. Nguyên âm đứng trước mũi tên cuối cùng được thay thế bằng nguyên âm dài tương ứng.**
 :::
-Beispiele:
+Ví dụ:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
+| ⟪कवि⟩ m. "Nhà thơ" | ⟪कवयति⟩ "anh ấy hành xử như một nhà thơ" |
 | --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪भू⟩ f. "Đất" | ⟪भवति⟩ "anh ấy hành xử như đất" |
+| ⟪पितृ⟩ "Cha" | ⟪पितरति⟩ "anh ấy hành xử như một người cha" |
+| ⟪कृष्ण⟩ m. Kṛṣṇa | ⟪कृष्णति⟩ "anh ấy hành xử như Kṛṣṇa" |
+| ⟪माला⟩ f. "Vòng hoa" | ⟪मालाति⟩ "nó giống như một vòng hoa" |
+| ⟪राजन्⟩ m. "Vua" | ⟪राजानति⟩ "anh ấy hành xử như một vị vua" |
 
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
+### 61.4.2. Hình thành với hậu tố -ya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Ý nghĩa:**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird**
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird**
+*   **ai đó mong muốn điều được chỉ định bởi gốc danh từ**
+*   **ai đó đối xử hoặc xem xét một người hay vật như là điều được chỉ định bởi gốc danh từ**
 
-**Stammbildung:**
+**Hình thành gốc:**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:**
+**trước -ya, âm cuối của gốc danh từ chịu những biến đổi sau:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **andere auslautende Konsonanten bleiben unverändert**
+*   **phụ âm mũi cuối cùng bị mất đi, nguyên âm đứng trước được xử lý theo các quy tắc vừa nêu:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **các phụ âm cuối khác không thay đổi**
 :::
-Beispiele:
+Ví dụ:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "con trai" | ⟪पुत्रीयति⟫ "ông ấy mong muốn một người con trai" |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪कवि⟫ m. "nhà thơ" | ⟪कवीयति⟫ "ông ấy mong muốn một nhà thơ" |
+| ⟪गो⟫ f. "con bò" | ⟪गव्यति⟫ "ông ấy mong muốn một con bò" |
+| ⟪राजन्⟫ m. "vua" | ⟪राजीयति⟫ "ông ấy mong muốn một vị vua" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "ông ấy đối xử với ai đó như Viṣṇu" |
+| ⟪प्रासाद⟫ m. "cung điện" | ⟪प्रासादीयति⟫ "ông ấy xem (ví dụ lều của mình) là một cung điện" |
 
-Beachten sie die Bedeutung von:
+Hãy lưu ý ý nghĩa của:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+| ⟪तपस्⟫ n. "tu tập" | ⟪तपस्यति⟫ "ông ấy tu tập" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "sự tôn kính" | ⟪नमस्यति⟫ "ông ấy tôn kính" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Hình: ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103))
+Hình: ⟪बालौ शिवं नमस्यतः ॥⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6103))
 :::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+### 61.4.3. Hình thành với hậu tố -kāmya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Ý nghĩa:**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird**
+**ai đó mong muốn điều được chỉ bởi gốc danh từ**
 :::
-Beispiele:
+Ví dụ:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "con trai" | ⟪पुत्रकाय्म्यति⟫ "anh ấy mong muốn một người con trai" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "danh tiếng" | ⟪यशस्काम्यति⟫ "anh ấy mong muốn danh tiếng" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109))
+Hình: ⟪यशस्काम्यन्ति मुंबई⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6109))
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### 61.4.4. Hình thành với hậu tố -sya hoặc -asya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Ý nghĩa:**
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.**
+**ai đó khao khát mạnh mẽ điều được chỉ bởi gốc danh từ.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. "mật ong" | ⟪मधुस्यति । मध्वस्यति⟫ "anh ấy khao khát mạnh mẽ mật ong" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+| ⟪अश्व⟫ m. "ngựa đực" | ⟪अश्वस्यति⟫ "(ngựa cái) khao khát mạnh mẽ ngựa đực" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Hình: ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
-(Bildquelle: [Details](/licenses#lekt6110))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6110))
 :::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### 61.4.5. Hình thành với hậu tố -ya, Ātmanepada
 
 ::: grammar-box
-**Bedeutung:**
+**Ý nghĩa:**
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.**
+**ai đó cư xử như điều được chỉ bởi gốc danh từ, hoặc giống với điều đó.**
 :::
-**Bildung:**
+**Hình thành:**
 
-*   **auslautendes -a » -ā**
-*   **auslautendes -ā bleibt unverändert**
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **auslautendes -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **-a tận cùng » -ā**
+*   **-ā tận cùng giữ nguyên**
+*   **các trường hợp khác như trước -ya, Parasmaipada (xem trên 4.2.)**
+*   **-as tận cùng tùy chọn » -ā**
+*   **gốc giống cái thường » gốc giống đực**
 
-Beispiele:
+Ví dụ:
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "anh ấy cư xử như Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ 3 "nổi tiếng" | ⟪यशायते । यशस्यते⟫ "anh ấy cư xử như một người nổi tiếng" |
+| ⟪कुमारी⟫ f. "cô gái" | ⟪कुमारायते⟫ "anh ấy cư xử như một cô gái" |
 
 ::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:**
+**Đối với một số gốc danh từ, hậu tố này có nghĩa: điều gì đó trở nên giống như cái được chỉ định bởi gốc danh từ, hoặc trở thành cái mà gốc danh từ đó biểu thị:**
 
 :::
 ::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt"
+ví dụ ⟪उन्मनस्⟫ 3 "kích hoạt": ⟪उन्मनायते⟫ "nó được kích hoạt"
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
+**Trong một số trường hợp, với hậu tố này các động từ được hình thành với những nghĩa khác:**
 
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich"
+⟪दुःख⟫ n. "nỗi đau": ⟪दुःखायते⟫ "anh ấy cảm nhận nỗi đau"
+⟪शब्द⟫ m. "âm thanh": ⟪शब्दायते⟫ "anh ấy phát ra một âm thanh"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111))
+Hình: ⟪श्वानौ शब्दायेते⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6111))
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. Hình thành với hậu tố -aya, -āpaya
 
 ::: grammar-box
-**Verschiedene Bedeutungen.**
+**Các nghĩa khác nhau.**
 
-**Konjugiert wie Kausativa.**
+**Chia giống như động từ nguyên nhân (Kausativa).**
 :::
-Beispiele:
+Ví dụ:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "thật" | ⟪स्तयपायति⟫ "anh ấy tuyên bố là thật" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "cạo trọc" | ⟪मुण्डयति⟫ "anh ấy cạo trọc" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113))
+Hình: ⟪भिक्षुर्मुण्डयते ।⟫
+Thái Lan - เมืองไทย
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6113))
 :::
-Eine Liste von Denominative z.B. in:
+Một danh sách các Denominative (danh từ hóa) ví dụ trong:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112))
+Hình:
+1845 - 1878 Giáo sư Ngữ văn Ấn Độ-Phương Đông tại Đại học Copenhagen
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. Thì Chúc nguyện (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Bedeutung:**
+**Nghĩa:**
 
 :::
 ::: indent
-**Segenswunsch**
+**Lời chúc phúc**
 :::
-**Bildung:**
+**Giáo dục:**
 
 **Parasmaipada:**
 
-**tiefstufige Wurzel + yās + Sekundärendung**
+**Gốc ở mức độ thấp nhất + yās + kết thúc thứ cấp**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
+Ví dụ: ⟪बुध्यासम्⟫ "nguyện tôi nhận biết!"
 :::
 **Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung**
+**(thường là) gốc ở mức độ cao + sī(y) + kết thúc thứ cấp**
 
-**oder:**
+**hoặc:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(gốc ở mức độ cao) + ⟪ै⟫ + sī(y) + kết thúc thứ cấp**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen"
+Ví dụ:
+⟪जि⟫ : ⟪जेषीय⟫ "nguyện tôi chiến thắng vì lợi ích của chính mình!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "nguyện tôi nhận biết"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
+**Các quy tắc về hình dạng của gốc từ chi tiết xem ở Kielhorn, Grammatik § 380ff.**
 
-Paradigma:
+Bảng biến đổi:
 
-⟪बुध्⟫ "erwachen"
+⟪बुध्⟫ "tỉnh thức"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -616,32 +605,32 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114))
+Hình: ⟪नववर्षं शुभं भूयात् ॥⟫
+Nhà thờ Santa Cruz, Kochi = കൊച്ചി
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6114))
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 61.6. Điều kiện thức (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.**
+**Điều kiện thức (⟪ऌङ्⟫) được sử dụng khi muốn diễn đạt trong các câu điều kiện rằng những gì được nêu là điều kiện thì không xảy ra / đã không xảy ra / sẽ không xảy ra. Điều kiện thức phải được sử dụng trong cả câu điều kiện và mệnh đề chính khi nói về các loại câu này.**
 :::
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Nếu trời mưa tốt (hoặc sẽ mưa), thì thức ăn sẽ dồi dào. (Nhưng thực tế đã không đủ mưa.)"
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):**
+**Hình thành Conditionalis (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augment + gốc của thì Tương lai đơn (⟪ऌत्⟫) + kết thúc thứ cấp**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm.
+tức là giống như một thì Quá khứ không xác định (⟪लङ्⟫) đối với gốc tương lai.
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+Ví dụ: ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
-Paradigma:
+Bảng chia:
 
-⟪भू⟫ "sein, werden"
+⟪भू⟫ "là, trở thành"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -651,45 +640,43 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. Sự biến cách của danh từ tận cùng bằng -ai, -o, -au
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv**
+**Trước nguyên âm, các gốc từ này tận cùng bằng -ai, -o, -au; trước phụ âm thì là -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7.
+**⟪गो⟫ giống đực/cái "bò đực, bò cái" có sự biến đổi gốc từ.** Xem giải thích chi tiết tại Thumb-Hauschild § 296/7.
 :::
-Paradigmen: Kielhorn, Grammatik § 153:
+Bảng chia: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118))
-:::
-## 61.8. Restliche Pronomina
+Hình: ⟪हरिद्वारे गावः ॥⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6118))
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. Đại danh từ số đôi
 
-Kielhorn, Grammatik § 177:
+Kielhorn, Ngữ pháp § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117))
+Hình: ⟪आवां स्वसारौ ॥⟫ -> Ảnh: ⟪आवां स्वसारौ ॥⟫
+Apatani-Volk, Arunachal Pradesh -> Dân tộc Apatani, bang Arunachal Pradesh
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6117)) -> (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6117))
 :::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+### 61.8.2. Đại từ chỉ định ⟪अदस्⟫ "đó (xa)"
 
-Maskulinum (⟪पुंस्⟫)
+Maskulinum (⟪पुंस्⟫) -> Giống đực (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -702,7 +689,7 @@ Maskulinum (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫)
+Neutrum (⟪नपुंसक⟫) -> Giống trung (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -710,10 +697,10 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+Rest wie Maskulinum -> Còn lại như giống đực
 
 :::
-Femininum (⟪स्त्री⟫)
+Femininum (⟪स्त्री⟫) -> Giống cái (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -726,50 +713,59 @@ Femininum (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ -> ## 61.9. Giải phóng vào đại dương văn học Sanskrit: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen:
+Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozein voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: -> Sau khi hoàn thành khóa học Sanskrit, việc "bơi lội" thực sự trong đại dương văn học Sanskrit mới bắt đầu. Vì đại dương này đầy rẫy những chướng ngại, thật thích hợp để bắt đầu giai đoạn cuộc sống mới này bằng lời cầu khẩn Gaṇeśa:
+:::
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ -> ## 61.9. Giải phóng vào đại dương văn học Sanskrit: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+
+Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozein voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: -> Sau khi hoàn thành khóa học Sanskrit, việc "bơi lội" thực sự trong đại dương văn học Sanskrit mới bắt đầu. Vì đại dương này đầy rẫy những chướng ngại, thật thích hợp để bắt đầu giai đoạn cuộc sống mới này bằng lời cầu khẩn Gaṇeśa:
+:::
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ -> ## 61.9. Giải phóng vào đại dương văn học Sanskrit: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+
+Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozein voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: -> Sau khi hoàn thành khóa học Sanskrit, việc "bơi lội" thực sự trong đại dương văn học Sanskrit mới bắt đầu. Vì đại dương này đầy rẫy những chướng ngại, thật thích hợp để bắt đầu giai đoạn cuộc sống mới này bằng lời cầu khẩn Gaṇeśa:
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101))
+Hình: ⟪श्रीगणनाथः⟫
+Halebidu (ಹಳೆಬೀಡು), thế kỷ 12/13 sau Công nguyên.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6101))
 :::
 
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] của Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+Nhà soạn nhạc và nhà thơ: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
-Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
+Rāga: Malahari (thuộc ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
 *   ārohaṇa: s r1 m1 p d1 S
 
 *   avarohaṇa: S d1 p m1 g3 r1 s
 
+
 Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119))
+Hình: Giai điệu, quy về nốt c, có thể được chuyển tông tùy theo phạm vi giọng.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05 
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ đứng đầu bài học trong âm nhạc Kannada. Xem video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Truy cập ngày 05-03-2009
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
+Sau khi bạn đã học xong những nền tảng cơ bản của tiếng Sanskrit, chúng tôi hy vọng rằng bạn cũng giống như các em nhỏ trong video: đôi khi vụng về, nhưng ham học hỏi và tràn đầy niềm vui với môn học. Hãy giữ mãi "tâm trí của người mới bắt đầu" cho đến hết cuộc đời bạn.
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer
+Lời chúc từ Alois Payer của bạn
 
 Ofterdingen, 2009-03-09
 
-:sig[⟪ॐ⟫]
+sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+KẾT THÚC KHÓA HỌC TIẾNG SANSKRIT
 :::
 

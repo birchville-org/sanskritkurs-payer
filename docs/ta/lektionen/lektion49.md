@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "பாடம் 49"
+subtitle: "இலக்கண அடிப்படையிலான வினைச்சொல் உருவாக்கம் (⟪लोट्⟫) தத்துவமையற்ற முன்னிலை வடிவங்கள் (தொடர்ச்சி)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 49

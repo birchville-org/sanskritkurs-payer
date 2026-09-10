@@ -1,10 +1,11 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "Lesing 6"
+subtitle: "Die konstruksie van die werkwoordlike sin (subjek en werkwoordsvorm)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 6

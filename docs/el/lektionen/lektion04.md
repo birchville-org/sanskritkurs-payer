@@ -1,10 +1,11 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "Μάθημα 4"
+subtitle: "Ερωτηματικά και δεδεικτικα αντωνυμα στον ονομαστική"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 4

@@ -54,7 +54,7 @@ Con sacrifici animali gli uomini non vanno in cielo. Con sacrifici (non sanguina
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-Śūdras nennt man Sklaven der Zweimalgeborenen.
+I śūdra sono chiamati schiavi dei nati due volte.
 
 ⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 ⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫

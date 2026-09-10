@@ -1,76 +1,75 @@
 ---
-title: "Exercise 38"
+title: "[Vježba 38]"
 uebung_id: 38
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 38
+# Exercise 38
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) Insert the appropriate form of the words in parentheses into the following sentences and translate them:
 
 ::: grammar-box
-⟪१⟫. ⟪राज्ञि⟫ (oder: ⟪राजनि⟫) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
-Wenn der König Recht und Sitte hütet, sind die Leute ohne Furcht.
+⟪१⟫. ⟪राज्ञि⟫ (or: ⟪राजनि⟫) **⟪धर्मं रक्षत्यभया जनाः ॥ १ ॥⟫** (⟪राजन्⟫)
+When the king upholds justice and custom, the people are without fear.
 
-⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
-Es war einmal ein Königssohn — Gautama war sein Name — er hatte seine Aufgaben gut erfüllt, war voll Einsicht, schön und von unermesslicher Kraft.
+⟪२⟫. **⟪आसीद्राजपुत्रो गौतमो नाम सुकृतकर्मोपपन्नो बुद्ध्या रूप्यमितबलः ॥ २ ॥⟫** (⟪नामन्⟫)
+Once upon a time there was a king's son — his name was Gautama — he had fulfilled his duties well, was full of insight, beautiful and of immeasurable strength.
 
-⟪३⟫. **⟪राज्यस्य⟫ ⟪सीमस्वरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (⟪सीमन्⟫ — ⟪सप्तमी⟫ ⟪बहुवचन⟫)
-An den Grenzen des Reichs stehen Feinde, um den König zu bekämpfen.
+⟪३⟫. **⟪राज्यस्य सीमस्वरयो राजानं योद्धुं तिष्ठन्ति ॥ ३ ॥⟫** (⟪सीमन्⟫ — ⟪सप्तमी बहुवचन⟫)
+Enemies stand at the borders of the realm to fight against the king.
 
-⟪४⟫. **⟪वैश्यानां⟫ ⟪कानि⟫ ⟪नामानि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (⟪नामन्⟫)
-Was für Namen haben Vaiśyas?
+⟪४⟫. **⟪वैश्यानां कानि नामानि ॥ ४ ॥⟫** (⟪नामन्⟫)
+What names do Vaiśyas have?
 
-⟪५⟫. **⟪वैश्याः⟫ ⟪किंनामानः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫** (⟪किंनामन्⟫)
-Welche Namen tragen die Vaiśyas?
+⟪५⟫. **⟪वैश्याः किंनामानः ॥ ५ ॥⟫** (⟪किंनामन्⟫)
+What names do the Vaiśyas bear?
 
-⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heisst es in der Bhagavadgītā.
+⟪६⟫. **⟪कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥ ६ ॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी एकवचन⟫)
+"He who sees inaction in action and action in inaction, he is wise among men, he is a Yogi" — so it says in the Bhagavadgītā.
 
-⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
-Selbst Dichter sind darüber verwirrt, was Tun und was Nichttun ist.
+⟪७⟫. **⟪किं कर्म किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥ ७ ॥⟫** (⟪कर्मन्⟫)
+Even poets are confused about what is action and what is inaction.
 
-⟪८⟫. **⟪ब्रह्मभूतः⟫ ⟪प्रसन्नात्मा⟫ ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा⟫ ⟪एकवचन⟫)
-Wer zum Absoluten geworden ist und wessen Seele abgeklärt ist, der trauert nicht und begehrt nicht.
+⟪८⟫. **⟪ब्रह्मभूतः प्रसन्नात्मा न शोचति न लुभ्यति ॥ ८ ॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा एकवचन⟫)
+He who has become the Absolute and whose soul is clarified, does not grieve nor desire.
 
-⟪९⟫. **⟪कर्मणः⟫ ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी⟫ ⟪एकवचन⟫)
-Man sagt, dass eine gut getane Tat eine gute Frucht bringt.
+⟪९⟫. **⟪कर्मणः सुकृतस्य सुफलमाहुः ॥ ९ ॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी एकवचन⟫)
+It is said that a well-performed deed yields good fruit.
 
-⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-Das Geniessen der Welt ist die Pflicht der Könige.
+⟪१०⟫. **⟪महीभोगो राज्ञां धर्मः ॥ १० ॥⟫** (⟪राजन्⟫ — ⟪षष्ठी बहुवचन⟫)
+Enjoying the world is the duty of kings.
 
-⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
-Starke Elefanten soll man dem König geben.
+⟪११⟫. **⟪राज्ञे बलिनो हस्तिनो दीयेरन् ॥ ११ ॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
+One should give strong elephants to the king.
 
-⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+⟪१२⟫. **⟪ब्रह्मणा लोका असृज्यन्त ॥ १२ ॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया एकवचन⟫)
+Brahmā created the worlds.
 
-⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Selbst tut man Böses, selbst unterlässt man Böses.
+⟪१३⟫. **⟪आत्मना कृतं पापमात्मनाकृतं पापम् ॥ १३ ॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया एकवचन⟫)
+One does evil oneself, one refrains from evil oneself.
 
-⟪१४⟫. **⟪सद्भी⟫ ⟪राजभिर्जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫** (⟪राजन्⟫)
-Gute Könige schenken den Menschen Furchtlosigkeit.
+⟪१४⟫. **⟪सद्भी राजभिर्जनेभ्यो ऽभयं दीयते ॥ १४ ॥⟫** (⟪राजन्⟫)
+Good kings grant fearlessness to people.
 
-⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
-Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
+⟪१५⟫. **⟪राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥⟫** (⟪राजन्⟫)
+If kings do not uphold law and custom, people are full of fear.
 :::
 ::: media
 ![](/images/uebung063.webp)
-Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
-(Bildquelle: [Details](/licenses#uebung063))
+Fig.: ⟪राज्ञे बलिनो हस्तिनो दीयेरन्⟫
+(Image source: [Details](/licenses#uebung063))
 :::
 ---
 
-## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
+## Story: The Ten Fools (⟪दश मूढाः⟫)
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ — ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी । बाहुभ्यां तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥ आसीत्तेषां मध्ये कश्चन वृद्धः । स किं सर्वे तीरमनुप्राप्ता ईति जिज्ञासमानस्तानेकैकशो गणयामास । परं नवैव परिगणितास्तेन । ततः स आक्रोशत् । अहो वयम् दश प्रस्थिताः । इदानीं नवैव स्मः । नूनमस्माकमेको नद्यां निमग्नः । गवेषयत तमिति । ततस्तेषामेकैको ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः समजनि । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढास्तरसा समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा यूयम् । युष्माकमेकैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ⟪सर्वे⟫ ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ⟪जिज्ञासमानस्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ⟪वयम्⟫ ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ⟪स्मः⟫ ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ⟪गवेषयत⟫ ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषामेकैको⟫ ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ⟪समजनि⟫ ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढास्तरसा⟫ ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ⟪यूयम्⟫ ⟪।⟫ ⟪युष्माकमेकैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+**Translation:**
+Ten fools. The antics of fools are usually entertaining. For example: Once ten fools set out to wander around the country. After they had gone a short distance, a deep river blocked their path. Rowing with their arms, they somehow crossed the river and reached the other bank.
 
-**Übersetzung:**
-Zehn Deppen. Das Treiben von Toren ist meist unterhaltsam. So zum Beispiel: Einst sind zehn Toren aufgebrochen, um im Land herumzuschweifen. Als sie ein Stück weit gegangen waren, stellte sich ihnen ein tiefer Fluss in den Weg. Mit den Armen rudernd überquerten sie irgendwie den Fluss und gelangten ans andere Ufer.
-
-Unter ihnen war ein Alter. Er wollte wissen, ob alle ans Ufer gekommen seien, und zählte darum jeden einzelnen. Aber er zählte nur neun. Da schrie er: "Hallo! Wir sind zu zehnt aufgebrochen, jetzt sind wir nur neun! Sicherlich ist einer im Fluss ertrunken! Sucht nach ihm!" Daraufhin zählte jeder einzelne von ihnen nach. Aber es waren immer nur neun! Da wurden sie aufgeregt und es entstand ein grosses Geschrei. Nicht weit von dort war die Einsiedelei eines Ṛṣi. Der dort wohnende Weise betrachtete ihr Gebaren und lachte laut. Die Toren hörten sein Gelächter, eilten zu ihm und fragten nach dem Grund. Der Ṛṣi sagte: "Ha! Ihr kennt euch selbst nicht. Jeder einzelne von euch hat sich selbst nicht mitgezählt. Deswegen ist diese Verwirrung entstanden." Als sie das hörten, zogen die Toren beschämt und mit gesenktem Haupt ab.
+Among them was an old man. He wanted to know if everyone had reached the bank, so he counted each one individually. But he only counted nine. Then he shouted: "Hey! We set out as ten, now there are only nine of us! Surely one has drowned in the river! Search for him!" Thereupon each one of them counted again. But there were always only nine! Then they became agitated and a great uproar arose. Not far from there was the hermitage of a Ṛṣi. The sage living there observed their behavior and laughed loudly. The fools heard his laughter, rushed to him, and asked for the reason. The Ṛṣi said: "Ha! You do not know yourselves. Each of you failed to count himself. That is why this confusion arose." When they heard this, the fools departed ashamed and with bowed heads.
 

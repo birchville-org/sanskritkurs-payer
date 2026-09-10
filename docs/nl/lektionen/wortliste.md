@@ -466,18 +466,18 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+Afb.: ⟪वरुणः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+- **anṛta** o. ⟪अनृत⟫ : onwaarheid, leugen (tegenovergestelde van **satya**)
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
+  Woordvorming **an-** ("on-") + **ṛta** o.
   
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** is een centraal begrip in de Veda's, waarvan de vertaling omstreden is: "waarheid" (Lüders, Thieme), "orde" (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+- **ṛṣi** m. ⟪ऋषि⟫ : Vedische wijze, auteur van Vedische liederen
 
   ::: note-box
   De namen van deze **ṛṣi**'s worden genoemd in de Brāhmaṇa's en in afzonderlijke indexen bij de Veda's. Alle brahmanen leiden hun afkomst af van dergelijke **ṛṣi**'s, naar wie hun **gotra** (⟪गोत्र⟫) zijn genoemd. Voor het concept **gotra** zie Basham, *Wonder*, Hfdst. 5.
@@ -485,11 +485,11 @@ Abb.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+Afb.: ⟪विश्वामित्रः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : zeggen, spreken
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: acc.; naar iets: acc.)
 - **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
 ::: literatur-box
@@ -498,18 +498,18 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+Afb.: ⟪वरुणः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+- **anṛta** o. ⟪अनृत⟫ : onwaarheid, leugen (tegenovergestelde van **satya**)
 
   ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
+  Woordvorming **an-** ("on-") + **ṛta** o.
   
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  **ṛta** is een centraal begrip in de Veda's, waarvan de vertaling omstreden is: "waarheid" (Lüders, Thieme), "orde" (Renou).
   :::
 
-- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+- **ṛṣi** m. ⟪ऋषि⟫ : Vedische wijze, auteur van Vedische liederen
 
   ::: note-box
   De namen van deze **ṛṣi**'s worden genoemd in de Brāhmaṇa's en in afzonderlijke indexen bij de Veda's. Alle brahmanen leiden hun afkomst af van dergelijke **ṛṣi**'s, naar wie hun **gotra** (⟪गोत्र⟫) zijn genoemd. Voor het concept **gotra** zie Basham, *Wonder*, Hfdst. 5.
@@ -517,11 +517,11 @@ Abb.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+Afb.: ⟪विश्वामित्रः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : zeggen, spreken
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: acc.; naar iets: acc.)
 - **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
 ::: literatur-box
@@ -529,16 +529,16 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 :::
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+Afb.: ⟪वरुणः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+- **anṛta** o. ⟪अनृत⟫ : onwaarheid, leugen (tegenovergestelde van **satya**)
 
 ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
+  Woordvorming **an-** ("on-") + **ṛta** o.
   
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+  **ṛta** is een centraal begrip in de Veda's, waarvan de vertaling omstreden is: "waarheid" (Lüders, Thieme), "orde" (Renou).
+  - **ṛṣi** m. ⟪ऋषि⟫ : Vedische wijze, auteur van Vedische liederen
 
 :::
 ::: note-box
@@ -546,11 +546,11 @@ Abb.: ⟪वरुणः⟫
 :::
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+Afb.: ⟪विश्वामित्रः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : zeggen, spreken
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: acc.; naar iets: acc.)
 - **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
 ---
@@ -850,44 +850,44 @@ Afbeelding: ⟪पूजा⟫
 :::
 ⟪कुल⟫ n.: kudde, menigte, geslacht, afstamming, familie
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
+⟪इन्द्र⟫ m.: vorst, eerste, beste onder ; godenkoning Indra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505))
+Afb.: ⟪इन्द्रः⟫
+(Bron: [Details](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+⟪दास⟫ m.: slaaf, lijfeigene, dienaar
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
+⟪दासी⟫ f.: slavin, lijfeigene, dienares
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
+⟪काल⟫ m.: tijd, (juiste) tijdstip ; lot, dood ; doodsgod Kāla
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel
+⟪काल⟫ 3: zwart, blauwzwart, donker
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht
+⟪पुरुष⟫ m.: mens, man, knecht
 
 \-⟪जन⟫ als tweede lid van Tatpuruṣa's, vaak uitdrukking van het meervoud
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loven, prijzen
 
 davon:
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied
+⟪स्तुति⟫ f.: lofprijzing, loflied
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus
+⟪स्तोत्र⟫ n.: (middel tot prijzen =) loflied, hymne
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_)
+⟪सिंह⟫ m.: leeuw (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506))
+Afb.: ⟪सिंहः⟫
+(Bron: [Details](/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
+⟪व्याघ्र⟫ m.: tijger (_Panthera tigris tigris_) (letterlijk: gaper)
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507))
+Afb.: ⟪व्याघ्रः⟫
+(Bron: [Details](/licenses#lekt1507))
 :::
 ⟪इव⟫ (achtergeplaatst): als het ware, als (in vergelijkingen: ⟪व्याघ्र इव पुरुषः⟫ = "een man als een tijger", "een tijgerachtige man"
 
@@ -896,7 +896,7 @@ Abb.: ⟪व्याघ्रः⟫
 ⟪अरि⟫ m.: vijand (volgens Thieme, Der Fremdling im Ṛgveda: oorspronkelijk = vreemdeling)
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
+⟪आर्य⟫ 3: Arisch, edel ; m. Ariër (zelfaanduiding van de Sanskriet sprekende oude Indiërs, letterlijk: gastvriendelijke (Thieme)) ; edele, eervolle man
 :::
 naar ⟪जन्⟫
 

@@ -1,6 +1,7 @@
 ---
-title: Lektion 19
+title: "Lecziun 19"
 lesson_id: 19
+
 ---
 
 # Lecziun 19
@@ -88,7 +89,7 @@ Nota: En relaziuns cun in cuntegn generalmain valaivel vegn gustà d'utilisar il
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
+Fig.: ⟪कामः⟫
 Illustraziun al ⟪कामसूत्र⟫
 (Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt1809))
 :::
@@ -139,9 +140,9 @@ daquest:
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
+Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/rm/licenses#lekt1904))
+(Font dal maletg: [Details](/rm/licenses#lekt1904))
 :::
 **⟪पण्डित⟫ m.:** erudit, savant ; 3: intelligent, versé (en)
 

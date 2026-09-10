@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. classa da preschent (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Lecziun 30"
+subtitle: 'La nona classa dal present (⟪क्र्यादि⟫ = \"⟪क्री⟫ e cetera\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 30
@@ -300,7 +301,7 @@ daquest:
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
+Fig.: ⟪ज्ञातयः⟫
 Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (sursa d'imagines: [Detagls](/rm/licenses#lekt3002))
 :::
@@ -315,8 +316,8 @@ Inf. ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Detagls](/rm/licenses#lekt3003))
+Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
+(Font dal maletg: [Detagls](/rm/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : mangiar, consumar
 
@@ -329,7 +330,7 @@ Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
+Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Sudindia
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt3005))
 :::
@@ -516,4 +517,3 @@ Determinar e traducir las siguientes formas verbales:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

@@ -1,6 +1,6 @@
 ---
 title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+subtitle: "名词复合词（samāsa）的基础"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 50"
 uebung_id: 50
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,123 +7,123 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 50
+# Bài tập 50
 
-A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
+A) Ôn lại cách chia danh từ: Khổ thơ sau đây chứa tất cả các dạng biến cách ở số ít của ⟪गुरु⟫ giống đực:
 
-**⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫**  
-**⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫**  
-**⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫**  
-**⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
+**⟪गुरुरेव गतिर्गुरुमेव भजे⟫**  
+**⟪गुरुणैव सहास्मि नमो गुरवे ।⟫**  
+**⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
+**⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> Mein Lehrer ist meine Zuflucht,  
-> Meinen Lehrer verehre ich,  
-> Ich bin mit meinem Lehrer zusammen,  
-> Verehrung meinem Lehrer,  
-> Es gibt nichts Höheres als den Lehrer,  
-> Ich bin das Kind meines Lehrers,  
-> Mein Herz ist bei meinem Lehrer,  
-> Lehrer, hüte mich!
+> Thầy giáo của tôi là nơi nương tựa của tôi,  
+> Tôi tôn kính thầy giáo của mình,  
+> Tôi ở cùng với thầy giáo của tôi,  
+> Tôn kính đối với thầy giáo,  
+> Không có gì cao quý hơn thầy giáo,  
+> Tôi là con của thầy giáo tôi,  
+> Trái tim tôi ở bên thầy giáo của tôi,  
+> Thưa Thầy, xin hãy bảo vệ con!
 
 ---
 
-## B) Übersetzungen
+## B) Bản dịch
 
-### ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
+### ⟪मनुस्मृति ४⟫, ⟪१७८⟫
 
-**⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫**  
-**⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫**  
-**⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
-**⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
+**⟪येनास्य पितरो याता⟫**  
+**⟪येन याताः पितामहाः ।⟫**  
+**⟪तेन यायात्सतां मार्गम्⟫**  
+**⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> Man gehe auf dem Weg der Guten, auf dem die Väter gegangen sind, auf dem die Grossväter gegangen sind. Wenn man auf diesem Weg geht, dann erleidet man keinen Schaden.
+> Hãy đi trên con đường của những người hiền thiện, nơi các tổ phụ đã từng đi, nơi các cụ kỵ đã từng đi. Nếu ngươi đi trên con đường này, thì sẽ không gặp phải tổn hại gì.
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
+### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
-**⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫**  
-**⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫**  
-**⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
-**⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+**⟪कुविवाहैः क्रियालोपैर्⟫**  
+**⟪वेदानध्ययनेन च ।⟫**  
+**⟪कुलान्यकुलतां यान्ति⟫**  
+**⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Familien werden zu Nichtfamilien durch schlechte Heiraten, durch Unterlassen der Riten, durch Nichtstudium der Veden und durch Vergehen gegen Brahmanen.
+> Các gia đình trở thành phi gia đình do những cuộc hôn nhân xấu, do việc bỏ sót các nghi lễ, do không nghiên cứu Kinh Veda và do phạm tội với các vị Brahman.
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
+### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
-**⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫**  
-**⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫**  
-**⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
-**⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+**⟪संतुष्टो भार्यया भर्ता⟫**  
+**⟪भर्त्रा भार्या तथैव च ।⟫**  
+**⟪यस्मिन्नेव कुले नित्यम्⟫**  
+**⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> Eine Familie, in der der Gatte mit der Gattin stets zufrieden ist und die Gattin mit dem Gatten, in einer solchen Familie ist stetes Glück gewiss.
+> Một gia đình mà ở đó người chồng luôn hài lòng với người vợ và người vợ luôn hài lòng với người chồng, trong gia đình như vậy thì hạnh phúc vĩnh cửu là điều chắc chắn.
 
 ::: media
 ![](/images/uebung081.webp)
-Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung081))
+Abb.: ⟪संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च । यस्मिन्नेव कुले नित्यम् कल्याणं तत्र वै ध्रुवम् ॥⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung081))
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
+### ⟪मनुस्मृति ३⟫, ⟪७५⟫ - ⟪७६⟫: Về sự cần thiết của hy sinh
 
-**⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
-**⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
-**⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫**  
-**⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+**⟪स्वाध्याये नित्ययुक्तः स्याद्⟫**  
+**⟪दैवे चैवेह कर्मणि ।⟫**  
+**⟪दैवे कर्मणि युक्तो हि⟫**  
+**⟪बिभर्तीदं चराचरम् ॥ ४ ॥⟫**
 
-**⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫**  
-**⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫**  
-**⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
-**⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+**⟪अग्नौ प्रास्ताहुतिः सम्यग्⟫**  
+**⟪आदित्यमुपतिष्ठते ।⟫**  
+**⟪आदित्याज्जायते वृष्टिर्⟫**  
+**⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Man engagiere sich stets im Vedastudium und in den Riten für die Götter. Wer sich in den Riten für die Götter engagiert, erhält nämlich diese Welt aus Belebtem und Unbelebtem. Das Opfer, das in rechter Weise ins Feuer geworfen wird, geht zur Sonne, aus der Sonne entsteht Regen, aus Regen Speise, daraus die Geschöpfe.
+> Hãy luôn tham gia vào việc nghiên cứu Veda và các nghi lễ dành cho các vị thần. Bởi vì, người tham gia vào các nghi lễ dành cho các vị thần sẽ đạt được thế giới này gồm cả sinh vật và phi sinh vật. Hy sinh, khi được ném vào lửa một cách chính xác, sẽ đi đến mặt trời; từ mặt trời sinh ra mưa; từ mưa sinh ra lương thực; và từ lương thực sinh ra các sinh vật.
 
 ::: media
 ![](/images/uebung082.webp)
-Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung082))
+Abb.: ⟪दैवे कर्मणि युक्तो हि बिभर्तीदं चराचरम् ॥⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung082))
 :::
 ---
 
-### ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
+### ⟪योगसूत्र २⟫, ⟪१६⟫ - ⟪१७⟫
 
-**⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-**⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+**⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
+**⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Aufzugeben ist das zukünftige Leiden.  
-> Ursache dieses Aufzugebenden ist die Verbindung von Sehendem und Sichtbarem [= Wahrnehmendem und Wahrnehmbarem].
+> Cần phải từ bỏ nỗi khổ trong tương lai.  
+> Nguyên nhân của sự từ bỏ này là mối liên kết giữa người thấy và cái được thấy [= người nhận thức và đối tượng nhận thức].
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+### ⟪कौटिलीयार्थशास्त्र १⟫, ⟪१५⟫: Về những cố vấn của vua
 
-**⟪न⟫ ⟪किंचिदवमन्येत⟫**  
-**⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
+**⟪न किंचिदवमन्येत⟫**  
+**⟪सर्वस्य शृणुयान्मतम् ।⟫**  
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
-**⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+**⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Der König] soll nichts verschmähen, er höre die Meinung eines jeden. Ein Gelehrter eignet sich auch das Wort eines Knaben an, wenn es bedeutsam ist.
+> [Vị vua] không nên khinh thường điều gì, hãy lắng nghe ý kiến của mọi người. Một học giả cũng tiếp thu lời nói của một đứa trẻ, nếu nó có ý nghĩa.
 
 ---
 
-### ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+### ⟪मनुस्मृति २⟫, ⟪१४०⟫ - ⟪१४२⟫: Định nghĩa về ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
-**⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫**  
-**⟪वेदमध्यापयेद्द्द्विजः⟫ ⟪।⟫**  
-**⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
-**⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+**⟪उपनीय तु यः शिष्यं⟫**  
+**⟪वेदमध्यापयेद्द्द्विजः ।⟫**  
+**⟪सकल्पं सरहस्यं च⟫**  
+**⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya** nennt man den Zweimalgeborenen, der dem Schüler Upanayana gibt und ihn dann den Veda, das Ritual und die Geheimlehre lehrt.
+> **Ācārya** là người được gọi là Đấng Sinh Lại Lần Thứ Hai, người ban Upanayana cho học sinh và sau đó dạy ông ấy Veda, nghi lễ và giáo lý bí truyền.
 
-**⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
-**⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
-**⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
-**⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
+**⟪एकदेशं तु वेदस्य⟫**  
+**⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
+**⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
+**⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya** nennt man den, der um seines Lebensunterhalts willen einen Teil des Veda oder die Hilfswissenschaften lehrt.
+> **Upādhyāya** là người được gọi là người dạy một phần Veda hoặc các môn học phụ trợ vì mục đích sinh sống.
 
-**⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
-**⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  
-**⟪संभावयति⟫ ⟪चान्नेन⟫**  
-**⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
+**⟪निषेकादीनि कर्माणि⟫**  
+**⟪यः करोति यथाविधि ।⟫**  
+**⟪संभावयति चान्नेन⟫**  
+**⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru** nennt man den Brahmanen, der vorschriftsgemäss Niṣeka und die anderen Rituale vollzieht und ihn durch Speise entstehen lässt.
+> **Guru** là người Brahmana, người thực hiện đúng nghi thức Niṣeka và các nghi lễ khác, và làm cho học trò được sinh ra nhờ thức ăn.

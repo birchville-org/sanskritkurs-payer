@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "ਪਾਠ 25"
+subtitle: 'ਅਪਦਾਨ ਦਾ ਗਠਨ (⟪पञ्चमी⟫ = "ਪੰਜਵਾਂ ਵਿਭਕਤੀ ਅੰਤ")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 25

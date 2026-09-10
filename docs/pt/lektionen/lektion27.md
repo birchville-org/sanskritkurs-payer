@@ -1,10 +1,11 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Lição 27"
+subtitle: 'Uso do locativo (⟪सप्तमी⟫ f. = "sétima terminação casuística")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 27
@@ -31,7 +32,7 @@ status: stable
 ![](/images/lekt2701.webp)
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Fonte da imagem: [Detalhes](/licenses#lekt2701))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2701))
 :::
 
 ::: grammar-box
@@ -61,7 +62,7 @@ Jaipur, 1875.
 ![](/images/lekt2702.webp)
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
-(Fonte da imagem: [Detalhes](/licenses#lekt2702))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2702))
 :::
 
 ::: grammar-box
@@ -75,7 +76,7 @@ Rajasthan.
 ![](/images/lekt2703.webp)
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
-(Fonte da imagem: [Detalhes](/licenses#lekt2703))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2703))
 :::
 
 ::: grammar-box
@@ -122,7 +123,7 @@ Mais sobre o uso do locativo posteriormente.
 | Feminino:brLocativo Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Temas vocálicos
+### 27.2.3. Temáticas Vocálicas
 
 ::: grammar-box
 
@@ -133,24 +134,24 @@ Mais sobre o uso do locativo posteriormente.
 | ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ ou ⟪श्रुत्याम्⟫ :br(i.e., seja como **kavi** :br⟪कवि⟫ ou seja como **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
 | ⟪धेनु⟫ f. | ⟪धेनौ⟫ ou ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
-## 27.3. Visão geral das desinências de caso regulares (⟪विभक्ति⟫)
+## 27.3. Visão geral das desinências casuais regulares (⟪विभक्ति⟫)
 
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ || Plural:br⟪बहुवचनम्⟫ ||
-| | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ |
+| | Masculino / Feminino:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutro:br⟪नपुंसकम्⟫ | Masculino / Feminino:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutro:br⟪नपुंसकम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
-| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
-| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
-| **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
-| **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
-| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
-| **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
+| **1. Nominativo** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
+| **2. Acusativo** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
+| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
+| **4. Dativo** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
+| **5. Ablativo** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
+| **6. Genitivo** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
+| **7. Locativo** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
 **Impresso em vermelho vivo**: casos fortes (na gradação do radical).
@@ -161,7 +162,7 @@ Mais sobre o uso do locativo posteriormente.
 ![](/images/lekt2708.webp)
 Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
-(Fonte da imagem: [Detalhes](/licenses#lekt2708))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2708))
 :::
 :sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
 :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
@@ -213,7 +214,7 @@ daí:
 ![](/images/lekt2706.webp)
 Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Fonte da imagem: [Detalhes](/licenses#lekt2706))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2706))
 :::
 ⟪वस्⟫ 6P (⟪उच्छति⟫): brilhar, resplandecer (esta raiz é importante devido às formações nominais:)
 
@@ -226,7 +227,7 @@ Vastrāṇi. Majuli, Assam.
 ![](/images/lekt2707.webp)
 Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Fonte da imagem: [Detalhes](/licenses#lekt2707))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2707))
 :::
 ⟪हृ⟫ 1U (⟪हरति⟫): segurar, carregar; buscar, tirar, roubar
 
@@ -251,14 +252,14 @@ Contraparte de ⟪हर⟫:
 ![](/images/lekt2704.webp)
 Fig.: ⟪हरिहरः⟫
 Harihara (esquerda: Viṣṇu, direita: Śiva).
-(Fonte da imagem: [Detalhes](/licenses#lekt2704))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
 Fig.: ⟪हरिहरः⟫
 Harihara (esquerda: Viṣṇu, direita: Śiva). Godrumdwip, Bengala Ocidental.
-(Fonte da imagem: [Detalhes](/licenses#lekt2705))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2705))
 :::
 ## 27.6. Exercício
 
@@ -278,7 +279,7 @@ Harihara (esquerda: Viṣṇu, direita: Śiva). Godrumdwip, Bengala Ocidental.
 ![](/images/lekt2709.webp)
 Fig.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Pintura de Rāja Ravi Varmā (1848 - 1906).
-(Fonte da imagem: [Detalhes](/licenses#lekt2709))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2709))
 :::
 ⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
@@ -315,7 +316,7 @@ Pintura de Rāja Ravi Varmā (1848 - 1906).
 ![](/images/lekt2711.webp)
 Fig.: ⟪नराः⟫
 Naran. Udaipur.
-(Fonte da imagem: [Detalhes](/licenses#lekt2711))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2711))
 :::
 ### 27.7.2. Neutros em -a: ⟪फल⟫
 
@@ -336,7 +337,7 @@ Naran. Udaipur.
 ![](/images/lekt2710.webp)
 Fig.: ⟪फलानि⟫
 Frutas. Bangalore.
-(Fonte da imagem: [Detalhes](/licenses#lekt2710))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2710))
 :::
 ### 27.7.3. Femininos em -ā: ⟪क्षत्रिया⟫
 
@@ -357,7 +358,7 @@ Frutas. Bangalore.
 ![](/images/lekt2718.webp)
 Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) com o seu neto, o Príncipe Jaya Chamaraja Wadiyar, Mysore.
-(Fonte da imagem: [Detalhes](/licenses#lekt2718))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2718))
 :::
 ### 27.7.4. Masculinos em -i: ⟪अरि⟫
 
@@ -378,7 +379,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) com o seu neto, o Príncipe Jaya C
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
 Enforcamento de dois participantes da Rebelião de 1857. Fotografia de Felice Beato (1833/1834 - ca. 1907).
-(Fonte da imagem: [Detalhes](/licenses#lekt2712))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2712))
 :::
 ### 27.7.5. Femininos em -i: ⟪मति⟫
 
@@ -414,7 +415,7 @@ Enforcamento de dois participantes da Rebelião de 1857. Fotografia de Felice Be
 ![](/images/lekt2713.webp)
 Fig.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Fonte da imagem: [Detalhes](/licenses#lekt2713))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2713))
 :::
 ### 27.7.7. Femininos em -u: ⟪धेनु⟫
 
@@ -435,7 +436,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 ![](/images/lekt2714.webp)
 Fig.: ⟪धेनुः⟫
 Vaca em Udaipur.
-(Fonte da imagem: [Detalhes](/licenses#lekt2714))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2714))
 :::
 ### 27.7.8. Femininos polissilábicos em -ī: ⟪देवी⟫
 
@@ -456,7 +457,7 @@ Vaca em Udaipur.
 ![](/images/lekt2715.webp)
 Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Fonte da imagem: [Detalhes](/licenses#lekt2715))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2715))
 :::
 ### 27.7.9. Particípio Presente Parasmaipada em -ant: ⟪सन्त्⟫
 
@@ -477,7 +478,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 ![](/images/lekt2716.webp)
 Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Fonte da imagem: [Detalhes](/licenses#lekt2716))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
@@ -586,7 +587,7 @@ Sai Baba of Shirdi (1835 - 1918).
 ![](/images/lekt2717.webp)
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Fonte da imagem: [Detalhes](/licenses#lekt2717))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2717))
 :::
 
 

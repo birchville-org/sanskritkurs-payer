@@ -94,7 +94,7 @@ Die 2.sg.P Imperatief is onbepaald by wortels van die vyfde en agste klas, waar 
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Wortstammen van die 9de klas wat op 'n konsonant eindig, vervang die uitgangende -nī-hi van die 2.sg.P imperatief met -āna
+Woordstamme van die 9de klas wat op 'n konsonant eindig, vervang die uitgang -nī-hi van die 2.sg.P imperatief met -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -170,7 +170,7 @@ Substantiewe wat op -is en -us eindig, is relatief skaars.
 
 ::: media
 ![](/images/lekt4907.webp)
-Fig.: ⟪नमस्ते⟫
+Afb.: ⟪नमस्ते⟫
 (Beeldbron: [Details](/af/licenses#lekt4907))
 :::
 ## 49.4. Woordelys

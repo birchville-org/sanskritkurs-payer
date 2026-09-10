@@ -2,32 +2,34 @@
 layout: home
 
 hero:
-  name: Sanskritkurs
-  text: Ein vollständiger Lehrgang
-  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
+  name: "Sanskritkursus"
+  text: "'n Volledige Leerloopbaan"
+  tagline: "deur Alois Payer (Tüpfli se Globale Dorpbiblioteek)"
   actions:
     - theme: brand
-      text: Kurs Starten
+      text: "Begin Kursus"
       link: /af/lektionen/lektion01
     - theme: alt
-      text: Grammatik Themen
+      text: "Grammatika Tipes"
       link: /af/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+  - title: "Globaal & Polyglot"
+    details: "Volledig beskikbaar in 20+ tale deur 'n outomatiese, meertrappige KI-vertalingkaskade."
+  - title: "Offline-Eerste PWA"
+    details: "Die hele kursus (insluitend plaaslike soekmasjien) is op alle eindtoestelle sonder 'n aktiewe internetverbinding beskikbaar."
+  - title: "Wetenskaplike Tipografie"
+    details: "Inheemse ondersteuning vir Devanāgarī en IAST-transliterasie met presiese akademiese teksuitlyning."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+Die **Sanskrit-kursusse** van Alois Payer is 'n omvattende, wetenskaplik gefundeerde kursus vir die aanleer van die Sanskrit-taal en die Devanāgarī-skrif. Hierdie digitale uitgawe bied die volledige kursus aan in 'n moderne, meertalige en deursoekbare leesomgewing.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Die tale is met behulp van 'n meertrappige KI-kaskade outomaties uit Duits vertaal. Terugvoer aangaande vertaalfoute is baie welkom.
+
+**Kontak & Samewerking**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Projek-Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Redigeerders**: Aanlyn-redigeerder beskikbaar via [QA](/qa_viewer.html){target="_blank"} (Slegs-lees, Skryf met wagwoord)
+**Huidige weergawe**: v1.7.4
 :::

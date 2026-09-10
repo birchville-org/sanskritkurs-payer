@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Oppitunti 7"
+subtitle: "Verbilause, jossa on suora objekti"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 7

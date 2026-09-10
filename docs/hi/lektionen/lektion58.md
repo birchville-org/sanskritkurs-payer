@@ -1,10 +1,11 @@
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "पाठ 58"
+subtitle: "द्विवचन के प्राथमिक प्रत्यय (⟪⟪द्विवचनम्⟫⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ ५८
@@ -457,4 +458,3 @@ B) निम्नलिखित रूपों का अनुवाद औ�
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

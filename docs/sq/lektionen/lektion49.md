@@ -1,52 +1,53 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Mësimi 49"
+subtitle: "Formimi i Imperativit (⟪लोट्⟫) për rrënjët e prezencit pa temë (Vazhdimi)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 49
 
-## 49.1. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
+## 49.1. Formimi i Imperativit (⟪लोट्⟫) steme prezensi athematikë (Vazhdimi)
 
-### 49.1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
+### 49.1.1. Klasa e shtatë prezensi (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+| **Personi i 1-të** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **Personi i 2-të** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **Personi i 3-të** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+| **Personi i 1-të** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **Personi i 2-të** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **Personi i 3-të** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 49.1.2. Klasa e pestë prezensi (⟪स्वादि⟫)
 
 ::: grammar-box
-Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht.
+Imperativi 2.sg. është pa përfundim te rrënjët e klasës së pestë dhe të tetë, kur pas -u-së përfundimtare të mbiemrit ndodhet vetëm një konsonant.
 :::
 ⟪सु⟫ 5U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+| **Personi i 1-të** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **Personi i 2-të** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **Personi i 3-të** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
 
@@ -58,7 +59,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Präsensklasse (⟪तनादि⟫)
+### 49.1.3. Klasa e tetë e prezencit (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -80,7 +81,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪कुरु⟫] | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 49.1.4. Klasa e nëntë e prezencit (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -93,7 +94,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna
+Rrënjët e klasës së 9-të, që përfundojnë me konsonant, zëvendësojnë -nī-hin përfundor të 2.sg.P Imperativ me -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -101,16 +102,16 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| **Personi 1** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **Personi 2** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
+| **Personi 3** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Deklination der Nominalstämme auf -as, -is, -us
+## 49.2. Deklinimi i rrënjëve emërore me -as, -is, -us
 
-#### Neutra (⟪नपुंसक⟫)
+#### Neutrale (⟪नपुंसक⟫)
 
 ::: grammar-box
-| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
+| | **⟪मनस्⟫ n.** :br"mendim" | **⟪हविस्⟫ n.** :br"hije flijimi" | **⟪चक्षुस्⟫ n.** :br"sy" |
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
@@ -127,12 +128,12 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫)
+#### Maskuline (⟪पुंस्⟫) dhe Feminoze (⟪स्त्री⟫)
 
-Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied.
+Shumica e rasteve janë ⟪बहुव्रीहि⟫ me një rrënjë -s (neutrale origjinale) në pjesën e dytë.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
+| | **⟪सुमनस्⟫ 3** :br"nga mendjem të mirë, mikpritës | **⟪दीर्घायुस्⟫ 3** :br"jetëgjatë" |
 | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
@@ -140,7 +141,7 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Singular wie Neutrum
+Rastet e tjera të numrit singular si Neutrumi
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
@@ -149,50 +150,50 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Plural wie Neutrum
+Rastet e tjera të numrit plural si Neutrumi
 :::
-## 49.3. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
+## 49.3. Formimi i emrave: Sufiksi ⟪कृत्⟫-as Neutrum
 
-Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen).
+Me sufiksin ⟪कृत्⟫-as Neutrum formohen numëroshëm emra. Zakonisht janë abstrakte ose nomina actionis (fjalë që përshkruajnë veprimin).
 
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe.
+Zëri i shkurtër i rrënjës përpara një konsonante të thjeshtë dhe zëri përfundimtar i rrënjës shfaqen në shkallën e lartë.
 
-Beispiele:
+Shembuj:
 
 ::: grammar-box
-| Wurzel | Nomen auf -as |
+| Rrënja | Emri me -as |
 | --- | --- |
-| ⟪मन्⟫ 4Ā "denken" | ⟪मनस्⟫ n. "Denken, Gedanke, Denkorgan" |
-| ⟪नम्⟫ 1P "beugen" | ⟪नमस्⟫ n. "Verbeugung, Verehrung" |
-| ⟪चित्⟫ 1P "wahrnehmen, denken" | ⟪चेतस्⟫ n. "Einsicht" |
+| ⟪मन्⟫ 4Ā "mendoj" | ⟪मनस्⟫ n. "Mendim, mendim, organ mendor" |
+| ⟪नम्⟫ 1P "përkul" | ⟪नमस्⟫ n. "Përkulje, nderim" |
+| ⟪चित्⟫ 1P "perceptoj, mendoj" | ⟪चेतस्⟫ n. "Ndërgjegjësim" |
 :::
-Nomina auf -is und -us sind relativ selten.
+Emrat me -is dhe -us janë relativisht të rrallë.
 
 ::: media
 ![](/images/lekt4907.webp)
-Abb.: ⟪नमस्ते⟫
-(Bildquelle: [Details](/licenses#lekt4907))
+Fig.: ⟪नमस्ते⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4907))
 :::
-## 49.4. Wortliste
+## 49.4. Fjalori
 
-⟪दीर्घ⟫ 3: lange
+⟪दीर्घ⟫ 3: i gjatë
 
-⟪ह्रस्व⟫ 3: kurz
+⟪ह्रस्व⟫ 3: i shkurtër
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+⟪आयुस्⟫ n.: Kohëzgjatja e jetës (koha e plotë e jetesës që mund të jetojë dikush, nëse asgjë nuk ndërhyr);
 
 ::: indent
-davon:
+prej tij:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: Sistemi tradicional mjekësor i Indisë
 
-siehe:
+shihet:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Tekste të zgjedhura nga Carakasaṃhitā / përkthyer dhe shpjeguar nga Alois Payer (1944–). -- 0. Hyrje. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : hedh, shpërndaj
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -204,83 +205,81 @@ Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : ec shpejt
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : dëmtoj
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: kuriozitet, interes
 
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: plotësisht, i plotë
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: njohuri
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: art
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, shek. 11
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: dëshirë
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: dhe, edhe, ose
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: shpend ("në ëndrrën e ajrës - ⟪विह⟫ - duke shkuar")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: veshje, pamje, dukuri e jashtme
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+Abb.: ⟪वेषः वाराणस्याम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: mbulë, fshehje
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: kafaz
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+Fig.: ⟪पञ्जरम्⟫
+Parashitës me papagall në kafaz: papagalli tërheq fletëza ku shkruhet fati Mysore
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: niveli më i ulët i [Dalitëve](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Indekl.: vetë, nga vetvetiu
 
-⟪अवनि⟫ f.: Erde
+⟪अवनि⟫ f.: tokë
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
+⟪मुहूर्त⟫ m.,n.: çast, moment, momenti i duhur
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : imagjinoj, mendoj
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
@@ -291,84 +290,82 @@ PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.: kujdes, vëmendje, respekt
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3: më i largëti, më i larti ; ⟪पञ्चम्या⟫ : më mirë se, më lart se
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.: fëmijë, i ri
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Fig.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4906))
 :::
-## 49.5. Wiederholungsübung zur Formenlehre
+## 49.5. Ushtrim përsëritës për morfologjinë
 
-Bestimmen Sie folgende Formen:
+Përcaktoni format e mëposhtme:
 
-1.  ⟪गृहाणि⟫
-2.  ⟪नमानि⟫
-3.  ⟪नामानि⟫
-4.  ⟪नामनि⟫
-5.  ⟪मत्यै⟫
-6.  ⟪मन्यै⟫
-7.  ⟪मान्यै⟫
-8.  ⟪मान्यैः⟫
-9.  ⟪अहम्⟫
-10.  ⟪अहन्⟫
-11.  ⟪आत्थ⟫
-12.  ⟪आत्त⟫
-13.  ⟪आध्वम्⟫
-14.  ⟪अत्थ⟫
-15.  ⟪ते⟫
-16.  ⟪स्थ⟫
-17.  ⟪तस्थ⟫
-18.  ⟪तस्य⟫
-19.  ⟪दाता⟫
-20.  ⟪तता⟫
-21.  ⟪तथा⟫
-22.  ⟪तदा⟫
-23.  ⟪तुद⟫
-24.  ⟪शेकिथ⟫
-25.  ⟪अनृतम्⟫
-26.  ⟪अदूष्यः⟫
-27.  ⟪अदुष्यः⟫
-28.  ⟪त्वत्⟫
-29.  ⟪यदि⟫
-30.  ⟪यति⟫
-31.  ⟪याति⟫
-32.  ⟪यातुः⟫
-33.  ⟪यतः⟫
-34.  ⟪यातः⟫
-35.  ⟪आसीथाः⟫
-36.  ⟪वक्थ⟫
-37.  ⟪बन्धनीय⟫
-38.  ⟪गायी⟫
-39.  ⟪मय्हम्⟫
+1. ⟪गृहाणि⟫
+2. ⟪नमानि⟫
+3. ⟪नामानि⟫
+4. ⟪नामनि⟫
+5. ⟪मत्यै⟫
+6. ⟪मन्यै⟫
+7. ⟪मान्यै⟫
+8. ⟪मान्यैः⟫
+9. ⟪अहम्⟫
+10. ⟪अहन्⟫
+11. ⟪आत्थ⟫
+12. ⟪आत्त⟫
+13. ⟪आध्वम्⟫
+14. ⟪अत्थ⟫
+15. ⟪ते⟫
+16. ⟪स्थ⟫
+17. ⟪तस्थ⟫
+18. ⟪तस्य⟫
+19. ⟪दाता⟫
+20. ⟪तता⟫
+21. ⟪तथा⟫
+22. ⟪तदा⟫
+23. ⟪तुद⟫
+24. ⟪शेकिथ⟫
+25. ⟪अनृतम्⟫
+26. ⟪अदूष्यः⟫
+27. ⟪अदुष्यः⟫
+28. ⟪त्वत्⟫
+29. ⟪यदि⟫
+30. ⟪यति⟫
+31. ⟪याति⟫
+32. ⟪यातुः⟫
+33. ⟪यतः⟫
+34. ⟪यातः⟫
+35. ⟪आसीथाः⟫
+36. ⟪वक्थ⟫
+37. ⟪बन्धनीय⟫
+38. ⟪गायी⟫
+39. ⟪मय्हम्⟫
 
-## 49.6. Übersetzungsübung
+## 49.6. Ushtrim përkthimi
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
+⟪बान⟫ (shek. VII pas Krishtit): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, fq. 35f.
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
+Pyetjet e mbretit ⟪शूद्रक⟫ nga ⟪विदिशा⟫ te papagalli ⟪वैशम्पायन⟫:
 
-⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
-
-⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
+⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति । वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫
 
 ::: media
 ![](/images/lekt4908.webp)
-Abb.: ⟪शुकः⟫
-Pflaumenkopfsittich = Psittacula cyanocephala
-(Bildquelle: [Details](/licenses#lekt4908))
+Fig.: ⟪शुकः⟫
+Papagalli me kokë pjeshke = Psittacula cyanocephala
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4908))
 :::
 

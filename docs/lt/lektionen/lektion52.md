@@ -1,21 +1,22 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Pamoka 52"
+subtitle: "Vidurinės giminės kamienai su -i ir -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. Viduritis kamienų su -i ir -u
 
 ::: grammar-box
-**Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
+**Prie balsiu prasidedančių galūnių įterpiamas -n-, tai yra n-kamienų (-in) poveikis.**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| | **⟪वारि⟫ n.:br"vanduo"** | **⟪मधु⟫ n.:br"dangos medus"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -33,243 +34,234 @@ status: stable
 | ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-## 52.2. Nominalbildung
+## 52.2. Daiktavardžių daryba
 
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-
-::: grammar-box
-**Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:**
-
-**PPP + -vant / fem.: vatī**
-**Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫**
-:::
-PPP + -vant / fem.: vatī
-
-Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫
-
-Beispiele:
-
-::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat"
-
-⟪भिन्नवन्त्⟫ "einer, der gespalten hat"
-:::
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+### 52.2.1. PPP + -vant: Esamasis dalyvis Parasmaipada
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung**
+**Esamasis Parasmaipada dalyvis sudaromas taip:**
 
-*   **"gemacht aus"**
-*   **"bestehend aus"**
-*   **"reich an"**
-
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.**
+**PPP + -vant / mot. g.: vatī**
+**Linksniavimas kaip -vant kamienų arba mot. g. ⟪देवी⟫**
 :::
-Beispiele:
+PPP + -vant / mot. g.: vatī
+
+Linksniavimas kaip -vant kamienų arba mot. g. ⟪देवी⟫
+
+Pavyzdžiai:
 
 ::: indent
-⟪अन्नमय⟫ 3 "reich an Speise"
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "tas, kuris padarė"
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend"
+⟪भिन्नवन्त्⟫ "tas, kuris padalijo"
+:::
+### 52.2.2. ⟪तद्धित⟫-galūnė -maya / -mayī
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend"
+::: grammar-box
+**⟪तद्धित⟫-galūnė -maya / mot. g.: -mayī sudaro iš daiktavardžių būdvardžius, reiškiančius**
 
-⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend"
+*   **"pagamintas iš"**
+*   **"sudarytas iš"**
+*   **"turtingas"**
+
+**Prieš -maya (kaip ir prieš -⟪मात्र⟫) besibaigiantys uždarieji garsai pauzės formoje turi būti pakeisti atitinkamu nosiniu.**
+:::
+Pavyzdžiai:
+
+::: indent
+⟪अन्नमय⟫ 3 "turtingas maistu"
+
+⟪चिन्मय⟫ 3 (nuo ⟪चित्⟫ f. "protas") "sudarytas iš mąstymo / proto"
+
+⟪वाङ्मय⟫ 3 (nuo ⟪वाच्⟫ f. "kalba") "sudarytas iš kalbos"
+
+⟪सोममय⟫ 3 "padarytas iš somos, sudarytas iš somos"
 :::
 ::: grammar-box
-**Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.**
+**Daiktavardžiai su -maya kartais vartojami kaip viduriniojo giminės daiktavardžiai ir tada reiškia perteklių to, ką nurodo daiktavardis, prie kurio pridedamas -maya.**
 :::
 ::: indent
-z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise"
+pvz. ⟪अन्नमय⟩ n. "perteklius maistu"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Abb.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt5202))
+Pav.: ⟪अन्नमयम् विवाहः⟫, Čenajis = சென்னை
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫-priesaga -eya
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von**
+**⟪तद्धित⟫-priesaga -eya / f.: -eyī, tarp kita ko, pridedama prie moteriškosios giminės daiktavardžių reikšme**
 
-*   **"Kind der"**
-*   **"Nachkomme der"**
+*   **"vaikas"**
+*   **"palikuonis"**
 
-**Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.**
+**Ilgosios formos (⟪वृद्धि⟫) pirmojo balsio.**
 
-z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫"
+pvz. ⟪कौन्तेय⟫ m. "⟪कुन्ती⟫ sūnus"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang-Figur, Java, Indonesien
-(Bildquelle: [Details](/licenses#lekt5203))
+Pav.: ⟪भीमः कौन्तेयः⟫
+Wayang figūra, Java, Indonezija
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5203))
 :::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+## 52.3. Prieveiksmio formavimas: prieveiksmio priesaga -śas
 
 ::: grammar-box
-**Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:**
+**Prieveiksmio priesaga -śas sudaro prieveiksnius iš (daugiausia) pasiskirstymo reikšmės:**
 
-*   **Zahlwörtern**
-    Beispiele:  
-:::
-::: indent
-⟪एकशस्⟫ "einzeln, je einer"
-⟪द्विशस्⟫ "zu zweien, je zwei"
-⟪शतशस्⟫ "zu hunderten, je hundert"
-:::
+*   **Skaitvardžių**  
+Pavyzdžiai:  
+⟪एकशस्⟫ "atskirai, po vieną"  
+⟪द्विशस्⟫ "po du, po dvi"  
+⟪शतशस्⟫ "po šimtus, po šimtą"
 
-*   **anderen Wörtern**
-    Beispiele:  
-::: indent
-⟪भागशस्⟫ "Teil für Teil"
-⟪सर्वशस्⟫ "überall, gar alle"
-⟪नित्यशस्⟫ "beständig"
+*   **kitų žodžių**  
+Pavyzdžiai:  
+⟪भागशस्⟫ "po dalį"  
+⟪सर्वशस्⟫ "visur, visiškai"  
+⟪नित्यशस्⟫ "nuolat"
 :::
 ::: media
 ![](/images/lekt5204.webp)
-Abb.: ⟪अनुक्रमेणैकशः⟫
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Bildquelle: [Details](/licenses#lekt5204))
+Pav.: ⟪अनुक्रमेणैकशः⟫
+Eilinė prie šventyklos, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5204))
 :::
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
+## 52.4. Veiksmažodinės sudėtinės, reiškiančios, kad kas nors tampa tuo, kuo anksčiau nebuvo (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. cvi formacijos
 
 ::: grammar-box
-**Vor die Wurzeln**
+**Prie šaknų**
 
-*   **⟪कृ⟫ 8U "tun"**
-*   **⟪अस्⟫ 2P "sein"**
-*   **⟪भू⟫ 1P "werden"**
+*   **⟪कृ⟫ 8U "daryti"**
+*   **⟪अस्⟫ 2P "būti"**
+*   **⟪भू⟫ 1P "tapti"**
 
-**können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird.**
+**gali būti dedami daiktavardžiai ir būdvardžiai kaip priešdėliai, norint išreikšti, kad kas nors tampa tuo, ką žymi tas daiktavardis, arba kad asmuo ar dalykas tampa tuo, ką žymi tas daiktavardis.**
 
-**Der Auslaut des Nomens wird folgendermassen behandelt:**
+**Galūnė yra apdorojama taip:**
 
-Der Auslaut des Nomens wird folgendermassen behandelt:
 
-*   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  **
-    Beispiele:  
+Galūnė yra apdorojama taip:
+
+*   **galūninis -a ir -ā linksniuojamų žodžių yra pakeičiami į -ī  **
+Pavyzdžiai:  
+⟪कृष्णीभवति⟫ "kas nors, kas nėra juoda, tampa juoda"  
+⟪कृष्णीकरोति⟫ "jis daro ką nors, kas nėra juoda, juodą"  
+⟪गङ्गीभवति⟫ "jis/ji tampa Ganga"  
+
+*   **galūninis -i ir -u yra pakeičiami atitinkamu ilguoju balsiu  **
+Pavyzdžiai:  
+⟪शुचीभवति⟫ "jis/ji/es tampa švarus"  
+⟪गुरूभवामि⟫ "aš tampu mokytoju"  
+
+*   **galūninis -ṛ yra pakeičiamas į --rī  **
+pvz. ⟪पित्रीभवति⟫ "tas, kuris nėra tėvas (⟪पितृ⟩), tampa tėvu = vyras gauna savo pirmagimį"  
+
+*   **galūninis -n nukrenta, o prieš tai esantis balsius apdorojama pagal aukščiau paminėtas taisykles  **
+pvz. ⟪राजीबभूव⟫ "tas, kuris nebuvo karalius (⟪राजन्⟩), tapo karaliumi"
+
+*   **Kitos daugiakamienės nominacijos stovi kamieno forma, kurią jos turi lokatyve (⟪सप्तमी⟫) daugiskaitoje. Kamienas tada paklūsta įprastiems sandhos taisyklėms. Žr. Kielhorn, Gramatika § 489,3.**
+pvz. ⟪तिर्यक्करोति⟫ "jis deda į šoną (⟪तिर्यच्⟫)"
 :::
-::: indent
-⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
-⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
-⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"
-:::
-
-*   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  **
-    Beispiele:  
-::: indent
-⟪शुचीभवति⟫ "er/sie/es wird rein"
-⟪गुरूभवामि⟫ "ich werde Meister"
-:::
-
-*   **auslautendes -ṛ wird durch --rī ersetzt  **
-    z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"
-
-*   **auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt  **
-    z.B. ⟪राजीबभूव⟫ "einer (der nicht König war) wurde König (⟪राजन्⟫)"
-
-*   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  **
-    z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
 ::: media
 ![](/images/lekt5209.webp)
-Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5209))
+Pav.: ⟪भस्मीकृतं वनम्⟫
+Kirtinė žemdirbystė, Arunachalo Pradešas = ⟪अरुणाचल प्रदेश⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5209))
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. Priesaga -sāt
 
 ::: grammar-box
-**Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen**
+**Norint išreikšti, kad asmuo ar daiktas visiškai tampa tuo, arba kad kas nors ką nors ar kažką daro visai tuo, ką nurodo daiktavardis, prie daiktavardžio**
 
-**das Suffix -sāt (das nie -ṣāt wird)**
+**galima pridėti priesagą -sāt (ji niekada netampa -ṣāt)**
 
-**angefügt werden und das so gebildete Wort mit den Wurzeln**
+**ir taip sudarytas žodis turi būti sujungtas su šaknimis**
 
-*   ⟪कृ⟫ 8U "tun"
-*   ⟪अस्⟫ 2P "sein"
-*   ⟪भू⟫ 1P "werden"
+*   ⟪कृ⟫ 8U "daryti"
+*   ⟪अस्⟫ 2P "būti"
+*   ⟪भू⟫ 1P "tapti"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**zu einem Verbalkompositum verbunden werden.**
+**į veiksminę sudėtinę.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "jis visiškai tampa ugnimi"
 
-⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche"))
+⟪भस्मसात्करोति⟫ "jis visiškai paverčia pelenais (⟪भस्मन्⟩ n. "pelenai"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Kartais priesaga -sāt reiškia, kad asmuo ar daiktas**
 
-*   **von dem abhängig wird oder**
-*   **in den Besitz dessen übergeht**
-*   **oder dass jemand von dem abhängig macht**
 
-**das vom Nomen bezeichnet wird**
+*   **tampa priklausomas nuo to arba**
+*   **perima nuosavybę tam**
+*   **arba kad kas nors daro priklausomą nuo to**
+
+**ką nurodo daiktavardis**
 :::
-Beispiel:
+Pavyzdys:
 
 ::: indent
-⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs"
+⟪राजसाद्भवति⟫ "jis tampa priklausomas nuo karaliaus, jis tampa karaliaus nuosavybe"
 :::
 ::: grammar-box
-**Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:**
+**Po formavimų su -sāt šaknys nėra traktuojamos kaip po priešdėlių, t. y. absoliutyvas:**
 
 :::
 ::: indent
 ⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
+## 52.5. Žodžių kartojimai (⟪द्विरुक्तम्⟫)
 
 ::: grammar-box
-**Wortwiederholung drückt im Sanskrit aus:**
+**Žodžių kartojimas sanskrite reiškia:**
 
-*   **Wiederholung der Handlung**
-    z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder"
-*   **Distribution**
-    Beispiele:  
+*   **Veiksmo kartojimas**  
+pvz. ⟪पुनः पुनः⟫ "visada iš naujo"
+*   **Distribucija**  
+Pavyzdžiai:  
+⟪पृथक्पृथक्⟫ "kiekvienas atskirai, kiekvienas vienas"
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "kas tik norėtųs ... visa tai"
+⟪युगे युगे⟫ "kiekviename atskirame pasaulio amžiuje"
+
+**Kartais iš tokių junginių gali būti sudarytas sandūžodis**
+
 :::
-::: indent
-⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
-⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
-⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter"
-:::
-
-**Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden**
-
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪एकैक⟫ 3 "jeder einzelne"
-⟪अल्पाल्प⟫ 3 "ganz klein"
-⟪नवनव⟫ 3 "stets neu"
+⟪एकैक⟫ 3 "kiekvienas atskiras"
+⟪अल्पाल्प⟫ 3 "visiškai mažas"
+⟪नवनव⟫ 3 "visada naujas"
 :::
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff.
-## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
+Dėl vadinamųjų ⟪आम्रेडित⟫ sandūžodžių, kuriuose kartojami linksniuoti žodžiai, bet antrasis klasikiniu laikotarpiu prieš tai gavo akcentą, t. y. sudarė sandūžodį, žr. Wackernagel, Altindische Grammatik II,1 p. 142 ir toliau.
+## 52.6. Skaitvardis (⟪सम्ख्या⟩ f.)
 
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
+Čia neapžvelgtą žr. pvz. Kielhorn, Grammatik §201f.
 
-### 52.6.1. Kardinalzahlen
+### 52.6.1. Ordinalieji skaitvardžiai
 
-#### 52.6.1.1. Zahladjektive (für 1 bis 19)
+#### 52.6.1.1. Skaitmenų adjectyvai (nuo 1 iki 19)
 
 ::: grammar-box
-**Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.**
+**Skaitmenys nuo *1 iki 19* yra adjectyvai.**
+**Skaitmenys nuo **1 iki 4** skiriasi linksniavimu pagal tris giminės formas.**
 
-**Für die Zahlwörter für **5 bis 19** (:sig[⟪नवदशन्⟫]) gibt es nur eine einzige Deklination für die drei Geschlechter.**
+**Skaitmenims nuo **5 iki 19** (:sig[⟪नवदशन्⟩]) yra tik vienas linksniavimas visoms trims giminėms.**
 
-**Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).**
+**Šiems skaitmenų adjectyvams, kaip ir visiems adjectyvams, galioja: jie turi sutapti linksniu, skaičiumi ir gimine su atitinkamu daiktavardžiu ir atvirkščiai (t. y. 1 vienaskaita, 2 daugiskaita, likusiems – daugiskaita).**
 :::
-Zahladjektive:
+Skaitvardžiai:
 
 ::: indent
-1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
+1 ⟪एक⟫ 3 (linksnis kaip ⟪सर्व⟫, daugiskaita: "keli")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -280,240 +272,237 @@ Zahladjektive:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-Die Deklination folgt an gegebener Stelle in den Wortlisten.
+Linksniavimas pateikiamas atitinkamose žodžių sąrašuose.
 
-Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201.
+Kiti skaitiniai prieveiksmiai iki 19 žr. pvz., Kielhorn, Gramatika §201.
 
-#### 52.6.1.2. Zahlsubstantive (für 19ff.)
-
-::: grammar-box
-**Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.**
-
-:::
-Beispiele:
-
-::: indent
-20 ⟪विंशति⟫ f.
-30 ⟪त्रिंशत्⟫ f.
-:::
+#### 52.6.1.2. Skaitiniai daiktavardžiai (nuo 19 ir daugiau)
 
 ::: grammar-box
+**Skaitvardžiai nuo *19 (⟪एकोनविंशति⟫ "vienas mažiau nei 20") *iki 99* yra moteriškosios giminės daiktavardžiai ir linksniuojami kaip ⟪मति⟩ f. arba šakniniai daiktavardžiai su priesaga -t (pvz., ⟪त्रिंशत्⟩ f.).**
 
-**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.**
 :::
-
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-100 ⟪शत⟫ n.
-1000 ⟪सहस्र⟫ n.
+20 ⟪विंशति⟩ f.:br
+30 ⟪त्रिंशत्⟩ f.
 :::
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
 
 ::: grammar-box
-**Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:**
-*   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden
-    z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"
-*   substantivische Kardinalzahlwörter können auf drei Weisen mit dem Substantiv für das Gezählte verbunden werden
-    *   sie regieren den Genetiv (⟪षष्ठी⟫) des Gezählten
-        z.B. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "durch 20 Frauen"
-    *   sie stehen als Apposition im selben Kasus (aber im Singular) wie das Gezählte
-        z.B. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "durch 20 Frauen"
-    *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied
-        z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe"
 
+**Skaitvardžiai nuo 100 yra viduriniosios giminės daiktavardžiai. Jie linksniuojami kaip ⟪फलम्⟩.**
 :::
-### 52.6.2. Ordinalzahlen
 
-Siehe z.B. bei Kielhorn, Grammatik §201f.
-
-### 52.6.3. Zahladverbien
-
-a) "-mal":
+Pavyzdžiai:
 
 ::: indent
-einmal: ⟪सकृत्⟫
-zweimal: ⟪द्विस्⟫
-dreimal: ⟪त्रिस्⟫
-viermal: ⟪चतुस्⟫
-fünfmal usw. wird mit dem Suffix -:sig[⟪कृत्वस्⟫] gebildet: ⟪पञ्चकृत्वस्⟫
+100 ⟪शत⟩ n.:br
+1000 ⟪सहस्र⟩ n.
 :::
-b) "-fach": wird mit dem Suffix -:sig[⟪धा⟫] ausgedrückt
-
-::: indent
-einfach: ⟪एकधा⟫
-zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-usw.
-:::
-c) "je ...", "zu ...": wird mit dem Suffix -:sig[⟪शस्⟫] ausgedrückt (siehe oben!)
-
-::: indent
-⟪द्विशस्⟫ "zu zweien, je zwei"
-:::
-### 52.6.4. Zahladjektive
-
-"-fältig":
-
-::: indent
-zweifältig, aus zweien bestehend
-dreifältig, aus drei Teilen bestehend
-
-ab 4 wird "-fältig" durch das Suffix -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]) ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig"
-:::
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
-
-### 52.6.5. Komposita mit Kardinalzahlen im Vorderglied
+Atskirus skaitinius daiktavardžius žr. pvz., Kielhorn, Gramatika §201.
+#### 52.6.1.3. Sintaksė apie kardinalinius skaitvardžius
 
 ::: grammar-box
-**⟪बहुव्रीहि⟫ dieser Art werden ganz regelmässig gebildet.**
+**Skirtumas tarp veiksmažodinių prieveiksmių ir veiksmažodinių daiktavardžių kardinaliniams skaitvardžiams turi šią sintaksinę pasekmę:**
+*   adjectiviniai kardinaliniai skaitvardžiai gali būti jungiami su skaičiuojamo daiktavardžio tik kaip būdvardžiai  
+pvz., ⟪तिसृभिर्नारीभिः⟩ "per tris moteris"  
+*   substantiviniai kardinaliniai skaitvardžiai gali būti jungiami su skaičiuojamo daiktavardžio trimis būdais
+*   jie valdo kilmininką (⟪षष्ठी⟩) skaičiuojamojo  
+pvz., ⟪विंशत्या नारीणाम्⟩ "per 20 moterų"  
+*   jie stovi kaip paaiškinimas tuo pačiu linksniu (bet vienaskaita) kaip skaičiuojamasis  
+pvz., ⟪विंशत्या नारीभिः⟩ "per 20 moterų" 
+*   jie stovi kaip antrinis narys ⟪तत्पुरुष⟩ su skaičiuojamuoju kaip pirminis narys  
+pvz., ⟪गोविंशत्या⟩ "per 20 karvių"
+
 :::
-Beispiel:
+### 52.6.2. Ordinalieji skaitvardžiai
+
+Žr., pvz., Kielhorn, Gramatika §201f.
+
+### 52.6.3. Skaitiniai prieveiksmiai
+
+a) "-kartą":
 
 ::: indent
-⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās)
+vieną kartą: ⟪सकृत्⟫
+du kartus: ⟪द्विस्⟫
+tris kartus: ⟪त्रिस्⟫
+keturis kartus: ⟪चतुस्⟫
+penkis kartus ir t.t. sudaroma su priesaga -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
+:::
+b) "-kartinis": išreiškiamas su priesaga -:sig[⟪धा⟫]
+
+::: indent
+paprastas: ⟪एकधा⟫
+dvigubas: ⟪द्विधा । द्वेधा⟫
+ir t.t.
+:::
+c) "po ...", "... kiekvienam": išreiškiamas su priesaga -:sig[⟪शस्⟫] (žr. aukščiau!)
+
+::: indent
+⟪द्विशस्⟫ "po du, po du"
+:::
+### 52.6.4. Skaitiniai daiktavardžiai
+
+"-kartas":
+
+::: indent
+dvigubas, sudarytas iš dviejų dalių
+trigubas, sudarytas iš trijų dalių
+
+nuo 4 "-kartas" išreiškiamas su priesaga -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ v.v. ⟪चतुष्टयी⟫ g. "keturgubas"
+:::
+Kitus sudėtinius žodžius galima rasti žodynuose ar gramatikose.
+
+### 52.6.5. Sudėtiniai žodžiai su skaitiniais skaičiais pirmajame dalyje
+
+::: grammar-box
+**⟪बहुव्रीहि⟫ šio tipo sudėtiniai žodžiai yra labai reguliariai sudaromi.**
+:::
+Pavyzdys:
+
+::: indent
+⟪चतुर्मुख⟫ v. "vienas, turintis keturias veidas" = ⟪चत्वारि मुखानि यस्य सः⟫ (Brahmos vardas)
 :::
 ::: media
 ![](/images/lekt5205.webp)
-Abb.: ⟪चतुर्मुखः⟫
-(Bildquelle: [Details](/licenses#lekt5205))
+Pav.: ⟪चतुर्मुखः⟫
+(Nuotraukos šaltinis: [Detalės](/lt/licenses#lekt5205))
 :::
 
 ::: grammar-box
-**⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:**
+**⟪तत्पुरुष⟫ su skaitiniu skaičiumi pirmajame dalyje negali būti sudaromi laisvai:**
 
-**Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.**
+**1 taisyklė: Žodžiai, nurodantys dangaus kryptis (kaip ⟪पूर्व⟫ 3 "rytinis", ⟪उत्तर⟫ 3 "šiaurinis"), ir žodžiai, nurodantys skaitinius skaičius, gali sudaryti ⟪कर्मधारय⟫-sudėtinius žodžius tik tada, kai jie vartojami kaip asmenvardžiai.**
 :::
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Grossen Bären (Ursa maior) steht.
+Todėl, pavyzdžiui, negalima sudaryti Tatpuruṣa iš ⟪उत्तरा वृक्षाः⟫ „šiauriniai medžiai“ arba iš ⟪पञ्च ब्राह्मणः⟫. Tačiau iš ⟪सप्तन्⟫ ir ⟪ऋषि⟫ galima sudaryti Tatpuruṣa ⟪सप्तर्षि⟫ v. „septyni Ṛṣiai“, jei tai yra Didžiojo ūko (Ursa maior) žvaigždydo pavadinimas.
 ::: media
 ![](/images/lekt5206.jpg)
-Abb.: ⟪सप्तर्षयः⟫
-Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior)
-(Bildquelle: [Details](/licenses#lekt5206))
+Pav.: ⟪सप्तर्षयः⟫
+Septynių žvaigždžių grupė = septynios ryškiausios Didžiojo ūko (Ursa maior) žvaigždės
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5206))
 :::
 
 ::: grammar-box
-**Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn**
+**Taisyklė 2: Atsižvelgiant į Taisyklę 1, žodis, reiškiantis dangaus kryptį arba skaičių, gali sudaryti Tatpuruṣa su kitu daiktavardžiu, jei**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)
+1. tokiam sudurtiniam žodžiui pridedamas Taddhita priesaga  
+Pavyzdžiai:  
+pūrva + śālā („salė“) » \*pūrvaśālā (negalima vartoti!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 „esantis rytinėje salėje“  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (negalima!) + Taddhita -a » ⟪षण्मातुर⟫ v. „vaikas, turintis šešias motinas“ (= ⟪कार्त्तिकेय⟫)  
 
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fliessend):
-    Beispiele:  
-    dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
+2. toks sudurtinis žodis vartojamas reikšme, kuri kitaip būtų išreiškiama Taddhita priesaga (tokiu atveju perėjimas prie Bahuvrīhi yra sklandus):  
+Pavyzdžiai:  
+dvi + go » ⟪द्विगु⟫ : ne „du karvės“, o: **„įsigytas už dvi karves“**  
+⟪द्विवर्ष⟫ ne „du metai“, o: **„dviejų metų“**  
+
+3. toks sudurtinis žodis yra kito sudurtojo žodžio pirmoji dalis  
+Pavyzdys:  
+pañca + go » pañcagava (kaip savarankiškas žodis negalimas!) + dhana » ⟪पञ्चगवधन⟫ v. „tas, kurio turtas yra penkios karvės“
 :::
-::: indent
-⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"
-:::
-
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind"
 ::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+Pav.: ⟪षण्मातुरः कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
-(Bildquelle: [Details](/licenses#lekt5207))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5207))
 :::
 
 ::: grammar-box
-**Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.**
+**Kardinalinio skaičiaus (bet ne šiaurės krypties) pavadinimas gali būti sudurtinio žodžio pirmuoju elementu su kitu daiktavardžiu ir sudaryti tatpurušą, net jei taip suformuotas junginys reiškia kelių daiktų agregatą, t. y. sujungia du ar daugiau daiktų į vienybę.**
 
-**Tatpuruṣa, die nach dieser Regel gebildet werden heissen Dvigu (:sig[⟪द्विगु⟫]).**
+**Tatpurušai, suformuoti pagal šią taisyklę, vadinami dvigu (:sig[⟪द्विगु⟫]).**
 
-**Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.**
+**Dvigu junginiai, reiškiantys vienybę, dažniausiai yra vidutinės lyties. Jei antrasis elementas baigiasi -a, gali būti pridedamas moteriškosios lyties priesaga -ī. Jei antrasis elementas baigiasi moteriškosios lyties -ā, vietoj jo tampa vidutinės lyties -a arba moteriškosios lyties -ī. Jei antrasis elementas baigiasi -an, vietoj jo tampa -a arba -ī.**
 :::
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. „trių pasaulių agregatas, trys pasauliai kaip vienybė, trijų pasaulių (dangus-žemė-pasaulio apačia)
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
+⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. „Trijų pasaulių“
 :::
 ::: grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
+**Dvigu junginiai, kuriems nėra pridėtas taddhita priesaga, bet turi reikšmę, kurią nurodo taddhita priesaga, savo lytį derina su daiktavardžiu, kurį jie tiksliau apibūdina (iš tiesų tai yra bahuvrīhi)**
 :::
-Beispiel:
+Pavyzdys:
 
 ::: indent
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
+⟪पञ्चगु⟫ 3: „įgytas už penkis karves“
 :::
-## 52.7. Wortliste
+## 52.7. Žodžių sąrašas
 
-⟪अखिल⟫ 3: lückenlos, ganz
+⟪अखिल⟫ 3: be spragų, visas
 
-⟪निखिल⟫ 3: vollständig, ganz
+⟪निखिल⟫ 3: išsamus, visas
 
 ::: indent
-von:
+iš:
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: dirvabė, dykuma
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
-Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+Pav.: ⟪खिलः⟫
+Tambholis, Akolis, Ahemednagaras = ⟪अहमदनगर⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ Adv.: viduje, viduryje ; Postpozicija su Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): viduje, tarp ; Postpozicija su Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): iš ... iš vidaus
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 3: abipusiai, vienas kitam
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : žlugti
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+PPP ⟪विपरीत⟫ 3: neteisingai, klaidingai
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3: trys
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **Vyr. g.: br⟪पुंस्⟫** | **Vid. g.: br⟪नपुंसकम्⟫** | **Mot. g.: br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. Vardininkas: br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Galininkas: br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Įnagininkas: br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. Naudininkas: br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Kilminkas: br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genitivas: br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Vietininkas: br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ Postpozicija ir priesaga prie daiktavardžių ir veiksmažodžių: į išorę, tolyn, iš vidaus, į priekį, iš, šalin, be - nuo
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : spausti, kankinti ; varžyti, apgulti, gėdyti
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
-Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+Pav.: ⟪पीडिताः⟫
+Haidarabadas = హైదరాబాద్
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3: (Linksniuojamas kaip ⟪सर्व⟫) nutolęs, svetimas, aukštesnis už (⟪पञ्चम्या⟫), pats tolimas, pats aukščiausias ; kitoks, svetimas, priešiškas ; m.: svetimšalis
 
 ::: indent
-davon:
+thereof:
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ Adv.: to a high degree, thereupon, later, but, however
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, after, with regard to, in relation to
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 3: principal, best; n.: the most important
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+Fig.: ⟪प्रधानः मुंबई⟫
+(Image source: [Details](/lt/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ n.: greed, lustfulness
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ m.: section, division, group
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : wollen, gebieten, verlangen nach
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : to want, command, desire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -524,38 +513,38 @@ PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
 
 ::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+thereof:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: wind
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschliessen
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : to turn, rotate; to ward off, exclude
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
+Kaus. ⟪वर्जयति⟫ : to remove
+Kaus. PPP ⟪वर्जित⟫ : deprived of something, free from
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ m.: activity, conduct, interaction, commerce, business, trade, (legal) process
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ n.: custom, habit, nature, character, good habit = morality
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ m.: sun
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve someone (⟪द्वितीया⟫), attend, honor, love
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -566,31 +555,26 @@ PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-davon:
+thereof:
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ f.: service, attendance
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 3: firm, steadfast, continuous, persistent
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: experienced in (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ m.: night watch (each three hours)
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
+⟪परंपरा⟫ f.: uninterrupted series
 
-⟪अमुत्र⟫ Adv.: dort, dorthin
+⟪अमुत्र⟫ Adv.: there, thither
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move about, to fall down
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -599,194 +583,129 @@ Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : to recognize, to feel, to perceive, to experience
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ n.: wheel
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+(Image source: [Details](/lt/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ f.: banana tree (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+(Image source: [Details](/lt/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ m.n.: core, marrow, essence, substance
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 3: heavenly, divine
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: best
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ m.: mirror
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ m.n.: dirt, blemish
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+Fig.: ⟪मलम् मुंबई⟫
+(Image source: [Details](/lt/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ n.: Indra's heaven
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ m.: the personified evil, the personified temptation/manipulation, devil
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+Fig.:
+Amaravati = అమరావతి, 2nd cent. CE
+(Image source: [Details](/lt/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 3: someone who wants to recognize completely
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : to protect, to save
 
 ::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-## 52.8. Übersetzungsübung
+## 52.8. Vertimo pratimas
 
-⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
-
-::: indent
-⟪यद्यत्परवशं⟫ ⟪कर्म⟫
-⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
-⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
-⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫
-
-⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
-⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
-⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
-
-⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
-⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
-⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
-⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
-
-Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
-:::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
+⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
 ::: indent
-⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
-⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
-⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
+⟪यद्यत्परवशं कर्म ततद्यत्नेन वर्जयेत् । यद्यदात्मवशं तु स्यात् ततत्सेवेत यत्नतः ॥१५९॥ सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् । एतद्विद्यात्समासेन लक्षणं सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥ यत्कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः । तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥१६१॥⟫
 
-Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+Paaiškinimas: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
-
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫ Apie šaltinius ⟪धर्म⟫
 
 ::: indent
-Erklärungen:
+⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫:sig[⟪ले⟫] ⟪च तद्विदाम् । आचआरश्चैव साधूनाम् आत्मनस्तुष्टिरेव च ॥६॥⟫
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer"
-
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva)
+Paaiškinimas: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Apie ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ valdovo gyvenime
+
+⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत⟫, ⟪न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि धर्मका⟫:sig[⟪मावि⟫]⟪ति ।७।⟫
+
+::: indent
+Paaiškinimai:
+
+⟪इतरौ⟫ Nom.Akk.Dual.m prie ⟪इतर⟫ 3 "kitas"
+
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ yra Dualdvandva)
+:::
+⟪४⟫. ⟪अश्वघोष⟫ (II a. po Kr.): ⟪बुद्धचरित ४⟫ Budos išgelbėjanti žinios
 
 ::: media
 ![](/images/lekt5216.webp)
-Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Bildquelle: [Details](/licenses#lekt5216))
+Pav.: ⟪अश्वत्थो महाबोधिवृक्षः⟫
+_Ficus religiosa_ L. ⟪बोधगया⟫, apie 1810 m.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5216))
 :::
 
 ::: indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
-
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
-
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
-
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
-
-⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
-⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
-⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
-
-⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
-⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
-⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
-
-⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
-⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
-⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
-
-⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
-⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
-⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
-
-⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
-⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
-⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
-
-⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
-⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
-⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
-## 52.9. Aufgaben während der Semesterferien
+## 52.9. Užduotys semestrų pertraukos metu
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet.
+Baigiantis 52-ajai pamokai, pasibaigia pirmasis sanskritų kurso semestras (13 savaičių po 4 paskaitas).
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
+Per semestrų pertrauką reikėtų atlikti šias užduotis:
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders:
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen
-    2.  Wörter
-    3.  Stammformen
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum
-3.  Durcharbeiten von [Lektion 53](lektion53.md)
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet)
-5.  Vorbereitung von ⟪भगवद्गीता⟫ Kap. 1, Lernen der dazugehörigen Wörter auf den Wortlisten (noch nicht im Internet)
-6.  Metrische Analyse aller Verse von ⟪भगवद्गीता⟫ ⟪१⟫
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19
-7.  Lesen einer ⟪महाभारत⟫-Nacherzählung, z.B.
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien)
-8.  Durcharbeiten:
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government)
-9.  Fertig durcharbeiten von:
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10.  Beginn mit der Durcharbeit von:
-     **Winternitz, Moriz \<1863 - 1937\>:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
+1.  Visos iki šiol išmoktos medžiagos kartojimas, ypač:
+1.  Deklinacijos ir konjugacijos paradigmos mokymasis iš atminties
+2.  Žodžiai
+3.  Šaknų formos
+2.  Kuo daugiau eilučių ir prozos tekstų iš klasikinės literatūros mokymasis iš atminties
+3.  [53-osios pamokos](lektion53.md) nagrinėjimas
+4.  Bhg 1 - 11 lapų nagrinėjimas (dar nėra internete)
+5.  ⟪भगवद्गीता⟫ skyriaus 1 pasirengimas, žodžių iš sąrašų mokymasis (dar nėra internete)
+6.  Visų ⟪भगवद्गीता १⟫ eilučių metriška analizė  
+Gerą įspūdį apie tekstą skaitant galima gauti iš: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Prisijungta 2009-01-19
+7.  ⟪महाभारत⟫ persakymo skaitymas, pvz.  
+Mahābhārata : Indijos didysis epas / iš sanskrito vertė ir sutrumpino Biren Roy. -- 10 leidimas. -- Miunchenas : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs geltonoji serija ; 16 : Indija)
+8.  Nagrinėjimas:  
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Iš pradžių parašyta malajalam kalba. Vertė į anglų k. K.V.R. Pai. -- Parathode : Savileidys, 1983. -- 818 p. ; 23 cm. -- P. 208 - 254 (Sintaksinė valdžia)
+9.  Baigtinai nagrinėti:  
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was India dalis: Indijos subkontinento kultūros apžvalga prieš musulmonų atėjimą. -- Londonas : Sidgwick & Jackson, 1954.
+10.  Pradėti nagrinėti:  
+**Winternitz, Moriz (1863–1937):** Indijos literatūros istorija. Štutgartas : Koehler. -- 3 tomų. -- 1908 - 1922 (vis dar geriausia sanskritų, pali ir prakrit literatūros istorija)
 
 ::: media
 ![](/images/lekt5201.webp)
-Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt5201))
+Pav.: ⟪श्रीगुम्पिः⟫ , ⟪मम मन्त्री⟫
+(Nuotrauka: Payer)
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5201))
 :::
 

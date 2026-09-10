@@ -1,23 +1,24 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Pamoka 44"
+subtitle: "Antros asmenies veiksmažodžio formų daryba (⟪मध्यमः⟫) bebalčiai kamienai su balsine galūne"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 44
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
+## 44.1. Antrosios asmenies veiksmažodžių formų daryba (⟪मध्यमः⟫) be nosinės galūnių kamienai su balsine pabaiga
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!**
+**3.sg.Ā.Nesėkmių laikas yra formos atžvilgiu tapatus 2.pl.P.Nesėkmių laikui!!!**
 :::
-### 44.1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 44.1.1. Penktoji dabarties klasė (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -25,11 +26,11 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| **Indikatyvas Dabartis** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralizacija! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralizacija! | ⟪सुनुध्वे⟫ |
+| **Nesėkmių laikas** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.2. Aštuntoji dabarties klasė (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -37,9 +38,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| **Indikatyvas Dabartis** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Nesėkmių laikas** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
@@ -47,61 +48,61 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| **Indikatyvas Dabartis** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Nesėkmių laikas** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 44.1.3. Devinta prezentinė klasė (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| **Indikativo prezentas** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralizacija! | ⟪क्रीणीध्वे⟫ |
+| **Imperfektas** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Zum Wortsandhi
+## 44.2. Žodžių sandos taisyklės
 
-Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten.
+Esant priebalsiu besibaigiantiems prezentinio kamieno formoms, taikomos jau nagrinėtos žodžių sandos taisyklės.
 
-Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
+Be to, taikomos šios papildomos žodžių sandos taisyklės.
 
-(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.)
+(Išsamus visų čia priskiriamų garsų pokyčių sąrašas pateikiamas Kielhorn, Gramatika p. 76f.)
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. Žodžių sandos taisyklės dh-
 
 ::: grammar-box
-1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:**
-   z.B. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
+1. **Aspiruotas priebalsis prieš aspiruotąjį pakeičiamas atitinkamu neaspiruotu priebalsiu:**
+Pvz. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
 2. **-h + dh- » -gdh-**
-   z.B. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
-3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!)
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
-4. **-s + dh- » -dh-** (Wegfall des -s)
-   z.B. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
+Pvz. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** (Ši taisyklė galioja tik linksniavimui!)
+Pvz. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (-s dingimas)
+Pvz. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. Zum Wortsandhi für s-
+### 44.2.2. Žodžių sandos taisyklės s-
 
 ::: grammar-box
-1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse)
-   Beispiele:
-   * ⟪वस्⟫ 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
-   * ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
+1. **-s + s- » -ts- arba (ne pasirenkama!) -ss-** (taikoma 2-oje prezentinėje klasėje)
+Pavyzdžiai:
+* ⟪वस्⟫ 1P: Ateitis: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+* ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
+Pvz. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
+## 44.3. Formavimas antrosios asmenies (⟪मध्यमः⟫) be nosinės dviklausų kamienų, neturinčių galūnės su balsiu
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1. Antroji dabarties laiko klasė (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
+| **Indikatyvas dabartis** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Imperfektas** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
 
@@ -109,9 +110,9 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
+| **Indikatyvas dabartis** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Imperfektas** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
@@ -119,9 +120,9 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
+| **Indikatyvas dabartis** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Imperfektas** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Optatyvas** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
 ⟪इ⟫ 2P
 
@@ -129,9 +130,9 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | ⟪इषे⟫ | ⟪इध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
+| **Indikatyvas dabartis** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | ⟪इषे⟫ | ⟪इध्वे⟫ |
+| **Imperfektas** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Optatyvas** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -161,9 +162,7 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | **Imperfekt** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
 | **Optativ** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
-⟪तत्त्वमसि⟫
-
-⟪शास्⟫ 2P
+⟪तत्त्वमसि शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -181,47 +180,47 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+## 44.4. Vokativ (⟪आमन्त्रितम्⟫)
 
-Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫).
+Vietnamo gramatikai laiko vokatīvą (⟪आमन्त्रितम्⟫) ne kaip savarankišką linksnį, o tik nominativo (⟪प्रथमा⟫) modifikacija.
 
 ::: important
-**Der Vokativ dient dem Anruf, dem Ansprechen und steht ausserhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.**
+**Vokativas skirtas šaukiniui, kreipimuisi ir yra nepriklausomas nuo likusios sakinio dalies, todėl skiriasi nuo kitų linksnių, kurie išreiškia ryšį su veiksmažodžiu arba kitu daiktavardžiu.**
 
-**Meist wird der Vokativ an den Beginn des Satzes gestellt:**
+**Vokativas dažniausiai pastatomas sakinio pradžioje:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?"
+⟪बाल किं वदसि⟫ = "Vaikeli, ką tu sakai?"
 :::
 ::: important
-**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"**
+**Venkite versti vokativą su **"O** ...".** Vokiečių kalboje nuolat naudojame vokatīvus, pavyzdžiui, kai sakome: "Brangiausias, ką šiandien ruošiam?" Niekas šioje reikšmėje nesakytų: **"O** brangiausias, ką šiandien ruošiam?"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
-Abb.: Zur richtigen Verwendung von "O" im Deutschen: **"O Mann!"**
-(Bildquelle: [Details](/licenses#lekt4402))
+Pav.: Teisingas "O" vartojimas vokiečių kalboje: **"O, vyrai!"**
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.**
+**Vokativo daugiskaitos ir dvaskaitos formos sutampa su nominativo (⟪प्रथमा⟩) daugiskaitos ir dvaskaitos formomis.**
 
-**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).**
+**Vokativo vienaskaitos formos bus nagrinėjamos [45-oje pamokoje](lektion45.md).**
 :::
-## 44.5. Wortliste
+## 44.5. Žodynas
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+⟪प्रति⟫ Priešdėlis: atgal, prieš, priešais - link
 
 ::: indent
-z.B.
+pvz.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : atmušti
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : atsakyti = atsakyti
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : atmesti, niekinti
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 2P ⟪याति⟫ : eiti, važiuoti
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -231,123 +230,123 @@ Kaus. ⟪यापयति⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫
 
-davon:
+thereof:
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.: going, path, vehicle
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403))
+Fig.: ⟪रेल्यानम्⟫
+(Image source: [Details](/lt/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **Guna:** 1.sg.Ind.Pres.Ā :sig[⟪शेये⟫] (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā :sig[⟪शेरते⟫], 3.pl.Impf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
+Caus. ⟪शापयति⟫  
 PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫
+Inf. ⟪शयितुम्⟫  
 
-davon:
+thereof:
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.: couch, bed
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404))
+Fig.: ⟪योगी शयने शेते⟫
+(Image source: [Details](/lt/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
+Caus. ⟪नन्दयति⟫  
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫
+Gerundive ⟪नन्द्य⟫  
 
-davon:
+thereof:
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 3: characterized by (special) joy, joyful; m. name of the mount (⟪वहन⟫) of ⟪शिव⟫ (a bull)
 :::
 ::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405))
+Fig.: ⟪नन्दी⟫
+(Image source: [Details](/lt/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to have one's joy in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+Caus. ⟪यामयति⟫ but: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to stretch, extend
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt
+PPP ⟪आयत⟫ 3: stretched out
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406))
+Fig.: ⟪आयतो मरुः⟫
+(Image source: [Details](/lt/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : to offer, present, hand over
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : to bind together, tie up, subdue
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : to strive for (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
-Kaus. ⟪यातयति⟫  
+Caus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫
+Inf. ⟪यतितुम्⟫  
 
-davon:
+from which:
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung
+⟪यत्न⟫ m.: effort, exertion
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407))
+Fig.: ⟪यत्नेन⟫
+(Image source: [Details](/lt/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
+Caus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : to touch, begin, undertake
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): leaving home for homelessness; ceremony by which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
+Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Image source: [Details](/lt/licenses#lekt4408))
 :::
-## 44.6. Übung
+## 44.6. Exercise
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) Determine and translate the following forms:
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -404,31 +403,16 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 
 ::: media
 ![](/images/lekt4409.webp)
-Abb.: ⟪कस्माद्रोदिषि⟫
-(Bildquelle: [Details](/licenses#lekt4409))
+Pav.: ⟪कस्माद्रोदिषि⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4409))
 :::
-B) Übersetzen Sie:
+B) Išverkite:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
+## 44.7. Formų kartojimo pratimas
 
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
-
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
-
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
-
-## 44.7. Wiederholungsübung zur Formenlehre
-
-Bestimmen Sie folgende Formen:
+Nustatykite šias formas:
 
 1.  ⟪वदिता⟫
 2.  ⟪उदिता⟫

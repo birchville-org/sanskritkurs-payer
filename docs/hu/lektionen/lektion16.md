@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "16. lecke"
+subtitle: "A szó végén álló mássalhangzók sandhijáról"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 16. lecke

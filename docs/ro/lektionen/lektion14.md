@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lecție 14"
+subtitle: "Expresia relației dintre cele denumite prin substantive: Genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = a șasea terminație de caz)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 14
@@ -88,16 +89,16 @@ Genitivul plural al rădăcinilor care se termină în vocalică se formează as
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitivul singular al rădăcinilor care se termină în vocalică:**
+**Genitivul singular al rădăcinilor care se termină în vocală:**
 
 ::: grammar-box
 
-Genitivul singular al rădăcinilor care se termină în vocalică se formează neregulat și trebuie învățat pe de rost.
+Genitivul singular al rădăcinilor care se termină în vocală este format neregulat și trebuie învățat pe de rost.
 
 :::
 ::: center
 
-| Rădăcină | Genitiv singular |
+| Rădăcină | Genitiv Singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,8 +106,8 @@ Genitivul singular al rădăcinilor care se termină în vocalică se formează 
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(adică fie ca kavi, fie ca devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(adică fie ca paśu, fie ca femininele polisilabice în -ū) |
 
 :::
 **Pronumele interogative și demonstrative:**
@@ -115,15 +116,17 @@ Genitivul singular al rădăcinilor care se termină în vocalică se formează 
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutru** | **Genitiv singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genitiv plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Feminin** | **Genitiv singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genitiv plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Masculin / Neutru** | **Genitiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminin** | **Genitiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Identitate de formă:**
+**Identitatea formelor:**
 
 ::: important
+
+La toate rădăcinile nominale, cu excepția masculinelor și neutrelor în -a și a pronumelor, forma genitivului singular este identică cu forma ablativului (pañcamī "cincilea terminatie de caz") singular!
 
 La toate temele nominale, cu excepția masculinelor și neutrelor pe -a și a pronumelor, forma genitivului singular este identică cu forma ablativului (pañcamī "cinciua terminație cazuală") singular!
 

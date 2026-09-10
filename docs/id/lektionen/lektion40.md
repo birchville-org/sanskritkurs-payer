@@ -211,7 +211,7 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Akarn auf -ā / -ai
+### 40.2.4. Perfek Tipe IV: Akar berakhiran -ā / -ai
 
 *   Strong stem:
     *   1.,3. sg. Parasemaip.: -au

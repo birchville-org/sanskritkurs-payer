@@ -1,99 +1,72 @@
 ---
-title: "Ushqim 17"
+title: "Ushtrimi 17"
 uebung_id: 17
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 17
+# Ushqim 17
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+A) Plotisni verbin në fjalitë e mëposhtme dhe përktheji:
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-Ein Brahmane spricht keine Unwahrheit.
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
+Një brahman nuk fjalos gënjeshtrë.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
-Ein Kṣatriya hütet die Leute.
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
+Një kṣatriya i mbrojt njerëzit.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Der mächtige Kämpfer besiegt / tötet / bekämpft die Feinde der Zweimalgeborenen.
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
+Luftëtari i fuqishëm mposht / vret / lufton armiqtë e dyfishisht të lindurve.
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Der brahmanische Dichter preist den HERRN der Welt. (oder: ...opfert... dem HERRN der Welt)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
+Poeti brahmanik lavdëron ZOTIN e botës. (ose: ...ofron... Zotit të botës)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
-Das Feuer verzehrt / verbrennt die Speise.
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
+Zjarri konsumon / djeg ushqimin.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-Der junge Vaiṣya melkt / hütet die Kuh.
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
+Vaiṣya i ri qumështon / mbrojt lopën.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Ein Diener der Zweimalgeborenen geht auf dem Wildwechsel ins Brahmanendorf.
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+Një shërbëtor i dyfishisht të lindurve ecën në rrugën e egër drejt fshatit brahman.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+Një śūdra është skllav i dyfishisht të lindurve.
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-Die kleine Brahmanin weint / sitzt / stirbt.
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
+Brahmanja e vogël qan / rri / vdes.
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
-⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
-Eine gute Person hasst das Unrecht. (oder: ...tut kein Unrecht.)
+⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫) ⟪। द्वेष्टि । द्विष्टे । न करोति । न कुरुते ।⟫
+Një person i mirë urren padrejtësinë. (ose: ... nuk bën padrejtësi.)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
+B) Vendosni në pohimet e formuara në A) agjentin dhe foljen në numrin shumës
 
-⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Plural von ⟪वच्⟫ kommt nicht vor) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪२⟫. ⟪क्षत्रिया⟫ ⟪जनान्पान्ति⟫ ⟪।⟫ ⟪रक्षन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪बलवद्योधा⟫ ⟪द्विजारीञ्जयन्ति⟫ ⟪।⟫ ... ⟪द्विजारीन्घन्ति⟫ ⟪।⟫ ⟪युध्यन्ते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणकवयो⟫ ⟪लोकेश्वरं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ ⟪स्तुवते⟫ ⟪।⟫ ⟪यजन्ति⟫ ⟪।⟫ ⟪यजन्ते⟫ ⟪।⟫
-
-⟪५⟫. ⟪अग्नयो⟫ ⟪यज्ञान्नमदन्ति⟫ ⟪।⟫ ⟪दहन्ति⟫ ⟪।⟫
-
-⟪६⟫. ⟪बालवैश्या⟫ ⟪धेनुं⟫ ⟪दुहन्ति⟫ ⟪।⟫ ⟪दुहते⟫ ⟪।⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪पान्ति⟫ ⟪।⟫
-
-⟪७⟫. ⟪द्विजदासा⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪यन्ति⟫ ⟪।⟫ ⟪पद्यन्ते⟫ ⟪।⟫
-
-⟪८⟫. ⟪द्विजदासाः⟫ ⟪शूद्राः⟫ ⟪सन्ति⟫ ⟪।⟫ ... ⟪शूद्रा⟫ ⟪भवन्ति⟫ ⟪।⟫
-
-⟪९⟫. ⟪बालब्राह्मण्या⟫ ⟪रुदन्ति⟫ ⟪।⟫ ⟪बालब्राह्मण्य⟫ ⟪आसते⟫ ⟪।⟫ ⟪बालब्राह्मण्यो⟫ ⟪म्रियन्ते⟫ ⟪।⟫
-
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
+⟪१⟫. ⟪ब्राह्मणा अनृतं न ब्रुवन्ति ।⟫ (Shumës e ⟪वच्⟫ nuk përdoret) ⟪। वदन्ति । २⟫. ⟪क्षत्रिया जनान्पान्ति । रक्षन्ति । ३⟫. ⟪बलवद्योधा द्विजारीञ्जयन्ति ।⟫ ... ⟪द्विजारीन्घन्ति । युध्यन्ते । ४⟫. ⟪ब्राह्मणकवयो लोकेश्वरं स्तुवन्ति । स्तुवते । यजन्ति । यजन्ते । ५⟫. ⟪अग्नयो यज्ञान्नमदन्ति । दहन्ति । ६⟫. ⟪बालवैश्या धेनुं दुहन्ति । दुहते । रक्षन्ति । पान्ति । ७⟫. ⟪द्विजदासा मृगमार्गेण ब्राह्मणग्रामं गच्छन्ति । यन्ति । पद्यन्ते । ८⟫. ⟪द्विजदासाः शूद्राः सन्ति ।⟫ ... ⟪शूद्रा भवन्ति । ९⟫. ⟪बालब्राह्मण्या रुदन्ति । बालब्राह्मण्य आसते । बालब्राह्मण्यो म्रियन्ते । १०⟫. ⟪साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।⟫
 
 ::: media
 ![](/images/uebung025.webp)
-Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
-(Bildquelle: [Details](/licenses#uebung025))
+Fig.: ⟪बालब्राह्मणी रोदिति⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung025))
 :::
 ---
 
-## Verbformen-Übung
+## Ushtrim për formën e foljeve
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
+Përktheni format e mëposhtme të foljeve dhe jepni rrënjën përkatëse:
 
-⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): sie essen
+⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): ata hanë
 
-⟪२⟫. ⟪सन्ति⟫ (⟪अस्⟫ 2P): sie sind
+⟪२⟫. ⟪सन्ति⟫ (⟪अस्⟫ 2P): ata janë
 
-⟪३⟫. ⟪आसते⟫ (⟪आस्⟫ 2Ā): sie sitzen
+⟪३⟫. ⟪आसते⟫ (⟪आस्⟫ 2Ā): ata ulen
 
-⟪४⟫. ⟪यन्ति⟫ (⟪इ⟫ 2P): sie gehen
+⟪४⟫. ⟪यन्ति⟫ (⟪इ⟫ 2P): ata shkojnë
 
-⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): er wünscht
+⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): ai dëshiron
 
-⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): sie tun (im eigenen Interesse)
+⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): ata bëjnë (për interesin e tyre)
 
 ⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): sie gehen
 
@@ -177,6 +150,6 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 ::: media
 ![](/images/uebung026.webp)
-Abb.: ⟪शृणोति⟫
-(Bildquelle: [Details](/licenses#uebung026))
+Fig.: ⟪शृणोति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#uebung026))
 :::

@@ -1,8 +1,9 @@
 ---
 title: "Ejercicio 38"
 uebung_id: 38
-category: "Ejercicio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -45,7 +46,7 @@ Disfrutar del mundo es el deber de los reyes.
 Se deben dar elefantes fuertes al rey.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā creó los mundos.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 Uno mismo hace el mal, uno mismo se abstiene del mal.

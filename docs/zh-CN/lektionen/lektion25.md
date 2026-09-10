@@ -1,6 +1,6 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "第25课"
+subtitle: "夺格的形成（⟪पञ्चमी⟫ = 「第五格词尾」）"
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"

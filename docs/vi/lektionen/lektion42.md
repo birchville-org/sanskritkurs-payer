@@ -1,6 +1,6 @@
 ---
 title: "[Bài 42]"
-subtitle: "[Stem kết thúc bằng -ṛ]"
+subtitle: "[Bài 42] Các chi tiết kết thúc bằng -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -61,10 +61,6 @@ Giống cái:
 ::: grammar-box
 Với hậu tố ⟪कृत्⟫ -⟪तृ⟫ rất phổ biến, người ta hình thành các danh từ chỉ tác nhân (danh từ chỉ ⟪कर्तृ⟫) cho hầu hết mọi gốc động từ hoặc gốc causative.
 
-**Cách hình thành:**
-
-*   **Gốc động từ bậc cao + -tṛ**
-
 hoặc
 
 *   **gốc cao cấp / gốc nhân quả + i + tṛ**
@@ -85,37 +81,37 @@ Ví dụ:
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Abb.: ⟪अयं बोधयिता⟫
-(Bildquelle: [Details](/vi/licenses#lekt4201))
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt4201))
 :::
 
 ::: grammar-box
 Selten vorkommende Neutra auf -⟪तृ⟫ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148).
 
-Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫** (wie ⟪देवी⟫).
+Giống cái của các gốc từ tận cùng bằng -⟪तृ⟫ kết thúc bằng **-⟪त्री⟫** (như ⟪देवी⟫).
 
-z.B. ⟪कर्त्री⟫ f. "Täterin"
+Ví dụ: ⟪कर्त्री⟫ f. "Người thực hiện"
 :::
->> ### 42.1.3. Stämme mit Hochstufe im starken Stamm
+### 42.1.3. Các gốc từ có bậc cao trong dạng mạnh
 
 ::: grammar-box
->> Dazu gehören folgende Verwandtschaftsbezeichnungen:
+Bao gồm các danh xưng chỉ quan hệ thân tộc sau đây:
 
 *   ⟪पितृ⟫ m. "Vater"
 *   ⟪मातृ⟫ f. "Mutter"
 *   ⟪दुहितृ⟫ f. "Tochter"
 *   ⟪भ्रातृ⟫ m. "Bruder"
-*   ⟪देवृ⟫ m. "Gattenbruder (Schwager der Frau)"
-*   ⟪यातृ⟫ f. "Frau des Gattenbruders"
-*   ⟪ननान्दृ⟫ f. "Schwester des Gatten (Schwägerin der Frau)"
+*   ⟪देवृ⟫ m. "Anh chồng (chồng của chị/em vợ)"
+*   ⟪यातृ⟫ f. "Vợ của anh chồng"
+*   ⟪ननान्दृ⟫ f. "Chị/em gái chồng (chị/em gái vợ của chồng)"
 
-**Bildung:**
+**Cách hình thành:**
 
-*   **starker Stamm: -ar**
-*   **schwacher Stamm**
-*   **vor Vokal: -r**
-*   **vor Konsonant: -ṛ**
+*   **thân mạnh: -ar**
+*   **thân yếu**
+*   **trước nguyên âm: -r**
+*   **trước phụ âm: -ṛ**
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
 ⟪पितृ⟫ m. "Vater"
@@ -131,10 +127,10 @@ Beispiele:
 | Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Các gốc từ tận cùng bằng -ṛ trong từ ghép
 
 ::: grammar-box
-Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h.
+Khi đứng là thành phần đầu của một từ ghép, các danh từ tận cùng bằng -ṛ dĩ nhiên ở dạng gốc yếu, tức là
 
 *   **trước phụ âm: -ṛ**
 *   **trước nguyên âm: -r**
@@ -159,6 +155,59 @@ PPP ⟪अवस्थित⟫ 3: đang đứng, hiện diện
 ⟪दूत⟫ m.: Sứ giả, đặc sứ
 
 ⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : gửi đi
+
+⟪सकाश⟫ m.: Sự hiện diện, sự có mặt
+
+⟪शर⟫ m.: Thân tên, mũi tên
+
+⟪बाण⟫ m.: Mũi tên, mục tiêu
+
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : chấp thuận, hứa hẹn; Ā: trả lời, xác nhận, khẳng định, thừa nhận
+
+⟪चल्⟫ 1P ⟪चलति⟫ : bắt đầu chuyển động
+
+::: indent
+Fut. ⟪चलिष्यति⟫  
+Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
+Pass. ⟪चल्यते⟫  
+Kaus. ⟪चलयति । चालयति⟫  
+PPP ⟪चलित⟫  
+Absol. -⟪चल्य⟫  
+Inf. ⟪चलितुम्⟫
+:::
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: Sự phù phiếm, kiêu ngạo
+
+⟪चिन्तापर⟫ 3: đắm chìm trong suy nghĩ
+
+⟪अन्तरे⟫ Trạng từ: trong lúc đó
+
+⟪लीला⟫ f.:  Trò đùa, trò chơi
+
+⟪यावत्⟫ Trạng từ:  bao lâu, trong khi
+
+⟪तावत्⟫ Trạng từ: chừng nào
+
+⟪द्विधा । द्वेधा⟫ Trạng từ: hai lần, theo hai phần
+
+⟪शंस्⟫ 1P ⟪शंसति⟫ : ca ngợi, ra lệnh
+
+::: indent
+Fut. ⟪शंसिष्यति⟫  
+Perf. I ⟪शशंस⟫  
+Pass. ⟪शस्यते⟫  
+Kaus. ⟪शंसयति⟫  
+PPP ⟪शस्त⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
+Inf. ⟪शंसितुम्⟫
+:::
+⟪हृदय⟫ n.: Trái tim
+
+### 42.2.1. Một số thuật ngữ chỉ quan hệ thân thuộc
+
+::: media
+![lekt4202.jpg](/images/lekt4202.webp)
+Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4202))
 
 ⟪सकाश⟫ m.: Sự hiện diện, sự có mặt
 
@@ -284,16 +333,12 @@ Abb.: ⟪अर्जुनो रथे सीदति । कृष्णो 
 :::
 ⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥ भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥ सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥६॥ भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥७॥ क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥८॥ नप्तॄणां लाभं पितैच्छत् ॥९॥⟫
 
-## 42.4. Bài tập dịch thuật
-
-sig[⟪सीता⟫]⟪विवाहः पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥⟫
-
 ⟪जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ -- ⟪तस्य सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक ।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत । श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Abb.: ⟪धनुर्द्वेधा भग्नं बभूव⟫
-(Bildquelle: [Details](/vi/licenses#lekt4208))
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt4208))
 :::
 ⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं निरवर्तयन् ॥⟫
 

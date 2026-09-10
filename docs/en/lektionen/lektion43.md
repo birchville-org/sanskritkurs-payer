@@ -81,7 +81,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 | **Imperfect** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optative** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
->> #### 43.2.1.5. Passive
+#### 43.2.1.5. Passive
 
 ⟪ईक्ष्⟫ 1Ā
 

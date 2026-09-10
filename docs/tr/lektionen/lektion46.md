@@ -266,7 +266,7 @@ Bu türe uyan fiiller:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
->> #### 46.1.7.3. Perfectus Tip Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. Perfectus Tip Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 Bu türe uyan fiiller:
 

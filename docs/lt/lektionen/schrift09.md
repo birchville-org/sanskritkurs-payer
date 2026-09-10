@@ -1,39 +1,39 @@
-# Writing Exercise 9
+# Raštas 9
 
-### Worttrennung
+### Žodžių skyrimas
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+Sakinio viduje (pusėje) žodžiai raštu skiriami tik tada, kai žodis
 
-*   Vokal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ)
+*   baigiasi balsiu
+*   anusvāra (ṃ)
+*   visarga (ḥ)
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+ir kitas žodis prasideda priebalsiu. Taip pat tada, kai pagal sakinio sandhos taisykles tarp balsių atsiranda hiatus.
 
-### Interpunktion
+### Skyryba
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+Sakinio pabaiga prozoje žymima | (ardhadanda m.). Eilėraščiuose | žymi pusės eilutės pabaigą, o visos eilutės pabaiga žymima || (danda m.). Prozoje || žymi didesnį skyrimą (pvz., pastraipos pabaigą). Eilučių skaičiavimas dedamas tarp dviejų ||, pvz., ||⟪१⟫||.
 
-### Abkürzung
+### Santrumpos
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
+Santrumpos ženklas (pvz., kūnų pavadinimuose) yra °, pvz., ⟪पा⟫° = pā(ṇinīye) = „Pānino gramatikos vadove“.
 
-### Weitere Vokale in Anfangsstellung
+### Kiti balsiai pradžioje
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Atkreipkite dėmesį, kad a, ā, o, au rašomi pagal tą patį pagrindinį schemą.
 
-## Užduotis
+## Pratimas
 
-A) Schreiben Sie in Devanāgarī:
+A) Parašykite Devanagari:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) Skaitykite ir transkribuokite:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

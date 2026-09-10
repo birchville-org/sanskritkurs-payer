@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 18"
 uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,143 +7,140 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 18
+# Bài tập 18
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+A) Dịch đoạn ⟪सुभाषित⟫ ở đầu bài học.
 
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫  
-Es gibt keine Krankheit wie die Liebe,  
-Es gibt keinen Betrüger und Feind wie die Verblendung,  
-Es gibt kein Feuer wie den Zorn,  
-Es gibt kein Glück wie die Erkenntnis.
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫  
+Không có bệnh nào như tình yêu,
+Không có kẻ lừa dối và kẻ thù nào như vô minh,
+Không có lửa nào như sân hận,
+Không có hạnh phúc nào như trí tuệ.
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+B) Dịch các từ hợp danh Tatpuruṣa sau đây:
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
+⟪१⟫. ⟪सुकर ३⟫ — dễ làm
 
-⟪२⟫. ⟪सुकुल⟫ n. — gute Familie
+⟪२⟫. ⟪सुकुल⟫ n. — gia đình tốt
 
-⟪३⟫. ⟪सुकृति⟫ f. — gute Tat
+⟪३⟫. ⟪सुकृति⟫ f. — hành động tốt
 
-⟪४⟫. ⟪अकरण⟫ n. — Nichttun
+⟪४⟫. ⟪अकरण⟫ n. — không hành động
 
-⟪५⟫. ⟪दुरिष्ट⟫ n. — böser Wunsch
+⟪५⟫. ⟪दुरिष्ट⟫ n. — mong muốn xấu
 
-⟪६⟫. ⟪दुरिष्टि⟫ f. — fehlerhaftes Opfer
+⟪६⟫. ⟪दुरिष्टि⟫ f. — lễ tế sai lầm
 
-⟪७⟫. ⟪सुखादित⟫ 3 — gut gekaut
+⟪७⟫. ⟪सुखादित⟫ 3 — nhai kỹ
 
-⟪८⟫. ⟪दुष्कर⟫ 3 — schwer zu tun
+⟪८⟫. ⟪दुष्कर⟫ 3 — khó làm
 
-⟪९⟫. ⟪दुर्जय⟫ 3 — schwer zu besiegen
+⟪९⟫. ⟪दुर्जय⟫ 3 — khó chinh phục
 
-⟪१०⟫. ⟪सुगत⟫ m. — gut (durch die Wiedergeburten) Gegangener (= Buddha)
+⟪१०⟫. ⟪सुगत⟫ m. — đã đi tốt (qua các kiếp sống) (= Phật)
 
-⟪११⟫. ⟪सुजन⟫ m. — guter Mensch
+⟪११⟫. ⟪सुजन⟫ m. — người tốt
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f. — harte Rede
+⟪१२⟫. ⟪दुरुक्ति⟫ f. — lời nói khó
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m. — schlechte Anweisung
+⟪१३⟫. ⟪दुरुपदेश⟫ m. — chỉ dẫn xấu
 
-⟪१४⟫. ⟪सुजात⟫ 3 — wohlgeboren
+⟪१४⟫. ⟪सुजात⟫ 3 — dòng dõi tốt
 
-⟪१५⟫. ⟪सु⟫guru 3 — sehr schwer
+⟪१५⟫. ⟪सु⟫guru 3 — rất khó
 
-⟪१६⟫. ⟪अनाप्त⟫ 3 — ungeeignet
+⟪१६⟫. ⟪अनाप्त⟫ 3 — không phù hợp
 
-⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
+⟪१७⟫. ⟪अनीति⟫ f. — hành vi không đúng
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — không phải chủ
 
-⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
+⟪१९⟫. ⟪सुदुःख⟫ n. — khổ đau lớn
 
-⟪२०⟫. ⟪दुर्जन⟫ m. — böser Mensch
+⟪२०⟫. ⟪दुर्जन⟫ m. — người xấu
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — schlecht verbrannt
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — đốt cháy xấu
 
-⟪२२⟫. ⟪अतिकृत⟫ 3 — übertrieben
+⟪२२⟫. ⟪अतिकृत⟫ 3 — phóng đại
 
-⟪२३⟫. ⟪सुपुत्र⟫ m. — guter Sohn
+⟪२३⟫. ⟪सुपुत्र⟫ m. — con trai tốt
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f. — gute Einsicht
+⟪२४⟫. ⟪सुबुद्धि⟫ f. — trí tuệ tốt
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m. — schlechter Sohn
+⟪२५⟫. ⟪दुष्पुत्र⟫ m. — con trai xấu
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — schlecht ausgeführt
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — thực hiện xấu
 
-⟪२७⟫. ⟪सुमति⟫ f. — Freundlichkeit
+⟪२७⟫. ⟪सुमति⟫ f. — lòng tốt
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3 — schwer zu bekommen
+⟪२८⟫. ⟪दुर्लभ⟫ 3 — khó có được
 
-⟪२९⟫. ⟪दुर्वच⟫ 3 — schwer zu sagen
+⟪२९⟫. ⟪दुर्वच⟫ 3 — khó nói
 
-⟪३०⟫. ⟪दुर्वचन⟫ n. — schlechte Rede
+⟪३०⟫. ⟪दुर्वचन⟫ n. — lời nói xấu
 
-⟪३१⟫. ⟪अमृत⟫ n. — Unsterblichkeit, Unsterblichkeitsspeise, Unsterblichkeitstrank
+⟪३१⟫. ⟪अमृत⟫ n. — Bất tử, thức ăn bất tử, rượu thuốc trường sinh
 
 ::: media
 ![](/images/uebung027.jpg)
-Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
-(Bildquelle: [Details](/licenses#uebung027))
+Abb.: ⟪नास्ति कामसमो व्याधिः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung027))
 :::
 ---
 
-## Zusätzliche Übungen
+## Bài tập bổ sung
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Hãy phân tích các từ ghép sau đây trong tiếng Phạn và đưa ra đề xuất dịch nghĩa:
 
-⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — zu Ende gegangen, Grammatik: auslautend
+⟪१⟫. ⟪अन्तगत ३ । अन्तं गतः ।⟫ — đã kết thúc, Ngữ pháp: ở vị trí cuối từ
 
-⟪२⟫. ⟪क्षमाकर⟫ ⟪३।⟫ ⟪क्षमा⟫-⟪करः⟫ ⟪।⟫ — jemand der geduldig ist, geduldiges Tun
+⟪२⟫. ⟪क्षमाकर ३। क्षमा⟫-⟪करः ।⟫ — người kiên nhẫn, hành động kiên nhẫn
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪।⟫ ⟪क्षेमस्येन्द्रः⟫ ⟪।⟫ — Herr der Ruhe / des Wohlergehens / Friedens
+⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪। क्षेमस्येन्द्रः ।⟫ — Chủ của sự tĩnh lặng / hạnh phúc / hòa bình
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — Stoppen des Zorns mit dem Schwert = Stoppen des Kampfes
+⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪। शस्त्राणां कोपस्य निरोधः ।⟫ — Ngăn chặn cơn giận bằng kiếm = Ngăn chặn cuộc chiến
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — Töten eines / mehrerer Löwen, Töten durch einen / mehrere Löwen
+⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪। सिंहस्य संहननम् ।⟫ — Giết một / nhiều sư tử, bị giết bởi một / nhiều sư tử
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪। सिंह इव अरिः ।⟫ — kẻ thù ngang hàng với sư tử
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — Essen, Schlafen und Furcht
+⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪। आहारो निद्रा भयं च ।⟫ — Ăn, ngủ và sợ hãi
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪।⟫ ⟪मृतेः⟫ ⟪साधनी⟫ ⟪।⟫ — Tod bewirkende
+⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪। मृतेः साधनी ।⟫ — Gây ra cái chết
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — Familienname (Hinweis auf die Familie)
+⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪। कुलस्योपदेशः ।⟫ — Họ (Gợi ý về gia đình)
 
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Hãy dịch các câu sau sử dụng động từ thuộc lớp hiện tại thứ hai:
 
-1\. Der Brahmane preist die Göttinnen.
-⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (oder: ⟪स्तवीति⟫ ⟪।⟫)
+1\. Người Bà-la-môn ca ngợi các nữ thần.
+⟪ब्राह्मणो देवीः स्तौति ।⟫ (hoặc: ⟪स्तवीति ।⟫)
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
-⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
+2\. Các anh hùng đi trên con đường khó khăn đến làng của người Aryan.
+⟪शूरा दुर्गमेण मार्गेणार्यग्रामं यन्ति ।⟫
 
-3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
+3\. Người đầy tớ gái vắt sữa bò.
+⟪गृहदासी धेनूर्दोग्धि ।⟫
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (oder: ⟪आर्यशत्रवो⟫...)
+4\. Kẻ thù của người Aryan giết chết các Kṣatriya hùng mạnh.
+⟪आर्यारयो बलवत्क्षत्रियान्घन्ति ।⟫ (hoặc: ⟪आर्यशत्रवो⟫...)
 
-5\. Ein Gespenst isst keine Früchte.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+5. Một con ma không ăn trái cây.
+⟪भूतं फलानि नात्ति ।⟫
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (oder: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+6. Đó là lời của người đã [đi tốt con đường qua các kiếp luân hồi] đối với đệ tử.
+⟪एवं सुगतः श्रावकं वक्ति ।⟫ (hoặc: ⟪ब्रवीति । ब्रूते ।⟫)
 
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Hãy đưa ra định nghĩa của Yoga bằng tiếng Phạn theo hai cách: một lần sử dụng một từ ghép, và một lần khác bằng cách phân tích từ ghép đó.
 
-⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
+⟪योगश्चित्तवृत्तिनिरोधः ।⟫ (⟪योगश्चित्तस्य वृत्तेर्निरोधः ।⟫)
 
-D) Übersetzen Sie:
+D) Hãy dịch:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
+Bổn phận của tất cả là: bất hại, chân ngữ, thanh tịnh, không phàn nàn về số phận của mình, không có ác ý và sự kiên nhẫn bao dung.
 
 ::: media
 ![](/images/uebung028.webp)
-Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#uebung028))
+Hình: ⟪दुर्गमो मार्गः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung028))
 :::

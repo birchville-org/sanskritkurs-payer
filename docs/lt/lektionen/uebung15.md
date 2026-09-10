@@ -1,148 +1,160 @@
 ---
-title: "Exercise 15"
+title: "Pratimas 15"
 uebung_id: 15
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 15
+# Pratimas 15
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
+A) Išverkite posakį, esantį pamokos pradžioje
 
-⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
-⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
-⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫  
-Wissen gibt es durch Gehorsam gegenüber einem Lehrer oder für üppig viel Geld oder im Austausch gegen Wissen. Eine vierte Möglichkeit gibt es nicht.
+⟪गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫  
+Išmintis įgyjama paklūstant mokytojui, už didelius pinigus arba mainant į kitas žinias. Ketvirtos galimybės nėra.
 
-B) Lösen Sie folgende Tatpuruṣa auf:
+B) Išskirkite šiuos Tatpuruṣa sandarus:
 
-⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — ein gewalttätiger
+⟪१⟫. ⟪बलकृतः । बलेन कृतः⟫ — smurtinis
 
-⟪२⟫. ⟪बालधनस्य⟫ ⟪।⟫ ⟪बालस्य⟫ ⟪धनस्य⟫ — des Eigentums eines Minderjährigen
+⟪२⟫. ⟪बालधनस्य । बालस्य धनस्य⟫ — nepilnamečio turtas
 
-⟪३⟫. ⟪नरकाकम्⟫ ⟪।⟫ ⟪काक⟫ ⟪इव⟫ ⟪नरम्⟫ ⟪।⟫ ⟪नर⟫ ⟪एव⟫ ⟪काकम्⟫ — einen Mann wie eine Krähe
+⟪३⟫. ⟪नरकाकम् । काक इव नरम् । नर एव काकम्⟫ — vyras kaip varna
 
-⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — des Meisters / Lehrers der Leute / der Welt / der Welten
+⟪४⟫. ⟪लोकगुरोः । लोकस्य गुरोः । लोकानां गुरोः⟫ — žmonių / pasaulio / pasaulių šeimininkas
 
-⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — durch den HERRN der Wasser = durch Varuṇa
+⟪५⟫. ⟪जलेश्वरेण । जलस्येश्वरेण । जालानामीश्वरेण⟫ — per vandų valdovą = per Varuṇą
 
-⟪६⟫. ⟪जनपानम्⟫ ⟪।⟫ ⟪जनस्य⟫ ⟪पानम्⟫ ⟪।⟫ ⟪जनानां⟫ ⟪पानम्⟫ — Trank für die Leute / für die Menschen
+⟪६⟫. ⟪जनपानम् । जनस्य पानम् । जनानां पानम्⟫ — gėrimas žmonėms / žmogui
 
-⟪७⟫. ⟪वाक्यसारथीन्⟫ ⟪।⟫ ⟪वाक्यस्य⟫ ⟪सारथीन्⟫ ⟪।⟫ ⟪वाक्यानां⟫ ⟪सारथीन्⟫ — die (Akk.) Wortführer
+⟪७⟫. ⟪वाक्यसारथीन् । वाक्यस्य सारथीन् । वाक्यानां सारथीन्⟫ — (K.) kalbų vedliai
 
-⟪८⟫. ⟪गुणवचनानि⟫ ⟪।⟫ ⟪गुणस्य⟫ ⟪वचनानि⟫ ⟪।⟫ ⟪गुणानां⟫ ⟪वचनानि⟫ — Eigenschaftswörter
+⟪८⟫. ⟪गुणवचनानि । गुणस्य वचनानि । गुणानां वचनानि⟫ — daiktavardžiai
 
-⟪९⟫. ⟪मृगेश्वरैः⟫ ⟪।⟫ ⟪मृगस्येश्वरैः⟫ ⟪।⟫ ⟪मृगाणामीश्वरैः⟫ — durch die HERREN der Wildtiere = durch Löwen
+⟪९⟫. ⟪मृगेश्वरैः । मृगस्येश्वरैः । मृगाणामीश्वरैः⟫ — per laukinių gyvūnų šeimininkus = per liūtus
 
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫ ⟪।⟫ ⟪बुद्ध्या⟫ ⟪कृतायाः⟫ — der (Gen.), die mit Vernunft gemacht wurde, vernünftig gehandelt
+⟪१०⟫. ⟪बुद्धिकृतायाः । बुद्ध्या कृतायाः⟫ — (G.), padaryta su protu, protingai pasielgusi
 
-⟪११⟫. ⟪धर्मयज्ञेन⟫ ⟪।⟫ ⟪धर्मेनैव⟫ ⟪यज्ञेन⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञ्नेन⟫ — durch ein unblutiges Opfer
+⟪११⟫. ⟪धर्मयज्ञेन । धर्मेनैव यज्ञेन । धर्मस्य यज्ञ्नेन⟫ — per nekraujingą aukojimą
 
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫ ⟪।⟫ ⟪यज्ञस्याङ्गानि⟫ ⟪।⟫ ⟪यज्ञा⟫anam⟪ङ्गानि⟫ — Glieder / Bestandteile / Teile eine Opfers, Opfergeräte
+⟪१२⟫. ⟪यज्ञाङ्गानि । यज्ञस्याङ्गानि । यज्ञा⟫anam⟪ङ्गानि⟫ — aukos dalys / komponentai / gabalai, aukojimo reikmenys
 
-⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — durch die Familie
+⟪१३⟫. ⟪गृहजनेन । गृहस्य जनेन⟫ — per šeimos
 
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — die Dorfschreiber
+⟪१४⟫. ⟪ग्रामलेखकाः । ग्रामाणां लेखकाः⟫ — kaimo raštininkai
 
-⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — Schlangengott, Schlangenfürst, Elefantengott, Elefantenkönig
+⟪१५⟫. ⟪नागदेवः । नागानां देवः⟫ — gyvatų dievas, gyvatų valdovas, dramblių dievas, dramblių karalius
 
-⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — durch durch Verdienst / Gutestun ersiegte (fem.)
+⟪१६⟫. ⟪पुण्यजिताभिः । पुण्येन जिताभिः⟫ — per nuopelnus / gerus darbus įgytas (moter. g.)
 
-⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — die (Akk.) Welt des Bösen, Welt der Bösen, Hölle, böse Welt
+⟪१७⟫. ⟪पापलोकम् । पापस्य लोकम् । पापानां लोकम् । पापं लोकम्⟫ — pikto pasaulis (galininkas), blogio pasaulis, pragaras, pikta pasauly
 
-⟪१८⟫. ⟪सत्यवदनस्य⟫ ⟪।⟫ ⟪सत्यस्य⟫ ⟪वदनस्य⟫ — des Sprechens der Wahrheit
+⟪१८⟫. ⟪सत्यवदनस्य । सत्यस्य वदनस्य⟫ — tiesos kalbėjimo
 
-⟪१९⟫. ⟪दानधर्मेण⟫ ⟪।⟫ ⟪दानस्य⟫ ⟪धर्मेण⟫ ⟪।⟫ ⟪दानेनैव⟫ ⟪धर्मेण⟫ — durch die Pflicht zu Spenden
+⟪१९⟫. ⟪दानधर्मेण । दानस्य धर्मेण । दानेनैव धर्मेण⟫ — per dovanų davimo pareigą
 
-⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — Frage nach dem Glück, Frage nach dem Wohlsein, Frage nach dem Befinden, eine leichte Frage
+⟪२०⟫. ⟪सुखप्रश्नः । सुखस्य प्रश्नः । सुखः प्रश्नः⟫ — laimės klausimas, gerbūvio klausimas, savijautos klausimas, lengvas klausimas
 
-⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — der Verwirrung durch das Leid, Verzweiflung, Verblendung bezüglich des Leides
+⟪२१⟫. ⟪दुःखमोहस्य । दुःखस्य मोहस्य । दुःखेन मोहस्य⟫ — kančios painiava, beviltiškumas, klaidingos nuomonės apie kančią
 
-⟪२२⟫. ⟪सोमपात्राणि⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪पात्राणि⟫ — Somagefässe
+⟪२२⟫. ⟪सोमपात्राणि । सोमस्य पात्राणि⟫ — indai
 
-⟪२३⟫. ⟪स्वर्गमार्गः⟫ ⟪।⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ — Weg zum Himmel
+⟪२३⟫. ⟪स्वर्गमार्गः । स्वर्गस्य मार्गः⟫ — kelias į dangų
 
-⟪२४⟫. ⟪कामधेन्वा⟫ ⟪।⟫ ⟪कामस्य⟫ ⟪धेन्वा⟫ ⟪।⟫ ⟪कामानां⟫ ⟪धेन्वा⟫ — durch die Wunschkuh
+⟪२४⟫. ⟪कामधेन्वा । कामस्य धेन्वा । कामानां धेन्वा⟫ — per trokštamąją karvę
 
-⟪२५⟫. ⟪वर्णधर्मः⟫ ⟪।⟫ ⟪वर्णानां⟫ ⟪धर्मः⟫ — Ständerecht
+⟪२५⟫. ⟪वर्णधर्मः । वर्णानां धर्मः⟫ — kasta teisė
 
-⟪२६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुत्योदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ — vom Veda Gesagtes / Vorgeschriebenes
+⟪२६⟫. ⟪श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम्⟫ — tai, kas pasakyta / nurodyta Vedoje
 
 ::: media
 ![](/images/uebung014.webp)
-Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#uebung014))
+Pav.: ⟪जलेश्वरो वरुणः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#uebung014))
 :::
 ---
 
-## Zusätzliche Übungen
+## Papildomi pratimai
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
+Išskaidykite šiuos sandaugas sanskritu kaip tatpurušą ir pateikite lietuvišką vertimą. Pateikite visas jums įmanomas išskaidymo ir vertimo formas. Taip pat nurodykite, kokiu linksniu ir skaičiumi yra bendras sandaugos formavimas.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Des Götterfürsten
+⟪१⟫. ⟪देवेन्द्रस्य । देवानामिन्द्रस्य⟫ — The Lord of the Gods
 
-⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — eine von Leid verbrannte Frau
+⟪२⟫. ⟪दुःखदग्धा । दुःखेन दग्धा⟫ — a woman consumed by suffering
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — die Lehre von der Erlösung, das Gesetz der Erlösung
+⟪३⟫. ⟪मोक्षधर्मः । मोक्षस्य धर्मः⟫ — the doctrine of liberation, the law of liberation
 
-⟪४⟫. ⟪अन्नजातानि⟫ ⟪।⟫ ⟪अन्नेन⟫ ⟪जातानि⟫ ⟪।⟫ ⟪अन्नस्य⟫ ⟪जातानि⟫ — von Speise Hervorgebrachtes, Arten des Essens
+⟪४⟫. ⟪अन्नजातानि । अन्नेन जातानि । अन्नस्य जातानि⟫ — that which is produced from food, kinds of eating
 
-⟪५⟫. ⟪गृहकरणम्⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪करणम्⟫ — Hausarbeit
+⟪५⟫. ⟪गृहकरणम् । गृहस्य करणम्⟫ — household work
 
-⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — durch Śūdrawerk
+⟪६⟫. ⟪शूद्रकृतेन । शूद्रस्य कृतेन । शूद्राणां कृतेन⟫ — through Śūdra work
 
-⟪७⟫. ⟪ईश्वरपूजा⟫ ⟪।⟫ ⟪ईश्वरस्य⟫ ⟪पूजा⟫ — Gottesdienst
+⟪७⟫. ⟪ईश्वरपूजा । ईश्वरस्य पूजा⟫ — divine service
 
-⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — HERR der Götter
+⟪८⟫. ⟪देवेश्वरः । देवानामीश्वरः⟫ — LORD of the Gods
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — Opfer (Akkusativ) der Kaṣatriyas / des Kṣatriya, Opfer für Kṣatriyas / einen Kṣatriya
+⟪९⟫. ⟪क्षत्रिययज्ञम् । क्षत्रियस्य यज्ञम् । क्षत्रियाणां यज्ञम्⟫ — sacrifice (accusative) of the Kṣatriyas / of a Kṣatriya, sacrifice for Kṣatriyas / for a Kṣatriya
 
-⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — durch Vaiśyawesen
+⟪१०⟫. ⟪वैश्यभावेन । वैश्यस्य भावेन । वैश्यानां भावेन⟫ — through Vaiśya nature
 
-⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — des Götterlehrers, des göttergleichen Lehrers, des göttlichen Lehrers
+⟪११⟫. ⟪देवगुरोः । देवानां गुरोः । देवस्येव् गुरोः । देवस्यैव गोरोः⟫ — of the teacher of the gods, of the god-like teacher, of the divine teacher
 
-⟪१२⟫. ⟪धनलोभः⟫ ⟪॥⟫ ⟪धनस्य⟫ ⟪लोभः⟫ ⟪।⟫ ⟪धनानां⟫ ⟪लोभः⟫ — materieller Gewinn
+⟪१२⟫. ⟪धनलोभः ॥ धनस्य लोभः । धनानां लोभः⟫ — material gain
 
-⟪१३⟫. ⟪गृहदासी⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪दासी⟫ — Hausmagd
+⟪१३⟫. ⟪गृहदासी । गृहस्य दासी⟫ — female household servant
 
-⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — Verblendung über das Leiden, Verwirrung durch Leiden
+⟪१४⟫. ⟪दुःखमोहः । दुःखस्य मोहः⟫ — delusion regarding suffering, confusion through suffering
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — der Dorfherren
+⟪१५⟫. ⟪ग्रामेश्वरम् । ग्रामस्येश्वरम् । ग्रामाणामीश्वरम्⟫ — of the village lords
 
-⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — Stadtvolk, Städter
+⟪१६⟫. ⟪नगरजनाः । नगरस्य जनाः । नगराणां जनाः⟫ — city people, townspeople
 
-⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — des rechten Zeitpunkts für das Opfer / für Opfer, der Zeit ...
+⟪१७⟫. ⟪यज्ञकालस्य ॥ यज्ञस्य कालस्य । जज्ञानां कालस्य⟫ — of the right time for sacrifice / for sacrifices, the time ...
 
-⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — Gotteshäuser
+⟪१८⟫. ⟪देवगृहाणि । देवस्य गृहाणि । देवाणां गृहाणि⟫ — Die dvaspatis
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — der Göttersöhne
+⟪१९⟫. ⟪देवपुत्राणाम् । देवानां पुत्राणाम्⟫ — Devasūnavaḥ
 
-⟪२०⟫. ⟪पश्विष्टिः⟫ ⟪।⟫ ⟪पशोरिष्टिः⟫ ⟪।⟫ ⟪पशूनामीष्टिः⟫ — Tieropfer
+⟪२०⟫. ⟪पश्विष्टिः । पशोरिष्टिः । पशूनामीष्टिः⟫ — Paśubandha
 
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫ ⟪।⟫ ⟪स्मृत्योक्तम्⟫ ⟪।⟫ ⟪स्मृतेरुक्तम्⟫ ⟪।⟫ ⟪स्मृत्या⟫ ⟪उक्तम्⟫ — Spruch der heiligen Überlieferung
+⟪२१⟫. ⟪स्मृत्युक्तम् । स्मृत्योक्तम् । स्मृतेरुक्तम् । स्मृत्या उक्तम्⟫ — Vāc sāmavedīyā
 
-⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — Haus des Meisters / der Meister
+⟪२२⟫. ⟪गुरुगृहम् । गुरोर्गृहम् । गुरूणां गृहम्⟫ — Gurukula
 
-⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — durch ein Somaopfer
+⟪२३⟫. ⟪सोमयज्ञेन । सोमस्य यज्ञेन⟫ — Somayajñena
 
-⟪२४⟫. ⟪स्वर्गगताः⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गताः⟫ — in den Himmel Gekommene
+⟪२४⟫. ⟪स्वर्गगताः । स्वर्गं गताः⟫ — Svargagataḥ
 
-⟪२५⟫. ⟪सुखप्रश्नम्⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नम्⟫ — die (Akk.) Frage nach dem Glück, Frage nach dem Wohlergehen, Frage nach der Befindlichkeit, leichte Frage
+⟪१८⟫. ⟪देवगृहाणि । देवस्य गृहाणि । देवाणां गृहाणि⟫ — Die dvaspatis
 
-⟪२६⟫. ⟪पशुधर्मः⟫ ⟪।⟫ ⟪पशोर्धर्मः⟫ ⟪।⟫ ⟪पशूनां⟫ ⟪धर्मः⟫ — das Gesetz des Viehs, viehisches Verhalten
+⟪१९⟫. ⟪देवपुत्राणाम् । देवानां पुत्राणाम्⟫ — Devasūnavaḥ
 
-⟪२७⟫. ⟪स्वर्गलोकः⟫ ⟪।⟫ ⟪स्वर्⟫ga⟪णां⟫ ⟪लोकः⟫ ⟪।⟫ ⟪स्वर्ग⟫ ⟪एव⟫ ⟪लोकः⟫ — Himmelswelt, Welt der Himmel
+⟪२०⟫. ⟪पश्विष्टिः । पशोरिष्टिः । पशूनामीष्टिः⟫ — Paśubandha
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — durch Opfer vedischer Weiser / des vedischen Weisen
+⟪२१⟫. ⟪स्मृत्युक्तम् । स्मृत्योक्तम् । स्मृतेरुक्तम् । स्मृत्या उक्तम्⟫ — Vāc sāmavedīyā
 
-⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — Zeit (Akkusativ) dafür, der (rechte) Zeitpunkt dafür
+⟪२२⟫. ⟪गुरुगृहम् । गुरोर्गृहम् । गुरूणां गृहम्⟫ — Gurukula
 
-⟪३०⟫. ⟪सत्यवदनम्⟫ ⟪।⟫ ⟪स्त्यस्य⟫ ⟪वदनम्⟫ — Wahrheitsrede, Sprechen der Wahrheit
+⟪२३⟫. ⟪सोमयज्ञेन । सोमस्य यज्ञेन⟫ — Somayajñena
+
+⟪२४⟫. ⟪स्वर्गगताः । स्वर्गं गताः⟫ — Svargagataḥ
+
+⟪२५⟫. ⟪सुखप्रश्नम् । सुखस्य प्रश्नम्⟫ — Svastiprasnāḥ
+
+⟪२६⟫. ⟪पशुधर्मः । पशोर्धर्मः । पशूनां धर्मः⟫ — Goṣṭhācāra
+
+⟪२७⟫. ⟪णां लोकः । स्वर्ग एव लोकः⟫ga⟪णां लोकः । स्वर्ग एव लोकः⟫ — Svargaloka
+
+⟪२८⟫. ⟪ऋषियज्ञैः । ऋषेर्यज्ञैः । ऋषीणां यज्ञैः⟫ — Ṛgvedikānāmṛṣīnāmayajñena
+
+⟪२९⟫. ⟪तत्कालम् । तस्य कालम् । त्स्याः कालम् । तेषां कालम् । तासां कालम्⟫ — Tatkālaḥ
+
+⟪३०⟫. ⟪सत्यवदनम् । स्त्यस्य वदनम्⟫ — Satyavāda
 
 ::: media
 ![](/images/uebung016.webp)
-Abb.: ⟪गृहकरणम्⟫
-(Bildquelle: [Details](/licenses#uebung016))
+Pav.: ⟪गृहकरणम्⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#uebung016))
 :::

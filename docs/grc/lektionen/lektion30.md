@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Μάθημα 30"
+subtitle: 'Η 9η τάση του ενεστώτα (⟪क्र्यादि⟫ = \"⟪क्री⟫ κ.ο.κ.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα γʹ0
@@ -363,8 +364,8 @@ ek toutou:
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/grc/licenses#lekt2904))
+Εἰκ.: ⟪पुनर्भवः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : zēn
 
@@ -516,4 +517,3 @@ A) Μετατρέψετε τὰς ἑξῆς ρηματικὰς μορφὰς �
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

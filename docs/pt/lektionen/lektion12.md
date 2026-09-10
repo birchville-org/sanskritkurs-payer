@@ -1,10 +1,11 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Lição 12"
+subtitle: "O particípio perfeito passivo (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 12
@@ -145,7 +146,7 @@ Nas formações *aniṭ*, as seguintes leis de sandhi interno devem ser observad
 ::: media
 ![](/images/lekt1201.webp)
 Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1201))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1201))
 :::
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : queimar (algo)
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : superar, suportar, suportar pacientemente = perdoar
@@ -155,7 +156,7 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 ::: media
 ![](/images/lekt1202.webp)
 Fig.: ⟪मार्गः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1202))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1202))
 :::
 - **api** ⟪अपि⟫ : também (posposto)
 
@@ -173,7 +174,7 @@ Sobre a formação de palavras:
 ::: media
 ![](/images/lekt1203.webp)
 Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1203))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1203))
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : conhecimento, órgão do conhecimento.
 

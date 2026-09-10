@@ -1,6 +1,6 @@
 ---
 title: "Lesing 58"
-subtitle: "Die primären Dualendungen (⟪द्विवचनम्⟫)"
+subtitle: "Die primêre duaal-uitgange (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -366,7 +366,7 @@ Paradigmas:
 :::
 ::: media
 ![](/images/lekt5808.webp)
-Fig.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
+Afb.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt5808))
 :::
 ## 58.7. Oefening

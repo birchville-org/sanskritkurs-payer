@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lectio 59"
+subtitle: "Desinens secundariae et desinens imperativi numeri dualis (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lectio 59
@@ -772,9 +773,9 @@ Sequens pars initium est 15. cantici, quod aoristo dedicatur. ⟪रावण⟫
 
 ::: media
 ![](/images/lekt5903.webp)
-Abb.: ⟪कुम्भकर्णः⟫
+Fig.: ⟪कुम्भकर्णः⟫
 Kecak-Tanz, Bali (Indonesien)
-(Bildquelle: [Details](/la/licenses#lekt5903))
+(Fons imaginis: [Detalia](/la/licenses#lekt5903))
 :::
 _Versio adiuvatrix:_ Versus 6: ⟪दिदृक्षते⟫ \= Desiderativum ad ⟪दृश्⟫
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "Lecke 25"
+subtitle: 'Az ablativus képzése (⟪पञ्चमी⟫ = \"ötös esetrag\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecke 25

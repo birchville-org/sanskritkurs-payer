@@ -3268,13 +3268,13 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 :::
 
 ::: indent
-⟪शिष्य⟫ 3: zu belehrender = Schüler
+⟪शिष्य⟫ 3: 受教导者 = 学生
 :::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
+⟪शरण⟫ 3: 保护的、庇护的；中性名词：保护、避难所、投靠
 
-⟪सङ्घ⟫ 中性： (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
+⟪सङ्घ⟫ 中性：（源于 ⟪सम्⟫-⟪हन्⟫ ：共同打击）：群体、大队、团体（例如佛教僧团）
 
-⟪कन्या⟫ 阴性： junges Mädchen, Tochter, Jungfrau
+⟪कन्या⟫ 阴性：年轻女孩、女儿、处女
 
 ⟪अति⟫ 前缀: 越过，超过，超越（在空间、时间、数量、数额、秩序、力量、强度上），极其
 

@@ -1,46 +1,47 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: "4. lecke"
+subtitle: "Kérdő- és mutatómások nominativus esete"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecke 4
 
 ## 4.1. Egyszerű kiegészítő kérdések (szókérdések) és válaszok
 
-### 4.1.1. Kérdő- és mutatószavak
+### 4.1.1. Kérdőnévmások és mutató névmások
 
-#### 4.1.1.1. Kérdőszó (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. Kérdőnévmások (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
-| | alanyeset (nominativus) singular | alanyeset (nominativus) plural |
+| | Nominativus egyes szám | Nominativus többes szám |
 | :--- | :--- | :--- |
-| **középnem** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
-| **hímnem** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
-| **nőnem** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
+| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **Femininum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. Mutatószó (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+#### 4.1.1.2. Mutató névmások (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
 ::: grammar-box
 | **Tőalakok** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
-| **alanyeset (nominativus) singular** ||||
-| **középnem** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **hímnem** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **nőnem** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
-| **alanyeset (nominativus) plural** ||||
-| **középnem** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **hímnem** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **nőnem** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| | **tad = ⟪तद्⟫:br"ő, ők; az":br(Megemlített)** | **etad = ⟪एतद्⟫:br"ez":br(Nagyon közel a beszélőhöz)** | **idam = ⟪इदम्⟫:br"ez":br(Közel)** |
+| **Nominativus egyes szám** ||||
+| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
+| **Maskulinum** | **sa, so saḥ = ⟪स सो सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष एषो एषः⟫** | **ayam = ⟪अयम्⟫** |
+| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **Nominativus többes szám** ||||
+| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
+| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
+| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
 :::
-**A nominativus singularis hímnemhez:**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) minden hang előtt áll, kivéve a rövid **-a**
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) **-a** előtt áll, amelyet az Avagraha elhagy (elmarad)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) csak szünetben áll (mondatvége, versszak vége)
+**A nom. sg. mask.:**
+**sa, eṣa** (⟪स एष⟫) áll minden hang előtt, kivéve a rövid **-a**-t
+**so, eṣo** (⟪सो एषो⟫) áll **-a** előtt, amelyet az avagraha elízissel (kieséssel) követ
+**saḥ, eṣaḥ** (⟪सः एषः⟫) csak pausa esetén áll (mondatvége, versszak vége)
 
 Ahhoz, hogy ezekkel a névmásokkal (sarvanāman n.) mondatokat alkossunk, szükséges még a következő Sandhi-szabályok ismerete:
 

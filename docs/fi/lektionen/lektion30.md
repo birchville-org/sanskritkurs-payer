@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Oppitunti 30"
+subtitle: '9. preesensluokka (⟪क्र्यादि⟫ = \"⟪क्री⟫ jne.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 30
@@ -516,4 +517,3 @@ Määritä ja käännä seuraavat sanamuodot:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

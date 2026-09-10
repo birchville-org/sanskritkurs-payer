@@ -120,10 +120,6 @@ scripts/repair_*.py
 scripts/sync_*.py
 scripts/syntax_*.py
 
-# Planned/Inactive languages
-docs/akk/
-docs/arc/
-docs/bg/
 
 # Development helper guides/scripts
 /files_to_translate.txt

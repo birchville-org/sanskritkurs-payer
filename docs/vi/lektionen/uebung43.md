@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 43"
 uebung_id: 43
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,12 +7,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 43
+# Bài tập 43
 
-A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu folgenden Verbformen:
+A) Hãy chia động từ ở **ngôi thứ hai** tương ứng về thì, số, cách thức v.v. cho các dạng động từ sau:
 
 ::: grammar-box
-| 1. Person / 3. Person | 2. Person |
+| Ngôi 1 / Ngôi 3 | Ngôi 2 |
 | :--- | :--- |
 | ⟪१⟫. ⟪आर्हम्⟫ | ⟪आर्हः⟫ |
 | ⟪२⟫. ⟪कुप्येम⟫ | ⟪कुप्येत⟫ |
@@ -70,82 +70,82 @@ A) Bilden Sie die in Zeit, Zahl, Modus u. s. w. entsprechende **2. Person** zu f
 ::: media
 ![](/images/uebung070.webp)
 Abb.: ⟪दिशसि⟫
-(Bildquelle: [Details](/licenses#uebung070))
+(Nguồn ảnh: [Chi tiết](/licenses#uebung070))
 :::
 ---
 
-## Übersetzungen ins Sanskrit
+## Bản dịch sang tiếng Phạn
 
-B) Übersetzen Sie ins Sanskrit:
+B) Hãy dịch sang tiếng Phạn:
 
-⟪१⟫. **⟪कस्माद्गुरौ⟫ ⟪तिष्ठति⟫ ⟪सीदथ⟫ ⟪।⟫** (Oder: **... ⟪आध्वे⟫ ⟪।⟫**)
-Warum sitzt ihr, während der Lehrer steht?
+⟪१⟫. **⟪कस्माद्गुरौ तिष्ठति सीदथ ।⟫** (Hoặc: **... ⟪आध्वे ।⟫**)
+Tại sao các ngươi ngồi trong khi thầy giáo đứng?
 
-⟪२⟫. **⟪किं⟫ ⟪विकल्पयसि⟫ ⟪किं⟫ ⟪सुकर्मणः⟫ ⟪सुफलमस्तीति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Bezweifelst du, ob eine gute Tat eine gute Frucht hat?
+⟪२⟫. **⟪किं विकल्पयसि किं सुकर्मणः सुफलमस्तीति ॥ २ ॥⟫**
+Ngươi nghi ngờ rằng một hành động tốt có kết quả tốt hay không?
 
-⟪३⟫. **⟪कच्चित्पितरं⟫ ⟪गर्भगृहं⟫ ⟪दर्शयिष्यथ⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ⟫ ⟪॥⟫**)
-Werdet ihr dem Vater den innersten Tempelschrein zeigen?
+⟪३⟫. **⟪कच्चित्पितरं गर्भगृहं दर्शयिष्यथ ॥ ३ ॥⟫** (Hoặc: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ ॥⟫**)
+Các ngươi có sẽ chỉ cho cha thấy nơi linh thiêng nhất trong đền thờ không?
 
-⟪४⟫. **⟪कस्य⟫ ⟪कवेः⟫ ⟪स्तोत्रमगायः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Das Preislied welches Dichters hast du gesungen?
+⟪४⟫. **⟪कस्य कवेः स्तोत्रमगायः ॥ ४ ॥⟫**
+Bài ca ngợi của nhà thơ nào ngươi đã hát?
 
-⟪५⟫. **⟪एतानि⟫ ⟪फलानि⟫ ⟪विक्रेष्यध्वे⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Werdet ihr diese Früchte verkaufen?
+⟪५⟫. **⟪एतानि फलानि विक्रेष्यध्वे ॥ ५ ॥⟫**
+Các ngươi có sẽ bán những trái cây này không?
 
-⟪६⟫. **⟪किमाज्ञापयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Was hast du befohlen?
+⟪६⟫. **⟪किमाज्ञापयः ॥ ६ ॥⟫**
+Ngươi đã ra lệnh gì?
 
-⟪७⟫. **⟪कदा⟫ ⟪काश्यामवर्तथाः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Wann hast du dich in Benares aufgehalten?
+⟪७⟫. **⟪कदा काश्यामवर्तथाः ॥ ७ ॥⟫**
+Khi nào ngươi đã lưu lại ở Benares?
 
-⟪८⟫. **⟪कच्चिद्देवानयजध्वम्⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Habt ihr (als Opferherren) die Götter mit einem Opfer verehrt?
+⟪८⟫. **⟪कच्चिद्देवानयजध्वम् ॥ ८ ॥⟫**
+Các ngươi (với tư cách là chủ tế) đã tôn kính các vị thần bằng một lễ hy sinh hay chưa?
 
-⟪९⟫. **⟪कस्मिन्नगरे⟫ ⟪ऽजायथाः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-In welcher Stadt wurdest du geboren?
+⟪९⟫. **⟪कस्मिन्नगरे ऽजायथाः ॥ ९ ॥⟫**
+Ở thành phố nào ngươi được sinh ra?
 
-⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Wie rettest du dich (überschreitest du den Strom) vor dem Feind?
+⟪१०⟫. **⟪कथं शत्रुं तरसि ॥ १० ॥⟫**
+Ngươi tự cứu mình (vượt qua dòng sông) trước kẻ thù như thế nào?
 
 ::: media
 ![](/images/uebung071.jpg)
-Abb.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
-(Bildquelle: [Details](/licenses#uebung071))
+Abb.: ⟪कदा काश्यामवर्तथाः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung071))
 :::
 ---
 
-## Gespräch (⟪संवादः⟫)
+## Đối thoại (⟪संवादः⟫)
 
-| ⟪पात्रम्⟫ / ⟪संवादः⟫ | Übersetzung |
+| ⟪पात्रम्⟫ / ⟪संवादः⟫ | Bản dịch |
 | :--- | :--- |
-| **⟪सुरेशः⟫ : ⟪अशोक⟫ ⟪क्व⟫ ⟪गच्छसीदानीम्⟫ ⟪॥⟫** | Sureśa: Aśoka, wohin gehst du gerade? |
-| **⟪अशोकः⟫ : ⟪आपणे⟫ ⟪गच्छामि⟫ ⟪।⟫ ⟪सत्वरमेव⟫ ⟪कानिचित्पण्यानि⟫ ⟪क्रीत्वा⟫ ⟪निवर्तिष्ये⟫ ⟪॥⟫** | Aśoka: Ich gehe auf den Markt. Ich werde rasch einige Waren kaufen und dann zurückkehren. |
-| **⟪सुरेशः⟫ : ⟪किं⟫ ⟪कश्चिदुत्सवो⟫ ⟪ऽद्य⟫ ⟪तव⟫ ⟪गृहे⟫ ⟪॥⟫** | Sureśa: Gibt es heute etwa ein Fest in deinem Haus? |
-| **⟪अशोकः⟫ : ⟪आम्⟫ ⟪।⟫ ⟪अद्य⟫ ⟪पितृपादानां⟫ ⟪जन्मदिनोत्सवः⟫ ⟪॥⟫** | Aśoka: Ja, heute ist der Geburtstag meines verehrten Vaters. |
-| **⟪सुरेशः⟫ : ⟪किं⟫ ⟪वयस्तव⟫ ⟪पितृचरणानाम्⟫ ⟪॥⟫** | Sureśa: Wie alt ist dein verehrter Vater? |
-| **⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं⟫ ⟪मम⟫ ⟪पितुर्वयः⟫ ⟪।⟫ ⟪अद्य⟫ ⟪मम⟫ ⟪गृहे⟫ ⟪बहवः⟫ ⟪संबन्धिनो⟫ ⟪मित्राणि⟫ ⟪चागमिष्यन्ति⟫ ⟪।⟫ ⟪त्वयाप्यागन्तव्यम्⟫ ⟪॥⟫** | Aśoka: Mein Vater ist 65 Jahre alt. Heute kommen viele Verwandte und Freunde zu mir; auch du musst kommen! |
-| **⟪सुरेशः⟫ : ⟪भद्र⟫ ⟪कतिवादने⟫ ⟪आगमिष्यन्ति⟫ ⟪जनाः⟫ ⟪॥⟫** | Sureśa: Mein Guter, um wie viel Uhr kommen die Leute? |
-| **⟪अशोकः⟫ : ⟪समयं⟫ ⟪किं⟫ ⟪पृच्छसि⟫ ⟪।⟫ ⟪षड्वादनं⟫ ⟪यावदागच्छ⟫ ⟪॥⟫** | Aśoka: Was fragst du nach der Zeit? Komm bis spätestens sechs Uhr! |
-| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं⟫ ⟪यावदागच्छामि⟫ ⟪चेत्⟫ ⟪॥⟫** | Sureśa: Und wenn ich erst gegen halb sieben komme? |
-| **⟪अशोकः⟫ : ⟪नैव⟫ ⟪षड्वादन⟫ ⟪एव⟫ ⟪निश्चितरूपेणागन्तव्यं⟫ ⟪त्वया⟫ ⟪॥⟫** | Aśoka: Keinesfalls! Du musst pünktlich um sechs Uhr kommen. |
-| **⟪सुरेशः⟫ : ⟪अस्तु⟫ ⟪।⟫ ⟪तर्हि⟫ ⟪गच्छ⟫ ⟪त्वं⟫ ⟪।⟫ ⟪नोचेद्विलम्बो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Sureśa: In Ordnung. Dann geh jetzt, sonst verspätest du dich. |
-| **(⟪विपण्यां⟫ ⟪प्रविशति⟫ ⟪वणिजमुपसृत्य⟫ ⟪वदति⟫ ⟪च⟫)** | (Tritt in den Laden, geht zum Händler und spricht:) |
-| **⟪अशोकः⟫ : ⟪अयि⟫ ⟪वणिग्वर⟫ ⟪कानिचित्पण्यानि⟫ ⟪क्रेतुमागतो⟫ ⟪ऽहम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪शीघ्रं⟫ ⟪मह्यम्⟫ ⟪॥⟫** | Aśoka: Hallo, bester aller Händler! Ich bin gekommen, um Waren zu kaufen. Gib sie mir schnell! |
-| **⟪वणिक्⟫ : ⟪वत्स⟫ ⟪त्वं⟫ ⟪किंकिं⟫ ⟪क्रेतुमिच्छसि⟫ ⟪।⟫ ⟪मम⟫ ⟪विपणौ⟫ ⟪बहून्युत्तमोत्तमानि⟫ ⟪पण्यानि⟫ ⟪सन्ति⟫ ⟪तानि⟫ ⟪च⟫ ⟪स्वल्पमूल्यानि⟫ ⟪।⟫ ⟪वद⟫ ⟪कियत्परिमाणं⟫ ⟪किं⟫ ⟪क्रेतुमिच्छसि⟫ ⟪॥⟫** | Händler: Mein Junge, was möchtest du kaufen? In meinem Laden gibt es viele exzellente Waren zu niedrigen Preisen. Sag mir, was und wie viel du möchtest. |
-| **⟪अशोकः⟫ : ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪कियता⟫ ⟪मूल्येन⟫ ⟪विक्रीयते⟫ ⟪॥⟫** | Aśoka: Wie viel kostet ein Seer Zucker? |
-| **⟪वणिक्⟫ : ⟪नाधिक्यं⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪केवलमष्टाणकेन⟫ ⟪दास्यामि⟫ ⟪सेरभारां⟫ ⟪शर्कराम्⟫ ⟪॥⟫** | Händler: Nicht viel. Ich gebe dir ein Seer Zucker für nur acht Anna. |
-| **⟪अशोकः⟫ : ⟪तर्हि⟫ ⟪तोलयित्वा⟫ ⟪शीघ्रं⟫ ⟪सेरपरिमितां⟫ ⟪शर्करां⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: Dann wiege mir schnell ein Seer ab und gib es mir! |
-| **⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫ ⟪गृहाण⟫ ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫ ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫** | Händler: (wickelt den Zucker in Papier ein): Junge, nimm den Zucker! Und gib mir acht Anna dafür, aber schnell! |
-| **⟪अशोकः⟫ : (⟪आदाय⟫ ⟪हस्ते⟫ ⟪तस्य⟫ ⟪भारं⟫ ⟪चाल्पं⟫ ⟪विलोक्य⟫) ⟪भो⟫ ⟪वणिक्⟫ ⟪।⟫ ⟪नैषा⟫ ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪दृश्यते⟫ ⟪।⟫ ⟪पुनः⟫ ⟪सम्यक्तोलयित्वा⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: (nimmt es in die Hand und bemerkt das geringe Gewicht): He, Händler! Das scheint kein ganzes Seer Zucker zu sein. Wiege es noch einmal richtig ab! |
-| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन⟫ ⟪।⟫ ⟪अकिञ्चित्करमेतत्⟫ ⟪।⟫ ⟪तव⟫ ⟪भारवहनक्लेशो⟫ ⟪ऽल्पो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Händler: (lachend): Was macht das schon? Es ist bedeutungslos. So hast du weniger Mühe beim Tragen der Last. |
-| **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (überlegt kurz und legt ihm vier Anna hin): Herr Kaufmann, hier ist der Preis. Ich muss nämlich eilig nach Hause. |
-| **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Händler: He, Junge! Komm zurück! Hör mal! Wohin gehst du, nachdem du nur so wenig bezahlt hast? Gib mir die restlichen vier Anna! |
-| **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Kaufmann! Was macht das schon? Es ist bedeutungslos. So hast du weniger Mühe beim Zählen der Münzen! |
-| **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Spricht's und rennt eilig davon.) |
+| **⟪सुरेशः⟫ : ⟪अशोक क्व गच्छसीदानीम् ॥⟫** | Sureśa: Aśoka, ngươi đang đi đâu vậy?
+| **⟪अशोकः⟫ : ⟪आपणे गच्छामि । सत्वरमेव कानिचित्पण्यानि क्रीत्वा निवर्तिष्ये ॥⟫** | Aśoka: Tôi đang đi đến chợ. Tôi sẽ mua nhanh một vài món hàng và sau đó quay lại.
+| **⟪सुरेशः⟫ : ⟪किं कश्चिदुत्सवो ऽद्य तव गृहे ॥⟫** | Sureśa: Có phải hôm nay nhà ngươi có lễ hội không?
+| **⟪अशोकः⟫ : ⟪आम् । अद्य पितृपादानां जन्मदिनोत्सवः ॥⟫** | Aśoka: Vâng, hôm nay là ngày sinh nhật của cha tôi kính mến.
+| **⟪सुरेशः⟫ : ⟪किं वयस्तव पितृचरणानाम् ॥⟫** | Sureśa: Cha ngươi kính mến bao nhiêu tuổi?
+| **⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं मम पितुर्वयः । अद्य मम गृहे बहवः संबन्धिनो मित्राणि चागमिष्यन्ति । त्वयाप्यागन्तव्यम् ॥⟫** | Aśoka: Cha tôi 65 tuổi. Hôm nay nhiều người thân và bạn bè sẽ đến với tôi; ngươi cũng phải đến!
+| **⟪सुरेशः⟫ : ⟪भद्र कतिवादने आगमिष्यन्ति जनाः ॥⟫** | Sureśa: Người tốt của tôi, mọi người đến lúc mấy giờ?
+| **⟪अशोकः⟫ : ⟪समयं किं पृच्छसि । षड्वादनं यावदागच्छ ॥⟫** | Aśoka: Ngươi hỏi gì về thời gian? Hãy đến trước sáu giờ!
+| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं यावदागच्छामि चेत् ॥⟫** | Sureśa: Còn nếu tôi đến lúc khoảng bảy giờ rưỡi thì sao?
+| **⟪अशोकः⟫ : ⟪नैव षड्वादन एव निश्चितरूपेणागन्तव्यं त्वया ॥⟫** | Aśoka: Không được! Ngươi phải đến đúng giờ sáu.
+| **⟪सुरेशः⟫ : ⟪अस्तु । तर्हि गच्छ त्वं । नोचेद्विलम्बो भविष्यति ॥⟫** | Sureśa: Được rồi. Vậy bây giờ ngươi đi đi, nếu không sẽ bị muộn.
+| **(⟪विपण्यां प्रविशति वणिजमुपसृत्य वदति च⟫)** | (Bước vào cửa hàng, đi đến nhà buôn và nói:)
+| **⟪अशोकः⟫ : ⟪अयि वणिग्वर कानिचित्पण्यानि क्रेतुमागतो ऽहम् । देहि शीघ्रं मह्यम् ॥⟫** | Aśoka: Chào, vị nhà buôn giỏi nhất! Tôi đến để mua hàng. Hãy đưa tôi nhanh chúng lên!
+| **⟪वणिक्⟫ : ⟪वत्स त्वं किंकिं क्रेतुमिच्छसि । मम विपणौ बहून्युत्तमोत्तमानि पण्यानि सन्ति तानि च स्वल्पमूल्यानि । वद कियत्परिमाणं किं क्रेतुमिच्छसि ॥⟫** | Nhà buôn: Cậu bé, ngươi muốn mua gì? Trong cửa hàng của tôi có nhiều món hàng tuyệt vời với giá thấp. Hãy nói cho tôi biết ngươi muốn gì và bao nhiêu.
+| **⟪अशोकः⟫ : ⟪सेरभारा शर्करा कियता मूल्येन विक्रीयते ॥⟫** | Aśoka: Một cân đường giá bao nhiêu?
+| **⟪वणिक्⟫ : ⟪नाधिक्यं मूल्यम् । केवलमष्टाणकेन दास्यामि सेरभारां शर्कराम् ॥⟫** | Nhà buôn: Không nhiều. Tôi sẽ cho ngươi một cân đường chỉ với tám Anna.
+| **⟪अशोकः⟫ : ⟪तर्हि तोलयित्वा शीघ्रं सेरपरिमितां शर्करां देहि ॥⟫** | Aśoka: Vậy hãy cân nhanh cho tôi một cân và đưa nó đây!
+| **⟪वणिक्⟫ : (⟪शर्करां कर्गले संपुटीकृत्य⟫) ⟪बाल गृहाण शर्कराम् । देहि च मह्यमाणकाष्टकम् । सत्वरं देहि ॥⟫** | Nhà buôn: (quấn đường vào giấy): Cậu bé, hãy lấy đường! Và đưa cho tôi tám Anna vì nó, nhưng nhanh lên!
+| **⟪अशोकः⟫ : (⟪आदाय हस्ते तस्य भारं चाल्पं विलोक्य⟫) ⟪भो वणिक् । नैषा सेरभारा शर्करा दृश्यते । पुनः सम्यक्तोलयित्वा देहि ॥⟫** | Aśoka: (cầm nó vào tay và nhận thấy trọng lượng nhẹ): Này, nhà buôn! Cái này dường như không phải là một cân đường đầy đủ. Hãy cân lại cho đúng!
+| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन । अकिञ्चित्करमेतत् । तव भारवहनक्लेशो ऽल्पो भविष्यति ॥⟫** | Nhà buôn: (cười): Có sao đâu? Nó không đáng kể. Như vậy ngươi sẽ đỡ vất vả khi mang gánh nặng.
+| **⟪अशोकः⟫ : (⟪मनसि किंचिद्विचार्याणकचतुष्टयं च तस्य पुरत उपस्थाप्य⟫) ⟪भो श्रेष्ठिन्गृहाण मूल्यम् । मया हि शीघ्रं गृहं गन्तव्यम् ॥⟫** | Aśoka: (suy nghĩ một lát và đặt bốn Anna xuống): Thưa ông chủ, đây là giá. Tôi thực sự phải vội về nhà.
+| **⟪वणिक्⟫ : ⟪रे बालक । एह्येहि शृणु तावत् । अल्पमेव मूल्यं दत्त्वा क्व व्रजसि । आणकचतुष्टयमन्यदपि देहि ॥⟫** | Nhà buôn: Này, cậu bé! Hãy quay lại! Nghe này! Ngươi đi đâu sau khi chỉ trả có bấy nhiêu? Đưa cho tôi bốn Anna còn lại!
+| **⟪अशोकः⟫ : ⟪श्रेष्ठिन् । किमनेन । अकिंचित्करमेतत् । नाणकगणनाक्लेशस्ते ऽल्पीयान्भविष्यति ॥⟫** | Aśoka: Ông chủ! Có sao đâu? Nó không đáng kể. Như vậy ông sẽ đỡ vất vả khi đếm tiền xu!
+| **(⟪इत्युक्त्वा ततो जवेन द्रवति⟫)** | (Nói xong và chạy đi vội vã.)
 
-**(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
+**(⟪विपणिस्थो वञ्चको वणिक् किमपि कर्तुमशक्नोत्केवलं तस्य मनसि पश्चात्ताप एवासीत् । अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥⟫)**
 
-**Zusammenfassung:**
-Der betrügerische Händler in seinem Laden konnte nichts tun und empfand nur Reue in seinem Herzen. Aśoka kam nach Hause und erzählte die ganze Begebenheit. Alle Verwandten und Freunde amüsierten sich prächtig. So fand die Geburtstagsfeier ein frohes Ende.
+**Tóm tắt:**
+Tên thương gia gian lận trong cửa hàng của mình không thể làm gì ngoài cảm thấy hối hận trong lòng. Aśoka trở về nhà và kể lại toàn bộ sự việc. Tất cả người thân và bạn bè đều vui vẻ thích thú. Như vậy, bữa tiệc sinh nhật đã kết thúc trong niềm vui.
 

@@ -1,169 +1,122 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Lekcija 23"
+subtitle: "Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. Infinitiv (⟪तुमुन्⟫)
 
 ::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
+**Ako se u sanskrtu želi izraziti da se neka radnja obavlja radi druge radnje ("kako bi"), za radnju zbog koje se nešto čini može se koristiti infinitiv (⟪तुमुन्⟩). Infinitiv prvenstveno označava svrhu ili namjeru:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma je otišao kako bi čuo govor učitelja."
 
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:**
+**Imajte na umu da infinitiv – uz nekoliko strogo definiranih iznimaka – ne može stajati kao subjekt ili objekt glagola:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+> "Uči plesati" se stoga ne smije prevoditi s infinitivom ("plesati"), već treba koristiti verbalnu imenicu, npr.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "učiti").
 
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:**
+**Infinitiv se također koristi s glagolima i imenicama u značenju "željeti" ili "želeti", kada su agens (⟪कर्तृ⟫) infinitiva i glagola identični:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
+> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma želi čuti govor učitelja."
 
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":**
+**Infinitiv se, među ostalim, koristi i s glagolima u značenjima "mogući biti", "postojati", "znati", "početi":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Svetac ne može učiniti zlo."  
+> ⟪अस्ति भोक्तुमन्नम्⟫ = "Postoji hrane za jesti" (⟪भुज्⟫ 7: Ā: jesti, P: vladati)
 
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":**
+**Infinitiv se također koristi s riječima u značenjima "dovoljno", "moguć" i s imenicama u značenjima "sposobnost", "moć", "vještina":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
+> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vatra ima moć spaliti sve."
 
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
+**The infinitive can also be used with words meaning "time" in expressions like "It is time to ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
+> ⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
 
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
+**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, to can") from which the infinitive depends into the passive voice.**
 
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.**
+**Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟩) stands in the accusative case (⟪द्वितीया⟩), or the case required by the respective verb, when used actively; with a passively used infinitive, the direct object stands in the nominative.**
 
-z.B.
+e.g.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
+> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "A holy person cannot do wrong."
 
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".**
+**In the 2nd person, ⟪अर्ह्⟩ + infinitive is often used as a mild command: "You should."**
 
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
+**When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis whose second member is ⟪काम⟩ or ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
+> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "one whose wish it is to speak; one who wishes to speak".
 :::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+## 23.2. Formation of the Infinitive (⟪तुमुन्⟩)
 
 ::: grammar-box
-**hochstufige Wurzel + -tum**
+**guṇa-grade root + -tum**
 
-**oder**
+**or**
 
-**hochstufige Wurzel + -i- + -tum**
+**guṇa-grade root + -i- + -tum**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
+**Final consonants of the root are changed before -tum according to the same rules as before the -ta of the PPP.**
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
+**Verbs with prefixes form the infinitive in the same way as simple roots.**
 :::
-Beispiele:
+Examples:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+No fixed rules can be established for the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
+**Verbs with prefixes form the infinitive in the same way as simple roots.**
+:::
+Examples:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+No fixed rules can be established for the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
+
+The following infinitives are particularly noteworthy among the roots learned so far:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+ra- kao puni stupanj prema -ṛ- imaju u infinitivu: (Kielhorn)
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
+::: indent
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
+:::
+The other roots with -ṛ- in the penultimate position have facultative -ra- or -ar-, if they are aniṭ.
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.3. The infinitive (⟪तुमुन्⟫) for the roots learned so far
 
-⟪समान⟫ ⟪३⟫: gleich
+⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P —  
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U —  
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+## 23.4. Word List
 
-## 23.5. Übung
+⟪समान ३⟫: equal, same
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+⟪सामान्य⟫ n.: equality, agreement, correspondence
+
+⟪अधिक ३⟫ : superfluous, additional, greater, better, extraordinary
+
+⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
+
+
+## 23.5. Exercise
+
+A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account phonetic changes:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -178,8 +131,8 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 11.  ⟪द्विष्⟫
 12.  ⟪नी⟫
 13.  ⟪पद्⟫
-14.  ⟪पा⟫ ⟪१⟫
-15.  ⟪पा⟫ ⟪२⟫
+14.  ⟪पा १⟫
+15.  ⟪पा २⟫
 16.  ⟪भज्⟫
 17.  ⟪कृष्⟫
 18.  ⟪सु⟫
@@ -203,7 +156,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
+B) The following roots form the infinitive with a connecting vowel -i-. Form the infinitive:
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -213,106 +166,87 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  ⟪वृत्⟫
 7.  ⟪कुप्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+C) The following roots optionally with or without a connecting vowel:
 
 1.  ⟪अश्⟫
 2.  ⟪इष्⟫
 3.  ⟪बुध्⟫
-4.  ⟪मुह्⟫ (3 Formen!)
+4.  ⟪मुह्⟫ (3 forms!)
 5.  ⟪सह्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+D) Translate and resolve the compounds:
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
-
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
-
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
+⟪नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥ महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥ फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
+Fig.: ⟪फलवन्ति पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303))
+(Image source: [Details](/sh/licenses#lekt2303))
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
+⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Fig.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301))
+(Image source: [Details](/sh/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
+C) Translate the following ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
-
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
-
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+Explanation: ⟪हीन ३⟫: PPP to ⟪हा⟫ 3: to leave ; ⟪धर्मे⟫ = Locative sg. "in the ..."
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302))
+(Image source: [Details](/sh/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung
+## 23.6. Review Exercise
 
-Bitte keine Hilfsmittel benutzen!
+Please do not use any aids!
 
-A) Übersetzen Sie ins Sanskrit:
+A) Translate into Sanskrit:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
+1. The five (⟪पञ्च⟫) "afflictions" are: ignorance, false belief in the self, attachment, aversion, and clinging to the body.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
+2. Knowledge is acquired through obedience to a teacher, for much money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur.
+3. A low person speaks but does not act; a good person does not speak, but only acts.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
+4. The auxiliary sciences of the Vedas are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫), and calendar science.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
+5. Yoga is the cessation of the activities of the mind.
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv)
+6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
+7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. Leadership of this staff is politics.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304))
+Fig.: ⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Prime Minister of India = ⟪भारत के प्रधानमन्त्री⟫, since 2004
+(Image source: [Details](/sh/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\. Wife, son, and slave, these three (⟪त्रयस्⟫) are according to tradition without property. Whatever comes to them, that belongs to the one to whom these (three) belong.
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
+9\. Mosquitoes desire a wound, rulers desire property, lowly people desire strife, good people desire peace.
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
+10\. The specific duty of a Brahmin is: study, teaching, sacrificing as the master of sacrifice, sacrificing on behalf, giving and receiving; that of a Kṣatriya is: study, sacrificing as the master of sacrifice, giving, livelihood by weapons, protecting beings; that of a Vaiśya: study, sacrificing as the master of sacrifice, giving, agriculture, animal husbandry and trade; that of a Śūdra: obedience towards the twice-born, economic activity, activity (⟪कर्म⟫) of craftsmen and performers.
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
+11\. Clarification of consciousness occurs due to the meditative development of friendly goodwill, compassion, sympathetic joy and equanimity, which have happiness and suffering, good and evil as objects.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
+12\. Poor people have many sons, although they do not desire them. Rich people have no son. Strange is the stirring of fate.
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
+13. Who does not slay a woman’s body (⟪वपुस्⟫ f.) with slender waist, wide hips, red lips, black eyes, curved navel, upright breasts.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f.
+B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+C) Provide the stem forms (meaning, present class, mood, 3rd sg. pres. indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
 
-⟪१⟫. ⟪सह्⟫
+⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 
-⟪२⟫. ⟪पा⟫ (2x)
-
-⟪३⟫. ⟪वच्⟫
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫
+⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 

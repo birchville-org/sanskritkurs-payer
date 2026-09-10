@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Leçon 14"
+subtitle: "L'expression de la relation entre ce qui est désigné par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Leçon 14
@@ -88,42 +89,44 @@ Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitif singulier des radicaux se terminant par une voyelle :**
+**Génitif singulier des thèmes en voyelle :**
 
 ::: grammar-box
 
-Le génitif singulier des thèmes vocaux se forme de manière irrégulière et doit être appris par cœur.
+Le génitif singulier des thèmes en voyelle est formé de manière irrégulière et doit être appris par cœur.
 
 :::
 ::: center
 
-| Thème nominal | Génitif singulier |
+| Thème | Génitif singulier |
 | :--- | :--- |
-| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
-| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
-| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
-| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
-| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
-| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **deva** m. ⟪देव⟫ | **devasya** ⟪देवस्य⟫ |
+| **phala** n. ⟪फल⟫ | **phalasya** ⟪फलस्य⟫ |
+| **devatā** f. ⟪देवता⟫ | **devatāyās** ⟪देवतायास्⟫ |
+| **kavi** m. ⟪कवि⟫ | **kaves** ⟪कवेस्⟫ |
+| **paśu** m. ⟪पशु⟫ | **paśos** ⟪पशोस्⟫ |
+| **devī** f. ⟪देवी⟫ | **devyās** ⟪देव्यास्⟫ |
+| **śruti** f. ⟪श्रुति⟫ | **śrutes / śrutyās** ⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫ (c'est-à-dire soit comme kavi, soit comme devī) |
+| **dhenu** f. ⟪धेनु⟫ | **dhenos / dhenvās** ⟪धेनोस्⟫ / ⟪धेन्वास्⟫ (c'est-à-dire soit comme paśu, soit comme les féminins polysyllabiques en -ū) |
 
 :::
-**Pronoms interrogatifs et pronoms démonstratifs :**
+**Pronoms interrogatifs et démonstratifs :**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutre** | **Génitif Singulier** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Génitif Pluriel** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Féminin** | **Génitif Singulier** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Génitif Pluriel** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Masculin / Neutre** | **Génitif singulier** | kasya ⟪कस्य⟫ | tasya ⟪तस्य⟫ | etasya ⟪एतस्य⟫ | asya ⟪अस्य⟫ |
+| | **Génitif pluriel** | keṣām ⟪केषाम्⟫ | teṣām ⟪तेषाम्⟫ | eteṣām ⟪एतेषाम्⟫ | eṣām ⟪एषाम्⟫ |
+| **Féminin** | **Génitif singulier** | kasyās ⟪कस्यास्⟫ | tasyās ⟪तस्यास्⟫ | etasyās ⟪एतस्यास्⟫ | asyās ⟪अस्यास्⟫ |
+| | **Génitif pluriel** | kāsām ⟪कासाम्⟫ | tāsām ⟪तासाम्⟫ | etāsām ⟪एतासाम्⟫ | āsām ⟪आसाम्⟫ |
 
 :::
-**Identité des formes :**
+**Identité de forme :**
 
 ::: important
+
+Pour tous les thèmes nominaux, à l'exception des masculins et neutres en -a ainsi que des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī "cinquième terminaison casuelle") singulier !
 
 Pour toutes les bases nominales, à l'exception des masculins et neutres en -a et des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī « cinquième terminaison casuelle ») singulier !
 

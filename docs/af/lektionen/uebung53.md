@@ -1,11 +1,12 @@
 ---
 title: "Oefening 53"
 uebung_id: 53
-category: "Oefening"
+category: "Übung"
+
 ---
 
 # Oefening 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+Die oefening vir Lesing 53 bestaan uit die metries ontleding (bepaling van die Śloka-skema) van alle verse wat in die voorafgaande lesings geleer is.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Aangesien dit 'n omvattende herhalings- en analiseopdrag is, is daar nie 'n aparte oplossingsleutel in die klassieke sin beskikbaar nie. Die antwoorde spruit voort uit die toepassing van die reëls wat in Lesing 53 oorgedra is, op die reeds bekende tekste.

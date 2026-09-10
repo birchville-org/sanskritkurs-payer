@@ -21,7 +21,7 @@ Sebagai unsur depan (yang tidak dapat dideklinasi) yang berfungsi adverbia,
 *   Kata-kata indeklinabel lainnya
 
 ::: indent
->> dapat digunakan. Tatpuruṣa semacam ini biasanya termasuk ke dalam kelas Nityasamāsa = ⟪नित्यसमास⟫ (m. "kompositum tetap"), yaitu komposita yang sama sekali tidak dapat atau hanya dapat diuraikan dengan cara lain, bukan hanya melalui kata-kata yang terdapat dalam kompositum itu sendiri.
+dapat digunakan. Tatpuruṣa semacam ini biasanya termasuk ke dalam kelas Nityasamāsa = ⟪नित्यसमास⟫ (m. "kompositum tetap"), yaitu komposita yang sama sekali tidak dapat atau hanya dapat diuraikan dengan cara lain, bukan hanya melalui kata-kata yang terdapat dalam kompositum itu sendiri.
 :::
 Contoh:
 
@@ -77,20 +77,20 @@ Berikut ini berlaku hukum berikut:
 
 ::: grammar-box
 
->> Perubahan bunyi -s dalam komposita
+Perubahan bunyi -s dalam komposita
 
->> Bertentangan dengan Sat Sandhi, pada akhir bagian depan dari komposita berlaku:
+Bertentangan dengan Sat Sandhi, pada akhir bagian depan dari komposita berlaku:
 
 \-s setelah -i- atau -u- sebelum gutural atau labial tanpa nada » -ṣ
 
 Oleh karena itu: ⟪दुष्करण⟫
 
 :::
->> ### 18.2.1. Komposita dari Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Komposita dari Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
->> Komposita dari tipe ⟪सुकर⟫ / ⟪दुष्कर⟫ terutama memiliki makna kemungkinan pasif:
+Komposita dari tipe ⟪सुकर⟫ / ⟪दुष्कर⟫ terutama memiliki makna kemungkinan pasif:
 
 Contoh:
 
@@ -264,7 +264,7 @@ Ilustrasi: ⟪उपनयनम्⟫
 
 ⟪शोभन⟫ 3: berkilau, megah, indah, cantik, baik
 
->> ⟪सम⟫ 3: sama, rata, serupa (dengan Instrumentalis)
+⟪सम⟫ 3: sama, rata, serupa (dengan Instrumentalis)
 
 ⟪व्याधि⟫ m.: penyakit
 
@@ -362,7 +362,7 @@ B) Terjemahkan Tatpuruṣa berikut:
 
 Harap jangan menggunakan alat bantu!
 
->> A) Uraikan Komposita berikut dalam bahasa Sanskerta dan berikan saran terjemahan:
+A) Uraikan Komposita berikut dalam bahasa Sanskerta dan berikan saran terjemahan:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 

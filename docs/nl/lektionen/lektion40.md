@@ -315,7 +315,7 @@ Werkwoorden die aan dit type voldoen:
 
 *   1.fl.Ā ⟪चक्रमिमहे⟫
 :::
->> ### 40.2.6. Bijzondere Perfectum-vormingen
+### 40.2.6. Bijzondere Perfectum-vormingen
 
 ⟪विद्⟫ 2P presentisch Perfectum:
 

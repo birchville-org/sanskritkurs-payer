@@ -228,7 +228,7 @@ Resim: Tanrı Kāma = kāmadeva = ⟪कामदेव⟫, 18. yy.
 
 **kleśa** m. = ⟪क्लेश⟫ : ızdırap, bela.
 
-**trayī** f. = ⟪त्रयी⟫ : Üçlü; insbesondere die drei Veda (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : Üçlü; özellikle üç Veda (Ṛgveda, Sāmaveda, Yajurveda).
 
 **daṇḍanīti** f. = ⟪दण्डनीति⟫ : Siyaset (daṇḍa m. = "çubuk, güç, hükümranlık, ceza" ve nīti f. = "doğru rehberlik" kelimelerinden oluşan bir Tatpuruṣa bileşik).
 
@@ -446,7 +446,7 @@ bundan: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष�
 **yajña** m. ⟪यज्ञ⟫ : Kurban
 
   ::: note-box
-  Hindistan'da kurban, öncelikle ilaha bir konuk olarak saygı göstermektir. Bu sayede ilahın borçlu hale gelirsiniz.
+  Hindistan'da kurban, öncelikle ilaha bir konuk olarak saygı göstermektir. Bu sayede ilaha karşı bir sorumluluk üstlenmiş olursunuz.
 
   Kelime yapısı: **yaj** 1 U + kṛt eki **-na-**.
   :::
@@ -454,18 +454,18 @@ bundan: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष�
 **puṇya** n. ⟪पुण्य⟫ : iyi eylem, erdemi
 
   ::: note-box
-  Refah ve iyi yeniden doğuşlar kazanmanızı sağlayan şey.
+  İnsan refah ve iyi yeniden doğuşlar kazanır.
   :::
 
-**pāpa** n. ⟪पाप⟫ : kötü eylem, kötülük (**puṇya**'nın zıddı)
+**pāpa** n. ⟪पाप⟫ : kötü eylem, kötülük (**puṇya**'ya karşıt)
 **satya** n. ⟪सत्य⟫ : gerçek
 
 ::: note-box
-Hindistan'da doğru söze büyü gücü atfedilirdi; hatta tüm dünya düzeni doğru sözle korunur ve yaratılır. Bu önemli kavram için bkz. temel eser:
+Hindistan'da doğru söze sihirli güç atfedilirdi; hatta tüm dünya düzeni doğru sözle korunur ve yaratılır. Bu önemli kavram için bkz. temel eser:
 
 :::
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Nachlass'tan Ludwig Alsdorf tarafından düzenlendi. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
+[LN467] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Nachlass'tan Ludwig Alsdorf tarafından düzenlendi. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
 ::: media
@@ -473,10 +473,10 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Nachlass'tan Ludwig 
 Resim: ⟪वरुणः⟫
 (Resim kaynağı: [Detaylar](/licenses#lekt1003))
 :::
-**anṛta** n. ⟪अनृत⟫ : yalan, sahtekarlık (**satya**'nın zıddı)
+**anṛta** n. ⟪अनृत⟫ : yalan, yalancılık (**satya**'ya karşıt)
 
   ::: note-box
-  Kelime yapısı **an-** ("yok-") + **ṛta** n.
+  Kelime yapısı **an-** ("yokluk") + **ṛta** n.
 
   **ṛta**, çevirisi tartışmalı olan Vedalar'da merkezi bir kavramdır: "gerçeklik" (Lüders, Thieme), "düzen" (Renou).
   :::
@@ -484,7 +484,7 @@ Resim: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : vedik bilge, vedik şiirlerin yazarı
 
   ::: note-box
-  Bu **ṛṣi**lerin isimleri Brāhmaṇalar'da ve Vedalar'a ait özel listelerde belirtilir. Tüm Brahmanlar, **gotra**'ları (⟪गोत्र⟫) bunlardan adını alan bu **ṛṣi**lerden kökenlerini türetir. **gotra** kavramı için bkz. Basham, *Wonder*, Bölüm 5.
+  Bu **ṛṣi**lerin isimleri Brāhmaṇalar'da ve Vedalar'a özel listelerde belirtilir. Tüm Brahmanlar, **gotra**'ları (⟪गोत्र⟫) bunlardan isim alan bu **ṛṣi**lerden kökenlerini türetir. **gotra** kavramı için bkz. Basham, *Wonder*, Bölüm 5.
   :::
 
 ::: media
@@ -497,7 +497,7 @@ Resim: ⟪विश्वामित्रः⟫
 **saha** ⟪सह⟫ : birlikte, beraber ile (ayrıca "ile savaşmak" vb. bağlamlarda) (Araç haliyle kullanılan postpozisyon)
 
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ludwig Alsdorf tarafından arşivden düzenlenmiş. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
+[LN499] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ludwig Alsdorf tarafından arşivden düzenlenmiş. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
 ::: media
@@ -990,7 +990,7 @@ Birla Mandir, Delhi
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
 "Avucunda bir çark olan el, Jain Ahimsa Yemini sembolize eder. Ortadaki kelime "ahimsa"dır. Çark, sürekli hakikat ve şiddetsizlik arayışı yoluyla yeniden doğum döngüsünü durdurma kararını temsil eden dharmacakra'yı ifade eder."
-(Bildquelle: [Details](/licenses#lekt1603))
+[LN992] (Görsel kaynağı: [Details](/licenses#lekt1603))
 :::
 
 ## Ders 17
@@ -1019,7 +1019,7 @@ davon:
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+[LN1021] (Görsel kaynağı: [Details](/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : oturmak
 
@@ -1032,7 +1032,7 @@ davon:
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+[LN1034] (Görsel kaynağı: [Details](/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : ağlamak, ulumak
 
@@ -1829,6 +1829,32 @@ bundan:
 ::: indent
 ⟪वस्तु⟫ n.: oturma yeri, yer; gerçek varlık, maddi şey, gerçeklik, nesne
 
+⟪गोदान⟫ n.: inek/tekir vermesi; ikinci saç kesme töreni (bir ⟪संस्कार⟫)
+
+## Ders 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪वस्⟫ 3Ç (⟪वसति⟫): kalmak, ikamet etmek (ikamet edilen kişi için lokatif ile)
+
+::: indent
+**Geçmiş:** ⟪वत्स्यति⟫:br **Edilgen:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Sonsuzluk:** ⟪वस्तुम्⟫
+:::
+bundan:
+
+::: indent
+⟪वस्तु⟫ n.: oturma yeri, yer; gerçek varlık, maddi şey, gerçeklik, nesne
+
 :::
 ::: indent
 ⟪वस्तुतस्⟫: gerçekte, gerçekten
@@ -1875,35 +1901,6 @@ bundan:
 ⟪हर⟫'e karşılık:
 
 ⟪हरि⟫ 3: sarı, sarımsı yeşil; Viṣṇu'nun unvanı (⟪हृ⟫ 1 köküne ait değildir)
-
-⟪हरिहर⟫ m.: Viṣṇu ve Śiva, tek bir tanrı olarak birleşmiş.
-
-::: media
-![](/images/lekt2704.webp)
-Resim: ⟪हरिहरः⟫
-Harihara (sol: Viṣṇu, sağ: Śiva).
-(Görsel kaynağı: [Detaylar](/licenses#lekt2704))
-:::
-
-::: media
-![](/images/lekt2705.webp)
-Resim: ⟪हरिहरः⟫
-Harihara (sol: Viṣṇu, sağ: Śiva). Godrumdwip, Batı Bengal.
-(Görsel kaynağı: [Detaylar](/licenses#lekt2705))
-:::
-
-## Ders 28
-
-
-
-
-
-
-
-
-
-
-
 
 
 ::: indent
@@ -2590,7 +2587,7 @@ PPP'den ⟪हीन⟫:
 ::: media
 ![](/images/lekt3303.webp)
 Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+[LN2592] (Görsel kaynağı: [Details](/licenses#lekt3303))
 :::
 ⟪हु⟫ 3P ⟪जुहोति⟫: ateşe dökmek (sunak olarak, özellikle eritilmiş tereyağı)
 
@@ -2604,7 +2601,7 @@ Abb.: ⟪हीनयानमेव⟫
 ::: media
 ![](/images/lekt3302.webp)
 Abb.: ⟪घृतमग्नौ जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+[LN2606] (Görsel kaynağı: [Details](/licenses#lekt3302))
 :::
 ⟪घृत⟫ n.: eritilmiş tereyağı, ghee (⟪घी⟫ / گھی / ঘী)
 
@@ -2800,7 +2797,7 @@ Inf. ⟪चेतुम्⟫
 ::: media
 ![](/images/lekt3601.webp)
 Abb.: ⟪गोमयं चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+[LN2802] (Görsel kaynağı: [Details](/licenses#lekt3601))
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : adım atmak, gitmek, ayrılmak
@@ -2820,7 +2817,7 @@ Inf. ⟪व्रजितुम्⟫
 ::: media
 ![](/images/lekt3602.webp)
 Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+[LN2822] (Görsel kaynağı: [Details](/licenses#lekt3602))
 :::
 
 ::: indent
@@ -2831,7 +2828,7 @@ davon:
 ::: media
 ![](/images/lekt3603.webp)
 Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+[LN2833] (Görsel kaynağı: [Details](/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: Saygı için yukarıya doğru birleştirilmiş iki el
 
@@ -2851,7 +2848,7 @@ Abb.: ⟪अनगार्यम्⟫
 ⟪अनु⟫ Präverb: sonra, boyunca, üzerinden - doğru, uzunca, göre, ek olarak, arkasından - doğru
 
 ::: indent
-z.B.
+[LN2853] örn.
 
 ⟪अनुकृ⟫ : taklit etmek, yapmak
 
@@ -2860,7 +2857,7 @@ z.B.
 ⟪अभि⟫ : -e, doğru - doğru, -ye doğru, karşı, içine - doğru, ilgili olarak, üzerine, hakkında, üzerinde
 
 ::: indent
-z.B.
+[LN2862] örn.
 
 ⟪अभिगम्⟫ : gitmek, yaklaşmak
 
@@ -2914,7 +2911,7 @@ Absol. -⟪स्पृश्य⟫
 ::: media
 ![](/images/lekt3606.webp)
 Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606))
+[LN2916] (Görsel kaynağı: [Details](/licenses#lekt3606))
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : katılaşmak: dikleşmek (saçlar), bir şeyden sevinmek (Instr., Akk., Lok.)
 
@@ -2928,7 +2925,7 @@ PPP ⟪हृषित⟫
 ::: media
 ![](/images/lekt3604.webp)
 Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604))
+[LN2930] (Görsel kaynağı: [Details](/licenses#lekt3604))
 :::
 
 ⟪स्वक⟫ 3: özel (benim, senin ...) ; m.: üye
@@ -3390,7 +3387,7 @@ Inf. ⟪शंसितुम्⟫
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+[LN3392] (Görsel kaynağı: [Details](/licenses#lekt4202))
 :::
 ⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): koruyucu, besleyici, eş
 
@@ -3464,7 +3461,7 @@ Her ikisine ritüeller uygulanır, yani ⟪श्राद्ध⟫ n. Her gün 
 ::: media
 ![](/images/lekt4302.webp)
 Abb.: ⟪आपणः⟫
-(Bildquelle: [Details](/licenses#lekt4302))
+[LN3466] (Görsel kaynağı: [Details](/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: hızlı, acele
 
@@ -3473,7 +3470,7 @@ Abb.: ⟪आपणः⟫
 ::: media
 ![](/images/lekt4303.webp)
 Abb.: ⟪पण्यानि⟫
-(Bildquelle: [Details](/licenses#lekt4303))
+[LN3475] (Görsel kaynağı: [Details](/licenses#lekt4303))
 :::
 ⟪आम्⟫ : evet
 
@@ -3496,14 +3493,14 @@ Abb.: ⟪पण्यानि⟫
 ::: media
 ![](/images/lekt4304.webp)
 Abb.: ⟪विपणिः⟫
-(Bildquelle: [Details](/licenses#lekt4304))
+[LN3498] (Görsel kaynağı: [Details](/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: tüccar
 
 ::: media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/licenses#lekt4305))
+[LN3505] (Görsel kaynağı: [Details](/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: en iyi
 
@@ -3514,7 +3511,7 @@ Abb.: ⟪वणिक्⟫
 ::: media
 ![](/images/lekt4306.webp)
 Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/licenses#lekt4306))
+[LN3516] (Görsel kaynağı: [Details](/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: en üst, en iyi
 
@@ -3535,7 +3532,7 @@ Abb.: ⟪वत्सः⟫
 ::: media
 ![](/images/lekt4307.webp)
 Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4307))
+[LN3537] (Görsel kaynağı: [Details](/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: kağıt
 
@@ -4183,7 +4180,7 @@ Inf. ⟪द्रोग्धुम्⟫
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+[LN4185] (Görsel kaynağı: [Details](/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: tamam, bütünüyle
 
@@ -4194,7 +4191,7 @@ Abb.: ⟪कुलूहलम्⟫
 ::: media
 ![](/images/lekt4902.webp)
 Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+[LN4196] (Görsel kaynağı: [Details](/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: istek
 
@@ -4205,14 +4202,14 @@ Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11.
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+[LN4207] (Görsel kaynağı: [Details](/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: giysi, görünüm, dış görünüş
 
 ::: media
 ![](/images/lekt4904.webp)
 Abb.: ⟪वेषः वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+[LN4214] (Görsel kaynağı: [Details](/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: örtü, saklanma yeri
 
@@ -4222,7 +4219,7 @@ Abb.: ⟪वेषः वाराणस्याम्⟫
 ![](/images/lekt4909.webp)
 Abb.: ⟪पञ्जरम्⟫
 Kafeste papağanlı falcı: Papağan, kaderin yazılı olduğu kağıtları çekiyor. Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+[LN4224] (Görsel kaynağı: [Details](/licenses#lekt4909))
 :::
 ⟪चाण्डाल । चण्डाल⟫ m.: Dalitlerin en alt basamağı [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
@@ -4249,7 +4246,7 @@ Gerundiv ⟪ध्येय⟫
 ![](/images/lekt4905.webp)
 Abb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+[LN4251] (Görsel kaynağı: [Details](/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
@@ -4261,7 +4258,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 ![](/images/lekt4906.webp)
 Abb.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+[LN4263] (Görsel kaynağı: [Details](/licenses#lekt4906))
 :::
 
 ## Ders 50
@@ -4292,7 +4289,7 @@ Sri Lanka
 ![](/images/lekt5001.jpg)
 Abb.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Bilim ve Teknoloji Bakanlığı ile Dünya Bilimleri Bakanlığı'nda 2006'dan beri bakan
-(Bildquelle: [Details](/licenses#lekt5001))
+[LN4294] (Görsel kaynağı: [Details](/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: Gizem, yalnızlık
 

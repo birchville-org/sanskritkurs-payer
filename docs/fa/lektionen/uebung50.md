@@ -1,8 +1,9 @@
 ---
 title: "تمرین ۵۰"
 uebung_id: 50
-category: "تمرین"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -44,7 +45,7 @@ last_reconstructed: 2026-05-15
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Familien werden zu Nichtfamilien durch schlechte Heiraten, durch Unterlassen der Riten, durch Nichtstudium der Veden und durch Vergehen gegen Brahmanen.
+> خاندان‌ها با ازدواج‌های نامناسب، با ترک آیین‌ها، با نیاموختن وداها و با تعرض به برهمن‌ها تباه و از خاندان بودن ساقط می‌شوند.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 

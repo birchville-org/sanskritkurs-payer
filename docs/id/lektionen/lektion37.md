@@ -12,69 +12,74 @@ status: stable
 
 ## 37.1. Kata Keterangan (⟪क्रियाविशेषणम्⟫)
 
-Kata keterangan dalam bahasa Sanskerta dibentuk
+Dalam bahasa Sanskerta, kata keterangan dibentuk
 
-1.  melalui bentuk kasus dari nomina dan pronomina
-2.  dengan bantuan sufiks dan akhiran khusus
+1. melalui bentuk kasus dari nomina dan kata ganti
+2. dengan bantuan sufiks dan akhiran khusus
 
-Dalam kasus pertama, batas antara kasus hidup (living case) dan adverba bersifat cair. Termasuk di dalamnya sebagai kasus khusus adalah adverbia, yang merupakan bentuk kasus kuno yang telah membeku (fossilized), sementara dalam deklinasi digunakan bentuk-bentuk lain atau nomina yang bersangkutan tidak lagi digunakan sebagai nomina.
+Dalam kasus pertama, batas antara bentuk kasus yang hidup dan kata keterangan bersifat kontinu. Termasuk di dalamnya sebagai kasus khusus adalah kata-kata keterangan yang merupakan bentuk kasus kuno yang telah membeku, sementara dalam deklinasi digunakan bentuk-bentuk lain atau nomina yang bersangkutan tidak lagi digunakan sebagai nomina.
 
-## 37.2. Penggunaan Kasus sebagai Adverbia
+## 37.2. Penggunaan Kasus sebagai Kata Keterangan
 
 ### 37.2.1. Akusatif (⟪द्वितीया⟫)
 
 ::: grammar-box
-Kasus akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbiaal untuk pertanyaan-pertanyaan berikut:
+Akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbial untuk pertanyaan:
 
 *   dengan cara bagaimana?
 *   berapa lama?
 *   ke mana?
 *   dan lain-lain.
 
-Kasus akusatif dapat digunakan sebagai adverbia:
+Akusatif dapat digunakan secara adverbial:
 
-*   dari kata benda
-Contoh:
-⟪कामम्⟫ "sesuai keinginan, sesuai kehendak"
-⟪अर्थम्⟫ "karena"
+*   dari substantif  
+Contoh-contoh:  
+⟪कामम्⟫ "sesuai keinginan, sesuai kehendak"  
+⟪अर्थम्⟫ "karena"  
 
-*   dari kata sifat dalam bentuk neutrum
-Contoh:
-⟪सुखम्⟫ "mudah, bahagia"
-⟪नित्यम्⟫ "selalu"
-⟪साधु⟫ "benar, baik"
+*   dari adjektiva dalam bentuk neutrum  
+Contoh-contoh:  
+⟪सुखम्⟫ "mudah, bahagia"  
+⟪नित्यम्⟫ "selalu"  
+⟪साधु⟫ "benar, baik"  
 
 *   dari kata ganti dalam bentuk neutrum
-Contoh:
-⟪तद्⟫ "kemudian, oleh karena itu"
-⟪यद्⟫ "jika, bahwa"
+Contoh-contoh:  
+⟪तद्⟫ "kemudian, karenanya"  
+⟪यद्⟫ "jika, bahwa"  
 ⟪एतद्⟫ "begitu, di sini, sekarang"
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-Instrumental (⟪तृतीया⟫) dapat digunakan secara adverbiaal untuk menjawab pertanyaan:
+Instrumental (⟪तृतीया⟫) dapat digunakan secara adverbial untuk pertanyaan:
 
 *   dengan apa?
 *   oleh apa?
 *   dan lain-lain.
 
-Kasus alat (Instrumental) dapat digunakan sebagai adverbia:
+Instrumental dapat digunakan secara adverbial:
 
-*   dari kata benda
-Contoh:
-⟪अर्थेन⟫ "karena"
-⟪क्षणेन⟫ "pada saat itu, segera" (dari ⟪क्षण⟫ m. "saat")
+*   dari substantif  
+Contoh-contoh:  
+⟪अर्थेन⟫ "karena"  
+⟪क्षणेन⟫ "pada saat itu, segera" (dari ⟪क्षण⟫ m. "saat")  
 
-*   dari kata sifat, sering juga dalam bentuk jamak
-Contoh:
-⟪दूरेण⟫ "jauh, dari jauh" (terkait ⟪दूर⟫ 3 "jauh, jauh dari")
-⟪उच्चैस्⟫ "tinggi, keras" (terkait ⟪उच्च⟫ 3 "tinggi, meningkat, keras, nyaring (dari suara)")
+*   dari adjektiva, sering juga dalam bentuk jamak  
+Contoh-contoh:  
+⟪दूरेण⟫ "jauh, dari kejauhan" (terkait ⟪दूर⟫ 3 "jauh, jauh dari")  
+⟪उच्चैस्⟫ "tinggi, keras" (terkait ⟪उच्च⟫ 3 "tinggi, tinggi, keras, nyaring (dari suara)")
+
+*   dari adjektiva, sering juga dalam bentuk jamak  
+Contoh-contoh:  
+⟪दूरेण⟫ "jauh, dari kejauhan" (terkait ⟪दूर⟫ 3 "jauh, jauh dari")  
+⟪उच्चैस्⟫ "tinggi, keras" (terkait ⟪उच्च⟫ 3 "tinggi, tinggi, keras, nyaring (dari suara)")
 :::
-### 37.2.3. Datif (⟪चतुर्थी⟫)
+### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Jarang kasus datif (⟪चतुर्थी⟫) digunakan secara adverbiaal untuk pertanyaan:
+Jarang kasus Dativ (⟪चतुर्थी⟫) digunakan secara adverbiaal untuk pertanyaan:
 
 *   untuk tujuan apa?
 *   dan lain-lain.
@@ -87,63 +92,63 @@ Contoh:
 ### 37.2.4. Ablatif (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbiaal untuk pertanyaan:
+Kasus Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbiaal untuk pertanyaan:
 
 *   mengapa?
 *   berdasarkan apa?
 *   dari mana?
 *   dan lain-lain.
 
-Kasus ablatis dapat digunakan sebagai adverbia:
+Kasus Ablatif dapat digunakan secara adverbiaal:
 
-*   dari kata benda
-mis. ⟪बलात्⟫ "dengan kekerasan, secara paksa"
+*   dari kata benda  
+misalnya ⟪बलात्⟫ "secara paksa, dengan kekerasan"  
 
-*   dari kata sifat
-mis. ⟪दूरात्⟫ "dari jauh"
+*   dari kata sifat  
+misalnya ⟪दूरात्⟫ "dari jauh"  
 
-*   dari kata ganti
-Contoh:
-⟪कस्मात्⟫ "mengapa"
+*   dari kata ganti  
+contoh:  
+⟪कस्मात्⟫ "mengapa"  
 ⟪अकस्मात्⟫ "secara tak terduga"
 :::
 ### 37.2.5. Genetif (⟪षष्ठी⟫)
 
 ::: grammar-box
-Jarang digunakan genitif (⟪षष्ठी⟫) secara adverbiaal untuk pertanyaan "setelah berapa lama?"
+Jarang kasus Genetif (⟪षष्ठी⟫) digunakan secara adverbiaal untuk pertanyaan "setelah berapa lama?"
 
-mis. ⟪चिरस्य⟫ "setelah waktu yang lama" (ke ⟪चिर⟫ 3 "lama (waktu)")
+misalnya ⟪चिरस्य⟫ "setelah waktu yang lama" (terkait ⟪चिर⟫ 3 "lama (waktu)")
 :::
 ### 37.2.6. Lokatif (⟪सप्तमी⟫)
 
 ::: grammar-box
-Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbiaal pada pertanyaan-pertanyaan:
+Kasus Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbiaal untuk pertanyaan:
 
 *   di mana?
 *   dalam keadaan apa?
 *   dan lain-lain.
 
-Contoh-contoh:
+Contoh:
 :::
 ::: indent
-\-⟪अर्थे⟫ "karena"
-\-⟪कृते⟫ "demi"
+\-⟪अर्थे⟫ "karena"  
+\-⟪कृते⟫ "demi"  
 ⟪दूरे⟫ "jauh"
 :::
-## 37.3. Penggunaan adverbiaal dari bentuk kasus yang tidak lagi lazim
+## 37.3. Penggunaan adverbiaal bentuk kasus yang sudah tidak lazim
 
 Contoh:
 ::: indent
-⟪जातु⟫ "sama sekali" (asalnya "dari lahir, secara alami", Ak.sg.n. dari ⟪जातु⟫ \<tidak lagi digunakan sebagai kata benda\>)
+⟪जातु⟫ "sama sekali" (asalnya "dari kelahiran, secara alami", Akk.sg.n. terkait ⟪जातु⟫ \<tidak lagi digunakan sebagai kata benda\>)
 
-⟪तूष्णीम्⟫ "diam-diam" (Akk.sg. dari sebuah ⟪तूष्णी⟫ f. "kebisuan" yang tidak lagi digunakan)
+⟪तूष्णीम्⟫ "dengan diam" (Akk.sg. terkait kata benda ⟪तूष्णी⟫ f. "ketenangan" yang sudah tidak lazim)
 
-⟪एवम्⟫ "begitu" (dari sebuah akar pronominal yang umumnya telah hilang ⟪एव⟫ "satu, satu-satunya")
+⟪एवम्⟫ "begitu" (terkait akar kata ganti ⟪एव⟫ "satu, satu-satunya" yang umumnya telah hilang)
 :::
 ## 37.4. Pembentukan Kata Keterangan dengan Akhiran Adverbial
 
 ::: grammar-box
-Dari akar pronominal ⟪तद्⟫, ⟪इदम्⟫ atau ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ atau ⟪कु⟫, Anda dapat dengan akhiran adverbial
+Dari akar kata ganti ⟪तद्⟫, ⟪इदम्⟫ atau ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ atau ⟪कु⟫, dapat diturunkan kata keterangan ganti yang sesuai dengan akhiran adverbial
 
 *   \-⟪तस्⟫ (Ablatif)
 *   \-⟪त्र⟫ (Lokatif)
@@ -151,38 +156,38 @@ Dari akar pronominal ⟪तद्⟫, ⟪इदम्⟫ atau ⟪अ⟫-, ⟪य
 *   \-⟪थम्⟫ (Cara)
 *   \-⟪दा⟫ (Waktu)
 
-menurunkan kata ganti adverbia yang sesuai.
+kata keterangan ganti yang sesuai.
 :::
 ::: grammar-box
 
-| Suffix | Pokok Kata Ganti | | | |
+| Akhiran | Akar Kata Ganti | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablatif) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokatif) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablatif) | ⟪ततस्⟫ :brdari sana, atas itu, karena itu | ⟪इतस्⟫ :br ⟪अतस्⟫ :brdari sini, karena ini | ⟪यतस्⟫ :brdarimana, dari apa | ⟪कुतस्⟫ :brdarim?, mengapa? |
+| **-⟪त्र⟫** :br(Lokatif) | ⟪तत्र⟫ :brdi sana, di situ | ⟪अत्र⟫ :bridini | ⟪यत्र⟫ :brmana | ⟪कुत्र⟫ :brmana? |
+| **-⟪था⟫** :br(Cara) | ⟪तथा⟫ :brcbegini | | ⟪यथा⟫ :brbagaimana | |
+| **-⟪थम्⟫** :br(Cara) | | | | ⟪कथम्⟫ :brbagaimana? |
+| **-⟪दा⟫** :br(Waktu) | ⟪तदा⟫ :brkapan itu, kemudian | | ⟪यदा⟫ :brketika | ⟪कदा⟫ :brkapan? |
 
 :::
 ::: grammar-box
-Sebuah kata tanya adverbia lainnya adalah: ⟪क्व⟫ "di mana?"
+Kata keterangan tanya lainnya adalah: ⟪क्व⟫ "di mana?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Ilm.: ⟪क्व⟫
-(Sumber gambar: [Rincian](/id/licenses#lekt3701))
+Fig.: ⟪क्व⟫
+(Sumber gambar: [Details](/id/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Adverbiale Suffix Lainnya**
+**Akhiran Adverbial Lainnya**
 
-| Sufiks | |
+| Akhiran | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | dapat dilekatkan pada kata benda apa pun untuk mengungkapkan "seperti, sama seperti":brmis. ⟪पुत्रवत्⟫ "seperti anak" |
+| **-⟪तस्⟫** | pada kata benda dan kata ganti. Biasanya bermakna ablative "darimana?", tetapi juga "di mana?", "ke mana?":brmis. ⟪आदितस्⟫ "dari awal" |
+| **-⟪धा⟫** | 1. Pada kata keterangan bilangan dengan makna "-kali", "-lipat":brmis. ⟪द्विधा⟫ "dua kali":br2. dengan makna "dengan cara yang demikian":brmis. ⟪समधा⟫ "dengan cara yang sama" (terkait ⟪सम⟫ 3 "sama") |
 
 :::
 ## 37.5. Komposita Adverbia
@@ -363,59 +368,52 @@ Catatan: ⟪किम्⟫ dapat, selain "apa?" dan sebagai partikel tanya, jug
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Ilustr.: ⟪शाक्यमुनिः⟫
 (Sumber gambar: [Detail](/id/licenses#lekt3705))
-:::
-⟪दिन⟫ n.: hari
 
-⟪वृक्ष⟫ m.: pohon
+A) Jawablah pertanyaan-pertanyaan berikut dalam bahasa Sanskerta dengan menggunakan kata-kata yang ditunjukkan di dalam kurung. Terjemahkan kalimat-kalimat pertanyaannya.
 
-::: media
-![lekt3706.jpg](/images/lekt3706.webp)
-Ilustr.: ⟪वृक्षः⟫
-(Sumber gambar: [Detail](/id/licenses#lekt3706))
-:::
-⟪मुख⟫ n.: mulut, wajah, bagian depan, awal
+Contoh: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-## 37.10. Latihan
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-A) Jawablah pertanyaan berikut dalam bahasa Sanskerta dengan menggunakan kata-kata yang ditunjukkan dalam kurung. Terjemahkan kalimat pertanyaannya.
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-Contoh: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟩ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutif\>)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
-
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
-
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
-
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Gbr.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Sumber gambar: [Detail](/id/licenses#lekt3707))
+Fig.: ⟪कृष्णः बलरामश्च⟫
+(Sumber gambar: [Details](/id/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Gbr.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Sumber gambar: [Detail](/id/licenses#lekt3708))
+Fig.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Sumber gambar: [Details](/id/licenses#lekt3708))
+:::
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
+
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
+
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -497,19 +495,3 @@ Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ![lekt3711.jpg](/images/lekt3711.webp)
 Gbr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Sumber gambar: [Detail](/id/licenses#lekt3711))
-:::
-8\. ⟪यथा⟫
-
-::: indent
-1.  ⟪यथास्थानम्⟫
-:::
-## 37.11. Latihan Ulangan
-
-Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan hanya bentuk kata kerja dari Perfek:
-
-Ketika suatu kali seorang orang tua pergi ke desa lain, ia kelelahan di perjalanan. Maka ia pergi untuk beristirahat ke bawah pohon mangga yang berdiri di samping jalan. Di atas pohon itu terdapat buah-buahan yang matang. Orang tua tersebut merasa ingin memakan buah-buah tersebut. Namun ia tidak dapat memanjat pohon itu dan mengambil buah-buahan itu. Untungnya, di atas pohon tersebut terdapat beberapa monyet yang memakan buah-buahan. Ketika ia melihatnya, orang tua itu merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkan pada monyet-monyet itu dan melemparkannya. Monyet-monyet yang marah memetik buah-buahan tertentu dan melemparkannya ke arah orang tua itu. Orang tua itu menerima dengan senang hati buah-buahan tersebut dan pergi ke daerah yang diinginkannya. Lihatlah nasib orang tua itu!
-
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
-
-C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
-

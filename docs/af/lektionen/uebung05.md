@@ -39,7 +39,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 (in behoorlike Sanskrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Die drie Veda's is: Sāmaveda, Ṛgveda en Yajurveda.
+Die drie tradisionele Vedas wat hier genoem word, is die Sāmaveda, Ṛgveda en Yajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -90,7 +90,7 @@ Die wetenskappe is filosofie, Vediese studies, ekonomie en politiek.
 
 ::: media
 ![](/images/uebung010.webp)
-Fig.: ⟪अभ्निवेशो न वा ।⟫
+Afb.: ⟪अभ्निवेशो न वा ।⟫
 (Beeldbron: [Besonderhede](/licenses#uebung010))
 :::
 ---

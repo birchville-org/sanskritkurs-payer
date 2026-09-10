@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "الدرس 25"
+subtitle: 'تكوين حالة النصب (⟪पञ्चमी⟫ = \"النهاية الإعرابية الخامسة\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 25

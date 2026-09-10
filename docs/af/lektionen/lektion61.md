@@ -68,7 +68,7 @@ Onreël: ⟪स्त्री⟫ v. "vrou"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Fig.: ⟪स्त्रियः⟫
+Afb.: ⟪स्त्रियः⟫
 (Beeldbron: [Details](/af/licenses#lekt6102))
 :::
 ### 61.1.3. Wortstamnaamwoorde op -ī aan die einde van ⟪तत्पुरुष⟫
@@ -150,7 +150,7 @@ Paradigma:
 | ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 ::: media
 ![](/images/lekt6106.webp)
-Fig.: ⟪रथ्याप्वः काशीपुर⟫
+Afb.: ⟪रथ्याप्वः काशीपुर⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt6106))
 :::
 ### 61.1.6. Deklinasie van veellettergreepige vroulike selfstandige naamwoorde wat op -ū eindig
@@ -175,7 +175,7 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Fig.: ⟪वध्वौ जोधपुर⟫
+Afb.: ⟪वध्वौ जोधपुर⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt6107))
 :::
 ## 61.2. Die perifrasiese toekomsvorm (⟪लुट्⟫)
@@ -245,7 +245,7 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Fig.: ⟪सर्पो वव्रज्यते ॥⟫
+Afb.: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Beeldbron: [Besonderhede](/af/licenses#lekt6104))
 :::
@@ -553,7 +553,7 @@ Afbeelding:
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): *Radices linguae Sanscritae ad decreta grammaticorum* / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- bl. 335 - 341. (Sien ook Kielhorn).
 :::
 ## 61.5. Die Benediktiv (⟪आशीर्लिङ्⟫)
 
@@ -601,7 +601,7 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Fig.: ⟪नववर्षं शुभं भूयात् ॥⟫
+Afb.: ⟪नववर्षं शुभं भूयात् ॥⟫
 Santa Cruz-basiliek, Kochi = കൊച്ചി
 (Beeldbron: [Besonderhede](/af/licenses#lekt6114))
 :::

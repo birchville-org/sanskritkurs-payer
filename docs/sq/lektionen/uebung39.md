@@ -1,17 +1,18 @@
 ---
-title: "Ushqim 39"
+title: "Ushtrimi 39"
 uebung_id: 39
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 39
+# Ushtrimi 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Formoni për format e mëposhtme të foljeve format e personit të parë, që i përgjigjen këtij forme foljeje në numër, kohë, mënyrë (indikativ, optativ) dhe mënyrë veprimi (P, Ā, pasiv):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| Personi 3 | Personi 1 |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -105,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#uebung064))
 :::
 

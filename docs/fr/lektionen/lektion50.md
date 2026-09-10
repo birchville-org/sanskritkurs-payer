@@ -1,6 +1,6 @@
 ---
 title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+subtitle: "Formation nominale : comparatifs réguliers"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"

@@ -77,7 +77,7 @@ Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În 
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- ca ca nivel înalt al -ṛ- au în infinitiv:
+-ra- ca ca nivel înalt al -ṛ- au în infinitiv:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

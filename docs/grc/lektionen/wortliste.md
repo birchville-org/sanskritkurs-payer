@@ -470,8 +470,8 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+Εἰκ.: ⟪वरुणः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
@@ -489,8 +489,8 @@ Abb.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+Εἰκ.: ⟪विश्वामित्रः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
@@ -502,8 +502,8 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+Εἰκ.: ⟪वरुणः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
@@ -521,8 +521,8 @@ Abb.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+Εἰκ.: ⟪विश्वामित्रः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
@@ -988,9 +988,9 @@ Birla Mandir, Δελχὶ
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
+Εἰκ.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1603))
 :::
 
 ## Μάθημα 17
@@ -1017,9 +1017,9 @@ Abb.: ⟪अहिंसा⟫
 
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+Εἰκ.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : καθίζω
 
@@ -1031,8 +1031,8 @@ Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+Εἰκ.: ⟪योगासनम्⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : κλαίω, ὠρύσομαι
 
@@ -1184,16 +1184,16 @@ Goa (⟪गोंय⟫)
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
+Εἰκ.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1904))
 :::
 **⟪पण्डित⟫ m.:** σοφός, βουλή ; 3: φρόνιμος, ἐμπειρος (ἐν)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Εἰκ.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt1903))
 :::
 **⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** οἰκέω, κατοικέω (Acc., Loc.) ; ἐπισκέπτομαι, πορεύομαι πρὸς (Acc.) ; διακονέω, θεραπεύω, σέβομαι ; ἀσκήω, χρῶμαι ; συνέρχομαι, συγκατάθεσις
 
@@ -1881,14 +1881,14 @@ Vastrāṇi. Majuli, Assam.
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
+Εἰκ.: ⟪हरिहरः⟫
 Harihara (αριστερά: Βισνού, δεξιά: Σίβα).
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
+Εἰκ.: ⟪हरिहरः⟫
 Harihara (αριστερά: Βισνού, δεξιά: Σίβα). Godrumdwip, Δυτική Βεγγάλη.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt2705))
 :::
@@ -1939,7 +1939,7 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो राधां कामयति⟫
+Εἰκ.: ⟪कृष्णो राधां कामयति⟫
 Πίνακας του ⟪राजा रवि वर्मा⟫ (1848 - 1906)
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt2804))
 :::
@@ -2092,9 +2092,9 @@ Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति विक्रीणते च⟫
+Εἰκ.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : γιγνώσκειν, ἐπιγιγνώσκειν, εἰδέναι, συνίειν
 
@@ -2114,9 +2114,9 @@ Inf. ⟪ज्ञातुम्⟫
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
+Εἰκ.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3002))
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : καθαίζειν
 
@@ -2383,7 +2383,7 @@ Inf. ⟪पवितुम्⟫
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
+Εἰκ.: ⟪वानराः⟫
 Πίθηκοι (μακάκος ρέζους) στο Ντελί.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3203))
 :::
@@ -2399,7 +2399,7 @@ Abb.: ⟪वानराः⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
+Εἰκ.: ⟪उपलाः⟫
 Λατομείο πέτρας νότια του Πούνε, Μαχαράστρα.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3204))
 :::
@@ -2407,7 +2407,7 @@ Abb.: ⟪उपलाः⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
+Εἰκ.: ⟪लक्ष्यम्⟫
 Σκοποβολή / στόχος βελών, Καρνάτακα.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3205))
 :::
@@ -2431,7 +2431,7 @@ Abb.: ⟪लक्ष्यम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं गोमयं दहति⟫
+Εἰκ.: ⟪चितं गोमयं दहति⟫
 Καύση κοπριάς σε πλάκες στο Ρατζαστάν.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3207))
 :::
@@ -2443,7 +2443,7 @@ Abb.: ⟪चितं गोमयं दहति⟫
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
+Εἰκ.: ⟪कौशलम्⟫
 Ζωγραφική μέντι χεριών στο Μουμπάι.
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3206))
 :::
@@ -2477,7 +2477,7 @@ Abb.: ⟪कौशलम्⟫
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
+Εἰκ.: ⟪दानम्⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt3306))
 :::
 ⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (εἰς ὑποδοχήν) λαμβάνειν, κτᾶσθαι, συμπαραλαμβάνειν
@@ -2590,8 +2590,8 @@ von PPP ⟪हीन⟫:
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+Εἰκ.: ⟪हीनयानमेव⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3303))
 :::
 ⟪हु⟫ 3P ⟪जुहोति⟫: ἐκχέω εἰς πῦρ (ὡς θυσία, μάλιστα βούτυρον τηκτόν)
 
@@ -2604,8 +2604,8 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+Εἰκ.: ⟪घृतमग्नौ जुहोति⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3302))
 :::
 ⟪घृत⟫ n.: βούτυρον τηκτόν, γκί (⟪घी⟫ / گھی / ঘী)
 
@@ -2737,9 +2737,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Εἰκ.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3502))
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ᾄδειν, ἐπῳδεῖν, μέλειν
 ::: indent
@@ -2755,9 +2755,9 @@ davon:
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Εἰκ.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3501))
 :::
 
 ## Μάθημα 36
@@ -2800,8 +2800,8 @@ Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+Εἰκ.: ⟪गोमयं चिकाय⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3601))
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : προβαίνειν, πορεύεσθαι, ἀπελθεῖν
@@ -2820,8 +2820,8 @@ Inf. ⟪व्रजितुम्⟫
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+Εἰκ.: ⟪अगारम्⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3602))
 :::
 
 ::: indent
@@ -2831,8 +2831,8 @@ davon:
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+Εἰκ.: ⟪अनगार्यम्⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: αἱ δύο χεῖρες ἐπὶ τιμὴν ὀρθίως συντεθειμέναι
 
@@ -3102,14 +3102,14 @@ PPP ⟪मीढ⟫
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+Εἰκ.: ⟪अशोकवृक्षः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+Εἰκ.: ⟪अशोकसाम्राज्यम्⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3811))
 :::
 
 ## Μάθημα 40
@@ -3390,8 +3390,8 @@ Inf. ⟪शंसितुम्⟫
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+Εἰκ.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4202))
 :::
 ⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): θήκων, τρέφων, ἀνήρ
 
@@ -3616,7 +3616,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
+Εἰκ.: ⟪रेल्यानम्⟫
 (Fons imaginis: [Details](/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : iacere. Haec radix in omnibus formis radicis praesentis **Grado altiore:** 1.sg.Ind.Praes.Ā :sig[⟪शेये⟫] (śe + e). Formae sequentes maxime notandae sunt: 3.pl.Ind.Praes.Ā :sig[⟪शेरते⟫], 3.pl.Impf.Ā :sig[⟪अशेरत⟫]
@@ -4248,9 +4248,9 @@ Gerundiv ⟪ध्येय⟫
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Εἰκ.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
@@ -4260,9 +4260,9 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Εἰκ.: ⟪गजशिशुः⟫
 Σρι Λάνκα
-(Bildquelle: [Details](/licenses#lekt4906))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4906))
 :::
 
 ## Μάθημα 50
@@ -4291,9 +4291,9 @@ Abb.: ⟪गजशिशुः⟫
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
+Εἰκ.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), ὁ ὑπουργός τῆς Ἑνώσεως εἰς τὸ Υπουργεῖον Ἐπιστημῶν καὶ Τεχνολογίας καὶ τὸ Υπουργεῖον Ἐπιστημῶν τῆς Γῆς (ἀπὸ 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: τὸ μυστήριον, ἡ μοναξία
 
@@ -4507,7 +4507,7 @@ City Palace, ⟪उदयपुर⟫
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
+Εἰκ.: ⟪मृगया⟫
 θήρα με ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5110))
 :::
@@ -4515,7 +4515,7 @@ Abb.: ⟪मृगया⟫
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
+Εἰκ.: ⟪शिवा⟫
 _Canis aureus_, Καλατόπ Κχατζιάρ Σανκτουάρι
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5111))
 :::
@@ -4525,7 +4525,7 @@ _Canis aureus_, Καλατόπ Κχατζιάρ Σανκτουάρι
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
+Εἰκ.: ⟪कौशिकः⟫
 Βραχμική κουκουβάγια (_Athene brama_), Μαχεσάνα = મહેસાણા
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5112))
 :::
@@ -4540,7 +4540,7 @@ Abb.: ⟪कौशिकः⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा लिङ्गं च⟫
+Εἰκ.: ⟪श्वा लिङ्गं च⟫
 Καρνάτακα = ಕರ್ನಾಟಕ
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5113))
 :::
@@ -4554,7 +4554,7 @@ Abb.: ⟪श्वा लिङ्गं च⟫
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम् जोधपुर⟫
+Εἰκ.: ⟪आपानकम् जोधपुर⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5114))
 :::
 ⟪क्रूर⟫ 3: άγριος, σκληρός
@@ -4572,7 +4572,7 @@ PPP ⟪दिग्ध⟫
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
+Εἰκ.: ⟪मूषिकाविषाणि⟫
 Μπανγκαλόρ = ಬೆಂಗಳೂರು
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5115))
 :::
@@ -4580,7 +4580,7 @@ Abb.: ⟪मूषिकाविषाणि⟫
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
+Εἰκ.: ⟪भुजंगः⟫
 Αλυσιδωτή βίπέρα (_Daboia russelii_), Μπανγκαλόρ = ಬೆಂಗಳೂರು
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#lekt5116))
 :::
@@ -4809,17 +4809,17 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Εἰκ.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: Μουσιά (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+Εἰκ.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5208))
 :::
 ⟪सार⟫ m.n.: πυρήν, ἔμβρυον, οὐσία, οὐσιώδης
 
@@ -4833,8 +4833,8 @@ Hampi = ಹಂಪೆ
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम् मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+Εἰκ.: ⟪मलम् मुंबई⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n: οὐρανὸς Ἰνδρού
 
@@ -4842,9 +4842,9 @@ Abb.: ⟪मलम् मुंबई⟫
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
+Εἰκ.:
 Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: τις, ὅστις θέλει τελείως γιγνώσκειν
 

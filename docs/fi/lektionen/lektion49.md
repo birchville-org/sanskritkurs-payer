@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Oppitunti 49"
+subtitle: "Imperatiivin muodostus (⟪लोट्⟫) athemaattisten preesensvartojen vartalot (jatkoa)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 49

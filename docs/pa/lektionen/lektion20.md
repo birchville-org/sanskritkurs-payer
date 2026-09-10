@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "ਪਾਠ 20"
+subtitle: "ਸੰਸਕ੍ਰਿਤ ਵਿੱਚ ਮਾਲਕੀਵਾਦੀ ਸ਼ਬਦ = ⟪बहुव्रीहि⟫ ਪੁਲਿੰਗ"
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 20

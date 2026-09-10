@@ -10,49 +10,49 @@ status: stable
 
 # Lesson 23
 
->> ## 23.1. The Infinitive (⟪तुमुन्⟫)
+## 23.1. The Infinitive (⟪तुमुन्⟫)
 
 ::: grammar-box
->> **If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
+**If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
 > ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma has gone to hear the teacher's discourse."
 
->> **Note that the infinitive — with a few well-defined exceptions — cannot stand as the subject or object of a verb:**
+**Note that the infinitive — with a few well-defined exceptions — cannot stand as the subject or object of a verb:**
 
->> > "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
+> "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
 
->> **The infinitive is also used with verbs and nouns in the sense of "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
+**The infinitive is also used with verbs and nouns in the sense of "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
 
 > ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wishes to hear the teacher's discourse."
 
->> **The infinitive is also used, among other things, with verbs in the meanings "to be able," "there exists," "to know," "to begin":**
+**The infinitive is also used, among other things, with verbs in the meanings "to be able," "there exists," "to know," "to begin":**
 
 > ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "A holy person cannot do wrong."  
 > ⟪अस्ति भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
 
->> **The infinitive is also used with words in the meanings "sufficient," "able" and with nouns in the meanings "ability," "power," "skill":**
+**The infinitive is also used with words in the meanings "sufficient," "able" and with nouns in the meanings "ability," "power," "skill":**
 
 > ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Fire has the power to burn everything."
 
->> **Even with words meaning "time," the infinitive can be used in expressions like "It is time to ...":**
+**Even with words meaning "time," the infinitive can be used in expressions like "It is time to ...":**
 
 > ⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
 
->> **The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, to can"), from which the infinitive depends, into the passive voice.**
+**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, to can"), from which the infinitive depends, into the passive voice.**
 
->> **Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟩) stands in the accusative case (⟪द्वितीया⟩) when used actively, or in the case required by the respective verb; with a passively used infinitive, the direct object stands in the nominative.**
+**Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟩) stands in the accusative case (⟪द्वितीया⟩) when used actively, or in the case required by the respective verb; with a passively used infinitive, the direct object stands in the nominative.**
 
 e.g.
 
 > ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "A saint cannot do wrong."
 
->> **In the 2nd person, ⟪अर्ह्⟩ + infinitive is often used as a mild command: "You should."**
+**In the 2nd person, ⟪अर्ह्⟩ + infinitive is often used as a mild command: "You should."**
 
->> **When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis whose second member is ⟪काम⟩ or ⟪मनस्⟩:**
+**When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis whose second member is ⟪काम⟩ or ⟪मनस्⟩:**
 
 > ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "one whose wish it is to speak; one who wishes to speak".
 :::
->> ## 23.2. Formation of the Infinitive (⟪तुमुन्⟩)
+## 23.2. Formation of the Infinitive (⟪तुमुन्⟩)
 
 ::: grammar-box
 **guṇa-grade root + -tum**
@@ -63,21 +63,21 @@ e.g.
 
 **Final consonants of the root are changed before -tum according to the same rules as before the -ta of the PPP.**
 
->> **Verbs with prefixes form the infinitive in the same way as simple roots.**
+**Verbs with prefixes form the infinitive in the same way as simple roots.**
 :::
 Examples:
 
 ::: indent
 ⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
->> No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
+No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
->> The following infinitives are particularly noteworthy among the roots learned so far:
+The following infinitives are particularly noteworthy among the roots learned so far:
 
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> Have -ra- as full grade for -ṛ- in the infinitive:
+Have -ra- as full grade for -ṛ- in the infinitive:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -85,7 +85,7 @@ Examples:
 The other roots with -ṛ- in the penultimate position have facultative -ra- or -ar-, if they are aniṭ.
 
 
->> ## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
+## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -163,7 +163,7 @@ The other roots with -ṛ- in the penultimate position have facultative -ra- or 
 
 ## 23.5. Exercise
 
->> A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
+A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -203,7 +203,7 @@ The other roots with -ṛ- in the penultimate position have facultative -ra- or 
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
->> B) The following roots form the infinitive with a connecting vowel -i-. Form the infinitive:
+B) The following roots form the infinitive with a connecting vowel -i-. Form the infinitive:
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -267,7 +267,7 @@ A) Translate into Sanskrit:
 
 5. Yoga is the cessation of the activities of the mind.
 
->> 6\. Right conquers, not wrong; truth conquers, not falsehood; patience conquers, not anger; God conquers, not a counter-god. (Passive)
+6\. Right conquers, not wrong; truth conquers, not falsehood; patience conquers, not anger; God conquers, not a counter-god. (Passive)
 
 7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The guidance of this staff is politics.
 
@@ -291,7 +291,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सि�
 
 B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
->> C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutive, infinitive) for the following verbs:
+C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutive, infinitive) for the following verbs:
 
 ⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 

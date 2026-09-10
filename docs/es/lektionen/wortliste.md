@@ -854,7 +854,8 @@ Fig.: ⟪पूजा⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt1504))
 :::
 ⟪कुल⟫ n.: rebaño, multitud, género, linaje, familia
-⟪इन्द्र⟫ m.: Príncipe, el primero, el mejor entre ; Indra, rey de los dioses
+
+⟪इन्द्र⟫ m.: príncipe, primero, mejor entre ; rey de los dioses Indra
 ::: media
 ![](/images/lekt1505.webp)
 Fig.: ⟪इन्द्रः⟫
@@ -864,22 +865,22 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪दासी⟫ f.: esclava, sierva, sirvienta
 
-⟪काल⟫ m.: tiempo, momento (oportuno); destino, muerte; Kāla, dios de la muerte
+⟪काल⟫ m.: tiempo, (correcto) momento ; destino, muerte ; dios de la muerte Kāla
 
-⟪काल⟫ 3: negro, azul negruzco, oscuro
+⟪काल⟫ 3: negro, azul-negro, oscuro
 
-⟪पुरुष⟫ m.: ser humano, hombre, siervo
+⟪पुरुष⟫ m.: hombre, varón, siervo
 
-\-⟪जन⟫ como segundo miembro de Tatpuruṣas, a menudo expresa el plural
+\-⟪जन⟫ como segundo componente de Tatpuruṣas a menudo expresión del plural
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫; pasivo ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : alabar, ensalzar
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pas. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : alabar, ensalzar
 
-de ahí:
+de ello:
 
 ::: indent
-⟪स्तुति⟫ f.: alabanza, canto de alabanza
+⟪स्तुति⟫ f.: alabanza, himno de alabanza
 
-⟪स्तोत्र⟫ n.: (medio para alabar =) canto de alabanza, himno
+⟪स्तोत्र⟫ n.: (medio para alabar =) himno de alabanza, himno
 :::
 ⟪सिंह⟫ m.: león (_Panthera leo persica_)
 ::: media
@@ -887,20 +888,20 @@ de ahí:
 Fig.: ⟪सिंहः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (literalmente: «el que bosteza»)
+⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (literal: guardián)
 ::: media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
 (Fuente de la imagen: [Detalles](/licenses#lekt1507))
 :::
-⟪इव⟫ (recreado): por así decirlo, como (en comparaciones: ⟪व्याघ्र इव पुरुषः⟫ = «un hombre como un tigre», «un hombre semejante a un tigre»
+⟪इव⟫ (pospuesto): como si, como (en comparaciones: ⟪व्याघ्र इव पुरुषः⟫ = "un hombre como un tigre", "un hombre igual a un tigre"
 
-⟪एव⟫ (repetido): enfatiza lo anterior; en alemán suele equivaler al énfasis, una especie de emoticono `\<!\>`, p. ej., ⟪सत्यमेव जयति⟫ «solo la verdad triunfa», «precisamente la verdad triunfa», «la verdad triunfa»
+⟪एव⟫ (pospuesto): enfatiza lo anterior, en alemán a menudo corresponde al énfasis, una especie de emoticono `\<!\>`, p. ej. ⟪सत्यमेव जयति⟫ "sólo la verdad triunfa", "justo la verdad triunfa", "la verdad triunfa"
 
-⟪अरि⟫ m.: enemigo (según Thieme, «Der Fremdling im Ṛgveda»: originalmente = forastero)
+⟪अरि⟫ m.: enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero)
 
 ::: indent
-⟪आर्य⟫ 3: ario, noble; m. ario (autodenominación de los antiguos indios de habla sánscrita, literalmente: «hospedador» (Thieme)); noble, hombre honorable
+⟪आर्य⟫ 3: ario, noble ; m. aria (autodenominación de los antiguos indios que hablaban sánscrito, literal: hospitalario (Thieme)) ; noble, hombre de honor
 :::
 a ⟪जन्⟫
 
@@ -1803,7 +1804,7 @@ Fig.: ⟪हिरण्यम्⟫
 :::
 ⟪अणु ३⟫ : delgado, fino, muy pequeño ; m.: átomo
 
-⟪गोदान⟫ n.: donación de vacas / de una vaca; segunda ceremonia del corte de cabello (un ⟪संस्कार⟫)
+⟪गोदान⟫ n.: donación de vacas / de una vaca; segunda ceremonia de corte de cabello (un ⟪संस्कार⟫)
 
 ## Lección 27
 
@@ -1819,7 +1820,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 
 
-⟪वस्⟫ 1P (⟪वसति⟫): permanecer, habitar (con dativo de la persona con quien se reside)
+⟪वस्⟫ 1P (⟪वसति⟫): permanecer, habitar (con locativo de la persona, en la casa de uno)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
@@ -1833,7 +1834,7 @@ de ello:
 ::: indent
 ⟪वस्तुतस्⟫: en realidad, verdaderamente
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): vestirse, llevar puesto (la ropa)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): vestirse (ropa), llevar (ropa)
 
 ::: indent
 **Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
@@ -1845,20 +1846,20 @@ de ello:
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Fig.: ⟪वस्त्राणि⟫
+Abb.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Fuente de la imagen: [Detalles](/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): brillar, resplandecer (esta raíz es importante por las formaciones nominales:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): brillar (esta raíz es importante por las formaciones nominales:)
 
 ::: indent
-⟪वसु⟫ n.: riqueza, tesoro, bienes, posesión
+⟪वसु⟫ n.: riqueza, tesoro, posesión, propiedad
 
-⟪वसन्त⟫ m.: ("resplandeciente" =) primavera (marzo a mayo)
+⟪वसन्त⟫ m.: ("brillante" =) primavera (marzo a mayo)
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Fig.: ⟪वसन्तः⟫
+Abb.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fuente de la imagen: [Detalles](/licenses#lekt2707))
 :::
@@ -2738,7 +2739,7 @@ Estatua del toro Nandi, Colinas de Chamundi, Mysore.
 ![](/images/lekt3502.webp)
 Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Fuente: [Details](/licenses#lekt3502))
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): cantar, recitar en tono cantado, proclamar en verso
 ::: indent
@@ -2756,7 +2757,7 @@ de ello:
 ![](/images/lekt3501.webp)
 Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Fuente: [Details](/licenses#lekt3501))
 :::
 
 ## Lección 36

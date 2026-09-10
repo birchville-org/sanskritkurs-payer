@@ -109,7 +109,7 @@ Varṇae itaque sunt ordines nati.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Deus Agni, miniatura, saec. XVIII.
+Fig.: Deus Agni, miniatura, saec. XVIII.
 (Fons imaginis: [Detalia](/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : recte, bene.
@@ -118,7 +118,7 @@ Abb.: Deus Agni, miniatura, saec. XVIII.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Templum Pashupatinath, Kathmandu.
+Fig.: Sādhu (⟪साधु⟫), Templum Pashupatinath, Kathmandu.
 (Fons imaginis: [Detalia](/licenses#lekt0202))
 :::
 **guru** 3 -- ⟪गुरु⟫ : gravis, magnus, colendus
@@ -182,7 +182,7 @@ epica magna **mahābhārata** n. (⟪महाभारत⟫) et **rāmāyaṇa
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
+Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Fons imaginis: [Details](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. ad sādhu.
@@ -221,7 +221,7 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. 18.
+Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. 18.
 (Fons imaginis: Wikipedia, Public domain)
 :::
 **krodha** m. = ⟪क्रोध⟫ : ira.
@@ -315,7 +315,7 @@ In Sanscrito verba in **forma radicis** proponuntur. Numerus post radicem signif
 **soma** m. ⟪सोम⟫ : liquor expressus, Soma; Luna (Ex qua planta Soma expressum sit, usque ad hodiernum diem controversum est).
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: Anne haec fuit planta Soma vedica?: Muscarius Amanita: *Amanita muscaria* (L.) Lam.
+Fig.: Anne haec fuit planta Soma vedica?: Muscarius Amanita: *Amanita muscaria* (L.) Lam.
 (Fons imaginis: [Detalia](/licenses#lekt0701))
 :::
 **phala** n. ⟪फल⟫ : fructus (etiam in sensu metaphorico: fructus (karmicus) actus)
@@ -855,11 +855,11 @@ Fig.: ⟪पूजा⟫
 :::
 ⟪कुल⟫ n.: grex, multitudo, genus, prosapia, familia
 
-⟪इन्द्र⟫ m.: princeps, primus, optimus inter ; rex deorum Indra
+⟪इन्द्र⟫ m.: princeps, primus, optimus inter ; deorum rex Indra
 ::: media
 ![](/images/lekt1505.webp)
-Imago: ⟪इन्द्रः⟫
-(Fons imaginis: [Detalia](/licenses#lekt1505))
+Fig.: ⟪इन्द्रः⟫
+(Fontes imagines: [Details](/licenses#lekt1505))
 :::
 ⟪दास⟫ m.: servus, adscripticius, minister
 
@@ -867,41 +867,41 @@ Imago: ⟪इन्द्रः⟫
 
 ⟪काल⟫ m.: tempus, (rectum) momentum ; fatum, mors ; deus mortis Kāla
 
-⟪काल⟫ 3: niger, nigrocaeruleus, obscurus
+⟪काल⟫ 3: niger, caeruleoniger, obscurus
 
-⟪पुरुष⟫ m.: homo, vir, famulus
+⟪पुरुष⟫ m.: homo, vir, servus
 
-\-⟪जन⟫ ut membrum secundum Tatpuruṣorum saepe signum pluralis
+\-⟪जन⟫ ut secundum membrum Tatpuruṣa saepe expressionem pluralis
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : laudare, celebrare
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : laudare, praedicere
 
-inde:
+unde:
 
 ::: indent
 ⟪स्तुति⟫ f.: laudatio, carmen laudis
 
-⟪स्तोत्र⟫ n.: (instrumentum laudandi =) carmen laudis, hymnus
+⟪स्तोत्र⟫ n.: (medium laudandi =) carmen laudis, hymnus
 :::
 ⟪सिंह⟫ m.: leo (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Imago: ⟪सिंहः⟫
-(Fons imaginis: [Detalia](/licenses#lekt1506))
+Fig.: ⟪सिंहः⟫
+(Fontes imagines: [Details](/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: tigris (_Panthera tigris tigris_) (litteraliter: oscitator)
+⟪व्याघ्र⟫ m.: tigris (_Panthera tigris tigris_) (vulgo: ianitor)
 ::: media
 ![](/images/lekt1507.webp)
-Imago: ⟪व्याघ्रः⟫
-(Fons imaginis: [Detalia](/licenses#lekt1507))
+Fig.: ⟪व्याघ्रः⟫
+(Fontes imagines: [Details](/licenses#lekt1507))
 :::
-⟪इव⟫ (postpositum): quasi, sicut (in comparationibus: ⟪व्याघ्र इव पुरुषः⟫ = "vir sicut tigris", "vir tigri similis
+⟪इव⟫ (postpositum): quasi, ut (in comparationibus: ⟪व्याघ्र इव पुरुषः⟫ = "vir ut tigris", "vir tigridi similis"
 
-⟪एव⟫ (postpositum): praecedentia emphatice designat, in lingua Germanica saepe accentui respondet, genus quoddam emoticonis `\<!\>`, exempli gratia ⟪सत्यमेव जयति⟫ "veritas sola vincit", "ipsa veritas vincit", "veritas vincit"
+⟪एव⟫ (postpositum): praecedentia confirmat, in Germanico saepe accentui respondet, quaedam emoticon est `\<!\>`, e.g. ⟪सत्यमेव जयति⟫ "sola veritas vincit", "ipsa veritas vincit", "veritas vincit"
 
-⟪अरि⟫ m.: hostis (secundum Thieme, Peregrinus in Ṛgveda: primitus = peregrinus)
+⟪अरि⟫ m.: hostis (secundum Thieme, Der Fremdling im Ṛgveda: originarius = hospes)
 
 ::: indent
-⟪आर्य⟫ 3: arianus, nobilis ; m. Arianus (appellatio propria Indorum antiquorum Sanscritice loquentium, litteraliter: hospitabilis (Thieme)) ; nobilis, vir honestus
+⟪आर्य⟫ 3: Aryanus, nobilis ; m. Arya (ipsius nominatio Indorum antiquorum Sanscritum loquentium, vulgo: hospes amicus (Thieme)) ; nobilis, vir honestus
 :::
 ad ⟪जन्⟫
 
@@ -988,9 +988,9 @@ Birla Mandir, Delhi
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
+Fig.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603))
+(Fons imaginis: [Detalia](/la/licenses#lekt1603))
 :::
 
 ## Lectio 17
@@ -1017,9 +1017,9 @@ unde:
 
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Fons imaginis: [Detalia](/la/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sedere
 
@@ -1031,8 +1031,8 @@ unde:
 
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+Fig.: ⟪योगासनम्⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : plorare, ululare
 
@@ -1452,7 +1452,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Fons imaginis: [Details](/licenses#lekt2201))
 :::
@@ -1506,7 +1506,7 @@ Eodem modo ut ⟪अलम्⟫ cum Instrumentali adhibetur:
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
+Fig.: ⟪अलंकारः⟫
 (Fons imaginis: [Details](/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: impetus, occasio, causa, ratio ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ cum Genitivo vel ut pars posterior compositionis = "propter ..., ob"
@@ -1515,7 +1515,7 @@ Abb.: ⟪अलंकारः⟫
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Fontes imagines: [Details](/licenses#lekt2406))
 :::
@@ -1551,7 +1551,7 @@ inde
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (Fontes imagines: [Details](/licenses#lekt2407))
 :::
@@ -1570,7 +1570,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+Fig.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Fontes imagines: [Details](/licenses#lekt2408))
 :::
@@ -1599,7 +1599,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Fig.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
 Manuscriptum ⟪गीतगोविन्द⟫, anno 1730 p. Chr.
 (Fons imaginis: [Detalia](/licenses#lekt2411))
 :::
@@ -1644,7 +1644,7 @@ inde:
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
+Fig.: ⟪धान्यम्⟫
 (Fons imaginis: [Detalia](/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : tenere, retinere
@@ -1720,7 +1720,7 @@ ex quo:
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
+Fig.: ⟪मूलानि⟫
 (Fons imaginis: [Detalia](/licenses#lekt2502))
 :::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): unguere, linire
@@ -2091,7 +2091,7 @@ Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति विक्रीणते च⟫
+Fig.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3001))
 :::
@@ -2113,7 +2113,7 @@ unde:
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
+Fig.: ⟪ज्ञातयः⟫
 Darewadi, Districtus Ahmednagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3002))
 :::
@@ -2228,7 +2228,7 @@ Quod ⟪कलियुग⟫ coepit circa annum 3102 a.C.n., anno belli ⟪म�
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
+Fig.: ⟪योगः⟫
 Representatio yoga.
 (Fons imaginis: [Details](/licenses#lekt3101))
 :::
@@ -2271,7 +2271,7 @@ ex quo:
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
+Fig.: ⟪व्यञ्जनम्⟫
 Preparatio ad saltum Kathakali, Kochi.
 (Fons imaginis: [Details](/licenses#lekt3102))
 :::
@@ -2312,7 +2312,7 @@ unde:
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
+Fig.: ⟪प्रज्ञापारमिता⟫
 Ex manuscripto Prajñāpāramitā.
 (Fons imaginis: [Details](/licenses#lekt3103))
 :::
@@ -2354,7 +2354,7 @@ Ex manuscripto Prajñāpāramitā.
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
+Fig.: ⟪चूतः⟫
 Arbor mangifera, Kanpur.
 (Fons imaginis: [Details](/licenses#lekt3202))
 :::
@@ -2382,7 +2382,7 @@ Arbor mangifera, Kanpur.
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
+Fig.: ⟪वानराः⟫
 Macaca mulatta in Delhi.
 (Fontes imaginis: [Detalia](/licenses#lekt3203))
 :::
@@ -2398,7 +2398,7 @@ Macaca mulatta in Delhi.
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
+Fig.: ⟪उपलाः⟫
 Lapis caementarius ad meridiem urbis Pune, Maharashtra.
 (Fontes imaginis: [Detalia](/licenses#lekt3204))
 :::
@@ -2406,7 +2406,7 @@ Lapis caementarius ad meridiem urbis Pune, Maharashtra.
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
+Fig.: ⟪लक्ष्यम्⟫
 Exercitatio sagittaria / scutum sagittarum, Karnataka.
 (Fontes imaginis: [Detalia](/licenses#lekt3205))
 :::
@@ -2430,7 +2430,7 @@ Exercitatio sagittaria / scutum sagittarum, Karnataka.
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं गोमयं दहति⟫
+Fig.: ⟪चितं गोमयं दहति⟫
 Fimusectoria in Rajasthan.
 (Fontes imaginis: [Detalia](/licenses#lekt3207))
 :::
@@ -2442,7 +2442,7 @@ Fimusectoria in Rajasthan.
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
+Fig.: ⟪कौशलम्⟫
 Pinxitura Mehndi in manibus Mumbai.
 (Fontes imaginis: [Detalia](/licenses#lekt3206))
 :::
@@ -2476,7 +2476,7 @@ ex quibus:
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
+Fig.: ⟪दानम्⟫
 (Fontes imaginis: [Detalia](/licenses#lekt3306))
 :::
 ⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: accipere, possidere, sumere
@@ -2486,7 +2486,7 @@ Abb.: ⟪दानम्⟫
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3307))
 :::
 sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: constituere, determinare, dividere
@@ -2507,7 +2507,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
+Fig.: ⟪समाधि⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3305))
 :::
 ⟪पॄ⟫ 3P ⟪पिपर्ति⟫: implere, replevere
@@ -2541,7 +2541,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
+Fig.: ⟪भयम्⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3304))
 :::
 ⟪भृ⟫ 3U ⟪बिभर्ति⟫: portare, ferre; sustentare, nutrire
@@ -2589,7 +2589,7 @@ ex PPP ⟪हीन⟫:
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
+Fig.: ⟪हीनयानमेव⟫
 (Fontes imagines: [Details](/licenses#lekt3303))
 :::
 ⟪हु⟫ 3P ⟪जुहोति⟫: in ignem fundere (sacrificii gratia, praesertim butyrum clarum)
@@ -2603,7 +2603,7 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ जुहोति⟫
+Fig.: ⟪घृतमग्नौ जुहोति⟫
 (Fontes imagines: [Details](/licenses#lekt3302))
 :::
 ⟪घृत⟫ n.: butyrum clarum, ghee (⟪घी⟫ / گھی / ঘী)
@@ -2736,9 +2736,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Fig.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Fons imaginis: [Detalia](/la/licenses#lekt3502))
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): canere, carmine recitare, versibus proferre
 ::: indent
@@ -2754,9 +2754,9 @@ inde:
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Fons imaginis: [Detalia](/la/licenses#lekt3501))
 :::
 
 ## Lectio 36
@@ -2799,8 +2799,8 @@ Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+Fig.: ⟪गोमयं चिकाय⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt3601))
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : gradi, ire, abire
@@ -2819,8 +2819,8 @@ Inf. ⟪व्रजितुम्⟫
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+Fig.: ⟪अगारम्⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt3602))
 :::
 
 ::: indent
@@ -2830,8 +2830,8 @@ e quo:
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+Fig.: ⟪अनगार्यम्⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: manus utraque ad reverentiam simul iunctae
 
@@ -2956,7 +2956,7 @@ Fig.: ⟪लोमहर्षः⟫
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
+Fig.: ⟪शाक्यमुनिः⟫
 (Imago fons: [Detalia](/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: dies
@@ -2965,7 +2965,7 @@ Abb.: ⟪शाक्यमुनिः⟫
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
+Fig.: ⟪वृक्षः⟫
 (Imago fons: [Detalia](/licenses#lekt3706))
 :::
 ⟪मुख⟫ n.: os, facies, pars anterior, initium
@@ -2988,14 +2988,14 @@ Abb.: ⟪वृक्षः⟫
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
+Fig.: ⟪सूर्यः⟫
 (Imago fons: [Detalia](/licenses#lekt3802))
 :::
 ⟪उदक⟫ n.: aqua
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
+Fig.: ⟪उदकम्⟫
 (Imago fons: [Detalia](/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : spirare, flatu movere
@@ -3023,7 +3023,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+Fig.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
 (Imago fons: [Detalia](/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : urinare, excreare, eiaculari
@@ -3064,7 +3064,7 @@ a ⟪राज⟫ :
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
+Fig.: ⟪ब्रह्मा⟫
 (Fons imaginis: [Details](/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n.: ad ⟪कृ⟫ 8U: actio, res gesta; opus sacrum, sacrificium; Karma: prius factum quod postea fructus fert (e.g. in renaissance) 
@@ -3274,7 +3274,7 @@ unde:
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
+Fig.: ⟪शासना⟫
 (Fons imaginis: [Detalia](/licenses#lekt4109))
 :::
 
@@ -3285,7 +3285,7 @@ Abb.: ⟪शासना⟫
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
+Fig.: ⟪शास्त्री⟫
 (Fons imaginis: [Detalia](/licenses#lekt4110))
 :::
 
@@ -3389,7 +3389,7 @@ Inf. ⟪शंसितुम्⟫
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Fons imaginis: [Details](/licenses#lekt4202))
 :::
 ⟪भर्तृ⟫ m. (ad ⟪भृ⟫ "ferre, sustentare"): sustentator, nutritor, coniunx
@@ -3463,7 +3463,7 @@ Utrisque ritus perficiuntur, scilicet ⟪श्राद्ध⟫ n. Quotidie tr
 
 ::: media
 ![](/images/lekt4302.webp)
-Abb.: ⟪आपणः⟫
+Fig.: ⟪आपणः⟫
 (Imago auctoris: [Detalia](/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: celer, festinus
@@ -3472,7 +3472,7 @@ Abb.: ⟪आपणः⟫
 
 ::: media
 ![](/images/lekt4303.webp)
-Abb.: ⟪पण्यानि⟫
+Fig.: ⟪पण्यानि⟫
 (Imago auctoris: [Detalia](/licenses#lekt4303))
 :::
 ⟪आम्⟫ : ita, vero
@@ -3495,14 +3495,14 @@ Abb.: ⟪पण्यानि⟫
 
 ::: media
 ![](/images/lekt4304.webp)
-Abb.: ⟪विपणिः⟫
+Fig.: ⟪विपणिः⟫
 (Imago auctoris: [Detalia](/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: mercator
 
 ::: media
 ![](/images/lekt4305.webp)
-Abb.: ⟪वणिक्⟫
+Fig.: ⟪वणिक्⟫
 (Imago auctoris: [Detalia](/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: optimus
@@ -3513,7 +3513,7 @@ Abb.: ⟪वणिक्⟫
 
 ::: media
 ![](/images/lekt4306.webp)
-Abb.: ⟪वत्सः⟫
+Fig.: ⟪वत्सः⟫
 (Imago auctoris: [Detalia](/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: supremus, optimus
@@ -3534,7 +3534,7 @@ Abb.: ⟪वत्सः⟫
 
 ::: media
 ![](/images/lekt4307.webp)
-Abb.: ⟪तोलन्ति⟫
+Fig.: ⟪तोलन्ति⟫
 (Imago auctoris: [Detalia](/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: charta
@@ -3615,7 +3615,7 @@ inde:
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
+Fig.: ⟪रेल्यानम्⟫
 (Fons imaginis: [Details](/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : iacere. Haec radix in omnibus formis radicis praesentis **Gradus Superior:** 1.sg.Ind.Praes.Ā :sig[⟪शेये⟫] (śe + e). Formae sequentes praecipue notandae sunt: 3.pl.Ind.Praes.Ā :sig[⟪शेरते⟫], 3.pl.Impf.Ā :sig[⟪अशेरत⟫]
@@ -3969,7 +3969,7 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+Fig.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
 (Imaginis auctor: [Detalia](/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : pendere ad (⟪द्वितीयया⟫)
@@ -3993,7 +3993,7 @@ exempli gratia
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
+Fig.: [⟪भोः⟫](/licenses#lekt4611)
 (Imaginis auctor: [Detalia](/licenses#lekt4611))
 :::
 
@@ -4023,14 +4023,14 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fons imaginis: [Details](/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
+Fig.: ⟪तन्त्री⟫
 Sitarspieler = ⟪सितारवादकः⟫
 (Fons imaginis: [Details](/licenses#lekt4803))
 :::
@@ -4052,7 +4052,7 @@ Declinatio:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
+Fig.: ⟪स्वतन्त्राः स्त्रियः⟫
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Fons imaginis: [Details](/licenses#lekt4804))
 :::
@@ -4182,7 +4182,7 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
+Fig.: ⟪कुलूहलम्⟫
 (Fons imaginis: [Details](/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: totus, integre
@@ -4193,7 +4193,7 @@ Abb.: ⟪कुलूहलम्⟫
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, saec. XI
+Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, saec. XI
 (Fons imaginis: [Details](/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: voluntas
@@ -4204,14 +4204,14 @@ Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, sae
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
+Fig.: ⟪विहंगः⟫
 (Fons imaginis: [Details](/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: vestis, species, exterius
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः वाराणस्याम्⟫
+Fig.: ⟪वेषः वाराणस्याम्⟫
 (Fons imaginis: [Details](/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: tegumentum, latebra
@@ -4220,7 +4220,7 @@ Abb.: ⟪वेषः वाराणस्याम्⟫
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
+Fig.: ⟪पञ्जरम्⟫
 Augur cum psittaco in cavea: psittacus chartulas trahit, quibus fatum scriptum est Mysore
 (Fons imaginis: [Details](/licenses#lekt4909))
 :::
@@ -4332,7 +4332,7 @@ Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो वर्षिष्यति⟫
+Fig.: ⟪महामेघो वर्षिष्यति⟫
 Adventus monsis, Bangalore  ಬೆಂಗಳೂರು
 (Fontes imaginis: [Detalia](/licenses#lekt5002))
 :::
@@ -4342,7 +4342,7 @@ Adventus monsis, Bangalore  ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
+Fig.: ⟪आदित्यः⟫
 (Fontes imaginis: [Detalia](/licenses#lekt5005))
 :::
 ⟪सर्व⟫ 3: quisque, omnes
@@ -4506,7 +4506,7 @@ Palatium Civitatis, ⟪उदयपुर⟫
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
+Fig.: ⟪मृगया⟫
 Venatio cum ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Fons imaginis: [Details](/licenses#lekt5110))
 :::
@@ -4514,7 +4514,7 @@ Venatio cum ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુ�
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
+Fig.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Fons imaginis: [Details](/licenses#lekt5111))
 :::
@@ -4524,7 +4524,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
+Fig.: ⟪कौशिकः⟫
 Strigo Brahma (_Athene brama_), Mahesana = મહેસાણા
 (Fons imaginis: [Details](/licenses#lekt5112))
 :::
@@ -4539,7 +4539,7 @@ radix debilis ante consonantem ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा लिङ्गं च⟫
+Fig.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Fons imaginis: [Details](/licenses#lekt5113))
 :::
@@ -4553,7 +4553,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम् जोधपुर⟫
+Fig.: ⟪आपानकम् जोधपुर⟫
 (Fons imaginis: [Details](/licenses#lekt5114))
 :::
 ⟪क्रूर⟫ 3: rudis, crudelis
@@ -4571,7 +4571,7 @@ PPP ⟪दिग्ध⟫
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
+Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fons imaginis: [Details](/licenses#lekt5115))
 :::
@@ -4579,7 +4579,7 @@ Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
+Fig.: ⟪भुजंगः⟫
 Serpens catenatus (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Fons imaginis: [Details](/licenses#lekt5116))
 :::
@@ -4605,7 +4605,7 @@ Serpens catenatus (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 ::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
+Fig.: ⟪मणिः⟫
 Hope Diamond ex Guntur = గుంటూరు, hodie Smithsonian Museum of Natural History, Washington DC
 (Fons imaginis: [Details](/licenses#lekt5118))
 :::
@@ -4615,7 +4615,7 @@ Hope Diamond ex Guntur = గుంటూరు, hodie Smithsonian Museum of Natu
 
 ::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
+Fig.: ⟪मदः⟫
 (Fons imaginis: [Details](/licenses#lekt5117))
 :::
 ⟪राग⟫ m.: etiam: color, rubor
@@ -4662,7 +4662,7 @@ a:
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Fons imaginis: [Details](/licenses#lekt5210))
 :::
@@ -4694,7 +4694,7 @@ PPP ⟪विपरीत⟫ 3: pravus, falsus
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
 (Fons imaginis: [Detalia](/licenses#lekt5212))
 :::
@@ -4711,7 +4711,7 @@ inde:
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः मुंबई⟫
+Fig.: ⟪प्रधानः मुंबई⟫
 (Fons imaginis: [Detalia](/licenses#lekt5213))
 :::
 ⟪लौल्य⟫ n.: cupiditas, libido
@@ -4808,7 +4808,7 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
 (Fons imaginis: [Details](/licenses#lekt5214))
 :::
@@ -4816,7 +4816,7 @@ Konark = ⟪कोनार्क⟫
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
 (Fons imaginis: [Details](/licenses#lekt5208))
 :::
@@ -4832,7 +4832,7 @@ Hampi = ಹಂಪೆ
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम् मुंबई⟫
+Fig.: ⟪मलम् मुंबई⟫
 (Fons imaginis: [Details](/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: caelum Indram
@@ -4841,7 +4841,7 @@ Abb.: ⟪मलम् मुंबई⟫
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
+Fig.:
 Amaravati = అమరావతి, saec. II p.Chr.
 (Fons imaginis: [Details](/licenses#lekt5217))
 :::

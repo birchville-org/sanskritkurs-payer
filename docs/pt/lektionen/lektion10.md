@@ -1,10 +1,11 @@
 ---
-title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+title: "Lição 10"
+subtitle: "A oração passiva (Instrumental do agente)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 10
@@ -76,39 +77,41 @@ As construções passivas em sânscrito são extremamente comuns: a passiva é, 
 | **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
 | **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
-**Pronome interrogativo kim:**
+**Pronomes interrogativos kim:**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
 | **Masculino / Neutro** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
 | **Feminino** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
-**Pronomes Demonstrativos:**
+**Pronomes demonstrativos:**
 
 | Pronome | Gênero | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br"ele, ela, isso; o, a, os, as" (Mencionado):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br"este, esta, isto" (Muito próximo do falante):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br"este, esta, isto" (Próximo):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
+
+
 
 ### 10.2.1. Sobre o uso do Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 **O Instrumental (tṛtīyā) responde principalmente às perguntas:**
-- **Através de quê?**
-- **Com quê?**
-- **Com quem?**
+**Por meio de quê?**
+**Com o quê?**
+**Com quem?**
 
 **Ele é usado**
-1. **para indicar o meio ou instrumento com o qual algo é realizado**
-2. **para indicar o caminho pelo qual alguém chega a algum lugar**
-3. **para expressar conexão, união, acompanhamento de**
-4. **com posposições no sentido de "junto com, com"; por ex. saha = ⟪सह⟫ = "com"**
-5. **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "juntamente com o brâmane"
+1. **em orações passivas: Agente (kartṛ) no Instrumental**
+2. **para indicar o meio ou instrumento com que algo é realizado**
+3. **para indicar o caminho por onde alguém chega a algum lugar**
+4. **para expressar conexão, união ou companhia com**
+5. **com pós-posições no sentido de "junto com, com"; por exemplo: saha = ⟪सह⟫ = "com"** :brpor exemplo:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "juntamente com o brâman"
 :::
 Outros usos do Instrumental (tṛtīyā) serão abordados mais tarde.
 
@@ -154,32 +157,32 @@ p. ex.
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
 | **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Note que, para os verbos da 4ª classe do presente, o Ātmanepada e o passivo têm formas idênticas! Se se trata de Ātmanepada ou de passivo, neste caso, só pode ser deduzido a partir da construção da frase.**
+**Observe que, nos verbos da 4ª classe do presente, as formas Ātmanepada e a voz passiva são idênticas! Neste caso, apenas pela estrutura da frase é possível determinar se se trata de Ātmanepada ou voz passiva.**
 
-### 10.4.1. Regras especiais para a formação do passivo
 
-1. **Raízes terminadas em -i ou -u** alongam a sua vogal antes do sufixo passivo **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**
-   * **śru** 5 P: **śrūyate**, **śrūyante**
-   * **su** 5 U: **sūyate**, **sūyante**
 
-2. **Raízes com -a- entre consoantes** (exceto nasais, y, r, v) permanecem no grau forte:
-   * **labh** 1 Ā: **labhyate**, **labhyante**
+### 10.4.1. Regras especiais para a formação da voz passiva
 
-3. **Algumas raízes formam seu passivo no grau forte** (ou no grau de ablaute do tema do presente):
-   * **āp** 5 P: **āpyate**, **āpyante**
-   * **khād** 1 P: **khādyate**, **khādyante**
-   * **smṛ** 1 P: **smaryate**, **smaryante**
+1. **Raízes terminadas em -i ou -u** alongam sua vogal antes do sufixo passivo **-ya-**:
+* **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+* **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+* **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
-4. **Grau zero de verbos que começam com ya, va, ra, ou nos quais esses sons aparecem após outra consoante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+2. **Raízes com -a- entre consoantes** (exceto nasais, y, r, v) mantêm o grau pleno:
+* **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
-   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
-   | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+3. **Algumas raízes formam sua voz passiva no grau pleno** (ou no grau do tema do presente):
+* **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+* **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+* **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-A designação nativa tradicional para esta formação do grau zero em verbos com **ya** ou **va** é **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+4. **Grau reduzido de verbos que começam com ya, va, ra, ou nos quais esses sons ocorrem após outra consoante (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+
+| Raiz:br⟪धातु⟫ | Grau reduzido:br⟪सम्प्रसारण⟫ | Voz passiva:br⟪यक्⟫ |
+| :--- | :--- | :--- |
+| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 5. O **-ṛ** final após uma única consoante é substituído por **-ri-** antes do sufixo passivo **-ya-**:
    * **kṛ** 8 U: **kriyate**, **kriyante**
@@ -233,7 +236,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editado postumamen
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1003))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : inverdade, mentira (oposto de **satya**)
 
@@ -252,7 +255,7 @@ Fig.: ⟪वरुणः⟫
 ::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1002))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dizer, falar
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : perguntar (a alguém: Ac.; sobre algo: Ac.)
@@ -314,7 +317,7 @@ Fig.: ⟪विश्वामित्रः⟫
 ::: media
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1004))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1004))
 :::
 5. Os professores são questionados. (Construção passiva)
 6. O olho é guiado. (Construção passiva)

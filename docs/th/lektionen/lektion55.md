@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "บทที่ 55"
+subtitle: "อรรถกถา-อรรถกถา (อรรถกถาพร้อมด้วยสระธีม)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # บทที่ 55

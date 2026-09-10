@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 45]"
 uebung_id: 45
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,60 +7,60 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 45
+# Bài tập 45
 
-A) Übersetzen Sie ins Sanskrit (verwenden Sie für die Vergangenheit das Imperfekt):
+A) Dịch sang tiếng Phạn (sử dụng thì imperfectum cho quá khứ):
 
-⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Du spaltest die (buddhistische) Gemeinde.
+⟪१⟫. **⟪सङ्घं भिनत्सि ॥ १ ॥⟫**
+Ngươi phân chia Tăng đoàn (Phật giáo).
 
-⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Habt ihr die Erde genossen?
+⟪२⟫. **⟪किं महीमभुङ्क्त ॥ २ ॥⟫**
+Các ngươi đã hưởng thụ đất đai chưa?
 
-⟪३⟫. **⟪किं⟫ ⟪राज्ञो⟫ ⟪दानमादत्थाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **... ⟪राज्ञा⟫ ...**)
-Hast du vom König eine Gabe empfangen?
+⟪३⟫. **⟪किं राज्ञो दानमादत्थाः ॥ ३ ॥⟫** (Hoặc: **... ⟪राज्ञा⟫ ...**)
+Ngươi đã nhận một món quà từ nhà vua chưa?
 
-⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+⟪४⟫. **⟪साधो कस्माद्भयेभ्यो न बिभेषि ॥ ४ ॥⟫**
+Người thánh thiện, sao ngươi không sợ hiểm nguy?
 
-⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Vater, wohin gehend verlässt du die Familie?
+⟪५⟫. **⟪पितः कुत्र गच्छन्कुलं जहासि ॥ ५ ॥⟫**
+Cha ơi, đi đâu mà ngươi rời bỏ gia đình?
 
-⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra-Frau, hast du etwa die Last in das Haus des reichen Brahmanen getragen?
+⟪६⟫. **⟪शूद्रे ऽपि धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥ ६ ॥⟫**
+Hỡi người phụ nữ Śūdra, chẳng lẽ ngươi đã vác gánh nặng vào nhà của vị Brahman giàu có sao?
 
-⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
+⟪७⟫. **⟪देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥ ७ ॥⟫**
+Hỡi nữ thần, ngươi nên thực hiện mong muốn hạnh phúc của vị Vaiśya đã làm được công đức.
 
-⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oder: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Elefanten, ihr solltet die Fesseln nicht zerbrechen.
+⟪८⟫. **⟪हस्तिनो बन्धनानि न भञ्ज्यात ॥ ८ ॥⟫** (Hoặc: **... ⟪न भिन्द्यात ॥⟫**)
+Hỡi những con voi, các ngươi không nên phá vỡ xiềng xích.
 
-⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Du löwengleicher Mann, warum richtest du deine Aufmerksamkeit nicht ganz auf das Absolute?
+⟪९⟫. **⟪नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥ ९ ॥⟫**
+Hỡi người đàn ông giống như sư tử, sao ngươi không hoàn toàn tập trung tâm trí vào Chân lý Tối thượng?
 
-⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Hast du, o Dichter, etwa die Welten gemessen?
+⟪१०⟫. **⟪कवे कच्चिल्लोकानमिमीथाः ॥ १० ॥⟫**
+Hỡi nhà thơ, chẳng lẽ ngươi đã đo đạc các thế giới sao?
 
 ---
 
-## Übungstexte
+## Văn bản bài tập
 
-B) Übersetzen Sie:
+B) Dịch:
 
-⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, entweder wirst du getötet und den Himmel erreichen, oder du wirst siegen und die Erde geniessen. Deshalb ist von dir zu kämpfen (musst du kämpfen).
+⟪१⟫. **⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥ १ ॥⟫**
+Hỡi Arjuna, hoặc ngươi sẽ bị giết và đạt đến thiên giới, hoặc ngươi sẽ chiến thắng và hưởng thụ đất đai. Vì vậy, ngươi phải chiến đấu (ngươi nhất định phải chiến đấu).
 
-⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
+⟪२⟫. **⟪भवति कथमनन्तदुःखमरुणत् ॥ २ ॥⟫**
+Bạch Đức Thế Tôn, Ngài đã chấm dứt khổ đau vô biên như thế nào?
 
-⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Brahmane, hast du Ghee ins Opferfeuer gegossen?
+⟪३⟫. **⟪ब्राह्मण किमग्नौ घृतमजुहोः ॥ ३ ॥⟫**
+Bà-la-môn, ông đã rót bơ vào lửa tế chưa?
 
-⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
+⟪४⟫. **⟪शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥⟫**
+Kẻ thù, ngươi không thể dùng kiếm tách rời linh hồn (sự sống).
 
 ::: media
 ![](/images/uebung074.webp)
-Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
-(Bildquelle: [Details](/licenses#uebung074))
+Minh họa: ⟪हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung074))
 :::

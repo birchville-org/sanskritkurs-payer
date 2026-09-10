@@ -1,390 +1,390 @@
 ---
-title: Lektion 28
+title: "[Bài 28]"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
+
 ---
 
-# Lektion 28
+# Bài 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-
-::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
-
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
-:::
-
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Dạng sai khiến (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema 1:**
+**Nếu muốn diễn đạt rằng một người hoặc một sự vật gây ra hoặc khiến cho một người khác hoặc một sự vật khác thực hiện hoặc chịu đựng điều gì đó được biểu đạt bởi một gốc động từ (có hoặc không có tiền tố), thì sử dụng dạng sai khiến (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
-
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
+Ví dụ:
+⟪गम्⟫ "đi" » Sai khiến: ⟪गमयति⟫ "người ấy gây ra việc ai đó đi; người ấy sai bảo"
+⟪दृश्⟫ "nhìn thấy" » Sai khiến: ⟪दर्शयति⟫ "người ấy làm cho nhìn thấy = người ấy chỉ ra"
 :::
-Beispiele:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
+## 28.2. Cấu trúc câu với dạng sai khiến (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel"
+::: grammar-box
+**Mẫu 1:**
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda"
+**Nếu gốc động từ làm nền tảng cho dạng sai khiến (có hoặc không có tiền tố) là NỘI ĐỘNG TỪ (tức là không thể đi kèm với tân ngữ cách accusative) hoặc biểu thị chuyển động, kiến thức, thông tin hoặc ăn uống:**
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda"
+**Chủ thể (⟪कर्ता⟫) của dạng sai khiến ở cách Nominative (⟪प्रथमा⟫) — Chủ thể của hành động được gây ra ở cách Accusative (⟪द्वितीया⟫) — (Mục tiêu của chuyển động, đối tượng của kiến thức v.v. ở cách Accusative = ⟪द्वितीया⟫) — Động từ ở dạng sai khiến**
+:::
+Ví dụ:
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise"
+⟪दुर्जनो रामं मोहयति⟫ = "một người xấu gây ra việc Rāma bị bối rối = làm cho Rāma bối rối = gây ra việc Rāma đi sai hướng"
+Kết quả: ⟪रामो मुह्यति⟫ = "Rāma bị bối rối / mù quáng / đi sai hướng."
+
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = "Rāma khiến kẻ thù lên trời = sai bảo kẻ thù đến thiên giới"
+Kết quả: ⟪शत्रवः स्वर्गं गच्छन्ति⟫ = "kẻ thù đi đến thiên giới / đến được thiên giới"
+
+⟪गुरू रामं वेदार्थं वेदयति⟫ = "Thầy giáo khiến Rāma biết ý nghĩa của Veda = giải thích / giảng dạy cho Rāma ý nghĩa của Veda"
+Kết quả: ⟪रामो वेदार्थं वेत्ति⟫ = "Rāma biết / hiểu ý nghĩa của Veda"
+
+⟪स रामं वेदमध्यापयति⟫ = "ông dạy Rāma Veda"
+Kết quả: ⟪रामो वेदमधीते⟫ "Rāma học Veda"
+
+⟪रामो देवानामृतमाशयति⟫ = "Rāma khiến các vị thần ăn thức ăn bất tử = cho các vị thần ăn thức ăn bất tử" (⟪अश्⟩ 9 "ăn")
+Kết quả: ⟪देवा अमृतमश्नन्ति⟫ "Các vị thần ăn thức ăn bất tử"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801))
+Hình: ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
+Đền ISKCON Bangalore.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:**
+**Ngoài ra, theo Sơ đồ 1 cũng được cấu tạo từ gốc ⟪दृश्⟫:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**Các ngoại lệ đối với Sơ đồ 1 xem dưới đây là Sơ đồ 2**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
+Ví dụ:
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "ông chỉ cho Rāma người con trai"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+Vers sau đây tóm tắt các ví dụ về việc hình thành nguyên nhân theo Sơ đồ 1 (các dạng động từ đều là ngôi thứ ba, thì quá khứ giả định, phương thức Parasmaipada):
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte.
+Nơi nương tựa và mục tiêu của tôi là Hari,
+Người đã gửi kẻ thù lên thiên đường,
+Người dạy những người thân ý nghĩa của Veda,
+Người đã cho các vị thần ăn thức ăn bất tử,
+Người dạy người sáng tạo ra Veda,
+Người đặt trái đất vào trong nước.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802))
+Hình: ⟪स मे श्रीहरिगतिः⟫
+Tòa nhà quản lý Đại học Jadavpur.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2802))
 :::
 
 ::: grammar-box
-**Schema 2:**
+**Sơ đồ 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):**
+**Đối với các động từ có tính chất truyền tải (ngoại trừ những cái được nêu dưới Sơ đồ 1). Cũng áp dụng cho tất cả các động từ, khi điều được chỉ định bởi nguyên nhân được gây ra (khi đó nguyên nhân là một nguyên nhân của nguyên nhân):**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Chủ ngữ (⟪कर्ता⟫) của động từ sai khiến ở cách Nominative (⟪प्रथमा⟫) — Chủ ngữ của hành động được sai khiến ở cách Instrumentalis (⟪तृतीया⟫) — Tân ngữ của hành động được sai khiến ở cách thức mà nó sẽ có sau động từ cơ bản (tức là thường ở cách Akkusativ) — Động từ ở dạng sai khiến**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau"
+Ví dụ:
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = "Ông ấy sai bảo Rāma rời bỏ vợ mình"
+Kết quả: ⟪रामो भार्यां त्यजति⟫ = "Rāma rời bỏ vợ mình"
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht"
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = "Viṣṇumitra sai bảo Rāma, người mà lại sai bảo Govinda đi = Viṣṇumitra khiến Rāma đuổi Govinda đi"
+Kết quả: ⟪रामो गोविन्दं गमयति⟫ = "Rāma đuổi Govinda đi"
+Kết quả của kết quả này: ⟪गोविन्दो गच्छति⟫ = "Govinda đi"
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**Ngoại lệ đối với Sơ đồ 1:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:**
+**Cũng theo Sơ đồ 2 để cấu tạo các động từ sau đây:**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**Sai khiến cho:**
+**⟪नी⟫ "dẫn dắt"**
+**⟪वह्⟫ "đi lại" (chỉ khi chủ ngữ của hành động được sai khiến không phải là người lái)**
+**⟪स्मृ⟫ "nhớ lại" (có ngoại lệ cho trường hợp này)**
+**⟪अद्⟫ "ăn"**
+**⟪खाद्⟫ "nhai"**
 :::
-Beispiele:
+Ví dụ:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = "Rāma khiến người đầy tớ dẫn dắt hoặc chở gánh nặng"
+Kết quả: ⟪भृत्यो भारं नयति वहति वा⟫ = "Người đầy tớ dẫn dắt hoặc chở gánh nặng"
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise"
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = "Rāma khiến cậu bé ăn hoặc nhai thức ăn"
+Kết quả: ⟪बालो ऽन्नमत्ति खादति वा⟫ = "cậu bé ăn hoặc nhai thức ăn"
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = "Ông ấy gây ra việc Rāma nhớ lại"
+Kết quả: ⟪रामः स्मरति⟫ = "Rāma nhớ lại"
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:**
+**Các động từ sai khiến sau đây có thể được cấu trúc theo cả Mô hình 1 và Mô hình 2:**
 
-- **⟪हृ⟫ "halten, holen"**
-- **⟪कृ⟫ "tun, machen"**
-- **Ātmanepadakausativ zu ⟪दृश्⟫**
+**⟪हृ⟫ "giữ, lấy"**
+**⟪कृ⟫ "làm, thực hiện"**
+**Sai khiến Atmanepadaka đối với ⟪दृश्⟫**
 :::
-Beispiele:
+Ví dụ:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte"
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = "Rāma khiến người đầy tớ làm hoặc lấy một tấm thảm (⟪कट⟩ giống đực)"
+hoặc:
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+Kết quả: ⟪भृत्यः कटं करोति हरति वा⟫ = "Người đầy tớ làm hoặc lấy một tấm thảm"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis"
+⟪रामो बालं प्रतिमां दर्शयते⟫ = "Rāma khiến cậu bé nhìn thấy bức tranh = cho cậu bé xem bức tranh (vì lợi ích riêng)"
+hoặc:
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+Kết quả: ⟪बालः प्रतिमां पश्यति⟫ = "cậu bé nhìn thấy bức tranh"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
+Khi động từ sai khiến được sử dụng trong cấu trúc bị động, thì hầu như luôn áp dụng sơ đồ sau:
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):**
+**Mô hình A (Cấu trúc bị động):**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Chủ thể của động từ sai khiến ở cách Instrumental (⟪तृतीया⟫) — Chủ thể của hành động được sai khiến ở cách Nominative (⟪प्रथमा⟫) — Tân ngữ của hành động được sai khiến ở cách mà nó sẽ có đối với động từ cơ bản (tức là thường ở cách Accusative) — Động từ ở dạng sai khiến**
 :::
-Beispiele:
+Ví dụ:
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = "Người chủ sai Rāma đến làng"
+Kết quả: ⟪रामो ग्रामं गच्छति⟫ = "Rāma đi đến làng"
 
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte"
+⟪रामेण भृत्यः कटं कार्यते⟫ = "Rāma khiến người đầy tớ làm một tấm thảm"
+Kết quả: ⟪भृत्यः कटं करोति⟫ = "Người đầy tớ làm một tấm thảm"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last"
+⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma khiến người đầy tớ lấy gánh nặng"
+Kết quả: ⟪भृत्यो भारं हरति⟫ = "Người đầy tớ lấy gánh nặng"
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+
+## 28.3. Hình thành gốc hiện tại của nguyên nhân (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
+**Các kết thúc chủ đề của gốc hiện tại được thêm vào gốc nguyên nhân**
 :::
-Es gibt verschiedene Bildungstypen:
+Có các loại hình thành khác nhau:
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+**Loại hình thành 1: (thường) gốc ở mức độ cao + -aya-**
 :::
-Beispiele:
+Ví dụ:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Gốc | Nguyên nhân 3. sg. Chỉ định Hiện tại | Ý nghĩa |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | khiến/đưa vào, dẫn vào |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | khiến khao khát, làm cho tham muốn, quyến rũ |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | khiến nhìn thấy = chỉ ra |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | khiến quay, chuyển (ngoại động), lăn (ngoại động), đưa vào cuộc chạy đua |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-**
+**Loại hình thành 2: gốc ở mức độ kéo dài + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
+**Thường gặp ở các gốc kết thúc bằng nguyên âm và ở các gốc mà sau -a- là một phụ âm cuối đơn.**
 :::
-Beispiele:
+Ví dụ:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Gốc | Nguyên nhân 3. sg. Chỉ định Hiện tại | Ý nghĩa |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | gây ra, khiến ai đó hoặc cái gì trở thành, sinh ra |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | gây ra, khiến ai đó đi |
+| ⟪नी⟫ | ⟪नाययति⟫:br(nai-aya-ti) | cho phép dẫn dắt |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | cho phép làm |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | cho phép nói, làm ai đó nói, (cho một văn bản được đọc =) đọc to |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**Loại hình thành 3: gốc ở mức độ thấp + -aya-**
 
-**Kommt vor.**
+**Xảy ra.**
 :::
-Beispiel:
+Ví dụ:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Gốc | Nguyên nhân 3. sg. Chỉ định Hiện tại | Ý nghĩa |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (làm cho ai đó) hư hỏng
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-**
+**Kiểu hình thành 4: Gốc động từ + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
+**Đối với các gốc kết thúc bằng -ā và một số gốc khác.**
 :::
-Beispiele:
+Ví dụ:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Gốc động từ | Kausativ ngôi thứ 3 số ít Chỉ định Hiện tại | Ý nghĩa |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | làm đứng, dựng lên |
+| ⟪इ⟫ + ⟪अधि⟫:br"nghiên cứu" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(xem giải thích Thumb-Hauschildt Tập I, tr. 341) | cho nghiên cứu, giảng dạy |
 
 ::: grammar-box
-**Unregelmässige Bildungen:**
+**Các hình thành bất quy tắc:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:**
+**Các nhà ngữ pháp bản địa xem xét các hình thức sau đây là Kausativ:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
+**han** : Kaus. **ghātayati**¹ "cho đánh, giết"
+**pā** 2 "chăm sóc": **pālayati**² "đưa qua, cứu, bảo vệ"
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+Chú thích:
+1. **ghātayati** thực chất là một động từ được phái sinh từ danh từ **ghāta** m. "cú đánh" (denominativum) và được sử dụng thay thế cho Kausativ của **han**.
+2. **pālayati** là một Kausativ thực sự, tuy nhiên liên quan đến gốc **pṛ** 3 "đưa qua, cứu, bảo vệ": **pārayati** (pār-aya-ti) » **pālayati** (ở một số vùng của Ấn Độ, âm r tương ứng với l, và ngược lại ở những nơi khác, l tương ứng với r).
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ
+
+## 28.4. Hình thành Bị động (⟪यक्⟫) của Kausativ
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:**
+**Bị động của Kausativ được hình thành như sau:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-**
+**Gốc Kausativ BỎ QUA -aya- + Hậu tố Bị động -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+Ví dụ:
+**bhāvyate** (bhāv-ya-te) "nó được tạo ra"
+**sthāpyate** (sthāp-ya-te) "nó được dựng lên"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+Trong khi Bị động của gốc ban đầu thường được hình thành từ dạng gốc ở mức thấp (guṇa), Bị động của Kausativ thường có thể nhận biết được vì nó được hình thành từ dạng gốc ở mức cao hoặc kéo dài (vṛddhi).
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+
+## 28.5. Hình thành thì tương lai (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) của nguyên nhân cách
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
+**Thì tương lai của nguyên nhân cách được hình thành từ gốc nguyên nhân, trong đó âm -a- cuối cùng của hậu tố nguyên nhân bị lược bỏ:**
 
 **-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+Ví dụ:
+**budh** Tương lai-nguyên nhân: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "người/số ít/nó sẽ đánh thức"
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. Hình thành PPP (⟪क्त⟫) của nguyên nhân cách
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
+**Gốc nguyên nhân kết thúc bằng -ay- (không có âm a cuối) + -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+Ví dụ:
+**gam** — **gamayati** — **gamita** (gam-i-ta) "đã được gửi" (PPP của gốc đơn giản: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "đã được đặt lên"
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. Hình thành trạng thái tuyệt đối (⟪क्त्वा⟫ . ⟪ल्यप्⟫) của nguyên nhân cách
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Trạng thái tuyệt đối kết thúc bằng -tvā được hình thành từ gốc nguyên nhân kết thúc bằng -ay- (không có âm a cuối):**
 
-**Kausativstamm auf -ay- + -i- + -tvā**
+**Gốc nguyên nhân kết thúc bằng -ay- + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+Ví dụ:
+**sthāpayitvā** (sthā-pay-i-tvā) "sau khi đã đặt lên"
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
+**Trạng thái tuyệt đối kết thúc bằng -ya thường xuất hiện ở các động từ nguyên nhân có tiền tố gắn vào gốc nguyên nhân KHÔNG CÓ -aya-**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+Ví dụ:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "sau khi đã đánh thức"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "sau khi đã cho dẫn đến, sau khi đã cho mang lại"
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**Tuy nhiên, nếu âm tiết gốc của nguyên nhân chứa một âm -a- ngắn trước một phụ âm đơn lẻ, thì âm -ya của trạng thái tuyệt đối sẽ gắn vào gốc nguyên nhân kết thúc bằng -ay- (không có âm a cuối)**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+Ví dụ:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "sau khi đã cho đến"
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. Hình thành động từ nguyên mẫu (⟪तुमुन्⟫) cho dạng sai khiến
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Động từ nguyên mẫu của dạng sai khiến được hình thành từ gốc sai khiến với hậu tố -ay- (không có a tận cùng):**
 
-**Kausativstamm auf -ay- + -i- + -tum**
+**Gốc sai khiến với hậu tố -ay- + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+Ví dụ:
+**jan** — **janayati** — **janayitum** (janay-i-tum) "để sinh ra"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. Lớp hiện tại thứ mười (⟪चुरादि⟫ = ⟪चुर्⟫ v.v.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
+**Cũng giống như các động từ sai khiến, một số gốc của lớp hiện tại thứ mười hình thành thì hiện tại (và các thời khác) mà không phải là động từ sai khiến.**
 
-Beispiele:
-1.  Dehnstufige Wurzel + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben"
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+Ví dụ:
+1. Gốc ở bậc dài + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "yêu thích"
+2. Gốc ở bậc cao + -aya- : **cur** 10U **corayati** "đánh cắp"; Tương lai: **corayiṣyate**; Bị động: **coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
+**Các hình thức của động từ sai khiến đối với các động từ thuộc lớp hiện tại thứ mười giống hệt với các hình thức của động từ đơn giản. Việc quyết định xem đó có phải là dạng sai khiến hay không chỉ có thể dựa trên ý nghĩa hoặc đôi khi dựa trên cấu trúc câu.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Từ vựng
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: biết, quen thuộc
+Tương lai **vediṣyati**
+Bị động **vidyate**
+Sai khiến **vedayati**
 PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+Động từ nguyên mẫu **vediṣyum**
+Từ đó: **vidyā** giống cái, **veda** giống đực
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): tìm thấy
+Tương lai **vediṣyati** / **vetsyat**
+Bị động **vidyate**: có tồn tại, hiện hữu
+Sai khiến **vedayati**
 PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum**
+Động từ nguyên mẫu **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: nghiên cứu, học thuộc lòng
+Sai khiến **adhyāpayati**: cho nghiên cứu, giảng dạy
+Từ đó: **adhyayana** giống trung: sự nghiên cứu (đặc biệt là Veda); **adhyāya** giống đực: bài học, chương (phần để học thuộc lòng)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
+⟪कम्⟫ 10Ā ⟪कामयते⟫: yêu mến
+Tương lai. **kāmayiṣyate** / **kamiṣyate**
+Bị động. **kāmyate**
+Nguyên nhân hóa. **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum**
+Động từ nguyên mẫu. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Hình.: ⟪कृष्णो राधां कामयति⟫
+Tranh của ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
+⟪चुर्⟫ 10 ⟪चोरयति⟫: ăn cắp
+Tương lai. **corayiṣyati**
+Bị động. **coryate**
+Nguyên nhân hóa. **corayati**
 PPP **corita**
-Inf. **coritum**
+Động từ nguyên mẫu. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Đặc biệt lưu ý nghĩa của các động từ nguyên nhân hóa đối với các động từ sau:**
+**dṛś** — **darśayati**: chỉ ra
+**man** — **mānayati**: tôn kính, vinh danh (nhưng có lẽ là một động từ phái sinh từ **māna** "vinh dự")
+**vac** — **vācayati**: cũng có nghĩa: đọc to (khiến ai đó nói một văn bản)
+**vad** — **vādayati**: cũng có nghĩa: khiến một nhạc cụ "nói" = chơi một nhạc cụ
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Hình.: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: gánh nặng
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Hình.: ⟪बाला भारं हरति⟫
+Cô gái đang mang gánh nặng. Tại Ahmedabad.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
+⟪भृत्य⟫ m.: người phục tùng, đầy tớ
 
-## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+## 28.11. Bài tập
 
-**1. Mit hochstufiger Wurzel:**
+**A) Hãy tạo động từ nguyên nhân hóa cho các dạng động từ và phân từ sau đây, đồng thời nêu ý nghĩa của chúng:**
+
+**1. Với gốc động từ ở mức độ cao (guṇa):**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -415,7 +415,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:**
+**2. Với gốc từ có bước dài:**
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -456,30 +456,18 @@ Mädchen trägt Last. Bei Ahmedabad.
 38. ⟪हरन्ती⟫
 39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫**
+**3. Dạng sai khiến với hậu tố -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen**
+**4. Hãy chú ý và học kỹ các dạng sai khiến sau đây**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫
+2. ⟪पा⟫ 1 ("uống") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("bảo vệ") — ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:**
+**B. Hãy dịch các câu sau, phân tích các hợp danh từ (compound) sang tiếng Phạn và tạo thành các câu sử dụng động từ đơn giản để diễn tả điều gì sẽ xảy ra khi tác động được thực hiện bởi dạng sai khiến:**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
-
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
+Ví dụ: ⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫

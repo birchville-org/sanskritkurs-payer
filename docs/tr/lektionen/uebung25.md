@@ -114,8 +114,8 @@ Cehennemler kötülükten doğar, kötülük yoksulluktan doğar, yoksulluk ise 
 
 ::: media
 ![](/images/uebung041.webp)
-Abb.: ⟪भवन्ति नरकाः पापात्⟫
-(Bildquelle: [Details](/licenses#uebung041))
+Şekil: ⟪भवन्ति नरकाः पापात्⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#uebung041))
 :::
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Bir hırsız, cezalandırılma veya serbest bırakılma yoluyla hırsızlık borcundan kurtulur. Ancak kral onu cezalandırılmazsa, hırsızın borcunu üstlenir.

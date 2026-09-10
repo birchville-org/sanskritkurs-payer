@@ -1,41 +1,42 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Bài 46"
+subtitle: "Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) Hoàn thành (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 46
+# Bài 46
 
-## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) Hoàn thành (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Hậu tố
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Perfektendungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :---: | :---: | :---: | :---: |
+| **Hậu tố Hoàn thành** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
+Lưu ý rằng hậu tố -- thường là không phải hình thức! -- của ngôi 2.số nhiều.P trùng với ngôi thứ nhất và thứ ba số ít.P.
 
 ::: grammar-box
-Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
+Trước -tha, ở hầu hết các gốc động từ có tận cùng bằng -ṛ không xuất hiện nguyên âm nối \-i-. Ở một số gốc động từ, trước \-tha thì \-i- là tùy chọn.
 :::
-### 46.1.2. Lautveränderung der Endung -dhve
+### 46.1.2. Biến đổi âm của hậu tố -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Hậu tố -dhve phải được thay thế bằng -ḍhve trong thì Hoàn thành, nếu ngay trước đó là một phụ âm gốc -u hoặc -ṛ. Sự thay thế này có thể diễn ra sau nguyên âm nối -i-, nếu trước đó là một bán nguyên âm hoặc phụ âm h.
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. Hoàn thành Loại I: không biến đổi gốc
 
-Verben, die diesem Typ folgen:
+Các động từ tuân theo loại này:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Phụ âm - Nguyên âm dài - Phụ âm
+*   Phụ âm - Nguyên âm - Phụ âm - Phụ âm
+*   a-Phụ âm(-Phụ âm)
 *   ā-Konsonant
 
 ::: grammar-box
@@ -65,11 +66,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | ⟪आसिषे⟫ | ⟪आसिध्वे⟫ |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Loại II của thì Hoàn thành: gốc mạnh ở dạng cao, gốc yếu ở dạng thấp
 
-Verben, die diesem Typ folgen:
+Các động từ tuân theo loại này:
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   (Phụ âm)i/u/ṛ/ḷ-Phụ âm
 
 ⟪भिद्⟫ 7U
 
@@ -79,7 +80,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 4P tùy chọn ⟪अनिट्⟫
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -87,14 +88,14 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. Loại III của thì Hoàn thành: Gốc mạnh ở dạng cao/dài
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. Loại IIIa của thì Hoàn thành: Gốc mạnh ở dạng cao/dài, gốc yếu ở dạng thấp
 
-Verben, die diesem Typ folgen:
+Các động từ tuân theo loại này:
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
-*   (Konsonant-)-ṛ
+*   (Phụ âm-)(Phụ âm-)i/ī/u/ū
+*   (Phụ âm-)-ṛ
 
 ⟪इ⟫ 2P
 
@@ -128,11 +129,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 46.1.5.2. Loại II Perfekt: Gốc mạnh ở bậc cao/bậc kéo dài, gốc yếu ở bậc cao
 
-Verben, die diesem Typ folgen:
+Các động từ theo loại này:
 
-*   (Konsonant-)(Konsonant-)-ṝ
+*   (Phụ âm)(Phụ âm)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
@@ -151,11 +152,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Loại IV Perfekt: Các gốc kết thúc bằng -ā / -ai
 
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Gốc yếu:
+*   trước phụ âm: bậc thấp-i
+*   trước nguyên âm: bậc thấp-ø
 
 ⟪दा⟫ 3U
 
@@ -173,20 +174,20 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. Loại V Perfekt: Phụ âm-a-Phụ âm
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. Loại Va Perfekt: Phụ âm-a-Phụ âm, gốc yếu ở bậc thấp
 
-Verben, die diesem Typ folgen:
+Các động từ theo loại này:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1.  gam "đi"
+2.  han (»ghan) "giết chết"
+3.  jan "được sinh ra"
+4.  vac "nói"
+5.  vad "nói"
+6.  yaj "hy sinh"
+7.  v.v.
 :::
 ⟪गम्⟫ 1P
 
@@ -252,10 +253,10 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 46.1.7.2. Loại Vb Hoàn thành: Phụ âm-a-Phụ âm, phụ âm đầu không phải là Guttural, Aspirate, h, gốc yếu không có Reduplication, với -e-
 
 ::: grammar-box
-Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
+Người 2.sg.P. được hình thành từ gốc yếu, khi nguyên âm nối -i- xuất hiện.
 :::
 ⟪पच्⟫ 1U
 
@@ -265,11 +266,11 @@ Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. Loại Vc Hoàn thành: Phụ âm-a-Phụ âm, gốc yếu Mức cao
 
-Verben, die diesem Typ folgen:
+Động từ theo loại này:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   Tất cả các gốc khác với -a- ở giữa
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +280,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Các hình thành Perfect đặc biệt
 
-⟪विद्⟫ 2P präsentisches Perfekt
+⟪विद्⟫ 2P perfect hiện tại
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -313,91 +314,91 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Perfect vòng (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+Perfect vòng được hình thành từ:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   các gốc động từ phái sinh (Causative, Desiderative, Frequentative, Denominativa), đặc biệt là Causative
+*   các gốc bắt đầu bằng nguyên âm dài (trừ ā)
+*   các gốc: Nguyên âm (trừ a-)-Phụ âm-Phụ âm
+*   một số trường hợp khác
+*   ở một số gốc, cả hai dạng Perfect đều có thể được hình thành tùy chọn: uṣ "cháy", vid "biết", jāgṛ "thức", daridrā "nghèo"
+*   ở các gốc sau đây, cả hai dạng Perfect đều có thể được hình thành tùy chọn và cũng như vậy đối với perfect vòng, đó là lặp lại (reduplication), cụ thể là bằng âm tiết lặp lại của gốc Present:
+*   bhī "sợ hãi"
+*   bhṛ "mang, vác"
+*   hu "hy sinh"
+*   hrī "xấu hổ, thẹn thùng"
 
-⟪बन्ध्⟫ Kausativ
+⟪बन्ध्⟫ Causative
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
+| ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Từ vựng
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+⟪सम⟫ 3: bằng, đúng, tương tự
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+từ đó:
+⟪समम्⟫ Trạng từ: theo cách giống nhau, cùng lúc (⟪तृतीयया⟫), đồng đều
+⟪समता⟫ f.: Bình đẳng
+⟪विषम⟫ 3: không bằng, gồ ghề, xấu xa
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : nắm lấy, bắt giữ, tiếp nhận
 
 ::: indent
-Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
-Pass. ⟪गृह्यते⟫  
-Kaus.⟪ग्राहयति⟫  
+Hoàn thành Động từ (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
+Tương lai. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
+Bị động. ⟪गृह्यते⟫  
+Nguyên nhân.⟪ग्राहयति⟫  
 PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
-Inf. ⟪ग्रहितुम्⟫  
-Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+Động từ nguyên mẫu. ⟪ग्रहितुम्⟫  
+Tuyệt đối -⟪ग्राह्य⟫
+từ đó:
+⟪ग्रह⟫ m.: Sự nắm lấy, kẻ bắt giữ, cá sấu, hành tinh
+⟪नवग्रह⟫ m.: chín hành tinh (không phải là các hành tinh!) (xem Basham, Wonder S. 493):
+1. ⟪सूर्यः⟫ = Mặt trời
+2. ⟪चन्द्रः⟫ = Mặt trăng
+3. ⟪मङ्गलः⟫ = Sao Hỏa
+4. ⟪बुधः⟫ = Sao Thủy
+5. ⟪बृहस्पतिः⟫ = Sao Mộc
+6. ⟪शुक्रः⟫ = Sao Kim
+7. ⟪शनिः⟫ = Sao Thổ
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Xem ⟪राहु⟫ và ⟪केतु⟫:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Phép lễ nghi và Nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+Hình: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/vi/licenses#lekt4602)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/vi/licenses#lekt4603)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/vi/licenses#lekt4604)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/vi/licenses#lekt4605)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : bằng lòng, hài lòng với (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -408,39 +409,39 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ : cúi xuống, chào, nghiêng mình, cung kính cúi đầu
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+Abb.: [⟪नारायण तुभ्यं नमामि⟫](/vi/licenses#lekt4607)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ : leo lên, chinh phục
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+Abb.: [⟪अश्वरोहकः⟫](/vi/licenses#lekt4606)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : gọi, triệu tập
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -454,92 +455,91 @@ Absol. -⟪हूय⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+Abb.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/vi/licenses#lekt4608)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4608))
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "Người điều khiển voi"; ⟪चरिष्णु⟫ 3 "linh hoạt", ⟪दूरशब्द⟫ m. "cuộc gọi từ xa, điện thoại" » ⟪चरिष्णुदूरशब्द⟫ "điện thoại di động" (Hình thành từ: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
-
-⟪भ्रंश⟫ m.: das Entfallen
-
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
+::: media
+![](/images/lekt4608.webp)
+Abb.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/vi/licenses#lekt4608)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4608))
+:::
 
 ::: indent
-Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Fut. ⟪श्रमिष्यति⟫  
-Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
+1 ⟪महामात्र⟫ m. "Người điều khiển voi"; ⟪चरिष्णु⟫ 3 "linh hoạt", ⟪दूरशब्द⟫ m. "cuộc gọi từ xa, điện thoại" » ⟪चरिष्णुदूरशब्द⟫ "điện thoại di động" (Hình thành từ: A. Payer)
+
+:::
+⟪विभ्रम⟫ m.: sự đi tới lui lại
+
+⟪भ्रंश⟫ m.: sự rơi rụng
+
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : mệt nhọc, trở nên mệt mỏi
+
+::: indent
+Hoàn thành, Cầu khẩn ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
+Tương lai ⟪श्रमिष्यति⟫  
+Bị động ⟪श्रम्यते⟫  
+Nguyên nhân ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
-Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
+Động từ danh hóa ⟪श्रमितुम्⟫  
+Tuyệt đối ⟪श्रमित्वा । श्रान्त्वा⟫
+từ đó:
 ⟪आश्रम⟫ m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+Abb.: [⟪श्रान्तः⟫](/vi/licenses#lekt4609)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : dựa vào, tựa vào, tìm chỗ dựa, đến với ai đó (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
-Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
-Fut. ⟪श्रयिष्यति⟫  
-Pass. ⟪श्रीयते⟫  
-Kaus. ⟪श्राययति⟫  
+Hoàn thành IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
+Tương lai ⟪श्रयिष्यति⟫  
+Bị động ⟪श्रीयते⟫  
+Nguyên nhân ⟪श्राययति⟫  
 PPP ⟪श्रित⟫  
-Inf. ⟪श्रयितुम्⟫
+Động từ danh hóa ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : đính kèm, bám vào (⟪सप्तम्या⟫)
 
 ::: indent
-Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
-Fut. ⟪संक्ष्यति⟫  
-Pass. ⟪सज्यते⟫  
-Kaus. ⟪सञ्जयति⟫  
+Hoàn thành I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
+Tương lai ⟪संक्ष्यति⟫  
+Bị động ⟪सज्यते⟫  
+Nguyên nhân ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
-Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+Động từ danh hóa ⟪संक्तुम्⟫
+từ đó:
+⟪सङ्ग⟫ m.: sự đính kèm vào, tiếp xúc với (⟪तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
-:::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
-
-::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
-Fut. ⟪द्रोष्यति⟫  
-Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
-PPP ⟪द्रुत⟫  
-Inf. ⟪द्रोतुम्⟫  
-Absol. -⟪द्रुत्य⟫
+Abb.: [⟪सङ्गः⟫](/vi/licenses#lekt4610)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4610))
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : làm chán, đi loanh quanh
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+⟪विभ्रम⟫ m.: sự chán nản, sự nhầm lẫn, sự sai lầm
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : treo xuống từ (⟪सप्तम्या⟫), treo vào (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
@@ -553,36 +553,36 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/vi/licenses#lekt4601)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : treo vào (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ Konjunktion:  wenn
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : bao vây, chế ngự, đánh bại
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: bị đánh bại, bị hạ nhục, bị sỉ nhục
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Tiền tố: hướng xuống dưới, xuống, vào, lùi lại
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+chẳng hạn
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : ngồi xuống
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ Thán từ cách xưng hô: tiếng kêu gọi, chẳng hạn: hỡi, này, ôi, hỡi, xin chào, hi! thường không dịch được. Thán từ này có một quy tắc Sandhi đặc biệt: trước tất cả các âm hữu thanh, nó biến đổi thành :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+Abb.: [⟪भोः⟫](/vi/licenses#lekt4611)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4611))
 :::
 ## 46.3. Übung
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) Xác định và dịch các dạng sau:
 
 1.  ⟪वित्थ⟫
 2.  ⟪वेत्थ⟫
@@ -637,22 +637,19 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 51.  ⟪सुषुपुः⟫
 52.  ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) Dịch:
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(Bildquelle: [Details](/licenses#lekt4612))
+Hình: [⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/vi/licenses#lekt4612)
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4612))
 :::
 

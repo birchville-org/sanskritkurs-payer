@@ -1,10 +1,11 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: "5. lecke"
+subtitle: "A névkompozitumok (szamásza) alapjai"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 5. lecke

@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "ਪਾਠ 46"
+subtitle: "ਦੂਜੇ ਵਿਅਕਤੀ ਦੇ ਕ੍ਰਿਆ ਰੂਪਾਂ ਦੀ ਬਣਤਰ (⟪मध्यमः⟫) ਪੂਰਬਕਾਲ (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 46

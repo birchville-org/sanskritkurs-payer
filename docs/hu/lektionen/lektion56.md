@@ -1,10 +1,11 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "56. lecke"
+subtitle: "A reduplikált aoristus"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 56. lecke
@@ -295,4 +296,3 @@ A) Határozza meg és fordítsa le a következő alakokat segédeszközök nélk
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

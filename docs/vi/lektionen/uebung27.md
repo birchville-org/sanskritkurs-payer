@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 27]"
 uebung_id: 27
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,68 +7,64 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 27
+# Bài tập 27
 
-A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (⟪सप्तमी⟫) Singular und — wo es sinnvoll ist — Plural ein.
+A) Hãy đặt các cụm từ trong ngoặc vào cách Locative (⟪सप्तमी⟩) số ít và — nếu thích hợp — số nhiều trong câu sau.
 
-**⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+**⟪रामस्⟩ ... ⟪वसति ।⟩** (⟪ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः⟩)
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामे⟫ ⟪वसति⟫ ⟪।⟫
+⟪१⟩. ⟪रामो ग्रामे वसति । २⟩. ⟪रामो गुरौ वसति ।⟩ (Số nhiều: ⟪रामो गुरुषु वसति ।⟩)
 
-⟪२⟫. ⟪रामो⟫ ⟪गुरौ⟫ ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ ⟪गुरुषु⟫ ⟪वसति⟫ ⟪।⟫)
+⟪३⟩. ⟪रामः⟩ **⟪सत्यवति कवौ⟩** ⟪वसति ।⟩ (Số nhiều: ⟪रामः⟩ **⟪सत्यवत्सु कविषु⟩** ⟪वसति ।⟩)
 
-⟪३⟫. ⟪रामः⟫ **⟪सत्यवति⟫ ⟪कवौ⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामः⟫ **⟪सत्यवत्सु⟫ ⟪कविषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪४⟩. ⟪रामः⟩ **⟪पुत्रं लब्धुकामायाम् ब्राह्मण्याम्⟩** ⟪वसति ।⟩ (Số nhiều: ⟪रामः⟩ **⟪पुत्रं लब्धुकामासु ब्राह्मणीषु⟩** ⟪वसति ।⟩)
 
-⟪४⟫. ⟪रामः⟫ **⟪पुत्रं⟫ ⟪लब्धुकामायाम्⟫ ⟪ब्राह्मण्याम्⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामः⟫ **⟪पुत्रं⟫ ⟪लब्धुकामासु⟫ ⟪ब्राह्मणीषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪५⟩. ⟪रामो गृहे वसति ।⟩ (Số nhiều: ⟪रामो गृहेषु वसति ।⟩)
 
-⟪५⟫. ⟪रामो⟫ ⟪गृहे⟫ ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ ⟪गृहेषु⟫ ⟪वसति⟫ ⟪।⟫)
+⟪६⟩. ⟪रामस्⟩ **⟪तस्मिन् नगरे⟩** ⟪वसति । ७⟩. ⟪रामो⟩ **⟪मुह्यति शत्रौ⟩** ⟪वसति ।⟩ (Số nhiều: ⟪रामो⟩ **⟪मुह्यत्सु शत्रुषु⟩** ⟪वसति ।⟩)
 
-⟪६⟫. ⟪रामस्⟫ **⟪तस्मिन्⟫ ⟪नगरे⟫** ⟪वसति⟫ ⟪।⟫
+B) Hãy dịch và phân tích các từ ghép:
 
-⟪७⟫. ⟪रामो⟫ **⟪मुह्यति⟫ ⟪शत्रौ⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ **⟪मुह्यत्सु⟫ ⟪शत्रुषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪१⟩. **⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥⟩**
+Những người xấu không lắng nghe khi vị thầy giảng dạy Pháp.
 
-B) Übersetzen Sie und lösen Sie die Komposita auf:
+⟪२⟩. **⟪बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥⟩**
+(⟪बुद्धस्य काले⟩)
+Trong thời của một Đức Phật, con người có thể nghe được các chân lý cao quý.
 
-⟪१⟫. **⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫**
-Böse Leute hören nicht zu, wenn der Lehrer den Dharma verkündet.
+⟪३⟩. **⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟩**
+(⟪वसितानि शोभनानि वस्त्राणि यया ताम् । शोभनानि वस्त्राणि⟩)
+Đàn ông khao khát một người phụ nữ đã ăn mặc đẹp. Vì vậy, những người phụ nữ tốt bụng mong muốn từ đàn ông những bộ quần áo xinh đẹp.
 
-⟪२⟫. **⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫**
-(⟪बुद्धस्य⟫ ⟪काले⟫)
-Zur Zeit eines Buddha können die Menschen die edlen Wahrheiten hören.
+⟪४⟩. **⟪पुत्रे मृते ऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥⟩**
+(⟪पुत्रो नास्ति यस्याः सा⟩)
+Sau khi con trai bà qua đời, người Bà-la-môn không có con đã thề nguyện để có được một người con trai.
 
-⟪३⟫. **⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫**
-(⟪वसितानि⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫ ⟪यया⟫ ⟪ताम्⟫ ⟪।⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫)
-Männer begehren eine Frau, die sich schön gekleidet hat. Deswegen wünschen sich gute Frauen von den Männern schöne Kleider.
+⟪५⟫. **⟪उपनीतबालैर्गुरुकुल उष्यते ॥५॥⟫**
+(⟪उपनीतैर्बालैः । गुरोः कुले⟫)
+Sau khi được thụ đắc, các thiếu niên sống trong gia đình của vị thầy.
 
-⟪४⟫. **⟪पुत्रे⟫ ⟪मृते⟫ ⟪ऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫**
-(⟪पुत्रो⟫ ⟪नास्ति⟫ ⟪यस्याः⟫ ⟪सा⟫)
-Nachdem ihr Sohn gestorben ist, macht die sohnlose Brahmanin ein Gelübde, um einen Sohn zu bekommen.
+⟪६⟫. **⟪यज्ञकाले विगते ऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥⟫**
+(⟪यज्ञस्य काले । नेष्टा देवाः । विस्मृतो यज्ञो यैस्तेभ्यो ब्राह्मणेभ्यः⟫)
+Vì thời điểm cho lễ tế đã trôi qua, các vị thần không được cúng tế giận dữ những người Brahman, những người đã quên mất lễ tế.
 
-⟪५⟫. **⟪उपनीतबालैर्गुरुकुल⟫ ⟪उष्यते⟫ ⟪॥५॥⟫**
-(⟪उपनीतैर्बालैः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪कुले⟫)
-Nach der Initiation wohnen die Knaben in der Familie des Meisters.
+⟪७⟫. **⟪गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥⟫**
+Trong khi vị thầy đứng, một thiếu niên không được ngồi.
 
-⟪६⟫. **⟪यज्ञकाले⟫ ⟪विगते⟫ ⟪ऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫**
-(⟪यज्ञस्य⟫ ⟪काले⟫ ⟪।⟫ ⟪नेष्टा⟫ ⟪देवाः⟫ ⟪।⟫ ⟪विस्मृतो⟫ ⟪यज्ञो⟫ ⟪यैस्तेभ्यो⟫ ⟪ब्राह्मणेभ्यः⟫)
-Da der Zeitpunkt für das Opfer verstrichen ist, sind die Götter, denen nicht geopfert wurde, auf die Brahmanen zornig, die das Opfer vergessen hatten.
+⟪८⟫. **⟪एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥⟫**
+(⟪साधुराचार⟫o ⟪यस्य सः⟫)
+Trong khi thời gian trôi qua như vậy, người Kṣatriya có lối sống tốt đẹp không đạt được sự thịnh vượng mong muốn.
 
-⟪७⟫. **⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Während der Meister steht, darf ein Knabe nicht sitzen.
+⟪९⟫. **⟪ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रो ऽप्यागच्छति ॥९॥⟫**
+(⟪महति कवौ । ब्राह्मण्याः पुत्रः⟫)
+Trong khi người Brahman đến gặp nhà thơ vĩ đại, con trai bà cũng đến.
 
-⟪८⟫. **⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫**
-(⟪साधुराचार⟫o ⟪यस्य⟫ ⟪सः⟫)
-Während die Zeit so vergeht, erhält der Kṣatriya mit guter Lebensart nicht den gewünschten Wohlstand.
-
-⟪९⟫. **⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रो⟫ ⟪ऽप्यागच्छति⟫ ⟪॥९॥⟫**
-(⟪महति⟫ ⟪कवौ⟫ ⟪।⟫ ⟪ब्राह्मण्याः⟫ ⟪पुत्रः⟫)
-Während die Brahmanin beim grossen Dichter ankommt, kommt auch ihr Sohn.
-
-⟪१०⟫. **⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫**
-(⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
-Wenn die Lehrer lehren, dürfen wohlerzogene Kinder nicht schwätzen (sprechen).
+⟪१०⟫. **⟪गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫**
+(⟪सुष्ठ⟫u ⟪नीता बालाः⟫)
+Khi các thầy dạy học, những đứa trẻ được giáo dục tốt không được nói chuyện (nói).
 
 ::: media
 ![](/images/uebung044.webp)
-Abb.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
-(Bildquelle: [Details](/licenses#uebung044))
+Hình: ⟪गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung044))
 :::

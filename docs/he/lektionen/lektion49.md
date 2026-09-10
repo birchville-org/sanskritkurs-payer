@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "שיעור 49"
+subtitle: "בניית הדיבור הציווי (⟪लोट्⟫) של שורשי הווה חסרי תנועה (המשך)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 49

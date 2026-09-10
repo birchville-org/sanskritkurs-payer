@@ -28,9 +28,14 @@ Aşırı sert bir yönetim (daṇḍa) karşısında varlıklar ürpermelidir. Z
 > Kendi haklarına ve kendi geleneklerine göre yaptıklarıyla sevinç duyarak  
 > Kendi yollarında ilerler.
 
+> Dört varna ve dört āśrama ile dünya  
+> Kral tarafından yönetimi aracılığıyla korunur:  
+> Kendi dharma ve kendi ācāra doğrultusunda hareket ederek  
+> Kendi yollarında ilerler.
+
 ::: media
 ![](/images/uebung046.webp)
-Abb.: ⟪चतुर्वर्णाश्रमो लोको⟫
-(Bildquelle: [Details](/licenses#uebung046))
+Resim: ⟪चतुर्वर्णाश्रमो लोको⟫
+(Resim kaynağı: [Detaylar](/licenses#uebung046))
 :::
 

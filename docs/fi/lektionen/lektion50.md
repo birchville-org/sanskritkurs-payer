@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "Oppitunti 50"
+subtitle: "Nominaalinen muodostus: säännöllinen asteistus"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 50
@@ -93,7 +94,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : halveksia, loukata
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+⟪मन्त्रिन्⟫ 3: neuvoa-antava ; m.: neuvonantaja, ministeri
 
 ::: media
 ![](/images/lekt5001.jpg)
@@ -101,9 +102,9 @@ Kuva: ⟪मन्त्री⟫
 Kapil Sibal (s. 1948), tiede- ja teknologiaviraston sekä maapintatieteiden ministeriön liittovaltion ministeri (vuodesta 2006)
 (Kuv lähde: [Tiedot](/fi/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ n.: salaisuus, yksinäisyys
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : vahingoittua, epäonnistua, vahingoittaa
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -112,7 +113,7 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : rikkoa, tuhota
 
 ::: indent
 Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫

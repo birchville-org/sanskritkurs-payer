@@ -1,39 +1,40 @@
 ---
-title: Lektion 31
+title: "Lekcija 31"
 lesson_id: 31
 status: stable
+
 ---
 
 # Lekcija 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
+## 31.1. 7. klasa prezensa (⟪रुधादि⟫ = "⟪रुध्⟫ itd.")
 
 ::: grammar-box
-**Bildung:**
+**Formiranje:**
 
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:**
+**Iza izlaznih suglasnika korijena niske tonacije ubacuje se tzv. nasalni infix (-na- ili -n-):**
 
-*   **im starken Stamm: -na-**
-*   **im schwachen Stamm: -n-**
+*   **u jakom korijenu: -na-**
+*   u slabom korijenu: -n-
 
-**Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.**
+**Za spajanje izlaznih suglasnika korijena sa nastavcima koji počinju suglasnikom vrijede ista pravila kao i za 2. klasu prezensa.**
 :::
-Beispiele:
+Primjeri:
 
-⟪युज्⟫ 7U "verbinden, anschirren"
+⟪युज्⟫ 7U "povezati, upregnuti"
 
 ::: grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:(prije guturala unutar riječi zamjenjuju se nazali s -ṅ-)|
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Particip prezensa** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:(ženski rod:) ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen"
+⟪रुध्⟫ 7U "zaustaviti, dovesti u stanje mirovanja"
 
 ::: grammar-box
 
@@ -43,174 +44,164 @@ Beispiele:
 | | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **Particip prezensa** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:(ženski rod:) ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
-**Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in ausserpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.**
+**For some roots, the -n- of the weak present stem has also penetrated into non-present tenses, so that these roots are posited with an infix nasal.**
 :::
-Beispiel:
+Example:
 
-⟪भञ्ज्⟫ 7P "brechen"
+⟪भञ्ज्⟫ 7P "to break"
 
 ::: indent
-*   Indikativ Präsens
-    *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
-    *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
-*   Futur: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
-*   Passiv: ⟪भज्यते⟫ (entweder aus ursprünglicher Wurzel ⟪भज्⟫ oder aus *bhñj-ya-te)
-*   PPP: ⟪भग्न⟫ (evtl. aus *bhñj + na)
+*   Indicative Present
+*   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
+*   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+*   Future: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
+*   Passive: ⟪भज्यते⟫ (either from the original root ⟪भज्⟫ or from *bhñj-ya-te)
+*   PPP: ⟪भग्न⟫ (possibly from *bhñj + na)
 :::
-## 31.2. Wortliste
+## 31.2. Vocabulary List
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : to yoke, to hitch, to harness, to fasten ; Ā also: to strain oneself (= to exert oneself), to connect with, to concentrate on (Dative, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
-**Kaus. ⟪योजयति⟫**
+**Caus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+from which:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** yoke, pair, age of the world (there are four ages of the world:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323)
+The ⟪कलियुग⟫ began around 3102 BC, the year of the ⟪महाभारत⟫ war. For more details, see Basham, Wonder p. 323)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ m.:** "yoking, harnessing", exertion, connection, Yoga (see Basham, Wonder pp. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+Fig.: ⟪योगः⟫
+Yoga depiction.
+(Image source: [Details](/sh/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : to stop, to bring to a halt, to hold back = to enclose, to cover
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
+**Caus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : to cut off
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
-**Kaus. ⟪छेदयति⟫**
+**Caus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : to break (something)
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : to anoint, to smear
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**Fut. ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
-**Kaus. ⟪अञ्जयति⟫**
+**Caus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**Inf. ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : to smear apart = to apply makeup, to distinguish oneself
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**PPP ⟪व्यक्त⟫ :** distinguished, unfolded
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+from this:
+**⟪व्यञ्जन⟫ n.:** means of distinction = makeup, spice, sign, consonant (that which distinguishes meanings)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+Fig.: ⟪व्यञ्जनम्⟫
+Preparation for Kathakali dance, Kochi.
+(Image source: [Details](/sh/licenses#lekt3102))
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : to split
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
-**Kaus. ⟪भेदयति⟫**
+**Caus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : to enjoy (e.g. food; "to enjoy the earth" = to rule the earth)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
-**Kaus. ⟪भोजयति⟫**
+**Caus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+from this:
+**⟪भोग⟫ m.:** enjoyment, food, pleasure, benefit, tax, levy
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): to bind, to tie
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
-**Kaus. ⟪बन्धयति⟫**
+**Caus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
 **Inf. ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel
+from this:
+**⟪बन्धन⟫ n.:** binding, fetter
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : recognize, understand
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
+from that:
+**⟪प्रज्ञा⟫ f.:** wisdom, insight
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103))
+Fig.: ⟪प्रज्ञापारमिता⟫
+From a Prajñāpāramitā manuscript.
+(Image source: [Details](/sh/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : arise, exist
 
-**⟪शरीर⟫ n.:** Leib, Körper
+**⟪शरीर⟫ n.:** body, physical form
 
-## 31.3. Übung
+## 31.3. Exercise
 
-A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf:
+A) Translate the following sentences and resolve the compounds:
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
-
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
+⟪प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥ शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते ॥२॥⟫
 
 ::: media
 ![](/images/lekt3105.jpg)
-Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
+Fig.: ⟪शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते⟫
 Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Bildquelle: [Details](/licenses#lekt3105))
+(Image source: [Details](/sh/licenses#lekt3105))
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
-
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
+⟪बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥ पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥⟫
 
 ::: media
 ![](/images/lekt3104.webp)
-Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
-Rāhula, der Sohn Buddhas, Laos.
-(Bildquelle: [Details](/licenses#lekt3104))
+Fig.: ⟪राहुलो जातो बन्धनं जातम्⟫
+Rāhula, the son of Buddha, Laos.
+(Image source: [Details](/sh/licenses#lekt3104))
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+⟪समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens:
+B) Form all 3rd person singular and plural, P and Ā, of the Indicative and Optative Present for the following roots of Class 7:
 
-⟪१⟫. ⟪छिद्⟫
+⟪१⟫. ⟪छिद् २⟫. ⟪भिद् ३⟫. ⟪भुज् ४⟫. ⟪अञ्ज्⟫ (only P)
 
-⟪२⟫. ⟪भिद्⟫
-
-⟪३⟫. ⟪भुज्⟫
-
-⟪४⟫. ⟪अञ्ज्⟫ (nur P)
-
-⟪५⟫. ⟪भञ्ज्⟫ (nur P)
+⟪५⟫. ⟪भञ्ज्⟫ (only P)
 

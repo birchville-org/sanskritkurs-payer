@@ -1,10 +1,11 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "שיעור 25"
+subtitle: 'יצירת המקרה האבלטיבי (⟪पञ्चमी⟫ = \"סיומת המקום החמישי\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # שיעור 25

@@ -2,8 +2,7 @@
 title: "Les 53"
 lesson_id: 53
 
----
-# Les 53
+---# Les 53
 
 ## 53.1. Het duale (⟪द्विवचन⟫ n.) van de zelfstandige naamwoorden
 
@@ -277,55 +276,46 @@ Afbeelding: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vader"
-
-::: grammar-box
-|   | Maskulinum :br ⟪पुंस्⟫ |
-| :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
-:::
 ## 53.5. Dualdvandva
 
 Voorbeelden:
 
 ::: indent
-⟪अर्थधर्मौ⟫ "nut (⟪अर्थ⟫) en dharma"
+⟪अर्थधर्मौ⟫ "Genot (⟪अर्थ⟫) en Dharma"
 ⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira en Arjuna"
-⟪सुखदुःखे⟫ (naast: ⟪सुखदुःखम्⟫) "geluk en leed"
-⟪शीतोष्णे⟫ "koude en warmte"
+⟪सुखदुःखे⟫ (naast: ⟪सुखदुःखम्⟫) "Geluk en leed"
+⟪शीतोष्णे⟫ "Koude en warmte"
 :::
 ::: grammar-box
-**Worden twee verwantschapswoorden op -ṛ (of twee substantieven op -ṛ, die benamingen van offerpriesters zijn) tot een dvandva samengesteld, dan staat het eerste lid in de vorm van de nominatief enkelvoud:**
+**Wanneer twee verwantschapswoorden op -ṛ (of twee substantieven op -ṛ, die benamingen voor offerpriesters zijn) tot een Dvandva samengesteld worden, staat het eerste lid in de vorm van de Nominativus Singular:**
 
 :::
 ::: indent
-⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "moeder en vader"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Moeder en vader"
 :::
-**Hetzelfde gebeurt met een dergelijk verwantschapswoord in een dvandva vóór -⟪पुत्र⟫ :**
+**Ditzelfde gebeurt met zo'n verwantschapswoord in een Dvandva voor -⟪पुत्र⟫ :**
 
 ::: indent
-⟪पितापुत्रौ⟫ "vader en zoon"
+⟪पितापुत्रौ⟫ "Vader en zoon"
 :::
-**Vormen de namen van twee godheden, die gewoonlijk bij offers worden genoemd, een dvandva, dan wordt de uitgaande klinker van het eerste lid gewoonlijk verlengd:**
+**Vormen de namen van twee godheden, die gewoonlijk bij offers genoemd worden, een Dvandva, dan wordt de uitklinker van het eerste lid gewoonlijk verlengd:**
 
 ::: indent
 ⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra en Varuṇa"
 ⟪अग्नीसोमौ⟫ "Agni en Soma"
 :::
-**Ook bij andere dvandva's komt deze klinkerverlenging voor.**
+**Ook bij andere Dvandva's komt deze klinkerverlenging voor.**
 ::: media
 ![](/images/lekt5308.webp)
 Afb.: ⟪पितापुत्रौ⟫
-(Afbeeldingsbron: [Details](/nl/licenses#lekt5308))
+(Bron afbeelding: [Details](/nl/licenses#lekt5308))
 :::
 ## 53.6. De dualis van pronomina
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
 | :--- | :---: | :---: | :---: | :---: | :---:
-| **Masculinum** |   |   |   |   |  
+| **Maskulinum** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
@@ -334,11 +324,11 @@ Afb.: ⟪पितापुत्रौ⟫
 | **Neutrum** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Rest zoals Masculinum ||||||||
+|   | Overig zoals Maskulinum ||||||||
 | **Femininum** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Rest zoals Masculinum ||||||||
+|   | Overig zoals Maskulinum ||||||||
 :::
 ⟪कतर⟫ 3 "wie van de twee" en ⟪कतम⟫ 3 "wie van meerdere" worden in alle naamvallen vervoegd zoals ⟪यद्⟫.
 

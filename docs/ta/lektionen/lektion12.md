@@ -1,10 +1,11 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "பாடம் 12"
+subtitle: "முன்னிலை எதிர்மறை பங்கீட்டு (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # பாடம் 12

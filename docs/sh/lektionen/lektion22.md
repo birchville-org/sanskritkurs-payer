@@ -1,196 +1,197 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lekcija 22"
+subtitle: "Absolutive (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 22
+# Lesson 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. The Absolutive (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also
+If one wishes to express in Sanskrit that an action of the agent (⟪कर्तृ⟫) precedes another action of the same agent or accompanies it as a circumstantial circumstance, one uses the absolutive (⟪क्त्वा । ल्यप्⟫). Thus
 
-"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
+"after he has done that, he does the other"; "he does this, then he does that"; "as a consequence of this he does the other"; "I came, saw and conquered" etc.
 
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (⟪कर्तृ⟫) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (⟪प्रथमा⟫)  oder Instrumentalis (⟪तृतीया⟫).
+The absolutive is a verbal adverb, i.e., it is neither conjugable nor declinable; however, with few exceptions, it always has the same agent (⟪कर्तृ⟫) as the action whose preceding or accompanying action is designated by the absolutive. The agent of the absolutive is therefore in the nominative (⟪प्रथमा⟫) or instrumental case (⟪तृतीया⟫).
 
-Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
+Alongside compounds, the absolutive is one of the most frequent means of expression in Sanskrit.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
+When translating into German, one should avoid constantly saying "after". Instead, use the customary expressions in German for temporal sequence.
 
 **Schema:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+(further specification of the absolutive: adverbial modifier, object etc.) - Absolutive - Absolutive - ... - Absolutive - ... Agent + verbal clause (in active or passive voice)
 
 :::
-**Beispiele:**
+**Examples:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passivkonstruktion: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = Passive construction: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**  
+"The man enters the house, sees the little girl and addresses her."
 
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Plural: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-## 22.2. Bildung des Absolutivums
+## 22.2. Formation of the Absolutive
 
 ::: grammar-box
-**Bildung des Absolutivums**
+**Formation of the Absolutive**
 
-*   Verben ohne Präverb: Absolutiv auf **-tvā**
-*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
+*   Verbs without prefix: Absolutive in **-tvā**
+*   Verbs with prefix: Absolutive in **-ya** or **-tya**
 :::
-### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-
-::: grammar-box
-
-**Bildung:**
-
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
-
-Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "ohne getan zu haben"
-
-:::
-**Beispiele:**
-
-::: indent
-⟪आप्त्वा⟫ "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
-
-⟪आसित्वा⟫ "nachdem er (...) gesessen war / ist"
-
-⟪इत्वा⟫ "nachdem er (...) gegangen war / ist"
-
-⟪स्थित्वा⟫ "nachdem er (...) gestanden war / ist"
-
-⟪जित्वा⟫ "nachdem er (...) gesiegt hat / hatte"
-
-⟪उक्त्वा⟫ "nachdem er (...) gesprochen hat / hatte"
-:::
-### 22.2.2. Verben mit Präverb
-
-#### 22.2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
+### 22.2.1. Verbs without prefix: Absolutive in -⟪त्वा⟫
 
 ::: grammar-box
 
-**(meist) tiefstufige Wurzel + -ya**
+**Formation:**
+
+(usually) root in the guṇa grade, as it appears before the PPP, + **-tvā** (**-⟪त्वा⟫**)
+
+Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "without having done"
 
 :::
-**Beispiele:**
+**Examples:**
 
 ::: indent
-⟪उपनीय⟫ "nachdem er (...) herangeführt hat / hatte"
+⟪आप्त्वा⟫ "after he / she / it / I / you / we / they / we two / you two / they two has / had reached"
 
-⟪प्रभूय⟫ "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
+⟪आसित्वा⟫ "after he (...) has / had sat"
 
-⟪प्राप्य⟫ "nachdem er (...) erlangt hat / hatte"
+⟪इत्वा⟫ "after he (...) has / had gone"
+
+⟪स्थित्वा⟫ "after he (...) has / had stood"
+
+⟪जित्वा⟫ "after he (...) has / had won"
+
+⟪उक्त्वा⟫ "after he (...) has / had spoken"
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+### 22.2.2. Verbs with prefix
+
+#### 22.2.2.1. Roots ending in a long vowel (except -ā) or consonant
 
 ::: grammar-box
 
-**unverändert hochstufige Wurzel + -ya**
+**(usually) root in the guṇa grade + -ya**
 
 :::
-**Beispiel:**
+**Examples:**
 
 ::: indent
-⟪उपस्थाय⟫ "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: ⟪स्थित्वा⟫)
+⟪उपनीय⟫ "after he (...) has / had led up"
+
+⟪प्रभूय⟫ "after he (...) has / had protruded" "after he (...) has / had power"
+
+⟪प्राप्य⟫ "after he (...) has / had obtained"
 :::
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
+#### 22.2.2.2. Roots ending in -ā
 
 ::: grammar-box
 
-**tiefstufige Wurzel + -tya**
+**unmodified root in the strong grade + -ya**
 
 :::
-**Beispiele:**
+**Example:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "nachdem er (...) laut gepriesen hat / hatte"
-
-⟪विस्मृत्य⟫ "nachdem er (...) vergessen hat / hatte"
-
-⟪संस्कृत्य⟫ "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+⟪उपस्थाय⟫ "after he (...) has / had stepped up" ; (but without prefix: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.3. Roots that end in short -i, -u, -ṛ in the weak grade
 
 ::: grammar-box
 
-**Optionell:**
-
-Wurzel auf **-am** / **-an** + **-ya**
-
-oder:
-
-Wurzel auf **-a** + **-tya**
+**low-grade root + -tya**
 
 :::
-**Beispiel:**
+**Examples:**
 
 ::: indent
-⟪विगम्य⟫ oder ⟪विगत्य⟫ "nachdem er (...) vergangen ist / war"
+⟪प्रस्तुत्य⟫ "after he has / had praised (...) loudly"
+
+⟪विस्मृत्य⟫ "after he has / had forgotten (...)"
+
+⟪संस्कृत्य⟫ "after he has / had prepared (...) for the sacrifice"
 :::
-## 22.3. Wortliste
+#### 22.2.2.4. Roots ending in -am / -an, which end in -a in the low grade
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+::: grammar-box
+
+**Optional:**
+
+Root ending in **-am** / **-an** + **-ya**
+
+or:
+
+Root ending in **-a** + **-tya**
+
+:::
+**Example:**
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪विगम्य⟫ or ⟪विगत्य⟫ "after he has / had passed away"
+:::
+## 22.3. Word list
+
+**⟪काम⟩ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
+
+::: indent
+⟪कामम्⟫ Acc. adverbially: according to wish, as one pleases
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Fig.: ⟪कामदेवः⟫
+19th century
+(Image source: [Details](/sh/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** to be able, can
 
-davon:
+from this:
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
+**⟪शक्ति⟫ f.:** ability, power, capability; also: divine power, personified as a female companion especially of ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
+**⟪शक्र⟫ m.:** the powerful (epithet of ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+Fig.: ⟪दुर्गाशक्तिः⟫
+Kolkata = কলকাতা
+(Image source: [Details](/sh/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** to deserve (to be worthy of something), may, ought to, should (in the 2nd person ⟪अर्ह्⟫ + infinitive is often used as a mild command: "You should")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** Part. Pres. P: a worthy one. In Buddhism and Jainism: someone who has attained final liberation
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one promises something to the deity in order to receive something from them. Example: a mother promises to dedicate her daughter as a temple prostitute (⟪देवदासी⟫) if her daughter recovers. Important ⟪व्रत⟫ today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing specific rituals; feeding Brahmins and the like. Briefly on ⟪व्रत⟫: Walker, Hindu World Vol. II, p. 581f. Detailed: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There pp. 253 - 462 List of ⟪व्रत⟫ and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** to graze, to wander about, to stir, to move, to act, to practice something, to perform (e.g. **⟪व्रतं चर्⟫**: practice a vow, esp. sexual abstinence)
 
-davon:
+from this:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** mobile; n.: the movable = animals (in contrast to plants)
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ n., m.:** foot
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ n.:** way of life, deeds
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ n.:** performance of the Veda (⟪ब्रह्मन्⟫) = study of the Veda in the first stage of life (that of the ⟪ब्रह्मचारिन्⟫), which requires strict sexual abstinence; therefore also: sexual abstinence, celibate way of life
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+(Image source: [Details](/sh/licenses#lekt2201))
 :::
-## 22.4. Übung
+## 22.4. Exercise
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
+**A) Form and translate the absolutive for the following verbs:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -200,7 +201,7 @@ Goa = ⟪गोंय⟫
 6.  ⟪संस्कृ⟫
 7.  ⟪कृ⟫
 8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 Formen)
+9.  ⟪उपगम्⟫ (2 forms)
 10.  ⟪जि⟫
 11.  ⟪विजि⟫
 12.  ⟪तन्⟫
@@ -209,7 +210,7 @@ Goa = ⟪गोंय⟫
 15.  ⟪नी⟫
 16.  ⟪पच्⟫
 17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
+18.  ⟪पा १⟫
 19.  ⟪प्रच्छ्⟫
 20.  ⟪बुध्⟫
 21.  ⟪सम्बुध्⟫
@@ -229,33 +230,15 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
+**B) Translate and resolve the compounds into Sanskrit:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen**
+**C) Form passive constructions from the above sentences (except for sentences 8 and 10)**
 
 ::: media
 ![](/images/lekt2204.webp)
-Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Bildquelle: [Details](/licenses#lekt2204))
+Fig.: ⟪अन्नं पक्त्वा⟫
+(Image source: [Details](/sh/licenses#lekt2204))
 :::
 

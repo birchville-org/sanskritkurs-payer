@@ -37,9 +37,9 @@
 Sanscritum colloquiale
 
 *   1\. Quaestiones simpliciter supplentes (quaestiones verborum) et responsa
-*   1.1. Pronomina interrogativa (praśnārthakasarvanāma n.) et pronomina demonstrativa (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
+*   1.1. Pronominalia interrogativa (praśnārthakasarvanāma n.) et Pronominalia demonstrativa (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
 *   1.1.1.Pronomen interrogativum (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
-*   1.1.2. Pronomina demonstrativa (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+*   1.1.2. Pronominalia demonstrativa (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 *   1.2. Sandhi vocis finalis -m
 *   1.3. Sandhi vocis finalis -e
 *   1.4. Sandhi vocis finalis -d
@@ -281,8 +281,8 @@ Sententia hebdomadis
 *   1\. Dativus (⟪चतुर्थी⟫ = "quarta desinentia casus")
 *   2\. Formatio dativi (⟪चतुर्थी⟫)
 *   2.1. Stems consonantica
-*   2.2. Pronomina interrogativa
-*   2.3. Pronomina demonstrativa
+*   2.2. Pronominalia interrogativa
+*   2.3. Pronominalia demonstrativa
 *   2.4. Stems vocalica
 *   3\. Sandhi finalium -ai et -au
 *   4\. Lexicon verborum
@@ -335,7 +335,7 @@ Sententia hebdomadis
 *   7.9. Participium praesentis Parasmaipada in -ant: ⟪सन्त्⟫
 *   7.10. ⟪महान्त्⟫
 *   7.11. Masculina et Neutra in -vant / -mant: ⟪गुणवन्त्⟫
-*   7.12. Pronomina demonstrativa: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+*   7.12. Pronominalia demonstrativa: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
 *   7.13. Pronomen relativum: ⟪यद्⟫
 *   7.14. Pronomen interrogativum: ⟪किम्⟫
 
@@ -462,7 +462,7 @@ Sententia hebdomadis
 *   5.2. ⟪बहुव्रीहि⟫ adverbialiter usitata
 *   5.3. Composita ⟪अव्ययीभाव⟫
 *   6\. De syntaxi
-*   7\. Pronomina indefinita
+*   7\. Pronominalia indefinita
 *   8\. Sententia interrogativa
 *   8.1. Quaestiones verborum (quaestiones complementi)
 *   8.2. Quaestiones sententiae
@@ -527,59 +527,58 @@ Sententia hebdomadis
 *   2.6. Formationes perfecti singulares
 *   3\. Formatio formarum verbalium primae personae perfecti periphrastici (⟪अनुप्रयोगलिट्⟫)
 *   4\. De syntaxi primae personae (⟪तृतीयः⟫)
-*   5\. Pronomina personalia (⟪पुरुषार्थकसर्वनाम⟫) primae personae singularis et pluralis
+*   5\. Pronominalia personalia (⟪पुरुषार्थकसर्वनाम⟫) primae personae singularis et pluralis
 *   6\. Lexicon
 *   7\. Exercitatio
 *   8\. Exercitium repetitionis de morphologia
 
 ## [Lectio 41](lektion41)
 
-*   1\. ⟪सुभाषिते⟫ (duo proverbia)
-*   2\. Ulteriores formationes ⟪कृत्⟫ in -a
-*   2.1. Participium praesentis (⟪लडादेशः⟫) Ā, Participium praesentis (⟪लडादेशः⟫) passivum, Participium futuri (⟪ऌडादेशः⟫) Ā
-*   2.1.1. Tematici praesentis radices, passivum et futurum
+*   1\. ⟪सुभाषिते⟫ (duo proverbii)
+*   2\. Ceterae ⟪कृत्⟫ formationes in -a
+*   2.1. Participium praesentis (⟪लडादेशः⟫) Ā, Participium praesentis (⟪लडादेशः⟫) passivi, Participium futuri (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Tematicae praesentis radices, passivum et futurum
 *   2.1.2. Athematicae praesentis classes
 *   2.2. "Participium" necessitatis passivae (Gerundivum) (⟪कृत्य⟫)
 *   2.2.1. Suffixum -⟪तव्य⟫ / -⟪तव्या⟫
 *   2.2.2. Suffixum -⟪अनीय⟫ / -⟪अनीया⟫
 *   2.2.3. Suffixum -⟪य⟫ / -⟪या⟫
 *   2.2.4. Suffixum -⟪त्य⟫ / ⟪त्या⟫ (pro -⟪य⟫ / -⟪या⟫)
-*   2.3. De syntaxi "Participii" necessitatis passivae (Gerundivi) (⟪कृत्य⟫)
-*   2.4. Differentiae in usu suffixorum gerundivorum
+*   2.3. Syntactica de "Participio" necessitatis passivae (Gerundivo) (⟪कृत्य⟫)
+*   2.4. Differentiae in usu Gerundivi suffixorum
 *   2.5. Nulla coniunctio cum ⟪सु⟫- et ⟪दुस्⟫-
-*   3\. Lexicon
+*   3\. Lexicon verborum
 *   4\. Exercitatio
-
 
 ## [Lectio 42](lektion42)
 
-*   1\. Tribus in -ṛ
-*   1.1. Tribus cum gradu longo in radicis forti
-*   1.2. Nominalium formatio: ⟪कृत्⟫-suffixum -⟪तृ⟫
-*   1.3. Tribus cum gradu alto in radicis forti
-*   1.4. Tribus in -ṛ in compositionibus
-*   2\. Lexicon
-*   2.1. Quaedam cognationis vocabula
-*   3\. Exercitium
-*   4\. Exercitium translationis
+*   1\. Radices in -ṛ
+*   1.1. Radices cum gradu longo in radice forti
+*   1.2. Nominalis formatio: ⟪कृत्⟫-suffixum -⟪तृ⟫
+*   1.3. Radices cum gradu acuto in radice forti
+*   1.4. Radices in -ṛ in compositionibus
+*   2\. Lexicon verborum
+*   2.1. Quaedam nomina cognationis
+*   3\. Exercitatio
+*   4\. Exercitatio translationis
 
 ## [Lectio 43](lektion43)
 
-*   1\. Personalia desinentia secundae personae (⟪मध्यमः⟫ = "media \<Persona\>")
-*   2\. Formatio formarum verbalium secundae personae (⟪मध्यमः⟫)
-*   2.1. Tribus thematicae
-*   2.1.1. Prima classis praesentis (⟪भ्वादि⟫)
-*   2.1.2. Sexta classis praesentis (⟪तुदादि⟫)
-*   2.1.3. Quarta classis praesentis (⟪दिवादि⟫)
-*   2.1.4. Decima classis praesentis (⟪चुरादि⟫) et causativa
+*   1\. Desinentiae personales personae secundae (⟪मध्यमः⟩ = "media <Persona>")
+*   2\. Formatio formarum verbalium personae secundae (⟪मध्यमः⟩)
+*   2.1. Radices tematicae
+*   2.1.1. Prima praesentis classis (⟪भ्वादि⟩)
+*   2.1.2. Sexta praesentis classis (⟪तुदादि⟩)
+*   2.1.3. Quarta praesentis classis (⟪दिवादि⟩)
+*   2.1.4. Decima praesentis classis (⟪चुरादि⟩) et causativa
 *   2.1.5. Passivum
-*   2.1.6. Futurum (⟪ऌट्⟫)
-*   2.1.6.1. ⟪अनिट्⟫-formae
-*   2.1.6.2. ⟪सेट्⟫-formae
-*   3\. Pronomen personale secundae personae
-*   4\. Lexicon
-*   5\. Exercitium
-*   6\. ⟪संवादः⟫ = Colloquium
+*   2.1.6. Futurum (⟪ऌट्⟩)
+*   2.1.6.1. ⟪अनिट्⟩-formationes
+*   2.1.6.2. ⟪सेट्⟩-formationes
+*   3\. Pronomen personale personae secundae
+*   4\. Lexicon verborum
+*   5\. Exercitatio
+*   6\. ⟪संवादः⟩ = Colloquium
 
 ## [Lectio 44](lektion44)
 
@@ -856,8 +855,8 @@ Sententia hebdomadis
 *   5\. Benedictivus (⟪आशीर्लिङ्⟫)
 *   6\. Conditionalis (⟪ऌङ्⟫)
 *   7\. Declinatio nominum in -ai, -o, -au
-*   8\. Reliqua pronomina
-*   8.1. Pronomina personalia dualis
+*   8\. Reliqua Pronominalia
+*   8.1. Pronominalia personalia dualis
 *   8.2. Pronomen demonstrativum ⟪अदस्⟫ "ille (remotus)"
 *   9\. Dimissio in oceanum litteraturae Sanscriticae: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 

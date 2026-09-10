@@ -1,10 +1,11 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Lecke 24"
+subtitle: 'A dativus (⟪चतुर्थी⟫ = \"negedik esetrag\")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 24. lecke
@@ -101,10 +102,10 @@ A datívus további felhasználásait később.
 ::: grammar-box
 **A datívus szabályos végződései:**
 
-* **egyes szám: -e ; vokalisch endende Femininstämme: -ai**
-* **többes szám: részes eset (dativus) und ablativus ⟪पञ्चमी⟫: -bhyas**
+* **egyes szám: -e ; magánhangzóra végződő nőnemű tövek: -ai**
+* **többes szám: részes eset (dativus) és ablativus ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Mássalhangzós tövek
 
 ::: grammar-box
 

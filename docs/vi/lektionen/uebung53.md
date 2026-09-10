@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Bài tập 53"
 uebung_id: 53
 category: "Übung"
 
 ---
 
-# Übung 53
+# Bài tập 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+Bài tập cho Bài học 53 bao gồm việc phân tích theo vần luật (xác định kiểu thức Śloka) của tất cả các câu kệ đã được học trong các bài học trước.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Vì đây là một nhiệm vụ ôn tập và phân tích toàn diện, nên không có đáp án riêng biệt theo nghĩa cổ điển. Các lời giải sẽ được suy ra từ việc áp dụng các quy tắc đã truyền đạt trong Bài học 53 vào những văn bản đã quen thuộc.

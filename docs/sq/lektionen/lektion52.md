@@ -1,21 +1,22 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Mësimi 52"
+subtitle: "Neutrale të rrënjosave me -i dhe -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. Neutër i rrënjëve me -i dhe -u
 
 ::: grammar-box
-**Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).**
+**Para fundimeve që fillojnë me zanor, futet një -n-, kjo është ndikim i rrënjëve me n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| | **⟪वारि⟫ n.:br"ujë"** | **⟪मधु⟫ n.:br"mjaltë"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -33,243 +34,234 @@ status: stable
 | ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-## 52.2. Nominalbildung
+## 52.2. Formimi i emrave
 
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
+### 52.2.1. PPP + -vant: Participi i së shkuarës Parasmaipada
 
 ::: grammar-box
-**Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:**
+**Një particip Parasmaipada i së shkuarës formohet kështu:**
 
 **PPP + -vant / fem.: vatī**
-**Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫**
+**Përkulja si rrënjët me -vant ose f. ⟪देवी⟫**
 :::
 PPP + -vant / fem.: vatī
 
-Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫
+Përkulja si rrënjët me -vant ose f. ⟪देवी⟫
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat"
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "një/e, ai/a që ka bërë"
 
-⟪भिन्नवन्त्⟫ "einer, der gespalten hat"
+⟪भिन्नवन्त्⟫ "një, ai që ka ndarë"
 :::
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+### 52.2.2. ⟪तद्धित⟫-sufiks -maya / -mayī
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung**
+**Sufiksi ⟪तद्धित⟫ -maya / f.: -mayī formon nga emrat mbiemra me kuptimin**
 
-*   **"gemacht aus"**
-*   **"bestehend aus"**
-*   **"reich an"**
+*   **"i bërë nga"**
+*   **"përbërë nga"**
+*   **"i pasur me"**
 
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.**
+**Para -maya (así para para -⟪मात्र⟫) duhet zëvendësuar mbyllësit e fundit të pauzës me nazalin përkatës.**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪अन्नमय⟫ 3 "reich an Speise"
+⟪अन्नमय⟫ 3 "i pasur në ushqim"
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend"
+⟪चिन्मय⟫ 3 (nga ⟪चित्⟫ f. "intelekt") "i përbërë nga mendimi / kuptesa"
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend"
+⟪वाङ्मय⟫ 3 (nga ⟪वाच्⟫ f. "gjuhë") "i përbërë nga fjala"
 
-⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend"
+⟪सोममय⟫ 3 "i bërë nga Soma, i përbërë nga Soma"
 :::
 ::: grammar-box
-**Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.**
+**Emrat në -maya përdoren ndonjëherë si emra neutralë dhe tregojnë atëherë tepri të asaj që shënohet nga emri, i cili i shtohet -maya.**
 :::
 ::: indent
-z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise"
+p.sh. ⟪अन्नमय⟫ n. "teprica e ushqimit"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Abb.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt5202))
+Fig.: ⟪अन्नमयम् विवाहः⟫, Chennai = சென்னை
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫-sufiks -eya
 
 ::: grammar-box
-**Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von**
+**Sufiksi ⟪तद्धित⟫ -eya / f.: -eyī shfaqet veç të tjerash tek feminitivet me kuptimin e**
 
-*   **"Kind der"**
-*   **"Nachkomme der"**
+*   **"fëmijës së"**
+*   **"pasardhësit e"**
 
-**Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.**
+**Fazës së zgjatuar (⟪वृद्धि⟫) të zanores së parë.**
 
-z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫"
+p.sh. ⟪कौन्तेय⟫ m. "bir i ⟪कुन्ती⟫"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang-Figur, Java, Indonesien
-(Bildquelle: [Details](/licenses#lekt5203))
+Fig.: ⟪भीमः कौन्तेयः⟫
+Figurë Wayang, Java, Indonezi
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5203))
 :::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+## 52.3. Formimi i advorbëve: Sufiksi advorial -śas
 
 ::: grammar-box
-**Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:**
+**Sufiksi advorial -śas formon adverbë nga ( kryesisht) me kuptim distributiv:**
 
-*   **Zahlwörtern**
-    Beispiele:  
-:::
-::: indent
-⟪एकशस्⟫ "einzeln, je einer"
-⟪द्विशस्⟫ "zu zweien, je zwei"
-⟪शतशस्⟫ "zu hunderten, je hundert"
-:::
+*   **Numra**  
+Shembuj:  
+⟪एकशस्⟫ "një nga një, secili"  
+⟪द्विशस्⟫ "dy nga dy, secili"  
+⟪शतशस्⟫ "qindra nga qindra, secili"
 
-*   **anderen Wörtern**
-    Beispiele:  
-::: indent
-⟪भागशस्⟫ "Teil für Teil"
-⟪सर्वशस्⟫ "überall, gar alle"
-⟪नित्यशस्⟫ "beständig"
+*   **fjalë të tjera**  
+Shembuj:  
+⟪भागशस्⟫ "pjesë për pjesë"  
+⟪सर्वशस्⟫ "kudo, krejtësisht"  
+⟪नित्यशस्⟫ "pa ndërprerje"
 :::
 ::: media
 ![](/images/lekt5204.webp)
-Abb.: ⟪अनुक्रमेणैकशः⟫
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Bildquelle: [Details](/licenses#lekt5204))
+Fig.: ⟪अनुक्रमेणैकशः⟫
+Rradhë para tempullit, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5204))
 :::
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
+## 52.4. Kompozita verbale që shprehin se diçka bëhet ose bëhet ajo që nuk ishte më parë (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. Formime cvi-
 
 ::: grammar-box
-**Vor die Wurzeln**
+**Para rrënjëve**
 
-*   **⟪कृ⟫ 8U "tun"**
-*   **⟪अस्⟫ 2P "sein"**
-*   **⟪भू⟫ 1P "werden"**
+*   **⟪कृ⟫ 8U "bëj"**
+*   **⟪अस्⟫ 2P "jam"**
+*   **⟪भू⟫ 1P "bëhem"**
 
-**können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird.**
+**Mund të vendosen emra dhe mbiemra si para-verbe për të shprehur se dikush e bën një person ose gjë atë, ose që një person ose gjë bëhet ajo që përcaktohet nga atë emër.**
 
-**Der Auslaut des Nomens wird folgendermassen behandelt:**
+**Mbarimi i emrit trajtohet si më poshtë:**
 
-Der Auslaut des Nomens wird folgendermassen behandelt:
 
-*   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  **
-    Beispiele:  
+Mbarimi i emrit trajtohet si më poshtë:
+
+*   **-a dhe -ā përfundimtare të fjalëve të pjerrura zëvendësohen me -ī  **
+Shembuj:  
+⟪कृष्णीभवति⟫ "diçka që nuk është e zezë, bëhet e zezë"  
+⟪कृष्णीकरोति⟫ "ai bën diçka që nuk është e zezë, të zezë"  
+⟪गङ्गीभवति⟫ "ai/ajo bëhet Ganga"  
+
+*   **-i dhe -u përfundimtare zëvendësohen me zanorin përkatës të gjatë  **
+Shembuj:  
+⟪शुचीभवति⟫ "ai/ajo bëhet i pastër"  
+⟪गुरूभवामि⟫ "unë bëhem mësues"  
+
+*   **-ṛ përfundimtare zëvendësohet me --rī  **
+p.sh. ⟪पित्रीभवति⟫ "dikush që nuk ishte babai (⟪पितृ⟫) bëhet baba = një burrë merr fëmijën e tij të parë"  
+
+*   **-n përfundimrale bie dhe zanori përpara tij trajtohet sipas rregullave të mësipërme  **
+p.sh. ⟪राजीबभूव⟫ "dikush (që nuk ishte mbret) u bë mbret (⟪राजन्⟫)"
+
+*   **Të tjera emra me shumë rrënjë qëndrojnë në formën e rrënjës, të cilin e kanë në Lokativ (⟪सप्तमी⟫) Shumës. Rrënja nënkuptohet atëherë nga rreglat e zakonshme të Sandhit. Shih Kielhorn, Gramatikë § 489,3. **
+p.sh. ⟪तिर्यक्करोति⟫ "ai vendos anash (⟪तिर्यच्⟫)"
 :::
-::: indent
-⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"
-⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"
-⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"
-:::
-
-*   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  **
-    Beispiele:  
-::: indent
-⟪शुचीभवति⟫ "er/sie/es wird rein"
-⟪गुरूभवामि⟫ "ich werde Meister"
-:::
-
-*   **auslautendes -ṛ wird durch --rī ersetzt  **
-    z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"
-
-*   **auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt  **
-    z.B. ⟪राजीबभूव⟫ "einer (der nicht König war) wurde König (⟪राजन्⟫)"
-
-*   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  **
-    z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
 ::: media
 ![](/images/lekt5209.webp)
-Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5209))
+Fig.: ⟪भस्मीकृतं वनम्⟫
+Zjarde e pyllit, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5209))
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. Sufiksi -sāt
 
 ::: grammar-box
-**Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen**
+**Për të shprehur se një person ose gjë bëhet plotësisht ajo, ose dikush e bën diçka ose dikë plotësisht atë që përcaktohet nga një emër, mund të shtohet**
 
-**das Suffix -sāt (das nie -ṣāt wird)**
+**sufiksi -sāt (që kurrë nuk bëhet -ṣāt)**
 
-**angefügt werden und das so gebildete Wort mit den Wurzeln**
+**prapa dhe fjala e formuar kështu bashkohet me rrënjët**
 
-*   ⟪कृ⟫ 8U "tun"
-*   ⟪अस्⟫ 2P "sein"
-*   ⟪भू⟫ 1P "werden"
+*   ⟪कृ⟫ 8U "bëj"
+*   ⟪अस्⟫ 2P "jam"
+*   ⟪भू⟫ 1P "bëhem"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**zu einem Verbalkompositum verbunden werden.**
+**për të formuar një kompozit verbal.**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer"
+⟪अग्निसाद्भवति । अग्निसात्संपद्यते⟫ "ai bëhet plotësisht zjarr"
 
-⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche"))
+⟪भस्मसात्करोति⟫ "ai shndërrohet plotësisht në hi (⟪भस्मन्⟩ n. "hi")"
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Ndoshta sufiksi -sāt do të thotë se një person ose gjë**
 
-*   **von dem abhängig wird oder**
-*   **in den Besitz dessen übergeht**
-*   **oder dass jemand von dem abhängig macht**
 
-**das vom Nomen bezeichnet wird**
+*   **varet nga ajo, ose**
+*   **kalon në pronësi të asaj**
+*   **ose se dikush e bën atë të varur nga ajo**
+
+**që përcaktohet nga emri**
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs"
+⟪राजसाद्भवति⟫ "ai bëhet i varur nga mbreti, ai bëhet pronë e mbretit"
 :::
 ::: grammar-box
-**Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:**
+**Pas formimeve me -sāt, rrënjët nuk trajtohen si pas parafiksesh, pra Absolutiv:**
 
 :::
 ::: indent
 ⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
+## 52.5. Përsëritja e fjalëve (⟪द्विरुक्तम्⟫)
 
 ::: grammar-box
-**Wortwiederholung drückt im Sanskrit aus:**
+**Përsëritja e fjalëve shpreh në sanskritisht:**
 
-*   **Wiederholung der Handlung**
-    z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder"
-*   **Distribution**
-    Beispiele:  
+*   **Përsëritja e veprimit**  
+p.sh. ⟪पुनः पुनः⟫ "përsëri e përsëri"
+*   **Distribucioni**  
+Shembuj:  
+⟪पृथक्पृथक्⟫ "çdo herë veç e veç, çdo herë një nga një"  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "çfarëdo që ... gjithçka"  
+⟪युगे युगे⟫ "në çdo epokë botërore veç e veç"
+
+**Ndodh herë pas here që nga këto lidhje të formohet një kompozit**
+
 :::
-::: indent
-⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"
-⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"
-⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter"
-:::
-
-**Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden**
-
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪एकैक⟫ 3 "jeder einzelne"
-⟪अल्पाल्प⟫ 3 "ganz klein"
-⟪नवनव⟫ 3 "stets neu"
+⟪एकैक⟫ 3 "çdo një nga një"
+⟪अल्पाल्प⟫ 3 "plotësisht i vogël"
+⟪नवनव⟫ 3 "gjithmonë i ri"
 :::
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff.
-## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
+Për kompozitat e quajtura ⟪आम्रेडित⟫, ku përsëriten fjalë të flektuara, por e dyta mori një theks në kohën para-klasike, pra ekziston një kompozit, shih Wackernagel, Altindische Grammatik II,1 fq. 142 etj.
+## 52.6. Numri (⟪सम्ख्या⟩ f.)
 
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
+Për çka nuk trajtohet këtu shih p.sh. te Kielhorn, Grammatik §201f.
 
-### 52.6.1. Kardinalzahlen
+### 52.6.1. Numrat kardinalë
 
-#### 52.6.1.1. Zahladjektive (für 1 bis 19)
+#### 52.6.1.1. Adjektivët numerikë (për 1 deri në 19)
 
 ::: grammar-box
-**Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.**
+**Fjalët numerike për *1 deri në 19* janë adjektivë.**
+**Fjalët numerike për **1 deri në 4** janë të ndryshme në deklinim për tre gjinitë.**
 
-**Für die Zahlwörter für **5 bis 19** (:sig[⟪नवदशन्⟫]) gibt es nur eine einzige Deklination für die drei Geschlechter.**
+**Për fjalët numerike për **5 deri në 19** (:sig[⟪नवदशन्⟫]) ekziston vetëm një deklinim i vetëm për tre gjinitë.**
 
-**Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).**
+**Për këto adjektivë numerikë vlen, ashtu si për të gjitha adjektivet: duhet të qëndrojë në të njëjtin rast, numër dhe gjini si emri përkatës dhe anasjelltas (d.m.th. për 1 singular, për 2 dual, për të tjerët plural).**
 :::
-Zahladjektive:
+Numra:
 
 ::: indent
-1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
+1 ⟪एक⟫ 3 (Përshtatet si ⟪सर्व⟫, në shumës: "disa")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -280,240 +272,237 @@ Zahladjektive:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-Die Deklination folgt an gegebener Stelle in den Wortlisten.
+Përshtatja jepet në vendin e përshtatshëm te listat e fjalëve.
 
-Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201.
+Numrat adverbialë deri në 19 shihni p.sh. te Kielhorn, Grammatik §201.
 
-#### 52.6.1.2. Zahlsubstantive (für 19ff.)
+#### 52.6.1.2. Numra emërorë (për 19 e më tepër)
 
 ::: grammar-box
-**Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.**
+**Fjalët numërore për *19 (⟪एकोनविंशति⟫* "një më pak se 20") *deri në 99* janë emra femërorë dhe përshtaten si ⟪मति⟫ f. ose emra rrënjësorë me -t (p.sh. ⟪त्रिंशत्⟫ f.).**
 
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-20 ⟪विंशति⟫ f.
+20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
 :::
 
 ::: grammar-box
 
-**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.**
+**Fjalët numërore për numra **nga 100 e lart** janë emra mashkullore. Ato përshtaten si ⟪फलम्⟫.**
 :::
 
-Beispiele:
+Shembuj:
 
 ::: indent
-100 ⟪शत⟫ n.
+100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
 :::
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
+Numrat emërorë individualë shihni p.sh. te Kielhorn, Grammatik §201.
+#### 52.6.1.3. Sintaksë për numrat kardinalë
 
 ::: grammar-box
-**Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:**
-*   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden
-    z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"
-*   substantivische Kardinalzahlwörter können auf drei Weisen mit dem Substantiv für das Gezählte verbunden werden
-    *   sie regieren den Genetiv (⟪षष्ठी⟫) des Gezählten
-        z.B. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "durch 20 Frauen"
-    *   sie stehen als Apposition im selben Kasus (aber im Singular) wie das Gezählte
-        z.B. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "durch 20 Frauen"
-    *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied
-        z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe"
+**Nga ndryshimi midis fjalëve numërore verbale dhe emëruese për numrat kardinalë rrjedh pasojat e mëposhtme për sintaksën:**
+*   Fjalët numërore kardinale si mbiemra mund të lidhen me emrin për të numëruarit vetëm si mbiemra  
+p.sh. ⟪तिसृभिर्नारीभिः⟩ "përmes tre grave"  
+*   Fjalët numërore kardinale si emra mund të lidhen me emrin për të numëruarit në tre mënyra
+*   ato qeverisin gjininë (⟪षष्ठी⟫) të të numëruarit  
+p.sh. ⟪विंशत्या नारीणाम्⟫ "përmes 20 grave"  
+*   ato qëndrojnë si apposition në të njëjtin rast (por në numrin njëjës) me të numëruarit  
+p.sh. ⟪विंशत्या नारीभिः⟫ "përmes 20 grave" 
+*   ato qëndrojnë si pjesa e pasme e një ⟪तत्पुरुष⟫ me të numëruarit si pjesa e përparme  
+p.sh. ⟪गोविंशत्या⟫ "përmes 20 lopëve"
 
 :::
-### 52.6.2. Ordinalzahlen
+### 52.6.2. Numra renditore
 
-Siehe z.B. bei Kielhorn, Grammatik §201f.
+Shihni p.sh. te Kielhorn, Grammatik §201f.
 
-### 52.6.3. Zahladverbien
+### 52.6.3. Numra adverbialë
 
-a) "-mal":
+a) "-her":
 
 ::: indent
-einmal: ⟪सकृत्⟫
-zweimal: ⟪द्विस्⟫
-dreimal: ⟪त्रिस्⟫
-viermal: ⟪चतुस्⟫
-fünfmal usw. wird mit dem Suffix -:sig[⟪कृत्वस्⟫] gebildet: ⟪पञ्चकृत्वस्⟫
+një herë: ⟪सकृत्⟫
+dy herë: ⟪द्विस्⟫
+tre herë: ⟪त्रिस्⟫
+katër herë: ⟪चतुस्⟫
+pesë herë etj. formohet me prapashtesën -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": wird mit dem Suffix -:sig[⟪धा⟫] ausgedrückt
+b) "-fish": shprehet me prapashtesën -:sig[⟪धा⟫]
 
 ::: indent
-einfach: ⟪एकधा⟫
-zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-usw.
+një herë: ⟪एकधा⟫
+dyfish: ⟪द्विधा । द्वेधा⟫
+etj.
 :::
-c) "je ...", "zu ...": wird mit dem Suffix -:sig[⟪शस्⟫] ausgedrückt (siehe oben!)
+c) "çdo ...", "dy nga dy": shprehet me prapashtesën -:sig[⟪शस्⟫] (shih më sipër!)
 
 ::: indent
-⟪द्विशस्⟫ "zu zweien, je zwei"
+⟪द्विशस्⟫ "dy nga dy, çdo dy"
 :::
-### 52.6.4. Zahladjektive
+### 52.6.4. Numra mbiemrorë
 
 "-fältig":
 
 ::: indent
-zweifältig, aus zweien bestehend
-dreifältig, aus drei Teilen bestehend
+dyfish, i përbërë nga dy pjesë
+trefish, i përbërë nga tri pjesë
 
-ab 4 wird "-fältig" durch das Suffix -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]) ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig"
+prej 4 e tutje "-fältig" shprehet me prapashtesën -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]) ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "katërfish"
 :::
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken.
+Formime të tjera shihni në fjalorë ose gramatika.
 
-### 52.6.5. Komposita mit Kardinalzahlen im Vorderglied
+### 52.6.5. Kompozita me numra kardinalë në pjesën e parë
 
 ::: grammar-box
-**⟪बहुव्रीहि⟫ dieser Art werden ganz regelmässig gebildet.**
+**⟪बहुव्रीहि⟫ këto lloje formohen plotësisht rregullisht.**
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās)
+⟪चतुर्मुख⟫ m. "një, ai që ka katër fytyra" = ⟪चत्वारि मुखानि यस्य सः⟫ (një emër tjetër i Brahmās)
 :::
 ::: media
 ![](/images/lekt5205.webp)
-Abb.: ⟪चतुर्मुखः⟫
-(Bildquelle: [Details](/licenses#lekt5205))
+Fig.: ⟪चतुर्मुखः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5205))
 :::
 
 ::: grammar-box
-**⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:**
+**⟪तत्पुरुष⟫ me një numër kardinal në pjesën e parë nuk duhet të formohen arbitrarisht:**
 
-**Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.**
+**Rregulli 1: Fjalët që tregojnë një drejtim qiellor (si ⟪पूर्व⟫ 3 "lindje", ⟪उत्तर⟫ 3 "veri"), dhe fjalët për numra kardinalë mund të formojnë një ⟪कर्मधारय⟫-kompozit vetëm me fjalë të tjera, nëse kompoziti përdoret si emër i vetëm.**
 :::
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Grossen Bären (Ursa maior) steht.
+Prandaj, për shembull, nuk mund të formohet një Tatpuruṣa nga ⟪उत्तरा वृक्षाः⟫ "pemë veriore" ose ⟪पञ्च ब्राह्मणः⟫. Nga ⟪सप्तन्⟫ dhe ⟪ऋषि⟫ mund të formohet megjithatë Tatpuruṣa ⟪सप्तर्षि⟫ mashk. "shtatë Ṛṣit", nëse kjo përdoret si emër për yjorën e Madhe (Ursa maior).
 ::: media
 ![](/images/lekt5206.jpg)
-Abb.: ⟪सप्तर्षयः⟫
-Das Siebengestirn = die sieben hellsten Sterne des Grossen Bären (Ursa maior)
-(Bildquelle: [Details](/licenses#lekt5206))
+Fig.: ⟪सप्तर्षयः⟫
+Shtatë yjet = shtatë yjet më të ndritshëm të Madhe (Ursa maior)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5206))
 :::
 
 ::: grammar-box
-**Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn**
+**Rregulli 2: Si përjashtim nga Rregulli 1, një fjalë që tregon drejtimin qiellor ose numrin kardinal mund të formojë një Tatpuruṣa me emër tjetër, nëse**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)
+1. i shtohet kompozitës së formuar kështu një prapashtesë Taddhita  
+Shembuj:  
+pūrva + śālā ("dhomë) » \*pūrvaśālā (nuk lejohet të përdoret kështu!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "i vendosur në dhomën lindore"  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (jo i lejuar!) + Taddhita -a » ⟪षण्मातुर⟫ mashk. "fëmija i gjashtë nënave" (= ⟪कार्त्तिकेय⟫)  
 
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fliessend):
-    Beispiele:  
-    dvi + go » :sig[⟪द्विगु⟫] : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
+2. kompozita e formuar kështu përdoret në një kuptim që zakonisht shprehet nga një prapashtesë Taddhita (në këtë lloj kalimi në Bahuvrīhi është i rrjedhshëm):  
+Shembuj:  
+dvi + go » ⟪द्विगु⟫ : jo: "dy lopë", por: "**i blerë për dy lopë**"  
+⟪द्विवर्ष⟫ jo: "dy vjet", por: "**dy vjeç**"  
+
+3. kompozita e formuar kështu përbën pjesën e parë të një kompozite tjetër  
+Shembull:  
+pañca + go » pañcagava (si fjalë e vetme jo i lejuar!) + dhana » ⟪पञ्चगवधन⟫ mashk. "Një, pasuria e të cilit është pesë lopë"
 :::
-::: indent
-⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"
-:::
-
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind"
 ::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+Fig.: ⟪षण्मातुरः कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
-(Bildquelle: [Details](/licenses#lekt5207))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5207))
 :::
 
 ::: grammar-box
-**Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.**
+**Një emërtim për një numër kardinal (por jo për një drejtim qiellor) mund të përdoret si komponent i parë me një emër tjetër për të formuar edhe atëherë një Tatpuruṣa, kur kompoziti i formuar në këtë mënyrë tregon agregatin e disa gjërave, d.m.th. bashkon dy ose më shumë gjëra në njësi.**
 
-**Tatpuruṣa, die nach dieser Regel gebildet werden heissen Dvigu (:sig[⟪द्विगु⟫]).**
+**Tatpuruṣa, të cilët formohen sipas kësaj rregulli quhen Dvigu (:sig[⟪द्विगु⟫]).**
 
-**Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.**
+**Kompozitet Dvigu, që tregojnë njësi, janë zakonisht neutrale. Nëse pjesa e dytë mbaron në -a, atëherë mund të shtohet prapashta femine -ī. Nëse pjesa e dytë mbaron në fem. -ā, atëherë vendoset ose neutrale -a ose femine -ī. Nëse pjesa e dytë mbaron në -an, atëherë zëvendësohet me -a ose -ī.**
 :::
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "agregati i tre botëve, tre botët si njësi, tri-bota (qielli-tokë-nënbot)"
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
+⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. "tri-bota"
 :::
 ::: grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
+**Kompozitet Dvigu, të cilëve nuk u është shtuar ndonjë prapashta Taddhita, por që kanë kuptimin e treguar nga një prapashta Taddhita, rregullojnë gjininë e tyre sipas emrit që ata specifikojnë më afër (ato janë në realitet ndoshta Bahuvrīhi)**
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
+⟪पञ्चगु⟫ 3: "i blerë për pesë lopë"
 :::
-## 52.7. Wortliste
+## 52.7. Listë fjalësh
 
-⟪अखिल⟫ 3: lückenlos, ganz
+⟪अखिल⟫ 3: i plotë, i tëri
 
-⟪निखिल⟫ 3: vollständig, ganz
+⟪निखिल⟫ 3: i plotë, i tëri
 
 ::: indent
-von:
+nga:
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: fushat, tokë e braktisur
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ Adv.: brenda, në të brendshmen ; Postpozicion me Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): brenda, në mes ; Postpozicion me Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): nga ... jashtë
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 3: reciprokisht, njëri-tjetrin
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : dështoj
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+PPP ⟪विपरीत⟫ 3: i gabuar, jo i saktë
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3: tre
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **Maskulin:br⟪पुंस्⟫** | **Neutër:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **2. Akuzativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **6. Gjenitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ Postpozicion dhe prapashtesë për emra dhe folje: jashtë, larg, dalja, shfaqja, nga, larg - prej
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : shtyp, torturon ; ngacmon, rrethon, shqetëson
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3: (Rënie si ⟪सर्व⟫) larg, i huaj, më i lartë se (⟪पञ्चम्या⟫), ekstrem, më i larti ; tjetër, i huaj, armiqësor ; m.: i huaj
 
 ::: indent
-davon:
+prej:
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ Adv.: në masë të lartë, mbi këtë, më vonë, por, megjithatë
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ Postpozicion (⟪द्वितीयया⟫): drejt - në, për sa i përket, kundrejt
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 3: kryesor, më i mirë ; n.: gjëja më e rëndësishme
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+Fig.: ⟪प्रधानः मुंबई⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ n.: etje, dëshirë e keqe
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ m.: seksion, pjesë, grup
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: grup prej tre (p.sh. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; ose: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; ose: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : wollen, gebieten, verlangen nach
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : të dojë, të urdhëroj, të dëshiroj
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -524,38 +513,38 @@ PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : të fryjë, të shpërthej
 
 ::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+prej:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: erë
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschliessen
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : të kthej, të rrotulloj ; të parandalojë, përjashto
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
+Kaus. ⟪वर्जयति⟫ : të heqë
+Kaus. PPP ⟪वर्जित⟫ : i privuar nga diçka, i lirë nga
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ m.: aktivitet, sjellje, marrëdhënie, tregti, punë, biznes, (gjyq) proces
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ n.: zakonisht, shkathtësi, natyrë, karakter, zakon i mirë = moral
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ m.: diell
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : të shërbej dikujt (⟪द्वितीया⟫), të kujdesem për, nderoj, dua
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -566,31 +555,26 @@ PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-davon:
+prej:
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ f.: shërbim, vizitë
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 3: i fortë, i qëndrueshëm, vazhdimës, përkushtuar
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: i përvojshëm në (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ m.: rojë natën (çdo herë tre orë)
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
+⟪परंपरा⟫ f.: varg i pandërprerë
 
-⟪अमुत्र⟫ Adv.: dort, dorthin
+⟪अमुत्र⟫ Adv.: aty, drejt asaj
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : lëviz, zhvendoset, bie poshtë
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -599,194 +583,129 @@ Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : njoh, ndiej, perceptoj, përjetoj
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ n.: rrotë
 
 ::: media
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ f.: bananier (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ m.n.: bërthamë, thelb, esencë, substancë
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 3: qiellor, hyjnor
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: më i miri
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ m.: pasqyrë
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ m.n.: papastërti, njollë
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+Abb.: ⟪मलम् मुंबई⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ n.: qielli i Indrës
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ m.: e keqja personifikuar, manipulimi/frymëzimi i keq, djalli
 
 ::: media
 ![](/images/lekt5217.webp)
 Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+Amaravati = అమరావతి, shek. II pas Krishtit
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 3: dikush që dëshiron të njohë plotësisht
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : mbroj, shpëtoj
 
 ::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-## 52.8. Übersetzungsübung
+## 52.8. Ushtrim përkthimi
 
-⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
-
-::: indent
-⟪यद्यत्परवशं⟫ ⟪कर्म⟫
-⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
-⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
-⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫
-
-⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
-⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
-⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
-
-⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
-⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
-⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
-⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
-
-Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
-:::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
+⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
 ::: indent
-⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
-⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
-⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
+⟪यद्यत्परवशं कर्म ततद्यत्नेन वर्जयेत् । यद्यदात्मवशं तु स्यात् ततत्सेवेत यत्नतः ॥१५९॥ सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् । एतद्विद्यात्समासेन लक्षणं सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥ यत्कर्म कुर्वतो ऽस्य स्यात् परितोषो ऽन्तरात्मनः । तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥१६१॥⟫
 
-Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+Shpjegim: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
-
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫ Mbi burimet e ⟪धर्म⟫
 
 ::: indent
-Erklärungen:
+⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫:sig[⟪ले⟫] ⟪च तद्विदाम् । आचआरश्चैव साधूनाम् आत्मनस्तुष्टिरेव च ॥६॥⟫
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer"
-
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva)
+Shpjegim: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Mbi ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ në jetën e princit
+
+⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत⟫, ⟪न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि धर्मका⟫:sig[⟪मावि⟫]⟪ति ।७।⟫
+
+::: indent
+Shpjegime:
+
+⟪इतरौ⟫ Nom.Akk.Dual.m për ⟪इतर⟫ 3 "tjetër"
+
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ është Dualdvandva)
+:::
+⟪४⟫. ⟪अश्वघोष⟫ (shek. II pas Krishtit): ⟪बुद्धचरित ४⟫ Dituria shpëlbërëse e Budas
 
 ::: media
 ![](/images/lekt5216.webp)
-Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Bildquelle: [Details](/licenses#lekt5216))
+Fig.: ⟪अश्वत्थो महाबोधिवृक्षः⟫
+_Ficus religiosa_ L. ⟪बोधगया⟫, rreth 1810
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5216))
 :::
 
 ::: indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
-
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
-
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
-
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
-
-⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
-⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
-⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
-
-⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
-⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
-⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
-
-⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
-⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
-⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
-
-⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
-⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
-⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
-
-⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
-⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
-⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
-
-⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
-⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
-⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
-## 52.9. Aufgaben während der Semesterferien
+## 52.9. Detyrat gjatë pushimeve të semestrit
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet.
+Me Leksionin 52 mbaron semestri i parë (13 javë x 4 orë mësimi) i kursit të Sanskritishtes.
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
+Gjatë pushimeve të semestrit duhet plotësuar detyrat e mëposhtme:
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders:
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen
-    2.  Wörter
-    3.  Stammformen
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum
-3.  Durcharbeiten von [Lektion 53](lektion53.md)
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet)
-5.  Vorbereitung von ⟪भगवद्गीता⟫ Kap. 1, Lernen der dazugehörigen Wörter auf den Wortlisten (noch nicht im Internet)
-6.  Metrische Analyse aller Verse von ⟪भगवद्गीता⟫ ⟪१⟫
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19
-7.  Lesen einer ⟪महाभारत⟫-Nacherzählung, z.B.
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien)
-8.  Durcharbeiten:
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government)
-9.  Fertig durcharbeiten von:
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10.  Beginn mit der Durcharbeit von:
-     **Winternitz, Moriz \<1863 - 1937\>:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur)
+1.  Përsëritja e gjithçkaje të mësuar deri tani, veçanërisht:
+1.  Mësimi me shpirt i paradigmave të konjugimit dhe deklinimit
+2.  Fjalorë
+3.   Forma të rrënjës
+2.  Mësimi me shpirt sa më shumë vargjesh dhe tekste proze nga letërsia klasike
+3.  Përpunimi i [Leksionit 53](lektion53.md)
+4.  Përpunimi i fletëve Bhg 1 - 11 ( ende jo në internet)
+5.  Përgatitja e ⟪भगवद्गीता⟫ Kap. 1, mësimi i fjalëve përkatëse në listat e fjalëve ( ende jo në internet)
+6.  Analiza metrike e të gjithë vargjeve nga ⟪भगवद्गीता १⟫  
+Një përshtypje të mirë për tekstin në formën e recitimit jep: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Qasje më 2009-01-19
+7.  Leximi i një rëfimi të ⟪महाभारत⟫, p.sh.  
+Mahābhārata : Eposi i madh i Indisë / përkthyer nga sanskritishtja dhe i përmbledhur nga Biren Roy. -- Ed. 10. -- München : Diederichs, 1995. -- 335 faq. ; 19 cm. -- (Seria e verdhë Diederichs ; 16 : India)
+8.  Përpunimi:  
+**Kunnappally, John:** Prakriyā bhāshyam : Gramatikë sanskrite / Origjinalisht e shkruar në malajalam. Përkthyer në anglisht nga K.V.R. Pai. -- Parathode : Botim i autorit, 1983. -- 818 faq. ; 23 cm. -- Faqet 208 - 254 (Qeverisja sintaksore)
+9.  Përfundimi i përpunimit të:  
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)** Mrekullia që ishte India. Vëllimi: Një sondazh i kulturës nënkontinentit indian para ardhjes së myslimanëve. -- London : Sidgwick & Jackson, 1954.
+10.  Fillimi i përpunimit të:  
+**Winternitz, Moriz (1863–1937):** Historia e letërsisë indiane. Stuttgart : Koehler. -- 3 vll. -- 1908 - 1922 ( ende historia më e mirë e letërsisë për Sanskritishten, Pali dhe Prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)
-Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt5201))
+Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम मन्त्री⟫
+(Imazhi: Payer)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5201))
 :::
 

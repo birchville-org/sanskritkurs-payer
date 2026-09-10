@@ -1,206 +1,211 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Pamoka 3"
+subtitle: "Moterškos giminės vienaskaitos vardininkas"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 3
 
-## 3.1. Nominativ Singular des Femininums
+## 3.1. Nominativo vienaskaitos moteriškosios giminės
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominativo vienaskaita su priesaga -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+Taip pat šie nominaliniai kamieniai, kurie baigiasi balsiu, sudaro nominativo vienaskaitą su **-s**:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+**Moteriškosios giminės žodžiai su -i**: pvz., **śruti** f. „klausymas“ – Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+**Moteriškosios giminės žodžiai su -u**: pvz., **dhenu** f. „pieminė karvė“ – Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung
+### 3.1.2. Nominativo vienaskaita be priesagos
 
-Den Nominativ Singular bilden ohne Endung:
+Nominativo vienaskaitą sudaro be priesagos:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
+**Moteriškosios giminės žodžiai su -ā**: pvz., **devatā** f. „dievybė“ – Nom. sg.: **devatā** = ⟪देवता⟫
+**Moteriškosios giminės žodžiai su -ī**: pvz., **devī** f. „deivė“ – Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**Atkreipkite dėmesį!** Be to, yra vienos skiemenų moteriškosios giminės šakninių daiktavardžių su -ī, kurių nominativo vienaskaita baigiasi -s: pvz., dhī f. „mintis“ – Nom. sg.: dhīs = ⟪धीस्⟫. Taip pat lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. „valtis“ ir tantrī (⟪तन्त्री⟫) f. „styga“ sudaro netvarkingai nominativo vienaskaitą su -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina
+## 3.2. Moteriškosios giminės formų sudarymas iš vyriškosios giminės
 
 ::: grammar-box
-**Maskulina auf -a:**
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
+**Vyriškosios giminės žodžiai su -a:**
+**Moteriškoji giminė su -ā**: pvz., **kṣatriya** m. » **kṣatriyā** f. „kšatrijos moteris“ = ⟪क्षत्रिया⟫
+**Moteriškoji giminė su -ī**: pvz., **brāhmaṇa** m. » **brāhmaṇī** f. „brahmanė“ = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:**
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**)
+**Vyriškosios giminės žodžiai su -u:**
+**Moteriškoji giminė su -ī**: pvz., **sādhu** m. » **sādhvī** f. (geras, šventasis) = ⟪साध्वी⟫
+(**-u-** prieš balsį virsta **-v-**, todėl **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominativo daugiskaita vyriškosios ir moteriškosios giminės
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**.
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+Nominativo daugiskaitos priesaga vyriškosios ir moteriškosios giminės yra **-as**.
+**Vyriškosios giminės žodžiai su -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Moteriškosios giminės žodžiai su -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Vyriškosios giminės žodžiai su -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Moteriškosios giminės žodžiai su -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Moteriškosios giminės žodžiai su -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Vyriškosios giminės žodžiai su -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Moteriškosios giminės žodžiai su -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**.
+Pastaba: **e** yra aukštoji pakopa (**guṇa**) prie **i**, **o** yra aukštoji pakopa prie **u**.
 
-## 3.4. Vokalsandhi
+
+## 3.4. Balsių sandhis
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:**
-- -a / -ā + a- / ā- » **-ā-**
-- -i / -ī + i- / ī- » **-ī-**
-- -u / -ū + u- / ū- » **-ū-**
-- (-ṛ + ṛ- » **-ṝ-**)
+**Paprasti balsiai, kurie skiriasi tik ilguoju ar trumpuoju tarimu, „sujungia“ į atitinkamą ilgą balsį:**
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B.
+pvz.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇė yra deivė“ = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+> (Annapūrṇė yra maisto ir virimo deivė, ji laikoma Pārvatī, Šivos žmonos, inkarnacija.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
+devī + indrāṇī » devīndrāṇī „Indrānė yra deivė“ = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.)
+> (Indrānė yra dievo Indros žmona.)
 
 ::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301))
+Pav.: Indras ir Indrānė ant dramblio Airavatos, miniatiūra, Radžastanas, 1670/80
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:**
-- -i / -ī » **-y-**
-- -u / -ū » **-v-**
-- -ṛ » **-r-**
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!)
+**Paprasti balsiai (išskyrus -a / -ā) prieš nesuderinamus balsius pakeičiami atitinkamu pusbalsiu:**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! Šiai taisyklei, ypač dvaskaitos formoms, yra išimčių !!)
 :::
-z.B.
+pvz.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
+devī + umā » devy umā „Umā yra / ta deivė“ = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
+> (Umā yra Pārvatī, Šivos žmonos, vardas)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:**
-- -a / -ā + i- / ī- » **-e-**
-- -a / -ā + ṛ- » **-ar-**
-- -a / -ā + e- / ai- » **-ai-**
-- -a / -ā + o- / au- » **-au-**
+**-a / -ā prieš nesuderinamą balsį:**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema:
+Šiam sandhiui galioja šis schema:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0302))
 :::
-Zu dieser sog. Stammabstufung siehe später!
+Žr. vėliau apie šią, vadinamąją, kilmės hierarchiją!
 
-z.B.
+pvz.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā „Itarā yra šūdros moteris“ = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+
+## 3.5. Sakinio sandhis dėl -ās
 
 ::: grammar-box
-**-ās pirms visiem skanīgajiem skaņām tiek aizstāts ar -ā.**
+**-ā** prieš visus garsius (sonorinius) ir priebalsius pakeičiama į **-ā**.
 :::
-z.B.
+pvz.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaišjos yra du kartus gimę“ = ⟪द्विजा वैश्याः⟫
 
-## 3.6. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 3.6. Žodynas
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**Išmokite šiuos žodžius:**
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**śruti** f. = ⟪श्रुति⟫ : klausymasis, amžinoji perdavimo tradicija (terminas Vedom ir Brāhmaṇoms).
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
+**smṛti** f. = ⟪स्मृति⟫ : prisiminimas, atmintis, meditacinis prisiminimas = budrumas, perdavimo tradicija (priešingybė **śruti**). Apima:
+šešis **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): teisinga tarimas
+2. **chandas** n. (⟪छन्दस्⟫): metrikos
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramatika
+4. **nirukta** n. (⟪निरुक्त⟫) : žodžių paaiškinimas, etimologija
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomija, kalendoriaus mokslas
+6. **kalpa** m. (⟪कल्प⟫) : ceremonijos
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : mokslo traktatai dėl didžiųjų aukų atlikimo
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : mokslo traktatai dėl kasdienio gyvenimo ceremonijų ir aukų
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) ir **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : mokslo traktatai dėl teisės ir papročių (teisingas elgesys)
+didieji epai **mahābhārata** n. (⟪महाभारत⟫) ir **rāmāyaṇa** n. (⟪रामायण⟫)
+**purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : gyvenimo išminties traktatai
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
+**smṛti** taip pat ypač yra terminas dharma traktatams.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
+**dhenu** f. = ⟪धेनु⟫ : (pieno) karvė.
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**paśu** m. = ⟪पशु⟫ : numanyti ūkiniai gyvūnai, galvijai (bendrinė sąvoka).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
+**devatā** f. = ⟪देवता⟫ : dievybė (abstrakti ir konkreti).
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmanė.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatrijų klasės moteris.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : kṣatrijos žmona.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**vaiśyā** f. = ⟪वैश्या⟫ : vaišjų klasės moteris.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : šūdros klasės moteris.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : šūdro žmona.
+
+**devī** f. = ⟪देवी⟫ : deivė, ypač Durgā f. = ⟪दुर्गा⟫, Šivos žmona = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+Pav.: Durgā = ⟪दुर्गा⟫, Orisa
+(Nuotraukos šaltinis: [Išsamiau](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+**sādhvī** f. = ⟪साध्वी⟫ : mot. giminė nuo sādhu.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
+**gurvī** f. = ⟪गुर्वी⟫ : mot. giminė nuo guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫ : „aš-būvimas“, t. y. (klaidingas) tikėjimas: **Aš** esu tas, kuris mato ir t. t.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofija (mokslo šaka, kuri savo išvadas pasiekia per logiškai teisingus samprotavimus).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
+**upekṣā** f. = ⟪उपेक्षा⟫ : nekreipimas dėmesio, ramybė.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
+**karuṇā** f. = ⟪करुणा⟫ : gailestingumas, užuojauta.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
+**muditā** f. = ⟪मुदिता⟫ : džiaugsmas, ypač dalyvavimas kitų džiaugsme (priešingybė pavydui).
 
-## 3.7. Übung
 
-**A) Setzen Sie folgende Sätze in den Plural:**
+## 3.7. Pratimai
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+**A) Sudėkite šiuos sakinius daugiskaita:**
+
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
 4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
 9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:**
+**B) Sudėkite nominalinius sakinius:**
 
 1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
@@ -208,19 +213,19 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
 5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:**
+**C) Paverskite į moteriškąją lytį:**
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:**
+**D) Išverkite į sanskritą:**
 
-1. Umā ist eine Göttin.
-2. Der Veda ist śruti.
-3. Die Lehrerinnen sind Göttinnen.
-4. Milchkühe sind domestizierte Tiere.
-5. Dichter sind Lehrer.
-6. Kṣatriyas sind Zweimalgeborene.
-7. Die heiligen Männer sind Śūdras.
+1. Umā yra deivė.
+Veda yra śruti.
+Mokytojos yra deivės.
+Pieninės karvės yra numanyti gyvūnai.
+Poetai yra mokytojai.
+Kṣatriyas yra dvikart gimę.
+Šventieji vyrai yra śūdras.
 

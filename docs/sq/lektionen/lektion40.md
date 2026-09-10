@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "Mësimi 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 40
@@ -12,29 +13,16 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
-⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
-⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
-
-⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
-⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
-⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
-
-⟪आचार्यात्पादमादत्ते⟫  
-⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
-⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
 :::
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Bildquelle: [Details](/licenses#lekt4005))
+Fig.: ⟪पादं सब्रह्मचारिभ्यः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4005))
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. Formimi i formave të foljeve për personin e parë të Perfektit (⟪लिट्⟫)
 
-Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫)
+Përfundimet e personit të parë (⟪तृतीयः⟫) në Perfekt (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -45,39 +33,39 @@ Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट�
 
 :::
 ::: grammar-box
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen ausser Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
+Vini re se përfundimet e 1. Personi Singular P,Ā janë identike me ato të 3. Personi Singular. Prandaj, në të gjitha tipet e Perfektit përveç Tipit III(a,b) dhe Tipit V(a,b,c), format e 1. Singular P ose Ā janë gjithmonë identike me ato të 3. Singular P ose Ā.
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
+Në Tipin IV, 1. sg. P përfundon si 3.sg.P me -au.
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
+Në tipet e Perfektit III dhe V, 1. Singular Ā është gjithmonë identike me 3. Singular Ā.
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein.
+Në tipet e Perfektit III dhe V, 1. Singular P dhe 3. Singular P janë opsionalisht identike: 3.sg.P duhet të jetë gjithmonë në shkallën e zgjeruar (dehnstufig) për këto tipe formimi, ndërsa 1.sg.P mund të jetë opsionalisht në shkallën e lartë (hochstufig) ose në shkallën e zgjeruar.
 :::
 ::: grammar-box
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
+Para fundet që përfundojnë me bashkëtingëllore, te shumica e rrënjeve shfaqet zanori lidhës -i-.
 
-Ausser vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
+Përveç para mbarimit -re, ku gjithmonë duhet të shfaqet -i-, zanori lidhës para mbarimeve që fillojnë me bashkëtingëllore nuk shfaqet kurrë te tetë rrënje që përfundojnë në -ṛ ose -u, pra
 
-1.  ⟪कृ⟫ 8U (ausser ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "wählen"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "rennen"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "fliessen"
+1. ⟪कृ⟫ 8U (përveç ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "zgjedh"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "vrapoj"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "rrjedh"
 
-Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
+Te rrënjët e quajtura fakultative ⟪अनिट्⟫, zanori lidhës mund të vendoset në mënyrë opsionale ose jo. (Për numërimin e këtyre rrënjeve shih Kielhorn, Grammatik faqja 92 § 298b,2,3)
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. Perfekt Tipi I: pa shkallëzim të rrënjes
 
 1.sg. = 3.sg.
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Bashkëtingëllore-Zanor i gjatë-Bashkëtingëllore
+*   Bashkëtingëllore-Zanor-Bashkëtingëllore-Bashkëtingëllore
+*   a-Bashkëtingëllore(-Bashkëtingëllore)
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
@@ -98,17 +86,17 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
 :::
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+⟪अस्⟫ 2P dhe ⟪अस्⟫ 4P
 
 ::: indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. Perfekt Tipi II: rrënjë e fortë në shkallën e lartë, rrënjë e dobët në shkallën e ulët
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   (Bashkëtingëllore)i/u/ṛ/ḷ-Bashkëtingëllore
 
 ⟪भिद्⟫ 7U
 
@@ -126,15 +114,15 @@ Verben, die diesem Typ folgen:
 ::: indent
 *   1.sg.P ⟪मुमोह⟫
 
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+*   1.pl.P ⟪मुमुहिम । मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. Perfekt Tipi III: Rrënjë e fortë në shkallën e lartë/shkallën e zgjatuar
 
-1.sg.P wahlweise hochstufig oder dehnstufig
+1.sg.P në mënyrë opsionale shkallë e lartë ose shkallë e zgjatur
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. Tipi i Perfektit IIIa: Themel i fortë shkallë e lartë/shkallë e zgjatur, themel i dobët shkallë e ulët
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
 *   (Konsonant-)(Konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
@@ -142,14 +130,14 @@ Verben, die diesem Typ folgen:
 ⟪इ⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
+*   1.sg.P ⟪इयाय । इयय⟫ (i+e+a)
 
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
+*   1.sg.P ⟪निनाय । निनय⟫
 
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
 
@@ -160,7 +148,7 @@ Verben, die diesem Typ folgen:
 ⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
+*   1.sg.P ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
 
 *   1.pl.P ⟪तुष्टुम⟫
 
@@ -171,7 +159,7 @@ Verben, die diesem Typ folgen:
 ⟪कृ⟫ 8U strikt ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
+*   1.sg.P ⟪चकार । चकर⟫
 
 *   1.pl.P ⟪चकृम⟫
 
@@ -179,9 +167,9 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. Tipi i Perfektit IIIb: Themel i fortë shkallë e lartë/shkallë e zgjatur, themel i dobët shkallë e lartë
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -189,21 +177,21 @@ Verben, die diesem Typ folgen:
 ⟪पॄ⟫ 3P
 
 ::: indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
+*   1.sg.P ⟪पपार । पपर⟫
 
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
+*   1.sg.P ⟪सस्मार । सस्मर⟫
 
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
+*   1.sg.P ⟪सञ्चस्कार । सञ्चस्कर⟫
 
 *   1.pl.P ⟪सञ्चस्करिम⟫
 
@@ -211,115 +199,115 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. Tipi i Perfektit IV: Rrënjët mbi -ā / -ai
 
-*   Starker Stamm:
-    *   1.,3. sg. Parasamaip.: -au
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Themel i fortë:
+*   1.,3. sg. Parasamaip.: -au
+*   Themel i dobët:
+*   përpara konsonantit: shkallë e ulët-i
+*   përpara zanorëve: shkallë e ulët-ø
 
 ⟪दा⟫ 3U
 
 ::: indent
 *   1.sg.P ⟪ददौ⟫
 
-*   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
+*   1.shum.P ⟪ददिम⟫ (da-d-i-ma)
 
-*   1.sg.Ā ⟪ददे⟫
+*   1.vet.Ā ⟪ददे⟫
 
-*   1.pl.Ā ⟪ददिमहे⟫
+*   1.shum.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
+### 40.2.5. Tipi i Perfektit V: Konsonant-a-Konsonant
 
-1.sg.P. wahlweise hochstufig oder dehnstufig
+1.vet.P. në mënyrë opsionale shkallë e lartë ose shkallë e zgjatur
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. Tipi i Perfektit Va: Konsonant-a-Konsonant, rrëzë e dobët Shkallë e thellë
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1. gam "shkoj"
+2. han (»ghan) "godas"
+3. jan "lindem"
+4. vac "flas"
+5. vad "flas"
+6. yaj "flij"
+7. e të tjerë.
 :::
 ⟪गम्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
+*   1.vet.P ⟪जगाम । जगम⟫
 
-*   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
+*   1.shum.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
+*   1.vet.P ⟪जघान । जघन⟫
 
-*   1.pl.P ⟪जघ्निम⟫
+*   1.shum.P ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
 ::: indent
-*   1.sg.Ā ⟪जज्ञे⟫
+*   1.vet.Ā ⟪जज्ञे⟫
 
-*   1.pl.Ā ⟪जज्ञिमहे⟫
+*   1.shum.Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
+*   1.vet.P ⟪उवाच । उवच⟫
 
-*   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
+*   1.shum.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
+*   1.vet.P ⟪उवाद । उवद⟫
 
-*   1.pl.P ⟪ऊदिम⟫
+*   1.shum.P ⟪ऊदिम⟫
 
-*   1.sg.Ā ⟪ऊदे⟫
+*   1.vet.Ā ⟪ऊदे⟫
 
-*   1.pl.Ā  ⟪ऊदिमहे⟫
+*   1.shum.Ā ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
+*   1.vet.P ⟪इयाज । इयज⟫
 
-*   1.pl.P ⟪ईजिम⟫
+*   1.shum.P ⟪ईजिम⟫
 
-*   1.sg.Ā ⟪ईजे⟫
+*   1.vet.Ā ⟪ईजे⟫
 
-*   1.pl.Ā ⟪ईजिमहे⟫
+*   1.shum.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 40.2.5.2. Tipi i Perfektit Vb: Konsonant-a-Konsonant, konsonanti fillor nuk është gutural, aspirat, h, Rrëzë e dobët pa reduplikim, me -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
+*   1.vet.P ⟪पपाच । पपच⟫
 
-*   1.pl.P ⟪पेचिम⟫
+*   1.shum.P ⟪पेचिम⟫
 
-*   1.sg.Ā ⟪पेचे⟫
+*   1.vet.Ā ⟪पेचे⟫
 
-*   1.pl.Ā ⟪पेचिमहे⟫
+*   1.shum.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 40.2.5.3. Tipi i Perfektit Vc: Konsonant-a-Konsonant, rrëzë e dobët Shkallë e lartë
 
-Verben, die diesem Typ folgen:
+Verba që ndjekin këtë tip:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   Të gjitha rrënjët e mbetura me -a- të mesëm
 
 ⟪क्रम्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
+*   1.vet.P ⟪चक्राम । चक्रम⟫
 
 *   1.pl.P ⟪चक्रमिम⟫
 
@@ -327,16 +315,16 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen
+### 40.2.6. Formime të veçanta të Perfektit
 
-⟪विद्⟫ 2P präsentisches Perfekt:
+⟪विद्⟫ 2P perfekt prezentik:
 
 ::: indent
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
 
 *   1.pl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪अह्⟫ 1. Person nuk është i zakonshëm!
 
 ⟪भू⟫ 1P
 
@@ -348,52 +336,52 @@ Verben, die diesem Typ folgen:
 ⟪जि⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
+*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪। जिगय⟫
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Formimi i formave të foljes së personit të parë të perfektit periphrastik (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+Perfekti periphrastik formohet nga:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   rrënjët e nxjerra të foljeve (Kausativ, Desiderativ, Frequentativ, Denominativa), veçanërisht Kausativ
+*   rrënjët që fillojnë me zanor të gjatë (përveç ā)
+*   rrënjët: Zanor (përveç a-)-Konsonant-Konsonant
+*   disa të tjera
+*   te disa rrënjë mund të formohen opsionalisht të dyja format e perfektit: uṣ "digjet", vid "di", jāgṛ "mbaj vigjilencë", daridrā "jam i varfër"
+*   te rrënjët e mëposhtme mund të formohen opsionalisht të dyja format e perfektit dhe gjithashtu perfekti periphrastik është i ripërtërirë, dhe saktësisht me njësinë e ripërtërimit të stamit prezentik:
+*   bhī "kërkohet frika"
+*   bhṛ "mbaj"
+*   hu "ofroj"
+*   hrī "kërkohet turpi"
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
+*   1.sg.Ā ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
 
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
+*   1.pl.Ā ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
 :::
 ⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
 
 ::: indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
+*   1.sg.P ⟪बन्धयां चकर । बन्धयां चकार⟫ (= 3.sg.P) ⟪। बन्धयामास⟫ (= 3.sg.P) ⟪। बन्धयां बभूव⟫ (= 3.sg.P)
 
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+*   1.pl.P ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. Sintaksë për personin e parë (⟪तृतीयः⟫)
 
 ::: grammar-box
-Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
+Meqenëse një folje e përcaktuar (folje e konjuguar) shpreh edhe Agensin (⟪कर्तृ⟫), "unë", "ne" në fjali jo-pasive me folje të përcaktuar nuk duhet shprehur shtesë nga një emër personal.
 :::
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+## 40.5. Emrat personalë (⟪पुरुषार्थकसर्वनाम⟫) i personit të parë në numrin singular dhe plural
 
 ::: grammar-box
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+Forma e emrit personal (fjalës së zëvendësimit) është e njëjtë për të gjitha gjinitë.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br"unë" | ⟪बहुवचनम्⟫ :br"ne" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -405,56 +393,56 @@ Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlech
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
+Format më të shkurtra, që janë në vendin e dytë më sipër (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) nuk duhet përdorur kurrë në fillim të një fjale apo vargu.
 
-Vor den Partikeln ⟪च⟫, ⟪वा⟫, ⟪एव⟫ dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden:
+Para partikave ⟪च⟫, ⟪वा⟫, ⟪एव⟫ këto forma të quajtura enklitike nuk duhet përdorur ashtu:
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... "und mich"
+vetëm: ... ⟪मां च⟫ ... "dhe mua"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
+Gjenitivi (⟪षष्ठी⟫) i emrave personalë përdoret si fjalë zëvendësuese pronor:
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mein"
+⟪मम । मे⟫ = "im"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "unser"
+⟪अस्माकम् । नस्⟫ = "yjmë"
 :::
 ::: grammar-box
-Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
+Si pjesë e parë e kompozitave, për këto emra zëvendësues qëndrojnë rrënjët:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
 
-z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
+p.sh. ⟪मत्पुस्तकम्⟫ "libra ime" ; ⟪अस्मद्पुस्तकानि⟫ "librat tona"
 :::
-## 40.6. Wortliste
+## 40.6. Listë fjalësh
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
+⟪पात्र⟫ n.: I nderuar, Mjeshtër, i Vlerësueshëm
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
+⟪मेधा⟫ f.: Udhëzim, Mendje, Ide
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
+⟪पुस्तक⟫ m.n.: Manuskript, Libër
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : të jetë në rendin e duhur, t'i përshtatet (Lok.); të formohet, të krijojë; të vendoset për diçka, t'i nënshtrohet (Dativ)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : të rregullojë, të krijojë, të formojë në fantazi, të imagjinojë  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+prej tij:
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.: Formimi në mendje, marrja e diçkaje që nuk ekziston në realitet, Fiksim
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (të imagjinosh ndryshe =) të vësh në pyetje, të dyshosh
 
 ::: indent
-davon:
+prej tij:
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.: Alternativë, Dyshim
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ : të godasë
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -464,82 +452,77 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ : të kalojë, të tejkalohet, të shpëtojë nga dikush (Akk. = të tejkalosh dikë)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+prej tij:
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.: Kalim, vend banje i shenjtë, vend pelegrinazhi
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+Fig.: ⟪हरिद्वारे तीर्थम्⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4003))
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m. (nga: ⟪तीर्थम्⟫+ ⟪कृ⟫): Ndërtues kalimi (përtej vuajtjes) = 24 mësuesit e Jainizmit
 :::
-::: media
-![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
-:::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ Parapartikulë: poshtë, nën, larg, zbrit-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : zbres
 
 ::: indent
-davon:
+prej kësaj:
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.: (Zbritës, Zbritje) Inkarnim i një hyjni, veçanërisht i Viṣṇus 10 inkarnime (shih Basham, Mrekulli fq. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+Fig.: ⟪विष्णोर्दशावताराः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : fle, shkon të flijë
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
+Imperfekt ⟪अस्वपीत् । अस्वपत्⟫  
+Perfekt ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
+Futur ⟪स्वप्स्यति⟫  
+Pasiv ⟪सुप्यते⟫ (nga \*svp-ya-te)  
+Kausativ ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫
+Infinitiv ⟪स्वप्तुम्⟫
 
-davon:
+prej kësaj:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ m.: Gjumi, ëndërr
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ f. (nga \*svp-ti): Gjumi, veçanërisht gjumë i thellë
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+Fig.: ⟪स्वपन्ति⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt4004))
 :::
-## 40.7. Übung
+## 40.7. Ushtrim
 
-A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion.
+A) Përktheni ⟪सुभाषितानि⟫ në fillim të mësimit.
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an.
+B) Shndërroni format e mëposhtme verbale në formatet përkatëse të perfektit. Nëse ka mundësi të shumta, ju lutem jepni të gjitha mundësitë.
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
+(Shpjegim i shenjave: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
 3.  ⟪स्रक्ष्यामि⟫
-4.  ⟪स्तुमहे⟫ ⟪अ⟫
+4.  ⟪स्तुमहे अ⟫
 5.  ⟪वर्धामहे⟫
 6.  ⟪आवर्ते⟫
 7.  ⟪सेक्ष्यामि⟫
@@ -556,13 +539,13 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 18.  ⟪वसामः⟫
 19.  ⟪अभवाम⟫
 20.  ⟪अस्यामि⟫
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫
-22.  ⟪कल्पामहे⟫ ⟪इ⟫
+21.  ⟪अबिभ्रि अ⟫
+22.  ⟪कल्पामहे इ⟫
 23.  ⟪त्यज्यामि⟫
 24.  ⟪अतरम्⟫
 25.  ⟪चिन्मः⟫
 26.  ⟪पृच्छामः⟫
-27.  ⟪अनश्याम⟫ ⟪इ⟫
+27.  ⟪अनश्याम इ⟫
 28.  ⟪चरामः⟫
 29.  ⟪अवदाम⟫
 30.  ⟪शोचयामः⟫
@@ -574,12 +557,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ⟪मन्ये⟫
 37.  ⟪स्वपिमः⟫
 38.  ⟪पामि⟫
-39.  ⟪शृणुमः⟫ ⟪अ⟫
+39.  ⟪शृणुमः अ⟫
 40.  ⟪अतुदम्⟫
 41.  ⟪अमिम⟫
 42.  ⟪तिष्ठामि⟫
 43.  ⟪अवहाम⟫
-44.  ⟪अकुर्महि⟫ ⟪अ⟫
+44.  ⟪अकुर्महि अ⟫
 45.  ⟪जहीमः⟫
 46.  ⟪अस्पृशम्⟫
 47.  ⟪नेष्यामः⟫
@@ -588,9 +571,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (geht nach Typ Vb)
+53.  ⟪अभजाम⟫ (ndjek tipin Vb)
 54.  ⟪जेष्यामः⟫
-55.  ⟪आसे⟫ (periphrast.)
+55.  ⟪आसे⟫ (perifrazuar)
 56.  ⟪विन्दामः⟫
 57.  ⟪धक्ष्यामः⟫
 58.  ⟪शक्नुमः⟫
@@ -606,44 +589,44 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Ushtrim përsëritës për morfologjinë
 
-1.  ⟪ददे⟫
-2.  ⟪ददते⟫
-3.  ⟪पापे⟫
-4.  ⟪आसे⟫
-5.  ⟪एते⟫
-6.  ⟪इते⟫
-7.  ⟪इतः⟫
-8.  ⟪यतः⟫
-9.  ⟪यते⟫
-10.  ⟪ईयते⟫
-11.  ⟪यत्⟫
-12.  ⟪यदा⟫
-13.  ⟪अस्तुवि⟫
-14.  ⟪अस्तुवति⟫
-15.  ⟪अस्तवीत्⟫
-16.  ⟪ब्रह्मिणः⟫
-17.  ⟪ब्रह्मणः⟫
-18.  ⟪ब्राह्मणः⟫
-19.  ⟪लभे⟫
-20.  ⟪लाभे⟫
-21.  ⟪लेभे⟫
-22.  ⟪लोभे⟫
-23.  ⟪काश्चन⟫
-24.  ⟪तन्त्रे⟫
-25.  ⟪तत्र⟫
-26.  ⟪मनौ⟫
-27.  ⟪मेने⟫
-28.  ⟪सत्स्यामि⟫
-29.  ⟪वेत्स्यामः⟫
-30.  ⟪कच्चित्⟫
-31.  ⟪तत्त्यागः⟫
-32.  ⟪तत्याज⟫
-33.  ⟪विद्ये⟫
-34.  ⟪विद्याम्⟫
-35.  ⟪एनेन⟫
-36.  ⟪ऐक्षे⟫
-37.  ⟪आह⟫
-38.  ⟪आहन्⟫
+1. ⟪ददे⟫
+2. ⟪ददते⟫
+3. ⟪पापे⟫
+4. ⟪आसे⟫
+5. ⟪एते⟫
+6. ⟪इते⟫
+7. ⟪इतः⟫
+8. ⟪यतः⟫
+9. ⟪यते⟫
+10. ⟪ईयते⟫
+11. ⟪यत्⟫
+12. ⟪यदा⟫
+13. ⟪अस्तुवि⟫
+14. ⟪अस्तुवति⟫
+15. ⟪अस्तवीत्⟫
+16. ⟪ब्रह्मिणः⟫
+17. ⟪ब्रह्मणः⟫
+18. ⟪ब्राह्मणः⟫
+19. ⟪लभे⟫
+20. ⟪लाभे⟫
+21. ⟪लेभे⟫
+22. ⟪लोभे⟫
+23. ⟪काश्चन⟫
+24. ⟪तन्त्रे⟫
+25. ⟪तत्र⟫
+26. ⟪मनौ⟫
+27. ⟪मेने⟫
+28. ⟪सत्स्यामि⟫
+29. ⟪वेत्स्यामः⟫
+30. ⟪कच्चित्⟫
+31. ⟪तत्त्यागः⟫
+32. ⟪तत्याज⟫
+33. ⟪विद्ये⟫
+34. ⟪विद्याम्⟫
+35. ⟪एनेन⟫
+36. ⟪ऐक्षे⟫
+37. ⟪आह⟫
+38. ⟪आहन्⟫
 

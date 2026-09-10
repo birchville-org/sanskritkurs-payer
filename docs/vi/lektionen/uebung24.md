@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 24"
 uebung_id: 24
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,155 +7,149 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 24
+# Bài tập 24
 
-A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) Hãy tạo cách Dative số ít và cách Dative (hoặc Ablativ) số nhiều, đồng thời cho biết ý nghĩa của gốc danh từ:
 
 ::: grammar-box
-| Wort | Bedeutung | Dativ Sg. | Dativ Pl. |
+| Từ | Ý nghĩa | Dative Sg. | Dative Pl. |
 | :--- | :--- | :--- | :--- |
-| ⟪१⟫. ⟪श्रव⟫ | Hören | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
-| ⟪२⟫. ⟪भवन⟫ | Werden | ⟪भवाय⟫ | ⟪भवनेभ्यः⟫ |
-| ⟪३⟫. ⟪गति⟫ (f.) | Weg, Ziel | ⟪गतये⟫ / ⟪गत्यै⟫ | ⟪गतिभ्यः⟫ |
-| ⟪४⟫. ⟪ऋषि⟫ | ved. Weiser | ⟪ऋषये⟫ | ⟪ऋषिभ्यः⟫ |
-| ⟪५⟫. ⟪सुख⟫ | Glück | ⟪सुखाय⟫ | ⟪सुखेभ्यः⟫ |
-| ⟪६⟫. ⟪गमन⟫ | Gehen | ⟪गमनाय⟫ | ⟪गमनेभ्यः⟫ |
-| ⟪७⟫. ⟪जय⟫ | Sieg | ⟪जयाय⟫ | ⟪जयेभ्यः⟫ |
-| ⟪८⟫. ⟪साधु⟫ | gut | ⟪साधवे⟫ (m.) / ⟪साध्व्यै⟫ (f.) | ⟪साधुभ्यः⟫ / ⟪साध्वीभ्यः⟫ |
-| ⟪९⟫. ⟪धेनु⟫ (f.) | Milchkuh | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यः⟫ |
-| ⟪१०⟫. ⟪शूद्रा⟫ | Śūdrafrau | ⟪शूद्रायै⟫ | ⟪शूद्राभ्यः⟫ |
-| ⟪११⟫. ⟪ब्राह्मणी⟫ | Brahmanin | ⟪ब्राह्मण्यै⟫ | ⟪ब्राह्मणीभ्यः⟫ |
-| ⟪१२⟫. ⟪अग्नि⟫ | Feuer | ⟪अग्न⟫ye | ⟪अग्निभ्यः⟫ |
-| ⟪१३⟫. ⟪एतद्⟫ | dieses | ⟪एतस्मै⟫ (m/n) / ⟪एतस्यै⟫ (f) | ⟪एतेभ्यः⟫ / ⟪एताभ्यः⟫ |
-| ⟪१४⟫. ⟪सन्त्⟫ | seiend, wahr | ⟪सते⟫ (m/n) / ⟪सत्यै⟫ (f) | ⟪सद्भ्यः⟫ / ⟪सतीभ्यः⟫ |
-| ⟪१५⟫. ⟪बुद्धिमन्त्⟫ | einsichtig | ⟪बुद्धिमते⟫ (m/n) / ⟪बुद्धिमत्यै⟫ (f) | ⟪बुद्धिमद्भ्यः⟫ / ⟪बुद्धिमतीभ्यः⟫ |
-| ⟪१६⟫. ⟪यज्ञ⟫ | Opfer | ⟪यज्ञाय⟫ | ⟪यज्ञेभ्यः⟫ |
-| ⟪१७⟫. ⟪वचन⟫ | Sprechen | ⟪वचनाय⟫ | ⟪वचनेभ्यः⟫ |
-| ⟪१८⟫. ⟪सत्यवन्त्⟫ | wahrhaftig | ⟪सत्यवते⟫ | ⟪सत्यवद्भ्यः⟫ |
-| ⟪१९⟫. ⟪स्मृति⟫ (f.) | Überlieferung | ⟪स्मृतये⟫ / ⟪स्मृत्यै⟫ | ⟪स्मृतिभ्यः⟫ |
-| ⟪२०⟫. ⟪सर्ग⟫ | Schöpfung | ⟪सर्गाय⟫ | ⟪सर्गेभ्यः⟫ |
-| ⟪२१⟫. ⟪स्वर्ग⟫ | Himmel | ⟪स्वर्गाय⟫ | ⟪स्वर्गेभ्यः⟫ |
-| ⟪२२⟫. ⟪दर्शन⟫ | Sehen | ⟪दर्शनाय⟫ | ⟪दर्शनेभ्यः⟫ |
-| ⟪२३⟫. ⟪सृष्टि⟫ (f.) | Schöpfung | ⟪सृष्टये⟫ / ⟪सृष्ट्यै⟫ | ⟪सृष्टिभ्यः⟫ |
-| ⟪२४⟫. ⟪अर्हन्त्⟫ | würdig | ⟪अर्हते⟫ | ⟪अर्हद्भ्यः⟫ |
-| ⟪२५⟫. ⟪भक्ति⟫ (f.) | Hingabe | ⟪भक्तये⟫ / ⟪भक्त्यै⟫ | ⟪भक्तिभ्यः⟫ |
-| ⟪२६⟫. ⟪दोष⟫ | Fehler | ⟪दोषाय⟫ | ⟪दोषेभ्यः⟫ |
-| ⟪२७⟫. ⟪पूजा⟫ | Verehrung | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
-| ⟪२८⟫. ⟪दासी⟫ | Dienerin | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
-| ⟪२९⟫. ⟪गुरु⟫ | Meister | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
+| ⟪१⟫. ⟪श्रव⟫ | Nghe | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
+| ⟪२⟫. ⟪भवन⟫ | Trở thành | ⟪भवाय⟫ | ⟪भवनेभ्यः⟫ |
+| ⟪३⟫. ⟪गति⟫ (f.) | Đường, Mục tiêu | ⟪गतये⟫ / ⟪गत्यै⟫ | ⟪गतिभ्यः⟫ |
+| ⟪४⟫. ⟪ऋषि⟫ | Veda: Hiền nhân | ⟪ऋषये⟫ | ⟪ऋषिभ्यः⟫ |
+| ⟪५⟫. ⟪सुख⟫ | Hạnh phúc | ⟪सुखाय⟫ | ⟪सुखेभ्यः⟫ |
+| ⟪६⟫. ⟪गमन⟫ | Đi | ⟪गमनाय⟫ | ⟪गमनेभ्यः⟫ |
+| ⟪७⟫. ⟪जय⟫ | Chiến thắng | ⟪जयाय⟫ | ⟪जयेभ्यः⟫ |
+| ⟪८⟫. ⟪साधु⟫ | Tốt | ⟪साधवे⟫ (m.) / ⟪साध्व्यै⟫ (f.) | ⟪साधुभ्यः⟫ / ⟪साध्वीभ्यः⟫ |
+| ⟪९⟫. ⟪धेनु⟫ (f.) | Bò cái cho sữa | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यः⟫ |
+| ⟪१०⟫. ⟪शूद्रा⟫ | Phụ nữ Śūdra | ⟪शूद्रायै⟫ | ⟪शूद्राभ्यः⟫ |
+| ⟪११⟫. ⟪ब्राह्मणी⟫ | Người Brahman | ⟪ब्राह्मण्यै⟫ | ⟪ब्राह्मणीभ्यः⟫ |
+| ⟪१२⟫. ⟪अग्नि⟫ | Lửa | ⟪अग्न⟫ye | ⟪अग्निभ्यः⟫ |
+| ⟪१३⟫. ⟪एतद्⟫ | Cái này | ⟪एतस्मै⟫ (m/n) / ⟪एतस्यै⟫ (f) | ⟪एतेभ्यः⟫ / ⟪एताभ्यः⟫ |
+| ⟪१४⟫. ⟪सन्त्⟫ | Hiện hữu, Chân thật | ⟪सते⟫ (m/n) / ⟪सत्यै⟫ (f) | ⟪सद्भ्यः⟫ / ⟪सतीभ्यः⟫ |
+| ⟪१५⟫. ⟪बुद्धिमन्त्⟫ | Sáng suốt | ⟪बुद्धिमते⟫ (m/n) / ⟪बुद्धिमत्यै⟫ (f) | ⟪बुद्धिमद्भ्यः⟫ / ⟪बुद्धिमतीभ्यः⟫ |
+| ⟪१६⟫. ⟪यज्ञ⟫ | Lễ tế | ⟪यज्ञाय⟫ | ⟪यज्ञेभ्यः⟫ |
+| ⟪१७⟫. ⟪वचन⟫ | Nói | ⟪वचनाय⟫ | ⟪वचनेभ्यः⟫ |
+| ⟪१८⟫. ⟪सत्यवन्त्⟫ | Trung thực | ⟪सत्यवते⟫ | ⟪सत्यवद्भ्यः⟫ |
+| ⟪१९⟫. ⟪स्मृति⟫ (f.) | Truyền thống | ⟪स्मृतये⟫ / ⟪स्मृत्यै⟫ | ⟪स्मृतिभ्यः⟫ |
+| ⟪२०⟫. ⟪सर्ग⟫ | Sự sáng tạo | ⟪सर्गाय⟫ | ⟪सर्गेभ्यः⟫ |
+| ⟪२१⟫. ⟪स्वर्ग⟫ | Bầu trời | ⟪स्वर्गाय⟫ | ⟪स्वर्गेभ्यः⟫ |
+| ⟪२२⟫. ⟪दर्शन⟫ | Nhìn thấy | ⟪दर्शनाय⟫ | ⟪दर्शनेभ्यः⟫ |
+| ⟪२३⟫. ⟪सृष्टि⟫ (f.) | Sự sáng tạo | ⟪सृष्टये⟫ / ⟪सृष्ट्यै⟫ | ⟪सृष्टिभ्यः⟫ |
+| ⟪२४⟫. ⟪अर्हन्त्⟫ | Đáng | ⟪अर्हते⟫ | ⟪अर्हद्भ्यः⟫ |
+| ⟪२५⟫. ⟪भक्ति⟫ (f.) | Sự dâng hiến | ⟪भक्तये⟫ / ⟪भक्त्यै⟫ | ⟪भक्तिभ्यः⟫ |
+| ⟪२६⟫. ⟪दोष⟫ | Lỗi lầm | ⟪दोषाय⟫ | ⟪दोषेभ्यः⟫ |
+| ⟪२७⟫. ⟪पूजा⟫ | Sự tôn kính | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
+| ⟪२८⟫. ⟪दासी⟫ | Người nữ tỳ | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
+| ⟪२९⟫. ⟪गुरु⟫ | Thầy giáo | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
 :::
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Dịch và phân tích các hợp danh (compound words) trong tiếng Phạn:
 
-⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
-(⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
-Der Brahmane betritt das innere Heiligtum, um das Götterbildnis zu sehen.
+⟪१⟫. **⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विश⟫ati ⟪॥१॥⟫**
+(⟪देवस्य प्रतिमाया दर्शनाय । गर्भ एव गृहम्⟫)
+Vị Brahman bước vào nơi thánh tích bên trong để chiêm ngưỡng tượng thần.
 
-⟪२⟫. **⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫**
-(⟪धनस्य⟫ ⟪लाभाय⟫)
-Menschen halten Gelübde, um reich zu werden.
+⟪२⟫. **⟪नरा धनलाभाय व्रतानि चरन्ति ॥२॥⟫**
+(⟪धनस्य लाभाय⟫)
+Con người thực hiện lời thệ nguyện để trở nên giàu có.
 
-⟪३⟫. **⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫**
+⟪३⟫. **⟪गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥⟫**
 (⟪धर्मस्योपदेशाय⟫)
-Der Meister ist in die Stadt gegangen, um Dharma zu unterrichten.
+Người thầy đã đi vào thành phố để giảng dạy Dharma.
 
-⟪४⟫. **⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫**
-(⟪गुरोर्वचनस्य⟫ ⟪श्रुत्यै⟫)
-Auch die Kinder sind in die Stadt gegangen, um die Rede des Meisters zu hören.
+⟪४⟫. **⟪बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥⟫**
+(⟪गुरोर्वचनस्य श्रुत्यै⟫)
+Ngay cả những đứa trẻ cũng đã đi vào thành phố để nghe lời dạy của người thầy.
 
-⟪५⟫. **⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫**
-(⟪देवस्य⟫ ⟪प्रतिमायै⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
-Das innere Heiligtum ist ein Gebäude fürs Götterbild.
+⟪५⟫. **⟪देवप्रतिमायै गृहं गर्भगृहम् ॥५॥⟫**
+(⟪देवस्य प्रतिमायै । गर्भ एव गृहम्⟫)
+Nơi thánh tích bên trong là một ngôi nhà dành cho tượng thần.
 
-⟪६⟫. **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫**
-Menschen wollen um der Himmel willen Verdienstvolles tun.
+⟪६⟫. **⟪स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥⟫**
+Con người muốn làm những việc công đức vì lợi ích của thiên đường.
 
-⟪७⟫. **⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫**
-(⟪मोक्षस्यार्थम्⟫ ⟪।⟫ ⟪बुद्धं⟫ ⟪गताः⟫ ⟪।⟫ ⟪बुद्धेराप्तिम्⟫)
-Um erlöst zu werden, wollen Einsichtige erlösende Einsicht erlangen.
+⟪७⟫. **⟪मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥⟫**
+(⟪मोक्षस्यार्थम् । बुद्धं गताः । बुद्धेराप्तिम्⟫)
+Để được giải thoát, những người có trí muốn đạt được sự giác ngộ mang lại sự giải thoát.
 
-⟪८⟫. **⟪देवास्तेभ्यो⟫ ⟪ऽकृतपुजाब्रामणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫**
-(⟪न⟫ ⟪कृता⟫ ⟪पूजा⟫ ⟪यैस्तेभ्यो⟫ ⟪ब्राह्मणेभ्यः⟫)
-Die Götter zürnen diesen Brahmanen, die ihnen keine Verehrung zollten.
+⟪८⟫. **⟪देवास्तेभ्यो ऽकृतपुजाब्रामणेभ्यः क्रुध्यन्ति ॥८॥⟫**
+(⟪न कृता पूजा यैस्तेभ्यो ब्राह्मणेभ्यः⟫)
+Các vị thần giận dữ những vị Brahman này, vì họ không dâng cúng lễ vật cho các ngài.
 
-⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
-Um zu sterben, werden Lebewesen geboren.
+⟪९⟫. **⟪मरणाय जना जायन्ते ॥९॥⟫**
+Để chết, chúng sinh được sinh ra.
 
 ::: media
 ![](/images/uebung037.webp)
-Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
-(Bildquelle: [Details](/licenses#uebung037))
+Minh họa: ⟪मरणाय जना जायन्ते⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung037))
 :::
 ---
 
-## Syntaktische Variationen
+## Các biến thể cú pháp
 
-C) Ersetzen Sie in den Sätzen B) 1–4 die Dative durch Infinitive (⟪तुमुन्⟫):
+C) Thay thế các cách tân ngữ trong các câu B) 1–4 bằng động từ nguyên mẫu (⟪तुमुन्⟫):
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪देवप्रतिमां⟫ ⟪द्रष्टुं⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥⟫
+⟪१⟫. ⟪ब्राह्मणो देवप्रतिमां द्रष्टुं गर्भगृहं विशति ॥ २⟫. ⟪नरा धनं लब्धुं व्रतानि चरन्ति ॥ ३⟫. ⟪गुरुर्धर्ममुपदेष्टुं नगरं गतः ॥ ४⟫. ⟪बाला अपि गुरुवचनं श्रोतुं नगरं गताः ॥⟫
 
-⟪२⟫. ⟪नरा⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥⟫
+D) Thay thế cấu trúc với **-⟪अर्थ⟫** trong câu B) 7 bằng một cách tân ngữ:
+**⟪मोक्षाय बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥⟫**
 
-⟪३⟫. ⟪गुरुर्धर्ममुपदेष्टुं⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥⟫
-
-⟪४⟫. ⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥⟫
-
-D) Ersetzen Sie in Satz B) 7 die Konstruktion mit **-⟪अर्थ⟫** durch einen Dativ:
-**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫**
-
-E) Ersetzen Sie in Satz B) 6 den Dativ durch eine Konstruktion mit **-⟪अर्थ⟫**:
-**⟪स्वर्गार्थं⟫ (oder: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥⟫**
+E) Thay thế cách tân ngữ trong câu B) 6 bằng một cấu trúc với **-⟪अर्थ⟫**:
+**⟪स्वर्गार्थं⟫ (hoặc: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः पुण्यं कर्तुमिच्छन्ति ॥⟫**
 
 ---
 
-## Zusätzliche Übersetzungsübungen
+## Các bài tập dịch thêm
 
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (oder: ⟪कुप्यति⟫ ⟪॥⟫)**
+1\. Nữ thần, người không được hiến tế, giận dữ với con người.
+**⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (hoặc: ⟪कुप्यति ॥⟫)**
 
-2\. Er lässt die Kuh ins Dorf los.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
+2\. Anh ấy thả con bò vào làng.
+**⟪ग्रामाय धेनुं मुञ्चति ॥⟫**
 
-3\. Jetzt reichts! (Genug mit der Geduld!)
-**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
+3\. Đủ rồi! (Thôi hết kiên nhẫn!)
+**⟪अलं क्षमया ॥⟫**
 
-4\. Das ist gut für einen Brahmanen.
-**⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (oder: ⟪हितम्⟫ ⟪॥⟫)**
+4\. Điều đó tốt cho một người Bà-la-môn.
+**⟪एतद्ब्राह्मणाय सुखम् ।⟫ (hoặc: ⟪हितम् ॥⟫)**
 
-5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
-**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫**
+5\. Tôn kính Śiva! Tôn kính Śrī Gaṇeśa!
+**⟪शिवाय नमः । श्रीगणेशाय नमः ॥⟫**
 
-6\. Auf Wiedersehen! (Wohlergehen Ihnen!)
-**⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (oder: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)**
+6) Tạm biệt! (Chúc bạn an lành!)
+**⟪स्वस्ति भवते ।⟫ (hoặc: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः ॥⟫)**
 
-7\. Diese Frucht reicht zum Essen.
-**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫**
+7\. Quả này đủ để ăn.
+**⟪इदं फलं अलं खादनाय ॥⟫**
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen.
-**⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
+8\. Một chiến binh ngang tài với (chiến binh kia).
+**⟪शक्तो योधो योधाय ॥⟫**
 
-9\. Selbst Viṣṇu übertrifft Śiva nicht.
-**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
+9\. Ngay cả Viṣṇu cũng không vượt qua được Śiva.
+**⟪विष्णुरपि शिवाय न प्रभवति ॥⟫**
 
-10\. Nachdem ich mich vor den drei Weisen verbeugt habe... Er verbeugt sich vor Narasiṃha.
-**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
+10\. Sau khi tôi cúi chào ba vị thánh nhân... Anh ấy cúi chào Narasiṃha.
+**⟪मुनित्रयं नमस्कृत्य⟫... ⟪। नरसिंहाय नमस्करोति ॥⟫**
 
-11\. Willkommen Ihnen! Willkommen der Königin!
-**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
+11. Chào mừng quý vị! Chào mừng Hoàng hậu!
+**⟪स्वागतं भवद्भ्यः । स्वागतं देव्यै ॥⟫**
 
-12\. Ich wünsche Ihnen Wohlergehen!
-**⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫**
+12. Tôi chúc quý vị sức khỏe tốt!
+**⟪भवद्भ्यः कुशलम् ॥⟫**
 
-13\. Er betrachtet ihn nicht als Grashalm.
-**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
+13. Ông ấy không xem ông ta như một cọng cỏ.
+**⟪न तं तृणाय मन्यते ॥⟫**
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
-**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**
+14. Chỉ cần một quả để ăn và nước để uống là đủ.
+**⟪अलं फलं खादनाय पानाय जलम् ॥⟫**
 
-15\. Auf Wiedersehen! (Neusanskrit)
-**⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
+15. Tạm biệt! (Tiếng Phạn hiện đại)
+**⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
 ![](/images/uebung038.webp)
-Abb.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
-(Bildquelle: [Details](/licenses#uebung038))
+Hình: ⟪इदं फलं अलं खादनाय⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung038))
 :::

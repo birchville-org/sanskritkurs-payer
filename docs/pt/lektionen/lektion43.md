@@ -1,10 +1,11 @@
 ---
-title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+title: "Lição 43"
+subtitle: 'Desinências pessoais da segunda pessoa (⟪मध्यमः⟫ = \"pessoa média\")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 43
@@ -139,7 +140,7 @@ As formas ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ não podem ser usada
 ::: media
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4302))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: rápido, apressado
 
@@ -148,7 +149,7 @@ Fig.: ⟪आपणः⟫
 ::: media
 ![](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4303))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4303))
 :::
 ⟪आम्⟫ : sim
 
@@ -171,14 +172,14 @@ Fig.: ⟪पण्यानि⟫
 ::: media
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4304))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: comerciante
 
 ::: media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4305))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: o melhor
 
@@ -189,7 +190,7 @@ Fig.: ⟪वणिक्⟫
 ::: media
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
-(Fonte da imagem: [Details](/licenses#lekt4306))
+(Fonte da imagem: [Details](/pt/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: supremo, o melhor
 
@@ -210,7 +211,7 @@ Fig.: ⟪वत्सः⟫
 ::: media
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलन्ति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4307))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: papel
 

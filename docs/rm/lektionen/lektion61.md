@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Lecziun 61"
+subtitle: "Declinaziun dals nomina da radis cun -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 61
 
-## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū
+## 61.1. Declinaziun dals nouns da radich cun la desinenza -ā, -ī, -ū
 
-### 61.1.1. Noms da radis cun la desinenza -ā a la fin da ⟪तत्पुरुष⟫
+### 61.1.1. Nouns da radich cun la desinenza -ā a la fin da ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Avend las finizials vocalicas, la vocala dal stem ha en ils casus debils il stadi da svanament Ø.**
+**Avant desinenzas vocalicas ha la voca dal stem en ils casus debils il stadi da reducziun Ø.**
 
 **La declinaziun en il masculin ed il feminin è identica.**
 :::
 Paradigma:
 
-⟪विश्वपा⟫ m.f. "quai protegia tut"
+⟪विश्वपा⟫ m.f. "quai che protegia tut"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Radisnomina auf -ī
+### 61.1.2. Nouns da radich feminins cun la desinenza -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Avant ina desinenza vocalica vegn -ī sustituid cun -iy.**
 
-**Nebens las furmas cun las terminaziuns regularas dal casus sa preschentan en il dativ, ablativ, genitiv e locativ singular, sco er en il genitiv plural, era furmas suenter il model da feminins plurisilbics cun -ī (⟪देवी⟫).**
+**Naschidas da las formas regularas cun las desinenzas casuales, vegnan en il dat.ab.gen.loc.sg. ed il gen.pl. er formas suandont il model da nouns feminins plurisilbics cun la desinenza -ī (⟪देवी⟫). **
 :::
 Paradigma:
 
-⟪धी⟫ f. "Gedanke"
+⟪धी⟫ f. "pensament"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Irregulär: ⟪स्त्री⟫ f. "Frau"
+Irregular: ⟪स्त्री⟫ f. "donna"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -69,21 +70,21 @@ Irregulär: ⟪स्त्री⟫ f. "Frau"
 ::: media
 ![](/images/lekt6102.webp)
 Fig.: ⟪स्त्रियः⟫
-(Imaggina da: [Detagls](/rm/licenses#lekt6102))
+(Fonte da figura: [Detalles](/rm/licenses#lekt6102))
 :::
-### 61.1.3. Noms da radis cun -ī a la fin da ⟪तत्पुरुष⟫
+### 61.1.3. Nomi radicali con -ī alla fine di ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Davant da finals vocalics vegn -ī sustituid cun -y, sche suletta ina consonanta che appartegna a la radis precedescha. Sche pliras consonantas che appartegnan a la radis precedeschan, vegn il -ī avant final vocalic sustituid cun -iy.**
+**Davanti a desinenze vocaliche, -ī vegn sutituid da -y, sche suletta ina consonanta che appartegna a la radizica precedescha. Sche pliras consonantas da la radizica precedeschan, vegn il -ī davant ina desinenza vocalica sutituid da -iy.**
 
-**La declinaziun è identica en il masculin ed en il feminin.**
+**La declinaziun è identica en il masculin ed il feminin.**
 
-**Irregolaritad: Cumposts cun -⟪:sig[⟪नी⟫] "ducent" han en loc. sg la finiziun -ām ( sco ⟪देवी⟫):**
-ex. ⟪ग्रामणी⟩ "ina schiera/ina vischnanca ducenta": loc. sg.m.f. ⟪ग्रामण्याम्⟫
+**Irregularitad: Compositums cun -⟪नी⟫ "che ducescha" han en il locativ singular la desinenza -ām ( sco ⟪देवी⟫):**
+p.ex. ⟪ग्रामणी⟫ "che ducescha ina schiera/vila": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmas:
 
-⟪शुद्धधी⟫, m., f. "Cler pensà"
+⟪शुद्धधी⟫ m., f. "pensond pur"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -95,7 +96,7 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
 | ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫, m., f. "che ch'è vendì"
+⟪यवक्री⟫ m., f. "cumprondì orz"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Radisnomina auf -ū
+### 61.1.4. Monosyllabic, feminin radix nouns ending in -ū
 
 ::: grammar-box
-**Radix avant vocal: -uv**
+**Stem before vowel: -uv**
 
-**Deklination analog zu den femininen Radisnomina auf -ī**
+**Declension analogous to the feminine radix nouns ending in -ī**
 :::
-Paradigma:
+Paradigm:
 
-⟪भू⟫ f. "Terra"
+⟪भू⟫ f. "terra"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Nomi radicalis cun finala -ū a la fin da ⟪तत्पुरुष⟫
+### 61.1.5. Radix nouns ending in -ū at the end of ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Davant da finals vocalics vegn -ū sustituid cun -v, sche suletta ina consonanta che appartegna a la radis precedescha. Sche pliras consonantas che appartegnan a la radis precedeschan, vegn il -ū avant final vocalic sustituid cun -uv.**
+**Before vocalic endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, -ū before a vocalic ending is replaced by -uv.**
 
-**La declinaziun è identica en il masculin e il feminin.**
+**The declension is identical in the masculine and feminine.**
 :::
-Paradigma:
+Paradigm:
 
-⟪खलपू⟫, m., f. "che turna il granai"
+⟪खलपू⟫ m., f. "sweeping the barn"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,14 +152,13 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Fig.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Fonte da l'imagina: [Detagls](/rm/licenses#lekt6106))
+Fig.: ⟪रथ्याप्वः काशीपुर⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt6106))
 :::
-### 61.1.6. Declinaziun da femininas plurisillabicas sin -ū
+### 61.1.6. Declinaziun da feminins plurisilbics cun -ū
 
 ::: grammar-box
-**Feminina plurisilbicas en -ū declinantur analoge ad stellas plurisilbicas en -ī (⟪देवी⟫), sed terminantur in Nom. sg. en -s.**
+**Feminins plurisilbics cun -ū vegnan declinads analogamain a stems plurisilbics cun -ī (⟪देवी⟫), ma els finischan en il Nom. sg. cun -s.**
 :::
 Paradigma:
 
@@ -177,20 +177,19 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Imm.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Sursa d’imagine: [Detagls](/rm/licenses#lekt6107))
+Fig.: ⟪वध्वौ जोधपुर⟫
+(Fonte da figura: [Detalles](/rm/licenses#lekt6107))
 :::
 ## 61.2. Il futur perifrastic (⟪लुट्⟫)
 
 ::: grammar-box
-**Nebèl il futur simpel (⟪ऌत्⟫) dat in futur perifrastic (⟪लुट्⟫). Suonda la dotrina dals grammatichers nativs vegn el duvrà per designar il futur lunsch ("suenter il di actual"), mentrà che il futur simpel designa il futur proxim ("en il di actual"). En il sanscrit classic pareva betg vegnir fatg ina differenza en l'utilisaziun dals dus futurs.**
+**Naven dal futur simpel (⟪ऌत्⟫) exista in futur perifrastic (⟪लुट्⟫). Suenter la dottrina dals grammaticists nativs vegn el duvrà per designar il futur lunsch ("suenter il di actual"), mentrachel futur simpel designa il futur curt ("en il di actual"). En il sanscrit classic pareva per ordinari betg ina differenza en l'usi dals dus futurs.**
 
 **Furmaziun:**
 
-**Il futur perifrastic vegn format cun la cumbinaziun d’in nomen agentis sin -tṛ cun il present da ⟪अस्⟫ 2. Sco terza persuna serva il nomen simpel en il num correspundent, senza distincziun dal gender gramatical. En las cumbinaziuns cun ⟪अस्⟫ ha il nomen en tut las persunas e numerus la forma dal nom.sg. sin -tā.**
+**Il futur perifrastic vegn furmà tras la cumbinaziun d'in nomen agentis cun -tṛ cun il present da ⟪अस्⟫ 2. Sco terza persuna serva il nomen simpel en la numeraziun correspundenta, senza distincziun dal gener grammatical. En las cumbinaziuns cun ⟪अस्⟫ ha il nomen en tut las persunas e numerus la forma dal Nom.sg. cun -tā.**
 :::
-Las desinentzas dal futur perifrastic èn donc:
+Las terminaziuns dal futur perifrastic èn doncas:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,15 +200,15 @@ Las desinentzas dal futur perifrastic èn donc:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Furma da la radis: La radis ha en general la medema furma sco en il futur simplifitgà. Quai vala er per la vocala da cunvegna -i-.**
+**Forma da la radis: La radis ha en general la medema forma sco en il futur simpl. Quai vala er per la vocala da giunchtiun -i-.**
 :::
-Exempels:
+Exemples:
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ ecc. |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. |
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ ecc. |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ ecc. |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ ecc. |
 
 Paradigma:
 
@@ -219,79 +218,70 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | :sig[⟪दाताहे⟫] | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Molten vegn il verb ⟪अस्⟫ raramain separà dal stem nominal.**
+**Molto raramain vegn il verb ⟪अस्⟫ separà dal stem nominal.**
 :::
-## 61.3. L'Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. L'intensivum (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Da mintga radutschabla radicha cun consonanta iniciala da las nov primarias classes da present pon esser format in intensivum (⟪चर्करीतम्⟫); quai vul dir: cun paucs excepziuns pon radischas cun duas silbas (p.ex. ⟪जागृ⟫), radischas cun vocala iniciala e radischas da la decima classa da present (⟪चुरादिगण⟫) betg esser format in intensivum.**
+**Da mintga radiz da la emprimas nov classes da presens, che cumenza cun consonant e consista d’ina sillaba, po vegnir format in intensivum (⟪चर्करीतम्⟫); quai vul dir: cun paucs excepziuns na po nagin intensivum vegnir format da radizes bilsilbicas (p.ex. ⟪जागृ⟫), radizes che cumenza cun vocala e radizes da la decima classa da presens (⟪चुरादिगण⟫).**
 
-**Il significà dal intensivum è:**
+**L’intensivum significatescha:**
 
-*   **che ina persuna u ina chosa fa or suffa adina e puspè quai ch'è exprimmì per la radis**  
-:::
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa adina e puspè"
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el è (devè) spès"
-:::
+*   **che ina persuna u chaussa fa u suffa repetidamain quai, che vegn exprimaì da la radiz**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa repetidamain"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "el è (devien) spess"  
 
-*   **che ina persuna u ina cosa fa intensivamain u sufrisca quai ch'è exprimmì per la radis:**  
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa intensivamain, el fa cumpetentamain"
-:::
+*   **che ina persuna u chaussa fa u suffa intensivamain quai, che vegn exprimaì da la radiz:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "el fa intensivamain, el fa competentamain"  
 
-*   **a radich che expriman in moviment, il intensiv exprima il moviment curv:**  
-::: indent
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el va en curvas" (NICHT: "el va spess")
-:::
+*   **tar radizes che expriman in moviment, significatescha l’intensivum il moviment curvà:**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "el va en curvas" (NAGIN: "el va spess")  
 
-*   **en cunzertas radis (enumeraziun: Kielhorn, Grammatik § 458b) significat l'intensivum blaim:**  
-::: indent
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el tacla mal"
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el sa s'attatga mal"
+*   **tar quai ch’è ina radiz (enumeraziun: Kielhorn, Grammatica § 458b) significatescha l’intensivum la reprimenda:**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "el tacla mal"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "el sa metta mal"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Fig.: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Sursa d'imagines: [Detagls](/rm/licenses#lekt6104))
+(Font da l’imagine: [Detagls](/rm/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**La furmaziun dal intensivum:**
+**Formatiun da l’intensivum:**
 
-**Existan duas tipus da furmaziun dal intensivum:**
+**Existan dus tipps da formatiun per l’intensivum:**
 
-*   **Ātmanepada-Intensivum**
-*   **Parasmaipada-Intensivum**
+*   **Intensivum da Ātmanepada**
+*   **Intensivum da Parasmaipada**
 
-**Ambedus vegnan da la radis cun reduplicaziun forta e cun reduplicaziun. Ambedus na differeschan betg en il significà. Ambedus pon vegnir formads per las medemas radis.**
+**Ambduas vegnan formatas da la radiz reduplicada cun la reduplicaziun ferma. Ambduas na differeschan betg en il significà. Ambduas pon vegnir formadas per las medemas radizes.**
 :::
-### 61.3.1. Intensivum en Ātmanepada
+### 61.3.1. Intensivum da l’Ātmanepada
 
 ::: grammar-box
-**Educaziun:**
+**Construcziun:**
 
-**reduplizierte Radis + -ya-**
+**radix reduplicada + -ya-**
 
-**Forma da la radischa: en general sco en il passiv, uschia per ordinari nivel bass:**
+**Furma da la radix: en general sco en il passiv, uschia per ordinari cun vocala bassa:**
 
-Ezempels:
+Exempels:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Las reglas en detagl en Kielhorn, Grammatica § 461.
+Las reglas en detagl cun Kielhorn, Grammatik § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Egimpels:
+**Reduplicaziun: suenter las reglas generalas. Vocala da reduplicaziun però: enstagl a,i,u stat ā, e, o**
+Exempels:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -302,74 +292,74 @@ Egimpels:
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Radizs da la furma -a-Nasal prolongeschan en la silaba da la reduplicaziun il vocal betg, mabain repetan il nasal.**
+**Radixs da la furma -a-Nasal allungeschan en la silba da reduplicaziun betg la vocala, ma repiteschan il nasal.**
 
 :::
 ::: indent
 p.ex. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**Certainas radgias preschentan tranter il vocal da la sillaba da reduplicaziun ed il consonant inicial da la radgisa -nī resp. -rī- (-rī- per radgias che cuntegnan in ṛ en l'intensiv).**
+**A quai che radiscs sa preschenta tranter la vocala da la silba da reduplicaziun ed il consonant inicial da la radix -nī- resp. -rī- (-rī- tar radiscs, che cuntegnan in ṛ en l’Intensivum).**
 
 ::: indent
-z.B.
-⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
+p.ex.
+⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:**
+**Coniugaziun:**
 
-*   **Stema dal presens: sco in Ātmanepada da la 4. classa dal presens (⟪दिवादिगण⟫).**
-*   **Passiv e tut las autras stemas dal temp: sche in vocal precedescha il -ya- dal stema dal intensiv, alura vegn il -ya- sustituid cun -y-, sche in consonant precedescha il -ya-, alura vegn il -ya- eliminà:**
-    *   **Passiv presens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekt: perifrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futur perifrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Stem dal present: sco in Ātmanepada da la 4. classa da presents (⟪दिवादिगण⟫).**
+*   **Passiv e tut ils auters stems da temp: sche ina vocala precedescha il -ya- dal stem da l’Intensivum, alura vegn il -ya- sustituid cun -y-, sche in consonant precedescha il -ya-, alura vegn il -ya- eliminà:**
+*   **Passiv present: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfect: perifrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aorist: Aorist cun iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Futur perifrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Intensivum dal Parasmaipada
+### 61.3.2. Parasmaipada-Intensivum
 
 ::: grammar-box
-**Stema dal present (autras furmas èn extreamamain raras): furmaziun e coniugaziun sco in verbda la 3. classa dal present (⟪जुहोत्यादिगण⟫) cun la differenza che la vocala da la sillaba da la reduplicaziun è da nivel aut, en cas da -a- da nivel da lunghezza.**
+**Stam dal presens (autras formas èn fitg raras): furmaziun e coniugaziun sco in verbda la 3. classa dal presens (⟪जुहोत्यादिगण⟫) cun la differenza, che il vocal da la silba da la reduplicaziun è da nivel alt, en cas da -a- da nivel lung.**
 
-**Al singular indicativ presenz sco 2.3.sg. imperfect e 3.sg.imperativ po vegnir intercalà tranter la radis e la desinenza in -ī-. Sche quest -ī- vegn intercalà, na d’è in vocal curt avant l’ultima posiziun betg da vegnir guṇit.**
+**En il singular dal indicativ presens sco era en la 2.3.sg. da l'imperfekt e la 3.sg. dal imperativ pon ins intercalar in -ī- tranter la radis e la desinenza. Sche quest -ī- vegn intercalà, na dastga in vocal curt en la posiziun avant l'ultima silba betg vegnir guṇit.**
 
-**Riguardo alla reduplicazione con nasale, nonché all'inserimento di -nī- o -rī-, vale lo stesso principio che per l'intensivo in Ātmanepada. In alternativa a -rī- può comparire -ri-.**
+**Quai che val per la reduplicaziun cun nasal sco era per l'intercalaziun da -nī- resp. -rī-, quai val era per l'Intensivum dal Ātmanepada. Enstagl da -rī- po er stuir -ri-.**
 :::
 Paradigma:
 
 ⟪भू⟫ 1P
 
-Indicativ preschent (⟪लट्⟫):
+Indicativ presens (⟪लट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
 Imperfect (⟪लङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
 Imperativ (⟪लोट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
 Optativ (⟪विधिलिङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
@@ -377,202 +367,201 @@ Optativ (⟪विधिलिङ्⟫):
 :::
 ## 61.4. Denominativa (⟪नामधातु⟫)
 
-I denominativs (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatads d'ina radis verbala, mabain d'ina radis nominala. Qua existan differents tipps da furmaziun.
+Denominativa (⟪नामधातवः⟫) vegnan, en cumpareglia cun ils verbs tractads fin qua, betg formatas d'ina radis verbala, mabain d'in stem nominal. Qua existan differentas tipps da furmaziun.
 
-### 61.4.1. Furmad senza suffix spezial, Parasmaipada
+### 61.4.1. Furmiun senza suffix spezial, Parasmaipada
 
 ::: grammar-box
-**Sinn:**
+**Significaziun:**
 
 :::
 ::: indent
-**ina persuna u ina cosa sa cumporta sco quai u è identica a quai che vegn designà dal stem nominal.**
+**ina persuna u ina chaussa sa cumporta sco quai, u è simigliant a quai, che vegn designà dal stem nominal.**
 :::
-**Coniugaziun:**
+**Conjugaziun:**
 
 ::: indent
-**al stem dal present sco in verb da la 1. classa dal present (⟪भ्वादिगण⟫). Sche il nom ha «mehl» sco ina vocala, vegn mo l'ultima vocala tractada sco la vocala da la radis da la 1. classa. -a finala vegn omessa avant la vocala tematica. Vocala avant ina nasal finala vegn sustituida cun la vocala lunga correspundenta.**
+**en il stem da presens sco in verb da la 1. classa da presens (⟪भ्वादिगण⟫). Ha il num 'mehl' sco vocala, vegn mo l'ultima vocala tractada sco la radisvocala da la 1. classa. -a finala svanescha avant la vocala tematica. Vocala avant nasala finala vegn sustituida cun la vocala lunga correspundenta.**
 :::
 Exemples:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
+| ⟪कवि⟫ m. "poet" | ⟪कवयति⟫ "el sa cumporta sco in poet" |
 | --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪भू⟫ f. "terra" | ⟪भवति⟫ "el sa cumporta sco la terra" |
+| ⟪पितृ⟫ "babb" | ⟪पितरति⟫ "el sa cumporta sco in babb" |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "el sa cumporta sco Kṛṣṇa" |
+| ⟪माला⟫ f. "guarniziun" | ⟪मालाति⟫ "ella è simiglianta ad ina guarniziun" |
+| ⟪राजन्⟫ m. "rex" | ⟪राजानति⟫ "el sa cumporta sco in rex" |
 
-### 61.4.2. Furmad cun sufix -ya, Parasmaipada
+### 61.4.2. Furmiun cun suffix -ya, Parasmaipada
 
 ::: grammar-box
-**Sinn:**
+**Significaziun:**
 
-*   **qualchidun vulè quai ch’è designà dal stemma nominal**
-*   **qualchidun tracta u considera ina persuna u ina cosa sco quai ch’è designà dal stemma nominal**
+*   **inqua che inuossa quai, ch’è designà tras la radis nominala**
+*   **inqua che tractescha u considera ina persuna u cosa sco quai, ch’è designà tras la radis nominala**
 
-**Stammbildung:**
+**Cunstrucziun da la radis:**
 
 :::
 ::: indent
-**avant il -ya, la desinenza dal stemma nominala suonda las suandantas midaments:**
+**avant il -ya sutgiascha la fin da la radis nominala las suandantas midadas:**
 
+*   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **nasal final chascha, vocal avant succeda tena las reglas suandantas:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **autras consonantas finalas restan senza midament**
+*   **in nasal final vegn eliminà, la vocala avant el vegn tractada tenor las reglas surmenziunadas:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **autras consonantas finalas restan immutadas**
 :::
 Exempels:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "figl" | ⟪पुत्रीयति⟫ "el desira in figl" |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪कवि⟫ m. "poet" | ⟪कवीयति⟫ "el desira in poet" |
+| ⟪गो⟫ f. "vaca" | ⟪गव्यति⟫ "el desira ina vaca" |
+| ⟪राजन्⟫ m. "re" | ⟪राजीयति⟫ "el desira in re" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "el tractescha inqua sco Viṣṇu" |
+| ⟪प्रासाद⟫ m. "palazi" | ⟪प्रासादीयति⟫ "el ves (p.ex. sia chasetta) sco in palazi" |
 
-Assegnescha la significaziun da:
+Attenziun al significà da:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+| ⟪तपस्⟫ n. "ascetissem" | ⟪तपस्यति⟫ "el fa ascetissem" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "adoraziun" | ⟪नमस्यति⟫ "el adora" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
+Fig.: ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Imprimà dal dretg: [Detagls](/rm/licenses#lekt6105))
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Fonte da imàgin: [Detagls](/rm/licenses#lekt6103))
+Fig.: ⟪बालौ शिवं नमस्यतः ॥⟫
+(Sursa da l’imaginescha: [Detagls](/rm/licenses#lekt6103))
 :::
-### 61.4.3. Furmiaziun cun il suffix -kāmya, Parasmaipada
+### 61.4.3. Furma cun il suffix -kāmya, Parasmaipada
 
 ::: grammar-box
-**Sinn:**
+**Significaziun:**
 
-**qualchidun vul esser quai vegn designà tras la radich nominala**
+**inquaist ch’el vul quai, che vegn designà tras la radis nominala**
 :::
 Exempels:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "figl" | ⟪पुत्रकाय्म्यति⟫ "el vul in figl" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "glor" | ⟪यशस्काम्यति⟫ "el vul glor" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Fig.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Imaggina da: [Detagls](/rm/licenses#lekt6109))
+Abb.: ⟪यशस्काम्यन्ति मुंबई⟫
+(Sursa d’imagines: [Detagls](/rm/licenses#lekt6109))
 :::
-### 61.4.4. Furmaziun cun il suffix -sya u -asya, Parasmaipada
+### 61.4.4. Furma cun il suffix -sya u -asya, Parasmaipada
 
 ::: grammar-box
-**Sinn:**
+**Significaziun:**
 
 :::
 ::: indent
-**insatiablem Verlangen nach dem, was durch den Nominalstamm bezeichnet wird.**
+**inquaist ch’el ha in grond desideri per quai, che vegn designà tras la radis nominala.**
 :::
-Ezempels:
+Exempels:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Miel" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "el vòia intensamain miel" |
+| ⟪मधु⟫ n. "mel" | ⟪मधुस्यति । मध्वस्यति⟫ "el ha in grond desideri per mel" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Stur" | ⟪अश्वस्यति⟫ "(la sturda) vòia intensamain il stur" |
+| ⟪अश्व⟫ m. "stgirun" | ⟪अश्वस्यति⟫ "(la stgira) ha in grond desideri per il stgirun" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Abb.: ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
-(Sursa d'imagines: [Detagl](/rm/licenses#lekt6110))
+(Sursa d’imagines: [Detagls](/rm/licenses#lekt6110))
 :::
 ### 61.4.5. Furma cun il suffix -ya, Ātmanepada
 
 ::: grammar-box
-**Sinn:**
+**Significaziun:**
 
 :::
 ::: indent
-**insatgeu sco quai u èn sco quai ch'è designà tras la radis nominala.**
+**inquaist ch’el sa cumporta sco quai, u è simigliant a quai, che vegn designà tras la radis nominala.**
 :::
-**Cunstrucziun:**
+**Furma:**
 
-*   **final -a » -ā**
-*   **final -ā bleibt unverändert**
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **final -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **-a final » -ā**
+*   **-ā final resta senza midada**
+*   **altramein sco avant -ya, Parasmaipada (vair sur 4.2.)**
+*   **-as final opziunalmain » -ā**
+*   **radis feminina per ordinari » radis masculina**
 
-Ezempels:
+Exempels:
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "el sa cumporta sco Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ 3 "famaus" | ⟪यशायते । यशस्यते⟫ "el sa cumporta sco in famaus" |
+| ⟪कुमारी⟫ f. "femnalet" | ⟪कुमारायते⟫ "el sa cumporta sco in femnalet" |
 
 ::: grammar-box
-**Per quaias radis nominalas significates quest suffix: insatge vegn sco quai u vegn a quai, che vegn designà per la radis nominala:**
+**Per quaiaduns stems nominalas significates quest suffix: in cossa vegn sco quella, u vegn a quai che vegn designà tras il stem nominal:**
 
 :::
 ::: indent
-p.ex. ⟪उन्मनस्⟫ 3 "suscitant": ⟪उन्मनायते⟫ "el/ella è suscità"
+p.ex. ⟪उन्मनस्⟫ 3 "excitescha": ⟪उन्मनायते⟫ "el vegn excità"
 :::
-**En quai cas vegnan cun quest sufix verbs cun auters significats formads:**
+**En quaiaduns cas vegnan cun quest suffix verbs formads en autras significats:**
 
-Ezempels:
+Exempels:
 
 ::: indent
-⟪दुःख⟫ n. "dolur" : ⟪दुःखायते⟫ "el sentì dolur"
-⟪शब्द⟫ m. "son" : ⟪शब्दायते⟫ "el dat in senn"
+⟪दुःख⟫ n. "dolur" : ⟪दुःखायते⟫ "el senta la dolur"
+⟪शब्द⟫ m. "son" : ⟪शब्दायते⟫ "el dat in son"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Fonte da l’imagia: [Detagls](/rm/licenses#lekt6111))
+Abb.: ⟪श्वानौ शब्दायेते⟫
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt6111))
 :::
-### 61.4.6. Furma cun il suffix -aya, -āpaya
+### 61.4.6. Formaziun cun il suffix -aya, -āpaya
 
 ::: grammar-box
-**Differents significats.**
+**Diversas significats.**
 
-**Konjugiert wie Kausativa.**
+**Coniugà sco Causativa.**
 :::
-Exemples:
+Exempels:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "veritabel" | ⟪स्तयपायति⟫ "el declera sco veritabel" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "rasà" | ⟪मुण्डयति⟫ "el rasa rasà" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Fig.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
+Abb.: ⟪भिक्षुर्मुण्डयते ।⟫
 Thailand - เมืองไทย
-(Fontana da l'immagiun: [Detagls](/rm/licenses#lekt6113))
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt6113))
 :::
-Ina glista da denominativs per exempel en:
+Ina lista da Denominatives p.ex. en:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Imm.:
-1845 - 1878 professur da filologia indisch-orientala a l'Universitad da Copenaghen
-(Sursa da l'imagia: [Detagls](/rm/licenses#lekt6112))
+Abb.:
+1845 - 1878 professer da filologia indisch-orientala a l'Universitad da Copenaghen
+(Sursa da l'imaginescha: [Detagls](/rm/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Il Benedictiv (⟪आशीर्लिङ्⟫)
+## 61.5. Il Benediktiv (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Sinn:**
+**Significat:**
 
 :::
 ::: indent
@@ -582,30 +571,29 @@ Imm.:
 
 **Parasmaipada:**
 
-**radix infima + yās + secundaria inflexio**
+**radisch da basa + yās + desinenza secundara**
 
 ::: indent
-p.ex. ⟪बुध्यासम्⟫ "che jau scuvigliai!"
+p.ex. ⟪बुध्यासम्⟫ "che jau vegnia a reconuscher!"
 :::
 **Ātmanepada:**
 
-**(per la mai part) radis da grond’impurtanza + sī(y) + desinenza secundara**
+**(per la pli part) radisch da basa + sī(y) + desinenza secundara**
 
 **oppur:**
 
-**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(radisch da basa) + ⟪ै⟫ + sī(y) + desinenza secundara**
 
 ::: indent
 p.ex.
-⟪जि⟫ : ⟪जेषीय⟫ "che mi victor en mes interessen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "che mi reconoscha"
+⟪जि⟫ : ⟪जेषीय⟫ "che jau vegnia a gudagnar per ma pro!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "che jau vegnia a reconuscher"
 :::
-**Las regulas davart la furma da la radisch en detagl tar Kielhorn, Grammatica § 380ss.**
-Paradigma:
+**Las reglas per la furma dal radisch da basa en detagl tar Kielhorn, Grammatik § 380ff.**
 
 Paradigma:
 
-⟪बुध्⟫ "s'evitar"
+⟪बुध्⟫ "s'alarma"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -613,36 +601,36 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | :sig[⟪बुध्यात्⟫] | ⟪बुध्यास्ताम्⟫ | :sig[⟪बुध्यासुर्⟫] | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Imagg.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+Fig.: ⟪नववर्षं शुभं भूयात् ॥⟫
 Basilica da Santa Cruz, Kochi = കൊച്ചി
-(Sursa da l'imagina: [Detagls](/rm/licenses#lekt6114))
+(Font dal dumber: [Detagls](/rm/licenses#lekt6114))
 :::
-## 61.6. Il condiziunal (⟪ऌङ्⟫)
+## 61.6. Il Conditionalis (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Il cundiziunāl (⟪ऌङ्⟫) vegn duvrà cura ch’ins vul exprimer en fratschs cundiziunals ch’quai ch’è numnà sco cundiziun n’è betg il cas / n’è stà il cas / vegn ad esser il cas. Il cundiziunāl sto vegnir duvrà en quests fratschs tant en il fratsch cundiziunal sco er en il fratsch principal.**
+**Il Conditionalis (⟪ऌङ्⟫) vegn duvrà, sche si vul exprimer en frars da cundiziun che quai ch'è numnà sco cundiziun, n'è betg il cas / è stà il cas / vegn a esser il cas. Il Conditionalis sto vegnir duvrà en quests frars tant en il fras da cundiziun sco er en il fras principal.**
 :::
-Exempel:
+Exempl:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Scheu ch' avess plüvì (u pluvess), daretg da mangiatg. (Ma betg (abast) ha plüvì.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Scheira ch'ei stàgiu (oppur che vegnia) bain la plieva, dastgassan dar a l'entschatta nutriment. (Ma n'è betgi stàgiu la plieva.)"
 :::
 ::: grammar-box
-**Furmaziun dal cundiziunal (⟪ऌङ्⟫):**
+**Furmaziun dal Conditionalis (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augment + stem dal futur simpl (⟪ऌत्⟫) + desinenza secundara**
 
-d.h. wie ein Imperfect (⟪लङ्⟫) al stem dal futur.
+quai vul dir sco in Imperfect (⟪लङ्⟫) al stem dal futur.
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+p.ex. ⟪अदास्यम्⟫ ; ⟪⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
 Paradigma:
 
-⟪भू⟫ "essair, vegnir"
+⟪भू⟫ "esser, vegnir"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -652,45 +640,45 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Declinaziun dals noms sin -ai, -o, -au
+## 61.7. Declinaziun dals nomina sin -ai, -o, -au
 
 ::: grammar-box
-**Avant consonnas, quai stèns sun -ai, -o, -au; avant consonnas -āy, -av, -āv**
+**Avant consonants sunan quels stems sin -ai, -o, -au; avant vocalas sin -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" ha basa da declinaziun.** Vesa l'explicaziun detagliada en Thumb-Hauschild § 296/7.
+**⟪गो⟫ m.f. "bui, vacca" ha declinaziun da stem.** Vesa la explicaziun en detagl a Thumb-Hauschild § 296/7.
 :::
-Paradigmas: Kielhorn, Grammatik § 153:
+Paradigmas: Kielhorn, Grammatica § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Sursa da l'imagina: [Detagls](/rm/licenses#lekt6115))
+(Sursa d'imagines: [Detagl](/rm/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Sursa da l'imagia: [Detagls](/rm/licenses#lekt6118))
+Fig.: ⟪हरिद्वारे गावः ॥⟫
+(Sursa d'imagines: [Detagl](/rm/licenses#lekt6118))
 :::
 ## 61.8. Pronoms restants
 
-### 61.8.1. Pronomen persunals dal dual
+### 61.8.1. Pronoms persuns dal dual
 
-Kielhorn, Grammatik § 177:
+Kielhorn, Grammatica § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Fontana da l'imagines: [Detagls](/rm/licenses#lekt6116))
+(Sursa d’imagines: [Detagls](/rm/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Populaziun Apatani, Arunachal Pradesh
+Abb.: ⟪आवां स्वसारौ ॥⟫
+Popul Apatani, Arunachal Pradesh
 (Sursa d’imagines: [Detagls](/rm/licenses#lekt6117))
 :::
-### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quel (lunsch)"
+### 61.8.2. Pronoms demonstrativs ⟪अदस्⟫ "quell (lontan)"
 
-Maschil (⟪पुंस्⟫)
+Masculin (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -711,7 +699,7 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Resta sco mascolin
+Il rest sco il masculin
 
 :::
 Feminin (⟪स्त्री⟫)
@@ -727,49 +715,50 @@ Feminin (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
+## 61.9. Remissiun en l’ocèan da la litteratura sanscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Su il conclus dal curs da sânscrit cumenza mo il ver "nadar" en l'ocèan da la litteratura sânscrita. Visto che quest ocèan è plen d'ostaculs, è adäbit da cumenzar questa nova fasa da vita cun in'invocaziun a Gaṇeśas:
+Suenter la fin dal curs da sanscrit cumenza mo ussa il "nadar" veritabel en l’ocèan da la litteratura sanscrita. Visto che quest ocèan è plen d’obstaculs, è adattà da cumenzar questa nova fasa da vita cun in’invocaziun a Gaṇeśa:
 
 ::: media
 ![](/images/lekt6101.webp)
 Fig.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
-(Bildquelle: [Details](/rm/licenses#lekt6101))
+Halebidu (ಹಳೆಬೀಡು), 12./13. sec. d.C.
+(Fonte da imagem: [Detalhes](/rm/licenses#lekt6101))
 :::
 
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***śrīgana-nātha / :sig[⟪श्रीगणनाथ⟫]*** da Purandaradāsa (**puramkara dāsa**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Cumpostist e poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+Compositor e poeta: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
-Rāga: Malahari (a ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
+Rāga: Malahari (para ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
 *   ārohaṇa: s r1 m1 p d1 S
 
 *   avarohaṇa: S d1 p m1 g3 r1 s
 
+
 Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Imag.: La melodia, referida a c, pozz vegnir transponida tenor l'extensiun vocala.
-(Sursa d'imagines: [Detagls](/rm/licenses#lekt6119))
+Fig.: Melodia, relacionada a c, pode ser transposta dependendo da tessitura vocal.
+(Fonte da imagem: [Detalhes](/rm/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] sa chatta al cumenzament da l'instrucziun en la musica kannaresa. Vesei il video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Access il 2009-03-05
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ está no início do ensino da música kannaresa. Veja o vídeo: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Acesso em 2009-03-05
 
-Post che Vus avais ussa imparà ils fundament dal sanscrit, vus essis sper che sco ils uffants pitschens en il video: a maun maladtschins, ma adina pronts da midar e da midar e cun plaivla en la sonda. Mantegnì fin a la fin da la vita "a beginner's mind".
+Su che Vus avais ussa imparà ils fundament dal sanscrit, spetgain nus ch’Vus seias sco ils uffants pitschens en il video: a maun ina giada maladretgs, ma avids d’imparar e da savair ed entusiasmads per la materia. Mantegnì fin a la fin da Vossa vita «ina ment principianta».
 
 ::: center
-Quai vus disira Voss Alois Payer
+Quai Vus gida Voss Alois Payer
 
 Ofterdingen, 2009-03-09
 
-*:sig[⟪ॐ⟫]*
+sig[⟪ॐ⟫]
 
 FIN DAL CURS DA SANSKRIT
 :::

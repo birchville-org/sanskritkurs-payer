@@ -49,7 +49,7 @@ Contoh:
 
 ::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
+Gbr.: ⟪अध्यापनम्⟫
 "Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Upacara ini dilakukan oleh para siswa Swami Muktananda Vedashala pada perayaan Mahāśivarātri. Ini adalah sebuah sekolah Veda, di mana anak-anak menghafal teks-teks suci yang disebut Veda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya di sekolah ini."
 (Sumber gambar: [Details](/id/licenses#lekt1602))
 :::
@@ -62,7 +62,7 @@ dari itu:
 ::: indent
 ⟪अनृशंस्य⟫ n.: Tidak Kejahatan
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : hidup
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Kalimat pasif ⟪जीव्यते⟫ ; Partisip pasif lampau ⟪जीवित⟫ : hidup
 
 dari itu:
 
@@ -77,17 +77,17 @@ dari itu:
 
 ⟪निरोध⟫ m.: Berhenti, Membuat Berhenti
 
-* **bhūta n.** (⟪भूत⟫) (PPP ke bhū): Makhluk, Hantu
+* **bhūta n.** (⟪भूत⟫) (Partisip pasif lampau ke bhū): Makhluk, Hantu
 
 ⟪योग⟫ m.: Pengikatan, Hubungan, Persatuan, Perolehan ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
+Gbr.: ⟪योगी⟫
 Birla Mandir, Delhi
 (Sumber gambar: [Details](/id/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, berpaling, berada (di suatu tempat), tinggal
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Kalimat pasif ⟪वृत्यते⟫ ; Partisip pasif lampau ⟪वृत्त⟫ : berputar, berpaling, berada (di suatu tempat), tinggal
 
 ⟪शस्त्र⟫ (śastra) n.: alat pemotong, senjata tajam, pedang, senjata
 
@@ -99,7 +99,7 @@ Birla Mandir, Delhi
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
+Gbr.: ⟪अहिंसा⟫
 "Tangan dengan roda di telapak tangan melambangkan Sumpah Ahimsa Jain. Kata di tengah adalah "ahimsa". Roda mewakili dharmacakra yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran kebenaran dan non-kekerasan yang tanpa henti."
 (Sumber gambar: [Details](/id/licenses#lekt1603))
 :::
@@ -111,7 +111,7 @@ A) Ubahlah ekspresi berikut menjadi Tatpuruṣa dan terjemahkan:
 
 ::: media
 ![](/images/lekt1604.webp)
-Abb.: ⟪पशुमन्तो जनाः हरियाणा⟫ / ਹਰਿਆਣਾ
+Gbr.: ⟪पशुमन्तो जनाः हरियाणा⟫ / ਹਰਿਆਣਾ
 (Sumber gambar: [Details](/id/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः पुत्रः । ६⟫.  ⟪सुखवत्या वैश्यायाः पुत्रः । ७⟫. ⟪कवेरुक्त्याः सत्यम् । ८⟫. ⟪शिवेन रक्षिता बाला । ९⟫. ⟪रामेण पीतं जलम् । १०⟫. ⟪फलवांल्लाभः । ११⟫. ⟪इष्टाया देवतायाः पूजा । १२⟫. ⟪देवानां स्तुतिः ।⟫
@@ -172,11 +172,11 @@ B) Terjemahkan dan pecahkan semua komposita ke dalam bahasa Sanskerta:
 ::: indent
 Penjelasan;
 
-Ayat 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, yang menunjukkan dua "benda"
+Ayat 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, yang merujuk pada dua "benda"
 
 Ayat 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum dari ⟪कर्मन्⟫ "Tindakan"
 
-Ayat 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. dari ⟪सर्व⟫ "setiap, semua" (Pronomina, tidak dideklinasi seperti deva)
+Ayat 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. dari ⟪सर्व⟫ "setiap, semua" (Kata ganti, tidak dideklinasikan seperti deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३॥⟫
 

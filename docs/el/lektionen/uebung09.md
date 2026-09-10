@@ -3,6 +3,7 @@ title: "Άσκηση 9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -109,6 +110,6 @@ Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tät
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Εικ.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung013))
 :::

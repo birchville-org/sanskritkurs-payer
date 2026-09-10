@@ -243,7 +243,7 @@ Resim: ⟪आसीन्महात्मा गन्धी नाम⟫
 ⟪आत्मानं स्तुवन्ति ।⟫ "Kendilerini överler"
 :::
 ::: grammar-box
->> Bu nedenle Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ "kendi" anlamında kullanılır.
+Bu nedenle Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ "kendi" anlamında kullanılır.
 :::
 Örnek:
 
@@ -569,7 +569,7 @@ Açıklamalar:
 
 ⟪एकैक⟫ "her biri ayrı ayrı"
 
->> ⟪समजनि⟫ 3.sg. edilgen aorist ⟪जन्⟫ kökünden, Instr. sg. ⟪तरस्⟫ n. "enerji", zarf olarak kullanılır: "hızlı, şiddetle"
+⟪समजनि⟫ 3.sg. edilgen aorist ⟪जन्⟫ kökünden, Instr. sg. ⟪तरस्⟫ n. "enerji", zarf olarak kullanılır: "hızlı, şiddetle"
 
 ⟪यूयम्⟫ Nom.pl. "siz"
 

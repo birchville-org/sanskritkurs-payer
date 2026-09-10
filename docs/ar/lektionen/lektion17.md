@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "الدرس 17"
+subtitle: "الصف الثاني من الأفعال المضارعة (⟪अदादि⟫ = ⟪अद्⟫ وهكذا)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # الدرس 17

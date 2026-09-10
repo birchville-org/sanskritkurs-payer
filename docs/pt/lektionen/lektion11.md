@@ -1,10 +1,11 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Lição 11"
+subtitle: "O acusativo duplo (acusativo da pessoa e do objeto)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 11
@@ -61,7 +62,7 @@ p.ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ 
 ::: media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1102))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : perguntar
   - **praśna** m. ⟪प्रश्न⟫ : pergunta (sufixo **-na** como em **yaj-ña**)
@@ -95,7 +96,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 ::: media
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1101))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1101))
 :::
 
 ## 11.4. Exercício de revisão
@@ -136,5 +137,5 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 ::: media
 ![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt1103))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt1103))
 :::

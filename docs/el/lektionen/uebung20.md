@@ -3,6 +3,7 @@ title: "Άσκηση 20"
 uebung_id: 20
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -243,8 +244,8 @@ B) Μεταφράστε στα Σανσκριτικά χρησιμοποιώντ
 
 ::: media
 ![](/images/uebung030.webp)
-Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
-(Bildquelle: [Details](/licenses#uebung030))
+Εικ.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung030))
 :::
 ---
 

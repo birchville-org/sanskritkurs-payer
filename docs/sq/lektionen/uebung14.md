@@ -1,62 +1,34 @@
 ---
-title: "Ushqim 14"
+title: "Ushtrimi 14"
 uebung_id: 14
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 14
+# Ushtrimi 14
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
+Përktheni këto thënie popullore dhe mësonini ato nënshkurt:
 
-⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫  
-⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫  
-Jemand Niedres spricht und handelt nicht, jemand Gutes spricht nicht, sondern handelt.
+⟪निचो वदति न कुरुते वदति न साधुः करोत्येव ॥१॥⟫  
+Një njeri i ulët nuk flet dhe nuk vepron, një njeri i mirë nuk flet, por vepron.
 
-⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫  
-Tugend ist des Menschen Schmuck.
+⟪शीलं नरस्य भूषणम् ॥२॥⟫  
+Virtyti është zbukurimi i njeriut.
 
-⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫  
-Durch Wahrheit wird den Menschen Glück.
+⟪सत्येन जनानां सुखं भवति ॥३॥⟫  
+Përmes së vërtetës njerëzit arrijnë fatin.
 
-⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫  
-Böse Menschen kommen nicht in den Himmel.
+⟪पापा नराः स्वर्गं न लभन्ते ॥४॥⟫  
+Njerëzit e keq nuk hyjnë në qiell.
 
-⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
-Wahrheit ist das Licht der Welt.
+⟪सत्यं लोकस्य दीपः ॥५॥⟫  
+E vërteta është drita e botës.
 
-A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:
+A) Formoni gjininë singular dhe plural për fjalët e mëposhtme. Jepni kuptimin dhe gjininë gramatike të fjalëve:
 
-⟪१⟫. ⟪अनृत⟫ : n. Unwahrheit — ⟪अनृतस्य⟫ ⟪अनृतानाम्⟫
-
-⟪२⟫. ⟪ऋषि⟫ : m. vedischer Weiser — ⟪ऋषेः⟫ ⟪ऋषीणाम्⟫
-
-⟪३⟫. ⟪पाद⟫ : m. Fuss — ⟪पादस्य⟫ ⟪पादानाम्⟫
-
-⟪४⟫. ⟪बुद्धि⟫ : f. Erkenntnis — ⟪बुद्धेः⟫ (⟪बुद्ध्याः⟫) ⟪बुद्धीनाम्⟫
-
-⟪५⟫. ⟪गुरु⟫ : m. Meister — ⟪गुरोः⟫ ⟪गुरूणाम्⟫
-
-⟪६⟫. ⟪स्वर्ग⟫ : m. Himmel — ⟪स्वर्गस्य⟫ ⟪स्वर्गाणाम्⟫
-
-⟪७⟫. ⟪नगर⟫ : n. Stadt — ⟪नगरस्य⟫ ⟪नगराणाम्⟫
-
-⟪८⟫. ⟪धेनु⟫ : f. Kuh — ⟪धेनोः⟫ (⟪धेन्वाः⟫) ⟪धेनूनाम्⟫
-
-⟪९⟫. ⟪द्विज⟫ : m. Zweimalgeborener — ⟪द्विजस्य⟫ ⟪द्विजानाम्⟫
-
-⟪१०⟫. ⟪मुक्ता⟫ : f. die Erlöste — ⟪मुक्तायाः⟫ ⟪मुक्तानाम्⟫
-
-⟪११⟫. ⟪विद्या⟫ : f. Wissen, Wissenschaft — ⟪विद्यायाः⟫ ⟪विद्यानाम्⟫
-
-⟪१२⟫. ⟪वर्ण⟫ : m. Stand — ⟪वर्णस्य⟫ ⟪वर्णानाम्⟫
-
-⟪१३⟫. ⟪द्विजाति⟫ : 3 zweimalgeboren — ⟪द्विजातेः⟫ (⟪द्विजात्याः⟫) ⟪द्विजातीनाम्⟫
-
-⟪१४⟫. ⟪रूप⟫ : n. Form — ⟪रूपस्य⟫ ⟪रूपाणाम्⟫
-
-⟪१५⟫. ⟪प्रतिग्रह⟫ : m. Entgegennnehmen — ⟪प्रतिग्रहस्य⟫ ⟪प्रतिग्रहाणाम्⟫
+⟪१⟫. ⟪अनृत⟫ : n. Mosvërtësia — ⟪अनृतस्य अनृतानाम् २⟫. ⟪ऋषि⟫ : m. Gjeni vedik — ⟪ऋषेः ऋषीणाम् ३⟫. ⟪पाद⟫ : m. Këmba — ⟪पादस्य पादानाम् ४⟫. ⟪बुद्धि⟫ : f. Njohja — ⟪बुद्धेः⟫ (⟪बुद्ध्याः⟫) ⟪बुद्धीनाम् ५⟫. ⟪गुरु⟫ : m. Mjeshtri — ⟪गुरोः गुरूणाम् ६⟫. ⟪स्वर्ग⟫ : m. Qielli — ⟪स्वर्गस्य स्वर्गाणाम् ७⟫. ⟪नगर⟫ : n. Qyteti — ⟪नगरस्य नगराणाम् ८⟫. ⟪धेनु⟫ : f. Duh — ⟪धेनोः⟫ (⟪धेन्वाः⟫) ⟪धेनूनाम् ९⟫. ⟪द्विज⟫ : m. Dyher i lindur — ⟪द्विजस्य द्विजानाम् १०⟫. ⟪मुक्ता⟫ : f. E shpëtuarja — ⟪मुक्तायाः मुक्तानाम् ११⟫. ⟪विद्या⟫ : f. Dituria, Shkenca — ⟪विद्यायाः विद्यानाम् १२⟫. ⟪वर्ण⟫ : m. Kasta — ⟪वर्णस्य वर्णानाम् १३⟫. ⟪द्विजाति⟫ : 3 dyher i lindur — ⟪द्विजातेः⟫ (⟪द्विजात्याः⟫) ⟪द्विजातीनाम् १४⟫. ⟪रूप⟫ : n. Forma — ⟪रूपस्य रूपाणाम् १५⟫. ⟪प्रतिग्रह⟫ : m. Marrja — ⟪प्रतिग्रहस्य प्रतिग्रहाणाम्⟫
 
 ⟪१६⟫. ⟪सोढ⟫ : 3 ertragen — ⟪सोढस्य⟫ ⟪सोढायाः⟫ ⟪सोढानाम्⟫
 
@@ -64,119 +36,59 @@ A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie B
 
 ⟪१८⟫. ⟪साध्वी⟫ : f. Heilige — ⟪साध्व्याः⟫ ⟪साध्वीनाम्⟫
 
-⟪१९⟫. ⟪अग्नि⟫ : m. Feuer — ⟪अग्नेः⟫ ⟪अग्नीनाम्⟫
+⟪१६⟫. ⟪सोढ⟫ : 3 dur — ⟪सोढस्य सोढायाः सोढानाम् १७⟫. ⟪नायिका⟫ : f. e dashuruar — ⟪नायिकायाः नयिकानाम् १८⟫. ⟪साध्वी⟫ : f. i shenjtë — ⟪साध्व्याः साध्वीनाम् १९⟫. ⟪अग्नि⟫ : m. zjarr — ⟪अग्नेः अग्नीनाम् २०⟫. ⟪वैश्या⟫ : f. grua Vaiśya — ⟪वैश्यायाः वैश्यानाम् २१⟫. ⟪लोक⟫ : m. botë, njerëz — ⟪लोकस्य लोकानाम् २२⟫. ⟪उक्ति⟫ : f. deklaratë — ⟪उक्तेः⟫ (⟪उक्त्याः⟫) ⟪उक्तीनाम् २३⟫. ⟪शत्रु⟫ : m. armik — ⟪शत्रोः शत्रूणाम् २४⟫. ⟪सुखवन्त्⟫ : 3 i lumtur — ⟪सुखवतः⟫ (⟪सुखवत्याः⟫) ⟪सुखवताम्⟫ (⟪सुखवतीनाम्⟫)
 
-⟪२०⟫. ⟪वैश्या⟫ : f. Vaiśyafrau — ⟪वैश्यायाः⟫ ⟪वैश्यानाम्⟫
+⟪२५⟫. ⟪पुत्रवती⟫ : f. një grua me një ose më shumë djem — ⟪पुत्रवत्याः पुत्रवतीनाम् २६⟫. ⟪जल⟫ : n. ujë — ⟪जलस्य जलानाम् २७⟫. ⟪मार्ग⟫ : m. rrugë — ⟪मर्गस्य मर्गाणाम् २८⟫. ⟪मोक्ष⟫ : m. çlirim, shpëtim — ⟪मोक्षस्य मोक्षाणाम् २९⟫. ⟪शूद्रा⟫ : f. grua Śūdra — ⟪शूद्रायाः शूद्राणाम् ३०⟫. ⟪अन्न⟫ : n. ushqim, hanë — ⟪अन्नस्य अन्नानाम् ३१⟫. ⟪साधु⟫ : m. i shenjtë — ⟪साधोः साधनाम् ३२⟫. ⟪नीति⟫ : f. udhëheqje — ⟪नीत्याः नीतीनाम् ३३⟫. ⟪योध⟫ : m. luftëtar, ushtar — ⟪योधस्य योधानाम् ३४⟫. ⟪सत्यवन्त्⟫ : 3 i vërtetë — ⟪सत्यवतः⟫ (⟪सत्यवत्याः⟫) ⟪सत्यवताम्⟫ (⟪सत्यवतीनाम्⟫)
 
-⟪२१⟫. ⟪लोक⟫ : m. Welt, Leute — ⟪लोकस्य⟫ ⟪लोकानाम्⟫
+⟪३५⟫. ⟪लाभ⟫ : m. fitim — ⟪लाभस्य लाभानाम् ३६⟫. ⟪मोह⟫ : m. konfuzion, verbim — ⟪मोहस्य मोहानाम् ३७⟫. ⟪गति⟫ : f. ecje, qëllim — ⟪गतेः⟫ (⟪गत्याः⟫) ⟪गतीनाम् ३८⟫. ⟪प्रश्न⟫ : m. pyetje — ⟪प्रश्नस्य प्रश्नानाम् ३९⟫. ⟪सृष्टि⟫ : f. krijim — ⟪सृष्तेः⟫ (⟪सृष्ट्याः⟫) ⟪सृष्टीनाम् ४०⟫. ⟪नेत्र⟫ : n. sy — ⟪नेत्रस्य नेत्राणाम् ४१⟫. ⟪गुरुता⟫ : f. zotërim — ⟪गुरुतायाः गुरुतानाम्⟫
 
-⟪२२⟫. ⟪उक्ति⟫ : f. Ausspruch — ⟪उक्तेः⟫ (⟪उक्त्याः⟫) ⟪उक्तीनाम्⟫
+⟪४६⟫. ⟪युद्ध⟫ : 3 lufton — ⟪युद्धस्य⟫ (⟪युद्धायाः⟫) ⟪युद्धानाम् ४७⟫. ⟪दर्शन⟫ : n. Shikim, dukje — ⟪दर्शनस्य दर्शनानाम् ४८⟫. ⟪धातु⟫ : m. Element, rrënjë foljore — ⟪धातोः धातूनाम् ४९⟫. ⟪गूढा⟫ : f. një e fshehtë — ⟪गूढायाः गूढानाम् ५०⟫. ⟪ईष्टा⟫ (2 kuptime): f. një e dëshiruar, një e sakrifikuar — ⟪इष्टायाः इष्टानाम् ५१⟫. ⟪उदित⟫ : 3 thënë — ⟪उदितस्य⟫ (⟪उदितायाः⟫) ⟪उदितानाम् ५२⟫. ⟪इदम्⟫ : 3 ky — ⟪अस्य⟫ (⟪अस्याः⟫) ⟪एषाम्⟫ (⟪आसाम्⟫)
 
-⟪२३⟫. ⟪शत्रु⟫ : m. Feind — ⟪शत्रोः⟫ ⟪शत्रूणाम्⟫
+⟪५३⟫. ⟪किम्⟫ : 3 çfarë — ⟪कस्य⟫ (⟪कस्याः⟫) ⟪केषाम्⟫ (⟪कासाम्⟫)
 
-⟪२४⟫. ⟪सुखवन्त्⟫ : 3 glücklich — ⟪सुखवतः⟫ (⟪सुखवत्याः⟫) ⟪सुखवताम्⟫ (⟪सुखवतीनाम्⟫)
+B) Përktheni:
 
-⟪२५⟫. ⟪पुत्रवती⟫ : f. eine Frau mit einem oder mehreren Söhnen — ⟪पुत्रवत्याः⟫ ⟪पुत्रवतीनाम्⟫
+⟪१⟫. ⟪ब्राह्मणस्य पुत्रो ब्राह्मण्या ग्रामं गतः ।⟫ (2 mundësi)
+Bir i brahmanit ka shkuar në fshatin e brahmanes. Bir i brahmanit ka shkuar me brahmanen në fshat.
 
-⟪२६⟫. ⟪जल⟫ : n. Wasser — ⟪जलस्य⟫ ⟪जलानाम्⟫
+⟪२⟫. ⟪यज्ञस्याग्निनान्नं दग्धम् ।⟫
+Zjarri i sakrificës ka djegur ushqimin.
 
-⟪२७⟫. ⟪मार्ग⟫ : m. Weg — ⟪मर्गस्य⟫ ⟪मर्गाणाम्⟫
+⟪३⟫. ⟪बुद्धः स्तयस्य बुद्ध्या मुक्तः ।⟫
+Buddha u çlirua përmes njohjes së të vërtetës.
 
-⟪२८⟫. ⟪मोक्ष⟫ : m. Befreiung, Erlösung — ⟪मोक्षस्य⟫ ⟪मोक्षाणाम्⟫
+⟪४⟫. ⟪अधर्मो ऽनृतस्य वदनमित्यृषयो वदन्ति ।⟫
+Udhëtarët vedikë thonë se të thuash gënjeshtër është padrejtësi.
 
-⟪२९⟫. ⟪शूद्रा⟫ : f. Śūdrafrau — ⟪शूद्रायाः⟫ ⟪शूद्राणाम्⟫
+⟪५⟫. ⟪नरा देवानां यज्ञैर्न मुच्यन्ते ।⟫
+Njerëzit nuk çlirohen përmes sakrificave ndaj perëndive.
 
-⟪३०⟫. ⟪अन्न⟫ : n. Speise, Essen — ⟪अन्नस्य⟫ ⟪अन्नानाम्⟫
+⟪६⟫. ⟪बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति ।⟫
+Kṣatriyas e fuqishëm pushtojnë qytetet e pasura të armiqve.
 
-⟪३१⟫. ⟪साधु⟫ : m. Heiliger — ⟪साधोः⟫ ⟪साधनाम्⟫
+⟪७⟫. ⟪कवेरुक्तिं शृण्वन्ति ।⟫
+Ata e dëgjojnë vargun e poetit.
 
-⟪३२⟫. ⟪नीति⟫ : f. Führung — ⟪नीत्याः⟫ ⟪नीतीनाम्⟫
+⟪८⟫. ⟪कविर्देव्याः कृतं वद⟫ti ⟪।⟫
+Poeti tregon veprën e hyjneshës.
 
-⟪३३⟫. ⟪योध⟫ : m. Kämpfer, Soldat — ⟪योधस्य⟫ ⟪योधानाम्⟫
+⟪९⟫. ⟪द्विजाः पशोर्लाभमिच्छन्ति ।⟫
+Të dyfishtë të lindur dëshirojnë të marrin bagëti.
 
-⟪३४⟫. ⟪सत्यवन्त्⟫ : 3 wahrhaftig — ⟪सत्यवतः⟫ (⟪सत्यवत्याः⟫) ⟪सत्यवताम्⟫ (⟪सत्यवतीनाम्⟫)
+⟪१०⟫. ⟪रामः पुण्यवतो गुरोर्मन्त्रस्य स्मरति ।⟫
+Rāma kujton mantra e mësuesit të virtytshëm.
 
-⟪३५⟫. ⟪लाभ⟫ : m. Gewinn — ⟪लाभस्य⟫ ⟪लाभानाम्⟫
+⟪११⟫. ⟪अयं बालः कस्याः पुत्रः ।⟫
+Cilit (f.) fëmijë është ky djalosh?
 
-⟪३६⟫. ⟪मोह⟫ : m. Verwirrung, Verblendung — ⟪मोहस्य⟫ ⟪मोहानाम्⟫
+⟪१२⟫. ⟪केषामिमानि गृहाणि ।⟫
+Për kë i përkasin këto shtëpi?
 
-⟪३७⟫. ⟪गति⟫ : f. Gang, Ziel — ⟪गतेः⟫ (⟪गत्याः⟫) ⟪गतीनाम्⟫
-
-⟪३८⟫. ⟪प्रश्न⟫ : m. Frage — ⟪प्रश्नस्य⟫ ⟪प्रश्नानाम्⟫
-
-⟪३९⟫. ⟪सृष्टि⟫ : f. Schöpfung — ⟪सृष्तेः⟫ (⟪सृष्ट्याः⟫) ⟪सृष्टीनाम्⟫
-
-⟪४०⟫. ⟪नेत्र⟫ : n. Auge — ⟪नेत्रस्य⟫ ⟪नेत्राणाम्⟫
-
-⟪४१⟫. ⟪गुरुता⟫ : f. Meisterschaft — ⟪गुरुतायाः⟫ ⟪गुरुतानाम्⟫
-
-⟪४२⟫. ⟪ईश्वर⟫ : m. der HERR — ⟪ईश्वरस्य⟫ ⟪ईश्वराणाम्⟫
-
-⟪४३⟫. ⟪कारण⟫ : n. Ursache — ⟪कारणस्य⟫ ⟪कारणानाम्⟫
-
-⟪४४⟫. ⟪कृत⟫ : 3 getan — ⟪कृतस्य⟫ (⟪कृतायाः⟫) ⟪कृतानाम्⟫
-
-⟪४५⟫. ⟪धर्मवन्त्⟫ : 3 gerecht, religiös — ⟪धर्मवतः⟫ (⟪धर्मवत्याः⟫) ⟪धर्मवताम्⟫ (⟪धर्मवतीनाम्⟫)
-
-⟪४६⟫. ⟪युद्ध⟫ : 3 bekämpft — ⟪युद्धस्य⟫ (⟪युद्धायाः⟫) ⟪युद्धानाम्⟫
-
-⟪४७⟫. ⟪दर्शन⟫ : n. Sehen, Erscheinung — ⟪दर्शनस्य⟫ ⟪दर्शनानाम्⟫
-
-⟪४८⟫. ⟪धातु⟫ : m. Element, Verbalwurzel — ⟪धातोः⟫ ⟪धातूनाम्⟫
-
-⟪४९⟫. ⟪गूढा⟫ : f. eine Verborgene — ⟪गूढायाः⟫ ⟪गूढानाम्⟫
-
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen): f. eine Erwünschte, eine Geopferte — ⟪इष्टायाः⟫ ⟪इष्टानाम्⟫
-
-⟪५१⟫. ⟪उदित⟫ : 3 gesagt — ⟪उदितस्य⟫ (⟪उदितायाः⟫) ⟪उदितानाम्⟫
-
-⟪५२⟫. ⟪इदम्⟫ : 3 dieses — ⟪अस्य⟫ (⟪अस्याः⟫) ⟪एषाम्⟫ (⟪आसाम्⟫)
-
-⟪५३⟫. ⟪किम्⟫ : 3 was — ⟪कस्य⟫ (⟪कस्याः⟫) ⟪केषाम्⟫ (⟪कासाम्⟫)
-
-B) Übersetzen Sie:
-
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
-Der Sohn des Brahmanen ist ins Dorf der Brahmanin gegangen. Der Sohn des Brahmanen ist mit der Brahmanin ins Dorf gegangen.
-
-⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
-Das Opferfeuer hat die Speise verbrannt.
-
-⟪३⟫. ⟪बुद्धः⟫ ⟪स्तयस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
-Buddha wurde durch die Erkenntnis der Wahrheit erlöst.
-
-⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-Die vedischen weisen sagen, dass Unwahrheit sprechen Unrecht ist.
-
-⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
-Die Menschen werden durch Opfer an Götter nicht erllöst.
-
-⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
-Die mächtigen Kṣatriyas erobern die reichen Städte der Feinde.
-
-⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Sie hören den Spruch des Dichters.
-
-⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वद⟫ti ⟪।⟫
-Der Dichter berichtet die Tat der Göttin.
-
-⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
-Zweimalgeborene wünschen sich, Vieh zu bekommen.
-
-⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
-Rāma erinnert sich an das Mantra des tugendreichen Meisters.
-
-⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-Wessen (f.) Sohn ist diese Bub?
-
-⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-Wem gehören diese Häuser?
-
-⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
-Wessen Speise hat dieser vedische Weise geopfert?
+⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम् ।⟫
+Cilit ushqim i ka fliuar ky shpirtëror vedik?
 
 ::: media
 ![](/images/uebung017.webp)
-Abb.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
-(Bildquelle: [Details](/licenses#uebung017))
+Fig.: ⟪नायकश्च नायिका च⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung017))
 :::

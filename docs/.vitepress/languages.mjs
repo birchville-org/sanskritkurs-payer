@@ -5,9 +5,10 @@
 //   Translating modern grammar textbooks into these languages forces artificial neologisms and heavy hallucination.
 // - Nahuatl (nah), Quechua (qu): Indigenous languages with sparse training data in open LLMs.
 //   Generates frequent fallbacks to Spanish/English and lacks scientific precision for Sanskrit terminology.
+// - Coptic (cop): Extinct liturgical language with sparse digital training data. High hallucination and QA failure rate (>14h GPU time for 11% clean).
 
 export const ACTIVE_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'zu', 'am', 'cop', 'gsw', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is', 'et'
+  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'am', 'gez', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is', 'et', 'zu'
 ];
 
 export const DEFAULT_LOCALES = [];
@@ -36,10 +37,10 @@ export const LOCALE_FLAGS = {
   fi: '🇫🇮',
   hu: '🇭🇺',
   zh: '🇭🇰',
-  cop: '🇪🇬',
   fa: '🇮🇷',
   nl: '🇳🇱',
   am: '🇪🇹',
+  gez: '🇪🇹',
   af: '🇿🇦',
   lt: '🇱🇹',
   sh: '🇷🇸',
@@ -49,8 +50,6 @@ export const LOCALE_FLAGS = {
   tr: '🇹🇷',
   vi: '🇻🇳',
   zu: '🇿🇦',
-  gsw: '🇨🇭'
-,
   pl: '🇵🇱',
   cs: '🇨🇿',
   sk: '🇸🇰',
@@ -90,10 +89,10 @@ export const LOCALE_NAMES = {
   fi: '🇫🇮 Suomi',
   hu: '🇭🇺 Magyar',
   zh: '🇭🇰 繁體中文',
-  cop: '🇪🇬 ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ',
   fa: '🇮🇷 فارسی',
   nl: '🇳🇱 Nederlands',
   am: '🇪🇹 አማርኛ',
+  gez: '🇪🇹 ግዕዝ',
   af: '🇿🇦 Afrikaans',
   lt: '🇱🇹 Lietuvių',
   sh: '🇷🇸 Srpsko-hrvatski',
@@ -103,8 +102,6 @@ export const LOCALE_NAMES = {
   tr: '🇹🇷 Türkçe',
   vi: '🇻🇳 Tiếng Việt',
   zu: '🇿🇦 isiZulu',
-  gsw: '🇨🇭 Alemannisch'
-,
   pl: '🇵🇱 Polski',
   cs: '🇨🇿 Čeština',
   sk: '🇸🇰 Slovenčina',
@@ -138,12 +135,10 @@ export const FOOTER_LABELS = {
   he: { prev: 'שיעור קודם', exercise: 'תרגיל נוסף', next: 'שיעור הבא' },
   id: { prev: 'Pelajaran Sebelumnya', exercise: 'Latihan Tambahan', next: 'Pelajaran Selanjutnya' },
   ar: { prev: 'الدرس السابق', exercise: 'تمرين إضافي', next: 'الدرس التالي' },
-  arc: { prev: 'Previous Lesson', exercise: 'Additional Exercise', next: 'Next Lesson' },
   'zh-CN': { prev: '上一课', exercise: '附加练习', next: '下一课' },
   th: { prev: 'บทเรียนก่อนหน้า', exercise: 'แบบฝึกหัดเพิ่มเติม', next: 'บทเรียนถัดไป' },
   el: { prev: 'Προηγούμενο Μάθημα', exercise: 'Πρόσθετη Άσκηση', next: 'Επόμενο Μάθημα' },
   grc: { prev: 'Προηγούμενον Μάθημα', exercise: 'Πρόσθετος Ἄσκησις', next: 'Ἑπόμενον Μάθημα' },
-  cop: { prev: 'Previous Lesson', exercise: 'Additional Exercise', next: 'Next Lesson' },
   fi: { prev: 'Edellinen oppitunti', exercise: 'Lisäharjoitus', next: 'Seuraava oppitunti' },
   hu: { prev: 'Előző lecke', exercise: 'Kiegészítő gyakorlat', next: 'Következő lecke' },
   pt: { prev: 'Lição anterior', exercise: 'Exercício adicional', next: 'Próxima lição' },
@@ -152,14 +147,13 @@ export const FOOTER_LABELS = {
   sh: { prev: 'Prethodna lekcija', exercise: 'Dodatna vežba', next: 'Sledeća lekcija' },
   sq: { prev: 'Mësimi i mëparshëm', exercise: 'Ushtrim shtesë', next: 'Mësimi tjetër' },
   am: { prev: 'የቀደመው ትምህርት', exercise: 'ተጨማሪ ልምምድ', next: 'ቀጣዩ ትምህርት' },
+  gez: { prev: 'ዝሓለፈ ትምህርቲ', exercise: 'ተወሳኺ ልምምድ', next: 'ዝቕጽል ትምህርቲ' },
   fa: { prev: 'درس قبلی', exercise: 'تمرین اضافی', next: 'درس بعدی' },
   nl: { prev: 'Vorige les', exercise: 'Aanvullende oefening', next: 'Volgende les' },
   zh: { prev: '上一課', exercise: '附加練習', next: '下一課' },
   tr: { prev: 'Önceki Ders', exercise: 'Ek Egzersiz', next: 'Sonraki Ders' },
   vi: { prev: 'Bài học trước', exercise: 'Bài tập bổ sung', next: 'Bài học tiếp theo' },
   zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' },
-  gsw: { prev: 'Vorigi Lektion', exercise: 'Zuesätzligi Üebig', next: 'Nächschti Lektion' }
-,
   pl: { prev: 'Poprzednia lekcja', exercise: 'Dodatkowe ćwiczenie', next: 'Następna lekcja' },
   cs: { prev: 'Předchozí lekce', exercise: 'Doplňkové cvičení', next: 'Další lekce' },
   sk: { prev: 'Predchádzajúca lekcia', exercise: 'Doplnkové cvičenie', next: 'Ďalšia lekcia' },

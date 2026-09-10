@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Lecție 30"
+subtitle: 'Clasa a 9-a de prezent (⟪क्र्यादि⟫ = \"⟪क्री⟫ etc.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 30
@@ -516,4 +517,3 @@ Determinați și traduceți următoarele forme de cuvânt:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

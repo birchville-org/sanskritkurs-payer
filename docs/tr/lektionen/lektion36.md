@@ -165,7 +165,7 @@ Resim: ⟪अनगार्यम्⟫
 ⟪अनु⟫ Önekin: sonra, boyunca, üzerinden - ila, boyunca, göre, ek olarak, arkasından
 
 ::: indent
->> Örneğin
+Örneğin
 
 ⟪अनुकृ⟫ : taklit etmek, yapmak
 
@@ -174,7 +174,7 @@ Resim: ⟪अनगार्यम्⟫
 ⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
 
 ::: indent
->> Örneğin
+Örneğin
 
 ⟪अभिगम्⟫ : gitmek, yaklaşmak
 
@@ -228,7 +228,7 @@ Absol. -⟪स्पृश्य⟫
 ::: media
 ![](/images/lekt3606.webp)
 Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
->> (Görsel kaynağı: [Detaylar](/tr/licenses#lekt3606))
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt3606))
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : donmak: dikleşmek (saçlar), bir şeyden dolayı sevinmek (Instr., Akk., Lok.)
 

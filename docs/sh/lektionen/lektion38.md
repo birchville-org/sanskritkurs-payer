@@ -1,75 +1,69 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: "[R38] Lekcija 38"
+subtitle: "[R2] Rješenje tjedna"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 38
 
-## 38.1. Losung der Woche
+## 38.1. Rešenje nedelje
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren:
+⟪मनुस्मृति ४⟫.⟪३२⟫ o pravilnom mokrenju:
 
 ::: indent
-⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
-⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
 :::
-Erklärungen:
+Objašnjenja:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Srednji rod, nominativ/akuzativ jednine u odnosu na ⟪अग्नि⟫ muški rod.
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
+\-⟪गु⟫ Srednji rod, nominativ/akuzativ jednine u odnosu na ⟪गो⟫ muški/ženski rod. "Govedo, krava"
 
 ::: media
 ![](/images/lekt3801.webp)
-Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Bildquelle: [Details](/licenses#lekt3801))
+Slika: ⟪प्रज्ञा नश्यति मेहतः⟫
+(Izvor slike: [Detalji](/sh/licenses#lekt3801))
 :::
-## 38.2. Lautwandel von Nasalen im Wort
+## 38.2. Zvučna promena nazala u reči
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
+Nazali u reči se asimiluju sledećim suglasnicima, tj. zamenjuju se nazalom koja odgovara tom suglasniku.
 
-Nach c- und j- wird -n- durch -ñ- ersetzt.
+Nakon c- i j-, -n- se zamenjuje sa -ñ-.
 :::
-## 38.3. Deklination der Stämme auf -n
+## 38.3. Deklinacija osnova na -n
 
-### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
+### 38.3.1. Imenice na -an kao i imenice na -man odnosno -van nakon vokala
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
+Imenice na **-an** kao i imenice **-man** odnosno **-van** nakon vokala imaju tri osnove:
 
-| Stamm | -an | -man | -van | Verwendung |
+| Osnova | -an | -man | -van | Upotreba |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Jaka osnova** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
+| **Srednja slaba osnova** | **-a** :br(iz -*n) | **-ma** :br(iz -*mn) | **-va** :br(iz -*vn) | Ostali padeži pred suglasničkim početkom nastavka:brIzborivno takođe Lok. sg. m. n. f. |
+| **Najsłabija osnova** | **-n** | **-mn** | **-vn** | Ostali padeži pred vokalskim početkom nastavka |
 
-**Die Endungen sind regelmässig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
+**Nastavci su pravilni. Nominativ jednine m. f. se formira bez završnog -n.**
 :::
-Beispiele:
+Examples:
 
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ m. "king"
 
-*   starker Stamm: ⟪राजान्⟫
-*   mittlerer Stamm: :sig[⟪राज⟫]
-*   schwächster Stamm: ⟪राज्ञ्⟫
+*   strong stem: ⟪राजान्⟫
+*   medium stem: ⟪राज⟫
+*   weakest stem: ⟪राज्ञ् सीमन्⟫ f. "boundary"
 
-⟪सीमन्⟫ f. "Grenze"
+*   strong stem: ⟪सीमान्⟫
+*   medium stem: ⟪सीम⟫
+*   weakest stem: ⟪सीम्न् नामन्⟫ n. "name"
 
-*   starker Stamm: ⟪सीमान्⟫
-*   mittlerer Stamm: ⟪सीम⟫
-*   schwächster Stamm: ⟪सीम्न्⟫
-
-⟪नामन्⟫ n. "Name"
-
-*   starker Stamm: ⟪नामान्⟫
-*   mittlerer Stamm: ⟪नाम⟫
-*   schwächster Stamm: ⟪नाम्न्⟫
+*   strong stem: ⟪नामान्⟫
+*   medium stem: ⟪नाम⟫
+*   weakest stem: ⟪नाम्न्⟫
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -94,34 +88,34 @@ Beispiele:
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Abb.: ⟪सीमा⟫
-(Bildquelle: [Details](/licenses#lekt3803))
+Fig.: ⟪सीमा⟫
+(Image source: [Details](/sh/licenses#lekt3803))
 :::
-### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
+### 38.3.2. Nouns in -man and -van after consonants
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
-*   Schwacher Stamm:
-    *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
-    *   vor vokalisch anlautenden Endungen: **\-man, -van**
+*   Strong stem: -mān, -vān
+*   Weak stem:
+*   before consonant-initial endings: -ma, -va (from -\*mn, -\*vn)
+*   before vowel-initial endings: **\-man, -van**
 
-Sonst Bildung wie unter 3.1.
+Otherwise, formation as under 3.1.
+
+Otherwise, formation as under 3.1.
 :::
-Beispiele:
+Examples:
 
-⟪आत्मन्⟫ n. "Seele"
+⟪आत्मन्⟫ n. "soul"
 
-*   starker Stamm: ⟪आत्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪आत्म⟫
-    *   vor Vokal: ⟪आत्मन्⟫
+*   strong stem: ⟪आत्मान्⟫
+*   weak stem:
+*   before consonant: ⟪आत्म⟫
+*   before vowel: ⟪आत्मन् ब्रह्मन्⟫ n.: Absolute, Veda, Brahman
 
-⟪ब्रह्मन्⟫ n.: Absolutes, Veda, Brahman
-
-*   starker Stamm: ⟪ब्रह्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪ब्रह्म⟫
-    *   vor Vokal: ⟪ब्रह्मन्⟫
+*   strong stem: ⟪ब्रह्मान्⟫
+*   weak stem:
+*   before consonant: ⟪ब्रह्म⟫
+*   before vowel: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,18 +138,18 @@ Beispiele:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
+### 38.3.3. Masculines and Neuters in -in, -min, -vin
 
 ::: grammar-box
-Diese Nomina haben **keine** Stammabstufung.
+These nouns have **no** stem gradation.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
+Nom.sg.m. and Nom.Akk.pl.n. are formed by analogy to the -an stems (lengthening of the -i-), as is also the stem in **\-i-** before a consonantal ending.
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
+The feminine is formed with the suffix -ī: e.g., ⟪बलिनी⟫
 :::
-Beispiel:
+Example:
 
-⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)"
+⟪बलिन्⟫ m.n. "strong, powerful (characterized by special ⟪बल⟫, possessing ⟪बल⟫)"
 
 ::: grammar-box
 
@@ -164,327 +158,320 @@ Beispiel:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
+## 38.4. On nominal formation: ⟪तद्धित⟫-suffix -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
+With the (very important!) ⟪तद्धित⟫-suffix **-in**, adjectives are formed from nouns with the meaning:
 
-**gekennzeichnet durch, besitzend**
+**characterized by, possessing**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+Originally, formation with the suffix **-⟪इन्⟫** differed from that with **-⟪मन्त्⟫/-⟪वन्त्⟫** in that **-⟪इन्⟫** denoted characterization by something special, while **-⟪मन्त्⟫/-⟪वन्त्⟫** expressed possession of, or characterization by something that is ordinary or general.
 :::
-Beispiel:
+Example:
 
-⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
+⟪हस्तिन्⟫ m.: the one characterized by a special hand = the elephant (for its "hand" is not an ordinary hand, but a trunk)
 
 ::: media
 ![](/images/lekt3806.webp)
-Abb.: ⟪हस्ती⟫
-(Bildquelle: [Details](/licenses#lekt3806))
+Fig.: ⟪हस्ती⟫
+(Image source: [Details](/sh/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat
+⟪हस्तवन्त्⟫ : one who has (human) hands
 
 ::: media
 ![](/images/lekt3807.webp)
-Abb.: ⟪हस्तवान्⟫
-(Bildquelle: [Details](/licenses#lekt3807))
+Fig.: ⟪हस्तवान्⟫
+(Image source: [Details](/sh/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet.
+Adjectives in **-⟪इन्⟫** are often formed into compounds.
 :::
-Beispiel:
+Example:
 
-⟪सत्यवादिन्⟫ zu ⟪सत्यवाद⟫ m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht"
+⟪सत्यवादिन्⟫ to ⟪सत्यवाद⟫ m. "speaking the truth": "one who is characterized by speaking the truth = one who always speaks the truth"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Syntax regarding ⟪नामन्⟫
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man:
+To express "someone named N. N.", one constructs:
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**N.N. (in the nominative) ⟪नाम⟫**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz.
+Literally: "the name is/was N.N." Thus, it involves an inserted nominal sentence.
 :::
-Beispiel:
+Example:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
+⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Once upon a time there was a king **named Nala**, the strong son of Vīrasena."
 :::
-Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken:
+Of course, the same can be expressed with a ⟪बहुव्रीहि⟫:
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
+⟪देवदत्तनामा पुरुषः⟫ "a man whose name is Devadatta"
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist"
+⟪मदयन्तिकानाम्नी बाला⟫ "a girl whose name is Madayantika"
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Bildquelle: [Details](/licenses#lekt3808))
+Fig.: ⟪आसीन्महात्मा गन्धी नाम⟫
+(Image source: [Details](/sh/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 38.6. Syntactic notes on ⟪आत्मन्⟫
 
 ::: grammar-box
-⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+⟪आत्मन्⟫ **masculine** can be used in the **singular** as a reflexive pronoun for all three genders, numbers (including dual and plural), and persons.
 :::
-Beispiele:
+Examples:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst"
+⟪आत्मन्येषा दोषं न पश्यति ।⟫ "She sees no fault in herself"
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst"
+⟪आत्मानं स्तुवन्ति ।⟫ "They praise themselves"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kann deswegen stehen für "mein/dein/sein/... eigenes"
+The genitive (⟪षष्ठी⟫) ⟪आत्मनस्⟫ can therefore stand for "my/your/his/her... own"
 :::
-Beispiel:
+Example:
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus."
+⟪आत्मनो गृहं प्रविशति ।⟫ "He enters his own house."
 :::
-## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
+## 38.7. Consonant-final stems as the first member of compounds
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
+Stems ending in a consonant appear as the first member of a compound in the (weak) stem form they take before the ending -su of the locative plural (⟪सप्तमी⟫).
 :::
-Beispiel:
+Example:
 
 ::: indent
-:sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
+sig[⟪राज⟫]⟪पुत्र⟫ "king's son"
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
+## 38.8. Stems in -an as the second member of a ⟪बहुव्रीहि⟫
 
 ::: grammar-box
-Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
+As the second member of a ⟪बहुव्रीहि⟫, an -an stem can be used for all three genders. However, the feminine is usually formed with the suffix -ī from the weakest masculine stem.
 :::
-Beispiel:
+Example:
 
 ::: indent
-⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin"
+⟪दुर्णाम्नी⟫ "one whose name is evil; disease demoness"
 :::
-## 38.9. Wortliste
+## 38.9. Word List
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+⟪सूर्य⟫ m.: Sun, sun god Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+Fig.: ⟪सूर्यः⟫
+(Image source: [Details](/sh/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.: Water
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+Fig.: ⟪उदकम्⟫
+(Image source: [Details](/sh/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Caus. ⟪वापयति⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+from which:
 
 ⟪वात⟫ m.: Wind
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : to blow, to dissipate, to extinguish
 
 ::: indent
-davon:
+from which:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.: Extinguishing, Nirvana
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.: Perfect extinguishing, perfect liberation (at the end of life of a Buddha or Arhat)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+Fig.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Image source: [Details](/sh/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : to urinate, to piss, to ejaculate
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
-Kaus. ⟪मेहयति⟫
+Caus. ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-davon:
+from which:
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: Cloud ("dripping one")
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: Son
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -:sig[⟪राज⟫] m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: King (for kingship in India see Basham, Wonder pp. 82-94). As the final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -⟪राज⟫ m. (like ⟪देव⟫)
 
 ::: indent
-Femininum:
+Feminine:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ f.: Queen, wife of a king
 
-von :sig[⟪राज⟫] :
+from ⟪राज⟫ :
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 3: royal; n. kingdom, kingship, rule
 :::
 ⟪नामन्⟫ n.: Name
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ f.: Boundary, limit
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.: Self, own person, innermost essence. Philosophically and in liberation doctrines: the Absolute in the individual, of which, however, the individual is not necessarily conscious (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
+⟪ब्रह्मन्⟫ n.: the Absolute, the Veda (according to Thieme originally: the formulated truth, from which ⟪ब्राह्मण⟫ "formulator of truth")
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.: the personally conceived creator god Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+Fig.: ⟪ब्रह्मा⟫
+(Image source: [Details](/sh/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)
+⟪कर्मन्⟫ n.: to ⟪कृ⟫ 8U: action, deed, work; sacred work, sacrificial act; Karma: past action that later brings its fruits (e.g. in rebirth) 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: ripening of deeds = the good and bad consequences of actions in previous existences (to ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: elephant (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: human, man; name of the father of the human race (to ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon:
+from which:
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: human
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (to flame, to shine) ; to mourn, to lament
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
-Kaus. ⟪शोचयति⟫
+Caus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Absol. ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+from which:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: luminous, pure, clear
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: mourning, grief
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: free from grief; Ashoka tree = _Saraca asoca_ (Roxb.) Wilde; name of the emperor Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (ca. 304 – 232 BCE)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+Fig.: ⟪अशोकवृक्षः⟫
+(Image source: [Details](/sh/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+Fig.: ⟪अशोकसाम्राज्यम्⟫
+(Image source: [Details](/sh/licenses#lekt3811))
 :::
-## 38.10. Übung
+## 38.10. Exercise
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) Insert the corresponding form of the words in parentheses into the following sentences and translate them:
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
+(⟪सप्तमी विभक्तिः⟫) ... ⟪धर्मं रक्षत्यभया जनाः ॥१॥⟫ (⟪राजन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
+⟪राज्यस्य⟫ ... (⟪सप्तमी बहुवचने⟫) ... ⟪अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥⟫ (⟪सीमन्⟫)
+
+⟪वैश्यानां कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
 ⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
+(⟪सप्तम्येकवचने⟩) ... ⟪अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥⟩ (⟪कर्मन्⟩)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
+⟪किम्⟩ ... ⟪किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥⟩ (⟪कर्मन्⟩)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
+⟪ब्रह्मभूतस्⟩ ... (⟪प्रथमैकवचने⟩) ... ⟪न शोचति न लुभ्यति ॥८॥⟩ (⟪प्रसन्नात्मन्⟩)
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
+(⟪षष्ठ्येकवचने⟩) ... ⟪सुकृतस्य सुफलमाहुः ॥९॥⟩ (⟪कर्मन्⟩)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
+⟪महीभोगस्⟩ ... (⟪शष्ठी बहुवचने⟩) ... ⟪धर्मः ॥१०॥⟩ (⟪राजन्⟩)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
+⟪राज्ञे⟩ ... ⟪दीयेरन् ॥११॥⟩ (⟪बलिन् हस्तिन्⟩)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
+(⟪तृतीया विभक्तिः⟩) ... ⟪लोका असृज्यन्त ॥१२॥⟩ (⟪ब्रह्मन्⟩ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
+(⟪तृतीया विभक्तिः⟩) ... ⟪कृतं पापं⟩... (⟪तृतीया विभक्तिः⟩) ... ⟪अकृतं पापम् ॥१३॥⟩ (⟪आत्मन्⟩)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
+⟪सद्भिस्⟩ ... ⟪जनेभ्यो ऽभयं दीयते ॥१४॥⟩ (⟪राजन्⟩)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
+⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟩ (⟪राजन्⟩)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Word List for Translation Exercise
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫)
+⟪प्राय⟩  m.: main thing, Instr. ⟪प्रायेण⟩ : mostly, usually (to ⟪प्र⟩-⟪इ⟩)
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
+⟪विनोद⟩ m.: pastime, entertainment, pleasure
 
 ::: media
 ![](/images/lekt3812.webp)
-Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812))
+Abb.: ⟪विनोदः⟩
+(Image source: [Details](/sh/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
+⟪अट्⟩ 1P ⟪अटति⟩ : to wander around
 
 ::: indent
-Perf. I ⟪आट⟫, ⟪आटुः⟫
-Fut. ⟪अटिष्यति⟫
-Kaus. ⟪आटयति⟫
+Perf. I ⟪आट⟩, ⟪आटुः⟩
+Fut. ⟪अटिष्यति⟩
+Caus. ⟪आटयति⟩
 :::
-⟪गाध⟫ 3: seicht
+⟪गाध⟩ 3: shallow
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
+⟪तॄ⟩ 1P ⟪तरति⟩ : to cross, to escape from (Acc.)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
-Pass. ⟪तीर्यते⟫
-Kaus. ⟪टारयति⟫
-PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Perf. IIIb ⟪ततार⟩, ⟪तेरुः⟩
+Fut. ⟪तरिष्यति । तरीष्यति⟩
+Pass. ⟪तीर्यते⟩
+Caus. ⟪टारयति⟩
+PPP ⟪तीर्ण⟩
+Inf. ⟪तरितुम् । तरीतुम्⟩
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel
+⟪एकैकशस्⟫ Adv.: each individually
 
-⟪तीर⟫ n.: Ufer
-
-::: media
-![](/images/lekt3813.webp)
-Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813))
-:::
-⟪एकैकशस्⟫ Adv.: je einzeln
-
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
+⟪गण्⟫ 10P ⟪गणयति⟫ : to count
 
 ::: indent
-Perf. ⟪गणयां⟫ ⟪चकार⟫
+Perf. ⟪गणयां चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
@@ -493,97 +480,93 @@ Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814))
+Fig.: ⟪गणयां चक्रुः⟫
+(Image source: [Details](/sh/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : to cry out, lament
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
-Kaus. ⟪क्रोशयति⟫
+Caus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt
+⟪इदानीम्⟫ Adv.: now
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
+⟪नूनम्⟫ Adv.: now; thus, therefore; certainly
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : to sink, dive
 
 ::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
-Kaus. ⟪मज्जयति⟫
+Caus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen
+⟪गवेषयति⟫ Denominative: to seek
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
+⟪व्याकुल⟫ 3: dismayed, agitated, confused
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm
+⟪कोलाहल⟫ m.n.: shouting, noise
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: the round-about seeking
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen
+⟪हस्⟫ 1P ⟪हसति⟫ : to laugh
 
 ::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
-Kaus. ⟪हासयति⟫
+Caus. ⟪हासयति⟫
 PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen
+⟪सृ⟫ 1P ⟪सरति⟫ : to run
 
 ::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
-Kaus. ⟪सारयति⟫
+Caus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
+⟪कर्णयति⟫ Denominative: to hear (from ⟪कर्ण⟫ m. "ear")
 
-⟪लज्जा⟫ f.: Scham
+⟪लज्जा⟫ f.: shame
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ Adv.: downwards
 
-## 38.12. Übersetzungsübung
+## 38.12. Translation Exercise
 
-:sig[⟪दश⟫] ⟪मूढाः⟫
+sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪आसीत्तेषां मध्ये कश्चन वृद्धः । स किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो गणयामास । परं⟫ :sig[⟪नवै⟫]⟪व परिगणितास्तेन । ततः स आक्रोशत् । अहो⟫ :sig[⟪वयम्⟫] ⟪दश प्रस्थिताः । इदानीं नवैव⟫ :sig[⟪स्मः⟫] ⟪। नूनमस्माकमेको नद्यां निमग्नः ।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति । ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪। तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+Explanations:
 
-Erklärungen:
+⟪दश⟫ Nom.Acc.pl.m.f.n. to ⟪दशन्⟫ "ten"
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual to ⟪बाहु⟫ m. "arm"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
+⟪सर्वे⟫ Nom.pl.m. to ⟪सर्व⟫ 3 "each, all"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "to want to know, wish to know"
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
+⟪नव⟫ Nom.Acc.pl.m.f.n. to ⟪नवन्⟫ "nine"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
+⟪वयम्⟫ Nom.pl. "we"
 
-:sig[⟪वयम्⟫] Nom.pl. "wir"
+⟪स्मस्⟫ 1.pl.Ind.Pres.P to ⟪अस्⟫ 2P
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
+⟪गवेषयत⟫ 2.pl.Imperative P
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativ P
+⟪एकैक⟫ "each individually"
 
-⟪एकैक⟫ "jeder einzeln"
+⟪समजनि⟫ 3.sg.Passive Aorist to ⟪जन् तरसा⟫ Instr. sg. to ⟪तरस्⟫ n. "energy", used adverbially: "quickly, with force"
 
-:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫
+⟪यूयम्⟫ Nom.pl. "you"
 
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt"
-
-:sig[⟪यूयम्⟫] Nom.pl. "ihr"
-
-⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
+⟪युष्माकम्⟫ Gen.pl. to ⟪यूयम्⟫
 

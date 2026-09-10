@@ -1,10 +1,11 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Урок 12"
+subtitle: "Дієприкметник минулого часу пасивного стану (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 12

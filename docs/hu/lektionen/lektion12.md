@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Lecke 12"
+subtitle: "A PPP (befejezett passzív melléknévi igenév)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# 12. lecke
+# Lecke 12
 
 
-## 12.1. Múlt idejű ragozat passzív alak (PPP)
+## 12.1. Participle Perfekt Passiv (PPP)
 
-Egy lehetséges mód a múltbeli passzív mondatok képzésére az úgynevezett Particium Perfektum Passivum (PPP) konstrukció.
+Egy lehetőség a múltbeli passzív mondatok képzésére az ún. Participle Perfekt Passiv (PPP) konstrukcióval történik.
 
 ::: grammar-box
-**Valójában a PPP nem valódi particium, mivel nem igei tőből képződik. Hanem egy névszóképzés a gyökérből a -ta vagy -na elsődleges képzővel. Ezért az indiai grammatikában a kta képzőről beszélünk.**
+**Valójában a PPP nem valódi participle, mivel nem egy igeidő-törzsből képződik. Inkább egy nominális képzés a gyökérből a -ta vagy -na elsődleges suffixummal. Ezért az indiai grammatikában a kta suffixumról beszélünk.**
 :::
 
-### 12.1.1. Sémák tranzitív igákhoz
+### 12.1.1. Sémák transzitatív igékhez
 
 ::: grammar-box
-**Agens (kartṛ) az instrumentalisban (tṛtīyā) -- közvetlen tárgy (karman) a nominativusban (prathamā) -- Particium Perfektum Passivum**
+**Agens (kartṛ) az Instrumentalisban (tṛtīyā) -- közvetlen tárgy (karman) a Nominativban (prathamā) -- Participle Perfekt Passiv**
 
-Ebben az esetben a PPP egyezik az alany szám, eset és nem szerint.
+Ebben az esetben a PPP megegyezik a tárgy számában, esetében és nemében.
 
-Segédige („lenni”) nincs szükség.
+Segédige („lenni“) nem szükséges.
 
 Példák:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(A szenttől elért egy mennyország) = A szent elérte a mennyországot.”
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(A szenttől egy mennyország megszerzett) = A szent megszerezte a mennyországot.“
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(A brahmanától a istennőt egy áldozattal tisztelték) = A brahmana tisztelte az istennőt egy áldozattal.”
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(A brahmanától az istennőt egy áldozattal tiszteletben tartották) = A brahmana tisztelte az istennőt egy áldozattal.“
 :::
 
-### 12.1.2. Schema I intransitiv igék és mozgást kifejező igék számára
+### 12.1.2. Séma I intranszitatív igékhez és mozgásigékhez
 
 ::: grammar-box
-**Alanyag (kartṛ) nominativusban (prathamā) -- Perfectum Passivum participium**
+**Agens (kartṛ) a Nominativban (prathamā) -- Participle Perfekt Passiv**
 
-Ebben az esetben a PPP megegyezik az alanyaggal szám, eset és nem szerint. Az „intranszív” igék (közvetlen tárgyat nem vevő igék) és a mozgást kifejező igék esetén a Perfectum Passivum participiumnak aktív jelentése van.
+Ebben az esetben a PPP megegyezik az agens számában, esetében és nemében. Az intranszitatív igékhez (közvetlen tárgy nélküli igék) és mozgásigékhez a Participle Perfekt „Passiv“ aktív jelentéssel bír.
 
 Példa:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „A kṣatriya nő bement a városba.”
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „A kṣatriya nő a városba ment.“
 :::
 
-### 12.1.3. Schema II intranszív igék és mozgást kifejező igék számára
+### 12.1.3. II. séma tárgyatlan igékhez és mozgásigékhez
 
 ::: grammar-box
-**Agens (kartṛ) az eszközhatározó eset (instrumentalis)ban (tṛtīyā) -- PPP a alanyeset (nominativus)us egyes számis semlegesnemban**
+**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
 
-Példa:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A kṣatriya által (a városba) ment el) = A kṣatriya (a városba) ment.“
+Beispiel:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A ksatrijától [a városba] mentetett) = A ksatirja (a városba) ment.”
 
-A II. sémára épülő szerkezet sokkal ritkább, mint az I. sémára épülő.
+A II. séma szerinti szerkezet sokkal ritkább, mint az I. séma szerinti.
 :::
 
 ## 12.2. A PPP jelentéséről
 
-Mivel tehát az úgynevezett „Participium Perfektum Passivum“ tranzitív igék esetén elsősorban passzív jelentéssel bír (**āpta** = „elérve (lett)”), intranszitív és mozgást kifejező igék esetén pedig aktív jelentéssel (**gata** = „elment”), vannak olyan igék, amelyeknél a PPP mind aktív, mind passzív jelentéssel bírhat:
+Míg az úgynevezett „befejezett passzív melléknévi igenév” tranzitív igék esetében elsősorban passzív jelentésű (**āpta** = „elért”), az intranzitív és mozgást kifejező igék esetében pedig aktív jelentésű (**gata** = „ment”), addig van néhány ige, amelynél a PPP mind aktív, mind passzív jelentéssel bírhat:
 
 pl.
-- **gata** = ⟪गत⟫ = „elment” (aktív); de még: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „egy elment út” (passzív)
-- **āpta** = ⟪आप्त⟫ = „elérve lett” (passzív), „elérve” (aktív)
+- **gata** = ⟪गत⟫ = „ment” (aktív); de: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „beutazott út” (passzív)
+- **āpta** = ⟪आप्त⟫ = „elért” (passzív), „elért birtokosa” (aktív)
+
 
 ## 12.3. A PPP képzése
 
 ::: grammar-box
-A következő képzési módok fordulnak elő (minden egyes gyökhöz meg kell tanulni a megfelelő PPP-t!):
+A következő képzési módok fordulnak elő (minden gyöknél meg kell tanulni a hozzá tartozó PPP-t!):
 
-**(általában) mély hangzású gyökér**
+**(többnyire) gyenge fokú tő**
 
 - **+ -ta**
-  - kötőmag hanggal **-i-** előtte: **-ita**
-  - kötőmag hang nélkül: **-ta**
+  - **-i-** kötőhangzóval előtte: **-ita**
+  - kötőhangzó nélkül: **-ta**
 - **+ -na**
 
-A nőnemű tövek: **-tā**, **-itā**, **-nā**; az semleges nem a **phala** n. szerint ragozódik.
+A nőnemű tövek: **-tā**, **-itā**, **-nā**; a semlegesnem a **phala** n. szerint ragozódik.
 :::
 
-### 12.3.1. PPP -ta (kta) végződésű
+### 12.3.1. PPP auf -ta (kta)
 
-#### 12.3.1.1. Kötőmaghang nélkül (-i-) (aniṭ)
+#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
 
-*aniṭ* = „kötőmaghang nélküli (*an-*) a toldalék elé helyezett (*-i-*) *t*“ (azaz kötőmaghang nélküli *i*).
+*aniṭ* = „a toldalék elé illesztett (*-i-*) *t* nélkül” (azaz az *i* kötőhangzó nélkül).
 
 ::: grammar-box
-Kötőmaghang nélkül a PPP-t általában maggal végződő gyökökből, valamint számos más gyökből képezik, anélkül hogy egy szigorú szabályt lehetne megfogalmazni arra nézve, hogy a kötőmaghang mikor jelenik meg vagy hiányzik jól strukturált gyököknél.
+A kötőmag (Bindevokal) nélkül a PPP-t általában maggal végződő gyökökből, valamint számos egyéb gyökéből képezik anélkül, hogy szilárd szabályt lehetne megfogalmazni arra vonatkozóan, hogy mely szerkezetű gyököknél jelenik meg vagy nem jelenik meg a kötőmag.
 
 Az *aniṭ* gyökök listája Kielhorn, *Grammatik* § 298. alatt található.
 :::
 **Példák:**
 
 ::: grammar-box
-| Tő | PPP (kta) |
+| Gyök | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +109,14 @@ Az *aniṭ* gyökök listája Kielhorn, *Grammatik* § 298. alatt található.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Bindevokál -i-vel (seṭ)
+#### 12.3.1.2. Kötőmaggal -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „a (-i-) toldalék előtti (*sa-*) *t*-vel ellátott” (azaz a kötőmag hangzóval *i*).
+*seṭ* = *sa-iṭ* = „a (*sa-*) toldalék elé helyezett (-i-) *t*-vel” (azaz az *i* kötőmaggal).
 
 **Példák:**
 
 ::: grammar-box
-| Tő | PPP (kta) |
+| Gyök | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +124,65 @@ Az *aniṭ* gyökök listája Kielhorn, *Grammatik* § 298. alatt található.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. A szóbeli kapcsolatok törvényei a szóban
+## 12.4. A szóbeli hangkapcsolatok törvényei
 
-Az *aniṭ* képzések esetén az alábbi szóbelső hangkapcsolási törvényeket kell figyelembe venni. **Ezek a törvények rendkívül fontosak az egész szanszkrit alaktan megértéséhez.**
+Az *aniṭ*-képzéseknél a következő szó belseji hangkapcsolati törvényeket kell figyelembe venni. **Ezek a törvények a teljes szanszkrit alaktan megértéséhez rendkívül fontosak.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p előtt hangtalan zárhang (pl. t, th) változatlanul marad:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct helyett kt = ⟪क्त्⟩ lép fel:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt helyett ṣṭ = ⟪ष्ट्⟩ lép fel:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Hangzó hangtalan zárhang – kivéve a j-t – előtt hangtalan hanggal hangtalan, aspirálatlan zárhangra vált:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (fontos a 2. jelen időosztály számára) |
-| **5. jt helyett kt vagy ṣṭ lép fel (nem fakultatív!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Hangzó aspirált zárhang + hangtalan zárhang » hangzó, aspirálatlan zárhang + hangzó aspirált zárhang (Bartholomew-aspirációs törvény):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t helyett ḍh lép fel, ha előtte i vagy u van; vagy gdh. Egy ilyen ḍh előtt az a helyett o, ritkábban ā lép fel:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. A k, t, p zöngétlen zárhang előtt (pl. t, th) változatlan marad:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. A ct helyére kt = ⟪क्त्⟫ lép:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. A śt helyére ṣṭ = ⟪ष्ट्⟫ lép:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. A zöngés nem hehezett zárhang – a j kivételével – zöngétlen hang előtt a megfelelő zöngétlen nem hehezett hangra cserélődik:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (fontos a 2. jelen idejű igetulajdonságnál) |
+| **5. A jt helyére kt vagy ṣṭ lép (nem fakultatív!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Zöngés hehezett zárhang + zöngétlen zárhang » zöngés nem hehezett zárhang + zöngés hehezett zárhang (Bartholomae-féle hehezési törvény):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. A h-t helyébe ḍh lép, a megelőző i, ill. u megnyújtásával; vagy gdh lép a helyébe. Az ilyen ḍh előtt az a-ból o lesz, ritkábban ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „valamit elrejteni”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Szószedet
 
-- **budh** 4 A (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : felébredni, az ismeretre ébredni, megérteni; PPP **buddha** 3 felébredt, ezért **Buddha** = „a Felébredt” (nem: a Megvilágosodott)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : felébredni, az ismeretre ébredni, megismerni; PPP **buddha** 3 felébredt, ezért **Buddha** = „a Felébredt” (nem: a Megvilágosodott)
 
 ::: media
 ![](/images/lekt1201.webp)
-Ábr.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt1201))
+Ábr.: ⟪गौतमो बुद्धः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (valamit) megégetni
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟩ sahate soḍha : leküzdeni, elviselni, türelmesen elviselni = megbocsátani
-- **mṛga** m. ⟪मृग⟫ : vadállat
-- **mārga** m. ⟪मार्ग⟫ : út (az utak gyakran a vadösvények voltak)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (valamit) elégetni
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : legyőzni, elviselni, türelmesen elviselni = bocsánatot adni
+**mṛga** m. ⟪मृग⟫ : vadállat
+**mārga** m. ⟪मार्ग⟫ : út (az utak gyakran a vadútvonalak voltak)
 
 ::: media
 ![](/images/lekt1202.webp)
 Ábr.: ⟪मार्गः⟫
-(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt1202))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : is (utótagként)
+**api** ⟪अपि⟫ : is (utótagként)
 
-A 6. jelen idő osztályba a bennszülött grammatikusok néhány gyökérrendszert sorolnak, amelyek a jelen időtőkéjét nasális infixummal és a témavokál a-val képezik, például:
+A 6. jelen idő osztályhoz a bennszülött grammatikusok néhány gyököt sorolnak, amelyek a jelen időtőjét nasális infixummal és az a téma magánhangzóval képezik, pl.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : old, elenged, szabadít; megszabadítani a körforgástól (**saṃsāra** m.) = megváltani
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : meglocsolni, megszentelni
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : elengedni, szabadon bocsátani, megszabadítani; a születés és halál körforgásától (**saṃsāra** m.) való megszabadítás = megváltani
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : meglocsolni
 
 Szóképzés:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : elszakadás, felszabadítás, megváltás
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : egy király meglocsolása a koronázási szertartás során, királykoronázás
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : az ébredés (amellyel egy Buddha vagy Jina a megváltó felismerésre jut)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : leválás, megszabadulás, megváltás
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : egy király meglocsolása a trónra lépésekor, királyi beiktatás
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : az ébredés (amellyel egy Buddha vagy Jina a megváltó belátáshoz jut)
 
 ::: media
 ![](/images/lekt1203.webp)
-Kép: ⟪महावीरो⟫ ⟪जिनः⟫
+Ábr.: ⟪महावीरो जिनः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : felismerés, tudás szerve.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tudat, a tudás szerve.
 
-### 12.5.1. A passív és a PPP eddig tanult gyökökből
 
-| Tő:br⟪धातु⟫ | Passiv Jelen idő 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. A eddig tanult gyökök passzívja és PPP-je
+
+| Gyök:br⟪धातु⟫ | Passzív jelen idő 3. sg. indikatív:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
+
 ## 12.6. Gyakorlat
 
-**A) Képezze a [Lektion 7](/lektionen/lektion07) A gyakorlatának aktív mondataiból a múlt idő passzív mondatait PPP-vel, intranszitív igéknél és mozgást kifejező igéknél pedig a múlt idő aktív mondatait.**
+**A) Alakítsa ki a [7. lecke](/lektionen/lektion07) A gyakorlatának aktív mondataiból a múlt idő passzív szerkezetét, intranszitív igáknál és mozgást kifejező igáknál pedig a múlt idő aktív szerkezetét.**
 
-**B) Alakítsa ki a megfelelő PPP-ket az [Lektion 10](/lektionen/lektion10) A. gyakorlatának igéihez. Vegye figyelembe, hogy az olyan alakhoz mint sṛjati PPP-k felelnek meg mindhárom nemben.**
+**B) Alakítsa ki a megfelelő PPP-ket (múlt idő részvevője) a [10. lecke](/lektionen/lektion10) A gyakorlatának igeragozásaihoz. Vegye figyelembe, hogy egy olyan alakhoz mint sṛjati PPP-k felelnek meg mindhárom nemben.**
 
-**C) Alakítsa passívba az [Lektion 10](/lektionen/lektion10) C. gyakorlatának mondatait múlt időben.**
+**C) Alakítsa át a [10. lecke](/lektionen/lektion10) C gyakorlatának mondatait passzív szerkezetbe a múlt időben.**
 

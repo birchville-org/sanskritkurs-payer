@@ -10,152 +10,140 @@ status: stable
 
 # Leçon 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. L'adverbe (⟪क्रियाविशेषणम्⟫)
 
-Les adverbes sont formés en sanskrit
+Les adverbes sont formés en sanskrit par
 
-1.  par des formes casuelles de noms et pronoms
-2.  à l’aide de suffixes et terminaisons particuliers
+1. des formes casuelles de noms et pronoms
+2. à l'aide de suffixes et terminaisons particuliers
 
-Dans le premier cas, la frontière entre le cas vivant et l’adverbe est fluide. Il s’agit notamment des adverbes qui sont des formes casuelles figées et anciennes, tandis que dans la déclinaison d’autres formes sont utilisées ou que les noms correspondants ne sont plus employés en tant que noms.
+Dans le premier cas, la frontière entre le cas vivant et l'adverbe est fluide. À cet égard, on compte comme cas particulier les adverbes qui sont des formes casuelles figées et anciennes, alors que dans la déclinaison d'autres formes sont employées ou que les noms correspondants ne sont plus utilisés comme noms.
 
 ## 37.2. Usage adverbial des formes casuelles
 
-### 37.2.1. Accusatif (⟪dvitīyā⟫)
+### 37.2.1. Accusatif (⟪द्वितीया⟫)
 
 ::: grammar-box
-L'accusatif (⟪द्वितीया⟫) peut être employé adverbialement pour les questions :
+L'accusatif (⟪द्वितीया⟫) peut être employé adverbialement aux questions :
 
-*   où ?
-*   et c.
-*   où ?
-*   et c.
+*   de quelle manière ?
+*   pendant combien de temps ?
+*   vers où ?
+*   etc.
 
-L’accusatif peut être utilisé comme adverbe :
+L'accusatif peut être employé adverbialement :
 
-*   des substantifs  
-    Exemples :  
-:::
-::: indent
-⟪कामम्⟩ « selon le souhait, à volonté »
-⟪अर्थम्⟩ « en raison de »
-:::
+*   de substantifs  
+Exemples :  
+⟪कामम्⟫ "selon le souhait, à volonté"  
+⟪अर्थम्⟫ "à cause de"
 
-*   des adjectifs au neutre  
-    Exemples :  
-::: indent
-⟪सुखम्⟫ "léger, heureux"
-⟪नित्यम्⟫ "toujours"
-⟪साधु⟫ "correct, bon"
-:::
+*   d'adjectifs au neutre  
+Exemples :  
+⟪सुखम्⟫ "facilement, heureusement"  
+⟪नित्यम्⟫ "toujours"  
+⟪साधु⟫ "correctement, bien"
 
-*   des pronoms au neutre  
-    Exemples :  
-::: indent
-⟪तद्⟫ "alors, c'est pourquoi"
-⟪यद्⟫ "si, que"
+*   de pronoms au neutre  
+Exemples :  
+⟪तद्⟫ "alors, c'est pourquoi"  
+⟪यद्⟫ "si, que"  
 ⟪एतद्⟫ "ainsi, ici, maintenant"
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-L’instrumental (⟪तृतीया⟫) peut être employé adverbialement pour les questions :
+L'instrumental (⟪तृतीया⟫) peut être employé adverbialement aux questions :
 
 *   par quoi ?
 *   avec quoi ?
-*   et c. p.
+*   etc.
 
-L'instrumental peut être utilisé comme un adverbe :
+L'instrumental peut être employé adverbialement :
 
-*   des substantifs  
-    Exemples :  
-:::
-::: indent
-⟪अर्थेन⟫ "en raison de"
-⟪क्षणेन⟫ "au moment précis, immédiatement" (de ⟪क्षण⟫ m. "moment")
-:::
+*   de substantifs  
+Exemples :  
+⟪अर्थेन⟫ "à cause de"  
+⟪क्षणेन⟫ "au moment présent, immédiatement" (de ⟪क्षण⟫ m. "moment")
 
-*   des adjectifs, souvent aussi au pluriel  
-    Exemples :  
-::: indent
-⟪दूरेण⟫ "loin, de loin" (à ⟪दूर⟫ 3 "loin, loin de")
-⟪उच्चैस्⟫ "haut, fort" (à ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
+*   d'adjectifs, souvent aussi au pluriel  
+Exemples :  
+⟪दूरेण⟫ "loin, de loin" (de ⟪दूर⟫ 3 "loin, éloigné de")  
+⟪उच्चैस्⟫ "haut, fort" (de ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
 :::
 ### 37.2.3. Datif (⟪चतुर्थी⟫)
 
 ::: grammar-box
-On utilise rarement le datif (⟪चतुर्थी⟫) de manière adverbiale pour les questions :
+Rarement le datif (⟪चतुर्थी⟫) est employé adverbialement pour les questions :
 
-*   et c.
-*   et c.
+*   à quelle fin ?
+*   et similaires.
 
 Exemple :
 :::
 ::: indent
-⟪अर्थाय⟫ « dans le but de, afin de ... »
+⟪अर्थाय⟫ "dans le but de, pour l'amour de ..."
 :::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.4. Ablatif (⟪पञ्चमी⟫)
 
 ::: grammar-box
-L'ablatif (⟪पञ्चमी⟫) peut être utilisé adverbialement pour les questions :
+L'ablatif (⟪पञ्चमी⟫) peut être employé adverbialement pour les questions :
 
 *   pourquoi ?
-*   et c.
-*   d’où ?
-*   et c.
+*   à cause de qui/quoi ?
+*   d'où ?
+*   et similaires.
 
-L'ablatif peut être utilisé comme un complément circonstanciel :
+L'ablatif peut être employé adverbialement :
 
-*   des substantifs  
-    p. ex. ⟪बलात्⟩ « avec violence, par la force »
+*   avec des substantifs  
+par ex. ⟪बलात्⟩ "violemment, avec violence"  
 
-*   des adjectifs  
-    p. ex. ⟪दूरात्⟩ « de loin »
+*   avec des adjectifs  
+par ex. ⟪दूरात्⟩ "de loin"  
 
-*   des pronom
-    Exemples :  
-:::
-::: indent
-⟪कस्मात्⟫ "pourquoi"
-⟪अकस्मात्⟫ "inattendu"
+*   avec des pronoms  
+Exemples :  
+⟪कस्मात्⟩ "pourquoi"  
+⟪अकस्मात्⟩ "imprévu"
 :::
 ### 37.2.5. Génitif (⟪षष्ठी⟫)
 
 ::: grammar-box
-On utilise rarement le génitif (⟪षष्ठी⟫) de manière adverbiale pour la question « après combien de temps ? »
+Rarement le génitif (⟪षष्ठी⟫) est employé adverbialement pour la question "après combien de temps ?"
 
-p. ex. ⟪चिरस्य⟫ «après une longue période» (à ⟪चिर⟫ 3 «long (temps)»)
+par ex. ⟪चिरस्य⟩ "après longtemps" (à ⟪चिर⟩ 3 "longtemps")
 :::
 ### 37.2.6. Locatif (⟪सप्तमी⟫)
 
 ::: grammar-box
-Le locatif (⟪सप्तमी⟫) peut être utilisé adverbialement pour les questions :
+Le locatif (⟪सप्तमी⟩) peut être employé adverbialement pour les questions :
 
 *   où ?
-*   et c.
-*   et c.
+*   dans quelles circonstances ?
+*   et similaires.
 
 Exemples :
 :::
 ::: indent
-\-⟪अर्थे⟫ « en raison de »
-\-⟪कृते⟫ « en vue de »
-⟪दूरे⟫ « loin »
+\-⟪अर्थे⟩ "à cause de"  
+\-⟪कृते⟩ "pour l'amour de"  
+⟪दूरे⟩ "loin de"
 :::
-## 37.3. Usage adverbial des formes casuelles autrefois courantes
+## 37.3. Usage adverbial de formes casuelles autrefois courantes
 
 Exemples :
 ::: indent
-⟪जातु⟫ « en général » (originellement « par naissance, par nature », acc.sg.n. de ⟪जातु⟫ \<n’est plus utilisé comme nom\>)
+⟪जातु⟩ "en général" (originellement "par naissance, par nature", acc. sg. n. à ⟪जातु⟩ \<plus utilisé comme nom\>)
 
-⟪तूष्णीम्⟫ « silencieusement » (acc.sg. d’un ⟪तूष्णी⟫ f. « silence » autrefois courants)
+⟪तूष्णीम्⟩ "silencieusement" (acc. sg. à un ⟪तूष्णी⟩ f. "silence" autrefois courant)
 
-⟪एवम्⟫ « ainsi » (dérivé d’une racine pronominale ⟪एव⟫ « un, unique » par ailleurs perdue)
+⟪एवम्⟩ "ainsi" (à une racine pronominale autrement perdue ⟪एव⟩ "un, seul")
 :::
-## 37.4. Formation d'adverbes avec des suffixes adverbiaux
+## 37.4. Formation des adverbes avec suffixes adverbiaux
 
 ::: grammar-box
-À partir des radicaux pronominaux ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou ⟪कु⟫, on peut dériver des adverbes pronominaux correspondants à l'aide des suffixes adverbiaux
+À partir des racines pronominales ⟪तद्⟫, ⟪इदम्⟫ ou bien ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou bien ⟪कु⟫, on peut dériver des adverbes pronominaux à l'aide des suffixes adverbiaux
 
 *   \-⟪तस्⟫ (ablatif)
 *   \-⟪त्र⟫ (locatif)
@@ -163,18 +151,18 @@ Exemples :
 *   \-⟪थम्⟫ (manière)
 *   \-⟪दा⟫ (temps)
 
-dériver les adverbes pronominaux correspondants.
+les adverbes pronominaux correspondants.
 :::
 ::: grammar-box
 
-| :--- | :--- | | | |
+| Suffixe | Racine pronominale | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(ablatif) | ⟪ततस्⟫ :brde là, dessus, par conséquent | ⟪इतस्⟫ :br ⟪अतस्⟫ :brd'ici, pour cette raison | ⟪यतस्⟫ :brd'où, de quoi | ⟪कुतस्⟫ :brd'où ?, pourquoi ? |
+| **-⟪त्र⟫** :br(locatif) | ⟪तत्र⟫ :brlà, là-bas | ⟪अत्र⟫ :bridici | ⟪यत्र⟫ :broù | ⟪कुत्र⟫ :broù ? |
+| **-⟪था⟫** :br(manière) | ⟪तथा⟫ :brainsi | | ⟪यथा⟫ :brcomment | |
+| **-⟪थम्⟫** :br(manière) | | | | ⟪कथम्⟫ :brcomment ? |
+| **-⟪दा⟫** :br(temps) | ⟪तदा⟫ :bralors, alors | | ⟪यदा⟫ :brquand (événement ponctuel) | ⟪कदा⟫ :brquand ? |
 
 :::
 ::: grammar-box
@@ -190,11 +178,11 @@ Fig. : ⟪क्व⟫
 
 **Autres suffixes adverbiaux**
 
-| :--- | |
+| Suffixe | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | peut être ajouté à n'importe quel nom pour exprimer "à la manière de, semblable à" :brpar ex. ⟪पुत्रवत्⟫ "comme un fils" |
+| **-⟪तस्⟫** | aux noms et pronoms. Généralement sens ablatif "d'où ?", mais aussi "où ?" (lieu), "vers où ?" :brpar ex. ⟪आदितस्⟫ "depuis le commencement" |
+| **-⟪धा⟫** | 1. Avec les adverbes numéraux dans le sens "- fois", "- pluriel" :brpar ex. ⟪द्विधा⟫ "double" :br2. dans le sens "de la manière suivante" :brpar ex. ⟪समधा⟫ "de la même manière" (lié à ⟪सम⟫ 3 "semblable") |
 
 :::
 ## 37.5. Composés adverbiaux
@@ -249,7 +237,7 @@ par ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "il devint silencieux, il
 ## 37.7. Pronoms indéfinis
 
 ::: grammar-box
-Les pronoms indéfinis (pronomina indefinita) se forment en ajoutant
+Les pronoms indéfinis (pronoms indéfinis) se forment en ajoutant
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
@@ -271,7 +259,7 @@ Qui ne demande reste ignorant."
 
 ⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Devise de Sesamstrasse, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
+Devise de Sesamstrasse, qui constitue une bonne ligne directrice pour la vie et les études du sanskrit
 :::
 Voir aussi [Leçon 4](lektion04.md).
 
@@ -285,10 +273,10 @@ Dans les questions par mot, on demande un agent (⟪कर्तृ⟫), un obje
 *   qui vient ?
 *   que fait Rāma ?
 *   qui écoute-t-il ?
-*   comment parle-t-elle le sanskrit ?
+*   comment parle-t-elle sanskrit ?
 *   où est la mère ?
 
-Dans les phrases interrogatives, c'est le contenu entier de la phrase qui est questionné, par exemple :
+Dans les phrases interrogatives, c'est tout le contenu de la phrase qui est interrogé, par exemple :
 
 *   Rāma va-t-il aujourd'hui à Ofterdingen ?
 *   est-ce vrai que ... ?
@@ -377,56 +365,51 @@ Fig. : ⟪शाक्यमुनिः⟫
 :::
 ⟪दिन⟫ n. : Jour
 
-⟪वृक्ष⟫ m. : Arbre
+A) Répondez aux questions suivantes en sanskrit à l’aide des mots indiqués entre parenthèses. Traduisez les phrases interrogatives.
 
-::: media
-![lekt3706.jpg](/images/lekt3706.webp)
-Fig. : ⟪वृक्षः⟫
-(Source de l'image : [Détails](/fr/licenses#lekt3706))
-:::
-⟪मुख⟫ n. : Bouche, visage, partie antérieure, commencement
+Exemple : ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-## 37.10. Exercice
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-A) Répondez aux questions suivantes en sanskrit en utilisant les mots indiqués entre parenthèses. Traduisez les phrases interrogatives.
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-Exemple : ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutif\>)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutif\>)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
-
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
-
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
-
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Fig. : ⟪कृष्णः⟫ ⟪बलरामश्च⟫
+Fig. : ⟪कृष्णः बलरामश्च⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Fig. : ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
+Fig. : ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3708))
+:::
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
+
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
+
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -508,6 +491,3 @@ Fig. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪�
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3711))
-
-
-:::

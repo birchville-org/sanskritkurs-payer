@@ -1,140 +1,142 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Mësimi 11"
+subtitle: "Akuzativ i dyfishtë (Akuza e personit dhe e gjërës)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 11
 
-## 11.1. Doppelter Akkusativ
+## 11.1. Akuzativ i dyfishtë
 
 ::: grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.**
+**Disa folje mund të regulojnë një akuzativ të dyfishtë (dvitīyā): Akuzativ i personit dhe akuzativ i gjërës.**
 
-**Hierzu gehören:**
-- **Verben des Sprechens**: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen
-- **Verben des Fragens**: jemanden (Akkusativ) nach etwas (Akkusativ) fragen
-- **Verben des Lehrens**: jemanden (Akkusativ) etwas (Akkusativ) lehren
-- einige weitere Verben, bei denen es in den Wortlisten vermerkt wird
+**Në këtë kategori përfshihen:**
+**Folje të foljes**: flas me dikë (akuzativ) për diçka (akuzativ); i them dikujt (akuzativ) diçka (akuzativ)
+**Folje të pyetjes**: e pyes dikë (akuzativ) për diçka (akuzativ)
+**Folje të mësimdhënies**: e mësoj dikë (akuzativ) diçka (akuzativ)
+disa folje të tjera, për të cilat do të bëhet shënim në listat e fjalëve
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.**
+**Kur një konstrukim i tillë vendoset në zanafillor (passiv), personi (ai që pyetet etj.) vendoset në nominativ (prathamā), ndërsa gjëra (për të cilën pyetet etj.) mbetet në akuzativ.**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
+p.sh. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो ब्राह्मणं धर्मं पृच्छति⟫ = "Rāma e pyet brahmanin për dharma-n."
+» Zanafillor: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण ब्राह्मणो धर्मं पृच्छयते⟫
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):**
+**Kjo rregull vlen vetëm kur si personi ashtu edhe gjëra janë objekte. Nëse një gjër është objekti i vetëm, ajo qëndron sipas skemës bazë të fjalisë zanafillore në nominativ (prathamā):**
 
-z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
+p.sh. **rāmo dharmaṃ pṛcchati** = ⟪रामो धर्मं पृच्छति⟫ = "Rāma pyet për dharma-n."
+» Zanafillor: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण धर्मः पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Listë fjalësh
 
-**Lernen Sie folgende Wörter:**
+**Mësoni fjalët e mëposhtme:**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+**iti** ⟪इति⟫ : kështu
+Qëndron *pas* formulimit të një mendimi, dëshireje, shprehjeje ose citati si lloj thonjëzesh ("").
+p.sh. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanët thonë: 'Njerëzit e shenjtë shkojnë në qiell'" = "Brahmanët thonë se njerëzit e shenjtë shkojnë në qiell".
+Në sanskritisht nuk ka fjalë të drejtpërdrejtë; formime me **iti** shpesh duhet të përkthehen në sanskritisht si fjalë e drejtpërdrejtë.
+**... (citati) ... iti śrutiḥ** = "kështu thotë Veda".
+Shpesh pas **iti** duhet të mendohet një folje e mendimit: "duke mendojtë: '...' ai bën këtë". Në gjermanisht përkthehet idiomatikisht (p.sh. "Meqenëse ka uri, ai shkon...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
+**evam** ⟪एवम्⟫ : kështu (adverbialisht, p.sh. **evaṃ jayati** "kështu ai fiton").
+**na** ⟪न⟫ : jo
+Nukonon fjalë të vetme (ndodhet menjëherë përpara: **na sādhuḥ** "jo i mirë") ose tërheqje (ndodhet në fillim ose menjëherë përpara foljes).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
+**putra** m. ⟪पुत्र⟫ : bir (Në Indi ishte e nevojshme të lindësh një bir që mund t'i ofronte flijimet paraardhësve.)
+**dharma** m. ⟪धर्म⟫ : ("ajo që është e fortë", d.m.th.) ligj, rregull, zakon, karakter.
+Përputhet më së miri me ligjin natyror/moral. Çdo person ka detyrimet e veta sipas **varṇa** dhe **āśrama** (fazës së jetes) (**svadharma**).
+**adharma** m. ⟪अधर्म⟫ : padrejtësi (kundërshtari i **dharma**).
+**iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : të dëshirosh (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:**
+**Disa formime emrash:**
 
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+**vad** 1 P ⟪वद्⟫ : të them
+**vāda** m. ⟪वाद⟫ : deklaratë, pohim, fjalë
+**vadana** n. ⟪वदन⟫ : të folurit; organ i fjalimit: gojë, fytyrë
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+Fig.: **vadanāni** = ⟪वदनानि⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+**prach** 6 P ⟪प्रच्छ्⟫ : të pyes
+**praśna** m. ⟪प्रश्न⟫ : pyetje (sufiksi **-na** si në **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
+**iṣ** 6 P ⟪इष्⟫ : të dëshirosh
+**iṣṭi** f. ⟪इष्टि⟫ : dëshirë (**iṣ** + **-ti**)
 
-## 11.3. Übung
 
-**A) Übersetzen Sie untenstehende Sätze:**
+## 11.3. Ushtrim
 
-1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
-2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
-3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ |
-4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ |
-5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ |
-6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ |
-7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ |
-8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫
-9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | |
-10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | |
-11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
-12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
+**A) Përktheni fjali më poshtë:**
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.**
+1. ⟪ऋषिः सत्यं वदति⟫ |
+2. ⟪ब्राह्मणः पुत्रमिच्छति⟫ |
+3. ⟪साधुः स्वर्गं गच्छति⟫ |
+4. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः⟫ |
+5. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति⟫ |
+6. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति⟫ |
+7. ⟪पुत्रः पापं करोतीति वैश्या मन्यते⟫ |
+8. ⟪क्षत्रियः क्षत्रियेण सह युध्यते⟫
+9. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति⟫ | |
+10. ⟪अयं क्षत्रियो धर्मं रक्षति⟫ | |
+11. ⟪को ऽग्निं यजते⟫ | |
+12. ⟪स श्रावको बुद्धं धर्मं पृच्छति⟫ ||
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.**
+**B) Shkruani pohimet nga A) në formë pasive.**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.**
+**C) Në pohimet e A), ku është e arsyeshme, shndërroni subjektin, objektin dhe predikatin në numrin shumës.**
+
+**D) Formoni formën pasive për pohimet e krijuara sipas C).**
 
 ::: media
 ![](/images/lekt1101.webp)
-Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Bildquelle: [Details](/licenses#lekt1101))
+Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाकाश्यपः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung
+## 11.4. Ushtrim përsëritës
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:**
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
-2. Der Lehrer spricht ein Mantra.
-3. Heilige Frauen gelangen in einen Himmel.
-4. Ein vedischer Weiser tut nichts Böses.
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
-6. Die Śūdrafrau geht ins Dorf.
-7. Wer sieht die Wahrheit?
+**A) Përktheni në sanskritisht me konstrukcione pasive:**
+1. Gratë e kategorisë Vaiśya i pyesin brahmanët për dharma-n.
+Mësuesi thotë një mantra.
+Gratë e shenjta arrijnë në qiell.
+Një gjyshi vedik nuk bën asgjë të keqe.
+Brahmanët e adhuruar si priftër sakrificash i ofrojnë flijime hyjneshës.
+Gruaja e kategorisë Śūdra shkon në fshat.
+Kush sheh të vërtetën?
 
 **B)**
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
+1. Jepni detyrat e të gjithë dyherë të lindurve me një Dvandva. Zgjidhni kompozitin në sanskritisht.
+Jepni detyrat e Vaiśyave me një Dvandva. Zgjidhni kompozitin në sanskritisht.
 
-**C) Übersetzen Sie:**
+**C) Përktheni:**
 
-1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
-2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
-3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | |
-4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | |
-5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | |
+1. ⟪श्रवणेन श्रूयते⟫ | |
+2. ⟪कर्षर्कैः कृष्यते⟫ | |
+3. ⟪श्रावकेणेश्वरो नेज्यते⟫ | |
+4. ⟪रक्षिक्या गुरू रक्ष्यते⟫ | |
+5. ⟪ब्राह्मणेनानृतं नोद्यते⟫ | |
 6. ⟪शूद्रेतरा⟫ | |
-7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
-8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
+7. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ | |
+8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः⟫ ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:**
+**D) Përktheni dhe shndërrojeni në sanskritisht agjentin, objektin dhe foljen në numrin shumës:**
 
 1. ⟪फलमश्नुते⟫ | |
-2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
-3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
-4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
+2. ⟪गुरुणा सत्यमुद्यते⟫ | |
+3. ⟪वैश्यः पशुं लभते⟫ | |
+4. ⟪पुत्रः पुण्यं करोति⟫ ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.**
+**E) Shnderrni deklarativen C) 1-5 në konstrukta aktive.**
 
 ::: media
 ![](/images/lekt1103.webp)
-Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Details](/licenses#lekt1103))
+Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण कृष्यते⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1103))
 :::

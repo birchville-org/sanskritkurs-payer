@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Oppitunti 44"
+subtitle: "Toisen persoonan verbinen muodostaminen (⟪मध्यमः⟫) atemaattisissa varmoissa, joiden päätteet päättyvät vokaaliin"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 44

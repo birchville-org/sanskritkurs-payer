@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Μάθημα 7"
+subtitle: "Η ρηματική πρόταση με απαντητικό αντικείμενο"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 7

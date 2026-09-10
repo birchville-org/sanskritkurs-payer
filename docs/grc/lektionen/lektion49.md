@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Μάθημα 49"
+subtitle: "Σύνταξις του ὀρθατικοῦ (⟪लोट्⟫) ἀθεματικῶν ἱσταμένων ριζῶν (συνέχεια)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα μθʹ
@@ -228,7 +229,7 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
+Εἰκ.: ⟪कुलूहलम्⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: ὅλος, τελείως
@@ -295,9 +296,9 @@ Gerundiv ⟪ध्येय⟫
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Εἰκ.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/grc/licenses#lekt4905))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 

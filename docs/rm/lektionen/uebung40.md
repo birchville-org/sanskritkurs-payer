@@ -1,8 +1,9 @@
 ---
-title: "Esercitaziun 40"
+title: "[Esercizi 40]"
 uebung_id: 40
-category: "Esercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -104,8 +105,8 @@ B) Transforma las suandantas formas verbalas en las correspundentas formas da pe
 :::
 ::: media
 ![](/images/uebung065.webp)
-Abb.: ⟪आशिमेति⟫
-(Bildquelle: [Details](/licenses#uebung065))
+Fig.: ⟪आशिमेति⟫
+(Font dal maletg: [Details](/licenses#uebung065))
 :::
 ---
 
@@ -153,8 +154,8 @@ Determinar e traduscher Vossas formas verbalas:
 :::
 ::: media
 ![](/images/uebung066.webp)
-Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Bildquelle: [Details](/licenses#uebung066))
+Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
+(Font dal maletg: [Details](/licenses#uebung066))
 
 :::
 

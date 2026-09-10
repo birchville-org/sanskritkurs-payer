@@ -177,6 +177,18 @@ Proștii, care au stârnit cearta, te-au înșelat. Mālyavant¹ a spus ceea ce 
 \>
 > 1 Rāma
 
+⟪राघवस्यामुषः कान्तामाप्तैरुक्तो न चार्पिपः । मा नानुभूः स्वकान्दोषान्मा मुहो मा रुषो ऽधुना ॥१६॥⟫
+
+> Ai furat pe iubitul lui Raghunachkommen¹. Deși ți s-a spus de către persoane cu autoritate, nu ai returnat-o. Cesează să-ți ignori propriile greșeli! Nu fi confuz, nu te mânia acum!
+\>
+> ⟪अमुषस्⟫ - ⟪मुष्⟫ Aor. 2  
+> ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Kaus. Aor. 3  
+> ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Injunktiv Aor. 1  
+> ⟪मुहस्⟫ - ⟪मुह्⟫ Injunktiv Aor. 2  
+> ⟪रुषस्⟫ - ⟪रुष्⟫ Injunktiv Aor. 2
+\>
+> 1 Rāma
+
 ⟪तस्याप्यत्यक्रमीत्कालो यत्तदाहमवादिषम् । अघानिषत रक्षांसि परैः कोशांस्त्वमव्ययीः ॥१७॥⟫
 
 > Pentru ceea ce ți-am spus atunci, momentul potrivit a trecut. Rākṣasas au fost uciși de inamici. Ai pierdut comorile.
@@ -197,5 +209,5 @@ Proștii, care au stârnit cearta, te-au înșelat. Mālyavant¹ a spus ceea ce 
 ::: media
 ![](/images/uebung099.webp)
 Abb.: ⟪रामस्य रावणेन युद्धः⟫
-(Bildquelle: [Details](/licenses#uebung099))
+(Sursa imaginii: [Detalii](/licenses#uebung099))
 :::

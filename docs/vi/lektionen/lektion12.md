@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Bài 12"
+subtitle: "Phân từ quá khứ bị động (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 12
+# Bài 12
 
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Phân từ Quá khứ Bị động (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Một cách để hình thành câu bị động trong quá khứ là sử dụng cấu trúc với Phân từ Quá khứ Bị động (PPP) được gọi như vậy.
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**Trên thực tế, PPP không phải là một phân từ thực sự, vì nó không được hình thành từ gốc thời. Thay vào đó, nó là một dạng danh từ hóa dựa trên gốc động từ với hậu tố chính -ta hoặc -na. Do đó, trong ngữ pháp Ấn Độ học, người ta gọi nó là hậu tố kta.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Sơ đồ cho động từ chuyển tiếp
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Chủ ngữ (kartṛ) ở cách Dụng cụ (tṛtīyā) -- Tân ngữ trực tiếp (karman) ở cách Chủ ngữ (prathamā) -- Phân từ Quá khứ Bị động**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+Trong trường hợp này, PPP đồng nhất với tân ngữ về số, cách và giống.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+Không cần trợ động từ ("là").
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Ví dụ:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Thiên đường đã được đạt bởi vị Thánh) = Vị Thánh đã đạt được một thiên đường."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nữ thần đã được tôn vinh bởi vị Brahman với một lễ hy sinh) = Vị Brahman đã tôn vinh nữ thần với một lễ hy sinh."
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. Sơ đồ I cho động từ bất chuyển và động từ chỉ sự di chuyển
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Chủ ngữ (kartṛ) ở cách Chủ ngữ (prathamā) -- Phân từ Quá khứ Bị động**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+Trong trường hợp này, PPP đồng nhất với chủ ngữ về số, cách và giống. Phân từ Quá khứ "Bị động" có ý nghĩa chủ động đối với các động từ bất chuyển (động từ không có tân ngữ trực tiếp) và động từ chỉ sự di chuyển.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Ví dụ:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Người phụ nữ Kṣatriya đã đi vào thành phố."
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. Sơ đồ II cho động từ bất quy tắc và động từ chỉ chuyển động
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Chủ ngữ (kartṛ) ở cách dụng cụ (tṛtīyā) -- PPP ở cách chủ ngữ số ít trung tính**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+Ví dụ:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Bị đi (vào thành phố) bởi Kṣatriya) = Vị Kṣatriya đã (đi vào thành phố).“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+Cấu trúc theo Sơ đồ II hiếm gặp hơn nhiều so với cấu trúc theo Sơ đồ I.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. Về ý nghĩa của PPP
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Do đó, trong khi „Phiên bản hoàn thành bị động“ (Partizip Perfekt Passiv) đối với các động từ chuyển tiếp chủ yếu mang ý nghĩa bị động (**āpta** = „đã đạt được (bị động)“) và đối với các động từ bất quy tắc và động từ chỉ chuyển động mang ý nghĩa chủ động (**gata** = „đã đi“), có một số động từ mà PPP có thể mang cả ý nghĩa chủ động lẫn bị động:
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+Ví dụ:
+**gata** = ⟪गत⟫ = „đã đi“ (chủ động); nhưng cũng: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „một con đường đã đi“ (bị động)
+**āpta** = ⟪आप्त⟫ = „đã đạt được“ (bị động), „đang có được“ (chủ động)
 
-## 12.3. Bildung des PPP
+
+## 12.3. Hình thành PPP
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Các cách hình thành sau đây xuất hiện (với mỗi gốc từ, bạn cần học PPP tương ứng của nó!):
 
-**(meist) tiefstufige Wurzel**
+**(thường là) gốc từ ở mức độ thấp**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
-- **+ -na**
+**+ -ta**
+với nguyên âm kết nối **-i-** phía trước: **-ita**
+không có nguyên âm kết nối: **-ta**
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Các gốc từ giống cái kết thúc bằng: **-tā**, **-itā**, **-nā**; giống trung biến đổi như **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP kết thúc bằng -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Không có nguyên âm kết nối -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = „không có (*an-*) tiền tố trước hậu tố (*-i-*) *t*“ (tức là không có nguyên âm kết nối *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Không có nguyên âm nối, ta thường tạo PPP từ các gốc kết thúc bằng nguyên âm cũng như nhiều gốc khác, mà không thể đưa ra một quy tắc cố định về việc khi nào thì nguyên âm nối xuất hiện hoặc không.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+Danh sách các gốc *aniṭ* có thể tìm thấy ở Kielhorn, *Grammatik* § 298.
 :::
-**Beispiele:**
+**Ví dụ:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Gốc | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +109,14 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. Với nguyên âm nối -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „với (*sa-*) hậu tố đứng trước (*-i-*) *t*“ (tức là với nguyên âm nối *i*).
 
-**Beispiele:**
+**Ví dụ:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Gốc | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +124,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Các quy luật hợp âm trong từ
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+Đối với các hình thành *aniṭ*, cần lưu ý những quy luật sau đây về sự kết hợp âm trong từ. **Những quy luật này rất quan trọng để hiểu toàn bộ hình thái học tiếng Phạn.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p đứng trước âm tắc vô thanh (ví dụ: t, th) giữ nguyên:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct được thay bằng kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt được thay bằng ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Âm tắc hữu thanh không gió – trừ j – đứng trước âm vô thanh được thay bằng âm tắc hữu thanh không gió tương ứng:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (quan trọng đối với lớp Hiện tại thứ 2) |
+| **5. jt được thay bằng kt hoặc ṣṭ (không phải tùy chọn!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Âm tắc hữu thanh có gió + âm tắc vô thanh » âm tắc hữu thanh không gió + âm tắc hữu thanh có gió (Định luật gió của Bartholomae):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t được thay bằng ḍh với sự kéo dài của i hoặc u đứng trước; hoặc bằng gdh. Trước một ḍh như vậy, a được thay bằng o, hiếm hơn là bằng ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „che giấu điều gì đó”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Danh sách từ vựng
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : tỉnh thức, tỉnh thức để đạt được tri kiến; PPP **buddha** 3 đã tỉnh thức, do đó **Buddha** = "Đấng Tỉnh Thức" (không phải: Đấng Giác Ngộ)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Hình: ⟪गौतमो बुद्धः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (ai đó) đốt cháy
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : vượt qua, chịu đựng, kiên nhẫn chịu đựng = tha thứ
+**mṛga** m. ⟪मृग⟫ : thú hoang
+**mārga** m. ⟪मार्ग⟫ : đường đi (đường thường là lối thú hoang)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Hình: ⟪मार्गः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : cũng (đặt sau)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Đối với lớp thứ 6 của động từ, các nhà ngữ pháp bản địa tính một số gốc động từ hình thành stem hiện tại với infix mũi và nguyên âm chủ đề a, ví dụ:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : cởi trói, thả ra, giải thoát; giải thoát khỏi vòng luân hồi (**saṃsāra** m.) = cứu rỗi
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : tưới nhỏ giọt
 
-Zur Wortbildung:
+Về cấu tạo từ:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : sự cởi trói, giải thoát, cứu rỗi
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : nghi thức tắm cho vua trong lễ đăng quang, lễ đăng quang
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : sự tỉnh thức (thông qua đó một vị Buddha hoặc Jina đạt được trí tuệ giải thoát)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Hình: ⟪महावीरो जिनः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : nhận thức, cơ quan nhận thức.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Bị động và PPP của các gốc từ đã học cho đến nay
+
+| Gốc từ:br⟪धातु⟫ | Bị động Hiện tại 3. sg. Chỉ định:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Bài tập
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) Từ các câu chủ động của [Bài 7](/lektionen/lektion07), Bài A, hãy tạo thành các câu bị động ở thì quá khứ; với các động từ bất quy tắc và động từ chỉ chuyển động, hãy tạo thành các câu chủ động ở thì quá khứ.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) Hãy lập ra các PPP tương ứng với các dạng động từ của [Bài 10](/lektionen/lektion10), Bài A. Lưu ý rằng một dạng như sṛjati tương ứng với các PPP ở cả ba giống.**
+
+**C) Hãy chuyển các câu của [Bài 10](/lektionen/lektion10), Bài C sang bị động ở thì quá khứ.**
 

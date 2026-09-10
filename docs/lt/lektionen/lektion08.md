@@ -1,234 +1,237 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Pamoka 8"
+subtitle: "Daiktavardžių daryba ir 8. esamųjų laikų klasė"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Pamoka 8
 
 
-## 8.1. Zur Bildung von Nomina
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
+## 8.1. Dėl daiktavardžių formavimo
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+Tradicinėje indų gramatikoje skiriama galūnės, kuriomis formuojami daiktavardžio kamienai:
+
+**kṛt galūnės (⟪कृत्⟫) (pirminės galūnės):** sudaro iš veiksmažodžio šaknų (**dhātu** m. = ⟪धातु⟫) ir veiksmažodžio kamienų daiktavardžių kamienus, absoliutyvus ir infinityvus.
+**taddhita galūnės (⟪तद्धित⟫) (antrinės galūnės):** pridedamos prie daiktavardžių kamienų ir nepakitusių žodžių bei sudaro naujus daiktavardžio kamienus arba nepakitusius žodžius.
 
 ::: grammar-box
 **Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
+**Šaknis + kṛt galūnė » daiktavardžio kamienas ir kt. + taddhita galūnė » naujas daiktavardžio kamienas ir kt.**
 
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen**
+**Daiktavardžio kamienas + linksnio galūnė » sintaksiškai vartotinas daiktavardis**
 :::
 
-## 8.2. Einteilung der Nominalsuffixe
+## 8.2. Daiktavardžių galūnių skirstymas
 
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta
+**kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+**kārakakṛt** (⟪कारककृत्⟫) » agento daiktavardžiai (pažymi asmenį, atliekantį veiksmą, nurodytą šaknyje)
+**kṛtikṛt** (⟪कृतिकृत्⟫) » veiksmo daiktavardžiai (pažymi veiksmą, išreikštą šaknyje) arba abstraktūs daiktavardžiai
 
-- **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+**taddhita**
+**viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » daiktavardžiai
+**bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstraktūs daiktavardžiai
+**tadvattaddhita** (⟪तद्वत्तद्धित⟫) » nuosavybę rodantys (pvz., **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+**tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » laipsniavimas (komparatyvas, superlatyvas), palyginimas
+**pūraṇataddhita** (⟪पूरणतद्धित⟫) » ordininiai skaitvardžiai (pirmas ir kt.)
+**vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » vietoje linksnio galūnių (pvz., **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+**abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi formos ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Einteilung nach dem Ablaut:**
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung
+**Skirstymas pagal ablautą:**
+**guṇya** (⟪गुण्य⟫): aukšto lygio formavimas
+**na guṇya** (⟪न गुण्य⟫): žemo lygio formavimas
+**vṛddhyarha** (⟪वृद्ध्यर्ह⟫): pailginto lygio formavimas
 
-## 8.3. Einige wichtige Nominalsuffixe
+
+## 8.3. Kai kurios svarbios nominalinės priesagos
 
 ### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
+**Kṛt priesaga -a sudaro vyriškosios (rečiau moteriškosios) giminės daiktavardžius, kurie reiškia veiksmą arba būseną, nurodomą šaknies; kartais taip pat daiktavardžius arba būdvardžius, reiškiančius veikėją (kartṛ) pagal veiksmažodžio šaknį nurodomą veiksmą. Jei penultimas yra trumpas (= balsis prieš priebalsį, kuriuo baigiasi šaknis) arba jei šaknies balsis yra galinis, dažniausiai pakeičiamas aukštu lygiu (guṇa) arba pailgintu lygiu (vṛddhi).**
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+| Šaknis:br⟪धातु⟫ | + -a (kṛt) | Reikšmė |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **ji** 1 P:br⟪आप्⟫:br"nugalėti" | **jaya** m.:br⟪जय⟫ | "nugalėjimas, pergalė" |
+| **muh** 4 P:br⟪मुह्⟫:br"suklupti, suvilioti" | **moha** m.:br⟪मोह⟫ | "sucluptimas, apgaulė, klaida" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"pykti" | **krodha** m.:br⟪क्रोध⟫ | "pyktis" |
+| **kup** 4 P:br⟪कुप्⟫:br"pykti" | **kopa** m.:br⟪कोप⟫ | "pyktis" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"geidėti" | **lobha** m.:br⟪लोभ⟫ | "geismas" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"gauti" | **lābha** m.:br⟪लाभ⟫ | "gavimas, pelnas" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"leisti laisv,:bremanuoti leisti" | **sarga** m.:br⟪सर्ग⟫ | "laisvinimas, emanacija, kūrimas" (žr. vėliau žodžių sandhy j » g) |
+| **śru** 5 P:br⟪श्रु⟫:br"girsti" | **śrava** m.:br⟪श्रव⟫ | "girdėjimas" |
+| **bhū** 1 P:br⟪भू⟫:br"tapti, būti" | **bhāva** m.:br⟪भाव⟫ | "tapti, (kažkas) būti, prigimtis, charakteris" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kovoti" | **yodha** m.:br⟪योध⟫ | "karys, kareivis" |
+
 
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
+**Krietinis priesdėlis -ana dažniausiai sudaro viduriniojo giminės daiktavardžius, žyminčius veiksmą, būseną arba priemonę / įrankį, kuriuo pasiekiama veiksmas, nurodytas šaknies arba veiksmažodžio kamieno. Jei šaknyje yra trumpa penultimė arba galinis balsis, paprastai pakeičiamas aukštu laipsniu (guṇa).**
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Šaknis:br⟪धातु⟫ | + -ana (kṛt) | Reikšmė |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"eiti" | **gamana** n.:br⟪गमन⟫ | "ėjimas" |
+| **nī** 1 U:br⟪नी⟫:br"vesti" | **nayana** n.:br⟪नयन⟫ | "(vedimo įrankis, t.y.) akis" |
+| **śru** 5 P:br⟪श्रु⟫:br"girdėti" | **śravaṇa** n.:br⟪श्रवण⟫ | "(girdėjimo įrankis =) ausis" |
+| **kṛ** 8 U:br⟪कृ⟫:br"daryti" | **kāraṇa** n.:br⟪कारण⟫ | "(tai, kuo kas nors daroma, t.y.) priežastis, pagrindas" |
+| **bhū** 1 P:br⟪भू⟫:br"tapti" | **bhavana** n.:br⟪भवन⟫ | "tapimas, atsiradimas" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"matyti" | **darśana** n.:br⟪दर्शन⟫ | "matymas, požiūris, filosofinė sistema, išvaizda, specifikai: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801))
+Pav.: Maa Batakali Darshan, Puri, Orissa
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0801))
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
+**"Darshan"** arba **"Darshana"** yra hinduizmo terminas, žymintis šventosios ir dieviškosios esybės regėjimą ir viziją. Po *Darshana* pvz., suprantamas oficialus mokinio ir meistro susitikimas, kurį mokinys buvo pakviestas. Tačiau tai gali reikšti ir *panirijimą* žiūrint į dievybės paveikslą. Paskutinė reikšmė yra dažniausia šiuolaikinėje hindi kalboje. Kalbant apie Mata Amritanandamayį, Darshan reiškia guru apkabinimą.
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia)
+Pagarbūs hinduistai eina į šventyklą, kad pasiektų Dievo regėjimą per simbolį ar statulą, kurioje laikoma dvasinė dievybės buvimas. Šia prasme tai taip pat yra Dievo palaiminimas. Tačiau Darshaną galima gauti ir per dievybės viziją maldos ar meditacijos metu. Taip pat gyvas asmuo, laikomas dievybės inkarnacija, pvz., avatara, gali suteikti Darshaną.
+(Šaltinis: Wikipedia)
 :::
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
+**Kṛt priesaga -tra sudaro (dažniausiai) vidutinės lyties daiktavardžius, žyminčius priemonę ar įrankį, kuriuo vykdomas šaknies nurodytas veiksmas. Trumpa priešpaskutinė skiemenė ir galinis balsis šaknyje pakeičiami aukštesniu laipsniu (guṇa).**
 :::
 
-**Beispiele:**
+**Pavyzdžiai:**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Šaknis:br⟪धातु⟫ | + -tra (kṛt) | Reikšmė |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br"vesti, nešti" | **netra** n.:br⟪नेत्र⟫ | "(Vedimo priemonė =) Akis" |
+| **śru** 5 P:br⟪श्रु⟫:br"girsti" | **śrotra** :br⟪श्रोत्र⟫ | "(Girdėjimo įrankis =) Ausis" |
+| **man** 4 Ā:br⟪मन्⟫:br"mąstyti" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Mąstymo įrankis:) Sakmė, 'maginė' formulė (Mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"įtempti, ištiesti" | **tantra** n.:br⟪तन्त्र⟫ | "Audinio karkasas" |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
+**Pradinė Mantra Oṃ (⟪ॐ⟫) įvairiuose indiškuose raštuose**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| In Kannaresischer Schrift | In Tamil-Schrift |
+| Kannadų rašte | Tamilų rašte |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Bildquellen: [Details](/licenses#lekt0803))
+(Nuotraukų šaltiniai: [Išsamiau](/lt/licenses#lekt0803))
 :::
+
 
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
+**Kirtinis -ti suderinamas su moterų giminės daiktavardžiais, kurie paprastai reiškia veiksmą arba būseną, nurodytą šaknies. Šaknies forma yra žemojo laipsnio.**
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Šaknis:br⟪धातु⟫ | + -ti (kṛt) | Reikšmė |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"išgirsti" | **śruti** f.:br⟪श्रुति⟫ | "išgirdimas, Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"prisiminti" | **smṛti** f.:br⟪स्मृति⟫ | "prisiminimas, atmintis, perdavimas, dėmesingumas" |
+| **nī** 1 U:br⟪नी⟫:br"vesti" | **nīti** f.:br⟪नीति⟫ | "vedimas, vadovavimas, elgesys" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"leisti išsisklaidyti" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanacija, kūrimas" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"matyti" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "žiūra, veidas, matymo būdas" |
+| **gam** 1 P:br⟪गम्⟫:br"eiti" | **gati** f.:br⟪गति⟫ | "žingsnis, takas, eigos tikslas" (iš *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"galvoti" | **mati** f.:br⟪मति⟫ | "mąstymas, mintis, nuomonė" (iš *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*Pastaba: žvaigždutė \* prieš formą reiškia, kad ši forma sanskrite neegzistuoja, bet teoriškai išvesta kaip tam tikros formos sąlyga. Žemojo laipsnio **gam** yra gṃ = \*gm, o m pakeičiamas taip vadinamu nosiniu sonantu su **a** » **ga**. Panašiai tinka ir **man** » **ma**.
+
+
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
+**Taddhita priesagos -tva n. arba -tā f. sudaro abstrakčius daiktavardžius iš nominalų. Pagrindinio nominalo šaknis lieka nepakeista.**
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| Vardinio kamieno šaknis:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Reikšmė |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **guru** :br⟪गुरु⟫:br3 "sunkus, vertingas,:brm. Mokytojas" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Sunkumas, pagarba,:brMokytojo būdas (mokytojo esmė ar prigimtis)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmanas" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Brahmano būdas,:brkas daro brahmaną brahmanu,:brEsmė / prigimtis" |
+| **deva** :br⟪देव⟫:brm. "Danguiškas, dievas" | — | **devatā** f.:br⟪देवता⟫ | "Dievybė" |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
+Šios formacijos gali būti praktiškai sudaromos iš bet kurio daiktavardžio ir yra labai dažnos moksliniuose sanskrito tekstuose.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
 
-::: grammar-box
-**Stammbildung:**
-- **Starker Stamm: Wurzel + -o-**
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
-
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**
-⟪तनोति⟫
-- 3\. pl. P. **tanvanti**
-⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**
-⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**
-⟪तन्वते⟫
-:::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
-
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmässig:
+## 8.4. Aštuntoji prezento klasė (tanādi = ⟪तनादि⟫ = "tani ir kt.")
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**
-⟪करोति⟫
-- 3\. pl. P. **kurvanti**
-⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**
-⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**
-⟪कुर्वते⟫
+**Kamieno formavimas:**
+**Stiprusis kamienas: Šaknis + -o-**
+**Silpnasis kamienas: Šaknis + -u- (prie balsio: -v-)**
+
+Pavyzdys **tan** 8 U (⟪तन्⟫) "tempia":
+3\. sg. P. **tanoti** :br⟪तनोति⟫
+3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
+3\. sg. Ā. **tanute** :br⟪तनुते⟫
+3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
+:::
+Pastaba: Dėl ginčytinos problemos, ar **tan** iš tikrųjų yra penktosios klasės šaknis (*tn » ta + no-), žr. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+
+Svarbiausia aštuntosios klasės šaknis yra **kṛ** 8 U (⟪कृ⟫) "daryti, kurti". Jos konjugacija yra netaisyklinga:
+
+::: grammar-box
+**kṛ 8 U (⟪कृ⟫) "kurti, daryti"**
+3\. sg. P. **karoti** :br⟪करोति⟫
+3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
+3\. sg. Ā. **kurute** :br⟪कुरुते⟫
+3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 8.5. Žodynas
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+**Išmokite šiuos žodžius:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : nugalėti, sumušti
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : suimti, gauti, pagriebti
+**tu** ⟪तु⟫ : bet (stovi priešingo sakinio ar jo dalies pirmame žodyje)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : matyti, įžvelgti (naudojamas kaip esamojo laiko kamienas vietoje šaknies **dṛś** 0 „matyti, įžvelgti“)
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : daryti, veikti
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : tempti, ištiesti
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : saugoti, globoti
+**sārathi** m. ⟪सारथि⟫ : vežėjas, karietininkas
+**kapi** m. ⟪कपि⟫ : beždžionė
+**kumārī** f. ⟪कुमारी⟫ : mergaitė, nešventoji
+**nāga** m. ⟪नाग⟫ : nuogas, dramblys, gyvatė (dramblys ir gyvatė neturi kailio, taip pat kaip „nuoga beždžionė“ žmogus)
+**gaja** m. ⟪गज⟫ : dramblys
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : liūdėti
+**śuka** m. ⟪शुक⟫ : papūga
+**pat** 1 P (patati) ⟪पत् पतति⟫ : kristi, skristi
+**patrikā** f. ⟪पत्रिका⟫ : laiškas
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : raižyti, rašyti (iš pradžių su adata palmių lapuose, vėliau bendrąja prasme)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Pav.: **likh** (⟪लिख्⟫) : Indiškas platinis rašymo įrankis palmių lapams raižyti
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+Pav.: **likh** (⟪लिख्⟫) : Batakų rašymo lazdelė (Sumatra), tikėtina, kad tokia buvo naudojama ir Indijoje
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+**sukha** n. ⟪सुख⟫ : laimė, gerovė
+**duḥkha** n. ⟪दुःख⟫ : nelaimė, kančia
 
-## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+
+## 8.6. Pratimas
+
+**A) Paaiškinkite šiuos daiktavardius nurodydami šaknį, nuo kurios jie kilę, ir nominalų priesagą. Nurodykite giminę ir reikšmę:**
 1. lobha
 2. rakṣa
 3. śrotra
@@ -258,41 +261,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 27. nayana
 28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
+**B) Sudarykite abstraktus daiktavardžius iš visų iki šiol išmoktų daiktavardžių ir apgalvokite jų reikšmę (žodiniu būdu).**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
+**C) Įterpkite kaip tiesioginį papildinį vienaskaita ir daugiskaita:**
+kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:**
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
-3. Er besiegt Kṣatriyas.
-4. Sie spannt die Webkette auf.
-5. Soldaten kämpfen.
-6. Der Brahmane macht ein Feuer.
-7. Brahmanen machen Feuer.
-8. Was tun diese Kämpfer?
-9. Wen sieht das Auge?
-10. Was begehren Götter?
-11. Was ist der Grund?
+**D) Išverkite:**
+1. Kṣatriyas saugo tiek brāhmanus, tiek vaišjas ir šūdras. (2 būdai)
+2. Šventasis vyras mato tiek dangų, tiek pragarą.
+3. Jis nugalėtoja kṣatrijas.
+4. Ji įtempia audimo karklą.
+5. Kariai kovoja.
+6. Brāhmanas kuria ugnį.
+7. Brāhmanai kuria ugnis.
+8. Ką šie kariai daro?
+9. ką mato akis?
+10. Ko trokšta dievai?
+11. Koks yra pagrindas?
 
-## 8.7. Lese- und Übersetzungsübung
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-8. ⟪देवतां⟫ ⟪यजति⟫ |
-9. ⟪बाला⟫ ⟪भवति⟫ |
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-12. ⟪बाला⟫ ⟪लिखति⟫ |
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-17. ⟪शुकः⟫ ⟪पतति⟫ |
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+
+## 8.7. Skaitymo ir vertimo pratimas
+
+1. ⟪शूद्रो बालं नयति⟫ |
+2. ⟪कविर्देवं यजते⟫ |
+3. ⟪साधुः फलानि खादति⟫ |
+4. ⟪गुरुः क्रोधं जयति⟫ |
+5. ⟪देवो नरकं सृजति⟫ |
+6. ⟪धेनुर्ग्रामं विशति⟫ |
+7. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+8. ⟪देवतां यजति⟫ |
+9. ⟪बाला भवति⟫ |
+10. ⟪सारथी रथं नयति⟫ |
+11. ⟪कपयः फलानि खादन्ति⟫ |
+12. ⟪बाला लिखति⟫ |
+13. ⟪कुमारी गृहं विशति⟫ |
+14. ⟪देवो नागं सृजति⟫ |
+15. ⟪बालो गजं नयति⟫ |
+16. ⟪विमला शोचति⟫ | (⟪विमला⟫ asmuo Vimalā)
+17. ⟪शुकः पतति⟫ |
+18. ⟪बालः पत्रिकां लिखति⟫ |

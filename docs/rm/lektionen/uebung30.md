@@ -1,8 +1,9 @@
 ---
-title: "Ezercitaziun 30"
+title: "[Esercizi 30]"
 uebung_id: 30
-category: "Ezercitaziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -118,8 +119,8 @@ S’ins dia veritads che èn agradablas, betg veritads desagradablas s’ins di;
 
 ::: media
 ![](/images/uebung048.webp)
-Abb.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
-(Bildquelle: [Details](/licenses#uebung048))
+Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
+(Font dal maletg: [Details](/licenses#uebung048))
 :::
 ---
 
@@ -173,7 +174,7 @@ Determinai e traduschai las suandantas formas da paraula:
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | al essent / bun |
 :::: media
 ![](/images/uebung047.webp)
-Abb.: ⟪भक्त्याः⟫
-(Bildquelle: [Detagls](/licenses#uebung047))
+Fig.: ⟪भक्त्याः⟫
+(Font dal maletg: [Detagls](/licenses#uebung047))
 ::::
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Lição 30"
+subtitle: 'A 9ª classe do presente (⟪क्र्यादि⟫ = \"⟪क्री⟫ etc.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 30
@@ -280,7 +281,7 @@ Absol. ⟪विक्रीय⟫
 ![](/images/lekt3001.webp)
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3001))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : conhecer, reconhecer, saber, entender
 
@@ -302,7 +303,7 @@ dele:
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, distrito de Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3002))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3002))
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : purificar
 
@@ -316,7 +317,7 @@ Inf. ⟪पवितुम्⟫
 ::: media
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3003))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : comer, consumir
 
@@ -331,14 +332,14 @@ Inf. ⟪अशितुम्⟫
 ![](/images/lekt3005.webp)
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Sul da Índia
-(Fonte da imagem: [Detalhes](/licenses#lekt3005))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3005))
 :::
 ⟪प्रिय⟫ ⟪३⟫: caro, amoroso, amigável
 
 ::: media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt3004))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Conjunção: se; desde que (nunca no início de uma frase)
 
@@ -364,7 +365,7 @@ disso:
 ::: media
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2904))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : viver
 
@@ -516,4 +517,3 @@ Determine e traduza as seguintes formas de palavras:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

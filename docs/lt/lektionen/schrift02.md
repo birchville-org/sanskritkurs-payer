@@ -1,17 +1,17 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# Devanagari = ⟪देवनागरी⟫
 
-## Schriftübung 2
+## Rašymo pratimas 2
 
 ![](/images/schrift004.webp)
 
-## Užduotis
+## Pratimas
 
-A) Schreiben Sie in Devanāgarī:
+A) Parašykite Devanagari:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Lesen und transliterieren Sie:
+B) Skaitykite ir transliteruokite:
 
-⟪गजो⟫ ⟪गति⟫ ⟪जपति⟫ ⟪डप्⟫ ⟪दा⟫ ⟪ददाति⟫ ⟪जगती⟫ ⟪जटा⟫ ⟪जड⟫ ⟪बीज⟫ ⟪बृबु⟫ ⟪चिद्⟫ ⟪कदा⟫ ⟪तदा⟫ ⟪दीपितो⟫ ⟪जजति⟫
+⟪गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति⟫
 
 

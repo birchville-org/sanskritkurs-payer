@@ -1,96 +1,100 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Lecke 36"
+subtitle: "A perfektrum különleges képzései"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# 36. lecke
+# Lecke 36
 
-## 36.1. A perfekta különleges képzései
+## 36.1. Különleges képzések a perfektból
 
 ::: grammar-box
-Néhány gyökér a reduplikációs szótag után megváltoztatja a gyöktőhangot.
+1. Néhány gyökér a reduplikációs szótag után megváltoztatja a gyökmagot.
 :::
 Példák:
 
-| Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Gyökér:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
-A ⟪विद्⟫ gyök "tud" perfekttal rendelkezik jelenértelmű jelentéssel.
+2. A ⟪विद्⟫ 2P "tud" gyökérnek van jelen idővel bíró perfektképzése.
 :::
 ::: grammar-box
-| Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gyökér:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
 ::: grammar-box
-A ⟪अह्⟩ "mond" gyöknek csak perfektképzetei vannak (Perfektum I). Ezek jelenértelműek.
+3. A ⟪अह्⟫ "mond" gyökérnek csak perfektképzései vannak (Perfekt I). Ezek jelen idővel bíróak.
 :::
 ::: grammar-box
-| Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gyökér:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
 ::: grammar-box
-A ⟪भू⟫ 1P gyöknek perfekttöve ⟪बभू⟫, magánhangzók előtt pedig ⟪बभूव्⟫.
+4. A ⟪भू⟫ 1P gyökér perfektképzése ⟪बभू⟫, magánhangzók előtt ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gyökér:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫)
+## 36.2. A periphrasztikus perfektum (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
-A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫) a következő esetekben használatos:
+A periphrasztikus perfektum (⟪अनुप्रयोगलिट्⟫) használatos:
 
-1. az átvont igeképzések (kauzativum, dezideratívum, frequentativum, denominalis igék) esetén
-2. olyan Tőknél, amelyek hosszú magánhangzóval (kivéve ā-) kezdődnek, vagy mássalhangzók előtt álló magánhangzóval (kivéve a-)
-3. néhány egyéb Tő esetén
+1. a levezetett ragozásoknál (káusztívum, dezideratívum, frequentatívum, denomínativumok)
+2. azoknál a gyököknél, amelyek hosszú magánhangzóval (kivéve az ā-t) kezdődnek, illetve egy magánhangzóval (kivéve az a-t), két mássalhangzó előtt
+3. néhány egyéb gyöknél
 :::
 ::: grammar-box
-**Képzés:**
+**Alakítás:**
 
-(gyenge) jelen idői tő + -ām + a megfelelő perfektképzés ⟪कृ⟫, ⟪अस्⟫ vagy ⟪भू⟫ alapján
+(gyenge) jelenstam + -ām + a megfelelő tökéletes alak ⟪कृ⟫, ⟪अस्⟫ vagy ⟪भू⟫
 
-- A szó végi tőmag hangzó guṇa fokúvá válik az -ām előtt.
-- ⟪अस्⟫ és ⟪भू⟫ az Ātmanepada igék esetén is a Parasmaipada szerint ragozódnak.
+A szó végi tőmagánhangzó guṇálás alá esik az -ām előtt.
+⟪अस्⟫ és ⟪भू⟫ az Ātmanepada igéknél is a Parasmaipadában ragozódik.
 :::
-Das periphrastische Perfekt ist wohl aus dem tárgyeset (accusativus) eine Verbalnomens auf -ā entstanden. Dieser tárgyeset (accusativus) wird -- wie auch sonst oft -- adverbial verwendet.
+A periphrasztikus tökéletes valószínűleg egy -ā végű igenev accusativusából keletkezett. Ezt az accusativust -- másként is gyakran -- adverbialisan használják.
 
 Példák:
 
-| Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Gyök:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां बभूव⟫** | **⟪ईक्षां चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां बभूवुर्⟫** |
+| ⟪बन्ध्⟫ :brKausztívum: ⟪बन्धय⟫-:br"megkötetni" | **⟪बन्धयां चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां बभूव⟫** | **⟪बन्धयां चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां बभूवुर्⟫** | | |
 
-## 36.3. Perfekt passivum
+
+
+
+## 36.3. Tökéletes passzív
 
 ::: grammar-box
-A perfektban az aktívumhoz képest az Ātmanepada alakjait használjuk. Ezzel szemben előnyösebb a PPP használatát részesíteni mindkét esetben. A szerkezet mindkét esetben a passzívum mondataié:
+A tökéletesben a passzívhoz az Ātmanepada alakjait használják. Ezzel szemben a PPP használatát részesítik előnyben. Mindkét esetben az alakítás a passzívmondatoké:
 
 :::
 ::: indent
-⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "Ő egy érdemtelenséget tett"
+⟪तेन पुण्यं चक्रे⟫ = ⟪तेन पुण्यं कृतम्⟫ = "Egy érdemteljes cselekvést végzett"
 :::
 ## 36.4. Szószedet
 
-⟪अह्⟫ P csak perfekttartalmú jelenlegi jelentés ⟪आह⟫, ⟪आहुर्⟫ : mondani, beszélni
+⟪अह्⟫ P csak tökéletes jelenjelentéssel ⟪आह⟫, ⟪आहुर्⟫ : mondani, beszélni
 
-⟪अह्⟫ ⟪प्र⟫ P csak Perfektum jelenértéssel ⟪प्राह⟫ : mond, beszél
+⟪अह् प्र⟫ P csak Perfekt jelenértéssel ⟪प्राह⟫ : mond, beszél
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : lát, (meg)pillant, szemlél
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
+Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
@@ -100,20 +104,20 @@ Inf. ⟪ईक्षितुम्⟫
 ⟪चि⟫ 5U ⟪चिनोति⟫ : felhalmoz, összegyűjt
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
+Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
+Kaus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Kép: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3601))
+Kép: ⟪गोमयं चिकाय⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3601))
 :::
 
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépni, menni, elmenni
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : lépdel, megy, elmegy
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -123,9 +127,9 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmenni (különösen a háztól való elszakadást, az aszkéta magányba vonulást jelenti = szerzetesnek állni)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : elmegy (különösen a háztól távolodva az aszkétikus magányba = szerzetesnek áll)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: ház, otthon
+⟪अगार⟫ n.⟪। आगार⟫ n.: ház, otthon
 
 ::: media
 ![](/images/lekt3602.webp)
@@ -136,14 +140,14 @@ Kép: ⟪अगारम्⟫
 ::: indent
 ebből:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: buddhista szerzetes vagy novícius hontalansága
+⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.: szerzetes vagy novícius buddhista szerzetes magánya
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Ábr.: ⟪अनगार्यम्⟫
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3603))
+Kép: ⟪अनगार्यम्⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: a tisztelet jeléül magasra emelt, összehajtott két kéz
+⟪अञ्जलि⟫ m.: a tisztelet jeléül magasra összehajtott tenyerek
 
 ⟪आदृत⟫ 3: tisztelt
 
@@ -154,9 +158,9 @@ ebből:
 ⟪पृष्ठ⟫ n: hát, hátsó rész
 
 ::: indent
-⟪पृष्ठम्⟫ : hátul, mögött
+⟪पृष्ठम्⟫ : mögött
 :::
-⟪प्रजापति⟫ m.: a lények ura, teremtőisten
+⟪प्रजापति⟫ m.: teremtmények ura, teremtő isten
 
 ⟪अनु⟫ előtag: után, mentén, át - végig, hosszán, szerint, hozzá, mögé - felé
 
@@ -165,24 +169,24 @@ pl.
 
 ⟪अनुकृ⟫ : utánz, utánoz
 
-⟪अनुगम्⟫ : után megy, elhalad mellett
+⟪अनुगम्⟫ : utánamegy, végighalad
 :::
-⟪अभि⟫ : be-, után - felé, oda - le, oda - felé, ellen, be -, vonatkozásban, fel, fölött, mellett
+⟪अभि⟫ : be-, után- felé, hozzá- oda, ellen, -ba, tekintetben, felé, túl, meg
 
 ::: indent
 pl.
 
-⟪अभिगम्⟫ : odal, megközelít
+⟪अभिगम्⟫ : elmegy, megközelít
 
 ⟪वद्⟫ + ⟪अभि⟫ Kausatív Ā ⟪अभिवादयते⟫ : hivatalosan köszönt, megszólít
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : ellenállást érez, elhalványul
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : ellenállást érez, elenyészik
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
+Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
@@ -194,11 +198,11 @@ Perf. IV ⟪जघ्रौ⟫
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
+PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : szórakoztat, örömet okoz; szeret, valaki iránt elkötelezett
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : szórakoztat, örömet okoz; szeret, valaki felé elkötelezett
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : örül
 
@@ -214,19 +218,19 @@ Inf. ⟪प्रेतुम्⟫
 
 ::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Kép: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
+Kép: ⟪सुगतो भूमीं पस्पर्श⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : merevvé válik: feláll (haj), örül (eszközhatározó eset (instrumentalis), tárgyeset (accusativus)us, lokativusus)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : merevvé válik: feláll (haj), örül (Instr., Akk., Lok.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -237,27 +241,27 @@ PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Kép: ⟪लोमहर्षः⟫
+Ábra: ⟪लोमहर्षः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3604))
 :::
 
-⟪स्वक⟫ 3: saját (én, te ...) ; m.: tag
+⟪स्वक⟫ 3: saját (enyém, tiéd ...) ; m.: tag
 
 ## 36.5. Gyakorlat
 
-A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumformákat:
+A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumot:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) A ⟪आस्⟫ "ül" gyök periphrasztikus perfekttel rendelkezik. Alakítsák ki ezt a következő formákra:
+B) A ⟪आस्⟫ "ülni" gyöknek periphrasztikus perfektrum van. Képezze ezt a következő alakokhoz:
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Alakítsák ki a megfelelő perfekttartalmat a következő formákból:
+C) Képezze a megfelelő perfektrumot a következő alakokhoz:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -266,37 +270,29 @@ C) Alakítsák ki a megfelelő perfekttartalmat a következő formákból:
 5.  ⟪ऐक्षन्त⟫
 6.  ⟪अगापयत्⟫
 7.  ⟪अपद्यन्त⟫
-8.  ⟪चिनोति⟫ (2 forma)
+8.  ⟪चिनोति⟫ (2 alak)
 9.  ⟪हन्ति⟫
-10.  ⟪प्रभविष्यन्ति⟫
-11.  ⟪क्रामन्ति⟫
-12.  ⟪प्राव्रजन्⟫
-13.  ⟪त्यक्ष्यति⟫
+10. ⟪प्रभविष्यन्ति⟫
+11. ⟪क्रामन्ति⟫
+12. ⟪प्राव्रजन्⟫
+13. ⟪त्यक्ष्यति⟫
 
 D) Fordítsa le:
 
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫
+⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫
 
 ::: media
 ![](/images/lekt3605.webp)
-Ábr.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
+Ábra: ⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3605))
 :::
-⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
+⟪ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥ रक्षितधर्मक्षत्रिययोधा महानगरं जेतुकामाञ्छत्रून्विजिग्युर्न तु जघ्नुः ॥३॥ अधीतवेदद्विजो द्विजधर्मं वेद ॥४॥⟫
 
-⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫
+⟪विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥ स साधुर्दुर्जनपापलोभमतिमीक्षां चक्रे ॥६॥ ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥⟫
 
-⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫
+## 36.6. A Perfectum (⟪लिट्⟫) a eddig tanult gyökökhez
 
-⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫
-
-⟪स⟫ ⟪साधुर्दुर्जनपापलोभमतिमीक्षां⟫ ⟪चक्रे⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
-
-## 36.6. A tökéletes (⟪लिट्⟫) a eddig tanult gyökökhez
-
-| Tő:br⟪धातु⟫ | Perfektklasse | Tök. (⟪लिट्⟫) |
+| Gyök:br⟪धातु⟫ | Perfectum osztály | Perfectum (⟪लिट्⟫) |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ 7P | I | ⟪आनञ्ज⟫ |
 | ⟪अद्⟫ 2P | I | ⟪आद⟫ |
@@ -306,13 +302,13 @@ D) Fordítsa le:
 | ⟪अस्⟫ 2P | I | ⟪आस⟫ |
 | ⟪अस्⟫ 4P | I | ⟪आस⟫ |
 | ⟪आप्⟫ 5P | I | ⟪आप⟫ |
-| ⟪आस्⟫ 2Ā | Periph. | **⟪आसां⟫ ⟪चक्रे⟫** |
+| ⟪आस्⟫ 2Ā | Periph. | **⟪आसां चक्रे⟫** |
 | ⟪इ⟫ 2P | IIIa | ⟪इयाय⟫, ⟪ईयुर्⟫ |
 | ⟪इष्⟫ 6P | II | ⟪इयेष⟫, ⟪ईषुर्⟫ |
-| ⟪कम्⟫ 10Ā | Periph. Vc | **⟪कामयां⟫ ⟪चक्रे⟫** / ⟪चकमे⟫ |
+| ⟪कम्⟫ 10Ā | Periph. Vc | **⟪कामयां चक्रे⟫** / ⟪चकमे⟫ |
 | ⟪कुप्⟫ 4P | II | ⟪चुकोप⟫, ⟪चुकुपुर्⟫ |
 | ⟪कृ⟫ 8U | IIIa | ⟪चकार⟫, ⟪चक्रुर्⟫ |
-| ⟪कृ⟫ ⟪सम्⟫ 8 | IIIb | ⟪सञ्चस्कार⟫, ⟪सञ्चस्करुर्⟫ |
+| ⟪कृ सम्⟫ 8 | IIIb | ⟪सञ्चस्कार⟫, ⟪सञ्चस्करुर्⟫ |
 | ⟪कृष्⟫ 1P, 6U | II | ⟪चकर्ष⟫, ⟪चकृषुर्⟫ |
 | ⟪क्रि⟫ 9U | IIIa | ⟪चिक्राय⟫, ⟪चिक्रियुर्⟫ |
 | ⟪क्रुध्⟫ 4P | II | ⟪चुक्रोध⟫, ⟪चुक्रुधुर्⟫ |
@@ -321,10 +317,10 @@ D) Fordítsa le:
 | ⟪गम्⟫ 1P | Va | ⟪जगाम⟫, ⟪जग्मुर्⟫ |
 | ⟪ग्रस्⟫ 1Ā | Vc | ⟪जग्रसे⟫ |
 | ⟪चर्⟫ 1P | Vb | ⟪चचार⟫, ⟪चेरुर्⟫ |
-| ⟪चुर्⟫ 10U | Periph. | **⟪चोरयां⟫ ⟪चकार⟫** |
+| ⟪चुर्⟫ 10U | Periph. | **⟪चोरयां चकार⟫** |
 | ⟪छिद्⟫ 7U | II | ⟪चिच्छेद⟫, ⟪चिच्छिदे⟫ |
 | ⟪जन्⟫ 1Ā | Va | ⟪जज्ञे⟫ |
-| ⟪जि⟫ 1P | Unregelm. IIIa | ⟪जिगाय⟫, ⟪जिग्युर्⟫ |
+| ⟪जि⟫ 1P | Szabályt. IIIa | ⟪जिगाय⟫, ⟪जिग्युर्⟫ |
 | ⟪जीव्⟫ 1P | I | ⟪जजिजीव⟫ |
 | ⟪ज्ञा⟫ 9U | IV | ⟪जज्ञौ⟫, ⟪जज्ञे⟫ |
 | ⟪तन्⟫ 8U | Vb | ⟪ततान⟫, ⟪तेने⟫ |
@@ -354,10 +350,10 @@ D) Fordítsa le:
 | ⟪भज्⟫ 1U | Vb (!) | ⟪बभाज⟫, ⟪भेजे⟫ |
 | ⟪भञ्ज्⟫ 7P | I | ⟪बभञ्ज⟫, ⟪बभञ्जुर्⟫ |
 | ⟪भिद्⟫ 7U | II | ⟪बिभेद⟫, ⟪बिभिदे⟫ |
-| ⟪भी⟫ 3P | IIIa / Periph. | ⟪बिभाय⟫, ⟪बिभ्युर्⟫ / **⟪बिभयां⟫ ⟪चकार⟫** |
+| ⟪भी⟫ 3P | IIIa / Periph. | ⟪बिभाय⟫, ⟪बिभ्युर्⟫ / **⟪बिभयां चकार⟫** |
 | ⟪भुज्⟫ 7U | II | ⟪बुभोज⟫, ⟪बुबुजे⟫ |
-| ⟪भू⟫ 1P | Unregelm. | ⟪बभूव⟫, ⟪बभूवुर्⟫ |
-| ⟪भृ⟫ 1U, 3U | IIIa / Periph. | ⟪बभार⟫, ⟪बभ्रुर्⟫ / **⟪बिभरां⟫ ⟪चकार⟫** |
+| ⟪भू⟫ 1P | Szabályt. | ⟪बभूव⟫, ⟪बभूवुर्⟫ |
+| ⟪भृ⟫ 1U, 3U | IIIa / Periph. | ⟪बभार⟫, ⟪बभ्रुर्⟫ / **⟪बिभरां चकार⟫** |
 | ⟪मद्⟫ 4P | Vb | ⟪ममाद⟫, ⟪मेदुर्⟫ |
 | ⟪मन्⟫ 4Ā | Vb | ⟪मेने⟫ |
 | ⟪मा⟫ 2P, 3Ā | IV | ⟪ममौ⟫, ⟪ममे⟫ |
@@ -378,7 +374,7 @@ D) Fordítsa le:
 | ⟪वस्⟫ 1P | Va | ⟪उवास⟫, ⟪ऊषुर्⟫ |
 | ⟪वस्⟫ 2Ā | Vc | ⟪ववसे⟫ |
 | ⟪वह्⟫ 1U | Va | ⟪उवाह⟫, ⟪ऊहे⟫ |
-| ⟪विद्⟫ 2P | II / Periph. / Presenti | ⟪विवेद⟫, ⟪विविदुर्⟫ / **⟪विदां⟫ ⟪चकार⟫** / ⟪वेद⟫, ⟪विदुर्⟫ |
+| ⟪विद्⟫ 2P | II / Periph. / Jelen idő | ⟪विवेद⟫, ⟪विविदुर्⟫ / **⟪विदां चकार⟫** / ⟪वेद⟫, ⟪विदुर्⟫ |
 | ⟪विद्⟫ 6U | II | ⟪विवेद⟫, ⟪विविदे⟫ |
 | ⟪विश्⟫ 6P | II | ⟪विवेश⟫, ⟪विविशुर्⟫ |
 | ⟪वृत्⟫ 1Ā | II | ⟪ववृते⟫ |
@@ -395,116 +391,108 @@ D) Fordítsa le:
 | ⟪स्मृ⟫ 1P | IIIb | ⟪सस्मार⟫, ⟪सस्मरुर्⟫ |
 | ⟪हन्⟫ 2P | Va | ⟪जघान⟫, ⟪जघ्नुर्⟫ |
 | ⟪हा⟫ 3P | IV | ⟪जहौ⟫, ⟪जहुर्⟫ |
-| ⟪हु⟫ 3P | IIIa / Periph. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां⟫ ⟪चकार⟫** |
+| ⟪हु⟫ 3P | IIIa / Periph. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां चकार⟫** |
 | ⟪हृ⟫ 1U | IIIa | ⟪जहार⟫, ⟪जह्रे⟫ |
 
-## 36.7. Fordítási gyakorlat
+
+## 36.7. Fordításgyakorlat
 
 Fordítsa le:
 
-1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
+1\. ⟪महाभारत १३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
 ::: indent
-⟪येन⟫ ⟪प्रीणति⟫ :sig[⟪पितरं⟫]
-⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
-⟪प्रीणति⟫ :sig[⟪मातरं⟫] ⟪येन⟫
-⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪।⟫
-⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫
-⟪तेन⟫ ⟪स्या⟫:sig[⟪द्ब्रह्म⟫] ⟪पूजितम्⟫ ⟪।⟫
-:sig[⟪सर्वे⟫] ⟪तस्यादृता⟫ ⟪धर्मा⟫
-⟪यस्यैते⟫ :sig[⟪त्रय⟫] ⟪आदृताः⟫ ⟪।⟫
-⟪अनादृतास्तु⟫ ⟪यस्यैते⟫
-:sig[⟪सर्वास्त⟫]⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
+⟪येन प्रीणति⟫ :sig[⟪पितरं⟫]
+⟪तेन प्रीतः प्रजापतिः । प्रीणति⟫ :sig[⟪मातरं⟫] ⟪येन पृथिवी तेन पूजिता । येन प्रीणात्युपाध्यायं तेन स्या⟫:sig[⟪द्ब्रह्म⟫] ⟪पूजितम् ।⟫
+sig[⟪सर्वे⟫] ⟪तस्यादृता धर्मा यस्यैते⟫ :sig[⟪त्रय⟫] ⟪आदृताः । अनादृतास्तु यस्यैते⟫
+sig[⟪सर्वास्त⟫]⟪स्याफलाः क्रियाः ॥⟫
 
 Magyarázatok:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
+⟪पितरम्⟫ : Akk. sg. to ⟪पितृ⟫ m. "atya"
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "anya" m."anyik"
+⟪मातरम्⟫ : Akk. sg. to ⟪मातृ⟫ f. "mātṛ"
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "anyat" n."anyá"
+⟪ब्रह्म⟫ : Nom./Akk. sg. to ⟪ब्रह्मन्⟫ n. "brahman"
 
-:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "anyá" m."anyé"
+⟪सर्वे⟫ : Nom. pl. mask. to ⟪सर्व⟫ "sarva"
 
-⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "tri" m."tráyaḥ"
+⟪त्रयस्⟫ : Nom. pl. mask. to ⟪त्रि⟫ "tri"
 
-⟪सर्वास्⟫ : alanyeset (nominativus)/tárgyeset (accusativus) plurál nőnemű a ⟪सर्व⟫ "minden, mindenki" szóhoz
+⟪सर्वास्⟫ : Nom./Akk. pl. fem. to ⟪सर्व⟫ "sarva"
 :::
 ::: media
 ![](/images/lekt3607.webp)
-Ábr.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3607))
+Kép: ⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫
+(Képmegjegyzés: [Details](/hu/licenses#lekt3607))
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ a helyes magatartás az idősekkel kapcsolatban:
+2\. ⟪मनुस्मृति ४⟫.⟪१५४⟫ a helyes magatartásról az idősekkel szemben:
 
 ::: indent
-⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
-⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
+⟪अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् । कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥⟫
 :::
-3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Ki az ⟪जितेन्द्रिय⟫?
+3\. ⟪मनुस्मृति २⟫.⟪९८⟫: Ki egy ⟪जितेन्द्रिय⟫ :
 
 ::: indent
-⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
-⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः⟫ ⟪॥⟫
+⟪श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः । न हृष्यति ग्लायति वा स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः ॥⟫
 
-Magyarázat: ⟪विज्ञेय⟫ ⟪३⟫: az, aki felismerhető; az, aki ismert (mint)
+Magyarázat: ⟪विज्ञेय ३⟫: egy, aki ismert; egy, akit tudni kell (mint)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ a bráhmana helyes magatartásáról:
+4\. ⟪मनुस्मृति २⟫.⟪११०⟫ a brahmana helyes magatartásáról:
 
 ::: indent
-⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
-⟪जानन्नपि⟫ ⟪हि⟫ ⟪मेधावी⟫ ⟪जडवल्लोक⟫ ⟪आचरेत्⟫ ⟪॥⟫
+⟪नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः । जानन्नपि हि मेधावी जडवल्लोक आचरेत् ॥⟫
 
 Magyarázatok:
 
-Ebben a versben ⟪ब्रू⟫ az birtokos esettel van konstruálva
+Ebben a versszakban ⟪ब्रू⟫ az genitívusszal van szerkesztve
 
-⟪मेधावी⟫ : Név, egyes szám, nemű. ⟪मेधाविन्⟫ ⟪३⟫ "értelmes, okos"
+⟪मेधावी⟫ : nominativus, egyes szám, nemű. ⟪मेधाविन् ३⟫ "értelmes, okos"
 
-⟪जडवत्⟫ Határozószó: „Befaszkodó/Tompa/Tülekedő módjában”
+⟪जडवत्⟫ határozószó. "A tompa/ostoba ember módján"
 :::
 ## 36.8. Ismétlőgyakorlat a ragozástanhoz
 
 Határozza meg és fordítsa le az alábbi szóalakokat minden lehetséges módon:
 
-1.  ⟪नयति⟫
-2.  ⟪समस्कुर्वन्⟫
-3.  ⟪स्यात्⟫
-4.  ⟪यस्याम्⟫
-5.  ⟪अधीयते⟫
-6.  ⟪प्रोचुः⟫
-7.  ⟪समादधाति⟫
-8.  ⟪हरेः⟫
-9.  ⟪हरे⟫
-10.  ⟪हरेत्⟫
-11.  ⟪जह्रे⟫
-12.  ⟪आक्रीणीत⟫
-13.  ⟪व्यक्रियत⟫
-14.  ⟪प्राजहुः⟫
-15.  ⟪प्रजहुः⟫
-16.  ⟪ददे⟫
-17.  ⟪दत्ते⟫
-18.  ⟪हिते⟫
-19.  ⟪हीयते⟫
-20.  ⟪जज्ञे⟫
-21.  ⟪यज्ञे⟫
-22.  ⟪तेन⟫
-23.  ⟪तेने⟫
-24.  ⟪ततः⟫
-25.  ⟪सतः⟫
-26.  ⟪जगौ⟫
-27.  ⟪पशौ⟫
-28.  ⟪मेने⟫
-29.  ⟪माने⟫
-30.  ⟪एतस्मात्⟫
-31.  ⟪तायेत⟫
-32.  ⟪तया⟫
-33.  ⟪लेभिरे⟫
-34.  ⟪ऊषुः⟫
-35.  ⟪व्यानक्⟫
-36.  ⟪युङ्क्ते⟫
-37.  ⟪युक्ते⟫
-38.  ⟪युगे⟫
-39.  ⟪अपिपः⟫
-40.  ⟪अपिबत्⟫
+1. ⟪नयति⟫
+2. ⟪समस्कुर्वन्⟫
+3. ⟪स्यात्⟫
+4. ⟪यस्याम्⟫
+5. ⟪अधीयते⟫
+6. ⟪प्रोचुः⟫
+7. ⟪समादधाति⟫
+8. ⟪हरेः⟫
+9. ⟪हरे⟫
+10. ⟪हरेत्⟫
+11. ⟪जह्रे⟫
+12. ⟪आक्रीणीत⟫
+13. ⟪व्यक्रियत⟫
+14. ⟪प्राजहुः⟫
+15. ⟪प्रजहुः⟫
+16. ⟪ददे⟫
+17. ⟪दत्ते⟫
+18. ⟪हिते⟫
+19. ⟪हीयते⟫
+20. ⟪जज्ञे⟫
+21. ⟪यज्ञे⟫
+22. ⟪तेन⟫
+23. ⟪तेने⟫
+24. ⟪ततः⟫
+25. ⟪सतः⟫
+26. ⟪जगौ⟫
+27. ⟪पशौ⟫
+28. ⟪मेने⟫
+29. ⟪माने⟫
+30. ⟪एतस्मात्⟫
+31. ⟪तायेत⟫
+32. ⟪तया⟫
+33. ⟪लेभिरे⟫
+34. ⟪ऊषुः⟫
+35. ⟪व्यानक्⟫
+36. ⟪युङ्क्ते⟫
+37. ⟪युक्ते⟫
+38. ⟪युगे⟫
+39. ⟪अपिपः⟫
+40. ⟪अपिबत्⟫
 

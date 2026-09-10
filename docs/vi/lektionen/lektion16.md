@@ -88,6 +88,8 @@ Birla Mandir, Delhi
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1601))
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Bị động. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : quay, xoay, (ở đâu đó) hiện diện, cư trú
+:::
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Bị động. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : quay, xoay, (ở đâu đó) hiện diện, cư trú
 
 ⟪शस्त्र⟫ (śastra) n.: dụng cụ cắt, vũ khí sắc nhọn, kiếm, binh khí
 
@@ -101,7 +103,7 @@ Birla Mandir, Delhi
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/vi/licenses#lekt1603))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt1603))
 :::
 ## 16.3. Bài tập
 
@@ -112,15 +114,13 @@ A) Chuyển các cụm từ sau thành Tatpuruṣa và dịch chúng:
 ::: media
 ![](/images/lekt1604.webp)
 Abb.: ⟪पशुमन्तो जनाः हरियाणा⟫ / ਹਰਿਆਣਾ
-(Bildquelle: [Details](/vi/licenses#lekt1604))
+(Nguồn hình ảnh: [Details](/vi/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः पुत्रः । ६⟫.  ⟪सुखवत्या वैश्यायाः पुत्रः । ७⟫. ⟪कवेरुक्त्याः सत्यम् । ८⟫. ⟪शिवेन रक्षिता बाला । ९⟫. ⟪रामेण पीतं जलम् । १०⟫. ⟪फलवांल्लाभः । ११⟫. ⟪इष्टाया देवतायाः पूजा । १२⟫. ⟪देवानां स्तुतिः ।⟫
 
 B) Phân tích các hợp danh từ (compound nouns) trong các câu sau thành tiếng Sanskrit, tạo thành các câu với danh từ được biến tố và dịch chúng:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति ।⟫
-
-⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । ३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । ४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । ५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । ६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । ७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । ८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । १०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां करोति ।⟫
 
 ## 16.4. Bài tập ôn lại
 

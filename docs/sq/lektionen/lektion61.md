@@ -1,25 +1,26 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: "Mësimi 61"
+subtitle: "Deklinimi i emrave rrënjësorë me -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Deklinimi i emrave të rrënjës me -ā, -ī, -ū
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
+### 61.1.1. Emra të rrënjës me -ā në fund të ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.**
+**Para fundeve zanore, zanori i rrënjës në rastet e dobëta ka shkallën e zhdukjes Ø.**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.**
+**Deklimi në mashkullor dhe femëror është i njëjtë.**
 :::
 Paradigma:
 
-⟪विश्वपा⟫ m.f. "das All beschützend"
+⟪विश्वपा⟫ m.f. "ai që mbrojtë gjithçka"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -31,16 +32,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Emra femëror të rrënjës me -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Para një fundi zanor, -ī zëvendësohet me -iy.**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.**
+**Përveç formimeve me funde rasti të rregullta, në Dat.Ab.Gen.Lok.sg. dhe Gen.pl. shfaqen edhe formime sipas modelit të emrave femëror me dy ose më shumë zanore -ī (⟪देवी⟫).**
 :::
 Paradigma:
 
-⟪धी⟫ f. "Gedanke"
+⟪धी⟫ f. "mendim"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmässig: ⟪स्त्री⟫ f. "Frau"
+Jo i rregullt: ⟪स्त्री⟫ f. "grua"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -68,34 +69,34 @@ Unregelmässig: ⟪स्त्री⟫ f. "Frau"
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102))
+Fig.: ⟪स्त्रियः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6102))
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
+### 61.1.3. Emra rrëzë me -ī në fund të ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.**
+**Para fundeve vokalore, -ī zëvendësohet me -y, nëse i paraprin vetëm një konsonant që i përket rrëzës. Nëse i paraprijnë më shumë konsonantë që i përket rrëzës, -ī para fundit vokalore zëvendësohet me -iy.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Përkulja është e njëjtë në mashkullor dhe femëror.**
 
-**Unregelmässigkeit: Komposita auf -:sig[⟪नी⟫] "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫
+**Jo i rregullt: Kompozitët me -⟪नी⟩ "që udhëheq" kanë në lokativin singular fundin -ām (si ⟪देवी⟫):**
+p.sh. ⟪ग्रामणी⟩ "që udhëheq një tufë/fshat": Lok.sg.m.f. ⟪ग्रामण्याम्⟩
 :::
-Paradigmen:
+Paradigmat:
 
-⟪शुद्धधी⟫ m., f. "Reines denkend"
+⟪शुद्धधी⟩ m., f. "Duke menduar të pastër"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟩ | ⟪द्विवचनम्⟩ | ⟪बहुवचनम्⟩ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
-| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
-| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
-| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
-| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
-| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
+| **⟪प्रथमा⟩ /:br⟪आमन्त्रितम्⟩** | ⟪शुद्धधीस्⟩ | ⟪शुद्धध्यौ⟩ | ⟪शुद्धध्यस्⟩ |
+| ⟪द्वितीया⟩ | ⟪शुद्धध्यम्⟩ | ^^ | ^^ |
+| ⟪तृतीया⟩ | ⟪शुद्धध्या⟩ | ⟪शुद्धधीभ्याम्⟩ | ⟪शुद्धधीभिस्⟩ |
+| ⟪चतुर्थी⟩ | ⟪शुद्धध्ये⟩ | ^^ | ⟪शुद्धधीभ्यस्⟩ |
+| ⟪पञ्चमी⟩ | ⟪शुद्धध्यस्⟩ | ^^ | ^^ |
+| ⟪षष्ठी⟩ | ^^ | ⟪शुद्धध्योस्⟩ | ⟪शुद्धध्याम्⟩ |
+| ⟪सप्तमी⟩ | ⟪शुद्धध्यि⟩ | ^^ | ⟪शुद्धधीषु⟩ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend"
+⟪यवक्री⟫ m., f. "Duke"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -107,16 +108,16 @@ Paradigmen:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Njëshkronjore, femërore emra rrënje me -ū
 
 ::: grammar-box
-**Stamm vor Vokal: -uv**
+**Stem përpara zanoreve: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analoge me emrat femërorë rrënje me -ī**
 :::
 Paradigma:
 
-⟪भू⟫ f. "Erde"
+⟪भू⟫ f. "Tokë"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -128,16 +129,16 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
+### 61.1.5. Emra rrënje me -ū në fundin e ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.**
+**Para fundeve zanorese, -ū zëvendësohet me -v nëse i paraprin vetëm një konsonant që i përket rrënjës. Nëse i paraprijnë disa konsonantë që i përket rrënjës, -ū para fundeve zanorese zëvendësohet me -uv.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**Deklinationi është i njëjtë në mashkullor dhe femër.**
 :::
 Paradigma:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend"
+⟪खलपू⟫ m., f. "Ai që pastron kasollen"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -151,18 +152,17 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
-⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106))
+Fig.: ⟪रथ्याप्वः काशीपुर⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6106))
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. Deklinimi i feminoreshë shumëzësh me fund -ū
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.**
+**Feminoreshë shumëzësh me fund -ū deklilohen analogisht si rrënjët shumëzësh me fund -ī (⟪देवी⟫), por ato përfundojnë në Nom. sg. me -s.**
 :::
 Paradigma:
 
-⟪वधू⟫ f. "junge Frau, Braut"
+⟪वधू⟫ f. "grua e re, nuse"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -177,20 +177,19 @@ Paradigma:
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107))
+Fig.: ⟪वध्वौ जोधपुर⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6107))
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+## 61.2. E ardhmja perifrazike (⟪लुट्⟫)
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.**
+**Përveç e ardhmes së thjeshtë (⟪ऌत्⟫), ekziston një e ardhme perifrazike (⟪लुट्⟫). Sipas mësimit të gramatikantëve vendas, ajo përdoret për të treguar të ardhmen e largët ("pas ditës aktuale"), ndërsa e ardhma e thjeshtë tregon të ardhmen afatshkurtër ("gjatë ditës aktuale"). Në sanskritin klasik, duket se zakonisht nuk bëhet dallim në përdorimin e dy formave të së ardhmes.**
 
-**Bildung:**
+**Formimi:**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.**
+**E ardhmja perifrazike formohet duke bashkuar një emër veprues me fund -tṛ me prezencën e ⟪अस्⟫ 2. Si person i tretë shërben emri i thjeshtë në numrin përkatës, pa dallim gjini gramatike. Në lidhjet me ⟪अस्⟫, emri ka në të gjitha personat dhe numrat formën e Nom.sg. me -tā.**
 :::
-Die Endungen des periphrastischen Futur lauten also:
+Rrafshatet e ardhmes perifrastike janë pra:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,15 +200,15 @@ Die Endungen des periphrastischen Futur lauten also:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.**
+**Forma e rrënjës: Rrënja ka në përgjithësi të njëjtën formë si te ardhmi i thjeshtë. E njëjta gjë vlen për vokalin lidhës -i-.**
 :::
-Beispiele:
+Shembuj:
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. |
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etj. |
 | --- | --- |
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. |
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. |
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ etj. |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ etj. |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ etj. |
 
 Paradigma:
 
@@ -224,129 +223,120 @@ Paradigma:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.**
+**Shumë rrallë, folja ⟪अस्⟫ ndahet nga stami nominal.**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. Intensivi (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heisst: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.**
+**Nga çdo rrënjë njëzësh, që fillon me konsonant, i klasave të parë nëntë prezencësh mund të formohet një Intensivum (⟪चर्करीतम्⟫); që do të thotë: me përjashtime të pakta, nga rrënjet dyzësh (p.sh. ⟪जागृ⟫), rrënjet që fillojnë me zanor dhe rrënjët e klasës së 10-të prezencësh (⟪चुरादिगण⟫) nuk mund të formohet Intensivum.**
 
-**Das Intensivum bedeutet:**
+**Intensivumi do të thotë:**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**
-:::
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"
-⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"
-:::
+*   **se një person ose gjë e bën përsëri dhe përsëri, ose përjeton atë që shprehet nga rrënja**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ai bën përsëri dhe përsëri"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "ai është (bëhet) shpesh"  
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**
-::: indent
-⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"
-:::
+*   **se një person ose gjë e bën me intensitet, ose përjeton atë që shprehet nga rrënja:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ai bën me intensitet, ai bën fort"  
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**
-::: indent
-⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")
-:::
+*   **për rrënjët që shprehin lëvizje, Intensivumi do të thotë lëvizje e përkulur:**  
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "ai ecën në përkulje" (JO: "ai ecën shpesh")  
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**
-::: indent
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+*   **për disa rrënjë (listim: Kielhorn, Grammatik § 458b) Intensivumi do të thotë kritikë:**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "ai pret keq"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "ai ulët keq"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Fig.: ⟪सर्पो वव्रज्यते ॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:**
+**Formimi i Intensivumit:**
 
-**Es gibt zwei Bildungstypen des Intensivums:**
+**Ka dy tipe formimi të Intensivumit:**
 
-*   **Ātmanepada-Intensivum**
-*   **Parasmaipada-Intensivum**
+*   **Intensivum Ātmanepada**
+*   **Intensivum Parasmaipada**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.**
+**Të dyja formohen nga rrënja e reduplikuar me reduplikim të fortë. Të dyja nuk ndryshojnë në kuptim. Të dyja mund të formohen për të njëjtat rrënja.**
 :::
-### 61.3.1. Ātmanepada-Intensivum
+### 61.3.1. Intensivum i Ātmanepada
 
 ::: grammar-box
-**Bildung:**
+**Formimi:**
 
-**reduplizierte Wurzel + -ya-**
+**reduplikuar rrënjë + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:**
+**Forma e rrënjës: në përgjithësi si te Pasiv, pra kryesisht me shkallë të ulët:**
 
-Beispiele:
+Shembuj:
 
 :::
 ::: indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
+⟪स्वप्⟫ 2P: Pas. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते दा⟫ 3U: Pas. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461.
+> Rregullat në detaje te Kielhorn, Grammatik § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiele:
+**Reduplikimi: sipas rregullave të përgjithshme. Por vokali i reduplikimit: në vend të a,i,u qëndron ā, e, o**
+Shembuj:
 
-| ⟪दा⟫ 3U | ⟪देदीय⟫- |
-| --- | --- |
-| ⟪भू⟫ 1P | ⟪बोभूय⟫- |
-| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
-| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
-| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
-| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
+> | ⟪दा⟫ 3U | ⟪देदीय⟫- |
+> | --- | --- |
+> | ⟪भू⟫ 1P | ⟪बोभूय⟫- |
+> | ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
+> | ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
+> | ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
+> | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
+
+> ::: grammar-box
+**Rrënjët e formës -a-Nasal nuk e zgjasin vokalin në sylabën e reduplikimit, por e përsërisin nasal.**
+
+> :::
+> ::: indent
+> p.sh. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+> :::
+**Te disa rrënjë midis vokalit të sylabës së reduplikimit dhe konsonantit fillor të rrënjës shfaqet -nī- ose -rī- (-rī- te rrënjët që përmbajnë një ṛ në Intensiv).**
+
+> ::: indent
+> p.sh.
+> ⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
+> ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
+> :::
+> ::: grammar-box
+**Konjugimi:**
+
+> *   **Stemi i prezencës: si një Ātmanepada e klasës së 4-të të prezencës (⟪दिवादिगण⟫).**
+> *   **Pasiv dhe stemit e tjerë të kohëve: nëse një vokal i paraprihet -ya- së stemit intensiv, atëherë -ya- zëvendësohet me -y-, nëse një konsonant i paraprijet -ya- së, atëherë -ya- bie:**
+>     *   **Prezës Pasiv: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+>     *   **Perfekt: periphrastik: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+>     *   **Aorist: Aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+>     *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+>     *   **Futur periphrastik: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+:::
+### 61.3.2. Intensivi i Parasmaipada
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.**
+**Stamba e Presentit (formatet e tjera janë jashtëzakonisht të rralla): Formimi dhe konjugimi si një folje e klasës së 3-të të Presentit (⟪जुहोत्यादिगण⟫) me ndryshimin që vokali i silabës së ripërsëritjes është në nivel të lartë, dhe kur është -a- në nivel të zgjatur.**
 
-:::
-::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
-:::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).**
+**Në numrin njëjës të Indikativit të Presentit si dhe në 2.3.sg. Imperfektin dhe 3.sg.Imperativin, mund të futet një -ī- midis rrënjës dhe fundit. Nëse ky -ī- futet, një vokali i shkurtër në pozicionin para-të fundit nuk duhet të guṇirohet.**
 
-::: indent
-z.B.
-⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
-:::
-::: grammar-box
-**Konjugation:**
-
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).**
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:**
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
-:::
-### 61.3.2. Parasmaipada-Intensivum
-
-::: grammar-box
-**Präsensstamm (andere Formen sind äusserst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.**
-
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.**
-
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.**
+**Sa i përket ripërsëritjes me nazal dhe futjes së -nī- ose -rī-, vlen e njëjta gjë si për Intensivin Ātmanepada. Në vend të -rī- mund të qëndrojë opsionalisht -ri-.**
 :::
 Paradigma:
 
 ⟪भू⟫ 1P
 
-Indikativ Präsens (⟪लट्⟫):
+Indikativ i Presentit (⟪लट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि । बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि । बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति । बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
 Imperfekt (⟪लङ्⟫):
 
@@ -354,8 +344,8 @@ Imperfekt (⟪लङ्⟫):
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस् । अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत् । अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
 Imperativ (⟪लोट्⟫):
 
@@ -364,247 +354,246 @@ Imperativ (⟪लोट्⟫):
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु । बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativ (⟪विधिलिङ्⟫):
+Optativi (⟪विधिलिङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+## 61.4. Denominativat (⟪नामधातु⟫)
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen.
+Denominativat (⟪नामधातवः⟫) formohen, në kontrast me verbat e trajtuara deri tani, jo nga një rrënjë verbale, por nga një themel emëror. Në këtë rast ekzistojnë lloje të ndryshme formimi.
 
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
+### 61.4.1. Formim pa prapashtesë të veçantë, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
 :::
 ::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.**
+**një person ose gjë sillet ashtu siç është, ose i ngjan atij që përcaktohet nga themeli emëror.**
 :::
-**Konjugation:**
+**Konjugimi:**
 
 ::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.**
+**në themelin e presentit si një verb i klasës së 1-të të presentit (⟪भ्वादिगण⟫). Nëse emri 'mëhër' ka një zanor, atëherë vetëm zanori i fundit trajtohet si zanori rrënjësor i klasës së 1-të. -a-ja përfundimtare hiqet para zanorit temë. Zanori përpara një nazali përfundimtare zëvendësohet me zanorin e zgjatur përkatës.**
 :::
-Beispiele:
+Shembuj:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
+| ⟪कवि⟩ m. "Poet" | ⟪कवयति⟫ "ai sillet si një poet" |
 | --- | --- |
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" |
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" |
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
+| ⟪भू⟫ f. "Tokë" | ⟪भवति⟫ "ai sillet si toka" |
+| ⟪पितृ⟫ "Babë" | ⟪पितरति⟫ "ai sillet si një babë" |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "ai sillet si Kṛṣṇa" |
+| ⟪माला⟫ f. "Kurorë" | ⟪मालाति⟫ "ajo i ngjan një kurorë" |
+| ⟪राजन्⟫ m. "Mbret" | ⟪राजानति⟫ "ai sillet si një mbret" |
 
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
+### 61.4.2. Formim me prapashtesën -ya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird**
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird**
+*   **dikush dëshiron atë që përcaktohet nga rrënja emërore**
+*   **dikush trajton ose shikon një person apo gjë si ajo që përcaktohet nga rrënja emërore**
 
-**Stammbildung:**
+**Formimi i rrënjës:**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:**
+**para -ya, fundi i rrënjës emërore nënshtrohet ndryshimeve të mëposhtme:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **andere auslautende Konsonanten bleiben unverändert**
+*   **një zanor në fund bie, zanori përpara tij trajtohet sipas rregullave të mësipërme:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **konsonantet e tjera në fund mbeten të pandryshuara**
 :::
-Beispiele:
+Shembuj:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟩ m. "bir" | ⟪पुत्रीयति⟫ "ai dëshiron një bir" |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪कवि⟫ m. "piktor" | ⟪कवीयति⟫ "ai dëshiron një piktor" |
+| ⟪गो⟫ f. "dhi" | ⟪गव्यति⟫ "ai dëshiron një dhi" |
+| ⟪राजन्⟫ m. "mbret" | ⟪राजीयति⟫ "ai dëshiron një mbret" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "ai trajton dikë si Viṣṇu" |
+| ⟪प्रासाद⟫ m. "pallat" | ⟪प्रासादीयति⟫ "ai shikon (p.sh. kasollen e tij) si një pallat" |
 
-Beachten sie die Bedeutung von:
+Vini re kuptimin e:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
+| ⟪तपस्⟫ n. "asketizëm" | ⟪तपस्यति⟫ "ai ushtron asketizëm" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
+| ⟪नमस्⟫ n. "adhurim" | ⟪नमस्यति⟫ "ai adhuron" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Fig.: ⟪किं तपस्यति न वा⟫ ?
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103))
+Fig.: ⟪बालौ शिवं नमस्यतः ॥⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6103))
 :::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+### 61.4.3. Formimi me prapashtesën -kāmya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird**
+**dikush dëshiron atë që përcaktohet nga rrënja emërore**
 :::
-Beispiele:
+Shembuj:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "bir" | ⟪पुत्रकाय्म्यति⟫ "ai dëshiron një bir" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "lavdi" | ⟪यशस्काम्यति⟫ "ai dëshiron lavdi" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109))
+Fig.: ⟪यशस्काम्यन्ति मुंबई⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6109))
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### 61.4.4. Formimi me prapashtesën -sya ose -asya, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.**
+**dikush kërkon me forcë atë që përcaktohet nga rrënja emërore.**
 :::
-Beispiele:
+Shembuj:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
+| ⟪मधु⟫ n. "mjaltë" | ⟪मधुस्यति । मध्वस्यति⟫ "ai kërkon me forcë mjaltë" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+| ⟪अश्व⟫ m. "kuaj" | ⟪अश्वस्यति⟫ "(nata) kërkon me forcë kuajin" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Fig.: ⟪कस्तत्र न मधुस्यति⟫ ?
 Karli
-(Bildquelle: [Details](/licenses#lekt6110))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6110))
 :::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### 61.4.5. Formimi me prapashtesën -ya, Ātmanepada
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.**
+**dikush sillet si ajo, ose i ngjan asaj që përcaktohet nga rrënja emërore.**
 :::
-**Bildung:**
+**Formimi:**
 
-*   **auslautendes -a » -ā**
-*   **auslautendes -ā bleibt unverändert**
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **auslautendes -as wahlweise » -ā**
-*   **Femininstamm meist » Maskulinstamm**
+*   **-a në fund » -ā**
+*   **-ā në fund mbetet i pandryshuar**
+*   **ndryshe si më parë para -ya, Parasmaipada (shih më sipër 4.2.)**
+*   **-as në fund vullnetarisht » -ā**
+*   **Rrënja femërore zakonisht » Rrënja mashkullore**
 
-Beispiele:
+Shembuj:
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "ai sillet si Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ 3 "i famshëm" | ⟪यशायते । यशस्यते⟫ "ai sillet si një i famshëm" |
+| ⟪कुमारी⟫ f. "vajzë" | ⟪कुमारायते⟫ "ai sillet si një vajzë" |
 
 ::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:**
+**Për disa rrënjë emrash, ky prapashtesë do të thotë: diç bëhet si ajo, ose bëhet ajo që përcaktohet nga rrënja emrore:**
 
 :::
 ::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt"
+p.sh. ⟪उन्मनस्⟫ 3 "ngjall": ⟪उन्मनायते⟫ "ai ngjallet"
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:**
+**Në disa raste, me këtë prapashtesë formohen folje në kuptime të tjera:**
 
-Beispiele:
+Shembuj:
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich"
+⟪दुःख⟫ n. "dhimbje" : ⟪दुःखायते⟫ "ai ndjen dhimbje"
+⟪शब्द⟫ m. "tingull" : ⟪शब्दायते⟫ "ai lëshon një tingull"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111))
+Fig.: ⟪श्वानौ शब्दायेते⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6111))
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. Formimi me prapashtesën -aya, -āpaya
 
 ::: grammar-box
-**Verschiedene Bedeutungen.**
+**Kuptime të ndryshme.**
 
-**Konjugiert wie Kausativa.**
+**Konjugoohet si Kausativa.**
 :::
-Beispiele:
+Shembuj:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
+| ⟪सत्य⟫ 3 "e vërtetë" | ⟪स्तयपायति⟫ "ai e shpall si të vërtetë" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
+| ⟪मुण्ड⟫ 3 "i rruar" | ⟪मुण्डयति⟫ "ai e rrun" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113))
+Fig.: ⟪भिक्षुर्मुण्डयते ।⟫
+Tajlandë - เมืองไทย
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6113))
 :::
-Eine Liste von Denominative z.B. in:
+Një listë e Denominative p.sh. në:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112))
+Fig.:
+1845 - 1878 Profesor i filologjisë indo-orientale në Universitetin e Kopenhagenit
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. Benediktivi (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Bedeutung:**
+**Kuptimi:**
 
 :::
 ::: indent
-**Segenswunsch**
+**Dëshirë për bekim**
 :::
-**Bildung:**
+**Arsimimi:**
 
 **Parasmaipada:**
 
-**tiefstufige Wurzel + yās + Sekundärendung**
+**rrënjë në nivel të ulët + yās + prapashtesë dytësore**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!"
+p.sh. ⟪बुध्यासम्⟫ "që unë të njoh!"
 :::
 **Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung**
+**(zakonisht) rrënjë në nivel të lartë + sī(y) + prapashtesë dytësore**
 
-**oder:**
+**ose:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(rrënjë në nivel të lartë) + ⟪ै⟫ + sī(y) + prapashtesë dytësore**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen"
+p.sh.
+⟪जि⟫ : ⟪जेषीय⟫ "që unë të fitoj për interesin tim vetjak!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "që unë të njoh"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.**
+**Rregullat për formën e rrënjës në detaje te Kielhorn, Grammatik § 380ff.**
 
 Paradigma:
 
-⟪बुध्⟫ "erwachen"
+⟪बुध्⟫ "zgjohem"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -616,32 +605,37 @@ Paradigma:
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114))
+Fig.: ⟪नववर्षं शुभं भूयात् ॥⟫
+Bazilika Santa Cruz, Kochi = കൊച്ചി
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6114))
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 61.6. Kondicionali (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.**
+**Kondicionali (⟪ऌङ्⟫) përdoret kur dëshiron të shprehësh në fjali kushtore se ajo që përmendet si kusht nuk është / nuk ka qenë / nuk do të jetë e vërtetë. Kondicionali duhet përdorur në këto fjali si në fjalinë kushtore ashtu edhe në fjalinë kryesore.**
 :::
-Beispiel:
+Shembull:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Nëse do të kishte bërë mirë shi (ose po të bënte), do të kishte ushqim i bollshëm. (Por nuk ka bërë [mjaftueshëm] shi.)"
+:::
+Shembull:
+
+::: indent
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Nëse do të kishte bërë mirë shi (ose po të bënte), do të kishte ushqim i bollshëm. (Por nuk ka bërë [mjaftueshëm] shi.)"
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):**
+**Formimi i Kondicionalit (⟪ऌङ्⟫):**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
+**Augment + Stamba e Futurit të Thjeshtë (⟪ऌत्⟫) + Përfundim Sekondar**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm.
+d.m.th. si një Imperfekt (⟪लङ्⟫) ndaj stambit të Futurit.
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
+p.sh. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
 Paradigma:
 
-⟪भू⟫ "sein, werden"
+⟪भू⟫ "të jesh, të bëhesh"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -651,45 +645,45 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. Deklinimi i emrave me -ai, -o, -au
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv**
+**Para konsonantesh këta stamba përfundojnë në -ai, -o, -au; para konsonantesh në -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7.
+**⟪गो⟩ mash./fem. "dem, lopë" ka shkallëzim stambi.** Shih shpjegimin në detaje te Thumb-Hauschild § 296/7.
 :::
-Paradigmen: Kielhorn, Grammatik § 153:
+Paradigma: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118))
+Fig.: ⟪हरिद्वारे गावः ॥⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina
+## 61.8. Prononcime të tjera
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. Pronomatet personale të dyjës
 
-Kielhorn, Grammatik § 177:
+Kielhorn, Gramatikë § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117))
+Fig.: ⟪आवां स्वसारौ ॥⟫
+Populli Apatani, Arunachal Pradesh
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt6117))
 :::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+### 61.8.2. Pronomatet demonstrative ⟪अदस्⟫ "ajo (e largët)"
 
-Maskulinum (⟪पुंस्⟫)
+Gjinia mashkullore (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -702,7 +696,7 @@ Maskulinum (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫)
+Gjinia neutrale (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -710,10 +704,10 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+Të tjerat si Gjinia mashkullore
 
 :::
-Femininum (⟪स्त्री⟫)
+Gjinia femërore (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -726,25 +720,25 @@ Femininum (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
+## 61.9. Lëshimi në oqeanin e letërsisë sanskrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen:
+Pas përfundimit të kursit të sanskritishtes, fillon vërtet "notimi" në oqeanin e letërsisë sanskrite. Meqenëse ky oqean është i mbushur me pengesa, është e përshtatshme që ky fazë e re jetësore të fillojë me një thirrje drejtuar Gaṇeśas:
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
+Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101))
+(Burimi i imazhit: [Details](/sq/licenses#lekt6101))
 :::
 
 ::: no-header
 |   |   |
 | --- | --- |
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ सिन्धुरवर्ण करुणासागर करिवदन⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर १⟫:br:br⟪सिद्धचारण गणसेवित सिद्धिविनायक ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित सर्वोत्तम ते नमो नमो⟫:br:br⟪लम्बोदर लकुमीकर⟫:br⟪अम्बासुत अमरविनुत⟫:br⟪लम्बोदर लकुमीकर⟫:br:br⟪१ लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
 ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+Kompozitor dhe poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
 Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
@@ -752,24 +746,25 @@ Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagau�
 
 *   avarohaṇa: S d1 p m1 g3 r1 s
 
+
 Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119))
+Abb.: Melodia, e lidhur me c, mund të transpozohet sipas lartësisë së zërit.
+(Burimi i imazhit: [Details](/sq/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
+Pashtu që tani keni mësuar bazat e sanskritishtë, shpresojmë që të jeni si fëmijët në video: ndonjëherë të paaftë, por me dëshirë për mësim dhe dije, dhe me kënaqesi në punën tuaj. Ruani "një mendje fillestare" deri në fund të jetës suaj.
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer
+Këtë dëshiron për ju Alois Payer
 
 Ofterdingen, 2009-03-09
 
-:sig[⟪ॐ⟫]
+sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+FUNDI I KURSIT TË SANSKRISHT
 :::
 

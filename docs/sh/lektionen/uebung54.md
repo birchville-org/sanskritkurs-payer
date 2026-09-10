@@ -1,45 +1,46 @@
 ---
-title: "Exercise 54"
+title: "[Vježba 54]"
 uebung_id: 54
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 54
+# Exercise 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Form the corresponding Aorist forms for the following Present or Perfect forms:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| No. | Form | Determination / Meaning | Aorist |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | they go | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | I drink | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫ | I have / he has given | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫ | I / he / they were / were (plural) | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫ | they place / set | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫ | we went | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫ | you have drunk / protected | ⟪अपाः⟫ (to :sig[⟪पा⟫] "drink") |
+| ⟪८⟫. | ⟪तिष्ठति⟫ | he stands | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫ | you have gone | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫ | you (plural) have drunk | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫ | you (plural) will go | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫ | they stood | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫ | you (plural) placed / set | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫ | you gave | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫ | they were | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫ | we have given | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫ | it is split / cleft | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫ | it is said | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫ | he is praised | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫ | it is ploughed / tilled | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫ | he is born | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫ | it is sung | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫ | it is gone / has been walked | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Fig.: ⟪अगायि⟫
+(Image source: [Details](/licenses#uebung093))
 :::
 

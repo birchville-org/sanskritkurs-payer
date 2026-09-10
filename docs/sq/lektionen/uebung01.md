@@ -1,9 +1,10 @@
 ---
-title: "Ushqim 1"
+title: "Ushtrimi 1"
 uebung_id: 1
-category: "Ushqim"
+category: "Übung"
+
 ---
 
-# Ushtrim 1
+# Ushtrimi 1
 
-Lektion 1 enthält keine schriftlichen Übungen, da sie als Einführung in die Lautlehre und Aussprache konzipiert ist. Die Leseübungen am Ende der Lektion dienen der praktischen Einübung der Laute und erfordern keinen separaten Lösungsschlüssel.
+Mësimi 1 nuk përmban ushtrime shkrimore, pasi është projektuar si hyrje në fonologji dhe shqiptim. Ushtrimet e leximit në fund të mësimit shërbejnë për stërvitjen praktike të tingujve dhe nuk kërkojnë një çelës zgjidhjesh të veçantë.

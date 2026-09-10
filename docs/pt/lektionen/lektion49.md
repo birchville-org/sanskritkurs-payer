@@ -1,10 +1,11 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Lição 49"
+subtitle: "Formação do imperativo (⟪लोट्⟫) de temas presentes atemáticos (continuação)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 49
@@ -171,7 +172,7 @@ Substantivos em -is e -us são relativamente raros.
 ::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4907))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4907))
 :::
 ## 49.4. Lista de palavras
 
@@ -229,7 +230,7 @@ Inf. ⟪द्रोग्धुम्⟫
 ::: media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
-(Fonte da imagem: [Details](/licenses#lekt4901))
+(Fonte da imagem: [Details](/pt/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: inteiro, completo
 
@@ -241,7 +242,7 @@ Fig.: ⟪कुलूहलम्⟫
 ![](/images/lekt4902.webp)
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, séc. XI
-(Fonte da imagem: [Detalhes](/licenses#lekt4902))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: desejo
 
@@ -252,7 +253,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ::: media
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4903))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: vestimenta, aparência, exterior
 
@@ -260,7 +261,7 @@ Fig.: ⟪विहंगः⟫
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt4904))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: cobertura, esconderijo
 
@@ -270,7 +271,7 @@ Fig.: ⟪वेषः⟫
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
 Adivinho com papagaio numa gaiola: o papagaio tira pequenos bilhetes, nos quais está escrito o destino Mysore
-(Fonte da imagem: [Detalhes](/licenses#lekt4909))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4909))
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: o nível mais baixo dos [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
@@ -297,7 +298,7 @@ Gerundivo ⟪ध्येय⟫
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Fonte da imagem: [Detalhes](/licenses#lekt4905))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
@@ -309,7 +310,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 ![](/images/lekt4906.webp)
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
-(Fonte da imagem: [Detalhes](/licenses#lekt4906))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4906))
 :::
 ## 49.5. Exercício de revisão de morfologia
 
@@ -369,6 +370,6 @@ Perguntas do rei ⟪शूद्रक⟫ de ⟪विदिशा⟫ ao papagai
 ![](/images/lekt4908.webp)
 Fig.: ⟪शुकः⟫
 Periquito-de-cabeça-de-ameixa = Psittacula cyanocephala
-(Fonte da imagem: [Detalhes](/licenses#lekt4908))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt4908))
 :::
 

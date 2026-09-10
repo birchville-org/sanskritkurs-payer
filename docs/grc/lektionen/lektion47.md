@@ -105,9 +105,9 @@ status: stable
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
+Εἰκ.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/grc/licenses#lekt4702))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4702))
 :::
 ### 47.2.4. Τετάρτη τάξις τοῦ ἐνεστῶτος (⟪दिवादि⟫)
 
@@ -121,8 +121,8 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/grc/licenses#lekt4701))
+Εἰκ.: ⟪नृत्यत⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt4701))
 :::
 ### 47.2.5. Δεκάτη τάξις τοῦ ἐνεστῶτος (⟪चुरादि⟫) καὶ αἰτιατικὰ
 

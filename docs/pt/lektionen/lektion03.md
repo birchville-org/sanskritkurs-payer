@@ -1,10 +1,11 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Lição 3"
+subtitle: "O nominativo singular do feminino"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 3
@@ -79,7 +80,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī é uma deusa" = ⟪देव
 ::: media
 ![](/images/lekt0301.webp)
 Fig.: Indra e Indrāṇī no elefante Airavata, miniatura, Rājasthān, 1670/80
-(Fonte da imagem: [Detalhes](/licenses#lekt0301))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0301))
 :::
 
 ::: grammar-box
@@ -106,7 +107,7 @@ Para este sandhi, aplica-se, portanto, o seguinte esquema:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Fonte da imagem: [Detalhes](/licenses#lekt0302))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0302))
 :::
 Sobre esta assim chamada gradação do radical, veja mais adiante!
 

@@ -1,6 +1,6 @@
 ---
 title: "บทที่ 10"
-subtitle: "ประโยคแบบ Passive (Instrumentalis ของผู้กระทำ)"
+subtitle: "ประโยคกรรมวาจก (ตติยาวิภัตติของผู้กระทำ)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"

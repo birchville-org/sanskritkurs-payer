@@ -1,11 +1,12 @@
 ---
-title: "Exercise 53"
+title: "[Vježba 53]"
 uebung_id: 53
-category: "Exercise"
+category: "Übung"
+
 ---
 
-# Vežba 53
+# Vježba 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+Vježba za lekciju 53 sastoji se u metričkoj analizi (utvrđivanju šleka-sheme) svih stihova naučenih u prethodnim lekcijama.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Budući da se radi o sveobuhvatnoj ponavljajućoj i analitičkoj vježbi, ne postoji odvojeni ključ rješenja u klasičnom smislu. Rješenja proizlaze iz primjene pravila predanih u lekciji 53 na već poznate tekstove.

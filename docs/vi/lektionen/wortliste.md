@@ -3,125 +3,127 @@ outline: 2
 
 ---
 
-# Wortliste (Gesamtübersicht)
+# Danh sách từ vựng (Tổng quan)
 
-*Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
-
-
-## Lektion 2
+*Tất cả các từ mới trong khóa học theo thứ tự giới thiệu, kèm giải thích chủ đề.*
 
 
+## Bài 2
 
 
 
 
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+
+
+
+**deva** m. -- ⟪देव⟫ : Thiên thần, Thần; Chúa tể, Vua.
+
+**īśvara** m. -- ⟪ईश्वर⟫ : Chủ nhân, Người cai trị, Thần (nhất thần giáo).
+
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahman (tầng lớp tăng lữ).
+
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (tầng lớp quý tộc và quân sự).
+
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (tầng lớp nông dân và thương nhân).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (tầng lớp lao động dịch vụ).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+Theo lý thuyết cổ điển (ví dụ Manusmṛti I, 88-91), các nhiệm vụ được phân chia như sau:
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**của Brahmanas**
+Nghiên cứu Veda
+Giảng dạy
+Tế tự cho bản thân
+Tế tự cho người khác
+Cho tặng
+Nhận quà biếu
+**của Kṣatriyas**
+Bảo vệ dân chúng
+Cho tặng (cho Brahmanas)
+Tế tự cho bản thân
+Nghiên cứu Veda
+**của Vaiśyas**
+Chăn nuôi gia súc
+Nông nghiệp
+Thương mại
+Cho vay tiền
+Tế tự cho bản thân
+Cho tặng (cho Brahmanas)
+Tế tự cho bản thân
+Nghiên cứu Veda
+**của Śūdras**
+Phục vụ ba tầng lớp trên cùng
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Người sinh hai lần" (người được thụ đắc của ba tầng lớp trên: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫ : Màu sắc, tầng lớp sinh thành (xu hướng).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+Bốn tầng lớp (**varṇa** m.) thường bị nhầm lẫn với hệ thống giai cấp. Tuy nhiên, bốn tầng lớp này -- khác với các đẳng cấp -- không phải là đặc thù của Ấn Độ; ở châu Âu, chúng ta cũng từng có một trật tự đẳng cấp (một phần cho đến Thế chiến thứ nhất), như minh chứng từ hình ảnh sau đây vào thế kỷ 15:
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+Abb.: Minh họa sự phân chia đẳng cấp của châu Âu thời Trung cổ (khắc gỗ cuối thế kỷ 15).
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Chú thích:**
+**Đẳng cấp tư tế** (~Brāhmaṇa): Tu supplex ora = Ngươi hãy cầu khẩn!
+**Đẳng cấp quý tộc** (~Kṣatriya): Tu protege = Ngươi hãy bảo vệ!
+**Đẳng cấp nông dân** (~Vaiśya/Śūdra): Tuque labora = Và ngươi hãy lao động!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+Ba đẳng cấp này mang trang phục đặc trưng của từng đẳng cấp. Ở trên các đẳng cấp – được coi là do ý muốn của thần thánh – Chúa Kitô ngự trị.
 
-Max Weber (1864–1920) definiert Stand so:
+Max Weber (1864–1920) định nghĩa đẳng cấp như sau:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**Đẳng cấp**« là một tập hợp nhiều người, những người này trong một tổ chức
+a) có được sự đánh giá đặc biệt của đẳng cấp, - có thể bao gồm cả
+b) các đặc quyền riêng của đẳng cấp.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+Đẳng cấp có thể hình thành
+a) nguyên thủy, thông qua lối sống đặc thù của đẳng cấp, trong đó chủ yếu là hình thức **nghề nghiệp** (**đẳng cấp nghề nghiệp/lối sống**),
+b) thứ phát, mang tính di truyền đặc quyền, thông qua các yêu sách về uy tín thành công dựa trên **huyết thống** đẳng cấp (**đẳng cấp huyết thống**),
+c) thông qua việc **chiếm hữu** đẳng cấp các quyền lực chính trị hoặc giáo hội như những đặc quyền (**đẳng cấp chính trị hoặc giáo hội**).
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+Sự phát triển đẳng cấp huyết thống thường là một hình thức chiếm hữu (di truyền) đặc quyền đối với một tổ chức hoặc các cá nhân có năng lực. Mọi sự chiếm hữu cố định về cơ hội, đặc biệt là [của] quyền lực chủ nhân hoặc cơ hội sinh kế, có xu hướng dẫn đến hình thành đẳng cấp. Mọi sự hình thành đẳng cấp đều có xu hướng dẫn đến việc chiếm hữu độc quyền các quyền lực chủ nhân và cơ hội sinh kế.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+Trong khi các lớp nghề nghiệp phát triển trên nền tảng của nền kinh tế định hướng thị trường, thì các đẳng cấp thường xuất hiện và tồn tại trên nền tảng của việc đáp ứng nhu cầu của các tổ chức theo hình thức độc quyền, lễ nghi, phong kiến hoặc gia trưởng đẳng cấp.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+«Đẳng cấp» muốn nói đến một xã hội mà sự phân chia xã hội chủ yếu dựa trên các đẳng cấp, «theo giai cấp» muốn nói đến sự phân chia chủ yếu dựa trên các giai cấp. «Đẳng cấp» gần với «giai cấp xã hội» nhất trong các «giai cấp», và xa nhất với «giai cấp kinh tế». Các đẳng cấp thường được hình thành chủ yếu dựa trên các giai cấp sở hữu.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+Mỗi xã hội đẳng cấp là mang tính quy ước, được sắp xếp theo các quy tắc của lối sống, do đó tạo ra các điều kiện tiêu dùng phi kinh tế và cản trở sự hình thành thị trường tự do thông qua các sự chiếm đoạt độc quyền và việc loại bỏ quyền tự do sử dụng khả năng kiếm sống của chính mình.
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+Do đó, Varṇas là các đẳng cấp sinh thành.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : Thi sĩ.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : Lửa, thần Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+Abb.: Thần Agni, tranh miniatur, thế kỷ 18.
+(Nguồn ảnh: [Details](/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : Đúng, tốt.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : "Thánh" nhân, Sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
-:::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+Abb.: Sādhu (⟪साधु⟫), Đền Pashupatinath, Kathmandu.
+(Nguồn ảnh: [Details](/licenses#lekt0202))
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
+**guru** m. -- ⟪गुरु⟫ : nhân vật đáng tôn kính: cha, mẹ, người thân lớn tuổi, đặc biệt là thầy giáo, bậc sư trưởng
 
----
-
-## Lektion 3
+## Bài 3
 
 
 
@@ -129,59 +131,65 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**Học các từ sau:**
+
+**śruti** f. = ⟪श्रुति⟫ : sự nghe, truyền thống vĩnh cửu (danh xưng cho các bộ Veda và Brāhmaṇa).
+
+**smṛti** f. = ⟪स्मृति⟫ : sự hồi tưởng, ký ức, sự hồi tưởng trong thiền định = chánh niệm, truyền thống (khái niệm đối lập với **śruti**). Bao gồm:
+sáu môn **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): phát âm đúng đắn
+2. **chandas** n. (⟪छन्दस्⟫): luật thơ
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): ngữ pháp
+4. **nirukta** n. (⟪निरुक्त⟫) : giải thích từ ngữ, từ nguyên học
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : thiên văn học, lịch pháp
+6. **kalpa** m. (⟪कल्प⟫) : nghi lễ
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : các tác phẩm giáo lý về việc thực hiện các đại lễ tế
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : các tác phẩm giáo lý về các nghi lễ và tế tự trong đời sống hàng ngày
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) và **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : các tác phẩm giáo lý về luật pháp và phong tục (hành vi đúng đắn)
+các sử thi lớn **mahābhārata** n. (⟪महाभारत⟫) và **rāmāyaṇa** n. (⟪रामायण⟫)
+các bộ **purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : các tác phẩm giáo lý về sự khôn khéo trong cuộc sống
+
+**smṛti** cũng đặc biệt là danh xưng cho các tác phẩm giáo lý về Dharma.
+
+**dhenu** f. = ⟪धेनु⟫ : (bò sữa) con bò cái.
+
+**paśu** m. = ⟪पशु⟫ : gia súc được thuần hóa, vật nuôi (danh từ tập hợp).
+
+**devatā** f. = ⟪देवता⟫ : thần linh (trừu tượng và cụ thể).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : nữ Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : vợ của một Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : nữ Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : nữ Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : vợ của một Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : nữ thần, đặc biệt là Durgā f. = ⟪दुर्गा⟫, vợ của Śiva = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
 Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+(Nguồn ảnh: [Details](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫ : "tính tôi", tức là niềm tin (sai lầm): **Tôi** là người thấy v.v.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : triết học (ngành khoa học đạt tới các kết luận nhờ những lập luận đúng đắn về mặt logic).
 
 **upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
 
@@ -189,9 +197,13 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
----
+## Bài 5
 
-## Lektion 5
+
+
+
+
+
 
 
 
@@ -201,49 +213,49 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **Lernen Sie folgende Wörter:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : khuynh hướng, sự ngoan cố, sự khăng khăng; đặc biệt: sự bám chấp vào thân xác như thể nó là của riêng mình.
 
 **kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
 Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+(Nguồn ảnh: Wikipedia, Công cộng)
 :::
 **krodha** m. = ⟪क्रोध⟫ : Zorn.
 
 **kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : người sinh hai lần.
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**dveṣa** m. = ⟪द्वेष⟫ : hận thù.
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**maitrī** f. = ⟪मैत्री⟫ : tình bạn, thân thiện, lòng tốt lành.
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**rāga** m. = ⟪राग⟫ : (màu) đỏ, đam mê, tình yêu.
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**lobha** m. = ⟪लोभ⟫ : tham lam, hà tiện.
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**varṇa** m. = ⟪वर्ण⟫ : màu sắc, chủng loại, đẳng cấp.
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**vārttā** f. = ⟪वार्त्ता⟫ : mưu sinh, kinh tế (nền kinh tế).
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**vidyā** f. = ⟪विद्या⟫ : tri thức, khoa học.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**avidyā** f. = ⟪अविद्या⟫ : vô minh, sự không biết.
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**ca** = ⟪च⟫ : và.
+(Được đặt sau từ mà nó nối kết. Khi nối nhiều từ, lý tưởng nhất là đứng sau từ đầu tiên của cụm liên kết cuối cùng: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : cả ... lẫn.
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+## Bài 6
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
 
----
 
-## Lektion 6
+
+
+
 
 
 
@@ -252,28 +264,26 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
+Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc**. Số đứng sau gốc động từ chỉ **lớp chia động từ**.
 
-- **P:** Wurzel ist nur Parasmaipada
-- **Ā:** Wurzel ist nur Ātmanepada
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+**P:** Gốc động từ chỉ dùng Parasmaipada
+**Ā:** Gốc động từ chỉ dùng Ātmanepada
+**U:** Ubhayapada ("cả hai dạng từ"): Gốc động từ được dùng trong cả Parasmaipada và Ātmanepada.
+**():** Trong ngoặc đơn là ngôi thứ ba số ít hiện tại chỉ định (laṭ).
 :::
-**Lernen Sie folgende Wörter:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
+**Học các từ sau:**
+**yaj** 1 U (yajati) ⟪यज् यजति⟫ : tôn kính bằng lễ tế, hiến tế
+**bhū** 1 P (bhavati) ⟪भू भवति⟫ : trở thành, sinh ra, là
+**smṛ** 1 P (smarati) ⟪स्मृ स्मरति⟫ : hiện diện, nhớ lại
+**nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ : nhảy múa
+**nī** 1 U (nayati) ⟪नी नयति⟫ : dẫn dắt
+**man** 4 Ā (manyate) ⟪मन् मन्यते⟫ : suy nghĩ
+**muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ : bối rối
+**yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ : chiến đấu
+**viś** 6 P (viśati) ⟪विश् विशति⟫ : bước vào
+**sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : thả ra, phóng thích, phát sinh
 
----
-
-## Lektion 7
+## Bài 7
 
 
 
@@ -281,33 +291,35 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+
+
+
+
+
+**Học các từ sau:**
+
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : đạt được, đến với, sở hữu
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : đạt được, sở hữu
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : giận dữ
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : giận dữ
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : nhai, ăn
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : nghe (cái gì: Cách 4, ai đó: Cách 2 hoặc Cách 4; về: Cách 4; từ ai đó: Cách 2, Cách 5, Cách 3)
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : ép
+**soma** m. ⟪सोम⟫ : thức uống ép, Soma; Mặt Trăng (Cây nào được dùng để ép lấy Soma vẫn còn là vấn đề tranh cãi cho đến ngày nay).
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701))
+Abb.: Phải chăng đó là cây Soma thời Vệ Đà?: Nấm độc đỏ: *Amanita muscaria* (L.) Lam.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
+**phala** n. ⟪फल⟫ : quả (cũng theo nghĩa bóng: kết quả (nghiệp) của một hành động)
+**nṛtya** n. ⟪नृत्य⟫ : múa
+**svarga** m. ⟪स्वर्ग⟫ : thiên đường
+**naraka** m. ⟪नरक⟫ : địa ngục (theo một quan điểm Hindu, vũ trụ có hình dạng của một quả trứng (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Trứng của Brahmā"): phía trên mặt đất có sáu tầng trời với sự hạnh phúc tăng dần, phía dưới mặt đất là bảy tầng **pātāla** n. = ⟪पाताल⟫, nơi cư trú của **nāga** m. = ⟪नाग⟫ (rắn) và các sinh vật thần thoại khác, dưới đó có bảy tầng địa ngục với sự hành hạ tăng dần)
+**aṅga** n. ⟪अङ्ग⟫ : chi thể cơ thể, thành phần; cũng = **vedāṅga** = ⟪वेदाङ्ग⟫
+**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : đi (Thuộc lớp động từ 1 theo phân loại nội tại, nhưng thực chất là một hình thành với hậu tố tạo gốc hiện tại **-ccha-**: **gam** » dạng thấp (**gm** ») **ga-ccha-ti**)
 
-
-
----
-
-## Lektion 8
+## Bài 8
 
 
 
@@ -315,42 +327,47 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+
+
+
+
+
+**Học các từ sau:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : chiến thắng, chinh phục
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : nắm lấy, nhận được, tiếp thu
+**tu** ⟪तु⟫ : nhưng (đứng sau từ đầu tiên của mệnh đề hoặc thành phần câu đối lập)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : nhìn, trông thấy (được dùng làm gốc hiện tại thay cho gốc động từ **dṛś** 0 "nhìn, trông thấy")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : làm, thực hiện
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : kéo dài
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : bảo vệ, canh giữ
+**sārathi** m. ⟪सारथि⟫ : người đánh xe, lái ngựa
+**kapi** m. ⟪कपि⟫ : khỉ
+**kumārī** f. ⟪कुमारी⟫ : cô gái, trinh nữ
+**nāga** m. ⟪नाग⟫ : người trần trụi, voi, rắn (voi và rắn không có lông, giống như "con khỉ trần trụi" là con người)
+**gaja** m. ⟪गज⟫ : voi
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : đau buồn, thương tiếc
+**śuka** m. ⟪शुक⟫ : vẹt
+**pat** 1 P (patati) ⟪पत् पतति⟫ : rơi, bay
+**patrikā** f. ⟪पत्रिका⟫ : bức thư
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : khắc, viết (ban đầu dùng mũi nhọn khắc trên lá dương xỉ, sau đó mang nghĩa chung)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Minh họa: **likh** (⟪लिख्⟫) : Bút sắt Ấn Độ dùng để khắc lên lá dương xỉ
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0809))
 :::
+
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+Minh họa: **likh** (⟪लिख्⟫) : Que viết của người Batak (Sumatra), có lẽ cũng được sử dụng phổ biến ở Ấn Độ
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+**sukha** n. ⟪सुख⟫ : hạnh phúc, sự an vui
+**duḥkha** n. ⟪दुःख⟫ : bất hạnh, khổ đau
 
----
-
-## Lektion 9
+## Bài 9
 
 
 
@@ -358,41 +375,45 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
+
+
+
+
+
+**Học các từ sau:**
+
+**adhyayana** n. (⟪अध्ययन⟫) : học tập, đặc biệt là nghiên cứu Veda
 
 ::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903))
+Hình: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram gần Madurai.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
+**kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : thợ thủ công
 
 ::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902))
+Hình: **kāru** = ⟪कारु⟫, Gujarat.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
+**kuśīlava** m. (⟪कुशीलव⟫) : diễn viên lưu động, diễn viên, ca sĩ
+**kusīda** n. (⟪कुसीद⟫) : lãi suất cao, cho vay nặng lãi
+**kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : kéo
+**kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : cày
+từ đó: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : nông nghiệp
+**dāna** n. (⟪दान⟫) : cho, món quà, sự hào phóng
+**pratigraha** m. (⟪प्रतिग्रह⟫) : nhận, quà tặng
+**pravacana** n. (⟪प्रवचन⟫) : bài giảng, sự dạy dỗ (miệng)
+**pāśupālya** n. (⟪पाशुपाल्य⟫) : chăn nuôi gia súc
+liên quan đến **yaj** 1 U:
+**ijyā** f. (⟪इज्या⟫) : tế lễ (từ gốc \*yj » ij + hậu tố **yā**)
+**yajana** n. (⟪यजन⟫) : tế lễ thay cho người khác
+**rūpa** n. (⟪रूप⟫) : hình dáng, dạng thức, vẻ đẹp, bản chất, tính cách
+**vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : thương mại
+**śuśrūṣā** f. (⟪शुश्रूषा⟫) : sự vâng lời, phục vụ tận tụy
 
----
-
-## Lektion 10
+## Bài 10
 
 
 
@@ -400,64 +421,139 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **gṛha** n. ⟪गृह⟫ : Haus
-- **grāma** m. ⟪ग्राम⟫ : Dorf
-- **nagara** n. ⟪नगर⟫ : Stadt
+
+
+
+
+
+**Học các từ sau:**
+
+**gṛha** n. ⟪गृह⟫ : nhà
+**grāma** m. ⟪ग्राम⟫ : làng
+**nagara** n. ⟪नगर⟫ : thành phố
+
+  ::: note-box
+  Về đời sống thành thị và nông thôn, xem Basham, *Wonder*, Chương 6.
+  :::
+
+**yajña** m. ⟪यज्ञ⟫ : Lễ tế
+
+  ::: note-box
+  Trong Ấn Độ, lễ tế trước hết là sự tôn kính vị thần như một vị khách. Qua đó, người thực hiện cam kết với vị thần ấy.
+
+  Cấu tạo từ: **yaj** 1 U + kṛt-Suffix **-na-**.
+  :::
+
+**puṇya** n. ⟪पुण्य⟫ : việc thiện, công đức
+
+  ::: note-box
+  Nhờ đó mà con người đạt được an lạc và những kiếp sống tốt đẹp.
+  :::
+
+**pāpa** n. ⟪पाप⟫ : ác nghiệp, điều xấu (đối lập với **puṇya**)
+**satya** n. ⟪सत्य⟫ : chân lý
 
 ::: note-box
-  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  - **yajña** m. ⟪यज्ञ⟫ : Opfer
+Ở Ấn Độ, người ta tin rằng lời nói chân thật có sức mạnh ma thuật; thậm chí toàn bộ trật tự vũ trụ được duy trì và sáng tạo bởi lời nói chân thật. Về quan niệm quan trọng này, xem tác phẩm nền tảng:
 
 :::
-::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
-  
-  Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
-
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Từ di cảo, biên tập bởi Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 :::
-::: note-box
-  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
-- **satya** n. ⟪सत्य⟫ : Wahrheit
 
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1003))
 :::
-::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+**anṛta** n. ⟪अनृत⟫ : sự không chân thật, lời nói dối (đối lập với **satya**)
 
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+  ::: note-box
+  Cấu tạo từ **an-** („không-“) + **ṛta** n.
+
+  **ṛta** là một khái niệm trung tâm trong Veda, việc dịch thuật vẫn còn gây tranh cãi: „chân lý“ (Lüders, Thieme), „trật tự“ (Renou).
+  :::
+
+**ṛṣi** m. ⟪ऋषि⟫ : hiền nhân thời Veda, tác giả các bài ca Veda
+
+  ::: note-box
+  Tên của các **ṛṣi** này được nhắc đến trong các văn bản Brāhmaṇa cũng như trong các danh mục riêng về Veda. Tất cả người Brahman đều truy nguyên nguồn gốc của mình từ các **ṛṣi** này, những người mà dòng dõi **gotra** (⟪गोत्र⟫) của họ được đặt tên. Về khái niệm **gotra**, xem Basham, *Wonder*, Chương 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪⟪विश्वामित्रः⟫⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1002))
+:::
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : nói, trò chuyện
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : hỏi (ai đó: Cách 4; về điều gì đó: Cách 4)
+**saha** ⟪सह⟫ : cùng với, chung với (cũng dùng trong ngữ cảnh "chiến đấu với" v.v.) (Hậu giới từ đi kèm Cách 5)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Từ di sản biên tập bởi Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
+:::
+
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1003))
+:::
+**anṛta** n. ⟪अनृत⟫ : sự không thật, lời nói dối (đối lập với **satya**)
+
+  ::: note-box
+  Cấu tạo từ **an-** ("không-") + **ṛta** n.
+
+  **ṛta** là một khái niệm trung tâm trong Veda, việc dịch thuật vẫn còn gây tranh cãi: "sự thật" (Lüders, Thieme), "trật tự" (Renou).
+  :::
+
+**ṛṣi** m. ⟪ऋषि⟫ : hiền nhân thời Veda, tác giả của các bài hát Veda
+
+  ::: note-box
+  Tên của các **ṛṣi** này được đề cập trong các văn bản Brāhmaṇa cũng như trong các danh mục riêng biệt về Veda. Tất cả người Brahman đều truy nguyên nguồn gốc của họ từ những **ṛṣi** này, theo đó tên **gotra** (⟪गोत्र⟫) của họ được đặt. Về khái niệm **gotra**, xem Basham, *Wonder*, Chương 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪विश्वामित्रः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1002))
+:::
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : nói, trò chuyện
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : hỏi (ai đó: Cách 4; về điều gì đó: Cách 4)
+**saha** ⟪सह⟫ : cùng với, chung với (cũng dùng trong ngữ cảnh "chiến đấu với" v.v.) (Hậu giới từ đi kèm Cách 5)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Xuất bản từ di sản do Ludwig Alsdorf biên tập. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
 Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#lekt1003))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+**anṛta** n. ⟪अनृत⟫ : Sự không đúng sự thật, lời nói dối (đối lập với **satya**)
 
 ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
-  
-  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  - **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+Cấu tạo từ **an-** („không-“) + **ṛta** n.
+
+**ṛta** là một khái niệm trung tâm trong Veda, việc dịch thuật vẫn còn gây tranh cãi: „Sự thật“ (Lüders, Thieme), „Trật tự“ (Renou).
+**ṛṣi** m. ⟪ऋषि⟫ : Trí giả thời Veda, tác giả của các bài ca Veda
 
 :::
 ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+Tên của các **ṛṣi** này được đề cập trong các văn bản Brāhmaṇa cũng như trong các danh mục riêng dành cho Veda. Tất cả những người Brahman đều truy nguyên nguồn gốc của họ từ các **ṛṣi** này, những người mà dòng dõi **gotra** (⟪गोत्र⟫) của họ được đặt tên theo. Về khái niệm **gotra**, xem Basham, *Wonder*, Chương 5.
 :::
 ::: media
 ![](/images/lekt1002.jpg)
 Abb.: ⟪विश्वामित्रः⟫
-(Bildquelle: [Details](/licenses#lekt1002))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : nói, phát biểu
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : hỏi (ai đó: Cách bổ ngữ; về điều gì: Cách bổ ngữ)
+**saha** ⟪सह⟫ : cùng với, chung với (cũng dùng trong ngữ cảnh „chiến đấu với“ v.v.) (Hậu giới từ đi kèm Cách dụng cụ)
 
 ---
 
-## Lektion 11
+## Bài 11
 
 
 
@@ -465,45 +561,49 @@ Abb.: ⟪विश्वामित्रः⟫
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:**
 
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+
+**Học các từ sau đây:**
+
+**iti** ⟪इति⟫ : như vậy
+Đứng *sau* khi diễn đạt một suy nghĩ, mong muốn, lời nói trích dẫn hoặc câu trích dẫn như thể là dấu ngoặc kép ("").
+Ví dụ: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Các Brahman nói: 'Những người chính trực đi đến thiên đường'" = "Các Brahman nói rằng những người chính trực đi đến thiên đường".
+Trong tiếng Sanskrit không có câu tường thuật gián tiếp; các cấu trúc với **iti** thường phải được diễn đạt lại bằng câu tường thuật gián tiếp trong tiếng Đức.
+**... (trích dẫn) ... iti śrutiḥ** = „như vậy là lời Veda“.
+Thường thì sau **iti** có thể ngầm hiểu một động từ suy nghĩ: „nghĩ rằng: '...' anh ta làm điều đó“. Trong tiếng Đức cần diễn đạt một cách tự nhiên (ví dụ: „Vì anh ta đói, anh ấy đi...\").
+
+**evam** ⟪एवम्⟫ : vậy (trạng từ, ví dụ **evaṃ jayati** "ông ấy chiến thắng như vậy").
+**na** ⟪न⟫ : không
+Phủ định các từ đơn lẻ (đứng ngay trước: **na sādhuḥ** "một người không tốt") hoặc cả câu (đứng ở đầu hoặc ngay trước động từ).
+
+**putra** m. ⟪पुत्र⟫ : con trai (Ở Ấn Độ, việc sinh một người con trai là cần thiết để có thể dâng lễ vật cho tổ tiên.)
+**dharma** m. ⟪धर्म⟫ : ("cái gì đó vững chắc", tức là) lẽ phải, luật pháp, phong tục, tính cách.
+Tương ứng nhất với quy luật tự nhiên/luật đạo đức. Mỗi người có những bổn phận riêng (**svadharma**) theo **varṇa** và **āśrama** (giai đoạn cuộc sống).
+**adharma** m. ⟪अधर्म⟫ : bất chính (đối lập với **dharma**).
+**iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : mong muốn (**iṣ-ccha-ti**).
+
+**Một số hình thành danh từ:**
+
+**vad** 1 P ⟪वद्⟫ : nói
+**vāda** m. ⟪वाद⟫ : lời nói, tuyên bố, từ ngữ
+**vadana** n. ⟪वदन⟫ : việc nói; công cụ nói: miệng, khuôn mặt
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+Hình: **vadanāni** = ⟪वदनानि⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+**prach** 6 P ⟪प्रच्छ्⟫ : hỏi
+**praśna** m. ⟪प्रश्न⟫ : câu hỏi (hậu tố **-na** như trong **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
+**iṣ** 6 P ⟪इष्⟫ : mong muốn
+**iṣṭi** f. ⟪इष्टि⟫ : mong muốn (**iṣ** + **-ti**)
 
----
-
-## Lektion 12
+## Bài 12
 
 
 
@@ -511,48 +611,53 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 
 
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+
+
+
+
+
+
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : tỉnh thức, tỉnh ngộ trong nhận thức; PPP **buddha** 3 đã tỉnh thức, do đó **Buddha** = "người Tỉnh Thức" (không phải: người Giác Ngộ)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Hình: ⟪गौतमो बुद्धः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (ai đó) đốt cháy
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : vượt qua, chịu đựng, kiên nhẫn chịu đựng = tha thứ
+**mṛga** m. ⟪मृग⟫ : thú hoang
+**mārga** m. ⟪मार्ग⟫ : đường đi (những con đường thường là lối mòn của thú hoang)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Hình: ⟪मार्गः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : cũng (đặt sau)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Một số gốc động từ được các nhà ngữ pháp bản địa xếp vào lớp 6 của thì hiện tại, những gốc này tạo thành gốc hiện tại với phụ âm mũi (nasalinfix) và nguyên âm chủ đề a, ví dụ:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : cởi bỏ, thả ra, giải thoát; giải thoát khỏi vòng luân hồi (**saṃsāra** m.) = cứu rỗi
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : tưới, rưới
 
-Zur Wortbildung:
+Về cấu tạo từ:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : sự cởi bỏ, giải thoát, cứu rỗi
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : nghi lễ rưới nước lên vua trong dịp đăng quang, lễ đăng quang
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : sự giác ngộ (thông qua đó một vị Phật hoặc Jina đạt được trí tuệ giải thoát)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Hình: ⟪महावीरो जिनः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : trí tuệ, cơ quan nhận thức.
 
----
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
+### 12.5.1. Bị động và PPP của các gốc đã học
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Gốc:br⟪धातु⟫ | Bị động Hiện tại 3. sg. Chỉ định:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -599,9 +704,7 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
----
-
-## Lektion 13
+## Bài 13
 
 
 
@@ -609,46 +712,52 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
 
-> **ASURA.** 'Spiritual, divine.'
+
+
+
+
+Học các từ sau:
+
+**eva** ⟪एव⟫ : nhấn mạnh từ đứng trước
+**asura** m. ⟪असुर⟫ : ác quỷ
+
+> **ASURA.** 'Thần thánh, thiêng liêng.'
 >
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+> Trong những phần cổ xưa nhất của Rigveda, thuật ngữ này được dùng để chỉ linh hồn tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành biểu tượng của ác quỷ hoặc kẻ thù của các vị thần.
 >
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+> Từ này xuất hiện với ý nghĩa này trong những phần sau của Rigveda, đặc biệt là quyển cuối cùng, và cũng có trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa, và ghi lại nhiều cuộc tranh đấu giữa Asuras và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với phát biểu trước đó, và tuyên bố rằng "ông tạo ra Asuras từ hơi thở dưới." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước rơi vãi. Tuyên bố của Manu là họ được tạo ra bởi các Prajāpatis.
 >
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> Theo Viṣṇu Purāṇa, họ được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được tạo ra; do đó họ là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng dõi Pulastya.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã xuất hiện từ *sura,* thường được dùng cho 'một vị thần.'"
 >
-> [Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
 Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+(Nguồn ảnh: [Details](/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gehen, geraten in
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : sein, da sein
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : schleudern, (weg-)werfen
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : gehen
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : schützen, behüten
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : uống (theo truyền thống được xếp vào lớp 1)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : thù ghét, thù địch
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : ăn, tiêu thụ
+**anna** n. ⟪अन्न⟫ : thức ăn, thực phẩm (từ PPP: *ad-na: thứ được ăn)
 
 ::: media
 ![](/images/lekt1304.webp)
 Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+(Nguồn ảnh: [Details](/licenses#lekt1304))
 :::
 Wortbildung:
 
@@ -659,19 +768,25 @@ pad 4 Ā:
 
 **pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
 :::
+
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+Abb.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Nguồn ảnh: [Details](/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : Hass
 :::
----
 
-## Lektion 14
+## Bài 14
+
+
+
+
+
+
 
 
 
@@ -686,71 +801,71 @@ dviṣ 2 U:
 ::: media
 ![](/images/lekt1405.webp)
 Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟫) : sức mạnh, lực lượng, cường độ; quân đội, binh đoàn
+* **bāla 3** (⟪बाल⟫) : trẻ, ngây thơ, ngu ngốc; m. bé trai
+* **bālā f.** (⟪बाला⟫) : cô gái trẻ
+* **nara m.** (⟪नर⟫) : đàn ông, con người
+* **śatru m.** (⟪शत्रु⟫) : kẻ thù
+* **loka m.** (⟪लोक⟫) : thế giới; Sing. và Plur.: mọi người, dân chúng
+* **jala n.** (⟪जल⟫) : nước
+* **jan 4 Ā** (jāyate), Bị động janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : được sinh ra, xuất hiện
+* **jan-a m.** (⟪जन⟫) : sinh vật, con người, mọi người
+* **vac 2 P** (vakti, không có ngôi thứ ba số nhiều!), Bị động ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : nói, nói với (cách thứ hai)
+* **uk-ti f.** (⟪उक्ति⟫) : lời nói, từ ngữ
+* **vac-ana n.** (⟪वचन⟫) : sự nói, từ ngữ
+* **vāk-ya n.** (⟪वाक्य⟫) : từ, lời nói
 
-## Lektion 15
-
-
+## Bài 15
 
 
 
 
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
 
-⟪अथवा⟫ : oder (vorangestellt)
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
 
-⟪अर्ध⟫ 3: halb, m.n. Hälfte
 
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
+⟪पुष्कल⟫ 3: rực rỡ, tráng lệ, phong phú
+
+⟪वा⟫ : hoặc (đặt sau)
+
+⟪अथवा⟫ : hoặc (đặt trước)
+
+⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): thứ tư
+
+⟪विद्⟫ "tìm thấy" 6 U ⟪विन्दति⟫ ; Bị động ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त विद्⟫ "biết" 2 P ⟪वेत्ति⟫ ; Bị động ⟪विद्यते⟫ ; PPP ⟪विदित पत्⟫ "bay, rơi" 1 P ⟪पतति⟫ ; Bị động ⟪पत्यते⟫ ; PPP ⟪पतित अर्ध⟫ 3: một nửa, m.n. nửa
+
+⟪पूजा⟫ f.: sự tôn kính, đón tiếp long trọng, sự sùng bái (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
 Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+⟪कुल⟫ n.: đàn, đám đông, giống loài, dòng họ, gia đình
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
+⟪इन्द्र⟫ m.: hoàng tử, bậc nhất, tốt đẹp nhất trong ; vị thần Indra
 ::: media
 ![](/images/lekt1505.webp)
 Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505))
+(Nguồn ảnh: [Details](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener
+⟪दास⟫ m.: nô lệ, đầy tớ
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin
+⟪दासी⟫ f.: nữ nô lệ, đầy tớ
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla
+⟪काल⟫ m.: thời gian, (đúng) thời điểm ; số phận, cái chết ; thần Chết Kāla
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel
+⟪काल⟫ 3: đen, xanh đen, tối
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht
+⟪पुरुष⟫ m.: con người, đàn ông, đầy tớ
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
+\-⟪जन⟫ là thành phần thứ hai của Tatpuruṣa thường biểu thị số nhiều
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
 
@@ -765,106 +880,91 @@ davon:
 ::: media
 ![](/images/lekt1506.webp)
 Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506))
+(Nguồn ảnh: [Details](/licenses#lekt1506))
 :::
 ⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner)
 ::: media
 ![](/images/lekt1507.webp)
 Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507))
+(Nguồn ảnh: [Details](/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+⟪इव⟫ (hậu trí): dường như, như (trong so sánh: ⟪व्याघ्र इव पुरुषः⟫ = "một người như một con hổ", "một người dũng mãnh như hổ"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫ (đặt sau): nhấn mạnh điều đã nêu trước, trong tiếng Đức thường tương ứng với sự nhấn mạnh, một dạng biểu tượng cảm xúc `<!>`, ví dụ ⟪सत्यमेव जयति⟫ "chỉ có chân thắng", "chính chân lý thắng", "chân lý thắng"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
+⟪अरि⟫ m.: kẻ thù (theo Thieme, "Kẻ xa lạ trong Rigveda": ban đầu = người xa lạ)
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
-:::
-zu ⟪जन्⟫
-
-::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
-:::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
-
-davon:
-
-::: indent
-⟪मरण⟫ n.: Sterben, Tod
-
-⟪मृति⟫ f.: Sterben, Tod
-
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
-:::
-## Lektion 16
-
-
-
-
-
-
-
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht
+⟪आर्य⟫ 3: cao quý, Arya; m. người Arya (tự xưng của người Ấn cổ đại nói tiếng Phạn, nghĩa đen: người hiếu khách (Thieme)); người cao quý, bậc quân tử
 
 ::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602))
+Ảnh: ⟪अध्यापनम्⟫
+"Đây là một nghi lễ đặc biệt trong một ngôi đền nhỏ ở Satara (⟪सातारा⟫). Nghi lễ được thực hiện bởi các học sinh của Swami Muktananda Vedashala trong dịp kỷ niệm Mahāśivarātri. Đây là một trường Vedic, nơi trẻ em học thuộc lòng các văn bản thiêng liêng được gọi là Vedas. Trường này dạy Krishna Yajurveda và một số phần của Samaveda. Tôi đang làm luận văn thạc sĩ về trường này."
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
+⟪अनसूया⟫ f.: không càu nhàu, không ghen tị
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht
+⟪नृशंस्य⟫ n.: ác ý, sự hạ thấp
 
-davon:
+từ đó:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: không ác ý
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Bị động ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : sống
 
-davon:
+từ đó:
 
 ::: indent
-⟪आजीव⟫ m.: Lebensunterhalt
+⟪आजीव⟫ m.: sinh kế
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
+⟪क्षमा⟫ f.: kiên nhẫn, khoan dung, độ lượng
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
+⟪क्षेम⟫ n.: sự bình yên, hòa bình, thịnh vượng, tài sản an toàn
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
+⟪चित्त⟫ n.: nhận thức, suy nghĩ, tâm trí
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
+⟪निरोध⟫ m.: dừng lại, làm cho ngừng hoạt động
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
+* **bhūta n.** (⟪भूत⟫) (PPP của bhū): sinh vật, ma quái
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
+⟪योग⟫ m.: sự gắn kết, liên kết, hợp nhất, thu nhận ; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
+Ảnh: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : xoay, quay lại, ở (ở đâu đó), cư trú
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
+⟪शस्त्र⟫ (śastra) n.: dụng cụ cắt, vũ khí sắc nhọn, kiếm, binh khí
 
-⟪शौच⟫ n.: Reinigung, Reinheit
+⟪शौच⟫ n.: sự thanh tẩy, sự tinh khiết
+:::
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : xoay, quay lại, ở (ở đâu đó), cư trú
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend
+⟪शस्त्र⟫ (śastra) n.: dụng cụ cắt, vũ khí sắc nhọn, kiếm, binh khí
+:::
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : xoay, quay lại, ở (ở đâu đó), cư trú
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
+⟪शस्त्र⟫ (śastra) n.: dụng cụ cắt, vũ khí sắc nhọn, kiếm, binh khí
+
+⟪शौच⟫ n.: sự thanh tẩy, sự tinh khiết
+
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.: dẫn đến mục tiêu, gây ra
+
+⟪अहिंसा⟫ f.: sự không làm hại ai điều gì, bất bạo động
 
 ::: media
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603))
+(Nguồn ảnh: [Details](/licenses#lekt1603))
 :::
-## Lektion 17
+
+## Bài 17
 
 
 
@@ -872,492 +972,535 @@ Abb.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
+
+
+
+
+
+
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : đánh, giết chết
 
 davon:
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.: sự giết hại
 :::
+
 ::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Nguồn ảnh: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ngồi
 
 davon:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.: sự ngồi, chỗ ngồi ; cũng: các tư thế ngồi của Yogin
 :::
+
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+(Nguồn ảnh: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : khóc, gào thét
 
 davon:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.: (kẻ gào thét =) vị thần bão Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: nói, nói (với ai đó: cách bổ ngữ kép)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : vắt sữa
 
-::: media
-![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
-:::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪सम⟫ 3: bằng nhau, giống hệt, tương tự (với cách dụng cụ)
 
-davon:
+⟪व्याधि⟫ m.: bệnh tật
+
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , kẻ lừa đảo
+
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: sự nhận thức
+
+⟪शूर⟫ 3: dũng cảm, anh hùng ; m.: anh hùng
+
+⟪शब्द⟫ m.: âm thanh, tiếng nói, tín hiệu: lời
+
+⟪उदक⟫ n.: nước
+
+⟪अन्त⟫ m.: kết thúc, ranh giới
+
+⟪आदि⟫ m.: khởi đầu
+
+⟪दण्ड⟫ m.: gậy, roi, hình phạt
+
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: thước đo, giới hạn
+
+⟪सहित⟫ 3: kết hợp, được cung cấp với
+
+⟪हस्त⟫ m.: tay
+
+⟪प्रभृति⟫ f.: khởi đầu
+
+## Bài 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+**⟪अर्थ⟫ m.:** mục đích, ý nghĩa (của một từ), sự giàu có, tài sản. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) với Gen. hoặc như thành phần thứ hai của một từ hợp danh Tatpuruṣa: vì ..., để.
+
+⟪अर्थ⟫ là một trong ba mục đích của cuộc sống (⟪पुरुषार्थ⟫), như được mô tả trong văn học thế tục và tôn giáo:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+**⟪धर्म⟫ m.:** đạt được công đức bằng cách làm những gì đúng đắn, hoặc ít nhất là tránh khỏi điều ác sẽ phát sinh từ việc không tuân thủ Dharma
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
-:::
-## Lektion 18
+**⟪अर्थ⟫ m.:** hành vi hợp lý về mục đích, đạt được sự thịnh vượng
 
-
-
-
-
-
-
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
-
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
-
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
-
-⟪व्याधि⟫ m.: Krankheit
-
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
-
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
-
-⟪ज्ञान⟫ n.: Erkenntnis
-
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
-
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
-
-⟪उदक⟫ n.: Wasser
-
-⟪अन्त⟫ m.: Ende, Grenze
-
-⟪आदि⟫ m.: Anfang
-
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
-
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
-
-⟪सहित⟫ 3: vereinigt, versehen mit
-
-⟪हस्त⟫ m.: Hand
-
-⟪प्रभृति⟫ f.: Anfang
-
-## Lektion 19
-
-
-
-
-
-
-
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
-
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
-
-::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
-
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
-
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.:** dục vọng, đặc biệt là trong lĩnh vực tình dục
 :::
 ::: media
 ![](/images/lekt1809.webp)
 Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+Minh họa cho ⟪कामसूत्र⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** đứng, ở lại, tồn tại, hiện diện. (Theo truyền thống được xếp vào lớp động từ Present thứ nhất, mặc dù đây là một lớp Present chủ đề có lặp lại, như ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** tiến lại gần, đứng trước ai đó với tư thế cung kính
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** khởi hành, rời đi
 
-von ⟪स्था⟫ :
+từ ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** vị trí, (đúng) chỗ, địa điểm
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.:** sự lưu lại, sự kiên định, sự bám trụ
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** tử cung, bụng trong, bên trong, phôi thai. Ở cuối một từ Bahuvrīhi thường có nghĩa là "bên trong", ví dụ:
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "người có bên trong là tiền bạc = người mà ở đó có tiền bạc"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** phòng thờ sâu nhất của một đền Hindu, chứa bức tượng thần linh quan trọng nhất của ngôi đền (xem về cấu trúc đền Hindu: Volwahsen, A.: Ấn Độ : Các công trình của người Hindu, Phật giáo và Jain. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
 Abb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** người mang nước = mây mưa
 
 ::: media
 ![](/images/lekt1902.jpg)
 Abb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** thổi
 
-davon:
+trong đó:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** gió, hơi thở
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** dẫn dắt, lái (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ n.:** ô, dù
 
 ::: media
 ![](/images/lekt1904.webp)
 Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), trong trang phục truyền thống, là một phong tục ở các vùng phía nam của Kerala. _Onappottan_ viếng thăm các ngôi nhà trong dịp _onam_ và ban phước lành. Gần đây, _onappottan_ đã trở thành một cảnh tượng hiếm thấy, chỉ giới hạn ở các ngôi làng."
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.:** học giả, bậc hiền triết ; 3: khôn ngoan, am hiểu (về)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** cư trú tại, chiếm đóng (Akk., Lok.) ; viếng thăm, đến với (Akk.) ; phục vụ, chăm sóc, thờ phụng ; thực hành, sử dụng ; quan hệ tình dục
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ Tiền tố:** xuống, vào trong
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** cư trú tại, chiếm đóng, viếng thăm
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** ở đó, trong thế giới bên kia
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** ở đây, trong thế giới này
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** tìm thấy
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ f.:** người cần được bảo vệ = vợ
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 3:** yêu dấu, dễ chịu
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ n. (!):** bạn bè
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ m.:** người thân
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ :** bởi vì, quả nhiên (không bao giờ được đứng ở đầu câu)
 
-## Lektion 20
-
-
+## Bài 20
 
 
 
 
 
-⟪वा⟫ : oder
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+
+
+
+
+
+
+
+⟪वा⟫ : hoặc
+
+⟪आश्रम⟫ m., n.: nơi ẩn dật, giai đoạn cuộc sống, khoảng thời gian sống (cụ thể là như ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ và có thể là ⟪सन्न्यासिन्⟫ ; xem Basham, Wonder tr. 159f.)
 
 ::: media
 ![](/images/lekt2008.webp)
 Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+Rishikesh = ⟪ऋषिकेश⟫. "Đây thực sự là một phần của Ashram ở Rishikesh nơi The Beatles đã lưu lại. Phần cụ thể này không có khi họ còn ở đó, nhưng nó trông rất ngầu."
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ f. ⟪करी । करा⟫ : làm, tạo ra, gây ra
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: Tay (xem ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ m.: Thuế, cống phẩm, thuế khóa (không liên quan đến ⟪कृ⟫, mà có lẽ là từ vay mượn từ tiếng Tamil - தமிழ்)
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ f.: Hành động, hành động thiêng liêng, hành động tế lễ, nghi thức (xem ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf 
+⟪अधि⟩ Tiền tố: vượt qua, lên trên, làm cho, liên quan đến
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : gặp, đạt tới, đạt được
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : giảm bớt, làm suy yếu
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ f.: ⟪दायिका⟫ : ban phát, cho đi
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ m.: "Người bảo vệ đàn ông" = Vua
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ n.: Ứng dụng, nỗ lực, chú ý chống lại, sự tận tụy, suy nghĩ, lời nguyện
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ f.: Khó khăn, tai họa, đau khổ
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ f.: "Người cần được duy trì" = Vợ
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ f.: Sự phát triển thiền định (xem ⟪भू⟫ Dạng sai khiến)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ f.: Đất, mặt đất
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ n.: Đặc điểm, dấu hiệu, thuộc tính
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ m.: "Kẻ run rẩy" = Nhà thơ, ca sĩ, tư tế, Brahman
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.: Khu vực, lĩnh vực, đối tượng, đối tượng giác quan
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ m.: Sự kết thúc, sự giải thoát
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Tiền tố: xuống dưới, đi vào, ngược lại
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : quay lại, trở về
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Bị động ⟪सद्यते⟫ PPP ⟪सन्न⟫ : ngồi, hạ mình
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : ngồi xuống, được đặt (nghĩa bóng) = trở nên bình thản, tĩnh lặng, vui vẻ; tỏ lòng nhân từ với ai đó (cách sở hữu ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: sự thu thập nội tâm, sự chú ý cao độ, "sự đắm chìm" thiền định
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: "nghiên cứu bản thân", tụng đọc (đặc biệt là Veda), nghiên cứu Veda
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ : thuộc về thế giới bên kia, ở bên kia
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪तनु ३⟫ : thon thả
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪मध्य ३⟫ : trung bình; n. giữa
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, gross
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : rộng, lớn
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪श्रोणि । श्रोणी⟫ f.: hông
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪रक्त ३⟫ : nhuộm màu, đỏ
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪ओष्ठ⟫ m.: môi
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪असित ३⟫ : tối, đen
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : nhìn thấy
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : uốn cong
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ Tiền tố: lên, đi lên, ra ngoài, từ...ra
 
-⟪नाभि⟫ f.: Nabel
+⟪नाभि⟫ f.: rốn
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: vẻ đẹp, hình dáng cơ thể (xem phần biến cách sau)
 
-⟪स्त्री⟫ f.: Frau
+⟪स्त्री⟫ f.: phụ nữ
 
-⟪स्तन⟫ m.: Brust
+⟪स्तन⟫ m.: ngực
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪दरैद्र ३⟫ : nghèo
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : thịnh vượng
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : thịnh vượng; PPP: thành công, giàu có
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र ३⟫ : sặc sỡ, đa dạng, đẹp đẽ, kỳ diệu, lạ lùng
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): sự sắp đặt, luật lệ, quy định; sáng tạo, số phận
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : chuyển động
 
-## Lektion 21
-
-
+## Bài 21
 
 
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
-davon:
+
+
+
+
+
+
+
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** ban cho ai đó (cách accusative) điều gì, mang lại cho ai đó yêu thương, tôn kính
+
+từ đó:
 
 ::: indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ f.:** sự tận tụy, trung thành, tình yêu (trong lĩnh vực tôn giáo: tình yêu và lòng kính trọng đối với một vị thần cá nhân. xem Basham, Wonder tr. 332f.)  
+**⟪भाग⟫ m.:** phần, phận  
+**⟪भग⟫ m.:** (phần) tốt lành, may mắn, hạnh phúc, phẩm giá  
+**⟪भगवन्त्⟫ 3:** có may mắn, có phẩm giá (tên hiệu của ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 :::
 ::: media
 ![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103))
+Abb.: ⟪भगवान्कृष्णः भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (phải) với em gái cùng cha khác mẹ ⟪सुभद्रा⟫ (giữa) và anh trai lớn hơn ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2103))
 :::
+
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.:** "Bài ca (⟪गीता⟫) của bậc Thánh đức (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105))
+Abb.: ⟪भगवद्गीता भगवद्गीता⟫ - Bản thảo, thế kỷ 19.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2105))
 :::
-::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
 :::
-davon:
+::: media
+![](/images/lekt2103.webp)
+Abb.: ⟪भगवान्कृष्णः भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (phải) với em gái cùng cha khác mẹ ⟪सुभद्रा⟫ (giữa) và anh trai lớn hơn ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2103))
+:::
 
 ::: indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch
+**⟪भगवद्गीता⟫ f.:** "Bài ca (⟪गीता⟫) của bậc Thánh đức (⟪कृष्ण⟫)"
+:::
+::: media
+![](/images/lekt2105.webp)
+Abb.: ⟪भगवद्गीता भगवद्गीता⟫ - Bản thảo, thế kỷ 19.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2105))
+:::
+
+::: indent
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Bị động. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (thực chất là một Dục động từ của ⟪भज्⟫: mong muốn được tham dự): ăn xin
+:::
+từ đó:
+
+::: indent
+**⟪भिक्षु⟫ m.:** Khất sĩ, nhà tu
 :::
 ::: media
 ![](/images/lekt2104.webp)
 Abb.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
-(Bildquelle: [Details](/licenses#lekt2104))
+Luang Prabang = ຫລວງພະບາງ, Lào = ປະເທດລາວ
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Bị động. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** hư hỏng (nội động từ), trở nên xấu đi, bị nhục nhã
 
 ::: indent
-**⟪दोष⟫ m.:** Fehler
+**⟪दोष⟫ m.:** Lỗi lầm
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+**⟪पच्⟫ 1 U ⟪पचति⟫ Bị động. ⟪पच्यते⟫ (không có PPP, thay vào đó là ⟪पक्व⟫ 3: đã nấu chín, đã hầm) Tuyệt đối ⟪पक्त्वा⟫ :** nấu chín (ngoại động từ) = luộc, rang, nướng v.v.
 
-## Lektion 22
-
-
+## Bài 22
 
 
 
 
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+
+
+
+
+
+
+
+
+**⟪काम⟫ m.:** Nguyện vọng, ham muốn; món quà mong đợi, khoái cảm giác quan, tình yêu, thần Tình ái
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪कामम्⟫ Cách tân ngữ trạng từ: theo ý muốn, theo sở thích
 :::
 ::: media
 ![](/images/lekt2202.webp)
 Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Thế kỷ 19.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P ⟪शक्नोति⟫ Bị động. ⟪शक्यते⟫ PPP ⟪शक्त⟫ Động từ nguyên mẫu. ⟪शक्तुम्⟫ :** có khả năng, có thể
 
-davon:
+từ đó:
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
-
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
-:::
-::: media
-![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
-:::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪शक्ति⟫ f.:** Năng lực, sức mạnh, khả năng; cũng chỉ: sức mạnh thần thánh, được nhân cách hóa thành nữ giới đặc biệt là ⟪शिव⟫
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: a worthy one. In Buddhism and Jainism: someone who has attained final liberation
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one promises something to the deity in order to receive something from them. Example: a mother promises to dedicate her daughter as a temple prostitute (⟪देवदासी⟫) if her daughter recovers. Important ⟪व्रत⟫ today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins etc. Briefly on ⟪व्रत⟫: Walker, Hindu World Vol. II, p. 581f. Detailed: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There pp. 253 - 462 list of ⟪व्रत⟫ and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** graze, wander about, move, act, practice something, perform (e.g. **⟪व्रतं चर्⟫**: practice a vow, esp. sexual abstinence)
 
-davon:
+trong đó:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** có thể di chuyển; n.: cái có thể di chuyển = động vật (khác với thực vật)
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ n., m.:** bàn chân
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ n.:** lối sống, những hành động trong đời
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ n.:** việc thực hành Veda (⟪ब्रह्मन्⟫) = học tập Veda trong giai đoạn đầu đời (giai đoạn của ⟪ब्रह्मचारिन्⟫), đòi hỏi sự kiêng khem tình dục nghiêm ngặt; do đó cũng có nghĩa: sự kiêng khem tình dục, lối sống độc thân
 :::
 ::: media
 ![](/images/lekt2201.webp)
 Abb.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
-:::
-## Lektion 23
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2201))
 
-
-
-
-
-
-
-⟪समान⟫ ⟪३⟫: gleich
-
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
-
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
-
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
-
-## Lektion 24
-
-
-
-
-
-
-
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
-
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
-
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
-
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+trong đó:
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+**⟪चर ३⟫:** có thể di chuyển; n.: cái có thể di chuyển = động vật (khác với thực vật)
+
+trong đó:
+
+::: indent
+**⟪चर ३⟫:** có thể di chuyển; n.: cái có thể di chuyển = động vật (khác với thực vật)
+
+**⟪चरण⟫ n., m.:** bàn chân
+
+**⟪चरित⟫ n.:** lối sống, những hành động trong đời
+
+**⟪ब्रह्मचर्य⟫ n.:** việc thực hành Veda (⟪ब्रह्मन्⟫) = học tập Veda trong giai đoạn đầu đời (giai đoạn của ⟪ब्रह्मचारिन्⟫), đòi hỏi sự kiêng khem tình dục nghiêm ngặt; do đó cũng có nghĩa: sự kiêng khem tình dục, lối sống độc thân
+:::
+::: media
+![](/images/lekt2201.webp)
+Abb.: ⟪धेनवश्चरन्ति⟫
+Goa = ⟪गोंय⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2201))
+:::
+
+## Bài 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪समान ३⟫: bằng nhau
+
+⟪सामान्य⟫ n.: sự bình đẳng, sự phù hợp
+
+⟪अधिक ३⟫ : dư thừa, thêm vào, lớn hơn, tốt hơn, phi thường
+
+⟪विशेष⟫ m.: đặc điểm, sự cụ thể hóa, differentia specifica
+
+## Bài 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪अलम्⟫ Trạng từ: đủ, đầy đủ; (ai đó, điều gì) tương xứng ; với cách bổ ngữ: đủ cho, đầy đủ cho; với cách dụng cụ: đủ với, hãy dừng lại về , ví dụ ⟪अलं क्रोधेन⟫ = "đủ với cơn giận = hãy dừng cơn giận!"
+
+Theo cách tương tự như ⟪अलम्⟫ được sử dụng với cách dụng cụ:
+
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "Cơn giận đã được giải quyết = hãy dừng cơn giận!"
+
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : trang trí
+
+::: indent
+⟪अलंकार⟫ m.: đồ trang sức, phương tiện trang trí (trong thơ ca)
 :::
 ::: media
 ![](/images/lekt2405.webp)
 Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ m.: động lực, lý do, nguyên nhân; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ với cách sở hữu hoặc như thành phần thứ hai của từ ghép = "vì ..., vì"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ f.: chân dung, hình ảnh
 
 ::: media
 ![](/images/lekt2406.webp)
 Abb.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+(Nguồn ảnh: [Details](/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : xảy ra, diễn ra, phát sinh
 
 Von ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ f.: cách cư xử, hoạt động, lối sống
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ n.: cách cư xử
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ Tiền tố động từ: hướng về, tới, đối với, vào trong, liên quan đến, trên, về
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Tiền tố động từ: xuống dưới, vào trong, quay lui
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ Giới từ / Hậu từ: trước Xuất xứ cách hoặc sau Đối cách: cho đến tận, tới tận; với Xuất xứ cách: từ khi, từ đó đến nay
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ Bất biến từ: từ đó, sau đó, vì vậy, do đó (gốc đại từ a- "này" + hậu tố xuất xứ cách -tas)
 
 ⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
 
@@ -1376,13 +1519,13 @@ davon
 ![](/images/lekt2407.webp)
 Abb.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+(Nguồn ảnh: [Details](/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hữu ích
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: lâm sản, kim loại (không phải kim loại quý)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : thấy, trở nên hiển hiện; gọi tên, giải thích, thông báo
 
 ::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
@@ -1395,318 +1538,306 @@ davon:
 ![](/images/lekt2408.webp)
 Abb.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
-:::
-::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
+(Nguồn ảnh: [Details](/licenses#lekt2408))
 
-davon:
+⟪नमस्⟫ n.: sự cúi chào, tôn kính, lời chào (suy biến sau này). Công thức chào hỏi: ⟪नमो नमः⟫
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
-:::
-⟪ग्रहण⟫ n.: Ergreifen
-
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
-
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
-
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
-
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
-
-davon:
+từ đó:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : cúi chào, tôn kính, chào hỏi
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+Abb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Bản thảo của ⟪गीतगोविन्द⟫, năm 1730 sau Công nguyên.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: lời chào mừng (từ su-ā-gata)
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: cọng cỏ
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ Trạng từ: lại nữa, trở lại, quay lại, nhưng
 
-## Lektion 25
-
-
+## Bài 25
 
 
 
 
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+
+
+
+
+
+
+
+
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ : rời bỏ, từ bỏ, bỏ rơi
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
+Tương lai ⟪त्यक्ष्यति⟫  
+Bị động ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫
+Động từ nguyên mẫu ⟪त्यक्तुम्⟫  
+Tuyệt đối 2: -⟪त्यज्य⟫
 
-davon:
+từ đó:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ m.: sự từ bỏ, từ chối, tránh né
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ m. số nhiều (!!!): vợ
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ n.: vật phẩm, tài sản, của cải vật chất, tiền bạc
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪धान्य⟫ n.: ngũ cốc đã giã
 
 ::: media
 ![](/images/lekt2501.webp)
 Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 1U ⟪धरति⟫ : giữ, nắm chặt
 
 ::: indent
-Fut. ⟪धरिष्यति⟫  
-Pass. ⟪ध्रियते⟫  
+Tương lai ⟪धरिष्यति⟫  
+Bị động ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
-Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫
+Động từ nguyên mẫu ⟪धर्तुम्⟫  
+Tuyệt đối 2: -⟪धृत्य⟫
 
-davon:
+từ đó:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.: cái gì đó cố định và giữ vững = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ : liên tục, bền vững, vĩnh cửu
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ Adv.: luôn luôn, bền vững mãi mãi
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.: trí tuệ, nhận thức
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.: sự cho, sự bố thí ; món quà, sự cúng dường
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : vui mừng, say mê điều gì đó (Danh cách, Sở hữu cách, Địa cách)
 
 ::: indent
-Fut. ⟪मदिष्यति⟫  
-Pass. ⟪मद्यते⟫  
+Tương lai ⟪मदिष्यति⟫  
+Bị động ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫
+Động từ nguyên mẫu ⟪मदितुम्⟫
 
-davon:
+từ đó:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪धर्म⟫ m.: cái gì đó cố định và giữ vững = Dharma
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪नित्य ३⟫ : liên tục, bền vững, vĩnh cửu
 
-⟪यदि⟫ Konjunktion: wenn
+::: indent
+⟪नित्यम्⟫ Adv.: luôn luôn, bền vững mãi mãi
+:::
+⟪प्रज्ञा⟫ f.: trí tuệ, nhận thức
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪प्रदान⟫ n.: sự cho, sự bố thí ; món quà, sự cúng dường
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : vui mừng, say mê điều gì đó (Danh cách, Sở hữu cách, Địa cách)
+
+::: indent
+Tương lai ⟪मदिष्यति⟫  
+Bị động ⟪मद्यते⟫  
+PPP ⟪मत्त⟫  
+Động từ nguyên mẫu ⟪मदितुम्⟫
+
+từ đó:
+
+⟪मद⟫ m.: sự say sưa, sự đam mê giác quan = khoái lạc giác quan
+:::
+⟪मान⟫ m.: sự đánh giá, danh tiếng, uy tín, vinh dự, kiêu ngạo, tự phụ; (người ta so sánh mình với người khác)
+
+⟪यदि⟫ Liên từ: nếu
+
+⟪न्याय⟫ m.: quy tắc, nguyên lý, phương pháp, phán quyết (pháp lý), logic (từ ni + i + a)
+
+⟪अन्यथा⟫ Adv.: khác, nếu không, sai lầm, không chính xác
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
-Pass. ⟪यायते⟫  
+Bị động ⟪यायते⟫  
 PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫
+Động từ nguyên mẫu ⟪यातुम्⟫  
+Tuyệt đối 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (số nhiều ngôi 3) : ra lệnh, dạy dỗ, trừng phạt
 
 ::: indent
-Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
+Bị động ⟪शिष्यते⟫  
+PPP ⟪शिष्ट ३⟫ : đã được dạy  
+Tuyệt đối 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+từ đó:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
+⟪शिक्षा⟫ f.: khoa học, giáo dục ; âm vị học
 :::
-⟪स्तेन⟫ m.: Dieb
+⟪स्तेन⟫ m.: kẻ trộm
 
-⟪स्तेय⟫ n.: Diebstahl
+⟪स्तेय⟫ n.: hành vi trộm cắp
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
+⟪किल्बिष⟫ n.: tội lỗi, sự xúc phạm, tội ác
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.)
+⟪विना⟫ Giới từ sau: không, ngoài (với Cách 4, Cách 5, Cách 7)
 
-⟪मूल⟫ n.: Wurzel
+⟪मूल⟫ n.: gốc rễ
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
+Chú thích: ⟪मूलानि⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bôi, phết
 
-::: indent
-Fut. ⟪लेप्स्यति⟫  
-Pass. ⟪लिप्यते⟫  
-PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫
+từ đó:
 
-davon:
-
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ f.: quét, viết, văn tự
 :::
 ::: media
 ![](/images/lekt2503.webp)
 Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+(Nguồn ảnh: [Details](/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: mưa, mùa mưa, năm
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : dẫn, đi, thổi (gió)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+Absol 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : dẫn đi (cụ thể là cô dâu từ nhà cha mẹ) = kết hôn
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+từ đó:
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: việc dẫn đi, hôn nhân của một người phụ nữ (Instr., saha) (về hôn nhân xem Basham, Wonder S. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
 Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+(Nguồn ảnh: [Details](/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : dẫn đi, giảng dạy, giáo dục
 
 ::: indent
-davon:
+từ đó:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: sự loại bỏ, giáo dục, kỷ luật, Phật giáo: giới luật tăng già, quy tắc tu sĩ
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: nhận thức, kiến thức
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: lao động, dịch vụ bắt buộc
 
 ::: media
 ![](/images/lekt2505.webp)
 Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+(Nguồn ảnh: [Details](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : phát triển, trở nên lớn hơn
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
+PPP ⟪वृद्ध⟫ : trưởng thành, già cả, gia tăng  
 Inf. ⟪वर्धितुम्⟫
 
-davon:
+từ đó:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: sự phát triển, tăng trưởng, giai đoạn vṛdh-ti (từ: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.: bản chất, tự nhiên, tính cách
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.: (sự dựng đứng của lông), niềm vui
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ : vàng ; n.: vàng, tiền bạc, sự giàu có
 
 ::: media
 ![](/images/lekt2506.webp)
 Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+(Nguồn ảnh: [Details](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
-
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
-
-## Lektion 27
-
-
-
-
-
-
-
-⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
-
-::: indent
-**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
-:::
-davon:
-
-::: indent
-⟪वस्तु⟫ n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
+⟪अणु ३⟫ : mỏng, tinh tế, rất nhỏ ; m.: nguyên tử
 
 :::
 ::: indent
-⟪वस्तुतस्⟫: in Wirklichkeit, wirklich
+⟪वस्तुतस्⟫: trong thực tế, thật sự
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): mặc (quần áo), mang (trang phục)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+**Tương lai:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Vô hạn:** ⟪वसितुम्⟫
 :::
-davon:
+từ đó:
 
 ::: indent
-⟪वस्त्र⟫ n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+⟪वस्त्र⟫ n.: phương tiện để mặc = áo, y phục, vải
 :::
 ::: media
 ![](/images/lekt2706.webp)
 Abb.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Bildquelle: [Details](/licenses#lekt2706))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): tỏa sáng (gốc này quan trọng vì các hình thành danh từ:)
 
 ::: indent
-⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz
+⟪वसु⟫ n.: sự giàu có, kho báu, tài sản, của cải
 
-⟪वसन्त⟫ m.: ("leuchtend" =) Frühling (März bis Mai)
+⟪वसन्त⟫ m.: ("tỏa sáng" =) mùa xuân (tháng 3 đến tháng 5)
 :::
 ::: media
 ![](/images/lekt2707.webp)
 Abb.: ⟪वसन्तः⟫
-Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Bildquelle: [Details](/licenses#lekt2707))
+Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 07-04-2007.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
+⟪हृ⟫ 1U (⟪हरति⟫): giữ, mang; lấy đi, cất đi, cướp đoạt
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+**Tương lai:** ⟪हरिष्यति⟫:br **Bị động:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Vô hạn:** ⟪हर्तुम्⟫
 :::
-davon:
+từ đó:
 
 ::: indent
-⟪हर⟫ 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
+⟪हर⟫ 3: đang lấy đi; m.: kẻ hủy diệt = biệt danh của Śiva
 :::
-Gegenstück zu ⟪हर⟫:
+Đối ứng với ⟪हर⟫:
 
-⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
+⟪हरि⟫ 3: vàng hoe, màu vàng, màu xanh; m. biệt danh của Viṣṇu (không thuộc gốc ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫: Viṣṇu và Śiva hợp nhất thành một vị thần duy nhất.
 
 ::: media
 ![](/images/lekt2704.webp)
 Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704))
+Harihara (trái: Viṣṇu, phải: Śiva).
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2704))
 :::
+
 ::: media
 ![](/images/lekt2705.webp)
 Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705))
+Harihara (trái: Viṣṇu, phải: Śiva). Godrumdwip, Tây Bengal.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2705))
 :::
-## Lektion 28
+
+## Bài 28
+
+
+
+
+
+
 
 
 
@@ -1715,29 +1846,53 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: biết, quen thuộc
 Fut. **vediṣyati**
 Pass. **vidyate**
 Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+từ đó: **vidyā** f., **veda** m.
+:::
+
+## Bài 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+::: indent
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: biết, quen thuộc
+Fut. **vediṣyati**
+Pass. **vidyate**
+Kaus. **vedayati**
+PPP **vidita**
+Inf. **vediṣyum**
+từ đó: **vidyā** f., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): tìm thấy
 Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
+Pass. **vidyate**: có, tồn tại
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: nghiên cứu, học thuộc lòng
+Kaus. **adhyāpayati**: cho nghiên cứu, giảng dạy
+từ đó: **adhyayana** n.: sự nghiên cứu (đặc biệt là Veda); **adhyāya** m.: bài học, chương (phần để học thuộc lòng)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
+⟪कम्⟫ 10Ā ⟪कामयते⟫: yêu mến
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
@@ -1746,12 +1901,13 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Abb.: ⟪कृष्णो राधां कामयति⟫
+Tranh của ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2804))
 :::
+
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10 ⟪चोरयति⟫: ăn cắp
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
@@ -1759,31 +1915,29 @@ PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Hãy đặc biệt ghi nhớ ý nghĩa của dạng sai khiến đối với các động từ sau:**
+**dṛś** — **darśayati**: chỉ ra
+**man** — **mānayati**: tôn trọng, kính trọng (có lẽ là một động từ phái sinh từ **māna** "danh dự")
+**vac** — **vācayati**: cũng có nghĩa: đọc to (khiến ai đó nói một văn bản)
+**vad** — **vādayati**: cũng có nghĩa: khiến một nhạc cụ "nói" = chơi một nhạc cụ
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Abb.: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: gánh, tải
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Abb.: ⟪बाला भारं हरति⟫
+Cô gái mang gánh. Tại Ahmedabad.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
+⟪भृत्य⟫ m.: thuộc hạ, đầy tớ
 
----
-
-## Lektion 29
+## Bài 29
 
 
 
@@ -1791,83 +1945,87 @@ Mädchen trägt Last. Bei Ahmedabad.
 
 
 
-Präverben:
+
+
+
+
+
+
+Tiền tố:
 
 ::: indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
+⟪उद्⟫° : lên, hướng thượng, vươn cao, ra ngoài, từ trong ra, xuất-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher
+⟪परि⟫° : quanh, xung quanh (vị trí, thời gian), khắp nơi
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (trở thành xung quanh ai đó = bao vây =) chiếm lĩnh, chinh phục ; coi thường, khinh miệt
 
-⟪अवज्ञान⟫ n.: Missachtung
+⟪अवज्ञान⟫ n.: sự coi thường
 
-⟪गुप्त⟫ 3: behütet, beschützt
+⟪गुप्त⟫ 3: được bảo vệ, che chở
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet)
+⟪गृहस्थ⟫ 3: ở trong nhà ; m. gia chủ (người đang ở trong ⟪आश्रम⟫ thứ hai)
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : tiêu thụ, ăn uống
 
 ::: indent
-Fut. ⟪ग्रसिष्यते⟫  
-Pass. ⟪ग्रस्यते⟫  
-Kaus. ⟪ग्रासयति⟫  
-PPP ⟪ग्रस्त⟫  
-Inf. ⟪ग्रसितुम्⟫
+Tương lai ⟪ग्रसिष्यते⟩  
+Bị động ⟪ग्रस्यते⟩  
+Nguyên nhân ⟪ग्रासयति⟩  
+PPP ⟪ग्रस्त⟩  
+Động từ danh động ⟪ग्रसितुम्⟩
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+⟪तीक्ष्ण⟩ 3: "hoang dã", sắc bén, nhọn, nghiêm khắc, dữ dội, lưỡi sắc sảo
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
+⟪न्याय⟩ m.: chuẩn mực, quy tắc, cách thức đúng đắn; phương pháp, logic (từ ⟪इ⟩ + ⟪नि⟩)
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
+⟪परिव्राजक⟩ m.: người đi bộ, nhà sư du hành, khách hành hương
 
 ::: media
 ![](/images/lekt2903.webp)
-Abb.: ⟪परिव्राजकाः⟫
-Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903))
+Abb.: ⟪परिव्राजकाः⟩
+Pushkar = ⟪पुष्कर⟩
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟩ : cũng đồng nghĩa với  ⟪पाति पुनर्⟩ Bất biến: lại, luôn luôn, trở lại, một lần nữa ; ngược lại, nhưng (trước các âm hữu thanh trừ r-: ⟪पुनर्⟩)
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten ausser r-: ⟪पुनर्⟫)
+⟪प्रजा⟩ f.: sự sinh sản, sinh ra, dòng dõi
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
+⟪मत्स्य⟩ m.: cá
 
-⟪मत्स्य⟫ m.: Fisch
-
-davon:
+từ đó:
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+⟪मात्स्य⟩ 3: thuộc về cá (những con cá)
 :::
 ::: media
 ![](/images/lekt2901.webp)
-Abb.: ⟪मत्स्यः⟫
-⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901))
+Abb.: ⟪मत्स्यः रोहू मछली⟩ = Labeo rohita Hamilton
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): dịu dàng, hiền lành, mềm mại ; chậm chạp, yếu ớt
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ Trạng từ: như, tựa như
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
+⟪रम्⟫ 1Ā ⟪रमते⟫ : đứng yên, nghỉ ngơi, lưu lại ; thấy vui vẻ, thích thú
 
 ::: indent
-Fut. ⟪रंस्यते⟫  
-Pass. ⟪रम्यते⟫  
-Kaus. ⟪रमयति⟫  
+Tương lai ⟪रंस्यते⟫  
+Bị động ⟪रम्यते⟫  
+Nguyên nhân ⟪रमयति⟫  
 PPP ⟪रत⟫  
-Inf. ⟪रन्तुम्⟫
+Động từ nguyên mẫu ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+⟪वानप्रस्थ⟫ đ.: người ẩn cư trong rừng (người đang ở trong ⟪आश्रम⟫ thứ ba)
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
+⟪शुचि⟫ 3: rực rỡ, sáng chói, tinh tế ; cái đ.: sự thanh khiết
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : tôn kính, sùng bái
 
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## Lektion 30
+
+## Bài 30
 
 
 
@@ -1875,62 +2033,68 @@ PPP ⟪पूजित⟫
 
 
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
+
+
+
+
+
+
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ : mua
 
 ::: indent
-Fut. ⟪क्रेष्यति⟫  
-Pass. ⟪क्रीयते⟫  
+Tương lai ⟪क्रेष्यति⟫  
+Bị động ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
-Inf. ⟪क्रेतुम्⟫
+Động từ nguyên mẫu ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : bán
 
 ::: indent
-Absol. ⟪विक्रीय⟫
+Tuyệt đối ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Chú thích: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : biết, nhận ra, hiểu, thông thạo
 
 ::: indent
-Fut. ⟪ज्ञास्यति⟫  
-Pass. ⟪ज्ञायते⟫  
-Kaus. ⟪ज्ञापयति⟫  
-Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
-PPP ⟪ज्ञात⟫  
-Inf. ⟪ज्ञातुम्⟫
+Tương lai ⟪ज्ञास्यति⟫  
+Bị động ⟪ज्ञायते⟫  
+Nguyên nhân ⟪ज्ञापयति⟫  
+Nguyên nhân PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+PPP ⟪ज्ञात⟫
+Động từ nguyên mẫu ⟪ज्ञातुम्⟫
 
-davon:
+Từ đó:
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ đ.: (huyết) thống nhân (những người thân là những người mà ta biết!)
 
-⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+⟪ज्ञान⟫ n.: sự nhận thức, kiến thức, sự hiểu biết (đặc biệt là các "chân lý" cao hơn trong tôn giáo và triết học)
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+Chú thích: ⟪ज्ञातयः⟫
+Darewadi, Quận Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3002))
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
+⟪पू⟫ 9U ⟪पुनाति⟫ : thanh tẩy
 
 ::: indent
-Fut. ⟪पविष्यति⟫  
-Pass. ⟪पूयते⟫  
-Kaus. ⟪पावयति⟫  
+Tương lai ⟪पविष्यति⟫  
+Bị động ⟪पूयते⟫  
+Nguyên nhân ⟪पावयति⟫  
 PPP ⟪पूत⟫  
-Inf. ⟪पवितुम्⟫
+Động từ nguyên mẫu ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Details](/licenses#lekt3003))
+Abb.: ⟪श्रोत्राणि पुनाति⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : ăn, tiêu thụ
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -1941,67 +2105,72 @@ Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
-⟪थाली⟫, Südindien
-(Bildquelle: [Details](/licenses#lekt3005))
+Abb.: ⟪अश्नीयात् थाली⟫, Nam Ấn
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+⟪प्रिय ३⟫: yêu quý, thương mến, thân thiện
 
 ::: media
 ![](/images/lekt3004.webp)
 Abb.: ⟪प्रिया⟫
-(Bildquelle: [Details](/licenses#lekt3004))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+⟪चेत्⟫ Liên từ: nếu; với điều kiện là (không bao giờ đứng ở đầu câu)
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न चेत्⟫ : nếu không
 :::
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Liên từ: nếu
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
+⟪यद्यपि⟫ : dù cho, ngay cả khi, mặc dù
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫ : nếu đúng như vậy, trong những hoàn cảnh này
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫ : lại, một lần nữa, trở về, còn một lần nữa, ngược lại, nhưng
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
+⟪पुनः पुनर्⟫ : luôn luôn, lặp đi lặp lại
 
-davon:
+từ đó:
 
-⟪पुनर्भव⟫ m.: Wiedergeburt
+⟪पुनर्भव⟫ m.: tái sinh
 :::
 ::: media
 ![](/images/lekt2904.webp)
 Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/licenses#lekt2904))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+⟪जीव्⟫ 1P ⟪जीवति⟫ : sống
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : lebend  
+PPP ⟪जीवित⟫ : đang sống  
 Inf. ⟪जीवितुम्⟫
 
-davon:
+từ đó:
 
-⟪जीव⟫ m./n.: Leben, individuelle Seele
+⟪जीव⟫ m./n.: sự sống, linh hồn cá nhân
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : vĩnh cửu, bất diệt, bền vững
 
-## Lektion 31
-
-
+## Bài 31
 
 
 
 
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
+
+
+
+
+
+
+
+
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : buộc, gắn vào, căng ra, cố định ; Ā cũng: tự gắng sức (= nỗ lực), kết nối với, tập trung vào (Cách 6, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
@@ -2009,246 +2178,239 @@ davon:
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+từ đó:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** ách, cặp, thời đại thế giới (có bốn thời đại thế giới:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323)
+Thời đại ⟪कलियुग⟫ bắt đầu vào năm 3102 trước Công nguyên, năm diễn ra cuộc chiến ⟪महाभारत⟫. Chi tiết xem Basham, Wonder tr. 323)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ m.:** "sự buộc, sự căng", nỗ lực, mối liên hệ, Yoga (xem thêm Basham, Wonder tr. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+Hình: ⟪योगः⟫
+Minh họa Yoga.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : dừng lại, làm cho ngừng chuyển động, kiềm chế = bao bọc, che đậy
 ::: indent
-**Fut. ⟪रोत्स्यति⟫**
-**Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
+**Tương lai ⟪रोत्स्यति⟫**
+**Bị động ⟪रुध्यते⟫**
+**Nguyên nhân ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫**
+**Vô hạn ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : cắt đứt
 ::: indent
-**Fut. ⟪छेत्स्यति⟫**
-**Pass. ⟪छिद्यते⟫**
-**Kaus. ⟪छेदयति⟫**
+**Tương lai ⟪छेत्स्यति⟫**
+**Bị động ⟪छिद्यते⟫**
+**Nguyên nhân ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫**
+**Vô hạn ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (làm) vỡ
 ::: indent
-**Fut. ⟪भङ्क्ष्यति⟫**
-**Pass. ⟪भज्यते⟫**
+**Tương lai ⟪भङ्क्ष्यति⟫**
+**Bị động ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : thoa dầu, bôi
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
-**Pass. ⟪अज्यते⟫**
-**Kaus. ⟪अञ्जयति⟫**
+**Tương lai ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
+**Bị động ⟪अज्यते⟫**
+**Nguyên nhân ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**Vô hạn ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : thoa ra = trang điểm, làm nổi bật
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**PPP ⟪व्यक्त⟫ :** phân biệt, triển khai
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+từ đó:
+**⟪व्यञ्जन⟫ n.:** phương tiện phân biệt = son phấn, gia vị, dấu hiệu, phụ âm (điều mà qua đó các ý nghĩa được phân biệt)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+Hình: ⟪व्यञ्जनम्⟫
+Chuẩn bị cho điệu múa Kathakali, Kochi.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3102))
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : tách ra
 ::: indent
-**Fut. ⟪भेत्स्यति⟫**
-**Pass. ⟪भिद्यते⟫**
-**Kaus. ⟪भेदयति⟫**
+**Tương lai ⟪भेत्स्यति⟫**
+**Bị động ⟪भिद्यते⟫**
+**Nguyên nhân ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫**
+**Vô hạn ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : hưởng thụ (ví dụ: ăn uống; "hưởng thụ đất" = cai trị đất)
 ::: indent
-**Fut. ⟪भोक्ष्यति⟫**
-**Pass. ⟪भुज्यते⟫**
-**Kaus. ⟪भोजयति⟫**
+**Tương lai ⟪भोक्ष्यति⟫**
+**Bị động ⟪भुज्यते⟫**
+**Nguyên nhân ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫**
+**Vô hạn ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+từ đó:
+**⟪भोग⟫ n.:** sự hưởng thụ, bữa ăn, niềm vui, lợi ích, thuế, khoản đóng góp
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): buộc, cột lại
 ::: indent
-**Fut. ⟪भन्त्स्यति⟫**
-**Pass. ⟪बध्यते⟫**
-**Kaus. ⟪बन्धयति⟫**
+**Tương lai ⟪भन्त्स्यति⟫**
+**Bị động ⟪बध्यते⟫**
+**Nguyên nhân ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫**
+**Vô hạn ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel
+từ đó:
+**⟪बन्धन⟫ n.:** sự buộc, xiềng xích
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : nhận biết, hiểu
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
+từ đó:
+**⟪प्रज्ञा⟫ f.:** trí tuệ, sự nhận thức
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103))
+Hình: ⟪प्रज्ञापारमिता⟫
+Từ một bản thảo Prajñāpāramitā.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : sinh ra, tồn tại
 
-**⟪शरीर⟫ n.:** Leib, Körper
+**⟪शरीर⟫ n.:** thân, cơ thể
 
-## Lektion 32
-
-
+## Bài 32
 
 
 
 
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+
+
+
+
+
+
+
+**⟪अग्र⟫ n.:** đỉnh, điểm cuối cùng
+
+**⟪मही⟫ f.:** đất, mặt đất (nghĩa đen: Đại địa)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
 ⟪श्रान्त⟫:br
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
--⟪श्रम्य⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Hình: ⟪चूतः⟫
+Cây xoài, Kanpur.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
+⟪रोहयति । रोपयति⟫:br
 ⟪रूढ⟫:br
--⟪रुह्य⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
 ⟪गृहीत⟫:br
--⟪गृह्य⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
 Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Khỉ (macaca mulatta) ở Delhi.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
--⟪लोक्य⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
 Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+Đá quý phía nam Pune, Maharashtra.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
 Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+Tập bắn / mục tiêu tên, Karnataka.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
 ⟪क्षिप्त⟫:br
--⟪क्षिप्य⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
--⟪चित्य⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+Abb.: ⟪चितं गोमयं दहति⟫
+Đốt phân bò ở Rajasthan.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
 Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+Vẽ Mehndi trên tay ở Mumbai.
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3206))
 :::
-## Lektion 33
+
+## Bài 33
 
 
 
@@ -2256,35 +2418,41 @@ Mehndi painting on hands in Mumbai.
 
 
 
-⟪दा⟫ 3U ⟪ददाति⟫: geben
+
+
+
+
+
+
+⟪दा⟫ 3U ⟪ददाति⟫: cho
 
 ::: indent
-**Fut.**  ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
+**Tương lai.** ⟪दास्यति⟫  
+**Bị động.** ⟪दीयते⟫  
+**Nguyên nhân.** ⟪दापयति⟫  
 **PPP** ⟪दत्त⟫  
-**Inf.** ⟪दातुम्⟫
+**Vô hạn.** ⟪दातुम्⟫
 
-davon:
+trong đó:
 
-⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ n.: Cho, món quà, sự hào phóng
 :::
 ::: media
 ![](/images/lekt3306.webp)
 Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (nhận) nhận, chiếm hữu, mang theo
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**Absol.** ⟪आदाय⟫: với cách bổ ngữ (Akk.): cùng với, với
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3307))
 :::
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: đặt, ấn định, phân phát
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
@@ -2293,24 +2461,24 @@ Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: hướng toàn bộ sự chú ý vào điều gì đó, tập trung
 
 ::: indent
-davon:
+từ đó:
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ m.: sự tập trung nội tâm, sự chú ý cao độ
 :::
 ::: media
 ![](/images/lekt3305.webp)
 Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: lấp đầy, làm tràn ngập
 
 ::: indent
-Merke:
+Lưu ý:
 3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (từ: \*apipart)  
 3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
 3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
@@ -2319,9 +2487,9 @@ Merke:
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ chỉ **Pass.** ⟪सम्पूर्यते⟫ và **Kaus.**: lấp đầy hoàn toàn
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: sợ hãi (cách bổ ngữ Abl., cách sở hữu Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -2330,85 +2498,87 @@ Merke:
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-davon:
+từ đó:
 
-⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ n.: nỗi sợ hãi, sự kinh hoàng; mối nguy hiểm (cả khía cạnh chủ quan và khách quan)
 :::
 ::: media
 ![](/images/lekt3304.webp)
 Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: mang, đưa; nuôi dưỡng, chăm sóc
 
 ::: indent
-**Fut.** ⟪भरिष्यति⟫  
-**Pass.** ⟪भ्रियते⟫  
-**Kaus.** ⟪भारयति⟫  
+**Tương lai.** ⟪भरिष्यति⟫  
+**Bị động.** ⟪भ्रियते⟫  
+**Nguyên nhân hóa.** ⟪भारयति⟫  
 **PPP** ⟪भृत⟫  
-**Inf.** ⟪भर्तुम्⟫
+**Vô hạn.** ⟪भर्तुम्⟫
 
-davon:
+từ đó:
 
-⟪भार⟫ m.: Last
+⟪भार⟫ n.: gánh nặng
 :::
-⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
+⟪मा⟫ 3Ā ⟪मिमीते⟫: đo lường
 
 ::: indent
-**Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
-**Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
+**Tương lai.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
+**Bị động.** ⟪मीयते⟫  
+**Nguyên nhân hóa.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
-**Inf.** ⟪मातुम्⟫
+**Vô hạn.** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: so sánh
 
 ::: indent
-davon:
+từ đó:
 
-⟪उपमा⟫ f.: Vergleich
+⟪उपमा⟫ f.: sự so sánh
 
-⟪प्रतिमा⟫ f.: Abbild
+⟪प्रतिमा⟫ f.: hình ảnh
 :::
-⟪हा⟫ 3P ⟪जहाति⟫: verlassen
+⟪हा⟫ 3P ⟪जहाति⟫: rời bỏ
 
 ::: indent
-**Fut.** ⟪हास्यति⟫  
-**Pass.** ⟪हीयते⟫  
-**Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
-**Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+**Tương lai.** ⟪हास्यति⟫  
+**Bị động.** ⟪हीयते⟫  
+**Nguyên nhân hóa.** ⟪हापयति⟫  
+**PPP** ⟪हीन⟫: bị rời bỏ, thiếu thốn, khiếm khuyết  
+**Vô hạn.** ⟪हातुम्⟫
+từ PPP ⟪हीन⟫:
 
-⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+⟪हीनयान⟫ n.: phương tiện khiếm khuyết (của Phật giáo): tên gọi khinh miệt bởi những người đại diện cho "Đại thừa", tức là ⟪महायान⟫; con đường khiếm khuyết (⟪यान⟫ đến ⟪या⟫ 2: đi, lái). Thuật ngữ ⟪हीनयान⟫ không nên được sử dụng nữa. Hình thức của Phật giáo cổ xưa vẫn còn tồn tại ngày nay được gọi là ⟪थेरवाद⟫.
 :::
 ::: media
 ![](/images/lekt3303.webp)
 Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 3P ⟪जुहोति⟫: rót vào lửa (như một lễ vật, đặc biệt là bơ tan chảy)
 
 ::: indent
-**Fut.** ⟪होष्यति⟫  
-**Pass.** ⟪हूयते⟫  
-**Kaus.** ⟪हावयति⟫  
+**Tương lai.** ⟪होष्यति⟫  
+**Bị động.** ⟪हूयते⟫  
+**Nguyên nhân hóa.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
-**Inf.** ⟪होतुम्⟫
+**Vô hạn.** ⟪होतुम्⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
-:::
-⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+Abb.: ⟪घृतमग्नौ जुहोति⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3302))
 
-::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
-
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[Nguồn: http://en.wikipedia.org/wiki/Ghee. -- Truy cập ngày 2008-12-26]
 :::
-## Lektion 34
+
+## Bài 34
+
+
+
+
+
+
 
 
 
@@ -2418,15 +2588,15 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** hạt giống, cây trồng, ngũ cốc
 
 ::: media
 ![](/images/lekt3406.webp)
 Abb.: ⟪सस्यम्⟫
 Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+(Nguồn ảnh: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** bao lâu, lớn chừng nào
 
 **⟪तावत्⟫ :** so lange, so gross
 
@@ -2438,9 +2608,9 @@ Rice field in India.
 ![](/images/lekt3405.webp)
 Abb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+(Nguồn ảnh: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** hữu hạn (từ ⟪मृ⟫)
 
 **⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
 
@@ -2448,23 +2618,24 @@ Lakshadweep Islands Map.
 ![](/images/lekt3403.webp)
 Abb.: ⟪तिलाः⟫
 Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+(Nguồn ảnh: [Details](/licenses#lekt3403))
 :::
+
 ::: media
 ![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
 Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+(Nguồn ảnh: [Details](/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** (có màu sắc đẹp =) Vàng
 
 ::: media
 ![](/images/lekt3402.webp)
 Abb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+(Nguồn ảnh: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** Nơi ở, đền thờ
 
 **⟪कोटि⟫ f.:** Spitze; 10 Millionen
 
@@ -2478,34 +2649,40 @@ Golden Temple (Harmandir Sahib), Amritsar.
 ![](/images/lekt3401.webp)
 Abb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+(Nguồn ảnh: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** kiềm chế, giữ, dâng, ban cho
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
+**⟪या⟫ 2P ⟪याति⟫ :** đi, lái xe
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ f.:** cô gái, trinh nữ
 
-## Lektion 35
-
-
+## Bài 35
 
 
 
 
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+
+
+
+
+
+
+
+
+⟪नश्⟫ 4P ⟪नश्यति⟫ : mất tích, tiêu tan, biến mất
 ::: indent
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : biến mất, mất tích, tiêu tan
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : bước đi, đi
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
@@ -2513,15 +2690,15 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **Kaus. ⟪क्रमयति⟫** :br
 **PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
 Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Nguồn ảnh: [Details](/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): hát, tụng đọc theo điệu ca, tuyên bố trong văn vần
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
@@ -2530,16 +2707,17 @@ People walking, Senegal.
 **PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+từ đó:
+**⟪गीता⟫ f.:** bài hát, khúc ca
 :::
 ::: media
 ![](/images/lekt3501.webp)
 Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Nguồn ảnh: [Details](/licenses#lekt3501))
 :::
-## Lektion 36
+
+## Bài 36
 
 
 
@@ -2547,36 +2725,43 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 
 
-⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen
 
-⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten
+
+
+
+
+⟪अह्⟫ P chỉ Perf. với nghĩa hiện tại ⟪आह⟫, ⟪आहुर्⟫ : nói, trò chuyện
+
+⟪अह् प्र⟫ P chỉ Perf. với nghĩa hiện tại ⟪प्राह⟫ : nói, trò chuyện
+
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : nhìn, (nhận ra), ngắm
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
+Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln
+⟪चि⟫ 5U ⟪चिनोति⟫ : chất đống, thu thập
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
+Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
+Kaus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+Abb.: ⟪गोमयं चिकाय⟫
+(Nguồn ảnh: [Details](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
+
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : bước đi, đi, rời đi
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2586,83 +2771,84 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : rời đi (đặc biệt là từ nhà ra khỏi nhà để trở thành một khổ hạnh giả = một tu sĩ)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim
+⟪अगार⟫ n.⟪। आगार⟫ n.: nhà, nơi ở
 
 ::: media
 ![](/images/lekt3602.webp)
 Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+(Nguồn ảnh: [Details](/licenses#lekt3602))
 :::
+
 ::: indent
 davon:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
+⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.: sự không nhà của một tu sĩ Phật giáo hoặc sa-di
 :::
 ::: media
 ![](/images/lekt3603.webp)
 Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+(Nguồn ảnh: [Details](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
+⟪अञ्जलि⟫ m.: Hai bàn tay đặt sát nhau chắp lại để tỏ lòng kính trọng
 
-⟪आदृत⟫ 3: geachtet
+⟪आदृत⟫ 3: được kính trọng
 
-⟪उपाध्याय⟫ m.: Lehrer
+⟪उपाध्याय⟫ m.: thầy giáo
 
-⟪पृथिवी⟫ f.: Erde
+⟪पृथिवी⟫ f.: đất
 
-⟪पृष्ठ⟫ n: Rücken, Rückseite
+⟪पृष्ठ⟫ n: lưng, phía sau
 
 ::: indent
-⟪पृष्ठम्⟫ : hinter
+⟪पृष्ठम्⟫ : phía sau
 :::
-⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott
+⟪प्रजापति⟫ m.: chúa tể của các sinh vật, thần sáng tạo
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäss, hinzu, hinter - her
+⟪अनु⟫ Präverb: theo, dọc theo, qua - phía kia, dọc, phù hợp, thêm vào, phía sau - đi theo
 
 ::: indent
-z.B.
+Ví dụ
 
-⟪अनुकृ⟫ : nachahmen, nachmachen
+⟪अनुकृ⟫ : bắt chước, làm theo
 
-⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen
+⟪अनुगम्⟫ : đi theo ai đó, đi dọc
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ : bị, theo - hướng, đến - phía kia, đến - hướng, chống lại, vào - bên trong, liên quan đến, trên, qua, ở
 
 ::: indent
-z.B.
+Ví dụ
 
-⟪अभिगम्⟫ : hingehen, sich nähern
+⟪अभिगम्⟫ : đi đến, tiến lại gần
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüssen, anreden
+⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : chào hỏi chính thức, xưng hô
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : cảm thấy miễn cưỡng, tan biến
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
+Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : etwas riechen
+⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : ngửi
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
+PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : vui thích, làm vui; yêu mến, thiện cảm với ai đó
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen
+⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : vui mừng
 
 ::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
@@ -2672,23 +2858,23 @@ Kaus. :sig[⟪प्रीणयति⟫]
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : chạm vào
 
 ::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Abb.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606))
+Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
+(Nguồn ảnh: [Details](/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : trở nên cứng đờ: dựng đứng (tóc), vui mừng về (Instr., Akk., Lok.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -2700,92 +2886,103 @@ PPP ⟪हृषित⟫
 ::: media
 ![](/images/lekt3604.webp)
 Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604))
+(Nguồn ảnh: [Details](/licenses#lekt3604))
 :::
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
-## Lektion 37
+⟪स्वक⟫ 3: riêng (của tôi, của bạn ...) ; m.: thành viên
 
-
-
+## Bài 37
 
 
 
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+
+
+
+
+
+
+
+
+⟪मूर्ख⟫ 3: đần độn, ngốc nghếch, ngu dốt m. Đồ ngốc
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: Tu sĩ thuộc dòng tộc ⟪शाक्य⟫ (Kṣatriyas từ ⟪कपिलवस्तु⟫) = Đức Phật Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: Ngày
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: Cây cối
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.: Miệng, khuôn mặt, phần trước, khởi đầu
 
-## Lektion 38
-
-
+## Bài 38
 
 
 
 
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+
+
+
+
+
+
+
+
+⟪सूर्य⟫ m.: Mặt trời, thần mặt trời Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
 Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.: Nước
 
 ::: media
 ![](/images/lekt3805.webp)
 Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : thổi, phả
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+từ đó:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: Gió
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : thổi, bay đi, tắt lịm
 
 ::: indent
-davon:
+từ đó:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.: Sự tắt lịm, Niết bàn
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.: Sự tắt lịm hoàn toàn, sự giải thoát hoàn hảo (vào thời điểm kết thúc cuộc đời của một Đức Phật hoặc A-la-hán)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+Abb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : tiểu, đi vệ sinh, xuất tinh
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -2794,81 +2991,105 @@ Pass. ⟪मिह्यते⟫
 Kaus. ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-davon:
+từ đó:
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: Mây ("kẻ tiểu")
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: Con trai
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: Vua (xem về chế độ quân chủ ở Ấn Độ trong Basham, Wonder tr. 82 -94). Khi là thành tố cuối của một từ ghép (đặc biệt ⟪तत्पुरुष⟫) thường mang nghĩa: -⟪राज⟫ m. (giống như ⟪देव⟫)
+:::
+::: media
+![](/images/lekt3804.webp)
+Abb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3804))
+:::
+⟪मिह्⟫ 1P ⟪मेहति⟫ : tiểu, đi vệ sinh, xuất tinh
 
 ::: indent
-Femininum:
+Fut. ⟪मेक्ष्यति⟫
+Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
+Pass. ⟪मिह्यते⟫
+Kaus. ⟪मेहयति⟫
+PPP ⟪मीढ⟫
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+từ đó:
 
-von ⟪राज⟫ :
-
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪मेघ⟫ m.: Mây ("kẻ tiểu")
 :::
-⟪नामन्⟫ n.: Name
+⟪सुत⟫ m.: Con trai
 
-⟪सीमन्⟫ f.: Grenze
+⟪राजन्⟫ m.: Vua (xem về chế độ quân chủ ở Ấn Độ trong Basham, Wonder tr. 82 -94). Khi là thành tố cuối của một từ ghép (đặc biệt ⟪तत्पुरुष⟫) thường mang nghĩa: -⟪राज⟫ m. (giống như ⟪देव⟫)
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+::: indent
+Giống cái:
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
+⟪राज्ञी⟫ f.: nữ hoàng, vợ của một vị vua
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+từ ⟪राज⟫ :
+
+⟪राज्य⟫ 3: thuộc về vua; n. vương quốc, chức vị vua chúa, quyền cai trị
+:::
+⟪नामन्⟫ n.: tên riêng
+
+⟪सीमन्⟫ f.: biên giới, ranh giới
+
+⟪आत्मन्⟫ m.: bản ngã, chính mình, cốt lõi nội tại. Theo triết học và các giáo lý giải thoát: cái Tuyệt đối trong cá nhân, nhưng đôi khi cá nhân không ý thức được điều đó (v. Stietencron)
+
+⟪ब्रह्मन्⟫ n.: cái Tuyệt đối, kinh Veda (theo Thieme ban đầu: sự thật được diễn đạt thành lời, từ đó ⟪ब्राह्मण⟫ "người diễn đạt sự thật")
+
+⟪ब्रह्मन्⟫ m.: vị thần sáng tạo được nhân cách hóa Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
 Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
+⟪कर्मन्⟫ n.: liên quan đến ⟪कृ⟫ 8U: hành động, việc làm; công việc thiêng liêng, nghi lễ tế tự; Nghiệp (Karma): những hành động trong quá khứ sẽ mang lại quả báo sau này (ví dụ như tái sinh) 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: kết quả của hành động = những hậu quả tốt và xấu từ các việc làm trong những kiếp sống trước (liên quan đến ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: voi (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: con người, đàn ông; tên của cha tổ loài người (liên quan đến ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon:
+từ đó:
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: con người
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (bừng cháy, tỏa sáng) ; đau buồn, thương tiếc
 
 ::: indent
-Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
-Fut. ⟪शोचिष्यति⟫
-Pass. ⟪शुच्यते⟫
-Kaus. ⟪शोचयति⟫
-Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Hoàn thành II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
+Tương lai ⟪शोचिष्यति⟫
+Bị động ⟪शुच्यते⟫
+Nguyên nhân ⟪शोचयति⟫
+Động từ danh động từ ⟪शुचितुम्⟫
+Tuyệt đối ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+từ đó:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: rực rỡ, tinh khiết, trong sáng
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: nỗi buồn, đau khổ
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: không đau khổ; cây Ashoka = _Saraca asoca_ (Roxb.) Wilde; tên của hoàng đế Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (khoảng 304  – 232 trước Công nguyên.)
 :::
 ::: media
 ![](/images/lekt3810.webp)
 Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3810))
 :::
+
 ::: media
 ![](/images/lekt3811.webp)
 Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt3811))
 :::
-## Lektion 40
+
+## Bài 40
 
 
 
@@ -2876,33 +3097,39 @@ Abb.: ⟪अशोकसाम्राज्यम्⟫
 
 
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+
+
+
+⟪पात्र⟫ n.: Tôn kính, Thầy, Đấng đáng kính
+
+⟪मेधा⟫ f.: Trí tuệ, Lý trí, Tư tưởng
+
+⟪पुस्तक⟫ m.n.: Bản thảo, Sách
+
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : Ở trong trật tự đúng đắn, phù hợp với (Lok.); Hình thành, tạo nên; Quyết tâm làm gì đó, bằng lòng làm gì đó (Dativ)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+Perf. II ⟪चकॢपे⟫ tùy chọn ⟪अनिट्⟫  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : Sắp xếp, tạo ra, hình thành trong tưởng tượng, tự nhủ  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+Từ đó:
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.: Sự hình thành trong tư tưởng, việc chấp nhận những gì không tồn tại trong thực tế, sự hư cấu
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (Hình dung khác nhau =) Đặt câu hỏi, nghi ngờ
 
 ::: indent
-davon:
+Từ đó:
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.: Lựa chọn, Sự nghi ngờ
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ : Đánh
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -2912,70 +3139,72 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ : Qua, vượt qua, cứu mình khỏi ai đó (Akk. = vượt qua ai đó)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+Từ đó:
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.: Bờ sông, nơi tắm thiêng liêng, địa điểm hành hương
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+Abb.: ⟪हरिद्वारे तीर्थम्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4003))
 :::
+
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m. (từ: ⟪तीर्थम्⟫+ ⟪कृ⟫): người làm phà (vượt qua nỗi đau) = 24 vị thầy của Jain
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4002))
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ Tiền tố: xuống, đi xuống, rời đi, hạ-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : đi xuống
 
 ::: indent
-davon:
+từ đó:
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.: (người đi xuống, sự hạ giới) hóa thân của một vị thần, đặc biệt là Viṣṇu 10 hóa thân (xem Basham, Wonder tr. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : ngủ, nằm xuống ngủ
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
+Impf. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
+Pass. ⟪सुप्यते⟫ (từ \*svp-ya-te)  
 Kaus. ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-davon:
+từ đó:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ m.: giấc ngủ, cơn mơ
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ f. (từ \*svp-ti): giấc ngủ, đặc biệt là giấc ngủ sâu
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4004))
 :::
-## Lektion 41
+
+## Bài 41
 
 
 
@@ -2983,152 +3212,143 @@ Abb.: ⟪स्वपन्ति⟫
 
 
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
 
-⟪भुजङ्ग⟫ m.: Schlange
+
+
+
+
+
+⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.: rắn
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/licenses#lekt4105))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: nur, allein, vollständig
+⟪केवलम्⟫ Trạng từ: chỉ, duy nhất, hoàn toàn
 
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: độc tố
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Bildquelle: [Details](/licenses#lekt4104))
+Abb.: ⟪भुजङ्गस्य विषम्⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+⟪शास्⟫ 2P ⟪शास्ति⟫ : khiển trách, chế ngự, ra lệnh, dạy bảo
 
 ::: indent
-hat den schwachen Präsensstamm ⟪शिष्⟫ : ⟪शिष्मस्⟫, die 3.Pl. P. hat aber starken Stamm: ⟪शासति⟫ (!! Endung -ati) neben gelegentlich ⟪शासन्ति⟫. ⟪अशासुर्⟫. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: ⟪शास्ते⟫
+có gốc hiện tại yếu ⟪शिष्⟫ : ⟪शिष्मस्⟫, nhưng ngôi 3 số nhiều hiện tại có gốc mạnh: ⟪शासति⟫ (!! Hậu tố -ati) cùng với đôi khi ⟪शासन्ति⟫. ⟪अशासुर्⟫. Toàn bộ ⟪आत्मनेपद⟫ cũng, khi xuất hiện, đều có gốc mạnh: ⟪शास्ते⟫
 
-Perf I ⟪शशास⟫, ⟪शशासुर्⟫  
-Fut. ⟪शासिष्यति⟫  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ : gelehrt, weise  
-Inf. ⟪शासितुम्⟫  
-Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
+Hoàn thành I ⟪शशास⟫, ⟪शशासुर्⟫  
+Tương lai ⟪शासिष्यति⟫  
+Bị động **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+PPP ⟪शिष्ट⟫ : đã được dạy, khôn ngoan  
+Động từ nguyên mẫu ⟪शासितुम्⟫  
+Tuyệt đối **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-davon:
+từ đó:
 
-⟪शासना⟫ f.: königliches Edikt, Lehre, Religion
+⟪शासना⟫ f.: sắc lệnh hoàng gia, giáo lý, tôn giáo
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/licenses#lekt4109))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4109))
 :::
-::: indent
-⟪शास्त्र⟫ n.: Lehre, Lehrwerk
 
-⟪शास्त्रिन्⟫ m.: gelehrt, Gelehrter
+::: indent
+⟪शास्त्र⟫ n.: giáo lý, tác phẩm giảng dạy
+
+⟪शास्त्रिन्⟫ m.: học giả, nhà bác học
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/licenses#lekt4110))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4110))
 :::
-::: indent
-⟪शिष्य⟫ 3: zu belehrender = Schüler
-:::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
-
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
-
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
-
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+⟪शिष्य⟫ 3: người cần được dạy bảo = học sinh
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+⟪शरण⟫ 3: bảo vệ, che chở ; n. sự bảo vệ, nơi nương tựa, việc tìm đến chỗ nương tựa
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+⟪सङ्घ⟫ n.: (đối với ⟪सम्⟫-⟪हन्⟫ : đánh cùng nhau): đám đông, nhóm, cộng đồng (ví dụ Phật giáo)
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+⟪कन्या⟫ f.: cô gái trẻ, con gái, trinh nữ
+
+⟪अति⟫ Tiền tố: vượt qua, ngang qua, hơn nữa (về không gian, thời gian, số lượng, khối lượng, thứ tự, quyền lực, cường độ), vô cùng
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : đi ngang qua
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+PPP ⟪अतीत⟫ : n. quá khứ
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+## Bài 42
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+
+
+
+
+
+
+
+
+
+
+
+
+⟪प्रकृति⟫ f.: (đối với ⟪कृ⟫ + ⟪प्र⟫) dạng cơ bản, trạng thái tự nhiên, bản chất; vật chất nguyên thủy, nguyên liệu gốc
+
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : từ bỏ, rời xa, tránh né, ở lại, đứng yên
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+PPP ⟪अवस्थित⟫ 3: đang đứng, hiện diện
 :::
-## Lektion 42
+⟪पुरा⟫ Adv.: một lần, trước đây
 
+⟪अनेक⟫ 3: nhiều (không phải vài)
 
+⟪कुमार⟫ m.: hoàng tử
 
+⟪दूत⟫ m.: sứ giả, đặc sứ
 
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : gửi đi
 
+⟪सकाश⟫ m.: sự hiện diện, sự có mặt
 
+⟪शर⟫ m.: trục tên, mũi tên
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
+⟪बाण⟫ m.: mũi tên, mục tiêu
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : chấp thuận, hứa hẹn; Ā: trả lời, xác nhận, khẳng định, thừa nhận
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
-
-::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
-:::
-⟪पुरा⟫ Adv.: einst, früher
-
-⟪अनेक⟫ 3: viele (nicht einige)
-
-⟪कुमार⟫ m.: Prinz
-
-⟪दूत⟫ m.: Bote, Gesandter
-
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
-
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
-
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
-
-⟪बाण⟫ m.: Pfeil, Ziel
-
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
-
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : bắt đầu chuyển động
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: sự phù phiếm, kiêu ngạo
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: đắm chìm trong suy nghĩ
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ Adv.: trong lúc đó
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ f.: trò đùa, trò chơi
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ Adv.: bao lâu, trong khi
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ Adv.: chừng nào
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ Adv.: hai lần, chia làm hai phần
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : ca ngợi, ra lệnh
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
@@ -3136,70 +3356,57 @@ Perf. I ⟪शशंस⟫
 Pass. ⟪शस्यते⟫  
 Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
-:::
-⟪हृदय⟫ n.: Herz
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+⟪पितृ⟫ m.: cha
 
-::: media
-![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
-:::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪पितृ⟫ m. Số nhiều: những tổ tiên nam đã khuất, tức là
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+1. cha, ông, cụ
+2. những tổ tiên của loài người
 
-⟪पितृ⟫ m.: Vater
+Cả hai đều được thực hiện các nghi lễ, gọi là ⟪श्राद्ध⟫ n. Hàng ngày, người ta dâng nước và vào những dịp nhất định là xôi hoặc bánh bột (⟪पिण्ड⟫ m. "bánh") cho ba tổ tiên nam (theo dòng cha và dòng mẹ). Như vậy, các tổ tiên sẽ có thức ăn. Việc thực hiện nghi lễ này là một lý do khiến người đàn ông nên sinh con trai. Những ai được kết nối qua ⟪पिण्ड⟫ này thì gọi là ⟪सपिण्ड⟫ (những người có chung ⟪पिण्ड⟫). ⟪सपिण्ड⟫ bao gồm sáu thế hệ: ba ngược lên (đến cụ) và ba xuôi xuống (cháu chắt).
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪तात⟫ m.: ba
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+⟪मातृ⟫ f.: mẹ
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+⟪पुत्र⟫ m.: con trai
 
-⟪तात⟫ m.: Papa
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: con gái
 
-⟪मातृ⟫ f.: Mutter
+⟪नप्तृ⟫ m.: cháu trai
 
-⟪पुत्र⟫ m.:  Sohn
+⟪भ्रातृ⟫ m.: anh/em trai
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: chị/em gái
 
-⟪नप्तृ⟫ m.: Enkel
+⟪देवृ⟫ m.: anh/em trai chồng (em rể)
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪यातृ⟫ m.: vợ của anh/em trai chồng
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪ननान्दृ⟫ f.: chị/em gái chồng
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪श्वसुर⟫ f.: cha vợ (xưa: chỉ của con gái)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪श्वस्रू⟫ f.: mẹ vợ (sự biến đổi sẽ được trình bày sau)
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪मातुल⟫ m.: chú/bác ruột (chú của mẹ)
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪मातुलानी⟫ f.: vợ của chú/bác ruột (chú rẫy)
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪पितृव्य⟫ m.: chú/bác ruột (chú của cha)
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪पितामह⟫ m.: ông nội
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪पितामही⟫ f.: bà nội
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪मातामह⟫ m.: ông ngoại
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪मातामही⟫ f.: bà ngoại
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
-
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
-
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
-
-## Lektion 43
+## Bài 43
 
 
 
@@ -3207,97 +3414,97 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
-⟪आपण⟫ m.: Markt
+
+
+
+
+
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : ra lệnh, an bài
+
+⟪आपण⟫ m.: chợ
 
 ::: media
 ![](/images/lekt4302.webp)
 Abb.: ⟪आपणः⟫
-(Bildquelle: [Details](/licenses#lekt4302))
+(Nguồn ảnh: [Details](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: schnell, eilig
+⟪सत्वर⟫ 3: nhanh, vội
 
-⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
+⟪पण्य⟫ 3: có thể mua được; n.: hàng hóa, thương mại
 
 ::: media
-![]/images/lekt4303.webp
+![](/images/lekt4303.webp)
 Abb.: ⟪पण्यानि⟫
-(Bildquelle: [Details](/licenses#lekt4303))
+(Nguồn ảnh: [Details](/licenses#lekt4303))
 :::
-⟪आम्⟫ : ja
+⟪आम्⟫ : vâng, phải
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: được trang bị với
 
-⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
+⟪भद्र⟫ 3: tốt, hạnh phúc; Vokativ: người yêu dấu của tôi!
 
-⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): Übereinkunft, Vertrag, Frist, Termin, Zeit
+⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): sự thỏa thuận, hợp đồng, thời hạn, ngày hẹn, thời gian
 
-⟪निश्चित⟫ 3: entschieden, festgesetzt
+⟪निश्चित⟫ 3: được quyết định, được ấn định
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : nếu không, kẻo
 
-⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
+⟪विलम्ब⟫ n.m.: sự chậm trễ, sự muộn
 
-⟪विपणि⟫ f.: Laden
+⟪विपणि⟫ f.: cửa hàng
 
 ::: media
 ![](/images/lekt4304.webp)
 Abb.: ⟪विपणिः⟫
-(Bildquelle: [Details](/licenses#lekt4304))
+(Nguồn ảnh: [Details](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: Kaufmann
+⟪वणिज्⟫ m.: thương nhân
 
 ::: media
 ![](/images/lekt4305.webp)
 Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/licenses#lekt4305))
+(Nguồn ảnh: [Details](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: tốt nhất
 
-⟪शीघ्र⟫ 3: schnell, rasch
+⟪शीघ्र⟫ 3: nhanh, mau
 
-⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber
+⟪वत्स⟫ m.: bò con, thú non, đứa trẻ ; Vok.: người yêu dấu của tôi
 
 ::: media
 ![](/images/lekt4306.webp)
 Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/licenses#lekt4306))
+(Nguồn ảnh: [Details](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: oberster, bester
+⟪उत्तम⟫ 3: cao nhất, tốt nhất
 
-⟪अल्प⟫ 3: klein, gering
+⟪अल्प⟫ 3: nhỏ, ít
 
-⟪मूल्य⟫ n.: Wert, Preis
+⟪मूल्य⟫ n.: giá trị, giá cả
 
-⟪कियत्⟫ 3: wie gross
+⟪कियत्⟫ 3: lớn như thế nào
 
-⟪शर्करा⟫ f.: Zucker (das deutsche "Zucker" geht über italienisch zucchero, von dort über arabisch sukkar - سكر und persisch äkär - شکر auf das Sanskrit ⟪शर्करा⟫ zurück!)
+⟪शर्करा⟫ f.: đường (từ tiếng Đức "Zucker" đi qua tiếng Ý zucchero, từ đó qua tiếng Ả Rập sukkar - سكر và tiếng Ba Tư äkär - شکر trở về với gốc Sanskrit ⟪शर्करा⟫!)
 
-⟪अधिक⟫ 3: zusätzlich, überschüssig, ausserordendlich
+⟪अधिक⟫ 3: thêm vào, dư thừa, phi thường
 
-⟪तर्हि⟫ : damals, dann ; darum, also
+⟪तर्हि⟫ : lúc đó, rồi ; vì vậy, do đó
 
-⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
+⟪तुल्⟫ 10 ⟪तुलयति । तोलयति⟫ : cân, đo
 
 ::: media
 ![](/images/lekt4307.webp)
 Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4307))
-:::
-⟪कर्गल⟫ n.: Papier
+(Nguồn ảnh: [Details](/licenses#lekt4307))
 
-⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
+⟪श्रेष्ठिन्⟫ m.: thương nhân giàu có
 
-⟪पुरतस्⟫ : vorn, davor, vor
+⟪जव⟫ 3: nhanh chóng, vội vàng
 
-⟪श्रेष्ठिन्⟫ m.: reicher Kaufmann
-
-⟪जव⟫ 3: schnell, eilig
-
-⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen
+⟪द्रु⟫ 1P ⟪द्रवति⟫ chạy
 
 ::: indent
 Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
@@ -3308,42 +3515,48 @@ PPP ⟪द्रुत⟫
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
 :::
-⟪रे⟫ Interjektion: He! Du da!
+⟪रे⟫ Interjektion: Này! Anh kia!
 
-⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
+⟪अन्यद्⟫ 3: một người khác (suy biến như ⟪यद्⟫ )
 
-⟪वञ्चक⟫ m.: Betrüger
+⟪वञ्चक⟫ m.: kẻ lừa đảo
 
-⟪पश्चात्ताप⟫ m.: Reue
+⟪पश्चात्ताप⟫ m.: hối hận
 
-⟪इत्थम्⟫ Adv.: auf diese Weise, so
+⟪इत्थम्⟫ Adv.: theo cách này, như vậy
 
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: ngày
 
-⟪जन्मन्⟫ n.: Geburt
+⟪जन्मन्⟫ n.: sự sinh ra
 
-⟪आनन्द⟫ m.: Wonne, Freude
+⟪आनन्द⟫ m.: niềm vui, hạnh phúc
 
-## Lektion 44
-
-
+## Bài 44
 
 
 
 
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+
+
+
+
+
+
+
+
+⟪प्रति⟫ Tiền tố: trở lại, chống lại, hướng về phía trước
 
 ::: indent
-z.B.
+ví dụ
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : đánh lại
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : nói lại = trả lời
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : từ chối, khinh thường
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 2P ⟪याति⟫ : đi, lái xe
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -3353,16 +3566,16 @@ Kaus. ⟪यापयति⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 
-davon:
+từ đó:
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.: sự đi lại, con đường, phương tiện
 :::
 ::: media
 ![](/images/lekt4403.webp)
 Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : nằm. Gốc động từ này có **cấp độ cao** trong tất cả các dạng của gốc hiện tại: 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Các dạng sau đây cần đặc biệt lưu ý: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3371,16 +3584,32 @@ Kaus. ⟪शापयति⟫
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
-davon:
+từ đó:
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.: chỗ nằm, giường
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404))
+Abb.: ⟪योगी शयने शेते⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4404))
+
+::: indent
+Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
+Fut. ⟪शयिष्यते⟫  
+Kaus. ⟪शापयति⟫  
+PPP ⟪शयित⟫  
+Inf. ⟪शयितुम्⟫  
+
+từ đó:
+
+⟪शयन⟫ n.: chỗ nằm, giường
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+::: media
+![](/images/lekt4404.webp)
+Abb.: ⟪योगी शयने शेते⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4404))
+:::
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : vui mừng về (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3392,43 +3621,43 @@ Inf. ⟪नन्दितुम्⟫
 Absol. -⟪नन्द्य⟫  
 Gerundiv ⟪नन्द्य⟫  
 
-davon:
+từ đó:
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 3: được đặc trưng bởi (niềm vui đặc biệt), hân hoan ; m. tên của con vật cưỡi (⟪वहन⟫) của ⟪शिव⟫ (một con bò đực)
 :::
 ::: media
 ![](/images/lekt4405.webp)
 Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : có niềm vui của mình về (⟪द्वितीयया⟫), chào mừng ai đó một cách hân hoan, đón nhận nồng nhiệt
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : giữ, mang ; dâng lên, ban cho ; gắn kết lại, kiềm chế, nài ngựa, chinh phục
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+Kaus. ⟪यामयति⟫ nhưng: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : kéo dài, duỗi ra
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt
+PPP ⟪आयत⟫ 3: duỗi dài ra
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406))
+Abb.: ⟪आयतो मरुः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : dâng lên, đưa ra, giao lại
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : buộc lại, cột vào, kiềm chế
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : khao khát, hướng tới (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
@@ -3438,16 +3667,16 @@ Kaus. ⟪यातयति⟫
 PPP ⟪यत्त⟫  
 Inf. ⟪यतितुम्⟫  
 
-davon:
+từ đó:
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung
+⟪यत्न⟫ m.: nỗ lực, sự gắng sức
 :::
 ::: media
 ![](/images/lekt4407.webp)
 Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (Dạng biến thể của ⟪लभ्⟫): nắm, giữ
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
@@ -3458,26 +3687,17 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : chạm vào, bắt đầu, tiến hành
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (từ ⟪प्र⟫-⟪व्रज्⟫): việc rời bỏ gia đình để sống đời không nhà ; nghi lễ trở thành sa-di Phật giáo (Tiếng Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4408))
 :::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
-## Lektion 45
+
+## Bài 45
 
 
 
@@ -3485,26 +3705,38 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
-
-## Lektion 46
 
 
 
 
 
 
+⟪वा⟫ ... ⟪वा⟫ : hoặc là ... hoặc là
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+## Bài 46
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪सम⟫ 3: bằng nhau, đúng lúc, tương tự
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+từ đó:
+⟪समम्⟫ Adv.: theo cách giống nhau, đồng thời (⟪तृतीयया⟫), đều đặn
+⟪समता⟫ f.: sự bình đẳng
+⟪विषम⟫ 3: không bằng nhau, gồ ghề, xấu xa
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : nắm lấy, bắt giữ, cầm
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -3514,44 +3746,47 @@ Kaus.⟪ग्राहयति⟫
 PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+từ đó:
+⟪ग्रह⟫ m.: sự nắm bắt, kẻ cầm giữ, cá sấu, hành tinh lang thang
+⟪नवग्रह⟫ m.: chín hành tinh lang thang (không phải là các hành tinh!) (xem Basham, Wonder tr. 493):
+1. ⟪सूर्यः⟫ = Mặt Trời
+2. ⟪चन्द्रः⟫ = Mặt Trăng
+3. ⟪मङ्गलः⟫ = Sao Hỏa
+4. ⟪बुधः⟫ = Sao Thủy
+5. ⟪बृहस्पतिः⟫ = Sao Mộc
+6. ⟪शुक्रः⟫ = Sao Kim
+7. ⟪शनिः⟫ = Sao Thổ
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Xem về ⟪राहु⟫ và ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Các nghi lễ thánh hiến và nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh lang thang vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+Hình: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4602))
 :::
+
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+Hình: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4603))
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+Hình: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4604))
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+Hình: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : bằng lòng, hài lòng với (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -3562,39 +3797,31 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ : cúi xuống, chào, nghiêng mình, cung kính cúi đầu
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+Hình: [⟪नारायण तुभ्यं नमामि⟫](/licenses#lekt4607)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ : leo lên, chinh phục
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
-
-:::
-::: media
-![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
-:::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -3608,9 +3835,10 @@ Absol. -⟪हूय⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+Abb.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+(Nguồn ảnh: [Details](/licenses#lekt4608))
 :::
+
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
 
@@ -3625,10 +3853,10 @@ Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
 davon:
 ⟪आश्रम⟫ m.n.
 
@@ -3636,9 +3864,9 @@ davon:
 ::: media
 ![](/images/lekt4609.webp)
 Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+(Nguồn ảnh: [Details](/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : dựa, tựa vào, tìm chỗ dựa, đến với ai đó (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -3659,40 +3887,29 @@ Kaus. ⟪सञ्जयति⟫
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
 davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+⟪सङ्ग⟫ m.: sự dính mắc vào, tiếp xúc với (⟪तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
 Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
-:::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
-
-::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
-Fut. ⟪द्रोष्यति⟫  
-Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
-PPP ⟪द्रुत⟫  
-Inf. ⟪द्रोतुम्⟫  
-Absol. -⟪द्रुत्य⟫
+(Nguồn ảnh: [Details](/licenses#lekt4610))
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : lang thang, đi loanh quanh
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+từ đó:
+⟪विभ्रम⟫ m.: sự lang thang, sự bối rối, sự lầm lạc
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : rủ xuống từ (⟪सप्तम्या⟫), treo vào (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
@@ -3706,34 +3923,35 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : treo vào (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ liên từ:  nếu
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : bao vây, chiếm lĩnh, chinh phục
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: bị đánh bại, bị hạ nhục, bị sỉ nhục
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ tiền tố: hướng xuống, đi xuống, vào trong, lùi lại
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+ví dụ:
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : ngồi xuống
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ thán từ: lời kêu gọi, ví dụ: hỡi, này, ôi, ơi, xin chào, hi! thường không dịch được. Thán từ này có một Sandhi đặc biệt: trước tất cả các âm hữu thanh, nó trở thành :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4611))
 :::
-## Lektion 48
+
+## Bài 48
 
 
 
@@ -3741,31 +3959,63 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 
 
-⟪श्वस्⟫ : morgen
 
-⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+
+
+⟪श्वस्⟫ : ngày mai
+
+⟪अद्य⟫ : hôm nay
+
+⟪लघु⟫ 3: nhẹ (không nặng, không khó), nhanh, ngắn (trong diễn đạt)
+
+⟪व्याकरण⟫ n.: ngữ pháp (đối với ⟪व्याकृ⟫)
+
+⟪तन्त्र⟫ n.: dây đàn ; khung cửi, sợi dọc, vải dệt ; nền tảng, chuẩn mực, quy tắc ; giáo lý, tác phẩm giảng dạy ; Tantra ; thần chú; phương tiện, mẹo, thuốc men ; chính quyền, thẩm quyền
+:::
+
+## Bài 48
+
+
+
+
+
+
+
+
+
+
+
+
+
+⟪श्वस्⟫ : ngày mai
+
+⟪अद्य⟫ : hôm nay
+
+⟪लघु⟫ 3: nhẹ (không nặng, không khó), nhanh, ngắn (trong diễn đạt)
+
+⟪व्याकरण⟫ n.: ngữ pháp (đối với ⟪व्याकृ⟫)
+
+⟪तन्त्र⟫ n.: dây đàn ; khung cửi, sợi dọc, vải dệt ; nền tảng, chuẩn mực, quy tắc ; giáo lý, tác phẩm giảng dạy ; Tantra ; thần chú; phương tiện, mẹo, thuốc men ; chính quyền, thẩm quyền
 
 ::: media
 ![](/images/lekt4802.webp)
 Abb.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4802))
 :::
+
 ::: media
 ![](/images/lekt4803.webp)
 Abb.: ⟪तन्त्री⟫
 Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum
+⟪स्त्री⟫ f.: phụ nữ, vợ ; giống cái
 
-Deklination:
+Biến đổi:
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -3781,71 +4031,70 @@ Deklination:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
+Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4804))
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Trạng từ: ban ngày và ban đêm
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
+⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : treo, bám vào
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ m.: trẻ em, thanh niên, hoàng tử; biệt hiệu của ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
 Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+Lễ hội Thaipusam = தைப்பூசம், Batu Caves, Malaysia
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ f.: cô gái, con gái
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+Abb.: ⟪कुमारी नेपाल⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ n.: thời thơ ấu
 
-⟪यौवन⟫ n.: Jugend
+⟪यौवन⟫ n.: tuổi trẻ
 
-⟪स्थविर⟫ 3: alt, betagt
+⟪स्थविर⟫ 3: già, cao tuổi
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+Abb.: ⟪स्थविराः जोधपुर⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ n.: (tuổi) già
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: cũng: đáng trách
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil
+⟪सूक्ष्म⟫ 3: tinh tế, nhỏ xíu, vi diệu
 
 ::: media
 ![](/images/lekt4808.webp)
 Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+Hồ Karanji = ಕಾರಂಜಿ ಕೆರೆ
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ m.: sự gắn bó, khuynh hướng ; cơ hội
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit
+⟪विशेष⟫ m.: sự khác biệt, đặc điểm
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
+⟪प्रसूति⟫ f.: sự sinh ra, dòng dõi
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ n.: phong tục, tập quán, luật thông lệ ; sự biến đổi
 
-⟪जाया⟫ f.: Ehefrau
+⟪जाया⟫ f.: vợ
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+Abb.: ⟪मम जाया⟫
+(Ảnh: Payer)
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4809))
 :::
-## Lektion 49
+
+## Bài 49
 
 
 
@@ -3853,24 +4102,32 @@ Abb.: ⟪मम⟫ ⟪जाया⟫
 
 
 
-⟪दीर्घ⟫ 3: lange
 
-⟪ह्रस्व⟫ 3: kurz
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+
+
+
+
+⟪दीर्घ⟫ 3: dài
+
+⟪ह्रस्व⟫ 3: ngắn
+
+⟪आयुस्⟫ n.: tuổi thọ (tuổi thọ trọn vẹn, có thể sống được nếu không có gì cản trở) ;
 
 ::: indent
-davon:
+trong đó:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: hệ thống y học truyền thống của Ấn Độ
 
-siehe:
+xem:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer (1944–). -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Các văn bản được chọn từ Carakasaṃhitā / dịch và chú giải bởi Alois Payer (1944–). -- 0. Giới thiệu. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : ném, quăng
+:::
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : ném, quăng
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -3882,114 +4139,94 @@ Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : vội vã
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : gây hại
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: sự tò mò, sự quan tâm
 
 ::: media
 ![](/images/lekt4901.webp)
 Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+(Nguồn ảnh: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: hoàn toàn, đầy đủ
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: sự quen biết
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: nghệ thuật
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, thế kỷ 11
+(Nguồn ảnh: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: mong muốn
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: và, cũng, hoặc
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: chim ("đi vào giấc mơ của không trung ⟪स्⟫ - ⟪विह⟫")
 
 ::: media
 ![](/images/lekt4903.jpg)
 Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+(Nguồn ảnh: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: trang phục, ngoại hình, bề ngoài
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+Abb.: ⟪वेषः वाराणस्याम्⟫
+(Nguồn ảnh: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: tấm chăn, nơi ẩn náu
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: lồng chim
 
 ::: media
 ![](/images/lekt4909.webp)
 Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+Thầy bói với vẹt trong lồng: con vẹt rút những tờ giấy nhỏ, trên đó ghi vận mệnh Mysore
+(Nguồn ảnh: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
-
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
-
-⟪अवनि⟫ f.: Erde
-
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
-
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
-
-::: indent
-Perf. IV ⟪दध्यौ⟫
-Fut. ⟪ध्यास्यति⟫
-Pass. ⟪ध्यायते⟫
-Kaus. ⟪ध्यापयति⟫
-PPP ⟪ध्यात⟫
-Inf. ⟪ध्यातुम्⟫
-Gerundiv ⟪ध्येय⟫
-:::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.: sự cân nhắc, chú ý, tôn trọng
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Hình: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3: xa nhất, cao nhất ; ⟪पञ्चम्या⟫ : tốt hơn, cao hơn
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.: trẻ em, con non
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Hình: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt4906))
 :::
-## Lektion 50
+
+## Bài 50
 
 
 
@@ -3997,47 +4234,53 @@ Sri Lanka
 
 
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+
+
+⟪ध्रुव⟫ 3: vững chắc, bất biến
+
+⟪निषेक⟫ m.: sự rắc nước, thụ tinh, chất lỏng, tinh dịch, nghi lễ khi sinh sản
+
+⟪पण्डित⟫ 3: khôn ngoan, trí tuệ, học thức
+
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : coi thường, khinh miệt
+
+⟪मन्त्रिन्⟫ 3: đưa ra lời khuyên ; m.: cố vấn, nghị sĩ, bộ trưởng
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
+Hình: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ n.: bí mật, sự cô độc
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : bị tổn hại, thất bại, làm hỏng
 
 ::: indent
-Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
-Fut. ⟪रेषिष्यति⟫
-Pass. ⟪रिष्यते⟫
-Kaus. ⟪रेषयति⟫
+Hoàn thành II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+Tương lai ⟪रेषिष्यति⟫
+Bị động ⟪रिष्यते⟫
+Nguyên nhân ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : phá vỡ, hủy hoại
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
+Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
 Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+Gerundiv ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: cũng: số phận (dùng với ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : mưa (thường với một ⟪कर्तृ⟫ -- một vị thần hoặc một đám mây)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -4046,129 +4289,154 @@ Pass. ⟪वृष्यते⟫
 Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
+Absol.-⟪वृष्य⟫
+
+::: indent
+Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
+Fut. ⟪लोप्स्यति⟫
+Pass. ⟪लुप्यते⟫
+Kaus. ⟪लोपयति⟫
+PPP ⟪लुप्त⟫
+Inf. ⟪लोप्तुम्⟫
+Gerundiv ⟪लुप्य । लोप्य⟫
+:::
+⟪विधि⟫ m.: cũng: số phận (dùng với ⟪विधा⟫)
+
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : mưa (thường với một ⟪कर्तृ⟫ -- một vị thần hoặc một đám mây)
+
+::: indent
+Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
+Fut. ⟪वर्षिष्यति⟫
+Pass. ⟪वृष्यते⟫
+Kaus. ⟪वर्षयति⟫
+PPP ⟪वृष्ट⟫
+Inf. ⟪वर्षितुम्⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+Abb.: ⟪महामेघो वर्षिष्यति⟫
+Sự đến của gió mùa, Bangalore  ಬೆಂಗಳೂರು
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ Adv.: đúng, chân thật, theo cách thích hợp ; hoàn toàn, đầy đủ
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ m.: mặt trời ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : một lớp thần linh nhất định
 
 ::: media
 ![](/images/lekt5005.jpg)
 Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: mỗi, tất cả
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+Biến tố như ⟪यद्⟫ (ngoại lệ: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | Số ít:br⟪एकवचनम्⟫ || || Số nhiều:br⟪बहुवचनम्⟫ || ||
+| | **Giống đực:br⟪पुंस्⟫** | **Giống trung:br⟪नपुंसकम्⟫** | **Giống cái:br⟪स्त्री⟫** | **Giống đực:br⟪पुंस्⟫** | **Giống trung:br⟪नपुंसकम्⟫** | **Giống cái:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : Particle, nhấn mạnh từ đứng trước: quả thực, đích thị, nhưng
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Adv.: ở đây, ở đây trên mặt đất, đến đây; bây giờ. Trước danh từ ở cách Locative (⟪षष्ठी⟫) đồng nghĩa với ⟪अस्मिन्⟫, ⟪अस्याम् कल्प⟫ m: quy định, phong tục, nghi lễ; [Kỳ thời gian](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (từ ⟪कॢप्⟫)
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :đẹp
 
 ::: media
 ![](/images/lekt5003.webp)
 Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- : là thành phần đầu của từ ghép: tồi tệ
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+Abb.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : nhìn thấy
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+không được sử dụng trong các thì khác
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : kể, cho là, gọi tên
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.: nơi, chỗ, đất nước, vùng
 
-## Lektion 51
-
-
+## Bài 51
 
 
 
 
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
+
+
+
+
+
+
+
+
+⟪अजिन⟫ n.: da linh dương, đặc biệt là da của loài linh dương đen (linh dương hươu dê : _Antilope cervicapra_ L. ). Ban đầu phân bố khắp tiểu lục địa Ấn Độ từ Punjab và Sind đến Bengal và từ Nepal đến Kanyakumari (Mũi Comorin) (Tiếng Tamil: கன்னியாகுமரி) Xem:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)
 Abb.:
-(Bildquelle: [Details](/licenses#lekt5105))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: Gast
+⟪अतिथि⟫ m.: khách
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
+⟪अभ्यन्तर⟫ 3: ở bên trong, gần nhất; m. thành viên gần gũi nhất, người bản địa
 
-⟪अरण्य⟫ n.: Wildnis, Wald
+⟪अरण्य⟫ n.: hoang dã, rừng
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
+⟪ऋतु⟫ m.: chu kỳ định kỳ, mùa trong năm, khoảng thời gian, kinh nguyệt, thời điểm người phụ nữ sẵn sàng thụ thai và có quyền quan hệ tình dục với chồng.
 
-::: indent
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
+::: note-box
+Xem ⟪ऋतु⟫ tại Manu III, 45-48: theo đó ⟪ऋतु⟫ kéo dài 16 ngày (theo bản dịch thay thế: 20 ngày) kể từ khi bắt đầu kinh nguyệt, trong bốn ngày đầu sau khi bắt đầu có kinh thì quan hệ tình dục bị cấm (theo bản dịch thay thế: trong tám ngày đầu (4 + 4)), cũng như vào ngày thứ 11. (tương ứng 15.) và ngày thứ 13. (tương ứng 18.). Vào các ngày chẵn, người phụ nữ thụ thai con trai; vào các ngày lẻ, thụ thai con gái. Đối với phần tiếp theo, người ta giả định một ⟪ऋतु⟫ tổng cộng 16 ngày (không phải bản dịch thay thế), giống như hầu hết các chú giải của người bản địa, và đó chính là quan điểm thống trị.
 
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+Vì rụng trứng xảy ra 14 ngày trước khi bắt đầu kinh nguyệt, nên với quy định về thời kỳ dễ thụ thai này, khả năng sinh sản gần như được "đảm bảo" đối với khoảng cách giữa các kỳ kinh từ 19 đến 30 ngày. Những ngày bị cấm (ngày thứ 11 và 13) cải thiện xác suất quan hệ tình dục vào ngày thứ 12 và 14, tức là tăng xác suất thụ thai khi chu kỳ kéo dài 28 ngày (thời gian sống của tinh trùng trong cơ thể phụ nữ khoảng 3 ngày). Các quy định này có thể được coi là việc áp dụng tích cực phương pháp Knaus-Ogino.
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106))
+Hình: ⟪ऋतुः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Adv.: tại một nơi
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
+⟪जटा⟫ f.: búi tóc (kiểu tóc của nhà khổ hạnh)
 
 ::: media
 ![](/images/lekt5107.webp)
-Abb.: ⟪जटा⟫
-⟪ऋषिकेश⟫
-(Bildquelle: [Details](/licenses#lekt5107))
+Abb.: ⟪जटा ऋषिकेश⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3: bằng nhau, so sánh được (⟪तृतीयया⟫)
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): dreifältig, aus drei Teilen bestehend
+⟪तरय⟫ 3 (f.: ⟪तरयी⟫): ba lần, gồm ba phần
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): tödlich, todbringend, lebenslänglich
+⟪प्राणान्तिक⟫ 3 (f.: -ī): gây chết người, mang lại cái chết, chung thân
 
-⟪बाह्य⟫ 3: ausserhalb, draussen befindlich, fremd
+⟪बाह्य⟫ 3: ở bên ngoài, ở ngoài, lạ
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise
+⟪भिक्षा⟫ f.: đồ ăn xin, thức ăn khất thực
 
-⟪मार्यादा⟫ f.: Grenze
+⟪मार्यादा⟫ f.: biên giới, ranh giới
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlassen, übriglassen
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : bỏ lại, để lại
 
 ::: indent
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
@@ -4178,105 +4446,104 @@ Kaus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : unterscheiden
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : phân biệt
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), besser sein als (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), der beste sein unter (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+Pass. ⟪विशिष्यते⟫ : phân biệt với (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), tốt hơn (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), tốt nhất trong (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse
+⟪समान⟫ 3: cùng loại, bằng nhau, tương tự ; m.: bạn đồng niên
 
-⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden:
+⟪स्व⟫ 3: của riêng, sở hữu (của tôi, của bạn v.v.). Được biến đổi như ⟪सर्व⟫. Ở cách Abl.Lok.sg.m.n và Nom.pl.m nó cũng có thể được biến đổi như ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ :sig[⟪स्⟫]⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
+Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
+Lok.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
+Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
 :::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : mắng nhiếc, chê trách
 
 ::: indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (zubereitetes) Fleisch
+⟪पिशित⟫ n.: (thịt đã chế biến) thịt
 
 ::: media
 ![](/images/lekt5108.webp)
 Abb.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Bildquelle: [Details](/licenses#lekt5108))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: Darbringung, Opfer, Geschenk
+⟪उपहार⟫ m.: sự dâng cúng, lễ tế, món quà
 
-⟪मधु⟫ n.: Honig, Süsstrank, Met (Honigwein)
+⟪मधु⟫ n.: mật ong, thức uống ngọt, rượu mật (rượu mật ong)
 
 ::: media
 ![](/images/lekt5109.webp)
 Abb.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Bildquelle: [Details](/licenses#lekt5109))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: Fleisch
+⟪मांस⟫ n.: thịt
 
-⟪मृगया⟫ f.: Jagd
+⟪मृगया⟫ f.: săn bắn
 
 ::: media
 ![](/images/lekt5110.webp)
 Abb.: ⟪मृगया⟫
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Bildquelle: [Details](/licenses#lekt5110))
+Săn bắn với ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5110))
 :::
-⟪शिवा⟫ f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
+⟪शिवा⟫ f.: (giống cái) chó rừng (chó rừng vàng = _Canis aureus_)
 
 ::: media
 ![](/images/lekt5111.webp)
 Abb.: ⟪शिवा⟫
-_Canis aureus_, Kalatop Khajjiar Sanctuary
-(Bildquelle: [Details](/licenses#lekt5111))
+_Canis aureus_, Khu bảo tồn Kalatop Khajjiar
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5111))
 :::
-⟪रुत⟫ n.: Geschrei
+⟪रुत⟫ n.: tiếng gào thét
 
-⟪कौशिक⟫ m.: Eule
+⟪कौशिक⟫ m.: cú mèo
 
 ::: media
 ![](/images/lekt5112.webp)
 Abb.: ⟪कौशिकः⟫
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Bildquelle: [Details](/licenses#lekt5112))
+Cú mèo Brahma (_Athene brama_), Mahesana = મહેસાણા
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5112))
 :::
-⟪शकुनि⟫ m.: Vogel
+⟪शकुनि⟫ m.: chim
 
-⟪श्वन्⟫ m.: Hund
+⟪श्वन्⟫ m.: chó
 
 ::: indent
-starker Stamm ⟪श्वान्⟫
-schwacher Stamm vor Vokal ⟪सुन्⟫
-schwacher Stamm vor Konsonant ⟪श्व⟫
+gốc mạnh ⟪श्वान्⟫
+gốc yếu trước nguyên âm ⟪सुन्⟫
+gốc yếu trước phụ âm ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
+Abb.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt5113))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5113))
 :::
-⟪परिचित⟫ 3: vertraut, bekannt
+⟪परिचित⟫ 3: quen thuộc, đã biết
 
-⟪अटवी⟫ f.: Wald
+⟪अटवी⟫ f.: rừng
 
-⟪शून्य⟫ 3: leer, öde
+⟪शून्य⟫ 3: trống rỗng, hoang vu
 
-⟪आपान⟫(⟪क⟫) n.: Zechgelage
+⟪आपान⟫(⟪क⟫) n.: tiệc tùng
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम्⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt5114))
+Abb.: ⟪आपानकम् जोधपुर⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: roh, grausam
+⟪क्रूर⟫ 3: thô bạo, tàn ác
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bestreichen, beschmieren
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bôi, phết
 
 ::: indent
 Perf. II ⟪दिदेह⟫
@@ -4285,77 +4552,75 @@ Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: độc tố
 
 ::: media
 ![](/images/lekt5115.webp)
 Abb.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5115))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: Schlange
+⟪भुजंग⟫ m.: rắn
 
 ::: media
 ![](/images/lekt5116.webp)
 Abb.: ⟪भुजंगः⟫
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5116))
+Rắn lục chuỗi (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: Pfeil
+⟪सायक⟫ m.: mũi tên
 
-⟪उत्साद⟫ m.: Zugrundegehen
+⟪उत्साद⟫ m.: sự hủy diệt, sự sụp đổ
 
-⟪कलत्र⟫ **Neutrum**: Ehefrau, Weibchen
+⟪कलत्र⟫ **Trung tính**: vợ, con cái (giống đực)
 
-⟪बन्दी⟫ f.: Gefangene, Raub
+⟪बन्दी⟫ f.: tù binh, chiến lợi phẩm
 
-⟪योषित्⟫ f.: junge Frau, Mädchen
+⟪योषित्⟫ f.: phụ nữ trẻ, cô gái
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: Blut
+⟪रुधिर⟫ n.: máu
 
-⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
+⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut
+⟪बलि⟫ m.:  thuế, lễ vật, cống phẩm
 
-⟪मणि⟫ m.: Juwel
+⟪मणि⟫ m.: đá quý
 
 ::: media
 ![](/images/lekt5118.webp)
 Abb.: ⟪मणिः⟫
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Bildquelle: [Details](/licenses#lekt5118))
+Hope Diamond từ Guntur = గుంటూరు, hiện nay tại Bảo tàng Lịch sử Tự nhiên Smithsonian, Washington DC
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5118))
 :::
-⟪वन⟫ n.: Wald
+⟪वन⟫ n.: rừng
 
-⟪मद⟫ m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: còn gọi là "mùi hăng" của voi đực (trong trạng thái [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
 Abb.: ⟪मदः⟫
-(Bildquelle: [Details](/licenses#lekt5117))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: còn gọi là: màu sắc, màu đỏ
 
-⟪कालन⟫ n.: Wald
+⟪कालन⟫ n.: rừng
 
-⟪खन्⟫ 1U ⟪खनति⟫ : graben
+⟪खन्⟫ 1U ⟪खनति⟫ : đào bới
 
 ::: indent
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
+Absol ⟪खनित्वा । खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, nachdenken
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : suy nghĩ, trăn trở
 
-⟪शबर⟫ .:  Eigenname eines nichtarischen Stammes
+⟪शबर⟫ .:  tên riêng của một bộ tộc không thuộc Ấn-Arya
 
-## Lektion 52
-
-
+## Bài học 52
 
 
 
@@ -4363,78 +4628,85 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 
 
-⟪अखिल⟫ 3: lückenlos, ganz
 
-⟪निखिल⟫ 3: vollständig, ganz
+
+
+
+
+
+
+
+⟪अखिल⟫ 3: không khoảng trống, trọn vẹn
+
+⟪निखिल⟫ 3: đầy đủ, trọn vẹn
 
 ::: indent
-von:
+từ:
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: ruộng bỏ hoang, đất cằn
 :::
 ::: media
 ![](/images/lekt5210.webp)
 Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ Adv.: bên trong, ở nội bộ ; Hậu giới từ với cách Sở hữu cách. Cách vị trí (⟪षष्टी⟫, ⟪सप्तमी⟫): bên trong, ở giữa ; Hậu giới từ với cách Sở hữu cách. Cách tách biệt (⟪षष्ठी⟫, ⟪पञ्चमी⟫): từ ... ra
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 3: lẫn nhau, tương hỗ
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : thất bại
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+PPP ⟪विपरीत⟫ 3: sai lệch, sai lầm
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3: ba
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **Giống đực:br⟪पुंस्⟫** | **Giống trung tính:br⟪नपुंसकम्⟫** | **Giống cái:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. Cách chủ ngữ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Cách tân ngữ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Cách công cụ:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. Cách dữ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Cách cách ly:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Cách sở hữu:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Cách địa điểm:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ Giới từ và tiền tố đối với danh từ và động từ: ra xa, đi mất, ra ngoài, nổi lên, từ, rời khỏi, không có - bởi
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : ép, hành hạ ; bức bách, bao vây, quấy rối
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Hình: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3: (Suy biến như ⟪सर्व⟫) ở xa, lạ lùng, cao hơn (⟪पञ्चम्या⟫), cực kỳ, tối cao ; khác, lạ lùng, thù địch ; n.: người lạ
 
 ::: indent
-davon:
+từ đó:
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ Trạng từ: ở mức độ cao, về sau, muộn hơn, nhưng, tuy nhiên
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ Giới từ (⟪द्वितीयया⟫): đến - hướng tới, về phía, liên quan đến, đối với
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 3: chính yếu, tốt nhất ; n.: điều quan trọng nhất
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+Hình: ⟪प्रधानः मुंबई⟫
+(Nguồn ảnh: [Chi tiết](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ n.: tham lam, dục vọng
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ m.: phần, phân đoạn, đoàn
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: nhóm ba (ví dụ: ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; hoặc: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; hoặc: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : wollen, gebieten, verlangen nach
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : muốn, ra lệnh, khao khát
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -4445,38 +4717,38 @@ PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : thổi, phả
 
 ::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+từ đó:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: gió
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschliessen
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : xoay, quay ; ngăn cản, loại trừ
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
+Kaus. ⟪वर्जयति⟫ : loại bỏ
+Kaus. PPP ⟪वर्जित⟫ : mất đi, không còn
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ m.: hoạt động, lối sống, giao tiếp, buôn bán, công việc, thương mại, (tố tụng)
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ n.: phong tục, thói quen, bản tính, tính cách, thói tốt = đạo đức
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ m.: mặt trời
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : phục vụ ai đó (⟪द्वितीया⟫), hầu hạ, tôn kính, yêu mến
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -4487,448 +4759,76 @@ PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-davon:
+từ đó:
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ f.: phục vụ, hầu hạ
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 3: vững chắc, kiên định, liên tục, bền bỉ
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: am hiểu về (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ m.: canh đêm (mỗi canh ba giờ)
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
-
-⟪अमुत्र⟫ Adv.: dort, dorthin
-
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
-
-::: indent
-Perf. IIIa ⟪चुच्युवे⟫
-Fut. ⟪च्योष्यते⟫
-Pass. ⟪च्यूयते⟫
-Kaus. ⟪च्यावयति⟫
-PPP ⟪च्युत⟫
+⟪परंपरा⟫ f.: chuỗi liên tục
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : nhận biết, cảm nhận, tri giác, trải nghiệm
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ n.: bánh xe
 
 ::: media
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+(Nguồn ảnh: [Details](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ f.: cây chuối (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+(Nguồn ảnh: [Details](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ m.n.: lõi, tủy, tinh túy, bản chất
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 3: thiên giới, thần thánh
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: tốt nhất
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ m.: gương
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ m.n.: bụi bẩn, vết nhơ
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+Abb.: ⟪मलम् मुंबई⟫
+(Nguồn ảnh: [Details](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ n.: thiên đường của Indra
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ m.: cái ác được nhân cách hóa, sự cám dỗ / thao túng được nhân cách hóa, ma quỷ
 
 ::: media
 ![](/images/lekt5217.webp)
 Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+Amaravati = అమరావతి, thế kỷ 2 sau Công nguyên
+(Nguồn ảnh: [Details](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 3: người muốn nhận biết hoàn toàn
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : bảo vệ, cứu rỗi
 
 ::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-#### Quellen
-
-**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
-
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
-
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
-
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildquelle: Wikipedia, Public domain]
-
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
-
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
-
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
-
-**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
-
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
-
-**lekt1602**: ⟪अध्यापनम्⟫ "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt1603**: ⟪अहिंसा⟫ "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
-
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt1701**: ⟪योगासनम्⟫ [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt1702**: ⟪दोग्धि⟫ [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
-
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2103**: ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2105**: ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2202**: ⟪कामदेवः⟫ , 19. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2405**: ⟪अलंकारः⟫ [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Bildquelle: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2408**: ⟪आख्यानम्⟫ "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
-
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Bildquelle: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Bildquelle: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2704**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2705**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ Bei Ahmedabad [Bildquelle: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-
-**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3002**: ⟪ज्ञातयः⟫ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3004**: ⟪प्रिया⟫ [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2904**: ⟪पुनर्भवः⟫ [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
-**lekt3101**: ⟪योगः⟫ [Bildquelle: http://www.flickr.com/photos/wricontest/294029791/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3102**: ⟪व्यञ्जनम्⟫ Vorbereitung zum Kathakali-Tanz = കഥകളി, Kochi = കൊച്ചി [Bildquelle: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3103**: Aus einem ⟪प्रज्ञापारमिता⟫-Manuskript [Bildquelle: zeno.org. -- gemeinfrei]
-
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
-
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3204**: ⟪उपलाः⟫ "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
-
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3306**: ⟪दानम्⟫ "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
-
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3308**: ⟪घृतम्⟫ [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
-
-**lekt3406**: ⟪सस्यम्⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = die 100.000 (⟪लक्ष⟫ m.n.) Inseln (Unionsterritorium) [Bildquelle: CIA. Public domain]
-
-**lekt3403**: ⟪तिलाः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt3404**: ⟪तिलाः⟫ [Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense]
-
-**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿಬ, Amritsar = ਅੰਮ੍ਰਿਤසር [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3401**: ⟪ऋषभः⟫ Chamundi-Hills [Bildquelle: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3502**: ⟪क्रामन्ति⟫ [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
-
-**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Bildquelle: Payer]
-
-**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
-
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
-
-**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
-
-**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
-
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4001**: ⟪विष्णोर्दशावताराः⟫ Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4105**: ⟪भुजङ्गः⟫ Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
-
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Bildquelle: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Bildquelle: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4306**: ⟪वत्सः⟫ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Bildquelle: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4307**: ⟪तोलन्ति⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Bildquelle: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Bildquelle: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Bildquelle: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Bildquelle: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
-
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4803**: ⟪तन्त्री⟫ Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Self-help group (SHG)], Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4805**: ⟪कुमारः⟫ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Bildquelle: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Bildquelle: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4809**: ⟪जाया⟫ [Bild: Payer]
-
-**lekt4901**: ⟪कुलूहलम्⟫ [Bildquelle: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
-
-**lekt4903**: ⟪विहंगः⟫ [Bildquelle: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4909**: ⟪पञ्जरम्⟫ Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht. Mysore. [Bildquelle: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰಿತਸਰ [Bildquelle: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Bildquelle: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5005**: ⟪आदित्यः⟫ [Bildquelle: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5003**: ⟪कल्याणी⟫ [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5105**: ⟪कृष्णमृगः⟫ Hirschziegenantilope -- _Antilope cervicapra_ L., Bock [Bildquelle: Wikipedia, public domain]
-
-**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
-
-**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Bildquelle: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Bildquelle: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
-
-**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Quelle von Bild und Text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5116**: ⟪भुजङ्गः⟫ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5118**: ⟪मणिः⟫ Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
-
-**lekt5117**: ⟪मदः⟫ [Bildquelle: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Zugriff am 2009-01-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
 

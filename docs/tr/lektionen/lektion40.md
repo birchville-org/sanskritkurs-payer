@@ -373,11 +373,18 @@ Periphrastik mükemmel şu şekilde oluşturulur:
 
 ::: grammar-box
 Bir sonlu fiil (çekimli fiil), edeni (⟪कर्तृ⟫) de içerdiğinden, sonlu fiil içeren pasif olmayan cümlelerde "ben", "biz" kelimelerinin bir şahıs zamiri ile ayrıca belirtilmesine gerek yoktur
+
+*   1.kş.P ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
+:::
+## 40.4. Birinci kişi (⟪तृतीयः⟫) ile ilgili sözdizimsel konular
+
+::: grammar-box
+Bir sonlu fiil (çekimli fiil), edeni (⟪कर्तृ⟫) de içerdiğinden, sonlu fiil içeren pasif olmayan cümlelerde "ben", "biz" kelimelerinin bir şahıs zamiri ile ayrıca belirtilmesine gerek yoktur.
 :::
 ## 40.5. Birinci tekil ve çoğul şahıs zamirleri (⟪पुरुषार्थकसर्वनाम⟫)
 
 ::: grammar-box
-Şahıs zamirinin (kişisel adılın) biçimi tüm cinsiyetler için aynıdır.
+Şahıs zamirinin (kişisel zarfın) biçimi tüm cinsiyetler için aynıdır.
 :::
 ::: grammar-box
 
@@ -395,54 +402,54 @@ Bir sonlu fiil (çekimli fiil), edeni (⟪कर्तृ⟫) de içerdiğinden,
 ::: grammar-box
 Yukarıda ikinci sırada yer alan daha kısa formlar (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) asla bir cümlenin veya şiirin başında kullanılamaz.
 
-⟪च⟫, ⟪वा⟫, ⟪एव⟫ edatlarından önce bu tür adlandırılan enklitik formlar da kullanılamaz:
+⟪च⟫, ⟪वा⟫, ⟪एव⟫ edatlarından önce bu tür enklitik formlar da kullanılamaz:
 
-yalnızca: ... ⟪मां च⟫ ... "ve beni"
+sadece: ... ⟪मां च⟫ ... "ve beni"
 :::
 ::: grammar-box
-Şahıs zamirlerinin tamlayan hali (⟪षष्ठी⟫) iyelik bildiren adıl olarak kullanılır:
+Şahıs zamirlerinin tamlayan hali (⟪षष्ठी⟫) bir iyelik zarfı olarak kullanılır:
 
 ⟪मम । मे⟫ = "benim"
 
 ⟪अस्माकम् । नस्⟫ = "bizim"
 :::
 ::: grammar-box
-Bu zamirler için bileşik kelimelerin ön elemanı olarak şu kökler kullanılır:
+Bu zamirler için bileşik kelimelerin ön kısmında şu kökler bulunur:
 
-*   tk. ⟪मद्⟫
-*   çk. ⟪अस्मद्⟫
+*   tg. ⟪मद्⟫
+*   çoğ. ⟪अस्मद्⟫
 
 z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
 :::
-## 40.6. Kelime Listesi
+## 40.6. Wortliste
 
-⟪पात्र⟫ n.: Onurlu, Üstat, Yakışıklı
+⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
-⟪मेधा⟫ f.: Bilgelik, Akıl, Düşünce
+⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
 
-⟪पुस्तक⟫ m.n.: El Yazması, Kitap
+⟪पुस्तक⟫ m.n.: el yazması, kitap
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : doğru düzgün olmak, uymak (Lok.) ; şekillenmek, oluşmak; karar vermek, razı olmak (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : uygun düzende olmak, uygun düşmek (lokatif); şekillenmek, oluşmak; karar vermek, boyun eğmek (datif)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ isteğe bağlı ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : düzenlemek, sağlamak, hayalinde şekillendirmek, sanmak  
+Kaus. ⟪कल्पयति⟫ : düzene koymak, yaratmak, hayalinde canlandırmak, kurmak  
 PPP ⟪कॢप्त⟫  
 Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-bundan:
+bunlardan:
 
-⟪कल्पना⟫ f.: Düşünce içinde şekillendirme, gerçekte mevcut olmayan bir şeyin kabul edilmesi, Fiksyon
+⟪कल्पना⟫ f.: Zihinde canlandırma, gerçekte var olmayan bir şeyi varsayma, kurgu
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (farklı şekilde hayal etmek =) sorgulamak, şüphelenmek
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (farklı tasavvur etmek =) sorgulamak, şüphe duymak
 
 ::: indent
-bundan:
+bunlardan:
 
-⟪विक्ल्प⟫ m.: Alternatif, şüphe
+⟪विकल्प⟫ m.: Alternatif, şüphe
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : vurmak
+⟪तुद्⟫ 6U ⟪तुदति⟫ : vurmak, çarpmak
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -452,7 +459,7 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ : geçmek, aşmak, birinden kurtulmak (Akk. = birini geçmek)
+⟪तॄ⟫ 1P ⟪तरति⟫ : karşıya geçmek, aşmak, birinden kurtulmak (akkusatif = birini aşmak)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
@@ -462,48 +469,18 @@ Kaus. ⟪तारयति⟫
 PPP ⟪तीर्ण⟫  
 Inf. ⟪तरितुम् । तरीतुम्⟫
 
-bundan:
+bunlardan:
 
-⟪तीर्थ⟫ n.: geçit, kutsal yıkama yeri, hac merkezi
+⟪तीर्थ⟫ n.: Geçit, kutsal yıkanma yeri, hac yeri
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे तीर्थम्⟫
-(Bildquelle: [Details](/tr/licenses#lekt4003))
+Görsel: ⟪हरिद्वारे तीर्थम्⟫
+(Görsel kaynağı: [Details](/tr/licenses#lekt4003))
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): geçit yapan (acıdan kurtaran) = Jain 24 öğretmeni
-:::
-::: media
-![lekt4002.jpg](/images/lekt4002.webp)
-Resm.: ⟪तीर्थङ्करः⟫
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4002))
-:::
-⟪अव⟫ Önekin: aşağı, aşağıya, uzaklaş-, -dan ayrıl-
-
-⟪तॄ⟫ + ⟪अव⟫ 1.Kş. ⟪अवतरति⟫ : aşağı inmek
-
-::: indent
-bunlardan:
-
-⟪अवतार⟫ er.: (Aşağı inen, iniş) Bir tanrının tezahürü, özellikle Viṣṇu'nun 10 tezahürü (bkz. Basham, Harika S. 304 - 309)
-:::
-::: media
-![lekt4001.jpg](/images/lekt4001.webp)
-Resm.: ⟪विष्णोर्दशावताराः⟫
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4001))
-:::
-⟪स्वप्⟫ 2.Kş. ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : uyumak, yatmak
-
-::: indent
-İmperf. ⟪अस्वपीत् । अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (\*svp-ya-te'den)  
-Kaus. ⟪स्वापयति⟫  
-PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫
+⟪तीर्थङ्कर⟫ m. (kaynak: ⟪तीर्थम्⟫+ ⟪कृ⟫): Geçit açan (acının ötesine geçiren) = Jainlerin 24 öğretmeni
 
 bunlardan:
 

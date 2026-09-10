@@ -1,17 +1,18 @@
 ---
-title: "Exercise 39"
+title: "[Vježba 39]"
 uebung_id: 39
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 39
+# Vježba 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Formirajte za sljedeće glagolske oblike forme prve osobe koje odgovaraju tom glagolskom obliku u broju, vremenu, načinu (indikativ, optativ) i načinu izražavanja (P, Ā, pasiv):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 3. osoba | 1. osoba |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -105,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Fig.: ⟪आगारे सीदामः⟫
+(Image source: [Details](/licenses#uebung064))
 :::
 

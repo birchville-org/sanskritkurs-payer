@@ -503,7 +503,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 **Die Indiërs onderskei tussen:**
 
 *   **⟪वृत्त⟫ n.:** meter waarin die aantal lettergrepe (⟪अक्षर⟫) vas is
-*   **⟪⟨DEVA_6⟫⟫ v.:** metrie waarin die som van die metriese eenhede van lengte (⟪⟨DEVA_7⟫⟫) (morae) vas is (meer hieroor later)
+*   **⟪जाति⟫ v.:** metrie waarin die som van die metriese eenhede van lengte (⟪मात्रा⟫) (morae) vas is (meer hieroor later)
 **In die geval van meter waar die aantal lettergrepe vas is (⟪वृत्त⟫), kan 'n verdere onderskeid gemaak word:**
 
 *   Meter waarin die aantal lettergrepe vas is, maar die hoeveelheid van hierdie lettergrepe is slegs gedeeltelik vas

@@ -1,475 +1,431 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Bài 37"
+subtitle: "Trạng từ (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 37
+# Bài 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Trạng từ (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet
+Trong tiếng Phạn, trạng từ được hình thành
 
-1.  durch Kasusformen von Nomina und Pronomina
-2.  mit Hilfe besonderer Suffixe und Endungen
+1. bằng cách sử dụng các dạng cách của danh từ và đại từ
+2. với sự trợ giúp của các hậu tố và kết thúc đặc biệt
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
+Trong trường hợp thứ nhất, ranh giới giữa cách sống động và trạng từ là không rõ ràng. Điều này bao gồm các trường hợp đặc biệt của các trạng từ, vốn là những dạng cách cổ xưa đã bị cứng lại, trong khi trong hệ thống biến tố, các dạng khác được sử dụng hoặc danh từ tương ứng không còn được dùng như danh từ nữa.
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. Cách sử dụng trạng ngữ của các dạng cách
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
-
-::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   in welcher Weise?
-*   wie lange?
-*   wohin?
-*   u. ä.
-
-Adverbial gebraucht werden kann der Akkusativ:
-
-*   von Substantiven  
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäss, nach Wunsch"
-⟪अर्थम्⟫ "wegen"  
-:::
-
-*   von Adjektiven im Neutrum  
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"  
-:::
-
-*   von Pronomina im Neutrum  
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt"
-:::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.1. Cách đối tượng (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen:
+Cách đối tượng (⟪द्वितीया⟫) có thể được sử dụng với chức năng trạng ngữ để trả lời các câu hỏi:
 
-*   wodurch?
-*   womit?
-*   u. ä.
+*   Bằng cách nào?
+*   Trong bao lâu?
+*   Đi đâu?
+*   v.v.
 
-Adverbial gebraucht werden kann der Instrumentalis:
+Cách đối tượng có thể được sử dụng với chức năng trạng ngữ:
 
-*   von Substantiven  
-    Beispiele:  
+*   Từ danh từ  
+Ví dụ:  
+⟪कामम्⟫ "theo ý muốn, theo mong ước"  
+⟪अर्थम्⟫ "vì"
+
+*   Từ tính từ ở giống trung  
+Ví dụ:  
+⟪सुखम्⟫ "dễ dàng, hạnh phúc"  
+⟪नित्यम्⟫ "luôn luôn"  
+⟪साधु⟫ "đúng đắn, tốt"
+
+*   Từ đại từ ở giống trung  
+Ví dụ:  
+⟪तद्⟫ "khi đó, vì vậy"  
+⟪यद्⟫ "nếu, rằng"  
+⟪एतद्⟫ "như vậy, ở đây, bây giờ"
 :::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")  
-:::
-
-*   von Adjektiven, oft auch in der Pluralform  
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
-:::
-### 37.2.3. Dativ (⟪चतुर्थी⟫)
+### 37.2.2. Cách dụng cụ (⟪तृतीया⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Cách dụng cụ (⟪तृतीया⟫) có thể được sử dụng với chức năng trạng ngữ để trả lời các câu hỏi:
 
-*   zu welchem Zweck?
-*   u. ä.
+*   Bằng cái gì?
+*   Với cái gì?
+*   v.v.
 
-Beispiel:
+Cách dụng cụ có thể được sử dụng với chức năng trạng ngữ:
+
+*   Từ danh từ  
+Ví dụ:  
+⟪अर्थेन⟫ "vì"  
+⟪क्षणेन⟫ "ngay lúc đó, lập tức" (từ ⟪क्षण⟫ giống đực "khoảnh khắc")
+
+*   Từ tính từ, thường cũng ở dạng số nhiều  
+Ví dụ:  
+⟪दूरेण⟫ "xa, từ xa" (liên quan đến ⟪दूर⟫ 3 "xa, cách xa")  
+⟪उच्चैस्⟫ "cao, lớn" (liên quan đến ⟪उच्च⟫ 3 "cao, nâng lên, lớn, cao vút (về giọng nói)")
 :::
-::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen"
-:::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.3. Cách tặng (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen:
+Hiếm khi cách tặng (⟪चतुर्थी⟫) được dùng trạng ngữ cho các câu hỏi:
 
-*   warum?
-*   aufgrund wessen?
-*   woher?
-*   u. ä.
+*   Với mục đích gì?
+*   v.v.
 
-Adverbial gebraucht werden kann der Ablativ:
-
-*   von Substantiven  
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"  
-
-*   von Adjektiven  
-    z.B. ⟪दूरात्⟫ "von fern"  
-
-*   von Pronomina  
-    Beispiele:  
+Ví dụ:
 :::
 ::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet"
+⟪अर्थाय⟫ "với mục đích của, vì ..."
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+### 37.2.4. Cách tách (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?"
+Cách tách (⟪पञ्चमी⟫) có thể được dùng trạng ngữ cho các câu hỏi:
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
+*   Tại sao?
+*   Dựa vào ai/cái gì?
+*   Từ đâu đến?
+*   v.v.
+
+Cách tách có thể được dùng trạng ngữ:
+
+*   Từ danh từ  
+Ví dụ. ⟪बलात्⟫ "bằng vũ lực, với sức mạnh"  
+
+*   Từ tính từ  
+Ví dụ. ⟪दूरात्⟫ "từ xa"  
+
+*   Từ đại từ  
+Ví dụ:  
+⟪कस्मात्⟫ "tại sao"  
+⟪अकस्मात्⟫ "bất ngờ"
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
+### 37.2.5. Cách sở hữu (⟪षष्ठी⟫)
 
 ::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen:
+Hiếm khi cách sở hữu (⟪षष्ठी⟫) được dùng trạng ngữ cho câu hỏi "sau bao lâu?"
 
-*   wo?
-*   unter welchen Umständen?
-*   u. ä.
+Ví dụ. ⟪चिरस्य⟫ "sau một thời gian dài" (đối với ⟪चिर⟫ 3 "dài (thời gian)")
+:::
+### 37.2.6. Cách địa (⟪सप्तमी⟫)
 
-Beispiele:
+::: grammar-box
+Cách địa (⟪सप्तमी⟫) có thể được dùng trạng ngữ cho các câu hỏi:
+
+*   Ở đâu?
+*   Trong hoàn cảnh nào?
+*   v.v.
+
+Ví dụ:
 :::
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern"
+\-⟪अर्थे⟫ "vì"  
+\-⟪कृते⟫ "vì lợi ích của"  
+⟪दूरे⟫ "xa"
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+## 37.3. Cách dùng trạng ngữ của các dạng cách thức không còn phổ biến
 
-Beispiele:
+Ví dụ:
 ::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>)
+⟪जातु⟫ "nói chung" (ban đầu là "từ khi sinh ra, theo bản tính", cách đối số số ít trung tính của ⟪जातु⟫ \<không còn được dùng như danh từ\>)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
+⟪तूष्णीम्⟫ "im lặng" (cách đối số số ít của một ⟪तूष्णी⟫ cái "sự im lặng" không còn phổ biến)
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig")
+⟪एवम्⟫ "như vậy" (đối với một gốc đại từ khác đã bị mất ⟪एव⟫ "một, duy nhất")
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Hình thành trạng từ với các hậu tố trạng ngữ
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen
+Từ các gốc đại từ ⟪तद्⟫, ⟪इदम्⟫ hoặc ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ hoặc ⟪कु⟫, người ta có thể tạo ra các trạng từ đại từ tương ứng bằng cách sử dụng các hậu tố trạng ngữ
 
-*   \-⟪तस्⟫ (Ablativ)
-*   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Art und Weise)
-*   \-⟪थम्⟫ (Art und Weise)
-*   \-⟪दा⟫ (Zeit)
+*   \-⟪तस्⟫ (Cách cách)
+*   \-⟪त्र⟫ (Tại cách)
+*   \-⟪था⟫ (Cách thức)
+*   \-⟪थम्⟫ (Cách thức)
+*   \-⟪दा⟫ (Thời gian)
 
-entsprechende Pronominaladverbien ableiten.
+để tạo thành các trạng từ đại từ tương ứng.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Hậu tố | Gốc đại từ | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Cách cách) | ⟪ततस्⟫ :brtừ đó, về điều đó, vì lý do đó | ⟪इतस्⟫ :br ⟪अतस्⟫ :brtừ đây, vì lý do này | ⟪यतस्⟫ :brtừ đâu, từ cái gì | ⟪कुतस्⟫ :brtừ đâu?, vì lý do gì? |
+| **-⟪त्र⟫** :br(Tại cách) | ⟪तत्र⟫ :brở đó, tại đó | ⟪अत्र⟫ :brở đây | ⟪यत्र⟫ :brở đâu | ⟪कुत्र⟫ :brở đâu? |
+| **-⟪था⟫** :br(Cách thức) | ⟪तथा⟫ :brnhư vậy | | ⟪यथा⟫ :brnhư thế nào | |
+| **-⟪थम्⟫** :br(Cách thức) | | | | ⟪कथम्⟫ :brnhư thế nào? |
+| **-⟪दा⟫** :br(Thời gian) | ⟪तदा⟫ :brkhi đó, lúc ấy | | ⟪यदा⟫ :brkhi (trong quá khứ) | ⟪कदा⟫ :brkhi nào? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?"
+Một trạng từ nghi vấn khác là: ⟪क्व⟫ "ở đâu?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701))
+Hình: ⟪क्व⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe**
+**Các hậu tố trạng ngữ khác**
 
-| Suffix | |
+| Hậu tố | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | có thể được gắn vào bất kỳ danh từ nào để diễn đạt "theo kiểu của, giống như":brvd. ⟪पुत्रवत्⟫ "như một người con" |
+| **-⟪तस्⟫** | gắn vào danh từ và đại từ. Thường mang nghĩa cách cách "từ đâu?", nhưng cũng có thể là "ở đâu?", "đi đến đâu?":brvd. ⟪आदितस्⟫ "từ đầu đến cuối" |
+| **-⟪धा⟫** | 1. Với các trạng từ số lượng mang nghĩa "-lần", "-dạng":brvd. ⟪द्विधा⟫ "hai lần":br2. mang nghĩa "theo cách thức này nọ":brvd. ⟪समधा⟫ "theo cách thức giống nhau" (liên quan đến ⟪सम⟫ 3 "giống nhau") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Các trạng từ hợp thành
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. Hợp thành có một trạng từ hoặc cách dùng như trạng ngữ làm phần hậu
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)"
+Ví dụ: ⟪सुचिरम्⟫ "rất lâu (thời gian)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. ⟪बहुव्रीहि⟫ được dùng như trạng ngữ
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied.
+Ví dụ: ⟪रक्षार्थम्⟫ "theo kiểu của ai đó, mà mục đích là bảo vệ, vì mục đích bảo vệ". Cũng có thể được xem thuộc về 5.1.: -⟪अर्थम्⟫ làm phần hậu trạng ngữ.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Hợp thành ⟪अव्ययीभाव⟫
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
+⟪अव्ययीभाव⟫ = "trở nên bất biến/không biến đổi"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
+Một ⟪अव्ययीभाव⟫ là một hợp thành trạng ngữ, trong đó phần tiền ngữ là một từ bất biến (hậu giới từ, hạt v.v.) và phần hậu ngữ là một danh từ nhận đuôi cách accusative số ít neuter.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+Khi phân tích hợp thành, phần tiền ngữ sẽ điều khiển phần hậu ngữ:
 
-Beispiele:
+Ví dụ:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "chống lại lửa"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "theo khả năng"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "về phía trước, đối diện"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied:
+Đặc biệt quan trọng là các ⟪अव्ययीभाव⟫ với ⟪यथा⟫ "như" làm phần tiền ngữ:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig"
+ví dụ ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "như mong muốn, theo ý muốn, tùy ý"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702))
+Hình: ⟪यथाशक्ति⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches
+## 37.6. Về cú pháp
 
 ::: grammar-box
-Bei den Verben
+Với các động từ
 
-*   ⟪अस्⟫ 2P "sein"
+*   ⟪अस्⟫ 2P "là"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
+thay vì một tính từ vị ngữ có thể đứng một trạng từ vị ngữ:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte"
+ví dụ ⟪तूष्णीं बभूव⟫ "ông ấy trở nên im lặng, ông ấy ngừng nói"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703))
+Hình: ⟪तूष्णीं बभूवुः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina
+## 37.7. Đại từ bất định
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
+Đại từ bất định (unbestimmte Fürwörter) được tạo thành bằng cách thêm vào
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+vào các cách của đại từ nghi vấn ⟪किम्⟫.
 
-z.B.
+Ví dụ:
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "một người nào đó, ai đó"  
+⟪कस्यचिद्⟫ = của ai đó
 :::
-## 37.8. Der Fragesatz
+## 37.8. Câu hỏi
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm."
+"Ai?, như thế nào?, cái gì?, tại sao? vì lý do gì?, tại sao?  
+Ai không hỏi thì sẽ ngu dốt."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist
+Phương châm của Sesamstrasse, một nguyên tắc tốt cho cuộc sống và việc học Sanskrit
 :::
-Siehe auch [Lektion 4](lektion04.md).
+Xem thêm [Bài 4](lektion04.md).
 
-Man muss unterscheiden
+Cần phân biệt
 
-*   Wortfragen (Ergänzungsfragen)
-*   Satzfragen
+*   Câu hỏi từ (Ergänzungsfragen)
+*   Câu hỏi mệnh đề
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
+Trong câu hỏi từ, người ta hỏi về một chủ thể (⟪कर्तृ⟫), một tân ngữ, một hành động, một hoàn cảnh v.v., ví dụ:
 
-*   wer kommt?
-*   was tut Rāma?
-*   wen hört er?
-*   wie spricht sie Sanskrit?
-*   wo ist die Mutter?
+*   ai đang đến?
+*   Rāma đang làm gì?
+*   anh ấy nghe ai?
+*   cô ấy nói tiếng Sanskrit như thế nào?
+*   mẹ ở đâu?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
+Trong câu hỏi mệnh đề, toàn bộ nội dung của câu được hỏi lại, ví dụ:
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es richtig, dass ... ?
+*   Rāma có đi Ofterdingen hôm nay không?
+*   Có đúng là ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Câu hỏi từ (Ergänzungsfragen)
 
 ::: grammar-box
-Schema:
+Sơ đồ:
 
-Fragepronomen/Frageadverb - Satz
+Đại từ nghi vấn/Trạng từ nghi vấn - Mệnh đề
 :::
-Beispiele:
+Ví dụ:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Ai đang đi đến làng?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?"
+⟪किं बाला अधीयीरन्⟫ = "Trẻ em nên học gì?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma?
+⟪क्व रामो वसति⟫ = Rāma sống ở đâu?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704))
+Hình: ⟪किं बाला अधीयीरन्⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. Câu hỏi
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist.
+Đôi khi chỉ dựa vào ngữ cảnh mới có thể nhận biết được một câu là câu hỏi.
 :::
 ::: grammar-box
-Schema I:
+Sơ đồ I:
 
-Verb - restlicher Satz
+Động từ - phần còn lại của câu
 :::
-Beispiel:
+Ví dụ:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ "Brahmachari sẽ đi đến một vị thầy?"
 :::
 ::: grammar-box
-Schema II:
+Sơ đồ II:
 
-Fragepartikel (meist am Satzanfang) - Satz
+Từ nghi vấn (thường ở đầu câu) - câu
 
-Die wichtigsten Fragepartikel sind:
+Các từ nghi vấn quan trọng nhất là:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten)
+*   ⟪किम्⟫ (thường gợi ý một câu trả lời phủ định)
 
 *   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen.
+
+Các từ này tương ứng với dấu chấm hỏi.
 :::
-Beispiel:
+Ví dụ:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ "Có đúng không?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ "Anh ta có thể sao?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Phải chăng Kṣatriya đã đánh bại kẻ thù?"
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫):
+Lưu ý: ⟪किम्⟫ ngoài nghĩa "cái gì?" còn có thể là từ nghi vấn với nghĩa "tại sao?, để làm gì?". Đặc biệt khi đi kèm với cách dụng cụ (⟪तृतीया⟩):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?"
+⟪किं क्रोधेन ।⟫ "Để làm gì cơn giận? Cơn giận có ích gì? Cơn giận để làm gì?"
 :::
-## 37.9. Wortliste
+## 37.9. Từ vựng
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
+⟪मूर्ख⟫ 3: ngu ngốc, đần độn,愚蠢 m. kẻ ngu
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+⟪मुनि⟫ m.: bậc hiền triết, (thiền) khổ hạnh
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: khổ hạnh sĩ thuộc dòng họ ⟪शाक्य⟫ (Kṣatriya từ ⟪कपिलवस्तु⟫) = Phật Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+Hình: ⟪शाक्यमुनिः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: ngày
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: cây
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+Hình: ⟪वृक्षः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ n.: miệng, mặt, phần trước, khởi đầu
 
-## 37.10. Übung
+## 37.10. Bài tập
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+A) Hãy trả lời các câu hỏi sau bằng tiếng Phạn, sử dụng các từ được chỉ định trong ngoặc. Dịch các câu hỏi sang ngôn ngữ đích.
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Ví dụ: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+A) Hãy trả lời các câu hỏi sau bằng tiếng Phạn, sử dụng các từ được chỉ định trong ngoặc. Dịch các câu hỏi sang ngôn ngữ đích.
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+Ví dụ: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
+
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707))
+Hình: ⟪कृष्णः बलरामश्च⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708))
+Hình: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
-
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
-
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
-
-B) Übersetzen Sie:
-
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
-
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
-
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus"
-
-::: indent
-1.  ⟪अतिमात्रम्⟫
-2.  ⟪अतिवसन्तम्⟫
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 :::
-2\. ⟪अधि⟫ "in"
-
-::: indent
-1.  ⟪अधिहरि⟫
-2.  ⟪अधिकेरलम्⟫
-:::
-::: media
-![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709))
-:::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach"
+3\. ⟪अनु⟫ "phù hợp, dọc theo, sau"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -477,18 +433,18 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne"
+4\. ⟪अप⟫ "không"
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ "hướng về"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich"
+6\. ⟪आ⟫ "kể từ, cho đến, bao gồm"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -496,27 +452,26 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710))
+Hình: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe"
+7\. ⟪उप⟫ "gần"
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711))
+Hình: ⟪उपवृक्षं सीदन्ति⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Bài tập ôn tập
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden:
+Dịch sang tiếng Sanskrit bằng cách chỉ sử dụng các dạng động từ của thì Perfect:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
+Một lần nọ, khi một cụ già đi đến một ngôi làng khác, ngài cảm thấy mệt mỏi trên đường. Vì vậy, để nghỉ ngơi, cụ đã đi đến chân một cây mít mọc bên cạnh. Trên cây này có những quả chín. Cụ già thấy thích những quả đó. Nhưng cụ không thể trèo lên cây và với lấy những quả ấy. May mắn thay, trên cây này có một số con khỉ đang ăn quả. Khi nhìn thấy chúng, cụ già rất vui mừng. Cụ đã làm gì? Cụ nhặt một vài hòn đá, nhắm vào những con khỉ và ném. Những con kh tức giận bẻ một số quả và ném chúng vào cụ già. Cụ già vui vẻ nhận những quả đó và đi đến vùng đất mà mình mong muốn. Hãy xem, số phận của cụ già!

@@ -113,7 +113,7 @@ Buddha se seuns het die waarheid besef, lyding beëindig en bevryding bereik. 'n
 ::: media
 ![](/images/uebung050.webp)
 Fig.: ⟪सम्पन्नरूपा⟫
-(Beeldbron: [Besonderhede](/licenses#uebung050))
+(Beeldbron: [Besonderhede](/af/licenses#uebung050))
 :::
 ---
 
@@ -212,7 +212,7 @@ Identifiseer en vertaal die volgende woorde:
 ::: media
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं रथो बालान् सुखतां वहति⟫
-(Beeldbron: [Details](/licenses#uebung051))
+(Beeldbron: [Details](/af/licenses#uebung051))
 :::
 ---
 
@@ -283,7 +283,7 @@ Sit die woorde in hakies in die volgende sinne in, en hou die reëls van sandhi 
 ::: media
 ![](/images/uebung052.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
-(Beeldbron: [Besonderhede](/licenses#uebung052))
+(Beeldbron: [Besonderhede](/af/licenses#uebung052))
 :::
 ---
 
@@ -297,7 +297,7 @@ Die verhewe Hari is my toevlug, wat sy vyande na die hemel gestuur het, wat die 
 ::: media
 ![](/images/uebung053.webp)
 Fig.: ⟪श्रीगङ्गाधराय नमः⟫
-(Bildquelle: [Details](/licenses#uebung053))
+(Beeldbron: [Details](/af/licenses#uebung053))
 :::
 ---
 
@@ -311,5 +311,5 @@ Een keer het 'n bejaarde man na 'n ander dorp gegaan en onderweg moeg geword. Om
 ::: media
 ![](/images/uebung054.webp)
 Fig.: ⟪वानरः कुपितः⟫
-(Bildquelle: [Details](/licenses#uebung054))
+(Beeldbron: [Details](/af/licenses#uebung054))
 :::

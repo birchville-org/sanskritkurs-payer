@@ -60,7 +60,7 @@ Nel tipo di carattere utilizzato in questo script:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-[ L 0 ] ⟨ IAST_L_0 ⟩
+Si noti la grafia di jña:
 
 ![](/images/schrift017.webp)
 

@@ -1,10 +1,11 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Lecziun 47"
+subtitle: "L'imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 47
@@ -104,9 +105,9 @@ Nota: ¹ Las fins da la 2. e 3. pers. sg. ponnan vegnir sustituidas cun -tāt, s
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
+Fig.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/rm/licenses#lekt4702))
+(Font dal maletg: [Details](/rm/licenses#lekt4702))
 :::
 ### 47.2.4. Quarta classa da prezens (⟪दिवादि⟫)
 
@@ -120,7 +121,7 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
+Fig.: ⟪नृत्यत⟫
 (Bildschend: [Detagls](/rm/licenses#lekt4701))
 :::
 ### 47.2.5. Deschena classa da present (⟪चुरादि⟫) e causativs
@@ -159,7 +160,7 @@ A) Tradusci:
 
 ::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
+Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Font dal maletg: [Detagls](/rm/licenses#lekt4703))
 :::
 ⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫

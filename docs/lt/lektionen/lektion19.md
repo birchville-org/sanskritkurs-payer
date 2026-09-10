@@ -1,222 +1,210 @@
 ---
-title: Lektion 19
+title: "[Pamoka 19]"
 lesson_id: 19
+
 ---
 
 # Pamoka 19
 
-## 19.1. Der Relativsatz
+## 19.1. Santakio sakinys
 
 ::: grammar-box
 
 **Schema:**
 
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
+**Santakio daiktavardis -- Santakio sakinys, nurodantis daiktavardį, į kurį santakio sakinys remiasi -- (Rodomasis daiktavardis) -- Pagrindinis sakinys**
 
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
+**Santakio sakinys gali stovėti ir po pagrindiniu sakiniu, tačiau jis negali būti įterptas į pagrindinį sakinį.**
+
+**Santakio daiktavardis ir ryšio žodis, kuris – skirtingai nei vokiečių kalboje -- stovi santakio sakinyje, yra toje linksnyje, kurią sintaksiškai reikalauja santakio sakinys. Rodomasis daiktavardis yra toje linksnyje, kurią sintaksiškai reikalauja pagrindinis sakinys.**
 :::
 
-Beispiele:
+Pavyzdžiai:
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
+Pastaba: Santakiniuose sakinys, turinčiuose bendrą galiojimą, dažnai vartojamas optatyvas vietoje indikativo. Daugelis mūsų pavyzdžių todėl būtų pageidautina rašyti optatyvu.
 
-**1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
+**1. Veikėjas (⟪कर्तृ⟫) sakinio yra tikslinamas santakiniu sakiniu:**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
+⟪यो नरः पुण्यं करोति स स्वर्गं गच्छति⟫ =  ⟪यो नरः पुण्यं करोति तेन स्वर्गं गम्यते⟫ = ⟪येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते⟫ ir t.t. = "Vyras, kuris daro nuopelnus, patenka į dangų."
 :::
-**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
+**2. Tiesioginis papildinys (⟪कर्म⟫) pagrindinio sakinio yra tikslinamas santakiniu sakiniu:**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
+⟪यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति⟫ = "Dievai saugo brahmaną, kuris aukojasi jiems kaip aukoje vedėjas."
 :::
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
+**3. Daiktavardžio iš pagrindinio sakinio tikslinimas yra santakiniame sakinyje:**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
+⟪ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते⟫ = "Vyrų, kurie daro bloga, sūnūs negauna turto."
 :::
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
+**4. Santaklinis ir nuorodinis žodys genityve (⟪षष्ठी⟫):**
 
 ::: indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
+⟪यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान्⟫ = „Nėra laimingas tas vyras, kurio sūnūs daro bloga.“
 :::
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
+**5. Santaklinis ir nuorodinis žodys instrumentalu (⟪तृतीया⟫):**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
+⟪येन शत्रुणा ग्रामो जितस्तं द्विषन्ति⟫ = „Jie nekenčia priešo, kuris nugalėjo / užkariavo jų kaimą.“
 :::
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
+**6. Santaklinis ir nuorodinis žodys akuzatyve (⟪द्वितीया⟫):**
 
 ::: indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
+⟪यं नरं देवी रक्षति स सुखमाप्नोति⟫ = „Vyras, kurį saugo deivė, pasiekia sėkmę.“
 :::
-## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. Santaklinis = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::: grammar-box
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmässigem Sandhi.**
+**⟪यद्⟫ „kuris, kuri, kurios“ linksniuojamas kaip ⟪तद्⟫, bet su reguliariu sandhi.**
 
-| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
+| | **Vyr. g.**:br ⟪पुंस्⟫ | **Beveid.** :br ⟪नपुंसक⟫ | **Mot. g.**:br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
-| **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+| **Vienaskaita** :br ⟪एकवचन⟫ | **1. Nominatyvas** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. Akuzatyvas** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. Instrumentalas** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. Genityvas** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **Daugiskaita** :br ⟪बहुवचन⟫ | **1. Nominatyvas** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Akuzatyvas** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. Instrumentalas** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. Genityvas** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
-**Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
+**Kai kompozitų priekinėje dalyje pasirodo šaknis ⟪यद्⟫ (laikantis sandhi taisyklės).**
 
 :::
 
-## 19.3. Wortliste
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+## 19.3. Žodžių sąrašas
 
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+**⟪अर्थ⟫ m.:** tikslas, paskirtis, žodžio reikšmė, turtai, nuosavybė, turtingumas. ⟪अर्थम्⟫ (galininkas), ⟪अर्थेन⟫ (įnagininkas) su kilmininku arba kaip kompozito galinė dalis Tatpuruṣa: dėl ..., kad.
+
+⟪अर्थ⟫ yra vienas iš trijų gyvenimo tikslų (⟪पुरुषार्थ⟫), kaip jie aprašomi pasaulietinėje ir religinėje literatūroje:
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.:** nuopelnų įgijimas per veiksmus, kurie yra teisingi, arba bent jau blogio vengimas, kuris galėtų kilti iš dharma nesilaikymo
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.:** tikslu orientuotas elgesys, gerovės įgijimas
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.:** pojūčių malonumas, ypač seksualiniame kontekste
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+Pav.: ⟪कामः⟫
+iliustracija prie ⟪कामसूत्र⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stovėti, likti, išlikti, būti. (Tradiciskai priskiriamas 1-ajam presento klasei, nors tai yra reduplicuojanti teminė presento klasė, kaip ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** priartėti, atsistoti pagarbiai prieš ką nors
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** išvykti, išeiti
 
-von ⟪स्था⟫ :
+nuo ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** vieta, (teisinga) vieta, pozicija
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.:** buvimas, ištvermė, laikymasis
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** gimdos, klėtis, vidus, embrionas / vaisius. Bahuvrīhi pabaigoje dažnai: "vidus", pvz.,
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "jo viduje pinas = jame yra pinigai"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** vidiniausia hindu šventyklos šventovė, kurioje yra svarbiausias šventyklos dievo paveikslas (apie hindu šventyklų statybą žr.: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+Pav.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** vandens nešėjas = lietaus debesis
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+Pav.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** pūsti
 
-davon:
+iš to:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** vėjas
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** vesti, važiuoti (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ n.:** saulės skėtis, skėtis
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+Pav.: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), tradiciniame kostiume, yra paprotys pietų Keralos dalyse. _Onappottan_ lanko namus per _onam_ ir teikia palaiminimus. Pastaraisiais metais _onappottan_ tapo reta rega, susijusi su kaimais."
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.:** išminčius, žynys ; 3: protingas, susipažinęs (su)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Pav.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** gyventi pas, apgyvendinti (Ak., Lok.) ; aplankyti, eiti prie (Ak.) ; aptarnauti, prižiūrėti, garbinti ; praktikuoti, naudoti ; būti kartu, turėti lytinių santykių
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ Prefix:** down, into
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** to dwell with, inhabit, visit
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** there, in the other world
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** here, in this world
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** to find
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ f.:** to be preserved = wife
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 3:** dear, pleasant
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ n. (!):** friend
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ m.:** relative
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## 19.4. Übung
+## 19.4. Exercise
 
-**Übersetzen Sie ins Sanskrit:**
+**Translate into Sanskrit:**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint.
+1. The Vaiśya woman, whose son has died, weeps.
 
-2\. Rāma opfert der Gottheit, die ihn behütet.
+2. Rāma sacrifices to the deity who protects him.
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt.
+3. The poet praises the Kṣatriya whose wealth he desires.
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
+4. Fire burns the house of the man who does not honor Agni with a sacrifice.
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
+5. The tiger-like man slays the Kṣatriya warriors who have defeated Rāma (Passive).
 
 ## 19.5. ⟪सुभाषितानि⟫
 
-**Übersetzen Sie:**
+**Translate:**
 
 ::: indent
-⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
-⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
+⟪येन येन च वातेन वारिदो वारि मुञ्चति । तेन तेन च वातेन छत्रं वहति पण्डितः ॥१॥⟫
 :::
-Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
+Explanation: ⟪वारि⟫ Nom., Acc. sg. to ⟪वारि⟫ n.: water
 
 ::: indent
-⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
-⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
-⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
+⟪यो धर्ममर्थं कामं च यथाकालं निषेवते । धर्मार्थकामसंयोगं सो ऽमुत्रेह च विन्दति ॥२॥⟫
 :::
-Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right time; always, whenever the right moment is present.
 
 ::: indent
-⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
-⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
-⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
+⟪सा भार्या या प्रियं ब्रूते स पुत्रो यस्तु जीवति । स जीवति गुणो यस्य धर्मो यस्य स जीवति ॥३॥ यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः । यस्यार्थाः स पुमांल्लोके यस्यार्थाः स हि पण्डितः ॥४॥⟫
 :::
-Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
+Explanation: ⟪पुमान्⟫ Nom. sg. to ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Loc. sg. to ⟪लोक⟫ m.: in the ...
 

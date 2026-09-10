@@ -1,112 +1,113 @@
 ---
-title: "Exercise 9"
+title: "pratykrama"
 uebung_id: 9
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 9
+# Pratimas 9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+A) Pabandykite nustatyti toliau išvardytų žodžių galimas reikšmes:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. tas, kuris panašus į brahmaną = prastas brahmanas
 
-2\. mati ⟪मति⟫ : f. Meinung
+2\. mati ⟪मति⟫ : f. nuomonė
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+3\. śravaṇa ⟪श्रवण⟫ : n. ausis
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : m. (koitazas) karvės pavidalu
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+5\. jayaka ⟪जयक⟫ : 3 nugalėtojas
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett
+6\. rakṣikā ⟪रक्षिका⟫ : f. sargė, amuletas
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer
+7\. karṣaka ⟪कर्षक⟫ : 3 arantis ; m. ūkininkas
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+8\. kleśa ⟪क्लेश⟫ : m. kančia
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : n. mylimosios būsena
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+10\. tantraka ⟪तन्त्रक⟫ : 3 (šviežias) iš audimo grandinės / stalo kilęs = naujai austas
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : šokėjas
 
-12\. naraka ⟪नरक⟫ : m. Hölle
+12\. naraka ⟪नरक⟫ : m. pragaras
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : f. valdovystė
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. karys
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. pyktis
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 įžengiantis
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 matantis
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig
+20\. kopaka ⟪कोपक⟫ : 3 tas, kuris greitai piktsta, įžūlus
 
-B) Übersetzen Sie:
+B) Išverkite:
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. Visų dvigimčių pareigos:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben.
+Aukojimas, Vedų studijavimas, dovanų teikimas.
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. Brahmano specifinės pareigos:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Mokymas, aukojimas pagal užsakymą, dovanų priėmimas.
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. Kṣatrijos specifinės pareigos:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+(sarvabhūtānām = Genetivas: "visų būtybių")
 
 (Gautamadharmasūtra X,7)
 
-Hüten aller Wesen.
+Visų būtybių saugojimas.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4. Specifinės Vaiśya užduotys:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(pagal Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Žemdirbystė, prekyba, gyvulininkystė ir pinigų davimas į palūkanas.
 
-5\. Aufgaben eines Śūdra:
+5. Śūdra užduotys:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(pagal Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+Paaiškinimas:
+dvijātīnām = Genityvas (savininko linksnis) daugiskaita nuo dvijāti (šioje vietoje versti kaip „priešais du kartus gimusiems“)
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma yra Tatpuruṣa su Dvandva (kārukuśīlava) pirmajame dalyje. karma = Vardininkas, vienaskaita nuo karman n. „veiksmas, veikla, karma“ (nuo šaknies kṛ 8 U). Išversti „veiksmas / veikla ... (genityvas)“ (pažymėta Dvandva).
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Paklusnumas priešais du kartus gimusiems, pragyvenimo šaltiniai, veikla kaip amatininkas arba klajojantis žvaigždė.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(pagal Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+Ekonomika yra žemdirbystė, gyvulininkystė ir prekyba.
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Pav.: ⟪रक्षणं सर्वभूतानाम्⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung013))
 :::

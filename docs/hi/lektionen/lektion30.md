@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "पाठ 30"
+subtitle: 'नवमं वर्तमानकालस्य श्रेणीः (⟪⟪क्र्यादि⟫⟫ = \"⟪⟪क्री⟫⟫ इत्यादि\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ 30
@@ -516,4 +517,3 @@ B) निम्नलिखित वाक्यों का अनुवा�
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

@@ -1,10 +1,11 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Μάθημα 52"
+subtitle: "Ουδέτερον των κλίνσεων με κατάληξη -i και -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα εʹ2
@@ -593,9 +594,9 @@ PPP ⟪च्युत⟫
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Εἰκ.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/grc/licenses#lekt5214))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: βαλανόδεντρον (_Musa_ sp.)
 
@@ -617,7 +618,7 @@ Hampi = ಹಂಪೆ
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
+Εἰκ.: ⟪मलम्⟫
 ⟪मुंबई⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5215))
 :::
@@ -627,7 +628,7 @@ Abb.: ⟪मलम्⟫
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
+Εἰκ.:
 Ἀμαραβατὶ = అమరావతి, 2. αἰ. μ.Χ.
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt5217))
 :::

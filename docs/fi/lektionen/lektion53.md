@@ -1,6 +1,7 @@
 ---
-title: Lektion 53
+title: "Oppitunti 53"
 lesson_id: 53
+
 ---
 
 # Luento 53
@@ -374,15 +375,15 @@ Seuraavat pronominaaliadjektiivit taipuvat kuten ⟪सर्व⟫. Abl.lok.sg.
 
 **-iṣṭha-päätteiset superlatiivit (naispuolinen: iṣṭhā) taivutetaan a- tai ā-vartalojen tapaan.**
 
-**Deklination von -īyas siehe unten.**
+**-īyas-päätteen taivutus, katso alla.**
 :::
 Esimerkit:
 
 ::: grammar-box
 | Juuri | Adjektiivi | Komparatiivi | Superlatiivi |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "heittää" | ⟪क्षिप्र⟫ 3 "nopea" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "seistä" | ⟪स्थिर⟫ 3 "vakaa, kiinteä" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "heittää" | ⟪क्षिप्र⟫ 3 "nopea" | :sig[⟪क्षेपीयस्⟫] 3 "nopeampi" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "nopein" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "seistä" | ⟪स्थिर⟫ 3 "vakaa, kiinteä" | :sig[⟪स्थेयस्⟫] 3 "lujempi" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "lujin" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Nämä päätteet liitettäessä noudatettavat erityiset säännöt:**
 
@@ -439,27 +440,10 @@ Esimerkki:
 | ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "lyhyt" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
-::: media
-![](/images/lekt5309.webp)
-Kuv: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5309))
-:::
-**Jotkut tämän tyyppiset vertailumuodot eivät lainkaan omaa vartalon sukua olevaa perusmuotoa, ne ovat "defektiivisiä". Siksi seuraavat muodot on erityisesti pidettävä mielessä:**
+## 53.9. Komparativien deklinoituna pääte -īyas
 
 ::: grammar-box
-| (Adjektiivi) | Komparatiivi | Superlatiivi |
-| --- | --- 
-| (⟪अल्प⟫ 3 "pieni, vähäinen") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "ylistettävä, hyvä") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "ylistettävä, hyvä") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
-| (⟪बहु⟫ 3 "paljon") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "vanha") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "vanha") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
-:::
-## 53.9. -īyas-päätteisten komparatiivien taivutus
-
-::: grammar-box
-**Komparativit muodostetaan pääte -īyas, ja feminiinimuoto päättyy -īyasī (taivutus kuten ⟪देवी⟫). Maskuliini- ja neutrummuodot taivutetaan seuraavan kaavikon mukaisesti.**
+**Komparatiivit, jotka päättyvät -īyas, muodostavat feminiinin pääte -īyas (deklinaatio kuten ⟪देवी⟫). Maskuliini ja neutri deklinoituna seuraavan paradigman mukaisesti.**
 :::
 ::: grammar-box
 
@@ -474,6 +458,21 @@ Kuv: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+:::
+## 53.10. Metriikka (runomitan oppi)
+
+::: media
+![](/images/lekt5303.jpg)
+Kuv: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(Kuv lähde: [Details](/fi/licenses#lekt5303))
+:::
+Katso myös:
+
+> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Kap. 8: The actual exegesis, Part II: On individual questions of synchronous understanding. -- Appendix B: On the metrics of Sanskrit texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+
+### 53.10.1. Metrumin määrittämisen merkitys
+
+Metrumin määrittäminen on tärkeää seuraavista syistä:
 :::
 ## 53.10. Metriikka (runomittien oppi)
 

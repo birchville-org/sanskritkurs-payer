@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 35]"
 uebung_id: 35
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,12 +7,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 35
+# Bài tập 35
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) Hãy tạo dạng thức Perfect (Quá khứ hoàn thành) tương ứng cho các hình thái động từ sau:
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt |
+| Hiện tại / Quá khứ chưa hoàn thành | Perfect (Quá khứ hoàn thành) |
 | :--- | :--- |
 | ⟪१⟫. ⟪गायन्ति⟫ | ⟪जगुः⟫ |
 | ⟪२⟫. ⟪स्मरन्ति⟫ | ⟪सस्मरुः⟫ |
@@ -56,36 +56,32 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 | ⟪४०⟫. ⟪जुह्वति⟫ | ⟪जुहुवुः⟫ |
 | ⟪४१⟫. ⟪अहरत्⟫ | ⟪जहार⟫ |
 :::
-B) Übersetzen Sie:
+B) Hãy dịch:
 
-⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Einstmals begann ein grosser Kṣatriya zu opfern. Indra entführte (nahm) sein Opfertier. Als aber das Tier verschwunden war, sprach ein böser Brahmane zum Kṣatriya: "Das Tier ist wegen des schlechten Betragens des Kṣatriya verschwunden."
+⟪१⟫. **⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥⟫**
+Ngày xưa, một vị Kṣatriya vĩ đại bắt đầu tiến hành tế lễ. Indra đã cướp đi (lấy đi) con vật hiến tế của ông ta. Nhưng khi con vật biến mất, một vị Brahman xấu xa nói với vị Kṣatriya: "Con vật đã biến mất do hành vi sai trái của vị Kṣatriya."
 
-⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma war sohnlos. Er wünschte sich einen Sohn, bekam aber keinen. Deshalb opferte er den Göttern und vollzog Gelübde wie sexuelle Enthaltsamkeit und dergleichen. Die Götter hörten Rāmas Wunsch und schenkten ihm den gewünschten Sohn.
+⟪२⟫. **⟪रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवू रामाय चेष्टपुत्रं ददुः ॥२॥⟫**
+Rāma không có con trai. Ông mong muốn một người con, nhưng lại không có. Vì vậy, ông đã dâng lễ vật cho các vị thần và thực hiện các lời nguyện như kiêng quan hệ tình dục và những điều tương tự. Các vị thần nghe thấy mong muốn của Rāma và ban cho ông người con trai như ý.
 
-⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-Die Brahmaninnen kochten Ghee für das Opfer. Während die Brahmaninnen kochten, bereiteten die Brahmanen den Opferplatz. Dann opferten die Kṣatriyas Śiva und den anderen Göttern als Opferherren, und die Brahmanen vollzogen das Opfer (im Auftrag).
+⟪३⟫. **⟪ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫**
+Các nữ tu sĩ Brahman đã nấu bơ cho lễ tế. Trong khi các nữ tu sĩ Brahman đang nấu, thì các nam tu sĩ Brahman chuẩn bị nơi tế lễ. Sau đó, các Kṣatriyas đã dâng cúng cho Śiva và các vị thần khác với tư cách là chủ tế, còn các nam tu sĩ Brahman thực hiện lễ tế (thay mặt).
 
-⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats haben die Familienbande zerbrochen, Gier, Hass und Verblendung beendet, die Wahrheit erkannt und — vom Leiden befreit — das Glück der Erlösung erreicht.
+⟪४⟫. **⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫**
+Các vị A-la-hán đã phá vỡ các mối ràng buộc gia đình, chấm dứt tham lam, sân hận và vô minh, nhận thức được chân lý và — sau khi giải thoát khỏi khổ đau — đã đạt được hạnh phúc của sự giác ngộ.
 
 ---
 
-## Syntaktische Variation (Perfekt zu Imperfekt)
+## Biến đổi cú pháp (Từ Hoàn thành sang Quá khứ không hoàn thành)
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen:
+C) Chuyển đổi các câu trong bài tập B) bằng cách thay thế thì Hoàn thành bằng thì Quá khứ không hoàn thành:
 
-⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
+⟪१⟫. ⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपाक्रामत । तस्य यज्ञपशुमिन्द्रो ऽहरत् ॥ २⟫. ⟪रामो ऽपुत्र आसीत् । स पुत्रमैच्छन्न त्वलभत । तस्माद्देवानयजत ब्रह्मचर्यादिव्रतानि चाचरत् । देवा रामस्येष्टिमशृण्वन्रामाय चेष्टपुत्रमददुः ॥⟫
 
-⟪२⟫. ⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आसीत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमैच्छन्न⟫ ⟪त्वलभत⟫ ⟪।⟫ ⟪तस्माद्देवानयजत⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪चाचरत्⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिमशृण्वन्रामाय⟫ ⟪चेष्टपुत्रमददुः⟫ ⟪॥⟫
-
-⟪३⟫. ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतमपचन्⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪समस्कुर्वन्⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानयजन्त⟫ ⟪ब्राह्मणाश्चायजन्⟫ ⟪॥⟫
-
-⟪४⟫. ⟪अर्हन्तः⟫ ⟪कुलबन्धनमभिन्दंल्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪चारुन्धन्सत्यमजानन्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमाप्नुवन्⟫ ⟪॥⟫
+⟪३⟫. ⟪ब्राह्मण्यो यज्ञाय घृतमपचन् । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं समस्कुर्वन् । ततः क्षत्रियाः शिवादिदेवानयजन्त ब्राह्मणाश्चायजन् ॥ ४⟫. ⟪अर्हन्तः कुलबन्धनमभिन्दंल्लोभं च क्रोधं च मोहं चारुन्धन्सत्यमजानन्दुःखान्मुक्ता मोक्षसुखमाप्नुवन् ॥⟫
 
 ::: media
 ![](/images/uebung058.webp)
-Abb.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
-(Bildquelle: [Details](/licenses#uebung058))
+Abb.: ⟪ब्राह्मणीषु पचन्तीषु⟫ ...
+(Nguồn ảnh: [Chi tiết](/licenses#uebung058))
 :::

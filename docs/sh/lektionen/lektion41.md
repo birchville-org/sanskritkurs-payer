@@ -1,70 +1,65 @@
 ---
-title: Lektion 41
-subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
+title: "Lekcija 41"
+subtitle: "⟪सुभाषिते⟫ (dve poslovice)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫ (dve poslovice)
 
 ::: indent
-⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
-⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
-⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
-⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥१॥⟫
+⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् । कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥१॥⟫
 :::
-Erklärung: ⟪पर⟫ "anderer"
+Objašnjenje: ⟪पर⟫ "drugi"
 
 ::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
-Abb.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
-(Bildquelle: [Details](/licenses#lekt4102))
+Slika: ⟪पुस्तकस्था च या विद्या⟩ ...
+(Izvor slike: [Detalji](/sh/licenses#lekt4102))
 :::
 
 ::: indent
-⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
-⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
-⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
-⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
+⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये । पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥२॥⟫
 :::
-Erklärung: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
+Objašnjenje: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Dalje ⟪कृत्⟫ tvorbe na -a
 
-### 41.2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) Passiv, Partizip Futur (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Particip prezenta (⟪लडादेशः⟫) Ā, particip prezenta pasiva (⟪लडादेशः⟫) Ā, particip futura (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Thematische Präsensstämme, Passiv und Futur
+#### 41.2.1.1. Tematski prezentski koreni, pasiv i futur
 
 ::: grammar-box
-**Bildung:**
+**Tvorba:**
 
-Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
+Prezentski koren / pasivni koren / futuristički koren + -māna (ž. r. mānā)
 :::
-Beispiele:
+Primeri:
 
-⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "jemand, der im eignen Interesse mit einem Opfer verehrt = Opferherr"
+⟪यज्⟫ 1U, Part.Prez.Ā ⟪यजमान⟫ 3 "onaj koji se žrtvuje u sopstvenom interesu = gospodar žrtve"
 
-⟪मन्⟫ 4Ā, Part.Präs.Ā  ⟪मन्यमान⟫ 3 "ein denkender"
+⟪मन्⟫ 4Ā, Part.Prez.Ā ⟪मन्यमान⟫ 3 "onaj koji razmišlja"
 
-⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "etwas, das getan wird"
+⟪कृ⟫ 8U, Part.Prez.Passiv ⟪क्रियमाण⟫ 3 "ono što se čini"
 
-⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "jemand, der im eignen Interesse geben wird"
+⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "onaj koji će dati u sopstvenom interesu"
 
-#### 41.2.1.2. Athematische Präsensklassen
+#### 41.2.1.2. Attematski prezentske klase
 
 ::: grammar-box
-**Bildung:**
+**Tvorba:**
 
-Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
+Slabi prezentski koren (u obliku koji ima pred nastavkom -ate 3.l.Ā) + -āna (ž. r. -ānā)
 :::
-Beispiele:
+Primeri:
 
 ::: grammar-box
-| Wurzel / Klasse | Partizip Präsens Ā |
+| Koren / klasa | Particip prezenta Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
 | ⟪हु⟫ 3P | ⟪जुह्वान⟫:brju-hu + āna |
@@ -73,20 +68,20 @@ Beispiele:
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
 | ⟪क्री⟫ 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
+### 41.2.2. Particip pasivne nužnosti (gerundiv) (⟪कृत्य⟫) (Kielhorn)
 
 ::: grammar-box
-**Um die passive Notwendigkeit auszudrücken ("was getan werden muss/soll"), kann man Adjektive aus Wurzeln und abgeleiteten Verbalstämmen wahlweise mit folgenden Suffixen bilden:**
+**Kako bi se izrazila pasivna nužnost ("ono što se mora/treba učiniti"), mogu se pridjevi iz korijena i izvedenih glagolskih osnova po izboru tvoriti sljedećim sufiksima:** (Kielhorn)
 
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
 * **-⟪य⟫** (fem. **-⟪या⟫**)
-* **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (statt **-⟪य⟫**/**-⟪या⟫**)
+* **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (umjesto **-⟪य⟫**/**-⟪या⟫**)
 :::
-#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. Sufiks -⟪तव्य⟫ / -⟪तव्या⟫ (Kielhorn)
 
 ::: grammar-box
-**Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫ wird an Wurzeln und abgeleitete Verbalstämme (z.B. Kausativ) auf dieselbe Weise angefügt wie das Infinitivsuffix -⟪तुम्⟫ (s. [Lektion 23](lektion23.md)), d.h.**
+**Sufiks -⟪तव्य⟫ / -⟪तव्या⟫ dodaje se na korijene i izvedene glagolske osnove (npr. kauzativ) na isti način kao i infinitivni sufiks -⟪तुम्⟫ (v. [Lekciju 23](lektion23.md)), tj.:** (Kielhorn)
 
 * **hochstufige Wurzel + ⟪तव्य⟫**
 
@@ -96,7 +91,7 @@ oder
 
 **Im Kausativ:**
 
-* **Kausativstamm auf -ay + -i- + ⟪तव्य⟫**
+* **Kauzativna osnova na -ay + -i- + ⟪तव्य⟫** (Kielhorn)
 :::
 Beispiele:
 
@@ -116,9 +111,9 @@ Beispiele:
 
 Hochstufige Wurzel + -⟪अनीय⟫ / -⟪अनीया⟫
 
-**Kausativ und 10. Präsensklasse:**
+**Kauzativ i 10. prezentski razred:** (Kielhorn)
 
-Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
+Korijen u obliku kauzativne osnove, bez -aya- + -⟪अनीय⟫ / -⟪अनीया⟫ (Kielhorn)
 :::
 Beispiele:
 
@@ -134,268 +129,259 @@ Beispiele:
 | ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
-#### 41.2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
+#### 41.2.2.3. The Suffix -⟪य⟫ / -⟪या⟫
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-Wurzel (in Tief-, Hoch- oder Dehnstufe) + -⟪य⟫
+Root (in weak, strong or guṇa grade) + -⟪य⟫
 
-Die genauen Regeln siehe bei Kielhorn, Grammatik der Sanskrit-Sprache, S. 195 - 197!
+For the exact rules, see Kielhorn, Grammar of the Sanskrit Language, pp. 195 - 197!
 :::
-Behandlung auslautender Vokale:
+Treatment of final vowels:
 
 ::: grammar-box
-**1. Wurzeln auf -ā bilden dieses Gerundiv auf -eya**
+**1. Roots ending in -ā form this gerundive with the suffix -eya**
 :::
-Beispiele:
+Examples:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "to be known; that which must be recognized" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "that which must be given" |
 
 :::
 ::: grammar-box
-**2. Wurzeln auf -i /-ī / -u / -ū /-ṛ haben in der Regel Hoch- oder Dehnstufe, es sei denn sie gehören zu denjenigen Wurzeln auf -i / -u /-ṛ, die ein Gerundiv mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden (Liste dieser Wurzeln bei Kielhorn, Grammatik §537).**
+**2. Roots ending in -i /-ī / -u / -ū /-ṛ generally have strong or guṇa grade, unless they belong to those roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) (list of these roots in Kielhorn, Grammar §537).**
 :::
-Beispiel:
+Example:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
+| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "that which must be remembered" |
 
 :::
 ::: grammar-box
-**2a. Wurzeln auf -i/-ī haben Hochstufe**
+**2a. Roots ending in -i/-ī have strong grade**
 :::
-Beispiele:
+Examples:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
+| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "to be sold; sellable" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "to be led" |
 
 :::
 ::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
-Abb.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
-(Bildquelle: [Details](/licenses#lekt4103))
+Fig.: ⟪विक्रेयाणि पुष्पानि⟫
+(Image source: [Details](/sh/licenses#lekt4103))
 :::
 
 ::: grammar-box
-**2b. Wurzeln auf -u /-ū ersetzen das hochstufige -o vor dem -ya durch -av, das dehnstufige -au durch -āv. Dehnstufige Bildung bedeutet in diesem Fall Notwendigkeit.**
+**2b. Roots ending in -u /-ū replace the strong grade -o before -ya with -av, and the guṇa grade -au with -āv. Guṇa grade formation in this case denotes necessity.**
 :::
-Beispiel:
+Example:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "that which should be praised" |
+|   | ⟪स्ताव्य⟫ 3 | "that which must necessarily be praised" |
 
 :::
-Beispiele für konsonantisch auslautende Wurzeln (Regeln s. Kielhorn, Grammatik § 533ff.):
+Examples of roots ending in consonants (see rules: Kielhorn, Grammar § 533ff.):
 
-Tiefstufige Bildung:
+Low-grade formation:
 
-Beispiele:
+Examples:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "worth seeing" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "one who is to be instructed = student" |
 
 :::
 ::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
-Abb.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
-(Bildquelle: [Details](/licenses#lekt4106))
+Fig.: ⟪दृश्यो मन्दिरः⟫
+(Image source: [Details](/sh/licenses#lekt4106))
 :::
-Hochstufige Bildung:
+High-grade formation:
 
-Beispiele:
+Examples:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
+| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "to be hated = enemy" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "to be split" |
 
 :::
 ::: grammar-box
-**Kausative und Verben der 10. Präsensklasse (⟪चुरादि⟫)**
+**Causatives and verbs of the 10th present class (⟪चुरादि⟫)**
 
-**Bildung:**
+**Formation:**
 
-Kausativ-/Präsensstamm ohne -aya- + -⟪य⟫
+Causative/present stem without -aya- + -⟪य⟫
 :::
-Beispiel:
+Example:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
+| ⟪मन्⟫ Causative¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "to be honored, highly revered" |
 
 :::
 ::: indent
-¹ eigentl. Denominativ zu ⟪मान⟫
+¹ actually a denominative to ⟪मान⟫
 :::
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
-Abb.: ⟪मान्यः⟫
-(Bildquelle: [Details](/licenses#lekt4107))
+Fig.: ⟪मान्यः⟫
+(Image source: [Details](/sh/licenses#lekt4107))
 :::
-#### 41.2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
+#### 41.2.2.4. The suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
 
 ::: grammar-box
-Liste der Wurzeln auf -i / -u /-ṛ, die ein Gerundiv statt mit -⟪य⟫ / -⟪या⟫ mit dem Suffix -⟪त्य⟫ (fem. -⟪त्या⟫) bilden, bei Kielhorn, Grammatik §537.
+List of roots ending in -i / -u /-ṛ, which form a gerundive not with -⟪य⟫ / -⟪या⟫ but with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫), in Kielhorn, Grammar §537.
 
-**Bildung:**
+**Formation:**
 
-tiefstufige Wurzel + -⟪त्य⟫ / -⟪त्या⟫
+low-grade root + -⟪त्य⟫ / -⟪त्या⟫
 :::
-Beispiele:
+Examples:
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
-| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
-
+| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "to be gone" |
+|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "to be heard" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "to be done" |
 :::
-### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
+### 41.2.3. Syntax des "Partizips" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
-Das Gerundiv kann attributiv verwendet werden:
+Gerundiv se može rabiti atributno: (Kielhorn)
 
 :::
 ::: indent
-**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "eine Stadt, die man sehen muss; eine sehenswerte Stadt"
+**⟪दर्शनीयं नगरम्⟫** = "grad koji se mora vidjeti; grad vrijedan gledanja" (Kielhorn)
 :::
-Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion verwendet werden, die eine Verpflichtung oder einen Befehl ausdrücken (mit ⟪न⟫ ein Verbot, eine Unmöglichkeit):
+Gerundiv se može rabiti i kao predikatno ime u rečenicama s pasivnom konstrukcijom koje izražavaju obvezu ili zapovijed (s ⟪न⟫ zabranu, nemogućnost): (Kielhorn)
 
 ::: indent
-**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Zweimalgeborene müssen Benares sehen"
+**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Dvaputrođeni moraju vidjeti Varanasi" (Kielhorn)
 :::
 ::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
-Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Bildquelle: [Details](/licenses#lekt4108))
+Slika: ⟪दर्शनीयं नगरं काशी⟫
+(Izvor slike: [Details](/sh/licenses#lekt4108))
 :::
-### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
+### 41.2.4. Razlike u upotrebi gerundivnih sufiksa (Kielhorn)
 
 ::: grammar-box
-Weitgehend überschneidet sich der Gebrauch dieser Suffixe
+Upotreba ovih sufiksa u velikoj se mjeri preklapa: (Kielhorn)
 
-* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** drückt immer eine Notwendigkeit aus und wird bevorzugt prädikativ gebraucht (seltener attributiv). Bildungen mit diesem Suffix sollen nicht in Nominalkomposita verwendet werden.
-* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) und -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (statt -⟪य⟫/-⟪या⟫):** können eine weitere Bedeutung haben (bes. -⟪य⟫) im Sinne des deutschen "-wert" (z.B. "sehenswert") oder nur einer Möglichkeit "-bar" (⟪दृश्य⟫ "sichtbar"). Bildungen mit diesen Suffixen können mit ⟪अ⟫-/-⟪अन्⟫- verneint werden (nicht aber Bildungen mit -⟪तव्य⟫) und es gibt ⟪तत्पुरुष⟫ als deren Hinterglied sie vorkommen.
+* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** uvijek izražava nužnost i preferirano se rabi predikatno (rjeđe atributno). Tvorbe s ovim sufiksom ne bi se smjele rabiti u imenskim složenicama. (Kielhorn)
+* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) i -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (umjesto -⟪य⟫/-⟪या⟫):** mogu imati šire značenje u smislu vrijednosti (npr. "vrijedan gledanja") ili puke mogućnosti (⟪दृश्य⟫ "vidljiv"). Tvorbe s ovim sufiksima mogu se negirati s ⟪अ⟫-/-⟪अन्⟫- i javljaju se kao zadnji član ⟪तत्पुरुष⟫ složenica. (Kielhorn)
 :::
-### 41.2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
+### 41.2.5. Bez spajanja sa ⟪सु⟫- i ⟪दुस्⟫- (Kielhorn)
 
 ::: grammar-box
-Mit  ⟪सु⟫- und ⟪दुस्⟫- in der Bedeutung "leicht" bzw. "schwer" dürfen Gerundive nicht verbunden werden. Statt dessen stehen ⟪तत्पुरुष⟫ vom Typ  ⟪सुकर⟫ 3 ("leicht zu tun") (s. [Lektion 18](lektion18.md)).
+S prefiksima ⟪सु⟫- i ⟪दुस्⟫- u značenju "lako" odn. "teško" gerundivi se ne smiju spajati. Umjesto njih stoje ⟪तत्पुरुष⟫ složenice tipa ⟪सुकर⟫ 3 ("lako za učiniti") (v. [Lekciju 18](lektion18.md)). (Kielhorn)
 :::
-## 41.3. Wortliste
+## 41.3. Word List
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
-
-⟪भुजङ्ग⟫ m.: Schlange
+⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.: snake
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
-Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/licenses#lekt4105))
+Fig.: ⟪भुजङ्गः⟫
+(Image source: [Details](/sh/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: nur, allein, vollständig
+⟪केवलम्⟫ Adv.: only, alone, completely
 
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: poison
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Bildquelle: [Details](/licenses#lekt4104))
+Fig.: ⟪भुजङ्गस्य विषम्⟫
+(Image source: [Details](/sh/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+⟪शास्⟫ 2P ⟪शास्ति⟫ : to reprimand, control, command, teach
 
 ::: indent
-hat den schwachen Präsensstamm ⟪शिष्⟫ : ⟪शिष्मस्⟫, die 3.Pl. P. hat aber starken Stamm: ⟪शासति⟫ (!! Endung -ati) neben gelegentlich ⟪शासन्ति⟫. ⟪अशासुर्⟫. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: ⟪शास्ते⟫
+has the weak present stem ⟪शिष्⟫ : ⟪शिष्मस्⟫, but the 3rd pl. pres. has the strong stem: ⟪शासति⟫ (!! ending -ati) alongside occasional ⟪शासन्ति⟫. ⟪अशासुर्⟫. Also the entire ⟪आत्मनेपद⟫ has, insofar as it occurs, the strong stem: ⟪शास्ते⟫
 
 Perf I ⟪शशास⟫, ⟪शशासुर्⟫  
 Fut. ⟪शासिष्यति⟫  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ : gelehrt, weise  
+Pass. **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+PPP ⟪शिष्ट⟫ : taught, wise  
 Inf. ⟪शासितुम्⟫  
 Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-davon:
+from which:
 
-⟪शासना⟫ f.: königliches Edikt, Lehre, Religion
+⟪शासना⟫ f.: royal edict, teaching, religion
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/licenses#lekt4109))
+Fig.: ⟪शासना⟫
+(Image source: [Details](/sh/licenses#lekt4109))
 :::
 
 ::: indent
-⟪शास्त्र⟫ n.: Lehre, Lehrwerk
+⟪शास्त्र⟫ n.: teaching, textbook
 
-⟪शास्त्रिन्⟫ m.: gelehrt, Gelehrter
+⟪शास्त्रिन्⟫ m.: learned, scholar
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/licenses#lekt4110))
+Fig.: ⟪शास्त्री⟫
+(Image source: [Details](/sh/licenses#lekt4110))
 :::
 
 ::: indent
-⟪शिष्य⟫ 3: zu belehrender = Schüler
+⟪शिष्य⟫ 3: to be instructed = student
 :::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
+⟪शरण⟫ 3: protecting, shielding; n. protection, refuge, taking refuge
 
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
+⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : to strike together): group, crowd, community (e.g. Buddhist)
 
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+⟪कन्या⟫ f.: young girl, daughter, maiden
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+⟪अति⟫ prefix: over, beyond (in space, in time, by number, by quantity, in order, by power, by intensity), exceedingly
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : to pass by
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+PPP ⟪अतीत⟫ : n. past tense
 :::
-## 41.4. Übung
+## 41.4. Exercise
 
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion.
+A) Translate the two proverbs at the beginning of the lesson.
 
-B) Übersetzen Sie:
+B) Translate:
 
-⟪बुद्धम्⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥१॥⟫
-
-⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥२॥⟫
+⟪बुद्धम् शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥१॥ काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥२॥⟫
 
 ::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
-Abb.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
-(Bildquelle: [Details](/licenses#lekt4111))
+Fig.: ⟪काशीं पत्स्ये गङ्गां द्रक्ष्यामि⟫ ...
+(Image source: [Details](/sh/licenses#lekt4111))
 :::
-⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
-
-⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥४॥⟫
-
-⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
+⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥३॥ विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वश्यः पुण्यं चकारेति ॥४॥ गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥५॥⟫
 

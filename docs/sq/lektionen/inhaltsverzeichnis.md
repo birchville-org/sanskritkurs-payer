@@ -1,856 +1,856 @@
 # Përmbajtja e përmbledhur
 
-## [Lektion 1](lektion01)
+## [Mësimi 1](lektion01)
 
-*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Verehrung des Gaṇeśa
-*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Glückbringender Anfang"
-*   1\. Literatur für Anfänger in Indologie
-*   2\. Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift
-    *   2.1. Zur Aussprache einzelner Laute
-*   3\. Übung
+*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Adhurimi i Gaṇeśas
+*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Fillim i fatmbar"
+*   1\. Letërsia për fillestarët në Indologji
+*   2\. Tingujt e Sanskritisë sipas klasifikimit tradicional indian dhe transkriptimi i tyre shkencor
+*   2.1. Mbi shqiptimin e tingujve të veçantë
+*   3\. Ushtrim
 
-## [Lektion 2](lektion02)
+## [Mësimi 2](lektion02)
 
-*   1\. Der Nominalsatz
-*   2\. Zur Deklination (Beugung von Nomina)
-*   3\. Der Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫
-    *   3.1. Nominativ Singular auf -s
+*   1\. Propozimi nominal
+*   2\. Mbi deklinimin (përkuljen e emrave)
+*   3\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫
+*   3.1. Nominativ singular me -s
 *   4\. Sandhi -- ⟪सन्धि⟫
-    *   4.1. Sandhi von auslautendem -s
-*   5\. Wortliste
-*   6\. Übung
+*   4.1. Sandhi për -s në fund të fjalës
+*   5\. Listë fjaliash
+*   6\. Ushtrim
 
-## [Lektion 3](lektion03)
+## [Mësimi 3](lektion03)
 
-*   1\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (Fortsetzung)
-    *   1.1. Nominativ Singular auf -s (Fortsetzung)
-    *   1.2. Nominativ singular ohne Endung
-*   2\. Bildung der Feminina zu Maskulina (Adjektive und Substantive)
-*   3\. Nominativ plural = prathamā bahuvacanam = ⟪प्रथमा⟫ ⟪बहुचनम्⟫
-*   4\. Vokalsandhi
-*   5\. Satzsandhi von -ās
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫ (Vazhdim)
+*   1.1. Nominativ singular me -s (Vazhdim)
+*   1.2. Nominativ singular pa përfundim
+*   2\. Formimi i feminores ndaj maskulinit (mbiemra dhe emra)
+*   3\. Nominativ plural = prathamā bahuvacanam = ⟪प्रथमा बहुचनम्⟫
+*   4\. Sandhi zanor
+*   5\. Sandhi propozimi për -ās
+*   6\. Listë fjaliash
+*   7\. Ushtrim
 
-## [Lektion 4](lektion04)
+## [Mësimi 4](lektion04)
 
-Gesprochenes Sanskrit
+Sanskrit i folur
 
-*   1\. Einfache Ergänzungsfragen (Wortfragen) und Antworten
-    *   1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
-        *   1.1.1.Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
-        *   1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
-    *   1.2. Sandhi von auslautendem -m
-    *   1.3. Sandhi von auslautendem -e
-    *   1.4. Sandhi von aulautendem -d
-    *   1.5. Frageformeln
-*   2\. Übung
+*   1\. Pyetje të thjeshta plotësuese (pyetje fjali) dhe përgjigje
+*   1.1. Pronoma pyetëse (praśnārthakasarvanāma n.) dhe pronoma treguese (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च⟫
+*   1.1.1.Pronoma pyetëse (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+*   1.1.2. Pronoma treguese (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+*   1.2. Sandhi për -m në fund të fjalës
+*   1.3. Sandhi për -e në fund të fjalës
+*   1.4. Sandhi për -d në fund të fjalës
+*   1.5. Formula pyetëse
+*   2\. Ushtrim
 
-## [Lektion 5](lektion05)
+## [Mësimi 5](lektion05)
 
-*   1\. Nominalkomposita = samāsa m. = ⟪समास⟫
-*   2\. Zur Sanskrit-Terminologie für Komposita
-*   3\. Kopulative Komposita = Dvandva n. ("Paar") = ⟪द्वन्द्व⟫
-    *   3.1. Vorderglieder von Komposita
-    *   3.2. Plural-Itaretaradvandva
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Kompozita emërore = samāsa m. = ⟪समास⟫
+*   2\. Për terminologjinë sanskrite për kompozitat
+*   3\. Kompozita kopulative = Dvandva n. ("Çift") = ⟪द्वन्द्व⟫
+*   3.1. Elementet e para të kompozitave
+*   3.2. Plural-Itaretaradvandva
+*   4\. Listë fjalësh
+*   5\. Ushtrime
 
-## [Lektion 6](lektion06)
+## [Mësimi 6](lektion06)
 
-*   1\. Der Verbalsatz
-*   2\. Zur Bildung der Verbalformen
-*   3\. Indikativ Präsens (laṭ = ⟪लट्⟫)
-*   4\. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
-*   5\. Bildung des Präsensstamms
-    *   5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
-    *   5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
-        *   5.2.1. Wortsandhi von e und o
-        *   5.2.2. Lautabstufung (Ablaut)
-    *   5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
-    *   5.4. Themavokal, thematische Präsensklassen
-*   6\. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
-*   7\. Wortliste
-*   8\. Übung
-*   9\. Wiederholungsübung
+*   1\. Fjalimi verbal
+*   2\. Për formimin e formeve verbale
+*   3\. Indikativ Prezent (laṭ = ⟪लट्⟫)
+*   4\. Përfundimet kryesore për personin e tretë (prathama m. = ⟪प्रथम⟫ = "personi i parë (!)")
+*   5\. Formimi i rrënjës së prezentit
+*   5.1. Verbat e klasës së 6-të të prezentit (tudādi = ⟪तुदादि⟫ = "tud etj.")
+*   5.2. Verbat e klasës së 1-të të prezentit (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etj.")
+*   5.2.1. Sandhi fjalësh me e dhe o
+*   5.2.2. Gradacion zanor (Ablaut)
+*   5.3. Verbat e klasës së 4-të të prezentit (divādi = ⟪दिवादि⟫ = "div etj.")
+*   5.4. Vokali temë, klasat tematike të prezentit
+*   6\. Sanskriti i folur: Pyetje të tjera (praśna m. = ⟪प्रश्न⟫)
+*   7\. Listë fjalësh
+*   8\. Ushtrime
+*   9\. Ushtrimi përmblledhës
 
-## [Lektion 7](lektion07)
+## [Mësimi 7](lektion07)
 
-Wochenspruch
+Thënja javore
 
-*   1\. Der Verbalsatz mit direktem Objekt
-*   2\. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-    *   2.1. Akkusativ singular und Plural der Frage- und Demonstrativpronomina
-    *   2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-*   3\. Sandhi von auslautendem -n
-*   4\. Das Neutrum (napuṃsaka n. =  ⟪नपुंसक⟫)
-    *   4.1. Neutrum der Stämme auf -a
-*   5\. Athematische Präsensklassen
-    *   5.1. Primärendungen der 3. Person Plural bei athematischen Präsensstämmen
-    *   5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw."
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Fjalimi verbal me objekt të drejtpërdrejtë
+*   2\. Akuzativ (Rasti pyetës, dvitīyā f. = ⟪द्वितीया⟫ = "njësi rasti e dytë")
+*   2.1. Akuzativ singular dhe plural i përemrave pyetës dhe demonstrativë
+*   2.2. Përdorimi i akuzativit (Rasti pyetës, dvitīyā f. = ⟪द्वितीया⟫ = "njësi rasti e dytë")
+*   3\. Sandhi për -n në fund të fjalës
+*   4\. Neutrali (napuṃsaka n. = ⟪नपुंसक⟫)
+*   4.1. Neutrali i rrënjëve mbi -a
+*   5\. Klasat atematikë të prezentit
+*   5.1. Përfundimet kryesore për personin e tretë në numrin shumës te rrënjët atematikë të prezentit
+*   5.2. Klasa e 5-të e prezentit (svādi = ⟪स्वादि⟫ = "su etj."
+*   6\. Listë fjalësh
+*   7\. Ushtrime
 
-## [Lektion 8](lektion08)
+## [Mësimi 8](lektion08)
 
-*   1\. Zur Bildung von Nomina
-*   2\. Einteilung der Nominalsuffixe
-*   3\. Einige wichtige Nominalsuffixe
-    *   3.1. -a m. (kṛt)
-    *   3.2. -ana n. (kṛt)
-    *   3.3. -tra n. (kṛt)
-    *   3.4. -ti f. (kṛt)
-    *   3.5. -tva n., tā f. (taddhita)
-*   4\. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Lese- und Übersetzungsübung
+*   1\. Për formimin e emrave (Nomina)
+*   2\. Ndërtimi i prapashtesave emërore (Nominalsuffixe)
+*   3\. Disa prapashtesa emërore të rëndësishme
+*   3.1. -a mashkullor (kṛt)
+*   3.2. -ana neutër (kṛt)
+*   3.3. -tra neutër (kṛt)
+*   3.4. -ti femëror (kṛt)
+*   3.5. -va neutër, tā femëror (taddhita)
+*   4\. Klasa e 8-të e Presentit (tanādi = ⟪तनादि⟫ = "tan etj.")
+*   5\. Lista e fjalëve
+*   6\. Ushtrime
+*   7\. Ushtrim leximi dhe përkthimi
 
-## [Lektion 9](lektion09)
+## [Mësimi 9](lektion09)
 
-*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Zusammenfassungsdvandva")
-*   2\. Zur Bildung von Nominalstämmen
-    *   2.1. -ka (taddhita)
-    *   2.2. -aka (kṛt), fem. oft -ikā
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Dvandva përmbledhëse")
+*   2\. Për formimin e rrënjëve emërore (Nominalstämmen)
+*   2.1. -ka (taddhita)
+*   2.2. -aka (kṛt), femëror shpesh -ikā
+*   3\. Lista e fjalëve
+*   4\. Ushtrime
 
-## [Lektion 10](lektion10)
+## [Mësimi 10](lektion10)
 
-*   1\. Der Passivsatz
-*   2\. Der Instrumentalis = tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung"
-    *   2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
-*   3\. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
-*   4\. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
-    *   4.1. Sonderregeln zur Bildung des Passiv
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wortliste 2
-*   8\. Lese- und Übersetzungsübung
+*   1\. Propozimi pasiv
+*   2\. Instrumentali = tṛtīyā femëror = ⟪तृतीया⟫ = "njësia e tretë rasti"
+*   2.1. Për përdorimin e Instrumentalit (tṛtīyā = ⟪तृतीया⟫)
+*   3\. Ligji i quajtur cerebrale për -n- (një sandhi fjale)
+*   4\. Pasivi, Indikativ Present (yak = ⟪यक्⟫)
+*   4.1. Rregulla të veçanta për formimin e pasivit
+*   5\. Lista e fjalëve
+*   6\. Ushtrime
+*   7\. Lista e dytë e fjalëve
+*   8\. Ushtrim leximi dhe përkthimi
 
-## [Lektion 11](lektion11)
+## [Mësimi 11](lektion11)
 
-*   1\. Doppelter Akkusativ
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
+*   1\. Akuzativ i dyfishtë
+*   2\. Lista e fjalëve
+*   3\. Ushtrime
+*   4\. Ushtrim përsëritjeje
 
-## [Lektion 12](lektion12)
+## [Mësimi 12](lektion12)
 
-*   1\. Partizip Perfekt Passiv (PPP)
-    *   1.1. Schema für transitive Verben
-    *   1.2. Schema I für intransitive Verben und Verben der der Bewegung
-    *   1.3. Schema II für intransitive Verben und Verben der Bewegung
-*   2\. Zur Bedeutung des PPP
-*   3\. Bildung des PPP
-    *   3.1. PPP auf -ta (kta)
-        *   3.1.1. Ohne Bindevokal -i- (aniṭ)
-        *   3.1.2. Mit Bindevokal -i- (seṭ)
-*   4\. Gesetze der Lautverbindung im Wort
-*   5\. Wortliste
-    *   5.1. Passiv und PPP der bisher gelernten Wurzeln
-*   6\. Übung
+*   1\. Participa e Kaluar Pasive (PPP)
+*   1.1. Skemë për verbat tranzitive
+*   1.2. Skema I për verbat intransitive dhe verbët e lëvizjes
+*   1.3. Skema II për verbat intransitive dhe verbët e lëvizjes
+*   2\. Për kuptimin e PPP-së
+*   3\. Formimi i PPP-së
+*   3.1. PPP me -ta (kta)
+*   3.1.1. Pa zanore lidhëse -i- (aniṭ)
+*   3.1.2. Me zanore lidhëse -i- (seṭ)
+*   4\. Ligjet e bashkimit të tingujve në fjalë
+*   5\. Lista e fjalëve
+*   5.1. Pasivi dhe PPP e rrënjëve të mësuar deri tani
+*   6\. Ushtrime
 
-## [Lektion 13](lektion13)
+## [Mësimi 13](lektion13)
 
-*   1\. PPP auf -na-
-*   2\. Weiteres zum Gebrauch des PPP
-*   3\. Attributive Bestimmungen von Nomina (Wortstellung)
-*   4\. Bildung von Adjektiven auf -mant und -vant (taddhita)
-*   5\. Stammabstufung von Nomina
-*   6\. Zum Wortsandhi
-*   7\. Kasusendungen konsonantischer Stämme
-*   8\. Deklination der Stämme auf -mant und -vant
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+*   1\. PPP në -na-
+*   2\. Mëtejme rreth përdorimit të PPP
+*   3\. Përcaktime atributive të emrave (renditja e fjalëve)
+*   4\. Formimi i mbiemrave në -mant dhe -vant (taddhita)
+*   5\. Ndryshimi i rrënjës së emrave
+*   6\. Rreth sandhit të fjalëve
+*   7\. Përfundimet e rasteve të rrënjos konsonantore
+*   8\. Deklinimi i rrënjos në -mant dhe -vant
+*   9\. Listë fjalësh
+*   10\. Ushtrim
+*   11\. Ushtrim përsëritës
 
-## [Lektion 14](lektion14)
+## [Mësimi 14](lektion14)
 
-*   1\. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
-*   2\. Bildung der Genetivformen (ṣāṣṭhī f. = ⟪षष्ठी⟫)
-*   3\. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
-*   4\. Wortliste
-*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
-*   6\. Übung
+*   1\. Shprehja e marrëdhënies së gjërave të emërtuara nga substantivet: Gjenitivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = përfundimi i gjashtë i rastit)
+*   2\. Formimi i formave të gjenitivit (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3\. Mëtejme rreth përdorimit të gjenitivit (⟪षष्ठी⟫)
+*   4\. Listë fjalësh
+*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverba
+*   6\. Ushtrim
 
-## [Lektion 15](lektion15)
-
-*   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   3\. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   4\. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   5\. Zerlegung von Komposita (ausser Dvandvas)
-*   6\. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
-*   7\. Einteilung der ⟪तत्पुरुष⟫
-    *   7.1. Einteilung der ⟪कर्मधारय⟫
-*   8\. Wortliste
-*   9\. Übung 1
-*   10\. Übung 2
-*   11\. Übung 3
-
-## [Lektion 16](lektion16)
-
-*   1\. Zum Sandhi auslautender Konsonanten
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
-
-## [Lektion 17](lektion17)
-
-*   1\. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
-*   2\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
-*   3\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
-*   4\. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
-*   5\. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
-*   6\. Wortliste
-*   7\. Übung 1
-*   8\. Übung 2
-
-## [Lektion 18](lektion18)
+## [Mësimi 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
-    *   2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
-*   3\. Verbalkomposita
-    *   3.1. Nominalbildungen zu Verbalkomposita
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+*   2\. Kompozita determinative = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+*   3\. Kompozita determinative me pjesë të parë atributive / appozicionale = Karmadhāraya m. = ⟪कर्मधारय⟫
+*   4\. Kompozita determinative me një pjesë të parë, që ndodhet në një marrëdhënie rasti jo-atributive/appozicionale me pjesën e dytë = Tatpuruṣa në kuptimin më të ngushtë
+*   5\. Shpërbërja e kompozitave (përveç Dvandvas)
+*   6\. Forma e pjesës së parë në kompozita (⟪समास⟫ m.)
+*   7\. Ndërtimi i ⟪तत्पुरुष⟫
+*   7.1. Ndërtimi i ⟪कर्मधारय⟫
+*   8\. Listë fjalësh
+*   9\. Ushtrimi 1
+*   10\. Ushtrimi 2
+*   11\. Ushtrimi 3
 
-## [Lektion 19](lektion19)
+## [Mësimi 16](lektion16)
 
-*   1\. Der Relativsatz
-*   2\. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Rreth sandhit të konsonanteve përfundimtare
+*   2\. Listë fjalësh
+*   3\. Ushtrim
+*   4\. Ushtrim përsëritës
+
+## [Mësimi 17](lektion17)
+
+*   1\. Klasa e dytë prezense (⟪अदादि⟫ = ⟪अद्⟫ etj.)
+*   2\. Rrënjët e klasës së dytë prezence me gradim të stëmbit Niveli i lartë - Niveli i ulët
+*   3\. Rrënjët e klasës së dytë prezence me gradim të stëmbit Niveli i zgjatuar - Niveli i ulët
+*   4\. Rrënjët e klasës së dytë prezence pa gradim të stëmbit
+*   5\. Rrënjët dyzësh me fund -i/-ī me gradim të stëmbit
+*   6\. Lista e fjalëve
+*   7\. Ushtrimi 1
+*   8\. Ushtrimi 2
+
+## [Mësimi 18](lektion18)
+
+*   ⟪१⟫. ⟪सुभाषितम्⟫
+*   2\. Kompozita determinative (⟪तत्पुरुष⟫) me pjesë të parë adverbiale
+*   2.1. Kompozita nga tipi ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   2.2. Kuptimet e Tatpuruṣa nañ- (a- / an-)
+*   3\. Kompozita verbale
+*   3.1. Formime emërore për kompozitat verbale
+*   4\. Lista e fjalëve
+*   5\. Ushtrimi
+*   6\. Ushtrimi përsëritës
+
+## [Mësimi 19](lektion19)
+
+*   1\. Propozicioni relativ
+*   2\. Emërrrjedhja relative = ⟪व्यपेक्षकसर्वनाम⟫ n.
+*   3\. Lista e fjalëve
+*   4\. Ushtrimi
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lektion 20](lektion20)
+## [Mësimi 20](lektion20)
 
-*   1\. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
-*   2\. Bahuvrīhi mit attributivem Vorderglied
-*   3\. Bahuvrīhi mit appositionellem Vorderglied
-*   4\. Bahuvrīhi mit kasuellem Vorderglied
-*   5\. Bahuvrīhi mit adverbiellem Vorderglied
-*   6\. Flexion des Schlussglieds eines Bahuvrīhi
-*   7\. Eine andere Einteilung der Arten von Bahuvrīhis
-*   8\. Verhältnis von Bahuvrīhi und Relativsatz
-*   9\. Wortliste
-*   10\. Übung 1
-*   11\. Übung 2
-*   12\. Übersetzungsübung
+*   1\. Kompozita poseduese = ⟪बहुव्रीहि⟫ m.
+*   2\. Bahuvrīhi me pjesë të parë atributive
+*   3\. Bahuvrīhi me pjesë të parë apozicionale
+*   4\. Bahuvrīhi me pjesë të parë kasuale
+*   5\. Bahuvrīhi me pjesë të parë adverbiale
+*   6\. Fleksioni i pjesës së fundit të një Bahuvrīhi
+*   7\. Një ndarje tjetër e llojeve të Bahuvrīhisë
+*   8\. Marrëdhënia midis Bahuvrīhisë dhe propozicionit relativ
+*   9\. Lista e fjalëve
+*   10\. Ushtrimi 1
+*   11\. Ushtrimi 2
+*   12\. Ushtrimi përkthimi
 
-## [Lektion 21](lektion21)
+## [Mësimi 21](lektion21)
 
-*   1\. Weitere Präsensstämme auf -nt
-    *   1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
-    *   1.2. ⟪महान्त्⟫ "gross"
-*   2\. Sandhi für auslautende Nasale
-*   3\. Höfliche Formen der Anrede
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Steme prezence të tjera me fund -nt
+*   1.1. Participa prezence (⟪लडादेशः⟫) Parasmaipada
+*   1.2. ⟪महान्त्⟫ "i madh"
+*   2\. Sandhi për nasale në fund të fjalës
+*   3\. Forma të respektueshme të adresimit
+*   4\. Lista e fjalëve
+*   5\. Ushtrimi
 
-## [Lektion 22](lektion22)
+## [Mësimi 22](lektion22)
 
-*   1\. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   2\. Bildung des Absolutivums
-    *   2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-    *   2.2. Verben mit Präverb
-        *   2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
-        *   2.2.2. Wurzeln auf -ā
-        *   2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
-        *   2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Absolutivi (⟪क्त्वा । ल्यप्⟫)
+*   2\. Formimi i Absolutivit
+*   2.1. Foljet pa para-shtesë: Absolutiv në -⟪त्वा⟫
+*   2.2. Foljet me para-shtesë
+*   2.2.1. Rrënjët me zanor të gjatë (përveç -ā) ose me bashkëtingëllore
+*   2.2.2. Rrënjët në -ā
+*   2.2.3. Rrënjët që në nivelin e ulët përfundojnë me -i, -u, -ṛ të shkurtër
+*   2.2.4. Rrënjët në -am / -an, që në nivelin e ulët përfundojnë me -a
+*   3\. Lista e fjalëve
+*   4\. Ushtrime
 
-## [Lektion 23](lektion23)
+## [Mësimi 23](lektion23)
 
-*   1\. Der Infinitiv (⟪तुमुन्⟫)
-*   2\. Bildung des Infinitiv (⟪तुमुन्⟫)
-*   3\. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+*   1\. Infinitivi (⟪तुमुन्⟫)
+*   2\. Formimi i Infinitivit (⟪तुमुन्⟫)
+*   3\. Infinitivi (⟪तुमुन्⟫) për rrënjët e mësuar deri tani
+*   4\. Lista e fjalëve
+*   5\. Ushtrime
+*   6\. Ushtrim përsëritës
 
-## [Lektion 24](lektion24)
+## [Mësimi 24](lektion24)
 
-*   1\. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
-*   2\. Bildung des Dativ (⟪चतुर्थी⟫)
-    *   2.1. Konsonantische Stämme
-    *   2.2. Fragepronomen
-    *   2.3. Demonstrativpronomina
-    *   2.4. Vokalische Stämme
-*   3\. Sandhi von auslautendem -ai und -au
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Weitere Übungen zum Gebrauch des Dativ
+*   1\. Dativi (⟪चतुर्थी⟫ = "njësi e pestë rasti")
+*   2\. Formimi i Dativit (⟪चतुर्थी⟫)
+*   2.1. Themelore konsonantike
+*   2.2. Përemra pyetësorë
+*   2.3. Përemra demonstrativë
+*   2.4. Themelore zanorike
+*   3\. Sandhi për -ai dhe -au në fund të fjalës
+*   4\. Lista e fjalëve
+*   5\. Ushtrime
+*   6\. Ushtrime të tjera për përdorimin e Dativit
 
-## [Lektion 25](lektion25)
+## [Mësimi 25](lektion25)
 
-*   1\. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
-*   2\. Gebrauch des Ablativ (⟪पञ्चमी⟫)
-*   3\. Das Suffix -⟪तस्⟫
-*   4\. Andere Möglichkeiten, Begründungen auszudrücken
-*   5\. Wortliste
-*   6\. Übung
+*   1\. Formimi i Ablativit (⟪पञ्चमी⟫ = "njësi e gjashtë rasti")
+*   2\. Përdorimi i Ablativit (⟪पञ्चमी⟫)
+*   3\. Sufiksi -⟪तस्⟫
+*   4\. Mënyra të tjera për shprehjen e arsyejeve
+*   5\. Lista e fjalëve
+*   6\. Ushtrime
 *   7\. ⟪सुभाषितानि⟫
-*   8\. Übersetzungsübung
+*   8\. Ushtrim përkthimi
 
-## [Lektion 26](lektion26)
+## [Mësimi 26](lektion26)
 
-*   1\. Cerebralisationsgesetz für -s- im Wortinnern
-*   2\. Cerebralisationsgesetz für Dentale im Wortinnern
-*   3\. Wortsandhi für Palatal, Guttural, ṣ, h + -s
-*   4\. Grassmannsches Hauchdissimilationsgesetz
-*   5\. Wortsandhi für -m, -n vor Zischlaut
-*   6\. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   7\. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   8\. Übung
+*   1\. Ligji i cerebrales për -s- brenda fjalës
+*   2\. Ligji i cerebrales për dentale brenda fjalës
+*   3\. Sandhi i fjalëve për palatale, guturale, ṣ, h + -s
+*   4\. Ligji i dissimilimit të aspiratës së Grassmannit
+*   5\. Sandhi i fjalëve për -m, -n para zanoreve të zhurmshme
+*   6\. Përdorimi i ardhmes së thjeshtë (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   7\. Formimi i ardhmes së thjeshtë (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   8\. Ushtrime
 
-## [Lektion 27](lektion27)
+## [Mësimi 27](lektion27)
 
-*   1\. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung)
-*   2\. Bildung des Lokativ (⟪सप्तमी⟫)
-    *   2.1. Konsonatische Stämme
-    *   2.2. Frage, Demonstrativ- und Relativpronomina
-    *   2.3. Vokalische Stämme
-*   3\. Übersicht über die regulären Kasusendungen (⟪विभक्ति⟫) des Singular und Plural
-*   4\. Ein Vers mit allen Deklinationsformen des Singular zu ⟪राम⟫
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Deklinationsparadigmen zum Auswendiglernen
-    *   7.1. Maskulina auf -a: ⟪नर⟫
-    *   7.2. Neutra auf -a: ⟪फल⟫
-    *   7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
-    *   7.4. Maskulina auf -i: ⟪अरि⟫
-    *   7.5. Feminina auf -i: ⟪मति⟫
-    *   7.6. Maskulina auf -u: ⟪गुरु⟫
-    *   7.7. Feminina auf -u: ⟪धेनु⟫#
-    *   7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
-    *   7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
-    *   7.10. ⟪महान्त्⟫
-    *   7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
-    *   7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   7.13. Relativpronomen: ⟪यद्⟫
-    *   7.14. Fragepronomen: ⟪किम्⟫
+*   1\. Përdorimi i Lokativit (⟪सप्तमी⟫ f. = "shtatë pëshirje rasti")
+*   2\. Formimi i Lokativit (⟪सप्तमी⟫)
+*   2.1. Stemet konsonantore
+*   2.2. Pronoma pyetëse, demonstrative dhe relative
+*   2.3. Stemet vokalore
+*   3\. Përmbledhje e pëshirjeve rregulltë të rastit (⟪विभक्ति⟫) për numrin njëjës dhe shumës
+*   4\. Një varg me të gjitha format e deklinimit për numrin njëjës për ⟪राम⟫
+*   5\. Listë fjalësh
+*   6\. Ushtrime
+*   7\. Paradigmat e deklinimit për të mësuar në memorie
+*   7.1. Maskulina me -a: ⟪नर⟫
+*   7.2. Neutra me -a: ⟪फल⟫
+*   7.3. Feminina me -ā: ⟪क्षत्रिया⟫
+*   7.4. Maskulina me -i: ⟪अरि⟫
+*   7.5. Feminina me -i: ⟪मति⟫
+*   7.6. Maskulina me -u: ⟪गुरु⟫
+*   7.7. Feminina me -u: ⟪धेनु⟫#
+*   7.8. Feminina me dy ose më shumë zëra me -ī: ⟪देवी⟫
+*   7.9. Participo aktive e tanishme (Parasmaipada) me -ant: ⟪सन्त्⟫
+*   7.10. ⟪महान्त्⟫
+*   7.11. Maskulina dhe Neutra me -vant / -mant: ⟪गुणवन्त्⟫
+*   7.12. Pronomat demonstrative: ⟪तद् । एतद् । इदम्⟫
+*   7.13. Pronoma relative: ⟪यद्⟫
+*   7.14. Pronomat pyetëse: ⟪किम्⟫
 
-## [Lektion 28](lektion28)
+## [Mësimi 28](lektion28)
 
-*   1\. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   2\. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   3\. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   4\. Bildung des Passivs (⟪यक्⟫)  zum Kausativ
-*   5\. Bildung des Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
-*   6\. Bildung des PPP (⟪क्त⟫) zum Kausativ
-*   7\. Bildung des Absolutivs (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) zum Kausativ
-*   8\. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
-*   9\. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
-*   10\. Wortliste
-*   11\. Übung
+*   1\. Kausativja (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   2\. Struktura e fjalisë me Kausativin (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   3\. Formimi i stemit të tanishëm për Kausativin (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   4\. Formimi i Pasivës (⟪यक्⟫) për Kausativin
+*   5\. Formimi i së Ardhmes (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) për Kausativin
+*   6\. Formimi i PPP-së (⟪क्त⟫) për Kausativin
+*   7\. Formimi i Absolutivit (⟪क्त्वा । ल्यप्⟫) për Kausativin
+*   8\. Formimi i Infinitivit (⟪तुमुन्⟫) për Kausativin
+*   9\. Klasa e dhjetë e tanishme (⟪चुरादि⟫ = ⟪चुर्⟫ etj.)
+*   10\. Listë fjalësh
+*   11\. Ushtrime
 
-## [Lektion 29](lektion29)
+## [Mësimi 29](lektion29)
 
-*   1\. Verwendung des Parasmaipada und Ātmanepada im Kausativum
-*   2\. Wortliste
-*   3\. Übersetzungsübung zur Wiederholung
-*   4\. Futur und Kausativ zu den bisher gelernten Wurzeln
+*   1\. Përdorimi i Parasmaipada dhe Ātmanepada në Kausativ
+*   2\. Lista e fjalëve
+*   3\. Ushtrim përkthimi për përsëritje
+*   4\. Futuri dhe Kausativ për rrënjët e mësuar deri tani
 
-## [Lektion 30](lektion30)
+## [Mësimi 30](lektion30)
 
-*   1\. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
-*   2\. Gebrauch des Optativ (⟪लिङ्⟫)
-*   3\. Sekundärendungen der 3. Personen Singular und Plural
-*   4\. Bildung des Optativ Präsens (⟪लिङ्⟫)
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Sandhi von auslautendem -r
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. Klasa e 9-të Prezent (⟪क्र्यादि⟫ = "⟪क्री⟫ etj.")
+*   2\. Përdorimi i Optativit (⟪लिङ्⟫)
+*   3\. Përfundimet sekondare për personin e tretë në numrin singular dhe plural
+*   4\. Formimi i Optativ Prezent (⟪लिङ्⟫)
+*   4.1. Klasat tematike të Prezentit
+*   4.2. Klasat athematike të Prezentit
+*   5\. Sandhi për -r në fund të fjalës
+*   6\. Lista e fjalëve
+*   7\. Ushtrim
+*   8\. Ushtrim përsëritje për morfologjinë
 
-## [Lektion 31](lektion31)
+## [Mësimi 31](lektion31)
 
-*   1\. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
-*   2\. Wortliste
-*   3\. Übung
+*   1\. Klasa e 7-të Prezent (⟪रुधादि⟫ = "⟪रुध्⟫ etj.")
+*   2\. Lista e fjalëve
+*   3\. Ushtrim
 
-## [Lektion 32](lektion32)
+## [Mësimi 32](lektion32)
 
-*   1\. Die Vergangenheitstempora
-*   2\. Das Imperfekt (⟪लङ्⟫)
-*   3\. Regeln für das Augment
-*   4\. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Übung zur Wiederholung über die Weihnachtsferien
+*   1\. Kohët e kaluara
+*   2\. Imperfekti (⟪लङ्⟫)
+*   3\. Rregulla për Augmentin
+*   4\. Shembuj për formimin e Imperfektit te klasat individuale të Prezentit
+*   4.1. Klasat tematike të Prezentit
+*   4.2. Klasat athematike të Prezentit
+*   5\. Lista e fjalëve
+*   6\. Ushtrim
+*   7\. Ushtrim përsëritje gjatë pushimeve të Krishtlindjes
 
-## [Lektion 33](lektion33)
+## [Mësimi 33](lektion33)
 
-*   1\. Die Reduplikation (⟪अभ्यास⟫ m.)
-    *   1.1. Der Reduplikationskonsonant
-*   2\. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
-    *   2.1. Der Reduplikationsvokal der 3. Präsensklasse
-*   3\. Zum Ablaut von ā
-*   4\. Wurzeln auf -ā der dritten Präsensklasse
-    *   4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
-*   5\. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Reduplikimi (⟪अभ्यास⟫ m.)
+*   1.1. Konsonanti i reduplikimit
+*   2\. Klasa e tretë Prezent (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etj.")
+*   2.1. Vokali i reduplikimit te klasa e tretë Prezent
+*   3\. Rreth Ablaut-it të ā-së
+*   4\. Rrënja me -ā te klasa e tretë Prezent
+*   4.1. Rrënjat ⟪दा⟫ dhe ⟪धा⟫
+*   5\. Participi Prezent Parasmaipada i rrënjeve të klasës së tretë Prezent
+*   6\. Lista e fjalëve
+*   7\. Ushtrim
 
-## [Lektion 34](lektion34)
+## [Mësimi 34](lektion34)
 
-*   1\. Das Perfekt (⟪लिट्⟫)
-*   2\. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Stammabstufung
-    *   2.2. Die Perfektendungen
-    *   2.3. Bindevokal -i-
-    *   2.4. Reduplikation konsonantisch anlautender Wurzeln
-    *   2.5. Reduplikation vokalisch anlautender Wurzeln
-*   3\. Typen des reduplizierten Perfekts
-*   4\. Perfekt Typ I: Perfekt ohne Stammabstufung
-*   5\. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Übersetzungsübung
+*   1\. Perfekti (⟪लिट्⟫)
+*   2\. Perfekti me reduplikim (⟪द्वित्वलिट्⟫)
+*   2.1. Ndryshimi i rrënjës
+*   2.2. Pjesëtuesit e perfektit
+*   2.3. Vokali lidhës -i-
+*   2.4. Reduplikimi i rrënjeve që fillojnë me konsonant
+*   2.5. Reduplikimi i rrënjeve që fillojnë me vokale
+*   3\. Tipet e perfektit të reduplikuar
+*   4\. Perfekti Tip I: Perfekt pa ndryshim të rrënjës
+*   5\. Perfekti II: Rrënja e fortë në nivel të lartë, rrënja e dobët në nivel të ulët
+*   6\. Lista e fjalëve
+*   7\. Ushtrime
+*   8\. Ushtrim përkthimi
 
-## [Lektion 35](lektion35)
+## [Mësimi 35](lektion35)
 
-*   1\. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-    *   1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-    *   1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-*   2\. Perfekt Typ IV: Wurzeln auf -ā / -ai
-*   3\. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
-    *   3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
-    *   3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
-    *   3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Perfekti Tip III: Rrënja e fortë në nivel të lartë/niveli i zgjatjes
+*   1.1. Perfekti Tip IIIa: Rrënja e fortë në nivel të lartë/niveli i zgjatjes, rrënja e dobët në nivel të ulët
+*   1.2. Perfekti Tip IIIb: Rrënja e fortë në nivel të lartë/niveli i zgjatjes, rrënja e dobët në nivel të lartë
+*   2\. Perfekti Tip IV: Rrënjet mbi -ā / -ai
+*   3\. Perfekti Tip V: Rrënjet Konsonant-a-Konsonant
+*   3.1. Perfekti Tip Va: rrënja e dobët në nivel të ulët
+*   3.2. Perfekti Tip Vb: Rrënjet Konsonant-a-Konsonant, konsonanti fillues nuk është gutural, aspirat ose h. Rrënja e dobët pa reduplikim, me -e-
+*   3.3. Perfekti Tip Vc: Rrënjet Konsonant-a-Konsonant. Rrënja e dobët në nivel të lartë
+*   4\. Lista e fjalëve
+*   5\. Ushtrime
 
-## [Lektion 36](lektion36)
+## [Mësimi 36](lektion36)
 
-*   1\. Besondere Bildungen des Perfekts
-*   2\. Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   3\. Perfekt Passiv
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Das Perfekt (⟪लिट्⟫) zu den bisher gelernten Wurzeln
-*   7\. Übersetzungsübung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. Formime të veçanta të perfektit
+*   2\. Perfekti periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   3\. Pasivi i perfektit
+*   4\. Lista e fjalëve
+*   5\. Ushtrime
+*   6\. Perfekti (⟪लिट्⟫) për rrënjët e mësura deri tani
+*   7\. Ushtrim përkthimi
+*   8\. Ushtrime për përsëritje të morfologjisë
 
-## [Lektion 37](lektion37)
+## [Mësimi 37](lektion37)
 
-*   1\. Das Adverb (⟪क्रियाविशेषनम्⟫)
-*   2\. Adverbialer Gebrauch von Kasusformen
-    *   2.1. Akkusativ (⟪द्वितीया⟫)
-    *   2.2. Instrumentalis (⟪तृतीया⟫)
-    *   2.3. Dativ (⟪चतुर्थी⟫)
-    *   2.4. Ablativ (⟪पञ्चमी⟫)
-    *   2.5. Genetiv (⟪षष्ठी⟫)
-    *   2.6. Lokativ (⟪सप्तमी⟫)
-*   3\. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
-*   4\. Bildung von Adverbien mit Adverbialsuffixen
-*   5\. Adverbiale Komposita
-    *   5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
-    *   5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
-    *   5.3. ⟪अव्ययीभाव⟫-Komposita
-*   6\. Syntaktisches
-*   7\. Indefinitpronomina
-*   8\. Der Fragesatz
-    *   8.1. Wortfragen (Ergänzungsfragen)
-    *   8.2. Satzfragen
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+*   1\. Adverbi (⟪क्रियाविशेषनम्⟫)
+*   2\. Përdorimi adverbial i formave të rasteve
+*   2.1. Akuzativ (⟪द्वितीया⟫)
+*   2.2. Instrumental (⟪तृतीया⟫)
+*   2.3. Dativ (⟪चतुर्थी⟫)
+*   2.4. Ablativ (⟪पञ्चमी⟫)
+*   2.5. Gjenitiv (⟪षष्ठी⟫)
+*   2.6. Lokativ (⟪सप्तमी⟫)
+*   3\. Përdorimi adverbial i rasteve që nuk përdoren më
+*   4\. Formimi i adverbëve me prapashta adverbiale
+*   5\. Kompozita adverbiale
+*   5.1. Kompozita me një adverb ose rast të përdorur si adverb si pjesa e dytë
+*   5.2. ⟪बहुव्रीहि⟫ të përdorura si adverb
+*   5.3. Kompozita ⟪अव्ययीभाव⟫
+*   6\. Gjuhësore (Sintaksë)
+*   7\. Prouna të pacaktuara (Indefinitpronomina)
+*   8\. Pyetja (Frasa pyetëse)
+*   8.1. Pyetje për fjalë (Pyetje plotësuese)
+*   8.2. Pyetje për fjali (Pyetje të plota)
+*   9\. Listë fjalësh
+*   10\. Ushtrim
+*   11\. Ushtrim përsëritës
 
-## [Lektion 38](lektion38)
+## [Mësimi 38](lektion38)
 
-*   1\. Losung der Woche
-*   2\. Lautwandel von Nasalen im Wort
-*   3\. Deklination der Stämme auf -n
-    *   3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
-    *   3.2. Nomina auf -man bzw. -van nach Konsonant
-    *   3.3. Maskulina und Neutra auf -in, -min, -vin
-*   4\. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
-*   5\. Syntaktisches zu ⟪नामन्⟫
-*   6\. Syntaktisches zu ⟪आत्मन्⟫
-*   7\. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
-*   8\. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wortliste zur Übersetzungsübung
-*   12\. Übersetzungsübung
+*   1\. Zgjidhja e javës
+*   2\. Ndryshimi fonetik i nazaleve në fjalë
+*   3\. Deklinimi i rrënjeve në -n
+*   3.1. Emra në -an si dhe emrat -man ose -van pas zanoreje
+*   3.2. Emra në -man ose -van pas bashkëtingëlloreje
+*   3.3. Mashkullore dhe asnjëësore në -in, -min, -vin
+*   4\. Mbi formimin e emrave: prapashta ⟪तद्धित⟫ -in
+*   5\. Gjuhësore për ⟪नामन्⟫
+*   6\. Gjuhësore për ⟪आत्मन्⟫
+*   7\. Rrënjet me përfundim konsonant si pjesa e parë e kompozitave
+*   8\. Rrënjet në -an si pjesa e dytë e një ⟪बहुव्रीहि⟫
+*   9\. Listë fjalësh
+*   10\. Ushtrim
+*   11\. Listë fjalësh për ushtrimin e përkthimit
+*   12\. Ushtrim përkthimi
 
-## [Lektion 39](lektion39)
+## [Mësimi 39](lektion39)
 
-*   1\. Die Personalendungen der ersten Person (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "dritte Person")
-*   2\. Bildung der Verbformen der ersten Person thematischer Präsensstämme
-    *   2.1. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.2. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.3. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Passiv (Suffix ⟪यक्⟫)
-*   3\. Bildung der Verbformen der ersten Person des einfachen Futur (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫-Bildung
-    *   3.2. ⟪सेट्⟫-Bildung
-*   4\. Bildung der Verbformen der ersten Person athematischer Präsensstämme
-    *   4.1. Zweite Präsensklasse (⟪अदादि⟫)
-    *   4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   4.4. Achte Präsensklasse (⟪तनादि⟫)
-    *   4.5. Siebte Präsensklasse (⟪रुधादि⟫)
-    *   4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   5\. Übung
+*   1\. Ndryesat personale të personit të parë (⟪तृतीयः पुरुषः⟫ = "personat e tretë")
+*   2\. Formimi i formave verbale të personit të parë për rrënjët prezente tematike
+*   2.1. Klasa e parë prezente (⟪भ्वादि⟫)
+*   2.2. Klasa e gjashtë prezente (⟪तुदादि⟫)
+*   2.3. Klasa e katërt prezente (⟪दिवादि⟫)
+*   2.4. Klasa e dhjetë prezente (⟪चुरादि⟫) dhe kauzativet (⟪णिजन्त⟫)
+*   2.5. Pasiv (sufiksi ⟪यक्⟫)
+*   3\. Formimi i formave verbale të personit të parë për ardhmen e thjeshtë (⟪ऌत्⟫)
+*   3.1. Formimi ⟪अनिट्⟫
+*   3.2. Formimi ⟪सेट्⟫
+*   4\. Formimi i formave verbale të personit të parë për rrënjët prezente athematike
+*   4.1. Klasa e dytë prezente (⟪अदादि⟫)
+*   4.2. Klasa e tretë prezente (⟪जुहोत्यादि⟫)
+*   4.3. Klasa e pestë prezente (⟪स्वादि⟫)
+*   4.4. Klasa e tetë prezente (⟪तनादि⟫)
+*   4.5. Klasa e shtatë prezente (⟪रुधादि⟫)
+*   4.6. Klasa e nëntë prezente (⟪क्र्यादि⟫)
+*   5\. Ushtrime
 
-## [Lektion 40](lektion40)
-
-*   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
-    *   2.1. Perfekt Typ I: keine Stammabstufung
-    *   2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   2.5. Perfekt Typ V: Konsonant-a-Konsonant
-        *   2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   2.6. Besondere Perfekt-Bildungen
-*   3\. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
-*   5\. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 41](lektion41)
-
-*   1\. ⟪सुभाषिते⟫  (zwei Sprichwörter)
-*   2\. Weitere ⟪कृत्⟫-Bildungen auf -a
-    *   2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) Passiv, Partizip Futur (⟪ऌडादेशः⟫) Ā
-        *   2.1.1. Thematische Präsensstämme, Passiv und Futur
-        *   2.1.2. Athematische Präsensklassen
-    *   2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-        *   2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
-        *   2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
-        *   2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
-        *   2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
-    *   2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-    *   2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
-    *   2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 42](lektion42)
-
-*   1\. Stämme auf -ṛ
-    *   1.1. Stämme mit Dehnstufe im starken Stamm
-    *   1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
-    *   1.3. Stämme mit Hochstufe im starken Stamm
-    *   1.4. Stämme auf -ṛ in Komposita
-*   2\. Wortliste
-    *   2.1. Einige Verwandtschaftsbezeichnungen
-*   3\. Übung
-*   4\. Übersetzungsübung
-
-## [Lektion 43](lektion43)
-
-*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
-*   2\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
-    *   2.1. Thematische Stämme
-        *   2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
-        *   2.1.2. Sechste Präsensklasse (⟪तुदादि⟫)
-        *   2.1.3. Vierte Präsensklasse (⟪दिवादि⟫)
-        *   2.1.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-        *   2.1.5. Passiv
-        *   2.1.6. Futur (⟪ऌट्⟫)
-            *   2.1.6.1. ⟪अनिट्⟫-Bildungen
-            *   2.1.6.2. ⟪सेट्⟫-Bildungen
-*   3\. Das Personalpronomen der zweiten Person
-*   4\. Wortliste
-*   5\. Übung
-*   6\. ⟪संवादः⟫ = Gespräch
-
-## [Lektion 44](lektion44)
-
-*   1.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
-    *   1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.2. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Zum Wortsandhi
-    *   2.1. Zum Wortsandhi für dh-
-    *   2.2. Zum Wortsandhi für s-
-*   3.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
-    *   3.1. Zweite Präsensklasse (⟪अदादि⟫)
-*   4\. Der Vokativ (⟪आमन्त्रितम्⟫)
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 45](lektion45)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
-    *   1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   1.2. Siebte Präsensklasse (⟪रुधादि⟫)
-*   2\. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 46](lektion46)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
-    *   1.1. Endungen
-    *   1.2. Lautveränderung der Endung -dhve
-    *   1.3. Perfekt Typ I: keine Stammabstufung
-    *   1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   1.7. Perfekt Typ V: Konsonant-a-Konsonant
-        *   1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   1.8. Besondere Perfekt-Bildungen
-    *   1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   2\. Wortliste
-*   3\. Übung
-
-## [Lektion 47](lektion47)
-
-*   1\. Der Imperativ (⟪लोट्⟫)
-*   2\. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an thematischen Präsensstämmen
-    *   2.2. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.4. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-    *   2.6. Passiv
-*   3\. Übung
-
-## [Lektion 48](lektion48)
+## [Mësimi 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an athematischen Präsensstämmen
-    *   2.2. Form des Präsensstamms
-    *   2.3. Zweite Präsensklasse (⟪अदादि⟫)
-    *   2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-*   3\. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Übersetzungsübung
+*   2\. Formimi i formave verbale të personit të parë për perfektin (⟪लिट्⟫)
+*   2.1. Tipi I i perfektit: pa gradacion të rrënjës
+*   2.2. Tipi II i perfektit: rrënjë e fortë në nivel të lartë, rrënjë e dobët në nivel të ulët
+*   2.3. Tipi III i perfektit: Rrënjë e fortë në nivel të lartë/gjatësor
+*   2.3.1. Tipi IIIa i perfektit: Rrënjë e fortë në nivel të lartë/gjatësor, rrënjë e dobët në nivel të ulët
+*   2.3.2. Tipi IIIb i perfektit: Rrënjë e fortë në nivel të lartë/gjatësor, rrënjë e dobët në nivel të lartë
+*   2.4. Tipi IV i perfektit: Rrënjët mbi -ā / -ai
+*   2.5. Tipi V i perfektit: Konsonant-a-Konsonant
+*   2.5.1. Tipi Va i perfektit: Konsonant-a-Konsonant, rrënjë e dobët në nivel të ulët
+*   2.5.2. Tipi Vb i perfektit: Konsonant-a-Konsonant, konsonanti fillues nuk është gutural, aspiratë, h; rrënjë e dobët pa reduplikim, me -e-
+*   2.5.3. Tipi Vc i perfektit: Konsonant-a-Konsonant, rrënjë e dobët në nivel të lartë
+*   2.6. Formime speciale perfekte
+*   3\. Formimi i formave verbale të personit të parë për perfektin periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   4\. Aspektet sintaktike të personit të parë (⟪तृतीयः⟫)
+*   5\. Pronomat personale (⟪पुरुषार्थकसर्वनाम⟫) për numrin njëjës dhe shumës të personit të parë
+*   6\. Lista e fjalëve
+*   7\. Ushtrime
+*   8\. Ushtrim përsëritës për morfologjinë
 
-## [Lektion 49](lektion49)
+## [Mësimi 41](lektion41)
 
-*   1\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
-    *   1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
-    *   1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.3. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Deklination der Nominalstämme auf -as, -is, -us
-*   3\. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
-*   4\. Wortliste
-*   5\. Wiederholungsübung zur Formenlehre
-*   6\. Übersetzungsübung
+*   1\. ⟪सुभाषिते⟫  (dy parujë)
+*   2\. Formime të tjera ⟪कृत्⟫- me -a
+*   2.1. Participo i Kohës së Tashme (⟪लडादेशः⟫) Ā, Participo i Kohës së Tashme (⟪लडादेशः⟫) Pasiv, Participo i Kohës së Ardhshme (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Steme tematike të Kohës së Tashme, Pasiv dhe Ardhshëm
+*   2.1.2. Klasat athematische të Kohës së Tashme
+*   2.2. "Participo" i nevojshmërisë pasive (Gerundivum) (⟪कृत्य⟫)
+*   2.2.1. Sufiksi -⟪तव्य⟫ / -⟪तव्या⟫
+*   2.2.2. Sufiksi -⟪अनीय⟫ / -⟪अनीया⟫
+*   2.2.3. Sufiksi -⟪य⟫ / -⟪या⟫
+*   2.2.4. Sufiksi -⟪त्य⟫ / ⟪त्या⟫ (në vend të -⟪य⟫ / -⟪या⟫)
+*   2.3. Sintaksë për "Participo" të nevojshmërisë pasive (Gerundivum) (⟪कृत्य⟫)
+*   2.4. Dallime në përdorimin e sufikseve Gerundiv
+*   2.5. Asnjë lidhje me ⟪सु⟫- dhe ⟪दुस्⟫-
+*   3\. Listë fjalësh
+*   4\. Ushtrim
 
-## [Lektion 50](lektion50)
+## [Mësimi 42](lektion42)
 
-*   1\. Nominalbildung: regelmässige Steigerung
-*   2\. Wortliste
-*   3\. Übersetzungsübung
+*   1\. Steme me -ṛ
+*   1.1. Steme me shkallë të zgjeruar (Dehnstufe) në stemen e fortë
+*   1.2. Formim emrash: Sufiksi ⟪कृत्⟫ -⟪तृ⟫
+*   1.3. Steme me shkallë të lartë (Hochstufe) në stemen e fortë
+*   1.4. Steme me -ṛ në kompozita
+*   2\. Listë fjalësh
+*   2.1. Disa emërtime për marrëdhëniet familjare
+*   3\. Ushtrim
+*   4\. Ushtrim përkthimi
 
-## [Lektion 51](lektion51)
+## [Mësimi 43](lektion43)
 
-*   1\. ⟪उपपद⟫-Komposita
-*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten
-    *   2.1. Stämme auf nichtpalatalen Verschlusslaut
-    *   2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
-    *   2.3. Stämme auf -h
-*   3\. Sandhi von anlautendem h-
-*   4\. Sandhi von anlautendem ch-
-*   5\. -ch- im Wortinnern
-*   6\. Wortliste
-*   7\. Übersetzungsübung
+*   1\. Fundimet personale të personit të dytë (⟪मध्यमः⟩ = "personi i mesit")
+*   2\. Formimi i formave verbale të personit të dytë (⟪मध्यमः⟩)
+*   2.1. Steme tematike
+*   2.1.1. Klasa e parë e Kohës së Tashme (⟪भ्वादि⟩)
+*   2.1.2. Klasa e gjashtë e Kohës së Tashme (⟪तुदादि⟩)
+*   2.1.3. Klasa e katërt e Kohës së Tashme (⟪दिवादि⟩)
+*   2.1.4. Klasa e dhjetë e Kohës së Tashme (⟪चुरादि⟩) dhe Kausativet
+*   2.1.5. Pasiv
+*   2.1.6. Ardhshëm (⟪ऌट्⟩)
+*   2.1.6.1. Formime ⟪अनिट्⟩
+*   2.1.6.2. Formime ⟪सेट्⟩
+*   3\. Përemri personal i personit të dytë
+*   4\. Listë fjalësh
+*   5\. Ushtrim
+*   6\. ⟪संवादः⟩ = Bisedë
 
-## [Lektion 52](lektion52)
+## [Mësimi 44](lektion44)
 
-*   1\. Neutrum der Stämme auf -i und -u
-*   2\. Nominalbildung
-    *   2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-    *   2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-    *   2.3. ⟪तद्धित⟫-Suffix -eya
-*   3\. Adverbialbildung: Adverbialsuffix -śas
-*   4\. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
-    *   4.1. cvi-Bildungen
-    *   4.2. Suffix -sāt
-*   5\. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-*   6\. Das Zahlwort (⟪सम्ख्या⟫ f.)
-    *   6.1. Kardinalzahlen
-        *   6.1.1. Zahladjektive (für 1 bis 19)
-        *   6.1.2. Zahlsubstantive (für 19ff.)
-        *   6.1.3. Syntaktisches zu den Kardinalzahlen
-    *   6.2. Ordinalzahlen
-    *   6.3. Zahladverbien
-    *   6.4. Zahladjektive
-    *   6.5. Komposita mit Kardinalzahlen im Vorderglied
-*   7\. Wortliste
-*   8\. Übersetzungsübung
-*   9\. Aufgaben während der Semesterferien
+*   1. Formimi i formave verbale të dytës (⟪मध्यमः⟫) të rrënjëve athematike me prapashtesë që mbaron në zanor
+*   1.1. Klasa e pestë e prezencës (⟪स्वादि⟫)
+*   1.2. Klasa e tetë e prezencës (⟪तनादि⟫)
+*   1.3. Klasa e nëntë e prezencës (⟪क्र्यादि⟫)
+*   2. Mbi sandhin e fjalëve
+*   2.1. Sandhi i fjalës për dh-
+*   2.2. Sandhi i fjalës për s-
+*   3. Formimi i formave verbale të dytës (⟪मध्यमः⟫) të rrënjëve athematike pa prapashtesë që mbaron në zanor
+*   3.1. Klasa e dytë e prezencës (⟪अदादि⟫)
+*   4. Vokativi (⟪आमन्त्रितम्⟫)
+*   5. Lista e fjalëve
+*   6. Ushtrimi
+*   7. Ushtrim përsëritës për morfologjinë
 
-## [Lektion 53](lektion53)  (Semesterferien)
+## [Mësimi 45](lektion45)
 
-*   1\. Der Dual (⟪द्विवचन⟫ n.) der Nomina
-*   2\. Dualendungen des Nomen
-*   3\. Der Dual konsonantisch auslautender Stämme
-    *   3.1. Stämme ohne Stammabstufung
-    *   3.2. Stämme mit Stammabstufung
-*   4\. Der Dual vokalisch auslautender Stämme
-*   5\. Dualdvandva
-*   6\. Der Dual von Pronomina
-*   7\. Pronominaladjektive
-*   8\. Unregelmässige Steigerung
-*   9\. Deklination der Komparative auf -īyas
-*   10\. Metrik (Lehre von den Versmassen)
-    *   10.1. Bedeutung der Bestimmung des Metrums
-    *   10.2. Arten von Metren
-    *   10.3. Die metrische Quantität von Silben
-    *   10.4. Der epische Śloka (⟪श्लोक⟫ m.)
-*   11\. Übung
+*   1. Formimi i formave verbale të dytës (⟪मध्यमः⟫) të rrënjëve athematike pa prapashtesë që mbaron në zanor (Vazhdimi)
+*   1.1. Klasa e tretë e prezencës (⟪जुहोत्यादि⟫)
+*   1.2. Klasa e shtatë e prezencës (⟪रुधादि⟫)
+*   2. Vokativi singular (⟪आमन्त्रितमेकवचने⟫)
+*   3. Lista e fjalëve
+*   4. Ushtrimi
 
-## [Lektion 54](lektion54)
+## [Mësimi 46](lektion46)
 
-*   1\. Vorbemerkung
-*   2\. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
-*   3\. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
-*   4\. Übung zur Metrik
-*   5\. Bildungstypen des Aorist (⟪लुङ्⟫)
-*   6\. Wurzelaorist
-    *   6.1. Der Aorist der 3.sg.Passiv
-*   7\. Übung
+*   1. Formimi i formave verbale të dytës (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+*   1.1. Përfundimet
+*   1.2. Ndryshimi fonetik i përfundimit -dhve
+*   1.3. Perfekt Tipi I: pa gradacion të rrënjës
+*   1.4. Perfekt Tipi II: rrënjë e fortë në nivel të lartë, rrënjë e dobët në nivel të ulët
+*   1.5. Perfekt Tipi III: Rrënjë e fortë në nivel të lartë/gjatësor
+*   1.5.1. Perfekt Tipi IIIa: Rrënjë e fortë në nivel të lartë/gjatësor, rrënjë e dobët në nivel të ulët
+*   1.5.2. Perfekt Tipi IIIb: Rrënjë e fortë në nivel të lartë/gjatësor, rrënjë e dobët në nivel të lartë
+*   1.6. Perfekt Tipi IV: Rrënjë me -ā / -ai
+*   1.7. Perfekt Tipi V: Konsonant-a-Konsonant
+*   1.7.1. Perfekt Tipi Va: Konsonant-a-Konsonant, rrënjë e dobët në nivel të ulët
+*   1.7.2. Perfekt Tipi Vb: Konsonant-a-Konsonant, konsonanti fillues nuk është gutural, aspiratë, h; Rrënjë e dobët pa reduplikim, me -e-
+*   1.7.3. Perfekt Tipi Vc: Konsonant-a-Konsonant, rrënjë e dobët në nivel të lartë
+*   1.8. Formime speciale perfekte
+*   1.9. Perfekt periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   2. Lista e fjalëve
+*   3. Ushtrimi
 
-## [Lektion 55](lektion55)
+## [Mësimi 47](lektion47)
 
-*   1\. Der a-Aorist (Aorist mit Themavokal)
-*   2\. Übung
+*   1\. Imperativi (⟪लोट्⟫)
+*   2\. Formimi i Imperativit (⟪लोट्⟫) për rrënjët e prezencit tematik
+*   2.1. Përfundimet e Imperativit te rrënjët e prezencit tematik
+*   2.2. Klasa e parë e prezencit (⟪भ्वादि⟫)
+*   2.3. Klasa e gjashtë e prezencit (⟪तुदादि⟫)
+*   2.4. Klasa e katërt e prezencit (⟪दिवादि⟫)
+*   2.5. Klasa e dhjetë e prezencit (⟪चुरादि⟫) dhe Kausativet
+*   2.6. Pasivi
+*   3\. Ushtrime
 
-## [Lektion 56](lektion56)
+## [Mësimi 48](lektion48)
 
-*   1\. Der reduplizierte Aorist
-    *   1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-*   2\. Der Injunktiv
-*   3\. Der Verbotssatz
-*   4\. ⟪स्म⟫
-*   5\. Übung
+*   1\. ⟪सुभाषितानि⟫
+*   2\. Formimi i Imperativit (⟪लोट्⟫) për rrënjët e prezencit atematik
+*   2.1. Përfundimet e Imperativit te rrënjët e prezencit atematik
+*   2.2. Forma e rrënjës së prezencit
+*   2.3. Klasa e dytë e prezencit (⟪अदादि⟫)
+*   2.4. Klasa e tretë e prezencit (⟪जुहोत्यादि⟫)
+*   3\. Mbi formimin e emrave: prapashtesat -a dhe -ya të ⟪तद्धित⟫
+*   4\. Lista e fjalëve
+*   5\. Ushtrime
+*   6\. Ushtrim përkthimi
 
-## [Lektion 57](lektion57)
+## [Mësimi 49](lektion49)
 
-*   1\. Aorist 4: s-Aorist
-*   2\. Übung
+*   1\. Formimi i Imperativit (⟪लोट्⟫) për rrënjët e prezencit atematik (Vazhdimi)
+*   1.1. Klasa e shtatë e prezencit (⟪रुधादि⟫)
+*   1.2. Klasa e pestë e prezencit (⟪स्वादि⟫)
+*   1.3. Klasa e tetë e prezencit (⟪तनादि⟫)
+*   1.4. Klasa e nëntë e prezencit (⟪क्र्यादि⟫)
+*   2\. Deklinimi i rrënjëve emra me -as, -is, -us
+*   3\. Formimi i emrave: prapashtesa -as e ⟪कृत्⟫ neutër
+*   4\. Lista e fjalëve
+*   5\. Ushtrim përsëritës për morfologjinë
+*   6\. Ushtrim përkthimi
 
-## [Lektion 58](lektion58)
+## [Mësimi 50](lektion50)
 
-*   1\. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-*   3\. Der Dual des einfachen Futurs (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫
-    *   3.2. ⟪सेट्⟫
-*   4\. Der Dual Passiv (Suffix -⟪यक्⟫)
-*   5\. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   6\. Aorist 5: iṣ-Aorist
-*   7\. Übung
+*   1\. Formimi i emrave: shkallëzim i rregullt
+*   2\. Lista e fjalëve
+*   3\. Ushtrim përkthimi
 
-## [Lektion 59](lektion59)
+## [Mësimi 51](lektion51)
 
-*   1\. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Der Passiv (Suffix -⟪यक्⟫)
-*   3\. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   4\. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   4.1. Wurzelaorist
-    *   4.2. a-Aorist
-    *   4.3. Reduplizierter Aorist
-    *   4.4. s-Aorist
-    *   4.5. iṣ-Aorist
-*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
-*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
-*   7\. Übung
+*   1\. Kompozitat e ⟪उपपद⟫
+*   2\. Deklinimi i rrënjëve që përfundojnë me një konsonant të thjeshtë (përveç nazalit, gjysmëzërit dhe -s)
+*   2.1. Rrënjët me përfundim në konsonant të mbyllur jo-palatal
+*   2.2. Rrënjët me përfundim në konsonant të mbyllur palatal (c, ch, j), ś, ṣ
+*   2.3. Rrënjët me përfundim në -h
+*   3\. Sandhi për h- filluese
+*   4\. Sandhi për ch- filluese
+*   5\. -ch- brenda fjalës
+*   6\. Lista e fjalëve
+*   7\. Ushtrim përkthimi
 
-## [Lektion 60](lektion60)
+## [Mësimi 52](lektion52)
 
-*   1\. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Typ 1: keine Stammabstufung
-    *   2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Typ 4: Wurzeln auf -ā / -ai
-    *   2.5. Typ 5: Konsonant-a-Konsonant
-        *   2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-*   3\. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-*   5\. Deklination der Stämme auf -añc (-ac)
-    *   5.1. Dreistämmige Stämme auf -añc
-    *   5.2. Zweistämmige Stämme auf -añc
-*   6\. Das Desiderativum (⟪सन्⟫)
-    *   6.1. Bildung des Desiderativstammes
-    *   6.2. Konjugation des Desiderativs (⟪सन्⟫)
-*   7\. Übung
+*   1\. Neutrale e të rrënjeve me -i dhe -u
+*   2\. Formimi i emrave
+*   2.1. PPP + -vant: Participi i së shkuarës Parasmaipada
+*   2.2. ⟪तद्धित⟫-sufiksi -maya / -mayī
+*   2.3. ⟪तद्धित⟫-sufiksi -eya
+*   3\. Formimi i fjalisë: Sufiksi adverbial -śas
+*   4\. Kompozitat verbale që shprehin se diçka bëhet ose bëhet ajo që nuk ishte më parë (⟪अभुततद्भावः⟫)
+*   4.1. Formimet cvi-
+*   4.2. Sufiksi -sāt
+*   5\. Ripërsëritjet e fjalëve (⟪द्विरुक्तम्⟫)
+*   6\. Numri (⟪सम्ख्या⟫ f.)
+*   6.1. Numrat kardinalë
+*   6.1.1. Adjeqte numerike (për 1 deri në 19)
+*   6.1.2. Emra numerikë (për 19 e lart)
+*   6.1.3. Sintaksa për numrat kardinalë
+*   6.2. Numrat ordinalë
+*   6.3. Adverbe numerike
+*   6.4. Adjeqte numerike
+*   6.5. Kompozita me numra kardinalë në pjesën e parë
+*   7\. Fjalor
+*   8\. Ushtrim përkthimi
+*   9\. Detyra gjatë pushimeve të semestrit
 
-## [Lektion 61](lektion61)
+## [Mësimi 53](lektion53)  (Pushimet e semestrit)
 
-*   1\. Deklination der Wurzelnomina auf -ā, -ī, -ū
-    *   1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
-    *   1.2. Feminine Wurzelnomina auf -ī
-    *   1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
-    *   1.4. Einsilbige, feminine Wurzelnomina auf -ū
-    *   1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
-    *   1.6. Deklination mehrsilbiger Feminina auf -ū
-*   2\. Das periphrastische Futur (⟪लुट्⟫)
-*   3\. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
-    *   3.1. Ātmanepada-Intensivum
-    *   3.2. Parasmaipada-Intensivum
-*   4\. Denominativa (⟪नामधातु⟫)
-    *   4.1. Bildung ohne besonderes Suffix, Parasmaipada
-    *   4.2. Bildung mit Suffix -ya, Parasmaipada
-    *   4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
-    *   4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
-    *   4.5. Bildung mit dem Suffix -ya, Ātmanepada
-    *   4.6. Bildung mit dem Suffix -aya, -āpaya
-*   5\. Der Benediktiv (⟪आशीर्लिङ्⟫)
-*   6\. Der Konditionalis (⟪ऌङ्⟫)
-*   7\. Deklination der Nomina auf -ai, -o, -au
-*   8\. Restliche Pronomina
-    *   8.1. Personalpronomen des Dual
-    *   8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
-*   9\. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   1\. Duali (⟪द्विवचन⟫ n.) i emrave
+*   2\. Përfundimet e dualit për emrat
+*   3\. Duali i rrënjeve me përfundim konsonantor
+*   3.1. Rrënjë pa gradacion të rrënjës
+*   3.2. Rrënjë me gradacion të rrënjës
+*   4\. Duali i rrënjeve me përfundim vokal
+*   5\. Dvanda duali
+*   6\. Duali i pronave
+*   7\. Adjeqte prondore
+*   8\. Krahasimi i rregullt
+*   9\. Deklinimi i krahasoreve me -īyas
+*   10\. Metrika (Mësimi për masat e vargut)
+*   10.1. Rëndësia e përcaktimit të metrit
+*   10.2. Llojet e metreve
+*   10.3. Sasia metrike e shqiptimeve
+*   10.4. Śloka epike (⟪श्लोक⟫ m.)
+*   11\. Ushtrim
 
-ENDE DES SANSKRITKURSES
+## [Mësimi 54](lektion54)
+
+*   1\. Shënim paraprim
+*   2\. Formimi i fjalëve: Sufiksi -u ⟪कृत्⟫ te rrënjët e desiderativit
+*   3\. Metrika II: epiteti ⟪त्रिष्टुभ्⟫ dhe ⟪जगती⟫
+*   4\. Ushtrim mbi metrikën
+*   5\. Tipet e formimit të aoristit (⟪लुङ्⟫)
+*   6\. Aoristi i rrënjës
+*   6.1. Aoristi për personin e tretë të vetjakut pasiv
+*   7\. Ushtrim
+
+## [Mësimi 55](lektion55)
+
+*   1\. Aoristi me temë -a (Aoristi me vokalin e temës)
+*   2\. Ushtrim
+
+## [Mësimi 56](lektion56)
+
+*   1\. Aoristi me reduplikim
+*   1.1. Formimi i aoristit të kausative dhe rrënjëve të klasës së 10-të të prezencit
+*   2\. Injunktivi
+*   3\. Fjalitë e ndalimit
+*   ⟪स्म⟫
+*   5\. Ushtrim
+
+## [Mësimi 57](lektion57)
+
+*   1\. Aoristi 4: s-Aorist
+*   2\. Ushtrim
+
+## [Mësimi 58](lektion58)
+
+*   1\. Përfundimet primare për dyfishin (⟪द्विवचनम्⟫)
+*   2\. Dyfishi i klasave tematike të prezencit: Indikativ Prezenc (⟪लट्⟫)
+*   2.1. Klasa e parë e prezencit (⟪भ्वादिगणः⟫)
+*   2.2. Klasa e katërt e prezencit (⟪दिवादिगणः⟫)
+*   2.3. Klasa e gjashtë e prezencit (⟪तुदादिगणः⟫)
+*   2.4. Klasa e dhjetë e prezencit (⟪चुरादिगणः⟫) dhe kausativet (⟪णिजन्त⟫)
+*   3\. Dyfishi i ardhmes së thjeshtë (⟪ऌत्⟫)
+*   3.1. ⟪अनिट्⟫
+*   3.2. ⟪सेट्⟫
+*   4\. Dyfishi pasiv (Sufiksi -⟪यक्⟫)
+*   5\. Dyfishi i klasave atematike të prezencit: Indikativ Prezenc (⟪लट्⟫)
+*   5.1. Klasa e dytë e prezencit (⟪अदादिगणः⟫)
+*   5.2. Klasa e tretë e prezencit (⟪जुहोत्यादिगणः⟫)
+*   5.3. Klasa e pestë e prezencit (⟪स्वादिगणः⟫)
+*   5.4. Klasa e tetë e prezencit (⟪तनादिगणः⟫)
+*   5.5. Klasa e shtatë e prezencit (⟪रुधादिगणः⟫)
+*   5.6. Klasa e nëntë e prezencit (⟪क्र्यादिगणः⟫)
+*   6\. Aoristi 5: iṣ-Aorist
+*   7\. Ushtrim
+
+## [Mësimi 59](lektion59)
+
+*   1\. Ndryshimet sekondare dhe fundet e imperativit për dyfishin (⟪द्विवचनम्⟫)
+*   2\. Dyfishi i klasave prezente tematike: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   2.1. Klasa e parë prezente (⟪भ्वादिगणः⟫)
+*   2.2. Klasa e katërt prezente (⟪दिवादिगणः⟫)
+*   2.3. Klasa e gjashtë prezente (⟪तुदादिगणः⟫)
+*   2.4. Klasa e dhjetë prezente (⟪चुरादिगणः⟫) dhe Kausativet (⟪णिजन्त⟫)
+*   2.5. Pasivi (Sufiksi -⟪यक्⟫)
+*   3\. Dyfishi i klasave prezente athematike: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   3.1. Klasa e dytë prezente (⟪अदादिगणः⟫)
+*   3.2. Klasa e tretë prezente (⟪जुहोत्यादिगणः⟫)
+*   3.3. Klasa e pestë prezente (⟪स्वादिगणः⟫)
+*   3.4. Klasa e tetë prezente (⟪तनादिगणः⟫)
+*   3.5. Klasa e shtatë prezente (⟪रुधादिगणः⟫)
+*   3.6. Klasa e nëntë prezente (⟪क्र्यादिगणः⟫)
+*   4\. Dyfishi (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+*   4.1. Aoristi i rrënjës
+*   4.2. Aoristi me a-
+*   4.3. Aoristi i ripërsëritur
+*   4.4. Aoristi me s-
+*   4.5. Aoristi iṣ-
+*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (vetëm P)
+*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (aoristi me s- tematik)
+*   7\. Ushtrimi
+
+## [Mësimi 60](lektion60)
+
+*   1\. Fundet e perfektit për dyfishin (⟪द्विवचनम्⟫)
+*   2\. Dyfishi i perfektit të ripërsëritur (⟪द्वित्वलिट्⟫)
+*   2.1. Tipi 1: pa ndryshim të rrënjës
+*   2.2. Tipi 2: rrënja e fortë në nivel të lartë, rrënja e dobët në nivel të ulët
+*   2.3. Tipi 3: Rrënja e fortë në nivel të lartë/gjatë
+*   2.3.1. Tipi 3a: Rrënja e fortë në nivel të lartë/gjatë, rrënja e dobët në nivel të ulët
+*   2.3.2. Tipi 3b: Rrënja e fortë në nivel të lartë/gjatë, rrënja e dobët në nivel të lartë
+*   2.4. Tipi 4: Rrënjët mbi -ā / -ai
+*   2.5. Tipi 5: Konsonant-a-Konsonant
+*   2.5.1. Tipi 5a: Konsonant-a-Konsonant, rrënja e dobët në nivel të ulët
+*   2.5.2. Tipi 5b: Konsonant-a-Konsonant, konsonanti fillor nuk është gutural, aspirat, h, Rrënja e dobët pa ripërsëritje, me -e-
+*   2.5.3. Tipi 5c: Konsonant-a-Konsonant, rrënja e dobët në nivel të lartë
+*   3\. Dyfishi i perfektit periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   4\. Participa ⟪परस्मैपद⟫ e perfektit të ripërsëritur (⟪द्वित्वलिट्⟫)
+*   5\. Deklinimi i rrënjëve mbi -añc (-ac)
+*   5.1. Rrënjë me tre forma mbi -añc
+*   5.2. Rrënjë me dy forma mbi -añc
+*   6\. Desiderativum (⟪सन्⟫)
+*   6.1. Formimi i rrënjës së desiderativit
+*   6.2. Konjugimi i desiderativit (⟪सन्⟫)
+*   7\. Ushtrimi
+
+## [Mësimi 61](lektion61)
+
+*   1\. Deklinimi i emrave të rrënjës me -ā, -ī, -ū
+*   1.1. Emra të rrënjës me -ā në fundin e ⟪तत्पुरुष⟫
+*   1.2. Emra femërorë të rrënjës me -ī
+*   1.3. Emra të rrënjës me -ī në fundin e ⟪तत्पुरुष⟫
+*   1.4. Emra të rrënjës me -ū, njëzjarësh dhe femërorë
+*   1.5. Emra të rrënjës me -ū në fundin e ⟪तत्पुरुष⟫
+*   1.6. Deklinimi i emrave femërorë shumëzjarësh me -ū
+*   2\. E ardhmja periphrastike (⟪लुट्⟫)
+*   3\. Intensivi (Frequentativum) (⟪चर्करीतम्⟫)
+*   3.1. Intensivum në formën Ātmanepada
+*   3.2. Intensivum në formën Parasmaipada
+*   4\. Denominativat (⟪नामधातु⟫)
+*   4.1. Formimi pa prapashtesë të veçantë, Parasmaipada
+*   4.2. Formimi me prapashtesën -ya, Parasmaipada
+*   4.3. Formimi me prapashtesën -kāmya, Parasmaipada
+*   4.4. Formimi me prapashtesën -sya ose -asya, Parasmaipada
+*   4.5. Formimi me prapashtesën -ya, Ātmanepada
+*   4.6. Formimi me prapashtesën -aya, -āpaya
+*   5\. Benediktivi (⟪आशीर्लिङ्⟫)
+*   6\. Kondicionali (⟪ऌङ्⟫)
+*   7\. Deklinimi i emrave me -ai, -o, -au
+*   8\. Prononciet e tjera të mbetura
+*   8.1. Prononciet personale për numrin dyjor
+*   8.2. Prononciet demonstrative ⟪अदस्⟫ "ajo (e largët)"
+*   9\. Lirimi në oqeanin e letërsisë sanskrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+
+FUND I KURSIT SANSKRIT
 

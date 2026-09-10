@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Урок 20"
+subtitle: "Присвійні складені слова = ⟪बहुव्रीहि⟫ чол. рід"
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 20

@@ -58,7 +58,7 @@ Lihat bagian selanjutnya untuk Dvandva Dual!
 
 ### 5.3.1. Unsur Depan Komposita
 
->> Unsur depan komposita (tidak hanya Dvandva) umumnya berbentuk **akar nominal** yang tidak berubah. Unsur-unsur individual dari komposita digabungkan sesuai aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
+Unsur depan komposita (tidak hanya Dvandva) umumnya berbentuk **akar nominal** yang tidak berubah. Unsur-unsur individual dari komposita digabungkan sesuai aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
 ### 5.3.2. Plural-Itaretaradvandva
 

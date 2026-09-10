@@ -1,40 +1,41 @@
 ---
-title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+title: "Pamoka 39"
+subtitle: 'Pirmojo asmens galūnės (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**trečioji** asmuo\")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 39
 
-## 39.1. Die Personalendungen der ersten Person (:sig[तृतीयः] ⟪पुरुषः⟫ = "**dritte** Person")
+## 39.1. Pirmojo asmens asmeninės galūnės (:sig[तृतीयः] ⟪पुरुषः⟫ = "**trečiasis** asmuo")
 
-Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पुरुषः⟫ = "**dritte** Person") sind:
+Pirmojo asmens galūnės (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**trečiasis** asmuo") yra:
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Primärendung thematische Stämme** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Primärendung athematische Stämme** | ^^ | ^^ | **-e** | ^^ |
-| **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Sekundärendung athematische Stämme** | **-am** | ^^ | ^^ | ^^ |
-| **Optativendung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
+| **Pirminės teminių kamienų galūnės** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Pirminės ateminių kamienų galūnės** | ^^ | ^^ | **-e** | ^^ |
+| **Antrinės teminių kamienų galūnės** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Antrinės ateminių kamienų galūnės** | **-am** | ^^ | ^^ | ^^ |
+| **Optatyvo galūnė** | ^^ | ^^ | **-a** | ^^ |
+| **Perfekto galūnė** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-¹ Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e.
+¹ Pastaba: iš tikrųjų teminių kamienų pirminė galūnė Ā taip pat turėtų būti nustatyta kaip -e, prieš kurią teminis balsis -a- dėl analogijos dingsta. Tačiau efektas yra toks, tarsi galūnė -i prisijungtų prie teminio balsio -a-: a + i » e.
 
-## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme
+## 39.2. Teminių prezentinio kamienų pirmojo asmens veiksmažodžių formų daryba
 
 ::: grammar-box
-**Regel:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Taisyklė:**
+**Prieš -mi, -mas, -ma, -mahe, -mahi teminis balsis -a- pakeičiamas -ā- !!!**
 :::
-### 39.2.1. Erste Präsensklasse (⟪भ्वादि⟫)
+### 39.2.1. Pirmoji prezentinė klasė (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -43,12 +44,12 @@ Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **⟪भवे⟫** :brbhava + i:brrichtig: bhav-e | **⟪भवामहे⟫** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **⟪अभवे⟫** | **⟪अभवामहि⟫** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **⟪भवेय⟫** :brbhava + iy-a | **⟪भवेमहि⟫** :brbhava + i-mahi |
+| **Indikatyvas prezentas - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **⟪भवे⟫** :brbhava + i:brright: bhav-e | **⟪भवामहे⟫** |
+| **Imperfektas - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **⟪अभवे⟫** | **⟪अभवामहि⟫** |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **⟪भवेय⟫** :brbhava + iy-a | **⟪भवेमहि⟫** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. Šeštoji esamųjų laikų klasė (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
@@ -57,12 +58,12 @@ Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪विशामि⟫ | ⟪विशामस्⟫ | **⟪विशे⟫** | **⟪विशामहे⟫** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अविशम्⟫ | ⟪अविशाम⟫ | **⟪अविशे⟫** | **⟪अविशामहि⟫** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **⟪विशेय⟫** | **⟪विशेमहि⟫** |
+| **Indikatyvas Esamasis laikas - ⟪लट्⟫** | ⟪विशामि⟫ | ⟪विशामस्⟫ | **⟪विशे⟫** | **⟪विशामहे⟫** |
+| **Imperfektas - ⟪लङ्⟫** | ⟪अविशम्⟫ | ⟪अविशाम⟫ | **⟪अविशे⟫** | **⟪अविशामहि⟫** |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **⟪विशेय⟫** | **⟪विशेमहि⟫** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. Ketvirtoji esamųjų laikų klasė (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -71,12 +72,12 @@ Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪नृत्यामि⟫ | ⟪नृत्यामस्⟫ | **⟪नृत्ये⟫** | **⟪नृत्यामहे⟫** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अनृत्यम्⟫ | ⟪अनृत्याम⟫ | **⟪अनृत्ये⟫** | **⟪अनृत्यामहि⟫** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪नृत्येयम्⟫ | ⟪नृत्येम⟫ | **⟪नृत्येय⟫** | **⟪नृत्येमहि⟫** |
+| **Indikatyvas Esamasis laikas - ⟪लट्⟫** | ⟪नृत्यामि⟫ | ⟪नृत्यामस्⟫ | **⟪नृत्ये⟫** | **⟪नृत्यामहे⟫** |
+| **Imperfektas - ⟪लङ्⟫** | ⟪अनृत्यम्⟫ | ⟪अनृत्याम⟫ | **⟪अनृत्ये⟫** | **⟪अनृत्यामहि⟫** |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪नृत्येयम्⟫ | ⟪नृत्येम⟫ | **⟪नृत्येय⟫** | **⟪नृत्येमहि⟫** |
 
 :::
-### 39.2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
+### 39.2.4. Dešimtoji esamųjų laikų klasė (⟪चुरादि⟫) ir kausatyvai (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U
 
@@ -85,12 +86,12 @@ Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पु�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪चोरयामि⟫ | ⟪चोरयामस्⟫ | ⟪चोरये⟫ | ⟪चोरयामहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अचोरयम्⟫ | ⟪अचोरयाम⟫ | ⟪अचोरये⟫ | ⟪अचोरयामहि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
+| **Indikatyvas Esamasis laikas - ⟪लट्⟫** | ⟪चोरयामि⟫ | ⟪चोरयामस्⟫ | ⟪चोरये⟫ | ⟪चोरयामहे⟫ |
+| **Imperfektas - ⟪लङ्⟫** | ⟪अचोरयम्⟫ | ⟪अचोरयाम⟫ | ⟪अचोरये⟫ | ⟪अचोरयामहि⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Passiv (Suffix ⟪यक्⟫)
+### 39.2.5. Pusiauji veiksmažodis (priesaga ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -98,86 +99,86 @@ Die Endungen der ersten Person (:sig[⟪:sig[तृतीयः]⟫] ⟪पु�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
+| **Indikatyvas Esamasis laikas - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imperfektas - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
+## 39.3. Formavimas pirmosios asmenies paprastojo ateikimo veiksmažodžių formų - ⟪ऌत्⟫
 
 ::: grammar-box
-**Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:**
+**Ateikimas turi tematinį formavimą. Todėl galioja ir taisyklė teminiams kamienams:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Prie -mi, -mas, -mahe teminis balsas -a- pakeičiamas į -ā- !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-Bildung
+### 39.3.1. ⟪अनिट्⟫-formavimas
 
 ⟪दा⟫ 3U
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
+| **Ateikimas - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪सेट्⟫-formavimas
 
 ⟪भू⟫ 1P
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **⟪भविष्ये⟫** | **⟪भविष्यामहे⟫** |
+| **Ateikimas - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **⟪भविष्ये⟫** | **⟪भविष्यामहे⟫** |
 
 :::
-## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
+## 39.4. Formavimas pirmosios asmenies ateminių dabarties kamienų veiksmažodžių formų
 
 ::: grammar-box
-**Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit**
-* **Vokal**
-* **Halbvokal**
-* **Nasal**
+**Atkreipkite dėmesį, kad žodžio viduje - priešingai nei sakinio sandhyoje - prieš priesagas, kurios**
+* **prasideda balsiu**
+* **pusbalsiu**
+* **nosiniu**
 
-**beginnen, Konsonanten in der Regel unverändert bleiben.**
+**prikabina, priebalsiai paprastai lieka nepakitę.**
 
-z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P ⟪व⟫*⟪च्मि⟫***
+pvz. ⟪वच्⟫ 1.sg.Ind.Dab.Kam ⟪व⟫*⟪च्मि⟫***
 :::
-### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 39.4.1. Antroji dabarties klasė (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :--- | :---: | :---: | :---: | :---: |
+| :--- | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
+| **Indikatyvas Dabartis - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
+| **Imperfektas - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
 
 :::
-⟪अस्⟫ 2P
+⟪अस्⟫ 3P
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ ||
 | :--- | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪अस्मि⟫ | ⟪स्मस्⟫ :brs-mas |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪आसाम्⟫ :bra + as-am | ⟪आस्म⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪स्याम्⟫ :brs-yā + m | ⟪स्याम⟫ |
+| **Indikativo Esamainė - ⟪लट्⟫** | ⟪अस्मि⟫ | ⟪स्मस्⟫ :brs-mas |
+| **Imperfectas - ⟪लङ्⟫** | ⟪आसाम्⟫ :bra + as-am | ⟪आस्म⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪स्याम्⟫ :brs-yā + m | ⟪स्याम⟫ |
 
 :::
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
-Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
-(Bildquelle: [Details](/licenses#lekt3901))
+Pav.: ⟪सो ऽस्मि⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3901))
 :::
-### 39.4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
+### 39.4.2. Trečioji esamiojo laiko klasė (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -186,9 +187,9 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪जुहोमि⟫ | ⟪जुहुमस्⟫ | **⟪जुह्वे⟫** :brju-hu + e | **⟪जुहुमहे⟫** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अजुहवम्⟫ :bra-juho + am | ⟪अजुहुम⟫ | **⟪अजुहवि⟫** | **⟪अजुहुमहि⟫** |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪जुहुयाम्⟫ | ⟪जुहुयाम⟫ | **⟪जुह्वीय⟫** :brjuhu + īy-a | **⟪जुह्वीमहि⟫** |
+| **Indikativo Esamainė - ⟪लट्⟫** | ⟪जुहोमि⟫ | ⟪जुहुमस्⟫ | **⟪जुह्वे⟫** :brju-hu + e | **⟪जुहुमहे⟫** |
+| **Imperfectas - ⟪लङ्⟫** | ⟪अजुहवम्⟫ :bra-juho + am | ⟪अजुहुम⟫ | **⟪अजुहवि⟫** | **⟪अजुहुमहि⟫** |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪जुहुयाम्⟫ | ⟪जुहुयाम⟫ | **⟪जुह्वीय⟫** :brjuhu + īy-a | **⟪जुह्वीमहि⟫** |
 
 :::
 ⟪धा⟫ 3U
@@ -198,15 +199,15 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
+| **Indikativo Esamainė - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
+| **Imperfectas - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. Penktoji esamiojo laiko klasė (⟪स्वादि⟫)
 
 ::: grammar-box
-**Bei vokalisch auslautenden Wurzeln kann wahlweise vor mit m- beginnenden Endungen das -u des Stammbildungssuffixes (-nu) wegfallen.**
+**Balsiniais galūnėmis besibaigiančių šaknų atveju prieš su m- prasidedančius galūnes -u gali būti praleistas žodžio formos priesaga (-nu).**
 :::
 ⟪सु⟫ 5U
 
@@ -215,12 +216,12 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
+| **Indikativo Esminis  - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
+| **Aoristas  - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
+| **Optatyvas  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. Septintoji esminio laiko klasė (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -229,9 +230,9 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
+| **Indikativo Esminis  - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
+| **Aoristas  - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
+| **Optatyvas  - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
 
 :::
 ⟪कृ⟫ 8U
@@ -241,12 +242,12 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪करोमि⟫ | ⟪कुर्मस्⟫ | ⟪कुर्वे⟫ | ⟪कुर्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
+| **Indikativo Esminis  - ⟪लट्⟫** | ⟪करोमि⟫ | ⟪कुर्मस्⟫ | ⟪कुर्वे⟫ | ⟪कुर्महे⟫ |
+| **Aoristas  - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
+| **Optatyvas  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. Šeštoji esminio laiko klasė (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -255,12 +256,12 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪युनज्मि⟫ :bryu-na-j-mi | ⟪युञ्ज्मस्⟫ :bryu + n + j-mas | ⟪युञ्जे⟫ | ⟪युञ्ज्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
+| **Indikativo Esminis  - ⟪लट्⟫** | ⟪युनज्मि⟫ :bryu-na-j-mi | ⟪युञ्ज्मस्⟫ :bryu + n + j-mas | ⟪युञ्जे⟫ | ⟪युञ्ज्महे⟫ |
+| **Aoristas  - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
+| **Optatyvas  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 39.4.6. Devinta prezento klasė (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -269,16 +270,16 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
-| **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
+| **Indikativo prezentas - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
+| **Aoristas - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
+| **Optatyvas - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Übung
+## 39.5. Pratimas
 
-Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen.
+Sudarykite pirmojo asmens formas iš šių veiksmažodžių formų, kurios atitiktų skaičių, laiką, nuosaką (indikatyvas, optatyvas) ir veiksmo būdą (P, Ā, pasyvus).
 
-Beispiel: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
+Pavyzdys: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 
 1.  ⟪अदन्ति⟫
 2.  ⟪आसन्⟫
@@ -369,4 +370,3 @@ Beispiel: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 87.  ⟪जहति⟫
 88.  ⟪अजुहवुः⟫
 89.  ⟪हरति⟫
-

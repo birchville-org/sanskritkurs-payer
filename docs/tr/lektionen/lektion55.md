@@ -1,6 +1,6 @@
 ---
 title: "Ders 55"
-subtitle: "a-Aorist (Aorist ile tema vokali)"
+subtitle: "a-Aoristi (Tematik ünlülü aorist)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"

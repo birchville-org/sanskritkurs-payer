@@ -69,23 +69,23 @@ A) Zaman, sayı, kip vb. açısından karşılık gelen **2. şahıs** hallerini
 :::
 ::: media
 ![](/images/uebung070.webp)
-Abb.: ⟪दिशसि⟫
-(Bildquelle: [Details](/licenses#uebung070))
+Şekil: ⟪दिशसि⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#uebung070))
 :::
 ---
 
 ## Sanskrit'a Çeviriler
 
-B) Aşağıdaki cümleleri Sanskrit'a çevirin:
+B) Aşağıdaki cümleleri Sanskritçe'ye çevirin:
 
 ⟪१⟫. **⟪कस्माद्गुरौ तिष्ठति सीदथ ।⟫** (Veya: **... ⟪आध्वे ।⟫**)
-Öğretmen ayakta dururken siz neden oturuyorsunuz?
+Öğretici ayakta dururken neden oturuyorsunuz?
 
 ⟪२⟫. **⟪किं विकल्पयसि किं सुकर्मणः सुफलमस्तीति ॥ २ ॥⟫**
-İyi bir eylemin iyi bir meyvesi olup olmadığını şüpheli mi buluyorsun?
+İyi bir eylemin iyi bir meyvesi olup olmadığından şüphe mi duyuyorsun?
 
 ⟪३⟫. **⟪कच्चित्पितरं गर्भगृहं दर्शयिष्यथ ॥ ३ ॥⟫** (Veya: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ ॥⟫**)
-Babaya en kutsal tapınak odasını gösterecek misiniz?
+Babaya en iç tapınağı gösterecek misiniz?
 
 ⟪४⟫. **⟪कस्य कवेः स्तोत्रमगायः ॥ ४ ॥⟫**
 Hangi şairin övgü şiirini söylediniz?
@@ -97,21 +97,21 @@ Bu meyveleri satacak mısınız?
 Ne emrettin?
 
 ⟪७⟫. **⟪कदा काश्यामवर्तथाः ॥ ७ ॥⟫**
-Benares'te ne zaman kaldın?
+Benares'de ne zaman kaldın?
 
 ⟪८⟫. **⟪कच्चिद्देवानयजध्वम् ॥ ८ ॥⟫**
-(Kurban sahipleri olarak) tanrılara bir kurbân ile saygı gösterdiniz mi?
+(Kurban sahipleri olarak) tanrıları bir kurbanla onurlandırdınız mı?
 
 ⟪९⟫. **⟪कस्मिन्नगरे ऽजायथाः ॥ ९ ॥⟫**
 Hangi şehirde doğdun?
 
 ⟪१०⟫. **⟪कथं शत्रुं तरसि ॥ १० ॥⟫**
-Düşmandan kurtulmak için (nehri nasıl aşıyorsunuz) kendinizi kurtarırsınız?
+Düşmana karşı kendini nasıl kurtarırsın (nehri aşarsın)?
 
 ::: media
 ![](/images/uebung071.jpg)
-Abb.: ⟪कदा काश्यामवर्तथाः⟫
-(Bildquelle: [Details](/licenses#uebung071))
+Şekil: ⟪कदा काश्यामवर्तथाः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#uebung071))
 :::
 ---
 
@@ -119,29 +119,29 @@ Abb.: ⟪कदा काश्यामवर्तथाः⟫
 
 | ⟪पात्रम्⟫ / ⟪संवादः⟫ | Çeviri |
 | :--- | :--- |
-| **⟪सुरेशः⟫ : ⟪अशोक क्व गच्छसीदानीम् ॥⟫** | Sureśa: Aşoka, şu anda nereye gidiyorsun?
-| **⟪अशोकः⟫ : ⟪आपणे गच्छामि । सत्वरमेव कानिचित्पण्यानि क्रीत्वा निवर्तिष्ये ॥⟫** | Aşoka: Piyasaya gidiyorum. Hızlıca bazı mallar alıp sonra döneceğim.
-| **⟪सुरेशः⟫ : ⟪किं कश्चिदुत्सवो ऽद्य तव गृहे ॥⟫** | Sureśa: Bugün evinde bir kutlama var mı?
-| **⟪अशोकः⟫ : ⟪आम् । अद्य पितृपादानां जन्मदिनोत्सवः ॥⟫** | Aşoka: Evet, bugün saygıdeğer babamın doğum günü.
-| **⟪सुरेशः⟫ : ⟪किं वयस्तव पितृचरणानाम् ॥⟫** | Sureśa: Saygıdeğer baban kaç yaşında?
-| **⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं मम पितुर्वयः । अद्य मम गृहे बहवः संबन्धिनो मित्राणि चागमिष्यन्ति । त्वयाप्यागन्तव्यम् ॥⟫** | Aşoka: Babam 65 yaşında. Bugün birçok akraba ve arkadaş yanıma gelecek; sen de gelmelisin!
-| **⟪सुरेशः⟫ : ⟪भद्र कतिवादने आगमिष्यन्ति जनाः ॥⟫** | Sureśa: Ey iyim, insanlar saat kaçta gelecek?
-| **⟪अशोकः⟫ : ⟪समयं किं पृच्छसि । षड्वादनं यावदागच्छ ॥⟫** | Aşoka: Saati mi soruyorsun? En geç altıda gel!
-| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं यावदागच्छामि चेत् ॥⟫** | Sureśa: Peki ya yedi buçukta gelirsem?
-| **⟪अशोकः⟫ : ⟪नैव षड्वादन एव निश्चितरूपेणागन्तव्यं त्वया ॥⟫** | Aşoka: Kesinlikle hayır! Tam altıda gelmelisin.
-| **⟪सुरेशः⟫ : ⟪अस्तु । तर्हि गच्छ त्वं । नोचेद्विलम्बो भविष्यति ॥⟫** | Sureśa: Tamam. O zaman şimdi git, aksi halde gecikirsin.
-| **(⟪विपण्यां प्रविशति वणिजमुपसृत्य वदति च⟫)** | (Dükkanın içine girer, tüccara yaklaşır ve şöyle der:)
-| **⟪अशोकः⟫ : ⟪अयि वणिग्वर कानिचित्पण्यानि क्रेतुमागतो ऽहम् । देहि शीघ्रं मह्यम् ॥⟫** | Aşoka: Selam, ey tüccarların en iyisi! Malları almak için geldim. Onları bana hızlıca ver!
-| **⟪वणिक्⟫ : ⟪वत्स त्वं किंकिं क्रेतुमिच्छसि । मम विपणौ बहून्युत्तमोत्तमानि पण्यानि सन्ति तानि च स्वल्पमूल्यानि । वद कियत्परिमाणं किं क्रेतुमिच्छसि ॥⟫** | Tüccar: Oğlum, ne almak istiyorsun? Dükkanımda düşük fiyatlarla birçok mükemmel ürün var. Ne ve ne kadar istediğini bana söyle.
-| **⟪अशोकः⟫ : ⟪सेरभारा शर्करा कियता मूल्येन विक्रीयते ॥⟫** | Aşoka: Bir ser şekerin fiyatı nedir?
-| **⟪वणिक्⟫ : ⟪नाधिक्यं मूल्यम् । केवलमष्टाणकेन दास्यामि सेरभारां शर्कराम् ॥⟫** | Tüccar: Çok fazla değil. Sana bir ser şekeri sadece sekiz anna karşılığında vereceğim.
-| **⟪अशोकः⟫ : ⟪तर्हि तोलयित्वा शीघ्रं सेरपरिमितां शर्करां देहि ॥⟫** | Aşoka: O zaman hızlıca bir ser tart ve bana ver!
-| **⟪वणिक्⟫ : (⟪शर्करां कर्गले संपुटीकृत्य⟫) ⟪बाल गृहाण शर्कराम् । देहि च मह्यमाणकाष्टकम् । सत्वरं देहि ॥⟫** | Tüccar: (şekeri kâğıda sarıyor): Oğlum, şekeri al! Ve buna karşılık bana sekiz anna ver ama hızlı ol!
-| **⟪अशोकः⟫ : (⟪आदाय हस्ते तस्य भारं चाल्पं विलोक्य⟫) ⟪भो वणिक् । नैषा सेरभारा शर्करा दृश्यते । पुनः सम्यक्तोलयित्वा देहि ॥⟫** | Aşoka: (elina alır ve az ağırlığı fark eder): Hey, tüccar! Bu bir ser şeker gibi görünmüyor. Tekrar doğru tart!
-| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन । अकिञ्चित्करमेतत् । तव भारवहनक्लेशो ऽल्पो भविष्यति ॥⟫** | Tüccar: (gülerek): Bu ne fark eder? Önemsiz. Böylece yükün taşınmasında daha az zahmet çekersin.
-| **⟪अशोकः⟫ : (⟪मनसि किंचिद्विचार्याणकचतुष्टयं च तस्य पुरत उपस्थाप्य⟫) ⟪भो श्रेष्ठिन्गृहाण मूल्यम् । मया हि शीघ्रं गृहं गन्तव्यम् ॥⟫** | Aşoka: (bir an düşünür ve üzerine dört anna koyar): Beyefendi tüccar, işte fiyat. Aslında eve acelem var.
-| **⟪वणिक्⟫ : ⟪रे बालक । एह्येहि शृणु तावत् । अल्पमेव मूल्यं दत्त्वा क्व व्रजसि । आणकचतुष्टयमन्यदपि देहि ॥⟫** | Tüccar: Hey, oğlum! Geri dön! Dinle mi? Bu kadar az ödedikten sonra nereye gidiyorsun? Geri kalan dört annayı bana ver!
-| **⟪अशोकः⟫ : ⟪श्रेष्ठिन् । किमनेन । अकिंचित्करमेतत् । नाणकगणनाक्लेशस्ते ऽल्पीयान्भविष्यति ॥⟫** | Aşoka: Tüccar! Bu ne fark eder? Önemsiz. Böylece paraları sayarken daha az zahmet çekersin!
+| **⟪सुरेशः⟫ : ⟪अशोक क्व गच्छसीदानीम् ॥⟫** | Sureśa: Aśoka, şu an nereye gidiyorsun? |
+| **⟪अशोकः⟫ : ⟪आपणे गच्छामि । सत्वरमेव कानिचित्पण्यानि क्रीत्वा निवर्तिष्ये ॥⟫** | Aśoka: Pazarda yürüyorum. Birkaç malı hızlıca alıp sonra döneceğim. |
+| **⟪सुरेशः⟫ : ⟪किं कश्चिदुत्सवो ऽद्य तव गृहे ॥⟫** | Sureśa: Bugün evinde bir kutlama var mı acaba? |
+| **⟪अशोकः⟫ : ⟪आम् । अद्य पितृपादानां जन्मदिनोत्सवः ॥⟫** | Aśoka: Evet, bugün saygıdeğer babamın doğum günü. |
+| **⟪सुरेशः⟫ : ⟪किं वयस्तव पितृचरणानाम् ॥⟫** | Sureśa: Saygıdeğer baban kaç yaşında? |
+| **⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं मम पितुर्वयः । अद्य मम गृहे बहवः संबन्धिनो मित्राणि चागमिष्यन्ति । त्वयाप्यागन्तव्यम् ॥⟫** | Aśoka: Babam 65 yaşında. Bugün birçok akraba ve arkadaş yanıma geliyor; sen de gelmelisin! |
+| **⟪सुरेशः⟫ : ⟪भद्र कतिवादने आगमिष्यन्ति जनाः ॥⟫** | Sureśa: İyi adam, insanlar saat kaçta gelecek? |
+| **⟪अशोकः⟫ : ⟪समयं किं पृच्छसि । षड्वादनं यावदागच्छ ॥⟫** | Aśoka: Saati neden soruyorsun? En geç altıda gel! |
+| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं यावदागच्छामि चेत् ॥⟫** | Sureśa: Ve eğer yedi buçukta varırsam? |
+| **⟪अशोकः⟫ : ⟪नैव षड्वादन एव निश्चितरूपेणागन्तव्यं त्वया ॥⟫** | Aśoka: Kesinlikle hayır! Saat tam altıda gelmelisin. |
+| **⟪सुरेशः⟫ : ⟪अस्तु । तर्हि गच्छ त्वं । नोचेद्विलम्बो भविष्यति ॥⟫** | Sureśa: Tamam. O zaman şimdi git, yoksa geç kalırsın. |
+| **(⟪विपण्यां प्रविशति वणिजमुपसृत्य वदति च⟫)** | (Dükkanın içine girer, tüccara gider ve konuşur:) |
+| **⟪अशोकः⟫ : ⟪अयि वणिग्वर कानिचित्पण्यानि क्रेतुमागतो ऽहम् । देहि शीघ्रं मह्यम् ॥⟫** | Aśoka: Selam, tüccarların en iyisi! Mal almak için geldim. Onları bana hızlıca ver! |
+| **⟪वणिक्⟫ : ⟪वत्स त्वं किंकिं क्रेतुमिच्छसि । मम विपणौ बहून्युत्तमोत्तमानि पण्यानि सन्ति तानि च स्वल्पमूल्यानि । वद कियत्परिमाणं किं क्रेतुमिच्छसि ॥⟫** | Tüccar: Oğlum, ne almak istiyorsun? Dükkanımda birçok mükemmel mal düşük fiyatlarla var. Ne ve ne kadar istediğini bana söyle. |
+| **⟪अशोकः⟫ : ⟪सेरभारा शर्करा कियता मूल्येन विक्रीयते ॥⟫** | Aśoka: Bir seer şeker ne kadar? |
+| **⟪वणिक्⟫ : ⟪नाधिक्यं मूल्यम् । केवलमष्टाणकेन दास्यामि सेरभारां शर्कराम् ॥⟫** | Tüccar: Çok fazla değil. Sana sadece sekiz anna karşılığında bir seer şeker vereceğim. |
+| **⟪अशोकः⟫ : ⟪तर्हि तोलयित्वा शीघ्रं सेरपरिमितां शर्करां देहि ॥⟫** | Aśoka: O zaman bana hızlıca bir seer tart ve ver! |
+| **⟪वणिक्⟫ : (⟪शर्करां कर्गले संपुटीकृत्य⟫) ⟪बाल गृहाण शर्कराम् । देहि च मह्यमाणकाष्टकम् । सत्वरं देहि ॥⟫** | Tüccar: (şekeri kağıda sarıyor): Oğlum, şekeri al! Ve bunun için bana sekiz anna ver, ama hızlıca! |
+| **⟪अशोकः⟫ : (⟪आदाय हस्ते तस्य भारं चाल्पं विलोक्य⟫) ⟪भो वणिक् । नैषा सेरभारा शर्करा दृश्यते । पुनः सम्यक्तोलयित्वा देहि ॥⟫** | Aśoka: (eline alır ve az ağırlığı fark eder): Hey, tüccar! Bu tam bir seer şeker gibi görünmüyor. Bunu tekrar doğru şekilde tart! |
+| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन । अकिञ्चित्करमेतत् । तव भारवहनक्लेशो ऽल्पो भविष्यति ॥⟫** | Tüccar: (gülerken): Bu ne fark eder? Önemsiz. Böylece yükü taşırken daha az efor harcarsın. |
+| **⟪अशोकः⟫ : (⟪मनसि किंचिद्विचार्याणकचतुष्टयं च तस्य पुरत उपस्थाप्य⟫) ⟪भो श्रेष्ठिन्गृहाण मूल्यम् । मया हि शीघ्रं गृहं गन्तव्यम् ॥⟫** | Aśoka: (kısa bir düşünür ve ona dört anna koyar): Bay tüccar, işte fiyat. Aslında eve acelem var. |
+| **⟪वणिक्⟫ : ⟪रे बालक । एह्येहि शृणु तावत् । अल्पमेव मूल्यं दत्त्वा क्व व्रजसि । आणकचतुष्टयमन्यदपि देहि ॥⟫** | Tüccar: Hey, oğlum! Geri dön! Dinle! Sadece bu kadar az ödedikten sonra nereye gidiyorsun? Geri kalan dört annayı bana ver! |
+| **⟪अशोकः⟫ : ⟪श्रेष्ठिन् । किमनेन । अकिंचित्करमेतत् । नाणकगणनाक्लेशस्ते ऽल्पीयान्भविष्यति ॥⟫** | Aśoka: Tüccar! Bu ne fark eder? Önemsiz. Böylece paraları sayarken daha az efor harcarsın! |
 | **(⟪इत्युक्त्वा ततो जवेन द्रवति⟫)** | (Böyle der ve aceleyle kaçar.)
 
 **(⟪विपणिस्थो वञ्चको वणिक् किमपि कर्तुमशक्नोत्केवलं तस्य मनसि पश्चात्ताप एवासीत् । अशोको गृहमागत्य सर्वमपीतिवृत्तमकथयत् । तत्रस्था सर्वे ऽपि बान्धवा मित्राणि च परमानन्दं प्रापुः । इत्थं जन्मोत्सवः सानन्दं समाप्तिं यातः ॥⟫)**

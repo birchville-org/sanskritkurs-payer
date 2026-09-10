@@ -45,7 +45,7 @@ Dĩ nhiên, đối với một PPP neutrum số ít được sử dụng như m�
 :::
 ## 14.2. Hình thành các dạng sở hữu (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
->> Cách sở hữu được hình thành từ gốc yếu (weak stem) đối với các gốc động từ có biến đổi nguyên âm (stammabstufung).
+Cách sở hữu được hình thành từ gốc yếu (weak stem) đối với các gốc động từ có biến đổi nguyên âm (stammabstufung).
 
 **Sở hữu của các gốc kết thúc bằng phụ âm:**
 

@@ -1,6 +1,6 @@
 ---
 title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+subtitle: "Altri temi del presente in -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"

@@ -3,6 +3,7 @@ title: "Harjoitus 38"
 uebung_id: 38
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -47,7 +48,7 @@ Maailman nauttiminen on kuningasten velvollisuus.
 Vahvat norsut tulee antaa kuninkaalle.
 
 ⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+Brahmā loi maailmat.
 
 ⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
 Itse tekee pahuutta, itse jättää tekemättä pahuuden.

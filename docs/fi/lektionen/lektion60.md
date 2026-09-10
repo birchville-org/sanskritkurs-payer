@@ -1,10 +1,11 @@
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Oppitunti 60"
+subtitle: "Duaalin imperfektipäätteet (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 60
@@ -190,7 +191,7 @@ Esimerkit:
 
 **Feminin:**
 
-**schwacher Vartalo vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**heikko vartalo ennen vokaalia + -ī (taivutetaan kuten ⟪देवी⟫)**
 
 Esimerkki: ⟪विदुषी⟫ "tietävä"
 :::

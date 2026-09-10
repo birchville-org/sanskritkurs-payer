@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Μάθημα 20"
+subtitle: "Κτητικά σύνθετα = ⟪बहुव्रीहि⟫ αρσ."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα 20
@@ -256,17 +257,17 @@ Madhya Pradesh
 
 ⟪वा⟫ : ή
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+⟪आश्रम⟫ m., n.: ησυχαστήριο, ερημητήριο, άσραμ, στάδιο ζωής (δηλαδή ως ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ και ενδεχομένως ως ⟪सन्न्यासिन्⟫ · βλ. Basham, Wonder σελ. 159κ.εξ.)
 
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
+Εικ.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/el/licenses#lekt2008))
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : πράττων, ποιών, προκαλών
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: χέρι (προς ⟪कृ⟫ 8)
 
 ⟪कर⟫ m.: φόρος, τέλη, φορολογία (όχι προς ⟪कृ⟫, αλλά πιθανόν δάνειο από τα Ταμίλ - தமிழ்)
 

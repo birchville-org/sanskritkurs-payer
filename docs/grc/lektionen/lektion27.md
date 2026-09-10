@@ -1,6 +1,6 @@
 ---
 title: "Μάθημα 27"
-subtitle: 'Χρῆσις τῆς Τοπικής (⟪सप्तमी⟫ f. = "ἑβδόμη κατάληξις πτώσεως")'
+subtitle: 'Χρῆσις τοῦ Τοπικοῦ (⟪सप्तमी⟫ f. = "ἑβδόμη κατάληξις πτώσεως")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,7 +10,7 @@ status: stable
 
 # Μάθημα 27
 
-## 27.1. Χρῆσις τῆς Τοπικής (⟪सप्तमी⟫ f. = "ἑβτόν πτῶσις")
+## 27.1. Χρῆσις τῆς Τοπικής (⟪सप्तमी⟫ f. = "ἑβδότη πτώσις")
 
 ::: grammar-box
 
@@ -23,7 +23,7 @@ status: stable
 :::
 ::: grammar-box
 
-**1. Ἡ Τοπική (⟪सप्तमी⟫) ἀποκρίνουσα ἐπὶ τοῦ "Ποῥ;" δηλοῖ τὸν τόπον, ἐν ᾧ (ἐπὶ, παρά) εὑρίσκεται ὁ ἀγωνιστής (⟪कर्ता⟫) ἢ τὸ πρᾶγμα τῆς πράξεως, ἢ ποὺ αὐτὴ ἡ πρᾶξις συμβαίνει.**
+**1. Ἡ Τοπική (⟪सप्तमी⟫) ἀποκρίνουσα ἐπὶ τοῦ "Ποῦ;" δηλοῖ τὸν τόπον, ἐν ᾧ (ἐπὶ, παρά) εἴτε ὁ ἀγωνιστής (⟪कर्ता⟫) εἴτε τὸ ὑποκείμενον τινὸς πράγματος κεῖται, εἴτε αὐτὸ τὸ πρᾶγμα συμβαίνει.**
 
 > ⟪नगरे वसति⟫ = "Οἰκεῖ ἐν τῇ πόλει"
 
@@ -31,7 +31,7 @@ status: stable
 ::: media
 ![](/images/lekt2701.webp)
 Ἀπεικ.: ⟪जयपुरनगरे⟫
-Jaipur, 1875.
+Ιαϊπούρ, 1875.
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2701))
 :::
 
@@ -39,30 +39,30 @@ Jaipur, 1875.
 
 **2. Ἡ Τοπική δηλοῖ ἐπὶ τοῦ "Πότε;" τὸν χρόνον ἢ τὰς ἐξωτερικὰς περιστάσεις:**
 
-> ⟪तस्मिन्काले⟫ = "κατὰ τὸν χρόνον ἐκεῖνον, κατὰ τοῦτον τὸν χρόνον"
+> ⟪तस्मिन्काले⟫ = "κατὰ τὸν καιρὸν ἐκεῖνον, κατὰ τοῦτον τὸν χρόνον"
 
-**Εἰς ταύτην τὴν κατηγορίαν ἀνήκει καὶ ὁ λεγόμενος Locativus Absolutus:**
+**Πρὸς ταῦτα ἀνήκει καὶ ὁ λεγόμενος Locativus Absolutus:**
 
-**Ὅταν ἡ πρᾶξις ἢ ἡ κατάστασις προσώπου τινὸς ἢ πράγματος καθορίζῃ τὸν χρόνον, ἐφ' ᾧ - ἢ τὰς περιστάσεις, ἐν αἷς - ἄλλο πρόσωπον ἢ πρᾶγμα πρᾶξιν ἐνεργεῖ ἢ ἐν τινὶ καταστάσει κεῖται, τότε τὸ ῥῆμα δηλοῦν τὸ πρῶτον πρόσωπον ἢ πρᾶγμα συνδυάζεται μετὰ τοῦ αὐτὸ ἐπιρρονοῦντος ὀνόματος (ὅπερ συχνά ἐστι μετοχή) εἰς τὴν Τοπικήν (⟪सप्तमी⟫):**
+**Ὅταν τὰ πράγματα ἢ ἡ κατάστασις προσώπου τινὸς ἢ πράγματος καθορίζῃ τὸν χρόνον, ἐφ' ᾧ — ἢ τὰς περιστάσεις, ἐν αἷς — ἄλλο πρόσωπον ἢ ἄλλο πρᾶγμα πρᾶξιν τινὰ ἐνεργεῖ ἢ ἐν καταστάσει τινὶ κεῖται, τότε τὸ ῥῆμα δηλοῦν τὸ πρῶτον πρόσωπον ἢ πρᾶγμα συνδυάζεται μετὰ τοῦ αὐτὸ ἐπιρρονοῦντος ὀνόματος (ὅπερ συχνά ἐστι μετοχή) εἰς τὴν Τοπικήν (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "ἐν ᾧ τὸ χρόνος οὕτως παρέρχεται..."
+> ⟪एवं गच्छति काले⟫ = "ἐν ᾧ ὁ χρόνος οὕτως ἐκπορεύεται..."
 \>
 > ⟪तस्मिन्गते⟫ = "ὡς ἐξῆλθεν..."
 
-**Συχνὰ δὲ ὁ ἀγωνιστής (⟪कर्ता⟫) οὐ δηλοῦται ἐκ τοῦ λόγου:**
+**Συχνὰ δὲ ὁ ἀγωνιστής (⟪कर्ता⟫) οὐκ ἐπισημαίνεται ξεχωριστά:**
 
-> ⟪एवं सति⟫ = "ἐπειδὴ οὕτως ἔχει τὰ πράγματα"
+> ⟪एवं सति⟫ = "ὡς ἔχει τὰ πράγματα"
 
-**Ὁ Locativus absolutus δεῖ κατὰ τὴν συμφωνίαν μεταφράζεσθαι ὡς "ἐνῷ" (π.χ. μετοχὴ παρατατικοῦ), "μετὰ δὲ" (π.χ. PPP), "ὡς", "ἐπειδή", "διότι", "εἰ καί", "ὅταν" κ.τ.λ.**
+**Ὁ Locativus absolutus δεῖ κατὰ τὴν συμφωνίαν μεταφράζεσθαι ὡς "ἐνῷ" (π.χ. μετοχὴ παρατατικοῦ), "μετὰ δὲ" (π.χ. PPP), "ὡς", "ἐπειδή", "διότι", "περὶ τοῦ ὅτου" κ.τ.λ.**
 
 **Merke: beim Absolutivum muss Agens des Absolutivums und Agens der Hauptvers identisch sein, beim Locativus absolutus müssen der Agens des Locativus absolutus und der Agens des Hauptverbs verschieden sein.**
 
 :::
 ::: media
 ![](/images/lekt2702.webp)
-Abb.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
+Εἰκ.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthan.
-(Bildquelle: [Details](/grc/licenses#lekt2702))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2702))
 :::
 
 ::: grammar-box
@@ -74,9 +74,9 @@ Rajasthan.
 :::
 ::: media
 ![](/images/lekt2703.webp)
-Abb.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
+Εἰκ.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holi.
-(Bildquelle: [Details](/grc/licenses#lekt2703))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2703))
 :::
 
 ::: grammar-box
@@ -204,7 +204,7 @@ sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Abb.: ⟪वस्त्राणि⟫
+Εἰκ.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Πηγή εἰκόνος: [Λεπτομέρειες](/grc/licenses#lekt2706))
 :::
@@ -217,7 +217,7 @@ Vastrāṇi. Majuli, Assam.
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Abb.: ⟪वसन्तः⟫
+Εἰκ.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Πηγή εἰκόνος: [Λεπτομέρειες](/grc/licenses#lekt2707))
 :::
@@ -239,14 +239,14 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
+Εἰκ.: ⟪हरिहरः⟫
 Harihara (ἀριστερά: Viṣṇu, δεξιά: Śiva).
 (Πηγή εἰκόνος: [Λεπτομέρειες](/grc/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
+Εἰκ.: ⟪हरिहरः⟫
 Harihara (ἀριστερά: Viṣṇu, δεξιά: Śiva). Godrumdwip, West Bengal.
 (Πηγή εἰκόνος: [Λεπτομέρειες](/grc/licenses#lekt2705))
 :::
@@ -289,7 +289,7 @@ Harihara (ἀριστερά: Viṣṇu, δεξιά: Śiva). Godrumdwip, West Ben
 ![](/images/lekt2711.webp)
 Fig.: ⟪नराः⟫
 Naran. Udaipur.
-(Bildquelle: [Details](/grc/licenses#lekt2711))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2711))
 :::
 ### 27.7.2. Neutra auf -a: ⟪फल⟫
 
@@ -310,7 +310,7 @@ Naran. Udaipur.
 ![](/images/lekt2710.webp)
 Fig.: ⟪फलानि⟫
 Früchte. Bangalore.
-(Bildquelle: [Details](/grc/licenses#lekt2710))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2710))
 :::
 ### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
 
@@ -331,7 +331,7 @@ Früchte. Bangalore.
 ![](/images/lekt2718.webp)
 Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
-(Bildquelle: [Details](/grc/licenses#lekt2718))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2718))
 :::
 ### 27.7.4. Τὰ ἄρρενα εἰς -i: ⟪अरि⟫
 
@@ -386,9 +386,9 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 :::
 ::: media
 ![](/images/lekt2713.webp)
-Abb.: ⟪गुरुः⟫
+Εἰκ.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Bildquelle: [Details](/grc/licenses#lekt2713))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2713))
 :::
 ### 27.7.7. Feminina auf -u: ⟪धेनु⟫
 
@@ -407,9 +407,9 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 :::
 ::: media
 ![](/images/lekt2714.webp)
-Abb.: ⟪धेनुः⟫
+Εἰκ.: ⟪धेनुः⟫
 Kuh in Udaipur.
-(Bildquelle: [Details](/grc/licenses#lekt2714))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt2714))
 :::
 ### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
 
@@ -483,7 +483,7 @@ Kuh in Udaipur.
 | **7. Locativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Pronomina demonstrativa: ⟪तद् । एतद् । इदम्⟫
+### 27.7.12. πρόσωπα demonstrativa: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
 

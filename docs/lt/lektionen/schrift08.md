@@ -1,22 +1,22 @@
-# Skriftøvelse 8
+# Rašto pratimas 8
 
-Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:
+Balsių ženklai žodžio pradžiai, jei žodis nėra rašomas sujungtas su ankstesniu žodžiu:
 
 ![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
-### Konsonantenligaturen
+### Konsonantų ligatūros
 
-Wenn im Wort oder Satz zwei oder mehrere Konsonanten unmittelbar aufeinander folgen, werden sie mit Ligatur (verbundenes Zeichen) geschrieben.
+Kai žodyje ar sakinyje du ar daugiau konsonantų eina vienas iškart po kito, jie rašomi ligatūra (sujungtu ženklu).
 
-1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschliesst, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
+1. Jei pirmasis jungiamų konsonantų ženklas baigiasi vertikalia linija dešinėje, jis praranda tą liniją ir yra pastatomas prieš antrąjį konsonantą.
 
-Ausnahme: wenn das zweite Konsonantenzeichen ⟪न्⟫ oder ⟪ल्⟫ ist, wird dieses mit Verlust des wagrechten Strichs unter das erste Konsonantenzeichen gesetzt. Je nach Schrifttype gibt es weitere Ausnahmen, die in der folgenden aufgeführt sind. Ist in der betreffenden Schrifttype eine Ligatur nicht vorgesehen, wird ein Virāma gesetzt.
+Išimtis: jei antrasis konsonantų ženklas yra ⟪न्⟫ arba ⟪ल्⟫, jis su horizontalios linijos praradimu yra pastatomas po pirmuoju konsonantų ženklu. Priklausomai nuo šrifto tipo, yra ir kitų išimčių, kurios išvardytos toliau. Jei tam tikrame šrifto tipoje ligatūra nėra numatyta, dedamas virāma.
 
-Beispiele:
+Pavyzdžiai:
 
-In der Type, die in diesem Skript verwendet wird:
+Šiame tekste naudojamame šrifte:
 
 ⟪ख्⟫ kh: ⟪ख्य⟫  khya, ⟪ख्र⟫ khra
 
@@ -36,11 +36,11 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪थ्⟫ th: ⟪थ्य⟫ thya
 
-⟪ध्⟫ dh: ⟪ध्न⟫ dhna, ⟪ध्म⟫ dhma, ⟪ध्र⟫ dhra, ⟪ध्व⟫ dhva
+⟪ध्⟫ dh: ⟪ध्न⟫ dhna, ⟪ध्म⟧ dhma, ⟪ध्र⟫ dhra, ⟪ध्व⟫ dhva
 
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,23 +60,23 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Atkreipkite dėmesį į jña rašybą:
 
 ![](/images/schrift017.webp)
 
-Anlautendes -a, das gemäss den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
+Pradinis -a, kuris pagal sakinio sandhios taisykles yra eliduojamas (-as + a- » -o ' ), žymimas taip vadinamu Avagraha:
 
 ⟪ऽ⟫
 
-z.B.
+Pvz.
 
-⟪देवो⟫ ⟪ऽग्निः⟫ \= devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
-## Užduotis
+## Pratimai
 
-A) Schreiben Sie alle in der obigen Liste vorkommenden Ligaturen
+A) Užrašykite visas aukščiau pateiktoje sąraše esančias ligatūras
 
-B) Schreiben und übersetzen Sie:
+B) Užrašykite ir išverskite:
 
 1\. devo viṣṇuḥ.
 
@@ -114,12 +114,12 @@ B) Schreiben und übersetzen Sie:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+C) Rašykite:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
-D) Lesen, transliterieren und übersetzen Sie:
+D) Skaitokite, transkribuokite ir išverkitė:
 
-⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ | ⟪साध्व्यः⟫ ⟪स्मरन्ति⟫ | ⟪देव्यो⟫ ⟪मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | ⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
+⟪शूद्रा नृत्यन्ति⟫ | ⟪साध्व्यः स्मरन्ति⟫ | ⟪देव्यो मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः स्वर्गं गच्छति⟫ | ⟪साधवो गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
 
 

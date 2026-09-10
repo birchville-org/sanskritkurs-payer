@@ -1,14 +1,15 @@
 ---
-title: "Ushqim 6"
+title: "Ushtrimi 6"
 uebung_id: 6
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 6
+# Ushtrimi 6
 
-A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:
+A) Formoni me rrënjët e dhëna në kllapa duke futur fjali foljore:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -16,7 +17,7 @@ brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
 brāhmaṇo yajati / yajate. brāhmaṇo nṛtyati. brāhmaṇo viśati. brāhmaṇo manyate. brāhmaṇo yudhyate. brāhmaṇo nayati / nayate. brāhmaṇo muhyati.
 
-⟪ब्राह्मणो⟫ ⟪यजति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪यजते⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪नृत्यति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪विश⟫ati ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪मन्यते⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪नयति⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪नयते⟫ ⟪।⟫ ⟪ब्राह्मणो⟫ ⟪मुह्यति⟫ ⟪।⟫
+⟪ब्राह्मणो यजति । ब्राह्मणो यजते । ब्राह्मणो नृत्यति । ब्राह्मणो विश⟫ati ⟪। ब्राह्मणो मन्यते । ब्राह्मणो युध्यते । ब्राह्मणो नयति । ब्राह्मणो नयते । ब्राह्मणो मुह्यति ।⟫
 
 devas ... (nṛt, yudh, smṛ, sṛj)
 
@@ -24,7 +25,7 @@ devas ... (nṛt, yudh, smṛ, sṛj)
 
 devo nṛtyati. devo yudhyate. devaḥ smarati. devaḥ sṛjati.
 
-⟪देवो⟫ ⟪नृत्यति⟫ ⟪।⟫ ⟪देवो⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪देवः⟫ ⟪स्मरति⟫ ⟪।⟫ ⟪देवः⟫ ⟪सृजति⟫ ⟪।⟫
+⟪देवो नृत्यति । देवो युध्यते । देवः स्मरति । देवः सृजति ।⟫
 
 kavis ... (man, smṛ, viś)
 
@@ -32,7 +33,7 @@ kavis ... (man, smṛ, viś)
 
 kavir manyate. kaviḥ smarati. kavir viśati.
 
-⟪कविर्मन्यते⟫ ⟪।⟫ ⟪कविः⟫ ⟪स्मरति⟫ ⟪।⟫ ⟪कविर्विशति⟫ ⟪।⟫
+⟪कविर्मन्यते । कविः स्मरति । कविर्विशति ।⟫
 
 dhenus ... (viś, bhū)
 
@@ -40,116 +41,116 @@ dhenus ... (viś, bhū)
 
 dhenur viśati. dhenur bhavati.
 
-⟪धेनुर्विशति⟫ ⟪।⟫ ⟪धेनुर्भवति⟫ ⟪॥⟫
+⟪धेनुर्विशति । धेनुर्भवति ॥⟫
 
-B) Setzen Sie die in Übung A gebildeten Sätze in den Plural
+B) Vendosni fjali e formuara në Ushtrimin A në numrin shumës
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
-⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ / ⟪यजन्ते⟫ / ⟪नृत्यन्ति⟫ / ⟪विशन्ति⟫ / ⟪मन्यन्ते⟫ / ⟪युध्यन्ते⟫ / ⟪नयन्ति⟫ / ⟪नयन्ते⟫ / ⟪मुह्यन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा यजन्ति⟫ / ⟪यजन्ते⟫ / ⟪नृत्यन्ति⟫ / ⟪विशन्ति⟫ / ⟪मन्यन्ते⟫ / ⟪युध्यन्ते⟫ / ⟪नयन्ति⟫ / ⟪नयन्ते⟫ / ⟪मुह्यन्ति ।⟫
 
 devā nṛtyanti. devā yudhyante. devāḥ smaranti. devāḥ sṛjanti.
 
-⟪देवा⟫ ⟪नृत्यन्ति⟫ ⟪।⟫ ⟪देवा⟫ ⟪युध्यन्ते⟫ ⟪।⟫ ⟪देवाः⟫ ⟪स्मरन्ति⟫ ⟪।⟫ ⟪देवाः⟫ ⟪सृजन्ति⟫ ⟪।⟫
+⟪देवा नृत्यन्ति । देवा युध्यन्ते । देवाः स्मरन्ति । देवाः सृजन्ति ।⟫
 
 kavayo manyante. kavayaḥ smaranti. kavayo viśanti.
 
-⟪कवयो⟫ ⟪मन्यन्ते⟫ ⟪।⟫ ⟪कवयः⟫ ⟪स्मरन्ति⟫ ⟪।⟫ ⟪कवयो⟫ ⟪विशन्ति⟫ ⟪।⟫
+⟪कवयो मन्यन्ते । कवयः स्मरन्ति । कवयो विशन्ति ।⟫
 
 dhenavo viśanti. dhenavo bhavanti.
 
-⟪धेनवो⟫ ⟪विशन्ति⟫ ⟪।⟫ ⟪धेनवो⟫ ⟪भवन्ति⟫ ⟪॥⟫
+⟪धेनवो विशन्ति । धेनवो भवन्ति ॥⟫
 
-C) Übersetzen Sie ins Sanskrit:
+C) Përktheni në Sanskrit:
 
-1\. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn)
+1\. Ai adhuron me një flijim. (Kryepeshkopi i flijimit për zotin e flijimit)
 
 yajati.
 
-⟪यजति⟫ ⟪।⟫
+⟪यजति ।⟫
 
-2\. Śiva tanzt.
+2\. Śiva vallëzon.
 
 śivo nṛtyati.
 
-⟪शिवो⟫ ⟪नृत्यति⟫ ⟪।⟫
+⟪शिवो नृत्यति ।⟫
 
-3\. Rāma führt.
+3\. Rāma udhëton.
 
 rāmo nayati.
 
-⟪रामों⟫ ⟪नयति⟫ ⟪।⟫
+⟪रामों नयति ।⟫
 
-4\. Śudras sind verwirrt.
+4\. Śudrat janë të përzier.
 
 śūdrā muhyanti.
 
-⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
+⟪शूद्रा मुह्यन्ति ।⟫
 
-5\. Die Kṣatriyafrauen treten ein.
+5\. Gratë Kṣatriya hyjnë.
 
 kṣatriyā viśanti.
 
-⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
+⟪क्षत्रिया विशन्ति ।⟫
 
-6\. Der HERR lässt emanieren.
+6\. ZOTI lejon të dalë.
 
 īśvaraḥ sṛjati.
 
-⟪ईश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
+⟪ईश्वरः सृजति ।⟫
 
-7\. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr)
+7\. Kṣatriya adhuron me një flijim. (si zot i flijimit)
 
 kṣatriyo yajate.
 
-⟪क्षत्रियो⟫ ⟪यजते⟫ ⟪।⟫
+⟪क्षत्रियो यजते ।⟫
 
-8\. Śūdrafrauen tanzen.
+8\. Gratë Śūdra vallëzojnë.
 
 śūdrā nṛtyanti.
 
-⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ ⟪।⟫
+⟪शूद्रा नृत्यन्ति ।⟫
 
-9\. Kṣatriyas kämpfen.
+9\. Kṣatriyash luftojnë.
 
 kṣatriyā yudhyante.
 
-⟪क्षत्रिया⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪क्षत्रिया युध्यन्ते ।⟫
 
-10\. Heilige Männer führen.
+10\. Njerëzit e shenjtë udhëtojnë.
 
 sādhavo nayanti.
 
-⟪साधवो⟫ ⟪नयन्ति⟫ ⟪।⟫
+⟪साधवो नयन्ति ।⟫
 
-11\. Sie erinnern sich.
+11\. Ata kujtohen.
 
 smaranti.
 
-⟪स्मरन्ति⟫ ⟪।⟫
+⟪स्मरन्ति ।⟫
 
-12\. Wer (fem.) tanzt?
+12\. Kush (fem.) vallëzon?
 
 kā nṛtyati?
 
-⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
+⟪का नृत्यति ।⟫
 
-13\. Die (erwähnte) Brahmanin tanzt.
+13\. Brahmanja (e përmendur) vallëzon.
 
 sā brāhmaṇī nṛtyati.
 
-⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
+⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
 ![](/images/uebung004.jpg)
-Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung004))
+Fig.: ⟪का नृत्यति ।⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung004))
 :::
 ---
 
-## Wiederholungsübung Lektion 6
+## Ushtrim përsëritës Leksioni 6
 
-A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die sie nach folgenden Einsetzübungen bilden, antworten sind:
+A) Ushtrim plotësues: Formoni pyetje, për të cilat pohimet që ju formoni pas ushtrimeve të mëposhtme plotësuese janë përgjigje:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -543,62 +544,62 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
+11\. Trejfishi (dijësi) është Sāmaveda, Ṛgveda dhe Yajurveda. (2 mundësi)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
-⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
+⟪सामर्ग्यजुर्वेदास्त्रयी । सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫
 
-12\. Diese Göttin ist gut.
+12\. Kjo hyjni është e mirë.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
-⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
+⟪साध्व्यीयं देवी । साध्व्येषा देवी । साध्वी सा देवी ।⟫
 
-13\. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
+13\. Pesë "vuajtjet" janë: paaftësia, mendimi i gabuar për unë, dëshira (dashuria), urrejtja, lidhja me trupin. (2 mundësi)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
-⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
+⟪अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः । अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-14\. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
+14\. "Gjendjet e qëndrimit të Brahmas" janë: mirënjohja miqësore, mëshirshmëria, gëzimi i përbashkët, barazia. (2 mundësi)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
-⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
+⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ।⟫
 
-15\. Diese Brahmanen opfern im Auftrag anderer.
+15\. Këta brahmanë ofrojnë në emër të tjerëve.
 
 ete / ime brāhmaṇā yajanti.
 
-⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
+⟪एते⟫ / ⟪इमे ब्राह्मणा यजन्ति ।⟫
 
-16\. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
+16\. Brahmanët, Kṣatriyas dhe Vaśyas janë të dyfishtët e lindur. (2 mundësi)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
-⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
+⟪द्विजातयो ब्राह्मणक्षत्रियवैश्याः । द्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च ।⟫
 
-17\. Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
+17\. Shkencat (për një princ) janë: filozofia, trefishi i dijes së Vedave, ekonomia dhe politika. (2 mundësi)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
-⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः । आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
-18 .Geht es Ihnen gut?
+18. Aflini mirë?
 
 kiṃ kuśalam?
 
-⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
+⟪किं कुशलम् ।⟫
 
-19\. (Es geht mir) in jeder Hinsicht gut.
+19\. (Më shkon) mirë në çdo drejtim.
 
 sarvathā kuśalam.
 
-⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
+⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
 ![](/images/uebung005.webp)
-Abb.: ⟪देवतान्नपूर्णा⟫
-(Bildquelle: [Details](/licenses#uebung005))
+Fig.: ⟪देवतान्नपूर्णा⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung005))
 :::

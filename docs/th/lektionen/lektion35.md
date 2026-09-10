@@ -1,5 +1,5 @@
 ---
-title: "บทที่ 35"
+title: "# บทที่ 35"
 lesson_id: 35
 status: stable
 
@@ -181,7 +181,7 @@ Ejemplo:
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : desaparecer, perderse, perecer
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : ก้าวเดิน, เดิน
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : เดิน, ไป
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
@@ -195,9 +195,9 @@ Ejemplo:
 ![](/images/lekt3502.webp)
 Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/th/licenses#lekt3502))
+(Image source: [Details](/th/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ร้องเพลง, สวดด้วยทำนองร้องเพลง, ประกาศในถ้อยคำเป็นฉันทลักษณ์
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ร้องเพลง, สวดด้วยทำนองร้องเพลง, ประกาศในบทกวี
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
@@ -213,11 +213,11 @@ People walking, Senegal.
 ![](/images/lekt3501.webp)
 Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/th/licenses#lekt3501))
+(Image source: [Details](/th/licenses#lekt3501))
 :::
-## 35.5. การฝึกหัด
+## 35.5. แบบฝึกหัด
 
-A) จงสร้างรูป Perfect ( Perfekt ) ที่สอดคล้องกับกริยาต่อไปนี้:
+A) จงสร้างรูป Perfect ที่สอดคล้องกันจากรูปกริยาต่อไปนี้:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -252,20 +252,7 @@ A) จงสร้างรูป Perfect ( Perfekt ) ที่สอดคล�
 ![](/images/lekt3503.webp)
 Abb.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Bildquelle: [Details](/th/licenses#lekt3503))
-:::
-30. ⟪अपद्यत⟫
-31. ⟪सुनोति⟫
-32. ⟪अतिष्ठत्⟫
-33. ⟪पतिष्यन्ति⟫
-34. ⟪अपचत्⟫
-35. ⟪अजहुर्⟫
-36. ⟪धक्ष्यन्ति⟫
-37. ⟪स्तौति⟫
-38. ⟪तनुते⟫
-39. ⟪अचरत्⟫
-40. ⟪जुह्वति⟫
-41. ⟪अहरत्⟫
+(Image source: [Details](/th/licenses#lekt3503))
 
 B) จงแปลข้อความต่อไปนี้:
 

@@ -338,7 +338,7 @@ ví dụ ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ::: media
 ![](/images/lekt5105.webp)
 Abb.:
-(Bildquelle: [Details](/vi/licenses#lekt5105))
+(Nguồn hình ảnh: [Chi tiết](/vi/licenses#lekt5105))
 :::
 ⟪अतिथि⟫ m.: khách
 

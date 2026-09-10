@@ -1,10 +1,11 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "पाठ 59"
+subtitle: "द्विवचन के प्राथमिक प्रत्यय और आज्ञार्थक प्रत्यय (⟪⟪द्विवचनम्⟫⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # पाठ 59

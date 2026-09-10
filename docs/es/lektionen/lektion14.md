@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Lección 14"
+subtitle: "La expresión de la relación entre lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminación casual)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 14
@@ -88,16 +89,16 @@ El genitivo plural de las raíces terminadas en vocal se forma de la siguiente m
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitivo singular de raíces terminadas en vocal:**
+**Genitivo singular de las raíces que terminan en vocal:**
 
 ::: grammar-box
 
-El genitivo singular de las raíces terminadas en vocal se forma de manera irregular y debe aprenderse de memoria.
+El genitivo singular de las raíces que terminan en vocal se forma irregularmente y debe aprenderse de memoria.
 
 :::
 ::: center
 
-| Tema | Genitivo Singular |
+| Raíz | Genitivo Singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,11 +106,11 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | \<!--  --\>
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(es decir, ya sea como kavi o como devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(es decir, ya sea como paśu o como los femeninos polisílabos en -ū) |
 
 :::
-**Pronombres interrogativos y pronombres demostrativos:**
+**Pronombres interrogativos y demostrativos:**
 
 ::: center
 
@@ -122,6 +123,10 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 
 :::
 **Identidad de forma:**
+
+::: important
+
+En todas las raíces nominales, con excepción de los masculinos y neutros en -a y de los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
 ::: important
 

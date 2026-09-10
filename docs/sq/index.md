@@ -2,32 +2,34 @@
 layout: home
 
 hero:
-  name: Sanskritkurs
-  text: Ein vollständiger Lehrgang
-  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
+  name: "Kursi Sanskritisht"
+  text: "Një kurs i plotë mësimor"
+  tagline: "nga Alois Payer (Biblioteka Global Village e Tüpfli's)"
   actions:
     - theme: brand
-      text: Kurs Starten
+      text: "Nis Kursin"
       link: /sq/lektionen/lektion01
     - theme: alt
-      text: Grammatik Themen
+      text: "Temat e Gramatikës"
       link: /sq/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+  - title: "Global & Polyglot"
+    details: "I disponueshëm plotësisht në 20+ gjuhë përmes një kaskade automatike të shumëfishtë të përkthimit nga AI."
+  - title: "PWA Offline-First"
+    details: "I gjithë kursi (përfshirë motorin e kërkimit lokal) është i përdorshëm në të gjitha pajisjet pa lidhje aktive me internet."
+  - title: "Tipografi Shkencore"
+    details: "Mbështetje native për Devanāgarī dhe transliterim IAST me orientim të saktë akademik të tekstit."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+**Kurset i sanskritisht** nga Alois Payer është një kurs gjithëpërfshirës, i bazuar shkencërisht për mësimin e gjuhës sanskrite dhe shkrimit Devanāgarī. Ky botim dixhital e ofron të gjithë kurset në një mjedis leximi modern, shumëgjuhësh dhe të kërkueshëm.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Gjuhët janë përkthyer plotësisht automatikisht nga gjermanishtja duke ndihmuar nga një kaskadë shumëstufen e inteligjencës artificiale. Raportimet për gabime përkthimi janë shumë të mirëpritura.
+
+**Kontakt & Kontribut**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Wiki e Projektit](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Redaktorë**: Redaktues online i disponueshëm përmes [QA](https://payer.birchville.cc/qa_viewer.html) (Vetëm shikim, Hyrje e mbrojtur me fjalëkalim për shkrim)
+**Versioni aktual**: v1.7.4
 :::

@@ -1,0 +1,113 @@
+---
+title: "Exercise 9"
+uebung_id: 9
+category: "Übung"
+last_reconstructed: 2026-05-15
+
+---
+
+
+# Exercise 9
+
+A) Attempt to determine the possible meanings of the following words:
+
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. one who is only similar to a Brahmin = a bad Brahmin
+
+2\. mati ⟪मति⟫ : f. opinion
+
+3\. śravaṇa ⟪श्रवण⟫ : n. ear
+
+4\. dhenuka ⟪धेनुक⟫ : m. (coitus) in the manner of a cow
+
+5\. jayaka ⟪जयक⟫ : 3 victorious
+
+6\. rakṣikā ⟪रक्षिका⟫ : f. guardian, amulet
+
+7\. karṣaka ⟪कर्षक⟫ : 3 plowing ; m. farmer
+
+8\. kleśa ⟪क्लेश⟫ : m. torment
+
+9\. nāyikātva ⟪नायिकात्व⟫ : n. state of a beloved
+
+10\. tantraka ⟪तन्त्रक⟫ : 3 (just) coming from the warp / loom = newly woven
+
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : dancer
+
+12\. naraka ⟪नरक⟫ : m. hell
+
+13\. lābhaka ⟪लाभक⟫ : m. = lābha
+
+14\. īśvaratā ⟪ईश्वरता⟫ : f. lordship
+
+15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
+
+16\. yodhaka ⟪योधक⟫ : m. fighter
+
+17\. kopa ⟪कोप⟫ : m. anger
+
+18\. veśaka ⟪वेशक⟫ : 3 entering
+
+19\. darśaka ⟪दर्शक⟫ : 3 seeing
+
+20\. kopaka ⟪कोपक⟫ : 3 one who is easily angry, short-tempered
+
+B) Translate:
+
+1\. Duties of all twice-borns:
+
+ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
+
+(Yājñavalkyadharmaśāstra I, 118)
+
+Sacrifice, study of the Vedas, giving gifts.
+
+2\. Specific duties of a Brahmin:
+
+pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
+
+(Gautamadharmasūtra X,2)
+
+Teaching, sacrificing on behalf of others, accepting gifts.
+
+3\. Specific duties of a Kṣatriya:
+
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
+
+(sarvabhūtānām = Genitive: "of all beings")
+
+(Gautamadharmasūtra X,7)
+
+Protecting all beings.
+
+4. Specific duties of a Vaiśya:
+
+kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
+
+(after Gautamadharmasūtra X,49)
+
+Agriculture, trade, cattle rearing and money lending.
+
+5. Duties of a Śūdra:
+
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
+
+(after Kauṭilīya-arthaśāstra 1.3.8.)
+
+Explanation:
+dvijātīnām = Genitive (possessive case) plural of dvijāti (translate here: "towards the twice-born")
+
+kārukuśīlavakarma is a Tatpuruṣa compound with a Dvandva (kārukuśīlava) in the first member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate as "deed / activity of the ... (designated by the Dvandva)" (Genitive).
+
+Obedience towards the twice-born, livelihood activities, activity as a craftsman or wandering showman.
+
+6. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
+
+(after Kauṭilīya-arthaśāstra 1.4.1.)
+
+Economics is agriculture, cattle rearing and trade.
+
+::: media
+![](/images/uebung013.webp)
+Fig.: ⟪रक्षणं सर्वभूतानाम्⟫
+(Bildekilde: [Detaljer](/no/licenses#uebung013))
+:::

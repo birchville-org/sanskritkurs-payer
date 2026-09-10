@@ -1,10 +1,11 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: "Lecție 16"
+subtitle: "Despre Sandhi consoanelor finale"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 16

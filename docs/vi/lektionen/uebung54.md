@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 54"
 uebung_id: 54
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,40 +7,40 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 54
+# Bài tập 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Hãy tạo các dạng Aorist tương ứng từ các dạng Present hoặc Perfect sau đây:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Số thứ tự | Dạng | Xác định / Ý nghĩa | Aorist |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | họ đi | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | tôi uống | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫ | tôi đã cho / anh ấy đã cho | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫ | tôi / anh ấy / họ đã là / các bạn đã là | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫ | họ đặt | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫ | chúng tôi đã đi | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫ | bạn đã uống / bảo vệ | ⟪अपाः⟫ (từ :sig[⟪पा⟫] "uống") |
+| ⟪८⟫. | ⟪तिष्ठति⟫ | anh ấy đứng | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫ | bạn đã đi | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫ | các bạn đã uống | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫ | các bạn sẽ đi | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫ | họ đã đứng | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫ | các bạn đã đặt | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫ | bạn đã cho | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫ | họ đã là | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫ | chúng tôi đã cho | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫ | nó sẽ bị tách ra | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫ | nó sẽ được nói | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫ | anh ấy sẽ được ca ngợi | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫ | nó sẽ được cày bừa | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫ | anh ấy sẽ được sinh ra | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫ | nó sẽ được hát | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫ | nó sẽ được đi | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Hình: ⟪अगायि⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung093))
 :::
 

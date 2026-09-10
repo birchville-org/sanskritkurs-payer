@@ -99,6 +99,7 @@ Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 ---
 
 ## Exercițiu de repetiție Lectiona 5
+:::
 ---
 
 ## Exercițiu de recapitulare Lecția 5
@@ -169,6 +170,6 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ::: media
 ![](/images/uebung009.webp)
-Abb.: ⟪ऋग्वेदः⟫
-(Bildquelle: [Details](/licenses#uebung009))
+Fig.: ⟪ऋग्वेदः⟫
+(Sursa imaginii: [Detalii](/licenses#uebung009))
 :::

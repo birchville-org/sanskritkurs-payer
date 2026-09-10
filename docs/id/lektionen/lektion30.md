@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Pelajaran 30"
+subtitle: 'Kelas Present Ke-9 (⟪क्र्यादि⟫ = "⟪क्री⟫ dan seterusnya.")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 30
@@ -121,16 +122,16 @@ Optatif (⟪लिङ्⟫), Imperfek (⟪लङ्⟫), Aorist (⟪लुङ�
 | **Ātmanepada** | **-ta** | atematik Klassen: **-ata** (aus *nta):brOptatif: **-ran** |
 
 :::
-## 30.4. Pembentukan  Optatif Present (⟪लिङ्⟫)
+## 30.4. Pembentukan Optatif Present (⟪लिङ्⟫)
 
 ### 30.4.1. Kelas Present Tematis
 
 ::: grammar-box
-**sebelum akhiran yang diawali konsonan:**
+**sebelum akhiran yang dimulai dengan konsonan:**
 
-**Stem Present + -i- (yang melebur dengan -a menjadi -e) + Akhiran Sekunder**
+**Stem Present + -i- (yang melebur dengan -a- menjadi -e-) + Akhiran Sekunder**
 
-**sebelum akhiran yang diawali vokal:**
+**sebelum akhiran yang dimulai dengan vokal:**
 
 **Stem Present + -i- (» -e-) + -y- + Akhiran Sekunder**
 :::
@@ -141,10 +142,10 @@ Contoh:
 ⟪भू⟫
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **Orang ke-3:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
-| **Orang ke-3:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
+|**Orang ke-3:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
 4\. Kelas Present:
@@ -152,10 +153,10 @@ Contoh:
 ⟪नृत्⟫
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **Orang ke-3:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
-| **Orang ke-3:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
+|**Orang ke-3:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
 6\. Kelas Present
@@ -163,10 +164,10 @@ Contoh:
 ⟪विश्⟫
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **Orang ke-3:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
-| **Orang ke-3:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
+|**Orang ke-3:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
 10\. Kelas Present dan Kausatif
@@ -174,10 +175,10 @@ Contoh:
 ⟪चुर्⟫
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
+| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-| **Orang ke-3:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
-| **Orang ke-3:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
+|**Orang ke-3:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
 ### 30.4.2. Kelas Present Atematis
@@ -516,4 +517,3 @@ Tentukan dan terjemahkan bentuk-bentuk kata berikut:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

@@ -3,6 +3,7 @@ title: "Άσκηση 42"
 uebung_id: 42
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -74,6 +75,6 @@ last_reconstructed: 2026-05-15
 
 ::: media
 ![](/images/uebung069.webp)
-Abb.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
-(Bildquelle: [Details](/licenses#uebung069))
+Εικ.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
+(Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung069))
 :::

@@ -14,37 +14,37 @@ status: stable
 
 Bijwoorden worden in het Sanskriet gevormd
 
-1.  door casusvormen van nomina en pronomina
-2.  met behulp van bijzondere suffixen en uitgangen
+1. door gevalvormen van zelfstandige naamwoorden en voornaamwoorden
+2. met behulp van speciale suffixen en uitgangen
 
-In het eerste geval is de grens tussen levende casus en bijwoord vloeiend. Hiertoe behoren als bijzonder geval de bijwoorden die verstijfde, oude casusvormen zijn, terwijl in de declinatie andere vormen gebruikt worden dan wel de overeenkomstige nomina niet meer als nomina gebruikt worden.
+In het eerste geval is de grens tussen levendige gevallen en bijwoorden vloeiend. Hiervan behoren als bijzonder geval de bijwoorden, die verstarde, oude gevalvormen zijn, terwijl in de declinatie andere vormen worden gebruikt resp. de overeenkomstige zelfstandige naamwoorden niet meer als zelfstandige naamwoorden worden gebruikt.
 
-## 37.2. Adverbiaal gebruik van casusvormen
+## 37.2. Adverbiaal gebruik van gevalvormen
 
 ### 37.2.1. Accusatief (⟪द्वितीया⟫)
 
 ::: grammar-box
-De accusatief (⟪द्वितीया⟫) kan adverbiaal gebruikt worden bij de vragen:
+De accusatief (⟪द्वितीया⟫) kan adverbiaal worden gebruikt op de vragen:
 
-*   op welke wijze?
+*   in welke wijze?
 *   hoe lang?
 *   waarheen?
-*   e.d.
+*   en dergelijke.
 
-Adverbiaal gebruikt kan de accusatief worden:
+Adverbiaal kan de accusatief worden gebruikt:
 
-*   van substantieven  
+*   van zelfstandige naamwoorden  
 Voorbeelden:  
-⟪कामम्⟫ "volgens wens, naar wens"  
+⟪कामम्⟫ "naar wens, naar believen"  
 ⟪अर्थम्⟫ "wegens"  
 
-*   van adjectieven in het neutrum  
+*   van bijvoeglijke naamwoorden in het mannelijk en onzijdig  
 Voorbeelden:  
-⟪सुखम्⟫ "licht, gelukkig"  
+⟪सुखम्⟫ "gemakkelijk, gelukkig"  
 ⟪नित्यम्⟫ "altijd"  
 ⟪साधु⟫ "juist, goed"  
 
-*   van pronomina in het neutrum  
+*   van voornaamwoorden in het onzijdig  
 Voorbeelden:  
 ⟪तद्⟫ "toen, daarom"  
 ⟪यद्⟫ "wanneer, dat"  
@@ -53,23 +53,18 @@ Voorbeelden:
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
 ::: grammar-box
-De instrumentalis (⟪तृतीया⟫) kan adverbiaal gebruikt worden bij de vragen:
+De instrumentalis (⟪तृतीया⟫) kan adverbiaal worden gebruikt op de vragen:
 
 *   waardoor?
 *   waarmee?
-*   e.d.
+*   en dergelijke.
 
-Adverbiaal gebruikt kan de instrumentalis worden:
+Adverbiaal kan de instrumentalis worden gebruikt:
 
-*   van substantieven  
+*   van zelfstandige naamwoorden  
 Voorbeelden:  
 ⟪अर्थेन⟫ "wegens"  
 ⟪क्षणेन⟫ "op het ogenblik, onmiddellijk" (van ⟪क्षण⟫ m. "ogenblik")  
-
-*   van adjectieven, vaak ook in de pluralisvorm  
-Voorbeelden:  
-⟪दूरेण⟫ "ver, uit de verte" (bij ⟪दूर⟫ 3 "ver, ver van")  
-⟪उच्चैस्⟫ "hoog, luid" (bij ⟪उच्च⟫ 3 "hoog, verheven, luid, schel (van stem)")
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
@@ -102,7 +97,7 @@ bijv. ⟪बलात्⟫ "gewelddadig, met geweld"
 *   van adjectieven  
 bijv. ⟪दूरात्⟫ "van veraf"  
 
-*   van pronomina  
+*   van voornaamwoorden  
 voorbeelden:  
 ⟪कस्मात्⟫ "waarom"  
 ⟪अकस्मात्⟫ "onverwacht"
@@ -135,6 +130,10 @@ Voorbeelden:
 Voorbeelden:
 ::: indent
 ⟪जातु⟫ "in het algemeen" (oorspronkelijk "van geboorte, van nature", akk.sg.neu. tot ⟪जातु⟫ \<niet langer als zelfstandig naamwoord in gebruik\>)
+
+⟪तूष्णीम्⟫ "zwijgend" (akk.sg. tot een niet langer gebruikelijke ⟪तूष्णी⟫ v. "stilte")
+
+⟪एवम्⟫ "zo" (tot een anderszins verloren gegaan pronominaal stam ⟪एव⟫ "een, enkel")
 
 ⟪तूष्णीम्⟫ "zwijgend" (akk.sg. tot een niet langer gebruikelijke ⟪तूष्णी⟫ v. "stilte")
 

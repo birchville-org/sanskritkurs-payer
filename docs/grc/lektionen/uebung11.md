@@ -1,8 +1,9 @@
 ---
-title: "[ L0 ] Ἀσκησις 11"
+title: "Ἄσκησις 11"
 uebung_id: 11
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -129,8 +130,8 @@ Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ::: media
 ![](/images/uebung022.webp)
-Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung022))
+Εἰκ.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung022))
 :::
 ---
 
@@ -234,6 +235,6 @@ Itarā ist eine Śūdrafrau.
 
 ::: media
 ![](/images/uebung021.webp)
-Abb.: ⟪फलान्यश्नुते⟫
-(Bildquelle: [Details](/licenses#uebung021))
+Εἰκ.: ⟪फलान्यश्नुते⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung021))
 :::

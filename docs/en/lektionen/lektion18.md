@@ -90,7 +90,7 @@ Therefore: ⟪दुष्करण⟫
 
 ::: grammar-box
 
->> Compounds of the type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily express the meaning of passive possibility:
+Compounds of the type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily express the meaning of passive possibility:
 
 Examples:
 

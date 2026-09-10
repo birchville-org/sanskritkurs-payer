@@ -1,32 +1,33 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Lekcija 55"
+subtitle: "Aorist na bazi tematskog vokala a (tematski aorist)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 55
+# Lesson 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. The a-aorist (Aorist with thematic vowel)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**Augment + zero-grade root + a + secondary ending**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**-a- is replaced by -ā- in the same cases as in the imperfect.**
 
-**Keine Nasalinfixe.**
+**No nasal infixes.**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**The Ātmanepada is rare; for Ubhayapada roots it is usually formed according to other aorist classes (see Kielhorn, Grammar §340 and below under the corresponding aorist classes).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**List of roots that have this aorist in Kielhorn, Grammar §340.**
 :::
-Beispiel:
+Example:
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U "to sprinkle"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +37,23 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmässige Bildungen:
+Irregular formations:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "to throw": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Explanation see Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "to see": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Strong grade!)
 :::
-Beachte:
+Note:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
+⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
 :::
-## 55.2. Übung
+## 55.2. Exercise
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+Determine and translate the following forms in writing, and form the corresponding a-aorist forms:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -74,23 +75,23 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  ⟪श्राम्यन्ति⟫
 19.  ⟪विन्दथ⟫
 20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P)
+21.  ⟪वर्तामहे⟫ (a-aor.: P)
 22.  ⟪अशात्⟫
 23.  ⟪सेक्ष्यसे⟫
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+27.  ⟪अजीर्यम्⟫ (Aor.: strong grade)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+30.  ⟪अशोभथाः⟫ (a-aor.: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+Fig.: ⟪अजीर्यमिति⟫
+'Inâyat Khân on his deathbed, design for a miniature in a manuscript for Jahângîr = جهانگير, ca. 1618
+(Image source: [Details](/sh/licenses#lekt5501))
 :::
 

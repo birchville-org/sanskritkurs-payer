@@ -1,8 +1,9 @@
 ---
 title: "Exercițiul 16"
 uebung_id: 16
-category: "Exercițiu"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -54,7 +55,7 @@ Oamenii nu ajung în cer prin jertfe de animale. Dar prin jertfe (neînsângerat
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-Śūdras nennt man Sklaven der Zweimalgeborenen.
+Śūdra sunt numiți sclavi ai celor născuți de două ori.
 
 ⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 ⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫

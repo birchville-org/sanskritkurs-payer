@@ -1,32 +1,33 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Mësimi 55"
+subtitle: "Aoristi i a- (Aoristi me vokalin e temës)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. Aoristi me a (Aoristi me vokalin e temës)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**Aoristi me a formohet si një Imperfekt (⟪लङ्⟫) i klasës së 6-të të Prezencit (⟪तुदादि⟫), pra:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**Augment + rrënjë në nivel të ulët (guna) + a + fundje dytësore**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**-a- zëvendësohet me -ā- në të njëjtat raste si te Imperfekt.**
 
-**Keine Nasalinfixe.**
+**Pa infix nasal.**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**Ātmanepada është e rrallë; për rrënjët Ubhayapada, ajo zakonisht formohet sipas klasave të tjera të Aorit (shih Kielhorn, Grammatik §340 dhe më poshtë te klasat përkatëse të Aorit).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**Lista e rrënjeve që kanë këtë Aorist te Kielhorn, Grammatik §340.**
 :::
-Beispiel:
+Shembull:
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U "pikoj"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,61 +37,61 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmässige Bildungen:
+Formime të parregullta:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "hedh": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (shpjegimi shih Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "tregoj": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "shoh": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Nivel i lartë!)
 :::
-Beachte:
+Vini re:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
+⟪शास्⟫ 2P "uroj": ⟪अशिषत्⟫ (nivel i ulët i rregullt!)
 :::
-## 55.2. Übung
+## 55.2. Ushtrim
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+Përcaktoni dhe përktheni me shkrim format e mëposhtme dhe formoni format përkatëse të a-Aorit:
 
-1.  ⟪दोक्ष्यन्ति⟫
-2.  ⟪बुबोध⟫
-3.  ⟪क्रुध्यसि⟫
-4.  ⟪तोक्ष्यथ⟫
-5.  ⟪कुप्यामः⟫
-6.  ⟪आप⟫
-7.  ⟪जग्मुः⟫
-8.  ⟪छेत्स्यसि⟫
-9.  ⟪पश्यथ⟫
-10.  ⟪ध्रोक्ष्यामि⟫
-11.  ⟪नेश⟫
-12.  ⟪भिन्त्थ⟫
-13.  ⟪भ्राम्यामः⟫
-14.  ⟪मुञ्चति⟫
-15.  ⟪मुह्यसि⟫
-16.  ⟪अरोदीत्⟫
-17.  ⟪रुरोधिथ⟫
-18.  ⟪श्राम्यन्ति⟫
-19.  ⟪विन्दथ⟫
-20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P)
-22.  ⟪अशात्⟫
-23.  ⟪सेक्ष्यसे⟫
-24.  ⟪अयुनक्⟫
-25.  ⟪आरिथ⟫
-26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
-28.  ⟪लुम्पति⟫
-29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
-31.  ⟪अशुष्याम⟫
-32.  ⟪सिष्णेह⟫
+1. ⟪दोक्ष्यन्ति⟫
+2. ⟪बुबोध⟫
+3. ⟪क्रुध्यसि⟫
+4. ⟪तोक्ष्यथ⟫
+5. ⟪कुप्यामः⟫
+6. ⟪आप⟫
+7. ⟪जग्मुः⟫
+8. ⟪छेत्स्यसि⟫
+9. ⟪पश्यथ⟫
+10. ⟪ध्रोक्ष्यामि⟫
+11. ⟪नेश⟫
+12. ⟪भिन्त्थ⟫
+13. ⟪भ्राम्यामः⟫
+14. ⟪मुञ्चति⟫
+15. ⟪मुह्यसि⟫
+16. ⟪अरोदीत्⟫
+17. ⟪रुरोधिथ⟫
+18. ⟪श्राम्यन्ति⟫
+19. ⟪विन्दथ⟫
+20. ⟪असीदन्⟫
+21. ⟪वर्तामहे⟫ (a-Aor.: P)
+22. ⟪अशात्⟫
+23. ⟪सेक्ष्यसे⟫
+24. ⟪अयुनक्⟫
+25. ⟪आरिथ⟫
+26. ⟪अक्लिद्यन्⟫
+27. ⟪अजीर्यम्⟫ (Aor.: nivel i lartë)
+28. ⟪लुम्पति⟫
+29. ⟪अशाम्यत⟫
+30. ⟪अशोभथाः⟫ (a-Aor.: P)
+31. ⟪अशुष्याम⟫
+32. ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
+Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5501))
 :::
 

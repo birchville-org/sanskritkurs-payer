@@ -14,7 +14,7 @@ status: stable
 
 Adverbia in Sanscrito formantur
 
-1.  per formas casuales nominum et pronomina
+1.  per formas casuales nominum et Pronominalia
 2.  auxilio suffixorum et desinentium peculiarium
 
 In primo casu finis inter casum vivum et adverbium fluida est. Quae res includit adverbium speciale, quod est forma casus antiqua rigida, dum in declinatione aliae formae adhibentur vel nomina correspondens iam non ut nomina adhibentur.
@@ -81,81 +81,74 @@ Adverbialiter adhiberi potest Instrumentalis:
 ⟪दूरेण⟫ "procul, e procul" (ad ⟪दूर⟫ 3 "procul, procul a")
 ⟪उच्चैस्⟫ "altus, altā voce" (ad ⟪उच्च⟫ 3 "altus, elevatus, altā voce, acuta (de voce)")
 :::
-### 37.2.3. Datīvus (⟪चतुर्थी⟫)
+### 37.2.3. Dativus (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Raro casus dativus (⟪चतुर्थी⟫) adverbialiter ad quaestiones:
+Rarè Dativus (⟪चतुर्थी⟫) adverbialiter usurpatur ad quaestiones:
 
-*   et cetera
-*   et cetera
+*   quo consilio?
+*   et cetera.
 
-Example:
+Exemplum:
 :::
 ::: indent
-⟪अर्थाय⟫ "ad finem, propter ..."
+⟪अर्थाय⟫ "propter, gratia"
 :::
 ### 37.2.4. Ablativus (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Casus Ablativus (⟪पञ्चमी⟫) adverbialiter uti potest, ad quaestionem respondens:
+Ablativus (⟪पञ्चमी⟫) adverbialiter usurpari potest ad quaestiones:
 
 *   cur?
-*   et cetera
+*   cuius causa?
 *   unde?
-*   et cetera
+*   et cetera.
 
-Adverbialiter uti potest Ablativus:
+Adverbialiter usurpari potest Ablativus:
 
-*   a substantivis
-    e.g. ⟪बलात्⟫ "violent, cum vi"
+*   a substantivis  
+e.g. ⟪बलात्⟫ "vi, vi"  
 
-*   ab adiectivis
-    exempli gratia ⟪दूरात्⟫ "a longinquo"
+*   ab adiectivis  
+e.g. ⟪दूरात्⟫ "procul"  
 
-*   de pronomibus
-    Exemplaria:  
-:::
-::: indent
-⟪कस्मात्⟫ "cur"
-⟪अकस्मात्⟫ "inopinatus"
+*   a pronomibus  
+exempla:  
+⟪कस्मात्⟫ "cur"  
+⟪अकस्मात्⟫ "inopinatum"
 :::
 ### 37.2.5. Genetivus (⟪षष्ठी⟫)
 
 ::: grammar-box
-Raro casus genitivus (⟪षष्ठी⟫) adverbialiter ad quaestionem "post quam tempus?" adhibetur.
+Rarè Genetivus (⟪षष्ठी⟫) adverbialiter usurpatur ad quaestionem "post quam diu?"
 
-e.g. ⟪चिरस्य⟫ "post longam temporis" (ad ⟪चिर⟫ 3 "diu (temporis)")
+e.g. ⟪चिरस्य⟫ "post longum tempus" (ad ⟪चिर⟫ 3 "diu")
 :::
 ### 37.2.6. Locativus (⟪सप्तमी⟫)
 
 ::: grammar-box
-Locus (⟪सप्तमी⟫) adverbialiter ad quaestiones:
+Locativus (⟪सप्तमी⟫) adverbialiter usurpari potest ad quaestiones:
 
 *   ubi?
-*   et cetera
-*   et cetera
+*   quibus circumstantiis?
+*   et cetera.
 
 Exempla:
 :::
 ::: indent
 \-⟪अर्थे⟫ "propter"  
-\-⟪कृते⟫ "causa"  
+\-⟪कृते⟫ "gratia"  
 ⟪दूरे⟫ "procul"
 :::
-## 37.3. Usus adverbialis casuum iam non usitatorum
+## 37.3. Adverbialis usus casuum iam non usitatorum
 
 Exempla:
 ::: indent
-⟪जातु⟫ "prorsus" (originale "nativitate, natura", acc. sg. n. ad ⟪जातु⟫ \<non amplius nomine usitatum\>)
+⟪जातु⟫ "prorsus" (originale "nativitate, natura", Acc.sing.neut. ad ⟪जातु⟫ \<iam non ut nomen usitatum\>)
 
-⟪तूष्णीम्⟫ "tacitus" (Acc.sg. ad non iam usitatum ⟪तूष्णी⟫ f. "silentium")
+⟪तूष्णीम्⟫ "tacitus" (Acc.sing. ad non iam usitatum ⟪तूष्णी⟫ f. "silentium")
 
-⟪एवम्⟫ "ita" (ad pronominalis radix aliter peritura ⟪एव⟫ "unus, solus")
-:::
-## 37.4. Formatio adverbiorum per suffixa adverbialia
-
-::: grammar-box
-A pronominalibus radicibus ⟪तद्⟫, ⟪इदम्⟫ vel ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ vel ⟪कु⟫ cum adverbialibus suffixis
+⟪एवम्⟫ "ita" (ad alioquin perditum pronominalis radicem ⟪एव⟫ "unus, solus")
 :::
 ## 37.4. Formatione adverbiorum cum suffixis adverbialibus
 
@@ -198,7 +191,7 @@ Fig.: ⟪क्व⟫
 | Suffixum | |
 | :--- | :--- |
 | **-⟪वत्⟫** | ad nomina quaecumque adiungi potest, ut exprimatur "secundum morem, similiter":brex. gr. ⟪पुत्रवत्⟫ "ut filius" |
-| **-⟪तस्⟫** | ad nomina et pronomina. Plerumque significatio ablativa "unde?", sed etiam "ubi?", "quo?":brex. gr. ⟪आदितस्⟫ "ab initio" |
+| **-⟪तस्⟫** | ad nomina et Pronominalia. Plerumque significatio ablativa "unde?", sed etiam "ubi?", "quo?":brex. gr. ⟪आदितस्⟫ "ab initio" |
 | **-⟪धा⟫** | 1. In adverbii numeralibus in significatione "-plex", "-formis":brex. gr. ⟪द्विधा⟫ "biplex":br2. in significatione "in tali modo":brex. gr. ⟪समधा⟫ "in eodem modo" (ad ⟪सम⟫ 3 "aequus") |
 
 :::
@@ -256,10 +249,10 @@ e.g. ⟪तूष्णीं⟫ ⟪बभूव⟩ "he became silent, he fell s
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Image source: [Details](/la/licenses#lekt3703))
 :::
-## 37.7. Pronomina indefinita
+## 37.7. Pronominalia indefinita
 
 ::: grammar-box
-Pronomina indefinita (pronomina incerta) per additionem
+Pronominalia indefinita (Pronominalia incerta) per additionem
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
@@ -391,54 +384,51 @@ Fig.: ⟪वृक्षः⟫
 
 ## 37.10. Exercitium
 
-A) Ad haec quaestiones Sanscritice responde, verbis in parenthesibus indicatis. Quaestionum sententias vertite.
+A) Respondere hisce quaestionibus Sanscritice adiuvantibus verbis in parenthesibus indicatis. Sententias interrogativas vertite.
 
-Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Exemplum: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<casus absolutus\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt3707))
+Abb.: ⟪कृष्णः बलरामश्च⟫
+(Imaginis auctor: [Details](/la/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt3708))
+Abb.: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Imaginis auctor: [Details](/la/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
-⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 

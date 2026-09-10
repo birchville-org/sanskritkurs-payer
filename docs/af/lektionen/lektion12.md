@@ -1,98 +1,98 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Lesing 12"
+subtitle: "Die Partizip Perfek Passief (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
----
 
-# Les 12
+---# Les 12
 
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Voltooide Perfekt Passief (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Een manier om passiewe sinne in die verlede te vorm, is deur die sogenaamde voltooide perfekt passief (PPP) te gebruik.
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**In werklikheid is die PPP nie 'n ware deelwoord nie, aangesien dit nie uit 'n tydstam gevorm word nie. Dit is eerder 'n nominalisering van die wortel met die primêre agtervoegsel -ta of -na. Om hierdie rede verwys die Indiese grammatika na die agtervoegsel kta.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Patroon vir oorgangswyswoorde
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agent (kartṛ) in die instrumentale geval (tṛtīyā) -- direkte objek (karman) in die nominatiewe geval (prathamā) -- verlede passiewe deelwoord**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+In hierdie geval stem die verlede passiewe deelwoord ooreen met die objek in getal, geval en geslag.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+'n Hulpwerkwoord ('wees') is nie nodig nie.
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+Voorbeelde:
+&gt; **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = '('n Hemel is deur die heilige bereik)' = 'Die heilige het 'n hemel bereik.'
+&gt; 
+&gt; **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = '(Die godin is deur die Brahmin met 'n offer geëer)' = 'Die Brahmin het die godin met 'n offer geëer.'"
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. Skema I vir onvoltooide werkwoorde en bewegingswerkwoorde
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agent (kartṛ) in die nominatief (prathamā) -- Aflope Passiewe Deelwoord**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+In hierdie geval stem die PPA ooreen met die agent in getal, geval en geslag. Die 'passiewe' perfek deelwoord het 'n aktiewe betekenis by onvoltooide werkwoorde (werkwoorde sonder 'n direkte voorwerp) en bewegingswerkwoorde.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Voorbeeld:
+&gt; **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = 'Die Kṣatriya-vrou het in die dorp ingegaan.'
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. Skema II vir ondoorgaanbare werkwoorde en bewegingswerkwoorde
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Agent (kartṛ) in die instrumentale geval (tṛtīyā) -- PPP in die nominatiewe enkelvoud neutrum**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+Voorbeeld:
+&gt; **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = '(Deur die Kṣatriya, (in die stad) is gegaan) = Die Kṣatriya het gegaan (in die stad).'
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+Die konstruksie volgens Skema II is baie skaarser as dié volgens Skema I.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. Oor die betekenis van die PPP
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Terwyl die sogenaamde 'verlede passiewe deelwoord' hoofsaaklik 'n passiewe betekenis het vir oorgangshandelinge (**āpta** = '(bereik) geword') en 'n aktiewe betekenis vir onvoltooide werkwoorde en bewegingswerkwoorde (**gata** = 'gegaan'), daar is sommige werkwoorde waarvoor die PPP beide 'n aktiewe en 'n passiewe betekenis kan hê:
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+bv.
+- **gata** = ⟪गत⟫ = 'weg' (aktief); maar ook: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = ''n pad wat gereis is' (passief)
+- **āpta** = ⟪आप्त⟫ = 'bereik gewees' (passief), 'bereik gewees' (aktief)
 
-## 12.3. Bildung des PPP
+
+## 12.3. Vorming van die PPL
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Die volgende afleidingsvorme kom voor (jy moet die PPL vir elke wortel leer!):
 
-**(meist) tiefstufige Wurzel**
+**(meestal) lae-graadwortel**
 
 - **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
+  - met die verbindingsvokaal **-i-** voor dit: **-ita**
+  - sonder die verbindingsvokaal: **-ta**
 - **+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Die vroulike stamwoorde is: **-tā**, **-itā**, **-nā**; die onbepaalde vorm buig soos **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP-einde in -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Sonder die verbindingsvokaal -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = 'sonder (*an-*) die *-i-* wat die agtervoegsel *t* voorafgaan' (d.w.s. sonder die verbindingsvokaal *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Sonder die Bindevokale, wordt die PPP gewoonlik gevorm van wortels wat met 'n klinker eindig, asook baie ander wortels, sonder dat daar 'n vaste reël gegee kan word vir wanneer die Bindevokal wel of nie voorkom by gestruktureerde wortels nie.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+'n Lys van die *aniṭ*-wortels word by Kielhorn, *Grammatik* § 298 gevind.
 :::
-**Beispiele:**
+**Voorbeelde:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Wortel | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +107,14 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. Met Bindevokal -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „met (*sa-*) die voorafgestelde (*-i-*) *t*“ (d.w.s. met die Bindevokal *i*).
 
-**Beispiele:**
+**Voorbeelde:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Wortel | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +122,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Wette van die klankverbinding in die woord
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+By *aniṭ*-forms, the following laws of sound combination in words must be observed. **These laws are very important for understanding the entire Sanskrit morphology.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p before voiceless stop (e.g., t, th) remain unchanged:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct is replaced by kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt is replaced by ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Voiced unaspirated stop – except j – before voiceless sound is replaced by the corresponding voiced unaspirated sound:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important for the 2nd present class) |
+| **5. jt is replaced by kt or ṣṭ (not facultative!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Voiced aspirated stop + voiceless stop » voiced unaspirated stop + voiced aspirated stop (Bartholomew's Law of Aspirates):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „to conceal something”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Woordlys
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : ontwaak, tot insig ontwaak; PPP **buddha** 3 ontwaak, dus **Buddha** = "die Ontwaakte" (nie: die Verligte)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Afb.: ⟪गौतमो बुद्धः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (iets) verbrand
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : oorkom, verdra, geduldig verdra = vergewe
+**mṛga** m. ⟪मृग⟫ : wildbees
+**mārga** m. ⟪मार्ग⟫ : pad (paaie was dikwels die wildspore)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Afb.: ⟪मार्गः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : ook (na-gesit)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Vir die 6de teenwoordige klas tel inheemse grammatikus 'n paar wortels wat die teenwoordige stam met nasale-infix en tema-vokaal a vorm, bv.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : losmaak, loslaat, bevry; van die siklus van wedergeboorte (**saṃsāra** m.) bevry = verlos
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : bespuit
 
-Zur Wortbildung:
+Vir woordvorming:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : losmaking, bevryding, verlossing
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : bespuiting van 'n koning tydens die kroningsplegtigheid, kroning
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : die ontwaak (waardeur 'n Boeddha of Jina tot verlossende insig kom)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Afb.: ⟪महावीरो जिनः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : kennis, orgaan van die besef.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Passief en PPP van die tot dusver geleerde wortels
+
+| Wortel:br⟪धातु⟫ | Passief teenwoordige tyd 3. sg. aannemende wyse:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +227,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Oefening
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) Vorm die passiewe sinne van verlede tyd uit die aktiewe sinne van [Leksie 7](/lektionen/lektion07), Oefening A, met onoordeelbare werkwoorde en bewegingswerkwoorde vorm aktiewe sinne van verlede tyd.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) Vorm die ooreenstemmende PPPs vir die werkwoordvorms van [Leksie 10](/lektionen/lektion10), Oefening A. Let daarop dat 'n vorm soos sṛjati PPPs in alle drie geslagte ooreenstem.**
+
+**C) Plaas die sinne van [Leksie 10](/lektionen/lektion10), Oefening C, passief in die verlede tyd.**
 

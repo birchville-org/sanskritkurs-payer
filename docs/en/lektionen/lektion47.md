@@ -50,7 +50,7 @@ Examples:
 ⟪चिरं जीवतु भवान् ।⟫ "May you live long!"
 :::
 ::: grammar-box
->> Höfliche Befehle werden oft durch Passiv-Imperative ausgedrückt.
+Polite commands are often expressed through Passive Imperatives.
 :::
 Examples:
 
@@ -60,9 +60,6 @@ Examples:
 ⟪निषद्यताम् ।⟫ "Please, sit down!"
 :::
 In the Imperative of Classical Sanskrit, the forms for the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let's go!"
-
-::: grammar-box
-The imperative is formed from the present stem.
 :::
 ## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
 
@@ -136,7 +133,7 @@ Fig.: ⟪नृत्यत⟫
 | **2nd Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **3rd Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
->> ### 47.2.6. Passiv
+### 47.2.6. Passiv
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -180,11 +177,11 @@ B.) Translate into Sanskrit (use the imperative):
 
 5. This deed should be done.
 
->> 6. Sie sollten schlafen (passive Konstruktion).
+6. They should sleep (passive construction).
 
 7. My son, strive for wealth!
 
-Begin the study!
+8. Begin the study!
 
 9. Give (⟪प्र⟫-⟪यम्⟫) rice balls to the ancestors!
 

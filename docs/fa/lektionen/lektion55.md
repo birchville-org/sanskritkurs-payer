@@ -1,10 +1,11 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "درس ۵۵"
+subtitle: "آئوریست با a- (آئوریست همراه با واکه موضوع)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # درس ۵5
@@ -91,6 +92,6 @@ status: stable
 ![](/images/lekt5501.webp)
 تصویر: ⟪अजीर्यमिति⟫
 'اینایات خان در بستر مرگ، طرحی برای یک مینیاتور از نسخه‌ای خطی برای جهانگیر، حدود ۱۶۱۸
-(منبع تصویر: [جزئیات](/licenses#lekt5501))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt5501))
 :::
 

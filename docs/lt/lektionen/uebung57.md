@@ -1,56 +1,57 @@
 ---
-title: "Exercise 57"
+title: "Pratimas 57"
 uebung_id: 57
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 57
+# Pratimas 57
 
-## A) Aorist-Transformationen
+## A) Aoristo transformacijos
 
-Übersetzen und bestimmen Sie die folgenden Formen und bilden Sie die entsprechenden Formen des **Aorists**. Ausser bei Kausativen und Wurzeln, die den **s-Aorist** bilden, ist in Klammern die Klasse des entsprechenden Aorists angegeben:
+Išverkite ir nustatykite šias formas bei sudarykite atitinkamas **aoristo** formas. Išskyrus kausatyvus ir šaknis, kurios sudaro **s-aoristą**, skliaustuose nurodyta atitinkamo aoristo klasė:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Nr. | Forma | Nustatymas / Reikšmė | Aoristas |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪पेचिथ⟫ | :sig[⟪पच्⟫] 1U: 2. Sg. Perf. P. (du gartest) | ⟪अपाक्षीः⟫ |
-| ⟪२⟫. | ⟪अवक्⟫ (⟪३⟫) | :sig[⟪वच्⟫] 2P: 2. 3. Sg. Impf. P. (du sprachst / er sprach) | **⟪अवोचः⟫ / ⟪अवोचत्⟫** |
-| ⟪३⟫. | ⟪सोष्यसि⟫ | :sig[⟪सु⟫] 1/2P: 2. Sg. Fut. P. (du wirst dich fortpflanzen) | ⟪असौषीः⟫ |
-| ⟪४⟫. | ⟪छिन्दे⟫ | :sig[⟪छिद्⟫] 7U: 1. Sg. Ind. Präs. Ā. (ich schneide ab) | ⟪अच्छित्सि⟫ |
-| ⟪५⟫. | ⟪कुरुषे⟫ | :sig[⟪कृ⟫] 8U: 2. Sg. Ind. Präs. Ā. (du tust im eigenen Interesse) | ⟪अकृथाः⟫ |
-| ⟪६⟫. | ⟪आधत्ते⟫ | *⟪आ⟫-⟪धा⟫* 3Ā: 3. Sg. Ind. Präs. Ā. (er setzt hin) | ⟪आधित⟫ |
-| ⟪७⟫. | ⟪पद्यते⟫ | :sig[⟪पद्⟫] 4Ā: 3. Sg. Ind. Präs. Ā. (er geht) | ⟪अपादि⟫ |
-| ⟪८⟫. | ⟪जिगाय⟫ | :sig[⟪जि⟫] 1P: 1. 3. Sg. Perf. P. (ich siegte / er siegte) | ⟪अजैषीत्⟫ |
-| ⟪९⟫. | ⟪जिघ्रामः⟫ (⟪१⟫,⟪६⟫) | :sig[⟪घ्रा⟫] 1P: 1. Pl. Ind. Präs. P. (wir riechen) | **⟪अघ्रास्म⟫ / ⟪अघ्राम⟫** |
-| ⟪१०⟫. | ⟪शासति⟫ (⟪२⟫) | :sig[⟪शास्⟫] 2P: 3. Pl. Ind. Präs. P. (sie befehlen) | ⟪अशिषन्⟫ |
-| ⟪११⟫. | ⟪स्तुवे⟫ | :sig[⟪स्तु⟫] 2U: 1. Sg. Ind. Präs. Ā. (ich preise) | **⟪अस्तोष⟫i** |
-| ⟪१२⟫. | ⟪दिग्धे⟫ | :sig[⟪दिह्⟫] 2U: 3. Sg. Ind. Präs. Ā. (er bestreicht) | ⟪अदिग्ध⟫ |
-| ⟪१३⟫. | ⟪प्लवध्वे⟫ | :sig[⟪प्लु⟫] 1Ā: 2. Pl. Ind. Präs. Ā. (ihr schwimmt) | ⟪अप्लोढ्वम्⟫ |
-| ⟪१४⟫. | ⟪तस्थिथ⟫ (⟪१⟫) | :sig[⟪स्था⟫] 1P: 2. Sg. Perf. P. (du standest) | ⟪अस्थाः⟫ |
-| ⟪१५⟫. | ⟪बिभ्यति⟫ | :sig[⟪भी⟫] 3P: 3. Pl. Ind. Präs. P. (sie fürchten) | ⟪अभैषुः⟫ |
-| ⟪१६⟫. | ⟪ततर्प⟫ | :sig[⟪तृप्⟫] 4/6P: 1. 3. Sg. Perf. P. (ich / er sättigte) | **⟪अतार्प्सीत्⟫ / ⟪अत्राप्सीत्⟫** |
-| ⟪१७⟫. | ⟪जुहुथ⟫ | :sig[⟪हु⟫] 3P: 2. Pl. Ind. Präs. P. (ihr opfert) | ⟪अहौष्ट⟫ |
-| ⟪१८⟫. | ⟪ऊषुः⟫ | :sig[⟪वस्⟫] 1P: 3. Pl. Perf. P. (sie wohnten) | ⟪अवात्सुः⟫ |
-| ⟪१९⟫. | ⟪ससर्जिथ⟫ | :sig[⟪सृज्⟫] 6P: 2. Sg. Perf. P. (du hast erschaffen) | ⟪अस्राक्षीः⟫ |
-| ⟪२०⟫. | ⟪लिल्यिरे⟫ | :sig[⟪ली⟫] 4Ā: 3. Pl. Perf. Ā. (sie schmiegen sich an) | **⟪अलेषत⟫ / ⟪अलासत⟫** |
-| ⟪२१⟫. | ⟪अत्याजयम्⟫ | :sig[⟪त्यज्⟫] 1P: 1. Sg. Impf. P. Kaus. (ich liess verlassen) | ⟪अतित्यजम्⟫ |
-| ⟪२२⟫. | ⟪सिध्यथ⟫ (⟪२⟫) | :sig[⟪सिध्⟫] 4P: 2. Pl. Ind. Präs. P. (ihr seid am Ziel) | ⟪असिधत⟫ |
-| ⟪२३⟫. | ⟪निन्य⟫ | :sig[⟪नी⟫] 1U: 2. Pl. Perf. P. (ihr habt geführt) | ⟪अनैष्ट⟫ |
-| ⟪२४⟫. | ⟪कर्षन्ति⟫ | :sig[⟪कृष्⟫] 1P: 3. Pl. Ind. Präs. P. (sie ziehen) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
-| ⟪२५⟫. | ⟪अप्रच्छयन्⟫ | :sig[⟪प्रच्छ्⟫] 6P: 3. Pl. Impf. P. Kaus. (sie liessen fragen) | ⟪अपप्रच्छन्⟫ |
+| ⟪१⟫. | ⟪पेचिथ⟫ | :sig[⟪पच्⟫] 1U: 2. Sg. Perf. P. (tu augai) | ⟪अपाक्षीः⟫ |
+| ⟪२⟫. | ⟪अवक्⟫ (⟪३⟫) | :sig[⟪वच्⟫] 2P: 2. 3. Sg. Impf. P. (tu kalbėjai / jis kalbėjo) | **⟪अवोचः⟫ / ⟪अवोचत्⟫** |
+| ⟪३⟫. | ⟪सोष्यसि⟫ | :sig[⟪सु⟫] 1/2P: 2. Sg. Fut. P. (tu dauginsi) | ⟪असौषीः⟫ |
+| ⟪४⟫. | ⟪छिन्दे⟫ | :sig[⟪छिद्⟫] 7U: 1. Sg. Ind. Präs. Ā. (aš nupjaunu) | ⟪अच्छित्सि⟫ |
+| ⟪५⟫. | ⟪कुरुषे⟫ | :sig[⟪कृ⟫] 8U: 2. Sg. Ind. Präs. Ā. (tu veikiate savo interesams) | ⟪अकृथाः⟫ |
+| ⟪६⟫. | ⟪आधत्ते⟫ | *⟪आ⟫-⟪धा⟫* 3Ā: 3. Sg. Ind. Präs. Ā. (jis pastato) | ⟪आधित⟫ |
+| ⟪७⟫. | ⟪पद्यते⟫ | :sig[⟪पद्⟫] 4Ā: 3. Sg. Ind. Präs. Ā. (jis eina) | ⟪अपादि⟫ |
+| ⟪८⟫. | ⟪जिगाय⟫ | :sig[⟪जि⟫] 1P: 1. 3. Sg. Perf. P. (aš nugalėjau / jis nugalėjo) | ⟪अजैषीत्⟫ |
+| ⟪९⟫. | ⟪जिघ्रामः⟫ (⟪१⟫,⟪६⟫) | :sig[⟪घ्रा⟫] 1P: 1. Pl. Ind. Präs. P. (mes kvėpuojame) | **⟪अघ्रास्म⟫ / ⟪अघ्राम⟫** |
+| ⟪१०⟫. | ⟪शासति⟫ (⟪२⟫) | :sig[⟪शास्⟫] 2P: 3. Pl. Ind. Präs. P. (jie liepia) | ⟪अशिषन्⟫ |
+| ⟪११⟫. | ⟪स्तुवे⟫ | :sig[⟪स्तु⟫] 2U: 1. Sg. Ind. Präs. Ā. (aš giriu) | **⟪अस्तोष⟫i** |
+| ⟪१२⟫. | ⟪दिग्धे⟫ | :sig[⟪दिह्⟫] 2U: 3. Sg. Ind. Präs. Ā. (jis tepa) | ⟪अदिग्ध⟫ |
+| ⟪१३⟫. | ⟪प्लवध्वे⟫ | :sig[⟪प्लु⟫] 1Ā: 2. Pl. Ind. Präs. Ā. (jūs plaukiate) | ⟪अप्लोढ्वम्⟫ |
+| ⟪१४⟫. | ⟪तस्थिथ⟫ (⟪१⟫) | :sig[⟪स्था⟫] 1P: 2. Sg. Perf. P. (tu stovėjai) | ⟪अस्थाः⟫ |
+| ⟪१५⟫. | ⟪बिभ्यति⟫ | :sig[⟪भी⟫] 3P: 3. Pl. Ind. Präs. P. (jie bijo) | ⟪अभैषुः⟫ |
+| ⟪१६⟫. | ⟪ततर्प⟫ | :sig[⟪तृप्⟫] 4/6P: 1. 3. Sg. Perf. P. (aš / jis prisotino) | **⟪अतार्प्सीत्⟫ / ⟪अत्राप्सीत्⟫** |
+| ⟪१७⟫. | ⟪जुहुथ⟫ | :sig[⟪हु⟫] 3P: 2. Pl. Ind. Präs. P. (jūs aukojate) | ⟪अहौष्ट⟫ |
+| ⟪१८⟫. | ⟪ऊषुः⟫ | :sig[⟪वस्⟫] 1P: 3. Pl. Perf. P. (jie gyveno) | ⟪अवात्सुः⟫ |
+| ⟪१९⟫. | ⟪ससर्जिथ⟫ | :sig[⟪सृज्⟫] 6P: 2. Sg. Perf. P. (tu sukūrei) | ⟪अस्राक्षीः⟫ |
+| ⟪२०⟫. | ⟪लिल्यिरे⟫ | :sig[⟪ली⟫] 4Ā: 3. Pl. Perf. Ā. (jie prispaudžia) | **⟪अलेषत⟫ / ⟪अलासत⟫** |
+| ⟪२१⟫. | ⟪अत्याजयम्⟫ | :sig[⟪त्यज्⟫] 1P: 1. Sg. Impf. P. Kaus. (aš palikau palikti) | ⟪अतित्यजम्⟫ |
+| ⟪२२⟫. | ⟪सिध्यथ⟫ (⟪२⟫) | :sig[⟪सिध्⟫] 4P: 2. Pl. Ind. Präs. P. (jūs esate tikslas) | ⟪असिधत⟫ |
+| ⟪२३⟫. | ⟪निन्य⟫ | :sig[⟪नी⟫] 1U: 2. Pl. Perf. P. (jūs vedėte) | ⟪अनैष्ट⟫ |
+| ⟪२४⟫. | ⟪कर्षन्ति⟫ | :sig[⟪कृष्⟫] 1P: 3. Pl. Ind. Präs. P. (jie traukia) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
+| ⟪२५⟫. | ⟪अप्रच्छयन्⟫ | :sig[⟪प्रच्छ्⟫] 6P: 3. Pl. Impf. P. Kaus. (jie paliko klausti) | ⟪अपप्रच्छन्⟫ |
 :::
 ::: media
 ![](/images/uebung090.webp)
-Abb.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
-(Bildquelle: [Details](/licenses#uebung090))
+Pav.: ⟪वारानास्यां गङ्गायामप्लोढ्वम्⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung090))
 :::
 ---
 
-## B) Wortbestimmungen
+## B) Žodžių nustatymas
 
-Bestimmen und übersetzen Sie die folgenden Formen:
+Nustatykite ir išverskite šias formas:
 
 ::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
@@ -114,7 +115,7 @@ Bestimmen und übersetzen Sie die folgenden Formen:
 :::
 ::: media
 ![](/images/uebung094.webp)
-Abb.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#uebung094))
+Pav.: ⟪पाणी धूपं कुरुतः ॥⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung094))
 :::
 

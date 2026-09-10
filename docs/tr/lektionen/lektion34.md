@@ -307,7 +307,7 @@ sig[⟪सप्त⟫]⟪द्वीपां महीं दत्त्व�
 Açıklamalar:
 
 ::: indent
->> **-a** ile biten eril/dişil isimlerin **tekil çağırdı (Vokativ)** -a ile biter: Örn. ⟪देव⟫ "Tanrı!"
+**-a** ile biten eril/dişil isimlerin **tekil çağırdı (Vokativ)** -a ile biter: Örn. ⟪देव⟫ "Tanrı!"
 
 ⟪चतुर्दश⟫ on dört
 

@@ -6,8 +6,7 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----
-# Les 27
+---# Les 27
 
 ## 27.1. Gebruik van die lokatief (⟪सप्तमी⟫ f. = 'sewende gevalleseinde')
 
@@ -426,7 +425,7 @@ Koe in Udaipur.
 ![](/images/lekt2715.webp)
 Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Bildquelle: [Details](/af/licenses#lekt2715))
+(Beeldbron: [Details](/af/licenses#lekt2715))
 :::
 ### 27.7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
 
@@ -447,7 +446,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 ![](/images/lekt2716.webp)
 Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Bildquelle: [Details](/af/licenses#lekt2716))
+(Beeldbron: [Details](/af/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 

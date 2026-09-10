@@ -1,6 +1,6 @@
 ---
 title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+subtitle: "关于词尾辅音的连声"
 lesson_id: 16
 last_reconstructed: 2026-05-21
 category: "Grammatik"

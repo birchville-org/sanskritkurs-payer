@@ -1,8 +1,9 @@
 ---
-title: "[ L0 ] Ἀσκησις 8"
+title: "Άσκηση 8"
 uebung_id: 8
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -149,8 +150,8 @@ kiṃ kāraṇam?
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+Εἰκ.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung007))
 :::
 ---
 
@@ -212,6 +213,6 @@ Vimalā ist traurig.
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟩ ⟪फलं⟩ ⟪खदति⟩
-(Bildquelle: [Details](/licenses#uebung008))
+Εἰκ.: ⟪कपिः⟩ ⟪फलं⟩ ⟪खदति⟩
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung008))
 :::

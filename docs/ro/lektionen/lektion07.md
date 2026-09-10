@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Lecție 7"
+subtitle: "Propoziția verbală cu obiect direct"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 7

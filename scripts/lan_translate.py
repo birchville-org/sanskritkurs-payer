@@ -123,7 +123,8 @@ def main():
         for lang in active_languages:
             lang_start = time.time()
             print(f"[{lang}] Start: {time.strftime('%H:%M:%S')}")
-            translate_main_pages(lang, force=force)
+            is_lang_completed = is_language_completed(lang)
+            translate_main_pages(lang, force=force, is_completed=is_lang_completed)
             elapsed = time.time() - lang_start
             print(f"[{lang}] End:   {time.strftime('%H:%M:%S')} — {_fmt_elapsed(elapsed)}")
         return
@@ -139,9 +140,13 @@ def main():
             clear_force_session(lang)
         lang_start = time.time()
         print(f"[{lang}] Start: {time.strftime('%H:%M:%S')}")
+        
+        # TOTALBREMSE optimization: check once per language
+        is_lang_completed = is_language_completed(lang)
+        
         sync_missing_master_files(lang)
         # Main pages first
-        translate_main_pages(lang, force=force)
+        translate_main_pages(lang, force=force, is_completed=is_lang_completed)
 
         lesson_dir = os.path.join(BASE_DIR, lang, "lektionen")
         os.makedirs(lesson_dir, exist_ok=True)
@@ -154,7 +159,7 @@ def main():
                 print(f"Source not found: {source_path}")
                 continue
             post = lambda t, l=lang: fix_lesson_links(t, l)
-            translate_file(source_path, os.path.join(lesson_dir, filename), lang, post_process=post, force=force)
+            translate_file(source_path, os.path.join(lesson_dir, filename), lang, post_process=post, force=force, is_completed=is_lang_completed)
 
         if translate_all:
             # Scripts & Exercises
@@ -164,7 +169,7 @@ def main():
                 if not filename.endswith('.md'):
                     continue
                 source_path = os.path.join(SOURCE_DIR, filename)
-                translate_file(source_path, os.path.join(lesson_dir, filename), lang, force=force)
+                translate_file(source_path, os.path.join(lesson_dir, filename), lang, force=force, is_completed=is_lang_completed)
 
             # Special files in lektionen/
             for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md"):
@@ -176,7 +181,7 @@ def main():
                                 return re.sub(r'(\d+)\\(\d+)\.(\d+)', r'\1\2\\.\3', t)
                             return post
                         return None
-                    translate_file(src, os.path.join(lesson_dir, filename), lang, post_process=make_post_process(filename), force=force)
+                    translate_file(src, os.path.join(lesson_dir, filename), lang, post_process=make_post_process(filename), force=force, is_completed=is_lang_completed)
 
         # Automatic QA Check
         try:

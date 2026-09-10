@@ -1,236 +1,242 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: "Lekcija 2"
+subtitle: "Nominalni rečenica i osnive deklinacije"
 lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Lekcija 2
 
-## 2.1. Der Nominalsatz
+
+## 2.1. Nominalna rečenica
 
 ::: grammar-box
-**Schema: Prädikatsnomen - Subjekt**
+**Šema: Predikatska imenica - Subjekt**
 
-z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
+npr. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu je bog."
 :::
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
+Verbalna kopula ("je", "jesu", "sam", "si", "ste") nije potrebna, ali se ponekad može pojaviti.
 
-Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott".
+Ne postoje **člani**: **devaḥ** -- ⟪देवः⟫ može značiti "bog" ili "jedan bog".
 
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäss obigem Standardschema in Betracht ziehen.
+Iako je u sanskrtu red reči prilično slobodan (posebno u stihovima), pri prevodu nominalne rečenice treba se prvenstveno osloniti na standardnu šemu navedenu gore.
 
-Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht.
+U nominalnoj rečenici subjekt je u nominativu (prvi padež = **prathamā** ž. rođ. = ⟪प्रथमा⟫). Predikatska imenica slaže se sa subjektom u broju i padežu; ako je predikatska imenica pridev, slaže se i u rodu.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
 
-Im Sanskrit gibt es:
+## 2.2. O deklinaciji (slogovnom oblikovanju imenica)
 
-- **drei Numeri** (Zählformen) = **vacana** n. -- ⟪वचन⟫
-  - Singular (Einzahl) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫
-- **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫
-  - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫
-- **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen)
+U sanskrtu postoje:
 
-Zur Deklination treten die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nominalstamm** (Form des Nomens ohne Kasusendungen).
+**tri broja** (brojne forme) = **vacana** sred. rođ. -- ⟪वचन⟫
+Singular (jednina) = **ekavacana** sred. rođ. -- ⟪एकवचन⟫
+Dual (dvojina) = **dvivacana** sred. rođ. -- ⟪द्विवचन⟫
+Plural (množina) = **bahuvacana** sred. rođ. -- ⟪बहुवचन⟫
+**tri roda** (gramatički rodovi) = **liṅga** sred. rođ. / **vyakti** ž. rođ. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+Muški rod = **puṃs** muž. rođ. -- ⟪पुंस्⟫
+Ženski rod = **strī** ž. rođ. -- ⟪स्त्री⟫
+Srednji rod = **napuṃsaka** sred. rođ. -- ⟪नपुंसक⟫
+**osam padeža** = **sup** -- ⟪सुप्⟫ (= padežni nastavci)
 
-Beispiel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung).
+Uz deklinaciju pridružuju se padežni nastavci (**sup** = ⟪सुप्⟫) na tako zvani **temelj imenice** (oblik imenice bez padežnih nastavaka).
 
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
-- **deva** m. -- ⟪देव⟫ m. (maskulin)
-- **vacana** n. -- ⟪वचन⟫ n. (neutrum)
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
+Example: **devas** = ⟪देवस्⟫ (Nominative Singular Masculine) "the/a god" = **deva-** -- ⟪देव⟫- (nominal stem) + **-s** -- -⟪स्⟫ (case ending).
 
-## 2.3. Der Nominativ Singular
+In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
+**deva** m. -- ⟪देव⟫ m. (masculine)
+**vacana** n. -- ⟪वचन⟫ n. (neuter)
+**vyakti** f. -- ⟪व्यक्ति⟫ f. (feminine)
 
-**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+
+## 2.3. The Nominative Singular
+
+**Nominative Singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫**
 
 ::: grammar-box
-**Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.**
+**The Nominative Singular ends in -s = -⟪स्⟫ or is ending-less.**
 :::
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Nominative Singular in -s
 
-Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
+The following nominal stems, which end in a vowel, form the Nominative Singular with **-s**:
 
 ::: grammar-box
-**Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Masculines in -a:** e.g. deva m. = ⟪देव⟫ "god" -- Nom. sg.: devas = ⟪देवस्⟫
+**Masculines in -i:** e.g. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
+**Masculines in -u:** e.g. guru m. = ⟪गुरु⟫ "teacher" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = ⟪सन्धि⟫ ("Verbindung").
+In Sanskrit, the final sound of a word also depends on the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = ⟪सन्धि⟫ ("connection").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. Sandhi of final -s
 
-Siehe auch die Übersicht:
+See also the overview:
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+Final **-s**:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+**in absolute final position** (end of sentence) it becomes **Visarga (-ḥ)**:
+**devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+**kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+**gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+**before voiceless consonants**:
+before **k, kh, p, ph** and **ś, ṣ, s**: becomes **Visarga (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva is a god")
+before **c, ch**: becomes **-ś**
+before **ṭ, ṭh**: becomes **-ṣ**
+before **t, th**: remains **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya is a saint")
 
-- **vor stimmhaften Lauten**:
-  - nach Nicht-a-Vokalen: wird zu **-r**
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha ist ein Dichter")
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt.
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma ist ein Lehrer")
-  - nach **a-**: **-as**
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ⟪ऽ⟫)
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-    - vor anderen Vokalen: wird zu **-a** (Hiatus)
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+**before voiced consonants**:
+after non-a vowels: becomes **-r**
+**kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha is a poet")
+after non-a vowels before **r-**: **-s** drops out, the vowel is lengthened.
+**gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू रामः⟫ ("Rāma is a teacher")
+after **a-**: **-as**
+before voiced consonants/a: becomes **-o** (initial a drops away » ⟪ऽ⟫)
+**devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो विष्णुः⟫
+**devas agnis** » **devo 'gniḥ** = ⟪देवो ऽग्निः⟫
+before other vowels: becomes **-a** (Hiatus)
+**devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
-## 2.5. Wortliste
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
+## 2.5. Vocabulary List
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
+**deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
+**īśvara** m. -- ⟪ईश्वर⟫ : Lord, ruler, god (monotheistic).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmin (priestly class).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (warrior and ruling class).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (merchant and agricultural class).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**of the Brāhmaṇas**
+study of the Vedas
+teaching (the Vedas)
+sacrifice for oneself
+sacrifice for others
+giving (alms)
+receiving gifts
+**of the Kṣatriyas**
+protecting the people
+giving gifts (to Brāhmaṇas)
+sacrificing for oneself
+study of the Vedas
+**of the Vaiśyas**
+cattle breeding
+agriculture
+trade
+money lending
+sacrificing for oneself
+giving gifts (to Brāhmaṇas)
+sacrificing for oneself
+study of the Vedas
+**of the Śūdras**
+serving the three upper classes
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "twice-born" (initiates of the upper three castes: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫ : color, birth caste (aspiration).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
+The four castes (**varṇa** m.) are often confused with the jāti (caste). However, the four varṇas -- unlike the jāti -- are not specifically Indian; in Europe, we also had a caste system (partly until the First World War), as evidenced by the following illustration from the 15th century:
 
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+Fig.: Representation of the estate division in medieval Europe (woodcut from the late 15th century).
+(Image source: [Details](/sh/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Labels:**
+**Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray supplicatingly!
+**Noble estate** (~Kṣatriya): Tu protege = You protect!
+**Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+The three estates wear their respective estate attire. Above them -- thereby designated as willed by God -- Christ reigns on his throne.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weber (1864–1920) defines estate as follows:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**Estate**« should mean a multitude of people who, within an association, effectively
+a) claim an estate-specific special esteem, - possibly also
+b) estate-specific special monopolies.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+Kaste mogu nastati
+a) primarno, kroz vlastiti kastinski način života, uključujući posebno vrstu **posla** (**kastinski razredi po životnom stilu ili poslu**),
+b) sekundarno, nasljedno-karizmatički, kroz uspješne zahtjeve za prestižom na temelju kastinskog **podrijetla** (**rođeni kasti**),
+c) kroz kastinsku **aproprijaciju** političkih ili hijerokratskih vlasti kao monopola (**politički odnosno hijerokratski kasti**).
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+Razvoj rođenih kastina redovito je oblik (nasljedne) aproprijacije privilegija na zbor ili kvalificirane pojedince. Svaka čvrsta aproprijacija prilika, posebno [od] gospodara [vlasti ili mogućnosti zarade], sklonija je dovesti do formiranja kastina. Svako formiranje kasti sklonije je dovesti do monopolističke aproprijacije gospodarskih vlasti i mogućnosti zarade.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+Dok se razredi zarada razvijaju na temelju tržišno orijentirane ekonomije, kasti nastaju i postoje preferencijalno na temelju monopolistički vođene liturgijske ili feudalne ili kastinsko-patrimonijalne pokrivenosti potreba zborova.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+»**Kastinski**« društvo treba nazivati ako je socijalna podjela preferencijalno po kastama, »**klasno**«, ako je preferencijalno po klasama. Od »klasa« najbliža je »socijalna« klasa, a najudaljenija »klasa zarade«. Kasti se često formiraju prema svom središtu kroz klase posjeda.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
+Svako kastinsko društvo je konvencionalno, uređeno pravilima životnog stila, stoga ekonomski iracionalne uvjete potrošnje i na ovaj način kroz monopolističke aproprijacije i isključenje slobodnog raspolaganja vlastitom sposobnošću zarade sprječava slobodni razvoj tržišta.
 
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+Varṇas are, accordingly, birth castes.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : poet.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : fire, god Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+Fig.: God Agni, miniature, 18th century.
+(Image source: [Details](/sh/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : correct, good.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : "holy" man, sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
+(Image source: [Details](/sh/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+**guru** 3 -- ⟪गुरु⟫ : heavy, significant, venerable
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
+**guru** m. -- ⟪गुरु⟫ : venerable person: father, mother, older relative, esp. teacher, master
 
-## 2.6. Übung
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:**
+## 2.6. Exercise
+
+**A) Insert with due regard to Sandhi and form nominal sentences:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Übersetzen Sie ins Sanskrit:**
+**B) Translate into Sanskrit:**
 
-1. Rāma ist ein Brahmane.
-2. Der Lehrer ist ein Vaiśya.
-3. Der Śūdra ist ein heiliger Mann.
-4. Der Dichter ist der Lehrer.
-5. Viṣṇu ist der HERR.
-6. Der HERR ist Śiva.
-7. Der Zweimalgeborene ist ein Brahmane.
-8. Der heilige Mann ist ein Lehrer.
-9. Der Lehrer ist ein heiliger Mann.
+1. Rāma is a brāhmaṇa.
+2. The teacher is a vaiśya.
+3. The śūdra is a holy man.
+4. The poet is the teacher.
+5. Viṣṇu is the LORD.
+6. The LORD is Śiva.
+7. The twice-born is a brāhmaṇa.
+8. The holy man is a teacher.
+9. The teacher is a holy man.

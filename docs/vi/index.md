@@ -14,12 +14,12 @@ hero:
       link: /vi/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "Kiểu chữ hoàn hảo, tích hợp cho các ký tự Ấn Độ."
-  - title: "Dễ dàng tìm kiếm"
-    details: "Một công cụ tìm kiếm toàn văn cục bộ sâu sắc giữ cho kiến thức sẵn sàng chỉ với một cú nhấp chuột."
-  - title: "Kiến trúc hiện đại"
-    details: "Được xây dựng trên nền tảng VitePress để đạt tốc độ tối đa."
+  - title: "Toàn cầu & Đa ngôn ngữ"
+    details: "Hoàn toàn có sẵn trong hơn 20 ngôn ngữ thông qua một chuỗi dịch tự động bằng AI nhiều giai đoạn."
+  - title: "PWA ưu tiên ngoại tuyến"
+    details: "Toàn bộ khóa học (bao gồm cả công cụ tìm kiếm cục bộ) có thể sử dụng trên mọi thiết bị mà không cần kết nối internet."
+  - title: "Phông chữ học thuật"
+    details: "Hỗ trợ gốc cho Devanāgarī và phiên âm IAST với định dạng văn bản học thuật chính xác."
 
 ---
 

@@ -1,148 +1,155 @@
 ---
-title: "Exercise 18"
+title: "Pratimas 18"
 uebung_id: 18
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 18
+# Pratimas 18
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+A) Išversti ⟪सुभाषित⟫ pamokos pradžioje.
 
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫  
-Es gibt keine Krankheit wie die Liebe,  
-Es gibt keinen Betrüger und Feind wie die Verblendung,  
-Es gibt kein Feuer wie den Zorn,  
-Es gibt kein Glück wie die Erkenntnis.
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫  
+Nėra ligos, kaip meilė,
+Nėra apgaviko ir priešo, kaip neryškumas,
+Nėra ugnies, kaip pyktis,
+Nėra laimės, kaip žinojimas.
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+B) Išversti šiuos Tatpuruṣa:
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
+⟪१⟫. ⟪सुकर ३⟫ — lengva daryti
 
-⟪२⟫. ⟪सुकुल⟫ n. — gute Familie
+⟪२⟫. ⟪सुकुल⟫ n. — gera šeima
 
-⟪३⟫. ⟪सुकृति⟫ f. — gute Tat
+⟪३⟫. ⟪सुकृति⟫ f. — geras darbas
 
-⟪४⟫. ⟪अकरण⟫ n. — Nichttun
+⟪४⟫. ⟪अकरण⟫ n. — nedarymas
 
-⟪५⟫. ⟪दुरिष्ट⟫ n. — böser Wunsch
+⟪५⟫. ⟪दुरिष्ट⟫ n. — blogas noras
 
-⟪६⟫. ⟪दुरिष्टि⟫ f. — fehlerhaftes Opfer
+⟪६⟫. ⟪दुरिष्टि⟫ f. — klaidingas aukojimas
 
-⟪७⟫. ⟪सुखादित⟫ 3 — gut gekaut
+⟪७⟫. ⟪सुखादित⟫ 3 — gerai kramtytas
 
-⟪८⟫. ⟪दुष्कर⟫ 3 — schwer zu tun
+⟪८⟫. ⟪दुष्कर⟫ 3 — sunku daryti
 
-⟪९⟫. ⟪दुर्जय⟫ 3 — schwer zu besiegen
+⟪९⟫. ⟪दुर्जय⟫ 3 — sunku nugalėti
 
-⟪१०⟫. ⟪सुगत⟫ m. — gut (durch die Wiedergeburten) Gegangener (= Buddha)
+⟪१०⟫. ⟪सुगत⟫ m. — geras (per gimimus) ėjęs (= Budas)
 
-⟪११⟫. ⟪सुजन⟫ m. — guter Mensch
+⟪११⟫. ⟪सुजन⟫ m. — geras žmogus
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f. — harte Rede
+⟪१२⟫. ⟪दुरुक्ति⟫ f. — kietas kalbėjimas
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m. — schlechte Anweisung
+⟪१३⟫. ⟪दुरुपदेश⟫ m. — blogas nurodymas
 
-⟪१४⟫. ⟪सुजात⟫ 3 — wohlgeboren
+⟪१४⟫. ⟪सुजात⟫ 3 — kilmingas
 
-⟪१५⟫. ⟪सु⟫guru 3 — sehr schwer
+⟪१५⟫. ⟪सु⟫guru 3 — labai sunkus
 
-⟪१६⟫. ⟪अनाप्त⟫ 3 — ungeeignet
+⟪१६⟫. ⟪अनाप्त⟫ 3 — netinkamas
 
-⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
+⟪१७⟫. ⟪अनीति⟫ f. — netinkamas elgesys
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — ne-viešpatavimas
 
-⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
+⟪१९⟫. ⟪सुदुःख⟫ n. — didelis skausmas
 
-⟪२०⟫. ⟪दुर्जन⟫ m. — böser Mensch
+⟪२०⟫. ⟪दुर्जन⟫ m. — blogas žmogus
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — schlecht verbrannt
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — blogai sudegintas
 
-⟪२२⟫. ⟪अतिकृत⟫ 3 — übertrieben
+⟪२२⟫. ⟪अतिकृत⟫ 3 — perdėtas
 
-⟪२३⟫. ⟪सुपुत्र⟫ m. — guter Sohn
+⟪२३⟫. ⟪सुपुत्र⟫ m. — geras sūnus
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f. — gute Einsicht
+⟪२४⟫. ⟪सुबुद्धि⟫ f. — geras supratimas
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m. — schlechter Sohn
+⟪२५⟫. ⟪दुष्पुत्र⟫ m. — blogas sūnus
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — schlecht ausgeführt
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — blogai atliktas
 
-⟪२७⟫. ⟪सुमति⟫ f. — Freundlichkeit
+⟪२७⟫. ⟪सुमति⟫ f. — draugiškumas
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3 — schwer zu bekommen
+⟪२८⟫. ⟪दुर्लभ⟫ 3 — sunku gauti
 
-⟪२९⟫. ⟪दुर्वच⟫ 3 — schwer zu sagen
+⟪२९⟫. ⟪दुर्वच⟫ 3 — sunku pasakyti
 
-⟪३०⟫. ⟪दुर्वचन⟫ n. — schlechte Rede
-
-⟪३१⟫. ⟪अमृत⟫ n. — Unsterblichkeit, Unsterblichkeitsspeise, Unsterblichkeitstrank
-
-::: media
-![](/images/uebung027.jpg)
-Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
-(Bildquelle: [Details](/licenses#uebung027))
+⟪३०⟫. ⟪दुर्वचन⟫ n. — blogas kalbėjimas
 :::
 ---
 
-## Zusätzliche Übungen
+## Priedainės užduotys
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Išskaidykite šiuos sanskrito sandaugas ir pateikite vertimo pasiūlymus:
 
-⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — zu Ende gegangen, Grammatik: auslautend
+⟪१⟫. ⟪अन्तगत ३ । अन्तं गतः ।⟫ — pasibaigęs, gramatika: galūninis
 
-⟪२⟫. ⟪क्षमाकर⟫ ⟪३।⟫ ⟪क्षमा⟫-⟪करः⟫ ⟪।⟫ — jemand der geduldig ist, geduldiges Tun
+⟪२⟫. ⟪क्षमाकर ३। क्षमा⟫-⟪करः ।⟫ — kantrus žmogus, kantrybės veiksmas
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪।⟫ ⟪क्षेमस्येन्द्रः⟫ ⟪।⟫ — Herr der Ruhe / des Wohlergehens / Friedens
+⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪। क्षेमस्येन्द्रः ।⟫ — ramybės / gerovės / taikos valdovas
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — Stoppen des Zorns mit dem Schwert = Stoppen des Kampfes
+⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪। शस्त्राणां कोपस्य निरोधः ।⟫ — pykčio sustabdymas kalaviju = kovos nutraukimas
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — Töten eines / mehrerer Löwen, Töten durch einen / mehrere Löwen
+⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪। सिंहस्य संहननम् ।⟫ — liūto / liūtų žudymas, žudomas liūto / liūtų
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪। सिंह इव अरिः ।⟫ — liūdu panašus priešas
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — Essen, Schlafen und Furcht
+⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪। आहारो निद्रा भयं च ।⟫ — valgymas, miegas ir baimė
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪।⟫ ⟪मृतेः⟫ ⟪साधनी⟫ ⟪।⟫ — Tod bewirkende
+⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪। मृतेः साधनी ।⟫ — mirtį sukelianti
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — Familienname (Hinweis auf die Familie)
+⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪। कुलस्योपदेशः ।⟫ — pavardė (nuoroda į šeimą)
 
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Išverkite naudodami antrosios dabarties laiko klasės veiksmažodžius:
 
-1\. Der Brahmane preist die Göttinnen.
-⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (oder: ⟪स्तवीति⟫ ⟪।⟫)
+1. Brahmanas giria deives.
+⟪ब्राह्मणो देवीः स्तौति ।⟫ (arba: ⟪स्तवीति ।⟫)
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
-⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
+2. Kariai eina sunkiai praeinamu keliu į arijų kaimą.
+⟪शूरा दुर्गमेण मार्गेणार्यग्रामं यन्ति ।⟫
 
-3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
+3. Namų tarnaitė dožina karves.
+⟪गृहदासी धेनूर्दोग्धि ।⟫
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (oder: ⟪आर्यशत्रवो⟫...)
+4. Arijų priešai muša galingus kšatrijus.
+⟪आर्यारयो बलवत्क्षत्रियान्घन्ति ।⟫ (arba: ⟪आर्यशत्रवो⟫...)
 
-5\. Ein Gespenst isst keine Früchte.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+5. Vaiduṣṭika neeles valāni bhakṣayati.
+⟪भूतं फलानि नात्ति ।⟫
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (oder: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+6. Itaḥ prāpto yathā dhāma tathaiva pratipadyatām.
+⟪एवं सुगतः श्रावकं वक्ति ।⟫ (vā: ⟪ब्रवीति । ब्रूते ।⟫)
 
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Parašivaṃ yogasya vyākhyāya dvīhi vidhīhi: ekaṃ samāsena, anyaḥ samāsa-vibhājya.
 
-⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
+⟪योगश्चित्तवृत्तिनिरोधः ।⟫ (⟪योगश्चित्तस्य वृत्तेर्निरोधः ।⟫)
 
-D) Übersetzen Sie:
+5. Vaiduṣṭika neeles valāni bhakṣayati.
+⟪भूतं फलानि नात्ति ।⟫
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
+6. Itaḥ prāpto yathā dhāma tathaiva pratipadyatām.
+⟪एवं सुगतः श्रावकं वक्ति ।⟫ (vā: ⟪ब्रवीति । ब्रूते ।⟫)
+
+5. Vaiduṣṭika neeles valāni bhakṣayati.
+⟪भूतं फलानि नात्ति ।⟫
+
+6. Itaḥ prāpto yathā dhāma tathaiva pratipadyatām.
+⟪एवं सुगतः श्रावकं वक्ति ।⟫ (vā: ⟪ब्रवीति । ब्रूते ।⟫)
+
+C) Parašivaṃ yogasya vyākhyāya dvīhi vidhīhi: ekaṃ samāsena, anyaḥ samāsa-vibhājya.
+
+⟪योगश्चित्तवृत्तिनिरोधः ।⟫ (⟪योगश्चित्तस्य वृत्तेर्निरोधः ।⟫)
+
+D) Anuvaṃśya:
+
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
+Sarveṣāḥ kartavyaṃ: ahiṃsā, satyaṁ, śaucam, na apatītya gacchati, dāruṇatva-vivarjanaḥ, kṣamā.
 
 ::: media
 ![](/images/uebung028.webp)
-Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#uebung028))
+Pav.: ⟪दुर्गमो मार्गः⟫
+(Nuotraukos šaltinis: [Details](/lt/licenses#uebung028))
 :::

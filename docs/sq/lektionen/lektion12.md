@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Mësimi 12"
+subtitle: "Participi i Shkurtër Pasiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 12
 
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Participo i Përsosur Pasiv (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Një mënyrë për të formuar fjali pasive në kohën e kaluar është konstrukti me atë që quhet Participo i Përsosur Pasiv (PPP).
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**Në realitet, PPP nuk është një participo i vërtetë, pasi nuk formohet nga një rrëzë kohe. Ai është më tepër një formim nominal i rrëzës me prapashtesën primare -ta ose -na. Prandaj, në gramatikën indiane flitet për prapashtesën kta.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Skema për foljet tranzitive
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agensi (kartṛ) në Instrumental (tṛtīyā) -- Objekt i drejtpërdrejtë (karman) në Nominativ (prathamā) -- Participo i Përsosur Pasiv**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+Në këtë rast, PPP përputhet me objektin në numër, raste dhe gjini.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+Nuk është i nevojshëm një folje ndihmëse ("të jesh").
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Shembuj:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Nga i shenjti u arrit një qiell) = I shenjti ka arritur një qiell."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nga brahmani u nderua hyjnesha me një flijim) = Brahmani e nderoi hyjneshën me një flijim."
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. Skema I për foljet intransitive dhe foljet e lëvizjes
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agensi (kartṛ) në Nominativ (prathamā) -- Participo i Përsosur Pasiv**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+Në këtë rast, PPP përputhet me agensin në numër, raste dhe gjini. Participo i Përsosur "Pasiv" ka kuptim aktiv te foljet intransitive (folje pa objekt të drejtpërdrejtë) dhe te foljet e lëvizjes.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Shembull:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Grua kshatriya ka shkuar në qytet."
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. Skema II për foljet intransitive dhe foljet e lëvizjes
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Agjenti (kartṛ) në Instrumental (tṛtīyā) -- PPP në Nominativ Singular Neutër**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+Shembull:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(U ecën (në qytet) nga Kṣatriya) = Kṣatriya ka ecur (në qytet).“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+Konstrukcioni sipas Skemës II është shumë më i rrallë se konstrukcioni sipas Skemës I.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. Mbi kuptimin e PPP-së
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Ndërsa ajo që quhet „Participo i Kaluar Pasiv“ për foljet tranzitive ka kryesisht kuptim pasiv (**āpta** = „arritur (që është)“) dhe për foljet intransitive dhe foljet e lëvizjes kuptim aktiv (**gata** = „ecur“), ka disa folje për të cilat PPP mund të ketë kuptim si aktiv ashtu edhe pasiv:
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+p.sh.
+**gata** = ⟪गत⟫ = „ecur“ (aktiv); por gjithashtu: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „një rrugë e kaluar“ (pasiv)
+**āpta** = ⟪आप्त⟫ = „arritur që është“ (pasiv), „duke pasur arritur“ (aktiv)
 
-## 12.3. Bildung des PPP
+
+## 12.3. Formimi i PPP-së
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Vijnë në shfaqje mënyrat e mëposhtme të formimit (për çdo rrënjë duhet mësuar PPP-ja e saj!):
 
-**(meist) tiefstufige Wurzel**
+**(zakonisht) rrënjë në gradën e thellë**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
-- **+ -na**
+**+ -ta**
+me zërlidhës **-i-** përpara: **-ita**
+pa zërlidhës: **-ta**
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Stemet femërore janë: **-tā**, **-itā**, **-nā**; Neutri flektohet si **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP me -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Pa zërlidhësin -i- (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = „pa (*an-*) prapashtesën e vendosur përpara (*-i-*) *t*“ (d.m.th. pa zërlidhësin *i*).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Pa PPP-në formohet përgjithësisht nga rrënjët me fundvokal si dhe shumë rrënjë të tjera, pa mundësuar përcaktimin e një rregulli të caktuar për se kur rrënjët me strukturë specifike e shfaqin apo nuk e shfaqnin vokalin lidhës.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+Një listë të rrënjeve *aniṭ* e gjeni te Kielhorn, *Grammatik* § 298.
 :::
-**Beispiele:**
+**Shembuj:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Rrënjë | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +109,14 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. Me vokalin lidhës -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „me (*sa-*) prapashtesën e vendosur përpara (*-i-*) *t*“ (d.m.th. me vokalin lidhës *i*).
 
-**Beispiele:**
+**Shembuj:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Rrënjë | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +124,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Ligjet e bashkëtingëllores në fjalë
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+Në formimet *aniṭ* duhen marrë parasysh ligjet e mëposhtme të bashkimit fonetik në fjalë. **Këto ligje janë shumë të rëndësishme për kuptimin e të gjithë morfologjisë së sanskritishtes.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p para një konsonante të mbyllur pa zë (p.sh. t, th) mbeten të paprekura:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct zëvendësohet nga kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt zëvendësohet nga ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Konsonanta e mbyllur pa aspirim dhe me zë – përveç j – para një tingulli të mbyllur pa zë zëvendësohet nga konsonanta e saj përkatëse pa zë dhe pa aspirim:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (e rëndësishme për klasën e 2-të të prezencit) |
+| **5. jt zëvendësohet nga kt ose ṣṭ (jo fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Konsonanta e mbyllur me aspirim dhe me zë + konsonant i mbyllur pa zë » konsonant i mbyllur pa aspirim dhe me zë + konsonant i mbyllur me aspirim dhe me zë (Ligji i Aspiratës së Bartholomae-it):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t zëvendësohet nga ḍh me zgjatjen e një i ose u të mëparshëm; ose nga gdh. Para një të tillë ḍh, a zëvendësohet nga o, rrallë nga ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „të fsheh diçka”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Fjalori i fjalëve
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : zgjohem, zgjohem në njohuri, kuptoj; PPP **buddha** 3 i zgjuar, prandaj **Buddha** = "i Zgjuari" (jo: i Ndriçuari)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Fig.: ⟪गौतमो बुद्धः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (diçka) digjet
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : përball, duroj, duroj durueshëm = fal
+**mṛga** m. ⟪मृग⟫ : kafshë e egër
+**mārga** m. ⟪मार्ग⟫ : rrugë (rrugët shpesh ishin shtigje kafshësh)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Fig.: ⟪मार्गः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : edhe (i vendosur pas)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Klasës së gjashtë të prezencit, gramatikantët vendas i konsiderojnë disa rrënjë që formojnë stamin e prezencit me infix nazal dhe vokalin temarik a, p.sh.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : çliroj, lëshoj, liroj; nga rrotullimi i rilindjeve (**saṃsāra** m.) lirohet = shpëton
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : shpërdor
 
-Zur Wortbildung:
+Për formimin e fjalëve:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : çlirim, lirimi, shpëtimi
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : shpërthim i një mbreti gjatë kurorëzimit, kurorëzim
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : zgjimi (përmes të cilit një Buddha ose Jina arrin në njohjen shpëtuese)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Fig.: ⟪महावीरो जिनः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : njohuri, organ i njohurisë.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Pasivi dhe PPP e rrënjëve të mësuar deri tani
+
+| Rrënja:br⟪धातु⟫ | Pasiv Present 3. sg. Indikativ:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Ushtrimi
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) Formoni nga fjali aktive të [Mësimi 7](/lektionen/lektion07), Ushtrimi A, fjali pasiv të së kaluarës; për foljet intransitive dhe ato të lëvizjes, formoni fjali aktive të së kaluarës.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) Formoni PPP-të përkatëse të formave foljese nga [Mësimi 10](/lektionen/lektion10), Ushtrimi A. Kini parasysh se një forme si sṛjati i përgjigjen PPP-të në të tre gjinitë.**
+
+**C) Shndërrojeni fjali nga [Mësimi 10](/lektionen/lektion10), Ushtrimi C, në pasiv të së kaluarës.**
 

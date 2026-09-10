@@ -1,39 +1,39 @@
-# Exercise d'écriture 9
+# Lekcija 9: Vežba pisanja
 
-### Worttrennung
+### Deljenje reči
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+Unutar jedne rečenice (polovine stiha) deljenje reči u pisanju vrši se samo ako je reč završena sa
 
-*   Vokal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ)
+*   samoglasnikom
+*   anusvārom (ṃ)
+*   visargom (ḥ)
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+i sledeća reč počinje suglasnikom. Takođe se primenjuje u slučajevima kada, prema pravilima sandhije rečenice, nastaje hijatus između samoglasnika.
 
-### Interpunktion
+### Interpunkcija
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+Kraj rečenice u prozi označava se sa | (ardhadanda, muški rod). U stihovima | označava kraj polustrofe, dok || (danda, muški rod) označava kraj strofe. U prozi || označava veći prekid (npr. kraj pasusa). Brojanje stihova postavlja se između dva ||, npr. ||⟪१⟫||.
 
-### Abkürzung
+### Skraćenice
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
+Znak za skraćivanje (npr. u navođenju dela) je °, npr. ⟪पा⟫° = pā(ṇinīye) = "U gramatičkom delu Pāṇinija".
 
-### Weitere Vokale in Anfangsstellung
+### Dodatni samoglasnici na početku reči
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Imajte na umu da se a, ā, o i au pišu prema istom osnovnom šemi.
 
 ## Vežba
 
-A) Schreiben Sie in Devanāgarī:
+A) Napišite na Devanagariju:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) Pročitajte i transliterujte:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

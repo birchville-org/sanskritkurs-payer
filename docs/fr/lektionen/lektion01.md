@@ -1,6 +1,6 @@
 ---
 title: "Leçon 1"
-subtitle: "Les sons du sanskrit"
+subtitle: "Les sons de la langue sanskrite"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"

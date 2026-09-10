@@ -58,7 +58,7 @@ Esimerkit: ks. alla tulevaisuuden muoto sanasta  ⟪दुह्⟫ ja  ⟪ब
 Kuv.: Hermann Grassmann
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt2601))
 :::
->> ## 26.5. Wortsandhi -m:n edellä olevien kitisäänteiden kohdalla
+## 26.5. Wortsandhi -m:n edellä olevien kitisäänteiden kohdalla
 
 ::: grammar-box
 **Kitisäänteiden edellä -n ja -m korvautuvat muodolla -ṃ-:**

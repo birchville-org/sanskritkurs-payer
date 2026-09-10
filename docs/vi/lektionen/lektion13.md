@@ -1,327 +1,290 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "[Bài 13]"
+subtitle: "[PPP trên -na-]"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 13
+# Bài 13
 
-## 13.1. PPP auf -na-
 
-Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch:
+## 13.1. PPP trên -na-
+
+Không thể đưa ra các quy tắc cố định cho việc phân bố PPP trên -ta- hoặc -na-. Tuy nhiên:
 
 ::: grammar-box
 
-Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durch -n-n- ersetzt, was sonst im Wortsandhi nicht geschieht, sondern eine Nachahmung des Satzsandhi ist.
+Hầu hết các gốc từ kết thúc bằng -d tạo thành PPP trên -na-. Trong trường hợp này, -d-n- được thay thế bằng -n-n-, điều thường không xảy ra trong Wortsandhi, mà là một sự bắt chước của Satzsandhi.
 
-Beispiel:
+Ví dụ:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Weiteres zum Gebrauch des PPP
+## 13.2. Thêm về cách sử dụng PPP
 
 ::: grammar-box
 
-**1. Das PPP zu Verben der Bedeutung "denken", "wünschen", "kennen", "wissen", "verehren" sowie einiger weiterer Verben, die im Dhātupāṭha, dem Wurzelverzeichnis zu Pāṇini, durch ñi gekennzeichnet sind, hat nicht nur Vergangenheitsbedeutung, sondern kann auch in präsentischer Bedeutung verwendet werden:**
-z.B.
+**1. PPP của các động từ có nghĩa là "nghĩ", "mong muốn", "biết", "hiểu", "tôn kính" cũng như một số động từ khác được đánh dấu bằng ñi trong Dhātupāṭha, danh mục gốc từ của Pāṇini, không chỉ mang ý nghĩa quá khứ mà còn có thể được sử dụng với ý nghĩa hiện tại:**
+ví dụ:
 :::
 ::: indent
-⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart)
-⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā)
+⟪इष्ट⟫ "mong muốn" (tức là không chỉ mong muốn trong quá khứ mà còn cả hiện tại)
+⟪त्वरित⟫ "nhanh chóng, vội vàng" (PPP của tvar 1 Ā "vội"; Dhātupāṭha: ñitvárā)
 :::
 
-**2. Das PPP kann als Adjektiv attributiv verwendet werden:**
-z.B.
+**2. PPP có thể được sử dụng như một tính từ bổ nghĩa:**
+ví dụ:
 ::: indent
-⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)"
+⟪इष्टं फलम्⟫ "quả mong muốn (ví dụ của hành động)"
 :::
 
-Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
-z.B.
+Nếu trong trường hợp này ⟪अपि⟫ đứng sau PPP, thì ⟪अपि⟫ có nghĩa là "mặc dù":
+ví dụ:
 ::: indent
-⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht."
+⟪इष्टमपि फलं न लभते⟫ = "Mặc dù người đó mong muốn quả, anh ta không nhận được nó."
 :::
 
-**3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden:**
-z.B.
+**3. Số ít trung tính của PPP từ bất kỳ động từ nào cũng có thể được sử dụng như một danh từ trừu tượng:**
+ví dụ:
 ::: indent
-⟪गत⟫ n.: "das Gehen, der Gang"
-⟪नृत्त⟫ n.: "das Tanzen, der Tanz"
+⟪गत⟫ n.: "sự đi, bước đi"
+⟪नृत्त⟫ n.: "sự nhảy múa, điệu nhảy"
 :::
 
-## 13.3. Attributive Bestimmungen von Nomina (Wortstellung)
+## 13.3. Các bổ ngữ thuộc tính của danh từ (trật tự từ)
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein:
+Các bổ ngữ (attribute) trong văn xuôi đứng trước danh từ mà chúng xác định rõ hơn, theo trật tự từ thông thường. Tính từ bổ ngữ phải hòa hợp với danh từ về số, cách và giống:
 
-Beispiel:
-
-:::
-::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)."
-:::
-
-## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
-
-::: grammar-box
-
-Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend".
-
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
-
-Beispiele:
+Ví dụ:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "Vieh besitzend"
-
-⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend"
+⟪साधुरिष्टं फलं पश्यति⟫ = "Một vị thánh thấy được quả trái mong muốn (của những hành động của mình)."
 :::
 
-## 13.5. Stammabstufung von Nomina
-
-Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung.
+## 13.4. Hình thành tính từ với hậu tố -mant và -vant (taddhita)
 
 ::: grammar-box
-Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
-:::
-**Starke Kasus sind:**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+Thông qua các hậu tố taddhita -mant hoặc -vant, các tính từ chỉ sở hữu được hình thành từ danh từ. Ý nghĩa của chúng là: "sở hữu cái được chỉ định bởi danh từ cơ bản".
+
+vant gắn vào các danh từ có âm cuối hoặc âm trước cuối là a, ā hoặc m, cũng như các danh từ kết thúc bằng một phụ tắc; đối với các danh từ khác, thường thì -mant được gắn.
+
+Ví dụ:
+
+:::
+::: indent
+⟪पशुमन्त्⟫ "Sở hữu gia súc"
+
+⟪गुणवन्त्⟫ "Sở hữu những phẩm chất tốt đẹp / đức hạnh"
+:::
+
+## 13.5. Biến đổi gốc của danh từ
+
+Các gốc với hậu tố -mant hoặc -vant thuộc về các gốc danh từ có biến đổi gốc.
+
+::: grammar-box
+Đối với các gốc danh từ có biến đổi gốc, người ta phân biệt giữa các cách mạnh và các cách yếu. Trong các cách mạnh, hậu tố hình thành gốc — đối với danh từ gốc là phần mang tính gốc của từ — ở bậc cao hoặc bậc kéo dài, trong khi các cách yếu thì ở bậc thấp.
+:::
+**Các cách mạnh bao gồm:**
+
+| | Số ít:br⟪एकवचन⟫ | Số đôi:br⟪द्विवचन⟫ | Số nhiều:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+**Đối với giống đực và giống cái** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Chủ ngữ:br⟪प्रथमा⟫:brTân ngữ:br⟪द्वितीया⟫:brKêu gọi:br⟪सम्बोधनप्रथमा⟫ | Chủ ngữ:br⟪प्रथमा⟫:brTân ngữ:br⟪द्वितीया⟫:brKêu gọi:br⟪सम्बोधनप्रथमा⟫ | Chủ ngữ:br⟪प्रथमा⟫:br:brKêu gọi:br⟪सम्बोधनप्रथमा⟫ |
+**Đối với giống trung** :br⟪नपुंसक⟫ | — | — | Chủ ngữ:br⟪प्रथमा⟫:brTân ngữ:br⟪द्वितीया⟫:brKêu gọi:br⟪सम्बोधनप्रथमा⟫ |
 
-**Alle übrigen Kasus sind schwach.**
-
-::: grammar-box
-Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
-:::
-
-## 13.6. Zum Wortsandhi
-
-Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -vant sind folgende Gesetze des Wortsandhi nötig:
+**Tất cả các cách khác đều ở dạng yếu.**
 
 ::: grammar-box
-1. Anzahl der auslautenden Konsonanten eines Wortes: Von zwei oder mehr Konsonanten, auf die ein Wort schliessen würde, bleibt nur der erste Konsonant erhalten, die übrigen fallen ab. Erlaubt ist die Verbindung -r- + Konsonant.
-
-2. Stimmloser Verschlusslaut wird vor stimmhaftem Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt:
+Khi là thành phần đầu của một hợp danh từ, danh từ có biến cách gốc ở dạng yếu (đối với các danh từ ba gốc, là cái được gọi là "trung gian").
 :::
-Beispiele:
+
+## 13.6. Về Sandhi từ vựng (Wortsandhi)
+
+Để hiểu các dạng riêng lẻ của sự biến cách danh từ kết thúc bằng -mant và -vant, cần thiết phải có các quy luật sau đây về Sandhi từ vựng:
+
+::: grammar-box
+1. Số lượng phụ âm cuối của một từ: Từ hai hoặc nhiều phụ âm, nếu một từ kết thúc bằng chúng, chỉ có phụ âm đầu tiên được giữ lại, những phụ âm còn lại bị loại bỏ. Sự kết hợp -r- + phụ âm là được phép.
+
+2. Phụ âm tắc vô thanh trở thành phụ âm tắc hữu thanh tương ứng với nó khi đứng trước một phụ âm tắc hữu thanh (không phải mũi):
+:::
+Ví dụ:
 ::: indent
--t + bh- » -d-bh- ⟪द्भ्⟫
+t + bh- » -d-bh- ⟪द्भ्⟫
 
--k + bh- » -g-bh- ⟪ग्भ्⟫
+k + bh- » -g-bh- ⟪ग्भ्⟫
 
--c + bh- » -g-bh- ⟪ग्भ्⟫
+c + bh- » -g-bh- ⟪ग्भ्⟫
 
--c + dh- » -g-dh- ⟪ग्ध्⟫
+c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Hậu tố cách của các gốc phụ âm
 
 ::: grammar-box
 
-Bei konsonantisch auslautenden Stämmen:
-* ist die Endung des Akkusativ (dvitīyā) Plural Maskulinum und Femininum -as.
-* ist bei regelmässig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
-* ist bei regelmässig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
+Đối với các gốc kết thúc bằng phụ âm:
+* hậu tố của cách thứ hai (Akkusativ/dvitīyā) số nhiều giống đực và giống cái là -as.
+* đối với các gốc được hình thành một cách quy tắc, giống trung ở số ít cách thứ nhất (Nominativ/prathamā) và cách thứ hai (Akkusativ/dvitīyā) không có hậu tố.
+* đối với các gốc được hình thành một cách quy tắc, ở giống trung, hậu tố của cách thứ nhất và cách thứ hai số nhiều là -i.
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. Sự biến cách của các gốc kết thúc bằng -mant và -vant
 
 ::: grammar-box
 
-* starker Stamm: Nomen + -mant- / -vant-
-* schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
+* Gốc mạnh: Danh từ + -mant- / -vant-
+* Gốc yếu: Danh từ + -mat- / -vat- (từ: *-mnt- / *-vnt-)
 
-| | | Maskulinum || Neutrum ||
+| | | Giống đực || Giống trung ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| Số ít:br⟪एकवचन⟫ | Cách thứ nhất (Nominativ):br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Cách thứ hai (Akkusativ):br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Cách dụng cụ (Instrumentalis):br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Số nhiều:br⟪बहुवचन⟫ | Cách thứ nhất (Nominativ):br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Cách thứ hai (Akkusativ):br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Cách dụng cụ (Instrumentalis):br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Femininum:
+Giống cái:
 
-Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-ī. Die Deklination geht wie bei devī, d.h. es gibt keine Stammabstufung.
+Gốc giống cái của các gốc từ kết thúc bằng -mant- và -vant- là -mat-ī hoặc -vat-ī. Sự biến cách giống như devī, nghĩa là không có sự phân cấp gốc từ.
 
-Beispiel:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+Ví dụ:
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. Wortliste
+## 13.9. Từ vựng
 
-Lernen Sie folgende Wörter:
+Học các từ sau đây:
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
+**eva** ⟪एव⟫ : nhấn mạnh từ đứng trước
+**asura** m. ⟪असुर⟫ : Ác ma
 
-> **ASURA.** 'Spiritual, divine.'
->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> **ASURA.** 'Thần linh, thiêng liêng.'
+\>
+> Trong những phần cổ xưa nhất của Ṛgveda, thuật ngữ này được dùng cho thần linh tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành chỉ á ma hoặc kẻ thù của các vị thần.
+\>
+> Từ này xuất hiện với ý nghĩa này trong các phần sau của Ṛgveda, đặc biệt là quyển cuối cùng, và cũng trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa đó, và ghi lại nhiều cuộc tranh đấu giữa các Asura và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với tuyên bố trước đó, và nói rằng "ông tạo ra Asuras từ hơi thở dưới của mình." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước bị rơi vãi. Tuyên bố của Manu là chúng được tạo ra bởi các Prajāpatis.
+\>
+> Theo Viṣṇu Purāṇa, chúng được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được sản sinh; do đó chúng là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm cả Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng Pulastya.
+\>
+> Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã nảy sinh từ *sura,* thường được dùng cho 'một vị thần.'"
+\>
+> [Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
 Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ : sợi chỉ, dây; thuộc tính, phẩm chất tốt
+**pad** 4 Ā (padyate), Bị động: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : đi, đến được
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : là, hiện diện
+**as** 4 P (asyati), Bị động: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : ném, (ném) đi
+**i** 2 P (eti), Bị động: īyate, PPP ita ⟪इ एति ईयते इत⟫ : đi
+**pā** 2 P (pāti), Bị động pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : bảo vệ, che chở
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Bị động pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : uống (theo truyền thống được xếp vào lớp 1)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Bị động dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : ghét, thù hằn
+**ad** 2 P (atti), Bị động adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : ăn, tiêu thụ
+**anna** n. ⟪अन्न⟫ : thức ăn (từ PPP: *ad-na: cái đã được ăn)
 
 ::: media
 ![](/images/lekt1304.webp)
 Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1304))
 :::
-Wortbildung:
+Cấu tạo từ:
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
+**pada** n. ⟪पद⟫ : bước, vị trí, nơi chốn
 
-**pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
+**pāda** m. ⟪पाद⟫ : chân, một phần tư, câu thơ
 :::
 
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+Abb.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Hass
+**dveṣa** ⟪द्वेष⟫ : sự thù hận
 :::
 
-## 13.10. Übung
+## 13.10. Bài tập
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
+A) Dịch và chuyển sang câu hiện tại chủ động:
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
+⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
 ![](/images/lekt1305.webp)
-Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Bildquelle: [Details](/licenses#lekt1305))
-:::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
-
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit:
-
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
-
-## 13.11. Wiederholungsübung
-
-A) Übersetzen Sie folgende Sätze:
-
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-
-B) Setzen Sie die Sätze Übung A) ins Passiv.
-
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
+Abb.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1305))
 
 ::: media
-![](/images/lekt1302.webp)
-Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Bildquelle: [Details](/licenses#lekt1302))
+![](/images/lekt1305.webp)
+Abb.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1305))
 :::
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 cách)
+⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
-1. -a vor Vokal (ausser a-)
+B) Dịch và chuyển thành câu bị động ở thì quá khứ:
+
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते । २⟫. ⟪योद्धा न मुञ्चति । ३⟫. ⟪साधवो देवान्स्मरन्ति । ४⟫. ⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫. ⟪पुत्रवान्नरकं न गच्छति । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫. ⟪कयर्ग्वेदं शृण्वन्ति । १२⟫. ⟪किमीश्वरः सृजति । १३⟫. ⟪साधुः कृतं पापं सहते । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
+
+
+## 13.11. Bài tập ôn lại
+
+A) Dịch các câu sau:
+
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति । २⟫. ⟪नरा धनेन सुखमिच्छन्ति । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते । ४⟫. ⟪देवो लोकान्सृजति । ५⟫. ⟪बाला जलं पिबति । ६⟫. ⟪कवयो धनं लुभ्यन्ति । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫. ⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫. ⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते । १३⟫. ⟪कां देवतामृषिः पश्यति । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
+:::
+D) Từ những tổ hợp phụ âm nào sau đây có thể hình thành các dạng Sandhi? Hãy nêu tất cả các khả năng:
+
+1. -a trước nguyên âm (trừ a-)
 2. -ā-
-3. -ā vor Vokal
-4. -ā vor stimmhaften Konsonanten
+3. -ā trước nguyên âm
+4. -ā trước phụ âm hữu thanh
 5. -ī-
 6. -ū-
 7. -ṝ-
 8. -e-
-9. -e vor Avagraha
+9. -e trước Avagraha
 10. -o-
-11. -o vor Avagraha
-12. -o vor stimmhaften Konsonanten
+11. -o trước Avagraha
+12. -o trước phụ âm hữu thanh
 13. -ai-
 14. -au-
-15. -y vor Vokal
-16. -v vor Vokal
-17. -r vor Vokal
-18. -ay vor Vokal
-19. -av vor Vokal
+15. -y trước nguyên âm
+16. -v trước nguyên âm
+17. -r trước nguyên âm
+18. -ay trước nguyên âm
+19. -av trước nguyên âm
 20. -ar-
-21. -ir vor Vokal oder stimmhaftem Konsonanten
-22. -īr vor Vokal oder stimmhaftem Konsonanten
-23. -ur vor Vokal oder stimmhaftem Konsonanten
-24. -ūr vor Vokal oder stimmhaftem Konsonanten
-25. -er vor Vokal oder stimmhaftem Konsonanten
-26. -or vor Vokal oder stimmhaftem Konsonanten
-27. -air vor Vokal oder stimmhaftem Konsonanten
-28. -aur vor Vokal oder stimmhaftem Konsonanten
+21. -ir trước nguyên âm hoặc phụ âm hữu thanh
+22. -īr trước nguyên âm hoặc phụ âm hữu thanh
+23. -ur trước nguyên âm hoặc phụ âm hữu thanh
+24. -ūr trước nguyên âm hoặc phụ âm hữu thanh
+25. -er trước nguyên âm hoặc phụ âm hữu thanh
+26. -or trước nguyên âm hoặc phụ âm hữu thanh
+27. -air trước nguyên âm hoặc phụ âm hữu thanh
+28. -aur trước nguyên âm hoặc phụ âm hữu thanh
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -329,21 +292,21 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. Anusvāra vor Konsonant
+36. Anusvāra trước phụ âm
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
-E) Übersetzen Sie ins Sanskrit:
+E) Dịch sang tiếng Phạn:
 
-1. Die Göttin war erzürnt.
-2. Śūdras sind in einen Himmel gelangt.
-3. Die Bauern sind den Weg gegangen.
-4. Durch die Buddhalehre wurden die Leute befreit.
-5. Der Sohn tanzte.
-6. Das Amulett hat den Lehrer beschützt.
-7. Ein Brahmane hat keine Unwahrheit gesagt.
-8. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-9. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt.
-10. Die vedischen Weisen haben die Śruti gehört.
-11. Die Opferpriester haben den Soma gepresst.
+1. Nữ thần đã nổi giận.
+2. Những người Śūdra đã đạt được một thiên đường.
+3. Những nông dân đã đi trên con đường.
+4. Dân chúng đã được giải thoát nhờ giáo lý của Đức Phật.
+5. Người con trai đã nhảy múa.
+6. Bùa hộ mệnh đã bảo vệ vị thầy.
+7. Một người Brahmane không nói lời dối trá.
+8. Phụ nữ Śūdra đã tôn kính Nữ thần bằng các lễ vật tế.
+9. Đức Phật đã giác ngộ chân lý = Đức Phật đã nhận thức được sự thật.
+10. Các hiền nhân Veda đã nghe thấy Śruti.
+11. Các tư tế tế lễ đã ép lấy nước Soma.

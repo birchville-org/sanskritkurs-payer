@@ -1,10 +1,11 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Μάθημα 17"
+subtitle: "Δευτέρα τάσις παρατατικοῦ (⟪अदादि⟫ = ⟪अद्⟫ κτλ.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Μάθημα αʹ7

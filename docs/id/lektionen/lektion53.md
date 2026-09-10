@@ -309,7 +309,7 @@ Contoh:
 ::: indent
 ⟪पितापुत्रौ⟫ "Ayah dan putra"
 :::
-**Jika nama dua dewa, yang biasanya disebutkan dalam korban, membentuk Dvandva, maka vokal akhir dari anggota pertama umumnya diperpanjang:**
+**Jika nama dua dewa, yang biasanya disebut dalam korban, membentuk Dvandva, maka vokal akhir dari anggota pertama umumnya diperpanjang:**
 
 ::: indent
 ⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra dan Varuṇa"
@@ -321,25 +321,25 @@ Contoh:
 Ilustrasi: ⟪पितापुत्रौ⟫
 (Sumber gambar: [Details](/id/licenses#lekt5308))
 :::
-## 53.6. Dual dari Pronomina
+## 53.6. Bentuk Dual dari Kata Ganti
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
 | :--- | :---: | :---: | :---: | :---: | :---:
-| **Maskulinum** |   |   |   |   |  
+| **Maskulinum** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
-|   |   |   |   |   |  
-| **Neutrum** |   |   |   |   |  
+|   |   |   |   |   |   
+| **Neutrum** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Sisanya seperti Maskulinum ||||||||
-| **Femininum** |   |   |   |   |  
+|   | Sisa seperti Maskulinum ||||||||
+| **Femininum** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Sisanya seperti Maskulinum ||||||||
+|   | Sisa seperti Maskulinum ||||||||
 :::
 ⟪कतर⟫ 3 "yang mana dari keduanya" dan ⟪कतम⟫ 3 "yang mana dari beberapa" dideklinasikan dalam semua kasus seperti ⟪यद्⟫.
 
@@ -460,7 +460,7 @@ Fig.: ⟪द्राघीयो लिङ्गम्⟫
 ## 53.9. Deklination Komparatif Berakhiran -īyas
 
 ::: grammar-box
-**Komparatif berakhiran -īyas membentuk feminin dengan akhiran -īyasī (deklinsi seperti ⟪देवी⟫). Maskulin dan netra dideklinsi menurut paradigma berikut.**
+**Komparatif berakhiran -īyas membentuk feminin dengan akhiran -īyasī (deklinsi seperti ⟪देवी⟫). Maskulinum dan Neutrum dideklinsi menurut paradigma berikut.**
 :::
 ::: grammar-box
 
@@ -476,7 +476,7 @@ Fig.: ⟪द्राघीयो लिङ्गम्⟫
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Ilmu tentang metrum puisi)
+## 53.10. Metrik (Ilmu tentang Pola Irama)
 
 ::: media
 ![](/images/lekt5303.jpg)
@@ -485,14 +485,14 @@ Ilustrasi: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्�
 :::
 Lihat juga:
 
-> **Payer, Alois (1944–):** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Pengantar Eksegesis Teks Sanskerta : Diktat. -- Bab 8: Eksegesis Sebenarnya, Bagian II: Pertanyaan Khusus Pemahaman Sinkronis. -- Lampiran B: Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Pentingnya Penentuan Metrum
 
 Penentuan metrum penting karena alasan-alasan berikut:
 
 1. **Estetis:** Metrum berkontribusi pada keindahan sebuah pernyataan, antara lain. Selain itu, metrum tertentu dapat digunakan untuk mengekspresikan suasana hati tertentu, atau dikaitkan dengan kasta tertentu (⟪वर्ण⟫). Berbagai metrum dilafalkan dengan cara yang berbeda-beda. :br Sebuah gambaran baik tentang efek estetis dapat diberikan, misalnya, oleh pelafalan ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tari Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2. **Kritis-teks:** Kesalahan dalam metrum dapat menjadi indikasi bahwa teks tidak diteruskan dengan benar pada suatu titik. Metrum membantu dalam melakukan perbaikan teks.
+2. **Kritis-teks:** Kesalahan dalam metrum dapat menjadi indikasi bahwa teks tidak diturunkan dengan benar pada suatu titik. Metrum membantu dalam melakukan perbaikan teks.
 3. **Kronologis:** Beberapa metrum mengalami perubahan tertentu sepanjang sejarah. Hal ini dapat membantu dalam penanggalan kasar sebuah teks. Lihat **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Keduanya dicetak dalam: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
@@ -616,11 +616,11 @@ Suku kata kedua dan ketiga dari sebuah ⟪पाद⟫ sebaiknya tidak sekaligus
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**Pada semua bentuk Śloka, cesura utama terletak di akhir baris ke-2 ⟪पाद⟫ : di sana terdapat akhir kata atau — pada komposita panjang — akhir dari salah satu komponen komposisi.**
+**Pada semua bentuk Śloka, cesura utama terletak di akhir baris 2. ⟪पाद⟫ : di sana terdapat akhir kata atau — pada majemuk panjang — akhir dari salah satu komponen komposisi.**
 ## 53.11. Latihan
 
 ::: grammar-box
-**Tentukan di antara semua ayat yang telah dipelajari sejauh ini mana yang merupakan Śloka. Buatlah skema metrik secara tertulis untuk ayat-ayat tersebut. Tunjukkan ketidakberaturan atau bentuk Vipulā yang mungkin ada.**
+**Tentukan di antara semua bait yang telah dipelajari sejauh ini, mana yang merupakan Śloka. Buatlah skema metrik secara tertulis untuk bait-bait tersebut. Tunjukkan ketidakberaturan atau bentuk Vipulā yang mungkin ada.**
 :::
 ::: center
 Finitum feliciter 1984-02-15

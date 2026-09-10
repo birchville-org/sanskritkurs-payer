@@ -1,11 +1,12 @@
 ---
-title: "Exercise 61"
+title: "Pratimas 61"
 uebung_id: 61
-category: "Exercise"
+category: "Übung"
+
 ---
 
-# Užduotis 61
+# Prataktimas 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+61-asis pamoka sudaro sanskritų kurso pabaigą ir nebeįtraukia jokių naujų rašinių pratimų.
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+Nagrinėjant šakninius daiktavardžius, periphrastinį būsimąjį laiką ir denominatyvus, padėti pagrindai skaityti sanskritų originalius tekstus. Kursas baigiasi tradicine Gaṇešos (⟪श्रीगणनाथ⟩) šaukimo formule, žymiančia perėjimą nuo vadovėlio prie savarankiško skaitymo.

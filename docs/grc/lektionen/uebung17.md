@@ -1,8 +1,9 @@
 ---
-title: "[ L0 ] Ἀσκησις 17"
+title: "Πρακτική ἄσκησις 17"
 uebung_id: 17
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -180,6 +181,6 @@ Ein Śūdra ist Knecht der Zweimalgeborenen.
 
 ::: media
 ![](/images/uebung026.webp)
-Abb.: ⟪शृणोति⟫
-(Bildquelle: [Details](/licenses#uebung026))
+Εἰκ.: ⟪शृणोति⟫
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung026))
 :::

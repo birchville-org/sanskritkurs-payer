@@ -77,7 +77,7 @@ Entre as raízes aprendidas até agora, os seguintes infinitivos merecem atenç�
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- como nível alto para -ṛ- têm no infinitivo:
+-ra- como nível alto para -ṛ- têm no infinitivo:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

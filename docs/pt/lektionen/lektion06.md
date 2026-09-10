@@ -1,10 +1,11 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "Lição 6"
+subtitle: "A estrutura da oração verbal (agente e forma verbal)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 6
@@ -106,14 +107,14 @@ Exemplo **yaj** = ⟪यज्⟫ = "venerar com um sacrifício", "sacrificar":
 | Se a vogal estiver numa sílaba longa fechada, ou seja, uma vogal curta antes de duas ou mais consoantes, a formação do grau guṇa não ocorre ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Sandhi interno de e e o
-Antes de vogais, dentro da palavra, **e** é substituído por **ay**, **o** por **av**.
+#### 6.5.2.1. Sandhi de palavras com e e o
+Antes de vogais, no interior das palavras, **e** é substituído por **ay**, e **o** por **av**.
 
-#### 6.5.2.2. Gradação vocálica (Ablaut)
+#### 6.5.2.2. Grau vocálico (Ablaut)
 
 ::: grammar-box
-| Grau zero:brGrau reduzido | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
-| :--- | :--- | :--- |
+| Grau baixo:brGrau zero:brGrau médio:brGuṇa m.:br⟪गुण⟫ | Grau forte:brGrau pleno:brVṛddhi f.:br⟪वृद्धि⟫ |
+| :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
 | **u / ū** | **o** | **au** |
@@ -123,29 +124,29 @@ Antes de vogais, dentro da palavra, **e** é substituído por **ay**, **o** por 
 ### 6.5.3. Verbos da 4ª classe de presente (divādi = ⟪दिवादि⟫ = "div etc.")
 
 ::: grammar-box
-**Tema do presente = Raiz no grau zero (na qual é listada) + ya-**
+**Tema do presente = Raiz no grau zero (como aparece listada) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Tema do presente |
+| Raiz (dhātu m.):br⟪धातु⟫ | Tema do presente |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Vogal temática, classes de presente temáticas
+### 6.5.4. Vogal temática, classes temáticas de presente
 
 ::: grammar-box
-O **a** nos sufixos de formação do tema das classes do presente chama-se **vogal temática**. As classes do presente com **a** no sufixo de formação do tema são por isso chamadas "classes temáticas do presente".
+O **a** nos sufixos de formação temática das classes de presente é chamado de **vogal temática**. As classes de presente com **a** no sufixo de formação são, portanto, chamadas "classes temáticas de presente".
 :::
 
 ## 6.6. Sânscrito falado: Outras perguntas (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "O que faz N. N.?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "O que fazem os N.N.s?"
-- (karoti, kurvanti de **kṛ** = ⟪कृ⟫ 8 U: "fazer")
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Está tudo bem?, Como está?"
-- Resposta: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Estou) bem em todos os aspetos."
+**N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "O que N. N. está fazendo?"
+**N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "O que os N.N.s estão fazendo?"
+(karoti, kurvanti de **kṛ** = ⟪कृ⟫ 8 U: "fazer, agir")
+**kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Como vai?, Como estão as coisas?"
+Resposta: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Estou) bem em todos os aspectos."
 :::
 
 ## 6.7. Lista de vocabulário

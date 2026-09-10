@@ -1,122 +1,123 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lição 22"
+subtitle: "O Absolutivo (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 22
 
-## 22.1. O Absolutivo (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. O Absoluto (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-Para expressar em sânscrito que uma ação do agente (⟪कर्तृ⟫) precede outra ação do agente ou a acompanha como uma circunstância concomitante, usa-se o absolutivo (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Ou seja,
+Se se deseja expressar em sânscrito que uma ação do agente (⟪कर्तृ⟫) precede outra ação do mesmo agente ou ocorre simultaneamente como circunstância concomitante, utiliza-se o absoluto (⟪क्त्वा । ल्यप्⟫). Portanto
 
-"depois de ter feito isto, ele faz aquilo"; "ele faz isto, depois faz aquilo"; "como consequência disto, ele faz aquilo"; "vim, vi e venci" e similares.
+"depois de ter feito isso, ele faz aquilo"; "ele faz isto, então ele faz aquilo"; "em consequência disto, ele faz aquilo"; "eu vim, vi e venci" etc.
 
-O absolutivo é um advérbio verbal, isto é, não é nem conjugável nem declinável, mas tem sempre — com poucas exceções — o mesmo agente (⟪कर्तृ⟫) da ação que é precedida ou acompanhada pela ação designada pelo absolutivo. O agente do absolutivo está, portanto, no nominativo (⟪प्रथमा⟫) ou no instrumental (⟪तृतीया⟫).
+O absoluto é um advérbio verbal, isto é, não é conjugável nem declinável; no entanto, tem sempre — com poucas exceções — o mesmo agente (⟪कर्तृ⟫) que a ação à qual a ação designada pelo absoluto precede ou acompanha. O agente do absoluto está, portanto, no nominativo (⟪प्रथमा⟫) ou instrumental (⟪तृतीया⟫).
 
-Além dos compostos, o absolutivo é um dos meios de expressão mais frequentes em sânscrito.
+Além dos compostos, o absoluto é um dos meios de expressão mais comuns no sânscrito.
 
-Na tradução para o alemão, deve-se evitar dizer constantemente "depois de". Em vez disso, deve-se usar as expressões para sequências temporais comuns em alemão.
+Na tradução para o alemão, evite dizer constantemente "depois que". Em vez disso, utilize as expressões usuais em alemão para sequência temporal.
 
 **Esquema:**
 
-(especificação mais detalhada do absolutivo: adjunto adverbial, objeto etc.) - Absolutivo - Absolutivo - ... - Absolutivo - ... Agente + oração verbal (na voz ativa ou passiva)
+(determinação mais específica do absoluto: adjunto adverbial, objeto etc.) - Absoluto - Absoluto - ... - Absoluto - ... Agente + oração verbal (na voz ativa ou passiva)
 
 :::
 **Exemplos:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Construção passiva: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**
-"O homem entra na casa, vê a menina e fala com ela."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = construção passiva: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**
+"O homem entra na casa, vê a menina pequena e fala com ela."
 
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Plural: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
 ## 22.2. Formação do Absolutivo
 
 ::: grammar-box
 **Formação do Absolutivo**
 
-*   Verbos sem preverbo: Absolutivo em **-tvā**
-*   Verbos com preverbo: Absolutivo em **-ya** ou **-tya**
+*   Verbos sem prefixo: Absolutivo em **-tvā**
+*   Verbos com prefixo: Absolutivo em **-ya** ou **-tya**
 :::
-### 22.2.1. Verbos sem preverbo: Absolutivo em -⟪त्वा⟫
+### 22.2.1. Verbos sem prefixo: Absolutivo em -⟪त्वा⟫
 
 ::: grammar-box
 
 **Formação:**
 
-(geralmente) raiz de grau fraco na forma que ela tem antes do PPP + **-tvā** (**-⟪त्वा⟫**)
+(geralmente) raiz no grau profundo na forma que precede o PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Apenas o negativo **a-** / **an-** é compatível com o sufixo **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "sem ter feito"
+Apenas o **a-** / **an-** negativo coexiste com o sufixo **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "sem ter feito"
 
 :::
 **Exemplos:**
 
 ::: indent
-⟪आप्त्वा⟫ "depois que ele / ela / eu / tu / nós / vós / eles/elas / nós dois / vós dois / eles dois/elas duas alcançou / tinha alcançado / alcançaram / tinham alcançado"
+⟪आप्त्वा⟫ "depois que ele / ela / isso / eu / você / nós / vós / eles / nós dois / vós dois / eles dois alcançou / tinha alcançado"
 
-⟪आसित्वा⟫ "depois que ele (...) esteve / tinha estado sentado"
+⟪आसित्वा⟫ "depois que ele (...) estava sentado / está"
 
-⟪इत्वा⟫ "depois que ele (...) foi / tinha ido"
+⟪इत्वा⟫ "depois que ele (...) estava ido / está"
 
-⟪स्थित्वा⟫ "depois que ele (...) esteve / tinha estado de pé"
+⟪स्थित्वा⟫ "depois que ele (...) estava em pé / está"
 
-⟪जित्वा⟫ "depois de ter vencido"
+⟪जित्वा⟫ "depois que ele (...) venceu / tinha vencido"
 
-⟪उक्त्वा⟫ "depois de ter falado"
+⟪उक्त्वा⟫ "depois que ele (...) falou / tinha falado"
 :::
-### 22.2.2. Verbos com preverbio
+### 22.2.2. Verbos com prefixo
 
-#### 22.2.2.1. Raízes em vogal longa (exceto -ā) ou em consoante
+#### 22.2.2.1. Raízes em vogal longa (exceto -ā) ou consoante
 
 ::: grammar-box
 
-**(maioritariamente) raiz de grau zero + -ya**
+**(geralmente) raiz no grau profundo + -ya**
 
 :::
 **Exemplos:**
 
 ::: indent
-⟪उपनीय⟫ "depois de ter / haver aproximado (...)"
+⟪उपनीय⟫ "depois que ele (...) trouxe / tinha trazido"
 
-⟪प्रभूय⟫ "depois de ter / haver sobressaído (...)" "depois de ter tido poder"
+⟪प्रभूय⟫ "depois que ele (...) se destacou / estava" "depois que ele (...) teve poder"
 
-⟪प्राप्य⟫ "depois de ter (...) alcançado"
+⟪प्राप्य⟫ "depois que ele (...) obteve / tinha obtido"
 :::
 #### 22.2.2.2. Raízes em -ā
 
 ::: grammar-box
 
-**raiz em grau forte inalterada + -ya**
+**raiz no grau pleno inalterada + -ya**
 
 :::
 **Exemplo:**
 
 ::: indent
-⟪उपस्थाय⟫ "tendo-se aproximado (...)" ; (mas sem preverbo: ⟪स्थित्वा⟫)
+⟪उपस्थाय⟫ "depois que ele (...) entrou / está" ; (mas sem prefixo: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Raízes que na forma fraca terminam em -i, -u, -ṛ curtos
+#### 22.2.2.3. Raízes que no grau profundo terminam em -i, -u, -ṛ curtos
 
 ::: grammar-box
 
-**Raiz de grau fraco + -tya**
+**raiz de grau profundo + -tya**
 
 :::
 **Exemplos:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "tendo louvado (...) em voz alta"
+⟪प्रस्तुत्य⟫ "depois que ele (...) louvou em voz alta / tinha louvado"
 
-⟪विस्मृत्य⟫ "tendo esquecido (...)"
+⟪विस्मृत्य⟫ "depois que ele (...) esqueceu / tinha esquecido"
 
-⟪संस्कृत्य⟫ "depois que ele preparou / tinha preparado (...) para o sacrifício"
+⟪संस्कृत्य⟫ "depois que ele (...) preparou para o sacrifício / tinha preparado"
 :::
-#### 22.2.2.4. Raízes em -am / -an, que no grau zero terminam em -a
+#### 22.2.2.4. Raízes em -am / -an, que no grau profundo terminam em -a
 
 ::: grammar-box
 
@@ -134,129 +135,109 @@ Raiz em **-a** + **-tya**
 ::: indent
 ⟪विगम्य⟫ ou ⟪विगत्य⟫ "depois que ele (...) passou / tinha passado"
 :::
-## 22.3. Lista de vocabulário
+## 22.3. Lista de palavras
 
-**⟪काम⟫ m.:** desejo, anseio; dádiva desejada, prazer sensual, amor, deus do amor
+**⟪काम⟫ m.:** desejo, anseio; presente desejado, prazer dos sentidos, amor, deus do amor
 
 ::: indent
-⟪कामम्⟫ Ac. advérbio: conforme o desejo, à vontade
+⟪कामम्⟫ Acus. adverbial: conforme o desejo, à vontade
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Fig.: ⟪कामदेवः⟫
+séc. XIX
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 
-deles:
+disso:
 
 ::: indent
-**⟪शक्ति⟫ f.:** o poder, a capacidade, a habilidade, a força; também: poder divino, personificado como uma companheira feminina, especialmente de ⟪शिव⟫
+**⟪शक्ति⟫ f.:** a capacidade, o poder, habilidade, força; também: força divina, personificada como companheira feminina especialmente de ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** o Poderoso (epíteto de ⟪इन्द्र⟫)
+**⟪शक्र⟫ m.:** o poderoso (epíteto de ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Fonte da imagem: [Detalhes](/licenses#lekt2203))
+Calcutá = কলকাতা
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** merecer algo (ser digno de algo), poder, ser obrigado a, dever (na 2ª pessoa, ⟪अर्ह्⟫ + infinitivo é frequentemente usado como uma ordem branda: "Tu deverias")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** merecer algo (ser digno de algo), dever, estar obrigado a, deve (na 2ª pessoa, ⟪अर्ह्⟫ + infinitivo é frequentemente usado como um comando suave: "Você deveria")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: um digno. No budismo e jainismo: alguém que alcançou a libertação final
+**⟪अर्हन्त्⟫ 3** Part. Pres. P: um digno. No budismo e no jainismo: alguém que alcançou a libertação final
 :::
-**⟪व्रत⟫ n.:** voto, dever religioso, observância religiosa (promete-se algo à divindade para obter algo dela. Exemplo: uma mãe promete entregar sua filha como prostituta do templo (⟪देवदासी⟫) se sua filha se recuperar. Importantes ⟪व्रत⟫ hoje: jejum; abstinência de alimentos que se ama; abstinência sexual; leitura de escrituras sagradas; execução de certos ritos; alimentação de brâmanes e similares. Resumidamente sobre os ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Em detalhe: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Lá, pp. 253 - 462, lista de ⟪व्रत⟫ e festivais religiosos ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** voto, obrigação religiosa, observância religiosa (promete-se algo à divindade para obter algo dela. Exemplo: uma mãe promete entregar sua filha como prostituta sagrada (⟪देवदासी⟫) se sua filha recuperar a saúde. ⟪व्रत⟫ importantes hoje: jejum; abstinência de alimentos apreciados; abstinência sexual; leitura dos textos sagrados; realização de certos rituais; alimentação de brâmanes etc. Breve sobre ⟪व्रत⟫: Walker, Hindu World Vol. II, p. 581ss. Detalhado: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. Ali p. 253 - 462 lista de ⟪व्रत⟫ e festas religiosas ("a seguinte lista ... não pretende ser exaustiva" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sânscrito: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** pastar, vaguear, mover-se, agitar-se, agir, praticar algo, executar (p. ex. **⟪व्रतं⟫ ⟪चर्⟫**: praticar um voto, esp. abstinência sexual)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sânscrito: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** pastorear, andar errante, mover-se, agir, exercer algo, realizar (por exemplo **⟪व्रतं चर्⟫**: praticar um voto, especialmente abstinência sexual)
 
-daí:
+disso:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** móvel; n.: o que se move = animais (em oposição às plantas)
+**⟪चर ३⟫:** móvel; n.: o móvel = animais (em contraste com as plantas)
 
 **⟪चरण⟫ n., m.:** pé
 
 **⟪चरित⟫ n.:** conduta de vida, feitos da vida
 
-**⟪ब्रह्मचर्य⟫ n.:** prática do Veda (⟪ब्रह्मन्⟫) = estudo do Veda na primeira fase da vida (a do ⟪ब्रह्मचारिन्⟫), que exige estrita abstinência sexual; por isso também: abstinência sexual, vida celibatária
+**⟪ब्रह्मचर्य⟫ n.:** realização do Veda (⟪ब्रह्मन्⟫) = estudo do Veda na primeira etapa da vida (a do ⟪ब्रह्मचारिन्⟫), que exige rigorosa abstinência sexual; portanto também: abstinência sexual, estilo de vida celibatário
 :::
 ::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2201))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2201))
 :::
 ## 22.4. Exercício
 
-**A) Forme e traduza o absolutivo dos seguintes verbos:**
+**A) Forme e traduza o Absoluto para os seguintes verbos:**
 
-1.  ⟪आप्⟫
-2.  ⟪प्राप्⟫
-3.  ⟪समास्⟫
-4.  ⟪आस्⟫
-5.  ⟪समि⟫
-6.  ⟪संस्कृ⟫
-7.  ⟪कृ⟫
-8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 formas)
-10.  ⟪जि⟫
-11.  ⟪विजि⟫
-12.  ⟪तन्⟫
-13.  ⟪दह्⟫
-14.  ⟪उपदिश्⟫
-15.  ⟪नी⟫
-16.  ⟪पच्⟫
-17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
-19.  ⟪प्रच्छ्⟫
-20.  ⟪बुध्⟫
-21.  ⟪सम्बुध्⟫
-22.  ⟪भज्⟫
-23.  ⟪भू⟫
-24.  ⟪प्रभू⟫
-25.  ⟪मन्⟫
-26.  ⟪मुच्⟫
-27.  ⟪विमुच्⟫
-28.  ⟪मृ⟫
-29.  ⟪यज्⟫
-30.  ⟪लभ्⟫
-31.  ⟪उपलभ्⟫
-32.  ⟪वच्⟫
-33.  ⟪प्रवच्⟫
-34.  ⟪वद्⟫
-35.  ⟪प्रवद्⟫
-36.  ⟪हन्⟫
+1. ⟪आप्⟫
+2. ⟪प्राप्⟫
+3. ⟪समास्⟫
+4. ⟪आस्⟫
+5. ⟪समि⟫
+6. ⟪संस्कृ⟫
+7. ⟪कृ⟫
+8. ⟪गम्⟫
+9. ⟪उपगम्⟫ (2 formas)
+10. ⟪जि⟫
+11. ⟪विजि⟫
+12. ⟪तन्⟫
+13. ⟪दह्⟫
+14. ⟪उपदिश्⟫
+15. ⟪नी⟫
+16. ⟪पच्⟫
+17. ⟪उपपद्⟫
+18. ⟪पा १⟫
+19. ⟪प्रच्छ्⟫
+20. ⟪बुध्⟫
+21. ⟪सम्बुध्⟫
+22. ⟪भज्⟫
+23. ⟪भू⟫
+24. ⟪प्रभू⟫
+25. ⟪मन्⟫
+26. ⟪मुच्⟫
+27. ⟪विमुच्⟫
+28. ⟪मृ⟫
+29. ⟪यज्⟫
+30. ⟪लभ्⟫
+31. ⟪उपलभ्⟫
+32. ⟪वच्⟫
+33. ⟪प्रवच्⟫
+34. ⟪वद्⟫
+35. ⟪प्रवद्⟫
+36. ⟪हन्⟫
 
-**B) Traduza e analise os compostos em sânscrito:**
+**B) Traduza e resolva as compostas em Sânscrito:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
-
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
 **C) Transforme as frases acima (exceto as frases 8 e 10) em construções passivas**
 
 ::: media
 ![](/images/lekt2204.webp)
-Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt2204))
+Fig.: ⟪अन्नं पक्त्वा⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt2204))
 :::
-
-

@@ -1,10 +1,11 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: "Lição 7"
+subtitle: "A oração verbal com objeto direto"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 7
@@ -204,7 +205,7 @@ A 5ª classe de presente forma um chamado radical de presente atemático, ou sej
 ::: media
 ![](/images/lekt0701.webp)
 Fig.: Era esta a planta védica do Soma?: Agário-das-moscas: *Amanita muscaria* (L.) Lam.
-(Fonte da imagem: [Detalhes](/licenses#lekt0701))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0701))
 :::
 - **phala** n. ⟪फल⟫ : fruto (também em sentido figurado: fruto (cármico) de uma ação)
 - **nṛtya** n. ⟪नृत्य⟫ : dança
@@ -223,7 +224,7 @@ Fig.: Era esta a planta védica do Soma?: Agário-das-moscas: *Amanita muscaria*
 ::: media
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, século VIII/IX.
-(Fonte da imagem: [Detalhes](/licenses#lekt0704))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
@@ -263,7 +264,7 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, século VIII/IX.
 ::: media
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Sacrifício védico = **yajña** m. = ⟪यज्ञ⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt0702))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0702))
 :::
 **E) Forme o acusativo (dvitīyā) sg. e pl. para todos os substantivos aprendidos até agora.**
 
@@ -284,7 +285,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Sacrifício védico = **yajña** m. = 
 ::: media
 ![](/images/lekt0703.webp)
 Fig.: A que deus se oferece sacrifício aqui? Resposta: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Fonte da imagem: [Detalhes](/licenses#lekt0703))
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt0703))
 :::
 9. O que mastiga este homem santo?
 10. O que espremem estes (aqui)?

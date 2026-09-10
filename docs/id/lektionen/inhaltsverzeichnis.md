@@ -137,24 +137,24 @@ Kutipan Mingguan
 
 ## [Pelajaran 12](lektion12)
 
-*   1\. Partisip Perfek Pasif (PPP)
+*   1\. Partisip Perfek Pasif (Partisip pasif lampau)
 *   1.1. Skema untuk Verba Transitif
 *   1.2. Skema I untuk Verba Intransitif dan Verba Pergerakan
 *   1.3. Skema II untuk Verba Intransitif dan Verba Pergerakan
-*   2\. Tentang Makna PPP
-*   3\. Pembentukan PPP
-*   3.1. PPP dengan akhiran -ta (kta)
+*   2\. Tentang Makna Partisip pasif lampau
+*   3\. Pembentukan Partisip pasif lampau
+*   3.1. Partisip pasif lampau dengan akhiran -ta (kta)
 *   3.1.1. Tanpa Vokal Penghubung -i- (aniṭ)
 *   3.1.2. Dengan Vokal Penghubung -i- (seṭ)
 *   4\. Hukum Gabungan Bunyi dalam Kata
 *   5\. Daftar Kata
-*   5.1. Kalimat Pasif dan PPP dari akar kata yang telah dipelajari sejauh ini
+*   5.1. Kalimat Pasif dan Partisip pasif lampau dari akar kata yang telah dipelajari sejauh ini
 *   6\. Latihan
 
 ## [Pelajaran 13](lektion13)
 
-*   1\. PPP pada -na-
-*   2\. Lanjutan tentang penggunaan PPP
+*   1\. Partisip pasif lampau pada -na-
+*   2\. Lanjutan tentang penggunaan Partisip pasif lampau
 *   3\. Penentuan atributif dari nomina (tata letak kata)
 *   4\. Pembentukan adjektiva pada -mant dan -vant (taddhita)
 *   5\. Penurunan akar nomina
@@ -260,8 +260,8 @@ Kutipan Mingguan
 *   2.2. Kata kerja dengan prefiks
 *   2.2.1. Akar berakhiran vokal panjang (kecuali -ā) atau konsonan
 *   2.2.2. Akar berakhiran -ā
-*   2.2.3. Akar yang berakhiran pada -i, -u, -ṛ pendek dalam bentuk reduksi (Tingkat Rendah)
-*   2.2.4. Akar berakhiran -am / -an, yang berakhiran pada -a dalam bentuk reduksi (Tingkat Rendah)
+*   2.2.3. Akar yang berakhiran dengan -i, -u, -ṛ pendek pada tingkat rendah (Guna)
+*   2.2.4. Akar berakhiran -am / -an, yang berakhiran dengan -a pada tingkat rendah
 *   3\. Daftar kata
 *   4\. Latihan
 
@@ -272,27 +272,27 @@ Kutipan Mingguan
 *   3\. Infinitif (⟪तुमुन्⟫) untuk akar-akar yang telah dipelajari sejauh ini
 *   4\. Daftar kata
 *   5\. Latihan
-*   6\. Latihan pengulangan
+*   6\. Latihan ulangan
 
 ## [Pelajaran 24](lektion24)
 
 *   1\. Dativ (⟪चतुर्थी⟫ = "akhiran kasus keempat")
 *   2\. Pembentukan Dativ (⟪चतुर्थी⟫)
 *   2.1. Stamm konsonan
-*   2.2. Kata tanya (Fragepronomen)
-*   2.3. Kata ganti demonstratif (Demonstrativpronomina)
+*   2.2. Kata tanya (interogatif)
+*   2.3. Kata ganti demonstratif
 *   2.4. Stamm vokal
-*   3\. Sandhi untuk -ai dan -au berakhiran
+*   3\. Sandhi dari -ai dan -au di akhir kata
 *   4\. Daftar kata
 *   5\. Latihan
 *   6\. Latihan lebih lanjut mengenai penggunaan Dativ
 
 ## [Pelajaran 25](lektion25)
 
-*   1\. Pembentukan Ablativ (⟪पञ्चमी⟫ = "akhiran kasus kelima")
-*   2\. Penggunaan Ablativ (⟪पञ्चमी⟫)
-*   3\. Sufiks -⟪तस्⟫
-*   4\. Cara lain untuk mengekspresikan alasan (Begründungen)
+*   1\. Pembentukan Ablatif (⟪पञ्चमी⟫ = "akhiran kasus kelima")
+*   2\. Penggunaan Ablatif (⟪पञ्चमी⟫)
+*   3\. Suffix -⟪तस्⟫
+*   4\. Cara lain untuk mengekspresikan alasan
 *   5\. Daftar kata
 *   6\. Latihan
 *   7\. ⟪सुभाषितानि⟫
@@ -300,13 +300,13 @@ Kutipan Mingguan
 
 ## [Pelajaran 26](lektion26)
 
-*   1\. Hukum Cerebralisations untuk -s- di tengah kata
-*   2\. Hukum Cerebralisations untuk Dentale di tengah kata
+*   1\. Hukum Cerebralisasi untuk -s- di tengah kata
+*   2\. Hukum Cerebralisasi untuk Dentals di tengah kata
 *   3\. Sandhi kata untuk Palatal, Guttural, ṣ, h + -s
-*   4\. Hukum Dissimilasi Hauch Grassmann (Hukum Dissimilasi Hauch Grassmann)
-*   5\. Sandhi kata untuk -m, -n sebelum sibilan (Zischlaut)
-*   6\. Penggunaan masa depan sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   7\. Pembentukan masa depan sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+*   4\. Hukum Dissimilasi Aspirasi Grassmann
+*   5\. Sandhi kata untuk -m, -n sebelum sibilan
+*   6\. Penggunaan Future Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   7\. Pembentukan Future Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 *   8\. Latihan
 
 ## [Pelajaran 27](lektion27)
@@ -314,7 +314,7 @@ Kutipan Mingguan
 *   1\. Penggunaan Lokativ (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
 *   2\. Pembentukan Lokativ (⟪सप्तमी⟫)
 *   2.1. Stamm konsonan
-*   2.2. Pronomina tanya, demonstratif, dan relatif
+*   2.2. Kata ganti tanya, demonstratif, dan relatif
 *   2.3. Stamm vokal
 *   3\. Gambaran umum akhiran kasus reguler (⟪विभक्ति⟫) untuk tunggal dan jamak
 *   4\. Sebuah bait dengan semua bentuk deklinasi tunggal untuk ⟪राम⟫
@@ -329,12 +329,12 @@ Kutipan Mingguan
 *   7.6. Maskulin akhiran -u: ⟪गुरु⟫
 *   7.7. Feminin akhiran -u: ⟪धेनु⟫#
 *   7.8. Feminin multisilaba akhiran -ī: ⟪देवी⟫
-*   7.9. Partisip present aktif akhiran -ant: ⟪सन्त्⟫
+*   7.9. Partisip present parasmaipada akhiran -ant: ⟪सन्त्⟫
 *   7.10. ⟪महान्त्⟫
 *   7.11. Maskulin dan Neutrum akhiran -vant / -mant: ⟪गुणवन्त्⟫
-*   7.12. Pronomina demonstratif: ⟪तद् । एतद् । इदम्⟫
-*   7.13. Pronomina relatif: ⟪यद्⟫
-*   7.14. Pronomina tanya: ⟪किम्⟫
+*   7.12. Kata ganti demonstratif: ⟪तद् । एतद् । इदम्⟫
+*   7.13. Kata ganti relatif: ⟪यद्⟫
+*   7.14. Kata ganti tanya: ⟪किम्⟫
 
 ## [Pelajaran 28](lektion28)
 
@@ -405,41 +405,52 @@ Kutipan Mingguan
 
 *   1\. Perfek (⟪लिट्⟫)
 *   2\. Perfek reduplikatif (⟪द्वित्वलिट्⟫)
-*   2.1. Derivasi akar (Tingkat Akar)
-*   2.2. Akhiran perfek (Akhiran Perfek)
+*   2.1. Derivasi akar (Penyesuaian akar)
+*   2.2. Akhiran Perfek 
 *   2.3. Vokal penghubung -i- (Bindevokal -i-)
-*   2.4. Reduplikasi akar yang dimulai dengan konsonan (Reduplikation konsonantisch anlautender Wurzeln)
-*   2.5. Reduplikasi akar yang dimulai dengan vokal (Reduplikation vokalisch anlautender Wurzeln)
-*   3\. Tipe-tipe perfek reduplikatif (Typen des reduplizierten Perfekts)
-*   4\. Perfek Tipe I: Perfek tanpa derivasi akar (Perfek tanpa Tingkat Akar)
-*   5\. Perfek II: Bentuk kuat tingkat tinggi, bentuk lemah tingkat rendah (tingkat akar tinggi, tingkat akar rendah)
+*   2.4. Reduplikasi akar yang diawali konsonan (Reduplikation konsonantisch anlautender Wurzeln)
+*   2.5. Reduplikasi akar yang diawali vokal (Reduplikation vokalisch anlautender Wurzeln)
+*   3\. Tipe-tipe Perfek reduplikatif 
+*   4\. Perfek Tipe I: Perfek tanpa derivasi akar 
+*   5\. Perfek II: Akar kuat tingkat tinggi (Hochstufe), akar lemah tingkat rendah (Tiefstufe)
 *   6\. Daftar kata (Wortliste)
-*   7\. Latihan (Übung)
+*   7\. Latihan (Latihan)
 *   8\. Latihan terjemahan (Übersetzungsübung)
 
 ## [Pelajaran 35](lektion35)
 
-*   1\. Perfek Tipe III: Bentuk kuat tingkat tinggi/tingkat panjang (Tingkat Akar Tinggi/Tingkat Panjang)
-*   1.1. Perfek Tipe IIIa: Bentuk kuat tingkat tinggi/tingkat panjang, bentuk lemah tingkat rendah (Tingkat Akar Tinggi/Tingkat Panjang, Tingkat Akar Rendah)
-*   1.2. Perfek Tipe IIIb: Bentuk kuat tingkat tinggi/tingkat panjang, bentuk kuat tingkat tinggi (Tingkat Akar Tinggi/Tingkat Panjang, Tingkat Akar Tinggi)
-*   2\. Perfek Tipe IV: Akar berakhiran -ā / -ai (Perfekt Typ IV: Wurzeln auf -ā / -ai)
-*   3\. Perfek Tipe V: Akar Konsonan-a-Konsonan (Perfek Tipe V: Akar Konsonan-a-Konsonan)
-*   3.1. Perfek Tipe Va: bentuk lemah tingkat rendah (Perfek Tipe Va: Tingkat Akar Rendah)
-*   3.2. Perfek Tipe Vb: Akar Konsonan-a-Konsonan, konsonan awal bukan gutural, aspirat, atau h. Bentuk lemah tanpa reduplikasi, dengan -e- (Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-)
-*   3.3. Perfek Tipe Vc: Akar Konsonan-a-Konsonan. Bentuk kuat tingkat tinggi (Perfek Tipe Vc: Akar Konsonan-a-Konsonan. Tingkat Akar Tinggi)
+*   1\. Perfek Tipe III: Akar kuat tingkat tinggi/tingkat panjang 
+*   1.1. Perfek Tipe IIIa: Akar kuat tingkat tinggi/tingkat panjang, akar lemah tingkat rendah
+*   1.2. Perfek Tipe IIIb: Akar kuat tingkat tinggi/tingkat panjang, akar kuat tingkat tinggi
+*   2\. Perfek Tipe IV: Akar berakhiran -ā / -ai
+*   3\. Perfek Tipe V: Akar Konsonan-a-Konsonan
+*   3.1. Perfek Tipe Va: akar lemah tingkat rendah
+*   3.2. Perfek Tipe Vb: Akar Konsonan-a-Konsonan, konsonan awal bukan gutural, aspirat, atau h. Akar lemah tanpa reduplikasi, dengan -e-
+*   3.3. Perfek Tipe Vc: Akar Konsonan-a-Konsonan. Akar kuat tingkat tinggi
 *   4\. Daftar kata (Wortliste)
-*   5\. Latihan (Übung)
+*   5\. Latihan (Latihan)
 
 ## [Pelajaran 36](lektion36)
 
-*   1\. Pembentukan khusus perfek (Pembentukan Khusus Perfek)
-*   2\. Perfek periphrastis (⟪अनुप्रयोगलिट्⟫) (Das periphrastische Perfekt)
-*   3\. Pasif perfek (Perfekt Passiv)
+*   1\. Bentuk-bentuk khusus Perfek 
+*   2\. Perfek periphrastis (⟪अनुप्रयोगलिट्⟫)
+*   3\. Pasif Perfek (Perfekt Passiv)
 *   4\. Daftar kata (Wortliste)
-*   5\. Latihan (Übung)
-*   6\. Perfek (⟪लिट्⟫) untuk akar-akar yang telah dipelajari sejauh ini (Das Perfekt zu den bisher gelernten Wurzeln)
+*   5\. Latihan (Latihan)
+*   6\. Perfek (⟪लिट्⟫) untuk akar-akar yang telah dipelajari sejauh ini
 *   7\. Latihan terjemahan (Übersetzungsübung)
-*   8\. Latihan pengulangan untuk morfologi (Latihan Pengulangan untuk Morfologi)
+*   8\. Latihan pengulangan tata bentuk (Latihan pengulangan tata bentuk)
+
+## [Pelajaran 36](lektion36)
+
+*   1\. Bentuk-bentuk khusus Perfek 
+*   2\. Perfek periphrastis (⟪अनुप्रयोगलिट्⟫)
+*   3\. Pasif Perfek (Perfekt Passiv)
+*   4\. Daftar kata (Wortliste)
+*   5\. Latihan (Latihan)
+*   6\. Perfek (⟪लिट्⟫) untuk akar-akar yang telah dipelajari sejauh ini
+*   7\. Latihan terjemahan (Übersetzungsübung)
+*   8\. Latihan pengulangan tata bentuk (Latihan pengulangan tata bentuk)
 
 ## [Pelajaran 37](lektion37)
 
@@ -455,7 +466,7 @@ Kutipan Mingguan
 *   4\. Pembentukan kata keterangan dengan sufiks adverbia
 *   5\. Komposita adverbia
 *   5.1. Komposita dengan kata keterangan atau kasus yang digunakan secara adverbia sebagai komponen belakang
-*   5.2. Penggunaan ⟪बहुव्रीहि⟫ secara adverbia
+*   5.2. Penggunaan adverbia dari ⟪बहुव्रीहि⟫
 *   5.3. Komposita ⟪अव्ययीभाव⟫
 *   6\. Sintaksis
 *   7\. Kata ganti tak tentu
@@ -470,19 +481,23 @@ Kutipan Mingguan
 
 *   1\. Pemecahan minggu ini
 *   2\. Perubahan bunyi nasal dalam kata
-*   3\. Deklinasi stam pada -n
-*   3.1. Nomina pada -an serta nomina -man atau -van setelah vokal
-*   3.2. Nomina pada -man atau -van setelah konsonan
-*   3.3. Maskulin dan Netral pada -in, -min, -vin
-*   4\. Tentang pembentukan nomina: sufiks ⟪तद्धित⟫ -in
+*   3\. Deklinasi stema berakhiran -n
+*   3.1. Nomina berakhiran -an serta nomina -man atau -van setelah vokal
+*   3.2. Nomina berakhiran -man atau -van setelah konsonan
+*   3.3. Maskulin dan Netral berakhiran -in, -min, -vin
+*   4\. Tentang pembentukan nomina: sufiks -in ⟪तद्धित⟫
 *   5\. Sintaksis mengenai ⟪नामन्⟫
 *   6\. Sintaksis mengenai ⟪आत्मन्⟫
-*   7\. Stam berakhiran konsonan sebagai komponen depan komposita
-*   8\. Stam pada -an sebagai komponen belakang ⟪बहुव्रीहि⟫
+*   7\. Stema berakhiran konsonan sebagai komponen depan komposita
+*   8\. Stema berakhiran -an sebagai komponen belakang ⟪बहुव्रीहि⟫
 *   9\. Daftar kata
 *   10\. Latihan
 *   11\. Daftar kata untuk latihan terjemahan
 *   12\. Latihan terjemahan
+
+## [Pelajaran 39](lektion39)
+
+## [Pelajaran 39](lektion39)
 
 ## [Pelajaran 39](lektion39)
 
@@ -531,49 +546,49 @@ Kutipan Mingguan
 
 *   1\. ⟪सुभाषिते⟫  (dua peribahasa)
 *   2\. Pembentukan ⟪कृत्⟫-lainnya pada -a
-*   2.1. Partisip Present (⟪लडादेशः⟫) Ā, Partisip Present (⟪लडादेशः⟫) Pasif, Partisip Masa Depan (⟪ऌडादेशः⟫) Ā
-*   2.1.1. Pokok Present Tematik, Pasif dan Masa Depan
-*   2.1.2. Kelas Pokok Present Athematik
-*   2.2. "Partisip" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
+*   2.1. Partisip Aktif (⟪लडादेशः⟫) Ā, Partisip Pasif (⟪लडादेशः⟫) Aktif, Partisip Masa Depan (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Pokok Kata Presentatif Tematik, Pasif dan Masa Depan
+*   2.1.2. Kelas Presentatif Athematis
+*   2.2. "Partisip" Kebutuhan Pasif (Gerundivum) (⟪कृत्य⟫)
 *   2.2.1. Suffix -⟪तव्य⟫ / -⟪तव्या⟫
 *   2.2.2. Suffix -⟪अनीय⟫ / -⟪अनीया⟫
 *   2.2.3. Suffix -⟪य⟫ / -⟪या⟫
 *   2.2.4. Suffix -⟪त्य⟫ / ⟪त्या⟫ (bukan -⟪य⟫ / -⟪या⟫)
-*   2.3. Sintaksis "Partisip" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
+*   2.3. Sintaksis "Partisip" Kebutuhan Pasif (Gerundivum) (⟪कृत्य⟫)
 *   2.4. Perbedaan dalam penggunaan Suffix Gerundiv
 *   2.5. Tidak ada hubungan dengan ⟪सु⟫- dan ⟪दुस्⟫-
-*   3\. Daftar kata
+*   3\. Daftar Kata
 *   4\. Latihan
 
 ## [Pelajaran 42](lektion42)
 
-*   1\. Pokok pada -ṛ
-*   1.1. Pokok dengan tingkat panjang pada pokok kuat
-*   1.2. Pembentukan Nomina: Suffix ⟪कृत्⟫- -⟪तृ⟫
-*   1.3. Pokok dengan tingkat tinggi pada pokok kuat
-*   1.4. Pokok pada -ṛ dalam Komposita
-*   2\. Daftar kata
+*   1\. Pokok Kata pada -ṛ
+*   1.1. Pokok Kata dengan Derajat Panjang pada Pokok Kuat
+*   1.2. Pembentukan Nomina: Suffix ⟪कृत्⟫ -⟪तृ⟫
+*   1.3. Pokok Kata dengan Derajat Tinggi pada Pokok Kuat
+*   1.4. Pokok Kata pada -ṛ dalam Komposita
+*   2\. Daftar Kata
 *   2.1. Beberapa sebutan kekerabatan
 *   3\. Latihan
-*   4\. Latihan terjemahan
+*   4\. Latihan Terjemahan
 
 ## [Pelajaran 43](lektion43)
 
-*   1\. Akhiran personal orang ke-2 (⟪मध्यमः⟫ = "orang \<middle\>")
-*   2\. Pembentukan bentuk verbal orang ke-2 (⟪मध्यमः⟫)
-*   2.1. Pokok Tematik
-*   2.1.1. Kelas Present Pertama (⟪भ्वादि⟫)
-*   2.1.2. Kelas Present Keenam (⟪तुदादि⟫)
-*   2.1.3. Kelas Present Keempat (⟪दिवादि⟫)
-*   2.1.4. Kelas Present Kesepuluh (⟪चुरादि⟫) dan Kausatif
+*   1\. Akhiran Personal Orang Kedua (⟪मध्यमः⟩ = "Orang \<Kedua\>")
+*   2\. Pembentukan Bentuk Verbal Orang Kedua (⟪मध्यमः⟩)
+*   2.1. Pokok Kata Tematik
+*   2.1.1. Kelas Presentatif Pertama (⟪भ्वादि⟩)
+*   2.1.2. Kelas Presentatif Keenam (⟪तुदादि⟩)
+*   2.1.3. Kelas Presentatif Keempat (⟪दिवादि⟩)
+*   2.1.4. Kelas Presentatif Kesepuluh (⟪चुरादि⟩) dan Kausatif
 *   2.1.5. Pasif
-*   2.1.6. Masa Depan (⟪ऌट्⟫)
-*   2.1.6.1. Pembentukan ⟪अनिट्⟫-
-*   2.1.6.2. Pembentukan ⟪सेट्⟫-
-*   3\. Kata ganti personal orang kedua
-*   4\. Daftar kata
+*   2.1.6. Masa Depan (⟪ऌट्⟩)
+*   2.1.6.1. Pembentukan ⟪अनिट्⟩
+*   2.1.6.2. Pembentukan ⟪सेट्⟩
+*   3\. Kata Ganti Personal Orang Kedua
+*   4\. Daftar Kata
 *   5\. Latihan
-*   6\. ⟪संवादः⟫ = Percakapan
+*   6\. ⟪संवादः⟩ = Percakapan
 
 ## [Pelajaran 44](lektion44)
 
@@ -686,7 +701,7 @@ Kutipan Mingguan
 *   2.3. ⟪तद्धित⟫-sufiks -eya
 *   3\. Pembentukan adverbia: Sufiks adverbia -śas
 *   4\. Komposita verbal yang menyatakan bahwa sesuatu menjadi atau dibuat menjadi apa yang sebelumnya bukan (⟪अभुततद्भावः⟫)
-*   4.1. Pembentukan cvi
+*   4.1. Pembentukan cvi-
 *   4.2. Sufiks -sāt
 *   5\. Pengulangan kata (⟪द्विरुक्तम्⟫)
 *   6\. Kata bilangan (⟪सम्ख्या⟩ f.)
@@ -711,11 +726,11 @@ Kutipan Mingguan
 *   3.2. Stem dengan ablaut stem
 *   4\. Dualis dari stem yang berakhir dengan vokal
 *   5\. Dvandva dualis
-*   6\. Dualis dari pronomina
-*   7\. Adjektiva pronominal
-*   8\. Deret tidak teratur
+*   6. Dualis kata ganti
+*   7. Adjektiva pronominal
+*   8\. Deret tak beraturan
 *   9\. Deklinasi komparatif pada -īyas
-*   10\. Metrik (pelajaran tentang ukuran baris)
+*   10\. Metrik (pelajaran tentang ukuran puisi)
 *   10.1. Pentingnya penentuan metrum
 *   10.2. Jenis-jenis metrum
 *   10.3. Kuantitas metris suku kata
@@ -741,10 +756,10 @@ Kutipan Mingguan
 ## [Pelajaran 56](lektion56)
 
 *   1\. Aorist Reduplikatif
-*   1.1. Pembentukan Aorist Kausatif dan Akar Kelas Ke-10
+*   1.1. Pembentukan Aorist Kausatif dan Akar Kelas Ke-10 Präsens
 *   2\. Injunktif
 *   3\. Kalangan Larangan
-*   ⟪स्म⟫
+*   4\. ⟪स्म⟫
 *   5\. Latihan
 
 ## [Pelajaran 57](lektion57)
@@ -755,26 +770,24 @@ Kutipan Mingguan
 ## [Pelajaran 58](lektion58)
 
 *   1\. Akhiran Primer Dual (⟪द्विवचनम्⟫)
-*   2\. Dual Kelas Presentatif Tema: Indikatif Present (⟪लट्⟫)
-*   2.1. Kelas Present Pertama (⟪भ्वादिगणः⟫)
-*   2.2. Kelas Present Keempat (⟪दिवादिगणः⟫)
-*   2.3. Kelas Present Keenam (⟪तुदादिगणः⟫)
-*   2.4. Kelas Present Kesepuluh (⟪चुरादिगणः⟫) dan Kausatif (⟪णिजन्त⟫)
+*   2\. Dual Kelas Präsens Tematis: Indikatif Präsens (⟪लट्⟫)
+*   2.1. Kelas Präsens Pertama (⟪भ्वादिगणः⟫)
+*   2.2. Kelas Präsens Keempat (⟪दिवादिगणः⟫)
+*   2.3. Kelas Präsens Keenam (⟪तुदादिगणः⟫)
+*   2.4. Kelas Präsens Kesepuluh (⟪चुरादिगणः⟫) dan Kausatif (⟪णिजन्त⟫)
 *   3\. Dual Futur Sederhana (⟪ऌत्⟫)
 *   3.1. ⟪अनिट्⟫
 *   3.2. ⟪सेट्⟫
 *   4\. Dual Pasif (Suffix -⟪यक्⟫)
-*   5\. Dual Kelas Present Atema: Indikatif Present (⟪लट्⟫)
-*   5.1. Kelas Present Kedua (⟪अदादिगणः⟫)
-*   5.2. Kelas Present Ketiga (⟪जुहोत्यादिगणः⟫)
-*   5.3. Kelas Present Kelima (⟪स्वादिगणः⟫)
-*   5.4. Kelas Present Kedelapan (⟪तनादिगणः⟫)
-*   5.5. Kelas Present Ketujuh (⟪रुधादिगणः⟫)
-*   5.6. Kelas Present Kesembilan (⟪क्र्यादिगणः⟫)
+*   5\. Dual Kelas Präsens Atomatis: Indikatif Präsens (⟪लट्⟫)
+*   5.1. Kelas Präsens Kedua (⟪अदादिगणः⟫)
+*   5.2. Kelas Präsens Ketiga (⟪जुहोत्यादिगणः⟫)
+*   5.3. Kelas Präsens Kelima (⟪स्वादिगणः⟫)
+*   5.4. Kelas Präsens Kedelapan (⟪तनादिगणः⟫)
+*   5.5. Kelas Präsens Ketujuh (⟪रुधादिगणः⟫)
+*   5.6. Kelas Präsens Kesembilan (⟪क्र्यादिगणः⟫)
 *   6\. Aorist 5: iṣ-Aorist
 *   7\. Latihan
-
-## [Pelajaran 59](lektion59)
 
 *   1\. Akhiran Sekunder dan Imperatif Dual (⟪द्विवचनम्⟫)
 *   2\. Dual Kelas Present Tematik: Optatif (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperatif (⟪लोट्⟫)

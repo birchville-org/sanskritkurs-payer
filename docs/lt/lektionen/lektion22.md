@@ -1,196 +1,197 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Pamoka 22"
+subtitle: "Absoliutyvas (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Absoliutyvas (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also
+Jei sanskritų kalboje norima išreikšti, kad vieno veikėjo (⟪कर्तृ⟫) veiksmas vyko prieš kitą to paties veikėjo veiksmą arba jį lydėjo kaip lydimasis aplinkybės faktas, vartojamas absoliutyvas (⟪क्त्वा । ल्यप्⟫). Taigi
 
-"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
+„atlikęs tai, jis daro tą“; „jis daro tai, tada jis daro tą“; „dėl šio jis daro tą“; „aš atėjau, pamačiau ir nugalėjau“ ir pan.
 
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (⟪कर्तृ⟫) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (⟪प्रथमा⟫)  oder Instrumentalis (⟪तृतीया⟫).
+Absoliutyvas yra veiksmažodžio prieveiksmis, t. y. jis nėra linksniuojamas ir nededinamas, tačiau visada – išskyrus keletą išimčių – turi tą patį veikėją (⟪कर्तृ⟫) kaip ir veiksmas, kuriam absoliutyvu nurodytas veiksmas yra ankstesnis arba jį lydi. Taigi absoliutyvo veikėjas stovi nominatyve (⟪प्रथमा⟫) arba instrumentalyje (⟪तृतीया⟫).
 
-Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
+Be sandūrų absoliutyvas yra vienas iš dažniausiai vartojamų reiškinių būdų sanskritų kalboje.
 
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
+Vertinant į vokiečių kalbą, reikėtų vengti nuolatinio žodžio „po to kai“ vartojimo. Vietoje jo reikėtų naudoti įprastus vokiečių kalboje laikinius sekos išraiškos būdus.
 
 **Schema:**
 
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
+(tollesnė absoliutyvo apibrėžtis: aplinkybės nurodymas, objektas ir kt.) - absoliutyvas - absoliutyvas - ... - absoliutyvas - ... veikėjas + veiksmažodinė sakinio dalis (aktyvi arba pasyvi)
 
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passivkonstruktion: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = pasyvioji konstrukcija: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**  
+„Vyras įeina į namus, mato mažą mergaitę ir su ja kalba.“
 
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Daugiskaita: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-## 22.2. Bildung des Absolutivums
+## 22.2. Absolutyvo daryba
 
 ::: grammar-box
-**Bildung des Absolutivums**
+**Absolutyvo daryba**
 
-*   Verben ohne Präverb: Absolutiv auf **-tvā**
-*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
+*   Veiksmažodžiai be priešdėlio: absolutyvas su **-tvā**
+*   Veiksmažodžiai su priešdėliu: absolutyvas su **-ya** arba **-tya**
 :::
-### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-
-::: grammar-box
-
-**Bildung:**
-
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
-
-Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "ohne getan zu haben"
-
-:::
-**Beispiele:**
-
-::: indent
-⟪आप्त्वा⟫ "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
-
-⟪आसित्वा⟫ "nachdem er (...) gesessen war / ist"
-
-⟪इत्वा⟫ "nachdem er (...) gegangen war / ist"
-
-⟪स्थित्वा⟫ "nachdem er (...) gestanden war / ist"
-
-⟪जित्वा⟫ "nachdem er (...) gesiegt hat / hatte"
-
-⟪उक्त्वा⟫ "nachdem er (...) gesprochen hat / hatte"
-:::
-### 22.2.2. Verben mit Präverb
-
-#### 22.2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
+### 22.2.1. Veiksmažodžiai be priešdėlio: absolutyvas su -⟪त्वा⟫
 
 ::: grammar-box
 
-**(meist) tiefstufige Wurzel + -ya**
+**Daryba:**
+
+(dažniausiai) žemojo laipsnio šaknis forma, kurią ji turi prieš PPP + **-tvā** (**-⟪त्वा⟫**)
+
+Tik neigiamasis **a-** / **an-** suderinamas su priesaga **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "nebus padaręs"
 
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
 ::: indent
-⟪उपनीय⟫ "nachdem er (...) herangeführt hat / hatte"
+⟪आप्त्वा⟫ "po to, kai jis / ji / tai / aš / tu / mes / jūs / jie / mes abu / jūs abu / jie abu pasiekė"
 
-⟪प्रभूय⟫ "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
+⟪आसित्वा⟫ "po to, kai jis (...) sėdėjo"
 
-⟪प्राप्य⟫ "nachdem er (...) erlangt hat / hatte"
+⟪इत्वा⟫ "po to, kai jis (...) ėjo"
+
+⟪स्थित्वा⟫ "po to, kai jis (...) stovėjo"
+
+⟪जित्वा⟫ "po to, kai jis (...) nugalėjo"
+
+⟪उक्त्वा⟫ "po to, kai jis (...) kalbėjo"
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+### 22.2.2. Veiksmažodžiai su priešdėliu
+
+#### 22.2.2.1. Šaknys su ilgomis balsėmis (išskyrus -ā) arba su priebalsiais
 
 ::: grammar-box
 
-**unverändert hochstufige Wurzel + -ya**
+**(dažniausiai) žemojo laipsnio šaknis + -ya**
 
 :::
-**Beispiel:**
+**Pavyzdžiai:**
 
 ::: indent
-⟪उपस्थाय⟫ "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: ⟪स्थित्वा⟫)
+⟪उपनीय⟫ "po to, kai jis (...) atvedė"
+
+⟪प्रभूय⟫ "po to, kai jis (...) išsikišo" "po to, kai jis (...) turėjo valdžią"
+
+⟪प्राप्य⟫ "po to, kai jis (...) pasiekė"
 :::
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
+#### 22.2.2.2. Šaknys su -ā
 
 ::: grammar-box
 
-**tiefstufige Wurzel + -tya**
+**nekeičiama aukštojo laipsnio šaknis + -ya**
 
 :::
-**Beispiele:**
+**Pavyzdys:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "nachdem er (...) laut gepriesen hat / hatte"
-
-⟪विस्मृत्य⟫ "nachdem er (...) vergessen hat / hatte"
-
-⟪संस्कृत्य⟫ "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+⟪उपस्थाय⟫ "po to, kai jis (...) įžengė" ; (bet be priešdėlio: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.3. Šaknys, kurios žemajame laipsnyje baigiasi trumpomis -i, -u, -ṛ
 
 ::: grammar-box
 
-**Optionell:**
-
-Wurzel auf **-am** / **-an** + **-ya**
-
-oder:
-
-Wurzel auf **-a** + **-tya**
+**žemiausiojo laipsnio šaknis + -tya**
 
 :::
-**Beispiel:**
+**Pavyzdžiai:**
 
 ::: indent
-⟪विगम्य⟫ oder ⟪विगत्य⟫ "nachdem er (...) vergangen ist / war"
+⟪प्रस्तुत्य⟫ "po to, kai (...) garsiai pagyrė / buvo pagerbęs"
+
+⟪विस्मृत्य⟫ "po to, kai (...) pamiršo / buvo pamiršęs"
+
+⟪संस्कृत्य⟫ "po to, kai (...) paruošė aukai / buvo paruošęs"
 :::
-## 22.3. Wortliste
+#### 22.2.2.4. Šaknys, baigiančios -am / -an, kurios žemiausiame laipsnyje baigiasi -a
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+::: grammar-box
+
+**Pasirenkama:**
+
+Šaknis, baigianti **-am** / **-an** + **-ya**
+
+arba:
+
+Šaknis, baigianti **-a** + **-tya**
+
+:::
+**Pavyzdys:**
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪विगम्य⟫ arba ⟪विगत्य⟫ "po to, kai (...) praėjo / buvo praėjęs"
+:::
+## 22.3. Žodynas
+
+**⟪काम⟫ m.:** noras, troškimas; pageidaujama dovana, jutiminė malonė, meilė, meilės dievas
+
+::: indent
+⟪कामम्⟫ Akk. adverbialiai: pagal norą, iš visos širdies
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Pav.: ⟪कामदेवः⟫
+XIX a.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** būti pajėgiam, mokėti
 
-davon:
+iš to:
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
+**⟪शक्ति⟫ f.:** gebėjimas, galia, sugebėjimas; taip pat: dieviška jėga, personifikuota kaip moteriškoji palydovė ypač ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
+**⟪शक्र⟫ m.:** galingasis (titulas ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
+Pav.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** nusipelnyti (būti vertingas kažkam), turėti teisę, būti įpareigotam daryti ką, turėtų (antrojo asmens atveju ⟪अर्ह्⟫ + infinityvas dažnai vartojamas kaip švelnus įsakymas: "Tu turėtum")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** Part. Präs. P: A worthy person. In Buddhism and Jainism: someone who has attained final liberation
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** Vow, religious duty, religious observance (one promises something to the deity in order to receive something from them. Example: a mother promises to dedicate her daughter as a temple prostitute (⟪देवदासी⟫) if her daughter recovers. Important ⟪व्रत⟫ today: Fasting; Abstinence from foods one loves; Sexual abstinence; Reading sacred texts; Performing certain rituals; Feeding Brahmins etc. Briefly on ⟪व्रत⟫: Walker, Hindu World Vol. II, p. 581f. Detailed: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There pp. 253 - 462 List of ⟪व्रत⟫ and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** to graze, to wander about, to move, to act, to practice something, to perform (e.g. **⟪व्रतं चर्⟫**: practice a vow, esp. sexual abstinence)
 
-davon:
+from this:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** mobile; n.: the movable = animals (in contrast to plants)
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ n., m.:** foot
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ n.:** way of life, deeds
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ n.:** performance of the Veda (⟪ब्रह्मन्⟫) = study of the Veda in the first stage of life (that of the ⟪ब्रह्मचारिन्⟫), which requires strict sexual abstinence; therefore also: sexual abstinence, celibate way of life
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Pav.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2201))
 :::
-## 22.4. Übung
+## 22.4. Pratimas
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
+**A) Sudarykite ir išverkitė absoliutyvą su šiais veiksmažodžiais:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -200,7 +201,7 @@ Goa = ⟪गोंय⟫
 6.  ⟪संस्कृ⟫
 7.  ⟪कृ⟫
 8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 Formen)
+9.  ⟪उपगम्⟫ (2 formos)
 10.  ⟪जि⟫
 11.  ⟪विजि⟫
 12.  ⟪तन्⟫
@@ -209,7 +210,7 @@ Goa = ⟪गोंय⟫
 15.  ⟪नी⟫
 16.  ⟪पच्⟫
 17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
+18.  ⟪पा १⟫
 19.  ⟪प्रच्छ्⟫
 20.  ⟪बुध्⟫
 21.  ⟪सम्बुध्⟫
@@ -229,33 +230,15 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
+**B) Išverkite ir išskirkite sanskrito sandaugas:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen**
+**C) Sudarykite iš aukščiau pateiktų sakinių (išskyrus 8 ir 10 sakinius) pasyvias konstrukcijas**
 
 ::: media
 ![](/images/lekt2204.webp)
-Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Bildquelle: [Details](/licenses#lekt2204))
+Pav.: ⟪अन्नं पक्त्वा⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2204))
 :::
 

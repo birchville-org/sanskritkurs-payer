@@ -176,9 +176,9 @@ For ⟪भू⟫ 1P, the Root Aorist is formed as follows:
 | 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
->> ### 54.6.1. The Aorist of the 3rd person singular Passive
+### 54.6.1. The Aorist of the 3rd person singular Passive
 
->> A special form of the Root Aorist is the 3rd person singular Passive Aorist. This can be formed from all roots.
+A special form of the Root Aorist is the 3rd person singular Passive Aorist. This can be formed from all roots.
 
 ::: grammar-box
 **Formation:**
@@ -229,7 +229,7 @@ Example:
 ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alongside ⟪अलाभि⟫ : "it was received"
 
 
->> (The remaining forms of the passive are rendered in the Aorist by Ātmanepada forms).
+(The remaining forms of the passive are rendered in the Aorist by Ātmanepada forms).
 :::
 ## 54.7. Exercise
 

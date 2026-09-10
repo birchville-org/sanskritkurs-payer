@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 48]"
 uebung_id: 48
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,154 +7,147 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 48
+# Bài tập 48
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion:
+A) Dịch các câu ⟪सुभाषितानि⟩ ở đầu bài học:
 
-⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Sprich die Wahrheit!
+⟪१⟩. **⟪सत्यं वद ॥ १ ॥⟩**
+Hãy nói sự thật!
 
-⟪२⟫. **⟪धर्मं⟫ ⟪चर⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Wandle nach Recht und Sitte!
+⟪२⟩. **⟪धर्मं चर ॥ २ ॥⟩**
+Hãy sống theo chính nghĩa và phong tục!
 
-⟪३⟫. **⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Betrachte deine Mutter als Gottheit!
+⟪३⟩. **⟪मातृदेवो भव ॥ ३ ॥⟩**
+Hãy xem mẹ của ngươi như một vị thần!
 
-⟪४⟫. **⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Würde wird durch Freigebigkeit erlangt.
+⟪४⟩. **⟪गौरवं प्राप्यते दानात् ॥ ४ ॥⟩**
+Danh dự đạt được nhờ sự hào phóng.
 
-⟪५⟫. **⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वी⟫it ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Was morgen zu tun ist, soll man heute tun. (Verschiebe nicht auf morgen, was du heute kannst besorgen!)
+⟪५⟩. **⟪श्वः कार्यमद्य कुर्वी⟩**it ⟪॥ ५ ॥⟩
+Những gì cần làm vào ngày mai, hãy làm hôm nay. (Đừng trì hoãn đến ngày mai những gì bạn có thể làm hôm nay!)
 
-⟪६⟫. **⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Ein Mensch ohne Bildung ist ein Vieh.
+⟪६⟩. **⟪विद्याविहीनः पशुः ॥ ६ ॥⟩**
+Một người không được giáo dục là một con vật.
 
-⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Die Kürze ist der Schmuck des Grammatikers.
+⟪७⟩. **⟪लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥⟩**
+Sự ngắn gọn là vẻ đẹp của nhà ngữ pháp.
 
 ::: media
 ![](/images/uebung083.webp)
-Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
-(Bildquelle: [Details](/licenses#uebung083))
+Hình: ⟪विद्याविहीनः पशुः⟩
+(Nguồn ảnh: [Chi tiết](/licenses#uebung083))
 :::
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ)
+## Dịch sang tiếng Phạn (Câu mệnh lệnh)
 
-B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs (vorzugsweise Wurzeln der 2. und 3. Klasse):
+B) Dịch sang tiếng Phạn sử dụng câu mệnh lệnh (ưu tiên các gốc động từ lớp 2 và 3):
 
-⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Oder: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
-Nachdem du einen Sohn bekommen hast, verlasse die Familie!
+⟪१⟩. **⟪पुत्रं लब्ध्वा कुलं जहाहि ॥ १ ॥⟩** (Hoặc: **... ⟪जहीहि⟩ / ⟪जहिहि ॥⟩**)
+Sau khi có con, hãy rời bỏ gia đình!
 
-⟪२⟫. **⟪पौरवाः⟫ ⟪कृतपापेभ्यो⟫ ⟪बिभीत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
+⟪२⟩. **⟪पौरवाः कृतपापेभ्यो बिभीत ॥ २ ॥⟩**
+Hậu duệ của Puru, hãy sợ hãi những kẻ đã làm điều ác!
 
-⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Die Mädchen sollen den Bettlern Speise geben.
+⟪३⟩. **⟪कन्या भिक्षुभ्यो ऽन्नं ददतु ॥ ३ ॥⟩**
+Các cô gái nên cho những kẻ ăn xin thức ăn.
 
-⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Oder: **⟪वचाम⟫ ⟪॥⟫**)
-Wir wollen sprechen.
+⟪४⟩. **⟪ब्रवाम ॥ ४ ॥⟩** (Hoặc: **⟪वचाम ॥⟩**)
+Chúng ta hãy nói chuyện.
 
 ::: media
 ![](/images/uebung085.webp)
-Abb.: ⟪वचाम⟫
-(Bildquelle: [Details](/licenses#uebung085))
+Hình: ⟪वचाम⟩
+(Nguồn ảnh: [Chi tiết](/licenses#uebung085))
 :::
-⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Mit den Worten "Komm, Mönch!" nahm der Buddha den Mann in den Orden auf.
+⟪५⟫. **"⟪एहि भिक्ष⟫" ⟪इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥⟫**
+Với lời nói "Hãy đến, vị Sa-môn!", Đức Phật đã thu nhận người đàn ông vào hàng ngũ Tăng-già.
 
-⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Seid wahre Menschen (Nachfahren Manus)!
+⟪६⟫. **⟪सन्मानवाः स्त ॥ ६ ॥⟫**
+Hãy là những con người chân chính (hậu duệ của Manu)!
 
-⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Ich will Śiva und die anderen Götter preisen.
+⟪७⟫. **⟪शिवादिदेवान्स्तवानि ॥ ७ ॥⟫**
+Tôi muốn ca ngợi Śiva và các vị thần khác.
 
-⟪८⟫. **⟪आख्याहि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Erzähle!
+⟪८⟫. **⟪आख्याहि ॥ ८ ॥⟫**
+Hãy kể đi!
 
-⟪९⟫. **⟪नरकान्मिमीष्व⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Miss die Höllen aus!
+⟪९⟫. **⟪नरकान्मिमीष्व ॥ ९ ॥⟫**
+Hãy đo lường địa ngục!
 
-⟪१०⟫. **⟪एतेषु⟫ ⟪शयनेषु⟫ ⟪शेरताम्⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen auf diesen Lagern liegen.
+⟪१०⟫. **⟪एतेषु शयनेषु शेरताम् ॥ १० ॥⟫**
+Chúng sẽ nằm trên những giường này.
 
-⟪११⟫. **⟪पुरुषव्याघ्रा⟫ ⟪इन्द्रशत्रून्घ्नन्तु⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Die tigergleichen Männer sollen die Feinde Indras töten.
+⟪११⟫. **⟪पुरुषव्याघ्रा इन्द्रशत्रून्घ्नन्तु ॥ ११ ॥⟫**
+Những người đàn ông tựa như hổ sẽ giết chết kẻ thù của Indra.
 
-⟪१२⟫. **⟪समाधेहि⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (Oder: **⟪समाधत्स्व⟫ ⟪॥⟫**)
-Konzentriere dich!
+⟪१२⟫. **⟪समाधेहि ॥ १२ ॥⟫** (Hoặc: **⟪समाधत्स्व ॥⟫**)
+Hãy tập trung!
 
-⟪१३⟫. **⟪अत्राध्वम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Sitzt hier!
+⟪१३⟫. **⟪अत्राध्वम् ॥ १३ ॥⟫**
+Hãy ngồi đây!
 
-⟪१४⟫. **⟪तानि⟫ ⟪फलान्यदाम⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Wir wollen diese Früchte essen.
+⟪१४⟫. **⟪तानि फलान्यदाम ॥ १४ ॥⟫**
+Chúng ta sẽ ăn những quả này.
 
-⟪१५⟫. **⟪दासो⟫ ⟪धेनुं⟫ ⟪दोग्धु⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Der Diener soll die Kuh melken.
+⟪१५⟫. **⟪दासो धेनुं दोग्धु ॥ १५ ॥⟫**
+Người đầy tớ sẽ vắt sữa con bò.
 
-⟪१६⟫. **⟪राजन्धर्मं⟫ ⟪जनांश्च⟫ ⟪पाहि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-König, schütze das Recht und die Leute!
+⟪१६⟫. **⟪राजन्धर्मं जनांश्च पाहि ॥ १६ ॥⟫**
+Tâu Hoàng thượng, hãy bảo vệ công lý và dân chúng!
 
-⟪१७⟫. **⟪शिष्याञ्शाधि⟫ ⟪वेदम्⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫** (Oder: **... ⟪शाधि⟫ ...**)
-Lehre die Schüler den Veda!
+⟪१७⟫. **⟪शिष्याञ्शाधि वेदम् ॥ १७ ॥⟫** (Hoặc: **... ⟪शाधि⟫ ...**)
+Hãy dạy học trò về Veda!
 
-⟪१८⟫. **⟪नवानि⟫ ⟪वस्त्राणि⟫ ⟪वस्ताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll neue Kleider anziehen.
+⟪१८⟫. **⟪नवानि वस्त्राणि वस्ताम् ॥ १८ ॥⟫**
+Người ấy sẽ mặc quần áo mới.
 
-⟪१९⟫. **⟪मम⟫ ⟪गृह⟫ ⟪आसताम्⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Sie sollen in meinem Haus sitzen.
+⟪१९⟫. **⟪मम गृह आसताम् ॥ १९ ॥⟫**
+Họ sẽ ngồi trong nhà của tôi.
 
-⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Ehemänner sollen ihre Gattinnen erhalten.
+⟪२०⟫. **⟪भर्तारो भार्या बिभ्रतु ॥ २० ॥⟫**
+Chồng vợ sẽ nuôi dưỡng vợ của họ.
 
 ::: media
 ![](/images/uebung076.webp)
-Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
-(Bildquelle: [Details](/licenses#uebung076))
+Hình.: ⟪तानि फलान्यदाम⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung076))
 :::
 ---
 
-## Dharma der Frauen (⟪स्त्रीधर्मः⟫)
+## Pháp của phụ nữ (⟪स्त्रीधर्मः⟫)
 
-Aus der **⟪मनुस्मृति⟫ ⟪९⟫**:
+Từ **⟪मनुस्मृति ९⟫**:
 
-**⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫**  
-**⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Die Männer müssen ihre Frauen Tag und Nacht abhängig machen. Frauen, die an den Sinnesobjekten haften, müssen unter die eigene Kontrolle gebracht werden.
+**⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫**  
+**⟪विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥⟫**  
+Đàn ông phải khiến vợ mình phụ thuộc vào họ ngày đêm. Những người phụ nữ bám víu vào các đối tượng giác quan cần được đưa dưới sự kiểm soát của chính mình.
 
-**⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमारे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫**  
-**⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Der Vater behütet sie in der Kindheit, der Gatte in der Jugend, und die Söhne behüten sie im Alter; eine Frau ist nicht für die Eigenständigkeit geeignet.
+Từ **⟪मनुस्मृति ९⟫**:
 
-**⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫**  
-**⟪मृते⟫ ⟪भर्तरि⟫ ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**  
-Tadelnswert ist der Vater, der sie nicht zur rechten Zeit verheiratet; tadelnswert ist der Gatte, der sich ihr nicht zur rechten Zeit nähert; und tadelnswert ist der Sohn, der seine Mutter nach dem Tod des Vaters nicht beschützt.
+**⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫**  
+**⟪विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥⟫**  
+Đàn ông phải khiến vợ mình phụ thuộc vào họ ngày đêm. Những người phụ nữ bám víu vào các đối tượng giác quan cần được đưa dưới sự kiểm soát của chính mình.
 
-**⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫**  
-**⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**  
-Besonders vor geringfügigen Anlässen sind Frauen zu schützen; denn ungeschützt würden sie zwei Familien in Kummer stürzen.
+**⟪पिता रक्षति कौमारे भर्ता रक्षति यौवने ।⟫**  
+**⟪रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥ ३ ॥⟫**  
+Cha bảo vệ con gái khi còn nhỏ, chồng bảo vệ vợ lúc thanh xuân, và các con trai bảo vệ mẹ khi về già; một người phụ nữ không phù hợp với sự độc lập.
 
-**⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫**  
-**⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-Da sie dies als die höchste Pflicht aller Stände erkennen, bemühen sich selbst schwache Gatten, ihre Ehefrau zu beschützen.
+**⟪काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।⟫**  
+**⟪मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता ॥ ४ ॥⟫**  
+Người cha đáng chê trách nếu không gả con gái đúng thời; người chồng đáng chê trách nếu không đến gần vợ đúng lúc; và người con trai đáng chê trách nếu không bảo vệ mẹ sau khi cha qua đời.
 
-**⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫**  
-**⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**  
-Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, seinen Lebenswandel, seine Familie, sich selbst und seine religiöse Pflicht.
+**⟪सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।⟫**  
+**⟪द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥ ५ ॥⟫**  
+Phụ nữ cần được bảo vệ đặc biệt trước những cớ nhỏ nhặt; vì nếu không được bảo vệ, họ sẽ đẩy hai gia đình vào nỗi khổ.
 
-**⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
-**⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (⟪जायात्वम्⟫) der Gattin, dass der Gatte in ihr wiedergeboren wird.
-
+**⟪इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।⟫**  
+**⟪यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥⟫**  
+Nhận thức điều này là bổn phận tối cao của tất cả các giai cấp, ngay cả những người chồng yếu đuối cũng nỗ lực bảo vệ vợ mình.
 ::: media
 ![](/images/uebung084.webp)
-Abb.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung084))
+Ảnh: ⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung084))
 :::
 ::: media
-![](/images/uebung077.webp)
-Abb.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
-(Bildquelle: [Details](/licenses#uebung077))
-:::
 

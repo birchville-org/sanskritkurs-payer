@@ -1,14 +1,15 @@
 ---
-title: "Exercise 23"
+title: "Pratimas 23"
 uebung_id: 23
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 23
+# Pratimas 23
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+A) Šios šaknys sudaro infinityvą be jungiamosios balsės -i-. Sudarykite infinityvus, atsižvelgdami į garsų pokyčius:
 
 1.  ⟪आप्⟫ — ⟪आप्तुम्⟫
 2.  ⟪इ⟫ — ⟪एतुम्⟫
@@ -23,8 +24,8 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 11.  ⟪द्विष्⟫ — ⟪द्वेष्टुम्⟫
 12.  ⟪नी⟫ — ⟪नेतुम्⟫
 13.  ⟪पद्⟫ — ⟪पत्तुम्⟫
-14.  ⟪पा⟫ ⟪१⟫ — ⟪पातुम्⟫
-15.  ⟪पा⟫ ⟪२⟫ — ⟪पातुम्⟫
+14.  ⟪पा १⟫ — ⟪पातुम्⟫
+15.  ⟪पा २⟫ — ⟪पातुम्⟫
 16.  ⟪भज्⟫ — ⟪भक्तुम्⟫
 17.  ⟪कृष्⟫ — ⟪कर्ष्टुम्⟫ / ⟪क्रष्टुम्⟫
 18.  ⟪सु⟫ — ⟪सोतुम्⟫
@@ -48,7 +49,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 36.  ⟪पच्⟫ — ⟪पक्तुम्⟫
 37.  ⟪सद्⟫ — ⟪सत्तुम्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
+B) Šios šaknys sudaro infinityvą su jungiamąja balsė -i-. Sudarykite infinityvus:
 
 1.  ⟪आस्⟫ — ⟪आसितुम्⟫
 2.  ⟪नृत्⟫ — ⟪नर्तितुम्⟫
@@ -58,7 +59,7 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  ⟪वृत्⟫ — ⟪वर्तितुम्⟫
 7.  ⟪कुप्⟫ — ⟪कोपितुम्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+C) Šios šaknys gali būti vartojamos su jungiamąja balsė arba be jos:
 
 1.  ⟪अश्⟫ — ⟪अशितुम्⟫ / ⟪अष्टुम्⟫
 2.  ⟪इष्⟫ — ⟪एष्टुम्⟫ / ⟪एषितुम्⟫
@@ -66,156 +67,153 @@ C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
 4.  ⟪मुह्⟫ — ⟪मोहितुम्⟫ / ⟪मग्धुम्⟫ / ⟪मोढुम्⟫
 5.  ⟪सह्⟫ — ⟪सहितुम्⟫ / ⟪सोढुम्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+D) Išversti ir išskirti sandaugas:
 
-⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-Um einen Himmel zu erlangen, wünschen Menschen, Götter mit Opfern zu verehren.
+⟪१⟫. **⟪नराः स्वर्गं लब्धुं देवान्यज्ञ्नैर्यष्टुमिच्छन्ति ॥१॥⟫**
+Norėdami pasiekti dangų, žmonės trokšta garbinti dievus aukomis.
 
-⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
-(⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
-Wenn jemand viel Verdienstliches getan hat, kann ein Mensch, der frei von Bösem ist, nicht in eine Hölle kommen.
+⟪२⟫. **⟪महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥⟫**
+(⟪महत्पुण्यम् । गतं पापं यस्य तेन जनेन⟫)
+Jei kas nors padarė daug nuopelnų, žmogus, kuris yra laisvas nuo blogio, negali patekti į pragarą.
 
-⟪३⟫. **⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫**
-(⟪सञ्जनः⟫ ⟪।⟫ ⟪न⟫ ⟪धर्मम्⟫)
-Da verdienstvolle Taten fruchtbar sind, will ein guter Mensch kein Unrecht tun.
+⟪३⟫. **⟪फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫**
+(⟪सञ्जनः । न धर्मम्⟫)
+Kad kaip nuopelnai apdovanoti darbai būtų derlingi, geras žmogus nenori daryti neteisybės.
 
-⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-Um die Welten zu erlösen, lehrt Buddha die edlen Wahrheiten.
+⟪४⟫. **⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫**
+Norėdamas išgelbėti pasaulius, Budha moko šventųjų tiesų.
 
-⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
-(⟪शूद्राणां⟫ ⟪जनः⟫)
-Śūdras dürfen mit einem Brahmanen zusammen nicht essen.
+⟪५⟫. **⟪शूद्रजनो ब्राह्मणेन सहात्⟫tu⟪ं नार्हति ॥५॥⟫**
+(⟪शूद्राणां जनः⟫)
+Šūdras negali valgyti kartu su brahmanu.
 
-⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
-(⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
-Voll Gier sind die Männer gegangen, um die wunderschöne Dienerin tanzen zu sehen.
+⟪६⟫. **⟪लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥⟫**
+(⟪लोभेन सम्पन्ना नराः । सम्पन्नं रूपं यस्यास्ताम्⟫)
+Pilni geidulio vyrai nuėjo pamatyti, kaip šokta gražiausia tarnaitė.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+⟪७⟫. **⟪शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥⟫**
+Jei brahmanas turėjo lytinių santykių su šūdra, jis negali aukoti.
 
-⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
-(⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die Grossstadt gegangen, um den Meister zu treffen.
+⟪८⟫. **⟪धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫**
+(⟪श्रोतुं कामो यस्याः सा । पुत्रेण सह । महन्नगरम्⟫)
+Kadangi ji norėjo išgirsti apie dharma, brahmanė su savo sūnumi nuvyko į didmiestį susitikti su mokytoju.
 
 ---
 
 ## Scholarly Fragment
 
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषा्मधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
-Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervorhebende Unterschied der Menschen liegt im Dharma. Ohne Dharma sind sie dem Vieh gleich.
+⟪आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषा्मधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫  
+Eating, sleeping, fear and sex are common to humans and cattle. The distinguishing difference of humans lies in dharma. Without dharma, they are equal to cattle.
 
 ::: media
 ![](/images/uebung035.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
-(Bildquelle: [Details](/licenses#uebung035))
+Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
+(Image source: [Details](/licenses#uebung035))
 :::
 ---
 
-## Zusätzliche Übungen
+## Additional Exercises
 
-A) Übersetzen Sie ins Sanskrit:
+A) Translate into Sanskrit:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
-**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫**
+1. The five (⟪पञ्च⟫) "torments" are: ignorance, false belief in the self, attachment, aversion and clinging to the body.
+**⟪अविद्यास्मितारागद्वेषाभिनिवेशाः पञ्च क्लेशाः ।⟫**
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
-**⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫ ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫ ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫**
+2. Knowledge is acquired for obedience to a teacher, or for much money, or in exchange for knowledge. A fourth way of acquiring knowledge does not exist.
+**⟪गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫**
 
-3\. Ein Niedriger spricht, handelt aber nicht; ein Guter spricht nicht, sondern handelt nur.
-**⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥⟫**
+3. A low person speaks but does not act; a good person does not speak, but only acts.
+**⟪निचो वदति न कुरुते वदति न साधुः करोत्येव ॥⟫**
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
-**⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫**
+4. The auxiliary sciences of the Vedas are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫) and calendar science.
+**⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫**
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
-**⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫**
+5. Yoga is the stopping of the activities of the thinking organ.
+**⟪योगश्चित्तवृत्तिनिरोधः ॥⟫**
 
-6\. Recht siegt, nicht Unrecht; Wahrheit siegt, nicht Lüge; Geduld siegt, nicht Zorn; Gott siegt, nicht ein Gegengott. (Passiv)
-**⟪धर्मो⟫ ⟪जयति⟫ ⟪नाधर्मः⟫ ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪।⟫ ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫ ⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪॥⟫**
+6. Right conquers, not wrong; truth conquers, not falsehood; patience conquers, not anger; God conquers, not a counter-god. (Passive)
+**⟪धर्मो जयति नाधर्मः सत्यं जयति नानृतम् । क्षमा जयति न क्रोधो देवो जयति नासुरः ॥⟫**
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
-**⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫**
+7. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. Leadership with this staff is politics.
+**⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥⟫**
 
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
-**⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫ ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫ ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫ ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫**
+8. Wife, son, and slave, these three (⟪त्रयस्⟫) are without property according to tradition. Whatever comes to them belongs to the one who owns these (three).
+**⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥⟫**
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
-**⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫ ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ ⟪।⟫ ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫ ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ⟪॥⟫**
+9. Mosquitoes desire a wound, rulers desire property, lowly people desire conflict, good people desire peace.
+**⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः । नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः ॥⟫**
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
-**⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪।⟫ ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪।⟫ ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥⟫**
+10. The specific duty of a Brahmin is: study, teaching, sacrificing as the host of sacrifices, sacrificing on behalf of others, giving and receiving; that of a Kṣatriya is: study, sacrificing as the host of sacrifices, giving, livelihood through weapons, protecting beings; that of a Vaiśya: study, sacrificing as the host of sacrifices, giving, agriculture, cattle-keeping and trade; that of a Śūdra: obedience to the twice-born, economic activity, work (⟪कर्म⟫) of craftsmen and performers.
+**⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च । क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च । वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च । शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥⟫**
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
-**⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫**
+11. Clarification of consciousness occurs due to the meditative development of friendly goodwill, compassion, sympathetic joy and equanimity, which have happiness and suffering, good and evil as their object.
+**⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥⟫**
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
-**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫**
+12. The poor have many sons, although they do not wish for them. The rich have no son. Strange is the movement of fate.
+**⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫**
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
-**⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫ ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫ ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫ ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫**
+13. Who does not kill a woman’s body (⟪वपुस्⟫ f.) with slender waist, wide hips, red lips, black eyes, curved navel, upright breasts.
+**⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫**
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ (f.):
+B) Decline in all cases known to you ⟪क्षत्रिया⟫ (f.):
 
-| Kasus | Singular | Plural |
+| Case | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪क्षत्रिया⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
-| 2. Akk. | ⟪क्षत्रियाम्⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
+| 2. Acc. | ⟪क्षत्रियाम्⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
 | 3. Instr. | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
 | 6. Gen. | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
 
 ::: grammar-box
-⟪१⟫. ⟪सह्⟫ (1Ā, ertragen)
+⟪१⟫. ⟪सह्⟫ (1Ā, to bear)
 
-| Form | Wert |
+| Form | Value |
 | :--- | :--- |
-| Präs. Ind. | ⟪सहते⟫ |
-| Passiv | ⟪सह्यते⟫ |
+| Pres. Ind. | ⟪सहते⟫ |
+| Passive | ⟪सह्यते⟫ |
 | PPP | ⟪सोढ⟫ |
-| Absolutiv 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
-| Absolutiv 2 | -⟪सह्य⟫ |
-| Infinitiv | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
+| Absolute 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
+| Absolute 2 | -⟪सह्य⟫ |
+| Infinitive | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
 
-⟪२⟫. ⟪पा⟫ (trinken / hüten)
+⟪२⟫. ⟪पा⟫ (to drink / to guard)
 
-| Form | trinken (1P) | hüten (2P) |
+| Form | to drink (1P) | to guard (2P) |
 | :--- | :--- | :--- |
-| Präs. Ind. | ⟪पिबति⟫ | ⟪पाति⟫ |
-| Passiv | ⟪पीयते⟫ | ⟪पायते⟫ |
+| Pres. Ind. | ⟪पिबति⟫ | ⟪पाति⟫ |
+| Passive | ⟪पीयते⟫ | ⟪पायते⟫ |
 | PPP | ⟪पीत⟫ | ⟪पात⟫ |
-| Absolutiv 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
-| Absolutiv 2 | -⟪पाय⟫ | -⟪पाय⟫ |
-| Infinitiv | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
+| Absolute 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
+| Absolute 2 | -⟪पाय⟫ | -⟪पाय⟫ |
+| Infinitive | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
 
-⟪३⟫. ⟪वच्⟫ (2P, sprechen)
+⟪३⟫. ⟪वच्⟫ (2nd person singular, to speak)
 
-| Form | Wert |
+| Form | Value |
 | :--- | :--- |
-| Präs. Ind. | ⟪वक्ति⟫ |
-| Passiv | ⟪उच्यते⟫ |
+| Pres. Ind. | ⟪वक्ति⟫ |
+| Passive | ⟪उच्यते⟫ |
 | PPP | ⟪उक्त⟫ |
-| Absolutiv 1 | ⟪उक्त्वा⟫ |
-| Absolutiv 2 | -⟪उच्य⟫ |
-| Infinitiv | ⟪वक्तुम्⟫ |
+| Absolutive 1 | ⟪उक्त्वा⟫ |
+| Absolutive 2 | -⟪उच्य⟫ |
+| Infinitive | ⟪वक्तुम्⟫ |
 
-⟪४⟫. ⟪हन्⟫ (2P, erschlagen)
+⟪४⟫. ⟪हन्⟫ (2nd person singular, to strike down)
 
-| Form | Wert |
+| Form | Value |
 | :--- | :--- |
-| Präs. Ind. | ⟪हन्ति⟫ / ⟪घन्ति⟫ |
-| Passiv | ⟪हन्यते⟫ |
+| Pres. Ind. | ⟪हन्ति⟫ / ⟪घन्ति⟫ |
+| Passive | ⟪हन्यते⟫ |
 | PPP | ⟪हत⟫ |
-| Absolutiv 1 | ⟪हत्वा⟫ |
-| Absolutiv 2 | -⟪हत्य⟫ |
-| Infinitiv | ⟪हन्तुम्⟫ |
+| Absolutive 1 | ⟪हत्वा⟫ |
+| Absolutive 2 | -⟪हत्य⟫ |
+| Infinitive | ⟪हन्तुम्⟫ |
 :::
 ::: media
 ![](/images/uebung036.webp)
-Abb.: ⟪बालाः⟫ ⟪पिबन्ति⟫
-(Bildquelle: [Details](/licenses#uebung036))
+Fig.: ⟪बालाः पिबन्ति⟫
+(Image source: [Details](/licenses#uebung036))
 :::
 

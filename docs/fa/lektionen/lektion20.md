@@ -1,10 +1,11 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "درس بیستم"
+subtitle: "ترکیب‌های مالکیتی = ⟪बहुव्रीहि⟫ مذکر"
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # درس ۲۰
@@ -15,7 +16,7 @@ status: stable
 ![](/images/lekt2004.webp)
 تصویر: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 جودپور = ⟪जोधपुर⟫
-(منبع تصویر: [جزئیات](/licenses#lekt2004))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2004))
 :::
 ⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "کسی که برنج زیادی دارد"
 
@@ -144,7 +145,7 @@ status: stable
 ![](/images/lekt2005.webp)
 تصویر: ⟪देवा⟫ ⟪यीश्वादयः⟫
 عیسی و سایر خدایان، احمدآباد
-(منبع تصویر: [جزئیات](/licenses#lekt2005))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2005))
 :::
 
 ## 20.4. بهووریهی با جزء اول حالت‌دار
@@ -172,7 +173,7 @@ status: stable
 ![](/images/lekt2001.webp)
 تصویر: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 سیام‌رئپ (ក្រុងសៀមរាប)، کامبوج، قرن نهم پس از میلاد
-(منبع تصویر: [جزئیات](/licenses#lekt2001))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2001))
 :::
 ## 20.5. بهووریهی با جزء اول قیدی
 
@@ -199,7 +200,7 @@ status: stable
 ![](/images/lekt2006.webp)
 تصویر: ⟪सपुत्रा⟫
 مادایا پرادش
-(منبع تصویر: [جزئیات](/licenses#lekt2006))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2006))
 :::
 ## 20.6. صرف بخش پایانی یک باهوو‌ریه
 
@@ -236,7 +237,7 @@ status: stable
 ![](/images/lekt2007.webp)
 تصویر: ⟪कृतकटा⟫
 چنای = சென்னை
-(منبع تصویر: [جزئیات](/licenses#lekt2007))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2007))
 :::
 ## ۲۰.۸. رابطهٔ باهووریها و جملهٔ موصولی
 
@@ -248,7 +249,7 @@ status: stable
 ::: media
 ![](/images/lekt2002.jpg)
 تصویر: هرمان یاکوبی
-(منبع تصویر: [جزئیات](/licenses#lekt2002))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2002))
 :::
 این ممکن است درست باشد. با این حال، هندوها بسیاری از موارد را توصیفی و زینتی می‌دانند، در حالی که ما آن‌ها را «مفهومی ضروری یا مهم» می‌پنداریم.
 
@@ -262,7 +263,7 @@ status: stable
 ![](/images/lekt2008.webp)
 تصویر: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(منبع تصویر: [Details](/licenses#lekt2008))
+(منبع تصویر: [Details](/fa/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : انجام‌دهنده، سازنده، مؤثر
 
@@ -491,7 +492,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 ![](/images/lekt2010.webp)
 تصویر: ⟪तपस्⟫
 بودا به عنوان یک زاهد پیش از بینش رهایی‌بخش خود، گاندارا، قرن ۲/۳ میلادی
-(منبع تصویر: [جزئیات](/licenses#lekt2010))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2010))
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (برای آگاهی از سامانه سانکیا به باشام، شگفتی‌ها ص ۳۲۴ و بعد مراجعه کنید.)
 
@@ -527,7 +528,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 ![](/images/lekt2009.webp)
 تصویر: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 کارناتاکا
-(منبع تصویر: [جزئیات](/licenses#lekt2009))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2009))
 :::
 درباره مالکیت:
 
@@ -553,7 +554,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 ![](/images/lekt2003.webp)
 تصویر: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 سانچی = ⟪सांची⟫
-(منبع تصویر: [جزئیات](/licenses#lekt2003))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt2003))
 :::
 یک ⟪सुभाषितम्⟫ دیگر:
 

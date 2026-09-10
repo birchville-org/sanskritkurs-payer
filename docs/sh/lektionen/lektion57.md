@@ -1,22 +1,23 @@
 ---
-title: Lektion 57
+title: "Lekcija 57"
 subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 57
+# Lesson 57
 
 ## 57.1. Aorist 4: s-Aorist
 
 ::: grammar-box
-**Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschliesslich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.**
+**The s-aorist is formed for most ⟪अनिट्⟫-roots, provided they do not exclusively have another aorist form. Optional ⟪अनिट्⟫-roots can generally optionally form either this or the iṣ-aorist. Also ⟪अनिट्⟫-roots, which form the ⟪परस्मैपद⟫ after the 1st, 2nd or 6th form of the aorist, form the ⟪आत्मनेपद⟫ according to the s-aorist.**
 
-**Bildung: Augment + Wurzel + s + athematische Sekundärendung**
+**Formation: Augment + Root + s + athematic secondary ending**
 :::
-Tabelle der Endungen mit Stammbildungssuffix
+Table of endings with stem-forming suffix
 
 ::: grammar-box
 
@@ -28,47 +29,47 @@ Tabelle der Endungen mit Stammbildungssuffix
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).**
+**The general sound law is applied that a sibilant between two plosives drops out (cf. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), i.e. the stem-forming suffix -s- before endings that begin with -t- or -th- drops out (but not after nasals or r-).**
 
-Beispiele:
+Examples:
 
 :::
 ::: indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫:sig[⟪क्षिप्त⟫]
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
 :::
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden:
+Such forms could also belong to the root aorist and probably partly do.
+The Indian grammarians also counted forms like ⟪अकृत⟫ (3.sg.Ā) as s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound law for the s-aorist:
 
 ::: indent
-"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-."
+"After a short vowel, the 'endings' that begin with -st- or -sth- lose their -s-."
 :::
-Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten.
+Otherwise, the phonological rules for connecting final consonants with s- must be observed.
 
-Für -dhvam gilt:
+For -dhvam the following applies:
 
 ::: grammar-box
-**Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt.**
+**The -dh- of -dhvam is replaced by -ḍh- after all non-a/ā vowels as well as after -r.**
 
 :::
 ::: indent
-z.B. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
+e.g. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
-**Form der Wurzel:**
+**Form of the root:**
 
-*   **⟪परस्मैपद⟫ : Dehnstufe**
+*   **⟪परस्मैपद⟫ : Guṇa stage**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Wurzeln mit auslautendem i/ī/u/ū: Hochstufe**
-    *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt**
-    *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe**
-    *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)**
+*   **Roots with final i/ī/u/ū: Strong stage**
+*   **final -ṝ is replaced by -īr or -ūr**
+*   **ablaut-capable roots ending in ā/e/o: Weak stage**
+*   **other root vowels: unchanged (i.e. usually in the weak stage)**
 :::
-Beispiele:
+Examples:
 
 |   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +78,7 @@ Beispiele:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -87,20 +88,20 @@ Beispiele:
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ und ⟪सृज्⟫ haben im ⟪परस्मैपद⟫ Dehnstufe mit steigendem Diphton -rā-:**
+**⟪दृश्⟫ and ⟪सृज्⟫ have in the ⟪परस्मैपद⟫ Guṇa stage with rising diphthong -rā-:**
 
 :::
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+The Aorist of other roots with -ṛ- in the penultimate position can also be formed this way:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
-Paradigmen:
+Paradigms:
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U "to lead"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -111,10 +112,10 @@ Paradigmen:
 
 ::: media
 ![](/images/lekt5701.webp)
-Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5701))
+Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८९१ १९५६⟫) ⟪। सो ऽनैषीद्दलितान् ॥⟫
+(Image source: [Details](/sh/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "tun"
+⟪कृ⟫ 8U "to do"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -123,7 +124,7 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | :sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | :sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
 
-⟪तुद्⟫ 6U "schlagen"
+⟪तुद्⟫ 6U "to strike"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -133,109 +134,104 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box
-**Unregelmässige Formen:**
+**Irregular forms:**
 
-**1.  Wurzeln auf Nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) bilden den s-Aorist hochstufig:**
-**⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**Daneben gibt es für ⟪गम्⟫ die regelmässigen tiefstufigen Formen:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)**
+**1. Roots ending in a nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) form the s-aorist with strong grade:**
+**⟪अगंसि । अमंसि । अरंस्त⟫**
+**In addition, for ⟪गम्⟫ there are the regular weak-grade forms:**
+**⟪अगसि⟫ (« \*a-gm-si) ⟪। अगथास् । अगत⟫ (in the P, ⟪गम्⟫ has the thematic aorist)**
 
-2.  ⟪पद्⟫ 4Ā ist regelmässig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist:
+2. ⟪पद्⟫ 4Ā is regular (e.g. ⟪अपत्सि⟫), but in the 3.sg.Ā it takes the form of the passive root aorist:
+⟪अपादि⟫ "he went"
+
+3. ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
 :::
-::: indent
-⟪अपादि⟫ "er ging"
-:::
+## 57.2. Exercise
 
-3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen:
-::: indent
-⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
-:::
-## 57.2. Übung
+A) Translate and identify the following forms without aids, and form the corresponding aorist forms. Except for causatives and roots that form the s-aorist, the class of the corresponding aorist is given in parentheses:
 
-A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Ausser bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben:
+1. ⟪पेचिथ⟫
+2. ⟪अवक्⟫ (⟪३⟫)
+3. ⟪सोष्यसि⟫
+4. ⟪छिन्दे⟫
+5. ⟪कुरुषे⟫
+6. ⟪आधत्ते⟫
+7. ⟪पद्यते⟫
+8. ⟪जिगाय⟫
+9. ⟪जिघ्रामः⟫ (⟪१⟫, ⟪६⟫)
+10. ⟪शासति⟫ (⟪२⟫)
+11. ⟪स्तुवे⟫
+12. ⟪दिग्धे⟫
+13. ⟪प्लवध्वे⟫
+14. ⟪तस्थिथ⟫ (⟪१⟫)
+15. ⟪बिभ्यति⟫
+16. ⟪ततर्प⟫
+17. ⟪जुहुथ⟫
+18. ⟪ऊषुः⟫
+19. ⟪ससर्जिथ⟫
+20. ⟪लिल्यिरे⟫
+21. ⟪अत्याजयम्⟫
+22. ⟪सिध्यथ⟫ (⟪२⟫)
+23. ⟪निन्य⟫
+24. ⟪कर्षन्ति⟫
+25. ⟪अप्रच्छयन्⟫
 
-1.  ⟪पेचिथ⟫
-2.  ⟪अवक्⟫ (⟪३⟫)
-3.  ⟪सोष्यसि⟫
-4.  ⟪छिन्दे⟫
-5.  ⟪कुरुषे⟫
-6.  ⟪आधत्ते⟫
-7.  ⟪पद्यते⟫
-8.  ⟪जिगाय⟫
-9.  ⟪जिघ्रामः⟫ (⟪१⟫,⟪६⟫)
-10.  ⟪शासति⟫ (⟪२⟫)
-11.  ⟪स्तुवे⟫
-12.  ⟪दिग्धे⟫
-13.  ⟪प्लवध्वे⟫
-14.  ⟪तस्थिथ⟫ (⟪१⟫)
-15.  ⟪बिभ्यति⟫
-16.  ⟪ततर्प⟫
-17.  ⟪जुहुथ⟫
-18.  ⟪ऊषुः⟫
-19.  ⟪ससर्जिथ⟫
-20.  ⟪लिल्यिरे⟫
-21.  ⟪अत्याजयम्⟫
-22.  ⟪सिध्यथ⟫ (⟪२⟫)
-23.  ⟪निन्य⟫
-24.  ⟪कर्षन्ति⟫
-25.  ⟪अप्रच्छयन्⟫
+B) Translate and identify the following forms:
 
-B) Übersetzen und bestimmen Sie folgende Formen:
-
-1.  ⟪चेलुः⟫
-2.  ⟪जन्तुः⟫
-3.  ⟪अश्वसीत्⟫
-4.  ⟪ज्येष्ठायाः⟫
-5.  ⟪संयक्⟫
-6.  ⟪असे⟫
-7.  ⟪असि⟫
-8.  ⟪अचैष्ट⟫
-9.  ⟪अचेष्ट⟫
-10.  ⟪अभग्नम्⟫
-11.  ⟪भस्म⟫
-12.  ⟪हवींषि⟫
-13.  ⟪अद्राक्षीः⟫
-14.  ⟪शनैः⟫
-15.  ⟪अपन्थाः⟫
-16.  ⟪शत्रुह⟫
-17.  ⟪उदासीने⟫
-18.  ⟪कनीयान्⟫
-19.  ⟪कन्याम्⟫
-20.  ⟪आरम्⟫
-21.  ⟪रिपू⟫
-22.  ⟪अदात्⟫
-23.  ⟪आदत्⟫
-24.  ⟪अवोढ⟫
-25.  ⟪अवोचम्⟫
-26.  ⟪दिक्⟫
-27.  ⟪शुनोः⟫
-28.  ⟪यते⟫
-29.  ⟪येते⟫
-30.  ⟪याते⟫
-31.  ⟪चतस्रः⟫
-32.  ⟪परंपरायै⟫
-33.  ⟪विमलाभ्याम्⟫
-34.  ⟪ते⟫
-35.  ⟪रजसि⟫
-36.  ⟪रजसी⟫
-37.  ⟪विक्रेढ्वम्⟫
-38.  ⟪युष्मत्⟫
-39.  ⟪अघम्⟫
-40.  ⟪अभुक्थाः⟫
-41.  ⟪उत्थानाय⟫
-42.  ⟪अलुम्पत⟫
-43.  ⟪अलुपत⟫
-44.  ⟪अलुप्त⟫
-45.  ⟪अलुप्तम्⟫
-46.  ⟪वसिष्ठे⟫
-47.  ⟪वर्षिष्ठे⟫
-48.  ⟪अक्षैष्म⟫
-49.  ⟪अहृत⟫
-50.  ⟪कामधुग्भिः⟫
-51.  ⟪अमुत्र⟫
-52.  ⟪पत्युः⟫
-53.  ⟪क्षेपीयन्⟫
-54.  ⟪आदि्षि⟫
-55.  ⟪पाणी⟫
-56.  ⟪अस्प्राक्षम्⟫
-
+1. ⟪चेलुः⟫
+2. ⟪जन्तुः⟫
+3. ⟪अश्वसीत्⟫
+4. ⟪ज्येष्ठायाः⟫
+5. ⟪संयक्⟫
+6. ⟪असे⟫
+7. ⟪असि⟫
+8. ⟪अचैष्ट⟫
+9. ⟪अचेष्ट⟫
+10. ⟪अभग्नम्⟫
+11. ⟪भस्म⟫
+12. ⟪हवींषि⟫
+13. ⟪अद्राक्षीः⟫
+14. ⟪शनैः⟫
+15. ⟪अपन्थाः⟫
+16. ⟪शत्रुह⟫
+17. ⟪उदासीने⟫
+18. ⟪कनीयान्⟫
+19. ⟪कन्याम्⟫
+20. ⟪आरम्⟫
+21. ⟪रिपू⟫
+22. ⟪अदात्⟫
+23. ⟪आदत्⟫
+24. ⟪अवोढ⟫
+25. ⟪अवोचम्⟫
+26. ⟪दिक्⟫
+27. ⟪शुनोः⟫
+28. ⟪यते⟫
+29. ⟪येते⟫
+30. ⟪याते⟫
+31. ⟪चतस्रः⟫
+32. ⟪परंपरायै⟫
+33. ⟪विमलाभ्याम्⟫
+34. ⟪ते⟫
+35. ⟪रजसि⟫
+36. ⟪रजसी⟫
+37. ⟪विक्रेढ्वम्⟫
+38. ⟪युष्मत्⟫
+39. ⟪अघम्⟫
+40. ⟪अभुक्थाः⟫
+41. ⟪उत्थानाय⟫
+42. ⟪अलुम्पत⟫
+43. ⟪अलुपत⟫
+44. ⟪अलुप्त⟫
+45. ⟪अलुप्तम्⟫
+46. ⟪वसिष्ठे⟫
+47. ⟪वर्षिष्ठे⟫
+48. ⟪अक्षैष्म⟫
+49. ⟪अहृत⟫
+50. ⟪कामधुग्भिः⟫
+51. ⟪अमुत्र⟫
+52. ⟪पत्युः⟫
+53. ⟪क्षेपीयन्⟫
+54. ⟪आदि्षि⟫
+55. ⟪पाणी⟫
+56. ⟪अस्प्राक्षम्⟫

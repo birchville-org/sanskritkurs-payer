@@ -108,7 +108,7 @@ Fig.: ⟪व्रतं करिष्यन्देवगृहं गच्
 **(usually) guṇa-strengthened root + -i- + -sya (= - iṣya)**
 :::
 **One must learn with the stem forms which root has which formation of the future stem!**  
->> **Generally, the root form and the connecting vowel of the future correspond to those of the infinitive.**
+**Generally, the root form and the connecting vowel of the future correspond to those of the infinitive.**
 **Some roots can optionally form the future with and without the connecting vowel -i-.**  
 **The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, feminine optionally on -ntī or -tī:**
 

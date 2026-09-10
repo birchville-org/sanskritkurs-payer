@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 12
 
->> A) Form passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion form active sentences in the past tense.
+A) Form passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion form active sentences in the past tense.
 
 ⟪१⟫. ⟪ब्राह्मणेन देव इष्टः । देवीष्टा । विष्णुरिष्टः । ब्राह्मणेनाग्निरिष्टः । देवतेष्टा । २⟫. The fruit was eaten by the guru.
 ⟪गुरुणा फलं खादितम् । ३⟫. The ascetic went to heaven.
@@ -26,7 +26,7 @@ B) Form the corresponding PPPs for the verb forms of [Lesson 10](lektion10.md), 
 6. nayanti ⟪नयन्ति⟫ : ⟪नीताः ३⟫
 7. smarati ⟪स्मरति⟫ : ⟪स्मृतः ३⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : ⟪श्रुताः ३⟫
->> 9. pāśyati ⟪पश्यति⟫ (The passive is formed from dṛś!) : ⟪दृष्टः ३⟫
+9. pāśyati ⟪पश्यति⟫ (The passive is formed from dṛś!) : ⟪दृष्टः ३⟫
 10. jayanti ⟪जयन्ति⟫ : ⟪जिताः ३⟫
 11. kurvate ⟪कुर्वते⟫ : ⟪कृताः ३⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : ⟪आप्ताः ३⟫
@@ -41,7 +41,7 @@ B) Form the corresponding PPPs for the verb forms of [Lesson 10](lektion10.md), 
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः ३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः ३⟫
 
->> C) Convert the sentences from [Lesson 10](lektion10.md), Exercise C, into the passive voice in the past tense.
+C) Convert the sentences from [Lesson 10](lektion10.md), Exercise C, into the passive voice in the past tense.
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो देवीं यजति ब्रामणेन देवीष्टा ।⟫
 

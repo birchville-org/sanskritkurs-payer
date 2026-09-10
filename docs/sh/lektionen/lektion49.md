@@ -1,17 +1,18 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: "Lekcija 49"
+subtitle: "Oblikovanje imperativa (⟪लोट्⟫) beztematskih prezentskih osnova (nastavak)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lekcija 49
+# Lesson 49
 
-## 49.1. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
+## 49.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)
 
-### 49.1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
+### 49.1.1. Seventh Present Class (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -19,9 +20,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
@@ -29,14 +30,14 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
 
 ::: grammar-box
-Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht.
+The 2.sg. imperative ending is zero for roots of the fifth and eighth classes, where only a consonant precedes the final -u of the suffix.
 :::
 ⟪सु⟫ 5U
 
@@ -44,9 +45,9 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | :sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
 
@@ -58,7 +59,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Präsensklasse (⟪तनादि⟫)
+### 49.1.3. Eighth Present Class (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -80,7 +81,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪कुरु⟫] | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -93,7 +94,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi der 2.sg.P Imperativ durch -āna
+Roots of the 9th class, which end in a consonant, replace the final -nī-hi of the 2.sg.P imperative with -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -101,16 +102,16 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| **1st Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **2nd Person** :br⟪मध्यमः⟫ | :sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
+| **3rd Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Deklination der Nominalstämme auf -as, -is, -us
+## 49.2. Declension of nominal stems ending in -as, -is, -us
 
-#### Neutra (⟪नपुंसक⟫)
+#### Neuters (⟪नपुंसक⟫)
 
 ::: grammar-box
-| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
+| | **⟪मनस्⟫ n.** :br"thought" | **⟪हविस्⟫ n.** :br"sacrificial offering" | **⟪चक्षुस्⟫ n.** :br"eye" |
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
@@ -127,12 +128,12 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫)
+#### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
 
-Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ursprünglich Neutrum) im Hinterglied.
+Most cases are ⟪बहुव्रीहि⟫ with a -s-stem (originally neuter) in the second member.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
+| | **⟪सुमनस्⟫ 3** :br"of good thinking, benevolent | **⟪दीर्घायुस्⟫ 3** :br"long-lived" |
 | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
@@ -140,7 +141,7 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Singular wie Neutrum
+Remaining cases of the singular like neuter
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
@@ -149,171 +150,169 @@ Die meisten Fälle sind ⟪बहुव्रीहि⟫ mit einem -s-Stamm (ur
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Übrige Kasus des Plural wie Neutrum
+Remaining cases of the plural like neuter
 :::
-## 49.3. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
+## 49.3. Nominal formation: ⟪कृत्⟫-suffix -as neuter
 
-Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen).
+With the ⟪कृत्⟫-suffix -as neuter, numerous nouns are formed. Mostly they are abstracts or nomina actionis (words that denote the action).
 
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe.
+Short vowel of the root before a simple consonant as well as word-final root vowel appear in the strong grade.
 
-Beispiele:
+Examples:
 
 ::: grammar-box
-| Wurzel | Nomen auf -as |
+| Root | Noun on -as |
 | --- | --- |
-| ⟪मन्⟫ 4Ā "denken" | ⟪मनस्⟫ n. "Denken, Gedanke, Denkorgan" |
-| ⟪नम्⟫ 1P "beugen" | ⟪नमस्⟫ n. "Verbeugung, Verehrung" |
-| ⟪चित्⟫ 1P "wahrnehmen, denken" | ⟪चेतस्⟫ n. "Einsicht" |
+| ⟪मन्⟫ 4Ā "to think" | ⟪मनस्⟫ n. "thinking, thought, organ of thinking" |
+| ⟪नम्⟫ 1P "to bend" | ⟪नमस्⟫ n. "bowing, reverence" |
+| ⟪चित्⟫ 1P "to perceive, to think" | ⟪चेतस्⟫ n. "insight" |
 :::
-Nomina auf -is und -us sind relativ selten.
+Nouns on -is and -us are relatively rare.
 
 ::: media
 ![](/images/lekt4907.webp)
-Abb.: ⟪नमस्ते⟫
-(Bildquelle: [Details](/licenses#lekt4907))
+Fig.: ⟪नमस्ते⟫
+(Image source: [Details](/sh/licenses#lekt4907))
 :::
-## 49.4. Wortliste
+## 49.4. Word list
 
-⟪दीर्घ⟫ 3: lange
+⟪दीर्घ⟫ 3: long
 
-⟪ह्रस्व⟫ 3: kurz
+⟪ह्रस्व⟫ 3: short
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+⟪आयुस्⟫ n.: lifetime (the full lifespan that one can live, if nothing comes in between) ;
 
 ::: indent
-davon:
+thereof:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: the traditional medical system of India
 
-siehe:
+see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer (1944–). -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
-Kaus. ⟪क्षेपयति⟫
+Caus. ⟪क्षेपयति⟫
 PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
-Gerundiv: ⟪क्षेप्य⟫
+Gerundive: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : to hasten
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
-Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+Caus. ⟪त्वरयति⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : to harm
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
-Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+Caus. ⟪द्रोहयति⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: curiosity, interest
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+Fig.: ⟪कुलूहलम्⟫
+(Image source: [Details](/sh/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: whole, complete
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: acquaintance
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: art, skill
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+Fig.: ⟪उत्तमा काला शिवो नटराजा⟫, 11th century
+(Image source: [Details](/sh/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: wish, desire
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indecl.: and, also, or
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: bird ("going into the air-⟪स्⟫dream - ⟪विह⟫")
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+Fig.: ⟪विहंगः⟫
+(Image source: [Details](/sh/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: garment, appearance, exterior
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+Fig.: ⟪वेषः वाराणस्याम्⟫
+(Image source: [Details](/sh/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: cover, hiding place
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: cage
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+Fig.: ⟪पञ्जरम्⟫
+Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
+(Image source: [Details](/sh/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: lowest caste of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Indecl.: by itself, spontaneously
 
-⟪अवनि⟫ f.: Erde
+⟪अवनि⟫ f.: earth
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
+⟪मुहूर्त⟫ m.,n.: moment, instant
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : to imagine, to think
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
 Fut. ⟪ध्यास्यति⟫
 Pass. ⟪ध्यायते⟫
-Kaus. ⟪ध्यापयति⟫
+Caus. ⟪ध्यापयति⟫
 PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.: consideration, attention, respect
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Image source: [Details](/sh/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3: farthest, highest ; ⟪पञ्चम्या⟫ : better than, higher than
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.: child, young one
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Fig.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+(Image source: [Details](/sh/licenses#lekt4906))
 :::
-## 49.5. Wiederholungsübung zur Formenlehre
+## 49.5. Morphology Review Exercise
 
-Bestimmen Sie folgende Formen:
+Determine the following forms:
 
 1.  ⟪गृहाणि⟫
 2.  ⟪नमानि⟫
@@ -355,20 +354,18 @@ Bestimmen Sie folgende Formen:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Übersetzungsübung
+## 49.6. Translation Exercise
 
-⟪बान⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, S. 35f.
+⟪बान⟫ (7th century CE): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35f.
 
-Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den Papagei ⟪वैशम्पायन⟫:
+Questions of the King ⟪शूद्रक⟫ from ⟪विदिशा⟫ to the Parrot ⟪वैशम्पायन⟫:
 
-⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
-
-⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
+⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति । वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫
 
 ::: media
 ![](/images/lekt4908.webp)
-Abb.: ⟪शुकः⟫
-Pflaumenkopfsittich = Psittacula cyanocephala
-(Bildquelle: [Details](/licenses#lekt4908))
+Fig.: ⟪शुकः⟫
+Rose-ringed Parakeet = Psittacula cyanocephala
+(Image source: [Details](/sh/licenses#lekt4908))
 :::
 

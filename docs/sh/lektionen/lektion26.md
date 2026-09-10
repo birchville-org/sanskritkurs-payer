@@ -1,123 +1,125 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lekcija 26"
+subtitle: "Zakon cerebralizacije za -s- u sredini riječi"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lekcija 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. Zakon cerebralizacije za -s- u sredini reči
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — ausser **a, ā** — unmittelbar oder nur durch ⟪अनुस्वार⟫ oder ⟪विसर्ग⟫ getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+**-s-** se zamenjuje sa **-ṣ-**, ako mu neposredno ili samo odvojeno ⟪अनुस्वार⟫ ili ⟪विसर्ग⟫ prethode **k, r, l** ili **vokal** — osim **a, ā** — i ako sledi drugi zvuk osim **ṛ, r**.
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
+Ovoj sandhi takođe sledi **⟪दुस्⟫-** pred bezvučnim guturalima i labijalima u kompozitumima.
 :::
-*Beispiele:*
+*Primeri:*
 ::: indent
-⟪तेषाम्⟫ (aus: *te-sām*)
+⟪तेषाम्⟫ (od: *te-sām*)
 
-aber: ⟪तासाम्⟫ (*tā-sām*)
+ali: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. Zakon cerebralizacije za dentale u sredini reči
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
+Dentalni zatvornici se zamenjuju odgovarajućim retrofleksima nakon retrofleksa (uključujući **-ṣ-**):
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** zbog prethodnog **i**, **ṭh** zbog tada prethodnog **ṣ**)*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. Wortsandhi za palatal, gutural, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten
+Primeri videti ispod
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Grassmannov zakon disipilacije aspirata
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+**Neposredna posledica dveju uzastopnih aspirata (aspirata - vokal - aspirata) je gubitak aspiracije prvog zvuka:**
 
-Beispiel:
+Primer:
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**Ako drugi zvuk zbog zakona o promeni glasova izgubi svoju aspiraciju, tada se aspiracija vraća na prvi zvuk.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
+Primeri: videti ispod futur od  ⟪दुह्⟫ i  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Grassmann
-(Bildquelle: [Details](/licenses#lekt2601))
+Slika: Hermann Grassmann
+(Izvor slike: [Detalji](/sh/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Sandhi riječi za -m, -n ispred sibilanata (Kielhorn)
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+**Ispred sibilanata -n i -m zamjenjuju se s -ṃ-:** (Kielhorn)
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+Primjer: vidi niže futur od ⟪मन्⟫ (Kielhorn)
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Upotreba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) (Kielhorn)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**Jednostavni futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) izražava:** (Kielhorn)
 
-- **die Zukunft**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
-- **Hoffnung**
-- **Befürchtung**
-- **Wahrscheinlichkeit**
-- **Meinung des Sprechenden**
-- **Befehl**
+**budućnost**
+**namjeravanu ili željenu radnju ("ići ću", "želim ići")**
+**očekivanje ("tako će se dogoditi")**
+**nadu**
+**bojazan**
+**vjerojatnost**
+**mišljenje govornika**
+**naredbu**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+**Futur djelomično stoji u konkurenciji s optativom (vidi kasnije).** (Kielhorn)
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+npr. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Netko tko želi položiti zavjet ide u hram." (Kielhorn)
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602))
+Slika: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Izvor slike: [Details](/sh/licenses#lekt2602))
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Tvorba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) (Kielhorn)
 
 ::: grammar-box
-**Einfaches Futur:**
+**Jednostavni futur:** (Kielhorn)
 
 :::
 ::: indent
-**Futursstamm + Primärendung**
+**Futurska osnova + primarni nastavak** (Kielhorn)
 :::
 ::: grammar-box
-**Futurstamm:**
+**Futurska osnova:** (Kielhorn)
 
 :::
 ::: indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+**(većinom) korijen u punom stupnju + -sya**  
+**ili**  
+**(većinom) korijen u punom stupnju + -i- + -sya (= -iṣya)**
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
+**Koji korijen ima koji oblik futurske osnove, mora se naučiti s oblicima osnova! (Kielhorn)**  
+**Općenito se oblik korijena i spojni samoglasnik futura podudaraju s infinitivom. (Kielhorn)**  
+**Neki korijeni mogu tvoriti futur izborno sa spojnim samoglasnikom -i- ili bez njega. (Kielhorn)**  
+**Parasmaipada particip futura tvori se dodavanjem sufiksa -nt- na futursku osnovu, ženski rod izborno na -ntī ili -tī: (Kielhorn)**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
-| Wurzel | Futur 3. sg. P (Ā) |
+| Root | Future 3. sg. P (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -130,15 +132,15 @@ Beispiele:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ before voiceless = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Übung
+## 26.8. Exercise
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:
+Form the corresponding future forms in number, person and voice (Parasmaipada, Ātmanepada):  
 
-A) ohne Bindevokal -i-:
+A) without connecting vowel -i-:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +149,7 @@ A) ohne Bindevokal -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (form future of ⟪दृश्⟫)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +178,7 @@ A) ohne Bindevokal -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-:
+B) With connecting vowel -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +195,7 @@ B) Mit Bindevokal -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (in future Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +204,11 @@ B) Mit Bindevokal -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-:
+C) Future optionally with and without -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
+3.  ⟪अश्नुवते⟫ (in the Future Parasmaipada)
+
+
 

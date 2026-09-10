@@ -1,74 +1,74 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "[Bài 54]"
+subtitle: "Lời mở đầu"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 54
+# Bài 54
 
-## 54.1. Vorbemerkung
+## 54.1. Lời nói đầu
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+Với Bài học 54, học kỳ thứ hai bắt đầu trong chương trình giảng dạy đại học. Từ giờ trở đi, khóa học sẽ diễn ra song song với chủ đề chính của học kỳ này: đọc toàn bộ Bhagavadgītā. Mục tiêu học tập là đạt được mức độ lưu loát trong việc đọc một văn bản ở trình độ trung bình, sao cho vào phần ba cuối của học kỳ có thể dịch ngay lập tức những đoạn lớn từ Bhagavadgītā. Vào đầu khóa học, các danh sách từ vựng đã được phát cho sinh viên; sau đó, sinh viên phải tự sử dụng các cuốn từ điển tương ứng (Monier-Williams, Apte, PW).
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
+Khóa học về Bhagavadgītā hiện chưa được cung cấp trực tuyến.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
+Các bài học của khóa học Sanskrit đề cập đến các chủ điểm ngữ pháp Sanskrit chưa được xử lý trước đây.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Từ vựng: Hậu tố -u ⟪कृत्⟫ gắn vào gốc cầu thị
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**Đối với các gốc cầu thị (⟪इच्छाप्रकृति⟫) ("muốn làm điều gì đó"; "sắp sửa làm điều gì đó"), hậu tố -u được thêm vào để hình thành danh từ chỉ người thực hiện hành động.**
 
-(Bildung der Desiderativstämme folgt später)
+(Cách tạo gốc cầu thị sẽ được trình bày sau)
 
-Beispiel:
+Ví dụ:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "ham chiến đấu, sắp sửa chiến đấu"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402))
+Hình: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 54.3. Thanh luật II: ⟪त्रिष्टुभ्⟫ sử thi và ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+⟪त्रिष्टुभ्⟫ ("ba nhịp thở") xuất hiện trong các sử thi xen kẽ giữa các phần ⟪श्लोक⟫ thông thường, chính xác ở những nơi mà tâm trạng hoặc cốt truyện đạt đến một bước ngoặt đặc biệt hoặc kết thúc.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
+Khúc ⟪त्रिष्टुभ्⟫ gồm bốn câu ⟪पाद⟫ mười một âm tiết, không khác nhau về cấu trúc.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
+⟪त्रिष्टुभ्⟫ có hai sơ đồ cơ bản, tùy thuộc vào việc đoạn ngắt (cuối từ, ranh giới cấu trúc hoặc trước các hậu tố nhất định như -tara, -tama v.v.) nằm sau âm tiết thứ 4 hay thứ 5 của ⟪पाद⟫.
 
-Schema I:
+Sơ đồ I:
 
 :::
 ::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
-Schema II:
+Sơ đồ II:
 
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+Do đó, lượng thanh của bốn âm tiết cuối cùng là như nhau trong cả hai sơ đồ.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+Dạng cơ bản của ⟪जगती⟫: giống như ⟪त्रिष्टुभ्⟫, nhưng có 12 âm tiết. Năm âm tiết cuối của mỗi Pada thể hiện các lượng thanh sau:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
+Bên cạnh đó còn có ⟪त्रिष्टुभ्⟫ được gọi là điển hình dư thừa với phần đầu năm âm tiết, tiếp tục như một ⟪त्रिष्टुभ्⟫ với phần đầu bốn âm tiết:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+Về sau, các hình thức của ⟪त्रिष्टुभ्⟫ được quy định theo một sơ đồ nghiêm ngặt về độ dài và ngắn, đoạn ngắt không còn đóng vai trò nữa. Các hình thức quan trọng hơn sau này là:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -83,167 +83,157 @@ b) ⟪उपेन्द्रवज्रा⟫
 c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
+⟪पाद⟫ trong ⟪इन्द्रवज्रा⟫ và ⟪पाद⟫ trong ⟪उपेन्द्रवज्रा⟫ được trộn lẫn vào một khúc.
 :::
 ::: grammar-box
-**Merkverse:**
+**Câu thơ ghi nhớ:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"Đó là một Indravājrā nếu các âm tiết trong tất cả Pādas đều là ta ja ga ga.
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
+"Một Upendravajrā giống như một Indravajrā, có một âm tiết nhẹ ở đầu."
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
+"Khi hai Pāda, mang đặc điểm của Indravajrā hoặc Upendravajrā, tham gia vào một câu thơ, thì đó là các Upajāti. Ngay cả khi các thể thơ khác được trộn lẫn trong một câu, cũng gọi là Upajāti."
 :::
-## 54.4. Übung zur Metrik
+## 54.4. Bài tập về luật thơ
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+Hãy xác định các thể Triṣṭubh và Jagatī trong Bhagavadgītā II.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
+Ví dụ về một bài đọc: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Truy cập ngày 28-01-2009
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Các kiểu cấu tạo của Aorist (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**Điểm chung của tất cả các kiểu cấu tạo Aorist (⟪लुङ्⟫) là phần mở đầu Augment a-, được đặt trước theo cùng các quy tắc như trong thì Imperfect (⟪लङ्⟫).**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
+Trong tiếng Phạn, chỉ có dạng Indikativ (Khẳng định) và Prekativ (Cầu khẩn) của Aorist là thông dụng.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**Có các kiểu cấu tạo Aorist (⟪लुङ्⟫) sau đây:**
 
-1.  Nichtsibilantische (asigmatische) Aoriste: 
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung 
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung 
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
+1. Các Aorist không có sibilant (asigmatische):
+*   54.1. Wurzelaorist (Aorist gốc): Augment + Gốc động từ + Hậu tố thứ cấp
+*   54.2. Themavokalischer Aorist (Aorist nguyên âm chủ đề): Augment + Gốc động từ + **a** + Hậu tố thứ cấp
+*   54.3. Reduplizierter Aorist (Aorist lặp lại): Augment + Gốc động từ **đã lặp** + **a** + Hậu tố thứ cấp
+2. Các Aorist có sibilant (sigmatische): s hoặc một âm tiết chứa s (ṣ) xuất hiện trước hậu tố ngôi
+*   54.4. -s-Aorist: Augment + Gốc động từ + **s** \+ Hậu tố thứ cấp
+*   54.5. -iṣ-Aorist: Augment + Gốc động từ + **i** + **ṣ** + Hậu tố thứ cấp
+*   54.6. -siṣ-Aorist: Augment + Gốc động từ + **siṣ** + Hậu tố thứ cấp
+*   54.7. -sa-Aorist: Augment + Gốc động từ + **s** + **a** + Hậu tố thứ cấp
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
+Xem phân phối các gốc từ vào các kiểu hình thái riêng lẻ tại từng kiểu
 :::
-## 54.6. Wurzelaorist
+## 54.6. Aorist gốc từ
 
 ::: grammar-box
-**Bildung:**
+**Hình thành:**
 
-**Augment + Wurzel + Sekundärendung**
+**Augment + Gốc từ + Kết thúc thứ cấp**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+Kết thúc của ngôi 3 số nhiều là -ur. Ātmanepada không thông dụng.
 
-Beispiel:
+Ví dụ:
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 1P "uống"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (mức thấp!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+Chỉ có 12 gốc từ được hình thành Aorist gốc:
 
-1.  ⟪गा⟫ 3 "gehen"
-2.  ⟪घ्रा⟫ 1P "riechen"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben"
-5.  ⟪दो⟫  1, 4 "schneiden"
-6.  ⟪धा⟫ 3U "setzen"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken"
-9.  ⟪शो⟫ 4P "schärfen"
-10.  ⟪सो⟫ "beendigen"
-11.  ⟪स्था⟫ 1P "stehen"
-12.  ⟪भू⟫ 1P "sein
+1.  ⟪गा⟫ 3 "đi"
+2.  ⟪घ्रा⟫ 1P "ngửi"
+3.  ⟪छो⟫ 6 "cắt" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U "cho"
+5.  ⟪दो⟫  1, 4 "cắt"
+6.  ⟪धा⟫ 3U "đặt"
+7.  ⟪धे⟫ 1 "hút" (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P "uống"
+9.  ⟪शो⟫ 4P "mài"
+10. ⟪सो⟫ "kết thúc"
+11. ⟪स्था⟫ 1P "đứng"
+12. ⟪भू⟫ 1P "là"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
+Đối với ⟪भू⟫ 1P, Aorist gốc được hình thành như sau:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
+| 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Aorist của ngôi 3 số ít Bị động
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
+Một dạng đặc biệt của Aorist gốc là Aorist ngôi 3 số ít Bị động. Dạng này có thể được hình thành từ mọi gốc từ.
 
 ::: grammar-box
-**Bildung:**
+**Hình thành:**
 
-**Augment + Wurzel + i**
+**Augment + Gốc từ + i**
 
-**Die Wurzel hat folgende Gestalt:**
+**Gốc từ có hình thái sau:**
 
-Hochstufe:
+Mức cao:
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
-    Beispiele:  
+*   Các gốc từ có nguyên âm ngắn (trừ a) trước phụ âm đơn cũng như ⟪जन्⟫ và hầu hết các gốc từ kết thúc bằng -am  
+Ví dụ:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ "nó đã bị tách ra"  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ "nó đã bị đẩy"
+
+Giai đoạn mở rộng:
+
+*   Các gốc động từ có nguyên âm cuối  
+Ví dụ:  
+⟪नी⟫ 1U: ⟪अनायि⟫ "nó đã được dẫn dắt"  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "nó đã được ca ngợi"  
+⟪कृ⟫ 8U: ⟪अकारि⟫ "nó đã được thực hiện"  
+
+
+*   Các gốc động từ có a trước phụ âm đơn (ngoại trừ ⟪जन्⟫ và các gốc động từ kết thúc bằng -am)  
+Ví dụ:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ "nó đã được nói"  
+nhưng:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "nó đã được sinh ra"  
+
+
+*   một số gốc động từ kết thúc bằng -am  
+Ví dụ:  
+⟪गम् अगामि⟫
+
+
+Chèn y trước hậu tố:
+
+*   Các gốc động từ kết thúc bằng -ā, -e, -ai, -o chèn y giữa phần -ā của gốc động từ và hậu tố:  
+Ví dụ:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "nó đã được ban cho"
+
+
+Ngâm tố mũi:
+
+*   một số gốc động từ có ngâm tố mũi:  
+Ví dụ:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ bên cạnh ⟪अलाभि⟫ : "nó đã được tiếp nhận"
+
+
+(Các dạng bị động còn lại của thì Quá khứ đơn được diễn đạt bằng các dạng Atmanepada).
 :::
-::: indent
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
-:::
+## 54.7. Bài tập
 
-Dehnstufe:
-
-*   Wurzeln mit auslautendem Vokal  
-    Beispiele:  
-::: indent
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"  
-:::
-
-*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)  
-    Beispiel:  
-::: indent
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
-aber:
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"  
-:::
-
-*   einige Wurzeln auf -am  
-    Beispiel:  
-::: indent
-⟪गम्⟫ ⟪अगामि⟫
-:::
-
-Einschub von y vor Endung:
-
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:  
-    Beispiel:  
-::: indent
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
-:::
-
-Nasalinfix:
-
-*   einige Wurzeln haben ein Nasalinfix:  
-    Beispiel:  
-::: indent
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
-:::
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-## 54.7. Übung
-
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
+Hãy dịch viết các dạng sau và tạo ra các dạng Quá khứ đơn tương ứng:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -265,14 +255,14 @@ Nasalinfix:
 18.  ⟪उद्यते⟫
 19.  ⟪स्तूयते⟫
 20.  ⟪कृष्यते⟫
-21.  ⟪जायते⟫ (Pass.)
+21.  ⟪जायते⟫ (Bị động)
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Hình: ⟪त्रिचक्रेणेश्वरः स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5401))
 :::
 

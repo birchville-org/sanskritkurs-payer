@@ -2,32 +2,34 @@
 layout: home
 
 hero:
-  name: Sanskrit Course
-  text: A Complete Course of Instruction
-  tagline: "by Alois Payer (Tüpfli's Global Village Library)"
+  name: "Sanskrito kursas"
+  text: "Išsamus kursas"
+  tagline: "Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: Start Course
+      text: "Pradėti kursą"
       link: /lt/lektionen/lektion01
     - theme: alt
-      text: Grammar Topics
+      text: "Gramatikos temos"
       link: /lt/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfect, integrated typography for Indian scripts.
-  - title: Easily Searchable
-    details: Deep local full-text search keeps knowledge at your fingertips.
-  - title: Modern Architecture
-    details: Built on the foundation of VitePress for maximum speed.
+  - title: "Globalus ir daugiakalbis"
+    details: "Pilnai prieinamas 20+ kalbomis per automatizuotą, daugiapakopę mašininio vertimo kaskadą."
+  - title: "Offline-first PWA"
+    details: "Visas kursas (įskaitant vietinę paieškos sistemą) yra prieinamas visose įrenginiuose be aktyvaus interneto ryšio."
+  - title: "Mokslinė tipografija"
+    details: "Natyvi Devanagari ir IAST transliteracijos palaikymas su tiksliu akademinio teksto išdėstymu."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+**Sanskrito kursas** Aloiso Payerio yra išsamus, moksliniu pagrindu paremtas kursas sansrito kalbai ir devanagari raštui išmokti. Ši skaitmeninė versija pateikia visą kursą šiuolaikinėje, daugiakalbėje ir ieškojimo funkciją turinčioje skaitymo aplinkoje.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Kalbos buvo visiškai automatiškai išverstos iš vokiečių kalbos naudojant daugiaetapę dirbtinio intelekto grandinę. Atsiliepimai dėl vertimo klaidų yra labai laukiami.
+
+**Kontaktai ir dalyvavimas**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Projekto wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Redaktoriai**: Prieinamas internetinis redaktorius per [QA](https://payer.birchville.cc/qa_viewer.html) (Tik skaitymui, rašymas apsaugotas prisijungimu)
+**Dabartinė versija**: v1.7.4
 :::

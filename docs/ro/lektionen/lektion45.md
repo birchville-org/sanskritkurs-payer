@@ -1,10 +1,11 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: "Lecție 45"
+subtitle: "Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice fără sufix cu final vocalică (continuare)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 45
@@ -146,5 +147,3 @@ B) Traduceți:
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
 :::
-
-

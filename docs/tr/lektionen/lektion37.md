@@ -84,17 +84,17 @@ Dativ (⟪चतुर्थी⟫) nadiren olarak şu sorulara cevap vermek iç
 ::: indent
 ⟪अर्थाय⟫ "amacı için, ... uğruna"
 :::
->> ### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
->> Ablativ (⟪पञ्चमी⟫) nadiren şu sorulara cevap vermek için kullanılır:
+Ablativ (⟪पञ्चमी⟫) nadiren şu sorulara cevap vermek için kullanılır:
 
 *   neden?
 *   neye dayanarak?
 *   nereden?
 *   ve benzeri
 
->> Ablativ şu şekilde kullanılır:
+Ablativ şu şekilde kullanılır:
 
 *   İsimlerden  
 Örn. ⟪बलात्⟫ "şiddetle, zorla"  
@@ -107,10 +107,10 @@ Dativ (⟪चतुर्थी⟫) nadiren olarak şu sorulara cevap vermek iç
 ⟪कस्मात्⟫ "neden"  
 ⟪अकस्मात्⟫ "beklenmedik şekilde"
 :::
->> ### 37.2.5. Genetiv (⟪षष्ठी⟫)
+### 37.2.5. Genetiv (⟪षष्ठी⟫)
 
 ::: grammar-box
->> Genetiv (⟪षष्ठी⟫) nadiren "ne kadar süre sonra?" sorusuna cevap vermek için kullanılır.
+Genetiv (⟪षष्ठी⟫) nadiren "ne kadar süre sonra?" sorusuna cevap vermek için kullanılır.
 
 Örn. ⟪चिरस्य⟫ "uzun süre sonra" (⟪चिर⟫ 3 "uzun (zaman)" için)
 :::
@@ -145,7 +145,7 @@ Lokativ (⟪सप्तमी⟫) şu sorulara cevap vermek için kullanılır:
 ::: grammar-box
 ⟪तद्⟫, ⟪इदम्⟫ veya ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ veya ⟪कु⟫ zamir köklerinden, adverbial sonekler
 
->> *   \-⟪तस्⟫ (Ablativ)
+*   \-⟪तस्⟫ (Ablativ)
 *   \-⟪त्र⟫ (Lokativ)
 *   \-⟪था⟫ (Biçim ve Şekil)
 *   \-⟪थम्⟫ (Biçim ve Şekil)
@@ -158,7 +158,7 @@ ile uygun zamir edatları türetilebilir.
 | Sonek | Zamir Kökü | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
->> | **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :buradan, buna, bundan dolayı | ⟪इतस्⟫ :br ⟪अतस्⟫ :buradan, buradan dolayı | ⟪यतस्⟫ :brnereden, ne hakkında | ⟪कुतस्⟫ :brnereden?, neden? |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :buradan, buna, bundan dolayı | ⟪इतस्⟫ :br ⟪अतस्⟫ :buradan, buradan dolayı | ⟪यतस्⟫ :brnereden, ne hakkında | ⟪कुतस्⟫ :brnereden?, neden? |
 | **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :burada, orada | ⟪अत्र⟫ :bura | ⟪यत्र⟫ :brnerede | ⟪कुत्र⟫ :brnerede? |
 | **-⟪था⟫** :br(Biçim ve Şekil) | ⟪तथा⟫ :brböylece | | ⟪यथा⟫ :brnasıl | |
 | **-⟪थम्⟫** :br(Biçim ve Şekil) | | | | ⟪कथम्⟫ :brnasıl? |
@@ -181,7 +181,7 @@ Resim: ⟪क्व⟫
 | Sonek | |
 | :--- | :--- |
 | **-⟪वत्⟫** | herhangi bir isimden sonra eklenerek "gibi, benzer şekilde" anlamını ifade etmek için kullanılabilir:brörn. ⟪पुत्रवत्⟫ "bir oğul gibi" |
->> | **-⟪तस्⟫** | isimlere ve zamirlere eklenir. Genellikle ablative anlamında "nereden?" ama ayrıca "nerede?", "nereye?":brörn. ⟪आदितस्⟫ "başlangıçtan beri" |
+| **-⟪तस्⟫** | isimlere ve zamirlere eklenir. Genellikle ablative anlamında "nereden?" ama ayrıca "nerede?", "nereye?":brörn. ⟪आदितस्⟫ "başlangıçtan beri" |
 | **-⟪धा⟫** | 1. Sayı edatlarında "-li", "-lü" anlamında:brörn. ⟪द्विधा⟫ "iki katlı":br2. "-bu şekilde" anlamında:brörn. ⟪समधा⟫ "aynı şekilde" (⟪सम⟫ 3 "aynı" kelimesine bağlı) |
 
 :::

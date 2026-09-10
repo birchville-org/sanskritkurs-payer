@@ -1,226 +1,157 @@
 ---
-title: "Ushqim 13"
+title: "Ushtrimi 13"
 uebung_id: 13
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 13
+# Ushtrimi 13
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
+A) Përktheni dhe shndërrojeni në fjali të përhershme aktive:
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-Ein Feuer hat das Haus verbrannt.
-⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
+⟪१⟫. ⟪अग्निना गृहं दग्धम् ।⟫
+Një zjarr ka djegur shtëpinë.
+⟪अग्निर्गृहं दहति । २⟫. ⟪बुद्धेन सत्यं बुद्धम् ।⟫
+Buddha është zgjuar te e vërteta. Buddha ka njohur të vërtetën.
+⟪बुद्धः सत्यं बुध्यते⟫ / ⟪बोधति । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
+Njohja ka shpëtuar Gautamën. Përmes njohjes u shpëtua Gautama.
+⟪बोधिर्गौतमं मुञ्चति । ४⟫. ⟪शूद्रा मूढाः ।⟫ (2 mundësi)
+Śūdrat / Gratë e Śūdrave janë të verbuar.
+⟪शूद्रा मुह्यन्ति । ५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः ।⟫
+Brahmani dëshironte shpëtimin.
+⟪ब्राह्मणो मोक्षमिच्छति । ६⟫. ⟪रामेण पुण्यं कृतम् ।⟫
+Rāma bëri një veprë të merituar. Rāma bëri diçka të merituar.
+⟪रामः पुण्यं करोति । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् ।⟫
+Është thënë se shpirtërat vedikë kanë thënë vetëm të vërtetën.
+⟪ऋषयः सत्यमेव वदन्तीति वदन्ति । ८⟫. ⟪धर्मेण स्वर्गं नीतम् ।⟫
+Dharma ka çuar në një qiell.
+⟪धर्मः स्वर्गं नयति । ९⟫. ⟪साधुनाधर्मो न कृतम् ।⟫
+Një shenjtër nuk ka bërë asgjë të padrejtë.
+⟪साधुरधर्मं न करोति । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः ।⟫
+Përmes mantra-s njeriu ka arritur shpëtimin.
+⟪मन्त्रेण मोक्षं लभन्ते । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
+Cilin amulet e ka mbrojtur vajza?
+⟪का रक्षिका बालां रक्षति ॥⟫
 
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-Buddha ist zur Wahrheit erwacht. Buddha hat die Wahrheit erkannt.
-⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
+B) Përktheni dhe shndërrojeni në fjali pasive të së kaluarës
 
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
-Die Erkenntnis hat Gautama erlöst. Durch die Erkenntnis wurde Gautama erlöst.
-⟪बोधिर्गौतमं⟫ ⟪मुञ्चति⟫ ⟪।⟫
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते ।⟫
+Edhe pse Rāma dëshiron shpëtimin, ai nuk e arrin atë.
+⟪रामेणेष्टो ऽपि मोक्षो न लब्धः ।⟫
 
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-Die Śūdras / Śūdrafrauen sind verblendet.
-⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
+⟪२⟫. ⟪योज्ञो न मुञ्चति ।⟫
+Flijat nuk shpëton.
+⟪यज्ञेन न मुक्तः । ३⟫. ⟪साधवो देवान्स्मरन्ति ।⟫
+Shenjtërit i paraqesin vetes perënditë.
+⟪साधुभिर्देवाः स्मृताः । ४⟫. ⟪पुण्यवान्पुत्रो देवान्यजते ।⟫
+Bir i virtytshëm flijon perëndive.
+⟪पुण्यवता पुत्रेण देवा इष्टाः । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति ।⟫
+Kṣatriya i lumtur e ruan dharmën.
+⟪सुखवता क्षत्रियेण धर्मो रक्षितः । ६⟫. ⟪पुत्रवान्नरकं न गच्छति ।⟫
+Ai që ka bije nuk shkon në ferr.
+⟪पुत्रवान्न्रकं न गतः । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति ।⟫
+Mëstiri thotë se një grua e devocionshme nuk bën asgjë të keqe.
+⟪धर्मवत्या पापं न कृतमिति गुरुणोदितम् । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं प्र्च्छन्ति ।⟫
+Ata të mençur i pyesin ata që e posedojnë të vërtetën për dharmën.
+⟪बुद्धिमद्भिः सत्यवन्तो धर्मं पृष्टाः । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति ।⟫
+Njerëzit fetarë bëjnë vepra të mira që sjellin fryte.
+⟪धर्मवद्भिः फलवत्पुण्यं कृतम् । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति ।⟫
+Brahmanët dëshirojnë bije të dalluara.
+⟪ब्राह्मणैर्गुणवन्तः पुत्रा इष्टाः । ११⟫. ⟪कयृग्वेदं शृण्वन्ति ।⟫
+Cilët burime e dëgjojnë Ṛgvedën?
+⟪कैरृग्वेदः श्रुतः । १२⟫. ⟪किमीश्वरः सृजति ।⟫
+Çfarë krijon ZOTI?
+⟪किमीश्वरेण सृष्टम् । १३⟫. ⟪साधुः कृतं पापं सहते ।⟫
+Një shenjtëri duron të keqen që i bëhet.
+⟪साधुना कृतं पापं सोढम् । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते ।⟫
+Të ulët mendojnë se sundimtarët dëshirojnë pasuri.
+⟪पार्थिवेन धनमिष्टमिति नीचैर्मतम् ।⟫
 
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-Der Brahmane wünschte Erlösung.
-⟪ब्राह्मणो⟫ ⟪मोक्षमिच्छति⟫ ⟪।⟫
-
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
-⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
-
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-Es ist gesagt, dass vedische Weise nur die Wahrheit gesagt haben.
-⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-Der Dharma hat in einen Himmel geführt.
-⟪धर्मः⟫ ⟪स्वर्गं⟫ ⟪नयति⟫ ⟪।⟫
-
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-Ein Heiliger hat nichts Unrechtes getan.
-⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-Mittels des Mantra hat man Erlösung erlangt.
-⟪मन्त्रेण⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
-Was für ein Amulett hat dieses Mädchen beschützt?
-⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
-
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit
-
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-Obwohl Rāma Erlösung wünscht, erlangt er sie nicht.
-⟪रामेणेष्टो⟫ ⟪ऽपि⟫ ⟪मोक्षो⟫ ⟪न⟫ ⟪लब्धः⟫ ⟪।⟫
-
-⟪२⟫. ⟪योज्ञो⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-Opfer erlöst nicht.
-⟪यज्ञेन⟫ ⟪न⟫ ⟪मुक्तः⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-Heilige vergegenwärtigen sich die Götter.
-⟪साधुभिर्देवाः⟫ ⟪स्मृताः⟫ ⟪।⟫
-
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्यजते⟫ ⟪।⟫
-Der tugendsame Sohn opfert den Göttern.
-⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
-
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Der glückliche Kṣatriya hütet den Dharma.
-⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫
-
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-Wer Söhne hat, kommt in keine Hölle.
-⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫
-
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-Der Meister sagt, dass eine fromme Frau nichts Böses tut.
-⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
-
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
-Einsichtige befragen die, die die Wahrheit besitzen, über den Dharma.
-⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
-
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-Religiöse Personen tun Verdienstvolles, das Frucht bringt.
-⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-Brahmanen wünschen sich vorzügliche Söhne.
-⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫
-
-⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Welche Männer hören den Ṛgveda?
-⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-Was erschafft der HERR?
-⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
-
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-Ein Heiliger erträgt ihm zugefügtes Übel.
-⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫
-
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-Niedrige denken, dass Herrscher Reichtum wünschen.
-⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
-
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-Die vedischen Weisen sehen, dass der Dämon auf keinen Fall siegt.
-⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
-
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
-Was essen und trinken Brahmanen?
-⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
+⟪१५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति ।⟫
+Shekhat e shpirtëtarët vedikë se demoni nuk fiton asnjëherë.
+⟪नैवासुरेण जितमित्यृषिभिर्दृष्टम् । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
+Çfarë hanë dhe pinë brahmanët?
+⟪ब्राह्मणैः किं पीतं खादितं च ॥⟫
 
 ::: media
 ![](/images/uebung019.webp)
-Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung019))
+Fig.: ⟪अग्निर्गृहं दहति ।⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung019))
 :::
 ---
 
-## Zusätzliche Übungen
+## Ushtrime Shtesë
 
-A) Übersetzen Sie folgende Sätze.
+A) Përktheni fjalitë e mëposhtme.
 
-B) Setzen Sie die Sätze Übung A) ins Passiv
+B) Shndërroni fjalitë e Ushtrisë A në zanafillor (passive)
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion
+C) Formoni një konstruktion PPP për fjalitë e Ushtrisë A
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
-⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति ।⟫
+Rama ecën në rrugë drejt fshatit.
+⟪रामेण मार्गेण ग्रामं गम्यते । रामेण मार्गो ग्रामं गम्यते । रामो मार्गेण ग्रामं गतः । रामेण मार्गो ग्रामं गतम् । २⟫. ⟪नरा धनेन सुखमिच्छन्ति ।⟫
+Njerëzit dëshirojnë fatin përmes pasurisë.
+⟪नरैर्धनेन सुखमिष्यते । सुखमिष्टम् । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते ।⟫
+Burri ecën me birin e tij në qytet.
+⟪नरेण पुत्रेण⟫ (⟪सह⟫) ⟪नगरं पद्यते । नरः पुत्रेण⟫ (⟪सह⟫) ⟪नगरं पन्नः । ४⟫. ⟪देवो लोकान्सृजति ।⟫
+Zoti krijon botët.
+⟪देवेन लोकाः सृज्यन्ते । सृष्टाः । ५⟫. ⟪बाला जलं पिबति ।⟫
+Vajza pinë ujë.
+⟪बालया जलं पीयते । पीतम् । ६⟫. ⟪कवयो धनं लुभ्यन्ति ।⟫
+Poetët dëshirojnë pasurinë.
+⟪कविबिर्धनं लुभ्यते । लुब्धम् । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति ।⟫
+Kṣatriya i fuqishëm mposht Śūdras.
+⟪बल्वता क्षत्रियेण शत्रवो जीयन्ते । जिताः ।⟫
 
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-Menschen wünschen sich Glück durch Reichtum.
-⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
+⟪८⟫. ⟪गुणवान्द्विष्टमपि शत्रुं न युध्यते ।⟫
+Një person i virtytshëm nuk e lufton armikun e tij, edhe nëse ky i është i urrejtur.
+⟪गुणवता द्विष्तो ऽपि शत्रुर्न युध्यते । युद्धः । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति ।⟫
+Udhëzuesi vedik thotë se zemërimi, urrejtja dhe lakmia janë padrejtësi.
+⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिणोद्यते । लोभश्चेत्यृषिणोदितम् । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति ।⟫
+Fëmijët bëhen të fortë përmes ushqimit.
+⟪बालैरन्नेन बलमाप्यते । बालाभिरन्नेन बलमाप्यते । बलमाप्तम् । ११⟫. ⟪बुद्धिमन्तः सत्य⟫en ⟪मोक्षं लभन्ते ।⟫
+Njerëzit e mençur arrijnë çlirimin përmes së vërtetës.
+⟪बुद्धिमद्भिः सत्येन मोक्षो लभ्यते । लब्धः । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते ।⟫
+Këto gra të shenjta durin keqen.
+⟪इमाभिः साध्वीभिः पापं सह्यते । सोढम् । १३⟫. ⟪कां देवतामृषिः पश्यति ।⟫
+Cilin hyjni e sheh Ṛṣi?
+⟪का देवतर्षिना दृश्यन्ते । दृष्टा । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
+Cilëve hyjnive u flijojnë brahmanët, katriyatët dhe vaśyatët?
+⟪के देवा ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते । ब्राह्मणक्षत्रियवैश्यैरिष्टाः ॥⟫
 
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-Der Mann geht mit seinem Sohn in die Stadt.
-⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
+D) Nga cilat bashkëtingëllore mund të kenë lindur format e mëposhtme Sandhi? Jepni të gjitha mundësitë:
 
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-Gott erschafft die Welten.
-⟪देवेन⟫ ⟪लोकाः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫ ⟪सृष्टाः⟫ ⟪।⟫
-
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-Das Mädchen trinkt Wasser.
-⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫ ⟪पीतम्⟫ ⟪।⟫
-
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-Dichter begehren Reichtum.
-⟪कविबिर्धनं⟫ ⟪लुभ्यते⟫ ⟪।⟫ ⟪लुब्धम्⟫ ⟪।⟫
-
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-Der mächtige Kṣatriya besiegt die Śūdras.
-⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
-
-⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-Jemand Tugendhaftes bekämpft seinen Feind nicht, auch wenn dieser ihm verhasst ist.
-⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
-
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-Der vedische Weise sagt, das Zorn, Hass und Gier Unrecht sind.
-⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
-
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-Knaben werden durch Essen stark.
-⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
-
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-Einsichtige erlangen durch die Wahrheit die Erlösung.
-⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
-
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-Diese heiligen Frauen ertragen das Übel.
-⟪इमाभिः⟫ ⟪साध्वीभिः⟫ ⟪पापं⟫ ⟪सह्यते⟫ ⟪।⟫ ⟪सोढम्⟫ ⟪।⟫
-
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-Welche Gottheit sieht der Ṛṣi?
-⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
-
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
-⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
-
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
-
-1. -a vor Vokal (ausser a-): -as
+1. -a para zanoreje (përveç a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
-3. -ā vor Vokal: -ās
-4. -ā vor stimmhaften Konsonanten: -ās
+3. -ā para zanoreje: -ās
+4. -ā përpara konsonantëve të zëshëm: -ās
 5. -ī-: -i + i-/ī-, -ī + i-/-ī
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e vor Avagraha: -e + a-
+9. -e para Avagraha: -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o vor Avagraha: -o
-12. -o vor stimmhaften Konsonanten -as
+11. -o para Avagraha: -o
+12. -o përpara konsonantëve të zëshëm -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
-15. -y vor Vokal: -i/-ī
-16. -v vor Vokal: -u/-ū
-17. -r vor Vokal: -ṛ/-ṝ
-18. -ay vor Vokal: -e
-19. -av vor Vokal: -o
+15. -y para zanoreje: -i/-ī
+16. -v para zanoreje: -u/-ū
+17. -r para zanoreje: -ṛ/-ṝ
+18. -ay para zanoreje: -e
+19. -av para zanoreje: -o
 20. -ar-: -a/-ā + ṛ-/ṝ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten: -is
-22. -īr vor Vokal oder stimmhaftem Konsonanten: -īs
-23. -ur vor Vokal oder stimmhaftem Konsonanten: -us
-24. -ūr vor Vokal oder stimmhaftem Konsonanten: -ūs
-25. -er vor Vokal oder stimmhaftem Konsonanten: -es
-26. -or vor Vokal oder stimmhaftem Konsonanten: -os
-27. -air vor Vokal oder stimmhaftem Konsonanten: -ais
-28. -aur vor Vokal oder stimmhaftem Konsonanten: -aus
+21. -ir para zanoreje ose konsonanti të zëshëm: -is
+22. -īr para zanoreje ose konsonanti të zëshëm: -īs
+23. -ur para zanoreje ose konsonanti të zëshëm: -us
+24. -ūr para zanoreje ose konsonanti të zëshëm: -ūs
+25. -er para zanoreje ose konsonanti të zëshëm: -es
+26. -or para zanoreje ose konsonanti të zëshëm: -os
+27. -air para zanoreje ose konsonanti të zëshëm: -ais
+28. -aur para zanoreje ose konsonanti të zëshëm: -aus
 29. -ñj-: -n + j-
 30. -ñś-: -n + ś
 31. -ñch-: -n + ch-
@@ -228,48 +159,48 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvara vor Konsonant: -m
+36. Anusvara përpara konsonantit: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
 
-E) Übersetzen Sie ins Sanskrit:
+E) Përktheni në sanskritisht:
 
-1\. Die Göttin war erzürnt.
-⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
+1. Zonja ishte zemëruar.
+⟪देवी कुपिता । देव्या कुपितम्⟫
 
-2\. Śūdras sind in einen Himmel gelangt.
-⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
+2. Śūdrat kanë arritur në qiell.
+⟪शूद्रैः स्वर्ग आप्तः । स्वर्गो ऽष्टः ।⟫
 
-3\. Die Bauern sind den Weg gegangen.
-⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
+3. Bujqët kanë shkuar në rrugë.
+⟪कर्षकैर्मार्गो गतः । कर्षका मार्गं गताः ।⟫
 
-4\. Durch die Buddhalehre wurden die Leute befreit.
-⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
+4. Njerëzit u çliruan përmes mësimit të Budas.
+⟪धर्मेण जना मुक्ताः ।⟫
 
-5\. Der Sohn tanzte.
-⟪पुत्रेण⟫ ⟪नृत्तम्⟫ ⟪।⟫
+5. Birin vallëzoi.
+⟪पुत्रेण नृत्तम् ।⟫
 
-6\. Das Amulett hat den Lehrer beschützt.
-⟪रक्षिकया⟫ ⟪गुरू⟫ ⟪रक्षितः⟫ ⟪।⟫
+6. Amuleti e mbrojti mësuesin.
+⟪रक्षिकया गुरू रक्षितः ।⟫
 
-7\. Ein Brahmane hat keine Unwahrheit gesagt.
-⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
+7. Një brahman nuk tha asnjë gënjeshtër.
+⟪ब्राह्मणेनानृतं नोदितम् ।⟫
 
-8\. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
+8. Gratë śūdra e nderuan zonjën me flijime.
+⟪शूद्राभिर्देवीष्टा ।⟫
 
-9\. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt.
-⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
+9. Buddha u zgjua në të vërtetën = Buddha e njohu të vërtetën.
+⟪बुद्धेन सत्यं बुद्धम् । बुद्धः सत्यं बुद्धः ।⟫
 
-10\. Die vedischen Weisen haben die Śruti gehört.
-⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫
+10. Gjenitë vedikë e dëgjuan Śruti-n.
+⟪ऋषिभिः श्रुतिः श्रुता ।⟫
 
-11\. Die Opferpriester haben den Soma gepresst.
-⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
+11. Përgjegjësit e flijimit shtypën soman.
+⟪यजकैः सोमः सुतः ॥⟫
 
 ::: media
 ![](/images/uebung018.webp)
-Abb.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung018))
+Fig.: ⟪बाला जलं पिबति । बालया जलं पीयते ।⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung018))
 :::

@@ -1,10 +1,11 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Lección 46"
+subtitle: "Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) Perfecto (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lección 46
@@ -120,22 +121,14 @@ Verbos que siguen este tipo:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪तुष्टोथ⟫ | ⟪तिष्टुव⟫ | ⟪तुष्टुषे⟫ | ⟪तुष्टुढ्वे⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫)
-
-::: grammar-box
-| ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: |
-| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
-:::
-#### 46.1.5.2. Tipo de Perfecto IIIb: Raíz fuerte en grado pleno/gradado, raíz débil en grado pleno
+#### 46.1.5.2. Tipo de Perfecto IIIb: raíz fuerte en grado pleno/gradación larga, raíz débil en grado pleno
 
 Verbos que siguen este tipo:
 
 *   (Consonante-)(Consonante-)-ṝ
-*   Consonante-Consonante-ṛ
+*   Konsonant-Konsonant-ṛ
 
-⟪पॄ⟫ 3P
+⟪पॄ⟫ 3ª persona del plural
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -151,11 +144,11 @@ Verbos que siguen este tipo:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Tipo IV del perfecto: raíces terminadas en -ā / -ai
+### 46.1.6. Tipo de Perfecto IV: Raíces en -ā / -ai
 
-*   Tema débil:
-    *   ante consonante: grado profundo con -i
-    *   ante vocal: grado profundo con -ø (cero)
+*   Raíz débil:
+*   antes de consonante: grado bajo-i
+*   antes de vocal: grado bajo-ø
 
 ⟪दा⟫ 3U
 
@@ -173,20 +166,36 @@ Verbos que siguen este tipo:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Tipo V de Perfecto: Consonante-a-Consonante
+### 46.1.7. Tipo de Perfecto V: Consonante-a-Consonante
 
-#### 46.1.7.1. Tipo Va de Perfecto: Consonante-a-Consonante, raíz débil en grado cero (Tiefstufe)
+#### 46.1.7.1. Tipo de Perfecto Va: Consonante-a-Consonante, raíz débil en grado bajo
 
 Verbos que siguen este tipo:
 
 ::: indent
 1.  gam "ir"
-2.  han (»ghan) "golpear"
+2.  han (»ghan) "golpear, matar"
 3.  jan "nacer"
 4.  vac "hablar"
-5.  vad "hablar"
+5.  vad "decir, hablar"
 6.  yaj "sacrificar"
 7.  etc.
+:::
+⟪गम्⟫ 1P
+
+::: grammar-box
+| ⟪परस्मैपदम्⟫ ||
+| :---: | :---: |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
+:::
+⟪हन्⟫ 2P
+
+::: grammar-box
+| ⟪परस्मैपदम्⟫ ||
+| :---: | :---: |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
 :::
 ⟪गम्⟫ 1P
 
@@ -264,12 +273,6 @@ La 2.sg.P. se forma a partir de la raíz débil cuando aparece la vocal de unió
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
-:::
-#### 46.1.7.3. Tipo Vc de Perfecto: Consonante-a-Consonante, raíz débil en grado pleno (Hochstufe)
-
-Verbos que siguen este tipo:
-
-*   Todas las demás raíces con la vocal media -a-
 
 ⟪क्रम्⟫ 1U
 
@@ -281,7 +284,7 @@ Verbos que siguen este tipo:
 :::
 ### 46.1.8. Formaciones especiales del perfecto
 
-⟪विद्⟫ 2P perfecto presente
+⟪विद्⟫ 2P perfecto presentico
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -315,18 +318,20 @@ Verbos que siguen este tipo:
 :::
 ### 46.1.9. Perfecto perifrástico (⟪अनुप्रयोगलिट्⟫)
 
-El perfecto perifrástico se forma a partir de:
+El perfecto perifrástico se forma con:
 
-*   raíces verbales derivadas (causativo, desiderativo, frecuentativo, denominativos), especialmente el causativo;
-*   raíces que comienzan con una vocal larga (excepto ā);
-*   raíces con la estructura vocal (excepto a)-consonante-consonante;
-*   algunas otras raíces adicionales.
-*   En el caso de ciertas raíces, es posible formar opcionalmente ambos tipos de perfecto: uṣa «arder», vid «saber», jāgṛ «velar», daridrā «ser pobre».
-*   En el caso de las siguientes raíces, es posible formar opcionalmente ambos tipos de perfecto, y además el perfecto perifrástico se reduplica mediante la sílaba de reduplicación del tema presente:
-    *   bhī «temer»
-    *   bhṛ «llevar»
-    *   hu «ofrendar»
-    *   hrī «avergonzarse»
+*   raíces verbales derivadas (causativo, desiderativo, frecuentativo, denominativos), especialmente el causativo
+*   raíces que comienzan con una vocal larga (excepto ā)
+*   raíces: Vocal (excepto a-)-Consonante-Consonante
+*   algunas otras
+*   en el caso de algunas raíces, ambos perfectos pueden formarse opcionalmente: uṣ "arder", vid "saber", jāgṛ "velar", daridrā "ser pobre"
+*   en el caso de las siguientes raíces pueden formarse ambos perfectos opcionalmente y además el perfecto perifrástico está reduplicado, con la sílaba de reduplicación del tema presente:
+*   bhī "temer"
+*   bhṛ "llevar"
+*   hu "ofrecer"
+*   hrī "avergonzarse"
+
+⟪बन्ध्⟫ Causativo
 
 ⟪बन्ध्⟫ Causativo
 

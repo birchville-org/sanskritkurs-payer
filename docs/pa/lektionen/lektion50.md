@@ -1,10 +1,11 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: "ਪਾਠ 50"
+subtitle: "ਨਾਂਵ ਬਣਾਉਣਾ: ਨਿਯਮਤ ਵਰਗਾ"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # ਪਾਠ 50

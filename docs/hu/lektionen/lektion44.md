@@ -1,10 +1,11 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lecke 44"
+subtitle: "A 2. személy ragozott formáinak képzése (⟪मध्यमः⟫) hangszótagos tövek, vokális végződésű képzővel"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # 44. lecke
@@ -470,4 +471,3 @@ Határozza meg az alábbi alakokat:
 38.  ⟪पिपूर्मः⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
-

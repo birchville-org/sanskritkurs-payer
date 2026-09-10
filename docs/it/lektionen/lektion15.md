@@ -45,7 +45,7 @@ ad esempio:
 Il genere di un Tatpuruṣa è, con poche eccezioni, quello del suo secondo elemento.
 
 :::
-## 15.3. Determinativkomposita mit attributivem/appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. Composti determinativi con primo membro attributivo/appositivo = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
 Nella scomposizione del Karmadhāraya, entrambi i membri del composto si trovano nello stesso caso.

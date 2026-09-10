@@ -1,10 +1,11 @@
 ---
-title: Lektion 15
+title: "Lecziun 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 15
@@ -65,8 +66,8 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 
 ::: media
 ![](/images/lekt1501.webp)
-Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501))
+Fig.: ⟪लक्ष्मी⟫
+(Font dal maletg: [Details](/rm/licenses#lekt1501))
 :::
 
 ::: grammar-box
@@ -260,7 +261,7 @@ p.ex.
 ⟪पूजा⟫ f.: onur, accolta onoràvela, veneraziun religiosa (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
+Fig.: ⟪पूजा⟫
 (font dal maletg: [detagls](/rm/licenses#lekt1504))
 :::
 ⟪कुल⟫ n.: greg, multitudine, schattamain, discendenza, famiglia
@@ -268,7 +269,7 @@ Abb.: ⟪पूजा⟫
 ⟪इन्द्र⟫ m.: Prins, Emprim, Meglier tranter ; Re da ils dieus Indra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
+Fig.: ⟪इन्द्रः⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt1505))
 :::
 ⟪दास⟫ m.: Serv, serf, servitur
@@ -295,13 +296,13 @@ daquest:
 ⟪सिंह⟫ m.: leun (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
+Fig.: ⟪सिंहः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1506))
 :::
 ⟪व्याघ्र⟫ m.: tigir (_Panthera tigris tigris_) (literalmain: 'gahner')
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
+Fig.: ⟪व्याघ्रः⟫
 (Fontana da l'imaginescha: [Detagls](/rm/licenses#lekt1507))
 :::
 ⟪इव⟫ (postposiziun): sco, sco che (en cumparegliaziuns: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = 'in um sco in tigir', 'in um sco in tigir')
@@ -518,7 +519,7 @@ Solvìt sco en l'exercizi 1 suvents Tatpuruṣa:
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
 ![](/images/lekt1508.webp)
-Abb.: ⟪ग्रामदेवता⟫
+Fig.: ⟪ग्रामदेवता⟫
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt1508))
 :::
 ## 15.11. Exercizi 3

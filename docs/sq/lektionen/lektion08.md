@@ -1,298 +1,256 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: "Mësimi 8"
+subtitle: "Formimi i emrave & Klasa e 8-të e prezencit"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Mësimi 8
 
 
-## 8.1. Zur Bildung von Nomina
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
+## 8.1. Për formimin e emrave
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+Në gramatikën tradicionale indiane, dallimi bëhet midis prapashtesave me të cilat formohen rrënjët emërore:
 
-::: grammar-box
-**Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
-
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen**
-:::
-
-## 8.2. Einteilung der Nominalsuffixe
-
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta
-
-- **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
-
-**Einteilung nach dem Ablaut:**
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung
-
-## 8.3. Einige wichtige Nominalsuffixe
-
-### 8.3.1. -a m. (kṛt)
+**prapashtesa kṛt (⟪कृत्⟫) (prapashtesa parësore):** formojnë rrënjë emërore, absolutiva dhe infinitive nga rrënjët verbale (**dhātu** m. = ⟪धातु⟫) dhe stërmorjet verbale.
+**prapashtesa taddhita (⟪तद्धित⟫) (prapashtesa dytësore):** i bashkohen rrënjëve emërore dhe indeklinabileve, duke formuar rrënjë të reja emërore ose indeklinabile.
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
-:::
-**Beispiele:**
+**Skema:**
+**Rrënjë + prapashtesë kṛt » rrënjë emërore etj. + prapashtesë taddhita » rrënjë e re emërore etj.**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+**Rrënjë emërore + përfundim rasti » emër funksional në sintaksë**
+:::
+
+## 8.2. Ndërtimi i prapashtesave emërore
+
+**kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+**kārakakṛt** (⟪कारककृत्⟫) » emra agjentorë (tregojnë dikë që bën atë që tregon rrënja)
+**kṛtikṛt** (⟪कृतिकृत्⟫) » emra veprimorë (tregojnë veprimin e shprehur nga rrënja) ose abstrakte
+
+**taddhita**
+**viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adje ktive
+**bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstrakte
+**tadvattaddhita** (⟪तद्वत्तद्धित⟫) » posedues (p.sh. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+**tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » shkallëzim (komparativ, superlativ), krahasim
+**pūraṇataddhita** (⟪पूरणतद्धित⟫) » numra ordinalë (i pari etj.)
+**vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » në vend të përfundimeve rasti (p.sh. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+**abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (formime cvit ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+
+**Ndarritja sipas Ablaut:**
+**guṇya** (⟪गुण्य⟫): formim i nivelit të lartë
+**na guṇya** (⟪न गुण्य⟫): formim i nivelit të ulët
+**vṛddhyarha** (⟪वृद्ध्यर्ह⟫): formim i nivelit të zgjatur
+
+
+## 8.3. Disa prapashta emërore të rëndësishme
+
+### 8.3.1. -a mashk. (kṛt)
+
+::: grammar-box
+**Prapashta kṛt -a formon emra mashkullorë (më rrallë asgjësorë) që shënojnë një veprim ose gjendje të caktuar nga rrënja; ndonjëherë edhe mbiemra ose emra që shprehin agjentin (kartṛ) të veprimit të caktuar nga rrënja folëse. Për penultimën e shkurtër (= zanor përpara konsonantit, ku përfundon rrënja) ose zanorin e fundit të rrënjës, zakonisht zëvendësohet niveli i lartë (guṇa) ose niveli i zgjatur (vṛddhi).**
+:::
+**Shembuj:**
+
+| Rrënja:br⟪धातु⟫ | + -a (kṛt) | Kuptimi |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
+| **ji** 1 P:br⟪आप्⟫:br"fitoj fitore" | **jaya** mashk.:br⟪जय⟫ | "fitimi, fitoreja" |
+| **muh** 4 P:br⟪मुह्⟫:br"të jesh i hutuar" | **moha** mashk.:br⟪मोह⟫ | "humbje e mendsh, keqkuptim, gabim" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"të zemërohem" | **krodha** mashk.:br⟪क्रोध⟫ | "zemërim" |
+| **kup** 4 P:br⟪कुप्⟫:br"të zemërohem" | **kopa** mashk.:br⟪कोप⟫ | "zemërim" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"të dëshiroj" | **lobha** mashk.:br⟪लोभ⟫ | "dëshirë e fortë" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"të marr" | **lābha** mashk.:br⟪लाभ⟫ | "marrja, fitimi" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"të lëshoj,:brelas të bjerë" | **sarga** mashk.:br⟪सर्ग⟫ | "lëshimi, emanimi, krijimi" (për sandhin e fjalës j » shiko më vonë) |
+| **śru** 5 P:br⟪श्रु⟫:br"dëgjoj" | **śrava** mashk.:br⟪श्रव⟫ | "dëgjimi" |
+| **bhū** 1 P:br⟪भू⟫:br"të bëhem, të jem" | **bhāva** mashk.:br⟪भाव⟫ | "bërja, (diçka) të jem, natyra, karakteri" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"të luftoj" | **yodha** mashk.:br⟪योध⟫ | "luftëtar, ushtar" |
+
 
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
+**Prefiksi kṛt -ana zakonisht formon emërtesha neutrale, të cilat shënojnë një veprim, gjendje ose mjetin / veglën përmes së cilës realizohet veprimi i cili emërtohet nga rrënja ose një stamë verbale. Për një penultimë të shkurtër ose për një zanor në fund të rrënjes, zakonisht zëvendësohet shkalla e lartë (guṇa).**
 :::
-**Beispiele:**
+**Shembuj:**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Rrënja:br⟪धातु⟫ | + -ana (kṛt) | Kuptimi |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"shkoj" | **gamana** n.:br⟪गमन⟫ | "shkuarja" |
+| **nī** 1 U:br⟪नी⟫:br"udhëtoj" | **nayana** n.:br⟪नयन⟫ | "(mjeti i udhëtimit, d.m.th.) sy" |
+| **śru** 5 P:br⟪श्रु⟫:br"dëgjoj" | **śravaṇa** n.:br⟪श्रवण⟫ | "(mjeti i dëgjimit =) vesh" |
+| **kṛ** 8 U:br⟪कृ⟫:br"bëj" | **kāraṇa** n.:br⟪कारण⟫ | "(ajo, përmes së cilës bëhet diçka, d.m.th.) arsye, bazë" |
+| **bhū** 1 P:br⟪भू⟫:br"bëhem" | **bhavana** n.:br⟪भवन⟫ | "bërja, lindja" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"shoh" | **darśana** n.:br⟪दर्शन⟫ | "shikimi, pikëpamja, sistem filozofik, dukuri, veçanërisht: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801))
+Fig.: Maa Batakali Darshan, Puri, Orissa
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0801))
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
+**"Darshan"** ose **"Darshana"** është një term nga hinduizmi për shikimin dhe vizionin e të Shenjtit dhe të Hyjnishëm. Nën *Darshana* kuptohet p.sh. takimi zyrtar midis nxënësit dhe mësuesit, ku nxënësi është ftuar nga mësuesi. Por mund të nënkuptojë edhe *vetveteqënien* gjatë shikimit të një imazhi hyjnor. Kuptimi i fundit është ai më i shpeshtë në përdorimin e sotëm të gjuhës hindi. Në lidhje me Mata Amritanandamayin, Darshan do të thotë përqafim nga Guru.
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia)
+Besokët hinduë shkojnë në tempull për të arritur pamjen e Perëndisë përmes një simboli ose statuje, në të cilën pritet pranija shpirtërore e hyjnisë. Në këtë kuptim, gjithashtu një bekim nga hyjnia. Megjithatë, Darshan mund të merret edhe përmes një vizioni të hyjnisë gjatë lutjes ose meditimit. Një person i gjallë, që konsiderohet si inkarnim i hyjnisë, si p.sh. një Avatara, mund të japë Darshan.
+(Burimi: Wikipedia)
 :::
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
+**Prefiksi kṛt -tra formon (zakonisht) emra meshkujsh/neutrale, të cilët tregojnë mjetin ose veglën përmes së cilës veprimi i treguar nga rrënja realizohet. Penultima e shkurtër dhe vokali përfundimtar i rrënës zëvendësohen nga shkalla e lartë (guṇa).**
 :::
 
-**Beispiele:**
+**Shembuj:**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Rrënja:br⟪धातु⟫ | + -tra (kṛt) | Kuptimi |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br"udhëtoj" | **netra** n.:br⟪नेत्र⟫ | "(Mjeti i udhëtimit =) Sy" |
+| **śru** 5 P:br⟪श्रु⟫:br"dëgjoj" | **śrotra** :br⟪श्रोत्र⟫ | "(Vegla e dëgjimit=) Vesh" |
+| **man** 4 Ā:br⟪मन्⟫:br"mendoj" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Vegla e mendimit:) Mantra, formulë 'magjike' (Mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"shtrij" | **tantra** n.:br⟪तन्त्र⟫ | "Fije pëlhure" |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
+**Mantra Origjinale Oṃ (⟪ॐ⟫) në tekste të ndryshme indiane**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| In Kannaresischer Schrift | In Tamil-Schrift |
+| Në shkrimin Kannares | Në shkrimin Tamil |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Bildquellen: [Details](/licenses#lekt0803))
+(Burimet e imazhit: [Detaje](/sq/licenses#lekt0803))
 :::
+
 
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
+**Fiksësi kṛt -ti formon femineajn substantivojn, kiuj ĝenerale esprimas la agon aŭ staton indikatan de la radikoj. La formo de la radiko estas en profunda gradado.**
 :::
-**Beispiele:**
+**Ekzemploj:**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Radiko:br⟪धातु⟫ | + -ti (kṛt) | Signifo |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"aŭdi" | **śruti** f.:br⟪श्रुति⟫ | "aŭdado, la Vedo" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"memorigi" | **smṛti** f.:br⟪स्मृति⟫ | "Memorigo, memoro, tradicio, atentecon" |
+| **nī** 1 U:br⟪नी⟫:br"gvidi" | **nīti** f.:br⟪नीति⟫ | "gvidado, gvido, konduto" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"emanacii" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanacio, kreado" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"vidi" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "rigardo, vizaĝo, vidmaniero" |
+| **gam** 1 P:br⟪गम्⟫:br"iri" | **gati** f.:br⟪गति⟫ | "paŝo, kariero, celo de irado" (el *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"pensi" | **mati** f.:br⟪मति⟫ | "pensi, penso, opinio" (el *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*Noto: \* antaŭ formo signifas, ke tiu formo ne ekzistas en sanskrito, sed estas teorie dedukta kiel antaŭkondiĉo por certa formado. La profunda gradado de **gam** estas gṃ = \*gm, la m anstataŭiĝas per **a** kiel tiel nomata nasalis sonans » **ga**. Analogio validas por **man** » **ma**.
+
+
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
+**La taddhita-sufiksoj -tva n. kaj -tā f. formas abstraktajn substantivojn al nomoj. La formo de la subaĵa nominalradiko restas senŝanĝa.**
 :::
-**Beispiele:**
+**Shembuj:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| Themeli emëror:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Kuptimi |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **guru** :br⟪गुरु⟫:br3 "i rëndë, i nderuar,:brm. Mësues" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Rëndësia, nderimi,:brTë qenët mësues (natyra ose esenca e një mësimdhënësi)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahman" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Të qenët Brahman,:brAjo që e bën një Brahman Brahman,:brEsenca / Natyra e një Brahmani" |
+| **deva** :br⟪देव⟫:brm. "Qiejtar, Perëndi" | — | **devatā** f.:br⟪देवता⟫ | "Perëndeshë" |
+:::
+**Shembuj:**
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
+| Themeli emëror:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Kuptimi |
+| :--- | :--- | :--- | :--- |
+| **guru** :br⟪गुरु⟫:br3 "i rëndë, i nderuar,:brm. Mësues" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Rëndësia, nderimi,:brTë qenët mësues (natyra ose esenca e një mësimdhënësi)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahman" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Të qenët Brahman,:brAjo që e bën një Brahman Brahman,:brEsenca / Natyra e një Brahmani" |
+| **deva** :br⟪देव⟫:brm. "Qiejtar, Perëndi" | — | **devatā** f.:br⟪देवता⟫ | "Perëndeshë" |
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+Këto formime mund të ndërtohen praktikisht për çdo emër dhe janë shumë të shpeshta në veprat shkencore të Sanskritishtes.
+
+
+## 8.4. Klasa e 8-të e Presentit (tanādi = ⟪तनादि⟫ = "tan etj.")
 
 ::: grammar-box
-**Stammbildung:**
-- **Starker Stamm: Wurzel + -o-**
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
+**Formimi i themelit:**
+**Themeli i fortë: Rrënjë + -o-**
+**Themeli i dobët: Rrënjë + -u- (para zanoreje: -v-)**
 
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**
-⟪तनोति⟫
-- 3\. pl. P. **tanvanti**
-⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**
-⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**
-⟪तन्वते⟫
+Shembull **tan** 8 U (⟪तन्⟫) "tërhiq":
+3\. sg. P. **tanoti** :br⟪तनोति⟫
+3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
+3\. sg. Ā. **tanute** :br⟪तनुते⟫
+3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
 :::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+Shënim: Për debatin nëse **tan** është në fakt një rrënjë e klasës së 5-të (*tn » ta + no-), shih Thumb-Hauschild, Manual i Sanskritishtes II, 265.
 
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmässig:
+Rrënja më e rëndësishme e klasës së 8-të është **kṛ** 8 U (⟪कृ⟫) "bëj, bëj". Konjugimi i saj është jo-rregullor:
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**
-⟪करोति⟫
-- 3\. pl. P. **kurvanti**
-⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**
-⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**
-⟪कुर्वते⟫
+**kṛ 8 U (⟪कृ⟫) "bëj, bëj"**
+3\. sg. P. **karoti** :br⟪करोति⟫
+3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
+3\. sg. Ā. **kurute** :br⟪कुरुते⟫
+3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
 
-**Lernen Sie folgende Wörter:**
+## 8.5. Fjalori
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+**Mësoni fjalët e mëposhtme:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : fitoj, mund, kapërcej
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : kap, marr, zotëroj
+**tu** ⟪तु⟫ : por (ndodhet pas fjalës së parë të fjalisë ose pjesës së fjalisë që kundërshton)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : shoh, vë re (përdoret si rrënja e presentit në vend të rrënjës **dṛś** 0 "shoh, vë re")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : bëj, kryej
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : shtrij, zgjas
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : ruaj, mbroj
+**sārathi** m. ⟪सारथि⟫ : shofer karroce, kuqeritar
+**kapi** m. ⟪कपि⟫ : majmun
+**kumārī** f. ⟪कुमारी⟫ : vajza, virgjëresha
+**nāga** m. ⟪नाग⟫ : të zhveshuri, elefanti, gjarpri (elefantet dhe gjitarët nuk kanë qime, ashtu siç është "majmuni i zhveshur" njeriu)
+**gaja** m. ⟪गज⟫ : elefant
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : qaj, pikëllohem
+**śuka** m. ⟪शुक⟫ : papagall
+**pat** 1 P (patati) ⟪पत् पतति⟫ : bien, fluturoj
+**patrikā** f. ⟪पत्रिका⟫ : letër, mesazh
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : gdhend, shkruaj (fillimisht me një mjet të mprehtë në fletë palme, më vonë përgjithësisht)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Fig.: **likh** (⟪लिख्⟫) : Mjet shkrimi prej çeliku indian për gdhendje në fletë palme
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
-:::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+Fig.: **likh** (⟪लिख्⟫) : Shkop shkrimi i Batakëve (Sumatra), siç ndoshta përdorej edhe në Indi
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0809))
 
-## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
-1. lobha
-2. rakṣa
-3. śrotra
-4. mati
-5. savana
-6. yodha
-7. lābha
-8. kāraṇa
-9. gati
-10. khādana
-11. smara
-12. sṛṣṭi
-13. tantra
-14. bhāva
-15. darśana
-16. netra
-17. veśana
-18. kopa
-19. sarga
-20. yajana
-21. moha
-22. śrava
-23. bhavana
-24. nīti
-25. nartana
-26. jaya
-27. nayana
-28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
+## 8.7. Ushtrim leximi dhe përkthimi
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
-
-**D) Übersetzen Sie:**
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
-3. Er besiegt Kṣatriyas.
-4. Sie spannt die Webkette auf.
-5. Soldaten kämpfen.
-6. Der Brahmane macht ein Feuer.
-7. Brahmanen machen Feuer.
-8. Was tun diese Kämpfer?
-9. Wen sieht das Auge?
-10. Was begehren Götter?
-11. Was ist der Grund?
-
-## 8.7. Lese- und Übersetzungsübung
-
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-8. ⟪देवतां⟫ ⟪यजति⟫ |
-9. ⟪बाला⟫ ⟪भवति⟫ |
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-12. ⟪बाला⟫ ⟪लिखति⟫ |
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-17. ⟪शुकः⟫ ⟪पतति⟫ |
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+1. ⟪शूद्रो बालं नयति⟫ |
+2. ⟪कविर्देवं यजते⟫ |
+3. ⟪साधुः फलानि खादति⟫ |
+4. ⟪गुरुः क्रोधं जयति⟫ |
+5. ⟪देवो नरकं सृजति⟫ |
+6. ⟪धेनुर्ग्रामं विशति⟫ |
+7. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+8. ⟪देवतां यजति⟫ |
+9. ⟪बाला भवति⟫ |
+10. ⟪सारथी रथं नयति⟫ |
+11. ⟪कपयः फलानि खादन्ति⟫ |
+12. ⟪बाला लिखति⟫ |
+13. ⟪कुमारी गृहं विशति⟫ |
+14. ⟪देवो नागं सृजति⟫ |
+15. ⟪बालो गजं नयति⟫ |
+16. ⟪विमला शोचति⟫ | (⟪विमला⟫ emër vetjak Vimalā)
+17. ⟪शुकः पतति⟫ |
+18. ⟪बालः पत्रिकां लिखति⟫ |

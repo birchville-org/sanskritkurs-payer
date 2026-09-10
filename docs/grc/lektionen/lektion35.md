@@ -1,7 +1,8 @@
 ---
-title: Lektion 35
+title: "Μάθημα 35"
 lesson_id: 35
 status: stable
+
 ---
 
 # Μάθημα γʹ5
@@ -188,9 +189,9 @@ status: stable
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Εἰκ.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/grc/licenses#lekt3502))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3502))
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): ἀείδω, ψάλλω, καταγγέλλω
 ::: indent
@@ -206,9 +207,9 @@ People walking, Senegal.
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Εἰκ.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/grc/licenses#lekt3501))
+(Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#lekt3501))
 :::
 ## 35.5. Ἄσκησις
 

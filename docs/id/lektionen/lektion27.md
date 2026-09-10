@@ -297,7 +297,7 @@ Painting by Rāja Ravi Varmā (1848 - 1906).
 
 ## 27.7. Paradigma Deklinasi untuk Dihafal
 
-### 27.7.1. Maskulina auf -a: ⟪नर⟫
+### 27.7.1. Maskulina berakhiran -a: ⟪नर⟫
 
 ::: grammar-box
 
@@ -318,7 +318,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Image source: [Detail](/en/licenses#lekt2711))
 :::
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### 27.7.2. Neutra berakhiran -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -339,7 +339,7 @@ Fig.: ⟪फलानि⟫
 Fruits. Bangalore.
 (Image source: [Detail](/en/licenses#lekt2710))
 :::
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Feminina berakhiran -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -360,7 +360,7 @@ Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
 (Image source: [Detail](/en/licenses#lekt2718))
 :::
-### 27.7.4. Maskulina auf -i: ⟪अरि⟫
+### 27.7.4. Maskulina berakhiran -i: ⟪अरि⟫
 
 ::: grammar-box
 
@@ -381,7 +381,7 @@ Fig.: ⟪अरयः⟫
 Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 - kira-kira 1907).
 (Sumber gambar: [Detail](/en/licenses#lekt2712))
 :::
-### 27.7.5. Feminina auf -i: ⟪मति⟫
+### 27.7.5. Feminina berakhiran -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -396,7 +396,7 @@ Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 -
 | **7. Lokatif** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
-### 27.7.6. Maskulina auf -u: ⟪गुरु⟫
+### 27.7.6. Maskulina berakhiran -u: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -459,7 +459,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Image source: [Detail](/en/licenses#lekt2715))
 :::
-### 27.7.9. Partisip Present Parasmaipada auf -ant: ⟪सन्त्⟫
+### 27.7.9. Partisip Present Parasmaipada berakhiran -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -495,7 +495,7 @@ Sai Baba dari Shirdi (1835 - 1918).
 | **7. Lokatif** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Maskulina dan Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. Maskulin dan Netral berakhiran -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
 

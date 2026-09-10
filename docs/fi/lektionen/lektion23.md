@@ -79,7 +79,7 @@ Niiden tähän mennessä opittujen juurten lisäksi seuraavat infinitiivit on er
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- : korkeana asteena -ṛ-:lle ovat infinitiivissä:
+-ra- : korkeana asteena -ṛ-:lle ovat infinitiivissä:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[Bài tập 30]"
 uebung_id: 30
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,12 +7,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 30
+# Bài tập 30
 
-A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um:
+A) Chuyển đổi các dạng động từ sau thành dạng Optativ tương ứng với ngôi, số và giống của động từ:
 
 ::: grammar-box
-| Präsens | Optativ |
+| Hiện tại | Optativ |
 | :--- | :--- |
 | ⟪१⟫. ⟪ह्रियते⟫ | ⟪ह्रियेत⟫ |
 | ⟪२⟫. ⟪घ्नन्ति⟫ | ⟪हन्युः⟫ |
@@ -80,53 +80,57 @@ A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi ents
 | ⟪६४⟫. ⟪अदन्ति⟫ | ⟪अद्युः⟫ |
 | ⟪६५⟫. ⟪अध्यापयन्ति⟫ | ⟪अध्यापयेयुः⟫ |
 :::
-B) Übersetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskrit auf:
+B) Dịch các câu sau và phân tích các hợp danh (compound words) trong tiếng Phạn:
 
-⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
-(⟪आर्याणि⟫ ⟪सत्यानि⟫)
-Buddha hat den Menschen zum Heil der Edlen seine Lehre verkündet, damit sie die edlen Wahrheiten erkennen.
+⟪१⟫. **⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥⟫**
+(⟪आर्याणि सत्यानि⟫)
+Đức Phật đã tuyên bố giáo pháp của Ngài vì sự an lạc của những bậc Hiền thánh, để họ nhận thức được các chân lý cao quý.
 
-⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
-Menschen, die den Göttern nicht opfern, keine Gelübde halten, lügen und Unrecht tun, werden nicht glücklich und fallen nach ihrem Tod in eine Hölle.
+⟪२⟫. **⟪ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥⟫**
+Những người không cúng dường các vị thần, không giữ giới luật, nói dối và làm điều ác sẽ không được hạnh phúc và sau khi chết sẽ đọa vào địa ngục.
 
-⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
-(⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
-Der edle Sohn will, dass seine Verwandten kommen, und lässt einen Diener die Verwandten holen.
+⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥⟫**
+(⟪आर्यपुत्रः⟫ — ⟪आर्याणां पुत्रः⟫)
+Người con quý tộc muốn thân quyến của mình đến, nên sai một người hầu đi mời thân quyến.
 
-⟪४⟫. **⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫**
-(⟪अन्नस्य⟫ ⟪लोभात्⟫ ⟪।⟫ ⟪प्राप्तं⟫ ⟪ज्ञानं⟫ ⟪येन⟫ ⟪सः⟫)
-Zur Einsicht gelangt, dass aus Fressgier Leid entsteht, isst er die guten Früchte nicht.
+⟪४⟫. **⟪अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥⟫**
+(⟪अन्नस्य लोभात् । प्राप्तं ज्ञानं येन सः⟫)
+Nhận thức được rằng khổ đau phát sinh từ lòng tham ăn uống, ông ta không ăn những trái cây tốt.
 
-⟪५⟫. **⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫**
-(⟪वैश्यानां⟫ ⟪पुत्राः⟫)
-Pflicht der Vaiśyas ist es, von Kauf und Verkauf zu leben. Deshalb kaufen und verkaufen Vaiśyas.
+⟪५⟫. **⟪क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥⟫**
+(⟪वैश्यानां पुत्राः⟫)
+Trách nhiệm của những người Vaiśya là sống bằng việc mua bán. Do đó, những người Vaiśya tiến hành mua và bán.
 
-⟪६⟫. **⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫**
-(⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
-Wenn ein Übeltäter in einer Hölle von seiner Schlechtigkeit gereinigt ist, wird er wiedergeboren.
+⟪६⟫. **⟪कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥⟫**
+(⟪कृतं पापं येन सः । पुनर्भव⟫ — ⟪पुनः भवति इति⟫)
+Nếu một kẻ phạm tội trong địa ngục được thanh tẩy bởi sự ác độc của chính mình, hắn sẽ được tái sinh.
 
-⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
-(⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
-Pflicht der Edlen ist, dass Brahmanensöhne die Lehrabschnitte der Veden und der Überlieferung immer wieder studieren.
+⟪७⟫. **⟪ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥⟫**
+(⟪ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च⟫)
+Trách nhiệm của bậc Hiền thánh là các con trai Bà-la-môn phải luôn nghiên cứu lại các phân đoạn Kinh Vê-đa và truyền thống.
 
-⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
+⟪७⟫. **⟪ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥⟫**
+(⟪ब्राह्मणानां पुत्राः । वेदानामध्यायांश्च स्मृतीनामध्यायांश्च⟫)
+Trách nhiệm của bậc Hiền thánh là các con trai Bà-la-môn phải luôn nghiên cứu lại các phân đoạn Kinh Vê-đa và truyền thống.
+
+⟪८⟫. **⟪यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Một Bà-la-môn yêu thương một người Sū-đra không phải là một Bà-la-môn tốt, bởi vì một Bà-la-môn tốt yêu thương một phụ nữ Bà-la-môn.
 
-⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
-**⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-Man sage Wahrheiten, die angenehm sind, unangenehme Wahrheiten sage man nicht; nicht sage man angenehme Unwahrheiten, dies ist das ewige Gesetz.
+⟪९⟫. **⟪सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् ।⟫**  
+**⟪प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥⟫** (Manu IV.138)  
+Hãy nói những sự thật dễ chịu, đừng nói những sự khó chịu; đừng nói những điều không thật dễ chịu, đó là luật lệ vĩnh hằng.
 
 ::: media
 ![](/images/uebung048.webp)
-Abb.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
-(Bildquelle: [Details](/licenses#uebung048))
+Hình: ⟪श्रीमोहनभोपेन रावणहस्तो वाद्यते⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung048))
 :::
 ---
 
 ## Wortformbestimmung
 
-Bestimmen und übersetzen Sie folgende Wortformen:
+Xác định và dịch các dạng từ sau:
 
 ::: grammar-box
 | Wortform | Bestimmung | Bedeutung |
@@ -174,7 +178,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 :::
 ::: media
 ![](/images/uebung047.webp)
-Abb.: ⟪भक्त्याः⟫
-(Bildquelle: [Details](/licenses#uebung047))
+Hình: ⟪भक्त्याः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung047))
 :::
 

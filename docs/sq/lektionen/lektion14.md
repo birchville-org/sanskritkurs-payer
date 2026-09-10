@@ -1,82 +1,83 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Mësimi 14"
+subtitle: "Shprehja e marrëdhënies midis atyre që shënohen nga emrat: Gjenitivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = rasti i gjashtë)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 14
 
-## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
+## 14.1. Shprehja e marrëdhënies së të shënuarit nga emrat: Gjenitivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = rasti i gjashtë)
 
 ::: grammar-box
-Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
+Nëse dëshirohet të shprehet marrëdhënia e treguar nga dy emra, përdoret gjenitivi (ṣaṣṭhī f. "rasti i gjashtë"). Gjenitivi dallon nga të gjithë rastët e tjerë me faktin se -- përveç disa përjashtimeve -- nuk shërben për përcaktimin më të afërt të veprimit të shprehur nga verbi, por për shprehjen e marrëdhënies midis personave ose gjërave të treguara nga emrat. Shpesh gjenitivi përgjigjet në pyetjen: Cujt?
 :::
-Beispiele:
+Shembuj:
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "Des Dichters Sohn"
+⟪कवेः पुत्रः⟫ "Bir i poetit"
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum"
+⟪धनस्य लोभः⟫ "Lakmia për pasuri"
 
-⟪नगरस्यार्धम्⟫ "Die Hälfte der Stadt"
+⟪नगरस्यार्धम्⟫ "Gjysma e qytetit"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas"
+⟪रामस्य कृतम्⟫ "Vepra e Rāmas"
 
 ::: grammar-box
-Die normale Wortstellung ist:
+Renditja normale e fjalëve është:
 
-> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
+> **Fjala përcaktuese në Gjenitiv — Emri i mëtejshëm në një rast tjetër**
 :::
-**Genetiv und PPP:**
+**Gjenitivi dhe PPP:**
 
 ::: grammar-box
-Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens).
+Në rastin e PPP-ve, gjenitivi mund të zëvendësojë instrumentalin (tṛtīyā) për agjentin (kartṛ); Në konstrukcionin me instrumentalin, PPP-ja konsiderohet si formë verbale pasive (ajo që është në instrumentalin tregon agjentin), ndërsa në konstrukcionin me gjenitiv, PPP-ja konsiderohet si emër ose mbiemër (pra ajo që është në gjenitiv nuk konsiderohet vërtet si agjent).
 
-Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
+Sipas Pāṇinit 2.3.67, në rastin e PPP-së, gjenitivi përdoret kur PPP-ja ka kuptim prezentik (shih më sipër), ndërsa instrumentali përdoret kur PPP-ja ka kuptim të kaluar:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
+> ⟪रामस्येष्टं फलम्⟫ "Fruti e dëshiruar nga Rāma = Fruti që Rāma po e dëshiron tani"
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat"
+> ⟪रामेणेष्टं फलम्⟫ "Fruti që Rāma kishte dëshiruar"
 
-Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
+Natyrisht, kur një PPP Neutër Singular përdoret si abstrakt verbal — pra si emër — gjendet në raste gjenitive.
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Formimi i formave gjenitive (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet.
+Gjenitivi formohet te rrënjët verbale me ndryshim steme nga forma e dobët.
 
-**Genetiv von konsonantisch auslautenden Stämmen:**
+**Gjenitivi i emrave me përfundim konsonantik:**
 
 ::: grammar-box
 
-Nach Konsonant sind die regelmässigen Genetivendungen:
+Pas konsonantit, përfundimet rregulltare gjenitive janë:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| Emër steme | Forma e dobët | Gjenitiv Singular | Gjenitiv Plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Genetiv von vokalisch auslautenden Stämmen, ausser einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:**
+**Gjenitivi i emrave me përfundim vokalik, përveç emrave rrënjorë njëzjarësh dhe atyre me përfundim diphthongik:**
 
-**Plural:**
+**Plurali:**
 
 ::: grammar-box
 
-Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
+Gjenitivi plural i emrave me përfundim vokalik formohet kështu:
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **-vokali i gjatë përfundimtar i stemes + -nām**
 
 :::
 ::: center
 
-| Nominalstamm | Genetiv Plural |
+| Emër steme | Gjenitiv Plural |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
@@ -88,16 +89,16 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiv Singular vokalisch auslautender Stämme:**
+**Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor:**
 
 ::: grammar-box
 
-Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet und ist gut auswendig zu lernen.
+Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyrë të parregullt dhe duhet mësuar me shpirt.
 
 :::
 ::: center
 
-| Stamm | Genetiv Singular |
+| Rrënja | Gjenitiv Singular |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,202 +106,102 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.m.th. ose si kavi ose si devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.m.th. ose si paśu ose si feminozet shumësyllabe me -ū) |
 
 :::
-**Fragepronomen und Demonstrativpronomen:**
+**Pronoma pyetëse dhe demonstrative:**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Maskulin / Neutër** | **Gjenitiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Gjenitiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminin** | **Gjenitiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Gjenitiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formengleichheit:**
+**Barazia e formës:**
 
 ::: important
 
-Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
+Në të gjitha rrënjët emërore përjashtojtë maskulinet dhe neutrat me -a si dhe pronomat, forma e gjenitivit të numrit njëjës është identike me formën e ablativit (pañcamī "fundimi i pestë gramatical") të numrit njëjës!
 
-Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum!
+Vinihëroni se te në rastin e rrënjeve që përfundojnë me bashkëtingëllore, ablativi dhe gjenerativi i vetjës janë të njëjtë me akuzativin e shumjes për mashkullore dhe femërore!
 
 :::
-## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
+## 14.3. Më shumë rreth përdorimit të gjenerativit (⟪षष्ठी⟫)
 
 ::: grammar-box
-Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
+Përtej rregullit të përgjithshëm më sipër, gjenerativi përdoret për të shprehur objektin e disa foljeve, p.sh. te foljet e kujtesës:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवानां स्मरति⟫ "Ai kujton perënditë"
 
-Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
+Megjithatë, te të gjitha këto folje objekti mund të qëndrojë edhe në akuzativ:
 
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवान्स्मरति⟫ "Ai kujton perënditë"
 
-Weiteres später.
+Më shumë më vonë.
 :::
-## 14.4. Wortliste
+## 14.4. Fjalor
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
-* **dīpa m.** (⟪दीप⟫) : Lampe
+* **śīla n.** (⟪शील⟫) : karakter i mirë, moral
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : zbukurim
+* **dīpa m.** (⟪दीप⟫) : llambë
 
 ::: media
 ![](/images/lekt1405.webp)
-Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405))
+Fig.: ⟪दीपाः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟫) : dhunë, forcë, fuqi; ushtri, trup
+* **bāla 3** (⟪बाल⟫) : i ri, fëmijëror, budalla; m. djalosh
+* **bālā f.** (⟪बाला⟫) : vajzë e re
+* **nara m.** (⟪नर⟫) : burrë, njeri
+* **śatru m.** (⟪शत्रु⟫) : armik
+* **loka m.** (⟪लोक⟫) : botë; vet. dhe shum.: njerëzit, populli
+* **jala n.** (⟪जल⟫) : ujë
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : të lindësh, të krijohesh, të shfaqesh
+* **jan-a m.** (⟪जन⟫) : krijesë, njeri, popull
+* **vac 2 P** (vakti, pa 3. shum.!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : të thuash, të flasësh me (dvitīyā)
+* **uk-ti f.** (⟪उक्ति⟫) : deklaratë, fjalë
+* **vac-ana n.** (⟪वचन⟫) : të folurit, fjala
+* **vāk-ya n.** (⟪वाक्य⟫) : fjalë, ligjëratë
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Thënie
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
+Përktheni thënitë e mëposhtme dhe m'i merrni mend:
 
-**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
+**⟪नीचो वद⟫ati ⟪न कुरुते⟫** **⟪वदति न साधुः करोत्येव ॥१॥⟫**
 
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫**
+**⟪शीलं नरस्य भूषणम् ॥२॥⟫**
 
-**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫**
+**⟪सत्येन जनानां सुखं भवति ॥३॥⟫**
 
-**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫**
+**⟪पापा नराः स्वर्गं न लभन्ते ॥४॥⟫**
 
-**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
+**⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
-## 14.6. Übung
+## 14.6. Ushtrim
 
-**A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:**
+**A) Formoni gjinorin e vetjës dhe shumjës për fjalët e mëposhtme. Jepni kuptimin dhe gjininë gramatike të fjalëve:**
 
-⟪१⟫. ⟪अनृत⟫
-
-⟪२⟫. ⟪ऋषि⟫
-
-⟪३⟫. ⟪पाद⟫
-
-⟪४⟫. ⟪बुद्धि⟫
-
-⟪५⟫. ⟪गुरु⟫
-
-⟪६⟫. ⟪स्वर्ग⟫
-
-⟪७⟫. ⟪नगर⟫
-
-⟪८⟫. ⟪धेनु⟫
-
-⟪९⟫. ⟪द्विज⟫
-
-⟪१०⟫. ⟪मुक्ता⟫
-
-⟪११⟫. ⟪विद्या⟫
-
-⟪१२⟫. ⟪वर्ण⟫
-
-⟪१३⟫. ⟪द्विजाति⟫
-
-⟪१४⟫. ⟪रूप⟫
-
-⟪१५⟫. ⟪प्रतिग्रह⟫
-
-⟪१६⟫. ⟪सोढ⟫
-
-⟪१७⟫. ⟪नायिका⟫
-
-⟪१८⟫. ⟪साध्वी⟫
-
-⟪१९⟫. ⟪अग्नि⟫
-
-⟪२०⟫. ⟪वैश्या⟫
-
-⟪२१⟫. ⟪लोक⟫
-
-⟪२२⟫. ⟪उक्ति⟫
-
-⟪२३⟫. ⟪शत्रु⟫
-
-⟪२४⟫. ⟪सुखवन्त्⟫
-
-⟪२५⟫. ⟪पुत्रवती⟫
+⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1404.webp)
-Abb.: ⟪पुत्रवती⟫
-(Bildquelle: [Details](/licenses#lekt1404))
+Fig.: ⟪पुत्रवती⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫
+⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 kuptime)
 
-⟪२७⟫. ⟪मार्ग⟫
-
-⟪२८⟫. ⟪मोक्ष⟫
-
-⟪२९⟫. ⟪शूद्रा⟫
-
-⟪३०⟫. ⟪अन्न⟫
-
-⟪३१⟫. ⟪साधु⟫
-
-⟪३२⟫. ⟪नीति⟫
-
-⟪३३⟫. ⟪योध⟫
-
-⟪३४⟫. ⟪सत्यवन्त्⟫
-
-⟪३५⟫. ⟪लाभ⟫
-
-⟪३६⟫. ⟪मोह⟫
-
-⟪३७⟫. ⟪गति⟫
-
-⟪३८⟫. ⟪प्रश्न⟫
-
-⟪३९⟫. ⟪सृष्टि⟫
-
-⟪४०⟫. ⟪नेत्र⟫
-
-⟪४१⟫. ⟪गुरुता⟫
-
-⟪४२⟫. ⟪ईश्वर⟫
-
-⟪४३⟫. ⟪कारण⟫
-
-⟪४४⟫. ⟪कृत⟫
-
-⟪४५⟫. ⟪धर्मवन्त्⟫
-
-⟪४६⟫. ⟪युद्ध⟫
-
-⟪४७⟫. ⟪दर्शन⟫
-
-⟪४८⟫. ⟪धातु⟫
-
-⟪४९⟫. ⟪गूढा⟫
-
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen)
-
-⟪५१⟫. ⟪उदित⟫
-
-⟪५२⟫. ⟪इदम्⟫
-
-⟪५३⟫. ⟪किम्⟫
+⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1403))
+Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1403))
 :::
 **B) Übersetzen Sie:**
 
@@ -332,6 +233,6 @@ Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ::: media
 ![](/images/lekt1402.webp)
-Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1402))
+Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt1402))
 :::

@@ -35,39 +35,39 @@ Kişisel ekli bir fiil biçimi olan sonlu (finite) bir fiil biçimi, Sanskritçe
 
 Birçok durumda Ātmanepada'nın anlam inceliği artık ayırt edilememektedir; hatta sanat şairleri bile Parasmaipada'dan anlam farkı olmaksızın sıklıkla Ātmanepada'yı kullanır. Yine de çeviri sırasında, böyle bir anlam inceliğinin mevcut olup olmadığını her zaman dikkatle göz önünde bulundurmak gerekir.
 
-Parasmaipada ve Ātmanepada'da (spesifik Ātmanepada anlamında) kullanılan fiillere **Ubhayapada**-fiilleri denir (**ubhayapada** n. = ⟪उभयपद⟫ = "her iki kelime biçimi").
+Parasmaipada ve Ātmanepada'da (özgün Ātmanepada anlamında) kullanılan fiillere **Ubhayapada**-fiilleri denir (**ubhayapada** n. = ⟪उभयपद⟫ = "her iki kelime biçimi").
 
-Bazı fiiller yalnızca Parasmaipada'da veya yalnızca Ātmanepada'da kullanılır. Bu fiillerde Ātmanepada veya Parasmaipada'nın spesifik bir anlamı yoktur. Örn. **manyate** = ⟪मन्यते⟫ = "o (er, kadın, hayvan) düşünür" (spesifik Ātmanepada anlamı olmaksızın).
+Bazı fiiller ya yalnızca Parasmaipada'da ya da yalnızca Ātmanepada'da kullanılır. Bu fiillerde Ātmanepada'nın ya da Parasmaipada'nın özgün bir anlamı yoktur. Örn. **manyate** = ⟪मन्यते⟫ = "o (onun, o) düşünür" (özgün Ātmanepada anlamı olmadan).
 
-4. **Anlatım Biçimi** (Kip/Modus):
-1. **Gösterme Kipi** (Indikativ): Bildirme biçimi
-2. **Dilek Kipi** (Optativ): Dilek ve olasılık biçimi
-3. **Emir Kipi** (İmperatif): Emir biçimi
-5. **Zaman** (Tense/Zaman Kipi):
-1. **Geniş Zaman** (Präsens): Şimdiki zaman
-2. **Düşük Geniş Zaman** (İmperfekt)
-3. **Mükemmel Zaman** (Perfekt)
-4. **Basit Geçmiş Zaman** (Aorist)
-5. **Gelecek Zaman** (Futur): Gelecek
-6. **Koşullu Zaman** (Kondisyonel)
+4. **Söylem Biçimi** (Modus):
+1. **İndikativ**: Bildirme kipi
+2. **Optativ**: Dilek kipi ve olasılık kipi
+3. **İmperativ**: Emir kipi
+5. **Zaman** (Tempus):
+1. **Präsens**: Şimdiki zaman
+2. **Imperfekt**
+3. **Perfekt**
+4. **Aorist**
+5. **Futur**: Gelecek zaman
+6. **Konditional**
 
-Zamanlar zaman köklerinden türetilir: Präsenskökü, Aoristkökü, Perfektkökü, Futurkökü.
+Zamanlar, zaman köklerinden oluşturulur: Präsenskökü, Aoristkökü, Perfektkökü, Futurkökü.
 
 
-## 6.3. Gösterme Kipi Geniş Zaman (laṭ = ⟪लट्⟫)
+## 6.3. İndikativ Präsens (laṭ = ⟪लट्⟫)
 
-Präsens, şimdiki zamanın ve özellikle sürekliliğin zaman kipi dir.
+Präsens, şimdiki zamanın zamanıdır; özellikle de devamlılığı ifade eder.
 
 ::: grammar-box
-**Gösterme Kipi (Bildirme Biçimi) Präsens, Präsensköküne所谓的 "birincil son ekler" eklendiğinde oluşturulur.**
+**İndikativ (bildirme kipi) Präsens, Präsensköküne birincil eklerin (Primärendungen) takılmasıyla oluşturulur.**
 :::
 Örnekler:
 
-| Kök (dhātu) | Präsenskökü | 3. Tekil Şahıs Gösterme Kipi Geniş Zaman Parasmaipada |
+| Kök (dhātu) | Präsenskökü | 3. Tekil Şahıs İndikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
-| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "o (er, kadın) girer" |
-| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "o (er, kadın) oluşur" |
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "o (er, kadın) dans eder" |
+| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "o (onun, o) girer" |
+| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "o (onun, o) oluşur" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "o (onun, o) dans eder" |
 
 
 ## 6.4. Üçüncü şahıs için birincil sonlar (prathama m. = ⟪प्रथम⟫ = "birinci (!) şahıs")
@@ -254,18 +254,18 @@ Sanskrit'te fiiller **kök formunda** verilir. Kökten sonra gelen sayı, **çek
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**C) Ātmanepada’yı oluşturun:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**D) Dişil (feminin) formu oluşturun:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Çevirin:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -278,29 +278,29 @@ Sanskrit'te fiiller **kök formunda** verilir. Kökten sonra gelen sayı, **çek
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) Sanskritçe çevirin:**
+1. Rāma (kurban efendisi olarak) kurban keser.
+2. Durgā bir tanrıçadır.
+3. Mīnākṣī bir tanrıçadır.
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
-(Bildquelle: Wikipedia, Public domain)
+**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī Tapınağı, Madurai, Tamil Nadu
+(Resim kaynağı: Wikipedia, Kamu malı)
 :::
 4. Şaşkındalar.
 5. Rāma kutsal bir adamdır.
 6. Efendi kimdir?
 7. İndra Efendidir.
-8. Kullanım hayvanları içeri girer.
+8. Evcil hayvanlar içeri girerler.
 9. Viṣṇu yayılır = Viṣṇu yaratır.
-10. İkinci doğumlular iyidir.
-11. Üçlü (bilgi) Sāmaveda, Ṛgveda ve Yajurveda'dır. (2 seçenek)
+10. İki kere doğanlar iyidir.
+11. Üçlü (bilgi) Sāmaveda, Ṛgveda ve Yajurveda’dır. (2 seçenek)
 12. Bu tanrıça iyidir.
-13. Beş "azap" şunlardır: Cehalet, bencillik (ahankara), tutku (aşk), nefret ve bedene bağlılık. (2 seçenek)
-14. "Brahma'nın kalış halleri" şunlardır: dostane iyilik, merhamet, sevinç ve denge. (2 seçenek)
+13. Beş "azap" şunlardır: Cehalet, Benlik yanılsaması, Tutku (aşk), Nefret, Bedene bağlılık. (2 seçenek)
+14. "Brahma'nın ikamet durumları" şunlardır: dostça iyi niyet, merhamet, başkalarının mutluluğuna ortak olma (mitfreude), denge. (2 seçenek)
 15. Bu Brahmanlar başkaları adına kurban keserler.
-16. Brahmanlar, Kṣatriyalar ve Vaisyalar ikinci doğumlulardır. (2 seçenek)
+16. Brahmanlar, Kṣatriyalar ve Vaśyalar iki kere doğanlardır. (2 seçenek)
 17. Bilimler (bir hükümdar için): Felsefe, üçlü (Veda bilgisi), ekonomi ve politika. (2 seçenek)
 18. Haliniz iyi mi?
-19. (Halim) her yönden iyidir.
+19. (Benim halim) her yönden iyi.

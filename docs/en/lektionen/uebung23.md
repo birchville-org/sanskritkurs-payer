@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 23
 
->> A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
+A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
 1.  ⟪आप्⟫ — ⟪आप्तुम्⟫
 2.  ⟪इ⟫ — ⟪एतुम्⟫
@@ -49,7 +49,7 @@ last_reconstructed: 2026-05-15
 36.  ⟪पच्⟫ — ⟪पक्तुम्⟫
 37.  ⟪सद्⟫ — ⟪सत्तुम्⟫
 
->> B) The following roots form the infinitive with a connecting vowel -i-. Form the infinitive:
+B) The following roots form the infinitive with a connecting vowel -i-. Form the infinitive:
 
 1.  ⟪आस्⟫ — ⟪आसितुम्⟫
 2.  ⟪नृत्⟫ — ⟪नर्तितुम्⟫
@@ -131,7 +131,7 @@ A) Translate into Sanskrit:
 5. Yoga is the stopping of the activities of the thinking organ.
 **⟪योगश्चित्तवृत्तिनिरोधः ॥⟫**
 
->> 6. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
+6. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
 **⟪धर्मो जयति नाधर्मः सत्यं जयति नानृतम् । क्षमा जयति न क्रोधो देवो जयति नासुरः ॥⟫**
 
 7. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
@@ -164,7 +164,7 @@ B) Decline in all cases known to you ⟪क्षत्रिया⟫ (f.):
 | 3. Instr. | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
 | 6. Gen. | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
 
->> C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
+C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
 
 ::: grammar-box
 ⟪१⟫. ⟪सह्⟫ (Class 1, to endure)
@@ -172,44 +172,44 @@ B) Decline in all cases known to you ⟪क्षत्रिया⟫ (f.):
 | Form | Value |
 | :--- | :--- |
 | Pres. Ind. | ⟪सहते⟫ |
->> | Passive | ⟪सह्यते⟫ |
+| Passive | ⟪सह्यते⟫ |
 | PPP | ⟪सोढ⟫ |
 | Absolute 1 | ⟪सोढ्वा⟫ / ⟪सहित्वा⟫ |
 | Absolute 2 | -⟪सह्य⟫ |
->> | Infinitive | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
+| Infinitive | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
 
 ⟪२⟫. ⟪पा⟫ (to drink / to guard)
 
 | Form | to drink (Class 1) | to guard (Class 2) |
 | :--- | :--- | :--- |
 | Pres. Ind. | ⟪पिबति⟫ | ⟪पाति⟫ |
->> | Passive | ⟪पीयते⟫ | ⟪पायते⟫ |
+| Passive | ⟪पीयते⟫ | ⟪पायते⟫ |
 | PPP | ⟪पीत⟫ | ⟪पात⟫ |
 | Absolute 1 | ⟪पीत्वा⟫ | ⟪पात्वा⟫ |
 | Absolute 2 | -⟪पाय⟫ | -⟪पाय⟫ |
->> | Infinitive | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
+| Infinitive | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
 
 ⟪३⟫. ⟪वच्⟫ (2P, to speak)
 
 | Form | Value |
 | :--- | :--- |
 | Pres. Ind. | ⟪वक्ति⟫ |
->> | Passive | ⟪उच्यते⟫ |
+| Passive | ⟪उच्यते⟫ |
 | PPP | ⟪उक्त⟫ |
 | Absolutive 1 | ⟪उक्त्वा⟫ |
 | Absolutive 2 | -⟪उच्य⟫ |
->> | Infinitive | ⟪वक्तुम्⟫ |
+| Infinitive | ⟪वक्तुम्⟫ |
 
 ⟪४⟫. ⟪हन्⟫ (2P, to slay)
 
 | Form | Value |
 | :--- | :--- |
 | Pres. Ind. | ⟪हन्ति⟫ / ⟪घन्ति⟫ |
->> | Passive | ⟪हन्यते⟫ |
+| Passive | ⟪हन्यते⟫ |
 | PPP | ⟪हत⟫ |
 | Absolutive 1 | ⟪हत्वा⟫ |
 | Absolutive 2 | -⟪हत्य⟫ |
->> | Infinitive | ⟪हन्तुम्⟫ |
+| Infinitive | ⟪हन्तुम्⟫ |
 :::
 ::: media
 ![](/images/uebung036.webp)

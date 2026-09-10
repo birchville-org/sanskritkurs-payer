@@ -1,32 +1,33 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Mësimi 59"
+subtitle: "Përfundimet dyjore të pasme dhe përfundimet e urdhërës së dyjit (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Mësimi 59
 
-## 59.1. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
+## 59.1. Përfundimet dyjore sekondare dhe përfundimet e urdhërës së dyjit (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | sekundär | Imperativ (⟪लोट्⟫) | sekundär thematisch | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
+|   | sekondar | Urdhërës (⟪लोट्⟫) | sekondar tematik | sekondar athematik:brOptativ (⟪विधिलिङ्⟫) | Urdhërës (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.2. Dujori i klasave tematike të prezencit: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Urdhërës (⟪लोट्⟫)
 
 ::: grammar-box
-**Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt.**
+**Para -va dhe -vahi, vokali i temës -a- zëvendësohet me -ā-.**
 :::
-### 59.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 59.2.1. Klasa e parë e prezencit (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein"
+⟪भू⟫ 1P "bëhesh, jem"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -46,7 +47,7 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | ⟪अभवेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | ⟪भभवेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Urdhërës (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -55,14 +56,14 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | ⟪भवेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | ⟪भवेताम्⟫ |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. Klasa e katërt e prezencit (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen"
+⟪नृत्⟫ 4P "kërcen"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | ⟪नृत्येवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | ⟪नृत्येयाथाम्⟫ |
@@ -71,7 +72,7 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | ⟪अनृत्यावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | ⟪अनृत्येथाम्⟫ |
@@ -80,20 +81,20 @@ Imperfekt (⟪लङ्⟫)
 Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | ⟪नृत्यावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | ⟪नृत्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्येताम्⟫ |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. Klasa e gjashtë prezense (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "shty, godit"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदेव⟫ | ⟪तुदेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
@@ -102,7 +103,7 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतुदाव⟫ | ⟪अतुदावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ |
@@ -111,20 +112,20 @@ Imperfekt (⟪लङ्⟫)
 Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 59.2.4. Klasa e dhjetë prezense (⟪चुरादिगणः⟫) dhe Kausativet (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen"
+⟪चुर्⟫ 10U "vjed"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयेव⟫ | ⟪चोरयेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
@@ -133,7 +134,7 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अचोरयाव⟫ | ⟪अचोरयावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ |
@@ -142,15 +143,15 @@ Imperfekt (⟪लङ्⟫)
 Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयाव⟫ | ⟪चोरयावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. Pasiv (shtesë -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "shty, godit"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -176,16 +177,16 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. Djalë i klasave athematik të prezencit: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 59.3.1. Klasa e dytë e prezencit (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen"
+⟪द्विष्⟫ 2U "përbuz"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्याव⟫ | ⟪द्विषीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
@@ -346,23 +347,23 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आस्ताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperativi (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ |
 :::
-### 59.3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 59.3.2. Klasa e tretë prezenci (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer giessen"
+⟪हु⟫ 3P "të derdhësh në zjarrin e sakrificës"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | ⟪जुह्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | ⟪जुह्वीयाथाम्⟫ |
@@ -371,27 +372,27 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | ⟪अजुहुवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | ⟪अजुह्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | ⟪अजुह्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperativi (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | ⟪जुहवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | ⟪जुह्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | ⟪जुह्वाताम्⟫ |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen"
+⟪धा⟫ 3U "vendos, vë, vendos"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्याव⟫ | ⟪दधीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
@@ -400,25 +401,25 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अदध्व⟫ | ⟪अदध्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधत्ताम्⟫ | ⟪अदधाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperativi (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫   |
 | da-dhā + āvahai | | | |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. Klasa e pestë prezative (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen"
+⟪सु⟫ 5U "shtyp"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -447,9 +448,9 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. Klasa e tetë prezative (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen"
+⟪तन्⟫ 8U "shtrij"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -478,7 +479,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen"
+⟪कृ⟫ 8U "bëj, bëj"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -507,9 +508,9 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ |
 :::
-### 59.3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 59.3.5. Klasa e shtatë prezense (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen"
+⟪रुध्⟫ 7U "ndaloj"
 
 Optativ (⟪विधिलिङ्⟫)
 
@@ -538,12 +539,12 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ |
 :::
-⟪युज्⟫ 7U "anschirren"
+⟪युज्⟫ 7U "çel"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्याव⟫ | ⟪युञ्जीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
@@ -552,7 +553,7 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अयुञ्ज्व⟫ | ⟪युञ्ज्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ |
@@ -561,29 +562,29 @@ Imperfekt (⟪लङ्⟫)
 Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-### 59.3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 59.3.6. Klasa e nëntë prezative (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "blej"
 
 Optativ (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi |
+| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brī + n + ī + vahi |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अक्रीणीव⟫ | ⟪अक्रीणीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ |
@@ -592,7 +593,7 @@ Imperfekt (⟪लङ्⟫)
 Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪क्रीणाव⟫ | ⟪क्रीणावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
@@ -665,16 +666,16 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. Aoristi (⟪लुङ्⟫) 6: siṣ-Aoristi (vetëm P)
 
 ::: grammar-box
-**Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Im Ā bilden alle diese Wurzeln den s-Aorist.**
+**Aoristin siṣ-Aorist formohen në P të gjitha rrënjët mbi -ā, -e, -o, -ai, që nuk janë të kufizuara te 1.,2. ose 3. Aoristi, si dhe disa rrënjë të tjera, ndër to ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Në Ā të gjitha këto rrënjë formojnë s-Aoristin.**
 
-**Bildung:**
+**Formimi:**
 
-**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
+**Augment + rrënjë në gradën e lartë + s + i + ṣ + përfundim dytësor athematik (si aoristi iṣ-Aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
+Pra, prapashtesa e formimit të rrënjës + përfundimet e siṣ-Aoritit janë:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -686,7 +687,7 @@ Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 :::
 Paradigma:
 
-⟪या⟫ 2P "gehen"
+⟪या⟫ 2P "shkoj"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ |||
@@ -696,18 +697,18 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | :sig[⟪अयासीस्⟫] | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | :sig[⟪अयासीत्⟫] | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. Aoristi (⟪लुङ्⟫) 7: sa-Aoristi (sa-Aorist tematik)
 
 ::: grammar-box
-**Den sa-Aorist bilden die meisten ⟪अनिट्⟫-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative ⟪अनिट्⟫-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist.**
+**sa-Aoristin formojnë shumica e rrënjëve ⟪अनिट्⟫, që përfundojnë në -ś, -ṣ ose -h dhe ku shkronja para fundit është i, u ose ṛ. Rrënjët fakultative ⟪अनिट्⟫ të kësaj forme formojnë opsionalisht sa-Aoristin ose iṣ-Aoristin.**
 
-**Bildung:**
+**Formimi:**
 
-**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung**
+**Augment + rrënjë në gradën e ulët + s + a + përfundim dytësor tematik**
 
-**Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.**
+**1.sg.2.3.du.Ā formohen nga s-Aoristi, pra athematikisht.**
 :::
-Stammbildungssuffix + Endungen des sa-Aorist lauten also:
+Shtimi i rrënjës + përfundimet e aoristit sa janë pra:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -719,7 +720,7 @@ Stammbildungssuffix + Endungen des sa-Aorist lauten also:
 :::
 Paradigma:
 
-⟪दिश्⟫ 6U "zeigen"
+⟪दिश्⟫ 6U "tregoj"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -730,13 +731,13 @@ Paradigma:
 | **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | :sig[⟪अदिक्षाताम्⟫] | ⟪अदिक्षन्त⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:**
+**Veçori të veçanta:**
 
-**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.**
+**Disa rrënjë me -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) mund të formojnë në Ā 2.3.sg.1.du.2.pl. opsionale pa -sa-.**
 :::
 Paradigma:
 
-⟪दिह्⟫ 2U "bestreichen"
+⟪दिह्⟫ 2U "lyej"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ |||
@@ -746,41 +747,41 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / :sig[⟪अधिग्धास्⟫] | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / :sig[⟪अधिग्ध्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / :sig[⟪अदिग्ध⟫] | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Übung
+## 59.7. Ushqim
 
-A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen.
+A) Përktheni tekstin e mëposhtëm dhe identifikoni të gjitha format verbale që shfaqen në të.
 
-_Vorbemerkung:_
+_Shënim paraprak:_
 
-Der folgende Text stammt aus dem ⟪भट्टिकाव्य⟫ ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das ⟪भट्टिकाव्य⟫ erzählt in 22 Gesängen die Geschichte von ⟪राम⟫, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele.
+Teksti i mëposhtëm është nxjerrë nga ⟪भट्टिकाव्य⟫ ("Krijimi poetik i [përkthyesit] Bhaṭṭi"). ⟪भट्टिकाव्य⟫ tregon historinë e ⟪राम⟫ në 22 këngë, por njëkohësisht vërteton rregullat e gramatikës dhe poezisë përmes shembujve.
 
-Das Gedicht hat vier Abschnitte:
+Poezia ka katër pjesë:
 
-1.  Gesang 1-5: vermischte Regeln
-2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik
-3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel
-4.  Gesang 14-22: Gebrauch der Tempora und Modi
+1. Kënga 1-5: Rregulla të përzier
+2. Kënga 6-9: Rregullat kryesore të gramatikës së Pāṇinit
+3. Kënga 10-13: Mjetet kryesore poetike të zbukurimit
+4. Kënga 14-22: Përdorimi i kohëve dhe mënyrave
 
-Das ⟪भट्टिकाव्य⟫ ist in der Zeit zwischen 495 und 641 n. Chr. entstanden.
+⟪भट्टिकाव्य⟫ u krijua në periudhën midis viteve 495 dhe 641 pas Krishtit.
 
 ::: media
 ![](/images/lekt5902.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt5902))
+Fig.: ⟪रावणः⟫
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5902))
 :::
-Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. ⟪रावण⟫, der Dämonenkönig, der dem ⟪राम⟫ dessen Frau ⟪सीता⟫ geraubt hat, schickt nach seinem Bruder ⟪कुम्भकर्ण⟫ ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt.
+Seksioni i mëposhtëm është fillimi i këngës së 15-të, e cila është kushtuar Aorit. ⟪रावण⟫, mbreti i demonëve, që ka rrëmbyer gruan ⟪सीता⟫ të ⟪राम⟫, e dërgon vëllain e tij ⟪कुम्भकर्ण⟫ ("Veshi i Tenxheres"), i cili ndodhet në një gjumë të përjetshëm si dënim për veprat e tij të këqija.
 
 ::: media
 ![](/images/lekt5903.webp)
-Abb.: ⟪कुम्भकर्णः⟫
-Kecak-Tanz, Bali (Indonesien)
-(Bildquelle: [Details](/licenses#lekt5903))
+Fig.: ⟪कुम्भकर्णः⟫
+Vallëzimi Kecak, Bali (Indonezi)
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5903))
 :::
-_Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ zu ⟪दृश्⟫
+_Ndihmë për përkthim:_ Varshi 6: ⟪दिदृक्षते⟫ \= Desiderativ për ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
-(Bildquelle: [Details](/licenses#lekt5901))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt5901))
 :::
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
+Tekst nga: Otto Böhtlingk: Sanskrit-Chrestomathie faq. 127f.
 

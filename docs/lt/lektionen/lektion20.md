@@ -1,78 +1,81 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Pamoka 20"
+subtitle: "Posesyvkomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 20
 
-## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
+## 20.1. Posesyvinių compoundų = ⟪बहुव्रीहि⟫ m.
 
 ::: media
 ![](/images/lekt2004.webp)
-Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
-Jodhpur = ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt2004))
+Pav.: ⟪बहुव्रीहिः पुरुषः⟫
+Džodhpuras = ⟪जोधपुर⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2004))
 :::
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt"
+⟪बहुव्रीहिः⟫ = ⟪बहवो व्रीहयो यस्य सः⟫ = "tas, kuris turi daug ryžių"
 
 ::: grammar-box
 
-**Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während ⟪बालपुत्रः⟫ als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (⟪पुत्र⟫) ausgedrückt wird, bedeutet ⟪बालपुत्रः⟫ als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (⟪पुत्र⟫) noch unbedingt jung (⟪बाल⟫), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.**
+**Bahuvrīhi skiriasi nuo Tatpuruṣa tuo, kad reiškia ką nors kita nei tai, kas išreiškiama jo dalimis: kol ⟪बालपुत्रः⟫ kaip Tatpuruṣa išskaidytas reiškia "jaunas sūnus", t. y. tai, ką išreiškia paskutinis compoundo elementas (⟪पुत्र⟫), tai ⟪बालपुत्रः⟫ kaip Bahuvrīhi išskaidytas reiškia "tas, kurio sūnus yra jaunas", t. y. nurodomasis asmuo nėra nei sūnus (⟪पुत्र⟫), nei būtinai jaunas (⟪बाल⟩), bet asmuo, skirtingas nuo jauno sūnaus, būtent jo tėvas.**
 
-**Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.**
+**Posesyvinių compoundų iš pradžių visada yra prieveiksmiai, kuriuos galima nominalizuoti. Todėl gramatinė lytis Bahuvrīhi priklauso nuo to, į ką nurodo Bahuvrīhi, o ne nuo paskutinio compoundo elemento lyties.**
 
 :::
 ::: grammar-box
 
-**Schema für die Auflösung eines Bahuvrīhi:**
+**Bahuvrīhi išskaidymo schema:**
 
-**1. Glied meist im Nominativ (⟪प्रथमा⟫) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - ⟪षष्ठी⟫) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.**
+**1. Elementas dažniausiai nominatyve (⟪प्रथमा⟫) vienaskaita, dvikaita arba daugiskaita -- 2. Elementas nominatyve vienaskaita, dvikaita arba daugiskaita -- santakio žodis kitame linksnyje nei nominatyvas (dažniausiai genityve - ⟪षष्ठी⟫) ir lytyje bei skaičiuje bendrojo Bahuvrīhi -- demonstracinis žodis skaičiumi, linksniu ir lytimi bendrojo Bahuvrīhi.**
 
 :::
-Beispiele:
+Pavyzdžiai:
+
 
 ::: indent
-⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
+⟪गतपापः⟫ = ⟪गतं पापं यस्य सः⟫ = "tas, kurio blogas praėjo" = "tas, kuris yra laisvas nuo nusižengimų"
 
-Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
+Akk. sg. ⟪गतपापम्⟫ = ⟪गतं पापं यस्य तम्⟫
 
-Inst. sg. ⟪गतपापेन⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫
+Inst. sg. ⟪गतपापेन⟫ = ⟪गतं पापं यस्य तेन⟫
 
-Gen. sg. ⟪गतपापस्य⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तस्य⟫
+Gen. sg. ⟪गतपापस्य⟫ = ⟪गतं पापं यस्य तस्य⟫
 
-Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि⟫ ye⟪षां⟫ ⟪ते⟫
+Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि पापानि⟫ ye⟪षां ते⟫
 
-usw.
+etc.
 
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "eine (Frau), die die Verblendung abgeworfen hat"
+⟪अस्तमोहा⟫ = ⟪अस्तो मोहो यया सा⟫ = "a (woman) who has cast off delusion"
 
-⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
+⟪प्राप्तोदको ग्रामः⟫ = ⟪प्राप्तमुदकं यं⟫ s ⟪ग्रामः⟫ = "A village to which water has reached" = "a village threatened by flooding"
 
-⟪पुण्यवत्पुत्रः⟫ als Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, oder: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
+⟪पुण्यवत्पुत्रः⟩ as Bahuvrīhi = ⟪पुण्यवान्पुत्रो यस्य सः⟫, or: ⟪पुण्यवन्तः पुत्रा यस्य सः⟫ = "one whose son possesses merit" or: "one whose sons possess merit"
 :::
 ::: grammar-box
 
-**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
+**The relationship between the first member and the second member in a Bahuvrīhi can be:**
 
-*   **attributiv**
-*   **appositionell**
-*   **kasuell**
+*   **attributive**
+*   **appositional**
+*   **casual**
 *   **adverbial**
 
-**Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.**
+**As with Tatpuruṣa, the specified member usually stands in second place.**
 
 :::
-Traditionell unterscheidet man:
+Traditionally, one distinguishes:
 
-*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied im selben Kasus
+*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ the first member and second member stand in the same case
 
-*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied in verschiedenen Kasus
+*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ the first member and second member stand in different cases
 
-## 20.2. Bahuvrīhi mit attributivem Vorderglied
+
+## 20.2. Bahuvīhi with attributive first member
 
 ::: grammar-box
 
@@ -80,26 +83,26 @@ Traditionell unterscheidet man:
 
 :::
 ::: indent
-**Adjektiv -- Nomen**
+**Adjective -- Noun**
 :::
-**Beispiel:**
+**Example:**
 
 ::: indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+⟪गुणवत्पुत्रो ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो यस्य स ब्राह्मणः⟫ = "a Brāhmaṇa whose son / sons possess good qualities"
 :::
-**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).**
+**Particularly frequent is the -- rare in Tatpuruṣa -- attributive determination by a PPP. The relative pronoun then usually stands in the Instrumental (⟪तृतीया⟫) upon resolution (rarely in the Genitive / ⟪षष्ठी⟫).**
 
-**Faustregel:**
+**Taisyklė:**
 
-*   **PPP - Substantiv = meistens Bahuvrīhi**
-*   **Substantiv -- PPP = meistens Tatpuruṣa**
+*   **PPP - daiktavardis = dažniausiai Bahuvrīhi**
+*   **Daiktavardis -- PPP = dažniausiai Tatpuruṣa**
 
-**Beispiel:**
+**Pavyzdys:**
 
 ::: indent
-⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
+⟪कृतफल ३⟫ = ⟪कृतं फलं⟫ ye⟪न सः । यया सा ।⟫ ye⟪न तत्⟫ = "tas / ta / tai, kuris / kuri / kurios padarė rezultatą, kas nors / kažkas veiksmingas"
 :::
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
+## 20.3. Bahuvrīhi su appoziciniu pirmuoju nariu
 
 ::: grammar-box
 
@@ -107,462 +110,428 @@ Traditionell unterscheidet man:
 
 :::
 ::: indent
-**Substantiv -- Substantiv**
+**Daiktavardis -- Daiktavardis**
 :::
-**Beispiele:**
+**Pavyzdžiai:**
 
 ::: indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, dessen Söhne Helden sind"
+⟪शूरपुत्रो नरः⟫ = ⟪शूरा एव पुत्रा यस्य स नरः⟫ = "vyras, kurio sūnūs yra herojai"
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "der / die / das, dessen Ende dieses ist" = "damit endender"
+⟪तदन्त ३⟫ = ⟪सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत्⟫ = "tas / ta / tai, kurio pabaiga yra šis" = "baigiantis tuo"
 :::
 ::: grammar-box
 
-**Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "erster, Anfang", seltener ⟪प्रभृति⟫ "Anfang". Solche Komposita entsprechen dem "u.s.w.":**
+**Labai svarbūs yra appoziciniai Bahuvrīhi su galiniais nariais ⟪आदि । आदिक । आद्य⟫ "pirmas, pradžia", rečiau ⟪प्रभृति⟫ "pradžia". Tokios sudėtinės atitinka "ir t.t.":**
 
-**Beispiel:**
+**Pavyzdys:**
 
 :::
 ::: indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
+⟪देवा इन्द्रादयः⟫ =  ⟪इन्द्र आदिर्येषां ते देवाः⟫ = "dievai, kurių pradžia yra Indra" = "dievai Indra ir t.t." = "Indra ir kiti dievai"
 :::
-**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:**
+**Reikšmei "tik" išreikšti galima naudoti bahuvrīhis su ⟪मात्रा⟫ f. "matas, riba" kaip galiniu nariu:**
 
-**Beispiel:**
+**Pavyzdys:**
 
 ::: indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "das, dessen Maß ein Wort ist" = "nur ein Wort"
+⟪शब्दमात्रम्⟫ = ⟪शब्दो मात्रा यस्य तत्⟫ = "kas, kurio matas yra žodis" = "tik vienas žodis"
 :::
-**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:**
+**⟪मात्र⟫ po PPP verčiamas kaip "kai tik":**
 
-**Beispiel:**
+**Pavyzdys:**
 
 ::: indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist"
+⟪जातमात्रं शत्रुं घ्नन्ति⟫ = ⟪जातं मात्रा यस्य तं शत्रुं घ्नन्ति⟫ = "jie nužudo priešininką, kurio matas yra atsiradimas" = "jie nužudo priešininką, kai tik jis atsirado"
 :::
 ::: media
 ![](/images/lekt2005.webp)
-Abb.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus und die übrigen Götter, Ahmedabad
-(Bildquelle: [Details](/licenses#lekt2005))
+Pav.: ⟪देवा यीश्वादयः⟫
+Džesus ir kiti dievai, Ahmedabadas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2005))
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. Bahuvrīhi su kasualiniu pirmuoju nariu
 
-d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (⟪प्रथमा⟫) vertritt.
+t. y. Bahuvrīhi, kurių pirmasis narys užima kitą linksnį nei nominatyvą (⟪प्रथमा⟫).
 
-Beispiel:
+Pavyzdys:
 
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+⟪देवरूपा⟫ = ⟪देवस्यैव रूपं यस्याः सा⟫ = "moteris, kurios figūra yra dieviška" "moteris su dievišku išvaizda"
 :::
 ::: grammar-box
 
-**Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:**
+**Išimtis iš bendrosios sudėtinių žodžių narių eilės taisyklės:**
 
-**Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:**
+**Kasualinis narys yra antroje vietoje, jei jis reiškia kūno dalį (ypač ranką):**
 
-**Beispiel:**
+**Pavyzdys:**
 
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
+⟪दण्डहस्तः⟫ =  ⟪दण्डो हस्ते⟫ (Lok. sg.) ⟪यस्य सः⟫ = "tas, kurio rankoje yra lazda" = "tas, kuris nešioja lazdą rankoje."
 :::
 ::: media
 ![](/images/lekt2001.webp)
-Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
-Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
-(Bildquelle: [Details](/licenses#lekt2001))
+Pav.: ⟪इन्द्रो वज्रपाणिः⟫
+Siemreapas (ក្រុងសៀមរាប), Kambodža, IX a. po Kr.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## 20.5. Bahuvrīhi su adverbiniu pirmuoju nariu
 
-Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein anderes Indeklinabile; solche Komposita sind in der Regel ⟪नित्यसमास⟫.
+Pirmajame naryje yra prieveiksmis, prielinksnis, priešdėlis arba kitas nekintamas žodis; tokie sudurtiniai žodžiai paprastai yra ⟪नित्यसमास⟫.
 
-Beispiele:
+Pavyzdžiai:
 
 ::: indent
-⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
+⟪अपुत्रो नरः⟫ = ⟪पुत्रो यस्य नास्ति स नरः⟫ = "vyriškis, kuris neturi sūnaus" = "bevaikis vyriškis"
 
-⟪दुर्बल⟫ ⟪३⟫ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
+⟪दुर्बल ३⟫ = "kas nors / kas, kurio jėga yra silpna" = "bejėgis, silpnas"
 :::
 ::: grammar-box
 
-**⟪सह⟫ "mit" als Vorderglied eines Bahuvrīhi wird oft durch ⟪स⟫ ersetzt.**
+**⟪सह⟫ "su" kaip Bahuvrīhi pirmasis narys dažnai pakeičiamas ⟪स⟫.**
 
-**Beispiel:**
+**Pavyzdys:**
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "mit einem Sohn", "von einem Sohn begleitet"
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण सहितः । पुत्रेण सह्⟫ = "su vienu sūnumi", "palydimas sūnaus"
 :::
 ::: media
 ![](/images/lekt2006.webp)
-Abb.: ⟪सपुत्रा⟫
-Madhya Pradesh
-(Bildquelle: [Details](/licenses#lekt2006))
+Pav.: ⟪सपुत्रा⟫
+Madhya Pradešas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2006))
 :::
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
+## 20.6. Bahuvrīhi pabaigos dalies linksniavimas
 
 ::: grammar-box
 
-**Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.**
+**Bahuvrīhi pabaigos dalis linksniuojama kaip daugiakalbis adjektyvas, nepriklausomai nuo jo pradinės lyties. Taigi, jei kompozicijoje pabaigos dalis turi kitokią lytį nei jos pradinė, ji turi būti Bahuvrīhi, nebent tai yra Samāhāradvanva (vid. g. vdg.).**
 
-**Bei der Adjektivierung werden**
+**Adjektyvuojant:**
 
-*   **-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen**
-*   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī**
-*   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen**
+*   **-ā kamienai vyriškoji ir vidurinėje lytyje tampa -a kamienais**
+*   **-a kamienai (v., v.) sudaro moteriškąją lytį su -ā arba -ī**
+*   **-ī kamienai (m.) Bahuvrīhi pabaigoje privalo įgyti priesagą -ka, -kā, -ka (v.); šią priesargą gali arba privalo įgyti ir daugelis kitų Bahuvrīhi**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Kita Bahuvrīhi rūšių klasifikacija
 
-Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
+Pavyzdžiai čia pateikti vėlesniam darbui, kai kuriems dar nėra aptarta reikalinga gramatika ir žodynas
 
-1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2.  Indeklinabile im Vorderglied: ⟪उच्चैःश्रवस्⟫
-3.  Vergleich im Vorderglied: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4.  Impliziter Vergleich: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "kamelmündig" = dessen Mund wie der eines Kamels ist
-5.  Numerale als Hinterglied bei ungefährer Zahl:. ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "ungefähr zehn"
-6.  beide Glieder sind Numeralia: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "ein oder zwei"
-7.  mit sa-/saha- im Vorderglied: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8.  mit sa- (= ⟪समान⟫) im Vorderglied: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9.  ⟪नञ्बहुव्रीहिः⟫ = mit a-/an- im Vorderglied: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10.  mit Präposition u.ä. im Vorderglied: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11.  Richtungsbezeichnungen um Zwischenrichtungen zu bezeichnen: ⟪पुर्वोत्तरा⟫ "nordöstlich"
-12.  PPP als Vorderglied: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13.  und andere
+1.  kvalifikuojantis žodis pirmoje dalyje -- kvalifikuotas žodis antroje dalyje: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं चित्तं यस्य सः⟫
+2.  indeklinabliai pirmoje dalyje: ⟪उच्चैःश्रवस्⟫
+3.  palyginimas pirmoje dalyje: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र इव धीर्यस्य सः⟫
+4.  numatomas palyginimas: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य मुखमिव मुखं यस्य सः⟫ = "dromedaro burnos" = kurio burna yra kaip dromedaro
+5.  skaitvardis antroje dalyje apytiksliam kiekiui: ⟪उपसशाः⟫ = ⟪दशानां समीपे ये सन्ति ते⟫ = "apytiksliai dešimt"
+6.  abu elementai yra skaitvardžiai: ⟪एकद्वाः⟫ = ⟪एको वा द्वौ वा⟫ = "vienas arba du"
+7.  su sa-/saha- pirmoje dalyje: ⟪सपुत्रः । सहपुत्रः⟫
+8.  su sa- (= ⟪समान⟫) pirmoje dalyje: ⟪सजनपदः⟫ = ⟪समानो जनपदो यस्य सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = su a-/an- pirmoje dalyje: ⟪अपुत्रः⟫ = ⟪न विद्यते पुत्रो यस्य सः⟫ ; ⟪अनङ्गः⟫ = ⟪न विद्यते अङ्गं यस्य सः⟫
+10.  su prielinksniu ir pan. pirmoje dalyje: ⟪प्रवातः⟫ =⟪प्रकृष्टो वातो यस्मिन् सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं धनं यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु बुद्धिर्यस्य सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा बुद्धिर्यस्य सः⟫
+11.  krypties žymėjimai tarpinėms krypčioms pažymėti: ⟪पुर्वोत्तरा⟫ "šiaurės rytų"
+12. PPP kaip pirmoji dalis: ⟪कृतकटः⟫ = ⟪कृतः कटो येन सः⟫
+13. ir kiti
 
 ::: media
 ![](/images/lekt2007.webp)
-Abb.: ⟪कृतकटा⟫
-Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt2007))
+Ili.: ⟪कृतकटा⟫
+Čenajis = சென்னை
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2007))
 :::
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## 20.8. Bahuvrīhi ir santykinio sakinjo santykis
 
-Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt:
+Nors kiekvienas bahuvrīhi gali būti išskleistas į santykinį sakinj, ne kiekvienas santykinis sakinys gali būti pakeistas bahuvrīhi. Hermanas Georgas Džakobis (1850–1937), kuris išsamiau tyrinėjo abiejų reiškinių santykį („Compositum und Nebensatz“, 1897), rašo:
 
 ::: indent
-"Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
+„Kai verčiama iš vokiečių ar kitos modernios kalbos į sanskritą, ne visi šalutiniai sakiniai turi būti perteikiami junginiais (composita), o tik papuošiantys ir aprašantys; tie, kurie turi esminę ar svarbią samprotavimo reikšmę, sanskrite taip pat pasireiškia kaip santykiniai sakiniai.“
 :::
 ::: media
 ![](/images/lekt2002.jpg)
-Abb.: Hermann Jacobi
-(Bildquelle: [Details](/licenses#lekt2002))
+Ili.: Hermanas Džakobis
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2002))
 :::
-Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
+Tai gali būti teisinga. Tačiau indai daugelį dalykų laiko papuošiančiais ir aprašančiais, kuriuos mes laikytume „esminiais ar svarbiais samprotavimais“.
 
-## 20.9. Wortliste
+## 20.9. Žodynas
 
-⟪वा⟫ : oder
+⟪वा⟫ : arba
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+⟪आश्रम⟫ m., n.: vienuolynas, gyvenimo etapas, gyvenimo laikotarpis (t. y. kaip ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ ir galbūt kaip ⟪सन्न्यासिन्⟫ ; žr. Basham, „Wonder“, p. 159–160)
 
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+Ili.: ⟪आश्रमः⟫
+Rišikešas = ⟪ऋषिकेश⟫. „Tai iš tikrųjų yra dalis Rišikešo ashrame, kuriame apsistojo „The Beatles“. Būtent ta dalis ten nebuvo jų vizito metu, bet atrodo labai įspūdingai.“
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ f. ⟪करी । करा⟫ : doing, making, causing
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: hand (to ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ m.: payment, tribute, tax (not to ⟪कृ⟫, but probably a loanword from Tamil - தமிழ்)
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ f.: action, sacred action, sacrificial act, ceremony (to ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf
+⟪अधि⟫ prefix: over, on, up-, with reference to 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : encounter, reach, attain
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : reduce, weaken
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ f.: ⟪दायिका⟫ : giving, bestowing
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ m.: "protector of men" = king
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ n.: application, effort, attention towards, helpfulness, reflection, vow
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ f.: distress, plague, torment
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ f.: "that which is to be maintained" = wife
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ f.: meditative unfolding (to ⟪भू⟫ causative)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ f.: earth, ground
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ n.: feature, sign, attribute
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ m.: "trembler" = poet, singer, priest, Brahmin
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.: area, region, object, sense-object
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ m.: end, liberation
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ prefix: downwards, down, into, backwards
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : turn around, return
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sit, settle down
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : to sit, be seated (in a figurative sense) = become composed, calm, cheerful; to be gracious towards someone (genitive ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: inner concentration, highest attention, meditative "absorption"
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: "self-study", recitation (especially of the Veda), study of the Vedas
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ : pertaining to the other world, otherworldly
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪तनु ३⟫ : slender
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪मध्य ३⟫ : middle; n. center
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : wide, broad, large
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪श्रोणि । श्रोणी⟫ f.: hip
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪रक्त ३⟫ : colored, red
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪ओष्ठ⟫ m.: lip
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪असित ३⟫ : dark, black
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : to see
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : to bend
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ Prefix: up, upward, out, from, ex-
 
-⟪नाभि⟫ f.: Nabel
+⟪नाभि⟫ f.: navel
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: beauty, form body (declension see later)
 
-⟪स्त्री⟫ f.: Frau
+⟪स्त्री⟫ f.: woman
 
-⟪स्तन⟫ m.: Brust
+⟪स्तन⟫ m.: breast
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪दरैद्र ३⟫ : poor, weak
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : to prosper
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : to prosper; PPP: successful, rich
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र ३⟫ : colorful, diverse, beautiful, wonderful, strange
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): arrangement, law, regulation; creation, destiny
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir, move
 
-## 20.10. Übung 1
+## 20.10. Exercise 1
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an.
+Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways you consider possible in Sanskrit (exception: compounds with adverbial first member). Translate these differently resolved compounds into English, and indicate the gender, case, and number of the entire compound.
 
-1.  ⟪इन्द्रशत्रवः⟫
-2.  ⟪दुष्कुलायाः⟫
-3.  ⟪जातिमात्रस्य⟫
-4.  ⟪प्राप्तोदकाः⟫
-5.  ⟪सुनीतिभिः⟫
-6.  ⟪मृतपुत्रः⟫
-7.  ⟪गतपुण्येन⟫
-8.  ⟪आर्यरूपम्⟫
-9.  ⟪मुक्तासनया⟫
-10.  ⟪तद्रूपः⟫
-11.  ⟪कृतफलानाम्⟫
-12.  ⟪व्याघ्रबलाः⟫
-13.  ⟪प्राप्तकाला⟫
-14.  ⟪शूरपुत्राम्⟫
-15.  ⟪कृताभिषेकः⟫
-16.  ⟪शूरबलान्⟫
-17.  ⟪वीतमोहः⟫
-18.  ⟪द्ण्डहस्तस्य⟫
-19.  ⟪गतमात्रम्⟫
-20.  ⟪इन्द्रपुत्रा⟫
-21.  ⟪तद्गुणाः⟫
-22.  ⟪उपल्ब्धसुखैः⟫
-23.  ⟪प्राप्तप्रभावः⟫
-24.  ⟪तन्मात्राणि⟫
-25.  ⟪प्रभूतरूपा⟫
-26.  ⟪कृतोपनयनाः⟫
-27.  ⟪विगतनयनम्⟫
-28.  ⟪बुद्धमार्गेण⟫
-29.  ⟪विजयफलान्⟫
-30.  ⟪दुर्गमः⟫
-31.  ⟪समयकारः⟫
-32.  ⟪सम्पन्नरूपाम्⟫
-33.  ⟪रूपसम्पन्नाम्⟫
-34.  ⟪अपुण्यानाम्⟫
-35.  ⟪मृतगृहाणि⟫
-36.  ⟪अजनस्य⟫
-37.  ⟪तद्देवतैः⟫
-38.  ⟪जातपुत्राः⟫
-39.  ⟪दुरन्ताभिः⟫
-40.  ⟪भूतसर्गेण⟫
-41.  ⟪मतिदर्शनम्⟫
-42.  ⟪मुक्तहस्ता⟫
-43.  ⟪तदन्तः⟫
-44.  ⟪जातिमात्रम्⟫
-45.  ⟪तज्जयेन⟫
-46.  ⟪लब्धधनानाम्⟫
-47.  ⟪सुदर्शः⟫
-48.  ⟪सकारणः⟫
-49.  ⟪तनादयः⟫
-50.  ⟪जातमात्राम्⟫
-51.  ⟪दुर्जातयः⟫
-52.  ⟪हतपुत्रः⟫
-53.  ⟪दुरासितम्⟫
-54.  ⟪इष्टदेवतया⟫
-55.  ⟪कृतपुण्याभिः⟫
-56.  ⟪श्रुत्युदितम्⟫
-57.  ⟪गतपापैः⟫
-58.  ⟪जितारिणा⟫
-59.  ⟪जातकोपा⟫
-60.  ⟪जातिधर्मः⟫
-61.  ⟪तत्प्रभृतयः⟫
-62.  ⟪सुदुर्जयः⟫
-63.  ⟪जितक्रोधेन⟫
-64.  ⟪दुरुपदेशम्⟫
-65.  ⟪लब्धलाभा⟫
-66.  ⟪बुद्धदासः⟫
-67.  ⟪मुक्तबुद्धिः⟫
-68.  ⟪यज्ञकालम्⟫
-69.  ⟪जितशत्रून्⟫
-70.  ⟪शत्रुजितान्⟫
-71.  ⟪तत्फलः⟫
-72.  ⟪सुगुणा⟫
-73.  ⟪जातक्रोधः⟫
-74.  ⟪दृष्टमात्रः⟫
-75.  ⟪भूतकालः⟫
-76.  ⟪सुनेत्राः⟫
-77.  ⟪तदादीनाम्⟫
-78.  ⟪जातिस्मरणम्⟫
-79.  ⟪सफलम्⟫
-80.  ⟪अकरुणस्य⟫
-81.  ⟪सोढदुःखाः⟫
-
-## 20.11. Übung 2
-
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
-
-⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
-
-⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
-
-⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
-
-⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
-
-⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
-
-⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
-
-⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घ्नन्ति⟫ ⟪॥७॥⟫
-
-⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-
-⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
-
-⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
-
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
-
-1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht.
-
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
-
-3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen.
-
-4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
-
-## 20.12. Übersetzungsübung
-
-⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
+1. ⟪इन्द्रशत्रवः⟫
+2. ⟪दुष्कुलायाः⟫
+3. ⟪जातिमात्रस्य⟫
+4. ⟪प्राप्तोदकाः⟫
+5. ⟪सुनीतिभिः⟫
+6. ⟪मृतपुत्रः⟫
+7. ⟪गतपुण्येन⟫
+8. ⟪आर्यरूपम्⟫
+9. ⟪मुक्तासनया⟫
+10. ⟪तद्रूपः⟫
+11. ⟪कृतफलानाम्⟫
+12. ⟪व्याघ्रबलाः⟫
+13. ⟪प्राप्तकाला⟫
+14. ⟪शूरपुत्राम्⟫
+15. ⟪कृताभिषेकः⟫
+16. ⟪शूरबलान्⟫
+17. ⟪वीतमोहः⟫
+18. ⟪द्ण्डहस्तस्य⟫
+19. ⟪गतमात्रम्⟫
+20. ⟪इन्द्रपुत्रा⟫
+21. ⟪तद्गुणाः⟫
+22. ⟪उपल्ब्धसुखैः⟫
+23. ⟪प्राप्तप्रभावः⟫
+24. ⟪तन्मात्राणि⟫
+25. ⟪प्रभूतरूपा⟫
+26. ⟪कृतोपनयनाः⟫
+27. ⟪विगतनयनम्⟫
+28. ⟪बुद्धमार्गेण⟫
+29. ⟪विजयफलान्⟫
+30. ⟪दुर्गमः⟫
+31. ⟪समयकारः⟫
+32. ⟪सम्पन्नरूपाम्⟫
+33. ⟪रूपसम्पन्नाम्⟫
+34. ⟪अपुण्यानाम्⟫
+35. ⟪मृतगृहाणि⟫
+36. ⟪अजनस्य⟫
+37. ⟪तद्देवतैः⟫
+38. ⟪जातपुत्राः⟫
+39. ⟪दुरन्ताभिः⟫
+40. ⟪भूतसर्गेण⟫
+41. ⟪मतिदर्शनम्⟫
+42. ⟪मुक्तहस्ता⟫
+43. ⟪तदन्तः⟫
+44. ⟪जातिमात्रम्⟫
+45. ⟪तज्जयेन⟫
+46. ⟪लब्धधनानाम्⟫
+47. ⟪सुदर्शः⟫
+48. ⟪सकारणः⟫
+49. ⟪तनादयः⟫
+50. ⟪जातमात्राम्⟫
+51. ⟪दुर्जातयः⟫
+52. ⟪हतपुत्रः⟫
+53. ⟪दुरासितम्⟫
+54. ⟪इष्टदेवतया⟫
+55. ⟪कृतपुण्याभिः⟫
+56. ⟪श्रुत्युदितम्⟫
+57. ⟪गतपापैः⟫
+58. ⟪जितारिणा⟫
+59. ⟪जातकोपा⟫
+60. ⟪जातिधर्मः⟫
+61. ⟪तत्प्रभृतयः⟫
+62. ⟪सुदुर्जयः⟫
+63. ⟪जितक्रोधेन⟫
+64. ⟪दुरुपदेशम्⟫
+65. ⟪लब्धलाभा⟫
+66. ⟪बुद्धदासः⟫
+67. ⟪मुक्तबुद्धिः⟫
+68. ⟪यज्ञकालम्⟫
+69. ⟪जितशत्रून्⟫
+70. ⟪शत्रुजितान्⟫
+71. ⟪तत्फलः⟫
+72. ⟪सुगुणा⟫
+73. ⟪जातक्रोधः⟫
+74. ⟪दृष्टमात्रः⟫
+75. ⟪भूतकालः⟫
+76. ⟪सुनेत्राः⟫
+77. ⟪तदादीनाम्⟫
+78. ⟪जातिस्मरणम्⟫
+79. ⟪सफलम्⟫
+80. ⟪अकरुणस्य⟫
+81. ⟪सोढदुःखाः⟫
+
+## 20.11. Pratimas 2
+
+A) Išverkite ir išskirkite sanskrito sandaugas:
+
+⟪इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥ शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥ सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥ मृतपुत्रब्राह्मणी रोदिति ॥४॥ वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥ सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥ प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घ्नन्ति ॥७॥ जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥ कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥ बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥⟫
+
+B) Išverkite į sanskritą naudodami sandaugas:
+
+1\. Kšatrija, kuris nelaiko lazdos rankoje, negina tautos.
+
+2\. Kalidāsa ir kiti poetai yra sanskrito mokytojai.
+
+3\. Kšatrija pragyvenimui uždirba ginklais.
+
+4\. Šūdrų moterys taip pat turi dharma: nekenkimą, tiesą, švarumą, nemurmėjimą, blogio nebuvimą ir kantrybę.
+
+## 20.12. Vertimo pratimas
+
+⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १⟫.⟪३३॥⟫
 
 ::: indent
-Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+Paaiškinimas: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + priesaga -tas, kuri turi abliatyvinę reikšmę. Išverkite: "dėl ..." arba panašiai.
 :::
-⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
-⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २⟫.⟪१॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २⟫.⟪२॥⟫
 
 ::: indent
-Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
+Paaiškinimas: ⟪तपस्⟫ n. (linksniuojama vėliau): karštis, kaitra, kančia; asketinis karštis, atgaila
 :::
 ::: media
 ![](/images/lekt2010.webp)
-Abb.: ⟪तपस्⟫
-Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2010))
+Pav.: ⟪तपस्⟫
+Buddha kaip asketas prieš savo išganingą įžvalgą, Gandhara, 2./3. a.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2010))
 :::
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १⟫.⟪१॥⟫ (Dėl Sāṃkhyos sistemos žr. Basham, Stebuklai p. 324f.)
 
 ::: indent
-Erklärung: ⟪त्रिविध⟫ ⟪३⟫ : "dreifach"
+Paaiškinimas: ⟪त्रिविध ३⟫ : "triskart"
 :::
-Definition der Erlösung nach dem Nyāyasystem:
+Išganymo apibrėžimas pagal Nyāya sistemą:
 
 ::: indent
-⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
-
-⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
+⟪बाधनालक्षणं दुःखम् ॥न्यायसूत्र १⟫.⟪२१॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १⟫.⟪२२॥⟫
 :::
-Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ :
+Materialistų teiginys pagal ⟪सर्वदर्शनसंग्रह⟫ :
 
 ::: indent
-⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
-⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
+⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादी⟫na⟪ं क्रियाश्च फलदायिकाः ॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+Paaiškinimas: ⟪अत्मा⟫ = vardininko skg. vyriškosios giminės prie ⟪आत्मन्⟫ vyriškosios g. "Aš, siela ; absoliutas, kiek tai realizuojama individe"
 :::
-Ein ⟪सुभाषितम्⟫ :
+Vienas ⟪सुभाषितम्⟫ :
 
 ::: indent
-⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
-⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
-⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
-⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
+⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫
 
-Erläuterung: -da am Ende eines Kompositums: "gebend"
+Paaiškinimas: -da kompozicijos pabaigoje: "duodantis"
 :::
 ::: media
 ![](/images/lekt2009.webp)
-Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
-Karnataka
-(Bildquelle: [Details](/licenses#lekt2009))
+Pav.: ⟪लोकानां करदा मही⟫
+Karnatakas
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2009))
 :::
-Über Besitzverhältnisse:
+Apie nuosavybės santykius:
 
 ::: indent
-⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
-⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
-⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
-⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
+⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८⟫.⟪४१६॥⟫
 
-Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
+Paaiškinimas: ⟪त्रयस्⟫ = vardininko vyriškosios g. dgs. prie ⟪त्रि⟫ "trys"
 :::
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
+Vienas ⟪सुभाषितम्⟫ apie moterišką grožį:
 
 ::: indent
-⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
-⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
-⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
-⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
+⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫
 
-Erklärung: alle Formen außer ⟪कं⟫ und ⟪स्त्रीणाम्⟫ sind Nom. sg. neut. und beziehen sich auf ⟪वपुस्⟫.
+Explanation: all forms except ⟪कं⟫ and ⟪स्त्रीणाम्⟫ are Nom. sg. neuter and refer to ⟪वपुस्⟫.
 :::
 ::: media
 ![](/images/lekt2003.webp)
-Abb.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
+Fig.: ⟪तनुमध्यं पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
-(Bildquelle: [Details](/licenses#lekt2003))
+(Image source: [Details](/lt/licenses#lekt2003))
 :::
-Noch ein ⟪सुभाषितम्⟫ :
+Another ⟪सुभाषितम्⟫ :
 
 ::: indent
-⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
-⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
-⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
-⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
+⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫
 
-Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
+Explanation: ⟪इच्छताम्⟫ = gen. pl. pres. part. P to ⟪इष्⟫ : of the desiring
 :::
 

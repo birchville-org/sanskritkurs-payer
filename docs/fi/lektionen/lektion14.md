@@ -1,10 +1,11 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: "Oppitunti 14"
+subtitle: "Substantiiveilla tarkoitettujen asioiden välisen suhteen ilmaisu: genetiivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = kuudes kasuspääte)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Luento 14
@@ -88,16 +89,16 @@ Genetiivin monikko vokaalipäätteisten varjojen muodostetaan näin:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiivin yksikkö vokaalipäätteisten varsienvuorovaikutus:**
+**Vokaalisesti päättyvien varren genetiivin yksikkö:**
 
 ::: grammar-box
 
-Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllisesti, ja se on opeteltava ulkoa.
+Vokaalisesti päättyvien varren genetiivin yksikkö muodostuu epäsäännöllisesti, ja se on hyvä opetella ulkoa.
 
 :::
 ::: center
 
-| Vartalo | genetiivi yksikkö |
+| Varsi | Genetiivin yksikkö |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,8 +106,8 @@ Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllis
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(eli joko kuten kavi tai kuten devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(eli joko kuten paśu tai kuten monitavuiset feminiinit -ū-päätteisinä) |
 
 :::
 **Kysymys- ja demonstratiivipronominit:**
@@ -115,17 +116,17 @@ Genetiivin yksikkö vokaalipäätteisten varjojen muodostetaan epäsäännöllis
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **maskuliini / neutri** | **genetiivi yksikkö** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **genetiivi monikko** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **feminiini** | **genetiivi yksikkö** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **genetiivi monikko** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Maskuliini / Neutri** | **Genetiivin yksikkö** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetiivin monikko** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminiini** | **Genetiivin yksikkö** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetiivin monikko** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formengleichheit:**
+**Muodon yhtäläisyys:**
 
 ::: important
 
-Kaikilla substantiivijänteillä paitsi maskuliineilla ja neutreilla, jotka päättyvät -a, sekä pronomineissa genetiivin yksikön muoto on sama kuin ablatiivin (pañcamī "viides kasuspääte") yksikön muoto!
+Kaikilla nominivarrella lukuun ottamatta maskuliineja ja neutrejä -a-päätteisinä sekä pronomineissa genetiivin yksikön muoto on sama kuin ablatiivin (pañcamī "viides taivutuspääte") yksikön muoto!
 
 Huomaa, että konsonanttivartaloisissa vartalossa ablatiivin ja genetiivin yksikkö kuulostavat samoin kuin akkusatiivin monikon maskuliini ja feminiini!
 

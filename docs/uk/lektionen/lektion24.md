@@ -1,10 +1,11 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Урок 24"
+subtitle: 'Датив (⟪चतुर्थी⟫ = \"четверта відмінок-закінчення\")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Урок 24

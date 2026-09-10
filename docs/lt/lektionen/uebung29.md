@@ -1,40 +1,36 @@
 ---
-title: "Exercise 29"
+title: "Pratimas 29"
 uebung_id: 29
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 29
+# Pratimas 29
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
+Išverstkite tiksliai į gerą vokiečių kalbą ir išmokite sanskrito tekstus atmintinai:
 
-### ⟪१⟫. Definition von ⟪अविद्या⟫
+### ⟪१⟫. ⟪अविद्या⟫ apibrėžimas
 
-**⟪अनित्याशुचिदुःखानात्मसु⟫ ⟪नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪५⟫ ⟪॥⟫**
+**⟪अनित्याशुचिदुःखानात्मसु नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या ॥ योगसूत्र २⟫.⟪५ ॥⟫**
 
-Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absolutes als beständig, rein, freudvoll bzw. absolut ansieht.
+Nežinojimas reiškia, kad laikiną, nešvarų, kantrų ir neabsoliutų laiko amžinu, švariu, džiaugsmingu arba absoliučiu.
 
-### ⟪२⟫. Über den rechten Gebrauch des ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+### ⟪२⟫. Apie teisingą ⟪दण्ड⟫ naudojimą (Kautilya Arthaśāstra 1.4)
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
+⟪तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, ⟪किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति । चतुर्वर्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते स्वेषु वर्त्मसु ॥१६॥⟫
 
-⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫  
-⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
-⟪स्वधर्मकर्माभिरतो⟫  
-⟪वर्तते⟫ ⟪स्वेषु⟫ ⟪वर्त्मसु⟫ ⟪॥१६॥⟫
+Prieš per griežtą valdymą (daṇḍa) būtybės turi drebėti. Silpnas valdymas yra niekinamas. Tinkamas valdymas yra gerbiamas. Išmintingai vadovaujamas valdymas skatina teisingumą, naudą ir malonumą povaldininkuose. Valdomas dėl meilės ar neapykantos arba paniekos blogai valdymas pykdo net miške pasitraukusius senolius ir klajojančius asketus, o juo labiau namų šeimininkus. Nevykdomas valdymas sukelia elgesį kaip žuvims (mātsyanayāya). Jei nėra to, kas palaiko valdymą, stipresnis nuskriaudžia silpnesnį. Jei silpnasis yra saugomas valdovo, jis klesti.
 
-Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische (mātsyanayāya). Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
-
-> Die Welt mit ihren vier Ständen und Lebensstadien  
-> Wird vom König durch das Regiment beschützt:  
-> Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
-> Bewegt sie sich auf ihren eigenen Bahnen.
+> Pasaulė su savo keturiomis kasta ir gyvenimo stadijomis  
+> Yra saugoma karaliaus per valdymą:  
+> Džiaugdamasi veikla pagal savo teisę ir paprotį  
+> Ji juda savo keliais.
 
 ::: media
 ![](/images/uebung046.webp)
-Abb.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
-(Bildquelle: [Details](/licenses#uebung046))
+Pav.: ⟪चतुर्वर्णाश्रमो लोको⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung046))
 :::
 

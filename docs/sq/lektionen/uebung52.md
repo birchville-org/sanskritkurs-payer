@@ -1,53 +1,54 @@
 ---
-title: "Ushqim 52"
+title: "Ushtrimi 52"
 uebung_id: 52
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 52
+# Ushqimi 52
 
-## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+## ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-**⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
-**⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
+**⟪यद्यत्परवशं कर्म तत्तद्यत्नेन वर्जयेत् ।⟫**  
+**⟪यद्यदात्मवशं तु स्यात्तत्तत्सेवेत यत्नतः ॥ १५९ ॥⟫**
 
-> Jede Tat, die auf fremdem Willen beruht, vermeide man eifrig; was aber aus eigenem Willen geschieht, das pflege man eifrig.
+> Çdo veprim që mbështetet në vullnetin e të tjerëve, le ta shmangë me zell; por çfarë ndodh nga vullneti i vet, le ta kultivojë me zell.
 
-**⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
-**⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
+**⟪सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् ।⟫**  
+**⟪एतद्विद्यात्समासेन लक्षणं सुखदुःखयोः ॥ १६० ॥⟫**
 
-> Alles, was auf fremdem Willen beruht, ist leidvoll; alles, was auf eigenem Willen beruht, ist Glück. Das soll man zusammengefasst als das Merkmal von Glück und Leid kennen.
+> Çdo gjë që mbështetet në vullnetin e të tjerëve është e dhimbshme; çdo gjë që mbështetet në vullnetin e vet është lumturi. Kjo duhet të njihet si përmbledhur si karakteristika e lumturisë dhe dhimbjes.
 
-**⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
-**⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
+**⟪यत्कर्म कुर्वतो ऽस्य स्यात्परितोषो ऽन्तरात्मनः ।⟫**  
+**⟪तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥ १६१ ॥⟫**
 
-> Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
+> Çfarë, kur bëhet, çon në kënaqësi të brendshme, le ta bëjë me zell; por anasjelltën le ta shmangë.
 
 ::: media
 ![](/images/uebung087.webp)
-Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Bildquelle: [Details](/licenses#uebung087))
+Fig.: ⟪सर्वं परवशं दुःखम्⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung087))
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫: Mbi burimet e ⟪धर्म⟫
 
-**⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
-**⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪वेदो ऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।⟫**  
+**⟪आचारश्चैव साधूनामात्मनस्तुष्टिरेव च ॥ ६ ॥⟫**
 
-> Die Wurzel des Dharma ist:
-> * der gesamte Veda
-> * die Überlieferung und die Sitte der Vedakundigen
-> * das Verhalten der Guten
-> * die Zufriedenheit der Seele
+> Rrënja e Dharmës është:
+> * i gjithë Veda
+> * tradita dhe zakonet e atyre që njohin Vedat
+> * sjellja e të mirëve
+> * kënaqësia e shpirtit
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Mbi ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ në jetën e princit
 
-**⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+**⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ॥ २ ॥⟫**
 
 **⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
@@ -59,66 +60,66 @@ Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> So halte er seine Sinne unter Kontrolle, meide fremde Frauen, fremdes Gut und Gewalt, und vermeide Schlaf, Lüsternheit, Lüge, Geckenhaftigkeit, Unnützes und unrechte oder unnütze Geschäfte. Er gebe sich der Lust hin, ohne dass dadurch Recht und zweckrationales Verhalten gestört werden; er sei nicht freudlos. Oder er pflege gleichmässig alle drei Lebensziele, die miteinander verbunden sind. Wenn man sich nämlich einem von Recht und Sitte, zweckrationalem Verhalten und Lust übermässig hingibt, dann bedrückt das die Seele und die beiden anderen Ziele. Kauṭilya sagt, dass zweckrationales Verhalten (**Artha**) das Wichtigste ist. Recht und Sitte sowie Lust wurzeln nämlich in zweckrationalem Handeln.
+> Prandaj le t'i mbajë shqisat nën kontroll, të shmangë gratë e huaja, pasurinë e huaj dhe dhunën, dhe të shmangë gjumin, epshin, gënjeshtrën, mendjemadhësinë, të kotën dhe punët e padrejta ose të padobishme. Ai le t'i jepet kënaqësisë, pa u penguar e drejta dhe sjellja e arsyeshme e qëllimshme; të mos jetë pa gëzim. Ose ai t'i kultivojë njësoj të tre qëllimet e jetës, të cilat janë të lidhura me njëra-tjetrën. Sepse nëse njeriu i jepet së tepërmi njërës prej të drejtës dhe moralit, sjelljes së arsyeshme dhe kënaqësisë, kjo rëndon shpirtin dhe dy qëllimet e tjera. Kauṭilya thotë se sjellja e arsyeshme e qëllimshme (**Artha**) është më e rëndësishmja. E drejta dhe morali si dhe kënaqësia e kanë rrënjën në veprimin e arsyeshëm.
 
 ---
 
 ## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫
 
-Buddhas erlösende Erkenntnis:
+Njohja çliruese e Budës:
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Als er mit Festigkeit und Ruhe das Heer Māras besiegt hatte, wollte der in Meditation Erfahrene die höchste Wahrheit und Wirklichkeit völlig erkennen und meditierte.
+> Pasi kishte mundur ushtrinë e Marës me vendosmëri dhe qetësi, i përruari në meditim donte të njihte plotësisht të vërtetën dhe realitetin më të lartë dhe meditoi.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Er brachte es zur höchsten Meisterschaft in allen Meditationsmethoden und erinnerte sich in der ersten Nachtwache an die ununterbrochene Abfolge seiner Wiedergeburten.
+> Ai arriti në mjeshtërinë më të lartë në të gjitha metodat e meditimit dhe u kujtua, gjatë parajsë së parë të natës, për vijën e pandërprerë të rilindjeve të tij.
 
-**⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
-**⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+**⟪अमुत्राहमयं नाम च्युतस्तस्मादिहागतः ।⟫**  
+**⟪इति जन्मसहस्राणि सस्मारानुभवन्निव ॥ ३ ॥⟫**
 
-> "Dort war ich der So-und-so, von dort geschieden bin ich hierher gekommen" – so erinnerte er sich an Tausende von Geburten, so als ob er sie gerade erfahren würde.
+> "Aty isha unë, i tillë e i tillë; duke u ndarë nga aty, erdha këtu" – kështu ai u kujtua për mijëra lindje, sikur t'i kishte përjetuar ato vetëm pak më parë.
 
-**⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
-**⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+**⟪स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु ।⟫**  
+**⟪ततः सत्त्वेषु कारुण्यं चकार करुणात्मकः ॥ ४ ॥⟫**
 
-> Als er sich so an Geburt und Tod in diesen verschiedenen Existenzen erinnert hatte, entfaltete er gegenüber den Wesen Mitgefühl, er, dessen Wesen Mitgefühl ist.
+> Kur ai u kujtua kështu për lindjen dhe vdekjen në këto ekzistenca të ndryshme, ai zhvilloi mëshirë kundrejt qenieve; ai, i cili në thelb është mëshire.
 
-**⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
-**⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+**⟪कृत्वेह स्वजनोत्सर्गं पुनरन्यत्र च कृत्वा ।⟫**  
+**⟪अत्राणः खलु लोको ऽयं परिभ्रमति चक्रवत् ॥ ५ ॥⟫**
 
-> Wahrlich, diese Welt ist ohne Rettung und irrt herum wie ein Rad: sie entlässt ihre Geschöpfe hier und dann wieder dort.
+> Vërtet, ky botë është pa shpëtues dhe rrotullohet si një rrotë: ajo liron krijesat e saj këtu dhe pastaj përsëri aty.
 
-**⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
-**⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪इत्येवं स्मरतस्तस्य बभूव नियतात्मनः ।⟫**  
+**⟪कदलीगर्भनिःसारः संसार इति निश्चयः ॥ ६ ॥⟫**
 
-> Als er sich entschlossenen Herzens so erinnerte, kam er zur festen Erkenntnis: Der Lauf der Wiedergeburten ist ohne Mark und Kern wie das Innere einer Bananenpflanze.
+> Kur ai u kujtua me zemër të vendosur kështu, ai erdhi te njohja e sigurt: Rruga e rilindjeve është pa thelb dhe bërthamë, si brendësia e një bimje banane.
 
-**⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
-**⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+**⟪द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः ।⟫**  
+**⟪दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥ ७ ॥⟫**
 
-> Als die zweite Nachtwache gekommen war, hat er, dessen Macht wie die keines Zweiten ist, das höchste himmlische Auge bekommen, er, der Beste aller, die ein Auge haben.
+> Kur erdhi parajsë e dytë e natës, ai, i cilit fuqia është si asnjë tjetër, mori syrin më të lartë qiellor; ai, i miri nga të gjithë ata që kanë sy.
 
-**⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
-**⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+**⟪ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा ।⟫**  
+**⟪ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥ ८ ॥⟫**
 
-> Dann sah er mit diesem völlig reinen himmlischen Auge die ganze Welt wie in einem makellosen Spiegel.
+> Atëher ai e paqi të gjithë botën me syrin qiellor krejt të pastër, sikur në një pasqyrë pa njollë.
 
-**⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
-**⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+**⟪सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्टकर्मणाम् ।⟫**  
+**⟪प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥ ९ ॥⟫**
 
-> Als er das Vergehen und Entstehen der Wesen sah, die gutes oder schlechtes Karma hatten, da wuchs das Mitgefühl in seinem Herzen.
+> Kur ai pa zhdukjen dhe lindjen e qenieve të gjalla, ato me karma të mirë ose të keqe, mëshira u rrit në zemrën e tij.
 
-**⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
-**⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
+**⟪इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् ।⟫**  
+**⟪इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥ १० ॥⟫**
 
-> "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
+> "Këta qenie, që kanë kryer vepra të këqija, shkojnë në një ekzistencë të keqe; ndërsa këta të tjerë, që kanë karma të mirë, lindin përsëri në qiellin e Indrës."
 
 ::: media
 ![](/images/uebung088.webp)
-Abb.: ⟪कदलीगर्भनिःसारः⟫
-(Bildquelle: [Details](/licenses#uebung088))
+Fig.: ⟪कदलीगर्भनिःसारः⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung088))
 :::

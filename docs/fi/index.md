@@ -19,7 +19,7 @@ features:
   - title: "Offline-first PWA"
     details: "Koko kurssi (mukaan lukien paikallinen hakukone) on käytettävissä kaikissa päätelaitteissa ilman aktiivista internet-yhteyttä."
   - title: "Tieteellinen typografia"
-    details: "Natiivi tuki Devanāgarī- ja IAST-kirjoitukselle tarkalla akateimisella tekstin asettelulla."
+    details: "Natiivi tuki Devanāgarī- ja IAST-merkinnöille tarkalla akateemisella tekstin asettelulla."
 
 ---
 

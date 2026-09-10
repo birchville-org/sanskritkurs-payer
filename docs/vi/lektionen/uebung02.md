@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 2"
 uebung_id: 2
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,21 +7,21 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 2
+# Bài tập 2
 
-A) Setzen Sie in den folgenden Sätzen unter Beachtung des Sandhi die angegebenen Namen und Nomina ein und bilden Sie Nominalsätze:
+A) Hãy điền các danh từ riêng và danh từ được chỉ định vào các câu sau, tuân thủ quy tắc Sandhi, và tạo thành các mệnh đề danh từ:
 
 1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 
 devaḥ śivaḥ. devo 'gniḥ. devo viṣṇuḥ. devo gaṇeśaḥ. devaḥ kṛṣṇaḥ. deva indra.
 
-| ⟪देवः⟫ ⟪शिवः⟫ | ⟪देवो⟫ ⟪ऽग्निः⟫ | ⟪देवो⟫ ⟪विष्णुः⟫ | ⟪देवो⟫ ⟪गणेशः⟫ | ⟪देवः⟫ ⟪कृष्णः⟫ | ⟪देव⟫ ⟪इन्द्रः⟫ |
+| ⟪देवः शिवः⟫ | ⟪देवो ऽग्निः⟫ | ⟪देवो विष्णुः⟫ | ⟪देवो गणेशः⟫ | ⟪देवः कृष्णः⟫ | ⟪देव इन्द्रः⟫ |
 
 2\. dvijas ... (brāhmaṇa, kṣatriya, vaiśya) = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 
 dvijo brāhmaṇaḥ. dvijaḥ kṣatriyaḥ. dvijo vaiśyaḥ.
 
-| ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ | ⟪द्विजः⟫ ⟪क्षत्रियः⟫ | ⟪द्विजो⟫ ⟪वैश्यः⟫ |
+| ⟪द्विजो ब्राह्मणः⟫ | ⟪द्विजः क्षत्रियः⟫ | ⟪द्विजो वैश्यः⟫ |
 
 3\. gurus ... (brāhmaṇa, Candrakīrti) = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 
@@ -39,65 +39,65 @@ vaiśyas tulādharaḥ.
 
 sādhur guruḥ. sādhū rāmaḥ.
 
-| ⟪साधुर्गुरुः⟫ | ⟪साधू⟫ ⟪रामः⟫ |
+| ⟪साधुर्गुरुः⟫ | ⟪साधू रामः⟫ |
 
 6\. kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva) = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
 kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
-| ⟪कविः⟫ ⟪कालिदासः⟫ | ⟪कविर्माघः⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ |
+| ⟪कविः कालिदासः⟫ | ⟪कविर्माघः⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ |
 
-B) Übersetzen Sie ins Sanskrit:
+B) Dịch sang tiếng Phạn:
 
-1\. Rāma ist ein Brahmane.
+1\. Rāma là một người Bà-la-môn.
 
 brāhmaṇo rāmaḥ.
 
-⟪ब्राह्मणो⟫ ⟪रामः⟫
+⟪ब्राह्मणो रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+2\. Người thầy là một người vaiśya.
 
 vaiśyo guruḥ.
 
-⟪वैश्यो⟫ ⟪गुरुः⟫
+⟪वैश्यो गुरुः⟫
 
-3\. Der Śūdra ist ein heiliger Mann.
+3\. Người Śūdra là một người thánh thiện.
 
 sādhuḥ śūdraḥ.
 
-⟪साधुः⟫ ⟪शूद्रः⟫
+⟪साधुः शूद्रः⟫
 
-4\. Der Dichter ist der Lehrer.
+4. Nhà thơ là người thầy.
 
 guruḥ kaviḥ.
 
-⟪गुरुः⟫ ⟪कविः⟫
+⟪गुरुः कविः⟫
 
-5\. Viṣṇu ist der HERR.
+5. Viṣṇu là CHÚA TỂ.
 
 īśvaro viṣṇuḥ.
 
-⟪ईश्वरो⟫ ⟪विष्णुः⟫
+⟪ईश्वरो विष्णुः⟫
 
-6\. Der HERR ist Śiva.
+6. CHÚA TỂ là Śiva.
 
 śiva īśvaraḥ.
 
-⟪शिव⟫ ⟪ईश्वरः⟫
+⟪शिव ईश्वरः⟫
 
-7\. Der Zweimalgeborene ist ein Brahmane.
+7. Người được sinh hai lần là một Bà-la-môn.
 
 brāhmaṇo dvijaḥ.
 
-⟪ब्राह्मणो⟫ ⟪द्विजः⟫
+⟪ब्राह्मणो द्विजः⟫
 
-8\. Der heilige Mann ist ein Lehrer.
+8. Người thánh thiện là một người thầy.
 
 guruḥ sādhuḥ.
 
-⟪गुरुः⟫ ⟪साधुः⟫
+⟪गुरुः साधुः⟫
 
-9\. Der Lehrer ist ein heiliger Mann.
+9. Người thầy là một người thánh thiện.
 
 sādhur guruḥ.
 
@@ -105,6 +105,6 @@ sādhur guruḥ.
 
 ::: media
 ![](/images/uebung002.jpg)
-Abb.: ⟪ईश्वरः⟫ ⟪शिवः⟫
-(Bildquelle: [Details](/licenses#uebung002))
+Hình: ⟪ईश्वरः शिवः⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung002))
 :::

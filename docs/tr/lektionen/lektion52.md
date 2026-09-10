@@ -1,6 +1,6 @@
 ---
 title: "Ders 52"
-subtitle: "i ve -u köklerine sahip nötr isimler"
+subtitle: "i ve -u kökleri dişi"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -591,7 +591,7 @@ PPP ⟪च्युत⟫
 ![](/images/lekt5214.webp)
 Abb.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/tr/licenses#lekt5214))
+(Görsel kaynağı: [Details](/tr/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: muz ağacı (_Musa_ sp.)
 
@@ -599,7 +599,7 @@ Konark = ⟪कोनार्क⟫
 ![](/images/lekt5208.webp)
 Abb.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/tr/licenses#lekt5208))
+(Görsel kaynağı: [Details](/tr/licenses#lekt5208))
 :::
 ⟪सार⟫ m.n.: çekirdek, öz, özü, madde
 
@@ -614,7 +614,7 @@ Hampi = ಹಂಪೆ
 ::: media
 ![](/images/lekt5215.webp)
 Abb.: ⟪मलम् मुंबई⟫
-(Bildquelle: [Details](/tr/licenses#lekt5215))
+(Görsel kaynağı: [Details](/tr/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: İndra'nın cenneti
 
@@ -624,7 +624,7 @@ Abb.: ⟪मलम् मुंबई⟫
 ![](/images/lekt5217.webp)
 Abb.:
 Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/tr/licenses#lekt5217))
+(Görsel kaynağı: [Details](/tr/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: tamamen tanımak isteyen kişi
 

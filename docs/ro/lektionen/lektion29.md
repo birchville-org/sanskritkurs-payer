@@ -1,10 +1,11 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Lecție 29"
+subtitle: "Utilizarea Parasmaipada (⟪परस्मैपद⟫) și Ātmanepada (⟪आत्मनेपद⟫) în causativ"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecția 29
@@ -262,6 +263,4 @@ Explicații:
 | ⟪स्मृ⟫ ⟪१⟫ ⟪प⟫ | ⟪स्मरिष्यति⟫ | ⟪स्मारयति⟫:br⟪स्मरयति⟫ |
 | ⟪हन्⟫ ⟪२⟫ ⟪प⟫ | ⟪हनिष्यति⟫ | ⟪घातयति⟫ |
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
-
 :::
-

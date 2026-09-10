@@ -1,10 +1,11 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: "Pelajaran 11"
+subtitle: "Akusatif ganda (Akusatif orang dan benda)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 11
@@ -61,7 +62,7 @@ mis. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 ::: media
 ![](/images/lekt1102.webp)
 Gambar: **vadanāni** = ⟪वदनानि⟫
-(Sumber gambar: [Detail](/licenses#lekt1102))
+(Sumber gambar: [Detail](/id/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : bertanya
   - **praśna** m. ⟪प्रश्न⟫ : pertanyaan (akhiran **-na** seperti dalam **yaj-ña**)
@@ -95,7 +96,7 @@ Gambar: **vadanāni** = ⟪वदनानि⟫
 ::: media
 ![](/images/lekt1101.webp)
 Ilustr.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Sumber gambar: [Detail](/licenses#lekt1101))
+(Sumber gambar: [Detail](/id/licenses#lekt1101))
 :::
 
 ## 11.4. Latihan Ulangan
@@ -136,5 +137,5 @@ Ilustr.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह
 ::: media
 ![](/images/lekt1103.webp)
 Gbr.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Sumber gambar: [Detail](/licenses#lekt1103))
+(Sumber gambar: [Detail](/id/licenses#lekt1103))
 :::

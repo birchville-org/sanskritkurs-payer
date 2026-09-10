@@ -1,10 +1,11 @@
 ---
-title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+title: "Pelajaran 52"
+subtitle: "Neutrum dari Stamm yang berakhiran -i dan -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pelajaran 52
@@ -63,67 +64,63 @@ Examples:
 *   **"consisting of"**
 *   **"rich in"**
 
-**Before -maya (as before -⟪मात्र⟫), final plosives of the citation form must be replaced by their corresponding nasal.**
+**Konsonan plosif yang berakhir sebelum -maya (seperti sebelum -⟪मात्र⟫) harus diganti dengan nasal yang sesuai dalam bentuk jeda.**
 :::
-Examples:
+Contoh:
 
 ::: indent
-⟪अन्नमय⟫ 3 "rich in food"
+⟪अन्नमय⟫ 3 "kaya akan makanan"
 
-⟪चिन्मय⟫ 3 (to ⟪चित्⟫ f. "intellect") "consisting of thought / mind"
+⟪चिन्मय⟫ 3 (dari ⟪चित्⟫ f. "intelekt") "terdiri dari pikiran / akal"
 
-⟪वाङ्मय⟫ 3 (to ⟪वाच्⟫ f. "language") "consisting of speech"
+⟪वाङ्मय⟫ 3 (dari ⟪वाच्⟫ f. "bahasa") "terdiri dari ucapan"
 
-⟪सोममय⟫ 3 "terbuat dari Soma, terdiri atas Soma"
+⟪सोममय⟫ 3 "terbuat dari Soma, terdiri dari Soma"
 :::
 ::: grammar-box
-**Kata benda yang berakhiran -maya kadang-kadang digunakan sebagai kata benda neutrum dan kemudian menyatakan kelimpahan dari apa yang ditunjuk oleh kata benda tempat -maya ditambahkan.**
+**Nomina pada -maya kadang-kadang digunakan sebagai substantif netral dan kemudian menyatakan kelimpahan dari apa yang ditunjuk oleh substantif, di mana -maya ditambahkan.**
 :::
 ::: indent
 mis. ⟪अन्नमय⟫ n. "kelimpahan makanan"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Fig.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Sumber gambar: [Detail](/en/licenses#lekt5202))
+Gambar: ⟪अन्नमयम् विवाहः⟫, Chennai = சென்னை
+(Sumber gambar: [Details](/id/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫-suffix -eya
 
 ::: grammar-box
-**Sufiks ⟪तद्धित⟫ -eya / f.: -eyī terjadi, antara lain, dengan Feminina dalam arti**
+**Suffix ⟪तद्धित⟫ -eya / f.: -eyī muncul terutama pada feminina dengan makna**
 
-*   **"Child of"**
-*   **"Descendant of"**
+*   **"Anak dari"**
+*   **"Keturunan dari"**
 
-**Guna-stage (⟪वृद्धि⟫) of the first vowel.**
+**Tingkat panjang (⟪वृद्धि⟫) dari vokal pertama.**
 
-e.g. ⟪कौन्तेय⟫ m. "Son of ⟪कुन्ती⟫"
+mis. ⟪कौन्तेय⟫ m. "Anak dari ⟪कुन्ती⟫"
 :::
 ::: media
 ![](/images/lekt5203.webp)
-Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang figure, Java, Indonesia
-(Image source: [Detail](/en/licenses#lekt5203))
+Gambar: ⟪भीमः कौन्तेयः⟫
+Figur Wayang, Jawa, Indonesia
+(Sumber gambar: [Details](/id/licenses#lekt5203))
 :::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+## 52.3. Pembentukan adverbia: Suffix adverbial -śas
 
 ::: grammar-box
-**The adverbial suffix -śas forms adverbs of (mainly) distributive meaning from:**
+**Suffix adverbial -śas membentuk adverbia dari (terutama) makna distributif:**
 
-*   **Numeral words**  
-    Examples:  
-:::
-::: indent
-⟪एकशस्⟫ "individually, one by one"
-⟪द्विशस्⟫ "in pairs, two by two"
-⟪शतशस्⟫ "by hundreds, a hundred at a time"
-:::
+*   **Kata bilangan**  
+Contoh:  
+⟪एकशस्⟫ "satu per satu, masing-masing satu"  
+⟪द्विशस्⟫ "dua per dua, masing-masing dua"  
+⟪शतशस्⟫ "ratusan per ratusan, masing-masing seratus"
 
-*   **kata lain**
-Contoh:
-⟪भागशस्⟫ "satu per satu"
-⟪सर्वशस्⟫ "di mana-mana, tanpa terkecuali"
+*   **Kata lain**  
+Contoh:  
+⟪भागशस्⟫ "bagian demi bagian"  
+⟪सर्वशस्⟫ "di mana-mana, benar-benar semua"  
 ⟪नित्यशस्⟫ "terus-menerus"
 ::: media
 ![](/images/lekt5204.webp)
@@ -689,89 +686,35 @@ Explanations:
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Acc.Dual.m (⟪धर्मकामौ⟫ is Dualdvandva)
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (2nd cent. CE): ⟪बुद्धचरित⟫ ⟪४⟫ Buddha's liberating knowledge
-
-::: media
-![](/images/lekt5216.webp)
-Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Image source: [Detail](/en/licenses#lekt5216))
 :::
 
 ::: indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
-
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
-
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
-
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
-
-⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
-⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
-⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
-
-⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
-⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
-⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
-
-⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
-⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
-⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
-
-⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
-⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
-⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
-
-⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
-⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
-⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
-
-⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
-⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
-⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+⟪ततो मारबलं जित्वा धैर्येण च शमेन च । परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥१॥ सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् । सस्मार प्रथमे याम पूर्वजन्मपरंपराम् ॥२॥ अमुत्राहमयं नाम च्युतस्तस्मादिहागतः । इति जन्मसहस्राणि सस्मारानुभवन्निव ॥३॥ स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु । ततः सत्त्वेषु कारुण्यम् चकार करुणात्मकः ॥४॥ कृत्वेह स्वजनोत्सर्गम् पुनरन्यत्र च कृत्वा । अत्राणः खलु लोको ऽयम् परिभ्रमति चक्रवत् ॥५॥ इत्येवं स्मरतस्तस्य बभूव नियतात्मनः । कदलीगर्भनिःसारः संसार इति निश्चयः ॥६॥ द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः । दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥७॥ ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा । ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥८॥ सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्तकर्मणाम् । प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥९॥ इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् । इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥१०॥⟫
 :::
-## 52.9. Aufgaben während  Semesterferien
+## 52.9. Tugas selama liburan semester
 
-Dengan Pelajaran 52, semester pertama (13 minggu × 4 jam kelas) dari kursus Sanskerta ini berakhir.
+Dengan Pelajaran 52, semester pertama (13 minggu × 4 jam pelajaran) kursus Sanskerta telah berakhir.
 
-During the semester break, the following tasks should be completed:
+Selama liburan semester, tugas-tugas berikut harus dipenuhi:
 
-1.  Tinjauan atas semua yang telah dipelajari sejauh ini, khususnya:
-    1.  Hafalan konjugasi dan paradigma deklinasi
-    2.  Kosakata
-    3.  Bentuk akar (stem forms)
-2.  Menghafal sebanyak mungkin ayat dan teks prosa dari sastra klasik
-3.  Mengerjakan [Pelajaran 53](lektion53.md)
-4.  Mengerjakan lembar kerja Bhg 1 - 11 (belum tersedia di internet)
-5.  Persiapan ⟪भगवद्गीता⟫ Bab 1, mempelajari kosakata terkait dari daftar kata (belum tersedia di internet)
-6.  Analisis metrik semua ayat dari ⟪भगवद्गीता⟫ ⟪१⟫  
-Kesan yang baik tentang teks dalam bentuk dilafalkan diberikan oleh: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Diakses pada 2009-01-19
-7.  Membaca ⟪महाभारत⟫ retelling, misalnya  
-Mahābhārata : Epik besar India / diterjemahkan dan dipadatkan dari Sanskerta oleh Biren Roy. -- Edisi ke-10. -- Munich : Diederichs, 1995. -- 335 hlm. ; 19 cm. -- (Seri kuning Diederichs ; 16 : India)
-8.  Mengerjakan:  
-**Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Terbit sendiri, 1983. -- 818 hlm. ; 23 cm. -- hal. 208 - 254 (Pemerintahan Sintaksis)
-9.  Mengerjakan sepenuhnya:  
-**Basham, A. L. (Arthur Llewellyn) (1914–1986)**Keajaiban IndiaBagian: Survei budaya anak benua India sebelum kedatangan Muslim. -- London : Sidgwick & Jackson, 1954.
-10.  Memulai dengan mengerjakan:  
-**Winternitz, Moriz (1863–1937):** Sejarah sastra India. Stuttgart : Koehler. -- 3 jilid. -- 1908 - 1922 (masih jauh yang terbaik sejarah sastra Sanskerta, Pali, dan Prakrit)
+1.  Mengulang seluruh materi yang telah dipelajari sejauh ini, khususnya:
+1.  Menghafal paradigma konjugasi dan deklinasi
+2.  Kosakata (kata benda)
+3.  Bentuk akar kata
+2.  Menghafal sebanyak mungkin ayat-ayat dan teks prosa dari sastra klasik
+3.  Mempelajari [Pelajaran 53](lektion53.md)
+4.  Mempelajari lembaran-lembaran Bhg 1 - 11 (belum tersedia di internet)
+5.  Mempersiapkan ⟪भगवद्गीता⟫ Bab 1, mempelajari kosakata yang terkait dalam daftar kata (belum tersedia di internet)
+6.  Analisis metrik semua ayat dari ⟪भगवद्गीता १⟫  
+Sebuah gambaran yang baik tentang teks dalam bentuk lisan dapat diberikan oleh: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Diakses pada 2009-01-19
+7.  Membaca narasi ulang ⟪महाभारत⟫, misalnya  
+Mahābhārata : Epik besar India / diterjemahkan dari Sanskerta dan disingkat oleh Biren Roy. -- Cetakan ke-10. -- München : Diederichs, 1995. -- 335 hlm. ; 19 cm. -- (Seri Kuning Diederichs ; 16 : India)
+8.  Mempelajari:  
+**Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam bahasa Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm ; 23 cm. -- Hlm. 208 - 254 (Pemerintahan sintaksis)
+9.  Selesaikan mempelajari:  
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)** Keajaiban India Bagian: Sebuah survei tentang budaya anak benua India sebelum kedatangan orang-orang Muslim. -- London : Sidgwick & Jackson, 1954.
+10.  Mulai mempelajari:  
+**Winternitz, Moriz (1863–1937):** Sejarah sastra India. Stuttgart : Koehler. -- 3 jilid. -- 1908 - 1922 (masih merupakan sejarah sastra terbaik untuk literatur Sanskerta, Pali, dan Prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)

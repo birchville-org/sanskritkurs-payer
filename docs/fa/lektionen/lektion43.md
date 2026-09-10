@@ -1,10 +1,11 @@
 ---
-title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+title: "درس ۴۳"
+subtitle: "پایان‌های شخصی شخص دوم (⟪मध्यमः⟫ = «شخص میانی»)"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # درس ۴3
@@ -139,7 +140,7 @@ status: stable
 ::: media
 ![](/images/lekt4302.webp)
 تصویر: ⟪आपणः⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4302))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ ۳: سریع، شتاب‌زده
 
@@ -148,7 +149,7 @@ status: stable
 ::: media
 ![](/images/lekt4303.webp)
 تصویر: ⟪पण्यानि⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4303))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4303))
 :::
 ⟪आम्⟫ : بله
 
@@ -171,14 +172,14 @@ status: stable
 ::: media
 ![](/images/lekt4304.webp)
 تصویر: ⟪विपणिः⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4304))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: تاجر
 
 ::: media
 ![](/images/lekt4305.webp)
 تصویر: ⟪वणिक्⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4305))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4305))
 :::
 ⟪वर⟫ ۳: بهترین
 
@@ -189,7 +190,7 @@ status: stable
 ::: media
 ![](/images/lekt4306.webp)
 تصویر: ⟪वत्सः⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4306))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ ۳: برتر، بهترین
 
@@ -210,7 +211,7 @@ status: stable
 ::: media
 ![](/images/lekt4307.webp)
 تصویر: ⟪तोलन्ति⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4307))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: کاغذ
 
@@ -331,7 +332,7 @@ status: stable
 ::: media
 ![](/images/lekt4308.webp)
 تصویر: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4308))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4308))
 :::
 ## 43.6. ⟪سَموادَه⟫ = گفتگو
 
@@ -366,6 +367,6 @@ status: stable
 ::: media
 ![](/images/lekt4309.webp)
 تصویر: ⟪शर्करा⟫
-(منبع تصویر: [جزئیات](/licenses#lekt4309))
+(منبع تصویر: [جزئیات](/fa/licenses#lekt4309))
 :::
 

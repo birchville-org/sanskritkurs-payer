@@ -28,7 +28,7 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
     Ignores lines inside ::: deleteme-box containers and YAML frontmatter.
     """
     # Languages where German prose is explicitly allowed as fallback
-    if target_lang in {'rm', 'la', 'grc', 'el', 'cop', 'af'}:
+    if target_lang in {'rm', 'la', 'grc', 'el', 'af'}:
         return []
 
     flagged = []
@@ -76,13 +76,21 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
             # Skip markdown table rows and citation lines with German publisher/author names
             if stripped.startswith('|') or any(cit in stripped for cit in ["Kielhorn", "Dümmler", "Berlin", "Stenzler", "Monier-Williams", "Solomons", "Image source:"]):
                 continue
-            # Skip if line contains non-Latin scripts (Cyrillic, Devanagari, Arabic, Hebrew, Amharic, Coptic, Chinese, etc.)
-            if any(ord(ch) > 0x024F for ch in stripped):
+            # Strip Devanāgarī tags, Sanskrit brackets, images, links, markdown formatting for clean lang detection
+            clean_line = re.sub(r'⟪[^⟫]+⟫|sig\[[^\]]+\]|!\[.*?\]\(.*?\)|\[.*?\]\(.*?\)|[\#\*\_`]', '', stripped)
+            clean_line = re.sub(r'[\u0900-\u097F]+', '', clean_line).strip()
+
+            # Skip lines in non-Latin scripts when translating to those target scripts
+            if target_lang in ['ru', 'uk', 'bg'] and any('\u0400' <= ch <= '\u04FF' for ch in clean_line):
+                continue
+            if target_lang in ['ar', 'fa'] and any('\u0600' <= ch <= '\u06FF' for ch in clean_line):
+                continue
+            if target_lang == 'he' and any('\u0590' <= ch <= '\u05FF' for ch in clean_line):
+                continue
+            if target_lang in ['zh', 'zh-CN'] and any('\u4E00' <= ch <= '\u9FFF' for ch in clean_line):
                 continue
 
-            # Strip Devanāgarī tags, IAST brackets, URLs, markdown formatting for clean lang detection
-            clean_line = re.sub(r'⟪[^⟫]+⟫|sig\[[^\]]+\]|!\[.*?\]\(.*?\)|\[.*?\]\(.*?\)|[\#\*\_`]', '', stripped).strip()
-            if len(clean_line) > 35:
+            if len(clean_line) > 25:
                 try:
                     detected_lang = _lang_detect(clean_line)
                     if detected_lang == 'de':
@@ -169,10 +177,12 @@ def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -
     # Parse response and apply corrections
     patched_lines = list(lines)
     for resp_line in patched_text.split('\n'):
-        m = re.match(r'^\s*\[?[LЛlл]?\s*(\d+)\s*\]?(?:>>)?[\s:\.\-]*\s*(.*)$', resp_line.strip(), re.IGNORECASE)
+        m = re.match(r'^\s*\[?[LЛlл]?\s*(\d+)\s*\]?\s*(?:>>)?\s*[\s:\.\-]*\s*(?:>>)?\s*(.*)$', resp_line.strip(), re.IGNORECASE)
         if m:
             idx = int(m.group(1))
-            corrected = m.group(2)
+            corrected = m.group(2).strip()
+            if corrected.startswith('>>'):
+                corrected = corrected.lstrip('>').strip()
             if 0 <= idx < len(patched_lines):
                 patched_lines[idx] = corrected
 

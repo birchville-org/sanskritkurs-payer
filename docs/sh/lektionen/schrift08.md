@@ -1,22 +1,22 @@
-# Exercise d'écriture 8
+# Writing Exercise 8
 
-Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:
+Vowel signs for the beginning of a word, if the word is not written connected to a preceding word:
 
 ![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
-### Konsonantenligaturen
+### Consonant Ligatures
 
-Wenn im Wort oder Satz zwei oder mehrere Konsonanten unmittelbar aufeinander folgen, werden sie mit Ligatur (verbundenes Zeichen) geschrieben.
+If two or more consonants follow immediately upon each other in a word or sentence, they are written with a ligature (combined sign).
 
-1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschliesst, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
+1. If the first of the consonant signs to be combined ends with a vertical stroke on the right, it loses this stroke and is placed before the second consonant.
 
-Ausnahme: wenn das zweite Konsonantenzeichen ⟪न्⟫ oder ⟪ल्⟫ ist, wird dieses mit Verlust des wagrechten Strichs unter das erste Konsonantenzeichen gesetzt. Je nach Schrifttype gibt es weitere Ausnahmen, die in der folgenden aufgeführt sind. Ist in der betreffenden Schrifttype eine Ligatur nicht vorgesehen, wird ein Virāma gesetzt.
+Exception: if the second consonant sign is ⟪न्⟫ or ⟪ल्⟫, this is placed under the first consonant sign with loss of the horizontal stroke. Depending on the font, there are further exceptions listed below. If a ligature is not provided for in the relevant font, a virāma is inserted.
 
-Beispiele:
+Examples:
 
-In der Type, die in diesem Skript verwendet wird:
+In the font used in this script:
 
 ⟪ख्⟫ kh: ⟪ख्य⟫  khya, ⟪ख्र⟫ khra
 
@@ -40,7 +40,7 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,23 +60,23 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Note the spelling of jña:
 
 ![](/images/schrift017.webp)
 
-Anlautendes -a, das gemäss den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
+Initial -a, which is elided according to the sentence sandhi rules (-as + a- » -o ' ), is indicated by the so-called Avagraha:
 
 ⟪ऽ⟫
 
-z.B.
+e.g.
 
-⟪देवो⟫ ⟪ऽग्निः⟫ \= devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
-## Vežba
+## Exercise
 
-A) Schreiben Sie alle in der obigen Liste vorkommenden Ligaturen
+A) Write all ligatures appearing in the list above
 
-B) Schreiben und übersetzen Sie:
+B) Write and translate:
 
 1\. devo viṣṇuḥ.
 
@@ -114,12 +114,12 @@ B) Schreiben und übersetzen Sie:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+C) Write:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
-D) Lesen, transliterieren und übersetzen Sie:
+D) Read, transliterate and translate:
 
-⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ | ⟪साध्व्यः⟫ ⟪स्मरन्ति⟫ | ⟪देव्यो⟫ ⟪मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | ⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
+⟪शूद्रा नृत्यन्ति⟫ | ⟪साध्व्यः स्मरन्ति⟫ | ⟪देव्यो मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः स्वर्गं गच्छति⟫ | ⟪साधवो गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
 
 

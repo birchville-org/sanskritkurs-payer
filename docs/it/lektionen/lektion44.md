@@ -62,15 +62,15 @@ status: stable
 | **Imperfetto** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optativo** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
->> ## 44.2. Sul Wortsandhi
+## 44.2. Sul Wortsandhi
 
->> Nei temi del presente che terminano con una consonante, si devono osservare le leggi già trattate del Wortsandhi.
+Nei temi del presente che terminano con una consonante, si devono osservare le leggi già trattate del Wortsandhi.
 
->> Inoltre, si applicano le seguenti leggi del Wortsandhi.
+Inoltre, si applicano le seguenti leggi del Wortsandhi.
 
 (Raccolta dettagliata di tutte le variazioni fonetiche pertinenti in Kielhorn, Grammatik pag. 76s.)
 
->> ### 44.2.1. Sul Wortsandhi per dh-
+### 44.2.1. Sul Wortsandhi per dh-
 
 ::: grammar-box
 1. **L'aspirata viene sostituita dalla corrispondente non aspirata davanti a un'altra aspirata:**
@@ -82,7 +82,7 @@ ad es. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे�
 4. **-s + dh- » -dh-** (Caduta della -s)
 ad es. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
->> ### 44.2.2. Sul Wortsandhi per s-
+### 44.2.2. Sul Wortsandhi per s-
 
 ::: grammar-box
 1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella 2ª classe del presente)

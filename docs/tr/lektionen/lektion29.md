@@ -1,6 +1,6 @@
 ---
 title: "Ders 29"
-subtitle: "Kausativ'ta Parasmaipada (⟪परस्मैपद⟫) ve Ātmanepada'nın (⟪आत्मनेपद⟫) kullanımı"
+subtitle: "Kausativ'da Parasmaipada (⟪परस्मैपद⟫) ve Ātmanepada'nın (⟪आत्मनेपद⟫) kullanımı"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -100,7 +100,7 @@ Gelecek zaman ⟪रंस्यते⟫
 Edilgen ⟪रम्यते⟫  
 Nedensel ⟪रमयति⟫  
 PPP ⟪रत⟫  
-Eda ⟨STRUCT_N⟩ ⟪रन्तुम्⟫
+Mastar ⟪रन्तुम्⟫
 :::
 ⟪वानप्रस्थ⟫ m.: Orman ereni (üçüncü ⟪आश्रम⟫ aşamasında olan kimse)
 
@@ -245,6 +245,4 @@ Açıklamalar:
 |⟪स्मृ १ प⟫|⟪स्मरिष्यति⟫|⟪स्मारयति⟫:br⟪स्मरयति⟫|
 |⟪हन् २ प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ १ उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
-
 :::
-

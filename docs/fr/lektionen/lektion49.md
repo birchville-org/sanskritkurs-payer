@@ -1,6 +1,6 @@
 ---
 title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+subtitle: "Formation de l'impératif (⟪लोट्⟫) des thèmes athématiques du présent (suite)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"

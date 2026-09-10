@@ -1,10 +1,11 @@
 ---
-title: Lektion 40
+title: "Pamoka 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Pamoka 40
@@ -12,29 +13,16 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
-⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
-⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
-
-⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
-⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
-⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
-
-⟪आचार्यात्पादमादत्ते⟫  
-⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
-⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
 :::
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Bildquelle: [Details](/licenses#lekt4005))
+Pav.: ⟪पादं सब्रह्मचारिभ्यः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4005))
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. Pirmosios asmens perfektų formų daryba (⟪लिट्⟫)
 
-Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫)
+Pirmojo asmens galūnės (⟪तृतीयः⟫) perfektu (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -45,39 +33,39 @@ Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट�
 
 :::
 ::: grammar-box
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen ausser Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
+Atkreipkite dėmesį, kad pirmojo asmens vienaskaitos P ir Ā galūnės sutampa su trečiojo asmens vienaskaitos galūnėmis. Todėl visose perfektų rūšyse, išskyrus III(a,b) ir V(a,b,c), pirmojo asmens vienaskaitos P arba Ā formados visada sutampa su trečiojo asmens vienaskaitos P arba Ā formadomis.
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
+IV tipo atveju pirmojo asmens vienaskaitos P forma, kaip ir trečiojo asmens vienaskaitos P, baigiasi -au.
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
+III ir V tipo perfektuose pirmojo asmens vienaskaitos Ā forma visada sutampa su trečiojo asmens vienaskaitos Ā forma.
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein.
+III ir V tipo perfektuose pirmojo asmens vienaskaitos P ir trečiojo asmens vienaskaitos P formados gali sutapti: šių darybos tipų atveju trečiojo asmens vienaskaitos P forma visada turi būti pailgintuoju laipsniu, o pirmojo asmens vienaskaitos P forma gali būti arba aukštuoju laipsniu, arba pailgintuoju.
 :::
 ::: grammar-box
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
+Prieš galūnes, prasidedančias priebalsiu, daugumoje šaknų atsiranda jungiamasis balsis -i-.
 
-Ausser vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
+Išskyrus prieš galūnę -re, prie kurios visada turi atsirasti -i-, jungiamasis balsis prieš priebalsines galūnes niekada nepasirodo aštuoniose šaknyse, baigiančiose -ṛ arba -u, būtent
 
-1.  ⟪कृ⟫ 8U (ausser ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "wählen"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "rennen"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "fliessen"
+1. ⟪कृ⟫ 8U (išskyrus ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "rinktis"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "bėgti"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "tekėti"
 
-Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
+T. vadinamose fakultatyviose ⟪अनिट्⟫-šaknyse jungiamasis balsis gali būti įterpiamas arba ne. (Šių šaknų sąrašas pas Kielhorn, Gramatika p. 92 § 298b,2,3)
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. Perfektas Tipas I: be šaknies laipsnių kaitos
 
 1.sg. = 3.sg.
 
-Verben, die diesem Typ folgen:
+Veiksmai, kurie seka šiuo tipu:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Priebalsis-ilgasis balsis-priebalsis
+*   Priebalsis-balsis-priebalsis-priebalsis
+*   a-priebalsis(-priebalsis)
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
@@ -98,17 +86,17 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
 :::
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+⟪अस्⟫ 2P ir ⟪अस्⟫ 4P
 
 ::: indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. Perfektas Tipas II: stiprioji šaknis aukštuoju laipsniu, silpnoji šaknis žemuoju laipsniu
 
-Verben, die diesem Typ folgen:
+Veiksmai, kurie seka šiuo tipu:
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   (Priebalsis-)i/u/ṛ/ḷ-priebalsis
 
 ⟪भिद्⟫ 7U
 
@@ -121,35 +109,35 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 4P fakultatyviai ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪मुमोह⟫
 
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+*   1.pl.P ⟪मुमुहिम । मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. Perfektas Tipas III: Stiprioji šaknis aukštuoju laipsniu/pratęsimu
 
-1.sg.P wahlweise hochstufig oder dehnstufig
+1.sg.P optionally high-grade or lengthened-grade
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. Perfect Type IIIa: Strong stem high-grade/lengthened-grade, weak stem low-grade
 
-Verben, die diesem Typ folgen:
+Verbs that follow this type:
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
-*   (Konsonant-)-ṛ
+*   (Consonant-)(Consonant-)i/ī/u/ū
+*   (Consonant-)-ṛ
 
 ⟪इ⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
+*   1.sg.P ⟪इयाय । इयय⟫ (i+e+a)
 
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
+*   1.sg.P ⟪निनाय । निनय⟫
 
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
 
@@ -157,10 +145,10 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
-⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
+⟪स्तु⟫ 2U strictly ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
+*   1.sg.P ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
 
 *   1.pl.P ⟪तुष्टुम⟫
 
@@ -168,10 +156,10 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
-⟪कृ⟫ 8U strikt ⟪अनिट्⟫
+⟪कृ⟫ 8U strictly ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
+*   1.sg.P ⟪चकार । चकर⟫
 
 *   1.pl.P ⟪चकृम⟫
 
@@ -179,31 +167,31 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. Perfect Type IIIb: Strong stem high-grade/lengthened-grade, weak stem high-grade
 
-Verben, die diesem Typ folgen:
+Verbs that follow this type:
 
-*   (Konsonant-)(Konsonant-)-ṝ
+*   (Consonant-)(Consonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
 
 ::: indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
+*   1.sg.P ⟪पपार । पपर⟫
 
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
+*   1.sg.P ⟪सस्मार । सस्मर⟫
 
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
+*   1.sg.P ⟪सञ्चस्कार । सञ्चस्कर⟫
 
 *   1.pl.P ⟪सञ्चस्करिम⟫
 
@@ -211,13 +199,13 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
 
-*   Starker Stamm:
-    *   1.,3. sg. Parasamaip.: -au
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Strong stem:
+*   1.,3. sg. Parasamaip.: -au
+*   Weak stem:
+*   before consonant: low-grade-i
+*   before vowel: low-grade-ø
 
 ⟪दा⟫ 3U
 
@@ -232,32 +220,32 @@ Verben, die diesem Typ folgen:
 :::
 ### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
-1.sg.P. wahlweise hochstufig oder dehnstufig
+1.sg.P. optionally high-grade or lengthened-grade
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. Perfect Type Va: Consonant-a-Consonant, weak stem low-grade
 
 Verben, die diesem Typ folgen:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1.  gam „eiti“
+2.  han (»ghan) „užmušti“
+3.  jan „gimti“
+4.  vac „kalbėti“
+5.  vad „sakyti“
+6.  yaj „aukoti“
+7.  ir kt.
 :::
 ⟪गम्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
+*   1.sg.P ⟪जगाम । जगम⟫
 
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
+*   1.sg.P ⟪जघान । जघन⟫
 
 *   1.pl.P ⟪जघ्निम⟫
 :::
@@ -271,14 +259,14 @@ Verben, die diesem Typ folgen:
 ⟪वच्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
+*   1.sg.P ⟪उवाच । उवच⟫
 
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
+*   1.sg.P ⟪उवाद । उवद⟫
 
 *   1.pl.P ⟪ऊदिम⟫
 
@@ -289,7 +277,7 @@ Verben, die diesem Typ folgen:
 ⟪यज्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
+*   1.sg.P ⟪इयाज । इयज⟫
 
 *   1.pl.P ⟪ईजिम⟫
 
@@ -297,12 +285,12 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
+*   1.sg.P ⟪पपाच । पपच⟫
 
 *   1.pl.P ⟪पेचिम⟫
 
@@ -310,90 +298,88 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem high-grade
 
 Verben, die diesem Typ folgen:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   All other roots with medial -a-
 
 ⟪क्रम्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
+*   1.sg.P ⟪चक्राम । चक्रम⟫
 
-*   1.pl.P ⟪चक्रमिम⟫
+*   1.pl.Indikativ ⟪चक्रमिम⟫
 
-*   1.sg.Ā ⟪चक्रमे⟫
+*   1.sg.Aorist ⟪चक्रमे⟫
 
-*   1.pl.Ā ⟪चक्रमिमहे⟫
+*   1.pl.Aorist ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen
+### 40.2.6. Special Perfect formations
 
 ⟪विद्⟫ 2P präsentisches Perfekt:
 
 ::: indent
-*   1.sg.P ⟪वेद⟫ (= 3.sg.P)
+*   1.sg.Indikativ ⟪वेद⟫ (= 3.sg.Indikativ)
 
-*   1.pl.P ⟪विद्म⟫
+*   1.pl.Indikativ ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪अह्⟫ 1st person not customary!
 
 ⟪भू⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
+*   1.sg.Indikativ ⟪बभूव⟫ (= 3.sg.Indikativ)
 
-*   1.pl.P ⟪बभूविम⟫
+*   1.pl.Indikativ ⟪बभूविम⟫
 :::
 ⟪जि⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
+*   1.sg.Indikativ ⟪जिगाय⟫ (= 3.sg.Indikativ) ⟪। जिगय⟫
 
-*   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+*   1.pl.Indikativ ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+The periphrastic perfect is formed from:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
+*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
+*   roots beginning with a long vowel (except ā)
+*   roots: vowel (except a-)-consonant-consonant
 *   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   for some roots both perfects can be formed optionally: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
+*   for the following roots both perfects can be formed optionally and the periphrastic perfect is also reduplicated, namely with the reduplication syllable of the present stem:
+*   bhī "sich fürchten"
+*   bhṛ "tragen"
+*   hu "opfern"
+*   hrī "sich schämen"
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
+*   1.sg.Aorist ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
 
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
+*   1.pl.Aorist ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
 :::
 ⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
 
 ::: indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+*   1.sg.Indikativ ⟪बन्धयां चकर । बन्धयां चकार⟫ (= 3.sg.Indikativ) ⟪। बन्धयामास⟫ (= 3.sg.Indikativ) ⟪। बन्धयां बभूव⟫ (= 3.sg.Indikativ)
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. Syntax regarding the first person (⟪तृतीयः⟫)
 
 ::: grammar-box
-Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
+Since a finite verb (conjugated verb) also expresses the agent (⟪कर्तृ⟫), "I", "we" in non-passive verbal sentences with a finite verb do not need to be expressed additionally by a personal pronoun
 :::
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+## 40.5. Personal pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the first person singular and plural
 
 ::: grammar-box
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+The form of the personal pronoun (personal pronoun) is the same for all genders.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br"I" | ⟪बहुवचनम्⟫ :br"we" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -405,56 +391,56 @@ Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlech
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
+The shorter forms, which stand in second place above (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), must never be used at the beginning of a sentence or verse.
 
-Vor den Partikeln ⟪च⟫, ⟪वा⟫, ⟪एव⟫ dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden:
+Before the particles ⟪च⟫, ⟪वा⟫, ⟪एव⟫ these so-called enclitic forms must also not be used:
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... "und mich"
+only: ... ⟪मां च⟫ ... "and me"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
+The genitive (⟪षष्ठी⟫) of the personal pronouns is used as a possessive pronoun:
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mein"
+⟪मम । मे⟫ = "my"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "unser"
+⟪अस्माकम् । नस्⟫ = "our"
 :::
 ::: grammar-box
-Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
+As the first member of compounds, these pronouns have the stems:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
 
-z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
+pavyz. ⟪मत्पुस्तकम्⟫ "mano knyga" ; ⟪अस्मद्पुस्तकानि⟫ "mūsų knygos"
 :::
-## 40.6. Wortliste
+## 40.6. Žodžių sąrašas
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
+⟪पात्र⟫ n.: Garbingasis, mokytojas, vertas
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
+⟪मेधा⟫ f.: Išmintis, protas, mintis
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
+⟪पुस्तक⟫ m.n.: Rankraštis, knyga
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : būti teisingoje tvarkoje, derėti (Lok.) ; formuotis, kurtis ; nuspręsti ką daryti, sutikti su (Dat.)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+Perf. II ⟪चकॢपे⟫ fakultatyviai ⟪अनिट्⟫  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : sutvarkyti, sukurti, įsivaizduoti, apsimanyti  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+iš to:
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.: Įsivaizdavimas mintyse, neegzistuojančio realybėje priėmimas, fikcija
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (įsivaizduoti skirtingai =) abejoti, kelti klausimą
 
 ::: indent
-davon:
+iš to:
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.: Alternatyva, abejonė
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ : mušti
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -464,82 +450,82 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ : pereiti, viršyti, išsigelbėti nuo kieno nors (Akk. = viršyti ką nors)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+iš to:
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.: Brasta, šventa maudynių vieta, piligrimų vieta
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+Pav.: ⟪हरिद्वारे तीर्थम्⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4003))
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m. (iš: ⟪तीर्थम्⟫+ ⟪कृ⟫): brastos kūrėjas (per kančias) = 24 Džainų mokytojai
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+Iliustr.: ⟪तीर्थङ्करः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4002))
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ priešdėlis: žemyn, apačion, šalin, nu-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 1 asmuo ⟪अवतरति⟫ : nusileisti
 
 ::: indent
-davon:
+iš to:
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.: (nusileidėjas, nusileidimas) dievo inkarnacija, ypač Viṣṇus 10 inkarnacijų (žr. Basham, Stebuklas p. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+Iliustr.: ⟪विष्णोर्दशावताराः⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 2 asmuo ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : miegoti, eiti miegoti
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
+Neapibrėžtasis laikas ⟪अस्वपीत् । अस्वपत्⟫  
+Įvykminamoji forma ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
+Ateitis ⟪स्वप्स्यति⟫  
+Tiesioginė forma ⟪सुप्यते⟫ (iš \*svp-ya-te)  
+Sukeliamoji forma ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-davon:
+iš to:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ m.: miegas, sapnas
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ f. (iš \*svp-ti): miegas, ypač gilus miegas
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+Iliustr.: ⟪स्वपन्ति⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4004))
 :::
-## 40.7. Übung
+## 40.7. Pratimas
 
-A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion.
+A) Išverkite ⟪सुभाषितानि⟫ pamokos pradžioje.
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an.
+B) Paverskite šias veiksmažodines formas atitinkamomis įvykminamosios formos formomis. Jei yra keli variantai, nurodykite visus variantus.
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
+(Ženklų paaiškinimas: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultatyviai ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
 3.  ⟪स्रक्ष्यामि⟫
-4.  ⟪स्तुमहे⟫ ⟪अ⟫
+4.  ⟪स्तुमहे अ⟫
 5.  ⟪वर्धामहे⟫
 6.  ⟪आवर्ते⟫
 7.  ⟪सेक्ष्यामि⟫
@@ -556,13 +542,13 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 18.  ⟪वसामः⟫
 19.  ⟪अभवाम⟫
 20.  ⟪अस्यामि⟫
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫
-22.  ⟪कल्पामहे⟫ ⟪इ⟫
+21.  ⟪अबिभ्रि अ⟫
+22.  ⟪कल्पामहे इ⟫
 23.  ⟪त्यज्यामि⟫
 24.  ⟪अतरम्⟫
 25.  ⟪चिन्मः⟫
 26.  ⟪पृच्छामः⟫
-27.  ⟪अनश्याम⟫ ⟪इ⟫
+27.  ⟪अनश्याम इ⟫
 28.  ⟪चरामः⟫
 29.  ⟪अवदाम⟫
 30.  ⟪शोचयामः⟫
@@ -574,12 +560,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ⟪मन्ये⟫
 37.  ⟪स्वपिमः⟫
 38.  ⟪पामि⟫
-39.  ⟪शृणुमः⟫ ⟪अ⟫
+39.  ⟪शृणुमः अ⟫
 40.  ⟪अतुदम्⟫
 41.  ⟪अमिम⟫
 42.  ⟪तिष्ठामि⟫
 43.  ⟪अवहाम⟫
-44.  ⟪अकुर्महि⟫ ⟪अ⟫
+44.  ⟪अकुर्महि अ⟫
 45.  ⟪जहीमः⟫
 46.  ⟪अस्पृशम्⟫
 47.  ⟪नेष्यामः⟫
@@ -588,9 +574,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (geht nach Typ Vb)
+53.  ⟪अभजाम⟫ (eina pagal Vb tipą)
 54.  ⟪जेष्यामः⟫
-55.  ⟪आसे⟫ (periphrast.)
+55.  ⟪आसे⟫ (perifrazuota)
 56.  ⟪विन्दामः⟫
 57.  ⟪धक्ष्यामः⟫
 58.  ⟪शक्नुमः⟫
@@ -606,44 +592,44 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Formų kartojimo pratimas
 
-1.  ⟪ददे⟫
-2.  ⟪ददते⟫
-3.  ⟪पापे⟫
-4.  ⟪आसे⟫
-5.  ⟪एते⟫
-6.  ⟪इते⟫
-7.  ⟪इतः⟫
-8.  ⟪यतः⟫
-9.  ⟪यते⟫
-10.  ⟪ईयते⟫
-11.  ⟪यत्⟫
-12.  ⟪यदा⟫
-13.  ⟪अस्तुवि⟫
-14.  ⟪अस्तुवति⟫
-15.  ⟪अस्तवीत्⟫
-16.  ⟪ब्रह्मिणः⟫
-17.  ⟪ब्रह्मणः⟫
-18.  ⟪ब्राह्मणः⟫
-19.  ⟪लभे⟫
-20.  ⟪लाभे⟫
-21.  ⟪लेभे⟫
-22.  ⟪लोभे⟫
-23.  ⟪काश्चन⟫
-24.  ⟪तन्त्रे⟫
-25.  ⟪तत्र⟫
-26.  ⟪मनौ⟫
-27.  ⟪मेने⟫
-28.  ⟪सत्स्यामि⟫
-29.  ⟪वेत्स्यामः⟫
-30.  ⟪कच्चित्⟫
-31.  ⟪तत्त्यागः⟫
-32.  ⟪तत्याज⟫
-33.  ⟪विद्ये⟫
-34.  ⟪विद्याम्⟫
-35.  ⟪एनेन⟫
-36.  ⟪ऐक्षे⟫
-37.  ⟪आह⟫
-38.  ⟪आहन्⟫
+1. ⟪ददे⟫
+2. ⟪ददते⟫
+3. ⟪पापे⟫
+4. ⟪आसे⟫
+5. ⟪एते⟫
+6. ⟪इते⟫
+7. ⟪इतः⟫
+8. ⟪यतः⟫
+9. ⟪यते⟫
+10. ⟪ईयते⟫
+11. ⟪यत्⟫
+12. ⟪यदा⟫
+13. ⟪अस्तुवि⟫
+14. ⟪अस्तुवति⟫
+15. ⟪अस्तवीत्⟫
+16. ⟪ब्रह्मिणः⟫
+17. ⟪ब्रह्मणः⟫
+18. ⟪ब्राह्मणः⟫
+19. ⟪लभे⟫
+20. ⟪लाभे⟫
+21. ⟪लेभे⟫
+22. ⟪लोभे⟫
+23. ⟪काश्चन⟫
+24. ⟪तन्त्रे⟫
+25. ⟪तत्र⟫
+26. ⟪मनौ⟫
+27. ⟪मेने⟫
+28. ⟪सत्स्यामि⟫
+29. ⟪वेत्स्यामः⟫
+30. ⟪कच्चित्⟫
+31. ⟪तत्त्यागः⟫
+32. ⟪तत्याज⟫
+33. ⟪विद्ये⟫
+34. ⟪विद्याम्⟫
+35. ⟪एनेन⟫
+36. ⟪ऐक्षे⟫
+37. ⟪आह⟫
+38. ⟪आहन्⟫
 

@@ -1,6 +1,6 @@
 ---
 title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+subtitle: "第二人称动词形式的构成（⟪मध्यमः⟫）无元音结尾词尾的非主题词干（续）"
 lesson_id: 45
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -115,7 +115,7 @@ A) 翻译成梵文（对于过去时态，请使用未完成体 ⟪लङ्⟫�
 :::
 3\. Hast du vom König eine Gabe empfangen?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+4\. 圣人，你为何不害怕危险？
 
 6\. 首陀罗妇女，你是否将重物搬入了那位富有的婆罗门的家中？
 

@@ -1,42 +1,43 @@
 ---
-title: "Exercise 36"
+title: "[Vježba 36]"
 uebung_id: 36
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 36
+# Exercise 36
 
-A) Bilden Sie zu folgenden Formen sowohl die reduplizierten als auch die periphrastischen Perfektformen:
+A) Form both the reduplicated and periphrastic perfect forms for the following stems:
 
 ::: grammar-box
-| Präsens | Redupliziert | Periphrastisch |
+| Present | Reduplicated | Periphrastic |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪बिभ्रते⟫ | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-| ⟪२⟫. ⟪बिभ्यति⟫ | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
-| ⟪३⟫. ⟪जुहोति⟫ | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
-| ⟪४⟫. ⟪वेत्ति⟫ | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
+| ⟪१⟫. ⟪बिभ्रते⟫ | ⟪बभ्रिरे⟫ | ⟪बिभरां चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
+| ⟪२⟫. ⟪बिभ्यति⟫ | ⟪बिभ्युः⟫ | ⟪बिभयां चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
+| ⟪३⟫. ⟪जुहोति⟫ | ⟪जुहाव⟫ | ⟪जुहवां चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
+| ⟪४⟫. ⟪वेत्ति⟫ | ⟪विवेद⟫ | ⟪विदां चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 :::
-B) Bilden Sie das periphrastische Perfekt zur Wurzel ⟪आस्⟫ (sitzen):
+B) Form the periphrastic perfect for the root ⟪आस्⟫ (to sit):
 
 ::: grammar-box
-| Präsens | Periphrastisches Perfekt |
+| Present | Periphrastic Perfect |
 | :--- | :--- |
-| ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
-| ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
+| ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
+| ⟪२⟫. ⟪आसते⟫ | ⟪आसां चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
+C) Form the corresponding perfect for the following stems:
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt |
+| Present / Imperfect | Perfect |
 | :--- | :--- |
 | ⟪१⟫. ⟪जीयते⟫ | ⟪जिग्ये⟫ |
-| ⟪२⟫. ⟪विदन्ति⟫ | ⟪विदुः⟫ / ⟪विविदुः⟫ / ⟪विदां⟫ ⟪चक्रुः⟫ |
+| ⟪२⟫. ⟪विदन्ति⟫ | ⟪विदुः⟫ / ⟪विविदुः⟫ / ⟪विदां चक्रुः⟫ |
 | ⟪३⟫. ⟪विन्दति⟫ | ⟪विवेद⟫ |
-| ⟪४⟫. ⟪त्याजयिष्यति⟫ | ⟪त्याजयां⟫ ⟪चकार⟫ / -⟪आस⟫ |
-| ⟪५⟫. ⟪ऐक्षन्त⟫ | ⟪ईक्षां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ |
-| ⟪६⟫. ⟪अगापयत्⟫ | ⟪गापयां⟫ ⟪चकार⟫ / -⟪आस⟫ |
+| ⟪४⟫. ⟪त्याजयिष्यति⟫ | ⟪त्याजयां चकार⟫ / -⟪आस⟫ |
+| ⟪५⟫. ⟪ऐक्षन्त⟫ | ⟪ईक्षां चक्रिरे⟫ / -⟪आसुः⟫ |
+| ⟪६⟫. ⟪अगापयत्⟫ | ⟪गापयां चकार⟫ / -⟪आस⟫ |
 | ⟪७⟫. ⟪अपद्यन्त⟫ | ⟪पेदिरे⟫ |
 | ⟪८⟫. ⟪चिनोति⟫ | ⟪चिकाय⟫ / ⟪चिचाय⟫ |
 | ⟪९⟫. ⟪हन्ति⟫ | ⟪जघान⟫ |
@@ -47,104 +48,104 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 :::
 ---
 
-## Übersetzungen
+## Translations
 
-⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-Als ihm ein Sohn geboren war, verliess der Erleuchtete Familie und Besitz und zog aus dem Heim in die Heimlosigkeit. Er erkannte mit seinem Verstand die Edlen Wahrheiten, wurde durch die Erkenntnis vom Leiden befreit und brachte die edlen Menschen, die Erlösung wünschten, zur Einsicht — so berichten die Mönche.
+⟪१⟫. **⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫**
+When a son was born to him, the Enlightened One left his family and possessions and went forth from home into homelessness. With his intellect he comprehended the Noble Truths, was liberated through the knowledge of suffering, and brought noble beings who desired liberation to realization — thus report the monks.
 
-⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-Die Brahmanen schichteten für das grosse Götteropfer ein Feuer auf. Während die Brahmanen Indra und die anderen Götter priesen, verzehrte das Opferfeuer die Speise. So bewirkten die Brahmanen durch das Opfer, dass die grossen Götter assen, und liessen sie Lobeshymnen hören.
+⟪२⟫. **⟪ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञ⟫en ⟪ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥⟫**
+The Brahmins piled up a fire for the great sacrifice to the gods. While the Brahmins praised Indra and the other gods, the sacrificial fire consumed the food. Thus, through the sacrifice, the Brahmins caused the great gods to eat and had them hear hymns of praise.
 
-⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
-Die Kṣatriyakrieger, die das Recht hüteten, besiegten die Feinde, welche die grosse Stadt erobern wollten, töteten sie aber nicht.
+⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा महानगरं जेतुकामाञ्छत्रून्विजिग्युर्न तु जघ्नुः ॥३॥⟫**
+The Kṣatriya warriors, who guarded the law, defeated the enemies who wanted to conquer the great city, but they did not kill them.
 
-⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-Ein Zweimalgeborener, der den Veda studiert hat, kennt Recht und Sitte der Zweimalgeborenen.
+⟪४⟫. **⟪अधीतवेदद्विजो द्विजधर्मं वेद ॥४॥⟫**
+A twice-born person who has studied the Veda knows the law and custom of the twice-born.
 
-⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
-Allein von der Wissenschaft kann man nicht leben. Wer das weiss, sollte nicht studieren.
+⟪५⟫. **⟪विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥⟫**
+One cannot live solely from science. Whoever knows this should not study.
 
 ::: media
 ![](/images/uebung061.webp)
-Abb.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
-(Bildquelle: [Details](/licenses#uebung061))
+Fig.: ⟪विद्ययैव जीवितुं न शक्यते⟫
+(Image source: [Details](/licenses#uebung061))
 :::
 ---
 
 ## Scholarly Fragments
 
-### ⟪१⟫. **⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫**
-**⟪येन⟫ ⟪प्रीणति⟫ ⟪पितरं⟫ ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫**  
-**⟪प्रीणति⟫ ⟪मातरं⟫ ⟪येन⟫ ⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪॥⟫**  
-**⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
-**⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
-**⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**  
-Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos.
+### ⟪१⟫. **⟪महाभारत १३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫**
+**⟪येन प्रीणति पितरं तेन प्रीतः प्रजापतिः ।⟫**  
+**⟪प्रीणति मातरं येन पृथिवी तेन पूजिता ॥⟫**  
+**⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫**  
+**⟪सर्वे तस्यादृता धर्मा यस्यैते त्रय आदृताः ।⟫**  
+**⟪अनादृतास्तु यस्यैते सर्वास्तस्याफलाः क्रियाः ॥⟫**  
+With that which one gladdens one's father, the Creator is gladdened; with that which one gladdens one's mother, the Earth is revered; with that which one gladdens the teacher, the Veda is revered. Whoever respects these three, respects all regulations; whoever does not respect them, their actions are all fruitless.
 
-### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Verhalten gegenüber Alten)
-**⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
-**⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm.
+### ⟪२⟫. **⟪मनुस्मृति ४⟫.⟪१५४⟫** (Behavior towards the Elderly)
+**⟪अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।⟫**  
+**⟪कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥⟫**  
+One should greet the elderly with proper form, offer them one's seat, and stand before them with folded hands. When an elderly person departs, one should follow him.
 
-### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Beherrschung der Sinne)
-**⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
-**⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫).
+### ⟪३⟫. **⟪मनुस्मृति २⟫.⟪९८⟫** (Control of the Senses)
+**⟪श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः ।⟫**  
+**⟪न हृष्यति ग्लायति वा स विज्ञेयो जितेन्द्रियः ॥⟫**  
+If a man neither rejoices nor grieves when he hears, touches, sees, tastes, or smells, then he is considered one who has conquered his senses (⟪जितेन्द्रियः⟫).
 
 ::: media
 ![](/images/uebung060.webp)
-Abb.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
-(Bildquelle: [Details](/licenses#uebung060))
+Fig.: ⟪भुक्त्वा घ्रात्वा च न हृष्यति ग्लायति वा⟫
+(Image source: [Details](/licenses#uebung060))
 :::
 ---
 
-## Wortformbestimmung
+## Word Form Analysis
 
-Bestimmen und übersetzen Sie folgende Wortformen:
+Determine and translate the following word forms:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| Word Form | Determination | Meaning |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪नयति⟫ | ⟪नी⟫ (1U) 3. sg. P. Ind. Präs. | er führt |
-| ⟪२⟫. ⟪समस्कुर्वन्⟫ | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | sie bereiteten vor |
-| ⟪३⟫. ⟪स्यात्⟫ | ⟪अस्⟫ (2P) 3. sg. P. Opt. Präs. | er wäre / sollte sein |
-| ⟪४⟫. ⟪यस्याम्⟫ | ⟪यद्⟫ Lok. sg. f. | in welcher |
-| ⟪५⟫. ⟪अधीयते⟫ | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Präs. | sie studieren |
-| ⟪६⟫. ⟪प्रोचुः⟫ | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | sie verkündeten |
-| ⟪७⟫. ⟪समादधाति⟫ | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Präs. | er konzentriert sich |
-| ⟪८⟫. ⟪हरेः⟫ | ⟪हरि⟫ (m.) Abl./Gen. sg. | des/vom Gelben (Hari) |
-| ⟪९⟫. ⟪हरे⟫ | ⟪हर⟫ (m.) Lok. sg. | in Śiva (Hara) |
-| ⟪१०⟫. ⟪हरेत्⟫ | ⟪हृ⟫ (1U) 3. sg. P. Opt. Präs. | er würde nehmen |
-| ⟪११⟫. ⟪जह्रे⟫ | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | er nahm für sich |
-| ⟪१२⟫. ⟪आक्रीणीत⟫ | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | er würde kaufen |
-| ⟪१३⟫. ⟪व्यक्रियत⟫ | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | es wurde verändert |
-| ⟪१४⟫. ⟪प्राजहुः⟫ | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | sie verliessen |
-| ⟪१५⟫. ⟪प्रजहुः⟫ | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | sie haben verlassen |
-| ⟪१६⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | er gab für sich |
-| ⟪१७⟫. ⟪दत्ते⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Präs. | er gibt für sich |
-| ⟪१८⟫. ⟪हिते⟫ | ⟪धा⟫ (3U) PPP Lok. sg. m./n. | im Gesetzten |
-| ⟪१९⟫. ⟪हीयते⟫ | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Präs. | er wird verlassen |
-| ⟪२०⟫. ⟪जज्ञे⟫ | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | er erkannte / wurde geboren |
-| ⟪२१⟫. ⟪यज्ञे⟫ | ⟪यज्ञ⟫ (m.) Lok. sg. | im Opfer |
-| ⟪२२⟫. ⟪तेन⟫ | ⟪तद्⟫ Instr. sg. m./n. | durch diesen |
-| ⟪२३⟫. ⟪तेने⟫ | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | er spannte auf |
-| ⟪२४⟫. ⟪ततः⟫ | ⟪तन्⟫ (8U) PPP Nom. sg. m. | aufgespannt / (Adv.) darauf |
-| ⟪२५⟫. ⟪सतः⟫ | ⟪अस्⟫ (2P) Part. Präs. P. Gen. sg. | des Seienden |
-| ⟪२६⟫. ⟪जगौ⟫ | ⟪गै⟫ (1P) 3. sg. P. Perf. | er sang |
-| ⟪२७⟫. ⟪पशौ⟫ | ⟪पशु⟫ (m.) Lok. sg. | beim Tier |
-| ⟪२८⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | er dachte |
-| ⟪२९⟫. ⟪माने⟫ | ⟪मान⟫ (m./n.) Lok. sg. | im Stolz / im Mass |
-| ⟪३०⟫. ⟪एतस्मात्⟫ | ⟪एतद्⟫ Abl. sg. m./n. | von diesem |
-| ⟪३१⟫. ⟪तया⟫ | ⟪तद्⟫ Instr. sg. f. | durch sie |
-| ⟪३२⟫. ⟪लेभिरे⟫ | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | sie erhielten |
-| ⟪३३⟫. ⟪ओषुः⟫ | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | sie wohnten bei |
-| ⟪३४⟫. ⟪व्यानक्⟫ | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | er offenbarte |
-| ⟪३५⟫. ⟪युङ्क्ते⟫ | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | er verbindet für sich |
-| ⟪३६⟫. ⟪अपिबत्⟫ | ⟪पा⟫ (1P) 3. sg. P. Impf. | er trank |
+| ⟪१⟫. ⟪नयति⟫ | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | he leads |
+| ⟪२⟫. ⟪समस्कुर्वन्⟫ | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | they prepared in advance |
+| ⟪३⟫. ⟪स्यात्⟫ | ⟪अस्⟫ (2P) 3. sg. P. Opt. Pres. | he would be / should be |
+| ⟪४⟫. ⟪यस्याम्⟫ | ⟪यद्⟫ Loc. sg. f. | in which |
+| ⟪५⟫. ⟪अधीयते⟫ | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Pres. | they study |
+| ⟪६⟫. ⟪प्रोचुः⟫ | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | they proclaimed |
+| ⟪७⟫. ⟪समादधाति⟫ | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Pres. | he concentrates himself |
+| ⟪८⟫. ⟪हरेः⟫ | ⟪हरि⟫ (m.) Abl./Gen. sg. | of/from the Yellow (Hari) |
+| ⟪९⟫. ⟪हरे⟫ | ⟪हर⟫ (m.) Loc. sg. | in Śiva (Hara) |
+| ⟪१०⟫. ⟪हरेत्⟫ | ⟪हृ⟫ (1U) 3. sg. P. Opt. Pres. | he would take |
+| ⟪११⟫. ⟪जह्रे⟫ | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | he took for himself |
+| ⟪१२⟫. ⟪आक्रीणीत⟫ | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | he would buy |
+| ⟪१३⟫. ⟪व्यक्रियत⟫ | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | it was changed |
+| ⟪१४⟫. ⟪प्राजहुः⟫ | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | they left |
+| ⟪१५⟫. ⟪प्रजहुः⟫ | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | they have left |
+| ⟪१६⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | he gave for himself |
+| ⟪१७⟫. ⟪दत्ते⟫ | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Pres. | he gives for himself |
+| ⟪१८⟫. ⟪हिते⟫ | ⟪धा⟫ (3U) PPP Loc. sg. m./n. | in the Established |
+| ⟪१९⟫. ⟪हीयते⟫ | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Pres. | he is left |
+| ⟪२०⟫. ⟪जज्ञे⟫ | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | he recognized / was born |
+| ⟪२१⟫. ⟪यज्ञे⟫ | ⟪यज्ञ⟫ (m.) Loc. sg. | in the sacrifice |
+| ⟪२२⟫. ⟪तेन⟫ | ⟪तद्⟫ Instr. sg. m./n. | by this |
+| ⟪२३⟫. ⟪तेने⟫ | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | he strung up |
+| ⟪२४⟫. ⟪ततः⟫ | ⟪तन्⟫ (8U) PPP Nom. sg. m. | strung up / (Adv.) upon it |
+| ⟪२५⟫. ⟪सतः⟫ | ⟪अस्⟫ (2P) Part. Pres. P. Gen. sg. | of the Being |
+| ⟪२६⟫. ⟪जगौ⟫ | ⟪गै⟫ (1P) 3. sg. P. Perf. | he sang |
+| ⟪२७⟫. ⟪पशौ⟫ | ⟪पशु⟫ (m.) Loc. sg. | at the animal |
+| ⟪२८⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | he thought |
+| ⟪२९⟫. ⟪माने⟫ | ⟪मान⟫ (m./n.) Loc. sg. | in pride / in measure |
+| ⟪३०⟫. ⟪एतस्मात्⟫ | ⟪एतद्⟫ Abl. sg. m./n. | from this |
+| ⟪३१⟫. ⟪तया⟫ | ⟪तद्⟫ Instr. sg. f. | by them |
+| ⟪३२⟫. ⟪लेभिरे⟫ | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | they received |
+| ⟪३३⟫. ⟪ओषुः⟫ | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | they dwelt with |
+| ⟪३४⟫. ⟪व्यानक्⟫ | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | he revealed |
+| ⟪३५⟫. ⟪युङ्क्ते⟫ | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | he connects for himself |
+| ⟪३६⟫. ⟪अपिबत्⟫ | ⟪पा⟫ (1P) 3. sg. P. Impf. | he drank |
 :::
 ::: media
 ![](/images/uebung059.webp)
-Abb.: ⟪जगौ⟫
-(Bildquelle: [Details](/licenses#uebung059))
+Fig.: ⟪जगौ⟫
+(Image source: [Details](/licenses#uebung059))
 :::
 

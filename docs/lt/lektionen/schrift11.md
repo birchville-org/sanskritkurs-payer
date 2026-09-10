@@ -1,29 +1,29 @@
-# Skriftøvelse 11
+# Rašto pratimas 11
 
-### Ziffern
+### Skaitmenys
 
-Folgende zwei Schreibweisen sind gebräuchlich:
+Yra dvi plačiai vartojamos rašybos formos:
 
 ![](/images/schrift026.jpg)
 
-Variante in der Schrifttype von Kielhorns Grammatik:
+Kielhorn gramatikos šrifto variantas:
 
 ![](/images/schrift027.jpg)
 
-### Užduotis
+### Pratimas
 
-A) Schreiben Sie in Devanāgarī:
+A) Parašykite Devanagari raštu:
 
 123 654 587 908 1007 9876 34 12 14 16 27 38 49 50 12 23 34 45 56 67 78 89 98 76 65 54 43 32 21
 
-B) Lesen und transliterieren Sie:
+B) Perskaitykite ir transkribuokite:
 
-⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
+⟪१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६⟫
 
-### Klassifikation der Laute des Sanskrit (aus: Kielhorn: Grammatik der Sanskritsprache)
+### Sanskrito garsų klasifikacija (iš: Kielhorn: Grammatik der Sanskritsprache)
 
 ![](/images/schrift028.webp)
 
-### Ende der Schriftübungen
+### Rašto pratimų pabaiga
 
-## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫
+## ⟪ॐ श्रीगणेशाय नमः ॐ⟫

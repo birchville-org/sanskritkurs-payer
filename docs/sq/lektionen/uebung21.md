@@ -1,53 +1,51 @@
 ---
-title: "Ushqim 21"
+title: "Ushtrimi 21"
 uebung_id: 21
-category: "Ushqim"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Ushtrim 21
+# Ushqim 21
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und übersetzen Sie sie:
+A) Zgjidhni kompozitat e mëposhtme në sanskritisht dhe përktheni ato:
 
-⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
-⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
-Der Lauf durch die Wiedergeburten ohne Anfang und feste Zeitdauer.
+⟪१⟫. ⟪अनादिकालिकसंसरः । अनादिः कालो यस्य सो ऽनादिकालिकः संसरः ।⟫
+Rruga përmes rilindjeve pa fillim dhe pa kohëzgjatje të caktuar.
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫ ⟪।⟫
-⟪न⟫ ⟪आदिश्च⟫ ⟪मध्यं⟫ ⟪च⟫ ⟪अन्तश्च⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Ohne Anfang, Mitte und Ende.
+⟪२⟫. ⟪अनादिमध्यान्तः । न आदिश्च मध्यं च अन्तश्च यस्य सः ।⟫
+Pa fillim, pa mes dhe pa fund.
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫ ⟪।⟫
-⟪महती⟫ ⟪मैत्री⟫ ⟪च⟫ ⟪करुणा⟫ ⟪च⟫ ⟪यस्मिंस्तच्चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Mit einem Herz voll grossen Wohlwollens und Mitgefühls.
+⟪३⟫. ⟪महामैत्रीकरुणाचित्तः । महती मैत्री च करुणा च यस्मिंस्तच्चित्तं यस्य सः ।⟫
+Me një zemër të mbushur me mirësi të madhe dhe mëshirë.
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫ ⟪।⟫
-⟪सर्वस्मिन्हतो⟫ ⟪ऽन्धकारो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫
-Der überall die Finsternis zerstört hat.
+⟪४⟫. ⟪सर्वहतान्धकारः । सर्वस्मिन्हतो ऽन्धकारो येन सः ।⟫
+Ai që ka shkatërruar errësirën kudo.
 
-B) Übersetzen Sie:
+B) Përktheni:
 
-⟪१⟫. ⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥⟫
-Das Feuer, das den Toten verbrennt, verbrennt auch die treue Gattin (satī).
+⟪१⟫. ⟪मृतं दहन्नग्निः सतीमपि दहति ॥⟫
+Zjarri që djeg të vdekurit, e djeg edhe bashkëshorten besnike (satī).
 
-⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-Der gute Meister preist den grossen Gott mit Lobliedern der grossen Dichter.
+⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥⟫
+Mjeshti i mirë lavdëron Perëndinë e madhe me himne të poetëve të mëdhenj.
 
-⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-Die Knaben, die grosse Früchte essen, trinken auch Wasser.
+⟪३⟫. ⟪महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥⟫
+Djaloshët që hanë fruta të mëdha, pijnë edhe ujë.
 
-⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
-Während der Verehrung opfert und preist der Mann die Gottheit.
+⟪४⟫. ⟪पुजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥⟫
+Gjatë adhurimit, burri flijon dhe lavdëron hyjninë.
 
-⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
+⟪५⟫. ⟪गुरूपनीतनरो द्विजः ॥⟫
+Një i lindur dy herë është një burrë që u iniciua në Veda nga mjeshti.
 
-⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
-Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
+⟪६⟫. ⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥⟫
+Ai që ka fituar kundër zemërimit, nuk e urren armikun, edhe nëse ky i fundit e vret. Por ai që është mbajtur nga zemërimi, urren.
 
 ::: media
 ![](/images/uebung033.webp)
-Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#uebung033))
+Fig.: ⟪हतान्धकारा दीपाः⟫
+(Burimi i imazhit: [Detaje](/licenses#uebung033))
 :::
+

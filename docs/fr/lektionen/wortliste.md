@@ -633,7 +633,7 @@ Lég. : ⟪गौतमो बुद्धः⟫
 **dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : brûler (quelque chose)
 **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 **mṛga** m. ⟪मृग⟫ : animal sauvage
-**mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de gibier)
+**mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent les pistes du gibier)
 
 ::: media
 ![](/images/lekt1202.webp)

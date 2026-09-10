@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bài tập 11"
 uebung_id: 11
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,231 +7,155 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Übung 11
+# Bài tập 11
 
-A) Übersetzen Sie untenstehende Sätze
+A) Dịch các câu dưới đây
 
-⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
-Der vedische Weise spricht die Wahrheit.
+⟪१⟫. ⟪ऋषिः सत्यं वदति ।⟫
+Nhà hiền triết Veda nói sự thật.
 
-⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
-Ein Brahmane wünscht sich einen Sohn.
+⟪२⟫. ⟪ब्राह्मणः पुत्रमिच्छति ।⟫
+Một người Bà-la-môn mong muốn có một người con trai.
 
-⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
-Ein Heiliger kommt in den Himmel.
+⟪३⟫. ⟪साधुः स्वर्गं गच्छति ।⟫
+Một vị thánh đi lên thiên đường.
 
-⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+⟪४⟫. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।⟫
+Kinh Smṛti nói rằng một người Bà-la-môn không nói lời dối trá.
 
-⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+⟪५⟫. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।⟫
+Một người Kṣatriya hỏi vị Bà-la-môn về Dharma.
 
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-So bringt der Brahmane dem Gott ein Opfer dar.
+⟪६⟫. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति ।⟫
+Như vậy, người Bà-la-môn dâng lễ vật cho thần.
 
-⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
-Die Vaiśyafrau meint, dass ihr Sohn Böses tut.
+⟪७⟫. ⟪पुत्रः पापं करोतीति वैश्या मन्यते ।⟫
+Người vợ Vaiśya nghĩ rằng con trai bà ta đang làm điều ác.
 
-⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-Kṣatriya kämpft mit Kṣatriya.
+⟪८⟫. ⟪क्षत्रियः क्षत्रियेण सह युध्यते ।⟫
+Người Kṣatriya chiến đấu với người Kṣatriya.
 
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Da Unwahrheit Unrecht ist, begeht der Sohn keine Übeltat.
+⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
+Vì lời dối trá là bất chính, người con không phạm tội ác.
 
-⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Dieser Kṣatriya behütet den Dharma.
+⟪१०⟫. ⟪अयं क्षत्रियो धर्मं रक्षति ।⟫
+Người Kṣatriya này bảo vệ Dharma.
 
-⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
-Wer verehrt das Feuer (Gott Agni) mit einem Opfer?
+⟪११⟫. ⟪को ऽग्निं यजते ।⟫
+Ai thờ phụng thần Lửa (thần Agni) bằng một lễ vật?
 
-⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
-Dieser Jünger befragt den Buddha über seine Lehre.
+⟪१२⟫. ⟪स श्रावको बुद्धं धर्मं पृच्छति ॥⟫
+Người đệ tử này hỏi Đức Phật về giáo lý của ngài.
 
-B) Setzen Sie die Sätze von A) in Passivkonstruktion
+B) Chuyển các câu ở phần A sang thể bị động
 
-⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिणा सत्यमुद्यते । २⟫. ⟪ब्राह्मणेन पुत्र इष्यते । ३⟫. ⟪साधुना स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत इति पुत्रेण पुण्यं क्रियते । ४⟫. ⟪ब्राह्मणेनानृतं नोद्यत इति स्मृतिः । ५⟫. ⟪क्षत्रियेण ब्राह्मणो धर्मं पृच्छ्यते । ६⟫. ⟪एवं ब्राह्मणेन यज्ञेन देव इज्यते ।⟫
 
-⟪२⟫. ⟪ब्राह्मणेन⟫ ⟪पुत्र⟫ ⟪इष्यते⟫ ⟪।⟫
+⟪७⟫. ⟪पुत्रेण पापं क्रियत इति वश्यया मन्यते । ८⟫. ⟪क्षत्रियेण क्षत्रियेण सह युध्यते । ९⟫. ⟪अधर्मो ऽनृतमिति पुत्रेण पापं⟫ n ⟪क्रियते । १०⟫. ⟪अनेन क्षत्रियेण धर्मो रक्ष्यते । ११⟫. ⟪केनाग्निरिज्यते । १२⟫. ⟪तेन श्रावकेण बुद्धो धर्मं पृच्छ्यते ॥⟫
 
-⟪३⟫. ⟪साधुना⟫ ⟪स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत⟫ ⟪इति⟫ ⟪पुत्रेण⟫ ⟪पुण्यं⟫ ⟪क्रियते⟫ ⟪।⟫
+C) Hãy đặt chủ ngữ, tân ngữ và vị ngữ ở dạng số nhiều trong các câu A), khi nào thấy phù hợp
 
-⟪४⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यत⟫ ⟪इति⟫ ⟪स्मृतिः⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषयः सत्यं वदन्ति । २⟫. ⟪ब्राह्मणाः पुत्रानिच्छन्ति । ३⟫. ⟪साधवः स्वर्गान्गच्छन्तीति पुत्राः पुण्यं कुर्वन्ति । ४⟫. ⟪ब्राह्मणा अनृतं न वदन्तीति स्मृतिः । ५⟫. ⟪क्षत्रिया ब्राह्मणान्धर्मं पृच्छन्ति । ६⟫. ⟪एवं ब्राह्मणा यज्ञेन देवाण्यजन्ति । ७⟫. ⟪पुत्राह् पापं कुर्वन्तीति वैश्या मन्यन्ते । ८⟫. ⟪क्षत्रियाः क्षत्रियैः सह युध्यन्ते । ९⟫. ⟪अधर्मो ऽनृतमिति पुत्राः पापं न कुर्वन्ति । १०⟫. ⟪इमे क्षत्रिया धर्मं रक्षन्ति । ११⟫. ⟪के⟫ (⟪ऽग्निं⟫) ⟪ऽग्नीन्यजन्ते । १२⟫. ⟪ते श्रावका बुद्धं धर्मं पृच्छन्ति ॥⟫
 
-⟪५⟫. ⟪क्षत्रियेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
+D) Hãy tạo cấu trúc bị động cho các câu đã được hình thành ở mục C
 
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणेन⟫ ⟪यज्ञेन⟫ ⟪देव⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिभिः सत्यमुद्यते । २⟫. ⟪ब्राह्मणैः पुत्रा इष्यन्ते । ३⟫. ⟪साधुभिः स्वर्गा गम्यन्त इति पुत्रैः पुण्यं क्रियते । ४⟫. ⟪ब्राह्मणैरनृतं नोद्यत इति स्मृतिः । ५⟫. ⟪क्षत्रियैर्ब्राह्मणा धर्मं पृच्छ्य्न्ते । ६⟫. ⟪एवं ब्राह्मणैर्यज्ञेन देवा इज्यन्ते । ७⟫. ⟪पुत्रैः पापं क्रियत इति क्षत्रियाभिर्मन्यते । ८⟫. ⟪क्षत्रियैः क्षत्रियैः सह युध्यते ।⟫
 
-⟪७⟫. ⟪पुत्रेण⟫ ⟪पापं⟫ ⟪क्रियत⟫ ⟪इति⟫ ⟪वश्यया⟫ ⟪मन्यते⟫ ⟪।⟫
-
-⟪८⟫. ⟪क्षत्रियेण⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रेण⟫ ⟪पापं⟫ n ⟪क्रियते⟫ ⟪।⟫
-
-⟪१०⟫. ⟪अनेन⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्ष्यते⟫ ⟪।⟫
-
-⟪११⟫. ⟪केनाग्निरिज्यते⟫ ⟪।⟫
-
-⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
-
-C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural
-
-⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪२⟫. ⟪ब्राह्मणाः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधवः⟫ ⟪स्वर्गान्गच्छन्तीति⟫ ⟪पुत्राः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪वदन्तीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-
-⟪५⟫. ⟪क्षत्रिया⟫ ⟪ब्राह्मणान्धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञेन⟫ ⟪देवाण्यजन्ति⟫ ⟪।⟫
-
-⟪७⟫. ⟪पुत्राह्⟫ ⟪पापं⟫ ⟪कुर्वन्तीति⟫ ⟪वैश्या⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-
-⟪८⟫. ⟪क्षत्रियाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫ ⟪।⟫
-
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-
-⟪१०⟫. ⟪इमे⟫ ⟪क्षत्रिया⟫ ⟪धर्मं⟫ ⟪रक्षन्ति⟫ ⟪।⟫
-
-⟪११⟫. ⟪के⟫ (⟪ऽग्निं⟫) ⟪ऽग्नीन्यजन्ते⟫ ⟪।⟫
-
-⟪१२⟫. ⟪ते⟫ ⟪श्रावका⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪॥⟫
-
-D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion
-
-⟪१⟫. ⟪ऋषिभिः⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-
-⟪२⟫. ⟪ब्राह्मणैः⟫ ⟪पुत्रा⟫ ⟪इष्यन्ते⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधुभिः⟫ ⟪स्वर्गा⟫ ⟪गम्यन्त⟫ ⟪इति⟫ ⟪पुत्रैः⟫ ⟪पुण्यं⟫ ⟪क्रियते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणैरनृतं⟫ ⟪नोद्यत⟫ ⟪इति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-
-⟪५⟫. ⟪क्षत्रियैर्ब्राह्मणा⟫ ⟪धर्मं⟫ ⟪पृच्छ्य्न्ते⟫ ⟪।⟫
-
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणैर्यज्ञेन⟫ ⟪देवा⟫ ⟪इज्यन्ते⟫ ⟪।⟫
-
-⟪७⟫. ⟪पुत्रैः⟫ ⟪पापं⟫ ⟪क्रियत⟫ ⟪इति⟫ ⟪क्षत्रियाभिर्मन्यते⟫ ⟪।⟫
-
-⟪८⟫. ⟪क्षत्रियैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रैः⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
-
-⟪१०⟫. ⟪एभिः⟫ ⟪क्षत्रियैर्धर्मो⟫ ⟪रक्ष्यते⟫ ⟪।⟫
-
-⟪११⟫. ⟪कैरग्निरिज्यते⟫ ⟪।⟫ ⟪कैरग्नय⟫ ⟪इज्यन्ते⟫ ⟪।⟫
-
-⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
+⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रैः पापं न क्रियते । १०⟫. ⟪एभिः क्षत्रियैर्धर्मो रक्ष्यते । ११⟫. ⟪कैरग्निरिज्यते । कैरग्नय इज्यन्ते । १२⟫. ⟪तैः श्रावकैर्बुद्धो धर्मं प्र्च्छ्यते ॥⟫
 
 ::: media
 ![](/images/uebung022.webp)
-Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung022))
+Abb.: ⟪केनाग्निरिज्यते ।⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung022))
 :::
 ---
 
-## Zusätzliche Übungen
+## Bài tập bổ sung
 
-A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:
+A) Dịch sang tiếng Phạn với cấu trúc bị động:
 
-1\. Vaiśyafrauen fragen Brahmanen nach dem Dharma.
+1. Phụ nữ Vaiśya hỏi các Brahman về Dharma.
 
-⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
+⟪वैश्याभिर्ब्राह्मणो धर्मं पृच्छ्यते ।⟫
 
-2\. Der Lehrer spricht ein Mantra.
+2. Giáo viên tụng một mantra.
 
-⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
+⟪गुरुणा मन्त्र उद्यते ।⟫
 
-3\. Heilige Frauen gelangen in einen Himmel.
+3. Các nữ tu sĩ đạt đến một thiên giới.
 
-⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪साध्वीभिः स्वर्ग आप्यते । स्वर्गो ऽश्यते । स्वर्गो गम्यते । स्वर्गं गम्यते ।⟫
 
-4\. Ein vedischer Weiser tut nichts Böses.
+4. Một hiền giả Veda không làm điều ác.
 
-⟪ऋषिणा⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
+⟪ऋषिणा पापं न क्रियते ।⟫
 
-5\. Brahmanen verehren als Opferpriester die Göttin mit Opfern.
+5. Các Brahman, với tư cách là tế sư, thờ phụng nữ thần bằng các lễ vật.
 
-⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
+⟪ब्राह्मनैर्देवीज्यते ।⟫
 
-6\. Die Śūdrafrau geht ins Dorf.
+6. Người phụ nữ Śūdra đi đến làng.
 
-⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪शूद्रया ग्रामो गम्यते ।⟫
 
-7\. Wer sieht die Wahrheit?
+7. Ai thấy sự thật?
 
-⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
+⟪केन सत्यं दृश्यते ॥⟫
 
 B)
 
-1\. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf.
+1. Hãy nêu nhiệm vụ của tất cả những người Sinh lần hai bằng một từ compound Dvandva. Phân tích cấu trúc compound đó trong tiếng Phạn.
 
-⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं⟫ ⟪दानं⟫ ⟪च⟫
+⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं दानं च⟫
 
-2\. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf.
+2. Hãy nêu nhiệm vụ của người Vaiśya bằng một từ compound Dvandva. Phân tích cấu trúc compound đó trong tiếng Phạn.
 
-⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
+⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं च ।⟫
 
-C) Übersetzen Sie:
+C) Dịch:
 
-⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
-Das Ohr hört. Mit dem Ohr hört man.
+⟪१⟫. ⟪श्रवणेन श्रूयते ।⟫
+Tai nghe. Bằng tai, người ta nghe.
 
-⟪२⟫. ⟪कर्षकैः⟫ ⟪कृष्यते⟫ ⟪।⟫
-Ackerbauern pflügen.
+⟪२⟫. ⟪कर्षकैः कृष्यते ।⟫
+Nông dân cày ruộng.
 
-⟪३⟫. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ ⟪।⟫
-Ein Buddhaanhänger opfert keinem HERRN.
+⟪३⟫. ⟪श्रावकेणेश्वरो नेज्यते ।⟫
+Một Phật tử không cúng dường cho một CHÚA TỂ.
 
-⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
-Das Amulett beschützt den Meister.
+⟪४⟫. ⟪रक्षिक्या गुरू रक्ष्यते ।⟫
+Bùa hộ mệnh bảo vệ vị thầy.
 
-⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-Ein Brahmane spricht keine Unwahrheit.
+⟪५⟫. ⟪ब्राह्मणेनानृतं नोद्यते ।⟫
+Một người Bà-la-môn không nói dối.
 
-⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
-Itarā ist eine Śūdrafrau.
+⟪६⟫. ⟪शूद्रेतरा ।⟫
+Itarā là một phụ nữ Śūdra.
 
-⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Wortbedeutungslehre, Metrik und Kalenderlehre.
+⟪७⟫. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫
+Các phụ trợ khoa học cho Veda là: Luật phát âm, Nghi lễ học, Ngữ pháp học, Từ vựng học, Thơ ca học và Lịch pháp học.
 
-⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-Wissenschaften sind: Philosophie, Vedistik, Ökonomie und Politologie.
+⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥⟫
+Các khoa học là: Triết học, Vedic studies, Kinh tế học và Chính trị học.
 
-D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:
+D) Dịch sang tiếng Việt và chuyển các thành phần chủ ngữ, tân ngữ và động từ trong tiếng Sanskrit sang số nhiều:
 
-⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
-Er bekommt eine Frucht.
-⟪फलान्यश्नुवन्ते⟫ ⟪।⟫
+⟪१⟫. ⟪फलमश्नुते ।⟫
+Ông ấy nhận được một quả trái cây.
+⟪फलान्यश्नुवन्ते । २⟫. ⟪गुरुणा सत्यमुद्यते ।⟫
+Vị thầy nói sự thật.
+⟪गुरुभिः सत्यान्युद्यन्ते । ३⟫. ⟪वैश्यः पशुं लभते ।⟫
+Người Vaiśya nhận được gia súc.
+⟪वैश्याः पशुंल्लभन्ते । ४⟫. ⟪पुत्रः पुण्यं करोति ॥⟫
+Con trai tôi làm điều thiện.
+⟪पुत्राः पुण्यानि कुर्वन्ति ॥⟫
 
-⟪२⟫. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-Der Meister spricht die Wahrheit.
-⟪गुरुभिः⟫ ⟪सत्यान्युद्यन्ते⟫ ⟪।⟫
+E) Chuyển các câu C)1-5 sang cấu trúc chủ động.
 
-⟪३⟫. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫
-Der Vaiśya erhält Vieh.
-⟪वैश्याः⟫ ⟪पशुंल्लभन्ते⟫ ⟪।⟫
-
-⟪४⟫. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪॥⟫
-Mein Sohn tut Verdienstvolles.
-⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
-
-E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
-
-⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
-
-⟪२⟫. ⟪कर्ष⟫ka⟪ः⟫ ⟪कृषन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪श्रावक⟫ ⟪ईश्वरं⟫ ⟪न⟫ ⟪यजते⟫ ⟪।⟫
-
-⟪४⟫. ⟪रक्षिका⟫ ⟪गुरुं⟫ ⟪रक्षति⟫ ⟪।⟫
-
-⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
+⟪१⟫. ⟪श्रवणं शृणोति । २⟫. ⟪कर्ष⟫ka⟪ः कृषन्ति । ३⟫. ⟪श्रावक ईश्वरं न यजते । ४⟫. ⟪रक्षिका गुरुं रक्षति । ५⟫. ⟪ब्राह्मनो ऽनृतं न वदति ॥⟫
 
 ::: media
 ![](/images/uebung021.webp)
-Abb.: ⟪फलान्यश्नुते⟫
-(Bildquelle: [Details](/licenses#uebung021))
+Minh họa: ⟪फलान्यश्नुते⟫
+(Nguồn ảnh: [Chi tiết](/licenses#uebung021))
 :::

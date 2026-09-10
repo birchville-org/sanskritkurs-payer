@@ -1,124 +1,125 @@
 ---
-title: "Exercise 52"
+title: "[Vježba 52]"
 uebung_id: 52
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Vežba 52
+# Exercise 52
 
-## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
+## ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-**⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
-**⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
+**⟪यद्यत्परवशं कर्म तत्तद्यत्नेन वर्जयेत् ।⟫**  
+**⟪यद्यदात्मवशं तु स्यात्तत्तत्सेवेत यत्नतः ॥ १५९ ॥⟫**
 
-> Jede Tat, die auf fremdem Willen beruht, vermeide man eifrig; was aber aus eigenem Willen geschieht, das pflege man eifrig.
+> One should diligently avoid every act that is based on another's will; but one should diligently cultivate what arises from one's own will.
 
-**⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
-**⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
+**⟪सर्वं परवशं दुःखं सर्वमात्मवशं सुखम् ।⟫**  
+**⟪एतद्विद्यात्समासेन लक्षणं सुखदुःखयोः ॥ १६० ॥⟫**
 
-> Alles, was auf fremdem Willen beruht, ist leidvoll; alles, was auf eigenem Willen beruht, ist Glück. Das soll man zusammengefasst als das Merkmal von Glück und Leid kennen.
+> Everything that is based on another's will is painful; everything that is based on one's own will is bliss. This should be understood in summary as the distinguishing mark of happiness and suffering.
 
-**⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
-**⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
+**⟪यत्कर्म कुर्वतो ऽस्य स्यात्परितोषो ऽन्तरात्मनः ।⟫**  
+**⟪तत्प्रयत्नेन कुर्वीत विपरीतं तु वर्जयेत् ॥ १६१ ॥⟫**
 
-> Was, wenn man es tut, zur inneren Befriedigung gereicht, das soll man eifrig tun; Gegenteiliges aber unterlasse man.
+> That which, when done, leads to inner satisfaction should be diligently practiced; the opposite one should refrain from.
 
 ::: media
 ![](/images/uebung087.webp)
-Abb.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Bildquelle: [Details](/licenses#uebung087))
+Fig.: ⟪सर्वं परवशं दुःखम्⟫
+(Image source: [Details](/licenses#uebung087))
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: Über die Quellen des ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति २⟫, ⟪६⟫: On the Sources of ⟪धर्म⟫
 
-**⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
-**⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+**⟪वेदो ऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।⟫**  
+**⟪आचारश्चैव साधूनामात्मनस्तुष्टिरेव च ॥ ६ ॥⟫**
 
-> Die Wurzel des Dharma ist:
-> * der gesamte Veda
-> * die Überlieferung und die Sitte der Vedakundigen
-> * das Verhalten der Guten
-> * die Zufriedenheit der Seele
-
----
-
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten
-
-**⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-
-**⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-
-**⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-
-**⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मानमितरौ⟫ ⟪च⟫ ⟪पीदयति⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-
-**⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-
-**⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-
-> So halte er seine Sinne unter Kontrolle, meide fremde Frauen, fremdes Gut und Gewalt, und vermeide Schlaf, Lüsternheit, Lüge, Geckenhaftigkeit, Unnützes und unrechte oder unnütze Geschäfte. Er gebe sich der Lust hin, ohne dass dadurch Recht und zweckrationales Verhalten gestört werden; er sei nicht freudlos. Oder er pflege gleichmässig alle drei Lebensziele, die miteinander verbunden sind. Wenn man sich nämlich einem von Recht und Sitte, zweckrationalem Verhalten und Lust übermässig hingibt, dann bedrückt das die Seele und die beiden anderen Ziele. Kauṭilya sagt, dass zweckrationales Verhalten (**Artha**) das Wichtigste ist. Recht und Sitte sowie Lust wurzeln nämlich in zweckrationalem Handeln.
+> The root of Dharma is:
+> * the entire Veda
+> * tradition and custom of those learned in the Vedas
+> * conduct of the good
+> * contentment of the soul
 
 ---
 
-## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the Life of the Prince
 
-Buddhas erlösende Erkenntnis:
+**⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ॥ २ ॥⟫**
 
-**⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
-**⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
+**⟪धर्मार्थाविरोधेन कामं सेवेत⟫, ⟪न निःसुखः स्यात् ॥ ३ ॥⟫**
 
-> Als er mit Festigkeit und Ruhe das Heer Māras besiegt hatte, wollte der in Meditation Erfahrene die höchste Wahrheit und Wirklichkeit völlig erkennen und meditierte.
+**⟪समं वा त्रिवर्गमन्योन्यानुबद्धम् ॥ ४ ॥⟫**
 
-**⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
-**⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
+**⟪एको ह्यत्यासेवितो धर्मार्थकामानामात्मानमितरौ च पीदयति ॥ ५ ॥⟫**
 
-> Er brachte es zur höchsten Meisterschaft in allen Meditationsmethoden und erinnerte sich in der ersten Nachtwache an die ununterbrochene Abfolge seiner Wiedergeburten.
+**⟪अर्थ एव प्रधान इति कौटिल्यः ॥ ६ ॥⟫**
 
-**⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
-**⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
+**⟪अर्थमूलौ हि धर्मकामाविति ॥ ७ ॥⟫**
 
-> "Dort war ich der So-und-so, von dort geschieden bin ich hierher gekommen" – so erinnerte er sich an Tausende von Geburten, so als ob er sie gerade erfahren würde.
+> Thus he should keep his senses under control, avoid foreign women, foreign property and violence, and shun sleep, lust, lies, foolishness, useless activities and improper or futile business. He should indulge in pleasure without disturbing righteousness and purposeful conduct; he should not be joyless. Or he should uniformly cultivate all three goals of life, which are interconnected. For if one excessively devotes oneself to any one of righteousness and custom, purposeful conduct and pleasure, then that oppresses the soul and the other two goals. Kauṭilya says that purposeful conduct (**Artha**) is the most important. Righteousness and custom as well as pleasure are rooted in purposeful action.
 
-**⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
-**⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
+---
 
-> Als er sich so an Geburt und Tod in diesen verschiedenen Existenzen erinnert hatte, entfaltete er gegenüber den Wesen Mitgefühl, er, dessen Wesen Mitgefühl ist.
+## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Cent. CE): ⟪बुद्धचरित ४⟫
 
-**⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
-**⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
+Buddha's liberating knowledge:
 
-> Wahrlich, diese Welt ist ohne Rettung und irrt herum wie ein Rad: sie entlässt ihre Geschöpfe hier und dann wieder dort.
+**⟪ततो मारबलं जित्वा धैर्येण च शमेन च ।⟫**  
+**⟪परमार्थं विजिज्ञासुः स दद्ध्यौ ध्यानकोविदः ॥ १ ॥⟫**
 
-**⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
-**⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
+> When he had defeated Māra's army with firmness and calm, the experienced in meditation wanted to completely recognize the highest truth and reality and meditated.
 
-> Als er sich entschlossenen Herzens so erinnerte, kam er zur festen Erkenntnis: Der Lauf der Wiedergeburten ist ohne Mark und Kern wie das Innere einer Bananenpflanze.
+**⟪सर्वेषु ध्यानविधिषु प्राप्य चैश्वर्यमुत्तमम् ।⟫**  
+**⟪सस्मार प्रथमे यामे पूर्वजन्मपरंपराम् ॥ २ ॥⟫**
 
-**⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
-**⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+> He attained the highest mastery in all meditation methods and, during the first watch of the night, he recollected the uninterrupted sequence of his rebirths.
 
-> Als die zweite Nachtwache gekommen war, hat er, dessen Macht wie die keines Zweiten ist, das höchste himmlische Auge bekommen, er, der Beste aller, die ein Auge haben.
+**⟪अमुत्राहमयं नाम च्युतस्तस्मादिहागतः ।⟫**  
+**⟪इति जन्मसहस्राणि सस्मारानुभवन्निव ॥ ३ ॥⟫**
 
-**⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
-**⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
+> "There I was so-and-so; having departed from there, I came here" – thus he recollected thousands of births as if he had just experienced them.
 
-> Dann sah er mit diesem völlig reinen himmlischen Auge die ganze Welt wie in einem makellosen Spiegel.
+**⟪स्मृत्वा जन्म च मृत्युं च तासु तासूपपत्तिषु ।⟫**  
+**⟪ततः सत्त्वेषु कारुण्यं चकार करुणात्मकः ॥ ४ ॥⟫**
 
-**⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
-**⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
+> When he had thus recollected birth and death in these various existences, he unfolded compassion towards beings; he whose nature is compassion.
 
-> Als er das Vergehen und Entstehen der Wesen sah, die gutes oder schlechtes Karma hatten, da wuchs das Mitgefühl in seinem Herzen.
+**⟪कृत्वेह स्वजनोत्सर्गं पुनरन्यत्र च कृत्वा ।⟫**  
+**⟪अत्राणः खलु लोको ऽयं परिभ्रमति चक्रवत् ॥ ५ ॥⟫**
 
-**⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
-**⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
+> Truly, this world is without refuge and wanders about like a wheel: it releases its creatures here and then again there.
 
-> "Diese Lebewesen, die böse Taten begangen haben, gehen in eine schlechte Existenz; diese anderen, die gutes Karma haben, entstehen wieder in Indras Himmel."
+**⟪इत्येवं स्मरतस्तस्य बभूव नियतात्मनः ।⟫**  
+**⟪कदलीगर्भनिःसारः संसार इति निश्चयः ॥ ६ ॥⟫**
+
+> When he recollected thus with resolute heart, he arrived at firm insight: The course of rebirths is without mark and core like the interior of a banana plant.
+
+**⟪द्वितीये त्वागते यामे सो ऽद्वितीयपराक्रमः ।⟫**  
+**⟪दिव्यं लेभे परं चक्षुः सर्वचक्षुष्मतां वरः ॥ ७ ॥⟫**
+
+> When the second watch of the night had come, he whose power is like that of no other received the highest divine eye; he who is the best among all beings endowed with an eye.
+
+**⟪ततस्तेन स दिव्येन परिशुद्धेन चक्षुषा ।⟫**  
+**⟪ददर्श निखिलं लोकम् आदर्श इव निर्मले ॥ ८ ॥⟫**
+
+> Then he saw the entire world with this completely pure heavenly eye as in an flawless mirror.
+
+**⟪सत्त्वानां पश्यतस्तस्य निकृष्टोत्कृष्टकर्मणाम् ।⟫**  
+**⟪प्रच्युतिं चोपपत्तिं च ववृधे करुणात्मता ॥ ९ ॥⟫**
+
+> When he saw the passing away and arising of beings who had good or bad karma, compassion grew in his heart.
+
+**⟪इमे दुष्कृतकर्माणः प्राणिनो यान्ति दुर्गतिम् ।⟫**  
+**⟪इमे ऽन्ये शुभकर्माणः प्रतिष्ठन्ते त्रिविष्टपे ॥ १० ॥⟫**
+
+> "These beings who have committed evil deeds go into a bad existence; these others, who have good karma, are reborn in Indra's heaven."
 
 ::: media
 ![](/images/uebung088.webp)
-Abb.: ⟪कदलीगर्भनिःसारः⟫
-(Bildquelle: [Details](/licenses#uebung088))
+Fig.: ⟪कदलीगर्भनिःसारः⟫
+(Image source: [Details](/licenses#uebung088))
 :::

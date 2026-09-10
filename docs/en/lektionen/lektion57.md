@@ -141,10 +141,10 @@ Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८�
 **In addition, for ⟪गम्⟫ there are the regular weak-grade forms:**
 **⟪अगसि⟫ (« \*a-gm-si) ⟪। अगथास् । अगत⟫ (in the P, ⟪गम्⟫ has the thematic aorist)**
 
->> 2. ⟪पद्⟫ 4Ā is regular (e.g. ⟪अपत्सि⟫), but in the 3.sg.Ā it takes the form of the passive root aorist:
+2. ⟪पद्⟫ 4Ā is regular (e.g. ⟪अपत्सि⟫), but in the 3.sg.Ā it takes the form of the passive root aorist:
 ⟪अपादि⟫ "he went"
 
->> 3. ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
+3. ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
 :::
 ## 57.2. Exercise

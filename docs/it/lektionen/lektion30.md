@@ -1,10 +1,11 @@
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Lezione 30"
+subtitle: 'La nona classe del presente (⟪क्र्यादि⟫ = \"⟪क्री⟫ ecc.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lezione 30
@@ -516,4 +517,3 @@ Determinare e tradurre le seguenti forme verbali:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

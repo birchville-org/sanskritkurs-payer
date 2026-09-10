@@ -1,0 +1,219 @@
+---
+title: "ትምህርት 3"
+subtitle: "የጾታ ስም ለአንድ ቁጥር"
+lesson_id: 3
+last_reconstructed: 2026-05-07
+category: "Grammatik"
+status: stable
+
+---
+
+# ትምህርት 3
+
+## 3.1. የፈረንሳይ ቃል ክፍል 1 (Nominativ Singular)
+
+### 3.1.1. Nominativ Singular በ -s የሚጠናቀቅ
+
+እንዲሁም የሚከተሉት ቃላት፣ በቁም አዲስ የሚጠናቀቁ ናቸው፣ Nominativ Singular በ **-s** ይሰራል:
+
+::: grammar-box
+**Feminina በ -i**: ምሳሌ፣ **śruti** f. "ማድመቅ" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+**Feminina በ -u**: ምሳሌ፣ **dhenu** f. "የወተት አንበሳ" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+:::
+### 3.1.2. Nominativ Singular ሳይጨምር
+
+Nominativ Singular በሳይጨምር ይሰራል:
+
+::: grammar-box
+**Feminina በ -ā**: ምሳሌ፣ **devatā** f. "እጆ" -- Nom. sg.: **devatā** = ⟪देवता⟫
+**Feminina በ -ī**: ምሳሌ፣ **devī** f. "እጆ" -- Nom. sg.: **devī** = ⟪देवी⟫
+:::
+::: important
+**ማስጠንቀቂያ!** በተጨማሪም አንድ-አስርት የሆኑ ፈረንሳይ ቃላት በ -ī የሚጠናቀቁ ናቸው፣ Nominativ Singular በ -s ይሰራል: ምሳሌ፣ dhī f. "አስተላላፊ" -- Nom. sg.: dhīs = ⟪धीस्⟫. እንዲሁም lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "መንገድ" እና tantrī (⟪तन्त्री⟫) f. "መስመር" በተለየ መልኩ Nominativ Singular በ -s ይሰራል: lakṣmīs = ⟪लक्ष्मीस्⟫.
+:::
+
+## 3.2. የፈረንሳይ ቃላት ከ ጠባቂ ቃላት
+
+::: grammar-box
+**ጠባቂ ቃላት በ -a:**
+**ፈረንሳይ ቃል በ -ā**: ምሳሌ፣ **kṣatriya** m. » **kṣatriyā** f. "የ kṣatriya ሴት" = ⟪क्षत्रिया⟫
+**ፈረንሳይ ቃል በ -ī**: ምሳሌ፣ **brāhmaṇa** m. » **brāhmaṇī** f. "የ brāhmaṇa ሴት" = ⟪ब्राह्मणी⟫
+
+**ጠባቂ ቃላት በ -u:**
+**ፈረንሳይ ቃል በ -ī**: ምሳሌ፣ **sādhu** m. » **sādhvī** f. (ጥሩ፣ ቅዱስ) = ⟪साध्वी⟫
+(**-u-** በቁም አዲስ ሳይሆን **-v-** ይሆናል፣ ስለዚህ **-u- + -ī** » **-vī**)
+:::
+
+## 3.3. Nominativ Plural ጠባቂ ቃላት እና ፈረንሳይ ቃላት
+
+::: grammar-box
+የ Nominativ Plural መጨረሻ በ ጠባቂ ቃላት እና ፈረንሳይ ቃላት **-as** ነው።
+**ጠባቂ ቃላት በ -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**ፈረንሳይ ቃላት በ -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**ጠባቂ ቃላት በ -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**ፈረንሳይ ቃላት በ -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**ፈረንሳይ ቃላት በ -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**ጠባቂ ቃላት በ -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**ፈረንሳይ ቃላት በ -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+:::
+ማስታወሻ፡ **e** ከ **i** የግቢ ደረጃ (**guṇa**) ሲሆን **o** ደግሞ ከ **u** የግቢ ደረጃ ነው።
+
+
+## 3.4. የቃላት መገጣጠም (Vokalsandhi)
+
+::: grammar-box
+ተመሳሳይ ያልሆኑ ወይም በረጅምነት ብቻ የሚለያዩ ቀላል ቃላት ከተገናኙ ወደ ተዛማጅ ረጅም ቃል ይቀየራሉ፡
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
+:::
+ለምሳሌ
+
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā አምላክ ናት" = ⟪देवतान्नपूर्णा⟫
+
+> (Annapūrṇā የምግብ እና የምግብ ዝግጅት አምላክ ስትሆን ለፓርቫቲ ልክ እንደ ተራወጠ ትቆጠራለች፣ የሽቪያ ሚስት።)
+
+devī + indrāṇī » devīndrāṇī "Indrāṇī አምላክ ናት" = ⟪देवीन्द्राणी⟫
+
+> (Indrāṇī የአምላክ ኢንድራ ሚስት ናት።)
+
+::: media
+![](/images/lekt0301.webp)
+ስዕል፡ ኢንድራ እና ኢንድራኒ በአይራቫታ ላይ፣ ማጎሪያ ስዕል፣ ራጃስታን፣ 1670/80
+(የስዕል ምንጭ፡ [ዝርዝር](/am/licenses#lekt0301))
+:::
+
+::: grammar-box
+**ቀላል ቃላት (ከ -a / -ā በስተቀር) ከተለያዩ ቃላት በፊት በተዛማጅ ግማሽ-ቃል ይተካሉ፡**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! ለዚህ ህግ በተለይም ለድርጅት ቅርጾች (Dualformen) ልዩነቶች አሉ !!)
+:::
+ለምሳሌ
+
+devī + umā » devy umā "Umā አምላክ ናት" = ⟪देव्युमा⟫
+
+> (Umā ለፓርቫቲ ስም ነች፣ የሽቪያ ሚስት)
+
+::: grammar-box
+**-a / -ā ከተለያዩ ቃላት በፊት፡**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
+:::
+ስለዚህ ለዚህ Sandhi የሚከተለውን ቅደም ተከተል እንጠቀማለን፡
+
+::: media
+![](/images/lekt0302.jpg)
+(የስዕል ምንጭ፡ [ዝርዝር](/am/licenses#lekt0302))
+:::
+Zu dieser sog. Stammabstufung siehe später!
+
+z.B.
+
+śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+
+
+## 3.5. Satzsandhi von -ās
+
+::: grammar-box
+**-ās በሁሉም ድምፃዊ ድምፆች ፊት በ -ā ይተካል (Kielhorn)።**
+:::
+z.B.
+
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा वैश्याः⟫
+
+
+## 3.6. Wortliste
+
+**Lernen Sie folgende Wörter:**
+
+**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+
+**smṛti** f. = ⟪स्मृति⟫ : ማስታወስ፣ ትውስታ፣ ትውፊት (ከ **śruti** ተቃራኒ) (Kielhorn)። ያጠቃልላል፡
+die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
+2. **chandas** n. (⟪छन्दस्⟫): Metrum
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
+4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
+6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
+die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
+die **purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+
+**smṛti** በተለይ ለዳርማ መጻሕፍት መጠሪያ ነው (Kielhorn)።
+
+**vaiśyā** ሴ. = ⟪वैश्या⟫ : የቫይሺያ ሚስት
+
+**śūdrā** ሴ. = ⟪शूद्रा⟫ : የሱድራ ሚስት
+
+**śūdrī** ሴ. / **śūdrāṇī** ሴ. = ⟪शूद्री शूद्राणी⟫ : የሱድራ ሚስት
+
+**devī** ሴ. = ⟪देवी⟫ : አምላክ፣ በተለይ ዱርጋ ሴ. = ⟪दुर्गा⟫፣ የሺቫ ሚስት = ⟪शिव⟫
+
+::: media
+![](/images/lekt0303.webp)
+ስዕል፡ ዱርጋ = ⟪दुर्गा⟫ ኦሪስሳ
+(የስዕል ምንጭ፡ [ዝርዝሮች](/images/lekt0303))
+:::
+**sādhvī** ሴ. = ⟪साध्वी⟫ : ሴታዊ ንጽህና
+
+**gurvī** ሴ. = ⟪गुर्वी⟫ : ሴታዊ ንጽህና
+
+**asmitā** ሴ. = ⟪अस्मिता⟫ : "እኔ-ነገር" ማለትም የሚባል እምነት፡ **እኔ** ነው የሚያስተውለው
+
+**ānvīkṣikī** ሴ. = ⟪आन्वीक्षिकी⟫ : ፍልስጥኤም (ሳይንስ በትክክለኛ ምክንያቶች ያገኘው)
+
+**upekṣā** ሴ. = ⟪उपेक्षा⟫ : አለመጠቀም ፣ ተስማሚ
+
+**karuṇā** ሴ. = ⟪करुणा⟫ : ተስማሚ ፣ ትዕግሥት
+
+**muditā** ሴ. = ⟪मुदिता⟫ : ደስታ ፣ በተለይም ትዕግሥት (ከቅንነት ጋር)
+
+
+## 3.7. ትምህርት
+
+**A) ይህን ስም በብዛት ያስተካክሉ፡**
+
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
+
+**ሀ) በመተካት ስም ማገናኛ ዝርዝሮችን ይፍጠሩ፡**
+
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
+
+**ለ) ወደ ሴት ስም ይቀይሩ፡**
+
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
+
+**ሐ) ወደ ሳንስክሪት ይተርጉሙ፡**
+
+1. Umā is a goddess.
+2. The Veda is śruti.
+3. The female teachers are goddesses.
+4. Milk cows are domesticated animals.
+5. Poets are teachers.
+6. Kṣatriyas are twice-born.
+7. The holy men are Śūdras.
+

@@ -1,6 +1,6 @@
 ---
 title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+subtitle: "Pembentukan Ablatif (⟪पञ्चमी⟫ = \"akhiran kasus kelima\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"

@@ -1,160 +1,149 @@
 ---
-title: "Exercise 24"
+title: "Pratimas 24"
 uebung_id: 24
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Užduotis 24
+# Pratimas 24
 
-A) Bilden Sie den Dativ Singular und den Dativ (bzw. Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) Sudarykite datyvo singuliarą ir datyvą (arba abliativą) pluralą bei nurodykite nominalinio kamieno reikšmę:
 
 ::: grammar-box
-| Wort | Bedeutung | Dativ Sg. | Dativ Pl. |
+| Žodis | Reikšmė | Dat. sg. | Dat. pl. |
 | :--- | :--- | :--- | :--- |
-| ⟪१⟫. ⟪श्रव⟫ | Hören | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
-| ⟪२⟫. ⟪भवन⟫ | Werden | ⟪भवाय⟫ | ⟪भवनेभ्यः⟫ |
-| ⟪३⟫. ⟪गति⟫ (f.) | Weg, Ziel | ⟪गतये⟫ / ⟪गत्यै⟫ | ⟪गतिभ्यः⟫ |
-| ⟪४⟫. ⟪ऋषि⟫ | ved. Weiser | ⟪ऋषये⟫ | ⟪ऋषिभ्यः⟫ |
-| ⟪५⟫. ⟪सुख⟫ | Glück | ⟪सुखाय⟫ | ⟪सुखेभ्यः⟫ |
-| ⟪६⟫. ⟪गमन⟫ | Gehen | ⟪गमनाय⟫ | ⟪गमनेभ्यः⟫ |
-| ⟪७⟫. ⟪जय⟫ | Sieg | ⟪जयाय⟫ | ⟪जयेभ्यः⟫ |
-| ⟪८⟫. ⟪साधु⟫ | gut | ⟪साधवे⟫ (m.) / ⟪साध्व्यै⟫ (f.) | ⟪साधुभ्यः⟫ / ⟪साध्वीभ्यः⟫ |
-| ⟪९⟫. ⟪धेनु⟫ (f.) | Milchkuh | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यः⟫ |
-| ⟪१०⟫. ⟪शूद्रा⟫ | Śūdrafrau | ⟪शूद्रायै⟫ | ⟪शूद्राभ्यः⟫ |
-| ⟪११⟫. ⟪ब्राह्मणी⟫ | Brahmanin | ⟪ब्राह्मण्यै⟫ | ⟪ब्राह्मणीभ्यः⟫ |
-| ⟪१२⟫. ⟪अग्नि⟫ | Feuer | ⟪अग्न⟫ye | ⟪अग्निभ्यः⟫ |
-| ⟪१३⟫. ⟪एतद्⟫ | dieses | ⟪एतस्मै⟫ (m/n) / ⟪एतस्यै⟫ (f) | ⟪एतेभ्यः⟫ / ⟪एताभ्यः⟫ |
-| ⟪१४⟫. ⟪सन्त्⟫ | seiend, wahr | ⟪सते⟫ (m/n) / ⟪सत्यै⟫ (f) | ⟪सद्भ्यः⟫ / ⟪सतीभ्यः⟫ |
-| ⟪१५⟫. ⟪बुद्धिमन्त्⟫ | einsichtig | ⟪बुद्धिमते⟫ (m/n) / ⟪बुद्धिमत्यै⟫ (f) | ⟪बुद्धिमद्भ्यः⟫ / ⟪बुद्धिमतीभ्यः⟫ |
-| ⟪१६⟫. ⟪यज्ञ⟫ | Opfer | ⟪यज्ञाय⟫ | ⟪यज्ञेभ्यः⟫ |
-| ⟪१७⟫. ⟪वचन⟫ | Sprechen | ⟪वचनाय⟫ | ⟪वचनेभ्यः⟫ |
-| ⟪१८⟫. ⟪सत्यवन्त्⟫ | wahrhaftig | ⟪सत्यवते⟫ | ⟪सत्यवद्भ्यः⟫ |
-| ⟪१९⟫. ⟪स्मृति⟫ (f.) | Überlieferung | ⟪स्मृतये⟫ / ⟪स्मृत्यै⟫ | ⟪स्मृतिभ्यः⟫ |
-| ⟪२०⟫. ⟪सर्ग⟫ | Schöpfung | ⟪सर्गाय⟫ | ⟪सर्गेभ्यः⟫ |
-| ⟪२१⟫. ⟪स्वर्ग⟫ | Himmel | ⟪स्वर्गाय⟫ | ⟪स्वर्गेभ्यः⟫ |
-| ⟪२२⟫. ⟪दर्शन⟫ | Sehen | ⟪दर्शनाय⟫ | ⟪दर्शनेभ्यः⟫ |
-| ⟪२३⟫. ⟪सृष्टि⟫ (f.) | Schöpfung | ⟪सृष्टये⟫ / ⟪सृष्ट्यै⟫ | ⟪सृष्टिभ्यः⟫ |
-| ⟪२४⟫. ⟪अर्हन्त्⟫ | würdig | ⟪अर्हते⟫ | ⟪अर्हद्भ्यः⟫ |
-| ⟪२५⟫. ⟪भक्ति⟫ (f.) | Hingabe | ⟪भक्तये⟫ / ⟪भक्त्यै⟫ | ⟪भक्तिभ्यः⟫ |
-| ⟪२६⟫. ⟪दोष⟫ | Fehler | ⟪दोषाय⟫ | ⟪दोषेभ्यः⟫ |
-| ⟪२७⟫. ⟪पूजा⟫ | Verehrung | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
-| ⟪२८⟫. ⟪दासी⟫ | Dienerin | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
-| ⟪२९⟫. ⟪गुरु⟫ | Meister | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
+| ⟪१⟫. ⟪श्रव⟫ | Girdėti | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
+| ⟪२⟫. ⟪भवन⟫ | Tapti | ⟪भवाय⟫ | ⟪भवनेभ्यः⟫ |
+| ⟪३⟫. ⟪गति⟫ (f.) | Kelias, tikslas | ⟪गतये⟫ / ⟪गत्यै⟫ | ⟪गतिभ्यः⟫ |
+| ⟪४⟫. ⟪ऋषि⟫ | ved. išmintis | ⟪ऋषये⟫ | ⟪ऋषिभ्यः⟫ |
+| ⟪५⟫. ⟪सुख⟫ | Laimė | ⟪सुखाय⟫ | ⟪सुखेभ्यः⟫ |
+| ⟪६⟫. ⟪गमन⟫ | Eiti | ⟪गमनाय⟫ | ⟪गमनेभ्यः⟫ |
+| ⟪७⟫. ⟪जय⟫ | Pergalė | ⟪जयाय⟫ | ⟪जयेभ्यः⟫ |
+| ⟪८⟫. ⟪साधु⟫ | geras | ⟪साधवे⟫ (m.) / ⟪साध्व्यै⟫ (f.) | ⟪साधुभ्यः⟫ / ⟪साध्वीभ्यः⟫ |
+| ⟪९⟫. ⟪धेनु⟫ (f.) | Pieninė karvė | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यः⟫ |
+| ⟪१०⟫. ⟪शूद्रा⟫ | Šūdrų moteris | ⟪शूद्रायै⟫ | ⟪शूद्राभ्यः⟫ |
+| ⟪११⟫. ⟪ब्राह्मणी⟫ | Brahmanas | ⟪ब्राह्मण्यै⟫ | ⟪ब्राह्मणीभ्यः⟫ |
+| ⟪१२⟫. ⟪अग्नि⟫ | Ugnis | ⟪अग्न⟫ye | ⟪अग्निभ्यः⟫ |
+| ⟪१३⟫. ⟪एतद्⟫ | šis | ⟪एतस्मै⟫ (m/n) / ⟪एतस्यै⟫ (f) | ⟪एतेभ्यः⟫ / ⟪एताभ्यः⟫ |
+| ⟪१४⟫. ⟪सन्त्⟫ | esantis, tikras | ⟪सते⟫ (m/n) / ⟪सत्यै⟫ (f) | ⟪सद्भ्यः⟫ / ⟪सतीभ्यः⟫ |
+| ⟪१५⟫. ⟪बुद्धिमन्त्⟫ | išmintingas | ⟪बुद्धिमते⟫ (m/n) / ⟪बुद्धिमत्यै⟫ (f) | ⟪बुद्धिमद्भ्यः⟫ / ⟪बुद्धिमतीभ्यः⟫ |
+| ⟪१६⟫. ⟪यज्ञ⟫ | Aukojimas | ⟪यज्ञाय⟫ | ⟪यज्ञेभ्यः⟫ |
+| ⟪१७⟫. ⟪वचन⟫ | Kalbėti | ⟪वचनाय⟫ | ⟪वचनेभ्यः⟫ |
+| ⟪१८⟫. ⟪सत्यवन्त्⟫ | tiesus | ⟪सत्यवते⟫ | ⟪सत्यवद्भ्यः⟫ |
+| ⟪१९⟫. ⟪स्मृति⟫ (f.) | Tradicija | ⟪स्मृतये⟫ / ⟪स्मृत्यै⟫ | ⟪स्मृतिभ्यः⟫ |
+| ⟪२०⟫. ⟪सर्ग⟫ | Kūrimas | ⟪सर्गाय⟫ | ⟪सर्गेभ्यः⟫ |
+| ⟪२१⟫. ⟪स्वर्ग⟫ | Dangus | ⟪स्वर्गाय⟫ | ⟪स्वर्गेभ्यः⟫ |
+| ⟪२२⟫. ⟪दर्शन⟫ | Matyti | ⟪दर्शनाय⟫ | ⟪दर्शनेभ्यः⟫ |
+| ⟪२३⟫. ⟪सृष्टि⟫ (f.) | Kūrimas | ⟪सृष्टये⟫ / ⟪सृष्ट्यै⟫ | ⟪सृष्टिभ्यः⟫ |
+| ⟪२४⟫. ⟪अर्हन्त्⟫ | vertas | ⟪अर्हते⟫ | ⟪अर्हद्भ्यः⟫ |
+| ⟪२५⟫. ⟪भक्ति⟫ (f.) | Pažinimas | ⟪भक्तये⟫ / ⟪भक्त्यै⟫ | ⟪भक्तिभ्यः⟫ |
+| ⟪२६⟫. ⟪दोष⟫ | Klaida | ⟪दोषाय⟫ | ⟪दोषेभ्यः⟫ |
+| ⟪२७⟫. ⟪पूजा⟫ | Garbinimas | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
+| ⟪२८⟫. ⟪दासी⟫ | Tarnaitė | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
+| ⟪२९⟫. ⟪गुरु⟫ | Mokytojas | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
 :::
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Translate and resolve the compounds into Sanskrit:
 
-⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
-(⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
-Der Brahmane betritt das innere Heiligtum, um das Götterbildnis zu sehen.
+⟪१⟫. **⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विश⟫ati ⟪॥१॥⟫**
+(⟪देवस्य प्रतिमाया दर्शनाय । गर्भ एव गृहम्⟫)
+The Brahmin enters the inner sanctuary to see the image of the god.
 
-⟪२⟫. **⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫**
-(⟪धनस्य⟫ ⟪लाभाय⟫)
-Menschen halten Gelübde, um reich zu werden.
+⟪२⟫. **⟪नरा धनलाभाय व्रतानि चरन्ति ॥२॥⟫**
+(⟪धनस्य लाभाय⟫)
+People make vows in order to become rich.
 
-⟪३⟫. **⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫**
+⟪३⟫. **⟪गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥⟫**
 (⟪धर्मस्योपदेशाय⟫)
-Der Meister ist in die Stadt gegangen, um Dharma zu unterrichten.
+The teacher has gone to the city in order to teach dharma.
 
-⟪४⟫. **⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫**
-(⟪गुरोर्वचनस्य⟫ ⟪श्रुत्यै⟫)
-Auch die Kinder sind in die Stadt gegangen, um die Rede des Meisters zu hören.
+⟪४⟫. **⟪बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥⟫**
+(⟪गुरोर्वचनस्य श्रुत्यै⟫)
+Even the children have gone to the city in order to hear the teacher's discourse.
 
-⟪५⟫. **⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫**
-(⟪देवस्य⟫ ⟪प्रतिमायै⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
-Das innere Heiligtum ist ein Gebäude fürs Götterbild.
+⟪५⟫. **⟪देवप्रतिमायै गृहं गर्भगृहम् ॥५॥⟫**
+(⟪देवस्य प्रतिमायै । गर्भ एव गृहम्⟫)
+The inner sanctuary is a building for the image of the god.
 
-⟪६⟫. **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫**
-Menschen wollen um der Himmel willen Verdienstvolles tun.
+⟪६⟫. **⟪स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥⟫**
+People wish to do meritorious deeds for the sake of heaven.
 
-⟪७⟫. **⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫**
-(⟪मोक्षस्यार्थम्⟫ ⟪।⟫ ⟪बुद्धं⟫ ⟪गताः⟫ ⟪।⟫ ⟪बुद्धेराप्तिम्⟫)
-Um erlöst zu werden, wollen Einsichtige erlösende Einsicht erlangen.
+⟪७⟫. **⟪मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥⟫**
+(⟪मोक्षस्यार्थम् । बुद्धं गताः । बुद्धेराप्तिम्⟫)
+In order to be liberated, the insightful wish to attain liberating insight.
 
-⟪८⟫. **⟪देवास्तेभ्यो⟫ ⟪ऽकृतपुजाब्रामणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫**
-(⟪न⟫ ⟪कृता⟫ ⟪पूजा⟫ ⟪यैस्तेभ्यो⟫ ⟪ब्राह्मणेभ्यः⟫)
-Die Götter zürnen diesen Brahmanen, die ihnen keine Verehrung zollten.
+⟪८⟫. **⟪देवास्तेभ्यो ऽकृतपुजाब्रामणेभ्यः क्रुध्यन्ति ॥८॥⟫**
+(⟪न कृता पूजा यैस्तेभ्यो ब्राह्मणेभ्यः⟫)
+The gods are angry with these Brahmins who did not pay them homage.
 
-⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
-Um zu sterben, werden Lebewesen geboren.
+⟪९⟫. **⟪मरणाय जना जायन्ते ॥९॥⟫**
+Tam, kad numirtų, gyvos būtybės gimsta.
 
 ::: media
 ![](/images/uebung037.webp)
-Abb.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
-(Bildquelle: [Details](/licenses#uebung037))
-:::
----
+Fig.: ⟪मरणाय जना जायन्ते⟫
+(Image source: [Details](/licenses#uebung037))
 
-## Syntaktische Variationen
+⟪१⟫. ⟪ब्राह्मणो देवप्रतिमां द्रष्टुं गर्भगृहं विशति ॥ २⟫. ⟪नरा धनं लब्धुं व्रतानि चरन्ति ॥ ३⟫. ⟪गुरुर्धर्ममुपदेष्टुं नगरं गतः ॥ ४⟫. ⟪बाला अपि गुरुवचनं श्रोतुं नगरं गताः ॥⟫
 
-C) Ersetzen Sie in den Sätzen B) 1–4 die Dative durch Infinitive (⟪तुमुन्⟫):
+D) Sakinyje B) 7 konstrukciją su **-⟪अर्थ⟫** pakeiskite datyvu:
+**⟪मोक्षाय बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥⟫**
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪देवप्रतिमां⟫ ⟪द्रष्टुं⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥⟫
-
-⟪२⟫. ⟪नरा⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥⟫
-
-⟪३⟫. ⟪गुरुर्धर्ममुपदेष्टुं⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥⟫
-
-⟪४⟫. ⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥⟫
-
-D) Ersetzen Sie in Satz B) 7 die Konstruktion mit **-⟪अर्थ⟫** durch einen Dativ:
-**⟪मोक्षाय⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥⟫**
-
-E) Ersetzen Sie in Satz B) 6 den Dativ durch eine Konstruktion mit **-⟪अर्थ⟫**:
-**⟪स्वर्गार्थं⟫ (oder: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥⟫**
+E) Sakinyje B) 6 datyvą pakeiskite konstrukcija su **-⟪अर्थ⟫**:
+**⟪स्वर्गार्थं⟫ (arba: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः पुण्यं कर्तुमिच्छन्ति ॥⟫**
 
 ---
 
-## Zusätzliche Übersetzungsübungen
+## Papildomi vertimo pratimai
 
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-**⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (oder: ⟪कुप्यति⟫ ⟪॥⟫)**
+1\. Deivė, kuriai nebuvo aukojama, pyksta ant žmonių.
+**⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (arba: ⟪कुप्यति ॥⟫)**
 
-2\. Er lässt die Kuh ins Dorf los.
-**⟪ग्रामाय⟫ ⟪धेनुं⟫ ⟪मुञ्चति⟫ ⟪॥⟫**
+2\. Jis paleidžia karvę į kaimą.
+**⟪ग्रामाय धेनुं मुञ्चति ॥⟫**
 
-3\. Jetzt reichts! (Genug mit der Geduld!)
-**⟪अलं⟫ ⟪क्षमया⟫ ⟪॥⟫**
+3\. Dabar užtenka! (Pakankamai kantrybės!)
+**⟪अलं क्षमया ॥⟫**
 
-4\. Das ist gut für einen Brahmanen.
-**⟪एतद्ब्राह्मणाय⟫ ⟪सुखम्⟫ ⟪।⟫ (oder: ⟪हितम्⟫ ⟪॥⟫)**
+4\. Tai tinka brahmanui.
+**⟪एतद्ब्राह्मणाय सुखम् ।⟫ (arba: ⟪हितम् ॥⟫)**
 
-5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
-**⟪शिवाय⟫ ⟪नमः⟫ ⟪।⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪॥⟫**
+5\. Garbė Šivai! Garbė Sri Ganešai!
+**⟪शिवाय नमः । श्रीगणेशाय नमः ॥⟫**
 
-6\. Auf Wiedersehen! (Wohlergehen Ihnen!)
-**⟪स्वस्ति⟫ ⟪भवते⟫ ⟪।⟫ (oder: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः⟫ ⟪॥⟫)**
+6)! (Tegul jums sekasi!)
+**⟪स्वस्ति भवते ।⟫ (arba: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः ॥⟫)**
 
-7\. Diese Frucht reicht zum Essen.
-**⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫ ⟪॥⟫**
+7\. Šis vaisius tinka valgyti.
+**⟪इदं फलं अलं खादनाय ॥⟫**
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen.
-**⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
+8).
+**⟪शक्तो योधो योधाय ॥⟫**
 
-9\. Selbst Viṣṇu übertrifft Śiva nicht.
-**⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
+9).
+**⟪विष्णुरपि शिवाय न प्रभवति ॥⟫**
 
-10\. Nachdem ich mich vor den drei Weisen verbeugt habe... Er verbeugt sich vor Narasiṃha.
-**⟪मुनित्रयं⟫ ⟪नमस्कृत्य⟫... ⟪।⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫ ⟪॥⟫**
+10).
+**⟪मुनित्रयं नमस्कृत्य⟫... ⟪। नरसिंहाय नमस्करोति ॥⟫**
 
-11\. Willkommen Ihnen! Willkommen der Königin!
-**⟪स्वागतं⟫ ⟪भवद्भ्यः⟫ ⟪।⟫ ⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
+11. Sveiki jums! Sveikinimai karalienei!
+**⟪स्वागतं भवद्भ्यः । स्वागतं देव्यै ॥⟫**
 
-12\. Ich wünsche Ihnen Wohlergehen!
-**⟪भवद्भ्यः⟫ ⟪कुशलम्⟫ ⟪॥⟫**
+12. Linkiu jums sėkmės!
+**⟪भवद्भ्यः कुशलम् ॥⟫**
 
-13\. Er betrachtet ihn nicht als Grashalm.
-**⟪न⟫ ⟪तं⟫ ⟪तृणाय⟫ ⟪मन्यते⟫ ⟪॥⟫**
+13. Jis jo nelaiko žole.
+**⟪न तं तृणाय मन्यते ॥⟫**
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
-**⟪अलं⟫ ⟪फलं⟫ ⟪खादनाय⟫ ⟪पानाय⟫ ⟪जलम्⟫ ⟪॥⟫**
+14. Pakanka vieno vaisiaus maistui ir vandens gėrimui.
+**⟪अलं फलं खादनाय पानाय जलम् ॥⟫**
 
-15\. Auf Wiedersehen! (Neusanskrit)
-**⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
+15. Viso gero! (Naujas sanskritas)
+**⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
 ![](/images/uebung038.webp)
-Abb.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
-(Bildquelle: [Details](/licenses#uebung038))
+Pav.: ⟪इदं फलं अलं खादनाय⟫
+(Nuotraukos šaltinis: [Išsamiau](/licenses#uebung038))
 :::

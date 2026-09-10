@@ -1,10 +1,11 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: "Lecke 6"
+subtitle: "Az igemondat felépítése (alany és igealak)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # 6. lecke
@@ -66,53 +67,55 @@ Példák:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
-## 6.4. A harmadik személy fő végződése (prathama m. = ⟪प्रथम⟫ = "első (!) személy")
+
+## 6.4. A harmadik személy fő végződései (prathama m. = ⟪प्रथम⟫ = "első (!) személy")
 
 ::: grammar-box
-| | egyes szám (Einzahl):brekavacana n.:br⟪एकवचन⟫ | többes szám (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | Singular (Egyes szám):brekavacana n.:br⟪एकवचन⟫ | Plural (Többes szám):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
-Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
-- Jelen idejű tő: **yaja** = ⟪यज⟫
-  - 3. sg. P. **yajati** = ⟪यजति⟫
-  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-  - 3. sg. Ā. **yajate** = ⟪यजते⟫
-  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+Példa **yaj** = ⟪यज्⟫ = "áldozattal tisztel", "áldoz":
+Jelen idő alapja: **yaja** = ⟪यज⟫
+3. sg. P. **yajati** = ⟪यजति⟫
+3. pl. P. **yajanti** = ⟪यजन्ति⟫
+3. sg. Ā. **yajate** = ⟪यजते⟫
+3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. A jelen időstémaképzés
 
-### 6.5.1. A hatodik jelen időosztályba tartozó igék (tudādi = ⟪तुदादि⟫ = „tud stb.”)
+## 6.5. A jelen idő alapjának képzése
+
+### 6.5.1. A 6. jelen időosztályú igék (tudādi = ⟪तुदादि⟫ = "tud stb.")
 
 ::: grammar-box
-**Jelen időstéma = gyökér erős fokozatban (ahol felsorolják) + a-**
+**Jelen idő alapja = Gyökér középszintben (ahol felsorolják) + a-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő |
+| Gyökér (dhātu m.):br⟪धातु⟫ | Jelen idő alapja |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Az első jelen időosztályba tartozó igék (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū stb.”)
+### 6.5.2. Az 1. jelen időosztályú igék (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū stb.")
 
 ::: grammar-box
-| Jelen idejű tő = Tő in Hochstufe (selten Dehnstufe) + a- ||||
-| Tő (dhātu m.):br⟪धातु⟫ | Erős fokozat | Nyújtott fok a- előtt | Jelen idejű tő |
+| Jelen idő alapja = Gyökér magas szintben (ritkán nyújtott szint) + a- ||||
+| Gyökér (dhātu m.):br⟪धातु⟫ | Magas szint | a- előtti magas szint | Jelen idő alapja |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Képzés der Hochstufe ||||
+| Ha a magánhangzó hosszú zárt szótagban áll, azaz rövid magánhangzó két vagy több mássalhangzó előtt, akkor a magas szint képzése elmarad ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Szóvégi sandhi az e és o hangok között
-Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyett pedig **av** áll.
+#### 6.5.2.1. A szóvégi e és o sandhi-ja
+Szóbeli környezetben a magánhangzók előtt az **e** hangot **ay**-ra, az **o** hangot pedig **av**-ra cseréljük.
 
-#### 6.5.2.2. Hangfokozás (Ablaut)
+#### 6.5.2.2. Hangfokozás (ablaut)
 
 ::: grammar-box
-| Mély fokozat:brgyengült alak | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
+| Mélyfok:brElhagyott fok | Magasfok:brTeljes fok:brGuṇa m.:br⟪गुण⟫ | Nyújtott fok:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -120,32 +123,32 @@ Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyet
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. A negyedik jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = „div stb.”)
+### 6.5.3. A 4. jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = "div stb.")
 
 ::: grammar-box
-**Jelen időtő = gyökér mély fokozatban (ahol felsorolják) + ya-**
+**Jelen időtő = Gyökér mélyfokban (ahol felsorolják) + ya-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő |
+| Gyökér (dhātu m.):br⟪धातु⟫ | Jelen időtő |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Témavokál, tematikus jelen időosztályok
+### 6.5.4. Tőmagánhangzó, tematikus jelen időosztályok
 
 ::: grammar-box
-Az **a** a jelen idő osztályainak szóképző utótagjaiban **témavokálisnak** nevezzük. A jelen idő osztályait, amelyeknek a szóképző utótagjában **a** van, ezért „témás jelen idő osztályoknak” hívjuk.
+Az **a** hangot a jelen időosztályok tőképzősuffixumaiban **tőmagánhangzónak** nevezzük. Azok a jelen időosztályok, amelyeknek tőképzősuffixumában **a** hang van, ezért "tematikus jelen időosztályok".
 :::
 
 ## 6.6. Beszélt szanszkrit: További kérdések (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = „Mit csinál N. N.?”
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = „Mit csinálnak a N.N.-k?”
-- (karoti, kurvanti a **kṛ** = ⟪कृ⟫ 8. osztály: „csinál, készít”)
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = „Jól van? Hogy van?”
-- Válasz: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = „(Nekem) minden tekintetben jól van.”
+**N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "Mit csinál N. N.?"
+**N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Mit csinálnak az N.N.-ek?"
+(karoti, kurvanti a **kṛ** = ⟪कृ⟫ 8 U: "csinál, készít")
+**kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Jól van?, Hogy van?"
+Válasz: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Nekem) minden tekintetben jól van."
 :::
 
 ## 6.7. Szószedet

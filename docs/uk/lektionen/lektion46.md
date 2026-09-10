@@ -1,6 +1,6 @@
 ---
 title: "Урок 46"
-subtitle: "Утворення дієслівних форм другої особи (⟪मध्यमः⟫) Перфект (⟪लिट्⟫)"
+subtitle: "Утворення дієслівних форм 2-ї особи (⟪मध्यमः⟫) Перфект (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -555,8 +555,8 @@ Absol. -⟪लम्ब्य⟫
 ::: media
 ![](/images/lekt4601.jpg)
 Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/uk/licenses#lekt4601)
-(Bildquelle: [Details](/uk/licenses#lekt4601))
-:::
+(Джерело зображення: [Деталі](/uk/licenses#lekt4601))
+
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : триматися за (⟪द्वितीयया⟫)
 
 ⟪यदि⟫ Konjunktion:  якщо
@@ -579,8 +579,8 @@ PPP ⟪परिभूत⟫ 3: переможений, принижений, з
 ::: media
 ![](/images/lekt4611.webp)
 Abb.: [⟪भोः⟫](/uk/licenses#lekt4611)
-(Bildquelle: [Details](/uk/licenses#lekt4611))
-:::
+(Джерело зображення: [Деталі](/uk/licenses#lekt4611))
+
 ## 46.3. Вправи
 
 A) Визначте та перекладіть наступні форми:

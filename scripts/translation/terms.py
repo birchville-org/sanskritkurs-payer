@@ -4,7 +4,9 @@ Single Source of Truth across the translation pipeline.
 """
 import re
 
-DE_FALLBACK_ALLOWED = {"rm", "grc", "el", "la", "cop"}
+DE_FALLBACK_ALLOWED = {"rm", "grc", "el", "la"}
+
+LATIN_TOLERANT_LANGS = {"en", "fr", "it", "es", "pt", "rm", "nl", "ro", "la", "tr", "vi", "id", "af"}
 
 EXCLUDE_META = {
     "licenses.md", "AUTHORS_GUIDE.md", "settings.md", "impressum.md", 
@@ -22,7 +24,9 @@ STRICT_DE_GRAMMAR_KEYWORDS = [
     "bei Maskulina", "bei Neutra", "außer j", "entsprechenden", "Ersetzung durch",
     "mit direktem Objekt", "Passivsatz", "Doppelter Akkusativ", "Fragepronomina",
     "Glückbringender Anfang", "Konsonantenzeichen", "Materialien zum Sanskrit",
-    "Zusätzliche Übung", "Verehrung des", "Laute des Sanskrit", "Bildquelle:"
+    "Zusätzliche Übung", "Verehrung des", "Laute des Sanskrit", "Bildquelle:",
+    "Lautlehre", "Wortkunde", "Satzlehre", "Substantive und Adjektive", 
+    "Pronomina", "Konjugation"
 ]
 
 GERMAN_KEYWORDS = [
@@ -45,9 +49,9 @@ RAW_RESIDUE_TERMS = [
 
 ALL_TERMS = sorted(list(set(STRICT_DE_GRAMMAR_KEYWORDS + GERMAN_KEYWORDS + RAW_RESIDUE_TERMS)), key=len, reverse=True)
 
-# Pre-compiled regex for fast residue scanning (strict word boundaries)
+# Pre-compiled regex for fast residue scanning (strict word boundaries supporting punctuation)
 DE_RESIDUE_REGEX = re.compile(
-    r'\b(' + '|'.join(re.escape(t) for t in ALL_TERMS) + r')\b',
+    r'(?<!\w)(' + '|'.join(re.escape(t) for t in ALL_TERMS) + r')(?!\w)',
     re.IGNORECASE
 )
 

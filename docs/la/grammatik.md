@@ -41,13 +41,13 @@ Haec pagina systematicam omnium Sanscriti grammaticorum argumentorum praebet con
 *   Numeralia (Cardinalia/Ordinalia) -\> [Lectio 52](/la/lektionen/lektion52)
 *   Gradatio (Comparativ/Superlativ) -\> [Lectio 53](/la/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbia
+### 2.2 Pronominalia & Adverbia
 
-*   **Pronomina**:
-*   Pronomina interrogativa & demonstrativa -\> [Lectio 4](/la/lektionen/lektion04)
+*   **Pronominalia**:
+*   Pronominalia interrogativa & demonstrativa -\> [Lectio 4](/la/lektionen/lektion04)
 *   Pronomen relativum (yad) -\> [Lectio 19](/la/lektionen/lektion19)
-*   Pronomina personalia (Persona 1a & 2da) -\> [Lectio 46](/la/lektionen/lektion46), [Lectio 47](/la/lektionen/lektion47)
-*   Pronomina indefinita -\> [Lectio 37](/la/lektionen/lektion37)
+*   Pronominalia personalia (Persona 1a & 2da) -\> [Lectio 46](/la/lektionen/lektion46), [Lectio 47](/la/lektionen/lektion47)
+*   Pronominalia indefinita -\> [Lectio 37](/la/lektionen/lektion37)
 *   **Adverbia & Vocatio**:
 *   Formatio adverbiorum -\> [Lectio 37](/la/lektionen/lektion37), [Lectio 52](/la/lektionen/lektion52)
 *   Vocatio civilis & Vokativus -\> [Lectio 21](/la/lektionen/lektion21), [Lectio 44](/la/lektionen/lektion44)

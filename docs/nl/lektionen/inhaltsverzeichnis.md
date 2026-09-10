@@ -575,48 +575,48 @@ Wekelijkse spreuk
 
 ## [Les 44](lektion44)
 
-*   1.  Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen met een vocaal eindigend suffix
-*   1.1. Vijfde tegenwoordige tijd klasse (⟪स्वादि⟫)
-*   1.2. Achtste tegenwoordige tijd klasse (⟪तनादि⟫)
-*   1.3. Negende tegenwoordige tijd klasse (⟪क्र्यादि⟫)
-*   2\. Over het woord-sandhi
+*   1.  Vervoeging van de 2e persoon (⟪मध्यमः⟫) van athematische stammen met een vocaal eindigend suffix
+*   1.1. Vijfde presentisklasse (⟪स्वादि⟫)
+*   1.2. Achtste presentisklasse (⟪तनादि⟫)
+*   1.3. Negende presentisklasse (⟪क्र्यादि⟫)
+*   2.  Over het woord-sandhi
 *   2.1. Over het woord-sandhi voor dh-
 *   2.2. Over het woord-sandhi voor s-
-*   3.  Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix
-*   3.1. Tweede tegenwoordige tijd klasse (⟪अदादि⟫)
-*   4\. De vocatief (⟪आमन्त्रितम्⟫)
-*   5\. Woordenlijst
-*   6\. Oefening
-*   7\. Herhalingsoefening voor de vormleer
+*   3.  Vervoeging van de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix
+*   3.1. Tweede presentisklasse (⟪अदादि⟫)
+*   4.  De vocatief (⟪आमन्त्रितम्⟫)
+*   5.  Woordenlijst
+*   6.  Oefening
+*   7.  Herhalingsoefening voor de vormleer
 
 ## [Les 45](lektion45)
 
-*   1\. Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix (vervolg)
-*   1.1. Derde tegenwoordige tijd klasse (⟪जुहोत्यादि⟫)
-*   1.2. Zevende tegenwoordige tijd klasse (⟪रुधादि⟫)
-*   2\. De vocatief enkelvoud (⟪आमन्त्रितमेकवचने⟫)
-*   3\. Woordenlijst
-*   4\. Oefening
+*   1.  Vervoeging van de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix (vervolg)
+*   1.1. Derde presentisklasse (⟪जुहोत्यादि⟫)
+*   1.2. Zevende presentisklasse (⟪रुधादि⟫)
+*   2.  De vocatief enkelvoud (⟪आमन्त्रितमेकवचने⟫)
+*   3.  Woordenlijst
+*   4.  Oefening
 
 ## [Les 46](lektion46)
 
-*   1\. Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) Perfectum (⟪लिट्⟫)
+*   1.  Vervoeging van de 2e persoon (⟪मध्यमः⟫) perfectum (⟪लिट्⟫)
 *   1.1. Eindigingen
-*   1.2. Klankverandering van de uitgang -dhve
-*   1.3. Perfectum Type I: geen stamafstoting
-*   1.4. Perfectum Type II: sterke stam hoog niveau, zwakke stam laag niveau
-*   1.5. Perfectum Type III: Sterke stam hoog niveau/verlengingsniveau
-*   1.5.1. Perfectum Type IIIa: Sterke stam hoog niveau/verlengingsniveau, zwakke stam laag niveau
-*   1.5.2. Perfectum Type IIIb: Sterke stam hoog niveau/verlengingsniveau, zwakke stam hoog niveau
-*   1.6. Perfectum Type IV: Wortels op -ā / -ai
->> *   1.7. Perfectum Type V: Medewerker-a-Medewerker
-*   1.7.1. Perfectum Type Va: Medewerker-a-Medewerker, zwakke stam laag niveau
-*   1.7.2. Perfectum Type Vb: Medewerker-a-Medewerker, beginmedewerker geen gutturaal, aspiratie, h, Zwakke stam zonder reduplicatie, met -e-
-*   1.7.3. Perfectum Type Vc: Medewerker-a-Medewerker, zwakke stam hoog niveau
-*   1.8. Bijzondere Perfectum-vormingen
-*   1.9. Perifraastisch Perfectum (⟪अनुप्रयोगलिट्⟫)
-*   2\. Woordenlijst
-*   3\. Oefening
+*   1.2. Klankverandering van de eindiging -dhve
+*   1.3. Perfectum type I: geen stamafstoting
+*   1.4. Perfectum type II: sterke stam hoogste niveau, zwakke stam laagste niveau
+*   1.5. Perfectum type III: sterke stam hoogste niveau/verlengingsniveau
+*   1.5.1. Perfectum type IIIa: sterke stam hoogste niveau/verlengingsniveau, zwakke stam laagste niveau
+*   1.5.2. Perfectum type IIIb: sterke stam hoogste niveau/verlengingsniveau, zwakke stam hoogste niveau
+*   1.6. Perfectum type IV: wortels op -ā / -ai
+*   1.7. Perfectum type V: medeklinker-a-medeklinker
+*   1.7.1. Perfectum type Va: medeklinker-a-medeklinker, zwakke stam laagste niveau
+*   1.7.2. Perfectum type Vb: medeklinker-a-medeklinker, beginmedeklinker geen gutturaal, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
+*   1.7.3. Perfectum type Vc: medeklinker-a-medeklinker, zwakke stam hoogste niveau
+*   1.8. Bijzondere perfectum-vormingen
+*   1.9. Perifrastisch perfectum (⟪अनुप्रयोगलिट्⟫)
+*   2.  Woordenlijst
+*   3.  Oefening
 
 ## [Les 47](lektion47)
 
@@ -845,7 +845,7 @@ Wekelijkse spreuk
 *   5\. Het benedictivum (⟪आशीर्लिङ्⟫)
 *   6\. Het conditionalis (⟪ऌङ्⟫)
 *   7\. Deklinatie van de nomina op -ai, -o, -au
-*   8\. Overige pronomina
+*   8\. Overige voornaamwoorden
 *   8.1. Persoonlijke voornaamwoorden van de dualis
 *   8.2. Demonstratieve voornaamwoorden ⟪अदस्⟫ "die (ver verwijderd)"
 *   9\. Ontslag in de oceaan van de Sanskritliteratuur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
