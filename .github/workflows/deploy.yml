@@ -9,7 +9,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-  NODE_OPTIONS: "--max-old-space-size=16384"
+  NODE_OPTIONS: "--max-old-space-size=32768"
 
 concurrency:
   group: docker-${{ github.sha }}
@@ -26,10 +26,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Swap Space (28 GB)
+      - name: Set up Swap Space (32 GB)
         run: |
           sudo swapoff -a || true
-          sudo fallocate -l 28G /mnt/swapfile || sudo dd if=/dev/zero of=/mnt/swapfile bs=1M count=28672
+          sudo fallocate -l 32G /mnt/swapfile || sudo dd if=/dev/zero of=/mnt/swapfile bs=1M count=32768
           sudo chmod 600 /mnt/swapfile
           sudo mkswap /mnt/swapfile
           sudo swapon /mnt/swapfile
@@ -49,7 +49,7 @@ jobs:
       - name: Build VitePress (Public)
         run: |
           npm install
-          NODE_OPTIONS="--max-old-space-size=16384" VITEPRESS_ENV=public npx vitepress build docs
+          NODE_OPTIONS="--max-old-space-size=32768" VITEPRESS_ENV=public npx vitepress build docs
           node scripts/gen_locale_manifests.mjs
           mv docs/.vitepress/dist docs/.vitepress/dist-public
 
