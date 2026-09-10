@@ -8,14 +8,15 @@ Ein automatisiertes Produktionssystem (Static Site Generator Pipeline), das best
 
 Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine blitzschnelle, übersichtliche und voll durchsuchbare Struktur, die als einfache Pipeline vollautomatisch neue Kapitel integrieren kann.
 
-## Current Milestone: v1.3 Editor First
+## Current Milestone: v2.0 WebGPU KI-Suche (Semantic RAG)
 
-**Goal:** VitePress-aware Markdown Editor als Kernwerkzeug für Content-Autoren. Sprachen und Backlogs sekundär.
+**Goal:** Lokale, offline-fähige semantische Suche und LLM-Antwortgenerierung im Browser via WebGPU und statischer Embedding-Pipeline.
 
 **Target features:**
-- **⭐ Markdown Editor**: Split-Pane mit Live-Vorschau und voller VitePress-Container-Syntax-Unterstützung.
-- **I18n Completion**: ES, LA, RM, TA (sekundär).
-- **Scholarly Polish**: Bildunterschriften, Lizenz-Audit, Comparison Mode (sekundär).
+- **Static Embedding Pipeline** (Phase 24): Vektorisierung aller Lektionen beim VitePress Build.
+- **Client-side Semantic Search** (Phase 25): Vektorähnlichkeitssuche per Web Worker im Browser.
+- **WebGPU LLM Answer Generation (RAG)** (Phase 26): On-Device Chat & Zitate via Web-LLM (Gemma 2B).
+- **Provider-Pattern & Model Management** (Phase 27): Fallback auf API (OpenRouter) & Opt-in Model-Download.
 
 ## Requirements
 
@@ -33,16 +34,23 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 - ✓ **i18n Setup (DE/EN)** — v1.1
 - ✓ **Grammar Exercise Translation (1-60)** — v1.1
 - ⚠ **Wide-Mode (Layout Toggle)** — Discarded in v1.1 in favor of standard responsive layout.
-
 - ✓ **Thematische Indizes** (INDEX-01) — v1.2
 - ✓ **Devanāgarī-Suche** (SRCH-01) — v1.2
-- ✓ **Internationalisierung IT/ES/BG/UK/RU** — v1.2 (⚠ BG/UK/RU gaps handled out-of-band)
+- ✓ **Internationalisierung IT/ES/BG/UK/RU** — v1.2
+- ✓ **Markdown Editor** (EDIT-01) — v1.3
+- ✓ **Offline-First PWA** — v1.4
+- ✓ **QA-Modus-Split** — v1.5
+- ✓ **Developer Experience & VSCode Extension** — v1.6
+- ✓ **Key Locales (EN, RU) 100% Completion** — v1.7
+- ✓ **Polyglot 100% Completion (48 Zielsprachen, 0 Fallbacks)** — v1.8 (v1.8.3)
+- ✓ **Autonomous Healer Pipeline & Multi-Arch Container** — v1.8 (v1.8.3)
 
 ### Active
 
-- [ ] **Markdown Editor** (EDIT-01): VitePress-aware Split-Pane Editor mit Container-Syntax-Support.
-- [ ] **I18n ES/LA/RM/TA** (I18N-06): Setup und Übersetzung für Spanisch, Latein, Rätoromanisch, Tamil.
-- [ ] **Scholarly Polish** (POLISH-01): Bildunterschriften-Standardisierung und Lizenz-Audit.
+- [ ] **Static Embedding Pipeline** (SRCH-02): Vektorisierung aller Markdown-Lektionen während des VitePress-Builds.
+- [ ] **Client-side Semantic Search** (SRCH-03): Semantisches Matching im Browser via Web Worker.
+- [ ] **WebGPU LLM Answer Generation** (RAG-01): On-Device RAG-Antwortgenerierung mit Gemma 2B IT.
+- [ ] **Provider-Pattern & Model Management** (RAG-02): Hybrid-Architektur (WebGPU / OpenRouter API) mit Opt-In Caching.
 
 ### Key Decisions & Constraints
 

@@ -1,4 +1,4 @@
-# Project Roadmap - Milestone v1.6
+# Project Roadmap
 
 ## Milestones
 
@@ -7,8 +7,11 @@
 - ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
 - ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
 - ✅ **v1.4 Offline-First PWA** — Phasen 18-21 (shipped 2026-06-15)
-- ✅ **v1.5 QA-Authoring-Split & UAT** — Phase 22 (shipped 2026-07-10)
-- 🚧 **v1.6 Developer Experience / Extension** — Phase 23 (In Progress)
+- ✅ **v1.5 QA-Authoring-Split & UAT** — Phase 22 (shipped 2026-06-30)
+- ✅ **v1.6 Developer Experience / Extension** — Phase 23 (shipped 2026-07-15)
+- ✅ **v1.7 Key Locales 100% Completion & UI Polish** — (shipped 2026-08-22)
+- ✅ **v1.8 Polyglot 100% Completion (48 Languages) & Autonomous Healing** — (shipped 2026-09-10, Release v1.8.3)
+- 📅 **v2.0 WebGPU KI-Suche (Semantic RAG)** — Phasen 24-27 (Planned)
 
 
 ## Phasen
@@ -241,29 +244,89 @@ Vollständige Übersetzung und Integration der thailändischen und neugriechisch
 
 </details>
 
+<details open>
+<summary>📋 v1.7 Key Locales 100% Completion & UI Polish ✅</summary>
+
+### Phase 23c: Key Locales (EN, RU) 100% Completion
+Fokus auf 100% Vollständigkeit und Ausmerzung jeglicher Fallbacks für zentrale Zielsprachen.
+- [x] Vollständige Übersetzung aller 136 Lektionen/Übungen/Schriften für Englisch (`en`) und Russisch (`ru`).
+- [x] Write-Lock / Totalbremse für abgeschlossene Zielsprachen.
+- [x] Typografische Sanierung (Devanāgarī aufrecht, Signalrot-Tagging entwirrt).
+
+**Status**: Complete (2026-08-22)
+
+</details>
+
+<details open>
+<summary>📋 v1.8 Polyglot 100% Completion & Autonomous Healing (Release v1.8.3) ✅</summary>
+
+### Phase 23d: Polyglot 100% Completion across 48 Target Locales
+- [x] **100% Completion Milestone (0 Fallbacks)**: Alle 48 Zielsprachen erreichen 140/140 bereinigte Dateien (6.860 Lektionen/Übungen/Wortlisten).
+- [x] **Estonian (`et`) & isiZulu (`zu`) Integration**: Vollständige Lokalisierung, Übersetzung und Einbindung beider neuer Sprachen.
+- [x] **Ge'ez (`gez`) & Bulgarian (`bg`) Restoration**: Ethiopic- und Cyrillic-Skriptintegrität repariert und verifiziert.
+- [x] **Scope Optimization**: Entfernung nicht mehr weitergeführter antiker/dialektaler Corpora (`cop`, `akk`, `arc`, `gsw`).
+- [x] **Autonomous Multi-Worker Healer Pipeline**: `scripts/autonomous_healer.py` mit Forward/Reverse Worker-Pools und nativer `is_file_fallback` Lingua-Prüfung.
+- [x] **Build & CI Skalierung**: Swap- (32 GB) und Heap-Tuning (`--max-old-space-size=32768`) in CI & Multi-Platform Docker Build für alle 6.979 Seiten.
+- [x] **Release & Packaging**: Multi-Arch Images (`linux/amd64`, `linux/arm64`) auf `ghcr.io/birchville-org/sanskritkurs-payer:v1.8.3` publiziert.
+
+**Status**: Complete (2026-09-10)
+
+</details>
+
+<details open>
+<summary>📋 v2.0 WebGPU KI-Suche (Semantic RAG) — Phasen 24-27 📅</summary>
+
+### Phase 24: Static Embedding Pipeline (Build-Time)
+Fokus auf die Vektorisierung aller Lektionen während des VitePress Builds.
+- [ ] **Plan 24.1**: Chunk-Extraktion (Grammar-Boxen/Sektionen) aus allen Markdown-Files konfigurieren.
+- [ ] **Plan 24.2**: Einbindung eines Node.js-basierten lokalen Embedding-Modells.
+- [ ] **Plan 24.3**: Erstellung und Caching des statischen `vector-index-[lang].json`.
+- **Erfolgskriterien**:
+    - Build erzeugt pro Sprache eine Vektor-Datei.
+    - Die Datei enthält Text-Chunks und korrespondierende Embeddings.
+
+### Phase 25: Client-side Semantic Search (Runtime)
+Fokus auf das semantische Matching der Nutzeranfrage im Client.
+- [ ] **Plan 25.1**: Neues Suchfeld "KI-Suche" (Toggle) in VitePress implementieren.
+- [ ] **Plan 25.2**: Laden des 25MB Embedding-Modells per Web Worker im Hintergrund.
+- [ ] **Plan 25.3**: Cosinus-Ähnlichkeits-Berechnung zum Finden der Top-3 Chunks aus dem Index.
+- **Erfolgskriterien**:
+    - Eine semantische Anfrage liefert die relevantesten Textstellen offline zurück.
+
+### Phase 26: WebGPU LLM Answer Generation (RAG) ⭐ PRIORITY
+Das Herzstück des Release: Live-Generierung der Antwort im Browser.
+- [ ] **Plan 26.1**: Integration von `@mlc-ai/web-llm` und Setup für Gemma 2B IT.
+- [ ] **Plan 26.2**: RAG-System-Prompt: Einspeisen der Top-3 Chunks in den Chat-Context.
+- [ ] **Plan 26.3**: UI-Streaming: Die Antwort wird im ChatGPT-Stil in die KI-Suche getippt.
+- [ ] **Plan 26.4**: Quellenverlinkung der genutzten Chunks.
+- **Erfolgskriterien**:
+    - Das LLM antwortet kohärent und zitiert die Lektionen.
+    - Vollständig lokal und offline.
+
+### Phase 27: Provider-Pattern & Model Management
+Verwaltung des Modell-Downloads und Fallback-Lösungen.
+- [ ] **Plan 27.1**: Implementierung des `AIService` (WebGPU vs. API Provider-Pattern).
+- [ ] **Plan 27.2**: Einbau eines OpenRouter-API-Fallbacks für nicht WebGPU-fähige Geräte.
+- [ ] **Plan 27.3**: Opt-In UX: Modal zum Herunterladen des Modells inkl. PWA Service-Worker-Caching-Logik.
+- **Erfolgskriterien**:
+    - Nutzer ohne GPU können die KI-Suche via API-Key nutzen.
+    - Modell wird nur nach expliziter Zustimmung gecacht.
+
+</details>
+
 ## Backlog
 
-### Release 1.7.1 Kandidaten
-- [ ] **AI-Warnung auf der Hauptseite:** Hinweis anbringen: "Achtung: Einzig die DE Version ist original von Prof. Payer. Alle anderen Sprachen sind so gut wie möglich automatisch übersetzt und nicht auf Qualität geprüft. Deshalb werden kompetente Lektoren und Kuratoren für alle Sprachen gesucht."
-
-### Quality & Content Cleanup (Phase 23-Kandidaten)
+### Quality & Content Cleanup
 
 - [x] **BG-Version beibehalten (Ausblendung storniert)** — Bulgarisch (`bg`) bleibt vollständig in der öffentlichen Navigation und in `DEFAULT_LOCALES` aktiv.
-
-- [x] **"Diese Übersicht ..."-Abschnitt entfernen** — Bereits erledigt; auf `grammatik.md` existieren keine Copy-Paste-Reste mehr.
-
-- [x] **Settings-Page: Nur gewählte Sprache auflisten** — Bereits erledigt; `PayerLanguageSettings.vue` trennt bereits sauber in „Aktive Sprachen“ und „Weitere Sprachen hinzufügen“.
-
-- [x] **Themen-Index aus Menubar entfernen** — Link "Themen-Index" aus der Top-Nav
-  (in allen Locales `nav[]`-Config) entfernen und stattdessen in der Sidebar unter
-  "Grammatik-Themen" platzieren (als Child-Item "Grammatik Index").
-  *Erledigt 2026-06-12* — umgesetzt als "Grammatik Index" direkt unter
-  "Grammatik Themen" in allen 14 Locales Nav-Bar + Sidebar.
+- [x] **"Diese Übersicht ..."-Abschnitt entfernen** — Auf `grammatik.md` existieren keine Copy-Paste-Reste mehr.
+- [x] **Settings-Page: Nur gewählte Sprache auflisten** — `PayerLanguageSettings.vue` trennt sauber in „Aktive Sprachen“ und „Weitere Sprachen hinzufügen“.
+- [x] **Themen-Index aus Menubar entfernen** — Link "Themen-Index" als "Grammatik Index" in der Sidebar platziert.
 
 ## Progress
 
 | Phase | Milestone | Plans | Status | Completed |
-|-------|-----------|-------|--------|-----------|
+|---|---|---|---|---|
 | 1-4 | v1.0 | 4/4 | Complete | 2026-04-14 |
 | 5-9 | v1.1 | 5/5 | Complete | 2026-04-19 |
 | 10 | v1.2 | 2/2 | Complete | 2026-04-26 |
@@ -279,3 +342,10 @@ Vollständige Übersetzung und Integration der thailändischen und neugriechisch
 | 20 | v1.4 | 6/6 | Complete | 2026-06-12 |
 | 21 | v1.4 | 4/4 | Complete | 2026-06-15 |
 | 22 | v1.5 | 6/6 | Complete | 2026-06-30 |
+| 23 | v1.6 | 2/2 | Complete | 2026-07-15 |
+| 23c | v1.7 | 1/1 | Complete | 2026-08-22 |
+| 23d | v1.8 | 7/7 | Complete | 2026-09-10 |
+| 24 | v2.0 | 0/3 | Planned | - |
+| 25 | v2.0 | 0/3 | Planned | - |
+| 26 | v2.0 | 0/4 | Planned | - |
+| 27 | v2.0 | 0/3 | Planned | - |
