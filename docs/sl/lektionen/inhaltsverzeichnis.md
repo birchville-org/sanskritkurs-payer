@@ -559,7 +559,7 @@ Wochenspruch
 
 ## [Lektion 43](lektion43)
 
-*   1\. Osebne končnice druge osebe (⟪मध्यमः⟩ = "srednja <oseba>")
+*   1\. Osebne končnice druge osebe (⟪मध्यमः⟩ = "srednja \<oseba\>")
 *   2\. Tvorba glagolskih oblik druge osebe (⟪मध्यमः⟩)
 *   2.1. Tematski koreni
 *   2.1.1. Prvi prezentski razred (⟪भ्वादि⟩)

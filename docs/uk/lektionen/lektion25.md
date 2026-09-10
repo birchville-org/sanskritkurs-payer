@@ -1,6 +1,6 @@
 ---
 title: "Урок 25"
-subtitle: "Утворення аблатива (⟪पञ्चमी⟫ = \\"п'ятий відмінок\\")"
+subtitle: "Утворення аблатива (⟪पञ्चमी⟫ = \"п'ятий відмінок\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"

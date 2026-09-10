@@ -559,7 +559,7 @@ Tjedna izreka
 
 ## [Lesson 43](lektion43)
 
-*   1\. Personal endings of the second person (⟪मध्यमः⟫ = "middle <Person>")
+*   1\. Personal endings of the second person (⟪मध्यमः⟫ = "middle \<Person\>")
 *   2\. Formation of verbal forms of the second person (⟪मध्यमः⟫)
 *   2.1. Thematic stems
 *   2.1.1. First present class (⟪भ्वादि⟫)

@@ -92,7 +92,7 @@ When code is pushed to `main`:
 6. **Quality Benchmark**: Executes `scripts/score_translation_quality.py` to compute Devanāgarī preservation ratios.
 7. **Auxiliary QA & Remnant Scan**: Executes `scripts/qa_german_remnants.py`.
 8. **Vector Indexing**: Runs `scripts/build_vector_index.py` against Ollama `nomic-embed-text` on Nataraja.
-9. **Vault Archiving**: Archives `.payer/tm/` to `/home/marco/payer_backups/tm_backup_<timestamp>.tar.gz`.
+9. **Vault Archiving**: Archives `.payer/tm/` to ``/home/marco/payer_backups/tm_backup_<timestamp>.tar.gz``.
 
 ### 4.3. Release Asset Pipeline (`deploy.yml`)
 When an official release tag (e.g. `v1.6.5`) is pushed:

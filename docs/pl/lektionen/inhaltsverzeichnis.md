@@ -559,7 +559,7 @@ Tygodniowe zdanie (Wochenspruch)
 
 ## [Lekcja 43](lektion43)
 
-*   1\. Końcówki osobowe drugiej osoby (⟪मध्यमः⟫ = "średnia <osoba>")
+*   1\. Końcówki osobowe drugiej osoby (⟪मध्यमः⟫ = "średnia \<osoba\>")
 *   2\. Tworzenie form czasownikowych drugiej osoby (⟪मध्यमः⟫)
 *   2.1. Rdzenie tematyczne
 *   2.1.1. Pierwsza klasa czasu teraźniejszego (⟪भ्वादि⟫)

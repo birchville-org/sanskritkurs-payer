@@ -1,6 +1,6 @@
 ---
 title: "Lektion 43"
-subtitle: 'Teise isiku (⟪मध्यमः⟫ = "keskmine <isik>") pöördelõpud'
+subtitle: 'Teise isiku (⟪मध्यमः⟫ = "keskmine \<isik\>") pöördelõpud'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"

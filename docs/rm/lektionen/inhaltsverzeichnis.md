@@ -559,7 +559,7 @@ Spruch da la emna
 
 ## [Lecziun 43](lektion43)
 
-*   1\. Desinenzas persunalas da la segunda persuna (⟪मध्यमः⟫ = "mezza <persuna>")
+*   1\. Desinenzas persunalas da la segunda persuna (⟪मध्यमः⟫ = "mezza \<persuna\>")
 *   2\. Furmaziun dals verbs da la segunda persuna (⟪मध्यमः⟫)
 *   2.1. Radis tematschas
 *   2.1.1. Emprima classa da presens (⟪भ्वादि⟫)

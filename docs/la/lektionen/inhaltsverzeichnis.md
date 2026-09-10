@@ -564,7 +564,7 @@ Sententia hebdomadis
 
 ## [Lectio 43](lektion43)
 
-*   1\. Desinentiae personales personae secundae (⟪मध्यमः⟩ = "media <Persona>")
+*   1\. Desinentiae personales personae secundae (⟪मध्यमः⟩ = "media \<Persona\>")
 *   2\. Formatio formarum verbalium personae secundae (⟪मध्यमः⟩)
 *   2.1. Radices tematicae
 *   2.1.1. Prima praesentis classis (⟪भ्वादि⟩)

@@ -559,7 +559,7 @@ Wochenspruch
 
 ## [Lektion 43](lektion43)
 
-*   1\. 2. isiku isikulõpud (⟪मध्यमः⟫ = "keskmine <isik>")
+*   1\. 2. isiku isikulõpud (⟪मध्यमः⟫ = "keskmine \<isik\>")
 *   2\. 2. isiku tegusõnavormide moodustamine (⟪मध्यमः⟫)
 *   2.1. Temaatilised tüved
 *   2.1.1. Esimene olevikuklass (⟪भ्वादि⟫)
