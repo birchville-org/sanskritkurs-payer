@@ -31,6 +31,7 @@ jobs:
       - name: Install Dependencies
         run: |
           npm install
+          pip install lingua-language-detector
 
       - name: Run Pre-Push & Integrity Checks
         run: |
