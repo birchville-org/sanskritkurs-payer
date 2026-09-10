@@ -26,10 +26,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Swap Space (14 GB)
+      - name: Set up Swap Space (28 GB)
         run: |
           sudo swapoff -a || true
-          sudo fallocate -l 14G /mnt/swapfile || sudo dd if=/dev/zero of=/mnt/swapfile bs=1M count=14336
+          sudo fallocate -l 28G /mnt/swapfile || sudo dd if=/dev/zero of=/mnt/swapfile bs=1M count=28672
           sudo chmod 600 /mnt/swapfile
           sudo mkswap /mnt/swapfile
           sudo swapon /mnt/swapfile
@@ -49,7 +49,8 @@ jobs:
       - name: Build VitePress (Public)
         run: |
           npm install
-          VITEPRESS_ENV=public npm run docs:build
+          NODE_OPTIONS="--max-old-space-size=16384" VITEPRESS_ENV=public npx vitepress build docs
+          node scripts/gen_locale_manifests.mjs
           mv docs/.vitepress/dist docs/.vitepress/dist-public
 
       - name: Set up QEMU
