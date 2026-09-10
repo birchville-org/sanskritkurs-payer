@@ -10,7 +10,7 @@ Overview of releases, new features, and technical optimizations in the Sanskritk
 
 ---
 
-## 🚀 Version 1.8.0 (September 2026)
+## 🚀 Version 1.8.1 (September 2026)
 
 **Focus:** *100% Completion Milestone across 48 Target Languages, Addition of Estonian & isiZulu, Autonomous Healing Architecture*
 
