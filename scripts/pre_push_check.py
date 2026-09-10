@@ -475,7 +475,7 @@ def check_licenses(files):
     return errors
 
 def check_release_version():
-    """Prüft ob die Version aus package.json in docs/index.md, docs/release-notes.md oder docs/settings.md eingetragen ist."""
+    """Prüft ob die Version aus package.json in allen docs/**/index.md und docs/**/settings.md sowie release-notes.md eingetragen ist."""
     import json
     pkg_path = ROOT / 'package.json'
     if not pkg_path.exists():
@@ -485,18 +485,34 @@ def check_release_version():
         version = pkg_data.get('version', '')
         if not version: return None
         
-        parts = version.split('.')
-        if len(parts) >= 2:
-            short_v = f"{parts[0]}.{parts[1]}"
-            found = False
-            for path in [ROOT / 'docs/index.md', ROOT / 'docs/release-notes.md', ROOT / 'docs/settings.md']:
-                if path.exists():
-                    txt = path.read_text('utf-8')
-                    if f"Version {version}" in txt or f"v{version}" in txt:
-                        found = True
-                        break
-            if not found:
-                return f"Version {version} fehlt in docs/index.md / release-notes.md (Release Notes nicht nachgetragen!)"
+        # 1. Check release notes
+        rel_notes = ROOT / 'docs/release-notes.md'
+        if rel_notes.exists():
+            txt = rel_notes.read_text('utf-8')
+            if f"Version {version}" not in txt and f"v{version}" not in txt:
+                return f"Version {version} fehlt in docs/release-notes.md (Release Notes nicht nachgetragen!)"
+                
+        # 2. Check all index.md and settings.md across all locales
+        ver_tag = f"v{version}"
+        outdated = []
+        for p in sorted(ROOT.glob('docs/**/index.md')):
+            if '.vitepress' in p.parts: continue
+            txt = p.read_text('utf-8')
+            if ver_tag not in txt:
+                outdated.append(str(p.relative_to(ROOT)))
+        for p in sorted(ROOT.glob('docs/**/settings.md')):
+            if '.vitepress' in p.parts: continue
+            txt = p.read_text('utf-8')
+            if ver_tag not in txt:
+                outdated.append(str(p.relative_to(ROOT)))
+                
+        if outdated:
+            if '--fix' in sys.argv:
+                from scripts.bump_version import main as sync_main
+                sync_main()
+            else:
+                sample = ', '.join(outdated[:3]) + (f' (+{len(outdated)-3} weitere)' if len(outdated) > 3 else '')
+                return f"Version {ver_tag} nicht synchronisiert in: {sample}. Bitte 'python3 scripts/bump_version.py' ausführen."
     except Exception as e:
         return f"Fehler beim Version-Check: {e}"
     return None

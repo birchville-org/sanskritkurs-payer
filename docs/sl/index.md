@@ -31,5 +31,5 @@ Jeziki so bili s pomočjo večstopenjskega AI kaskadnega sistema popolnoma avtom
 **Kontakt in sodelovanje**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Projekt Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **Uredniki**: Spletni urejevalnik na voljo prek [QA](/qa_viewer.html){target="_blank"} (samo za branje, pisanje zahteva prijavo)
-**Trenutna verzija**: v1.7.4
+**Trenutna verzija**: v1.8.3
 :::

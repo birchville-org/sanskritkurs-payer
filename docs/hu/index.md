@@ -31,5 +31,5 @@ A nyelveket egy többlépcsős AI-kaskád segítségével teljesen automatikusan
 **Kapcsolat & Közreműködés**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Projekt Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Jelenlegi verzió**: v1.7.0
+**Jelenlegi verzió**: v1.8.3
 :::

@@ -31,5 +31,5 @@ Kalbos buvo visiškai automatiškai išverstos iš vokiečių kalbos naudojant d
 **Kontaktai ir dalyvavimas**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Projekto wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **Redaktoriai**: Prieinamas internetinis redaktorius per [QA](https://payer.birchville.cc/qa_viewer.html) (Tik skaitymui, rašymas apsaugotas prisijungimu)
-**Dabartinė versija**: v1.7.4
+**Dabartinė versija**: v1.8.3
 :::

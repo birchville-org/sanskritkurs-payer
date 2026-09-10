@@ -31,5 +31,5 @@ features:
 **సంప్రదింపులు & పాల్గొనడం**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **గిట్‌హబ్**: [ప్రాజెక్టు వికీ](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **సంపాదకులు**: [QA](/qa_viewer.html){target="_blank"} ద్వారా ఆన్‌లైన్ సంపాదకుడు అందుబాటులో ఉంది (కేవలం చూడటానికి, రాయడానికి లాగిన్-రక్షిత)
-**ప్రస్తుత సంస్కరణ**: v1.7.4
+**ప్రస్తుత సంస్కరణ**: v1.8.3
 :::

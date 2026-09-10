@@ -31,5 +31,5 @@ Die tale is met behulp van 'n meertrappige KI-kaskade outomaties uit Duits verta
 **Kontak & Samewerking**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Projek-Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **Redigeerders**: Aanlyn-redigeerder beskikbaar via [QA](/qa_viewer.html){target="_blank"} (Slegs-lees, Skryf met wagwoord)
-**Huidige weergawe**: v1.7.4
+**Huidige weergawe**: v1.8.3
 :::

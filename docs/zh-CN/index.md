@@ -31,5 +31,5 @@ features:
 **联系与贡献**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**：[项目维基](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**当前版本**：v1.7.0
+**当前版本**：v1.8.3
 :::

@@ -31,5 +31,5 @@ features:
 **አግኙን እና አስተዋጽኦ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **የአርታዓቾች**: በ[QA](/qa_viewer.html){target="_blank"} በኩል የሚገኝ ኦንላይን አርታዒ (View-only, Write Login-protected)
-**የቅርብ ጊዜ ስሪት**: v1.7.4
+**የቅርብ ጊዜ ስሪት**: v1.8.3
 :::
