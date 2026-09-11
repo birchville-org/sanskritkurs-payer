@@ -47,7 +47,10 @@ jobs:
         run: |
           docker stop payer-staging sanskrit-kurs 2>/dev/null || true
           docker rm -f payer-staging sanskrit-kurs 2>/dev/null || true
-          docker run -d --name payer-staging --restart always -p 8080:80 -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro nginx:alpine || true
+          docker run -d --name payer-staging --restart always -p 8080:80 \
+            -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro \
+            -v $(pwd)/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
+            nginx:alpine || true
 
       - name: 2. Run Mobile Layout & Internal Link Audit
         run: |
