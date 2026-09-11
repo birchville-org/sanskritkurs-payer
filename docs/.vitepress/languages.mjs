@@ -6,9 +6,11 @@
 // - Nahuatl (nah), Quechua (qu): Indigenous languages with sparse training data in open LLMs.
 //   Generates frequent fallbacks to Spanish/English and lacks scientific precision for Sanskrit terminology.
 // - Coptic (cop): Extinct liturgical language with sparse digital training data. High hallucination and QA failure rate (>14h GPU time for 11% clean).
+// - Estonian (et): Finno-Ugric language with severe morphological failure and QA rejection rates in this domain (>32h GPU time).
+// - isiZulu (zu): Severe tokenizer penalty and low token throughput. Agglutinative nominal prefix morphology disrupts Sanskrit grammar structures.
 
 export const ACTIVE_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'am', 'gez', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is', 'et', 'zu'
+  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'am', 'gez', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is'
 ];
 
 export const DEFAULT_LOCALES = [];
@@ -49,7 +51,6 @@ export const LOCALE_FLAGS = {
   bg: '🇧🇬',
   tr: '🇹🇷',
   vi: '🇻🇳',
-  zu: '🇿🇦',
   pl: '🇵🇱',
   cs: '🇨🇿',
   sk: '🇸🇰',
@@ -61,8 +62,7 @@ export const LOCALE_FLAGS = {
   da: '🇩🇰',
   no: '🇳🇴',
   sv: '🇸🇪',
-  is: '🇮🇸',
-  et: '🇪🇪'
+  is: '🇮🇸'
 };
 
 export const LOCALE_NAMES = {
@@ -101,7 +101,6 @@ export const LOCALE_NAMES = {
   bg: '🇧🇬 Български',
   tr: '🇹🇷 Türkçe',
   vi: '🇻🇳 Tiếng Việt',
-  zu: '🇿🇦 isiZulu',
   pl: '🇵🇱 Polski',
   cs: '🇨🇿 Čeština',
   sk: '🇸🇰 Slovenčina',
@@ -113,8 +112,7 @@ export const LOCALE_NAMES = {
   da: '🇩🇰 Dansk',
   no: '🇳🇴 Norsk',
   sv: '🇸🇪 Svenska',
-  is: '🇮🇸 Íslenska',
-  et: '🇪🇪 Eesti'
+  is: '🇮🇸 Íslenska'
 };
 
 export const FOOTER_LABELS = {
@@ -153,7 +151,6 @@ export const FOOTER_LABELS = {
   zh: { prev: '上一課', exercise: '附加練習', next: '下一課' },
   tr: { prev: 'Önceki Ders', exercise: 'Ek Egzersiz', next: 'Sonraki Ders' },
   vi: { prev: 'Bài học trước', exercise: 'Bài tập bổ sung', next: 'Bài học tiếp theo' },
-  zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' },
   pl: { prev: 'Poprzednia lekcja', exercise: 'Dodatkowe ćwiczenie', next: 'Następna lekcja' },
   cs: { prev: 'Předchozí lekce', exercise: 'Doplňkové cvičení', next: 'Další lekce' },
   sk: { prev: 'Predchádzajúca lekcia', exercise: 'Doplnkové cvičenie', next: 'Ďalšia lekcia' },
@@ -161,10 +158,9 @@ export const FOOTER_LABELS = {
   ka: { prev: 'წინა გაკვეთილი', exercise: 'დამატებითი სავარჯიშო', next: 'შემდეგი გაკვეთილი' },
   hy: { prev: 'Նախորդ դասը', exercise: 'Լրացուցիչ վարժություն', next: 'Հաջորդ դասը' },
   si: { prev: 'පෙර පාඩම', exercise: 'අතිරේක ව්‍යායාම', next: 'ඊළඟ පාඩම' },
-  te: { prev: 'మునుపటి పాఠం', exercise: 'అదనపు వ్యాయామం', next: 'తదుపరి పాఠం' },
+  te: { prev: 'మునుපటి పాఠం', exercise: 'అదనపు వ్యాయామం', next: 'తదుపరి పాఠం' },
   da: { prev: 'Forrige lektion', exercise: 'Ekstra øvelse', next: 'Næste lektion' },
   no: { prev: 'Forrige leksjon', exercise: 'Ekstra øvelse', next: 'Neste leksjon' },
   sv: { prev: 'Föregående lektion', exercise: 'Extra övning', next: 'Nästa lektion' },
-  is: { prev: 'Fyrri kennslustund', exercise: 'Auka æfing', next: 'Næsta kennslustund' },
-  et: { prev: 'Eelmine õppetund', exercise: 'Lisaharjutus', next: 'Järgmine õppetund' }
+  is: { prev: 'Fyrri kennslustund', exercise: 'Auka æfing', next: 'Næsta kennslustund' }
 };

@@ -32,8 +32,8 @@ ROOT = Path(__file__).parent.parent
 LATIN_LANGS  = {
     'en', 'it', 'es', 'fr', 'la', 'rm', 'ro', 'de',
     'cs', 'pl', 'sl', 'sk', 'da', 'nl', 'af', 'sv',
-    'no', 'is', 'fi', 'et', 'hu', 'lt', 'sh', 'sq',
-    'pt', 'vi', 'id', 'zu'
+    'no', 'is', 'fi', 'hu', 'lt', 'sh', 'sq',
+    'pt', 'vi', 'id'
 }
 # Sprachen mit kyrillischer Schrift
 CYRILLIC_LANGS = {'bg', 'ru', 'uk'}

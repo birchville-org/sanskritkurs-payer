@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: Global & Polyglot
-    details: Vollständig verfügbar in 48 Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade (keine Qualitätskontrolle!).
+    details: Vollständig verfügbar in 46 Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade (keine Qualitätskontrolle!).
   - title: Offline-First PWA
     details: Der gesamte Kurs (inklusive lokaler Suchmaschine) ist ohne aktive Internetverbindung auf allen Endgeräten nutzbar.
   - title: Scholarly Typography

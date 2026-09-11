@@ -38,12 +38,10 @@ import { sq } from './locales/sq.mjs'
 import { pt } from './locales/pt.mjs'
 import { tr } from './locales/tr.mjs'
 import { vi } from './locales/vi.mjs'
-import { zu } from './locales/zu.mjs'
 import { da } from './locales/da.mjs'
 import { no } from './locales/no.mjs'
 import { sv } from './locales/sv.mjs'
 import { is } from './locales/is.mjs'
-import { et } from './locales/et.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
@@ -93,16 +91,14 @@ populateSidebar(pt, 'Lição', 'pt', 'Escrita', 'Exercício');
 populateSidebar(bg, 'Урок', 'bg', 'Писмо', 'Упражнение');
 populateSidebar(tr, 'Ders', 'tr', 'Yazı', 'Egzersiz');
 populateSidebar(vi, 'Bài học', 'vi', 'Chữ viết', 'Bài tập');
-populateSidebar(zu, 'Isifundo', 'zu', 'Ukubhala', 'Ukuzivocavoca');
 populateSidebar(da, 'Lektion', 'da', 'Skrift', 'Øvelse');
 populateSidebar(no, 'Leksjon', 'no', 'Skrift', 'Øvelse');
 populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
 populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
-populateSidebar(et, 'Õppetund', 'et', 'Kiri', 'Harjutus');
 
 
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, et, zu
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
@@ -164,9 +160,7 @@ export default defineConfig({
     da: { ...da },
     no: { ...no },
     sv: { ...sv },
-    is: { ...is },
-    et: { ...et },
-    zu: { ...zu }
+    is: { ...is }
   },
   
   themeConfig: {
