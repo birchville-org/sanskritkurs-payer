@@ -121,7 +121,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | כוח, איבר חוש | [24](/he/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | כאילו, כמו (בהשוואות: = "אדם כמו נמר", "גבר השווה לנמר" | [15](/he/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | לרצות | [11](/he/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : לשלוח | [42](/he/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | לשלוח | [42](/he/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | לרצות (iṣ-ccha-ti) | [11](/he/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | רצון (iṣ + -ti) | [11](/he/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | כאן, בעולם הזה | [19](/he/lektionen/lektion19#_19-3-) |
@@ -227,8 +227,8 @@ outline: 2
 | ⟪केवलम्⟫ | केवलम् | — | רק, בלבד, במלואו | [41](/he/lektionen/lektion41#_41-3-) |
 | ⟪कोविद⟫ | कोविद | 3 | מומחה ב־ () | [52](/he/lektionen/lektion52#_52-7-) |
 | ⟪कौशिक⟫ | कौशिक | — | ינשוף | [51](/he/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : צעדים, ללכת | [35](/he/lektionen/lektion35#_35-4-) |
-| ⟪क्रा⟫ | פּפּ | — | sig[] | [35](/he/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P צעדים, ללכת | [35](/he/lektionen/lektion35#_35-4-) |
+| ⟪क्रा⟫ | פּפּ | — | | [35](/he/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | פעולה, מעשה קדוש, טקס הקרבה, טקס (ל- 8) | [20](/he/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | क्री | 9U | לקנות | [30](/he/lektionen/lektion30#_30-6-) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | לכעוס | [7](/he/lektionen/lektion07#_7-6-) |
@@ -283,7 +283,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | — | תפיסה, תופס, תנין, כוכב משנה | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | תפיסה | [24](/he/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/he/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : לתפוס, לאחוז, להחזיק | [46](/he/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : לתפוס, לאחוז, להחזיק | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | כפר | [10](/he/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | להרגיש חוסר רצון, לדעוך | [36](/he/lektionen/lektion36#_36-4-) |
@@ -294,7 +294,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | רצח | [17](/he/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | חמאה מסוכרת, ג'י ( / گھی / ঘী) | [33](/he/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : להריח משהו | [36](/he/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | להריח משהו | [36](/he/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -423,12 +423,12 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("מה שקבוע", כלומר) צדק, חוק, מנהג, אופי | [11](/he/lektionen/lektion11#_11-2-) |
 | ⟪धर्म⟫ | धर्म | — | השגת זכות על ידי מעשה הראוי למי שצריך, או לפחות הימנעות מרע, שיכול לנבוע מאי-קיום הדימה' | [19](/he/lektionen/lektion19#_19-3-) |
 | ⟪धर्म⟫ | धर्म | — | זה שמהווה יציבות ומחזיק מעמד = דַרְמָה | [25](/he/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | धा | 3U | sig[]: להגדיר, לקבוע, לחלק | [33](/he/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | תחילת | — | sig[] | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | धा | 3U | להגדיר, לקבוע, לחלק | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | תחילת | — | | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | דגן טחון | [25](/he/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | פיעל | — | sig[] | [33](/he/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | עתיד | — | sig[] | [33](/he/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | סביל | — | sig[] | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | פיעל | — | | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | עתיד | — | | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | סביל | — | | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | יציב, איתן, מתמיד, נחוש | [52](/he/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | להחזיק, לאחוז | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | פָּרָה (חָלָב) | [3](/he/lektionen/lektion03#_3-6-) |
@@ -592,7 +592,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | תָּחָתִי, עֶבֶד | [28](/he/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | קריאת פנייה, למשל: היי, הו, אוי, שלום, הי! לעיתים קרובות לא ניתן לתרגם. לחלקיק זה יש סנדהי מיוחד: לפני כל הצלילים הצלילי | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | — | הנפילה | [46](/he/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : להסתובב, להדור | [46](/he/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | להסתובב, להדור | [46](/he/lektionen/lektion46#_46-2-) |
 
 ## म
 
@@ -656,7 +656,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | אם | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | אם גם, אפילו אם, למרות | [30](/he/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | אם כך הוא, בנסיבות אלו | [30](/he/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : להחזיק, לשאת; להעניק, לתת; לחבר יחד, לבלום, לרתק, להכניע | [44](/he/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | להחזיק, לשאת; להעניק, לתת; לחבר יחד, לבלום, לרתק, להכניע | [44](/he/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | ללכת, לנסוע | [44](/he/lektionen/lektion44#_44-5-) |
 | ⟪यान⟫ | यान | n | הליכה, דרך, כלי רכב | [44](/he/lektionen/lektion44#_44-5-) |
 | ⟪याम⟫ | याम | m | משמרת לילה (כל אחת שלוש שעות) | [52](/he/lektionen/lektion52#_52-7-) |
@@ -676,7 +676,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | סוד, בדידות | [50](/he/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | — | צבע (אדום), תשוקה, אהבה | [5](/he/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | राग | m | גם: צבע, צבע אדום | [51](/he/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | — | מלך (לגבי המלוכה בהודו ראו באשמ, פלא עמ' 82 -94). כסוף של קומפוזיציה (במיוחד ) לרוב: -:sig[] ז. (כמו ) | [38](/he/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | — | מלך (לגבי המלוכה בהודו ראו באשמ, פלא עמ' 82 -94). כסוף של קומפוזיציה (במיוחד ) לרוב: -ז. (כמו ) | [38](/he/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | राज्ञी | — | מלכה, אשת מלך | [38](/he/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | राज्य | 3 | מלכותי; נ. ממלכה, מלוכה, שלטון | [38](/he/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | להיפגע, להיכשל, להרוס | [50](/he/lektionen/lektion50#_50-2-) |
@@ -703,7 +703,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | למרוח, לסיים | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | f | מריחה, כתיבה, כתב | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | — | בדיחה, משחק | [42](/he/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : לשבור, להרוס | [50](/he/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | לשבור, להרוס | [50](/he/lektionen/lektion50#_50-2-) |
 | ⟪लोकयिष्यति⟫ | लोकयिष्यति | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪लोकित⟫ | लोकित | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪लोक्य⟫ | लोक्य | — | br | [32](/he/lektionen/lektion32#_32-5-) |
@@ -733,7 +733,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | צבע, מעמד לידה (שאפה) | [2](/he/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | צבע, מין, מעמד | [5](/he/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | גשם, עונת הגשמים, שנה | [25](/he/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], ציווי 2.sg.: :sig[] : לרצות, לצוות, לחפץ ב־ | [52](/he/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , ציווי 2.sg.: לרצות, לצוות, לחפץ ב־ | [52](/he/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("מאיר" =) אביב (מרץ עד מאי) | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | עתיד: | — | br PPP: :br אינפיניטיב | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | עושר, אוצר, רכוש, קניין | [27](/he/lektionen/lektion27#_27-5-) |
@@ -822,7 +822,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | — | ילד, גור | [49](/he/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | להשאיר, להותיר | [51](/he/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | 3 | להכשיר = תלמיד | [41](/he/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | לשכב. שורש זה מציג בכל צורות גזע הנוכחי דרגה גבוהה: 1.sg.Ind.Präs.Ā :sig[] (śe + e). יש לשים לב במיוחד לצורות הבאות: 3.p | [44](/he/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | לשכב. שורש זה מציג בכל צורות גזע הנוכחי דרגה גבוהה: 1.sg.Ind.Präs.Ā (śe + e). יש לשים לב במיוחד לצורות הבאות: 3.p | [44](/he/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | מהיר, במהירות | [43](/he/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | מנהג, הרגל, טבע, אופי, הרגל טוב = מוסר | [52](/he/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | תוכי | [8](/he/lektionen/lektion08#_8-5-) |
@@ -841,7 +841,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/he/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : להתאמץ, להתייגע | [46](/he/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | להתאמץ, להתייגע | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/he/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/he/lektionen/lektion32#_32-5-) |
@@ -862,11 +862,11 @@ outline: 2
 | ⟪सकाश⟫ | सकाश | — | נוכחות, הימצאות | [42](/he/lektionen/lektion42#_42-2-) |
 | ⟪सङ्ग⟫ | सङ्ग | m | הצמדה, מגע עם () | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (ל-- : להכות יחד): קבוצה, המון, קהילה (למשל בודהיסטית) | [41](/he/lektionen/lektion41#_41-3-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : להצמיד, להידבק אל () | [46](/he/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | להצמיד, להידבק אל () | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | אמת | [10](/he/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | מהיר, ממהר | [43](/he/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | לשבת, להתיישב | [20](/he/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : להתיישב | [46](/he/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | להתיישב | [46](/he/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  נצחי, בלתי נשכח, יציב | [30](/he/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | שווה, ממש, דומה (עם אמצעי) | [18](/he/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | שווה, בדיוק, דומה | [46](/he/lektionen/lektion46#_46-2-) |
@@ -938,7 +938,7 @@ outline: 2
 | ⟪हस्तिन्⟫ | हस्तिन् | — | פיל (_Elephas maximus_) | [38](/he/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | עזב | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪हि⟫ | हि | — | אכן, כן כלומר (אסור להופיע בתחילת משפט) | [19](/he/lektionen/lektion19#_19-3-) |
-| ⟪हित⟫ | שם פעולה | — | sig[] (!!) | [33](/he/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | שם פעולה | — | (!!) | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | हिरण्य | — | זהב ; שם נ': זהב, כסף, עושר | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | נטוש, חסר, לקוי | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | הרכב החסר (של הבודהיזם): כינוי בזוי על ידי נציגי "הרכב הגדול", ; הדרך החסרה ( ל- 2: ללכת, לנסוע). הביטוי אינו צריך עוד ל | [33](/he/lektionen/lektion33#_33-6-) |

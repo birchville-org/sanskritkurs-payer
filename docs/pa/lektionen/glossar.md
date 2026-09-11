@@ -128,7 +128,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | ਸ਼ਕਤੀ, ਇੰਦਰੀ | [24](/pa/lektionen/lektion24#_24-4--) |
 | ⟪इव⟫ | इव | — | ਜਿਵੇਂ, ਕਿਸੇ ਤਰ੍ਹਾਂ (ਤੁਲਨਾ ਵਿੱਚ: = "ਇੱਕ ਮਰਦ ਜਿਵੇਂ ਬਾਘ", "ਬਾਘ ਵਰਗਾ ਮਰਦ" | [15](/pa/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ਚਾਹੁਣਾ | [11](/pa/lektionen/lektion11#_11-2--) |
-| ⟪इष्⟫ | इष् | — | sig[] : ਭੇਜਣਾ | [42](/pa/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ਭੇਜਣਾ | [42](/pa/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ਚਾਹੁਣਾ (iṣ-ccha-ti)। | [11](/pa/lektionen/lektion11#_11-2--) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | ਇੱਛਾ (iṣ + -ti) | [11](/pa/lektionen/lektion11#_11-2--) |
 | ⟪इह⟫ | इह | Adv | ਇੱਥੇ, ਧਰਤੀ 'ਤੇ ਇੱਥੇ, ਇੱਥੇ ਤੱਕ ; ਹੁਣ. ਲੋਕੇਟਿਵ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ਣਾਂ () ਤੋਂ ਪਹਿਲਾਂ , ਦੇ ਸਮਾਨਾਰਥੀ | [50](/pa/lektionen/lektion50#_50-2-) |
@@ -240,7 +240,7 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | ਮਾਹਰ ( ) ਵਿੱਚ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | कौमर | n | ਬਚਪਨ | [48](/pa/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | कौशिक | — | ਉਲਕਾ | [51](/pa/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : ਚੱਲਣਾ, ਜਾਣਾ | [35](/pa/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P ਚੱਲਣਾ, ਜਾਣਾ | [35](/pa/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | ਕਾਰਜ, ਪਵਿੱਤਰ ਕਾਰਜ, ਬਲੀਦਾਨ ਕਾਰਜ, ਰਸਮ ( 8 ਲਈ) | [20](/pa/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | क्री | 9U | ਖਰੀਦੋ | [30](/pa/lektionen/lektion30#_30-6-) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | ਕ੍ਰੋਧਿਤ ਹੋਣਾ | [7](/pa/lektionen/lektion07#_7-6--) |
@@ -287,7 +287,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | ਖਾਣਾ, ਭੋਜਨ ਕਰਨਾ | [29](/pa/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | ग्रह | m | ਫੜਨਾ, ਫੜਨ ਵਾਲਾ, ਮੱਘਰ, ਚਲਦਾ ਤਾਰਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | ਫੜਨਾ | [24](/pa/lektionen/lektion24#_24-4--) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : ਫੜਨਾ, ਫੜਨਾ, ਫੜਨਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : ਫੜਨਾ, ਫੜਨਾ, ਫੜਨਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | ਪਿੰਡ | [10](/pa/lektionen/lektion10#_10-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | ਅਸੰਤੁਸ਼ਟਤਾ ਮਹਿਸੂਸ ਕਰਨਾ, ਖਤਮ ਹੋਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
 
@@ -297,7 +297,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | ਹਤਿਆ | [17](/pa/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | ਮੱਖਣ ਦਾ ਘੀ, ਘੀ ( / گھی / ঘী) | [33](/pa/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : ਕੁਝ ਸੁੰਘਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | ਕੁਝ ਸੁੰਘਣਾ | [36](/pa/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -430,7 +430,7 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | ("ਜੋ ਟਿਕਿਆ ਰਹੇ", ਅਰਥਾਤ) ਨਿਆਂ, ਕਾਨੂੰਨ, ਰਿਵਾਜ਼, ਸੁਭਾਅ। | [11](/pa/lektionen/lektion11#_11-2--) |
 | ⟪धर्म⟫ | धर्म | — | ਜੋ ਮਜ਼ਬੂਤ ਹੈ ਅਤੇ ਮਜ਼ਬੂਤ ਰੱਖਦਾ ਹੈ = ਧਰਮ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | ਕਾਨੂੰਨ ਅਤੇ ਰਵਾਇਤ ਬਾਰੇ ਸੂਤਰ (ਸਹੀ ਵਿਵਹਾਰ) | [3](/pa/lektionen/lektion03#_3-6--) |
-| ⟪धा⟫ | धा | 3U | sig[]: ਰੱਖਣਾ, ਨਿਰਧਾਰਤ ਕਰਨਾ, ਵੰਡਣਾ | [33](/pa/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | धा | 3U | ਰੱਖਣਾ, ਨਿਰਧਾਰਤ ਕਰਨਾ, ਵੰਡਣਾ | [33](/pa/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | ਧੁਣਿਆਂ ਹੋਇਆਂ ਅਨਾਜ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪धीर⟫ | धीर | 3 | ਮਜ਼ਬੂਤ, ਸਥਿਰ, ਲਗਾਤਾਰ, ਦ੍ਰਿੜ੍ਹ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | ਫੜ੍ਹਨਾ, ਮਜ਼ਬੂਤੀ ਨਾਲ ਫੜ੍ਹਨਾ | [25](/pa/lektionen/lektion25#_25-5-) |
@@ -616,7 +616,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | ਅਧੀਨ ਕਰਮਚਾਰੀ, ਸੇਵਕ | [28](/pa/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | ਸੰਬੋਧਨ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਵਾਜ਼, ਉਦਾਹਰਣ: ਹੇ, ਹੇਡਾ, ਓ, ਏ, ਹੈਲੋ, ਹਾਈ! ਅਕਸਰ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ. ਇਸ ਕਣ ਦਾ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸੰਧੀ ਹੈ: | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | ਛੁੱਟਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : ਭਟਕਣਾ, ਭਟਕਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | ਭਟਕਣਾ, ਭਟਕਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | — | ਭਰਾ | [42](/pa/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -688,7 +688,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | ਜੇਕਰ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | ਭਾਵੇਂ, ਭਾਵੇਂ, ਹਾਲਾਂਕਿ | [30](/pa/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | ਜੇਕਰ ਇਸ ਤਰ੍ਹਾਂ ਹੈ, ਇਨ੍ਹਾਂ ਹਾਲਤਾਂ ਵਿੱਚ | [30](/pa/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : ਰੱਖਣਾ, ਚੁੱਕਣਾ ; ਦੇਣਾ, ਪ੍ਰਦਾਨ ਕਰਨਾ ; ਇਕੱਠਾ ਰੱਖਣਾ, ਦਬਾਉਣਾ, ਰੋਕਣਾ, ਜਿੱਤਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | ਰੱਖਣਾ, ਚੁੱਕਣਾ ; ਦੇਣਾ, ਪ੍ਰਦਾਨ ਕਰਨਾ ; ਇਕੱਠਾ ਰੱਖਣਾ, ਦਬਾਉਣਾ, ਰੋਕਣਾ, ਜਿੱਤਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | ਜਾਣਾ, ਚਲਣਾ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | — | ਪਤੀ ਦੇ ਭਰਾ ਦੀ ਪਤਨੀ | [42](/pa/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | ਜਾਣਾ, ਰਸਤਾ, ਵਾਹਨ | [44](/pa/lektionen/lektion44#_44-5-) |
@@ -711,7 +711,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | ਰਹੱਸ, ਅਕੇਲਾਪਨ | [50](/pa/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | ਰਾਗ | — | (ਲਾਲ) ਰੰਗ, ਲਾਭ, ਪਿਆਰ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | राग | m | ਰੰਗ, ਲਾਲ ਰੰਗ | [51](/pa/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ ) ਆਮ ਤੌਰ 'ਤੇ: -:sig[] (ਜਿ | [38](/pa/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | m | ਰਾਜਾ (ਭਾਰਤ ਵਿੱਚ ਰਾਜਤੰਤਰ ਬਾਰੇ ਦੇਖੋ ਬਾਸ਼ਮ, ਅਦਭੁਤ ਸ. 82 -94). ਕੋਮਪੋਸ਼ਿਅਮ ਦੇ ਅੰਤ ਵਿੱਚ (ਖਾਸ ਤੌਰ 'ਤੇ ) ਆਮ ਤੌਰ 'ਤੇ: -(ਜਿ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | राज्ञी | f | ਰਾਣੀ, ਰਾਜੇ ਦੀ ਪਤਨੀ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | राज्य | 3 | ਰਾਜਕੀ; ਰਾਜ, ਰਾਜਤੰਤਰ, ਸ਼ਾਸਨ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | ਨੁਕਸਾਨ ਪਹੁੰਚਣਾ, ਅਸਫਲ ਹੋਣਾ, ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣਾ | [50](/pa/lektionen/lektion50#_50-2-) |
@@ -736,7 +736,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | ਲੇਪਣਾ, ਮਲਣਾ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | — | ਲੇਪਣਾ, ਲਿਖਣਾ, ਲਿਖਤ | [25](/pa/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | — | ਹਾਸਾ, ਖੇਡ | [42](/pa/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : ਟੁੱਟਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [50](/pa/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | ਟੁੱਟਣਾ, ਨਸ਼ਟ ਕਰਨਾ | [50](/pa/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | ਲੋਭ | — | ਲਾਲਚ, ਹਿਰਸ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪लौल्य⟫ | लौल्य | n | ਲਾਲਸਾ, ਕਾਮਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 
@@ -761,7 +761,7 @@ outline: 2
 | ⟪वर्ण⟫ | ਵਰਣ | m | ਰੰਗ, ਜਨਮ ਵਰਗ (ਪ੍ਰਵਿਰਤੀ)। | [2](/pa/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | ਵਰਣ | — | ਰੰਗ, ਜਾਤਿ, ਵਰਣ। | [5](/pa/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | — | ਮੀਂਹ, ਮੀਂਹ ਦਾ ਮੌਸਮ, ਸਾਲ | [25](/pa/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], ਅਪੇਤ. 2.ਸਿੰ.: :sig[]: ਚਾਹੁਣਾ, ਹੁਕਮ ਕਰਨਾ, ਲਾਲਸਾ ਕਰਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , ਅਪੇਤ. 2.ਸਿੰ.: ਚਾਹੁਣਾ, ਹੁਕਮ ਕਰਨਾ, ਲਾਲਸਾ ਕਰਨਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("ਚਮਕਦਾ" =) ਵਸੰਤ (ਮਾਰਚ ਤੋਂ ਮਈ ਤੱਕ) | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | ਅਮੀਰੀ, ਖਜ਼ਾਨਾ, ਸੰਪਤੀ, ਮਾਲਕੀ | [27](/pa/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | वस् | 1P | ਰਹਿਣਾ, ਵਸਣਾ (ਉਸ ਵਿਅਕਤੀ ਦੇ ਲੋਕਤਵ ਵਿੱਚ, ਜਿੱਥੇ ਤੁਸੀਂ ਵਸਦੇ ਹੋ) | [27](/pa/lektionen/lektion27#_27-5-) |
@@ -851,7 +851,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | ਬੱਚਾ, ਨਵਾਂ ਜੀਵ | [49](/pa/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | ਛੱਡ ਦਿੱਤਾ, ਬਾਕੀ ਛੱਡਣਾ | [51](/pa/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | 3 | ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲਾ = ਵਿਦਿਆਰਥੀ | [41](/pa/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | ਪੈਣਾ ਇਹ ਧਾਤੂ ਸਾਰੇ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਸ਼ਬਦਮੰਡਲ ਵਿੱਚ ਉੱਚ ਸਥਿਤੀ: 1.ਇਕ.ਸੰ.ਵਰਤਮਾਨ.Ā :sig[] (śe + e) ਹੈ ਹੇਠ ਲਿਖੇ ਰੂਪ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤ | [44](/pa/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | ਪੈਣਾ ਇਹ ਧਾਤੂ ਸਾਰੇ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਸ਼ਬਦਮੰਡਲ ਵਿੱਚ ਉੱਚ ਸਥਿਤੀ: 1.ਇਕ.ਸੰ.ਵਰਤਮਾਨ.Ā (śe + e) ਹੈ ਹੇਠ ਲਿਖੇ ਰੂਪ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤ | [44](/pa/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | n | ਰਿਵਾਜ, ਅਦਾ, ਕੁਦਰਤ, ਸੁਭਾਅ, ਚੰਗੀ ਅਦਾ = ਨੈਤਿਕਤਾ | [52](/pa/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | ਤੋਤਾ | [8](/pa/lektionen/lektion08#_8-5--) |
@@ -868,7 +868,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | ਦੁੱਖ, ਗਮ | [38](/pa/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | शोभन | 3 | ਚਮਕਦਾਰ, ਸ਼ਾਨਦਾਰ, ਭਵ્ય, ਸੁੰਦਰ, ਚੰਗਾ | [18](/pa/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | n | ਸ਼ੁੱਧੀ, ਪਵਿਤਰਤਾ | [16](/pa/lektionen/lektion16#_16-2--) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : ਥੱਕਣਾ, ਥੱਕ ਜਾਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | ਥੱਕਣਾ, ਥੱਕ ਜਾਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | ਟਿਕਣਾ, ਟਿਕਾਉਣਾ, ਸਹਾਰਾ ਪ੍ਰਾਪਤ ਕਰਨਾ, ਕਿਸੇ ਕੋਲ ਜਾਣਾ (, ) | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | ਸੁਣਨਾ (ਕਿਸੇ ਚੀਜ਼ ਦਾ: ਅਕੂਜੈਟਿਵ, ਕਿਸੇ ਵਿਅਕਤੀ ਦਾ: ਜਨੇਟਿਵ ਜਾਂ ਅਕੂਜੈਟਿਵ; ਬਾਰੇ: ਅਕੂਜੈਟਿਵ; ਕਿਸੇ ਵਿਅਕਤੀ ਤੋਂ: ਜਨੇਟਿਵ, ਐਬਲੇਟਿਵ, ਇੰ | [7](/pa/lektionen/lektion07#_7-6--) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | ਸੁਣਨਾ, ਆਦਿ-ਪਰੰਪਰਾ (ਵੇਦਾਂ ਅਤੇ ਬ੍ਰਹਮਣਾਂ ਦਾ ਨਾਂ)। | [3](/pa/lektionen/lektion03#_3-6--) |
@@ -891,11 +891,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | ਚਿਪਕਣਾ, ਸੰਪਰਕ () | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | — | (- ਸ਼ਬਦ ਤੋਂ: ਇਕੱਠੇ-ਮਾਰਨਾ): ਟੋਲੀ, ਭੀੜ, ਸੰਗਠਨ (ਜਿਵੇਂ ਬੌਧਿਕ) | [41](/pa/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | ਲਟਕਣਾ, ਚਿਪਕਣਾ | [48](/pa/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : ਚਿਪਕਣਾ, ਚਿਪਕਣਾ () | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | ਚਿਪਕਣਾ, ਚਿਪਕਣਾ () | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | ਸੱਚਾਈ | [10](/pa/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | ਤੇਜ਼, ਜਲਦੀ | [43](/pa/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | ਬੈਠਣਾ, ਆਰਾਮ ਕਰਨਾ | [20](/pa/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : ਹੇਠਾਂ ਬੈਠਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | ਹੇਠਾਂ ਬੈਠਣਾ | [46](/pa/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  ਸਦੀਵੀ, ਅਮਰ, ਸਥਿਰ | [30](/pa/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | ਬਰਾਬਰ, ਸਮਾਨ, ਸਮਾਨ (ਉਪਕਰਣ ਵਿਭਕਤੀ ਨਾਲ) | [18](/pa/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | ਬਰਾਬਰ, ਠੀਕ, ਸਮਾਨ | [46](/pa/lektionen/lektion46#_46-2-) |

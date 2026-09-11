@@ -995,7 +995,7 @@ Jūsų linki Alois Payer
 
 Ofterdingenas, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 SANSKRITO KURSO GALAS
 

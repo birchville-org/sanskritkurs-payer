@@ -2489,7 +2489,7 @@ Gambar: ⟪दानम्⟫
 Gbr.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Sumber gambar: [Details](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: menetapkan, menentukan, membagikan
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: menetapkan, menentukan, membagikan
 
 ::: indent
 **Waktu akan datang** :sig[⟪धास्यति⟫]  

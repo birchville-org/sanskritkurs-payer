@@ -242,7 +242,7 @@ Legenda: ⟪दानम्⟫
 Legenda: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Fonte da imagem: [Detalhes](/pt/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: colocar, fixar, distribuir
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: colocar, fixar, distribuir
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

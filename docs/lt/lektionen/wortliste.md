@@ -3120,7 +3120,7 @@ Fig.: ⟪सा पुत्रमादाय भारं बिभ्रत�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: set, fix, allot
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: set, fix, allot
 
 ::: indent
 

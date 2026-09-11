@@ -2121,7 +2121,7 @@ de cela :
 
 ⟪ज्ञाति⟫ m. : (parent par) sang (les parents sont ceux que l'on connaît !)
 
-⟪ज्ञान⟫ n. : connaissance, savoir,认知 (surtout des vérités "supérieures" en religion et philosophie)
+⟪ज्ञान⟫ n. : connaissance, savoir (surtout des vérités "supérieures" en religion et philosophie)
 :::
 ::: media
 ![](/images/lekt3002.webp)
@@ -2501,7 +2501,7 @@ Lég. : ⟪दानम्⟫
 Lég. : ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Source de l’image : [Détails](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫] : fixer, établir, attribuer
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫] : fixer, établir, attribuer
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]
@@ -4733,7 +4733,7 @@ Lég. : ⟪प्रधानः मुंबई⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m. : Groupe de trois (par ex. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; ou : ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; ou : ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Impér. 2.sg. : sig[⟪उड्ढि⟫] : vouloir, ordonner, désirer ardemment
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Impér. 2.sg. : :sig[⟪उड्ढि⟫] : vouloir, ordonner, désirer ardemment
 
 ::: indent
 Perf. V ⟪उवाश⟫, ⟪ऊशुर्⟫

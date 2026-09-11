@@ -117,7 +117,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | voima, aistinelin | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪इव⟫ | इव | — | ikään kuin, kuten (vertauksissa: = "mies kuin tiikeri", "tiikerimainen mies" | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | toivoa | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
-| ⟪इष्⟫ | इष् | — | sig[] : lähettää | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
+| ⟪इष्⟫ | इष् | — | lähettää | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | toivoa (iṣ-ccha-ti) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | toive (iṣ + -ti) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪इह⟫ | इह | Adv | täällä, täällä maan päällä, tänne ; nyt. Substantiivien edellä lokatiivissa () merkitys sama kuin  | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
@@ -219,7 +219,7 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | kokenut ( ) | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪कौमर⟫ | कौमर | n | lapsuus | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪कौशिक⟫ | कौशिक | m | pöllö | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : astua, kävellä | [35](/fi/lektionen/lektion35#_35-4-sanalista) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P astua, kävellä | [35](/fi/lektionen/lektion35#_35-4-sanalista) |
 | ⟪क्रिया⟫ | क्रिया | f | toiminta, pyhä toiminta, uhritoiminta, seremonia (sanasta 8) | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪क्री⟫ | क्री | 9U | ostaa | [30](/fi/lektionen/lektion30#_30-6-sanalista) |
 | ⟪क्रूर⟫ | क्रूर | 3 | karkea, julma | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
@@ -261,7 +261,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | syödä, ahmia | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪ग्रह⟫ | ग्रह | m | tarttua, tarttuja, krokotiili, vaeltava tähti | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪ग्रहण⟫ | ग्रहण | n | tarttuminen | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | kylä | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪ग्लै⟫ | ग्लै | 1P | tunna vastenmielisyyttä, haihtua | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 
@@ -270,7 +270,7 @@ outline: 2
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | tappaminen | [17](/fi/lektionen/lektion17#_17-6-sanalista) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : haista jotakin | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
+| ⟪घ्रा⟫ | घ्रा | 1P | haista jotakin | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 
 ## च
 
@@ -397,11 +397,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("se, mikä on kiinteää", ts.) oikeus, laki, tapa, luonne | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪धर्म⟫ | धर्म | m | se, mikä on vakaata ja pitää kiinni = Dharma | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | opit oikeudesta ja tavasta (oikea käytös) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪धान्य⟫ | धान्य | n | kuorittu vilja | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪धीर⟫ | धीर | 3 | vakaa, sitkeä, jatkuva, pitkäjänteinen | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪धृ⟫ | धृ | 1U | pitää, pitelemällä | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (maito-)lehmä | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
@@ -565,7 +565,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | alempi virkamies, palvelija | [28](/fi/lektionen/lektion28#_28-10-sanalista) |
 | ⟪भोस्⟫ | भोस् | — | huudahdus puhuttelussa, esim.: hei, heda, oh, ei, hallo, hi! usein käännettävissä. Tällä partikkelilla on erityinen sand | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪भ्रंश⟫ | भ्रंश | m | putoaminen, katoaminen | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : vaeltaa, kulkea ympäri | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | vaeltaa, kulkea ympäri | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | veli | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 
 ## म
@@ -654,7 +654,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | Geheimnis, Einsamkeit | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (punainen) väri, intohimo, rakkaus | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪राग⟫ | राग | m | myös: väri, punainen väri | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
-| ⟪राजन्⟫ | राजन् | m | Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ) yleensä: -:sig[] | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
+| ⟪राजन्⟫ | राजन् | m | Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ) yleensä: -| [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪राज्ञी⟫ | राज्ञी | f | Drottning, kuninkaan vaimo | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪राज्य⟫ | राज्य | 3 | kuninkaallinen; n. kuningaskunta, kunta, valtakunta | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪रिष्⟫ | रिष् | 1P | geschädigt werden, misslingen, beschädigen | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
@@ -701,7 +701,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Väri, syntyperäinen luokka (pyrkimys) | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Väri, suku, yhteiskuntaluokka | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪वर्ष⟫ | वर्ष | n | sade, sadesävy, vuosi | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : tahtoa, käskyttää, vaatia | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: tahtoa, käskyttää, vaatia | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪वसन्त⟫ | वसन्त | m | ("loistava" =) kevät (maaliskuu–toukokuu) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
 | ⟪वसु⟫ | वसु | n | rikkaus, aarre, omaisuus, varallisuus | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
@@ -790,7 +790,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | lapsi, pentu | [49](/fi/lektionen/lektion49#_49-4-sanalista) |
 | ⟪शिष्⟫ | शिष् | 7P | jättää, jättää jäljelle | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪शिष्य⟫ | शिष्य | 3 | opetettava = oppilas | [41](/fi/lektionen/lektion41#_41-3-sanalista) |
-| ⟪शी⟫ | शी | 2Ā | maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa korkean asteen: 1.sg.Ind.Prees.Ā :sig[] (śe + e). | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
+| ⟪शी⟫ | शी | 2Ā | maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa korkean asteen: 1.sg.Ind.Prees.Ā (śe + e). | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | nopea, kiireinen | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪शील⟫ | शील | n | tapa, tottumus, luonto, karakteri, hyvä tottumus = moraali | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪शुचि⟫ | शुचि | 3 | loistava, kirkas, hienostunut; m.: puhtaus | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
@@ -804,7 +804,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | suru, murhe | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪शोभन⟫ | शोभन | 3 | loistava, upea, kaunis, hyvä | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪शौच⟫ | शौच | n | puhdistus, puhtaus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[]: vaivata itseään, väsyä | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪श्रम्⟫ | श्रम् | 4P | vaivata itseään, väsyä | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪श्रि⟫ | श्रि | 1U | nojata, nojautua, löytää tukea, hakeutua jonkun luo (, ) | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | kuuntelu, ikuinen perinne (Vedojen ja Brāhmaṇa-kirjojen nimitys) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | rikas kauppias | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -826,11 +826,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | kiinnittäminen jhk, kosketus () | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (zu - : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen) | [41](/fi/lektionen/lektion41#_41-3-sanalista) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | riippua, tarttua | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : liittää, kiinnittyä jhk () | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | liittää, kiinnittyä jhk () | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | totuus | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪सत्वर⟫ | सत्वर | 3 | nopea, kiireinen | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪सद्⟫ | सद् | — | istua, asettua | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
-| ⟪सद्⟫ | सद् | — | sig[] : laskeutua istumaan | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪सद्⟫ | सद् | — | laskeutua istumaan | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪सनातन⟫ | सनातन | — |  ikuinen, kuolematon, pysyvä | [30](/fi/lektionen/lektion30#_30-6-sanalista) |
 | ⟪सम⟫ | सम | 3 | sama, yhtä kuin, samankaltainen (instrumentaalin kanssa) | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪सम⟫ | सम | 3 | yhtä, juuri, samankaltainen | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
@@ -900,7 +900,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | käsi | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elefantti (_Elephas maximus_) | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪हा⟫ | हा | 3P | jättää | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪हिरण्य⟫ | हिरण्य | — | kultainen; n.: kulta, raha, rikkaus | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | jätetty, puutteellinen | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪हीनयान⟫ | हीनयान | n | puutteellinen ajoneuvo (buddhalaisuus): halventava nimitys "suuren ajoneuvon" edustajilta, ⟪महायान⟩; puutteellinen tie ( | [33](/fi/lektionen/lektion33#_33-6-sanalista) |

@@ -3120,7 +3120,7 @@ Legenda: ⟪सा पुत्रमादाय भारं बिभ्र�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: estabelecer, fixar, distribuir
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: estabelecer, fixar, distribuir
 
 ::: indent
 

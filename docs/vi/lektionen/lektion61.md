@@ -988,7 +988,7 @@ Lời chúc từ Alois Payer của bạn
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 KẾT THÚC KHÓA HỌC TIẾNG SANSKRIT
 

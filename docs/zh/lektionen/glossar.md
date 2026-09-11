@@ -54,7 +54,7 @@ outline: 2
 | ⟪इ एति ईयते इत⟫ | [i](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=i&filter=roman&accent=no&transLit=roman) | — | īyate, 過去被動分詞 ita ：走 | [13](/zh/lektionen/lektion13#_13-9-) |
 | ⟪इत्थम्⟫ | इत्थम् | Adv | 以這種方式，如此 | [43](/zh/lektionen/lektion43#_43-4-) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | 力量、感官 | [24](/zh/lektionen/lektion24#_24-4-) |
-| ⟪इष्⟫ | इष् | — | sig[] ：派遣 | [42](/zh/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ：派遣 | [42](/zh/lektionen/lektion42#_42-2-) |
 
 ## ई
 
@@ -116,7 +116,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : 行走，前進 | [35](/zh/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P 行走，前進 | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | 憤怒 | [7](/zh/lektionen/lektion07#_7-6-) |
@@ -150,14 +150,14 @@ outline: 2
 | ⟪गृह्यते⟫ | गृह्यते | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | 抓取 | [24](/zh/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : 抓住，握住，觸及 | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : 抓住，握住，觸及 | [46](/zh/lektionen/lektion46#_46-2-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 
 ## घ
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪घ्रा⟫ | घ्रा | — | sig[] ：聞，嗅 | [36](/zh/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | — | ：聞，嗅 | [36](/zh/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -230,7 +230,7 @@ outline: 2
 | ⟪नम्⟫ | नम् | — | 彎曲 | [20](/zh/lektionen/lektion20#_20-9-) |
 | ⟪नरक⟫ | [naraka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naraka&filter=roman&accent=no&transLit=roman) | m | 地獄（根據一種印度教觀點，宇宙呈蛋形（Brahmāṇḍa m.n. = = "梵天之蛋"）：地球之上是有著遞增幸福感的六重天界，地球之下是七層所謂的 pātāla n. = ，是 nāga m. = （蛇）及其他神話生物的居所，其下還有七層 | [7](/zh/lektionen/lektion07#_7-6-) |
 | ⟪नशिष्यति । नङ्क्ष्यति⟫ | नशिष्यति । नङ्क्ष्यति | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
-| ⟪नश्⟫ | नश् | — | sig[] ：消失，毀滅，消亡 | [35](/zh/lektionen/lektion35#_35-4-) |
+| ⟪नश्⟫ | नश् | — | ：消失，毀滅，消亡 | [35](/zh/lektionen/lektion35#_35-4-) |
 | ⟪नाग⟫ | [nāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāga&filter=roman&accent=no&transLit=roman) | m | 裸體者、大象、蛇（大象和蛇都沒有皮毛，就像「無毛的猴子」人類一樣） | [8](/zh/lektionen/lektion08#_8-5-) |
 | ⟪नाभि⟫ | नाभि | f | 肚臍 | [20](/zh/lektionen/lektion20#_20-9-) |
 | ⟪नाशयति⟫ | नाशयति | — | br | [35](/zh/lektionen/lektion35#_35-4-) |
@@ -283,8 +283,8 @@ outline: 2
 | ⟪भुज्⟫ | भुज् | 7U | 享受（例如食物；「享受大地」= 統治大地） | [31](/zh/lektionen/lektion31#_31-2-) |
 | ⟪भू⟫ | भू | — | 包圍，征服，戰勝 | [46](/zh/lektionen/lektion46#_46-2-) |
 | ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | 成為，產生，存在 | [6](/zh/lektionen/lektion06#_6-7-) |
-| ⟪भोस्⟫ | भोस् | — | sig[]。 | [46](/zh/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | — | sig[] : 徘徊，漫遊 | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | भोस् | — | 。 | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | — | 徘徊，漫遊 | [46](/zh/lektionen/lektion46#_46-2-) |
 
 ## म
 
@@ -387,7 +387,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[]：辛勤工作、感到疲憊 | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | ：辛勤工作、感到疲憊 | [46](/zh/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/zh/lektionen/lektion32#_32-5-) |
@@ -401,8 +401,8 @@ outline: 2
 |---|---|---|---|---|
 | ⟪संख्या⟫ | संख्या | f | 計數、列舉； n.: 六種哲學體系之一（簡寫：Basham, Wonder S. 326f.） | [24](/zh/lektionen/lektion24#_24-4-) |
 | ⟪संपुट⟫ | संपुट | m | 罐子（此處：包裹，捆） | [43](/zh/lektionen/lektion43#_43-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[]：附著、粘貼在（） | [46](/zh/lektionen/lektion46#_46-2-) |
-| ⟪सद्⟫ | सद् | — | sig[] : 坐下 | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | ：附著、粘貼在（） | [46](/zh/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | 坐下 | [46](/zh/lektionen/lektion46#_46-2-) |
 | ⟪सम⟫ | सम | 3 | 相同，正是，相似 | [46](/zh/lektionen/lektion46#_46-2-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | 正確，好。 | [2](/zh/lektionen/lektion02#_2-5-) |
 | ⟪सारथि⟫ | [sārathi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sārathi&filter=roman&accent=no&transLit=roman) | m | 車夫、御者 | [8](/zh/lektionen/lektion08#_8-5-) |

@@ -122,7 +122,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/sh/lektionen/lektion24#_24-4-vocabulary-list) |
 | ⟪इव⟫ | इव | — | as if, like (in comparisons: = "a man like a tiger", "a tiger-like man" | [15](/sh/lektionen/lektion15#_15-8-word-list) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish | [11](/sh/lektionen/lektion11#_11-2-rjenik) |
-| ⟪इष्⟫ | इष् | — | sig[] : to send | [42](/sh/lektionen/lektion42#_42-2-word-list) |
+| ⟪इष्⟫ | इष् | — | to send | [42](/sh/lektionen/lektion42#_42-2-word-list) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish (iṣ-ccha-ti) | [11](/sh/lektionen/lektion11#_11-2-rjenik) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | wish (iṣ + -ti) | [11](/sh/lektionen/lektion11#_11-2-rjenik) |
 | ⟪इह⟫ | इह | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with , m: ordinance, custom, ritual; [World | [50](/sh/lektionen/lektion50#_50-2-word-list) |
@@ -235,7 +235,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/sh/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/sh/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/sh/lektionen/lektion35#_35-4-word-list) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : to stride, to go | [35](/sh/lektionen/lektion35#_35-4-word-list) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P to stride, to go | [35](/sh/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/sh/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/sh/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रिया⟫ | क्रिया | f | action, sacred action, sacrificial act, ceremony (to 8) | [20](/sh/lektionen/lektion20#_20-9-word-list) |
@@ -296,7 +296,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | grasping, gripper, crocodile, wandering star | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/sh/lektionen/lektion24#_24-4-vocabulary-list) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : to grasp, seize, hold | [46](/sh/lektionen/lektion46#_46-2-word-list) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : to grasp, seize, hold | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | village | [10](/sh/lektionen/lektion10#_10-5-vocabulary) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
 | ⟪ग्लै⟫ | ग्लै | 1P | to feel reluctance, to fade away | [36](/sh/lektionen/lektion36#_36-4-renik) |
@@ -306,7 +306,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪घृत⟫ | घृत | n | Clarified butter, Ghee ( / گھی / ঘী) | [33](/sh/lektionen/lektion33#_33-6-word-list) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : to smell something | [36](/sh/lektionen/lektion36#_36-4-renik) |
+| ⟪घ्रा⟫ | घ्रा | 1P | to smell something | [36](/sh/lektionen/lektion36#_36-4-renik) |
 
 ## च
 
@@ -435,11 +435,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("that which is firm", i.e.) right, law, custom, character | [11](/sh/lektionen/lektion11#_11-2-rjenik) |
 | ⟪धर्म⟫ | धर्म | m | that which is firm and holds fast = Dharma | [25](/sh/lektionen/lektion25#_25-5-word-list) |
 | ⟪धा⟫ | धा | — | to direct all attention towards something, to collect oneself | [33](/sh/lektionen/lektion33#_33-6-word-list) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/sh/lektionen/lektion33#_33-6-word-list) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/sh/lektionen/lektion33#_33-6-word-list) |
 | ⟪धान्य⟫ | धान्य | n | threshed grain | [25](/sh/lektionen/lektion25#_25-5-word-list) |
-| ⟪धापयति⟫ | Caus. | — | sig[] | [33](/sh/lektionen/lektion33#_33-6-word-list) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/sh/lektionen/lektion33#_33-6-word-list) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/sh/lektionen/lektion33#_33-6-word-list) |
+| ⟪धापयति⟫ | Caus. | — | | [33](/sh/lektionen/lektion33#_33-6-word-list) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/sh/lektionen/lektion33#_33-6-word-list) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/sh/lektionen/lektion33#_33-6-word-list) |
 | ⟪धीर⟫ | धीर | 3 | firm, steadfast, continuous, persistent | [52](/sh/lektionen/lektion52#_52-7-word-list) |
 | ⟪धृ⟫ | धृ | 1U | to hold, to keep firm | [25](/sh/lektionen/lektion25#_25-5-word-list) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (milch) cow | [3](/sh/lektionen/lektion03#_3-6-word-list) |
@@ -620,7 +620,7 @@ outline: 2
 | ⟪भृ⟫ | भृ | 3U | to carry, to bring; to sustain, to nourish | [33](/sh/lektionen/lektion33#_33-6-word-list) |
 | ⟪भृत्य⟫ | भृत्य | m | subordinate, servant | [28](/sh/lektionen/lektion28#_28-10-word-list) |
 | ⟪भ्रंश⟫ | भ्रंश | m | the falling away | [46](/sh/lektionen/lektion46#_46-2-word-list) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : to wander, to roam | [46](/sh/lektionen/lektion46#_46-2-word-list) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | to wander, to roam | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brother | [42](/sh/lektionen/lektion42#_42-2-word-list) |
 
 ## म
@@ -690,7 +690,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | if | [30](/sh/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪यद्यपि⟫ | यद्यपि | — | even if, although | [30](/sh/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | if so, under these circumstances | [30](/sh/lektionen/lektion30#_30-6-vocabulary-list) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/sh/lektionen/lektion44#_44-5-word-list) |
+| ⟪यम्⟫ | यम् | 1P | to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/sh/lektionen/lektion44#_44-5-word-list) |
 | ⟪या⟫ | या | 2P | to go, to travel | [44](/sh/lektionen/lektion44#_44-5-word-list) |
 | ⟪यातृ⟫ | यातृ | m | Wife of the husband's brother | [42](/sh/lektionen/lektion42#_42-2-word-list) |
 | ⟪यान⟫ | यान | n | going, path, vehicle | [44](/sh/lektionen/lektion44#_44-5-word-list) |
@@ -768,7 +768,7 @@ outline: 2
 | ⟪वर्ग⟫ | वर्ग | m | section, division, group | [52](/sh/lektionen/lektion52#_52-7-word-list) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | color, birth caste (aspiration) | [2](/sh/lektionen/lektion02#_2-5-vocabulary-list) |
 | ⟪वर्ष⟫ | वर्ष | n | rain, rainy season, year | [25](/sh/lektionen/lektion25#_25-5-word-list) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : to want, command, desire | [52](/sh/lektionen/lektion52#_52-7-word-list) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: to want, command, desire | [52](/sh/lektionen/lektion52#_52-7-word-list) |
 | ⟪वसन्त⟫ | वसन्त | m | ("shining" =) spring (March to May) | [27](/sh/lektionen/lektion27#_27-5-word-list) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/sh/lektionen/lektion27#_27-5-word-list) |
 | ⟪वसु⟫ | वसु | n | wealth, treasure, property, possession | [27](/sh/lektionen/lektion27#_27-5-word-list) |
@@ -854,7 +854,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | child, young one | [49](/sh/lektionen/lektion49#_49-4-word-list) |
 | ⟪शिष्⟫ | शिष् | 7P | to leave, to abandon | [51](/sh/lektionen/lektion51#_51-6-word-list) |
 | ⟪शिष्य⟫ | शिष्य | 3 | to be instructed = student | [41](/sh/lektionen/lektion41#_41-3-word-list) |
-| ⟪शी⟫ | शी | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā :sig[] (śe + e). The following forms are pa | [44](/sh/lektionen/lektion44#_44-5-word-list) |
+| ⟪शी⟫ | शी | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā (śe + e). The following forms are pa | [44](/sh/lektionen/lektion44#_44-5-word-list) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | fast, swift | [43](/sh/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪शील⟫ | शील | n | custom, habit, nature, character, good habit = morality | [52](/sh/lektionen/lektion52#_52-7-word-list) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | parrot | [8](/sh/lektionen/lektion08#_8-5-word-list) |
@@ -872,7 +872,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : to toil, to become tired | [46](/sh/lektionen/lektion46#_46-2-word-list) |
+| ⟪श्रम्⟫ | श्रम् | 4P | to toil, to become tired | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/sh/lektionen/lektion32#_32-5-word-list) |
@@ -897,7 +897,7 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | the attaching to, contact with () | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (to - : to strike together): group, crowd, community (e.g. Buddhist) | [41](/sh/lektionen/lektion41#_41-3-word-list) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | to hang, to adhere | [48](/sh/lektionen/lektion48#_48-4-word-list) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : to attach, to stick to () | [46](/sh/lektionen/lektion46#_46-2-word-list) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | to attach, to stick to () | [46](/sh/lektionen/lektion46#_46-2-word-list) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | truth | [10](/sh/lektionen/lektion10#_10-5-vocabulary) |
 | ⟪सत्वर⟫ | सत्वर | 3 | fast, hurried | [43](/sh/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪सद्⟫ | सद् | — | sit, settle down | [20](/sh/lektionen/lektion20#_20-9-word-list) |
@@ -968,7 +968,7 @@ outline: 2
 | ⟪हर्ष⟫ | हर्ष | m | (raising of the body hair), joy | [25](/sh/lektionen/lektion25#_25-5-word-list) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/sh/lektionen/lektion38#_38-9-word-list) |
 | ⟪हा⟫ | हा | 3P | to leave | [33](/sh/lektionen/lektion33#_33-6-word-list) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/sh/lektionen/lektion33#_33-6-word-list) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/sh/lektionen/lektion33#_33-6-word-list) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | golden ; n.: gold, money, wealth | [25](/sh/lektionen/lektion25#_25-5-word-list) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | left by, lacking, defective | [33](/sh/lektionen/lektion33#_33-6-word-list) |
 | ⟪हीनयान⟫ | हीनयान | n | the defective vehicle (of Buddhism): derogatory term used by representatives of the "Great Vehicle", i.e. ; the defectiv | [33](/sh/lektionen/lektion33#_33-6-word-list) |

@@ -74,7 +74,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪इन्द्र⟫ | इन्द्र | m | 王子，首要者，最佳者；众神之王因陀罗 | [15](/zh-CN/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | 力量，感官 | [24](/zh-CN/lektionen/lektion24#_24-4-) |
-| ⟪इष्⟫ | इष् | — | sig[] ：发送 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ：发送 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 
 ## उ
 
@@ -130,7 +130,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : 行走，步行 | [35](/zh-CN/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P 行走，步行 | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪क्री⟫ | क्री | 9U | 购买 | [30](/zh-CN/lektionen/lektion30#_30-6-) |
@@ -160,13 +160,13 @@ outline: 2
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | 沉重，重要，值得尊敬 | [2](/zh-CN/lektionen/lektion02#_2-5-) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | guru 的阴性形式。 | [3](/zh-CN/lektionen/lektion03#_3-6-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | 抓取 | [24](/zh-CN/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : 抓住，握住，接触 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : 抓住，握住，接触 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 
 ## घ
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪घ्रा⟫ | घ्रा | — | sig[]：闻 | [36](/zh-CN/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | — | ：闻 | [36](/zh-CN/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -232,11 +232,11 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪धातुम्⟫ | 不定式 | — | sig[] | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | 不定式 | — | | [33](/zh-CN/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | 脱粒的谷物 | [25](/zh-CN/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | 使役语态 | — | sig[] | [33](/zh-CN/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | 将来时 | — | sig[] | [33](/zh-CN/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | 被动语态 | — | sig[] | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | 使役语态 | — | | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | 将来时 | — | | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | 被动语态 | — | | [33](/zh-CN/lektionen/lektion33#_33-6-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | （母）牛。 | [3](/zh-CN/lektionen/lektion03#_3-6-) |
 | ⟪ध्यै⟫ | ध्यै | 1P | 想象，思考 | [49](/zh-CN/lektionen/lektion49#_49-4-) |
 
@@ -249,7 +249,7 @@ outline: 2
 | ⟪नप्तृ⟫ | नप्तृ | m | 孙子 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 | ⟪नरक⟫ | [naraka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naraka&filter=roman&accent=no&transLit=roman) | m | 地狱（根据一种印度教观点，宇宙的形状像一个蛋（Brahmāṇḍa m.n. = = “梵蛋”）：地球之上是有着递增幸福感的六个天堂，地球之下是七个所谓的 pātāla n. = ，即 nāga m. = （蛇）和其他神话生物居住地，其中包含 | [7](/zh-CN/lektionen/lektion07#_7-6-) |
 | ⟪नशिष्यति । नङ्क्ष्यति⟫ | नशिष्यति । नङ्क्ष्यति | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
-| ⟪नश्⟫ | नश् | — | sig[] ：消失，迷失，毁灭 | [35](/zh-CN/lektionen/lektion35#_35-4-) |
+| ⟪नश्⟫ | नश् | — | ：消失，迷失，毁灭 | [35](/zh-CN/lektionen/lektion35#_35-4-) |
 | ⟪नाग⟫ | [nāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāga&filter=roman&accent=no&transLit=roman) | m | 裸体者，大象，蛇（大象和蛇没有皮毛，正如“无毛的猴子”人类一样） | [8](/zh-CN/lektionen/lektion08#_8-5-) |
 | ⟪नाभि⟫ | नाभि | f | 肚脐 | [20](/zh-CN/lektionen/lektion20#_20-9-) |
 | ⟪नाशयति⟫ | नाशयति | — | br | [35](/zh-CN/lektionen/lektion35#_35-4-) |
@@ -322,8 +322,8 @@ outline: 2
 | ⟪भू⟫ | भू | 1P | 产生，存在 | [31](/zh-CN/lektionen/lektion31#_31-2-) |
 | ⟪भू⟫ | भू | — | 包围，征服，击败 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | 成为，产生，存在 | [6](/zh-CN/lektionen/lektion06#_6-7-) |
-| ⟪भोस्⟫ | भोस् | — | sig[]。 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | — | sig[] : 漫游，徘徊 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | भोस् | — | 。 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | — | 漫游，徘徊 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | 兄弟 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -368,7 +368,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪यज् यजति⟫ | [yaj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yaj&filter=roman&accent=no&transLit=roman) | — | 以祭祀敬奉，献祭 | [6](/zh-CN/lektionen/lektion06#_6-7-) |
 | ⟪यथा⟫ | यथा | Adv | 如何，仿佛 | [29](/zh-CN/lektionen/lektion29#_29-2-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] ：持有，携带；提供，给予；保持在一起，控制，勒住，征服 | [44](/zh-CN/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | ：持有，携带；提供，给予；保持在一起，控制，勒住，征服 | [44](/zh-CN/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | 丈夫的兄弟的妻子 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
 | ⟪युध् युध्यते⟫ | [yudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yudh&filter=roman&accent=no&transLit=roman) | — | 战斗 | [6](/zh-CN/lektionen/lektion06#_6-7-) |
 | ⟪योग⟫ | योग | m | 装配，连接，联合，获得；瑜伽 | [16](/zh-CN/lektionen/lektion16#_16-2-) |
@@ -381,7 +381,7 @@ outline: 2
 | ⟪रक्ष् रक्षति⟫ | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakṣ&filter=roman&accent=no&transLit=roman) | — | 守护 | [8](/zh-CN/lektionen/lektion08#_8-5-) |
 | ⟪रम्⟫ | रम् | 1Ā | 静止，停留，逗留；喜爱，享受乐趣 | [29](/zh-CN/lektionen/lektion29#_29-2-) |
 | ⟪राग⟫ | राग | m | 也指：颜色，红色 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | m | 国王（关于印度的王权，参见 Basham, Wonder 第 82-94 页）。作为复合词的最后一个组成部分（尤其是 ），通常意为：-:sig[] m.（如 ） | [38](/zh-CN/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | m | 国王（关于印度的王权，参见 Basham, Wonder 第 82-94 页）。作为复合词的最后一个组成部分（尤其是 ），通常意为：-m.（如 ） | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | 受损，失败，损坏 | [50](/zh-CN/lektionen/lektion50#_50-2-) |
 | ⟪रुत⟫ | रुत | n | 叫喊声 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 
@@ -395,7 +395,7 @@ outline: 2
 | ⟪लिख् लिखति⟫ | [likh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=likh&filter=roman&accent=no&transLit=roman) | — | 刻写，书写（最初是用尖笔在棕榈叶上刻写，后来泛指） | [8](/zh-CN/lektionen/lektion08#_8-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | f | 涂抹，书写，文字 | [25](/zh-CN/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | f | 玩笑，游戏 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : 破裂，破坏 | [50](/zh-CN/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | 破裂，破坏 | [50](/zh-CN/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | 贪婪，贪欲。 | [5](/zh-CN/lektionen/lektion05#_5-4-) |
 
 ## व
@@ -457,7 +457,7 @@ outline: 2
 | ⟪शास्त्रिन्⟫ | शास्त्रिन् | m | 博学的，学者 | [41](/zh-CN/lektionen/lektion41#_41-3-) |
 | ⟪शिक्षा⟫ | शिक्षा | f | 科学，教学；语音学 | [25](/zh-CN/lektionen/lektion25#_25-5-) |
 | ⟪शिवा⟫ | शिवा | f | （雌性）胡狼（金豺 = Canis aureus） | [51](/zh-CN/lektionen/lektion51#_51-6-) |
-| ⟪शी⟫ | शी | 2Ā | sig[] (śe + e)。需特别注意以下形式：3.pl.Ind.Präs.Ā :sig[], 3.pl.Imperf.Ā :sig[] | [44](/zh-CN/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | (śe + e)。需特别注意以下形式：3.pl.Ind.Präs.Ā , 3.pl.Imperf.Ā | [44](/zh-CN/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | 快，迅速 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | 鹦鹉 | [8](/zh-CN/lektionen/lektion08#_8-5-) |
 | ⟪शुचि⟫ | शुचि | 3 | 发光，闪耀，精致；m.: 纯洁 | [29](/zh-CN/lektionen/lektion29#_29-2-) |
@@ -469,7 +469,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | 悲伤，忧愁 | [38](/zh-CN/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | शोभन | 3 | 光辉，壮丽，辉煌，美丽，良好 | [18](/zh-CN/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | n | 净化，纯洁 | [16](/zh-CN/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : 费力，疲倦 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | 费力，疲倦 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | 倚靠，依靠，找到支撑，投靠某人（, ） | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | 听（某物：宾格，某人：属格或宾格；关于：宾格；从某人那里：属格、离格、工具格） | [7](/zh-CN/lektionen/lektion07#_7-6-) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | 富商 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
@@ -484,8 +484,8 @@ outline: 2
 | ⟪संख्या⟫ | संख्या | f | 计数，列举； n.：六个哲学体系之一（简参：Basham, Wonder S. 326f.） | [24](/zh-CN/lektionen/lektion24#_24-4-) |
 | ⟪संपुट⟫ | संपुट | m | 盒子（此处：包裹，捆） | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪सकाश⟫ | सकाश | m | 在场，存在 | [42](/zh-CN/lektionen/lektion42#_42-2-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : 附着，粘附于（） | [46](/zh-CN/lektionen/lektion46#_46-2-) |
-| ⟪सद्⟫ | सद् | — | sig[] : 坐下 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | 附着，粘附于（） | [46](/zh-CN/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | 坐下 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪सम⟫ | सम | 3 | gleich, eben, ähnlich (mit Instrumentalis) | [18](/zh-CN/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | 相同，同样，相似 | [46](/zh-CN/lektionen/lektion46#_46-2-) |
 | ⟪समाधि⟫ | समाधि | m | 内在集中，最高专注，冥想“入定” | [20](/zh-CN/lektionen/lektion20#_20-9-) |
@@ -528,7 +528,7 @@ outline: 2
 | ⟪हरि⟫ | हरि | 3 | 金色，黄色，绿色；m. Viṣṇu（毗湿奴）的别名（不属于词根 1） | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪हरिष्यति⟫ | 将来时： | — | br 被动语态： :br 过去被动分词： :br 不定式： | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪हरिहर⟫ | हरिहर | m | 毗湿奴与湿婆合一为一位神祇。 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
-| ⟪हित⟫ | PPP（过去被动分词） | — | sig[] (!!) | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | PPP（过去被动分词） | — | (!!) | [33](/zh-CN/lektionen/lektion33#_33-6-) |
 | ⟪हृ⟫ | हृ | 1U | 拿，持；取走，拿走，抢劫 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪हेतु⟫ | हेतु | m | 动力，动机，原因，理由；，， 接属格或作为复合词的后半部分 = “为了……，因为……” | [24](/zh-CN/lektionen/lektion24#_24-4-) |
 | ⟪ह्रस्व⟫ | ह्रस्व | 3 | 简短 | [49](/zh-CN/lektionen/lektion49#_49-4-) |

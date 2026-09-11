@@ -237,7 +237,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/ka/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/ka/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/ka/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : მოძრაობა, სიარული | [35](/ka/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P მოძრაობა, სიარული | [35](/ka/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/ka/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/ka/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | მოქმედება, წმიდა მოქმედება, მსხვერპლის მოქმედება, ცერემონია (შემდეგ: 8) | [20](/ka/lektionen/lektion20#_20-9-) |
@@ -299,7 +299,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | — | დაჭერა, მომჭერი, კროკოდარი, ცვალებადი ვარსკვლავი | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | დაჭერა | [24](/ka/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : დაუფლება, ჩაჭიდება, შეხება | [46](/ka/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : დაუფლება, ჩაჭიდება, შეხება | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | სოფელი | [10](/ka/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | უკმაყოფილება გამოხატა, გაქრა | [36](/ka/lektionen/lektion36#_36-4-) |
@@ -310,7 +310,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | მოკვლა | [17](/ka/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | გასუფთავებული კარაქი, გჰი ( / گھی / ঘী) | [33](/ka/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : რაღაც სუნს ატარებს | [36](/ka/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | რაღაც სუნს ატარებს | [36](/ka/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -440,11 +440,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | — | ის, რაც მყარია და მყარად იჭერს = დჰარმა | [25](/ka/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | სასწავლო ტექსტები კანონისა და ჩვეულების შესახებ (მართული ქცევა) | [3](/ka/lektionen/lektion03#_3-6-) |
 | ⟪धा⟫ | धा | — | ყურადღება რაიმეზე მიმართოს, შეკრიბოს | [33](/ka/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | ინფ. | — | sig[] | [33](/ka/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | ინფ. | — | | [33](/ka/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | გახეული მარცვლეული | [25](/ka/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | მიზეზ. | — | sig[] | [33](/ka/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | მომავ. | — | sig[] | [33](/ka/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | გამოხატ. | — | sig[] | [33](/ka/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | მიზეზ. | — | | [33](/ka/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | მომავ. | — | | [33](/ka/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | გამოხატ. | — | | [33](/ka/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | твърд, непоколебим, непрекъснат, упорит | [52](/ka/lektionen/lektion52#_52-7-wortliste) |
 | ⟪धृ⟫ | धृ | 1U | შეკავება, მყარად დაჭერა | [25](/ka/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (ძროხა) რძის ძროხა | [3](/ka/lektionen/lektion03#_3-6-) |
@@ -619,7 +619,7 @@ outline: 2
 | ⟪भृ⟫ | भृ | 3U | ატანა, მიტანა; შენარჩუნება, კვება | [33](/ka/lektionen/lektion33#_33-6-) |
 | ⟪भृत्य⟫ | भृत्य | m | ქვემდგომი, მოსამსახურე | [28](/ka/lektionen/lektion28#_28-10-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/ka/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : umherirren, umherstreifen | [46](/ka/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | umherirren, umherstreifen | [46](/ka/lektionen/lektion46#_46-2-) |
 
 ## म
 
@@ -683,7 +683,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | wenn | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | თუნდაც, მაშინაც კი, მიუხედავად იმისა, რომ | [30](/ka/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | თუ ასეა, ამ პირობებში | [30](/ka/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : держать, нести; предлагать, даровать; соединять вместе, укрощать, уздечку, побеждать | [44](/ka/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | держать, нести; предлагать, даровать; соединять вместе, укрощать, уздечку, побеждать | [44](/ka/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | წასვლა, მოგზაურობა | [44](/ka/lektionen/lektion44#_44-5-) |
 | ⟪यान⟫ | यान | n | движение, путь, транспортное средство | [44](/ka/lektionen/lektion44#_44-5-) |
 | ⟪याम⟫ | याम | m | нощна стража (всяка по три часа) | [52](/ka/lektionen/lektion52#_52-7-wortliste) |
@@ -761,7 +761,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ფერი, დაბადების სტანა (სწრაფვა) | [2](/ka/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ფერი, სახეობა, სტატუსი | [5](/ka/lektionen/lektion05#_5-4-wortliste) |
 | ⟪वर्ष⟫ | वर्ष | n | წვიმა, წვიმის სეზონი, წელი | [25](/ka/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : სურს, ბრძანებს, იტაცებს | [52](/ka/lektionen/lektion52#_52-7-wortliste) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: სურს, ბრძანებს, იტაცებს | [52](/ka/lektionen/lektion52#_52-7-wortliste) |
 | ⟪वसन्त⟫ | वसन्त | m | ("ნათელი" =) გაზაფხული (მარტიდან მაისამდე) | [27](/ka/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | მომავ. დრო: | — | br PPP: :br ინფ | [27](/ka/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | სიმდიდრე, сокровище, ქონება, საკუთრება | [27](/ka/lektionen/lektion27#_27-5-) |
@@ -849,7 +849,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | ბავშვი, ნაში | [49](/ka/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | verlassen, übriglassen | [51](/ka/lektionen/lektion51#_51-6-wortliste---516) |
 | ⟪शिष्य⟫ | शिष्य | 3 | სასწავლებელი = მოსწავლე | [41](/ka/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | лежать. Этот корень во всех формах настоящего времени имеет сильную степень: 1.lsg.Ind.Präs.Ā :sig[] (śe + e). Особого в | [44](/ka/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | лежать. Этот корень во всех формах настоящего времени имеет сильную степень: 1.lsg.Ind.Präs.Ā (śe + e). Особого в | [44](/ka/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | სწრაფი, მყისიერი | [43](/ka/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | ჩვეულება, ბიოგრაფია, ბუნება, ხასიათი, კარგი ჩვეულება = მოrali | [52](/ka/lektionen/lektion52#_52-7-wortliste) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | კაკაბი | [8](/ka/lektionen/lektion08#_8-5-) |
@@ -869,7 +869,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/ka/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/ka/lektionen/lektion32#_32-5-) |
@@ -892,11 +892,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (- -თან: ერთად-დაცემა): ჯგუფი, ბალახი, საზოგადოება (მაგ. ბუდისტური) | [41](/ka/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | — | ჩამოკიდება, მიბმა | [48](/ka/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/ka/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | სიმართლე | [10](/ka/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | სწრაფი, მოულოდნელი | [43](/ka/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | ჯდომა, დაჯდება | [20](/ka/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : sich niedersetzen | [46](/ka/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | sich niedersetzen | [46](/ka/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  მარადიული, უსაფუძვლო, მდგრადი | [30](/ka/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | ტოლი, ერთგვარი, მსგავსი (ინსტრუმენტალთან ერთად) | [18](/ka/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | ტოლი, იგივე, მსგავსი | [46](/ka/lektionen/lektion46#_46-2-) |
@@ -970,7 +970,7 @@ outline: 2
 | ⟪हर्ष⟫ | हर्ष | m | (წვერების აღმართვა), სიხარული | [25](/ka/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | हस्त | m | ხელი | [18](/ka/lektionen/lektion18#_18-4-) |
 | ⟪हा⟫ | हा | 3P | დატოვება | [33](/ka/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/ka/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/ka/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | ოქროსფერი ; n.: ოქრო, ფული, მდიდრობა | [25](/ka/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | დატოვებული, გამოკლებული, ნაკლოვანი | [33](/ka/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | ნაკლოვანი საფეხური (ბუდიზმის): შეურაცხყოფითი სახელწოდება „დიდი საფეხურის“ წარმომადგენლების მიერ, ; ნაკლოვანი გზა ( 2: სვ | [33](/ka/lektionen/lektion33#_33-6-) |

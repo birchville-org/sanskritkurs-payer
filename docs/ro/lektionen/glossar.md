@@ -112,7 +112,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | Prinț, Primul, Cel mai bun dintre ; Regele zeilor Indra | [15](/ro/lektionen/lektion15#_15-8-list-de-cuvinte) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | forță, organ senzorial | [24](/ro/lektionen/lektion24#_24-4-list-de-cuvinte) |
 | ⟪इव⟫ | इव | — | ca și cum, precum (în comparații: = "un om ca un tigru", "un om similar cu tigrul" | [15](/ro/lektionen/lektion15#_15-8-list-de-cuvinte) |
-| ⟪इष्⟫ | इष् | — | sig[] : a trimite | [42](/ro/lektionen/lektion42#_42-2-list-de-cuvinte) |
+| ⟪इष्⟫ | इष् | — | a trimite | [42](/ro/lektionen/lektion42#_42-2-list-de-cuvinte) |
 | ⟪इह⟫ | इह | — | aici, în această lume | [19](/ro/lektionen/lektion19#_19-3-list-de-cuvinte) |
 | ⟪इह⟫ | इह | Adv | aici, aici pe pământ, aici ; acum. Înaintea substantivelor în Locativ () sinonim cu  | [50](/ro/lektionen/lektion50#_50-2-list-de-cuvinte) |
 
@@ -162,7 +162,7 @@ outline: 2
 | ⟪एकत्र⟫ | एकत्र | Adv | într-un loc | [51](/ro/lektionen/lektion51#_51-6-list-de-cuvinte) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | subliniază cuvântul precedent | [13](/ro/lektionen/lektion13#_13-9-list-de-cuvinte) |
 | ⟪एव⟫ | एव | — | subliniază ceea ce a precedat, în germană corespunde adesea accentuării, un fel de emoticon \<!\>, ex. "doar adevărul în | [15](/ro/lektionen/lektion15#_15-8-list-de-cuvinte) |
-| ⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫ | एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत् | — | sig[] :sig[] :sig[] | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
+| ⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫ | एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत् | — | | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 
 ## ओ
 
@@ -214,8 +214,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | experimentat în () | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 | ⟪कौमर⟫ | कौमर | n | copilărie | [48](/ro/lektionen/lektion48#_48-4-list-de-cuvinte) |
 | ⟪कौशिक⟫ | कौशिक | m | bufniță | [51](/ro/lektionen/lektion51#_51-6-list-de-cuvinte) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : a merge, a merge înainte | [35](/ro/lektionen/lektion35#_35-4-list-de-cuvinte) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/ro/lektionen/lektion35#_35-4-list-de-cuvinte) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P a merge, a merge înainte | [35](/ro/lektionen/lektion35#_35-4-list-de-cuvinte) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/ro/lektionen/lektion35#_35-4-list-de-cuvinte) |
 | ⟪क्रिया⟫ | क्रिया | f | acțiune, acțiune sacră, ritual, ceremonie (la 8) | [20](/ro/lektionen/lektion20#_20-9-list-de-cuvinte) |
 | ⟪क्री⟫ | क्री | 9U | cumpăra | [30](/ro/lektionen/lektion30#_30-6-list-de-cuvinte) |
 | ⟪क्रूर⟫ | क्रूर | 3 | crud, crud, brutal | [51](/ro/lektionen/lektion51#_51-6-list-de-cuvinte) |
@@ -257,7 +257,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | a consuma, a mânca | [29](/ro/lektionen/lektion29#_29-2-list-de-cuvinte) |
 | ⟪ग्रह⟫ | ग्रह | m | prindere, cel care prinde, crocodil, planetă errantă | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪ग्रहण⟫ | ग्रहण | n | prindere | [24](/ro/lektionen/lektion24#_24-4-list-de-cuvinte) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : a prinde, a apuca, a cuprinde | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : a prinde, a apuca, a cuprinde | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | sat | [10](/ro/lektionen/lektion10#_10-5-list-de-cuvinte) |
 | ⟪ग्लै⟫ | ग्लै | 1P | a simți disconfort, a dispărea | [36](/ro/lektionen/lektion36#_36-4-list-de-cuvinte) |
 
@@ -267,7 +267,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | ucidere | [17](/ro/lektionen/lektion17#_17-6-glosar) |
 | ⟪घृत⟫ | घृत | n | unt topit, ghee ( / گھی / ঘী) | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : a mirosi ceva | [36](/ro/lektionen/lektion36#_36-4-list-de-cuvinte) |
+| ⟪घ्रा⟫ | घ्रा | 1P | a mirosi ceva | [36](/ro/lektionen/lektion36#_36-4-list-de-cuvinte) |
 
 ## च
 
@@ -392,12 +392,12 @@ outline: 2
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | m | ceea ce este ferm și ferm = Dharma | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | lucrări didactice despre drept și obicei (comportament corect) | [3](/ro/lektionen/lektion03#_3-6-list-de-cuvinte) |
-| ⟪धा⟫ | धा | 3U | sig[]: a așeza, a stabili, a distribui | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪धा⟫ | धा | 3U | a așeza, a stabili, a distribui | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
 | ⟪धान्य⟫ | धान्य | n | grâu batut | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
 | ⟪धीर⟫ | धीर | 3 | ferm, statornic, continuu, perseverent | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 | ⟪धृ⟫ | धृ | 1U | a ține, a reține | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | vacă (de lapte) | [3](/ro/lektionen/lektion03#_3-6-list-de-cuvinte) |
@@ -562,7 +562,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | subordonat, servitor | [28](/ro/lektionen/lektion28#_28-10-list-de-cuvinte) |
 | ⟪भोस्⟫ | भोस् | — | exclamație de adresare, ex.: he, heda, oh, ei, salut, hi! adesea nu se traduce. Această particulă are un sandhi special: | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪भ्रंश⟫ | भ्रंश | m | căderea în ablativ | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : a umbla, a vagabonda | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | a umbla, a vagabonda | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Frate | [42](/ro/lektionen/lektion42#_42-2-list-de-cuvinte) |
 
 ## म
@@ -630,7 +630,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | dacă | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪यद्यपि⟫ | यद्यपि | — | chiar dacă, deși, chiar și dacă | [30](/ro/lektionen/lektion30#_30-6-list-de-cuvinte) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | dacă este așa, în aceste circumstanțe | [30](/ro/lektionen/lektion30#_30-6-list-de-cuvinte) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : a ține, a purta ; a oferi, a acorda ; a menține împreună, a stăpâni, a frâna, a învinge | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
+| ⟪यम्⟫ | यम् | 1P | a ține, a purta ; a oferi, a acorda ; a menține împreună, a stăpâni, a frâna, a învinge | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
 | ⟪या⟫ | या | 2P | a merge, a călători | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
 | ⟪यातृ⟫ | यातृ | m | Soția fratelui soțului | [42](/ro/lektionen/lektion42#_42-2-list-de-cuvinte) |
 | ⟪यान⟫ | यान | n | mers, cale, vehicul | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
@@ -674,7 +674,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | a unsge, a unge | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪लिप्ति⟫ | लिप्ति | f | uns, scris, scrisoare | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪लीला⟫ | लीला | f | glumă, joc | [42](/ro/lektionen/lektion42#_42-2-list-de-cuvinte) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : a rupe, a distruge | [50](/ro/lektionen/lektion50#_50-2-list-de-cuvinte) |
+| ⟪लुप्⟫ | लुप् | 6U | a rupe, a distruge | [50](/ro/lektionen/lektion50#_50-2-list-de-cuvinte) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Lăcomie, avaritie | [5](/ro/lektionen/lektion05#_5-4-list-de-cuvinte) |
 | ⟪लौल्य⟫ | लौल्य | n | lăcomie, poftă | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 
@@ -698,7 +698,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Culoare, stare de naștere (tendință) | [2](/ro/lektionen/lektion02#_2-5-list-de-cuvinte) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Culoare, gen, stare socială | [5](/ro/lektionen/lektion05#_5-4-list-de-cuvinte) |
 | ⟪वर्ष⟫ | वर्ष | n | ploaie, sezonul ploilor, an | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : a vrea, a porunci, a dori | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: a vrea, a porunci, a dori | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 | ⟪वसन्त⟫ | वसन्त | m | ("strălucitor" =) primăvară (martie până în mai) | [27](/ro/lektionen/lektion27#_27-5-list-de-cuvinte) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/ro/lektionen/lektion27#_27-5-list-de-cuvinte) |
 | ⟪वसु⟫ | वसु | n | bogăție, comoară, avere, posesiune | [27](/ro/lektionen/lektion27#_27-5-list-de-cuvinte) |
@@ -753,7 +753,7 @@ outline: 2
 | ⟪वृद्धि⟫ | वृद्धि | f | creștere, dezvoltare, grad de extindere (din: vṛdh-ti) | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪वृध्⟫ | वृध् | 1Ā | a crește, a deveni mai mare | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪वृष्⟫ | वृष् | 1P | a ploua (de obicei cu un -- un zeu sau un nor) | [50](/ro/lektionen/lektion50#_50-2-list-de-cuvinte) |
-| ⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫ | वेदो ऽखिलो धर्ममूलम् स्मृतिशी | — | sig[] | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
+| ⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫ | वेदो ऽखिलो धर्ममूलम् स्मृतिशी | — | | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 | ⟪वेष⟫ | वेष | m | haină, aspect, înfățișare exterioară | [49](/ro/lektionen/lektion49#_49-4-list-de-cuvinte) |
 | ⟪वै⟫ | वै | — | particulă, care subliniază cuvântul anterior: cu adevărat, cu siguranță, dar | [50](/ro/lektionen/lektion50#_50-2-list-de-cuvinte) |
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | m | Vaișya (rang al agricultorilor și comercianților) | [2](/ro/lektionen/lektion02#_2-5-list-de-cuvinte) |
@@ -790,7 +790,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | copil, pui | [49](/ro/lektionen/lektion49#_49-4-list-de-cuvinte) |
 | ⟪शिष्⟫ | शिष् | 7P | a abandona, a lăsa în urmă | [51](/ro/lektionen/lektion51#_51-6-list-de-cuvinte) |
 | ⟪शिष्य⟫ | शिष्य | 3 | cel care trebuie învățat = elev | [41](/ro/lektionen/lektion41#_41-3-list-de-cuvinte) |
-| ⟪शी⟫ | शी | 2Ā | a se întinde. Această rădăcină are în toate formele bazei de prezent Gradul ridicat: 1.sg.Ind.Prez.Ā :sig[] (śe + e). Ur | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
+| ⟪शी⟫ | शी | 2Ā | a se întinde. Această rădăcină are în toate formele bazei de prezent Gradul ridicat: 1.sg.Ind.Prez.Ā (śe + e). Ur | [44](/ro/lektionen/lektion44#_44-5-list-de-cuvinte) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | rapid, repede | [43](/ro/lektionen/lektion43#_43-4-list-de-cuvinte) |
 | ⟪शील⟫ | शील | n | obicei, uzanță, natură, caracter, bună obișnuință = moralitate | [52](/ro/lektionen/lektion52#_52-7-list-de-cuvinte) |
 | ⟪शुचि⟫ | शुचि | 3 | strălucitor, lucios, fin; m. puritate | [29](/ro/lektionen/lektion29#_29-2-list-de-cuvinte) |
@@ -804,7 +804,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | Doliu, tristețe | [38](/ro/lektionen/lektion38#_38-9-list-de-cuvinte) |
 | ⟪शोभन⟫ | शोभन | 3 | strălucitor, magnific, splendid, frumos, bun | [18](/ro/lektionen/lektion18#_18-4-list-de-cuvinte) |
 | ⟪शौच⟫ | शौच | n | purificare, puritate | [16](/ro/lektionen/lektion16#_16-2-list-de-cuvinte) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : a se strădui, a obosi | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
+| ⟪श्रम्⟫ | श्रम् | 4P | a se strădui, a obosi | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪श्रि⟫ | श्रि | 1U | a se sprijini, a se reazema, a găsi sprijin, a merge la cineva (, ) | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | auzirea, tradiția veșnică (denumire pentru Vede și Brāhmaṇa) | [3](/ro/lektionen/lektion03#_3-6-list-de-cuvinte) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | 3 | rapid, grăbit | [43](/ro/lektionen/lektion43#_43-4-list-de-cuvinte) |
@@ -826,11 +826,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | atârnarea de, atingerea cu () | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (la - : a bate împreună): grup, mulțime, comunitate (de ex. budistă) | [41](/ro/lektionen/lektion41#_41-3-list-de-cuvinte) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | a atârna, a se atașa | [48](/ro/lektionen/lektion48#_48-4-list-de-cuvinte) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : a atârna, a se lipi de () | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | a atârna, a se lipi de () | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | adevăr | [10](/ro/lektionen/lektion10#_10-5-list-de-cuvinte) |
 | ⟪सत्वर⟫ | सत्वर | 3 | rapid, grăbit | [43](/ro/lektionen/lektion43#_43-4-list-de-cuvinte) |
 | ⟪सद्⟫ | सद् | — | șede, se așeza | [20](/ro/lektionen/lektion20#_20-9-list-de-cuvinte) |
-| ⟪सद्⟫ | सद् | — | sig[] : a se așeza jos | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
+| ⟪सद्⟫ | सद् | — | a se așeza jos | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
 | ⟪सनातन⟫ | सनातन | — |  etern, veșnic, durabil | [30](/ro/lektionen/lektion30#_30-6-list-de-cuvinte) |
 | ⟪सम⟫ | सम | 3 | egal, exact, similar (cu instrumentalul) | [18](/ro/lektionen/lektion18#_18-4-list-de-cuvinte) |
 | ⟪सम⟫ | सम | 3 | egal, chiar, similar | [46](/ro/lektionen/lektion46#_46-2-list-de-cuvinte) |
@@ -902,7 +902,7 @@ outline: 2
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Elefant (_Elephas maximus_) | [38](/ro/lektionen/lektion38#_38-9-list-de-cuvinte) |
 | ⟪हा⟫ | हा | 3P | a părăsi | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
 | ⟪हि⟫ | हि | — | deoarece, anume (nu trebuie niciodată să se afle la începutul propoziției) | [19](/ro/lektionen/lektion19#_19-3-list-de-cuvinte) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
 | ⟪हिरण्य⟫ | हिरण्य | — | auriu ; n.: aur, bani, bogăție | [25](/ro/lektionen/lektion25#_25-5-list-de-cuvinte) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | părăsit de, lipsit, defectuos | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |
 | ⟪हीनयान⟫ | हीनयान | n | vehiculul defectuos (al budismului): termen disprețios folosit de reprezentanții „vehiculului mare”, al ; calea defectuo | [33](/ro/lektionen/lektion33#_33-6-list-de-cuvinte) |

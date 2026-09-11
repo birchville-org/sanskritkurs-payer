@@ -106,7 +106,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/gez/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | as if, like (in comparisons: = "a man like a tiger", "a tiger-like man" | [15](/gez/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ማስቀጠል | [11](/gez/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : يرسل | [42](/gez/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | يرسل | [42](/gez/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ማስቀጠል (iṣ-ccha-ti) | [11](/gez/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | ፍላጎት (iṣ + -ti) | [11](/gez/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with , m: ordinance, custom, ritual; [World | [50](/gez/lektionen/lektion50#_50-2--) |
@@ -205,7 +205,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/gez/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/gez/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/gez/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : schreiten, gehen | [35](/gez/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P schreiten, gehen | [35](/gez/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/gez/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/gez/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu 8) | [20](/gez/lektionen/lektion20#_20-9-wortliste) |
@@ -261,7 +261,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | መያዝ፣ አስያዪ፣ ኮከብ | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/gez/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : መያዝ፣ መያዝ፣ መነካከት | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : መያዝ፣ መያዝ፣ መነካከት | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | ደሴት | [10](/gez/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | ተጻባኢነት ምሕዛን፣ ናብ ድኻም ምውራድ | [36](/gez/lektionen/lektion36#_36-4-wortliste) |
@@ -271,7 +271,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪घृत⟫ | घृत | n | Schmelzbutter, Ghee ( / گھی / ঘী) | [33](/gez/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : ሓደ ነገር ምስምዕ | [36](/gez/lektionen/lektion36#_36-4-wortliste) |
+| ⟪घ्रा⟫ | घ्रा | 1P | ሓደ ነገር ምስምዕ | [36](/gez/lektionen/lektion36#_36-4-wortliste) |
 
 ## च
 
@@ -382,11 +382,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | ይህ ነገር የተረጋጋ እና በመረጋጋት የሚያቆም = ዳርማ | [25](/gez/lektionen/lektion25#_25-5-word-list) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | Lehrwerke zu Recht und Sitte (rechtes Verhalten) | [3](/gez/lektionen/lektion03#_3-6-wortliste) |
 | ⟪धा⟫ | धा | — | ሙሉ ትኩረትን ወደ ነገር ማድረስ፣ መሰብሰብ | [33](/gez/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/gez/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/gez/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | የተጠቀሰ ዕንጨት | [25](/gez/lektionen/lektion25#_25-5-word-list) |
-| ⟪धापयति⟫ | የክፈያ | — | sig[] | [33](/gez/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | የወጡት | — | sig[] | [33](/gez/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | የገቡት | — | sig[] | [33](/gez/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | የክፈያ | — | | [33](/gez/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | የወጡት | — | | [33](/gez/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | የገቡት | — | | [33](/gez/lektionen/lektion33#_33-6-) |
 | ⟪धृ⟫ | धृ | 1U | ማቆም፣ በመረጋጋት መያዝ | [25](/gez/lektionen/lektion25#_25-5-word-list) |
 | ⟪ध्यै⟫ | ध्यै | 1P | ማሰብ፣ መስበር | [49](/gez/lektionen/lektion49#_49-4-) |
 | ⟪ध्रुव⟫ | ध्रुव | 3 | ቋሚ፣ ማይለወጥ | [50](/gez/lektionen/lektion50#_50-2--) |
@@ -536,9 +536,9 @@ outline: 2
 | ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | መሆን፣ መመስረት፣ መኖር | [6](/gez/lektionen/lektion06#_6-7-) |
 | ⟪भृ⟫ | भृ | 3U | tragen, bringen; erhalten, ernähren | [33](/gez/lektionen/lektion33#_33-6-) |
 | ⟪भृत्य⟫ | भृत्य | m | ንኡስ ሰብ፡ ዓበይቲ | [28](/gez/lektionen/lektion28#_28-10-wortliste) |
-| ⟪भोस्⟫ | भोस् | — | sig[] ይሆናል። | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | भोस् | — | ይሆናል። | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/gez/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : ማዘውር፣ መንቀሳቀስ | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | ማዘውር፣ መንቀሳቀስ | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Bruder | [42](/gez/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -598,7 +598,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | ከሆነ | [25](/gez/lektionen/lektion25#_25-5-word-list) |
 | ⟪यद्यपि⟫ | यद्यपि | — | እስከ ሆነ፣ እንደሚያስቡት | [30](/gez/lektionen/lektion30#_30-6-wortliste) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | እስከ ነው፣ በዚህ ሁኔታ | [30](/gez/lektionen/lektion30#_30-6-wortliste) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen | [44](/gez/lektionen/lektion44#_44-5-wortliste) |
+| ⟪यम्⟫ | यम् | 1P | halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen | [44](/gez/lektionen/lektion44#_44-5-wortliste) |
 | ⟪या⟫ | या | 2P | gehen, fahren | [44](/gez/lektionen/lektion44#_44-5-wortliste) |
 | ⟪यान⟫ | यान | n | Gehen, Weg, Fahrzeug | [44](/gez/lektionen/lektion44#_44-5-wortliste) |
 | ⟪यावत्⟫ | यावत् | — | كم من الوقت، أثناء | [42](/gez/lektionen/lektion42#_42-2-) |
@@ -759,7 +759,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : ጻዕር፣ ደኺም | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | ጻዕር፣ ደኺም | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/gez/lektionen/lektion32#_32-5-) |
@@ -781,11 +781,11 @@ outline: 2
 | ⟪संपुट⟫ | संपुट | m | ሳጥን (እዚህ: ቦርሳ) | [43](/gez/lektionen/lektion43#_43-4-wortliste) |
 | ⟪संयक्⟫ | संयक् | Adv | ትክክል፣ እውነተኛ፣ በሚገባ መንገድ ; ሙሉ በሙሉ | [50](/gez/lektionen/lektion50#_50-2--) |
 | ⟪सकाश⟫ | सकाश | — | الحضور، الوجود | [42](/gez/lektionen/lektion42#_42-2-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | እውነት | [10](/gez/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | schnell, eilig | [43](/gez/lektionen/lektion43#_43-4-wortliste) |
 | ⟪सद्⟫ | सद् | — | sitzen, sich niederlassen | [20](/gez/lektionen/lektion20#_20-9-wortliste) |
-| ⟪सद्⟫ | सद् | — | sig[] : መቀመጥ | [46](/gez/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | መቀመጥ | [46](/gez/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | f | ዘላለማዊ፣ አይቀርም | [30](/gez/lektionen/lektion30#_30-6-wortliste) |
 | ⟪सम⟫ | सम | 3 | እኩል፣ ተመሳሳይ (በአቶች ጥምርነት) | [18](/gez/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | እኩል፣ ቀጥተኛ፣ ተመሳሳይ | [46](/gez/lektionen/lektion46#_46-2-) |
@@ -849,7 +849,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | እጅ | [18](/gez/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/gez/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | verlassen | [33](/gez/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/gez/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/gez/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | golden ; n.: gold, money, wealth | [25](/gez/lektionen/lektion25#_25-5-word-list) |
 | ⟪हृ⟫ | हृ | 1U | to hold, to carry; to fetch, to take away, to steal | [27](/gez/lektionen/lektion27#_27-5-) |
 | ⟪हृदय⟫ | हृदय | — | القلب | [42](/gez/lektionen/lektion42#_42-2-) |

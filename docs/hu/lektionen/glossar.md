@@ -117,7 +117,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | erő, érzékszerv | [24](/hu/lektionen/lektion24#_24-4-szszedet) |
 | ⟪इव⟫ | इव | — | olyasvalami, mint (hasonlatokban: = "egy ember, mint egy tigris", "tigriszerű ember" | [15](/hu/lektionen/lektion15#_15-8-szszedet) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | kívánni | [11](/hu/lektionen/lektion11#_11-2-sztr) |
-| ⟪इष्⟫ | इष् | — | sig[] : küld | [42](/hu/lektionen/lektion42#_42-2-szszedet) |
+| ⟪इष्⟫ | इष् | — | küld | [42](/hu/lektionen/lektion42#_42-2-szszedet) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | kívánni (iṣ-ccha-ti) | [11](/hu/lektionen/lektion11#_11-2-sztr) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | vágy (iṣ + -ti) | [11](/hu/lektionen/lektion11#_11-2-sztr) |
 | ⟪इह⟫ | इह | — | itt, ezen a földön, ide; most. Főnevek előtt lokatíbusban () jelentése megegyezik , m: rend, szokás, rituálé; [világkor] | [50](/hu/lektionen/lektion50#_50-2-szszedet) |
@@ -219,7 +219,7 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | tapasztalt ( ) | [52](/hu/lektionen/lektion52#_52-7-szszedet) |
 | ⟪कौमर⟫ | कौमर | — | gyermekkor | [48](/hu/lektionen/lektion48#_48-4-szszedet) |
 | ⟪कौशिक⟫ | कौशिक | m | Bagoly | [51](/hu/lektionen/lektion51#_51-6-szlista) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : menni, haladni | [35](/hu/lektionen/lektion35#_35-4-szszedet) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P menni, haladni | [35](/hu/lektionen/lektion35#_35-4-szszedet) |
 | ⟪क्रिया⟫ | क्रिया | f | cselekmény, szent cselekedet, áldozati cselekmény, ceremónia (lásd 8) | [20](/hu/lektionen/lektion20#_20-9-szszedet) |
 | ⟪क्री⟫ | क्री | 9U | vásárol | [30](/hu/lektionen/lektion30#_30-6-szszedet) |
 | ⟪क्रूर⟫ | क्रूर | 3 | nyers, kegyetlen | [51](/hu/lektionen/lektion51#_51-6-szlista) |
@@ -261,7 +261,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | fogyaszt, falatozik | [29](/hu/lektionen/lektion29#_29-2-szszedet) |
 | ⟪ग्रह⟫ | ग्रह | m | megragadás, ragaszkodó, krokodil, vándorló csillag | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪ग्रहण⟫ | ग्रहण | n | megragadás | [24](/hu/lektionen/lektion24#_24-4-szszedet) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : megragad, megkapaszkodik, elfog | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : megragad, megkapaszkodik, elfog | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | falu | [10](/hu/lektionen/lektion10#_10-5-szszedet) |
 | ⟪ग्लै⟫ | ग्लै | 1P | ellenállást érez, elenyészik | [36](/hu/lektionen/lektion36#_36-4-szszedet) |
 
@@ -270,7 +270,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪घृत⟫ | घृत | n | olvasztott vaj, ghí ( / گھی / ঘী) | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : valamit szagol | [36](/hu/lektionen/lektion36#_36-4-szszedet) |
+| ⟪घ्रा⟫ | घ्रा | 1P | valamit szagol | [36](/hu/lektionen/lektion36#_36-4-szszedet) |
 
 ## च
 
@@ -391,11 +391,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | („ami szilárd”, azaz) jog, törvény, szokás, jellem | [11](/hu/lektionen/lektion11#_11-2-sztr) |
 | ⟪धर्म⟫ | धर्म | m | az, ami szilárd és tartós = Dharma | [25](/hu/lektionen/lektion25#_25-5-szszedet) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | tanművek a jogról és a szokásról (helyes magatartás) | [3](/hu/lektionen/lektion03#_3-6-szjegyzk) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
 | ⟪धान्य⟫ | धान्य | n | kikérgelt gabona | [25](/hu/lektionen/lektion25#_25-5-szszedet) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
 | ⟪धीर⟫ | धीर | 3 | szilárd, kitartó, folyamatos, makacs | [52](/hu/lektionen/lektion52#_52-7-szszedet) |
 | ⟪धृ⟫ | धृ | 1U | tart, szorosabban fog | [25](/hu/lektionen/lektion25#_25-5-szszedet) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (tejetes) tehén | [3](/hu/lektionen/lektion03#_3-6-szjegyzk) |
@@ -556,7 +556,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | alárendelt, szolga | [28](/hu/lektionen/lektion28#_28-10-szszedet) |
 | ⟪भोस्⟫ | भोस् | — | megszólítás kiáltása, pl.: hé, heda, ó, ej, hello, hi! gyakran nem fordítható. Ennek a részecskének van egy speciális sz | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪भ्रंश⟫ | भ्रंश | m | a lemaradás | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : bolyong, vándorol | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | bolyong, vándorol | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | testvér | [42](/hu/lektionen/lektion42#_42-2-szszedet) |
 
 ## म
@@ -642,7 +642,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | titok, magányosság | [50](/hu/lektionen/lektion50#_50-2-szszedet) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (piros) szín, szenvedély, szerelem | [5](/hu/lektionen/lektion05#_5-4-szszedet) |
 | ⟪राग⟫ | राग | m | továbbá: szín, vörös szín | [51](/hu/lektionen/lektion51#_51-6-szlista) |
-| ⟪राजन्⟫ | राजन् | m | király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ) általában: -:sig[] m. (min | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
+| ⟪राजन्⟫ | राजन् | m | király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ) általában: -m. (min | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
 | ⟪राज्ञी⟫ | राज्ञी | f | királyné, király felesége | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
 | ⟪राज्य⟫ | राज्य | 3 | királyi; n. királyság, királynak lenni, uralkodás | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
 | ⟪रिष्⟫ | रिष् | 1P | megsérülni, kudarcot vallni, károsodni | [50](/hu/lektionen/lektion50#_50-2-szszedet) |
@@ -767,7 +767,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | gyermek, kölyök | [49](/hu/lektionen/lektion49#_49-4-szszedet) |
 | ⟪शिष्⟫ | शिष् | 7P | elhagy, hátrahagy | [51](/hu/lektionen/lektion51#_51-6-szlista) |
 | ⟪शिष्य⟫ | शिष्य | 3 | tanítandó = diák | [41](/hu/lektionen/lektion41#_41-3-szszedet) |
-| ⟪शी⟫ | शी | 2Ā | feküdni. Ez a gyökér minden jelen időstámi forma esetén magas fokot mutat: 1.sg.Ind.Präs.Ā :sig[] (śe + e). Különösen fi | [44](/hu/lektionen/lektion44#_44-5-szszedet) |
+| ⟪शी⟫ | शी | 2Ā | feküdni. Ez a gyökér minden jelen időstámi forma esetén magas fokot mutat: 1.sg.Ind.Präs.Ā (śe + e). Különösen fi | [44](/hu/lektionen/lektion44#_44-5-szszedet) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | gyors, siets | [43](/hu/lektionen/lektion43#_43-4-szszedet) |
 | ⟪शील⟫ | शील | n | szokás, gyakorlat, természet, jellem, jó szokás = erkölcs | [52](/hu/lektionen/lektion52#_52-7-szszedet) |
 | ⟪शुचि⟫ | शुचि | 3 | ragyogó, fényes, finom; m.: tisztaság | [29](/hu/lektionen/lektion29#_29-2-szszedet) |
@@ -781,7 +781,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | gyász, bánat | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
 | ⟪शोभन⟫ | शोभन | 3 | ragyogó, pompás, csodálatos, szép, jó | [18](/hu/lektionen/lektion18#_18-4-szszedet) |
 | ⟪शौच⟫ | शौच | n | Tisztítás, tisztaság | [16](/hu/lektionen/lektion16#_16-2-szszedet) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : megfáradni, elfáradni | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
+| ⟪श्रम्⟫ | श्रम् | 4P | megfáradni, elfáradni | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪श्रि⟫ | श्रि | 1U | támaszkodni, megpihenni, támaszt találni, valakihez fordul (, ) | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | a hallás, az örök hagyomány (a Védák és a Brāhmaṇák megnevezése) | [3](/hu/lektionen/lektion03#_3-6-szjegyzk) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | gazdag kereskedő | [43](/hu/lektionen/lektion43#_43-4-szszedet) |
@@ -803,11 +803,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | a hozzáfűzés, érintkezés () | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (a - : összeütés): csorda, halmaz, közösség (pl. buddhista) | [41](/hu/lektionen/lektion41#_41-3-szszedet) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | lógni, tapadni | [48](/hu/lektionen/lektion48#_48-4-szszedet) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : hozzáfűzni, ráragadni () | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | hozzáfűzni, ráragadni () | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | igazság | [10](/hu/lektionen/lektion10#_10-5-szszedet) |
 | ⟪सत्वर⟫ | सत्वर | 3 | gyors, siets | [43](/hu/lektionen/lektion43#_43-4-szszedet) |
 | ⟪सद्⟫ | सद् | — | ülni, letelepedni | [20](/hu/lektionen/lektion20#_20-9-szszedet) |
-| ⟪सद्⟫ | सद् | — | sig[] : leül | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
+| ⟪सद्⟫ | सद् | — | leül | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
 | ⟪सनातन⟫ | सनातन | — |  örökkévaló, megsemmisíthetetlen, állandó | [30](/hu/lektionen/lektion30#_30-6-szszedet) |
 | ⟪सम⟫ | सम | 3 | egyenlő, éppen, hasonló (birtokos esettel) | [18](/hu/lektionen/lektion18#_18-4-szszedet) |
 | ⟪सम⟫ | सम | 3 | egyenlő, éppen, hasonló | [46](/hu/lektionen/lektion46#_46-2-szszedet) |
@@ -876,7 +876,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | kéz | [18](/hu/lektionen/lektion18#_18-4-szszedet) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elefánt (_Elephas maximus_) | [38](/hu/lektionen/lektion38#_38-9-szszedet) |
 | ⟪हा⟫ | हा | 3P | elhagy | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
 | ⟪हिरण्य⟫ | हिरण्य | — | arany ; n.: arany, pénz, gazdagság | [25](/hu/lektionen/lektion25#_25-5-szszedet) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | elhagyott, nélkülöző, hiányos | [33](/hu/lektionen/lektion33#_33-6-szszedet) |
 | ⟪हीनयान⟫ | हीनयान | n | a hiányos jármű (a buddhizmusé): lenéző megjelölés a „nagy jármű”, az képviselői által; a hiányos út ( zu 2: menn, halad | [33](/hu/lektionen/lektion33#_33-6-szszedet) |

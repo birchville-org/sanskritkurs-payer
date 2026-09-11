@@ -126,7 +126,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | güç, duygu organı | [24](/tr/lektionen/lektion24#_24-4-kelime-listesi) |
 | ⟪इव⟫ | इव | — | sanki, gibi (benzetmelerde: = "bir adam gibi bir kaplan", "kaplan benzeri bir adam" | [15](/tr/lektionen/lektion15#_15-8-kelime-listesi) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | dilemek | [11](/tr/lektionen/lektion11#_11-2-kelime-listesi) |
-| ⟪इष्⟫ | इष् | — | sig[] : göndermek | [42](/tr/lektionen/lektion42#_42-2-kelime-listesi) |
+| ⟪इष्⟫ | इष् | — | göndermek | [42](/tr/lektionen/lektion42#_42-2-kelime-listesi) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | dilemek (iṣ-ccha-ti) | [11](/tr/lektionen/lektion11#_11-2-kelime-listesi) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | dilek (iṣ + -ti) | [11](/tr/lektionen/lektion11#_11-2-kelime-listesi) |
 | ⟪इह⟫ | इह | — | burada, dünyada burası, buraya; şimdi. Lokatifteki isimlerden önce () , m: kanun, gelenek, ritüel ; [Dönem](http://en.wi | [50](/tr/lektionen/lektion50#_50-2-kelime-listesi) |
@@ -301,7 +301,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | öldürme, katil | [17](/tr/lektionen/lektion17#_17-6-kelime-listesi) |
 | ⟪घृत⟫ | घृत | n | eritilmiş tuzsuz tereyağı, ghee ( / گھی / ঘী) | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : bir şey koklamak | [36](/tr/lektionen/lektion36#_36-4-kelime-listesi) |
+| ⟪घ्रा⟫ | घ्रा | 1P | bir şey koklamak | [36](/tr/lektionen/lektion36#_36-4-kelime-listesi) |
 
 ## च
 
@@ -436,11 +436,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | sağlam olan ve sıkıca tutan = Dharma | [25](/tr/lektionen/lektion25#_25-5-kelime-listesi) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | hukuk ve adet üzerine öğretiler (doğru davranış) | [3](/tr/lektionen/lektion03#_3-6-kelime-listesi) |
 | ⟪धा⟫ | धा | — | tüm dikkat bir noktaya odaklamak, toparlanmak | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
 | ⟪धान्य⟫ | धान्य | n | ezilmiş tahıl | [25](/tr/lektionen/lektion25#_25-5-kelime-listesi) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
 | ⟪धीर⟫ | धीर | 3 | sağlam, kararlı, sürekli, inatçı | [52](/tr/lektionen/lektion52#_52-7-kelime-listesi) |
 | ⟪धृ⟫ | धृ | 1U | tutmak, sıkıca tutmak | [25](/tr/lektionen/lektion25#_25-5-kelime-listesi) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (Süt) inek | [3](/tr/lektionen/lektion03#_3-6-kelime-listesi) |
@@ -621,7 +621,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | Alt görevli, hizmetkâr | [28](/tr/lektionen/lektion28#_28-10-kelime-listesi) |
 | ⟪भोस्⟫ | भोस् | — | hitabın haykırığı, örn.: hey, heda, oh, ey, merhaba, hi! genellikle çevrilemez. Bu parçacık özel bir sandhi'ye sahiptir: | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪भ्रंश⟫ | भ्रंश | m | düşüp gitme | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : dolaşmak, gezmek | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | dolaşmak, gezmek | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Erkek kardeşi | [42](/tr/lektionen/lektion42#_42-2-kelime-listesi) |
 
 ## म
@@ -695,7 +695,7 @@ outline: 2
 | ⟪यद्⟫ | यद् | — | Nom.Akk.sg.Neuter) | [50](/tr/lektionen/lektion50#_50-2-kelime-listesi) |
 | ⟪यद्यपि⟫ | यद्यपि | — | ne de olsa, hatta, rağmen | [30](/tr/lektionen/lektion30#_30-6-kelime-listesi) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | eğer durum böylesiyse, bu koşullar altında | [30](/tr/lektionen/lektion30#_30-6-kelime-listesi) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : tutmak, taşımak ; sunmak, vermek ; bir arada tutmak, dizginlemek, frenlemek, fethetmek | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
+| ⟪यम्⟫ | यम् | 1P | tutmak, taşımak ; sunmak, vermek ; bir arada tutmak, dizginlemek, frenlemek, fethetmek | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
 | ⟪या⟫ | या | 2P | gitmek, sürmek | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
 | ⟪यातृ⟫ | यातृ | m | Erkek kardeşinin koca | [42](/tr/lektionen/lektion42#_42-2-kelime-listesi) |
 | ⟪यान⟫ | यान | n | gitmek, yol, araç | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
@@ -776,7 +776,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Renk, doğum sınıfı (yönelim) | [2](/tr/lektionen/lektion02#_2-5-kelime-listesi) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Renk, tür, sınıf | [5](/tr/lektionen/lektion05#_5-4-kelime-listesi) |
 | ⟪वर्ष⟫ | वर्ष | n | yağmur, yağmur mevsimi, yıl | [25](/tr/lektionen/lektion25#_25-5-kelime-listesi) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Emir Kip 2.tekil: :sig[] : istemek, emretmek, ... için arzulamak | [52](/tr/lektionen/lektion52#_52-7-kelime-listesi) |
+| ⟪वश्⟫ | वश् | 2P | , Emir Kip 2.tekil: istemek, emretmek, ... için arzulamak | [52](/tr/lektionen/lektion52#_52-7-kelime-listesi) |
 | ⟪वसन्त⟫ | वसन्त | m | ("parlayan" =) ilkbahar (Mart - Mayıs) | [27](/tr/lektionen/lektion27#_27-5-kelime-listesi) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/tr/lektionen/lektion27#_27-5-kelime-listesi) |
 | ⟪वसु⟫ | वसु | n | zenginlik, hazine, mal, mülk | [27](/tr/lektionen/lektion27#_27-5-kelime-listesi) |
@@ -867,7 +867,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | çocuk, yavru | [49](/tr/lektionen/lektion49#_49-4-kelime-listesi) |
 | ⟪शिष्⟫ | शिष् | 7P | terk etmek, bırakıp gitmek | [51](/tr/lektionen/lektion51#_51-6-wortliste---516-kelime-listesi) |
 | ⟪शिष्य⟫ | शिष्य | 3 | öğretilmesi gereken = öğrenci | [41](/tr/lektionen/lektion41#_41-3-kelime-listesi) |
-| ⟪शी⟫ | शी | 2Ā | yatmak. Bu kök, tüm present kök formlarında Yüksek Ses Basamağı: 1.sg.Ind.Present.Ā :sig[] (śe + e). Dikkat edilmesi ger | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
+| ⟪शी⟫ | शी | 2Ā | yatmak. Bu kök, tüm present kök formlarında Yüksek Ses Basamağı: 1.sg.Ind.Present.Ā (śe + e). Dikkat edilmesi ger | [44](/tr/lektionen/lektion44#_44-5-kelime-listesi) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | hızlı, çabuk | [43](/tr/lektionen/lektion43#_43-4-kelime-listesi) |
 | ⟪शील⟫ | शील | n | Adet, alışkanlık, doğa, karakter, iyi alışkanlık = Ahlak | [52](/tr/lektionen/lektion52#_52-7-kelime-listesi) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papağan | [8](/tr/lektionen/lektion08#_8-5-kelime-listesi) |
@@ -887,7 +887,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : yorulmak, bitkin düşmek | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
+| ⟪श्रम्⟫ | श्रम् | 4P | yorulmak, bitkin düşmek | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/tr/lektionen/lektion32#_32-5-kelime-listesi) |
@@ -913,11 +913,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | yapışma, temas () | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (- için: birlikte-vurmak): Sürü, kalabalık, cemaat (örneğin buddhist) | [41](/tr/lektionen/lektion41#_41-3-kelime-listesi) |
 | ⟪सज्ज्⟫ | सज्ज् | — | asılı kalmak, yapışmak | [48](/tr/lektionen/lektion48#_48-4-kelime-listesi) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : yapışmak, takılmak () | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | yapışmak, takılmak () | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | doğruluk | [10](/tr/lektionen/lektion10#_10-5-kelime-listesi) |
 | ⟪सत्वर⟫ | सत्वर | 3 | hızlı, aceleci | [43](/tr/lektionen/lektion43#_43-4-kelime-listesi) |
 | ⟪सद्⟫ | सद् | — | oturmak, yerleşmek | [20](/tr/lektionen/lektion20#_20-9-kelime-listesi) |
-| ⟪सद्⟫ | सद् | — | sig[] : oturmak | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
+| ⟪सद्⟫ | सद् | — | oturmak | [46](/tr/lektionen/lektion46#_46-2-kelime-listesi) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  ebedi, ölümsüz, değişmez | [30](/tr/lektionen/lektion30#_30-6-kelime-listesi) |
 | ⟪सम⟫ | सम | 3 | eşit, düz, benzer (Araç hal ile) | [18](/tr/lektionen/lektion18#_18-4-kelime-listesi) |
 | ⟪समय⟫ | समय | m | anlaşma, sözleşme, süre, tarih, zaman | [43](/tr/lektionen/lektion43#_43-4-kelime-listesi) |
@@ -991,7 +991,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | el | [18](/tr/lektionen/lektion18#_18-4-kelime-listesi) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | fil (_Elephas maximus_) | [38](/tr/lektionen/lektion38#_38-9-kelime-listesi) |
 | ⟪हा⟫ | हा | 3P | terk etmek | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | altın ; n.: altın, para, zenginlik | [25](/tr/lektionen/lektion25#_25-5-kelime-listesi) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | terk edilmiş, yoksul, kusurlu | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |
 | ⟪हीनयान⟫ | हीनयान | n | kusurlu araç (Budizm için): "Büyük Araç"ın temsilcileri tarafından aşağılayıcı ad; kusurlu yol ( 2: gitmek, sürüş yapmak | [33](/tr/lektionen/lektion33#_33-6-kelime-listesi) |

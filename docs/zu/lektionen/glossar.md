@@ -126,7 +126,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | Kraft, Sinnesorgan | [24](/zu/lektionen/lektion24#_24-4-wortliste) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | gleichsam, wie (in Vergleichen: = "ein Mann wie ein Tiger", "ein tigergleicher Mann" | [15](/zu/lektionen/lektion15#_15-8-wortliste) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ukufuna | [11](/zu/lektionen/lektion11#_11-2-uhlu-lwamagama) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : stuur | [42](/zu/lektionen/lektion42#_42-2-woordelys) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | stuur | [42](/zu/lektionen/lektion42#_42-2-woordelys) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ukufuna (iṣ-ccha-ti) | [11](/zu/lektionen/lektion11#_11-2-uhlu-lwamagama) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | ukufuna (iṣ + -ti) | [11](/zu/lektionen/lektion11#_11-2-uhlu-lwamagama) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | — | lapha, lapha emhlabeni, lapha; manje. Ngaphambi kwezibalo ezikulesi simo () kufana no- , m: umthetho, imikhuba, umkhuba  | [50](/zu/lektionen/lektion50#_50-2-uhlu-lwamagama) |
@@ -237,7 +237,7 @@ outline: 2
 | ⟪क्रमयति⟫ | [kramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
 | ⟪क्रमितुम्⟫ | [kramitum](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramitum&filter=roman&accent=no&transLit=roman) | — | br | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
 | ⟪क्रमिष्यति⟫ | [kramiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : hamba, ya | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | , 4P hamba, ya | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
 | ⟪क्रम्यते⟫ | [kramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
 | ⟪क्रा⟫ | [krā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krā&filter=roman&accent=no&transLit=roman) | — | br | [35](/zu/lektionen/lektion35#_35-4-uhlu-lwamazwi) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu 8) | [20](/zu/lektionen/lektion20#_20-9-uhlu-lwamagama) |
@@ -296,7 +296,7 @@ outline: 2
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | Greifen, Greifer, Krokodil, Wandelstern | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | Ergreifen | [24](/zu/lektionen/lektion24#_24-4-wortliste) |
 | ⟪ग्रहीष्यति⟫ | [grahīṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahīṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : ergreifen, packen, fassen | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | (gṛh-ṇā-ti) : ergreifen, packen, fassen | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | Idolobhana | [10](/zu/lektionen/lektion10#_10-5-uhlu-lwamazwi) |
 | ⟪ग्राहयति⟫ | [grāhayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāhayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | Widerwillen empfinden, dahinschwinden | [36](/zu/lektionen/lektion36#_36-4-uhlu-lwamazwi) |
@@ -306,7 +306,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | ubuthebe obushisiwe, i-ghee ( / گھی / ঘী) | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : etwas riechen | [36](/zu/lektionen/lektion36#_36-4-uhlu-lwamazwi) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | etwas riechen | [36](/zu/lektionen/lektion36#_36-4-uhlu-lwamazwi) |
 
 ## च
 
@@ -434,11 +434,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | das, was fest ist und fest hält = Dharma | [25](/zu/lektionen/lektion25#_25-5-uhlu-lwamagama) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | izincwadi zomthetho nesiko (ukuziphatha okufanele) | [3](/zu/lektionen/lektion03#_3-6-uhlu-lwamagama) |
 | ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | die ganze Aufmerksamkeit auf etwas richten, sich sammeln | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | gedroschenes Getreide | [25](/zu/lektionen/lektion25#_25-5-uhlu-lwamagama) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | fest, standhaft, kontinuierlich, beharrlich | [52](/zu/lektionen/lektion52#_52-7-uhlu-lwamagama) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | halten, festhalten | [25](/zu/lektionen/lektion25#_25-5-uhlu-lwamagama) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | inkukhu (yokuphuma amasi) | [3](/zu/lektionen/lektion03#_3-6-uhlu-lwamagama) |
@@ -618,7 +618,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | umphansi, iseva | [28](/zu/lektionen/lektion28#_28-10-uhlu-lwamazwi) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | Ukukhala kokubingelela, isib.: he, heda, oh, ei, hallo, hi! kuvame ukungaguquki. Le particle inendlela yokuhlanganisa ok | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | das Entfallen | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ukuhamba ngokungahleliwe, ukuhamba ngokungahleliwe | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | ukuhamba ngokungahleliwe, ukuhamba ngokungahleliwe | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | Bruder | [42](/zu/lektionen/lektion42#_42-2-woordelys) |
 
 ## म
@@ -690,7 +690,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | uma | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | nakuba, nakuba kunjalo, nakuba | [30](/zu/lektionen/lektion30#_30-6-uhlu-lwamagama) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | uma kunjalo, ngezimo ezinjalo | [30](/zu/lektionen/lektion30#_30-6-uhlu-lwamagama) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : ukugcina, ukuthwala ; ukunikeza, ukunika ; ukubamba ndawonye, ukulawula, ukuzinzisa, ukuphumelela | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | ukugcina, ukuthwala ; ukunikeza, ukunika ; ukubamba ndawonye, ukulawula, ukuzinzisa, ukuphumelela | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | ukuhamba, ukuhamba | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | Gattin des Bruders des Ehemanns | [42](/zu/lektionen/lektion42#_42-2-woordelys) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | ukuhamba, indlela, isithuthi | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
@@ -766,7 +766,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Umbala, iqembu lokuzalwa (ukuzimisela) | [2](/zu/lektionen/lektion02#_2-5-uhlu-lwamazwi) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Umbala, uhlobo, isigaba | [5](/zu/lektionen/lektion05#_5-4-uhlu-lwamagama) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | Imvula, Isikhathi somvula, Unyaka | [25](/zu/lektionen/lektion25#_25-5-uhlu-lwamagama) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : wollen, gebieten, verlangen nach | [52](/zu/lektionen/lektion52#_52-7-uhlu-lwamagama) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | , Imperat. 2.sg.: wollen, gebieten, verlangen nach | [52](/zu/lektionen/lektion52#_52-7-uhlu-lwamagama) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("ukukhanya" =) ihlobo (Mashi kuya kuMeyi) | [27](/zu/lektionen/lektion27#_27-5-woordelys) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/zu/lektionen/lektion27#_27-5-woordelys) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | amakhulu, umtapo, impahla, ukunamandla | [27](/zu/lektionen/lektion27#_27-5-woordelys) |
@@ -856,7 +856,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | umntwana, isilwanyana esincane | [49](/zu/lektionen/lektion49#_49-4-uhlu-lwamagama) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | verlassen, übriglassen | [51](/zu/lektionen/lektion51#_51-6-uhlu-lwamazwi) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | zu belehrender = Schüler | [41](/zu/lektionen/lektion41#_41-3-wortliste) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | ukuleleka. Le mpande inokuma okuphezulu Isigaba esiphakathi: 1.sg.Ind.Präs.Ā :sig[] (śe + e). Izimo ezilandelayo zibalul | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | ukuleleka. Le mpande inokuma okuphezulu Isigaba esiphakathi: 1.sg.Ind.Präs.Ā (śe + e). Izimo ezilandelayo zibalul | [44](/zu/lektionen/lektion44#_44-5-uhlu-lwamazwi) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | sheshayo, ngokushesha | [43](/zu/lektionen/lektion43#_43-4-wortliste) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral | [52](/zu/lektionen/lektion52#_52-7-uhlu-lwamagama) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | skitterend, blink, fyn; m.: reinheid | [29](/zu/lektionen/lektion29#_29-2-uluvimi) |
@@ -874,7 +874,7 @@ outline: 2
 | ⟪श्रमयति⟫ | [śramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रमित्वा⟫ | [śramitvā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramitvā&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रमिष्यते⟫ | [śramiṣyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramiṣyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : sich abmühen, müde werden | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sich abmühen, müde werden | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪श्रम्यते⟫ | [śramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रान्त⟫ | [śrānta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrānta&filter=roman&accent=no&transLit=roman) | — | br | [32](/zu/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (, ) | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
@@ -899,11 +899,11 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | das Anhängen an, Berührung mit () | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (zu - : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische) | [41](/zu/lektionen/lektion41#_41-3-wortliste) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | hängen, anhaften | [48](/zu/lektionen/lektion48#_48-4-uhlu-lwamagama) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : anhängen, sich heften an () | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | anhängen, sich heften an () | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | Inyaniso | [10](/zu/lektionen/lektion10#_10-5-uhlu-lwamazwi) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | schnell, eilig | [43](/zu/lektionen/lektion43#_43-4-wortliste) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sitzen, sich niederlassen | [20](/zu/lektionen/lektion20#_20-9-uhlu-lwamagama) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : ukuzihlala phansi | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | ukuzihlala phansi | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सनातन ३⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | f |  unaphakade, ongapheli, ukuqina | [30](/zu/lektionen/lektion30#_30-6-uhlu-lwamagama) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | lifana, lifana, lifana (ne-Instrumental) | [18](/zu/lektionen/lektion18#_18-4-uluhlu-lwamagama) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | gleich, eben, ähnlich | [46](/zu/lektionen/lektion46#_46-2-wortliste) |
@@ -979,7 +979,7 @@ outline: 2
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | Isandla | [18](/zu/lektionen/lektion18#_18-4-uluhlu-lwamagama) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | Indlovu (_Elephas maximus_) | [38](/zu/lektionen/lektion38#_38-9-wortliste) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | verlassen | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
 | ⟪हिरण्य ३⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | oluhlaza okwesibhakabhaka ; n.: intengo, imali, amathuba | [25](/zu/lektionen/lektion25#_25-5-uhlu-lwamagama) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | verlassen von, ermangelnd, mangelhaft | [33](/zu/lektionen/lektion33#_33-6-wortliste) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ; d | [33](/zu/lektionen/lektion33#_33-6-wortliste) |

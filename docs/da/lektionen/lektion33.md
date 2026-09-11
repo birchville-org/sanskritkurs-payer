@@ -239,7 +239,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Billedkilde: [Detaljer](/da/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: sætte, fastsætte, fordele
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: sætte, fastsætte, fordele
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

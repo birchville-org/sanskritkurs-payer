@@ -53,7 +53,7 @@ Ngoài ra, cần lưu ý các quy tắc âm vị đối với sự kết hợp c
 
 :::
 ::: indent
-vd: sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
+vd: :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **Hình thái của gốc động từ:**

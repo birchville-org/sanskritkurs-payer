@@ -987,7 +987,7 @@ Këtë dëshiron për ju Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 FUNDI I KURSIT TË SANSKRISHT
 

@@ -129,7 +129,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/sq/lektionen/lektion24#_24-4-list-fjalsh) |
 | ⟪इव⟫ | इव | — | as if, like (in comparisons: = "a man like a tiger", "a tiger-like man" | [15](/sq/lektionen/lektion15#_15-8-list-fjalsh) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | të dëshirosh | [11](/sq/lektionen/lektion11#_11-2-list-fjalsh) |
-| ⟪इष्⟫ | इष् | — | sig[] : të dërgoj | [42](/sq/lektionen/lektion42#_42-2-lista-e-fjalve) |
+| ⟪इष्⟫ | इष् | — | të dërgoj | [42](/sq/lektionen/lektion42#_42-2-lista-e-fjalve) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | të dëshirosh (iṣ-ccha-ti) | [11](/sq/lektionen/lektion11#_11-2-list-fjalsh) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | dëshirë (iṣ + -ti) | [11](/sq/lektionen/lektion11#_11-2-list-fjalsh) |
 | ⟪इह⟫ | इह | — | këtu, këtu në tokë, këtej ; tani. Para emrave në Lokativ () me kuptim të njëjtë si , m: rregull, zakon, rituell ; [Epokë | [50](/sq/lektionen/lektion50#_50-2-fjalor) |
@@ -243,7 +243,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : to stride, to go | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P to stride, to go | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/sq/lektionen/lektion35#_35-4-lista-e-fjalve) |
 | ⟪क्रिया⟫ | क्रिया | f | veprim, veprim i shenjtë, veprim sakrifice, ceremoni (për 8) | [20](/sq/lektionen/lektion20#_20-9-lista-e-fjalve) |
@@ -305,7 +305,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | kapje, kapëse, krokodil, yll lëvizës | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/sq/lektionen/lektion24#_24-4-list-fjalsh) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : kap, mbërthej, prek | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : kap, mbërthej, prek | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | fshat | [10](/sq/lektionen/lektion10#_10-5-fjalor) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
 | ⟪ग्लै⟫ | ग्लै | 1P | të ndiejsh rezistencë, të zhduket | [36](/sq/lektionen/lektion36#_36-4-fjalor) |
@@ -316,7 +316,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | vrasje | [17](/sq/lektionen/lektion17#_17-6-list-fjalsh) |
 | ⟪घृत⟫ | घृत | n | Yje i shkrirë, Ghee ( / گھی / ঘী) | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : të ndiejsh erë | [36](/sq/lektionen/lektion36#_36-4-fjalor) |
+| ⟪घ्रा⟫ | घ्रा | 1P | të ndiejsh erë | [36](/sq/lektionen/lektion36#_36-4-fjalor) |
 
 ## च
 
@@ -456,11 +456,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | ajo që është e fortë dhe mbajti i fortë = Dharma | [25](/sq/lektionen/lektion25#_25-5-fjalori) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | vepra mësimore për ligjin dhe zakonin (sjellje të drejtë) | [3](/sq/lektionen/lektion03#_3-6-fjalor) |
 | ⟪धा⟫ | धा | — | drejton tërë vëmendjen ndaj diçkaje, mblidhet | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
 | ⟪धान्य⟫ | धान्य | n | grurë i trumbulluar | [25](/sq/lektionen/lektion25#_25-5-fjalori) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
-| ⟪धीयते⟫ | Pësh. | — | sig[] | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
+| ⟪धीयते⟫ | Pësh. | — | | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
 | ⟪धीर⟫ | धीर | 3 | i fortë, i qëndrueshëm, vazhdimës, përkushtuar | [52](/sq/lektionen/lektion52#_52-7-list-fjalsh) |
 | ⟪धृ⟫ | धृ | 1U | mbaj, mbaje fort | [25](/sq/lektionen/lektion25#_25-5-fjalori) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (Dhiel) lopë | [3](/sq/lektionen/lektion03#_3-6-fjalor) |
@@ -647,7 +647,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | nënrenditur, shërbëtor | [28](/sq/lektionen/lektion28#_28-10-fjalor) |
 | ⟪भोस्⟫ | भोस् | — | thirrje për të fjalosur, p.sh.: o, hej, oh, ei, hallo, hi! shpesh nuk përkthehet. Kjo partikulë ka një Sandhi specifik:  | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪भ्रंश⟫ | भ्रंश | m | rënia | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : të rrëshqas, të përshkoj | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | të rrëshqas, të përshkoj | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Vëlla | [42](/sq/lektionen/lektion42#_42-2-lista-e-fjalve) |
 
 ## म
@@ -719,7 +719,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | nëse | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪यद्यपि⟫ | यद्यपि | — | edhe nëse, megjithëse | [30](/sq/lektionen/lektion30#_30-6-list-fjalsh) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | nëse është kështu, në këto rrethana | [30](/sq/lektionen/lektion30#_30-6-list-fjalsh) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : mbaj, bart ; ofroj, jap ; mbaj së bashku, frenoj, qesë, nënshtro | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
+| ⟪यम्⟫ | यम् | 1P | mbaj, bart ; ofroj, jap ; mbaj së bashku, frenoj, qesë, nënshtro | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
 | ⟪या⟫ | या | 2P | shkoj, udhëtoj | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
 | ⟪यातृ⟫ | यातृ | m | Bashkëshortja e vëllait të bashkëshortit | [42](/sq/lektionen/lektion42#_42-2-lista-e-fjalve) |
 | ⟪यान⟫ | यान | n | ecje, rrugë, mjet transporti | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
@@ -799,7 +799,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Ngjyrë, klasë e lindjes (tendencë) | [2](/sq/lektionen/lektion02#_2-5-lista-e-fjalve) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ngjyrë, lloj, kategori shoqërore | [5](/sq/lektionen/lektion05#_5-4-fjalor) |
 | ⟪वर्ष⟫ | वर्ष | n | rain, rainy season, year | [25](/sq/lektionen/lektion25#_25-5-fjalori) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : të dojë, të urdhëroj, të dëshiroj | [52](/sq/lektionen/lektion52#_52-7-list-fjalsh) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: të dojë, të urdhëroj, të dëshiroj | [52](/sq/lektionen/lektion52#_52-7-list-fjalsh) |
 | ⟪वसन्त⟫ | वसन्त | m | ("i ndritshëm" =) pranverë (mars deri në maj) | [27](/sq/lektionen/lektion27#_27-5-fjalor) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/sq/lektionen/lektion27#_27-5-fjalor) |
 | ⟪वसु⟫ | वसु | n | pasuri, thesar, pronë, zotërim | [27](/sq/lektionen/lektion27#_27-5-fjalor) |
@@ -890,7 +890,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | fëmijë, i ri | [49](/sq/lektionen/lektion49#_49-4-fjalori) |
 | ⟪शिष्⟫ | शिष् | 7P | të braktisë, të lërë pas | [51](/sq/lektionen/lektion51#_51-6-list-fjalsh) |
 | ⟪शिष्य⟫ | शिष्य | 3 | për t'u mësuar = nxënës | [41](/sq/lektionen/lektion41#_41-3-list-fjalsh) |
-| ⟪शी⟫ | शी | 2Ā | shtrihet. Kjo rrënjë ka në të gjitha format e themelit present Nivel i lartë: 1.sg.Ind.Präs.Ā :sig[] (śe + e). Formatet  | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
+| ⟪शी⟫ | शी | 2Ā | shtrihet. Kjo rrënjë ka në të gjitha format e themelit present Nivel i lartë: 1.sg.Ind.Präs.Ā (śe + e). Formatet  | [44](/sq/lektionen/lektion44#_44-5-list-fjalsh) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | shpejt, me shpejtësi | [43](/sq/lektionen/lektion43#_43-4-fjalor) |
 | ⟪शील⟫ | शील | n | zakonisht, shkathtësi, natyrë, karakter, zakon i mirë = moral | [52](/sq/lektionen/lektion52#_52-7-list-fjalsh) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papagall | [8](/sq/lektionen/lektion08#_8-5-fjalori) |
@@ -910,7 +910,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : të mundohesh, të lodhesh | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
+| ⟪श्रम्⟫ | श्रम् | 4P | të mundohesh, të lodhesh | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/sq/lektionen/lektion32#_32-5-list-fjalsh) |
@@ -936,11 +936,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | ngjitja, prekje me () | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (për - : goditje së bashku): tufë, turmë, komunitet (p.sh. budiste) | [41](/sq/lektionen/lektion41#_41-3-list-fjalsh) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | të varësh, të ngjitesh | [48](/sq/lektionen/lektion48#_48-4-list-fjalsh) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : të ngjitesh, të fiksohesh në () | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | të ngjitesh, të fiksohesh në () | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | e vërtetë | [10](/sq/lektionen/lektion10#_10-5-fjalor) |
 | ⟪सत्वर⟫ | सत्वर | 3 | shpejt, me ngut | [43](/sq/lektionen/lektion43#_43-4-fjalor) |
 | ⟪सद्⟫ | सद् | — | ulu, ules | [20](/sq/lektionen/lektion20#_20-9-lista-e-fjalve) |
-| ⟪सद्⟫ | सद् | — | sig[] : të ulësh | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
+| ⟪सद्⟫ | सद् | — | të ulësh | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
 | ⟪सनातन ३⟫ | सनातन ३ | f |  i përjetshëm, i pandryshueshëm, i qëndrueshëm | [30](/sq/lektionen/lektion30#_30-6-list-fjalsh) |
 | ⟪सम⟫ | सम | 3 | i barabartë, i njëjtë, i ngjashëm (me Instrumental) | [18](/sq/lektionen/lektion18#_18-4-fjalori-i-fjalve) |
 | ⟪सम⟫ | सम | 3 | i barabartë, saktësisht, i ngjashëm | [46](/sq/lektionen/lektion46#_46-2-list-fjalsh) |
@@ -1017,7 +1017,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | dorë | [18](/sq/lektionen/lektion18#_18-4-fjalori-i-fjalve) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Elefant (_Elephas maximus_) | [38](/sq/lektionen/lektion38#_38-9-list-fjalsh) |
 | ⟪हा⟫ | हा | 3P | braktis | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | i artë ; n.: ar, para, pasuri | [25](/sq/lektionen/lektion25#_25-5-fjalori) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | i braktisur, pa të, i paplotë | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |
 | ⟪हीनयान⟫ | हीनयान | n | mjeti i paplotë (i Budizmit): emër poshtërues nga përfaqësuesit e "Vehikulit të Madh", i ; rruga e paplotë ( për në 2: s | [33](/sq/lektionen/lektion33#_33-6-fjalori-i-fjalve) |

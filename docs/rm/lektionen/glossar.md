@@ -119,7 +119,7 @@ outline: 2
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | Prins, Emprim, Meglier tranter ; Re da ils dieus Indra | [15](/rm/lektionen/lektion15#_15-8-glista-da-pleds) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | pussa, orgán da sens | [24](/rm/lektionen/lektion24#_24-4-lista-da-las-paraulas) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | sco, sco che (en cumparegliaziuns: = 'in um sco in tigir', 'in um sco in tigir') | [15](/rm/lektionen/lektion15#_15-8-glista-da-pleds) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : sendar | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sendar | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
 
 ## ई
 
@@ -217,8 +217,8 @@ outline: 2
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | experient en ( ) | [52](/rm/lektionen/lektion52#_52-7-glossari) |
 | ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | n | infanzia | [48](/rm/lektionen/lektion48#_48-4-glista-da-pleds) |
 | ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | m | guf | [51](/rm/lektionen/lektion51#_51-6-lista-da-pleds) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : ir, ir | [35](/rm/lektionen/lektion35#_35-4-glista-da-pleds) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/rm/lektionen/lektion35#_35-4-glista-da-pleds) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | , 4P ir, ir | [35](/rm/lektionen/lektion35#_35-4-glista-da-pleds) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/rm/lektionen/lektion35#_35-4-glista-da-pleds) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | acțiune, acțiune sacră, acțiune de sacrificiu, ceremonie (la 8) | [20](/rm/lektionen/lektion20#_20-9-glista-da-pleds) |
 | ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | cumprar | [30](/rm/lektionen/lektion30#_30-6-glista-da-pleds) |
 | ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | crud, crudel | [51](/rm/lektionen/lektion51#_51-6-lista-da-pleds) |
@@ -259,7 +259,7 @@ outline: 2
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | mangiar, gloton | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | agarrar, agarrader, coccodril, planeta errant | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | agarr | [24](/rm/lektionen/lektion24#_24-4-lista-da-las-paraulas) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : agarrar, empunyar, afferr | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | (gṛh-ṇā-ti) : agarrar, empunyar, afferr | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | Widerwille empfinde, dahinschwinde | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
 
 ## घ
@@ -268,7 +268,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | uccisium | [17](/rm/lektionen/lektion17#_17-6-glista-da-pleds) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | Burra da fundida, Ghee ( / گھی / ঘী) | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : quai od | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | quai od | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
 
 ## च
 
@@ -393,12 +393,12 @@ outline: 2
 | Sanscrit | IAST | Gener | Rumantsch | Lecziun |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | quai ch'è ferm e ferma = Dharma | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
-| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | sig[]: stabilir, fixar, distribuir | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | 3U | stabilir, fixar, distribuir | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | gran cundì | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | ferm, stàbel, cuntinuant, persistent | [52](/rm/lektionen/lektion52#_52-7-glossari) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | tegnair, tegnair ferm | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (latg-) vacca | [3](/rm/lektionen/lektion03#_3-6-glosa) |
@@ -552,7 +552,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | subordinà, servitur | [28](/rm/lektionen/lektion28#_28-10-glista-da-pleds) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | exclamaziun da s’adrressar, per exempel: he, heda, oh, ei, bon di, ciao! spess betg da tradurre. Questa particla ha in s | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | il declinar | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : vagar, errar | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | vagar, errar | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | frar | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
 
 ## म
@@ -616,7 +616,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | wenn | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | schebbe, schebna, malgrà | [30](/rm/lektionen/lektion30#_30-6-glista-da-pleds) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | scheu, timide, riservata | [30](/rm/lektionen/lektion30#_30-6-glista-da-pleds) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : tegnair, purtar ; dar, conceder ; tegnir ensemen, domar, frenar, suttametter | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | tegnair, purtar ; dar, conceder ; tegnir ensemen, domar, frenar, suttametter | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | ir, viadiar | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | Gattin des Bruders des Ehemanns | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | ir, via, mez | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
@@ -659,7 +659,7 @@ outline: 2
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | unger, smatgar | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | f | ungiar, scriver, scriptura | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | Scherz, Spiel | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
-| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | sig[] : rompre, distr | [50](/rm/lektionen/lektion50#_50-2-vocabulari) |
+| ⟪लुप्⟫ | [lup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lup&filter=roman&accent=no&transLit=roman) | 6U | rompre, distr | [50](/rm/lektionen/lektion50#_50-2-vocabulari) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | aviditad, avarizia | [5](/rm/lektionen/lektion05#_5-4-lida-da-vartas) |
 | ⟪लौल्य⟫ | [laulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laulya&filter=roman&accent=no&transLit=roman) | n | avidad, lüsternadad | [52](/rm/lektionen/lektion52#_52-7-glossari) |
 
@@ -681,7 +681,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Colur, classa da naschientscha (tendenz) | [2](/rm/lektionen/lektion02#_2-5-lista-da-parolas) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | colur, genia, stad | [5](/rm/lektionen/lektion05#_5-4-lida-da-vartas) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | plievgia, stagiun da plievgia, onn | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : vulair, ordonar, desiderar | [52](/rm/lektionen/lektion52#_52-7-glossari) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | , Imperat. 2.sg.: vulair, ordonar, desiderar | [52](/rm/lektionen/lektion52#_52-7-glossari) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("luminus" =) primavaira (marsch fin mai) | [27](/rm/lektionen/lektion27#_27-5-vocabulari) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | ricchëzza, tesaur, avair, pussess | [27](/rm/lektionen/lektion27#_27-5-vocabulari) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | restar, abitar (cun il locatiu da la persuna, tar la quala ins abitescha) | [27](/rm/lektionen/lektion27#_27-5-vocabulari) |
@@ -766,7 +766,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | uffant, giuven | [49](/rm/lektionen/lektion49#_49-4-lista-da-vuschs) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | bandunar, laschar | [51](/rm/lektionen/lektion51#_51-6-lista-da-pleds) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | da instruir = student | [41](/rm/lektionen/lektion41#_41-3-lista-da-pleds) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | giacer. Questa radiz ha en tut las furmas dal stem da presens stadi aut: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Las suandantas | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | giacer. Questa radiz ha en tut las furmas dal stem da presens stadi aut: 1.sg.Ind.Pres.Ā (śe + e). Las suandantas | [44](/rm/lektionen/lektion44#_44-5-vocabulari) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | svelt, spert | [43](/rm/lektionen/lektion43#_43-4-glossari) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | usanza, abitudin, natira, caracter, buna abitudin = moral | [52](/rm/lektionen/lektion52#_52-7-glossari) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | brillant, splendant, fin ; m.: purezza | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
@@ -780,7 +780,7 @@ outline: 2
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | dolur, afflictiun | [38](/rm/lektionen/lektion38#_38-9-vocabulari) |
 | ⟪शोभन⟫ | [śobhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śobhana&filter=roman&accent=no&transLit=roman) | 3 | splendid, magnificent, splendid, beautiful, good | [18](/rm/lektionen/lektion18#_18-4-lista-da-vartas) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | purificaziun, purezza | [16](/rm/lektionen/lektion16#_16-2-glossari) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : s'affannar, vegnir stgir | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | s'affannar, vegnir stgir | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | s'appoggiar, s'appoggiar a, chattar sustegn, ir a qualchidà (, ) | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | l’udir, la transmissiun eterna (denominaziun per ils Veda e Brāhmaṇa's) | [3](/rm/lektionen/lektion03#_3-6-glosa) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | incommérziant | [43](/rm/lektionen/lektion43#_43-4-glossari) |
@@ -801,11 +801,11 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | l'aggrappar-si a, il contact cun () | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (a - : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista) | [41](/rm/lektionen/lektion41#_41-3-lista-da-pleds) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | hängen, anhaften | [48](/rm/lektionen/lektion48#_48-4-glista-da-pleds) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : attachar, s'attaccar a () | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | attachar, s'attaccar a () | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.) | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | svelt, urgents | [43](/rm/lektionen/lektion43#_43-4-glossari) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | s'assire, stabilir | [20](/rm/lektionen/lektion20#_20-9-glista-da-pleds) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : sich niedersetzen | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sich niedersetzen | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
 | ⟪सनातन⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | — |  etern, imperishevel, constant | [30](/rm/lektionen/lektion30#_30-6-glista-da-pleds) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | gliech, exact, simigliant (cun instrumental) | [18](/rm/lektionen/lektion18#_18-4-lista-da-vartas) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | gliech, exactamain, simig | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
@@ -872,7 +872,7 @@ outline: 2
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | maun | [18](/rm/lektionen/lektion18#_18-4-lista-da-vartas) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | Elefant (_Elephas maximus_) | [38](/rm/lektionen/lektion38#_38-9-vocabulari) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | bandunar | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
 | ⟪हिरण्य⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | daurà ; n.: aur, danér, riczza | [25](/rm/lektionen/lektion25#_25-5-lista-da-paraulas) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | bandunà, privà, difettus | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | il mez da transport imperfect (dal Buddhismus): designaziun dispreziusa dals represchentants dal "grand mez da transport | [33](/rm/lektionen/lektion33#_33-6-glista-da-pleds) |

@@ -998,7 +998,7 @@ Slika: Melodija, glede na c, se lahko transponira glede na glasovni razpon.
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 KONEC SANSKRITSKEGA TEČAJA
 

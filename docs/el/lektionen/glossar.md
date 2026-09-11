@@ -116,7 +116,7 @@ outline: 2
 | ⟪इत्थम्⟫ | इत्थम् | — | με αυτόν τον τρόπο, έτσι | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪इन्द्र⟫ | इन्द्र | m | ηγέτης, πρώτος, άριστος μεταξύ · βασιλιάς των θεών Indra | [15](/el/lektionen/lektion15#_15-8-) |
 | ⟪इव⟫ | इव | — | ως, όπως (σε συγκρίσεις: = "ένας άνδρας σαν τίγρη", "άνδρας ισοδύναμος με τίγρη" | [15](/el/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | इष् | — | sig[] : στέλνω | [42](/el/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | στέλνω | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | इह | — | εδώ, εδώ στη γη, ως εδώ· τώρα. Πριν από ουσιαστικά στην τοπική () ισοδύναμο με  | [50](/el/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -218,8 +218,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | έμπειρος σε ( ) | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | कौमर | — | παιδική ηλικία | [48](/el/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | कौशिक | — | κουκουβάγια | [51](/el/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : προχωρώ, πηγαίνω | [35](/el/lektionen/lektion35#_35-4-) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/el/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P προχωρώ, πηγαίνω | [35](/el/lektionen/lektion35#_35-4-) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/el/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | πράξη, ιερή πράξη, τελετουργική πράξη, τελετή (προς 8) | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | क्री | 9U | αγοράζω | [30](/el/lektionen/lektion30#_30-6-) |
 | ⟪क्रूर⟫ | क्रूर | 3 | άγριος, σκληρός | [51](/el/lektionen/lektion51#_51-6-) |
@@ -261,7 +261,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | καταναλώνει, τρώει | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | ग्रह | — | πιάσιμο, πιάνοντας, κροκόδειλος, πλανήτης | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | σύλληψη | [24](/el/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : αρπάζω, πιάνω, πιάσιμο | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : αρπάζω, πιάνω, πιάσιμο | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | χωριό | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪ग्लै⟫ | ग्लै | — | αισθάνω απροθυμία, εξαφανίζομαι | [36](/el/lektionen/lektion36#_36-4-) |
 
@@ -271,7 +271,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | θανάτωση | [17](/el/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | λιωμένο βούτυρο, γκί ( / گھی / ঘী) | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | — | sig[] : μυρίζω κάτι | [36](/el/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | — | μυρίζω κάτι | [36](/el/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -400,12 +400,12 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | — | αυτό που είναι σταθερό και κρατάει σταθερά = Δάρμα | [25](/el/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | धा | 3U | sig[]: τοποθετώ, ορίζω, διανέμω | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | Απαρ. | — | sig[] | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | धा | 3U | τοποθετώ, ορίζω, διανέμω | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | Απαρ. | — | | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | αλεσμένο σιτηρό | [25](/el/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | Αιτιτ. | — | sig[] | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | Μελλ. | — | sig[] | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | Παθ. | — | sig[] | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | Αιτιτ. | — | | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | Μελλ. | — | | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | Παθ. | — | | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | σταθερός, ανθεκτικός, συνεχής, επιμονή | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | κρατώ, συγκρατώ | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (γελατό) αγελάδα | [3](/el/lektionen/lektion03#_3-6-) |
@@ -566,7 +566,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | — | υπάλληλος, δούλος | [28](/el/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | φωνή επικλήσεως, π.χ.: ω, ας, oh, ει, γεια, χι! συχνά δεν μεταφράζεται. Αυτή η σωματίδα έχει ειδικό Σαντχί: πριν από όλο | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | η απώλεια | [46](/el/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : περιπλανώμαι, περιέρχομαι | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | περιπλανώμαι, περιέρχομαι | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | αδελφός | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪⟪भञ्ज्⟩⟫ | ⟪भञ्ज्⟩ | 7P | (κάτι) σπάω | [31](/el/lektionen/lektion31#_31-2-) |
 | ⟪⟪भिद्⟩⟫ | ⟪भिद्⟩ | 7U | σχίζω | [31](/el/lektionen/lektion31#_31-2-) |
@@ -637,7 +637,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | αν | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | αν και, έστω και, παρότι | [30](/el/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | αν ισχύει αυτό, υπό αυτές τις συνθήκες | [30](/el/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : κρατώ, φέρω ; προσφέρω, παραχωρώ ; συγκρατώ, καταστέλλω, χαλιναγωγώ, νικάω | [44](/el/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | κρατώ, φέρω ; προσφέρω, παραχωρώ ; συγκρατώ, καταστέλλω, χαλιναγωγώ, νικάω | [44](/el/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | πηγαίνω, ταξιδεύω | [44](/el/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | σύζυγος της αδελφής του συζύγου | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | — | πορεία, δρόμος, όχημα | [44](/el/lektionen/lektion44#_44-5-) |
@@ -659,7 +659,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | — | μυστήριο, μοναξιά | [50](/el/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (κόκκινο) χρώμα, πάθος, αγάπη | [5](/el/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | राग | m | επίσης: χρώμα, κόκκινο χρώμα | [51](/el/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | m | βασιλιάς (για τη βασιλεία στην Ινδία, βλ. Basham, Θαύματα σσ. 82-94). Ως συνθετικό τέλος (ειδικά ) συνήθως: -:sig[] m. ( | [38](/el/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | m | βασιλιάς (για τη βασιλεία στην Ινδία, βλ. Basham, Θαύματα σσ. 82-94). Ως συνθετικό τέλος (ειδικά ) συνήθως: -m. ( | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | राज्ञी | f | βασίλισσα, σύζυγος βασιλιά | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | राज्य | 3 | βασιλικός· n. βασίλειο, βασιλεία, κυριαρχία | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | υποφέρουν, αποτυγχάνουν, καταστρέφονται | [50](/el/lektionen/lektion50#_50-2-) |
@@ -683,7 +683,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | επάλειψη, λίπανση | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | f | επάλειψη, γραφή, κείμενο | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | f | σχόλιο, παιχνίδι | [42](/el/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : σπάν, καταστρέφω | [50](/el/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | σπάν, καταστρέφω | [50](/el/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Πλεονεξία, φιλαργυρία | [5](/el/lektionen/lektion05#_5-4-) |
 | ⟪लौल्य⟫ | लौल्य | — | επιθυμία, λιμνότητα | [52](/el/lektionen/lektion52#_52-7-) |
 
@@ -707,7 +707,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | χρώμα, κοινωνική τάξη (στάση) | [2](/el/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | χρώμα, είδος, κοινωνική τάξη | [5](/el/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | βροχή, εποχή των βρόχων, έτος | [25](/el/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Απαρέμφατο 2.sg.: :sig[] : θέλω, διατάσσω, επιθυμώ για | [52](/el/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , Απαρέμφατο 2.sg.: θέλω, διατάσσω, επιθυμώ για | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | («λαμπρός» =) Άνοιξη (Μάρτιος έως Μάιος) | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | Μέλλ.: | — | br PPP: :br Απαρέμφατο | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | πλούτος, θησαυρός, περιουσία, ιδιοκτησία | [27](/el/lektionen/lektion27#_27-5-) |
@@ -810,7 +810,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | — | θρήνος, λύπη | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | शोभन | 3 | λαμπρός, εντυπωσιακός, υπέροχος, όμορφος, καλός | [18](/el/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | n | καθαρισμός, καθαρότητα | [16](/el/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : κουράζομαι, εξαντλώμαι | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | κουράζομαι, εξαντλώμαι | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | στηρίζομαι, ακουμπώ, βρίσκω στήριξη, προσφεύγω σε κάποιον (, ) | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | — | η ακρόαση, η αιώνια παράδοση (ορολογία για τα Βέδα και τα Μπράχμανα) | [3](/el/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | πλούσιος έμπορος | [43](/el/lektionen/lektion43#_43-4-) |
@@ -831,11 +831,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | — | η προσκόλληση σε, επαφή με () | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (προς - : συν-χτύπημα): ομάδα, όμιλος, κοινότητα (π.χ. βουδιστική) | [41](/el/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | κρεμάω, κολλάω | [48](/el/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : προσκολλάω, κολλώ σε () | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | προσκολλάω, κολλώ σε () | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | αλήθεια | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | γρήγορα, βιαστικά | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | κάθομαι, καθίζω | [20](/el/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : καθίζω | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | καθίζω | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  αιώνιος, άφθαρτος, σταθερός | [30](/el/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | ίσος, ίδιος, όμοιος (με τη δοτική) | [18](/el/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | ίσος, ίδιος, παρόμοιος | [46](/el/lektionen/lektion46#_46-2-) |
@@ -908,7 +908,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | χέρι | [18](/el/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | ελέφαντας (_Elephas maximus_) | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | εγκαταλείπω | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/el/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | हिरण्य | — | χρυσός· ουσ.: χρυσός, χρήματα, πλούτος | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | εγκαταλελειμμένος, ελλειπής, ανεπαρκής | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | το ελλιπές όχημα (του Βουδισμού): περιφρονητικός χαρακτηρισμός από τους εκπροσώπους του «μεγάλου οχήματος», του ; η ελλι | [33](/el/lektionen/lektion33#_33-6-) |

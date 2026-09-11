@@ -329,7 +329,7 @@ Umzekelo:
 
 ::: indent
 
-sig[⟪राज⟫]⟪पुत्र⟫ "umzala womkhosi"
+:sig[⟪राज⟫]⟪पुत्र⟫ "umzala womkhosi"
 
 :::
 

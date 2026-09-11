@@ -758,7 +758,7 @@ Tämän toivoo sinulle Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 SANSKRITKURSSIN PÄÄTTYMINEN
 :::

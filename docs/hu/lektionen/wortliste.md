@@ -2490,7 +2490,7 @@ Kép: ⟪दानम्⟫
 Ábr.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Képmegjelenítés: [Részletek](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: elhelyez, meghatároz, kioszt
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: elhelyez, meghatároz, kioszt
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

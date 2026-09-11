@@ -2489,7 +2489,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Imaginis auctor: [Detalia](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: constituere, determinare, dividere
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: constituere, determinare, dividere
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

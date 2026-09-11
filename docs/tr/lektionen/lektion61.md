@@ -758,7 +758,7 @@ Bu dileklerle, Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 SANSKRİT KURSU SONU
 :::

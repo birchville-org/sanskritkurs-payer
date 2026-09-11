@@ -2490,7 +2490,7 @@ Kuva: ⟪दानम्⟫
 Kuv.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: asettaa, määrätä, jakaa
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: asettaa, määrätä, jakaa
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
@@ -4404,7 +4404,7 @@ ei käytössä muissa aikamuodoissa
 
 
 
-⟪अजिन⟫ n.: antiloopin nahka, erityisesti mustan antiloopin (hirviantilooppi: _Antilope cervicapra_ L.) nahka. Se esiintyi alun perin koko Intian niemimaalla Punjabista ja Sindistä Bengaliin sekä Nepalista Kanyakumariin (Cape Comorin) (tamili: கன்னியாகுமари). Katso:
+⟪अजिन⟫ n.: antiloopin nahka, erityisesti mustan antiloopin (hirviantilooppi: _Antilope cervicapra_ L.) nahka. Se esiintyi alun perin koko Intian niemimaalla Punjabista ja Sindistä Bengaliin sekä Nepalista Kanyakumariin (Cape Comorin) (tamili: கன்னியாகுமரி). Katso:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 osaa. -- ISBN 0-8018-5789-9. -- Osa 2. -- S. 1193f.
 

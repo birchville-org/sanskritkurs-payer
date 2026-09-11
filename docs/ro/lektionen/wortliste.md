@@ -2495,7 +2495,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Sursa imaginii: [Detalii](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: a stabili, a fixa, a repartiza
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: a stabili, a fixa, a repartiza
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

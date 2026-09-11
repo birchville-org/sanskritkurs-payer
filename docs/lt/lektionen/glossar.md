@@ -120,7 +120,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/lt/lektionen/lektion24#_24-4-odi-sraas) |
 | ⟪इव⟫ | इव | — | as if, like (in comparisons: = "a man like a tiger", "a tiger-like man" | [15](/lt/lektionen/lektion15#_15-8-ordliste) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish | [11](/lt/lektionen/lektion11#_11-2-odynas) |
-| ⟪इष्⟫ | इष् | — | sig[] : siųsti | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
+| ⟪इष्⟫ | इष् | — | siųsti | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish (iṣ-ccha-ti) | [11](/lt/lektionen/lektion11#_11-2-odynas) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | wish (iṣ + -ti) | [11](/lt/lektionen/lektion11#_11-2-odynas) |
 | ⟪इह⟫ | इह | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with , m: ordinance, custom, ritual; [World | [50](/lt/lektionen/lektion50#_50-2-odynas) |
@@ -222,7 +222,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : to stride, to go | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P to stride, to go | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/lt/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रिया⟫ | क्रिया | f | action, sacred action, sacrificial act, ceremony (to 8) | [20](/lt/lektionen/lektion20#_20-9-odynas) |
@@ -281,7 +281,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | pagriebimas, pagriebėjas, krokodilas, klajojanti žvaigždė | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/lt/lektionen/lektion24#_24-4-odi-sraas) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : pagriebti, suimti, paliesti | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : pagriebti, suimti, paliesti | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | kaimas | [10](/lt/lektionen/lektion10#_10-5-odynas) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
 | ⟪ग्लै⟫ | ग्लै | 1P | jausti nepasitenkinimą, išnykti | [36](/lt/lektionen/lektion36#_36-4-odynas) |
@@ -292,7 +292,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | žudymas | [17](/lt/lektionen/lektion17#_17-6-odynas) |
 | ⟪घृत⟫ | घृत | n | Clarified butter, Ghee ( / گھی / ঘী) | [33](/lt/lektionen/lektion33#_33-6-word-list) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : ką nors jausti kvapu | [36](/lt/lektionen/lektion36#_36-4-odynas) |
+| ⟪घ्रा⟫ | घ्रा | 1P | ką nors jausti kvapu | [36](/lt/lektionen/lektion36#_36-4-odynas) |
 
 ## च
 
@@ -403,7 +403,7 @@ outline: 2
 | ⟪दुःख⟫ | [duḥkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duḥkha&filter=roman&accent=no&transLit=roman) | n | nelaimė, kančia | [8](/lt/lektionen/lektion08#_8-5-odynas) |
 | ⟪दुहितृ⟫ | दुहितृ | f | Daughter | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
 | ⟪दुह्⟫ | दुह् | — | melžti | [17](/lt/lektionen/lektion17#_17-6-odynas) |
-| ⟪दूत⟫ | दूत | m | pasiuntinys, послaninkas | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
+| ⟪दूत⟫ | दूत | m | pasiuntinys | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
 | ⟪देव⟫ | [deva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deva&filter=roman&accent=no&transLit=roman) | m | Dangaus būtybė, dievas; kunigaikštis, karalius | [2](/lt/lektionen/lektion02#_2-5-odynas) |
 | ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | dievybė (abstrakti ir konkreti) | [3](/lt/lektionen/lektion03#_3-6-odynas) |
 | ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | deivė, ypač Durgā f. = , Šivos žmona =  | [3](/lt/lektionen/lektion03#_3-6-odynas) |
@@ -427,11 +427,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | that which is firm and holds fast = Dharma | [25](/lt/lektionen/lektion25#_25-5-odynas) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | mokslo traktatai dėl teisės ir papročių (teisingas elgesys) | [3](/lt/lektionen/lektion03#_3-6-odynas) |
 | ⟪धा⟫ | धा | — | to direct all attention towards something, to collect oneself | [33](/lt/lektionen/lektion33#_33-6-word-list) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/lt/lektionen/lektion33#_33-6-word-list) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/lt/lektionen/lektion33#_33-6-word-list) |
 | ⟪धान्य⟫ | धान्य | n | threshed grain | [25](/lt/lektionen/lektion25#_25-5-odynas) |
-| ⟪धापयति⟫ | Caus. | — | sig[] | [33](/lt/lektionen/lektion33#_33-6-word-list) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/lt/lektionen/lektion33#_33-6-word-list) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/lt/lektionen/lektion33#_33-6-word-list) |
+| ⟪धापयति⟫ | Caus. | — | | [33](/lt/lektionen/lektion33#_33-6-word-list) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/lt/lektionen/lektion33#_33-6-word-list) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/lt/lektionen/lektion33#_33-6-word-list) |
 | ⟪धीर⟫ | धीर | 3 | firm, steadfast, continuous, persistent | [52](/lt/lektionen/lektion52#_52-7-odi-sraas) |
 | ⟪धृ⟫ | धृ | 1U | to hold, to keep fast | [25](/lt/lektionen/lektion25#_25-5-odynas) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (pieno) karvė | [3](/lt/lektionen/lektion03#_3-6-odynas) |
@@ -606,7 +606,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | pavaldinis, tarnas | [28](/lt/lektionen/lektion28#_28-10-odynas) |
 | ⟪भोस्⟫ | भोस् | — | exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi:  | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪भ्रंश⟫ | भ्रंश | m | the falling away | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : to wander, to roam | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | to wander, to roam | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brother | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
 
 ## म
@@ -672,7 +672,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | if | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪यद्यपि⟫ | यद्यपि | — | even if, although | [30](/lt/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | if so, under these circumstances | [30](/lt/lektionen/lektion30#_30-6-vocabulary-list) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/lt/lektionen/lektion44#_44-5-odynas) |
+| ⟪यम्⟫ | यम् | 1P | to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/lt/lektionen/lektion44#_44-5-odynas) |
 | ⟪या⟫ | या | 2P | eiti, važiuoti | [44](/lt/lektionen/lektion44#_44-5-odynas) |
 | ⟪यातृ⟫ | यातृ | m | Husband of the brother's wife | [42](/lt/lektionen/lektion42#_42-2-odi-sraas) |
 | ⟪यान⟫ | यान | n | going, path, vehicle | [44](/lt/lektionen/lektion44#_44-5-odynas) |
@@ -747,7 +747,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Spalva, gimimo kilmės sluoksnis (stiprybė) | [2](/lt/lektionen/lektion02#_2-5-odynas) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, genus, social class | [5](/lt/lektionen/lektion05#_5-4-odynas) |
 | ⟪वर्ष⟫ | वर्ष | n | rain, rainy season, year | [25](/lt/lektionen/lektion25#_25-5-odynas) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : to want, command, desire | [52](/lt/lektionen/lektion52#_52-7-odi-sraas) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: to want, command, desire | [52](/lt/lektionen/lektion52#_52-7-odi-sraas) |
 | ⟪वसन्त⟫ | वसन्त | m | ("shining" =) spring (March to May) | [27](/lt/lektionen/lektion27#_27-5-odynas) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/lt/lektionen/lektion27#_27-5-odynas) |
 | ⟪वसु⟫ | वसु | n | wealth, treasure, property, possession | [27](/lt/lektionen/lektion27#_27-5-odynas) |
@@ -833,7 +833,7 @@ outline: 2
 | ⟪शिक्षा⟫ | शिक्षा | f | science, instruction; phonetics | [25](/lt/lektionen/lektion25#_25-5-odynas) |
 | ⟪शिशु⟫ | शिशु | m | vaikas, jauniklis | [49](/lt/lektionen/lektion49#_49-4-word-list) |
 | ⟪शिष्य⟫ | शिष्य | 3 | mokytinas = mokinys | [41](/lt/lektionen/lektion41#_41-3-odi-sraas) |
-| ⟪शी⟫ | शी | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā :sig[] (śe + e). The following forms are pa | [44](/lt/lektionen/lektion44#_44-5-odynas) |
+| ⟪शी⟫ | शी | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā (śe + e). The following forms are pa | [44](/lt/lektionen/lektion44#_44-5-odynas) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | greitas, skubus | [43](/lt/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪शील⟫ | शील | n | custom, habit, nature, character, good habit = morality | [52](/lt/lektionen/lektion52#_52-7-odi-sraas) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papūga | [8](/lt/lektionen/lektion08#_8-5-odynas) |
@@ -851,7 +851,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : to toil, become tired | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
+| ⟪श्रम्⟫ | श्रम् | 4P | to toil, become tired | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/lt/lektionen/lektion32#_32-5-odynas) |
@@ -876,11 +876,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | the attaching to, contact with () | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (prie - : kartu-biti): būrys, gauja, bendruomenė (pvz., budistinė) | [41](/lt/lektionen/lektion41#_41-3-odi-sraas) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | hängen, anhaften | [48](/lt/lektionen/lektion48#_48-4-odynas) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : to attach, to stick to () | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | to attach, to stick to () | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | tiesa | [10](/lt/lektionen/lektion10#_10-5-odynas) |
 | ⟪सत्वर⟫ | सत्वर | 3 | fast, hurried | [43](/lt/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪सद्⟫ | सद् | — | sit, settle down | [20](/lt/lektionen/lektion20#_20-9-odynas) |
-| ⟪सद्⟫ | सद् | — | sig[] : to sit down | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
+| ⟪सद्⟫ | सद् | — | to sit down | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
 | ⟪सनातन ३⟫ | सनातन ३ | f |  eternal, imperishable, constant | [30](/lt/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪सम⟫ | सम | 3 | lygus, vienodas, panašus (su įnagininku) | [18](/lt/lektionen/lektion18#_18-4-odynas) |
 | ⟪सम⟫ | सम | 3 | lygus, tas pats, panašus | [46](/lt/lektionen/lektion46#_46-2-odi-sraas) |
@@ -954,7 +954,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | ranka | [18](/lt/lektionen/lektion18#_18-4-odynas) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/lt/lektionen/lektion38#_38-9-odi-sraas) |
 | ⟪हा⟫ | हा | 3P | to leave | [33](/lt/lektionen/lektion33#_33-6-word-list) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/lt/lektionen/lektion33#_33-6-word-list) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/lt/lektionen/lektion33#_33-6-word-list) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | golden ; n.: gold, money, wealth | [25](/lt/lektionen/lektion25#_25-5-odynas) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | left by, lacking, defective | [33](/lt/lektionen/lektion33#_33-6-word-list) |
 | ⟪हीनयान⟫ | हीनयान | n | the defective vehicle (of Buddhism): derogatory term used by representatives of the "Great Vehicle", i.e. ; the defectiv | [33](/lt/lektionen/lektion33#_33-6-word-list) |

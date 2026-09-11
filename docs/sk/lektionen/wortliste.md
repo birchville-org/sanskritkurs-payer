@@ -3120,7 +3120,7 @@ Obr.: ⟪सा पुत्रमादाय भारं बिभ्रत�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: stanoviť, určiť, prideľovať
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: stanoviť, určiť, prideľovať
 
 ::: indent
 

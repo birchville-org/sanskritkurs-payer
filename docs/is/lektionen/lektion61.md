@@ -998,7 +998,7 @@ This is wished for you by your Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 END OF THE SANSKRIT COURSE
 

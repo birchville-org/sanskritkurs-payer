@@ -242,7 +242,7 @@ Resim: ⟪दानम्⟫
 Resim: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: yerleştirmek, belirlemek, dağıtmak
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: yerleştirmek, belirlemek, dağıtmak
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

@@ -95,7 +95,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | Տիրակալ, Առաջին, Լավագույնը ; Աստվածների թագավոր Ինդրա | [15](/hy/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | ուժ, զգայարան | [24](/hy/lektionen/lektion24#_24-4-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ցանկանալ | [11](/hy/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : ուղարկել | [42](/hy/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ուղարկել | [42](/hy/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ցանկանալ (iṣ-ccha-ti) | [11](/hy/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | ցանկություն (iṣ + -ti) | [11](/hy/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | //en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (-ից) | [50](/hy/lektionen/lektion50#_50-2-) |
@@ -193,7 +193,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/hy/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/hy/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/hy/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : քայլել, գնալ | [35](/hy/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P քայլել, գնալ | [35](/hy/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/hy/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/hy/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | գործողություն, սուրբ գործողություն, զոհաբերության արարողություն, արարողություն (↔ 8) | [20](/hy/lektionen/lektion20#_20-9-) |
@@ -248,7 +248,7 @@ outline: 2
 | ⟪गोदान⟫ | गोदान | n | խոշոր եղջերավորների/մեկ կովի տալը ; մազահարսանյաց երկրորդ արարողությունը (մեկ ) | [25](/hy/lektionen/lektion25#_25-5-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | բռնելը | [24](/hy/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti)՝ բռնել, ձգտել, հպվել | [46](/hy/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti)՝ բռնել, ձգտել, հպվել | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | գյուղ | [10](/hy/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | դիմադրություն զգալ, անհետանալ | [36](/hy/lektionen/lektion36#_36-4-) |
@@ -259,7 +259,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | սպանություն | [17](/hy/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | Սառեցված կարագ, գի ( / گھی / ঘী) | [33](/hy/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : հոտ զգալ | [36](/hy/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | հոտ զգալ | [36](/hy/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -377,11 +377,11 @@ outline: 2
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | («այն, ինչ ամուր է», այսինքն՝) իրավունք, օրենք, սովորույթ, բնութագիր | [11](/hy/lektionen/lektion11#_11-2-) |
 | ⟪धर्म⟫ | धर्म | m | այն, ինչ ամուր է և պահում է = Դհարմա | [25](/hy/lektionen/lektion25#_25-5-) |
-| ⟪धातुम्⟫ | Անվ. | — | sig[] | [33](/hy/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | Անվ. | — | | [33](/hy/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | մշակած հատիկներ | [25](/hy/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | Պատճ. | — | sig[] | [33](/hy/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | Վաղ. | — | sig[] | [33](/hy/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | Թթ. | — | sig[] | [33](/hy/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | Պատճ. | — | | [33](/hy/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | Վաղ. | — | | [33](/hy/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | Թթ. | — | | [33](/hy/lektionen/lektion33#_33-6-) |
 | ⟪धृ⟫ | धृ | 1U | պահել, կոփել | [25](/hy/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (կաթն) խոշոր եղջերավոր անասուն։ | [3](/hy/lektionen/lektion03#_3-6-) |
 | ⟪ध्यै⟫ | ध्यै | 1P | պատկերացնել, մտածել | [49](/hy/lektionen/lektion49#_49-4-) |
@@ -532,7 +532,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | ենթակա, ծառա | [28](/hy/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | Անվանումը, օրինակ՝ հեյ, հեդա, ոհ, էի, բարև, ի! Հաճախ չի թարգմանվում։ Այս մասնիկը ունի հատուկ սանդհի. բոլոր ձայնավորներից | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/hy/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : շրջել, քայլել | [46](/hy/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | շրջել, քայլել | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Եղբայր | [42](/hy/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -589,7 +589,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | եթե | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | թեև, նույնիսկ եթե, չնայած | [30](/hy/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | եթե այդպես է, նման պայմաններում | [30](/hy/lektionen/lektion30#_30-6-vocabulary-list) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : պահել, կրել ; տալ, շնորհել ; միասին պահել, զսպել, կառավարել, հնազանդեցնել | [44](/hy/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | պահել, կրել ; տալ, շնորհել ; միասին պահել, զսպել, կառավարել, հնազանդեցնել | [44](/hy/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | գնալ, շարժվել | [44](/hy/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | Ամուսնու եղբոր կին | [42](/hy/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | գնալ, ճանապարհ, միջոց | [44](/hy/lektionen/lektion44#_44-5-) |
@@ -728,7 +728,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | երեխա, ձագ | [49](/hy/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | verlassen, übriglassen | [51](/hy/lektionen/lektion51#_51-6-wortliste---516) |
 | ⟪शिष्य⟫ | शिष्य | 3 | Ուսուցանելի = աշակերտ | [41](/hy/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | ընկած լինել։ Այս արմատը բոլոր ներկայի ցուցական ձևաբանության մեջ ունի Բարձր աստիճան: 1.sg.Ind.Präs.Ā :sig[] (śe + e)։ Հետ | [44](/hy/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | ընկած լինել։ Այս արմատը բոլոր ներկայի ցուցական ձևաբանության մեջ ունի Բարձր աստիճան: 1.sg.Ind.Präs.Ā (śe + e)։ Հետ | [44](/hy/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | արագ, շուտ | [43](/hy/lektionen/lektion43#_43-4-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | արջառ | [8](/hy/lektionen/lektion08#_8-5-) |
 | ⟪शुचि⟫ | शुचि | 3 | մաքրություն | [29](/hy/lektionen/lektion29#_29-2-) |
@@ -744,7 +744,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/hy/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/hy/lektionen/lektion32#_32-5-) |
@@ -769,10 +769,10 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | — | (կապված - : միասին հարվածել): Խումբ, բազմություն, համայնք (օրինակ՝ բուդդիստական) | [41](/hy/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | — | կախված լինել, ամրանալ | [48](/hy/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/hy/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | ճշմարտություն | [10](/hy/lektionen/lektion10#_10-5-) |
 | ⟪सद्⟫ | सद् | — | նստել, տեղավորվել | [20](/hy/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : նստել | [46](/hy/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | նստել | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  հավերժ, անմահ, կայուն | [30](/hy/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪सम⟫ | सम | 3 | հավասար, նույն, նման | [46](/hy/lektionen/lektion46#_46-2-) |
 | ⟪समाधि⟫ | समाधि | m | ներքին հավաքվածություն, բարձրագույն ուշադրություն, մեդիտատիվ «խորասուզում» | [20](/hy/lektionen/lektion20#_20-9-) |
@@ -828,7 +828,7 @@ outline: 2
 | ⟪हरिहर⟫ | हरिहर | m | Վիշնուն և Շիվան միավորված որպես մեկ դիցություն։ | [27](/hy/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | हर्ष | m | (մազերի ուռչելը), երջանկություն | [25](/hy/lektionen/lektion25#_25-5-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/hy/lektionen/lektion38#_38-9-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/hy/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/hy/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | ոսկեգույն ; n.: ոսկի, դրամ, հարստություն | [25](/hy/lektionen/lektion25#_25-5-) |
 | ⟪हृ⟫ | हृ | 1U | պահել, կրել; բերել, հեռացնել, խլել | [27](/hy/lektionen/lektion27#_27-5-) |
 | ⟪हृष्⟫ | हृष् | 4P | կարկամել, խոնարհվել (մազեր), ուրախանալ (Ինստ., Ակկ., Լոկ.) | [36](/hy/lektionen/lektion36#_36-4-) |

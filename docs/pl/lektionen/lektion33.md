@@ -242,7 +242,7 @@ Ilustracja: ⟪दानम्⟫
 Ilustracja: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ustawiać, wyznaczać, przydzielać
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ustawiać, wyznaczać, przydzielać
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

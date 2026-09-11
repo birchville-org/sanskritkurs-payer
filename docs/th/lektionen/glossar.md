@@ -115,7 +115,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | เจ้าผู้ปกครอง, ผู้แรก, ที่ดีที่สุด among ; พระราชาแห่งเทพเจ้าอินทรา | [15](/th/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | พลัง, อินทรีย์ (ประสาท) | [24](/th/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | เสมือน, เช่น (ในการเปรียบเทียบ: = "ชายคนหนึ่งเหมือนเสือ", "ชายผู้ดุจเสือ" | [15](/th/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | इष् | — | sig[] : ส่ง | [42](/th/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ส่ง | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | इह | Adv | ที่นี่, บนโลกนี้, มาที่นี่ ; ตอนนี้. หน้าคำนามใน Lokativ () มีความหมายเดียวกับ  | [50](/th/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -220,7 +220,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : เดิน, ไป | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P เดิน, ไป | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/th/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रिया⟫ | क्रिया | — | การกระทำ, พิธีกรรมศักดิ์สิทธิ์, การบูชา, พิธีการ (เกี่ยวข้องกับ 8) | [20](/th/lektionen/lektion20#_20-9-) |
@@ -267,7 +267,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | กิน, กัดกิน | [29](/th/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | ग्रह | m | การจับ, ผู้จับ, จระเข้, ดาวเคราะห์ | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | การจับต้อง | [24](/th/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : จับ, ถือ, กอด | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : จับ, ถือ, กอด | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | หมู่บ้าน | [10](/th/lektionen/lektion10#_10-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | รู้สึกไม่เต็มใจ, จางหาย | [36](/th/lektionen/lektion36#_36-4-) |
 
@@ -277,7 +277,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | การฆ่า | [17](/th/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | — | เนยละลาย, กี ( / گھی / ঘী) | [33](/th/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : ได้กลิ่น | [36](/th/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | ได้กลิ่น | [36](/th/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -292,7 +292,7 @@ outline: 2
 | ⟪चर्⟫ | चर् | — | ปฏิบัติคำปฏิญาณ โดยเฉพาะความสำรวมทางเพศ) | [22](/th/lektionen/lektion22#_22-3-) |
 | ⟪चल्⟫ | चल् | 1P | เคลื่อนไหว | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪चाण्डाल⟫ | चाण्डाल | — | ระดับล่างสุดของ [Dalits](http://de.wikipedia.org/wiki/Dalit) | [49](/th/lektionen/lektion49#_49-4-) |
-| ⟪चि⟫ | चि | 5U | 堆积, รวมกัน | [36](/th/lektionen/lektion36#_36-4-) |
+| ⟪चि⟫ | चि | 5U | สะสม, รวมกัน | [36](/th/lektionen/lektion36#_36-4-) |
 | ⟪चित्त⟫ | चित्त | n | จิตสำนึก การคิด มโนธรรม | [16](/th/lektionen/lektion16#_16-2-) |
 | ⟪चिन्तापर⟫ | चिन्तापर | 3 | จมอยู่ในความคิด | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪चिन्त्⟫ | चिन्त् | — | คิด, พิจารณา | [51](/th/lektionen/lektion51#_51-6-) |
@@ -400,11 +400,11 @@ outline: 2
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | — | สิ่งที่ยึดมั่นและยึดไว้ได้ = ธรรม | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | คัมภีร์เกี่ยวกับกฎหมายและประเพณี (พฤติกรรมที่ถูกต้อง) | [3](/th/lektionen/lektion03#_3-6-) |
-| ⟪धातुम्⟫ | อัญ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | อัญ | — | | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | ธัญพืชที่สีแล้ว | [25](/th/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | เหตุ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | อนาคต | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | สุภาพ | — | sig[] | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | เหตุ | — | | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | อนาคต | — | | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | สุภาพ | — | | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | มั่นคง, แน่วแน่, ต่อเนื่อง, ยืนยง | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | ถือ, จับให้แน่น | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪ध्यै⟫ | ध्यै | 1P | จินตนาการ, คิด | [49](/th/lektionen/lektion49#_49-4-) |
@@ -575,7 +575,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | — | ผู้ใต้บังคับบัญชา, บ่าว | [28](/th/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | คำอุทานในการเรียก, เช่น: เฮ้, ฮีดา, โอ้, เอ๋ย, สวัสดี, ไฮ! มักไม่สามารถแปลได้โดยตรง Particles นี้มี Sandhi พิเศษ: ก่อนเส | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | การหายไป | [46](/th/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : เดินเร่ร่อน, เดินเตร่ | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | เดินเร่ร่อน, เดินเตร่ | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | พี่ชายหรือน้องชาย | [42](/th/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -641,7 +641,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | ถ้า | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | แม้แต่, แม้ว่า, ทั้งที่ | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | ถ้าเป็นเช่นนั้น, ในกรณีนี้ | [30](/th/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : ถือ, นำ ; มอบให้, ให้; รวมกัน, ควบคุม, จูง, ชักลาก, ยอมจำนน | [44](/th/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | ถือ, นำ ; มอบให้, ให้; รวมกัน, ควบคุม, จูง, ชักลาก, ยอมจำนน | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | ไป, เดินทาง | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | ภรรยาของพี่ชายหรือน้องชายของสามี (พี่สะใภ้/น้องสะใภ้) | [42](/th/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | การไป, เส้นทาง, ยานพาหนะ | [44](/th/lektionen/lektion44#_44-5-) |
@@ -708,7 +708,7 @@ outline: 2
 | ⟪वर्ग⟫ | वर्ग | — | ส่วน, หมวด, กลุ่ม | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | สี, สถานะกำเนิด (ความพยายาม) | [2](/th/lektionen/lektion02#_2-5-) |
 | ⟪वर्ष⟫ | वर्ष | — | ฝน, ฤดูฝน, ปี | [25](/th/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], คำสั่ง 2.sg.: :sig[] : ต้องการ, สั่งการ, ต้องการ | [52](/th/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , คำสั่ง 2.sg.: ต้องการ, สั่งการ, ต้องการ | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("ส่องแสง" =) ฤดูใบไม้ผลิ (มีนาคมถึงพฤษภาคม) | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/th/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | ความมั่งคั่ง, อสังหาริมทรัพย์, ทรัพย์สิน, มรดก | [27](/th/lektionen/lektion27#_27-5-) |
@@ -760,7 +760,7 @@ outline: 2
 | ⟪वेष⟫ | वेष | m | เครื่องแต่งกาย, รูปลักษณ์, ภายนอก | [49](/th/lektionen/lektion49#_49-4-) |
 | ⟪वै⟫ | वै | — | อนุภาคที่เน้นคำก่อนหน้า: แท้จริง, แน่นอน, แต่ | [50](/th/lektionen/lektion50#_50-2-) |
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | — | ไวกษัย (สถานะเกษตรกรและพ่อค้า) | [2](/th/lektionen/lektion02#_2-5-) |
-| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | ไ往ศยสตรี | [3](/th/lektionen/lektion03#_3-6-) |
+| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | ไวศยสตรี | [3](/th/lektionen/lektion03#_3-6-) |
 | ⟪व्यवहार⟫ | व्यवहार | — | การกระทำ, พฤติกรรม, ความสัมพันธ์, การติดต่อ, ธุรกิจ, พาณิชยกรรม, (คดี) กระบวนการยุติธรรม | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪व्याकरण⟫ | व्याकरण | — | ไวยากรณ์ (เกี่ยวกับ ) | [48](/th/lektionen/lektion48#_48-4-) |
 | ⟪व्याघ्र⟫ | व्याघ्र | m | เสือโคร่ง (_Panthera tigris tigris_) (ตามตัวอักษร: ผู้หาว) | [15](/th/lektionen/lektion15#_15-8-) |
@@ -792,7 +792,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | เด็ก, ลูกสัตว์ | [49](/th/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | ทิ้งไว้, เหลือทิ้ง | [51](/th/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | 3 | ผู้ควรได้รับการสอน = นักเรียน | [41](/th/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | นอนอยู่ รากนี้ในทุก bentukของปัจจุบันมีระดับสูง: 1.sg.Ind.Präs.Ā :sig[] (śe + e) รูปต่อไปนี้มี: 3.pl.Ind.Präs.Ā :sig[],  | [44](/th/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | นอนอยู่ รากนี้ในทุก bentukของปัจจุบันมีระดับสูง: 1.sg.Ind.Präs.Ā (śe + e) รูปต่อไปนี้มี: 3.pl.Ind.Präs.Ā ,  | [44](/th/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | เร็ว, รวดเร็ว | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | ประเพณี, ความเคยชิน, ธรรมชาติ, ลักษณะนิสัย, ความดี = จริยธรรม | [52](/th/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | นกแก้ว | [8](/th/lektionen/lektion08#_8-5-) |
@@ -808,7 +808,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | ความเศร้า, ความทุกข์ | [38](/th/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | शोभन | 3 | ส่องแสง, สวยงาม, หรูหรา, สวย, ดี | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | n | การชำระให้บริสุทธิ์ ความสะอาด | [16](/th/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : พยายามอย่างหนัก, เหนื่อยล้า | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | พยายามอย่างหนัก, เหนื่อยล้า | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | พาดพิง, พักพิง, หาที่พึ่ง, ไปหาใครสักคน (, ) | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | ฟัง (บางสิ่ง: วิภาคกรรม, บุคคลหนึ่ง: วิภาคเจ้าของหรือวิภาคกรรม; เกี่ยวกับ: วิภาคกรรม; จากบุคคลหนึ่ง: วิภาคเจ้าของ, วิภาค | [7](/th/lektionen/lektion07#_7-6-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | การฟัง, ศาสดรอันนิรันดร์ (ชื่อเรียกสำหรับพระเวทและคัมภีร์พราหมณะ) | [3](/th/lektionen/lektion03#_3-6-) |
@@ -831,11 +831,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | การติด, การสัมผัส () | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | — | (จาก - : รวมกันตี): กลุ่ม, กอง, สังคม (เช่น พุทธศาสนา) | [41](/th/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | แขวน, ติดพัน | [48](/th/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : ติด, ยึดติดกับ () | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | ติด, ยึดติดกับ () | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | ความจริง | [10](/th/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | เร็ว, รีบ | [43](/th/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | นั่ง, ตั้งตัว | [20](/th/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : นั่งลง | [46](/th/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | นั่งลง | [46](/th/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  นิรันดร์, ไม่เสื่อมสลาย, มั่นคง | [30](/th/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | เท่ากัน, เสมอ, คล้าย (กับกรณีนามstrumental) | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | เท่ากัน, เปรียบเสมือน, คล้ายคลึง | [46](/th/lektionen/lektion46#_46-2-) |
@@ -908,7 +908,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | — | มือ | [18](/th/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | ช้าง (_Elephas maximus_) | [38](/th/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | ทิ้ง | [33](/th/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/th/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | हिरण्य | — | สีทอง ; n.: ทอง, เงิน, ความมั่งคั่ง | [25](/th/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | ทิ้งโดย, ขาดแคลน, ไม่สมบูรณ์ | [33](/th/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | ยานที่บกพร่อง (ของพุทธศาสนา): คำดูถูกโดยผู้แทนของ "ยานใหญ่", ของ ; เส้นทางที่บกพร่อง ( ไปยัง 2: ไป, ขับรถ). คำว่า ไม่ควร | [33](/th/lektionen/lektion33#_33-6-) |

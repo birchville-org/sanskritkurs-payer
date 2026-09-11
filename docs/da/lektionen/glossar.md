@@ -127,7 +127,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/da/lektionen/lektion24#_24-4-ordbog) |
 | ⟪इव⟫ | इव | — | as if, like (in comparisons: = "a man like a tiger", "a tiger-like man" | [15](/da/lektionen/lektion15#_15-8-ordbog) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ønske | [11](/da/lektionen/lektion11#_11-2-ordbog) |
-| ⟪इष्⟫ | इष् | — | sig[] : sende | [42](/da/lektionen/lektion42#_42-2-ordbog) |
+| ⟪इष्⟫ | इष् | — | sende | [42](/da/lektionen/lektion42#_42-2-ordbog) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ønske (iṣ-ccha-ti) | [11](/da/lektionen/lektion11#_11-2-ordbog) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | ønske (iṣ + -ti) | [11](/da/lektionen/lektion11#_11-2-ordbog) |
 | ⟪इह⟫ | इह | Adv | her, her på jorden, hit ; nu. For substantiver i lokativ () synonym med , m: lov, skik, ritual ; [verdensperiode](http:/ | [50](/da/lektionen/lektion50#_50-2-ordbog) |
@@ -238,7 +238,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/da/lektionen/lektion35#_35-4-ordbog) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/da/lektionen/lektion35#_35-4-ordbog) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/da/lektionen/lektion35#_35-4-ordbog) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : schritte, gik | [35](/da/lektionen/lektion35#_35-4-ordbog) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P schritte, gik | [35](/da/lektionen/lektion35#_35-4-ordbog) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/da/lektionen/lektion35#_35-4-ordbog) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/da/lektionen/lektion35#_35-4-ordbog) |
 | ⟪क्रिया⟫ | क्रिया | f | handling, hellig handling, offerhandling, ceremoni (til 8) | [20](/da/lektionen/lektion20#_20-9-ordlister) |
@@ -299,7 +299,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | greb, griber, krokodille, vandreende stjerne | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/da/lektionen/lektion24#_24-4-ordbog) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : gribe, tage fat i, fatte | [46](/da/lektionen/lektion46#_46-2-ordbog) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : gribe, tage fat i, fatte | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | Landsby | [10](/da/lektionen/lektion10#_10-5-ordbog) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
 | ⟪ग्लै⟫ | ग्लै | 1P | føle modvilje, forsvinde | [36](/da/lektionen/lektion36#_36-4-ordbog) |
@@ -310,7 +310,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | drabning | [17](/da/lektionen/lektion17#_17-6-ordbog) |
 | ⟪घृत⟫ | घृत | n | Smørret smeltet fedt, ghee ( / گھی / ঘী) | [33](/da/lektionen/lektion33#_33-6-ordbog) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : lugte noget | [36](/da/lektionen/lektion36#_36-4-ordbog) |
+| ⟪घ्रा⟫ | घ्रा | 1P | lugte noget | [36](/da/lektionen/lektion36#_36-4-ordbog) |
 
 ## च
 
@@ -448,11 +448,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | det, der er fast og holder fast = Dharma | [25](/da/lektionen/lektion25#_25-5-ordbog) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | lærebøger om ret og skik (korrekt adfærd) | [3](/da/lektionen/lektion03#_3-6-ordbog) |
 | ⟪धा⟫ | धा | — | rette hele opmærksomheden mod noget, samle sig | [33](/da/lektionen/lektion33#_33-6-ordbog) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/da/lektionen/lektion33#_33-6-ordbog) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/da/lektionen/lektion33#_33-6-ordbog) |
 | ⟪धान्य⟫ | धान्य | n | knust korn | [25](/da/lektionen/lektion25#_25-5-ordbog) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/da/lektionen/lektion33#_33-6-ordbog) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/da/lektionen/lektion33#_33-6-ordbog) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/da/lektionen/lektion33#_33-6-ordbog) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/da/lektionen/lektion33#_33-6-ordbog) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/da/lektionen/lektion33#_33-6-ordbog) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/da/lektionen/lektion33#_33-6-ordbog) |
 | ⟪धीर⟫ | धीर | 3 | firm, steadfast, continuous, persistent | [52](/da/lektionen/lektion52#_52-7-ordbog) |
 | ⟪धृ⟫ | धृ | 1U | holde, fastholde | [25](/da/lektionen/lektion25#_25-5-ordbog) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (mælke-)ko | [3](/da/lektionen/lektion03#_3-6-ordbog) |
@@ -635,7 +635,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | underordnet, tjener | [28](/da/lektionen/lektion28#_28-10-ordbog) |
 | ⟪भोस्⟫ | भोस् | — | tiltaleudråb, f.eks.: hej, åh, hallo! ofte uoversat. Denne partikel har en særlig sandhi: foran alle stemte lyde lyder d | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪भ्रंश⟫ | भ्रंश | m | det at falde fra | [46](/da/lektionen/lektion46#_46-2-ordbog) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : vandre, streife umher | [46](/da/lektionen/lektion46#_46-2-ordbog) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | vandre, streife umher | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brother | [42](/da/lektionen/lektion42#_42-2-ordbog) |
 
 ## म
@@ -707,7 +707,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | wenn | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪यद्यपि⟫ | यद्यपि | — | selv om, skønt | [30](/da/lektionen/lektion30#_30-6-ordlister) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | hvis det er sådan, under disse omstændigheder | [30](/da/lektionen/lektion30#_30-6-ordlister) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : holde, bære ; uddele, give ; holde sammen, tøjle, styre, overvinde | [44](/da/lektionen/lektion44#_44-5-ordbog) |
+| ⟪यम्⟫ | यम् | 1P | holde, bære ; uddele, give ; holde sammen, tøjle, styre, overvinde | [44](/da/lektionen/lektion44#_44-5-ordbog) |
 | ⟪या⟫ | या | 2P | gå, køre | [44](/da/lektionen/lektion44#_44-5-ordbog) |
 | ⟪यातृ⟫ | यातृ | m | Husband of the brother's wife | [42](/da/lektionen/lektion42#_42-2-ordbog) |
 | ⟪यान⟫ | यान | n | gang, vej, køretøj | [44](/da/lektionen/lektion44#_44-5-ordbog) |
@@ -785,7 +785,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Farve, fødestand (stræben) | [2](/da/lektionen/lektion02#_2-5-ordbog) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Farve, kategori, stand | [5](/da/lektionen/lektion05#_5-4-ordbog) |
 | ⟪वर्ष⟫ | वर्ष | n | rain, rainy season, year | [25](/da/lektionen/lektion25#_25-5-ordbog) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : ville, befale, begære | [52](/da/lektionen/lektion52#_52-7-ordbog) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: ville, befale, begære | [52](/da/lektionen/lektion52#_52-7-ordbog) |
 | ⟪वसन्त⟫ | वसन्त | m | ("shining" =) spring (March to May) | [27](/da/lektionen/lektion27#_27-5-ordbog) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/da/lektionen/lektion27#_27-5-ordbog) |
 | ⟪वसु⟫ | वसु | n | wealth, treasure, property, possession | [27](/da/lektionen/lektion27#_27-5-ordbog) |
@@ -876,7 +876,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | barn, unge | [49](/da/lektionen/lektion49#_49-4-word-list) |
 | ⟪शिष्⟫ | शिष् | 7P | forlade, efterlade | [51](/da/lektionen/lektion51#_51-6-ordlister) |
 | ⟪शिष्य⟫ | शिष्य | 3 | til at undervise = elev | [41](/da/lektionen/lektion41#_41-3-ordbog) |
-| ⟪शी⟫ | शी | 2Ā | ligge. Denne rod har i alle former for præsensstammen Høj grad: 1.sg.Ind.Præs.Ā :sig[] (śe + e). Følgende former er særl | [44](/da/lektionen/lektion44#_44-5-ordbog) |
+| ⟪शी⟫ | शी | 2Ā | ligge. Denne rod har i alle former for præsensstammen Høj grad: 1.sg.Ind.Præs.Ā (śe + e). Følgende former er særl | [44](/da/lektionen/lektion44#_44-5-ordbog) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | hurtig, rask | [43](/da/lektionen/lektion43#_43-4-ordbog) |
 | ⟪शील⟫ | शील | n | skik, vane, natur, karakter, god vane = moral | [52](/da/lektionen/lektion52#_52-7-ordbog) |
 | ⟪शुचि⟫ | शुचि | 3 | shining, bright, fine; m.: purity | [29](/da/lektionen/lektion29#_29-2-ordbog) |
@@ -894,7 +894,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : at anstrenge sig, blive træt | [46](/da/lektionen/lektion46#_46-2-ordbog) |
+| ⟪श्रम्⟫ | श्रम् | 4P | at anstrenge sig, blive træt | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/da/lektionen/lektion32#_32-5-ordbog) |
@@ -920,11 +920,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | det at hænge ved, berøring med () | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (til - : at slå sammen): skare, hop, menighed (f.eks. buddhistisk) | [41](/da/lektionen/lektion41#_41-3-ordbog) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | hænge, klæbe | [48](/da/lektionen/lektion48#_48-4-ordbog) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : at hænge ved, at klæbe sig til () | [46](/da/lektionen/lektion46#_46-2-ordbog) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | at hænge ved, at klæbe sig til () | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | sandhed | [10](/da/lektionen/lektion10#_10-5-ordbog) |
 | ⟪सत्वर⟫ | सत्वर | 3 | hurtig, travl | [43](/da/lektionen/lektion43#_43-4-ordbog) |
 | ⟪सद्⟫ | सद् | — | sidde, sætte sig ned | [20](/da/lektionen/lektion20#_20-9-ordlister) |
-| ⟪सद्⟫ | सद् | — | sig[] : sich hinsetzen | [46](/da/lektionen/lektion46#_46-2-ordbog) |
+| ⟪सद्⟫ | सद् | — | sich hinsetzen | [46](/da/lektionen/lektion46#_46-2-ordbog) |
 | ⟪सनातन ३⟫ | सनातन ३ | f |  evig, uforgængelig, bestandig | [30](/da/lektionen/lektion30#_30-6-ordlister) |
 | ⟪सम⟫ | सम | 3 | lig, ens, lignende (med instrumental) | [18](/da/lektionen/lektion18#_18-4-ordbog) |
 | ⟪सम⟫ | सम | 3 | lig, netop, lignende | [46](/da/lektionen/lektion46#_46-2-ordbog) |
@@ -1000,7 +1000,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | hånd | [18](/da/lektionen/lektion18#_18-4-ordbog) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/da/lektionen/lektion38#_38-9-ordbog) |
 | ⟪हा⟫ | हा | 3P | to leave | [33](/da/lektionen/lektion33#_33-6-ordbog) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/da/lektionen/lektion33#_33-6-ordbog) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/da/lektionen/lektion33#_33-6-ordbog) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | golden ; n.: gold, money, wealth | [25](/da/lektionen/lektion25#_25-5-ordbog) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | left by, lacking, defective | [33](/da/lektionen/lektion33#_33-6-ordbog) |
 | ⟪हीनयान⟫ | हीनयान | n | the defective vehicle (of Buddhism): derogatory term used by representatives of the "Great Vehicle", i.e. ; the defectiv | [33](/da/lektionen/lektion33#_33-6-ordbog) |

@@ -242,7 +242,7 @@ Ilustr.: ⟪दानम्⟫
 Ilustr.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: colocar, establecer, asignar
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: colocar, establecer, asignar
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

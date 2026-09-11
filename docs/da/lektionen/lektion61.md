@@ -752,7 +752,7 @@ Det ønsker din Alois Payer dig
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 SLUT PÅ SANSKRITKURSET
 :::

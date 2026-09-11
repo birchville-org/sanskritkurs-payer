@@ -2490,7 +2490,7 @@ Afb.: ⟪दानम्⟫
 Afb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Beeldbron: [Details](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaas, vasstel, toewys
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaas, vasstel, toewys
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

@@ -113,7 +113,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | príncipe, primero, mejor entre ; rey de los dioses Indra | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | fuerza, sentido | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
 | ⟪इव⟫ | इव | — | como si, como (en comparaciones: = "un hombre como un tigre", "un hombre semejante a un tigre" | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
-| ⟪इष्⟫ | इष् | — | sig[] : enviar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
+| ⟪इष्⟫ | इष् | — | enviar | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 | ⟪इह⟫ | इह | Adv | aquí, aquí en la tierra, hacia aquí; ahora. Ante sustantivos en locativo () equivalente a  | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 
 ## ई
@@ -213,8 +213,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | experto en () | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪कौमर⟫ | कौमर | n | infancia | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
 | ⟪कौशिक⟫ | कौशिक | m | búho | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : avanzar, ir | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P avanzar, ir | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/es/lektionen/lektion35#_35-4-lista-de-palabras) |
 | ⟪क्रिया⟫ | क्रिया | f | acción, acción sagrada, acto de sacrificio, ceremonia (para 8) | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
 | ⟪क्री⟫ | क्री | 9U | comprar | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
 | ⟪क्रूर⟫ | क्रूर | 3 | crudo, cruel | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
@@ -256,7 +256,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | consumir, devorar | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
 | ⟪ग्रह⟫ | ग्रह | m | acción de agarrar, as, cocodrilo, planeta errante | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪ग्रहण⟫ | ग्रहण | n | agarrar | [24](/es/lektionen/lektion24#_24-4-lista-de-palabras) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : agarrar, asir, tomar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : agarrar, asir, tomar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | aldea | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
 | ⟪ग्लै⟫ | ग्लै | 1P | sentir aversión, desvanecerse | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
@@ -266,7 +266,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | muerte | [17](/es/lektionen/lektion17#_17-6-lista-de-palabras) |
 | ⟪घृत⟫ | घृत | n | mantequilla clarificada, ghee ( / گھی / ঘী) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : oler algo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
+| ⟪घ्रा⟫ | घ्रा | 1P | oler algo | [36](/es/lektionen/lektion36#_36-4-lista-de-palabras) |
 
 ## च
 
@@ -393,11 +393,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | lo que es firme y sostiene = Dharma | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | obras didácticas sobre derecho y costumbre (comportamiento correcto) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪धा⟫ | धा | — | dirigir toda la atención hacia algo, concentrarse | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪धान्य⟫ | धान्य | n | cereal trillado | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪धापयति⟫ | Caus. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪धीयते⟫ | Pás. | — | sig[] | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪धापयति⟫ | Caus. | — | | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪धीयते⟫ | Pás. | — | | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪धीर⟫ | धीर | 3 | firme, constante, continuo, perseverante | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪धृ⟫ | धृ | 1U | sostener, sujetar firmemente | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | vaca (de leche) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
@@ -559,7 +559,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | subordinado, sirviente | [28](/es/lektionen/lektion28#_28-10-lista-de-palabras) |
 | ⟪भोस्⟫ | भोस् | — | exclamación de saludo, por ejemplo: ¡hey, eh, oh, ¡ay!, ¡hola!, ¡hi! a menudo no se traduce. Esta partícula tiene un san | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪भ्रंश⟫ | भ्रंश | m | la caída | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : divagar, deambular | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | divagar, deambular | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Hermano | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 
 ## म
@@ -626,7 +626,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | si | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪यद्यपि⟫ | यद्यपि | — | aunque, incluso si, a pesar de que | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | si es así, en estas circunstancias | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : sostener, llevar ; ofrecer, conceder ; mantener unido, domar, frenar, conquistar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪यम्⟫ | यम् | 1P | sostener, llevar ; ofrecer, conceder ; mantener unido, domar, frenar, conquistar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
 | ⟪या⟫ | या | 2P | ir, viajar | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
 | ⟪यातृ⟫ | यातृ | m | Esposa del hermano del esposo | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
 | ⟪यान⟫ | यान | n | ir, camino, vehículo | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
@@ -670,7 +670,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | untar, enmascarar | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪लिप्ति⟫ | लिप्ति | f | untado, escritura | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪लीला⟫ | लीला | f | broma, juego | [42](/es/lektionen/lektion42#_42-2-lista-de-palabras) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : romper, destruir | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪लुप्⟫ | लुप् | 6U | romper, destruir | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Codicia, avaricia | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
 | ⟪लौल्य⟫ | लौल्य | n | codicia, lujuria | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 
@@ -694,7 +694,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, orden de nacimiento (tendencia) | [2](/es/lektionen/lektion02#_2-5-lista-de-palabras) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, género, casta | [5](/es/lektionen/lektion05#_5-4-lista-de-palabras) |
 | ⟪वर्ष⟫ | वर्ष | n | lluvia, temporada de lluvias, año | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : querer, ordenar, desear | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: querer, ordenar, desear | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪वसन्त⟫ | वसन्त | m | ("brillante" =) primavera (marzo a mayo) | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
 | ⟪वसु⟫ | वसु | n | riqueza, tesoro, bienes, posesión | [27](/es/lektionen/lektion27#_27-5-lista-de-palabras) |
@@ -782,7 +782,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | niño, cría | [49](/es/lektionen/lektion49#_49-4-lista-de-palabras) |
 | ⟪शिष्⟫ | शिष् | 7P | abandonar, dejar atrás | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
 | ⟪शिष्य⟫ | शिष्य | 3 | aquel que debe ser instruido = alumno | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
-| ⟪शी⟫ | शी | 2Ā | yacer. Esta raíz tiene en todas las formas de la base del presente Grado fuerte: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Las si | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
+| ⟪शी⟫ | शी | 2Ā | yacer. Esta raíz tiene en todas las formas de la base del presente Grado fuerte: 1.sg.Ind.Pres.Ā (śe + e). Las si | [44](/es/lektionen/lektion44#_44-5-lista-de-palabras) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | rápido, veloz | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪शील⟫ | शील | n | costumbre, hábito, naturaleza, carácter, buena costumbre = moral | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪शुचि⟫ | शुचि | 3 | resplandeciente, brillante, fino; m.: pureza | [29](/es/lektionen/lektion29#_29-2-lista-de-palabras) |
@@ -796,7 +796,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | Lamento, tristeza | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
 | ⟪शोभन⟫ | शोभन | 3 | brillante, magnífico, espléndido, hermoso, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
 | ⟪शौच⟫ | शौच | n | Purificación, pureza | [16](/es/lektionen/lektion16#_16-2-lista-de-vocabulario) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : fatigarse, cansarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪श्रम्⟫ | श्रम् | 4P | fatigarse, cansarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪श्रि⟫ | श्रि | 1U | apoyarse, inclinarse, encontrar apoyo, dirigirse a alguien (con el dativo, ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | la escucha, la tradición eterna (denominación para los Vedas y Brāhmaṇa's) | [3](/es/lektionen/lektion03#_3-6-lista-de-palabras) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | rico comerciante | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
@@ -818,11 +818,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | la adhesión a, el contacto con (con el instrumental) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (de - : golpear juntos): grupo, multitud, comunidad (por ejemplo, budista) | [41](/es/lektionen/lektion41#_41-3-lista-de-vocabulario) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | colgar, adherirse | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : adherirse, pegarse a (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | adherirse, pegarse a (con el ablativo) | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | verdad | [10](/es/lektionen/lektion10#_10-5-lista-de-palabras) |
 | ⟪सत्वर⟫ | सत्वर | 3 | rápido, apresurado | [43](/es/lektionen/lektion43#_43-4-lista-de-vocabulario) |
 | ⟪सद्⟫ | सद् | — | sentarse, instalarse | [20](/es/lektionen/lektion20#_20-9-lista-de-palabras) |
-| ⟪सद्⟫ | सद् | — | sig[] : sentarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
+| ⟪सद्⟫ | सद् | — | sentarse | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
 | ⟪सनातन⟫ | सनातन | — |  eterno, incólume, permanente | [30](/es/lektionen/lektion30#_30-6-lista-de-palabras) |
 | ⟪सम⟫ | सम | 3 | igual, mismo, similar (con instrumental) | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
 | ⟪सम⟫ | सम | 3 | igual, mismo, similar | [46](/es/lektionen/lektion46#_46-2-lista-de-vocabulario) |
@@ -893,7 +893,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | mano | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Elefante (_Elephas maximus_) | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
 | ⟪हा⟫ | हा | 3P | abandonar | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | dorado ; n.: oro, dinero, riqueza | [25](/es/lektionen/lektion25#_25-5-lista-de-palabras) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | abandonado por, carente de, defectuoso | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |
 | ⟪हीनयान⟫ | हीनयान | n | el vehículo defectuoso (del budismo): término despectivo utilizado por los representantes del "gran vehículo", el ; el c | [33](/es/lektionen/lektion33#_33-6-lista-de-palabras) |

@@ -108,7 +108,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | قوة، عضو حسي | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | على نحو، كما (في المقارنات: = "رجل مثل نمر"، "رجل مساوٍ لنمر") | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | يرغب | [11](/ar/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : يرسل | [42](/ar/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | يرسل | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | يرغب (iṣ-ccha-ti) | [11](/ar/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | رغبة (iṣ + -ti) | [11](/ar/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | هنا، هنا على الأرض، إلى هنا؛ الآن. قبل الأسماء في حالة المفعول به () بمعنى ، | [50](/ar/lektionen/lektion50#_50-2-) |
@@ -209,8 +209,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | خبير في () | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | कौमर | — | طفولة | [48](/ar/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | कौशिक | — | بومة | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[]، 4P :sig[] : يتقدمون، يذهبون | [35](/ar/lektionen/lektion35#_35-4-) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/ar/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | ، 4P يتقدمون، يذهبون | [35](/ar/lektionen/lektion35#_35-4-) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/ar/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | فعل، فعل مقدس، ذبيحة، طقس (إلى 8) | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | क्री | 9U | يشتري | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | يغضب | [7](/ar/lektionen/lektion07#_7-6-) |
@@ -253,7 +253,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | يأكل، يلتهم | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪ग्रह⟫ | ग्रह | — | الإمساك، الآخذ، التمساح، الكوكب المتجول | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | الإمساك | [24](/ar/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : يمسك، يمسك، يمسك | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : يمسك، يمسك، يمسك | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | قرية | [10](/ar/lektionen/lektion10#_10-5-) |
 
 ## घ
@@ -384,12 +384,12 @@ outline: 2
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | ("ما هو ثابت"، أي) الحق، القانون، العادة، الطابع | [11](/ar/lektionen/lektion11#_11-2-) |
 | ⟪धर्म⟫ | धर्म | — | ما هو ثابت ويثبت = دارما | [25](/ar/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | धा | 3U | sig[]: يَضَعُ، يُثَبِّتُ، يُقَسِّم | [33](/ar/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | مصدر: | — | sig[] | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | धा | 3U | يَضَعُ، يُثَبِّتُ، يُقَسِّم | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | مصدر: | — | | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | حبوب القمح المدروس | [25](/ar/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | سببي: | — | sig[] | [33](/ar/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | مستقبل: | — | sig[] | [33](/ar/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | ماضي: | — | sig[] | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | سببي: | — | | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | مستقبل: | — | | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | ماضي: | — | | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | ثابت، راسخ، مستمر، عنيد | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | يمسك، يمسك | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | — | بقرة (تُنتج الحليب) | [3](/ar/lektionen/lektion03#_3-6-) |
@@ -553,7 +553,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | — | subordinate, servant | [28](/ar/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | تعبير عن النداء، مثل: يا، هيا، أوه، آه، مرحباً، سلام! غالباً لا تُترجم. لهذه الأداة ساندِ خاص: قبل جميع الأصوات الصامتة، | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | السقوط | [46](/ar/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : يتجول، يتنقل | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | يتجول، يتنقل | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | أخ | [42](/ar/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -621,7 +621,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | إذا | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | رغم أن، حتى لو، على الرغم من | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | إذا كان الأمر كذلك، في ظل هذه الظروف | [30](/ar/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : يمسك، يحمل؛ يقدم، يمنح؛ يجمع، يسيطر، يكبح، يهزم | [44](/ar/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | يمسك، يحمل؛ يقدم، يمنح؛ يجمع، يسيطر، يكبح، يهزم | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | ذهب، ركب | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | زوج أخت الزوجة | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | المشي، الطريق، المركبة | [44](/ar/lektionen/lektion44#_44-5-) |
@@ -643,7 +643,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | — | سرّ، عزلة | [50](/ar/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | — | اللون (الأحمر)، الشغف، الحب | [5](/ar/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | राग | — | أيضاً: لون، لون أحمر | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | — | ملك (حول الملكية في الهند انظر باشام، عجائب ص 82 -94). كنهاية مركب (خاصة ) غالبًا: -:sig[] م. (مثل ) | [38](/ar/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | — | ملك (حول الملكية في الهند انظر باشام، عجائب ص 82 -94). كنهاية مركب (خاصة ) غالبًا: -م. (مثل ) | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | राज्ञी | f | ملكة، زوجة ملك | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | राज्य | 3 | ملكي؛ م. مملكة، ملكية، سيادة | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | يُتضرر، يفشل، يتلف | [50](/ar/lektionen/lektion50#_50-2-) |
@@ -666,7 +666,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | يدهن، يدهن | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | — | (مؤنث) طلاء، كتابة، نص | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | f | مزحة، لعب | [42](/ar/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[⟪ : يكسر، يدمر | [50](/ar/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | :sig[⟪ : يكسر، يدمر | [50](/ar/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | الجشع، الطمع | [5](/ar/lektionen/lektion05#_5-4-) |
 | ⟪लौल्य⟫ | लौल्य | — | جشع، شهوة | [52](/ar/lektionen/lektion52#_52-7-) |
 
@@ -689,7 +689,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | لون، طبقة اجتماعية (انتماء) | [2](/ar/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | لون، فئة، طبقة اجتماعية | [5](/ar/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | — | المطر، موسم الأمطار، السنة | [25](/ar/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[]، أمر 2.mفرد: :sig[] : يريد، يأمر، يتوق إلى | [52](/ar/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | ، أمر 2.mفرد: يريد، يأمر، يتوق إلى | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | — | ("مشرق" =) الربيع (مارس إلى مايو) | [27](/ar/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | ثروة، كنز، ممتلكات، ملكية | [27](/ar/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | वस् | 1P | يقيم، يسكن (مع المضاف إليه للمكان الذي يقيم فيه الشخص) | [27](/ar/lektionen/lektion27#_27-5-) |
@@ -773,7 +773,7 @@ outline: 2
 | ⟪शिवा⟫ | शिवा | — | (أنثى) ذئب بناء (ذئب بناء ذهبي = _Canis aureus_) | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪शिष्⟫ | शिष् | 7P | يترك، يترك وراءه | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | 3 | المراد تعليمه = تلميذ | [41](/ar/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | يستلقي. لهذه الجذر في جميع أشكال جذم المضارع درجة عالية: 1.sg.Ind.Präs.Ā :sig[] (śe + e). الأشكال التالية تستحق الانتباه | [44](/ar/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | يستلقي. لهذه الجذر في جميع أشكال جذم المضارع درجة عالية: 1.sg.Ind.Präs.Ā (śe + e). الأشكال التالية تستحق الانتباه | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | سريع، بسرعة | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | عادة، جيرة، طبيعة، طبع، عادة حسنة = أخلاق | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | ببغاء | [8](/ar/lektionen/lektion08#_8-5-) |
@@ -789,7 +789,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | — | حزن، كآبة | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪शोभन⟫ | शोभन | 3 | لامع، رائع، عظيم، جميل، جيد | [18](/ar/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | n | تطهير، طهارة | [16](/ar/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : يتعب، يتعب | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | يتعب، يتعب | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | يَميل، يَتكئ، يجد الدَّعْم، يتوجَّه إلى شخصٍ ما (، ) | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | يسمع (شيء: مفعول به مباشر، شخصاً: مجرور أو مفعول به مباشر؛ عن: مفعول به مباشر؛ من شخص: مجرور، منفصل، أداة) | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | السمع، التقليد الأبدي (مصطلح يشير إلى الفيدا والبراهمنا) | [3](/ar/lektionen/lektion03#_3-6-) |
@@ -811,11 +811,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | — | الالتصاق بـ، الملامسة مع () | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | — | (إلى - : ضرب معاً): مجموعة، حشد، جماعة (مثل البوذية) | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | يتعلّق، يلتصق | [48](/ar/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : يعلق، يلتصق بـ () | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | يعلق، يلتصق بـ () | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | حقيقة | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | سريع، مستعجل | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | يجلس، يستقر | [20](/ar/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : يجلس | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | يجلس | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  أبدي، لا يفنى، ثابت | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | متساوٍ، مطابق، مشابه (مع أداة الجر) | [18](/ar/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | متساوٍ، بالضبط، مشابه | [46](/ar/lektionen/lektion46#_46-2-) |
@@ -886,7 +886,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | — | يد | [18](/ar/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | — | فيل (_Elephas maximus_) | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | ترك | [33](/ar/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | اسم مفعول ماضي (PPP) | — | sig[] (!!) | [33](/ar/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | اسم مفعول ماضي (PPP) | — | (!!) | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | हिरण्य | — | ذهبي؛ اسم: ذهب، مال، ثروة | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | اسم المفعول | — | مُتْرَك، خَالٍ، ناقص | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | — | مركبة ناقصة (في البوذية): تسمية مهينة من قبل ممثلي "المركبة العظيمة"، وهي ؛ الطريق الناقص ( إلى 2: يذهب، يركب). يجب عدم  | [33](/ar/lektionen/lektion33#_33-6-) |

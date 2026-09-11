@@ -125,7 +125,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | Pangeran, Yang Pertama, Yang Terbaik di antara ; Raja Dewa Indra | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | power, sense organ | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
 | ⟪इव⟫ | इव | — | seolah-olah, seperti (dalam perbandingan: = "seorang pria seperti harimau", "pria yang setara dengan harimau" | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
-| ⟪इष्⟫ | इष् | — | sig[] : to send | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
+| ⟪इष्⟫ | इष् | — | to send | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪इह⟫ | इह | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with  | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 
 ## ई
@@ -232,8 +232,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | experienced in ( ) | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪कौमर⟫ | कौमर | n | masa kecil | [48](/id/lektionen/lektion48#_48-4-daftar-kata) |
 | ⟪कौशिक⟫ | कौशिक | m | owl | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : melangkah, pergi | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P melangkah, pergi | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/id/lektionen/lektion35#_35-4-daftar-kata) |
 | ⟪क्रिया⟫ | क्रिया | f | Tindakan, tindakan suci, upacara korban, ritual (ke 8) | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
 | ⟪क्री⟫ | क्री | 9U | membeli | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | marah | [7](/id/lektionen/lektion07#_7-6-daftar-kata) |
@@ -279,7 +279,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | to consume, to devour | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
 | ⟪ग्रह⟫ | ग्रह | m | seizing, seizer, crocodile, wandering star | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/id/lektionen/lektion24#_24-4-daftar-kata) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : seize, grasp, catch | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : seize, grasp, catch | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | Desa | [10](/id/lektionen/lektion10#_10-5-daftar-kata) |
 | ⟪ग्लै⟫ | ग्लै | 1P | merasa enggan, memudar | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
 
@@ -289,7 +289,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | pembunuhan | [17](/id/lektionen/lektion17#_17-6-daftar-kata) |
 | ⟪घृत⟫ | घृत | n | Clarified butter, Ghee ( / گھی / ঘী) | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : to smell something | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
+| ⟪घ्रा⟫ | घ्रा | 1P | to smell something | [36](/id/lektionen/lektion36#_36-4-daftar-kata) |
 
 ## च
 
@@ -415,7 +415,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | m | yang teguh dan tetap = Dharma | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | karya ajar tentang hukum dan adat (perilaku yang benar) | [3](/id/lektionen/lektion03#_3-6-daftar-kata) |
-| ⟪धा⟫ | धा | 3U | sig[]: menempatkan, memperbaiki, mengalokasikan | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
+| ⟪धा⟫ | धा | 3U | menempatkan, memperbaiki, mengalokasikan | [33](/id/lektionen/lektion33#_33-6-daftar-kata) |
 | ⟪धान्य⟫ | धान्य | n | threshed grain | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪धीर⟫ | धीर | 3 | firm, steadfast, continuous, persistent | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪धृ⟫ | धृ | 1U | hold, keep firm | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
@@ -595,7 +595,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | subordinate, servant | [28](/id/lektionen/lektion28#_28-10-daftar-kata) |
 | ⟪भोस्⟫ | भोस् | — | seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sa | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪भ्रंश⟫ | भ्रंश | m | dropping off | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : to wander about, to roam | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | to wander about, to roam | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brother | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 
 ## म
@@ -667,7 +667,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | if | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪यद्यपि⟫ | यद्यपि | — | meskipun, sekalipun, walaupun | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | jika demikian, dalam keadaan ini | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : memegang, membawa ; memberikan, menganugerahkan ; menjaga bersama, menenangkan, kekang, menaklukkan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
+| ⟪यम्⟫ | यम् | 1P | memegang, membawa ; memberikan, menganugerahkan ; menjaga bersama, menenangkan, kekang, menaklukkan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪या⟫ | या | 2P | pergi, berkendara | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪यातृ⟫ | यातृ | m | Wife of the husband's brother | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
 | ⟪यान⟫ | यान | n | berjalan, jalan, kendaraan | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
@@ -712,7 +712,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | anoint, smear | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪लिप्ति⟫ | लिप्ति | f | anointing, writing, script | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
 | ⟪लीला⟫ | लीला | f | joke, play | [42](/id/lektionen/lektion42#_42-2-daftar-kata) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : break, destroy | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
+| ⟪लुप्⟫ | लुप् | 6U | break, destroy | [50](/id/lektionen/lektion50#_50-2-daftar-kata) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Keserakahan, ketamakan | [5](/id/lektionen/lektion05#_5-4-daftar-kata) |
 | ⟪लौल्य⟫ | लौल्य | n | greed, lustfulness | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 
@@ -735,7 +735,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Warna, kasta kelahiran (kecenderungan) | [2](/id/lektionen/lektion02#_2-5-daftar-kata) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Warna, jenis, kasta | [5](/id/lektionen/lektion05#_5-4-daftar-kata) |
 | ⟪वर्ष⟫ | वर्ष | n | rain, rainy season, year | [25](/id/lektionen/lektion25#_25-5-daftar-kata) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : to want, command, desire | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: to want, command, desire | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪वसन्त⟫ | वसन्त | m | ("bersinar" =) musim semi (Maret hingga Mei) | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वसु⟫ | वसु | n | wealth, treasure, property, possession | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
 | ⟪वस्⟫ | वस् | 1P | tinggal, berdiam (dengan lokatif orang tempat seseorang berdiam) | [27](/id/lektionen/lektion27#_27-5-daftar-kata) |
@@ -825,7 +825,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | child, young | [49](/id/lektionen/lektion49#_49-4-daftar-kata) |
 | ⟪शिष्⟫ | शिष् | 7P | abandon, leave behind | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
 | ⟪शिष्य⟫ | शिष्य | 3 | yang harus diajari = murid | [41](/id/lektionen/lektion41#_41-3-daftar-kosakata) |
-| ⟪शी⟫ | शी | 2Ā | berbaring. Akar ini dalam semua bentuk batang present Tingkat Tinggi: 1.sg.Ind.Pres.Ā :sig[] (śe + e). Bentuk-bentuk ber | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
+| ⟪शी⟫ | शी | 2Ā | berbaring. Akar ini dalam semua bentuk batang present Tingkat Tinggi: 1.sg.Ind.Pres.Ā (śe + e). Bentuk-bentuk ber | [44](/id/lektionen/lektion44#_44-5-daftar-kata) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | cepat, segera | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪शील⟫ | शील | n | custom, habit, nature, character, good habit = morality | [52](/id/lektionen/lektion52#_52-7-daftar-kata) |
 | ⟪शुचि⟫ | शुचि | 3 | shining, gleaming, fine; m.: purity | [29](/id/lektionen/lektion29#_29-2-daftar-kata) |
@@ -840,7 +840,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | Duka, kesedihan | [38](/id/lektionen/lektion38#_38-9-daftar-kata) |
 | ⟪शोभन⟫ | शोभन | 3 | berkilau, megah, indah, cantik, baik | [18](/id/lektionen/lektion18#_18-4-daftar-kata) |
 | ⟪शौच⟫ | शौच | n | pembersihan, kemurnian | [16](/id/lektionen/lektion16#_16-2-daftar-kata) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : toil, become tired | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪श्रम्⟫ | श्रम् | 4P | toil, become tired | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪श्रि⟫ | श्रि | 1U | bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (, ) | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | mendengar (sesuatu: Akusatif, seseorang: Genitif atau Akusatif; tentang: Akusatif; dari seseorang: Genitif, Ablatif, Ins | [7](/id/lektionen/lektion07#_7-6-daftar-kata) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | pendengaran, warisan abadi (sebutan untuk Weda dan Brāhmaṇa) | [3](/id/lektionen/lektion03#_3-6-daftar-kata) |
@@ -863,11 +863,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | lampiran, kontak dengan () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (ke - : memukul bersama): kelompok, kerumunan, komunitas (misalnya Buddha) | [41](/id/lektionen/lektion41#_41-3-daftar-kosakata) |
 | ⟪सज्ज्⟫ | सज्ज् | — | menggantung, melekat | [48](/id/lektionen/lektion48#_48-4-daftar-kata) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : melampirkan, melekat pada () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | melampirkan, melekat pada () | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | kebenaran | [10](/id/lektionen/lektion10#_10-5-daftar-kata) |
 | ⟪सत्वर⟫ | सत्वर | 3 | cepat, terburu-buru | [43](/id/lektionen/lektion43#_43-4-daftar-kata) |
 | ⟪सद्⟫ | सद् | — | duduk, menetap | [20](/id/lektionen/lektion20#_20-9-daftar-kata) |
-| ⟪सद्⟫ | सद् | — | sig[] : to sit down | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
+| ⟪सद्⟫ | सद् | — | to sit down | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪सनातन⟫ | सनातन | — |  abadi, tak layu, kekal | [30](/id/lektionen/lektion30#_30-6-daftar-kata) |
 | ⟪सम⟫ | सम | 3 | same, equal, similar | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |
 | ⟪समता⟫ | समता | f | kesetaraan batin | [46](/id/lektionen/lektion46#_46-2-daftar-kata) |

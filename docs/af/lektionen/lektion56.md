@@ -56,7 +56,7 @@ Stamlettergreep:
     ⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, aorist ⟪अपि⟫:sig[⟪पर⟫]⟪त् द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त् नी⟫ 1U: Caus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त् ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
      
 *   **\-ī-, -e-, -ai- voor 'n enkele medeklinker word vervang deur -i-:**  
-    ⟪चित्⟫ eerste persoon: causatief: sig[⟪चेत⟫]⟪यति⟫, aorist (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
+    ⟪चित्⟫ eerste persoon: causatief: :sig[⟪चेत⟫]⟪यति⟫, aorist (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
      
 *   **\-u-, -o-, -au- voor 'n enkele medeklinker word vervang deur -u-:**  
     ⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
@@ -64,7 +64,7 @@ Stamlettergreep:
 **Vir sommige wortels is die tot dusver genoemde veranderinge opsioneel of moet hulle weggelaat word:**
 
 *   **Die ar, ār, īr of al—wat ṛ, ṝ of ḷ vervang en onmiddellik die finale konsonant van die stamlettergreep voorafgaan—kan opsioneel onveranderd bly of onderskeidelik deur ṛ of ḷ vervang word:**  
-    ⟪कॢप्⟫  1Ā: Causatief: sig[⟪कल्प⟫]⟪यति⟫, Aorist ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
+    ⟪कॢप्⟫  1Ā: Causatief: :sig[⟪कल्प⟫]⟪यति⟫, Aorist ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
 Vokaal van die reduplikasieluid:
 
@@ -157,7 +157,7 @@ Voorbeelde:
 ::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫
-Plakkaat (Ernesto Che Guevara) van 'n politieke party in Vallachira (瓦所有奇拉), Thrissur (Thrissur). "'n Grof vertaling van wat daarop geskryf is, sou wees: Martelaarskap is 'n fassinerende ervaring vir 'n revolusionêr. En 'n afskrikwekkende vooruitsig vir 'n lafaard. Che is nie 'n rolmodel vir lafaards nie."
+Plakkaat (Ernesto Che Guevara) van 'n politieke party in Vallachira, Thrissur (Thrissur). "'n Grof vertaling van wat daarop geskryf is, sou wees: Martelaarskap is 'n fassinerende ervaring vir 'n revolusionêr. En 'n afskrikwekkende vooruitsig vir 'n lafaard. Che is nie 'n rolmodel vir lafaards nie."
 (Beeldbron: [Details](/af/licenses#lekt5602))
 :::
 Albei voorbeelde het 'n verbiedende betekenis. Die imperatiewe aorist word dus hier in sy oorspronklike betekenis gebruik. (Die oorheersing van die imperatiewe aorist in sulke sinne kan verklaar word deur die oorheersing van verbodsklousules bo remmende klousules, alhoewel hierdie vraag nog ondersoek moet word vir Klassieke Sanskrit.)

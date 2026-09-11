@@ -129,7 +129,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | сила, сетивен орган | [24](/bg/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | сякаш, като (в сравнения: = "мъж като тигър", "тигър-подобна мъжественост" | [15](/bg/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | желая | [11](/bg/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : изпращам | [42](/bg/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | изпращам | [42](/bg/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | желая (iṣ-ccha-ti) | [11](/bg/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | желание (iṣ + -ti) | [11](/bg/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | тук, тук на земята, насам ; сега. Пред съществителни в местен падеж () със същото значение като , м.: закон, обичай, рит | [50](/bg/lektionen/lektion50#_50-2-) |
@@ -244,7 +244,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/bg/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/bg/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/bg/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : стъпвам, вървя | [35](/bg/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P стъпвам, вървя | [35](/bg/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/bg/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/bg/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | — | действие, свещено действие, жертвоприношение, церемония (към 8) | [20](/bg/lektionen/lektion20#_20-9-) |
@@ -306,7 +306,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | — | Хващане, хваначка, крокодил, странстваща звезда | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | хващане | [24](/bg/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : хващам, грабвам, улавям | [46](/bg/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : хващам, грабвам, улавям | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | село | [10](/bg/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | изпитвам неохота, избледнява | [36](/bg/lektionen/lektion36#_36-4-) |
@@ -317,7 +317,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | убийство | [17](/bg/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | разтопено масло, гхи ( / گھی / ঘী) | [33](/bg/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : усещам мирис | [36](/bg/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | усещам мирис | [36](/bg/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -458,11 +458,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | — | това, което е твърдо и задържа = Дхарма | [25](/bg/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | — | учебници за правото и обичая (правилно поведение) | [3](/bg/lektionen/lektion03#_3-6-) |
 | ⟪धा⟫ | धा | — | насочвам цялото внимание към нещо, събирам се | [33](/bg/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | Инф. | — | sig[] | [33](/bg/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | Инф. | — | | [33](/bg/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | смляно зърно | [25](/bg/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | Каз. | — | sig[] | [33](/bg/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | Фут. | — | sig[] | [33](/bg/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | Пас. | — | sig[] | [33](/bg/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | Каз. | — | | [33](/bg/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | Фут. | — | | [33](/bg/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | Пас. | — | | [33](/bg/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | твърд, непоколебим, непрекъснат, упорит | [52](/bg/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | държа, задържа | [25](/bg/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (млечна) крава | [3](/bg/lektionen/lektion03#_3-6-) |
@@ -648,7 +648,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | подчинен, слуга | [28](/bg/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | извикване за обръщение, напр.: ей, хей, ох, ах, здравей! често не се превежда. Тази частица има специален сандхи: пред в | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | — | отпадането | [46](/bg/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : да блужда, да скитам се | [46](/bg/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | да блужда, да скитам се | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Брат | [42](/bg/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -721,7 +721,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | ако | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | дори, макар че | [30](/bg/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | ако е така, при тези обстоятелства | [30](/bg/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : държа, нося ; предоставям, дарявам ; дър sammen, овладявам, уздуждавам, победявам | [44](/bg/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | държа, нося ; предоставям, дарявам ; дър sammen, овладявам, уздуждавам, победявам | [44](/bg/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | Съпруга на брата на съпруга | [42](/bg/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | ходене, път, превозно средство | [44](/bg/lektionen/lektion44#_44-5-) |
 | ⟪याम⟫ | याम | m | нощна стража (всяка по три часа) | [52](/bg/lektionen/lektion52#_52-7-) |
@@ -802,7 +802,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | цвят, кастово произхождение (стремеж) | [2](/bg/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Цвят, вид, съсловие | [5](/bg/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | дъжд, дъждовен сезон, година | [25](/bg/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Императив 2.ед.: :sig[] : желая, заповядвам, изисквам | [52](/bg/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , Императив 2.ед.: желая, заповядвам, изисквам | [52](/bg/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("сияен" =) пролет (март до май) | [27](/bg/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | Бъдеще време: | — | br PPP: :br Инфинитив | [27](/bg/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | богатство, съкровище, имущество, притежание | [27](/bg/lektionen/lektion27#_27-5-) |
@@ -895,7 +895,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | дете, малко животно | [49](/bg/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | напуснат, оставен | [51](/bg/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | 3 | за обучение = ученик | [41](/bg/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | лежа. Тази коренова форма има във всички форми на настоящия корен Висока степен: 1.ед.Ind.Наст.Ā :sig[] (śe + e). Следни | [44](/bg/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | лежа. Тази коренова форма има във всички форми на настоящия корен Висока степен: 1.ед.Ind.Наст.Ā (śe + e). Следни | [44](/bg/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | бърз, скорошен | [43](/bg/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | Обичай, навици, природа, характер, добра нагласа = Морал | [52](/bg/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | папагал | [8](/bg/lektionen/lektion08#_8-5-) |
@@ -915,7 +915,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : измъчвам се, уморявам се | [46](/bg/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | измъчвам се, уморявам се | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/bg/lektionen/lektion32#_32-5-) |
@@ -941,11 +941,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | — | прикрепването към, допир с () | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (към - : събиране заедно): тълпа, група, общност (напр. будистка) | [41](/bg/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | — | вися, привързвам се | [48](/bg/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : прикрепям се, лепя се към () | [46](/bg/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | прикрепям се, лепя се към () | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | истина | [10](/bg/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | бърз, суетен | [43](/bg/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | седя, засядвам | [20](/bg/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : да сяда, да се спуска | [46](/bg/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | да сяда, да се спуска | [46](/bg/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  вечен, неизменен, постоянен | [30](/bg/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | равен, същият, подобен (с инструментал) | [18](/bg/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | равен, същият, подобен | [46](/bg/lektionen/lektion46#_46-2-) |
@@ -1022,7 +1022,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | — | ръка | [18](/bg/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Слон (_Elephas maximus_) | [38](/bg/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | — | напускам | [33](/bg/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/bg/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/bg/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | златен ; n.: злато, пари, богатство | [25](/bg/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | ППР | — | оставен от, лишен, недостатъчен | [33](/bg/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | — | недостатъчното превозно средство (на будизма): пренебрежителен термин, използван от представителите на "голямото превозн | [33](/bg/lektionen/lektion33#_33-6-) |

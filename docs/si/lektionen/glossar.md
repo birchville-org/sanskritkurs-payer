@@ -125,7 +125,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | බලය, ඉන්ද්‍රිය | [24](/si/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | සමානව, මෙන් (සංසන්දනයන්හි: = "සිංහයෙක් මෙන් පුරුෂයෙක්", "සිංහ-සමාන පුරුෂයෙක්" | [15](/si/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | කැමති වන්න | [11](/si/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : යැවීම | [42](/si/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | යැවීම | [42](/si/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | කැමති වන්න (iṣ-ccha-ti) | [11](/si/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | කැමති වීම (iṣ + -ti) | [11](/si/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | මෙහි, මෙම පොළොව මත, මෙතනට ; දැන්. ලෝකත්වයේ පද () වලට පෙර , පුල්ලිංගය: නියමය, සම්ප්‍රදායය, ආගමික ක්‍රියාව ; [කල්පය](http: | [50](/si/lektionen/lektion50#_50-2-) |
@@ -238,7 +238,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/si/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/si/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/si/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : පියවිලා යන්න, ගමන් කිරීම | [35](/si/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P පියවිලා යන්න, ගමන් කිරීම | [35](/si/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/si/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/si/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | ක්‍රියාව, පූජනීය ක්‍රියාව, බලිකරණ ක්‍රියාව, උත්සවය ( 8 ට) | [20](/si/lektionen/lektion20#_20-9-) |
@@ -300,7 +300,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | — | අල්ලා ගැනීම, අල්ලන්නෙක්, මකරයා, සංචාරක තරුව | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | අල්ලා ගැනීම | [24](/si/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/si/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : අල්ලා ගැනීම, පිරිසිදු කිරීම, ස්පර්ශ කිරීම | [46](/si/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : අල්ලා ගැනීම, පිරිසිදු කිරීම, ස්පර්ශ කිරීම | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | ගම (Dorf) | [10](/si/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/si/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | pratikūla, apāyana | [36](/si/lektionen/lektion36#_36-4-) |
@@ -311,7 +311,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | වධනය | [17](/si/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | දියකිරි, ඝී ( / گھی / ঘী) | [33](/si/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : gandha, anubandhana | [36](/si/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | gandha, anubandhana | [36](/si/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -449,11 +449,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | — | දෘඪ වී ඇති සහ දෘඪව තබා ගන්නා එක = ධර්මය | [25](/si/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | නීතිය සහ රෙගුලාසි පිළිබඳ උපදෙස් පොත් (නිවැරදි හැසිරීම) | [3](/si/lektionen/lektion03#_3-6-) |
 | ⟪धा⟫ | धा | — | සම්පූර්ණ අවධානය යොමු කරන්න, එකතු වන්න | [33](/si/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | අනන්ත. | — | sig[] | [33](/si/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | අනන්ත. | — | | [33](/si/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | — | කඩා දැමූ ධාන්‍යය | [25](/si/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | හේතු. | — | sig[] | [33](/si/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | අනාගත. | — | sig[] | [33](/si/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | ක්‍රියාපද. | — | sig[] | [33](/si/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | හේතු. | — | | [33](/si/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | අනාගත. | — | | [33](/si/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | ක්‍රියාපද. | — | | [33](/si/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | දෘඪ, ස්ථිර, අඛණ්ඩව, ඔබ්බෙන් | [52](/si/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | 1U | තබා ගැනීම, දෘඪව තබා ගැනීම | [25](/si/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (කිරි) ගවයා | [3](/si/lektionen/lektion03#_3-6-) |
@@ -637,7 +637,7 @@ outline: 2
 | ⟪भृ⟫ | भृ | 3U | ගෙන යාම, රැගෙන යාම; පෝෂණය කිරීම, ආහාර දීම | [33](/si/lektionen/lektion33#_33-6-) |
 | ⟪भोस्⟫ | भोस् | — | Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi:  | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/si/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : umherirren, umherstreifen | [46](/si/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | umherirren, umherstreifen | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Bruder | [42](/si/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -709,7 +709,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | wenn | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | නම් වුවද, ස්වයං නම්, හෝත් | [30](/si/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | එසේ නම්, මෙම තත්වය යටතේ | [30](/si/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : තැබීම, රැකීම ; ලබා දීම, සපයා දීම ; එක් කර ගැනීම, පාලනය කිරීම, මෙහෙයවීම, දැඩි කර ගැනීම | [44](/si/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | තැබීම, රැකීම ; ලබා දීම, සපයා දීම ; එක් කර ගැනීම, පාලනය කිරීම, මෙහෙයවීම, දැඩි කර ගැනීම | [44](/si/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | යාම, ගමන් කිරීම | [44](/si/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | Gattin des Bruders des Ehemanns | [42](/si/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | යාමය, මාර්ගය, වාහනය | [44](/si/lektionen/lektion44#_44-5-) |
@@ -792,7 +792,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | වර්ණය, උපන් ස්ථානය (සංකේතවත් වීම) | [2](/si/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | වර්ණය, ප්‍රභේදය, තත්වය | [5](/si/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | වැසි, වර්ෂා කාලය, වසර | [25](/si/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], අනුශාසක 2.පු.: :sig[] : කැමති වීම, ආඥා දීම, - සඳහා කැමති වීම | [52](/si/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , අනුශාසක 2.පු.: කැමති වීම, ආඥා දීම, - සඳහා කැමති වීම | [52](/si/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("දිලෙන" =) වසන්තය (මාර්තු සිට මැයි දක්වා) | [27](/si/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | අතීත: | — | br PPP: :br Inf | [27](/si/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | සම්පත්, ධනය, ද්‍රව්‍ය, හිමිකම් | [27](/si/lektionen/lektion27#_27-5-) |
@@ -881,7 +881,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | ළදරුවා, කුඩා ජීවියා | [49](/si/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | verlassen, übriglassen | [51](/si/lektionen/lektion51#_51-6-wortliste---516) |
 | ⟪शिष्य⟫ | शिष्य | 3 | ඉගැන්විය යුතු = ශිෂ්‍යයා | [41](/si/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | පිහිටීම. මෙම මූලධර්මය සියලු ආකාරවල වත්කාල මූල පදයේ ඉහළ මට්ටම: 1.sg.Ind.Präs.Ā :sig[] (śe + e). පහත ආකාර විශේෂයෙන් සලකා බ | [44](/si/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | පිහිටීම. මෙම මූලධර්මය සියලු ආකාරවල වත්කාල මූල පදයේ ඉහළ මට්ටම: 1.sg.Ind.Präs.Ā (śe + e). පහත ආකාර විශේෂයෙන් සලකා බ | [44](/si/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | වේගවත්, ඉක්මනින් | [43](/si/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | සිරිත, ආචාරය, ස්වභාවය, ලක්ෂණය, හොඳ ආචාර = සදාචාරය | [52](/si/lektionen/lektion52#_52-7-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | කොකා | [8](/si/lektionen/lektion08#_8-5-) |
@@ -900,7 +900,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/si/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/si/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/si/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/si/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/si/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/si/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/si/lektionen/lektion32#_32-5-) |
@@ -926,11 +926,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | — | (- සමඟ: එකට පහර දීම): කණ්ඩායම, සමූහය, ජනතාව (උදා: බුද්ධාගමික) | [41](/si/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | රැඳී සිටීම, ඇලීම | [48](/si/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/si/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | සත්‍යය | [10](/si/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | ඉක්මනින්, සීඝ්‍රයෙන් | [43](/si/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | ඉඳීම, පහළ වැටීම | [20](/si/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : sich niedersetzen | [46](/si/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | sich niedersetzen | [46](/si/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  සදාකාලික, නෂ්ට නොවන, ස්ථිර | [30](/si/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | සමාන, සර්වසම (උපකාරක පදය සහිතව) | [18](/si/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | සමාන, එකම, සමාන | [46](/si/lektionen/lektion46#_46-2-) |
@@ -1005,7 +1005,7 @@ outline: 2
 | ⟪हर्ष⟫ | हर्ष | m | (කෙඳි නැංවීම), සතුට | [25](/si/lektionen/lektion25#_25-5-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/si/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | තැලීම | [33](/si/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/si/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/si/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | රන් ; n.: රන්, මුදල්, සම්පත් | [25](/si/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | තැලීමෙන් යුක්ත නොවන, හිඟ වූ, අඩුපාඩුවෙන් යුත් | [33](/si/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | අඩුපාඩුවෙන් යුත් වාහනය (බෞද්ධ ධර්මය සඳහා): "වඩින වාහනය" හෙවත් නියෝජිතයන් විසින් භාවිතා කරනු ලබන අපහාසකාරී නම; අඩුපාඩුවෙන | [33](/si/lektionen/lektion33#_33-6-) |

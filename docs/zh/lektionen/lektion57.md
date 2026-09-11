@@ -53,7 +53,7 @@ status: stable
 
 :::
 ::: indent
-例如：sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
+例如：:sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **詞根形式：**

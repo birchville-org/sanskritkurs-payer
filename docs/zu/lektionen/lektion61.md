@@ -982,7 +982,7 @@ Lokhu kuwukuthanda kwakho u-Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 UGQI WESIKHULU SE-SANSKRIT
 

@@ -758,7 +758,7 @@ Hoc tibi optat Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 FINIS CURSUS SANSKRITI
 :::

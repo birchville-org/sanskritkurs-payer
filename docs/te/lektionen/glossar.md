@@ -113,7 +113,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | శక్తి, ఇంద్రియం | [24](/te/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | సమానముగా, యథా (ఉపమానములలో: = "ఒక పులివలె ఉన్న మనిషి", "పులి వంటి మనిషి" | [15](/te/lektionen/lektion15#_15-8-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | కోరుకోవడం | [11](/te/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : పంపడం | [42](/te/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | పంపడం | [42](/te/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | కోరుకోవడం (iṣ-ccha-ti) | [11](/te/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | కోరిక (iṣ + -ti) | [11](/te/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | ఇక్కడ, భూమిపై ఇక్కడ, ఇక్కడికి ; ప్రస్తుతం. లోకలివ్‌లో ఉన్న సర్వనామాలకు ముందు () , పుంలింగ: నియమం, సంప్రదాయం, ఆచారం ; [కల | [50](/te/lektionen/lektion50#_50-2-) |
@@ -223,7 +223,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/te/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/te/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/te/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : నడచుట, పోవుట | [35](/te/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P నడచుట, పోవుట | [35](/te/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/te/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/te/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | కార్యం, పవిత్ర కార్యం, యాగ కార్యం, ఆచారం ( 8 కు) | [20](/te/lektionen/lektion20#_20-9-) |
@@ -283,7 +283,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | పట్టుకోవడం, పట్టుకునేది, మగ్గలు, భ్రమణ నక్షత్రం | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | పట్టుకోవడం | [24](/te/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/te/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : పట్టుకోవడం, ఊహించుకోవడం, స్పృశించడం | [46](/te/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : పట్టుకోవడం, ఊహించుకోవడం, స్పృశించడం | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | గ్రామం | [10](/te/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/te/lektionen/lektion32#_32-5-) |
 | ⟪⟪गर्भगृह⟩ n.:⟫ | ⟪गर्भगृह⟩ n.: | — | Volwahsen, A.: India : Buildings of Hindus, Buddhists and Jains. -- Munich, 1968) | [19](/te/lektionen/lektion19#_19-3-wortliste) |
@@ -425,11 +425,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | దృఢంగా ఉండి, దృఢంగా పట్టుకునేది = ధర్మం | [25](/te/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | treatises on law and custom (right conduct) | [3](/te/lektionen/lektion03#_3-6-word-list) |
 | ⟪धा⟫ | धा | — | ఏదైనా ఒక దానిపై పూర్తి శ్రద్ధను కేంద్రీకరించడం, సమాహారం చేసుకోవడం | [33](/te/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | ఇన్ఫినిటివ్. | — | sig[] | [33](/te/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | ఇన్ఫినిటివ్. | — | | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | నూరిన ధాన్యం | [25](/te/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | కారణక్రియ. | — | sig[] | [33](/te/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | భవిష్యత్తు. | — | sig[] | [33](/te/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | క్రియారూపం. | — | sig[] | [33](/te/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | కారణక్రియ. | — | | [33](/te/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | భవిష్యత్తు. | — | | [33](/te/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | క్రియారూపం. | — | | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪धृ⟫ | धृ | 1U | పట్టుకోవడం, దృఢంగా ఉంచుట | [25](/te/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | ధేను | — | (పాలు ఇచ్చే) గాడిద | [3](/te/lektionen/lektion03#_3-6-word-list) |
 | ⟪ध्यै⟫ | ध्यै | 1P | ఊహించుకోవడం, ఆలోచించడం | [49](/te/lektionen/lektion49#_49-4-) |
@@ -593,14 +593,14 @@ outline: 2
 | ⟪भी⟫ | भी | 3P | భయపడటం (ఆబ్లేటివ్, జెనటివ్) | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪भुजंग⟫ | भुजंग | m | పాము | [51](/te/lektionen/lektion51#_51-6-wortliste---516) |
 | ⟪भुज्⟫ | भुज् | 7U | ఆస్వాదించు (ఉదా: భోజనం; "భూమిని ఆస్వాదించు" = భూమినే పాలించు) | [31](/te/lektionen/lektion31#_31-2-) |
-| ⟪भू⟫ | भू | — | (某人 చుట్టూ అవ్వడం = వలయంలోకి తీసుకురావడం =) ఆక్రమించుకోవడం, జయించడం; నిర్లక్ష్యం చేయడం, అవమానించడం | [29](/te/lektionen/lektion29#_29-2-) |
+| ⟪भू⟫ | भू | — | (చుట్టూ అవ్వడం = వలయంలోకి తీసుకురావడం =) ఆక్రమించుకోవడం, జయించడం; నిర్లక్ష్యం చేయడం, అవమానించడం | [29](/te/lektionen/lektion29#_29-2-) |
 | ⟪भू⟫ | भू | 1P | జనించడం, ఉండటం | [31](/te/lektionen/lektion31#_31-2-) |
 | ⟪भू⟫ | भू | — | చుట్టుముట్టెడి, ఆక్రమించు, జయించు | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | అవు, జనించు, ఉండు | [6](/te/lektionen/lektion06#_6-7-) |
 | ⟪भृ⟫ | भृ | 3U | మోసుకెళ్ళు, తీసుకురా; పోషించు, పెంచు | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪भोस्⟫ | भोस् | — | పిలుపు యొక్క అభ్యర్థన, ఉదా.: ఏయ్, హేడో, ఓహ్, ఎయి, హలో, హీ! తరచుగా అనువదించలేము. ఈ పదానికి ఒక ప్రత్యేక సందీ ఉంది: అన్ని గ | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/te/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : తిరుగుట, విహరించుట | [46](/te/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | తిరుగుట, విహరించుట | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brother | [42](/te/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -671,7 +671,7 @@ outline: 2
 | ⟪यद्⟫ | यद् | — | నామ. అక్కు. ఏకవచనం నపుంసకలింగం) | [50](/te/lektionen/lektion50#_50-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | అయినప్పటికీ, ఖచ్చితంగాగానీ, ఎందుకంటే | [30](/te/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | అది సత్యమైతే, ఈ పరిస్థితులలో | [30](/te/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : పట్టుకోవడం, మోయడం ; అందించడం, ఇవ్వడం ; కలిసి ఉంచడం, బండి చేయడం, నియంత్రణలో ఉంచడం, జయించడం | [44](/te/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | పట్టుకోవడం, మోయడం ; అందించడం, ఇవ్వడం ; కలిసి ఉంచడం, బండి చేయడం, నియంత్రణలో ఉంచడం, జయించడం | [44](/te/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | వెళ్ళు, ప్రయాణించు | [44](/te/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | Wife of the husband's brother | [42](/te/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | నడక, మార్గం, వాహనం | [44](/te/lektionen/lektion44#_44-5-) |
@@ -831,7 +831,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | పిల్లవాడు, బిడ్డ | [49](/te/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | verlassen, übriglassen | [51](/te/lektionen/lektion51#_51-6-wortliste---516) |
 | ⟪शिष्य⟫ | शिष्य | 3 | బోధించబడవలసిన వ్యక్తి = విద్యార్థి | [41](/te/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | 2Ā | పడుకోవడం. ఈ మూలకం ప్రెజెంట్ స్టెమ్ యొక్క అన్ని రూపాలలో ఉన్నత స్థాయి: 1.sg.Ind.Präs.Ā :sig[] (śe + e). గమనించాల్సిన ప్రత్ | [44](/te/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | 2Ā | పడుకోవడం. ఈ మూలకం ప్రెజెంట్ స్టెమ్ యొక్క అన్ని రూపాలలో ఉన్నత స్థాయి: 1.sg.Ind.Präs.Ā (śe + e). గమనించాల్సిన ప్రత్ | [44](/te/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | వేగంగా, త్వరగా | [43](/te/lektionen/lektion43#_43-4-) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | తోడేలు | [8](/te/lektionen/lektion08#_8-5-) |
 | ⟪शुचि⟫ | शुचि | 3 | ప్రకాశవంతంగా, మెరుస్తూ, సూక్ష్మంగా; m.: పరిశుభ్రత | [29](/te/lektionen/lektion29#_29-2-) |
@@ -849,7 +849,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/te/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/te/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/te/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/te/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/te/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/te/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/te/lektionen/lektion32#_32-5-) |
@@ -875,11 +875,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (- కలయికకు సంబంధించినది: ఒకటిగా కొట్టడం): సమూహం, గుంపు, సంఘం (ఉదా: బౌద్ధ) | [41](/te/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | వేలాడదీయడం, అంటుకోవడం | [48](/te/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/te/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | సత్యం | [10](/te/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | 3 | వేగంగా, త్వరగా | [43](/te/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | కూర్చోవడం, అమరటం | [20](/te/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : క్రిందికి కూర్చోవు | [46](/te/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | క్రిందికి కూర్చోవు | [46](/te/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  శాశ్వత, నాశనం కాని, స్థిరమైన | [30](/te/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | సమానమైన, ఖచ్చితంగా, పోలిక (ఉపసర్గతో) | [18](/te/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | 3 | సమానం, ఖచ్చితంగా, పోలిక | [46](/te/lektionen/lektion46#_46-2-) |
@@ -951,7 +951,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | చేయి | [18](/te/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | ఏనుగు (_Elephas maximus_) | [38](/te/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | వదిలివేయు | [33](/te/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/te/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | బంగారపు; n.: బంగారం, డబ్బు, సంపద | [25](/te/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | పూర్ణ కృత పాత్రిక | — | వదిలివేయబడిన, లేనిపాటి, లోపభూయిష్టమైన | [33](/te/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | లోపభూయిష్టమైన వాహనం (బౌద్ధ మతంలో): "మహాయాన" ప్రతినిధులచే అవమానకరంగా వ్యవహరించబడే ; లోపభూయిష్టమైన మార్గం ( నుండి 2: వెళ్ళ | [33](/te/lektionen/lektion33#_33-6-) |

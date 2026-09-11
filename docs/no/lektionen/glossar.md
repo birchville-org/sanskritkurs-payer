@@ -127,7 +127,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | Kraft, Sinnesorgan | [24](/no/lektionen/lektion24#_24-4-wortliste) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | gleichsam, wie (in Vergleichen: = "ein Mann wie ein Tiger", "ein tigergleicher Mann" | [15](/no/lektionen/lektion15#_15-8-wortliste) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish | [11](/no/lektionen/lektion11#_11-2-word-list) |
-| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : to send | [42](/no/lektionen/lektion42#_42-2-word-list) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to send | [42](/no/lektionen/lektion42#_42-2-word-list) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | to wish (iṣ-ccha-ti) | [11](/no/lektionen/lektion11#_11-2-word-list) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | wish (iṣ + -ti) | [11](/no/lektionen/lektion11#_11-2-word-list) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | here, here on earth, hither; now. Before nouns in the locative () synonymous with , m: ordinance, custom, ritual; [World | [50](/no/lektionen/lektion50#_50-2-word-list) |
@@ -237,7 +237,7 @@ outline: 2
 | ⟪क्रमयति⟫ | [kramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramayati&filter=roman&accent=no&transLit=roman) | — | br | [35](/no/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रमितुम्⟫ | [kramitum](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramitum&filter=roman&accent=no&transLit=roman) | — | br | [35](/no/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रमिष्यति⟫ | [kramiṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramiṣyati&filter=roman&accent=no&transLit=roman) | — | br | [35](/no/lektionen/lektion35#_35-4-word-list) |
-| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | sig[], 4P :sig[] : to stride, to go | [35](/no/lektionen/lektion35#_35-4-word-list) |
+| ⟪क्रम्⟫ | [kram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kram&filter=roman&accent=no&transLit=roman) | 1U | , 4P to stride, to go | [35](/no/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रम्यते⟫ | [kramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kramyate&filter=roman&accent=no&transLit=roman) | — | br | [35](/no/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रा⟫ | [krā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krā&filter=roman&accent=no&transLit=roman) | — | br | [35](/no/lektionen/lektion35#_35-4-word-list) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu 8) | [20](/no/lektionen/lektion20#_20-9-word-list) |
@@ -296,7 +296,7 @@ outline: 2
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | Greifen, Greifer, Krokodil, Wandelstern | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | Ergreifen | [24](/no/lektionen/lektion24#_24-4-wortliste) |
 | ⟪ग्रहीष्यति⟫ | [grahīṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahīṣyati&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
-| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : ergreifen, packen, fassen | [46](/no/lektionen/lektion46#_46-2-wortliste) |
+| ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | (gṛh-ṇā-ti) : ergreifen, packen, fassen | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | village | [10](/no/lektionen/lektion10#_10-5-vocabulary) |
 | ⟪ग्राहयति⟫ | [grāhayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāhayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | Widerwillen empfinden, dahinschwinden | [36](/no/lektionen/lektion36#_36-4-wortliste) |
@@ -307,7 +307,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | killing, slaughter | [17](/no/lektionen/lektion17#_17-6-vocabulary-list) |
 | ⟪घृत⟫ | [ghṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghṛta&filter=roman&accent=no&transLit=roman) | n | clarified butter, ghee ( / گھی / ঘী) | [33](/no/lektionen/lektion33#_33-6-wortliste) |
-| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | sig[] : etwas riechen | [36](/no/lektionen/lektion36#_36-4-wortliste) |
+| ⟪घ्रा⟫ | [ghrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghrā&filter=roman&accent=no&transLit=roman) | 1P | etwas riechen | [36](/no/lektionen/lektion36#_36-4-wortliste) |
 
 ## च
 
@@ -442,11 +442,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | das, was fest ist und fest hält = Dharma | [25](/no/lektionen/lektion25#_25-5-word-list) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | treatises on law and custom (right conduct) | [3](/no/lektionen/lektion03#_3-6-word-list) |
 | ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | die ganze Aufmerksamkeit auf etwas richten, sich sammeln | [33](/no/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/no/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/no/lektionen/lektion33#_33-6-wortliste) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | gedroschenes Getreide | [25](/no/lektionen/lektion25#_25-5-word-list) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/no/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/no/lektionen/lektion33#_33-6-wortliste) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/no/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/no/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/no/lektionen/lektion33#_33-6-wortliste) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/no/lektionen/lektion33#_33-6-wortliste) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | fest, standhaft, kontinuierlich, beharrlich | [52](/no/lektionen/lektion52#_52-7-word-list) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | halten, festhalten | [25](/no/lektionen/lektion25#_25-5-word-list) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (milk) cow | [3](/no/lektionen/lektion03#_3-6-word-list) |
@@ -629,7 +629,7 @@ outline: 2
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | subordinate, servant | [28](/no/lektionen/lektion28#_28-10-word-list) |
 | ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special sand | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪भ्रंश⟫ | [bhraṃśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhraṃśa&filter=roman&accent=no&transLit=roman) | m | das Entfallen | [46](/no/lektionen/lektion46#_46-2-wortliste) |
-| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | sig[] : to wander, to roam | [46](/no/lektionen/lektion46#_46-2-wortliste) |
+| ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | to wander, to roam | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | Bruder | [42](/no/lektionen/lektion42#_42-2-word-list) |
 
 ## म
@@ -700,7 +700,7 @@ outline: 2
 | ⟪यदि⟫ | [yadi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadi&filter=roman&accent=no&transLit=roman) | — | if | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪यद्यपि⟫ | [yadyapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyapi&filter=roman&accent=no&transLit=roman) | — | even if, although | [30](/no/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪यद्येवम्⟫ | [yadyevam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yadyevam&filter=roman&accent=no&transLit=roman) | — | if so, under these circumstances | [30](/no/lektionen/lektion30#_30-6-vocabulary-list) |
-| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | sig[] : to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/no/lektionen/lektion44#_44-5-word-list) |
+| ⟪यम्⟫ | [yam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yam&filter=roman&accent=no&transLit=roman) | 1P | to hold, carry; to offer, grant; to keep together, restrain, bridle, conquer | [44](/no/lektionen/lektion44#_44-5-word-list) |
 | ⟪या⟫ | [yā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yā&filter=roman&accent=no&transLit=roman) | 2P | to go, to travel | [44](/no/lektionen/lektion44#_44-5-word-list) |
 | ⟪यातृ⟫ | [yātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yātṛ&filter=roman&accent=no&transLit=roman) | m | Gattin des Bruders des Ehemanns | [42](/no/lektionen/lektion42#_42-2-word-list) |
 | ⟪यान⟫ | [yāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yāna&filter=roman&accent=no&transLit=roman) | n | going, path, vehicle | [44](/no/lektionen/lektion44#_44-5-word-list) |
@@ -777,7 +777,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | color, birth caste (aspiration) | [2](/no/lektionen/lektion02#_2-5-word-list) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, category, social class | [5](/no/lektionen/lektion05#_5-4-vocabulary) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | rain, rainy season, year | [25](/no/lektionen/lektion25#_25-5-word-list) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : wollen, gebieten, verlangen nach | [52](/no/lektionen/lektion52#_52-7-word-list) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | , Imperat. 2.sg.: wollen, gebieten, verlangen nach | [52](/no/lektionen/lektion52#_52-7-word-list) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("shining" =) spring (March to May) | [27](/no/lektionen/lektion27#_27-5-word-list) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/no/lektionen/lektion27#_27-5-word-list) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | wealth, treasure, property, possession | [27](/no/lektionen/lektion27#_27-5-word-list) |
@@ -866,7 +866,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | child, young one | [49](/no/lektionen/lektion49#_49-4-word-list) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | verlassen, übriglassen | [51](/no/lektionen/lektion51#_51-6-word-list) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | zu belehrender = Schüler | [41](/no/lektionen/lektion41#_41-3-wortliste) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā :sig[] (śe + e). The following forms are pa | [44](/no/lektionen/lektion44#_44-5-word-list) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | to lie. This root has in all forms of the present stem Guna: 1.sg.Ind.Pres.Ā (śe + e). The following forms are pa | [44](/no/lektionen/lektion44#_44-5-word-list) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | fast, swift | [43](/no/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral | [52](/no/lektionen/lektion52#_52-7-word-list) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | shining, gleaming, fine; m.: purity | [29](/no/lektionen/lektion29#_29-2-vocabulary-list) |
@@ -882,7 +882,7 @@ outline: 2
 | ⟪श्रमयति⟫ | [śramayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramayati&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रमित्वा⟫ | [śramitvā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramitvā&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रमिष्यते⟫ | [śramiṣyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramiṣyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
-| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : sich abmühen, müde werden | [46](/no/lektionen/lektion46#_46-2-wortliste) |
+| ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sich abmühen, müde werden | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪श्रम्यते⟫ | [śramyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śramyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रान्त⟫ | [śrānta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrānta&filter=roman&accent=no&transLit=roman) | — | br | [32](/no/lektionen/lektion32#_32-5-wortliste) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (, ) | [46](/no/lektionen/lektion46#_46-2-wortliste) |
@@ -907,11 +907,11 @@ outline: 2
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | das Anhängen an, Berührung mit () | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (zu - : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische) | [41](/no/lektionen/lektion41#_41-3-wortliste) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | hängen, anhaften | [48](/no/lektionen/lektion48#_48-4-word-list) |
-| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : anhängen, sich heften an () | [46](/no/lektionen/lektion46#_46-2-wortliste) |
+| ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | anhängen, sich heften an () | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | truth | [10](/no/lektionen/lektion10#_10-5-vocabulary) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | fast, hurried | [43](/no/lektionen/lektion43#_43-4-vocabulary-list) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sitzen, sich niederlassen | [20](/no/lektionen/lektion20#_20-9-word-list) |
-| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : to sit down | [46](/no/lektionen/lektion46#_46-2-wortliste) |
+| ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | to sit down | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सनातन ३⟫ | [sanātana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sanātana&filter=roman&accent=no&transLit=roman) | f |  eternal, imperishable, constant | [30](/no/lektionen/lektion30#_30-6-vocabulary-list) |
 | ⟪सम⟫ | [sama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sama&filter=roman&accent=no&transLit=roman) | 3 | gleich, eben, ähnlich | [46](/no/lektionen/lektion46#_46-2-wortliste) |
 | ⟪समता⟫ | [samatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samatā&filter=roman&accent=no&transLit=roman) | f | Gleichmut | [46](/no/lektionen/lektion46#_46-2-wortliste) |
@@ -984,7 +984,7 @@ outline: 2
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (raising of the body hair), joy | [25](/no/lektionen/lektion25#_25-5-word-list) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | elephant (_Elephas maximus_) | [38](/no/lektionen/lektion38#_38-9-wortliste) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | 3P | verlassen | [33](/no/lektionen/lektion33#_33-6-wortliste) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/no/lektionen/lektion33#_33-6-wortliste) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/no/lektionen/lektion33#_33-6-wortliste) |
 | ⟪हिरण्य ३⟫ | [hiraṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hiraṇya&filter=roman&accent=no&transLit=roman) | — | golden ; n.: gold, money, wealth | [25](/no/lektionen/lektion25#_25-5-word-list) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | verlassen von, ermangelnd, mangelhaft | [33](/no/lektionen/lektion33#_33-6-wortliste) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ; d | [33](/no/lektionen/lektion33#_33-6-wortliste) |

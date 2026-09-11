@@ -100,7 +100,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | राजा, प्रथम, सर्वोत्तम ; देवराज इन्द्र | [15](/hi/lektionen/lektion15#_15-8-) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | शक्ति, इंद्रिय | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪इव⟫ | इव | — | मानो, जैसे (तुलना में: ⟪ = "एक पुरुष जो बाघ जैसा है", "बाघ समान पुरुष" | [15](/hi/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | इष् | — | sig[] : भेजना | [42](/hi/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | भेजना | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪इह⟫ | इह | — | यहाँ, पृथ्वी पर यहाँ, यहाँ तक; अभी। सम्प्रदान में संज्ञाओं के पूर्व () , के समानार्थी | [50](/hi/lektionen/lektion50#_50-2-) |
 
 ## ई
@@ -194,7 +194,7 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | — | अनुभवी ( ) | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | कौमर | n | बाल्यकाल | [48](/hi/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | कौशिक | m | उल्लू | [51](/hi/lektionen/lektion51#_51-6-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : चलना, जाना | [35](/hi/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P चलना, जाना | [35](/hi/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | f | कर्म, पवित्र कर्म, यज्ञ कर्म, अनुष्ठान (⟪ 8 से) | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | क्री | 9U | खरीदना | [30](/hi/lektionen/lektion30#_30-6-) |
 | ⟪क्रूर⟫ | क्रूर | — | कच्चा, क्रूर | [51](/hi/lektionen/lektion51#_51-6-) |
@@ -233,7 +233,7 @@ outline: 2
 | ⟪गोदान⟫ | गोदान | n | गायों / एक गाय को देना ; दूसरा केशच्छेदन संस्कार (एक ⟪) | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪ग्रह⟫ | ग्रह | m | पकड़ना, पकड़ने वाला, मगरमच्छ, चलता तारा | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | पकड़ना | [24](/hi/lektionen/lektion24#_24-4-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : पकड़ना, थामना, छूना | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : पकड़ना, थामना, छूना | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | गाँव | [10](/hi/lektionen/lektion10#_10-5-) |
 
 ## घ
@@ -510,7 +510,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | अधीनस्थ, सेवक | [28](/hi/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | सम्बोधन का आह्वान, उदाहरण: हे, हेडा, ओह, एई, हेलो, हाय! अक्सर अनुवाद नहीं किया जा सकता। इस क्रियापद का एक विशेष संधि है: | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | गिरना | [46](/hi/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : भटकना, इधर-उधर घूमना | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | भटकना, इधर-उधर घूमना | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | भाई | [42](/hi/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -569,7 +569,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | जब | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | यदि भी, भले ही, यद्यपि | [30](/hi/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | यदि ऐसा है, इन परिस्थितियों में | [30](/hi/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | 1P | sig[⟪] : धारण करना, उठाना ; प्रदान करना, देना ; एकत्र रखना, नियन्त्रित करना, लगाम डालना, जीतना | [44](/hi/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | 1P | :sig[⟪] : धारण करना, उठाना ; प्रदान करना, देना ; एकत्र रखना, नियन्त्रित करना, लगाम डालना, जीतना | [44](/hi/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | जाना, चलना | [44](/hi/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | पति के भाई की पत्नी | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | जाना, मार्ग, वाहन | [44](/hi/lektionen/lektion44#_44-5-) |
@@ -589,7 +589,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | रहस्य, एकांत | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | (लाल) रंग, लगाव, प्रेम। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪राग⟫ | राग | m | साथ ही: रंग, लाल रंग | [51](/hi/lektionen/lektion51#_51-6-) |
-| ⟪राजन्⟫ | राजन् | m | राजा (भारत में राजतंत्र के लिए देखें बशम, चमत्कार पृ. 82 -94). समास के अंत में (विशेष रूप से ) आमतौर पर: -:sig[] पुं. (ज | [38](/hi/lektionen/lektion38#_38-9-) |
+| ⟪राजन्⟫ | राजन् | m | राजा (भारत में राजतंत्र के लिए देखें बशम, चमत्कार पृ. 82 -94). समास के अंत में (विशेष रूप से ) आमतौर पर: -पुं. (ज | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪राज्ञी⟫ | राज्ञी | f | रानी, राजा की पत्नी | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪राज्य⟫ | राज्य | 3 | राजसी; नपुं. राजतंत्र, राजतंत्र, शासन | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪रिष्⟫ | रिष् | 1P | क्षतिग्रस्त होना, विफल होना, नुकसान पहुंचाना | [50](/hi/lektionen/lektion50#_50-2-) |
@@ -611,7 +611,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | लेपन करना, मलना | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | लिप्ति | f | लेपन, लिखना, लेख | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | लीला | f | मजाक, खेल | [42](/hi/lektionen/lektion42#_42-2-) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : तोड़ना, नष्ट करना | [50](/hi/lektionen/lektion50#_50-2-) |
+| ⟪लुप्⟫ | लुप् | 6U | तोड़ना, नष्ट करना | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | लालच, लोभ। | [5](/hi/lektionen/lektion05#_5-4-) |
 
 ## व
@@ -633,7 +633,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | रंग, जन्म वर्ग (प्रवृत्ति)। | [2](/hi/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | रंग, जाति, वर्ग। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | वर्षा, वर्ष ऋतु, वर्ष | [25](/hi/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[], आज्ञा पद : :sig[] : चाहना, आज्ञा देना, की इच्छा रखना | [52](/hi/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | , आज्ञा पद : चाहना, आज्ञा देना, की इच्छा रखना | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("चमकने वाला" =) वसंत (मार्च से मई तक) | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | वसिष्यते | — | br PPP: ⟪:br अनित्यपद: ⟪ | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | धन, खज़ाना, संपत्ति, मालिकाना हक | [27](/hi/lektionen/lektion27#_27-5-) |
@@ -728,7 +728,7 @@ outline: 2
 | ⟪शून्य⟫ | शून्य | — | खाली, उजाड़ | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪शोक⟫ | शोक | m | शोक, दुख | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪शौच⟫ | शौच | n | पवित्रीकरण, पवित्रता | [16](/hi/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : कष्ट उठाना, थक जाना | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | कष्ट उठाना, थक जाना | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | झुकना, सहारा लेना, स्थिरता प्राप्त करना, किसी के पास जाना (, ) | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | श्रवण, शाश्वत परम्परा (वेदों और ब्राह्मणों के लिए संज्ञा)। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | धनी व्यापारी | [43](/hi/lektionen/lektion43#_43-4-) |
@@ -750,11 +750,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | चिपकना, स्पर्श () | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (- के लिए: एक साथ बजाना): समूह, झुंड, सभा (जैसे बौद्ध) | [41](/hi/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | लटकना, चिपकना | [48](/hi/lektionen/lektion48#_48-4-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : चिपकना, किसी से जुड़ना () | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | चिपकना, किसी से जुड़ना () | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | सत्य | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | सत्वर | — | शीघ्र, जल्दी | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | बैठना, निवास करना | [20](/hi/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : नीचे बैठना | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | नीचे बैठना | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  शाश्वत, अविनाशी, स्थिर | [30](/hi/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | समान, ठीक, समान | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪समता⟫ | समता | f | समता | [46](/hi/lektionen/lektion46#_46-2-) |

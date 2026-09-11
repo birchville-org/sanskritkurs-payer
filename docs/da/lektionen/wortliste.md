@@ -2486,7 +2486,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Billedkilde: [Detaljer](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: fastsætte, bestemme, tildele
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: fastsætte, bestemme, tildele
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

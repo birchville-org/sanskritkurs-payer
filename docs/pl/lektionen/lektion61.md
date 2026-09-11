@@ -756,7 +756,7 @@ Po tym, jak nauczyłeś się już podstaw sanskrytu, jesteś pewnie podobny do d
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 KONIEC KURSU SANSKRYTU
 :::

@@ -123,7 +123,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | vorst, eerste, beste onder ; godenkoning Indra | [15](/nl/lektionen/lektion15#_15-8-woordenlijst) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | kracht, zintuig | [24](/nl/lektionen/lektion24#_24-4-woordenlijst) |
 | ⟪इव⟫ | इव | — | als het ware, zoals (in vergelijkingen: = "een man als een tijger", "een tijgerachtige man" | [15](/nl/lektionen/lektion15#_15-8-woordenlijst) |
-| ⟪इष्⟫ | इष् | — | sig[] : sturen | [42](/nl/lektionen/lektion42#_42-2-woordenlijst) |
+| ⟪इष्⟫ | इष् | — | sturen | [42](/nl/lektionen/lektion42#_42-2-woordenlijst) |
 | ⟪इह⟫ | इह | — | hier, hier op aarde, hierheen; nu. Voor zelfstandige naamwoorden in de locatief () synoniem met , m: statuut, gewoonte,  | [50](/nl/lektionen/lektion50#_50-2-woordenlijst) |
 
 ## ई
@@ -233,7 +233,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : schrijden, gaan | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P schrijden, gaan | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/nl/lektionen/lektion35#_35-4-woordenlijst) |
 | ⟪क्रिया⟫ | क्रिया | — | handeling, heilige handeling, offerhandeling, ceremonie (zie 8) | [20](/nl/lektionen/lektion20#_20-9-woordenlijst) |
@@ -291,7 +291,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | grijpen, greper, krokodil, wandelende ster | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grijpen | [24](/nl/lektionen/lektion24#_24-4-woordenlijst) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : grijpen, vatten, vastpakken | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : grijpen, vatten, vastpakken | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
 | ⟪ग्लै⟫ | ग्लै | 1P | weerzin voelen, wegvloeien | [36](/nl/lektionen/lektion36#_36-4-woordenlijst) |
 
@@ -301,7 +301,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | doden, slachten | [17](/nl/lektionen/lektion17#_17-6-woordenlijst) |
 | ⟪घृत⟫ | घृत | n | gesmolpen boter, ghee ( / گھی / ঘী) | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : iets ruiken | [36](/nl/lektionen/lektion36#_36-4-woordenlijst) |
+| ⟪घ्रा⟫ | घ्रा | 1P | iets ruiken | [36](/nl/lektionen/lektion36#_36-4-woordenlijst) |
 
 ## च
 
@@ -441,11 +441,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | dat wat vast is en vasthoudt = Dharma | [25](/nl/lektionen/lektion25#_25-5-woordenlijst) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | leerwerken over recht en zeden (juist gedrag) | [3](/nl/lektionen/lektion03#_3-6-woordenlijst) |
 | ⟪धा⟫ | धा | — | de volledige aandacht op iets richten, zich concentreren | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
 | ⟪धान्य⟫ | धान्य | n | gedorsen graan | [25](/nl/lektionen/lektion25#_25-5-woordenlijst) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
 | ⟪धीर⟫ | धीर | 3 | vast, standvastig, continu, volhardend | [52](/nl/lektionen/lektion52#_52-7-woordenlijst) |
 | ⟪धृ⟫ | धृ | 1U | vasthouden, stevig vasthouden | [25](/nl/lektionen/lektion25#_25-5-woordenlijst) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | — | (melk-)koe | [3](/nl/lektionen/lektion03#_3-6-woordenlijst) |
@@ -618,7 +618,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | ondergeschikte, dienaar | [28](/nl/lektionen/lektion28#_28-10-woordenlijst) |
 | ⟪भोस्⟫ | भोस् | — | aanroep, bijv.: hey, heda, oh, ei, hallo, hi! vaak niet te vertalen. Dit deeltje heeft een speciale sandhi: voor alle st | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪भ्रंश⟫ | भ्रंश | m | het vervallen | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : zwerven, omzwerven | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | zwerven, omzwerven | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Broer | [42](/nl/lektionen/lektion42#_42-2-woordenlijst) |
 
 ## म
@@ -690,7 +690,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | als | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪यद्यपि⟫ | यद्यपि | — | hoewel, zelfs indien, ofschoon | [30](/nl/lektionen/lektion30#_30-6-woordenlijst) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | indien het zo is, onder deze omstandigheden | [30](/nl/lektionen/lektion30#_30-6-woordenlijst) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : houden, dragen ; aanbieden, verlenen ; bijeenhouden, temmen, teugelen, overwinnen | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
+| ⟪यम्⟫ | यम् | 1P | houden, dragen ; aanbieden, verlenen ; bijeenhouden, temmen, teugelen, overwinnen | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
 | ⟪या⟫ | या | 2P | gaan, rijden | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
 | ⟪यातृ⟫ | यातृ | m | Echtgenote van de broer van de echtgenoot | [42](/nl/lektionen/lektion42#_42-2-woordenlijst) |
 | ⟪यान⟫ | यान | n | gaan, weg, voertuig | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
@@ -771,7 +771,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | kleur, geboortestand (streven) | [2](/nl/lektionen/lektion02#_2-5-woordenlijst) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | kleur, soort, stand | [5](/nl/lektionen/lektion05#_5-4-woordenlijst) |
 | ⟪वर्ष⟫ | वर्ष | n | regen, regentijd, jaar | [25](/nl/lektionen/lektion25#_25-5-woordenlijst) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : willen, gebieden, verlangen naar | [52](/nl/lektionen/lektion52#_52-7-woordenlijst) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: willen, gebieden, verlangen naar | [52](/nl/lektionen/lektion52#_52-7-woordenlijst) |
 | ⟪वसन्त⟫ | वसन्त | m | („stralend“ =) lente (maart tot mei) | [27](/nl/lektionen/lektion27#_27-5-woordenlijst) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/nl/lektionen/lektion27#_27-5-woordenlijst) |
 | ⟪वसु⟫ | वसु | — | rijkdom, schat, bezit | [27](/nl/lektionen/lektion27#_27-5-woordenlijst) |
@@ -862,7 +862,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | kind, jong | [49](/nl/lektionen/lektion49#_49-4-woordenlijst) |
 | ⟪शिष्⟫ | शिष् | 7P | verlaten, achterlaten | [51](/nl/lektionen/lektion51#_51-6-woordenlijst) |
 | ⟪शिष्य⟫ | शिष्य | 3 | te onderwijzen = leerling | [41](/nl/lektionen/lektion41#_41-3-woordenlijst) |
-| ⟪शी⟫ | शी | 2Ā | liggen. Deze wortel heeft in alle vormen van de tegenwoordige stam Hoge graad: 1.sg.Ind.Tegenw.Ā :sig[] (śe + e). De vol | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
+| ⟪शी⟫ | शी | 2Ā | liggen. Deze wortel heeft in alle vormen van de tegenwoordige stam Hoge graad: 1.sg.Ind.Tegenw.Ā (śe + e). De vol | [44](/nl/lektionen/lektion44#_44-5-woordenlijst) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | snel, haastig | [43](/nl/lektionen/lektion43#_43-4-woordenlijst) |
 | ⟪शील⟫ | शील | n | gebruik, gewoonte, natuur, karakter, goede gewoonte = moraal | [52](/nl/lektionen/lektion52#_52-7-woordenlijst) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papegaai | [8](/nl/lektionen/lektion08#_8-5-woordenlijst) |
@@ -882,7 +882,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : zich inspannen, moe worden | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
+| ⟪श्रम्⟫ | श्रम् | 4P | zich inspannen, moe worden | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/nl/lektionen/lektion32#_32-5-woordenlijst) |
@@ -907,10 +907,10 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | het hechten aan, contact met () | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (tot - : samen-slaan): schare, hoop, gemeenschap (bijv. boeddhistisch) | [41](/nl/lektionen/lektion41#_41-3-woordenlijst) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | hangen, hechten | [48](/nl/lektionen/lektion48#_48-4-woordenlijst) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : hechten, zich vasthechten aan () | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | hechten, zich vasthechten aan () | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪सत्वर⟫ | सत्वर | 3 | snel, haastig | [43](/nl/lektionen/lektion43#_43-4-woordenlijst) |
 | ⟪सद्⟫ | सद् | — | zitten, zich nederzetten | [20](/nl/lektionen/lektion20#_20-9-woordenlijst) |
-| ⟪सद्⟫ | सद् | — | sig[] : zich neerzetten | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
+| ⟪सद्⟫ | सद् | — | zich neerzetten | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  eeuwig, onvergankelijk, bestendig | [30](/nl/lektionen/lektion30#_30-6-woordenlijst) |
 | ⟪सम⟫ | सम | 3 | gelijk, even, vergelijkbaar (met instrumentalis) | [18](/nl/lektionen/lektion18#_18-4-woordenlijst) |
 | ⟪सम⟫ | सम | 3 | gelijk, precies, vergelijkbaar | [46](/nl/lektionen/lektion46#_46-2-woordenlijst) |
@@ -985,7 +985,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | hand | [18](/nl/lektionen/lektion18#_18-4-woordenlijst) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | olifant (_Elephas maximus_) | [38](/nl/lektionen/lektion38#_38-9-woordenlijst) |
 | ⟪हा⟫ | हा | 3P | verlaten | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | gouden ; n.: goud, geld, rijkdom | [25](/nl/lektionen/lektion25#_25-5-woordenlijst) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | verlaten door, ontbrekend, gebrekkig | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |
 | ⟪हीनयान⟫ | हीनयान | n | het gebrekkige voertuig (van het boeddhisme): minachtende benaming door de vertegenwoordigers van de "grote weg", het ;  | [33](/nl/lektionen/lektion33#_33-6-woordenlijst) |

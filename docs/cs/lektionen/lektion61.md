@@ -982,7 +982,7 @@ To vám přeje váš Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 KONEC SANSKRTOVÉHO KURZU
 

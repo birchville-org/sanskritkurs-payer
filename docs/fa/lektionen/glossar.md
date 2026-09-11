@@ -98,7 +98,7 @@ outline: 2
 | ⟪इत्थम्⟫ | इत्थम् | Adv | به این شکل، چنین | [43](/fa/lektionen/lektion43#_43-4-) |
 | ⟪इन्द्र⟫ | इन्द्र | m | شاهزاده، نخستین، برترین در ; پادشاه خدایان ایندرا | [15](/fa/lektionen/lektion15#_15-8-) |
 | ⟪इव⟫ | इव | — | گویی، مانند (در تشبیهات: = "مردی همچون ببر"، "مردی هم‌تراز ببر" | [15](/fa/lektionen/lektion15#_15-8-) |
-| ⟪इष्⟫ | इष् | — | sig[] : فرستادن | [42](/fa/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | فرستادن | [42](/fa/lektionen/lektion42#_42-2-) |
 
 ## ई
 
@@ -195,7 +195,7 @@ outline: 2
 | ⟪गुर्वी⟫ | گوروی | — | مؤنثِ گورو | [3](/fa/lektionen/lektion03#_3-6-) |
 | ⟪गोदान⟫ | गोदान | — | دادن گاو/یک گاو؛ دومین مراسم کوتاهی مو (یک ) | [25](/fa/lektionen/lektion25#_25-5-) |
 | ⟪ग्रह⟫ | ग्रह | — | گرفتن، گیرنده، تمساح، سیاره سرگردان | [46](/fa/lektionen/lektion46#_46-2-) |
-| ⟪ग्रह्⟫ | ग्रह् | — | sig[] (gṛh-ṇā-ti) : گرفتن، محکم گرفتن، لمس کردن | [46](/fa/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | — | (gṛh-ṇā-ti) : گرفتن، محکم گرفتن، لمس کردن | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪ग्लै⟫ | ग्लै | — | احساس بی‌میلی کردن، محو شدن | [36](/fa/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -204,7 +204,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | — | کشتن | [17](/fa/lektionen/lektion17#_17-6-) |
 | ⟪घृत⟫ | घृत | n | کره ذوب شده، گِ ( / گھی / ঘী) | [33](/fa/lektionen/lektion33#_33-6-) |
-| ⟪घ्रा⟫ | घ्रा | — | sig[] : چیزی را بوییدن | [36](/fa/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | — | چیزی را بوییدن | [36](/fa/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -312,12 +312,12 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | m | آنچه ثابت است و نگه می‌دارد = دِرمَا | [25](/fa/lektionen/lektion25#_25-5-) |
-| ⟪धा⟫ | धा | — | sig[]: قرار دادن، تعیین کردن، تقسیم کردن | [33](/fa/lektionen/lektion33#_33-6-) |
-| ⟪धातुम्⟫ | مصدر. | — | sig[] | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪धा⟫ | धा | — | قرار دادن، تعیین کردن، تقسیم کردن | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | مصدر. | — | | [33](/fa/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | غلات آسیاب‌شده | [25](/fa/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | سببی. | — | sig[] | [33](/fa/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | مستقبل. | — | sig[] | [33](/fa/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | مجهول. | — | sig[] | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | سببی. | — | | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | مستقبل. | — | | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | مجهول. | — | | [33](/fa/lektionen/lektion33#_33-6-) |
 | ⟪धीर⟫ | धीर | 3 | ثابت، استوار، پیوسته، پایداری | [52](/fa/lektionen/lektion52#_52-7-) |
 | ⟪धृ⟫ | धृ | — | نگه داشتن، محکم گرفتن | [25](/fa/lektionen/lektion25#_25-5-) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (شیر) گاو | [3](/fa/lektionen/lektion03#_3-6-) |
@@ -443,7 +443,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | — | زیردست، خدمتگزار | [28](/fa/lektionen/lektion28#_28-10-) |
 | ⟪भोस्⟫ | भोस् | — | واکنش خطاب، مثلاً: ای، هیدایا، اوه، ای، سلام، هی! اغلب قابل ترجمه نیست. این حرف دارای یک ساندهای ویژه است: پیش از همه یا | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | — | حذف شدن | [46](/fa/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | — | sig[] : سرگردانی، چرخیدن | [46](/fa/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | — | سرگردانی، چرخیدن | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | برادر | [42](/fa/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -499,7 +499,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | اگر | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪यद्यपि⟫ | यद्यपि | — | اگرچه، حتی اگر، با اینکه | [30](/fa/lektionen/lektion30#_30-6-) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | اگر چنین باشد، در این شرایط | [30](/fa/lektionen/lektion30#_30-6-) |
-| ⟪यम्⟫ | यम् | — | sig[] : نگه داشتن، حمل کردن؛ ارائه دادن، اعطا نمودن؛ حفظ و حراست کردن، مهار کردن، زمام گرفتن، غلبه کردن | [44](/fa/lektionen/lektion44#_44-5-) |
+| ⟪यम्⟫ | यम् | — | نگه داشتن، حمل کردن؛ ارائه دادن، اعطا نمودن؛ حفظ و حراست کردن، مهار کردن، زمام گرفتن، غلبه کردن | [44](/fa/lektionen/lektion44#_44-5-) |
 | ⟪या⟫ | या | 2P | رفتن، سفر کردن | [44](/fa/lektionen/lektion44#_44-5-) |
 | ⟪यातृ⟫ | यातृ | m | همسر برادر شوهر | [42](/fa/lektionen/lektion42#_42-2-) |
 | ⟪यान⟫ | यान | n | رفتن، راه، وسیله نقلیه | [44](/fa/lektionen/lektion44#_44-5-) |
@@ -551,7 +551,7 @@ outline: 2
 | ⟪वर⟫ | वर | 3 | بهترین | [52](/fa/lektionen/lektion52#_52-7-) |
 | ⟪वर्ग⟫ | वर्ग | — | بخش، قسمت، گروه | [52](/fa/lektionen/lektion52#_52-7-) |
 | ⟪वर्ष⟫ | वर्ष | n | باران، فصل بارانی، سال | [25](/fa/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | — | sig[]، امری ۲.مفرد: :sig[] : خواستن، فرمان دادن، تمایل داشتن به | [52](/fa/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | — | ، امری ۲.مفرد: خواستن، فرمان دادن، تمایل داشتن به | [52](/fa/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("درخشان" =) بهار (مارس تا مه) | [27](/fa/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | ثروت، گنجینه، دارایی، مالکیت | [27](/fa/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | वस् | — | ماندن، ساکن بودن (با مفعول مکانی شخص محل اقامت) | [27](/fa/lektionen/lektion27#_27-5-) |
@@ -622,7 +622,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | کودک، توله | [49](/fa/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | शिष् | 7P | ترک کردن، باقی گذاشتن | [51](/fa/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | शिष्य | — | باید آموزش داده شود = دانش‌پذیر | [41](/fa/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | शी | — | دراز کشیدن. این ریشه در تمام اشکال بن مضارع درجه بالا: ۱.sg.Ind.Präs.Ā :sig[] (śe + e) دارد. اشکال زیر به‌ویژه باید مورد | [44](/fa/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | शी | — | دراز کشیدن. این ریشه در تمام اشکال بن مضارع درجه بالا: ۱.sg.Ind.Präs.Ā (śe + e) دارد. اشکال زیر به‌ویژه باید مورد | [44](/fa/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | शीघ्र | — | سریع، به‌سرعت | [43](/fa/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | शील | — | رسم، عادت، طبیعت، شخصیت، عادت خوب = اخلاق | [52](/fa/lektionen/lektion52#_52-7-) |
 | ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | شودرای زن | [3](/fa/lektionen/lektion03#_3-6-) |
@@ -631,7 +631,7 @@ outline: 2
 | ⟪शूर⟫ | शूर | 3 | شجاع، قهرمانی ; m.: قهرمان | [18](/fa/lektionen/lektion18#_18-4-) |
 | ⟪शोभन⟫ | शोभन | — | درخشان، باشکوه، زیبا، خوب | [18](/fa/lektionen/lektion18#_18-4-) |
 | ⟪शौच⟫ | शौच | — | پاکسازی، پاکی | [16](/fa/lektionen/lektion16#_16-2-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : خسته شدن، کوفته شدن | [46](/fa/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | خسته شدن، کوفته شدن | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | श्रि | 1U | تکیه دادن، به کسی تکیه کردن، پناه یافتن، نزد کسی رفتن (, ) | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | شنیدن، سنت ابدی (نامی برای وداه‌ها و برهمانه‌ها) | [3](/fa/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | श्रेष्ठिन् | m | تاجر ثروتمند | [43](/fa/lektionen/lektion43#_43-4-) |
@@ -648,10 +648,10 @@ outline: 2
 | ⟪सकाश⟫ | सकाश | m | حضور، حاضر بودن | [42](/fa/lektionen/lektion42#_42-2-) |
 | ⟪सङ्ग⟫ | सङ्ग | m | چسبیدن به، تماس با () | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (به - : به‌هم‌زدن): گروه، دسته، جامعه (مثلاً بودایی) | [41](/fa/lektionen/lektion41#_41-3-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | — | sig[] : به چیزی چسبیدن، به چیزی متصل شدن () | [46](/fa/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | — | به چیزی چسبیدن، به چیزی متصل شدن () | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪सत्वर⟫ | सत्वर | — | سریع، شتاب‌زده | [43](/fa/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | सद् | — | نشستن، جای گرفتن | [20](/fa/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : نشستن | [46](/fa/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | نشستن | [46](/fa/lektionen/lektion46#_46-2-) |
 | ⟪सनातन⟫ | सनातन | — |  ابدی، ناپذیرفتنی، پایدار | [30](/fa/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | — | برابر، دقیقاً، مشابه (با ابزار) | [18](/fa/lektionen/lektion18#_18-4-) |
 | ⟪सम⟫ | सम | — | برابر، دقیقاً، مشابه | [46](/fa/lektionen/lektion46#_46-2-) |
@@ -708,7 +708,7 @@ outline: 2
 | ⟪हर्ष⟫ | हर्ष | m | (برافراشتن موهای بدن)، شادی | [25](/fa/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | हस्त | — | دست | [18](/fa/lektionen/lektion18#_18-4-) |
 | ⟪हा⟫ | हा | 3P | ترک کردن | [33](/fa/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/fa/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/fa/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य⟫ | हिरण्य | — | طلایی ; اسم: طلا، پول، ثروت | [25](/fa/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | ترک شده، محروم از، ناقص | [33](/fa/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | وسیله نقلیه ناقص (بودیسم): عنوان تحقیرآمیز توسط نمایندگان «وسیله نقلیه بزرگ»، ; راه ناقص ( به 2: رفتن، حرکت کردن). عبارت | [33](/fa/lektionen/lektion33#_33-6-) |

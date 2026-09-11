@@ -2499,7 +2499,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Burimi i imazhit: [Detaje](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: vendos, caktuar, shpërndaj
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: vendos, caktuar, shpërndaj
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

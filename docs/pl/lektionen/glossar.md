@@ -117,7 +117,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | siła, zmysł | [24](/pl/lektionen/lektion24#_24-4-sownik) |
 | ⟪इव⟫ | इव | — | jak gdyby, jak (w porównaniach: = "mężczyzna jak tygrys", "tygrysi mężczyzna" | [15](/pl/lektionen/lektion15#_15-8-sownik) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | pragnąć | [11](/pl/lektionen/lektion11#_11-2-lista-sownictwa) |
-| ⟪इष्⟫ | इष् | — | sig[] : wysyłać | [42](/pl/lektionen/lektion42#_42-2-sownik) |
+| ⟪इष्⟫ | इष् | — | wysyłać | [42](/pl/lektionen/lektion42#_42-2-sownik) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | pragnąć (iṣ-ccha-ti) | [11](/pl/lektionen/lektion11#_11-2-lista-sownictwa) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | pragnienie (iṣ + -ti) | [11](/pl/lektionen/lektion11#_11-2-lista-sownictwa) |
 | ⟪इह⟫ | इह | — | tutaj, tu na ziemi, stąd; teraz. Przed rzeczownikami w miejscowniku () równoznaczne z , m: ustawa, zwyczaj, rytuał; [kal | [50](/pl/lektionen/lektion50#_50-2-sownik) |
@@ -229,7 +229,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/pl/lektionen/lektion35#_35-4-sownik) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/pl/lektionen/lektion35#_35-4-sownik) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/pl/lektionen/lektion35#_35-4-sownik) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : iść, podążać | [35](/pl/lektionen/lektion35#_35-4-sownik) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P iść, podążać | [35](/pl/lektionen/lektion35#_35-4-sownik) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/pl/lektionen/lektion35#_35-4-sownik) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/pl/lektionen/lektion35#_35-4-sownik) |
 | ⟪क्रिया⟫ | क्रिया | f | czynność, święta czynność, ofiara, ceremonia (do 8) | [20](/pl/lektionen/lektion20#_20-9-sownik) |
@@ -291,7 +291,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | chwytanie, chwytyacz, krokodyl, planeta | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪ग्रहण⟫ | ग्रहण | n | chwytanie | [24](/pl/lektionen/lektion24#_24-4-sownik) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : chwytać, łapać, brać | [46](/pl/lektionen/lektion46#_46-2-sownik) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : chwytać, łapać, brać | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | wieś | [10](/pl/lektionen/lektion10#_10-5-sownik) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
 
@@ -440,11 +440,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | to, co jest trwałe i utrzymuje = Dharma | [25](/pl/lektionen/lektion25#_25-5-sownik) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | traktaty dotyczące prawa i obyczajów (właściwego postępowania) | [3](/pl/lektionen/lektion03#_3-6-sownictwo) |
 | ⟪धा⟫ | धा | — | kierować całą uwagą na coś, skupiać się | [33](/pl/lektionen/lektion33#_33-6-sownik) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/pl/lektionen/lektion33#_33-6-sownik) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/pl/lektionen/lektion33#_33-6-sownik) |
 | ⟪धान्य⟫ | धान्य | n | mielone zboże | [25](/pl/lektionen/lektion25#_25-5-sownik) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/pl/lektionen/lektion33#_33-6-sownik) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/pl/lektionen/lektion33#_33-6-sownik) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/pl/lektionen/lektion33#_33-6-sownik) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/pl/lektionen/lektion33#_33-6-sownik) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/pl/lektionen/lektion33#_33-6-sownik) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/pl/lektionen/lektion33#_33-6-sownik) |
 | ⟪धीर⟫ | धीर | 3 | trwały, stanowczy, ciągły, uparty | [52](/pl/lektionen/lektion52#_52-7-sownik) |
 | ⟪धृ⟫ | धृ | 1U | trzymać, przytrzymywać | [25](/pl/lektionen/lektion25#_25-5-sownik) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | krowa (mleczna) | [3](/pl/lektionen/lektion03#_3-6-sownictwo) |
@@ -483,7 +483,7 @@ outline: 2
 | ⟪निर्वाण⟫ | निर्वाण | n | wygasić, Nirwana | [38](/pl/lektionen/lektion38#_38-9-lista-sw) |
 | ⟪निश्चित⟫ | निश्चित | 3 | zdecydowany, ustalony | [43](/pl/lektionen/lektion43#_43-4-sownik) |
 | ⟪निषेक⟫ | निषेक | m | oblężenie, zapłodnienie, płyn, ejakulat, ceremonia poczęcia | [50](/pl/lektionen/lektion50#_50-2-sownik) |
-| ⟪निस्⟫ | निस् | — | na zewnątrz, precz, na zewnątrz, ku górze, z, прочь, bez - od | [52](/pl/lektionen/lektion52#_52-7-sownik) |
+| ⟪निस्⟫ | निस् | — | na zewnątrz, precz, na zewnątrz, ku górze, z, bez - od | [52](/pl/lektionen/lektion52#_52-7-sownik) |
 | ⟪नी⟫ | नी | — | odprowadzać, uczyć, wychowywać | [25](/pl/lektionen/lektion25#_25-5-sownik) |
 | ⟪नी नयति⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | prowadzić | [6](/pl/lektionen/lektion06#_6-7-sownik) |
 | ⟪नीतिशास्त्र⟫ | [nītiśāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nītiśāstra&filter=roman&accent=no&transLit=roman) | n | traktaty o mądrości życiowej | [3](/pl/lektionen/lektion03#_3-6-sownictwo) |
@@ -626,7 +626,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | podwładny, sługa | [28](/pl/lektionen/lektion28#_28-10-sownik) |
 | ⟪भोस्⟫ | भोस् | — | okrzyk wezwania, np.: hej, heda, ożeń, ej, halo, hi! często nie do przetłumaczenia. Ta czastka ma specjalny sandhi: prze | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪भ्रंश⟫ | भ्रंश | m | odpuszczanie | [46](/pl/lektionen/lektion46#_46-2-sownik) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : błądzić, wędrować | [46](/pl/lektionen/lektion46#_46-2-sownik) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | błądzić, wędrować | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brat | [42](/pl/lektionen/lektion42#_42-2-sownik) |
 
 ## म
@@ -698,7 +698,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | jeśli | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪यद्यपि⟫ | यद्यपि | — | choć, nawet jeśli, mimo że | [30](/pl/lektionen/lektion30#_30-6-sownictwo) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | jeśli tak jest, w tych okolicznościach | [30](/pl/lektionen/lektion30#_30-6-sownictwo) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : trzymać, nosić ; ofiarować, udzielać ; utrzymywać razem, opanowywać, ujeżdżać, zwyciężać | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
+| ⟪यम्⟫ | यम् | 1P | trzymać, nosić ; ofiarować, udzielać ; utrzymywać razem, opanowywać, ujeżdżać, zwyciężać | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
 | ⟪या⟫ | या | — | iść, jechać | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
 | ⟪यातृ⟫ | यातृ | m | Żona brata męża | [42](/pl/lektionen/lektion42#_42-2-sownik) |
 | ⟪यान⟫ | यान | n | chodzenie, droga, pojazd | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
@@ -778,7 +778,7 @@ outline: 2
 | ⟪वर्ण⟫ | [warṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=warṇa&filter=roman&accent=no&transLit=roman) | m | kolor, stan urodzenia (dążenie) | [2](/pl/lektionen/lektion02#_2-5-sownik) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Kolor, gatunek, stan | [5](/pl/lektionen/lektion05#_5-4-sownik) |
 | ⟪वर्ष⟫ | वर्ष | n | deszcz, pora deszczowa, rok | [25](/pl/lektionen/lektion25#_25-5-sownik) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : chcieć, rozkazywać, pragnąć | [52](/pl/lektionen/lektion52#_52-7-sownik) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: chcieć, rozkazywać, pragnąć | [52](/pl/lektionen/lektion52#_52-7-sownik) |
 | ⟪वसन्त⟫ | वसन्त | m | ("błyszczący" =) wiosna (marzec do maja) | [27](/pl/lektionen/lektion27#_27-5-sownik) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/pl/lektionen/lektion27#_27-5-sownik) |
 | ⟪वसु⟫ | वसु | n | bogactwo, skarb, mienie, posiadłość | [27](/pl/lektionen/lektion27#_27-5-sownik) |
@@ -867,7 +867,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | dziecko, młode | [49](/pl/lektionen/lektion49#_49-4-sownik) |
 | ⟪शिष्⟫ | शिष् | 7P | porzucić, zostawić | [51](/pl/lektionen/lektion51#_51-6-sownik) |
 | ⟪शिष्य⟫ | शिष्य | 3 | do nauczania = uczeń | [41](/pl/lektionen/lektion41#_41-3-sownik) |
-| ⟪शी⟫ | शी | 2Ā | leżeć. Ta korzeń we wszystkich formach tematu prezensowego ma Wysoki stopień: 1.os.Ind.Prez.Ā :sig[] (śe + e). Należy sz | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
+| ⟪शी⟫ | शी | 2Ā | leżeć. Ta korzeń we wszystkich formach tematu prezensowego ma Wysoki stopień: 1.os.Ind.Prez.Ā (śe + e). Należy sz | [44](/pl/lektionen/lektion44#_44-5-sownictwo) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | szybki, prędki | [43](/pl/lektionen/lektion43#_43-4-sownik) |
 | ⟪शील⟫ | शील | n | zwyczaj, nawyk, natura, charakter, dobra norma = moralność | [52](/pl/lektionen/lektion52#_52-7-sownik) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papuga | [8](/pl/lektionen/lektion08#_8-5-sownik) |
@@ -887,7 +887,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : męczyć się, stawać się zmęczonym | [46](/pl/lektionen/lektion46#_46-2-sownik) |
+| ⟪श्रम्⟫ | श्रम् | 4P | męczyć się, stawać się zmęczonym | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/pl/lektionen/lektion32#_32-5-sownik) |
@@ -913,11 +913,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | przyczepianie się do, kontakt z () | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (do - : uderzać razem): zgraja, tłum, społeczność (np. buddyjska) | [41](/pl/lektionen/lektion41#_41-3-sownik) |
 | ⟪सज्ज्⟫ | सज्ज् | — | wisieć, przylgnąć | [48](/pl/lektionen/lektion48#_48-4-sownik) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : przyczepiać się, przyklejać się do () | [46](/pl/lektionen/lektion46#_46-2-sownik) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | przyczepiać się, przyklejać się do () | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | prawda | [10](/pl/lektionen/lektion10#_10-5-sownik) |
 | ⟪सत्वर⟫ | सत्वर | 3 | szybko, pilnie | [43](/pl/lektionen/lektion43#_43-4-sownik) |
 | ⟪सद्⟫ | सद् | — | siedzieć, osiadać | [20](/pl/lektionen/lektion20#_20-9-sownik) |
-| ⟪सद्⟫ | सद् | — | sig[] : usiąść | [46](/pl/lektionen/lektion46#_46-2-sownik) |
+| ⟪सद्⟫ | सद् | — | usiąść | [46](/pl/lektionen/lektion46#_46-2-sownik) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  wieczny, niezniszczalny, trwały | [30](/pl/lektionen/lektion30#_30-6-sownictwo) |
 | ⟪सम⟫ | सम | 3 | równy, taki sam, podobny (z narzędnikiem) | [18](/pl/lektionen/lektion18#_18-4-sownik) |
 | ⟪सम⟫ | सम | 3 | równy, ten sam, podobny | [46](/pl/lektionen/lektion46#_46-2-sownik) |
@@ -993,7 +993,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | ręka | [18](/pl/lektionen/lektion18#_18-4-sownik) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | słoń (_Elephas maximus_) | [38](/pl/lektionen/lektion38#_38-9-lista-sw) |
 | ⟪हा⟫ | हा | 3P | opuszczać | [33](/pl/lektionen/lektion33#_33-6-sownik) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/pl/lektionen/lektion33#_33-6-sownik) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/pl/lektionen/lektion33#_33-6-sownik) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | złoty ; n.: złoto, pieniądze, bogactwo | [25](/pl/lektionen/lektion25#_25-5-sownik) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | opuszczony, pozbawiony, niedoskonały | [33](/pl/lektionen/lektion33#_33-6-sownik) |
 | ⟪हीनयान⟫ | हीनयान | n | niedoskonały pojazd (w buddyzmie): pogardliwa nazwa używana przez przedstawicieli "Wielkiego Pojazdu", tj. ; niedoskonał | [33](/pl/lektionen/lektion33#_33-6-sownik) |

@@ -758,7 +758,7 @@ Quai Vus gida Voss Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 FIN DAL CURS DA SANSKRIT
 :::

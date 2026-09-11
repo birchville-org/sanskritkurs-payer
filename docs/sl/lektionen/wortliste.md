@@ -3148,7 +3148,7 @@ Sli.: ⟪सा पुत्रमादाय भारं बिभ्रत�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: postaviti, določiti, razdeliti
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: postaviti, določiti, razdeliti
 
 ::: indent
 

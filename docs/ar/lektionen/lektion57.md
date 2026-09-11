@@ -54,7 +54,7 @@ status: stable
 
 :::
 ::: indent
-مثال: sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
+مثال: :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **شكل الجذر:**

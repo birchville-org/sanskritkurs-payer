@@ -117,7 +117,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | Fürst, Erster, Bester unter ; Götterkönig Indra → knez, prvi, najboljši med ; bogovski kralj Indra | [15](/sl/lektionen/lektion15#_15-8-seznam-besed) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | moč, čutni organ | [24](/sl/lektionen/lektion24#_24-4-seznam-besed) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | želel | [11](/sl/lektionen/lektion11#_11-2-besedni-seznam) |
-| ⟪इष्⟫ | इष् | — | sig[] : poslati | [42](/sl/lektionen/lektion42#_42-2-beseda) |
+| ⟪इष्⟫ | इष् | — | poslati | [42](/sl/lektionen/lektion42#_42-2-beseda) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | želel (iṣ-ccha-ti) | [11](/sl/lektionen/lektion11#_11-2-besedni-seznam) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | želja (iṣ + -ti) | [11](/sl/lektionen/lektion11#_11-2-besedni-seznam) |
 | ⟪इह⟫ | इह | Adv | tukaj, tukaj na zemlji, sem ; zdaj. Pred samostalniki v lokativu () enakovredno z , m: zakon, običaj, ritual ; [svetovno | [50](/sl/lektionen/lektion50#_50-2-besedni-seznam) |
@@ -229,7 +229,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : schreiten, gehen | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P schreiten, gehen | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/sl/lektionen/lektion35#_35-4-wortliste) |
 | ⟪क्रिया⟫ | क्रिया | f | Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu 8) | [20](/sl/lektionen/lektion20#_20-9-seznam-besed) |
@@ -290,7 +290,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | prijetje, grabljivec, krokodil, planet | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪ग्रहण⟫ | ग्रहण | n | prijem | [24](/sl/lektionen/lektion24#_24-4-seznam-besed) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : prijeti, zgrabiti, dotakniti se | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : prijeti, zgrabiti, dotakniti se | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | vas | [10](/sl/lektionen/lektion10#_10-5-seznam-besed) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
 | ⟪ग्लै⟫ | ग्लै | 1P | čutiti odpor, izginiti | [36](/sl/lektionen/lektion36#_36-4-besedni-seznam) |
@@ -301,7 +301,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | ubojstvo | [17](/sl/lektionen/lektion17#_17-6-besedni-seznam) |
 | ⟪घृत⟫ | घृत | n | stopljeni maslo, ghee ( / گھی / ঘী) | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : nekaj dišati | [36](/sl/lektionen/lektion36#_36-4-besedni-seznam) |
+| ⟪घ्रा⟫ | घ्रा | 1P | nekaj dišati | [36](/sl/lektionen/lektion36#_36-4-besedni-seznam) |
 
 ## च
 
@@ -435,11 +435,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | tisto, kar je trdno in drži = Dharma | [25](/sl/lektionen/lektion25#_25-5-besedni-seznam) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | Lehrwerke zu Recht und Sitte (rechtes Verhalten) | [3](/sl/lektionen/lektion03#_3-6-wortliste) |
 | ⟪धा⟫ | धा | — | usmeriti vso pozornost na nekaj, zbrati se | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
 | ⟪धान्य⟫ | धान्य | n | odškoljeno žito | [25](/sl/lektionen/lektion25#_25-5-besedni-seznam) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
 | ⟪धृ⟫ | धृ | 1U | držati, trdno zadržati | [25](/sl/lektionen/lektion25#_25-5-besedni-seznam) |
 | ⟪ध्यै⟫ | ध्यै | 1P | predstavljati si, misliti | [49](/sl/lektionen/lektion49#_49-4-besedni-seznam) |
 | ⟪ध्रुव⟫ | ध्रुव | 3 | trden, nespremenljiv | [50](/sl/lektionen/lektion50#_50-2-besedni-seznam) |
@@ -615,7 +615,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | podrejeni, služabnik | [28](/sl/lektionen/lektion28#_28-10-besedni-seznam) |
 | ⟪भोस्⟫ | भोस् | — | klic poziva, npr.: hej, heda, o, ej, zdravo, hi! pogosto ni prevajati. Ta delilka ima poseben sandhi: pred vsemi zvenčni | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : bluditi se, potovati naokoli | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | bluditi se, potovati naokoli | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brat | [42](/sl/lektionen/lektion42#_42-2-beseda) |
 
 ## म
@@ -685,7 +685,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | če | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪यद्यपि⟫ | यद्यपि | — | čeprav, tudi če, kljub temu | [30](/sl/lektionen/lektion30#_30-6-besedni-seznam) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | če je tako, pod temi okoliščinami | [30](/sl/lektionen/lektion30#_30-6-besedni-seznam) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
+| ⟪यम्⟫ | यम् | 1P | halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
 | ⟪या⟫ | या | 2P | iti, voziti | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
 | ⟪यातृ⟫ | यातृ | m | Žena brata moža | [42](/sl/lektionen/lektion42#_42-2-beseda) |
 | ⟪यान⟫ | यान | n | Gehen, Weg, Fahrzeug | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
@@ -848,7 +848,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | otrok, mladič | [49](/sl/lektionen/lektion49#_49-4-besedni-seznam) |
 | ⟪शिष्⟫ | शिष् | 7P | verlassen, übriglassen | [51](/sl/lektionen/lektion51#_51-6-wortliste---516-seznam-besed) |
 | ⟪शिष्य⟫ | शिष्य | 3 | za poučevanja = učenec | [41](/sl/lektionen/lektion41#_41-3-beslavljenica) |
-| ⟪शी⟫ | शी | 2Ā | ležati. Ta koren ima v vseh oblikah prezentskega korena visoka stopnja: 1.sg.Ind.Präs.Ā :sig[] (śe + e). Zlasti je treba | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
+| ⟪शी⟫ | शी | 2Ā | ležati. Ta koren ima v vseh oblikah prezentskega korena visoka stopnja: 1.sg.Ind.Präs.Ā (śe + e). Zlasti je treba | [44](/sl/lektionen/lektion44#_44-5-besedni-seznam) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | hiter, nagel | [43](/sl/lektionen/lektion43#_43-4-besedni-zaklad) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papiga | [8](/sl/lektionen/lektion08#_8-5-beseda-besed) |
 | ⟪शुचि⟫ | शुचि | 3 | leuchtend, glänzend, fein ; m.: Reinheit | [29](/sl/lektionen/lektion29#_29-2-besedni-seznam) |
@@ -866,7 +866,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/sl/lektionen/lektion32#_32-5-beslovni-seznam) |
@@ -892,11 +892,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (k - : skupaj udarjati): množica, gneča, skupnost (npr. budistična) | [41](/sl/lektionen/lektion41#_41-3-beslavljenica) |
 | ⟪सज्ज्⟫ | सज्ज् | — | viseti, se oprijemati | [48](/sl/lektionen/lektion48#_48-4-besedni-seznam) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | resnica | [10](/sl/lektionen/lektion10#_10-5-seznam-besed) |
 | ⟪सत्वर⟫ | सत्वर | 3 | hitro, naglo | [43](/sl/lektionen/lektion43#_43-4-besedni-zaklad) |
 | ⟪सद्⟫ | सद् | — | sitzen, sich niederlassen | [20](/sl/lektionen/lektion20#_20-9-seznam-besed) |
-| ⟪सद्⟫ | सद् | — | sig[] : usedeti se | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
+| ⟪सद्⟫ | सद् | — | usedeti se | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  večen, nesmrten, trajen | [30](/sl/lektionen/lektion30#_30-6-besedni-seznam) |
 | ⟪सम⟫ | सम | 3 | enak, podoben (z instrumentalom) | [18](/sl/lektionen/lektion18#_18-4-beslovnik) |
 | ⟪सम⟫ | सम | 3 | enak, prav tako, podoben | [46](/sl/lektionen/lektion46#_46-2-beslovica) |
@@ -969,7 +969,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | roka | [18](/sl/lektionen/lektion18#_18-4-beslovnik) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephant (_Elephas maximus_) | [38](/sl/lektionen/lektion38#_38-9-seznam-besed) |
 | ⟪हा⟫ | हा | 3P | zapustiti | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | golden ; n.: Gold, Geld, Reichtum | [25](/sl/lektionen/lektion25#_25-5-besedni-seznam) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | zapuščen, brez, pomanjkljiv | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |
 | ⟪हीनयान⟫ | हीनयान | n | pomanjkljivo vozilo (budizma): zaničevalni izraz predstavnikov "velikega vozila", ; pomanjkljiva pot ( k 2: iti, voziti) | [33](/sl/lektionen/lektion33#_33-6-seznam-besed) |

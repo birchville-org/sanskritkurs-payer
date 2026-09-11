@@ -1000,7 +1000,7 @@ C'est ce que vous souhaite Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 FIN DU COURS DE SANSKRIT
 

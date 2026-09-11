@@ -996,7 +996,7 @@ Seda soovib teile teie Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 SANSKRITI KURSUSE LÕPP
 

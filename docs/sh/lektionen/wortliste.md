@@ -3123,7 +3123,7 @@ Fig.: ⟪सा पुत्रमादाय भारं बिभ्रत�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: to set, establish, allot
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: to set, establish, allot
 
 ::: indent
 

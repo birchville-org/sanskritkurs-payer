@@ -129,7 +129,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | sila, zmyslový orgán | [24](/sk/lektionen/lektion24#_24-4-slovnk) |
 | ⟪इव⟫ | इव | — | takpovediac, ako (pri prirovnaní: = "muž ako tiger", "muž podobný tigrovi | [15](/sk/lektionen/lektion15#_15-8-zoznam-slov) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | želať si | [11](/sk/lektionen/lektion11#_11-2-zoznam-slov) |
-| ⟪इष्⟫ | इष् | — | sig[] : poslať | [42](/sk/lektionen/lektion42#_42-2-zoznam-slov) |
+| ⟪इष्⟫ | इष् | — | poslať | [42](/sk/lektionen/lektion42#_42-2-zoznam-slov) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | želať si (iṣ-ccha-ti) | [11](/sk/lektionen/lektion11#_11-2-zoznam-slov) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | túžba (iṣ + -ti) | [11](/sk/lektionen/lektion11#_11-2-zoznam-slov) |
 | ⟪इह⟫ | इह | Adv | tu, tu na zemi, sem ; teraz. Pred podstatnými menami v lokáli () synonymum s , m: nariadenie, zvyk, rituál ; [svetové ob | [50](/sk/lektionen/lektion50#_50-2-slovnk) |
@@ -305,7 +305,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | chytenie, chytateľ, krokodíl, putovník | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪ग्रहण⟫ | ग्रहण | n | uchopenie | [24](/sk/lektionen/lektion24#_24-4-slovnk) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : chytiť, uchopiť, zobrať | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : chytiť, uchopiť, zobrať | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | dedina | [10](/sk/lektionen/lektion10#_10-5-slovnk) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
 | ⟪ग्लै⟫ | ग्लै | 1P | cítiť neochotu, vyprchať | [36](/sk/lektionen/lektion36#_36-4-slovnk) |
@@ -316,7 +316,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | usmrtenie | [17](/sk/lektionen/lektion17#_17-6-slovnk) |
 | ⟪घृत⟫ | घृत | n | prečistené maslo, ghí ( / گھی / ঘী) | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : niečo cítiť vôňou | [36](/sk/lektionen/lektion36#_36-4-slovnk) |
+| ⟪घ्रा⟫ | घ्रा | 1P | niečo cítiť vôňou | [36](/sk/lektionen/lektion36#_36-4-slovnk) |
 
 ## च
 
@@ -456,11 +456,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | m | to, čo je pevné a pevne drží = Dharma | [25](/sk/lektionen/lektion25#_25-5-slovnk) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | učebnice práva a mravů (správného chování) | [3](/sk/lektionen/lektion03#_3-6-slovn-zsoba) |
 | ⟪धा⟫ | धा | — | sústrediť celú pozornosť na niečo, zhromaždiť sa | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
 | ⟪धान्य⟫ | धान्य | n | vylúpané obilie | [25](/sk/lektionen/lektion25#_25-5-slovnk) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
 | ⟪धीर⟫ | धीर | 3 | pevný, vytrvalý, neustály, trpezlivý | [52](/sk/lektionen/lektion52#_52-7-zoznam-slov) |
 | ⟪धृ⟫ | धृ | 1U | držať, pevne chytiť | [25](/sk/lektionen/lektion25#_25-5-slovnk) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | — | (mliečna) krava | [3](/sk/lektionen/lektion03#_3-6-slovn-zsoba) |
@@ -647,7 +647,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | podriadený, sluha | [28](/sk/lektionen/lektion28#_28-10-slovnk) |
 | ⟪भोस्⟫ | भोस् | — | výkrik oslovenia, napr.: hej, heda, ó, ei, ahoj, hi! často sa prekladá. Táto častica má špeciálny sandhi: pred všetkými  | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪भ्रंश⟫ | भ्रंश | m | odpadávání, ztráta | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : blúdiť, potulovať sa | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | blúdiť, potulovať sa | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Brat | [42](/sk/lektionen/lektion42#_42-2-zoznam-slov) |
 
 ## म
@@ -720,7 +720,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | ak | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪यद्यपि⟫ | यद्यपि | — | aj keď, hoci | [30](/sk/lektionen/lektion30#_30-6-slovnk) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | ak je to tak, za týchto okolností | [30](/sk/lektionen/lektion30#_30-6-slovnk) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : držať, niesť ; ponúknuť, poskytnúť ; zjednotiť, ovládať, uzditi, zdolať | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
+| ⟪यम्⟫ | यम् | 1P | držať, niesť ; ponúknuť, poskytnúť ; zjednotiť, ovládať, uzditi, zdolať | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
 | ⟪या⟫ | या | 2P | ísť, plaviť sa | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
 | ⟪यातृ⟫ | यातृ | m | Manželka brata manžela | [42](/sk/lektionen/lektion42#_42-2-zoznam-slov) |
 | ⟪यान⟫ | यान | n | chodenie, cesta, vozidlo | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
@@ -803,7 +803,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | farba, pôvodná trieda (snaha) | [2](/sk/lektionen/lektion02#_2-5-slovnk) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | farba, druh, stav | [5](/sk/lektionen/lektion05#_5-4-slovnk) |
 | ⟪वर्ष⟫ | वर्ष | n | dážď, daždivé obdobie, rok | [25](/sk/lektionen/lektion25#_25-5-slovnk) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : chcieť, nariadiť, túžiť po | [52](/sk/lektionen/lektion52#_52-7-zoznam-slov) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: chcieť, nariadiť, túžiť po | [52](/sk/lektionen/lektion52#_52-7-zoznam-slov) |
 | ⟪वसन्त⟫ | वसन्त | m | ("žiariaci" =) jar (marec až máj) | [27](/sk/lektionen/lektion27#_27-5-slovnk) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/sk/lektionen/lektion27#_27-5-slovnk) |
 | ⟪वसु⟫ | वसु | n | bohatstvo, poklad, majetok, vlastníctvo | [27](/sk/lektionen/lektion27#_27-5-slovnk) |
@@ -895,7 +895,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | dieťa, mláďa | [49](/sk/lektionen/lektion49#_49-4-zoznam-slov) |
 | ⟪शिष्⟫ | शिष् | 7P | opustiť, nechať na pokoji | [51](/sk/lektionen/lektion51#_51-6-zoznam-slov) |
 | ⟪शिष्य⟫ | शिष्य | 3 | ten, kto má byť poučený = žiak | [41](/sk/lektionen/lektion41#_41-3-zoznam-slov) |
-| ⟪शी⟫ | शी | 2Ā | ležať. Tento koreň má vo všetkých tvaroch prítomného kmeňa Vysoká stupeň: 1.sg.Ind.Präs.Ā :sig[] (śe + e). Nasledujúce t | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
+| ⟪शी⟫ | शी | 2Ā | ležať. Tento koreň má vo všetkých tvaroch prítomného kmeňa Vysoká stupeň: 1.sg.Ind.Präs.Ā (śe + e). Nasledujúce t | [44](/sk/lektionen/lektion44#_44-5-slovn-zsoba) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | rýchly, čulý | [43](/sk/lektionen/lektion43#_43-4-slovnk) |
 | ⟪शील⟫ | शील | n | zvyk, návyk, povaha, charakter, dobrý zvyk = morálka | [52](/sk/lektionen/lektion52#_52-7-zoznam-slov) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | papagáj | [8](/sk/lektionen/lektion08#_8-5-slovnk) |
@@ -915,7 +915,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : namáhat se, unavovat se | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
+| ⟪श्रम्⟫ | श्रम् | 4P | namáhat se, unavovat se | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/sk/lektionen/lektion32#_32-5-zoznam-slov) |
@@ -941,11 +941,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | připojení, dotek () | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (k - : spolu-biť): zbor, dav, obec (napr. buddhistická) | [41](/sk/lektionen/lektion41#_41-3-zoznam-slov) |
 | ⟪सज्ज्⟫ | सज्ज् | — | visieť, priľnúť | [48](/sk/lektionen/lektion48#_48-4-slovnk) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : připojit, připnout se k () | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | připojit, připnout se k () | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | pravda | [10](/sk/lektionen/lektion10#_10-5-slovnk) |
 | ⟪सत्वर⟫ | सत्वर | 3 | rýchlo, ponáhľane | [43](/sk/lektionen/lektion43#_43-4-slovnk) |
 | ⟪सद्⟫ | सद् | — | sedieť, usadiť sa | [20](/sk/lektionen/lektion20#_20-9-zoznam-slov) |
-| ⟪सद्⟫ | सद् | — | sig[] : sadnúť si | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
+| ⟪सद्⟫ | सद् | — | sadnúť si | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  večný, nepominuteľný, stály | [30](/sk/lektionen/lektion30#_30-6-slovnk) |
 | ⟪सम⟫ | सम | 3 | rovnaký, rovný, podobný (s inštrumentálom) | [18](/sk/lektionen/lektion18#_18-4-zoznam-slov) |
 | ⟪सम⟫ | सम | 3 | rovný, presne, podobný | [46](/sk/lektionen/lektion46#_46-2-slovnk) |
@@ -1023,7 +1023,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | ruka | [18](/sk/lektionen/lektion18#_18-4-zoznam-slov) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | slon (_Elephas maximus_) | [38](/sk/lektionen/lektion38#_38-9-zoznam-slov) |
 | ⟪हा⟫ | हा | 3P | opustiť | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | zlatý ; n.: zlato, peniaze, bohatstvo | [25](/sk/lektionen/lektion25#_25-5-slovnk) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | opustený, postrádajúci, nedostatočný | [33](/sk/lektionen/lektion33#_33-6-slovnk) |
 | ⟪हीनयान⟫ | हीनयान | n | nedostatočné vozidlo (buddhizmu): pohŕdavé označenie zo strany predstaviteľov "veľkého vozidla", ; nedostatočná cesta (  | [33](/sk/lektionen/lektion33#_33-6-slovnk) |

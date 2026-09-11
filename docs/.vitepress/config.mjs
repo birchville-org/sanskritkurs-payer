@@ -248,6 +248,23 @@ export default defineConfig({
         multiscript: true,
         colspans: true
       });
+
+      // Normalize any signal-red directive without leading colon: sig[...] -> :sig[...]
+      md.core.ruler.before('linkify', 'sig_normalize', (state) => {
+        state.tokens.forEach(token => {
+          if (token.type === 'inline' && token.content && token.content.includes('sig[')) {
+            token.content = token.content.replace(/(?<!:)sig\[/g, ':sig[');
+            if (token.children) {
+              token.children.forEach(c => {
+                if (c.type === 'text' && c.content && c.content.includes('sig[')) {
+                  c.content = c.content.replace(/(?<!:)sig\[/g, ':sig[');
+                }
+              });
+            }
+          }
+        });
+      });
+
       md.use(extensiblePlugin);
     }
   },

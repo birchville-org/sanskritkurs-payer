@@ -101,7 +101,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | prince, premier, meilleur parmi ; roi des dieux Indra | [15](/fr/lektionen/lektion15#_15-8-liste-de-mots) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | force, organe sensoriel | [24](/fr/lektionen/lektion24#_24-4-liste-de-mots) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | souhaiter | [11](/fr/lektionen/lektion11#_11-2-liste-de-mots) |
-| ⟪इष्⟫ | इष् | — | sig[] : envoyer | [42](/fr/lektionen/lektion42#_42-2-liste-de-mots) |
+| ⟪इष्⟫ | इष् | — | envoyer | [42](/fr/lektionen/lektion42#_42-2-liste-de-mots) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | souhaiter (iṣ-ccha-ti) | [11](/fr/lektionen/lektion11#_11-2-liste-de-mots) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | souhait (iṣ + -ti) | [11](/fr/lektionen/lektion11#_11-2-liste-de-mots) |
 | ⟪इह⟫ | इह | Adv | ici, ici-bas, ici ; maintenant. Devant les substantifs au locatif () synonyme de  | [50](/fr/lektionen/lektion50#_50-2-liste-de-mots) |
@@ -195,8 +195,8 @@ outline: 2
 | ⟪केवलम्⟫ | केवलम् | Adv | seulement, seul(e), entièrement | [41](/fr/lektionen/lektion41#_41-3-liste-de-vocabulaire) |
 | ⟪कोविद⟫ | कोविद | 3 | expert en () | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
 | ⟪कौमर⟫ | कौमर | n | enfance | [48](/fr/lektionen/lektion48#_48-4-liste-de-mots) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : avancer, aller | [35](/fr/lektionen/lektion35#_35-4-liste-de-mots) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/fr/lektionen/lektion35#_35-4-liste-de-mots) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P avancer, aller | [35](/fr/lektionen/lektion35#_35-4-liste-de-mots) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/fr/lektionen/lektion35#_35-4-liste-de-mots) |
 | ⟪क्रिया⟫ | क्रिया | f | action, action sacrée, action sacrificielle, cérémonie (à 8) | [20](/fr/lektionen/lektion20#_20-9-liste-de-mots) |
 | ⟪क्री⟫ | क्री | 9U | acheter | [30](/fr/lektionen/lektion30#_30-6-liste-de-mots) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | se fâcher | [7](/fr/lektionen/lektion07#_7-6-liste-de-vocabulaire) |
@@ -239,7 +239,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | consommer, dévorer | [29](/fr/lektionen/lektion29#_29-2-liste-de-mots) |
 | ⟪ग्रह⟫ | ग्रह | m | action de saisir, saisisseur, crocodile, planète errante | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪ग्रहण⟫ | ग्रहण | n | saisie | [24](/fr/lektionen/lektion24#_24-4-liste-de-mots) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : saisir, prendre, attraper | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : saisir, prendre, attraper | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | village | [10](/fr/lektionen/lektion10#_10-5-liste-de-mots) |
 
 ## घ
@@ -368,11 +368,11 @@ outline: 2
 | ⟪धर्म⟫ | धर्म | — | m. : ce qui est fixe et retient fermement = Dharma | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | traités sur le droit et les mœurs (comportement juste) | [3](/fr/lektionen/lektion03#_3-6-liste-de-mots) |
 | ⟪धा⟫ | धा | — | concentrer toute son attention sur quelque chose, se recueillir | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
 | ⟪धान्य⟫ | धान्य | n | grain battu | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
-| ⟪धापयति⟫ | Caus. | — | sig[] | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
+| ⟪धापयति⟫ | Caus. | — | | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
 | ⟪धीर⟫ | धीर | 3 | ferme, constant, continu, persévérant | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
 | ⟪धृ⟫ | धृ | 1U | tenir, retenir | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | vache (à lait) | [3](/fr/lektionen/lektion03#_3-6-liste-de-mots) |
@@ -535,7 +535,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | subordonné, serviteur | [28](/fr/lektionen/lektion28#_28-10-liste-de-mots) |
 | ⟪भोस्⟫ | भोस् | — | exclamation d'appel, par ex. : hé, hola, oh, ei, bonjour, salut ! souvent intraduisible. Cette particule a un sandhi spé | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪भ्रंश⟫ | भ्रंश | m | le fait de tomber, la chute | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : errer, vagabonder | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | errer, vagabonder | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Frère | [42](/fr/lektionen/lektion42#_42-2-liste-de-mots) |
 
 ## म
@@ -596,7 +596,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | si | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪यद्यपि⟫ | यद्यपि | — | même si, bien que | [30](/fr/lektionen/lektion30#_30-6-liste-de-mots) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | si c'est le cas, dans ces circonstances | [30](/fr/lektionen/lektion30#_30-6-liste-de-mots) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, vaincre | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
+| ⟪यम्⟫ | यम् | 1P | tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, vaincre | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
 | ⟪या⟫ | या | 2P | aller, voyager | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
 | ⟪यातृ⟫ | यातृ | m | belle-sœur (épouse du frère du mari) | [42](/fr/lektionen/lektion42#_42-2-liste-de-mots) |
 | ⟪यान⟫ | यान | n | aller, chemin, véhicule | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
@@ -638,7 +638,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | enduire, frotter | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪लिप्ति⟫ | लिप्ति | — | f. enduire, écrire, écriture | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪लीला⟫ | लीला | f | jeu, divertissement | [42](/fr/lektionen/lektion42#_42-2-liste-de-mots) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : briser, détruire | [50](/fr/lektionen/lektion50#_50-2-liste-de-mots) |
+| ⟪लुप्⟫ | लुप् | 6U | briser, détruire | [50](/fr/lektionen/lektion50#_50-2-liste-de-mots) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Avidité, cupidité | [5](/fr/lektionen/lektion05#_5-4-liste-de-mots) |
 | ⟪लौल्य⟫ | लौल्य | n | avidité, luxure | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
 
@@ -661,7 +661,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Couleur, caste de naissance (tendance) | [2](/fr/lektionen/lektion02#_2-5-liste-de-mots) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Couleur, genre, caste | [5](/fr/lektionen/lektion05#_5-4-liste-de-mots) |
 | ⟪वर्ष⟫ | वर्ष | n | pluie, saison des pluies, année | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Impér. 2.sg. : :sig[] : vouloir, ordonner, désirer ardemment | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
+| ⟪वश्⟫ | वश् | 2P | , Impér. 2.sg. : vouloir, ordonner, désirer ardemment | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
 | ⟪वसन्त⟫ | वसन्त | m | ("brillant" =) printemps (mars à mai) | [27](/fr/lektionen/lektion27#_27-5-liste-de-mots) |
 | ⟪वसिष्यते⟫ | Futur. : | — | br PPP : :br Inf.  | [27](/fr/lektionen/lektion27#_27-5-liste-de-mots) |
 | ⟪वसु⟫ | वसु | n | richesse, trésor, avoir, possession | [27](/fr/lektionen/lektion27#_27-5-liste-de-mots) |
@@ -746,7 +746,7 @@ outline: 2
 | ⟪शिक्षा⟫ | शिक्षा | f | science, enseignement ; phonétique | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪शिशु⟫ | शिशु | m | Enfant, jeune | [49](/fr/lektionen/lektion49#_49-4-liste-de-mots) |
 | ⟪शिष्य⟫ | शिष्य | 3 | celui qui doit être instruit = élève | [41](/fr/lektionen/lektion41#_41-3-liste-de-vocabulaire) |
-| ⟪शी⟫ | शी | 2Ā | être couché. Cette racine présente dans toutes les formes du thème présent degré fort : 1.sg.Ind.Prés.Ā :sig[] (śe + e). | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
+| ⟪शी⟫ | शी | 2Ā | être couché. Cette racine présente dans toutes les formes du thème présent degré fort : 1.sg.Ind.Prés.Ā (śe + e). | [44](/fr/lektionen/lektion44#_44-5-liste-de-mots) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | rapide, prompt | [43](/fr/lektionen/lektion43#_43-4-liste-de-mots) |
 | ⟪शील⟫ | शील | n | usage, habitude, nature, caractère, bonne habitude = morale | [52](/fr/lektionen/lektion52#_52-7-liste-de-mots) |
 | ⟪शुचि⟫ | शुचि | 3 | éclatant, brillant, fin ; m. pureté | [29](/fr/lektionen/lektion29#_29-2-liste-de-mots) |
@@ -759,7 +759,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | Chagrin, tristesse | [38](/fr/lektionen/lektion38#_38-9-liste-de-mots) |
 | ⟪शोभन⟫ | शोभन | 3 | éclatant, magnifique, splendide, beau, bon | [18](/fr/lektionen/lektion18#_18-4-liste-de-mots) |
 | ⟪शौच⟫ | शौच | n | Purification, pureté | [16](/fr/lektionen/lektion16#_16-2-liste-de-mots) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : se fatiguer, devenir épuisé | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
+| ⟪श्रम्⟫ | श्रम् | 4P | se fatiguer, devenir épuisé | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪श्रि⟫ | श्रि | 1U | s'appuyer, se reposer contre, trouver un appui, se rendre auprès de quelqu'un (, ) | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | entendre (quelque chose : accusatif, quelqu'un : génitif ou accusatif ; au sujet de : accusatif ; de quelqu'un : génitif | [7](/fr/lektionen/lektion07#_7-6-liste-de-vocabulaire) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | l'écoute, la tradition éternelle (désignation des Védas et des Brāhmaṇa) | [3](/fr/lektionen/lektion03#_3-6-liste-de-mots) |
@@ -781,11 +781,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | l'accrochage, le contact avec () | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (à - : frapper ensemble) : groupe, foule, communauté (par ex. bouddhique) | [41](/fr/lektionen/lektion41#_41-3-liste-de-vocabulaire) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | suspendre, adhérer | [48](/fr/lektionen/lektion48#_48-4-liste-de-mots) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : s'accrocher, se fixer à () | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | s'accrocher, se fixer à () | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | vérité | [10](/fr/lektionen/lektion10#_10-5-liste-de-mots) |
 | ⟪सत्वर⟫ | सत्वर | 3 | rapidement, hâtivement | [43](/fr/lektionen/lektion43#_43-4-liste-de-mots) |
 | ⟪सद्⟫ | सद् | — | s'asseoir, s'établir | [20](/fr/lektionen/lektion20#_20-9-liste-de-mots) |
-| ⟪सद्⟫ | सद् | — | sig[] : s'asseoir | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
+| ⟪सद्⟫ | सद् | — | s'asseoir | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
 | ⟪सनातन⟫ | सनातन | — |  éternel, impérissable, durable | [30](/fr/lektionen/lektion30#_30-6-liste-de-mots) |
 | ⟪सम⟫ | सम | 3 | égal, identique, semblable (avec le instrumental) | [18](/fr/lektionen/lektion18#_18-4-liste-de-mots) |
 | ⟪सम⟫ | सम | 3 | égal, juste, semblable | [46](/fr/lektionen/lektion46#_46-2-liste-de-mots) |
@@ -854,7 +854,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | main | [18](/fr/lektionen/lektion18#_18-4-liste-de-mots) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Éléphant (_Elephas maximus_) | [38](/fr/lektionen/lektion38#_38-9-liste-de-mots) |
 | ⟪हा⟫ | हा | 3P | quitter | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
 | ⟪हिरण्य⟫ | हिरण्य | — | doré ; n. : or, argent, richesse | [25](/fr/lektionen/lektion25#_25-5-liste-de-mots) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | abandonné, dépourvu, déficient | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |
 | ⟪हीनयान⟫ | हीनयान | n | le véhicule déficient (du bouddhisme) : terme méprisant utilisé par les représentants du « grand véhicule », le ; la voi | [33](/fr/lektionen/lektion33#_33-6-liste-de-mots) |

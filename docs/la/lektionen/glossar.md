@@ -116,7 +116,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | Princeps, Primus, Optimus inter ; Rex deorum Indra | [15](/la/lektionen/lektion15#_15-8-vocabularium) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | strength, sense organ | [24](/la/lektionen/lektion24#_24-4-glossarium) |
 | ⟪इव⟫ | इव | — | quasi, ut (in comparationibus: = "vir ut tigris", "vir tigrinus" | [15](/la/lektionen/lektion15#_15-8-vocabularium) |
-| ⟪इष्⟫ | इष् | — | sig[] : mittere | [42](/la/lektionen/lektion42#_42-2-lexicon) |
+| ⟪इष्⟫ | इष् | — | mittere | [42](/la/lektionen/lektion42#_42-2-lexicon) |
 | ⟪इह⟫ | इह | — | hic, hic in terra, huc; nunc. Ante substantiva in locativo () idem ac  | [50](/la/lektionen/lektion50#_50-2-glossarium) |
 
 ## ई
@@ -218,8 +218,8 @@ outline: 2
 | ⟪कोविद⟫ | कोविद | 3 | peritus in ( ) | [52](/la/lektionen/lektion52#_52-7-lexicon) |
 | ⟪कौमर⟫ | कौमर | n | pueritia | [48](/la/lektionen/lektion48#_48-4-word-list) |
 | ⟪कौशिक⟫ | कौशिक | m | ulula | [51](/la/lektionen/lektion51#_51-6-glossarium) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : gradiuntur, ambulant | [35](/la/lektionen/lektion35#_35-4-vocabularium) |
-| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/la/lektionen/lektion35#_35-4-vocabularium) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P gradiuntur, ambulant | [35](/la/lektionen/lektion35#_35-4-vocabularium) |
+| ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | | [35](/la/lektionen/lektion35#_35-4-vocabularium) |
 | ⟪क्रिया⟫ | क्रिया | f | actio, actio sacra, sacrificium, caerimonia (ad 8) | [20](/la/lektionen/lektion20#_20-9-vocabularium) |
 | ⟪क्री⟫ | क्री | 9U | emere | [30](/la/lektionen/lektion30#_30-6-glossarium) |
 | ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | irasci | [7](/la/lektionen/lektion07#_7-6-glossarium-verborum) |
@@ -263,7 +263,7 @@ outline: 2
 | ⟪ग्रस्⟫ | ग्रस् | 1Ā | edere, devorare | [29](/la/lektionen/lektion29#_29-2-vocabularium) |
 | ⟪ग्रह⟫ | ग्रह | m | arripere, araptor, crocodilus, stella errans | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪ग्रहण⟫ | ग्रहण | n | grasping | [24](/la/lektionen/lektion24#_24-4-glossarium) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : arripere, prehendere, capere | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : arripere, prehendere, capere | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | vicus | [10](/la/lektionen/lektion10#_10-5-glossarium) |
 | ⟪ग्लै⟫ | ग्लै | — | aversationem sentire, evanescere | [36](/la/lektionen/lektion36#_36-4-glossarium) |
 
@@ -273,7 +273,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪घात⟫ | घात | m | Morsio | [17](/la/lektionen/lektion17#_17-6-vocabularium) |
 | ⟪घृत⟫ | घृत | n | Butyrum clarificatum, ghee ( / گھی / ঘী) | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : odorem capere | [36](/la/lektionen/lektion36#_36-4-glossarium) |
+| ⟪घ्रा⟫ | घ्रा | 1P | odorem capere | [36](/la/lektionen/lektion36#_36-4-glossarium) |
 
 ## च
 
@@ -395,12 +395,12 @@ outline: 2
 | Sanscritum | IAST | Genus | Latinum | Lectio |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | धर्म | m | quod firmum est et firmiter tenet = Dharma | [25](/la/lektionen/lektion25#_25-5-word-list) |
-| ⟪धा⟫ | धा | 3U | sig[]: ponere, constituere, dividere | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪धा⟫ | धा | 3U | ponere, constituere, dividere | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
 | ⟪धान्य⟫ | धान्य | n | frumentum contusum | [25](/la/lektionen/lektion25#_25-5-word-list) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
 | ⟪धीर⟫ | धीर | 3 | firmus, constans, continuus, pertinax | [52](/la/lektionen/lektion52#_52-7-lexicon) |
 | ⟪धृ⟫ | धृ | 1U | tenere, firmiter tenēre | [25](/la/lektionen/lektion25#_25-5-word-list) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (vacca) lacuum | [3](/la/lektionen/lektion03#_3-6-vocabularium) |
@@ -570,7 +570,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | Subordinatus, servus | [28](/la/lektionen/lektion28#_28-10-vocabularium) |
 | ⟪भोस्⟫ | भोस् | — | exclamatio adhortationis, e.g.: heu, heda, o, ei, salve, hi! saepe non traducendum. Haec particula habet Sandhi speciale | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪भ्रंश⟫ | भ्रंश | m | decessus | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : errare, vagari | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | errare, vagari | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | frater | [42](/la/lektionen/lektion42#_42-2-lexicon) |
 
 ## म
@@ -640,7 +640,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | si | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪यद्यपि⟫ | यद्यपि | — | quamvis, etiam si, quamquam | [30](/la/lektionen/lektion30#_30-6-glossarium) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | si ita est, his de causis | [30](/la/lektionen/lektion30#_30-6-glossarium) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : tenere, portare ; praebere, concedere ; continere, frenare, domare | [44](/la/lektionen/lektion44#_44-5-lexicon) |
+| ⟪यम्⟫ | यम् | 1P | tenere, portare ; praebere, concedere ; continere, frenare, domare | [44](/la/lektionen/lektion44#_44-5-lexicon) |
 | ⟪या⟫ | या | 2P | ire, vehi | [44](/la/lektionen/lektion44#_44-5-lexicon) |
 | ⟪यातृ⟫ | यातृ | m | Uxor fratris mariti | [42](/la/lektionen/lektion42#_42-2-lexicon) |
 | ⟪यावत्⟫ | यावत् | Adv | diu, per tempus | [42](/la/lektionen/lektion42#_42-2-lexicon) |
@@ -662,7 +662,7 @@ outline: 2
 | ⟪रहस्⟫ | रहस् | n | arcanum, solitudo | [50](/la/lektionen/lektion50#_50-2-glossarium) |
 | ⟪राग⟫ | [rāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rāga&filter=roman&accent=no&transLit=roman) | m | Color (ruber), cupiditas, amor | [5](/la/lektionen/lektion05#_5-4-glossarium) |
 | ⟪राग⟫ | राग | m | etiam: color, ruber color | [51](/la/lektionen/lektion51#_51-6-glossarium) |
-| ⟪राजन्⟫ | राजन् | m | rex (de regno in India vide Basham, Mirabilia pp. 82-94). Ut membrum finale compositi (praesertim ) saepe: -:sig[] m. (s | [38](/la/lektionen/lektion38#_38-9-glossarium) |
+| ⟪राजन्⟫ | राजन् | m | rex (de regno in India vide Basham, Mirabilia pp. 82-94). Ut membrum finale compositi (praesertim ) saepe: -m. (s | [38](/la/lektionen/lektion38#_38-9-glossarium) |
 | ⟪राज्ञी⟫ | राज्ञी | f | regina, uxor regis | [38](/la/lektionen/lektion38#_38-9-glossarium) |
 | ⟪राज्य⟫ | राज्य | 3 | regium; n. regnum, regnatum, imperium | [38](/la/lektionen/lektion38#_38-9-glossarium) |
 | ⟪रिष्⟫ | रिष् | 1P | laedi, frustrari, deteriorari | [50](/la/lektionen/lektion50#_50-2-glossarium) |
@@ -686,7 +686,7 @@ outline: 2
 | ⟪लिप्⟫ | लिप् | 6U | unguere, linire | [25](/la/lektionen/lektion25#_25-5-word-list) |
 | ⟪लिप्ति⟫ | लिप्ति | f | unctio, scriptura, littera | [25](/la/lektionen/lektion25#_25-5-word-list) |
 | ⟪लीला⟫ | लीला | f | iocus, lusio | [42](/la/lektionen/lektion42#_42-2-lexicon) |
-| ⟪लुप्⟫ | लुप् | 6U | sig[] : frangere, destruere | [50](/la/lektionen/lektion50#_50-2-glossarium) |
+| ⟪लुप्⟫ | लुप् | 6U | frangere, destruere | [50](/la/lektionen/lektion50#_50-2-glossarium) |
 | ⟪लोभ⟫ | [lobha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lobha&filter=roman&accent=no&transLit=roman) | m | Avaritia, cupiditas | [5](/la/lektionen/lektion05#_5-4-glossarium) |
 | ⟪लौल्य⟫ | लौल्य | n | cupiditas, libidinis | [52](/la/lektionen/lektion52#_52-7-lexicon) |
 
@@ -710,7 +710,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | color, birth-status (aspiration) | [2](/la/lektionen/lektion02#_2-5-vocabularium) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Color, genus, ordo socialis | [5](/la/lektionen/lektion05#_5-4-glossarium) |
 | ⟪वर्ष⟫ | वर्ष | n | pluvia, tempus pluviosum, annus | [25](/la/lektionen/lektion25#_25-5-word-list) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imper. 2.sg.: :sig[] : velle, iubere, desiderare | [52](/la/lektionen/lektion52#_52-7-lexicon) |
+| ⟪वश्⟫ | वश् | 2P | , Imper. 2.sg.: velle, iubere, desiderare | [52](/la/lektionen/lektion52#_52-7-lexicon) |
 | ⟪वसन्त⟫ | वसन्त | m | ("splendens" =) ver (Martius ad Maium) | [27](/la/lektionen/lektion27#_27-5-lexicon-verborum) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/la/lektionen/lektion27#_27-5-lexicon-verborum) |
 | ⟪वसु⟫ | वसु | n | divitiae, thesaurus, facultates, possessio | [27](/la/lektionen/lektion27#_27-5-lexicon-verborum) |
@@ -814,7 +814,7 @@ outline: 2
 | ⟪शोक⟫ | शोक | m | Luctus, Dolor | [38](/la/lektionen/lektion38#_38-9-glossarium) |
 | ⟪शोभन⟫ | शोभन | 3 | nitens, pulcher, magnificus, formosus, bonus | [18](/la/lektionen/lektion18#_18-4-vocabularium) |
 | ⟪शौच⟫ | शौच | n | purgatio, puritas | [16](/la/lektionen/lektion16#_16-2-vocabularium) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : laborare, fatisci | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
+| ⟪श्रम्⟫ | श्रम् | 4P | laborare, fatisci | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪श्रि⟫ | श्रि | 1U | inniti, se adniteri, firmum stare, ad aliquem accedere (, ) | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | audire (aliquid: Accusativum, aliquem: Genetivus vel Accusativum; de: Accusativum; ab aliquo: Genetivus, Ablativus, Inst | [7](/la/lektionen/lektion07#_7-6-glossarium-verborum) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | auditus, aeterna traditio (nomen pro Vedīs et Brāhmaṇīs) | [3](/la/lektionen/lektion03#_3-6-vocabularium) |
@@ -836,11 +836,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | adhaesio, contactus () | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (ad - : simul-percutiens): turba, coetus, communitas (e.g. Buddhistica) | [41](/la/lektionen/lektion41#_41-3-glossarium) |
 | ⟪सज्ज्⟫ | सज्ज् | 1P | pendere, adhaerere | [48](/la/lektionen/lektion48#_48-4-word-list) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : adhaerere, se adfigere () | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | adhaerere, se adfigere () | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | veritas | [10](/la/lektionen/lektion10#_10-5-glossarium) |
 | ⟪सत्वर⟫ | सत्वर | 3 | celer, festinus | [43](/la/lektionen/lektion43#_43-4-lexicon) |
 | ⟪सद्⟫ | सद् | — | sedere, poni (sensu figurato) = placidus, tranquillus, serenus fieri ; alicui (Genitivus ) gratiam ferre | [20](/la/lektionen/lektion20#_20-9-vocabularium) |
-| ⟪सद्⟫ | सद् | — | sig[] : sedere deorsum | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
+| ⟪सद्⟫ | सद् | — | sedere deorsum | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
 | ⟪सनातन⟫ | सनातन | — |  aeternus, incorruptus, constans | [30](/la/lektionen/lektion30#_30-6-glossarium) |
 | ⟪सम⟫ | सम | 3 | aequalis, similis (cum Instrumentali) | [18](/la/lektionen/lektion18#_18-4-vocabularium) |
 | ⟪सम⟫ | सम | 3 | aequalis, idem, similis | [46](/la/lektionen/lektion46#_46-2-vocabularium) |
@@ -915,7 +915,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | manus | [18](/la/lektionen/lektion18#_18-4-vocabularium) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | elephas (_Elephas maximus_) | [38](/la/lektionen/lektion38#_38-9-glossarium) |
 | ⟪हा⟫ | हा | 3P | derelinquit | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | aureus ; n.: aurum, pecunia, divitiae | [25](/la/lektionen/lektion25#_25-5-word-list) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | relictus, egens, defectivus | [33](/la/lektionen/lektion33#_33-6-vocabularium) |
 | ⟪हीनयान⟫ | हीनयान | n | vehiculum imperfectum (Buddhismi): contumeliosa appellatio a sectatoribus "vehiculi magni", scilicet ; via imperfecta (  | [33](/la/lektionen/lektion33#_33-6-vocabularium) |

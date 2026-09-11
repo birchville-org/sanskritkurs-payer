@@ -332,7 +332,7 @@ Beispiel:
 
 ::: indent
 
-sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
+:sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
 
 :::
 

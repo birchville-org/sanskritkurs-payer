@@ -5,7 +5,7 @@
 
 ## 1. Visuals & Layout
 - **Colors & Type**: `newsreader` (serif) for body, `inter` (sans) for UI. Primary `#03192e`, Background `#fcf9f2`.
-- **Sanskrit/Devanāgarī Rules**: NO italics (`*...*`). NO red for Latin text. Use signal red (`sig[...]`) and `⟪...⟫` ONLY for Devanāgarī. NO parentheses for Devanāgarī in tables. 
+- **Sanskrit/Devanāgarī Rules**: NO italics (`*...*`). NO red for Latin text. Use signal red (`:sig[...]`) and `⟪...⟫` ONLY for Devanāgarī. NO parentheses for Devanāgarī in tables. 
 - **Layout**: 12-column grid. Lesson numbers absolute (`60.1.`). Localized titles (`# Lesson X`). NO raw HTML (`scripts/purge_html.py`).
 - **Lists & Tables**: Sub-entries in `::: indent` without bullets. Multi-line table cells use `:br` on one line.
 - **Images & Metadata**: Wrap in `::: media`. 1-line caption. Metadata under `### Quellen` inside `::: deleteme-box`.

@@ -269,8 +269,8 @@ Fig.: ⟪समाधि⟫
 Nota:
 3de pl. P :sig[⟪पिपुरति⟫]  
 3de sg. impf. P :sig[⟪अपिपर्⟫] (van: \*apipart)  
-3de mv. imperatief: sig[⟪अपिपरुर्⟫]  
-3de enk. optatief: sig[⟪पिपूर्यात्⟫]
+3de mv. imperatief: :sig[⟪अपिपरुर्⟫]  
+3de enk. optatief: :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

@@ -242,7 +242,7 @@ Afb.: ⟪दानम्⟫
 Afb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Bron afbeelding: [Details](/nl/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaatsen, vaststellen, toewijzen
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaatsen, vaststellen, toewijzen
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  

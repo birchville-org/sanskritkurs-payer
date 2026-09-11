@@ -96,7 +96,7 @@ outline: 2
 | ⟪इन्द्र⟫ | इन्द्र | m | ሐላፊ፣ ቀዳማይ፣ ምርጥ በ ; የእጆች ንጉሥ ኢንድራ | [15](/am/lektionen/lektion15#_15-8--) |
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | ኃይል፣ የእግግ መሳሪያ | [24](/am/lektionen/lektion24#_24-4-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ማስቻል | [11](/am/lektionen/lektion11#_11-2-) |
-| ⟪इष्⟫ | इष् | — | sig[] : ማስተላለፍ | [42](/am/lektionen/lektion42#_42-2-) |
+| ⟪इष्⟫ | इष् | — | ማስተላለፍ | [42](/am/lektionen/lektion42#_42-2-) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | ማስቻል (iṣ-ccha-ti)። | [11](/am/lektionen/lektion11#_11-2-) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | — | ማስቻል (iṣ + -ti) | [11](/am/lektionen/lektion11#_11-2-) |
 | ⟪इह⟫ | इह | — | //en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (ወደ ) | [50](/am/lektionen/lektion50#_50-2-wortliste) |
@@ -193,7 +193,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/am/lektionen/lektion35#_35-4-) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/am/lektionen/lektion35#_35-4-) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/am/lektionen/lektion35#_35-4-) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : schreiten, gehen | [35](/am/lektionen/lektion35#_35-4-) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P schreiten, gehen | [35](/am/lektionen/lektion35#_35-4-) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/am/lektionen/lektion35#_35-4-) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/am/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | क्रिया | — | ሥራ፣ ቅዱስ ሥራ፣ የቅዳሴ ሥራ፣ ሥነ-ርዕስ (ወደ 8) | [20](/am/lektionen/lektion20#_20-9-) |
@@ -246,7 +246,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | መያዝ፣ መያዪ፣ ከሚክሮ፣ የሚንቀሳቀስ ኮከብ | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | ग्रहण | n | መያዝ | [24](/am/lektionen/lektion24#_24-4-) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/am/lektionen/lektion32#_32-5-) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : መያዝ፣ መያዝ፣ መያዝ | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : መያዝ፣ መያዝ፣ መያዝ | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | ወረዳ | [10](/am/lektionen/lektion10#_10-5-) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/am/lektionen/lektion32#_32-5-) |
 | ⟪ग्लै⟫ | ग्लै | 1P | ማስደንጋጥ፣ መቀነስ | [36](/am/lektionen/lektion36#_36-4-) |
@@ -255,7 +255,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪घ्रा⟫ | घ्रा | 1P | sig[] : ማሰስ | [36](/am/lektionen/lektion36#_36-4-) |
+| ⟪घ्रा⟫ | घ्रा | 1P | ማሰስ | [36](/am/lektionen/lektion36#_36-4-) |
 
 ## च
 
@@ -362,11 +362,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | — | ("የሚያስቀር" ማለት) ሕግ፣ ስርዓት፣ ባህል፣ ባህሪ። | [11](/am/lektionen/lektion11#_11-2-) |
 | ⟪धर्म⟫ | धर्म | m | ጠንካራ የሆነ እና ጠንክሮ የሚይዝ = ዳርማ | [25](/am/lektionen/lektion25#_25-5-) |
 | ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | Lehrwerke zu Recht und Sitte (rechtes Verhalten) | [3](/am/lektionen/lektion03#_3-6-wortliste) |
-| ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/am/lektionen/lektion33#_33-6-) |
+| ⟪धातुम्⟫ | Inf. | — | | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | धान्य | n | የተጠቀሰ ዕቃ | [25](/am/lektionen/lektion25#_25-5-) |
-| ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/am/lektionen/lektion33#_33-6-) |
-| ⟪धास्यति⟫ | Fut. | — | sig[] | [33](/am/lektionen/lektion33#_33-6-) |
-| ⟪धीयते⟫ | Pass. | — | sig[] | [33](/am/lektionen/lektion33#_33-6-) |
+| ⟪धापयति⟫ | Kaus. | — | | [33](/am/lektionen/lektion33#_33-6-) |
+| ⟪धास्यति⟫ | Fut. | — | | [33](/am/lektionen/lektion33#_33-6-) |
+| ⟪धीयते⟫ | Pass. | — | | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪धृ⟫ | धृ | 1U | መያዝ፣ ጠንክሮ መያዝ | [25](/am/lektionen/lektion25#_25-5-) |
 | ⟪ध्यै⟫ | ध्यै | 1P | ራሱን ማሰብ፣ ማሰብ | [49](/am/lektionen/lektion49#_49-4-) |
 | ⟪ध्रुव⟫ | ध्रुव | 3 | fest, unveränderlich | [50](/am/lektionen/lektion50#_50-2-wortliste) |
@@ -510,9 +510,9 @@ outline: 2
 | ⟪भू भवति⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | መሆን፣ መፈጠር፣ መኖር | [6](/am/lektionen/lektion06#_6-7-) |
 | ⟪भृ⟫ | भृ | 3U | ለማንሳት፣ ለማመሳከር; ለማስተዳደር፣ ለማመገብ | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪भृत्य⟫ | भृत्य | m | ተገዢ፣ አገልጋይ | [28](/am/lektionen/lektion28#_28-10-) |
-| ⟪भोस्⟫ | भोस् | — | የመጥሪያ ስምዕት፣ ለምሳሌ: አይ፣ ይህ ሆነ፣ ኦ፣ አይ፣ ሰላምታ፣ ሃ! ብዙውን ጊዜ መተርጎም አይቻልም። ይህ ስምዕት ልዩ ሳንዲኪ አለው፡- ከሁሉም ተንቀሳቃሽ ድምጾች በፊት፣ እንደ :sig[] | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | भोस् | — | የመጥሪያ ስምዕት፣ ለምሳሌ: አይ፣ ይህ ሆነ፣ ኦ፣ አይ፣ ሰላምታ፣ ሃ! ብዙውን ጊዜ መተርጎም አይቻልም። ይህ ስምዕት ልዩ ሳንዲኪ አለው፡- ከሁሉም ተንቀሳቃሽ ድምጾች በፊት፣ እንደ | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪भ्रंश⟫ | भ्रंश | m | das Entfallen | [46](/am/lektionen/lektion46#_46-2-) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : መዘራገብ፣ መንኮርከር | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | መዘራገብ፣ መንኮርከር | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | भ्रातृ | — | ወንድም | [42](/am/lektionen/lektion42#_42-2-) |
 
 ## म
@@ -638,7 +638,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ቀለም፣ የልደት ደረጃ (ጥረት)። | [2](/am/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | — | ቀለም፣ ስርዓት፣ ስርዓት። | [5](/am/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | वर्ष | n | ዝናብ፣ የዝናብ ወቅት፣ ዓመት | [25](/am/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | वश् | 2P | sig[]፣ ትዕዛዝ 2.sg.፡- :sig[] ማለት፣ መዘዝ፣ ማስፈላጊያ | [52](/am/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | वश् | 2P | ፣ ትዕዛዝ 2.sg.፡- ማለት፣ መዘዝ፣ ማስፈላጊያ | [52](/am/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | वसन्त | m | ("በሚበራ" =) ወቅት (መጋቢት እስከ ሰኔ) | [27](/am/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/am/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | वसु | n | ብዝሃ ሀብት፣ ጎዶሎ፣ ንብረት | [27](/am/lektionen/lektion27#_27-5-) |
@@ -710,7 +710,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/am/lektionen/lektion32#_32-5-) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/am/lektionen/lektion32#_32-5-) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/am/lektionen/lektion32#_32-5-) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : sich abmühen, müde werden | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪श्रम्⟫ | श्रम् | 4P | sich abmühen, müde werden | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/am/lektionen/lektion32#_32-5-) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/am/lektionen/lektion32#_32-5-) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/am/lektionen/lektion32#_32-5-) |
@@ -733,10 +733,10 @@ outline: 2
 | ⟪संयक्⟫ | संयक् | Adv | ትክክል፣ እውነተኛ፣ በሚገባ መንገድ ; ሙሉ በሙሉ | [50](/am/lektionen/lektion50#_50-2-wortliste) |
 | ⟪सकाश⟫ | सकाश | m | ልኬት፣ ልኬት | [42](/am/lektionen/lektion42#_42-2-) |
 | ⟪सङ्ग⟫ | सङ्ग | m | das Anhängen an, Berührung mit () | [46](/am/lektionen/lektion46#_46-2-) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : anhängen, sich heften an () | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | anhängen, sich heften an () | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | እውነት | [10](/am/lektionen/lektion10#_10-5-) |
 | ⟪सद्⟫ | सद् | — | መቀመጥ፣ መቀመጥ | [20](/am/lektionen/lektion20#_20-9-) |
-| ⟪सद्⟫ | सद् | — | sig[] : መቀመጥ | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪सद्⟫ | सद् | — | መቀመጥ | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪सनातन ३⟫ | सनातन ३ | f |  ewig, unvergänglich, beständig | [30](/am/lektionen/lektion30#_30-6-) |
 | ⟪सम⟫ | सम | 3 | እኩል፣ ቀጥተኛ፣ ተመሳሳይ | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪समता⟫ | समता | f | ሚዛናዊነት | [46](/am/lektionen/lektion46#_46-2-) |
@@ -796,7 +796,7 @@ outline: 2
 | ⟪हर्ष⟫ | हर्ष | m | (የሰውነት ጅራት ማቆም)፣ ደስታ | [25](/am/lektionen/lektion25#_25-5-) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | Elephant (_Elephas maximus_) | [38](/am/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | हा | 3P | መተው | [33](/am/lektionen/lektion33#_33-6-) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/am/lektionen/lektion33#_33-6-) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | ብርቱካናማ ; n.: ብር፣ ገንዘብ፣ ንብረት | [25](/am/lektionen/lektion25#_25-5-) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | የተተወ፣ የተሳሳተ፣ የተሳሳተ | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | हीनयान | n | የተሳሳተ መንገድ (የቡድዲዝም): በ "ትልቅ መንገድ" ተወካዮች የተጠቀሰ ቃል፣ ; የተሳሳተ መንገድ ( ወደ 2: መሄድ፣ መጓዝ). ቃል አሁንም መጠቀም የለበትም. የቀድሞ ቡድዲዝም ዛሬ ያለው  | [33](/am/lektionen/lektion33#_33-6-) |

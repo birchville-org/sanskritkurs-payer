@@ -757,7 +757,7 @@ Dit wenst u uw Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 EINDE VAN DE SANSKRITCURSUS
 :::

@@ -127,7 +127,7 @@ outline: 2
 | ⟪इन्द्रिय⟫ | इन्द्रिय | n | sức mạnh, cơ quan giác quan | [24](/vi/lektionen/lektion24#_24-4-danh-sch-t-vng) |
 | ⟪इव⟫ | इव | — | gleichsam, wie (in Vergleichen: = "ein Mann wie ein Tiger", "ein tigergleicher Mann" | [15](/vi/lektionen/lektion15#_15-8-danh-sch-t-vng) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | mong muốn | [11](/vi/lektionen/lektion11#_11-2-danh-sch-t-vng) |
-| ⟪इष्⟫ | इष् | — | sig[] : gửi đi | [42](/vi/lektionen/lektion42#_42-2-danh-sch-t-vng) |
+| ⟪इष्⟫ | इष् | — | gửi đi | [42](/vi/lektionen/lektion42#_42-2-danh-sch-t-vng) |
 | ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | mong muốn (iṣ-ccha-ti) | [11](/vi/lektionen/lektion11#_11-2-danh-sch-t-vng) |
 | ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | Mong muốn (iṣ + -ti) | [11](/vi/lektionen/lektion11#_11-2-danh-sch-t-vng) |
 | ⟪इह⟫ | इह | Adv | ở đây, ở đây trên đời, đến đây ; bây giờ. Trước danh từ ở cách Locative () đồng nghĩa với , m: quy định, phong tục, nghi | [50](/vi/lektionen/lektion50#_50-2-t-vng) |
@@ -241,7 +241,7 @@ outline: 2
 | ⟪क्रमयति⟫ | क्रमयति | — | br | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
 | ⟪क्रमितुम्⟫ | क्रमितुम् | — | br | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
 | ⟪क्रमिष्यति⟫ | क्रमिष्यति | — | br | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
-| ⟪क्रम्⟫ | क्रम् | 1U | sig[], 4P :sig[] : bước đi, di chuyển | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
+| ⟪क्रम्⟫ | क्रम् | 1U | , 4P bước đi, di chuyển | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
 | ⟪क्रम्यते⟫ | क्रम्यते | — | br | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
 | ⟪क्रा⟫ | क्रा | — | br | [35](/vi/lektionen/lektion35#_35-4-t-vng) |
 | ⟪क्रिया⟫ | क्रिया | f | hành động, hành động thiêng liêng, nghi lễ tế thần, nghi thức (xem 8) | [20](/vi/lektionen/lektion20#_20-9-danh-sch-t-vng) |
@@ -301,7 +301,7 @@ outline: 2
 | ⟪ग्रह⟫ | ग्रह | m | Sự nắm lấy, kẻ bắt giữ, cá sấu, hành tinh | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪ग्रहण⟫ | ग्रहण | n | sự nắm bắt | [24](/vi/lektionen/lektion24#_24-4-danh-sch-t-vng) |
 | ⟪ग्रहीष्यति⟫ | ग्रहीष्यति | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
-| ⟪ग्रह्⟫ | ग्रह् | 9U | sig[] (gṛh-ṇā-ti) : nắm lấy, bắt giữ, tiếp nhận | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
+| ⟪ग्रह्⟫ | ग्रह् | 9U | (gṛh-ṇā-ti) : nắm lấy, bắt giữ, tiếp nhận | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | Làng | [10](/vi/lektionen/lektion10#_10-5-t-vng) |
 | ⟪ग्राहयति⟫ | ग्राहयति | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
 | ⟪ग्लै⟫ | ग्लै | — | cảm thấy miễn cưỡng, tan biến | [36](/vi/lektionen/lektion36#_36-4-t-vng) |
@@ -450,11 +450,11 @@ outline: 2
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("cái gì đó vững chắc", tức là) Công lý, Luật pháp, Phong tục, Bản chất | [11](/vi/lektionen/lektion11#_11-2-danh-sch-t-vng) |
 | ⟪धर्म⟫ | धर्म | m | das, was fest ist und fest hält = Dharma | [25](/vi/lektionen/lektion25#_25-5-t-vng) |
 | ⟪धा⟫ | धा | — | hướng toàn bộ sự chú ý vào một điều gì đó, tập trung | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
-| ⟪धातुम्⟫ | Là động từ. | — | sig[] | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
+| ⟪धातुम्⟫ | Là động từ. | — | | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
 | ⟪धान्य⟫ | धान्य | n | ngũ cốc đã giã | [25](/vi/lektionen/lektion25#_25-5-t-vng) |
-| ⟪धापयति⟫ | Nguyên nhân. | — | sig[] | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
-| ⟪धास्यति⟫ | Tương lai. | — | sig[] | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
-| ⟪धीयते⟫ | Bị động. | — | sig[] | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
+| ⟪धापयति⟫ | Nguyên nhân. | — | | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
+| ⟪धास्यति⟫ | Tương lai. | — | | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
+| ⟪धीयते⟫ | Bị động. | — | | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
 | ⟪धीर⟫ | धीर | 3 | vững chắc, kiên định, liên tục, bền bỉ | [52](/vi/lektionen/lektion52#_52-7-danh-sch-t-vng) |
 | ⟪धृ⟫ | धृ | 1U | giữ, nắm chặt | [25](/vi/lektionen/lektion25#_25-5-t-vng) |
 | ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | bò cái (bò sữa) | [3](/vi/lektionen/lektion03#_3-6-wortliste) |
@@ -639,7 +639,7 @@ outline: 2
 | ⟪भृत्य⟫ | भृत्य | m | người phục tùng, đầy tớ | [28](/vi/lektionen/lektion28#_28-10-t-vng) |
 | ⟪भोस्⟫ | भोस् | — | tiếng kêu gọi, chẳng hạn: hỡi, này, ôi, hỡi, xin chào, hi! thường không dịch được. Thán từ này có một quy tắc Sandhi đặc | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪भ्रंश⟫ | भ्रंश | m | sự rơi rụng | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
-| ⟪भ्रम्⟫ | भ्रम् | 1P | sig[] : làm chán, đi loanh quanh | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
+| ⟪भ्रम्⟫ | भ्रम् | 1P | làm chán, đi loanh quanh | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪भ्रातृ⟫ | भ्रातृ | m | Anh/em trai | [42](/vi/lektionen/lektion42#_42-2-danh-sch-t-vng) |
 
 ## म
@@ -711,7 +711,7 @@ outline: 2
 | ⟪यदि⟫ | यदि | — | wenn | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪यद्यपि⟫ | यद्यपि | — | dù cho, ngay cả khi, mặc dù | [30](/vi/lektionen/lektion30#_30-6-t-vng) |
 | ⟪यद्येवम्⟫ | यद्येवम् | — | nếu như vậy, trong trường hợp này | [30](/vi/lektionen/lektion30#_30-6-t-vng) |
-| ⟪यम्⟫ | यम् | 1P | sig[] : giữ, mang ; dâng, ban cho ; gắn kết, kiềm chế, nài ngựa, chinh phục | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
+| ⟪यम्⟫ | यम् | 1P | giữ, mang ; dâng, ban cho ; gắn kết, kiềm chế, nài ngựa, chinh phục | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
 | ⟪या⟫ | या | 2P | đi, lái xe | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
 | ⟪यातृ⟫ | यातृ | m | Vợ của anh/em trai chồng | [42](/vi/lektionen/lektion42#_42-2-danh-sch-t-vng) |
 | ⟪यान⟫ | यान | n | đi, đường, phương tiện | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
@@ -792,7 +792,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Màu sắc, đẳng cấp sinh thành (xu hướng) | [2](/vi/lektionen/lektion02#_2-5-t-vng) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Màu sắc, chủng loại, đẳng cấp | [5](/vi/lektionen/lektion05#_5-4-t-vng) |
 | ⟪वर्ष⟫ | वर्ष | n | mưa, mùa mưa, năm | [25](/vi/lektionen/lektion25#_25-5-t-vng) |
-| ⟪वश्⟫ | वश् | 2P | sig[], Imperat. 2.sg.: :sig[] : muốn, ra lệnh, khao khát | [52](/vi/lektionen/lektion52#_52-7-danh-sch-t-vng) |
+| ⟪वश्⟫ | वश् | 2P | , Imperat. 2.sg.: muốn, ra lệnh, khao khát | [52](/vi/lektionen/lektion52#_52-7-danh-sch-t-vng) |
 | ⟪वसन्त⟫ | वसन्त | m | ("tỏa sáng" =) mùa xuân (tháng 3 đến tháng 5) | [27](/vi/lektionen/lektion27#_27-5-t-vng) |
 | ⟪वसिष्यते⟫ | Tương lai: | — | br PPP: :br Vô hạn | [27](/vi/lektionen/lektion27#_27-5-t-vng) |
 | ⟪वसु⟫ | वसु | n | sự giàu có, kho báu, tài sản, của cải | [27](/vi/lektionen/lektion27#_27-5-t-vng) |
@@ -882,7 +882,7 @@ outline: 2
 | ⟪शिशु⟫ | शिशु | m | trẻ em, con non | [49](/vi/lektionen/lektion49#_49-4-danh-sch-t-vng) |
 | ⟪शिष्⟫ | शिष् | 7P | bỏ lại, để lại | [51](/vi/lektionen/lektion51#_51-6-danh-sch-t-vng) |
 | ⟪शिष्य⟫ | शिष्य | 3 | người được dạy = học sinh | [41](/vi/lektionen/lektion41#_41-3-danh-sch-t-vng) |
-| ⟪शी⟫ | शी | 2Ā | nằm. Gốc động từ này có Cấp độ cao: 1.sg.Ind.Präs.Ā :sig[] (śe + e) ở tất cả các dạng của gốc hiện tại. Các dạng sau đây | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
+| ⟪शी⟫ | शी | 2Ā | nằm. Gốc động từ này có Cấp độ cao: 1.sg.Ind.Präs.Ā (śe + e) ở tất cả các dạng của gốc hiện tại. Các dạng sau đây | [44](/vi/lektionen/lektion44#_44-5-t-vng) |
 | ⟪शीघ्र⟫ | शीघ्र | 3 | nhanh, mau lẹ | [43](/vi/lektionen/lektion43#_43-4-t-vng) |
 | ⟪शील⟫ | शील | n | phong tục, thói quen, bản tính, đặc điểm, thói tốt = đạo đức | [52](/vi/lektionen/lektion52#_52-7-danh-sch-t-vng) |
 | ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | vẹt | [8](/vi/lektionen/lektion08#_8-5-t-vng) |
@@ -902,7 +902,7 @@ outline: 2
 | ⟪श्रमयति⟫ | श्रमयति | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
 | ⟪श्रमित्वा । श्रान्त्वा⟫ | श्रमित्वा । श्रान्त्वा | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
 | ⟪श्रमिष्यते⟫ | श्रमिष्यते | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
-| ⟪श्रम्⟫ | श्रम् | 4P | sig[] : mệt nhọc, trở nên mệt mỏi | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
+| ⟪श्रम्⟫ | श्रम् | 4P | mệt nhọc, trở nên mệt mỏi | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪श्रम्य⟫ | श्रम्य | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
 | ⟪श्रम्यते⟫ | श्रम्यते | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
 | ⟪श्रान्त⟫ | श्रान्त | — | br | [32](/vi/lektionen/lektion32#_32-5-danh-sch-t-vng) |
@@ -926,11 +926,11 @@ outline: 2
 | ⟪सङ्ग⟫ | सङ्ग | m | sự đính kèm vào, tiếp xúc với () | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪सङ्घ⟫ | सङ्घ | n | (dùng với - : đánh cùng nhau): đám đông, nhóm, cộng đồng (ví dụ Phật giáo) | [41](/vi/lektionen/lektion41#_41-3-danh-sch-t-vng) |
 | ⟪सज्ज्⟫ | सज्ज् | — | treo, bám víu | [48](/vi/lektionen/lektion48#_48-4-danh-sch-t-vng) |
-| ⟪सञ्ज्⟫ | सञ्ज् | 1P | sig[] : đính kèm, bám vào () | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
+| ⟪सञ्ज्⟫ | सञ्ज् | 1P | đính kèm, bám vào () | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | Chân lý | [10](/vi/lektionen/lektion10#_10-5-t-vng) |
 | ⟪सत्वर⟫ | सत्वर | 3 | nhanh chóng, vội vã | [43](/vi/lektionen/lektion43#_43-4-t-vng) |
 | ⟪सद्⟫ | सद् | — | ngồi, hạ mình xuống | [20](/vi/lektionen/lektion20#_20-9-danh-sch-t-vng) |
-| ⟪सद्⟫ | सद् | — | sig[] : ngồi xuống | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
+| ⟪सद्⟫ | सद् | — | ngồi xuống | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
 | ⟪सनातन ३⟫ | सनातन ३ | — |  vĩnh cửu, bất diệt, bền vững | [30](/vi/lektionen/lektion30#_30-6-t-vng) |
 | ⟪सम⟫ | सम | 3 | bằng nhau, giống hệt, tương tự (với cách dụng cụ) | [18](/vi/lektionen/lektion18#_18-4-danh-sch-t-vng) |
 | ⟪सम⟫ | सम | 3 | bằng, đúng, tương tự | [46](/vi/lektionen/lektion46#_46-2-t-vng) |
@@ -1006,7 +1006,7 @@ outline: 2
 | ⟪हस्त⟫ | हस्त | m | tay | [18](/vi/lektionen/lektion18#_18-4-danh-sch-t-vng) |
 | ⟪हस्तिन्⟫ | हस्तिन् | m | voi (_Elephas maximus_) | [38](/vi/lektionen/lektion38#_38-9-danh-sch-t-vng) |
 | ⟪हा⟫ | हा | 3P | rời bỏ | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
-| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] (!!) | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
+| ⟪हित⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | (!!) | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
 | ⟪हिरण्य ३⟫ | हिरण्य ३ | — | vàng ; n.: vàng, tiền bạc, sự giàu có | [25](/vi/lektionen/lektion25#_25-5-t-vng) |
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | bị bỏ lại, thiếu thốn, khiếm khuyết | [33](/vi/lektionen/lektion33#_33-6-t-vng) |
 | ⟪हीनयान⟫ | हीनयान | n | phương tiện khiếm khuyết (của Phật giáo): tên gọi khinh miệt bởi những người đại diện cho "Đại thừa", tức là ; con đường | [33](/vi/lektionen/lektion33#_33-6-t-vng) |

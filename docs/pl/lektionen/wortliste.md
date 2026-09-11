@@ -3120,7 +3120,7 @@ Rys.: ⟪सा पुत्रमादाय भारं बिभ्रत�
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ustanawiać, wyznaczać, przydzielać
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ustanawiać, wyznaczać, przydzielać
 
 ::: indent
 

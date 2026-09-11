@@ -242,7 +242,7 @@ Abb.: ⟪दानम्⟫
 Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: đặt, ấn định, phân phát
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: đặt, ấn định, phân phát
 
 ::: indent
 **Tương lai.** :sig[⟪धास्यति⟫]  

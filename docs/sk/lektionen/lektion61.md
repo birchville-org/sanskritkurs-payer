@@ -758,7 +758,7 @@ To vám praje váš Alois Payer
 
 Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫]
+:sig[⟪ॐ⟫]
 
 KONIEC SANSKRTOVÉHO KURZU
 :::

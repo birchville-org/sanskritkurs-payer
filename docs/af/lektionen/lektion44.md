@@ -328,7 +328,7 @@ Figuur: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kausatief: sig[⟪रम्भ⟫]⟪यति⟫  
+Kausatief: :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

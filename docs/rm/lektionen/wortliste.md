@@ -2488,7 +2488,7 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 (sursa da l'imaginescha: [detagls](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: stabilir, fixar, distribuir
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: stabilir, fixar, distribuir
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
@@ -4163,7 +4163,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित ।⟫ : sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित ।⟫ : :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : dannegiar
