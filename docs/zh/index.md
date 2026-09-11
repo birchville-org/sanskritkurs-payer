@@ -28,8 +28,8 @@ features:
 
 這些語言是透過多層級的人工智慧串流，完全自動地從德文翻譯而來。非常歡迎回報任何翻譯錯誤。
 
-**聯絡與貢獻**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**：[專案維基](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**最新版本**：v1.8.4
+- **聯絡與貢獻**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**：[專案維基](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **線上編輯器**：Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **最新版本**：v1.8.4
 :::

@@ -28,8 +28,8 @@ features:
 
 மொழிகள் ஒரு பல்நிலை AI தொடர்மூலம் முழுமையாக தானியக்கமாக ஜெர்மனிலிருந்து மொழிபெயர்க்கப்பட்டன. மொழிபெயர்ப்பு பிழைகள் குறித்த தகவல்கள் மிகவும் வரவேற்கப்படுகின்றன.
 
-**தொடர்பு & பங்களிப்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**தற்போதைய பதிப்பு**: v1.8.4
+- **தொடர்பு & பங்களிப்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **இணையவழி பதிப்பாசிரியர்**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **தற்போதைய பதிப்பு**: v1.8.4
 :::

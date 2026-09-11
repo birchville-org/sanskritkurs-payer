@@ -28,8 +28,8 @@ features:
 
 Kalbos buvo visiškai automatiškai išverstos iš vokiečių kalbos naudojant daugiaetapę dirbtinio intelekto grandinę. Atsiliepimai dėl vertimo klaidų yra labai laukiami.
 
-**Kontaktai ir dalyvavimas**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Projekto wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Redaktoriai**: Prieinamas internetinis redaktorius per [QA](https://payer.birchville.cc/qa_viewer.html) (Tik skaitymui, rašymas apsaugotas prisijungimu)
-**Dabartinė versija**: v1.8.4
+- **Kontaktai ir dalyvavimas**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Projekto wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Internetinis redaktorius**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Dabartinė versija**: v1.8.4
 :::

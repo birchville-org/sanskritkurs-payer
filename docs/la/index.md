@@ -28,8 +28,8 @@ features:
 
 Linguae per gradus plures AI cascade omnino automaticè e Germanico in alias linguas conversae sunt. Nuntii de erroribus translationis valde accepti sunt.
 
-**Contactus & Participatio**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versio Recens**: v1.8.4
+- **Contactus & Participatio**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Editor interretialis**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Versio Recens**: v1.8.4
 :::

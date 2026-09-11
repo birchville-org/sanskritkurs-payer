@@ -28,8 +28,8 @@ features:
 
 ენები სრულად და ავტომატურად გერმანულიდან გადათარგმნა მრეკლური AI-კასკადის საშუალებით. თარგმნის შეცდომებზე შეტყობინება ძალიან მოსასმენია.
 
-**კონტაქტი და მონაწილეობა**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**რედაქტორები**: ონლაინ რედაქტორი ხელმისაწვდომია [QA](/qa_viewer.html){target="_blank"}-ს საშუალებით (მხოლოდ წაკითხვა, დაწერისთვის ლოგინი დაცულია)
-**მიმდინარე ვერსია**: v1.8.4
+- **კონტაქტი და მონაწილეობა**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **ონლაინ რედაქტორი**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **მიმდინარე ვერსია**: v1.8.4
 :::

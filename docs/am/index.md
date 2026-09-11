@@ -28,8 +28,8 @@ features:
 
 ቋንቋዎቹ በሙሉ በራስ-ሰር በአንድ ብዙ-ደረጃ የኤፒአይ (AI) ካስኬድ ረዳት በመጠቀም ከጀርመን ቋንቋ ተተርጉመዋል። ስለ ትርጉም ስህተቶች የሚመለከቱ ማሳወቂያዎች በጣም የሚደገፉ ናቸው።
 
-**አግኙን እና አስተዋጽኦ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**የአርታዓቾች**: በ[QA](/qa_viewer.html){target="_blank"} በኩል የሚገኝ ኦንላይን አርታዒ (View-only, Write Login-protected)
-**የቅርብ ጊዜ ስሪት**: v1.8.4
+- **አግኙን እና አስተዋጽኦ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **የመስመር ላይ አርታዒ**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **የቅርብ ጊዜ ስሪት**: v1.8.4
 :::

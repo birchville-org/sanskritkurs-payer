@@ -28,8 +28,8 @@ Die **Sanskrit-kursusse** van Alois Payer is 'n omvattende, wetenskaplik gefunde
 
 Die tale is met behulp van 'n meertrappige KI-kaskade outomaties uit Duits vertaal. Terugvoer aangaande vertaalfoute is baie welkom.
 
-**Kontak & Samewerking**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Projek-Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Redigeerders**: Aanlyn-redigeerder beskikbaar via [QA](/qa_viewer.html){target="_blank"} (Slegs-lees, Skryf met wagwoord)
-**Huidige weergawe**: v1.8.4
+- **Kontak & Samewerking**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Projek-Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Aanlyn-redigeerder**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Huidige weergawe**: v1.8.4
 :::

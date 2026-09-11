@@ -28,8 +28,8 @@ features:
 
 Αἱ γλῶσσαι διὰ μηχανοκινήτου συστήματος πολλαπλοῦ σταθμοῦ πλήρως αὐτομάτως ἐκ τῆς Γερμανικῆς μεταφράσθησαν. Παρακαλοῦνται τὰ ὑπομνήματα περὶ λαθῶν μεταφράσεως.
 
-**Ἐπικοινωνία καὶ Συνεισφορά**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Νεωτέρα ἐκδοσις**: v1.8.4
+- **Ἐπικοινωνία καὶ Συνεισφορά**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Διαδικτυακὸς ἐπιμελητής**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Νεωτέρα ἐκδοσις**: v1.8.4
 :::

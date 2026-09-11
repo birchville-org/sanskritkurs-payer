@@ -28,8 +28,8 @@ Il **curs da sanscrit** d'Alois Payer è in curs cumplet, fundà scientificamain
 
 Las linguas èn vegnidas traduidas cumplettamain automaticamain dal tudestg cun agid d'ina cascada da IA multistadiala. Remartgas davant erurs da traducziun èn bainvegnidas.
 
-**Contact & participaziun**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versiun actuala**: v1.8.4
+- **Contact & participaziun**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Editur online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Versiun actuala**: v1.8.4
 :::

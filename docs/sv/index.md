@@ -24,14 +24,12 @@ features:
 ---
 
 ::: note-box
-
 >> Alois Payers **Sanskritkurs** är en omfattande, vetenskapligt grundad kurs för att lära sig sanskrit och devanāgarī-skriften. Denna digitala utgåva tillhandahåller hela kursen i en modern, flerspråkig och sökbar läsmiljö.
 
 >> Översättningarna har skapats helt automatiskt från tyska med hjälp av en flerstegs AI-kaskad. Rapporter om översättningsfel är mycket välkomna.
 
-**Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-**Aktuelle Version**: v1.8.4
-
+- **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Online-redigerare**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Aktuelle Version**: v1.8.4
 :::

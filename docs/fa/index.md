@@ -28,8 +28,8 @@ features:
 
 زبان‌ها به طور کامل و خودکار با استفاده از یک زنجیرهٔ چندمرحله‌ای هوش مصنوعی از آلمانی ترجمه شده‌اند. گزارش خطاهای ترجمه بسیار خوشامد گفته می‌شود.
 
-**تماس و مشارکت**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**گیت‌هاب**: [ویکی پروژه](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**نسخهٔ فعلی**: v1.8.4
+- **تماس و مشارکت**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **گیت‌هاب**: [ویکی پروژه](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **ویرایشگر آنلاین**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **نسخهٔ فعلی**: v1.8.4
 :::

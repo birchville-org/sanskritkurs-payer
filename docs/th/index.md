@@ -28,8 +28,8 @@ features:
 
 ภาษาต่างๆ ได้รับการแปลจากภาษาเยอรมันอย่างสมบูรณ์โดยอัตโนมัติผ่านระบบลำดับชั้นของปัญญาประดิษฐ์หลายขั้นตอน ยินดีรับรายงานข้อผิดพลาดในการแปล
 
-**การติดต่อและมีส่วนร่วม**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**เวอร์ชันปัจจุบัน**: v1.8.4
+- **การติดต่อและมีส่วนร่วม**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **โปรแกรมแก้ไขออนไลน์**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **เวอร์ชันปัจจุบัน**: v1.8.4
 :::

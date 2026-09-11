@@ -28,8 +28,8 @@ features:
 
 Езиците бяха преведени автоматично от немски чрез многоетажна ИИ каскада. Съобщения относно грешки в превода са добре дошли.
 
-**Контакт и принос**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Проектна Уики](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Текуща версия**: v1.8.4
+- **Контакт и принос**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Проектна Уики](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Онлайн редактор**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Текуща версия**: v1.8.4
 :::

@@ -28,8 +28,8 @@ features:
 
 Языки были полностью автоматически переведены с немецкого языка с помощью многоуровневой каскадной системы искусственного интеллекта. Сообщения об ошибках перевода очень приветствуются.
 
-**Контакты и участие**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Проект Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Текущая версия**: v1.8.4
+- **Контакты и участие**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Проект Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Онлайн-редактор**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Текущая версия**: v1.8.4
 :::

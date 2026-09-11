@@ -28,8 +28,8 @@ features:
 
 Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman dengan bantuan kaskade AI bertingkat. Laporan mengenai kesalahan terjemahan sangat diterima.
 
-**Kontak & Kontribusi**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Wiki Proyek](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versi Saat Ini**: v1.8.4
+- **Kontak & Kontribusi**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Wiki Proyek](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Editor online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Versi Saat Ini**: v1.8.4
 :::

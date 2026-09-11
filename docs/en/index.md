@@ -28,8 +28,8 @@ Alois Payer's **Sanskrit Course** is a comprehensive, scientifically grounded co
 
 The languages were fully automatically translated from German with the help of a multi-stage AI cascade. Reports regarding translation errors are highly welcome.
 
-**Contact & Contribution**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editors**: Online editor available via [QA](https://payer.birchville.cc/qa_viewer.html) (View-only, Write Login-protected)
-**Current Version**: v1.8.4
+- **Contact & Contribution**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Online Editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Current Version**: v1.8.4
 :::

@@ -28,8 +28,8 @@ I-**Sikhwelo seSanskrit** sika-Alois Payer yisifundo esiphelele nesekelwe ngokwe
 
 Izilimi ziguqulwe ngokuphelele ngokuzenzakalelayo kusuka eJamani ngokusebenzisa ikhaskade ye-AI enezigaba eziningi. Izaziso mayelana nezinkinga zokuguqulwa ziyamukeleka kakhulu.
 
-**Ukuxhumana & Ukuthatha Inhliziyo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Iwiki Yephrojekthi](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Abahleli**: Umhleli we-Online ufumaneka ku-[QA](/qa_viewer.html){target="_blank"} (Ukubuka kuphela, Ukufaka igama lomsebenzisi okuvikelwe)
-**Uhlelo Olusebenzayo**: v1.8.4
+- **Ukuxhumana & Ukuthatha Inhliziyo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Iwiki Yephrojekthi](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Umhleli we-inthanethi**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Uhlelo Olusebenzayo**: v1.8.4
 :::

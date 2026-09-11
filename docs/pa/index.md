@@ -28,8 +28,8 @@ features:
 
 ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਜਰਮਨ ਤੋਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਆਟੋਮੈਟਿਕ ਤੌਰ 'ਤੇ ਇੱਕ ਕਈ-ਪੜਾਅ ਵਾਲੀ AI ਕੈਸਕੇਡ ਦੀ ਮਦਦ ਨਾਲ ਅਨੁਵਾਦਿਤ ਕੀਤਾ ਗਿਆ ਹੈ। ਅਨੁਵਾਦ ਦੀਆਂ ਗਲਤੀਆਂ ਬਾਰੇ ਰਿਪੋਰਟਾਂ ਦਾ ਸੁਆਗਤ ਹੈ।
 
-**ਸੰਪਰਕ & ਯੋਗਦਾਨ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**ਮੌਜੂਦਾ ਸੰਸਕਰਣ**: v1.8.4
+- **ਸੰਪਰਕ & ਯੋਗਦਾਨ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **ਔਨਲਾਈਨ ਸੰਪਾਦਕ**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **ਮੌਜੂਦਾ ਸੰਸਕਰਣ**: v1.8.4
 :::

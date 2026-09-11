@@ -28,8 +28,8 @@ Alois Payer **szanszkrit kurzja** egy átfogó, tudományosan megalapozott képz
 
 A nyelveket egy többlépcsős AI-kaskád segítségével teljesen automatikusan fordítottuk le németből. A fordítási hibákkal kapcsolatos visszajelzéseket nagyon szívesen fogadjuk.
 
-**Kapcsolat & Közreműködés**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**GitHub**: [Projekt Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Jelenlegi verzió**: v1.8.4
+- **Kapcsolat & Közreműködés**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Projekt Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Online szerkesztő**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Jelenlegi verzió**: v1.8.4
 :::

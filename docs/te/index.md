@@ -28,8 +28,8 @@ features:
 
 భాషలను ఒక బహు-దశ కృత్రిమ మేధస్సు శ్రేణి ద్వారా పూర్తిగా స్వయంచాలకంగా జర్మన్ నుండి అనువాదం చేశారు. అనువాద దోషాల గురించి నివేదికలు చాలా స్వాగతించబడతాయి.
 
-**సంప్రదింపులు & పాల్గొనడం**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**గిట్‌హబ్**: [ప్రాజెక్టు వికీ](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**సంపాదకులు**: [QA](/qa_viewer.html){target="_blank"} ద్వారా ఆన్‌లైన్ సంపాదకుడు అందుబాటులో ఉంది (కేవలం చూడటానికి, రాయడానికి లాగిన్-రక్షిత)
-**ప్రస్తుత సంస్కరణ**: v1.8.4
+- **సంప్రదింపులు & పాల్గొనడం**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **గిట్‌హబ్**: [ప్రాజెక్టు వికీ](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **ఆన్‌లైన్ ఎడిటర్**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **ప్రస్తుత సంస్కరణ**: v1.8.4
 :::
