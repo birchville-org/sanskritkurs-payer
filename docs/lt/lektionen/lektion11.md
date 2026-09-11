@@ -13,6 +13,7 @@ status: stable
 ## 11.1. Dvigubas galininkas
 
 ::: grammar-box
+
 **Kai kurie veiksmažodžiai gali valdyti dvigubą galininką (dvitīyā): asmens galininkas ir dalyko galininkas.**
 
 **Tarp jų yra:**
@@ -30,6 +31,7 @@ pvz. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो ब्र�
 
 pvz. **rāmo dharmaṃ pṛcchati** = ⟪रामो धर्मं पृच्छति⟫ = "Rāma klausia apie dharmą."
 » Tiesinė forma: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण धर्मः पृच्छयते⟫
+
 :::
 
 ## 11.2. Žodynas
@@ -60,10 +62,14 @@ Corresponds most closely to natural law/moral law. Everyone has their own duties
 **vadana** n. ⟪वदन⟫ : speaking; instrument of speech: mouth, face
 
 ::: media
+
 ![](/images/lekt1102.webp)
+
 Fig.: **vadanāni** = ⟪वदनानि⟫
 (Image source: [Details](/lt/licenses#lekt1102))
+
 :::
+
 **prach** 6 P ⟪प्रच्छ्⟫ : to ask
 **praśna** m. ⟪प्रश्न⟫ : question (suffix **-na** as in **yaj-ña**)
 
@@ -95,9 +101,12 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **D) Sudarykite pagal C dalį pertvarkytų sakinių neveikiamosios rūšies konstrukcijas.**
 
 ::: media
+
 ![](/images/lekt1101.webp)
+
 Pav.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाकाश्यपः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1101))
+
 :::
 
 ## 11.4. Kartojimo pratimas
@@ -115,7 +124,7 @@ Pav.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाका
 1. Nurodykite dvandva dūriniu visų dukart gimusiųjų pareigas. Išskleiskite dūrinį sanskrite.
 2. Nurodykite dvandva dūriniu vaišjų pareigas. Išskleiskite dūrinį sanskrite.
 
-**C) Übersetzen Sie:**
+**C) Išverskite:**
 
 1. ⟪श्रवणेन श्रूयते⟫ | |
 2. ⟪कर्षर्कैः कृष्यते⟫ | |
@@ -132,4 +141,3 @@ Pav.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाका
 2. ⟪गुरुणा सत्यमुद्यते⟫ | |
 3. ⟪वैश्यः पशुं लभते⟫ | |
 4. ⟪पुत्रः पुण्यं करोति⟫ ||
-:::

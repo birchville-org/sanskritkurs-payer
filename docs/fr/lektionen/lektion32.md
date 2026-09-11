@@ -7,9 +7,10 @@ status: stable
 
 # Leçon 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. Les temps du passé
 
 ::: grammar-box
+
 **Dans la littérature sanskrite ancienne et selon les grammairiens indigènes, les trois temps du passé sont clairement distingués dans leur usage :**
 
 *   **l’Aoriste (⟪लुङ्⟫ , ⟪अद्यतनी⟫) désigne soit simplement l’accomplissement d’une action, soit ce qui s’est produit au cours de la journée en cours, le passé récent**
@@ -17,10 +18,13 @@ status: stable
 *   **le Parfait (⟪लिट्⟫) désigne, comme l’Imparfait, le passé lointain, mais est utilisé, par opposition à l’Imparfait, uniquement pour des événements que le locuteur n’a pas vus lui-même**
 
 **Dans la littérature sanskrite classique, les trois temps du passé sont employés sans différence de sens (exception : le poème didactique de ⟪भारवि⟫, ⟪किरातार्जुनीय⟫).**
+
 :::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+
+## 32.2. L'imparfait (⟪लङ्⟫)
 
 ::: grammar-box
+
 **Formation :**
 
 **Augment a- + radical de présent + terminaison secondaire**
@@ -28,21 +32,29 @@ status: stable
 **Les trois personnes du singulier du parasmaipada à l’imparfait sont formées, pour les racines athématiques, à partir du radical de présent fort ; toutes les autres formes sont formées à partir du radical de présent faible.**
 
 **L’imparfait n’a que l’indicatif.**
+
 :::
+
 Exemples :
 
 ::: indent
+
 **⟪भू⟫** 3. sg. Imp. P. **⟪अभवत्⟫** (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. Imp. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. P. **⟪असुन्वन्⟫** (a + sunu + an)
+
 :::
+
 ## 32.3. Règles pour l’augment
 
 ::: grammar-box
+
 **1. Lorsque l’augment a- précède une racine commençant par une voyelle, l’augment et le début de la racine fusionnent en ⟪वृद्धि⟫ de la voyelle de la racine.**
+
 :::
+
 Exemples :
 
 ::: grammar-box
@@ -54,9 +66,13 @@ Exemples :
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
+
 ::: grammar-box
+
 **2. Lorsque des préfixes précèdent une racine, l’augment a- se place immédiatement après les préfixes et avant la racine.**
+
 :::
+
 Exemples :
 
 ::: grammar-box
@@ -69,11 +85,15 @@ Exemples :
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
+
 ## 32.4. Exemples de formation de l’imparfait
 
 ::: important
+
 **Afin de démontrer la formation des formes, des formes Ātmanepada sont également formées ici pour les racines Parasmaipada ! Ces formes artificielles se trouvent entre \< \>.**
+
 :::
+
 ### 32.4.1. Classes thématiques de présent
 
 ::: grammar-box
@@ -87,6 +107,7 @@ Exemples :
 | Passif | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
+
 ### 32.4.2. Classes athématiques de présent
 
 ::: grammar-box
@@ -108,6 +129,7 @@ Exemples :
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
+
 ## 32.5. Liste de mots
 
 **⟪अग्र⟫ n. :** pointe, extrémité
@@ -117,7 +139,9 @@ Exemples :
 ⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
+
 ::: indent
+
 ⟪श्रमिष्यते⟫
 ⟪श्रम्यते⟫
 ⟪श्रमयति⟫
@@ -125,17 +149,23 @@ Exemples :
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 -⟪श्रम्य⟫
 ⟪श्रमितुम्⟫
+
 :::
+
 ⟪पार्श्व⟫
 
 ⟪चूत⟫
 
 ::: media
+
 ![](/images/lekt3202.webp)
+
 Fig. : ⟪चूतः⟫
 Manguiers, Kanpur.
 (Source de l'image : [Détails](/fr/licenses#lekt3202))
+
 :::
+
 ⟪तरु⟫ ⟪वृक्ष⟫
 
 ⟪पचेलिम⟫
@@ -145,39 +175,55 @@ Manguiers, Kanpur.
 ⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
+
 ::: indent
+
 ⟪रोक्ष्यति⟫
 ⟪रुह्यते⟫
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
 ⟪रूढ⟫
 -⟪रुह्य⟫
 ⟪रोढुम्⟫
+
 :::
+
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+
 ::: indent
+
 ⟪ग्रहीष्यति⟫ (!)
 ⟪गृह्यते⟫
 ⟪ग्राहयति⟫
 ⟪गृहीत⟫
 -⟪गृह्य⟫
 ⟪ग्रहीतुम्⟫ (!)
+
 :::
+
 **⟪वानर⟫ ⟪कपि⟫**
 
 ::: media
+
 ![](/images/lekt3203.webp)
+
 Fig. : ⟪वानराः⟫
 Singes (macaques rhésus) à Delhi.
 (Source de l'image : [Détails](/fr/licenses#lekt3203))
+
 :::
+
 **⟪लोक्⟫ ⟪लोकयति⟫**
+
 ::: indent
+
 ⟪लोकयिष्यति⟫
 ⟪लोक्यते⟫
 ⟪लोकित⟫
 -⟪लोक्य⟫
 ⟪लोकितुम्⟫
+
 :::
+
 ⟪प्रहर्ष⟫
 
 ⟪कति⟫
@@ -185,43 +231,63 @@ Singes (macaques rhésus) à Delhi.
 ⟪उपल⟫
 
 ::: media
+
 ![](/images/lekt3204.webp)
+
 Fig. : ⟪उपलाः⟫
 Carrière de pierre au sud de Pune, Maharashtra.
 (Source de l'image : [Détails](/fr/licenses#lekt3204))
+
 :::
+
 ⟪लक्ष्य⟫
 
 ::: media
+
 ![](/images/lekt3205.webp)
+
 Fig. : ⟪लक्ष्यम्⟫
 Exercice de tir / cible à flèches, Karnataka.
 (Source de l'image : [Détails](/fr/licenses#lekt3205))
+
 :::
+
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
+
 ::: indent
+
 ⟪क्षेप्स्यति⟫
 ⟪क्षिप्यते⟫
 ⟪क्षेपयति⟫
 ⟪क्षिप्त⟫
 -⟪क्षिप्य⟫
 ⟪क्षेप्तुम्⟫
+
 :::
+
 **⟪चि⟫ ⟪चिनोति⟫**
+
 ::: indent
+
 ⟪चेष्यति⟫
 ⟪चीयते⟫
 ⟪चाययति⟫
 ⟪चित⟫
 -⟪चित्य⟫
 ⟪चेतुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3207.webp)
+
 Fig. : ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Brûlage de galettes de bouse de vache au Rajasthan.
 (Source de l'image : [Détails](/fr/licenses#lekt3207))
+
 :::
+
 **⟪चि⟫ ⟪अव⟫**
 
 ⟪प्रति⟫
@@ -231,11 +297,15 @@ Brûlage de galettes de bouse de vache au Rajasthan.
 **⟪कौशल⟫ ⟪कुशल⟫**
 
 ::: media
+
 ![](/images/lekt3206.webp)
+
 Fig. : ⟪कौशलम्⟫
 Peinture Mehndi sur les mains à Mumbai.
 (Source de l'image : [Détails](/fr/licenses#lekt3206))
+
 :::
+
 ## 32.6. Exercice
 
 A) Déterminez les formes verbales suivantes et formez les formes d’imparfait correspondant en personne, nombre et genre verbal :
@@ -329,11 +399,15 @@ B) Traduisez et résolvez les composés en sanskrit :
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
 ::: media
+
 ![](/images/lekt3208.webp)
+
 Fig. : ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Moine bouddhiste au Sri Lanka.
 (Source de l’image : [Détails](/fr/licenses#lekt3208))
+
 :::
+
 ## 32.7. Exercice de révision pendant les vacances de Noël
 
 Remarque : à l'origine, ce cours était dispensé chaque semestre d'hiver à l'Université de Tübingen. Lors de la leçon 32, les vacances de Noël de deux semaines ont commencé.
@@ -552,11 +626,15 @@ C) Traduisez en sanskrit :
 52. Au revoir !
 
 ::: media
+
 ![](/images/lekt3209.webp)
+
 Fig. : ⟪पुनर्दर्शनाय⟫
 Salutation / adieu indien.
 (Source de l'image : [Détails](/fr/licenses#lekt3209))
+
 :::
+
 ## 32.8. Exercice de révision
 
 Traduisez et analysez les formes de mots suivantes :
@@ -605,6 +683,7 @@ Traduisez et analysez les formes de mots suivantes :
 ## 32.9. Exercice de traduction
 
 ::: compact
+
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
@@ -617,22 +696,30 @@ Traduisez et analysez les formes de mots suivantes :
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
 ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+
 :::
+
 (d'après : ⟪संस्कृतबालादर्श⟫)
 
 Explications :
 
 ::: indent
+
 **⟪पथि⟫** Loc. sg. de **⟪पथ्⟫ m.** "chemin" (déclinaison irrégulière)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-suffixe ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : faire quelque chose en tant que ⟪लक्ष्य⟫, ce qui n'était pas auparavant ⟪लक्ष्य⟫
 
 **⟪आदाय⟫** Absolutif de **⟪आ⟫-⟪दा⟫** (3e classe de présent) "prendre"
+
 :::
+
 ::: media
+
 ![](/images/lekt3210.webp)
+
 Fig. : ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Singes dans les manguiers.
 (Source de l'image : [Détails](/fr/licenses#lekt3210))
+
 :::
 

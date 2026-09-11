@@ -140,10 +140,14 @@ kiṃ kāraṇam?
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung007.webp)
+
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung007))
+
 :::
+
 ---
 
 ## Exercițiu de citire
@@ -188,13 +192,13 @@ Fata scrie sau desenează.
 Fecioara intră în casă.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Dumnezeu creează elefantul, respectiv șarpele, respectiv pe Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Copilul conduce elefantul.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Nume propriu Vimalā)
-Vimalā ist traurig.
+Vimalā este tristă.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Papagalul zboară.
@@ -203,7 +207,10 @@ Papagalul zboară.
 Copilul scrie o scrisoare.
 
 ::: media
+
 ![](/images/uebung008.webp)
+
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung008))
+
 :::

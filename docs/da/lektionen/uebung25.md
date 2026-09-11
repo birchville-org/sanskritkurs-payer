@@ -65,10 +65,14 @@ Buddhas og arhants er befriet fra lidelse. De har nemlig opnået den frelsende i
 Gennem begær, had og vildfarelse fordærver mennesker sig. Når tiden er kommet, falder de derefter i en helvede.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatriyen bringer heltemodige krigere fra storbyen for at bekæmpe fjendens landsby.
 
@@ -88,7 +92,7 @@ Uden Rāma.
 Undervisning fra en hellig fører til dyd, ikke undervisning fra en urenhed.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma venter på Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Det går let (lykkeligt).
@@ -113,10 +117,14 @@ Hvis nogen i stolt, grådighed, vrede eller frygt afsiger en falsk dom, da komme
 Helvede opstår på grund af ondt, onde opstår fra fattigdom, fattigdom opstår fra ikke at give.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति नरकाः पापात्⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 En tyv befries fra tyverisbyrden ved straf eller ved løsladelse. Hvis kongen dog ikke straffer ham, overtager han tyvens byrde.
 
@@ -128,9 +136,13 @@ En tyv befries fra tyverisbyrden ved straf eller ved løsladelse. Hvis kongen do
 Økonomien er nyttig, fordi den frembringer korn, kvæg, guld, metaller og arbejde.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Derfor har de tre videnskaber stokken (daṇḍa) som grundlag. Stokken, der er grundlaget for god opførsel, skaffer væsenerne erhverv og sikker ejendom. God opførsel er enten opnået eller medfødt. Aktivitet opdrager nemlig et egnet materiale, ikke et uegnet. Viden opdrager en sindstilstand, der gennem lydighed, lytten, opfattelse, forståelse og overvejelse er nået til sandheden, ikke en anden. ... Af det hørte opstår nemlig erkendelse, af erkendelse praksis, af praksis selvbeherskelse; således svarer videnskaberne til deres formål. Viden og god opførsel er årsagen til sejren over sanserne. Denne er nødvendig for at aflægge begær, had, grådighed, indbildskhed, beruselse og ophidselse.

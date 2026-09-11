@@ -1,5 +1,5 @@
 ---
-title: "Lektion 16"
+title: "16. õppetund"
 subtitle: "Lõppkonsonantide sandhi kohta"
 lesson_id: 16
 last_reconstructed: 2026-05-21
@@ -82,7 +82,7 @@ davon:
 
 ::: indent
 
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: mitte-pahatahtlikkus
 
 :::
 
@@ -207,6 +207,5 @@ Kasutage selleks järgmist skeemi, mis vastab käändsõnade järjekorrale India
 
 B) Tõlkige ja lahendage kõik sanskriti liitsõnad:
 
-:::
 
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫

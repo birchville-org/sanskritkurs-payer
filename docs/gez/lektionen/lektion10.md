@@ -58,13 +58,13 @@ status: stable
 
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## ፲፪.፪. መሣርያዊ (tṛtīyā f. = ⟪तृतीया⟫ = "ሣልሳይ ፍጻሜ")
 
 ::: grammar-box
 
-**Die regulären Endungen des Instrumentalis (tṛtīyā):**
-**Singular: -ā**
-**Plural: -bhis**
+**መደበኛ ፍጻሜታት ናይ መሣርያዊ (tṛtīyā):**
+**ሓደነት: -ā**
+**ብዙሓት: -bhis**
 
 **Regelmässige Bildungen:**
 
@@ -277,7 +277,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Herausgegeben aus de
 
 ![](/images/lekt1003.webp)
 
-Abb.: ⟪वरुणः⟫
+ስዕሊ: ⟪वरुणः⟫
 
 (ምንባበ ሥዕል: [ዝርዝር](/gez/licenses#lekt1003))
 
@@ -303,7 +303,7 @@ Abb.: ⟪वरुणः⟫
 
 ![](/images/lekt1002.jpg)
 
-Abb.: ⟪विश्वामित्रः⟫
+ስዕሊ: ⟪विश्वामित्रः⟫
 
 (ምንባበ ሥዕል: [ዝርዝር](/gez/licenses#lekt1002))
 
@@ -326,7 +326,7 @@ Abb.: ⟪विश्वामित्रः⟫
 6. **nayanti** (⟪नयन्ति⟫)
 7. **smarati** (⟪स्मरति⟫)
 8. **śṛṇvanti** (⟪शृण्वन्ति⟫)
-9. **paśyati** (⟪पश्यति⟫) (Passiv wird von **dṛś** gebildet!)
+9. **paśyati** (⟪पश्यति⟫) (ተገብሮ ካብ **dṛś** ይፍጠር!)
 10. **jayanti** (⟪जयन्ति⟫)
 11. **kurvate** (⟪कुर्वते⟫)
 12. **āpnuvanti** (⟪आप्नुवन्ति⟫)
@@ -339,11 +339,11 @@ Abb.: ⟪विश्वामित्रः⟫
 19. **rakṣanti** (⟪रक्षन्ति⟫)
 20. **vadanti** (⟪वदन्ति⟫)
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
-22. **tanvanti** (⟪तन्वन्ति⟫) (2 Formen!)
+22. **tanvanti** (⟪तन्वन्ति⟫) (፪ ቅርጽታት!)
 
 **ለ) ግበር መሣርያዊ ነጠላ ወብዙኅ ለኩሎሙ ስማት እለ ተምህርና እስከ ዛቲ።**
 
-**C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:**
+**ሐ) እዞም ዝስዕቡ ዓረፍተነገራት ናብ ተገብሮ ለውጦም እሞ ተርጉሞም:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
@@ -352,9 +352,9 @@ Abb.: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (፪ ኣማራጺታት)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (፪ ኣማራጺታት)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
 13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
@@ -371,7 +371,7 @@ Abb.: ⟪विश्वामित्रः⟫
 
 ![](/images/lekt1004.jpg)
 
-Abb.: ⟪तन्तुवायः⟫
+ስዕሊ: ⟪तन्तुवायः⟫
 
 (ምንባበ ሥዕል: [ዝርዝር](/gez/licenses#lekt1004))
 
@@ -388,30 +388,30 @@ Abb.: ⟪तन्तुवायः⟫
 
 ## 10.7. Wortliste 2
 
-- **makṣikā** f. ⟪मक्षिका⟫ : Fliege, Biene
-- **vraṇa** m. ⟪व्रण⟫ : Wunde, Fehler, Schaden
-- **dhana** n. ⟪धन⟫ : Lohn, Geld, Reichtum, Besitz
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen
-- **pārthiva** m. ⟪पार्थिव⟫ : König
-- **nīca** 3 ⟪नीच⟫ : niedrig, tief
-- **kalaha** m. ⟪कलह⟫ : Streit, Zank
-- **śānti** f. ⟪शान्ति⟫ : Aufhören, Ruhe, Frieden
-- **śam** 4 P (śāmyati !) ⟪शम्⟫ ⟪शाम्यति⟫ : ruhig sein, ruhig werden
-- **nara** m. ⟪नर⟫ : Mann, Mensch
-- **lubh** 4 P (lubhyati) ⟪लुभ्⟫ ⟪लुभ्यति⟫ : begehren
-- **sūkta** 3 ⟪सूक्त⟫ : gut gesagt, schön gesprochen; n. Lied
-- **śiṣya** m. ⟪शिष्य⟫ : Schüler
-- **atra** ⟪अत्र⟫ : hier
-- **tatra** ⟪तत्र⟫ : dort
-- **bhānu** m. ⟪भानु⟫ : Glanz, Sonne
-- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : grüssen, ehren
-- **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : regnen
-- **nṛpa** m. ⟪नृप⟫ : König, Fürst
-- **kṣīra** n. ⟪क्षीर⟫ : Milch
-- **mārga** m. ⟪मार्ग⟫ : Weg
-- **evam** ⟪एवम्⟫ : so
-- **iha** ⟪इह⟫ : hier
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : schön sein, glänzen
+- **makṣikā** f. ⟪मक्षिका⟫ : ንህቢ፣ መብረር
+- **vraṇa** m. ⟪व्रण⟫ : ቁስሊ፣ ጌጋ፣ ጉድኣት
+- **dhana** n. ⟪धन⟫ : ዓስቢ፣ ገንዘብ፣ ሃብቲ፣ ንብረት
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : ምምናት
+- **pārthiva** m. ⟪पार्थिव⟫ : ንጉሥ
+- **nīca** 3 ⟪नीच⟫ : ታሕተዋይ፣ ዓሚቕ
+- **kalaha** m. ⟪कलह⟫ : ባእሲ፣ ምትፍናን
+- **śānti** f. ⟪शान्ति⟫ : ምቁራጽ፣ ዕረፍቲ፣ ሰላም
+- **śam** 4 P (śāmyati !) ⟪शम्⟫ ⟪शाम्यति⟫ : ህዱእ ምዃን፣ ህዱእ ምዃን
+- **nara** m. ⟪नर⟫ : ሰብኣይ፣ ሰብ
+- **lubh** 4 P (lubhyati) ⟪लुभ्⟫ ⟪लुभ्यति⟫ : ምምካት
+- **sūkta** 3 ⟪सूक्त⟫ : ጽቡቕ ዝተባህለ፣ ጽቡቕ ዝተዛረበ፤ n. መዝሙር
+- **śiṣya** m. ⟪शिष्य⟫ : ተምሃራይ
+- **atra** ⟪अत्र⟫ : ኣብዚ
+- **tatra** ⟪तत्र⟫ : ኣብኡ
+- **bhānu** m. ⟪भानु⟫ : ብርሃን፣ ጸሓይ
+- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : ምብጻሕ፣ ምኽባር
+- **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : ምዝንባዕ
+- **nṛpa** m. ⟪नृप⟫ : ንጉሥ፣ መራሒ
+- **kṣīra** n. ⟪क्षीर⟫ : ጸባ
+- **mārga** m. ⟪मार्ग⟫ : መገዲ
+- **evam** ⟪एवम्⟫ : ከምኡ
+- **iha** ⟪इह⟫ : ኣብዚ
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : ጽቡቕ ምዃን፣ ምብራቕ
 
 
 

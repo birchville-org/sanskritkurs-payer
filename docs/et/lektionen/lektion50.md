@@ -1,5 +1,5 @@
 ---
-title: "Lektion 50"
+title: "50. õppetund"
 subtitle: "Nomina moodustamine: regulaarne võrdlusastmete moodustamine"
 lesson_id: 50
 last_reconstructed: 2026-05-21
@@ -92,9 +92,9 @@ Beispiele:
 
 ::: indent
 
-⟪पचतितराम्⟫ "er/sie/es kocht besser"
+⟪पचतितराम्⟫ "ta keedab paremini"
 
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
+⟪पचतितमाम्⟫ "ta keedab kõige paremini"
 
 :::
 
@@ -176,7 +176,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 :::
 
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: ka: saatus (sõnast ⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : sadama (enamasti koos ⟪कर्तृ⟫ -- jumala või pilvega)
 
@@ -218,7 +218,7 @@ Joonis: ⟪आदित्यः⟫
 
 :::
 
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: iga, kõik
 
 Käändumine nagu ⟪यद्⟫ (erand: nimetav-akusatiiv ainsuse neutrum)
 
@@ -352,7 +352,7 @@ Erklärung:
 
 :::
 
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Kuninga nõuandjatest
 
 ::: indent
 
@@ -363,7 +363,7 @@ Erklärung:
 
 :::
 
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Mõistete ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫ definitsioon
 
 ::: indent
 

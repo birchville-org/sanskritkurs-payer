@@ -1,5 +1,5 @@
 ---
-title: "Lektion 53"
+title: "53. õppetund"
 lesson_id: 53
 
 ---
@@ -95,6 +95,7 @@ Fig.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 
+:::
 ::: grammar-box
 
 |   | Maskulinum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
@@ -283,7 +284,7 @@ Fig.: ⟪फले⟫
 
 :::
 
-**Stämme auf -u**
+**-u-lõpulised tüved**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -309,7 +310,7 @@ Joonis: ⟪धेनू⟫
 
 :::
 
-**Stämme auf -ā**
+**-ā-lõpulised tüved**
 
 ⟪कन्या⟫ f. "Mädchen"
 
@@ -323,7 +324,7 @@ Joonis: ⟪धेनू⟫
 
 :::
 
-**Mehrsilbige Stämme auf -ī**
+**Mitmest silbist koosnevad -ī-lõpulised tüved**
 
 ⟪देवी⟫ f. "Göttin"
 
@@ -337,7 +338,7 @@ Joonis: ⟪धेनू⟫
 
 :::
 
-**Stämme auf -ṛ**
+**-ṛ-lõpulised tüved**
 
 ⟪दातृ⟫ 3 "Geber"
 
@@ -472,7 +473,7 @@ Järgmised pronominaalsed omadussõnad käänduvad nagu ⟪सर्व⟫. Abla
 
 **Kui ⟪तद्धित⟫-sufiksid -⟪तर⟫ ja -⟪तम⟫ liituvad omadussõna maskuliinse tüvega, siis sufiksid -⟪ईयस्⟫ ja -⟪इष्ठ⟫ liidetakse juurele, millest omadussõna on tuletatud (eeldusel, et selline juur eksisteerib!). Juurevokaal on kõrge astmega.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
+**Ülivõrded -iṣṭha (naissoost: iṣṭhā) käänduvad nagu a- või ā-tüved.**
 
 **-īyas'e käänamist vaata allpool.**
 
@@ -632,9 +633,9 @@ See also:
 
 The determination of the meter is important for the following reasons:
 
-1. **Aesthetic:** The metrical pattern contributes, among other things, to the beauty of a statement. Furthermore, certain metres may serve to express specific moods, or they are assigned to particular social classes (⟪वर्ण⟫). The various metres are recited differently. :br A good impression of the aesthetic effect can be gained, for example, from the recitation of ⟪शिवताण्डवस्तोत्र⟩ (the hymn praising Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2. **Text-critical:** Errors in the metrical pattern can indicate that a text has not been transmitted correctly at a certain point. The metre helps in making textual emendations.
-3. **Chronological:** Certain metres underwent specific changes over the course of history. This can assist in the approximate dating of a text. See here **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Both reprinted in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Edited by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp-Stiftung ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+1. **Esteetiline:** Meetriline muster aitab muu hulgas kaasa lause ilule. Lisaks võivad teatud meetrumid väljendada spetsiifilisi meeleolusid või need on määratud teatud sotsiaalsetele klassidele (⟪वर्ण⟫). Erinevaid meetrumeid retsiteeritakse erinevalt. :br Hea ettekujutuse esteetilisest mõjust saab näiteks ⟪शिवताण्डवस्तोत्र⟩ (hümn, mis ülistab Śiva tantsu) retsiteerimisest: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Tekstikriitiline:** Meetrilise mustri vead võivad viidata sellele, et tekst ei ole teatud punktis õigesti edasi antud. Meetrum aitab tekstiparanduste tegemisel.
+3. **Kronoloogiline:** Teatud meetrumid läbisid ajaloo jooksul spetsiifilisi muutusi. See võib aidata teksti ligikaudsel dateerimisel. Vaata siit **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Mõlemad uuesti trükitud: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Toimetanud Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 köidet. -- (Glasenapp-Stiftung ; ...). -- 2. köide. -- 1967. -- lk 1188 - 1255.
 
 ::: media
 
@@ -675,7 +676,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 
 :::
 
-"Eine Silber ist schwer,
+"Üks silp on raske,
 
 *   kui selle vokaalil on anusvāra,
 *   on pikk,
@@ -685,7 +686,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 
 ::: grammar-box
 
-**Eine Silbe ist**
+**Üks silp on**
 
 *   kas **⟪लघु⟫ = kerge**
 *   või **⟪गुरु⟫ = raske**
@@ -697,7 +698,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   ei järgne Visargat,
 *   ei järgne kahte kaashäälikut.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ
+Lühikesed vokaalid on a, i, u, ṛ, ḷ
 
 **Kõik teised silbid on ⟪गुरु⟫ = rasked. Värsirea (⟪पाद⟫) viimane silp loetakse alati ⟪गुरु⟫.**
 
@@ -718,7 +719,7 @@ Beispiel: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 :::
 
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
+⟪लघु⟫ ja ⟪गुरु⟫ jaotus:
 
 ::: metrik-schema
 
@@ -755,7 +756,7 @@ Kõige olulisem värsimõõt eepostes (⟪महाभारत⟫, ⟪राम
 
 **⟪श्लोक⟫ on kahevärss, mis koosneb poolvärssidest, milles kummaski on 16 silpi. Iga poolvärss jaguneb omakorda kaheks veerandvärsiks (⟪पाद⟫), milles kummaski on 8 silpi. Iga veerandvärss jaguneb kaheks osaks, milles kummaski on 4 silpi. Kogu värss (⟪पद्य⟫ n.) koosneb seega neljast ⟪पाद⟫ (m. "jalg, veerand"). Neli ⟪पाद⟫ nummerdatakse a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
 
-**Aufbau des Śloka:**
+**Śloka ülesehitus:**
 
 **Grundschema (⟪पथ्या⟫):**
 

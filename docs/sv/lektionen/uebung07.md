@@ -111,7 +111,7 @@ C) Sätt agent, objekt och verb i plural i övningsmeningarna B).
 
 ⟪देव्यः कुप्यन्ति । देव्यः क्रुध्यन्ति ।⟫
 
-D) Setzen Sie ins Ātmanepada:
+D) Sätt i Ātmanepada:
 
 1\. sunvanti.
 

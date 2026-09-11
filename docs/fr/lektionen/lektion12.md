@@ -1,5 +1,5 @@
 ---
-title: Lektion 12
+title: Leçon 12
 subtitle: "Le participe passé passif (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
@@ -15,12 +15,15 @@ status: stable
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
 ::: grammar-box
+
 **En réalité, le PPP n'est pas un véritable participe, car il ne se forme pas à partir d'une racine verbale. Il s'agit plutôt d'une formation nominale à partir de la racine avec le suffixe primaire -ta ou -na. C'est pourquoi, dans la grammaire indienne, on parle du suffixe kta.**
+
 :::
 
 ### 12.1.1. Schéma pour les verbes transitifs
 
 ::: grammar-box
+
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
 **En réalité, le PPP n'est pas un véritable participe, car il ne se forme pas à partir d'une racine verbale. Il s'agit plutôt d'une formation nominale à partir de la racine avec le suffixe primaire -ta ou -na. C'est pourquoi, dans la grammaire indienne, on parle du suffixe kta.**
@@ -31,28 +34,33 @@ Exemples :
 > **sādhunā svarga āptaḥ** = ⟪साधुनास्वर्गआप्तः⟫ = « (Du saint fut atteint le ciel) = Le saint a atteint le ciel. »
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेनदेवीष्टा⟫ = « (Du brahmane fut la déesse avec un sacrifice vénérée) = Le brahmane a vénéré la déesse avec un sacrifice. »
+
 :::
 
 ### 12.1.2. Schéma I pour les verbes intransitifs et les verbes de mouvement
 
 ::: grammar-box
+
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
 **En réalité, le PPP n'est pas un véritable participe, car il ne se forme pas à partir d'une racine verbale. Il s'agit plutôt d'une formation nominale à partir de la racine avec le suffixe primaire -ta ou -na. C'est pourquoi, dans la grammaire indienne, on parle du suffixe kta.**
 
 Exemple :
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = « La femme kṣatriya est allée à la ville. »
+
 :::
 
 ### 12.1.3. Schéma II pour les verbes intransitifs et les verbes de mouvement
 
 ::: grammar-box
+
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
 Exemple :
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = « (Par le Kṣatriya, il a été (dans la ville) allé) = Le Kṣatriya est (dans la ville) allé. »
 
 La construction selon le schéma II est beaucoup plus rare que la construction selon le schéma I.
+
 :::
 
 ## 12.2. De l'importance du PPP
@@ -66,6 +74,7 @@ par ex.
 ## 12.3. Formation du PPP
 
 ::: grammar-box
+
 Les formations suivantes sont attestées (pour chaque racine, il convient d’apprendre son PPP correspondant) :
 
 **(généralement) degré profond de la racine**
@@ -76,22 +85,27 @@ Les formations suivantes sont attestées (pour chaque racine, il convient d’ap
 - **+ -na**
 
 Les thèmes féminins se terminent par : **-tā**, **-itā**, **-nā** ; le neutre se décline comme **phala** n.
+
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP en -ta (kta)
 
 #### 12.3.1.1. Sans voyelle d'insertion -i- (aniṭ)
 
 *aniṭ* = « sans (*an-*) le suffixe précédé (*-i-*) *t* » (c’est-à-dire sans la voyelle de liaison *i*).
 
 ::: grammar-box
+
 Sans voyelle d’appui, on forme généralement le participe passé (PPP) à partir de racines se terminant par une voyelle, ainsi que de nombreuses autres racines, sans qu’il soit possible d’établir une règle fixe quant au moment où la voyelle d’appui apparaît ou non selon la structure des racines.
 
 **(généralement) degré profond de la racine**
+
 :::
+
 **+ -ta**
 
 ::: grammar-box
+
 | Racine | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
@@ -106,7 +120,9 @@ Sans voyelle d’appui, on forme généralement le participe passé (PPP) à par
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
+
 :::
+
 #### 12.3.1.2. Avec voyelle de liaison -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = « avec (*sa-*) le suffixe préfixé (*-i-*) *t* » (c.-à-d. avec la voyelle de liaison *i*).
@@ -114,12 +130,14 @@ Sans voyelle d’appui, on forme généralement le participe passé (PPP) à par
 **Exemples :**
 
 ::: grammar-box
+
 | Wurzel | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+
 :::
 
 ## 12.4. Lois de la combinaison phonétique dans le mot
@@ -127,6 +145,7 @@ Sans voyelle d’appui, on forme généralement le participe passé (PPP) à par
 Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique dans le mot doivent être prises en compte. **Ces lois sont très importantes pour la compréhension de toute la morphologie du sanskrit.**
 
 ::: no-header
+
 | | |
 | :--- | :--- |
 | **1. k, t, p devant une occlusive sourde (p. ex. t, th) restent inchangés :** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
@@ -136,6 +155,7 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 | **5. jt est remplacé par kt ou ṣṭ (non facultatif !) :** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Occlusive sonore aspirée + occlusive sourde » occlusive sonore non aspirée + occlusive sonore aspirée (loi de l’aspirée de Bartholomae) :** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t est remplacé par ḍh avec allongement d'un i ou u précédent ; ou par gdh. Devant un tel ḍh, a est remplacé par o, plus rarement par ā :** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+
 :::
 
 ## 12.5. Liste de mots
@@ -143,20 +163,28 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : s'éveiller, s'éveiller à la connaissance, reconnaître ; PPP **buddha** 3 éveillé, donc **Buddha** = « celui qui s'est éveillé » (et non : celui qui est illuminé)
 
 ::: media
+
 ![](/images/lekt1201.webp)
+
 Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1201))
+
 :::
+
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
 - **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent les pistes du gibier)
 
 ::: media
+
 ![](/images/lekt1202.webp)
+
 Fig. : ⟪मार्गः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1202))
+
 :::
+
 - **api** ⟪अपि⟫ : aussi (postposé)
 
 Pour la 6e classe de présent, les grammairiens natifs comptent certaines racines qui forment le thème de présent avec un infixes nasal et la voyelle thématique a, par ex. :
@@ -171,10 +199,14 @@ Pour la formation des mots :
 - **budh** : **bodhi** m./f. ⟪बोधि⟫ : l'éveil (par quoi un Bouddha ou un Jina parvient à la compréhension salvatrice)
 
 ::: media
+
 ![](/images/lekt1203.webp)
+
 Fig. : ⟪महावीरो⟫ ⟪जिनः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1203))
+
 :::
+
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : connaissance, organe de connaissance.
 
 ### 12.5.1. Passif et PPP des racines apprises jusqu'à présent
@@ -233,4 +265,3 @@ Fig. : ⟪महावीरो⟫ ⟪जिनः⟫
 **B) Formez les PPP correspondants aux formes verbales de [Leçon 10](/lektionen/lektion10), Exercice A. Notez qu'à une forme comme sṛjati correspondent des PPP dans les trois genres.**
 
 **C) Mettez les phrases de [Leçon 10](/lektionen/lektion10), Exercice C, à la voix passive et au passé.**
-

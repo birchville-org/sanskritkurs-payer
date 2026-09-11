@@ -12,11 +12,11 @@ ja järgmine sõna algab konsonandiga. Samuti juhtudel, kui lausesandhi reeglite
 
 ### Interpunktion
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+Lause lõppu proosas tähistatakse | (ardhadaṇḍa m.). Salmides tähistab | poolstroofi lõppu, stroofi lõppu tähistab || (daṇḍa m.). Proosas tähistab || suuremat jaotust (nt lõigu lõppu). Salmide nummerdus asetatakse kahe || vahele, nt ||⟪१⟫||.
 
 ### Abkürzung
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
+Lühendimärk (nt teoste viidetes) on °, nt ⟪पा⟫° = pā(ṇinīye) = "Pāṇini grammatikaõpikus".
 
 ### Weitere Vokale in Anfangsstellung
 
@@ -28,7 +28,7 @@ Pange tähele, et a, ā, o, au kirjutatakse sama põhiskeemi järgi.
 
 ## Übung
 
-A) Schreiben Sie in Devanāgarī:
+A) Kirjutage Devanāgarīs:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 

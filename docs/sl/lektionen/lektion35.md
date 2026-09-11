@@ -10,6 +10,7 @@ status: stable
 ## 35.1. Perfekt tip III: Močan koren stopnja podaljšanja/stopnja dviga
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 **močan koren:**
@@ -18,16 +19,23 @@ status: stable
 *   1.os.P: po izbiri stopnja dviga ali podaljšanja
 
 **šibek koren:** glej pri podtipih
+
 :::
+
 ### 35.1.1. Perfekt tip IIIa: Močan koren stopnja dviga/podaljšanja, šibek koren nizka stopnja
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 :::
+
 ::: indent
+
 **šibek koren:** nizka stopnja
+
 :::
+
 Oblikuje se iz korenov tipa:
 *   (Soglasnik)-(Soglasnik) - i/ī/u/ū
 *   (Soglasnik) - ṛ
@@ -50,12 +58,17 @@ Primeri:
 ### 35.1.2. Perfekt tip IIIb: Močan koren stopnja dviga/podaljšanja, šibek koren stopnja dviga
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 :::
+
 ::: indent
+
 **šibek koren:** stopnja dviga
+
 :::
+
 Oblikuje se iz korenov tipa:
 *   (Soglasnik)-(Soglasnik)-ṝ
 *   Soglasnik-Soglasnik-ṛ (t.j. koreni na -ṛ, če jim predhaja več soglasnikov)
@@ -71,6 +84,7 @@ Primeri:
 ## 35.2. Perfekt Tip IV: Korenine na -ā / -āi
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 **močna osnova:**
@@ -82,7 +96,9 @@ Primeri:
 *   pred samoglasnikom: nizka stopnja Ø
 
 Oblikuje se iz korenin na -ā / -āi
+
 :::
+
 Primer:
 
 
@@ -93,6 +109,7 @@ Primer:
 ## 35.3. Perfekt Tip V: Korenine soglasnik-a-soglasnik
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 **močna osnova:**
@@ -103,16 +120,23 @@ Primer:
 **šibka osnova:** glej podtipi
 
 Oblikuje se iz korenin tipa (soglasnik)-Soglasnik-a-soglasnik
+
 :::
+
 ### 35.3.1. Perfekt Tip Va: šibka osnova nizka stopnja
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 :::
+
 ::: indent
+
 **šibka osnova:** nizka stopnja
+
 :::
+
 Oblikuje se med drugim iz korenin:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
@@ -135,13 +159,18 @@ Primeri:
 ### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
 
 ::: grammar-box
+
 **Bildung:**
 
 :::
+
 ::: indent
+
 **šibka osnova:** brez reduplikacije. Zamenjava -a- korena z -e-
 (za razlago glej Thumb-Hauschild 1,2 str. 286f.)
+
 :::
+
 Nastane iz korenin z -a- med dvema preprostima soglasnikoma, pri čemer se začetni soglasnik v ponavljalni zlogi ne spremeni (t.j. začetni soglasnik ni gutural, aspirat ali h).
 Primer:
 
@@ -152,18 +181,21 @@ Primer:
 ### 35.3.3. Perfekt tip Vc: Korenine soglasnik-a-soglasnik. Šibki koren visoka stopnja
 
 ::: grammar-box
+
 **Bildung:**
 
 **šibki koren:** visoka stopnja
 
 Nastane iz vseh drugih korenin s srednjim -a-, t.j. korenin s srednjim -a-
-*   die mit zwei Konsonanten beginnen
-*   die mit Guttural beginnen
-*   die mit Aspirat beginnen
-*   die mit h beginnen
+*   ki se začnejo z dvema soglasnikoma
+*   ki se začnejo z guturalom
+*   ki se začnejo z aspiratom
+*   ki se začnejo s h
 
 razen če ne spadajo v perfekt tipa Va.
+
 :::
+
 Primer:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -173,16 +205,22 @@ Primer:
 ## 35.4. Wortliste
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+
 ::: indent
+
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
 **Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
+
 :::
+
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+
 ::: indent
+
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
@@ -190,15 +228,24 @@ Primer:
 **PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
+
 :::
+
 ::: media
+
 ![](/images/lekt3502.webp)
+
 Abb.: ⟪क्रामन्ति⟫
+
 People walking, Senegal.
 (Vir slike: [Details](/sl/licenses#lekt3502))
+
 :::
+
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+
 ::: indent
+
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
 **Pass. ⟪गीयते⟫** :br
@@ -208,13 +255,20 @@ People walking, Senegal.
 
 davon:
 **⟪गीता⟫ f.:** Lied, Gesang
+
 :::
+
 ::: media
+
 ![](/images/lekt3501.webp)
+
 Abb.: ⟪जगुः⟫
+
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Vir slike: [Details](/sl/licenses#lekt3501))
+
 :::
+
 ## 35.5. Übung
 
 A) Za naslednje glagolske oblike tvorite ustrezne oblike perfekta:
@@ -248,12 +302,17 @@ A) Za naslednje glagolske oblike tvorite ustrezne oblike perfekta:
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
 29. ⟪मिमति⟫  
+
 ::: media
+
 ![](/images/lekt3503.webp)
+
 Slika: ⟪मिमति⟫
 Tržnica v Vadaseriju, Tamil Nadu.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3503))
+
 :::
+
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
 32. ⟪अतिष्ठत्⟫
@@ -272,12 +331,15 @@ B) Prevajajte:
 ⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
+
 ![](/images/lekt3504.webp)
+
 Slika: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3504))
+
 :::
+
 ⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
 C) Preoblikujte stavke iz vaje B) tako, da perfekt zamenjate z imperfektom.
-

@@ -478,7 +478,6 @@ Buddha jako asketa před svým osvobozujícím poznáním, Gandhára, 2./3. stol
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt2010))
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १⟫.⟪१॥⟫ (K systému Sāṃkhya viz Basham, Zázrak str. 324n.)
-:::
 ::: media
 ![](/images/lekt2010.webp)
 Obr.: ⟪तपस्⟫

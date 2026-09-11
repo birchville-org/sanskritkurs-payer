@@ -167,4 +167,3 @@ D) Translate into Sanskrit in two ways (once with a compound, once without):
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
-:::

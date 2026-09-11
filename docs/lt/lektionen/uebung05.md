@@ -92,29 +92,34 @@ Mokslai yra filosofija, vedų studijos, ekonomika ir politika.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 Pav.: ⟪अभ्निवेशो न वा ।⟫
 (Nuotraukos šaltinis: [Išsamiau](/licenses#uebung010))
+
 :::
+
 ---
 
 ## Lektion 5 pakartotinė pratikė
 
-A) Übersetzen Sie:
+A) Išverskite:
 
 1\. vidyā vārttā.
-:::
+
+
 ---
 
 ## Lektion 5 pakartotinė pratikė
 
-A) Übersetzen Sie:
+A) Išverskite:
 
 1\. vidyā vārttā.
 
 ⟪विद्या वार्त्ता⟫
 
-Ökonomie ist eine Wissenschaft.
+Ekonomika yra mokslas.
 
 2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
 
@@ -122,7 +127,7 @@ A) Übersetzen Sie:
 
 Trys dukart gimusiųjų luomai yra: brahmanas, kšatrijas ir vaišjas.
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3\. dvijā vaiśyāḥ. (2 galimybės)
 
 ⟪द्विजा वैश्याः⟫
 
@@ -171,4 +176,3 @@ D) Išverskite į sanskritą dviem būdais (vieną kartą su dūriniu, vieną ka
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
-:::

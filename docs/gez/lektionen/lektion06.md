@@ -283,18 +283,18 @@ status: stable
 13. ፓሽርዴኑስ = ⟪पशुर्धेनुः⟫
 14. ኬያም = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**ሐ) ግበርዎ ለኣትማኔፓዳ:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**መ) ግበርዎ ለኣንስታይ:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**ሠ) ተርጕምዎ:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -307,10 +307,10 @@ status: stable
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**ረ) ተርጕምዎ ውስተ ሳንስክሪት:**
+1. ራማ ይሠውዕ (ከመ ሊቀ መሥዋዕት).
+2. ዱርጋ እያ እግዝእት.
+3. ሚናክሺ እያ እግዝእት.
 
 ::: media
 

@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 تصویر: ⟪का नृत्यति ।⟫
 (منبع تصویر: [جزئیات](/licenses#uebung004))
+
 :::
+
 ---
 
 ## تمرین مرور درس ۶
@@ -550,7 +554,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut.
+۱۲. این الهه خوب است.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 تصویر: ⟪देवतान्नपूर्णा⟫
 (منبع تصویر: [جزئیات](/licenses#uebung005))
+
 :::

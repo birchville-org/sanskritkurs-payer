@@ -208,8 +208,8 @@ npr. ⟪पित्रीभवति⟫ "nekdo, ki ni oče (⟪पितृ⟩
 *   **končno -n odpade in predhodni samoglasnik se obravnava po zgornjih pravilih  **
 npr. ⟪राजीबभूव⟫ "nekdo (ki ni bil kralj) je postal kralj (⟪राजन्⟫)"
 
-*   **Andere mehrstämmige Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.**
-npr. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
+*   **Druga večstebelna imena so v obliki stebla, ki ga imajo v lokativu (⟪सप्तमी⟫) množine. Steblo je nato podvrženo običajnim pravilom sandhija. Glej Kielhorn, Grammatik § 489,3.**
+npr. ⟪तिर्यक्करोति⟫ "položi postrani (⟪तिर्यच्⟫)"
 
 :::
 
@@ -230,7 +230,7 @@ Brandrodung, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
 
 **Za izražanje, da oseba ali stvar v celoti postane ali da nekdo nekaj ali nekoga v celoti spremeni v tisto, kar je označeno s samostalnikom, se lahko samostalniku**
 
-**das Suffix -sāt (das nie -ṣāt wird)**
+**pripona -sāt (ki nikoli ne postane -ṣāt)**
 
 **doda in tako tvorjena beseda se z glagolskimi koreni**
 
@@ -505,10 +505,10 @@ Veliki medved = sedem najsvetlejših zvezd Velikega medveda (Ursa maior)
 
 **Pravilo 2: Ne glede na Pravilo 1 lahko beseda, ki označuje smer neba ali glavno število, tvori Tatpuruṣo z drugim samostalnikom, če**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird  
+1.  tako tvorjeni sestavljenki je dodana taddhita pripona  
 Primeri:
-pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)  
+pūrva + śālā ("dvorana") » \*pūrvaśālā (ne sme se uporabljati v tej obliki!) + taddhita -a » ⟪पौर्वशाल⟫ 3 "nahaja se v vzhodni dvorani"  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (ni dovoljeno!) + taddhita -a » ⟪षण्मातुर⟫ m. "otrok šestih mater" (= ⟪कार्त्तिकेय⟫)
 
 2. tako tvorjena zloženka se uporablja v pomenu, ki bi bil sicer označen s pripono Taddhita (pri tej vrsti je prehod v Bahuvrīhi tekoč):
 Primeri:
@@ -552,17 +552,19 @@ Jalakandapuram = ஜலகண்டபுரம்
 ⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. "Dreiwelt"
 ⟪त्रिलोक⟫ n. ⟪। त्रिलोकी⟫ n. "trojni svet"
 
-:::: grammar-box
+:::
+::: grammar-box
 
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
+**Dvigu-sestavljenke, ki nimajo dodanega taddhita sufiksa, vendar imenujejo pomen, ki ga označuje taddhita sufiks, se po spolu usklajujejo z imenom, ki ga natančneje določajo (v resnici so verjetno bahuvrīhi)**
 **Dvigu-sostavljene besede, ki nimajo dodanega taddhita sufiksa, vendar imenujejo pomen, ki ga označuje taddhita sufiks, se po spolu usklajujejo z imenom, ki ga natančneje določajo (v resnici so verjetno bahuvrīhi)**
 
+:::
 ::: indent
 
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
+⟪पञ्चगु⟫ 3: "pridobljeno za pet krav"
 ⟪पञ्चगु⟫ 3: "za pet krav pridobljen"
 
-::::
+:::
 
 ⟪अखिल⟫ 3: lückenlos, ganz
 

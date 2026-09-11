@@ -51,7 +51,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪कामक्रोधलोभाः⟫
 
-Leidenschaft, Zorn und Gier.
+రాగము, క్రోధము మరియు లోభము.
 
 kāmaḥ krodho lobhaś ca.
 
@@ -92,10 +92,14 @@ Sciences are philosophy, Vedic studies, economics, and politics.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 Fig.: ⟪अभ्निवेशो न वा ।⟫
 (Image source: [Details](/licenses#uebung010))
+
 :::
+
 ---
 
 ## పునరావృత్యభ్యాసం అధ్యాయం 5
@@ -165,7 +169,10 @@ D) రెండు విధాలుగా సంస్కృతంలోకి
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 
 ::: media
+
 ![](/images/uebung009.webp)
+
 చిత్రం: ⟪ऋग्वेदः⟫
 (చిత్ర మూలం: [వివరాలు](/licenses#uebung009))
+
 :::

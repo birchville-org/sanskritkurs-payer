@@ -1,5 +1,5 @@
 ---
-title: "Lektion 5"
+title: "Õppetund 5"
 subtitle: "Nominaalkomposiitide (samāsa) alused"
 lesson_id: 5
 last_reconstructed: 2026-05-07
@@ -46,11 +46,11 @@ Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 [L44] 2. **or it combines these persons, things, or properties into a unity:**
 Samāhāradvandva ("Zusammenfassungsdvandva") = ⟪समाहारद्वन्द्व⟫
 
-**Im ersten Fall (Itaretaradvandva):**
-[L48] The dvandva receives the grammatical gender of its last member and the endings of the dual (for two things) or the plural (for more than two things). Singular endings are also permissible.
+**Esimesel juhul (Itaretaradvandva):**
+[L48] Dvandva saab oma viimase liikme grammatilise soo ja kaksuse (kahe asja puhul) või mitmuse (enam kui kahe asja puhul) lõpud. Lubatud on ka ainsuse lõpud.
 
-**Im zweiten Fall (Samāhāradvandva):**
-[L51] The dvandva is generally neuter (independent of the gender of the last member) and stands in the singular.
+**Teisel juhul (Samāhāradvandva):**
+[L51] Dvandva on üldjuhul neutraalne (sõltumata viimase liikme soost) ja seisab ainsuses.
 
 **Lahtiseletus:**
 Toimub "ja" (**ca** = ⟪च⟫) abil, aeg-ajalt "või" (**vā** = ⟪वा⟫) või "iga" abil.
@@ -65,19 +65,19 @@ Dualdvandva kohta vaata hiljem!
 
 ### 5.3.2. Plural-Itaretaradvandva
 
-Beispiele für Pluraldvandva:
+Näited mitmuse dvandva kohta:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
+> (braahmanid, kšatrijad, vaišjad ja šuudrad)
 > 
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+> või = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+> ((üks/see) braahman, kšatrija, vaišja ja šuudra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Dichter und Lehrer [Plur.])
-[L76] > (Note: "One poet and one teacher" would have to be in the dual!)
+> (luuletajad ja õpetajad [mitm.])
+[L76] > (Märkus: "Üks luuletaja ja üks õpetaja" peaks olema kaksuses!)
 
 [L78] **Dvandva liikmete järjekorra kohta kehtivad muuhulgas järgmised reeglid:**
 Erinevate seisuste (**varṇa**) nimetused tuleks järjestada vastavalt nende hierarhiale (kõrgeim esimesena).
@@ -114,7 +114,7 @@ Joonis: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **trayī** f. = ⟪त्रयी⟫ : kolmik; eriti kolm Vedat (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** n. = ⟪दण्डनीति⟫ : poliitika (Tatpuruṣa sõnadest daṇḍa m. = "kepp, võim, valitsus, karistus" ja nīti n. = "õige juhtimine").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 

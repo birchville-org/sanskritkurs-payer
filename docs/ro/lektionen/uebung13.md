@@ -121,10 +121,14 @@ Ce mănâncă și beau brahmanii?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung019))
+
 :::
+
 ---
 
 ## Exerciții suplimentare
@@ -136,7 +140,7 @@ B) Transformați propozițiile din exercițiul A) la vocea pasivă
 C) Formați o construcție PPP pentru propozițiile din exercițiul A)
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Rāma merge pe drum spre sat.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -269,7 +273,10 @@ E) Translateți în sanscrită:
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung018))
+
 :::

@@ -65,10 +65,14 @@ Boeddha's en Arhants zijn bevrijd van lijden. Zij hebben namelijk de verlossende
 Door hebzucht, haat en verdorvenheid bederven mensen. Als de tijd gekomen is, vallen zij dan in een hel.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Afb.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Bron afbeelding: [Details](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 De Kṣatriya brengt heldhaftige krijgers uit de grote stad om het dorp van de vijanden te bestrijden.
 
@@ -87,7 +91,7 @@ Zonder Rāma.
 De leer van een heilige leidt tot deugdzaamheid, niet die van een onheilige.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma wacht op Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Het gaat gemakkelijk (gelukkig).
@@ -112,10 +116,14 @@ Als iemand uit hoogmoed, hebzucht, woede of angst een onrechtvaardig vonnis velt
 Helden ontstaan door het kwaad, het kwaad ontstaat uit armoede, armoede ontstaat uit het niet geven.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Afb.: ⟪भवन्ति नरकाः पापात्⟫
 (Bron: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Een dief wordt van de schuld van diefstal bevrijd door bestraffing of door vrijlating. Maar als de koning hem niet bestraft, neemt hij de schuld van de dief op zich.
 
@@ -127,9 +135,13 @@ Een dief wordt van de schuld van diefstal bevrijd door bestraffing of door vrijl
 De economie is nuttig omdat zij graan, vee, goud, metalen en arbeid voortbrengt.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Afb.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Bron afbeelding: [Details](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Daarom hebben de drie wetenschappen de stok (daṇḍa) als basis. De stok, die de basis vormt van goed gedrag, brengt levende wezens verworvenheden en veilig bezit. Goed gedrag is aangeleerd of aangeboren. Activiteit vormt namelijk geschikt materiaal, geen ongeschikt materiaal. Kennis vormt een geest die door gehoorzaamheid, luisteren, onthouden, begrijpen en nadenken tot de waarheid is gekomen, en geen andere. ... Uit het gehoorde ontstaat namelijk inzicht, uit inzicht praktijk, uit praktijk zelfbeheersing; zo beantwoorden de wetenschappen aan hun doel. Kennis en goed gedrag zijn de oorzaak van de overwinning op de zintuigen. Deze is noodzakelijk om wellust, haat, hebzucht, hoogmoed, roes en opwinding af te leggen.

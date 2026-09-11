@@ -31,5 +31,5 @@ title: "Imprint och citera"
 Översättningar: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Erkännande, Dela Lika
 Kod/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
-**Zitierweise für die Übersetzungen:**
-> Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
+**Citeringssätt för översättningarna:**
+> Payer, Alois: Sanskritkurs. Översatt med AI-stöd. Marco Demarmels (red. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

@@ -657,6 +657,7 @@ Paradigmaty: Kielhorn, Grammatik § 153:
 Rys.: ⟪हरिद्वारे गावः ॥⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt6118))
 
+:::
 ### 61.8.1. Zaimki osobowe liczby podwójnej
 
 Kielhorn, Gramatyka § 177:
@@ -746,7 +747,6 @@ Ilustracja: Melodia, odniesiona do dźwięku c, może być transponowana w zale�
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt6119))
 :::
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stanowi początek nauczania muzyki kannarskiej. Zobacz film: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Dostęp 2009-03-05
-:::
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stanowi początek nauczania muzyki kannarskiej. Zobacz film: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Dostęp 2009-03-05
 
 Po tym, jak nauczyłeś się już podstaw sanskrytu, jesteś pewnie podobny do dzieci z filmu: czasem niezgrabny, ale chętny do nauki i ciekawy świata, z radością angażujący się w proces. Zachowaj „umysł początkującego” przez całe swoje życie.

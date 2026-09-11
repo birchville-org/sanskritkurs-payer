@@ -480,6 +480,7 @@ Ilustracja: ⟪द्राघीयो लिङ्गम्⟫
 2. **Tekstologicznie:** błędy w metrum mogą wskazywać, że tekst nie został poprawnie przekazany w danym miejscu. Metrum pomaga dokonywać poprawek tekstu.
 3. **Chronologicznie:** pewne metra przechodziły w trakcie historii określone zmiany. Może to pomóc przy przybliżonym datowaniu tekstu. Zobacz: **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; tenże: Zur Geschichte des Śloka. -- Oba teksty wydane w: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Oprac. Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 tomy. -- (Glasenapp-Stiftung ; ...). -- Tom 2. -- 1967. -- s. 1188 - 1255.
 
+:::
 ::: media
 ![](/images/lekt5304.jpg)
 Ilustracja: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
@@ -493,6 +494,7 @@ Ilustracja: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
 *   **⟪वृत्त⟩ n.:** metra, w których liczba sylab (⟪अक्षर⟩) jest ustalona
 *   **⟪जाति⟩ f.:** metra, w których suma jednostek miary metrycznej (⟪मात्रा⟩) (mora) jest ustalona (o nich później)
 
+:::
 ::: media
 ![](/images/lekt5304.jpg)
 Ilustracja: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩

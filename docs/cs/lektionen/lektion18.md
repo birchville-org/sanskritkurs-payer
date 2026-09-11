@@ -135,6 +135,7 @@ Následující verš shrnuje tyto významy:
 
 Následující verš shrnuje tyto významy:
 
+:::
 ::: indent
 ⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
@@ -240,6 +241,7 @@ sam-kṛ 8 ⟪संस्करोति⟫ : připravit, připravit k oběti, 
 
 *   PPP ⟪संस्कृत⟫ 3: připravený k oběti ; ⟪संस्कृत⟫ n.: sanskrt: jazyk vhodný k oběti ; protiklad ⟪प्राकृत⟫ 3: běžný, obyčejný ; ⟪प्राकृत⟫ n.: běžná řeč, prakrit (označení pro lidové a obchodní jazyky příbuzné sanskrtu)
 
+:::
 ::: media
 ![](/images/lekt1804.webp)
 Obr.: ⟪विवाहः⟫

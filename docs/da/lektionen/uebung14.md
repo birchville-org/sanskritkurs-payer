@@ -69,4 +69,3 @@ Mennesker bliver ikke befriet gennem offer til guderne.
 
 ⟪६⟫. ⟪बलवन्तः क्षत्रियाः शत्रूणां धनवन्ति नगराणि जयन्ति ।⟫
 De magtfulde kṣatriyas erobrer fjendernes rige byer.
-:::

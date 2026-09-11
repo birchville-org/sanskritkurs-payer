@@ -10,10 +10,14 @@ last_reconstructed: 2026-05-15
 # Alıştırma 59
 
 ::: media
+
 ![](/images/uebung098.webp)
+
 Resm.: ⟪रावणः⟫
 (Görsel kaynağı: [Detaylar](/licenses#uebung098))
+
 :::
+
 ---
 
 ## A) Metin Analizi
@@ -86,10 +90,10 @@ Metin kaynağı: Otto Böhtlingk: Sanskrit-Chrestomathie, s. 127f.
 
 > Giyindi, sonra evinden ayrıldı Rāvaṇa'yı görmek için. Kral onu gelirken gördü ve koltuğundan biraz kalktı.
 \>
-> ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
-> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (im Aor. auch P!)  
-> ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
-> ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1
+> ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aorist 5. şahıs  
+> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aorist 2. şahıs P (Aorist'te ayrıca P!)  
+> ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫ Aorist 4. şahıs  
+> ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aorist 1. şahıs
 
 > Oğullu, ona yakınlarda bir altın sandalye göstererek onu memnun etti. Kumbhkarṇa hafifçe gülümsedi ve ardından yakına oturdu.
 \>
@@ -197,7 +201,11 @@ Metin kaynağı: Otto Böhtlingk: Sanskrit-Chrestomathie, s. 127f.
 > ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
 
 ::: media
+
 ![](/images/uebung099.webp)
+
 Abb.: ⟪रामस्य रावणेन युद्धः⟫
+
 (Görsel kaynağı: [Details](/licenses#uebung099))
+
 :::

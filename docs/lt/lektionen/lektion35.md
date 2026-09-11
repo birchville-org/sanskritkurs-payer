@@ -10,6 +10,7 @@ status: stable
 ## 35.1. Perfektas III tipas: Stiprusis kamienas aukštojo laipsnio/pailgintojo laipsnio
 
 ::: grammar-box
+
 **Formavimas:**
 
 **stiprusis kamienas:**
@@ -18,16 +19,23 @@ status: stable
 *   1.sg.P: pagal pasirinkimą aukštojo laipsnio arba pailgintojo laipsnio
 
 **silpnasis kamienas:** žr. pogrupius
+
 :::
+
 ### 35.1.1. Perfektas IIIa tipas: Stiprusis kamienas aukštojo laipsnio/pailgintojo laipsnio, silpnasis kamienas žemojo laipsnio
 
 ::: grammar-box
+
 **Formavimas:**
 
 :::
+
 ::: indent
+
 **silpnasis kamienas:** žemojo laipsnio
+
 :::
+
 Formuojamas iš šiuo tipų šaknų:
 *   (Priebalsis)-(Priebalsis) - i/ī/u/ū
 *   (Priebalsis) - ṛ
@@ -50,20 +58,26 @@ Pavyzdžiai:
 ### 35.1.2. Perfektas IIIb tipas: Stiprusis kamienas aukštojo laipsnio/pailgintojo laipsnio, silpnasis kamienas aukštojo laipsnio
 
 ::: grammar-box
+
 **Formavimas:**
 
 :::
+
 ::: indent
+
 **silpnasis kamienas:** aukštojo laipsnio
+
 :::
+
 Formuojamas iš šiuo tipų šaknų:
 *   (Priebalsis)-(Priebalsis)-ṝ
 *   Priebalsis-Priebalsis-ṛ (t. y. šaknys su -ṛ, jei prieš tai eina keli priebalsiai)
 Pavyzdžiai:
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. Perfektas, IV tipas: šaknys, besibaigiančios -ā / -āi
 
 ::: grammar-box
+
 **Bildung:**
 
 **stiprusis kamienas:**
@@ -75,7 +89,9 @@ Pavyzdžiai:
 *   before vowel: Low grade Ø
 
 Sudaryta iš šaknų su -ā / -āi
+
 :::
+
 Example:
 
 
@@ -86,6 +102,7 @@ Example:
 ## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
 ::: grammar-box
+
 **Bildung:**
 
 **starker Stamm:**
@@ -96,16 +113,23 @@ Example:
 **schwacher Stamm:** siehe Untertypen
 
 Sudaryta iš šaknų tipo (priebalsis)-priebalsis-a-priebalsis
+
 :::
+
 ### 35.3.1. Perfekto Va tipas: silpnasis kamienas, žemasis laipsnis
 
 ::: grammar-box
+
 **Bildung:**
 
 :::
+
 ::: indent
+
 **silpnasis kamienas:** žemasis laipsnis
+
 :::
+
 Sudaryta be kita ko iš šių šaknų:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
@@ -128,13 +152,18 @@ Examples:
 ### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
 
 ::: grammar-box
+
 **Bildung:**
 
 :::
+
 ::: indent
+
 **silpnasis kamienas:** be reduplikacijos. Šaknies -a- pakeičiamas į -e-  
 (paaiškinimą žr. Thumb-Hauschild 1,2 p. 286 ir toliau)
+
 :::
+
 Sudaryta iš šaknų su -a- tarp dviejų paprastų priebalsių, kurių pradinis priebalsis nesikeičia reduplikacijos skiemenyje (t. y. kurių pradinis priebalsis nėra gomurinis, aspirata ar h).
 Example:
 
@@ -145,6 +174,7 @@ Example:
 ### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak stem High grade
 
 ::: grammar-box
+
 **Bildung:**
 
 **weak stem:** High grade
@@ -156,7 +186,9 @@ Sudaryta iš visų kitų šaknų su viduriniu -a-, t. y. šaknų su viduriniu -a
 *   kurios prasideda h
 
 jei jos nepriklauso perfekto Va tipui.
+
 :::
+
 Example:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -166,16 +198,22 @@ Example:
 ## 35.4. Wortliste
 
 ⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+
 ::: indent
+
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
 **Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
+
 :::
+
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
 
 ⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : to stride, to go
+
 ::: indent
+
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
@@ -183,15 +221,23 @@ Example:
 **PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
+
 :::
+
 ::: media
+
 ![](/images/lekt3502.webp)
+
 Fig.: ⟪क्रामन्ति⟫
 People walking, Senegal.
 (Image source: [Details](/lt/licenses#lekt3502))
+
 :::
+
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
+
 ::: indent
+
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
 **Pass. ⟪गीयते⟫** :br
@@ -201,13 +247,19 @@ People walking, Senegal.
 
 thereof:
 **⟪गीता⟫ f.:** song, chant
+
 :::
+
 ::: media
+
 ![](/images/lekt3501.webp)
+
 Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/lt/licenses#lekt3501))
+
 :::
+
 ## 35.5. Exercise
 
 A) Form the corresponding perfect forms for the following verb forms:
@@ -241,12 +293,17 @@ A) Form the corresponding perfect forms for the following verb forms:
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
 29. ⟪मिमति⟫  
+
 ::: media
+
 ![](/images/lekt3503.webp)
+
 Fig.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
 (Image source: [Details](/lt/licenses#lekt3503))
+
 :::
+
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
 32. ⟪अतिष्ठत्⟫
@@ -265,12 +322,15 @@ B) Išverkite:
 ⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
+
 ![](/images/lekt3504.webp)
+
 Pav.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3504))
+
 :::
+
 ⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
 C) Pertvarkykite B pratimo sakinius, pakeisdami perfektus imperfektais.
-

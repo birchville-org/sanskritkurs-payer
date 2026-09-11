@@ -141,10 +141,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Мал.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Джерело зображення: [Деталі](/uk/licenses#uebung004))
+
 :::
+
 ---
 
 ## Повторювальне вправи Урок 6
@@ -419,25 +423,25 @@ devī gurvī.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. \<!--  -→
+
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Ітара — жінка-шудра.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Туладгара — вайш’я.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Магха — поет.
 
 5\. devyumā.
 
@@ -449,7 +453,7 @@ Māgha ist ein Dichter.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Веда — шруті.
 
 7\. dhenurviśati.
 
@@ -598,7 +602,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Мал.: ⟪देवतान्नपूर्णा⟫
 (Джерело зображення: [Деталі](/uk/licenses#uebung005))
+
 :::

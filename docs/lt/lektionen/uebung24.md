@@ -95,6 +95,7 @@ E) Sakinyje B) 6 datyvą pakeiskite konstrukcija su **-⟪अर्थ⟫**:
 
 ---
 
+:::
 ## Papildomi vertimo pratimai
 
 1\. Deivė, kuriai nebuvo aukojama, pyksta ant žmonių.

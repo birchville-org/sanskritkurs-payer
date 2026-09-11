@@ -1,5 +1,5 @@
 ---
-title: "Lektion 58"
+title: "Õppetund 58"
 subtitle: "Duaali (⟪द्विवचनम्⟫) primaarsed lõpud"
 lesson_id: 58
 last_reconstructed: 2026-05-21
@@ -159,6 +159,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाते⟫ |
 
+:::
 ::: grammar-box
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -393,7 +394,7 @@ Tüve moodustamise sufiks + iṣ-aoristi lõpud on seega:
 
 ::: grammar-box
 
-**Form der Wurzel:**
+**Juurvorm:**
 
 *   **Lühikese vokaaliga tüved enne lihtsat konsonanti: kõrge aste P-s ja Ā-s**
 Näited:

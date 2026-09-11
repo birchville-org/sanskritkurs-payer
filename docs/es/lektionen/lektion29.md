@@ -1,6 +1,6 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: Lección 29
+subtitle: "Uso de parasmaipada (⟪परस्मैपद⟫) y ātmanepada (⟪आत्मनेपद⟫) en el causativo"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -12,13 +12,19 @@ status: stable
 ## 29.1. Uso del Parasmaipada (⟪परस्मैपद⟫) y Ātmanepada (⟪आत्मनेपद⟫) en la Causativa
 
 ::: grammar-box
+
 **La Causativa es, con pocas excepciones, Ubhayapada (⟪उभयपद⟫)**
+
 :::
+
 ::: grammar-box
+
 **En la Causativa se utiliza el Ātmanepada (⟪आत्मनेपद⟫):**
 
 **1. Cuando el fruto de la acción causada beneficia al causante:**
+
 :::
+
 Ejemplo:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma hace que se haga una estera para sí (en su propio interés)"
@@ -38,10 +44,13 @@ Las reglas corresponden, por lo tanto, en general a las reglas para el uso del �
 Preposiciones:
 
 ::: indent
+
 ⟪उद्⟫° : sobre, hacia arriba, en alto, hacia fuera, de, extraer-
 
 ⟪परि⟫° : alrededor, por (lugar, tiempo), por ahí
+
 :::
+
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (convertirse alrededor de alguien = rodear =) dominar, vencer; ignorar, menospreciar
 
 ⟪अवज्ञान⟫ n.: menosprecio
@@ -53,12 +62,15 @@ Preposiciones:
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : consumir, devorar
 
 ::: indent
+
 Fut. ⟪ग्रसिष्यते⟫  
 Pás. ⟪ग्रस्यते⟫  
 Caus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
+
 :::
+
 ⟪तीक्ष्ण⟫ 3: "salvaje", agudo, afilado, severo, intenso, mordaz
 
 ⟪न्याय⟫ m.: norma, regla, manera correcta; método, lógica (de ⟪इ⟫ + ⟪नि⟫)
@@ -66,11 +78,15 @@ Inf. ⟪ग्रसितुम्⟫
 ⟪परिव्राजक⟫ m.: vagabundo, monje errante, peregrino
 
 ::: media
+
 ![](/images/lekt2903.webp)
+
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2903))
+
 :::
+
 ⟪पालयति⟫ : también sinónimo con  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indec.: de nuevo, una y otra vez, de vuelta, otra vez; en cambio, pero (antes de sonidos sonoros excepto r-: ⟪पुनर्⟫)
@@ -80,14 +96,22 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: pez
 
 de ello:
+
 ::: indent
+
 ⟪मात्स्य⟫ 3: perteneciente al pez (a los peces)
+
 :::
+
 ::: media
+
 ![](/images/lekt2901.webp)
+
 Fig.: ⟪मत्स्यः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2901))
+
 :::
+
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): suave, benigno, blando; lento, débil
 
 ⟪यथा⟫ Adv.: cómo, como si
@@ -95,12 +119,15 @@ Fig.: ⟪मत्स्यः⟫
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : permanecer quieto, descansar, permanecer; encontrar placer, deleitarse
 
 ::: indent
+
 Fut. ⟪रंस्यते⟫  
 Pás. ⟪रम्यते⟫  
 Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
+
 :::
+
 ⟪वानप्रस्थ⟫ m.: ermitaño del bosque (alguien que se encuentra en el 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: resplandeciente, brillante, fino; m.: pureza
@@ -108,8 +135,11 @@ Inf. ⟪रन्तुम्⟫
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : honrar, venerar
 
 ::: indent
+
 PPP ⟪पूजित⟫
+
 :::
+
 ## 29.3. Ejercicio de traducción para repaso
 
 Traduzca literalmente a un buen alemán y memorice los textos sánscritos:
@@ -137,17 +167,25 @@ Explicación: ⟪आत्मसु⟫ = Loc. sg. de ⟪आत्मन्⟫ m.
 ⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
+
 ::: indent
+
 ⟪चतुर्व⟫⟪र्णाश्रमो⟫ ⟪लोको⟫  
 ⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt2902.jpg)
+
 Fig.: ⟪मात्स्यन्याय⟫:
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2902))
+
 :::
+
 Explicaciones:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "algo (alguien), ante lo cual uno debe temblar"

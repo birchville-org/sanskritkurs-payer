@@ -371,7 +371,7 @@ U-Rishikesh = ⟪ऋषिकेश⟫. "Lokhu ngempela ingxenye ye-Ashram e-Ris
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ f.: umhlaba, isisekelo nomhlabathi
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 

@@ -25,32 +25,41 @@ status: stable
 ⟪बन्ध्⟫ 9P "lier"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
+
 :::
+
 ⟪भाष्⟫ 1Ā "parler"
 
 ::: grammar-box
+
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
+
 :::
+
 ### 60.2.2. Type 2 : racine forte au degré plein, racine faible au degré réduit
 
 ⟪भिद्⟫ 7U "fendre"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
+
 :::
+
 ### 60.2.3. Type 3 : racine forte au degré plein/au degré allongé
 
 #### 60.2.3.1. Type 3a : racine forte au degré plein/au degré allongé, racine faible au degré réduit
@@ -58,46 +67,59 @@ status: stable
 ⟪नी⟫ 1U "conduire"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
+
 :::
+
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) "louer"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
+
 :::
+
 ⟪कृ⟫ 8U (⟪अनिट्⟫) « faire, accomplir »
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
+
 :::
+
 #### 60.2.3.2. Type 3b : Radical fort au degré plein/élongé, radical faible au degré plein
 
 ⟪स्मृ⟫ 1P «rappeler à l'esprit»
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
+
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+
+### 60.2.4. Type 4 : Racines en -ā / -ai
 
 ⟪दा⟫ 3U «donner»
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -105,7 +127,9 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* identique aux formes correspondantes de l'indicatif présent !
+
 :::
+
 ### 60.2.5. Type 5 : Consonne-consonne
 
 #### 60.2.5.1. Type 5a : Consonne-a-Consonne, radical faible au degré profond
@@ -113,63 +137,81 @@ status: stable
 ⟪गम्⟫ 1U «aller»
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
+
 :::
+
 #### 60.2.5.2. Type 5b : Consonne-a-Consonne, consonne initiale non gutturale, aspirée, h, radical faible sans redoublement, avec -e-
 
 ⟪पच्⟫ 1U « garen »
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
+
 :::
+
 #### 60.2.5.3. Type 5c : Consonne-a-Consonne, thème faible au degré fort
 
 ⟪क्रम्⟫ 1U « avancer »
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
+
 :::
+
 ## 60.3. Le duel du parfait périphrastique (⟪anuprayogaliṭ⟫)
 
 ⟪गण्⟫ 10P "compter"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
+
 :::
+
 ⟪आस्⟫ 2Ā "s'asseoir"
 
 ::: grammar-box
+
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
+
 :::
+
 ## 60.4. Le participe ⟪parasmaipada⟫ du parfait redoublé (⟪dvitvaliṭ⟫)
 
 ::: grammar-box
+
 **Formation :**
 
 **radical faible du parfait + vāṃs**
 
 **Si le radical faible du parfait ne consiste qu’en une seule syllabe, une voyelle de liaison -i- est ajoutée. Pour certains parfaits, la voyelle de liaison est facultative.**
+
 :::
+
 Exemples :
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ « quelqu’un qui a fendu » |
@@ -180,6 +222,7 @@ Exemples :
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ « quelqu’un qui est allé » |
 
 ::: grammar-box
+
 **Déclinaison :**
 
 *   **radical fort : -vāṃs**
@@ -194,26 +237,39 @@ Exemples :
 **radical faible devant voyelle + -ī (décliné comme ⟪देवी⟫)**
 
 Exemple : ⟪विदुषी⟫ « une savante »
+
 :::
+
 Voir les paradigmes dans Kielhorn, Grammatik § 124 :
 
 ::: media
+
 ![](/images/lekt6001.webp)
+
 (Source de l’image : [Détails](/fr/licenses#lekt6001))
+
 :::
 
 ::: media
+
 ![](/images/lekt6002.webp)
+
 (Source de l’image : [Détails](/fr/licenses#lekt6002))
+
 :::
+
 ## 60.5. Déclinaison des stems en -añc (-ac)
 
 ::: grammar-box
+
 **Les thèmes en -añc/-ac sont des composés de préfixes verbaux, etc., avec le nom radical de la racine ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "se mouvoir".**
+
 :::
+
 ### 60.5.1. Thèmes à trois syllabes en -añc
 
 ::: grammar-box
+
 **Éducation :**
 
 *   **rad fort : -añc**
@@ -232,18 +288,27 @@ Voir les paradigmes dans Kielhorn, Grammatik § 124 :
 **faible radical devant voyelle + -ī (décliné comme ⟪देवी⟫)**
 
 Exemple : ⟪प्रतीची⟫
+
 :::
+
 ####  Voir les paradigmes dans Kielhorn, Grammaire § 128 :
 
 ::: media
+
 ![](/images/lekt6003.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6003))
+
 :::
 
 ::: media
+
 ![](/images/lekt6004.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6004))
+
 :::
+
 Ici appartiennent :
 
 *   ⟪प्रत्यञ्च्⟫ 3 «en arrière, à l'ouest»
@@ -263,11 +328,14 @@ Ici appartiennent :
 ### 60.5.2. Les tribus à double racine en -añc
 
 ::: grammar-box
+
 **Éducation :**
 
 *   **radical fort : -añc**
 *   **radical faible devant consonne ou voyelle : -ac**
+
 :::
+
 Cela comprend :
 
 *   ⟪प्राञ्च्⟫ 3 «dirigé vers l’avant, oriental»
@@ -284,16 +352,19 @@ Les directions cardinales
 
 (Source de l'image : [Détails](/fr/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. Le désidératif (⟪सन्⟫)
 
 ::: grammar-box
+
 **De chaque racine ainsi que du causatif peut être formé un désidératif (⟪सन्⟫). Le désidératif peut être conjugué à tous les temps et modes du présent, de l’imparfait et du passif. Les formes désidératives en dehors du radical de présent sont cependant très rares.**
 
 **Signification :**
 
 *   **une personne ou une chose souhaite faire ou subir ce qui est exprimé par la racine ou le causatif**
 *   **plus rarement : quelqu’un ou quelque chose est sur le point de faire ce qui est exprimé par la racine ou le causatif**
+
 :::
+
 ####  Exemples :
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ « il souhaite faire » |
@@ -305,6 +376,7 @@ Les directions cardinales
 ### 60.6.1. Formation du radical du desideratif
 
 ::: grammar-box
+
 **Signification :**
 
 **une personne ou une chose souhaite faire ou subir ce qui est exprimé par la racine ou le causatif**
@@ -318,8 +390,11 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
 **Racines de la 10\<sup\>e\</sup\> classe de présent et causatifs :**
 
 **prétérit redoublé + i + ṣa**
+
 :::
+
 ::: grammar-box
+
 **Form de la racine :**
 
 1.  La racine est le plus souvent au niveau inférieur : ⟪जीव्⟫ » ⟪जिजीविष⟫-
@@ -355,40 +430,59 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
 
         2.  optionnel : Racines de la forme Consonne - (Consonne -) i/u - Consonne sauf -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- « vouloir étinceler »
+
 :::
+
 ::: grammar-box
+
 **Sur la redoublement :**
 
 1.  Racines à consonne initiale : La reduplication s'effectue sur les racines modifiées selon les règles ci-dessus, selon les règles habituelles. Au lieu de a comme voyelle de reduplication, i apparaît :  
+
 :::
+
 ::: indent
+
 ⟪पा⟫ » ⟪पिपास⟫-
 ⟪त्यज्⟫ » ⟪तित्यज⟫-
 ⟪चुर्⟫ » ⟪चुचोरयिष⟫-
 La cérébralisation après i/u de la consonne finale -s de la racine est absente lorsque le s du suffixe desideratif est cérébralisé :
 ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+
 :::
 
 2.  Les racines commençant par une voyelle sont redoublées selon les règles correspondantes pour l’aoriste redoublé ([Leçon 56](lektion56.md)) :  
+
 ::: indent
+
 ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
 ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
 ⟪ऋ⟫ » ⟪अरिरिष⟫-
+
 :::
 
 3.  La formation spéciale du desideratif de certaines racines, voir Kielhorn, Grammaire § 451.
+
 ::: grammar-box
+
 **Pour certaines racines, les désidératifs sont formés sans signification désidérative. À ces désidératifs peuvent être formés des désidératifs avec une signification désidérative.**
+
 :::
+
 Voir la liste chez Kielhorn, Grammatik § 452 :
 
 ::: media
+
 ![](/images/lekt6006.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6006))
+
 :::
+
 ### 60.6.2. Conjugaison du désidératif (⟪सन्⟫)
 
 ::: grammar-box
+
 **De chaque racine ainsi que du causatif peut être formé un désidératif (⟪सन्⟫). Le désidératif peut être conjugué à tous les temps et modes du présent, de l’imparfait et du passif. Les formes désidératives en dehors du radical de présent sont cependant très rares.**
 
 **Signification :**
@@ -396,26 +490,39 @@ Voir la liste chez Kielhorn, Grammatik § 452 :
 ⟪यज्⟫ 1U:
 
 :::
+
 ::: indent
+
 P : ⟪यियक्षति⟫ « il souhaite sacrifier pour autrui »
 Ā : ⟪यियक्षते⟫ « il souhaite sacrifier pour lui-même (en tant que maître de l’offrande) »
 Passif : ⟪यियक्ष्यते⟫ « on souhaite sacrifier »
+
 :::
+
 **une personne ou une chose souhaite faire ou subir ce qui est exprimé par la racine ou le causatif**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ « il souhaitait obtenir »
+
 :::
+
 **Aorist: iṣ-Aorist:**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
+
 :::
+
 **Futur : ⟪सेट्⟫**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
+
 :::
+
 Pour la formation des noms d'agent en -u à partir du thème du desideratif, voir [Leçon 54](lektion54.md).
 
 ## 60.7. Exercice
@@ -423,19 +530,29 @@ Pour la formation des noms d'agent en -u à partir du thème du desideratif, voi
 A) Étudiez dans Kielhorn, Grammatik § 451 les formations irrégulières du desideratif pour les verbes appris jusqu'à présent :
 
 ::: media
+
 ![](/images/lekt6007.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6007))
+
 :::
 
 ::: media
+
 ![](/images/lekt6008.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6008))
+
 :::
 
 ::: media
+
 ![](/images/lekt6009.webp)
+
 (Source de l'image : [Détails](/fr/licenses#lekt6009))
+
 :::
+
 B) Déterminez et traduisez sans aide les formes suivantes :
 
 1.  ⟪ददुषोः⟫
@@ -541,4 +658,3 @@ B) Déterminez et traduisez sans aide les formes suivantes :
 51.  ⟪अवाचः⟫
 
 52.  ⟪ईयुषे⟫
-

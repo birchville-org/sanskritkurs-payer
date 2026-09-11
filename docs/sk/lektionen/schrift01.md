@@ -30,7 +30,7 @@ Pri písaní sa každý písmeno vrátane vodorovnej čiary na hornej línii dok
 
 ## Cvičenie
 
-Schreiben Sie in Devanāgarī:
+Napíšte v dévanágarí:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Prečítajte a transliterujte:
 Ďalšia čítacia cvičnosť:
 
 ⟪पिता⟫ otec, ⟪कपि⟫ opica, ⟪कृत⟫ urobil,  ⟪टीका⟫ podkomentár, ⟪तत्⟫ tento, ⟪तट⟫ breh, ⟪पत्⟫ vystreliť, ⟪पट⟫ tkanina, ⟪काच⟫ sklo,  ⟪काकुत्⟫ podnebie, ⟪चित्⟫ vnímať, ⟪पृच्⟫ miešať,  ⟪पोटक⟫ sluha, ⟪चेतु⟫ úmysel, ⟪तौतातित⟫ stúpenec Kumārilu (Mīmāṃsā), ⟪तूत⟫ moruša, ⟪पीत⟫ vypil,  ⟪पीति⟫ nápoj, ⟪कॢप्⟫  prislúchať, ⟪कृपते⟫ on lamentuje, ⟪पुटी⟫ záhyb, ⟪चापि⟫ podobne, ⟪तोक⟫ potomstvo, ⟪तृपत्⟫ nasýtený, ⟪पॄ⟫ naplniť, ⟪कृकाटी⟫ krčný kĺb, ⟪पूपौ⟫ dva koláče, ⟪पैतृकी⟫ otcovský (ženský rod), ⟪कौट⟫ podvodný, ⟪कच⟫ vlasy na hlave, ⟪कुतपे⟫ na kôrovej deke, ⟪कुचौ⟫ prsia, ⟪चकिता⟫ vystrašený (ženský rod)
-
-

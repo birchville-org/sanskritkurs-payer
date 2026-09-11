@@ -42,7 +42,6 @@ Ilustracja: ⟪तब्लाः⟫
 ---
 
 ## B) Wortbestimmungen
-:::
 ---
 
 ## B) Określanie form słowotwórczych i gramatycznych

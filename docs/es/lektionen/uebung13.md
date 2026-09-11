@@ -121,10 +121,14 @@ Los sabios védicos ven que el demonio de ninguna manera triunfa.
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung019))
+
 :::
+
 --- \<!--  --\>
 
 ## Ejercicios adicionales
@@ -136,7 +140,7 @@ B) Convierta las oraciones del Ejercicio A) a voz pasiva
 C) Forme una construcción de Participio de Pasado Pasivo (PPP) para las oraciones del Ejercicio A)
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Rāma va al pueblo por el camino.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -269,8 +273,12 @@ E) Traduzca al sánscrito:
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung018))
+
 ::: \<!--  --\>
+
 :::

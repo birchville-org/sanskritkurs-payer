@@ -86,7 +86,7 @@ anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 cách)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -98,7 +98,7 @@ brāhmaṇenāgniḥ kriyate.
 
 ⟪ब्राह्मणेनाग्निः क्रियते ।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 Möglichkeiten)
+11. vaiśyā imaṃ grāmaṃ gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 cách)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
@@ -112,7 +112,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-Sie hören aber auf ihre Meister.
+Nhưng họ nghe lời thầy của mình.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः स्वर्गमाप्नोति⟫
 
@@ -317,7 +317,10 @@ Hari trở về nhà.
 Người lái xe điều khiển cỗ xe.
 
 ::: media
+
 ![](/images/uebung012.webp)
+
 Hình: ⟪सारथी रथं नयति⟫
 (Nguồn ảnh: [Chi tiết](/licenses#uebung012))
+
 :::

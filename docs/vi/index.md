@@ -31,5 +31,5 @@ Các ngôn ngữ đã được dịch hoàn toàn tự động từ tiếng Đ�
 **Tham gia với tư cách Biên tập viên hoặc Người bảo quản**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Wiki & Kiến trúc dành cho nhà phát triển**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Phiên bản hiện tại**: v1.8.3
+**Phiên bản hiện tại**: v1.8.4
 :::

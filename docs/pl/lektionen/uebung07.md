@@ -161,7 +161,7 @@ Oni idą do nieba i piekła.
 
 Oni jednak słuchają mistrzów.
 
-3\. Śūdras erlangen einen Himmel.
+3\. Śudrowie osiągają niebo.
 
 śūdrāḥ svargam āpnuvanti.
 
@@ -179,13 +179,13 @@ vaiśyā devatā yajante.
 
 ⟪वैश्या देवता यजन्ते ।⟫
 
-6\. Der HERR zürnt.
+6\. PAN się gniewa.
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Według Kauṭilīya-arthaṣāstra 1.3.3.) Wyjaśnienie: chando = mianownik, biernik liczby pojedynczej od chandas n.)
 
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
@@ -203,7 +203,7 @@ ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं साधुः किं खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+10\. Co oni (tutaj) wyciskają?
 
 ete kiṃ sunvanti / sunvate?
 
@@ -216,8 +216,12 @@ sa guruḥ. enaṃ śṛṇvanti.
 ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 ::: media
+
 ![](/images/uebung006.jpg)
+
 Abb.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
+
 (Image source: [Details](/licenses#uebung006))
+
 :::
 

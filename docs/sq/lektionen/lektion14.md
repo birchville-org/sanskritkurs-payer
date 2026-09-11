@@ -13,8 +13,11 @@ status: stable
 ## 14.1. Shprehja e marrëdhënies së të shënuarit nga emrat: Gjenitivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = rasti i gjashtë)
 
 ::: grammar-box
+
 Nëse dëshirohet të shprehet marrëdhënia e treguar nga dy emra, përdoret gjenitivi (ṣaṣṭhī f. "rasti i gjashtë"). Gjenitivi dallon nga të gjithë rastët e tjerë me faktin se -- përveç disa përjashtimeve -- nuk shërben për përcaktimin më të afërt të veprimit të shprehur nga verbi, por për shprehjen e marrëdhënies midis personave ose gjërave të treguara nga emrat. Shpesh gjenitivi përgjigjet në pyetjen: Cujt?
+
 :::
+
 Shembuj:
 
 ⟪कवेः पुत्रः⟫ "Bir i poetit"
@@ -26,13 +29,17 @@ Shembuj:
 ⟪रामस्य कृतम्⟫ "Vepra e Rāmas"
 
 ::: grammar-box
+
 Renditja normale e fjalëve është:
 
 > **Fjala përcaktuese në Gjenitiv — Emri i mëtejshëm në një rast tjetër**
+
 :::
+
 **Gjenitivi dhe PPP:**
 
 ::: grammar-box
+
 Në rastin e PPP-ve, gjenitivi mund të zëvendësojë instrumentalin (tṛtīyā) për agjentin (kartṛ); Në konstrukcionin me instrumentalin, PPP-ja konsiderohet si formë verbale pasive (ajo që është në instrumentalin tregon agjentin), ndërsa në konstrukcionin me gjenitiv, PPP-ja konsiderohet si emër ose mbiemër (pra ajo që është në gjenitiv nuk konsiderohet vërtet si agjent).
 
 Sipas Pāṇinit 2.3.67, në rastin e PPP-së, gjenitivi përdoret kur PPP-ja ka kuptim prezentik (shih më sipër), ndërsa instrumentali përdoret kur PPP-ja ka kuptim të kaluar:
@@ -42,7 +49,9 @@ Sipas Pāṇinit 2.3.67, në rastin e PPP-së, gjenitivi përdoret kur PPP-ja ka
 > ⟪रामेणेष्टं फलम्⟫ "Fruti që Rāma kishte dëshiruar"
 
 Natyrisht, kur një PPP Neutër Singular përdoret si abstrakt verbal — pra si emër — gjendet në raste gjenitive.
+
 :::
+
 ## 14.2. Formimi i formave gjenitive (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Gjenitivi formohet te rrënjët verbale me ndryshim steme nga forma e dobët.
@@ -56,6 +65,7 @@ Pas konsonantit, përfundimet rregulltare gjenitive janë:
 * Plural: **-ām**
 
 :::
+
 ::: center
 
 | Emër steme | Forma e dobët | Gjenitiv Singular | Gjenitiv Plural |
@@ -64,6 +74,7 @@ Pas konsonantit, përfundimet rregulltare gjenitive janë:
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
+
 **Gjenitivi i emrave me përfundim vokalik, përveç emrave rrënjorë njëzjarësh dhe atyre me përfundim diphthongik:**
 
 **Plurali:**
@@ -75,6 +86,7 @@ Gjenitivi plural i emrave me përfundim vokalik formohet kështu:
 > **-vokali i gjatë përfundimtar i stemes + -nām**
 
 :::
+
 ::: center
 
 | Emër steme | Gjenitiv Plural |
@@ -89,6 +101,7 @@ Gjenitivi plural i emrave me përfundim vokalik formohet kështu:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
+
 **Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor:**
 
 ::: grammar-box
@@ -96,6 +109,7 @@ Gjenitivi plural i emrave me përfundim vokalik formohet kështu:
 Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyrë të parregullt dhe duhet mësuar me shpirt.
 
 :::
+
 ::: center
 
 | Rrënja | Gjenitiv Singular |
@@ -110,6 +124,7 @@ Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyr
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.m.th. ose si paśu ose si feminozet shumësyllabe me -ū) |
 
 :::
+
 **Pronoma pyetëse dhe demonstrative:**
 
 ::: center
@@ -122,6 +137,7 @@ Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyr
 | | **Gjenitiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
+
 **Barazia e formës:**
 
 ::: important
@@ -131,9 +147,11 @@ Në të gjitha rrënjët emërore përjashtojtë maskulinet dhe neutrat me -a si
 Vinihëroni se te në rastin e rrënjeve që përfundojnë me bashkëtingëllore, ablativi dhe gjenerativi i vetjës janë të njëjtë me akuzativin e shumjes për mashkullore dhe femërore!
 
 :::
+
 ## 14.3. Më shumë rreth përdorimit të gjenerativit (⟪षष्ठी⟫)
 
 ::: grammar-box
+
 Përtej rregullit të përgjithshëm më sipër, gjenerativi përdoret për të shprehur objektin e disa foljeve, p.sh. te foljet e kujtesës:
 
 > ⟪देवानां स्मरति⟫ "Ai kujton perënditë"
@@ -143,7 +161,9 @@ Megjithatë, te të gjitha këto folje objekti mund të qëndrojë edhe në akuz
 > ⟪देवान्स्मरति⟫ "Ai kujton perënditë"
 
 Më shumë më vonë.
+
 :::
+
 ## 14.4. Fjalor
 
 * **śīla n.** (⟪शील⟫) : karakter i mirë, moral
@@ -151,10 +171,14 @@ Më shumë më vonë.
 * **dīpa m.** (⟪दीप⟫) : llambë
 
 ::: media
+
 ![](/images/lekt1405.webp)
+
 Fig.: ⟪दीपाः⟫
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt1405))
+
 :::
+
 * **bala n.** (⟪बल⟫) : dhunë, forcë, fuqi; ushtri, trup
 * **bāla 3** (⟪बाल⟫) : i ri, fëmijëror, budalla; m. djalosh
 * **bālā f.** (⟪बाला⟫) : vajzë e re
@@ -190,22 +214,30 @@ Përktheni thënitë e mëposhtme dhe m'i merrni mend:
 ⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
+
 ![](/images/lekt1404.webp)
+
 Fig.: ⟪पुत्रवती⟫
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt1404))
+
 :::
+
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 kuptime)
 
 ⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
+
 ![](/images/lekt1403.webp)
+
 Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt1403))
-:::
-**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+
+**B) Përkthe:**
+
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 mundësi)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -232,7 +264,10 @@ Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
+
 ![](/images/lekt1402.webp)
+
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt1402))
+
 :::

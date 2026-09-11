@@ -216,4 +216,3 @@ D) From which sound combinations could the following Sandhi forms have arisen? P
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
-:::

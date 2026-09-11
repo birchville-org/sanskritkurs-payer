@@ -30,7 +30,7 @@ Yazarken, her harf üst çizgi dahil olmak üzere tamamlanmadan önce bir sonrak
 
 ## Alıştırma
 
-Schreiben Sie in Devanāgarī:
+Devanāgarī'de yazın:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Okuyun ve transkribe edin:
 Ek okuma alıştırması:
 
 ⟪पिता⟫ baba, ⟪कपि⟫ maymun, ⟪कृत⟫ yaptı,  ⟪टीका⟫ alt yorum, ⟪तत्⟫ bu, ⟪तट⟫ kıyı, ⟪पत्⟫ fırlatmak, ⟪पट⟫ doku, ⟪काच⟫ cam,  ⟪काकुत्⟫ damak, ⟪चित्⟫ algılamak, ⟪पृच्⟫ karıştırmak,  ⟪पोटक⟫ köle, ⟪चेतु⟫ amaç, ⟪तौतातित⟫ Kumārila taraftarı (Mīmāṃsā), ⟪तूत⟫ dut ağacı, ⟪पीत⟫ içti,  ⟪पीति⟫ içecek, ⟪कॢप्⟫ uymak, ⟪कृपते⟫ o ağlar, ⟪पुटी⟫ kırışıklık, ⟪चापि⟫ benzeri, ⟪तोक⟫ soy, ⟪तृपत्⟫ tok, ⟪पॄ⟫ doldurmak, ⟪कृकाटी⟫ boyun eklemi, ⟪पूपौ⟫ iki kek, ⟪पैतृकी⟫ babasından (dişil), ⟪कौट⟫ hilekar, ⟪कच⟫ baş saçı, ⟪कुतपे⟫ keçi kılı battaniyenin üzerinde, ⟪कुचौ⟫ göğüs, ⟪चकिता⟫ korkmuş (dişil)
-
-

@@ -95,7 +95,7 @@ status: stable
 
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. ርእስ፡ ሓደ ወብዝኁ ወመጠየቅያት ወመራሕያት
 
 ::: grammar-box
 
@@ -162,11 +162,11 @@ status: stable
 
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. እምነገረ ግብረ ተባዕታይ ወአንስታይ (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 
-**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.**
+**በነገረ ግብረ ተባዕታይ ወአንስታይ፡ አርአያት ለርእስ (prathamā) ወለርእስ (dvitīyā) ፩ እሙንቱ።**
 
 :::
 
@@ -235,14 +235,14 @@ status: stable
 
 **እዞም ዝስዕቡ ቃላት ተማሃሩ:**
 
-**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : erreichen, gelangen zu, erlangen
-**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : erreichen, erlangen
-**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : zürnen
-**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : zürnen
-**khād** 1 P (khādati) ⟪खाद् खादति⟫ : kauen, essen
-**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-**su** 5 U (sunoti) ⟪सु सुनोति⟫ : auspressen
-**soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : በጽሐ፡ በጽሐ፡ ረከበ
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : በጽሐ፡ ረከበ
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : ተምዐ
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : ተምዐ
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : በልዐ፡ አምሰለ
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : ሰምዐ (ነገር፡ ርእስ፤ ሰብእ፡ ዘመድ ወርእስ፤ በእንተ፡ ርእስ፤ እምሰብእ፡ ዘመድ፡ እምነ፡ መሣርያ)
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : ጸመቀ
+**soma** m. ⟪सोम⟫ : ጸማቂ፡ ሶማ፤ ወርኅ (እምአየ ገጸ ዕፅ ሶማ ተጸምቀ፡ እስከ ዮም ይትሐተት)።
 
 ::: media
 
@@ -250,7 +250,7 @@ status: stable
 
 ስእሊ: እዚ ድዩ እቲ ቬዳዊ ሶማ ዕምባባ ነይሩ?: እንጉዳይ: *Amanita muscaria* (L.) Lam.
 
-[LN] (Bildquelle: [Details](/gez/licenses#lekt0701))
+[LN] (ምንጭ ምስሊ: [Details](/gez/licenses#lekt0701))
 
 :::
 

@@ -143,42 +143,41 @@ Siehe später zu dieser sogenannten Stammabstufung!
 
 z.B.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "ኢተራ ሰበአዊት እምሡድራ" = ⟪शूद्रेतरा⟫
 
-
-## 3.5. Satzsandhi von -ās
+## 3.5. ቃል ኅብረት ዘ-ās
 
 ::: grammar-box
 
-**-āḥ wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-āḥ ቅድመ ኵሉ ቃላት ርቱዓት ይትለዋወጥ በ-ā።**
 
 :::
 
 z.B.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "ወይስያስ እሙንቱ ድዊጃስ" = ⟪द्विजा वैश्याः⟫
 
 
 ## 3.6. Wortliste
 
 **እነዚህን ቃላት ተማሩ፡**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**śruti** አን. = ⟪श्रुति⟫ ፡ ስምዐት፡ ትውፊት ዘለዓለም (ስም ለቬዳስ ወብራህማናስ)።
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-2. **chandas** n. (⟪छन्दस्⟫): Metrum
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-**dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-die **purāṇa** n. (⟪पुराण⟫)
-**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**smṛti** አን. = ⟪स्मृति⟫ ፡ መዘከር፡ ትዝታ፡ መዘከር በጸሎት = ትኩረት፡ ትውፊት (ተቃራኒ ለ**śruti**). ያካትታል፡
+ስድስቱ **vedāṅga** ተባ. (⟪वेदाङ्ग⟫)
+1. **śikṣā** አን. (⟪शिक्षा⟫)፡ ቅን አነባበብ
+2. **chandas** ተባ. (⟪छन्दस्⟫)፡ ግጥም
+3. **vyākaraṇa** ተባ. (⟪व्याकरण⟫)፡ ሰዋስው
+4. **nirukta** ተባ. (⟪निरुक्त⟫) ፡ ትርጓሜ ቃል፡ ሥርወ ቃል
+5. **jyotiṣa** ተባ. (⟪ज्योतिष⟫) ፡ ከዋክብት፡ የዘመን አቆጣጠር
+6. **kalpa** ተባ. (⟪कल्प⟫) ፡ ሥርዓተ አምልኮ
+**śrautasūtra** ተባ. (⟪श्रौतसूत्र⟫) ፡ መጻሕፍት ለታላላቅ መሥዋዕቶች
+**gṛhyasūtra** ተባ. (⟪गृह्यसूत्र⟫) ፡ መጻሕፍት ለዕለታዊ ሥርዓቶች ወመሥዋዕቶች
+**dharmasūtra** ተባ. (⟪धर्मसूत्र⟫) ወ**dharmaśāstra** ተባ. (⟪धर्मशास्त्र⟫) ፡ መጻሕፍት ስለ ሕግ ወሥርዓት (ቅን ምግባር)
+ታላላቅ ድርሰቶች **mahābhārata** ተባ. (⟪महाभारत⟫) ወ**rāmāyaṇa** ተባ. (⟪रामायण⟫)
+**purāṇa** ተባ. (⟪पुराण⟫)
+**nītiśāstra** ተባ. (⟪नीतिशास्त्र⟫) ፡ መጻሕፍት ስለ ጥበብ ሕይወት
 
 **smṛti** ፡ በተለይ የሕግ ትምህርቶች ስያሜ ነው።
 
@@ -196,7 +195,7 @@ die **purāṇa** n. (⟪पुराण⟫)
 
 ![](/images/lekt0303.webp)
 
-Abb.: ዱርጋ = ⟪दुर्गा⟫, ኦሪስሳ
+ስዕሊ: ዱርጋ = ⟪दुर्गा⟫, ኦሪስሳ
 
 (የምስል ምንጭ: [ዝርዝሮች](/images/lekt0303))
 
@@ -240,7 +239,7 @@ Abb.: ዱርጋ = ⟪दुर्गा⟫, ኦሪስሳ
 4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
 5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:**
+**ሐ) ለሴት ጾታ ለውጥ፡**
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
@@ -248,10 +247,10 @@ Abb.: ዱርጋ = ⟪दुर्गा⟫, ኦሪስሳ
 
 **መ) ወደ ሳንስክሪት ተርጉሙ፡**
 
-1. Umā ist eine Göttin.
-2. Der Veda ist śruti.
-3. Die Lehrerinnen sind Göttinnen.
-4. Milchkühe sind domestizierte Tiere.
-5. Dichter sind Lehrer.
-6. Kṣatriyas sind Zweimalgeborene.
-7. Die heiligen Männer sind Śūdras.
+1. ኡማ አምላክ ናት።
+2. ቬዳ ስሩቲ ነው።
+3. መምህራን አምላኮች ናቸው።
+4. ላሞች የቤት እንስሳት ናቸው።
+5. ገጣሚዎች መምህራን ናቸው።
+6. ክሻትሪያስ ድዊጃስ ናቸው።
+7. ቅዱሳን ሰዎች ሹድራስ ናቸው።

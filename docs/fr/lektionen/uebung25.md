@@ -64,10 +64,14 @@ Les Bouddhas et les Arhants sont libérés de la souffrance. Ils ont atteint la 
 Par l'avidité, la haine et l'obscurité, les gens se perdent. Lorsque le temps est venu, ils tombent alors dans un enfer.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig. : ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Le Kṣatriya amène des guerriers héroïques de la grande ville pour combattre le village des ennemis.
 
@@ -87,7 +91,7 @@ Ohne Rāma.
 L'enseignement d'un saint profite à la vertu, pas celui d'un impie.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma attend Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 Cela se passe facilement (avec bonheur).
@@ -115,10 +119,14 @@ Si quelqu'un, par orgueil, cupidité, colère ou peur, rend un faux jugement, il
 Les enfers naissent du mal, le mal naît de la pauvreté, la pauvreté naît du non-don.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig. : ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un voleur est libéré de la dette de vol par le châtiment ou par la libération. Mais si le roi ne le punit pas, il assume la dette du voleur.
@@ -131,9 +139,13 @@ Un voleur est libéré de la dette de vol par le châtiment ou par la libératio
 L'économie est utile car elle produit du grain, du bétail, de l'or, des métaux et du travail.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig. : ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Source de l'image : [Détails](/fr/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 C'est pourquoi les trois sciences ont le bâton (daṇḍa) pour fondement. Le bâton, qui est le fondement d'une bonne conduite, procure aux êtres vivants la subsistance et une possession sûre. La bonne conduite est acquise par l'effort ou innée. L'activité éduque en effet une matière appropriée, non inappropriée. La science éduque un esprit qui, par l'obéissance, l'écoute, l'expérimentation, la compréhension et la réflexion, est parvenu à la vérité, non un autre. ... De l'ouïe naît la connaissance, de la connaissance la pratique, de la pratique l'autorité ; ainsi les sciences répondent à leur but. La connaissance et la bonne conduite sont la cause de la victoire sur les sens. Celle-ci est nécessaire pour se débarrasser de la luxure, de la haine, de l'avidité, de l'orgueil, de l'ivresse et de l'excitation.

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 49"
+title: "49. õppetund"
 subtitle: "Atemaatiliste olevikuvormide imperatiivi (⟪लोट्⟫) moodustamine (järg)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
@@ -161,7 +161,7 @@ The 2.sg. imperative ending is zero for roots of the fifth and eighth classes, w
 
 :::
 
-#### Maskulina (⟪पुंस्⟫) und Feminina (⟪स्त्री⟫)
+#### Meessugu (⟪पुंस्⟫) ja naissugu (⟪स्त्री⟫)
 
 Enamik juhtumeid on ⟪बहुव्रीहि⟫ -s-tüvega (algselt neutrum) tagumises osas.
 
@@ -322,7 +322,7 @@ Joonis: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪वर⟫ m.n.: Wunsch
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ muutumatu: ja, ka, või
 
 ⟪विहंग⟫ m.: lind ("õhuruumi - ⟪विह⟫ - minev")
 

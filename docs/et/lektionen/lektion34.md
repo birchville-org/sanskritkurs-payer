@@ -1,5 +1,5 @@
 ---
-title: "Lektion 34"
+title: "34. õppetund"
 lesson_id: 34
 status: stable
 
@@ -85,7 +85,7 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 **Diftongid enne konsonanti redutseeritakse vastavaks lühikeseks madala astme vokaaliks.**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+**ṛ, ṝ, ḷ ja lõpus olevad diftongid reduplitseeritakse -a- abil.**
 
 :::
 
@@ -247,7 +247,7 @@ Rice field in India.
 
 :::
 
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** kui kaua, kui suur
 
 **⟪तावत्⟫ :** so lange, so gross
 
@@ -334,7 +334,6 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** Mädchen, Jungfrau
 
-:::
 
 **⟪निकेतन⟫ n.:** Wohnstatt, Tempel
 
@@ -365,7 +364,6 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** Mädchen, Jungfrau
 
-:::
 
 **⟪निकेतन⟫ n.:** Wohnstatt, Tempel
 

@@ -93,7 +93,7 @@ Isibonelo:
 
 :::
 
-## 33.2. Iqembu lesithathu le-Präsens (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ njll.")
+## 33.2. Iqembu lesithathu le-isikhathi esiyimanje (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ njll.")
 
 ::: grammar-box
 
@@ -136,8 +136,8 @@ Izibonelo:
 
 ## 33.3. Ngokwe-Ablaut ka-ā
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
-ā kann
-## 33.3. Zum Ablaut von ā
+ā kungaba
+## 33.3. Ngokuphathelene ne-Ablaut ka-ā
 
 * ngakwesokudla kungaba yisigaba esiphezulu kwisigaba se-Ablaut se-ā
 
@@ -175,7 +175,6 @@ isib. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 * **Izinga eliphakeme: -ā-**
   z.B. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
-:::
 
 Lokhu kufaka phakathi, isibonelo:
 
@@ -214,7 +213,7 @@ Izibonelo:
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **Indikativ isikhathi esiyimanje** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
 | **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 
@@ -226,7 +225,7 @@ Izibonelo:
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Indikativ isikhathi esiyimanje** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Lo mqulu ⟪हा⟫ unefomu elifanayo ngaphambi kwe-Optativ-yā/y njengoba kunamavumelwano!) | ⟪जह्युर्⟫:brjah-y-ur |
 
@@ -248,7 +247,7 @@ Izibonelo:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Incazelo: Thumb-Hauschild 1,1 iph. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Indikativ isikhathi esiyimanje** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Incazelo: Thumb-Hauschild 1,1 iph. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 
@@ -262,13 +261,13 @@ Izimo zika- ⟪दा⟫ zitholakala ngokuthi kwi-paradigma ka- ⟪धा⟫ **d
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Indikativ isikhathi esiyimanje** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 
 :::
 
-## 33.5. I-Participle Yamanje ye-Parasmaipada Yemithetho Yekelasini Yesi-3 Yama-Präsens
+## 33.5. I-Participle Yamanje ye-Parasmaipada Yemithetho Yekelasini Yesi-3 Yama-isikhathi esiyimanje
 
 ::: grammar-box
 
@@ -341,7 +340,7 @@ Umfanekiso: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫
 
 :::
 
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ukubeka, ukumisa, ukwabela
 
 ::: indent
 
@@ -520,7 +519,7 @@ A) Faka amafomu afanele ezinhlamvu ezikuboshwe ngaphakathi kwisakhiwo sesitatime
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने बहुवचने च⟫) ... ⟪अन्नं ददाति ।⟫ (⟪भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु⟫)
 
-B) Faka amafomu afanele ezinhlamvu ezikuboshwe ngaphakathi ezibekiwe nge-Indikativ Präsens, Imperfekt kanye ne-Optativ:
+B) Faka amafomu afanele ezinhlamvu ezikuboshwe ngaphakathi ezibekiwe nge-Indikativ isikhathi esiyimanje, Imperfekt kanye ne-Optativ:
 
 ⟪ब्राह्मणो घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥ बुद्धगता भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥ सुगतः कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥ दुर्जना भिक्षुभ्यो ऽन्नं न⟫ ... (⟪दा⟫) ⟪॥४॥ साधुः कृष्णे मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 

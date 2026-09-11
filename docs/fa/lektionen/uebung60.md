@@ -116,4 +116,4 @@ last_reconstructed: 2026-05-15
 
 ۵۲. ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ Part.Perf.P مربوط به ⟪इ⟫ 2P Dat.sg.m.n. کسی که رفته است
 
-ENDE DER ÜBUNGEN
+پایان تمرینات

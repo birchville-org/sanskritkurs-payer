@@ -183,7 +183,7 @@ Umfanekiso: ⟪भरन्तौ⟫
 
 :::
 
-**Stämme auf -mant/-vant**
+**Iziqu eziphela ngo--mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "Vieh besitzend"
 
@@ -311,7 +311,7 @@ Isith.: ⟪फले⟫
 
 :::
 
-**Stämme auf -u**
+**Iziqu eziphela ngo--u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -337,7 +337,7 @@ Umfanekiso: ⟪धेनू⟫
 
 :::
 
-**Stämme auf -ā**
+**Iziqu eziphela ngo--ā**
 
 ⟪कन्या⟫ f. "Mädchen"
 
@@ -351,7 +351,7 @@ Umfanekiso: ⟪धेनू⟫
 
 :::
 
-**Mehrsilbige Stämme auf -ī**
+**Iziqu ezinamalunga amaningi eziphela ngo--ī**
 
 ⟪देवी⟫ f. "Göttin"
 
@@ -365,7 +365,7 @@ Umfanekiso: ⟪धेनू⟫
 
 :::
 
-**Stämme auf -ṛ**
+**Iziqu eziphela ngo--ṛ**
 
 ⟪दातृ⟫ 3 "Geber"
 
@@ -412,7 +412,7 @@ Izibonelo:
 
 ::: indent
 
-⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Umama nobaba"
 
 :::
 
@@ -420,7 +420,7 @@ Izibonelo:
 
 ::: indent
 
-⟪पितापुत्रौ⟫ "Vater und Sohn"
+⟪पितापुत्रौ⟫ "Ubaba nendodana"
 
 :::
 
@@ -501,7 +501,7 @@ Izichasiso zezabizwana ezilandelayo ziyahlukaniswa njengo-⟪सर्व⟫. Ku
 
 **Ngenkathi izijobelelo ze-⟪तद्धित⟫ -⟪तर⟫ kanye ne -⟪तम⟫ zihambisana nesiqu sobunye besilisa sesiphawulo, izijobelelo -⟪ईयस्⟫ kanye ne -⟪इष्ठ⟫ zihlanganiswa nempande lapho isiphawulo sithathwe khona (uma ikhona impande enjalo!). Unkamisa wempande usezingeni eliphezulu.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.**
+**Izichasiso eziphakeme kakhulu eziphela ngo--iṣṭha (Isifazane: iṣṭhā) zihlelwa njengeziqu zika-a- noma zika-ā-.**
 
 **Ukudeklina kwe-īyas bheka ngezansi.**
 

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 48"
+title: "Õppetund 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
@@ -366,7 +366,7 @@ Joonis: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 :::
 
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Määrsõna: päeval ja öösel
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
@@ -415,7 +415,7 @@ Joonis: ⟪स्थविराः⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: ka: laiduväärne
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 

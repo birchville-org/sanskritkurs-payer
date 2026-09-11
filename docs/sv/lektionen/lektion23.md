@@ -83,7 +83,6 @@ No fixed rules can be established for the use of the connecting vowel -i-. Essen
 
 **Verbs with prefixes form the infinitive in the same way as simple roots.**
 
-:::
 
 Examples:
 

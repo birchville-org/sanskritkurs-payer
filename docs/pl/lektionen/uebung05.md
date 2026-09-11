@@ -99,7 +99,6 @@ Ilustracja: ⟪अभ्निवेशो न वा ।⟫
 ---
 
 >> ## ĀbÜbung Lektion 5
-:::
 ---
 
 ## Ćwiczenie powtórkowe Lekcja 5

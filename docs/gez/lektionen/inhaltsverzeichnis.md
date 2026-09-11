@@ -167,12 +167,12 @@
 
 ## [Lektion 14](lektion14)
 
-*   1\. The Expression of the Relationship of that Designated by Substantives: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth Case Ending)
-*   2\. Bildung der Genetivformen (ṣāṣṭhī f. = ⟪षष्ठी⟫)
-*   3\. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
-*   4\. Wortliste
-*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
-*   6\. Übung
+*   1. መግለጺ ርክብ እቲ ብስም ዝተሰየመ፡ ሓላፍነት (ṣaṣṭhī f. = ⟪षष्टी⟫ = ሳድሰይቲ መወዳእታ ቃል)
+*   2. ምስረታ ቅርጺ ሓላፍነት (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3. ተወሳኺ ብዛዕባ ኣጠቓቕማ ሓላፍነት (⟪षष्ठी⟫)
+*   4. ዝርዝር ቃላት
+*   5. Subhāṣitāni = ⟪सुभाषितानि⟫ = ምሳሌታት
+*   6. ምምሕዳር
 
 ## [Lektion 15](lektion15)
 
@@ -577,19 +577,19 @@
 
 ## [Lektion 44](lektion44)
 
-*   1.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
-*   1.1. Fifth Present Class (⟪स्वादि⟫)
-*   1.2. Eighth Present Class (⟪तनादि⟫)
-*   1.3. Ninth Present Class (⟪क्र्यादि⟫)
-*   2\. Zum Wortsandhi
-*   2.1. Zum Wortsandhi für dh-
-*   2.2. Zum Wortsandhi für s-
-*   3.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
-*   3.1. Second Present Class (⟪अदादि⟫)
-*   4\. Der Vokativ (⟪आमन्त्रितम्⟫)
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Review Exercise on Morphology
+*   1. ምስረታ ግሲ ቅርጺ ካልኣይ ሰብ (⟪मध्यमः⟫) ዘይተሰርሑ ስርናይ ምስ ድምጺ ዝውድእ ቅጽል
+*   1.1. ሓምሰይቲ ናይ ሕጂ ክፍሊ (⟪स्वादि⟫)
+*   1.2. ሻምነይቲ ናይ ሕጂ ክፍሊ (⟪तनादि⟫)
+*   1.3. ታስዐይቲ ናይ ሕጂ ክፍሊ (⟪क्र्यादि⟫)
+*   2. ብዛዕባ ቃል ሳንዲ
+*   2.1. ብዛዕባ ቃል ሳንዲ ን dh-
+*   2.2. ብዛዕባ ቃል ሳንዲ ን s-
+*   3. ምስረታ ግሲ ቅርጺ ካልኣይ ሰብ (⟪मध्यमः⟫) ዘይተሰርሑ ስርናይ ብዘይ ድምጺ ዝውድእ ቅጽል
+*   3.1. ካልኣይ ናይ ሕጂ ክፍሊ (⟪अदादि⟫)
+*   4. ጸዋዒ (⟪आमन्त्रितम्⟫)
+*   5. ዝርዝር ቃላት
+*   6. ምምሕዳር
+*   7. ምምሕዳር ምድግጋም ብዛዕባ ቅርጺ
 
 ## [Lektion 45](lektion45)
 

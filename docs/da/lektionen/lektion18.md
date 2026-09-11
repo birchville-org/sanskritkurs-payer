@@ -62,6 +62,7 @@ Eksempler:
 
 Eksempler:
 
+:::
 ::: indent
 ⟪दुर्नय⟫ m.: dårlig ledelse, dårligt opførsel
 

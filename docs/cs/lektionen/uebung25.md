@@ -65,10 +65,14 @@ Buddhové a arhatové jsou osvobozeni od utrpení. Dosáhli totiž osvobozujíc�
 Lidé jsou zkaženi chamtivostí, nenávistí a nevědomostí. Když přijde čas, padnou do pekla.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Obr.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatrija přivádí statečné válečníky z velkoměsta, aby bojoval proti vesnici nepřátel.
 
@@ -88,7 +92,7 @@ Bez Rámy.
 Vzdělávání svatého přináší ctnost, nikoliv vzdělávání nesvatého.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Ráma čeká na Kršnu.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Je to lehké (šťastné).
@@ -113,10 +117,14 @@ Pokud někdo z pýchy, chamtivosti, hněvu nebo strachu vynese nesprávný soudn
 Pekla vznikají kvůli zlu, zlo vzniká ze chudoby, chudoba vzniká z nedávání.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Obr.: ⟪भवन्ति नरकाः पापात्⟫
 (Zdroj obrázku: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Zloděj je osvobozen od viny z krádeže trestem nebo propuštěním. Pokud ho však král netrestá, přebírá vinu zloděje.
 
@@ -128,9 +136,13 @@ Zloděj je osvobozen od viny z krádeže trestem nebo propuštěním. Pokud ho v
 Hospodářství je užitečné, protože přináší obilí, dobytek, zlato, kovy a práci.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Obr.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Proto mají tři vědy berlu (daṇḍa) jako základ. Berla, která je základem dobrého chování, přináší bytostem obživu a bezpečné vlastnictví. Dobré chování je získáno nebo vrozené. Činnost totiž vychovává vhodný materiál, ne nevhodný. Výchova vzdělává mysl, která se díky poslušnosti, naslouchání, chápání, porozumění a zamyšlení dostala k pravdě, ne jinou. ... Z toho, co bylo slyšeno, vzniká poznání; z poznání praxe; z praxe sebeovládání; tak odpovídají vědy svému účelu. Věda a dobré chování jsou příčinou vítězství nad smysly. To je nutné, aby se zbavili chtíče, nenávisti, chamtivosti, přemrštěnosti, opojení a vzrušení.

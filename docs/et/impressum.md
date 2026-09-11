@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: "Impressum & Zitieren"
+title: "Impressum ja viitamine"
 
 ---
 
@@ -31,5 +31,5 @@ title: "Impressum & Zitieren"
 Tõlked: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Nimetamine, jagamine samadel tingimustel
 Kood/Pipeline: [MIT litsents](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
-**Zitierweise für die Übersetzungen:**
-> Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
+**Tõlgete viitamise viis:**
+> Payer, Alois: Sanskriti kursus. Tõlgitud tehisintellekti toel. Marco Demarmels (toim. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

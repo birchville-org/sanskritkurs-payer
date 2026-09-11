@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 ስዕል፡ ⟪का नृत्यति ।⟫
 (የስዕል ምንጭ፡ [ዝርዝር](/licenses#uebung004))
+
 :::
+
 ---
 
 ## የድግግሞሽ ልምምድ ክፍለ-ሥርዓት 6
@@ -240,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+ለ) ወደ ብዙ ቁጥር ቀይር፦
 
 1\. brāhmaṇo yajati.
 
@@ -354,7 +358,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+ሐ) የĀtmanepada ቅጽ ፍጠር ለ፦
 
 1\. rāmo yajati.
 
@@ -372,7 +376,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+መ) የሴት ጾታ ቅጽ ፍጠር ለ፦
 
 1\. śūdro nayati.
 
@@ -414,131 +418,131 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+ሠ) ተርጉም፦
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+አናፑርና አምላክ ናት።
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+ኢታራ ሹድራ ሴት ናት።
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+ቱላዳራ ቫይሽያ ነው።
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+ማጋ ገጣሚ ነው።
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+ኡማ አምላክ ናት።
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+ቬዳ ሽሩቲ ነው።
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+ላሟ ትገባለች።
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+ቻይታንያ መምህር ነው።
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+ኢንድራኒ አምላክ ነች።
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+መምህሩ ቅዱስ ነው።
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+መምህሩ እንደ መስዋዕት አቅራቢ ያቀርባል።
 
-F) Übersetzen Sie ins Sanskrit:
+ረ) ወደ ሳንስክሪት ተርጉም፦
 
-1\. Rāma opfert (als Opferherr).
+1\. ራማ ያቀርባል (እንደ መስዋዕት አቅራቢ)።
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2\. ዱርጋ አምላክ ነች።
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3\. ሚናክሺ አምላክ ነች።
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4\. ግራ ተጋብተዋል።
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5\. ራማ ቅዱስ ሰው ነው።
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6\. ጌታ ማን ነው?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7\. ኢንድራ ጌታ ነው።
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8\. የቤት እንስሳት ይገባሉ።
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. ቪሽኑ ያወጣል = ቪሽኑ ይፈጥራል።
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10\. Zweimalgeborene sind gut.
+10. ሁለት ጊዜ የተወለዱት ጥሩ ናቸው።
 
 sādhavo dvijātayaḥ.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 ስዕል፦ ⟪देवतान्नपूर्णा⟫
 (የስዕል ምንጭ፦ [ዝርዝር](/licenses#uebung005))
+
 :::

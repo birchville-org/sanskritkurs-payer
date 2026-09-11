@@ -96,14 +96,14 @@ Dalsze informacje na temat użycia lokatywu później.
 *   **Liczba pojedyncza: -i**
 *   **Liczba mnoga: -su**
 
-**Zwróć uwagę na zmiany fonetyczne przed -su oraz ewentualną cerebraлизację -su do -ṣu!**
+**Zwróć uwagę na zmiany fonetyczne przed -su oraz ewentualną cerebralizację -su do -ṣu!**
 
 :::
 ### 27.2.1. Pnie spółgłoskowe
 
 ::: grammar-box
 
-| Pień | Lokativ Liczba Pojedyncza:br⟪सप्तमी एकवचन⟫ | Lokativ Liczba Mnoга:br⟪सप्तमी बहुवचन⟫ |
+| Pień | Lokativ Liczba Pojedyncza:br⟪सप्तमी एकवचन⟫ | Lokativ Liczba Mnoga:br⟪सप्तमी बहुवचन⟫ |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजति⟫ (yaj-at-i) | ⟪यजत्सु⟫ |
 | ⟪महान्त्⟫ | ⟪महति⟫ | ⟪महत्सु⟫ |
@@ -185,7 +185,6 @@ sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫
 :::
 z tego:
 
-:::
 ::: indent
 ⟪वस्तुतस्⟫: w rzeczywistości, naprawdę
 :::
@@ -253,6 +252,7 @@ Harihara (lewo: Wiśnu, prawo: Śiwa). Godrumdwip, Bengal Zachodni.
 
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
+:::
 ::: media
 ![](/images/lekt2709.webp)
 Ilustracja: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫

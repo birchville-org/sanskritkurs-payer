@@ -26,14 +26,27 @@ STRICT_DE_GRAMMAR_KEYWORDS = [
     "Glückbringender Anfang", "Konsonantenzeichen", "Materialien zum Sanskrit",
     "Zusätzliche Übung", "Verehrung des", "Laute des Sanskrit", "Bildquelle:",
     "Lautlehre", "Wortkunde", "Satzlehre", "Substantive und Adjektive", 
-    "Pronomina", "Konjugation"
+    "Pronomina", "Konjugation",
+    # Instruction phrases & exercise patterns
+    "Übersetzen Sie ins Sanskrit", "Übersetzen Sie ins Deutsche", "Übersetzen Sie:", "Übersetzen Sie",
+    "Bilden Sie das Ātmanepada", "Bilden Sie das Femininum", "Bilden Sie:", "Bilden Sie",
+    "Setzen Sie in den Plural", "Setzen Sie:", "Setzen Sie",
+    "Formt das Ātmanepada", "Formt das Femininum", "Formt das",
+    "Ergänzen Sie:", "Ergänzen Sie", "Bestimmen Sie:", "Bestimmen Sie",
+    "Verwandeln Sie:", "Verwandeln Sie", "Deklinieren Sie:", "Deklinieren Sie",
+    "Konjugieren Sie:", "Konjugieren Sie", "Schreiben Sie in Devanāgarī",
+    "Zweimalgeborene sind", "Zweimalgeborene", "Opferherr",
+    "ist eine Göttin", "ist ein Gott", "ist ein Heiliger", "ist ein Meister", "ist eine Gottheit",
+    "sind verwirrt", "treten ein", "lässt emanieren", "besonders zu merken",
+    "steht am Beginn", "Zusammengestellt aus den Wortlisten", "Möglichkeiten)", "Möglichkeit)"
 ]
 
 GERMAN_KEYWORDS = [
     "Die Laute des Sanskrit", "Verehrung des", "Schriftübung", "Glückbringender Anfang", 
     "Bildquelle:", "Jedes Konsonantenzeichen", "Materialien zum Sanskrit", "Zusätzliche Übung", 
     "Auslautendes", "wird es zu", "Ersetzung durch", "mit direktem Objekt",
-    "Der Passivsatz", "Doppelter Akkusativ", "Fragepronomina"
+    "Der Passivsatz", "Doppelter Akkusativ", "Fragepronomina",
+    "Übersetzen Sie", "Bilden Sie", "Setzen Sie", "Formt das"
 ]
 
 # Distinct German grammatical expressions that indicate untranslated German text

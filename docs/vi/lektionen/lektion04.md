@@ -50,6 +50,7 @@ status: stable
 ::: grammar-box ::: grammar-box
 **Âm cuối -m được thay thế bằng Anusvāra (-ṃ) trước phụ âm. Ở cuối câu hoặc khổ thơ và trước nguyên âm, -m được giữ nguyên.**
 ::: :::
+:::
 ### 4.1.3. Sandhi von auslautendem -e ### 4.1.3. Sandhi của âm cuối -e
 
 ::: grammar-box ::: grammar-box
@@ -59,6 +60,7 @@ z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ "Diese 
 2. **Trước các nguyên âm khác với a ngắn, -e thường được thay thế bằng -a với Hiatus. Việc thay thế bằng -ay cũng xảy ra:**
 z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"    Ví dụ: ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (hiếm: imay īśvarāh = ⟪इमयीश्वराः⟫) "Những vị CHỦ NHÂN này"
 ::: :::
+:::
 ### 4.1.4. Sandhi von auslautendem -d ### 4.1.4. Sandhi của âm cuối -d
 
 ::: grammar-box ::: grammar-box
@@ -66,6 +68,7 @@ z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (
 
 Việc thay thế trước các phụ âm khác sẽ được thảo luận sau. Hãy tránh những sự va chạm âm thanh như vậy tạm thời!
 ::: :::
+:::
 ### 4.1.5. Frageformeln ### 4.1.5. Công thức câu hỏi
 
 Bằng cách sử dụng những đại từ này, người ta tạo ra các công thức câu hỏi ví dụ như sau:

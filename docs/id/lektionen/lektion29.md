@@ -1,6 +1,6 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: Pelajaran 29
+subtitle: "Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -12,13 +12,19 @@ status: stable
 ## 29.1. Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif
 
 ::: grammar-box
+
 **Kausatif adalah Ubhayapada (⟪उभयपद⟫) dengan beberapa pengecualian**
+
 :::
+
 ::: grammar-box
+
 **Dalam kausatif, Ātmanepada (⟪आत्मनेपद⟫) digunakan:**
 
 **1. Ketika hasil dari tindakan yang disebabkan menguntungkan pembuat kausatif:**
+
 :::
+
 Contoh:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma has a mat made for himself (in his own interest)"
@@ -38,10 +44,13 @@ Dengan demikian, aturan-aturan tersebut umumnya sesuai dengan aturan untuk pengg
 Prefixes:
 
 ::: indent
+
 ⟪उद्⟫° : up, upward, aloft, out, out-
 
 ⟪परि⟫° : di sekitar, tentang (tempat, waktu), mengenai
+
 :::
+
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (menjadi di sekitar seseorang = mengelilingi =) menguasai, menaklukkan; mengabaikan, meremehkan
 
 ⟪अवज्ञान⟫ n.: disregard
@@ -53,12 +62,15 @@ Prefixes:
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : to consume, to devour
 
 ::: indent
+
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Caus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
+
 :::
+
 ⟪तीक्ष्ण⟫ 3: "wild", sharp, keen, strict, fierce, sharp-tongued
 
 ⟪न्याय⟫ m.: norm, rule, right manner; method, logic (from ⟪इ⟫ + ⟪नि⟫)
@@ -66,11 +78,15 @@ Inf. ⟪ग्रसितुम्⟫
 ⟪परिव्राजक⟫ m.: wanderer, wandering monk, pilgrim
 
 ::: media
+
 ![](/images/lekt2903.webp)
+
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Image source: [Detail](/en/licenses#lekt2903))
+
 :::
+
 ⟪पालयति⟫ : also synonymous with  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indecl.: again, again and again, back, once more; however, but (before voiced sounds except r-: ⟪पुनर्⟫)
@@ -80,14 +96,22 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: fish
 
 from which:
+
 ::: indent
+
 ⟪मात्स्य⟫ 3: belonging to fish (to fish)
+
 :::
+
 ::: media
+
 ![](/images/lekt2901.webp)
+
 Fig.: ⟪मत्स्यः⟫
 (Image source: [Detail](/en/licenses#lekt2901))
+
 :::
+
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
 
 ⟪यथा⟫ Adv.: how, as if
@@ -95,12 +119,15 @@ Fig.: ⟪मत्स्यः⟫
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : berdiri diam, beristirahat, menunda; mengambil kesenangan, bersuka cita
 
 ::: indent
+
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
+
 :::
+
 ⟪वानप्रस्थ⟫ m.: forest hermit (someone who is in the 3rd ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: shining, gleaming, fine; m.: purity
@@ -108,8 +135,11 @@ Inf. ⟪रन्तुम्⟫
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : to honor, to revere
 
 ::: indent
+
 PPP ⟪पूजित⟫
+
 :::
+
 ## 29.3. Latihan Penerjemahan untuk Tinjauan
 
 Terjemahkan secara harfiah ke dalam bahasa Jerman dan hafalkan teks-teks Sansekerta:
@@ -137,17 +167,25 @@ Penjelasan: ⟪आत्मसु⟫ = Lok. sg. dari ⟪आत्मन्⟫ m.
 ⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
+
 ::: indent
+
 ⟪चतुर्व⟫⟪र्णाश्रमो⟫ ⟪लोको⟫  
 ⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt2902.jpg)
+
 Fig.: ⟪मात्स्यन्याय⟫:
 (Image source: [Detail](/en/licenses#lekt2902))
+
 :::
+
 Explanations:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "something (someone) before whom one must shudder"

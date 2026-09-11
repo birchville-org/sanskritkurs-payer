@@ -168,6 +168,7 @@ status: stable
 
 ::: grammar-box
 **Корни ⟪दा⟫ и ⟪धा⟫ редуплицируются с гласным -a- и теряют корневую гласную в слабой форме.**
+:::
 ::: grammar-box
 ⟪धा⟫ 3U "setz, festsetz, zuerteile"
 

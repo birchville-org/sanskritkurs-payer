@@ -148,10 +148,14 @@ kiṃ kāraṇam?
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung007.webp)
+
 Kuv.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung007))
+
 :::
+
 ---
 
 ## Luentoharjoitus
@@ -196,13 +200,13 @@ Tyttö kirjoittaa tai piirtää.
 Neitsyt astuu taloon.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Jumala luo norsun tai käärmeen tai nāgan.
 
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Poika johtaa norsua.
 
 16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ Oik. Vimalā)
-Vimalā ist traurig.
+Vimalā on surullinen.
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |
 Papukaija lentää.
@@ -211,7 +215,10 @@ Papukaija lentää.
 Poika kirjoittaa kirjeen.
 
 ::: media
+
 ![](/images/uebung008.webp)
+
 Kuv.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung008))
+
 :::

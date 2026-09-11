@@ -51,6 +51,7 @@ např. ⟪द्विजानां सत्तमः⟫ = "nejlepší z dvak
 
 Příklady:
 
+:::
 ::: indent
 ⟪गजतम⟫ m. "nejlepší slon" (⟪गज⟫) (také označení Buddhy)
 

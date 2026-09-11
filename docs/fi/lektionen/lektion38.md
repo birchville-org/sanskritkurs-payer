@@ -1,6 +1,6 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: Oppitunti 38
+subtitle: "Viikon ratkaisu"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,11 +14,14 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ oikeasta virtsaamisesta:
 
 ::: indent
+
 ⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
 ⟪प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+
 :::
+
 Selitykset:
 
 \-⟪अग्नि⟫ Nominatiivi/akkusatiivin yksikkö neutrinä sanalle ⟪अग्नि⟫ mask.
@@ -26,21 +29,30 @@ Selitykset:
 \-:sig[⟪गु⟫] Nominatiivi/akkusatiivin yksikkö neutrinä sanoille ⟪गो⟫ mask./fem. "lehmä"
 
 ::: media
+
 ![](/images/lekt3801.webp)
+
 Kuv.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3801))
+
 :::
+
 ## 38.2. Nasaalien äänteellinen muutos sanassa
 
 ::: grammar-box
+
 Sanaiset sanassa assimiloituvat seuraaviin konsonantteihin, ts. ne korvataan näitä konsonantteja vastaavilla nasaleilla.
 
 c- ja j-kirjainten jälkeen -n- korvataan -ñ-:llä.
+
 :::
+
 ## 38.3. -n-päätteisten vartalojen taivutus
 
 ### 38.3.1. -an-päätteiset substantiivit sekä vokaalin jälkeiset -man- ja -van-päätteiset substantiivit
+
 ::: grammar-box
+
 **-an**-päätteiset substantiivit sekä vokaalin jälkeiset **-man-** tai **-van**-päätteiset substantiivit muodostavat kolme vartaloa:
 
 | Vartalo | -an | -man | -van | Käyttö |
@@ -50,7 +62,9 @@ c- ja j-kirjainten jälkeen -n- korvataan -ñ-:llä.
 | **Schwächster Vartalo** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Pääte |
 
 **Päätteet ovat säännölliset. Nominatiivin yksikkö maskulinum ja feminiinum muodostetaan ilman loppun -n.**
+
 :::
+
 Esimerkit:
 
 ⟪राजन्⟫ m. "kuningas"
@@ -70,6 +84,7 @@ Esimerkit:
 *   vahva vartalo: ⟪नामान्⟫
 *   keskitason vartalo: ⟪नाम⟫
 *   heikoin vartalo: ⟪नाम्न्⟫
+
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -92,21 +107,29 @@ Esimerkit:
 | ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt3803.webp)
+
 Kuva: ⟪सीमा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3803))
+
 :::
+
 ### 38.3.2. Konsonantin jälkeen päättyvät substantiivit -man tai -van
 
 ::: grammar-box
+
 *   Starker Vartalo: -mān, -vān
 *   Heikko vartalo:
     *   konsonantilla alkavien päätteiden edellä: -ma, -va (muotoa -\*mn, -\*vn)
     *   vokaalilla alkavien päätteiden edellä: **\-man, -van**
 
 Muu muodostus kuten kohdassa 3.1.
+
 :::
+
 Esimerkit:
 
 ⟪आत्मन्⟫ n. "sielu"
@@ -122,6 +145,7 @@ Esimerkit:
 *   heikko vartalo:
     *   ennen konsonanttia: ⟪ब्रह्म⟫
     *   ennen vokaalia: ⟪ब्रह्मन्⟫
+
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,15 +168,19 @@ Esimerkit:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
+
 ### 38.3.3. Maskuliinit ja neutrumit päättelyllä -in, -min, -vin
 
 ::: grammar-box
+
 Nämä substantiivit eivät tunne **mitään** vartalon astevaihtelua.
 
 Nominatiivin yksikön maskuliini ja akkusatiivin monikon neutrum on muodostettu analogiassa -an-vartalojen kanssa (vokaalin -i- pidennys), samoin vartalo **\-i-** ennen konsonanttista pääte.
 
 Naispuolinen muoto muodostetaan suffiksilla -ī: esim. ⟪बलिनी⟫
+
 :::
+
 Esimerkki:
 
 ⟪बलिन्⟫ m.n. "vahva, voimakas (merkitty erityisellä ⟪बल⟫, omistaen ⟪बल⟫)"
@@ -179,35 +207,49 @@ Esimerkki:
 | ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
+
 ## 38.4. Nominaalin muodostaminen: ⟪तद्धित⟩-liite -in
 
 ::: grammar-box
+
 Substantiiveista muodostetaan (erittäin tärkeällä!) ⟪तद्धित⟩-liitteellä **-in** adjektiivit, joiden merkitys on:
 
 **merkitsevä, omaava**
 
 Alkuperäisesti **-⟪इन्⟫**-päätteisen muodostelman ja **-⟪मन्त्⟫/-⟪वन्त्⟫**-päätteisen muodostelman välinen ero oli siinä, että **-⟪इन्⟫** tarkoitti jotakin erityistä merkitsevää piirrettä, kun taas **-⟪मन्त्⟫/-⟪वन्त्⟫** ilmaisi jonkin tavallisen tai yleisen ominaisuuden omaamista tai merkitsemistä.
+
 :::
+
 Esimerkki:
 
 ⟪हस्तिन्⟫ m.: erityisellä toiminnolla merkitty = elefantti (sen käsi ei ole tavallinen käsi, vaan lyhythuone)
 
 ::: media
+
 ![](/images/lekt3806.webp)
+
 Kuv.: ⟪हस्ती⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3806))
+
 :::
+
 ⟪हस्तवन्त्⟫ : jolla on (ihmisen) kädet
 
 ::: media
+
 ![](/images/lekt3807.webp)
+
 Kuv.: ⟪हस्तवान्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3807))
+
 :::
 
 ::: grammar-box
+
 Adjektiivit, jotka päättyvät **-⟪इन्⟫**, muodostetaan mielellään yhdyssanoiksi.
+
 :::
+
 Esimerkki:
 
 ⟪सत्यवादिन्⟫ sanasta ⟪सत्यवाद⟫ m. "totuuden puhuminen": "joku, joka on tunnusomaista totuuden puheesta = joku, joka aina puhuu totta"
@@ -215,88 +257,134 @@ Esimerkki:
 ## 38.5. Syntaktisia huomioita sanasta ⟪नामन्⟫
 
 ::: grammar-box
+
 Ilmaistaksemme "joku nimeltään N. N.", konstruoimme:
 
 **N.N. (nominatiivi) ⟪नाम⟫**
 
 Sananmukaisesti: "nimi on/oli N.N.". Kyseessä on siis väliosana.
+
 :::
+
 Esimerkki:
 
 ::: indent
+
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟩ "Eräällä kuninkaalla **nimeltään Nala**, Vīrasenan voimakkaalla pojalla."
+
 :::
+
 Luonnollisesti saman voi ilmaista myös ⟪बहुव्रीहि⟩ avulla:
 
 ::: indent
+
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟩ "mies, jonka nimi on Devadatta"
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "tytär, jonka nimi on Madayantika"
+
 :::
+
 ::: media
+
 ![](/images/lekt3808.jpg)
+
 Kuva: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3808))
+
 :::
+
 ## 38.6. Syntaktista huomiota ⟪आत्मन्⟫:n suhteen
 
 ::: grammar-box
+
 ⟪आत्मन्⟫ **maskuliini** voi **yksikössä** toimita takautuvana pronominaalina (refleksiivipronomini) kaikkien kolmen sukun, lukujen (myös kaksikko ja monikko) ja persoonoiden osalta.
+
 :::
+
 Esimerkkejä:
 
 ::: indent
+
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Hän ei näke virhettä itsestään"
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "He ylistävät itseään"
+
 :::
+
 ::: grammar-box
+
 Genetiivi (⟪षष्ठी⟫) ⟪आत्मनस्⟫ voi tässä yhteydessä tarkoittaa "oma/minun/sinun/hänen..."
+
 :::
+
 Esimerkki:
 
 ::: indent
+
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Hän astuu omaan kotiinsa."
+
 :::
+
 ## 38.7. Konsonanttien varassa päättyvät vartalot kompositumien etuosina
 
 ::: grammar-box
+
 Konsonantin varassa päättyvät vartalot esiintyvät kompositumin etuosana heikossa muodossaan, jonka ne saavat ennen lokatiivin monikon päättettä -su (⟪सप्तमी⟫).
+
 :::
+
 Esimerkki:
 
 ::: indent
+
 :sig[⟪राज⟫]⟪पुत्र⟫ "Kuninkaanpoika"
+
 :::
+
 ## 38.8. -an-päätteiset vartalot ⟪बहुव्रीहि⟫ osana
 
 ::: grammar-box
+
 -an-päätteinen vartalo voidaan käyttää ⟪बहुव्रीहि⟫ osana kaikissa kolmessa sukua. Yleensä feminiinin muodostaa kuitenkin heikoin maskuliinivartalo suffiksilla -ī.
+
 :::
+
 Esimerkki:
 
 ::: indent
+
 ⟪दुर्णाम्नी⟫ "yksi, jonka nimi on paha; tautien demoni"
+
 :::
+
 ## 38.9. Sanalista
 
 ⟪सूर्य⟫ m.: Aurinko, auringonjumala Sūrya
 
 ::: media
+
 ![](/images/lekt3802.webp)
+
 Kuv.: ⟪सूर्यः⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3802))
+
 :::
+
 ⟪उदक⟫ n.: Vesi
 
 ::: media
+
 ![](/images/lekt3805.webp)
+
 Kuv.: ⟪उदकम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3805))
+
 :::
+
 ⟪वा⟫ 2P ⟪वाति⟫ : puhaltaa, puhaltua
 
 ::: indent
+
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
@@ -307,24 +395,34 @@ Inf. ⟪वातुम्⟫
 siitä:
 
 ⟪वात⟫ m.: tuuli
+
 :::
+
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : puhaltaa, kuljettaa tuulella, sammua
 
 ::: indent
+
 siitä:
 
 ⟪निर्वाण⟫ n.: sammuminen, nirvāṇa
 
 ⟪परिनिर्वाण⟫ n.: täydellinen sammuminen, täydellinen vapautus (buddhan tai arhatin kuollessa)
+
 :::
+
 ::: media
+
 ![](/images/lekt3804.webp)
+
 Kuv.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Kuvälähde: [Tiedot](/fi/licenses#lekt3804))
+
 :::
+
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää
 
 ::: indent
+
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -334,20 +432,25 @@ PPP ⟪मीढ⟫
 siitä:
 
 ⟪मेघ⟫ m.: Pilvi ("sateen tuottaja")
+
 :::
+
 ⟪सुत⟫ m.: Poika
 
 ⟪राजन्⟫ m.: Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ⟪तत्पुरुष⟫) yleensä: -:sig[⟪राज⟫] m. (kuten ⟪देव⟫)
 
 ::: indent
+
 Nainenpääte:
 
 ⟪राज्ञी⟫ f.: Drottning, kuninkaan vaimo
 
-von :sig[⟪राज⟫] :
+tekijä :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: kuninkaallinen; n. kuningaskunta, kunta, valtakunta
+
 :::
+
 ⟪नामन्⟫ n.: nimi
 
 ⟪सीमन्⟫ f.: raja
@@ -359,27 +462,38 @@ von :sig[⟪राज⟫] :
 ⟪ब्रह्मन्⟫ m.: henkilöitynä ajiteltu luoja Jumala Brahmā
 
 ::: media
+
 ![](/images/lekt3809.webp)
+
 Kuv.: ⟪ब्रह्मा⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3809))
+
 :::
+
 ⟪कर्मन्⟫ n.: liittyen kohtaan ⟪कृ⟫ 8U: toiminta, teko, teos; pyhä teos, uhritoiminta; karma: aiempi tekeminen, joka myöhemmin tuo hedelmäänsä (esim. uudelleensyntymässä)
 
 ::: indent
+
 ⟪कर्मविपाक⟫ m.: teosten kypsyminen = hyvien ja pahojen tekojen seuraukset aiemmissa olemassaoloissa (liittyen kohtaan ⟪वि⟫-⟪पच्⟫)
+
 :::
+
 ⟪हस्तिन्⟫ m.: elefantti (_Elephas maximus_)
 
 ⟪मनु⟫ m.: ihminen, mies; ihmismuotoisen sukupolven isän nimi (katso ⟪मन्⟫ 4Ā)
 
 ::: indent
+
 siitä:
 
 ⟪मनुष्य⟫ m.: ihminen
+
 :::
+
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (liekittää, loistaa); surra, valittaa
 
 ::: indent
+
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -394,18 +508,27 @@ siitä:
 ⟪शोक⟫ m.: suru, murhe
 
 ⟪अशोक⟫ 3: suruton; ašokapuu = _Saraca asoca_ (Roxb.) Wilde; keisari Aśokan nimi (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (n. 304 – 232 eaa.)
-:::
-::: media
-![](/images/lekt3810.webp)
-Kuv.: ⟪अशोकवृक्षः⟫
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt3810))
+
 :::
 
 ::: media
+
+![](/images/lekt3810.webp)
+
+Kuv.: ⟪अशोकवृक्षः⟫
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3810))
+
+:::
+
+::: media
+
 ![](/images/lekt3811.webp)
+
 Kuva: ⟪अशोकसाम्राज्यम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3811))
+
 :::
+
 ## 38.10. Harjoitus
 
 A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muodot ja käännä:
@@ -447,64 +570,88 @@ A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muo
 ⟪विनोद⟫ m.: ajanviete, viihde, nautinto
 
 ::: media
+
 ![](/images/lekt3812.webp)
+
 Kuva: ⟪विनोदः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3812))
+
 :::
+
 ⟪अट्⟫ 1P ⟪अटति⟫ : kulkea ympäri
 
 ::: indent
+
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Kaus. ⟪आटयति⟫
+
 :::
+
 ⟪गाध⟫ 3: matala
 
 ⟪तॄ⟫ 1P ⟪तरति⟫ : ylittää, pelastua (akk.)
 
 ::: indent
+
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
 Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
 Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+
 :::
+
 ⟪पार⟫ n.(m.): tuonpuoleinen ranta, raja, päämäärä
 
 ⟪तीर⟫ n.: ranta
 
 ::: media
+
 ![](/images/lekt3813.webp)
+
 Kuva: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3813))
+
 :::
+
 ⟪एकैकशस्⟫ Adv.: kerrallaan
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : laskea, luetella
 
 ::: indent
+
 Perf. ⟪गणयां⟫ ⟪चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3814.webp)
+
 Kuva: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3814))
+
 :::
+
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: huutaa, valittaa
 
 ::: indent
+
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
 Kaus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
+
 :::
+
 ⟪इदानीम्⟫ Adv.: nyt
 
 ⟪नूनम्⟫ Adv.: nyt; siis, siksi; varmasti, tietysti
@@ -512,12 +659,15 @@ PPP ⟪क्रुष्ट⟫
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : laskeutua, sukeltaa
 
 ::: indent
+
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
 Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+
 :::
+
 ⟪गवेषयति⟫ Denominatiivi: hakea
 
 ⟪व्याकुल⟫ 3: hämmärtyneenä, levottomana, sekaisin
@@ -529,22 +679,28 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 ⟪हस्⟫ 1P ⟪हसति⟫ : nauraa
 
 ::: indent
+
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
 PPP ⟪हसित⟫
+
 :::
+
 ⟪सृ⟫ 1P ⟪सरति⟫ : juosta
 
 ::: indent
+
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
 Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
+
 :::
+
 ⟪कर्णयति⟫ Denominatiivi: kuulla (sanasta ⟪कर्ण⟫ m. "korva")
 
 ⟪लज्जा⟫ f.: häpeä
@@ -586,4 +742,3 @@ Selitykset:
 :sig[⟪यूयम्⟫] Nom.pl. "he"
 
 ⟪युष्माकम्⟫ Gen.pl. sanan :sig[⟪यूयम्⟫]
-

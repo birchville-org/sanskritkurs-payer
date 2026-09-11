@@ -13,6 +13,7 @@ status: stable
 ## 51.1. ⟪उपपद⟫-kompoziti
 
 ::: grammar-box
+
 **⟪उपपद⟫-kompoziti (⟪उपपद⟫ n. "prateća riječ") su ⟪तत्पुरुष⟫ s verbalnom imenicom kao zadnjim članom, koji se pojavljuje samo kao zadnji član kompozita, a ne kao samostalna riječ. ⟪उपपद⟫ se tvore s ⟪कृत्⟫ sufiksima**
 * **-Ø**
 * **-a**
@@ -25,52 +26,78 @@ status: stable
 Primjeri:
 
 :::
+
 ::: indent
+
 ⟪सुखकरः⟫ = ⟪सुखं करोतीति सुखकरः कुलघ्नः⟫ = ⟪कुलम्हन्तीति कुलघ्नः⟫
+
 :::
+
 Primjeri:
 
 a) ⟪कृत्⟫-sufiks \-Ø
 
 ::: indent
+
 \-⟪नी⟫ 3 "vodeći" npr. ⟪सेनानी⟫ m. "zapovjednik vojske" (⟪सेना⟫ f. "vojska")
 
 \-⟪भुज्⟫ 3 "uživajući, jedući" npr. ⟪भूमिभुज्⟫ m. "kralj" (⟪भूमि⟫ f. "zemlja")
 
 \-⟪विद्⟫ 3 "znajući" npr. ⟪धर्मविद्⟫ 3 "poznajući Dhammu"
+
 :::
+
 ::: media
+
 ![](/images/lekt5101.webp)
+
 Slika: ⟪भूमिभुज् ज्ञानेन्द्र वीर बिक्रम शाह⟫, ⟪नेपालस्यान्तिमो राजा⟫ (2001. – 2008.)
 (Izvor slike: [Detalji](/sh/licenses#lekt5101))
+
 :::
+
 b) ⟪कृत्⟫-sufiks -t
 
 ::: indent
+
 \-⟪कृत्⟫ 3 "čineći" npr.
 
 :::
+
 ::: indent
+
 ⟪कुलक्षयकृत्⟫ 3 "uzrokujući uništenje obitelji"
 
 ⟪पापकृत्⟫ 3 "čineći zlo, zlikovac"
+
 :::
+
 \-⟪जित्⟫ 3 "pobjeđujući", npr.
 
 ::: indent
+
 ⟪शत्रुजित्⟫ 3 "pobjeđujući neprijatelje"
 
 ⟪पुरुजित्⟫ 3 "pobjeđujući mnoge" (⟪पुरु⟫ 3 "mnogo, obilno")
+
 :::
+
 \-⟪भृत्⟫ 3 "noseći" npr. ⟪भूमिभृत्⟫ m. "kralj"
+
 ::: media
+
 ![](/images/lekt5103.webp)
+
 Abb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
+
 (Image source: [Details](/sh/licenses#lekt5103))
+
 :::
+
 c) ⟪कृत्⟫-Suffix -a
 
 ::: indent
+
 \-⟪ग⟫ 3 "going (in, to)" (probably from the root gā, zero-grade g + a) e.g. ⟪खग⟫ 3 "flying" m. "bird, wandering star" (⟪ख⟫ n. "hole, 'air'space'")
 
 \-⟪घ्न⟫ 3 "striking down" e.g. ⟪कुलघ⟫ 3 "killing families"
@@ -90,67 +117,97 @@ c) ⟪कृत्⟫-Suffix -a
 \-⟪कर⟫ 3 "causing, doing" e.g. ⟪सुखकर⟫ 3 "bringing happiness"
 
 \-⟪स्मर⟫ 3 "remembering" e.g. ⟪जातिस्मर⟫ 3 "remembering previous births"
+
 :::
+
 ::: media
+
 ![](/images/lekt5102.webp)
+
 Abb.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
+
 (Image source: [Details](/sh/licenses#lekt5102))
+
 :::
+
 ## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
 
 ::: grammar-box
+
 **Stems ending in a simple consonant (except nasal, semivowel, -s) have no stem gradation. Declension occurs completely regularly by adding the regular case endings.**
 
 **Only irregularity: in Nom., Acc., Voc. pl. Neuter, a nasal is inserted before the stem ending.**
+
 :::
+
 ### 51.2.1. Stems ending in non-palatal plosives
 
 ::: grammar-box
+
 **The usual sound change laws apply, i.e.**
 * **in word-final position stands the corresponding voiceless non-aspirate**
 * **before -su of the locative plural, the word-final sound is first replaced by the corresponding voiceless non-aspirate, then the corresponding sound changes occur**
 * **before a voiced consonant, the word-final sound is replaced by the corresponding voiced non-aspirate.**
+
 :::
+
 Examples:
 
 ⟪शत्रुजित्⟫ 3 "conquering enemies"
 
 ::: indent
+
 Masculine, Feminine:
 
 :::
+
 ::: indent
+
 Singular:
 
 :::
+
 ::: indent
+
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Acc. ⟪शत्रुजितम्⟫
+
 :::
+
 Plural:
 
 ::: indent
+
 Nom.Acc.Voc. ⟪शत्रुजितस्⟫
 Instr. ⟪शत्रुजिद्भिस्⟫
 Loc. ⟪शत्रुजित्सु⟫
+
 :::
+
 Neuter
 
 ::: indent
+
 Singular Nom.Acc.Voc. ⟪शत्रुजित्⟫
 Plural Nom.Acc.Voc. :sig[⟪शत्रुजिन्ति⟫]
+
 :::
+
 ⟪सुयुध्⟫ 3 "fighting well"
 
 ::: indent
+
 Singular.Nom.Voc.m.f.n. ⟪सुयुत्⟫
 etc.
+
 :::
+
 Complete paradigms in Kielhorn, Grammar p. 16ff.
 
 ### 51.2.2. Stems ending in palatal plosives (c, ch, j), ś, ṣ
 
 ::: grammar-box
+
 **Before a vowel-initial ending, the stem-final sound remains unchanged.**
 
 **For all other endings:**
@@ -164,93 +221,136 @@ Complete paradigms in Kielhorn, Grammar p. 16ff.
 
 * **-c » -k**
 * **-ch » -ṭ**
-* **-j » -k oder -ṭ**
-* **-ś » -ṭ oder -k**
-* **-ṣ » -ṭ oder -k**
+* **-j » -k ili -ṭ**
+* **-ś » -ṭ ili -k**
+* **-ṣ » -ṭ ili -k**
+
 :::
+
 Primjeri:
 
 ⟪सत्यवाच्⟫ 3 "govoreći istinu" (⟪बहुव्रीहि⟫)
 
 ::: indent
+
 Muški rod, Ženski rod:
 
 :::
+
 ::: indent
+
 Jednina:
 
 :::
+
 ::: indent
+
 Nominativ/Vokativ ⟪सत्यवाक्⟫
 Akuzativ ⟪सत्यवाचम्⟫
 Instrumental ⟪सत्यवाचा⟫
+
 :::
+
 Množina:
 
 ::: indent
+
 Instrumental ⟪सत्यवाग्भिस्⟫
 Lokativ ⟪सत्यवाक्षु⟫
+
 :::
+
 Srednji rod
 
 ::: indent
+
 Jednina Nominativ/Akuzativ/Vokativ ⟪सत्यवाक्⟫
 Množina Nominativ/Akuzativ/Vokativ ⟪सत्यवाञ्चि⟫
+
 :::
+
 ⟪शेषभुज्⟫ 3 "jedući ostatke hrane"
 
 ::: indent
+
 Muški rod, Ženski rod:
 
 :::
+
 ::: indent
+
 Jednina:
 
 :::
+
 ::: indent
+
 Nominativ/Vokativ ⟪शेषभुक्⟫
 Akuzativ ⟪शेषभुजम्⟫
+
 :::
+
 Množina:
 
 ::: indent
+
 Instrumental ⟪शेषभुग्भिस्⟫
 Lokativ ⟪शेषभुक्षु⟫
+
 :::
+
 Srednji rod
 
 ::: indent
+
 Jednina Nominativ/Akuzativ/Vokativ ⟪शेषभुक्⟫
 Množina Nominativ/Akuzativ/Vokativ ⟪शेषभुञ्जि⟫
+
 :::
+
 ⟪परिव्राज्⟫ m. "lutajući monah"
 
 ::: indent
+
 Muški rod, Ženski rod:
 
 :::
+
 ::: indent
+
 Jednina:
 
 :::
+
 ::: indent
+
 Nominativ/Vokativ ⟪परिव्राट्⟫
 Akuzativ ⟪परिव्राजम्⟫
+
 :::
+
 Množina:
 
 ::: indent
+
 Instrumental ⟪परिव्राड्भिस्⟫
 Lokativ ⟪परिव्राट्सु⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt5104.webp)
+
 Slika: ⟪परिव्राट् पुष्कर⟫
 (Izvor slike: [Detalji](/sh/licenses#lekt5104))
+
 :::
+
 ### 51.2.3. Osnove na -h
 
 ::: grammar-box
+
 **Pri vokalski početnom nastavku, -h ostaje nepromijenjen.**
 
 **Pri preostalim nastavcima**
@@ -261,74 +361,109 @@ Slika: ⟪परिव्राट् पुष्कर⟫
 **After these substitutions, the stem is treated further as if it ended in -ḍh, -gh or -dh respectively.**
 
 **See the paradigms in Kielhorn, Grammar, p. 20f.**
+
 :::
+
 Examples:
 
 ::: indent
+
 ⟪गुह्⟫ 3 "concealing"
 
 Masculine, Feminine:
 
 :::
+
 ::: indent
+
 Singular:
 
 :::
+
 ::: indent
+
 Nom.Voc. ⟪घुट्⟫ (Grassmann's Law of Breath Dissimilation: ⟪गुढ्⟫ + s)
 Acc. ⟪गुहम्⟫
+
 :::
+
 Plural:
 
 ::: indent
+
 Instr. ⟪घुड्भिस्⟫
 Loc. ⟪घुट्सु⟫
+
 :::
+
 ⟪द्रुह्⟫ "harming, hating" (optionally -ḍh/-gh)
 
 Masculine, Feminine:
 
 ::: indent
+
 Singular:
 
 :::
+
 ::: indent
+
 Nom.Voc. ⟪ध्रुट् । ध्रुक्⟫
 Acc. ⟪द्रुहम्⟫
+
 :::
+
 Plural:
 
 ::: indent
+
 Instr. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
 Loc. ⟪ध्रुट्सु । ध्रुक्षु⟫
+
 :::
+
 ## 51.3. Sandhi of initial h-
 
 ::: grammar-box
+
 **Before initial h-, a preceding stop is replaced by the corresponding voiced non-aspirate, and the initial h- is replaced by the voiced aspirate corresponding to that stop:**
 
 :::
+
 ::: indent
+
 ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+
 :::
+
 ## 51.4. Sandhi of initial ch-
 
 ::: grammar-box
+
 **Initial ch- is replaced by cch- after a short vowel, after ⟪मा⟫ "not" and after ⟪आ⟫ "to":**
 
 :::
+
 ::: indent
+
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
+
 :::
+
 ## 51.5. -ch- within the word
 
 ::: grammar-box
+
 **Within the word, -ch- is replaced by -cch- after all vowels:**
 
 :::
+
 ::: indent
+
 e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
+
 :::
+
 ## 51.6. Word list
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). It originally occurred throughout the Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
@@ -336,10 +471,14 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
 
 ::: media
+
 ![](/images/lekt5105.webp)
+
 Fig.:
 (Image source: [Details](/sh/licenses#lekt5105))
+
 :::
+
 ⟪अतिथि⟫ m.: guest
 
 ⟪अभ्यन्तर⟫ 3: located inside, nearest; m. the closest relative, native
@@ -349,24 +488,35 @@ Fig.:
 ⟪ऋतु⟫ m.: periodic process, season, time period, menstruation, time during which the woman is fertile and has a right to sexual intercourse with her husband.
 
 ::: note-box
+
 Regarding ⟪ऋतु⟫ see Manu III, 45-48: according to this, ⟪ऋतु⟫ lasts 16 days (according to the alternative translation: 20 days) from the beginning of menstruation; sexual intercourse is forbidden on the first four days after the onset of bleeding (according to the alternative translation: on the first eight (4 + 4) days), as well as on the 11th (or 15th) and 13th (or 18th) day. On even days the woman conceives sons, on odd days daughters. For what follows, a ⟪ऋतु⟫ of 16 days in total is assumed (not the alternative translation), as most indigenous commentaries do, which was thus the prevailing view.
 
 Since ovulation occurs 14 days before the onset of menstruation, this determination of the fertile period nearly "guarantees" fertility for a menstrual cycle interval of 19 to 30 days. The forbidden days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th days, i.e., the probability of conception in a cycle of 28 days (the lifespan of sperm in the woman is approx. 3 days). These regulations are as it were a positive application of Knaus-Ogino.
+
 :::
+
 ::: media
+
 ![](/images/lekt5106.jpg)
+
 Fig.: ⟪ऋतुः⟫
 (Image source: [Details](/sh/licenses#lekt5106))
+
 :::
+
 ⟪एकत्र⟫ Adv.: at one place
 
 ⟪जटा⟫ f.: braid of hair (ascetic's hairstyle)
 
 ::: media
+
 ![](/images/lekt5107.webp)
+
 Fig.: ⟪जटा ऋषिकेश⟫
 (Image source: [Details](/sh/licenses#lekt5107))
+
 :::
+
 ⟪तुल्य⟫ 3: equal, comparable (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): threefold, consisting of three parts
@@ -382,95 +532,134 @@ Fig.: ⟪जटा ऋषिकेश⟫
 ⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : to leave, to abandon
 
 ::: indent
+
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
 Fut. ⟪शेक्ष्यति⟫
 Pass. ⟪शिष्यते⟫
 Caus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
+
 :::
+
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : to distinguish
 
 ::: indent
+
 Pass. ⟪विशिष्यते⟫ : to differ from (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be better than (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be the best among (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+
 :::
+
 ⟪समान⟫ 3: of the same kind, equal, similar ; m.: contemporary
 
 ⟪स्व⟫ 3: own, his/her/its (my, your etc.). Declined like ⟪सर्व⟫. In the Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
 
 ::: indent
+
 Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
 Loc.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
 Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
+
 :::
+
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : to scold, to blame
 
 ::: indent
+
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
+
 :::
+
 ⟪पिशित⟫ n.: (prepared) meat
 
 ::: media
+
 ![](/images/lekt5108.webp)
+
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Image source: [Details](/sh/licenses#lekt5108))
+
 :::
+
 ⟪उपहार⟫ m.: offering, sacrifice, gift
 
 ⟪मधु⟫ n.: honey, sweet drink, mead (honey wine)
 
 ::: media
+
 ![](/images/lekt5109.webp)
+
 Fig.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
 (Image source: [Details](/sh/licenses#lekt5109))
+
 :::
+
 ⟪मांस⟫ n.: meat
 
 ⟪मृगया⟫ f.: hunting
 
 ::: media
+
 ![](/images/lekt5110.webp)
+
 Fig.: ⟪मृगया⟫
 Hunting with ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Image source: [Details](/sh/licenses#lekt5110))
+
 :::
+
 ⟪शिवा⟫ f.: (female) jackal (golden jackal = _Canis aureus_)
 
 ::: media
+
 ![](/images/lekt5111.webp)
+
 Fig.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
 (Image source: [Details](/sh/licenses#lekt5111))
+
 :::
+
 ⟪रुत⟫ n.: shrieking
 
 ⟪कौशिक⟫ m.: owl
 
 ::: media
+
 ![](/images/lekt5112.webp)
+
 Fig.: ⟪कौशिकः⟫
 Brahma owl (_Athene brama_), Mahesana = મહેસાણા
 (Image source: [Details](/sh/licenses#lekt5112))
+
 :::
+
 ⟪शकुनि⟫ m.: bird
 
 ⟪श्वन्⟫ m.: dog
 
 ::: indent
+
 strong stem ⟪श्वान्⟫
 weak stem before vowel ⟪सुन्⟫
 weak stem before consonant ⟪श्व⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt5113.jpg)
+
 Fig.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/sh/licenses#lekt5113))
+
 :::
+
 ⟪परिचित⟫ 3: familiar, well-known
 
 ⟪अटवी⟫ f.: forest
@@ -480,37 +669,52 @@ Karnataka = ಕರ್ನಾಟಕ
 ⟪आपान⟫(⟪क⟫) n.: drinking bout
 
 ::: media
+
 ![](/images/lekt5114.webp)
+
 Fig.: ⟪आपानकम् जोधपुर⟫
 (Image source: [Details](/sh/licenses#lekt5114))
+
 :::
+
 ⟪क्रूर⟫ 3: raw, cruel
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : to smear, daub
 
 ::: indent
+
 Perf. II ⟪दिदेह⟫
 Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
 Caus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
+
 :::
+
 ⟪विष⟫ n.: poison
 
 ::: media
+
 ![](/images/lekt5115.webp)
+
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/sh/licenses#lekt5115))
+
 :::
+
 ⟪भुजंग⟫ m.: snake
 
 ::: media
+
 ![](/images/lekt5116.webp)
+
 Fig.: ⟪भुजंगः⟫
 Chain viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/sh/licenses#lekt5116))
+
 :::
+
 ⟪सायक⟫ m.: arrow
 
 ⟪उत्साद⟫ m.: destruction, perishing
@@ -532,20 +736,28 @@ Chain viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 ⟪मणि⟫ m.: jewel
 
 ::: media
+
 ![](/images/lekt5118.webp)
+
 Fig.: ⟪मणिः⟫
 Hope Diamond from Guntur = గుంటూరు, today Smithsonian Museum of Natural History, Washington DC
 (Image source: [Details](/sh/licenses#lekt5118))
+
 :::
+
 ⟪वन⟫ n.: forest
 
 ⟪मद⟫ m.: also "must" of an elephant (in [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
+
 ![](/images/lekt5117.webp)
+
 Fig.: ⟪मदः⟫
 (Image source: [Details](/sh/licenses#lekt5117))
+
 :::
+
 ⟪राग⟫ m.: also: color, red color
 
 ⟪कालन⟫ n.: forest
@@ -553,12 +765,15 @@ Fig.: ⟪मदः⟫
 ⟪खन्⟫ 1U ⟪खनति⟫ : to dig
 
 ::: indent
+
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
 Caus. ⟪खानयति⟫
 PPP ⟪खात⟫
 Absol ⟪खनित्वा । खात्वा⟫
+
 :::
+
 ⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : to think, to ponder
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
@@ -572,8 +787,11 @@ Explanation: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 ⟪२⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ On the necessity of paying attention to the ⟪वर्नाश्रमधर्म⟫
 
 ::: indent
+
 ⟪तस्मात्स्वधर्मं भूतानाम् राजा न व्यभिचारयेत् ।स् स्वधर्मं संदधानो हि प्रेत्य चेह च नन्दति ॥१६॥ व्यवस्थितार्यमर्यादः कृतवर्णाश्रमस्थितिः । त्रय्याभिरक्षितो लोकः प्रसीदति न सीदति ॥१७॥⟫
+
 :::
+
 ⟪३⟫. ⟪बाण⟫ (7th cent. CE): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ff.: Reflections of the parrot ⟪वैशम्पायन⟫ on the life of a hunter:
 
 ⟪आसीच्च मे मनसि⟫ -- ⟪अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः⟫ , ⟪अहारः साधुजनगर्हितो मधुमांसादिः⟫ , ⟪श्रमो मृगया⟫ , ⟪शास्त्रं शिवारुतम्⟫ , ⟪समुपदेष्टारः सद्सतां कौशिकाः⟫ , ⟪प्रज्ञा शकुनिज्ञानम्⟫ , ⟪परिचिताः श्वानः⟫ , ⟪राज्यं शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि क्रुरकर्मसाधनानि धनूंषि⟫ , ⟪सहाया विषदिग्धमुखा भुजंगा इव सायकाः⟫ , ⟪गीतमुत्सादकारि मुग्धमृगाणाम्⟫ , ⟪कलत्राणि बन्दीगृहीताः परयोषितः⟫ , ⟪क्रूरात्मभिः शार्दूलैः सह संवासः⟫ , ⟪पशुरुधिरेण देवतार्चनम्⟫ , ⟪मांसेन बलिकर्म⟫ , ⟪चौर्येण जीवनम्⟫ , ⟪भूषणानि भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥ ४⟫. Commentary of the ⟪भानुचन्द्र⟫ (16th cent.) on the preceding section of the ⟪कादम्बरी⟫ (this exercise should be translated under the guidance of a teacher. If such is not available, it may be skipped)

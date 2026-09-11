@@ -30,7 +30,7 @@
 
 ## 练习
 
-Schreiben Sie in Devanāgarī:
+用天城体书写：
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

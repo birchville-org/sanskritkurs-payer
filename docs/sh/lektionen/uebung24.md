@@ -12,6 +12,7 @@ last_reconstructed: 2026-05-15
 A) Sastavite dativ jednine i dativ (odnosno ablativ) množine te navedite značenje imeničkog korijena:
 
 ::: grammar-box
+
 | Riječ | Značenje | Dativ sg. | Dativ pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. ⟪श्रव⟫ | Slušanje | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -43,7 +44,9 @@ A) Sastavite dativ jednine i dativ (odnosno ablativ) množine te navedite znače
 | ⟪२७⟫. ⟪पूजा⟫ | Poštovanje, štovanje | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. ⟪दासी⟫ | Služavka, sluškinja | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. ⟪गुरु⟫ | Učitelj, gospodar | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (ž) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
+
 :::
+
 B) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. **⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विश⟫ati ⟪॥१॥⟫**
@@ -81,10 +84,14 @@ The gods are angry with these Brahmins who did not pay them homage.
 Da bi umrla, živa bića se rađaju. (Kielhorn)
 
 ::: media
+
 ![](/images/uebung037.webp)
+
 Fig.: ⟪मरणाय जना जायन्ते⟫
 (Image source: [Details](/licenses#uebung037))
+
 :::
+
 ---
 
 ## Syntaktische Variationen
@@ -97,29 +104,29 @@ D) U rečenici B) 7 zamijenite konstrukciju s **-⟪अर्थ⟫** dativom: (
 **⟪मोक्षाय बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥⟫**
 
 E) U rečenici B) 6 zamijenite dativ konstrukcijom s **-⟪अर्थ⟫**: (Kielhorn)
-**⟪स्वर्गार्थं⟫ (oder: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः पुण्यं कर्तुमिच्छन्ति ॥⟫**
+**⟪स्वर्गार्थं⟫ (ili: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः पुण्यं कर्तुमिच्छन्ति ॥⟫**
 
 ---
 
 ## Zusätzliche Übersetzungsübungen
 
 1\. Božica kojoj se nije prinijela žrtva ljuti se na ljude. (Kielhorn)
-**⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (oder: ⟪कुप्यति ॥⟫)**
+**⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (ili: ⟪कुप्यति ॥⟫)**
 
-2\. Er lässt die Kuh ins Dorf los.
+2\. On pušta kravu u selo.
 **⟪ग्रामाय धेनुं मुञ्चति ॥⟫**
 
 3\. Sad je dosta! (Dosta sa strpljenjem!) (Kielhorn)
 **⟪अलं क्षमया ॥⟫**
 
 4\. To je dobro za brahmana. (Kielhorn)
-**⟪एतद्ब्राह्मणाय सुखम् ।⟫ (oder: ⟪हितम् ॥⟫)**
+**⟪एतद्ब्राह्मणाय सुखम् ।⟫ (ili: ⟪हितम् ॥⟫)**
 
 5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
 **⟪शिवाय नमः । श्रीगणेशाय नमः ॥⟫**
 
 6\. Doviđenja! (Svako dobro Vam!) (Kielhorn)
-**⟪स्वस्ति भवते ।⟫ (oder: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः ॥⟫)**
+**⟪स्वस्ति भवते ।⟫ (ili: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः ॥⟫)**
 
 7\. Diese Frucht reicht zum Essen.
 **⟪इदं फलं अलं खादनाय ॥⟫**
@@ -127,7 +134,7 @@ E) U rečenici B) 6 zamijenite dativ konstrukcijom s **-⟪अर्थ⟫**: (K
 8\. Borac je dorastao (drugom) borcu. (Kielhorn)
 **⟪शक्तो योधो योधाय ॥⟫**
 
-9\. Selbst Viṣṇu übertrifft Śiva nicht.
+9\. Čak ni Viṣṇu ne nadmašuje Śivu.
 **⟪विष्णुरपि शिवाय न प्रभवति ॥⟫**
 
 10\. Nakon što sam se poklonio trima mudracima... On se klanja pred Narasiṃhom. (Kielhorn)
@@ -143,7 +150,10 @@ E) U rečenici B) 6 zamijenite dativ konstrukcijom s **-⟪अर्थ⟫**: (K
 **⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
+
 ![](/images/uebung038.webp)
+
 Fig.: ⟪इदं फलं अलं खादनाय⟫
 (Image source: [Details](/licenses#uebung038))
+
 :::

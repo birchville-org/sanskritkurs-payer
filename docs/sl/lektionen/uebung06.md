@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Slika: ⟪का नृत्यति ।⟫
 (Vir slike: [Podrobnosti](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Ponovitvena vaja lekcija 6
@@ -246,7 +250,7 @@ sādhū rāmaḥ.
 
 ⟪साधू रामः ॥⟫
 
-B) Setzen Sie in den Plural:
+B) Postavite v množino:
 
 1\. brāhmaṇo yajati.
 
@@ -556,7 +560,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी । सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫
 
-12\. Diese Göttin ist gut.
+12\. Ta boginja je dobra.
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -587,4 +591,3 @@ dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣa
 ⟪द्विजातयो ब्राह्मणक्षत्रियवैश्याः । द्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च ।⟫
 
 17\. Znanosti (za vladarja) so: filozofija, trojno (vedsko znanje), ekonomija in politika. (2 možnosti)
-:::

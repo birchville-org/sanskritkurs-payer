@@ -30,7 +30,7 @@ Kirjoitettaessa jokainen kirjain, mukaan lukien yläviiva, on saatettava loppuun
 
 ## Harjoitus
 
-Schreiben Sie in Devanāgarī:
+Kirjoita devanāgarīlla:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Lue ja translitteroi:
 Lisäluuntiharjoitus:
 
 ⟪पिता⟩ Isä, ⟪कपि⟩ apina, ⟪कृत⟩ tehnyt,  ⟪टीका⟩ alikommentti, ⟪तत्⟩ tämä, ⟪तट⟩ ranta, ⟪पत्⟩ ampua eteenpäin, ⟪पट⟩ kangas, ⟪काच⟩ lasi,  ⟪काकुत्⟩ kitalaki, ⟪चित्⟩ havaita, ⟪पृच्⟩ sekoittaa,  ⟪पोटक⟩ palvelija, ⟪चेतु⟩ tarkoitus, ⟪तौतातित⟩ Kumārilan kannattaja (Mīmāṃsā), ⟪तूत⟩ mulperipuu, ⟪पीत⟩ juonut,  ⟪पीति⟩ juoma, ⟪कॢप्⟩  mahtua, ⟪कृपते⟩ hän valittaa, ⟪पुटी⟩ rypytys, ⟪चापि⟩ samankaltainen, ⟪तोक⟩ jälkeläiset, ⟪तृपत्⟩ kylläinen, ⟪पॄ⟩ täyttää, ⟪कृकाटी⟩ kaulanivelen, ⟪पूपौ⟩ kaksi kakun, ⟪पैतृकी⟩ isällinen (naispuol.), ⟪कौट⟩ huijarinen, ⟪कच⟩ päähiukset, ⟪कुतपे⟩ vuohenhäntäpeitolla, ⟪कुचौ⟩ rinta, ⟪चकिता⟩ säikähtänyt (naispuol.)
-
-

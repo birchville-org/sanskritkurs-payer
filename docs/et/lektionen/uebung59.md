@@ -47,10 +47,10 @@ _Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ z
 
 [LN] > These went to his house and saw him sleeping. They emitted tumultuous sounds and struck quickly with sticks.
 \>
-> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (für ⟪इ⟫) Aor. 1 P  
-> ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
-> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ aussprechen, sagen Aor. 4 P  
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (statt ⟪हन्⟫) Aor. 5
+> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (sest ⟪इ⟫) Aor. 1 P  
+> ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.mitm.)  
+> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ välja ütlema, ütlema Aor. 4 P  
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (asemel ⟪हन्⟫) Aor. 5
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫

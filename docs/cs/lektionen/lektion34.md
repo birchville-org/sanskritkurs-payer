@@ -55,7 +55,6 @@ V klasickém sanskrtu existují od kmene perfekta pouze oznamovací způsob a pa
 
 :::
 ### 34.2.3. Vazebný samohláskový znak -i-
-:::
 ### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 ::: grammar-box

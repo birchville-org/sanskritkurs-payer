@@ -276,6 +276,7 @@ La 2.sg.P. se forma a partir de la raíz débil cuando aparece la vocal de unió
 
 ⟪क्रम्⟫ 1U
 
+:::
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |

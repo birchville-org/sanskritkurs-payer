@@ -12,12 +12,12 @@ last_reconstructed: 2026-05-07
 
 
 
-## 8.1. Zur Bildung von Nomina
+## 8.1. Om bildandet av substantiv
 
 Inom traditionell indisk grammatik skiljer man mellan suffixen med vilka nominalstammar bildas:
 
-**kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-**taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+**kṛt-suffix (⟪कृत्⟫) (primära suffix):** bildar substantivstammar, absolutiv och infinitiv från verbalrötter (**dhātu** m. = ⟪धातु⟫) och verbalstammar.
+**taddhita-suffix (⟪तद्धित⟫) (sekundära suffix):** läggs till substantivstammar och oböjliga ord och bildar nya substantivstammar respektive oböjliga ord.
 
 ::: grammar-box
 

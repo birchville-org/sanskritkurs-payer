@@ -1,5 +1,5 @@
 ---
-title: "Exercise 25"
+title: "Øvelse 25"
 uebung_id: 25
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -65,10 +65,14 @@ Buddhas and Arhants are freed from suffering. For they have attained the liberat
 Through greed, hatred, and delusion people are corrupted. When the time has come, they then fall into a hell.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Bildekilde: [Detaljer](/no/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 The Kṣatriya brings heroic warriors from the large city to fight the village of enemies.
 
@@ -88,7 +92,7 @@ Without Rāma.
 The instruction of a saint leads to virtue, not that of an unrighteous person.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma venter på Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 It goes easily (happily).
@@ -113,10 +117,14 @@ If someone, out of arrogance, greed, anger or fear, pronounces a false judicial 
 Hells arise because of evil, evil arises from poverty, poverty arises from not giving.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति नरकाः पापात्⟫
 (Bildekilde: [Detaljer](/no/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 A thief is freed from the guilt of theft through punishment or release. But if the king does not punish him, then he assumes the thief's guilt.
 
@@ -128,9 +136,13 @@ A thief is freed from the guilt of theft through punishment or release. But if t
 The economy is useful because it produces grain, cattle, gold, metals, and labor.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Bildekilde: [Detaljer](/no/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Therefore, the three sciences have the staff (daṇḍa) as their foundation. The staff, which is the foundation of good conduct, brings beings acquisition and secure possession. Good conduct is acquired or innate. Activity educates suitable material, not unsuitable one. Knowledge educates a mind that has arrived at truth through obedience, listening, grasping, understanding, and reflection, not another one. ... For from what is heard arises knowledge, from knowledge practice, from practice self-possession; thus the sciences correspond to their purpose. Knowledge and good conduct are the cause for victory over the senses. This is necessary in order to lay aside lust, hatred, greed, conceit, intoxication, and agitation.

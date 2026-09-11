@@ -1,5 +1,5 @@
 ---
-title: "Lektion 9"
+title: "9. õppetund"
 subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
@@ -35,15 +35,15 @@ Lisaks sellele põhireeglile Samāhāradvandvate moodustamiseks on veel mitmeid 
 1\. **Diminutives (diminutive forms like German -chen, -lein, -li, -le):**
 **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"**
 
-2\. **Nouns denoting approximate similarity:**
-**aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"**
+2. **Ligikaudset sarnasust tähistavad nimisõnad:**
+**aśva m. "hobune" » aśvaka m. ⟪अश्वक⟫ "väike hobune, hobusega sarnanev asi"**
 
 3\. **Nouns without semantic difference from the underlying noun:**
 **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nouns expressing "related to the concept of the base word":**
-**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
-**rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
+4. **Nimisõnad, mis väljendavad "seotud algsõna mõistega":**
+**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "Benaresist pärit, Benaresist pärinev"**
+**rūpa n. "kuju" » rūpaka 3 ⟪रूपक⟫ "millegi kuju omav"**
 
 :::
 
@@ -164,7 +164,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 19\. darśaka (⟪दर्शक⟫)
 20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:**
+**B) Tõlkige:**
 
 1. Aufgaben aller Zweimalgeborenen:
    **ijyādhyayanadānāni**
@@ -176,22 +176,22 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 (Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya:
+3. Kṣatriya spetsiifilised ülesanded:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = omastav kääne: "kõigi olendite"; Gautamadharmasūtra X, 7)
 
-4. Specific duties of a Vaiśya:
+4. Vaiśya spetsiifilised kohustused:
    **kṛṣivāṇijyapāśupālyakusīdam**
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-(nach Gautamadharmasūtra X, 49)
+(Gautamadharmasūtra X, 49 järgi)
 
-5. Aufgaben eines Śūdra:
+5. Śūdra ülesanded:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
-(nach Kauṭilīya-Arthaśāstra 1.3.8.)
-Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+(Kauṭilīya-Arthaśāstra 1.3.8. järgi)
+Selgitus: dvijātīnām = omastav kääne mitmuses sõnast dvijāti (tõlkige siin: "kahekordselt sündinute suhtes"); kārukuśīlavakarma on Tatpuruṣa, mille esimeses osas on Dvandva (kārukuśīlava). karma = ainsuse nimetav kääne sõnast karman n. "tegu, tegevus, karma" juurest kṛ 8 U). Tõlkige "tegu / tegevus ... (omastav kääne)" (Dvandva poolt tähistatute).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (Kauṭilīya-Arthaśāstra 1.4.1. järgi)

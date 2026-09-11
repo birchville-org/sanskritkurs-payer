@@ -536,7 +536,7 @@ z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ukuba ngendlela efanele, ukufanela (Indawo) ; ukwakheka, ukwakha ; ukunquma, ukuzivumelanisa (Isivumelwano)
 
 ::: indent
 

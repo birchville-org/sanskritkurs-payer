@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "collective dvandva")
 
 ::: grammar-box
+
 **When a dvandva is intended to express that a series of things, etc., form a unity, it generally stands in the singular neuter:**
 
 e.g. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ does not simply mean "food (**āhāra** m.), sleep (**nidrā** f.), sexual intercourse (**maithuna** n.) and fear (**bhaya** n.)", but these four as a **unity**, which characterizes animal life.
+
 :::
+
 In addition to this basic rule for forming Samāhāradvandvas, there are a number of further rules that can be found in Pāṇini 2,4,2-17 or e.g. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. In the various stages of language development, not always the same rules were observed!
 
 
@@ -27,6 +30,7 @@ In addition to this basic rule for forming Samāhāradvandvas, there are a numbe
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **The taddhita suffix -ka forms among other things:**
 
 1\. **Diminutives (diminutive forms like Sanskrit -ka):**
@@ -41,15 +45,19 @@ In addition to this basic rule for forming Samāhāradvandvas, there are a numbe
 4\. **Nouns that express "related to the concept of the base word":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "native of Benares, originating from Benares"**
 **rūpa n. "form" » rūpaka 3 ⟪रूपक⟫ "possessing the form of something"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
 ::: grammar-box
+
 **Kṛt-viðskeytið -aka, kvenkyn oft -ikā, myndar gerandanöfn (nafnorð sem lýsa geranda) úr hverri rót.**
 
 A final vowel of the root as well as **-a-** in the penultimate position of the root are replaced by their lengthened grade (**vṛddhi**) (there are some exceptions), the other vowels are replaced by their strengthened grade (**guṇa**).
+
 :::
+
 **Examples:**
 
 | Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
@@ -62,8 +70,11 @@ A final vowel of the root as well as **-a-** in the penultimate position of the 
 | **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
+
 **Some of these formations have the narrower meaning: "habitually or as a duty or properly performing that expressed by the root".**
+
 :::
+
 see above e.g. **śrāvaka**, **yājaka**, **jayaka**
 
 **Examples:**
@@ -84,17 +95,25 @@ In addition, there are a few less important uses of the suffix **-aka**. Cf. Wac
 **adhyayana** n. (⟪अध्ययन⟫) : learning, esp. Vedic study
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram near Madurai.
 (Image source: [Details](/is/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : craftsman
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Image source: [Details](/is/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (wandering) showman, actor, singer
 **kusīda** n. (⟪कुसीद⟫) : usury
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : to pull
@@ -124,10 +143,14 @@ to **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Image source: [Details](/is/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -172,4 +195,4 @@ Explanation: dvijātīnām = Genitive plural of dvijāti (translate here as "tow
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (samkvæmt Kauṭilīya-Arthaśāstra 1.4.1.)

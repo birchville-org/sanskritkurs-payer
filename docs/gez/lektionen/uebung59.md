@@ -13,7 +13,7 @@ last_reconstructed: 2026-05-15
 
 ![](/images/uebung098.webp)
 
-Abb.: ⟪रावणः⟫
+ስዕሊ: ⟪रावणः⟫
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#uebung098))
 
@@ -33,13 +33,13 @@ _Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ z
 
 ⟪राक्षसेन्द्रस्ततो ऽभैषीदैक्षिष्ट परितः पुरम् । प्रातिष्ठिपच्च बोधार्थं कुम्भकर्णस्य राक्षसान् ॥१॥⟫
 
-> Darauf fürchtete sich der Dämonenfürst. Er blickte in der Stadt rundherum und schickte die Rākṣasas, um Kumbhakarṇa¹ zu wecken.
+> በዚያን ጊዜ የጋኔኑ አለቃ ፈራ። በከተማይቱ ዙሪያ ተመለከተና ኩምብሀካርናን¹ ሊያነቃቁ ራክሻሶችን ላከ።
 \>
-> ⟪अभैषीत्⟫ -  ⟪भी⟫ Aor. 4 P  
-> ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā
-> ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ unregelm. (siehe Pāṇini 7.4.5) Aor. 3
+> ⟪अभैषीत्⟫ - ⟪भी⟫ ያለፈ ግሥ ፬ኛ ብዙኃን  
+> ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ ያለፈ ግሥ ፭ኛ ነጠላ
+> ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ መደበኛ ያልሆነ (ይመልከቱ ፓኒኒ ፯.፬.፭) ያለፈ ግሥ ፫ኛ
 \>
-> 1 Kumbhkarṇa, der Bruder Rāvaṇas, liegt als Strafe für seine Übeltaten im Dauerschlaf
+> 1 ኩምብሀካርና፣ የራቫና ወንድም፣ ለክፉ ሥራዎቹ ቅጣት ዘላለማዊ እንቅልፍ ውስጥ ነው።
 
 ⟪ते ऽभ्यगुर्भवनं तस्य सुप्तं चैक्षिषताथ तम् । व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम् ॥२॥⟫
 
@@ -215,7 +215,7 @@ _Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ z
 
 ![](/images/uebung099.webp)
 
-Abb.: ⟪रामस्य रावणेन युद्धः⟫
+ስዕሊ: ⟪रामस्य रावणेन युद्धः⟫
 
 (ምንጭ ምስል: [ዝርዝሮች](/licenses#uebung099))
 

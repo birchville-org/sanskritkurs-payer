@@ -25,7 +25,7 @@ status: stable
 
 ::: grammar-box
 
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**ገብሪ (ከርቱር) በኀይለ-መሣርያ (ትርቲያ) -- ቅቡል ነገር (ከርመን) በስም-አመላካቲ (ፕረተማ) -- ተፈጻሚ ግስ ዘሓለፈ ግዜ**
 
 በዝንቱ ነገር፣ ተሳቢ ግስ ዘኀለፈ ጊዜ ይትዋሐድ ምስለ ተሳቢ በቍጽር፣ በዐውድ ወበጾታ።
 
@@ -42,12 +42,12 @@ Examples:
 
 ::: grammar-box
 
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**ገብሪ (ከርቱር) በስም-አመላካቲ (ፕረተማ) -- ተፈጻሚ ግስ ዘሓለፈ ግዜ**
 
 በዝንቱ ነገር፣ ተሳቢ ግስ ዘኀለፈ ጊዜ ይትዋሐድ ምስለ ፈጻሚ በቍጽር፣ በዐውድ ወበጾታ። ተሳቢ ግስ ዘኀለፈ ጊዜ "ተገብሮ" ለግስ ዘኢይትዐደው (ግስ ዘአልቦ ተሳቢ ቀጥተኛ) ወለግስ ዘእንቅስቃሴ ትርጉም ዘፈጻሚ አለው።
 
-Example:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+ምሳሌ:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „እታ ኽሻትርያ ናብ ከተማ ኸይዳ።“
 
 :::
 
@@ -168,7 +168,7 @@ Example:
 
 ![](/images/lekt1201.webp)
 
-Abb.: ⟪गौतमो बुद्धः⟫
+ስዕሊ: ⟪गौतमो बुद्धः⟫
 
 (Image source: [Details](/gez/licenses#lekt1201))
 
@@ -183,7 +183,7 @@ Abb.: ⟪गौतमो बुद्धः⟫
 
 ![](/images/lekt1202.webp)
 
-Abb.: ⟪मार्गः⟫
+ስዕሊ: ⟪मार्गः⟫
 
 (Image source: [Details](/gez/licenses#lekt1202))
 
@@ -206,7 +206,7 @@ Zur Wortbildung:
 
 ![](/images/lekt1203.webp)
 
-Abb.: ⟪महावीरो जिनः⟫
+ስዕሊ: ⟪महावीरो जिनः⟫
 
 (Image source: [Details](/gez/licenses#lekt1203))
 

@@ -13,12 +13,15 @@ status: stable
 ## 6.1. 动词句
 
 ::: grammar-box
+
 **模式 I：动词形式**
 例如，**yajati** = ⟪यजति⟫ = “他（她，它）以祭祀来尊崇”，“他（她，它）进行祭祀”
 
 **模式 II：施事者（kartṛ m. = ⟪कर्तृ⟫） – 动词形式**
 例如，**rāmo yajati** = ⟪रामो यजति⟫ = “罗摩以祭祀来尊崇”，“罗摩进行祭祀”
+
 :::
+
 如果在非被动的动词句中提到了施事者（**kartṛ** m. = ⟪कर्तृ⟫），那么施事者处于**主格**（第一格，prathamā = ⟪प्रथमा⟫）。在数（Zahl, vacana n. = ⟪वचन⟫）上，施事者与动词形式保持一致。
 
 
@@ -59,8 +62,11 @@ status: stable
 现在时是表示现在的时态，特别是持续的状态。
 
 ::: grammar-box
+
 **Indikativ（陈述式）现在时的构成，是在现在时干后附加所谓的“主词尾”。**
+
 :::
+
 示例：
 
 | 词根 (dhātu) | 现在时干 | 第三人称单数 Indikativ Präsens Parasmaipada |
@@ -73,11 +79,14 @@ status: stable
 ## 6.4. 第三人称的强词尾（prathama m. = ⟪प्रथम⟫ = “第一（！）人称”）
 
 ::: grammar-box
+
 | | 单数（Einzahl）：brekavacana n.：br⟪एकवचन⟫ | 复数（Mehrzahl）：brbahuvacana n.：br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** ：br⟪परस्मैपद⟫ | **-ti** ：br-⟪ति⟫ | **-nti** ：br-⟪न्ति⟫ |
 | **Ātmanepada n.** ：br⟪आत्मनेपद⟫ | **-te** ：br-⟪ते⟫ | **-nte** ：br-⟪न्ते⟫ |
+
 :::
+
 示例 **yaj** = ⟪यज्⟫ = “以祭祀敬奉”，“献祭”：
 现在时词干：**yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ status: stable
 ### 6.5.1. 第六类现在时动词（tudādi = ⟪तुदादि⟫ = “tud 等”）
 
 ::: grammar-box
+
 **现在时词干 = 弱式根（即其被列出的形式）+ a-**
 
 | 词根（dhātu m.）：br⟪धातु⟫ | 现在时词干 |
 | :--- | :--- |
 | **viś** ：br⟪विश्⟫ | **viśa-** ：br⟪विश⟫- |
 | **sṛj** ：br⟪सृज्⟫ | **sṛja-** ：br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. 第一类现在时动词（bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = “bhū 等”）
 
 ::: grammar-box
+
 | 现在时词干 = 强式根（罕见为长音式）+ a- ||||
 | 词根（dhātu m.）：br⟪धातु⟫ | 强式 | a-前的强式 | 现在时词干 |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ status: stable
 | **yaj** ：br⟪यज्⟫ | **yaj** ：br⟪यज्⟫ | **yaj** ：br⟪यज्⟫ | **yaja-** ：br⟪यज⟫- |
 | 若元音位于长闭音节中，即短元音后跟两个或更多辅音，则不形成强式 ||||
 | **nind** ：br⟪निन्द्⟫ | **nind** ：br⟪निन्द्⟫ | **nind** ：br⟪निन्द्⟫ | **ninda-** ：br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. 词中 e 和 o 的连音变化
 在元音之前，词内的 **e** 替换为 **ay**，**o** 替换为 **av**。
 
 #### 6.5.2.2. 元音交替（Ablaut）
 
 ::: grammar-box
+
 | 低阶：br弱阶 | 中阶：br全阶：brGuṇa m.:br⟪गुण⟫ | 长阶：brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ status: stable
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. 第四类现在时动词（divādi = ⟪दिवादि⟫ = "div 等"）
 
 ::: grammar-box
+
 **现在时词干 = 根的低阶形式（即其被列出的形式）+ ya-**
 
 | 词根 (dhātu m.):br⟪धातु⟫ | 现在时词干 |
@@ -136,33 +155,42 @@ status: stable
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. 主题元音，有主题现在时类
 
 ::: grammar-box
+
 现在时类词干构成后缀中的 **a** 被称为**主题元音**。因此，词干构成后缀中包含 **a** 的现在时类被称为“有主题现在时类”。
+
 :::
 
 ## 6.6. 口语梵语：其他问题（praśna m. = ⟪प्रश्न⟫）
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "N.N. 在做什么？"
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "N.N.s 们在做什么？"
 (karoti, kurvanti 来自 **kṛ** = ⟪कृ⟫ 第8类: "做，制作")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "您还好吗？/ 您好吗？"
 回答: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(我)各方面都很好。"
+
 :::
 
 ## 6.7. 词汇表
 
 ::: grammar-box
+
 在梵语中，动词以**词根形式**列出。词根后的数字表示**变位类**。
 
 **P：** 该词根仅用于 Parasmaipada（他称语态）
 **Ā：** 该词根仅用于 Ātmanepada（自称语态）
 **U：** Ubhayapada（“两种形式”）：该词根在 Parasmaipada 和 Ātmanepada 中均使用。
 **()：** 括号内为第三人称单数现在时直陈式（laṭ）。
+
 :::
+
 **请学习以下词汇：**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : 以祭祀敬奉，献祭
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : 成为，产生，存在
@@ -206,10 +234,13 @@ status: stable
 13. （前述的）婆罗门妇女跳舞。
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 舞王湿婆（Śiva Naṭarāja）(⟪नटराज⟫)，Kadavul 印度教寺庙，考艾岛，夏威夷
 （图片来源：维基百科，CC-BY-SA 2.5）
+
 :::
 
 ## 6.9. 复习练习
@@ -279,28 +310,32 @@ status: stable
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
 **F) 翻译成梵文：**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+1. 罗摩（作为祭主）献祭。
+2. 杜尔迦是一位女神。
+3. 米那克什是一位女神。
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (图片来源：维基百科，公共领域)
+
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten)
-15. Diese Brahmanen opfern im Auftrag anderer.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
-18. Geht es Ihnen gut?
-19. (Es geht mir) in jeder Hinsicht gut.
+
+4. 他们很困惑。
+5. 罗摩是一位圣人。
+6. 谁是主宰？
+7. 因陀罗是主宰。
+8. 牲畜进入。
+9. 毗湿奴使之显现 = 毗湿奴创造。
+10. 再生族是好的。
+11. 三重（知识）是《娑摩吠陀》、《梨俱吠陀》和《夜柔吠陀》。（2种可能性）
+12. 这位女神是好的。
+13. 五种“苦难”是：无明、我执、贪爱（爱）、嗔恨、执着于身体。（2种可能性）
+14. “梵天住境”是：慈爱、悲悯、喜悦、舍弃。（2种可能性）
+15. 这些婆罗门代表他人献祭。
+16. 婆罗门、刹帝利和吠舍是再生族。（2种可能性）
+17. （对于一位君主而言）的学问是：哲学、三重（吠陀知识）、经济学和政治学。（2种可能性）
+18. 您好吗？
+19. 我一切都好。

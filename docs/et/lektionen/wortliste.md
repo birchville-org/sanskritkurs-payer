@@ -34,7 +34,7 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-::: note-box Die vier Stände (varna)
+::: note-box Neli seisust (varna)
 
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed as follows:
 
@@ -79,10 +79,10 @@ Fig.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschn
 
 :::
 
-**Beschriftung:**
-**Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-**Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-**Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Pealkiri:**
+**Preestriseisus** (~Brāhmaṇa): Tu supplex ora = Sina palveta anudes!
+**Aadlikuseisus** (~Kṣatriya): Tu protege = Sina kaitse!
+**Talupojaseisus** (~Vaiśya/Śūdra): Tuque labora = Ja sina tööta!
 
 Kolme seisust kannavad vastavat seisusekostüümi. Nende – seega jumaliku tahtena määratletud – seisuste kohal troonib Kristus.
 
@@ -190,15 +190,15 @@ Joonis: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Kṣatriya naine.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
 **śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Śūdra naine.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : Jumalanna, eriti Durgā f. = ⟪दुर्गा⟫, Śiva abikaasa = ⟪शिव⟫.
 
 ::: media
 
@@ -260,7 +260,7 @@ Joonis: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **trayī** f. = ⟪त्रयी⟫ : triaad; eriti kolm Vedat (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Staatskunst (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "richtige Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Riigikunst (Tatpuruṣa sõnadest daṇḍa m. = "kepp, võim, valitsus, karistus" ja nīti f. = "õige juhtimine").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 
@@ -280,8 +280,8 @@ Joonis: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
+**ca** = ⟪च⟫ : ja.
+(Asetatakse sõna järele, mida see ühendab. Kui ühendatakse mitu sõna, seisab see ideaalis viimase ühenduslüli esimese sõna järel: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : nii ... kui ka.
 
@@ -460,21 +460,21 @@ Joonis: **kāru** = ⟪कारु⟫, Gujarat.
 
 :::
 
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
+- **kuśīlava** m. (⟪कुशीलव⟫) : (rändav) näitleja, etendaja, laulja
+- **kusīda** n. (⟪कुसीद⟫) : liigkasuvõtmine
+- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : tõmbama
+- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : kündma
+  - sellest: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : põlluharimine
+- **dāna** n. (⟪दान⟫) : andmine, and, heldus
+- **pratigraha** m. (⟪प्रतिग्रह⟫) : vastuvõtmine, kingitus
+- **pravacana** n. (⟪प्रवचन⟫) : kõne, (suuline) õpetus
+- **pāśupālya** n. (⟪पाशुपाल्य⟫) : loomakasvatus, karjakasvatus
+- sõnast **yaj** 1 U:
+  - **ijyā** f. (⟪इज्या⟫) : ohver (sõnast \*yj » ij + sufiks **yā**)
+  - **yajana** n. (⟪यजन⟫) : ohver kellegi teise nimel
+- **rūpa** n. (⟪रूप⟫) : välimus, vorm, ilus vorm, loomus, olemus
+- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : kaubandus
+- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : kuulekus, kuulekas teenistus
 
 ## Lektion 10
 
@@ -851,7 +851,7 @@ Joonis: ⟪महावीरो जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
+Õppige järgmised sõnad:
 
 - **eva** ⟪एव⟫ : betont vorhergehendes Wort
 - **asura** m. ⟪असुर⟫ : Dämon
@@ -993,9 +993,9 @@ Joonis: ⟪दीपाः⟫
 
 ⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫ : või (järelasetsev)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫ : või (eelasestsev)
 
 ⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
@@ -1150,7 +1150,7 @@ davon:
 
 ::: indent
 
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: mitte-pahatahtlikkus
 
 :::
 
@@ -1338,7 +1338,7 @@ davon:
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪सहित⟫ 3: ühendatud, varustatud
 
 ⟪हस्त⟫ m.: Hand
 
@@ -1474,9 +1474,9 @@ Joonis: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेह�
 
 **⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** elama juures, asustama, külastama
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** seal, teispoolsuses
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** siin, siinpoolsuses
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
 
@@ -1545,7 +1545,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ n.: Maa, maapind
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -1975,7 +1975,7 @@ davon:
 
 Joonis: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
+⟪गीतगोविन्द⟫ käsikiri, 1730 pKr
 (Pildi allikas: [Details](/licenses#lekt2411))
 
 :::
@@ -2077,7 +2077,7 @@ davon:
 
 ⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ sidesõna: kui
 
 ⟪न्याय⟫ m.: reegel, põhimõte, meetod, otsus (juriidiline), loogika (ni + i +a-st)
 
@@ -2362,7 +2362,7 @@ counterpart to ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫ m.: Viṣṇu ja Śiva ühendatuna üheks jumaluseks.
 
 ::: media
 
@@ -2448,7 +2448,7 @@ Inf. **kāmayitum** / **kamitum**
 
 Joonis: ⟪कृष्णो राधां कामयति⟫
 
-Gemälde von ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+⟪राजा रवि वर्मा⟫ (1848 - 1906) maal
 (Pildi allikas: [Details](/licenses#lekt2804))
 
 :::
@@ -2561,7 +2561,7 @@ Pushkar = ⟪पुष्कर⟫
 
 :::
 
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫ : samuti sama tähendusega kui ⟪पाति⟫
 
 ⟪पुनर्⟫ muutumatu sõna: jälle, ikka ja jälle, tagasi, veel kord; seevastu, aga (enne helilisi häälikuid, välja arvatud r-: ⟪पुनर्⟫)
 
@@ -2588,7 +2588,7 @@ Joonis: ⟪मत्स्यः⟫
 
 :::
 
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫ : samuti sama tähendusega kui ⟪पाति⟫
 
 ⟪पुनर्⟫ muutumatu sõna: jälle, ikka ja jälle, tagasi, veel kord; seevastu, aga (enne helilisi häälikuid, välja arvatud r-: ⟪पुनर्⟫)
 
@@ -2617,7 +2617,7 @@ Joonis: ⟪मत्स्यः⟫
 
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ määrsõna: nagu, justkui
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
@@ -2778,11 +2778,11 @@ Joonis: ⟪प्रिया⟫
 
 ::: indent
 
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न⟫ ⟪चेत्⟫ : kui mitte
 
 :::
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Sidesõna: kui
 
 ::: indent
 
@@ -3003,7 +3003,7 @@ davon:
 
 Joonis: ⟪प्रज्ञापारमिता⟫
 
-Aus einem Prajñāpāramitā-Manuskript.
+Prajñāpāramitā käsikirjast.
 (Pildi allikas: [Details](/licenses#lekt3103))
 
 :::
@@ -3264,7 +3264,7 @@ Joonis: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪
 
 :::
 
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: panema, paika panema, määrama
 
 ::: indent
 
@@ -3449,7 +3449,7 @@ Rice field in India.
 
 :::
 
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** kui kaua, kui suur
 
 **⟪तावत्⟫ :** so lange, so gross
 
@@ -3532,7 +3532,6 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
 
-:::
 
 ::: media
 
@@ -4158,7 +4157,7 @@ Joonis: ⟪अशोकसाम्राज्यम्⟫
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : olema õiges korras, sobima (Lok.) ; kujunema, moodustuma ; otsustama, nõustuma (Daativ)
 
 ::: indent
 
@@ -4534,7 +4533,7 @@ Mõlemale sooritatakse rituaale, nn ⟪श्राद्ध⟫ n. Iga päev pak
 
 ⟪यातृ⟫ m.: abikaasa venna naine
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ n.: mehe õde
 
 ⟪श्वसुर⟫ n.: äi (vanasti: ainult naise oma)
 
@@ -4600,7 +4599,7 @@ Joonis: ⟪पण्यानि⟫
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: varustatud
 
 ⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
 
@@ -4608,7 +4607,7 @@ Joonis: ⟪पण्यानि⟫
 
 ⟪निश्चित⟫ 3: entschieden, festgesetzt
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : kui mitte, muidu
 
 ⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
 
@@ -4658,7 +4657,7 @@ Joonis: ⟪वत्सः⟫
 
 ⟪मूल्य⟫ n.: Wert, Preis
 
-⟪कियत्⟫ 3: wie gross
+⟪कियत्⟫ 3: kui suur
 
 ⟪शर्करा⟫ f.: suhkur (eestikeelne "suhkur" tuleb itaalia keelest zucchero, sealt araabia keelest sukkar - سكر ja pärsia keelest äkär - شکر tagasi sanskriti keelde ⟪शर्करा⟫!)
 
@@ -4896,7 +4895,7 @@ Joonis: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ : kas ... või
 
 ## Lektion 46
 
@@ -4949,7 +4948,7 @@ sellest:
 
 :::
 
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+⟪राहु⟫ ja ⟪केतु⟫ kohta vaata:
 
 > **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
@@ -4977,7 +4976,7 @@ sellest:
 
 :::
 
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+⟪राहु⟫ ja ⟪केतु⟫ kohta vaata:
 
 > **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
@@ -5110,9 +5109,9 @@ Joonis: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद
 
 :::
 
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: edasi-tagasi käimine
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: kadumine
 
 ⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : vaeva nägema, väsima
 
@@ -5233,7 +5232,7 @@ Joonis: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/l
 
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ sidesõna: kui
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
 
@@ -5340,7 +5339,7 @@ Joonis: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 :::
 
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ määrsõna: päeval ja öösel
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
@@ -5389,7 +5388,7 @@ Joonis: ⟪स्थविराः⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: ka: laiduväärne
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 
@@ -5573,9 +5572,9 @@ Fortune teller with parrot in cage: the parrot draws slips of paper on which fat
 
 :::
 
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: [dalitite](http://de.wikipedia.org/wiki/Dalit) madalaim aste
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ muutumatu sõna: ise, iseenesest
 
 ⟪अवनि⟫ f.: Erde
 
@@ -5688,7 +5687,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 :::
 
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: ka: saatus (sõnast ⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫: sadama (enamasti koos ⟪कर्तृ⟫ -- jumala või pilvega)
 
@@ -5730,7 +5729,7 @@ Joonis: ⟪आदित्यः⟫
 
 :::
 
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: iga, kõik
 
 Käändumine nagu ⟪यद्⟫ (erand: Nom.Akk.ains.neutrum)
 
@@ -5948,7 +5947,7 @@ City Palace, ⟪उदयपुर⟫
 
 Joonis: ⟪मृगया⟫
 
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+Jaht ⟪चीता⟫'ga (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Pildi allikas: [Details](/licenses#lekt5110))
 
 :::
@@ -6089,7 +6088,7 @@ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 Joonis: ⟪मणिः⟫
 
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
+Hope'i teemant Gunturist = గుంటూరు, tänapäeval Smithsoniani loodusloomuuseum, Washington DC
 (Pildi allikas: [Details](/licenses#lekt5118))
 
 :::
@@ -6108,7 +6107,7 @@ Joonis: ⟪मदः⟫
 
 :::
 
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: ka: värv, punane värv
 
 ⟪कालन⟫ n.: Wald
 

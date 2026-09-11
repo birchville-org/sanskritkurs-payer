@@ -315,6 +315,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
+:::
 ::: media
 
 ![](/images/lekt2709.webp)
@@ -356,7 +357,7 @@ Naran. Udaipur.
 
 :::
 
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### 27.7.2. Neutrum på -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -383,7 +384,7 @@ Früchte. Bangalore.
 
 :::
 
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Femininum på -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -437,7 +438,7 @@ Avrättning av två deltagare i upproret 1857. Fotografi av Felice Beato (1833/1
 
 :::
 
-### 27.7.5. Feminina auf -i: ⟪मति⟫
+### 27.7.5. Femininum på -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -453,7 +454,7 @@ Avrättning av två deltagare i upproret 1857. Fotografi av Felice Beato (1833/1
 
 :::
 
-### 27.7.6. Maskulina auf -u: ⟪गुरु⟫
+### 27.7.6. Maskulinum på -u: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -480,7 +481,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 
 :::
 
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Femininum på -u: ⟪धेनु⟫
 
 ::: grammar-box
 

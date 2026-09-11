@@ -30,11 +30,11 @@ outline: 2
 
 **kṣatriya** ተባዕታይ -- ⟪क्षत्रिय⟫ : ክሻትሪያ (መኳንንት ወሰራዊት መደብ)።
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
+**vaiśya** m. -- ⟪वैश्य⟫ : ቫይሽያ (ሕዝበ ንግድ ወግብር).
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box Die vier Stände (varna)
+::: note-box አርባዕቱ ክፍለ ሕዝብ (varna)
 
 በመሠረተ ቃል ዘጥንታዊት (ለምሳሌ ማኑስምርቲ ፩፣ ፹፰-፺፩) ተከፍለ እሙንቱ ግብራት፡
 
@@ -64,7 +64,7 @@ outline: 2
 
 :::
 
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "ክልኤተ ጊዜ ተወላዲ" (እለ ተጠምቁ እምላዕለኛው ክፍለ ሕዝብ: ብራህመና, ክሻትሪያ, ቫይሽያ).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
 
@@ -121,7 +121,7 @@ outline: 2
 
 ![](/images/lekt0203.jpg)
 
-Abb.: Gott Agni, Miniatur, 18. Jh.
+ስዕሊ: Gott Agni, Miniatur, 18. Jh.
 
 (ምንጭ ሥዕል፡ [ዝርዝር](/licenses#lekt0203))
 
@@ -135,7 +135,7 @@ Abb.: Gott Agni, Miniatur, 18. Jh.
 
 ![](/images/lekt0202.webp)
 
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
+ስዕሊ: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 (ምንጭ ሥዕል፡ [ዝርዝር](/licenses#lekt0202))
 
@@ -161,22 +161,22 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 **እምሩ ዝንቱ ቃላት፡**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**śruti** f. = ⟪श्रुति⟫ : ስምዐ, ዘለዓለማዊ ትውፊት (ስም ለቬዳት ወለብራህመናት).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**smṛti** f. = ⟪स्मृति⟫ : ትዝታ, መዘከር, መንፈሳዊ ትዝታ = ትኩረት, ትውፊት (ተቃራኒ ለ**śruti**). የያዘው:
+- ስድስቱ **vedāṅga** n. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** f. (⟪शिक्षा⟫): ቅን አነባበብ
+  2. **chandas** n. (⟪छन्दस्⟫): ግጥም
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): ሰዋስው
+  4. **nirukta** n. (⟪निरुक्त⟫) : ትርጓሜ ቃላት, ሥርወ ቃል
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : ከዋክብት, የዘመን አቆጣጠር
+  6. **kalpa** m. (⟪कल्प⟫) : ሥርዓተ አምልኮ
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : መጻሕፍተ ትምህርት ለታላላቅ መሥዋዕቶች
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : መጻሕፍተ ትምህርት ለዕለታዊ ሥርዓቶች ወመሥዋዕቶች
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) ወ **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : መጻሕፍተ ትምህርት ለሕግ ወሥርዓት (ቅን ምግባር)
+- ታላላቅ ታሪኮች **mahābhārata** n. (⟪महाभारत⟫) ወ **rāmāyaṇa** n. (⟪रामायण⟫)
+- **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : መጻሕፍተ ትምህርት ለጥበበ ሕይወት
 
 **smṛti** በተለይኒ ስም ኮነ ለመጻሕፍት ትምህርተ ድሃርማ።
 
@@ -204,7 +204,7 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 ![](/images/lekt0303.webp)
 
-Abb.: ዱርጋ = ⟪दुर्गा⟫ ኦሪስሳ
+ስዕሊ: ዱርጋ = ⟪दुर्गा⟫ ኦሪስሳ
 
 (የምስል ምንጭ: [Details](/images/lekt0303))
 
@@ -248,7 +248,7 @@ Abb.: ዱርጋ = ⟪दुर्गा⟫ ኦሪስሳ
 
 ![](/images/lekt0501.webp)
 
-Abb.: አምላኽ ካማ = kāmadeva = ⟪कामदेव⟫ 18. ምዕተ-ሰኔ
+ስዕሊ: አምላኽ ካማ = kāmadeva = ⟪कामदेव⟫ 18. ምዕተ-ሰኔ
 
 (የምስል ምንጭ: ዊኪፔዲያ ፣ የህዝብ ክልል)
 
@@ -401,7 +401,7 @@ Abb.: አምላኽ ካማ = kāmadeva = ⟪कामदेव⟫ 18. ምዕተ-�
 
 ![](/images/lekt0809.jpg)
 
-Abb.: **likh** (⟪लिख्⟫) : የሚጻፉበት ሰው
+ስዕሊ: **likh** (⟪लिख्⟫) : የሚጻፉበት ሰው
 
 (ምንጭ ሥዕል፡ [ዝርዝር](/licenses#lekt0809))
 
@@ -411,7 +411,7 @@ Abb.: **likh** (⟪लिख्⟫) : የሚጻፉበት ሰው
 
 ![](/images/lekt0810.jpg)
 
-Abb.: **likh** (⟪लिख्⟫) : የሚጻፉበት ሰው
+ስዕሊ: **likh** (⟪लिख्⟫) : የሚጻፉበት ሰው
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt0809))
 
@@ -534,7 +534,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ![](/images/lekt1003.webp)
 
-Abb.: ⟪वरुणः⟫
+ስዕሊ: ⟪वरुणः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt1003))
 
@@ -560,7 +560,7 @@ Abb.: ⟪वरुणः⟫
 
 ![](/images/lekt1002.jpg)
 
-Abb.: ⟪विश्वामित्रः⟫
+ስዕሊ: ⟪विश्वामित्रः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt1002))
 
@@ -580,7 +580,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ![](/images/lekt1003.webp)
 
-Abb.: ⟪वरुणः⟫
+ስዕሊ: ⟪वरुणः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt1003))
 
@@ -606,7 +606,7 @@ Abb.: ⟪वरुणः⟫
 
 ![](/images/lekt1002.jpg)
 
-Abb.: ⟪विश्वामित्रः⟫
+ስዕሊ: ⟪विश्वामित्रः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt1002))
 
@@ -626,7 +626,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ![](/images/lekt1003.webp)
 
-Abb.: ⟪वरुणः⟫
+ስዕሊ: ⟪वरुणः⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt1003))
 
@@ -653,7 +653,7 @@ Wortbildung **an-** („un-“) + **ṛta** n.
 
 ![](/images/lekt1002.jpg)
 
-Abb.: ⟪विश्वामित्रः⟫
+ስዕሊ: ⟪विश्वामित्रः⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt1002))
 
@@ -753,7 +753,7 @@ Abb.: ⟪विश्वामित्रः⟫
 
 ![](/images/lekt1202.webp)
 
-Abb.: ⟪मार्गः⟫
+ስዕሊ: ⟪मार्गः⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt1202))
 
@@ -776,7 +776,7 @@ Zur Wortbildung:
 
 ![](/images/lekt1203.webp)
 
-Abb.: ⟪महावीरो जिनः⟫
+ስዕሊ: ⟪महावीरो जिनः⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1203))
 
@@ -847,7 +847,7 @@ Abb.: ⟪महावीरो जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
+እነዚህን ቃላት ተማሩ:
 
 - **eva** ⟪एव⟫ : betont vorhergehendes Wort
 - **asura** m. ⟪असुर⟫ : Dämon
@@ -868,7 +868,7 @@ Lernen Sie folgende Wörter:
 
 ![](/images/lekt1301.webp)
 
-Abb.: ⟪महिषासुरः⟫
+ስዕሊ: ⟪महिषासुरः⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1301))
 
@@ -895,7 +895,7 @@ Abb.: ⟪महिषासुरः⟫
 
 ![](/images/lekt1304.webp)
 
-Abb.: ⟪अन्नम्⟫
+ስዕሊ: ⟪अन्नम्⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1304))
 
@@ -917,7 +917,7 @@ pad 4 Ā:
 
 ![](/images/lekt1303.webp)
 
-Abb.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+ስዕሊ: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1303))
 
@@ -953,25 +953,25 @@ dviṣ 2 U:
 
 ![](/images/lekt1405.webp)
 
-Abb.: ⟪दीपाः⟫
+ስዕሊ: ⟪दीपाः⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1405))
 
 :::
 
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : geboren werden, entstehen, auftreten
-* **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : sagen, sprechen zu (dvitīyā)
-* **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-* **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-* **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟫) : ኃይል, ብርታት, ጽናት; ሠራዊት, ጭፍራ
+* **bāla 3** (⟪बाल⟫) : ወጣት, ሕፃን, ሰነፍ; m. ወጣት ወንድ
+* **bālā f.** (⟪बाला⟫) : ወጣት ሴት
+* **nara m.** (⟪नर⟫) : ወንድ, ሰው
+* **śatru m.** (⟪शत्रु⟫) : ጠላት
+* **loka m.** (⟪लोक⟫) : ዓለም; ነጠላ ወብዙ: ሕዝብ, ሰዎች, ወገን
+* **jala n.** (⟪जल⟫) : ውኃ
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : ተወልደ, ተፈጠረ, ተገለጠ
+* **jan-a m.** (⟪जन⟫) : ፍጥረት, ሰው, ሕዝብ
+* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : ተናገረ, አወራ ለ (dvitīyā)
+* **uk-ti f.** (⟪उक्ति⟫) : ንግግር, ቃል
+* **vac-ana n.** (⟪वचन⟫) : መናገር, ቃል
+* **vāk-ya n.** (⟪वाक्य⟫) : ቃል, ንግግር
 
 ## Lektion 15
 
@@ -989,9 +989,9 @@ Abb.: ⟪दीपाः⟫
 
 ⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫ : ወይስ (በኋላ የሚመጣ)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫ : ወይስ (በፊት የሚመጣ)
 
 ⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
@@ -1003,7 +1003,7 @@ Abb.: ⟪दीपाः⟫
 
 ![](/images/lekt1504.webp)
 
-Abb.: ⟪पूजा⟫
+ስዕሊ: ⟪पूजा⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1504))
 
@@ -1122,7 +1122,7 @@ davon:
 
 ![](/images/lekt1602.webp)
 
-Abb.: ⟪अध्यापनम्⟫
+ስዕሊ: ⟪अध्यापनम्⟫
 
 "እዚ ኣብ ሳታራ (⟪सातारा⟫) ኣብ ዝርከብ ንእሽቶ ቤተ መቕደስ ዝካየድ ፍሉይ ስርዓት እዩ። ብተምሃሮ ስዋሚ ሙክታናንዳ ቬዳሻላ ኣብ በዓል ማሃሺቫራትሪ ይካየድ። እዚ ቬዲክ ቤት ትምህርቲ እዩ፣ ኣብኡ ቈልዑ ቅዱሳት ጽሑፋት ቬዳስ ዝበሃሉ ብልቦም ይሕዝዎም። እዚ ቤት ትምህርቲ ክሪሽና ያጁርቬዳን ገለ ክፍሊ ሳማቬዳን የምህር። ኣነ ኣብዚ ቤት ትምህርቲ ናይ ማስተር ዲግሪ መጽናዕተይ እሰርሕ ኣለኹ።"
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1602))
@@ -1137,7 +1137,7 @@ davon:
 
 ::: indent
 
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: ቅንነት
 
 :::
 
@@ -1167,7 +1167,7 @@ davon:
 
 ![](/images/lekt1601.webp)
 
-Abb.: ⟪योगी⟫
+ስዕሊ: ⟪योगी⟫
 
 ቢርላ ማንዲር, ዴልሂ
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1601))
@@ -1188,7 +1188,7 @@ Abb.: ⟪योगी⟫
 
 ![](/images/lekt1603.jpg)
 
-Abb.: ⟪अहिंसा⟫
+ስዕሊ: ⟪अहिंसा⟫
 
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1603))
@@ -1223,7 +1223,7 @@ davon:
 
 ![](/images/lekt1703.webp)
 
-Abb.: ⟪घाताः⟫
+ስዕሊ: ⟪घाताः⟫
 
 ባንጋሎር = ಬೆಂಗಳೂರು
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1703))
@@ -1244,7 +1244,7 @@ davon:
 
 ![](/images/lekt1701.webp)
 
-Abb.: ⟪योगासनम्⟫
+ስዕሊ: ⟪योगासनम्⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1701))
 
@@ -1268,7 +1268,7 @@ davon:
 
 ![](/images/lekt1702.webp)
 
-Abb.: ⟪दोग्धि⟫
+ስዕሊ: ⟪दोग्धि⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt1702))
 
@@ -1326,7 +1326,7 @@ davon:
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪सहित⟫ 3: የተባበረ, የያዘ
 
 ⟪हस्त⟫ m.: Hand
 
@@ -1436,7 +1436,7 @@ davon:
 
 ![](/images/lekt1904.webp)
 
-Abb.: ⟪छत्त्रम्⟫
+ስዕሊ: ⟪छत्त्रम्⟫
 
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍)፡ ብባህላዊ ክዳን፡ ኣብ ደቡባዊ ክፍሊ ኬራላ ልሙድ እዩ። _Onappottan_ ኣብ እዋን _onam_ ኣባይቲ ይበጽሕን በረኸት ይህብን። ኣብዚ እዋን _onappottan_ ኣብ ገጠራት ጥራይ ዝርአ ብጣዕሚ ብርቅ ዝኾነ ነገር ኮይኑ ኣሎ።"
 (ምንጪ ስእሊ፡ [ዝርዝር](/licenses#lekt1904))
@@ -1449,7 +1449,7 @@ Abb.: ⟪छत्त्रम्⟫
 
 ![](/images/lekt1903.jpg)
 
-Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+ስዕሊ: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
 
 (ምንጪ ስእሊ፡ [ዝርዝር](/licenses#lekt1903))
 
@@ -1461,9 +1461,9 @@ Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪ሴቭ⟫ + ⟪ኒ⟫ 1 ኣ ⟪ኒሼቫተ⟫ ፡** ምስኡ ምንባር፡ ምምሳል፡ ምብጻሕ
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** በዚያ, በኋለኛው ዓለም
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** ዝየሀ፣ በዛቲ ዓለም
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
 
@@ -1499,7 +1499,7 @@ Abb.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 ![](/images/lekt2008.webp)
 
-Abb.: ⟪आश्रमः⟫
+ስዕሊ: ⟪आश्रमः⟫
 
 ሪሺኬሽ = ⟪ርሺኬሽ⟫። "እዚ ብሓቂ እቲ ቢትልስ ዝነበሩሉ ክፍሊ ኣሽራም ኣብ ሪሺኬሽ እዩ። እዚ ፍሉይ ክፍሊ ሽዑ ኣይነበረን፡ ግን ብሓቂ ጽቡቕ ይመስል።"
 (ምንጪ ስእሊ፡ [ዝርዝር](/licenses#lekt2008))
@@ -1532,7 +1532,7 @@ Abb.: ⟪आश्रमः⟫
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ አንስት፡ ምድር፣ መሬት ወምድር
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -1643,7 +1643,7 @@ davon:
 
 ![](/images/lekt2105.webp)
 
-Abb.: ⟪भगवद्गीता भगवद्गीता⟫ - Manuskript, 19. Jhdt.
+ስዕሊ: ⟪भगवद्गीता भगवद्गीता⟫ - Manuskript, 19. Jhdt.
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt2105))
 
@@ -1667,7 +1667,7 @@ davon:
 
 ![](/images/lekt2104.webp)
 
-Abb.: ⟪भिक्षवः⟫
+ስዕሊ: ⟪भिक्षवः⟫
 
 ሉአንግ ፕራባንግ = ຫລວງພະບາງ፣ ላኦስ = ປະເທດລາວ
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt2104))
@@ -1710,7 +1710,7 @@ Abb.: ⟪भिक्षवः⟫
 
 ![](/images/lekt2202.webp)
 
-Abb.: ⟪कामदेवः⟫
+ስዕሊ: ⟪कामदेवः⟫
 
 ፲፱ ክፍለ ዘመን
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt2202))
@@ -1842,7 +1842,7 @@ Kolkata = কলকাতা
 
 ![](/images/lekt2406.webp)
 
-Abb.: ⟪देवीप्रतिमा⟫
+ስዕሊ: ⟪देवीप्रतिमा⟫
 
 ሀምፒ = ሀምፔ፣ ካርናታካ = ካርናታካ
 (ምንጭ ምስል፡ [ዝርዝሮች](/licenses#lekt2406))
@@ -1889,7 +1889,7 @@ davon
 
 ![](/images/lekt2407.webp)
 
-Abb.: ⟪ऊहापोहः⟫
+ስዕሊ: ⟪ऊहापोहः⟫
 
 "ኒው ዴሊ/ህንድ፣ 16 ህዳር 2008 - ሱሃሲኒ ሃይዳር፣ ምክትል የውጭ ጉዳይ አርታኢ፣ ሲኤንኤን-አይቢኤን ኔትወርክ 18፣ ህንድ፣ በኒው ዴሊ በተካሄደው የዓለም ኢኮኖሚክ ፎረም የህንድ ኢኮኖሚክ ሰሚት 2008 የፓነል ውይይት መርታለች።"
 (ምንጭ ምስል፡ [ዝርዝሮች](/licenses#lekt2407))
@@ -1916,7 +1916,7 @@ davon:
 
 ![](/images/lekt2408.webp)
 
-Abb.: ⟪आख्यानम्⟫
+ስዕሊ: ⟪आख्यानम्⟫
 
 "የሳን ፍራንሲስኮ ተራኪ ጄፍ ባየርስ ለቼንኔሪ፣ የኢሩላ መንደር ነዋሪዎች ታሪክ ያካፍላል። ተራኪ ጂቫ ራጉናት ለመንደርተኞቹ ወደ ታሚል ይተረጉማል።"
 (ምንጭ ምስል፡ [ዝርዝሮች](/licenses#lekt2408))
@@ -1955,14 +1955,14 @@ davon:
 
 ![](/images/lekt2411.webp)
 
-Abb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+ስዕሊ: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
 
 መጽሐፈ፡ ⟪ጊतगोविन्द⟫፡ ፲፯፻፴፡ ዓመተ፡ ምሕረት።
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2411))
 
 :::
 
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ ተባዕታይ፡ ሰላም (እም su-ā-gata)
 
 ⟪तृण⟫ n.: Grashalm
 
@@ -2008,7 +2008,7 @@ davon:
 
 ![](/images/lekt2501.webp)
 
-Abb.: ⟪धान्यम्⟫
+ስዕሊ: ⟪धान्यम्⟫
 
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2501))
 
@@ -2321,13 +2321,13 @@ counterpart to ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereinigt als eine einzige Gottheit.
+⟪हरिहर⟫ ተባዕታይ፡ ቪሽኑ ወሺቫ ኅቡራን ከመ አሐዱ አምላክ።
 
 ::: media
 
 ![](/images/lekt2704.webp)
 
-Abb.: ⟪हरिहरः⟫
+ስዕሊ: ⟪हरिहरः⟫
 
 ሐሪሐራ (ጸጋም፡ ቪሽኑ፡ የማን፡ ሺቫ)።
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2704))
@@ -2338,7 +2338,7 @@ Abb.: ⟪हरिहरः⟫
 
 ![](/images/lekt2705.webp)
 
-Abb.: ⟪हरिहरः⟫
+ስዕሊ: ⟪हरिहरः⟫
 
 ሐሪሐራ (ጸጋም፡ ቪሽኑ፡ የማን፡ ሺቫ)። ጎድሩምድዊፕ፡ ምዕራብ፡ በንጋል።
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2705))
@@ -2384,9 +2384,9 @@ davon: **vidyā** f., **veda** m.
 
 ::: indent
 
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: ተምህረ፣ ቃል በቃል ሐፈዘ
+ካውሳቲቭ፡ **adhyāpayati**: አስተምሀረ፣ አምሀረ
+እምዝ፡ **adhyayana** ተባዕታይ፡ ትምህርት (በተለይ ዘቬዳ)፤ **adhyāya** ተባዕታይ፡ ትምህርት፣ ምዕራፍ (ክፍል ለመሐፈዝ)
 
 :::
 
@@ -2405,7 +2405,7 @@ Inf. **kāmayitum** / **kamitum**
 
 ![](/images/lekt2804.webp)
 
-Abb.: ⟪कृष्णो राधां कामयति⟫
+ስዕሊ: ⟪कृष्णो राधां कामयति⟫
 
 ሥዕል፡ ዘ፡ ⟪राजा रवि वर्मा⟫ (፲፰፻፵፰ - ፲፱፻፮)
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2804))
@@ -2437,7 +2437,7 @@ Inf. **coritum**
 
 ![](/images/lekt2803.webp)
 
-Abb.: ⟪वीणां वादयति⟫
+ስዕሊ: ⟪वीणां वादयति⟫
 
 ቪና፡ ተጫዋች።
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2803))
@@ -2450,7 +2450,7 @@ Abb.: ⟪वीणां वादयति⟫
 
 ![](/images/lekt2805.webp)
 
-Abb.: ⟪बाला भारं हरति⟫
+ስዕሊ: ⟪बाला भारं हरति⟫
 
 ብላቴናይት፡ ሸክም፡ ትሸከም፡ በአሕመዳባድ።
 (ምንጭ፡ ሥዕል፡ [ዝርዝር](/licenses#lekt2805))
@@ -2513,7 +2513,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ![](/images/lekt2903.webp)
 
-Abb.: ⟪परिव्राजकाः⟫
+ስዕሊ: ⟪परिव्राजकाः⟫
 
 ፑሽካር = ⟪पुष्कर⟫
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt2903))
@@ -2538,7 +2538,7 @@ davon:
 
 ![](/images/lekt2901.webp)
 
-Abb.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+ስዕሊ: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt2901))
 
@@ -2546,7 +2546,7 @@ Abb.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamil
 
 ⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ ተውሳከ ግስ፡ ከመ፣ እንደ
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
@@ -2609,7 +2609,7 @@ Absol. ⟪विक्रीय⟩
 
 ![](/images/lekt3001.webp)
 
-Abb.: ⟪क्रीणन्ति विक्रीणते च⟩
+ስዕሊ: ⟪क्रीणन्ति विक्रीणते च⟩
 
 ቡንዲ = ⟪बुन्दी⟩, ራጃስታን = ⟪राजस्थान⟩
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3001))
@@ -2639,7 +2639,7 @@ davon:
 
 ![](/images/lekt3002.webp)
 
-Abb.: ⟪ज्ञातयः⟩
+ስዕሊ: ⟪ज्ञातयः⟩
 
 ዳሬዋዲ, ኣህመድ ናጋር ወረዳ = ⟪अहमदनगर⟩, ማሃራሽትራ = ⟪महाराष्ट्र⟩
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3002))
@@ -2662,7 +2662,7 @@ Inf. ⟪पवितुम्⟩
 
 ![](/images/lekt3003.webp)
 
-Abb.: ⟪श्रोत्राणि पुनाति⟫
+ስዕሊ: ⟪श्रोत्राणि पुनाति⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3003))
 
@@ -2684,7 +2684,7 @@ Inf. ⟪अशितुम्⟫
 
 ![](/images/lekt3005.webp)
 
-Abb.: ⟪अश्नीयात् थाली⟫, Südindien
+ስዕሊ: ⟪अश्नीयात् थाली⟫, Südindien
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3005))
 
@@ -2696,7 +2696,7 @@ Abb.: ⟪अश्नीयात् थाली⟫, Südindien
 
 ![](/images/lekt3004.webp)
 
-Abb.: ⟪प्रिया⟫
+ስዕሊ: ⟪प्रिया⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3004))
 
@@ -2706,11 +2706,11 @@ Abb.: ⟪प्रिया⟫
 
 ::: indent
 
-⟪न चेत्⟫ : wenn nicht
+⟪न चेत्⟫ : እመሰ ኢኮነ
 
 :::
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ መስተጻምር፡ እመሰ
 
 ::: indent
 
@@ -2736,7 +2736,7 @@ davon:
 
 ![](/images/lekt2904.webp)
 
-Abb.: ⟪पुनर्भवः⟫
+ስዕሊ: ⟪पुनर्भवः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt2904))
 
@@ -2785,7 +2785,7 @@ davon:
 **Inf. ⟪योक्तुम्⟫**
 
 ከዚህ፡-
-**⟪युग⟫ n. → ⟪युग⟫ n.:** ጅሮ፣ ማንኛውም ዓለም ዘመን (አራት የዓለም ዘመናት አሉ፡-
+⟪युग⟫ n.:** ጅሮ፣ ማንኛውም ዓለም ዘመን (አራት የዓለም ዘመናት አሉ፡-
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
@@ -2853,7 +2853,7 @@ davon:
 
 :::
 
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ ፡ መለጠፍ = እንቅስቃሴ ማድረግ፣ መለየት
+⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ ፡ መለጠፍ = እንቅስቃሴ ማድረግ፣ መለየት
 
 ::: indent
 
@@ -2893,7 +2893,7 @@ davon:
 **ፊት. ⟪भोक्ष्यति⟫**
 **ፓስ. ⟪भुज्यते⟫**
 **ኩስ. ⟪भोजयति⟫**
-**PPP bhukt → PPP ⟪भुक्त⟫**
+PPP ⟪भुक्त⟫**
 **ኢንፍ. ⟪भोक्तुम्⟫**
 
 ከዚህ፡-
@@ -3019,7 +3019,7 @@ davon:
 
 ![](/images/lekt3203.webp)
 
-Abb.: ⟪वानराः⟫
+ስዕሊ: ⟪वानराः⟫
 
 አራዊት (rhesus macaques) በደልሂ።
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3203))
@@ -3044,7 +3044,7 @@ Abb.: ⟪वानराः⟫
 
 ![](/images/lekt3204.webp)
 
-Abb.: ⟪उपलाः⟫
+ስዕሊ: ⟪उपलाः⟫
 
 የድንጋይ ማዕድን በደቡብ ፑኔ, ማሃራሽትራ።
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3204))
@@ -3057,7 +3057,7 @@ Abb.: ⟪उपलाः⟫
 
 ![](/images/lekt3205.webp)
 
-Abb.: ⟪लक्ष्यम्⟫
+ስዕሊ: ⟪लक्ष्यम्⟫
 
 የዒላማ ልምምድ / የፍላጻ ዒላማ, ካርናታካ።
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt3205))
@@ -3094,7 +3094,7 @@ Abb.: ⟪लक्ष्यम्⟫
 
 ![](/images/lekt3207.webp)
 
-Abb.: ⟪चितं गोमयं दहति⟫
+ስዕሊ: ⟪चितं गोमयं दहति⟫
 
 እሳት ዘርጊድ ፡ ጕብጕብ ፡ ላሕም ፡ በራጃስታን።
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3207))
@@ -3111,7 +3111,7 @@ Abb.: ⟪चितं गोमयं दहति⟫
 
 ![](/images/lekt3206.webp)
 
-Abb.: ⟪कौशलम्⟫
+ስዕሊ: ⟪कौशलम्⟫
 
 ሥዕል ፡ መሕንዲ ፡ በእደው ፡ በሙምባይ።
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3206))
@@ -3152,7 +3152,7 @@ davon:
 
 ![](/images/lekt3306.webp)
 
-Abb.: ⟪दानम्⟫
+ስዕሊ: ⟪दानम्⟫
 
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3306))
 
@@ -3170,13 +3170,13 @@ Abb.: ⟪दानम्⟫
 
 ![](/images/lekt3307.webp)
 
-Abb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+ስዕሊ: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
 
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3307))
 
 :::
 
-sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: አቀመጠ፣ አጽንዐ፣ ከፈለ
 
 ::: indent
 
@@ -3202,7 +3202,7 @@ davon:
 
 ![](/images/lekt3305.webp)
 
-Abb.: ⟪समाधि⟫
+ስዕሊ: ⟪समाधि⟫
 
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3305))
 
@@ -3212,11 +3212,11 @@ Abb.: ⟪समाधि⟫
 
 ::: indent
 
-Merke:
-3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
-3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
-3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
+አስተውል፡
+3.ብዙ.አሁን.ንቁጽ፡ sig[⟪पिपुरति⟫]
+3.ነጠላ.ያለፈ.ንቁጽ፡ sig[⟪अपिपर्⟫] (እም፡ \*apipart)
+3.ብዙ.ያለፈ.ንቁጽ፡ sig[⟪अपिपरुर्⟫]
+3.ነጠላ.ምኞት.ንቁጽ፡ sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -3247,7 +3247,7 @@ davon:
 
 ![](/images/lekt3304.webp)
 
-Abb.: ⟪भयम्⟫
+ስዕሊ: ⟪भयम्⟫
 
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3304))
 
@@ -3370,7 +3370,7 @@ Abb.: ⟪भयम्⟫
 
 ![](/images/lekt3406.webp)
 
-Abb.: ⟪सस्यम्⟫
+ስዕሊ: ⟪सस्यम्⟫
 
 ምድር ፡ ሩዝ ፡ በሕንድ።
 (ምንባብ ፡ ሥዕል ፡ [ዝርዝር](/licenses#lekt3406))
@@ -3389,7 +3389,7 @@ Abb.: ⟪सस्यम्⟫
 
 ![](/images/lekt3405.webp)
 
-Abb.: ⟪लक्षद्वीपाः⟫
+ስዕሊ: ⟪लक्षद्वीपाः⟫
 
 ካርታ ደሴታት ላክሻድዊፕ።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3405))
@@ -3404,7 +3404,7 @@ Abb.: ⟪लक्षद्वीपाः⟫
 
 ![](/images/lekt3403.webp)
 
-Abb.: ⟪तिलाः⟫
+ስዕሊ: ⟪तिलाः⟫
 
 ዘርእ ሰሊጥ።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3403))
@@ -3415,7 +3415,7 @@ Abb.: ⟪तिलाः⟫
 
 ![](/images/lekt3404.webp)
 
-Abb.: *Sesamum indicum* L.
+ስዕሊ: *Sesamum indicum* L.
 
 ዕምባባ ዝሓዘ ተኽሊ ሰሊጥ።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3404))
@@ -3428,7 +3428,7 @@ Abb.: *Sesamum indicum* L.
 
 ![](/images/lekt3402.webp)
 
-Abb.: ⟪स्वर्णम्⟫
+ስዕሊ: ⟪स्वर्णम्⟫
 
 ቤተ መቕደስ ወርቂ (ሃርማንዲር ሳሂብ)፣ ኣምሪትሳር።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3402))
@@ -3449,7 +3449,7 @@ Abb.: ⟪स्वर्णम्⟫
 
 ![](/images/lekt3401.webp)
 
-Abb.: ⟪ऋषभः⟫
+ስዕሊ: ⟪ऋषभः⟫
 
 ሓወልቲ በጊዕ ናንዲ፣ ከረንቲ ቻሙንዲ፣ ማይሶር።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3401))
@@ -3509,7 +3509,7 @@ Abb.: ⟪ऋषभः⟫
 
 ![](/images/lekt3502.webp)
 
-Abb.: ⟪क्रामन्ति⟫
+ስዕሊ: ⟪क्रामन्ति⟫
 
 ሰባት ዝኸዱ፣ ሰኔጋል።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3502))
@@ -3536,7 +3536,7 @@ davon:
 
 ![](/images/lekt3501.webp)
 
-Abb.: ⟪जगुः⟫
+ስዕሊ: ⟪जगुः⟫
 
 ሙዚቀኛታት ቤተ መቕደስ ካዱ ማለስዋራ ቤተ መቕደስ ባንጋሎር።
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3501))
@@ -3591,7 +3591,7 @@ Inf. ⟪चेतुम्⟫
 
 ![](/images/lekt3601.webp)
 
-Abb.: ⟪गोमयं चिकाय⟫
+ስዕሊ: ⟪गोमयं चिकाय⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3601))
 
@@ -3618,7 +3618,7 @@ Inf. ⟪व्रजितुम्⟫
 
 ![](/images/lekt3602.webp)
 
-Abb.: ⟪अगारम्⟫
+ስዕሊ: ⟪अगारम्⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3602))
 
@@ -3636,7 +3636,7 @@ Abb.: ⟪अगारम्⟫
 
 ![](/images/lekt3603.webp)
 
-Abb.: ⟪अनगार्यम्⟫
+ስዕሊ: ⟪अनगार्यम्⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt3603))
 
@@ -3941,7 +3941,7 @@ von ⟪राज⟫ :
 
 ![](/images/lekt3809.webp)
 
-Abb.: ⟪ब्रह्मा⟫
+ስዕሊ: ⟪ब्रह्मा⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt3809))
 
@@ -3992,7 +3992,7 @@ davon:
 
 ![](/images/lekt3810.webp)
 
-Abb.: ⟪अशोकवृक्षः⟫
+ስዕሊ: ⟪अशोकवृक्षः⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt3810))
 
@@ -4002,7 +4002,7 @@ Abb.: ⟪अशोकवृक्षः⟫
 
 ![](/images/lekt3811.webp)
 
-Abb.: ⟪अशोकसाम्राज्यम्⟫
+ስዕሊ: ⟪अशोकसाम्राज्यम्⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt3811))
 
@@ -4088,7 +4088,7 @@ Inf. ⟪तरितुम् । तरीतुम्⟫
 
 ![lekt4003.jpg](/images/lekt4003.webp)
 
-Abb.: ⟪हरिद्वारे तीर्थम्⟫
+ስዕሊ: ⟪हरिद्वारे तीर्थम्⟫
 
 (ምንባበ ስእል፡ [ዝርዝር](/licenses#lekt4003))
 
@@ -4104,7 +4104,7 @@ Abb.: ⟪हरिद्वारे तीर्थम्⟫
 
 ![lekt4002.jpg](/images/lekt4002.webp)
 
-Abb.: ⟪तीर्थङ्करः⟫
+ስዕሊ: ⟪तीर्थङ्करः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4002))
 
@@ -4126,7 +4126,7 @@ davon:
 
 ![lekt4001.jpg](/images/lekt4001.webp)
 
-Abb.: ⟪विष्णोर्दशावताराः⟫
+ስዕሊ: ⟪विष्णोर्दशावताराः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4001))
 
@@ -4156,7 +4156,7 @@ davon:
 
 ![lekt4004.jpg](/images/lekt4004.webp)
 
-Abb.: ⟪स्वपन्ति⟫
+ስዕሊ: ⟪स्वपन्ति⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4004))
 
@@ -4182,7 +4182,7 @@ Abb.: ⟪स्वपन्ति⟫
 
 ![lekt4105.jpg](/images/lekt4105.webp)
 
-Abb.: ⟪भुजङ्गः⟫
+ስዕሊ: ⟪भुजङ्गः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4105))
 
@@ -4196,7 +4196,7 @@ Abb.: ⟪भुजङ्गः⟫
 
 ![lekt4104.jpg](/images/lekt4104.webp)
 
-Abb.: ⟪भुजङ्गस्य विषम्⟫
+ስዕሊ: ⟪भुजङ्गस्य विषम्⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4104))
 
@@ -4363,7 +4363,7 @@ Inf. ⟪शंसितुम्⟫
 
 ![lekt4202.jpg](/images/lekt4202.webp)
 
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+ስዕሊ: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4202))
 
@@ -4627,7 +4627,7 @@ from which:
 
 ![](/images/lekt4403.webp)
 
-Abb.: ⟪रेल्यानम्⟫
+ስዕሊ: ⟪रेल्यानम्⟫
 
 (Image source: [Details](/licenses#lekt4403))
 
@@ -4653,7 +4653,7 @@ from which:
 
 ![](/images/lekt4404.webp)
 
-Abb.: ⟪योगी शयने शेते⟫
+ስዕሊ: ⟪योगी शयने शेते⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4404))
 
@@ -4682,7 +4682,7 @@ davon:
 
 ![](/images/lekt4405.webp)
 
-Abb.: ⟪नन्दी⟫
+ስዕሊ: ⟪नन्दी⟫
 
 (ምንጭ ሥዕል: [ዝርዝር](/licenses#lekt4405))
 
@@ -4716,7 +4716,7 @@ PPP ⟪आयत⟫ 3: lang gestreckt
 
 ![](/images/lekt4406.webp)
 
-Abb.: ⟪आयतो मरुः⟫
+ስዕሊ: ⟪आयतो मरुः⟫
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4406))
 
@@ -4726,7 +4726,7 @@ Abb.: ⟪आयतो मरुः⟫
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : ጸዓረ (⟪ሰባተኛ መደብ⟫፣ ⟪አራተኛ መደብ⟫፣ ⟪ሁለተኛ መደብ⟫)
 
 ::: indent
 
@@ -4747,7 +4747,7 @@ davon:
 
 ![](/images/lekt4407.webp)
 
-Abb.: ⟪यत्नेन⟫
+ስዕሊ: ⟪यत्नेन⟫
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4407))
 
@@ -4775,7 +4775,7 @@ Absol. -⟪रभ्य⟫
 
 ![](/images/lekt4408.webp)
 
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+ስዕሊ: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4408))
 
@@ -4795,7 +4795,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ : ወይ ... ወይ
 
 ## Lektion 46
 
@@ -4848,7 +4848,7 @@ davon:
 
 :::
 
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+ለ ⟪राहु⟫ ወ ⟪केतु⟫ ርአይ፡
 
 > **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
@@ -4963,7 +4963,7 @@ Absol. -⟪हूय⟫
 
 ![](/images/lekt4608.webp)
 
-Abb.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+ስዕሊ: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4608))
 
@@ -4975,9 +4975,9 @@ Abb.: [⟪महामात्र कं चरिष्णुदूरशब�
 
 :::
 
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ ተባዕታይ፡ ሖረ ወተመልሰ
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ ተባዕታይ፡ ውድቀት
 
 ⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : መጣር, መድከም
 
@@ -4999,7 +4999,7 @@ davon:
 
 ![](/images/lekt4609.webp)
 
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
+ስዕሊ: [⟪श्रान्तः⟫](/licenses#lekt4609)
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4609))
 
@@ -5037,7 +5037,7 @@ Inf. ⟪श्रयितुम्⟫
 
 ![](/images/lekt4610.webp)
 
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
+ስዕሊ: [⟪सङ्गः⟫](/licenses#lekt4610)
 
 (ምንጭ ሥዕል: [ዝርዝሮች](/licenses#lekt4610))
 
@@ -5090,7 +5090,7 @@ Absol. -⟪लम्ब्य⟫
 
 ![](/images/lekt4601.jpg)
 
-Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+ስዕሊ: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
 
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4601))
 
@@ -5098,7 +5098,7 @@ Abb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#
 
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ መስተዋድድ፡ እመ
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
 
@@ -5123,7 +5123,7 @@ z.B.
 
 ![](/images/lekt4611.webp)
 
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
+ስዕሊ: [⟪भोः⟫](/licenses#lekt4611)
 
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4611))
 
@@ -5157,7 +5157,7 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 ![](/images/lekt4802.webp)
 
-Abb.: ⟪तन्त्रम्⟫
+ስዕሊ: ⟪तन्त्रम्⟫
 
 ሱዋልኩቺ = সুৱালকুচি፥ አሳም = অসম
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4802))
@@ -5168,7 +5168,7 @@ Abb.: ⟪तन्त्रम्⟫
 
 ![](/images/lekt4803.webp)
 
-Abb.: ⟪तन्त्री⟫
+ስዕሊ: ⟪तन्त्री⟫
 
 ሲታር ተጫዋች = ⟪सितारवादकः⟫
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4803))
@@ -5198,7 +5198,7 @@ Deklination:
 
 ![](/images/lekt4804.webp)
 
-Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
+ስዕሊ: ⟪स्वतन्त्राः स्त्रियः⟫
 
 [ራስ አገዝ ቡድን (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))፥ ታሚል ናዱ = தமிழ்நாடு
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4804))
@@ -5215,7 +5215,7 @@ Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
 
 ![](/images/lekt4805.webp)
 
-Abb.: ⟪कुमारः⟫
+ስዕሊ: ⟪कुमारः⟫
 
 ታይፑሳም በዓል = தைப்பூசம்፥ ባቱ ዋሻዎች፥ ማሌዥያ
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4805))
@@ -5228,7 +5228,7 @@ Abb.: ⟪कुमारः⟫
 
 ![](/images/lekt4806.webp)
 
-Abb.: ⟪कुमारी नेपाल⟫
+ስዕሊ: ⟪कुमारी नेपाल⟫
 
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4806))
 
@@ -5244,7 +5244,7 @@ Abb.: ⟪कुमारी नेपाल⟫
 
 ![](/images/lekt4807.webp)
 
-Abb.: ⟪स्थविराः जोधपुर⟫
+ስዕሊ: ⟪स्थविराः जोधपुर⟫
 
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4807))
 
@@ -5252,7 +5252,7 @@ Abb.: ⟪स्थविराः जोधपुर⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ ፫፡ ውእቱኒ፡ ዘይትነቀፍ
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 
@@ -5260,7 +5260,7 @@ Abb.: ⟪स्थविराः जोधपुर⟫
 
 ![](/images/lekt4808.webp)
 
-Abb.: ⟪सूक्ष्मम्⟫
+ስዕሊ: ⟪सूक्ष्मम्⟫
 
 ካራንጂ ሐይቅ = ಕಾರಂಜಿ ಕೆರೆ
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4808))
@@ -5281,7 +5281,7 @@ Abb.: ⟪सूक्ष्मम्⟫
 
 ![](/images/lekt4809.webp)
 
-Abb.: ⟪मम जाया⟫
+ስዕሊ: ⟪मम जाया⟫
 
 (ምንባብ: ፓየር)
 (ምንባብ ምንጭ: [ዝርዝር](/licenses#lekt4809))
@@ -5371,7 +5371,7 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ![](/images/lekt4901.webp)
 
-Abb.: ⟪कुलूहलम्⟫
+ስዕሊ: ⟪कुलूहलम्⟫
 
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4901))
 
@@ -5387,7 +5387,7 @@ Abb.: ⟪कुलूहलम्⟫
 
 ![](/images/lekt4902.webp)
 
-Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. Jhdt.
+ስዕሊ: ⟪उत्तमा काला शिवो नटराजा⟫, 11. Jhdt.
 
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4902))
 
@@ -5395,7 +5395,7 @@ Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11.
 
 ⟪वर⟫ m.n.: Wunsch
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ ዘኢይትለውጥ፡ ወ፣ ውእቱኒ፣ ወይእዜኒ
 
 ⟪विहंग⟫ ተባዕታይ ጾታ፡ ዑፍ ("ኣብ ኣየር - ⟪विह⟫ - እትኸይድ")
 
@@ -5403,7 +5403,7 @@ Abb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11.
 
 ![](/images/lekt4903.jpg)
 
-Abb.: ⟪विहंगः⟫
+ስዕሊ: ⟪विहंगः⟫
 
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4903))
 
@@ -5415,7 +5415,7 @@ Abb.: ⟪विहंगः⟫
 
 ![](/images/lekt4904.webp)
 
-Abb.: ⟪वेषः वाराणस्याम्⟫
+ስዕሊ: ⟪वेषः वाराणस्याम्⟫
 
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4904))
 
@@ -5429,7 +5429,7 @@ Abb.: ⟪वेषः वाराणस्याम्⟫
 
 ![](/images/lekt4909.webp)
 
-Abb.: ⟪पञ्जरम्⟫
+ስዕሊ: ⟪पञ्जरम्⟫
 
 ሓንታይ ምስ ጳጳስ ኣብ ጓንጓ፡ እቲ ጳጳስ ወረቓቕቲ የውጽእ፡ ኣብኡ ዕድል ተጻሒፉ ኣሎ Mysore
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4909))
@@ -5464,7 +5464,7 @@ Gerundiv ⟪ध्येय⟫
 
 ![](/images/lekt4905.webp)
 
-Abb.: ⟪सादरः⟫
+ስዕሊ: ⟪सादरः⟫
 
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4905))
@@ -5481,7 +5481,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ![](/images/lekt4906.webp)
 
-Abb.: ⟪गजशिशुः⟫
+ስዕሊ: ⟪गजशिशुः⟫
 
 ስሪ ላንካ
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt4906))
@@ -5516,7 +5516,7 @@ Abb.: ⟪गजशिशुः⟫
 
 ![](/images/lekt5001.jpg)
 
-Abb.: ⟪मन्त्री⟫
+ስዕሊ: ⟪मन्त्री⟫
 
 Kapil Sibal (1948 -)፡ ሚኒስተር ሕብረት ኣብ ሚኒስትሪ ሳይንስን ቴክኖሎጂን ሚኒስትሪ ምድራዊ ሳይንስን (ካብ 2006 ጀሚሩ)
 (ምንጪ ስእሊ፡ [ዝርዝራት](/licenses#lekt5001))
@@ -5551,7 +5551,7 @@ Gerundiv ⟪लुप्य । लोप्य⟫
 
 :::
 
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ ተባዕታይ፡ ውእቱኒ፡ ዕድል (ለ ⟪विधा⟫)
 
 ⟪वृष्⟫ 1ይ ግሲ ⟪वर्षति⟫ ፡ ዝናብ ምዝናብ (ብብዝሒ ምስ ⟪कर्तृ⟫ -- ኣምላኽ ወይ ደበና)
 
@@ -5572,7 +5572,7 @@ Absol.-⟪वृष्य⟫
 
 ![](/images/lekt5002.jpg)
 
-Abb.: ⟪महामेघो वर्षिष्यति⟫
+ስዕሊ: ⟪महामेघो वर्षिष्यति⟫
 
 መጽአተ፡ ክረምት፡ ባንጋሎር፡ ಬೆಂಗಳೂರು
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5002))
@@ -5587,13 +5587,13 @@ Abb.: ⟪महामेघो वर्षिष्यति⟫
 
 ![](/images/lekt5005.jpg)
 
-Abb.: ⟪आदित्यः⟫
+ስዕሊ: ⟪आदित्यः⟫
 
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5005))
 
 :::
 
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ ፫፡ ኩሉ፣ ኩሎሙ
 
 አንቀጸ፡ ስም፡ ከመ፡ ⟪यद्⟫ (ዘእንበለ፡ ስም፡ ወተሳቢ፡ ነጠላ፡ ግዑዝ)
 
@@ -5711,7 +5711,7 @@ Fig.:
 
 ![](/images/lekt5107.webp)
 
-Abb.: ⟪जटा ऋषिकेश⟫
+ስዕሊ: ⟪जटा ऋषिकेश⟫
 
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5107))
 
@@ -5778,7 +5778,7 @@ PPP ⟪गर्हित⟫
 
 ![](/images/lekt5108.webp)
 
-Abb.: ⟪पिशितम्⟫
+ስዕሊ: ⟪पिशितम्⟫
 
 ኮልካታ፡ = কলকাতা
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5108))
@@ -5793,7 +5793,7 @@ Abb.: ⟪पिशितम्⟫
 
 ![](/images/lekt5109.webp)
 
-Abb.: ⟪मधु⟫
+ስዕሊ: ⟪मधु⟫
 
 ቤተ፡ መንግሥት፡ ከተማ፡ ⟪उदयपुर⟫
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5109))
@@ -6054,7 +6054,7 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 
 ![](/images/lekt5212.webp)
 
-Abb.: ⟪पीडिताः⟫
+ስዕሊ: ⟪पीडिताः⟫
 
 ሃይደራባድ፡ = హైదరాబాద్
 (ምንባበ፡ ስእል፡ [Details](/licenses#lekt5212))
@@ -6079,7 +6079,7 @@ davon:
 
 ![](/images/lekt5213.webp)
 
-Abb.: ⟪प्रधानः मुंबई⟫
+ስዕሊ: ⟪प्रधानः मुंबई⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt5213))
 
@@ -6207,7 +6207,7 @@ PPP ⟪च्युत⟫
 
 ![](/images/lekt5214.webp)
 
-Abb.: ⟪चक्रम्⟫
+ስዕሊ: ⟪चक्रम्⟫
 
 ኮናርክ = ⟪कोनार्क⟫
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt5214))
@@ -6220,7 +6220,7 @@ Abb.: ⟪चक्रम्⟫
 
 ![](/images/lekt5208.webp)
 
-Abb.: ⟪कदली⟫
+ስዕሊ: ⟪कदली⟫
 
 ሃምፒ = ሃምፐ
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt5208))
@@ -6241,7 +6241,7 @@ Abb.: ⟪कदली⟫
 
 ![](/images/lekt5215.webp)
 
-Abb.: ⟪मलम् मुंबई⟫
+ስዕሊ: ⟪मलम् मुंबई⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#lekt5215))
 

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 40"
+title: "Õppetund 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
@@ -410,7 +410,7 @@ Sellele tüübile järgnevad tegusõnad:
 
 :::
 
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪अह्⟫ 1. isik ei ole kasutusel!
 
 ⟪भू⟫ 1P
 
@@ -536,7 +536,7 @@ z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : olema õiges korras, sobima (lokatiiv); kujunema, moodustuma; otsustama, nõustuma (daativ)
 
 ::: indent
 

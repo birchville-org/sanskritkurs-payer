@@ -72,85 +72,85 @@ Thumela lezi zifanekiso zezenzo bese unikeza impande ehlobene:
 
 ⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): benza (ngokwabo)
 
-⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): sie gehen
+⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): bayahamba
 
-⟪८⟫. ⟪जायते⟫ (⟪जन्⟫ 4Ā): er entsteht
+⟪८⟫. ⟪जायते⟫ (⟪जन्⟫ 4Ā): uyavela
 
-⟪९⟫. ⟪जयति⟫ (⟪जि⟫ 1P): er siegt
+⟪९⟫. ⟪जयति⟫ (⟪जि⟫ 1P): uyanqoba
 
-⟪१०⟫. ⟪तनोति⟫ (⟪तन्⟫ 8U): er spannt auf
+⟪१०⟫. ⟪तनोति⟫ (⟪तन्⟫ 8U): uyalula
 
-⟪११⟫. ⟪दहति⟫ (⟪दह्⟫ 1P): er verbrennt
+⟪११⟫. ⟪दहति⟫ (⟪दह्⟫ 1P): uyashisa
 
-⟪१२⟫. ⟪दोग्धि⟫ (⟪दुह्⟫ 2U): er melkt
+⟪१२⟫. ⟪दोग्धि⟫ (⟪दुह्⟫ 2U): uyasenga
 
-⟪१३⟫. ⟪पश्यति⟫ (⟪दृश्⟫ 4P): er sieht
+⟪१३⟫. ⟪पश्यति⟫ (⟪दृश्⟫ 4P): uyabona
 
-⟪१४⟫. ⟪द्विष्टे⟫ (⟪द्विष्⟫ 2U): er hasst
+⟪१४⟫. ⟪द्विष्टे⟫ (⟪द्विष्⟫ 2U): uyazonda
 
-⟪१५⟫. ⟪नयन्ति⟫ (⟪नी⟫ 1U): sie führen
+⟪१५⟫. ⟪नयन्ति⟫ (⟪नी⟫ 1U): bahola
 
-⟪१६⟫. ⟪नृत्यति⟫ (⟪नृत्⟫ 4P): er tanzt
+⟪१६⟫. ⟪नृत्यति⟫ (⟪नृत्⟫ 4P): uyadansa
 
-⟪१७⟫. ⟪पद्यन्ते⟫ (⟪पद्⟫ 4Ā): sie schreiten
+⟪१७⟫. ⟪पद्यन्ते⟫ (⟪पद्⟫ 4Ā): bayahamba
 
-⟪१८⟫. ⟪पिबति⟫ (⟪पा⟫ 1P): er trinkt
+⟪१८⟫. ⟪पिबति⟫ (⟪पा⟫ 1P): uyaphuza
 
-⟪१९⟫. ⟪पान्ति⟫ (⟪पा⟫ 2P): sie hüten
+⟪१९⟫. ⟪पान्ति⟫ (⟪पा⟫ 2P): bayalinda
 
-⟪२०⟫. ⟪पृच्छति⟫ (⟪प्रच्छ्⟫ 6P): er fragt
+⟪२०⟫. ⟪पृच्छति⟫ (⟪प्रच्छ्⟫ 6P): uyabuza
 
-⟪२१⟫. ⟪बुध्यन्ते⟫ (⟪बुध्⟫ 4Ā): sie erwachen
+⟪२१⟫. ⟪बुध्यन्ते⟫ (⟪बुध्⟫ 4Ā): bayavuka
 
-⟪२२⟫. ⟪ब्रवीति⟫ (⟪ब्रू⟫ 2U): er spricht
+⟪२२⟫. ⟪ब्रवीति⟫ (⟪ब्रू⟫ 2U): uyakhuluma
 
-⟪२३⟫. ⟪भवन्ति⟫ (⟪भू⟫ 1P): sie werden
+⟪२३⟫. ⟪भवन्ति⟫ (⟪भू⟫ 1P): bayaba
 
-⟪२४⟫. ⟪मन्यते⟫ (⟪मन्⟫ 4Ā): er meint
+⟪२४⟫. ⟪मन्यते⟫ (⟪मन्⟫ 4Ā): ucabanga
 
-⟪२५⟫. ⟪मुञ्चन्ति⟫ (⟪मुच्⟫ 6U): sie befreien
+⟪२५⟫. ⟪मुञ्चन्ति⟫ (⟪मुच्⟫ 6U): bayakhulula
 
-⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): sie sterben
+⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): bayafa
 
-⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): er opfert als Opferherr
+⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): uhlabela njengomnikeli womhlatshelo
 
-⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): sie kämpfen
+⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): bayalwa
 
-⟪२९⟫. ⟪रक्षति⟫ (⟪रक्ष्⟫ 1P): er hütet
+⟪२९⟫. ⟪रक्षति⟫ (⟪रक्ष्⟫ 1P): uyalinda
 
-⟪३०⟫. ⟪रोदिति⟫ (⟪रुद्⟫ 2P): er heult
+⟪३०⟫. ⟪रोदिति⟫ (⟪रुद्⟫ 2P): uyakhala
 
-⟪३१⟫. ⟪लभते⟫ (⟪लभ्⟫ 1Ā): er erhält
+⟪३१⟫. ⟪लभते⟫ (⟪लभ्⟫ 1Ā): uyathola
 
-⟪३२⟫. ⟪वक्ति⟫ (⟪वच्⟫ 2P): er spricht
+⟪३२⟫. ⟪वक्ति⟫ (⟪वच्⟫ 2P): uyakhuluma
 
-⟪३३⟫. ⟪वदति⟫ (⟪वद्⟫ 1P): er spricht
+⟪३३⟫. ⟪वदति⟫ (⟪वद्⟫ 1P): uyakhuluma
 
-⟪३४⟫. ⟪शृणोति⟫ (⟪श्रु⟫ 5P): er hört
+⟪३४⟫. ⟪शृणोति⟫ (⟪श्रु⟫ 5P): uyalalela
 
-⟪३५⟫. ⟪स्तौति⟫ (⟪स्तु⟫ 2U): er lobt
+⟪३५⟫. ⟪स्तौति⟫ (⟪स्तु⟫ 2U): uyadumisa
 
-⟪३६⟫. ⟪स्मरति⟫ (⟪स्मृ⟫ 1P): er vergegenwärtigt
+⟪३६⟫. ⟪स्मरति⟫ (⟪स्मृ⟫ 1P): uyakhumbula
 
-⟪३७⟫. ⟪हन्ति⟫ (⟪हन्⟫ 2P): er erschlägt
+⟪३७⟫. ⟪हन्ति⟫ (⟪हन्⟫ 2P): uyabulala
 
-⟪३८⟫. ⟪अश्नुवते⟫ (⟪अश्⟫ 5Ā): sie erreichen
+⟪३८⟫. ⟪अश्नुवते⟫ (⟪अश्⟫ 5Ā): bayafinyelela
 
-⟪३९⟫. ⟪कुप्यते⟫ (⟪कुप्⟫ 4P): es wird gezürnt
+⟪३९⟫. ⟪कुप्यते⟫ (⟪कुप्⟫ 4P): kuyathukuthelwa
 
-⟪४०⟫. ⟪कर्षन्ति⟫ (⟪कृष्⟫ 6U): sie ziehen
+⟪४०⟫. ⟪कर्षन्ति⟫ (⟪कृष्⟫ 6U): bayadonsa
 
-⟪४१⟫. ⟪उद्यते⟫ (⟪वद्⟫ 1P): es wird gesagt
+⟪४१⟫. ⟪उद्यते⟫ (⟪वद्⟫ 1P): kuyashiwo
 
-⟪४२⟫. ⟪सहन्ते⟫ (⟪सह्⟫ 1Ā): sie ertragen
+⟪४२⟫. ⟪सहन्ते⟫ (⟪सह्⟫ 1Ā): bayabekezela
 
-⟪४३⟫. ⟪सिच्यन्ते⟫ (⟪सिच्⟫ 6U): sie werden beträufelt
+⟪४३⟫. ⟪सिच्यन्ते⟫ (⟪सिच्⟫ 6U): bayafafazwa
 
-⟪४४⟫. ⟪आप्नोति⟫ (⟪आप्⟫ 5P): er erreicht
+⟪४४⟫. ⟪आप्नोति⟫ (⟪आप्⟫ 5P): uyafinyelela
 
-⟪४५⟫. ⟪जीव्यते⟫ (⟪जीव्⟫ 1P): es wird gelebt
+⟪४५⟫. ⟪जीव्यते⟫ (⟪जीव्⟫ 1P): kuyaphilwa
 
-⟪४६⟫. ⟪दिश्यन्न्ते⟫ (⟪दिश्⟫ 6U): sie werden gezeigt
+⟪४६⟫. ⟪दिश्यन्न्ते⟫ (⟪दिश्⟫ 6U): bayakhonjiswa
 
 ::: media
 

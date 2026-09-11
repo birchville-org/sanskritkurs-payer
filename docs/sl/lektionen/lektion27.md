@@ -21,6 +21,7 @@ status: stable
 *   **v zvezi s čim?**
 
 :::
+
 ::: grammar-box
 
 **1. Lokativ (⟪सप्तमी⟫) na vprašanje "Kje?" označuje prostor, kjer se nahaja subjekt (⟪कर्ता⟩) ali objekt dejanja, kjer pa se samo dejanje odvija.**
@@ -28,11 +29,15 @@ status: stable
 > ⟪नगरे वसति⟫ = "Prebiva v mestu"
 
 :::
+
 ::: media
+
 ![](/images/lekt2701.webp)
+
 Slika: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2701))
+
 :::
 
 ::: grammar-box
@@ -58,11 +63,16 @@ Jaipur, 1875.
 **Opomba: Pri absolutivu morata biti vršilec absolutiva in vršilec glavnega stavka enaka; pri locativu absolutusu morata biti vršilec locativa absolutusa in vršilec glavnega glagola različna.**
 
 :::
+
 ::: media
+
 ![](/images/lekt2702.webp)
+
 Abb.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
+
 Rajasthan.
 (Vir slike: [Details](/sl/licenses#lekt2702))
+
 :::
 
 ::: grammar-box
@@ -72,11 +82,16 @@ Rajasthan.
 > ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „On ima rad svojega sina“ (dobesedno „Glede na sina je pri njem ljubezen“)
 
 :::
+
 ::: media
+
 ![](/images/lekt2703.webp)
+
 Abb.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
+
 Holi.
 (Vir slike: [Details](/sl/licenses#lekt2703))
+
 :::
 
 ::: grammar-box
@@ -86,9 +101,10 @@ Holi.
 > ⟪भू सत्तायाम्⟫ = „koren ⟪भू⟫ v pomenu ‚bitje‘ (sat-tā)“
 
 :::
+
 Več o uporabi lokativa kasneje.
 
-## 27.2. Bildung des Lokativ (⟪सप्तमी⟫)
+## 27.2. Tvorba lokativa (⟪सप्तमी⟫)
 
 ::: grammar-box
 
@@ -99,6 +115,7 @@ Več o uporabi lokativa kasneje.
 **Bodite pozorni na glasovne spremembe pred -su ter morebitno cerebralizacijo -su v -ṣu!**
 
 :::
+
 ### 27.2.1. Konsonantische Stämme
 
 ::: grammar-box
@@ -111,6 +128,7 @@ Več o uporabi lokativa kasneje.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
+
 ### 27.2.3. Samoglasniški skloni
 
 ::: grammar-box
@@ -126,6 +144,7 @@ Več o uporabi lokativa kasneje.
 | ⟪धेनु⟫ f. | ⟪धेनौ⟫ ali ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ## 27.3. Pregled rednih končnikov padežev (⟪विभक्ति⟫)
 
 ::: grammar-box
@@ -142,16 +161,21 @@ Več o uporabi lokativa kasneje.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
+
 **Signalrot tiskano**: močne sklonitve (pri stopnjevanju korena).
 
 ## 27.4. Kitica z vsemi skloni (ednina) k ⟪राम⟫
 
 ::: media
+
 ![](/images/lekt2708.webp)
+
 Slika: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2708))
+
 :::
+
 sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
 **Prevod:**
@@ -169,56 +193,87 @@ sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫
 ⟪वस्⟫ 1P (⟪वसति⟫): bivanje, stanovanje (z lokativom osebe, pri kateri se kdo zadržuje)
 
 ::: indent
+
 **Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
+
 :::
+
 od tega:
 
 ::: indent
+
 ⟪वस्तु⟫ n.: sedež, kraj; realija, dejanska stvar, resničnost, predmet
 
 :::
+
 ::: indent
+
 ⟪वस्तुतस्⟫: dejansko, resnično
+
 :::
+
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): obleči se, nositi (oblačilo)
 
 ::: indent
+
 **Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+
 :::
+
 od tega:
 
 ::: indent
+
 ⟪वस्त्र⟫ n.: sredstvo za obleko = oblačilo, halja, blago
+
 :::
+
 ::: media
+
 ![](/images/lekt2706.webp)
+
 Slika: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2706))
+
 :::
+
 ⟪वस्⟫ 6P (⟪उच्छति⟫): zasijati (ta koren je pomemben zaradi tvorbe imen:)
 
 ::: indent
+
 ⟪वसु⟫ n.: bogastvo, zaklad, premoženje, posest
 
 ⟪वसन्त⟫ m.: ("sijajoč" =) pomlad (marec do maj)
+
 :::
+
 ::: media
+
 ![](/images/lekt2707.webp)
+
 Slika: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2707))
+
 :::
+
 ⟪हृ⟫ 1U (⟪हरति⟫): držati, nositi; prinesti, odnesti, ukrasti
 
 ::: indent
+
 **Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+
 :::
+
 od tega:
 
 ::: indent
+
 ⟪हर⟫ 3: odnašajoč; m.: uničevalec = epitet Šive
+
 :::
+
 Nasprotje ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, rumen, zelen; m. epitet Višnua (ne spada k korenu ⟪हृ⟫ 1)
@@ -226,18 +281,25 @@ Nasprotje ⟪हर⟫:
 ⟪हरिहर⟫ m.: Višnu in Šiva združena v eno samo božanstvo.
 
 ::: media
+
 ![](/images/lekt2704.webp)
+
 Slika: ⟪हरिहरः⟫
 Harihara (levo: Višnu, desno: Šiva).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2704))
+
 :::
 
 ::: media
+
 ![](/images/lekt2705.webp)
+
 Slika: ⟪हरिहरः⟫
 Harihara (levo: Višnu, desno: Šiva). Godrumdwip, Zahodni Bengal.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2705))
+
 :::
+
 ## 27.6. Vaja
 
 **A) V naslednjem stavku vstavite izraze v oklepaju v lokativu (⟪सप्तमी⟫) ednine in - kjer je smiselno - množine. Upoštevajte različne sandhije, torej zapišite vsakič celoten stavek!**
@@ -249,7 +311,9 @@ Harihara (levo: Višnu, desno: Šiva). Godrumdwip, Zahodni Bengal.
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
+
 ![](/images/lekt2709.webp)
+
 Slika: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Slikovno delo Rāje Ravija Varma (1848 - 1906).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2709))
@@ -260,12 +324,17 @@ Slikovno delo Rāje Ravija Varma (1848 - 1906).
 
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
+:::
 ::: media
+
 ![](/images/lekt2709.webp)
+
 Slika: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Slikovno delo Rāje Ravija Varma (1848 - 1906).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2709))
+
 :::
+
 ⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
 ## 27.7. Deklinacijski vzorci za učenje na pamet
@@ -285,12 +354,17 @@ Slikovno delo Rāje Ravija Varma (1848 - 1906).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪नरे⟫ | ⟪नरेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2711.webp)
+
 Slika: ⟪नराः⟫
 Naran. Udaipur.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2711))
+
 :::
+
 ### 27.7.2. Srednji rod na -a: ⟪फल⟫
 
 ::: grammar-box
@@ -306,12 +380,17 @@ Naran. Udaipur.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪फले⟫ | ⟪फलेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2710.webp)
+
 Slika: ⟪फलानि⟫
 Sadje. Bangalore.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2710))
+
 :::
+
 ### 27.7.3. Ženski spol na -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
@@ -327,12 +406,17 @@ Sadje. Bangalore.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪क्षत्रियायाम्⟫ | ⟪क्षत्रियासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2718.webp)
+
 Slika: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) z svojim vnukom princem Jayo Chamarajo Wadiyajem, Mysore.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2718))
+
 :::
+
 ### 27.7.4. Maskulina na -i: ⟪अरि⟫
 
 ::: grammar-box
@@ -348,12 +432,17 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) z svojim vnukom princem Jayo Chama
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अरौ⟫ | ⟪अरिषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2712.webp)
+
 Slika: ⟪अरयः⟫
 Obesitev dveh udeležencev vstaje iz leta 1857. Fotografija Feliceja Beata (1833/1834 – ok. 1907).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2712))
+
 :::
+
 ### 27.7.5. Feminina na -i: ⟪मति⟫
 
 ::: grammar-box
@@ -369,6 +458,7 @@ Obesitev dveh udeležencev vstaje iz leta 1857. Fotografija Feliceja Beata (1833
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
+
 ### 27.7.6. Maskulina na -u: ⟪गुरु⟫
 
 ::: grammar-box
@@ -384,12 +474,17 @@ Obesitev dveh udeležencev vstaje iz leta 1857. Fotografija Feliceja Beata (1833
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुरौ⟫ | ⟪गुरुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2713.webp)
+
 Slika: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2713))
+
 :::
+
 ### 27.7.7. Ženska imena na -u: ⟪धेनु⟫
 
 ::: grammar-box
@@ -405,12 +500,17 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2714.webp)
+
 Slika: ⟪धेनुः⟫
 Krava v Udaipuru.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2714))
+
 :::
+
 ### 27.7.8. Večzložna ženska imena na -ī: ⟪देवी⟫
 
 ::: grammar-box
@@ -426,12 +526,17 @@ Krava v Udaipuru.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2715.webp)
+
 Slika: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2715))
+
 :::
+
 ### 27.7.9. Particip pretekli čas Parasmaipada na -ant: ⟪सन्त्⟫
 
 ::: grammar-box
@@ -447,12 +552,17 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
 
 :::
+
 ::: media
+
 ![](/images/lekt2716.webp)
+
 Slika: ⟪सद्गुरुः⟫
 Sai Baba iz Shirdija (1835 - 1918).
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2716))
+
 :::
+
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
@@ -468,6 +578,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
+
 ### 27.7.11. Maskulina in -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
@@ -483,6 +594,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
+
 ### 27.7.12. Demonstrativna zaimka: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
@@ -498,6 +610,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ | | | Plural:br⟪बहुवचनम्⟫ | | |
@@ -512,6 +625,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪एतस्मिन्⟫ || ⟪एतस्याम्⟫ | ⟪एतेषु⟫ || ⟪एतासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ | | | Plural:br⟪बहुवचनम्⟫ | | |
@@ -526,6 +640,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
+
 ### 27.7.13. Relativpronomen: ⟪यद्⟫
 
 ::: grammar-box
@@ -541,6 +656,7 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
+
 ### 27.7.14. Fragepronomen: ⟪किम्⟫
 
 ::: grammar-box
@@ -556,10 +672,14 @@ Sai Baba iz Shirdija (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2717.webp)
+
 Slika: ⟪कस्मात्⟫ ?
 Cunami 2005, Šrilanka.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2717))
+
 :::
 

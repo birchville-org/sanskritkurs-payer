@@ -13,6 +13,7 @@ status: stable
 ## 10.1. Pasivna stavka
 
 ::: grammar-box
+
 **Shema:**
 **(Agens - kartṛ - v instrumentalnem primeru (tṛtīyā)) - (neposredni predmet - karman - v nominativu) - pasivna oblika glagola**
 
@@ -20,39 +21,50 @@ npr. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव
 
 Ta stavka je **popolnoma (!) enakovredna** po pomenu stavek:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
+
 :::
 
 ::: grammar-box
+
 V pasivni stavki stoji agens (**kartṛ**) v **instrumentalu** (tṛtīyā ž. "tretja sklonitvena končnica"), neposredni predmet (**karman** s.) pa v **nominativu** (prathamā ž.).
 Pasivne stavke, v katerih agens ni imenovan, imajo običajno nepersonalni pomen ("se"):
 npr. **ijyate** = ⟪इज्यते⟫ "Darujejo se" (doslovno: "časti se z daritvijo").
+
 :::
 
 ::: grammar-box
+
 **Tudi če bi ustrezna aktivna stavka vsebovala akuzativ (dvitīyā) cilja, se ta lahko v pasivni stavki postavi v nominativ (prathamā):**
 
 Aktivni stavek **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Rāma gre v vas." ustreza pasivni stavek:
 **rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
 alternativno: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
+
 :::
 
 ::: grammar-box
+
 **Neprehodni glagoli (glagoli brez neposrednega predmeta) pogosto imajo pasivne konstrukcije, zlasti v vljudnih pozivih:**
 **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Naj vstopi = Prosim, stopite noter = Vstop!"
 **niṣadyatām** = ⟪निषद्यताम्⟫ = "Naj sede = Prosim, sedite = Prosimo, zavzemite mesto"
+
 :::
-Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
+
+Sanskrtne trpne konstrukcije so izjemno pogoste: trpnik je namreč tudi lažje tvorljiv kot npr. številni sedanjiki.
 
 ::: important
+
 **Sanskrtnih trpnih stavkov se v nemščini na splošno ne sme prevajati s trpnim stavkom, saj ima nemški trpnik povsem drugačno stilistično funkcijo.**
+
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. Instrumental (tṛtīyā ž. = ⟪तृतीया⟫ = "tretji sklon")
 
 ::: grammar-box
-**Die regulären Endungen des Instrumentalis (tṛtīyā):**
-**Singular: -ā**
-**Plural: -bhis**
+
+**Redne končnice instrumentala (tṛtīyā):**
+**Ednina: -ā**
+**Množina: -bhis**
 
 **Regelmässige Bildungen:**
 
@@ -94,6 +106,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | Ž | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"ta, ta, to" (Blizu):br⟪इदम्⟫ | M/S | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | Ž | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+
 :::
 
 
@@ -101,6 +114,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 ### 10.2.1. O rabi instrumentalisa (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
+
 **Instrumentalis (tṛtīyā) se predvsem uporablja na vprašanja:**
 **S čim?**
 **Z čimer?**
@@ -112,18 +126,24 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 3. **za navedbo poti, po kateri nekdo pride kam**
 4. **za izraz povezave, združitve, spremljanja z**
 5. **pri postpozicijah v pomenu "skupaj z, s"; npr. saha = ⟪सह⟫ = "s"** :brnpr.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "skupaj z brahmanom"
+
 :::
+
 Nadaljnje uporabe instrumentalisa (tṛtīyā) sledijo kasneje.
 
 
 ## 10.3. T.i. zakon za cerebralizacijo pri -n- (besedni sandhi)
 
 ::: grammar-box
+
 **-n-**, za katerim sledi samoglasnik ali **n, m, y, v**, se nadomesti z **-ṇ-**, če **ṛ, ṝ, r, ṣ** v besedi predhodita **-n-** ali če med temi zvoki in naslednjim **-n-** v besedi ni drugega zvoka kot samoglasniki, guturali, labiali, **y, v, h** ali anusvāra.
+
 :::
+
 **Zato:**
 
 ::: grammar-box
+
 | | Instrumentalis enine |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -131,10 +151,13 @@ Nadaljnje uporabe instrumentalisa (tṛtīyā) sledijo kasneje.
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
+
 :::
+
 **Tako je tudi -ṇ- razložiti v:**
 
 ::: indent
+
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -142,15 +165,19 @@ Nadaljnje uporabe instrumentalisa (tṛtīyā) sledijo kasneje.
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
+
 :::
 
 
 ## 10.4. Pasiv, indikativ pretekli čas (yak = ⟪यक्⟫)
 
 ::: grammar-box
+
 **Oblikovanje:**
 **(večinoma) stopnjevana korenina + -ya- + Ātmanepada končnica**
+
 :::
+
 npr.
 
 | Korenina:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक् लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक् लट्⟫ |
@@ -217,12 +244,14 @@ npr. **tan** 8 U.
 **nagara** n. ⟪नगर⟫ : mesto
 
   ::: note-box
+
   Za življenje v mestu in vaseh glej Basham, *Wonder*, poglavje 6.
   :::
 
 **yajña** m. ⟪यज्ञ⟫ : žrtev
 
   ::: note-box
+
   Žrtvovanje je v Indiji predvsem čaščenje božanstva kot gosta. S tem se zavežeš k božanskemu bitju.
 
   Tvorba besed: **yaj** 1 U + kṛt sufiks **-na-**.
@@ -231,6 +260,7 @@ npr. **tan** 8 U.
 **puṇya** n. ⟪पुण्य⟫ : dobro delo, zaslužek
 
   ::: note-box
+
   S čimer si pridobiš blaginjo in dobre ponovne rojstva.
   :::
 
@@ -238,21 +268,31 @@ npr. **tan** 8 U.
 **satya** n. ⟪सत्य⟫ : resnica
 
 ::: note-box
+
 V Indiji so pravemu besednemu izrazu pripisovali čarobno moč, celo vesoljni red je ohranjen in ustvarjen z resničnim besednim izrazom. Za to pomembno predstavo glej temeljno delo:
 
 :::
+
 ::: literatur-box
+
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Herausgegeben aus dem Nachlass von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+
 :::
 
 ::: media
+
 ![](/images/lekt1003.webp)
+
 Abb.: ⟪वरुणः⟫
+
 (Vir slike: [Details](/sl/licenses#lekt1003))
+
 :::
+
 **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
   ::: note-box
+
   Wortbildung **an-** („un-“) + **ṛta** n.
 
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
@@ -261,14 +301,20 @@ Abb.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
 ::: note-box
+
   Imena teh **ṛṣi**jev so omenjena v Brāhmaṇah in v posebnih seznamih Ved. Vsi brahmani izvirajo iz takšnih **ṛṣi**jev, po katerih so poimenovane njihove **gotra** (⟪गोत्र⟫). Za pojem **gotra** glej Basham, *Wonder*, pogl. 5.
   :::
 
+:::
 ::: media
+
 ![](/images/lekt1002.jpg)
+
 Slika: ⟪विश्वामित्रः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt1002))
+
 :::
+
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : reči, govoriti
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vprašati (nekoga: tožilnik; po nečem: tožilnik)
 **saha** ⟪सह⟫ : skupaj z, skupno z (tudi pri "boriti se z" itd.) (postpozicija z instrumentalom)
@@ -286,7 +332,7 @@ Slika: ⟪विश्वामित्रः⟫
 6. **nayanti** (⟪नयन्ति⟫)
 7. **smarati** (⟪स्मरति⟫)
 8. **śṛṇvanti** (⟪शृण्वन्ति⟫)
-9. **paśyati** (⟪पश्यति⟫) (Passiv wird von **dṛś** gebildet!)
+9. **paśyati** (⟪पश्यति⟫) (Trpnik se tvori iz **dṛś**!)
 10. **jayanti** (⟪जयन्ति⟫)
 11. **kurvate** (⟪कुर्वते⟫)
 12. **āpnuvanti** (⟪आप्नुवन्ति⟫)
@@ -299,11 +345,11 @@ Slika: ⟪विश्वामित्रः⟫
 19. **rakṣanti** (⟪रक्षन्ति⟫)
 20. **vadanti** (⟪वदन्ति⟫)
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
-22. **tanvanti** (⟪तन्वन्ति⟫) (2 Formen!)
+22. **tanvanti** (⟪तन्वन्ति⟫) (2 obliki!)
 
 **B) Tvorite instrumental ednine in množine za vse doslej naučene samostalnike.**
 
-**C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:**
+**C) Naslednje stavke postavite v trpnik in jih prevedite:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
@@ -312,9 +358,9 @@ Slika: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 možnosti)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 možnosti)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
 13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
@@ -328,10 +374,14 @@ Slika: ⟪विश्वामित्रः⟫
 4. Napne se osnova. (2 možnosti)
 
 ::: media
+
 ![](/images/lekt1004.jpg)
+
 Slika: ⟪तन्तुवायः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt1004))
+
 :::
+
 5. Vprašati učitelja. (Trpna konstrukcija)
 6. Oko vodi. (Trpna konstrukcija)
 7. Pesnik vidi božanstvo. (Trpna konstrukcija)
@@ -375,10 +425,14 @@ Slika: ⟪तन्तुवायः⟫
 **Preberite in prevedite ter preoblikujte v pasiv:**
 
 ⟪क १⟫.
+
 ::: center
+
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
+
 :::
+
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |
@@ -396,10 +450,14 @@ Slika: ⟪तन्तुवायः⟫
 **Preberite in prevedite ter preoblikujte v pasiv:**
 
 ⟪क १⟫.
+
 ::: center
+
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
+
 :::
+
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |

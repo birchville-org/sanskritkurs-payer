@@ -124,10 +124,14 @@ Mit brahmanit syövät ja juovat?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Kuv.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung019))
+
 :::
+
 ---
 
 ## Lisäharjoitukset
@@ -139,7 +143,7 @@ B) Muuta harjoituksen A) lauseet passiiviin.
 C) Muodosta harjoituksen A) lauseille PPP-rakenne.
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Rāma menee kylään tietä pitkin.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -273,7 +277,10 @@ E) Käännä sanskritiksi:
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Kuv.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung018))
+
 :::

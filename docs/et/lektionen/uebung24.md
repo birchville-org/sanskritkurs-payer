@@ -134,7 +134,7 @@ E) Asendage lauses B) 6 daativ konstruktsiooniga **-⟪अर्थ⟫**:
 8. Võitleja on (teisele) võitlejale võrdne.
 **⟪शक्तो योधो योधाय ॥⟫**
 
-9\. Selbst Viṣṇu übertrifft Śiva nicht.
+9\. Isegi Viṣṇu ei ületa Śivat.
 **⟪विष्णुरपि शिवाय न प्रभवति ॥⟫**
 
 10. Pärast kolme targa kummardamist... Ta kummardab Narasiṃha ees.

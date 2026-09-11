@@ -84,7 +84,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ![](/images/lekt2903.webp)
 
-Abb.: ⟪परिव्राजकाः⟫
+ስዕሊ: ⟪परिव्राजकाः⟫
 
 ፑሽካር = ⟪पुष्कर⟫
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2903))
@@ -109,7 +109,7 @@ davon:
 
 ![](/images/lekt2901.webp)
 
-Abb.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+ስዕሊ: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
 
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2901))
 
@@ -117,7 +117,7 @@ Abb.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamil
 
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ ግስ፡ ከመ፡ ከማሁ።
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
@@ -147,7 +147,7 @@ PPP ⟪पूजित⟫
 
 ብቓል ብቓሉ ናብ ጽቡቕ ጀርመንኛ ተርጉም እሞ ነቲ ናይ ሳንስክሪት ጽሑፋት ብልቢ ተማሃሮ፦
 
-1\. Definition von ⟪अविद्या⟫ :
+፩. ትርጓሜ ⟪अविद्या⟫፡
 
 ⟪अनित्याशुचिदुःखा⟫:sig[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २⟫.⟪५॥⟫
 

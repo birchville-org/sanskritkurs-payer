@@ -143,10 +143,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Kuv: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Toistoharjoitus Luento 6
@@ -423,25 +427,25 @@ E) Käännä:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā on jumaluus.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā on śūdra-nainen.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara on vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha on runoilija.
 
 5\. devyumā.
 
@@ -453,7 +457,7 @@ Umā on jumalatar.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Veda on Śruti.
 
 7\. dhenurviśati.
 
@@ -603,7 +607,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Kuv.: ⟪देवतान्नपूर्णा⟫
 (Kuv lähde: [Details](/licenses#uebung005))
+
 :::

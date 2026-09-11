@@ -1,5 +1,5 @@
 ---
-title: "Lektion 35"
+title: "35. õppetund"
 lesson_id: 35
 status: stable
 
@@ -95,7 +95,7 @@ Näited:
 *   enne kaashäälikut: madal aste -i
 *   enne vokaali: madal aste Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+Moodustatakse -ā / -āi lõpuga tüvedest
 
 :::
 

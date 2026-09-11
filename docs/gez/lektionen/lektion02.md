@@ -93,13 +93,13 @@ last_reconstructed: 2026-04-30
 **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
 **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+- **ቅድመ ቃላት ዘይብሉ ድምጺ**:
+  - ቅድመ **k, kh, p, ph** ወብእሲ **ś, ṣ, s**: ይከውን **ቪሳርጋ (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("እግዚአብሔር ስምዖን")
+  - ቅድመ **c, ch**: ይከውን **-ś**
+  - ቅድመ **ṭ, ṭh**: ይከውን **-ṣ**
+  - ቅድመ **t, th**: ይትረፍ **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("ቅዱስ ቻይታንያ")
 
 - **ቅድመ ቃላት ርቱዓት ድምፅ**:
   - ድኅረ ዘይኮኑ አ-አናቅጽ: ይከውን **-ር**
@@ -124,11 +124,11 @@ last_reconstructed: 2026-04-30
 
 **kṣatriya** ተባዕታይ -- ⟪क्षत्रिय⟫ : ፀረኛ (መደብ መኳንንት ወሰራዊት).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
+**vaiśya** ተባዕታይ -- ⟪वैश्य⟫ : ቫይሽያ (መደብ ንግድ ወግብርና).
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box Die vier Stände (varna)
+::: note-box አርባዕቱ መደባት (ቫርና)
 
 በጥንታዊት ትምህርት (ለምሳሌ ማኑስምርቲ ፩, ፹፰-፺፩) ተግባራት ይከፋፈላሉ:
 

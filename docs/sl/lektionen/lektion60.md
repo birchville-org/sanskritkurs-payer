@@ -25,32 +25,41 @@ status: stable
 ⟪बन्ध्⟫ 9P "vezati"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
+
 :::
+
 ⟪भाष्⟫ 1Ā "govoriti"
 
 ::: grammar-box
+
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
+
 :::
+
 ### 60.2.2. Tip 2: močni koren v stopnji guṇa, šibki koren v stopnji vrddhi
 
 ⟪भिद्⟫ 7U "razcepljati"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
+
 :::
+
 ### 60.2.3. Tip 3: Močni koren v stopnji guṇa/vrddhi
 
 #### 60.2.3.1. Tip 3a: Močni koren v stopnji guṇa/vrddhi, šibki koren v stopnji zero
@@ -58,46 +67,59 @@ status: stable
 ⟪नी⟫ 1U "peljati"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
+
 :::
+
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) "hvaliti"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
+
 :::
+
 ⟪कृ⟫ 8U (⟪अनिट्⟫) "delati, narediti"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
+
 :::
+
 #### 60.2.3.2. Tip 3b: Močan koren v stopnji visokega glasu / zlongi stopnji, šibek koren v stopnji visokega glasu
 
 ⟪स्मृ⟫ 1P "predstavljati si"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
+
 :::
+
 ### 60.2.4. Tip 4: Koreni na -ā / -ai
 
 ⟪दा⟫ 3U "dati"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -105,7 +127,9 @@ status: stable
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
 \* enako kot ustrezne oblike indikativa prezenta!
+
 :::
+
 ### 60.2.5. Tip 5: Soglasnik-a-Soglasnik
 
 #### 60.2.5.1. Tip 5a: Soglasnik-a-Soglasnik, šibek koren v stopnji nizkega glasu
@@ -113,17 +137,21 @@ status: stable
 ⟪गम्⟫ 1U "iti"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
+
 :::
+
 #### 60.2.5.2. Tip 5b: Soglasnik-a-Soglasnik, začetni soglasnik ni guturalen, aspirat, h, šibki koren brez reduplicacije, z -e-
 
 ⟪पच्⟫ 1U "kuhati"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
@@ -132,42 +160,55 @@ status: stable
 
 ⟪क्रम्⟫ 1U "schreiten"
 
+:::
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
+
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+
+## 60.3. Dvojina perifrastičnega perfekta (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "zählen"
 
 ::: grammar-box
+
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
+
 :::
+
 ⟪आस्⟫ 2Ā "sitzen"
 
 ::: grammar-box
+
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
+
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+
+## 60.4. Deležnik ⟪परस्मैपद⟫ redupliciranega perfekta (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
+
 **Bildung:**
 
 **schwacher Perfektstamm + vāṃs**
 
 **Če je šibka perfektna osnova sestavljena samo iz enega zloga, se doda vezni samoglasnik -i-. Pri nekaterih perfektih je vezni samoglasnik neobvezen.**
+
 :::
+
 Primeri:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
@@ -178,6 +219,7 @@ Primeri:
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
 
 ::: grammar-box
+
 **Deklinacija:**
 
 *   **močan koren: -vāṃs**
@@ -192,26 +234,39 @@ Primeri:
 **šibek koren pred samoglasnikom + -ī (dekliniran kot ⟪देवी⟫)**
 
 Primer: ⟪विदुषी⟫ "vedeča"
+
 :::
+
 Paradigme glej Kielhorn, Gramatika § 124:
 
 ::: media
+
 ![](/images/lekt6001.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6001))
+
 :::
 
 ::: media
+
 ![](/images/lekt6002.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6002))
+
 :::
+
 ## 60.5. Deklinacija korenov na -añc (-ac)
 
 ::: grammar-box
+
 **Koreni na -añc/-ac so sestavljeni iz predlogov itd. in korenskega imena za koren ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "se gibati".**
+
 :::
+
 ### 60.5.1. Trokorenski koreni na -añc
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 *   **močan koren: -añc**
@@ -229,18 +284,27 @@ Paradigme glej Kielhorn, Gramatika § 124:
 **šibek koren pred samoglasnikom + -ī (dekliniran kot ⟪देवी⟫)**
 
 Primer: ⟪प्रतीची⟫
+
 :::
+
 #### Paradigme glej Kielhorn, Gramatika § 128:
 
 ::: media
+
 ![](/images/lekt6003.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6003))
+
 :::
 
 ::: media
+
 ![](/images/lekt6004.webp)
+
 (Vir: [Podrobnosti](/sl/licenses#lekt6004))
+
 :::
+
 Sem spadajo:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "nazaj, zahodno"
@@ -261,11 +325,14 @@ Sem spadajo:
 ### 60.5.2. Dvokorenski koreni na -añc
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 *   **močan koren: -añc**
 *   **šibek koren pred soglasnikom ali samoglasnikom: -ac**
+
 :::
+
 Sem spadajo:
 
 *   ⟪प्राञ्च्⟫ 3 "naprej usmerjen, vzhodno"
@@ -285,13 +352,16 @@ Glavne svetovne strani
 ## 60.6. Desiderativ (⟪सन्⟫)
 
 ::: grammar-box
+
 **Iz vsake korena ter iz kauzativa se lahko oblikuje desiderativ (⟪सन्⟩). Desiderativ se lahko v vseh časih in naklonih prazmana, āmantrana in pasiva konjugira. Desiderativne oblike zunaj prezentskega korena pa so zelo redke.**
 
 **Pomen:**
 
 *   **oseba ali stvar želi storiti ali doživeti, kar izraža koren ali kauzativ**
 *   **redkeje: nekdo ali nekaj je v procesu, da stori, kar izraža koren ali kauzativ**
+
 :::
+
 ####  Primeri:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "želi storiti" |
@@ -303,6 +373,7 @@ Glavne svetovne strani
 ### 60.6.1. Oblikovanje desiderativnega korena
 
 ::: grammar-box
+
 **Koreni prezentskih razredov 1 - 9:**
 
 **dupliciran koren + sa**
@@ -316,8 +387,11 @@ Pravila za uporabo vezne samoglasnike -i- glej pri Kielhorn, Gramatika § 443 - 
 **Koreni desete prezentske razrede in kausativi:**
 
 **dupliciran prezentski koren + i + ṣa**
+
 :::
+
 ::: grammar-box
+
 **Oblika korena:**
 
 1.  Koren je običajno v stopnji guṇa: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
@@ -353,8 +427,11 @@ Pravila za uporabo vezne samoglasnike -i- glej pri Kielhorn, Gramatika § 443 - 
 
 2.  izbirno: korenine oblike soglasnik - (soglasnik -) i/u - soglasnik razen -v\_  
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "požirati blisk"
+
 :::
+
 ::: grammar-box
+
 **O reduplicaciji:**
 
 1.  Korenine, ki se začnejo s soglasnikom: Reduplicacija poteka po splošnih pravilih na koreninah, ki so bile spremenjene glede na zgoraj navedena pravila. Namesto a kot reduplicacijskega samoglasnika se pojavi i:  
@@ -370,19 +447,29 @@ Cerebralizacija po i/u izhajajočega -s korenine ostane neizvedena, če se cereb
 ⟪ऋ⟫ » ⟪अरिरिष⟫-  
 
 3.  Posebna tvorba desiderativa za določene korenine glej pri Kielhorn, Grammatik § 451.
+
 :::
+
 ::: grammar-box
+
 **Za nekatere korene se tvorijo desiderativi brez desiderativnega pomena. Za te desiderative je mogoče tvoriti desiderative z desiderativnim pomenom.**
+
 :::
+
 Seznam pri Kielhornu, Gramatika § 452:
 
 ::: media
+
 ![](/images/lekt6006.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6006))
+
 :::
+
 ### 60.6.2. Konjugacija desiderativa (⟪सन्⟫)
 
 ::: grammar-box
+
 **Desiderativ je - z nekaj izjemami - P, Ā oziroma U, glede na to, ali je osnovni koren (oziroma osnovni glagolski koren) P, Ā ali U.**
 
 **Sedanjik: Konjugacija kot tematski koren:**
@@ -390,26 +477,39 @@ Seznam pri Kielhornu, Gramatika § 452:
 ⟪यज्⟫ 1U:
 
 :::
+
 ::: indent
+
 P: ⟪यियक्षति⟫ "želi, da bi za nekoga drugega žrtvoval"
 Ā: ⟪यियक्षते⟫ "želi, da bi za samega sebe (kot žrtvenik) žrtvoval"
 Pasiv: ⟪यियक्ष्यते⟫ "želi se žrtvovati"
+
 :::
+
 **Perfekt: periphrastično:**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ "želel je doseči"
+
 :::
+
 **Aorist: iṣ-aorist:**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
+
 :::
+
 **Futur: ⟪सेट्⟫**
 
 ::: indent
+
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
+
 :::
+
 Za tvorbo imen agentov na -u iz desiderativnega korena glejte [Lekcija 54](lektion54.md).
 
 ## 60.7. Vaja
@@ -417,19 +517,29 @@ Za tvorbo imen agentov na -u iz desiderativnega korena glejte [Lekcija 54](lekti
 A) Naučite se v Kielhornu, Gramatika § 451 nepravilne tvorbe desiderativov za doslej naučene glagole:
 
 ::: media
+
 ![](/images/lekt6007.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6007))
+
 :::
 
 ::: media
+
 ![](/images/lekt6008.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6008))
+
 :::
 
 ::: media
+
 ![](/images/lekt6009.webp)
+
 (Vir slike: [Podrobnosti](/sl/licenses#lekt6009))
+
 :::
+
 B) Določite in prevedite naslednje oblike brez pomožnih sredstev:
 
 1.  ⟪ददुषोः⟫
@@ -535,4 +645,3 @@ B) Določite in prevedite naslednje oblike brez pomožnih sredstev:
 51.  ⟪अवाचः⟫
 
 52.  ⟪ईयुषे⟫
-

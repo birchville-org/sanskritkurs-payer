@@ -82,7 +82,7 @@ A) Vastake järgmistele küsimustele sanskriti keeles, kasutades sulgudes toodud
 
 ## Interrogative Sätze
 
-B) Übersetzen Sie:
+B) Tõlgi:
 
 ⟪१⟫. **⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्रेषु वसेत् ॥ १ ॥⟫**
 Kas see, kelle arusaam on kindlalt juurdunud, peaks minema kodutusse või jääma koju oma poegade juurde?
@@ -96,7 +96,7 @@ Kas õpetaja teab ka tõde?
 
 ## Interrogative Sätze
 
-B) Übersetzen Sie:
+B) Tõlgi:
 
 ⟪१⟫. **⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्रेषु वसेत् ॥ १ ॥⟫**
 Kas see, kelle arusaam on kindlalt juurdunud, peaks minema kodutusse või jääma koju oma poegade juurde?
@@ -108,7 +108,7 @@ Kas õpetaja teab ka tõde?
 Kas śūdrad on ehk kaks korda sündinute teenijad?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो भारमाबिभः ॥ ४ ॥⟫**
-Hat der Śūdra etwa die Last getragen?
+Kas śūdra kandis koormat?
 
 ---
 

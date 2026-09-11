@@ -17,14 +17,14 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪न⟩ ⟪गुरोः⟩ ⟪परमं⟩ ⟪शिशुरस्मि⟩ ⟪गुरोर्⟩**  
 **⟪मतिरस्ति⟩ ⟪गुरौ⟩ ⟪मम⟩ ⟪पाहि⟩ ⟪गुरो⟩ ⟪॥⟩**
 
-> Mein Lehrer ist meine Zuflucht,  
-> Tisztelem a tanáromat,  
-> A tanárommal vagyok együtt,  
-> Tisztelet a tanáromnak,  
-> Nincs magasabb dolog a tanárnál,  
-> A tanárom gyermeke vagyok,  
-> A szívem a tanáromnál van,  
-> Tanár, óvj engem!
+> Tanítóm a menedékem,
+> Tanítómat imádom,
+> Tanítómmal vagyok,
+> Dicsőség tanítómnak,
+> Nincs magasabb a tanítónál,
+> Tanítóm gyermeke vagyok,
+> Szívem tanítómnál van,
+> Tanító, védj meg!
 
 ---
 
@@ -58,10 +58,14 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 > Olyan család, amelyben a férj mindig elégedett a feleségével és a feleség mindig elégedett a férjével, ilyen családban állandó boldogság biztos.
 
 ::: media
+
 ![](/images/uebung081.webp)
+
 Kép: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्ता⟩ ⟪भर्त्रा⟩ ⟪भार्या⟩ ⟪तथैव⟩ ⟪च⟩ ⟪।⟩ ⟪यस्मिन्नेव⟩ ⟪कुले⟩ ⟪नित्यम्⟩ ⟪कल्याणं⟩ ⟪तत्र⟩ ⟪वै⟩ ⟪ध्रुवम्⟩ ⟪॥⟩
 (Képmegjelenítés: [Részletek](/licenses#uebung081))
+
 :::
+
 ---
 
 ### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪७५⟩ - ⟪७६⟩: Az áldozat szükségességéről
@@ -79,10 +83,14 @@ Kép: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 > Mindig foglalkozzon a Védák tanulmányozásával és az isteneknek szánt áldozatokkal. Az, aki foglalkozik az isteneknek szánt áldozatokkal, ezt a világot kapja meg élő és élettelen dolgokkal. Az áldozat, amelyet helyesen a tűzbe dobnak, eljut az égbe, az égből eső jön, az esőből táplálék, a táplékból teremtmények.
 
 ::: media
+
 ![](/images/uebung082.webp)
+
 Kép: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪हि⟩ ⟪बिभर्तीदं⟩ ⟪चराचरम्⟩ ⟪॥⟩
 (Képmegjelenítés: [Részletek](/licenses#uebung082))
+
 :::
+
 ---
 
 ### ⟪योगसूत्र⟩ ⟪२⟩, ⟪१६⟩ - ⟪१७⟩

@@ -13,12 +13,15 @@ status: stable
 ## 6.1. Verbala lause
 
 ::: grammar-box
+
 **Kaavio I: Verbamuoto**
 - Esim. **yajati** = ⟪यजति⟫ = "Hän (hän, se) palvoo uhraamalla", "Hän (hän, se) uhraa"
 
 **Schema II: Subjekt (kartṛ m. = ⟪कर्तृ⟫) – Verbform**
 - z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma kunnioittaa uhraamalla", "Rāma uhraa"
+
 :::
+
 Jos subjektia (**kartṛ** m. = ⟪कर्तृ⟫) mainitaan lauseessa, joka ei ole passiivissa, subjekti on **nominatiivissa** (nominatiivi, prathamā = ⟪प्रथमा⟫). Numeruksessa (luku, vacana n. = ⟪वचन⟫) subjekti ja verbimuoto ovat yhtä suuret.
 
 ## 6.2. Verbien muodostamisesta
@@ -57,8 +60,11 @@ Ajat ovat aikakausien muodostamia: preesensvartalo, aoristivartalo, perfekti var
 Preesens on nykyajan aikakausi, erityisesti myös keston ilmaisu.
 
 ::: grammar-box
+
 **Indikatiivi (vakuutusmuoto) preesens muodostetaan liittämällä preesensvartalon perään ns. primaaripäätteet.**
+
 :::
+
 Esimerkkejä:
 
 | Juuri (dhātu) | Preesensvartalo | 3. Person yksikkö Indikativ Preesens Parasmaipada |
@@ -71,11 +77,14 @@ Esimerkkejä:
 ## 6.4. Pääloppujen kolmas persoona (prathama m. = ⟪प्रथम⟫ = "ensimmäinen (!) persoona")
 
 ::: grammar-box
+
 | | Singular (yksikkö):brekavacana n.:br⟪एकवचन⟫ | Plural (monikko):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 Esimerkki **yaj** = ⟪यज्⟫ = "palvotaan uhrilla", "uhrata":
 Preesensvartapa: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -89,16 +98,20 @@ Preesensvartapa: **yaja** = ⟪यज⟫
 ### 6.5.1. Luokan 6 preesensverbien muodostaminen (tudādi = ⟪तुदादि⟫ = "tud jne.")
 
 ::: grammar-box
+
 **Preesensvartapa = juuri matalassa asteessa (siinä muodossa, jossa se on luokiteltu) + a-**
 
 | Juuri (dhātu m.):br⟪धातु⟫ | Preesensvartapa |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. Luokan 1 preesensverbien muodostaminen (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū jne.")
 
 ::: grammar-box
+
 | Preesensvartapa = juuri korkeassa asteessa (harvoin pidennetyssä asteessa) + a- ||||
 | Juuri (dhātu m.):br⟪धातु⟫ | Korkea aste | Korkea aste ennen a-:ta | Preesensvartapa |
 | :--- | :--- | :--- | :--- |
@@ -108,13 +121,16 @@ Preesensvartapa: **yaja** = ⟪यज⟫
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Jos vokaali on pitkässä suljetussa tavussa, eli lyhyt vokaali kahden tai useamman konsonantin edellä, korkean asteen muodostamista ei tehdä ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. Sanhita e:stä ja o:sta
 Vokaalien edellä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muodolla **av**.
 
 #### 6.5.2.2. Äännevaihtelu (Ablaut)
 
 ::: grammar-box
+
 | Matala aste:brKadonnonaste | Korkea aste:brTäysiaste:brGuṇa m.:br⟪गुण⟫ | Pituusaste:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -122,10 +138,13 @@ Vokaalien edellä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. Verbit, jotka kuuluvat neljänteen preesensluokkaan (divādi = ⟪दिवादि⟫ = "div jne.")
 
 ::: grammar-box
+
 **Preesensvartio = Sana matalassa asteessa (siinä muodossa, jossa se on esitetty) + ya-**
 
 | Sana (dhātu m.):br⟪धातु⟫ | Preesensvartio |
@@ -134,33 +153,42 @@ Vokaalien edellä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Teemavokaali, teema-aineiset preesensluokat
 
 ::: grammar-box
+
 Preesensluokkien taivutusliitteissä esiintyvää **a**:ta kutsutaan **teemavokaaliksi**. Preesensluokat, joissa on taivutusliitteessä **a**, ovat siksi nimeltään "teema-aineiset preesensluokat".
+
 :::
 
 ## 6.6. Puhuttu sanskriti: Lisäkysymyksiä (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "Mitä N. N. tekee?"
 **N. N. (monikko) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Mitä N.N.-t tekevät?"
 (karoti, kurvanti ovat verbejä **kṛ** = ⟪कृ⟫ 8 U: "tehdä, tehdä")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Voiko hyvin?, Mitä kuuluu?"
 Vastaus: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Minulla) on hyvin joka suhteessa."
+
 :::
 
 ## 6.7. Sanalista
 
 ::: grammar-box
+
 Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero tarkoittaa **taivutusluokkaa**.
 
 - **P:** Juuri on vain Parasmaipada-muodossa
 - **Ā:** Juuri on vain Ātmanepada-muodossa
 - **U:** Ubhayapada ("kumpikin muoto"): Juuri esiintyy sekä Parasmaipada- että Ātmanepadamuodossa.
 - **():** Sulkujen sisällä on 3. persoonan yksikön preesensin indikatiivi (laṭ).
+
 :::
+
 **Opiskele seuraavat sanat:**
 - **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : palvota uhraamalla, uhrata
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : tulla, syntyä, olla
@@ -203,10 +231,13 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 13. (Mainittu) brahmanitanssii.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Kuvälähde: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Toistoharjoitus
@@ -231,12 +262,19 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
    ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
+
 ::: indent
+
 ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+
 :::
+
 11. (sādhu) ... rāmaḥ
+
 ::: indent
+
 ⟪साधु⟫ ... ⟪रामः⟫
+
 :::
 
 **B) Muunna monikkoon:**
@@ -255,18 +293,18 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**C) Muodosta Ātmanepada seuraavista:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**D) Muodosta feminiini seuraavista:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
-3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
+3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरati⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Käännä:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -279,29 +317,33 @@ Sanskritissa verbit esitetään **juurimuodossa**. Juuren jälkeen oleva numero 
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) Käännä sanskritiksi:**
+1. Rāma uhraa (uhriherrana).
+2. Durgā on jumalatar.
+3. Mīnākṣī on jumalatar.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Kuvalähde: Wikipedia, Public domain)
+
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
+
+4. He ovat hämmentyneitä.
+5. Rāma on pyhä mies.
+6. Kuka on HERRA?
+7. Indra on HERRA.
+8. Kotieläimet astuvat sisään.
+9. Viṣṇu saa aikaan = Viṣṇu luo.
+10. Kahdesti syntyneet ovat hyviä.
+11. Kolminkertainen (tieto) on Sāmaveda, Ṛgveda ja Yajurveda. (2 mahdollisuutta)
+12. Tämä jumalatar on hyvä.
 13. Viisi "piinaa" ovat: ajñāna (tuntemattomuus), ahaṃkāra (minä-usko), rāga (intohimo/rakkaus), dveṣa (viha) ja abhiniveśa (kiinnittyminen kehoon). (2 vaihtoehtoa)
 14. "Brahman oleskelutilat" ovat: maitrī (ystävällinen hyväntahtoisuus), karuṇā (myötätunto), muditā (myönteinen ilonpito) ja upekṣā (tasapainoisuus). (2 vaihtoehtoa)
-15. Nämä brahmanit uhrataan toisten puolesta.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
+15. Nämä brahmaanit uhrataan toisten puolesta.
+16. Brahmaaneja, Kṣatriyoja ja Vaiśyoja kutsutaan kahdesti syntyneiksi. (2 mahdollisuutta)
 17. Tieteet (hallitsijalle) ovat: filosofia, kolmijakoinen (Veda-tieto), talous ja politiikka. (2 vaihtoehtoa)
-18. Geht es Ihnen gut?
+18. Voitteko hyvin?
 19. (Minulla) menee hyvin joka suhteessa.

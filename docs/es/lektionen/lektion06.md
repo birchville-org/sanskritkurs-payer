@@ -13,12 +13,15 @@ status: stable
 ## 6.1. La oración verbal
 
 ::: grammar-box
+
 **Esquema I: Forma verbal**
 p. ej. **yajati** = ⟪यजति⟫ = "Él (ella, ello) venera con un sacrificio", "Él (ella, ello) sacrifica"
 
 **Esquema II: Agente (kartṛ m. = ⟪कर्तृ⟫) – Forma verbal**
 p. ej. **rāmo yajati** = ⟪रामो यजति⟫ = "Rāma venera con un sacrificio", "Rāma sacrifica"
+
 :::
+
 Si se menciona el agente (**kartṛ** m. = ⟪कर्तृ⟫) en una oración verbal que no está en voz pasiva, entonces el agente va en **nominativo** (primer caso, prathamā = ⟪प्रथमा⟫). En cuanto al número (vacana n. = ⟪वचन⟫), el agente y la forma verbal coinciden.
 
 
@@ -59,8 +62,11 @@ Los tiempos se forman a partir de raíces temporales: raíz del presente, raíz 
 El presente es el tiempo del presente, en particular también de la duración.
 
 ::: grammar-box
+
 **El Indicativo (forma enunciativa) Presente se forma añadiendo las llamadas desinencias primarias a la raíz del presente.**
+
 :::
+
 Ejemplos:
 
 | Raíz (dhātu) | Raíz del presente | 3. persona singular Indicativo Presente Parasmaipada |
@@ -73,11 +79,14 @@ Ejemplos:
 ## 6.4. Desinencias primarias de la tercera persona (prathama m. = ⟪प्रथम⟫ = "primera (!) persona")
 
 ::: grammar-box
+
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
 Tema de presente: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ Tema de presente: **yaja** = ⟪यज⟫
 ### 6.5.1. Verbos de la 6ª clase de presente (tudādi = ⟪तुदादि⟫ = "tud, etc.")
 
 ::: grammar-box
+
 **Tema de presente = raíz en grado reducido (en el que se presenta) + a-**
 
 | Raíz (dhātu m.):br⟪धातु⟫ | Tema de presente |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. Verbos de la 1ª clase de presente (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū, etc.")
 
 ::: grammar-box
+
 | Tema de presente = raíz en grado pleno (raramente en grado alargado) + a- ||||
 | Raíz (dhātu m.):br⟪धातु⟫ | Grado pleno | Grado pleno ante a- | Tema de presente |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ Tema de presente: **yaja** = ⟪यज⟫
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Si la vocal está en una sílaba larga cerrada, es decir, vocal corta ante dos o más consonantes, no se forma el grado pleno ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. Sandhi de palabras con e y o
 Ante vocales, en el interior de la palabra **e** se sustituye por **ay**, y **o** por **av**.
 
 #### 6.5.2.2. Gradación fonética (Ablaut)
 
 ::: grammar-box
+
 | Grado profundo:brGrado de pérdida | Grado alto:brGrado completo:brGuṇa m.:br⟪गुण⟫ | Grado alargado:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ Ante vocales, en el interior de la palabra **e** se sustituye por **ay**, y **o*
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. Verbos de la 4ª clase de presente (divādi = ⟪दिवादि⟫ = "div, etc.")
 
 ::: grammar-box
+
 **Tema de presente = Raíz en grado profundo (en el que se presenta) + ya-**
 
 | Raíz (dhātu m.):br⟪धातु⟫ | Tema de presente |
@@ -136,33 +155,42 @@ Ante vocales, en el interior de la palabra **e** se sustituye por **ay**, y **o*
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Vocal temática, clases temáticas de presente
 
 ::: grammar-box
+
 La **a** en los sufijos de formación del tema de las clases de presente se denomina **vocal temática**. Las clases de presente con **a** en el sufijo de formación del tema se denominan por ello "clases temáticas de presente".
+
 :::
 
 ## 6.6. Sánscrito hablado: Otras preguntas (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "¿Qué hace N. N.?"
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "¿Qué hacen los N.N.?"
 (karoti, kurvanti de **kṛ** = ⟪कृ⟫ 8 U: "hacer, realizar")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "¿Va todo bien?, ¿Cómo está usted?"
 Respuesta: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Me va) bien en todos los aspectos."
+
 :::
 
 ## 6.7. Lista de palabras
 
 ::: grammar-box
+
 En sánscrito, los verbos se presentan en la **forma de raíz**. El número después de la raíz indica la **clase conjugacional**.
 
 **P:** La raíz es solo Parasmaipada
 **Ā:** La raíz es solo Ātmanepada
 **U:** Ubhayapada ("ambas formas verbales"): La raíz se utiliza tanto en Parasmaipada como en Ātmanepada.
 **():** Entre paréntesis se indica la 3ª persona singular del presente de indicativo (laṭ).
+
 :::
+
 **Aprenda las siguientes palabras:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : honrar con una ofrenda, sacrificar
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : llegar a ser, surgir, existir
@@ -206,10 +234,13 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 13. La brahmán (mencionada) danza.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Fuente de la imagen: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Ejercicio de repaso
@@ -265,7 +296,7 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Traduzca:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -278,16 +309,20 @@ En sánscrito, los verbos se presentan en la **forma de raíz**. El número desp
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
+**F) Traduzca al sánscrito:**
 1. Rāma ofrece (como señor del sacrificio).
 2. Durgā es una diosa.
 3. Mīnākṣī es una diosa.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Templo Mīnākṣī, Madurai, Tamil Nadu
 (Fuente de la imagen: Wikipedia, dominio público)
+
 :::
+
 4. Ellos están confundidos.
 5. Rāma es un hombre sagrado.
 6. ¿Quién es el SEÑOR?

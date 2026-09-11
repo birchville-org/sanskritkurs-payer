@@ -161,7 +161,6 @@ Besokët hinduë shkojnë në tempull për të arritur pamjen e Perëndisë për
 | **guru** :br⟪गुरु⟫:br3 "i rëndë, i nderuar,:brm. Mësues" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Rëndësia, nderimi,:brTë qenët mësues (natyra ose esenca e një mësimdhënësi)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahman" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Të qenët Brahman,:brAjo që e bën një Brahman Brahman,:brEsenca / Natyra e një Brahmani" |
 | **deva** :br⟪देव⟫:brm. "Qiejtar, Perëndi" | — | **devatā** f.:br⟪देवता⟫ | "Perëndeshë" |
-:::
 **Shembuj:**
 
 | Themeli emëror:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Kuptimi |
@@ -234,6 +233,7 @@ Fig.: **likh** (⟪लिख्⟫) : Shkop shkrimi i Batakëve (Sumatra), siç 
 
 
 
+:::
 ## 8.7. Ushtrim leximi dhe përkthimi
 
 1. ⟪शूद्रो बालं नयति⟫ |

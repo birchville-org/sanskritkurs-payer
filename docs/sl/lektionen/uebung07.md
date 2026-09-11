@@ -161,7 +161,7 @@ Gredo v nebesa in peklno.
 
 Poslušajo pa guruje.
 
-3\. Śūdras erlangen einen Himmel.
+3\. Šudre dosežejo nebesa.
 
 śūdrāḥ svargam āpnuvanti.
 
@@ -179,13 +179,13 @@ vaiśyā devatā yajante.
 
 ⟪वैश्या देवता यजन्ते ।⟫
 
-6\. Der HERR zürnt.
+6\. GOSPOD se jezi.
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Po Kauṭilīya-arthaṣāstra 1.3.3.) Razlaga: chando = imen., tož. ed. od chandas n.)
 
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
@@ -216,8 +216,11 @@ sa guruḥ. enaṃ śṛṇvanti.
 ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 ::: media
+
 ![](/images/uebung006.jpg)
+
 Slika: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 (Vir slike: [Details](/licenses#uebung006))
+
 :::
 

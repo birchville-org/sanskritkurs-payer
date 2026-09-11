@@ -1,5 +1,5 @@
 ---
-title: "Lektion 6"
+title: "Õppetund 6"
 subtitle: "Tegusõnafraasi struktuur (alus ja tegusõna vorm)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
@@ -283,18 +283,18 @@ In Sanskrit, verbs are listed in the **root form**. The number after the root in
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**C) Moodustage Ātmanepada järgmistest:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**D) Moodustage naissoost vorm järgmistest:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Tõlkige:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -307,10 +307,10 @@ In Sanskrit, verbs are listed in the **root form**. The number after the root in
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) Tõlkige sanskriti keelde:**
+1. Rāma ohverdab (ohvriisandana).
+2. Durgā on jumalanna.
+3. Mīnākṣī on jumalanna.
 
 ::: media
 

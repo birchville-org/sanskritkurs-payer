@@ -1,5 +1,5 @@
 ---
-title: "Lektion 27"
+title: "Õppetund 27"
 subtitle: 'Lokatiivi (⟪सप्तमी⟫ f. = "seitsmes käändelõpp") kasutamine'
 lesson_id: 27
 last_reconstructed: 2026-05-21
@@ -292,7 +292,7 @@ Gegenstück zu ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, kollane, roheline; m. Viṣṇu epiteet (ei kuulu juure ⟪हृ⟫ 1 juurde)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫ m.: Viṣṇu ja Śiva ühendatuna üheks jumaluseks.
 
 ::: media
 
@@ -330,7 +330,7 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 
 Joonis: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 
-Gemälde von Rāja Ravi Varmā (1848 - 1906).
+Rāja Ravi Varmā (1848 - 1906) maal.
 (Pildi allikas: [Details](/et/licenses#lekt2709))
 
 :::
@@ -339,7 +339,7 @@ Gemälde von Rāja Ravi Varmā (1848 - 1906).
 
 ## 27.7. Deklinationsparadigmen zum Auswendiglernen
 
-### 27.7.1. Maskulina auf -a: ⟪नर⟫
+### 27.7.1. Meessugu lõpuga -a: ⟪नर⟫
 
 ::: grammar-box
 
@@ -366,7 +366,7 @@ Naran. Udaipur.
 
 :::
 
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### 27.7.2. Kesksoost lõpuga -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -393,7 +393,7 @@ Früchte. Bangalore.
 
 :::
 
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Naissoost lõpuga -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -420,7 +420,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 
 :::
 
-### 27.7.4. Maskulina auf -i: ⟪अरि⟫
+### 27.7.4. Meessugu lõpuga -i: ⟪अरि⟫
 
 ::: grammar-box
 
@@ -447,7 +447,7 @@ Kahe 1857. aasta mässus osaleja hukkamine. Felice Beato (1833/1834 - u 1907) fo
 
 :::
 
-### 27.7.5. Feminina auf -i: ⟪मति⟫
+### 27.7.5. Naissoost lõpuga -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -463,7 +463,7 @@ Kahe 1857. aasta mässus osaleja hukkamine. Felice Beato (1833/1834 - u 1907) fo
 
 :::
 
-### 27.7.6. Maskulina auf -u: ⟪गुरु⟫
+### 27.7.6. Meessugu lõpuga -u: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -490,7 +490,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 
 :::
 
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Naissoost lõpuga -u: ⟪धेनु⟫
 
 ::: grammar-box
 

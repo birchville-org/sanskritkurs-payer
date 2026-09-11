@@ -1,5 +1,5 @@
 ---
-title: "Lektion 18"
+title: "Lekcija 18"
 lesson_id: 18
 
 ---
@@ -489,6 +489,6 @@ Abb.: ⟪सुगतः गन्धार⟫ 1./2. Jhdt. n. Chr.
 
 C) V sanskrtu podajte definicijo joge na dva načina: enkrat z uporabo zloženke, enkrat z razrešitvijo zloženke.
 
-D) Übersetzen Sie:
+D) Prevedite:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫

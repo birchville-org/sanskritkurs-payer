@@ -13,6 +13,7 @@ last_reconstructed: 2026-05-15
 A) Muunna seuraavat verbimuodot vastaaviksi optatiivimuodoissa persoonan, numeron ja genus verbin mukaisesti:
 
 ::: grammar-box
+
 | Preesens | Optatiivi |
 | :--- | :--- |
 | ⟪१⟫. ⟪ह्रियते⟫ | ⟪ह्रियेत⟫ |
@@ -80,7 +81,9 @@ A) Muunna seuraavat verbimuodot vastaaviksi optatiivimuodoissa persoonan, numero
 | ⟪६३⟫. ⟪अर्हति⟫ | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. ⟪अदन्ति⟫ | ⟪अद्युः⟫ |
 | ⟪६५⟫. ⟪अध्यापयन्ति⟫ | ⟪अध्यापयेयुः⟫ |
+
 :::
+
 B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset samāhiti-kompositiot:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
@@ -113,17 +116,21 @@ Arvovaltaisten on velvollisuus, että brahmaninpojat opiskelevat vedojen ja peri
 
 ⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Brahmiini, joka rakastaa śūdraa, ei ole hyvä brahmiini, sillä hyvä brahmiini rakastaa brahmiininnaa.
 
 ⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
 Sano totuuksia, jotka ovat miellyttäviä; älä sano epämiellyttäviä totuuksia; älä sano miellyttävää epätotuutta, tämä on ikuinen laki.
 
 ::: media
+
 ![](/images/uebung048.webp)
+
 Kuv.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Kuv lähde: [Details](/licenses#uebung048))
+
 :::
+
 ---
 
 ## Sanamuodon määrittäminen
@@ -131,6 +138,7 @@ Kuv.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 Määritä ja käännä seuraavat sanamuodot:
 
 ::: grammar-box
+
 | Sanamuoto | Määritelmä | Merkitys |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪भारे⟫ | Lok. sg. m. | kuormalla |
@@ -174,10 +182,15 @@ Määritä ja käännä seuraavat sanamuodot:
 | ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | hänelle/hänelle |
 | ⟪३९⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. | siinä, tässä |
 | ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | olevalle/hyville |
+
 :::
+
 ::: media
+
 ![](/images/uebung047.webp)
+
 Kuv.: ⟪भक्त्याः⟫
 (Kuv lähde: [Details](/licenses#uebung047))
+
 :::
 

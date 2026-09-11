@@ -148,10 +148,14 @@ kiṃ kāraṇam?
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung007.webp)
+
 Ábr.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Képmegjelölés: [Részletek](/licenses#uebung007))
+
 :::
+
 ---
 
 ## Olvasási gyakorlatok
@@ -196,13 +200,13 @@ A lány ír vagy rajzol.
 A szűz belép a házba.
 
 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+Isten megteremti az elefántot, illetve a kígyót, illetve a Nāgát.
 
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 A fiú vezeti az elefántot.
 
 16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Vimalā személynév)
-Vimalā ist traurig.
+Vimalā szomorú.
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |
 A papagáj repül.
@@ -211,7 +215,10 @@ A papagáj repül.
 A fiú levelet ír.
 
 ::: media
+
 ![](/images/uebung008.webp)
+
 Ábr.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Képmegjelölés: [Részletek](/licenses#uebung008))
+
 :::

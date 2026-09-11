@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Նկ.: ⟪का नृत्यति ।⟫
 (Նկարի աղբյուրը. [Մանրամասներ](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Կրկնության վարժություն, դաս 6
@@ -240,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+Բ) Դրեք հոգնակի թվով.
 
 1\. brāhmaṇo yajati.
 
@@ -354,7 +358,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+Գ) Կազմեք Ātmanepada-ն հետևյալից.
 
 1\. rāmo yajati.
 
@@ -372,7 +376,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+Դ) Կազմեք իգական սեռը հետևյալից.
 
 1\. śūdro nayati.
 
@@ -414,131 +418,131 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+Ե) Թարգմանեք.
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Աննապուրնան աստվածություն է։
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Իտարան շուդրա կին է։
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Տուլադհարան վայշյա է։
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Մագհան բանաստեղծ է։
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Ուման աստվածուհի է։
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Վեդան Շրուտի է։
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+Կովը մտնում է։
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Չայտանյան վարպետ է։
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+Ինդրանին աստվածուհի է։
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+Վարպետը սուրբ է։
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+Վարպետը զոհաբերում է որպես զոհաբերող։
 
-F) Übersetzen Sie ins Sanskrit:
+Զ) Թարգմանեք սանսկրիտից.
 
-1\. Rāma opfert (als Opferherr).
+1. Ռաման զոհաբերում է (որպես զոհաբերող)։
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2. Դուրգան աստվածուհի է։
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3. Մինակշին աստվածուհի է։
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4. Նրանք շփոթված են։
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5. Ռաման սուրբ մարդ է։
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6. Ո՞վ է ՏԵՐԸ։
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7. Ինդրան է ՏԵՐԸ։
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8. Անասունները մտնում են։
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. Վիշնուն արտահայտում է = Վիշնուն ստեղծում է։
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10\. Zweimalgeborene sind gut.
+10. Երկու անգամ ծնվածները լավն են։
 
 sādhavo dvijātayaḥ.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Նկար. ⟪देवतान्नपूर्णा⟫
 (Նկարի աղբյուրը. [մանրամասներ](/licenses#uebung005))
+
 :::

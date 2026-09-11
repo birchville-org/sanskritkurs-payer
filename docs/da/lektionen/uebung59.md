@@ -10,10 +10,14 @@ last_reconstructed: 2026-05-15
 # Opgave 59
 
 ::: media
+
 ![](/images/uebung098.webp)
+
 Fig.: ⟪रावणः⟫
 (Billedkilde: [Details](/licenses#uebung098))
+
 :::
+
 ---
 
 ## A) Tekstanalyse
@@ -56,7 +60,7 @@ Tekst fra: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f.
 
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा । शितैरतौत्सुः शूलैश्च भेरीश्चावीवदञ्छुभाः ॥४॥⟫
 
-> De skar ham med skarpе negle og biddt ham med tænderne, slog ham med skarpe spyd og lod lyse trommer lyde.
+> De skar ham med skarpe negle og biddt ham med tænderne, slog ham med skarpe spyd og lod lyse trommer lyde.
 \>
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4  
@@ -87,7 +91,7 @@ Tekst fra: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f.
 > Han klædte sig på og gik derefter hjemmefra for at se Rāvaṇa. Kongen så ham komme og rejste sig lidt fra sin sæde.
 \>
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
-> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (im Aor. auch P!)  
+> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (også P i Aorist!)  
 > ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
 > ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1
 
@@ -193,7 +197,10 @@ Tekst fra: Otto Böhtlingk: Sanskrit-Chrestomathie s. 127f.
 > ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
 
 ::: media
+
 ![](/images/uebung099.webp)
+
 Fig.: ⟪रामस्य रावणेन युद्धः⟫
 (Billedkilde: [Details](/licenses#uebung099))
+
 :::

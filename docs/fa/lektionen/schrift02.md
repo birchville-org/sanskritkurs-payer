@@ -6,12 +6,10 @@
 
 ## تمرین
 
-A) Schreiben Sie in Devanāgarī:
+الف) به خط دوناگری بنویسید:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Lesen und transliterieren Sie:
+ب) بخوانید و آوانویسی کنید:
 
 ⟪गजो⟫ ⟪गति⟫ ⟪जपति⟫ ⟪डप्⟫ ⟪दा⟫ ⟪ददाति⟫ ⟪जगती⟫ ⟪जटा⟫ ⟪जड⟫ ⟪बीज⟫ ⟪बृबु⟫ ⟪चिद्⟫ ⟪कदा⟫ ⟪तदा⟫ ⟪दीपितो⟫ ⟪जजति⟫
-
-

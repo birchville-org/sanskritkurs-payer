@@ -468,21 +468,21 @@ Weekly saying
 
 ## [Lesson 38](lektion38)
 
-*   1\. Solution of the Week
-*   2\. Sound Change of Nasals in Words
-*   3\. Declension of Stems Ending in -n
-*   3.1. Nouns ending in -an as well as nouns ending in -man or -van after a Vowel
-*   3.2. Nouns ending in -man or -van after a Consonant
-*   3.3. Maskuline und Neutrale Stämme auf -in, -min, -vin
-*   4\. On Nominal Formation: ⟪तद्धित⟫ Suffix -in
-*   5\. Syntax Regarding ⟪नामन्⟫
-*   6\. Syntax Regarding ⟪आत्मन्⟫
-*   7\. Consonant-Ending Stems as First Members of Compounds
-*   8\. Stems Ending in -an as Second Members of a ⟪बहुव्रीहि⟫
-*   9\. Vocabulary List
-*   10\. Exercise
-*   11\. Vocabulary List for Translation Exercise
-*   12\. Translation Exercise
+*   1\. Lausn vikunnar
+*   2\. Hljóðbreyting nefhljóða í orðum
+*   3\. Beyging stofna sem enda á -n
+*   3.1. Nafnorð sem enda á -an sem og nafnorð sem enda á -man eða -van á eftir sérhljóði
+*   3.2. Nafnorð sem enda á -man eða -van á eftir samhljóði
+*   3.3. Karlkyns og hvorugkyns stofnar á -in, -min, -vin
+*   4\. Um nafnmyndun: ⟪तद्धित⟫ viðskeytið -in
+*   5\. Setningafræði varðandi ⟪नामन्⟫
+*   6\. Setningafræði varðandi ⟪आत्मन्⟫
+*   7\. Samhljóðaendandi stofnar sem fyrstu liðir samsettra orða
+*   8\. Stofnar sem enda á -an sem annar liður í ⟪बहुव्रीहि⟫
+*   9\. Orðalisti
+*   10\. Æfing
+*   11\. Orðalisti fyrir þýðingaræfingu
+*   12\. Þýðingaræfing
 
 ## [Lesson 39](lektion39)
 
@@ -853,4 +853,3 @@ Weekly saying
 *   9\. Release into the ocean of Sanskrit literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 END OF THE SANSKRIT COURSE
-

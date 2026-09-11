@@ -100,7 +100,6 @@ Vowel - first following consonant (or its representative required in a reduplica
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicated syllable ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicated syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicated syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
 *   Jei po pradinio balsinio garsų seka nosies arba d, r prasidedanti priebalsių grupė, antrasis šios grupės priebalsis (arba jo atitikmuo) įterpiamas su i pagal toliau pateiktą schemą:
-:::
 *   Jei po pradinio balsinio garsų seka nosies arba d, r prasidedanti priebalsių grupė, antrasis šios grupės priebalsis (arba jo atitikmuo) įterpiamas su i pagal toliau pateiktą schemą:
 
 
@@ -140,7 +139,6 @@ injunktyvas Vedoje turi šias savybes:
 *   žodis ⟪मा स्म⟫ + injunktivo prezento arba aoristo formos žymėtų inhibicinį sakinį, t. y., draudžiamą jau vykstančią veiklą arba jau egzistuojančią būseną: „Nustok...“, „Atsisakyk...!“
 
 Tačiau šis skirtumas klasikinėje sanskritų kalboje dažniausiai nėra taikomas.)
-:::
 ## 56.3. Draudžiamasis sakinys
 
 ::: grammar-box

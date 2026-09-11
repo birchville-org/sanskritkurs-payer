@@ -141,10 +141,15 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
+
 (Fons imaginis: [Detalia](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Exercitatio repetitionis Lektion 6
@@ -419,7 +424,7 @@ E) Vertite:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā est dea.
 
 2\. śūdrā inferior.
 
@@ -598,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Fons imaginis: [Detalia](/licenses#uebung005))
+
 :::

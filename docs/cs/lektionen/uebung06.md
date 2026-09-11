@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Obr.: ⟪का नृत्यति ।⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Opakovací cvičení Lekce 6
@@ -240,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+B) Převeďte do množného čísla:
 
 1\. brāhmaṇo yajati.
 
@@ -354,7 +358,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+C) Vytvořte Ātmanepada z:
 
 1\. rāmo yajati.
 
@@ -372,7 +376,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+D) Vytvořte ženský rod z:
 
 1\. śūdro nayati.
 
@@ -414,131 +418,131 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+E) Přeložte:
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā je božstvo.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā je žena Śūdra.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara je Vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha je básník.
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Umā je bohyně.
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Véda je Śruti.
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+Kráva vchází.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Caitanya je mistr.
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+Indrāṇī je bohyně.
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+Mistr je světec.
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+Mistr obětuje jako obětník.
 
-F) Übersetzen Sie ins Sanskrit:
+F) Přeložte do sanskrtu:
 
-1\. Rāma opfert (als Opferherr).
+1\. Rāma obětuje (jako obětník).
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2\. Durgā je bohyně.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3\. Mīnākṣī je bohyně.
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4\. Jste zmatení.
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5\. Rāma je svatý muž.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6\. Kdo je PÁN?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7\. Indra je PÁN.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8\. Hospodářská zvířata vstupují.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9\. Viṣṇu emanuje = Viṣṇu tvoří.
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10\. Zweimalgeborene sind gut.
+10\. Dvakrát zrození jsou dobří.
 
 sādhavo dvijātayaḥ.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Obr.: ⟪देवतान्नपूर्णा⟫
 (Zdroj obrázku: [Details](/licenses#uebung005))
+
 :::

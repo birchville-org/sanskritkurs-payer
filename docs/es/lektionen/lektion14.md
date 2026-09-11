@@ -128,6 +128,7 @@ El genitivo singular de las raíces que terminan en vocal se forma irregularment
 
 En todas las raíces nominales, con excepción de los masculinos y neutros en -a y de los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
+:::
 ::: important
 
 En todas las raíces nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.

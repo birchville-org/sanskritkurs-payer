@@ -11,6 +11,7 @@ last_reconstructed: 2026-05-15
 A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengenai orang, jumlah, dan genus verbi:
 
 ::: grammar-box
+
 | Presente | Optatif |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
@@ -78,7 +79,9 @@ A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengena
 | ⟪६३⟫. **⟪अर्हति⟫** | ⟪अर्हेत्⟫ |
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
+
 :::
+
 B) Terjemahkan kalimat-kalimat berikut dan selesaikan majas Sanskerta:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
@@ -110,17 +113,21 @@ Kewajiban orang mulia adalah bahwa putra-putra Brahmana senantiasa mempelajari b
 
 ⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
-Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+Seorang Brahmana yang mencintai seorang Śūdra bukanlah seorang Brahmana yang baik, karena seorang Brahmana yang baik mencintai seorang Brahmanin.
 
 ⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
 Ucapkan kebenaran yang menyenangkan; jangan ucapkan kebenaran yang tidak menyenangkan. Jangan ucapkan kebohongan yang menyenangkan; ini adalah hukum abadi.
 
 ::: media
+
 ![](/images/uebung048.webp)
+
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Image source: [Details](/en/licenses#uebung048))
+
 :::
+
 ---
 
 ## Wortformbestimmung
@@ -128,6 +135,7 @@ Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 Determine and translate the following word forms:
 
 ::: grammar-box
+
 | Bentuk kata | Penentuan | Makna |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | di atas beban |
@@ -170,9 +178,14 @@ Determine and translate the following word forms:
 | ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | kepadanya |
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | di dalamnya, dalam ini |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | kepada Keberadaan / Kebajikan |
+
 :::: media
+
 ![](/images/uebung047.webp)
+
 Fig.: ⟪भक्त्याः⟫
 (Sumber gambar: [Rincian](/en/licenses#uebung047))
+
 ::::
+
 :::

@@ -30,7 +30,7 @@ Al escribir, cada letra se completa incluyendo la línea horizontal superior ant
 
 ## Ejercicio
 
-Schreiben Sie in Devanāgarī:
+Escriba en Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

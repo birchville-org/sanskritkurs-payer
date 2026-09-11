@@ -309,7 +309,6 @@ Lokatief ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
 > ::: indent
 > ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::
 > ## 51.4. Sandhi van aanvangend ch-
 
 ::: grammar-box
@@ -318,7 +317,6 @@ Lokatief ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
 > ::: indent
 > ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
-:::
 > ## 51.5. -ch- in het woord
 
 ::: grammar-box
@@ -327,11 +325,10 @@ Lokatief ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
 > ::: indent
 > bijv. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::
 > ## 51.6. Woordenlijst
 
 ⟪अजिन⟫ n.: antilopehuid, met name de huid van de zwarte antiloop (Hirschziegenantilope : _Antilope cervicapra_ L. ). Oorspronkelijk voorkomend op het hele Indische subcontinent van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி) Zie:
-&gt; **Walker's Mammals of the World** / Ronald M. Nowak. -- 6de uitg. -- Baltimore \[et al.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Bd. 2. -- bl. 1193v.v.
+> **Walker's Mammals of the World** / Ronald M. Nowak. -- 6de uitg. -- Baltimore \[et al.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Bd. 2. -- bl. 1193v.v.
 
 ::: media
 ![](/images/lekt5105.webp)

@@ -23,8 +23,8 @@ Buda despertou para a verdade. Buda reconheceu a verdade.
 O conhecimento libertou Gautama. Por meio do conhecimento, Gautama foi liberto.
 ⟪बोधिर्गौतमं⟫ ⟪मुञ्चति⟫ ⟪।⟫
 
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-Die Śūdras / Śūdrafrauen sind verblendet.
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilidades)
+Os Śūdras / mulheres Śūdras estão iludidos.
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
@@ -62,7 +62,7 @@ Embora Rāma deseje a libertação, ele não a alcança.
 ⟪रामेणेष्टो⟫ ⟪ऽपि⟫ ⟪मोक्षो⟫ ⟪न⟫ ⟪लब्धः⟫ ⟪।⟫
 
 ⟪२⟫. ⟪योज्ञो⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-Opfer erlöst nicht.
+O sacrifício não liberta.
 ⟪यज्ञेन⟫ ⟪न⟫ ⟪मुक्तः⟫ ⟪।⟫
 
 ⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
@@ -98,11 +98,11 @@ Os Brâmanes desejam filhos excelentes.
 ⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫
 
 ⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Welche Männer hören den Ṛgveda?
+Quais homens ouvem o Ṛgveda?
 ⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫
 
 ⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-Was erschafft der HERR?
+O que o SENHOR cria?
 ⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
 
 ⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
@@ -122,22 +122,26 @@ O que os brâmanes comem e bebem?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung019))
+
 :::
+
 ---
 
 ## Exercícios Adicionais
 
-A) Übersetzen Sie folgende Sätze.
+A) Traduza as seguintes frases.
 
 B) Transforme as frases do Exercício A) para a voz passiva.
 
 C) Construa uma locução de particípio passado (PPP) para as frases do Exercício A).
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Rāma vai para a aldeia pelo caminho.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -149,11 +153,11 @@ O homem vai à cidade com seu filho.
 ⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
 
 ⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-Gott erschafft die Welten.
+Deus cria os mundos.
 ⟪देवेन⟫ ⟪लोकाः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫ ⟪सृष्टाः⟫ ⟪।⟫
 
 ⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-Das Mädchen trinkt Wasser.
+A menina bebe água.
 ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫ ⟪पीतम्⟫ ⟪।⟫
 
 ⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
@@ -161,7 +165,7 @@ Dichter begehren Reichtum.
 ⟪कविबिर्धनं⟫ ⟪लुभ्यते⟫ ⟪।⟫ ⟪लुब्धम्⟫ ⟪।⟫
 
 ⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-Der mächtige Kṣatriya besiegt die Śūdras.
+O poderoso Kṣatriya derrota os Śūdras.
 ⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
 
 ⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫

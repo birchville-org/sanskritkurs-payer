@@ -140,6 +140,7 @@ Ví dụ:
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Mọi người làm những việc công đức. Bởi vì họ muốn được lên thiên đường."
 
+:::
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Mọi người làm những việc công đức. Bởi vì họ muốn được lên thiên đường."
 :::
@@ -197,7 +198,6 @@ trong đó:
 ⟪दार⟫ m. pl. (!!!): vợ
 
 ⟪द्रव्य⟫ n.: vật, tài sản, của cải vật chất, tiền bạc
-:::
 ⟪दार⟫ m. pl. (!!!): vợ
 
 ⟪द्रव्य⟫ n.: vật, tài sản, của cải vật chất, tiền bạc
@@ -273,7 +273,6 @@ từ đó:
 ⟪स्तेन⟫ m.: Dieb
 
 ⟪स्तेय⟫ n.: Diebstahl
-:::
 ::: media
 ![](/images/lekt2503.webp)
 Hình: ⟪लिप्तिः⟫
@@ -332,15 +331,12 @@ Từ đó:
 ⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách
 
 ⟪हर्ष⟫ m.: (sự dựng đứng lông), niềm vui
-:::
 ⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
 
 ⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách
 
 ⟪हर्ष⟫ m.: (sự dựng đứng lông), niềm vui
-:::
 ⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
-:::
 ⟪सामर्थ्य⟫ n.: sự phù hợp với mục đích
 
 ⟪स्वभाव⟫ m.: thực thể, bản chất, tính cách

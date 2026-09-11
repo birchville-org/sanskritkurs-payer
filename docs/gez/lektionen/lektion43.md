@@ -118,8 +118,8 @@ status: stable
 
 ## 43.3. ንጉሠ ስምንት ቃል ከኣ ካብ ክልተ ሰብ
 
-*   Singular: ⟪त्वद्⟫ "du"
-*   Plural: ⟪युष्मद्⟫ "ihr"
+*   เอกวัต (Singular): ⟪त्वद्⟫ "አንተ"
+*   พหุวัต (Plural): ⟪युष्मद्⟫ "አንትሙ"
 
 ::: grammar-box
 
@@ -139,7 +139,7 @@ status: stable
 
 ::: indent
 
-⟪त्वां मां च⟫ "dich und mich"
+⟪त्वां मां च⟫ "አንተን ወእኔየ"
 
 :::
 
@@ -153,7 +153,7 @@ status: stable
 
 ![](/images/lekt4302.webp)
 
-Abb.: ⟪आपणः⟫
+ስዕሊ: ⟪आपणः⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4302))
 
@@ -167,7 +167,7 @@ Abb.: ⟪आपणः⟫
 
 ![](/images/lekt4303.webp)
 
-Abb.: ⟪पण्यानि⟫
+ስዕሊ: ⟪पण्यानि⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4303))
 
@@ -177,7 +177,7 @@ Abb.: ⟪पण्यानि⟫
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: ዘተሰጥወ
 
 ⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
 
@@ -185,7 +185,7 @@ Abb.: ⟪पण्यानि⟫
 
 ⟪निश्चित⟫ 3: entschieden, festgesetzt
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : እመሰ ኢኮነ፣ ወበአንጻሩ
 
 ⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
 
@@ -195,7 +195,7 @@ Abb.: ⟪पण्यानि⟫
 
 ![](/images/lekt4304.webp)
 
-Abb.: ⟪विपणिः⟫
+ስዕሊ: ⟪विपणिः⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4304))
 
@@ -207,7 +207,7 @@ Abb.: ⟪विपणिः⟫
 
 ![](/images/lekt4305.webp)
 
-Abb.: ⟪वणिक्⟫
+ስዕሊ: ⟪वणिक्⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4305))
 
@@ -223,7 +223,7 @@ Abb.: ⟪वणिक्⟫
 
 ![](/images/lekt4306.webp)
 
-Abb.: ⟪वत्सः⟫
+ስዕሊ: ⟪वत्सः⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4306))
 
@@ -249,7 +249,7 @@ Abb.: ⟪वत्सः⟫
 
 ![](/images/lekt4307.webp)
 
-Abb.: ⟪तोलन्ति⟫
+ስዕሊ: ⟪तोलन्ति⟫
 
 (ምንባብ ስእል፡ [ዝርዝር](/gez/licenses#lekt4307))
 
@@ -378,7 +378,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ![](/images/lekt4308.webp)
 
-Abb.: ⟪कदा पूराववर्तथाः ।⟫
+ስዕሊ: ⟪कदा पूराववर्तथाः ।⟫
 
 (ምንባበ ሥዕል: [ዝርዝር](/gez/licenses#lekt4308))
 

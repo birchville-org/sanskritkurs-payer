@@ -21,6 +21,7 @@ status: stable
 *   **kokia prasme?**
 
 :::
+
 ::: grammar-box
 
 **1. Lokatyvas (⟪सप्तमी⟫) atsakant į klausimą „Kur?“ nurodo erdvę, kurioje (prie, ant, pas) yra veikėjas (⟪कर्ता⟫) arba veikos objektas, arba kur pati veika vyksta.**
@@ -28,11 +29,15 @@ status: stable
 > ⟪नगरे वसति⟫ = „Jis gyvena mieste“
 
 :::
+
 ::: media
+
 ![](/images/lekt2701.webp)
+
 Pav.: ⟪जयपुरनगरे⟫
 Džajpuras, 1875 m.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2701))
+
 :::
 
 ::: grammar-box
@@ -58,11 +63,15 @@ Džajpuras, 1875 m.
 **Atmėkite: esant absoliutyvui, absoliutyvo veikėjas ir pagrindinės sakinio veikėjas turi sutapti, o esant lokatyvo absoliutyvui, lokatyvo absoliutyvo veikėjas ir pagrindinio veiksmažodžio veikėjas turi būti skirtingi.**
 
 :::
+
 ::: media
+
 ![](/images/lekt2702.webp)
+
 Pav.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthanas.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2702))
+
 :::
 
 ::: grammar-box
@@ -72,11 +81,15 @@ Rajasthanas.
 > ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Jis jaučia meilę savo sūnui“ (žodžiškai: „Kuo atžvilgiu sūnaus, pas jį yra meilė“)
 
 :::
+
 ::: media
+
 ![](/images/lekt2703.webp)
+
 Pav.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holis.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2703))
+
 :::
 
 ::: grammar-box
@@ -86,6 +99,7 @@ Holis.
 > ⟪भू सत्तायाम्⟫ = „šaknis ⟪भू⟫ reikšme 'būtiškumas' (sat-tā)“
 
 :::
+
 Daugiau apie lokatyvo vartoseną toliau.
 
 ## 27.2. Lokatyvo formavimas (⟪सप्तमी⟫)
@@ -99,6 +113,7 @@ Daugiau apie lokatyvo vartoseną toliau.
 **Atkreipkite dėmesį į garsų pokyčius prieš -su, taip pat į galimą cerebralizaciją nuo -su iki -ṣu!**
 
 :::
+
 ### 27.2.1. Konsonantiniai kamienai
 
 ::: grammar-box
@@ -111,6 +126,7 @@ Daugiau apie lokatyvo vartoseną toliau.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
+
 ### 27.2.2. Klausiamieji, rodikliniai ir santykiniai įvardžiai
 
 ::: grammar-box
@@ -123,6 +139,7 @@ Daugiau apie lokatyvo vartoseną toliau.
 | Mot. g.:brLokalinis linksnis, daugiaskaita | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
+
 ### 27.2.3. Balsiniai kamienai
 
 ::: grammar-box
@@ -138,6 +155,7 @@ Daugiau apie lokatyvo vartoseną toliau.
 | ⟪धेनु⟫ moteriškosios g. | ⟪धेनौ⟫ arba ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ## 27.3. Reguliarių galūnių apžvalga (⟪विभक्ति⟫)
 
 ::: grammar-box
@@ -154,16 +172,21 @@ Daugiau apie lokatyvo vartoseną toliau.
 | **7. Lokalinis linksnis** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
+
 **Spalvota raudona**: stiprūs linksniai (su šaknies laipsnių kaita).
 
 ## 27.4. Eilutė su visomis linksniavimo formomis (vienaskaita) ⟪राम⟫
 
 ::: media
+
 ![](/images/lekt2708.webp)
+
 Pav.: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2708))
+
 :::
+
 sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
 **Vertimas:**
@@ -181,62 +204,96 @@ sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫
 ⟪वस्⟫ 1P (⟪वसति⟫): ilsėtis, gyventi (su vietininku asmeniui, pas kurį gyvenama)
 
 ::: indent
+
 **Ateitis:** ⟪वत्स्यति⟫:br **Tiesioginė:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Infinitivas:** ⟪वस्तुम्⟫
+
 :::
+
 iš jų:
 
 ::: indent
+
 ⟪वस्तु⟫ n.: sėdėjimo vieta, vieta; realybė, reali daiktas, tikrovė, objektas
 
 :::
-::: indent
-⟪वस्तुतस्⟫: in reality, truly
-:::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
-
-:::
-::: indent
-⟪वस्तुतस्⟫: in reality, truly
-:::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
 
 ::: indent
+
+⟪वस्तुतस्⟫: in reality, truly
+
+:::
+
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
+
+
+::: indent
+
+⟪वस्तुतस्⟫: in reality, truly
+
+:::
+
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
+
+::: indent
+
 **Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
+
 :::
+
 from that:
 
 ::: indent
+
 ⟪वस्त्र⟫ n.: means to put on oneself = garment, robe, cloth
+
 :::
+
 ::: media
+
 ![](/images/lekt2706.webp)
+
 Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Image source: [Details](/lt/licenses#lekt2706))
+
 :::
+
 ⟪वस्⟫ 6P (⟪उच्छति⟫): to shine brightly (this root is important because of the nominal formations:)
 
 ::: indent
+
 ⟪वसु⟫ n.: wealth, treasure, property, possession
 
 ⟪वसन्त⟫ m.: ("shining" =) spring (March to May)
+
 :::
+
 ::: media
+
 ![](/images/lekt2707.webp)
+
 Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Image source: [Details](/lt/licenses#lekt2707))
+
 :::
+
 ⟪हृ⟫ 1U (⟪हरति⟫): to hold, to carry; to take away, to steal
 
 ::: indent
+
 **Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
+
 :::
+
 from that:
 
 ::: indent
+
 ⟪हर⟫ 3: taking away; m.: the destroyer = epithet of Śiva
+
 :::
+
 Counterpart to ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
@@ -244,18 +301,25 @@ Counterpart to ⟪हर⟫:
 ⟪हरिहर⟫ m.: Viṣṇu and Śiva united as a single deity.
 
 ::: media
+
 ![](/images/lekt2704.webp)
+
 Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva).
 (Image source: [Details](/lt/licenses#lekt2704))
+
 :::
 
 ::: media
+
 ![](/images/lekt2705.webp)
+
 Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/lt/licenses#lekt2705))
+
 :::
+
 ## 27.6. Exercise
 
 **A) Insert the expressions in parentheses into the following sentence in the Locative (⟪सप्तमी⟫) Singular and, where appropriate, Plural. Observe the various Sandhi rules, i.e., write out each full sentence!**
@@ -267,11 +331,15 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
+
 ![](/images/lekt2709.webp)
+
 Pav.: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Rāja Ravi Varmos paveikslas (1848–1906).
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2709))
+
 :::
+
 ⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
 ## 27.7. Linksniavimo lentelės mokymuisi iš atminties
@@ -291,13 +359,18 @@ Rāja Ravi Varmos paveikslas (1848–1906).
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪नरे⟫ | ⟪नरेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2711.webp)
+
 Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Image source: [Details](/lt/licenses#lekt2711))
+
 :::
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+
+### 27.7.2. Neutrum su -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -312,13 +385,18 @@ Naran. Udaipur.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪फले⟫ | ⟪फलेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2710.webp)
+
 Fig.: ⟪फलानि⟫
 Früchte. Bangalore.
 (Image source: [Details](/lt/licenses#lekt2710))
+
 :::
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+
+### 27.7.3. Moteriškosios giminės su -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -333,12 +411,17 @@ Früchte. Bangalore.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪क्षत्रियायाम्⟫ | ⟪क्षत्रियासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2718.webp)
+
 Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
 (Image source: [Details](/lt/licenses#lekt2718))
+
 :::
+
 ### 27.7.4. Masculina ending in -i: ⟪अरि⟫
 
 ::: grammar-box
@@ -354,12 +437,17 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अरौ⟫ | ⟪अरिषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2712.webp)
+
 Fig.: ⟪अरयः⟫
 Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato (1833/1834 – ca. 1907).
 (Image source: [Details](/lt/licenses#lekt2712))
+
 :::
+
 ### 27.7.5. Feminina ending in -i: ⟪मति⟫
 
 ::: grammar-box
@@ -375,6 +463,7 @@ Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
+
 ### 27.7.6. Masculina ending in -u: ⟪गुरु⟫
 
 ::: grammar-box
@@ -390,12 +479,17 @@ Hanging of two participants in the Rebellion of 1857. Photograph by Felice Beato
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुरौ⟫ | ⟪गुरुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2713.webp)
+
 Pav.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2713))
+
 :::
+
 ### 27.7.7. Moteriškosios giminės žodžiai, baigiantys -u: ⟪धेनु⟫
 
 ::: grammar-box
@@ -411,12 +505,17 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2714.webp)
+
 Pav.: ⟪धेनुः⟫
 Karvė Udaipure.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2714))
+
 :::
+
 ### 27.7.8. Daugiaskiemės moteriškosios giminės žodžiai, baigiantys -ī: ⟪देवी⟫
 
 ::: grammar-box
@@ -432,13 +531,18 @@ Karvė Udaipure.
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2715.webp)
+
 Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Image source: [Details](/lt/licenses#lekt2715))
+
 :::
-### 27.7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
+
+### 27.7.9. Esamojo laiko dalyvis Parasmaipada su -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -453,12 +557,17 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
 
 :::
+
 ::: media
+
 ![](/images/lekt2716.webp)
+
 Fig.: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Image source: [Details](/lt/licenses#lekt2716))
+
 :::
+
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
@@ -474,6 +583,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
+
 ### 27.7.11. Masculine and Neuter nouns ending in -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
@@ -489,6 +599,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
+
 ### 27.7.12. Demonstrative Pronouns: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
@@ -504,6 +615,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Vienaskaita: br⟪एकवचनम्⟫ | | | Daugiskaita: br⟪बहुवचनम्⟫ | | |
@@ -518,6 +630,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪एतस्मिन्⟫ || ⟪एतस्याम्⟫ | ⟪एतेषु⟫ || ⟪एतासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Vienaskaita: br⟪एकवचनम्⟫ | | | Daugiskaita: br⟪बहुवचनम्⟫ | | |
@@ -532,6 +645,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
+
 ### 27.7.13. Įvardžiosios formos: ⟪यद्⟫
 
 ::: grammar-box
@@ -547,6 +661,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
+
 ### 27.7.14. Klausiamosios formos: ⟪किम्⟫
 
 ::: grammar-box
@@ -562,10 +677,14 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Vietininkas** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2717.webp)
+
 Fig.: ⟪कस्मात्⟫ ?
 Tsunamis 2005, Sri Lanka.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt2717))
+
 :::
 

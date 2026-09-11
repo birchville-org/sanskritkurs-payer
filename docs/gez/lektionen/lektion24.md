@@ -103,7 +103,7 @@ Example:
 
 ![](/images/lekt2402.webp)
 
-Abb.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
+ስዕሊ: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
 
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Image source: [Details](/gez/licenses#lekt2402))
@@ -130,7 +130,7 @@ Examples:
 
 ![](/images/lekt2403.webp)
 
-Abb.: ⟪अलं योधो योधाय⟫
+ስዕሊ: ⟪अलं योधो योधाय⟫
 
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
 (Image source: [Details](/gez/licenses#lekt2403))
@@ -139,14 +139,14 @@ Abb.: ⟪अलं योधो योधाय⟫
 
 ካልእ አገባብ ዘስምዐ ርቱዕ ድኅረ።
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## ፳፬.፪. ግብረ ስም ለነገር (⟪चतुर्थी⟫)
 
 ::: grammar-box
 
 **መደምደምታታት ዘስምዐ ርቱዕ እሙናት እማን እሉ፡**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
+* **አሐዱ፡ -e ; አንስት፡ ዘይትመየጥ፡ በቃል፡ -ai**
+* **ብዙኃን፡ ስም፡ ለነገር፡ ወስም፡ ለምንት፡ (⟪पञ्चमी⟫): -bhyas**
 
 :::
 
@@ -256,7 +256,7 @@ Abb.: ⟪अलं योधो योधाय⟫
 
 ![](/images/lekt2405.webp)
 
-Abb.: ⟪अलंकारः⟫
+ስዕሊ: ⟪अलंकारः⟫
 
 (مصدر الصورة: [تفاصيل](/gez/licenses#lekt2405))
 
@@ -270,7 +270,7 @@ Abb.: ⟪अलंकारः⟫
 
 ![](/images/lekt2406.webp)
 
-Abb.: ⟪देवीप्रतिमा⟫
+ስዕሊ: ⟪देवीप्रतिमा⟫
 
 هامبي = ಹಂಪೆ، كارناتاكا = ಕರ್ನಾಟಕ
 (مصدر الصورة: [تفاصيل](/gez/licenses#lekt2406))
@@ -439,7 +439,7 @@ C) Render sentences A) 1-4 into Sanskrit by replacing the Dative Infinitives (�
 
 ## 24.6. ካልአት ልምምዳት ለአገባብ ዘስምዐ ርቱዕ
 
-Übersetzen Sie ins Sanskrit:
+ተርጕም፡ ውስተ፡ ሳንስክሪት፡
 
 1\. እግዝእት እንተ ኢተሰግደ ላቲ ትትቈጣዕ ላዕለ ሰብእ።
 
@@ -455,7 +455,7 @@ C) Render sentences A) 1-4 into Sanskrit by replacing the Dative Infinitives (�
 
 ![](/images/lekt2409.webp)
 
-Abb.: ⟪श्रीगणेशाय नमः⟫
+ስዕሊ: ⟪श्रीगणेशाय नमः⟫
 
 (Image source: [Details](/gez/licenses#lekt2409))
 
@@ -467,7 +467,7 @@ Abb.: ⟪श्रीगणेशाय नमः⟫
 
 8. ተዋጊ ለተዋጊ ይበቅዕ (⟪शक्त⟫)።
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+፱. አኮኑ፡ ቪሽኑ፡ ይበልጽ፡ (⟪प्र⟫-⟪भू⟫ + ስም፡ ለነገር) ሺቫ።
 
 10. እምድኅረ ሰገድኩ ለሠለስቱ ጠቢባን (አካቲቭ)... ይሰግድ ለናራሲምሃ (ዳቲቭ)።
 

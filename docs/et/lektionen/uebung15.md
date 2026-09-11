@@ -40,9 +40,9 @@ B) Resolve the following Tatpuruṣa compounds:
 
 ⟪१२⟫. ⟪यज्ञाङ्गानि । यज्ञस्याङ्गानि । यज्ञा⟫anam⟪ङ्गानि⟫ — limbs / components / parts of a sacrifice, sacrificial implements
 
-⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — durch die Familie
+⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — perekonna kaudu
 
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — die Dorfschreiber
+⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — külakirjutajad
 
 ⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — Schlangengott, Schlangenfürst, Elefantengott, Elefantenkönig
 
@@ -84,7 +84,7 @@ Joonis: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 
 Lahutage järgmised liitsõnad sanskriti keeles Tatpuruṣa liitsõnadena ja andke eestikeelne tõlge. Esitage kõik võimalikud lahendused ja tõlked. Märkige ka, mis käändes ja arvus on kogu liitsõna.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Des Götterfürsten
+⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Jumalate valitseja
 
 ⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — kannatustest põletatud naine
 
@@ -94,15 +94,15 @@ Lahutage järgmised liitsõnad sanskriti keeles Tatpuruṣa liitsõnadena ja and
 
 ⟪५⟫. ⟪गृहकरणम्⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪करणम्⟫ — Hausarbeit
 
-⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — durch Śūdrawerk
+⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — Śūdra töö kaudu
 
 ⟪७⟫. ⟪ईश्वरपूजा⟫ ⟪।⟫ ⟪ईश्वरस्य⟫ ⟪पूजा⟫ — Gottesdienst
 
-⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — HERR der Götter
+⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — Jumalate ISAND
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — Opfer (Akkusativ) der Kaṣatriyas / des Kṣatriya, Opfer für Kṣatriyas / einen Kṣatriya
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — Kṣatriyate / Kṣatriya ohver (akusatiiv), ohver Kṣatriyatele / Kṣatriyale
 
-⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — durch Vaiśyawesen
+⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — Vaiśya olemuse kaudu
 
 ⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — jumalate õpetaja, jumalasarnase õpetaja, jumaliku õpetaja
 
@@ -112,7 +112,7 @@ Lahutage järgmised liitsõnad sanskriti keeles Tatpuruṣa liitsõnadena ja and
 
 ⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — Pimestus kannatuse üle, segadus kannatuse tõttu
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — der Dorfherren
+⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — külavanemate
 
 ⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — Stadtvolk, Städter
 
@@ -120,7 +120,7 @@ Lahutage järgmised liitsõnad sanskriti keeles Tatpuruṣa liitsõnadena ja and
 
 ⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — Gotteshäuser
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — der Göttersöhne
+⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — jumalate poegade
 
 ⟪२०⟫. ⟪पश्विष्टिः⟫ ⟪।⟫ ⟪पशोरिष्टिः⟫ ⟪।⟫ ⟪पशूनामीष्टिः⟫ — Tieropfer
 
@@ -128,7 +128,7 @@ Lahutage järgmised liitsõnad sanskriti keeles Tatpuruṣa liitsõnadena ja and
 
 ⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — Meistri / Meistrite maja
 
-⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — durch ein Somaopfer
+⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — Somaohvri kaudu
 
 ⟪२४⟫. ⟪स्वर्गगताः⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गताः⟫ — taevasse läinud
 

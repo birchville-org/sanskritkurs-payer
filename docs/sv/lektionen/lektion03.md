@@ -67,6 +67,7 @@ The ending of the Nominative Plural in Masculine and Feminine is **-as**.
 **Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 
+:::
 ::: grammar-box
 
 The ending of the Nominative Plural in Masculine and Feminine is **-as**.
@@ -201,7 +202,7 @@ the **purāṇa** n. (⟪पुराण⟫)
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : hustru till en Kṣatriya.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
@@ -209,7 +210,7 @@ the **purāṇa** n. (⟪पुराण⟫)
 
 **śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : Frau eines Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : gudinna, särskilt Durgā f. = ⟪दुर्गा⟫, Śivas = ⟪शिव⟫ hustru.
 
 ::: media
 
@@ -267,10 +268,10 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **D) Översätt till sanskrit:**
 
-1. Umā ist eine Göttin.
-2. Der Veda ist śruti.
-3. Die Lehrerinnen sind Göttinnen.
-4. Milchkühe sind domestizierte Tiere.
-5. Dichter sind Lehrer.
-6. Kṣatriyas sind Zweimalgeborene.
-7. Die heiligen Männer sind Śūdras.
+1. Umā är en gudinna.
+2. Veda är śruti.
+3. Lärarinnorna är gudinnor.
+4. Mjölkkor är domesticerade djur.
+5. Poeter är lärare.
+6. Kṣatriyas är två gånger födda.
+7. De heliga männen är Śūdras.

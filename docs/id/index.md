@@ -31,5 +31,5 @@ Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman 
 **Kontak & Kontribusi**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Wiki Proyek](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versi Saat Ini**: v1.8.3
+**Versi Saat Ini**: v1.8.4
 :::

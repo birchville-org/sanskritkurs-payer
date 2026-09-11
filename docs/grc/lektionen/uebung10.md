@@ -120,7 +120,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना स्वर्ग आप्यते ।⟫
 
-Ein Heiliger aerlangt den Himmel.
+Ἅγιος οὐρανὸν λαμβάνει.
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः सोमं सुन्वन्ति⟫
 
@@ -144,9 +144,9 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 ⟪कैर्योधैः क्षत्रियैः सह युध्यते ॥⟫
 
-Welche Soldaten kämpfen (zusammen) mit den Kṣatriyas?
+Τίνες στρατιῶται σὺν τοῖς Κṣatriyas μάχονται;
 
-D) Übersetzen Sie ins Sanskrit:
+Δ) Μετάφρασον εἰς τὴν Σανσκριτικήν:
 
 1\. Ein Brahmane geht mit einem Vaiśya ins Dorf.
 
@@ -154,7 +154,7 @@ brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।⟫
 
-2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!)
+2. Σέβεται τὸν Viṣṇu θυσίᾳ. (τὴν yajña θυσίαν φράσον!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
@@ -166,7 +166,7 @@ vedaḥ śrutir (ity) udyate.
 
 ⟪वेदः श्रुतिरित्युद्यते ।⟫
 
-4\. Man spannt die Webkette auf. (2 Möglichkeiten)
+4. Ὁ στήμων ἐκτείνεται. (δύο τρόποι)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
@@ -178,46 +178,50 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः प्र्च्छ्यते ।⟫
 
-6\. Das Auge führt. (Passivkonstruktion) (Auge und Ohr werden sonst normalerweise im Dual verwendet)
+6. Ὁ ὀφθαλμὸς ἡγεῖται. (παθητικὴ σύνταξις) (ὀφθαλμὸς καὶ οὖς ἄλλως ἐν δυικῷ ἀριθμῷ χρῶνται)
 
 netreṇa nīyate.
 
 ⟪नेत्रेण नीयते ।⟫
 
-7\. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
+7. Ὁ ποιητὴς θεότητα βλέπει. (παθητικὴ σύνταξις)
 
 kavinā devatā dṛśyate.
 
 ⟪कविना देवता दृश्यते ।⟫
 
-8\. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
+8. Τίς (θηλ.) φυλάττει τὴν κόρην; (παθητικὴ σύνταξις)
 
 kayā bālā rakṣyate.
 
 ⟪कया बाला रक्ष्यते ।⟫
 
-9\. Der Kṣatriya verehr den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort yajña zu verwenden)
+9. Ὁ Kṣatriya σέβεται τὸν Κύριον θυσίᾳ. (παθητικὴ σύνταξις, μὴ χρῆσθαι τῷ ὀνόματι yajña)
 
 kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर इज्यते ।⟫
 
-10\. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
+10. Διὰ δωρεᾶς ὁ τοῦ Βούδδα ὀπαδὸς οὐρανὸν φθάνει.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
+
 ![](/images/uebung011.webp)
+
 Εἰκ.: ⟪ग्रामः⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung011))
+
 :::
+
 ---
 
 ## Leseübung
 
-Lesen und übersetzen Sie und setzen Sie ins Passiv:
+Ἀνάγνωθι καὶ μετάφρασον καὶ εἰς τὸ παθητικὸν μεταποίησον:
 
 ⟪क १⟫.
 > ⟪मक्सिका व्रणमिच्छन्ति⟫
@@ -230,14 +234,14 @@ Lesen und übersetzen Sie und setzen Sie ins Passiv:
 > ⟪नीचैः कलह इष्यते⟫
 > ⟪शान्तिरिष्यते साध⟫u⟪भिः ॥⟫
 
-Fliegen wünschen sich eine Wunde,
-Könige wünschen sich Reichtum,
-Niederträchtige wünschen Streit,
-Frieden wünschen Heilige.
+Μυῖαι τραῦμα ἐπιθυμοῦσιν,
+Βασιλεῖς πλοῦτον ἐπιθυμοῦσιν,
+Φαῦλοι ἔριν ἐπιθυμοῦσιν,
+Εἰρήνην ἅγιοι ἐπιθυμοῦσιν.
 
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ |
 ⟪नरा देवैः सृज्यन्ते ।⟫
-Die Götter erschaffen die Menschen.
+Οἱ θεοὶ τοὺς ἀνθρώπους ποιοῦσιν.
 
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
 ⟪कविभिर्धनं लभ्यते ।⟫
@@ -245,27 +249,27 @@ Dichter begehren Reichtum.
 
 ⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
 ⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
-Der vedische Weise sieht die vedischen Lieder.
+Ὁ ῥήτωρ τὰ ᾄσματα τὰ ἱερὰ ὁρᾷ.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
 ⟪विष्णुरृषिणेज्यते ।⟫
-Der vedische Weise opfert Viṣṇu.
+Ὁ ῥήτωρ τῷ Βισνοῦ θύει.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
 ⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
-Er sieht Meister und Schüler.
+Τοὺς διδασκάλους καὶ τοὺς μαθητὰς ὁρᾷ.
 
 ⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
 ⟪स्वर्गो लभ्यते ।⟫
-Sie erlangen den Himmel.
+Τὸν οὐρανὸν λαμβάνουσιν.
 
 ⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ |
 ⟪अत्रर्षिणा भानुर्वन्स्यते ।⟫
-Dort begrüsst ein vedischer Weiser die Sonne.
+Ἐκεῖ ῥήτωρ τὸν ἥλιον ἀσπάζεται.
 
 ⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ |
 ⟪ग्रामं गम्यते । ग्रामो गम्यते ।⟫
-Sie gehen ins Dorf.
+Εἰς τὴν κώμην πορεύονται.
 
 ⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
 ⟪दानानि वृष्यन्ते नृपैः ॥⟫
@@ -273,7 +277,7 @@ Könige lassen Geschenke regnen.
 
 ⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ |
 ⟪सदा देवाः स्मर्यन्ते।⟫
-Sie vergegenwärtigen sich stets die Götter.
+Ἀεὶ τοὺς θεοὺς μνημονεύουσιν.
 
 ⟪२⟫. ⟪ऋषिभी रामो वसति⟫ |
 ⟪ऋषिभिः सह रामेणोष्यते ।⟫
@@ -281,15 +285,15 @@ Rāma wohnt bei den vedischen Weisen.
 
 ⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ |
 ⟪हरिः क्षीरेणेज्यते ।⟫
-Er verehrt Hari mit einem Milchopfer.
+Τὸν Ἅριν γάλακτι θύει.
 
 ⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ |
 ⟪मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।⟫
-Sie gehen auf dem Weg ins Dorf.
+Διὰ τῆς ὁδοῦ εἰς τὴν κώμην πορεύονται.
 
 ⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ |
 ⟪धनेने नरैः सुखमिष्यते ।⟫
-Die Menschen wollen Glück durch Reichtum.
+Οἱ ἄνθρωποι διὰ χρημάτων εὐδαιμονίαν ἐπιθυμοῦσιν.
 
 ⟪६⟫. ⟪एवं वदन्ति⟫ |
 ⟪एवमुद्यते ।⟫
@@ -297,7 +301,7 @@ So sagt man.
 
 ⟪७⟫. ⟪शान्त्यर्षय इह शोभन्ते⟫ |
 ⟪शान्त्यर्षिभिरिह शुभ्यते ।⟫
-Auf Erden glänzen Heilige durch Friedsamkeit.
+Ἐνταῦθα οἱ ἅγιοι διὰ τῆς εἰρήνης λάμπουσιν.
 
 ⟪८⟫. ⟪कपयः फलानि खादन्ति⟫ |
 ⟪कपिभिः फलानि खाद्यन्ते ।⟫
@@ -305,7 +309,7 @@ Affen fressen Früchte.
 
 ⟪९⟫. ⟪गजो गच्छति⟫ |
 ⟪गजेन गम्यते ।⟫
-Der Elefant läuft.
+Ὁ ἐλέφας βαδίζει.
 
 ⟪१०⟫. ⟪हरिर्गृहं गच्छ⟫ti |
 ⟪हरिणा गृहं गम्यते ।⟫
@@ -313,10 +317,13 @@ Hari geht nachhause.
 
 ⟪११⟫. ⟪सारथी रथं नयति⟫ ||
 ⟪सारथिना रथो नीयते ॥⟫
-Der Fuhrmann lenkt den Wagen.
+Ὁ ἡνίοχος ἄγει τὴν ἅμαξαν.
 
 ::: media
+
 ![](/images/uebung012.webp)
+
 Εἰκ.: ⟪सारथी रथं नयति⟫
 (Πηγὴ εἰκόνος: [Λεπτομέρειαι](/grc/licenses#uebung012))
+
 :::

@@ -289,7 +289,7 @@ Bobabili benzelwa amasiko, okuthiwa ⟪श्राद्ध⟫ n. Nsuku zonke, 
 
 ⟪यातृ⟫ m.: umfazi womfowabo womyeni
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ ubizo: udadewabo womyeni
 
 ⟪श्वसुर⟫ f.: ubabazala (ezikhathini zasendulo: owesifazane kuphela)
 
@@ -311,7 +311,7 @@ Bobabili benzelwa amasiko, okuthiwa ⟪श्राद्ध⟫ n. Nsuku zonke, 
 
 ## 42.3. Übung
 
-Übersetzen Sie:
+Humusha:
 
 ⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
 
@@ -386,7 +386,7 @@ Umfanekiso: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫,
 
 :::
 
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
+⟪मिथिला⟫ ubizo. igama elifanele: inhloko-dolobha yase-⟪विदेह⟫
 
 ::: media
 
@@ -398,7 +398,7 @@ Umfanekiso: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध�
 
 :::
 
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+⟪जनक⟫ ubizo. igama elifanele: inkosi yase-⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
 
@@ -422,11 +422,11 @@ Umfanekiso: ⟪रावणः⟫
 
 ⟪अयोध्या⟫ f. Igama elifanele: inhloko-dolobha ye-⟪कोसल⟫ (bheka imephu phezulu!)
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ ubizo. igama elifanele: inkosi yase-⟪कोसल⟫
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪राम⟫ ubizo. igama elifanele: indodana ka-⟪दशरथ⟫
 
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪लक्ष्मन⟫ ubizo. igama elifanele: indodana ka-⟪दशरथ⟫
 
 ⟪विश्वामित्र⟫ m. Igama elifanele: ⟪ऋषि⟫, wahamba no-⟪राम⟫ no-⟪लक्ष्मन⟫ ukuze abulale amadimoni; ngalokho laba bobabili bathola izikhali zomlingo kuye.
 

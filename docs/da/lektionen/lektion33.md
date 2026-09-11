@@ -177,7 +177,6 @@ Eksempler:
 | **Indikativ Præsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Forklaring: Thumb-Hauschild 1,1 s. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
-:::
 Formerne af ⟪दा⟫ opnås ved at erstatte **dh** med **d** i paradigmet for ⟪धा⟫. Altså:
 
 ::: grammar-box

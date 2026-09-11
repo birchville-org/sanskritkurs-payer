@@ -1,6 +1,6 @@
 ---
-title: "Lektion 37"
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "37. õppetund"
+subtitle: "Määrsõna (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -251,11 +251,11 @@ Beispiele:
 
 ::: indent
 
-⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = "tule vastu"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "jõudumööda"
 
-⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "ettepoole, vastu"
 
 :::
 
@@ -277,7 +277,7 @@ Joonis: ⟪यथाशक्ति⟫
 
 ::: grammar-box
 
-Bei den Verben
+Tegusõnade puhul
 
 *   ⟪अस्⟫ 2P "sein"
 *   ⟪भू⟫ 1P
@@ -322,7 +322,7 @@ z.B.
 
 :::
 
-## 37.8. Der Fragesatz
+## 37.8. Küsilause
 
 ::: grammar-box
 
@@ -335,7 +335,7 @@ Motto of Sesame Street, which is a good guideline for life and Sanskrit studies
 
 :::
 
-Siehe auch [Lektion 4](lektion04.md).
+Vaata ka [3. õppetund](lektion04.md).
 
 Man muss unterscheiden
 
@@ -434,9 +434,9 @@ Beispiel:
 
 ::: indent
 
-⟪अपि सत्यम् ।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ "Kas see on ka tõsi?"
 
-⟪किं शक्नोति ।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ "Kas ta siis suudab?"
 
 ⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Kas Kṣatriya võitis vaenlased?"
 
@@ -512,7 +512,7 @@ Joonis: ⟪क्व मर्तुं सज्जना इच्छन्त
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
@@ -524,7 +524,7 @@ B) Übersetzen Sie:
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
@@ -536,13 +536,13 @@ B) Übersetzen Sie:
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
@@ -550,11 +550,11 @@ B) Übersetzen Sie:
 
 ⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
+C) Tõlkige järgmised ⟪अव्ययीभाव⟫:
 
 1\. ⟪अति⟫ postpositsioon akusatiiviga: "üle ... piiride"
 
@@ -603,7 +603,7 @@ Joonis: ⟪अधिकेरलं वर्तन्ते⟫
 
 :::
 
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ "suunas"
 
 ::: indent
 

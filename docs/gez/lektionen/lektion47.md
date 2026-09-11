@@ -134,7 +134,7 @@ status: stable
 
 ![](/images/lekt4702.webp)
 
-Abb.: ⟪प्रविशत⟫
+ስዕሊ: ⟪प्रविशत⟫
 
 ቤተ መቅደስ ዘሐኑማን፡ ደልሂ = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (ምንባብ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt4702))
@@ -158,7 +158,7 @@ Abb.: ⟪प्रविशत⟫
 
 ![](/images/lekt4701.webp)
 
-Abb.: ⟪नृत्यत⟫
+ስዕሊ: ⟪नृत्यत⟫
 
 (ምንባብ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt4701))
 
@@ -256,9 +256,9 @@ Abb.: ⟪नृत्यत⟫
 
 16\. Ich will dir mein Haus zeigen.
 
-17\. Gehe von mir weg!
+17. ሑር እምኔየ!
 
-18\. Er soll befreit werden!
+18. ይትፈታሕ!
 
 19\. Ich will deine Gattin behüten.
 
@@ -272,7 +272,7 @@ Abb.: ⟪नृत्यत⟫
 
 24\. So soll es geschehen!
 
-25\. Schlage das Pferd!
+25. ግረፍ ፈረስ!
 
 ፳፮. እሙንቱ ይትሐየዩ።
 
@@ -282,7 +282,7 @@ Abb.: ⟪नृत्यत⟫
 
 ፳፱. ንሕነ ንሠርዕ ዓለመ።
 
-30\. Trinke den Trank!
+30. ስተይ ስቴ!
 
 31\. Denke!
 

@@ -102,7 +102,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Übertragen Sie ins Femininum:
+ሐ) ናብ ኣንስታይ ኣሰጋግር፡
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -124,13 +124,13 @@ kṣatriyā sādhvī.
 
 መ) ናብ ሳንስክሪት ተርጉም፦
 
-1\. Umā ist eine Göttin.
+1\. ኡማ ኣምላኽ እያ።
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. Der Veda ist śruti.
+2\. ቬዳ ሡሩቲ እዩ።
 
 śrutir vedaḥ.
 
@@ -148,19 +148,19 @@ paśavo dhenavaḥ.
 
 ⟪पशवो धेनवः⟫
 
-5\. Dichter sind Lehrer.
+5\. ገጣሞቲ መምህራን እዮም።
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः कवयः⟫
 
-6\. Kṣatriyas sind Zweimalgeborene.
+6\. ክሻትሪያስ ክልተ ግዜ ዝተወልዱ እዮም።
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+7\. እቶም ቅዱሳን ሰባት ሹድራስ እዮም።
 
 śūdrāḥ sādhavaḥ.
 
@@ -170,7 +170,7 @@ dvijāḥ kṣatriyāḥ.
 
 ![](/images/uebung001.webp)
 
-Abb.: ⟪पशुर्धेनुः⟫
+ስዕሊ: ⟪पशुर्धेनुः⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#uebung001))
 

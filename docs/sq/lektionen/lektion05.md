@@ -37,6 +37,7 @@ Format kryesore të formimit të kompozitave janë:
 Kompozitët koordinativë shërbejnë për lidhjen e anëve gramatikore të njëjta, koordinative (emrash ose mbiemrash).
 
 ::: grammar-box
+
 **Një Dvandva tregon:**
 
 1. **ose lidhjen shumatë të personave, gjërave ose vetive që i emërtojnë anët e tij individuale:**
@@ -53,7 +54,9 @@ Dvandva është në përgjithësi neutrale (pavarësisht nga gjinia e pjesës s�
 
 **Zgjidhja:**
 Bëhet me "dhe" (**ca** = ⟪च⟫), ndonjëherë me "ose" (**vā** = ⟪वा⟫) ose "çdo".
+
 :::
+
 Shihni më vonë për Pluraldvandva!
 
 ### 5.3.1. Pjesët e para të kompozitave
@@ -96,10 +99,14 @@ Kur dy nga tre urdhra e fundit mund të vijnë njëkohësisht në pyetje, gjithm
 **kāma** m. = ⟪काम⟫ : Dëshirë, dëshirë, dhuratë e dëshiruar, kënaqësi shqisore, dashuri; Perëndia i Dashurisë Kāma.
 
 ::: media
+
 ![](/images/lekt0501.webp)
+
 Fig.: Perëndia Kāma = kāmadeva = ⟪कामदेव⟫, shek. 18-të
 (Burimi i imazhit: Wikipedia, Domain Publik)
+
 :::
+
 **krodha** m. = ⟪क्रोध⟫ : Inat.
 
 **kleśa** m. = ⟪क्लेश⟫ : Dhimbje, plagë.
@@ -165,7 +172,7 @@ Fig.: Perëndia Kāma = kāmadeva = ⟪कामदेव⟫, shek. 18-të
 (Erklärung: pañca = "fünf")
 
 7. ānvīkṣikītrīvārttādaṇḍanitayo vidyāḥ.
-(Nach Kauṭilīya-arthaśāstra 1.2.1.)
+(Sipas Kauṭilīya-arthaśāstra 1.2.1.)
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 

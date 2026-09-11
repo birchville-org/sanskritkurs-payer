@@ -14,11 +14,11 @@ Em livros mais antigos, impressos em Calcutá, encontram-se também as formas:
 
 ## Exercício
 
-A) Schreiben Sie in Devanāgarī:
+A) Escreva em Devanāgarī:
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 
-B) Lesen und transliterieren Sie:
+B) Leia e translitere:
 
  a) ⟪द⟫ ⟪ध⟫ ⟪त⟫ ⟪फ⟫ ⟪प⟫ ⟪न⟫ ⟪च⟫ ⟪ड⟫ ⟪ग⟫ ⟪क⟫ ⟪भ⟫ ⟪ब⟫ ⟪थ⟫ ⟪छ⟫ ⟪य⟫ ⟪ख⟫ ⟪झ⟫
 
@@ -43,5 +43,3 @@ j) ⟪शर⟫ ⟪सह⟫ ⟪षट्⟫ ⟪वश⟫ ⟪हस्⟫ ⟪झ
 k) ⟪सरल⟫ ⟪कलश⟫ ⟪जहत्⟫ ⟪वयस्⟫ ⟪शपथ⟫ ⟪समय⟫ ⟪वहल⟫ ⟪शलभ⟫ ⟪यशस्⟫ ⟪शरट्⟫ ⟪सफल⟫ ⟪सरस⟫ ⟪हरक⟫ ⟪परश⟫ ⟪रभस⟫ ⟪हतक⟫
 
 l)  ⟪दशरथ⟫ ⟪शकटम्⟫ ⟪सवयस्⟫ ⟪कलहम्⟫ ⟪शसनम्⟫ ⟪शतशस्⟫ ⟪जलचरस्⟫ ⟪नवदशकम्⟫ ⟪सहगमनम्⟫ ⟪कमलवदन⟫ ⟪दशशतम्⟫
-
-

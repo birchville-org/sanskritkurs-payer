@@ -35,7 +35,7 @@ B) se spojovací samohláskou **-i-**:
 
 ⟪१५⟫. ⟪प्रभवति⟫ — ⟪प्रभविष्यति⟫
 
-⟪१६⟫. ⟪म्रियन्ते⟫ (im Futur Parasmaipada) — ⟪मरिष्यन्ति⟫
+⟪१६⟫. ⟪म्रियन्ते⟫ (v budoucím čase Parasmaipada) — ⟪मरिष्यन्ति⟫
 
 ⟪१७⟫. ⟪जीवन्ति⟫ — ⟪जीविष्यन्ति⟫
 
@@ -51,16 +51,19 @@ B) se spojovací samohláskou **-i-**:
 
 ⟪२३⟫. ⟪कुप्यन्ति⟫ — ⟪कोपिष्यन्ति⟫
 
-C) Futur optional mit und ohne **-i-**:
+C) Budoucí čas volitelně s **-i-** a bez něj:
 
 ⟪१⟫. ⟪मुह्यन्ति⟫ — ⟪मोहितुम्⟫ / ⟪मोक्ष्यन्ति⟫
 
 ⟪२⟫. ⟪वर्तते⟫ — ⟪वर्तिष्यते⟫ / ⟪वर्त्स्यते⟫
 
-⟪३⟫. ⟪अश्नुवते⟫ (im Futur Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
+⟪३⟫. ⟪अश्नुवते⟫ (v budoucím čase Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
 
 ::: media
+
 ![](/images/uebung043.webp)
+
 Obr.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#uebung043))
+
 :::

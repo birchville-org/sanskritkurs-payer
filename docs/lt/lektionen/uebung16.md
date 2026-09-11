@@ -46,10 +46,14 @@ Stiprūs kariai nuėjo į brahmanų kaimą.
 Jis garbina nuopelnų vaišjos asmeninį dievą.
 
 ::: media
+
 ![](/images/uebung023.webp)
+
 Pav.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Nuotraukos šaltinis: [Išsamiau](/licenses#uebung023))
+
 :::
+
 ---
 
 ## Linksniavimo modeliai
@@ -57,6 +61,7 @@ Pav.: ⟪न पशुयज्ञैर्नराः स्वर्गं �
 A) Sudarykite visus iki šiol išmoktus linksnius šių žodžių pavyzdžiams, kaip iki šiol išmoktoms linksniavimo klasėms.
 
 ::: grammar-box
+
 ⟪१⟫. ⟪नर⟫ (v.)
 
 | Linksnius | Vienaskaita | Daugiskaita |
@@ -149,7 +154,7 @@ A) Sudarykite visus iki šiol išmoktus linksnius šių žodžių pavyzdžiams, 
 | 3. Instrumentalis | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Genetivus | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Moteriškoji giminė ⟪गुणवती⟫ linksniuojama kaip ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -186,7 +191,9 @@ A) Sudarykite visus iki šiol išmoktus linksnius šių žodžių pavyzdžiams, 
 | 2. Galininkas | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Įnagininkas | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Kilminkas | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
+
 :::
+
 ---
 
 ## Papildomi pratimai
@@ -216,7 +223,10 @@ Visų pareiga: negalą, tiesą, švarumą, nesiskundimą savo likimu, nekenčiam
 Plakas sukelia filosofijos, vedistinės studijų ir ekonomikos įsigijimą bei saugų valdymą. Plakimo vedimas yra politika.
 
 ::: media
+
 ![](/images/uebung024.webp)
+
 Pav.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Nuotraukos šaltinis: [Išsamiau](/licenses#uebung024))
+
 :::

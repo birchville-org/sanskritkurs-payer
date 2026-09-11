@@ -125,6 +125,7 @@ Result: ⟪रामः स्मरति⟫ = "Rāma remembers"
 **⟪कृ⟫ "to do, to make"**
 **Ātmanepadakausativ to ⟪दृश्⟫**
 
+:::
 ::: grammar-box
 **The following causatives can be constructed according to both Schema 1 and Schema 2:**
 
@@ -248,7 +249,6 @@ Dæmi:
 
 Example:
 **budh** Future-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
-:::
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
 

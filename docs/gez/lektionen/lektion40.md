@@ -109,7 +109,7 @@ Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweis
 
 :::
 
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+⟪አስ⟫ ካልእ ብእሲ ወ ⟪አስ⟫ ራብዕ ብእሲ
 
 ::: indent
 
@@ -410,7 +410,7 @@ Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweis
 
 :::
 
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪አሕ⟫ ቀዳማይ ብእሲ ኢይትረከብ!
 
 ⟪भू⟫ 1P
 
@@ -475,7 +475,7 @@ Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweis
 
 :::
 
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+## 40.5. ተውሳከ ስም (⟪पुरुषार्थकसर्वनाम⟫) ዘቀዳማይ ብእሲ ሓደ ወ ብዙኅ
 
 ::: grammar-box
 
@@ -503,7 +503,7 @@ Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweis
 
 ቅድመ እሉ ቅንጣቶች ⟪च⟫, ⟪वा⟫, ⟪एव⟫ እሉ እለ ይባላሉ ቅርጻት ዘይትጠጉ ኢይደልዎሙ ይትጠቀሙ:
 
-nur: ... ⟪मां च⟫ ... "und mich"
+ብቻ: ... ⟪मां च⟫ ... "ወ አነ"
 
 :::
 
@@ -536,7 +536,7 @@ z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪ክॢፕ⟫ 1ኣ ⟪कल्पते⟫ : በቅንዕ ሥርዓት ኮነ, ተሰማምዐ ምስለ (አካላዊ) ; ተፈጥረ, ተሠርዐ ; ወሰነ ለ, ተመየጠ ለ (ለዋጭ)
 
 ::: indent
 
@@ -596,7 +596,7 @@ davon:
 
 ![lekt4003.jpg](/images/lekt4003.webp)
 
-Abb.: ⟪हरिद्वारे तीर्थम्⟫
+ስዕሊ: ⟪हरिद्वारे तीर्थम्⟫
 
 (ምንጭ ምስል: [ዝርዝር](/gez/licenses#lekt4003))
 
@@ -612,7 +612,7 @@ Abb.: ⟪हरिद्वारे तीर्थम्⟫
 
 ![lekt4002.jpg](/images/lekt4002.webp)
 
-Abb.: ⟪तीर्थङ्करः⟫
+ስዕሊ: ⟪तीर्थङ्करः⟫
 
 (ምንባብ፡ [ዝርዝር](/gez/licenses#lekt4002))
 
@@ -634,7 +634,7 @@ davon:
 
 ![lekt4001.jpg](/images/lekt4001.webp)
 
-Abb.: ⟪विष्णोर्दशावताराः⟫
+ስዕሊ: ⟪विष्णोर्दशावताराः⟫
 
 (ምንባብ፡ [ዝርዝር](/gez/licenses#lekt4001))
 
@@ -664,7 +664,7 @@ davon:
 
 ![lekt4004.jpg](/images/lekt4004.webp)
 
-Abb.: ⟪स्वपन्ति⟫
+ስዕሊ: ⟪स्वपन्ति⟫
 
 (ምንባብ፡ [ዝርዝር](/gez/licenses#lekt4004))
 

@@ -248,7 +248,7 @@ umzekelo,
 * ⟪गतिसमासः⟫ : nge-preposition ephawuni olungaphambili
 * ⟪प्रथमातत्पुरुषः⟫ njll. (buka phezulu)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. Ukuhlukaniswa kwe-⟪कर्मधारय⟫
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Isiqalo siyisichasiso (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : zombili iziqalo ziyizichasiso, lapha kufakwa nezichasiso eziveza isikhathi esidlule: "kuqala wageza, wabe esegcotshwa"
@@ -265,9 +265,9 @@ umzekelo,
 
 ⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫ : noma (okubekwe emuva)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫ : noma (okubekwe phambili)
 
 ⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 

@@ -42,7 +42,6 @@ Slika: ⟪तब्लाः⟫
 ---
 
 ## B) Wortbestimmungen
-:::
 ---
 
 ## B) Wortbestimmungen

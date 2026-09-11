@@ -1,6 +1,6 @@
 ---
-title: "Lektion 42"
-subtitle: "Stämme auf -ṛ"
+title: "42. õppetund"
+subtitle: "-ṛ-lõpulised tüved"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -289,7 +289,7 @@ Mõlemale sooritatakse rituaale, nn ⟪श्राद्ध⟫ n. Iga päev pak
 
 ⟪यातृ⟫ m.: abikaasa venna abikaasa
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ n: mehe õde
 
 ⟪श्वसुर⟫ f.: äi (vanasti: ainult naise)
 
@@ -311,7 +311,7 @@ Mõlemale sooritatakse rituaale, nn ⟪श्राद्ध⟫ n. Iga päev pak
 
 ## 42.3. Übung
 
-Übersetzen Sie:
+Tõlgi:
 
 ⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
 
@@ -386,7 +386,7 @@ Joonis: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪
 
 :::
 
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
+⟪मिथिला⟫ n. pärisnimi: ⟪विदेह⟫'i pealinn
 
 ::: media
 
@@ -398,7 +398,7 @@ Joonis: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्�
 
 :::
 
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+⟪जनक⟫ m. pärisnimi: ⟪विदेह⟫'i kuningas
 
 ⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
 
@@ -422,11 +422,11 @@ Joonis: ⟪रावणः⟫
 
 ⟪अयोध्या⟫ f. pärisnimi: ⟪कोसल⟫ pealinn (vt kaarti ülal!)
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ m. pärisnimi: ⟪कोसल⟫'i kuningas
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪राम⟫ m. pärisnimi: ⟪दशरथ⟫'i poeg
 
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
+⟪लक्ष्मन⟫ m. pärisnimi: ⟪दशरथ⟫'i poeg
 
 ⟪विश्वामित्र⟫ m. pärisnimi: ⟪ऋषि⟫, läks koos ⟪राम⟫ ja ⟪लक्ष्मन⟫-iga deemoneid tapma; selle eest said nad temalt võlurelvi.
 

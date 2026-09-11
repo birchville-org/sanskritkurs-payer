@@ -30,7 +30,7 @@ Lors de l'écriture, chaque lettre y compris la barre horizontale supérieure do
 
 ## Exercice
 
-Schreiben Sie in Devanāgarī:
+Écrivez en devanāgarī :
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

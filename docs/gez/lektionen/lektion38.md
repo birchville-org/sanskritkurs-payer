@@ -220,9 +220,9 @@ Nom.sg.m. እና Nom.Akk.pl.n. ከ -an መነጮች ጋር በተመሳሳይ �
 
 ![](/images/lekt3806.webp)
 
-Abb.: ⟪हस्ती⟫
+ስዕሊ: ⟪हस्ती⟫
 
-[L189] (Bildquelle: [Details](/gez/licenses#lekt3806))
+[L189] (ምንጭ ምስሊ: [Details](/gez/licenses#lekt3806))
 
 :::
 
@@ -232,9 +232,9 @@ Abb.: ⟪हस्ती⟫
 
 ![](/images/lekt3807.webp)
 
-Abb.: ⟪हस्तवान्⟫
+ስዕሊ: ⟪हस्तवान्⟫
 
-[L196] (Bildquelle: [Details](/gez/licenses#lekt3807))
+[L196] (ምንጭ ምስሊ: [Details](/gez/licenses#lekt3807))
 
 :::
 
@@ -254,7 +254,7 @@ Abb.: ⟪हस्तवान्⟫
 
 Um auszudrücken "jemand namens N. N.", konstruiert man:
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**ስም (በስመ ተውሳከ ስም)**
 
 ቃል በቃል፡ "ስሙ/ስሟ N.N. ነው/ነበር"። ስለዚህ፣ በመካከል የገባ የስም ዓረፍተ ነገር ነው።
 
@@ -264,7 +264,7 @@ Um auszudrücken "jemand namens N. N.", konstruiert man:
 
 ::: indent
 
-⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
+⟪አሲድራጃ ናሎ ናማ ቪራሴናሱቶ ባሊ።⟫ "ንጉሥ **በስመ ናላ**፣ ኃያል ወልደ ቪራሴና ነበረ።"
 
 :::
 
@@ -272,7 +272,7 @@ Um auszudrücken "jemand namens N. N.", konstruiert man:
 
 ::: indent
 
-⟪देवदत्तनामा पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
+⟪ዴቫዳታናማ ፑሩሻህ⟫ "ብእሲ ዘስሙ ዴቫዳታ"
 
 ⟪मदयन्तिकानाम्नी बाला⟫ "ስሟ ማዳያንቲካ የሆነች ልጅ"
 
@@ -282,9 +282,9 @@ Um auszudrücken "jemand namens N. N.", konstruiert man:
 
 ![](/images/lekt3808.jpg)
 
-Abb.: ⟪आसीन्महात्मा गन्धी नाम⟫
+ስዕሊ: ⟪आसीन्महात्मा गन्धी नाम⟫
 
-[L230] (Bildquelle: [Details](/gez/licenses#lekt3808))
+[L230] (ምንጭ ምስሊ: [Details](/gez/licenses#lekt3808))
 
 :::
 
@@ -302,7 +302,7 @@ Abb.: ⟪आसीन्महात्मा गन्धी नाम⟫
 
 ⟪आत्मन्येषा दोषं न पश्यति ।⟫ "እርሷ በራሷ ላይ ስሕተት አታይም"
 
-⟪आत्मानं स्तुवन्ति ।⟫ "Sie rühmen sich selbst"
+⟪አትማናም ስቱቫንቲ።⟫ "ርእሶሙ ያመሥግኑ።"
 
 :::
 
@@ -714,13 +714,13 @@ Erklärungen:
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-⟪सर्वे⟫ Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪ሰርቬ⟫ ስመ ብዙኅ ተባዕታይ ለ⟪ሰርቫ⟫ 3 "ኵሉ፣ ኵሎሙ"
 
 ⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
 
-⟪वयम्⟫ Nom.pl. "wir"
+⟪ወያም⟫ ስመ ብዙኅ "ንሕነ"
 
 ⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
 
@@ -732,6 +732,6 @@ Erklärungen:
 
 ⟪तरसा⟫ መሣሪያ ነጠላ ለ⟪तरस्⟫ ገለልተኛ "ኃይል"፣ እንደ ተውሳክ ጥቅም ላይ የዋለ: "በፍጥነት፣ በኃይል"
 
-⟪यूयम्⟫ Nom.pl. "ihr"
+⟪ዩያም⟫ ስመ ብዙኅ "አንትሙ"
 
 ⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫

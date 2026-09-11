@@ -243,7 +243,6 @@ The best pronunciation is achieved when one reads the sentences, verses or words
 9. pitṝn — ⟪पितॄन्⟫
 10. saṃskṛta — ⟪संस्कृत⟫
 
-:::
 
 The best pronunciation is achieved when one reads the sentences, verses or words quite slowly and monotonously with exact consideration of the length of the vowels.
 

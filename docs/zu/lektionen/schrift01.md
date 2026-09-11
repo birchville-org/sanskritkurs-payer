@@ -30,7 +30,7 @@ Ekubhaleni, ngalinye inombolo kufakwe umugqa ophezulu kuphela ngaphambi kokuba i
 
 ## Umzamo
 
-Schreiben Sie in Devanāgarī:
+Bhala nge-Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Funda futhi utranslitera:
 Ukuqonda okwengeziwe:
 
 ⟪पिता⟫ uBaba, ⟪कपि⟫ inkukhu, ⟪कृत⟫ wenze,  ⟪टीका⟫ umqondisi, ⟪तत्⟫ lokhu, ⟪तट⟫ elwandle, ⟪पत्⟫ udubula phambili, ⟪पट⟫ ubucwebe, ⟪काच⟫ iglasi,  ⟪काकुत्⟫ umlomo, ⟪चित्⟫ bamba, ⟪पृच्⟫ xuba,  ⟪पोटक⟫ umkhulu, ⟪चेतु⟫ injongo, ⟪तौतातित⟫ umlandeli kaKumārila (Mīmāṃsā), ⟪तूत⟫ isihlahla se-mulberry, ⟪पीत⟫ uphuze,  ⟪पीति⟫ ukudla, ⟪कॢप्⟫  kufanele, ⟪कृपते⟫ uyakhala, ⟪पुटी⟫ umugqa, ⟪चापि⟫ njalo, ⟪तोक⟫ izizukulwane, ⟪तृपत्⟫ kuzinze, ⟪पॄ⟫ gcwalisa, ⟪कृकाटी⟫ isigxobo somqede, ⟪पूपौ⟫ amacembe amabili, ⟪पैतृकी⟫ ubaba (fem.), ⟪कौट⟫ ukukhohlisa, ⟪कच⟫ ukuhlanya, ⟪कुतपे⟫ phezu kwesibhedlela sebhokhwe, ⟪कुचौ⟫ umzimba, ⟪चकिता⟫ esikhathazekile (fem.)
-
-

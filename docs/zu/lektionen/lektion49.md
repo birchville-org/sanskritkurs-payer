@@ -10,9 +10,9 @@ status: stable
 
 # Isifundo 49
 
-## 49.1. Ukwakhiwa kwe-Imperative (⟪लोट्⟫) ama-stem e-Präsens angaphandle kwe-athematic (Uqhubekiso)
+## 49.1. Ukwakhiwa kwe-Imperative (⟪लोट्⟫) ama-stem e-isikhathi esiyimanje angaphandle kwe-athematic (Uqhubekiso)
 
-### 49.1.1. Iqembu lesikhombisa le-Präsens  (⟪रुधादि⟫)
+### 49.1.1. Iqembu lesikhombisa le-isikhathi esiyimanje  (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -40,7 +40,7 @@ status: stable
 
 :::
 
-### 49.1.2. Iqembu lesihlanu le-Präsens (⟪स्वादि⟫)
+### 49.1.2. Iqembu lesihlanu le-isikhathi esiyimanje (⟪स्वादि⟫)
 
 ::: grammar-box
 
@@ -322,7 +322,7 @@ Umfanekiso: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪वर⟫ m.n.: Wunsch
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Isichasiso: futhi, noma
 
 ⟪विहंग⟫ u.: Inyoni ("ehamba - ⟪विह⟫ - emoyeni")
 

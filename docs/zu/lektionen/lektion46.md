@@ -478,7 +478,7 @@ kusukela lapho:
 
 :::
 
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Mayelana no-⟪राहु⟫ no-⟪केतु⟫ bheka:
 
 > **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
@@ -611,9 +611,9 @@ Umfanekiso: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्ण�
 
 :::
 
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ ub.: ukuhamba uyeza nokuya
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ ub.: ukuwa
 
 ⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : ukuzikhandla, ukukhathala
 
@@ -822,7 +822,7 @@ A) Nquma futhi ukuququdezele lezi zimo:
 51.  ⟪सुषुपुः⟫
 52.  ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) Humusha:
 
 ⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
 

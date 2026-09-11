@@ -2,7 +2,7 @@
 
 ### Sifre
 
-Følgende to skrivemåter er alminnelige:
+Die volgende twee skryfmetodes is algemeen:
 
 ![](/images/schrift026.jpg)
 

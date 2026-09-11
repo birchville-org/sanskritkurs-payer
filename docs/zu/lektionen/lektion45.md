@@ -143,6 +143,7 @@ Isithombe: ⟪कन्ये किं लिखसि⟫
 
 **C) Yenza izakhiwo ze-passive kuma-sentence angenhla (ngaphandle kuka-masentence 8 no-10)**
 
+:::
 ::: media
 ![](/images/lekt2204.webp)
 Isithombe: ⟪अन्नं पक्त्वा⟫

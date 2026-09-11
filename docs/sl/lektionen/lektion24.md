@@ -13,6 +13,7 @@ status: stable
 ## 24.1. Dativ (⟪चतुर्थी⟫ = "četrti sklon")
 
 ::: grammar-box
+
 **1. Če želimo izraziti namen ali nameravanost ("da bi") dejanja, lahko namesto infinitiva (⟪तुमुन्⟫) uporabimo tudi samostalnik s sufiksom kṛt, ki označuje dejanje ali stanje, v dativu (⟪चतुर्थी⟫ = "četrti sklon").**
 
 Primer:
@@ -20,91 +21,134 @@ Primer:
 namesto:
 
 :::
+
 ::: indent
+
 ⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
+
 :::
+
 lahko rečemo tudi:
 
 ::: indent
+
 ⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
 ali:
 
 ⟪रामो गुरुवचनश्रवणाय गतः ।⟫
+
 :::
+
 = "Rāma je odšel, da bi poslušal pouk učitelja."
+
 ::: media
+
 ![](/images/lekt2404.webp)
+
 Slika: ⟪बाला गुरुश्रवणाय गताः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2404))
+
 :::
 
 ::: grammar-box
+
 **2. Dativ (⟪चतुर्थी⟫) lahko označuje tudi predmet za dopolnitev namenskega infinitiva:**
 
 Primer:
 
 :::
+
 ::: indent
+
 ⟪फलेभ्यो ग्रामं गच्छति⟫ = "Gre v vas z namenom pridobiti sadje = Gre v vas, da bi prinesel sadje."
+
 :::
+
 **Na podoben način dativ (⟪चतुर्थी⟫) označuje namen stvari ali dejanja:**
 
 Primer:
 
 ::: indent
+
 ⟪यज्ञायान्नम्⟫ = "Hrana z namenom darovanja = Hrana za žrtev"
+
 :::
+
 ::: media
+
 ![](/images/lekt2401.webp)
+
 Slika: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] je tradicionalni hindujski dogodek, ki poteka ob praznovanju novega leta v vseh templjih BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Na ta dan se Bhagwanju Swaminarayanju [સ્વામિનારાયણ] ponudi na stotine vegetarijanskih jedi.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2401))
+
 :::
 
 ::: grammar-box
+
 **3. Dativ (⟪चतुर्थी⟫) označuje tudi osebo ali stvar, za katero je določen predmet dejanja (posredni objekt; vprašanje: komu?). (Vendar bodite pozorni na glagole z dvojnim akuzativom (⟪द्वितीया⟫)!)**
 
 Primer:
 
 :::
+
 ::: indent
+
 ⟪रामाय फलं ददाति⟫ = "On da Rāmi sadro." (Koren ⟪दा⟫ 3. prezentski razred)
+
 :::
+
 ::: media
+
 ![](/images/lekt2402.webp)
+
 Abb.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
+
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Vir slike: [Details](/sl/licenses#lekt2402))
+
 :::
 
 ::: grammar-box
+
 **4. Dativ stoji pri nekaterih glagolih (in nekaterih drugih besedah) podobno kot v slovenščini na vprašanje "komu?":**
 
 Primeri:
 
 :::
+
 ::: indent
+
 ⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = "Bog je jezen na moške."
 
 ⟪अलम्⟫ prislov: "dovolj, zadostno, kos": ⟪अलं योधो योधाय⟫ = "en bojevnik je kos drugemu bojevniku"
+
 :::
+
 ::: media
+
 ![](/images/lekt2403.webp)
+
 Slika: ⟪अलं योधो योधाय⟫
 "Rama (desno), sedeč na Hanumanovih ramenih, se bori z demonskim kraljem Ravano." okoli 1820
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2403))
+
 :::
+
 Nadaljnje uporabe dativa kasneje.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Tvorba dajalnika (⟪चतुर्थी⟫)
 
 ::: grammar-box
+
 **Redne končnice dativa so:**
 
 * **Ednina: -e; ženski samostalniki, ki se končajo na samoglasnik: -ai**
 * **Množina: dativ in ablativ ⟪पञ्चमी⟫: -bhyas**
+
 :::
+
 ### 24.2.1. Konsonantska osnova
 
 ::: grammar-box
@@ -117,6 +161,7 @@ Nadaljnje uporabe dativa kasneje.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
+
 ### 24.2.2. Vprašalne zaimke
 
 ::: grammar-box
@@ -127,6 +172,7 @@ Nadaljnje uporabe dativa kasneje.
 | **Dativ množine** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
+
 ### 24.2.3. Določni zaimki
 
 ::: grammar-box
@@ -139,9 +185,11 @@ Nadaljnje uporabe dativa kasneje.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
+
 ### 24.2.4. Samoglasnični skloni
 
 ::: grammar-box
+
 **Samoglasnični skloni**
 
 * **Moški rod / Srednji rod na -a:** ⟪देव⟫
@@ -165,10 +213,13 @@ Nadaljnje uporabe dativa kasneje.
 * **Ženski rod na -u:** ⟪धेनु⟫
 * Dat. sg. ⟪धेनवे⟫ ali ⟪धेन्वै⟫
 * Dat. pl. ⟪धेनुभ्यस्⟫
+
 :::
+
 ## 24.3. Sandhi izgovorjave -ai in -au na koncu besede
 
 ::: grammar-box
+
 **Sandhi izgovorjave -ai in -au na koncu besede**
 
 * **-ai pred samoglasnikom se običajno nadomesti z -ā (redkeje z -āy kot v sredini besede)**
@@ -177,9 +228,13 @@ Nadaljnje uporabe dativa kasneje.
 Primer:
 
 :::
+
 ::: indent
+
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "temu ognju"
+
 :::
+
 ## 24.4. Seznam besed
 
 ⟪अलम्⟫ prislov: dovolj, zadostno, (komu, čemu) kos ; z dativom: dovolj za, zadostno za, kos ; z instrumentalom: dovolj s, nehaj z , npr. ⟪अलं क्रोधेन⟫ = "dovolj je jezde = nehaj z jezo!"
@@ -191,32 +246,46 @@ Na enak način kot ⟪अलम्⟫ z instrumentalom se uporablja:
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : okrasiti
 
 ::: indent
+
 ⟪अलंकार⟫ m.: okrasje, sredstvo za okras (v poeziji)
+
 :::
+
 ::: media
+
 ![](/images/lekt2405.webp)
+
 Slika: ⟪अलंकारः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2405))
+
 :::
+
 ⟪हेतु⟫ m.: gonilo, vzrok, razlog ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ z genitivom ali kot zadnji člen besedne zveze = "zaradi ... , zaradi"
 
 ⟪प्रतिमा⟫ f.: podoba, slika
 
 ::: media
+
 ![](/images/lekt2406.webp)
+
 Slika: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2406))
+
 :::
+
 ⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : zgoditi se, potekati, nastati
 
 Od ⟪वृत्⟫:
 
 ::: indent
+
 ⟪वृत्ति⟫ f.: vedenje, dejavnost, življenjski slog
 
 ⟪वृत्त⟫ n.: vedenje
+
 :::
+
 ⟪अभि⟫ prefiks:  po-, proti - noter, k - sem, k - noter, proti, v - noter, glede na, o, čez, pri
 
 ⟪नि⟫ prefiks: navzdol, dol, noter, nazaj
@@ -234,16 +303,23 @@ Od ⟪वृत्⟫:
 tega
 
 ::: indent
+
 ⟪अपोह⟫ m.: negacija (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: razprava za in proti
+
 :::
+
 ::: media
+
 ![](/images/lekt2407.webp)
+
 Slika: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, namestnica urednice za tujo politiko pri CNN-IBN Network 18, Indija, moderira panelno razpravo na indijskem gospodarskem vrhu Svetovnega gospodarskega foruma 2008 v New Delhiju."
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2407))
+
 :::
+
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : uporaben
 
 ⟪कुप्य⟫ n.: gozdni izdelek, kovina (ne plemenita kovina)
@@ -251,26 +327,35 @@ Slika: ⟪ऊहापोहः⟫
 ⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : videti, postati viden ; imenovati, razložiti, sporočiti
 
 ::: indent
+
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : pripovedovati
 
 tega:
 
 ⟪आख्यान⟫ n.: pripoved
+
 :::
+
 ::: media
+
 ![](/images/lekt2408.webp)
+
 Slika: ⟪आख्यानम्⟫
 "Pripovedovalec zgodb iz San Francisca Jeff Byers deli zgodbo s prebivalci Chennerija, vasi ljudstva Irula. Pripovedovalec Jeeva Raghunath prevaja v tamilščino za vasčane."
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2408))
+
 :::
 
 ::: indent
+
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : sešteti, izračunati
 
 tega:
 
 ⟪संख्या⟫ f.: štetje, naštevanje ; ⟪सांख्य⟫ n.: eno od šestih filozofskih sistemov (krajše: Basham, Wonder str. 326f.)
+
 :::
+
 ⟪ग्रहण⟫ n.: prijem
 
 ⟪चौल⟫ n.: ceremonija (⟪संस्कार⟫) striženja las (v starosti treh let)
@@ -284,14 +369,21 @@ tega:
 od tega:
 
 ::: indent
+
 ⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : pokloniti se, častiti, pozdraviti
+
 :::
+
 ::: media
+
 ![](/images/lekt2411.webp)
+
 Slika: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
 Rokopis ⟪गीतगोविन्द⟫, 1730 n. št.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2411))
+
 :::
+
 ⟪स्वागत⟫ n.: dobrodošlica (iz su-ā-gata)
 
 ⟪तृण⟫ n.: trstika
@@ -357,10 +449,14 @@ Prevajajte v sanskrt:
 5. Čaščenje (⟪नमस्⟫) naj bo Šivi! Čaščenje naj bo Śrī Gaṇeši!
 
 ::: media
+
 ![](/images/lekt2409.webp)
+
 Slika: ⟪श्रीगणेशाय नमः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2409))
+
 :::
+
 6. Zbogom! (= Blagostanje (⟪स्वस्ति⟫ f.) vam!)
 
 7. Ta sad je dovolj za hrano.
@@ -372,13 +468,20 @@ Slika: ⟪श्रीगणेशाय नमः⟫
 10. Ko sem se poklonil trem modrecem (Ak.), ... Se klanja Narasiṃhi (Dat.)
 
 ::: indent
+
 Razlaga: ⟪मुनित्रयम्⟫ "trojnost modrecev = trije modreci" = gramatiki ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt2410.webp)
+
 Slika: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ raztrga ⟪हिरण्यकशिपु⟫, list iz rokopisa ⟪भागवतपुराण⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2410))
+
 :::
+
 11. Dobrodošli (⟪स्वागतम्⟫) vam. Dobrodošla kraljici.
 
 12. Želim vam blagostanje (⟪कुशल⟫) = Blagostanje vam!
@@ -388,4 +491,3 @@ Slika: ⟪नरो नरसिंहाय नमस्करोति नर�
 14. Zadostuje en sad za hrano in voda za pitje.
 
 15⟪१५⟫. Na vidve! (Novosanskrt: ⟪पुनर्दर्शनाय⟫)
-

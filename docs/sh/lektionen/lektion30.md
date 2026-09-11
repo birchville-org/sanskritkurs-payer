@@ -124,7 +124,6 @@ The Optative (⟪लिङ्⟫), the Imperfect (⟪लङ्⟫), the Aorist (
 :::
 ## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
 
-:::
 ## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
 
 ### 30.4.1. Thematic Present Classes
@@ -247,6 +246,7 @@ Examples:
 |**3. Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
 |**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
+:::
 ::: grammar-box
 **Except for -ar, the same sandhi rules apply to final -r as to final -s.**
 

@@ -395,7 +395,6 @@ Eksempler:
 
 **Stamdannelse:**
 
-:::
 ::: indent
 **foran -ya underkastes udløbet af nominalstammen følgende forandringer:**
 
@@ -720,7 +719,6 @@ Femininum (⟪स्त्री⟫)
 ## 61.9. Udsendelse i Sanskritlitteraturens ocean: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 Efter afslutningen på Sanskritkurset begynder det egentlige "svømning" i oceanet af sanskritlitteratur. Da dette ocean er fyldt med hindringer, er det passende at begynde denne nye livsfase med en påkaldelse af Gaṇeśa:
-:::
 
 ::: no-header
 |   |   |

@@ -58,7 +58,7 @@ Jaipur, 1875.
 
 > ⟪एवं सति⟫ = "ngoba izimo zinjalo"
 
-**I-Locativus absolutus kufanele igudlule ngokuhambisana nesimo "ngesikhathi" (isib. i-Participle Präsens), "ngemva", "ngesikhathi" (isib. PPP), "ngoba", "ngoba", "nakuba", "uma" njll.**
+**I-Locativus absolutus kufanele igudlule ngokuhambisana nesimo "ngesikhathi" (isib. i-Participle isikhathi esiyimanje), "ngemva", "ngesikhathi" (isib. PPP), "ngoba", "ngoba", "nakuba", "uma" njll.**
 
 **Qaphela: Kwi-absolutive, kumele i-agent ye-absolutive ne-agent yomongo ibe yinto efanayo; kwi-locative absolute, i-agent ye-locative absolute ne-agent yomgomo kumele babe ngabantu abahlukene.**
 
@@ -368,7 +368,7 @@ Naran. Udaipur.
 
 :::
 
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### 27.7.2. Amabizo obulili obungathathi hlangothi aphela ngo--a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -395,7 +395,7 @@ Früchte. Bangalore.
 
 :::
 
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### 27.7.3. Amabizo obulili besifazane aphela ngo--ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -491,7 +491,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 
 :::
 
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Amabizo obulili besifazane aphela ngo--u: ⟪धेनु⟫
 
 ::: grammar-box
 

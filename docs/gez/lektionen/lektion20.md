@@ -122,7 +122,7 @@ Traditionally, one distinguishes:
 
 :::
 
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
+## ፳.፫. ብዙቭሪሂ ምስል ቅድመ-ቃል ዘይትዋደድ
 
 ::: grammar-box
 
@@ -184,14 +184,14 @@ Traditionally, one distinguishes:
 
 ![](/images/lekt2005.webp)
 
-Abb.: ⟪देवा यीश्वादयः⟫
+ስዕሊ: ⟪देवा यीश्वादयः⟫
 
 ኢየሱስ ወካልኦት አማልክት፣ ኣህመዳባድ
 (ምንጪ ስእሊ፡ [ዝርዝራት](/gez/licenses#lekt2005))
 
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## ፳.፬. ብዙቭሪሂ ምስል ቅድመ-ቃል ዘይትዋደድ በነገር
 
 i.e. Bahuvrīhi, whose first member represents a case other than the nominative (⟪प्रथमा⟫).
 
@@ -223,14 +223,14 @@ Example:
 
 ![](/images/lekt2001.webp)
 
-Abb.: ⟪इन्द्रो वज्रपाणिः⟫
+ስዕሊ: ⟪इन्द्रो वज्रपाणिः⟫
 
 ሲምሪፕ (ក្រុងសៀមរាប)፣ ካምቦድያ፣ 9ይ ክፍለ ዘመን ድ.ክ.
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2001))
 
 :::
 
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## ፳.፭. ብዙቭሪሂ ምስል ቅድመ-ቃል ዘይትዋደድ በግስ
 
 ኣብቲ ቅድመ-ኣካል ግስ፣ ቅድመ-ግስ፣ ቅድመ-ግስ ወይ ካልእ ዘይተለዋዋጢ ይርከብ፤ ከምዚኦም ዝኣመሰሉ ሕብርታት ብሓፈሻ ⟪ንትያሳማሳ⟫ እዮም።
 
@@ -304,14 +304,14 @@ Examples:
 
 ![](/images/lekt2007.webp)
 
-Abb.: ⟪कृतकटा⟫
+ስዕሊ: ⟪कृतकटा⟫
 
 ቼናይ = சென்னை
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2007))
 
 :::
 
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## ፳.፰. ርክብ ብዙቭሪሂ ወዓረፍተ-ነገር ዘይትዋደድ
 
 ምንም እኳ ኩሉ ባሁቭሪሂ ብሓደ ኣንጻራዊ ዓንቀጽ ዝፍታሕ እንተኾነ፣ ኩሉ ኣንጻራዊ ዓንቀጽ ግን ብባሁቭሪሂ ክትካእ ኣይክእልን። ሄርማን ጆርጅ ያቆቢ (1850 - 1937)፣ እቲ ርክብ ናይ ክልቲኦም ብዝርዝር ዝመረመረ (ኮምፖሲቱም ወይ ንቡር ዓንቀጽ፣ 1897)፣ ከምዚ ይጽሕፍ፡
 
@@ -325,7 +325,7 @@ Abb.: ⟪कृतकटा⟫
 
 ![](/images/lekt2002.jpg)
 
-Abb.: Hermann Jacobi
+ስዕሊ: Hermann Jacobi
 
 (Image source: [Details](/gez/licenses#lekt2002))
 
@@ -343,7 +343,7 @@ Abb.: Hermann Jacobi
 
 ![](/images/lekt2008.webp)
 
-Abb.: ⟪आश्रमः⟫
+ስዕሊ: ⟪आश्रमः⟫
 
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
 (Image source: [Details](/gez/licenses#lekt2008))
@@ -376,7 +376,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ አንስት፡ ምድር፡ መሬት
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -554,7 +554,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 1\. ሓደ ክሻትሪያ፡ ንበትሪ ኣብ ኢዱ ዘይሕዝ፡ ንህዝቢ ኣይሕሉን።
 
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
+፪. ካሊዳሳ ወሌሎች ገጣሚዎች መምህራን ናቸው በሳንስክሪት።
 
 3\. ሓደ ክሻትሪያ ንመነባብሮኡ ብኣጽዋር ይረክብ።
 
@@ -583,10 +583,10 @@ Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Ask
 
 ![](/images/lekt2010.webp)
 
-Abb.: ⟪तपस्⟫
+ስዕሊ: ⟪तपस्⟫
 
-Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
-(Image source: [Details](/gez/licenses#lekt2010))
+ቡድሃ እንደ መነኩሴ ቅድመ ምጥቃኑ ዘያድኅን፣ ጋንዳራ፣ ፪/፫ ክፍለ ዘመን
+(ምንጭ ምስል፡ [Details](/gez/licenses#lekt2010))
 
 :::
 
@@ -598,7 +598,7 @@ Erklärung: ⟪त्रिविध ३⟫ : "dreifach"
 
 :::
 
-Definition der Erlösung nach dem Nyāyasystem:
+ትርጓሜ ምጥቃን በኒያያ ሥርዓት፡
 
 ::: indent
 
@@ -630,14 +630,14 @@ Ein ⟪सुभाषितम्⟫ :
 
 ![](/images/lekt2009.webp)
 
-Abb.: ⟪लोकानां करदा मही⟫
+ስዕሊ: ⟪लोकानां करदा मही⟫
 
 Karnataka
 (Image source: [Details](/gez/licenses#lekt2009))
 
 :::
 
-Über Besitzverhältnisse:
+ስለ ንብረት፡
 
 ::: indent
 

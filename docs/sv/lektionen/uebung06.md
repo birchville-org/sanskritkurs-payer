@@ -244,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू रामः ॥⟫
 
-B) Setzen Sie in den Plural:
+B) Sätt i plural:
 
 1\. brāhmaṇo yajati.
 

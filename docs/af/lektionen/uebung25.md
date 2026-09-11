@@ -62,10 +62,14 @@ Buddhas en Arahants is bevry van lyding. Want hulle het die bevrydende insig ber
 Mense word deur gierigheid, haat en waan bevuil. Wanneer die tyd aanbreek, val hulle dan in 'n hel.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Beeldbron: [Details](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Die Kshatriya bring heldhaftige krygers vanaf die groot stad om teen die vyand se dorpie te veg.
 
@@ -84,7 +88,7 @@ Sonder Rāma.
 Die leringe van 'n heilige lei tot deug, nie dié van 'n goddelose persoon nie.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma wag vir Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Dit gaan glad (gelukkig).
@@ -109,10 +113,14 @@ As iemand uit trots, gierigheid, woede of vrees 'n vals oordeel vel, sal hy na d
 Helde ontstaan weens kwaad; kwaad ontstaan uit armoede; armoede ontstaan uit nie-gee nie.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति नरकाः पापात्⟫
 (Beeldbron: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 'n Dief word van die skuld van diefstal ontslae óf deur straf óf deur vrylating. Indien die koning hom egter nie straf nie, neem hy die dief se skuld op hom.
 
@@ -124,9 +132,13 @@ Fig.: ⟪भवन्ति नरकाः पापात्⟫
 Die ekonomie is nuttig omdat dit graan, vee, goud, metale en arbeid produseer.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Beeldbron: [Details](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Daarom het die drie wetenskappe die staf (daṇḍa) as hul fondasie. Die staf, wat die fondasie van goeie gedrag is, bring wesens voordeel en veilige besit. Goeie gedrag is óf aangeleer óf aangebore. Want handeling kweek geskikte materiaal, nie ongeskikte materiaal nie. Kennis kweek 'n verstand wat deur gehoorsaamheid, luister, verdieping, begrip en besinning die waarheid bereik het, en geen ander nie. … Want uit wat gehoor word ontstaan insig; uit insig ontstaan praktyk; uit praktyk ontstaan selfbeheersing; só vervul die wetenskappe hul doel. Kennis en goeie gedrag is die oorsaak van oorwinning oor die sintuie. Dit is nodig om wellus, haat, gierigheid, hoogmoed, bedwelmdheid en onrus af te skud.

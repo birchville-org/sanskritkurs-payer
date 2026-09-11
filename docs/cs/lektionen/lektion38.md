@@ -352,7 +352,6 @@ od ⟪राज⟫ :
 ⟪सीमन्⟫ f.: Hraniční kámen
 
 ⟪आत्मन्⟫ m.: Já, vlastní osoba, nejhlubší podstata. Filozoficky a v učeních o osvobození: absolutno v jednotlivci, kterého si však jednotlivec za určitých okolností nemusí být vědom (v. Stietencron)
-:::
 ⟪कर्मन्⟫ n.: k ⟪कृ⟫ 8U: akce, čin, dílo; posvátné dílo, obětní úkon; Karma: předchozí čin, který později přináší své plody (např. v reinkarnaci)
 
 ::: indent

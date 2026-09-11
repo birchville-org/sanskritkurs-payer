@@ -95,6 +95,7 @@ Fig.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 
+:::
 ::: grammar-box
 
 |   | Masculine/Feminine :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫
@@ -157,7 +158,6 @@ Fig.: ⟪हस्तौ⟫
 
 **Present Participle Parasmaipada**
 
-:::
 
 ⟪ददत्⟫ 3 "gebend"
 
@@ -171,7 +171,7 @@ Fig.: ⟪हस्तौ⟫
 
 :::
 
-**Stämme auf -mant/-vant**
+**Stammar på -mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "Vieh besitzend"
 
@@ -299,7 +299,7 @@ Fig.: ⟪फले⟫
 
 :::
 
-**Stämme auf -u**
+**Stammar på -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -505,6 +505,7 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 
 **Superlatives ending in -iṣṭha (Fem.: iṣṭhā) are declined like a- or ā-stems.**
 
+:::
 ::: grammar-box
 
 | Root | Adjective | Comparative | Superlative |
@@ -657,9 +658,9 @@ See also:
 
 The determination of the meter is important for the following reasons:
 
-1. **Aesthetic:** The verse meter contributes, among other things, to the beauty of a statement. Certain meters may also serve to express specific moods, or they are assigned to certain social classes (⟪वर्ण⟫). The various meters are recited differently. :br A good impression of the aesthetic effect can be gained, for example, from the recitation of ⟪शिवताण्डवस्तोत्र⟫ (praise of Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2. **Text-critical:** Errors in the verse meter can indicate that a text has not been transmitted correctly at a certain point. The verse meter helps in making textual emendations.
-3. **Chronological:** Certain verse meters underwent specific changes over the course of history. This can assist in roughly dating a text. See **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both reprinted in: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Ed. by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp-Stiftung ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+1. **Estetisk:** Versmåttet bidrar bland annat till skönheten i ett uttalande. Vissa versmått kan också tjäna till att uttrycka specifika stämningar, eller så tilldelas de vissa sociala klasser (⟪वर्ण⟫). De olika versmåtten reciteras olika. :br Ett gott intryck av den estetiska effekten kan man få, till exempel, från recitationen av ⟪शिवताण्डवस्तोत्र⟫ (lovsång till Śivas dans): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Textkritisk:** Fel i versmåttet kan indikera att en text inte har överförts korrekt vid en viss punkt. Versmåttet hjälper till att göra textuella emendationer.
+3. **Kronologisk:** Vissa versmått genomgick specifika förändringar under historiens gång. Detta kan hjälpa till att grovt datera en text. Se **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Båda omtryckta i: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Red. av Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Glasenapp-Stiftung ; ...). -- Vol. 2. -- 1967. -- sid. 1188 - 1255.
 
 ::: media
 
@@ -786,7 +787,7 @@ Det viktigaste versmåttet i eposen (⟪महाभारत⟫, ⟪राम�
 
 **⟪श्लोक⟫ är en dubbelvers bestående av halvverser med 16 stavelser vardera. Varje halvvers delas i sin tur upp i två kvartsverser (⟪पाद⟫) med 8 stavelser vardera. Varje kvartsvers delas upp i två delar med 4 stavelser vardera. Hela versen (⟪पद्य⟫ n.) består alltså av fyra ⟪पाद⟫ (m. "fot, fjärdedel"). De fyra ⟪पाद⟫ räknas som a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
 
-**Aufbau des Śloka:**
+**Ślokas struktur:**
 
 **Grundschema (⟪पथ्या⟫):**
 

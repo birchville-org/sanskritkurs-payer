@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Toplamalı dvandva")
 
 ::: grammar-box
+
 **Bir dvandva, bir dizi şeyin vb. bir birlik oluşturduğunu ifade etmek istediğinde, genellikle Çekimlik Dişil Tekilde gelir:**
 
 örn. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟩ sadece "yeme (**āhāra** er., y. c.), uyku (**nidrā** d., y. c.), çiftleşme (**maithuna** n.) ve korku (**bhaya** n.)" anlamına gelmez, bu dörtünün **birlikte**, hayatsal yaşamı karakterize eden bir bütün olarak anlamına gelir.
+
 :::
+
 Bu temel Samāhāradvandva oluşturma kuralının yanı sıra, Pāṇini 2,4,2-17'de veya örn. Mr. R. Kale'nin A higher Sanskrit grammar, reprint 1969, § 189 - 192 a'da bulunan bir dizi başka kural daha vardır. Dil gelişiminin farklı aşamalarında her zaman aynı kurallara uyulmamıştır!
 
 
@@ -27,6 +30,7 @@ Bu temel Samāhāradvandva oluşturma kuralının yanı sıra, Pāṇini 2,4,2-1
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Taddhita soneki -ka başta şunları oluşturur:**
 
 1\. **Küçültme formları (Alm. -chen, -lein, -li, -le gibi):**
@@ -41,15 +45,19 @@ Bu temel Samāhāradvandva oluşturma kuralının yanı sıra, Pāṇini 2,4,2-1
 4\. **Temel kelimenin kavramıyla ilişkili olduğunu ifade eden isimler:**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "Benares doğumlu, Benares kökenli"**
 **rūpa n. "Biçim" » rūpaka 3 ⟪रूपक⟫ "bir şeyin biçimine sahip"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), dişil çoğunlukla -ikā
 
 ::: grammar-box
+
 **kṛt eki -aka, dişili çoğunlukla -ikā, her köke eyleyici isimler (eylemi gerçekleştiren kişiye atıfta bulunan isimler) oluşturur.**
 
 Kökün sonundaki ünlü harf ve kökün sondan ikinci basamağındaki **-a-** sesleri, uzatılmış dereceleri (**vṛddhi**) ile değiştirilir (birkaç istisna vardır), diğer ünlüler ise yükseltilmiş dereceleri (**guṇa**) ile değiştirilir.
+
 :::
+
 **Örnekler:**
 
 | Kök:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Anlam |
@@ -62,8 +70,11 @@ Kökün sonundaki ünlü harf ve kökün sondan ikinci basamağındaki **-a-** s
 | **ji** :br1 P:br⟪जि⟫:br"zafer kazanmak" | **jayaka** 3:br(⟪जयक⟫) | "zaferli"
 
 ::: grammar-box
+
 **Bu yapıların bazıları daha dar anlamda şunu ifade eder: "kökten türeyen, alışkanlık veya görev olarak ya da iyi bir şekilde yerine getiren".**
+
 :::
+
 bkz. yukarıda örn. **śrāvaka**, **yājaka**, **jayaka**
 
 **Örnekler:**
@@ -84,17 +95,25 @@ Bunun yanı sıra **-aka** sonecinin daha az önemli bazı kullanımları da var
 **adhyayana** n. (⟪अध्ययन⟫) : Öğrenme, özellikle Veda çalışması
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Resim: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Madurai yakınlarındaki Tiruparankundram.
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Zanaatkar
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Resim: **kāru** = ⟪कारु⟫, Gujarat.
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (gezgin) gösterici, aktör, şarkıcı
 **kusīda** n. (⟪कुसीद⟫) : Faiz
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : çekmek
@@ -124,10 +143,14 @@ bundan: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष�
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Resim: **karṣaka** = ⟪कर्षक⟫.
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -172,4 +195,4 @@ Açıklama: dvijātīnām = Çoğul tamlayan hali (tamlayan): dvijāti kelimesin
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता⟫ |
-(nach Kauṭilīya-Arthaśāstra 1.4.1.)
+(Kauṭilīya-Arthaśāstra 1.4.1'e göre)

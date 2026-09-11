@@ -1,6 +1,6 @@
 ---
 title: "Lección 7"
-subtitle: "La oración verbal con objeto directo"
+subtitle: "Sagnliðurinn með beinum andlagi"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -12,11 +12,14 @@ status: stable
 
 
 ::: center
+
 **Weekly Saying**
+
 :::
 
 
 ::: center
+
 ⟪धर्मो जयति नधर्मः सत्यं जयति नानृतम् | क्षमा जयति न क्रोधो देवो जयति नासुरः ||⟫
 
 **dharmo jayati nādharmaḥ**
@@ -28,25 +31,30 @@ Right conquers, not wrong,
 Truth conquers, not untruth,
 Forbearance conquers, not anger,
 God conquers, not the anti-god.
+
 :::
 
 
 ## 7.1. The verbal sentence with direct object
 
 ::: grammar-box
+
 **Schema:**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – direct object (karman n. = ⟪कर्मन्⟫) – verb**
 
 e.g.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma eats (devours) a fruit."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "The Brahman venerates a god with an offering (for someone else)."
+
 :::
+
 If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman** n. = ⟪कर्मन्⟫) is generally in the **Accusative** (accusative case, dvitīyā f. = ⟪द्वितीया⟫).
 
 
 ## 7.2. The Accusative (accusative case, dvitīyā f. = ⟪द्वितीया⟫ = "second case ending")
 
 ::: grammar-box
+
 **Ending of the Accusative Singular Masculine and Feminine after a vowel: -m**
 
 | Masculines ending in | Accusative Singular |
@@ -59,8 +67,11 @@ If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman*
 | **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
 | **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+
 :::
+
 ::: grammar-box
+
 **Accusative Plural Masculine of stems ending in a vowel (exception: monosyllabic root stems with long vowels): Lengthening of the final vowel + -n**
 
 | Masculines ending in | Accusative Plural |
@@ -68,8 +79,11 @@ If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman*
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
+
 :::
+
 ::: grammar-box
+
 **Accusative Plural Feminine of stems ending in a vowel (exception: monosyllabic root stems with long vowels): Lengthening of the final vowel + -s**
 
 | Feminines ending in | Accusative Plural |
@@ -78,11 +92,13 @@ If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman*
 | **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
 | **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
+
 :::
 
 ### 7.2.1. Accusative Singular and Plural of Interrogative and Demonstrative Pronouns
 
 ::: grammar-box
+
 | || Masculine | Feminine | Neuter |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** :brwho/what | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
@@ -93,7 +109,9 @@ If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman*
 | | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam** :brthis | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
+
 :::
+
 The forms **enam** (⟪एनम्⟫) etc. belong to the stem **enad** (⟪एनद्⟫), which forms cases only in some instances. These are used instead of the forms of **etad** and **idam** when the entity referred to has already been mentioned previously.
 e.g. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪एनं यजन्ते⟫ || : "He is a god. They sacrifice to him."
 
@@ -101,6 +119,7 @@ e.g. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪ए
 ### 7.2.2. Usage of the Accusative (Second Case, dvitīyā f. = ⟪द्वितीया⟫ = "second case ending")
 
 ::: grammar-box
+
 The accusative (dvitīyā f. = ⟪द्वितीया⟫) denotes:
 1. In non-passive verbal sentences: the **direct object** (karman n. = ⟪कर्मन्⟫) of the action expressed by the verb:
 e.g.
@@ -109,7 +128,9 @@ e.g.
 2. With verbs expressing going, movement, leading or similar actions towards something, the accusative denotes the goal of the movement:
 e.g.
 **narakaṃ gacchati** = ⟪नरकं गच्छति⟫ : "He goes to hell."
+
 :::
+
 Further uses of the accusative will be treated later.
 
 
@@ -117,6 +138,7 @@ Further uses of the accusative will be treated later.
 ## 7.3. Sandhi of final -n
 
 ::: grammar-box
+
 **Final -n:**
 
 1. Before voiced palatal and retroflex sparśa consonants and before **ś-**, it is replaced by the nasal corresponding to these sounds:
@@ -137,20 +159,26 @@ e.g. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "an
 **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "but the gods (Acc.)"
 
 4. Except after a short vowel (see later), word-final **-n** remains unchanged in all other cases.
+
 :::
 
 ## 7.4. The Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
+
 **In the neuter, the forms for Nominative (prathamā) and Accusative (dvitīyā) are identical.**
+
 :::
+
 ### 7.4.1. Neuter of stems ending in -a
 
 ::: grammar-box
+
 **Ending Nominative / Accusative Singular: -m**
 e.g. **phala** n. = ⟪फल⟫ = "fruit": Nom./Acc. sg. **phalam** = ⟪फलम्⟫
 **Ending Nominative / Accusative Plural: -āni**
 e.g. **phala** n. = ⟪फल⟫: Nom./Acc. pl. **phalāni** = ⟪फलानि⟫
+
 :::
 
 ## 7.5. Athemeatic Present Classes
@@ -158,6 +186,7 @@ e.g. **phala** n. = ⟪फल⟫: Nom./Acc. pl. **phalāni** = ⟪फलान�
 The 5th present class forms a so-called athematic present stem, i.e., the present stem does not end in the "thematic vowel" **-a** as it does in thematic present classes (1st, 4th, 6th, 10th class).
 
 ::: grammar-box
+
 **The athematic present classes exhibit stem gradation, i.e., there are two forms of the present stem:**
 1. **strong stem**: guṇa grade (rarely dīrgha grade)
 2. **weak stem**: zero grade
@@ -168,22 +197,30 @@ in all first persons of the Imperative (loṭ) Parasmaipada and Ātmanepada
 in the third person Singular Imperative (loṭ) Parasmaipada
 
 **All other forms have the weak present stem.**
+
 :::
+
 ### 7.5.1. Primary endings of the 3rd person plural in athematic stems
 
 ::: grammar-box
+
 **In the case of athematic present stems, the primary endings of the 3rd person plural are:**
 **Parasmaipada: -anti**
 **Ātmanepada: -ate**
+
 :::
+
 ### 7.5.2. The 5th class of present stems (svādi = ⟪स्वादि⟫ = "su etc.")
 
 ::: grammar-box
+
 **Strong stem**: (mostly) root in guṇa grade (as stated above) + **-no-**
 **Weak stem**: (mostly) root in guṇa grade (as stated above) + **-nu-**
 
 **Before vocalic endings, in the case of roots ending in a vowel, -nu- is replaced by -nv-, and in the case of roots ending in a consonant, before vocalic endings -nu- is replaced by -nuv-.**
+
 :::
+
 **Examples:**
 
 | Root:br⟪धातु⟫ | Strong stem | Weak stem | Before vowel:br(weak) |
@@ -206,11 +243,16 @@ in the third person Singular Imperative (loṭ) Parasmaipada
 **śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : to hear (something: Accusative, someone: Genitive or Accusative; about: Accusative; from someone: Genitive, Ablative, Instrumental)
 **su** 5 U (sunoti) ⟪सु सुनोति⟫ : to press out
 **soma** m. ⟪सोम⟫ : pressed drink, Soma; Moon (Which plant was used to press Soma is still disputed today).
+
 ::: media
+
 ![](/images/lekt0701.webp)
+
 Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 (Image source: [Details](/is/licenses#lekt0701))
+
 :::
+
 **phala** n. ⟪फल⟫ : fruit (also in a figurative sense: the (karmic) fruit of an action)
 **nṛtya** n. ⟪नृत्य⟫ : dance
 **svarga** m. ⟪स्वर्ग⟫ : heaven
@@ -229,10 +271,15 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
+
 ![](/images/lekt0704.webp)
+
 Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
+
 (Uppruni myndar: [Details](/is/licenses#lekt0704))
+
 :::
+
 2. gurus ... khādati (phala)
 ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
@@ -257,7 +304,7 @@ Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
 
 **C) Setjið geranda, andlag og sögn í fleirtölu í æfingasetningum B).**
 
-**D) Setzen Sie ins Ātmanepada:**
+**D) Setjið í Ātmanepada:**
 
 1. sunvanti.
 ⟪सुन्वन्ति⟫ |
@@ -269,15 +316,19 @@ Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
 ⟪यजति⟫ |
 
 ::: media
+
 ![](/images/lekt0702.webp)
+
 Mynd: **yajati** = ⟪यजति⟫ — Vedískar fórnir = **yajña** m. = ⟪यज्ञ⟫
 (Uppruni myndar: [Details](/is/licenses#lekt0702))
+
 :::
+
 **E) Myndið nefnifall (dvitīyā) eintölu og fleirtölu af öllum nafnorðum sem lærð hafa verið hingað til.**
 
-**F) Übersetzen Sie:**
-:::
+**F) Þýðið:**
+
+
 9. What is this holy man chewing?
 10. What are these (here) pressing out?
 11. He is the teacher. One listens to him (= they listen to him).
-

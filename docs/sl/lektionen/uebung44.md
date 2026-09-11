@@ -12,6 +12,7 @@ last_reconstructed: 2026-05-15
 A) Določite in prevedite naslednje oblike:
 
 ::: grammar-box
+
 | Besedna oblika | Določitev | Pomen |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪आदेः⟫ | ⟪आदि⟫ (m.) Abl./Gen. sg. | začetka / od začetka |
@@ -66,7 +67,9 @@ A) Določite in prevedite naslednje oblike:
 | ⟪५०⟫. ⟪चिनुथ⟫ | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | nalagate |
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | udarjate |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | udarjen / ubit |
+
 :::
+
 ---
 
 ## Prevodi
@@ -98,17 +101,22 @@ Tistega, ki je zaničevanja vreden, ne smete sovražiti; in tistega, ki je žele
 Žalujete za tistimi, ki niso žalovanja vredni, in želite govoriti besede modrosti; a modri ne žalujejo niti za mrtvimi niti za živimi.
 
 ::: media
+
 ![](/images/uebung072.webp)
+
 Slika: ⟪मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति⟫
 (Vir slike: [Podrobnosti](/licenses#uebung072))
+
 :::
+
 ---
 
-## Weitere Formbestimmungen → Druge oblike besedilnih oblik
+Druge oblike besedilnih oblik
 
-Bestimmen Sie folgende Wortformen: → Določite naslednje besedne oblike:
+Določite naslednje besedne oblike:
 
 ::: grammar-box
+
 | Wortform | Bestimmung | → | Besedna oblika | Določitev |
 | :--- | :--- | → | :--- | :--- |
 | ⟪१⟫. ⟪वदिता⟫ | ⟪वदितृ⟫ (m.) Nom. sg. | → | ⟪१⟫. ⟪वदिता⟫ | ⟪वदितृ⟫ (m.) Nom. sg. |
@@ -151,10 +159,15 @@ Bestimmen Sie folgende Wortformen: → Določite naslednje besedne oblike:
 | ⟪३८⟫. ⟪पिपूर्मः⟫ | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. | → | ⟪३८⟫. ⟪पिपूर्मः⟫ | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. ⟪कैः⟫ | ⟪किम्⟫ (m./n.) Instr. pl. | → | ⟪३९⟫. ⟪कैः⟫ | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. ⟪कृत्येन⟫ | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. | → | ⟪४०⟫. ⟪कृत्येन⟫ | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. |
+
 :::
+
 ::: media
+
 ![](/images/uebung073.webp)
+
 Slika: ⟪वदिता⟫
 (Vir slike: [Podrobnosti](/licenses#uebung073))
+
 :::
 

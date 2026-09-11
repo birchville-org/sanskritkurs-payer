@@ -366,7 +366,7 @@ Abb.: ⟪स्वतन्त्राः स्त्रियः⟫
 
 :::
 
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Adverb: dag och natt
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
@@ -413,7 +413,7 @@ Abb.: ⟪स्थविराः जोधपुर⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: även: klandervärt
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 

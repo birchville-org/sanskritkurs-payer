@@ -809,6 +809,7 @@ dviṣ 2 U:
 Fig.: ⟪दीपाः⟫
 (Burimi i imazhit: [Detaje](/licenses#lekt1405))
 
+:::
 ::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
@@ -910,6 +911,7 @@ Fig.: ⟪व्याघ्रः⟫
 
 prej kësaj:
 
+:::
 ::: indent
 ⟪मरण⟫ n.: vdekje, humbje jete
 
@@ -979,7 +981,6 @@ Birla Mandir, Delhi
 ⟪शस्त्र⟫ (śastra) n.: vegë prerëse, armë prerëse, shpatë, armë
 
 ⟪शौच⟫ n.: pastrim, pastërti
-:::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : rrotullohem, kthehem, ndodhem ( diku), banoj
 
 ⟪शस्त्र⟫ (śastra) n.: vegë prerëse, armë prerëse, shpatë, armë
@@ -1050,7 +1051,6 @@ prej kësaj:
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : doja
 
 ⟪दिष्ट्या⟫ Instr.: (fjalë për fjalë: përmes një fati të mirë) O fat i mirë (Thirrje gëzimi dhe lumturie)
-:::
 
 ## Mësimi 18
 
@@ -1429,6 +1429,7 @@ davon:
 ::: indent
 **⟪शक्ति⟫ f.:** aftësia, zotësia, fuqia, forca; gjithashtu: fuqi hyjnore, e personifikuar si shoqëruese femërore veçanërisht e ⟪शिव⟫
 
+:::
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: një i denjëm. Në budizëm dhe xainizëm: dikush që ka arritur çlirimin përfundimtar
 :::
@@ -1829,6 +1830,7 @@ from that:
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
+:::
 ## Lesson 27
 
 
@@ -1899,7 +1901,6 @@ from that:
 counterpart to ⟪हर⟫:
 
 ⟪हरि⟫ 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
-:::
 
 ## Mësimi 28
 
@@ -2869,7 +2870,6 @@ p.sh.
 ⟪अभि⟫ : për-, pas - në, drejt - nga, drejt - në, kundrejt, brenda - brenda, në lidhje me, mbi, te
 
 ⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : përshëndet formalisht, i drejtohet dikujt
-:::
 ⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : ndjen rezistencë, zhduket
 
 ::: indent
@@ -3866,6 +3866,7 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
+:::
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
@@ -4004,6 +4005,7 @@ e.g.
 Abb.: [⟪भोः⟫](/licenses#lekt4611)
 (Fontes imaginis: [Detalje](/licenses#lekt4611))
 
+:::
 ::: media
 ![](/images/lekt4802.webp)
 Fig.: ⟪तन्त्रम्⟫
@@ -4573,7 +4575,6 @@ Gjarpër zinxhir (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 ⟪कलत्र⟫ **Neutër**: grua, femel
 
 ⟪बन्दी⟫ f.: e burgosur, plaçkë
-:::
 ⟪सायक⟫ m.: shiguri
 
 ⟪उत्साद⟫ m.: shkatim

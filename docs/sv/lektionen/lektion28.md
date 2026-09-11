@@ -155,6 +155,7 @@ Result: ⟪रामः स्मरति⟫ = "Rāma remembers"
 **⟪कृ⟫ "to do, to make"**
 **Ātmanepadakausativ zu ⟪दृश्⟫**
 
+:::
 ::: grammar-box
 
 **The following causatives can be constructed according to both Schema 1 and Schema 2:**
@@ -247,7 +248,7 @@ Beispiele:
 
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
 
-**Kommt vor.**
+**Förekommer i.**
 
 :::
 
@@ -262,7 +263,6 @@ Beispiel:
 **han** : Kaus. **ghātayati**¹ "låta slå ihjäl, döda"
 **pā** 2 "vårda": **pālayati**² "föra över, rädda, skydda"
 
-:::
 
 Anmärkningar:
 1. **ghātayati** är i verkligheten ett verb som är avlett från substantivet **ghāta** m. "slag" (denominativum) och används istället för kausativum av **han**.
@@ -306,6 +306,7 @@ Example:
 **Causative stem ending in -ay- (without final a) + -i- + -ta**
 
 
+:::
 ## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) for the Causative
 
 ::: grammar-box
@@ -376,7 +377,7 @@ Beispiel:
 
 :::
 
-## 28.9. Den 10:e presensklassen (⟪चुरादि⟫ = ⟪चुर्⟫ o.s.v.)
+## 28.9. Den 10:e presensklassen (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
 ::: grammar-box
 
@@ -444,7 +445,7 @@ Inf. **kāmayitum** / **kamitum**
 
 Abb.: ⟪कृष्णो राधां कामयति⟫
 
-Gemälde von ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+Målning av ⟪राजा रवि वर्मा⟫ (1848 - 1906)
 (Bildkälla: [Details](/sv/licenses#lekt2804))
 
 :::

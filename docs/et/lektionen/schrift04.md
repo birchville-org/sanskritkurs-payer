@@ -14,7 +14,7 @@ Pange tähele hṛ kohustuslikku kirjapilti: ⟪हृ⟫
 
 ## Übung
 
-A) Schreiben Sie in Devanāgarī:
+A) Kirjutage Devanāgarīs:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 

@@ -30,7 +30,7 @@ Ved skrivning fuldføres hver bogstav inklusive vandret streg til den øverste l
 
 ## Øvelse
 
-Schreiben Sie in Devanāgarī:
+Skriv på devanagari:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Læs og transliterer:
 Yderligere læseøvelse:
 
 ⟪पिता⟫ far, ⟪कपि⟫ abe, ⟪कृत⟫ gjort,  ⟪टीका⟫ subkommentar, ⟪तत्⟫ dette, ⟪तट⟫ breddegrad, ⟪पत्⟫ skyde afsted, ⟪पट⟫ væv, ⟪काच⟫ glas,  ⟪काकुत्⟫ ganen, ⟪चित्⟫ opfatte, ⟪पृच्⟫ blande,  ⟪पोटक⟫ tjener, ⟪चेतु⟫ hensigt, ⟪तौतातित⟫ tilhænger af Kumārila (Mīmāṃsā), ⟪तूत⟫ mulbærtræ, ⟪पीत⟫ drukket,  ⟪पीति⟫ drikke, ⟪कॢप्⟫  passe til, ⟪कृपते⟫ han klager, ⟪पुटी⟫ folder, ⟪चापि⟫ ligeledes, ⟪तोक⟫ afkom, ⟪तृपत्⟫ mæt, ⟪पॄ⟫ fylde, ⟪कृकाटी⟫ halsled, ⟪पूपौ⟫ to kager, ⟪पैतृकी⟫ faderlig (køn), ⟪कौट⟫ bedragersk, ⟪कच⟫ hovedhår, ⟪कुतपे⟫ på gedehårsdækket, ⟪कुचौ⟫ bryst, ⟪चकिता⟫ forskrækket (køn)
-
-

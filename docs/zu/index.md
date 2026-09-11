@@ -31,5 +31,5 @@ Izilimi ziguqulwe ngokuphelele ngokuzenzakalelayo kusuka eJamani ngokusebenzisa 
 **Ukuxhumana & Ukuthatha Inhliziyo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Iwiki Yephrojekthi](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **Abahleli**: Umhleli we-Online ufumaneka ku-[QA](/qa_viewer.html){target="_blank"} (Ukubuka kuphela, Ukufaka igama lomsebenzisi okuvikelwe)
-**Uhlelo Olusebenzayo**: v1.8.3
+**Uhlelo Olusebenzayo**: v1.8.4
 :::

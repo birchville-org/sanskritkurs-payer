@@ -77,7 +77,7 @@ rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूता�
 
 (Gautamadharmasūtra X,7)
 
-Versorging van alle wesens.
+Ukuhlinzekwa kwazo zonke izidalwa.
 
 4\. Izimisebenzi ezikhethekile ze-Vaiśya:
 

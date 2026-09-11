@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪⟪सा ब्राह्मणी नृत्यति ॥⟫⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 चित्र: ⟪⟪का नृत्यति ।⟫⟫
 (छवि स्रोत: [विवरण](/licenses#uebung004))
+
 :::
+
 ---
 
 ## पाठ 6 का पुनरावृत्ति अभ्यास
@@ -420,25 +424,25 @@ E) अनुवाद करें:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+अन्नपूर्णा एक देवी हैं।
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+इतरा एक शूद्र महिला है।
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+तुलाधर एक वैश्य है।
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+माघ एक कवि है।
 
 5\. devyumā.
 
@@ -450,7 +454,7 @@ Māgha ist ein Dichter.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+वेद श्रुति है।
 
 7\. dhenurviśati.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 अभ.: ⟪देवतान्नपूर्णा⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung005))
+
 :::

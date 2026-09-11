@@ -666,48 +666,48 @@ Viikon sananlasku
 
 ## [Oppitunti 52](lektion52)
 
-*   1\. Neutrum of the stems on -i and -u
-*   2\. Nominalbildung
+*   1\. -i- ja -u-vartaloiden neutri
+*   2\. Nominaalimuodostus
 *   2.1. PPP + -vant: Partisiippi menneisyydestä Parasmaipada-äänessä
-*   2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-*   2.3. ⟪तद्धित⟫-Suffix -eya
-*   3\. Adverbialmuodostus: Adverbijälkiliite -śas
-*   4\. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
-*   4.1. cvi-Bildungen
-*   4.2. Suffix -sāt
-*   5\. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-*   6\. Das Zahlwort (⟪सम्ख्या⟫ f.)
-*   6.1. Kardinalzahlen
-*   6.1.1. Zahladjektive (für 1 bis 19)
-*   6.1.2. Zahlsubstantive (für 19ff.)
+*   2.2. ⟪तद्धित⟫-suffiksi -maya / -mayī
+*   2.3. ⟪तद्धित⟫-suffiksi -eya
+*   3\. Adverbiaalimuodostus: Adverbijälkiliite -śas
+*   4\. Verbaalikomposiitit, jotka ilmaisevat, että jostakin tulee jotakin tai se tehdään joksikin, mitä se ei aiemmin ole (⟪अभुततद्भावः⟫)
+*   4.1. cvi-muodostukset
+*   4.2. Suffiksi -sāt
+*   5\. Sanatoistot (⟪द्विरुक्तम्⟫)
+*   6\. Lukusana (⟪सम्ख्या⟫ f.)
+*   6.1. Kardinaaliluvut
+*   6.1.1. Lukusana-adjektiivit (1–19)
+*   6.1.2. Lukusana-substantiivit (19:stä eteenpäin)
 *   6.1.3. Syntaktisia huomioita kardinaaliluvuista
-*   6.2. Ordinalzahlen
-*   6.3. Zahladverbien
-*   6.4. Zahladjektive
+*   6.2. Järjestysluvut
+*   6.3. Lukusana-adverbit
+*   6.4. Lukusana-adjektiivit
 *   6.5. Yhdyssanat, joiden etuosana on kardinaaliluku
-*   7\. Wortliste
-*   8\. Übersetzungsübung
+*   7\. Sanasto
+*   8\. Käännösharjoitus
 *   9\. Tehtävät lukukauden välipäivinä
 
 ## [Oppitunti 53](lektion53)  (Semesterferien)
 
-*   1\. Der Dual (⟪द्विवचन⟫ n.) der Nomina
-*   2\. Dualendungen des Nomen
-*   3\. Konsonanttilopuisten taivutusasteiden duuali
+*   1\. Nominaalien duaali (⟪द्विवचन⟫ n.)
+*   2\. Nominaalien duaalipäätteet
+*   3\. Konsonanttilopuisten taivutusasteiden duaali
 *   3.1. Taivutusasteettomat taivutusasteet
 *   3.2. Taivutusasteiset taivutusasteet
-*   4\. Vokaalilopuisten taivutusasteiden duuali
-*   5\. Dualdvandva
-*   6\. Pronomien duuali
-*   7\. Pronominaladjektive
-*   8\. Unregelmässige Steigerung
-*   9\. Vertaivan -īyas päättyvien adjektiivien taivutus
-*   10\. Metrinen (runomitan oppi)
+*   4\. Vokaalilopuisten taivutusasteiden duaali
+*   5\. Duaalidvandva
+*   6\. Pronomien duaali
+*   7\. Pronominaaliadjektiivit
+*   8\. Epäsäännöllinen vertailu
+*   9\. Vertaavan -īyas päättyvien adjektiivien taivutus
+*   10\. Metriikka (runomitan oppi)
 *   10.1. Metrumin määrittämisen merkitys
-*   10.2. Arten von Metren
+*   10.2. Metrien tyypit
 *   10.3. Tavujen metrisen pituuden määrittäminen
-*   10.4. Der epische Śloka (⟪श्लोक⟫ m.)
-*   11\. Übung
+*   10.4. Eeppinen Śloka (⟪श्लोक⟫ m.)
+*   11\. Harjoitus
 
 ## [Oppitunti 54](lektion54)
 
@@ -840,4 +840,3 @@ Viikon sananlasku
 *   9\. Lähetys sanskritinkielisen kirjallisuuden valtamereelle: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟩
 
 SANSKRITKURSSIN LOPPU
-

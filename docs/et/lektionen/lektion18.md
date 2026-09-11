@@ -234,7 +234,7 @@ Beispiele:
 
 :::
 
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "koos, koos"
 
 Beispiele:
 
@@ -479,6 +479,6 @@ Joonis: ⟪सुगतः गन्धार⟫ 1./2. Jhdt. n. Chr.
 
 C) Give in Sanskrit the definition of Yoga in two ways: once using a compound, once by resolving the compound.
 
-D) Übersetzen Sie:
+D) Tõlgi:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫

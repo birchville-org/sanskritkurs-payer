@@ -46,10 +46,14 @@ Močni vojaki so odšli v brahmansko vas.
 Časti osebno božanstvo zaslužnega vaišje.
 
 ::: media
+
 ![](/images/uebung023.webp)
+
 Slika: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Vir slike: [Podrobnosti](/licenses#uebung023))
+
 :::
+
 ---
 
 ## Sklonilni vzorec
@@ -57,6 +61,7 @@ Slika: ⟪न पशुयज्ञैर्नराः स्वर्गं �
 A) Oblikujte vse dotlej naučene sklonove za naslednje besede kot primere doslej naučenih deklinacijskih razredov.
 
 ::: grammar-box
+
 ⟪१⟫. ⟪नर⟫ (m.)
 
 | Sklon | Enšina | Množina |
@@ -149,7 +154,7 @@ A) Oblikujte vse dotlej naučene sklonove za naslednje besede kot primere doslej
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Ženski spol ⟪गुणवती⟫ se sklanja kot ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -186,7 +191,9 @@ A) Oblikujte vse dotlej naučene sklonove za naslednje besede kot primere doslej
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
+
 :::
+
 ---
 
 ## Dodatne vaje
@@ -216,7 +223,10 @@ Dolžnost vseh je: nenasilje, resničnost, čistost, brez pritoževanja nad svoj
 Palica povzroči pridobitev in varen posedovanje filozofije, vedistike in ekonomije. Vodenje palice je politika.
 
 ::: media
+
 ![](/images/uebung024.webp)
+
 Slika: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Vir slike: [Podrobnosti](/licenses#uebung024))
+
 :::

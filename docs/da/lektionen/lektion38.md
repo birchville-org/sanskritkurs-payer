@@ -62,6 +62,7 @@ Nomina på **-an** samt nomina **-man** hhv. **-van** efter vokal har tre stamme
 *   stærk stamme: ⟪नामान्⟫
 *   mellemste stamme: ⟪नाम⟫
 *   svageste stamme: ⟪नाम्न्⟫
+:::
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -219,7 +220,6 @@ Eksempel:
 ⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Der var engang en konge **ved navn Nala**, den stærke søn af Vīrasena."
 :::
 Selvfølgelig kan man det samme udtrykke med et ⟪बहुव्रीहि⟫:
-:::
 Selvfølgelig kan man det samme udtrykke med et ⟪बहुव्रीहि⟫:
 
 ::: indent

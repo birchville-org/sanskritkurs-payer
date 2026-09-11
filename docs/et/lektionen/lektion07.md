@@ -1,5 +1,5 @@
 ---
-title: "Lektion 7"
+title: "7. õppetund"
 subtitle: "Tegusõnafraas otsese sihitisega"
 lesson_id: 7
 last_reconstructed: 2026-05-07
@@ -112,8 +112,8 @@ If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman*
 
 :::
 
-Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
-z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪एनं यजन्ते⟫ || : "Er ist ein Gott. Man opfert ihm."
+Vormid **enam** (⟪एनम्⟫) jne kuuluvad tüve **enad** (⟪एनद्⟫) juurde, mis moodustab vorme vaid mõnes käändes. Neid kasutatakse **etad** ja **idam** vormide asemel siis, kui tähistatut on eelnevalt juba mainitud.
+nt **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪एनं यजन्ते⟫ || : "Ta on jumal. Talle ohverdatakse."
 
 ### 7.2.2. Akusatiivi (sihitise kääne, dvitīyā f. = ⟪द्वितीया⟫ = "teine käändelõpp") kasutus
 
@@ -161,7 +161,7 @@ nt. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "ja 
 
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. Kesksoo (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 
@@ -327,19 +327,19 @@ Joonis: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = �
 
 **E) Moodustage kõigist seni õpitud nimisõnadest ainsuse ja mitmuse akusatiiv (dvitīyā).**
 
-**F) Übersetzen Sie:**
+**F) Tõlkige:**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
 ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
 ⟪गुरूूंस्तु शृण्वन्ति⟫ |
-3. Śūdras erlangen einen Himmel.
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
-5. Vaiśyafrauen verehren Gottheiten mit Opfern.
-6. Der HERR zürnt.
+3. Šuudrad saavutavad taeva.
+4. Kšatrijad austavad ohvriisandatena jumalannasid ohvritega.
+5. Vaišja naised austavad jumalusi ohvritega.
+6. ISAND vihastab.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ |
-8. Welchem Gott opfert dieser Brahmane?
+8. Millisele jumalale see braahman ohverdab?
 
 ::: media
 

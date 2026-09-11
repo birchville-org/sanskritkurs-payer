@@ -93,7 +93,7 @@ B) Určete a přeložte následující tvary bez pomůcek:
 
 40. ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Ab.Gen.sg. (z) trojsvěta
 
-41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. den
+41. ⟪अहः⟫ - ⟪अहन्⟫ n. Nom.Akk.sg. den, denní doba
 
 42. ⟪जग्मुषः⟫ - ⟪जग्मिवांस् । जगन्वांस्⟫ Part.Perf.P k ⟪गम्⟫ 1P Ab.Gen.sg.m.n.Akk.pl.m. toho, kdo odešel ...
 

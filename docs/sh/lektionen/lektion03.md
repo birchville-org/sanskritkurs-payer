@@ -17,24 +17,33 @@ status: stable
 The following nominal stems, which end in a vowel, also form the Nominative Singular with **-s**:
 
 ::: grammar-box
+
 **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+
 :::
+
 ### 3.1.2. Nominative Singular without ending
 
 The Nominative Singular is formed without an ending:
 
 ::: grammar-box
+
 **Feminines in -ā**: e.g., **devatā** f. "deity" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminines in -ī**: e.g., **devī** f. "goddess" -- Nom. sg.: **devī** = ⟪देवी⟫
+
 :::
+
 ::: important
+
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose Nominative Singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the Nominative Singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+
 :::
 
 ## 3.2. Formation of Feminines from Masculines
 
 ::: grammar-box
+
 **Masculines in -a:**
 **Feminine in -ā**: e.g., **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya woman" = ⟪क्षत्रिया⟫
 **Feminine in -ī**: e.g., **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmin woman" = ⟪ब्राह्मणी⟫
@@ -42,11 +51,13 @@ The Nominative Singular is formed without an ending:
 **Masculines in -u:**
 **Feminine in -ī**: e.g., **sādhu** m. » **sādhvī** f. (good, holy woman) = ⟪साध्वी⟫
 (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
+
 :::
 
 ## 3.3. Nominative Plural Masculine and Feminine
 
 ::: grammar-box
+
 The ending of the Nominative Plural in Masculine and Feminine is **-as**.
 **Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 **Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -56,38 +67,47 @@ The ending of the Nominative Plural in Masculine and Feminine is **-as**.
 **Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 **Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 
-::: grammar-box
-The ending of the Nominative Plural in Masculine and Feminine is **-as**.
-**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
-
-::: grammar-box
-The ending of the Nominative Plural in Masculine and Feminine is **-as**.
-**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
+::: grammar-box
+
+The ending of the Nominative Plural in Masculine and Feminine is **-as**.
+**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+
+:::
+::: grammar-box
+
+The ending of the Nominative Plural in Masculine and Feminine is **-as**.
+**Masculines in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminines in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculines in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminines in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminines in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculines in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminines in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+
+:::
+
 Napomena: **e** je visoki stupanj (**guṇa**) za **i**, **o** je visoki stupanj za **u**.
 
 
 ## 3.4. Vokalni sandhi
 
 ::: grammar-box
+
 **Jednostavni vokali koji se razlikuju samo u duljini ili se ne razlikuju, "spajaju" u odgovarajući dugi vokal:**
 a / -ā + a- / ā- » **-ā-**
 i / -ī + i- / ī- » **-ī-**
 u / -ū + u- / ū- » **-ū-**
 (-ṛ + ṛ- » **-ṝ-**)
+
 :::
+
 npr.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā je božanstvo" = ⟪देवतान्नपूर्णा⟫
@@ -99,18 +119,24 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī je božica" = ⟪देव�
 > (Indrāṇī je supruga boga Indre.)
 
 ::: media
+
 ![](/images/lekt0301.webp)
+
 Slika: Indra i Indrāṇī na slonu Airavati, minijatura, Rājasthān, 1670/80
 (Izvor slike: [Detalji](/sh/licenses#lekt0301))
+
 :::
 
 ::: grammar-box
+
 **Jednostavni vokali (osim -a / -ā) zamjenjuju se odgovarajućim poluglasom ispred ne-sličnih vokala:**
 i / -ī » **-y-**
 u / -ū » **-v-**
 ṛ » **-r-**
 (!! Za ovu pravilo postoje iznimke, posebno za dualne forme !!)
+
 :::
+
 npr.
 
 devī + umā » devy umā "Umā je božica" = ⟪देव्युमा⟫
@@ -118,18 +144,25 @@ devī + umā » devy umā "Umā je božica" = ⟪देव्युमा⟫
 > (Umā je ime za Pārvatī, Šivuovu suprugu)
 
 ::: grammar-box
+
 **-a / -ā ispred ne-sličnog vokala:**
 a / -ā + i- / ī- » **-e-**
 a / -ā + ṛ- » **-ar-**
 a / -ā + e- / ai- » **-ai-**
 a / -ā + o- / au- » **-au-**
+
 :::
+
 Za ovaj sandhi vrijedi sljedeći shematski prikaz:
 
 ::: media
+
 ![](/images/lekt0302.jpg)
+
 (Izvor slike: [Detalji](/sh/licenses#lekt0302))
+
 :::
+
 See later for this so-called caste hierarchy!
 
 e.g.
@@ -140,8 +173,11 @@ e.g.
 ## 3.5. Satzsandhi of -ās
 
 ::: grammar-box
+
 **-ās is replaced by -ā before all voiced sounds.**
+
 :::
+
 e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द्विजा वैश्याः⟫
@@ -163,7 +199,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द�
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Žena Kšatrije.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
@@ -174,10 +210,15 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द�
 **devī** f. = ⟪देवी⟫ : goddess, esp. Durgā f. = ⟪दुर्गा⟫, the wife of Śiva = ⟪शिव⟫.
 
 ::: media
+
 ![](/images/lekt0303.webp)
+
 Abb.: Durgā = ⟪दुर्गा⟫, Orissa
+
 (Image source: [Details](/images/lekt0303))
+
 :::
+
 **sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
@@ -231,4 +272,3 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 5. Pjesnici su učitelji.
 6. Kṣatriyas su dvaput rođeni.
 7. Sveti muškarci su Śūdras.
-

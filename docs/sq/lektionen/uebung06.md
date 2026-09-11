@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Fig.: ⟪का नृत्यति ।⟫
 (Burimi i imazhit: [Detaje](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Ushtrim përsëritës Leksioni 6
@@ -240,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+B) Vendosni në shumës:
 
 1\. brāhmaṇo yajati.
 
@@ -354,7 +358,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+C) Formoni Ātmanepada-n e:
 
 1\. rāmo yajati.
 
@@ -372,7 +376,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+D) Formoni gjininë femërore të:
 
 1\. śūdro nayati.
 
@@ -414,131 +418,131 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+E) Përkthe:
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā është një hyjni.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā ni mwanamke wa Śūdra.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara ni Vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha ni mshairi.
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Umā është një perëndeshë.
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Veda ni Śruti.
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+Lopa hyn.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Caitanya është një mësues.
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+Indrāṇī është një perëndeshë.
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+Mësuesi është një shenjtor.
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+Mësuesi ofron si zot i flijimit.
 
-F) Übersetzen Sie ins Sanskrit:
+F) Përkthe në sanskritisht:
 
-1\. Rāma opfert (als Opferherr).
+1. Rāma sakrifikon (si pronari i sakrificës).
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2. Durgā është një perëndeshë.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3. Mīnākṣī është një perëndeshë.
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4. Ata janë të hutuar.
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5. Rāma është një njeri i shenjtë.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6. Kush është ZOTI?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7\. Indra ni BWANA.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8. Kafshët shtëpiake hyjnë.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. Viṣṇu emanates = Viṣṇu krijon.
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10\. Zweimalgeborene sind gut.
+10. Të lindurit dy herë janë të mirë.
 
 sādhavo dvijātayaḥ.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Burimi i imazhit: [Detaje](/licenses#uebung005))
+
 :::

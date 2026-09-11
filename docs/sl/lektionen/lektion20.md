@@ -374,7 +374,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ ž.: zemlja, tla
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -616,7 +616,7 @@ Karnataka
 
 :::
 
-Über Besitzverhältnisse:
+O lastniških razmerjih:
 
 ::: indent
 

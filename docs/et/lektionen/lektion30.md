@@ -1,5 +1,5 @@
 ---
-title: "Lektion 30"
+title: "Õppetund 30"
 subtitle: '9. oleviku klass (⟪क्र्यादि⟫ = "⟪क्री⟫ jne.")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
@@ -85,9 +85,9 @@ Beispiel:
 
 :::
 
-## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
+## 30.2. Optatiivi (⟪लिङ्⟫) kasutus
 
-Der Optativ wird gebraucht:
+Optatiivi kasutatakse:
 
 ::: grammar-box
 
@@ -111,13 +111,13 @@ Beispiel:
 
 ::: grammar-box
 
-**2. Wenn etwas als**
+**2. Kui midagi tahetakse esitada kui**
 
 *   **möglich**
 *   **wahrscheinlich**
 *   **vermutlich**
 
-**dargestellt werden soll.**
+**tuleb esitada.**
 
 :::
 

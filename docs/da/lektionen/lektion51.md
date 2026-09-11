@@ -45,6 +45,7 @@ Ill.: ⟪भूमिभुज् ज्ञानेन्द्र वीर �
 (Billedkilde: [Details](/da/licenses#lekt5101))
 b) ⟪कृत्⟫-suffiks -t
 
+:::
 ::: indent
 \-⟪कृत्⟫ 3 "gørende" f.eks. ⟪कुलक्षयकृत्⟫ 3 "som bevirker familiens ødelæggelse", ⟪पापकृत्⟫ 3 "ugerningsmand, som gør ondt"
 

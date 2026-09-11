@@ -42,9 +42,9 @@ last_reconstructed: 2026-05-07
 3\. **አስማት ዘእንበለ ፍልጠት ትርጕም እምአስማት መሠረታዊ፡**
 **putraka ተባዕታይ ⟪पुत्रक⟫ = putra ተባዕታይ ⟪पुत्र⟫**
 
-4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
-**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "በ Benares የተወለደ, ከ Benares የመጣ"**
-**rūpa n. "ቅርጽ" » rūpaka 3 ⟪रूपक⟫ "ቅርጽ ያለው"**
+4\. **አስማት ዘይትአምር "ለነገር ስም ዘርእስ ነገር ዘይትአምር":**
+**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "ዘ Benares ተወልደ, እም Benares መጽአ"**
+**rūpa n. "ቅርጽ" » rūpaka 3 ⟪रूपक⟫ "ዘ ቅርጽ አለው"**
 
 :::
 
@@ -101,7 +101,7 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 ![](/images/lekt0903.webp)
 
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
+ስዕሊ: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 
 (ምንጭ ሥዕል፡ [Details](/gez/licenses#lekt0903))
 (የስዕል ምንጭ፡ [Details](/gez/licenses#lekt0903))
@@ -115,7 +115,7 @@ Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tirup
 
 > ![](/images/lekt0902.webp)
 
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
+ስዕሊ: **kāru** = ⟪कारु⟫, Gujarat.
 
 ሥዕል፡ **kāru** = ⟪कारु⟫, Gujarat።
 (ምንጭ ሥዕል፡ [Details](/gez/licenses#lekt0902))
@@ -147,7 +147,7 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 
 ![](/images/lekt0901.webp)
 
-Abb.: **karṣaka** = ⟪कर्षक⟫.
+ስዕሊ: **karṣaka** = ⟪कर्षक⟫.
 
 (ምንጭ ሥዕል፡ [Details](/gez/licenses#lekt0901))
 
@@ -167,34 +167,34 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 19\. darśaka (⟪दर्शक⟫)
 20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:**
+**ለ) ተርጉም:**
 
 1. Aufgaben aller Zweimalgeborenen:
    **ijyādhyayanadānāni**
 ⟪इज्याध्ययनदानानि⟫
 (Yājñavalkyadharmaśāstra I, 118)
 
-2. Spezifische Aufgaben eines Brahmanen:
+2. ፍሉጣት ግብራት ዘብራህማዊ:
    **pravacanayājanapratigrahāḥ**
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 (Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya:
+3. ፍሉጣት ግብራት ዘክሻትሪያ:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = ዘይትአምር (ዘነገር): "ዘኵሉ ፍጥረት"; Gautamadharmasūtra X, 7)
 
-4. Spezifische Aufgaben eines Vaiśya:
+4. ፍሉጣት ግብራት ዘቫይሽያ:
    **kṛṣivāṇijyapāśupālyakusīdam**
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-(nach Gautamadharmasūtra X, 49)
+(በኋላ Gautamadharmasūtra X, 49)
 
-5. Aufgaben eines Śūdra:
+5. ግብራት ዘሹድራ:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
-(nach Kauṭilīya-Arthaśāstra 1.3.8.)
-Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+⟪द्विजातीनां शुश्रūṣā वार्त्ता कारुकुशीलवकर्म च⟫
+(በኋላ Kauṭilīya-Arthaśāstra 1.3.8.)
+ትርጓሜ: dvijātīnām = ዘይትአምር (ዘነገር) ብዙኅ ዘ dvijāti (እዚህ ተርጉም: "በቅድመ እለ ክልኤ ጊዜ ተወልዱ"); kārukuśīlavakarma ውእቱ Tatpuruṣa ምስለ Dvandva (kārukuśīlava) በቅድመ ክፍል. karma = ስም. ነጠላ ዘ karman n. "ግብር, ግብረ, ካርማ" እም ሥር kṛ 8 U). ተርጉም "ግብር / ግብረ ዘ ... (ዘይትአምር)" (በ Dvandva ዘይትአምር).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (በኋላ Kauṭilīya-Arthaśāstra 1.4.1.)

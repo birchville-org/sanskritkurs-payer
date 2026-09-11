@@ -128,6 +128,7 @@ Poniższy werset podsumowuje te znaczenia:
 
 Poniższy werset podsumowuje te znaczenia:
 
+:::
 ::: indent
 ⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 

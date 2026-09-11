@@ -17,24 +17,33 @@ status: stable
 እንዲሁም የሚከተሉት ቃላት፣ በቁም አዲስ የሚጠናቀቁ ናቸው፣ Nominativ Singular በ **-s** ይሰራል:
 
 ::: grammar-box
+
 **Feminina በ -i**: ምሳሌ፣ **śruti** f. "ማድመቅ" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 **Feminina በ -u**: ምሳሌ፣ **dhenu** f. "የወተት አንበሳ" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+
 :::
+
 ### 3.1.2. Nominativ Singular ሳይጨምር
 
 Nominativ Singular በሳይጨምር ይሰራል:
 
 ::: grammar-box
+
 **Feminina በ -ā**: ምሳሌ፣ **devatā** f. "እጆ" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminina በ -ī**: ምሳሌ፣ **devī** f. "እጆ" -- Nom. sg.: **devī** = ⟪देवी⟫
+
 :::
+
 ::: important
+
 **ማስጠንቀቂያ!** በተጨማሪም አንድ-አስርት የሆኑ ፈረንሳይ ቃላት በ -ī የሚጠናቀቁ ናቸው፣ Nominativ Singular በ -s ይሰራል: ምሳሌ፣ dhī f. "አስተላላፊ" -- Nom. sg.: dhīs = ⟪धीस्⟫. እንዲሁም lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "መንገድ" እና tantrī (⟪तन्त्री⟫) f. "መስመር" በተለየ መልኩ Nominativ Singular በ -s ይሰራል: lakṣmīs = ⟪लक्ष्मीस्⟫.
+
 :::
 
 ## 3.2. የፈረንሳይ ቃላት ከ ጠባቂ ቃላት
 
 ::: grammar-box
+
 **ጠባቂ ቃላት በ -a:**
 **ፈረንሳይ ቃል በ -ā**: ምሳሌ፣ **kṣatriya** m. » **kṣatriyā** f. "የ kṣatriya ሴት" = ⟪क्षत्रिया⟫
 **ፈረንሳይ ቃል በ -ī**: ምሳሌ፣ **brāhmaṇa** m. » **brāhmaṇī** f. "የ brāhmaṇa ሴት" = ⟪ब्राह्मणी⟫
@@ -42,11 +51,13 @@ Nominativ Singular በሳይጨምር ይሰራል:
 **ጠባቂ ቃላት በ -u:**
 **ፈረንሳይ ቃል በ -ī**: ምሳሌ፣ **sādhu** m. » **sādhvī** f. (ጥሩ፣ ቅዱስ) = ⟪साध्वी⟫
 (**-u-** በቁም አዲስ ሳይሆን **-v-** ይሆናል፣ ስለዚህ **-u- + -ī** » **-vī**)
+
 :::
 
 ## 3.3. Nominativ Plural ጠባቂ ቃላት እና ፈረንሳይ ቃላት
 
 ::: grammar-box
+
 የ Nominativ Plural መጨረሻ በ ጠባቂ ቃላት እና ፈረንሳይ ቃላት **-as** ነው።
 **ጠባቂ ቃላት በ -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 **ፈረንሳይ ቃላት በ -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -55,19 +66,24 @@ Nominativ Singular በሳይጨምር ይሰራል:
 **ፈረንሳይ ቃላት በ -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 **ጠባቂ ቃላት በ -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 **ፈረንሳይ ቃላት በ -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+
 :::
+
 ማስታወሻ፡ **e** ከ **i** የግቢ ደረጃ (**guṇa**) ሲሆን **o** ደግሞ ከ **u** የግቢ ደረጃ ነው።
 
 
 ## 3.4. የቃላት መገጣጠም (Vokalsandhi)
 
 ::: grammar-box
+
 ተመሳሳይ ያልሆኑ ወይም በረጅምነት ብቻ የሚለያዩ ቀላል ቃላት ከተገናኙ ወደ ተዛማጅ ረጅም ቃል ይቀየራሉ፡
 a / -ā + a- / ā- » **-ā-**
 i / -ī + i- / ī- » **-ī-**
 u / -ū + u- / ū- » **-ū-**
 (-ṛ + ṛ- » **-ṝ-**)
+
 :::
+
 ለምሳሌ
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā አምላክ ናት" = ⟪देवतान्नपूर्णा⟫
@@ -79,18 +95,24 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī አምላክ ናት" = ⟪�
 > (Indrāṇī የአምላክ ኢንድራ ሚስት ናት።)
 
 ::: media
+
 ![](/images/lekt0301.webp)
+
 ስዕል፡ ኢንድራ እና ኢንድራኒ በአይራቫታ ላይ፣ ማጎሪያ ስዕል፣ ራጃስታን፣ 1670/80
 (የስዕል ምንጭ፡ [ዝርዝር](/am/licenses#lekt0301))
+
 :::
 
 ::: grammar-box
+
 **ቀላል ቃላት (ከ -a / -ā በስተቀር) ከተለያዩ ቃላት በፊት በተዛማጅ ግማሽ-ቃል ይተካሉ፡**
 i / -ī » **-y-**
 u / -ū » **-v-**
 ṛ » **-r-**
 (!! ለዚህ ህግ በተለይም ለድርጅት ቅርጾች (Dualformen) ልዩነቶች አሉ !!)
+
 :::
+
 ለምሳሌ
 
 devī + umā » devy umā "Umā አምላክ ናት" = ⟪देव्युमा⟫
@@ -98,55 +120,64 @@ devī + umā » devy umā "Umā አምላክ ናት" = ⟪देव्युम�
 > (Umā ለፓርቫቲ ስም ነች፣ የሽቪያ ሚስት)
 
 ::: grammar-box
+
 **-a / -ā ከተለያዩ ቃላት በፊት፡**
 a / -ā + i- / ī- » **-e-**
 a / -ā + ṛ- » **-ar-**
 a / -ā + e- / ai- » **-ai-**
 a / -ā + o- / au- » **-au-**
+
 :::
+
 ስለዚህ ለዚህ Sandhi የሚከተለውን ቅደም ተከተል እንጠቀማለን፡
 
 ::: media
+
 ![](/images/lekt0302.jpg)
+
 (የስዕል ምንጭ፡ [ዝርዝር](/am/licenses#lekt0302))
+
 :::
+
 Zu dieser sog. Stammabstufung siehe später!
 
 z.B.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "ኢታራ የሹድራ ሴት ናት" = ⟪शूद्रेतरा⟫
 
-
-## 3.5. Satzsandhi von -ās
+## 3.5. የ -ās ዓረፍተ ነገር ሳንዲ
 
 ::: grammar-box
+
 **-ās በሁሉም ድምፃዊ ድምፆች ፊት በ -ā ይተካል (Kielhorn)።**
+
 :::
+
 z.B.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "ቫይሽያዎች ሁለት ጊዜ የተወለዱ ናቸው" = ⟪द्विजा वैश्याः⟫
 
 
 ## 3.6. Wortliste
 
-**Lernen Sie folgende Wörter:**
+**የሚከተሉትን ቃላት ይማሩ:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
+**śruti** ሴ. = ⟪श्रुति⟫ : መስማት፣ ዘላለማዊው ትውፊት (ለቬዳዎች እና ብራህማናዎች መጠሪያ)።
 
-**smṛti** f. = ⟪स्मृति⟫ : ማስታወስ፣ ትውስታ፣ ትውፊት (ከ **śruti** ተቃራኒ) (Kielhorn)። ያጠቃልላል፡
-die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-2. **chandas** n. (⟪छन्दस्⟫): Metrum
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-**dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-die **purāṇa** n. (⟪पुराण⟫)
-**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
+**smṛti** ሴ. = ⟪स्मृति⟫ : ማስታወስ፣ ትውስታ፣ ትውፊት (ከ **śruti** ተቃራኒ) (Kielhorn)። ያጠቃልላል፡
+ስድስቱ **vedāṅga** ገ. (⟪वेदाङ्ग⟫)
+1. **śikṣā** ሴ. (⟪शिक्षा⟫): ትክክለኛ አነባበብ
+2. **chandas** ገ. (⟪छन्दस्⟫): ሜትር
+3. **vyākaraṇa** ገ. (⟪व्याकरण⟫): ሰዋሰው
+4. **nirukta** ገ. (⟪निरुक्त⟫) : የቃላት ማብራሪያ፣ ሥርወ ቃል
+5. **jyotiṣa** ገ. (⟪ज्योतिष⟫) : አስትሮኖሚ፣ የቀን መቁጠሪያ ትምህርት
+6. **kalpa** ተባ. (⟪कल्प⟫) : ሥነ ሥርዓት
+**śrautasūtra** ገ. (⟪श्रौतसूत्र⟫) : ታላላቅ መስዋዕቶችን ለመፈጸም የሚያገለግሉ የማስተማሪያ መጻሕፍት
+**gṛhyasūtra** ገ. (⟪गृह्यसूत्र⟫) : የዕለት ተዕለት ሕይወት ሥነ ሥርዓቶች እና መስዋዕቶች የማስተማሪያ መጻሕፍት
+**dharmasūtra** ገ. (⟪धर्मसूत्र⟫) እና **dharmaśāstra** ገ. (⟪धर्मशास्त्र⟫) : ስለ ሕግና ሥነ ምግባር (ትክክለኛ ባህሪ) የማስተማሪያ መጻሕፍት
+ታላላቅ ኢፒኮች **mahābhārata** ገ. (⟪महाभारत⟫) እና **rāmāyaṇa** ገ. (⟪रामायण⟫)
+**purāṇa** ገ. (⟪पुराण⟫)
+**nītiśāstra** ገ. (⟪नीतिशास्त्र⟫) : የሕይወት ጥበብ የማስተማሪያ መጻሕፍት
 
 **smṛti** በተለይ ለዳርማ መጻሕፍት መጠሪያ ነው (Kielhorn)።
 
@@ -159,10 +190,14 @@ die **purāṇa** n. (⟪पुराण⟫)
 **devī** ሴ. = ⟪देवी⟫ : አምላክ፣ በተለይ ዱርጋ ሴ. = ⟪दुर्गा⟫፣ የሺቫ ሚስት = ⟪शिव⟫
 
 ::: media
+
 ![](/images/lekt0303.webp)
+
 ስዕል፡ ዱርጋ = ⟪दुर्गा⟫ ኦሪስሳ
 (የስዕል ምንጭ፡ [ዝርዝሮች](/images/lekt0303))
+
 :::
+
 **sādhvī** ሴ. = ⟪साध्वी⟫ : ሴታዊ ንጽህና
 
 **gurvī** ሴ. = ⟪गुर्वी⟫ : ሴታዊ ንጽህና
@@ -216,4 +251,3 @@ die **purāṇa** n. (⟪पुराण⟫)
 5. Poets are teachers.
 6. Kṣatriyas are twice-born.
 7. The holy men are Śūdras.
-

@@ -1,6 +1,6 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: 42. lecke
+subtitle: "-ṛ végű tövek"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,6 +14,7 @@ status: stable
 ### 42.1.1. A erős ragozásban nyújtott szótagú tövek
 
 ::: grammar-box
+
 Minden -ṛ végű nemű névszó, kivéve az 1.3-ban felsorolt rokonsági neveket. Ide tartoznak a következő rokonsági nevek is:
 
 *   ⟪नप्तृ⟫ m. "unoka"
@@ -29,12 +30,17 @@ Ide tartozó főnevek nagy részét a ⟪कृत्⟫-suffixummal képzett -�
     *   **mássalhangzó előtt: -ṛ**
 
 Vegye figyelembe a szabálytalan képzéseket (**pirossal** jelölve)!
+
 :::
+
 Nem:
 
 ::: indent
+
 ⟪दातृ⟫ m. "Adó"
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -48,16 +54,21 @@ Nem:
 | ⟪सप्तमी⟫ | :sig[⟪दातरि⟫] | ⟪दातृषु⟫ |
 
 :::
+
 A szabálytalan képzések magyarázatához lásd Thumb-Hauschild I,2 S. 76 -81
 
 Nőnem:
 
 ::: indent
+
 ⟪स्वसृ⟫ f. úgy declines, mint ⟪दातृ⟫, kivéve a többes számú accusativust (⟪द्वितीया⟫): :sig[⟪स्वसॄस्⟫].
+
 :::
+
 ### 42.1.2. Névalkotás: ⟪कृत्⟫-suffixum -⟪तृ⟫
 
 ::: grammar-box
+
 A nagyon gyakori ⟪कृत्⟫-suffixum -⟪तृ⟫ segítségével agentis neveket (a ⟪कर्तृ⟫ megnevezéseit) képezünk szinte minden gyökérhez vagy kausatív törzshez.
 
 **Képzés:**
@@ -67,10 +78,13 @@ A nagyon gyakori ⟪कृत्⟫-suffixum -⟪तृ⟫ segítségével agent
 vagy
 
 *   **magas fokú Tő / Kausatív alap + i + tṛ**
+
 :::
+
 Példák:
 
 ::: indent
+
 ⟪कर्तृ⟫ m. "cselekvő"
 
 ⟪जेतृ⟫ m. "győztes"
@@ -80,23 +94,32 @@ Példák:
 ⟪रक्षितृ⟫ m. "védő"
 
 ⟪बोधयितृ⟫ m. "Ébresztő"
+
 :::
+
 ::: media
+
 ![lekt4201.jpg](/images/lekt4201.jpg)
+
 Ábra: ⟪अयं⟫ ⟪बोधयिता⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4201))
+
 :::
 
 ::: grammar-box
+
 Ritkán előforduló -⟪तृ⟫ végű középnemű szavaknak van egy részben önálló ragozásuk (lásd Kielhorn, Grammatik § 148).
 
 A -⟪तृ⟫ végű tövekhez tartozó nőnemek -⟪त्री⟫ végűek (mint ⟪देवी⟫).
 
 pl. ⟪कर्त्री⟫ f. "Cselekvőnő"
+
 :::
+
 ### 42.1.3. Magas fokú tövek az erős ragozásban
 
 ::: grammar-box
+
 Ide tartoznak a következő rokonsági megnevezések:
 
 *   ⟪पितृ⟫ m. "atya"
@@ -113,14 +136,19 @@ Ide tartoznak a következő rokonsági megnevezések:
 *   **gyenge tő**
     *   **magánhangzó előtt: -r**
     *   **mássalhangzó előtt: -ṛ**
+
 :::
+
 Példák:
 
 ::: indent
+
 ⟪पितृ⟫ m. "Apa"
 
 ⟪मातृ⟫ f. "Anyja"
+
 :::
+
 ::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
@@ -130,14 +158,18 @@ Példák:
 | Továbbá mint ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
+
 ### 42.1.4. -ṛ végződésű törzsek összetételekben
 
 ::: grammar-box
+
 Mint egy összetétel első tagja, a -ṛ végződésű főnevek természetesen gyenge tökében állnak, azaz:
 
 *   **mássalhangzó előtt: -ṛ**
 *   **magánhangzó előtt: -r**
+
 :::
+
 ## 42.2. Szószedet
 
 ⟪प्रकृति⟫ f.: (a ⟪कृ⟫ + ⟪प्र⟫ szavakból) alapforma, természetes állapot, természet; elsődleges anyag, eredeti elem
@@ -147,8 +179,11 @@ Mint egy összetétel első tagja, a -ṛ végződésű főnevek természetesen 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : tartózkodni valamitől, elállni valamitől, távol maradni, megmaradni, állni
 
 ::: indent
+
 PPP ⟪अवस्थित⟫ 3: álló, található
+
 :::
+
 ⟪पुरा⟫ Adv.: egykor, régen
 
 ⟪अनेक⟫ 3: sok (nem néhány)
@@ -170,6 +205,7 @@ PPP ⟪अवस्थित⟫ 3: álló, található
 ⟪चल्⟫ 1P ⟪चलति⟫ : mozgásba jön
 
 ::: indent
+
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -177,7 +213,9 @@ Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
+
 :::
+
 ⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: hiúság, büszkeség
@@ -197,6 +235,7 @@ Inf. ⟪चलितुम्⟫
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : dicsérni, parancsolni
 
 ::: indent
+
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,16 +243,22 @@ Kaus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
+
 :::
+
 ⟪हृदय⟫ n.: szív
 
 ### 42.2.1. Néhány rokonsági megnevezés
 
 ::: media
+
 ![lekt4202.jpg](/images/lekt4202.webp)
+
 Ábra: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4202))
+
 :::
+
 ⟪भर्तृ⟫ m. (a ⟪भृ⟫ "hordoz, fenntart" szóból): tartó, eltartó, férj
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: feleség (⟪भार्या⟫ = gerundívum a ⟪भृ⟫ -hoz: hordandó, fenntartandó, eltartásra jogosult)
@@ -274,17 +319,25 @@ Fordítsa le:
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
 ::: media
+
 ![lekt4203.jpg](/images/lekt4203.webp)
+
 Ábr.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4203))
+
 :::
+
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![lekt4204.jpg](/images/lekt4204.webp)
+
 Ábra: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Képmeghatározás: [Részletek](/hu/licenses#lekt4204))
+
 :::
+
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
@@ -310,10 +363,14 @@ Fordítsa le:
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः⟫ ⟪श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
+
 ![lekt4208.jpg](/images/lekt4208.webp)
+
 Ábra: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4208))
+
 :::
+
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
@@ -325,17 +382,25 @@ A **pirossal** kiemelt kifejezések magyarázata:
 :sig[⟪सीता⟫] f. Saját név: a király leánya, ⟪जनक⟫, ⟪विदेह⟫. A földből jött elő, amikor a király egyszer aratott, ezért neve: :sig[⟪सीता⟫] f. "Aratás"
 
 ::: media
+
 ![lekt4205.jpg](/images/lekt4205.webp)
+
 Kép: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4205))
+
 :::
+
 ⟪मिथिला⟫ f. Saját név: fővárosa ⟪विदेह⟫
 
 ::: media
+
 ![lekt4206.jpg](/images/lekt4206.webp)
+
 Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4206))
+
 :::
+
 ⟪जनक⟫ m. Saját név: király ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Komparatív a szinonimákhoz ⟪गुरु⟫ 3: nehéz, nagyon nehéz
@@ -349,10 +414,14 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ⟪रावण⟫ Férfi nemű sajátnév; :sig[⟪लङ्का⟫] uralkodója, a ⟪राक्षस⟫ uralkodója.
 
 ::: media
+
 ![lekt4207.jpg](/images/lekt4207.webp)
+
 Ábra: ⟪रावणः⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt4207))
+
 :::
+
 ⟪अयोध्या⟫ f. Saját név: fővárosa ⟪कोसल⟫ (lásd a fenti térképet!)
 
 ⟪दशरथ⟫ m. Saját név: királya ⟪कोसल⟫
@@ -364,4 +433,3 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 :sig[⟪विश्वामित्र⟫] m. Saját név: ⟪ऋषि⟫, kirendelte ⟪राम⟫ és ⟪लक्ष्मन⟫, hogy öljék meg a démonokat; ezért varázsfegyvereket kapnak tőle.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.kettes szám (dualis) to ⟪सीताराम⟫
-

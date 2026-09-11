@@ -48,6 +48,7 @@ Umdlali wezitha akazithandi izitha, nakuba eyabulala. Kodwa-ke, ophulwe yizitha,
 Isithombe: ⟪हतान्धकारा दीपाः⟫
 (Umthombo wesithombe: [Imininingwane](/licenses#uebung033))
 
+:::
 ::: media
 ![](/images/lekt2204.webp)
 Isithombe: ⟪अन्नं पक्त्वा⟫

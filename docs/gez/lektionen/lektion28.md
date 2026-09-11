@@ -237,7 +237,7 @@ Beispiele:
 
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
 
-**Kommt vor.**
+**ይትረከብ።**
 
 :::
 
@@ -410,9 +410,9 @@ PPP **vinna** / **vitta**
 
 ::: indent
 
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: ተምህረ፣ ቃል በቃል አጥንዐ
+አስገዳጅ ግስ **adhyāpayati**: አስተምሀረ፣ አጥነዐ
+እምዝንቱ፡ **adhyayana** ተባዕታይ፡ ትምህርት (በተለይ ዘቬዳ)፤ **adhyāya** ተባዕታይ፡ ትምህርት፣ ምዕራፍ (ክፍል ለቃል በቃል መማር)
 
 :::
 
@@ -431,7 +431,7 @@ Inf. **kāmayitum** / **kamitum**
 
 ![](/images/lekt2804.webp)
 
-Abb.: ⟪कृष्णो राधां कामयति⟫
+ስዕሊ: ⟪कृष्णो राधां कामयति⟫
 
 ስዕላት ከም ⟪राजा रवि वर्मा⟫ (1848 - 1906)
 (ምንጪ ስዕላት: [Details](/gez/licenses#lekt2804))
@@ -463,7 +463,7 @@ Inf. **coritum**
 
 ![](/images/lekt2803.webp)
 
-Abb.: ⟪वीणां वादयति⟫
+ስዕሊ: ⟪वीणां वादयति⟫
 
 Vīṇā-Spielerin.
 (ምንጪ ስዕላት: [Details](/gez/licenses#lekt2803))
@@ -476,7 +476,7 @@ Vīṇā-Spielerin.
 
 ![](/images/lekt2805.webp)
 
-Abb.: ⟪बाला भारं हरति⟫
+ስዕሊ: ⟪बाला भारं हरति⟫
 
 ኣንስቲ ጽዕነት ትሸከም። ኣብ Ahmedabad።
 (ምንጪ ስዕላት: [Details](/gez/licenses#lekt2805))

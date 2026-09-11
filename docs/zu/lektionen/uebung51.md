@@ -60,7 +60,7 @@ Umfanekiso: Jäger
 
 ---
 
-## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
+## ⟪४⟫. Amazwana ka-⟪भानुचन्द्र⟫ (Ikhulu le-⟪१६⟫)
 
 Amazwana esigabeni esandulele se-⟪कादम्बरी⟫:
 

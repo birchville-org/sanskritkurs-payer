@@ -95,7 +95,7 @@ _Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ z
 > Wazama, waze waphuma ekhaya ukuze abone u-Rāvaṇa. Ukumkani wamubona efika, wazuka kancane esihlalweni sakhe.
 \>
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
-> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (im Aor. auch P!)  
+> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (ku-Aor. futhi P!)  
 > ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
 > ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1
 

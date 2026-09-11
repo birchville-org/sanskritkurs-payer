@@ -220,6 +220,7 @@ sa guruḥ. enaṃ śṛṇvanti.
 Fig.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 (Image source: [Details](/licenses#uebung006))
 
+:::
 ::: media
 ![](/images/lekt2204.webp)
 Isithombe: ⟪अन्नं पक्त्वा⟫

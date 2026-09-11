@@ -82,7 +82,7 @@ davon:
 
 ::: indent
 
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: Ukungabi nabugovu
 
 :::
 

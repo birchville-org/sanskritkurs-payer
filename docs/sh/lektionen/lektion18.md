@@ -174,7 +174,6 @@ Examples:
 ⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : utter, designate as, declare for
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : praise before, loudly praise, come to speak of something, begin
-:::
 ⟪वि⟫ "apart, away, apart-, asunder-"
 
 Examples:
@@ -267,6 +266,7 @@ Abb.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: beginning, start
 
+:::
 ## 18.5. Exercise
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.

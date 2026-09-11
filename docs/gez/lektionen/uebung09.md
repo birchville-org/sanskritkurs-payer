@@ -11,13 +11,13 @@ last_reconstructed: 2026-05-15
 
 ሀ) ተንሥኡ ከመ ትርእዩ ዘይከአል ትርጓሜ ዘዝንቱ ቃላት:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : ተባዕታይ። ዘበራህማናዊ ዘምስል፡ ወዘይከውን ብራህማናዊ እኩይ።
 
 2\. mati ⟪मति⟫ : f. Meinung
 
 3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : ተባዕታይ። (ግብረ ስጋ) ከመ ላሕም።
 
 5\. jayaka ⟪जयक⟫ : 3 siegreich
 
@@ -27,7 +27,7 @@ last_reconstructed: 2026-05-15
 
 8\. kleśa ⟪क्लेश⟫ : m. Qual
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : ንኡስ። ኵነኔ ዘፍቅርት።
 
 ፲. tantraka ⟪तन्त्रक⟫ : ፫ (በቀጥታ) እምመሥረተ ንስር / እምመሥረተ ንስር ዘመጽአ = ሐዲስ ንሱር
 
@@ -51,7 +51,7 @@ last_reconstructed: 2026-05-15
 
 ፳. kopaka ⟪कोपक⟫ : ፫ ዘየዐብድ በቅልጥፍና፣ ቍጡዐ
 
-B) Übersetzen Sie:
+ለ) ተርጕም፡
 
 1\. Aufgaben aller Zweimalgeborenen:
 

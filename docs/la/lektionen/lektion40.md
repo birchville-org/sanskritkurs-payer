@@ -433,6 +433,7 @@ Ut pars prior compositorum pro his pronomini bus stant radices:
 
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ordinem rectum habere, convenire (Loc.) ; se formare, se constituere ; ad aliquid se determinare, se accommodare (Dat.)
 
+:::
 ::: indent
 Perf. II ⟪चकॢपे⟫ facultīvum ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  

@@ -195,4 +195,4 @@ Explanation: dvijātīnām = Genitive plural of dvijāti ("towards the twice-bor
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (enligt Kauṭilīya-Arthaśāstra 1.4.1.)

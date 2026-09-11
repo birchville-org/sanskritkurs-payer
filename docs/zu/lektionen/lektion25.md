@@ -325,7 +325,7 @@ davon:
 
 ⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Isihlanganiso: uma
 
 ⟪न्याय⟫ m.: umthetho, isimiso, indlela, isahlulelo (somthetho), ingqondo (kusuka ku-ni + i + a)
 

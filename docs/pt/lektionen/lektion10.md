@@ -225,13 +225,13 @@ p. ex. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : má ação, mal (oposto de **puṇya**)
 - **satya** n. ⟪सत्य⟫ : verdade
 
-:::: note-box
+::: note-box
 Na Índia, atribuía-se poder mágico à palavra verdadeira; de fato, toda a ordem do mundo é mantida e criada pela palavra verdadeira. Para esta importante concepção, veja a obra fundamental:
 
+:::
 ::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editado postumamente por Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e o Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)

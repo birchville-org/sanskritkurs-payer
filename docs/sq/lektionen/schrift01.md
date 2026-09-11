@@ -30,7 +30,7 @@ Gjatë shkrimit, çdo shkronjë përfundohet plotësisht përfshirë vijën hori
 
 ## Ushtrimi
 
-Schreiben Sie in Devanāgarī:
+Shkruani në Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Lexoni dhe transliteroni:
 Ushqim shtesë leximi:
 
 ⟪पिता⟫ baba, ⟪कपि⟫ majmun, ⟪कृत⟫ bërë,  ⟪टीका⟫ nënkoment, ⟪तत्⟫ ky, ⟪तट⟫ breg, ⟪पत्⟫ qëllim, ⟪पट⟫ pëlhurë, ⟪काच⟫ qelq,  ⟪काकुत्⟫ gozhda, ⟪चित्⟫ perceptoj, ⟪पृच्⟫ përziej,  ⟪पोटक⟫ shërbëtor, ⟪चेतु⟫ qëllim, ⟪तौतातित⟫ ndjekës i Kumārila-s (Mīmāṃsā), ⟪तूत⟫ morë, ⟪पीत⟫ pirë,  ⟪पीति⟫ pije, ⟪कॢप्⟫  përputhet, ⟪कृपते⟫ ai ankohet, ⟪पुटी⟫ rrudhë, ⟪चापि⟫ i njëjti, ⟪तोक⟫ pasardhës, ⟪तृपत्⟫ i ngopur, ⟪पॄ⟫ mbush, ⟪कृकाटी⟫ nyja e qafës, ⟪पूपौ⟫ dy bukë, ⟪पैतृकी⟫ babanor (fem.), ⟪कौट⟫ mashtrues, ⟪कच⟫ flokë kryeje, ⟪कुतपे⟫ në shtratin e qimeve të dhisë, ⟪कुचौ⟫ gjoks, ⟪चकिता⟫ i frikësuar (fem.)
-
-

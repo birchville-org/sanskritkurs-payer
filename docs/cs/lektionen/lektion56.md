@@ -100,7 +100,6 @@ Samohláska - první následující souhláska (případně její v reduplikačn
 
 
 Samohláska - první souhláska - druhá souhláska (náhrada) - i - druhá souhláska
-:::
 ::: indent
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplikovaná slabika ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplikovaná slabika ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplikovaná slabika ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
@@ -153,7 +152,6 @@ Příklady:
 ⟪मा कर्महेतुर्भूः⟫ "Nestaň se tím, kdo je motivován plodem činu!" (injunktiv aoristu) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Nestaň se nemužným!" (injunktiv aoristu) (⟪भगवद्गीता⟫ 2,3a)
-:::
 ::: media
 ![](/images/lekt5602.webp)
 Obr.: ⟪क्लैब्यं मा स्म गमः⟫
@@ -172,7 +170,6 @@ např. ⟪अलं विषादेन⟫ "Dost na zoufalství! = Přestaň b
 
 Kromě toho existují další, vzácnější tvary záporných rozkazovacích vět, viz např.
 
-:::
 ::: indent
 Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntaxe. -- Leyden : Brill, 1886. -- § 353.
 :::

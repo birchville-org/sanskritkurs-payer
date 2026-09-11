@@ -43,7 +43,7 @@ usw.
 
 :::
 
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## ፲፭.፫. መስተጻምራት ዘርእስ ስም ወዘርእስ ጸባብይ = ከርመዳራየ ተባዕታይ = ⟪कर्मधारय⟫
 
 ::: grammar-box
 
@@ -191,7 +191,7 @@ z.B.
 
 2\. Stufe: ⟪ब्राह्मणानां क्षत्रियाणां वैश्यानां च धर्मः⟫
 
-= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas"
+= "ሕግ ብራህማናውያን፣ ክሻትሪያውያን ወቫይሽያውያን"
 
 :::
 
@@ -203,7 +203,7 @@ z.B.
 
 ::: indent
 
-1\. Stufe: entweder - oder
+፩. ደረጃ፡ ወይ - ወይ
 
 1. ⟪पुण्यवत्पुत्रेण कृतम्⟫
 2. ⟪पुण्यवत्पुत्रस्य कृतम्⟫

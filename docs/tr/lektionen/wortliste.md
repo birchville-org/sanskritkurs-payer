@@ -1831,6 +1831,7 @@ bundan:
 
 ⟪गोदान⟫ n.: inek/tekir vermesi; ikinci saç kesme töreni (bir ⟪संस्कार⟫)
 
+:::
 ## Ders 27
 
 

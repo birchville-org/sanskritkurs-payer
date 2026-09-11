@@ -141,10 +141,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 מק.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung004))
+
 :::
+
 ---
 
 ## תרגיל חזרה שיעור 6
@@ -239,7 +243,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+ב) שנה לרבים:
 
 1\. brāhmaṇo yajati.
 
@@ -353,7 +357,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+ג) צור את ה-Ātmanepada מ-:
 
 1\. rāmo yajati.
 
@@ -371,7 +375,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+ד) צור את צורת הנקבה מ-:
 
 1\. śūdro nayati.
 
@@ -419,25 +423,25 @@ E) תרגמו:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+אנהפורנה היא אלוהות.
 
 2\. שׁוּדְרֵטָרָה.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+איטרה היא אישה שודרה.
 
 3\. וַאִישְׁיָסְטוּלָדְהָרַה.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+טולאדהרה הוא ואישיה.
 
 4\. קָוִירְמָגְהַה.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+מאגה הוא משורר.
 
 5\. דֵוְיוּמָה.
 
@@ -449,7 +453,7 @@ Māgha ist ein Dichter.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+הוודה היא שרוטי.
 
 7\. דְהֵנוּרְוִישַׁטִי.
 
@@ -598,7 +602,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 תמונה: ⟪देवतान्नपूर्णा⟫
 (מקור התמונה: [פרטים](/licenses#uebung005))
+
 :::

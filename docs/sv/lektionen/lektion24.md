@@ -28,7 +28,7 @@ anstatt:
 
 :::
 
-kann man auch sagen:
+kan man också säga:
 
 ::: indent
 

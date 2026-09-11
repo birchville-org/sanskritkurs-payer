@@ -31,5 +31,5 @@ features:
 **Կապ և մասնակցություն**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **Խմբագիրներ**: Հասանելի է օնլայն խմբագրիչը [QA](/qa_viewer.html){target="_blank"}-ի միջոցով (Միայն ընթերցում, Գրանցված մուտքի պաշտպանություն)
-**Թարմ տարբերակ**: v1.8.3
+**Թարմ տարբերակ**: v1.8.4
 :::

@@ -125,6 +125,7 @@ Result: ⟪रामः स्मरति⟫ = "Rāma remembers"
 **⟪कृ⟫ "to do, to make"**
 **Ātmanepadakausativ zu ⟪दृश्⟫**
 
+:::
 ::: grammar-box
 **The following causatives can be constructed according to both Schema 1 and Schema 2:**
 
@@ -211,6 +212,7 @@ Example:
 ::: grammar-box
 **Bildungstyp 4: Wurzel + -paya-**
 
+:::
 ::: grammar-box
 **Bildungstyp 4: Wurzel + -paya-**
 
@@ -248,7 +250,6 @@ Primjeri:
 **sthāpyate** (sthāp-ya-te) "postavlja se"
 :::
 Dok se pasiv izvornog korijena obično tvori od korijena u slabom stupnju, pasiv kauzativa obično se prepoznaje po tome što se tvori od korijena u punom odnosno produženom stupnju. (Kielhorn)
-:::
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
 

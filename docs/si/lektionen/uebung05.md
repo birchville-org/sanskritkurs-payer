@@ -51,7 +51,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪कामक्रोधलोभाः⟫
 
-Leidenschaft, Zorn und Gier.
+ආශාව, කෝපය සහ තණ්හාව.
 
 kāmaḥ krodho lobhaś ca.
 
@@ -92,10 +92,15 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 Abb.: ⟪अभ्निवेशो न वा ।⟫
+
 (ඡායාරූප මූලාශ්‍රය: [Details](/licenses#uebung010))
+
 :::
+
 ---
 
 ## පුනරාවර්තන අභ्यासය ඉගැන්වීම 5
@@ -165,7 +170,10 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 
 ::: media
+
 ![](/images/uebung009.webp)
+
 ඡායාරූපය: ⟪ऋग्वेदः⟫
 (ඡායාරූප මූලාශ්‍රය: [විස්තර](/licenses#uebung009))
+
 :::

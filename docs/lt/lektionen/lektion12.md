@@ -16,12 +16,15 @@ status: stable
 Vienas būdų sudaryti praeities laiko būtojo kilmės sakinius yra konstrukcija su vadinamuoju Perfekto dalyviu būtojo kilmės (PPP).
 
 ::: grammar-box
+
 **Iš tikrųjų PPP nėra tikras dalyvis, nes jis nededamas nuo laiko šaknies. Tai yra nominalinis darinys prie šaknies su pirminiu priesaga -ta arba -na. Todėl indiškoje gramatikoje kalbama apie priesagą kta.**
+
 :::
 
 ### 12.1.1. Schema tolesniems veiksmažodžiams
 
 ::: grammar-box
+
 **Veikėjas (kartṛ) įnagininkas (tṛtīyā) -- tiesioginis objektas (karman) vardininkas (prathamā) -- Perfekto dalyvis būtojo kilmės**
 
 Šiuo atveju PPP sutampa su objektu skaičiumi, linksniu ir giminė.
@@ -32,28 +35,33 @@ Pavyzdžiai:
 > **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nuo šventojo buvo pasiektas dangus) = Šventasis pasiekė dangų.“
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Nuo brahmano buvo garbinta deivė aukojant) = Brahmanas garbino deivę aukodamas.“
+
 :::
 
 ### 12.1.2. I schema netiesiniams veiksmažodžiams ir judesio veiksmažodžiams
 
 ::: grammar-box
+
 **Veikėjas (kartṛ) vardininkas (prathamā) -- Perfekto dalyvis būtojo kilmės**
 
 Šiuo atveju PPP sutampa su veikėju skaičiumi, linksniu ir giminė. „Būtojo kilmės“ dalyvis netiesiniams veiksmažodžiams (veiksmažodžiams be tiesioginio objekto) ir judesio veiksmažodžiams turi aktyvią reikšmę.
 
 Pavyzdys:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijos motis nuėjo į miestą.“
+
 :::
 
 ### 12.1.3. II schema nebeigiamiesiems veiksmažodžiams ir judesio veiksmažodžiams
 
 ::: grammar-box
+
 **Agentas (kartṛ) įnagininku (tṛtīyā) -- PPP nominatyve vienaskaitos vidurinio lyties**
 
 Pavyzdys:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Nuo kšatrijos buvo (į miestą) eita) = Kšatrija yra (į miestą) ėjęs.“
 
 II schema konstrukcija yra daug rečiau pasitaikanti nei I schema konstrukcija.
+
 :::
 
 ## 12.2. Dėl PPP reikšmės
@@ -68,6 +76,7 @@ pvz.
 ## 12.3. PPP formavimas
 
 ::: grammar-box
+
 Pasitaiko šie formavimo būdai (kiekvienam šaknies žodžiui reikia mokytis jo PPP!):
 
 **(dažniausiai) giluminės laipsnio šaknis**
@@ -78,6 +87,7 @@ be jungtinio balsio: **-ta**
 **+ -na**
 
 Moteriškosios giminės kamienai skamba: **-tā**, **-itā**, **-nā**; vidurinioji giminė linksniuojasi kaip **phala** n.
+
 :::
 
 ### 12.3.1. PPP su -ta (kta)
@@ -87,13 +97,17 @@ Moteriškosios giminės kamienai skamba: **-tā**, **-itā**, **-nā**; vidurini
 *aniṭ* = „be (*an-*) priesagos prieš tai esančio (*-i-*) *t*“ (t.y. be jungtinio balsio *i*).
 
 ::: grammar-box
+
 Retention of the connecting vowel: The Perfect Passive Participle (PPP) is generally formed from roots ending in a vowel as well as from many other roots, without a fixed rule being given as to which structured roots exhibit the connecting vowel and which do not.
 
 Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+
 :::
+
 **Examples:**
 
 ::: grammar-box
+
 | Wurzel | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
@@ -108,20 +122,24 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
+
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+
+#### 12.3.1.2. Su jungiamąja balsė -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = “with (*sa-*) the suffix prefixed (*-i-*) *t*” (i.e., with the connecting vowel *i*).
 
 **Examples:**
 
 ::: grammar-box
+
 | Wurzel | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+
 :::
 
 ## 12.4. Laws of Sandhi in the Word
@@ -129,6 +147,7 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 Pri *aniṭ*-dariniuose reikia atkreipti dėmesį į šiuos sandūros dėsnius žodyje. **Šie dėsniai yra labai svarbūs visos sanskrito formų mokymo supratimui.**
 
 ::: no-header
+
 | | |
 | :--- | :--- |
 | **1. k, t, p prieš balsio uždarąjį (pvz., t, th) lieka nepakitę:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
@@ -138,6 +157,7 @@ Pri *aniṭ*-dariniuose reikia atkreipti dėmesį į šiuos sandūros dėsnius �
 | **5. jt pakeičiamas kt arba ṣṭ (ne fakultatyviai!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Balsis uždarasis + balsio uždarasis » balsis uždarasis + balsis uždarasis (Bartholomaus aspiracijos dėsnis):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t pakeičiamas ḍh su ilgėjimu prieš tai esančio i arba u; arba gdh. Prie tokio ḍh a pakeičiamas o, rečiau ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „paslėpti”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+
 :::
 
 ## 12.5. Žodžių sąrašas
@@ -145,20 +165,28 @@ Pri *aniṭ*-dariniuose reikia atkreipti dėmesį į šiuos sandūros dėsnius �
 **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : pabusti, pabusti iki žinios, pažinti; PPP **buddha** 3 pabusęs, todėl **Buddha** = „pabudęs“ (ne: apšviestas)
 
 ::: media
+
 ![](/images/lekt1201.webp)
+
 Pav.: ⟪गौतमो बुद्धः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1201))
+
 :::
+
 **dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (ką nors) sudeginti
 **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : įveikti, ištverti, kantriai ištverti = atleisti
 **mṛga** m. ⟪मृग⟫ : laukinis gyvūnas
 **mārga** m. ⟪मार्ग⟫ : kelias (keliuose dažnai būdavo laukinių gyvūnų takai)
 
 ::: media
+
 ![](/images/lekt1202.webp)
+
 Pav.: ⟪मार्गः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1202))
+
 :::
+
 **api** ⟪अपि⟫ : taip pat (pastovus)
 
 Prie šeštosios prezento klasės vietiniai gramatikai priskiria kai kurias šaknis, kurios formuoja prezento kamieną su nosine infixu ir teminiu balsiu a, pvz.:
@@ -173,10 +201,14 @@ Prie šeštosios prezento klasės vietiniai gramatikai priskiria kai kurias šak
 **budh**: **bodhi** m./f. ⟪बोधि⟫ : pabudimas (kuo Budha arba Jina pasiekia išgelbėjančią įžvalgą)
 
 ::: media
+
 ![](/images/lekt1203.webp)
+
 Pav.: ⟪महावीरो जिनः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1203))
+
 :::
+
 **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : žinios, pažinimo organas.
 
 
@@ -237,4 +269,3 @@ Pav.: ⟪महावीरो जिनः⟫
 **B) Sudarykite atitinkamuosius PPP (pagalbinio veiksmažodžio praeities dalyvius) prie [10-osios lekcijos](/lektionen/lektion10) A pratimo veiksmažodžių formų. Atkreipkite dėmesį, kad tokiai formai kaip sṛjati PPP atitinka visose trijuose giminėse.**
 
 **C) Perrašykite [10-osios lekcijos](/lektionen/lektion10) C pratimo sakinius pasyviai ir praeities laiku.**
-

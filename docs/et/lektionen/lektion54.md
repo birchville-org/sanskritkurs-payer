@@ -1,5 +1,5 @@
 ---
-title: "Lektion 54"
+title: "54. õppetund"
 subtitle: "Eelõige"
 lesson_id: 54
 last_reconstructed: 2026-05-21
@@ -149,7 +149,7 @@ c) ⟪उपजाति⟫
 
 ## 54.4. Übung zur Metrik
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+Määrake Bhagavadgītā II-s Triṣṭubh'id ja Jagatī'd.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on January 28, 2009
 
@@ -167,15 +167,15 @@ In Sanskrit, only the Indicative and Precativ of the Aorist are commonly used.
 
 **Aoristi (⟪लुङ्⟫) moodustamise tüübid on järgmised:**
 
-1. Non-sibilant (asigmatic) Aorists:
-* 54.1. Root Aorist: Augment + Root + Secondary Ending
-* 54.2. Thematic Vowel Aorist: Augment + Root + **a** + Secondary Ending
-* 54.3. Reduplicated Aorist: Augment + **reduplicated** Root + **a** + Secondary Ending
-2. Sibilantische (sigmatische) Aoriste: s oder eine Silbe, die s (ṣ) enthält, tritt vor die Personalendung
-* 54.4. -s Aorist: Augment + Root + **s** + Secondary Ending
-*   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-*   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-* 54.7. -sa Aorist: Augment + Root + **s** + **a** + Secondary Ending
+1. Mittesisisevad (asigmaatilised) aoristid:
+* 54.1. Juuraorist: Augment + Juur + Sekundaarlõpp
+* 54.2. Temaatiline vokaal-aorist: Augment + Juur + **a** + Sekundaarlõpp
+* 54.3. Reduplitseeritud aorist: Augment + **reduplitseeritud** Juur + **a** + Sekundaarlõpp
+2. Sibilantsed (sigmaatilised) aoristid: s või s-i (ṣ) sisaldav silp ilmub enne isikulõppu
+* 54.4. -s aorist: Augment + Juur + **s** + Sekundaarlõpp
+* 54.5. -iṣ-aorist: Augment + Juur + **i** + **ṣ** + Sekundaarlõpp
+* 54.6. -siṣ-aorist: Augment + Juur + **siṣ** + Sekundaarlõpp
+* 54.7. -sa aorist: Augment + Juur + **s** + **a** + Sekundaarlõpp
 
 Distribution of roots among the individual formation types: see under the respective types.
 
@@ -271,8 +271,7 @@ aga:
 Näide:  
 ⟪गम् अगामि⟫
 
-
-Einschub von y vor Endung:
+y sisestamine enne lõppu:
 
 * -ā, -e, -ai, -o-lõppevad tüved sisestavad tüve -ā ja lõpu vahele y:
 Näide:

@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "zbiór dwandwa")
 
 ::: grammar-box
+
 **Gdy dwandva ma wyrażać, że szereg rzeczy itp. tworzy jedność, to zwykle występuje w liczbie pojedynczej rodzaju nijakiego:**
 
 np. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ nie oznacza po prostu "pożywienie (**āhāra** m.), sen (**nidrā** f.), współmałżonkostwo (**maithuna** n.) i lęk (**bhaya** n.)", lecz te cztery jako **jedność**, która charakteryzuje życie zwierzęce.
+
 :::
+
 Oprócz tej podstawowej zasady tworzenia Samāhāradvandvas istnieje jeszcze szereg innych reguł, które można znaleźć u Pāṇiniego 2,4,2-17 lub np. u R. Kalego w A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. W różnych etapach rozwoju języka nie zawsze przestrzegano tych samych zasad!
 
 
@@ -27,6 +30,7 @@ Oprócz tej podstawowej zasady tworzenia Samāhāradvandvas istnieje jeszcze sze
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Taddhita-sufiks -ka tworzy m.in.:**
 
 1\. **Diminutywy (formy zdrobniałe jak niemieckie -chen, -lein, -li, -le):**
@@ -41,15 +45,19 @@ Oprócz tej podstawowej zasady tworzenia Samāhāradvandvas istnieje jeszcze sze
 4\. **Rzeczowniki wyrażające "należące do pojęcia rzeczownika podstawowego":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "urodzony w Benares, pochodzący z Benares"**
 **rūpa n. "kształt" » rūpaka 3 ⟪रूपक⟫ "posiadający kształt czegoś"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), żeńsk.: często -ikā
 
 ::: grammar-box
+
 **Sufiks kṛt -aka, żeński rodzaj często -ikā, tworzy nazwy agensa (nazwy wyrażające sprawcę) od każdej korzenia.**
 
 Końcowy samogłoska korzenia oraz **-a-** na przedostatniej pozycji w korzeniu są zastępowane przez ich stopień wydłużony (**vṛddhi**) (istnieją pewne wyjątki), pozostałe samogłoski są zastępowane przez ich stopień podwyższony (**guṇa**).
+
 :::
+
 **Przykłady:**
 
 | Korzeń:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Znaczenie |
@@ -62,8 +70,11 @@ Końcowy samogłoska korzenia oraz **-a-** na przedostatniej pozycji w korzeniu 
 | **ji** :br1 P:br⟪जि⟫:br"zwyciężyć" | **jayaka** 3:br(⟪जयक⟫) | "zwycięski" |
 
 ::: grammar-box
+
 **Niektóre z tych form mają węższe znaczenie: "ten, kto zwyczajowo lub jako obowiązek lub dobrze wykonuje to, co wyrażone przez korzeń".**
+
 :::
+
 zobacz wyżej np. **śrāvaka**, **yājaka**, **jayaka**
 
 **Przykłady:**
@@ -84,17 +95,25 @@ Poza tym występuje jeszcze kilka mniej istotnych zastosowań przyrostka **-aka*
 **adhyayana** n. (⟪अध्ययन⟫) : nauka, zwłaszcza studium Wed
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Ilustracja: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram pod Madurai.
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : rzemieślnik
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Ilustracja: **kāru** = ⟪कारु⟫, Gudźarat.
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (wędrowny) wystawca, aktor, śpiewak
 **kusīda** n. (⟪कुसीद⟫) : lichwa
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : ciągnąć
@@ -124,10 +143,14 @@ do **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Rys.: **karṣaka** = ⟪कर्षक⟫.
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -172,4 +195,4 @@ Wyjaśnienie: dvijātīnām = dopełniacz liczby mnogiej od dvijāti (przetłuma
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (według Kauṭilīya-Arthaśāstra 1.4.1.)

@@ -8,6 +8,16 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.4 (September 2026)
+
+**Focus:** *100% Quality Convergence across All 48 Target Languages, Stopword Calibrations & Release Sync Automation*
+
+### ✨ Features & Highlights
+- **100.0% Complete Sanskrit Translation across All 48 Locales**: Healed, verified, and locked the entire 140-lesson corpus across the final wave of languages (`cs`, `hy`, `da`, `af`, `si`, `am`, `sv`, `sl`, `zu`, `fa`, `gez`, `et`). All 48 target languages now stand at 140/140 clean files (6,720 localized files, 0 fallbacks, 0 pipeline queue).
+- **QA & Stopword Calibrations**: Refined the QA false-positive detection filters in `scripts/translation_qa.py` for target-language native words colliding with German stopwords (e.g. Afrikaans pronoun/article `die`, Danish articles `der`/`den`).
+- **Autonomous Healing Normalizations**: Extended script validation and structural header/caption normalizations for Amharic (`am`) and Persian (`fa`) in `scripts/autonomous_healer.py`.
+- **Automated Locale Version Synchronization**: Integrated `scripts/bump_version.py` into the core verification gate, guaranteeing that version metadata across all 49 index and settings pages stays perfectly synchronized with `package.json`.
+
 ---
 
 ## 🚀 Version 1.8.3 (September 2026)

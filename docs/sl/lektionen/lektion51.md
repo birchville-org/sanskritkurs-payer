@@ -92,6 +92,7 @@ Abb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्था�
 
 (Vir slike: [Details](/sl/licenses#lekt5103))
 
+:::
 ::: media
 
 ![](/images/lekt5103.webp)
@@ -519,6 +520,7 @@ Ker ovulacija poteka 14 dni pred začetkom mesečnega krvavenja, je pri tej dolo
 
 > **Walkerjevi sesalci sveta** / Ronald M. Nowak. -- 6. izd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 zvezka. -- ISBN 0-8018-5789-9. -- Zv. 2. -- Str. 1193f.
 
+:::
 ::: media
 
 ![](/images/lekt5105.webp)
@@ -554,7 +556,7 @@ Abb.: ⟪ऋतुः⟫
 
 :::
 
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Prislov: na enem mestu
 
 ⟪जटा⟫ ž.: splet las (frizura asketa)
 

@@ -114,7 +114,7 @@ B) Kirjutage ja tõlkige:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+C) Kirjutage:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 

@@ -66,11 +66,14 @@ A Buddhas és az Arhants megszabadultak a szenvedéstől. Ők ugyanis elérték 
 A kapzsiság, a gyűlölet és a tévelygés miatt az emberek elpusztulnak. Ha elérkezik az idő, akkor egy pokolba esnek.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Ábr.: ⟪लोभेन⟩ ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩
 (Képmegjelenítés: [Részletek](/licenses#uebung040))
 
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 A kṣatriya hős harcosokat hoz a nagyvárosból, hogy megtámadja az ellenségek faluját.
 
@@ -90,7 +93,7 @@ Ohne Rāma.
 A szent tanítása erényhez vezet, nem a bűnösé.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Ráma vár Kṛṣṇára.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 Könnyen (boldogan) halad.
@@ -118,10 +121,14 @@ Ha valaki gőgből, kapzsiságból, haragból vagy félelemből hamis ítéletet
 A poklok a gonoszság miatt keletkeznek, a gonoszság az szegénységből fakad, a szegénység pedig az adományozás elmulasztásából.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Kép: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Képmegjelenítés: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 A tolvajt a lopás bűne alól felmentik büntetéssel vagy szabadon bocsátással. Ha azonban a király nem bünteti meg, akkor átveszi a tolvaj bűnét.
@@ -134,10 +141,13 @@ A tolvajt a lopás bűne alól felmentik büntetéssel vagy szabadon bocsátáss
 A gazdaság hasznos, mert gabonát, állatokat, aranyat, fémeket és munkát termel.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Kép: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Képmegjelenítés: [Details](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Ezért a három tudomány az alapja a botnak (daṇḍa). A bot, amely a jó viselkedés alapja, az élőlényeknek megszerzést és biztonságos birtokot hoz. A jó viselkedés megteremtett vagy veleszületett. A tevékenység ugyanis alkalmas anyagot nevel, nem alkalmatlanat. A tudomány olyan elmét nevel, amely a engedelmesség, hallgatás, megértés, megérzés és gondolkodás révén az igazsághoz jutott, nem másikat. ... A hallottakból ugyanis tudás származik, a tudásból gyakorlat, a gyakorlatból önbirtoklás; így a tudományoknak megfelelnek céljuk. A tudás és a jó viselkedés az ok a győzelemre az érzékek felett. Ez szükséges ahhoz, hogy letegyük a vágyakozást, gyűlöletet, kapzsiságot, gőzt, részegséget és izgalmat.
-

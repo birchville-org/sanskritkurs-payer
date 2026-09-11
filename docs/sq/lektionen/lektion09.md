@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Dvandva përmbledhëse")
 
 ::: grammar-box
+
 **Kur një Dvandva dëshiron të shprehë se një seri gjërash etj. formojnë njësi, atëherë ai përgjithësisht qëndron në numrin njëjës, gjininë mashkullore:**
 
 p.sh. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟩ nuk do të thotë thjesht "ngrënies (**āhāra** m.), gjumi (**nidrā** f.), çiftëzimi (**maithuna** n.) dhe frika (**bhaya** n.)", por këto katër si **njësi**, që karakterizon jetën shtazore.
+
 :::
+
 Përveç kësaj rregulli bazë për formimin e Samāhāradvandvas, ka edhe një sërë rregujsh të tjerë, që gjenden te Pāṇini 2,4,2-17 ose p.sh. z. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Në nivele të ndryshme të zhvillimit gjuhësor, nuk janë respektuar gjithmonë të njëjtat rregulla!
 
 
@@ -27,6 +30,7 @@ Përveç kësaj rregulli bazë për formimin e Samāhāradvandvas, ka edhe një 
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Mbiemri taddhita -ka formon ndër të tjera:**
 
 1\. **Diminutiva (forma zvogëluese si gjermanishtja -chen, -lein, -li, -le):**
@@ -41,15 +45,19 @@ Përveç kësaj rregulli bazë për formimin e Samāhāradvandvas, ka edhe një 
 4\. **Emra, që shprehin "në lidhje me konceptin e fjalës bazë":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟩ "i lindur në Benares, prej Benares"**
 **rūpa n. "formë" » rūpaka 3 ⟪रूपक⟩ "me formën e diçkaje"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), fem. shpesh -ikā
 
 ::: grammar-box
+
 **Sufiksi kṛt -aka, Feminitiv shpesh -ikā, formonoma agentis (nomina që shprehin vepruesin) për çdo rrënjë.**
 
 Një zanor në fund të rrënjës, si dhe **-a-** në pozicionin para-fundor të rrënjës zëvendësohen nga shkalla e tyre e zgjatjes (**vṛddhi**) (ka disa përjashtime), zanoret e tjera zëvendësohen nga shkalla e tyre e lartë (**guṇa**).
+
 :::
+
 **Shembuj:**
 
 | Rrënjë:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Kuptimi |
@@ -62,8 +70,11 @@ Një zanor në fund të rrënjës, si dhe **-a-** në pozicionin para-fundor të
 | **ji** :br1 P:br⟪जि⟫:br"fitoj" | **jayaka** 3:br(⟪जयक⟫) | "fitimtar" |
 
 ::: grammar-box
+
 **Disa nga këto forma kanë kuptimin më të ngushtë: "ai që e kryen me zakon ose si detyrim ose mirë atë që shprehet nga rrënja".**
+
 :::
+
 shiko më sipër p.sh. **śrāvaka**, **yājaka**, **jayaka**
 
 **Shembuj:**
@@ -84,17 +95,25 @@ Në anë të kësaj, ka edhe disa përdorime më pak të rëndësishme të prapa
 **adhyayana** n. (⟪अध्ययन⟫) : Mësim, veçanërisht studimi i Vedave
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram pranë Madurai.
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artizan
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : Shfaqës udhëtues, aktor, këngëtar
 **kusīda** n. (⟪कुसीद⟫) : Kamërblerje
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : tërheq
@@ -124,10 +143,14 @@ për **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -172,4 +195,4 @@ Shpjegim: dvijātīnām = Gjenitiv Plural i dvijāti (përktheni këtu: "ndaj dy
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (sipas Kauṭilīya-Arthaśāstra 1.4.1.)

@@ -13,6 +13,7 @@ status: stable
 ## 55.1. Aoristi me a (Aoristi me vokalin e temës)
 
 ::: grammar-box
+
 **Aoristi me a formohet si një Imperfekt (⟪लङ्⟫) i klasës së 6-të të Prezencit (⟪तुदादि⟫), pra:**
 
 **Augment + rrënjë në nivel të ulët (guna) + a + fundje dytësore**
@@ -24,33 +25,44 @@ status: stable
 **Ātmanepada është e rrallë; për rrënjët Ubhayapada, ajo zakonisht formohet sipas klasave të tjera të Aorit (shih Kielhorn, Grammatik §340 dhe më poshtë te klasat përkatëse të Aorit).**
 
 **Lista e rrënjeve që kanë këtë Aorist te Kielhorn, Grammatik §340.**
+
 :::
+
 Shembull:
 
 ⟪सिच्⟫ 6U "pikoj"
 
 ::: indent
+
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
+
 :::
+
 Formime të parregullta:
 
 ::: indent
+
 ⟪अस्⟫ 4P "hedh": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (shpjegimi shih Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "tregoj": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
 ⟪दृश्⟫ "shoh": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Nivel i lartë!)
+
 :::
+
 Vini re:
 
 ::: indent
+
 ⟪शास्⟫ 2P "uroj": ⟪अशिषत्⟫ (nivel i ulët i rregullt!)
+
 :::
+
 ## 55.2. Ushtrim
 
 Përcaktoni dhe përktheni me shkrim format e mëposhtme dhe formoni format përkatëse të a-Aorit:
@@ -89,9 +101,12 @@ Përcaktoni dhe përktheni me shkrim format e mëposhtme dhe formoni format për
 32. ⟪सिष्णेह⟫
 
 ::: media
+
 ![](/images/lekt5501.webp)
+
 Fig.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
+'Inâyat Khân duke vdekur, skicë për një miniaturë të një dorëshkrimi për Jahângîr = جهانگير, rreth vitit 1618
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt5501))
+
 :::
 

@@ -207,7 +207,6 @@ Rezultat: ⟪भृत्यः कटं करोति⟫ = "Služabnik nared
 ⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma naroči služabniku, naj prinese breme"
 Rezultat: ⟪भृत्यो भारं हरति⟫ = "Služabnik prinese breme"
 
-:::
 
 Es gibt verschiedene Bildungstypen:
 
@@ -248,7 +247,7 @@ Es gibt verschiedene Bildungstypen:
 
 **Bildungstyp 3: tiefstufige Wurzel + -aya-**
 
-**Kommt vor.**
+**Pojavlja se.**
 
 :::
 
@@ -338,8 +337,8 @@ Medtem ko se pasiv za prvotni koren običajno tvori iz nizke stopnje korena, se 
 
 **Kausativski korijen na -ay- + -i- + -tvā**
 
-**Primjer:**
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+**Primer:**
+**sthāpayitvā** (sthā-pay-i-tvā) "potem ko je postavil"
 
 :::
 
@@ -357,8 +356,8 @@ Medtem ko se pasiv za prvotni koren običajno tvori iz nizke stopnje korena, se 
 
 **Međutim, ako kausativski slog sadrži kratko -a- ispred jednog suglasnika, -ya apsolutiva dodaje se na kausativski korijen na -ay- (bez završnog a)**
 
-**Primjer:**
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+**Primer:**
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "potem ko je pustil priti"
 
 :::
 

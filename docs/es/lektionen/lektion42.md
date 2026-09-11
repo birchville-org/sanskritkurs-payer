@@ -1,6 +1,6 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: Lección 42
+subtitle: "Temas en -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,6 +14,7 @@ status: stable
 ### 42.1.1. Tribus con grado de extensión en la raíz fuerte
 
 ::: grammar-box
+
 Todos los masculinos en -ṛ con excepción de las designaciones de parentesco mencionadas en 1.3. A este grupo pertenecen también las designaciones de parentesco:
 
 *   **⟪नप्तृ⟫** m. "nieto"
@@ -29,12 +30,17 @@ La mayor parte de los nombres pertenecientes a este grupo son nombres de agente 
     *   **antes de consonante: -ṛ**
 
 ¡Tenga en cuenta las formaciones irregulares (marcadas en **rojo**)!
+
 :::
+
 Masculino:
 
 ::: indent
+
 **⟪दातृ⟫** m. "dador"
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -48,16 +54,21 @@ Masculino:
 | ⟪सप्तमी⟫ | *:sig[⟪दातरि⟫]* | ⟪दातृषु⟫ |
 
 :::
+
 Para la explicación de las formaciones irregulares, véase Thumb-Hauschild I,2 p. 76 -81
 
 Femenino:
 
 ::: indent
+
 **⟪स्वसृ⟫** f. se declina como **⟪दातृ⟫** con excepción del acusativo (**⟪द्वितीया⟫**) plural: **:sig[⟪स्वसॄस्⟫]**.
+
 :::
+
 ### 42.1.2. Formación nominal: Sufijo ⟪कृत्⟫ -⟪तृ⟫
 
 ::: grammar-box
+
 Con el muy frecuente sufijo ⟪कृत्⟫ -⟪तृ⟫ se forman nomina agentis (designaciones para el ⟪कर्तृ⟫) a casi cualquier raíz o bien a la raíz causativa.
 
 **Formación:**
@@ -67,10 +78,13 @@ Con el muy frecuente sufijo ⟪कृत्⟫ -⟪तृ⟫ se forman nomina ag
 o
 
 *   **raíz en grado completo / raíz causativa + i + tṛ**
+
 :::
+
 Ejemplos:
 
 ::: indent
+
 **⟪कर्तृ⟫** m. "Hacedor"
 
 **⟪जेतृ⟫** m. "Vencedor"
@@ -80,23 +94,32 @@ Ejemplos:
 **⟪रक्षितृ⟫** m. "Protector"
 
 **⟪बोधयितृ⟫** m. "Despertador"
+
 :::
+
 ::: media
+
 ![lekt4201.jpg](/images/lekt4201.jpg)
+
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4201))
+
 :::
 
 ::: grammar-box
+
 Los neutros de aparición rara en -⟪तृ⟫ tienen una declinación parcialmente propia (véase Kielhorn, Gramática § 148).
 
 El femenino de las raíces en -⟪तृ⟫ termina en **-⟪त्री⟫** (como **⟪देवी⟫**).
 
 p.ej. **⟪कर्त्री⟫** f. "Hacedora"
+
 :::
+
 ### 42.1.3. Tribus con grado alto en la raíz fuerte
 
 ::: grammar-box
+
 Estos incluyen las siguientes designaciones de parentesco:
 
 *   **⟪पितृ⟫** m. "Padre"
@@ -113,14 +136,19 @@ Estos incluyen las siguientes designaciones de parentesco:
 *   **raíz débil**
     *   **antes de vocal: -r**
     *   **antes de consonante: -ṛ**
+
 :::
+
 Ejemplos:
 
 ::: indent
+
 **⟪पितृ⟫** m. "Padre"
 
 **⟪मातृ⟫** f. "Madre"
+
 :::
+
 ::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
@@ -130,14 +158,18 @@ Ejemplos:
 | Resto como ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
+
 ### 42.1.4. Tribus con terminación -ṛ en compuestos
 
 ::: grammar-box
+
 Como primer miembro de un compuesto, los nombres terminados en -ṛ se encuentran, por supuesto, en su forma de raíz débil, es decir,
 
 *   **antes de consonante: -ṛ**
 *   **antes de vocal: -r**
+
 :::
+
 ## 42.2. Lista de palabras
 
 ⟪प्रकृति⟫ f.: (a partir de ⟪कृ⟫ + ⟪प्र⟫) forma básica, estado natural, naturaleza; materia prima, elemento primordial
@@ -147,8 +179,11 @@ Como primer miembro de un compuesto, los nombres terminados en -ṛ se encuentra
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstenerse, apartarse, mantenerse alejado, permanecer, estar de pie
 
 ::: indent
+
 PPP ⟪अवस्थित⟫ 3: de pie, existente
+
 :::
+
 ⟪पुरा⟫ Adv.: antes, anteriormente
 
 ⟪अनेक⟫ 3: muchos (no algunos)
@@ -170,6 +205,7 @@ PPP ⟪अवस्थित⟫ 3: de pie, existente
 ⟪चल्⟫ 1P ⟪चलति⟫ : entrar en movimiento
 
 ::: indent
+
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -177,7 +213,9 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
+
 :::
+
 ⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanidad, orgullo
@@ -197,6 +235,7 @@ Inf. ⟪चलितुम्⟫
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : alabar, ordenar
 
 ::: indent
+
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,16 +243,22 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
+
 :::
+
 ⟪हृदय⟫ n.: corazón
 
 ### 42.2.1. Algunas designaciones de parentesco
 
 ::: media
+
 ![lekt4202.jpg](/images/lekt4202.webp)
+
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4202))
+
 :::
+
 ⟪भर्तृ⟫ m. (de ⟪भृ⟫ "llevar, sostener"): Mantenedor, Nutridor, Esposo
 
 ⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Esposa (⟪भार्या⟫ = gerundivo de ⟪भृ⟫ : La que debe ser llevada, la que debe ser sostenida, con derecho a mantenimiento)
@@ -274,17 +319,25 @@ Traduzca:
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
 ::: media
+
 ![lekt4203.jpg](/images/lekt4203.webp)
+
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4203))
+
 :::
+
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![lekt4204.jpg](/images/lekt4204.webp)
+
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4204))
+
 :::
+
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
@@ -310,10 +363,14 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ *:sig[⟪ऽयोध्या⟫]*⟪धिपते⟫*:sig[⟪र्दशरथस्य⟫]* ⟪पुत्रः⟫ ⟪श्री⟫*:sig[⟪रामः⟫]* *:sig[⟪सलक्ष्मणो⟫]* *:sig[⟪विश्वामित्रेण⟫]* ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫*:sig[⟪रामो⟫]* ⟪महर्षेर्⟫*:sig[⟪विश्वामित्र⟫]*⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
+
 ![lekt4208.jpg](/images/lekt4208.webp)
+
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4208))
+
 :::
+
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ *:sig[⟪सीतारामयोर्वि⟫]*⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
@@ -325,17 +382,25 @@ Explicación de las expresiones destacadas en **rojo**:
 :sig[⟪सीता⟫] f. Nombre propio: Hija del rey ⟪जनक⟫ de ⟪विदेह⟫. Ella había salido de la tierra cuando el rey aró el campo, de ahí su nombre: :sig[⟪सीता⟫] f. "Surco del campo"
 
 ::: media
+
 ![lekt4205.jpg](/images/lekt4205.webp)
+
 Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4205))
+
 :::
+
 ⟪मिथिला⟫ f. Nombre propio: Capital de ⟪विदेह⟫
 
 ::: media
+
 ![lekt4206.jpg](/images/lekt4206.webp)
+
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4206))
+
 :::
+
 ⟪जनक⟫ m. Nombre propio: Rey de ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Comparativo de ⟪गुरु⟫ 3: más pesado, muy pesado
@@ -349,10 +414,14 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ⟪रावण⟫ m. Nombre propio; gobernante de :sig[⟪लङ्का⟫], gobernante de los ⟪राक्षस⟫.
 
 ::: media
+
 ![lekt4207.jpg](/images/lekt4207.webp)
+
 Fig.: ⟪रावणः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4207))
+
 :::
+
 ⟪अयोध्या⟫ f. Nombre propio: Capital de ⟪कोसल⟫ (¡ver mapa arriba!)
 
 ⟪दशरथ⟫ m. Nombre propio: Rey de ⟪कोसल⟫
@@ -364,4 +433,3 @@ Fig.: ⟪रावणः⟫
 :sig[⟪विश्वामित्र⟫] m. Nombre propio: ⟪ऋषि⟫, se puso a ⟪राम⟫ y ⟪लक्ष्मन⟫ para matar demonios; por ello recibe de él armas mágicas.
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual de ⟪सीताराम⟫
-

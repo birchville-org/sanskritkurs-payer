@@ -1,5 +1,5 @@
 ---
-title: "Lektion 52"
+title: "52. õppetund"
 subtitle: "-i ja -u tüvede neutrum"
 lesson_id: 52
 last_reconstructed: 2026-05-21
@@ -166,8 +166,8 @@ Examples:
 
 Joonis: ⟪अनुक्रमेणैकशः⟫
 
-Warteschlange vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Pildi allikas: [Details](/et/licenses#lekt5204))
+Järjekord templi ees, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt5204))
 
 :::
 
@@ -177,8 +177,8 @@ Warteschlange vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവന�
 
 Joonis: ⟪अनुक्रमेणैकशः⟫
 
-Warteschlange vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Pildi allikas: [Details](/et/licenses#lekt5204))
+Järjekord templi ees, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt5204))
 
 :::
 
@@ -188,7 +188,7 @@ Warteschlange vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവന�
 
 ::: grammar-box
 
-**Vor die Wurzeln**
+**Eesliited verbijuurte ees**
 
 *   **⟪kṛ⟫ 8U "tegema"**
 *   **⟪as⟫ 2P "olema"**
@@ -217,8 +217,8 @@ nt ⟪pitrībhavati⟫ "keegi, kes ei ole isa (⟪pitṛ⟫), saab isaks = mees 
 *   **lõpp-n kaob ja eelnevat vokaali käsitletakse vastavalt äsja mainitud reeglitele**
 nt ⟪rājībabhūva⟫ "keegi (kes ei olnud kuningas) sai kuningaks (⟪rājan⟫)"
 
-*   **Andere mehrstämmige Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.**
-z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)"
+*   **Teised mitmetüvelised nimisõnad esinevad tüve kujul, mis neil on lokatiivi (⟪सप्तमी⟫) mitmuses. Tüvi allub seejärel tavalistele sandhi reeglitele. Vt Kielhorn, Grammatik § 489,3.**
+nt ⟪तिर्यक्करोति⟫ "ta asetab külili (⟪तिर्यच्⟫)"
 
 :::
 
@@ -239,7 +239,7 @@ Brandrodung, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
 
 **Et väljendada, et isik või asi saab täielikult millekski, või et keegi teeb midagi või kedagi täielikult millekski, mida nimisõna tähistab, saab nimisõnale lisada**
 
-**das Suffix -sāt (das nie -ṣāt wird)**
+**sufiks -sāt (mis kunagi ei muutu -ṣāt'iks)**
 
 **ja nii moodustatud sõna koos juurtega**
 
@@ -395,8 +395,8 @@ Beispiele:
 
 :::
 
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201.
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen
+Üksikute arvsõnade kohta vt nt Kielhorn, Grammatik §201.
+#### 52.6.1.3. Süntaktiline kardinaalarvude kohta
 
 ::: grammar-box
 
@@ -515,10 +515,10 @@ Seitsmetäheline = Suure Vankri (Ursa maior) seitse heledamat tähte
 
 **Reegel 2: Erinevalt reeglist 1 võib sõna, mis tähistab ilmakaart või põhiarvu, moodustada teise nimisõnaga Tatpuruṣa, kui**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird
-Beispiele:  
-pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)  
+1.  nii moodustatud liitsõnale lisatakse taddhita-sufiks
+Näited:
+pūrva + śālā ("saal") » \*pūrvaśālā (ei tohi nii kasutada!) + taddhita -a » ⟪पौर्वशाल⟫ 3 "idapoolses saalis asuv"
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (lubamatu!) + taddhita -a » ⟪षण्मातुर⟫ m. "kuue ema laps" (= ⟪कार्त्तिकेय⟫)
 
 2. nii moodustatud liitsõna kasutatakse tähenduses, mida muidu tähistatakse Taddhita-sufiksiga (selle tüübi puhul on üleminek Bahuvrīhile sujuv):
 Näited:
@@ -572,7 +572,7 @@ Beispiel:
 
 ::: indent
 
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt"
+⟪पञ्चगु⟫ 3: "viie lehma eest ostetud"
 
 :::
 
@@ -861,7 +861,7 @@ Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandv
 
 :::
 
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ ⟪धर्म⟫ allikatest
 
 ::: indent
 
@@ -884,7 +884,7 @@ Erklärungen:
 
 ⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ nominatiiv-akusatiiv duaal meessoost (⟪धर्मकामौ⟫ on duaal-dvandva)
 
 :::
 

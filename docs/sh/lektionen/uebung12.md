@@ -45,35 +45,34 @@ C) Tvorite rečenice iz [Lekcije 10](lektion10.md), vježba C, u pasivu i u pro�
 
 1\. Der Brāhmaṇa opfert der Göttin. ⟪ब्राह्मणो देवीं यजति ब्रामणेन देवीष्टा ।⟫
 
-2\. Der Heilige geht in den Himmel. ⟪साधुः स्वर्गं गच्छति साधुः स्वर्गं गतः ।⟫
+2\. Svetac ide u nebo. ⟪साधुः स्वर्गं गच्छति साधुः स्वर्गं गतः ।⟫
 
-3\. Er besiegt den Śūdra. ⟪शूद्रं जय⟫
+3\. On pobeđuje Śūdru. ⟪शूद्रं जय⟫
 ⟪शूद्रो जितः ।⟫
 
-4\. Der Guru isst die Früchte. ⟪गुरुः फलानि खादति गुरुणा फलानि खादितानि ।⟫
+4\. Guru jede voće. ⟪गुरुः फलानि खादति गुरुणा फलानि खादितानि ।⟫
 
-5\. Er hört die Gurus. ⟪गुरूञ्छृणोति ग्रुरवः श्रुताः ।⟫
+5\. On sluša gurue. ⟪गुरूञ्छृणोति ग्रुरवः श्रुताः ।⟫
 
-6\. Wer sieht das Feuer? ⟪को ऽग्निं पश्यति केनाग्निर्दृष्टः ।⟫
+6\. Ko vidi vatru? ⟪को ऽग्निं पश्यति केनाग्निर्दृष्टः ।⟫
 
 7\. Ovaj se pjesnik sjeća mantre. (Kielhorn) ⟪अयं कविर्मन्त्रं स्मरति अनेन कविना मन्त्रः स्मृतः ।⟫
 
 8\. Ova božica štiti kšatrije. (Kielhorn) ⟪इयं देवी क्त्रिया रक्षति अनया देव्या क्षत्रिया रक्षिताः ।⟫
 
-9\. Die Kṣatriya opfern Viṣṇu. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9\. Kṣatriye žrtvuju Viṣṇuu. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 mogućnosti)
 ⟪क्षत्रियैर्विष्णुरिष्टः । क्षत्रियाभिर्विष्णुरिष्टः ।⟫
 
 10\. Der Brāhmaṇa bereitet das Feuer vor. ⟪ब्राह्मणो ऽग्निं करोति ब्राह्मणेनाग्निः कृतः ।⟫
 
-11\. Die Vaiśya gehen zu diesem Dorf. ⟪वैश्या इमं ग्रामं गच्छन्ति वैश्या इमं ग्रामं गताः ।⟫
+11\. Vaiśye idu u ovo selo. ⟪वैश्या इमं ग्रामं गच्छन्ति वैश्या इमं ग्रामं गताः ।⟫
 
-12\. Diese hören die Gurus. ⟪एते गुरूंस्तु शृण्वन्ति एतैर्गुरवस्तु श्रुताः ।⟫
+12\. Oni slušaju gurue. ⟪एते गुरूंस्तु शृण्वन्ति एतैर्गुरवस्तु श्रुताः ।⟫
 
-13\. Der Heilige erlangt den Himmel. ⟪साधुः स्वर्गमाप्नोति साधुना स्वर्ग आप्ताः ।⟫
+13\. Svetac dostiže nebo. ⟪साधुः स्वर्गमाप्नोति साधुना स्वर्ग आप्ताः ।⟫
 
 14\. Die Brāhmaṇen pressen den Soma. ⟪ब्राह्मणाः सोमं सुन्वन्ति ब्राह्मणैः सोमः सुतः ।⟫
 
-15\. Er erlangt die Tiere. ⟪पशूल्ंलभते पशवो लब्धाः ।⟫
+15\. On dostiže životinje. ⟪पशूल्ंलभते पशवो लब्धाः ।⟫
 
 16\. Koji se ratnici bore s kšatrijama? (Kielhorn) ⟪के योधाः क्षत्रियैः सह युध्यन्ते कैर्योधैः क्षत्रियैः सह युद्धम् ।⟫
-:::

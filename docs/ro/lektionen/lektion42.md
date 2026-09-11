@@ -1,6 +1,6 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: Lecția 42
+subtitle: "Tulpini în -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,6 +14,7 @@ status: stable
 ### 42.1.1. Treci cu grad lung în tema puternică
 
 ::: grammar-box
+
 Toate substantivele masculine pe -ṛ, cu excepția celor de rudenie menționate la punctul 1.3. Aici se încadrează și denumirile de rudenie:
 
 *   **⟪नप्तृ⟫** m. "nepot"
@@ -29,12 +30,17 @@ Majoritatea substantivelor de aici sunt substantive de agentivitate cu sufixul �
     *   **înaintea consoanei: -ṛ**
 
 Observați formele neregulate (marcate cu **roșu**)!
+
 :::
+
 Substantiv masculin:
 
 ::: indent
+
 **⟪दातृ⟫** m. "dător"
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -48,16 +54,21 @@ Substantiv masculin:
 | ⟪सप्तमी⟫ | **:sig[⟪दातरि⟫]** | ⟪दातृषु⟫ |
 
 :::
+
 Pentru explicarea formelor neregulate, consultați Thumb-Hauschild I,2 pag. 76 -81
 
 Substantiv feminin:
 
 ::: indent
+
 **⟪स्वसृ⟫** f. se declină ca **⟪दातृ⟫** cu excepția acuzativului (**⟪द्वितीया⟫**) plural: **:sig[⟪स्वसॄस्⟫]**.
+
 :::
+
 ### 42.1.2. Formarea substantivelor: sufixul ⟪कृत्⟫ -⟪तृ⟫
 
 ::: grammar-box
+
 Cu sufixul foarte frecvent ⟪कृत्⟫ -⟪तृ⟫ se formează nume de agent (denumiri pentru ⟪कर्तृ⟫) aproape pentru fiecare rădăcină sau pentru tema cauzativă.
 
 **Formare:**
@@ -67,10 +78,13 @@ Cu sufixul foarte frecvent ⟪कृत्⟫ -⟪तृ⟫ se formează nume de
 sau
 
 *   **rădăcină în gradul plin / tema cauzativă + i + tṛ**
+
 :::
+
 Exemple:
 
 ::: indent
+
 **⟪कर्तृ⟫** m. "făcător"
 
 **⟪जेतृ⟫** m. "învingător"
@@ -80,23 +94,32 @@ Exemple:
 **⟪रक्षितृ⟫** m. "protector"
 
 **⟪बोधयितृ⟫** m. "trezitor"
+
 :::
+
 ::: media
+
 ![lekt4201.jpg](/images/lekt4201.jpg)
+
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4201))
+
 :::
 
 ::: grammar-box
+
 Neutre rare cu sufixul -⟪तृ⟫ au o declinare parțial distinctă (a se vedea Kielhorn, Gramatică § 148).
 
 Femininul pentru temele în -⟪तृ⟫ se termină în **-⟪त्री⟫** (ca **⟪देवी⟫**).
 
 de ex. **⟪कर्त्री⟫** f. "făcătoare"
+
 :::
+
 ### 42.1.3. Treci cu grad ridicat în rădăcina puternică
 
 ::: grammar-box
+
 Printre acestea se numără următoarele denumiri de rude:
 
 *   **⟪पितृ⟫** m. "tată"
@@ -113,14 +136,19 @@ Printre acestea se numără următoarele denumiri de rude:
 *   **rădăcină slabă**
     *   **înaintea vocală: -r**
     *   **înaintea consoanei: -ṛ**
+
 :::
+
 Exemple:
 
 ::: indent
+
 **⟪पितृ⟫** m. "tată"
 
 **⟪मातृ⟫** f. "mamă"
+
 :::
+
 ::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
@@ -130,14 +158,18 @@ Exemple:
 | Restul ca la ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
+
 ### 42.1.4. Tulpuri pe -ṛ în compuse
 
 ::: grammar-box
+
 În calitate de prim element al unui compus, substantivele pe -ṛ stă, desigur, la forma slabă a temei, adică:
 
 *   **înaintea consoanelor: -ṛ**
 *   **înaintea vocalelor: -r**
+
 :::
+
 ## 42.2. Listă de cuvinte
 
 ⟪प्रकृति⟫ f.: (de la ⟪कृ⟫ + ⟪प्र⟫) formă de bază, stare naturală, natură; materie primă, esență primordială
@@ -147,8 +179,11 @@ Exemple:
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : a se abține, a se distanța, a se ferii, a rămâne, a sta în picioare
 
 ::: indent
+
 PPP ⟪अवस्थित⟫ 3: stând, existent
+
 :::
+
 ⟪पुरा⟫ Adv.: odată, mai devreme
 
 ⟪अनेक⟫ 3: mulți (nu câțiva)
@@ -170,6 +205,7 @@ PPP ⟪अवस्थित⟫ 3: stând, existent
 ⟪चल्⟫ 1P ⟪चलति⟫ : a intra în mișcare
 
 ::: indent
+
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -177,7 +213,9 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
+
 :::
+
 ⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanitate, mândrie
@@ -197,6 +235,7 @@ Inf. ⟪चलितुम्⟫
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : a lăuda, a porunci
 
 ::: indent
+
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,16 +243,22 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
+
 :::
+
 ⟪हृदय⟫ n.: inimă
 
 ### 42.2.1. Unele denumiri de rudenie
 
 ::: media
+
 ![lekt4202.jpg](/images/lekt4202.webp)
+
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4202))
+
 :::
+
 ⟪भर्तृ⟫ m. (de la ⟪भृ⟫ "a purta, a întreține"): Cel care întreține, cel care hrănește, soț
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Soție (⟪भार्या⟫ = gerunziu la ⟪भृ⟫ : cea care trebuie purtată, cea care trebuie întreținută, cea îndreptățită la întreținere)
@@ -274,17 +319,25 @@ Traduceți:
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
 ::: media
+
 ![lekt4203.jpg](/images/lekt4203.webp)
+
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4203))
+
 :::
+
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![lekt4204.jpg](/images/lekt4204.webp)
+
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4204))
+
 :::
+
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
@@ -310,10 +363,14 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ **:sig[⟪ऽयोध्या⟫]**⟪धिपते⟫**:sig[⟪र्दशरथस्य⟫]** ⟪पुत्रः⟫ ⟪श्री⟫**:sig[⟪रामः⟫]** **:sig[⟪सलक्ष्मणो⟫]** **:sig[⟪विश्वामित्रेण⟫]** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫**:sig[⟪रामो⟫]** ⟪महर्षेर्⟫**:sig[⟪विश्वामित्र⟫]**⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
+
 ![lekt4208.jpg](/images/lekt4208.webp)
+
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4208))
+
 :::
+
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ **:sig[⟪सीतारामयोर्वि⟫]**⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
@@ -325,17 +382,25 @@ Expresii evidențiate în **roșu**:
 :sig[⟪सीता⟫] f. Nume propriu: fiica regelui ⟪जनक⟫ din ⟪विदेह⟫. Ea a ieșit din pământ, când regele arase odată câmpul, de aceea numele ei: :sig[⟪सीता⟫] f. „șanț de câmp”
 
 ::: media
+
 ![lekt4205.jpg](/images/lekt4205.webp)
+
 Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4205))
+
 :::
+
 ⟪मिथिला⟫ f. Nume propriu: capitala lui ⟪विदेह⟫
 
 ::: media
+
 ![lekt4206.jpg](/images/lekt4206.webp)
+
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4206))
+
 :::
+
 ⟪जनक⟫ m. Nume propriu: rege al lui ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: Comparativ la ⟪गुरु⟫ 3: mai greu, foarte greu
@@ -349,10 +414,14 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ⟪रावण⟫ m. Nume propriu; conducător al lui :sig[⟪लङ्का⟫], conducător al ⟪राक्षस⟫.
 
 ::: media
+
 ![lekt4207.jpg](/images/lekt4207.webp)
+
 Fig.: ⟪रावणः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4207))
+
 :::
+
 ⟪अयोध्या⟫ f. Nume propriu: capitala lui ⟪कोसल⟫ (vezi harta de mai sus!)
 
 ⟪दशरथ⟫ m. Nume propriu: rege al lui ⟪कोसल⟫
@@ -364,4 +433,3 @@ Fig.: ⟪रावणः⟫
 :sig[⟪विश्वामित्र⟫] m. Nume propriu: ⟪ऋषि⟫, și-a tras arcul lui ⟪राम⟫ și pe al lui ⟪लक्ष्मन⟫, pentru a ucide demoni; pentru aceasta, cei doi primesc de la el arme vrăjite.
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual la ⟪सीताराम⟫
-

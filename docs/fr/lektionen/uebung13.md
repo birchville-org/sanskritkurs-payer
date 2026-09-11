@@ -121,10 +121,14 @@ Que mangent et boivent les Brahmanes ?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Fig. : ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Source de l'image : [Détails](/licenses#uebung019))
+
 :::
+
 ---
 
 ## Exercices supplémentaires
@@ -136,7 +140,7 @@ B) Mettez les phrases de l'exercice A) à la forme passive.
 C) Formez une construction PPP à partir des phrases de l'exercice A).
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Rāma va au village par le chemin.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -269,7 +273,10 @@ E) Traduisez en sanskrit :
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Fig. : ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Source de l'image : [Détails](/licenses#uebung018))
+
 :::

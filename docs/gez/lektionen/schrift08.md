@@ -114,7 +114,7 @@ B) ፃፉ እና ትርጉም ይስጡ:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+ሐ) ጽሐፍ፡
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 

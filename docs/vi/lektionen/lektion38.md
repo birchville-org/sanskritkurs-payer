@@ -15,8 +15,11 @@ status: stable
 ⟪मनुस्मृति ४⟫.⟪३२⟫ về việc tiểu tiện đúng cách:
 
 ::: indent
+
 ⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
+
 :::
+
 Giải thích:
 
 \-⟪अग्नि⟫ Trung tính, Chủ ngữ/Tân ngữ số ít thuộc ⟪अग्नि⟫ giống đực.
@@ -24,21 +27,30 @@ Giải thích:
 \-⟪गु⟫ Trung tính, Chủ ngữ/Tân ngữ số ít thuộc ⟪गो⟫ giống đực/cái "bò, con bò cái"
 
 ::: media
+
 ![](/images/lekt3801.webp)
+
 Hình: ⟪प्रज्ञा नश्यति मेहतः⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3801))
+
 :::
+
 ## 38.2. Biến đổi âm của phụ âm mũi trong từ
 
 ::: grammar-box
+
 Các phụ âm mũi trong từ sẽ được đồng hóa với phụ âm đứng sau, nghĩa là chúng được thay thế bằng phụ âm mũi tương ứng với phụ âm đó.
 
 Sau c- và j-, -n- được thay bằng -ñ-.
+
 :::
+
 ## 38.3. Biến cách của các gốc từ tận cùng bằng -n
 
 ### 38.3.1. Danh từ tận cùng bằng -an cũng như danh từ tận cùng bằng -man hoặc -van sau nguyên âm
+
 ::: grammar-box
+
 Danh từ tận cùng bằng **-an** cũng như danh từ **-man** hoặc **-van** sau nguyên âm có ba gốc:
 
 | Gốc từ | -an | -man | -van | Cách sử dụng |
@@ -48,7 +60,9 @@ Danh từ tận cùng bằng **-an** cũng như danh từ **-man** hoặc **-van
 | **Gốc yếu nhất** | **-n** | **-mn** | **-vn** | Các cách còn lại trước đuôi bắt đầu bằng nguyên âm |
 
 **Các đuôi biến cách đều đặn. Danh xưng số ít giống đực/cái được hình thành mà không có -n tận cùng.**
+
 :::
+
 Ví dụ:
 
 ⟪राजन्⟫ m. "vua"
@@ -64,6 +78,7 @@ Ví dụ:
 *   Gốc mạnh: ⟪नामान्⟫
 *   Gốc trung bình: ⟪नाम⟫
 *   Gốc yếu nhất: ⟪नाम्न्⟫
+
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -86,21 +101,29 @@ Ví dụ:
 | ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt3803.webp)
+
 Hình: ⟪सीमा⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3803))
+
 :::
+
 ### 38.3.2. Danh từ tận cùng -man hoặc -van sau phụ âm
 
 ::: grammar-box
+
 *   Gốc mạnh: -mān, -vān
 *   Gốc yếu:
 *   trước các đuôi bắt đầu bằng phụ âm: -ma, -va (từ -\*mn, -\*vn)
 *   trước các đuôi bắt đầu bằng nguyên âm: **\-man, -van**
 
 Nếu không, cách hình thành như ở 3.1.
+
 :::
+
 Ví dụ:
 
 ⟪आत्मन्⟫ n. "linh hồn"
@@ -114,6 +137,7 @@ Ví dụ:
 *   gốc yếu:
 *   trước phụ âm: ⟪ब्रह्म⟫
 *   trước nguyên âm: ⟪ब्रह्मन्⟫
+
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -136,15 +160,19 @@ Ví dụ:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
+
 ### 38.3.3. Giống đực và giống trung tận cùng bằng -in, -min, -vin
 
 ::: grammar-box
+
 Các danh từ này **không có** sự biến đổi gốc.
 
 Nom.sg.m. và Nom.Akk.pl.n. được hình thành theo phép tương tự với các gốc -an (giãn dài -i-), cũng như gốc tận cùng bằng **\-i-** trước đuôi phụ âm.
 
 Giống cái được hình thành với hậu tố -ī: ví dụ ⟪बलिनी⟫
+
 :::
+
 Ví dụ:
 
 ⟪बलिन्⟫ m.n. "mạnh mẽ, cường tráng (được đặc trưng bởi ⟪बल⟫ riêng biệt, sở hữu ⟪बल⟫)"
@@ -171,35 +199,49 @@ Ví dụ:
 | ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
+
 ## 38.4. Về việc hình thành danh từ: Hậu tố ⟪तद्धित⟫ -in
 
 ::: grammar-box
+
 Với hậu tố (rất quan trọng!) ⟪तद्धित⟫ **-in**, tính từ được hình thành từ danh từ với nghĩa:
 
 **được đặc trưng bởi, sở hữu**
 
 Ban đầu, việc hình thành với hậu tố **-⟪इन्⟫** khác với việc hình thành với **-⟪मन्त्⟫/-⟪वन्त्⟫** ở chỗ **-⟪इन्⟫** chỉ việc được đặc trưng bởi một điều gì đó đặc biệt, trong khi **-⟪मन्त्⟫/-⟪वन्त्⟫** chỉ việc sở hữu, được đặc trưng bởi một điều gì đó thông thường, phổ biến.
+
 :::
+
 Ví dụ:
 
 ⟪हस्तिन्⟫ nam giới: người được đặc trưng bởi một bàn tay đặc biệt = voi (bàn tay của nó không phải là bàn tay thông thường, mà là vòi)
 
 ::: media
+
 ![](/images/lekt3806.webp)
+
 Hình: ⟪हस्ती⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3806))
+
 :::
+
 ⟪हस्तवन्त्⟫ : một người, có (bàn tay) của con người
 
 ::: media
+
 ![](/images/lekt3807.webp)
+
 Hình: ⟪हस्तवान्⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3807))
+
 :::
 
 ::: grammar-box
+
 Tính từ kết thúc bằng **-⟪इन्⟫** thường được tạo thành từ các hợp danh từ (compound words).
+
 :::
+
 Ví dụ:
 
 ⟪सत्यवादिन्⟫ từ ⟪सत्यवाद⟫ nam giới "Nói sự thật": "người được đặc trưng bởi việc nói sự thật = người luôn nói sự thật"
@@ -207,88 +249,136 @@ Ví dụ:
 ## 38.5. Về cú pháp của ⟪नामन्⟫
 
 ::: grammar-box
+
 Để diễn đạt "ai đó tên là N. N.", người ta cấu trúc:
 
 **N.N. (ở cách chủ ngữ) ⟪नाम⟫**
 
 Theo nghĩa đen: "Tên là/was N.N". Vì vậy, đây thực chất là một mệnh đề danh từ được chèn xen vào.
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 ⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Ngày xưa có một vị vua **tên là Nala**, con trai mạnh mẽ của Vīrasena."
+
 :::
+
 Tất nhiên, điều này cũng có thể được diễn đạt bằng một ⟪बहुव्रीहि⟫:
 
 ::: indent
+
 ⟪देवदत्तनामा पुरुषः⟫ "một người đàn ông, tên là Devadatta"
 
 ⟪मदयन्तिकानाम्नी बाला⟫ "một cô gái, tên là Madayantika"
+
 :::
+
 ::: media
+
 ![](/images/lekt3808.jpg)
+
 Hình: ⟪आसीन्महात्मा गन्धी नाम⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3808))
+
 :::
+
 ## 38.6. Về mặt cú pháp của ⟪आत्मन्⟫
 
 ::: grammar-box
+
 ⟪आत्मन्⟫ **giống đực** có thể được sử dụng ở dạng **số ít** như một đại từ phản thân (reflexive pronoun) cho cả ba giống, số lượng (bao gồm cả song số và đa số) và ngôi.
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 ⟪आत्मन्येषा दोषं न पश्यति ।⟫ "Cô ấy không thấy lỗi lầm nơi chính mình"
 
 ⟪आत्मानं स्तुवन्ति ।⟫ "Họ tự khen ngợi chính mình"
+
 :::
+
 ::: grammar-box
+
 Cách sở hữu (⟪षष्ठी⟫) ⟪आत्मनस्⟫ do đó có thể đứng để chỉ "của chính tôi/bạn/anh ấy/cô ấy..."
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 ⟪आत्मनो गृहं प्रविशति ।⟫ "Anh ấy bước vào chính ngôi nhà của mình."
+
 :::
+
 ## 38.7. Các gốc từ kết thúc bằng phụ âm làm thành phần đầu của hợp danh từ
 
 ::: grammar-box
+
 Các gốc từ kết thúc bằng một phụ âm sẽ xuất hiện dưới dạng thành phần đầu của hợp danh từ ở dạng gốc (yếu), mà chúng nhận được trước hậu tố -su của cách địa vị (⟪सप्तमी⟫) số nhiều.
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 sig[⟪राज⟫]⟪पुत्र⟫ "con trai của vua"
+
 :::
+
 ## 38.8. Các gốc từ kết thúc bằng -an làm thành phần cuối của một ⟪बहुव्रीहि⟫
 
 ::: grammar-box
+
 Làm thành phần cuối của một ⟪बहुव्रीहि⟫, một gốc từ kết thúc bằng -an có thể được sử dụng cho cả ba giống. Tuy nhiên, thông thường giống cái được hình thành với hậu tố -ī từ dạng gốc giống đực yếu nhất.
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 ⟪दुर्णाम्नी⟫ "một cái, có tên xấu; ma bệnh tật"
+
 :::
+
 ## 38.9. Danh sách từ vựng
 
 ⟪सूर्य⟫ m.: Mặt trời, thần mặt trời Sūrya
 
 ::: media
+
 ![](/images/lekt3802.webp)
+
 Abb.: ⟪सूर्यः⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3802))
+
 :::
+
 ⟪उदक⟫ n.: Nước
 
 ::: media
+
 ![](/images/lekt3805.webp)
+
 Abb.: ⟪उदकम्⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3805))
+
 :::
+
 ⟪वा⟫ 2P ⟪वाति⟫ : thổi, phả
 
 ::: indent
+
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
@@ -299,24 +389,35 @@ Inf. ⟪वातुम्⟫
 từ đó:
 
 ⟪वात⟫ m.: Gió
+
 :::
+
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : thổi, bay đi, tắt
 
 ::: indent
+
 từ đó:
 
 ⟪निर्वाण⟫ n.: Sự tắt lịm, Niết bàn
 
 ⟪परिनिर्वाण⟫ n.: Sự tắt lịm hoàn toàn, sự giải thoát hoàn hảo (vào thời điểm chết của một Đức Phật hoặc A-la-hán)
+
 :::
+
 ::: media
+
 ![](/images/lekt3804.webp)
+
 Abb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3804))
+
 :::
+
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : tiểu, đái, xuất tinh
 
 ::: indent
+
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -326,12 +427,15 @@ PPP ⟪मीढ⟫
 từ đó:
 
 ⟪मेघ⟫ m.: Mây ("kẻ tiểu")
+
 :::
+
 ⟪सुत⟫ m.: Con trai
 
 ⟪राजन्⟫ m.: Vua (xem về chế độ vua chúa ở Ấn Độ, Basham, Wonder tr. 82 -94). Là thành phần cuối của một từ ghép (đặc biệt ⟪तत्पुरुष⟫) thường là: -⟪राज⟫ m. (như ⟪देव⟫)
 
 ::: indent
+
 Giống cái:
 
 ⟪राज्ञी⟫ f.: Nữ hoàng, vợ của một vị vua
@@ -339,7 +443,9 @@ Giống cái:
 từ ⟪राज⟫ :
 
 ⟪राज्य⟫ 3: thuộc về vua; n. Vương quốc, chế độ vua chúa, quyền lực
+
 :::
+
 ⟪नामन्⟫ n.: Tên
 
 ⟪सीमन्⟫ f.: Ranh giới
@@ -351,27 +457,39 @@ từ ⟪राज⟫ :
 ⟪ब्रह्मन्⟫ m.: vị thần sáng tạo được hình dung cá nhân Brahmā
 
 ::: media
+
 ![](/images/lekt3809.webp)
+
 Abb.: ⟪ब्रह्मा⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3809))
+
 :::
+
 ⟪कर्मन्⟫ n.: liên quan đến ⟪कृ⟫ 8U: hành động, việc làm; công việc thiêng liêng, nghi lễ hy sinh; Karma: những gì đã làm trước đây, sẽ mang lại quả sau này (ví dụ trong tái sinh)
 
 ::: indent
+
 ⟪कर्मविपाक⟫ m.: kết quả của hành động = những hậu quả tốt và xấu từ các hành động trong những kiếp sống trước (liên quan đến ⟪वि⟫-⟪पच्⟫)
+
 :::
+
 ⟪हस्तिन्⟫ m.: voi (_Elephas maximus_)
 
 ⟪मनु⟫ m.: con người, đàn ông; tên của cha loài người (liên quan đến ⟪मन्⟫ 4Ā)
 
 ::: indent
+
 từ đó:
 
 ⟪मनुष्य⟫ m.: con người
+
 :::
+
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (bừng cháy, tỏa sáng) ; đau buồn, thương tiếc
 
 ::: indent
+
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -386,18 +504,29 @@ từ đó:
 ⟪शोक⟫ m.: nỗi buồn, đau khổ
 
 ⟪अशोक⟫ 3: không đau khổ; cây Ashoka = _Saraca asoca_ (Roxb.) Wilde; tên của hoàng đế Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (khoảng 304 – 232 trước Công nguyên)
-:::
-::: media
-![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3810))
+
 :::
 
 ::: media
-![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3811))
+
+![](/images/lekt3810.webp)
+
+Abb.: ⟪अशोकवृक्षः⟫
+
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3810))
+
 :::
+
+::: media
+
+![](/images/lekt3811.webp)
+
+Abb.: ⟪अशोकसाम्राज्यम्⟫
+
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3811))
+
+:::
+
 ## 38.10. Bài tập
 
 A) Hãy điền dạng tương ứng của các từ trong ngoặc vào các câu sau và dịch chúng:
@@ -439,64 +568,90 @@ A) Hãy điền dạng tương ứng của các từ trong ngoặc vào các câ
 ⟪विनोद⟫ m.: sự tiêu khiển, giải trí, niềm vui
 
 ::: media
+
 ![](/images/lekt3812.webp)
+
 Hình: ⟪विनोदः⟫
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3812))
+
 :::
+
 ⟪अट्⟫ ngôi thứ nhất số ít ⟪अटति⟫ : đi lang thang
 
 ::: indent
+
 Hoàn thành I ⟪आट⟫, ⟪आटुः⟫
 Tương lai ⟪अटिष्यति⟫
 Nguyên nhân ⟪आटयति⟫
+
 :::
+
 ⟪गाध⟫ ngôi thứ ba: nông
 
 ⟪तॄ⟫ ngôi thứ nhất số ít ⟪तरति⟫ : vượt qua, thoát khỏi (cách bổ ngữ)
 
 ::: indent
+
 Hoàn thành IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Tương lai ⟪तरिष्यति । तरीष्यति⟫
 Bị động ⟪तीर्यते⟫
 Nguyên nhân ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
 Động từ nguyên mẫu ⟪तरितुम् । तरीतुम्⟫
+
 :::
+
 ⟪पार⟫ n.(m.): bờ bên kia, ranh giới, mục tiêu
 
 ⟪तीर⟫ n.: bờ
 
 ::: media
+
 ![](/images/lekt3813.webp)
+
 Abb.: ⟪वाराणस्यां गङ्गातीरे⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3813))
+
 :::
+
 ⟪एकैकशस्⟫ Adv.: je einzeln
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
 
 ::: indent
+
 Perf. ⟪गणयां चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3814.webp)
+
 Abb.: ⟪गणयां चक्रुः⟫
+
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3814))
+
 :::
+
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : la hét, than khóc
 
 ::: indent
+
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
 Kaus. ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
+
 :::
+
 ⟪इदानीम्⟫ Adv.: jetzt
 
 ⟪नूनम्⟫ Adv.: bây giờ; vậy, do đó; chắc chắn, nhất định
@@ -504,44 +659,53 @@ PPP ⟪क्रुष्ट⟫
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
 
 ::: indent
+
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
 Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
+
 :::
+
 ⟪गवेषयति⟫ Denominativ: suchen
 
 ⟪व्याकुल⟫ 3: hoảng hốt, bồn chồn, bối rối
 
 ⟪कोलाहल⟫ m.n.: Geschrei, Lärm
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: sự tìm kiếm xung quanh
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : lachen
 
 ::: indent
+
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
 PPP ⟪हसित⟫
+
 :::
+
 ⟪सृ⟫ 1P ⟪सरति⟫ : laufen
 
 ::: indent
+
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
 Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
+
 :::
+
 ⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
 
 ⟪लज्जा⟫ f.: Scham
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ Trạng từ: xuống dưới
 
 ## 38.12. Übersetzungsübung
 
@@ -574,4 +738,3 @@ Giải thích:
 ⟪यूयम्⟫ Danh từ số nhiều. "các bạn"
 
 ⟪युष्माकम्⟫ Sở hữu cách số nhiều liên quan đến ⟪यूयम्⟫
-

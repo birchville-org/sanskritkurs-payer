@@ -12,17 +12,23 @@ status: stable
 ## 25.1. Pembentukan  Ablatif (⟪पञ्चमी⟫ = "akhiran kasus kelima")
 
 ::: grammar-box
+
 Kecuali untuk kata sifat maskulin/netra yang berakhiran -a dan kata ganti, dalam bentuk tunggal, pada semua kelas deklinasi, bentuk ablatif (⟪पञ्चमी⟫) identik dengan bentuk genitif (⟪षष्ठी⟫).
 
 Kecuali untuk kata ganti orang, dalam semua deklinasi, dalam bentuk jamak, bentuk ablatif identik dengan bentuk datif (⟪चतुर्थी⟫).
+
 :::
+
 Sekarang Anda mengenali alasan urutan kasus (⟪विभक्ति⟫) dalam bahasa Sanskerta: mereka disusun sedemikian rupa sehingga bentuk-bentuk yang identik berada sebisa mungkin berdekatan - atau di bawah satu sama lain.
 
 ::: grammar-box
+
 **Ablatife singular of masculines/neutrons ending in -a**
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
+**devāt** (⟪देवात्⟫)
+
 :::
+
 Interrogative, relative, and demonstrative pronouns:
 
 ::: grammar-box
@@ -36,6 +42,7 @@ Interrogative, relative, and demonstrative pronouns:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
+
 ## 25.2. Penggunaan  Ablatif (⟪पञ्चमी⟫)
 
 "The ablative denotes that which remains fixed when something departs from it."
@@ -45,73 +52,107 @@ Pāṇini 2,3,28 + 1,4,24
 Ablatif digunakan terutama untuk menjawab pertanyaan "Dari mana?", "Mengapa?".
 
 ::: grammar-box
+
 Ablatif dengan demikian menunjukkan titik awal, asal-usul, dan materi.
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
+
 :::
+
 Examples:
 
 ::: indent
+
 ⟪ग्रमादागच्छति⟫ = "He comes from the village"
 
 ⟪अश्वात्पतितः⟫ = "fallen from the horse"
 
 ⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "received from them (here)"
+
 :::
+
 Examples:
 
 ::: indent
+
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "he hears from the teacher about the Dharma"
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "seorang Brahmin menginginkan seekor sapi perah dari seorang Kṣatriya"
+
 :::
+
 ::: grammar-box
+
 2\. Ablatif digunakan dengan kata kerja yang berarti "menahan diri dari", "melindungi dari", "membela terhadap", "takut akan":
+
 :::
+
 Contoh:
 
 ::: indent
+
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "ia melindungi dari musuh-musuh"
+
 :::
+
 ::: grammar-box
+
 3\. Ablatif menunjukkan alasan atau sebab:
+
 :::
+
 Contoh-contoh:
 
 ::: indent
+
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger"
 
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Because he has done evil, he goes to hell" (« Because he is one through whom evil was done)
 
 ⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Karena ia telah/melakukan kejahatan, ia pergi ke neraka"
+
 :::
+
 Kata benda yang bukan feminin dapat, untuk menunjukkan alasan suatu tindakan, berada dalam kasus instrumental (⟪तृतीया⟫) atau ablative (⟪पञ्चमी⟫). Kata benda feminin dalam hal ini biasanya berada dalam kasus instrumental, tetapi kadang-kadang juga dapat berada dalam kasus ablative.
 
 ## 25.3. Sufiks -⟪तस्⟫
 
 ::: grammar-box
+
 Jika seseorang ingin menyatakan secara tunggal (tanpa ambiguitas) bahwa kata tersebut digunakan dalam makna ablative, seseorang dapat menambahkan sufiks -⟪तस्⟫ ke pada stem kata, yang membentuk adverbia dengan sebagian besar makna ablative (menjawab pertanyaan "Dari mana?"):
+
 :::
+
 Contoh:
 
 ::: indent
+
 ⟪आदितस्⟫ = "from the beginning"
 
 ⟪धर्मतस्⟫ = "karena Dharma, karena Dharma"
+
 :::
+
 ::: grammar-box
+
 Akhiran -⟪तस्⟫ juga terjadi pada batang pronominal:
+
 :::
+
 ::: indent
+
 ⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "dari sana, di sana, ke sana, atas itu, kemudian, oleh karena itu"
 
 ⟪यद्⟫ : ⟪यतस्⟫ "from which, of which, from where, where, whither, why, because" (relative)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "from where?" "why?"
+
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+
+## 25.4. Cara Lain untuk Mengekspresikan Alasan
 
 ::: grammar-box
+
 **1\. Relative Clauses**
 
 Relative clauses often express a causal (reasoning), consequential (following), or final (purposeful) relationship to the main clause.
@@ -123,35 +164,54 @@ Relative clauses often express a causal (reasoning), consequential (following), 
     *   ⟪यस्मात्⟫ ... subordinate clause ... ⟪तस्मात्⟫ ... main clause ... = "because ..., therefore ..."
 *   instrumental:
     *   ⟪येन⟫ ... subordinate clause ... ⟪तेन⟫ ... main clause ... = "by which/because ..., thereby / therefore ..."
+
 :::
+
 Example:
 
 ::: indent
+
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Because Rāma desires prosperity, he practices the vow"
+
 :::
+
 ::: grammar-box
+
 **2\. ⟪हि⟫**
 
 [Kalimat utama dapat saling dihubungkan menggunakan partikel ⟪हि⟫ "karena, sebab". Sebuah kalimat dengan ⟪हि⟫ (yang tidak boleh berada di tempat pertama, tetapi harus berada di tempat kedua dalam prosa) menunjukkan alasan baik untuk kalimat sebelumnya maupun untuk kalimat berikutnya:]
 [K0] :::
+
 [K1] Contoh:
+
 :::
+
 Contoh:
 
 ::: indent
+
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "People do meritorious deeds. For they wish to enter heaven."
+
 :::
+
 ::: grammar-box
+
 **3\. Instrumental (⟪तृतीया⟫)**
 
 Selain kasus ablative (⟪पञ्चमी⟫), kasus instrumental (⟪तृतीया⟫) digunakan untuk menunjukkan alasan atau sebab. Dengan kata benda feminin, kasus instrumental umumnya wajib.
+
 :::
+
 Contoh:
 
 ::: indent
+
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger" = "He kills his son in anger"
+
 :::
+
 ::: grammar-box
+
 **4\. Nouns**
 
 Furthermore, reasons can of course also be expressed through constructions with
@@ -161,27 +221,39 @@ Furthermore, reasons can of course also be expressed through constructions with
 *   other nouns meaning "cause"
 
 Genitive (⟪षष्ठी⟫) or as the second member of compounds:
+
 :::
+
 Example:
 
 ::: indent
+
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ et cetera) = "on account of merit"
+
 :::
+
 ::: grammar-box
+
 **5\. ⟪इति⟫**
 
 Motif untuk suatu tindakan dapat dinyatakan sebagai pikiran dengan ⟪इति⟫:
+
 :::
+
 Contoh:
 
 ::: indent
+
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Karena Sugata telah sepenuhnya terbangun menuju kebenaran, Ānanda bertanya kepada Gautama tentang ajarannya" (« "Berpikir "Sugata telah sepenuhnya terbangun menuju kebenaran" ...)
+
 :::
+
 ## 25.5. Daftar Kata
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  leave, abandon, forsake
 
 ::: indent
+
 Fut. ⟪त्यक्ष्यति⟫  
 Pass. ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
@@ -191,7 +263,9 @@ Absol. 2: -⟪त्यज्य⟫
 therefrom:
 
 ⟪त्याग⟫ m.: abandonment, renunciation, avoidance
+
 :::
+
 ⟪दार⟫ m. pl. (!!!): wife
 
 ⟪द्रव्य⟫ n.: object, property, material possession, money
@@ -199,13 +273,18 @@ therefrom:
 ⟪धान्य⟫ n.: threshed grain
 
 ::: media
+
 ![](/images/lekt2501.webp)
+
 Fig.: ⟪धान्यम्⟫
 (Image source: [Detail](/en/licenses#lekt2501))
+
 :::
+
 ⟪धृ⟫ 1U ⟪धरति⟫ : hold, keep firm
 
 ::: indent
+
 Fut. ⟪धरिष्यति⟫  
 Pass. ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
@@ -215,12 +294,17 @@ Absol. 2: -⟪धृत्य⟫
 therefrom:
 
 ⟪धर्म⟫ m.: yang teguh dan tetap = Dharma
+
 :::
+
 ⟪नित्य⟫ ⟪३⟫ : konstan, teguh, abadi
 
 ::: indent
+
 ⟪नित्यम्⟫ Adv.: always, constantly, ever
+
 :::
+
 ⟪प्रज्ञा⟫ f.:  wisdom, knowledge
 
 ⟪प्रदान⟫ n.: giving, donating; gift, donation
@@ -228,6 +312,7 @@ therefrom:
 ⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : rejoice, be intoxicated by something (Instr., Gen., Loc.)
 
 ::: indent
+
 Fut. ⟪मदिष्यति⟫  
 Pass. ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
@@ -236,7 +321,9 @@ Inf. ⟪मदितुम्⟫
 therefrom:
 
 ⟪मद⟫ m.: intoxication, sensual intoxication = sensual pleasure
+
 :::
+
 ⟪मान⟫ m.: assessment, reputation, fame, honor, pride, conceit, sense of inferiority; (one measures oneself against others)
 
 ⟪यदि⟫ Conjunction: if
@@ -248,11 +335,14 @@ therefrom:
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
+
 Pass. ⟪यायते⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
+
 :::
+
 ⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
@@ -260,6 +350,7 @@ Absol. 2: -⟪याय⟫
 ⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : command, teach, punish
 
 ::: indent
+
 Pass. ⟪शिष्यते⟫  
 PPP ⟪शिष्ट⟫ ⟪३⟫ : taught  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
@@ -267,7 +358,9 @@ Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 therefrom:
 
 ⟪शिक्षा⟫ f.: science, instruction; phonetics
+
 :::
+
 ⟪स्तेन⟫ m.: thief
 
 ⟪स्तेय⟫ n.: theft
@@ -279,13 +372,18 @@ therefrom:
 ⟪मूल⟫ n.: root
 
 ::: media
+
 ![](/images/lekt2502.webp)
+
 Fig.: ⟪मूलानि⟫
 (Image source: [Detail](/en/licenses#lekt2502))
+
 :::
+
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): anoint, smear
 
 ::: indent
+
 Fut. ⟪लेप्स्यति⟫  
 Pass. ⟪लिप्यते⟫  
 PPP ⟪लिप्त⟫  
@@ -294,17 +392,24 @@ Inf. ⟪लेप्तुम्⟫
 therefrom:
 
 ⟪लिप्ति⟫ f.: anointing, writing, script
+
 :::
+
 ::: media
+
 ![](/images/lekt2503.webp)
+
 Fig.: ⟪लिप्तिः⟫
 (Image source: [Detail](/en/licenses#lekt2503))
+
 :::
+
 ⟪वर्ष⟫ n.,m.: rain, rainy season, year
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : lead, drive, blow (wind)
 
 ::: indent
+
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
@@ -316,31 +421,45 @@ Absol 2: -⟪उह्य⟫
 therefrom:
 
 ⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
+
 :::
+
 ::: media
+
 ![](/images/lekt2504.webp)
+
 Fig.: ⟪विवाहः⟫
 (Image source: [Detail](/en/licenses#lekt2504))
+
 :::
+
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : lead away, instruct, educate
 
 ::: indent
+
 therefrom:
 
 ⟪विनय⟫ m.: removal, education, discipline, Buddhist: monastic discipline, monastic law
+
 :::
+
 ⟪विज्ञान⟫ n.: knowledge, cognition
 
 ⟪विष्टि⟫ f.: work, corvée
 
 ::: media
+
 ![](/images/lekt2505.webp)
+
 Fig.: ⟪विष्टिः⟫
 (Image source: [Detail](/en/licenses#lekt2505))
+
 :::
+
 ⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : grow, become larger
 
 ::: indent
+
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : grown up, old, increased  
@@ -349,7 +468,9 @@ Inf. ⟪वर्धितुम्⟫
 of:
 
 ⟪वृद्धि⟫ f.: growth, increase, gradation (from: vṛdh-ti)
+
 :::
+
 ⟪सामर्थ्य⟫ n.: that which corresponds to its purpose
 
 ⟪स्वभाव⟫ m.: being, nature, character
@@ -359,10 +480,14 @@ of:
 ⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: gold, money, wealth
 
 ::: media
+
 ![](/images/lekt2506.webp)
+
 Fig.: ⟪हिरण्यम्⟫
 (Image source: [Detail](/en/licenses#lekt2506))
+
 :::
+
 ⟪अणु⟫ ⟪३⟫ : thin, fine, very small ; m.: atom
 
 ⟪गोदान⟫ n.: giving of cows / of a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
@@ -416,9 +541,13 @@ B) Translate and resolve the compounds in Sanskrit:
 ⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
 ::: media
+
 ![](/images/lekt2507.webp)
+
 Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
+
 :::
+
 ## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
@@ -427,8 +556,11 @@ Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
 ::: indent
+
 Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अणु⟫ = Nom., Acc. sg. neuter.
+
 :::
+
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
@@ -444,8 +576,11 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
 
 ::: indent
+
 Explanation: ⟪राजा⟫ = Nom. sg. from ⟪राजन्⟫ m. = ⟪नृप⟫
+
 :::
+
 ## 25.8. Latihan Penerjemahan
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫ on the benefits of economics:
@@ -489,4 +624,3 @@ Penjelasan kata-kata yang disorot merah dalam teks di atas:
 1.5.16. ⟪धि⟫ Sandhi form, from ⟪हि⟫ ; ⟪आत्मवत्ता⟫ feminine: "self-possession"
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ "to be done, what must be done"
-

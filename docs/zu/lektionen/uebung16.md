@@ -154,7 +154,7 @@ A) Yakha zonke izigaba ezifundiswayo zokufaka amagama alandelayo njengemizekelo 
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Ubunikazi besifazane ⟪गुणवती⟫ buhlukaniswa njenge ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -201,8 +201,8 @@ A) Yakha zonke izigaba ezifundiswayo zokufaka amagama alandelayo njengemizekelo 
 B) Translate and resolve all Sanskrit compounds:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
-⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (oder: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
-Yoga is the cessation of the modifications of the mind.
+⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (noma: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
+I-Yoga ukuqedwa kokuguqulwa kwengqondo.
 
 ⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 The specific duty of a Brāhmaṇa is: study of the Vedas, teaching the Vedas, performing sacrifices as the host, performing sacrifices on behalf of others, giving to Brāhmaṇas, and receiving gifts.

@@ -127,7 +127,7 @@ Abb.: ⟪भवति किं करोषि⟫
 
 ## 45.3. Wortliste
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ : antingen ... eller
 
 ## 45.4. Übung
 
@@ -151,7 +151,7 @@ zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
 
 5\. Fader, vart lämnar du familjen?
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen?
+6\. Śūdrakvinna, har du burit bördan till den rike brahmanens hus?
 
 7\. Gudinna, du borde uppfylla önskan om lycka hos vaiśya, som har gjort förtjänstfulla gärningar.
 
@@ -161,7 +161,7 @@ zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
 
 10\. Har du, poet, mätt världarna?
 
-B) Übersetzen Sie:
+B) Översätt:
 
 ⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥ भवति कथमनन्तदुःखमरुणत् ॥२॥ ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥ शत्रो शस्तेण जीवं न छिनत्सि ॥४॥⟫
 

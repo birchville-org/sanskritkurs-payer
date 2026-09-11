@@ -1,6 +1,6 @@
 ---
 title: "Lección 56"
-subtitle: "El aoristo con reduplicación"
+subtitle: "Aorist með endurtekningu"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -13,6 +13,7 @@ status: stable
 ## 56.1. The reduplicated aorist
 
 ::: grammar-box
+
 **Formation:**
 
 **Augment + reduplicated root + a + thematic secondary ending**
@@ -22,7 +23,9 @@ status: stable
 **Final -i and -u are replaced by -iy and -uv, respectively.**
 
 **Final -ā (for -e) is dropped.**
+
 :::
+
 Paradigm:
 
 ⟪श्रि⟫ 1U "to go to, to lean on"
@@ -43,13 +46,17 @@ This form of the aorist is formed by, among others:
 *   ⟪वच्⟫ 2P "to say": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
+
 **All roots of the 10th present class as well as all causatives always form the reduplicated aorist.**
+
 :::
+
 ### 56.1.1. Formation of the aorist of causatives and roots of the 10th present class
 
 Root syllable:
 
 ::: grammar-box
+
 **The starting point is the form of the present stem or causative stem that remains after removing the formation element -aya- (i.e., a stem ending in -p for causatives on -paya-).**
 
 **The vowel of this so-called root syllable is determined in the aorist according to the following rules:**
@@ -67,12 +74,15 @@ Root syllable:
 
 *   **ar, ār, īr, al substituting for ṛ, ṝ, ḷ immediately preceding the final consonant of the stem syllable remains optionally unchanged or is replaced by ṛ or ḷ:**  
 ⟪कॢप्⟫ 1Ā: Caus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
+
 :::
+
 Vowel of the reduplication syllable:
 
 After applying the rules just mentioned to the stem syllable, the following rules for the vowel of the reduplication syllable must be followed:
 
 ::: grammar-box
+
 **The starting point is the regular reduplication vowel, i.e.**
 
 *   a for a, ā, ṛ,  ṝ, ḷ
@@ -96,35 +106,51 @@ Special cases of certain roots in Kielhorn, Grammar § 435c ff.
 Vowel - first following consonant (or its representative required in a reduplicating syllable) - **i** \- all consonants
 
 :::
+
 ::: indent
+
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicated syllable ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicated syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicated syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+
 :::
+
 *   **If a vowel-initial syllable is followed by a consonant cluster beginning with a nasal or d or r, the second consonant of the cluster (or its substitute) is inserted with i according to the following schema:**
 
 
 Vowel - first consonant - second consonant (substitute) - i - second consonant
 
 ::: indent
+
 ⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, reduplicated syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicated syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicated syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+
 :::
+
 This form of reduplication for vowel-initial derived stems (causatives) is called "Attic Reduplication".
 ## 56.2. The Injunctive
 
 ::: grammar-box
+
 **The Injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical with the augmentless forms of the Indicative Imperfect or Aorist. Indigenous Indian grammar did not recognize the Injunctive as a distinct grammatical category.**
+
 :::
+
 According to the foundational work:
 
 ::: media
+
 ![](/images/lekt5601.jpg)
+
 Fig.:
 Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983)
 (Image source: [Details](/is/licenses#lekt5601))
+
 :::
 
 ::: indent
+
 Hoffmann, Karl (1915–1996): The Injunctive in the Veda: A Synchronic Functional Study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3rd series, Investigations)
+
 :::
+
 the Injunctive in the Veda has the following properties:
 
 *   it is not narrative, but mentionative
@@ -133,6 +159,7 @@ the Injunctive in the Veda has the following properties:
 *   the Injunctive Aorist denotes the perfective aspect.
 
 ::: grammar-box
+
 **In post-Vedic Sanskrit, the injunctive occurs only in combination with the prohibitive particle ⟪मा⟫ (+ injunctive aorist) or ⟪मा स्म⟫ (+ injunctive present or aorist); the distinction in aspect usually no longer plays a role.**
 
 (with aspect
@@ -141,32 +168,41 @@ the Injunctive in the Veda has the following properties:
 *   ⟪मा स्म⟫ + injunctive present would denote an inhibitive sentence, i.e., a process already underway or an existing state is forbidden: "Stop ...!", "Desist from ...!"
 
 However, this distinction is usually not made in classical Sanskrit.)
+
 :::
+
 ## 56.3. The Prohibitive Sentence
 
 ::: grammar-box
+
 **Main form:**
 
 **⟪मा⟫ + injunctive aorist**
 
 **⟪मा स्म⟫ + injunctive aorist or injunctive present**
+
 :::
+
 Examples:
 
 ⟪मा कर्महेतुर्भूः⟫ "Verðið ekki sá sem er knúinn áfram af ávöxtum verka!" (boðháttur aorist) (⟪भगवद्गीता⟫ 2,47c)
 ⟪मा कर्महेतुर्भूः⟫ "Verðið ekki sá sem er knúinn áfram af ávöxtum verka!" (boðháttur aorist) (⟪भगवद्गीता⟫ 2,47c)
 
-:::
+
 ::: media
+
 ![](/images/lekt5602.webp)
+
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫
 Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
 (Image source: [Details](/is/licenses#lekt5602))
+
 :::
-Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for classical Sanskrit.)
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
+
+Bæði dæmin hafa bannandi merkingu. Injunktív aorist er því notaður hér í upprunalegri merkingu sinni. (Yfirgnæfandi notkun injunktív aorist í slíkum setningum má ef til vill skýra með yfirgnæfandi notkun bannsetninga fram yfir hömlusetningar, en þetta mál þyrfti að rannsaka fyrir klassíska sanskrít.)
 
 ::: grammar-box
+
 **Other forms of prohibitive sentences:**
 
 *   **⟪मा⟫ + (⟪स्म⟫) + Imperative (rarely)**
@@ -180,27 +216,40 @@ e.g. ⟪अलं विषादेन⟫ "Enough with despairing! = Stop being
 In addition, there are other, rarer forms of prohibitive sentences; see e.g.
 
 :::
+
 ::: indent
+
 Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+
 :::
+
 ::: media
+
 ![](/images/lekt5603.webp)
+
 Fig.: ⟪अलं विषादेन⟫
 (Image source: [Details](/is/licenses#lekt5603))
+
 :::
+
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
+
 **⟪स्म⟫ emphasizes: "truly, indeed, certainly, precisely"**
 
 **Furthermore, the following construction is very important:**
 
 :::
+
 ::: indent
+
 ⟪स्म⟫ + Indicative Present serves for narration in the past, especially to denote a duration in the past:
 
 e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be omitted).
+
 :::
+
 ## 56.5. Exercise
 
 A) Determine and translate the following forms without aids (!):

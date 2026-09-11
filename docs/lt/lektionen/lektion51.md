@@ -206,7 +206,6 @@ Daugiskaita nomin. akus. vok. ⟪सत्यवाञ्चि⟫
 > ::: indent
 Vienaskaita:
 
-:::
 > ::: indent
 Nomin. vok. ⟪शेषभुक्⟫
 Akus. ⟪शेषभुजम्⟫
@@ -216,7 +215,6 @@ Daugiskaita:
 > ::: indent
 Instrument. ⟪शेषभुग्भिस्⟫
 > Lok. ⟪शेषभुक्षु⟫
-:::
 > Vidurinioji lytis
 
 ::: indent
@@ -247,7 +245,6 @@ Instrument. ⟪परिव्राड्भिस्⟫
 ![](/images/lekt5104.webp)
 > Pav.: ⟪परिव्राट् पुष्कर⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5104))
-:::
 > ### 51.2.3. Kamienai su -h
 
 ::: grammar-box

@@ -266,7 +266,6 @@ od tego:
 ⟪स्तेन⟫ m.: złodziej
 
 ⟪स्तेय⟫ n.: kradzież
-:::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): smarować, posmarowywać
 
 ::: indent

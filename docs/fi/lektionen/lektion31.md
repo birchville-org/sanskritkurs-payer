@@ -1,5 +1,5 @@
 ---
-title: Lektion 31
+title: Oppitunti 31
 lesson_id: 31
 status: stable
 ---
@@ -9,6 +9,7 @@ status: stable
 ## 31.1. 7. preesensluokka (⟪रुधादि⟫ = "⟪रुध्⟫ jne.")
 
 ::: grammar-box
+
 **Muodostus:**
 
 **Syväasteisen verbijuvan loppukonsonantin edessä lisätään ns. nasali-infixi (-na- tai -n-):**
@@ -17,7 +18,9 @@ status: stable
 *   **heikossa vartaalossa: -n-**
 
 **Verbijuvan loppukonsonanttien ja konsonantilla alkavien päätteiden yhdistämisessä noudatetaan samoja sääntöjä kuin 2. preesensluokassa.**
+
 :::
+
 Esimerkkejä:
 
 ⟪युज्⟫ 7U "yhdistää, jännittää"
@@ -33,6 +36,7 @@ Esimerkkejä:
 | **Partizip Preesens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
+
 ⟪रुध्⟫ 7U "pysäyttää, tuoda pysähdykseen"
 
 ::: grammar-box
@@ -46,25 +50,34 @@ Esimerkkejä:
 | **Partizip Preesens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
+
 ::: grammar-box
+
 **Joissakin vartaloissa heikon preesensvartalon -n- on tunkeutunut myös ei-preesenseihin, minkä vuoksi nämä vartalot asetetaan nasaloinfiksilla.**
+
 :::
+
 Esimerkki:
 
 ⟪भञ्ज्⟫ 7P "murtua"
 
 ::: indent
+
 *   Indikatiivi Preesens
     *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
     *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
 *   Futuuri: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
 *   Passiivi: ⟪भज्यते⟫ (joko alkuperäisestä vartalosta ⟪भज्⟫ tai muodosta *bhñj-ya-te)
 *   PPP: ⟪भग्न⟫ (mahdollisesti muodosta *bhñj + na)
+
 :::
+
 ## 31.2. Sanalista
 
 ⟪युज्⟫ 7U ⟪युनक्ति⟫ : kiinnittää, jouttaa, kiristää; Ā myös: ponnistaa (= vaivata), liittää yhteen, keskittyä jhk (lokatiivi, ⟪सप्तमी⟫)
+
 ::: indent
+
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
@@ -72,7 +85,7 @@ Esimerkki:
 **Inf. ⟪योक्तुम्⟫**
 
 tästä:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** jousi, pari, maailmankausi (on olemassa neljä maailmankautta:
+⟪युग⟫ n.:** jousi, pari, maailmankausi (on olemassa neljä maailmankautta:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
@@ -81,77 +94,117 @@ tästä:
 ⟪कलियुग⟫ alkoi n. 3102 eKr., jona vuonna käytiin ⟪महाभारत⟫-sota. Lisätietoja Basham, Wonder s. 323)
 
 **⟪योग⟫ m.:** "kiinnitys, kiristys", ponnistus, yhteys, jooga (katso Basham, Wonder s. 327ff.)
+
 :::
+
 ::: media
+
 ![](/images/lekt3101.webp)
+
 Kuv.: ⟪योगः⟫
 Joogakuvaus.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3101))
+
 :::
+
 ⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : pysäyttää, tuoda pysähdykseen, pidättää = sulkea, peittää
+
 ::: indent
+
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
+
 :::
+
 ⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : katkaista
+
 ::: indent
+
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
+
 :::
+
 ⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (jotain) rikkoa
+
 ::: indent
+
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
+
 :::
+
 ⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : voidella, voitelevat
+
 ::: indent
+
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : voidella erilleen = meikata, tehdä erottuvaksi
+
+⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : voidella erilleen = meikata, tehdä erottuvaksi
+
 ::: indent
+
 **PPP ⟪व्यक्त⟫ :** erottunut, avautunut
 
 siitä:
 **⟪व्यञ्जन⟫ n.:** erottamiskeino = voide, mauste, tunnusmerkki, konsonantti (se, minkä kautta merkitykset erotetaan)
+
 :::
+
 ::: media
+
 ![](/images/lekt3102.webp)
+
 Kuv.: ⟪व्यञ्जनम्⟫
 Kathakali-tanssin valmistelu, Kochi.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3102))
+
 :::
+
 ⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : halkeilla
+
 ::: indent
+
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
+
 :::
+
 ⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : nauttia (esim. ruokaa; "maata hallita" = maata omistaa)
+
 ::: indent
+
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
-**PPP bhukt → PPP ⟪भुक्त⟫**
+PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
 siitä:
 **⟪भोग⟫ m.:** nautinto, syöminen, ilo, hyöty, vero, maksu
+
 :::
+
 ⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): sitoa, kiinnittää
+
 ::: indent
+
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
@@ -160,18 +213,28 @@ siitä:
 
 siitä:
 **⟪बन्धन⟫ n.:** sitominen, kahle
+
 :::
+
 **⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : tunnistaa, ymmärtää
+
 ::: indent
+
 siitä:
 **⟪प्रज्ञा⟫ f.:** viisaus, tieto
+
 :::
+
 ::: media
+
 ![](/images/lekt3103.webp)
-Kuv.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3103))
+
+Kuva: ⟪प्रज्ञापारमिता⟫
+Prajñāpāramitā-käsikirjoituksesta.
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3103))
+
 :::
+
 **⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : syntyä, olla olemassa
 
 **⟪शरीर⟫ n.:** ruumis, vartalo
@@ -185,21 +248,29 @@ A) Käännä seuraavat lauseet ja purekaavi yhdyssanat:
 ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
 
 ::: media
+
 ![](/images/lekt3105.jpg)
+
 Kuva: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Intian armeijan 18. ratsuväkirykmentin tankit liikkeellä vuoden 1965 Intian ja Pakistanin sodan aikana.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3105))
+
 :::
+
 ⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
 ::: media
+
 ![](/images/lekt3104.webp)
+
 Kuva: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
-Rāhula, der Sohn Buddhas, Laos.
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt3104))
+Rāhula, Buddhan poika, Laos.
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt3104))
+
 :::
+
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
 B) Muodosta seuraavien 7. luokan verbien juurten vartaloista kaikki kolmannen persoonan yksikön ja monikon muodot, P- ja Ā-vartaloilla, indikatiivin ja optatiivin preesensissä:
@@ -213,4 +284,3 @@ B) Muodosta seuraavien 7. luokan verbien juurten vartaloista kaikki kolmannen pe
 ⟪४⟫. ⟪अञ्ज्⟫ (vain P)
 
 ⟪५⟫. ⟪भञ्ज्⟫ (vain P)
-

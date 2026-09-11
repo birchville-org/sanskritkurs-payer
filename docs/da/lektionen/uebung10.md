@@ -112,7 +112,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-Sie hören aber auf ihre Meister.
+Men de lytter til deres mestre.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः स्वर्गमाप्नोति⟫
 
@@ -209,10 +209,14 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
+
 ![](/images/uebung011.webp)
+
 Fig.: ⟪ग्रामः⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung011))
+
 :::
+
 ---
 
 ## Læseøvelse
@@ -316,7 +320,10 @@ Hari goes home.
 The charioteer steers the chariot.
 
 ::: media
+
 ![](/images/uebung012.webp)
+
 Fig.: ⟪सारथी रथं नयति⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung012))
+
 :::

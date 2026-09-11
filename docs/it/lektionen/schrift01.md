@@ -30,7 +30,7 @@ Durante la scrittura, ogni lettera inclusa la barra orizzontale sulla linea supe
 
 ## Esercizio
 
-Schreiben Sie in Devanāgarī:
+Scrivi in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

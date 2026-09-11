@@ -524,3 +524,5 @@ A) Mësoni te Kielhorn, Grammatik § 451 formimet e paimtuara të desiderativit 
 
 52.  ⟪ईयुषे⟫
 
+
+:::

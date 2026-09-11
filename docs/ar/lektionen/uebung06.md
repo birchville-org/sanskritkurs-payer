@@ -141,10 +141,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 موجز: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung004))
+
 :::
+
 ---
 
 ## مراجعة التكرار للدرس 6
@@ -419,25 +423,25 @@ E) ترجموا:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+أنّابُورْنَا هي إلهة.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+إيتارا هي امرأة شودرا.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+تولادهارا هو فايشيا.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+ماغا هو شاعر.
 
 5\. devyumā.
 
@@ -449,7 +453,7 @@ Māgha ist ein Dichter.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+الفيدا هو شروتي.
 
 7\. dhenurviśati.
 
@@ -598,7 +602,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 المرسومة: ⟪देवतान्नपूर्णा⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung005))
+
 :::

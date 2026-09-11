@@ -35,7 +35,7 @@ B) Med bindevokal **-i-**:
 
 ⟪१५⟫. ⟪प्रभवति⟫ — ⟪प्रभविष्यति⟫
 
-⟪१६⟫. ⟪म्रियन्ते⟫ (im Futur Parasmaipada) — ⟪मरिष्यन्ति⟫
+⟪१६⟫. ⟪म्रियन्ते⟫ (i futurum Parasmaipada) — ⟪मरिष्यन्ति⟫
 
 ⟪१७⟫. ⟪जीवन्ति⟫ — ⟪जीविष्यन्ति⟫
 
@@ -51,16 +51,19 @@ B) Med bindevokal **-i-**:
 
 ⟪२३⟫. ⟪कुप्यन्ति⟫ — ⟪कोपिष्यन्ति⟫
 
-C) Futur optional mit und ohne **-i-**:
+C) Futurum valgfrit med og uden **-i-**:
 
 ⟪१⟫. ⟪मुह्यन्ति⟫ — ⟪मोहितुम्⟫ / ⟪मोक्ष्यन्ति⟫
 
 ⟪२⟫. ⟪वर्तते⟫ — ⟪वर्तिष्यते⟫ / ⟪वर्त्स्यते⟫
 
-⟪३⟫. ⟪अश्नुवते⟫ (im Futur Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
+⟪३⟫. ⟪अश्नुवते⟫ (i futurum Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
 
 ::: media
+
 ![](/images/uebung043.webp)
+
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Billedkilde: [Detaljer](/da/licenses#uebung043))
+
 :::

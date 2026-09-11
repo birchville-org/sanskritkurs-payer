@@ -190,7 +190,6 @@ Examples:
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Do not become effeminate!" (injunctive aorist) (⟪भगवद्गीता⟫ 2,3a)
 
-:::
 
 ::: media
 
@@ -204,7 +203,6 @@ Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ല
 
 Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
 
-:::
 
 Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
 

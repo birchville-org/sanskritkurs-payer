@@ -51,10 +51,10 @@ Plemenita gospa, vaše ponižanje naj ne bo poročeno gospodu Rāmi.
 B) Prevajajte v sanskrt z uporabo imperativa:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden.
+Želim biti ohranjen.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein.
+Naj bo zadovoljen.
 
 ---
 
@@ -153,7 +153,10 @@ Naj bosta premagana!
 Naj prinese srečo! (Blagoslov)
 
 ::: media
+
 ![](/images/uebung075.webp)
+
 Slika: ⟪माद्यत⟫
 (Vir slike: [Podrobnosti](/licenses#uebung075))
+
 :::

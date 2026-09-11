@@ -135,6 +135,7 @@ Example:
 
 Main clauses can be linked with the particle ⟪हि⟫ "for, because". A sentence with ⟪हि⟫ (which must not stand in first position, but rather in second position in prose) gives a reason either for the preceding sentence or for the following sentence:
 
+:::
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "People do meritorious deeds. For they wish to go to heaven."
 :::
@@ -264,7 +265,6 @@ from this:
 ⟪स्तेन⟫ m.: thief
 
 ⟪स्तेय⟫ n.: theft
-:::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): to smear, to daub
 
 ::: indent

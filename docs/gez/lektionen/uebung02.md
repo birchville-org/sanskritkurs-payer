@@ -49,19 +49,19 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 ለ) ናስተርጕም ውስተ ሳንስክሪት፡
 
-1\. Rāma ist ein Brahmane.
+1\. ራማ ብራህማናዊ እዩ።
 
 brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+2\. መምህር ቫይሽያ እዩ።
 
 vaiśyo guruḥ.
 
 ⟪वैश्यो⟫ ⟪गुरुः⟫
 
-3\. Der Śūdra ist ein heiliger Mann.
+3\. ሽድራ ቅዱስ ሰብእ እዩ።
 
 sādhuḥ śūdraḥ.
 
@@ -107,7 +107,7 @@ sādhur guruḥ.
 
 ![](/images/uebung002.jpg)
 
-Abb.: ⟪ईश्वरः शिवः⟫
+ስዕሊ: ⟪ईश्वरः शिवः⟫
 
 (ምንባብ ሥዕል፡ [ዝርዝር](/licenses#uebung002))
 

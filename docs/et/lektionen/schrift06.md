@@ -14,11 +14,11 @@ In older books printed in Calcutta, the following forms for jha can also be foun
 
 ## Übung
 
-A) Schreiben Sie in Devanāgarī:
+A) Kirjutage devanāgarīs:
 
 bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhālā ḍhola ghoṣaṃ bhṛ jaghajhagāyamāno bhos jhāḍhāmalā bhogaḥ
 
-B) Lesen und transliterieren Sie:
+B) Lugege ja translitereerige:
 
 a) ⟪द ध त फ प न च ड ग क भ ब थ छ य ख झ⟫
 
@@ -43,5 +43,3 @@ j) ⟪शर सह षट् वश हस् झष रस वष् शव �
 k) ⟪सरल कलश जहत् वयस् शपथ समय वहल शलभ यशस् शरट् सफल सरस हरक परश रभस हतक⟫
 
 l)  ⟪दशरथ शकटम् सवयस् कलहम् शसनम् शतशस् जलचरस् नवदशकम् सहगमनम् कमलवदन दशशतम्⟫
-
-

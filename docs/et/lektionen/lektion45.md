@@ -1,5 +1,5 @@
 ---
-title: "Lektion 45"
+title: "Õppetund 45"
 subtitle: "Verbi teise isiku (⟪मध्यमः⟫) vormide moodustamine atemaatilistest tüvedest ilma vokaaliga lõppeva sufiksita (järg)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
@@ -127,7 +127,7 @@ Joonis: ⟪भवति किं करोषि⟫
 
 ## 45.3. Wortliste
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ : kas ... või
 
 ## 45.4. Übung
 
@@ -161,7 +161,7 @@ zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe:
 
 10\. Kas sa, luuletaja, oled maailmu mõõtnud?
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥१॥ भवति कथमनन्तदुःखमरुणत् ॥२॥ ब्राह्मण किमग्नौ घृतमजुहोः ॥३॥ शत्रो शस्तेण जीवं न छिनत्सि ॥४॥⟫
 

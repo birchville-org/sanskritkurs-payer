@@ -22,13 +22,13 @@ last_reconstructed: 2026-05-15
 
 ## Übungstexte
 
-B) Übersetzen Sie:
+ب) ترجمه کنید:
 
 ⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 «من به بودا پناه می‌برم، من به دارما پناه می‌برم، من به سانگها پناه می‌برم» — این را باید گفت کسانی که به بودا رفته‌اند.
 
-### Exkurs: Die drei Zufluchten
-Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
+### بحث جانبی: سه پناهگاه
+این پناهگاه سه‌گانه برای داشتن انگیزه و استقامت لازم در مسیر رستگاری حیاتی است. از آنجا که معلمان خرد بی‌شماری وجود دارند، پیروی از همه آنها به صورت جداگانه غیرممکن است. باید انتخابی صورت گیرد. شخصیت یک معلم باید قابل اعتماد به نظر برسد (**پناه بردن به بودا**).
 
 با این حال، نکته اساسی شخصیت منجی نیست، بلکه آموزه‌ی رهایی است که به فرد امکان می‌دهد خود مسیر را طی کند. باید از آموزه چنان مطمئن بود که انرژی لازم برای آزمایش آن بر اساس میزان حقیقت بودنش به کار گیرد (**پناه بردن به دهارما**).
 
@@ -46,7 +46,10 @@ Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nöt
 از معلمان، دانش‌آموزان باید آموزش ببینند؛ و از دانش‌آموزان است که برنامه درسی را مطالعه کنند.
 
 ::: media
+
 ![](/images/uebung067.jpg)
+
 تصویر: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (منبع تصویر: [جزئیات](/licenses#uebung067))
+
 :::

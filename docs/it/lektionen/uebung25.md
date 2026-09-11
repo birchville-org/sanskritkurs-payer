@@ -64,10 +64,14 @@ I Buddha e gli Arhat sono liberati dalla sofferenza. Hanno infatti raggiunto la 
 A causa dell'avidità, dell'odio e dell'ignoranza, gli uomini si corrompono. Quando è giunto il momento, cadono poi in un inferno.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Il Kṣatriya porta guerrieri eroici dalla grande città per combattere il villaggio dei nemici.
 
@@ -87,7 +91,7 @@ Ohne Rāma.
 L'insegnamento di uno studioso è utile alla virtù, non quello di un empi.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma aspetta Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 È facile (felice).
@@ -115,10 +119,14 @@ Se qualcuno emette un falso verdetto giudiziario per superbia, avidità, ira o p
 Gli inferni sorgono a causa del male, il male sorge dalla povertà, la povertà sorge dal non dare.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un ladro viene liberato dalla colpa del furto mediante la punizione o mediante il rilascio. Se però il re non lo punisce, allora assume la colpa del ladro.
@@ -131,9 +139,13 @@ Un ladro viene liberato dalla colpa del furto mediante la punizione o mediante i
 L'economia è utile perché produce grano, bestiame, oro, metalli e lavoro.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Per questo le tre scienze hanno il bastone (daṇḍa) come fondamento. Il bastone, che è il fondamento del buon comportamento, procura ai viventi guadagno e possesso sicuro. Il buon comportamento è acquisito o innato. L'attività educa infatti un materiale adatto, non inadatto. La conoscenza educa una mente che è giunta alla verità attraverso l'obbedienza, l'ascolto, l'apprensione, la comprensione e la riflessione, non un'altra. ... Dall'udito nasce infatti la conoscenza, dalla conoscenza la pratica, dalla pratica il possesso di sé; così le scienze corrispondono al loro scopo. Conoscenza e buon comportamento sono la causa della vittoria sui sensi. Questo è necessario per deporre l'avidità, l'odio, l'avarizia, l'orgoglio, l'ebbrezza e l'eccitazione.

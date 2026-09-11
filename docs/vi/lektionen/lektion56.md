@@ -98,7 +98,6 @@ Nguyên âm - phụ âm đầu tiên theo sau (hoặc đại diện tương ứn
 
 
 Nguyên âm - phụ âm thứ nhất - phụ âm thứ hai (đại diện) - i - phụ âm thứ hai
-:::
 *   Nếu một nguyên âm đầu từ được theo sau bởi một nhóm phụ âm bắt đầu bằng một âm mũi hoặc d hoặc r, thì phụ âm thứ hai của nhóm (hoặc đại diện của nó) sẽ được chèn thêm i theo sơ đồ sau:
 
 
@@ -108,7 +107,6 @@ Nguyên âm - phụ âm thứ nhất - phụ âm thứ hai (đại diện) - i -
 ⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, âm tiết lặp lại ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, âm tiết lặp lại ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, âm tiết lặp lại ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
 Hình thức lặp lại này của các gốc từ phái sinh bắt đầu bằng nguyên âm (Kausative) được gọi là "lặp lại kiểu Attic".
-:::
 *   Nếu một nguyên âm đầu từ được theo sau bởi một nhóm phụ âm bắt đầu bằng một âm mũi hoặc d hoặc r, thì phụ âm thứ hai của nhóm (hoặc đại diện của nó) sẽ được chèn thêm i theo sơ đồ sau:
 
 
@@ -143,7 +141,6 @@ Lệnh thức trong Veda có các đặc điểm sau:
 *   Lệnh thức Aorist biểu thị khía cạnh đã hoàn thành.
 
 Tuy nhiên, sự khác biệt này thường không được phân biệt trong tiếng Phạn cổ điển.)
-:::
 ## 56.3. Câu cấm đoán
 
 ::: grammar-box
@@ -158,7 +155,6 @@ Ví dụ:
 ⟪मा कर्महेतुर्भूः⟫ "Đừng trở thành người bị thúc đẩy bởi kết quả của hành động!" (mệnh lệnh thức quá khứ) (⟪भगवद्गीता⟫ 2,47c)
 ⟪मा कर्महेतुर्भूः⟫ "Đừng trở thành người bị thúc đẩy bởi kết quả của hành động!" (mệnh lệnh thức quá khứ) (⟪भगवद्गीता⟫ 2,47c)
 
-:::
 ::: media
 ![](/images/lekt5602.webp)
 Ảnh: ⟪क्लैब्यं मा स्म गमः⟫

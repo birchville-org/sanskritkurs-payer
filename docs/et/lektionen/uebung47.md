@@ -69,7 +69,7 @@ Mind tahetakse säilitada.
 Ta olgu rahul.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Wir wollen rufen.
+Me tahame kutsuda.
 
 ⟪४⟫. **⟪तुभ्यं⟫ ⟪नमानि⟫ ⟪।⟫** (Või: **⟪नमानि⟫ ⟪ते⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**)
 Ma tahan sulle kummardada.
@@ -111,7 +111,7 @@ Pojad sündigu mulle!
 Ich will dir mein Haus zeigen.
 
 ⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
-Gehe von mir weg!
+Mine minema minu juurest!
 
 ⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
 Ta saagu vabastatud!
@@ -123,7 +123,7 @@ Ich will deine Gattin behüten.
 Kämpfe!
 
 ⟪२२⟫. **⟪आज्ञापयन्तु ॥ २२ ॥⟫**
-Mögen sie befehlen.
+Nad käskigu.
 
 ⟪२३⟫. **⟪तव गृहे वसाम ॥ २३ ॥⟫**
 Me tahame sinu majas elada.
@@ -132,10 +132,10 @@ Me tahame sinu majas elada.
 So soll es geschehen!
 
 ⟪२५⟫. **⟪अश्वं तुद ॥ २५ ॥⟫**
-Schlage das Pferd!
+Löö hobust!
 
 ⟪२६⟫. **⟪भ्रमन्तु ॥ २६ ॥⟫**
-Sie sollen umherirren.
+Nad eksigu ringi.
 
 ⟪२७⟫. **⟪माद्यत ॥ २७ ॥⟫**
 Berauscht euch!
@@ -147,7 +147,7 @@ Hobune vedagu koormat.
 Me tahame maailmu korrastada.
 
 ⟪३०⟫. **⟪पानं पिब ॥ ३० ॥⟫**
-Trinke den Trank!
+Joo jooki!
 
 ⟪३१⟫. **⟪मन्यस्व ॥ ३१ ॥⟫**
 Denke!

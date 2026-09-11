@@ -37,6 +37,7 @@ The most important forms of compound formation are:
 Copulative compounds serve to link grammatically similar, coordinated members (nouns or adjectives).
 
 ::: grammar-box
+
 **A dvandva denotes:**
 
 1. **either the summativ connection of the persons, things, or properties designated by its individual members:**
@@ -53,7 +54,9 @@ The Dvandva is generally a neuter (regardless of the gender of the last member) 
 
 **The resolution:**
 Occurs with "and" (**ca** = ⟪च⟫), occasionally with "or" (**vā** = ⟪वा⟫) or "each".
+
 :::
+
 See later for Dualdvandva!
 
 ### 5.3.1. Prefixes of Compounds
@@ -96,17 +99,22 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 **kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
 ::: media
+
 ![](/images/lekt0501.webp)
+
 Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
+
 (Uppruni myndar: Wikipedia, Public domain)
+
 :::
+
 **krodha** m. = ⟪क्रोध⟫ : Zorn.
 
 **kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
 
 **trayī** kv. = ⟪त्रयी⟫ : þrenning; sérstaklega Veda-ritin þrjú (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** kvk. = ⟪दण्डनीति⟫ : Stjórnmál (Tatpuruṣa-samsetning úr daṇḍa kk. = "stafur, vald, yfirráð, refsing" og nīti kvk. = "rétt leiðsögn").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 

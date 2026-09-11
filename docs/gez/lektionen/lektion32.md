@@ -55,7 +55,7 @@ status: stable
 
 :::
 
-Beispiele: → Beispiele:
+Beispiele:
 
 ::: grammar-box
 
@@ -69,11 +69,11 @@ Beispiele: → Beispiele:
 
 ::: grammar-box
 
-**እመ እምቅድመ ቃለ-ግስ ይትረከቡ ቅድመ-ቃላት፡ አውግሜንት a- በድኅረ ቅድመ-ቃላት ወበቅድመ ቃለ-ግስ ይትረከብ።** → እመ እምቅድመ ቃለ-ግስ ይትረከቡ ቅድመ-ቃላት፡ አውግሜንት a- በድኅረ ቅድመ-ቃላት ወበቅድመ ቃለ-ግስ ይትረከብ።
+እመ እምቅድመ ቃለ-ግስ ይትረከቡ ቅድመ-ቃላት፡ አውግሜንት a- በድኅረ ቅድመ-ቃላት ወበቅድመ ቃለ-ግስ ይትረከብ።
 
 :::
 
-Beispiele: → Beispiele:
+Beispiele:
 
 ::: grammar-box
 
@@ -158,7 +158,7 @@ Beispiele: → Beispiele:
 
 ![](/images/lekt3202.webp)
 
-Abb.: ⟪चूतः⟫
+ስዕሊ: ⟪चूतः⟫
 
 የማንጎ ዛፍ፣ ካንፑር።
 (የምስል ምንጭ፡ [Details](/gez/licenses#lekt3202))
@@ -199,7 +199,7 @@ Abb.: ⟪चूतः⟫
 
 ![](/images/lekt3203.webp)
 
-Abb.: ⟪वानराः⟫
+ስዕሊ: ⟪वानराः⟫
 
 የድመት (rhesus macaques) በዲልሊ።
 (የምስል ምንጭ፡ [Details](/gez/licenses#lekt3203))
@@ -224,7 +224,7 @@ Abb.: ⟪वानराः⟫
 
 ![](/images/lekt3204.webp)
 
-Abb.: ⟪उपलाः⟫
+ስዕሊ: ⟪उपलाः⟫
 
 የድንጋይ ማውጫ ደቡብ የፑኔ፣ ማህራሽትራ።
 (የምስል ምንጭ፡ [Details](/gez/licenses#lekt3204))
@@ -237,7 +237,7 @@ Abb.: ⟪उपलाः⟫
 
 ![](/images/lekt3205.webp)
 
-Abb.: ⟪लक्ष्यम्⟫
+ስዕሊ: ⟪लक्ष्यम्⟫
 
 የማዕከል ልምምድ / የቀስት ማዕከል፣ ካርናታክ።
 (የምስል ምንጭ፡ [Details](/gez/licenses#lekt3205))
@@ -274,7 +274,7 @@ Abb.: ⟪लक्ष्यम्⟫
 
 ![](/images/lekt3207.webp)
 
-Abb.: ⟪चितं गोमयं दहति⟫
+ስዕሊ: ⟪चितं गोमयं दहति⟫
 
 የአንበሳ ምግብ በራጅስታን።
 (የምስል ምንጭ፡ [Details](/gez/licenses#lekt3207))
@@ -385,16 +385,16 @@ Abb.: ⟪चितं गोमयं दहति⟫
 
 ![](/images/lekt3208.webp)
 
-Abb.: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+ስዕሊ: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
 
 መነኩሴ ቡድሃዊ በስሪ ላንካ።
-(ምንባበ ስእል: [ዝርዝር](/gez/licenses#lekt3208)) → (ምንባበ ስእል: [ዝርዝር](/gez/licenses#lekt3208))
+(ምንባበ ስእል: [ዝርዝር](/gez/licenses#lekt3208))
 
 :::
 
-## ፴፪.፯. ትምህርተ-ምልስ በበዓለ ልደት → ## ፴፪.፯. ትምህርተ-ምልስ በበዓለ ልደት
+## ፴፪.፯. ትምህርተ-ምልስ በበዓለ ልደት
 
-Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien. → Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
 
 ሀ) እሉ ቃላት ወስን ወተርጕም፡
 
@@ -603,7 +603,7 @@ Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jew
 
 49. እመ ተፈጸመ ሥርዓተ ጥምቀት፣ ወንጌለ ወፍልስፍና እምሊቃውንት፣ ወኢኮኖሚ እምአለቆች ይትመሀር (⟪उपयुज्⟫)።
 
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
+፶. ወይስየ፡ ሕግ፡ ውእቱ፡ ከመ፡ ወይስያት፡ እምግዝአ፡ ወእምምድኃር፡ ይሕየዉ። እስመ፡ ከማሁ፡ ውእቱ፡ ይግዝኡ፡ ወይመድሕሩ፡ ደቂቀ፡ ወይስያ።
 
 51. ጽድቀ ይበል፣ ወጥዑመ ይበል፤ ወኢይበል ጽድቀ ዘኢጥዑመ፣ ወኢይበል ሐሰተ ዘኢጥዑመ። ዝንቱ ዘለዓለም ዲሃርማ።
 
@@ -694,7 +694,7 @@ Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jew
 
 ⟪लक्ष्यीकृ च्विऽ⟫-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** ፡- ነገርን ወደ ⟪लक्ष्य⟫ ማድረግ፣ ከቀደመው ጊዜ ⟪लक्ष्य⟫ አልነበረም
 
-⟪आदाय⟫ ፍጹማዊ ን **⟪आ⟫-⟪दा⟫** (3. ክፍል ዘዘመን ኣኹኑ) "መውሰድ" → ⟪आदाय⟫ ፍጹማዊ ን **⟪आ⟫-⟪दा⟫** (3. ክፍል ዘዘመን ኣኹኑ) "መውሰድ"
+⟪आदाय⟫ ፍጹማዊ ን **⟪आ⟫-⟪दा⟫** (3. ክፍል ዘዘመን ኣኹኑ) "መውሰድ"
 
 :::
 
@@ -702,7 +702,7 @@ Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jew
 
 ![](/images/lekt3210.webp)
 
-Abb.: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+ስዕሊ: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
 
 አናብስት በዛፎች ማንጎ።
 (ምንጭ ሥዕል: [ዝርዝር](/gez/licenses#lekt3210))

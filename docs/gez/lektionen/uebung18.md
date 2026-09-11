@@ -56,7 +56,7 @@ last_reconstructed: 2026-05-15
 
 ⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — ዘኢኮነ እግዚእ
 
 ⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
 
@@ -150,7 +150,7 @@ D) ይተርጉሙ፦
 
 ![](/images/uebung028.webp)
 
-Abb.: ⟪दुर्गमो मार्गः⟫
+ስዕሊ: ⟪दुर्गमो मार्गः⟫
 
 (ምንባብ ሥዕል: [ዝርዝር](/licenses#uebung028))
 

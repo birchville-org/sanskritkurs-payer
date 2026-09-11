@@ -56,37 +56,41 @@ B) Przetłumacz na sanskryt, używając złożenia:
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥⟫
 
 ::: media
+
 ![](/images/uebung031.webp)
+
 Ilustracja: ⟪शस्त्राजीवः क्षत्रियः⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung031))
+
 :::
+
 ---
 
 ## Analiza złożenia
 
 Rozłóż następujące złożenia na Bahuvrīhi i/lub Dvandva i/lub Tatpuruṣa we wszystkie możliwe dla Ciebie sposoby w sanskrycie.
 
-⟪१⟫. ⟪इन्द्रशत्रवः⟫ ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (oder: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
+⟪१⟫. ⟪indraśatravaḥ⟫ ⟪।⟫ ⟪indrasya⟫ ⟪śatravaḥ⟫ ⟪।⟫ (lub: ⟪indraḥ⟫ ⟪śatruryeṣāṃ⟫ ⟪te⟫ ⟪।⟫)
 
 ⟪२⟫. ⟪दुष्कुलायाः⟫ ⟪।⟫ ⟪दुष्टं⟫ ⟪कुलं⟫ ⟪यस्यास्तसाः⟫ ⟪।⟫
 
-⟪३⟫. ⟪जातिमात्रस्य⟫ ⟪।⟫ ⟪जातेर्मात्रस्य⟫ ⟪।⟫ (oder: ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तस्य⟫ ⟪।⟫)
+⟪३⟫. ⟪jātimātrasya⟫ ⟪।⟫ ⟪jātermātrasya⟫ ⟪।⟫ (lub: ⟪jātireva⟫ ⟪mātraṃ⟫ ⟪yasya⟫ ⟪tasya⟫ ⟪।⟫)
 
-⟪४⟫. ⟪प्राप्तोदकाः⟫ ⟪।⟫ ⟪प्राप्तमुदकं⟫ ⟪यैस्ते⟫ ⟪।⟫ (oder: ⟪प्राप्तमुदकं⟫ ⟪याभिस्ताः⟫ ⟪।⟫)
+⟪४⟫. ⟪prāptodakāḥ⟫ ⟪।⟫ ⟪prāptamudakaṃ⟫ ⟪yaiste⟫ ⟪।⟫ (lub: ⟪prāptamudakaṃ⟫ ⟪yābhistāḥ⟫ ⟪।⟫)
 
-⟪५⟫. ⟪सुनीतिभिः⟫ ⟪।⟫ ⟪शोभनाभिर्नीतिभिः⟫ ⟪।⟫ (oder: ⟪शोभना⟫ ⟪नीतिर्येषां⟫ ⟪तैः⟫ ⟪।⟫)
+⟪५⟫. ⟪sunītibhiḥ⟫ ⟪।⟫ ⟪śobhanābhirnītibhiḥ⟫ ⟪।⟫ (lub: ⟪śobhanā⟫ ⟪nītiryeṣāṃ⟫ ⟪taiḥ⟫ ⟪।⟫)
 
-⟪६⟫. ⟪मृतपुत्रः⟫ ⟪।⟫ ⟪मृतः⟫ ⟪पुत्रः⟫ ⟪।⟫ (oder: ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪६⟫. ⟪mṛtaputraḥ⟫ ⟪।⟫ ⟪mṛtaḥ⟫ ⟪putraḥ⟫ ⟪।⟫ (lub: ⟪mṛtaḥ⟫ ⟪putro⟫ ⟪yasya⟫ ⟪saḥ⟫ ⟪।⟫)
 
-⟪७⟫. ⟪गतपुण्येन⟫ ⟪।⟫ ⟪गतेन⟫ ⟪पुण्येन⟫ ⟪।⟫ (oder: ⟪गतं⟫ ⟪पुण्यं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
+⟪७⟫. ⟪gatapuṇyena⟫ ⟪।⟫ ⟪gatena⟫ ⟪puṇyena⟫ ⟪।⟫ (lub: ⟪gataṃ⟫ ⟪puṇyaṃ⟫ ⟪yasya⟫ ⟪tena⟫ ⟪।⟫)
 
-⟪८⟫. ⟪आर्यरूपम्⟫ ⟪।⟫ ⟪आर्यास्य⟫ ⟪रूपम्⟫ ⟪।⟫ (oder: ⟪आर्यं⟫ ⟪रूपं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
+⟪८⟫. ⟪āryarūpam⟫ ⟪।⟫ ⟪āryāsya⟫ ⟪rūpam⟫ ⟪।⟫ (lub: ⟪āryaṃ⟫ ⟪rūpaṃ⟫ ⟪yasya⟫ ⟪tam⟫ ⟪।⟫)
 
 ⟪९⟫. ⟪मुक्तासनया⟫ ⟪।⟫ ⟪मुक्तमासनं⟫ ⟪यया⟫ ⟪तया⟫ ⟪।⟫
 
-⟪१०⟫. ⟪तद्रूपः⟫ ⟪।⟫ ⟪तद्रूपं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ (oder: ⟪तस्य⟫ ⟪रूपं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪१०⟫. ⟪tadrūpaḥ⟫ ⟪।⟫ ⟪tadrūpaṃ⟫ ⟪yasya⟫ ⟪saḥ⟫ ⟪।⟫ (lub: ⟪tasya⟫ ⟪rūpaṃ⟫ ⟪yasya⟫ ⟪saḥ⟫ ⟪।⟫)
 
-⟪११⟫. ⟪कृतफलानाम्⟫ ⟪।⟫ ⟪कृतस्य⟫ ⟪फलानाम्⟫ ⟪।⟫ (oder: ⟪कृतं⟫ ⟪फलं⟫ ⟪यैस्तेषाम्⟫ ⟪।⟫)
+⟪११⟫. ⟪kṛtaphalānām⟫ ⟪।⟫ ⟪kṛtasya⟫ ⟪phalānām⟫ ⟪।⟫ (lub: ⟪kṛtaṃ⟫ ⟪phalaṃ⟫ ⟪yaisteṣām⟫ ⟪।⟫)
 
 ⟪१२⟫. ⟪व्याघ्रबलाः⟫ ⟪।⟫ ⟪व्याघ्रस्य⟫ ⟪बलं⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫
 
@@ -94,17 +98,17 @@ Rozłóż następujące złożenia na Bahuvrīhi i/lub Dvandva i/lub Tatpuruṣa
 
 ⟪१४⟫. ⟪शूरपुत्राम्⟫ ⟪।⟫ ⟪शूरः⟫ ⟪पुत्रो⟫ ⟪यस्यास्ताम्⟫ ⟪।⟫
 
-⟪१५⟫. ⟪कृतभिषेखः⟫ ⟪।⟫ ⟪कृतो⟫ ⟪ऽभिषेखः⟫ ⟪।⟫ (oder: ⟪कृतो⟫ ⟪ऽभिषेखो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪१५⟫. ⟪kṛtabhiśekhaḥ⟫ ⟪।⟫ ⟪kṛto⟫ ⟪'bhiśekhaḥ⟫ ⟪।⟫ (lub: ⟪kṛto⟫ ⟪'bhiśekho⟫ ⟪yasya⟫ ⟪saḥ⟫ ⟪।⟫)
 
 ⟪१६⟫. ⟪शूरबलान्⟫ ⟪।⟫ ⟪शूरस्य⟫ ⟪बलं⟫ ⟪येषां⟫ ⟪तान्⟫ ⟪।⟫
 
-⟪१७⟫. ⟪वीतमोहः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहः⟫ ⟪।⟫ (oder: ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪१७⟫. ⟪vītamohaḥ⟫ ⟪।⟫ ⟪vīto⟫ ⟪mohaḥ⟫ ⟪।⟫ (lub: ⟪vīto⟫ ⟪moho⟫ ⟪yasya⟫ ⟪saḥ⟫ ⟪।⟫)
 
-⟪१८⟫. ⟪दण्डहस्तस्य⟫ ⟪।⟫ ⟪दण्डस्यैव⟫ ⟪हस्तस्य⟫ ⟪।⟫ (oder: ⟪हस्ते⟫ ⟪दण्डो⟫ ⟪यस्य⟫ ⟪तस्य⟫ ⟪।⟫)
+⟪१८⟫. ⟪daṇḍahastasya⟫ ⟪।⟫ ⟪daṇḍasyaiva⟫ ⟪hastasya⟫ ⟪।⟫ (lub: ⟪haste⟫ ⟪daṇḍo⟫ ⟪yasya⟫ ⟪tasya⟫ ⟪।⟫)
 
-⟪१९⟫. ⟪गतमात्रम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪मात्रम्⟫ ⟪।⟫ (oder: ⟪गतं⟫ ⟪मात्रमेव⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
+⟪१९⟫. ⟪गतमात्रम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪मात्रम्⟫ ⟪।⟫ (lub: ⟪गतं⟫ ⟪मात्रमेव⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
 
-⟪२०⟫. ⟪इन्द्रपुत्रा⟫ ⟪।⟫ ⟪इन्द्रः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (Mutter des Indra = ⟪पृथिवी⟫)
+⟪२०⟫. ⟪इन्द्रपुत्रा⟫ ⟪।⟫ ⟪इन्द्रः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (Matka Indry = ⟪पृथिवी⟫)
 
 ⟪२१⟫. ⟪तद्गुणाः । तस्य गुणाः ।⟫ (lub: ⟪स गुणो येषां ते ।⟫)
 
@@ -181,10 +185,14 @@ Rozłóż następujące złożenia na Bahuvrīhi i/lub Dvandva i/lub Tatpuruṣa
 ⟪८१⟫. ⟪सोढदुःखाः । सोढं दुःखं यैस्ते ।⟫
 
 ::: media
+
 ![](/images/uebung030.webp)
+
 Ilustracja: ⟪सम्पन्नरूपा रूपसम्पन्ना⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung030))
+
 :::
+
 ---
 
 ## Scholarly Fragments
@@ -217,8 +225,11 @@ Brāhmaṇowie składają daniny bogom, brāhmaṇom składają daniny królowie
 Biedni, którzy nie pragną dzieci, mają bardzo wielu synów; bogaci nie mają ani jednego. Dziwny jest bieg stworzenia.
 
 ::: media
+
 ![](/images/uebung032.webp)
+
 Ilustracja: ⟪सन्ति पुत्राः सुबहवो दरिद्राणाम्⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung032))
+
 :::
 

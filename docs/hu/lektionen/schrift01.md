@@ -30,7 +30,7 @@ A mássalhangzó + magánhangzó kapcsolatok leírásának sorrendje a következ
 
 ## Gyakorlat
 
-Schreiben Sie in Devanāgarī:
+Írja le dévanágarí írással:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -39,5 +39,3 @@ Olvassa el és transzliterálja:
 ⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
 ⟪पिता⟫ apa, ⟪कपि⟫ majom, ⟪कृत⟫ megtett, ⟪टीका⟫ alkommentár, ⟪तत्⟫ ez, ⟪तट⟫ part, ⟪पत्⟫ ellőni, ⟪पट⟫ szövet, ⟪काच⟫ üveg, ⟪काकुत्⟫ szájpad, ⟪चित्⟫ észlelni, ⟪पृच्⟫ keverni, ⟪पोटक⟫ szolga, ⟪चेतु⟫ szándék, ⟪तौतातित⟫ Kumārila követője (Mīmāṃsā), ⟪तूत⟫ eperfa, ⟪पीत⟫ megivott, ⟪पीति⟫ ital, ⟪कॢप्⟫ illeszkedni, ⟪कृपते⟫ jajgat, ⟪पुटी⟫ ránc, ⟪चापि⟫ hasonlóképpen, ⟪तोक⟫ utódok, ⟪तृपत्⟫ jóllakott, ⟪पॄ⟫ tölteni, ⟪कृकाटी⟫ nyakízület, ⟪पूपौ⟫ két sütemény, ⟪पैतृकी⟫ apai (nőnem), ⟪कौट⟫ csaló, ⟪कच⟫ hajzat, ⟪कुतपे⟫ a kecskeszőr takarón, ⟪कुचौ⟫ kebel, ⟪चकिता⟫ megrémült (nőnem)
-
-

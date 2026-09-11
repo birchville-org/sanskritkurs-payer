@@ -11,24 +11,31 @@ last_reconstructed: 2026-05-15
 الف) برای شکل‌های زیر، هم صورت‌های تکراری (reduplicated) و هم صورت‌های پیرفرستیک (periphrastic) ماضی کامل را بسازید:
 
 ::: grammar-box
+
 | Präsens | Redupliziert | Periphrastisch |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪बिभ्रते⟫ | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪२⟫. ⟪बिभ्यति⟫ | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. ⟪जुहोति⟫ | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. ⟪वेत्ति⟫ | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
+
 :::
-B) Bilden Sie das periphrastische Perfekt zur Wurzel ⟪आस्⟫ (sitzen):
+
+ب) ماضی بعید التفافی را برای ریشه ⟪आस्⟫ (نشستن) بسازید:
 
 ::: grammar-box
+
 | Präsens | Periphrastisches Perfekt |
 | :--- | :--- |
 | ⟪१⟫. ⟪आस्ते⟫ | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. ⟪आसते⟫ | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
+
 :::
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
+
+ج) ماضی بعید متناظر را برای اشکال زیر بسازید:
 
 ::: grammar-box
+
 | Präsens / Imperfekt | Perfekt |
 | :--- | :--- |
 | ⟪१⟫. ⟪जीयते⟫ | ⟪जिग्ये⟫ |
@@ -44,7 +51,9 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 | ⟪११⟫. ⟪क्रामन्ति⟫ | ⟪चक्रमुः⟫ |
 | ⟪१२⟫. ⟪प्राव्रजन्⟫ | ⟪प्रवव्रजुः⟫ |
 | ⟪१३⟫. ⟪त्यक्ष्यति⟫ | ⟪तत्याज⟫ |
+
 :::
+
 ---
 
 ## Übersetzungen
@@ -65,37 +74,45 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 تنها از علم نمی‌توان زندگی را گذراند. کسی که این را بداند، نباید به تحصیل بپردازد.
 
 ::: media
+
 ![](/images/uebung061.webp)
+
 تصویر: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (منبع تصویر: [جزئیات](/licenses#uebung061))
+
 :::
+
 ---
 
 ## Scholarly Fragments
 
-### ⟪१⟫. **⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫**
+### ⟪۱⟫. **⟪महाभारत⟫ ⟪۱۳⟫.⟪۷⟫.⟪۲۵⟫-⟪۲۶⟫**
 **⟪येन⟫ ⟪प्रीणति⟫ ⟪पितरं⟫ ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫**  
 **⟪प्रीणति⟫ ⟪मातरं⟫ ⟪येन⟫ ⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪॥⟫**  
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**  
-Womit man seinen Vater erfreut, damit wird der Schöpfer erfreut; womit man seine Mutter erfreut, damit wird die Erde verehrt; womit man den Lehrer erfreut, damit wird der Veda verehrt. Wer diese drei achtet, der achtet alle Vorschriften; wer diese nicht achtet, dessen Handlungen sind alle fruchtlos.
+با آنچه پدرش را خشنود می‌کند، خالق خشنود می‌شود؛ با آنچه مادرش را خشنود می‌کند، زمین مورد احترام قرار می‌گیرد؛ با آنچه معلم را خشنود می‌کند، ودا مورد احترام قرار می‌گیرد. هر که به این سه احترام بگذارد، به همه احکام احترام گذاشته است؛ هر که به اینها احترام نگذارد، همه اعمالش بی‌ثمر است.
 
-### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Verhalten gegenüber Alten)
+### ⟪۲⟫. **⟪मनुस्मृति⟫ ⟪۴⟫.⟪۱۵۴⟫** (رفتار با سالمندان)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-Man grüsse Alte formgerecht, überlasse ihnen seinen Sitz und stehe bei ihnen mit gefalteten Händen. Wenn ein Alter weggeht, folge man ihm.
+باید به سالمندان به درستی سلام کرد، جای خود را به آنها داد و با دست‌های به هم پیوسته در کنار آنها ایستاد. اگر سالمندی می‌رود، باید او را دنبال کرد.
 
-### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Beherrschung der Sinne)
+### ⟪۳⟫. **⟪मनुस्मृति⟫ ⟪۲⟫.⟪۹۸⟫** (تسلط بر حواس)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, schmeckt oder riecht, dann gilt er als einer, der seine Sinne besiegt hat (⟪जितेन्द्रियः⟫).
+اگر مردی هنگام شنیدن، لمس کردن، دیدن، چشیدن یا بوییدن نه شاد می‌شود و نه غمگین، آنگاه او به عنوان کسی که بر حواس خود غلبه کرده است (⟪जितेन्द्रियः⟫) شناخته می‌شود.
 
 ::: media
+
 ![](/images/uebung060.webp)
+
 تصویر: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (منبع تصویر: [جزئیات](/licenses#uebung060))
+
 :::
+
 ---
 
 ## Wortformbestimmung
@@ -103,6 +120,7 @@ Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, 
 شکل‌های کلمه زیر را تعیین و ترجمه کنید:
 
 ::: grammar-box
+
 | شکل واژه | تعیین | معنا |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪नयति⟫ | ⟪नी⟫ (1U) 3. sg. P. Ind. Präs. | او می‌برد / انجام می‌دهد |
@@ -141,10 +159,15 @@ Wenn ein Mann sich weder freut noch verdriesst, wenn er hört, berührt, sieht, 
 | ⟪३४⟫. ⟪व्यानक्⟫ | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | او آشکار کرد |
 | ⟪३५⟫. ⟪युङ्क्ते⟫ | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | او برای خود متصل می‌کند |
 | ⟪३६⟫. ⟪अपिबत्⟫ | ⟪पा⟫ (1P) 3. sg. P. Impf. | او نوشید |
+
 :::
+
 ::: media
+
 ![](/images/uebung059.webp)
+
 تصویر: ⟪जगौ⟫
 (منبع تصویر: [جزئیات](/licenses#uebung059))
+
 :::
 

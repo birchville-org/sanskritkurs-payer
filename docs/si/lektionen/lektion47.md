@@ -22,11 +22,11 @@ status: stable
 *   **ආරාධනයක්**
 *   **සිතුවිල්ලක්**
 *   **ප්‍රශ්නයක්**
-*   **Frage**
+*   **ප්‍රශ්නය**
 
 ඔහුට ඉහත සඳහන් අර්ථයන් Optativ (⟪विधिलिङ्⟫) සමඟ පොදු වේ.
 
-Mit dem Imperativ drückt man auch aus:
+විධාන ක්‍රියා (Imperative) මගින් පහත දෑ ද ප්‍රකාශ වේ:
 
 *   **ක්‍රියාවක කාලය ගත වී ඇති බව** (⟪कृत्य⟫ මගින් ද ප්‍රකාශ කෙරේ)
 *   **ආශීර්වාද අපේක්ෂාව**
@@ -35,9 +35,8 @@ Mit dem Imperativ drückt man auch aus:
 උදාහරණ:
 
 ⟪एहि ।⟫ "ආ!"
-⟪एहि ।⟫ "Komm!"
 
-⟪ग्रामं भवानागच्छतु ।⟫ oder Optativ : ⟪ग्रामं भवानगच्छेत् ।⟫ "Kommen Sie zum Dorf!"
+⟪ग्रामं भवानागच्छतु ।⟫ හෝ Optativ : ⟪ग्रामं भवानगच्छेत् ।⟫ "ගමට පැමිණෙන්න!"
 
 ⟪वेदमध्ययै ।⟫ හෝ Optativ: ⟪वेदमधीयीय ।⟫ "මට වේදය ඉගෙන ගැනීමට අවශ්‍යයි."
 
@@ -47,7 +46,6 @@ Mit dem Imperativ drückt man auch aus:
 
 ⟪करोतु शस्त्रं भवान् ।⟫ හෝ Gerundiv: ⟪भवता शस्त्रं कर्तव्यम् ।⟫ "පිහියක් සාදන්න!" ; "ඔබට පිහියක් සෑදිය හැක." ; "ඔබ පිහියක් සෑදීමට කාලයයි."
 
-:::
 ::: grammar-box
 සැලකිලිමත් ආණ්ඩු පාසල්-අනුඥා මගින් ප්‍රකාශ කිරීමට වඩාත් සුදුසුය.
 :::
@@ -55,11 +53,8 @@ Mit dem Imperativ drückt man auch aus:
 උදාහරණ:
 
 ⟪भवता प्रविश्यताम् ।⟫ "**කරුණාකර** ඇතුළට පිවිසෙන්න!"
-⟪भवता प्रविश्यताम् ।⟫ "Treten Sie **bitte** ein!"
 
-:::
 සම්භාව්‍ය සංස්කෘත අනුඥා පදයේ 1 වන පුද්ගලයන්ගේ ආකාර පැරණි සංයුක්ත ආකාර වේ. වෙදිකා සංයුක්ත ප්‍රධාන වශයෙන් අපේක්ෂාවක් ප්‍රකාශ කරන මෝඩස් වේ: "අපි යමු!" "අපි යමු!"
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!"
 
 ::: grammar-box
 ආඥා පදය වර්තමාන කල්පදයෙන් නිර්මාණය කරයි.

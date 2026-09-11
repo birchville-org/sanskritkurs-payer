@@ -13,13 +13,20 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
+
 ⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
+
 :::
+
 ::: media
+
 ![lekt4005.jpg](/images/lekt4005.webp)
+
 Pav.: ⟪पादं सब्रह्मचारिभ्यः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4005))
+
 :::
+
 ## 40.2. Pirmosios asmens perfektų formų daryba (⟪लिट्⟫)
 
 Pirmojo asmens galūnės (⟪तृतीयः⟫) perfektu (⟪लिट्⟫)
@@ -32,7 +39,9 @@ Pirmojo asmens galūnės (⟪तृतीयः⟫) perfektu (⟪लिट्⟫
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 :::
+
 ::: grammar-box
+
 Atkreipkite dėmesį, kad pirmojo asmens vienaskaitos P ir Ā galūnės sutampa su trečiojo asmens vienaskaitos galūnėmis. Todėl visose perfektų rūšyse, išskyrus III(a,b) ir V(a,b,c), pirmojo asmens vienaskaitos P arba Ā formados visada sutampa su trečiojo asmens vienaskaitos P arba Ā formadomis.
 
 IV tipo atveju pirmojo asmens vienaskaitos P forma, kaip ir trečiojo asmens vienaskaitos P, baigiasi -au.
@@ -40,8 +49,11 @@ IV tipo atveju pirmojo asmens vienaskaitos P forma, kaip ir trečiojo asmens vie
 III ir V tipo perfektuose pirmojo asmens vienaskaitos Ā forma visada sutampa su trečiojo asmens vienaskaitos Ā forma.
 
 III ir V tipo perfektuose pirmojo asmens vienaskaitos P ir trečiojo asmens vienaskaitos P formados gali sutapti: šių darybos tipų atveju trečiojo asmens vienaskaitos P forma visada turi būti pailgintuoju laipsniu, o pirmojo asmens vienaskaitos P forma gali būti arba aukštuoju laipsniu, arba pailgintuoju.
+
 :::
+
 ::: grammar-box
+
 Prieš galūnes, prasidedančias priebalsiu, daugumoje šaknų atsiranda jungiamasis balsis -i-.
 
 Išskyrus prieš galūnę -re, prie kurios visada turi atsirasti -i-, jungiamasis balsis prieš priebalsines galūnes niekada nepasirodo aštuoniose šaknyse, baigiančiose -ṛ arba -u, būtent
@@ -56,7 +68,9 @@ Išskyrus prieš galūnę -re, prie kurios visada turi atsirasti -i-, jungiamasi
 8. ⟪स्रु⟫ 1P "tekėti"
 
 T. vadinamose fakultatyviose ⟪अनिट्⟫-šaknyse jungiamasis balsis gali būti įterpiamas arba ne. (Šių šaknų sąrašas pas Kielhorn, Gramatika p. 92 § 298b,2,3)
+
 :::
+
 ### 40.2.1. Perfektas Tipas I: be šaknies laipsnių kaitos
 
 1.sg. = 3.sg.
@@ -71,27 +85,39 @@ Veiksmai, kurie seka šiuo tipu:
 ⟪बन्ध्⟫ 9P
 
 ::: indent
+
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
+
 :::
+
 ⟪जीव्⟫ 1P
 
 ::: indent
+
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
+
 :::
+
 ⟪अश्⟫ 5Ā
 
 ::: indent
+
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
+
 :::
+
 ⟪अस्⟫ 2P ir ⟪अस्⟫ 4P
 
 ::: indent
+
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
+
 :::
+
 ### 40.2.2. Perfektas Tipas II: stiprioji šaknis aukštuoju laipsniu, silpnoji šaknis žemuoju laipsniu
 
 Veiksmai, kurie seka šiuo tipu:
@@ -101,6 +127,7 @@ Veiksmai, kurie seka šiuo tipu:
 ⟪भिद्⟫ 7U
 
 ::: indent
+
 *   1.sg.P ⟪बिभेद⟫
 
 *   1.pl.P ⟪बिभिदिम⟫
@@ -108,14 +135,19 @@ Veiksmai, kurie seka šiuo tipu:
 *   1.sg.Ā ⟪बिभिदे⟫
 
 *   1.pl.Ā ⟪बिभिदिमहे⟫
+
 :::
+
 ⟪मुह्⟫ 4P fakultatyviai ⟪अनिट्⟫
 
 ::: indent
+
 *   1.sg.P ⟪मुमोह⟫
 
 *   1.pl.P ⟪मुमुहिम । मुमुह्म⟫
+
 :::
+
 ### 40.2.3. Perfektas Tipas III: Stiprioji šaknis aukštuoju laipsniu/pratęsimu
 
 1.sg.P optionally high-grade or lengthened-grade
@@ -130,13 +162,17 @@ Verbs that follow this type:
 ⟪इ⟫ 2P
 
 ::: indent
+
 *   1.sg.P ⟪इयाय । इयय⟫ (i+e+a)
 
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
+
 :::
+
 ⟪नी⟫ 1U
 
 ::: indent
+
 *   1.sg.P ⟪निनाय । निनय⟫
 
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
@@ -144,10 +180,13 @@ Verbs that follow this type:
 *   1.sg.Ā ⟪निन्ये⟫
 
 *   1.pl.Ā ⟪निन्यिमहे⟫
+
 :::
+
 ⟪स्तु⟫ 2U strictly ⟪अनिट्⟫
 
 ::: indent
+
 *   1.sg.P ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
 
 *   1.pl.P ⟪तुष्टुम⟫
@@ -155,10 +194,13 @@ Verbs that follow this type:
 *   1.sg.Ā ⟪तुष्टुवे⟫
 
 *   1.pl.Ā ⟪तुष्टुमहे⟫
+
 :::
+
 ⟪कृ⟫ 8U strictly ⟪अनिट्⟫
 
 ::: indent
+
 *   1.sg.P ⟪चकार । चकर⟫
 
 *   1.pl.P ⟪चकृम⟫
@@ -166,7 +208,9 @@ Verbs that follow this type:
 *   1.sg.Ā ⟪चक्रे⟫
 
 *   1.pl.Ā ⟪चकृमहे⟫
+
 :::
+
 #### 40.2.3.2. Perfect Type IIIb: Strong stem high-grade/lengthened-grade, weak stem high-grade
 
 Verbs that follow this type:
@@ -177,20 +221,27 @@ Verbs that follow this type:
 ⟪पॄ⟫ 3P
 
 ::: indent
+
 *   1.sg.P ⟪पपार । पपर⟫
 
 *   1.pl.P ⟪पपरिम⟫
+
 :::
+
 ⟪स्मृ⟫ 1P
 
 ::: indent
+
 *   1.sg.P ⟪सस्मार । सस्मर⟫
 
 *   1.pl.P ⟪सस्मरिम⟫
+
 :::
+
 ⟪संस्कृ⟫ 8U
 
 ::: indent
+
 *   1.sg.P ⟪सञ्चस्कार । सञ्चस्कर⟫
 
 *   1.pl.P ⟪सञ्चस्करिम⟫
@@ -198,7 +249,9 @@ Verbs that follow this type:
 *   1.sg.Ā ⟪सञ्चस्करे⟫
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
+
 :::
+
 ### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
 
 *   Strong stem:
@@ -210,6 +263,7 @@ Verbs that follow this type:
 ⟪दा⟫ 3U
 
 ::: indent
+
 *   1.sg.P ⟪ददौ⟫
 
 *   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
@@ -217,16 +271,19 @@ Verbs that follow this type:
 *   1.sg.Ā ⟪ददे⟫
 
 *   1.pl.Ā ⟪ददिमहे⟫
+
 :::
+
 ### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
 1.sg.P. optionally high-grade or lengthened-grade
 
 #### 40.2.5.1. Perfect Type Va: Consonant-a-Consonant, weak stem low-grade
 
-Verben, die diesem Typ folgen:
+Veiksmažodžiai, kurie seka šiuo tipu:
 
 ::: indent
+
 1.  gam „eiti“
 2.  han (»ghan) „užmušti“
 3.  jan „gimti“
@@ -234,38 +291,53 @@ Verben, die diesem Typ folgen:
 5.  vad „sakyti“
 6.  yaj „aukoti“
 7.  ir kt.
+
 :::
+
 ⟪गम्⟫ 1P
 
 ::: indent
+
 *   1.sg.P ⟪जगाम । जगम⟫
 
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
+
 :::
+
 ⟪हन्⟫ 2P
 
 ::: indent
+
 *   1.sg.P ⟪जघान । जघन⟫
 
 *   1.pl.P ⟪जघ्निम⟫
+
 :::
+
 ⟪जन्⟫ 4Ā
 
 ::: indent
+
 *   1.sg.Ā ⟪जज्ञे⟫
 
 *   1.pl.Ā ⟪जज्ञिमहे⟫
+
 :::
+
 ⟪वच्⟫ 2P
 
 ::: indent
+
 *   1.sg.P ⟪उवाच । उवच⟫
 
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
+
 :::
+
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
+
 *   1.sg.P ⟪उवाद । उवद⟫
 
 *   1.pl.P ⟪ऊदिम⟫
@@ -273,10 +345,13 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪ऊदे⟫
 
 *   1.pl.Ā  ⟪ऊदिमहे⟫
+
 :::
+
 ⟪यज्⟫ 1U
 
 ::: indent
+
 *   1.sg.P ⟪इयाज । इयज⟫
 
 *   1.pl.P ⟪ईजिम⟫
@@ -284,12 +359,15 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪ईजे⟫
 
 *   1.pl.Ā ⟪ईजिमहे⟫
+
 :::
+
 #### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
+
 *   1.sg.P ⟪पपाच । पपच⟫
 
 *   1.pl.P ⟪पेचिम⟫
@@ -297,16 +375,19 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪पेचे⟫
 
 *   1.pl.Ā ⟪पेचिमहे⟫
+
 :::
+
 #### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem high-grade
 
-Verben, die diesem Typ folgen:
+Veiksmažodžiai, kurie seka šiuo tipu:
 
 *   All other roots with medial -a-
 
 ⟪क्रम्⟫ 1U
 
 ::: indent
+
 *   1.sg.P ⟪चक्राम । चक्रम⟫
 
 *   1.pl.Indikativ ⟪चक्रमिम⟫
@@ -314,32 +395,43 @@ Verben, die diesem Typ folgen:
 *   1.sg.Aorist ⟪चक्रमे⟫
 
 *   1.pl.Aorist ⟪चक्रमिमहे⟫
+
 :::
+
 ### 40.2.6. Special Perfect formations
 
 ⟪विद्⟫ 2P präsentisches Perfekt:
 
 ::: indent
+
 *   1.sg.Indikativ ⟪वेद⟫ (= 3.sg.Indikativ)
 
 *   1.pl.Indikativ ⟪विद्म⟫
+
 :::
+
 ⟪अह्⟫ 1st person not customary!
 
 ⟪भू⟫ 1P
 
 ::: indent
+
 *   1.sg.Indikativ ⟪बभूव⟫ (= 3.sg.Indikativ)
 
 *   1.pl.Indikativ ⟪बभूविम⟫
+
 :::
+
 ⟪जि⟫ 1P
 
 ::: indent
+
 *   1.sg.Indikativ ⟪जिगाय⟫ (= 3.sg.Indikativ) ⟪। जिगय⟫
 
 *   1.pl.Indikativ ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+
 :::
+
 ## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:
@@ -358,25 +450,37 @@ The periphrastic perfect is formed from:
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
+
 *   1.sg.Aorist ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
 
 *   1.pl.Aorist ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
+
 :::
+
 ⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
 
 ::: indent
+
 *   1.sg.Indikativ ⟪बन्धयां चकर । बन्धयां चकार⟫ (= 3.sg.Indikativ) ⟪। बन्धयामास⟫ (= 3.sg.Indikativ) ⟪। बन्धयां बभूव⟫ (= 3.sg.Indikativ)
+
 :::
+
 ## 40.4. Syntax regarding the first person (⟪तृतीयः⟫)
 
 ::: grammar-box
+
 Since a finite verb (conjugated verb) also expresses the agent (⟪कर्तृ⟫), "I", "we" in non-passive verbal sentences with a finite verb do not need to be expressed additionally by a personal pronoun
+
 :::
+
 ## 40.5. Personal pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the first person singular and plural
 
 ::: grammar-box
+
 The form of the personal pronoun (personal pronoun) is the same for all genders.
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ :br"I" | ⟪बहुवचनम्⟫ :br"we" |
@@ -390,28 +494,38 @@ The form of the personal pronoun (personal pronoun) is the same for all genders.
 | ⟪सप्तमी⟫ | ⟪मयि⟫ | ⟪अस्मासु⟫ |
 
 :::
+
 ::: grammar-box
+
 The shorter forms, which stand in second place above (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), must never be used at the beginning of a sentence or verse.
 
 Before the particles ⟪च⟫, ⟪वा⟫, ⟪एव⟫ these so-called enclitic forms must also not be used:
 
 only: ... ⟪मां च⟫ ... "and me"
+
 :::
+
 ::: grammar-box
+
 The genitive (⟪षष्ठी⟫) of the personal pronouns is used as a possessive pronoun:
 
 ⟪मम । मे⟫ = "my"
 
 ⟪अस्माकम् । नस्⟫ = "our"
+
 :::
+
 ::: grammar-box
+
 As the first member of compounds, these pronouns have the stems:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
 
 pavyz. ⟪मत्पुस्तकम्⟫ "mano knyga" ; ⟪अस्मद्पुस्तकानि⟫ "mūsų knygos"
+
 :::
+
 ## 40.6. Žodžių sąrašas
 
 ⟪पात्र⟫ n.: Garbingasis, mokytojas, vertas
@@ -423,6 +537,7 @@ pavyz. ⟪मत्पुस्तकम्⟫ "mano knyga" ; ⟪अस्मद
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : būti teisingoje tvarkoje, derėti (Lok.) ; formuotis, kurtis ; nuspręsti ką daryti, sutikti su (Dat.)
 
 ::: indent
+
 Perf. II ⟪चकॢपे⟫ fakultatyviai ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
 Kaus. ⟪कल्पयति⟫ : sutvarkyti, sukurti, įsivaizduoti, apsimanyti  
@@ -432,27 +547,36 @@ Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 iš to:
 
 ⟪कल्पना⟫ f.: Įsivaizdavimas mintyse, neegzistuojančio realybėje priėmimas, fikcija
+
 :::
+
 ⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (įsivaizduoti skirtingai =) abejoti, kelti klausimą
 
 ::: indent
+
 iš to:
 
 ⟪विक्ल्प⟫ m.: Alternatyva, abejonė
+
 :::
+
 ⟪तुद्⟫ 6U ⟪तुदति⟫ : mušti
 
 ::: indent
+
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
 Fut. ⟪तोत्स्यति⟫  
 Pass. ⟪तुद्यते⟫  
 Kaus. ⟪तोदयति⟫  
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
+
 :::
+
 ⟪तॄ⟫ 1P ⟪तरति⟫ : pereiti, viršyti, išsigelbėti nuo kieno nors (Akk. = viršyti ką nors)
 
 ::: indent
+
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
 Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
@@ -463,38 +587,58 @@ Inf. ⟪तरितुम् । तरीतुम्⟫
 iš to:
 
 ⟪तीर्थ⟫ n.: Brasta, šventa maudynių vieta, piligrimų vieta
+
 :::
+
 ::: media
+
 ![lekt4003.jpg](/images/lekt4003.webp)
+
 Pav.: ⟪हरिद्वारे तीर्थम्⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4003))
+
 :::
 
 ::: indent
+
 ⟪तीर्थङ्कर⟫ m. (iš: ⟪तीर्थम्⟫+ ⟪कृ⟫): brastos kūrėjas (per kančias) = 24 Džainų mokytojai
+
 :::
+
 ::: media
+
 ![lekt4002.jpg](/images/lekt4002.webp)
+
 Iliustr.: ⟪तीर्थङ्करः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4002))
+
 :::
+
 ⟪अव⟫ priešdėlis: žemyn, apačion, šalin, nu-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1 asmuo ⟪अवतरति⟫ : nusileisti
 
 ::: indent
+
 iš to:
 
 ⟪अवतार⟫ m.: (nusileidėjas, nusileidimas) dievo inkarnacija, ypač Viṣṇus 10 inkarnacijų (žr. Basham, Stebuklas p. 304 - 309)
+
 :::
+
 ::: media
+
 ![lekt4001.jpg](/images/lekt4001.webp)
+
 Iliustr.: ⟪विष्णोर्दशावताराः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4001))
+
 :::
+
 ⟪स्वप्⟫ 2 asmuo ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : miegoti, eiti miegoti
 
 ::: indent
+
 Neapibrėžtasis laikas ⟪अस्वपीत् । अस्वपत्⟫  
 Įvykminamoji forma ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Ateitis ⟪स्वप्स्यति⟫  
@@ -508,12 +652,18 @@ iš to:
 ⟪स्वप्न⟫ m.: miegas, sapnas
 
 ⟪सुप्ति⟫ f. (iš \*svp-ti): miegas, ypač gilus miegas
+
 :::
+
 ::: media
+
 ![lekt4004.jpg](/images/lekt4004.webp)
+
 Iliustr.: ⟪स्वपन्ति⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt4004))
+
 :::
+
 ## 40.7. Pratimas
 
 A) Išverkite ⟪सुभाषितानि⟫ pamokos pradžioje.
@@ -632,4 +782,3 @@ B) Paverskite šias veiksmažodines formas atitinkamomis įvykminamosios formos 
 36. ⟪ऐक्षे⟫
 37. ⟪आह⟫
 38. ⟪आहन्⟫
-

@@ -144,10 +144,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Ábr.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Képmegjelölés: [Részletek](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Ismétlőgyakorlat 6. lecke
@@ -424,125 +428,125 @@ E) Fordítás:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā egy istenség.
 
 2. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā egy śūdra nő.
 
 3. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara egy vaiśya.
 
 4. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha egy költő.
 
 5. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Umā egy istennő.
 
 6. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+A Véda Śruti.
 
 7. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+A tehén belép.
 
 8. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Caitanya egy mester.
 
 9. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+Indrāṇī egy istennő.
 
 10. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+A mester egy szent.
 
 11. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+A mester áldozóként áldoz.
 
-F) Übersetzen Sie ins Sanskrit:
+F) Fordítsa le szanszkritra:
 
-1. Rāma opfert (als Opferherr).
+1. Ráma áldoz (mint az áldozat ura).
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2. Durgā ist eine Göttin.
+2. Durgá egy istennő.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3. Mīnākṣī ist eine Göttin.
+3. Mínáksí egy istennő.
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4. Sie sind verwirrt.
+4. Ők zavartak.
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5. Rāma ist ein heiliger Mann.
+5. Ráma egy szent ember.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6. Wer ist der HERR?
+6. Ki az ÚR?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7. Indra ist der HERR.
+7. Indra az ÚR.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8. Die Nutztiere treten ein.
+8. A haszonállatok belépnek.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. Visnu emanál = Visnu teremt.
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10. Zweimalgeborene sind gut.
+10. A kétszer születettek jók.
 
 sādhavo dvijātayaḥ.
 
@@ -603,7 +607,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Ábr.: ⟪देवतान्नपूर्णा⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung005))
+
 :::

@@ -99,7 +99,7 @@ Examples:
 
 :::
 
-#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. Suffixet -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
 
@@ -111,7 +111,7 @@ oder
 
 * **hochstufige Wurzel + -i- + ⟪तव्य⟫**
 
-**Im Kausativ:**
+**I kausativ:**
 
 * **Kausativstam på -ay + -i- + ⟪तव्य⟫**
 
@@ -129,7 +129,7 @@ Examples:
 
 :::
 
-#### 41.2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
+#### 41.2.2.2. Suffixet -⟪अनीय⟫ / -⟪अनीया⟫
 
 ::: grammar-box
 
@@ -364,7 +364,7 @@ Gerundivet kan också användas som predikatsnomen i satser med passiv konstrukt
 
 ::: indent
 
-**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Zweimalgeborene müssen Benares sehen"
+**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Två gånger födda måste se Benares"
 
 :::
 

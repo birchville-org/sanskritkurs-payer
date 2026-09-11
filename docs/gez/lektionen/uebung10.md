@@ -19,10 +19,10 @@ last_reconstructed: 2026-05-15
 6. nayanti ⟪नयन्ति⟫ : nīyante ⟪नीयन्ते⟫
 7. smarati ⟪स्मरति⟫ : smaryate ⟪स्मर्यते⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪श्रूयन्ते⟫
-9. pāśyati ⟪पश्यति⟫ (Passiv wird von dṛś gebildet!) : dṛśyate ⟪दृश्यते⟫
+9. pāśyati ⟪पश्यति⟫ : ተደራጊ ግስ እምድሩዕ ይትገበር! : dṛśyate ⟪दृश्यते⟫
 10. jayanti ⟪जयन्ति⟫ : jīyante ⟪जीयन्ते⟫
 11. kurvate ⟪कुर्वते⟫ : kriyante ⟪क्रियन्ते⟫
-12. āpnuvanti ⟪आप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
+12. āpnuvanti ⟪आप्राप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
 13. viśati ⟪विशति⟫ : viśyate ⟪विश्यते⟫
 14. khādanti ⟪खादन्ति⟫ : khādyante ⟪खाद्यन्ते⟫
 15. sunoti ⟪सुनोति⟫ : sūyate ⟪सूयन्ते⟫
@@ -32,7 +32,7 @@ last_reconstructed: 2026-05-15
 19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
 20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
-22. tanvanti ⟪तन्वन्ति⟫ (2 Formen!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (፪ ኣገባብ!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
 ለ) ግበሩ መሣርያዊ ነጠላ ወብዙኅ ለኵሉ ኣስማት ዘተምህርኩ እስከ ዛቲ ዕለት።
 
@@ -86,7 +86,7 @@ anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 Möglichkeiten)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (፪ ኣገባብ)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -98,7 +98,7 @@ brāhmaṇenāgniḥ kriyate.
 
 ⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 Möglichkeiten)
+11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (፪ ኣገባብ)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
@@ -148,19 +148,19 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 መ) ተርጕሙ ውስተ ⟪Sanskrit⟫:
 
-1\. Ein Brahmane geht mit einem Vaiśya ins Dorf.
+1\. ብራህማናዊ ምስ ቫይሽያ ናብ ዓዲ ይኸይድ።
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!)
+2\. ንቪሽኑ ብመስዋእቲ የምልኽ። (መስዋእቲ yajña ግለጽ!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
 ⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-3\. Der Veda wird śruti genannt. (vad)
+3\. ቬዳ ስሩቲ ተብሃል። (vad)
 
 vedaḥ śrutir (ity) udyate.
 
@@ -323,7 +323,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ![](/images/uebung012.webp)
 
-Abb.: ⟪सारथी रथं नयति⟫
+ስዕሊ: ⟪सारथी रथं नयति⟫
 
 (ምንባበ ስእል: [ዝርዝር](/licenses#uebung012))
 

@@ -161,7 +161,7 @@ F) 翻译：
 
 然而他们聆听导师的教诲。
 
-3\. Śūdras erlangen einen Himmel.
+3. 首陀罗获得一个天界。
 
 śūdrāḥ svargam āpnuvanti.
 
@@ -216,7 +216,10 @@ sa guruḥ. enaṃ śṛṇvanti.
 ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 ::: media
+
 ![](/images/uebung006.jpg)
+
 图注：⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 （图片来源：[详情](/zh-CN/licenses#uebung006)）
+
 :::

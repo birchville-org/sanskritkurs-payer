@@ -1,6 +1,6 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: Pelajaran 42
+subtitle: "Kata dasar berakhiran -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,6 +14,7 @@ status: stable
 ### 42.1.1. Batang kata dengan tingkat perpanjangan pada batang kata kuat
 
 ::: grammar-box
+
 Semua kata benda maskulin yang berakhiran -ṛ, kecuali istilah kekerabatan yang tercantum di bawah 1.3. Termasuk juga dalam sini adalah istilah-istilah kekerabatan:
 
 *   **⟪नप्तृ⟫** m. "grandson"
@@ -29,12 +30,17 @@ Sebagian besar kata benda yang termasuk di sini adalah kata benda pelaku yang di
     *   **before consonant: -ṛ**
 
 Note the irregular formations (marked in **red**)!
+
 :::
+
 Masculine:
 
 ::: indent
+
 **⟪दातृ⟫** m. "giver"
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -48,16 +54,21 @@ Masculine:
 | ⟪सप्तमी⟫ | **:sig[⟪दातरि⟫]** | ⟪दातृषु⟫ |
 
 :::
+
 Untuk penjelasan mengenai bentuk-bentuk tidak beraturan, lihat Thumb-Hauschild I,2 hlm. 76-81
 
 Feminine:
 
 ::: indent
+
 **⟪स्वसृ⟫** f. dideklinasikan seperti **⟪दातृ⟫** dengan pengecualian akusatif (**⟪द्वितीया⟫**) jamak: **:sig[⟪स्वसॄस्⟫]**.
+
 :::
+
 ### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
 
 ::: grammar-box
+
 Akhiran ⟪कृत्⟫ -⟪तृ⟫ yang sangat umum digunakan untuk membentuk agen nominal (penunjukan untuk ⟪कर्तृ⟫) dari hampir semua akar atau batang kausatif.
 
 **Formation:**
@@ -67,10 +78,13 @@ Akhiran ⟪कृत्⟫ -⟪तृ⟫ yang sangat umum digunakan untuk memben
 or
 
 *   **strong-grade root / causative stem + i + tṛ**
+
 :::
+
 Examples:
 
 ::: indent
+
 **⟪कर्तृ⟫** m. "agent"
 
 **⟪जेतृ⟫** m. "winner"
@@ -80,23 +94,32 @@ Examples:
 **⟪रक्षितृ⟫** m. "protector"
 
 **⟪बोधयितृ⟫** m. "awakener"
+
 :::
+
 ::: media
+
 ![lekt4201.jpg](/images/lekt4201.jpg)
+
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Image source: [Detail](/en/licenses#lekt4201))
+
 :::
 
 ::: grammar-box
+
 Rarely occurring neuters in -⟪तृ⟫ have a partially independent declension (see Kielhorn, Grammar § 148).
 
 The feminine of stems in -⟪तृ⟫ ends in **-⟪त्री⟫** (cf. **⟪देवी⟫**).
 
 mis. **⟪कर्त्री⟫** f. "agen perempuan"
+
 :::
+
 ### 42.1.3. Pokok kata dengan tingkat kuat pada pokok kata kuat
 
 ::: grammar-box
+
 Istilah-istilah kekerabatan berikut termasuk dalam kategori ini:
 
 *   **⟪पितृ⟫** m. "ayah"
@@ -113,14 +136,19 @@ Istilah-istilah kekerabatan berikut termasuk dalam kategori ini:
 *   **weak stem**
     *   **before vowel: -r**
     *   **before consonant: -ṛ**
+
 :::
+
 Examples:
 
 ::: indent
+
 **⟪पितृ⟫** m. "father"
 
 **⟪मातृ⟫** f. "mother"
+
 :::
+
 ::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
@@ -130,14 +158,18 @@ Examples:
 | Rest as ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
+
 ### 42.1.4. Batang pada -ṛ dalam majemuk
 
 ::: grammar-box
+
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
 
 *   **before consonants: -ṛ**
 *   **before vowels: -r**
+
 :::
+
 ## 42.2. Daftar Kata
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
@@ -147,8 +179,11 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : menahan diri dari, menjauhkan diri dari, menjaga jarak, tetap berada di tempat, berdiri
 
 ::: indent
+
 PPP ⟪अवस्थित⟫ 3: standing, located
+
 :::
+
 ⟪पुरा⟫ Adv.: once, formerly
 
 ⟪अनेक⟫ 3: many (not a few)
@@ -170,6 +205,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 ⟪चल्⟫ 1P ⟪चलति⟫ : to get into motion
 
 ::: indent
+
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -177,7 +213,9 @@ Caus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
+
 :::
+
 ⟪अधिपति⟫ m. = ⟪राजन्⟫
 
 ⟪आटोप⟫ m.: vanity, pride
@@ -197,6 +235,7 @@ Inf. ⟪चलितुम्⟫
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : to praise, to command
 
 ::: indent
+
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,16 +243,22 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
+
 :::
+
 ⟪हृदय⟫ n.: heart
 
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
+
 ![lekt4202.jpg](/images/lekt4202.webp)
+
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Image source: [Detail](/en/licenses#lekt4202))
+
 :::
+
 ⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
 ⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Istri (⟪भार्या⟫ = gerundive dari ⟪भृ⟫ : yang harus dibawa, yang harus ditopang, yang berhak mendapatkan pemeliharaan)
@@ -274,17 +319,25 @@ Translate:
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
 ::: media
+
 ![lekt4203.jpg](/images/lekt4203.webp)
+
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Image source: [Detail](/en/licenses#lekt4203))
+
 :::
+
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![lekt4204.jpg](/images/lekt4204.webp)
+
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Image source: [Detail](/en/licenses#lekt4204))
+
 :::
+
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
@@ -310,10 +363,14 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ **:sig[⟪ऽयोध्या⟫]**⟪धिपते⟫**:sig[⟪र्दशरथस्य⟫]** ⟪पुत्रः⟫ ⟪श्री⟫**:sig[⟪रामः⟫]** **:sig[⟪सलक्ष्मणो⟫]** **:sig[⟪विश्वामित्रेण⟫]** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫**:sig[⟪रामो⟫]** ⟪महर्षेर्⟫**:sig[⟪विश्वामित्र⟫]**⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
+
 ![lekt4208.jpg](/images/lekt4208.webp)
+
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Image source: [Detail](/en/licenses#lekt4208))
+
 :::
+
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ **:sig[⟪सीतारामयोर्वि⟫]**⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
@@ -325,17 +382,25 @@ Explanation of the **red** highlighted expressions:
 :sig[⟪सीता⟫] f. nama diri: putri dari Raja ⟪जनक⟫ dari ⟪विदेह⟫. Ia muncul dari bumi ketika raja suatu kali membajak ladang, oleh karena itu namanya: :sig[⟪सीता⟫] f. "barisan tanah yang dibajak"
 
 ::: media
+
 ![lekt4205.jpg](/images/lekt4205.webp)
+
 Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Image source: [Detail](/en/licenses#lekt4205))
+
 :::
+
 ⟪मिथिला⟫ f. proper name: capital of ⟪विदेह⟫
 
 ::: media
+
 ![lekt4206.jpg](/images/lekt4206.webp)
+
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Image source: [Detail](/en/licenses#lekt4206))
+
 :::
+
 ⟪जनक⟫ m. proper name: king of ⟪विदेह⟫
 
 ⟪गुरुतर⟫ 3: comparative of ⟪गुरु⟫ 3: heavier, very heavy
@@ -349,10 +414,14 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ⟪रावण⟫. m. nama diri; penguasa :sig[⟪लङ्का⟫], penguasa dari ⟪राक्षस⟫.
 
 ::: media
+
 ![lekt4207.jpg](/images/lekt4207.webp)
+
 Fig.: ⟪रावणः⟫
 (Image source: [Detail](/en/licenses#lekt4207))
+
 :::
+
 ⟪अयोध्या⟫ f. proper name: capital of ⟪कोसल⟫ (see map above!)
 
 ⟪दशरथ⟫ m. proper name: king of ⟪कोसल⟫
@@ -364,4 +433,3 @@ Fig.: ⟪रावणः⟫
 :sig[⟪विश्वामित्र⟫]. m. nama diri: ⟪ऋषि⟫, menarik keluar ⟪राम⟫ dan ⟪लक्ष्मन⟫ untuk membunuh iblis; sebagai imbalan, keduanya menerima senjata ajaib darinya.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual from ⟪सीताराम⟫
-

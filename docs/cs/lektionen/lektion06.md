@@ -13,12 +13,15 @@ status: stable
 ## 6.1. Složený věta s konjugovaným slovesem
 
 ::: grammar-box
+
 **Schéma I: Konjugovaná slovesná forma**
 např. **yajati** = ⟪यजति⟫ = "On (ona, ono) uctívá obětí", "On (ona, ono) obětuje"
 
 **Schéma II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Konjugovaná slovesná forma**
 např. **rāmo yajati** = ⟪रामो यजति⟫ = "Rāma uctívá obětí", "Rāma obětuje"
+
 :::
+
 Je-li v složeném větě s konjugovaným slovesem, které není ve pasivu, uvedeno agens (**kartṛ** m. = ⟪कर्तृ⟫), pak stojí agens v **nominativu** (první pád, prathamā = ⟪प्रथमा⟫). V čísle (vacana n. = ⟪वचन⟫) se pak agens a konjugovaná slovesná forma shodují.
 
 
@@ -59,8 +62,11 @@ Některá slovesa se používají buď pouze v Parasmaipada, nebo pouze v Ātman
 Présens je čas přítomnosti, zejména však trvalosti.
 
 ::: grammar-box
+
 **Indikativ (oznamovací způsob) présens se tvoří připojením tzv. primárních koncovek ke présenskému kmeni.**
+
 :::
+
 Příklady:
 
 | Kořen (dhātu) | Présenský kmen | 3. osoba singuláru indikativu présens Parasmaipada |
@@ -73,11 +79,14 @@ Příklady:
 ## 6.4. Primární koncovky třetí osoby (prathama m. = ⟪प्रथम⟫ = "první (!) osoba")
 
 ::: grammar-box
+
 | | Singular (jednotné číslo):br⟪एकवचन⟫ | Plural (množné číslo):br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 Příklad **yaj** = ⟪यज्⟫ = "uctívat obětí", "obětovat":
 Kmen přítomného času: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ Kmen přítomného času: **yaja** = ⟪यज⟫
 ### 6.5.1. Slovesa 6. třídy přítomného času (tudādi = ⟪तुदादि⟫ = "tud atd.")
 
 ::: grammar-box
+
 **Kmen přítomného času = kořen v slabé stupňové formě (ve které je uveden) + a-**
 
 | Kořen (dhātu m.):br⟪धातु⟫ | Kmen přítomného času |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. Slovesa 1. třídy přítomného času (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū atd.")
 
 ::: grammar-box
+
 | Kmen přítomného času = kořen v silné stupňové formě (vzácně prodloužená) + a- ||||
 | Kořen (dhātu m.):br⟪धातु⟫ | Silná forma | Silná forma před a- | Kmen přítomného času |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ Kmen přítomného času: **yaja** = ⟪यज⟫
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Pokud je samohláska v dlouhé uzavřené slabice, tj. krátká samohláska před dvěma nebo více souhláskami, nedochází k tvorbě silné formy ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. Složování slov s e a o
 Uvnitř slova se před samohláskami nahrazuje **e** za **ay**, **o** za **av**.
 
 #### 6.5.2.2. Změna samohlásek (Ablaut)
 
 ::: grammar-box
+
 | Nízká stupeň:brZtrátový stupeň | Vysoký stupeň:brPlný stupeň:brGuṇa m.:br⟪गुण⟫ | Prodloužený stupeň:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ Uvnitř slova se před samohláskami nahrazuje **e** za **ay**, **o** za **av**.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. Slovesa 4. třídy přítomného času (divādi = ⟪दिवादि⟫ = "div atd.")
 
 ::: grammar-box
+
 **Kmen přítomného času = kořen v nízkém stupni (v jakém je uveden) + ya-**
 
 | Kořen (dhātu m.):br⟪धातु⟫ | Kmen přítomného času |
@@ -136,33 +155,42 @@ Uvnitř slova se před samohláskami nahrazuje **e** za **ay**, **o** za **av**.
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Tématická samohláska, tématické třídy přítomného času
 
 ::: grammar-box
+
 **a** v příponách tvořících kmeny tříd přítomného času se nazývá **tématická samohláska**. Třídy přítomného času s **a** v příponě tvořící kmen se proto nazývají "tématické třídy přítomného času".
+
 :::
 
 ## 6.6. Mluvené sanskrt: Další otázky (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "Co dělá N. N.?"
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Co dělají ti N.N.?"
 (karoti, kurvanti od **kṛ** = ⟪कृ⟫ 8 U: "dělat, tvořit")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Máte se dobře?, Jak se máte?"
 Odpověď: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Mám se) ve všech ohledech dobře."
+
 :::
 
 ## 6.7. Slovník
 
 ::: grammar-box
+
 V sanskrtu jsou slovesa uváděna v **kořenovém tvaru**. Číslo za kořenem označuje **konjugační třídu**.
 
 **P:** Kořen je pouze ve tvaru Parasmaipada
 **Ā:** Kořen je pouze ve tvaru Ātmanepada
 **U:** Ubhayapada ("oba tvary"): Kořen se používá jak ve tvaru Parasmaipada, tak Ātmanepada.
 **():** V závorce je uvedeno 3. osoba singuláru přítomného času indikativu (laṭ).
+
 :::
+
 **Zapamatujte si následující slova:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : uctívat obětí, obětovat
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : stát se, vzniknout, být
@@ -206,10 +234,13 @@ V sanskrtu jsou slovesa uváděna v **kořenovém tvaru**. Číslo za kořenem o
 13. Ta (zmíněná) bráhmanki tančí.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 Šiva Nátarádža (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Havaj
 (Zdroj obrázku: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Opakovací cvičení
@@ -254,18 +285,18 @@ V sanskrtu jsou slovesa uváděna v **kořenovém tvaru**. Číslo za kořenem o
 13. dobytek kráva. = ⟪पशुर्धेनुः⟫
 14. která tato. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**C) Utvořte ātmanepada z:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**D) Utvořte ženský rod z:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Přeložte:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -284,10 +315,14 @@ V sanskrtu jsou slovesa uváděna v **kořenovém tvaru**. Číslo za kořenem o
 3. Mīnākṣī je bohyně.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), chrám Mīnākṣī, Madurai, Tamilnádu
 (Zdroj obrázku: Wikipedia, Public domain)
+
 :::
+
 4. Jsou zmatení.
 5. Rāma je svatý muž.
 6. Kdo je PÁN?

@@ -508,7 +508,7 @@ C) Translate into Sanskrit:
 
 4. De mäktiga krigarna har gått till brahmanbyn.
 
-5. Das Mädchen weint.
+5. Flickan gråter.
 
 6. Det finns ingen sjukdom lik lusten, det finns ingen fiende som förvirring, det finns ingen eld som vrede, det finns ingen lycka som kunskap.
 
@@ -522,7 +522,7 @@ C) Translate into Sanskrit:
 
 11. Det är dags att ägna sig åt maten.
 
-12. Willkommen der Königin.
+12. Välkommen till drottningen.
 
 13. För himlens skull gör människor förtjänstfulla handlingar.
 
@@ -536,7 +536,7 @@ C) Translate into Sanskrit:
 
 18. Det finns ingen bättre tillflykt än Rāma.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19. Viṣṇumitra låter Rāma skicka Govinda till byn.
 
 20. Govinda låter Devadatta koka ris.
 

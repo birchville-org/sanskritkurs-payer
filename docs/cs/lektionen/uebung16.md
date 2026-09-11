@@ -46,10 +46,14 @@ Silní válečníci odešli do bráhmanské vesnice.
 Uctívá osobní božstvo záslužného vaišji.
 
 ::: media
+
 ![](/images/uebung023.webp)
+
 Obr.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung023))
+
 :::
+
 ---
 
 ## Skloňovací vzory
@@ -57,6 +61,7 @@ Obr.: ⟪न पशुयज्ञैर्नराः स्वर्गं �
 A) Vytvořte všechny doposud naučené pády pro následující slova jako příklady dosavadních skloňovacích tříd.
 
 ::: grammar-box
+
 ⟪१⟫. ⟪नर⟫ (m.)
 
 | Pád | Singulár | Plurál |
@@ -149,7 +154,7 @@ A) Vytvořte všechny doposud naučené pády pro následující slova jako př�
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Ženský rod ⟪गुणवती⟫ se skloňuje jako ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -186,7 +191,9 @@ A) Vytvořte všechny doposud naučené pády pro následující slova jako př�
 | 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
+
 :::
+
 ---
 
 ## Další cvičení
@@ -216,7 +223,10 @@ Povinností všech je: neubližování, pravdomluvnost, čistota, nespokojenost 
 Bič zajišťuje získání a bezpečné vlastnictví filozofie, védské vědy a ekonomie. Vedení biče je politika.
 
 ::: media
+
 ![](/images/uebung024.webp)
+
 Obr.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung024))
+
 :::

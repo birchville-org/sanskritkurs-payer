@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 చిత్రం: ⟪का नृत्यति ।⟫
 (చిత్ర మూలం: [వివరాలు](/licenses#uebung004))
+
 :::
+
 ---
 
 ## పునరావృత వ్యాయామం అధ్యాయం 6
@@ -240,7 +244,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+బి) బహువచనంలోకి మార్చండి:
 
 1\. brāhmaṇo yajati.
 
@@ -354,7 +358,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+సి) దీనికి ఆత్మనేపదం ఏర్పరచండి:
 
 1\. rāmo yajati.
 
@@ -372,7 +376,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+డి) దీనికి స్త్రీలింగం ఏర్పరచండి:
 
 1\. śūdro nayati.
 
@@ -414,131 +418,131 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+ఇ) అనువదించండి:
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+అన్నపూర్ణ ఒక దేవత.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+ఇతర ఒక శూద్ర స్త్రీ.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+తులాధర ఒక వైశ్యుడు.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+మాఘ ఒక కవి.
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+ఉమ ఒక దేవత.
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+వేదం శ్రుతి.
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+ఆవు ప్రవేశిస్తుంది.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+చైతన్య ఒక గురువు.
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+ఇంద్రాణి ఒక దేవత.
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+గురువు ఒక సాధువు.
 
 11\. gururyajate.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-Der Meister opfert als Opferherr.
+గురువు యజమానిగా బలి ఇస్తాడు.
 
-F) Übersetzen Sie ins Sanskrit:
+F) సంస్కృతంలోకి అనువదించండి:
 
-1\. Rāma opfert (als Opferherr).
+1\. రాముడు (యజమానిగా) బలి ఇస్తాడు.
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2\. దుర్గా ఒక దేవత.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3\. మీనాక్షి ఒక దేవత.
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4\. మీరు గందరగోళంలో ఉన్నారు.
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5\. రాముడు ఒక పవిత్ర పురుషుడు.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6\. ప్రభువు ఎవరు?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7\. ఇంద్రుడు ప్రభువు.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8\. పెంపుడు జంతువులు ప్రవేశిస్తాయి.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9\. విష్ణువు ఉద్భవింపజేస్తాడు = విష్ణువు సృష్టిస్తాడు.
 
 viṣṇuḥ sṛjati.
 
 ⟪विष्णुः⟫ ⟪सृजति⟫ ⟪।⟫
 
-10\. Zweimalgeborene sind gut.
+10\. ద్విజులు మంచివారు.
 
 sādhavo dvijātayaḥ.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 చిత్రం: ⟪देवतान्नपूर्णा⟫
 (చిత్ర మూలం: [వివరాలు](/licenses#uebung005))
+
 :::

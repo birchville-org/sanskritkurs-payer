@@ -128,7 +128,7 @@ status: stable
 
 ::: grammar-box
 
-**Stamm vor Vokal: -uv**
+**ግንድ ቅድመ ኀበ አናባቢ: -uv**
 
 **አገባብ ከም ቃላት ስም አንስት ዘይትመውዕ በ-ī**
 
@@ -154,13 +154,13 @@ Paradigma:
 
 **ቅድሚ ድምጺ ዘለዎ መወዳእታታት፣ -ū ብ-v ይትካእ፣ እንተደኣ ሓደ ጥራይ ድምጺ ዘይብሉ ፊደል ናይቲ ቃል ቅድሚኡ ኣሎ። እንተደኣ ብዙሓት ድምጺ ዘይብሎም ፊደላት ናይቲ ቃል ቅድሚኡ ኣለዉ፣ እቲ -ū ቅድሚ ድምጺ ዘለዎ መወዳእታ ብ-uv ይትካእ።**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.**
+**ውርጃ በወንድ ጾታ ወበሴት ጾታ ፩ይት ውእቱ።**
 
 :::
 
 Paradigma:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend"
+⟪खलपू⟫ ተባዕታይ፡ አንስታይ "መጽረጊተ አውድማ"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
@@ -176,7 +176,7 @@ Paradigma:
 
 ![](/images/lekt6106.webp)
 
-Abb.: ⟪रथ्याप्वः काशीपुर⟫
+ስዕሊ: ⟪रथ्याप्वः काशीपुर⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt6106))
 
@@ -209,7 +209,7 @@ Paradigma:
 
 ![](/images/lekt6107.webp)
 
-Abb.: ⟪वध्वौ जोधपुर⟫
+ስዕሊ: ⟪वध्वौ जोधपुर⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt6107))
 
@@ -553,7 +553,7 @@ Imperativ (⟪लोट्⟫):
 
 :::
 
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+### ፷፩.፬.፫. ግብረ ምስለ ቅጥያት -kāmya, Parasmaipada
 
 ::: grammar-box
 
@@ -573,13 +573,13 @@ Beispiele:
 
 ![](/images/lekt6109.webp)
 
-Abb.: ⟪यशस्काम्यन्ति मुंबई⟫
+ስዕሊ: ⟪यशस्काम्यन्ति मुंबई⟫
 
 (የምስል ምንጭ: [ዝርዝሮች](/gez/licenses#lekt6109))
 
 :::
 
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### ፷፩.፬.፬. ግብረ ምስለ ቅጥያት -sya ወ -asya, Parasmaipada
 
 ::: grammar-box
 
@@ -607,14 +607,14 @@ Beispiele:
 
 ![](/images/lekt6110.webp)
 
-Abb.: ⟪कस्तत्र न मधुस्यति⟫ ?
+ስዕሊ: ⟪कस्तत्र न मधुस्यति⟫ ?
 
 ካርሊ
 (ምንጭ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt6110))
 
 :::
 
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### ፷፩.፬.፭. ግብረ ምስለ ቅጥያት -ya, Ātmanepada
 
 ::: grammar-box
 
@@ -670,19 +670,19 @@ Beispiele:
 
 ![](/images/lekt6111.webp)
 
-Abb.: ⟪श्वानौ शब्दायेते⟫
+ስዕሊ: ⟪श्वानौ शब्दायेते⟫
 
 (ምንጭ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt6111))
 
 :::
 
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### ፷፩.፬.፮. ግብረ ምስለ ቅጥያት -aya, -āpaya
 
 ::: grammar-box
 
 **Verschiedene Bedeutungen.**
 
-**Konjugiert wie Kausativa.**
+**ይትዋሐድ ከመ ግብረ ምኽንያት።**
 
 :::
 
@@ -696,7 +696,7 @@ Beispiele:
 
 ![](/images/lekt6113.webp)
 
-Abb.: ⟪भिक्षुर्मुण्डयते ।⟫
+ስዕሊ: ⟪भिक्षुर्मुण्डयते ।⟫
 
 ታይላንድ - เมืองไทย
 (ምንጭ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt6113))
@@ -721,7 +721,7 @@ Abb.: ⟪भिक्षुर्मुण्डयते ।⟫
 
 :::
 
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## ፷፩.፭. በረከት (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
 
@@ -941,7 +941,7 @@ Abb.: ⟪भिक्षुर्मुण्डयते ।⟫
 
 ![](/images/lekt6101.webp)
 
-Abb.: ⟪श्रीगणनाथः⟫
+ስዕሊ: ⟪श्रीगणनाथः⟫
 
 ሐለቢዱ (ಹಳೆಬೀಡು)፣ ፲፪/፲፫ ክፍለ ዘመን ድኅረ ልደተ ክርስቶስ።
 (ምንባበ ሥዕል፡ [ዝርዝር](/gez/licenses#lekt6101))
@@ -956,9 +956,9 @@ Abb.: ⟪श्रीगणनाथः⟫
 
 :::
 
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] እም Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (፲፬፻፹፬ - ፲፭፻፷፬)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
+ደራሲ ወገጣሚ፡ Purandaradāsa (ಪುರಂದರ ದಾಸ) (፲፬፻፹፬ - ፲፭፻፷፬)
 
 Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
@@ -991,7 +991,7 @@ Ofterdingen, 2009-03-09
 
 :sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+ፍጻሜ ትምህርተ ሳንስክሪት
 
 :::
 

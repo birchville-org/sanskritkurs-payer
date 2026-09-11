@@ -154,6 +154,7 @@ Six meanings of nañ (= a-/an-) are called ....
 
 The following verse summarizes these meanings:
 
+:::
 ::: indent
 
 ⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
@@ -350,6 +351,7 @@ Abb.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: beginning, start
 
+:::
 ## 18.5. Exercise
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.

@@ -1,6 +1,6 @@
 ---
-title: "Lektion 13"
-subtitle: "PPP auf -na-"
+title: "Leksjon 13"
+subtitle: "PPP på -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -30,29 +30,42 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 **1. The PPP of verbs meaning "to think", "to wish", "to know", "to be acquainted with", "to revere" as well as some other verbs marked in the Dhātupāṭha, the root list of Pāṇini, by ñi, does not only have past tense meaning, but can also be used in present tense meaning:**
 e.g.
+
 :::
+
 ::: indent
+
 ⟪इष्ट⟫ "desired" (i.e. not only desired in the past, but also in the present)
 ⟪त्वरित⟫ "hurrying, in haste" (PPP to tvar 1 Ā "to hurry"; Dhātupāṭha: ñitvárā)
+
 :::
 
 **2. The PPP can be used attributively as an adjective:**
 e.g.
+
 ::: indent
+
 ⟪इष्टं फलम्⟫ "the desired fruit (e.g. of actions)"
+
 :::
 
 If in this case ⟪अपि⟫ follows the PPP, then ⟪अपि⟫ has the meaning "although":
 e.g.
+
 ::: indent
+
 ⟪इष्टमपि फलं न लभते⟫ = "Although he desires the fruit, he does not obtain it."
+
 :::
 
 **3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:**
 e.g.
+
 ::: indent
+
 ⟪गत⟫ n.: "the going, the walk"
 ⟪नृत्त⟫ n.: "the dancing, the dance"
+
 :::
 
 ## 13.3. Attributive modifiers of nouns (word order)
@@ -64,8 +77,11 @@ Attributes (modifiers) appear in prose before the word they modify, following st
 Example:
 
 :::
+
 ::: indent
+
 ⟪साधुरिष्टं फलं पश्यति⟫ = "A holy person sees the desired fruit (of their deeds)."
+
 :::
 
 ## 13.4. Formation of Adjectives in -mant and -vant (taddhita)
@@ -79,10 +95,13 @@ vant attaches to nouns whose final or penultimate sound is a, ā, or m, as well 
 Examples:
 
 :::
+
 ::: indent
+
 ⟪पशुमन्त्⟫ "possessing cattle"
 
 ⟪गुणवन्त्⟫ "possessing good qualities / virtue"
+
 :::
 
 ## 13.5. Stem Gradation of Nouns
@@ -90,8 +109,11 @@ Examples:
 The stems in -mant and -vant belong to nominal stems with stem gradation.
 
 ::: grammar-box
+
 For nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — for root nouns, the root-like component — has the guṇa stage or vṛddhi stage; in the weak cases, it has the zero grade.
+
 :::
+
 **Strong cases are:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
@@ -102,7 +124,9 @@ For nominal stems with stem gradation, one distinguishes between strong and weak
 **All other cases are weak.**
 
 ::: grammar-box
+
 As the first member of a compound, a noun with stem gradation stands in the weak stem (in the so-called middle for three-stem nouns).
+
 :::
 
 ## 13.6. On Word Sandhi
@@ -110,12 +134,17 @@ As the first member of a compound, a noun with stem gradation stands in the weak
 The following laws of word sandhi are necessary for understanding the individual forms of the declension of nouns ending in -mant and -vant:
 
 ::: grammar-box
+
 1. Number of final consonants in a word: If a word would end with two or more consonants, only the first consonant remains; the others are dropped. The combination -r- + consonant is permitted.
 
 2. A voiceless stop becomes a voiced stop corresponding to it when preceding a voiced stop (not a nasal):
+
 :::
+
 Examples:
+
 ::: indent
+
 t + bh- » -d-bh- ⟪द्भ्⟫
 
 k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -123,6 +152,7 @@ k + bh- » -g-bh- ⟪ग्भ्⟫
 c + bh- » -g-bh- ⟪ग्भ्⟫
 
 c + dh- » -g-dh- ⟪ग्ध्⟫
+
 :::
 
 ## 13.7. Case Endings of Consonant Stems
@@ -181,10 +211,14 @@ Learn the following words:
 > [Source: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
+
 ![](/images/lekt1301.webp)
+
 Fig.: ⟪महिषासुरः⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1301))
+
 :::
+
 **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
 **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : to go, to fall into
 **as** 2 P (asti) ⟪अस् अस्ति⟫ : to be, to exist
@@ -193,36 +227,51 @@ Fig.: ⟪महिषासुरः⟫
 **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : to protect, to guard
 
 ::: indent
+
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : to drink (traditionally counted in the 1st class)
+
 :::
+
 **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : to hate, to detest
 **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : to eat, to consume
 **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
 
 ::: media
+
 ![](/images/lekt1304.webp)
+
 Fig.: ⟪अन्नम्⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1304))
+
 :::
+
 Word formation:
 
 pad 4 Ā:
 
 ::: indent
+
 **pada** n. ⟪पद⟫ : step, position, place
 
 **pāda** m. ⟪पाद⟫ : foot, a quarter, verse line
+
 :::
 
 ::: media
+
 ![](/images/lekt1303.webp)
+
 Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1303))
+
 :::
+
 dviṣ 2 U:
 
 ::: indent
+
 **dveṣa** ⟪द्वेष⟫ : hatred
+
 :::
 
 ## 13.10. Exercise
@@ -232,10 +281,14 @@ A) Translate and convert into active present tense sentences:
 ⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
+
 ![](/images/lekt1305.webp)
+
 Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1305))
+
 :::
+
 ⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 possibilities)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
@@ -255,10 +308,14 @@ B) Convert the sentences from Exercise A) into the passive voice.
 C) Form a PPP construction for the sentences from Exercise A).
 
 ::: media
+
 ![](/images/lekt1302.webp)
+
 Fig.: ⟪सत्यमेव जयते⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1302))
+
 :::
+
 D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
 
 1. -a before a vowel (except a-)

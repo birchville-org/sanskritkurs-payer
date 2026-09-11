@@ -11,13 +11,13 @@ last_reconstructed: 2026-05-15
 
 A) Proovige määrata järgmiste sõnade võimalikud tähendused:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. see, kes on braahmanile vaid sarnane = halb braahman
 
 2\. mati ⟪मति⟫ : f. Meinung
 
 3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : m. (koitus) lehma moodi
 
 5\. jayaka ⟪जयक⟫ : 3 siegreich
 
@@ -27,7 +27,7 @@ A) Proovige määrata järgmiste sõnade võimalikud tähendused:
 
 8\. kleśa ⟪क्लेश⟫ : m. Qual
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : n. armukese seisund
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (just) kangastelgedelt tulev = äsja kootud
 
@@ -51,7 +51,7 @@ A) Proovige määrata järgmiste sõnade võimalikud tähendused:
 
 20\. kopaka ⟪कोपक⟫ : 3 keegi, kes on kergesti vihane, äkiline
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 1. Aufgaben aller Zweimalgeborenen:
 
@@ -83,15 +83,15 @@ Hüten aller Wesen.
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(Gautamadharmasūtra X,49 järgi)
 
 Põlluharimine, kaubandus, loomakasvatus ja rahalaenamine.
 
-5. Aufgaben eines Śūdra:
+5. Śūdra ülesanded:
 
 dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(Kauṭilīya-arthaśāstra 1.3.8. järgi)
 
 Selgitus:
 dvijātīnām = omastav kääne mitmus sõnast dvijāti (tõlkige siin: "kahekordselt sündinute suhtes")
@@ -102,7 +102,7 @@ Kuulekus kahekordselt sündinutele, elatusvahendite hankimise tegevused, tegevus
 
 6. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(Kauṭilīya-arthaśāstra 1.4.1. järgi)
 
 Majandus on põlluharimine, loomakasvatus ja kaubandus.
 

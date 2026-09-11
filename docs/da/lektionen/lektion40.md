@@ -484,6 +484,7 @@ Billedtekst: ⟪हरिद्वारे तीर्थम्⟫
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (af: ⟪तीर्थम्⟫+ ⟪कृ⟫): vadestedsbygger (over lidelsen) = de 24 lærere for jainisterne
 
+:::
 ::: indent
 Imperfekt ⟪अस्वपीत् । अस्वपत्⟫  
 Perfektum ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  

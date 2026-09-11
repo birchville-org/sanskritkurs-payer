@@ -1,5 +1,5 @@
 ---
-title: "Lektion 38"
+title: "38. õppetund"
 subtitle: "Nädala lahendus"
 lesson_id: 38
 last_reconstructed: 2026-05-21
@@ -254,7 +254,7 @@ Beispiel:
 
 Um „jemand namens N. N.“ auszudrücken, konstruiert man:
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**N.N. (nimetavas käändes) ⟪नाम⟫**
 
 Sõna-sõnalt: „nimi on/oli N.N.“. Seega on tegemist vahele paigutatud nominaallausega.
 
@@ -302,7 +302,7 @@ Beispiele:
 
 ⟪आत्मन्येषा दोषं न पश्यति ।⟫ "Ta ei näe endas viga"
 
-⟪आत्मानं स्तुवन्ति ।⟫ "Sie rühmen sich selbst"
+⟪आत्मानं स्तुवन्ति ।⟫ "Nad kiidavad ennast"
 
 :::
 
@@ -674,7 +674,7 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪कोलाहल⟫ m.n.: Geschrei, Lärm
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: ringi otsimine
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : lachen
 
@@ -705,7 +705,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪लज्जा⟫ f.: Scham
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ määrsõna: allapoole
 
 ## 38.12. Übersetzungsübung
 
@@ -721,13 +721,13 @@ Erklärungen:
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-⟪सर्वे⟫ Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪सर्वे⟫ nimetav kääne mitmuses meessoost sõnast ⟪सर्व⟫ 3 "iga, kõik"
 
 ⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
 
-⟪वयम्⟫ Nom.pl. "wir"
+⟪वयम्⟫ nimetav kääne mitmuses "meie"
 
 ⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
 
@@ -739,6 +739,6 @@ Erklärungen:
 
 ⟪तरसा⟫ Ainsuse instrumentaal sõnast ⟪तरस्⟫ n. "energia", kasutatud määrsõnana: "kiiresti, vägivaldselt"
 
-⟪यूयम्⟫ Nom.pl. "ihr"
+⟪यूयम्⟫ nimetav kääne mitmuses "teie"
 
 ⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫

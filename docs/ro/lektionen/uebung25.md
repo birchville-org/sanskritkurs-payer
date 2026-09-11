@@ -64,10 +64,14 @@ Buddha și arhanții sunt eliberați de suferință. Ei au atins, într-adevăr,
 Din lăcomie, ură și neștiință, oamenii se pierd. Când vine timpul, ei cad într-o iad.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Kṣatriya aduce războinici eroici din orașul mare, pentru a lupta împotriva satului dușmanilor.
 
@@ -87,7 +91,7 @@ Ohne Rāma.
 Învățătura unui sfânt conduce la virtute, nu cea a unui nesfânt.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma îl așteaptă pe Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 Merge ușor (fericit).
@@ -115,10 +119,14 @@ Dacă cineva, din mândrie, lăcomie, mânie sau frică, pronunță o sentință
 Iadurile iau naștere din rău, răul provine din sărăcie, sărăcia provine din ne-dăruire.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un hoit este eliberat de vinovăția furtului prin pedeapsă sau prin eliberare. Dacă însă regele nu îl pedepsește, atunci acesta preia vinovăția hoitului.
@@ -131,9 +139,13 @@ Un hoit este eliberat de vinovăția furtului prin pedeapsă sau prin eliberare.
 Economia este utilă, deoarece produce cereale, animale, aur, metale și muncă.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Sursa imaginii: [Detalii](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 De aceea, cele trei științe au ca temelie toiagul (daṇḍa). Toiagul, care este temelia comportamentului bun, aduce ființelor vii câștig și posesie sigură. Comportamentul bun este dobândit sau înnăscut. Activitatea formează, într-adevăr, un material adecvat, nu unul inadecvat. Știința formează un minte care, prin ascultare, ascultare, înțelegere, înțelegere și reflecție, a ajuns la adevăr, nu alta. ... Din ceea ce a fost auzit provine cunoașterea, din cunoaștere practica, din practică posesia de sine; astfel, științele corespund scopului lor. Știința și comportamentul bun sunt cauza victoriei asupra simțurilor. Acesta este necesar pentru a depune lăcomia, ura, lăcomia, mândria, ebrietatea și agitația.

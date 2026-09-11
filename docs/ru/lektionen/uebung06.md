@@ -142,10 +142,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Рис.: ⟪का नृत्यति ।⟫
 (Источник изображения: [Details](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Повторение Урок 6
@@ -426,19 +430,19 @@ E) Переведите:
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Итара — женщина из касты шудр.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Туладхара — вайшья.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Магха — поэт.
 
 5\. devyumā.
 
@@ -450,7 +454,7 @@ Māgha ist ein Dichter.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Веда — это Шрути.
 
 7\. dhenurviśati.
 
@@ -599,7 +603,10 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Рис.: ⟪देवतान्नपूर्णा⟫
 (Источник изображения: [Details](/licenses#uebung005))
+
 :::

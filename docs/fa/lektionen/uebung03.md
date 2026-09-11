@@ -101,7 +101,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Übertragen Sie ins Femininum:
+ج) به مؤنث تبدیل کنید:
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -121,21 +121,21 @@ kṣatriyā sādhvī.
 
 ⟪क्षत्रिया⟫ ⟪साध्वी⟫
 
-D) Übersetzen Sie ins Sanskrit:
+د) به سانسکریت ترجمه کنید:
 
-1\. Umā ist eine Göttin.
+۱. اوما یک الهه است.
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. Der Veda ist śruti.
+۲. ودا śruti است.
 
 śrutir vedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. Die Lehrerinnen sind Göttinnen.
+۳. معلم‌ها الهه هستند.
 
 devyo gurvyaḥ.
 
@@ -147,26 +147,29 @@ paśavo dhenavaḥ.
 
 ⟪पशवो⟫ ⟪धेनवः⟫
 
-5\. Dichter sind Lehrer.
+۵. شاعران معلم هستند.
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyas sind Zweimalgeborene.
+۶. کشاتریاها دوبار متولد شده‌اند.
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+۷. مردان مقدس شودرا هستند.
 
 śūdrāḥ sādhavaḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
 ::: media
+
 ![](/images/uebung001.webp)
+
 تصویر: ⟪पशुर्धेनुः⟫
 (منبع تصویر: [جزئیات](/licenses#uebung001))
+
 :::

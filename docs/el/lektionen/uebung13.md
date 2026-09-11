@@ -76,39 +76,39 @@ Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 
 ⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
 Ο ευτυχισμένος Κσατρία φυλάσσει τον Ντάρμα.
-⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
 
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Wer Söhne hat, kommt in keine Hölle. -> Όποιος έχει γιους δεν πάει σε καμία κόλαση/κάτω κόσμο.
-⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Όποιος έχει γιους δεν πάει σε καμία κόλαση/κάτω κόσμο.
+(Sanskrit verse line)
 
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Der Meister sagt, dass eine fromme Frau nichts Böses tut. -> Ο δάσκαλος λέει ότι μια ευσεβής γυναίκα δεν κάνει κακό.
-⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Ο δάσκαλος λέει ότι μια ευσεβής γυναίκα δεν κάνει κακό.
+(Sanskrit verse line)
 
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Einsichtige befragen die, die die Wahrheit besitzen, über den Dharma. -> Οι σοφοί ρωτούν όσους κατέχουν την αλήθεια για τον Ντάρμα.
-⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Οι σοφοί ρωτούν όσους κατέχουν την αλήθεια για τον Ντάρμα.
+(Sanskrit verse line)
 
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Religiöse Personen tun Verdienstvolles, das Frucht bringt. -> Οι θρησκευόμενοι άνθρωποι κάνουν αρετές που φέρνουν καρπό/αποτέλεσμα.
-⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Οι θρησκευόμενοι άνθρωποι κάνουν αρετές που φέρνουν καρπό/αποτέλεσμα.
+(Sanskrit verse line)
 
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Brahmanen wünschen sich vorzügliche Söhne. -> Οι Βραχμανοί επιθυμούν άριστους γιους.
-⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Οι Βραχμανοί επιθυμούν άριστους γιους.
+(Sanskrit verse line)
 
-⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Welche Männer hören den Ṛgveda? -> Ποιοι άντρες ακούνουν τον Ργκβέδα;
-⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Ποιοι άντρες ακούνουν τον Ργκβέδα;
+(Sanskrit verse line)
 
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫ -> (Sanskrit verse line)
-Was erschafft der HERR? -> Τι δημιουργεί ο ΚΥΡΙΟΣ;
-⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Τι δημιουργεί ο ΚΥΡΙΟΣ;
+(Sanskrit verse line)
 
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫ -> (Sanskrit verse line)
-Ein Heiliger erträgt ihm zugefügtes Übel. -> Ένας άγιος υποφέρει από το κακό που του επιβλήθηκε/προκλήθηκε.
-⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫ -> (Sanskrit verse line)
+(Sanskrit verse line)
+Ένας άγιος υποφέρει από το κακό που του επιβλήθηκε/προκλήθηκε.
+(Sanskrit verse line)
 
 
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
@@ -124,106 +124,110 @@ Ein Heiliger erträgt ihm zugefügtes Übel. -> Ένας άγιος υποφέρ
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Εικ.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#uebung019))
+
 :::
+
 ---
 
 ## Επιπρόσθετες Ασκήσεις
 
-A) Übersetzen Sie folgende Sätze.
+Α) Μεταφράστε τις ακόλουθες προτάσεις.
 
-B) Setzen Sie die Sätze Übung A) ins Passiv
+Β) Μετατρέψτε τις προτάσεις της Άσκησης Α) σε παθητική φωνή.
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion
+Γ) Δημιουργήστε μια κατασκευή PPP για τις προτάσεις της Άσκησης Α).
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Ο Ράμα πηγαίνει στο χωριό μέσω του δρόμου.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-Menschen wünschen sich Glück durch Reichtum.
+Οι άνθρωποι επιθυμούν την ευτυχία μέσω του πλούτου.
 ⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
 
 ⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-Der Mann geht mit seinem Sohn in die Stadt.
-⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
+Ο άνδρας πηγαίνει στην πόλη με τον γιο του.
+⟪νέρενα⟫ ⟪πουτρένα⟫ (⟪σαχ⟫) ⟪ναγκαράμ⟫ ⟪παντιάτε⟫ ⟪।⟫ ⟪νέρας⟫ ⟪πουτρένα⟫ (⟪σαχ⟫) ⟪ναγκαράμ⟫ ⟪πάννας⟫ ⟪।⟫
 
 ⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-Gott erschafft die Welten.
-⟪देवेन⟫ ⟪लोकाः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫ ⟪सृष्टाः⟫ ⟪।⟫
+Ο Θεός δημιουργεί τους κόσμους.
+⟪ντέβενα⟫ ⟪λόκαχ⟫ ⟪σριτζιάντε⟫ ⟪।⟫ ⟪σρίσταχ⟫ ⟪।⟫
 
 ⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-Das Mädchen trinkt Wasser.
-⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫ ⟪पीतम्⟫ ⟪।⟫
+Το κορίτσι πίνει νερό.
+⟪μπαλάγια⟫ ⟪τζαλάμ⟫ ⟪πιγιάτε⟫ ⟪।⟫ ⟪πίταμ⟫ ⟪।⟫
 
 ⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 Dichter begehren Reichtum.
 ⟪कविबिर्धनं⟫ ⟪लुभ्यते⟫ ⟪।⟫ ⟪लुब्धम्⟫ ⟪।⟫
 
 ⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-Der mächtige Kṣatriya besiegt die Śūdras.
-⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
+Ο ισχυρός Κσατρίγια νικά τους Σούντρας.
+⟪μπαλβάτα⟫ ⟪κσατριγιένα⟫ ⟪σατράβο⟫ ⟪τζιγιάντε⟫ ⟪।⟫ ⟪τζιτάχ⟫ ⟪।⟫
 
 ⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-Jemand Tugendhaftes bekämpft seinen Feind nicht, auch wenn dieser ihm verhasst ist.
-⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
+Ένας ενάρετος άνθρωπος δεν πολεμά τον εχθρό του, ακόμα κι αν αυτός τον μισεί.
+⟪γκουναβάτα⟫ ⟪ντβίσταπιο⟫ ⟪σατρούρνα⟫ ⟪γιουτιάτε⟫ ⟪।⟫ ⟪γιούταχ⟫ ⟪।⟫
 
 ⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-Der vedische Weise sagt, das Zorn, Hass und Gier Unrecht sind.
-⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
+Ο βεδικός σοφός λέει ότι ο θυμός, το μίσος και η απληστία είναι αδικία.
+⟪αντάρμαχ⟫ ⟪κρόνταστσα⟫ ⟪ντβέσατσκα⟫ ⟪λόμπαστσετιρίσινοντιάτε⟫ ⟪।⟫ ⟪λόμπαστσετιρίσινοντιτάμ⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-Knaben werden durch Essen stark.
-⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
+Τα αγόρια γίνονται δυνατά μέσω του φαγητού.
+⟪μπαλαϊρανένα⟫ ⟪μπαλαμάπιατε⟫ ⟪।⟫ ⟪μπαλαμπιρανένα⟫ ⟪μπαλαμάπιατε⟫ ⟪।⟫ ⟪μπαλαμάπταμ⟫ ⟪।⟫
 
 ⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-Einsichtige erlangen durch die Wahrheit die Erlösung.
+Οι διορατικοί αποκτούν τη σωτηρία μέσω της αλήθειας.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
 
 ⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-Diese heiligen Frauen ertragen das Übel.
+Αυτές οι ιερές γυναίκες υπομένουν το κακό.
 ⟪इमाभिः⟫ ⟪साध्वीभिः⟫ ⟪पापं⟫ ⟪सह्यते⟫ ⟪।⟫ ⟪सोढम्⟫ ⟪।⟫
 
 ⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-Welche Gottheit sieht der Ṛṣi?
+Ποια θεότητα βλέπει ο Ṛṣi;
 ⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
 
 ⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
+Σε ποιους θεούς θυσιάζουν οι Βραχμάνοι, οι Κσατρίγια και οι Βαΐσια;
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+Δ) Από ποιους συνδυασμούς ήχων θα μπορούσαν να προκύψουν οι ακόλουθες μορφές Sandhi; Δώστε όλες τις δυνατότητες:
 
-1. -a vor Vokal (ausser a-): -as
+1. -a πριν από φωνήεν (εκτός από a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
-3. -ā vor Vokal: -ās
-4. -ā vor stimmhaften Konsonanten: -ās
+3. -ā πριν από φωνήεν: -ās
+4. -ā πριν από ηχηρό σύμφωνο: -ās
 5. -ī-: -i + i-/ī-, -ī + i-/-ī
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e vor Avagraha: -e + a-
+9. -e πριν από Avagraha: -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o vor Avagraha: -o
-12. -o vor stimmhaften Konsonanten -as
+11. -o πριν από Avagraha: -o
+12. -o πριν από ηχηρό σύμφωνο: -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
-15. -y vor Vokal: -i/-ī
-16. -v vor Vokal: -u/-ū
-17. -r vor Vokal: -ṛ/-ṝ
-18. -ay vor Vokal: -e
-19. -av vor Vokal: -o
+15. -y πριν από φωνήεν: -i/-ī
+16. -v πριν από φωνήεν: -u/-ū
+17. -r πριν από φωνήεν: -ṛ/-ṝ
+18. -ay πριν από φωνήεν: -e
+19. -av πριν από φωνήεν: -o
 20. -ar-: -a/-ā + ṛ-/ṝ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten: -is
-22. -īr vor Vokal oder stimmhaftem Konsonanten: -īs
-23. -ur vor Vokal oder stimmhaftem Konsonanten: -us
-24. -ūr vor Vokal oder stimmhaftem Konsonanten: -ūs
-25. -er vor Vokal oder stimmhaftem Konsonanten: -es
-26. -or vor Vokal oder stimmhaftem Konsonanten: -os
-27. -air vor Vokal oder stimmhaftem Konsonanten: -ais
-28. -aur vor Vokal oder stimmhaftem Konsonanten: -aus
+21. -ir πριν από φωνήεν ή ηχηρό σύμφωνο: -is
+22. -īr πριν από φωνήεν ή ηχηρό σύμφωνο: -īs
+23. -ur πριν από φωνήεν ή ηχηρό σύμφωνο: -us
+24. -ūr πριν από φωνήεν ή ηχηρό σύμφωνο: -ūs
+25. -er πριν από φωνήεν ή ηχηρό σύμφωνο: -es
+26. -or πριν από φωνήεν ή ηχηρό σύμφωνο: -os
+27. -air πριν από φωνήεν ή ηχηρό σύμφωνο: -ais
+28. -aur πριν από φωνήεν ή ηχηρό σύμφωνο: -aus
 29. -ñj-: -n + j-
 30. -ñś-: -n + ś
 31. -ñch-: -n + ch-
@@ -231,7 +235,7 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvara vor Konsonant: -m
+36. Anusvara πριν από σύμφωνο: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
@@ -273,7 +277,10 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Εικ.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/licenses#uebung018))
+
 :::

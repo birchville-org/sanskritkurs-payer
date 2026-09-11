@@ -359,7 +359,6 @@ from this:
 
 ⟪स्तेय⟫ n.: theft
 
-:::
 
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): to smear, to daub
 

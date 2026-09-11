@@ -228,7 +228,7 @@ Hakkiebrand, Arunachal Pradesh = ⟪अरुणाचल प्रदेश⟫
 
 **Ukuze kuvezwe ukuthi umuntu noma into iba yinto ngokuphelele, noma ukuthi umuntu wenza okuthile noma umuntu abe yilokho okukhonjiswe yibizo, ibizo lingaba**
 
-**die agtervoegsel -sāt (wat nooit -ṣāt word nie)**
+**isijobelelo -sāt (esingasoze sibe -ṣāt)**
 
 **linamathiselwe futhi igama elakhiwe kanjalo nezimpande**
 
@@ -872,7 +872,7 @@ Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandv
 
 :::
 
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Mayelana nemithombo ye-⟪धर्म⟫
 
 ::: indent
 

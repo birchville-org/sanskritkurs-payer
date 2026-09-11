@@ -156,7 +156,6 @@ Examples:
 ⟪मा कर्महेतुर्भूः⟫ "Ne budi onaj koga motivira plod djelovanja!" (injunktiv aorista) (⟪भगवद्गीता⟫ 2,47c) (Kielhorn)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Do not become effeminate!" (injunctive aorist) (⟪भगवद्गीता⟫ 2,3a)
-:::
 ::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫
@@ -164,7 +163,6 @@ Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ല
 (Image source: [Details](/sh/licenses#lekt5602))
 :::
 Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
-:::
 Both examples have a prohibitive meaning. The injunctive aorist is thus used here in its original sense. (The predominance of the injunctive aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive ones, but this question would need to be investigated for Classical Sanskrit.)
 
 ::: grammar-box

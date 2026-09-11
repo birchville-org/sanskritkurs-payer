@@ -86,7 +86,7 @@ anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 አማራጮች)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
@@ -98,7 +98,7 @@ brāhmaṇenāgniḥ kriyate.
 
 ⟪ब्राह्मणेनाग्निः क्रियते ।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 Möglichkeiten)
+11\. vaiśyā imaṃ grāmaṃ gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 አማራጮች)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
@@ -112,7 +112,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-Sie hören aber auf ihre Meister.
+ግን ጌቶቻቸውን ያዳምጣሉ።
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः स्वर्गमाप्नोति⟫
 
@@ -209,10 +209,14 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
+
 ![](/images/uebung011.webp)
+
 ስዕል፦ ⟪ग्रामः⟫
 (የስዕል ምንጭ፦ [ዝርዝር](/licenses#uebung011))
+
 :::
+
 ---
 
 ## የማንበብ ልምምድ
@@ -316,7 +320,10 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 ጋሪውን የሚመራው ጋሪውን ይመራል።
 
 ::: media
+
 ![](/images/uebung012.webp)
+
 ምስል: ⟪सारथी रथं नयति⟫
 (የምስል ምንጭ: [ዝርዝሮች](/am/licenses#uebung012))
+
 :::

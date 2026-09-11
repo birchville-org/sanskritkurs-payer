@@ -13,6 +13,7 @@ status: stable
 ## 56.1. El aoristo con reduplicación
 
 ::: grammar-box
+
 **Formación:**
 
 **Augmento + raíz reduplicada + a + terminaciones secundarias temáticas**
@@ -22,7 +23,9 @@ status: stable
 **El -i y -u finales se reemplazan por -iy o -uv respectivamente.**
 
 **El -ā final (por -e) se elide.**
+
 :::
+
 Paradigma:
 
 ⟪श्रि⟫ 1U "dirigirse a, apoyarse en"
@@ -43,13 +46,17 @@ Esta forma de aoristo la forman, entre otros:
 *   ⟪वच्⟫ 2P "decir": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
+
 **Todas las raíces de la 10. clase de presente, así como todos los causativos, forman siempre el aoristo con reduplicación.**
+
 :::
+
 ### 56.1.1. Formación del aoristo de los causativos y de las raíces de la 10. clase de presente
 
 Sílaba temática:
 
 ::: grammar-box
+
 **El punto de partida es la forma del tema presente o del tema causativo, tal como queda tras eliminar el elemento formador -aya- (es decir, un tema en -p para los causativos en -paya-).**
 
 **El vocal de esta llamada sílaba temática se determina en el aoristo según las siguientes reglas:**
@@ -67,12 +74,15 @@ Sílaba temática:
 
 *   **ar, ār, īr, al que precede inmediatamente al consonante final de la sílaba temática y sustituye a ṛ, ṝ, ḷ permanece opcionalmente sin cambio o se reemplaza por ṛ o ḷ:**  
 ⟪कॢप्⟫ 1Ā: Caus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
+
 :::
+
 Vocal de la sílaba de reduplicación:
 
 Una vez que las reglas mencionadas se han aplicado a la sílaba temática, deben seguirse las siguientes reglas para la vocal de la sílaba de reduplicación:
 
 ::: grammar-box
+
 **El punto de partida es la vocal regular de reduplicación, es decir,**
 
 *   a para a, ā, ṛ,  ṝ, ḷ
@@ -96,35 +106,51 @@ Particularidades de ciertas raíces en Kielhorn, Grammatik § 435c ss.
 Vocal - primera consonante que sigue (o su representante requerido en una sílaba de reduplicación) - **i** - todas las consonantes
 
 :::
+
 ::: indent
+
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, sílaba reduplicada ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Caus. ⟪एषयति⟫, sílaba reduplicada ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, sílaba reduplicada ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+
 :::
+
 *   Si a la vocal inicial le sigue un grupo consonántico que comienza con una nasal o con d o r, se inserta la i según el siguiente esquema entre la segunda consonante del grupo (o su representante):
 
 
 Vocal - primera consonante - segunda consonante (representante) - i - segunda consonante
 
 ::: indent
+
 ⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, sílaba reduplicada ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, sílaba reduplicada ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, sílaba reduplicada ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+
 :::
+
 Esta forma de reduplicación de raíces derivadas que comienzan por vocal (causativos) se denomina "reduplicación ática".
 ## 56.2. El Injuntivo
 
 ::: grammar-box
+
 **El Injuntivo es la forma sin augur de las formas con augur, es decir, sus formas son idénticas a las formas sin augur del Indicativo Imperfecto o Aoristo. La gramática india nativa no reconoció el Injuntivo como una categoría gramatical especial.**
+
 :::
+
 De acuerdo con el trabajo fundamental:
 
 ::: media
+
 ![](/images/lekt5601.jpg)
+
 Fig.:
 Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5601))
+
 :::
 
 ::: indent
+
 Hoffmann, Karl (1915–1996): El Injuntivo en el Veda : un estudio sincrónico de la función / por Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 pág. -- (Biblioteca Indogermánica : 3ª serie, Investigaciones)
+
 :::
+
 el Injuntivo en el Veda tiene las siguientes propiedades:
 
 *   no es narrativo, sino mencionativo
@@ -133,6 +159,7 @@ el Injuntivo en el Veda tiene las siguientes propiedades:
 *   el Injuntivo Aoristo designa el aspecto perfectivo.
 
 ::: grammar-box
+
 **En el sánscrito post-vedaico, el injuntivo solo aparece en combinación con la partícula prohibitiva ⟪मा⟫ (+ injuntivo aoristo) o bien ⟪मा स्म⟫ (+ injuntivo presente o aoristo), y el aspecto diferenciado ya no suele tener relevancia.**
 
 (con aspecto
@@ -141,32 +168,42 @@ el Injuntivo en el Veda tiene las siguientes propiedades:
 *   ⟪मा स्म⟫ + injuntivo presente designaría una oración inhibitiva, es decir, se prohíbe una acción ya en curso o un estado ya existente: "¡Deja de...!", "¡Abandona...!"
 
 Sin embargo, esta diferencia no suele hacerse en el sánscrito clásico.)
+
 :::
+
 ## 56.3. La oración prohibitiva
 
 ::: grammar-box
+
 **Forma principal:**
 
 **⟪मा⟫ + injuntivo aoristo**
 
 **⟪मा स्म⟫ + injuntivo aoristo o injuntivo presente**
+
 :::
+
 Ejemplos:
 
-⟪मा कर्महेतुर्भूः⟫ "¡No te conviertas en alguien motivado por el fruto de una acción!" (injuntivo aoristo) (⟪भगवद्गीता⟫ 2,47c)
-⟪मा कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा कर्महेतुर्भूः⟫ "¡No te conviertas en alguien motivado por el fruto de una acción!" (aoristo injuntivo) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "¡No te vuelvas afeminado!" (injuntivo aoristo) (⟪भगवद्गीता⟫ 2,3a)
-:::
+
+
 ::: media
+
 ![](/images/lekt5602.webp)
+
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫
 Póster (Ernesto Che Guevara) de un partido político en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "La traducción aproximada de lo que dice es: El martirio es una experiencia fascinante para un revolucionario. Y un recurso desalentador para un cobarde. Che no es un modelo a seguir para cobardes."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5602))
+
 :::
+
 Ambos ejemplos tienen sentido prohibitivo. El injuntivo aoristo se usa aquí en su significado original. (El predominio del injuntivo aoristo en este tipo de oraciones quizás se deba al predominio de las prohibiciones sobre los inhibidores, pero esta cuestión debería investigarse aún para el sánscrito clásico.)
 
 ::: grammar-box
+
 **Otras formas de oraciones prohibitivas:**
 
 *   **⟪मा⟫ + (⟪स्म⟫) + Imperativo (raro)**
@@ -180,27 +217,40 @@ p.ej. ⟪अलं विषादेन⟫ "¡Basta de desánimo! = ¡Deja de e
 Además, existen otras formas más raras de oraciones prohibitivas; véase p.ej.
 
 :::
+
 ::: indent
+
 Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+
 :::
+
 ::: media
+
 ![](/images/lekt5603.webp)
+
 Fig.: ⟪अलं विषादेन⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5603))
+
 :::
+
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
+
 **⟪स्म⟫ destaca: "ciertamente, sin duda, con certeza, precisamente"**
 
 **Además, la siguiente construcción es muy importante:**
 
 :::
+
 ::: indent
+
 ⟪स्म⟫ + Indicativo Presente se utiliza para narrar en el pasado, especialmente para indicar una duración en el pasado:
 
 p.ej. ⟪वसति स्म⟫ "habitaba una vez" (⟪स्म⟫ a veces puede faltar).
+
 :::
+
 ## 56.5. Ejercicio
 
 A) Determine y traduzca sin herramientas de ayuda (!) las siguientes formas:

@@ -141,10 +141,14 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Fig.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Exerciții de recapitulare Lection 6
@@ -419,25 +423,25 @@ E) Traduceți:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā este o zeitate.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā este o femeie śūdra.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara este un vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha este un poet.
 
 5\. devyumā.
 
@@ -449,7 +453,7 @@ Umā este o zeiță.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Veda este Śruti.
 
 7\. dhenurviśati.
 
@@ -598,7 +602,10 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Sursă imagine: [Detalii](/licenses#uebung005))
+
 :::

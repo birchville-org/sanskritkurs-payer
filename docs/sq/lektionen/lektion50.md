@@ -101,6 +101,7 @@ Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), ministër i Bashkimit në Ministrinë e Shkencës dhe Teknologjisë dhe Ministrisë së Shkencave të Tokës (që nga 2006)
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt5001))
 
+:::
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 14"
+title: "Õppetund 14"
 subtitle: "Nimede tähistatavate suhete väljendus: omastav kääne (ṣaṣṭhī f. = ⟪षष्टी⟫ = kuues käändelõpp)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
@@ -154,11 +154,11 @@ Note that for consonant-final stems, the ablative and genitive singular sound th
 
 Contrary to the above basic rule, the genitive is used to express the object of certain verbs, e.g. verbs of remembering:
 
-> ⟪देवानां स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवानां स्मरति⟫ "Ta mäletab jumalaid"
 
 For all these verbs, however, the object can also stand in the accusative:
 
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
+> ⟪देवान्स्मरति⟫ "Ta mäletab jumalaid"
 
 Weiteres später.
 
@@ -238,9 +238,9 @@ Joonis: ⟪अयं बालः कस्याः पुत्रः ।⟫
 
 :::
 
-**B) Übersetzen Sie:**
+**B) Tõlkige:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 võimalust)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 

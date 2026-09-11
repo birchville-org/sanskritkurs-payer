@@ -1,6 +1,6 @@
 ---
-title: "Lektion 13"
-subtitle: "PPP auf -na-"
+title: "13. õppetund"
+subtitle: "PPP -na-lõpuga"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -114,7 +114,7 @@ In nominal stems with stem gradation, one distinguishes between strong and weak 
 
 :::
 
-**Starke Kasus sind:**
+**Tugevad käänded on:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
@@ -293,7 +293,7 @@ Joonis: ⟪अत्र गौतमो बुद्धो बोध्या �
 
 :::
 
-⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 Möglichkeiten)
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 võimalust)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
 B) Translate and convert into passive sentences of the past tense:

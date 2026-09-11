@@ -29,17 +29,29 @@ ROOT = Path(__file__).parent.parent
 # ── Konfiguration ─────────────────────────────────────────────────────────────
 
 # Sprachen mit lateinischer Schrift → Kyrillisch wäre Fehler
-LATIN_LANGS  = {'en', 'it', 'es', 'fr', 'la', 'rm', 'ro', 'de'}
+LATIN_LANGS  = {
+    'en', 'it', 'es', 'fr', 'la', 'rm', 'ro', 'de',
+    'cs', 'pl', 'sl', 'sk', 'da', 'nl', 'af', 'sv',
+    'no', 'is', 'fi', 'et', 'hu', 'lt', 'sh', 'sq',
+    'pt', 'vi', 'id', 'zu'
+}
 # Sprachen mit kyrillischer Schrift
 CYRILLIC_LANGS = {'bg', 'ru', 'uk'}
 # Sprachen mit Indic-Schrift
-INDIC_LANGS  = {'hi', 'ta', 'pa'}
+INDIC_LANGS  = {'hi', 'ta', 'pa', 'te', 'si'}
+# Sprachen mit eigenem Schriftsystem
+OTHER_SCRIPTS = {
+    'ka': 'georgian', 'hy': 'armenian', 'gez': 'ethiopic', 'am': 'ethiopic',
+    'ar': 'arabic', 'fa': 'arabic', 'grc': 'greek', 'el': 'greek',
+    'he': 'hebrew', 'th': 'thai', 'zh': 'cjk', 'zh-CN': 'cjk'
+}
 
 # Sprach-Präfix → erwartete Schriftsysteme
 LANG_SCRIPTS = {
     **{l: 'latin'    for l in LATIN_LANGS},
     **{l: 'cyrillic' for l in CYRILLIC_LANGS},
     **{l: 'indic'    for l in INDIC_LANGS},
+    **OTHER_SCRIPTS,
 }
 
 # Platzhalter die auf fehlgeschlagene Übersetzung hinweisen
@@ -121,7 +133,13 @@ def get_finished_languages():
                 finished.add(p.name)
     return finished
 
-FINISHED_LANGS = get_finished_languages()
+_FINISHED_LANGS = None
+
+def get_finished_langs():
+    global _FINISHED_LANGS
+    if _FINISHED_LANGS is None:
+        _FINISHED_LANGS = get_finished_languages()
+    return _FINISHED_LANGS
 
 def get_diff_files():
     """Gibt Liste der seit origin/main geänderten .md-Dateien zurück."""
@@ -132,7 +150,7 @@ def get_diff_files():
         )
         files = [
             ROOT / f for f in result.stdout.strip().split('\n')
-            if f.endswith('.md') and lang_from_path(ROOT / f) in FINISHED_LANGS
+            if f.endswith('.md') and lang_from_path(ROOT / f) in get_finished_langs()
         ]
         return [f for f in files if f.exists()]
     except Exception as e:
@@ -425,32 +443,32 @@ def check_html_arrow_entities(files, fix=False):
                 errors.append((path, f'HTML-Entity / DE-Rest: {hits}'))
     return errors
 
-def check_untranslated_german_copies():
-    """Prüft ob in Zielsprachen 1:1 unübersetzte deutsche Kopien existieren."""
+def check_untranslated_german_copies(files=None):
+    """Prüft ob in Zielsprachen unübersetzte deutsche Inhalte oder Kopien existieren."""
     errors = []
     docs = ROOT / 'docs'
-    de_files = {f.relative_to(docs): f.read_text(encoding='utf-8', errors='replace').strip() for f in docs.glob('*.md')}
-    de_files.update({f.relative_to(docs): f.read_text(encoding='utf-8', errors='replace').strip() for f in (docs / 'lektionen').glob('*.md')})
+    finished_langs = get_finished_langs() - {'de'}
+    from translation_qa import is_file_fallback
 
-    lang_mjs = ROOT / 'docs/.vitepress/languages.mjs'
-    if not lang_mjs.exists():
-        return errors
-    txt = lang_mjs.read_text(encoding='utf-8')
-    m = re.search(r'export const DEFAULT_LOCALES = \[(.*?)\];', txt, re.DOTALL)
-    if not m:
-        return errors
-    finished_langs = get_finished_languages() - {'de'}
-
-    for lang in finished_langs:
-        lang_dir = docs / lang
-        if not lang_dir.exists(): continue
-        for md_file in lang_dir.glob('**/*.md'):
-            if 'licenses' in md_file.name or 'qa' in str(md_file): continue
-            rel = md_file.relative_to(lang_dir)
-            if rel in de_files:
-                target_txt = md_file.read_text(encoding='utf-8', errors='replace').strip()
-                if target_txt == de_files[rel]:
-                    errors.append((md_file, f"Unübersetzte 1:1 deutsche Kopie in Sprache '{lang}' ({rel})"))
+    # If files list provided (e.g. diff scope), check relevant files; otherwise scan finished_langs
+    if files:
+        for md_file in files:
+            p = Path(md_file)
+            lang = lang_from_path(p)
+            if not lang or lang not in finished_langs or 'licenses' in p.name or 'qa' in str(p):
+                continue
+            fb, reason = is_file_fallback(p, lang)
+            if fb:
+                errors.append((p, f"Unübersetzter deutscher Inhalt in Sprache '{lang}': {reason}"))
+    else:
+        for lang in finished_langs:
+            lang_dir = docs / lang
+            if not lang_dir.exists(): continue
+            for md_file in lang_dir.glob('**/*.md'):
+                if 'licenses' in md_file.name or 'qa' in str(md_file): continue
+                fb, reason = is_file_fallback(md_file, lang)
+                if fb:
+                    errors.append((md_file, f"Unübersetzter deutscher Inhalt in Sprache '{lang}' ({md_file.name}): {reason}"))
     return errors
 
 def check_licenses(files):
@@ -717,9 +735,9 @@ def main():
     else:
         print(f"  ✓ OK")
 
-    # ── 5b. Unübersetzte 1:1 deutsche Kopien ──────────────────────────────────
-    print("\n[3b] Unübersetzte 1:1 deutsche Kopien in fertigen Sprachen...")
-    errs = check_untranslated_german_copies()
+    # ── 5b. Unübersetzte deutsche Inhalte / Kopien ───────────────────────────
+    print("\n[3b] Unübersetzte deutsche Inhalte in fertigen Sprachen...")
+    errs = check_untranslated_german_copies(files)
     if errs:
         for path, msg in errs:
             print(f"  ❌ {path.relative_to(ROOT)}: {msg}")

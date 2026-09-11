@@ -25,6 +25,7 @@ Esistono le seguenti forme di formazione nella seconda classe del presente:
 3.  Radici bisillabe in -i/-ī con ablaut della radice
 
 :::
+
 ## 17.2. Radici della seconda classe del presente con ablaut della radice grado pieno - grado ridotto
 
 Esempi:
@@ -44,13 +45,17 @@ Esempi:
 | 3\. pl. Pres. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
+
 In questo caso, agisce la seguente regola del sandhi lessicale:
 
 ::: grammar-box
+
 Sandhi lessicale di -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+
 :::
+
 Altri esempi:
 
 ⟪इ⟫ 2 P "andare" (Ā dopo certe preverbi)
@@ -70,6 +75,7 @@ Altri esempi:
 | 3\. pl. Pres. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
+
 ⟪दुह्⟫ 2 U "mungere"
 
 *   tema del presente forte: doh-
@@ -85,6 +91,7 @@ Altri esempi:
 | 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | \<!--  --\>
 
 :::
+
 ⟪हन्⟫ 2 P "colpire, uccidere, ammazzare"
 
 *   tema del presente forte: han-
@@ -102,6 +109,7 @@ Altri esempi:
 | 3\. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
+
 ⟪अस्⟫ 2 P "essere"
 
 *   tema del presente forte: as-
@@ -115,6 +123,7 @@ Altri esempi:
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
+
 ## 17.3. Radici della seconda classe del presente con ablaut della radice grado allungato - grado ridotto
 
 Esempio:
@@ -136,11 +145,15 @@ Esempio:
 | 3\. pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
+
 ## 17.4. Radici della seconda classe del presente senza ablaut della radice
 
 ::: grammar-box
+
 Senza ablaut della radice sono le radici della seconda classe del presente in -ā
+
 :::
+
 Esempio:
 
 ⟪पा⟫ 2 P "proteggere, custodire, difendere"
@@ -153,6 +166,7 @@ Esempio:
 | 3\. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
+
 Anche alcune altre radici della seconda classe non presentano ablazione del tema:
 
 Esempi:
@@ -167,6 +181,7 @@ Esempi:
 | 3\. pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
+
 ⟪आस्⟫ 2 Ā "sedersi"
 
 ::: no-header
@@ -177,6 +192,7 @@ Esempi:
 | 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
+
 ⟪वच्⟫ 2 P "dire"
 
 ::: no-header
@@ -187,6 +203,7 @@ Esempi:
 | 3\. pl. Pres. P | non si riscontra |
 
 :::
+
 ## 17.5. Radici bisillabe in -i/-ī con ablazione del tema
 
 Diverse radici sono bisillabe in una serie di forme, cioè presentano una -i (o in alcuni casi -ī) prima di desinenza consonantica. Queste radici vengono tuttavia considerate dai grammatici indigeni e nei dizionari ecc. come monosillabiche.
@@ -208,12 +225,13 @@ Esempi:
 | 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
+
 ⟪ब्रू⟫ 2 U "parlare"
 
 *   tema del presente forte: bravī- (« bro- + -ī)
 *   tema del presente debole:
-    *   vor Konsonant: brū-
-    *   prima di vocale: bruv-
+    *   davanti a consonante: brū-
+    *   davanti a vocale: bruv-
 
 ::: no-header
 
@@ -225,6 +243,7 @@ Esempi:
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
+
 Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3, forme secondo questo modello:
 
 ::: no-header
@@ -234,6 +253,7 @@ Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3
 | 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | \<!--  --\>
 
 :::
+
 ## 17.6. Lista di parole
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : colpire, uccidere, ammazzare
@@ -241,52 +261,73 @@ Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3
 di cui:
 
 ::: indent
+
 ⟪घात⟫ m.: uccisione
+
 :::
 
 ::: media
+
 ![](/images/lekt1703.webp)
+
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1703))
+
 :::
+
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sedersi
 
 di cui:
 
 ::: indent
+
 ⟪आसन⟫ n.: il sedersi, posizione seduta; anche: posizioni di meditazione dello yogin
+
 :::
 
 ::: media
+
 ![](/images/lekt1701.webp)
+
 Fig.: ⟪योगासनम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1701))
+
 :::
+
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : piangere, ululare
 
 di cui:
 
 ::: indent
+
 ⟪रुद्र⟫ m.: (l'ululante =) il dio della tempesta Rudra
+
 :::
+
 ⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nessun Passivo e PPP: parlare, dire (qualcosa a qualcuno: doppio accusativo)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : mungere
 
 ::: media
+
 ![](/images/lekt1702.webp)
+
 Fig.: ⟪दोग्धि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1702))
+
 :::
+
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrare, ordinare, comandare
 
 di cui:
 
 ::: indent
+
 ⟪दिष्टि⟫ f.: istruzione, felice disposizione
 
 ⟪दिष्ट्या⟫ Strum.: (letteralmente: attraverso una felice disposizione) O felice disposizione (esclamazione di gioia e beatitudine)
+
 :::
 
 ## 17.7. Esercizio 1

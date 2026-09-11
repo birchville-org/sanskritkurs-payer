@@ -37,6 +37,7 @@ Najpomembnejše oblike tvorjenja samostavljenih besed so:
 Kopulativna samostavljena besedila služijo za povezovanje gramatično enakih, koordiniranih členov (samostalnikov ali pridevnikov).
 
 ::: grammar-box
+
 **Dvandva označuje:**
 
 1. **bodisi vsoto povezave oseb, stvari, lastnosti, ki jih označujejo njegovi posamezni členi:**
@@ -53,7 +54,9 @@ Dvandva je na splošno srednjega spola (neodvisno od spola zadnjega člena) in s
 
 **Razčlenitev:**
 Izvede se z "in" (**ca** = ⟪च⟫), včasih z "ali" (**vā** = ⟪वा⟫) ali "vsak".
+
 :::
+
 Glej kasneje za Dualdvandva!
 
 ### 5.3.1. Predčleni kompozitov
@@ -96,17 +99,22 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 **kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
 ::: media
+
 ![](/images/lekt0501.webp)
+
 Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
+
 (Vir slike: Wikipedia, Public domain)
+
 :::
+
 **krodha** m. = ⟪क्रोध⟫ : Zorn.
 
 **kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
 
 **trayī** f. = ⟪त्रयी⟫ : trojica; zlasti tri Vede (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** ž. = ⟪दण्डनीति⟫ : politika (tatpuruṣa iz daṇḍa m. = "palica, moč, vladavina, kazen" in nīti ž. = "pravilno vodenje").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 
@@ -157,7 +165,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫ ||
-(Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.)
+(Pojasnilo: brahmavihāra: "stanja bivanja Brahme", imenovana tudi "neizmerna". To so budistične oblike meditacije.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
 (Yogasūtra 2,3)
@@ -165,7 +173,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 (Erklärung: pañca = "fünf")
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-(Nach Kauṭilīya-arthaśāstra 1.2.1.)
+(Po Kauṭilīya-arthaśāstra 1.2.1.)
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
@@ -179,7 +187,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
 ⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3. dvijā vaiśyāḥ. (2 možnosti)
 ⟪द्विजा वैश्याः⟫ |
 
 **B) Vstavite ustrezno obliko:**

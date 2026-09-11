@@ -143,13 +143,11 @@ Kapil Sibal (1948 -), umhlinzeki wezwe eMnyangweni weZobuchwepheshe bezobuchweph
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : ukulimala, ukuphumelela, ukulimala
 
-:::
 
 ⟪रहस्⟫ n.: imfihlo, ukuzizwa ngokwakho
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : ukulimala, ukuphumelela, ukulimala
 
-:::
 
 ⟪रहस्⟫ n.: imfihlo, ukuzizwa ngokwakho
 
@@ -179,7 +177,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 :::
 
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: futhi: isiphetho (ku-⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : ukuna (ngokuvamile no-⟪कर्तृ⟫ -- unkulunkulu noma ifu)
 
@@ -202,8 +200,8 @@ Absol.-⟪वृष्य⟫
 
 Umfanekiso: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Umthombo wesithombe: [Details](/zu/licenses#lekt5002))
+Ukufika kwemvula enkulu, Bangalore ಬೆಂಗಳೂರು
+(Umthombo wesithombe: [Imininingwane](/zu/licenses#lekt5002))
 
 :::
 
@@ -221,7 +219,7 @@ Umfanekiso: ⟪आदित्यः⟫
 
 :::
 
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: wonke umuntu, bonke
 
 Ukuguqulwa kwamagama njengo-⟪यद्⟫ (ngaphandle: Nom.Akk.sg.Neutrum)
 
@@ -355,7 +353,7 @@ Erklärung:
 
 :::
 
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Mayelana nabeluleki benkosi
 
 ::: indent
 
@@ -366,7 +364,7 @@ Erklärung:
 
 :::
 
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Incazelo ye-⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 ::: indent
 

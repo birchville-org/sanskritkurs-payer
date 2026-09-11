@@ -1,5 +1,5 @@
 ---
-title: "Exercise 26"
+title: "Øvelse 26"
 uebung_id: 26
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -35,7 +35,7 @@ B) With connecting vowel **-i-**:
 
 ⟪१५⟫. ⟪प्रभवति⟫ — ⟪प्रभविष्यति⟫
 
-⟪१६⟫. ⟪म्रियन्ते⟫ (im Futur Parasmaipada) — ⟪मरिष्यन्ति⟫
+⟪१६⟫. ⟪म्रियन्ते⟫ (i futurum parasmaipada) — ⟪मरिष्यन्ति⟫
 
 ⟪१७⟫. ⟪जीवन्ति⟫ — ⟪जीविष्यन्ति⟫
 
@@ -51,16 +51,19 @@ B) With connecting vowel **-i-**:
 
 ⟪२३⟫. ⟪कुप्यन्ति⟫ — ⟪कोपिष्यन्ति⟫
 
-C) Futur optional mit und ohne **-i-**:
+C) Futurum valgfritt med og uten **-i-**:
 
 ⟪१⟫. ⟪मुह्यन्ति⟫ — ⟪मोहितुम्⟫ / ⟪मोक्ष्यन्ति⟫
 
 ⟪२⟫. ⟪वर्तते⟫ — ⟪वर्तिष्यते⟫ / ⟪वर्त्स्यते⟫
 
-⟪३⟫. ⟪अश्नुवते⟫ (im Futur Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
+⟪३⟫. ⟪अश्नुवते⟫ (i futurum parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
 
 ::: media
+
 ![](/images/uebung043.webp)
+
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Bildekilde: [Detaljer](/no/licenses#uebung043))
+
 :::

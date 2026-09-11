@@ -96,7 +96,6 @@ Nawet tego, co nienawistne, nie powinniście nienawidzić, ani nie bądźcie chc
 
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Opłakiwałeś tych, których nie należy opłakiwać, i chciałeś mówić słowa mądrości; lecz mędrcy nie opłakują ani zmarłych, ani żywych.
-:::
 ---
 
 ## Dalsze formy fleksyjne

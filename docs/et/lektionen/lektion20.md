@@ -1,5 +1,5 @@
 ---
-title: "Lektion 20"
+title: "Õppetund 20"
 subtitle: "Omandavad liitsõnad = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
@@ -122,7 +122,7 @@ Traditionally, one distinguishes:
 
 :::
 
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
+## 20.3. Bahuvrīhi apositsioonilise esiosaga
 
 ::: grammar-box
 
@@ -186,12 +186,12 @@ Traditionally, one distinguishes:
 
 Joonis: ⟪देवा यीश्वादयः⟫
 
-Jesus und die übrigen Götter, Ahmedabad
+Jeesus ja teised jumalad, Ahmedabad
 (Pildi allikas: [Details](/et/licenses#lekt2005))
 
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. Bahuvrīhi käändelise esiosaga
 
 st Bahuvrīhi, mille esiliige esindab teist käänet kui nominatiiv (⟪प्रथमा⟫).
 
@@ -376,7 +376,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ n: maa, pinnas
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -618,7 +618,7 @@ Karnataka
 
 :::
 
-Über Besitzverhältnisse:
+Omandisuhete kohta:
 
 ::: indent
 

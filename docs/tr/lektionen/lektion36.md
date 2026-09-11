@@ -13,8 +13,11 @@ status: stable
 ## 36.1. Perfektin özel yapıları
 
 ::: grammar-box
+
 1\. Bazı kökler, reduplicasyon hecesinden sonra kök başındaki ünsüzde bir değişikliğe yol açar.
+
 :::
+
 Örnekler:
 
 | Kök:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -24,46 +27,70 @@ status: stable
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
+
 2\. ⟪विद्⟫ 2P "bilmek" kökü, şu anki anlam taşıyan bir mükemmişe (perfekt) sahiptir.
+
 :::
+
 ::: grammar-box
+
 | Kök:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
+
 :::
+
 ::: grammar-box
+
 3\. "Söylemek" anlamına gelen ⟪अह्⟫ kökünün yalnızca mükemmel çekimleri (Perfekt I) vardır. Bunlar şu anki anlam taşır.
+
 :::
+
 ::: grammar-box
+
 | Kök:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
+
 :::
+
 ::: grammar-box
+
 4\. ⟪भू⟫ 1P kökünün mükemmel gövdesi ⟪बभू⟫ olup, ünlülerden önce ⟪बभूव्⟫ şeklindedir.
+
 :::
+
 ::: grammar-box
+
 | Kök:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
+
 :::
+
 ## 36.2. Perifristik mükemmel (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
+
 Perifristik mükemmel (⟪अनुप्रयोगलिट्⟫) şu durumlarda kullanılır:
 
 1. türetilmiş çekimlerde (Kausatif, Desideratif, Frekuentatif, Denominativa)
 2. uzun bir sesle (ā hariç) başlayan veya iki ünsüzden önce bir sesle (a- hariç) başlayan kökler için
 3. diğer bazı kökler için
+
 :::
+
 ::: grammar-box
+
 **Oluşum:**
 
 (zayıf) Şimdiki zaman kökü + -ām + ⟪कृ⟫, ⟪अस्⟫ veya ⟪भू⟫'in uygun Geçmiş zaman biçimi
 
 Kök sonundaki ses, -ām'dan önce guṇlanır.
 ⟪अस्⟫ ve ⟪भू⟫, Ātmanepada fiillerinde de Parasmaipada'da çekimlenir.
+
 :::
+
 Perifrazik Geçmiş zaman, muhtemelen -ā sonlu bir fiil isminin belirtme hâlinden kaynaklanmıştır. Bu belirtme hâli -- diğer durumlarda da sıkça olduğu gibi -- zarf olarak kullanılır.
 
 Örnekler:
@@ -79,12 +106,17 @@ Perifrazik Geçmiş zaman, muhtemelen -ā sonlu bir fiil isminin belirtme hâlin
 ## 36.3. Geçmiş Zaman Edilgen
 
 ::: grammar-box
+
 Geçmiş zamanda edilgen için Ātmanepada biçimleri kullanılır. Buna karşılık PPP'nin kullanımı tercih edilir. Her iki durumda da yapı, edilgen cümlelerin yapısıdır:
 
 :::
+
 ::: indent
+
 ⟪तेन पुण्यं चक्रे⟫ = ⟪तेन पुण्यं कृतम्⟫ = "Değerli bir iş yaptı"
+
 :::
+
 ## 36.4. Kelime Listesi
 
 ⟪अह्⟫ P sadece Şimdiki zaman anlamıyla Geçmiş Zaman ⟪आह⟫, ⟪आहुर्⟫ : söylemek, konuşmak
@@ -94,59 +126,81 @@ Geçmiş zamanda edilgen için Ātmanepada biçimleri kullanılır. Buna karşı
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : görmek, (ayırt) etmek, bakmak
 
 ::: indent
+
 Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
+
 :::
+
 ⟪चि⟫ 5U ⟪चिनोति⟫ : yığmak, toplamak
 
 ::: indent
+
 Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
 Kaus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3601.webp)
+
 Resim: ⟪गोमयं चिकाय⟫
 (Resim kaynağı: [Details](/tr/licenses#lekt3601))
+
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : adım atmak, gitmek, ayrılmak
 
 ::: indent
+
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
 Pass. ⟪व्रज्यते⟫  
 Kaus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
+
 :::
+
 ⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : ayrılmak (özellikle evden çıkıp evsizlik/dervişlik yoluna girmek = keşiş olmak)
 
 ⟪अगार⟫ n.⟪। आगार⟫ n.: ev, hane
 
 ::: media
+
 ![](/images/lekt3602.webp)
+
 Resim: ⟪अगारम्⟫
 (Resim kaynağı: [Details](/tr/licenses#lekt3602))
+
 :::
 
 ::: indent
+
 bundan:
 
 ⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.: bir Budist keşiş veya novisin evsizliği
+
 :::
+
 ::: media
+
 ![](/images/lekt3603.webp)
+
 Resim: ⟪अनगार्यम्⟫
 (Resim kaynağı: [Details](/tr/licenses#lekt3603))
+
 :::
+
 ⟪अञ्जलि⟫ m.: Saygı için yukarı doğru birleştirilmiş iki el
 
 ⟪आदृत⟫ 3: saygıdeğer
@@ -158,31 +212,41 @@ Resim: ⟪अनगार्यम्⟫
 ⟪पृष्ठ⟫ n: sırt, arka taraf
 
 ::: indent
+
 ⟪पृष्ठम्⟫ : arkasında
+
 :::
+
 ⟪प्रजापति⟫ m.: yaratıkların efendisi, yaratıcı tanrı
 
 ⟪अनु⟫ Önekin: sonra, boyunca, üzerinden - ila, boyunca, göre, ek olarak, arkasından
 
 ::: indent
+
 Örneğin
 
 ⟪अनुकृ⟫ : taklit etmek, yapmak
 
 ⟪अनुगम्⟫ : birinin ardından gitmek, yan yana yürümek
+
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+
+⟪अभि⟫ : -e doğru, -e kadar, -e karşı, -e yönelik, -e ilişkin, üzerinde, hakkında, -de
 
 ::: indent
+
 Örneğin
 
 ⟪अभिगम्⟫ : gitmek, yaklaşmak
 
 ⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : resmi olarak selamlamak, hitap etmek
+
 :::
+
 ⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : isteksizlik duymak, kaybolmak
 
 ::: indent
+
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
@@ -190,10 +254,13 @@ Kaus. ⟪ग्लापयति । ग्लपयति⟫
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
+
 :::
+
 ⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : bir şey koklamak
 
 ::: indent
+
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
@@ -201,22 +268,28 @@ Kaus. ⟪घ्रापयति⟫
 PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
+
 :::
+
 ⟪प्री⟫ 9U ⟪प्रीणति⟫ : eğlendirmek, memnun etmek; sevmek, birine ilgili olmak
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : mutlu olmak
 
 ::: indent
+
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
 Kaus. :sig[⟪प्रीणयति⟫]  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
+
 :::
+
 ⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : dokunmak
 
 ::: indent
+
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
 Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
@@ -224,25 +297,38 @@ Kaus. ⟪स्पर्शयति⟫
 PPP ⟪स्पृष्ट⟫  
 Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3606.webp)
+
 Abb.: ⟪सुगतो भूमीं पस्पर्श⟫
+
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt3606))
+
 :::
+
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : donmak: dikleşmek (saçlar), bir şeyden dolayı sevinmek (Instr., Akk., Lok.)
 
 ::: indent
+
 Perf II ⟪जहर्ष⟫  
 Fut. ⟪हर्षिष्यति⟫  
 Pass. ⟪हृष्यते⟫  
 Kaus. ⟪हर्षयति⟫  
 PPP ⟪हृषित⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3604.webp)
+
 Resim: ⟪लोमहर्षः⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt3604))
+
 :::
 
 ⟪स्वक⟫ 3: aidiyet (benim, senin ...) ; m.: mensup
@@ -282,10 +368,14 @@ D) Çevirin:
 ⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫
 
 ::: media
+
 ![](/images/lekt3605.webp)
+
 Resim: ⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt3605))
+
 :::
+
 ⟪ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥ रक्षितधर्मक्षत्रिययोधा महानगरं जेतुकामाञ्छत्रून्विजिग्युर्न तु जघ्नुः ॥३॥ अधीतवेदद्विजो द्विजधर्मं वेद ॥४॥⟫
 
 ⟪विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥ स साधुर्दुर्जनपापलोभमतिमीक्षां चक्रे ॥६॥ ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥⟫
@@ -402,6 +492,7 @@ Resim: ⟪पुत्रे जाते सुगतः कुलं धनं
 1\. ⟪महाभारत १३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
 ::: indent
+
 ⟪येन प्रीणति⟫ :sig[⟪पितरं⟫]
 ⟪तेन प्रीतः प्रजापतिः । प्रीणति⟫ :sig[⟪मातरं⟫] ⟪येन पृथिवी तेन पूजिता । येन प्रीणात्युपाध्यायं तेन स्या⟫:sig[⟪द्ब्रह्म⟫] ⟪पूजितम् ।⟫
 sig[⟪सर्वे⟫] ⟪तस्यादृता धर्मा यस्यैते⟫ :sig[⟪त्रय⟫] ⟪आदृताः । अनादृतास्तु यस्यैते⟫
@@ -420,27 +511,40 @@ Açıklamalar:
 ⟪त्रयस्⟫ : Nom. pl. mask. ⟪त्रि⟫ "üç" kelimesine ait
 
 ⟪सर्वास्⟫ : Nom./Akk. pl. fem. ⟪सर्व⟫ "her, her biri" kelimesine ait
+
 :::
+
 ::: media
+
 ![](/images/lekt3607.webp)
+
 Resim: ⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt3607))
+
 :::
+
 2\. ⟪मनुस्मृति ४⟫.⟪१५४⟫ yaşlılara karşı doğru davranış hakkında:
 
 ::: indent
+
 ⟪अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् । कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥⟫
+
 :::
+
 3\. ⟪मनुस्मृति २⟫.⟪९८⟫: Bir ⟪जितेन्द्रिय⟫ kimdir:
 
 ::: indent
+
 ⟪श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः । न हृष्यति ग्लायति वा स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः ॥⟫
 
 Açıklama: ⟪विज्ञेय ३⟫: tanınan biri; bilinen biri (olarak)
+
 :::
+
 4\. ⟪मनुस्मृति २⟫.⟪११०⟫ bir Brahman'ın doğru davranışı hakkında:
 
 ::: indent
+
 ⟪नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः । जानन्नपि हि मेधावी जडवल्लोक आचरेत् ॥⟫
 
 Açıklamalar:
@@ -450,7 +554,9 @@ Bu ayette ⟪ब्रू⟫ tamlayan (genitif) ile kullanılmıştır
 ⟪मेधावी⟫ : Tekil, adıl, erkek. ⟪मेधाविन् ३⟫ "anlayışlı, zeki" kelimesinin köküdür
 
 ⟪जडवत्⟫ Zarf. "Bir durgunluk/tükenmişlik/aptallık tarzında"
+
 :::
+
 ## 36.8. Şekil Bilgisi Tekrar Alıştırması
 
 Aşağıdaki kelime formlarını tüm mümkün yollarla belirleyin ve çevirin:
@@ -495,4 +601,3 @@ Aşağıdaki kelime formlarını tüm mümkün yollarla belirleyin ve çevirin:
 38. ⟪युगे⟫
 39. ⟪अपिपः⟫
 40. ⟪अपिबत्⟫
-

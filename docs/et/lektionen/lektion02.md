@@ -1,5 +1,5 @@
 ---
-title: "Lektion 2"
+title: "2. õppetund"
 subtitle: "Nominaallause ja käändsõnade alused"
 lesson_id: 2
 category: "Grammatik"
@@ -93,21 +93,21 @@ Final **-s**:
 **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
 **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-**vor stimmlosen Lauten**:
-vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva ist ein Gott")
-vor **c, ch**: wird zu **-ś**
-vor **ṭ, ṭh**: wird zu **-ṣ**
-vor **t, th**: bleibt **-s**
-**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+**enne helituid häälikuid**:
+enne **k, kh, p, ph** ja **ś, ṣ, s**: muutub **Visargaks (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva on jumal")
+enne **c, ch**: muutub **-ś**
+enne **ṭ, ṭh**: muutub **-ṣ**
+enne **t, th**: jääb **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya on pühak")
 
-**vor stimmlosen Lauten**:
-vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva ist ein Gott")
-vor **c, ch**: wird zu **-ś**
-vor **ṭ, ṭh**: wird zu **-ṣ**
-vor **t, th**: bleibt **-s**
-**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+**enne helituid häälikuid**:
+enne **k, kh, p, ph** ja **ś, ṣ, s**: muutub **Visargaks (-ḥ)**
+**devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः शिवः⟫ ("Śiva on jumal")
+enne **c, ch**: muutub **-ś**
+enne **ṭ, ṭh**: muutub **-ṣ**
+enne **t, th**: jääb **-s**
+**sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya on pühak")
 
 **häälikute ees**:
 pärast mitte-a-täishäälikuid: muutub **-r**-iks
@@ -136,7 +136,7 @@ enne teisi täishäälikuid: muutub **-a**-ks (hiaatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box Die vier Stände (varna)
+::: note-box Neli seisust (varna)
 
 Klassikalise teooria kohaselt (nt Manusmṛti I, 88-91) on ülesanded jaotatud:
 
@@ -213,6 +213,7 @@ Every estate society is conventional, ordered by rules of life conduct, thereby 
 
 **agni** m. -- ⟪अग्नि⟫ : fire, god Agni.
 
+:::
 ::: media
 
 ![](/images/lekt0203.jpg)

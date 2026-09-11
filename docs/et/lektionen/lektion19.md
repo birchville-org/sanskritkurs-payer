@@ -1,12 +1,12 @@
 ---
-title: "Lección 19"
+title: "Õppetund 19"
 lesson_id: 19
 
 ---
 
 # Lektion 19
 
-## 19.1. Der Relativsatz
+## 19.1. Relatiivlause
 
 ::: grammar-box
 

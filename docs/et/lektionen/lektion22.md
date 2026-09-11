@@ -1,5 +1,5 @@
 ---
-title: "Lektion 22"
+title: "22. õppetund"
 subtitle: "Absolutiiv (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
@@ -150,7 +150,7 @@ Juur **-am** / **-an** + **-ya**
 
 oder:
 
-Wurzel auf **-a** + **-tya**
+Tüvi lõpuga **-a** + **-tya**
 
 :::
 

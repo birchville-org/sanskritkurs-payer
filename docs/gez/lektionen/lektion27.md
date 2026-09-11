@@ -68,7 +68,7 @@ status: stable
 
 ![](/images/lekt2702.webp)
 
-Abb.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
+ስዕሊ: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 
 ራጃስታን።
 (ምንጭ፡ [ዝርዝሮች](/gez/licenses#lekt2702))
@@ -87,7 +87,7 @@ Abb.: ⟪एवं गच्छति कालयुष्ट्रः स्�
 
 ![](/images/lekt2703.webp)
 
-Abb.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
+ስዕሊ: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 
 ሆሊ።
 (ምንጭ፡ [ዝርዝሮች](/gez/licenses#lekt2703))
@@ -104,7 +104,7 @@ Abb.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 
 ስለ ቦታ መስተዋድድ (Lokativ) አጠቃቀም ተጨማሪ መረጃ በኋላ።
 
-## 27.2. Bildung des Lokativ (⟪सप्तमी⟫)
+## ፳፯.፪. ግስጋሴ ዘመድበል (⟪सप्तमी⟫)
 
 ::: grammar-box
 
@@ -245,7 +245,7 @@ from that:
 
 ![](/images/lekt2706.webp)
 
-Abb.: ⟪वस्त्राणि⟫
+ስዕሊ: ⟪वस्त्राणि⟫
 
 Vastrāṇi. Majuli, Assam.
 (Image source: [Details](/gez/licenses#lekt2706))
@@ -266,7 +266,7 @@ Vastrāṇi. Majuli, Assam.
 
 ![](/images/lekt2707.webp)
 
-Abb.: ⟪वसन्तः⟫
+ስዕሊ: ⟪वसन्तः⟫
 
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Image source: [Details](/gez/licenses#lekt2707))
@@ -299,7 +299,7 @@ counterpart to ⟪हर⟫:
 
 ![](/images/lekt2704.webp)
 
-Abb.: ⟪हरिहरः⟫
+ስዕሊ: ⟪हरिहरः⟫
 
 Harihara (left: Viṣṇu, right: Śiva).
 (Image source: [Details](/gez/licenses#lekt2704))
@@ -310,7 +310,7 @@ Harihara (left: Viṣṇu, right: Śiva).
 
 ![](/images/lekt2705.webp)
 
-Abb.: ⟪हरिहरः⟫
+ስዕሊ: ⟪हरिहरः⟫
 
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/gez/licenses#lekt2705))
@@ -361,14 +361,14 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 ![](/images/lekt2711.webp)
 
-Abb.: ⟪नराः⟫
+ስዕሊ: ⟪नराः⟫
 
 ናራን። ኡዳይፑር።
 (ምንጭ፡ [ዝርዝሮች](/gez/licenses#lekt2711))
 
 :::
 
-### 27.7.2. Neutra auf -a: ⟪फल⟫
+### ፳፯.፯.፪. ግብራውያን በ -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -388,14 +388,14 @@ Abb.: ⟪नराः⟫
 
 ![](/images/lekt2710.webp)
 
-Abb.: ⟪फलानि⟫
+ስዕሊ: ⟪फलानि⟫
 
 ፍራፍሬዎች። ባንጋሎር።
 (ምንጭ፡ [ዝርዝሮች](/gez/licenses#lekt2710))
 
 :::
 
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+### ፳፯.፯.፫. አንስታውያን በ -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -415,7 +415,7 @@ Abb.: ⟪फलानि⟫
 
 ![](/images/lekt2718.webp)
 
-Abb.: ⟪क्षत्रिया⟫
+ስዕሊ: ⟪क्षत्रिया⟫
 
 ማሃራኒ ቫኒ ቪላሳ ሳኒዳና (1866 - 1934) ምስ ወዱ ልዑል ጃያ ቻማራጃ ዋዲያር፣ ማይሶር።
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2718))
@@ -484,14 +484,14 @@ Abb.: ⟪क्षत्रिया⟫
 
 ![](/images/lekt2713.webp)
 
-Abb.: ⟪गुरुः⟫
+ስዕሊ: ⟪गुरुः⟫
 
 ማሃሪሺ ማሄሽ ዮጊ (1917 - 2008) መምህር።
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2713))
 
 :::
 
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### ፳፯.፯.፯. አንስታውያን በ -u: ⟪धेनु⟫
 
 ::: grammar-box
 
@@ -511,7 +511,7 @@ Abb.: ⟪गुरुः⟫
 
 ![](/images/lekt2714.webp)
 
-Abb.: ⟪धेनुः⟫
+ስዕሊ: ⟪धेनुः⟫
 
 ላም ኣብ ኡዳይፑር።
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2714))
@@ -538,7 +538,7 @@ Abb.: ⟪धेनुः⟫
 
 ![](/images/lekt2715.webp)
 
-Abb.: ⟪त्रिदेवी⟫
+ስዕሊ: ⟪त्रिदेवी⟫
 
 ትሪደቪ (ላክሽሚ፣ ፓርቫቲ፣ ሳራስቫቲ)።
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2715))
@@ -565,7 +565,7 @@ Abb.: ⟪त्रिदेवी⟫
 
 ![](/images/lekt2716.webp)
 
-Abb.: ⟪सद्गुरुः⟫
+ስዕሊ: ⟪सद्गुरुः⟫
 
 ሳይ ባባ ናይ ሽርዲ (1835 - 1918)።
 (ምንጪ ስእሊ: [ዝርዝራት](/gez/licenses#lekt2716))

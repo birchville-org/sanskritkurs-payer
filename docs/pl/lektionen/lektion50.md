@@ -101,6 +101,7 @@ Ilustracja: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), minister unijny w Ministerstwie Nauki i Technologii oraz Ministerstwie Nauk o Ziemi (od 2006 r.)
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5001))
 
+:::
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫

@@ -13,6 +13,7 @@ status: stable
 ## 10.1. Pasivna rečenica
 
 ::: grammar-box
+
 **Šema:**
 **(Agens - kartṛ - u instrumentalnom padežu (tṛtīyā)) - (direktni objekat - karman - u nominativu) - pasivni oblik glagola**
 
@@ -20,36 +21,47 @@ npr. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव
 
 Ova rečenica je **potpuno (!) značajno ekvivalentna** sa rečenicom:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
+
 :::
 
 ::: grammar-box
+
 U pasivnoj rečenici, agens (**kartṛ**) je u **instrumentalu** (tṛtīyā ž. "treći padež"), a direktni objekat (**karman** n.) je u **nominativu** (prathamā ž.).
 Pasivne rečenice u kojima agens nije označen, obično imaju nepersonalni značaj ("se"):
 npr. **ijyate** = ⟪इज्यते⟫ "Žrtvuje se" (doslovno: "obožava se uz pomoć žrtve").
+
 :::
 
 ::: grammar-box
+
 **Čak i ako odgovarajuća aktivna rečenica sadrži akuzativ (dvitīyā) cilja, ovaj se u pasivnoj rečenici može staviti u nominativ (prathamā):**
 
 Aktivnoj rečenici **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Rāma ide u selo" odgovaraju pasivne rečenice:
 **rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
 alternativno: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
+
 :::
 
 ::: grammar-box
+
 **Netransitivni glagoli (glagoli bez direktnog objekta) često imaju pasivne konstrukcije, posebno u ljubaznim naredbama:**
 **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Neka se uđe = Molim, uđite = Uđite!"
 **niṣadyatām** = ⟪निषद्यताम्⟫ = "Neka se sedne = Molim, sesti = Molim, zauzmite mesto"
+
 :::
+
 Sanskrit passive constructions are extremely common: the passive is, after all, easier to form than numerous present stems.
 
 ::: important
+
 **Sanskrit passive sentences should generally not be rendered in German using a passive construction, as the German passive serves a completely different stylistic function.**
+
 :::
 
 ## 10.2. The Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "third case ending")
 
 ::: grammar-box
+
 **The regular endings of the Instrumental (tṛtīyā):**
 **Singular: -ā**
 **Plural: -bhis**
@@ -94,13 +106,15 @@ Sanskrit passive constructions are extremely common: the passive is, after all, 
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :brthis, this, this" (Close):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+
 :::
 
 
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. O upotrebi instrumentala (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
+
 **Instrumental (tṛtīyā) stoji uglavnom na pitanja (Kielhorn):**
 **Čime?**
 **S čim?**
@@ -112,18 +126,23 @@ Sanskrit passive constructions are extremely common: the passive is, after all, 
 3. **za označavanje puta kojim netko nekamo stiže**
 4. **za izražavanje veze, sjedinjenja, pratnje**
 5. **with postpositions in the meaning "together with, with"; e.g. saha = ⟪सह⟫ = "with"** :bre.g.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "together with the Brahmin"
+
 :::
-Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
+Ostale upotrebe instrumentala (tṛtīyā) slede kasnije.
 
-## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
+## 10.3. Takozvani zakon cerebralizacije za -n- (sandhi reči)
 
 ::: grammar-box
+
 A **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **ṛ, ṝ, r, ṣ** precede the **-n-** in the word or if no other sound than vowels, gutturals, labials, **y, v, h** or Anusvāra stands between these sounds and the following **-n-** in the word.
+
 :::
+
 **Deshalb:**
 
 ::: grammar-box
+
 | | Instrumentalis Singular |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -131,10 +150,13 @@ A **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
+
 :::
-**So ist auch das -ṇ- zu erklären in:**
+
+**Tako se objašnjava i -ṇ- u:**
 
 ::: indent
+
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -142,15 +164,18 @@ A **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
+
 :::
 
-
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Pasiv, indikativ prezenta (yak = ⟪यक्⟫)
 
 ::: grammar-box
+
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
+
 :::
+
 e.g.
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक् लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक् लट्⟫ |
@@ -211,12 +236,14 @@ e.g. **tan** 8 U.
 **nagara** n. ⟪नगर⟫ : city
 
   ::: note-box
+
   For urban and village life, see Basham, *Wonder*, Chapter 6.
   :::
 
 **yajña** m. ⟪यज्ञ⟫ : sacrifice
 
   ::: note-box
+
   In India, the sacrifice is primarily a veneration of the deity as a guest. By this one obligates oneself to the deity.
 
   Word formation: **yaj** 1 U + kṛt suffix **-na-**.
@@ -225,6 +252,7 @@ e.g. **tan** 8 U.
 **puṇya** n. ⟪पुण्य⟫ : good deed, merit
 
   ::: note-box
+
   By which one earns well-being and good rebirths.
   :::
 
@@ -232,21 +260,30 @@ e.g. **tan** 8 U.
 **satya** n. ⟪सत्य⟫ : truth
 
 ::: note-box
+
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
 :::
+
 ::: literatur-box
+
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
+
 :::
 
 ::: media
+
 ![](/images/lekt1003.webp)
+
 Fig.: ⟪वरुणः⟫
 (Image source: [Details](/sh/licenses#lekt1003))
+
 :::
+
 **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
 
   ::: note-box
+
   Word formation **an-** („un-“) + **ṛta** n.
 
   **ṛta** is a central concept in the Veda, whose translation is disputed: “truth” (Lüders, Thieme), “order” (Renou).
@@ -255,14 +292,19 @@ Fig.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
 
   ::: note-box
+
   The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of Vedic hymns. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, chap. 5.
   :::
 
 ::: media
+
 ![](/images/lekt1002.jpg)
+
 Fig.: ⟪विश्वामित्रः⟫
 (Image source: [Details](/sh/licenses#lekt1002))
+
 :::
+
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : to say, to speak
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
 **saha** ⟪सह⟫ : together with, jointly with (also in “to fight with” etc.) (Postposition with Instrumental)
@@ -322,10 +364,14 @@ Fig.: ⟪विश्वामित्रः⟫
 4. The warp of the loom is stretched out. (2 possibilities)
 
 ::: media
+
 ![](/images/lekt1004.jpg)
+
 Fig.: ⟪तन्तुवायः⟫
 (Image source: [Details](/sh/licenses#lekt1004))
+
 :::
+
 5. The teachers are asked. (Passive construction)
 6. The eye is led. (Passive construction)
 7. A deity is seen by the poet. (Passive construction)
@@ -369,10 +415,14 @@ Fig.: ⟪तन्तुवायः⟫
 **Read and translate, then convert to the passive voice:**
 
 ⟪क १⟫.
+
 ::: center
+
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
+
 :::
+
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |

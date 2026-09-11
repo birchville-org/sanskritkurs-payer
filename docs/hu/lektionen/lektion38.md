@@ -1,6 +1,6 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: 38. lecke
+subtitle: "A hét jelszava"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,11 +14,14 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ a helyes vizelésről:
 
 ::: indent
+
 ⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
 ⟪प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+
 :::
+
 Magyarázatok:
 
 \-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
@@ -26,21 +29,30 @@ Magyarázatok:
 \-:sig[⟪गु⟫] semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
 
 ::: media
+
 ![](/images/lekt3801.webp)
+
 Ábr.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt3801))
+
 :::
+
 ## 38.2. A nazálisok hangváltozása a szóban
 
 ::: grammar-box
+
 A szóban lévő nazálisok a rájuk következő mássalhangzókhoz asszimilálódnak, azaz ezeket a nazálisokat a megfelelő mássalhangzónak megfelelő nazálissal helyettesítjük.
 
 A c- és j-előtagok után a -n- helyett -ñ- lép fel.
+
 :::
+
 ## 38.3. A -n végű tövek ragozása
 
 ### 38.3.1. -an végű főnevek, valamint a magánhangzó után álló -man vagy -van végű főnevek
+
 ::: grammar-box
+
 A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **-van** végű főnevek három tővel rendelkeznek:
 
 | Tő | -an | -man | -van | Használat |
@@ -50,7 +62,9 @@ A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **
 | **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés |
 
 **A végződések szabályosak. A nominativus singularis m. f. -n kimenetel nélkül képződik.**
+
 :::
+
 Példák:
 
 ⟪राजन्⟫ m. "király"
@@ -70,6 +84,7 @@ Példák:
 *   erős Tő: ⟪नामान्⟫
 *   közepes Tő: ⟪नाम⟫
 *   leggyengébb Tő: ⟪नाम्न्⟫
+
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -92,21 +107,29 @@ Példák:
 | ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt3803.webp)
+
 Ábra: ⟪सीमा⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3803))
+
 :::
+
 ### 38.3.2. -man vagy -van végződésű főnevek mássalhangzóra végződő alap előtt
 
 ::: grammar-box
+
 *   Erős tő: -mān, -vān
 *   Gyenge tő:
     *   mássalhangzóra végződő toldalékok előtt: -ma, -va (-\*mn, -\*vn-ból)
     *   magánhangzóra végződő toldalékok előtt: **\-man, -van**
 
 Egyéb képzés szerint 3.1. alatt.
+
 :::
+
 Példák:
 
 ⟪आत्मन्⟫ n. "lélek"
@@ -122,6 +145,7 @@ Példák:
 *   gyenge Tő:
     *   mássalhangzó előtt: ⟪ब्रह्म⟫
     *   magánhangzó előtt: ⟪ब्रह्मन्⟫
+
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,15 +168,19 @@ Példák:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
+
 ### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek
 
 ::: grammar-box
+
 Ezek a főnevek **nem** mutatnak gyökváltozást.
 
 A nominativus egyes számú nemnemű és a nominativus-akkuzatívus többes számú semleges alakok az -an gyökökhöz hasonlóan képződtek (az -i- megnyújtása), ugyanígy a mássalhangzós végződés előtt álló **\-i-** gyök.
 
 A nőnemű alakot a -ī képzővel képezzük: pl. ⟪बलिनी⟫
+
 :::
+
 Példa:
 
 ⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)"
@@ -179,124 +207,184 @@ Példa:
 | ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
+
 ## 38.4. A névképzésről: ⟪तद्धित⟫-suffixum -in
 
 ::: grammar-box
+
 A (nagyon fontos!) ⟪तद्धित⟫-suffixum **-in** segítségével főnevekből képeznek mellékneveket, jelentésük:
 
 **jellegzetes, birtokol**
 
 Eredetileg a **-⟪इन्⟫** képzővel képezett tanszék eltért a **-⟪मन्त्⟫/-⟪वन्त्⟫** tanszéktól abban, hogy a **-⟪इन्⟫** egy különleges jellemzővel való megjelölést jelölt, míg a **-⟪मन्त्⟫/-⟪वन्त्⟫** azt fejezte ki, hogy valakinek van valami, ami általánosan vagy közönségesen jellemző rá.
+
 :::
+
 Példa:
 
 ⟪हस्तिन्⟫ m.: egy különleges kézzel megjelölt = az elefánt (hiszen a keze nem egy átlagos kéz, hanem egy tuskó)
 
 ::: media
+
 ![](/images/lekt3806.webp)
+
 Ábr.: ⟪हस्ती⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3806))
+
 :::
+
 ⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van
 
 ::: media
+
 ![](/images/lekt3807.webp)
+
 Ábr.: ⟪हस्तवान्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3807))
+
 :::
 
 ::: grammar-box
+
 A **-⟪इन्⟫** végződésű mellékneveket szívesen használják összetétek képzésére.
+
 :::
+
 Példa:
 
-⟪सत्यवादिन्⟫ → ⟪सत्यवाद⟫ m. "az igazság beszéde": "valaki, akit az igazság beszédével jellemeznek = aki mindig az igazságot mondja"
+⟪सत्यवाद⟫ m. "az igazság beszéde": "valaki, akit az igazság beszédével jellemeznek = aki mindig az igazságot mondja"
 
 ## 38.5. Szintaktikai megjegyzések ⟪नामन्⟫ kapcsán
 
 ::: grammar-box
+
 Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk:
 
 **N.N. (alanyesetben) ⟪नाम⟫**
 
 Szó szerint: „a név N.N.” vagy „N.N. volt”. Tehát egy beékelődő névszólmon van szó.
+
 :::
+
 Példa:
 
 ::: indent
+
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ „Egyszer volt egy király **Nala nevű**, Vīrasena erős fia.”
+
 :::
+
 Természetesen ugyanazt kifejezhetjük egy ⟪बहुव्रीहि⟫ segítségével:
 
 ::: indent
+
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ „egy ember, akinek a neve Devadatta”
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "egy lány, akinek a neve Madayantika"
+
 :::
+
 ::: media
+
 ![](/images/lekt3808.jpg)
+
 Ábr.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3808))
+
 :::
+
 ## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán
 
 ::: grammar-box
+
 ⟪आत्मन्⟫ **hímnem** használható a **tőszám**ban visszautaló névmódként (reflexív névmás) mindhárom nemre, számra (kettős és többes szám is), valamint személyekre.
+
 :::
+
 Példák:
 
 ::: indent
+
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Látja, hogy nincs hibája önmagában"
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Dicsérik önmagukat"
+
 :::
+
 ::: grammar-box
+
 A birtokos eset (⟪षष्ठी⟫) ⟪आत्मनस्⟫ ezért állhat "enyém/tied/sajátja..." jelentésben
+
 :::
+
 Példa:
 
 ::: indent
+
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Belép a saját házába."
+
 :::
+
 ## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai
 
 ::: grammar-box
+
 Azok a tövek, amelyek mássalhangzóra végződnek, az összetétel első tagjaként abban (gyenge) alakban jelennek meg, amelyet a lokativus (-su) többes számú végződés előtt felvennek. (⟪सप्तमी⟫)
+
 :::
+
 Példa:
 
 ::: indent
+
 :sig[⟪राज⟫]⟪पुत्र⟫ "Királyfi"
+
 :::
+
 ## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja
 
 ::: grammar-box
+
 A ⟪बहुव्रीहि⟫ második tagjaként egy -an végződésű tő használható mindhárom nemben. Általában azonban a nőnemet a leggyengébb hímnemű tőből képezik az -ī végződéssel.
+
 :::
+
 Példa:
 
 ::: indent
+
 ⟪दुर्णाम्नी⟫ „egy, akinek a neve rossz; betegségek démonnője”
+
 :::
+
 ## 38.9. Szószedet
 
 ⟪सूर्य⟫ m.: Nap, napisten Sūrya
 
 ::: media
+
 ![](/images/lekt3802.webp)
+
 Ábr.: ⟪सूर्यः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3802))
+
 :::
+
 ⟪उदक⟫ n.: víz
 
 ::: media
+
 ![](/images/lekt3805.webp)
+
 Ábr.: ⟪उदकम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3805))
+
 :::
+
 ⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou
 
 ::: indent
+
 Jöv. ⟪वास्यति⟫
 Tört. IV ⟪ववौ⟫
 Kiv. ⟪वायते⟫
@@ -307,24 +395,34 @@ Inf. ⟪वातुम्⟫
 ebből:
 
 ⟪वात⟫ m.: szél
+
 :::
+
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : fúj, szétszór, elalszik
 
 ::: indent
+
 ebből:
 
 ⟪निर्वाण⟫ n.: kialsztás, nirvána
 
 ⟪परिनिर्वाण⟫ n.: tökéletes kialsztás, tökéletes megszabadítás (egy buddha vagy arhant életének végén)
+
 :::
+
 ::: media
+
 ![](/images/lekt3804.webp)
+
 Ábr.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3804))
+
 :::
+
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : vizel, pisil, ejakulál
 
 ::: indent
+
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -334,12 +432,15 @@ PPP ⟪मीढ⟫
 ebből:
 
 ⟪मेघ⟫ m.: felhő („esőhozó”)
+
 :::
+
 ⟪सुत⟫ m.: fiú
 
 ⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫)
 
 ::: indent
+
 Nem:
 
 ⟪राज्ञी⟫ f.: királyné, király felesége
@@ -347,7 +448,9 @@ Nem:
 a(z) :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: királyi; n. királyság, királynak lenni, uralkodás
+
 :::
+
 ⟪नामन्⟫ n.: Név
 
 ⟪सीमन्⟫ f.: Határ
@@ -359,27 +462,38 @@ a(z) :sig[⟪राज⟫] :
 ⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā
 
 ::: media
+
 ![](/images/lekt3809.webp)
+
 Ábr.: ⟪ब्रह्मा⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3809))
+
 :::
+
 ⟪कर्मन्⟫ n.: a következőhöz: ⟪कृ⟫ 8U: cselekvés, tett, mű; szent mű, áldozati cselekmény; karma: a korábbi tettek, amelyek később hozják gyümölcsüket (pl. újjászületésben)
 
 ::: indent
+
 ⟪कर्मविपाक⟫ m.: a cselekvések érlelődése = a korábbi létezési állapotokban elkövetett cselekvések jó és rossz következményei (lásd ⟪वि⟫-⟪पच्⟫)
+
 :::
+
 ⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_)
 
 ⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā)
 
 ::: indent
+
 ebből:
 
 ⟪मनुष्य⟫ m.: ember
+
 :::
+
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat
 
 ::: indent
+
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -394,18 +508,27 @@ ebből:
 ⟪शोक⟫ m.: gyász, bánat
 
 ⟪अशोक⟫ 3: gyászmentes; Ashoka-fa = _Saraca asoca_ (Roxb.) Wilde; Aśoka császár neve (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (i. e. kb. 304 – i. e. 232)
-:::
-::: media
-![](/images/lekt3810.webp)
-Ábr.: ⟪अशोकवृक्षः⟫
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt3810))
+
 :::
 
 ::: media
+
+![](/images/lekt3810.webp)
+
+Ábr.: ⟪अशोकवृक्षः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3810))
+
+:::
+
+::: media
+
 ![](/images/lekt3811.webp)
+
 Ábra: ⟪अशोकसाम्राज्यम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3811))
+
 :::
+
 ## 38.10. Gyakorlat
 
 A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket:
@@ -447,64 +570,88 @@ A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelel�
 ⟪विनोद⟫ m.: időtöltés, szórakozás, élvezet
 
 ::: media
+
 ![](/images/lekt3812.webp)
+
 Ábra: ⟪विनोदः⟫
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt3812))
+
 :::
+
 ⟪अट्⟫ 1P ⟪अटति⟫ : kóborol
 
 ::: indent
+
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Kaus. ⟪आटयति⟫
+
 :::
+
 ⟪गाध⟫ 3: sekély
 
 ⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset)
 
 ::: indent
+
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
 Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
 Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+
 :::
+
 ⟪पार⟫ n.(m.): túlsó part, határ, cél
 
 ⟪तीर⟫ n.: part
 
 ::: media
+
 ![](/images/lekt3813.webp)
+
 Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3813))
+
 :::
+
 ⟪एकैकशस्⟫ Hat.: egyesével
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : számol
 
 ::: indent
+
 Perf. ⟪गणयां⟫ ⟪चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3814.webp)
+
 Kép: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3814))
+
 :::
+
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: kiált, jajgat
 
 ::: indent
+
 Perf. II ⟪चुक्रोश⟫
 Futum ⟪क्रोक्ष्यति⟫
 Passzív ⟪क्रुश्यते⟫
 Kausatív ⟪क्रोशयति⟫
 PPP ⟪क्रुष्ट⟫
+
 :::
+
 ⟪इदानीम्⟫ Határozószó: most
 
 ⟪नूनम्⟫ Határozószó: most; tehát, ezért; bizonyosan, biztosan
@@ -512,12 +659,15 @@ PPP ⟪क्रुष्ट⟫
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : süllyed, merül
 
 ::: indent
+
 PPP ⟪ममज्ज⟫
 Futum ⟪मङ्क्ष्यति⟫
 Kausatív ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
 Abszolútum ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+
 :::
+
 ⟪गवेषयति⟫ Névképzős: keres
 
 ⟪व्याकुल⟫ 3: megdöbbenve, felbolyongva, összezavarodva
@@ -529,22 +679,28 @@ Abszolútum ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा
 ⟪हस्⟫ 1P ⟪हसति⟫ : nevetni
 
 ::: indent
+
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
 PPP ⟪हसित⟫
+
 :::
+
 ⟪सृ⟫ 1P ⟪सरति⟫ : futni
 
 ::: indent
+
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
 Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
 Inf. ⟪सर्तुम्⟫
+
 :::
+
 ⟪कर्णयति⟫ Denominatívum: hallgat (a ⟪कर्ण⟫ m. "fül" szóból)
 
 ⟪लज्जा⟫ f.: szégyen
@@ -586,4 +742,3 @@ Magyarázatok:
 :sig[⟪यूयम्⟫] Névrag. "ő"
 
 ⟪युष्माकम्⟫ Gen.pl. a következőhöz: :sig[⟪यूयम्⟫]
-

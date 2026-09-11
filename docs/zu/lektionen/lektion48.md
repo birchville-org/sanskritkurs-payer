@@ -366,7 +366,7 @@ Umfanekiso: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः�
 
 :::
 
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Isandiso: emini nasebusuku
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
@@ -415,7 +415,7 @@ Umfanekiso: ⟪स्थविराः⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: futhi: okufanele kusolwe
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 
@@ -451,6 +451,7 @@ B) Guquza uze ufake eSanskrit (sebenzisa i-imperative kanye nemithombo yezigaba 
 19. Bona (pl.) bafanele bahlale ekhaya lami.
 20. Abakazi bafanele bagcine abafazi babo (ngokwesibalo sokuphila).
 
+:::
 ## 48.6. Umsebenzi wokuguquka
 
 ⟪मनुस्मृति ९⟫ (⟪स्त्रीधर्मः⟫):

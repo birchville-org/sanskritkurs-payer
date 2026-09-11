@@ -178,3 +178,4 @@ Každá stavovská společnost je konvenční, uspořádaná pravidly životní 
 7. Dvátrodný je bráhman.
 8. Svatý muž je učitel.
 9. Učitel je svatý muž.
+:::

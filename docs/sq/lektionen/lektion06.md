@@ -13,12 +13,15 @@ status: stable
 ## 6.1. Propozicioni me folje
 
 ::: grammar-box
+
 **Skema I: Forma verbale**
 p.sh. **yajati** = ⟪यजति⟫ = "Ai (ajo, ajo) nderon me një flijim", "Ai (ajo, ajo) flijon"
 
 **Skema II: Agjenti (kartṛ m. = ⟪कर्तृ⟫) – Forma verbale**
 p.sh. **rāmo yajati** = ⟪रामो यजति⟫ = "Rāma nderon me një flijim", "Rāma flijon"
+
 :::
+
 Kur agjenti (**kartṛ** m. = ⟪कर्तृ⟫) përmendet në një propozicion me folje, që nuk është në zanafillor (passive), atëherë agjenti është në **Nominativ** (rasti i parë, prathamā = ⟪प्रथमा⟫). Në numër (Zahl, vacana n. = ⟪वचन⟫), agjenti dhe forma verbale përputhen.
 
 
@@ -59,8 +62,11 @@ Kohët formohen nga rrënjët temporale: rrënja e Präsensit, rrënja e Aoristi
 Präsens është koha e tashmjes, veçanërisht edhe ajo e vazhdimësisë.
 
 ::: grammar-box
+
 **Indikativ Präsens (forma e deklaratës) formohet duke i bashkuar rrënjës së Präsensit ato që quhen prapashta primare.**
+
 :::
+
 Shembuj:
 
 | Rrënjë (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
@@ -73,11 +79,14 @@ Shembuj:
 ## 6.4. Përfikset primare të personit të tretë (prathama m. = ⟪प्रथम⟫ = "personi i parë (!)")
 
 ::: grammar-box
+
 | | Singular (numër njëjës):brEinzahl n.:br⟪एकवचन⟫ | Plural (numër shumës):brMehrzahl n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 Shembull **yaj** = ⟪यज्⟫ = "të nderosh me një flijim", "flij":
 Stamba e prezencit: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ Stamba e prezencit: **yaja** = ⟪यज⟫
 ### 6.5.1. Verbat e klasës së 6-të të prezencit (tudādi = ⟪तुदादि⟫ = "tud etj.")
 
 ::: grammar-box
+
 **Stamba e prezencit = Rrënja në nivel të thellë (ashtu siç listohet) + a-**
 
 | Rrënja (dhātu m.):br⟪धातु⟫ | Stamba e prezencit |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. Verbat e klasës së 1-të të prezencit (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etj.")
 
 ::: grammar-box
+
 | Stamba e prezencit = Rrënja në nivel të lartë (rrallë në nivel të zgjatuar) + a- ||||
 | Rrënja (dhātu m.):br⟪धातु⟫ | Nivel i lartë | Nivel i lartë para a- | Stamba e prezencit |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ Stamba e prezencit: **yaja** = ⟪यज⟫
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Nëse zanori ndodhet në një varg të mbyllur të gjatë, d.m.th. zanor i shkurtër para dy ose më shumë bashkëtingëlloreve, formimi i nivelit të lartë lihet pas dore ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. Sandhi fjalor i mes të e dhe o
 Para zanoreve, **e** brenda fjalës zëvendësohet me **ay**, ndërsa **o** me **av**.
 
 #### 6.5.2.2. Gradacioni i tingullit (Ablaut)
 
 ::: grammar-box
+
 | Faza e ulët:brFaza e zhdukjes | Faza e lartë:brFaza plotësuese:brGuṇa m.:br⟪गुण⟫ | Faza e zgjatur:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ Para zanoreve, **e** brenda fjalës zëvendësohet me **ay**, ndërsa **o** me *
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. Verbat e klasës së katër të prezencit (divādi = ⟪दिवादि⟫ = "div etj.")
 
 ::: grammar-box
+
 **Stamba e prezencit = Rrënja në fazë të ulët (siç paraqitet) + ya-**
 
 | Rrënja (dhātu m.):br⟪धातु⟫ | Stamba e prezencit |
@@ -136,33 +155,42 @@ Para zanoreve, **e** brenda fjalës zëvendësohet me **ay**, ndërsa **o** me *
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Vokali temë, klasat tematike të prezencit
 
 ::: grammar-box
+
 **a** në mbaresat e formimit të stambave për klasat e prezencit quhet **vokal temë**. Klasat e prezencit me **a** në mbaresën e formimit të stambave quhen prandaj "klasa tematike të prezencit".
+
 :::
 
 ## 6.6. Sanskriti i folur: Pyetje të tjera (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "Çfarë po bën N. N.?"
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Çfarë po bëjnë N.N.-të?"
 (karoti, kurvanti nga **kṛ** = ⟪कृ⟫ 8 U: "bëj, bëj")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "A jeni mirë?, Si po shkon?"
 Përgjigje: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Më shkon) në çdo aspekt mirë."
+
 :::
 
 ## 6.7. Fjalori i fjalëve
 
 ::: grammar-box
+
 Në sanskritisht, foljet paraqiten në **Formën e rrënjës**. Numri pas rrënjës tregon **Klasën e konjugimit**.
 
 **P:** Rrënja është vetëm në Parasmaipada
 **Ā:** Rrënja është vetëm në Ātmanepada
 **U:** Ubhayapada ("dy forma fjale"): Rrënja përdoret në Parasmaipada dhe Ātmanepada.
 **():** Në kllapa është dhënë forma e personit të tretë, numri singular, kohës së tashme (laṭ) e mënyrës indikativ.
+
 :::
+
 **Mësoni fjalët e mëposhtme:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : ndero me një flijim, flijo
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : bëh, lind, jem
@@ -206,10 +234,13 @@ Në sanskritisht, foljet paraqiten në **Formën e rrënjës**. Numri pas rrënj
 13. (E përmendur) Brahmanja vallëzon.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Tempulli Hindu Kadavul, Kauai, Hawaii
 (Burimi i imazhit: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Ushtrim përsëritjeje
@@ -254,21 +285,21 @@ Në sanskritisht, foljet paraqiten në **Formën e rrënjës**. Numri pas rrënj
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
-**C) Formt das Ātmanepada zu:**
+**C) Kthejeni në Ātmanepada:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Formt das Femininum zu:**
+**D) Kthejeni në gjininë femërore:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Përkthejeni:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
-3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
+3. vaiśyastulādhāraḥ. = ⟫वैश्यस्तुलाधारः⟫
 4. kavirmāghaḥ. = ⟪कविर्माघः⟫
 5. devyumā. = ⟪देव्युमा⟫
 6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫
@@ -278,29 +309,33 @@ Në sanskritisht, foljet paraqiten në **Formën e rrënjës**. Numri pas rrënj
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**F) Përkthejeni në sanskritisht:**
+1. Rāma sakrifikon (si zot i sakrificës).
+2. Durgā është një perëndeshë.
+3. Mīnākṣī është një perëndeshë.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Burimi i imazhit: Wikipedia, Public domain)
+
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-Wer ist der HERR?
-Indra ist der HERR.
-Die Nutztiere treten ein.
-Viṣṇu lässt emanieren = Viṣṇu erschafft.
-Zweimalgeborene sind gut.
-Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-Diese Göttin ist gut.
+
+4. Ata janë të hutuar.
+5. Rāma është një njeri i shenjtë.
+Kush është ZOTI?
+Indra është ZOTI.
+Kafshët shtëpiake hyjnë.
+Viṣṇu lëshon = Viṣṇu krijon.
+Të lindurit dy herë janë të mirë.
+Trefishi (dija) është Sāmaveda, Ṛgveda dhe Yajurveda. (2 mundësi)
+Kjo perëndeshë është e mirë.
 Pesë "vuajtjet" janë: paaftësia për të ditur, iluzioni i "Unë", pasioni (dashuria), urrejtja, lidhja me trupin. (2 mundësi)
 "Gjendjet e qëndrimit të Brahmas" janë: mirënjohje e butë, mëshirë, gëzim i përbashkët, barazi. (2 mundësi)
 Këta brahmanë ofrojnë në emër të të tjerëve.
-Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-Shkencat (për një princ) janë: filozofia, njohuria e trifishtë (e Vedave), ekonomia dhe politika. (2 mundësi)
-Geht es Ihnen gut?
+Brahmanët, Kṣatriyët dhe Vaiśyët janë të lindur dy herë. (2 mundësi)
+Shkencat (për një princ) janë: filozofia, njohuria e trefishtë (e Vedave), ekonomia dhe politika. (2 mundësi)
+A jeni mirë?
 (Më shkon) mirë në çdo aspekt.

@@ -118,6 +118,7 @@ Fig.: ⟪हस्तौ⟫
 
 ⟪भरन्त्⟫ 3 "qëndrues"
 
+:::
 ::: grammar-box
 |   | Mashkull :br ⟪पुंस्⟫ | Neutër :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
@@ -218,6 +219,7 @@ Fig.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 
+:::
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
@@ -585,7 +587,6 @@ Metrika më e rëndësishme vargje në epikë (⟪महाभारत⟫, ⟪�
 × × × ×   **◡ — ◡ —**
 :::
 E dyta dhe e treta vargje e një ⟪पाद⟫ nuk duhet të jenë njëkohësisht ⟪लघु⟫. Në b dhe d, vargjet 2 - 4 nuk mund të jenë ¯ ˘ ¯.
-:::
 **Në të gjitha format e Śloka, ndarja kryesore është në fund të 2. ⟪पाद⟫: aty është ose fund i fjalës ose - në rastin e kompoziteve të gjata - fundi i një pjese përbërëse.**
 ## 53.11. Ushtrim
 

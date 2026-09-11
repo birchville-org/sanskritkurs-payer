@@ -14,10 +14,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = 'samevattings-dvandva')
 
 ::: grammar-box
+
 **Wanneer 'n dvandva bedoel is om uit te druk dat 'n reeks dinge, ens., 'n enkele eenheid vorm, is dit oor die algemeen in die neutrale enkelvoud:**
 
 bv. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ beteken nie bloot "voedselinname (**āhāra** m.), slaap (**nidrā** v.), paring (**maithuna** n.) en vrees (**bhaya** n."), maar eerder hierdie vier as 'n **eenheid** wat diere­lewe kenmerk.
+
 :::
+
 Benewens hierdie basiese reël vir die vorming van samāhāradvandvas, is daar 'n aantal ander reëls wat in Pāṇini 2.4.2–17 of, byvoorbeeld, in Mnr. R. Kale se *A Higher Sanskrit Grammar*, herdruk 1969, §§ 189–192a. Dieselfde reëls is nie altyd gevolg in die verskillende stadiums van taalkundige ontwikkeling nie!
 
 
@@ -26,6 +29,7 @@ Benewens hierdie basiese reël vir die vorming van samāhāradvandvas, is daar '
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Die taddhita-agtervoegsel -ka vorm, onder andere:**
 
 1\. **Verkleiningsvorme (soos die Duitse -chen, -lein, -li, -le):**
@@ -40,15 +44,19 @@ Benewens hierdie basiese reël vir die vorming van samāhāradvandvas, is daar '
 4\. **Selfstandige naamwoorde wat "verwant aan die konsep van die grondwoord" uitdruk":**
    **kāśi v. "Benares" » kāśika 3 ⟪काशिक⟫ "inheems aan Benares, afkomstig van Benares"**
    **rūpa n. "vorm" » rūpaka 3 ⟪रूपक⟫ "wat die vorm van iets besit"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), vroulik dikwels -ikā
 
 ::: grammar-box
+
 **Die kṛt-agtervoegsel -aka, dikwels -ikā in die vroulike vorm, vorm nomina agentis (selfstandige naamwoorde wat die doende party aandui) van enige wortel.**
 
 'n Finale vokaal van die wortel, sowel as **-a-** in die voorlaaste posisie van die wortel, word vervang deur sy lang vorm (**vṛddhi**) (daar is 'n paar uitsonderings); die oorblywende vokale word vervang deur hul hoë graad (**guṇa**).
+
 :::
+
 **Voorbeelde:**
 
 | Woorwortel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Betekenis |
@@ -61,8 +69,11 @@ Benewens hierdie basiese reël vir die vorming van samāhāradvandvas, is daar '
 | **ji** :br1 P:br⟪जि⟫:br"om te wen" | **jayaka** 3:br(⟪जयक⟫) | "oorwinnaar" |
 
 ::: grammar-box
+
 **Sommige van hierdie vormings het die meer spesifieke betekenis: "dit wat gewoonlik gedoen word, of as 'n plig uitgevoer word, of goed uitgevoer word, soos uitgedruk deur die wortel".**
+
 :::
+
 sien hierbo, bv. **śrāvaka**, **yājaka**, **jayaka**
 
 **Voorbeelde:**
@@ -83,17 +94,25 @@ Daarnaast zijn er nog enkele minder belangrijke gebruiksmogelijkheden van het su
 **adhyayana** n. (⟪अध्ययन⟫) : leren, met name Vedastudie
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Afbeelding: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bij Madurai.
 (Bron afbeelding: [Details](/af/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : ambachtsman
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Afbeelding: **kāru** = ⟪कारु⟫, Gujarat.
 (Bron afbeelding: [Details](/af/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (reizende) vertoonder, acteur, zanger
 **kusīda** n. (⟪कुसीद⟫) : woeker
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : trekken
@@ -123,10 +142,14 @@ bij **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Beeldbron: [Details](/af/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -171,4 +194,4 @@ Verduideliking: dvijātīnām = Genitief (eienaarskap) meervoud van dvijāti (ve
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
 ⟪कृषिः पाशुपाल्यं वाणिज्या च वार्त्ता⟫ |
-(nach Kauṭilīya-Arthaśāstra 1.4.1.)
+(volgens Kauṭilīya-Arthaśāstra 1.4.1.)

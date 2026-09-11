@@ -138,7 +138,7 @@ status: stable
 
 ![](/images/lekt2101.webp)
 
-Abb.: ⟪सती⟫-Gedenktafel
+ስዕሊ: ⟪सती⟫-Gedenktafel
 
 ⟪सती⟫-Gedenktafel im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
 (ምስል ምንጭ: [Details](/gez/licenses#lekt2101))
@@ -336,7 +336,7 @@ Abb.: ⟪सती⟫-Gedenktafel
 
 ![](/images/lekt2105.webp)
 
-Abb.: ⟪भगवद्गीता भगवद्गीता⟫ - Manuskript, 19. Jhdt.
+ስዕሊ: ⟪भगवद्गीता भगवद्गीता⟫ - Manuskript, 19. Jhdt.
 
 (ምስል ምንጭ: [Details](/gez/licenses#lekt2105))
 
@@ -360,7 +360,7 @@ davon:
 
 ![](/images/lekt2104.webp)
 
-Abb.: ⟪भिक्षवः⟫
+ስዕሊ: ⟪भिक्षवः⟫
 
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (ምስል ምንጭ: [Details](/gez/licenses#lekt2104))
@@ -383,7 +383,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 ⟪१⟫. ⟪अनादिकालिकसंसारः २⟫. ⟪अनादिमध्यान्तः ३⟫. ⟪महामैत्रीकरुणाचित्तः ४⟫. ⟪सर्वहतान्धकारः⟫
 
-B) Übersetzen Sie:
+ለ) ተርጕም፡
 
 ⟪मृतं दहन्नग्निः सतीमपि दहति ॥१॥ सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥२॥ महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥३॥ पूजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥४॥ गुरूपनीतनरो द्विजः ॥५॥⟫
 

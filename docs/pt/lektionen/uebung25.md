@@ -65,10 +65,14 @@ Budas e Arhants estão libertos do sofrimento. Eles alcançaram a visão salvado
 Por ganância, ódio e confusão os homens se perdem. Quando chega a hora, eles caem então num inferno.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 O Kṣatriya traz guerreiros heróicos da grande cidade para combater a aldeia dos inimigos.
 
@@ -88,7 +92,7 @@ Sem Rāma.
 O ensino de um santo conduz à virtude, não o de um ímpio.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma espera por Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 É fácil (feliz).
@@ -113,10 +117,14 @@ Se alguém, por orgulho, ganância, ira ou medo, profere um falso julgamento jud
 Infernos surgem por causa do mal, o mal surge da pobreza, a pobreza surge de não dar.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति नरकाः पापात्⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Um um a ladrão é libertado da culpa do roubo por meio de punição ou pela restituição. Se, porém, o rei não o pune, então ele assume a culpa do ladrão.
 
@@ -128,9 +136,13 @@ Um um a ladrão é libertado da culpa do roubo por meio de punição ou pela res
 A economia é útil, pois ela gera cereais, gado, ouro, metais e trabalho.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Por isso, as três ciências têm o bastão (daṇḍa) como fundamento. O bastão, que é a base do bom comportamento, proporciona aos seres vivos obtenção e posse segura. O bom comportamento é adquirido ou inato. A atividade educa, de fato, um material adequado, não um inadequado. O conhecimento educa uma mente que chegou à verdade por meio da obediência, escuta, apreensão, compreensão e reflexão; não outra. ... Pois do que é ouvido surge o conhecimento, do conhecimento surge a prática, da prática surge o autocontrole; assim as ciências correspondem ao seu propósito. Conhecimento e bom comportamento são a causa da vitória sobre os sentidos. Isso é necessário para abandonar o desejo, o ódio, a ganância, a presunção, a embriaguez e a agitação.

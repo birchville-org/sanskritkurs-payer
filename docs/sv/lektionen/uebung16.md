@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 16
+# Övning 16
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
@@ -46,10 +46,14 @@ The strong warriors have gone to the Brahmin village.
 He venerates the personal deity of the meritorious Vaiśya.
 
 ::: media
+
 ![](/images/uebung023.webp)
+
 Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Image source: [Details](/licenses#uebung023))
+
 :::
+
 ---
 
 ## Declension Patterns
@@ -57,6 +61,7 @@ Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं �
 A) Form all cases learned so far for the following words as examples of the declension classes studied thus far.
 
 ::: grammar-box
+
 ⟪१⟫. ⟪नर⟫ (m.)
 
 | Case | Singular | Plural |
@@ -149,7 +154,7 @@ A) Form all cases learned so far for the following words as examples of the decl
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Feminint ⟪गुणवती⟫ böjs som ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -186,7 +191,9 @@ A) Form all cases learned so far for the following words as examples of the decl
 | 2. Acc. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
+
 :::
+
 ---
 
 ## Additional Exercises
@@ -216,7 +223,10 @@ The duty of all is: non-violence, truthfulness, purity, not grumbling about one'
 The rod brings about acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the rod is politics.
 
 ::: media
+
 ![](/images/uebung024.webp)
+
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Image source: [Details](/licenses#uebung024))
+
 :::

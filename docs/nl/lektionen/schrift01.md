@@ -30,7 +30,7 @@ Bij het schrijven wordt elke letter inclusief de horizontale streep bovenaan vol
 
 ## Oefening
 
-Schreiben Sie in Devanāgarī:
+Schrijf in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Lees en translitereren:
 Extra lees oefening:
 
 ⟪पिता⟫ vader, ⟪कपि⟫ aap, ⟪कृत⟫ gedaan,  ⟪टीका⟫ subcommentaar, ⟪तत्⟫ dit, ⟪तट⟫ oever, ⟪पत्⟫ afschieten, ⟪पट⟫ weefsel, ⟪काच⟫ glas,  ⟪काकुत्⟫ gehemelte, ⟪चित्⟫ waarnemen, ⟪पृच्⟫ mengen,  ⟪पोटक⟫ knecht, ⟪चेतु⟫ bedoeling, ⟪तौतातित⟫ aanhanger van Kumārila (Mīmāṃsā), ⟪तूत⟫ moerbei, ⟪पीत⟫ gedronken,  ⟪पीति⟫ drank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ hij klaagt, ⟪पुटी⟫ plooi, ⟪चापि⟫ evenzo, ⟪तोक⟫ nakomelingschap, ⟪तृपत्⟫ verzadigd, ⟪पॄ⟫ vullen, ⟪कृकाटी⟫ halswervel, ⟪पूपौ⟫ twee koeken, ⟪पैतृकी⟫ vaderlijk (v.), ⟪कौट⟫ bedrieglijk, ⟪कच⟫ hoofdharen, ⟪कुतपे⟫ op het geitenhaardekentje, ⟪कुचौ⟫ borst, ⟪चकिता⟫ geschrokken (v.)
-
-

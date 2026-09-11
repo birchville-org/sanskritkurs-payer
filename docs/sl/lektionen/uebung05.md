@@ -51,7 +51,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪कामक्रोधलोभाः⟫
 
-Leidenschaft, Zorn und Gier.
+Strast, jeza in pohlep.
 
 kāmaḥ krodho lobhaś ca.
 
@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Po Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -92,10 +92,15 @@ Znanosti so filozofija, vedske študije, ekonomija in politika.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 Abb.: ⟪अभ्निवेशो न वा ।⟫
+
 (Vir slike: [Details](/licenses#uebung010))
+
 :::
+
 ---
 
 ## Ponovitev vaj, lekcija 5
@@ -114,7 +119,7 @@ Ekonomija je znanost.
 
 Trije dvakrat rojeni stanovi so: brahman, kšatrija in vaišja.
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3\. dvijā vaiśyāḥ. (2 možnosti)
 
 ⟪द्विजा वैश्याः⟫
 
@@ -165,7 +170,10 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 
 ::: media
+
 ![](/images/uebung009.webp)
+
 Slika: ⟪ऋग्वेदः⟫
 (Vir slike: [Podrobnosti](/licenses#uebung009))
+
 :::

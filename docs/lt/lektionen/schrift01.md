@@ -30,7 +30,7 @@ Rašant kiekvienas raidės brūkšnys, įskaitant viršutinę liniją, yra užba
 
 ## Pratimas
 
-Schreiben Sie in Devanāgarī:
+Rašykite devanagari:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Perskaitykite ir transkribuokite:
 Papildoma skaitymo pratimas:
 
 ⟪पिता⟫ tėvas, ⟪कपि⟫ beždžionė, ⟪कृत⟫ padarė,  ⟪टीका⟫ poena, ⟪तत्⟫ šis, ⟪तट⟫ krantas, ⟪पत्⟫ šaudyti pro šalį, ⟪पट⟫ audinys, ⟪काच⟫ stiklas,  ⟪काकुत्⟫ gomurys, ⟪चित्⟥ suvokti, ⟪पृच्⟫ maišyti,  ⟪पोटक⟫ tarnas, ⟪चेतु⟫ ketinimas, ⟪तौतातित⟫ Kumārilo (Mīmāṃsā) sekėjas, ⟪तूत⟫ šilkmedis, ⟪पीत⟫ išgėrė,  ⟪पीति⟫ gėrimas, ⟪कॢप्⟫  tinka, ⟪कृपते⟫ jis liūdėja, ⟪पुटी⟫ raukšlė, ⟪चापि⟫ taip pat, ⟪तोक⟫ palikuonys, ⟪तृपत्�>> sotus, ⟪पॄ⟫ pripildyti, ⟪कृकाटी⟫ kaklo sąnarys, ⟪पूपौ⟫ du pyragaičiai, ⟪पैतृकी⟫ tėviškas (moter. g.), ⟪कौट⟫ sukčiškas, ⟪कच⟫ plaukai ant galvos, ⟪कुतपे⟫ ant ožkos kailio kilimo, ⟪कुचौ⟫ krūtinė, ⟪चकिता⟫ išgąsdintas (moter. g.)
-
-

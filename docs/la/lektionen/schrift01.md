@@ -8,7 +8,7 @@ Sanskritum scriptum est et scribitur in plurimis scripturis. Haec tabula parvam 
 Fig.: Specimina Scripturae Sanscriticae  
 \[Fons Imaginis: Wikipedia, Licentia GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Praecipua scriptura Sanscritica moderna Indiae septentrionalis est Devanāgarī:
 
 ![](/images/schrift002.webp)
 
@@ -30,7 +30,7 @@ Scribendo, unusquisque littera cum linea transversa ad lineam superiorem perfici
 
 ## Exercitium
 
-Schreiben Sie in Devanāgarī:
+Scribe in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

@@ -128,6 +128,7 @@ Il genitivo singolare dei temi vocalici si forma in modo irregolare e deve esser
 
 In tutti i temi nominali, ad eccezione dei maschili e neutri in -a e dei pronomi, la forma del genitivo singolare è identica a quella dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
+:::
 ::: important
 
 In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!

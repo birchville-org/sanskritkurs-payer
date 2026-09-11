@@ -43,10 +43,14 @@ Die dapper krygers het na die Brahmin-dorpie gegaan.
 Hy aanbid die persoonlike godheid van die deugsaam Vaiśya.
 
 ::: media
+
 ![](/images/uebung023.webp)
+
 Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Beeldbron: [Besonderhede](/licenses#uebung023))
+
 :::
+
 ---
 
 ## Deklinasiepatrone
@@ -54,6 +58,7 @@ Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं �
 A) Vorm al die gevalle wat jy tot dusver geleer het vir die volgende woorde as voorbeelde van die deklinasiëklasse wat tot dusver behandel is.
 
 ::: grammar-box
+
 ⟪१⟫. ⟪नर⟫ (m.)
 
 | Kasus | Enkelvoud | Meervoud |
@@ -146,7 +151,7 @@ A) Vorm al die gevalle wat jy tot dusver geleer het vir die volgende woorde as v
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Vroulik ⟪गुणवती⟫ word verbuig soos ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
@@ -182,7 +187,9 @@ A) Vorm al die gevalle wat jy tot dusver geleer het vir die volgende woorde as v
 | 2de Acc. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3de Instrument | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6de Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
+
 :::
+
 ---
 
 ## Bykomende oefeninge
@@ -211,7 +218,10 @@ Dit is die plig van almal om geweldloosheid, waarheidsgetrouheid, reinheid te be
 Die roede bewerkstellig die verkryging en veilige bemeestering van filosofie, Vediese studies en ekonomie. Die hantering van die roede is politiek.
 
 ::: media
+
 ![](/images/uebung024.webp)
+
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Beeldbron: [Besonderhede](/licenses#uebung024))
+
 :::

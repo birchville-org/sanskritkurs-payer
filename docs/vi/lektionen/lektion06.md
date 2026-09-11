@@ -13,12 +13,15 @@ status: stable
 ## 6.1. Câu vị ngữ
 
 ::: grammar-box
+
 **Mẫu I: Dạng động từ**
 VD: **yajati** = ⟪यजति⟫ = "Hắn (bà ấy, nó) tôn kính bằng một lễ tế", "Hắn (bà ấy, nó) dâng cúng"
 
 **Mẫu II: Chủ ngữ (kartṛ m. = ⟪कर्तृ⟫) – Dạng động từ**
 VD: **rāmo yajati** = ⟪रामो यजति⟫ = "Rāma tôn kính bằng một lễ tế", "Rāma dâng cúng"
+
 :::
+
 Khi chủ ngữ (**kartṛ** m. = ⟪कर्तृ⟫) được nêu trong một câu vị ngữ không ở thể bị động, thì chủ ngữ đứng ở **cách danh xưng** (nominative, trường hợp thứ nhất, prathamā = ⟪प्रथमा⟫). Về số lượng (số, vacana n. = ⟪वचन⟫), chủ ngữ và dạng động từ phải phù hợp với nhau.
 
 
@@ -59,8 +62,11 @@ Các thì được hình thành từ các gốc thì: Gốc Präsens, Gốc Aori
 Präsens là thì của hiện tại, đặc biệt cũng mang tính liên tục.
 
 ::: grammar-box
+
 **Indikativ Präsens (dạng khẳng định) được hình thành bằng cách thêm các hậu tố chính gọi là Primärendungen vào gốc Präsens.**
+
 :::
+
 Ví dụ:
 
 | Gốc (dhātu) | Gốc Präsens | Ngôi thứ 3 số ít Indikativ Präsens Parasmaipada |
@@ -73,11 +79,14 @@ Ví dụ:
 ## 6.4. Các kết thúc chính của ngôi thứ ba (prathama m. = ⟪प्रथम⟫ = "ngôi thứ nhất (!)")
 
 ::: grammar-box
+
 | | Số ít (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Số nhiều (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 Ví dụ **yaj** = ⟪यज्⟫ = "tôn kính bằng một lễ hy sinh", "hy sinh":
 Gốc hiện tại: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ Gốc hiện tại: **yaja** = ⟪यज⟫
 ### 6.5.1. Động từ lớp hiện tại thứ 6 (tudādi = ⟪तुदादि⟫ = "tud v.v.")
 
 ::: grammar-box
+
 **Gốc hiện tại = Gốc ở dạng thấp (dạng được liệt kê) + a-**
 
 | Gốc (dhātu m.):br⟪धातु⟫ | Gốc hiện tại |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. Động từ lớp hiện tại thứ 1 (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū v.v.")
 
 ::: grammar-box
+
 | Gốc hiện tại = Gốc ở dạng cao (hiếm khi là dạng dài) + a- ||||
 | Gốc (dhātu m.):br⟪धातु⟫ | Dạng cao | Dạng cao trước a- | Gốc hiện tại |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ Gốc hiện tại: **yaja** = ⟪यज⟫
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Nếu nguyên âm nằm trong một âm tiết đóng dài, tức là nguyên âm ngắn đứng trước hai hoặc nhiều phụ âm, thì việc hình thành dạng cao sẽ không được thực hiện ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. Wortsandhi của e và o
 Trước nguyên âm, trong nội bộ từ, **e** được thay bằng **ay**, **o** được thay bằng **av**.
 
 #### 6.5.2.2. Biến đổi âm (Ablaut)
 
 ::: grammar-box
+
 | Mức thấp:brMức suy giảm | Mức cao:brMức đầy đủ:brGuṇa m.:br⟪गुण⟫ | Mức kéo dài:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ Trước nguyên âm, trong nội bộ từ, **e** được thay bằng **ay**, 
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. Động từ lớp Present thứ 4 (divādi = ⟪दिवादि⟫ = "div v.v.")
 
 ::: grammar-box
+
 **Gốc Present = Gốc ở mức thấp (mức được liệt kê) + ya-**
 
 | Gốc (dhātu m.):br⟪धातु⟫ | Gốc Present |
@@ -136,33 +155,42 @@ Trước nguyên âm, trong nội bộ từ, **e** được thay bằng **ay**, 
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Nguyên âm chủ đề, các lớp Present mang tính chủ đề
 
 ::: grammar-box
+
 Chữ **a** trong các hậu tố tạo gốc của các lớp Present được gọi là **nguyên âm chủ đề**. Các lớp Present có **a** trong hậu tố tạo gốc được gọi là "các lớp Present mang tính chủ đề".
+
 :::
 
 ## 6.6. Sanskrit nói: Các câu hỏi khác (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "N. N. đang làm gì?"
 **N. N. (số nhiều) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "Những người N.N. đang làm gì?"
 (karoti, kurvanti từ **kṛ** = ⟪कृ⟫ 8 U: "làm, thực hiện")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "Bạn có khỏe không?, Dạo này bạn thế nào?"
 Trả lời: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(Tôi) khỏe mạnh ở mọi phương diện."
+
 :::
 
 ## 6.7. Danh sách từ vựng
 
 ::: grammar-box
+
 Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc** (Wurzel). Số đứng sau dạng gốc biểu thị **lớp chia động từ**.
 
 **P:** Gốc động từ chỉ dùng ở thể Parasmaipada
 **Ā:** Gốc động từ chỉ dùng ở thể Ātmanepada
 **U:** Ubhayapada ("cả hai dạng"): Gốc động từ được sử dụng ở cả Parasmaipada và Ātmanepada.
 **():** Trong ngoặc đơn là ngôi thứ ba số ít, thì hiện tại chỉ định (laṭ).
+
 :::
+
 **Học các từ sau:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : tôn kính bằng lễ tế, hiến tế
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : trở thành, sinh ra, là
@@ -221,10 +249,13 @@ Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc**
 13. Người phụ nữ Brahman (được nhắc đến) nhảy múa.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Đền Hindu Kadavul, Kauai, Hawaii
 (Nguồn ảnh: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Bài tập ôn lại
@@ -269,18 +300,18 @@ Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc**
 13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
 14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:**
+**C) Chuyển sang Ātmanepada:**
 1. rāmo yajati. = ⟪रामो यजति⟫
 2. kṣatriyā nayanti. = ⟪क्षत्रिया नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:**
+**D) Chuyển sang giống cái:**
 1. śūdro nayati. = ⟪शूद्रो नयति⟫
 2. sādhurviśati. = ⟪साधुर्विशति⟫
 3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः स्मरति⟫
 4. kṣatriyo yudhyate. = ⟪क्षत्रियो युध्यते⟫
 5. devo guruḥ. = ⟪देवो गुरुः⟫
 
-**E) Übersetzen Sie:**
+**E) Dịch:**
 1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
 2. śūdretarā. = ⟪शूद्रेतरा⟫
 3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
@@ -299,10 +330,14 @@ Trong tiếng Phạn, các động từ được liệt kê ở **dạng gốc**
 3. Mīnākṣī là một nữ thần.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Đền Mīnākṣī, Madurai, Tamil Nadu
 (Nguồn ảnh: Wikipedia, Phạm vi công cộng)
+
 :::
+
 4. Họ đang bối rối.
 5. Rāma là một bậc thánh hiền.
 6. Ai là CHÚA TỂ?

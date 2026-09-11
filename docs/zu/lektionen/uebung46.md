@@ -74,7 +74,7 @@ A) Nquma futhi uhumishe lezi zimo:
 
 ## Sprüche (⟪सुभाषितानि⟫)
 
-B) Übersetzen Sie:
+B) Humusha:
 
 ⟪१⟫. **⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Uma umuntu eyeka izifiso futhi aneliseke nge-Self kuphela nge-Self, khona-ke ubizwa ngokuthi "umuntu onokuqonda okuqinile" (⟪स्थितप्रज्ञः⟫).

@@ -314,7 +314,6 @@ Hierher gehören:
 
 *   ⟪अन्वञ्च्⟫ 3 "folgend"
 
-:::
 
 ::: media
 
@@ -358,7 +357,7 @@ Hierher gehören:
 
 Paradigma ⟪प्राञ्च्⟫ siehe oben!
 
-Die Haupthimmelsrichtungen
+Huvudväderstrecken
 
 |   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
@@ -367,7 +366,7 @@ Die Haupthimmelsrichtungen
 
 (Bildkälla: [Details](/sv/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. Desiderativum (⟪सन्⟫)
 
 ::: grammar-box
 
@@ -378,6 +377,7 @@ Die Haupthimmelsrichtungen
 *   **en person eller sak önskar att göra eller lida det som uttrycks av roten eller kausativum**
 *   **mer sällan: någon eller något är på väg att göra det som uttrycks av roten eller kausativum**
 
+:::
 ### 60.6.1. Formation of the Desiderative Stem
 
 ::: grammar-box

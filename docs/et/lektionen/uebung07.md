@@ -111,7 +111,7 @@ C) Pange harjutuslausetes B) tegevussubjekt, objekt ja tegusõna mitmusesse.
 
 ⟪देव्यः कुप्यन्ति । देव्यः क्रुध्यन्ति ।⟫
 
-D) Setzen Sie ins Ātmanepada:
+D) Pange Ātmanepadasse:
 
 1\. sunvanti.
 

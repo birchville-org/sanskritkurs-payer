@@ -18,8 +18,8 @@ last_reconstructed: 2026-05-15
 5. nṛtyati ⟪नृत्यति⟫ : nṛtyate ⟪नृत्यते⟫
 6. nayanti ⟪नयन्ति⟫ : nīyante ⟪नीयन्ते⟫
 7. smarati ⟪स्मरति⟫ : smaryate ⟪स्मर्यते⟫
-8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪श्रूयन्ते⟫
-9. pāśyati ⟪पश्यति⟫ (Passiv wird von dṛś gebildet!) : dṛśyate ⟪दृश्यते⟫
+8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪शृयन्ते⟫
+9. pāśyati ⟪पश्यति⟫ (passiiv moodustatakse dṛś-ist!) : dṛśyate ⟪दृश्यते⟫
 10. jayanti ⟪जयन्ति⟫ : jīyante ⟪जीयन्ते⟫
 11. kurvate ⟪कुर्वते⟫ : kriyante ⟪क्रियन्ते⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
@@ -32,7 +32,7 @@ last_reconstructed: 2026-05-15
 19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
 20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
-22. tanvanti ⟪तन्वन्ति⟫ (2 Formen!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (2 vormi!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
 [LN] B) Form the instrumental singular and plural for all nouns learned so far
 
@@ -62,13 +62,13 @@ guruṇā phalāni khādyante.
 
 ⟪गुरुना फलानि खाद्यन्ते ।⟫
 
-5\. Er hört die Gurus. ⟪गुरूञ्छृणोति⟫
+5\. Ta kuuleb gurusid. ⟪गुरूञ्छृणोति⟫
 
 guravaḥ śrūyante.
 
 ⟪गुरवः श्रूयन्ते ।⟫
 
-6\. Wer sieht das Feuer? ⟪को ऽग्निं पश्यति⟫
+6\. Kes näeb tuld? ⟪को ऽग्निं पश्यति⟫
 
 kenāgnir dṛśyate.
 
@@ -86,9 +86,9 @@ anayā devyā kṣatriyā rakṣyante.
 
 ⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. Die Kṣatriyas opfern Viṣṇu. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9\. Kšatrijad ohverdavad Viṣṇule. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 võimalust)
 
-Viṣṇu wird von den Kṣatriyas geopfert / Viṣṇu wird von den Kṣatriya-Frauen geopfert.
+Viṣṇule ohverdavad kšatrijad / Viṣṇule ohverdavad kšatrija naised.
 
 ⟪क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।⟫
 

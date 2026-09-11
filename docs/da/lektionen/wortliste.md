@@ -66,7 +66,6 @@ Tjene de tre øverste stænder
 **varṇa** m. -- ⟪वर्ण⟫ : Farve, fødestånd (stræben).
 
 De fire stænder (**varṇa** m.) forveksles ofte med kaster. De fire stænder er dog -- i modsætning til kastene -- ikke specifikt indiske; også i Europa havde vi (delvist op til Første Verdenskrig) en stændersamfund, som følgende billede fra det 15. århundrede bekræfter:
-:::
 **Billedtekst:**
 **Præsteskab** (~Brāhmaṇa): Tu supplex ora = Du bed!
 **Adelskab** (~Kṣatriya): Tu protege = Du beskyt!

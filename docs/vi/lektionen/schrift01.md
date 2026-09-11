@@ -30,7 +30,7 @@ Khi viết, mỗi chữ cái bao gồm cả đường ngang trên cùng phải �
 
 ## Bài tập
 
-Schreiben Sie in Devanāgarī:
+Viết bằng Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 Bài tập đọc thêm:
 
 ⟪पिता⟫ cha, ⟪कपि⟫ khỉ, ⟪कृत⟫ đã làm,  ⟪टीका⟫ chú thích phụ, ⟪तत्⟫ này, ⟪तट⟫ bờ, ⟪पत्⟫ bắn đi, ⟪पट⟫ vải dệt, ⟪काच⟫ kính,  ⟪काकुत्⟫ vòm miệng, ⟪चित्⟫ nhận biết, ⟪पृच्⟫ trộn lẫn,  ⟪पोटक⟫ đầy tớ, ⟪चेतु⟫ ý định, ⟪तौतातित⟫ người theo phái Kumārila (Mīmāṃsā), ⟪तूत⟫ cây dâu tằm, ⟪पीत⟫ đã uống,  ⟪पीति⟫ thức uống, ⟪कॢप्⟫  phù hợp, ⟪कृपते⟫ anh ấy kêu la, ⟪पुटी⟫ nếp nhăn, ⟪चापि⟫ tương tự, ⟪तोक⟫ dòng dõi, ⟪तृपत्⟫ no nê, ⟪पॄ⟫ làm đầy, ⟪कृकाटी⟫ khớp cổ, ⟪पूपौ⟫ hai chiếc bánh, ⟪पैतृकी⟫ thuộc về cha (giống cái), ⟪कौट⟫ lừa đảo, ⟪कच⟫ tóc trên đầu, ⟪कुतपे⟫ trên tấm thảm lông dê, ⟪कुचौ⟫ ngực, ⟪चकिता⟫ kinh sợ (giống cái)
-
-

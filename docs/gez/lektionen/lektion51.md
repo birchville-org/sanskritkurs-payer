@@ -88,7 +88,7 @@ b) ⟪कृत्⟫-ተጨማሪ -t
 
 ![](/images/lekt5103.webp)
 
-Abb.: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
+ስዕሊ: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
 
 (Image source: [Details](/gez/licenses#lekt5103))
 
@@ -124,7 +124,7 @@ c) ⟪कृत्⟫-Suffix -a
 
 ![](/images/lekt5102.webp)
 
-Abb.: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
+ስዕሊ: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
 
 (Image source: [Details](/gez/licenses#lekt5102))
 
@@ -450,7 +450,7 @@ Lok. ⟪ध्रुट्सु । ध्रुक्षु⟫
 
 :::
 
-## 51.5. -ch- im Wortinnern
+## ፶፩.፭. -ክ- ውስተ ቃለ-ማእከል
 
 ::: grammar-box
 
@@ -499,13 +499,13 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ![](/images/lekt5106.jpg)
 
-Abb.: ⟪ऋतुः⟫
+ስዕሊ: ⟪ऋतुः⟫
 
 (Image source: [Details](/gez/licenses#lekt5106))
 
 :::
 
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ ግስ፡ በአሐቲ መካን
 
 ⟪जटा⟫ አንስታይ፡ ጸጕር ዘተጐነጐነ (ጸጕር ዘመነኮስ)
 
@@ -513,7 +513,7 @@ Abb.: ⟪ऋतुः⟫
 
 ![](/images/lekt5107.webp)
 
-Abb.: ⟪जटा ऋषिकेश⟫
+ስዕሊ: ⟪जटा ऋषिकेश⟫
 
 (Image source: [Details](/gez/licenses#lekt5107))
 
@@ -580,7 +580,7 @@ PPP ⟪गर्हित⟫
 
 ![](/images/lekt5108.webp)
 
-Abb.: ⟪पिशितम्⟫
+ስዕሊ: ⟪पिशितम्⟫
 
 Kolkata = কলকাতা
 (Image source: [Details](/gez/licenses#lekt5108))

@@ -185,7 +185,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (კაუტილია-ართაშასტრა 1.3.3-ის მიხედვით.) განმარტება: chando = სახელობითი, ბრალდებითი მხ. რ. chandas n.-დან.)
 
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
@@ -216,8 +216,12 @@ sa guruḥ. enaṃ śṛṇvanti.
 ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 ::: media
+
 ![](/images/uebung006.jpg)
+
 Abb.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
+
 (სურათის წყარო: [Details](/licenses#uebung006))
+
 :::
 

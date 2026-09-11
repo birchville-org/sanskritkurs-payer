@@ -319,7 +319,7 @@ z.B.
 
 :::
 
-## 37.8. Der Fragesatz
+## 37.8. Frågesatsen
 
 ::: grammar-box
 
@@ -332,7 +332,7 @@ Motto från Sesam, som är en bra riktlinje för livet och sanskritstudier
 
 :::
 
-Siehe auch [Lektion 4](lektion04.md).
+Se även [Lektion 4](lektion04.md).
 
 Man muss unterscheiden
 

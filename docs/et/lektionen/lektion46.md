@@ -1,5 +1,5 @@
 ---
-title: "Lektion 46"
+title: "Õppetund 46"
 subtitle: "Verbi vormide moodustamine 2. isikus (⟪मध्यमः⟫) perfektis (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
@@ -430,9 +430,8 @@ The periphrastic perfect is formed from:
 
 ⟪बन्ध्⟫ Causative
 
-:::
 
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+⟪राहु⟫ ja ⟪केतु⟫ kohta vaata:
 
 > **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 
@@ -565,9 +564,9 @@ Joonis: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद
 
 :::
 
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: edasi-tagasi käimine
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: väljajätmine
 
 ⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : vaeva nägema, väsima
 
@@ -774,7 +773,7 @@ A) Determine and translate the following forms:
 51.  ⟪सुषुपुः⟫
 52.  ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
 

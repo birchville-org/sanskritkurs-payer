@@ -1,6 +1,6 @@
 ---
-title: "Lektion 29"
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: "Õppetund 29"
+subtitle: "Parasmaipada (⟪परस्मैपद⟫) ja Ātmanepada (⟪आत्मनेपद⟫) kasutamine kausatiivis"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -180,7 +180,7 @@ Erklärungen:
 
 ⟪।११। योजयति⟫ (Kausatiiv verbist ⟪युज्⟫) "rakendama, ühendama millegagi, liitma millegagi"
 
-⟪।१२। कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२। कामक्रोधाभ्याम्⟫ : instrumentaal, daativ, ablatiiv, meessoost kaksus sõnast ⟪कामक्रोध⟫ (kaksusdvandva)
 
 ⟪।१२। किमङ्ग⟫ "um wieviel mehr"
 

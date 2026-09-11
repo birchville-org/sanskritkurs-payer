@@ -6,12 +6,10 @@
 
 ## تمرین
 
-A) Schreiben Sie in Devanāgarī:
+الف) به خط دواناگری بنویسید:
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 
-B) Lesen und transliterieren Sie:
+ب) بخوانید و آوانگاری کنید:
 
 ⟪फूत्⟫ ⟪विठोबा⟫ ⟪वितथ⟫ ⟪पाययति⟫ ⟪छलकं⟫ ⟪खेदो⟫ ⟪पाठीनं⟫ ⟪छिदुरा⟫ ⟪खेडकं⟫ ⟪खटू⟫ ⟪मुखं⟫ ⟪मुथहा⟫ ⟪नाथो⟫
-
-

@@ -30,7 +30,7 @@
 
 ## अभ्यास
 
-Schreiben Sie in Devanāgarī:
+देवनागरी में लिखें:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

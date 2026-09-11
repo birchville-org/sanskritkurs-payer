@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Vajažba 25
 
-A) Dopолnite sklonilne primere iz lekcije 16 z dodajanjem 4. dativ (⟪चतुर्थी⟫) in 5. ablativ (⟪पञ्चमी⟫).
+A) Dopolnite sklonilne primere iz lekcije 16 z dodajanjem 4. dativ (⟪चतुर्थी⟫) in 5. ablativ (⟪पञ्चमी⟫).
 
 ### ⟪१⟫. ⟪सन्त्⟫ (biti, dober)
 
@@ -65,10 +65,14 @@ Bude in Arhanti so osvobojeni trpljenja. Dosegli so namreč odrešilni uvid.
 Zaradi pohlepa, sovraštva in zablode se ljudje pokvarijo. Ko pride čas, padejo v pekel.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Slika: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Vir slike: [Podrobnosti](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatrija pripelje junaške bojevnike iz velemesta, da bi se borili proti sovražni vasi.
 
@@ -88,7 +92,7 @@ Brez Rāma.
 Pouk svetnika služi vrlini, ne pouk nesvetnika.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma čaka na Kṛṣṇo.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Gre lahko (srečno).
@@ -113,9 +117,14 @@ Od česar se umakneš, od tega si osvobojen. Če namreč od vsega odstopiš, pot
 Pekla nastanejo zaradi zla, zlo nastane iz revščine, revščina nastane iz ne-dajanja.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Abb.: ⟪भवन्ति नरकाः पापात्⟫
+
 (Vir slike: [Details](/licenses#uebung041))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Zato imajo tri znanja palico (daṇḍa) kot temelj. Palica, ki je temelj dobrega vedenja, prinaša bitjem pridobitev in varen posed. Dobro vedenje je pridobljeno ali prirojeno. Dejavnost namreč vzgoji primerno snov, ne nepripravne. Znanje vzgoji um, ki je s poslušnostjo, poslušanjem, dojemanjem, razumevanjem in premislekom prišel do resnice, ne drugega. ... Iz slišanega namreč nastane spoznanje, iz spoznanja praksa, iz prakse samopristojnost; tako znanje ustreza svojemu namenu. Znanje in dobro vedenje sta vzrok za zmago nad čutili. Ta je potrebna, da se odvržemo pohlepnosti, sovraštva, lakomnosti, domišljavosti, opojenosti in vznemirjenosti.

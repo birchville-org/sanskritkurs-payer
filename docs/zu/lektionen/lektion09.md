@@ -90,7 +90,7 @@ Ngaphezu kwalokho, kukhona okunye ukusetshenziswa okubaluleke kancane kwesijobel
 
 ## 9.3. Woordelys
 
-**Leer die volgende woorde:**
+**Funda amagama alandelayo:**
 
 **adhyayana** n. (⟪अध्ययन⟫) : Leer, veral Vedastudie
 
@@ -133,7 +133,7 @@ vir **yaj** 1 U:
 
 ## 9.4. Oefening
 
-**A) Probeer om die moontlike betekenisse van die volgende woorde te bepaal:**
+**A) Zama ukunquma izincazelo ezingaba khona zamagama alandelayo:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
 2\. **mati** ⟪मति⟫
 3\. **śravaṇa** ⟪श्रवण⟫
@@ -195,4 +195,4 @@ Incazelo: dvijātīnām = Genitive (case of possession) plural ye-dvijāti (hlob
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (ngokwe-Kauṭilīya-Arthaśāstra 1.4.1.)

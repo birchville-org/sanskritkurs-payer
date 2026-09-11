@@ -13,8 +13,11 @@ status: stable
 ## 14.1. Wyrażanie relacji między rzeczownikami: dopełniacz (ṣaṣṭhī f. = ⟪षष्टी⟫ = szósty przypadek)
 
 ::: grammar-box
+
 Jeśli chce się wyrazić relację między dwoma rzeczownikami, używa się dopełniacza (ṣaṣṭhī f. "szósty przypadek"). Dopełniacz różni się od wszystkich innych przypadków tym, że — z nielicznymi wyjątkami — nie służy do bliższego określenia czynności wyrażonej czasownikiem, lecz do wyrażenia relacji między osobami lub rzeczami oznaczonymi przez rzeczowniki. Często dopełniacz odpowiada na pytanie: Czyjego?
+
 :::
+
 Przykłady:
 
 ⟪कवेः पुत्रः⟫ "Syn poety"
@@ -26,13 +29,17 @@ Przykłady:
 ⟪रामस्य कृतम्⟫ "Czyn / Jeden czyn Rāmy"
 
 ::: grammar-box
+
 Normalna kolejność wyrazów to:
 
 > **Określnik w dopełniaczu — Określany rzeczownik w innym przypadku**
+
 :::
+
 **Dopełniacz i imiesłów przymiotnikowy bierny (PPP):**
 
 ::: grammar-box
+
 W przypadku PPP dopełniacz może zastępować narzędnik (tṛtīyā) dla oznaczenia agensa (kartṛ); W konstrukcji z narzędnikiem PPP jest traktowany jako bierna forma czasownikowa (to, co stoi w narzędniku, oznacza agensa), natomiast w konstrukcji z dopełniaczem PPP jest traktowany jako rzeczownik lub przymiotnik (to, co stoi w dopełniaczu, nie jest więc właściwie agensem).
 
 Zgodnie z Pāṇini 2.3.67, w przypadku PPP dopełniacz występuje, gdy PPP ma znaczenie teraźniejsze (patrz wyżej), a narzędnik, gdy PPP ma znaczenie przeszłe:
@@ -42,7 +49,9 @@ Zgodnie z Pāṇini 2.3.67, w przypadku PPP dopełniacz występuje, gdy PPP ma z
 > ⟪रामेणेष्टं फलम्⟫ "Nagroda, której Rāma pragnął"
 
 Oczywiście w przypadku rzeczownika rodzaju nijakiego w liczbie pojedynczej, który jest formą imiesłowu przymiotnikowego biernego (PPP) używanym jako rzeczownik abstrakcyjny, występuje dopełniacz.
+
 :::
+
 ## 14.2. Tworzenie form dopełniacza (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Dopełniacz w przypadku rdzeni czasownikowych z ablautem tworzy się od słabej formy rdzenia.
@@ -56,6 +65,7 @@ Po spółgłosce regularne końcówki dopełniacza to:
 * Liczba mnoga: **-ām**
 
 :::
+
 ::: center
 
 | Rdzeń rzeczownikowy | Słaba forma rdzenia | Dopełniacz lp. | Dopełniacz lm. |
@@ -64,6 +74,7 @@ Po spółgłosce regularne końcówki dopełniacza to:
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
+
 **Dopełniacz rdzeni zakończonych samogłoską, z wyjątkiem jednosylabowych rzeczowników rdzeniowych i rdzeni zakończonych dyftongiem:**
 
 **Liczba mnoga:**
@@ -75,6 +86,7 @@ Dopełniacz liczby mnogiej rdzeni zakończonych samogłoską tworzy się w nast�
 > **-długie samogłoski rdzenia + -nām**
 
 :::
+
 ::: center
 
 | Rdzeń rzeczownikowy | Dopełniacz lm. |
@@ -89,6 +101,7 @@ Dopełniacz liczby mnogiej rdzeni zakończonych samogłoską tworzy się w nast�
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
+
 **Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę:**
 
 ::: grammar-box
@@ -96,6 +109,7 @@ Dopełniacz liczby mnogiej rdzeni zakończonych samogłoską tworzy się w nast�
 Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tworzony nieregularnie i należy go dobrze zapamiętać.
 
 :::
+
 ::: center
 
 | Plemię | Dopełniacz liczby pojedynczej |
@@ -110,6 +124,7 @@ Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tw
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(tzn. albo jak paśu, albo jak żeńskie wielozgłoskowe na -ū) |
 
 :::
+
 **Zaimki pytające i wskazujące:**
 
 ::: center
@@ -122,6 +137,7 @@ Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tw
 | | **Dopełniacz liczby mnogiej** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
+
 **Równość form:**
 
 ::: important
@@ -131,9 +147,11 @@ We wszystkich plemionach rzeczownikowych z wyjątkiem męskich i nijakich na -a 
 Należy pamiętać, że w przypadku rdzeni kończących się spółgłoską dopełniacz i celownik liczby pojedynczej brzmią tak samo jak biernik liczby mnogiej rodzaju męskiego i żeńskiego!
 
 :::
+
 ## 14.3. Dalsze uwagi dotyczące użycia dopełniacza (⟪षष्ठी⟫)
 
 ::: grammar-box
+
 Wbrew powyższej zasadzie podstawowej dopełniacz jest używany do wyrażenia obiektu niektórych czasowników, np. czasowników pamiętania:
 
 > ⟪देवानां स्मरति⟫ "Pamięta o bogach"
@@ -143,7 +161,9 @@ Jednakże przy wszystkich tych czasownikach obiekt może również wystąpić w 
 > ⟪देवान्स्मरति⟫ "Pamięta o bogach"
 
 Dalsze informacje później.
+
 :::
+
 ## 14.4. Słownik
 
 * **śīla n.** (⟪शील⟫) : (dobry) charakter, moralność
@@ -151,10 +171,14 @@ Dalsze informacje później.
 * **dīpa m.** (⟪दीप⟫) : lampa
 
 ::: media
+
 ![](/images/lekt1405.webp)
+
 Ilustracja: ⟪दीपाः⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt1405))
+
 :::
+
 * **bala n.** (⟪बल⟫) : siła, moc; armia
 * **bāla 3** (⟪बाल⟫) : młody, dziecięcy; głupi; m. chłopiec
 * **bālā f.** (⟪बाला⟫) : młoda dziewczyna
@@ -190,22 +214,30 @@ Przetłumacz następujące przysłowia i zapamiętaj je na pamięć:
 ⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
+
 ![](/images/lekt1404.webp)
+
 Ilustracja: ⟪पुत्रवती⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt1404))
+
 :::
+
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 znaczenia)
 
 ⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
+
 ![](/images/lekt1403.webp)
+
 Ilustracja: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt1403))
-:::
-**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+
+**B) Przetłumacz:**
+
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 możliwości)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -232,7 +264,10 @@ Ilustracja: ⟪अयं बालः कस्याः पुत्रः ।�
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
+
 ![](/images/lekt1402.webp)
+
 Ilustracja: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt1402))
+
 :::

@@ -8,7 +8,7 @@
 Εικ.: Δείγματα γραφής σανσκριτικής  
 \[Πηγή εικόνας: Wikipedia, άδεια GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Η σημαντικότερη σύγχρονη βορειοϊνδική γραφή για τα σανσκριτικά είναι η Devanāgarī:
 
 ![](/images/schrift002.webp)
 
@@ -30,7 +30,7 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ## Άσκηση
 
-Schreiben Sie in Devanāgarī:
+Γράψτε στα Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 Συμπληρωματική άσκηση ανάγνωσης:
 
 ⟪पिता⟫ πατέρας, ⟪कपि⟫ πίθηκος, ⟪कृत⟫ καμωμένο,  ⟪टीका⟫ υποσχόλιο, ⟪तत्⟫ αυτό, ⟪तट⟫ όχθη, ⟪पत्⟫ εξορμώ, ⟪पट⟫ ύφασμα, ⟪काच⟫ γυαλί,  ⟪काकुत्⟫ ουρανίσκος, ⟪चित्⟫ αντιλαμβάνομαι, ⟪पृच्⟫ αναμιγνύω,  ⟪पोटक⟫ υπηρέτης, ⟪चेतु⟫ πρόθεση, ⟪तौतातित⟫ οπαδός του Kumārila (Mīmāṃsā), ⟪तूत⟫ μουριά, ⟪पीत⟫ πιωμένο,  ⟪पीति⟫ ρόφημα, ⟪कॢप्⟫  ταιριάζω, ⟪कृपते⟫ θρηνεί, ⟪पुटी⟫ πτυχή, ⟪चापि⟫ ομοίως, ⟪तोक⟫ απόγονοι, ⟪तृपत्⟫ χορτασμένος, ⟪पॄ⟫ γεμίζω, ⟪कृकाटी⟫ άρθρωση του αυχένα, ⟪पूपौ⟫ δύο κέικ, ⟪पैतृकी⟫ πατρική (θηλ.), ⟪कौट⟫ απατηλός, ⟪कच⟫ μαλλιά της κεφαλής, ⟪कुतपे⟫ στην κουβέρτα από τρίχα κατσίκας, ⟪कुचौ⟫ στήθος, ⟪चकिता⟫ τρομαγμένη (θηλ.)
-
-

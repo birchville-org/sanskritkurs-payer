@@ -563,13 +563,13 @@ maitrī karuṇā muditopekṣā brahmavihārāḥ / maitrī, karuṇā, muditop
 
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ।⟫
 
-15\. Diese Brahmins opfern für andere.
+15\. Hierdie brahmane offer vir ander.
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे ब्राह्मणा यजन्ति ।⟫
 
-16\. Brahmins, Kṣatriyas and Vaśyas are twice-born. (2 possibilities)
+16\. Brahmane, kṣatriyas en vaiśyas is tweemaal gebore. (2 moontlikhede)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 

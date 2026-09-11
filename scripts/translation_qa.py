@@ -73,6 +73,12 @@ COMMON_DE_WORDS = {
     "ohne", "unter", "vor", "zwischen"
 }
 
+CITATION_PATTERNS = [
+    "Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams",
+    "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf",
+    "Weber, Max", "Tübingen", "Tüpfli", "Bussmann", "Payer, Alois", "Hoffmann, Karl"
+]
+
 def clean_markdown_for_lid(txt):
     """Clean markdown formatting, frontmatter, and metadata before language detection."""
     # Extract prose YAML frontmatter string values to scan them
@@ -165,16 +171,22 @@ def check_has_de_phrases(txt, code, fast=False):
                         except Exception:
                             pass
 
-    # 3. Lingua Statistical Language Detection (High accuracy pairwise, min length >= 40, no headings, no Sanskrit)
+    # 3. Lingua Statistical Language Detection (pairwise, paragraphs and individual instruction lines)
     if detector:
         from lingua import Language
-        raw_paras = [p.strip() for p in clean_txt.split("\n\n") if len(p.strip()) >= 40]
-        for raw_p in raw_paras:
+        # Evaluate both paragraphs and individual short lines (for exercises/lists)
+        candidates = [p.strip() for p in clean_txt.split("\n\n") if len(p.strip()) >= 40]
+        for line in clean_txt.splitlines():
+            l_str = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', line.strip()).strip()
+            if 14 <= len(l_str) < 60 and not l_str.startswith("#") and not l_str.startswith("|") and not l_str.startswith("!"):
+                candidates.append(l_str)
+
+        for raw_p in candidates:
             if raw_p.startswith("```") or raw_p.startswith("---") or raw_p.startswith("#"):
                 continue
             p = re.sub(r'^[#|\s:-]+', '', raw_p, flags=re.M)
             p = re.sub(r':br', ' ', p).strip()
-            if len(p) < 40:
+            if len(p) < 14:
                 continue
             if is_sanskrit_iast(p):
                 continue
@@ -209,11 +221,19 @@ def check_has_de_phrases(txt, code, fast=False):
             # Require at least 1 distinct German common stop word
             words = set(re.findall(r'\b[a-zäöüß]+\b', p.lower()))
             de_hits = words.intersection(COMMON_DE_WORDS)
+            if code in ('nl', 'af'):
+                de_hits = de_hits - {'wie', 'als', 'alle'}
+            if code == 'af':
+                de_hits = de_hits - {'die'}
+            if code in ('no', 'da'):
+                de_hits = de_hits - {'er'}
+            if code == 'da':
+                de_hits = de_hits - {'der', 'den'}
             if len(de_hits) >= 1:
                 try:
                     lang_detected = detector.detect_language_of(p)
                     if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
-                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf", "Weber, Max", "Tübingen", "Tüpfli", "Bussmann", "Payer, Alois", "Hoffmann, Karl"]):
+                        if any(cit in p for cit in CITATION_PATTERNS):
                             continue
                         return True
                     elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code not in ["en", "rm"]:
@@ -240,6 +260,34 @@ def verify_qa_integrity():
 
 # Auto-execute integrity self-check on import (fail-closed security)
 verify_qa_integrity()
+
+_DE_SENT_CACHE = {}
+
+def get_de_sent_set(de_file: Path) -> set:
+    key = str(de_file)
+    if key in _DE_SENT_CACHE:
+        return _DE_SENT_CACHE[key]
+    de_txt = de_file.read_text(encoding="utf-8", errors="ignore")
+    sent_set = set()
+    for dl in de_txt.splitlines():
+        d_clean = dl.strip()
+        if len(d_clean) >= 15 and not d_clean.startswith('|') and not d_clean.startswith(':::') and not d_clean.startswith('!['):
+            if any(cit in d_clean for cit in CITATION_PATTERNS):
+                continue
+            if "MIT License" in d_clean or "Creative Commons" in d_clean or "CC BY-SA" in d_clean:
+                continue
+            d_prose = re.sub(r'https?://\S+', '', d_clean)
+            d_prose = re.sub(r'[\u0900-\u097F]+', '', d_prose)
+            d_prose = re.sub(r'⟪.*?⟫', '', d_prose).strip()
+            d_prose = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', d_prose).strip()
+            if len(d_prose) >= 14 and not re.match(r'^[0-9\.\s\\=\-/]+$', d_prose):
+                d_words_str = re.sub(r'\bMIT\b', '', d_prose)
+                words = set(re.findall(r'\b[a-zäöüß]+\b', d_words_str.lower()))
+                if words.intersection(COMMON_DE_WORDS | {'übersetzen', 'bilden', 'setzen', 'formt', 'ergänzen', 'bestimmen', 'schreiben', 'möglichkeiten'}):
+                    sent_set.add(d_prose)
+    _DE_SENT_CACHE[key] = sent_set
+    return sent_set
+
 
 def is_file_fallback(filepath, code):
     """
@@ -270,6 +318,20 @@ def is_file_fallback(filepath, code):
         de_body = re.sub(r'^---\n.*?\n---\n', '', de_txt, flags=re.DOTALL).strip()
         if txt_body == de_body and len(txt_body) > 0:
             return True, "Exact copy of German master file"
+
+        # 2b. Verbatim German Master Sentence Check (cross-file line matching)
+        if code not in DE_FALLBACK_ALLOWED:
+            de_sent_set = get_de_sent_set(de_file)
+            for tl in txt.splitlines():
+                t_clean = tl.strip()
+                if len(t_clean) >= 15 and not t_clean.startswith('|') and not t_clean.startswith(':::') and not t_clean.startswith('!['):
+                    if any(cit in t_clean for cit in CITATION_PATTERNS):
+                        continue
+                    t_prose = re.sub(r'[\u0900-\u097F]+', '', t_clean)
+                    t_prose = re.sub(r'⟪.*?⟫', '', t_prose).strip()
+                    t_prose = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', t_prose).strip()
+                    if t_prose and t_prose in de_sent_set:
+                        return True, f"Contains verbatim German master line: {t_prose[:50]}"
 
     # 3. German Phrase & Lingua LID Check
     if check_has_de_phrases(txt, code):

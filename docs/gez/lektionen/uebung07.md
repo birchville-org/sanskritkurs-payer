@@ -111,7 +111,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देव्यः कुप्यन्ति । देव्यः क्रुध्यन्ति ।⟫
 
-D) Setzen Sie ins Ātmanepada:
+መ) ናብ ኣትማነፓዳ ለውጡ፦
 
 1\. sunvanti.
 
@@ -161,7 +161,7 @@ F) ትርጉም ያድርጉ፡-
 
 ነገር ግን ወደ መምህራኑ ይስማሉ።
 
-3\. Śūdras erlangen einen Himmel.
+3. ሹድራውያን ሰማየ የርክቡ።
 
 śūdrāḥ svargam āpnuvanti.
 
@@ -179,13 +179,13 @@ vaiśyā devatā yajante.
 
 ⟪वैश्या देवता यजन्ते ।⟫
 
-6\. Der HERR zürnt.
+6. እግዚአብሔር ይቖጢዕ።
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni። (ከመ Kauṭilīya-arthaṣāstra 1.3.3.) መግለጺ፦ chando = ስም፣ ተወሳኺ ነጠላ ን chandas n.)
 
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
@@ -219,7 +219,7 @@ sa guruḥ. enaṃ śṛṇvanti.
 
 ![](/images/uebung006.jpg)
 
-Abb.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
+ስዕሊ: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
 
 (የምስል ምንጭ: [ዝርዝሮች](/licenses#uebung006))
 

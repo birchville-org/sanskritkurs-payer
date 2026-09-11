@@ -577,7 +577,6 @@ de:
 din aceasta:
 
 ⟪सेवा⟫ f.: serviciu, vizită de respect
-:::
 ⟪धीर⟫ 3: ferm, statornic, continuu, perseverent
 
 ⟪शम् शाम्यति⟫

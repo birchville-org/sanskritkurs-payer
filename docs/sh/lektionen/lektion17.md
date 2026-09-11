@@ -25,6 +25,7 @@ Postoje sledeće forme nastanka u drugoj klasi prezensa:
 3. Dvosložni koreni na -i/-ī sa stepenovanjem osnove
 
 :::
+
 ## 17.2. Koreni druge klase prezensa sa stepenovanjem osnove visoki stepen - niski stepen
 
 Primeri:
@@ -44,13 +45,17 @@ Primeri:
 | 3\. pl. prez. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
+
 Pri tome deluje sledeći zakon rečnog sandhija:
 
 ::: grammar-box
+
 Rečni sandhi od -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+
 :::
+
 Dodatni primeri:
 
 ⟪इ⟫ 2 P "ići" (Ā nakon određenih prefiksa)
@@ -70,6 +75,7 @@ Dodatni primeri:
 | 3\. pl. prez. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
+
 ⟪दुह्⟫ 2 U "dojiti"
 
 *   jaka prezenska osnova: doh-
@@ -85,6 +91,7 @@ Dodatni primeri:
 | 3\. pl. prez. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
+
 ⟪हन्⟫ 2 P "to strike, to beat, to kill"
 
 *   strong present stem: han-
@@ -102,6 +109,7 @@ Dodatni primeri:
 | 3\. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
+
 ⟪अस्⟫ 2 P "to be"
 
 *   strong present stem: as-
@@ -115,6 +123,7 @@ Dodatni primeri:
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
+
 ## 17.3. Roots of the second present class with stem gradation: guṇa grade - zero grade
 
 Example:
@@ -136,11 +145,15 @@ Example:
 | 3\. pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
+
 ## 17.4. Roots of the second present class without stem gradation
 
 ::: grammar-box
+
 Without stem gradation are roots of the second present class ending in -ā
+
 :::
+
 Example:
 
 ⟪पा⟫ 2 P "to protect, to guard"
@@ -153,6 +166,7 @@ Example:
 | 3\. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
+
 Also some other roots of the second class have no stem gradation:
 
 Examples:
@@ -167,6 +181,7 @@ Examples:
 | 3\. pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
+
 ⟪आस्⟫ 2 Ā "to sit"
 
 ::: no-header
@@ -177,6 +192,7 @@ Examples:
 | 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
+
 ⟪वच्⟫ 2 P "to say"
 
 ::: no-header
@@ -187,6 +203,7 @@ Examples:
 | 3\. pl. Pres. P | does not occur |
 
 :::
+
 ## 17.5. Disyllabic roots ending in -i/-ī with stem gradation
 
 Several roots are disyllabic in a number of forms, i.e., they have an -i (or before some endings -ī) before a consonantal ending. Nevertheless, these roots are posited as monosyllabic by native grammarians and in dictionaries etc.
@@ -208,6 +225,7 @@ Examples:
 | 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
+
 ⟪ब्रू⟫ 2 U "to speak"
 
 *   strong present stem: bravī- (« bro- + -ī)
@@ -225,57 +243,79 @@ Examples:
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
+
 Also ⟪स्तु⟫ 2 U "to praise" has, alongside the forms given under 3., forms according to this pattern:
 
 thereof:
 
 ::: indent
+
 ⟪घात⟫ m.: killing, slaughter
+
 :::
 
 ::: media
+
 ![](/images/lekt1703.webp)
+
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/sh/licenses#lekt1703))
+
 :::
+
 ⟪आस्⟫ 2. razred ⟪आस्ते⟫ pasiv ⟪आस्यते⟫ PPP ⟪आसित⟫ : sjediti (Kielhorn)
 
 thereof:
 
 ::: indent
+
 ⟪आसन⟫ n.: the sitting, seat; also: yogic postures
+
 :::
 
 ::: media
+
 ![](/images/lekt1701.webp)
+
 Fig.: ⟪योगासनम्⟫
 (Image source: [Details](/sh/licenses#lekt1701))
+
 :::
+
 ⟪रुद्⟫ 2. razred ⟪रोदिति⟫ pasiv ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : plakati, zavijati (Kielhorn)
 
 thereof:
 
 ::: indent
+
 ⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
+
 :::
+
 ⟪ब्रू⟫ 2. razred ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ bez pasiva i PPP: govoriti, reći (nekome: dvostruki akuzativ) (Kielhorn)
 
 ⟪दुह्⟫ 2. razred ⟪दोग्धि⟫ pasiv ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : musti (Kielhorn)
 
 ::: media
+
 ![](/images/lekt1702.webp)
+
 Fig.: ⟪दोग्धि⟫
 (Image source: [Details](/sh/licenses#lekt1702))
+
 :::
+
 ⟪दिश्⟫ 6. razred ⟪दिशति⟫ pasiv ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : pokazati, uputiti, zapovjediti (Kielhorn)
 
 thereof:
 
 ::: indent
+
 ⟪दिष्टि⟫ f.: instruction, fortunate circumstance
 
 ⟪दिष्ट्या⟫ Instr.: (lit. by a fortunate circumstance) O fortunate circumstance (exclamation of joy and bliss)
+
 :::
 
 ## 17.7. Exercise 1
@@ -302,11 +342,10 @@ A) Insert the verb in the following sentences and translate:
 
 ⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural -> B) Ustavite u rečenicama formiranim pod A) agens i glagol u množini
+B) Ustavite u rečenicama formiranim pod A) agens i glagol u množini
 
-## 17.8. Übung 2 -> ## 17.8. Vežba 2
+## 17.8. Vežba 2
 
 Prevedite sljedeće glagolske oblike i navedite pripadajući korijen: (Kielhorn)
 
 ⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
-

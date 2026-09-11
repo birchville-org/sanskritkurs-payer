@@ -46,7 +46,7 @@ A) Aşağıdaki fiil formları ve ortaç formlarının nedensel kipi (Kausativum
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
 ### ⟪२⟫. Uzun kademeli kök (Vṛddhi)
 
-| Form | Kausativ |
+| Biçim | Ettirgen |
 | :--- | :--- |
 | ⟪अत्ति⟫ | ⟪आदयति⟫ |
 | ⟪अस्यन्ति⟫ | ⟪आसयन्ति⟫ |
@@ -87,7 +87,7 @@ A) Aşağıdaki fiil formları ve ortaç formlarının nedensel kipi (Kausativum
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-### ⟪३⟫. Kausativ auf -⟪पय⟫ (und Sonderformen)
+### ⟪३⟫. -⟪पय⟫ ile Ettirgen (ve Özel Biçimler)
 
 | Kök | Kausativ | Anlam |
 | :--- | :--- | :--- |
@@ -142,7 +142,10 @@ Onları kötülükten kurtarmak için, Buddha asil insanlara asil gerçekleri ta
 (Baz: **⟪आर्यजना आर्यसत्यानि बुध्यन्ते ।⟫**)
 
 ::: media
+
 ![](/images/uebung045.webp)
+
 Resim: ⟪गर्भगृहे देवीप्रतिमा दर्श्यते⟫
 (Resim kaynağı: [Detaylar](/licenses#uebung045))
+
 :::

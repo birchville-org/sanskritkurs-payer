@@ -1,6 +1,6 @@
 ---
 title: "Lektion 61"
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+subtitle: "Böjning av rotverbssubstantiv på -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
@@ -322,7 +322,6 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ### 61.3.1. Ātmanepada Intensivum
 
-:::
 
 ### 61.3.1. Ātmanepada Intensivum
 
@@ -972,7 +971,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
 
 :::
 
-ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] av Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Kompositör och poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 

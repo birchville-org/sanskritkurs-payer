@@ -13,8 +13,11 @@ status: stable
 ## 14.1. Vyjádření vztahu mezi substantivy: genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = šestý pád)
 
 ::: grammar-box
+
 Pokud má být vyjádřen vztah mezi dvěma substantivy, používá se genitiv (ṣaṣṭhī f. "šestý pád"). Genitiv se od všech ostatních pádů liší tím, že -- s výjimkou několika případů -- neslouží k bližšímu určení děje vyjádřeného slovesem, nýbrž k vyjádření vztahu mezi osobami nebo věcmi označenými substantivy. Genitiv často odpovídá na otázku: Čí?
+
 :::
+
 Příklady:
 
 ⟪कवेः पुत्रः⟫ "Syn básníka"
@@ -26,13 +29,17 @@ Příklady:
 ⟪रामस्य कृतम्⟫ "Čin / Jeden čin Rāmy"
 
 ::: grammar-box
+
 Normální pořadí slov je:
 
 > **Určující slovo v genitivu — bližší určené substantivum v jiném pádu**
+
 :::
+
 **Genitiv a PPP:**
 
 ::: grammar-box
+
 U příčestí minulých trpných (PPP) může genitiv nahradit instrumentál (tṛtīyā) pro vyjádření agensu (kartṛ); ve konstrukci s instrumentálem je PPP chápáno jako pasivní slovesná forma (v instrumentálu stojící označuje agens), ve konstrukci s genitivem je PPP chápáno jako substantivum nebo adjektivum (v genitivu tedy stojící není vlastně agens).
 
 Podle Pāṇiniho 2.3.67 stojí u PPP genitiv, má-li PPP přítomný význam (viz výše), a instrumentál, má-li PPP minulý význam:
@@ -42,7 +49,9 @@ Podle Pāṇiniho 2.3.67 stojí u PPP genitiv, má-li PPP přítomný význam (v
 > ⟪रामेणेष्टं फलम्⟫ "Plod, který Rāma žádal"
 
 Samozřejmě stojí u PPP Neutrum Singular, které je používáno jako verbální abstraktum – tedy jako podstatné jméno, genitiv.
+
 :::
+
 ## 14.2. Tvoření genitivních tvarů (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Genitiv se u verbálních kmenů s kmenovou gradací tvoří ze slabého kmene.
@@ -56,6 +65,7 @@ Po konsonantu jsou pravidelné genitivní koncovky:
 * Plural: **-ām**
 
 :::
+
 ::: center
 
 | Nominalní kmen | Slabý kmen | Genitiv Singular | Genitiv Plural |
@@ -64,6 +74,7 @@ Po konsonantu jsou pravidelné genitivní koncovky:
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
+
 **Genitiv vokálově končících kmenů, s výjimkou jednoslabičných kořenových jmen a diftongově končících kmenů:**
 
 **Plural:**
@@ -75,6 +86,7 @@ Genitiv plurálu vokálově končících kmenů se tvoří takto:
 > **-dlouze končící vokál kmene + -nām**
 
 :::
+
 ::: center
 
 | Nominalní kmen | Genitiv Plural |
@@ -89,6 +101,7 @@ Genitiv plurálu vokálově končících kmenů se tvoří takto:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
+
 **Genitiv singuláru vokálně končících kmenů:**
 
 ::: grammar-box
@@ -96,6 +109,7 @@ Genitiv plurálu vokálově končících kmenů se tvoří takto:
 Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je dobré se ho naučit nazpaměť.
 
 :::
+
 ::: center
 
 | Kmen | Genitiv singuláru |
@@ -110,6 +124,7 @@ Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je d
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(tj. buď jako paśu nebo jako víceslabičná ženská slova na -ū) |
 
 :::
+
 **Tázací a ukazovací zájmena:**
 
 ::: center
@@ -122,6 +137,7 @@ Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je d
 | | **Genitiv plurálu** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
+
 **Shoda tvarů:**
 
 ::: important
@@ -131,9 +147,11 @@ U všech nominálních kmenů s výjimkou maskulin a neuter na -a a zájmen je t
 Vezměte na vědomí, že u kmenů končících souhláskou se ablativ a genitiv singuláru shodují ve tvaru s akuzativem plurálu maskulina a feminina!
 
 :::
+
 ## 14.3. Další informace o užití genitivu (⟪षष्ठी⟫)
 
 ::: grammar-box
+
 Na rozdíl od výše uvedené základní pravidla se genitiv používá k vyjádření předmětu některých sloves, např. u sloves paměti:
 
 > ⟪देवानां स्मरति⟫ "Pamatuje na bohy"
@@ -143,7 +161,9 @@ U všech těchto sloves může být předmět však také v akuzativu:
 > ⟪देवान्स्मरति⟫ "Pamatuje na bohy"
 
 Další informace později.
+
 :::
+
 ## 14.4. Slovník
 
 * **śīla n.** (⟪शील⟫) : (dobrý) charakter, morálka
@@ -151,10 +171,14 @@ Další informace později.
 * **dīpa m.** (⟪दीप⟫) : lampa
 
 ::: media
+
 ![](/images/lekt1405.webp)
+
 Obr.: ⟪दीपाः⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1405))
+
 :::
+
 * **bala n.** (⟪बल⟫) : síla, moc; vojsko
 * **bāla 3** (⟪बाल⟫) : mladý, dětský; m. chlapec
 * **bālā f.** (⟪बाला⟫) : dívka
@@ -190,22 +214,30 @@ Převeďte následující přísloví a naučte se je nazpaměť:
 ⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
+
 ![](/images/lekt1404.webp)
+
 Obr.: ⟪पुत्रवती⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1404))
+
 :::
+
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 významy)
 
 ⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
+
 ![](/images/lekt1403.webp)
+
 Obr.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1403))
-:::
-**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+
+**B) Přeložte:**
+
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 možnosti)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -232,7 +264,10 @@ Obr.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
+
 ![](/images/lekt1402.webp)
+
 Obr.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1402))
+
 :::

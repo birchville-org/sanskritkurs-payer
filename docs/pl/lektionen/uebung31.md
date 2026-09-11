@@ -24,17 +24,21 @@ Kto posiada zrozumienie, zostaje uwolniony od cierpienia; dlatego też ten, kto 
 
 ⟪४⟫. **⟪पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥⟫**
 "Urodził się syn — urodziła się więź" — z tą myślą Budda zerwał więzy rodzinne. Po rozerwaniu tych więzów może osiągnąć zrozumienie prowadzące do wyzwolenia.
-"Ein Sohn ist mir geboren — eine Fessel ist geboren" — mit diesem Gedanken zerreisst der Buddha die Bindung an die Familie. Nachdem er die Bande zerrissen hat, kann er die zur Erlösung führende Einsicht erreichen.
+„Urodził mi się syn — narodziła się więź” — z tą myślą Budda zrywa więzy rodzinne. Po zerwaniu więzów może osiągnąć wgląd prowadzący do wyzwolenia.
 
 ⟪५⟫. **⟪समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥⟫**
 (⟪मोहेन सहितः । शोभनं रूपं यासां ताः । वीतो मोहो यस्य सः । सम्पन्नं रूपं यस्याः सा⟫)
 Głupi czerpie przyjemność z dobrych posiłków i pięknych kobiet. Ktoś, u którego głota minęła, nie pragnie ani dobrego posiłku, ani kobiety o doskonałym ciele. Zapobiega on bowiem chciwości i nienawiści oraz skupia się na zrozumieniu.
 
 ::: media
+
 ![](/images/uebung049.webp)
+
 Ilustracja: ⟪कुलबन्धनम्⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung049))
+
 :::
+
 ---
 
 ## Paradmaty czasowników (7. klasa)

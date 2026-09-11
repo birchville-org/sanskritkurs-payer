@@ -60,7 +60,6 @@ Examples:
 ⟪निषद्यताम् ।⟫ "Please, sit down!"
 :::
 In the Imperative of Classical Sanskrit, the forms for the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let's go!"
-:::
 ## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
 
 ### 47.2.1. Endings of the Imperative on thematic present stems

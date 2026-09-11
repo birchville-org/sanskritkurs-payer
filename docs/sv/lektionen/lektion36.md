@@ -87,7 +87,7 @@ The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used
 (svag) presensstam + -ām + motsvarande perfektform av ⟪कृ⟫, ⟪अस्⟫ eller ⟪भू⟫
 
 Outgoing stem vowel is guṇated before -ām.
-⟪अस्⟫ und ⟪भू⟫ werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert.
+⟪अस्⟫ och ⟪भू⟫ konjugeras även i Parasmaipada för Ātmanepada-verb.
 
 :::
 

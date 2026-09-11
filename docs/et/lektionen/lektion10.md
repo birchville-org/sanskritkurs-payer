@@ -1,5 +1,5 @@
 ---
-title: "Lektion 10"
+title: "10. õppetund"
 subtitle: "Passiivilause (tegevuse sooritaja instrumentaal)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
@@ -26,9 +26,9 @@ This sentence is **completely (!) semantically identical** to the sentence:
 
 ::: grammar-box
 
-In the passive sentence, the agent (**kartṛ**) stands in the **Instrumental** (tṛtīyā f. "third case ending"), and the direct object (**karman** n.) in the **Nominative** (prathamā f.).
-Passive sentences in which the agent is not specified usually have an impersonal meaning ("one"):
-z.B. **ijyate** = ⟪इज्यते⟫ "Man opfert" (wörtlich: "es wird mit einem Opfer verehrt").
+Passiivlauses seisab tegevuse sooritaja (**kartṛ**) **instrumentaalis** (tṛtīyā f. "kolmas käändelõpp") ja otsene objekt (**karman** n.) **nominatiivis** (prathamā f.).
+Passiivlausetel, milles tegevuse sooritajat ei ole täpsustatud, on tavaliselt umbisikuline tähendus ("keegi"):
+nt. **ijyate** = ⟪इज्यते⟫ "Ohverdatakse" (sõna-sõnalt: "seda austatakse ohvriga").
 
 :::
 
@@ -36,17 +36,17 @@ z.B. **ijyate** = ⟪इज्यते⟫ "Man opfert" (wörtlich: "es wird mit
 
 **Even if the corresponding active sentence would contain an accusative (dvitīyā) of the goal, this can be put into the nominative (prathamā) in the passive sentence:**
 
-Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Rāma geht ins Dorf." entsprechen die Passivsätze:
+Aktiivlausele **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Rāma läheb külla." vastavad passiivlaused:
 **rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
-alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
+alternatiivselt: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
 
 :::
 
 ::: grammar-box
 
-**Intransitive verbs (verbs without a direct object) frequently have passive constructions, esp. also in polite requests:**
-**praviśyatām** = ⟪प्रविश्यताम्⟫ = "Man möge eintreten = Bitte treten Sie ein = Herein!"
-**niṣadyatām** = ⟪निषद्यताम्⟫ = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz"
+**Intransitiivsed tegusõnad (tegusõnad ilma otsese objektita) esinevad sageli passiivkonstruktsioonides, eriti ka viisakates palvetes:**
+**praviśyatām** = ⟪प्रविश्यताम्⟫ = "Võib sisse astuda = Palun astuge sisse = Sisse!"
+**niṣadyatām** = ⟪निषद्यताम्⟫ = "Võib istuda = Palun istuge = Palun võtke istet"
 
 :::
 
@@ -62,9 +62,9 @@ Sanskrit passive constructions are extremely frequent: the passive is also easie
 
 ::: grammar-box
 
-**Die regulären Endungen des Instrumentalis (tṛtīyā):**
-**Singular: -ā**
-**Plural: -bhis**
+**Instrumentaali (tṛtīyā) regulaarsed lõpud:**
+**Ainsus: -ā**
+**Mitmus: -bhis**
 
 **Regelmässige Bildungen:**
 
@@ -111,7 +111,7 @@ Sanskrit passive constructions are extremely frequent: the passive is also easie
 
 
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Instrumentaali (tṛtīyā = ⟪तृतीया⟫) kasutamisest
 
 ::: grammar-box
 
@@ -120,16 +120,16 @@ Sanskrit passive constructions are extremely frequent: the passive is also easie
 **Millega?**
 **Kellega?**
 
-**Er steht**
-1. **in Passivsätzen: Agens (kartṛ) im Instrumentalis**
-2. **to indicate the means or tool with which something is accomplished**
-3. **to indicate the path on which someone reaches somewhere**
-4. **to express connection, union, accompaniment of**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "gemeinsam mit dem Brahmanen"
+**See seisab**
+1. **passiivlausetes: tegevuse sooritaja (kartṛ) instrumentaalis**
+2. **näitamaks vahendit või tööriista, millega midagi teostatakse**
+3. **näitamaks teed, mida mööda keegi kuhugi jõuab**
+4. **väljendamaks ühendust, liitu, kaasasolekut**
+5. **postpositsioonide puhul tähenduses "koos, koos"; nt. saha = ⟪सह⟫ = "koos"** :brnt.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "koos braahmaniga"
 
 :::
 
-Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
+Instrumentaali (tṛtīyā) edasised kasutusviisid järgnevad hiljem.
 
 
 ## 10.3. The so-called Cerebralization Law for -n- (a word sandhi)
@@ -214,13 +214,13 @@ z.B.
 
 The traditional indigenous designation for this formation of the weak grade in verbs with **ya** or **va** is **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **Final -ṛ** after a single consonant is replaced by **-ri-** before the passive suffix **-ya-**:
+5. **Lõpp-ṛ** pärast ühte konsonanti asendatakse **-ri-**-ga enne passiivliidet **-ya-**:
 * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+* Kuid: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
-6. **Some roots ending in -an have alternatively two passive stem formations:**
-* eine **-an-ya**
-* one **-ā-ya-** (the long **ā** is a representative of a hypothetical long nasal)
+6. **Mõnel -an-iga lõppeval tüvel on alternatiivselt kaks passiivtüve moodustust:**
+* üks **-an-ya**
+* üks **-ā-ya-** (pikk **ā** on hüpoteetilise pika nasaali esindaja)
 
 nt. **tan** 8 U.
 * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
@@ -270,6 +270,7 @@ nt. **tan** 8 U.
 
 
 
+:::
 ## 10.5. Wortliste
 
 **Õppige järgmised sõnad:**
@@ -367,10 +368,10 @@ Joonis: ⟪विश्वामित्रः⟫
 6. **nayanti** (⟪नयन्ति⟫)
 7. **smarati** (⟪स्मरति⟫)
 8. **śṛṇvanti** (⟪शृण्वन्ति⟫)
-9. **paśyati** (⟪पश्यति⟫) (Passiv wird von **dṛś** gebildet!)
+9. **paśyati** (⟪पश्यति⟫) (Passiiv moodustatakse **dṛś**-ist!)
 10. **jayanti** (⟪जयन्ति⟫)
 11. **kurvate** (⟪कुर्वते⟫)
-12. **āpnuvanti** (⟪आप्नुवन्ति⟫)
+12. **āpnuvanti** (⟪आपॢनुवन्ति⟫)
 13. **viśati** (⟪विशति⟫)
 14. **khādanti** (⟪खादन्ति⟫)
 15. **sunoti** (⟪सुनोति⟫)
@@ -380,11 +381,11 @@ Joonis: ⟪विश्वामित्रः⟫
 19. **rakṣanti** (⟪रक्षन्ति⟫)
 20. **vadanti** (⟪वदन्ति⟫)
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
-22. **tanvanti** (⟪तन्वन्ति⟫) (2 Formen!)
+22. **tanvanti** (⟪तन्वन्ति⟫) (2 vormi!)
 
 **B) Form the Instrumental Singular and Plural for all nouns learned so far.**
 
-**C) Put the following sentences into the passive and translate them:**
+**C) Pange järgmised laused passiivi ja tõlkige need:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
@@ -393,20 +394,20 @@ Joonis: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 võimalust)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 võimalust)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
-13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
+13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमापॢनोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
 15. **paśūllabhate.** (⟪पशूल्लभते⟫)
 16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫)
 
-**D) Übersetzen Sie ins Sanskrit:**
-1. A Brahman goes to the village with a Vaiśya.
-2. Er verehrt Viṣṇu mit einem Opfer. (Opfer **yajña** ausdrücken!)
-3. The Veda is called śruti. (**vad**)
-4. The warp is stretched. (2 possibilities)
+**D) Tõlgi sanskriti keelde:**
+1. Brahman läheb Vaiśyaga külla.
+2. Ta kummardab Viṣṇut ohvriga. (Väljenda ohver **yajña**!)
+3. Veda nimetatakse śrutiks. (**vad**)
+4. Lõim on venitatud. (2 võimalust)
 
 ::: media
 

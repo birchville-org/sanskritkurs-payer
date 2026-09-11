@@ -106,7 +106,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 (ከካውቲሊያ-ርታሻስትራ 1.3.8.)
 
 ማብራሪያ፡
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+dvijātīnām = የብዙ ቁጥር የባለቤትነት ሁኔታ (Genetiv) ከ dvijāti (እዚህ ላይ "ለድቪጃቲዎች" ብለው ይተርጉሙ)
 
 kārukuśīlavakarma በፊተኛው ክፍል ድቫንድቫ (kārukuśīlava) ያለው ታትፑሩሻ ነው (Kielhorn)። karma = Nom. sg. ከ karman n. «ተግባር፣ ሥራ፣ ካርማ» ከሥሩ kṛ 8 U)። «የ... ተግባር / ሥራ» ተብሎ ይተረጎማል።
 
@@ -119,7 +119,11 @@ kārukuśīlavakarma በፊተኛው ክፍል ድቫንድቫ (kārukuśīlava)
 ኢኮኖሚ ግብርና፣ የእንስሳት ማሳደግ እና ንግድ ነው።
 
 ::: media
+
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं सर्वभूतानाम्⟫
+
+ምስል: ⟪रक्षणं सर्वभूतानाम्⟫
+
 (የምስል ምንጭ: [Details](/licenses#uebung013))
+
 :::

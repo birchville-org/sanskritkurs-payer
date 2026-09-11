@@ -124,10 +124,14 @@ Mit esznek és isznak a bráhmanák?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung019.webp)
+
 Ábr.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Képmegjelölés: [Részletek](/licenses#uebung019))
+
 :::
+
 ---
 
 ## További gyakorlatok
@@ -139,7 +143,7 @@ B) Alakítsa ki az A) gyakorlatban szereplő mondatokat passzívba
 C) Alakítsa ki az A) gyakorlatban szereplő mondatokhoz PPP-konstrukciót
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma geht auf dem Weg ins Dorf.
+Ráma az úton a faluba megy.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -273,7 +277,10 @@ E) Fordítsa le szanszkritra:
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung018.webp)
+
 Ábr.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Képmegjelenítés: [Részletek](/licenses#uebung018))
+
 :::

@@ -155,7 +155,7 @@ die ses **vedāṅga** n. (⟪वेदाङ्ग⟫)
 **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : handboeke vir die seremonies en offers van daaglikse lewe
 **dharmasūtra** n. (⟪धर्मसूत्र⟫) en **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : handboeke oor reg en gewoonte (regte gedrag)
 die groot epiese gedigte **mahābhārata** n. (⟪महाभारत⟫) en **rāmāyaṇa** n. (⟪रामायण⟫)
-die **purāṇa** n. (⟪पुराण⟫)
+die **purāṇa**-geskrifte n. (⟪पुराण⟫)
 **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : handboeke van lewenswyse
 
 **smṛti** is veral ook 'n benaming vir Dharma-handboeke.
@@ -465,7 +465,7 @@ In Indië het men aan die ware woord magiese krag toegeskryf, ja die hele wêrel
 
 :::
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en das Ṛta. -- 1959. -- XXIII S., bl. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 
 ::: media
@@ -497,7 +497,7 @@ Afbeelding: ⟪विश्वामित्रः⟫
 **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij „vechten met“ enz.) (Postpositie met Instrumentalis)
 
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit het nalatenschap red. door Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII blz., blz. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap geredigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 
 ::: media
@@ -529,7 +529,7 @@ Afbeelding: ⟪विश्वामित्रः⟫
 **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij „vechten met“ enz.) (Postpositie met Instrumentalis)
 
 ::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -910,7 +910,7 @@ na ⟪जन्⟫
 :::
 ⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterf (volgens Indiese grammatikers: 6 Ā)
 
-davon:
+daarvan:
 
 ::: indent
 ⟪मरण⟫ n.: Sterben, Tod
@@ -2031,7 +2031,7 @@ Pushkar = ⟪पुष्कर⟫
 
 ⟪मत्स्य⟫ m.: Fisch
 
-davon:
+daarvan:
 ::: indent
 ⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
 :::
@@ -3195,7 +3195,7 @@ Afb.: ⟪तीर्थङ्करः⟫
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
 
 ::: indent
-davon:
+daarvan:
 
 ⟪अवतार⟫ m.: (neerdaling) inkarnasie van 'n god, veral Vishnu se 10 inkarnasies (sien Basham, Wonder p. 304 - 309)
 :::
@@ -3215,7 +3215,7 @@ Kaus. ⟪स्वापयति⟫
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-davon:
+daarvan:
 
 ⟪स्वप्न⟫ m.: slaap, droom
 
@@ -3739,7 +3739,7 @@ Afb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+⟪वा⟫ ... ⟪वा⟫ : of ... of
 
 ## Les 46
 
@@ -3758,7 +3758,7 @@ Afb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ⟪सम⟫ 3: gleich, eben, ähnlich
 
 ::: indent
-davon:
+daarvan:
 ⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
 ⟪समता⟫ f.: Gleichmut
 ⟪विषम⟫ 3: ungleich, uneben, böse
@@ -3774,7 +3774,7 @@ Kaus.⟪ग्राहयति⟫
 PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-davon:
+daarvan:
 ⟪ग्रह⟫ m.: gryper, krokodil, hemelliggaam
 ⟪नवग्रह⟫ m.: die nege hemelliggame (nie planete nie!) (sien Basham, Wonder p. 493):
 1.  ⟪सूर्यः⟫ = Son
@@ -3788,7 +3788,7 @@ davon:
 9.  ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Vir ⟪राहु⟫ en ⟪केतु⟫ sien:
 
 > **Payer, Alois (1944–):** Dharmashastra : Inleiding en oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu (Kielhorn). -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
@@ -3876,14 +3876,14 @@ Afb.: [⟪महामात्र कं चरिष्णुदूरशब�
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "beweeglik", ⟪दूरशब्द⟫ m. "langafstandoproep, telefoon" » ⟪चरिष्णुदूरशब्द⟫ "selfoon" (Woordvorming: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: die heen-en-weer-gaan
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: die ontval, die verlies
 
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : swoeg, moeg word
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
@@ -3893,7 +3893,7 @@ Kaus. ⟪श्रमयति । श्रामयति⟫
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
-davon:
+daarvan:
 ⟪आश्रम⟫ m.n.
 
 :::

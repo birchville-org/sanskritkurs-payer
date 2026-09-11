@@ -219,7 +219,6 @@ Shembull:
 ⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Një herë kishte një mbret **me emrin Nala**, i fortë, biri i Vīrasenas."
 :::
 Natürlicherweise mund të shprehësh të njëjtën gjë me një ⟪बहुव्रीहि⟫:
-:::
 Natürlicherweise mund të shprehësh të njëjtën gjë me një ⟪बहुव्रीहि⟫:
 
 ::: indent

@@ -341,7 +341,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 **B) Bilda instrumentalis singular och plural för alla substantiv som hittills lärts ut.**
 
-**C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:**
+**C) Sätt följande meningar i passiv och översätt dem:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
@@ -350,9 +350,9 @@ Fig.: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 möjligheter)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 möjligheter)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
 13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)

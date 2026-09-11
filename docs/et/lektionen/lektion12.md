@@ -1,5 +1,5 @@
 ---
-title: "Lektion 12"
+title: "Õppetund 12"
 subtitle: "Mineviku kesksõna (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
@@ -25,16 +25,16 @@ status: stable
 
 ::: grammar-box
 
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Tegevussubjekt (kartṛ) instrumentaalis (tṛtīyā) -- otsene objekt (karman) nominatiivis (prathamā) -- täismineviku passiivi partitsiip**
 
 PPP ühildub sel juhul objektiga arvus, käändes ja soos.
 
 Abitegusõna („olema“) ei ole vajalik.
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Näited:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Pühaku poolt saavutati taevas) = Pühak saavutas taeva.“
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Brahmini poolt austati jumalannat ohvriga) = Brahmin austas jumalannat ohvriga.“
 
 :::
 
@@ -46,8 +46,8 @@ Beispiele:
 
 Sel juhul ühildub PPP tegijaga arvus, käändes ja soos. Mineviku kesksõnal „passiiv“ on intransitiivsete tegusõnade (tegusõnad ilma otsese objektita) ja liikumisverbide puhul aktiivne tähendus.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Näide:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatriya naine on linna läinud.“
 
 :::
 
@@ -55,7 +55,7 @@ Beispiel:
 
 ::: grammar-box
 
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Tegevussubjekt (kartṛ) instrumentaalis (tṛtīyā) -- PPP nominatiivi ainsuse neutrumis**
 
 Näide:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya läks (linna)) = Kṣatriya läks (linna).“
@@ -64,7 +64,7 @@ Skeemi II järgi moodustatud konstruktsioon on palju haruldasem kui skeemi I jä
 
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. PPP tähendusest
 
 Kuigi nn. „mineviku kesksõna passiiv“ on transitiivsete tegusõnade puhul peamiselt passiivse tähendusega (**āpta** = „saavutatud“) ja intransitiivsete tegusõnade ning liikumisverbide puhul aktiivse tähendusega (**gata** = „läinud“), on mõned tegusõnad, mille puhul PPP-l võib olla nii aktiivne kui ka passiivne tähendus:
 
@@ -72,8 +72,7 @@ nt.
 **gata** = ⟪गत⟫ = „läinud“ (aktiivne); aga ka: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „käidud tee“ (passiivne)
 **āpta** = ⟪आप्त⟫ = „saavutatud“ (passiivne), „saavutanud“ (aktiivne)
 
-
-## 12.3. Bildung des PPP
+## 12.3. PPP moodustamine
 
 ::: grammar-box
 
@@ -90,7 +89,7 @@ Naissoost tüved on: **-tā**, **-itā**, **-nā**; neutrum käändub nagu **pha
 
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP lõpuga -ta (kta)
 
 #### 12.3.1.1. Ilma sidevokaalita -i- (aniṭ)
 

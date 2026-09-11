@@ -25,6 +25,7 @@ Existem as seguintes formas de formação na segunda classe do presente:
 3.  raízes dissilábicas terminadas em -i/-ī com gradação vocálica do tema
 
 :::
+
 ## 17.2. Raízes da segunda classe do presente com gradação vocálica do tema: grau forte - grau zero
 
 Exemplos:
@@ -44,13 +45,17 @@ Exemplos:
 | 3ª pl. Pres. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
+
 A seguinte lei de sandhi externo aplica-se aqui:
 
 ::: grammar-box
+
 Sandhi externo de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+
 :::
+
 Outros exemplos:
 
 ⟪इ⟫ 2 P "ir" (Ā após certos preverbos)
@@ -70,6 +75,7 @@ Outros exemplos:
 | 3ª pl. Pres. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
+
 ⟪दुह्⟫ 2 U "ordenhar"
 
 *   radical forte do presente: doh-
@@ -85,6 +91,7 @@ Outros exemplos:
 | 3ª pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
+
 ⟪हन्⟫ 2 P "golpear, matar, assassinar"
 
 *   radical forte do presente: han-
@@ -102,6 +109,7 @@ Outros exemplos:
 | 3ª p. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
+
 ⟪अस्⟫ 2 P "ser"
 
 *   tema forte do presente: as-
@@ -115,6 +123,7 @@ Outros exemplos:
 | 3ª pess. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
+
 ## 17.3. Raízes da segunda classe do presente com apofonia do tema: grau de alongamento - grau zero
 
 Exemplo:
@@ -136,11 +145,15 @@ Exemplo:
 | 3ª pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
+
 ## 17.4. Raízes da segunda classe do presente sem gradação do tema
 
 ::: grammar-box
+
 As raízes da segunda classe do presente terminadas em -ā não têm gradação do tema.
+
 :::
+
 Exemplo:
 
 ⟪पा⟫  2 P "proteger, guardar, vigiar"
@@ -153,6 +166,7 @@ Exemplo:
 | 3ª p. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
+
 Também algumas outras raízes da segunda classe não têm gradação da raiz:
 
 Exemplos:
@@ -167,6 +181,7 @@ Exemplos:
 | 3ª pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
+
 ⟪आस्⟫ 2 Ā "sentar-se"
 
 ::: no-header
@@ -177,6 +192,7 @@ Exemplos:
 | 3ª pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
+
 ⟪वच्⟫ 2 P "dizer"
 
 ::: no-header
@@ -187,6 +203,7 @@ Exemplos:
 | 3ª pl. Pres. P | não ocorre |
 
 :::
+
 ## 17.5. Raízes dissilábicas em -i/-ī com apofonia do tema
 
 Várias raízes são dissilábicas em uma série de formas, ou seja, elas têm um -i (ou -ī antes de algumas terminações) antes de uma terminação consonantal. No entanto, essas raízes são, mesmo assim, listadas como monossilábicas pelos gramáticos nativos e em dicionários, etc.
@@ -208,11 +225,12 @@ Exemplos:
 | 3ª pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
+
 ⟪ब्रू⟫ 2 U "falar"
 
 *   tema forte do presente: bravī- (« bro- + -ī)
 *   tema fraco do presente:
-    *   vor Konsonant: brū-
+    *   antes de consoante: brū-
     *   antes de vogal: bruv-
 
 ::: no-header
@@ -225,6 +243,7 @@ Exemplos:
 | 3ª pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
+
 Também ⟪स्तु⟫ 2 U "louvar" tem, além das formas indicadas em 3., formas segundo este padrão:
 
 ::: no-header
@@ -234,6 +253,7 @@ Também ⟪स्तु⟫ 2 U "louvar" tem, além das formas indicadas em 3., f
 | 3ª p. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
+
 ## 17.6. Vocabulário
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : bater, golpear, matar
@@ -241,52 +261,73 @@ Também ⟪स्तु⟫ 2 U "louvar" tem, além das formas indicadas em 3., f
 dele:
 
 ::: indent
+
 ⟪घात⟫ m.: matança
+
 :::
 
 ::: media
+
 ![](/images/lekt1703.webp)
+
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte da imagem: [Detalhes](/pt/licenses#lekt1703))
+
 :::
+
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sentar-se
 
 daí:
 
 ::: indent
+
 ⟪आसन⟫ n.: o sentar-se, assento; também: posições de assento do iogue
+
 :::
 
 ::: media
+
 ![](/images/lekt1701.webp)
+
 Fig.: ⟪योगासनम्⟫
 (Fonte da imagem: [Details](/pt/licenses#lekt1701))
+
 :::
+
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : chorar, lamentar
 
 Derivado:
 
 ::: indent
+
 ⟪रुद्र⟫ m.: (o que lamenta =) o deus da tempestade Rudra
+
 :::
+
 ⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ sem passivo e PPP: falar, dizer (algo a alguém: duplo acusativo)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : ordenhar
 
 ::: media
+
 ![](/images/lekt1702.webp)
+
 Fig.: ⟪दोग्धि⟫
 (Fonte da imagem: [Detalhes](/pt/licenses#lekt1702))
+
 :::
+
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrar, indicar, ordenar
 
 daí:
 
 ::: indent
+
 ⟪दिष्टि⟫ f.: instrução, feliz acaso
 
 ⟪दिष्ट्या⟫ Instr.: (lit.: por um feliz acaso) Ó feliz acaso (exclamação de alegria e felicidade)
+
 :::
 
 ## 17.7. Exercício 1
@@ -410,4 +451,3 @@ Traduza as seguintes formas verbais e indique a raiz correspondente:
 ⟪४५⟫. ⟪जीव्यते⟫
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
-

@@ -65,23 +65,23 @@ dhenavo viśanti. dhenavo bhavanti.
 
 ፩. በመሥዋዕት ያመልካል። (የመሥዋዕት ካህን ለመሥዋዕት ባለቤት)
 
-yajati. → ያጃቲ።
+ያጃቲ።
 
 ⟪यजति ।⟫
 
-2\. Śiva tanzt. → 2\. ሺቫ ይዘራል።
+2\. ሺቫ ይዘራል።
 
 śivo nṛtyati.
 
 ⟪शिवो नृत्यति ।⟫
 
-3\. Rāma führt. → 3\. ራማ ይመራል።
+3\. ራማ ይመራል።
 
 rāmo nayati.
 
 ⟪रामों नयति ।⟫
 
-4\. Śudras sind verwirrt. → 4\. ሹድራስ ተቀላቅለዋል።
+4\. ሹድራስ ተቀላቅለዋል።
 
 śūdrā muhyanti.
 
@@ -105,19 +105,19 @@ kṣatriyo yajate.
 
 ⟪क्षत्रियो यजते ।⟫
 
-8\. Śūdrafrauen tanzen. → 8\. ሹድራ ሴቶች ይዘራሉ።
+8\. ሹድራ ሴቶች ይዘራሉ።
 
 śūdrā nṛtyanti.
 
 ⟪शूद्रा नृत्यन्ति ।⟫
 
-9\. Kṣatriyas kämpfen. → 9\. ክሽትሪያስ ያዋውቃሉ።
+9\. ክሽትሪያስ ያዋውቃሉ።
 
 kṣatriyā yudhyante.
 
 ⟪क्षत्रिया युध्यन्ते ।⟫
 
-10\. Heilige Männer führen. → 10\. ቅዱሞች ይመራሉ።
+10\. ቅዱሞች ይመራሉ።
 
 sādhavo nayanti.
 
@@ -125,13 +125,13 @@ sādhavo nayanti.
 
 ፲፩. ያስታውሳሉ።
 
-smaranti. → ስማራንቲ።
+ስማራንቲ።
 
 ⟪स्मरन्ति ।⟫
 
-12\. Wer (fem.) tanzt? → 12\. ማን (ሴት) ይዘራል?
+12\. ማን (ሴት) ይዘራል?
 
-kā nṛtyati? → ካ ኑርትያቲ?
+ካ ኑርትያቲ?
 
 ⟪का नृत्यति ।⟫
 
@@ -145,7 +145,7 @@ sā brāhmaṇī nṛtyati.
 
 ![](/images/uebung004.jpg)
 
-Abb.: ⟪का नृत्यति ।⟫ → ስዕል፡ ⟪का नृत्यति ।⟫
+ስዕል፡ ⟪का नृत्यति ।⟫
 
 (የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#uebung004))
 
@@ -157,7 +157,7 @@ Abb.: ⟪का नृत्यति ।⟫ → ስዕል፡ ⟪का नृ�
 
 ሀ) የመተካት ልምምድ፡ ከሚከተሉት የመተካት ልምምዶች በኋላ የሚፈጥሯቸው ዓረፍተ ነገሮች መልስ የሚሆኑባቸውን ጥያቄዎች ይፍጠሩ።
 
-1\. devas ... (īśvara, nṛt, sṛj, agni, indra) → 1\. ዴቫስ ... (ጣሻዋራ, ኑርት, ስርጅ, አግኒ, እንድራ)
+1\. ዴቫስ ... (ጣሻዋራ, ኑርት, ስርጅ, አግኒ, እንድራ)
 
 ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 
@@ -245,7 +245,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+ለ) ንብዝኃ ቍጽር ለውጥ፡
 
 1\. brāhmaṇo yajati.
 
@@ -359,7 +359,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+ሐ) ንኣትማነፓዳ ግበር፡
 
 1\. rāmo yajati.
 
@@ -377,7 +377,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया⟫ ⟪नयन्ते⟫ ⟪॥⟫
 
-D) Bilden Sie das Femininum zu:
+መ) ንኣንስታይ ጾታ ግበር፡
 
 1\. śūdro nayati.
 
@@ -419,67 +419,67 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+ሠ) ተርጕም፡
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+አናፑርና አምላኽ እያ።
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+ኢተራ ሰበይቲ ሹድራ እያ።
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+ቱላድሃራ ቫይሽያ እዩ።
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+ማጋ ገጣሚ እዩ።
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+ኡማ ኣምላኽ እያ።
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+ቬዳ ስሩቲ እዩ።
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+ላም ትኣቱ።
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+ቻይታንያ መምህር እዩ።
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+ኢንድራኒ ኣምላክ እያ።
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+መምህሩ ቅዱስ እዩ።
 
 11\. gururyajate.
 
@@ -489,55 +489,55 @@ Der Meister ist ein Heiliger.
 
 ረ) ወደ ስምስክርት ተርጉም።
 
-1\. Rāma opfert (als Opferherr).
+1. ራማ ይሠውዕ።
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2. ዱርጋ ኣምላክ እያ።
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3. ሚናክሺ ኣምላክ እያ።
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4. ንሳቶም ግራ ተጋብኡ።
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5. ራማ ቅዱስ ሰብኣይ እዩ።
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6. እግዚኣብሔር መን እዩ?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7. ኢንደራ እግዚኣብሔር እዩ።
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8. እንስሳታት ይኣትዉ።
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9. ቪሽኑ የውጽእ = ቪሽኑ ይፈጥር።
 
 viṣṇuḥ sṛjati.
 
@@ -555,7 +555,7 @@ sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ ⟪।⟫ ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-12\. Diese Göttin ist gut.
+12. እዛ ኣምላክ እዚኣ ጽብቕቲ እያ።
 
 sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
@@ -607,7 +607,7 @@ sarvathā kuśalam.
 
 ![](/images/uebung005.webp)
 
-Abb.: ⟪देवतान्नपूर्णा⟫
+ስዕሊ: ⟪देवतान्नपूर्णा⟫
 
 (የስዕል ምንጭ፡ [ዝርዝሮች](/licenses#uebung005))
 

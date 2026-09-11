@@ -155,7 +155,6 @@ Fromme hinduer går til templet for at opnå synet af Gud gennem et symbol eller
 **Taddhita-efiksene -tva n. og -tā f. danner abstrakte substantiver fra navneord. Formen af det underliggende nominale stamme forbliver uændret.**
 :::
 **Eksempler:**
-:::
 **Eksempler:**
 
 | Nominalstamme:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Betydning |

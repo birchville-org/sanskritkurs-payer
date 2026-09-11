@@ -11,6 +11,7 @@ last_reconstructed: 2026-05-15
 الف) مفرد و جمع حالت‌های داتیو (و ابلاقی/جداکننده) را بسازید و معنی بنیاد اسمی را بیان کنید:
 
 ::: grammar-box
+
 | Wort | Bedeutung | Dativ Sg. | Dativ Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. ⟪श्रव⟫ | Hören | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -42,8 +43,10 @@ last_reconstructed: 2026-05-15
 | ⟪२७⟫. ⟪पूजा⟫ | Verehrung | ⟪पूजायै⟫ | ⟪पूजाभ्यः⟫ |
 | ⟪२८⟫. ⟪दासी⟫ | Dienerin | ⟪दास्यै⟫ | ⟪दासीभ्यः⟫ |
 | ⟪२९⟫. ⟪गुरु⟫ | Meister | ⟪गुरवे⟫ (m) / ⟪गुर्व्यै⟫ (f) | ⟪गुरुभ्यः⟫ / ⟪गुर्वीभ्यः⟫ |
+
 :::
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+
+ب) ترجمه کنید و ترکیبات را در سانسکریت تجزیه کنید:
 
 ⟪१⟫. **⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विश⟫ati ⟪॥१॥⟫**
 (⟪देवस्य⟫ ⟪प्रतिमाया⟫ ⟪दर्शनाय⟫ ⟪।⟫ ⟪गर्भ⟫ ⟪एव⟫ ⟪गृहम्⟫)
@@ -80,10 +83,14 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 برای مردن، موجودات زاده می‌شوند.
 
 ::: media
+
 ![](/images/uebung037.webp)
+
 تصویر: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (منبع تصویر: [جزئیات](/licenses#uebung037))
+
 :::
+
 ---
 
 ## Syntaktische Variationen
@@ -132,7 +139,7 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 ۸. یک جنگجو با (جنگجوی دیگر) برابری می‌کند.
 **⟪शक्तो⟫ ⟪योधो⟫ ⟪योधाय⟫ ⟪॥⟫**
 
-9\. Selbst Viṣṇu übertrifft Śiva nicht.
+۹. حتی ویشنو بر شیوا برتری ندارد.
 **⟪विष्णुरपि⟫ ⟪शिवाय⟫ ⟪न⟫ ⟪प्रभवति⟫ ⟪॥⟫**
 
 ۱۰. پس از آنکه به سه حکیم تعظیم کردم... او در برابر ناراسیما تعظیم می‌کند.
@@ -154,7 +161,10 @@ B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
 ::: media
+
 ![](/images/uebung038.webp)
+
 تصویر: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (منبع تصویر: [جزئیات](/licenses#uebung038))
+
 :::

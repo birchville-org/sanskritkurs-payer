@@ -1,5 +1,5 @@
 ---
-title: "Lektion 31"
+title: "31. õppetund"
 lesson_id: 31
 status: stable
 
@@ -233,8 +233,8 @@ davon:
 
 Joonis: ⟪प्रज्ञापारमिता⟫
 
-Aus einem Prajñāpāramitā-Manuskript.
-(Pildi allikas: [Details](/et/licenses#lekt3103))
+Prajñāpāramitā käsikirjast.
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt3103))
 
 :::
 
@@ -267,8 +267,8 @@ Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 
 Joonis: ⟪राहुलो जातो बन्धनं जातम्⟫
 
-Rāhula, der Sohn Buddhas, Laos.
-(Pildi allikas: [Details](/et/licenses#lekt3104))
+Rāhula, Buddha poeg, Laos.
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt3104))
 
 :::
 

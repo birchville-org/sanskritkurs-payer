@@ -73,7 +73,6 @@ Examples:
 No fixed rules can be established for the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
 **Verbs with prefixes form the infinitive in the same way as simple roots.**
-:::
 Examples:
 
 ::: indent

@@ -98,7 +98,7 @@ last_reconstructed: 2026-05-07
 
 ![](/images/lekt0801.webp)
 
-Abb.: Maa Batakali Darshan, Puri, Orissa
+ስዕሊ: Maa Batakali Darshan, Puri, Orissa
 
 (Image source: [Details](/gez/licenses#lekt0801))
 
@@ -246,7 +246,7 @@ Devout Hindus go to the temple to obtain the sight of God through a symbol or a 
 
 ![](/images/lekt0809.jpg)
 
-Abb.: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ ስታል
+ስዕሊ: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ ስታል
 
 (ምንጪ ኣውደ-ስእሊ: [Details](/gez/licenses#lekt0809))
 
@@ -256,7 +256,7 @@ Abb.: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ �
 
 ![](/images/lekt0810.jpg)
 
-Abb.: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ ባታክ (ሱማትራ)
+ስዕሊ: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ ባታክ (ሱማትራ)
 
 (ምንጪ ኣውደ-ስእሊ: [Details](/gez/licenses#lekt0809))
 
@@ -269,7 +269,7 @@ Abb.: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ �
 
 ## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+**ሀ) እሙን አርእስተ ስም በነገር ሥር ወበነገር ጸጋይ ወበጾታ ወበትርጓሜ አብራህ:**
 1. lobha
 2. rakṣa
 3. śrotra
@@ -301,7 +301,7 @@ Abb.: **likh** (⟪लिख्⟫) : ናይ ምጽሓፍ መንገዲ ካብ �
 
 **ለ) ረቂቃዊ ስሞችን ከዚህ በፊት ከተማሩት ስሞች ሁሉ ይፍጠሩ እና ትርጉማቸውን ያስቡ (በቃል)።**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
+**ሐ) በነገር ርእስ ወበነገር ብዙኅ አግብእ:**
 - kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 **መ) ተርጉም:**

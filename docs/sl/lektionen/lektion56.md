@@ -13,6 +13,7 @@ status: stable
 ## 56.1. Rdeči aorist
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 **Augment + rdeči koren + a + tematska sekundarna končnica**
@@ -22,7 +23,9 @@ status: stable
 **Končno -i, -u se nadomesti z -iy oziroma -uv.**
 
 **Končno -ā (za -e) odpade.**
+
 :::
+
 Paradigma:
 
 ⟪श्रि⟫ 1U "odpraviti se k, nasloniti se na"
@@ -43,13 +46,17 @@ To obliko aorista tvorijo med drugim:
 *   ⟪वच्⟩ 2P "reči": ⟪अवोचत्⟩ (a-va + uc-a-t)
 
 ::: grammar-box
+
 **Vsi koreni 10. razreda prezenta ter vsi kauzativi vedno tvorijo rdeči aorist.**
+
 :::
+
 ### 56.1.1. Oblikovanje aorista kauzativov in korenov 10. razreda prezenta
 
 Slog osnove:
 
 ::: grammar-box
+
 **Izhodišče je oblika prezentske osnove oziroma kauzativne osnove, ki jo ta ima po izpadu tvorbenega elementa -aya- (torej osnova na -p pri kauzativih na -paya-).**
 
 **Samoglasnik tega tako imenovanega sloga osnove se v aoristu določa po naslednjih pravilih:**
@@ -67,12 +74,15 @@ Slog osnove:
 
 *   **ar, ār, īr, al, ki neposredno predhajajo končnemu soglasniku korenske zloge in nadomeščata ṛ, ṝ, ḷ, ostane izbirno nespremenjen ali se nadomesti z ṛ oziroma ḷ:**  
 ⟪कॢप्⟫ 1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1O/6N: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
+
 :::
+
 Samoglasnik ponavljajoče zloge:
 
 Ko so pravila, ki smo jih ravno navedli, uporabljena na korensko zlogo, je treba upoštevati naslednja pravila za samoglasnik ponavljajoče zloge:
 
 ::: grammar-box
+
 **Izhodišče je običajni samoglasnik ponavljanja, to je**
 
 *   a za a, ā, ṛ,  ṝ, ḷ
@@ -93,40 +103,57 @@ Posebnosti določenih korenov pri Kielhornu, Gramatika § 435c ff.
 Samoglasnik - prvi naslednji soglasnik (oziroma njegov v ponavljajoči slogi zahtevani predstavnik) - **i** \- vsi soglasniki
 
 :::
+
 ::: indent
+
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, ponavljajoča sloga ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Kaus. ⟪एषयति⟫, ponavljajoča sloga ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, ponavljajoča sloga ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+
 :::
+
 *   Če se za začetni samoglasnik pojavi soglasniška skupina, ki se začne z nazalom ali d ali r, se drugi soglasnik skupine (ali njegov nadomestek) vstavi z i po naslednjem vzorcu:
 
 Samoglasnik - prvi soglasnik - drugi soglasnik (nadomestek) - i - drugi soglasnik
-:::
+
+
 *   **Če začetnemu samoglasniku sledi soglasniška skupina, ki se začne z nosnikom, d ali r, se drugi soglasnik skupine (ali njegov nadomestek) vstavi z i po naslednji shemi:**
 
 
 Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
 
 ::: indent
+
 ⟪अञ्ज्⟫ 7P: kavzativ ⟪अञ्जयति⟫, redupliciran zlog ⟪अञ्जिज्⟫, aorist ⟪आञ्जिजत् ऋ⟫ 1P: kavzativ ⟪अर्पयति⟫, redupliciran zlog ⟪अर्पिप्⟫, aorist ⟪आर्पिपत् अर्ह्⟫ 1P: kavzativ ⟪अर्हयति⟫, redupliciran zlog ⟪अर्जिह्⟫, aorist ⟪आर्जिहत्⟫
+
 :::
+
 Ta oblika reduplikacije izpeljanih korenov (kavzativov), ki se začnejo z samoglasnikom, se imenuje "atiška reduplikacija".
 ## 56.2. Injunktiv
 
 ::: grammar-box
+
 **Injunktiv je augmentna oblika augmentnih oblikov, to pomeni, da so njegove oblike enake augmentnim oblikam indikativa imperfekta ali aorista. Domača indijska gramatika ni Injunktiva priznala kot posebne gramatične kategorije.**
+
 :::
-Gemäss der grundlegenden Arbeit:
+
+Glede na temeljno delo:
 
 ::: media
+
 ![](/images/lekt5601.jpg)
+
 Slika:
 Profesor primerjalnega jezikoslovja, Univerza Erlangen-Nürnberg (1955 - 1983)
 (Vir slike: [Details](/sl/licenses#lekt5601))
+
 :::
 
 ::: indent
+
 Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+
 :::
-hat der Injunktiv im Veda folgende Eigenschaften:
+
+ima injunktiv v Vedah naslednje značilnosti:
 
 *   ni poročevalen, temveč omenjajoč
 *   je brez časovnih stopenj
@@ -134,37 +161,50 @@ hat der Injunktiv im Veda folgende Eigenschaften:
 *   injunktiv aorista označuje dovršni vid.
 
 ::: grammar-box
+
 **V postvedski sanskrtu se injunktiv pojavlja le še v povezavi s prepovednim delcem ⟪मा⟫ (+ injunktiv aorista) oziroma ⟪मा स्म⟫ (+ injunktiv prezenta ali aorista); pri tem se različni vid večinoma ne uveljavlja več.**
 
 (mit Aspekt
 
-*   würde ⟪मा⟫ + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!"
-*   bi ⟪मा स्म⟫ + Injunktiv Präsens označeval Inhibitivni stavek, to pomeni, da je prepovedana že potekajoča dejanja ali že obstoječe stanje: "Prenehaj, ...!", "Odpovej se ...!"
+*   bi ⟪मा⟫ + injunktiv aorist označeval prepovedni stavek: "Ne začni ...!", "Ne delaj ...!"
+*   bi ⟪मा स्म⟫ + injunktiv prezent označeval inhibicijski stavek, kar pomeni, da je prepovedano že potekajoče dejanje ali že obstoječe stanje: "Nehaj, ...!", "Odpovej se ...!"
 
 Vendar se ta razlika v klasičnem sanskrtu večinoma ne dela.)
+
 :::
+
 ## 56.3. Prepovedni stavek
 
 ::: grammar-box
+
 **Hauptform:**
 
 **⟪मा⟫ + Injunktiv Aorist**
 
 **⟪मा स्म⟫ + injunktiv aorista ali injunktiv prezenta**
+
 :::
+
 Primeri:
 
 ::: indent
+
 ⟪मा कर्महेतुर्भूः⟫ "Ne postani tisti, ki ga motivira sad dejanja!" (injunktiv aorista) (⟪Bhagavadgita⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Ne postani nemoški!" (injunktiv aorista) (⟪Bhagavadgita⟫ 2,3a)
+
 :::
+
 ::: media
+
 ![](/images/lekt5602.webp)
+
 Slika: ⟪क्लैब्यं मा स्म गमः⟫
 Plakat (Ernesto Che Guevara) politične stranke v Vallachiri (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Grobi prevod napisanega bi bil: Mučeništvo je fascinantna izkušnja za revolucionarja. In zastrašujoče zatočišče za strahopetca. Che ni vzor za strahopetce."
 (Vir slike: [Details](/sl/licenses#lekt5602))
+
 :::
+
 Oba primera imata prepovedni pomen. Injunktiv aorista je tukaj torej uporabljen v svojem prvotnem pomenu. (Prevlada injunktiva aorista v takšnih stavkih se morda razlaga s prevlado prepovednih stavkov nad zaviralnimi stavki, vendar bi bilo to vprašanje za klasični sanskrt še treba raziskati.)
 
 *   **⟪मा⟫ + (⟪स्म⟫) + imperativ (redko)**
@@ -177,28 +217,40 @@ npr. ⟪अलं विषादेन⟫ "Dovolj obupa! = Prenehaj biti v obup
 
 Poleg tega obstajajo še druge, redkejše oblike zapovednikov z negativnim pomenom, glej npr.
 
-:::
+
 ::: indent
+
 Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+
 :::
+
 ::: media
+
 ![](/images/lekt5603.webp)
+
 Slika: ⟪अलं विषादेन⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt5603))
+
 :::
+
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
+
 **⟪स्म⟫ poudarja: "res, seveda, gotovo, pravzaprav"**
 
 **Poleg tega je naslednja konstrukcija zelo pomembna:**
 
 :::
+
 ::: indent
+
 ⟪स्म⟫ + indikativ prezenta služi za pripovedovanje v preteklosti, zlasti za označevanje trajanja v preteklosti:
 
 npr. ⟪वसति स्म⟫ "nekoč je bival" (⟪स्म⟫ lahko včasih tudi manjka).
+
 :::
+
 ## 56.5. Vaje
 
 A) Določite in prevedite brez pomožnih sredstev (!) naslednje oblike:

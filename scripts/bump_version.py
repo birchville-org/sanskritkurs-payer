@@ -111,6 +111,23 @@ def main():
             print(f"  - {err}")
         sys.exit(1)
         
+    if not check_only:
+        try:
+            sys.path.insert(0, str(ROOT / 'scripts'))
+            from translation_qa import get_file_hash, get_stored_hashes, save_stored_hashes
+            stored = get_stored_hashes()
+            src_idx = ROOT / 'docs' / 'index.md'
+            src_set = ROOT / 'docs' / 'settings.md'
+            if src_idx.exists() and src_set.exists():
+                src_idx_h = get_file_hash(src_idx)
+                src_set_h = get_file_hash(src_set)
+                for lang in stored.keys():
+                    stored[lang]['index.md'] = src_idx_h
+                    stored[lang]['settings.md'] = src_set_h
+                save_stored_hashes(stored)
+        except Exception as e:
+            print(f"  ⚠ Warning: could not update master_hashes.json: {e}")
+
     print(f"✓ All {len(index_files)} index.md and {len(settings_files)} settings.md files are synchronized to v{version}.")
 
 if __name__ == '__main__':

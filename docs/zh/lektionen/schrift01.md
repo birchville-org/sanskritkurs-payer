@@ -30,7 +30,7 @@
 
 ## 練習
 
-Schreiben Sie in Devanāgarī:
+請用天城體書寫：
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā p�
 額外閱讀練習：
 
 ⟪पिता⟫ 父親，⟪कपि⟫ 猴子，⟪कृत⟫ 已做， ⟪टीका⟫ 註疏，⟪तत्⟫ 這，⟪तट⟫ 岸邊，⟪पत्⟫ 射去，⟪पट⟫ 織物，⟪काच⟫ 玻璃， ⟪काकुत्⟫ 上顎，⟪चित्⟫ 感知，⟪पृच्⟫ 混合， ⟪पोटक⟫ 僕人，⟪चेतु⟫ 意圖，⟪तौतातित⟫ 庫瑪拉派（Mīmāṃsā）的追隨者，⟪तूत⟫ 桑樹，⟪पीत⟫ 已飲用， ⟪पीति⟫ 飲料，⟪कॢप्⟫ 適合，⟪कृपते⟫ 他悲嘆，⟪पुटी⟫ 皺紋，⟪चापि⟫ 同樣的，⟪तोक⟫ 後代，⟪तृपत्⟫ 飽足，⟪पॄ⟫ 填滿，⟪कृकाटी⟫ 頸椎關節，⟪पूपौ⟫ 兩個糕餅，⟪पैतृकी⟫ 父親的（陰性），⟪कौट⟫ 欺騙性的，⟪कच⟫ 頭髮，⟪कुतपे⟫ 在羊毛氈上，⟪कुचौ⟫ 胸部，⟪चकिता⟫ 驚恐的（陰性）
-
-

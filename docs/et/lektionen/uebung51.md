@@ -58,7 +58,7 @@ Joonis: Jäger
 
 ---
 
-## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
+## ⟪४⟫. ⟪भानुचन्द्र⟫ (⟪१६⟫. saj.) kommentaar
 
 Kommentaar eelmisele lõigule ⟪कादम्बरी⟫:
 

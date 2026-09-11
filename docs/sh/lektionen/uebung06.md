@@ -61,7 +61,7 @@ dhenavo viśanti. dhenavo bhavanti.
 
 ⟪धेनवो विशन्ति । धेनवो भवन्ति ॥⟫
 
-C) Übersetzen Sie ins Sanskrit:
+C) Prevedite na sanskrit:
 
 1\. On štuje žrtvom. (Žrtveni svećenik za gospodara žrtve) (Kielhorn)
 
@@ -81,19 +81,19 @@ rāmo nayati.
 
 ⟪रामों नयति ।⟫
 
-4\. Śudras sind verwirrt.
+4\. Šudre su zbunjene.
 
 śūdrā muhyanti.
 
 ⟪शूद्रा मुह्यन्ति ।⟫
 
-5\. Die Kṣatriyafrauen treten ein.
+5\. Kšatrijske žene ulaze.
 
 kṣatriyā viśanti.
 
 ⟪क्षत्रिया विशन्ति ।⟫
 
-6\. Der HERR lässt emanieren.
+6\. GOSPODIN emanira.
 
 īśvaraḥ sṛjati.
 
@@ -123,7 +123,7 @@ sādhavo nayanti.
 
 ⟪साधवो नयन्ति ।⟫
 
-11\. Sie erinnern sich.
+11\. Oni se sećaju.
 
 smaranti.
 
@@ -135,17 +135,22 @@ kā nṛtyati?
 
 ⟪का नृत्यति ।⟫
 
-13\. Die (erwähnte) Brahmanin tanzt.
+13\. (Spomenuta) bramanka pleše.
 
 sā brāhmaṇī nṛtyati.
 
 ⟪सा ब्राह्मणी नृत्यति ॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Abb.: ⟪का नृत्यति ।⟫
+
 (Izvor slike: [Details](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Vježba za ponavljanje: Lekcija 6 (Kielhorn)
@@ -599,7 +604,11 @@ sarvathā kuśalam.
 ⟪सर्वथा कुशलम् ॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Abb.: ⟪देवतान्नपूर्णा⟫
+
 (Izvor slike: [Details](/licenses#uebung005))
+
 :::

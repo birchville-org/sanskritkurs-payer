@@ -30,7 +30,7 @@
 
 ## பயிற்சி
 
-Schreiben Sie in Devanāgarī:
+தேவநாகரியில் எழுதுங்கள்:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

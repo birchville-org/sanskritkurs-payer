@@ -1,5 +1,5 @@
 ---
-title: "Lektion 15"
+title: "Õppetund 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
@@ -248,7 +248,7 @@ e.g.
 *   ⟪गतिसमासः⟫ : with preposition in the first member
 *   ⟪प्रथमातत्पुरुषः⟫ etc. (see above)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. ⟪कर्मधारय⟫ liigitus
 
 1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : eesliige on omadussõna (⟪विशेषण⟫)
 2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : mõlemad liikmed on omadussõnad, siia kuuluvad ka omadussõnad, mis väljendavad ajalist kulgu: "esimene vannitatud, siis salvitud"
@@ -265,9 +265,9 @@ e.g.
 
 ⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫ : või (järelasendis)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫ : või (eelasendis)
 
 ⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 

@@ -31,5 +31,5 @@ features:
 **კონტაქტი და მონაწილეობა**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 **რედაქტორები**: ონლაინ რედაქტორი ხელმისაწვდომია [QA](/qa_viewer.html){target="_blank"}-ს საშუალებით (მხოლოდ წაკითხვა, დაწერისთვის ლოგინი დაცულია)
-**მიმდინარე ვერსია**: v1.8.3
+**მიმდინარე ვერსია**: v1.8.4
 :::

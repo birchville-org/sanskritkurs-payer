@@ -57,7 +57,7 @@ Ngifuna ukulondolozwa.
 Makajabule.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Wir wollen rufen.
+Sifuna ukubiza.
 
 ---
 
@@ -72,7 +72,7 @@ Ngifuna ukulondolozwa.
 Makajabule.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Wir wollen rufen.
+Sifuna ukubiza.
 
 ⟪४⟫. **⟪तुभ्यं⟫ ⟪नमानि⟫ ⟪।⟫** (Noma: **⟪नमानि⟫ ⟪ते⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**)
 Ngifuna ukukhothama kuwe.
@@ -114,7 +114,7 @@ Amadodana makazalelwe mina!
 Ich will dir mein Haus zeigen.
 
 ⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
-Gehe von mir weg!
+Hamba kimi!
 
 ⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
 Makakhululwe!

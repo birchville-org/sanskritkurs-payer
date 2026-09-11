@@ -40,7 +40,7 @@ status: stable
 
 ![](/images/lekt5402.webp)
 
-Abb.: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
+ስዕሊ: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 
 (ምንጭ: [Details](/gez/licenses#lekt5402))
 
@@ -128,7 +128,7 @@ c) ⟪उपजाति⟫
 
 ::: indent
 
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"እምብአዴሁ ኢንደራዋጅራ ውእቱ፡ እመሰ ኵሉ ጳዳታት ታ ታ ጃ ጋ ጋ ውእቱ።
 
 :::
 
@@ -153,7 +153,7 @@ c) ⟪उपजाति⟫
 
 ## 54.4. Übung zur Metrik
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+በብሃገቫድጊታ II ትሪቡጡብሃት ወጃገቲያት ምረጽ።
 
 የንባብ ምሳሌ: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- የተደረሰበት ቀን 2009-01-28
 
@@ -181,25 +181,25 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
     *   54.6. -siṣ-ኣኦሪስት፦ ኣውግመንት + ስርው + **siṣ** + ካልኣዊ ፍጻሜ
     *   54.7. -sa-ኣኦሪስት፦ ኣውግመንት + ስርው + **s** + **a** + ካልኣዊ ፍጻሜ
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen → ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ ኣብ ዝምልከት ርአ
+ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ ኣብ ዝምልከት ርአ
 
 :::
 
-## 54.6. Wurzelaorist → ## 54.6. ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ
+## 54.6. ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ
 
 ::: grammar-box
 
-**Bildung:** → **ግንባቢያት:**
+**ግንባቢያት:**
 
-**Augment + Wurzel + Sekundärendung** → **ኣውጅመንት + ስርዓተ-ስራሕ + ካልኣይ መወዳእታ**
+**ኣውጅመንት + ስርዓተ-ስራሕ + ካልኣይ መወዳእታ**
 
 :::
 
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. → መወዳእታ ናይ 3.pl.P -ur እዩ። Ātmanepada ኣይተጠቅመን።
+መወዳእታ ናይ 3.pl.P -ur እዩ። Ātmanepada ኣይተጠቅመን።
 
-Beispiel: → ኣብነት፦
+ኣብነት፦
 
-⟪पा⟫ 1P "trinken" → ⟪पा⟫ 1P "ምስሓብ"
+⟪पा⟫ 1P "ምስሓብ"
 
 ::: grammar-box
 
@@ -211,22 +211,22 @@ Beispiel: → ኣብነት፦
 
 :::
 
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: → ካብ 12 ስርዓተ-ስራሕ ጥራይ እዩ ዝፍጠር፦
+ካብ 12 ስርዓተ-ስራሕ ጥራይ እዩ ዝፍጠር፦
 
-1.  ⟪गा⟫ 3 "gehen" → 1. ⟪गा⟫ 3 "ምኻድ"
-2.  ⟪घ्रा⟫ 1P "riechen" → 2. ⟪घ्रा⟫ 1P "ምስሓብ"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫) → 3. ⟪छो⟫ 6 "ምቁራጽ" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben" → 4. ⟪दा⟫ 3U "ምሃብ"
-5.  ⟪दो⟫   1, 4 "schneiden" → 5. ⟪दो⟫   1, 4 "ምቁራጽ"
-6.  ⟪धा⟫ 3U "setzen" → 6. ⟪धा⟫ 3U "ምቕማጥ"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫) → 7. ⟪धे⟫ 1 "ምስሓብ" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken" → 8. ⟪पा⟫ 1P "ምስሓብ"
-9.  ⟪शो⟫ 4P "schärfen" → 9. ⟪शो⟫ 4P "ምቕላው"
-10.  ⟪सो⟫ "beendigen" → 10. ⟪सो⟫ "ምዕራይ"
-11.  ⟪स्था⟫ 1P "stehen" → 11. ⟪स्था⟫ 1P "ምዕሩይ"
-12.  ⟪भू⟫ 1P "sein → 12. ⟪भू⟫ 1P "ምዃን
+1. ⟪गा⟫ 3 "ምኻድ"
+2. ⟪घ्रा⟫ 1P "ምስሓብ"
+3. ⟪छो⟫ 6 "ምቁራጽ" (⟪अच्छात्⟫)
+4. ⟪दा⟫ 3U "ምሃብ"
+5. ⟪दो⟫   1, 4 "ምቁራጽ"
+6. ⟪धा⟫ 3U "ምቕማጥ"
+7. ⟪धे⟫ 1 "ምስሓብ" (⟪अधात्⟫)
+8. ⟪पा⟫ 1P "ምስሓብ"
+9. ⟪शो⟫ 4P "ምቕላው"
+10. ⟪सो⟫ "ምዕራይ"
+11. ⟪स्था⟫ 1P "ምዕሩይ"
+12. ⟪भू⟫ 1P "ምዃን
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: → ናብ ⟪भू⟫ 1P እዩ ዝፍጠር፦
+ናብ ⟪भू⟫ 1P እዩ ዝፍጠር፦
 
 ::: grammar-box
 
@@ -238,24 +238,24 @@ Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: → ናብ ⟪भू⟫ 1P
 
 :::
 
-### 54.6.1. Der Aorist der 3.sg.Passiv → ### 54.6.1. ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ
+### 54.6.1. ስርዓተ-ግንባቢያት ንምክፍፋል ስርዓተ-ስራሕ
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. → ሓደ ካብ ዝተፈላለየ መልክዕ እዩ ዝፍጠር። ካብ ኩሉ ስርዓተ-ስራሕ ይፍጠር።
+ሓደ ካብ ዝተፈላለየ መልክዕ እዩ ዝፍጠር። ካብ ኩሉ ስርዓተ-ስራሕ ይፍጠር።
 
 ::: grammar-box
 
-**Bildung:** → **ግንባቢያት:**
+**ግንባቢያት:**
 
-**Augment + Wurzel + i** → **ኣውጅመንት + ስርዓተ-ስራሕ + i**
+**ኣውጅመንት + ስርዓተ-ስራሕ + i**
 
-**Die Wurzel hat folgende Gestalt:** → **ስርዓተ-ስራሕ ከምዚ ይመስል፦**
+**ስርዓተ-ስራሕ ከምዚ ይመስል፦**
 
-Hochstufe: → ላዕለዋይ ደረጃ፦
+ላዕለዋይ ደረጃ፦
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  → *   ስርዓተ-ስራሕ ኣብ ቅድሚ ሓደ ኮንሶናንት ዘለዎም (ካብ a ወጻኢ) ከምኡውን ⟪जन्⟫ ከምኡውን መብዛሕትኦም ስርዓተ-ስራሕ ኣብ -am ዝውድእ
-Beispiele:  →     ኣብነት፦
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  →     ⟪भिद्⟫ 7U: ⟪አበዲ⟫ "እዩ ተቖሪጹ"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen" →     ⟪ቱድ⟫ 6U: ⟪አቶዲ⟫ "እዩ ተገላቢጡ"
+*   ስርዓተ-ስራሕ ኣብ ቅድሚ ሓደ ኮንሶናንት ዘለዎም (ካብ a ወጻኢ) ከምኡውን ⟪जन्⟫ ከምኡውን መብዛሕትኦም ስርዓተ-ስራሕ ኣብ -am ዝውድእ
+ኣብነት፦
+⟪भिद्⟫ 7U: ⟪አበዲ⟫ "እዩ ተቖሪጹ"
+⟪ቱድ⟫ 6U: ⟪አቶዲ⟫ "እዩ ተገላቢጡ"
 
 ደረጃ ማዘናን:
 

@@ -65,10 +65,14 @@ Ama-Buddha nama-Arhants akhululwe ebuhlungu. Ngoba bafike ekuboneni okukhulula.
 Ngokukhohlisa, ukuphikisana nokungaqondi, abantu baphela. Uma isikhathi sesifikile, bayawela e-injini.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Isithombe: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Umthombo wesithombe: [Imininingwane](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 I-Kṣatriya ikhipha abaholi abakhulu emadolobheni amakhulu ukuze ilwe nedolobha lamaphandla.
 
@@ -88,7 +92,7 @@ Ngaphandle kuka-Rāma.
 Ukufundiswa kwesikhulu siyakhulisa ubuqili, hhayi ukufundiswa kwesidalwa esingcolile.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+URāma ulindele uKṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Kuyahamba kalula (ngokuhle).
@@ -113,10 +117,14 @@ Uma umuntu enika isinqumo esingalungile ngenxa yokuziphakamisa, ukukhohlisa, uku
 Izindawo zokuhlungwa zivelapha ngenxa yobubi, ububi buvelapha ngokuntula, ukuntula kuvelapha ngokunganiki.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Isithombe: ⟪भवन्ति नरकाः पापात्⟫
 (Umthombo wesithombe: [Imininingwane](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Umncintiswa ukuthi uyaboshwa ngokukhokhiswa noma ngokukhululwa. Kodwa-ke, uma inkosi ingamkhokhisanga, ngakho-ke uyathatha isono somncintiswa.
 
@@ -128,9 +136,13 @@ Umncintiswa ukuthi uyaboshwa ngokukhokhiswa noma ngokukhululwa. Kodwa-ke, uma in
 Ubuso buhlekisa ngoba bukhuphula amabele, izilwane, igolide, izinto zensimbi kanye nomsebenzi.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Isithombe: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Umthombo wesithombe: [Imininingwane](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Ngakho-ke, izifundo ezintathu zisebenzisa isandla (daṇḍa) njengesisekelo. Isandla, esiyisisekelo sokuziphatha okuhle, sinikeza izinto eziphilayo ukuthola nokunamandla. Ukuziphatha okuhle kufundiswa noma kuzalwa. Umsebenzi ufundisa into efanelekile, hhayi engafanelekile. Ukwazi ufundisa ingqondo eyafezeka ngokulalela, ukuzwa, ukubamba, ukuqonda nokucabanga ukuze kufike ekuqinisweni, hhayi enye. ... Ngokwengxenye, ukuzwa kuvela ekwazini, ekwazini kuvela emsebenzini, emsebenzini kuvela ekuzinzeni; ngakho-ke izifundo zihambisana nomgomo wazo. Ukwazi nokuziphatha okuhle yizizathu zokuphumelela emzimbeni. Lokhu kuyadingeka ukuze kususwe ukuzithandela, ukuphikisana, ukukhula, ukuzithandela, ukuphazamiseka kanye nokukhathazeka.

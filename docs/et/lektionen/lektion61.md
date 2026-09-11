@@ -282,7 +282,7 @@ Paradigm:
 
 **Iga ühesilbilise, konsonandiga algava esimese üheksa oleviku klassi juurest saab moodustada intensiivi (⟪चर्करीतम्⟫); see tähendab: väheste eranditega ei saa intensiivi moodustada kahesilbilistest juurtest (nt ⟪जागृ⟫), vokaaliga algavatest juurtest ja 10. oleviku klassi juurtest (⟪चुरादिगण⟫).**
 
-**Das Intensivum bedeutet:**
+**Intensiiv tähendab:**
 
 *   **et isik või asi teeb või kannatab korduvalt seda, mida juur väljendab**
 ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ta teeb korduvalt"
@@ -294,9 +294,9 @@ Paradigm:
 *   **liikumist väljendavate juurte puhul tähendab intensiiv kõverat liikumist:**
 ⟪व्रज्⟫ 1P: ⟪वव्रज्यते⟫ "ta kõnnib kõveralt" (MITTE: "ta kõnnib sageli")
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**  
-⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht"
+*   **mõnede tüvede puhul (loetelu: Kielhorn, Grammatik § 458b) tähendab intensiiv laitust:**
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "ta lõikab halvasti"
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "ta istub halvasti"
 
 :::
 
@@ -313,7 +313,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ::: grammar-box
 
-**Bildung des Intensivums:**
+**Intensiivi moodustamine:**
 
 **Intensiivi moodustamiseks on kaks tüüpi:**
 
@@ -557,7 +557,6 @@ Fig.: ⟪बालौ शिवं नमस्यतः ॥⟫
 
 ### 61.4.3. Moodustamine sufiksiga -kāmya, Parasmaipada
 
-:::
 
 ### 61.4.3. Moodustamine sufiksiga -kāmya, Parasmaipada
 
@@ -620,7 +619,7 @@ Karli
 
 :::
 
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### 61.4.5. Moodustamine sufiksiga -ya, Ātmanepada
 
 ::: grammar-box
 
@@ -682,13 +681,13 @@ Joonis: ⟪श्वानौ शब्दायेते⟫
 
 :::
 
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. Moodustamine sufiksiga -aya, -āpaya
 
 ::: grammar-box
 
 **Verschiedene Bedeutungen.**
 
-**Konjugiert wie Kausativa.**
+**Pööratakse nagu kausatiivid.**
 
 :::
 
@@ -727,7 +726,7 @@ Joonis:
 
 :::
 
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. Benediktiiv (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
 
@@ -797,7 +796,7 @@ Santa Cruz Basilica, Kochi = കൊച്ചി
 
 :::
 
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 61.6. Konditsionaal (⟪ऌङ्⟫)
 
 ::: grammar-box
 
@@ -921,7 +920,7 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+Ülejäänud nagu maskuliin
 
 :::
 
@@ -999,7 +998,7 @@ Ofterdingen, 2009-03-09
 
 sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+SANSKRITI KURSUSE LÕPP
 
 :::
 

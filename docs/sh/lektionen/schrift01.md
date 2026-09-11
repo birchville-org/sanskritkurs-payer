@@ -30,7 +30,7 @@ Pri pisanju svako slovo, uključujući vodoravnu crtu na gornjoj liniji, dovrša
 
 ## Vježba
 
-Schreiben Sie in Devanāgarī:
+Napišite na devanagariju:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Pročitajte i transliterirajte:
 Additional reading exercise:
 
 ⟪पिता⟫ father, ⟪कपि⟫ monkey, ⟪कृत⟫ done,  ⟪टीका⟫ subcommentary, ⟪तत्⟫ this, ⟪तट⟫ shore, ⟪पत्⟫ shoot forth, ⟪पट⟫ fabric, ⟪काच⟫ glass,  ⟪काकुत्⟫ palate, ⟪चित्⟫ perceive, ⟪पृच्⟫ mix,  ⟪पोटक⟫ servant, ⟪चेतु⟫ intention, ⟪तौतातित⟫ follower of Kumārila (Mīmāṃsā), ⟪तूत⟫ mulberry tree, ⟪पीत⟫ drunk,  ⟪पीति⟫ drink, ⟪कॢप्⟫  fit, ⟪कृपते⟫ he laments, ⟪पुटी⟫ fold, ⟪चापि⟫ likewise, ⟪तोक⟫ offspring, ⟪तृपत्⟫ full, ⟪पॄ⟫ fill, ⟪कृकाटी⟫ neck joint, ⟪पूपौ⟫ two cakes, ⟪पैतृकी⟫ paternal (fem.), ⟪कौट⟫ deceitful, ⟪कच⟫ head hair, ⟪कुतपे⟫ on the goat-hair blanket, ⟪कुचौ⟫ bosom, ⟪चकिता⟫ frightened (fem.)
-
-

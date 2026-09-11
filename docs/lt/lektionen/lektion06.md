@@ -13,12 +13,15 @@ status: stable
 ## 6.1. Veikiamasis sakinys
 
 ::: grammar-box
+
 **Schema I: Veikiamosios formos**
 pvz. **yajati** = ⟪यजति⟫ = „Jis (ji, jis) garbina aukojimu“, „Jis (ji, jis) aukoja“
 
 **Schema II: Veikėjas (kartṛ m. = ⟪कर्तृ⟫) – Veikiamosios formos**
 pvz. **rāmo yajati** = ⟪रामो यजति⟫ = „Rāma garbina aukojimu“, „Rāma aukoja“
+
 :::
+
 Jei veikėjas (**kartṛ** m. = ⟪कर्तृ⟫) yra paminėtas veikiančiajame garsme, kuris nėra pasyvus, tai veikėjas yra **nominatyve** (pirmasis linksnis, prathamā = ⟪प्रथमा⟫). Skaičiumi (skaičius, vacana n. = ⟪वचन⟫) veikėjas ir veiksmažodžio forma sutampa.
 
 
@@ -59,8 +62,11 @@ Laikai sudaromi iš tempus šaknų: prezentas, aoristas, perfekta, futūras.
 Prezentas yra dabarties laikas, ypač trukmės.
 
 ::: grammar-box
+
 **Indikativo (teiginio) prezentas sudaromas, prie prezento šaknies pridedamos vadinamosios pirminės galūnės.**
+
 :::
+
 Pavyzdžiai:
 
 | Šaknis (dhātu) | Prezentas | 3 asm. sing. Indikativo prezentas Parasmaipada |
@@ -69,15 +75,17 @@ Pavyzdžiai:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = „jis (ji, tai) atsiranda“ |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = „jis (ji, tai) šoka“ |
 
-
-## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "pirmoji (!) asmuo")
+## 6.4. Trečiojo asmens pirminės galūnės (prathama m. = ⟪प्रथम⟫ = "pirmasis (!) asmuo")
 
 ::: grammar-box
+
 | | Vienaskaita (Einzahl):brekavacana n.:br⟪एकवचन⟩ | Daugiskaita (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟩ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟩ | **-ti** :br-⟪ति⟩ | **-nti** :br-⟪न्ति⟩ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟩ | **-te** :br-⟪ते⟩ | **-nte** :br-⟪न्ते⟩ |
+
 :::
+
 Pavyzdys **yaj** = ⟪यज्⟩ = "garbinti aukojimu", "aukoti":
 Esamojo laiko kamienas: **yaja** = ⟪यज⟩
 3. sg. P. **yajati** = ⟪यजति⟩
@@ -91,16 +99,20 @@ Esamojo laiko kamienas: **yaja** = ⟪यज⟩
 ### 6.5.1. 6-osios esamojo laiko klasės veiksmažodžiai (tudādi = ⟪तुदादि⟩ = "tud ir kt.")
 
 ::: grammar-box
+
 **Esamojo laiko kamienas = šaknis žemoje stadijoje (kaip ji pateikiama) + a-**
 
 | Šaknis (dhātu m.):br⟪धातु⟩ | Esamojo laiko kamienas |
 | :--- | :--- |
 | **viś** :br⟪विश्⟩ | **viśa-** :br⟪विश⟩- |
 | **sṛj** :br⟪सृज्⟩ | **sṛja-** :br⟪सृज⟩- |
+
 :::
+
 ### 6.5.2. 1-osios esamojo laiko klasės veiksmažodžiai (bhvādi / bhūvādi = ⟪भ्वादि⟩ / ⟪भूवादि⟩ = "bhū ir kt.")
 
 ::: grammar-box
+
 | Esamojo laiko kamienas = šaknis aukštoje stadijoje (retai pailgintoje) + a- ||||
 | Šaknis (dhātu m.):br⟪धातु⟩ | Aukšta stadija | Aukšta stadija prieš a- | Esamojo laiko kamienas |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +122,16 @@ Esamojo laiko kamienas: **yaja** = ⟪यज⟩
 | **yaj** :br⟪यज्⟩ | **yaj** :br⟪यज्⟩ | **yaj** :br⟪यज्⟩ | **yaja-** :br⟪यज⟩- |
 | Jei balsis yra ilgoje uždaroje skiemenyje, t. y. trumpasis balsis prieš du ar daugiau priebalsių, aukštosios stadijos kūrimas praleidžiamas ||||
 | **nind** :br⟪निन्द्⟩ | **nind** :br⟪निन्द्⟩ | **nind** :br⟪निन्द्⟩ | **ninda-** :br⟪निन्द⟩- |
+
 :::
-#### 6.5.2.1. Wortsandhi von e und o
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
+
+#### 6.5.2.1. Žodžio sandhi e ir o
+Prieš balses žodžio viduje **e** pakeičiama į **ay**, **o** – į **av**.
 
 #### 6.5.2.2. Lautabstufung (Ablaut)
 
 ::: grammar-box
+
 | Silpnoji pakopa | Pilnoji pakopa:brGuṇa m.:br⟪गुण⟫ | Ilgoji pakopa:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +139,13 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. 4-osios esamojo laiko klasės veiksmažodžiai (divādi = ⟪दिवादि⟫ = „div ir t. t.“)
 
 ::: grammar-box
+
 **Esamojo laiko kamienas = šaknis silpnojoje pakopoje (kaip pateikiama) + ya-**
 
 | Šaknis (dhātu m.):br⟪धातु⟫ | Esamojo laiko kamienas |
@@ -136,33 +154,42 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. Teminis balsis, teminės esamojo laiko klasės
 
 ::: grammar-box
+
 Balsis **a** esamojo laiko klasių kamieno darybos priesagose vadinamas **teminiu balsiu**. Todėl esamojo laiko klasės su **a** kamieno darybos priesagoje vadinamos „teminėmis esamojo laiko klasėmis“.
+
 :::
 
 ## 6.6. Šnekamasis sanskritas: Kiti klausimai (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = „Ką veikia N. N.?“
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = „Ką veikia N. N. (daugiskaita)?“
 (karoti, kurvanti prie **kṛ** = ⟪कृ⟫ 8 U: „daryti, veikti“)
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = „Ar jums viskas gerai?, Kaip laikotės?“
 Atsakymas: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = „(Man) visais atžvilgiais sekasi gerai.“
+
 :::
 
 ## 6.7. Žodžių sąrašas
 
 ::: grammar-box
+
 Sanskrite veiksmažodžiai pateikiami **kamienine forma**. Skaičius po kamieno nurodo **deklinacijos klasę**.
 
 **P:** Kamienas yra tik Parasmaipada
 **Ā:** Kamienas yra tik Ātmanepada
 **U:** Ubhayapada („abu žodžių formos“): kamienas vartojamas tiek Parasmaipada, tiek Ātmanepada.
 **():** Skliaustuose nurodyta 3-iojo asmens vienaskaitos dabarties laiko rodinys (laṭ).
+
 :::
+
 **Išmokite šiuos žodžius:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : garbinti aukojant, aukoti
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : tapti, atsirasti, būti
@@ -206,10 +233,13 @@ Sanskrite veiksmažodžiai pateikiami **kamienine forma**. Skaičius po kamieno 
 13. The (mentioned) Brahmin woman dances.
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Image source: Wikipedia, CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. Review Exercise
@@ -284,10 +314,14 @@ Sanskrite veiksmažodžiai pateikiami **kamienine forma**. Skaičius po kamieno 
 3. Mīnākṣī yra deivė.
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī šventykla, Madurai, Tamil Nadu
 (Nuotraukos šaltinis: Wikipedia, viešas naudojimas)
+
 :::
+
 4. Jie yra sumaišyti.
 5. Rāma yra šventasis vyras.
 6. Kas yra VIEŠPATIS?

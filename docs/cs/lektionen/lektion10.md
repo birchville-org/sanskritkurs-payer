@@ -13,6 +13,7 @@ status: stable
 ## 10.1. Pasivní věta
 
 ::: grammar-box
+
 **Schéma:**
 **(Agens - kartṛ - v instrumentálu (tṛtīyā)) - (přímý objekt - karman - v nominativu) - pasivní tvar slovesa**
 
@@ -20,36 +21,47 @@ např. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन दे�
 
 Tato věta je **zcela (!) významově totožná** s větou:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
+
 :::
 
 ::: grammar-box
+
 V pasivní větě stojí agens (**kartṛ**) v **instrumentálu** (tṛtīyā ž. "třetí pádová koncovka"), přímý objekt (**karman** n.) v **nominativu** (prathamā ž.).
 Pasivní věty, ve kterých není agens vyjádřen, mají obvykle bezosobní význam ("jedna"):
 např. **ijyate** = ⟪इज्यते⟫ "Obětuje se" (doslova: "s obětí je uctíváno").
+
 :::
 
 ::: grammar-box
+
 **I když by příslušná aktivní věta obsahovala akuzativ (dvitīyá) cíle, může být tento v pasivní větě uveden do nominativu (prathamā):**
 
 Aktivní větě **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Ráma jde do vesnice" odpovídají pasivní věty:
 **rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
 alternativně: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
+
 :::
 
 ::: grammar-box
+
 **Neutrální slovesa (slovesa bez přímého objektu) mají často pasivní konstrukce, zejména v zdvořilých rozkazech:**
 **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Prosím, vstupte = Prosím, veďte se dovnitř = Pojďte dál!"
 **niṣadyatām** = ⟪निषद्यताम्⟫ = "Prosím, posaďte se = Prosím, usedněte si = Prosím, vezměte místo"
+
 :::
+
 Sanskritové pasivní konstrukce jsou mimořádně časté: pasiv je totiž snazší tvořit než například četné kmeny přítomného času.
 
 ::: important
+
 **Sanskritové pasivní věty se obecně v němčině nesmí převádět do pasivu, protože německý pasiv má zcela jinou stylistickou funkci.**
+
 :::
 
 ## 10.2. Instrumentál (tṛtīyā ž. = ⟪तृतीया⟫ = "třetí pádová koncovka")
 
 ::: grammar-box
+
 **Pravidelné koncovky instrumentálu (tṛtīyā):**
 **Singular: -ā**
 **Plural: -bhis**
@@ -94,6 +106,7 @@ Sanskritové pasivní konstrukce jsou mimořádně časté: pasiv je totiž snaz
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"tento, tato, toto" (blízko):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+
 :::
 
 
@@ -101,6 +114,7 @@ Sanskritové pasivní konstrukce jsou mimořádně časté: pasiv je totiž snaz
 ### 10.2.1. K užití instrumentálu (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
+
 **Instrumentál (tṛtīyā) se hlavně používá na otázky:**
 **Čím?**
 **S čím?**
@@ -112,18 +126,24 @@ Sanskritové pasivní konstrukce jsou mimořádně časté: pasiv je totiž snaz
 3. **k vyjádření cesty, po které se někdo kam dostává**
 4. **k vyjádření spojení, sjednocení, doprovodu s**
 5. **u postpozic ve významu "spolu s, s"; např. saha = ⟪सह⟫ = "s"** :brnapř.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "společně s brámanem"
+
 :::
+
 Další užití instrumentálu (tṛtīyā) následuje později.
 
 
 ## 10.3. Takzvané cerebralizační pravidlo pro -n- (jeden slovní sandhi)
 
 ::: grammar-box
+
 **-n-**, na které následuje samohláska nebo **n, m, y, v**, se nahrazuje **-ṇ-**, pokud ve slově předchází **ṛ, ṝ, r, ṣ** tomuto **-n-** nebo nestojí žádný jiný zvuk než samohlásky, velké souhlásky (gutturály), labiály, **y, v, h** nebo anusvāra mezi těmito zvuky a následujícím **-n-** ve slově.
+
 :::
+
 **Proto:**
 
 ::: grammar-box
+
 | | Instrumentál singuláru |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -131,10 +151,13 @@ Další užití instrumentálu (tṛtīyā) následuje později.
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
+
 :::
+
 **Tak je také vysvětlit -ṇ- v:**
 
 ::: indent
+
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -142,15 +165,19 @@ Další užití instrumentálu (tṛtīyā) následuje později.
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
+
 :::
 
 
 ## 10.4. Pasivum, indikativ prézenta (yak = ⟪यक्⟫)
 
 ::: grammar-box
+
 **Tvorba:**
 **(většinou) slabý kořen + -ya- + koncovka átmanepada**
+
 :::
+
 např.
 
 | Kořen:br⟪धातु⟫ | 3. sg. pas. préz. indik.:br⟪यक् लट्⟫ | 3. pl. pas. préz. indik.:br⟪यक् लट्⟫ |
@@ -211,12 +238,14 @@ např. **tan** 8 U.
 **nagara** n. ⟪नगर⟫ : město
 
   ::: note-box
+
   K životu ve městě a vesnici viz Basham, *Wonder*, kap. 6.
   :::
 
 **yajña** m. ⟪यज्ञ⟫: oběť
 
   ::: note-box
+
   Oběť je v Indii především uctíváním božstva jako hosta. Tím se zavazuješ k božstvu.
 
   Slovní tvorba: **yaj** 1 U + kṛt-přípona **-na-**.
@@ -225,6 +254,7 @@ např. **tan** 8 U.
 **puṇya** n. ⟪पुण्य⟫: dobré dílo, zásluha
 
   ::: note-box
+
   Čím si zasloužíš pohodu a dobré znovuzrození.
   :::
 
@@ -232,21 +262,30 @@ např. **tan** 8 U.
 **satya** n. ⟪सत्य⟫: pravda
 
 ::: note-box
+
 V Indii připisovali pravdivému slovu kouzelnou sílu, ba celá světová řádka je udržována a stvořena pravdivým slovem. K této důležité představě viz základní dílo:
 
 :::
+
 ::: literatur-box
+
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozůstalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Svazek 2: Varuna a Ṛta. -- 1959. -- XXIII stran, str. 340 - 764
+
 :::
 
 ::: media
+
 ![](/images/lekt1003.webp)
+
 Obr.: ⟪वरुणः⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1003))
+
 :::
+
 **anṛta** n. ⟪अनृत⟫ : nepravda, lež (protiklad k **satya**)
 
   ::: note-box
+
   Tvoření slova **an-** („ne-“) + **ṛta** n.
 
   **ṛta** je ústřední pojem ve Védech, jehož překlad je předmětem sporů: „pravda“ (Lüders, Thieme), „řád“ (Renou).
@@ -255,14 +294,19 @@ Obr.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : védický mudrc, autor védských písní
 
   ::: note-box
-  Jména těchto **ṛṣi**s jsou uváděna v Brāhmaṇách stejně jako ve zvláštních seznamech k Véдам. Všichni bráhmanové odvozují svůj původ od těchto **ṛṣi**s, podle nichž jsou pojmenováni jejich **gotra** (⟪गोत्र⟫). K pojmu **gotra** viz Basham, *Wonder*, kap. 5.
+
+  Jména těchto **ṛṣi**s jsou uváděna v Brāhmaṇách stejně jako ve zvláštních seznamech k Védám. Všichni bráhmanové odvozují svůj původ od těchto **ṛṣi**s, podle nichž jsou pojmenováni jejich **gotra** (⟪गोत्र⟫). K pojmu **gotra** viz Basham, *Wonder*, kap. 5.
   :::
 
 ::: media
+
 ![](/images/lekt1002.jpg)
+
 Obr.: ⟪विश्वामित्रः⟫
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt1002))
+
 :::
+
 **vad** 1. osoba singuláru (vadati) ⟪वद् वदति⟫ : říkat, mluvit
 **prach** 6. osoba singuláru (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ptát se (někoho: akuzativ; na něco: akuzativ)
 **saha** ⟪सह⟫ : společně s, spolu s (také u „bojovat proti“ atd.) (postpozice s instrumentálem)
@@ -306,32 +350,36 @@ Obr.: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 možnosti)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 možnosti)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
-13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
+13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमापnoti⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
 15. **paśūllabhate.** (⟪पशूल्लभते⟫)
 16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫)
 
 **D) Přeložte do sanskrtu:**
 1. Brahman jde s vaišjou do vesnice.
-2. Er verehrt Viṣṇu mit einem Opfer. (Opfer **yajña** ausdrücken!)
+2. Uctívá Viṣṇua obětí. (Oběť **yajña** vyjádřit!)
 3. Véda je nazývána śruti. (**vad**)
 4. Napíná se osnovní nit. (2 možnosti)
 
 ::: media
+
 ![](/images/lekt1004.jpg)
+
 Obr.: ⟪तन्तुवायः⟫
 (Zdroj obrázku: [Details](/cs/licenses#lekt1004))
+
 :::
-5. Učitelé jsou ptáni. (Trpný rod)
+
+5. Učitelé jsou tázáni. (Trpný rod)
 6. Oko je vedeno. (Trpný rod)
 7. Básník vidí božstvo. (Trpný rod)
 8. Kdo (ž. rod) střeží dívku? (Trpný rod)
-9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden)
-10. Štedrostí dosahuje stoupenec Buddhy nebe.
+9. Kšatrija uctívá PÁNA obětí. (Trpná konstrukce, bez použití slova **yajña**)
+10. Štědrostí dosahuje stoupenec Buddhy nebe.
 
 
 
@@ -369,10 +417,14 @@ Obr.: ⟪तन्तुवायः⟫
 **Čtěte a přeložte, poté převést do trpného rodu:**
 
 ⟪क १⟫.
+
 ::: center
+
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
+
 :::
+
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |

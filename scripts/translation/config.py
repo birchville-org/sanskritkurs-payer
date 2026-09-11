@@ -54,8 +54,8 @@ LANG_NAMES = {
     "ar": "Arabic",
     "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge'ez",
     "fa": "Persian (Farsi)", "pt": "Portuguese",
-    "fi": "Finnish", "hu": "Hungarian",
-    "tr": "Turkish", "vi": "Vietnamese", "zu": "Zulu", "si": "Sinhalese", "te": "Telugu", "pl": "Polish", "cs": "Czech", "sk": "Slovak", "sl": "Slovenian", "ka": "Georgian", "hy": "Armenian", "et": "Estonian"
+    "tr": "Turkish", "vi": "Vietnamese", "zu": "Zulu", "si": "Sinhalese", "te": "Telugu", "pl": "Polish", "cs": "Czech", "sk": "Slovak", "sl": "Slovenian", "ka": "Georgian", "hy": "Armenian", "et": "Estonian",
+    "nl": "Dutch", "af": "Afrikaans", "lt": "Lithuanian", "sh": "Serbo-Croatian", "sq": "Albanian", "da": "Danish", "no": "Norwegian", "sv": "Swedish", "is": "Icelandic"
 }
 
 LESSONS = list(range(1, 62))

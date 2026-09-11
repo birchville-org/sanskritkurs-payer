@@ -33,7 +33,6 @@ Ngale ndlela, iBrahmane inikeza isihlalo kuNkulunkulu.
 Umfazi we-Vaiśya ucabanga ukuthi indodana yakhe yenza okubi.
 
 IKṣatriya ilwa ne-Kṣatriya.
-Kṣatriya kämpft mit Kṣatriya.
 
 ⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
 Ngoba amanga angabiulile, indodana ayenzi ibutho.
@@ -107,11 +106,11 @@ A) Humusha uye kusiSanskrit usebenzisa izakhiwo zokwenziwa:
 
 ⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
 
-6\. Die Śūdrafrau geht ins Dorf.
+6\. Umfazi we-Śūdra uya emzaneni.
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-7\. Wer sieht die Wahrheit?
+7\. Ubani obona iqiniso?
 
 ⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
 
@@ -125,7 +124,7 @@ B)
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
-C) Übersetzen Sie:
+C) Humusha:
 
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
 Indlebe iyazwa. Umuntu uzwa ngendlebe.

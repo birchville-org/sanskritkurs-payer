@@ -30,7 +30,7 @@ Ao escrever, cada letra, incluindo a barra transversal na linha superior, é com
 
 ## Exercício
 
-Schreiben Sie in Devanāgarī:
+Escreva em Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Leia e translitere:
 Exercício de leitura adicional:
 
 ⟪पिता⟫ pai, ⟪कपि⟫ macaco, ⟪कृत⟫ fez,  ⟪टीका⟫ subcomentário, ⟪तत्⟫ este, ⟪तट⟫ margem, ⟪पत्⟫ disparar, ⟪पट⟫ tecido, ⟪काच⟫ vidro,  ⟪काकुत्⟫ paladar, ⟪चित्⟫ perceber, ⟪पृच्⟫ misturar,  ⟪पोटक⟫ servo, ⟪चेतु⟫ intenção, ⟪तौतातित⟫ seguidor de Kumārila (Mīmāṃsā), ⟪तूत⟫ amoreira, ⟪पीत⟫ bebeu,  ⟪पीति⟫ bebida, ⟪कॢप्⟫  caber, ⟪कृपते⟫ ele lamenta, ⟪पुटी⟫ ruga, ⟪चापि⟫ igualmente, ⟪तोक⟫ descendência, ⟪तृपत्⟫ satisfeito, ⟪पॄ⟫ encher, ⟪कृकाटी⟫ articulação do pescoço, ⟪पूपौ⟫ dois bolos, ⟪पैतृकी⟫ paterno (fem.), ⟪कौट⟫ fraudulento, ⟪कच⟫ cabelo da cabeça, ⟪कुतपे⟫ sobre a esteira de pelos de cabra, ⟪कुचौ⟫ seio, ⟪चकिता⟫ assustado (fem.)
-
-

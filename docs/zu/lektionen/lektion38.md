@@ -672,7 +672,7 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪कोलाहल⟫ m.n.: Geschrei, Lärm
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: ukufuna okuzungezile
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : lachen
 
@@ -703,7 +703,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪लज्जा⟫ f.: Scham
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ Isandiso: phansi
 
 ## 38.12. Übersetzungsübung
 
@@ -719,13 +719,13 @@ Erklärungen:
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
 
-⟪सर्वे⟫ Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪सर्वे⟫ Nom.pl.m. ku-⟪सर्व⟫ 3 "ngamunye, bonke"
 
 ⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
 
-⟪वयम्⟫ Nom.pl. "wir"
+⟪वयम्⟫ Nom.pl. "thina"
 
 ⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
 
@@ -737,6 +737,6 @@ Erklärungen:
 
 ⟪तरसा⟫ Instr. sg. ku-⟪तरस्⟫ n. "amandla", esetshenziswa njengesandiso: "ngokushesha, ngobudlova"
 
-⟪यूयम्⟫ Nom.pl. "ihr"
+⟪यूयम्⟫ Nom.pl. "nina"
 
 ⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫

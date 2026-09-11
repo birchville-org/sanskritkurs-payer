@@ -42,25 +42,25 @@ Umuntu wesibili:
 
 I-3.sg.Ā.Imperfekt noma i-Optativ ifana ne-2.pl.P.Imperfekt noma i-Optativ!
 
-#### 43.2.1.1. Iqembu lokuqala le-Präsens (⟪भ्वादि⟫)
+#### 43.2.1.1. Iqembu lokuqala le-isikhathi esiyimanje (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | ⟪भवसे⟫ | ⟪भवध्वे⟫ |
+| **Indikativ isikhathi esiyimanje** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | ⟪भवसे⟫ | ⟪भवध्वे⟫ |
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | ⟪अभवथास्⟫ | ⟪अभवध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | ⟪भवेथास्⟫ | ⟪भवेध्वम्⟫ |
 
-#### 43.2.1.2. Iqembu lesithupha le-Präsens (⟪तुदादि⟫)
+#### 43.2.1.2. Iqembu lesithupha le-isikhathi esiyimanje (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | ⟪विशसे⟫ | ⟪विशध्वे⟫ |
+| **Indikativ isikhathi esiyimanje** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | ⟪विशसे⟫ | ⟪विशध्वे⟫ |
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | ⟪अविशथास्⟫ | ⟪अविशध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | ⟪विशेथास्⟫ | ⟪विशेध्वम्⟫ |
 
@@ -118,8 +118,8 @@ I-3.sg.Ā.Imperfekt noma i-Optativ ifana ne-2.pl.P.Imperfekt noma i-Optativ!
 
 ## 43.3. Isipronomini esithi sesibili
 
-*   Singular: ⟪त्वद्⟫ "du"
-*   Plural: ⟪युष्मद्⟫ "ihr"
+*   Ubuningi obukodwa: ⟪त्वद्⟫ "wena"
+*   Ubuningi: ⟪युष्मद्⟫ "nina"
 
 ::: grammar-box
 
@@ -139,7 +139,7 @@ Izimo ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ akumele zisetshenziswe e
 
 ::: indent
 
-⟪त्वां मां च⟫ "dich und mich"
+⟪त्वां मां च⟫ "wena nami"
 
 :::
 
@@ -177,7 +177,7 @@ Umfanekiso: ⟪पण्यानि⟫
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: unikezwe
 
 ⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
 
@@ -185,7 +185,7 @@ Umfanekiso: ⟪पण्यानि⟫
 
 ⟪निश्चित⟫ 3: entschieden, festgesetzt
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : uma kungenjalo, ngaphandle kwalokho
 
 ⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
 

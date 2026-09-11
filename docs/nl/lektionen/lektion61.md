@@ -657,6 +657,7 @@ Paradigma's: Kielhorn, Grammatik § 153:
 Afbeelding: ⟪हरिद्वारे गावः ॥⟫
 (Bron afbeelding: [Details](/nl/licenses#lekt6118))
 
+:::
 ### 61.8.1. Persoonlijke voornaamwoorden van de dualis
 
 Kielhorn, Grammatik § 177:

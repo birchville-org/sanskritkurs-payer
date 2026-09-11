@@ -100,7 +100,6 @@ Vokal - første efterfølgende konsonant (henholdsvis dens i en reduplikationssy
 
 
 Vokal - første konsonant - anden konsonant (repræsentant) - i - anden konsonant
-:::
 *   **Følges den indledende vokal af en konsonantgruppe, der begynder med en nasal eller d eller r, indsættes den anden konsonant i gruppen (eller dens repræsentant) med i efter følgende skema:**
 
 
@@ -158,7 +157,6 @@ Eksempler:
 ⟪मा कर्महेतुर्भूः⟫ "Bliv ikke en, der motiveres af frugten af en handling!" (injunktiv aorist) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Bliv ikke unørdig!" (injunktiv aorist) (⟪भगवद्गीता⟫ 2,3a)
-:::
 ::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫

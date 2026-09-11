@@ -13,6 +13,7 @@ status: stable
 ## 10.1. Veikiamasis sakinys
 
 ::: grammar-box
+
 **Schema:**
 **(Veikėjas - kartṛ - įnagininkas (tṛtīyā)) - (tiesioginis papildinys - karman - vardininkas) - veiksmažodžio veikiamosios rūšies forma**
 
@@ -20,39 +21,50 @@ pvz. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव
 
 Šis sakinys yra **visiškai (!) reikšmingai tapatus** sakiniui:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
+
 :::
 
 ::: grammar-box
+
 Veikiamajame sakinyje veikėjas (**kartṛ**) yra **įnagininko** (tṛtīyā f. "trečiosios linksniuotės pabaigos") linknyje, o tiesioginis papildinys (**karman** n.) yra **vardininko** (prathamā f.) linknyje.
 Veikiamieji sakiniai, kuriuose veikėjas nėra nurodomas, dažniausiai turi asmeninę reikšmę ("man"):
 pvz. **ijyate** = ⟪इज्यते⟫ "Aukojama" (wörtlich: "garinama aukojimu").
+
 :::
 
 ::: grammar-box
+
 **Net jei atitinkamas aktyvusis sakinys turėtų tikslinio galutinio daiktavardžio (dvitīyā) akuzatyvą, jis gali būti perkeltas į veikiamajame sakinyje į vardininką (prathamā):**
 
 Aktyviam sakiniui **rāmo grāmaṃ gacchati** = ⟪रामो ग्रामं गच्छति⟫ = "Rāma eina į kaimą." atitinka veikiamieji sakiniai:
 **rāmeṇa grāmaṃ gamyate** = ⟪रामेण ग्रामं गम्यते⟫
 alternatyviai: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो गम्यते⟫
+
 :::
 
 ::: grammar-box
+
 **Neperdavieji veiksmažodžiai (be tiesioginio papildinio) dažnai turi veikiamąsias konstrukcijas, ypač mandagiems prašymams:**
 **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Tegu įeina = Prašau, eikite vidun = Įeik!"
 **niṣadyatām** = ⟪निषद्यताम्⟫ = "Tegu sėdi = Prašau, sėskitės = Prašau, užimkite vietą"
+
 :::
-Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
+
+Sanskrito pasyvinės konstrukcijos yra itin dažnos: pasyvas yra lengviau sudaromas nei, pavyzdžiui, daugybė esamojo laiko kamienų.
 
 ::: important
+
 **Sanskrito neveikiamosios rūšies sakiniai paprastai neturėtų būti verčiami neveikiamąja rūšimi, nes lietuvių kalboje neveikiamoji rūšis atlieka kitokią stilistinę funkciją.**
+
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. Įnagininkas (tṛtīyā m. = ⟪तृतीया⟫ = "trečiasis linksnis")
 
 ::: grammar-box
-**Die regulären Endungen des Instrumentalis (tṛtīyā):**
-**Singular: -ā**
-**Plural: -bhis**
+
+**Reguliariosios įnagininko (tṛtīyā) galūnės:**
+**Vienaskaita: -ā**
+**Daugiskaita: -bhis**
 
 **Regelmässige Bildungen:**
 
@@ -94,6 +106,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 | | M | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"šis, ši, šį" (arti):br⟪इदम्⟫ | V/B | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | M | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+
 :::
 
 
@@ -101,6 +114,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 ### 10.2.1. Dėl įnagininko (tṛtīyā = ⟪तृतीया⟫) vartosenos
 
 ::: grammar-box
+
 **Įnagininkas (tṛtīyā) dažniausiai atsako į klausimus:**
 **Kuo?**
 **Su kuo?**
@@ -112,18 +126,24 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 3. **reiškiant kelią, kuriuo kas nors pasiekia vietą**
 4. **reiškiant ryšį, susijungimą, palydovavimą**
 5. **su postpozicijomis reikšme "kartu su, su"; pvz. saha = ⟪सह⟫ = "su"** :brpvz.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "kartu su brahmanu"
+
 :::
+
 Further uses of the instrumental (tṛtīyā) follow later.
 
 
 ## 10.3. The so-called cerebralization rule for -n- (a word sandhi)
 
 ::: grammar-box
+
 An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **ṛ, ṝ, r, ṣ** precede the **-n-** in the word or if no other sound than vowels, gutturals, labials, **y, v, h** or anusvāra stands between these sounds and the following **-n-** in the word.
+
 :::
+
 **Therefore:**
 
 ::: grammar-box
+
 | | Instrumental Singular |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -131,10 +151,13 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
+
 :::
+
 **Thus the -ṇ- is also to be explained in:**
 
 ::: indent
+
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -142,15 +165,19 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
 **kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
+
 :::
 
 
 ## 10.4. The Passive, Indicative Present (yak = ⟪यक्⟫)
 
 ::: grammar-box
+
 **Formation:**
 **(mostly) guṇa-grade root + -ya- + Ātmanepada ending**
+
 :::
+
 e.g.
 
 | Root:br⟪धातु⟫ | 3. sg. Pass. Pres. Ind.:br⟪यक् लट्⟫ | 3. pl. Pass. Pres. Ind.:br⟪यक् लट्⟫ |
@@ -211,12 +238,14 @@ Pvz., **tan** 8 U.
 **nagara** n. ⟪नगर⟫ : miestas
 
   ::: note-box
+
   Apie miesto ir kaimo gyvenimą žr. Basham, *Wonder*, 6 skyrius.
   :::
 
 **yajña** m. ⟪यज्ञ⟫ : aukojimas
 
   ::: note-box
+
   Indijoje aukojimas pirmiausia yra dievybės garbinimas kaip svečio. Taip prisiimama įsipareigojimas dievybei.
 
   Žodžio formavimas: **yaj** 1 U + kṛt priesaga **-na-**.
@@ -225,6 +254,7 @@ Pvz., **tan** 8 U.
 **puṇya** n. ⟪पुण्य⟫ : geras darbas, nuopelnas
 
   ::: note-box
+
   Kuo žmogus pelno gerovę ir gimusius iš naujo.
   :::
 
@@ -232,21 +262,30 @@ Pvz., **tan** 8 U.
 **satya** n. ⟪सत्य⟫ : tiesa
 
 ::: note-box
+
 Indijoje tikėta, kad tiesinis žodis turi magišką galią. Net visa pasaulio tvarka išlaikoma ir sukurta tiesiniu žodžiu. Apie šią svarbią idėją žr. pagrindinį darbą:
 
 :::
+
 ::: literatur-box
+
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+
 :::
 
 ::: media
+
 ![](/images/lekt1003.webp)
+
 Pav.: ⟪वरुणः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1003))
+
 :::
+
 **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
   ::: note-box
+
   Wortbildung **an-** („un-“) + **ṛta** n.
 
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
@@ -255,16 +294,21 @@ Pav.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
 
   ::: note-box
+
   Šių **ṛṣi** vardai minimi Brahmanose bei specialiose Vedų rodyklėse. Visi brahmanai kildina savo kilmę iš tokių **ṛṣi**, kurių vardais pavadintos jų **gotra** (⟪गोत्र⟫). Apie **gotra** sąvoką žr. Basham, *Wonder*, 5 sk.
   :::
 
 ::: media
+
 ![](/images/lekt1002.jpg)
+
 Pav.: ⟪विश्वामित्रः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1002))
+
 :::
+
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : sakyti, kalbėti
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : klausti (ko nors: Ak.; apie ką nors: Ak.)
 **saha** ⟪सह⟫ : kartu su, bendrai su (taip pat „kovoti su“ ir t. t.) (polinksnis su įnagininku)
 
 
@@ -322,10 +366,14 @@ Pav.: ⟪विश्वामित्रः⟫
 4. Įtempiamas audimo siūlų karkasas. (2 galimybės)
 
 ::: media
+
 ![](/images/lekt1004.jpg)
+
 Pav.: ⟪तन्तुवायः⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt1004))
+
 :::
+
 5. Mokytojai klausia. (Būtojo karto konstrukcija)
 6. Akis veda. (Būtojo karto konstrukcija)
 7. Poetas mato dievybę. (Būtojo karto konstrukcija)
@@ -369,10 +417,14 @@ Pav.: ⟪तन्तुवायः⟫
 **Skaitykite ir verčite, paversdami į pusę:**
 
 ⟪क १⟫.
+
 ::: center
+
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
+
 :::
+
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ | |
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ | |
 ⟪४⟫. ⟪ऋषयः सूक्तानि पश्यन्ति⟫ | |

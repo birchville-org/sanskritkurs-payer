@@ -1,5 +1,5 @@
 ---
-title: "Lektion 33"
+title: "33. õppetund"
 lesson_id: 33
 status: stable
 
@@ -165,7 +165,7 @@ e.g. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
 :::
 
-Dazu gehört z.B. auch:
+See hõlmab näiteks ka:
 
 ::: indent
 
@@ -220,7 +220,7 @@ Beispiele:
 
 :::
 
-### 33.4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
+### 33.4.1. Juured ⟪दा⟫ ja ⟪धा⟫
 
 ::: grammar-box
 
@@ -236,7 +236,6 @@ Beispiele:
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optative** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 
-:::
 
 The forms of ⟪दा⟫ are obtained by replacing **dh** with **d** in the paradigm of ⟪धा⟫. Thus:
 
@@ -325,7 +324,7 @@ Joonis: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪
 
 :::
 
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: panema, paika panema, määrama
 
 ::: indent
 

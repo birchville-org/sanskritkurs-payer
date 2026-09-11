@@ -17,7 +17,7 @@ A) Tõlkige järgmised laused ja liitsõnad ning lahendage neis esinevad dvandva
 
 Erklärung catvāras = ⟪चत्वारस्⟫ = "vier"
 
-Brahmanen, Kṣatriyas, Vaiśyas und Śūdras sind die vier Stände.
+Brahmanid, kšatrijad, vaišjad ja šūrad on neli seisust.
 
 catvāro varnā brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca / catvāro varṇā brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca.
 
@@ -47,11 +47,11 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।⟫
 
-4\. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+4\. Kolm inimese vaenlast, mis moodustavad põrgu värava (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
 
 ⟪कामक्रोधलोभाः⟫
 
-Passion, Zorn und Gier.
+Kirg, viha ja ahnus.
 
 kāmaḥ krodho lobhaś ca.
 
@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Vastavalt Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -105,7 +105,7 @@ Joonis: ⟪अभ्निवेशो न वा ।⟫
 
 ## Kordamisharjutus 5. õppetükk
 
-A) Übersetzen Sie:
+A) Tõlkige:
 
 1\. vidyā vārttā.
 
@@ -119,7 +119,7 @@ Majandusteadus on teadus.
 
 Kolm kaks korda sündinud seisust on: braahman, kšatrija ja vaišja.
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3\. dvijā vaiśyāḥ. (2 võimalust)
 
 ⟪द्विजा⟫ ⟪वैश्याः⟫
 

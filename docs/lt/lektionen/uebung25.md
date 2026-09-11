@@ -65,10 +65,14 @@ Buddhas and Arhants are freed from suffering. For they have attained liberating 
 Through greed, hatred, and delusion people are corrupted. When the time has come, they then fall into a hell.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Image source: [Details](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 The Kṣatriya brings heroic warriors from the big city to fight the enemy's village.
 
@@ -88,7 +92,7 @@ Be Rāma.
 Šventojo mokymas veda į dorybę, o nešventasis – ne.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma laukia Kṛṣṇos.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Eina lengvai (laimingai).
@@ -113,10 +117,14 @@ Jei kas nors iš pasididžiavimo, godumo, pykčio ar baimės priima neteisingą 
 Pragarai atsiranda dėl blogio, blogis – iš skurdo, o skurdas – iš nedavimo.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Pav.: ⟪भवन्ति नरकाः पापात्⟫
 (Nuotraukos šaltinis: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Vagis atleidžiamas vagystės kaltė už baudą arba paleidimą. Jei karalius jo nubaustų, jis prisiimtų vagies kaltę.
 
@@ -128,9 +136,13 @@ Vagis atleidžiamas vagystės kaltė už baudą arba paleidimą. Jei karalius jo
 Ūkis naudingas, nes jis duoda grūdus, gyvulius, auksą, metalus ir darbą.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Pav.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Nuotraukos šaltinis: [Išsami informacija](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Todėl trys mokslo šakos turi lazdą (daṇḍa) kaip pagrindą. Lazda, kuri yra gero elgesio pagrindas, duoda gyvūnams turtą ir saugią nuosavybę. Geras elgesys yra įgytas arba gimtinis. Veikla ugdo tinkamą medžiagą, netinkamos ne. Žinios ugdo protą, kuris per paklusnumą, klausymąsi, suvokimą, supratimą ir svarstymą pasiekė tiesą, ne kitoks. ... Iš girdėto gimsta žinios, iš žinių praktika, iš praktikos savivalda; taip mokslai atitinka savo tikslą. Žinios ir geras elgesys yra priežastis nugalėti pojūčius. Tai būtina, kad būtų atsisakyta aistros, neapykantos, godumo, savimanybės, apsvaigimo ir sužadinimo.

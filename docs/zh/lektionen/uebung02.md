@@ -55,13 +55,13 @@ brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+2\. 老師是個 ⟪वैश्य⟫ (吠舍)。
 
 vaiśyo guruḥ.
 
 ⟪वैश्यो गुरुः⟫
 
-3\. Der Śūdra ist ein heiliger Mann.
+3\. ⟪शूद्र⟫ (首陀羅) 是個聖人。
 
 sādhuḥ śūdraḥ.
 
@@ -104,7 +104,10 @@ sādhur guruḥ.
 ⟪साधुर्गुरुः⟫
 
 ::: media
+
 ![](/images/uebung002.jpg)
+
 圖：⟪ईश्वरः शिवः⟫
 （圖片來源：[詳情](/licenses#uebung002)）
+
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Lecke 23"
+title: "23. lecke"
 subtitle: "Az infinitívus (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
@@ -13,6 +13,7 @@ status: stable
 ## 23.1. A végtelen mód (⟪तुमुन्⟫)
 
 ::: grammar-box
+
 **Ha szanszkritul azt szeretnénk kifejezni, hogy egy tevékenység egy másik tevékenység céljából történik („hogy…-jon”), a cselekvés, amelynek célja, kifejezésére használhatjuk a végtelen módot (⟪तुमुन्⟫). A végtelen mód elsősorban a célt vagy szándékot jelöli:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Ráma elment, hogy meghallgassa a mester beszédét."
@@ -27,8 +28,8 @@ status: stable
 
 **Az infinituszt többek között olyan igékben használják, amelyek jelentése: "képes lenni", "létezik", "tudni", "kezdeni":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Egy szent nem tehet jót."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Van mit enni" (⟪भुज्⟩ 7: Ā: esssen, P: regieren)
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = „Egy szent nem tehet jót.”
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = „Van mit enni” (⟪भुज्⟩ 7: Ā: enni, P: uralkodni)
 
 **Az infinituszt továbbá olyan szavakkal használják, amelyek jelentése: "megfelelő", "képes" és olyan főnevekkel, amelyek jelentése: "képesség", "erő", "ügyesség":**
 
@@ -51,10 +52,13 @@ pl.
 **Ha az infinitívus egy főnévtől függ, nem kapcsolódhat hozzá összetett szóként. Kivételt képeznek a Bahuvrīhi-szavak, amelyek második tagja ⟪काम⟫ vagy ⟪मनस्⟫:**
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „egy olyan, akinek a vágya beszélni; egy, aki beszélni kíván”.
+
 :::
+
 ## 23.2. Az infinitívus képzése (⟪तुमुन्⟫)
 
 ::: grammar-box
+
 **magas fokú gyökér + -tum**
 
 **vagy**
@@ -64,32 +68,46 @@ pl.
 **A gyökör végződő mássalhangzói a -tum előtt ugyanazok szerint változnak, mint a PPP -ta előtti esetben.**
 
 **Préfixumos igék az infinitívust ugyanúgy képezik, mint a egyszerű gyökök.**
+
 :::
+
 Példák:
 
 ::: indent
+
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 
 **A préverbekkel képzett igék az infinitívust ugyanúgy alkalmazzák, mint az egyszerű gyökök.**
+
 :::
+
 Példák:
 
 ::: indent
+
 ⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
+
 :::
+
 A kötőmag -i- használatáról nem lehet szigorú szabályokat felállítani. Alapvetően az infinitívusnál a kötőmag eloszlása megegyezik a jövő időnélivel.
 
 Az eddig tanult gyökökhez a következő infinitívusok különösen figyelmet érdemelnek:
 
 ::: indent
+
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+
 :::
+
 A főnévi igenévben a -ṛ- teljes fokaként ra- szerepel a következő igéknél:
 
 ::: indent
+
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
+
 :::
+
 A többi gyök, amelynek előutolsó helyén -ṛ- áll, fakultatívan használhat -ra- vagy -ar- képzőt, ha aniṭ jellegűek.
 
 
@@ -179,19 +197,27 @@ D) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![](/images/lekt2303.webp)
+
 Kép: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 A jót cselekedni = ⟪पुण्यकरणम्⟫, Thaiföld = ประเทศไทย
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2303))
+
 :::
+
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 ::: media
+
 ![](/images/lekt2301.webp)
+
 Ábra: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2301))
+
 :::
+
 ⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
 ⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
@@ -210,11 +236,15 @@ C) Fordítsa le a következőt ⟪सुभाषितम्⟫
 Magyarázat: ⟪हीन⟫ ⟪३⟫: PPP a következőhöz ⟪हा⟫ 3: elhagy; ⟪धर्मे⟫ = Lokális egyes szám: „a ...-ban”
 
 ::: media
+
 ![](/images/lekt2302.webp)
+
 Ábr.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2302))
+
 :::
+
 ## 23.6. Ismétlőgyakorlat
 
 Kérjük, ne használjanak segédeszközöket!
@@ -236,11 +266,15 @@ A tudás megszerzése a tanár iránti engedelmességgel, nagy pénzösszeggel v
 7\. A „bot“ filozófia, Védák és gazdaságtan szerzését és biztonságos birtoklását eredményezi. Ennek a botnak az irányítása politika.
 
 ::: media
+
 ![](/images/lekt2304.jpg)
+
 Ábra: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, India miniszterelnöke = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, 2004 óta
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2304))
+
 :::
+
 8\. Feleség, fiú és szolga, ezek a három (⟪त्रयस्⟫) hagyomány szerint birtok nélküliek. Amit ezekhez társul, az a tulajdonosaé, akinek ez a három (három) tartozik.
 
 9\. A szúnyogok sebet kívánnak, uralkodók birtokot, alacsonyabb rendűek vitát, jók békét.
@@ -258,4 +292,3 @@ C) Adja meg a következő igák alapformáit (jelentés, jelen idő osztály, m�
 ⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 
 ⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
-

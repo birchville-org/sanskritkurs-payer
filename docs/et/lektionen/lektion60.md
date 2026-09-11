@@ -1,5 +1,5 @@
 ---
-title: "Lektion 60"
+title: "60. õppetund"
 subtitle: "Duaali (⟪द्विवचनम्⟫) perfekti lõpud"
 lesson_id: 60
 last_reconstructed: 2026-05-21
@@ -225,6 +225,7 @@ Examples:
 
 **Deklination:**
 
+:::
 ::: grammar-box
 
 **Deklination:**
@@ -240,7 +241,7 @@ Examples:
 
 **Nõrk tüvi enne vokaali + -ī (käändub nagu ⟪देवी⟫)**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende"
+Näide: ⟪विदुषी⟫ "teadja naine"
 
 :::
 
@@ -346,7 +347,7 @@ Hierher gehören:
 
 Paradigma ⟪प्राञ्च्⟫ siehe oben!
 
-Die Haupthimmelsrichtungen
+Peamised ilmakaared
 
 |   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
@@ -355,7 +356,7 @@ Die Haupthimmelsrichtungen
 
 (Pildi allikas: [Details](/et/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. Desideratiiv (⟪सन्⟫)
 
 ::: grammar-box
 
@@ -398,7 +399,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 
 ::: grammar-box
 
-**Gestalt der Wurzel:**
+**Tüve kuju:**
 
 1.  Juur on enamasti madala astmega: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
@@ -559,3 +560,4 @@ A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbild
 51.  ⟪अवाचः⟫
 
 52.  ⟪ईयुषे⟫
+:::

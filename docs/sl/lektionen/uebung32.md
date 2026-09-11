@@ -12,6 +12,7 @@ last_reconstructed: 2026-05-15
 A) Določite naslednje glagolske oblike in tvorite ustrezne imperfekte glede na osebo, število in glagolski rod:
 
 ::: grammar-box
+
 | Prezent / Futur | Imperfekt |
 | :--- | :--- |
 | ⟪१⟫. ⟪हरिष्यन्ते⟫ | ⟪अहरन्त⟫ |
@@ -89,7 +90,9 @@ A) Določite naslednje glagolske oblike in tvorite ustrezne imperfekte glede na 
 | ⟪७३⟫. ⟪तनोति⟫ | ⟪अतनोत्⟫ |
 | ⟪७४⟫. ⟪प्रजानीते⟫ | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. ⟪जीवन्ति⟫ | ⟪अजीवन्⟫ |
+
 :::
+
 B) Prevajte in razstavite sanskrtske samostavke:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥⟫**
@@ -112,10 +115,14 @@ Brāhmaṇi so študirali in učili Vedo, žrtvovali kot gospodje daritev bogom 
 Sone Bude so so spoznali resnico, ustavili trpljenje in dosegli osvoboditev. Za meniška se uporablja izraz "sin Bude", ki sledi Buddinemu potu.
 
 ::: media
+
 ![](/images/uebung050.webp)
+
 Slika: ⟪सम्पन्नरूपा⟫
 (Vir slike: [Podrobnosti](/licenses#uebung050))
+
 :::
+
 ---
 
 ## Določitev oblike besede
@@ -123,6 +130,7 @@ Slika: ⟪सम्पन्नरूपा⟫
 Določite in prevedite naslednje besede:
 
 ::: grammar-box
+
 | Oblika besede | Določitev | Pomen |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | božjega |
@@ -209,12 +217,18 @@ Določite in prevedite naslednje besede:
 | ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | pri pooblaščenih |
 | ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | poučuje |
 | ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | omogočijo branje |
+
 :::
+
 ::: media
+
 ![](/images/uebung051.webp)
+
 Slika: ⟪किमयं रथो बालान् सुखतां वहति⟫
 (Vir slike: [Podrobnosti](/licenses#uebung051))
+
 :::
+
 ---
 
 ## Vaja za sandhi
@@ -256,7 +270,7 @@ Vstavite besede v oklepajih v naslednjih stavkih in upoštevajte pravila sandhij
 4\. Mogočni bojevniki so odšli v brahmansko vas.
 **⟪बलवद्योधा ब्राह्मणग्रामं गताः ॥⟫**
 
-5\. Das Mädchen weint.
+5\. Deklica joka.
 **⟪बाला रोदिति ॥⟫**
 
 6\. Ni bolezni, kot je poželenje, ni sovražnika, kot je zmeda, ni ognja, kot je jeza, ni sreče, kot je spoznanje.
@@ -279,14 +293,19 @@ Vstavite besede v oklepajih v naslednjih stavkih in upoštevajte pravila sandhij
 11\. Zaradi nebes ljudje delajo zaslužna dela.
 **⟪स्वर्गेभ्यो नराः पुण्यं कुर्वते ॥⟫**
 
-12\. Auf Wiedersehen!
+12\. Na svidenje!
 **⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
+
 ![](/images/uebung052.webp)
+
 Abb.: ⟪पुनर्दर्शनाय⟫
+
 (Vir slike: [Details](/licenses#uebung052))
+
 :::
+
 ---
 
 ## Scholarly Fragment (Stotra)
@@ -297,10 +316,14 @@ Abb.: ⟪पुनर्दर्शनाय⟫
 Vzvišeni Hari je moje zatočišče, ki je svoje sovražnike poslal v nebesa, svojim razkril pomen Vede, bogovom dal jesti Amṛto, Stvarnika učil Vede in zemljo utrdil v vodi.
 
 ::: media
+
 ![](/images/uebung053.webp)
+
 Slika: ⟪श्रीगङ्गाधराय नमः⟫
 (Vir slike: [Podrobnosti](/licenses#uebung053))
+
 :::
+
 ---
 
 ## Zgodba: Starček in opice (Sanskrit-Bālādarśa)
@@ -311,8 +334,11 @@ Slika: ⟪श्रीगङ्गाधराय नमः⟫
 Nekega dne je šel starček v drugo vas in se na poti utrujil. Da bi si oddihnil, je šel k nogi mangovega drevesa ob robu ceste. Na tem drevesu so viseli zreli plodovi. Starček je postal lačen zanje, vendar se ni mogel povzpeti na drevo, da bi jih pobral. Na srečo so bila na drevesu nekaj opic, ki so jedle plodove. Ko je starček to videl, se je veselil. Kaj je storil? Vzel je nekaj kamnov, ciljal na opice in jih vrgel. Opice so se razjezile, pobrale nekaj plodov in jih vrgle na starčka. Starček je veselo sprejel plodove in nadaljeval svojo pot. Velikanska je uspešnost starčka!
 
 ::: media
+
 ![](/images/uebung054.webp)
+
 Slika: ⟪वानरः कुपितः⟫
 (Vir slike: [Podrobnosti](/licenses#uebung054))
+
 :::
 

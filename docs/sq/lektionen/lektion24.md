@@ -170,7 +170,6 @@ Përdorime të tjera të dativeve më vonë.
 
 Shembull:
 
-:::
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "këtij zjarri"
 :::

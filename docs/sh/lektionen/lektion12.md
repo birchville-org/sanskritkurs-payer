@@ -16,12 +16,15 @@ status: stable
 Jedan način za tvorbu pasivnih rečenica u prošlosti jest konstrukcija s tzv. Participle Perfekt Passiv (PPP).
 
 ::: grammar-box
+
 **U stvarnosti PPP nije pravi participle, jer se ne tvori od korijena vremena. On je zapravo nominalna tvorba uz korijen s primarnim sufiksom -ta odnosno -na. Zato se u indijskoj gramatici govori o sufiksu kta.**
+
 :::
 
 ### 12.1.1. Shema za tranzitivne glagole
 
 ::: grammar-box
+
 **Agent (kartṛ) u instrumentalnom padežu (tṛtīyā) -- izravni objekt (karman) u nominativu (prathamā) -- Participle Perfekt Passiv**
 
 PPP se u ovom slučaju slaže s objektom po broju, padežu i rodu.
@@ -32,28 +35,33 @@ Primjeri:
 > **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetca je postignut raj) = Svetac je postigao raj."
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je boginja s žrtvom počašćena) = Brahman je počastio boginju s žrtvom."
+
 :::
 
 ### 12.1.2. Shema I za intranzitivne glagole i glagole kretanja
 
 ::: grammar-box
+
 **Agent (kartṛ) u nominativu (prathamā) -- Participle Perfekt Passiv**
 
 U ovom slučaju PPP se slaže s agentom po broju, padežu i rodu. Participle Perfekt "Passiv" kod intranzitivnih glagola (glagoli bez izravnog objekta) i glagola kretanja ima aktivno značenje.
 
 Primjer:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je otišla u grad."
+
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Bewegungsvorbe
+### 12.1.3. Šema II za neprelazne glagole i glagole kretanja
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+
+**Vršioc radnje (kartṛ) u instrumentalu (tṛtīyā) -- trpni glagolski pridev u nominativu jednine srednjeg roda**
 
 Beispiel:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)» (Kielhorn).
 
 Konstrukcija prema shemi II mnogo je rjeđa od konstrukcije prema shemi I (Kielhorn).
+
 :::
 
 ## 12.2. O značenju PPP-a (Kielhorn)
@@ -64,10 +72,10 @@ z.B.
 **gata** = ⟪गत⟫ = «otišao» (aktiv); ali i: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = «prijeđeni put» (pasiv) (Kielhorn)
 **āpta** = ⟪आप्त⟫ = «postignut» (pasiv), «koji je postigao» (aktiv) (Kielhorn)
 
-
-## 12.3. Bildung des PPP
+## 12.3. Tvorba trpnog glagolskog prideva
 
 ::: grammar-box
+
 Pojavljuju se sljedeći načini tvorbe (za svaki korijen treba naučiti njegov PPP!) (Kielhorn):
 
 **(meist) tiefstufige Wurzel**
@@ -78,22 +86,27 @@ bez spojnog vokala: **-ta** (Kielhorn)
 **+ -na**
 
 Ženske osnove glase: **-tā**, **-itā**, **-nā**; srednji rod se sklanja kao **phala** n. (Kielhorn)
+
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. Trpni glagolski pridev na -ta (kta)
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Bez veznog vokala -i- (aniṭ)
 
 *aniṭ* = «bez (*an-*) spojnog vokala *i*» (Kielhorn).
 
 ::: grammar-box
+
 Without a connecting vowel, the PPP is generally formed from roots ending in vowels as well as many other roots, without one being able to specify a fixed rule for which structured roots take the connecting vowel and which do not.
 
 A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
+
 :::
+
 **Examples:**
 
 ::: grammar-box
+
 | Root | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
@@ -108,7 +121,9 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
+
 :::
+
 #### 12.3.1.2. With connecting vowel -i- (seṭ)
 
 *seṭ* = *sa-iṭ* = "with (*sa-*) the suffix preceded by (*-i-) *t*" (i.e., with the connecting vowel *i*).
@@ -116,12 +131,14 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 **Examples:**
 
 ::: grammar-box
+
 | Root | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
+
 :::
 
 ## 12.4. Laws of sound combination in the word
@@ -129,6 +146,7 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva (Kielhorn):
 
 ::: no-header
+
 | | |
 | :--- | :--- |
 | **1. k, t, p ispred bezvučnih okluziva (npr. t, th) ostaju nepromijenjeni (Kielhorn):** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
@@ -138,6 +156,7 @@ Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva
 | **5. jt se zamjenjuje s kt ili ṣṭ (Kielhorn):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Zvučni aspirirani okluziv + bezvučni okluziv » zvučni neaspirirani + zvučni aspirirani okluziv (Bartholomaeov zakon aspiracije) (Kielhorn):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t se zamjenjuje s ḍh uz duljenje prethodnog i odn. u; ili s gdh (Kielhorn):** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) «nešto sakriti» (Kielhorn)):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+
 :::
 
 ## 12.5. Word List
@@ -145,20 +164,28 @@ Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva
 **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
 
 ::: media
+
 ![](/images/lekt1201.webp)
+
 Fig.: ⟪गौतमो बुद्धः⟫
 (Image source: [Details](/sh/licenses#lekt1201))
+
 :::
+
 **dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : to burn (something)
 **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, patiently to endure = to forgive
 **mṛga** m. ⟪मृग⟫ : wild animal
 **mārga** m. ⟪मार्ग⟫ : path (paths were often game trails)
 
 ::: media
+
 ![](/images/lekt1202.webp)
+
 Fig.: ⟪मार्गः⟫
 (Image source: [Details](/sh/licenses#lekt1202))
+
 :::
+
 **api** ⟪अपि⟫ : also (postposed)
 
 Regarding the 6th conjugation class, some roots are counted by indigenous grammarians that form the present stem with a nasal infix and thematic vowel a, e.g.:
@@ -173,10 +200,14 @@ Regarding word formation:
 **budh**: **bodhi** m./f. ⟪बोधि⟫ : awakening (through which a Buddha or Jina attains liberating insight)
 
 ::: media
+
 ![](/images/lekt1203.webp)
+
 Fig.: ⟪महावीरो जिनः⟫
 (Image source: [Details](/sh/licenses#lekt1203))
+
 :::
+
 **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cognition, organ of cognition.
 
 
@@ -237,4 +268,3 @@ Fig.: ⟪महावीरो जिनः⟫
 **B) Tvorite odgovarajuće PPP-e za glagolske oblike iz [Lekcije 10](/lektionen/lektion10), Vježba A. Pritom imajte na umu da glagolskom obliku sṛjati odgovaraju PPP-i u sva tri roda.**
 
 **C) Prebacite rečenice iz [Lekcije 10](/lektionen/lektion10), Vježba C, u pasiv i prošlost.**
-

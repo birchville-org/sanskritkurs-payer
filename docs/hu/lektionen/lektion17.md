@@ -1,5 +1,5 @@
 ---
-title: "Lecke 17"
+title: "17. lecke"
 subtitle: "Második jelen idő osztály (⟪अदादि⟫ = ⟪अद्⟫ stb.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
@@ -25,6 +25,7 @@ A második jelen idejű osztályba tartozó képzési módok a következők:
 3.  Két szótagú, -i/-ī végű tőfokozással
 
 :::
+
 ## 17.2. A második jelen idejű osztály gyökei erős fok – gyenge fok tőfokozással
 
 Példák:
@@ -44,13 +45,17 @@ Példák:
 | 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
+
 Itt a következő szandhi szabály érvényesül:
 
 ::: grammar-box
+
 Szandhi a -ṣ + t(h)- elemek között
 
 \-ṣ + t(h)- » -ṣṭ(h)-
+
 :::
+
 További példák:
 
 ⟪इ⟫ 2 P „megy“ (Ā bizonyos előtagok után)
@@ -70,6 +75,7 @@ További példák:
 | 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
+
 ⟪दुह्⟫ 2 U "melken"
 
 *   erős jelen időű tő: doh-
@@ -85,6 +91,7 @@ További példák:
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
+
 ⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
 *   erős jelen idői tő: han-
@@ -102,6 +109,7 @@ További példák:
 | 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
+
 ⟪अस्⟫ 2 P "sein"
 
 *   erős jelen idői tő: as-
@@ -115,6 +123,7 @@ További példák:
 | 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
+
 ## 17.3. A második jelen időosztály gyökei szótagváltással (hosszított mélységi fok)
 
 Példa:
@@ -136,11 +145,15 @@ Példa:
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
+
 ## 17.4. A második jelen időosztály gyökei szótagsváltás nélkül
 
 ::: grammar-box
+
 Szótagsváltás nélkül a -ā-ra végződő gyökök tartoznak a második jelen időosztályba.
+
 :::
+
 Példa:
 
 ⟪पा⟫  2 P "védelmez, óv, gondoskodik"
@@ -153,6 +166,7 @@ Példa:
 | 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
+
 Néhány más, a második osztályba tartozó gyökérnek sincs szóalakváltása:
 
 Példák:
@@ -167,6 +181,7 @@ Példák:
 | 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
+
 ⟪आस्⟫ 2 Ā "sitzen"
 
 ::: no-header
@@ -177,6 +192,7 @@ Példák:
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
+
 ⟪वच्⟫ 2 P "mond"
 
 ::: no-header
@@ -187,6 +203,7 @@ Példák:
 | 3\. pl. Präs. P | kommt nicht vor |
 
 :::
+
 ## 17.5. Két szótagú gyökök -i/-ī végződéssel szabatásos váltakozással
 
 Több gyök kétszótagú többféle alakban, azaz mássalhangzós végződés előtt -i-t (illetve egyes végződések előtt -ī-t) tartalmaz. Ezeket a gyököket azonban az őshonos grammatikusok és szótárak stb. egyszótagúként kezelik.
@@ -208,11 +225,12 @@ Példák:
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
+
 ⟪ब्रू⟫ 2 U "beszél"
 
 *   erős jelen idői tő: bravī- (« bro- + -ī)
 *   gyenge jelen idői tő:
-    *   vor Konsonant: brū-
+    *   mássalhangzó előtt: brū-
     *   magánhangzó előtt: bruv-
 
 ::: no-header
@@ -225,59 +243,82 @@ Példák:
 | 3. pl. jelen idő, középmód | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
+
 A ⟪स्तु⟫ 2. igemértékű „dicsér” mellé a fentebb megadott alakok mellett léteznek ezen mintára épülő alakok is:
 
 ::: no-header
 
 ebből:
 
+:::
 ::: indent
+
 ⟪घात⟫ m.: ölés
+
 :::
 
 ::: media
+
 ![](/images/lekt1703.webp)
+
 Ábr.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1703))
+
 :::
+
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ülni
 
 ebből:
 
 ::: indent
+
 ⟪आसन⟫ n.: az ülés, ülőhely ; továbbá: a jógi üléshelyei
+
 :::
 
 ::: media
+
 ![](/images/lekt1701.webp)
+
 Ábr.: ⟪योगासनम्⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1701))
+
 :::
+
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : sírni, nyögni
 
 ebből:
 
 ::: indent
+
 ⟪रुद्र⟫ m.: (a nyögő =) a viharisten Rudra
+
 :::
+
 ⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nincs Passzív és PPP: beszélni, mondani (valakinek valamihez: kettős akkuzatív)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : fejelni
 
 ::: media
+
 ![](/images/lekt1702.webp)
+
 Ábr.: ⟪दोग्धि⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt1702))
+
 :::
+
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mutatni, utasítani, parancsolni
 
 ebből:
 
 ::: indent
+
 ⟪दिष्टि⟫ f.: utasítás, szerencsés körülmény
 
 ⟪दिष्ट्या⟫ Instr.: (szó szerint: egy szerencsés körülmény által) Ó szerencsés körülmény (öröm és boldogság kiáltása)
+
 :::
 
 ## 17.7. Gyakorlat 1
@@ -413,4 +454,3 @@ Fordítsa le a következő igéket, és adja meg hozzájuk tartozó gyökérform
 ⟪४५⟫. ⟪जीव्यते⟫
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
-

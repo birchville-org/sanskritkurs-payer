@@ -186,12 +186,12 @@ Traditionally, one distinguishes:
 
 Abb.: ⟪देवा यीश्वादयः⟫
 
-Jesus und die übrigen Götter, Ahmedabad
-(Bildkälla: [Details](/sv/licenses#lekt2005))
+Jesus och de andra gudarna, Ahmedabad
+(Bildkälla: [Detaljer](/sv/licenses#lekt2005))
 
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. Bahuvrīhi med kasusförsett förled
 
 d.v.s. Bahuvrīhi vars första led representerar ett annat kasus än nominativ (⟪प्रथमा⟫).
 
@@ -230,7 +230,7 @@ Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
 
 :::
 
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## 20.5. Bahuvrīhi med adverbiellt förled
 
 I det första ledet står ett adverb, en preposition, ett preverb eller ett annat oböjligt ord; sådana sammansättningar är i regel ⟪नित्यसमास⟫.
 
@@ -311,7 +311,7 @@ Chennai = சென்னை
 
 :::
 
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## 20.8. Förhållandet mellan Bahuvrīhi och relativsats
 
 Även om varje Bahuvrīhi kan lösas upp med en relativsats, kan inte varje relativsats ersättas av en Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), som närmare undersökte förhållandet mellan de två (Compositum und Nebensatz, 1897), skriver:
 
@@ -579,7 +579,7 @@ Erklärung: ⟪त्रिविध ३⟫ : "dreifach"
 
 :::
 
-Definition der Erlösung nach dem Nyāyasystem:
+Definition av frälsning enligt Nyāya-systemet:
 
 ::: indent
 
@@ -618,7 +618,7 @@ Karnataka
 
 :::
 
-Über Besitzverhältnisse:
+Om ägandeförhållanden:
 
 ::: indent
 

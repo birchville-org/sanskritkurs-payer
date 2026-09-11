@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "souhrnné dvandva")
 
 ::: grammar-box
+
 **Pokud má dvandva vyjádřit, že řada věcí apod. tvoří celek, pak se obvykle uvádí v singuláru rodu středního:**
 
 např. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟩ neznamená prostě "jídlo (**āhāra** m.), spánek (**nidrā** f.), pohlavní styk (**maithuna** n.) a strach (**bhaya** n.)", ale tyto čtyři jako **jeden celek**, který charakterizuje živočišný život.
+
 :::
+
 Kromě tohoto základního pravidla pro tvoření samāhāradvandv existuje ještě řada dalších pravidel, která lze nalézt u Pāṇiniho 2,4,2-17 nebo např. u R. Kaleho, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. V různých fázích vývoje jazyka nebyla vždy dodržována stejná pravidla!
 
 
@@ -27,6 +30,7 @@ Kromě tohoto základního pravidla pro tvoření samāhāradvandv existuje ješ
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Taddhita přípona -ka tvoří mimo jiné:**
 
 1\. **Diminutiva (zmenšovací tvary jako německé -chen, -lein, -li, -le):**
@@ -41,15 +45,19 @@ Kromě tohoto základního pravidla pro tvoření samāhāradvandv existuje ješ
 4\. **Nomen, která vyjadřují "vztah k pojmu základního slova":**
 **kāśi f. "Benáres" » kāśika 3 ⟪काशिक⟩ "rodný z Benares, pocházející z Benares"**
 **rūpa n. "podoba" » rūpaka 3 ⟪रूपक⟩ "mající podobu něčeho"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), ženský rod často -ikā
 
 ::: grammar-box
+
 **Kṛt-suffix -aka, ženský rod často -ikā, tvoří agentní substantiva (substantiva vyjadřující činitele) ke každému kořeni.**
 
 Koncový samohláska kořene a také **-a-** na předposledním místě kořene jsou nahrazeny svým prodlouženým stupněm (**vṛddhi**) (existuje několik výjimek), ostatní samohlásky jsou nahrazeny svým zesíleným stupněm (**guṇa**).
+
 :::
+
 **Příklady:**
 
 | Kořen:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Význam |
@@ -62,8 +70,11 @@ Koncový samohláska kořene a také **-a-** na předposledním místě kořene 
 | **ji** :br1 P:br⟪जि⟫:br"zvítězit" | **jayaka** 3:br(⟪जयक⟫) | "vítězný" |
 
 ::: grammar-box
+
 **Některá z těchto utváření mají užší význam: "to, co obvykle nebo jako povinnost nebo dobře vykonává to, co je vyjádřeno kořenem".**
+
 :::
+
 viz výše např. **śrāvaka**, **yājaka**, **jayaka**
 
 **Příklady:**
@@ -84,17 +95,25 @@ Kromě toho existuje několik méně důležitých použití přípony **-aka**.
 **adhyayana** n. (⟪अध्ययन⟫) : učení, zejména studium Védy
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Obr.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram poblíž Madurai.
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : řemeslník
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Obr.: **kāru** = ⟪कारु⟫, Gudžarát.
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (cestující) vystupující, herec, zpěvák
 **kusīda** n. (⟪कुसीद⟫) : lichva
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : táhnout
@@ -124,10 +143,14 @@ k **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Obr.: **karṣaka** = ⟪कर्षक⟫.
 (Zdroj obrázku: [Details](/cs/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -142,7 +165,7 @@ Obr.: **karṣaka** = ⟪कर्षक⟫.
 19\. darśaka (⟪दर्शक⟫)
 20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:**
+**B) Přeložte:**
 
 1. Aufgaben aller Zweimalgeborenen:
    **ijyādhyayanadānāni**
@@ -154,22 +177,22 @@ Obr.: **karṣaka** = ⟪कर्षक⟫.
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 (Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya:
+3. Specifické povinnosti kšatriji:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = genitiv (2. pád): „všech bytostí“; Gautamadharmasūtra X, 7)
 
-4. Specifické povinnosti vaišyi:
+4. Specifické povinnosti vaišji:
    **kṛṣivāṇijyapāśupālyakusīdam**
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-(nach Gautamadharmasūtra X, 49)
+(podle Gautamadharmasūtra X, 49)
 
-5. Aufgaben eines Śūdra:
+5. Povinnosti šúdry:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
-(nach Kauṭilīya-Arthaśāstra 1.3.8.)
-Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+(podle Kauṭilīya-Arthaśāstra 1.3.8.)
+Vysvětlení: dvijātīnām = genitiv (2. pád) plurál od dvijāti (zde přeložte: „vůči dvakrát zrozeným“); kārukuśīlavakarma je tatpuruṣa s dvandvou (kārukuśīlava) v přední části. karma = nom. sg. od karman n. „čin, činnost, karma“ od kořene kṛ 8 U). Přeložte „čin / činnost ... (genitiv)“ (označených dvandvou).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (podle Kauṭilīya-Arthaśāstra 1.4.1.)

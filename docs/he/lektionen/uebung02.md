@@ -48,19 +48,19 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 B) תרגמו לסנסקריט:
 
-1\. Rāma ist ein Brahmane.
+1. ראמה הוא ברהמין.
 
 brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+2. המורה הוא ואישיה.
 
 vaiśyo guruḥ.
 
 ⟪वैश्यो⟫ ⟪गुरुः⟫
 
-3\. Der Śūdra ist ein heiliger Mann.
+3. השודרה הוא איש קדוש.
 
 sādhuḥ śūdraḥ.
 
@@ -72,13 +72,13 @@ guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu ist der HERR.
+5. וישנו הוא האדון.
 
 īśvaro viṣṇuḥ.
 
 ⟪ईश्वरो⟫ ⟪विष्णुः⟫
 
-6\. Der HERR ist Śiva.
+6. האדון הוא שיווה.
 
 śiva īśvaraḥ.
 
@@ -103,7 +103,10 @@ sādhur guruḥ.
 ⟪साधुर्गुरुः⟫
 
 ::: media
+
 ![](/images/uebung002.jpg)
+
 תמונה: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (מקור התמונה: [פרטים](/licenses#uebung002))
+
 :::

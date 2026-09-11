@@ -65,10 +65,14 @@ Budat dhe Arhantët janë të liruar nga vuajtja. Ata kanë arritur vështrimin 
 Përmes lakmisë, urrejtjes dhe verbërisë njerëzit shkatërrohen. Kur ka ardhur koha, ata bien në një ferr.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Burimi i imazhit: [Detaje](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatriya sjell luftëtarë heroikë nga qyteti i madh për të luftuar fshatin e armiqve.
 
@@ -88,7 +92,7 @@ Pa Rāma.
 Mësimi i një shenjtori çon në virtyt, jo ai i një të pashenjtë.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rama pret për Krishna.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Shkon lehtësisht (me fat).
@@ -113,10 +117,14 @@ Nëse dikush nga krenaria, lakmia, zemërimi ose frika jep një gjykim të gabua
 Ferrat lindin për shkak të së keqes, e keqja lind nga varfëria, varfësia lind nga mosdhënia.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति नरकाः पापात्⟫
 (Burimi i imazhit: [Detaje](/sq/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Një vjedhës lirohet nga fajti i vjedhjes përmes dënimit ose lirimit. Nëse mbreti nuk e dënon, atëherë ai merr përgjegjësinë për fajin e vjedhësit.
 
@@ -128,9 +136,13 @@ Një vjedhës lirohet nga fajti i vjedhjes përmes dënimit ose lirimit. Nëse m
 Ekonomia është e dobishme sepse prodhon grurë, bagëti, ar, metale dhe punë.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Burimi i imazhit: [Detaje](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Prandaj, tre shkencat kanë shkopin (daṇḍa) si bazë. Shkopi, që është baza e sjelljes së mirë, u siguron qenieve fitim dhe pronësi të sigurt. Sjellja e mirë është arritur përmes punës ose është e lindur. Veprimtaria edukon një material të përshtatshëm, jo të papërshtatshëm. Dijet edukojnë një mendje që ka arritur te e vërteta përmes bindjes, dëgjimit, kapjes së koncepteve, kuptimit dhe reflektimit, jo një tjetër. ... Nga ajo që dëgjohet lind njohja, nga njohja lind praktika, nga praktika lind vetëmbajtja; kështu shkencat i shërbejnë qëllimit të tyre. Dija dhe sjellja e mirë janë shkaktarët e fitores mbi shqisat. Kjo është e nevojshme për të hequr dorë nga dëshira, urrejtja, lakmia, mendjemadhësia, alkooli dhe emocionet.

@@ -30,7 +30,7 @@ When writing, each letter including the crossbar is completed on the headline be
 
 ## Exercise
 
-Schreiben Sie in Devanāgarī:
+Kirjutage devanaagaris:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 

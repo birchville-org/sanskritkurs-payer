@@ -1,6 +1,6 @@
 ---
-title: "Lesson 55"
-subtitle: "The a-aorist (aorist with thematic vowel)"
+title: "Leksjon 55"
+subtitle: "A-aoristen (aorist med tematisk vokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -13,6 +13,7 @@ status: stable
 ## 55.1. The a-aorist (Aorist with thematic vowel)
 
 ::: grammar-box
+
 **The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**
 
 **Augment + zero-grade root + a + secondary ending**
@@ -24,33 +25,44 @@ status: stable
 **The Ātmanepada is rare; for Ubhayapada roots it is usually formed according to other aorist classes (see Kielhorn, Grammar §340 and below under the corresponding aorist classes).**
 
 **List of roots that have this aorist in Kielhorn, Grammar §340.**
+
 :::
+
 Example:
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
 ::: indent
+
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
+
 :::
+
 Irregular formations:
 
 ::: indent
+
 ⟪अस्⟫ 4P "to throw": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Explanation see Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
 ⟪दृश्⟫ "to see": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Strong grade!)
+
 :::
+
 Note:
 
 ::: indent
+
 ⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
+
 :::
+
 ## 55.2. Exercise
 
 Determine and translate the following forms in writing, and form the corresponding a-aorist forms:
@@ -89,9 +101,12 @@ Determine and translate the following forms in writing, and form the correspondi
 32.  ⟪सिष्णेह⟫
 
 ::: media
+
 ![](/images/lekt5501.webp)
+
 Fig.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
+'Inâyat Khân døende, utkast til en miniatyr fra et manuskript for Jahângîr = جهانگير, rundt 1618
 (Bildekilde: [Detaljer](/no/licenses#lekt5501))
+
 :::
 

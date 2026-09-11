@@ -194,7 +194,7 @@ e.g. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 :::
 
-⟪अस्⟫ 2P (besonders zu merken!)
+⟪अस्⟫ ፪ኛ ብዙኅ (ይትዐቀብ!)
 
 ::: grammar-box
 
@@ -233,7 +233,7 @@ e.g. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 :::
 
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+## ፵፬.፬. ቃለ ምጽዋዕ (⟪आमन्त्रितम्⟫)
 
 ሊቃውንት ሰዋስው ዘሀገር አልቊጽርዎሙ ለቃለ አድኅሮት (⟪आमन्त्रितम्⟫) ከመ ጾታ ስም ዘርእስ፣ አላ ከመ ለውጥ ዘጾታ ስም ዘርእስ (⟪प्रथमा⟫)።
 
@@ -312,7 +312,7 @@ davon:
 
 ![](/images/lekt4403.webp)
 
-Abb.: ⟪रेल्यानम्⟫
+ስዕሊ: ⟪रेल्यानम्⟫
 
 (Image source: [Details](/gez/licenses#lekt4403))
 
@@ -338,7 +338,7 @@ davon:
 
 ![](/images/lekt4404.webp)
 
-Abb.: ⟪योगी शयने शेते⟫
+ስዕሊ: ⟪योगी शयने शेते⟫
 
 (Image source: [Details](/gez/licenses#lekt4404))
 
@@ -367,7 +367,7 @@ davon:
 
 ![](/images/lekt4405.webp)
 
-Abb.: ⟪नन्दी⟫
+ስዕሊ: ⟪नन्दी⟫
 
 (Image source: [Details](/gez/licenses#lekt4405))
 

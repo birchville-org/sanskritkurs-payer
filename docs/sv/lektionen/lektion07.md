@@ -304,7 +304,7 @@ Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
 
 **C) Sätt agent, objekt och verb i plural i övningssatserna B).**
 
-**D) Setzen Sie ins Ātmanepada:**
+**D) Sätt i Ātmanepada:**
 
 1. sunvanti.
 ⟪सुन्वन्ति⟫ |
@@ -327,9 +327,8 @@ Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪�
 
 **E) Bilda ackusativ (dvitīyā) singular och plural för alla hittills inlärda substantiv.**
 
-**F) Übersetzen Sie:**
+**F) Översätt:**
 
-:::
 
 9. What is this holy man chewing?
 10. What are these (here) pressing out?

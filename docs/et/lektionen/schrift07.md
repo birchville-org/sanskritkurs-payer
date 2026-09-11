@@ -12,7 +12,7 @@ Zur Schreibung:
 
 ![](/images/schrift013.jpg)
 
-r nach Konsonant: /
+r pärast kaashäälikut: /
 
 *   vertikaalse lõpujoonega tähtede puhul: / vertikaalse lõpujoone küljes
 

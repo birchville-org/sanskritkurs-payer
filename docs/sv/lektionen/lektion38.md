@@ -221,7 +221,6 @@ Example:
 ⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Once upon a time there was a king **named Nala**, the strong son of Vīrasena."
 :::
 Naturally, the same can be expressed with a ⟪बहुव्रीहि⟫:
-:::
 Naturally, the same can be expressed with a ⟪बहुव्रीहि⟫:
 
 ::: indent

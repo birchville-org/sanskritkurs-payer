@@ -240,6 +240,7 @@ Abb.: ⟪फले⟫
 ⟪धिनु⟫ cái.  
 ⟪मधु⟫ trung tính.
 
+:::
 ::: grammar-box
 |   | Giống đực :br ⟪पुंस्⟫ | Giống cái :br ⟪स्त्री⟫ | Trung tính :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |

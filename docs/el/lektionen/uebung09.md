@@ -63,15 +63,15 @@ ijyādhyayanadānāni ⟪इज्याध्ययनदानानि�
 
 Opfer, Vedastudium, Gaben geben.
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2. Ειδικά καθήκοντα ενός Βραχμάνου:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Διδασκαλία, θυσίες κατ' εντολή, αποδοχή δώρων.
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3. Ειδικά καθήκοντα ενός Κσατρίγια:
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
@@ -81,35 +81,38 @@ rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभू�
 
 Hüten aller Wesen.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4. Ειδικά καθήκοντα ενός Βαϊσία:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(σύμφωνα με το Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Γεωργία, εμπόριο, κτηνοτροφία και δανεισμός χρημάτων.
 
-5\. Aufgaben eines Śūdra:
+5. Καθήκοντα ενός Σούντρα:
 
 dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(σύμφωνα με το Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+Επεξήγηση:
+dvijātīnām = γενική πληθυντικού του dvijāti (μεταφράστε εδώ: "προς τους δις γεννημένους")
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+Το kārukuśīlavakarma είναι ένα Tatpuruṣa με ένα Dvandva (kārukuśīlava) στο πρώτο συνθετικό. karma = ονομαστική ενικού του karman n. "πράξη, δραστηριότητα, κάρμα" από τη ρίζα kṛ 8 U). Μεταφράστε "πράξη / δραστηριότητα των ... (γενική)" (που υποδηλώνεται από το Dvandva).
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Υπακοή στους δις γεννημένους, δραστηριότητες για βιοπορισμό, δραστηριότητα ως τεχνίτης ή πλανόδιος καλλιτέχνης.
 
 6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(σύμφωνα με το Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+Οικονομία είναι η γεωργία, η κτηνοτροφία και το εμπόριο.
 
 ::: media
+
 ![](/images/uebung013.webp)
+
 Εικ.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung013))
+
 :::

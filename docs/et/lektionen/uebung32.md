@@ -271,7 +271,7 @@ Sisestage järgmistes lausetes sulgudes olevad sõnad ja pöörake tähelepanu S
 4. Võimsad sõdalased on läinud braahmanite külla.
 **⟪बलवद्योधा ब्राह्मणग्रामं गताः ॥⟫**
 
-5\. Das Mädchen weint.
+5\. Tüdruk nutab.
 **⟪बाला रोदिति ॥⟫**
 
 6. Ei ole haigust nagu himu, vaenlast nagu segadus, tuld nagu viha, õnne nagu teadmine.
@@ -294,7 +294,7 @@ Sisestage järgmistes lausetes sulgudes olevad sõnad ja pöörake tähelepanu S
 11. Taeva pärast teevad inimesed teenekaid tegusid.
 **⟪स्वर्गेभ्यो नराः पुण्यं कुर्वते ॥⟫**
 
-12\. Auf Wiedersehen!
+12\. Nägemist!
 **⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
@@ -328,7 +328,7 @@ Joonis: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 
 ---
 
-## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## Jutustus: Vanamees ja ahvid (Sanskrit-Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 

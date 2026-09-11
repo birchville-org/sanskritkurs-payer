@@ -74,7 +74,7 @@ A) Determine and translate the following forms:
 
 ## Übersetzungen
 
-B) Übersetzen Sie:
+B) Tõlkige:
 
 ⟪१⟫. **⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪साधुना⟫ ⟪जयेत्⟫ ⟪।⟫ ⟪जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 [76] Vihatusega võitku viha, heaga võitku kurja; tõega võitku ebatõde.

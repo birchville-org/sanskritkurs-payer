@@ -30,7 +30,7 @@ Wanneer geskryf word, moet elke letter – insluitend die dwarsstok en die boons
 
 ## Oefening
 
-Schreiben Sie in Devanāgarī:
+Skryf in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -40,5 +40,3 @@ Lees en translitereer:
 Bykomende leesstak:
 
 ⟪पिता⟫ Vader, ⟪कपि⟫ Aap, ⟪कृत⟫ klaar,  ⟪टीका⟫ sub-kommentaar, ⟪तत्⟫ hierdie, ⟪तट⟫ oewer, ⟪पत्⟫ skiet daar oor, ⟪पट⟫ weefsel, ⟪काच⟫ glas,  ⟪काकुत्⟫ verhemelte, ⟪चित्⟫ waarneem, ⟪पृच्⟫ meng,  ⟪पोटक⟫ dienaar, ⟪चेतु⟫ bedoeling, ⟪तौतातित⟫ volgeling van Kumārila (Mīmāṃsā), ⟪तूत⟫ moerbeiboom, ⟪पीत⟫ dronk,  ⟪पीति⟫ drink, ⟪कॢप्⟫  pak, ⟪कृपते⟫ hy treur, ⟪पुटी⟫ kraai, ⟪चापि⟫ ook, ⟪तोक⟫ nageslag, ⟪तृपत्⟫ vol, ⟪पॄ⟫ vul, ⟪कृकाटी⟫ nekgewrig, ⟪पूपौ⟫ twee koeke, ⟪पैतृकी⟫ paternal (fem.), ⟪कौट⟫ slinks, ⟪कच⟫ hare op die kop, ⟪कुतपे⟫ op die bokhaar- kombers, ⟪कुचौ⟫ bors, ⟪चकिता⟫ bevrees (vroulik)
-
-

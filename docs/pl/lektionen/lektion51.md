@@ -13,6 +13,7 @@ status: stable
 ## 51.1. ⟪उपपद⟫-złożenia
 
 ::: grammar-box
+
 **⟪उपपद⟫-złożenia (⟪उपपद⟫ n. "wyraz towarzyszący") to ⟪तत्पुरुष⟫ z rzeczownikiem odczasownikowym jako członem tylnym, który występuje wyłącznie jako człon tylny złożeń, a nie jako samodzielne słowo. ⟪उपपद⟫ tworzy się z sufiksami ⟪कृत्⟫:**
 * **-Ø**
 * **-a**
@@ -25,52 +26,77 @@ status: stable
 Przykłady:
 
 :::
+
 ::: indent
+
 ⟪सुखकरः⟫ = ⟪सुखं करोतीति सुखकरः कुलघ्नः⟫ = ⟪कुलम्हन्तीति कुलघ्नः⟫
+
 :::
+
 Przykłady:
 
 a) Sufiks ⟪कृत्⟫ \-Ø
 
 ::: indent
+
 \-⟪नी⟫ 3 "prowadzący" np. ⟪सेनानी⟫ m. "wódz armii" (⟪सेना⟫ f. "armia")
 
 \-⟪भुज्⟫ 3 "używający, jedzący" np. ⟪भूमिभुज्⟫ m. "król" (⟪भूमि⟫ f. "ziemia")
 
 \-⟪विद्⟫ 3 "wiedzący" np. ⟪धर्मविद्⟫ 3 "znający dharmę"
+
 :::
+
 ::: media
+
 ![](/images/lekt5101.webp)
+
 Ilustracja: ⟪भूमिभुज् ज्ञानेन्द्र वीर बिक्रम शाह⟫, ⟪नेपालस्यान्तिमो राजा⟫ (2001 - 2008)
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5101))
+
 :::
+
 b) Sufiks ⟪कृत्⟫ -t
 
 ::: indent
+
 \-⟪कृत्⟫ 3 "czyniący" np.
 
 :::
+
 ::: indent
-⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend"
+
+⟪कुलक्षयकृत्⟫ 3 „powodujący zniszczenie rodziny”
 
 ⟪पापकृत्⟫ 3 "Böses tuend, Übeltäter"
+
 :::
+
 \-⟪जित्⟫ 3 "zwyciężający", np.
 
 ::: indent
-⟪शत्रुजित्⟫ 3 "die Feinde besiegend"
+
+⟪शत्रुजित्⟫ 3 „zwyciężający wrogów”
 
 ⟪पुरुजित्⟫ 3 "viele besiegend" (⟪पुरु⟫ 3 "viel, reichlich")
+
 :::
+
 \-⟪भृत्⟫ 3 "niosący, podtrzymujący" np. ⟪भूमिभृत्⟫ m. "król"
+
 ::: media
+
 ![](/images/lekt5103.webp)
+
 Ilustracja: ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5103))
+
 :::
+
 c) ⟪कृत्⟫-sufiks -a
 
 ::: indent
+
 \-⟪ग⟫ 3 "idący (w, do)" (prawdopodobnie od rdzenia gā, głęboka forma g + a) np. ⟪खग⟫ 3 "latający" m. "ptak, planeta wędrująca" (⟪ख⟫ n. "dziura, 'przestrzeń powietrzna'")
 
 \-⟪घ्न⟫ 3 "zabijający" np. ⟪कुलघ⟫ 3 "zabijający rodziny"
@@ -90,67 +116,96 @@ c) ⟪कृत्⟫-sufiks -a
 \-⟪कर⟫ 3 "sprawiający, czyniący" np. ⟪सुखकर⟫ 3 "dostarczający szczęścia"
 
 \-⟪स्मर⟫ 3 "pamiętający" np. ⟪जातिस्मर⟫ 3 "pamiętający wcześniejsze narodziny"
+
 :::
+
 ::: media
+
 ![](/images/lekt5102.webp)
+
 Ilustracja: ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5102))
+
 :::
+
 ## 51.2. Deklinacja pni kończących się prostą spółgłoską (z wyjątkiem nosówki, półsamogłoski, -s)
 
 ::: grammar-box
+
 **Pnie kończące się prostą spółgłoską (z wyjątkiem nosówki, półsamogłoski, -s) nie mają ablautu pnia. Deklinacja odbywa się w pełni regularnie przez dodanie regularnych końcówek przypadkowych.**
 
 **Jedyna nieregularność: w M.,B.,Woł.l. Neutrum przed końcem pnia wstawiany jest nasal.**
+
 :::
+
 ### 51.2.1. Plemiona na zwarte spółgłoski niepalatalne
 
 ::: grammar-box
+
 **Obowiązują zwykłe prawa fonetyczne, tzn.**
 * **na końcu wyrazu występuje odpowiedni bezdźwięczny nieaspirat**
 * **przed -su dopełniacza liczby mnogiej końcówka wyrazu jest najpierw zastępowana odpowiednim bezdźwięcznym nieaspiratem, a następnie zachodzą odpowiednie zmiany fonetyczne**
 * **przed dźwięczną spółgłoską końcówka wyrazu jest zastępowana odpowiednim dźwięcznym nieaspiratem.**
+
 :::
+
 Przykłady:
 
 ⟪शत्रुजित्⟫ 3 "zwyciężając wrogów"
 
 ::: indent
+
 Rodzaj męski, żeński:
 
 :::
+
 ::: indent
+
 Liczba pojedyncza:
 
 :::
+
 ::: indent
+
 > Mianownik.Wołacz ⟪शत्रुजित्⟫ (śatrujit + s)
 Biernik ⟪शत्रुजितम्⟫
+
 :::
+
 > Liczba mnoga:
 
 ::: indent
+
 > Mianownik.Biernik.Wołacz ⟪शत्रुजितस्⟫
 > Narzędnik ⟪शत्रुजिद्भिस्⟫
 > Miejscownik ⟪शत्रुजित्सु⟫
+
 :::
+
 > Rodaj nijaki
 
 ::: indent
+
 > Liczba pojedyncza Mianownik.Biernik.Wołacz ⟪शत्रुजित्⟫
 > Liczba mnoga Mianownik.Biernik.Wołacz :sig[⟪शत्रुजिन्ति⟫]
+
 :::
+
 > ⟪सुयुध्⟫ 3 "dobrze walczący"
 
 ::: indent
+
 > Liczba pojedyncza Mianownik.Wołacz.m.ż.n. ⟪सुयुत्⟫
 > itd.
+
 :::
+
 > Pełne paradigmy u Kielhorna, Gramatyka str. 16nast.
 
 > ### 51.2.2. Plemiona na zwarte spółgłoski palatalne (c, ch, j), ś, ṣ
 
 ::: grammar-box
+
 > **Przed końcówką zaczynającą się samogłoską, koniec plemienia pozostaje niezmieniony.**
 
 > **Przed pozostałymi końcówkami obowiązuje:**
@@ -167,90 +222,133 @@ Biernik ⟪शत्रुजितम्⟫
 * **-j » -k lub -ṭ**
 * **-ś » -ṭ lub -k**
 * **-ṣ » -ṭ lub -k**
+
 :::
+
 Przykłady:
 
 ⟪सत्यवाच्⟫ 3 "mówiący prawdę" (⟪बहुव्रीहि⟫)
 
 ::: indent
+
 Rodzaj męski, żeński:
 
 :::
+
 ::: indent
+
 L. poj.:
 
 :::
+
 ::: indent
+
 M.B. ⟪सत्यवाक्⟫
 B. ⟪सत्यवाचम्⟫
 N. ⟪सत्यवाचा⟫
+
 :::
+
 L. lm.:
 
 ::: indent
+
 N. ⟪सत्यवाग्भिस्⟫
 M. ⟪सत्यवाक्षु⟫
+
 :::
+
 Rodzaj nijaki
 
 ::: indent
+
 L. poj. M.B.V. ⟪सत्यवाक्⟫
 L. lm. M.B.V. ⟪सत्यवाञ्चि⟫
+
 :::
+
 ⟪शेषभुज्⟫ 3 "jedzący resztki jedzenia"
 
 ::: indent
+
 Rodzaj męski, żeński:
 
 :::
+
 ::: indent
+
 L. poj.:
 
 :::
+
 ::: indent
+
 M.B. ⟪शेषभुक्⟫
 B. ⟪शेषभुजम्⟫
+
 :::
+
 L. lm.:
 
 ::: indent
+
 N. ⟪शेषभुग्भिस्⟫
 M. ⟪शेषभुक्षु⟫
+
 :::
+
 Rodzaj nijaki
 
 ::: indent
+
 L. poj. M.B.V. ⟪शेषभुक्⟫
 L. lm. M.B.V. ⟪शेषभुञ्जि⟫
+
 :::
+
 ⟪परिव्राज्⟫ m. "wędrujący mnich"
 
 ::: indent
+
 Rodzaj męski, żeński:
 
 :::
+
 ::: indent
+
 L. poj.:
 
 :::
+
 ::: indent
+
 M.B. ⟪परिव्राट्⟫
 B. ⟪परिव्राजम्⟫
+
 :::
+
 L. lm.:
 
 ::: indent
+
 N. ⟪परिव्राड्भिस्⟫
 M. ⟪परिव्राट्सु⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt5104.webp)
+
 Ilustracja: ⟪परिव्राट् पुष्कर⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5104))
+
 :::
+
 ### 51.2.3. Tematy na -h
 
 ::: grammar-box
+
 **Przed końcówką zaczynającą się samogłoską -h pozostaje bez zmian.**
 
 **Przed pozostałymi końcówkami**
@@ -261,74 +359,109 @@ Ilustracja: ⟪परिव्राट् पुष्कर⟫
 **Po tych podstawieniach temat jest dalej traktowany, jakby kończył się na -ḍh, -gh lub -dh.**
 
 **Por. paradigmy u Kielhorn, Gramatyka, s. 20n.**
+
 :::
+
 Przykłady:
 
 ::: indent
+
 ⟪गुह्⟫ 3 "ukrywający"
 
 Rodzaj męski, żeński:
 
 :::
+
 ::: indent
+
 L. poj.:
 
 :::
+
 ::: indent
+
 M.N. ⟪घुट्⟫ (prawo Grassmanna: ⟪गुढ्⟫ + s)
 B. ⟪गुहम्⟫
+
 :::
+
 L. mn.:
 
 ::: indent
+
 Nar. ⟪घुड्भिस्⟫
 Msc. ⟪घुट्सु⟫
+
 :::
+
 ⟪द्रुह्⟫ "szkodzący, nienawidzący" (opcjonalnie -ḍh/-gh)
 
 Rodzaj męski, żeński:
 
 ::: indent
+
 L. poj.:
 
 :::
+
 ::: indent
+
 M.N. ⟪ध्रुट् । ध्रुक्⟫
 B. ⟪द्रुहम्⟫
+
 :::
+
 L. mn.:
 
 ::: indent
+
 Nar. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
 Msc. ⟪ध्रुट्सु । ध्रुक्षु⟫
+
 :::
+
 ## 51.3. Sandhi h- na początku wyrazu
 
 ::: grammar-box
+
 **Przed h- na początku wyrazu poprzedni spółgłoska zwarta jest zastępowana przez odpowiednią dźwięczną nieaspirowaną, a h- na początku wyrazu zastępowane jest przez odpowiednią dźwięczną aspirowaną do tej spółgłoski zwartej:**
 
 :::
+
 ::: indent
+
 ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+
 :::
+
 ## 51.4. Sandhi ch- na początku wyrazu
 
 ::: grammar-box
+
 **ch- na początku wyrazu jest po krótkiej samogłosce, po ⟪मा⟫ "nie" i po ⟪आ⟫ "do" zastępowane przez cch-:**
 
 :::
+
 ::: indent
+
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
+
 :::
+
 ## 51.5. -ch- wewnątrz wyrazu
 
 ::: grammar-box
+
 **Wewnątrz wyrazu -ch- jest po wszystkich samogłoskach zastępowane przez -cch-:**
 
 :::
+
 ::: indent
+
 np. ⟪छिद्⟫ » ⟪चिच्छेद⟫
+
 :::
+
 ## 51.6. Słownik
 
 ⟪अजिन⟫ n.: skóra antylopy, zwłaszcza skóra czarnej antylopy (antylopka czarna : _Antilope cervicapra_ L. ). Występowała pierwotnie na całym subkontynencie indyjskim od Pendżabu i Sindu do Bengalu oraz od Nepalu po Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Por.:
@@ -336,10 +469,14 @@ np. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
 ::: media
+
 ![](/images/lekt5105.webp)
+
 Ilustracja:
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5105))
+
 :::
+
 ⟪अतिथि⟫ m.: gość
 
 ⟪अभ्यन्तर⟫ 3: znajdujący się wewnątrz, najbliższy ; m. najbliższy krewny, tubylec
@@ -349,24 +486,35 @@ Ilustracja:
 ⟪ऋतु⟫ m.: okresowy proces, pora roku, odcinek czasu, miesiączka, czas, w którym kobieta jest płodna i ma prawo do współżycia ze swoim mężem.
 
 ::: note-box
+
 W odniesieniu do ⟪ऋतु⟫ zob. Manu III, 45-48: zgodnie z tym ⟪ऋतु⟫ trwa 16 dni (zgodnie z alternatywnym tłumaczeniem: 20 dni) od początku miesiączki, przez pierwsze cztery dni po jej rozpoczęciu obowiązuje zakaz współżycia (zgodnie z alternatywnym tłumaczeniem: przez pierwsze osiem dni (4 + 8)), a także jedenasty (lub piętnasty) oraz trzynasty (osiemnasty) dzień. Kobieta zapłodniona w dni paryste rodzi synów, a w dni niepariste córki. Dla dalszych rozważań przyjmuje się ⟪ऋतु⟫ o łącznej długości 16 dni (nie wersję alternatywną), co czyni większość rodzimych komentarzy, a więc była to dominująca opinia.
 
 Ponieważ owulacja następuje 14 dni przed rozpoczęciem miesiączki, przy tej definicji płodnego okresu płodność jest niemal "gwarantowana" dla odległości między miesiączkami wynoszącej 19 do 30 dni. Zakazane dni (11. i 13.) zwiększają prawdopodobieństwo współżycia w dniu 12. i 14., czyli prawdopodobieństwo zapłodnienia przy cyklu trwającym 28 dni (czas życia plemników w ciele kobiety wynosi około 3 dni). Te przepisy można uznać za swoisty pozytywny zastosowanie metody Knausa-Ogino.
+
 :::
+
 ::: media
+
 ![](/images/lekt5106.jpg)
+
 Rys.: ⟪ऋतुः⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5106))
+
 :::
+
 ⟪एकत्र⟫ Adv.: w jednym miejscu
 
 ⟪जटा⟫ f.: warkocz z włosów (upięcie włosów ascety)
 
 ::: media
+
 ![](/images/lekt5107.webp)
+
 Rys.: ⟪जटा ऋषिकेश⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5107))
+
 :::
+
 ⟪तुल्य⟫ 3: równy, porównywalny (⟪तृतीयया⟫)
 
 ⟪तरय⟫ 3 (f.: ⟪तरयी⟫): potrójny, składający się z trzech części
@@ -382,95 +530,134 @@ Rys.: ⟪जटा ऋषिकेश⟫
 ⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : porzucić, zostawić
 
 ::: indent
+
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
 Fut. ⟪शेक्ष्यति⟫
 Pass. ⟪शिष्यते⟫
 Kaus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
+
 :::
+
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : odróżniać
 
 ::: indent
+
 Pass. ⟪विशिष्यते⟫ : odróżniać się od (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), być lepszym niż (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), być najlepszym wśród (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+
 :::
+
 ⟪समान⟫ 3: tego samego rodzaju, równy, podobny ; m.: rówieśnik
 
 ⟪स्व⟫ 3: własny, swój (mój, twój itp.) Deklinowany jak ⟪सर्व⟫. W Abl.Lok.sg.m.n oraz w Nom.pl.m może być również deklinowany jak ⟪देव⟫:
 
 ::: indent
+
 Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
 Lok.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
 Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
+
 :::
+
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : skrytykować, potępić
 
 ::: indent
+
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
+
 :::
+
 ⟪पिशित⟫ n.: (przygotowane) mięso
 
 ::: media
+
 ![](/images/lekt5108.webp)
+
 Rys.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5108))
+
 :::
+
 ⟪उपहार⟫ m.: ofiara, dar, podarek
 
 ⟪मधु⟫ n.: miód, napój słodki, miód pitny (miód)
 
 ::: media
+
 ![](/images/lekt5109.webp)
+
 Ilustracja: ⟪मधु⟫
 Pałac Miejski, ⟪उदयपुर⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5109))
+
 :::
+
 ⟪मांस⟫ n.: mięso
 
 ⟪मृगया⟫ f.: polowanie
 
 ::: media
+
 ![](/images/lekt5110.webp)
+
 Ilustracja: ⟪मृगया⟫
 Polowanie z ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gudźarat = ગુજરાત, 1812
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5110))
+
 :::
+
 ⟪शिवा⟫ f.: (żeń.) szakal (szakal złotawy = _Canis aureus_)
 
 ::: media
+
 ![](/images/lekt5111.webp)
+
 Ilustracja: ⟪शिवा⟫
 _Canis aureus_, rezerwat Kalatop Khajjiar
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5111))
+
 :::
+
 ⟪रुत⟫ n.: krzyk
 
 ⟪कौशिक⟫ m.: puchacz
 
 ::: media
+
 ![](/images/lekt5112.webp)
+
 Ilustracja: ⟪कौशिकः⟫
 Puchacz Brahmy (_Athene brama_), Mahesana = મહેસાણા
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5112))
+
 :::
+
 ⟪शकुनि⟫ m.: ptak
 
 ⟪श्वन्⟫ m.: pies
 
 ::: indent
+
 silny rdzeń ⟪श्वान्⟫
 słaby rdzeń przed samogłoską ⟪सुन्⟫
 słaby rdzeń przed spółgłoską ⟪श्व⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt5113.jpg)
+
 Ilustracja: ⟪श्वा लिङ्गं च⟫
 Karnatak = ಕರ್ನಾಟಕ
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5113))
+
 :::
+
 ⟪परिचित⟫ 3: znany, rozpoznawalny
 
 ⟪अटवी⟫ f.: las
@@ -480,37 +667,52 @@ Karnatak = ಕರ್ನಾಟಕ
 ⟪आपान⟫(⟪क⟫) n.: biesiada
 
 ::: media
+
 ![](/images/lekt5114.webp)
+
 Ilustracja: ⟪आपानकम् जोधपुर⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5114))
+
 :::
+
 ⟪क्रूर⟫ 3: dziki, okrutny
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : smarować, posmarowywać
 
 ::: indent
+
 Perf. II ⟪दिदेह⟫
 Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
+
 :::
+
 ⟪विष⟫ n.: trucizna
 
 ::: media
+
 ![](/images/lekt5115.webp)
+
 Ilustracja: ⟪मूषिकाविषाणि⟫
 Bangalor = ಬೆಂಗಳೂರು
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5115))
+
 :::
+
 ⟪भुजंग⟫ m.: wąż
 
 ::: media
+
 ![](/images/lekt5116.webp)
+
 Ilustracja: ⟪भुजंगः⟫
 Wąż łańcuchowy (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5116))
+
 :::
+
 ⟪सायक⟫ m.: strzała
 
 ⟪उत्साद⟫ m.: zginąć, zniszczenie
@@ -532,20 +734,28 @@ Wąż łańcuchowy (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 ⟪मणि⟫ m.: klejnot
 
 ::: media
+
 ![](/images/lekt5118.webp)
+
 Ilustracja: ⟪मणिः⟫
 Hope Diamond z Guntur = గుంటూరు, obecnie Smithsonian Museum of Natural History, Waszyngton DC
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5118))
+
 :::
+
 ⟪वन⟫ n.: las
 
 ⟪मद⟫ m.: także "sok godowy" słonia (w stanie [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
+
 ![](/images/lekt5117.webp)
+
 Ilustracja: ⟪मदः⟫
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5117))
+
 :::
+
 ⟪राग⟫ m.: także: kolor, czerwony kolor
 
 ⟪कालन⟫ n.: las
@@ -553,12 +763,15 @@ Ilustracja: ⟪मदः⟫
 ⟪खन्⟫ 1U ⟪खनति⟫ : kopać
 
 ::: indent
+
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
 Absol ⟪खनित्वा । खात्वा⟫
+
 :::
+
 ⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : myśleć, rozmyślać
 
 ⟪शबर⟫ .:  nazwa własna niearyjskiego plemienia
@@ -572,8 +785,11 @@ Wyjaśnienie: -⟪अभिषेकौ⟫ Mian./Biern./Woł. Dual.masc. (Dualdv
 ⟪२⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ O konieczności zwracania uwagi na ⟪वर्नाश्रमधर्म⟫
 
 ::: indent
+
 ⟪तस्मात्स्वधर्मं भूतानाम् राजा न व्यभिचारयेत् ।स् स्वधर्मं संदधानो हि प्रेत्य चेह च नन्दति ॥१६॥ व्यवस्थितार्यमर्यादः कृतवर्णाश्रमस्थितिः । त्रय्याभिरक्षितो लोकः प्रसीदति न सीदति ॥१७॥⟫
+
 :::
+
 ⟪३⟫. ⟪बाण⟫ (VII w. n.e.): ⟪कादम्बरी⟫ wyd. K.P. Parab, 1896, s. 65nast.: Rozważania papugi ⟪वैशम्पायन⟫ o życiu myśliwego:
 
 ⟪आसीच्च मे मनसि⟫ -- ⟪अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः⟫ , ⟪अहारः साधुजनगर्हितो मधुमांसादिः⟫ , ⟪श्रमो मृगया⟫ , ⟪शास्त्रं शिवारुतम्⟫ , ⟪समुपदेष्टारः सद्सतां कौशिकाः⟫ , ⟪प्रज्ञा शकुनिज्ञानम्⟫ , ⟪परिचिताः श्वानः⟫ , ⟪राज्यं शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि क्रुरकर्मसाधनानि धनूंषि⟫ , ⟪सहाया विषदिग्धमुखा भुजंगा इव सायकाः⟫ , ⟪गीतमुत्सादकारि मुग्धमृगाणाम्⟫ , ⟪कलत्राणि बन्दीगृहीताः परयोषितः⟫ , ⟪क्रूरात्मभिः शार्दूलैः सह संवासः⟫ , ⟪पशुरुधिरेण देवतार्चनम्⟫ , ⟪मांसेन बलिकर्म⟫ , ⟪चौर्येण जीवनम्⟫ , ⟪भूषणानि भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातमूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥ ४⟫. Komentarz ⟪भानुचन्द्र⟫ (XVI w.) do poprzedniego rozdziału ⟪कादम्बरी⟫ (ćwiczenie to powinno być tłumaczone pod kierunkiem nauczyciela. Jeśli taki nie jest dostępny, można je pominąć)

@@ -51,10 +51,10 @@ Pani, proszę nie donosić Panu Rāmie o moim upokorzeniu.
 B) Przetłumacz na sanskryt, używając trybu rozkazującego:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden.
+Chcę być utrzymywany.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein.
+Niech będzie zadowolony.
 
 ---
 
@@ -153,7 +153,10 @@ Niech będziemy prowadzeni przez Ciebie.
 Niech służy na szczęście! (Życzenie błogosławieństwa)
 
 ::: media
+
 ![](/images/uebung075.webp)
+
 Ilustracja: ⟪माद्यत⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung075))
+
 :::

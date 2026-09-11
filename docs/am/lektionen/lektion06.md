@@ -13,12 +13,15 @@ status: stable
 ## 6.1. የግስ ሐረግ
 
 ::: grammar-box
+
 **ስኬማ I: የግስ ቅርጽ**
 ለምሳሌ **yajati** = ⟪यजति⟫ = "እሱ (እሷ፣ ይህ) በቅዳሜ ያከብራል"፣ "እሱ (እሷ፣ ይህ) ቅዳሜ ያቀርባል"
 
 **ስኬማ II: ግብረኛ (kartṛ m. = ⟪कर्तृ⟫) – የግስ ቅርጽ**
 ለምሳሌ **rāmo yajati** = ⟪रामो यजति⟫ = "ራማ በቅዳሜ ያከብራል"፣ "ራማ ቅዳሜ ያቀርባል"
+
 :::
+
 ግብረኛው (**kartṛ** m. = ⟪कर्तृ⟫) በግስ ሐረግ ውስጥ ሲጠቀስ፣ ይህም በግላዊ (Passive) አይደለም፣ ግብረኛው በ**ኖሚናቲቭ** (የመጀመሪያው ጉዳይ፣ prathamā = ⟪प्रथमा⟫) ይቀመጣል። በቁጥር (vacana n. = ⟪वचन⟫) ግብረኛው እና የግስ ቅርጹ ይስማማሉ።
 
 
@@ -59,8 +62,11 @@ status: stable
 ፕሬዘንስ የአሁን ጊዜ ጊዜ ሲሆን በተለይም የቆይታ ጊዜ ነው።
 
 ::: grammar-box
+
 **Indikativ (የመናገሪያ ቅርጽ) ፕሬዘንስ የሚፈጠረው በፕሬዘንስ ሥር ላይ የተባሉት የመጀመሪያ መጨረሻዎች በመጨመር ነው።**
+
 :::
+
 ምሳሌዎች፡
 
 | ሥር (dhātu) | የፕሬዘንስ ሥር | 3. ሰውነት ቁጥር Indikativ ፕሬዘንስ ፓራስማይፓዳ |
@@ -73,11 +79,14 @@ status: stable
 ## 6.4. የሦስተኛ ሰው መሰረታዊ ቅጦች (prathama m. = ⟪प्रथम⟫ = "የመጀመሪያ (!) ሰው")
 
 ::: grammar-box
+
 | | ቁጥር (Einzahl):brekavacana n.:br⟪एकवचन⟫ | ብዛት (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+
 :::
+
 ምሳሌ **yaj** = ⟪यज्⟫ = "በቅዳሜ ማክበር", "ቅዳሜ ማቅረብ":
 የአሁን ጊዜ ስም: **yaja** = ⟪यज⟫
 3. sg. P. **yajati** = ⟪यजति⟫
@@ -91,16 +100,20 @@ status: stable
 ### 6.5.1. የ6ኛ የአሁን ጊዜ ክፍል ግራጫዎች (tudādi = ⟪तुदादि⟫ = "tud እና ሌሎች")
 
 ::: grammar-box
+
 **የአሁን ጊዜ ስም = በዝቅተኛ ደረጃ (እንደተዘገበበት) + a-**
 
 | ሥር (dhātu m.):br⟪धातु⟫ | የአሁን ጊዜ ስም |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
+
 :::
+
 ### 6.5.2. የ1ኛ የአሁን ጊዜ ክፍል ግራጫዎች (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū እና ሌሎች")
 
 ::: grammar-box
+
 | የአሁን ጊዜ ስም = በከፍተኛ ደረጃ (በጣም አልፎ አልፎ በተራዘመ ደረጃ) + a- ||||
 | ሥር (dhātu m.):br⟪धातु⟫ | ከፍተኛ ደረጃ | ከፍተኛ ደረጃ በa- በፊት | የአሁን ጊዜ ስም |
 | :--- | :--- | :--- | :--- |
@@ -110,13 +123,16 @@ status: stable
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | በረጅም ዝግ ሲሊብ ውስጥ የሚገኝ ቃላት ሲሆን ማለትም በሁለት ወይም ከዚያ በላይ ግራጫዎች በፊት የሚገኝ አጭር ቃላት ከከፍተኛ ደረጃ መፍጠር አይደለም ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
+
 :::
+
 #### 6.5.2.1. የ e እና o ቃላዊ ስንዲ
 በቃላት ውስጥ ከቀዶ ጥገናዎች በፊት **e** በ **ay**፣ **o** ደግሞ በ **av** ይተካል።
 
 #### 6.5.2.2. የድምጽ ደረጃ (Ablaut)
 
 ::: grammar-box
+
 | ዝቅተኛ ደረጃ:brየጥፋት ደረጃ | ከፍተኛ ደረጃ:brሙሉ ደረጃ:brGuṇa m.:br⟪गुण⟫ | የተራዘመ ደረጃ:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -124,10 +140,13 @@ status: stable
 | **u / ū** | **o** | **au** |
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
+
 :::
+
 ### 6.5.3. የ 4ኛው የገቢ ክፍል ግሴቶች (divādi = ⟪दिवादि⟫ = "div ወዘተ.")
 
 ::: grammar-box
+
 **የገቢ ስር = በዝቅተኛ ደረጃ ያለው ስር (እንደተዘገበበት) + ya-**
 
 | ስር (dhātu m.):br⟪धातु⟫ | የገቢ ስር |
@@ -136,33 +155,42 @@ status: stable
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+
 :::
+
 ### 6.5.4. የቀዶ ጥገና ቀዶ ጥገና፣ ተዛማጅ የገቢ ክፍሎች
 
 ::: grammar-box
+
 በገቢ ክፍሎች ውስጥ በስር ማዋቀሪያ ቅጦች ውስጥ ያለው **a** **የቀዶ ጥገና ቀዶ ጥገና** ይባላል። በስር ማዋቀሪያ ቅጦች ውስጥ **a** ያላቸው የገቢ ክፍሎች ስለሆነ "ተዛማጅ የገቢ ክፍሎች" ይባላሉ።
+
 :::
 
 ## 6.6. የተወራረደ ሳንስክሪት: ተጨማሪ ጥያቄዎች (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
+
 **N. N. kiṃ karoti?** = N.N. ⟪किं करोति⟫ = "N. N. ምን ያደርጋል?"
 **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं कुर्वन्ति⟫ = "N.N.s ምን ያደርጋሉ?"
 (karoti, kurvanti ለ **kṛ** = ⟪कृ⟫ 8 U: "ማድረግ፣ ማምረት")
 **kiṃ kuśalam?** = ⟪किं कुशलम्⟫ = "እንደምን ነዎት? እንዴት ነዎት?"
 መልስ: **sarvathā kuśalam** = ⟪सर्वथा कुशलम्⟫ = "(እኔ) በሁሉም አንጻር በጥሩ ሁኔታ ላይ ነኝ።"
+
 :::
 
 ## 6.7. ቃላት ዝርዝር
 
 ::: grammar-box
+
 በሳንስክሪት ውስጥ ተግባራት በ**መሠረት-ቅርጽ** ይቀርባሉ። በመሠረቱ በኋላ ያለው ቁጥር **የመዛመድ ክፍልን** ያመለክታል።
 
 **P:** መሠረቱ ለፓራስማፓዳ ብቻ ነው
 **Ā:** መሠረቱ ለአትማነፓዳ ብቻ ነው
 **U:** ኦብያያፓዳ ("ሁለቱ ቃላት ቅርጾች"): መሠረቱ በፓራስማፓዳ እና አትማነፓዳ ውስጥ ያገለግላል።
 **():** በቅንፍ ውስጥ የሶስተኛ ሰው ቁጥር ነጠላ ገቢ ጊዜ (laṭ) ይገኛል።
+
 :::
+
 **የሚከተሉትን ቃላት ይማሩ፦**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : በቅዳሜ ማክበር፣ ቅዳሜ ማቅረብ
 **bhū** 1 P (bhavati) ⟪भू भवति⟫ : መሆን፣ መፈጠር፣ መኖር
@@ -206,10 +234,13 @@ status: stable
 13. (የተጠቀሰችው) ብራህማኒ ይዳንሳል።
 
 ::: media
+
 ![](/images/lekt0601.webp)
+
 **Śivo nṛtyati** = ⟪शिवो नृत्यति⟫
 ሺቫ ናታራጃ (⟪नटराज⟫)፣ ካዳቡል ሂንዱ ቤተክርስቲያን፣ ካዋይ፣ ሀዋይ
 (የምስል ምንጭ፡ ዊኪፒዲያ፣ CC-BY-SA 2.5)
+
 :::
 
 ## 6.9. የድግግሞሽ ልምምድ
@@ -278,29 +309,33 @@ status: stable
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**ረ) ወደ ሳንስክሪት ትርጉም ያድርጉ፡**
-1. Rāma opfert (als Opferherr).
-2. Durgā ist eine Göttin.
-3. Mīnākṣī ist eine Göttin.
+**ረ) ወደ ሳንስክሪት ተርጉም፡**
+1. ራማ ይሠዋል።
+2. ዱርጋ አምላክ ናት።
+3. ሚናክሺ አምላክ ናት።
 
 ::: media
+
 ![](/images/lekt0602.webp)
+
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (የምስል ምንጭ: Wikipedia, Public domain)
+
 :::
-4. Sie sind verwirrt.
-5. Rāma ist ein heiliger Mann.
-6. Wer ist der HERR?
-7. Indra ist der HERR.
-8. Die Nutztiere treten ein.
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft.
-10. Zweimalgeborene sind gut.
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
-12. Diese Göttin ist gut.
-13. Die fünf "Qualen" sind: Avidyā (Nichtwissen), Ahaṃkāra (Ichwahn), Rāga (Leidenschaft/Liebe), Dveṣa (Hass), Abhiniveśa (Anhänglichkeit an den Leib). (2 Möglichkeiten)
-14. "Verweilungszustände Brahmas" sind: Maitrī (freundliches Wohlwollen), Karuṇā (Mitgefühl), Muditā (Mitfreude), Upekṣā (Gleichmut). (2 Möglichkeiten)
-15. Diese Brāhmaṇen opfern im Auftrag anderer.
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
-17. Die Wissenschaften (für einen Fürsten) sind: Dharmaśāstra (Philosophie), Trayi (das dreifache Vedawissen), Arthaśāstra (Ökonomie und Politik). (2 Möglichkeiten)
-18. Geht es Ihnen gut?
-19. (Es geht mir) in jeder Hinsicht gut.
+
+4. ግራ ተጋብተዋል።
+5. ራማ ቅዱስ ሰው ነው።
+6. ጌታ ማነው?
+7. ኢንድራ ጌታ ነው።
+8. የቤት እንስሳት ይገባሉ።
+9. ቪሽኑ ያወጣል = ቪሽኑ ይፈጥራል።
+10. ሁለት ጊዜ የተወለዱት ጥሩ ናቸው።
+11. ሦስቱ (እውቀቶች) ሳማቬዳ፣ ርግቬዳ እና ያጁርቬዳ ናቸው። (2 አማራጮች)
+12. ይህች አምላክ ጥሩ ነች።
+13. አምስቱ "ስቃዮች" የሚከተሉት ናቸው፡ አቪድያ (ድንቁርና)፣ አሀምካራ (ራስ ወዳድነት)፣ ራጋ (ፍላጎት/ፍቅር)፣ ድቬሻ (ጥላቻ)፣ አብሂኒቬሻ (ከሰውነት ጋር መጣበቅ)። (2 አማራጮች)
+14. "የብራህማ የመቆያ ሁኔታዎች" የሚከተሉት ናቸው፡ ማይትሪ (ወዳጃዊ በጎ ፈቃድ)፣ ካሩና (ርህራሄ)፣ ሙዲታ (በሌሎች ደስታ መደሰት)፣ ኡፔክሻ (መረጋጋት)። (2 አማራጮች)
+15. እነዚህ ብራህሚኖች ለሌሎች ሲሉ ይሠዋሉ።
+16. ብራህሚኖች፣ ክሻትሪያዎች እና ቫሽያዎች ሁለት ጊዜ የተወለዱ ናቸው። (2 አማራጮች)
+17. (ለልዑል) ሳይንሶች የሚከተሉት ናቸው፡ ዳርማሻስትራ (ፍልስፍና)፣ ትራዪ (ሦስቱ የቬዳ እውቀቶች)፣ አርታሻስትራ (ኢኮኖሚክስ እና ፖለቲካ)። (2 አማራጮች)
+18. ደህና ነዎት?
+19. (እኔ) በሁሉም ረገድ ደህና ነኝ።

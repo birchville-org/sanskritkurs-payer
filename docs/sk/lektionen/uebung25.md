@@ -65,10 +65,14 @@ Budhovia a Arhatiania sú oslobodení od utrpenia. Dosiahli totiž osvietujúce 
 Ľudia sa kazia kvôli chamtivosti, nenávisti a nevedomosti. Keď príde čas, padnú do pekla.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Obr.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Zdroj obrázku: [Details](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatriya privádza hrdinských bojovníkov z veľkého mesta, aby bojoval proti dedine nepriateľov.
 
@@ -88,7 +92,7 @@ Bez Rāma.
 Vzdelávanie svätého slúži cnote, nie vzdelávanie nesvätého.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Ráma čaká na Kṛṣṇu.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Ide to ľahko (šťastne).
@@ -113,10 +117,14 @@ Ak niekto z pýchy, chamtivosti, hnevu alebo strachu vydá nesprávny súdny roz
 Peklá vznikajú kvôli zlu, zlo vzniká zo chudoby, chudoba vzniká z nedávania.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Obr.: ⟪भवन्ति नरकाः पापात्⟫
 (Zdroj obrázku: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Zloděj je osvobozen od viny z krádeže trestem nebo propuštěním. Pokud ho však král netrestá, přebírá vinu zloděje.
 
@@ -128,9 +136,13 @@ Zloděj je osvobozen od viny z krádeže trestem nebo propuštěním. Pokud ho v
 Hospodárstvo je užitočné, pretože prináša obilie, dobytok, zlato, kovy a prácu.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Obr.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Zdroj obrázku: [Podrobnosti](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Preto majú tri vedy za základ palicu (daṇḍa). Palica, ktorá je základom správneho správania sa, prináša bytostiam získanie a bezpečné vlastníctvo. Správne správanie sa je dosiahnuté alebo vrodené. Činnosť totiž vychováva vhodný materiál, nie nevhodný. Veda vychováva myseľ, ktorá sa prostredníctvom poslušnosti, počúvania, uchopenia si, chápania a premýšľania dostala k pravde, nie inú. ... Z toho, čo bolo počuté, vzniká poznanie; z poznania prax; z praxe sebaovládanie; tak vedy zodpovedajú svojmu účelu. Veda a správne správanie sa sú príčinou víťazstva nad zmyslami. Toto je potrebné na to, aby sa zbavili žiadostivosti, nenávisti, chamtivosti, sebamýlenia, opojenia a vzrušenia.

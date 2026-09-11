@@ -1808,6 +1808,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: darul vacilor / al unei vaci; a doua ceremonie de tundere a părului (un ⟪संस्कार⟫)
 
+:::
 ## Lecția 27
 
 
@@ -2900,7 +2901,6 @@ Fig.: ⟪लोमहर्षः⟫
 
 
 ⟪मूर्ख⟫ Cl. 3: obtuz, stupid, prost m. Idiot
-:::
 ⟪स्पृश्⟫ Cl. 6P ⟪स्पृशति⟫ : a atinge
 
 ::: indent
@@ -4117,7 +4117,6 @@ Fig.: ⟪मम जाया⟫
 :::
 
 ## Lecție 49
-:::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : a arunca, a proiecta
 
 ::: indent

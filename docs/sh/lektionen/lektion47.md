@@ -158,19 +158,12 @@ Slika: ⟪नृत्यत⟫
 ## 47.3. Exercise
 ## 47.3. Exercise
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
-:::
 ## 47.3. Exercise
 
 ::: media

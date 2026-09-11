@@ -468,21 +468,21 @@ Weekly saying
 
 ## [Lesson 38](lektion38)
 
-*   1\. Solution of the Week
-*   2\. Sound Change of Nasals in Words
-*   3\. Declension of Stems Ending in -n
-*   3.1. Nouns ending in -an as well as nouns -man or -van after a Vowel
-*   3.2. Nouns ending in -man or -van after a Consonant
-*   3.3. Maskuline und Neutra auf -in, -min, -vin
-*   4\. On Nominal Formation: ⟪तद्धित⟫ Suffix -in
-*   5\. Syntax Regarding ⟪नामन्⟫
-*   6\. Syntax Regarding ⟪आत्मन्⟫
-*   7\. Consonant-Stem Final Members as Initial Members of Compounds
-*   8\. Stems Ending in -an as Final Members of a ⟪बहुव्रीहि⟫
-*   9\. Vocabulary List
-*   10\. Exercise
-*   11\. Vocabulary List for Translation Exercise
-*   12\. Translation Exercise
+*   1. Veckans lösning
+*   2. Ljudförändring av nasaler i ord
+*   3. Deklination av stammar som slutar på -n
+*   3.1. Substantiv som slutar på -an samt substantiv -man eller -van efter en vokal
+*   3.2. Substantiv som slutar på -man eller -van efter en konsonant
+*   3.3. Maskulina och neutrala på -in, -min, -vin
+*   4. Om nominalbildning: ⟪तद्धित⟫ suffix -in
+*   5. Syntax angående ⟪नामन्⟫
+*   6. Syntax angående ⟪आत्मन्⟫
+*   7. Konsonantstams slutled som initiala led i sammansättningar
+*   8. Stammar som slutar på -an som slutled i en ⟪बहुव्रीहि⟫
+*   9. Ordlista
+*   10. Övning
+*   11. Ordlista för översättningsövning
+*   12. Översättningsövning
 
 ## [Lesson 39](lektion39)
 
@@ -853,4 +853,3 @@ Weekly saying
 *   9\. Release into the ocean of Sanskrit literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 END OF THE SANSKRIT COURSE
-

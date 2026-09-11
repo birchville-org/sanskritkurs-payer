@@ -34,7 +34,7 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-::: note-box Die vier Stände (varna)
+::: note-box De fyra stånden (varna)
 
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed as follows:
 
@@ -108,7 +108,6 @@ Varje ståndsmässigt samhälle är konventionellt, ordnat genom regler för liv
 
 [**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 
-:::
 
 Varṇas är följaktligen födelsestånd.
 
@@ -189,7 +188,7 @@ the **purāṇa** n. (⟪पुराण⟫)
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Hustru till en Kṣatriya.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
@@ -197,7 +196,7 @@ the **purāṇa** n. (⟪पुराण⟫)
 
 **śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : Frau eines Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : Gudinna, särskilt Durgā f. = ⟪दुर्गा⟫, Śivas = ⟪शिव⟫ hustru.
 
 ::: media
 
@@ -321,7 +320,6 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 **viś** 6 P (viśati) ⟪विश् विशति⟫ : to enter
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : to let go, to release from oneself, to emanate
 
-:::
 
 **Learn the following words:**
 **yaj** 1 U (yajati) ⟪यज् यजति⟫ : to honor with a sacrifice, to offer
@@ -854,7 +852,7 @@ Fig.: ⟪महावीरो जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
+Lär dig följande ord:
 
 **eva** ⟪एव⟫ : betont vorhergehendes Wort
 **asura** m. ⟪असुर⟫ : Dämon
@@ -1424,6 +1422,7 @@ davon:
 
 thereof:
 
+:::
 ::: indent
 
 **⟪वात⟫ m.:** wind
@@ -2206,6 +2205,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
+:::
 ## Lesson 27
 
 
@@ -2759,7 +2759,7 @@ from this:
 **Inf. ⟪योक्तुम्⟫**
 
 thereof:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** yoke, pair, age (there are four ages:
+⟪युग⟫ n.:** yoke, pair, age (there are four ages:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
@@ -2827,7 +2827,7 @@ Yoga depiction.
 
 :::
 
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : to smear apart = to apply makeup, to distinguish oneself
+⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : to smear apart = to apply makeup, to distinguish oneself
 
 ::: indent
 
@@ -2850,7 +2850,6 @@ Preparation for Kathakali dance, Kochi.
 
 ⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
 
-:::
 
 ⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : to split
 
@@ -2871,7 +2870,7 @@ Preparation for Kathakali dance, Kochi.
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Caus. ⟪भोजयति⟫**
-**PPP bhukt → PPP ⟪भुक्त⟫**
+PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
 from this:

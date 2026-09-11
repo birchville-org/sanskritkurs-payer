@@ -41,7 +41,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 (in goeie Sanskrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Die drie Vede is: Sāmaveda, Ṛgveda en Yajurveda.
+AmaVeda amathathu yile: iSāmaveda, iṚgveda kanye neYajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Ngokwe-Kauṭilīya-arthaśāstra 1.2.1.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -105,15 +105,14 @@ Umfanekiso: ⟪अभ्निवेशो न वा ।⟫
 
 ## Ukuzijwayeza Okuphindaphindiwe Isifundo 5
 
-A) Übersetzen Sie:
+A) Humusha:
 
-:::
 
 ---
 
 ## Ukuzijwayeza Okuphindaphindiwe Isifundo 5
 
-A) Übersetzen Sie:
+A) Humusha:
 
 1\. vidyā vārttā.
 
@@ -127,7 +126,7 @@ Umnotho yisayensi.
 
 Izinhlanga ezintathu ezizalwe kabili yilezi: uBrahmin, uKshatriya, noVaishya.
 
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3\. dvijā vaiśyāḥ. (Izindlela ezi-2)
 
 ⟪द्विजा⟫ ⟪वैश्याः⟫
 

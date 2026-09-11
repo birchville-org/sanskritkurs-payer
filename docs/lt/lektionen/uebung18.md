@@ -78,7 +78,6 @@ B) Išversti šiuos Tatpuruṣa:
 ⟪२९⟫. ⟪दुर्वच⟫ 3 — sunku pasakyti
 
 ⟪३०⟫. ⟪दुर्वचन⟫ n. — blogas kalbėjimas
-:::
 ---
 
 ## Priedainės užduotys

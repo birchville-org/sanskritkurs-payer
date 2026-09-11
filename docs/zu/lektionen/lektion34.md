@@ -257,7 +257,7 @@ Rice field in India.
 
 :::
 
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** isikhathi esingakanani, ubukhulu obungakanani
 
 **⟪तावत्⟫ :** so lange, so gross
 

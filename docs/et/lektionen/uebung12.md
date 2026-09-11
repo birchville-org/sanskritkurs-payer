@@ -26,7 +26,7 @@ B) Moodustage vastavad PPP-d [10. õppetunni](lektion10.md) harjutuse A tegusõn
 6. nayanti ⟪नयन्ति⟫ : ⟪नीताः ३⟫
 7. smarati ⟪स्मरति⟫ : ⟪स्मृतः ३⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : ⟪श्रुताः ३⟫
-9. pāśyati ⟪पश्यति⟫ (Passiv wird von dṛś gebildet!) : ⟪दृष्टः ३⟫
+9. pāśyati ⟪पश्यति⟫ (Passiiv moodustatakse dṛś-ist!) : ⟪दृष्टः ३⟫
 10. jayanti ⟪जयन्ति⟫ : ⟪जिताः ३⟫
 11. kurvate ⟪कुर्वते⟫ : ⟪कृताः ३⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : ⟪आप्ताः ३⟫
@@ -52,29 +52,27 @@ C) Moodustage [10. õppetunni](lektion10.md) harjutuse C laused passiivis ja min
 
 4. Guru sööb puuvilju. ⟪गुरुः फलानि खादति गुरुणा फलानि खादितानि ।⟫
 
-5\. Er hört die Gurus. ⟪गुरूञ्छृणोति ग्रुरवः श्रुताः ।⟫
+5\. Ta kuulab gurusid. ⟪गुरूञ्छृणोति ग्रुरवः श्रुताः ।⟫
 
-6\. Wer sieht das Feuer? ⟪को ऽग्निं पश्यति केनाग्निर्दृष्टः ।⟫
+6\. Kes näeb tuld? ⟪को ऽग्निं पश्यति केनाग्निर्दृष्टः ।⟫
 
 7. See luuletaja mäletab mantrat. ⟪अयं कविर्मन्त्रं स्मरति अनेन कविना मन्त्रः स्मृतः ।⟫
 
 8. See jumalanna kaitseb Kṣatriyat. ⟪इयं देवी क्त्रिया रक्षति अनया देव्या क्षत्रिया रक्षिताः ।⟫
 
-9\. Die Kṣatriya opfern Viṣṇu. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9\. Kṣatriyad ohverdavad Viṣṇule. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 võimalust)
 ⟪क्षत्रियैर्विष्णुरिष्टः । क्षत्रियाभिर्विष्णुरिष्टः ।⟫
 
 10\. Der Brāhmaṇa bereitet das Feuer vor. ⟪ब्राह्मणो ऽग्निं करोति ब्राह्मणेनाग्निः कृतः ।⟫
 
 11. Vaiśyad lähevad sellesse külla. ⟪वैश्या इमं ग्रामं गच्छन्ति वैश्या इमं ग्रामं गताः ।⟫
 
-12\. Diese hören die Gurus. ⟪एते गुरूंस्तु शृण्वन्ति एतैर्गुरवस्तु श्रुताः ।⟫
+12\. Need kuulavad gurusid. ⟪एते गुरूंस्तु शृण्वन्ति एतैर्गुरवस्तु श्रुताः ।⟫
 
 13. Tark saavutab taeva. ⟪साधुः स्वर्गमाप्नोति साधुना स्वर्ग आप्ताः ।⟫
 
 14\. Die Brāhmaṇen pressen den Soma. ⟪ब्राह्मणाः सोमं सुन्वन्ति ब्राह्मणैः सोमः सुतः ।⟫
 
-15\. Er erlangt die Tiere. ⟪पशूल्ंलभते पशवो लब्धाः ।⟫
+15\. Ta saab loomad. ⟪पशूल्ंलभते पशवो लब्धाः ।⟫
 
 16. Millised sõdalased võitlevad Kṣatriyatega? ⟪के योधाः क्षत्रियैः सह युध्यन्ते कैर्योधैः क्षत्रियैः सह युद्धम् ।⟫
-
-:::

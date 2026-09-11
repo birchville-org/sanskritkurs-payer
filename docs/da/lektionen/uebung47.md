@@ -51,10 +51,10 @@ Nådig frue, din ydmygelse må ikke berettes for herre Rāma.
 B) Translate into Sanskrit using the Imperative:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden.
+Jeg vil opretholdes.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein.
+Han skal være tilfreds.
 
 ---
 
@@ -155,7 +155,10 @@ Vi vil blive ledet af dig.
 Må det bringe held! (Velsignelsesønske)
 
 ::: media
+
 ![](/images/uebung075.webp)
+
 Fig.: ⟪माद्यत⟫
 (Billedkilde: [Details](/licenses#uebung075))
+
 :::

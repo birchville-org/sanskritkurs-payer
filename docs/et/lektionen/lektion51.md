@@ -1,5 +1,5 @@
 ---
-title: "Lektion 51"
+title: "51. õppetund"
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
@@ -77,7 +77,7 @@ b) ⟪कृत्⟫-Suffix -t
 
 ::: indent
 
-⟪शत्रुजित्⟫ 3 "die Feinde besiegend"
+⟪शत्रुजित्⟫ 3 "vaenlasi võitev"
 
 ⟪पुरुजित्⟫ 3 "viele besiegend" (⟪पुरु⟫ 3 "viel, reichlich")
 
@@ -222,9 +222,9 @@ Vollständige Paradigmen bei Kielhorn, Grammatik S. 16ff.
 
 * **-c » -k**
 * **-ch » -ṭ**
-* **-j » -k oder -ṭ**
-* **-ś » -ṭ oder -k**
-* **-ṣ » -ṭ oder -k**
+* **-j » -k või -ṭ**
+* **-ś » -ṭ või -k**
+* **-ṣ » -ṭ või -k**
 
 :::
 
@@ -506,7 +506,7 @@ Joonis: ⟪ऋतुः⟫
 
 :::
 
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ määrsõna: ühes kohas
 
 ⟪जटा⟫ n: juuksepats (askeedi soeng)
 
@@ -614,7 +614,7 @@ City Palace, ⟪उदयपुर⟫
 
 Joonis: ⟪मृगया⟫
 
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+Jaht ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
 (Pildi allikas: [Details](/et/licenses#lekt5110))
 
 :::
@@ -755,7 +755,7 @@ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 Joonis: ⟪मणिः⟫
 
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
+Hope'i teemant Gunturist = గుంటూరు, tänapäeval Smithsoniani Loodusloomuuseum, Washington DC
 (Pildi allikas: [Details](/et/licenses#lekt5118))
 
 :::
@@ -774,7 +774,7 @@ Joonis: ⟪मदः⟫
 
 :::
 
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: ka: värv, punane värv
 
 ⟪कालन⟫ n.: Wald
 

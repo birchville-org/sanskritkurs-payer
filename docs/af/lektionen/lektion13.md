@@ -5,8 +5,9 @@ lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+---
 
----# Les 13
+# Les 13
 
 
 ## 13.1. PPP's wat op -na- eindig
@@ -28,32 +29,46 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 **1. Die PPP vir werkwoorde wat 'dink', 'wens', 'weet', beteken, 'om te weet', 'om te vereer', sowel as sekere ander werkwoorde wat in die Dhātupāṭha, Pāṇini se lys van wortels, met ñi gemerk is, nie net 'n verlede tydbetekenis oordra nie, maar ook in die hede gebruik kan word:**
 bv.
+
 :::
+
 ::: indent
+
 ⟪इष्ट⟫ "gewens" (d.w.s. nie net in die verlede gewens nie, maar ook in die hede)
 ⟪त्वरित⟫ "haastig, gehaast" (PPP van tvar 1 Ā "haastig wees"; Dhātupāṭha: ñitvárā)
+
 :::
 
 **2. Die PPP kan attributief as 'n byvoeglike naamwoord gebruik word:**
 bv.
+
 ::: indent
+
 ⟪इष्टं फलम्⟫ "die verlangde vrug (bv. van 'n mens se dade)"
+
 :::
 
 As ⟪अपि⟫ in hierdie geval die PPP volg, beteken ⟪अपि⟫ 'alhoewel':
 bv.
+
 ::: indent
+
 ⟪इष्टमपि फलं न लभते⟫ = "Alhoewel hy die vrug begeer, ontvang hy dit nie."
+
 :::
 
 **3. Die onbepaalde enkelvoudsvorm van die PPP van enige werkwoord kan ook as 'n werkwoordelike abstraksie gebruik word:**
 bv.
+
 ::: indent
+
 ⟪गत⟫ n.: "die daad van loop, die loop"
 ⟪नृत्त⟫ n.: "die dans, die dans"
+
 :::
 
 ## 13.3. Attributiewe wysers van selfstandige naamwoorde (woordorde)
+
 ::: grammar-box
 
 In prosa verskyn attribuutwoorde (wysers) in die normale woordorde voor die woord wat hulle wys. Attribuutwoorde ooreenstem met die selfstandige naamwoord in getal, geval en geslag:
@@ -61,8 +76,11 @@ In prosa verskyn attribuutwoorde (wysers) in die normale woordorde voor die woor
 Voorbeeld:
 
 :::
+
 ::: indent
+
 ⟪साधुरिष्टं फलं पश्यति⟫ = "'n Heilige sien die verlangde vrug (van sy dade)."
+
 :::
 
 ## 13.4. Vorming van byvoeglike naamwoorde wat op -mant en -vant eindig (taddhita)
@@ -76,10 +94,13 @@ Besittende bywoorde word van selfstandige naamwoorde gevorm met die taddhita-agt
 Voorbeelde:
 
 :::
+
 ::: indent
+
 ⟪पशुमन्त्⟫ 'besit vee'
 
 ⟪गुणवन्त्⟫ 'besit goeie eienskappe / deug'
+
 :::
 
 ## 13.5. Stamgradering van selfstandige naamwoorde
@@ -87,8 +108,11 @@ Voorbeelde:
 Stamme wat op -mant of -vant eindig, behoort tot die klas selfstandige naamwoordstamme met stamgradering.
 
 ::: grammar-box
+
 By selfstandige naamwoordstamme met stamgradering word 'n onderskeid gemaak tussen sterk en swak gevalle. In die sterk gevalle is die stamvormende agtervoegsel — in die geval van wortelnaamwoorde, die wortelagtige komponent — in die hoë graad of uitgebreide graad; in die swak gevalle is dit in die lae graad.
+
 :::
+
 **Sterk gevalle is:**
 
 | | Enkelvoud:br⟪एकवचन⟫ | Meervoud:br⟪द्विवचन⟫ | Velevoud:br⟪बहुवचन⟫ |
@@ -98,7 +122,9 @@ By selfstandige naamwoordstamme met stamgradering word 'n onderskeid gemaak tuss
 **Alle ander gevalle is swak.**
 
 ::: grammar-box
+
 Die eerste element van 'n samestelling is 'n selfstandige naamwoord met 'n stamgraad in die swak stam (in die geval van drie-stam-naamwoorde, in die sogenaamde middelstam).
+
 :::
 
 ## 13.6. Oor woord-sandhi
@@ -106,12 +132,17 @@ Die eerste element van 'n samestelling is 'n selfstandige naamwoord met 'n stamg
 Om die individuele vorme van fleksie vir selfstandige naamwoorde wat op -mant en -vant eindig, te verstaan, is die volgende reëls van woord-sandhi nodig:
 
 ::: grammar-box
+
 1. Aantal finale medeklinkers in 'n woord: Van twee of meer medeklinkers waarmee 'n woord sou eindig, word slegs die eerste medeklinker behou; die ander word weggelaat. Die kombinasie -r- + medeklinker is toegelaat.
 
 2. 'n Doof lettergreep word vervang deur die ooreenstemmende klinkend lettergreep wanneer dit 'n klinkend lettergreep voorafgaan (nie 'n neuslettergreep nie):
+
 :::
+
 Voorbeelde:
+
 ::: indent
+
 -t + bh- » -d-bh- ⟪द्भ्⟫
 
 -k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -119,6 +150,7 @@ Voorbeelde:
 -c + bh- » -g-bh- ⟪ग्भ्⟫
 
 -c + dh- » -g-dh- ⟪ग्ध्⟫
+
 :::
 
 ## 13.7. Gevalledeurdele van medeklinkerwortels
@@ -163,23 +195,27 @@ Leer die volgende woorde:
 - **eva** ⟪एव⟫ : beklemtoon die vorige woord
 - **asura** m. ⟪असुर⟫ : demoon
 
-&gt; **ASURA.** 'Geestelik, goddelik.'
+> **ASURA.** 'Geestelik, goddelik.'
 \&gt;
-&gt; In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriete. In die sin van 'god' is dit toegepas op verskeie van die hoofgode, soos Indra, Agni en Varuṇa. Dit het daarna 'n heeltemal teenoorgestelde betekenis aangeneem en het, soos nou, 'n demoon of vyand van die gode gaan beteken.
+> In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriete. In die sin van 'god' is dit toegepas op verskeie van die hoofgode, soos Indra, Agni en Varuṇa. Dit het daarna 'n heeltemal teenoorgestelde betekenis aangeneem en het, soos nou, 'n demoon of vyand van die gode gaan beteken.
 \&gt;
-&gt; Die woord kom met hierdie betekenis voor in die latere gedeeltes van die Rigveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brahmana's heg dieselfde betekenis daaraan, en neem baie stryde tussen die Asura's en die gode op. Volgens die Taittirīya Brāhmaṇa het die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my, die Asuras, geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling en verklaar dat "hy Asuras geskep het uit sy onderste asem." Die Taittirīya Āraṇyaka stel dit dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat gemors is, ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
+> Die woord kom met hierdie betekenis voor in die latere gedeeltes van die Rigveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brahmana's heg dieselfde betekenis daaraan, en neem baie stryde tussen die Asura's en die gode op. Volgens die Taittirīya Brāhmaṇa het die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my, die Asuras, geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling en verklaar dat "hy Asuras geskep het uit sy onderste asem." Die Taittirīya Āraṇyaka stel dit dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat gemors is, ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
 \&gt;
-&gt; Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) voortgebring. Die weergawe van die Vāyu Purāṇa is: "Asuras is eers as seuns uit sy (Prajāpati se) lies voortgebring. *Asu* word deur Brāhmaṇa verklaar as asem. Daaruit is hierdie wesens voortgebring; daarom is hulle Asuras." Die woord word al lank gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander nakomelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
+> Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) voortgebring. Die weergawe van die Vāyu Purāṇa is: "Asuras is eers as seuns uit sy (Prajāpati se) lies voortgebring. *Asu* word deur Brāhmaṇa verklaar as asem. Daaruit is hierdie wesens voortgebring; daarom is hulle Asuras." Die woord word al lank gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander nakomelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
 \&gt;
-&gt; In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' nie, maar die aanvanklike *a* word as die negatiewe voorvoegsel beskou, en *asura* beteken 'nie 'n god nie;' hieruit het, volgens sommige, die woord *sura* ontstaan, wat algemeen gebruik word vir ''n god.'"
+> In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' nie, maar die aanvanklike *a* word as die negatiewe voorvoegsel beskou, en *asura* beteken 'nie 'n god nie;' hieruit het, volgens sommige, die woord *sura* ontstaan, wat algemeen gebruik word vir ''n god.'"
 \&gt;
-&gt; [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
+
 ![](/images/lekt1301.webp)
+
 Fig.: ⟪महिषासुरः⟫
 (Beeldbron: [Details](/af/licenses#lekt1301))
+
 :::
+
 **guṇa** m. ⟪गुण⟫ : draad, koord; eienskap, goeie eienskap
 **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gaan, beland in
 **as** 2 P (asti) ⟪अस् अस्ति⟫ : wees, daar wees
@@ -188,36 +224,51 @@ Fig.: ⟪महिषासुरः⟫
 **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : beskerm, versorg
 
 ::: indent
+
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : drink (tradisioneel tot die 1ste klas gereken)
+
 :::
+
 **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : haat, vyandig wees
 **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : eet, verbruik
 **anna** n. ⟪अन्न⟫ : kos (uit PPP: *ad-na: die geëte)
 
 ::: media
+
 ![](/images/lekt1304.webp)
+
 Fig.: ⟪अन्नम्⟫
 (Beeldbron: [Details](/af/licenses#lekt1304))
+
 :::
+
 Woordvorming:
 
 pad 4 Ā:
 
 ::: indent
+
 **pada** n. ⟪पद⟫ : stap, ligging, plek
 
 **pāda** m. ⟪पाद⟫ : voet, 'n kwart, versreël
+
 :::
 
 ::: media
+
 ![](/images/lekt1303.webp)
+
 Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
 (Beeldbron: [Details](/af/licenses#lekt1303))
+
 :::
+
 dviṣ 2 U:
 
 ::: indent
+
 **dveṣa** ⟪द्वेष⟫ : haat
+
 :::
 
 ## 13.10. Oefening
@@ -227,11 +278,15 @@ A) Vertaal en omskakel na aktiewe teenwoordige sinne:
 ⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
+
 ![](/images/lekt1305.webp)
+
 Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
 (Beeldbron: [Details](/af/licenses#lekt1305))
+
 :::
-⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 Möglichkeiten)
+
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 moontlikhede)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
 B) Vertaal en omskakel na passiewe sinne in die verlede tyd:
@@ -249,10 +304,14 @@ B) Herskryf die sinne uit Oefening A) in die passiewe stem.
 C) Vorm 'n PPP-konstruksie vir die sinne uit Oefening A).
 
 ::: media
+
 ![](/images/lekt1302.webp)
+
 Fig.: ⟪सत्यमेव जयते⟫
 (Beeldbron: [Besonderhede](/af/licenses#lekt1302))
+
 :::
+
 D) Uit watter klankkombinasies kan die volgende Sandhi-vorme ontstaan het? Lys alle moontlikhede:
 
 1. -a voor 'n vokaal (behalwe a-)

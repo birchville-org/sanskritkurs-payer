@@ -142,10 +142,15 @@ sā brāhmaṇī nṛtyati.
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung004.jpg)
+
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
+
 (Sursa da l'imagines: [Detagls](/licenses#uebung004))
+
 :::
+
 ---
 
 ## Exercizi da repetiziun Lecziun 6
@@ -420,7 +425,7 @@ E) Tradusci:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā è ina divinitad.
 
 2\. śūdretarā.
 
@@ -599,7 +604,11 @@ sarvathā kuśalam.
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung005.webp)
+
 Abb.: ⟪देवतान्नपूर्णा⟫
+
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung005))
+
 :::

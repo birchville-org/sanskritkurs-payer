@@ -214,7 +214,6 @@ Eksempel:
 | Rod | Kausativ 3. sg. Indikativ Præsens | Betydning |
 | :--- | :--- | :--- |
 | ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (noget/nogen) ødelægge |
-:::
 Bemærkninger:
 1. **ghātayati** er i virkeligheden et verb, der er afledt af substantivet **ghāta** m. "slag" (denominativum) og bruges i stedet for kausativum af **han**.
 2. **pālayati** er et ægte kausativum, dog til roden **pṛ** 3 "bringe over, redde, beskytte": **pārayati** (pār-aya-ti) » **pālayati** (i nogle dele af Indien svarer r til l, og omvendt svarer l i andre steder til r).

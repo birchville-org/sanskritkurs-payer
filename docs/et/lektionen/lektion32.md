@@ -1,5 +1,5 @@
 ---
-title: "Lektion 32"
+title: "32. õppetund"
 lesson_id: 32
 status: stable
 
@@ -294,7 +294,7 @@ Target practice / arrow target, Karnataka.
 
 Joonis: ⟪कौशलम्⟫
 
-Mehendi-Malerei auf Händen in Mumbai.
+Mehendi maalimine kätel Mumbais.
 (Pildi allikas: [Details](/et/licenses#lekt3206))
 
 :::
@@ -515,7 +515,7 @@ C) Tõlkige sanskriti keelde:
 
 4. Vägevad sõdalased on läinud braahmanite külla.
 
-5. Das Mädchen weint.
+5. Tüdruk nutab.
 
 6. Ei ole haigust nagu nauding, ei ole vaenlast nagu segadus, ei ole tuld nagu viha, ei ole õnne nagu teadmine.
 
@@ -529,7 +529,7 @@ C) Tõlkige sanskriti keelde:
 
 11. On aeg pühenduda söömisele.
 
-12. Willkommen der Königin.
+12. Tere tulemast kuningannale.
 
 13. Taeva pärast teevad inimesed teenekaid tegusid.
 
@@ -543,7 +543,7 @@ C) Tõlkige sanskriti keelde:
 
 18. Ei ole paremat varjupaika kui Rāma.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+19. Viṣṇumitra laseb Rāmal Govinda külla saata.
 
 20. Govinda laseb Devadattal riisi keeta.
 
@@ -605,7 +605,7 @@ C) Tõlkige sanskriti keelde:
 
 51. Tuleb rääkida tõtt, tuleb rääkida meeldivat; ei tohi rääkida ebameeldivat tõtt ega ka ebameeldivat ebatõtt. See on igavene Dharma.
 
-52. Auf Wiedersehen!
+52. Nägemist!
 
 ::: media
 
@@ -682,7 +682,6 @@ Tõlkige ja määrake järgmised sõnavormid:
 
 :::
 
-(aus: ⟪संस्कृतबालादर्श⟫)
+(allikas: ⟪संस्कृतबालादर्श⟫)
 
-:::
 

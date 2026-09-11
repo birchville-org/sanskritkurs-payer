@@ -64,6 +64,7 @@ Joonis: ⟪संतुष्टो भार्यया भर्ता भर
 
 (Pildi allikas: [Details](/licenses#uebung081))
 
+:::
 ::: media
 
 ![](/images/uebung081.webp)

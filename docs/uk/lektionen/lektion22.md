@@ -283,6 +283,7 @@ status: stable
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
+:::
 ::: deleteme-box
 
 **lekt1701:** [Джерело зображення: від tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без змін)]
@@ -291,4 +292,4 @@ status: stable
 
 **lekt1703:** Бангалор = ಬೆಂಗಳೂರು [Джерело зображення: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Доступ від 2008-12-07. -- Ліцензія Creative Commons (Attribution, без комерційного використання)]
 :::
- &lt;!--  --&gt;
+ &lt;!--  -→

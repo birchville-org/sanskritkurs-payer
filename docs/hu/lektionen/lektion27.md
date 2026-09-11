@@ -1,5 +1,5 @@
 ---
-title: "Lecke 27"
+title: "27. lecke"
 subtitle: 'A lokativusz használata (⟪सप्तमी⟫ f. = \"hetedik esetrag\")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
@@ -21,6 +21,7 @@ status: stable
 *   **mihez képest?**
 
 :::
+
 ::: grammar-box
 
 **1. A lokativuszószó (⟪सप्तमी⟫) a "Hol?" kérdésre válaszolva azt a teret jelöli, amelyben (azalatt, azon, mellette) az agens (⟪कर्ता⟫) vagy egy cselekvés tárgya tartózkodik, vagy ahol maga a cselekmény lezajlik.**
@@ -28,11 +29,15 @@ status: stable
 > ⟪नगरे वसति⟫ = "A városban lakik"
 
 :::
+
 ::: media
+
 ![](/images/lekt2701.webp)
+
 Ábr.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2701))
+
 :::
 
 ::: grammar-box
@@ -58,11 +63,15 @@ Jaipur, 1875.
 **Megjegyzés: az abszolútum esetében az abszolútum alanyának és a főmondat alanyának azonosnak kell lenniük; a locativus absolutus esetében pedig a locativus absolutus alanyának és a főige alanyának különbözőnek kell lenniük.**
 
 :::
+
 ::: media
+
 ![](/images/lekt2702.webp)
+
 Kép: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rádzsasztán.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2702))
+
 :::
 
 ::: grammar-box
@@ -72,11 +81,15 @@ Rádzsasztán.
 > ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = „Ő szeretetet táplál fia iránt” (szó szerint: „A fiúval kapcsolatban nála szeretet van”)
 
 :::
+
 ::: media
+
 ![](/images/lekt2703.webp)
+
 Ábr.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2703))
+
 :::
 
 ::: grammar-box
@@ -86,6 +99,7 @@ Holi.
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "a gyökér ⟪भू⟫ jelentése 'létezés' (sat-tā)"
 
 :::
+
 A lokativus további használatáról később.
 
 ## 27.2. A lokativus képzése (⟪सप्तमी⟫)
@@ -99,6 +113,7 @@ A lokativus további használatáról később.
 **Vegye figyelembe a hangváltozásokat a -su előtt, valamint a -ṣu-ra történő esetleges cerebralizációt!**
 
 :::
+
 ### 27.2.1. Konsonáns tövek
 
 ::: grammar-box
@@ -111,6 +126,7 @@ A lokativus további használatáról később.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
+
 ### 27.2.2. Kérdő, mutató és viszonyító névmások
 
 ::: grammar-box
@@ -123,6 +139,7 @@ A lokativus további használatáról később.
 | Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
+
 ### 27.2.3. Magánhangzó végű tő
 
 ::: grammar-box
@@ -138,6 +155,7 @@ A lokativus további használatáról később.
 | ⟪धेनु⟫ f. | ⟪धेनौ⟫ vagy ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ## 27.3. Áttekintés a szabályos esetvégződésekről (⟪विभक्ति⟫)
 
 ::: grammar-box
@@ -154,16 +172,21 @@ A lokativus további használatáról később.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
+
 **Pirossal nyomtatva**: erős esetek (tőalak-változással).
 
 ## 27.4. Egy vers az összes ragozott alakról (egyes szám) :sig[⟪राम⟫]-hoz
 
 ::: media
+
 ![](/images/lekt2708.webp)
+
 Ábra: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2708))
+
 :::
+
 :sig[⟪रामो⟫] ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं⟫ ⟪भजे⟫
 :sig[⟪रामेणा⟫]⟪भिहता⟫ ⟪निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
 :sig[⟪रामान्ना⟫]⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫
@@ -184,64 +207,95 @@ Rāma-Satz.
 ⟪वस्⟩ 1P (⟪वसति⟩): tartózkodik, lakik (személyes lokatívvál, akinél lakik)
 
 ::: indent
+
 **Fut.:** ⟪वत्स्यति⟩
 **Pass.:** ⟪उष्यते⟩
 **PPP:** ⟪उषित⟩
 **Inf.:** ⟪वस्तुम्⟩
+
 :::
+
 ebből:
 
 ::: indent
+
 ⟪वस्तु⟫ n.: ülés, hely; valóságos tárgy, valódi dolog, valóság, tárgy
 
 :::
+
 ::: indent
+
 ⟪वस्तुतस्⟫: valójában, igazán
+
 :::
+
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): felvenni (ruhát), viselni (ruhát)
 
 ::: indent
+
 **Fut.:** ⟪वसिष्यते⟫
 **PPP:** ⟪वसित⟫
 **Inf.:** ⟪वसितुम्⟫
+
 :::
+
 ebből:
 
 ::: indent
+
 ⟪वस्त्र⟫ n.: eszköz, amivel felöltözünk = ruha, öltözet, szövet
+
 :::
+
 ::: media
+
 ![](/images/lekt2706.webp)
+
 Kép: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2706))
+
 :::
+
 ⟪वस्⟫ 6P (⟪उच्छति⟫): felragyogni (ez a gyökér fontos a névmeghatározások miatt:)
 
 ::: indent
+
 ⟪वसु⟫ n.: gazdagság, kincs, vagyon, birtok
 
 ⟪वसन्त⟫ m.: ("ragyogó" =) tavasz (március május között)
+
 :::
+
 ::: media
+
 ![](/images/lekt2707.webp)
+
 Ábr.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2707))
+
 :::
+
 ⟪हृ⟫ 1U (⟪हरति⟫): tart, visel; hoz, elvesz, rabol
 
 ::: indent
+
 **Fut.:** ⟪हरिष्यति⟫
 **Pass.:** ⟪ह्रियते⟫
 **PPP:** ⟪हृत⟫
 **Inf.:** ⟪हर्तुम्⟫
+
 :::
+
 ebből:
 
 ::: indent
+
 ⟪हर⟫ 3: elvéve; m.: a pusztító = Śiva melléknév
+
 :::
+
 Párja ⟪हर⟫:
 
 ⟪हरि⟫ 3: szőke, sárga, zöld; m. Viṣṇu mellékneve (nem tartozik a ⟪हृ⟫ 1 gyökérhez)
@@ -249,18 +303,25 @@ Párja ⟪हर⟫:
 ⟪हरिहर⟫ m.: Viṣṇu és Śiva egyesítve egyetlen istenségként.
 
 ::: media
+
 ![](/images/lekt2704.webp)
+
 Ábra: ⟪हरिहरः⟫
 Harihara (balra: Viṣṇu, jobbra: Śiva).
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2704))
+
 :::
 
 ::: media
+
 ![](/images/lekt2705.webp)
+
 Ábra: ⟪हरिहरः⟫
 Harihara (balra: Viṣṇu, jobbra: Śiva). Godrumdwip, Nyugat-Bengál.
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2705))
+
 :::
+
 ## 27.6. Gyakorlat
 
 **A) Helyezze a következő mondatban a zárójelben lévő kifejezéseket lokatívan (⟪सप्तमी⟫) egyes számban, és — ahol célszerű — többes számban. Vegye figyelembe a különböző szandhit, azaz írja le minden alkalommal a teljes mondatot!**
@@ -276,11 +337,15 @@ Harihara (balra: Viṣṇu, jobbra: Śiva). Godrumdwip, Nyugat-Bengál.
 ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫
 
 ::: media
+
 ![](/images/lekt2709.webp)
+
 Kép: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Rāja Ravi Varmā festménye (1848 - 1906).
 (Képmeghatározás: [Részletek](/hu/licenses#lekt2709))
+
 :::
+
 ⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
 ⟪उपनीतबालैर्गुरुकुले⟫ ⟪उष्यते⟫ ⟪॥५॥⟫
@@ -312,12 +377,17 @@ Rāja Ravi Varmā festménye (1848 - 1906).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪नरे⟫ | ⟪नरेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2711.webp)
+
 Kép: ⟪नराः⟫
 Naran. Udaipur.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2711))
+
 :::
+
 ### 27.7.2. semlegesnemok -a végződéssel: ⟪फल⟫
 
 ::: grammar-box
@@ -333,13 +403,18 @@ Naran. Udaipur.
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪फले⟫ | ⟪फलेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2710.webp)
+
 Kép: ⟪फलानि⟫
 Gyümölcsök. Bangalore.
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2710))
+
 :::
-### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
+
+### 27.7.3. Nőnemű szavak -ā végződéssel: ⟪क्षत्रिया⟫
 
 ::: grammar-box
 
@@ -352,7 +427,9 @@ Gyümölcsök. Bangalore.
 | **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪क्षत्रियायास्⟫ | ⟪क्षत्रियाभ्यस्⟫ |
 | **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪क्षत्रियायास्⟫ | ⟪क्षत्रियाणाम्⟫ |
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪क्षत्रियायाम्⟫ | ⟪क्षत्रियासु⟫ |
+
 :::
+
 ### 27.7.4. Maskulinumok az -i végződésűek: ⟪अरि⟫
 
 ::: grammar-box
@@ -368,12 +445,17 @@ Gyümölcsök. Bangalore.
 | **7. Lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अरौ⟫ | ⟪अरिषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2712.webp)
+
 Ábra: ⟪अरयः⟫
 Két résztvevő felakasztása az 1857-es lázadásban. Felice Beato (1833/1834 – kb. 1907) fényképe.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2712))
+
 :::
+
 ### 27.7.5. Femininumok az -i végződésűek: ⟪मति⟫
 
 ::: grammar-box
@@ -389,6 +471,7 @@ Két résztvevő felakasztása az 1857-es lázadásban. Felice Beato (1833/1834 
 | **7. Lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
+
 ### 27.7.6. Maskulinumok az -u végződésűek: ⟪गुरु⟫
 
 ::: grammar-box
@@ -404,7 +487,8 @@ Két résztvevő felakasztása az 1857-es lázadásban. Felice Beato (1833/1834 
 | **7. Lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुरौ⟫ | ⟪गुरुषु⟫ |
 
 :::
-### 27.7.6. Maskulina auf -u: ⟪गुरु⟫
+
+### 27.7.6. Hímnemű szavak -u végződéssel: ⟪गुरु⟫
 
 ::: grammar-box
 
@@ -419,13 +503,18 @@ Két résztvevő felakasztása az 1857-es lázadásban. Felice Beato (1833/1834 
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुरौ⟫ | ⟪गुरुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2713.webp)
+
 Ábra: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Képforrás: [Részletek](/hu/licenses#lekt2713))
+
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+
+### 27.7.7. Nőnemű szavak -u végződéssel: ⟪धेनु⟫
 
 ::: grammar-box
 
@@ -440,12 +529,17 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2715.webp)
+
 Ábra: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2715))
+
 :::
+
 ### 27.7.9. Jelen idő aktív igenév -ant végződésű: ⟪सन्त्⟫
 
 ::: grammar-box
@@ -461,12 +555,17 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **7. Lokativusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
 
 :::
+
 ::: media
+
 ![](/images/lekt2716.webp)
+
 Ábra: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2716))
+
 :::
+
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
@@ -482,6 +581,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
+
 ### 27.7.11. Hímneműek és semlegesek -vant / -mant végződéssel: ⟪गुणवन्त्⟫
 
 ::: grammar-box
@@ -497,6 +597,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokatívusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
+
 ### 27.7.12. Mutató névmások: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
@@ -512,6 +613,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokatívusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
+
 ### 27.7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
 
 ::: grammar-box
@@ -527,6 +629,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | egyes szám:br⟪एकवचनम्⟫ | | | többes szám:br⟪बहुवचनम्⟫ | | |
@@ -541,6 +644,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪एतस्मिन्⟫ || ⟪एतस्याम्⟫ | ⟪एतेषु⟫ || ⟪एतासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | egyes szám:br⟪एकवचनम्⟫ | | | többes szám:br⟪बहुवचनम्⟫ | | |
@@ -555,6 +659,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
+
 ### 27.7.13. Relativpronomen: ⟪यद्⟫
 
 ::: grammar-box
@@ -570,10 +675,14 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2717.webp)
+
 Ábra: ⟪कस्मात्⟫ ?
 Cunami 2005, Srí Lanka.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2717))
+
 :::
 

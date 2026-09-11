@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Sammenfattningsdvandva")
 
 ::: grammar-box
+
 **Hvis et Dvandva skal udtrykke, at en række af ting osv. danner én enhed, står det generelt i singular neutrum:**
 
 f.eks. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ betyder ikke blot "fødeindtagelse (**āhāra** m.), søvn (**nidrā** f.), parring (**maithuna** n.) og frygt (**bhaya** n.)", men disse fire som en **enhed**, der kendetegner det animalske liv.
+
 :::
+
 Ud over denne grundregel for dannelsen af Samāhāradvandvas findes der en række andre regler, som man kan finde hos Pāṇini 2,4,2-17 eller f.eks. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. I de forskellige stadier af sprogudviklingen blev ikke altid de samme regler overholdt!
 
 
@@ -27,6 +30,7 @@ Ud over denne grundregel for dannelsen af Samāhāradvandvas findes der en rækk
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Taddhita-efkslet -ka danner bl.a.:**
 
 1\. **Diminutiver (formindskelsesformer som tysk -chen, -lein, -li, -le):**
@@ -41,15 +45,19 @@ Ud over denne grundregel for dannelsen af Samāhāradvandvas findes der en rækk
 4\. **Nomina, der udtrykker "i forhold til begrebet i grundordet":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "født i Benares, stammende fra Benares"**
 **rūpa n. "gestalt" » rūpaka 3 ⟪रूपक⟫ "besiddende gestaltes form"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), fem. ofte -ikā
 
 ::: grammar-box
+
 **Det kṛt-efterled -aka, femininum ofte -ikā, danner nomina agentis (navneord der udtrykker handlingstageren) til enhver rod.**
 
 En afsluttende vokal i roden samt **-a-** på næstsidste plads i roden erstattes med deres forlængede grad (**vṛddhi**) (der er nogle undtagelser), de øvrige vokaler erstattes med deres forstærkede grad (**guṇa**).
+
 :::
+
 **Eksempler:**
 
 | Rod:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Betydning |
@@ -62,8 +70,11 @@ En afsluttende vokal i roden samt **-a-** på næstsidste plads i roden erstatte
 | **ji** :br1 P:br⟪जि⟫:br"seire" | **jayaka** 3:br(⟪जयक⟫) | "sejrherre" |
 
 ::: grammar-box
+
 **Nogle af disse dannelser har den snævrere betydning: "den der udøver det som roden udtrykker, vane- eller pligtsskabt eller på en god måde".**
+
 :::
+
 se ovenfor f.eks. **śrāvaka**, **yājaka**, **jayaka**
 
 **Eksempler:**
@@ -84,17 +95,25 @@ Derudover findes der nogle mindre vigtige anvendelser af suffikset **-aka**. Se 
 **adhyayana** n. (⟪अध्ययन⟫) : Læring, især vedastudium
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Billedtekst: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram nær Madurai.
 (Billedkilde: [Detaljer](/da/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Håndværker
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Billedtekst: **kāru** = ⟪कारु⟫, Gujarat.
 (Billedkilde: [Detaljer](/da/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (omrejsende) showmand, skuespiller, sanger
 **kusīda** n. (⟪कुसीद⟫) : Rentefodring
 **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : trække
@@ -124,10 +143,14 @@ til **yaj** 1 U:
 7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Billedkilde: [Detaljer](/da/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -172,4 +195,4 @@ Forklaring: dvijātīnām = genitiv flertal af dvijāti (oversæt her: "over for
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (efter Kauṭilīya-Arthaśāstra 1.4.1.)

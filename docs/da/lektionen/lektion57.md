@@ -40,7 +40,6 @@ Eksempler:
 :::
 Sådanne former kunne også tilhøre rod-aoristen og hører sandsynligvis delvist dertil.
 De indiske grammatikere har også talt former som ⟪अकृत⟫ (3.sg.Ā) til s-aoristen, der tydeligt hører til rod-aoristen. Til dette formål har de indiske grammatikere opfundet følgende ad-hoc lydlaw for s-aoristen:
-:::
 Ellers skal lydlæresætningerne for forbindelsen af udstående konsonanter med s- overholdes.
 
 For -dhvam gælder:

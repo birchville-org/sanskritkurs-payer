@@ -10,8 +10,7 @@ status: stable
 
 # Ders 13
 
-
-## 13.1. PPP auf -na-
+## 13.1. -na- ile PPP
 
 PPP'lerin -ta- veya -na- üzerine dağılımı için kesin kurallar koyulamaz. Ancak:
 
@@ -30,29 +29,42 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 **1. "Düşünmek", "istemek", "bilmek/kavramak", "bilgiye sahip olmak", "ibadet etmek" anlamlarına sahip fiillerin yanı sıra, Dhātupāṭha'da (Pāṇini'nin kök sözlüğü) ñi ile işaretlenmiş diğer bazı fiillerin PPP'si yalnızca geçmiş zaman anlamına sahip değildir, aynı zamanda presentik (şimdiki/zamanlı) bir anlama da sahip olabilir:**
 örn.
+
 :::
+
 ::: indent
+
 ⟪इष्ट⟫ "istenen" (yani yalnızca geçmişte istenmiş değil, aynı zamanda şu anda da istenen)
 ⟪त्वरित⟫ "koşan, acele eden" (tvar 1 Ā PPP'si; Dhātupāṭha: ñitvárā)
+
 :::
 
 **2. PPP, sıfat olarak önek (attributiv) olarak kullanılabilir:**
 örn.
+
 ::: indent
+
 ⟪इष्टं फलम्⟫ "istenen meyve (örn. eylemlerin)"
+
 :::
 
 Bu durumda ⟪अपि⟫ PPP'den sonra geldiğinde, ⟪अपि⟫ "rağmen" anlamına gelir:
 örn.
+
 ::: indent
+
 ⟪इष्टमपि फलं न लभते⟫ = "Meyveyi istese de, onu elde edemez."
+
 :::
 
 **3. Herhangi bir fiilin PPP'sinin nötr tekil hali, aynı zamanda bir fiilsel soyut isim (Verbalabstraktum) olarak da kullanılabilir:**
 örn.
+
 ::: indent
+
 ⟪गत⟫ n.: "gitme, yürüyüş"
 ⟪नृत्त⟫ n.: "dans etme, dans"
+
 :::
 
 ## 13.3. İsimlerin Önek Belirteçleri (Söz Dizimi)
@@ -64,8 +76,11 @@ Sıfatlar (ekler) düz yazıda, kendilerini daha yakından belirten kelimenin no
 Örnek:
 
 :::
+
 ::: indent
+
 ⟪साधुरिष्टं फलं पश्यति⟫ = "Bir aziz, (kendi eylemlerinin) arzu edilen meyvesini görür."
+
 :::
 
 ## 13.4. -mant ve -vant ekleriyle sıfat türetme (taddhita)
@@ -79,10 +94,13 @@ vant eki, son veya sondan bir önceki sesi a, ā veya m olan isimlere; ayrıca b
 Örnekler:
 
 :::
+
 ::: indent
+
 ⟪पशुमन्त्⟫ "Hayvan sahibi"
 
 ⟪गुणवन्त्⟫ "İyi özelliklere / erdeme sahip"
+
 :::
 
 ## 13.5. İsim köklerinde derece değişimi (stem gradation)
@@ -90,8 +108,11 @@ vant eki, son veya sondan bir önceki sesi a, ā veya m olan isimlere; ayrıca b
 mant ve -vant ile biten kökler, derece değişimli isim köklerine aittir.
 
 ::: grammar-box
+
 Derece değişimli isim köklerinde güçlü ve zayıf haller (vibhakti) arasında ayrım yapılır. Güçlü hallerde, kök türeten ek — kök isimlerde köksel bileşen — yüksek derece veya uzatılmış derecede; zayıf hallerde ise düşük derecededir.
+
 :::
+
 **Güçlü haller şunlardır:**
 
 | | Tekil:br⟪एकवचन⟫ | İkil:br⟪द्विवचन⟫ | Çoğul:br⟪बहुवचन⟫ |
@@ -102,7 +123,9 @@ Derece değişimli isim köklerinde güçlü ve zayıf haller (vibhakti) arasın
 **Diğer tüm haller zayıftır.**
 
 ::: grammar-box
+
 Bir bileşik kelimenin ön elemanı olarak, zayıf kökte (üç köklü isimlerde sözde orta kotta) kök derecelendirmesi bulunan bir isim yer alır.
+
 :::
 
 ## 13.6. Kelime Sandhi Hakkında
@@ -110,12 +133,17 @@ Bir bileşik kelimenin ön elemanı olarak, zayıf kökte (üç köklü isimlerd
 mant ve -vant ile biten isimlerin çekimlemesindeki tekil formları anlamak için aşağıdaki kelime sandhi kuralları gereklidir:
 
 ::: grammar-box
+
 1. Bir kelimenin sonundaki ünsüz sayısı: İki veya daha fazla ünsüzle biten bir kelime durumunda, yalnızca ilk ünsüz korunur, diğerleri düşer. -r- + Ünsüz birleşimine izin verilir.
 
 2. Ünsüz bir tıkanıklık ünlü (burun sesi hariç) bir tıkanıklığın önünde, kendisine karşılık gelen ünlü tıkanıklıkla değiştirilir:
+
 :::
+
 Örnekler:
+
 ::: indent
+
 t + bh- » -d-bh- ⟪द्भ्⟫
 
 k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -123,6 +151,7 @@ k + bh- » -g-bh- ⟪ग्भ्⟫
 c + bh- » -g-bh- ⟪ग्भ्⟫
 
 c + dh- » -g-dh- ⟪ग्ध्⟫
+
 :::
 
 ## 13.7. Ünsüz köklü hallerin ekleri
@@ -181,10 +210,14 @@ Aşağıdaki kelimeleri öğrenin:
 > [Kaynak: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
+
 ![](/images/lekt1301.webp)
+
 Resm.: ⟪महिषासुरः⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1301))
+
 :::
+
 **guṇa** m. ⟪गुण⟫ : İplik, ip; Nitelik, iyi nitelik
 **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gitmek, varmak
 **as** 2 P (asti) ⟪अस् अस्ति⟫ : olmak, orada bulunmak
@@ -193,36 +226,51 @@ Resm.: ⟪महिषासुरः⟫
 **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : korumak, himaye etmek
 
 ::: indent
+
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : içmek (geleneksel olarak 1. sınıfa dahil edilir)
+
 :::
+
 **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : nefret etmek, düşmanca davranmak
 **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : yemek, tüketmek
 **anna** n. ⟪अन्न⟫ : yiyecek (PPP'den: *ad-na: yenilen şey)
 
 ::: media
+
 ![](/images/lekt1304.webp)
+
 Resm.: ⟪अन्नम्⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1304))
+
 :::
+
 Kelime türetme:
 
 pad 4 Ā:
 
 ::: indent
+
 **pada** n. ⟪पद⟫ : adım, konum, yer
 
 **pāda** m. ⟪पाद⟫ : ayak, dörtte bir, dize
+
 :::
 
 ::: media
+
 ![](/images/lekt1303.webp)
+
 Resm.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1303))
+
 :::
+
 dviṣ 2 U:
 
 ::: indent
+
 **dveṣa** ⟪द्वेष⟫ : nefret
+
 :::
 
 ## 13.10. Alıştırma
@@ -232,10 +280,14 @@ A) Çevirin ve aktif şimdiki zaman cümlelerine dönüştürün:
 ⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
+
 ![](/images/lekt1305.webp)
+
 Resim: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
 (Görsel kaynağı: [Detaylar](/tr/licenses#lekt1305))
+
 :::
+
 ⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 seçenek)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
@@ -255,10 +307,14 @@ B) A) Alıştırmasındaki cümleleri edilgen yapıya dönüştürün.
 C) A) Alıştırmasındaki cümleler için bir PPP yapısı oluşturun.
 
 ::: media
+
 ![](/images/lekt1302.webp)
+
 Resim: ⟪सत्यमेव जयते⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt1302))
+
 :::
+
 D) Aşağıdaki Sandhi formları hangi ses birleşimlerinden kaynaklanmış olabilir? Tüm olasılıkları belirtin:
 
 1. -a ünlüden önce (a- hariç)

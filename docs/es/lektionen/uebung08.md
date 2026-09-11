@@ -140,10 +140,14 @@ kiṃ kāraṇam?
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung007.webp)
+
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung007))
+
 :::
+
 --- \<!--  --\>
 
 ## Ejercicio de lectura
@@ -188,13 +192,13 @@ La niña escribe o dibuja.
 La doncella entra en la casa.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. \<!--  --\>
+Dios crea al elefante o a la serpiente o al Nāga. \<!--  --\>
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 El niño conduce al elefante.
 
 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nombre propio Vimalā)
-Vimalā ist traurig.
+Vimalā está triste.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 El loro vuela.
@@ -203,8 +207,12 @@ El loro vuela.
 El niño escribe una carta.
 
 ::: media
+
 ![](/images/uebung008.webp)
+
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
+
 ::: \<!--  --\>
+
 :::

@@ -153,14 +153,14 @@ Sentence de la semaine
 
 ## [Leçon 13](lektion13)
 
-*   1\. PPP en -na-
-*   2\. Compléments sur l'usage du PPP
+*   1\. Le participe passé passif en -na-
+*   2\. Compléments sur l'emploi du participe passé passif
 *   3\. Déterminants attributifs des noms (ordre des mots)
 *   4\. Formation d'adjectifs en -mant et -vant (taddhita)
-*   5\. Ablaut des noms
-*   6\. Sur le sandha lexical
-*   7\. Terminaisons casuelles des stems consonantiques
-*   8\. Déclinaison des stems en -mant et -vant
+*   5\. L'apophonie des noms
+*   6\. Sur le sandhi lexical
+*   7\. Désinences casuelles des thèmes consonantiques
+*   8\. Déclinaison des thèmes en -mant et -vant
 *   9\. Liste de mots
 *   10\. Exercice
 *   11\. Exercice de révision
@@ -853,4 +853,3 @@ Sentence de la semaine
 *   9\. Congé dans l'océan de la littérature sanskrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 FIN DU COURS DE SANSKRIT
-

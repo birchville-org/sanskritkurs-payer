@@ -1,6 +1,6 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: 第54课
+subtitle: "前言"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -20,6 +20,7 @@ status: stable
 ## 54.2. 构词：⟪कृत्⟫-后缀 -u 接于愿望体词干
 
 ::: grammar-box
+
 **对于欲求词干（⟪इच्छाप्रकृति⟫）（“想要做某事”；“准备做某事”），在构成施事名词时，添加后缀 -u。**
 
 (形成使役词干将在后面进行)
@@ -27,18 +28,27 @@ status: stable
 示例：
 
 :::
+
 ::: indent
+
 ⟪युयुत्सु⟫ (yu-yudh + s + u) “渴望战斗，准备战斗”
+
 :::
+
 ::: media
+
 ![](/images/lekt5402.webp)
+
 图：⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ 蒂鲁帕蒂 = తిరుపతి
 （图片来源：[详情](/zh-CN/licenses#lekt5402)）
+
 :::
+
 ## 第54课 3. 韵律学 II：史诗的⟪त्रिष्टुभ्⟫与⟪जगती⟫
 
 ::: grammar-box
+
 “⟪त्रिष्टुभ्⟫”（“三声叹息”）出现在史诗中，位于通常的⟪श्लोक⟥部分之间，恰在情绪或情节获得特别升华或达到高潮之处。
 
 त्रिष्टुभ्颂由四个十一音节的पाद组成，它们在结构上彼此没有区别。
@@ -48,16 +58,23 @@ status: stable
 模式一：
 
 :::
+
 ::: metrik-schema
+
 × — × — / × ◡ — **— ◡ — —**
+
 :::
+
 模式一：
 
 ::: metrik-schema
+
 Metrik-Schema
 × — × — / × ◡ — **— ◡ — —**
 Schema II:
+
 :::
+
 韵律模式
 × — × — × / × ◡ **— ◡ — —**
 因此，最后四个音节的数量在两种模式中是相同的。
@@ -65,72 +82,102 @@ Schema II:
 ⟪जगती⟫基本形式：与⟪त्रिष्टुभ्⟫相同，但为12音节。每个Pada的后5个音节具有以下数量特征：
 
 ::: metrik-schema
+
 **— ◡ — ◡ —**
+
 :::
+
 韵律模式
 **— ◡ — ◡ —**
 此外，还存在所谓的典型多余⟪त्रिष्टुभ्⟫，其首部分为五音节，随后演变为具有四音节首部分的⟪त्रिष्टुभ्⟫：
 
 ::: metrik-schema
+
 — × — × / × ◡ — **— ◡ — —**
+
 :::
+
 在后期，⟪त्रिष्टुभ्⟫的形式根据严格的长短音模式确定，停顿不再起作用。主要的后期形式包括：
 
 a) ⟪इन्द्रवज्रा⟫
 
 ::: metrik-schema
+
 **—** — ◡ — , — ◡ ◡ — ◡ — —
+
 :::
+
 韵律模式
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 b) ⟪उपेन्द्रवज्रा⟫
 
 ::: metrik-schema
+
 韵律模式
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 c) ⟪उपजाति⟫
+
 :::
+
 c) ⟪उपजाति⟫
 
 ::: indent
+
 ⟪पाद⟫ 与 ⟪इन्द्रवज्रा⟫ 以及 ⟪पाद⟫ 与 ⟪उपेन्द्रवज्रा⟫ 混合在一节诗中。
+
 :::
+
 ::: grammar-box
+
 **记忆诗句：**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
 :::
+
 ::: indent
+
 “当所有诗节（pāda）的音节均为 ta ta ja ga ga 时，即为因陀罗金刚（Indravājrā）。
+
 :::
+
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
+
 “一种Upendravajrā类似于一种Indravajrā，其开头音节较轻。”
+
 :::
+
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
-„Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā aufweisen, an einem Vers beteiligt sind, dann handelt es sich um Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti.“
+
+“如果一个诗节中包含具有 Indravajrā 和 Upendravajrā 特征的两个诗脚，那么它就是 Upajāti。即使一个诗节中混合了其他韵律，也称之为 Upajāti。”
+
 :::
+
 ## 54.4. 练习 zur Metrik
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+在《薄伽梵歌》第二章中确定 Triṣṭubh 和 Jagatī。
 
 示例诵读：[http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3)。——访问日期：2009-01-28
 
 ## 54.5. 不定过去时（⟪लुङ्⟫）的构成类型
 
 ::: grammar-box
+
 **所有Aorist（⟪लुङ्⟫）教育类型的共同点是前缀a-，它按照与Imperfekt（⟪लङ्⟫）相同的规则前置。**
 
 在梵语中，不定过去时（Aorist）仅常用直陈式（Indikativ）和祈愿式（Prekativ）。
+
 :::
+
 ::: grammar-box
+
 **不定过去时（⟪लुङ्⟫）存在以下构词类型：**
 
 1.  非擦音（非sigmatische）语态：
@@ -144,14 +191,19 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
     *   54.7. -sa语态：增音 + 词根 + **s** + **a** + 次要词尾
 
 词根在各构型类型中的分布，参见各具体类型
+
 :::
+
 ## 54.6. 词根未完成时态
 
 ::: grammar-box
+
 **教育：**
 
 **Augment + 词根 + 二级词尾**
+
 :::
+
 第三人称复数词尾为 -ur。Atmanepada（自词式）不常用。
 
 示例：
@@ -159,12 +211,15 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 ⟪पा⟫ 1P “trinken”
 
 ::: grammar-box
+
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+
 :::
+
 只有12个词根构成词根不定过去时：
 
 1.  ⟪गा⟫ 3 “走”
@@ -183,17 +238,21 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 对于 ⟪भू⟫ 1P，词根过去时（aorist）的构成方式如下：
 
 ::: grammar-box
+
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | **:sig[⟪अभूवन्⟫]** (!!!) |
+
 :::
+
 ### 54.6.1. 第三人称单数被动语态的未完成过去时
 
 一种特殊形式的词根不定过去时是第三人称单数被动语态的不定过去时。它可以由所有词根构成。
 
 ::: grammar-box
+
 **教育：**
 
 **Augment + Wurzel + i**
@@ -204,50 +263,69 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
 *   词根带有短元音（a 除外），位于简单辅音之前，以及 ⟪जन्⟫ 和大多数以 -am 结尾的词根  
     例如：  
+
 :::
+
 ::: indent
+
 ⟪भिद्⟫ 7U：⟪अभेदि⟫ “他被劈开”
 ⟪तुद्⟫ 6U：⟪अतोदि⟫ “他被推开”
+
 :::
 
 延长阶段：
 
 *   以元音结尾的词根  
     示例：  
+
 ::: indent
+
 ⟪नी⟫ 1U: ⟪अनायि⟫ “他被引导”
 ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ “她被赞美”
 ⟪कृ⟫ 8U: ⟪अकारि⟫ “它被制作”
+
 :::
 
 *   词根在简单辅音前有 a（除 ⟪जन्⟫ 和以 -am 结尾的词根）  
     例如：  
+
 ::: indent
+
 ⟪वद्⟫ 第一人称单数直陈式过去时：⟪अवादि⟫ “被说”
 但：
 ⟪जन्⟫ 第四类动词，中间语态：⟪अजनि⟫ “被生”
+
 :::
 
 *   以 -am 结尾的若干词干  
     Beispiel:  
+
 ::: indent
+
 ⟪गम्⟫ ⟪अगामि⟫
+
 :::
 
 词尾前插入 y：
 
 *   词根以 -ā, -e, -ai, -o 结尾时，在词根的 -ā 与词尾之间插入 y：  
     示例：  
+
 ::: indent
+
 ⟪दा⟫ 3U: ⟪अदायि⟫ “被给予”
+
 :::
 
 鼻音插入：
 
 *   某些词根带有鼻音 infix（中缀）：  
     示例：  
+
 ::: indent
+
 ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ 与 ⟪अलाभि⟫ 并列：“被接收”
+
 :::
 
 （被动语态的其他形式在未完成过去式中通过中动语态形式表达）。
@@ -280,9 +358,12 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 23.  ⟪गम्यते⟫
 
 ::: media
+
 ![](/images/lekt5401.webp)
+
 图：⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 泰米尔纳德邦
 （图片来源：[详情](/zh-CN/licenses#lekt5401)）
+
 :::
 

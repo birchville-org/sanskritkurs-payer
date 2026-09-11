@@ -32,8 +32,8 @@ Tako brāhmaṇ prinaša bogu daritev.
 ⟪७⟫. ⟪पुत्रः पापं करोतीति वैश्या मन्यते ।⟫
 Vaiśyina žena misli, da njen sin počne zlo.
 
+⟪८⟫. ⟪क्षत्रियः क्षत्रियेण सह युध्यते ।⟫
 Kṣatriya se bojuje s kṣatrijo.
-Kṣatriya kämpft mit Kṣatriya.
 
 ⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
 Ker je neresnica krivica, sin ne stori zla.

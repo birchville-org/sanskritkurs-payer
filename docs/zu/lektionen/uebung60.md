@@ -117,4 +117,4 @@ B) Nquma futhi guqula ngaphandle kwezinsiza lezi zimo:
      
 52. ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ Part.Perf.P ku-⟪इ⟫ 2P Dat.sg.m.n. kulowo ohambile
 
-ENDE DER ÜBUNGEN
+UKUPHELA KWEZIVIVINYO

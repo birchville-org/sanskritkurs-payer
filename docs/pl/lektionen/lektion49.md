@@ -184,7 +184,6 @@ Ilustracja: ⟪नमस्ते⟫
 
 zobacz:
 
-:::
 ::: indent
 **Carakasaṃhitā:** Wybrane teksty z Carakasaṃhitā / przełożone i omówione przez Aloisa Payera (1944–). -- 0. Wstęp. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::

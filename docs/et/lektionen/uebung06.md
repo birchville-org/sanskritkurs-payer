@@ -81,7 +81,7 @@ rāmo nayati.
 
 ⟪रामों नयति ।⟫
 
-4\. Śudras sind verwirrt.
+4\. Śūdrad on segaduses.
 
 śūdrā muhyanti.
 
@@ -93,7 +93,7 @@ kṣatriyā viśanti.
 
 ⟪क्षत्रिया विशन्ति ।⟫
 
-6\. Der HERR lässt emanieren.
+6\. Issand kiirgab.
 
 īśvaraḥ sṛjati.
 
@@ -123,7 +123,7 @@ sādhavo nayanti.
 
 ⟪साधवो नयन्ति ।⟫
 
-11\. Sie erinnern sich.
+11\. Nad mäletavad.
 
 smaranti.
 
@@ -181,7 +181,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Setzen Sie in den Plural:
+B) Pange mitmusesse:
 
 1\. brāhmaṇo yajati.
 
@@ -295,7 +295,7 @@ kā imāḥ.
 
 ⟪का⟫ ⟪इमाः⟫ ⟪॥⟫
 
-C) Bilden Sie das Ātmanepada zu:
+C) Moodustage Ātmanepada järgmisest:
 
 1\. rāmo yajati.
 
@@ -355,67 +355,67 @@ devī gurvī.
 
 ⟪देवी⟫ ⟪गुर्वी⟫ ⟪॥⟫
 
-E) Übersetzen Sie:
+E) Tõlkige:
 
 1\. devatānnapūrṇā.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit.
+Annapūrṇā on jumalus.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā ist eine Śūdrafrau.
+Itarā on śūdra naine.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara ist ein Vaiśya.
+Tulādhara on vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha ist ein Dichter.
+Māgha on luuletaja.
 
 5\. devyumā.
 
 ⟪देव्युमा⟫
 
-Umā ist eine Göttin.
+Umā on jumalanna.
 
 6\. śrutirvedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-Der Veda ist Śruti.
+Veda on Śruti.
 
 7\. dhenurviśati.
 
 ⟪धेनुर्विशति⟫
 
-Die Kuh tritt ein.
+Lehm siseneb.
 
 8\. guruścaitanyaḥ.
 
 ⟪गुरुश्चैतन्यः⟫
 
-Caitanya ist ein Meister.
+Caitanya on meister.
 
 9\. devīndrāṇī.
 
 ⟪देवीन्द्राणी⟫
 
-Indrāṇī ist eine Göttin.
+Indrāṇī on jumalanna.
 
 10\. sādhurguruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-Der Meister ist ein Heiliger.
+Meister on pühak.
 
 11\. gururyajate.
 
@@ -425,55 +425,55 @@ Der Meister ist ein Heiliger.
 
 F) Tõlkige sanskriti keelde:
 
-1\. Rāma opfert (als Opferherr).
+1. Rāma ohverdab (ohvriisandana).
 
 rāmo yajate.
 
 ⟪रामो⟫ ⟪यजते⟫ ⟪।⟫
 
-2\. Durgā ist eine Göttin.
+2. Durgā on jumalanna.
 
 devī durgā.
 
 ⟪देवी⟫ ⟪दुर्गा⟫ ⟪।⟫
 
-3\. Mīnākṣī ist eine Göttin.
+3. Mīnākṣī on jumalanna.
 
 devī mīnākṣī.
 
 ⟪देवी⟫ ⟪मीनाक्षी⟫ ⟪।⟫
 
-4\. Sie sind verwirrt.
+4. Nad on segaduses.
 
 muhyanti.
 
 ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5\. Rāma ist ein heiliger Mann.
+5. Rāma on püha mees.
 
 sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪।⟫
 
-6\. Wer ist der HERR?
+6. Kes on ISSAND?
 
 ka īśvaraḥ.
 
 ⟪क⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-7\. Indra ist der HERR.
+7. Indra on ISSAND.
 
 indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. Die Nutztiere treten ein.
+8. Kariloomad sisenevad.
 
 paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9\. Viṣṇu laseb emanatsiooni = Viṣṇu loob.
 
 viṣṇuḥ sṛjati.
 

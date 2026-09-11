@@ -34,7 +34,7 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : U-Śūdra (isigaba sabasebenzi).
 
-::: note-box Die vier Stände (varna)
+::: note-box Izinhlobo ezine (varna)
 
 Ngokwesayensi yendabuko (isib. Manusmṛti I, 88-91), imisebenzi ihlukaniswe kanje:
 
@@ -188,15 +188,15 @@ Umthombo wesithombe: [Imininingwane](/licenses#lekt0202))
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Umfazi weKṣatriya.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
 **śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Umfazi weŚūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : Unkulunkulukazi, ikakhulukazi uDurgā f. = ⟪दुर्गा⟫, umfazi kaŚiva = ⟪शिव⟫.
 
 ::: media
 
@@ -458,21 +458,21 @@ Umfanekiso: **kāru** = ⟪कारु⟫, Gujarat.
 
 :::
 
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
+- **kuśīlava** m. (⟪कुशीलव⟫) : umdlali (ohambayo), umlingisi, umculi
+- **kusīda** n. (⟪कुसीद⟫) : inzalo ephakeme
+- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ukudonsa
+- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : ukulima
+  - kusuka lapho: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : ukulima
+- **dāna** n. (⟪दान⟫) : ukupha, isipho, ukuphana
+- **pratigraha** m. (⟪प्रतिग्रह⟫) : ukwamukela, isipho
+- **pravacana** n. (⟪प्रवचन⟫) : inkulumo, isifundo (ngomlomo)
+- **pāśupālya** n. (⟪पाशुपाल्य⟫) : ukufuya izilwane, ukufuywa kwezilwane
+- ku **yaj** 1 U:
+  - **ijyā** f. (⟪इज्या⟫) : umhlatshelo (kusuka ku-\*yj » ij + isijobelelo **yā**)
+  - **yajana** n. (⟪यजन⟫) : umhlatshelo egameni lomunye umuntu
+- **rūpa** n. (⟪रूप⟫) : ukubukeka, isimo, isimo esihle, imvelo, ubuntu
+- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : ukuhweba
+- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : ukulalela, inkonzo yokulalela
 
 ## Lektion 10
 
@@ -847,7 +847,7 @@ Umthombo wesithombe: [Imininingwane](/licenses#lekt1203)
 
 
 
-Lernen Sie folgende Wörter:
+Funda amagama alandelayo:
 
 - **eva** ⟪एव⟫ : betont vorhergehendes Wort
 - **asura** m. ⟪असुर⟫ : Dämon
@@ -989,9 +989,9 @@ Umfanekiso: ⟪दीपाः⟫
 
 ⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
+⟪वा⟫ : noma (okubekwe ngemuva)
 
-⟪अथवा⟫ : oder (vorangestellt)
+⟪अथवा⟫ : noma (okubekwe phambi)
 
 ⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
@@ -1146,7 +1146,7 @@ davon:
 
 ::: indent
 
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: ukungabi nobubi
 
 :::
 
@@ -1337,7 +1337,7 @@ davon:
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪सहित⟫ 3: kuhlanganisiwe, kunikezwe
 
 ⟪हस्त⟫ m.: Hand
 
@@ -1381,7 +1381,7 @@ Umdwebo we-⟪कामसूत्र⟫
 
 :::
 
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** ukuma, ukuhlala, ukuhlala kuqinile, ukutholakala. (Ibhekwa ngokwesiko njengenhlaka yokuqala ye-Präsens, nakuba iyihlaka le-Präsens elithemathikhi eliphindaphindayo, njenge-⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** ukuma, ukuhlala, ukuhlala kuqinile, ukutholakala. (Ibhekwa ngokwesiko njengenhlaka yokuqala ye-isikhathi esiyimanje, nakuba iyihlaka le-isikhathi esiyimanje elithemathikhi eliphindaphindayo, njenge-⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** ukusondela, ukuma ngokuhlonipha phambi komuntu
 
@@ -1473,9 +1473,9 @@ Umfanekiso: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪ने
 
 **⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** ukuhlala eduze, ukuhlala, ukuvakashela
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** lapho, ngaphesheya
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** lapha, kulomhlaba
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
 
@@ -1544,7 +1544,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ f.: umhlaba, isisekelo nomhlabathi
 
 ⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
 
@@ -1974,8 +1974,8 @@ davon:
 
 Umfanekiso: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Umthombo wesithombe: [Details](/licenses#lekt2411))
+Umbhalo wesandla we-⟪गीतगोविन्द⟫, 1730 AD
+(Umthombo wesithombe: [Imininingwane](/licenses#lekt2411))
 
 :::
 
@@ -2076,7 +2076,7 @@ davon:
 
 ⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Isihlanganiso: uma
 
 ⟪न्याय⟫ m.: umthetho, isimiso, indlela, isahlulelo (somthetho), ingqondo (kusuka ku-ni + i +a)
 
@@ -2541,7 +2541,7 @@ Pushkar = ⟪पुष्कर⟫
 
 :::
 
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫ : futhi okufana nencazelo ne-⟪पाति⟫
 
 ⟪पुनर्⟫ Isichasiso: futhi, kaningi, emuva, futhi; ngakolunye uhlangothi, kodwa (ngaphambi kwamagama anomsindo ngaphandle kuka-r-: ⟪पुनर्⟫)
 
@@ -2570,7 +2570,7 @@ Umfanekiso: ⟪मत्स्यः⟫
 
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ Isandiso: njengoba, sengathi
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
@@ -2731,11 +2731,11 @@ Umfanekiso: ⟪प्रिया⟫
 
 ::: indent
 
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न⟫ ⟪चेत्⟫ : uma kungenjalo
 
 :::
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Isihlanganiso: uma
 
 ::: indent
 
@@ -2956,8 +2956,8 @@ davon:
 
 Umfanekiso: ⟪प्रज्ञापारमिता⟫
 
-Aus einem Prajñāpāramitā-Manuskript.
-(Umthombo wesithombe: [Details](/licenses#lekt3103))
+Kusukela kumbhalo wesandla we-Prajñāpāramitā.
+(Umthombo wesithombe: [Imininingwane](/licenses#lekt3103))
 
 :::
 
@@ -3217,7 +3217,7 @@ Umfanekiso: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫
 
 :::
 
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: ukubeka, ukumisa, ukwabela
 
 ::: indent
 
@@ -4072,7 +4072,7 @@ Umfanekiso: ⟪अशोकसाम्राज्यम्⟫
 
 ⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ukuba ngokulandelana okufanele, ukufanela (Lok.) ; ukwakheka, ukubunjwa ; ukunquma uku, ukuzivumelanisa noku (Dativ)
 
 ::: indent
 
@@ -4448,7 +4448,7 @@ Bobabili benzelwa amasiko, okubizwa ngokuthi ⟪श्राद्ध⟫ n. Nsuk
 
 ⟪यातृ⟫ m.: umfazi womfowabo womyeni
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ f.: udadewabo womyeni
 
 ⟪श्वसुर⟫ f.: ubaba womyeni (ezikhathini zasendulo: owesifazane kuphela)
 
@@ -4514,7 +4514,7 @@ Umfanekiso: ⟪पण्यानि⟫
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: unikezwe
 
 ⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
 
@@ -4522,7 +4522,7 @@ Umfanekiso: ⟪पण्यानि⟫
 
 ⟪निश्चित⟫ 3: entschieden, festgesetzt
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : uma kungenjalo, ngaphandle kwalokho
 
 ⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
 
@@ -4572,7 +4572,7 @@ Umfanekiso: ⟪वत्सः⟫
 
 ⟪मूल्य⟫ n.: Wert, Preis
 
-⟪कियत्⟫ 3: wie gross
+⟪कियत्⟫ 3: kukhulu kangakanani
 
 ⟪शर्करा⟫ f.: Ushukela (igama lesiJalimane elithi "Zucker" livela kusiNtaliyane i-zucchero, kusuka lapho nge-Arabhu i-sukkar - سكر nesiPheresiya i-äkär - شکر libuyela kusiSanskrit ⟪शर्करा⟫!)
 
@@ -4780,7 +4780,7 @@ Umfanekiso: ⟪आयतो⟫ ⟪मरुः⟫
 
 ⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : ukufisa (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 
@@ -5033,9 +5033,9 @@ Umfanekiso: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्ण�
 
 :::
 
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: ukuhamba-hamba
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: ukuwa
 
 ⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : ukuzikhandla, ukukhathala
 
@@ -5156,7 +5156,7 @@ Umfanekiso: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫
 
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ Isihlanganiso: uma
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
 
@@ -5263,7 +5263,7 @@ Umfanekiso: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः�
 
 :::
 
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Isandiso: emini nasebusuku
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
 
@@ -5312,7 +5312,7 @@ Umfanekiso: ⟪स्थविराः⟫
 
 ⟪स्थाविर⟫ n.: (hohes) Alter
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: futhi: okufanele kusolwe
 
 ⟪सूक्ष्म⟫ 3: fein, winzig, subtil
 
@@ -5496,9 +5496,9 @@ Fortune teller with parrot in cage: the parrot draws slips of paper on which fat
 
 :::
 
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: isigaba esiphansi kakhulu [samaDalit](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Okungaguquki: ngokwakhe, ngokwako
 
 ⟪अवनि⟫ f.: Erde
 
@@ -5611,7 +5611,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 :::
 
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: futhi: isiphetho (ku-⟪विधा⟫)
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫: ukuna (ngokuvamile nge-⟪कर्तृ⟫ -- unkulunkulu noma ifu)
 
@@ -5634,8 +5634,8 @@ Absol.-⟪वृष्य⟫
 
 Umfanekiso: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Umthombo wesithombe: [Details](/licenses#lekt5002))
+Ukufika kwemvula enkulu, Bangalore ಬೆಂಗಳೂರು
+(Umthombo wesithombe: [Imininingwane](/licenses#lekt5002))
 
 :::
 
@@ -5653,7 +5653,7 @@ Umfanekiso: ⟪आदित्यः⟫
 
 :::
 
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: wonke umuntu, bonke
 
 Ukuguqulwa njenge-⟪यद्⟫ (ngaphandle: Nom.Akk.sg.Neutrum)
 
@@ -5871,8 +5871,8 @@ City Palace, ⟪उदयपुर⟫
 
 Umfanekiso: ⟪मृगया⟫
 
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Umthombo wesithombe: [Details](/licenses#lekt5110))
+Ukuzingela nge-⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Umthombo wesithombe: [Imininingwane](/licenses#lekt5110))
 
 :::
 
@@ -6012,8 +6012,8 @@ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 Umfanekiso: ⟪मणिः⟫
 
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Umthombo wesithombe: [Details](/licenses#lekt5118))
+I-Hope Diamond evela e-Guntur = గుంటూరు, namuhla i-Smithsonian Museum of Natural History, e-Washington DC
+(Umthombo wesithombe: [Imininingwane](/licenses#lekt5118))
 
 :::
 
@@ -6031,7 +6031,7 @@ Umfanekiso: ⟪मदः⟫
 
 :::
 
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: futhi: umbala, umbala obomvu
 
 ⟪कालन⟫ n.: Wald
 

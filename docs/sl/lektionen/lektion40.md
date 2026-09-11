@@ -229,7 +229,6 @@ Glagoli, ki sledijo temu tipu:
 *   1.os.Ā ⟪ददे⟫
 
 *   1.os.Ā ⟪ददिमहे⟫
-:::
 ### 40.2.5. Perfekt Tip V: Konsonant-a-Konsonant
 
 1.os.P. po izbiri visokostopenjski ali podaljšano-stopenjski
@@ -487,6 +486,7 @@ Slika: ⟪हरिद्वारे तीर्थम्⟫
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (iz: ⟪तीर्थम्⟫+ ⟪कृ⟫): Brodarski mojster (čez trpljenje) = 24 učitelji Jainov
 
+:::
 ::: indent
 Nepr. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  

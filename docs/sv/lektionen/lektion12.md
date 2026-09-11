@@ -55,7 +55,7 @@ Example:
 
 ::: grammar-box
 
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Agent (kartṛ) i instrumentalis (tṛtīyā) -- PPP i nominativ singular neutrum**
 
 Exempel:
 > **kṣatriyeṇa (nagaraṃ gatam)** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = ”(Av kṣatriyan gick (till staden)) = Kṣatriyan har gått (till staden).”
@@ -64,7 +64,7 @@ Konstruktionen enligt Schema II är mycket mer sällsynt än konstruktionen enli
 
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. Om betydelsen av PPP
 
 Medan det så kallade ”participium perfektum passivum” för transitiva verb i första hand har passiv betydelse (**āpta** = ”uppnått (blivit)”) och för intransitiva verb och rörelseverb har aktiv betydelse (**gata** = ”gått”), finns det vissa verb där PPP kan ha både aktiv och passiv betydelse:
 
@@ -72,8 +72,7 @@ t.ex.
 **gata** = ⟪गत⟫ = ”gått” (aktiv); men också: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = ”en gången väg” (passiv)
 **āpta** = ⟪आप्त⟫ = ”uppnåtts” (passiv), ”har uppnått” (aktiv)
 
-
-## 12.3. Bildung des PPP
+## 12.3. Bildning av PPP
 
 ::: grammar-box
 
@@ -90,7 +89,7 @@ Feminina stammar är: **-tā**, **-itā**, **-nā**; neutrum böjs som **phala**
 
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP på -ta (kta)
 
 #### 12.3.1.1. Utan bindevokal -i- (aniṭ)
 
@@ -142,6 +141,7 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 
 I *aniṭ*-bildningar måste följande ljudlagsregler i ordet beaktas. **Dessa lagar är mycket viktiga för förståelsen av hela sanskritens formlära.**
 
+:::
 ::: no-header
 
 | | |

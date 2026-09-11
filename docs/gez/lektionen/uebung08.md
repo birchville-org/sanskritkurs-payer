@@ -37,7 +37,7 @@ last_reconstructed: 2026-05-15
 
 13\. tantra: tan 8 U "aufspannen" + -tra n.: "Webkette, Gewebe"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter"
+14\. bhāva: bhū 1 P "ይኸው, ኮነ" + -a m.: "ኮይኖት, ባህርይ, ጠባይ"
 
 15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System"
 
@@ -77,9 +77,9 @@ kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. k�
 
 ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
 
-D) Übersetzen Sie
+መ) ተርጕም
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. ክሻትሪያት ብራህማናትን ከምኡውን ቫይሽያታትን ሹድራታትን ይሕልዉ። (2 ኣገባባት)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
@@ -149,7 +149,7 @@ kiṃ kāraṇam?
 
 ![](/images/uebung007.webp)
 
-Abb.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
+ስዕሊ: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 
 (ምንጪ ስእሊ: [ዝርዝራት](/licenses#uebung007))
 
@@ -160,28 +160,28 @@ Abb.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 ## Leseübung
 
 1\. ⟪शूद्रो बालं नयति⟫ |
-Der Śūdra führt den Knaben.
+እቲ ሹድራ ንወዲ ይመርሕ።
 
 2\. ⟪कविर्देवं यजते⟫ |
-Der Dichter opfert dem Gott.
+እቲ ገጣሚ ንኣምላኽ ይስውእ።
 
 3\. ⟪साधुः फलानि खादति⟫ |
-Der Heilige isst Früchte.
+እቲ ቅዱስ ፍረታት ይበልዕ።
 
 4\. ⟪गुरुः क्रोधं जयति⟫ |
-Der Meister besiegt seinen Zorn.
+እቲ መምህር ንቍጥዓኡ ይስዕር።
 
 5\. ⟪देवो नरकं सृजति⟫ |
-Der Gott erschafft die Hölle.
+እቲ ኣምላኽ ሲኦል ይፈጥር።
 
 6\. ⟪धेनुर्ग्रामं विशति⟫ |
-Die Kuh betritt das Dorf.
+እታ ላም ናብ ዓዲ ትኣቱ።
 
 7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
-Leidenschaft, Zorn und Gier führen zur Hölle.
+ፍትወት, ቍጥዓን ስስዔን ናብ ሲኦል ይመርሑ።
 
 8\. ⟪देवतां यजति⟫ |
-Er opfert für einen Opferherren der Gottheit.
+ንኣምላኽ ይስውእ።
 
 9\. ⟪बाला भवति⟫ |
 ሴት ግንድ ትፈጠራለች።

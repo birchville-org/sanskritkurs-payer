@@ -87,7 +87,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (კაუტილია-ართაშასტრა 1.2.1-ის მიხედვით.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -98,10 +98,14 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 Рис.: ⟪अभ्निवेशो न वा ।⟫
 (Источник изображения: [Details](/licenses#uebung010))
+
 :::
+
 ---
 
 ## Повторение Урок 5
@@ -169,4 +173,3 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
-:::

@@ -148,7 +148,6 @@ Women are to be protected especially from minor occasions; for unprotected, they
 **⟪इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।⟫**  
 **⟪यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥⟫**  
 Recognizing this as the highest duty of all estates, even weak husbands strive to protect their wives.
-:::
 ::: media
 ![](/images/uebung077.webp)
 Abb.: ⟪पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते⟫

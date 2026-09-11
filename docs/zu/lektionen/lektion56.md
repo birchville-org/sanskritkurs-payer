@@ -188,7 +188,6 @@ Izibonelo:
 ⟪मा कर्महेतुर्भूः⟫ "Ungabi umuntu othonywa umkhiqizo wemisebenzi!" (Injunctive Aorist) (⟪भगवद्गीता⟫ 2,47c)
 ⟪मा कर्महेतुर्भूः⟫ "Ungabi ngumuntu okhuthazwa isithelo sesenzo!" (Isimo sokuyala esidlule) (⟪भगवद्गीता⟫ 2,47c)
 
-:::
 
 ::: media
 

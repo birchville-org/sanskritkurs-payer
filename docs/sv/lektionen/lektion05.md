@@ -1,6 +1,6 @@
 ---
 title: "Lektion 5"
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+subtitle: "Grunderna för nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -114,7 +114,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **trayī** f. = ⟪त्रयी⟫ : tretal; särskilt de tre Vedaböckerna (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politik (en Tatpuruṣa från daṇḍa m. = "käpp, makt, styre, straff" och nīti f. = "rätt ledning").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 

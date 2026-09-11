@@ -69,10 +69,14 @@ B) Ontleed de volgende Tatpuruṣa's:
 ⟪२६⟫. ⟪श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम्⟫ — door de Veda gezegde / voorgeschrevene
 
 ::: media
+
 ![](/images/uebung014.webp)
+
 Afb.: ⟪जलेश्वरो वरुणः⟫
 (Afbeeldingsbron: [Details](/licenses#uebung014))
+
 :::
+
 ---
 
 ## Aanvullende oefeningen
@@ -93,7 +97,7 @@ Ontleed de volgende samenstellingen als tatpuruṣa in het Sanskrit en geef een 
 
 ⟪७⟫. ⟪ईश्वरपूजा । ईश्वरस्य पूजा⟫ — godsdienst
 
-⟪८⟫. ⟪देवेश्वरः । देवानामीश्वरः⟫ — HERR der goden
+⟪८⟫. ⟪देवेश्वरः । देवानामीश्वरः⟫ — HEER der goden
 
 ⟪९⟫. ⟪क्षत्रिययज्ञम् । क्षत्रियस्य यज्ञम् । क्षत्रियाणां यज्ञम्⟫ — offer (accusatief) van de kṣatriya's / van de kṣatriya, offer voor kṣatriya's / een kṣatriya
 
@@ -140,7 +144,10 @@ Ontleed de volgende samenstellingen als tatpuruṣa in het Sanskrit en geef een 
 ⟪३०⟫. ⟪सत्यवदनम् । स्त्यस्य वदनम्⟫ — spreken van de waarheid, het uitspreken van de waarheid
 
 ::: media
+
 ![](/images/uebung016.webp)
+
 Afbeelding: ⟪गृहकरणम्⟫
 (Bron afbeelding: [Details](/licenses#uebung016))
+
 :::

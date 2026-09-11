@@ -12,6 +12,7 @@ last_reconstructed: 2026-05-15
 A) Xác định và dịch các dạng sau:
 
 ::: grammar-box
+
 | Dạng từ | Xác định | Ý nghĩa |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪आदेः⟫ | ⟪आदि⟫ (m.) Abl./Gen. sg. | của sự khởi đầu / từ sự khởi đầu |
@@ -66,7 +67,9 @@ A) Xác định và dịch các dạng sau:
 | ⟪५०⟫. ⟪चिनुथ⟫ | ⟪चि⟫ (5U) 2. pl. P. Ind. Präs. | các ngươi chất lên |
 | ⟪५१⟫. ⟪हथ⟫ | ⟪हन्⟫ (2P) 2. pl. P. Ind. Präs. | các ngươi đánh |
 | ⟪५२⟫. ⟪हतः⟫ | ⟪हन्⟫ (2P) PPP Nom. sg. m. | đã đánh / đã giết chết |
+
 :::
+
 ---
 
 ## Bản dịch
@@ -98,17 +101,22 @@ Các ngươi cũng không nên ghét những điều đáng ghê tởm, và cũn
 Ngươi đã than khóc những điều không đáng thương tiếc và muốn nói ra những lời trí tuệ; nhưng bậc hiền nhân chẳng than khóc kẻ chết cũng như người sống.
 
 ::: media
+
 ![](/images/uebung072.webp)
+
 Minh họa: ⟪मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति⟫
 (Nguồn ảnh: [Chi tiết](/licenses#uebung072))
+
 :::
+
 ---
 
-## Weitere Formbestimmungen -> ## Các xác định hình thái khác
+## Các xác định hình thái khác
 
-Bestimmen Sie folgende Wortformen: -> Hãy xác định các dạng từ sau đây:
+Hãy xác định các dạng từ sau đây:
 
 ::: grammar-box
+
 | Wortform | Bestimmung | -> | Dạng từ | Xác định |
 | :--- | :--- | -> | :--- | :--- |
 | ⟪१⟫. ⟪वदिता⟫ | ⟪वदितृ⟫ (m.) Nom. sg. | -> | ⟪१⟫. ⟪वदिता⟫ | ⟪वदितृ⟫ (giống đực) Cách danh số ít |
@@ -151,10 +159,16 @@ Bestimmen Sie folgende Wortformen: -> Hãy xác định các dạng từ sau đ�
 | ⟪३८⟫. ⟪पिपूर्मः⟫ | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. | -> | ⟪३८⟫. ⟪पिपूर्मः⟫ | ⟪पॄ⟫ (Nhóm 3) Ngôi thứ 1, số nhiều, chủ động, trực hiện tại |
 | ⟪३९⟫. ⟪कैः⟫ | ⟪किम्⟫ (m./n.) Instr. pl. | -> | ⟪३९⟫. ⟪कैः⟫ | ⟪किम्⟫ (giống đực/trung) Cách dụng số nhiều |
 | ⟪४०⟫. ⟪कृत्येन⟫ | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. | -> | ⟪४०⟫. ⟪कृत्येन⟫ | ⟪कृ⟫ (Nhóm 8) Gerundiv Cách dụng số ít giống đực/trung |
+
 :::
+
 ::: media
+
 ![](/images/uebung073.webp)
+
 Abb.: ⟪वदिता⟫
+
 (Nguồn ảnh: [Chi tiết](/licenses#uebung073))
+
 :::
 

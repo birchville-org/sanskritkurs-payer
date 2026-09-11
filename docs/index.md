@@ -15,7 +15,7 @@ hero:
 
 features:
   - title: Global & Polyglot
-    details: Vollständig verfügbar in 20+ Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade.
+    details: Vollständig verfügbar in 48 Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade.
   - title: Offline-First PWA
     details: Der gesamte Kurs (inklusive lokaler Suchmaschine) ist ohne aktive Internetverbindung auf allen Endgeräten nutzbar.
   - title: Scholarly Typography
@@ -30,5 +30,5 @@ Die Sprachen wurden mit Hilfe einer mehrstufigen KI-Kaskade vollständig automat
 - **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Aktuelle Version**: v1.8.3
+- **Aktuelle Version**: v1.8.4
 :::

@@ -1,5 +1,5 @@
 ---
-title: "Lektion 25"
+title: "Õppetund 25"
 subtitle: 'Ablatiivi moodustamine (⟪पञ्चमी⟫ = "viies käändelõpp")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
@@ -325,7 +325,7 @@ davon:
 
 ⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Sidesõna: kui
 
 ⟪न्याय⟫ m.: reegel, printsiip, meetod, otsus (juriid.), loogika (ni + i +a-st)
 

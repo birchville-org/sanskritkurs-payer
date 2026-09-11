@@ -46,39 +46,39 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 | ⟪कविः⟫ ⟪कालिदासः⟫ | ⟪कविर्माघः⟫ | ⟪कविर्भारविः⟫ | ⟪कविर्हर्षदेवः⟫ |
 
-B) Übersetzen Sie ins Sanskrit:
+ب) به سانسکریت ترجمه کنید:
 
-1\. Rāma ist ein Brahmane.
+۱. راما یک برهمن است.
 
 brāhmaṇo rāmaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪रामः⟫
 
-2\. Der Lehrer ist ein vaiśya.
+۲. معلم یک ویشیا است.
 
 vaiśyo guruḥ.
 
 ⟪वैश्यो⟫ ⟪गुरुः⟫
 
-3\. Der Śūdra ist ein heiliger Mann.
+۳. شودرا یک مرد مقدس است.
 
 sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. Der Dichter ist der Lehrer.
+۴. شاعر معلم است.
 
 guruḥ kaviḥ.
 
 ⟪गुरुः⟫ ⟪कविः⟫
 
-5\. Viṣṇu ist der HERR.
+۵. ویشنو پروردگار است.
 
 īśvaro viṣṇuḥ.
 
 ⟪ईश्वरो⟫ ⟪विष्णुः⟫
 
-6\. Der HERR ist Śiva.
+۶. پروردگار شیوا است.
 
 śiva īśvaraḥ.
 
@@ -103,7 +103,10 @@ sādhur guruḥ.
 ⟪साधुर्गुरुः⟫
 
 ::: media
+
 ![](/images/uebung002.jpg)
+
 تصویر: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (منبع تصویر: [جزئیات](/licenses#uebung002))
+
 :::

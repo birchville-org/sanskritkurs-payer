@@ -1,5 +1,5 @@
 ---
-title: "Lektion 8"
+title: "8. õppetund"
 subtitle: "Nimisõnade moodustamine ja 8. olevikuklass"
 lesson_id: 8
 category: "Grammatik"
@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-07
 
 
 
-## 8.1. Zur Bildung von Nomina
+## 8.1. Nimisõnade moodustamisest
 
 Traditsioonilises India grammatikas eristatakse nimisõnatüvede moodustamiseks kasutatavate sufiksite puhul järgmist:
 
@@ -299,7 +299,7 @@ Joonis: **likh** (⟪लिख्⟫) : Bataki (Sumatra) kirjutuspulk, nagu see 
 
 **B) Moodustage abstraktid kõigist seni õpitud nimisõnadest ja mõelge nende tähenduse üle (suuliselt).**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
+**C) Pange otseobjekt ainsusesse ja mitmusesse:**
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 **D) Tõlkige:**

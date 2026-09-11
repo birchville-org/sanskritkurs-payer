@@ -66,11 +66,14 @@ Buddhat ja arhantit ovat vapauttaneet kärsimyksestä. He nimittäin ovat saavut
 Ahneuden, vihan ja harhaanjohtavuuden vuoksi ihmiset tuhoutuvat. Kun aika on tullut, he putoavat silloin helvettiin.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Kuv.: ⟪लोभेन⟩ ⟪च⟩ ⟪क्रोधेन⟩ ⟪च⟩ ⟪मोहेन⟩ ⟪च⟩ ⟪जना⟩ ⟪दुष्यन्ति⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung040))
 
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 Kṣatriya tuo sankaritarikasta sotilaita suurkaupungista, jotta hän voisi taistella vihollisten kylää vastaan.
 
@@ -90,7 +93,7 @@ Ohne Rāma.
 Pyhän opetus on hyve, ei epäpyhän.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma odottaa Kṛṣṇaa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 Se on helppoa (onnellista).
@@ -118,10 +121,14 @@ Jos joku tuomitsee väärän tuomion ylpeydestä, ahneudesta, vihanpuuskasta tai
 Helvetit syntyvät pahuuden vuoksi, pahuus syntyy köyhyydestä, köyhyys syntymättä antamisesta.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Kuva: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Kuv lähde: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Varas vapautuu varkudesta rangaistuksen tai vapauttamisen kautta. Jos kuningas ei kuitenkaan rankaise häntä, hän ottaa varkuden syyllisyyden.
@@ -134,10 +141,13 @@ Varas vapautuu varkudesta rangaistuksen tai vapauttamisen kautta. Jos kuningas e
 Talous on hyödyllistä, koska se tuottaa viljaa, karjaa, kultaa, metalleja ja työtä.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Kuva: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Kuv lähde: [Details](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Siksi kolme tiedettä ovat perustana sauva (daṇḍa). Sauva, joka on hyvän käytöksen perusta, tuo eläimille hankinnan ja turvan omistuksen. Hyvä käytös on työtä tai syntynyt. Työ kouluttaa sopivaa materiaalia, ei epäsopivaa. Tieto kouluttaa mielen, joka on tullut totuuteen kuuliaisuuden, kuuntelun, havainnoinnin, ymmärtämisen ja pohdinnan kautta, ei muu. ... Kuullusta syntyy tietoisuus, tiedosta käytäntö, käytännöstä itsekuri; näin tietteet vastaavat tarkoitustaan. Tieto ja hyvä käytös ovat voiton syy aisteja vastaan. Tämä on välttämätöntä, jotta voimme luopua halusta, vihanpuuskasta, ahneudesta, itsepetoksesta, humalasta ja jännityksestä.
-

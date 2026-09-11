@@ -65,10 +65,14 @@ Buddowie i Arhanci są uwolnieni od cierpienia. Osiągnęli bowiem oświecając�
 Przez chciwość, nienawiść i ignorancję ludzie się psują. Gdy nadchodzi czas, wpadają wtedy do piekła.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Ilustracja: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatriya sprowadza bohaterów wojowników z wielkiego miasta, aby zwalczyć wieś wrogów.
 
@@ -88,7 +92,7 @@ Bez Rāmy.
 Nauka świętego prowadzi do cnoty, nie nauka nieswobodnego.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma czeka na Kṛṣṇę.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Idzie łatwo (szczęśliwie).
@@ -113,10 +117,14 @@ Jeśli ktoś z pychy, chciwości, gniewu lub strachu wyda fałszywy wyrok sądow
 Piekła powstają z powodu zła, zło rodzi się z ubóstwa, ubóstwo powstaje z nie dawania.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Ilustracja: ⟪भवन्ति नरकाः पापात्⟫
 (Image source: [Details](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Złodzieja zwalnia się z winy kradzieży poprzez ukaranie lub uwolnienie. Jeśli jednak król go nie ukarze, to przejmuje on winę złodzieja.
 
@@ -128,9 +136,13 @@ Złodzieja zwalnia się z winy kradzieży poprzez ukaranie lub uwolnienie. Jeśl
 Gospodarka jest pożyteczna, ponieważ przynosi zboże, bydło, złoto, metale i pracę.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Ilustracja: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Źródło obrazu: [Szczegóły](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Dlatego trzy nauki mają pałkę (daṇḍa) za podstawę. Pałka, która jest podstawą dobrego postępowania, przynosi stworzeniom zysk i bezpieczne posiadanie. Dobre postępowanie jest wypracowane lub dziedziczne. Działanie bowiem kształtuje odpowiedni materiał, a nie nieodpowiedni. Wiedza kształtuje umysł, który dzięki posłuszeństwu, słuchaniu, ogarnięciu, zrozumieniu i rozważaniu doszedł do prawdy, a nie inny. ... Z usłyszanego bowiem rodzi się wiedza, z wiedzy praktyka, z praktyki samokontrola; tak nauki odpowiadają swojemu celowi. Wiedza i dobre postępowanie są przyczyną zwycięstwa nad zmysłami. Jest to konieczne, aby pozbyć się pożądliwości, nienawiści, chciwości, pychy, upojenia i podniecenia.

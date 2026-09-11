@@ -12,11 +12,14 @@ status: stable
 
 
 ::: center
+
 **Týdenní heslo**
+
 :::
 
 
 ::: center
+
 ⟪धर्मो जयति नधर्मः सत्यं जयति नानृतम् | क्षमा जयति न क्रोधो देवो जयति नासुरः ||⟫
 
 **dharmo jayati nādharmaḥ**
@@ -28,25 +31,30 @@ Právo vítězí, ne nepravost,
 Pravda vítězí, ne nepravda,
 Shovívavost vítězí, ne hněv,
 Bůh vítězí, ne protibůh.
+
 :::
 
 
 ## 7.1. Slovesná věta s přímým objektem
 
 ::: grammar-box
+
 **Schéma:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – přímý objekt (karman n. = ⟪कर्मन्⟫) – sloveso**
 
 např.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : „Ráma jí (kaut) ovoce.“
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : „Brahman uctívá boha obětí (pro někoho jiného).“
+
 :::
+
 Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karman** n. = ⟪कर्मन्⟫) obecně v **akuzativu** (4. pád, dvitīyā f. = ⟪द्वितीया⟫).
 
 
 ## 7.2. Akuzativ (4. pád, dvitīyā f. = ⟪द्वितीया⟫ = „druhé koncové písmeno“)
 
 ::: grammar-box
+
 **Koncovka akuzativu singuláru maskulina a feminina po samohlásce: -m**
 
 | Maskulina na | Akuzativ singuláru |
@@ -59,8 +67,11 @@ Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karm
 | **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
 | **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+
 :::
+
 ::: grammar-box
+
 **Akuzativ plurál maskulinum kmenů končících na samohlásku (výjimka: jednoslabičné kořenové kmeny s dlouhou samohláskou): Prodloužení koncové samohlásky + -n**
 
 | Maskulina auf | Akkusativ Plural |
@@ -68,8 +79,11 @@ Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karm
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
+
 :::
+
 ::: grammar-box
+
 **Akuzativ plurál femininum kmenů končících na samohlásku (výjimka: jednoslabičné kořenové kmeny s dlouhou samohláskou): Prodloužení koncové samohlásky + -s**
 
 | Feminina auf | Akkusativ Plural |
@@ -78,11 +92,13 @@ Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karm
 | **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
 | **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
+
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. Akuzativ singuláru a plurálu tázacích a ukazovacích zájmen
 
 ::: grammar-box
+
 | || Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
@@ -93,7 +109,9 @@ Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karm
 | | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
 | **idam** :brdieses | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
 | | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
+
 :::
+
 Tvary **enam** (⟪एनम्⟫) atd. patří ke kořeni **enad** (⟪एनद्⟫), který tvoří tvary pouze v některých pádech. Tyto tvary se používají místo tvarů **etad** a **idam**, když tím označená věc byla již dříve zmíněna.
 např. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪एनं यजन्ते⟫ || : "On je bůh. Obětuje mu."
 
@@ -101,6 +119,7 @@ např. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं देवः⟫ | ⟪�
 ### 7.2.2. Užití akuzativu (dvitīyā ž. = ⟪द्वितीया⟫ = "druhý pád")
 
 ::: grammar-box
+
 Akuzativ (dvitīyā ž. = ⟪द्वितीया⟫) vyjadřuje:
 1. V nepassivní větné konstrukci s slovesem: **přímý objekt** (karman n. = ⟪कर्मन्⟫) děje vyjádřeného slovesem:
 např.
@@ -109,7 +128,9 @@ např.
 2. U sloves, která vyjadřují chůzi, pohyb, vedení nebo podobné děje směrem k něčemu, vyjadřuje akuzativ cíl pohybu:
 např.
 **narakaṃ gacchati** = ⟪नरकं गच्छति⟫ : "Jde do pekla."
+
 :::
+
 Další užití akuzativu bude probíráno později.
 
 
@@ -117,6 +138,7 @@ Další užití akuzativu bude probíráno později.
 ## 7.3. Sandhi koncového -n
 
 ::: grammar-box
+
 **Koncové -n:**
 
 1. Před znělými palatálními a retroflexními sparśa a před **ś-** se nahrazuje nosovým souhláskou příslušející těmto hláskám:
@@ -137,20 +159,26 @@ např. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "
 **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "ale bohové (akuzativ)"
 
 4. Kromě krátkého samohlásky (viz později) zůstává koncové **-n** ve všech ostatních případech nezměněno.
+
 :::
 
 ## 7.4. Střední rod (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
+
 **Ve středním rodu jsou tvary pro nominativ (prathamā) a akuzativ (dvitīyā) totožné.**
+
 :::
+
 ### 7.4.1. Střední rod kmenů na -a
 
 ::: grammar-box
+
 **Koncovka nominativu / akuzativu singuláru: -m**
 např. **phala** n. = ⟪फल⟫ = "ovoce": Nom./Akk. sg. **phalam** = ⟪फलम्⟫
 **Koncovka nominativu / akuzativu plurálu: -āni**
 např. **phala** n. = ⟪फल⟫: Nom./Akk. pl. **phalāni** = ⟪फलानि⟫
+
 :::
 
 ## 7.5. Athematické třídy přítomného času
@@ -158,6 +186,7 @@ např. **phala** n. = ⟪फल⟫: Nom./Akk. pl. **phalāni** = ⟪फलान
 Pátá třída přítomného času tvoří takzvaný athematický kmen přítomného času, tj. kmen přítomného času nekončí jako u tematických tříd přítomného času (1., 4., 6., 10. třída) na "tematickou samohlásku" **-a**.
 
 ::: grammar-box
+
 **Athematické třídy přítomného času mají kmenovou gradaci, tj. existují dva tvary kmene přítomného času:**
 1. **silný kmen**: vysoká stupeň (vzácně prodloužená)
 2. **slabý kmen**: nízká stupeň
@@ -168,22 +197,30 @@ všech prvních osob imperativu (loṭ) Parasmaipada a Ātmanepada
 ve třetí osobě singuláru imperativu (loṭ) Parasmaipada
 
 **Všechny ostatní tvary mají slabý prézensový kmen.**
+
 :::
+
 ### 7.5.1. Primární koncovky třetí osoby plurálu u athematických kmenů
 
 ::: grammar-box
+
 **U athematických prézensových kmenů znějí primární koncovky třetí osoby plurálu:**
 **Parasmaipada: -anti**
 **Ātmanepada: -ate**
+
 :::
+
 ### 7.5.2. Pátá prézensová třída (svādi = ⟪स्वादि⟫ = "su atd.")
 
 ::: grammar-box
+
 **Silný kmen**: (většinou) slabostupňový kořen (jak uvedeno) + **-no-**
 **Slabý kmen**: (většinou) slabostupňový kořen (jak uvedeno) + **-nu-**
 
 **Před vokálovými koncovkami se u kořenů zakončených na samohlásku -nu- nahrazuje za -nv-, u kořenů zakončených na souhlásku se před vokálovými koncovkami -nu- nahrazuje za -nuv-.**
+
 :::
+
 **Příklady:**
 
 | Kořen:br⟪धातु⟫ | Silný kmen | Slabý kmen | Před vokálem:br(slabý) |
@@ -206,11 +243,16 @@ ve třetí osobě singuláru imperativu (loṭ) Parasmaipada
 **śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : slyšet (něco: akuzativ, někoho: genitiv nebo akuzativ; o: akuzativ; od někoho: genitiv, ablativ, instrumentál)
 **su** 5 U (sunoti) ⟪सु सुनोति⟫ : lisovat
 **soma** m. ⟪सोम⟫ : lisovaný nápoj, soma; měsíc (Z které rostliny byl soma lisován, je dodnes předmětem sporů).
+
 ::: media
+
 ![](/images/lekt0701.webp)
+
 Obr.: Byla to tato védská rostlina somy?: Muchotřávka červená: *Amanita muscaria* (L.) Lam.
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0701))
+
 :::
+
 **phala** n. ⟪फल⟫ : plod (také v přeneseném smyslu: (karmický) plod činu)
 **nṛtya** n. ⟪नृत्य⟫ : tanec
 **svarga** m. ⟪स्वर्ग⟫ : nebe
@@ -229,10 +271,14 @@ Obr.: Byla to tato védská rostlina somy?: Muchotřávka červená: *Amanita mu
 ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
+
 ![](/images/lekt0704.webp)
+
 Obr.: Viṣṇu = ⟪विष्णु⟫, 8./9. století.
 (Zdroj obrázku: [Details](/cs/licenses#lekt0704))
+
 :::
+
 2. gurus ... khādati (phala)
 ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
@@ -269,10 +315,14 @@ Obr.: Viṣṇu = ⟪विष्णु⟫, 8./9. století.
 ⟪यजति⟫ |
 
 ::: media
+
 ![](/images/lekt0702.webp)
+
 Obr.: **yajati** = ⟪यजति⟫ — védská oběť = **yajña** m. = ⟪यज्ञ⟫
 (Zdroj obrázku: [Details](/cs/licenses#lekt0702))
+
 :::
+
 **E) Vytvořte ke všem doposud naučeným podstatným jménům akuzativ (dvitīyā) sg. a pl.**
 
 **F) Přeložte:**
@@ -290,11 +340,14 @@ Obr.: **yajati** = ⟪यजति⟫ — védská oběť = **yajña** m. = ⟪�
 8. Komu obětuje tento bráhman?
 
 ::: media
+
 ![](/images/lekt0703.webp)
+
 Obr.: Komu se zde obětuje? Odpověď: Gaṇeša (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0703))
+
 :::
+
 9. Co žvýká tento svatý muž?
 10. Co lisují tito (zde)?
 11. On je učitel. Na něj se poslouchá (= oni poslouchají).
-

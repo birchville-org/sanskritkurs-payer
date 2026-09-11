@@ -1,6 +1,6 @@
 ---
-title: "Lesson 14"
-subtitle: "The expression of the relationship between entities denoted by nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)"
+title: "Leksjon 14"
+subtitle: "Uttrykk for forholdet mellom enheter betegnet av substantiver: Genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sjette kasusending)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -13,8 +13,11 @@ status: stable
 ## 14.1. Expressing the relationship of entities denoted by nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 
 ::: grammar-box
+
 If the relationship expressed by two nouns is to be indicated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it — with few exceptions — does not serve to further specify the action expressed by the verb, but rather expresses the relationship between persons or things denoted by nouns. Frequently, the genitive answers the question: Whose?
+
 :::
+
 Examples:
 
 ⟪कवेः पुत्रः⟫ "The poet's son"
@@ -26,13 +29,17 @@ Examples:
 ⟪रामस्य कृतम्⟫ "The / A deed of Rāma"
 
 ::: grammar-box
+
 The normal word order is:
 
 > **Determining word in the genitive — Further specified noun in another case**
+
 :::
+
 **Genitive and PPP:**
 
 ::: grammar-box
+
 With PPPs, the genitive can stand in place of the instrumental (tṛtīyā) for the agent (kartṛ); in the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), while in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive is thus not actually an agent).
 
 According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has present-tense meaning (see above), and the instrumental stands if the PPP has past-tense meaning:
@@ -42,7 +49,9 @@ According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has pre
 > ⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
 
 Naturally, when a PPP neuter singular is used as a verbal abstractum - that is, as a noun - the genitive case stands.
+
 :::
+
 ## 14.2. Formation of the Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 The genitive is formed from the weak stem for verbal stems with stem gradation.
@@ -56,6 +65,7 @@ After a consonant, the regular genitive endings are:
 * Plural: **-ām**
 
 :::
+
 ::: center
 
 | Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
@@ -64,6 +74,7 @@ After a consonant, the regular genitive endings are:
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
+
 **Genitive of vowel-final stems, except for monosyllabic root nouns and diphthong-final stems:**
 
 **Plural:**
@@ -75,6 +86,7 @@ The genitive plural of vowel-final stems is formed as follows:
 > **-long final vowel of the stem + -nām**
 
 :::
+
 ::: center
 
 | Nominal Stem | Genitive Plural |
@@ -89,6 +101,7 @@ The genitive plural of vowel-final stems is formed as follows:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
+
 **Genitive singular of stems ending in a vowel:**
 
 ::: grammar-box
@@ -96,6 +109,7 @@ The genitive plural of vowel-final stems is formed as follows:
 The genitive singular of stems ending in a vowel is formed irregularly and must be learned by heart.
 
 :::
+
 ::: center
 
 | Stem | Genitive Singular |
@@ -110,6 +124,7 @@ The genitive singular of stems ending in a vowel is formed irregularly and must 
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(i.e. either like paśu or like multisyllabic feminines in -ū) |
 
 :::
+
 **Interrogative and demonstrative pronouns:**
 
 ::: center
@@ -122,6 +137,7 @@ The genitive singular of stems ending in a vowel is formed irregularly and must 
 | | **Genitive Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
+
 **Form identity:**
 
 ::: important
@@ -131,9 +147,11 @@ In all nominal stems except for masculines and neuters in -a and the pronouns, t
 Note that in stems ending in a consonant, the ablative and genitive singular are identical to the accusative plural masculine and feminine!
 
 :::
+
 ## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
 
 ::: grammar-box
+
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g., with verbs of remembrance:
 
 > ⟪देवानां स्मरति⟫ "He remembers the gods"
@@ -143,7 +161,9 @@ However, with all these verbs, the object can also be in the accusative:
 > ⟪देवान्स्मरति⟫ "He remembers the gods"
 
 More later.
+
 :::
+
 ## 14.4. Vocabulary List
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
@@ -151,10 +171,14 @@ More later.
 * **dīpa m.** (⟪दीप⟫) : lamp
 
 ::: media
+
 ![](/images/lekt1405.webp)
+
 Fig.: ⟪दीपाः⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1405))
+
 :::
+
 * **bala n.** (⟪बल⟫) : force, power, strength; army, host
 * **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
 * **bālā f.** (⟪बाला⟫) : young girl
@@ -190,22 +214,30 @@ Translate the following proverbs and memorize them:
 ⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
+
 ![](/images/lekt1404.webp)
+
 Fig.: ⟪पुत्रवती⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1404))
+
 :::
+
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 meanings)
 
 ⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
+
 ![](/images/lekt1403.webp)
+
 Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1403))
-:::
-**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+
+**B) Oversett:**
+
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 muligheter)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -232,7 +264,10 @@ Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
+
 ![](/images/lekt1402.webp)
+
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1402))
+
 :::

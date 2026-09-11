@@ -1,5 +1,5 @@
 ---
-title: "Lektion 26"
+title: "Õppetund 26"
 subtitle: "Cerebralisatsiooni seadus -s- jaoks sõna sees"
 lesson_id: 26
 last_reconstructed: 2026-05-21
@@ -24,9 +24,9 @@ Seda sandhit järgib ka **⟪दुस्⟫-** enne helituid guturaale ja labia
 
 ::: indent
 
-⟪तेषाम्⟫ (aus: *te-sām*)
+⟪तेषाम्⟫ (alates: *te-sām*)
 
-aber: ⟪तासाम्⟫ (*tā-sām*)
+aga: ⟪तासाम्⟫ (*tā-sām*)
 
 :::
 
@@ -38,7 +38,7 @@ Dentaalsed sulghäälikud asendatakse pärast retroflekse (kaasa arvatud **-ṣ-
 
 **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-*(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+*(**ṣ** eelneva **i** tõttu, **ṭh** seejärel eelneva **ṣ** tõttu)*
 
 :::
 
@@ -88,7 +88,7 @@ Joonis: Hermann Grassmann
 
 **Enne sibilante asendatakse -n ja -m -ṃ-ga:**
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+Näide: vt allpool ⟪मन्⟫-i futuur
 
 :::
 
@@ -257,5 +257,4 @@ C) Futur optativ mit und ohne -i-:
 
 1. ⟪मुह्यन्ति⟫
 2. ⟪वर्तते⟫
-3. ⟪अश्नुवते⟫ (im Futur Parasmaipada)
-
+3. ⟪अश्नुवते⟫ (futuuris Parasmaipada)

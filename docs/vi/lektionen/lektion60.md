@@ -301,7 +301,6 @@ Các hướng chính của bầu trời
 | ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "ông ấy đang có ý định ngã" |
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "ông ấy muốn trộm cắp" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ông ấy muốn dạy (đánh thức nhận thức)" |
-:::
 ####  Ví dụ:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "ông ấy muốn làm" |

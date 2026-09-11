@@ -377,7 +377,6 @@ Protože finitní sloveso (konjugované sloveso) vyjadřuje i agens (⟪कर�
 ## 40.5. Osobní zájmena (⟪पुरुषार्थकसर्वनाम⟫) 1. osoby singuláru a plurálu
 
 *   1.os.čs. ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
-:::
 ## 40.4. Syntax první osoby (⟪तृतीयः⟫)
 
 ::: grammar-box

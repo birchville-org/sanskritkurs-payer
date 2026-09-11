@@ -83,13 +83,18 @@ Razmisleki papige ⟪वैशम्पायन⟫ o lovcu:
 > In postalo mi je jasno: Ah, njihovo [lovčevo] življenje je v glavnem sestavljeno iz zablode in njihovo ravnanje obsojajo dobri. Tako namreč: Darovanje človeškega mesa imajo za pravo religijo; njihova hrana je medeno vino, meso in podobno, kar obsojajo dobri; njihovo prizadevanje je lov; njihovo učno delo je tuljenje šakalov; sove so njihovi učitelji dobrega in zla; njihova modrost je ornitologija; njihovi zaupniki so psi; njihovo kraljestvo je v praznih gozdovih; njihov praznik je pijančevanje; njihovi prijatelji so loki, ki izvajajo kruta dejanja; njihovi spremljevalci so puščice, katerih konice so namazane s strupom kot kače; njihovo petje prinaša propad zmedeni divjadi; njihove žene so ugrabljena mlada dekleta drugih; živijo skupaj z okrutnimi tigri; z živalsko krvjo častijo božanstva; meso darujejo kot žrtve; živijo od ropa; njihov nakit so kačji dragulji; svoje ude si mažejo z izločki gozdnih slonov v ruji; vsak gozd, v katerem se naselijo, popolnoma izrujejo – Medtem ko sem tako razmišljal, je k meni pristopil general Śabarov.
 
 ::: media
+
 ![](/images/uebung086.webp)
+
 Abb.: Jäger
+
 (Vir slike: [Details](/licenses#uebung086))
+
 :::
+
 ---
 
-## ⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
+## ⟪४⟫. Komentar ⟪Bhānuchandre⟫ (⟪16⟫. stoletje)
 
 Komentar k prejšnjemu odseku ⟪कादम्बरी⟫:
 
@@ -100,7 +105,10 @@ Komentar k prejšnjemu odseku ⟪कादम्बरी⟫:
 > **Tubb, Gary A. & Boose, Emery R.: Študijski sanskrt: Priročnik za študente.** New York: American Institute of Buddhist Studies, 2007.
 
 ::: media
+
 ![](/images/uebung089.jpg)
+
 Slika: Študijski sanskrt
 (Vir slike: [Podrobnosti](/licenses#uebung089))
+
 :::

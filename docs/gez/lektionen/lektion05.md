@@ -112,7 +112,7 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 
 ![](/images/lekt0501.webp)
 
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
+ስዕሊ: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 (ምንጭ ሥዕል፡ ዊኪፔዲያ፣ የሕዝብ ንብረት)
 
@@ -124,7 +124,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **trayī** አንስታይ = ⟪त्रयी⟫ : ሦስትነት፤ በተለይ፡ ሦስቱ ቬዳዎች (Ṛgveda, Sāmaveda, Yajurveda)።
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : ፖለቲካ (ግስም ፡ ዘውእቱ ፡ ቃል ፡ ዘተገብረ ፡ እም ፡ daṇḍa m. = "በትር ፡ ኀይል ፡ ግዝአት ፡ ቅጣት" ወ ፡ nīti f. = "ቅን ፡ ምምራሕ").
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 
@@ -144,8 +144,8 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+**ca** = ⟪च⟫ : ወ.
+(ይትበሀል ፡ ድኅረ ፡ ቃል ፡ ዘይትዋሰክ ፡ ቦቱ። ወእመሰ ፡ ብዙኃት ፡ አህጉር ፡ ይትዋሰካ ፡ ይትነበር ፡ ድኅረ ፡ ቀዳማይ ፡ ቃል ፡ ዘአሐዱ ፡ እምአህጉር ፡ ዘይትዋሰክ ፡ ቦቱ ፡ በከመ ፡ ይደሉ ፡ brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : ሁለቱም ... እናም.
 
@@ -169,11 +169,11 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
    (in gutem Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6):
+4. ሠለስቱ ፡ ጸላእት ፡ ለሰብእ ፡ እለ ፡ ይገብሩ ፡ ደገ ፡ ለሲኦል (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
    ⟪कामक्रोधलोभाः⟫ ||
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten)
+3. dvijā vaiśyāḥ. (፪ ፡ አገባብ)
 ⟪द्विजा वैश्याः⟫ |
 
 **ለ) ተገቢውን ቅጽ አስገባ፡**

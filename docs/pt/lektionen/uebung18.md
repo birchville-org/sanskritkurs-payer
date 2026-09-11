@@ -19,7 +19,7 @@ Não há enganador e inimigo como a ignorância,
 Não há fogo como a ira,  
 Não há felicidade como o conhecimento.
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+B) Traduza os seguintes Tatpuruṣa:
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
 
@@ -55,7 +55,7 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — não-SER-senhor
 
 ⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
 
@@ -84,10 +84,14 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 ⟪३१⟫. ⟪अमृत⟫ n. — imortalidade, alimento da imortalidade, amrito (poção de imortalidade)
 
 ::: media
+
 ![](/images/uebung027.jpg)
+
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung027))
+
 :::
+
 ---
 
 ## Exercícios Adicionais
@@ -120,7 +124,7 @@ B) Traduza usando verbos da 2ª classe do presente:
 2. Os heróis seguem pelo caminho difícil até a aldeia dos arianos.
 ⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
 
-3\. Die Hausmagd melkt die Kühe.
+3. A empregada doméstica ordenha as vacas.
 ⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
 
 4\. Os inimigos dos arianos matam os poderosos Kṣatriyas.
@@ -136,13 +140,16 @@ C) Forneça em sânscrito a definição de Yoga de duas maneiras: uma usando um 
 
 ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
 
-D) Übersetzen Sie:
+D) Traduza:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 O dever de todos é: não violência, veracidade, pureza, não reclamar do próprio destino, isenção de maldade e tolerância paciente.
 
 ::: media
+
 ![](/images/uebung028.webp)
+
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung028))
+
 :::

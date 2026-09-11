@@ -13,6 +13,7 @@ last_reconstructed: 2026-05-15
 A) Määritä seuraavat verkimuat ja muodosta persoonan, numeron ja genus verbin mukaiset imperfektimuodot:
 
 ::: grammar-box
+
 | Preesens / Futuri | Imperfektum |
 | :--- | :--- |
 | ⟪१⟫. ⟪हरिष्यन्ते⟫ | ⟪अहरन्त⟫ |
@@ -90,7 +91,9 @@ A) Määritä seuraavat verkimuat ja muodosta persoonan, numeron ja genus verbin
 | ⟪७३⟫. ⟪तनोति⟫ | ⟪अतनोत्⟫ |
 | ⟪७४⟫. ⟪प्रजानीते⟫ | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. ⟪जीवन्ति⟫ | ⟪अजीवन्⟫ |
+
 :::
+
 B) Käännä ja ratkaise sanskritinkieliset samasat (komposita):
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
@@ -114,10 +117,14 @@ Brahmanit ovat opiskelleet ja opettaneet vedää, toimineet jumalille uhritoimit
 Buddhan pojat ovat tunnistaneet totuuden, pysäyttäneet kärsimyksen ja saavuttaneet vapautuksen. Munkkia, joka kulkee Buddhan tietä, kutsutaan "Buddhan pojaksi".
 
 ::: media
+
 ![](/images/uebung050.webp)
+
 Kuv.: ⟪सम्पन्नरूपा⟩
 (Kuvan lähde: [Yksityiskohdat](/licenses#uebung050))
+
 :::
+
 ---
 
 ## Sanamuodon määrittäminen
@@ -125,6 +132,7 @@ Kuv.: ⟪सम्पन्नरूपा⟩
 Määritä ja käännä seuraavat sanat:
 
 ::: grammar-box
+
 | Sanamuoto | Määritelmä | Merkitys |
 | :--- | :--- | :--- |
 | ⟪१⟩. ⟪देवस्य⟩ | Gen. sg. m. | jumalan
@@ -213,12 +221,18 @@ Määritä ja käännä seuraavat sanat:
 | ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | virkamiesten luona |
 | ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | hän opettaa |
 | ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | he lukemaan antavat |
+
 :::
+
 ::: media
+
 ![](/images/uebung051.webp)
+
 Kuv.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung051))
+
 :::
+
 ---
 
 ## Sandhi-harjoitus
@@ -296,10 +310,14 @@ Sijoita seuraaviin lauseisiin sulkulausekkeissa olevat sanat ja huomioi Sandhi-s
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
 ::: media
+
 ![](/images/uebung052.webp)
+
 Kuva: ⟪पुनर्दर्शनाय⟫
 (Kuv lähde: [Details](/licenses#uebung052))
+
 :::
+
 ---
 
 ## Scholarly Fragment (Stotra)
@@ -310,13 +328,17 @@ Kuva: ⟪पुनर्दर्शनाय⟫
 Korkea Hari on turvani, joka lähetti vihollisensa taivaaseen, antoi omilleen ymmärtää Vedan merkityksen, antoi jumalille Amṛtaa syötäväksi, opetti luojalle Veda ja asetti maan veteen.
 
 ::: media
+
 ![](/images/uebung053.webp)
+
 Kuva: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Kuv lähde: [Details](/licenses#uebung053))
+
 :::
+
 ---
 
-## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## Kertomus: Vanha mies ja apinat (Sanskrit-Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
@@ -324,7 +346,10 @@ Kuva: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 Eräänä päivänä vanhus meni toiseen kylään ja väsyi matkalla. Lepäääkseen hän meni mangopuun juurelle tien varteen. Puussa oli kypsiä hedelmiä. Vanhus halusi niitä, mutta hän ei pystynyt kiipeämään puuhun poimimaan hedelmiä. Onneksi puussa oli muutamia apinoita, jotka söivät hedelmiä. Kun vanhus näki tämän, hän iloitui. Mitä hän teki? Hän otti muutamia kiviä, tähtäsi apinoihin ja heitti niitä. Apinat vihastuivat, poimivat muutamia hedelmiä ja heittivät niitä vanhukselle. Vanhus otti iloisesti hedelmät ja jatkoi matkaansa. Upeaa on vanhuksen taituruus!
 
 ::: media
+
 ![](/images/uebung054.webp)
+
 Kuva: ⟪वानरः⟫ ⟪कुपितः⟫
 (Kuv lähde: [Details](/licenses#uebung054))
+
 :::

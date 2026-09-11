@@ -503,7 +503,7 @@ Umfanekiso: ⟪ऋतुः⟫
 
 :::
 
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ isichasiso: endaweni eyodwa
 
 ⟪जटा⟫ f.: Ukuphothwa kwezinwele (isitayela sezinwele somuntu ongumhlali)
 
@@ -611,8 +611,8 @@ City Palace, ⟪उदयपुर⟫
 
 Umfanekiso: ⟪मृगया⟫
 
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Umthombo wesithombe: [Details](/zu/licenses#lekt5110))
+Ukuzingela nge-⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Umthombo wesithombe: [Imininingwane](/zu/licenses#lekt5110))
 
 :::
 
@@ -752,8 +752,8 @@ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 
 Umfanekiso: ⟪मणिः⟫
 
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Umthombo wesithombe: [Details](/zu/licenses#lekt5118))
+I-Hope Diamond evela e-Guntur = గుంటూరు, namuhla i-Smithsonian Museum of Natural History, e-Washington DC
+(Umthombo wesithombe: [Imininingwane](/zu/licenses#lekt5118))
 
 :::
 
@@ -771,7 +771,7 @@ Umfanekiso: ⟪मदः⟫
 
 :::
 
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ ubunye: futhi: umbala, umbala obomvu
 
 ⟪कालन⟫ n.: Wald
 

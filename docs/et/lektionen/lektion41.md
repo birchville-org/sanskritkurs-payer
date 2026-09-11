@@ -1,5 +1,5 @@
 ---
-title: "Lektion 41"
+title: "Õppetund 41"
 subtitle: "⟪सुभाषिते⟫ (kaks vanasõna)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
@@ -99,7 +99,7 @@ Examples:
 
 :::
 
-#### 41.2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. Sufiks -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
 
@@ -111,7 +111,7 @@ oder
 
 * **hochstufige Wurzel + -i- + ⟪तव्य⟫**
 
-**Im Kausativ:**
+**Kausatiivis:**
 
 * **Causative stem in -ay + -i- + ⟪तव्य⟫**
 
@@ -129,7 +129,7 @@ Beispiele:
 
 :::
 
-#### 41.2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
+#### 41.2.2.2. Sufiks -⟪अनीय⟫ / -⟪अनीया⟫
 
 ::: grammar-box
 
@@ -364,7 +364,7 @@ Gerundiivi saab kasutada ka predikaatnimisõnana lausetes, millel on passiivne k
 
 ::: indent
 
-**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Zweimalgeborene müssen Benares sehen"
+**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Kaks korda sündinud peavad nägema Benaresit"
 
 :::
 

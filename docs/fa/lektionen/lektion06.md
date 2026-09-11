@@ -76,6 +76,7 @@ status: stable
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 
 
+:::
 ## 6.4. پایان‌های شخص سوم (prathama m. = ⟪प्रथम⟫ = "اولین (!) شخص")
 
 ::: grammar-box

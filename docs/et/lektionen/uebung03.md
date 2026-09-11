@@ -124,13 +124,13 @@ kṣatriyā sādhvī.
 
 D) Tõlkige sanskriti keelde:
 
-1\. Umā ist eine Göttin.
+1. Umā on jumalanna.
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. Der Veda ist śruti.
+2. Veeda on śruti.
 
 śrutir vedaḥ.
 
@@ -148,7 +148,7 @@ paśavo dhenavaḥ.
 
 ⟪पशवो धेनवः⟫
 
-5\. Dichter sind Lehrer.
+5. Luuletajad on õpetajad.
 
 guravaḥ kavayaḥ.
 
@@ -160,7 +160,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः क्षत्रियाः⟫
 
-7. Die heiligen Männer sind Śūdras.
+7. Pühad mehed on śūdradeks.
 
 śūdrāḥ sādhavaḥ.
 

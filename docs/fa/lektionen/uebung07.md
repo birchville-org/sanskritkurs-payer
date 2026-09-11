@@ -151,15 +151,15 @@ yajate.
 
 ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫
 
-Sie gehen in Himmel und Höllen.
+آنها به بهشت و جهنم می‌روند.
 
 2\. gurūṃs tu śṛṇvanti.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-Sie hören aber auf die Meister.
+اما آنها به استادان گوش می‌دهند.
 
-3\. Śūdras erlangen einen Himmel.
+۳. شودراها به بهشت می‌رسند.
 
 śūdrāḥ svargam āpnuvanti.
 
@@ -177,13 +177,13 @@ vaiśyā devatā yajante.
 
 ⟪वैश्या⟫ ⟪देवता⟫ ⟪यजन्ते⟫ ⟪।⟫
 
-6\. Der HERR zürnt.
+۶. خداوند خشمگین است.
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+۷. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (بر اساس Kauṭilīya-arthaṣāstra 1.3.3.) توضیح: chando = حالت فاعلی، حالت مفعولی مفرد از chandas خنثی.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -201,7 +201,7 @@ ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+۱۰. اینها (اینجا) چه چیزی را فشرده می‌کنند؟
 
 ete kiṃ sunvanti / sunvate?
 
@@ -214,7 +214,9 @@ sa guruḥ. enaṃ śṛṇvanti.
 ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 
 ::: media
+
 ![](/images/uebung006.jpg)
+
 تصویر: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (منبع تصویر: [جزئیات](/licenses#uebung006))
 

@@ -153,6 +153,7 @@ Příklad:
 ::: grammar-box
 **4\. Substantiva**
 
+:::
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Lidé konají záslužná čina. Chtějí přece vstoupit do nebe."
 :::
@@ -286,7 +287,6 @@ od toho:
 od toho:
 
 ⟪विवाह⟫ m.: odvedení, sňatek ženy (Instr., saha) (ke sňatku viz Basham, Wonder S. 166 -171)
-:::
 ::: media
 ![](/images/lekt2504.webp)
 Obr.: ⟪विवाहः⟫
@@ -348,7 +348,6 @@ A) Doplňte deklinované příklady z [Lekce 16](lektion16.md), opakovací cvič
 ⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
 Zapamatujte si tato deklinovaná paradigmata nazpaměť!
-:::
 ⟪सामर्थ्य⟫ n.: odpovídající svému účelu
 
 ⟪स्वभाव⟫ m.: bytost, povaha, charakter

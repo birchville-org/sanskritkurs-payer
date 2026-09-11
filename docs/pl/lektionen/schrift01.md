@@ -30,7 +30,7 @@ Podczas pisania każda litera, w tym linia pozioma na górze, musi być ukończo
 
 ## Ćwiczenie
 
-Schreiben Sie in Devanāgarī:
+Napisz w Devanagari:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Przeczytaj i transliteruj:
 Dodatkowe ćwiczenie czytania:
 
 ⟪पिता⟫ ojciec, ⟪कपि⟫ małpa, ⟪कृत⟫ uczynił,  ⟪टीका⟫ subkomentarz, ⟪तत्⟫ ten, ⟪तट⟫ brzeg, ⟪पत्⟫ strzelać, ⟪पट⟫ tkanina, ⟪काच⟫ szkło,  ⟪काकुत्⟫ podniebienie, ⟪चित्⟫ postrzegać, ⟪पृच्⟫ mieszać,  ⟪पोटक⟫ sługa, ⟪चेतु⟫ zamiar, ⟪तौतातित⟫ zwolennik Kumārila (Mīmāṃsā), ⟪तूत⟫ morwa, ⟪पीत⟫ pił,  ⟪पीति⟫ napój, ⟪कॢप्⟫ pasować, ⟪कृपते⟫ on lamentuje, ⟪पुटी⟫ fałda, ⟪चापि⟫ podobnie, ⟪तोक⟫ potomstwo, ⟪तृपत्⟫ syty, ⟪पॄ⟫ wypełniać, ⟪कृकाटी⟫ staw karkowy, ⟪पूपौ⟫ dwa placeki, ⟪पैतृकी⟫ ojcowski (żeński), ⟪कौट⟫ oszukańczy, ⟪कच⟫ włosy na głowie, ⟪कुतपे⟫ na kocie z włosia koziego, ⟪कुचौ⟫ pierś, ⟪चकिता⟫ przestraszony (żeński)
-
-

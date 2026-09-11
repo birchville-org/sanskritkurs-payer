@@ -273,6 +273,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 
 
+:::
 ## 8.7. Reading and Translation Exercise
 
 1. ⟪शूद्रो बालं नयति⟫ |

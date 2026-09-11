@@ -95,7 +95,7 @@ Examples:
 *   före konsonant: lågt stadium -i
 *   före vokal: lågt stadium Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+Bildas från rötter som slutar på -ā / -āi
 
 :::
 

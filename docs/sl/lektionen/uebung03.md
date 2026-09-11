@@ -124,52 +124,56 @@ kṣatriyā sādhvī.
 
 ⟪क्षत्रिया साध्वी⟫
 
-D) Übersetzen Sie ins Sanskrit:
+D) Prevedite v sanskrt:
 
-1\. Umā ist eine Göttin.
+1\. Umā je boginja.
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. Der Veda ist śruti.
+2\. Veda je śruti.
 
 śrutir vedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. Die Lehrerinnen sind Göttinnen.
+3\. Učiteljice so boginje.
 
 devyo gurvyaḥ.
 
 ⟪देव्यो गुर्व्यः⟫
 
-4\. Milchkühe sind domestizierte Tiere.
+4\. Mlečne krave so udomačene živali.
 
 paśavo dhenavaḥ.
 
 ⟪पशवो धेनवः⟫
 
-5\. Dichter sind Lehrer.
+5\. Pesniki so učitelji.
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः कवयः⟫
 
-6\. Kṣatriyas sind Zweimalgeborene.
+6\. Kṣatriye so dvakrat rojeni.
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+7\. Sveti možje so Śūdre.
 
 śūdrāḥ sādhavaḥ.
 
 ⟪शूद्राः साधवः⟫
 
 ::: media
+
 ![](/images/uebung001.webp)
+
 Abb.: ⟪पशुर्धेनुः⟫
+
 (Vir slike: [Details](/licenses#uebung001))
+
 :::

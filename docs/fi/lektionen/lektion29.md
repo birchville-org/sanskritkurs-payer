@@ -1,6 +1,6 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: Oppitunti 29
+subtitle: "Parasmaipadan (⟪परस्मैपद⟫) ja Ātmanepadan (⟪आत्मनेपद⟫) käyttö kausatiivissa"
 lesson_id: 29
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -12,13 +12,19 @@ status: stable
 ## 29.1. Parasmaipadan (⟪परस्मैपद⟩) ja Ātmanepadän (⟪आत्मनेपद⟩) käyttö kausatiivissa
 
 ::: grammar-box
+
 **Kausatiivi on poikkeuksellisesti Ubhayapada (⟪उभयपद⟩)**
+
 :::
+
 ::: grammar-box
+
 **Kausatiivissa käytetään Ātmanepadaa (⟪आत्मनेपद⟩):**
 
 **1. Kun syytetyn teon hedelmä hyödyttää syöttäjää:**
+
 :::
+
 Esimerkki:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma teettää itselleen (oman edun vuoksi) maton"
@@ -38,10 +44,13 @@ Säännöt vastaavat siis yleensä Ātmanepadan (⟪आत्मनेपद⟫)
 Preverbien:
 
 ::: indent
+
 ⟪उद्⟫° : ylös, päälle, korkealle, ulos, erä-, pois-
 
 ⟪परि⟫° : ympäri, ympärillä (paikka, aika), ympäris
+
 :::
+
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (tulla jonkun ympärille = saartaa =) valloittaa, voittaa; halveksia, loukata
 
 ⟪अवज्ञान⟫ n.: halveksunta
@@ -53,12 +62,15 @@ Preverbien:
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : syödä, ahmia
 
 ::: indent
+
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
+
 :::
+
 ⟪तीक्ष्ण⟫ 3: "vill", terävä, kärkevä, ankara, voimakas, suoraan puhuva
 
 ⟪न्याय⟫ m.: normi, sääntö, oikea tapa; menetelmä, logiikka (sanasta ⟪इ⟫ + ⟪नि⟫)
@@ -66,11 +78,15 @@ Inf. ⟪ग्रसितुम्⟫
 ⟪परिव्राजक⟫ m.: vaeltaja, vaellusmunkki, pyhiinvaeltaja
 
 ::: media
+
 ![](/images/lekt2903.webp)
+
 Kuv.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2903))
+
 :::
+
 ⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫
 
 ⟪पुनर्⟫ Indekl.: taas, aina uudelleen, takaisin, vielä kerran ; mutta, kuitenkin (sointuvien konsonanttien edellä paitsi r-: ⟪पुनर्⟫)
@@ -80,15 +96,23 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: kala
 
 siitä:
+
 ::: indent
+
 ⟪मात्स्य⟫ 3: kalalle (kaloihin) kuuluva
+
 :::
+
 ::: media
+
 ![](/images/lekt2901.webp)
+
 Kuv.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2901))
+
 :::
+
 ⟪मृदु⟫  (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko
 
 ⟪यथा⟫ Adv.: kuin, ikäänkuin
@@ -96,12 +120,15 @@ Kuv.: ⟪मत्स्यः⟫
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : seistä edelleen, levätä, viipyä; pitää jostakin, nauttia
 
 ::: indent
+
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Kaus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
+
 :::
+
 ⟪वानप्रस्थ⟫ m.: eräaskeetikko (joku, joka on 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: loistava, kirkas, hienostunut; m.: puhtaus
@@ -109,8 +136,11 @@ Inf. ⟪रन्तुम्⟫
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : kunnioittaa, palvoa
 
 ::: indent
+
 PPP ⟪पूजित⟫
+
 :::
+
 ## 29.3. Käännösharjoitus toistoa varten
 
 Kääntäkää sanasta sanaan hyvään saksaan ja opetelkaa sanskrittekstit ulkoa:
@@ -138,18 +168,26 @@ Selitys: ⟪आत्मसु⟫ = Lok. sg. sanasta ⟪आत्मन्⟫ m.
 ⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
+
 ::: indent
+
 ⟪चतुर्व⟫⟪र्णाश्रमो⟫ ⟪लोको⟫  
 ⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt2902.jpg)
+
 Kuvaus: ⟪मात्स्यन्याय⟩:
 (Piirros: Namcha Payer, 2002-11)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2902))
+
 :::
+
 Selitykset:
 
 ⟪।८।⟩ ⟪उद्वेजनीय⟩ ⟪३⟩ "jokin (joku), josta täytyy kauhuta"
@@ -264,5 +302,4 @@ Selitykset:
 | ⟪हृ⟫ ⟪१⟫ ⟪उ⟫ | ⟪हरिष्यति⟫ | ⟪हारयति⟫ |
 
 :::
-
 

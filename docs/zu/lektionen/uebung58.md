@@ -49,7 +49,6 @@ Isithombe: ⟪तब्लाः⟫
 
 Chaza futhi uhumushe lezi zimo ezilandelayo:
 
-:::
 
 ---
 

@@ -40,9 +40,9 @@ B) Xazulula le Tatpuruṣa ilandelayo:
 
 ⟪१२⟫. ⟪यज्ञाङ्गानि । यज्ञस्याङ्गानि । यज्ञा⟫anam⟪ङ्गानि⟫ — izindawo / izinto / izinto zokukhetha, izinto zokukhetha
 
-⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — durch die Familie
+⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — ngumndeni
 
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — die Dorfschreiber
+⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — ababhali basemakhaya
 
 ⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — Schlangengott, Schlangenfürst, Elefantengott, Elefantenkönig
 
@@ -84,7 +84,7 @@ Umfanekiso: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 
 Chaza amagama ahlanganisiwe alandelayo njenge-Tatpuruṣa ngesiSanskrit bese unikeza ukuhumusha kwesiJalimane. Nikeza zonke izincazelo nokuhumusha okubonakala kungenzeka kuwe. Futhi, khombisa ukuthi iyiphi ikesi nenombolo okuyiyo yonke into ehlanganisiwe.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Des Götterfürsten
+⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Yenxusa labonkulunkulu
 
 ⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — owesifazane oshiswe usizi
 
@@ -94,15 +94,15 @@ Chaza amagama ahlanganisiwe alandelayo njenge-Tatpuruṣa ngesiSanskrit bese uni
 
 ⟪५⟫. ⟪गृहकरणम्⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪करणम्⟫ — Hausarbeit
 
-⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — durch Śūdrawerk
+⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — ngomsebenzi we-Śūdra
 
 ⟪७⟫. ⟪ईश्वरपूजा⟫ ⟪।⟫ ⟪ईश्वरस्य⟫ ⟪पूजा⟫ — Gottesdienst
 
-⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — HERR der Götter
+⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — NKOSI yabonkulunkulu
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — Opfer (Akkusativ) der Kaṣatriyas / des Kṣatriya, Opfer für Kṣatriyas / einen Kṣatriya
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — umhlatshelo (Isimo sokwenza) wama-Kaṣatriya / we-Kṣatriya, umhlatshelo wama-Kṣatriya / we-Kṣatriya
 
-⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — durch Vaiśyawesen
+⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — ngesimo se-Vaiśya
 
 ⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — kathisha wonkulunkulu, kathisha onjengonkulunkulu, kathisha waphezulu
 
@@ -112,7 +112,7 @@ Chaza amagama ahlanganisiwe alandelayo njenge-Tatpuruṣa ngesiSanskrit bese uni
 
 ⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — Ukukhohliswa ngosizi, ukudideka ngenxa yosizi
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — der Dorfherren
+⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — wamakhosi asemakhaya
 
 ⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — Stadtvolk, Städter
 
@@ -120,7 +120,7 @@ Chaza amagama ahlanganisiwe alandelayo njenge-Tatpuruṣa ngesiSanskrit bese uni
 
 ⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — Gotteshäuser
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — der Göttersöhne
+⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — wamadodana onkulunkulu
 
 ⟪२०⟫. ⟪पश्विष्टिः⟫ ⟪।⟫ ⟪पशोरिष्टिः⟫ ⟪।⟫ ⟪पशूनामीष्टिः⟫ — Tieropfer
 
@@ -128,7 +128,7 @@ Chaza amagama ahlanganisiwe alandelayo njenge-Tatpuruṣa ngesiSanskrit bese uni
 
 ⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — Indlu yeNkosi / yamaNkosi
 
-⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — durch ein Somaopfer
+⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — ngomhlatshelo we-Soma
 
 ⟪२४⟫. ⟪स्वर्गगताः⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गताः⟫ — Abaya ezulwini
 

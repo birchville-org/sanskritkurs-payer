@@ -64,10 +64,14 @@ Los budas y arhants están liberados del sufrimiento. De hecho, han alcanzado la
 Por codicia, odio e ignorancia, los seres humanos se corrompen. Cuando llega el momento, caen en un infierno.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 El kṣatriya trae guerreros heroicos de la gran ciudad para combatir a la aldea de los enemigos.
 
@@ -87,7 +91,7 @@ Ohne Rāma.
 La enseñanza de un santo conduce a la virtud, no la de un impío.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma espera a Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 Es fácil (dichoso).
@@ -115,10 +119,14 @@ Si alguien emite un fallo judicial falso por soberbia, codicia, ira o miedo, ent
 Los infiernos surgen a causa del mal, el mal surge de la pobreza, la pobreza surge de no dar.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Un ladrón queda liberado de la culpa del robo mediante el castigo o mediante la liberación. Pero si el rey no lo castiga, entonces asume la culpa del ladrón.
@@ -131,9 +139,13 @@ Un ladrón queda liberado de la culpa del robo mediante el castigo o mediante la
 La economía es útil porque produce grano, ganado, oro, metales y trabajo.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Por eso, las tres ciencias tienen el bastón (daṇḍa) como base. El bastón, que es la base del buen comportamiento, trae a los seres vivos la obtención y la posesión segura. El buen comportamiento se adquiere o se hereda. La actividad educa, de hecho, un material adecuado, no un material inadecuado. El conocimiento educa una mente que ha llegado a la verdad mediante la obediencia, la escucha, la captación, la comprensión y la reflexión, no otra. ... De lo oído surge el conocimiento, del conocimiento surge la práctica, de la práctica surge la posesión de sí mismo; así, las ciencias cumplen su propósito. El conocimiento y el buen comportamiento son la causa de la victoria sobre los sentidos. Esto es necesario para deshacerse del deseo, el odio, la codicia, la presunción, la embriaguez y la excitación.

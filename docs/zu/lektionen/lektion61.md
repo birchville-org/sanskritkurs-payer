@@ -379,9 +379,9 @@ isib.
 
 **Ukufakwa kwesigaba:**
 
-*   **Isigaba se-Präsens: njenge-Ātmanepada ye-4 ye-Präsens class (⟪दिवादिगण⟫).**
+*   **Isigaba sesikhathi esiyimanje: njenge-Ātmanepada ye-4 ye-isikhathi esiyimanje class (⟪दिवादिगण⟫).**
 *   **Passive kanye nezinye izigaba ze-Tempusstämme: uma uvokhal ulandela i-ya- ye-Intensivstamm, i-ya- ishintshwa ibe ngu--y-, uma i-consonant ilandela i-ya-, i-ya- iyanyamalala:**
-*   **Passive Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Passive isikhathi esiyimanje: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
 *   **Perfekt: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
 *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
 *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
@@ -908,7 +908,7 @@ Neutrum (⟪नपुंसक⟫)
 | ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
 | ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum
+Okunye kufana nobuDoda
 
 :::
 

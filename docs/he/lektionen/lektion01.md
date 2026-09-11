@@ -162,6 +162,7 @@ pārvatīparameśvarau |**
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 
+:::
 ::: laut-table
 | צליל | תיאור |
 | :--- | :--- |

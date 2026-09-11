@@ -13,6 +13,7 @@ status: stable
 ## 30.1. Deveta klasa prezensa (⟪क्र्यादि⟫ = "⟪क्री⟫ itd.")
 
 ::: grammar-box
+
 **Oblikovanje:**
 
 *   močni koren: stopnjen koren + -nā-
@@ -22,12 +23,17 @@ status: stable
 *   pred soglasnikom: stopnjen koren + -nī-
 
 *   pred samoglasnikom: stopnjen koren + -n-
+
 :::
+
 Primer:
 
 ::: indent
+
 ⟪क्री⟫ 9U "kupiti"
+
 :::
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -36,6 +42,7 @@ Primer:
 |**3. oseba:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
+
 Pri tej prezenski klasi je treba posebno pozornost nameniti oblikovanju prezenskega korena za koren ⟪ज्ञा⟫ 9U "spoznati, vedeti":
 
 ::: grammar-box
@@ -46,6 +53,7 @@ Pri tej prezenski klasi je treba posebno pozornost nameniti oblikovanju prezensk
 |**3. oseba:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
+
 Oblika ⟪जा⟫, ki leži v osnovi prezenskega korena za ⟪ज्ञा⟫, je bodisi razložljiva z apofonskim nizom -ā (stopnja) -nā (visoka stopnja), bodisi z disimilacijo iz *jñā-nā-ti.
 
 Nekateri koreni z dolgim samoglasnikom ta pred prezenskim sufiksom devete klase skrajšajo:
@@ -53,8 +61,11 @@ Nekateri koreni z dolgim samoglasnikom ta pred prezenskim sufiksom devete klase 
 Primer:
 
 ::: indent
+
 ⟪पू⟫ 9U "očistiti"
+
 :::
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -63,18 +74,23 @@ Primer:
 |**3. oseba:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
 :::
+
 Oblikovanje pridevnika v sedanjiku za Parasmaipada:
 
 Primer:
 
 ::: indent
+
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; ž. rod: ⟪क्रीणती⟫ (krī + n + at + ī)
+
 :::
+
 ## 30.2. Uporaba optativa (⟪लिङ्⟫)
 
 Optativ se uporablja:
 
 ::: grammar-box
+
 **1. za označevanje**
 
 *   **želje**
@@ -82,13 +98,19 @@ Optativ se uporablja:
 *   **zmehčanega ukaza**
 
 **(pri tem se optativ - ⟪लिङ्⟫ - prekriva z imperativom - ⟪लोट्⟫)**
+
 :::
+
 Primer:
 
 ::: indent
+
 ⟪दासो ग्राममागच्छेत्⟫ = "Naj suženj pride v vas"
+
 :::
+
 ::: grammar-box
+
 **2. Če se nekaj predstavi kot**
 
 *   **možno**
@@ -96,20 +118,31 @@ Primer:
 *   **predpostavljenega**
 
 **je treba prikazati.**
+
 :::
+
 Primer:
 
 ::: indent
+
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात्⟫ = "Če bi odšel iz vasi, mojstra ne bi slišal"
+
 :::
+
 ::: grammar-box
+
 **3. Relativni stavki z optativom imajo včasih pomen: "Če kdo ..."**
+
 :::
+
 Primer:
 
 ::: indent
+
 ⟪यो नृतं वदेत्स नरकं पतेत्⟫ = "Če bi kdo govoril neresnico, bi padel v pekel = Če kdo govori neresnico, pade v pekel"
+
 :::
+
 ## 30.3. Sekundarne končnice za 3. osebo ednine in množine
 
 Optativ (⟪लिङ्⟫), imperfekt (⟪लङ्⟫), aorist (⟪लुङ्⟫), prekativ (⟪आशिर्लिङ्⟫) in kondicional imajo tako imenovane sekundarne končnice:
@@ -122,24 +155,29 @@ Optativ (⟪लिङ्⟫), imperfekt (⟪लङ्⟫), aorist (⟪लुङ�
 |**Ātmanepada**|**-ta**|neatamske razredi: **-ata** (iz *nta):brOptativ: **-ran**|
 
 :::
-## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
+
+## 30.4. Tvorba optativa prezenta (⟪लिङ्⟫)
 
 ### 30.4.1. Thematische Präsensklassen
 
 ::: grammar-box
+
 **pred soglasniškimi začetki končilk:**
 
 **prezentni koren + -i- (ki se z -a- združi v -e-) + sekundarne končnice**
 
-**vor vokalisch anlautenden Endungen:**
+**pred vokalno začetnimi končnicami:**
 
 **Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
+
 :::
+
 Beispiele:
 
 1. klasa prezenta:
 
 ⟪भू⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -148,9 +186,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
+
 4. klasa prezenta:
 
 ⟪नृत्⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -159,9 +199,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
+
 6. klasa prezenta
 
 ⟪विश्⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -170,9 +212,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
+
 10. klasa prezenta in kazativi
 
 ⟪चुर्⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -181,9 +225,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
+
 ### 30.4.2. Athematische Präsensklassen
 
 ::: grammar-box
+
 **Parasmaipada:**
 
 **šibki prezentni koren + -yā- (pred -ur: -y-) + sekundarna končnica**
@@ -191,12 +237,15 @@ Beispiele:
 **Ātmanepada:**
 
 **šibki prezentni koren + -ī- + sekundarna končnica**
+
 :::
+
 Beispiele:
 
 2. klasa prezenta:
 
 ⟪द्विष्⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -205,9 +254,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
 :::
+
 5. klasa prezenta
 
 ⟪सु⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -216,9 +267,11 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
 :::
+
 8. klasa prezenta
 
 ⟪तन्⟫
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -227,6 +280,7 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
 :::
+
 **kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
@@ -237,6 +291,7 @@ Beispiele:
 |**3. Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
 :::
+
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
@@ -245,42 +300,60 @@ Beispiele:
 |**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
 :::
+
 ## 30.5. Sandhi izgovarjavnega -r
 
 ::: grammar-box
+
 **Razen za -ar veljajo za izgovarjavno -r enaka sandhij pravila kot za izgovarjavno -s.**
 
 **-ar pred zvenčnimi soglasniki ostane -ar, pred r- pa odpade -r in -a- se nadomesti z -ā-.**
+
 :::
+
 Primeri:
 
 ::: indent
+
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना रोदिति⟫
+
 :::
+
 ## 30.6. Besedni seznam
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kupiti
 
 ::: indent
+
 Fut. ⟪क्रेष्यति⟫  
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
+
 :::
+
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : prodati
 
 ::: indent
+
 Absol. ⟪विक्रीय⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3001.webp)
+
 Slika: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3001))
+
 :::
+
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : poznati, spoznati, vedeti, razumeti
 
 ::: indent
+
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
 Kaus. ⟪ज्ञापयति⟫  
@@ -293,77 +366,115 @@ od tega:
 ⟪ज्ञाति⟫ m.: (krvni) sorodnik (Sorodniki so tisti, ki jih poznamo!)
 
 ⟪ज्ञान⟫ n.: spoznanje, znanje, razumevanje (zlasti "višjih" resnic v religiji in filozofiji)
+
 :::
+
 ::: media
+
 ![](/images/lekt3002.webp)
+
 Slika: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3002))
+
 :::
+
 ⟪पू⟫ 9U ⟪पुनाति⟫ : očistiti
 
 ::: indent
+
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
 Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3003.webp)
+
 Slika: ⟪श्रोत्राणि पुनाति⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3003))
+
 :::
+
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : jesti, požirati
 
 ::: indent
+
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
 Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3005.webp)
+
 Slika: ⟪अश्नीयात् थाली⟫, Južna Indija
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3005))
+
 :::
+
 ⟪प्रिय ३⟫: drag, ljubeč, prijazen
 
 ::: media
+
 ![](/images/lekt3004.webp)
+
 Slika: ⟪प्रिया⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt3004))
+
 :::
+
 ⟪चेत्⟫ veznik: če; pod pogojem, da (nikoli ne stoji na začetku stavka)
 
 ::: indent
+
 ⟪न चेत्⟫ : če ne
+
 :::
+
 ⟪यदि⟫ veznik: če
 
 ::: indent
+
 ⟪यद्यपि⟫ : čeprav, tudi če, kljub temu
 
 ⟪यद्येवम्⟫ : če je tako, pod temi okoliščinami
+
 :::
+
 ⟪पुनर्⟫ : znova, vedno znova, nazaj, še enkrat, nasprotno, ampak
 
 ::: indent
+
 ⟪पुनः पुनर्⟫ : vedno znova
 
 od tega:
 
 ⟪पुनर्भव⟫ m.: ponovno rojstvo
+
 :::
+
 ::: media
+
 ![](/images/lekt2904.webp)
+
 Slika: ⟪पुनर्भवः⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2904))
+
 :::
+
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : živeti
 
 ::: indent
+
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
@@ -373,7 +484,9 @@ Inf. ⟪जीवितुम्⟫
 od tega:
 
 ⟪जीव⟫ m./n.: življenje, individualna duša
+
 :::
+
 ⟪सनातन ३⟫ ž.: ⟪सनातनी⟫ : večen, nesmrten, trajen
 
 ## 30.7. Vaje

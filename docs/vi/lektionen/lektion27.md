@@ -21,6 +21,7 @@ status: stable
 *   **liên quan đến cái gì?**
 
 :::
+
 ::: grammar-box
 
 **1. Cách địa (⟪सप्तमी⟫) trả lời cho câu hỏi "Ở đâu?" chỉ không gian, nơi mà (ở, trên, bên cạnh) tác nhân (⟪कर्ता⟫) hoặc đối tượng của một hành động đang hiện diện, hoặc nơi chính hành động đó diễn ra.**
@@ -28,11 +29,15 @@ status: stable
 > ⟪नगरे वसति⟫ = "Ngài ấy cư trú trong thành phố"
 
 :::
+
 ::: media
+
 ![](/images/lekt2701.webp)
+
 Hình: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2701))
+
 :::
 
 ::: grammar-box
@@ -58,11 +63,15 @@ Jaipur, 1875.
 **Lưu ý: Trong trường hợp Absolutivum, chủ ngữ của Absolutivum và chủ ngữ của mệnh đề chính phải giống nhau; còn trong trường hợp Locativus absolutus, chủ ngữ của Locativus absolutus và chủ ngữ của động từ chính phải khác nhau.**
 
 :::
+
 ::: media
+
 ![](/images/lekt2702.webp)
+
 Hình: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthan.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2702))
+
 :::
 
 ::: grammar-box
@@ -72,11 +81,15 @@ Rajasthan.
 > ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hắn có tình yêu thương đối với con trai mình" (nghĩa đen: "Liên quan đến người con, tình yêu thương hiện hữu ở hắn")
 
 :::
+
 ::: media
+
 ![](/images/lekt2703.webp)
+
 Hình: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holi.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2703))
+
 :::
 
 ::: grammar-box
@@ -86,6 +99,7 @@ Holi.
 > ⟪भू सत्तायाम्⟫ = "Gốc từ ⟪भू⟫ với nghĩa là 'tính hiện hữu' (sat-tā)"
 
 :::
+
 Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau.
 
 ## 27.2. Hình thành cách bổ ngữ (⟪सप्तमी⟫)
@@ -99,6 +113,7 @@ Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau
 **Hãy lưu ý những thay đổi âm vị xảy ra trước hậu tố -su, cũng như khả năng chuyển hóa của -su thành -ṣu!**
 
 :::
+
 ### 27.2.1. Các gốc từ phụ thuộc vào phụ âm
 
 ::: grammar-box
@@ -111,6 +126,7 @@ Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
+
 ### 27.2.2. Đại từ nghi vấn, đại từ chỉ định và đại từ quan hệ
 
 ::: grammar-box
@@ -123,6 +139,7 @@ Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau
 | Giống cái:brSố nhiều vị trí | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
+
 ### 27.2.3. Các gốc từ nguyên âm
 
 ::: grammar-box
@@ -138,6 +155,7 @@ Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau
 | ⟪धेनु⟫ c. | ⟪धेनौ⟫ hoặc ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ## 27.3. Tổng quan về các hậu tố cách thức thông thường (⟪विभक्ति⟫)
 
 ::: grammar-box
@@ -154,16 +172,21 @@ Các ví dụ khác về cách dùng của Lokativ sẽ được trình bày sau
 | **7. Cách vị trí** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
+
 **In màu đỏ**: các cách mạnh (khi có biến tố gốc).
 
 ## 27.4. Một câu thơ với tất cả các dạng biến cách (số ít) cho ⟪राम⟫
 
 ::: media
+
 ![](/images/lekt2708.webp)
+
 Hình: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2708))
+
 :::
+
 sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
 **Bản dịch:**
@@ -181,51 +204,79 @@ sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫
 ⟪वस्⟫ 1P (⟪वसति⟫): lưu lại, cư trú (kèm theo Địa cách chỉ người mà mình sống cùng)
 
 ::: indent
+
 **Tương lai:** ⟪वत्स्यति⟫:br **Bị động:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Vô hạn từ (Inf.):** ⟪वस्तुम्⟫
 
 :::
+
 ::: indent
+
 ⟪वस्तुतस्⟫: thực sự, thật sự
+
 :::
+
 ⟪वस्⟫ 2Ā (⟪वस्ते⟫): mặc (quần áo), mang (trang phục)
 
 ::: indent
+
 **Tương lai:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Vô hạn:** ⟪वसितुम्⟫
+
 :::
+
 từ đó:
 
 ::: indent
+
 ⟪वस्त्र⟫ n.: phương tiện để mặc = áo, y phục, vải
+
 :::
+
 ::: media
+
 ![](/images/lekt2706.webp)
+
 Hình: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2706))
+
 :::
+
 ⟪वस्⟫ 6P (⟪उच्छति⟫): tỏa sáng (gốc này quan trọng vì các hình thành danh từ:)
 
 ::: indent
+
 ⟪वसु⟫ n.: sự giàu có, kho báu, tài sản, của cải
 
 ⟪वसन्त⟫ m.: ("tỏa sáng" =) mùa xuân (tháng 3 đến tháng 5)
+
 :::
+
 ::: media
+
 ![](/images/lekt2707.webp)
+
 Hình: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2707))
+
 :::
+
 ⟪हृ⟫ 1U (⟪हरति⟫): giữ, mang; lấy đi, cướp đoạt
 
 ::: indent
+
 **Tương lai:** ⟪हरिष्यति⟫:br **Bị động:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Vô hạn:** ⟪हर्तुम्⟫
+
 :::
+
 từ đó:
 
 ::: indent
+
 ⟪हर⟫ 3: lấy đi; m.: kẻ hủy diệt = biệt danh của Śiva
+
 :::
+
 Đối tượng tương ứng với ⟪हर⟫:
 
 ⟪हरि⟫ 3: vàng hoe, màu vàng, màu xanh; m. biệt danh của Viṣṇu (không thuộc về gốc ⟪हृ⟫ 1)
@@ -233,18 +284,25 @@ từ đó:
 ⟪हरिहर⟫ m.: Viṣṇu và Śiva hợp nhất thành một vị thần duy nhất.
 
 ::: media
+
 ![](/images/lekt2704.webp)
+
 Hình: ⟪हरिहरः⟫
 Harihara (bên trái: Viṣṇu, bên phải: Śiva).
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2704))
+
 :::
 
 ::: media
+
 ![](/images/lekt2705.webp)
+
 Hình: ⟪हरिहरः⟫
 Harihara (bên trái: Viṣṇu, bên phải: Śiva). Godrumdwip, Tây Bengal.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2705))
+
 :::
+
 ## 27.6. Bài tập
 
 **A) Điền các cụm từ trong ngoặc vào câu sau ở cách Locative (⟪सप्तमी⟫) số ít và - nếu thích hợp - số nhiều. Lưu ý các quy tắc Sandhi khác nhau, tức là hãy viết lại toàn bộ câu mỗi lần!**
@@ -254,7 +312,8 @@ Harihara (bên trái: Viṣṇu, bên phải: Śiva). Godrumdwip, Tây Bengal.
 **A) Điền các cụm từ trong ngoặc vào câu sau ở cách Locative (⟪सप्तमी⟫) số ít và - nếu thích hợp - số nhiều. Lưu ý các quy tắc Sandhi khác nhau, tức là hãy viết lại toàn bộ câu mỗi lần!**
 
 **A) Điền các cụm từ trong ngoặc vào câu sau ở cách Locative (⟪सप्तमी⟫) số ít và - nếu thích hợp - số nhiều. Lưu ý các quy tắc Sandhi khác nhau, tức là hãy viết lại toàn bộ câu mỗi lần!**
-:::
+
+
 ## 27.6. Bài tập
 
 **A) Điền các cụm từ trong ngoặc vào câu sau ở cách Locative (⟪सप्तमी⟫) số ít và - nếu thích hợp - số nhiều. Lưu ý các quy tắc Sandhi khác nhau, tức là hãy viết lại toàn bộ câu mỗi lần!**
@@ -266,11 +325,15 @@ Harihara (bên trái: Viṣṇu, bên phải: Śiva). Godrumdwip, Tây Bengal.
 ⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
+
 ![](/images/lekt2709.webp)
+
 Minh họa: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Bức tranh của Rāja Ravi Varmā (1848 - 1906).
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2709))
+
 :::
+
 ⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
 ## 27.7. Bảng biến cách cần ghi nhớ
@@ -290,12 +353,17 @@ Bức tranh của Rāja Ravi Varmā (1848 - 1906).
 | **7. Cách tại** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪नरे⟫ | ⟪नरेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2711.webp)
+
 Hình: ⟪नराः⟫
 Naran. Udaipur.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2711))
+
 :::
+
 ### 27.7.2. neuter kết thúc bằng -a: ⟪फल⟫
 
 ::: grammar-box
@@ -311,12 +379,17 @@ Naran. Udaipur.
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪फले⟫ | ⟪फलेषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2710.webp)
+
 Hình: ⟪फलानि⟫
 Trái cây. Bangalore.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2710))
+
 :::
+
 ### 27.7.3. feminine kết thúc bằng -ā: ⟪क्षत्रिया⟫
 
 ::: grammar-box
@@ -332,12 +405,17 @@ Trái cây. Bangalore.
 | **7. Locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪क्षत्रियायाम्⟫ | ⟪क्षत्रियासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2718.webp)
+
 Hình: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) cùng cháu trai của bà là Hoàng tử Jaya Chamaraja Wadiyar, Mysore.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2718))
+
 :::
+
 ### 27.7.4. Giống đực kết thúc bằng -i: ⟪अरि⟫
 
 ::: grammar-box
@@ -353,13 +431,18 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) cùng cháu trai của bà là Ho�
 | **7. Cách địa** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अरौ⟫ | ⟪अरिषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2713.webp)
+
 Hình: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2713))
+
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+
+### 27.7.7. Danh từ giống cái tận cùng bằng -u: ⟪धेनु⟫
 
 ::: grammar-box
 
@@ -374,12 +457,17 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2714.webp)
+
 Hình: ⟪धेनुः⟫
 Kuh in Udaipur.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2714))
+
 :::
+
 ### 27.7.8. Feminina auf -ī: ⟪देवी⟫
 
 ::: grammar-box
@@ -395,12 +483,17 @@ Kuh in Udaipur.
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2715.webp)
+
 Hình: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2715))
+
 :::
+
 ### 27.7.9. Phân từ hiện tại Parasmaipada tận cùng -ant: ⟪सन्त्⟫
 
 ::: grammar-box
@@ -416,12 +509,17 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 | **7. Cách locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
 
 :::
+
 ::: media
+
 ![](/images/lekt2716.webp)
+
 Hình: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2716))
+
 :::
+
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
@@ -437,12 +535,17 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
+
 ::: media
+
 ![](/images/lekt2716.webp)
+
 Hình: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2716))
+
 :::
+
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
@@ -458,6 +561,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách locative** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
+
 ### 27.7.11. Giống đực và giống trung kết thúc bằng -vant / -mant: ⟪गुणवन्त्⟫
 
 ::: grammar-box
@@ -473,6 +577,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách địa** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
+
 ### 27.7.12. Đại từ chỉ định: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
@@ -488,6 +593,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách địa** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Số ít:br⟪एकवचनम्⟫ | | | Số nhiều:br⟪बहुवचनम्⟫ | | |
@@ -502,6 +608,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách tại xứ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪एतस्मिन्⟫ || ⟪एतस्याम्⟫ | ⟪एतेषु⟫ || ⟪एतासु⟫ |
 
 :::
+
 ::: grammar-box
 
 | | Số ít:br⟪एकवचनम्⟫ | | | Số nhiều:br⟪बहुवचनम्⟫ | | |
@@ -516,6 +623,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách tại xứ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
+
 ### 27.7.13. Đại từ quan hệ: ⟪यद्⟫
 
 ::: grammar-box
@@ -531,6 +639,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách địa vị** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
+
 ### 27.7.14. Đại từ nghi vấn: ⟪किम्⟫
 
 ::: grammar-box
@@ -546,10 +655,14 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Cách địa vị** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ |
 
 :::
+
 ::: media
+
 ![](/images/lekt2717.webp)
+
 Hình: ⟪कस्मात्⟫ ?
 Sóng thần 2005, Sri Lanka.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2717))
+
 :::
 

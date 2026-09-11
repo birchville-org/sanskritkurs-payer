@@ -234,3 +234,4 @@ B) Prevodite in določite naslednje oblike:
 54. ⟪आदि्षि⟫
 55. ⟪पाणी⟫
 56. ⟪अस्प्राक्षम्⟫
+:::

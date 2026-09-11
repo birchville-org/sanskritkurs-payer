@@ -14,13 +14,19 @@ status: stable
 
 
 ::: grammar-box
+
 **Kausativ je z nekaj izjemami Ubhayapada (⟪उभयपद⟫)**
+
 :::
+
 ::: grammar-box
+
 **V kausativu se uporablja Ātmanepada (⟪आत्मनेपद⟫):**
 
 **1. Ko je sad povzročene dejanja v korist povzročitelja:**
+
 :::
+
 Primer:
 
 ⟪रामः कटं कारयते⟫ = "Rāma naj si (v lastno korist) naredi preprogo"
@@ -41,10 +47,13 @@ Pravila torej običajno ustrezajo pravilom za uporabo Ātmanepada (⟪आत्�
 Predglagolske predpone:
 
 ::: indent
+
 ⟪उद्⟫° : gor, navzgor, kvišku, ven, iz-
 
 ⟪परि⟫° : okoli, ob (mesto, čas), naokrog
+
 :::
+
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (postati nekoga okoli = obkoliti =) premagati, zmagati ; prezreti, podcenjevati
 
 ⟪अवज्ञान⟫ n.: prezir
@@ -56,12 +65,15 @@ Predglagolske predpone:
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : požreti, pogoltniti
 
 ::: indent
+
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
+
 :::
+
 ⟪तीक्ष्ण⟫ 3: "divji", oster, trd, strog, hudež, zloben
 
 ⟪न्याय⟫ m.: norma, pravilo, pravi način; metoda, logika (iz ⟪इ⟫ + ⟪नि⟫)
@@ -69,11 +81,15 @@ Inf. ⟪ग्रसितुम्⟫
 ⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
 
 ::: media
+
 ![](/images/lekt2903.webp)
+
 Slika: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2903))
+
 :::
+
 ⟪पालयति⟫ : tudi enakega pomena kot ⟪पाति पुनर्⟫ Nedoločnik: spet, znova in znova, nazaj, še enkrat; nasprotno, vendar (pred zvenečimi glasovi razen r-: ⟪पुनर्⟫)
 
 ⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
@@ -81,27 +97,39 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: Fisch
 
 davon:
+
 ::: indent
+
 ⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+
 :::
+
 ::: media
+
 ![](/images/lekt2901.webp)
+
 Abb.: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+
 (Vir slike: [Details](/sl/licenses#lekt2901))
+
 :::
+
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ prislov: kot, kakor
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
 ::: indent
+
 Prihodnjik ⟪रंस्यते⟫
 Trpnik ⟪रम्यते⟫
 Kavzativ ⟪रमयति⟫
 Deležnik preteklega trpnega ⟪रत⟫
 Nedoločnik ⟪रन्तुम्⟫
+
 :::
+
 ⟪वानप्रस्थ⟫ m.: puščavnik (nekdo, ki je v 3. ⟪आश्रम⟫)
 
 ⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
@@ -109,13 +137,16 @@ Nedoločnik ⟪रन्तुम्⟫
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
 
 ::: indent
+
 PPP ⟪पूजित⟫
+
 :::
+
 ## 29.3. Übersetzungsübung zur Wiederholung
 
 Prevedite dobesedno v dobro slovenščino in se naučite sanskrtska besedila na pamet:
 
-1\. Definition von ⟪अविद्या⟫ :
+1. Opredelitev ⟪अविद्या⟫:
 
 ⟪अनित्याशुचिदुःखा⟫:sig[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या ॥योगसूत्र २⟫.⟪५॥⟫
 
@@ -124,15 +155,23 @@ Pojasnilo: ⟪आत्मसु⟫ = lokativ ednine od ⟪आत्मन्⟫
 2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. o pravilni rabi ⟪दण्ड⟫ :
 
 ⟪तीक्ष्णदण्डो भूताना⟫:sig[⟪मुद्वेजनीयो⟫] ⟪भवति ।८। मृदुदण्डः परिभूयते ।९। यथार्हदण्डः पूज्यते ।१०। सु⟫:sig[⟪विज्ञात⟫]⟪प्रणीतो हि दण्डः प्रजा धर्मार्थकामै⟫:sig[⟪र्योजयति⟫] ⟪।११। दुष्प्रणीतः⟫ :sig[⟪कामक्रोधाभ्याम⟫]⟪वज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, :sig[⟪किमङ्ग⟫] ⟪पुनर्गृहस्थान् ।१२। अप्रणीतस्तु मात्स्यन्यायमुद्भावयति ।१३। बलीयान अबलं हि ग्रसते दण्डधराभावे ।१४। स तेन गुप्तः प्रभवतीति ।१५।⟫
+
 ::: indent
+
 ⟪चतुर्व र्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते⟫ **⟪स्वेषु वर्त्मसु⟫** ⟪॥१६॥⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt2902.jpg)
+
 Slika: ⟪मात्स्यन्याय⟫:
 (Risba: Namcha Payer, 2002-11)
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2902))
+
 :::
+
 Razlage:
 
 ⟪।८। उद्वेजनीय ३⟫ "nekaj (nekdo), pred katerim se moraš bati"
@@ -245,5 +284,6 @@ Razlage:
 |⟪स्मृ⟫ ⟪१⟫ ⟪प⟫|⟪स्मरिष्यति⟫|⟪स्मारयति⟫:br⟪स्मरयति⟫|
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
+
 :::
 

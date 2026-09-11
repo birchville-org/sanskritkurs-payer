@@ -88,7 +88,6 @@ Birla Mandir, Delhi
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1601))
 :::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Bị động. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : quay, xoay, (ở đâu đó) hiện diện, cư trú
-:::
 ⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Bị động. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : quay, xoay, (ở đâu đó) hiện diện, cư trú
 
 ⟪शस्त्र⟫ (śastra) n.: dụng cụ cắt, vũ khí sắc nhọn, kiếm, binh khí

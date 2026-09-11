@@ -117,4 +117,4 @@ B) Determine and translate the following forms without aids:
      
 52. ⟪ईयुषे⟫ - ⟪ईयिवांस्⟫ täismineviku partitsiip P ⟪इ⟫ 2P-st, daativ, ainsus, meessoost/neuter, sellele, kes on läinud
 
-ENDE DER ÜBUNGEN
+HARJUTUSTE LÕPP

@@ -89,6 +89,7 @@ W perfektum do formy bierny używa się form Ātmanepada. Zamiast tego preferuje
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : widzieć, (wy)bijać, przyglądać się
 
+:::
 ::: indent
 Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
@@ -235,6 +236,7 @@ Pass. ⟪हृष्यते⟫
 Kaus. ⟪हर्षयति⟫  
 PPP ⟪हृषित⟫
 
+:::
 ::: indent
 Perf II ⟪जहर्ष⟫  
 Fut. ⟪हर्षिष्यति⟫  

@@ -15,10 +15,13 @@ last_reconstructed: 2026-05-07
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "povzetek dvandva")
 
 ::: grammar-box
+
 **Če naj dvandva izraža, da vrsta stvari itd. tvori enoto, je splošno v srednjem rodu ednine:**
 
 npr. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟩ ne pomeni preprosto "hrana (**āhāra** m.), spanje (**nidrā** f.), parjenje (**maithuna** n.) in strah (**bhaya** n.)", ampak te štiri kot **enoto**, ki karakterizira živalsko življenje.
+
 :::
+
 Poleg tega osnovnega pravila za tvorbo Samāhāradvandvas obstaja še vrsta drugih pravil, ki jih najdete pri Pāṇiniju 2,4,2-17 ali npr. pri Mr. R. Kaleju, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. V različnih stopnjah jezikovnega razvoja pravil ni vedno upoštevalo enako!
 
 
@@ -27,6 +30,7 @@ Poleg tega osnovnega pravila za tvorbo Samāhāradvandvas obstaja še vrsta drug
 ### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
+
 **Taddhita sufiks -ka tvori med drugim:**
 
 1\. **Diminutivi (zmanjševalne oblike kot nemško -chen, -lein, -li, -le):**
@@ -41,15 +45,19 @@ Poleg tega osnovnega pravila za tvorbo Samāhāradvandvas obstaja še vrsta drug
 4\. **Imena, ki izražajo "v zvezi s pojmom osnovne besede":**
 **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟩ "rojen v Benaresu, izhajajoč iz Benaresa"**
 **rūpa n. "oblika" » rūpaka 3 ⟪रूपक⟩ "imeti obliko nekaj"**
+
 :::
 
 ### 9.2.2. -aka (kṛt), žensk. pogosto -ikā
 
 ::: grammar-box
+
 **Končnica kṛt -aka, ženski rod pogosto -ikā, tvori imena agenta (imena, ki izražajo storilca) k vsakemu korenu.**
 
 Končni samoglasnik korena ter **-a-** na predzadnjem mestu v korenu se zamenjata s svojo razširjeno stopnjo (**vṛddhi**) (obstaja nekaj izjem), preostali samoglasniki pa se zamenjajo s svojo okrepljeno stopnjo (**guṇa**).
+
 :::
+
 **Primeri:**
 
 | Koren:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Pomen |
@@ -62,8 +70,11 @@ Končni samoglasnik korena ter **-a-** na predzadnjem mestu v korenu se zamenjat
 | **ji** :br1 P:br⟪जि⟫:br"zmagati" | **jayaka** 3:br(⟪जयक⟫) | "zmagoslavni" |
 
 ::: grammar-box
+
 **Nekatere od teh tvorb imajo ožji pomen: "tistega, ki navadno ali kot dolžnost ali dobro opravlja tisto, kar izraža koren".**
+
 :::
+
 glej zgoraj npr. **śrāvaka**, **yājaka**, **jayaka**
 
 **Primeri:**
@@ -87,22 +98,30 @@ Poleg obstaja še nekaj manj pomembnih rab sufiksa **-aka**. Glej Wackernagel, A
 **adhyayana** n. (⟪अध्ययन⟫) : učenje, zlasti študij ved
 
 ::: media
+
 ![](/images/lekt0903.webp)
+
 Slika: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0903))
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0903))
+
 :::
+
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
 **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : obrtnik
 
 ::: media
+
 ![](/images/lekt0902.webp)
+
 Slika: **kāru** = ⟪कारु⟫, Gujarat.
 Slika: **kāru** = ⟪कारु⟫, Gujarat.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0902))
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0902))
+
 :::
+
 **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
 **kuśīlava** m. (⟪कुशीलव⟫) : (potujoči) razstavljač, igralec, pevec
 **kusīda** n. (⟪कुसीद⟫) : Wucher
@@ -124,10 +143,14 @@ od tega: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष
 zu **yaj** 1 U:
 
 ::: media
+
 ![](/images/lekt0901.webp)
+
 Slika: **karṣaka** = ⟪कर्षक⟫.
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0901))
+
 :::
+
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
 10\. tantraka (⟪तन्त्रक⟫)
@@ -142,7 +165,7 @@ Slika: **karṣaka** = ⟪कर्षक⟫.
 19\. darśaka (⟪दर्शक⟫)
 20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:**
+**B) Prevedite:**
 
 1. Aufgaben aller Zweimalgeborenen:
    **ijyādhyayanadānāni**
@@ -154,22 +177,22 @@ Slika: **karṣaka** = ⟪कर्षक⟫.
 ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 (Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya:
+3. Specifične naloge kšatrije:
    **rakṣaṇaṃ sarvabhūtānām**
 ⟪रक्षणं सर्वभूतानाम्⟫
-(sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7)
+(sarvabhūtānām = rodilnik: "vseh bitij"; Gautamadharmasūtra X, 7)
 
 4. Specifične naloge vaišje:
    **kṛṣivāṇijyapāśupālyakusīdam**
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-(nach Gautamadharmasūtra X, 49)
+(po Gautamadharmasūtra X, 49)
 
-5. Aufgaben eines Śūdra:
+5. Naloge šudre:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
 ⟪द्विजातीनां शुश्रूषा वार्त्ता कारुकुशीलवकर्म च⟫
-(nach Kauṭilīya-Arthaśāstra 1.3.8.)
-Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+(po Kauṭilīya-Arthaśāstra 1.3.8.)
+Pojasnilo: dvijātīnām = rodilnik množine od dvijāti (tukaj prevedite: "do dvakrat rojenih"); kārukuśīlavakarma je Tatpuruṣa z Dvandvo (kārukuśīlava) v prvem delu. karma = imenovalnik ednine od karman n. "dejanje, aktivnost, karma" iz korena kṛ 8 U). Prevedite "dejanje / aktivnost ... (rodilnik)" (označeno z Dvandvo).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.)
+   (po Kauṭilīya-Arthaśāstra 1.4.1.)

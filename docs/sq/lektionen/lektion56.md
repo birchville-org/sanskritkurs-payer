@@ -155,7 +155,6 @@ Shembuj:
 ⟪मा कर्महेतुर्भूः⟫ "Mos u bëj dikush që motivohet nga fryti i një vepre!" (Aorist Injunktiv) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Mos u bë i paburrë!" (injunktiv aorist) (⟪भगवद्गीता⟫ 2,3a)
-:::
 ::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं मा स्म गमः⟫
@@ -163,7 +162,6 @@ Poster (Ernesto Che Guevara) i një partie politike në Vallachira (വാല്
 (Burimi i imazhit: [Detaje](/sq/licenses#lekt5602))
 :::
 Të dyja shembujt kanë kuptim prohibitiv. Pra, injunktivi aorist këtu përdoret në kuptimin e tij origjinal. (Mbizotërimi i injunktivit aorist në këto fjali mund të shpjegohet ndoshta nga mbizotërimi i fjalive prohibitive kundrejt atyre inhibitive, por ky pyetje duhet të hetohet më tej për sanskritishtin klasik.)
-:::
 Të dyja shembujt kanë kuptim prohibitiv. Pra, injunktivi aorist këtu përdoret në kuptimin e tij origjinal. (Mbizotërimi i injunktivit aorist në këto fjali mund të shpjegohet ndoshta nga mbizotërimi i fjalive prohibitive kundrejt atyre inhibitive, por ky pyetje duhet të hetohet më tej për sanskritishtin klasik.)
 
 ::: grammar-box

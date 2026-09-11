@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 8
+# Övning 8
 
 A) Explain the following nouns by specifying the root from which they are derived and the nominal suffix. Indicate gender and meaning:
 
@@ -77,9 +77,9 @@ kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. k�
 
 ⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+D) Översätt
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1. Kṣatriyas skyddar både brahmaner och vaiśyas och śūdras. (2 möjligheter)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
@@ -146,10 +146,14 @@ kiṃ kāraṇam?
 ⟪किं कारणम् ॥⟫
 
 ::: media
+
 ![](/images/uebung007.webp)
+
 Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 (Bildkälla: [Detaljer](/sv/licenses#uebung007))
+
 :::
+
 ---
 
 ## Reading Exercise
@@ -209,7 +213,10 @@ The parrot flies.
 The boy writes a letter.
 
 ::: media
+
 ![](/images/uebung008.webp)
+
 Fig.: ⟪कपिः फलं खदति⟫
 (Bildkälla: [Detaljer](/sv/licenses#uebung008))
+
 :::

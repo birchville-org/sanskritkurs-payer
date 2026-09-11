@@ -17,24 +17,33 @@ status: stable
 Tudi naslednje nominalne korenske osnove, ki se končajo z samoglasnikom, tvorijo nominativ singular na **-s**:
 
 ::: grammar-box
+
 **Ženska imena na -i**: npr. **śruti** f. "poslušanje" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 **Ženska imena na -u**: npr. **dhenu** f. "krava" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+
 :::
+
 ### 3.1.2. Nominativ singular brez končnice
 
 Nominativ singular tvorijo brez končnice:
 
 ::: grammar-box
+
 **Ženska imena na -ā**: npr. **devatā** f. "boginja" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Ženska imena na -ī**: npr. **devī** f. "boginja" -- Nom. sg.: **devī** = ⟪देवी⟫
+
 :::
+
 ::: important
+
 **Pozor!** Poleg tega obstajajo enosložna ženska korenska imena na -ī, katerih nominativ singular se konča na -s: npr. dhī f. "misel" -- Nom. sg.: dhīs = ⟪धीस्⟫. Tudi lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "ladja" in tantrī (⟪तन्त्री⟫) f. "žica" tvorijo nepravilno nominativ singular na -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+
 :::
 
 ## 3.2. Tvorba ženskih imen iz moških
 
 ::: grammar-box
+
 **Moška imena na -a:**
 **Žensko ime na -ā**: npr. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriya žena" = ⟪क्षत्रिया⟫
 **Žensko ime na -ī**: npr. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmaninja" = ⟪ब्राह्मणी⟫
@@ -42,11 +51,13 @@ Nominativ singular tvorijo brez končnice:
 **Moška imena na -u:**
 **Žensko ime na -ī**: npr. **sādhu** m. » **sādhvī** f. (dobro, svetnica) = ⟪साध्वी⟫
 (**-u-** se pred samoglasnikom spremeni v **-v-**, zato **-u- + -ī** » **-vī**)
+
 :::
 
 ## 3.3. Nominativ plural moškega in ženskega spola
 
 ::: grammar-box
+
 Končnica nominativa plurala v moškem in ženskem spolu je **-as**.
 **Moška imena na -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 **Ženska imena na -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -55,19 +66,24 @@ Končnica nominativa plurala v moškem in ženskem spolu je **-as**.
 **Ženska imena na -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
 **Moška imena na -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
 **Ženska imena na -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+
 :::
+
 Opomba: **e** je stopnja (**guṇa**) za **i**, **o** je stopnja za **u**.
 
 
 ## 3.4. Vokalni sandhi
 
 ::: grammar-box
+
 **Preprogi samoglasniki, ki se razlikujejo le po dolžini ali pa sploh ne, "zlijeta" v ustrezen dolg samoglasnik:**
 a / -ā + a- / ā- » **-ā-**
 i / -ī + i- / ī- » **-ī-**
 u / -ū + u- / ū- » **-ū-**
 (-ṛ + ṛ- » **-ṝ-**)
+
 :::
+
 npr.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā je boginja" = ⟪देवतान्नपूर्णा⟫
@@ -79,33 +95,41 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī je boginja" = ⟪देव�
 > (Indrāṇī je žena boga Indre.)
 
 ::: media
+
 ![](/images/lekt0301.webp)
+
 Slika: Indra in Indrāṇī na slonu Airavata, miniatura, Rājasthān, 1670/80
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0301))
+
 :::
 
 ::: grammar-box
+
 **Preprogi samoglasniki (razen -a / -ā) se pred neenakimi samoglasniki nadomestijo z ustreznim polsamoglasnikom:**
 i / -ī » **-y-**
 u / -ū » **-v-**
 ṛ » **-r-**
 (!! Za to pravilo veljajo zlasti za dvojine izjeme !!)
+
 :::
+
 Siehe später zu dieser sogenannten Stammesabstufung!
 
 z.B.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "Itarā je ženska iz kaste Śūdra" = ⟪शूद्रेतरा⟫
 
-
-## 3.5. Satzsandhi von -ās
+## 3.5. Sandhi v stavku za -ās
 
 ::: grammar-box
+
 **-ās se nadomesti z -ā pred vsemi zvenečimi glasovi.**
+
 :::
+
 npr.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaišje so dvakrat rojeni" = ⟪द्विजा वैश्याः⟫
 
 
 ## 3.6. Wortliste
@@ -150,10 +174,14 @@ velika epa **mahābhārata** sr. (⟪महाभारत⟫) in **rāmāyaṇa
 **devī** ž. = ⟪देवी⟫ : boginja, zlasti Durgā ž. = ⟪दुर्गा⟫, žena Šive = ⟪शिव⟫.
 
 ::: media
+
 ![](/images/lekt0303.webp)
+
 Slika: Durgā = ⟪दुर्गा⟫, Orissa
 (Vir slike: [Podrobnosti](/images/lekt0303))
+
 :::
+
 **sādhvī** ž. = ⟪साध्वी⟫ : ženski rod k sādhu.
 
 **gurvī** ž. = ⟪गुर्वी⟫ : ženski rod k guru.
@@ -207,4 +235,3 @@ Slika: Durgā = ⟪दुर्गा⟫, Orissa
 5. Pesniki so učitelji.
 6. Kṣatriye so dvakrat rojeni.
 7. Sveti možje so Śūdre.
-

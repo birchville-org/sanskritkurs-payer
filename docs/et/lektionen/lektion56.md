@@ -1,5 +1,5 @@
 ---
-title: "Lektion 56"
+title: "56. õppetund"
 subtitle: "Redupleeritud aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
@@ -85,17 +85,17 @@ After the rules just mentioned have been applied to the root syllable, the follo
 
 **The starting point is the regular reduplication vowel, i.e.**
 
-*   a für a, ā, ṛ,  ṝ, ḷ
-*   i für i, ī, e, ai
-*   u für u, ū, o, au
+*   a asendab a, ā, ṛ, ṝ, ḷ
+*   i asendab i, ī, e, ai
+*   u asendab u, ū, o, au
 
 **This reduplication vowel is subject to the following changes:**
 
 *   **i, u is replaced by ī, ū if the root syllable begins with only one consonant and is metrically short:**
 ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत् तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫  
 
-*   **a is replaced by ī if the root syllable is metrically short and begins with only one consonant. If the root syllable is metrically short and begins with more than one consonant, the a of the reduplication syllable is replaced by i. If the root syllable is metrically long, the a remains:**
-⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत् कृ⟫ 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत् त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत् भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
+*   **a asendatakse ī-ga, kui tüvisilp on meetriliselt lühike ja algab ainult ühe konsonandiga. Kui tüvisilp on meetriliselt lühike ja algab rohkem kui ühe konsonandiga, asendatakse reduplikatsioonisilbi a i-ga. Kui tüvisilp on meetriliselt pikk, jääb a alles:**
+⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Aor. tüvisilp ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत् कृ⟫ 8U: Kaus. ⟪कारयति⟫, Aor. tüvisilp ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत् त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. tüvisilp ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत् भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. tüvisilp ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
 Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
 
@@ -124,8 +124,8 @@ Vowel - first consonant - second consonant (representative) - i - second consona
 
 :::
 
-This form of reduplication of vowel-initial derived stems (causatives) is called "Attic reduplication".
-## 56.2. Der Injunktiv
+Seda vokaaliga algavate tuletatud tüvede (kausatiivide) reduplikatsiooni vormi nimetatakse "Atika reduplikatsiooniks".
+## 56.2. Injunktiiv
 
 ::: grammar-box
 
@@ -153,10 +153,10 @@ Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktio
 
 the injunctive in the Veda has the following properties:
 
-*   it is not narrative, but mentionative
-*   er ist zeitstufenlos
-*   the injunctive present (= augmentless imperfect) denotes the imperfective aspect
-*   the injunctive aorist denotes the perfective aspect.
+*   see ei ole jutustav, vaid mainiv
+*   see on ajavaba
+*   injunktiivi preesens (= augmentita imperfekt) tähistab imperfektiivset aspekti
+*   injunktiivi aorist tähistab perfektiivset aspekti.
 
 ::: grammar-box
 
@@ -171,7 +171,7 @@ However, this distinction is usually not made in classical Sanskrit.)
 
 :::
 
-## 56.3. Der Verbotssatz
+## 56.3. Keelulause
 
 ::: grammar-box
 
@@ -190,7 +190,6 @@ Beispiele:
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Ära muutu mehelikkuse kaotanuks!" (injunktiiv aorist) (⟪भगवद्गीता⟫ 2,3a)
 
-:::
 
 ::: media
 
@@ -198,7 +197,7 @@ Beispiele:
 
 Joonis: ⟪क्लैब्यं मा स्म गमः⟫
 
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
+Poliitilise partei plakat (Ernesto Che Guevara) Vallachiras (വാല്ലചിര), Thrissuris (തൃശ്ശൂര്‍). "Ligikaudne tõlge sellel kirjutatust oleks: Märtrisurm on revolutsionäärile põnev kogemus. Ja hirmutav pelgupaik argpüksile. Che ei ole argpüksidele eeskujuks."
 (Pildi allikas: [Details](/et/licenses#lekt5602))
 
 :::

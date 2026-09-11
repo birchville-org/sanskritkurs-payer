@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+۷. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (برگرفته از کوتلیه-ارتشاستره ۱.۲.۱.)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -92,10 +92,14 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 تصویر: ⟪अभ्निवेशो न वा ।⟫
 (منبع تصویر: [جزئیات](/licenses#uebung010))
+
 :::
+
 ---
 
 ## تمرین مرور درس ۵

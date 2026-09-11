@@ -84,7 +84,7 @@ I-Perfect ye-periphrastic (⟪अनुप्रयोगलिट्⟫) isetye
 
 **Ukwakhiwa:**
 
-(apholile) isisekelo se-Präsens + -ām + ifomu elihambisanayo le-Perfekt ka ⟪कृ⟫, ⟪अस्⟫ noma ⟪भू⟫
+(apholile) isisekelo sesikhathi esiyimanje + -ām + ifomu elihambisanayo le-Perfekt ka ⟪कृ⟫, ⟪अस्⟫ noma ⟪भू⟫
 
 Ivokal yokugcina yesisekelo iguqulwa ibe yi-guṇed ngaphambi kuka-ām.
 ⟪अस्⟫ kanye no-⟪भू⟫ bafakwa nokuma kwama-verb e-Ātmanepada ku-Parasmaipada.
@@ -119,9 +119,9 @@ Ku-Perfekt, izimo ze-Passiv zisebenzisa izimo ze-Ātmanepada. Kukhethwa ukuseben
 
 ## 36.4. Uhlu lwamazwi
 
-⟪अह्⟫ P kuphela I-Perfekt ene-meaning ye-Präsens ⟪आह⟫, ⟪आहुर्⟫ : ukuthi, ukukhuluma
+⟪अह्⟫ P kuphela I-Perfekt ene-meaning ye-isikhathi esiyimanje ⟪आह⟫, ⟪आहुर्⟫ : ukuthi, ukukhuluma
 
-⟪अह्⟫ ⟪प्र⟫ P kuphela i-Perfekt enencazelo ye-Präsens ⟪प्राह⟫ : ukusho, ukukhuluma
+⟪अह्⟫ ⟪प्र⟫ P kuphela i-Perfekt enencazelo ye-isikhathi esiyimanje ⟪प्राह⟫ : ukusho, ukukhuluma
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : ukubona, ukubuka, ukucabanga
 
@@ -494,7 +494,7 @@ Isithombe: ⟪पुत्रे जाते सुगतः कुलं ध�
 
 ## 36.7. Übersetzungsübung
 
-Übersetzen Sie:
+Humusha:
 
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
@@ -546,7 +546,7 @@ Umfanekiso: ⟪येन⟫ ⟪प्रीणात्युपाध्या�
 
 :::
 
-3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Wer ein ⟪जितेन्द्रिय⟫ ist:
+3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Lowo ongu-⟪जितेन्द्रिय⟫:
 
 ::: indent
 

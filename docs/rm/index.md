@@ -31,5 +31,5 @@ Las linguas èn vegnidas traduidas cumplettamain automaticamain dal tudestg cun 
 **Contact & participaziun**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
-**Versiun actuala**: v1.8.3
+**Versiun actuala**: v1.8.4
 :::

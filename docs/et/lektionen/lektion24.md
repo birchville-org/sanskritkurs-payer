@@ -1,5 +1,5 @@
 ---
-title: "Lektion 24"
+title: "Õppetund 24"
 subtitle: 'Daativ (⟪चतुर्थी⟫ = "neljas käändelõpp")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
@@ -28,7 +28,7 @@ anstatt:
 
 :::
 
-kann man auch sagen:
+võib ka öelda:
 
 ::: indent
 
@@ -141,7 +141,7 @@ Joonis: ⟪अलं योधो योधाय⟫
 
 Daativi muud kasutusviisid hiljem.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Daativi (⟪चतुर्थी⟫) moodustamine
 
 ::: grammar-box
 
@@ -403,9 +403,10 @@ D) Asendage lauses A) 7 konstruktsioon -⟪अर्थ⟫-ga samaväärse daati
 
 E) Asendage lauses A) 6 daativkonstruktsioon samaväärse konstruktsiooniga -⟪अर्थ⟫-ga.
 
+:::
 ## 24.6. Lisaharjutused daativi kasutamise kohta
 
-Übersetzen Sie ins Sanskrit:
+Tõlkige sanskriti keelde:
 
 1. Jumalanna, kellele pole ohverdatud, vihastab inimeste peale.
 
@@ -433,7 +434,7 @@ Joonis: ⟪श्रीगणेशाय नमः⟫
 
 8. Võitleja on (teisele) võitlejale võrdne (⟪शक्त⟫).
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+9\. Isegi Viṣṇu ei ületa (⟪प्र⟫-⟪भू⟫ + daativ) Śivat.
 
 10. Pärast seda, kui olen kummardanud kolme targa (akusatiiv) ees (⟪नमस्कृ⟫)... Ta kummardab Narasiṃha (daativ) ees.
 

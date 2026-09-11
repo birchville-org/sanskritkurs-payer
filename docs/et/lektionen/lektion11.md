@@ -1,5 +1,5 @@
 ---
-title: "Lektion 11"
+title: "11. õppetund"
 subtitle: "Kahekordne akusatiiv (isiku ja asja akusatiiv)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
@@ -112,20 +112,20 @@ Joonis: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाक�
 
 ## 11.4. Review Exercise
 
-**A) Translate into Sanskrit using passive constructions:**
-1. Vaiśya women ask Brahmanas about the Dharma.
-2. Der Lehrer spricht ein Mantra.
-3. Holy women attain to a heaven.
-4. A Vedic sage does no evil.
-5. Brahmanas worship the goddess with offerings as sacrificial priests.
-6. Die Śūdra-Frau geht ins Dorf.
-7. Wer sieht die Wahrheit?
+**A) Tõlgi sanskriti keelde, kasutades passiivseid konstruktsioone:**
+1. Vaiśya naised küsivad braahmanitelt Dharma kohta.
+2. Õpetaja lausub mantrat.
+3. Pühad naised jõuavad taevasse.
+4. Veeda tark ei tee kurja.
+5. Braahmanid kummardavad jumalannat ohvritega ohvripühitsejatena.
+6. Śūdra naine läheb külla.
+7. Kes näeb tõde?
 
 **B)**
 1. Specify the duties of all twice-born persons using a Dvandva. Resolve the compound into Sanskrit.
 2. Specify the duties of the Vaiśyas using a Dvandva. Resolve the compound into Sanskrit.
 
-**C) Übersetzen Sie:**
+**C) Tõlgi:**
 
 1. ⟪श्रवणेन श्रूयते⟫ | |
 2. ⟪कर्षर्कैः कृष्यते⟫ | |

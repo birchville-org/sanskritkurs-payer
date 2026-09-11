@@ -1,5 +1,5 @@
 ---
-title: "Lektion 1"
+title: "1. õppetund"
 subtitle: "Sanskriti häälikud"
 lesson_id: 1
 category: "Grammatik"
@@ -150,7 +150,7 @@ Hea süstemaatiline grammatika, mis põhineb kohalikel grammatikutel ja samal aj
 
 [LN117] Joonis: Einbandtitel
 
-(Quelle des Bildes: [Details](/et/licenses#lekt0107))
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt0107))
 
 :::
 
@@ -168,7 +168,7 @@ Hea süstemaatiline grammatika, mis põhineb kohalikel grammatikutel ja samal aj
 
 [LN129] Joonis: Umschlagtitel
 
-(Quelle des Bildes: [Details](/et/licenses#lekt0108))
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt0108))
 
 :::
 
@@ -184,7 +184,7 @@ Hea süstemaatiline grammatika, mis põhineb kohalikel grammatikutel ja samal aj
 
 ![](/images/lekt0106.webp)
 
-(Quelle des Bildes: [Details](/et/licenses#lekt0106))
+(Pildi allikas: [Üksikasjad](/et/licenses#lekt0106))
 
 :::
 

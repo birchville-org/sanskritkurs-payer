@@ -111,7 +111,7 @@ Izakhiwo ze-Sanskrit zokusebenzisa i-passive zivame kakhulu: ngempela, kulula uk
 
 
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Ngokusebenzisa i-Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 
@@ -120,12 +120,12 @@ Izakhiwo ze-Sanskrit zokusebenzisa i-passive zivame kakhulu: ngempela, kulula uk
 **Ngantoni?**
 **Nobani?**
 
-**Er steht**
-1. **in Passivsätzen: Agens (kartṛ) im Instrumentalis**
-[LN] 2. **to indicate the means or instrument with which something is accomplished**
-[LN] 3. **to indicate the path along which someone reaches somewhere**
-[LN] 4. **to express connection, union, or accompaniment with**
-5. **bei Postpositionen in der Bedeutung "zusammen mit, mit"; z.B. saha = ⟪सह⟫ = "mit"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "gemeinsam mit dem Brahmanen"
+**Imi**
+1. **emishweni engenziwayo: Umenzi (kartṛ) ku-Instrumentalis**
+[LN] 2. **ukukhombisa indlela noma ithuluzi okwenziwa ngalo okuthile**
+[LN] 3. **ukukhombisa indlela umuntu afika ngayo endaweni ethile**
+[LN] 4. **ukubonisa ukuxhumana, ukuhlangana, noma ukuhambisana no**
+5. **ngama-postposition anencazelo ethi "kanye no, no"; isib. saha = ⟪सह⟫ = "no"** :brisib.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन सह⟫ = "kanye noBrahmane"
 
 :::
 
@@ -169,7 +169,7 @@ U-**n-**, olandela uvokali noma **n, m, y, v**, ushintshwa ube ngu-**ṇ-**, uma
 :::
 
 
-## 10.4. Isimo esivumayo (Passive), Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Isimo esivumayo (Passive), Indikativ isikhathi esiyimanje (yak = ⟪यक्⟫)
 
 ::: grammar-box
 
@@ -192,7 +192,7 @@ isib.
 
 ### 10.4.1. Imithetho ekhethekile yokwakha isimo sokwenziwa
 
-1. **Wortels op -i of -u** verleng hul klinker voor die passiefsuffiks **-ya-**:
+1. **Izimpande eziphela ngo -i noma -u** zandisa unkamisa wazo ngaphambi kwesijobelelo esingumenzi **-ya-**:
 * **ji** 1 V: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
 * **śru** 5 V: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
 * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
@@ -200,7 +200,7 @@ isib.
 2. **Wortels met -a- tussen medeklinkers** (behalwe neusklanke, y, r, v) bly hoogs:
 * **labh** 1 A: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
-3. **Sommige wortels vorm hul passief hoogs** (of in die ablautvlak van die teenwoordige stam):
+3. **Ezinye izimpande zakha isimo sazo esingumenzi kakhulu** (noma ezingeni le-ablaut lesiqu samanje):
 * **āp** 5 V: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
 * **khād** 1 V: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
 * **smṛ** 1 V: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
@@ -341,7 +341,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 **B) Yakha i-Instrumentalis yobunye nobunengi kuwo wonke amabizo afundwe kuze kube manje.**
 
-**C) Skakel die volgende sinne om na passief en vertaal hulle:**
+**C) Guqula imisho elandelayo ibe yisenzo esenziwayo bese uyihumusha:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो देवीं यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः स्वर्गं गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं जयति⟫)
@@ -350,20 +350,20 @@ Fig.: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को ऽग्निं पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं कविर्मन्त्रं स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं देवी क्षत्रिया रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (2 moontlikhede)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया विष्णुं यजन्ते⟫) (Amathuba ama-2)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो ऽग्निं करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (2 moontlikhede)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या इमं ग्रामं गच्छन्ति⟫) (Amathuba ama-2)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते गुरूंस्तु शृण्वन्ति⟫)
 13. **sādhuḥ svargamāpnoti.** (⟪साधुः स्वर्गमाप्नोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः सोमं सुन्वन्ति⟫)
 15. **paśūllabhate.** (⟪पशूल्लभते⟫)
 16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫)
 
-**D) Vertaal na Sanskrit:**
-1. 'n Brahmane gaan saam met 'n Vaiśya na die dorp.
-2. Hy aanbid Viṣṇu met 'n offerande. (Druk **yajña** uit!)
-3. Die Veda word śruti genoem. (**vad**)
-4. Die weefketting word opgespan. (2 moontlikhede)
+**D) Humusha esiSanskrit:**
+1. UmBrahmane uya edolobheni noVaiśya.
+2. Ukhonza uViṣṇu ngomhlatshelo. (Veza **yajña**!)
+3. IVeda ibizwa ngokuthi i-śruti. (**vad**)
+4. Intambo yokuluka iyatambiswa. (Amathuba ama-2)
 
 ::: media
 

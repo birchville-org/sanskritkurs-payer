@@ -156,20 +156,23 @@ paśavo dhenavaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyas sind Zweimalgeborene.
+6\. Οι Κσατρίγια είναι Δις-γεννημένοι.
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. Die heiligen Männer sind Śūdras.
+7\. Οι ιεροί άνδρες είναι Σούντρα.
 
 śūdrāḥ sādhavaḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
 ::: media
+
 ![](/images/uebung001.webp)
+
 Εικ.: ⟪पशुर्धेनुः⟫
 (Πηγή εικόνας: [Λεπτομέρειες](/el/licenses#uebung001))
+
 :::

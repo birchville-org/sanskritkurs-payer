@@ -472,7 +472,6 @@ Buddha som asket før hans frelsende indsigt, Gandhara, 2./3. århundrede e.Kr.
 (Billedkilde: [Details](/da/licenses#lekt2010))
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १⟫.⟪१॥⟫ (Om Sāṃkhyasystemet se Basham, Wonder s. 324f.)
-:::
 ::: media
 ![](/images/lekt2010.webp)
 Fig.: ⟪तपस्⟫

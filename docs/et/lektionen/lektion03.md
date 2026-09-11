@@ -1,5 +1,5 @@
 ---
-title: "Lektion 3"
+title: "3. õppetund"
 subtitle: "Naissoo ainsuse nimetav kääne"
 lesson_id: 3
 last_reconstructed: 2026-05-07
@@ -86,13 +86,13 @@ u / -ū + u- / ū- » **-ū-**
 
 z.B.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā on jumalus" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+> (Annapūrṇā on toidu ja kokanduse jumalanna, teda peetakse Pārvatī, Śiva abikaasa, kehastuseks.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
+devī + indrāṇī » devīndrāṇī "Indrāṇī on jumalanna" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.)
+> (Indrāṇī on jumal Indra abikaasa.)
 
 ::: media
 
@@ -116,13 +116,13 @@ u / -ū » **-v-**
 
 z.B.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
+devī + umā » devy umā "Umā on jumalanna" = ⟪देव्युमा⟫
 
 > (Umā is a name for Pārvatī, the consort of Śiva)
 
 ::: grammar-box
 
-**-a / -ā vor unähnlichem Vokal:**
+**-a / -ā enne erinevat vokaali:**
 a / -ā + i- / ī- » **-e-**
 a / -ā + ṛ- » **-ar-**
 a / -ā + e- / ai- » **-ai-**
@@ -144,10 +144,9 @@ See later on this so-called ablaut!
 
 z.B.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "Itarā on śūdra naine" = ⟪शूद्रेतरा⟫
 
-
-## 3.5. Satzsandhi von -ās
+## 3.5. -ās lausesandhi
 
 ::: grammar-box
 
@@ -157,7 +156,7 @@ z.B.
 
 z.B.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyad on kaks korda sündinud" = ⟪द्विजा वैश्याः⟫
 
 
 ## 3.6. Wortliste
@@ -193,7 +192,7 @@ suured eeposed **mahābhārata** n. (⟪महाभारत⟫) ja **rāmāya�
 
 **kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** n. = ⟪क्षत्रियी⟫ : Kṣatriya naine.
 
 **vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
 
@@ -201,7 +200,7 @@ suured eeposed **mahābhārata** n. (⟪महाभारत⟫) ja **rāmāya�
 
 **śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : Frau eines Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** n. = ⟪देवी⟫ : jumalanna, eriti Durgā n. = ⟪दुर्गा⟫, Śiva abikaasa = ⟪शिव⟫.
 
 ::: media
 

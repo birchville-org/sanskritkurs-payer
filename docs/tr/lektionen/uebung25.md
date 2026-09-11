@@ -65,10 +65,14 @@ Buda'lar ve Arhantler acıdan kurtulmuştur. Çünkü onlar kurtarıcı içgör�
 Açgözlülük, öfke ve cehalet insanları bozar. Zaman geldiğinde onlar bir cehenneme düşerler.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Resim: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Resim kaynağı: [Detaylar](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Kṣatriya, köyün düşmanlarıyla savaşmak için büyük şehirden kahraman savaşçılar getirir.
 
@@ -88,7 +92,7 @@ Rāma olmadan.
 Bir azizin eğitimi erdeme yol açar, kötü birinin eğitimi ise yol açmaz.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma, Kṛṣṇa'yı bekler.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Kolayca (mutlu) gider.
@@ -113,10 +117,14 @@ Eğer biri kibir, açgözlülük, öfke veya korku nedeniyle yanlış bir yargı
 Cehennemler kötülükten doğar, kötülük yoksulluktan doğar, yoksulluk ise vermemekten doğar.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Şekil: ⟪भवन्ति नरकाः पापात्⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Bir hırsız, cezalandırılma veya serbest bırakılma yoluyla hırsızlık borcundan kurtulur. Ancak kral onu cezalandırılmazsa, hırsızın borcunu üstlenir.
 
@@ -128,9 +136,13 @@ Bir hırsız, cezalandırılma veya serbest bırakılma yoluyla hırsızlık bor
 Ekonomi, buğday, hayvanlar, altın, metaller ve emek ürettiği için faydalıdır.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Resim: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Resim kaynağı: [Detaylar](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Bu nedenle üç bilim dalı, temel olarak asa (daṇḍa) kullanır. İyi davranışın temeli olan asa, canlılara kazanç ve güvenli mülkiyet sağlar. İyi davranış kazanılmış veya doğuştandır. Zira faaliyet, uygun bir materyali terbiye eder, uygunsuz olanı değil. Bilgi; itaat, dinleme, kavrama, anlama ve düşünce yoluyla gerçeğe ulaşmış bir zihni terbiye eder, başka birini değil. ... Zira işitilenlerden bilgi doğar, bilgiden uygulama; uygulamadan özerklik; böylece bilim dalları amacına uygun olur. Bilgi ve iyi davranış, duyular üzerindeki zaferin nedenidir. Bu; arzu, öfke, açgözlülük, kibir, sarhoşluk ve coşkuyu bırakmak için gereklidir.

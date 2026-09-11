@@ -30,7 +30,7 @@ Pri pisanju se vsaka črka vključno s prečno črto na zgornjo črto dokonča, 
 
 ## Vaja
 
-Schreiben Sie in Devanāgarī:
+Zapišite v devanāgarīju:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -41,5 +41,3 @@ Preberite in transliterirajte:
 Dodatna vaja branja:
 
 ⟪पिता⟫ oče, ⟪कपि⟫ opica, ⟪कृत⟫ storiti, ⟪टीका⟫ podkomentar, ⟪तत्⟫ ta, ⟪तट⟫ breg, ⟪पत्⟫ streljati, ⟪पट⟫ tkanina, ⟪काच⟫ steklo, ⟪काकुत्⟫ nebo, ⟪चित्⟫ zaznati, ⟪पृच्⟫ mešati, ⟪पोटक⟫ suženj, ⟪चेतु⟫ namen, ⟪तौतातित⟫ privrženec Kumārile (Mīmāṃsā), ⟪तूत⟫ murva, ⟪पीत⟫ piti, ⟪पीति⟫ napitek, ⟪कॢप्⟫ ujemati se, ⟪कृपते⟫ on joče, ⟪पुटी⟫ guba, ⟪चापि⟫ enako, ⟪तोक⟫ potomstvo, ⟪तृपत्⟫ sit, ⟪पॄ⟫ napolniti, ⟪कृकाटी⟫ vratni sklep, ⟪पूपौ⟫ dva kolača, ⟪पैतृकी⟫ očetov (ženski rod), ⟪कौट⟫ prevarantski, ⟪कच⟫ lasje na glavi, ⟪कुतपे⟫ na odeji iz kozjih dlak, ⟪कुचौ⟫ prsni koš, ⟪चकिता⟫ prestrašen (ženski rod)
-
-

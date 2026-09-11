@@ -141,6 +141,7 @@ Eksempel:
 ::: grammar-box
 **3\. Instrumentalis (⟪तृतीया⟫)**
 
+:::
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Folk gør fortjenstfulde gerninger. De ønsker nemlig at komme til himlen."
 :::
@@ -272,7 +273,6 @@ deraf:
 ⟪स्तेय⟫ n.: tyveri
 
 ⟪लिप्ति⟫ f.: smearing, writing, script
-:::
 ::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫

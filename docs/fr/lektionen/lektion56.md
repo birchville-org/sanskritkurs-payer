@@ -1,5 +1,5 @@
 ---
-title: Lektion 56
+title: Leçon 56
 subtitle: "L'aoriste redoublé"
 lesson_id: 56
 last_reconstructed: 2026-05-21
@@ -12,6 +12,7 @@ status: stable
 ## 56.1. L'aoriste redoublé
 
 ::: grammar-box
+
 **Formation :**
 
 **Augment + racine redoublée + a + terminaison secondaire thématique**
@@ -21,7 +22,9 @@ status: stable
 **Le -i, -u final est remplacé par -iy ou -uv.**
 
 **Le -ā final (pour -e) est élidé.**
+
 :::
+
 Paradigme :
 
 ⟪श्रि⟫ 1U "se rendre à, s'appuyer sur"
@@ -42,48 +45,67 @@ Cette forme d'aoriste est formée notamment par :
 *   ⟪वच्⟫ 2P "dire" : ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
+
 **Toutes les racines de la 10e classe de présent, ainsi que tous les causatifs, forment toujours l'aoriste à redoublement.**
+
 :::
+
 ### 56.1.1. Formation de l'aoriste des causatifs et des racines de la 10e classe de présent
 
 **Formation :**
 
 ::: grammar-box
+
 **Augment + racine redoublée + a + terminaison secondaire thématique**
 
 **La syllabe de la racine peut être de niveau grave ou aigu. Pour les racines en -i ou -u, le niveau grave est la règle.**
 
 *   **Le -i, -u final est remplacé par -iy ou -uv.**
+
 :::
+
 ::: indent
+
 ⟪पॄ⟫ 3P : Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
 ⟪द्रु⟫ 1P : Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
 :sig[⟪नी⟫] 1U : Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫
 ⟪ज्ञा⟫ 9U : Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
+
 :::
 
 *   **La finale -ā (pour -e) est élidée.**
+
 ::: indent
+
 ⟪चित्⟫ 1P : Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
+
 :::
 
 *   ⟪श्रि⟫ 1U « se rendre à, s'appuyer sur »
+
 ::: indent
+
 ⟪चुर्⟫ 10U : **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
+
 :::
 
 **Pour certaines racines, les modifications mentionnées jusqu’ici sont facultatives ou doivent être omises :**
 
 *   |   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+
 ::: indent
+
 ⟪कॢप्⟩ 1Ā : Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫
 ⟪कृष्⟫ 1P/6U : Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
+
 :::
+
 ⟪पत्⟫ 1P « tomber » : ⟪अपप्तत्⟫ (a-pa-pt-a-t ; pt = niveau grave de pat)
 
 Une fois que les règles susmentionnées ont été appliquées à la syllabe radicale, les règles suivantes doivent être suivies pour la voyelle de la syllabe de redoublement :
 
 ::: grammar-box
+
 Cette forme d'aoriste est formée notamment par :
 
 *   ⟪श्रि⟫ 1U "se rendre à"
@@ -93,18 +115,25 @@ Cette forme d'aoriste est formée notamment par :
 **Toutes les racines de la 10e classe de présent, ainsi que tous les causatifs, forment toujours l'aoriste à redoublement.**
 
 *   **i, u est remplacé par ī, ū lorsque la syllabe racine commence par un seul consonne et est métriquement brève :**  
+
 :::
+
 ::: indent
+
 ⟪भिद्⟫ 7U : Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫
 ⟪तुद्⟫ 6U : Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
+
 :::
 
 *   **a est remplacé par ī lorsque la syllabe radicale est métriquement brève et commence par un seul consonne. Si la syllabe radicale est métriquement brève et commence par plus d’un consonne, le a de la syllabe de redoublement est remplacé par i. Si la syllabe radicale est métriquement longue, le a est conservé :**  
     :sig[⟪नी⟫] 1U : Caus. ⟪नाययति⟫, syllabe radicale de l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
     :sig[⟪कृ⟫] 8U : Caus. ⟪कारयति⟫, syllabe radicale de l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
+
 ::: indent
+
 ⟪त्यज्⟫ 1P : Caus. ⟪त्याजयति⟫, syllabe radicale de l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫
 ⟪भू⟫ 1P : Caus. ⟪भावयति⟫, syllabe radicale de l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
+
 :::
 
 Particularités de certaines racines chez Kielhorn, Grammaire § 435c ss.
@@ -116,37 +145,52 @@ Particularités de certaines racines chez Kielhorn, Grammaire § 435c ss.
 Vocal - premier consonant qui s'ensuit (ou son représentant requis dans une syllabe de reduplication) - **i** - toutes les consonnes
 
 ::: indent
+
 ⟪अश्⟫ 9P : Kaus. ⟪आशयति⟫, syllabe redoublée ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P : Kaus. ⟪एषयति⟫, syllabe redoublée ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā : Kaus. ⟪ईक्षयति⟫, syllabe redoublée ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+
 :::
+
 *   **Si une voyelle initiale est suivie d'un groupe consonantique commençant par une nasale ou par d ou r, la deuxième consonne du groupe (ou son substitut) est insérée avec i selon le schéma suivant :**
 
 Voyelle - premier consonne - deuxième consonne (représentant) - i - deuxième consonne
 
 ::: indent
+
 ⟪अञ्ज्⟫ 7P : Caus. ⟪अञ्जयति⟫, syllabe redoublée ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P : Caus. ⟪अर्पयति⟫, syllabe redoublée ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P : Caus. ⟪अर्हयति⟫, syllabe redoublée ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+
 :::
+
 Cette forme de redoublement des stems dérivés commençant par une voyelle (causatifs) s'appelle « redoublement attique ».
 ## 56.2. L'Injonctif
 
 ::: grammar-box
+
 **L’injonctif est la forme sans augment des formes à augment, c’est-à-dire que ses formes sont identiques aux formes sans augment de l’indicatif imparfait ou aoriste. La grammaire indienne native n’a pas reconnu l’injonctif comme une catégorie grammaticale particulière.**
+
 :::
+
 Selon l’ouvrage fondamental :
 
 ::: media
+
 ![](/images/lekt5601.jpg)
+
 Légende :
 Professeur de linguistique comparée, Université d’Erlangen-Nuremberg (1955 - 1983)
 (Source de l’image : [Détails](/fr/licenses#lekt5601))
+
 :::
 
 ::: indent
+
 Hoffmann, Karl (1915–1996) : Der Injunktiv im Veda : une étude synchronique des fonctions / par Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Bibliothèque indo-européenne : 3e série, Études)
+
 :::
+
 l’injonctif dans le Veda possède les propriétés suivantes :
 
 *   il n’est pas narratif, mais mentionnel
@@ -155,6 +199,7 @@ l’injonctif dans le Veda possède les propriétés suivantes :
 *   l’injonctif aoriste désigne l’aspect perfectif.
 
 ::: grammar-box
+
 **Dans le sanskrit post-védique, l’injonctif apparaît uniquement en association avec la particule d’interdiction ⟪मा⟫ (+ Injonctif Aoriste) ou ⟪मा⟫ ⟪स्म⟫ (+ Injonctif Présent ou Aoriste), la distinction aspectuelle n’étant plus généralement pertinente.**
 
 (avec aspect
@@ -163,32 +208,45 @@ l’injonctif dans le Veda possède les propriétés suivantes :
 *   ⟪मा⟫ ⟪स्म⟫ + Injonctif Présent désignerait une phrase inhibitive, c’est-à-dire qu’une action déjà en cours ou un état déjà existant est interdit : « Arrête de... ! », « Abandonne... ! »
 
 Cette distinction est toutefois généralement absente du sanskrit classique.)
+
 :::
-## 56.3. Der Verbotssatz
+
+## 56.3. La phrase prohibitive
 
 ::: grammar-box
+
 **Forme principale :**
 
 **⟪मा⟫ + Injonctif Aoriste**
 
 **⟪मा⟫ ⟪स्म⟫ + Injonctif Aoriste ou Injonctif Présent**
+
 :::
+
 Exemples :
 
 ::: indent
+
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ « Ne deviens pas celui qui est motivé par le fruit d’une action ! » (Injonctif Aoriste) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ « Ne deviens pas efféminé ! » (Injonctif Aoriste) (⟪भगवद्गीता⟫ 2,3a)
+
 :::
+
 ::: media
+
 ![](/images/lekt5602.webp)
+
 Fig. : ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Affiche (Ernesto Che Guevara) d’un parti politique à Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). « La traduction approximative de ce qui y est écrit serait : Le martyre est une expérience fascinante pour un révolutionnaire. Et une ressource intimidante pour un lâche. Che n’est pas un modèle à suivre pour les peureux. »
 (Source de l’image : [Détails](/fr/licenses#lekt5602))
+
 :::
+
 Les deux exemples ont un sens prohibitif. L’Injonctif Aoriste est donc ici employé dans son sens originel. (La prédominance de l’Injonctif Aoriste dans de telles phrases s’explique peut-être par la prédominance des phrases prohibitives par rapport aux phrases inhibitives, mais cette question devrait encore être étudiée pour le sanskrit classique.)
 
 ::: grammar-box
+
 **Autres formes de phrases prohibitives :**
 
 *   **⟪मा⟫ + (⟪स्म⟫) + Impératif (rare)  **
@@ -202,27 +260,40 @@ Les deux exemples ont un sens prohibitif. L’Injonctif Aoriste est donc ici emp
 Il existe par ailleurs d’autres formes, plus rares, de phrases prohibitives, voir par exemple
 
 :::
+
 ::: indent
+
 Speyer, Jacob S. (Jacob Samuel) (1849–1913) : Syntaxe sanskrite. -- Leyde : Brill, 1886. -- § 353.
+
 :::
+
 ::: media
+
 ![](/images/lekt5603.webp)
+
 Fig. : ⟪अलं⟫  ⟪विषादेन⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5603))
+
 :::
+
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
+
 **⟪स्म⟫ souligne : « véritablement, certes, assurément, précisément »**
 
 **De plus, la construction suivante est très importante :**
 
 :::
+
 ::: indent
+
 ⟪स्म⟫ + indicatif présent sert à raconter dans le passé, surtout pour indiquer une durée dans le passé :
 
 p. ex. ⟪वसति⟫ ⟪स्म⟫ « il habitait autrefois » (⟪स्म⟫ peut parfois manquer).
+
 :::
+
 ## 56.5. Exercice
 
 A) Déterminez et traduisez sans outils auxiliaires (!) les formes suivantes :
@@ -307,4 +378,3 @@ A) Déterminez et traduisez sans outils auxiliaires (!) les formes suivantes :
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

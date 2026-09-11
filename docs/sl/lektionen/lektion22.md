@@ -29,22 +29,29 @@ Pri prevajanju v nemščino se izogibajte stalnemu ponavljanju besede "po tem ko
 (natančnejša določitev za absolutiv: okoliščinska določba, objekt itd.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Subjekt + glagolski stavek (v aktivu ali pasivu)
 
 :::
+
 **Primeri:**
 
 ::: indent
+
 **⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = konstrukcija pasiva: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**
 "Moški vstopi v hišo, zagleda dekle in ga nagovori."
 
 Množina: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
+
 :::
-## 22.2. Bildung des Absolutivums
+
+## 22.2. Tvorba absolutiva
 
 ::: grammar-box
-**Bildung des Absolutivums**
+
+**Tvorba absolutiva**
 
 *   Glagoli brez predpone: absolutiv na **-tvā**
 *   Glagoli s predpono: absolutiv na **-ya** oz. **-tya**
+
 :::
+
 ### 22.2.1. Glagoli brez predpone: absolutiv na -⟪त्वा⟫
 
 ::: grammar-box
@@ -56,9 +63,11 @@ Množina: **⟪गृहं प्रविश्य बालां दृष�
 Samo nikalni **a-** / **an-** se ujema s pripono **-⟪त्वा⟫**: ⟪अकृत्वा⟫ "ne da bi storil"
 
 :::
+
 **Primeri:**
 
 ::: indent
+
 ⟪आप्त्वा⟫ "ko je dosegel / dosegla / doseglo / sem dosegel / si dosegel / smo dosegli / ste dosegli / so dosegli / sva dosegla / sta dosegla / sta dosegla"
 
 ⟪आसित्वा⟫ "ko je sedel / sedela / sedelo"
@@ -70,7 +79,9 @@ Samo nikalni **a-** / **an-** se ujema s pripono **-⟪त्वा⟫**: ⟪अ
 ⟪जित्वा⟫ "ko je zmagal / zmagala / zmagalo"
 
 ⟪उक्त्वा⟫ "ko je rekel / rekla / reklo"
+
 :::
+
 ### 22.2.2. Glagoli s predpono
 
 #### 22.2.2.1. Koreni na dolgi samoglasnik (razen -ā) ali na soglasnik
@@ -80,15 +91,19 @@ Samo nikalni **a-** / **an-** se ujema s pripono **-⟪त्वा⟫**: ⟪अ
 **(meist) tiefstufige Wurzel + -ya**
 
 :::
+
 **Primeri:**
 
 ::: indent
+
 ⟪उपनीय⟫ "ko je pripeljal / pripeljala / pripeljalo"
 
 ⟪प्रभूय⟫ "ko je izstopal / izstopala / izstopalo" "ko je imel / imela / imelo moč"
 
 ⟪प्राप्य⟫ "potem ko je dosegel / je bil dosegel (...)"
+
 :::
+
 #### 22.2.2.2. Koreni na -ā
 
 ::: grammar-box
@@ -96,11 +111,15 @@ Samo nikalni **a-** / **an-** se ujema s pripono **-⟪त्वा⟫**: ⟪अ
 **unverändert hochstufige Wurzel + -ya**
 
 :::
+
 **Primer:**
 
 ::: indent
+
 ⟪उपस्थाय⟫ "po tem, ko je (...) stopil k / je stopil k" ; (vendar brez predpona: ⟪स्थित्वा⟫)
+
 :::
+
 #### 22.2.2.3. Korenine, ki se v globni stopnji končajo s kratkim -i, -u, -ṛ
 
 ::: grammar-box
@@ -108,15 +127,19 @@ Samo nikalni **a-** / **an-** se ujema s pripono **-⟪त्वा⟫**: ⟪अ
 **globoko stopnjeno korensko oblikovanje + -tya**
 
 :::
+
 **Primeri:**
 
 ::: indent
+
 ⟪प्रस्तुत्य⟫ "po tem, ko je (...) glasno hvalil / bil"
 
 ⟪विस्मृत्य⟫ "po tem, ko je (...) pozabil / bil"
 
 ⟪संस्कृत्य⟫ "po tem, ko je (...) za žrtev pripravil / bil"
+
 :::
+
 #### 22.2.2.4. Korene na -am / -an, ki se v globoki stopnji končajo z -a
 
 ::: grammar-box
@@ -130,44 +153,65 @@ ali:
 Koren na **-a** + **-tya**
 
 :::
+
 **Primer:**
 
 ::: indent
+
 ⟪विगम्य⟫ ali ⟪विगत्य⟫ "po tem, ko je (...) minil / bil"
+
 :::
+
 ## 22.3. Besedni seznam
 
 **⟪काम⟩ m.:** želja, hrepenenje; zaželena daritev, čutna užitka, ljubezen, bog ljubezni
 
 ::: indent
+
 ⟪कामम्⟫ Akk. adverbialno: po želji, po lastni volji
+
 :::
+
 ::: media
+
 ![](/images/lekt2202.webp)
+
 Slika: ⟪कामदेवः⟫
 19. stoletje
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2202))
+
 :::
+
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** biti sposoben, znati
 
 od tega:
 
 ::: indent
+
 **⟪शक्ति⟫ f.:** sposobnost, moč, zmožnost; tudi: božanska moč, personificirana kot ženska spremljevalka zlasti ⟪शिव⟫
 
 **⟪शक्र⟫ m.:** močni (epitet za ⟪इन्द्र⟫)
+
 :::
+
 ::: media
+
 ![](/images/lekt2203.webp)
+
 Slika: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2203))
+
 :::
+
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** zaslužiti nekaj (biti vreden česa), smeti, biti dolžan, morati (v 2. osebi se ⟪अर्ह्⟫ + infinitiv pogosto uporablja kot blag ukaz: "Moral bi")
 
 ::: indent
+
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: Vredenec. V budizmu in džainizmu: nekdo, ki je dosegel končno osvoboditev.
+
 :::
+
 **⟪व्रत⟫ n.:** Zaobljuba, verska dolžnost, versko obredje (obljubimo bogu nekaj, da bi od njega kaj dobili. Primer: mati obljubi, da bo svojo hčer dala za templjsko prostitutko (⟪देवदासी⟫), če se hči zopet ozdravi. Pomembni ⟪व्रत⟫ danes: post; vzdrževanje od jedil, ki jih imamo radi; spolna vzdržnost; branje svetih spisov; izvajanje določenih obredov; hranjenje brahmanov ipd. Kratek pregled ⟪व्रत⟫: Walker, Hindu World, zvezek II, str. 581–582. Podrobno: P. V. Kane, History of Dharmaśāstra, zvezek 5,1, str. 1–462. Tam na str. 253–462 seznam ⟪व्रत⟫ in verskih praznikov ("naslednji seznam ... ne zahteva, da bi bil temeljito izčrpen" !!!)
 
 **⟪चर्⟫ 1 P charati Pass. charyate PPP charita Inf. charitum (sanskritsko: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass. ⟪चर्यते⟫ PPP ⟪चरित⟫ Inf. ⟪चरितुम्⟫):** pašiti, hodokostiti se, gibati se, premikati se, ravnati, izvajati nekaj, opravljati (npr. **⟪व्रतं चर्⟫**: izvajati zaobljubo, zlasti spolno vzdržnost)
@@ -175,6 +219,7 @@ Kolkatta = কলকাতা
 od tega:
 
 ::: indent
+
 **⟪चर ३⟫:** gibljiv; n.: Gibljivo = živali (v nasprotju z rastlinami)
 
 **⟪चरण⟫ n., m.:** noga
@@ -182,13 +227,19 @@ od tega:
 **⟪चरित⟫ n.:** življenjski slog, dejanja v življenju
 
 **⟪ब्रह्मचर्य⟫ n.:** izvajanje Vede (⟪ब्रह्मन्⟫) = študij Vede v prvem življenjskem obdobju (obdobje ⟪ब्रह्मचारिन्⟫), ki zahteva strogo spolno vzdržnost; zato tudi: spolna vzdržnost, celibatski življenjski slog
+
 :::
+
 ::: media
+
 ![](/images/lekt2201.webp)
+
 Slika: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2201))
+
 :::
+
 ## 22.4. Vaja
 
 **A) Oblikujte in prevedite absolutiv k naslednjim glagolom:**
@@ -237,8 +288,11 @@ Goa = ⟪गोंय⟫
 **C) Iz prejšnjih stavkov (razen stavek 8 in 10) oblikujte pasivne konstrukcije**
 
 ::: media
+
 ![](/images/lekt2204.webp)
+
 Slika: ⟪अन्नं पक्त्वा⟫
 (Vir slike: [Podrobnosti](/sl/licenses#lekt2204))
+
 :::
 

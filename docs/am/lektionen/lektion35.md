@@ -142,6 +142,7 @@ status: stable
 **ደካማ ስር፡** ምንም ድግግሞሽ የለም። የስሩን -a- በ-e- መተካት  
 (ለማብራሪያ ለ Thumb-Hauschild 1,2 ገጽ 286f. ይመልከቱ)
 
+:::
 ### 35.3.2. ፐርፌክት ዓይነት Vb፡ ደካማ ስር ቅርብ (e-ዓይነት)
 
 ::: grammar-box
@@ -264,6 +265,7 @@ Abb.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
 (የምስል ምንጭ: [Details](/am/licenses#lekt3503))
 
+:::
 ::: media
 ![](/images/lekt3504.webp)
 ስዕል፡ ... ⟪ब्राह्मणाश्चेजुः⟫

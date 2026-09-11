@@ -74,7 +74,7 @@ A) Chaza futhi uhumishe lezi zimo:
 
 ## Übersetzungen
 
-B) Übersetzen Sie:
+B) Humusha:
 
 ⟪१⟫. **⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪साधुना⟫ ⟪जयेत्⟫ ⟪।⟫ ⟪जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 [LN] Ngokungathukutheli umuntu kufanele anqobe intukuthelo, ngokuhle umuntu kufanele anqobe okubi; ngeqiniso umuntu kufanele anqobe amanga.

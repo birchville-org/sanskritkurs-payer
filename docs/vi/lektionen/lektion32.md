@@ -10,6 +10,7 @@ status: stable
 ## 32.1. Các thì quá khứ
 
 ::: grammar-box
+
 **Trong văn học Sanskrit cổ điển và theo các nhà ngữ pháp bản địa, ba thì quá khứ được phân biệt rõ ràng trong cách sử dụng:**
 
 *   **Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) chỉ đơn giản biểu thị sự hoàn thành của một hành động, hoặc nó biểu thị những gì đã xảy ra trong ngày hiện tại, tức là quá khứ gần**
@@ -17,10 +18,13 @@ status: stable
 *   **Perfect (⟪लिट्⟫) cũng biểu thị quá khứ xa như Imperfect, nhưng khác với Imperfect, nó chỉ được sử dụng cho các sự kiện mà người nói không trực tiếp chứng kiến**
 
 **Trong văn học Sanskrit cổ điển, ba thì quá khứ được sử dụng mà không có sự khác biệt về nghĩa (ngoại trừ: ⟪भारवि⟫'s bài thơ nghệ thuật ⟪किरातार्जुनीय⟫).**
+
 :::
+
 ## 32.2. Thì Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
+
 **Hình thành:**
 
 **Augment a- + Gốc hiện tại + Hậu tố thứ cấp**
@@ -28,21 +32,29 @@ status: stable
 **Ba ngôi số ít của thì Imperfect Parasmaipada được hình thành từ gốc hiện tại mạnh đối với các gốc không có âm tiết, tất cả các dạng khác được hình thành từ gốc hiện tại yếu.**
 
 **Thì Imperfect chỉ có dạng Indicative (bằng chứng).**
+
 :::
+
 Ví dụ:
 
 ::: indent
+
 ⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
 
 ⟪सु⟫
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
+
 :::
+
 ## 32.3. Quy tắc cho Augment
 
 ::: grammar-box
+
 **1. Khi Augment a- đứng trước một gốc bắt đầu bằng nguyên âm, thì Augment và phụ âm khởi đầu của gốc hợp nhất thành ⟪वृद्धि⟫ của nguyên âm gốc.**
+
 :::
+
 Ví dụ:
 
 ::: grammar-box
@@ -54,9 +66,13 @@ Ví dụ:
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
 :::
+
 ::: grammar-box
+
 **2. Khi các tiền tố đứng trước một gốc động từ, thì phần mở rộng a- được đặt ngay sau các tiền tố và liền trước gốc động từ.**
+
 :::
+
 Ví dụ:
 
 ::: grammar-box
@@ -69,11 +85,15 @@ Ví dụ:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
+
 ## 32.4. Ví dụ về cách hình thành thì Quá khứ chưa hoàn thành
 
 ::: important
+
 **Để minh họa cách hình thành các dạng thức, ở đây cũng sẽ tạo ra các dạng thức Ātmanepada cho các gốc động từ Parasmaipada! Các dạng thức nhân tạo này được đặt trong dấu ngoặc nhọn \< \>.**
+
 :::
+
 ### 32.4.1. Các lớp Hiện tại có nguyên âm chủ đề
 
 ::: grammar-box
@@ -87,6 +107,7 @@ Ví dụ:
 | Bị động | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
+
 ### 32.4.2. Các lớp Hiện tại không có nguyên âm chủ đề
 
 ::: grammar-box
@@ -108,6 +129,7 @@ Ví dụ:
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
+
 ## 32.5. Danh sách từ vựng
 
 **⟪अग्र⟫ n.:** Đỉnh, đầu mút cùng
@@ -117,7 +139,9 @@ Ví dụ:
 ⟪एकदा⟫
 
 **⟪श्रम् श्राम्यते⟫**
+
 ::: indent
+
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -125,91 +149,138 @@ Ví dụ:
 ⟪श्रमित्वा । श्रान्त्वा⟫:br
 ⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
+
 :::
+
 ⟪पार्श्व चूत⟫
 
 ::: media
+
 ![](/images/lekt3202.webp)
+
 Abb.: ⟪चूतः⟫
+
 Cây xoài, Kanpur.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3202))
+
 :::
+
 ⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
 **⟪रुह् रोहति⟫**
+
 ::: indent
+
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति । रोपयति⟫:br
 ⟪रूढ⟫:br
 ⟪रुह्य⟫:br
 ⟪रोढुम्⟫
+
 :::
+
 **⟪ग्रह् गृह्णाति⟫**
+
 ::: indent
+
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
 ⟪गृहीत⟫:br
 ⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
+
 :::
+
 **⟪वानर कपि⟫**
 
 ::: media
+
 ![](/images/lekt3203.webp)
+
 Abb.: ⟪वानराः⟫
+
 Khỉ (khỉ đuôi dài rhesus) tại Delhi.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3203))
+
 :::
+
 **⟪लोक् लोकयति⟫**
+
 ::: indent
+
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 ⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
+
 :::
+
 ⟪प्रहर्ष कति उपल⟫
 
 ::: media
+
 ![](/images/lekt3204.webp)
+
 Abb.: ⟪उपलाः⟫
+
 Đá quý phía nam Pune, Maharashtra.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3204))
+
 :::
+
 ⟪लक्ष्य⟫
 
 ::: media
+
 ![](/images/lekt3205.webp)
+
 Abb.: ⟪लक्ष्यम्⟫
+
 Tập bắn / bia tên, Karnataka.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3205))
+
 :::
+
 **⟪क्षिप् क्षिपति⟫**
+
 ::: indent
+
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
 ⟪क्षिप्त⟫:br
 ⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
+
 :::
+
 **⟪चि चिनोति⟫**
+
 ::: indent
+
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 ⟪चित्य⟫:br
 ⟪चेतुम्⟫
+
 :::
+
 ::: media
+
 ![](/images/lekt3207.webp)
+
 Abb.: ⟪चितं गोमयं दहति⟫
+
 Đốt phân bò tại Rajasthan.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3207))
+
 :::
+
 **⟪चि अव⟫**
 
 ⟪प्रति अहो⟫
@@ -217,11 +288,16 @@ Abb.: ⟪चितं गोमयं दहति⟫
 **⟪कौशल कुशल⟫**
 
 ::: media
+
 ![](/images/lekt3206.webp)
+
 Abb.: ⟪कौशलम्⟫
+
 Tranh Mehndi trên tay ở Mumbai.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3206))
+
 :::
+
 ## 32.6. Bài tập
 
 A) Xác định các dạng động từ sau và tạo thành các dạng imperfect tương ứng về ngôi, số và giống:
@@ -307,11 +383,16 @@ B) Dịch và phân tích các từ ghép trong tiếng Sanskrit:
 ⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
+
 ![](/images/lekt3208.webp)
+
 Abb.: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+
 Nhà sư Phật giáo tại Sri Lanka.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3208))
+
 :::
+
 ## 32.7. Bài tập ôn tập trong kỳ nghỉ Giáng sinh
 
 Lưu ý: ban đầu, phần này được giảng dạy mỗi học kỳ mùa đông tại Đại học Tübingen. Ở Bài 32, hai tuần nghỉ Giáng sinh bắt đầu.
@@ -433,7 +514,7 @@ C) Dịch sang tiếng Phạn:
 
 4. Những chiến binh mạnh mẽ đã đi đến làng Brahman.
 
-5. Das Mädchen weint.
+5. Cô gái khóc.
 
 6. Không có bệnh tật nào sánh bằng dục lạc, không có kẻ thù nào sánh bằng sự hoang mang, không có ngọn lửa nào sánh bằng sân hận, không có hạnh phúc nào sánh bằng trí tuệ.
 
@@ -530,11 +611,16 @@ C) Dịch sang tiếng Phạn:
 52. Tạm biệt!
 
 ::: media
+
 ![](/images/lekt3209.webp)
+
 Abb.: ⟪पुनर्दर्शनाय⟫
+
 Lời chào / lời tạm biệt của người Ấn Độ.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3209))
+
 :::
+
 ## 32.8. Bài tập ôn tập
 
 Dịch và xác định các dạng từ sau:
@@ -583,6 +669,7 @@ Dịch và xác định các dạng từ sau:
 ## 32.9. Bài tập dịch thuật
 
 ::: compact
+
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
@@ -595,23 +682,31 @@ Dịch và xác định các dạng từ sau:
 ⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
 ⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
 ⟪अहो वृद्धस्य कौशलम् ॥⟫
+
 :::
+
 (từ: ⟪संस्कृतबालादर्श⟫)
 
 
 Giải thích:
 
 ::: indent
+
 ⟪पथि⟫ Cách cách số ít của **⟪पथ्⟫** giống đực "con đường" (suy biến bất quy tắc)
 
 ⟪लक्ष्यीकृ च्विऽ⟫-hậu tố ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : làm cho cái gì đó trở thành ⟪लक्ष्य⟫, điều mà trước đây không phải là ⟪लक्ष्य⟫
 
 ⟪आदाय⟫ Cách tuyệt đối của **⟪आ⟫-⟪दा⟫** (lớp hiện tại thứ 3) "nhận"
+
 :::
+
 ::: media
+
 ![](/images/lekt3210.webp)
+
 Hình: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
 Khỉ trong cây xoài.
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3210))
+
 :::
 

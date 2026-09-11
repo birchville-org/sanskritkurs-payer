@@ -1,5 +1,5 @@
 ---
-title: "Lektion 36"
+title: "36. õppetund"
 subtitle: "Perfekti erivormid"
 lesson_id: 36
 last_reconstructed: 2026-05-21
@@ -367,7 +367,7 @@ C) Moodustage järgmistest vormidest vastav perfekt:
 12.  ⟪प्राव्रजन्⟫
 13.  ⟪त्यक्ष्यति⟫
 
-D) Übersetzen Sie:
+D) Tõlgi:
 
 ⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫
 
@@ -496,7 +496,7 @@ Joonis: ⟪पुत्रे जाते सुगतः कुलं धन�
 
 ## 36.7. Übersetzungsübung
 
-Übersetzen Sie:
+Tõlgi:
 
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
@@ -548,7 +548,7 @@ Joonis: ⟪येन⟫ ⟪प्रीणात्युपाध्याय�
 
 :::
 
-3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Wer ein ⟪जितेन्द्रिय⟫ ist:
+3. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Kes on ⟪जितेन्द्रिय⟫:
 
 ::: indent
 

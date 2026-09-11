@@ -105,11 +105,11 @@ A) Translate into Sanskrit using passive constructions:
 
 ⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
 
-6\. Die Śūdrafrau geht ins Dorf.
+6\. Śūdrafrau läheb külla.
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-7\. Wer sieht die Wahrheit?
+7\. Kes näeb tõde?
 
 ⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
 
@@ -123,7 +123,7 @@ B)
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
-C) Übersetzen Sie:
+C) Tõlkige:
 
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
 Kõrv kuuleb. Kõrvaga kuuldakse.

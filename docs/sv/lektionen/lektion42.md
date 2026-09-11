@@ -1,6 +1,6 @@
 ---
 title: "Lektion 42"
-subtitle: "Stämme auf -ṛ"
+subtitle: "Stammar på -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -15,6 +15,7 @@ status: stable
 ### 42.1.1. Stems with lengthened grade in the strong stem
 
 ::: grammar-box
+
 All masculines ending in -ṛ, with the exception of the kinship terms listed under 1.3. This category also includes the following kinship terms:
 
 *   ⟪नप्तृ⟫ m. "grandson"
@@ -30,12 +31,17 @@ The majority of nouns belonging to this category are agent nouns formed with the
 *   **before consonant: -ṛ**
 
 Note the irregular formations (marked in **red**)!
+
 :::
+
 Masculine:
 
 ::: indent
+
 ⟪दातृ⟫ m. "giver"
+
 :::
+
 ::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -49,16 +55,21 @@ Masculine:
 | ⟪सप्तमी⟫ | :sig[⟪दातरि⟫] | ⟪दातृषु⟫ |
 
 :::
+
 For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76–81
 
 Feminine:
 
 ::: indent
+
 ⟪स्वसृ⟫ f. is declined like ⟪दातृ⟫, with the exception of the accusative plural (⟪द्वितीया⟫): :sig[⟪स्वसॄस्⟫].
+
 :::
+
 ### 42.1.2. Nominal formation: ⟪कृत्⟫ suffix -⟪तृ⟫
 
 ::: grammar-box
+
 With the very frequently occurring ⟪कृत्⟫ suffix -⟪तृ⟫, agent nouns (terms for the ⟪कर्तृ⟫) are formed from almost every root or causative stem.
 
 **Formation:**
@@ -68,10 +79,13 @@ With the very frequently occurring ⟪कृत्⟫ suffix -⟪तृ⟫, agen
 or
 
 *   **strong root / causative stem + i + tṛ**
+
 :::
+
 Examples:
 
 ::: indent
+
 ⟪कर्तृ⟫ m. "agent"
 
 ⟪जेतृ⟫ m. "victor"
@@ -81,23 +95,32 @@ Examples:
 ⟪रक्षितृ⟫ m. "protector"
 
 ⟪बोधयितृ⟫ m. "awakener"
+
 :::
+
 ::: media
+
 ![lekt4201.jpg](/images/lekt4201.jpg)
+
 Fig.: ⟪अयं बोधयिता⟫
 (Image source: [Details](/sv/licenses#lekt4201))
+
 :::
 
 ::: grammar-box
+
 Neuters with the ending -⟪तृ⟫ that occur rarely have a partially independent declension (see Kielhorn, Grammar § 148).
 
 The feminine of the stems in -⟪तृ⟫ ends in **-⟪त्री⟫** (like ⟪देवी⟫).
 
 e.g. ⟪कर्त्री⟫ f. "female agent"
+
 :::
+
 ### 42.1.3. Stems with strong grade in the strong stem
 
 ::: grammar-box
+
 The following kinship terms belong here:
 
 *   ⟪पितृ⟫ m. "father"
@@ -114,14 +137,19 @@ The following kinship terms belong here:
 *   **weak stem**
 *   **before vowel: -r**
 *   **before consonant: -ṛ**
+
 :::
+
 Examples:
 
 ::: indent
+
 ⟪पितृ⟫ m. "father"
 
 ⟪मातृ⟫ f. "mother"
+
 :::
+
 ::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
@@ -131,14 +159,18 @@ Examples:
 | Rest as in ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
+
 ### 42.1.4. Stems in -ṛ in compounds
 
 ::: grammar-box
+
 As the first member of a compound, nouns in -ṛ naturally stand in their weak stem, i.e.
 
 *   **before consonant: -ṛ**
 *   **before vowel: -r**
+
 :::
+
 ## 42.2. Word List
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primal matter, prime substance
@@ -148,8 +180,11 @@ As the first member of a compound, nouns in -ṛ naturally stand in their weak s
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to keep away from, to refrain, to remain, to stand
 
 ::: indent
+
 PPP ⟪अवस्थित⟫ 3: standing, being present
+
 :::
+
 ⟪पुरा⟫ Adv.: once, formerly
 
 ⟪अनेक⟫ 3: many (not a few)
@@ -171,6 +206,7 @@ PPP ⟪अवस्थित⟫ 3: standing, being present
 ⟪चल्⟫ 1P ⟪चलति⟫ : to set in motion
 
 ::: indent
+
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -178,7 +214,9 @@ Caus. ⟪चलयति । चालयति⟫
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
+
 :::
+
 ⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: vanity, pride
 
 ⟪चिन्तापर⟫ 3: absorbed in thought
@@ -196,6 +234,7 @@ Inf. ⟪चलितुम्⟫
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : to praise, to command
 
 ::: indent
+
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -203,16 +242,22 @@ Caus. ⟪शंसयति⟫
 PPP ⟪शस्त⟫  
 Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
+
 :::
+
 ⟪हृदय⟫ n.: heart
 
 ### 42.2.1. Some Kinship Terms
 
 ::: media
+
 ![lekt4202.jpg](/images/lekt4202.webp)
+
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Image source: [Details](/sv/licenses#lekt4202))
+
 :::
+
 ⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Wife (⟪भार्या⟫ = gerundive of ⟪भृ⟫ : one to be carried, one to be sustained, one entitled to maintenance)
@@ -271,17 +316,25 @@ Translate:
 ⟪प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥ कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥⟫
 
 ::: media
+
 ![lekt4203.jpg](/images/lekt4203.webp)
+
 Fig.: ⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫
 (Image source: [Details](/sv/licenses#lekt4203))
+
 :::
+
 ⟪आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥⟫
 
 ::: media
+
 ![lekt4204.jpg](/images/lekt4204.webp)
+
 Fig.: ⟪अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।⟫
 (Image source: [Details](/sv/licenses#lekt4204))
+
 :::
+
 ⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥ भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥ सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥६॥ भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥७॥ क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥८॥ नप्तॄणां लाभं पितैच्छत् ॥९॥⟫
 
 ## 42.4. Translation Exercise
@@ -291,10 +344,14 @@ sig[⟪सीता⟫]⟪विवाहः पुरा⟫ :sig[⟪मिथ�
 ⟪जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ -- ⟪तस्य सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक ।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत । श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
 ::: media
+
 ![lekt4208.jpg](/images/lekt4208.webp)
+
 Fig.: ⟪धनुर्द्वेधा भग्नं बभूव⟫
 (Image source: [Details](/sv/licenses#lekt4208))
+
 :::
+
 ⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं निरवर्तयन् ॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
@@ -304,17 +361,25 @@ Explanation of the **red** highlighted expressions:
 ⟪सीता⟫ f. proper name: daughter of King ⟪जनक⟫ from ⟪विदेह⟫. She had emerged from the earth when the king once plowed the field, hence her name: ⟪सीता⟫ f. "furrow"
 
 ::: media
+
 ![lekt4205.jpg](/images/lekt4205.webp)
+
 Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Image source: [Details](/sv/licenses#lekt4205))
+
 :::
+
 ⟪मिथिला⟫ f. Proper name: Capital of ⟪विदेह⟫
 
 ::: media
+
 ![lekt4206.jpg](/images/lekt4206.webp)
+
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Image source: [Details](/sv/licenses#lekt4206))
+
 :::
+
 ⟪जनक⟫ m. Proper name: King of ⟪विदेह गुरुतर⟫ 3: Comparative to ⟪गुरु⟫ 3: heavier, very heavy
 
 ⟪धनुस्⟫ Nom.Acc.sg.n. to ⟪धनुस्⟫ n. "bow"
@@ -326,13 +391,16 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 ⟪रावण⟫ m. Proper name; ruler of ⟪लङ्का⟫, ruler of the ⟪राक्षस⟫.
 
 ::: media
+
 ![lekt4207.jpg](/images/lekt4207.webp)
+
 Fig.: ⟪रावणः⟫
 (Image source: [Details](/sv/licenses#lekt4207))
+
 :::
+
 ⟪अयोध्या⟫ f. Proper name: Capital of ⟪कोसल⟫ (see map above!)
 
 ⟪दशरथ⟫ m. Proper name: King of ⟪कोसल राम⟫ m. Proper name: Son of the ⟪दशरथ लक्ष्मन⟫ m. Proper name: Son of the ⟪दशरथ विश्वामित्र⟫ m. Proper name: ⟪ऋषि⟫, marched with ⟪राम⟫ and ⟪लक्ष्मन⟫ to kill demons; for this, the two receive magical weapons from him.
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual to ⟪सीताराम⟫
-

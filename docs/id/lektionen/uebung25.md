@@ -64,10 +64,14 @@ Para Buddha dan Arhat terbebas dari penderitaan. Karena mereka telah mencapai wa
 Melalui keserakahan, kebencian, dan kebingungan, orang-orang menjadi rusak. Ketika waktunya tiba, mereka kemudian jatuh ke dalam neraka.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Sumber gambar: [Details](/en/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 The Kṣatriya brings heroic warriors from the metropolis to fight the village of the enemies.
 
@@ -87,7 +91,7 @@ Ohne Rāma.
 Petunjuk seorang orang suci berkontribusi pada kebajikan, bukan petunjuk seseorang yang tidak suci.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma menunggu Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
 It goes easily (happily).
@@ -115,10 +119,14 @@ If someone, out of arrogance, greed, anger, or fear, pronounces a false judicial
 Hells arise because of evil, evil arises from poverty, poverty arises from not giving.
 
 ::: media
+
 ![](/images/uebung041.webp)
+
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Sumber gambar: [Details](/en/licenses#uebung041))
+
 :::
+
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟩  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
 Seorang pencuri dibebaskan dari dosa pencurian melalui hukuman atau pembebasan. Namun, jika raja tidak menghukumnya, maka ia mengambil alih dosa pencuri tersebut.
@@ -131,9 +139,13 @@ Seorang pencuri dibebaskan dari dosa pencurian melalui hukuman atau pembebasan. 
 Ekonomi berguna karena menghasilkan biji-bijian, ternak, emas, logam, dan tenaga kerja.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Sumber gambar: [Details](/en/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
 Oleh karena itu, ketiga ilmu pengetahuan memiliki tongkat (daṇḍa) sebagai fondasinya. Tongkat, yang merupakan dasar dari perilaku baik, membawa makhluk-makhluk pada perolehan dan kepemilikan yang aman. Perilaku baik dapat diperoleh atau bersifat bawaan. Aktivitas mendidik materi yang sesuai, bukan yang tidak sesuai. Pengetahuan mendidik pikiran yang telah mencapai kebenaran melalui ketaatan, mendengarkan, memahami, mengerti, dan refleksi, bukan pikiran lain. ... Karena dari mendengar muncul pengetahuan, dari pengetahuan muncul praktik, dari praktik muncul penguasaan diri; demikianlah ilmu-ilmu tersebut mencapai tujuan mereka. Pengetahuan dan perilaku baik adalah penyebab kemenangan atas indra-indra. Hal ini diperlukan untuk melepaskan nafsu, kebencian, keserakahan, keangkuhan, mabuk, dan keguncangan.

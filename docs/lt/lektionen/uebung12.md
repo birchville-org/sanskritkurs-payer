@@ -60,7 +60,7 @@ C) Pavartokite sakinius iš [10 pamokos](lektion10.md), C pratimo, neveikiamojoj
 
 8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं देवी क्त्रिया रक्षति अनया देव्या क्षत्रिया रक्षिताः ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 Möglichkeiten)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 galimybės)
 ⟪क्षत्रियैर्विष्णुरिष्टः । क्षत्रियाभिर्विष्णुरिष्टः ।⟫
 
 10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो ऽग्निं करोति ब्राह्मणेनाग्निः कृतः ।⟫
@@ -78,7 +78,10 @@ C) Pavartokite sakinius iš [10 pamokos](lektion10.md), C pratimo, neveikiamojoj
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के योधाः क्षत्रियैः सह युध्यन्ते कैर्योधैः क्षत्रियैः सह युद्धम् ।⟫
 
 ::: media
+
 ![](/images/uebung020.webp)
+
 Pav.: ⟪ब्राह्मणो ऽग्निं करोति⟫
 (Nuotraukos šaltinis: [Išsamiau](/licenses#uebung020))
+
 :::

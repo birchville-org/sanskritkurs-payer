@@ -13,8 +13,11 @@ status: stable
 ## 14.1. Udtrykket af forholdet mellem det, der betegnes ved substantiver: genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sjette kasusendelse)
 
 ::: grammar-box
+
 Hvis forholdet mellem det, der udtrykkes ved to substantiver, skal angives, anvendes genitiv (ṣaṣṭhī f. "sjette kasusendelse"). Genitivet adskiller sig fra alle øvrige kasuser derved, at det — med få undtagelser — ikke tjener til nærmere bestemmelse af den handling, der udtrykkes ved verbet, men til at angive forholdet mellem personer eller ting, som betegnes ved substantiver. Genitivet står ofte til spørgsmålet: Hvems?
+
 :::
+
 Eksempler:
 
 ⟪कवेः पुत्रः⟫ "Digterens søn"
@@ -26,13 +29,17 @@ Eksempler:
 ⟪रामस्य कृतम्⟫ "Rāmas gerning / En gerning fra Rāma"
 
 ::: grammar-box
+
 Den normale ordstilling er:
 
 > **Bestemmende ord i genitiv — Nærmere bestemt substantiv i en anden kasus**
+
 :::
+
 **Genitiv og PPP:**
 
 ::: grammar-box
+
 Ved PPP'er kan genitivet i stedet for instrumentalis (tṛtīyā) stå for agenten (kartṛ); I konstruktionen med instrumentalis betragtes PPP'et som en passiv verbalform (det, der står i instrumentalis, betegner agenten), mens konstruktionen med genitiv betragter PPP'et som et substantiv eller adjektiv (det, der står i genitiv, betragtes altså ikke egentlig som agent).
 
 Ifølge Pāṇini 2.3.67 står der genitiv ved PPP'et, hvis PPP'et har præsensbetydning (se ovenfor), og instrumentalis, hvis PPP'et har fortidsbetydning:
@@ -42,7 +49,9 @@ Ifølge Pāṇini 2.3.67 står der genitiv ved PPP'et, hvis PPP'et har præsensb
 > ⟪रामेणेष्टं फलम्⟫ "Den frugt, som Rāma har ønsket"
 
 Selvfølgelig står der i tilfælde af et PPP neutrum singular, som bruges som verbalabstraktum - altså som substantiv - genitiv.
+
 :::
+
 ## 14.2. Dannelsen af genitivformerne (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Genitiv dannes ved verbale stammer med stammeafstivning fra den svage stamme.
@@ -56,6 +65,7 @@ Efter konsonant er de regelmæssige genitivendelser:
 * Plural: **-ām**
 
 :::
+
 ::: center
 
 | Nominalstamme | Svag stamme | Genitiv singular | Genitiv plural |
@@ -64,6 +74,7 @@ Efter konsonant er de regelmæssige genitivendelser:
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
+
 **Genitiv af vokalisk udløbende stammer, undtagen entstavelige rodnomina og diphongisk udløbende stammer:**
 
 **Plural:**
@@ -75,6 +86,7 @@ Genitiv plural af vokalisk udløbende stammer dannes således:
 > **-lang udløbende vokal af stammen + -nām**
 
 :::
+
 ::: center
 
 | Nominalstamme | Genitiv plural |
@@ -89,6 +101,7 @@ Genitiv plural af vokalisk udløbende stammer dannes således:
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
+
 **Genitiv singular af vokalisk stammende stammer:**
 
 ::: grammar-box
@@ -96,6 +109,7 @@ Genitiv plural af vokalisk udløbende stammer dannes således:
 Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør indlæres udenad.
 
 :::
+
 ::: center
 
 | Stammen | Genitiv singular |
@@ -110,6 +124,7 @@ Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør ind
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(dvs. enten som paśu eller som flerstavelige feminina på -ū) |
 
 :::
+
 **Interrogativ- og demonstrativpronomen:**
 
 ::: center
@@ -122,6 +137,7 @@ Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør ind
 | | **Genitiv plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
+
 **Formensammenfald:**
 
 ::: important
@@ -131,9 +147,11 @@ Hos alle nominalstammer undtagen maskulina og neutra på -a samt pronominerne er
 Bemærk, at ved stammer med konsonantisk udlødning er ablativ og genitiv ental enslydende med akkusativ flertal maskulinum og femininum!
 
 :::
+
 ## 14.3. Yderligere om brugen af genitiv (⟪षष्ठी⟫)
 
 ::: grammar-box
+
 I modsætning til ovenstående grundregel bruges genitiv til at udtrykke objektet for nogle verber, f.eks. ved minder-verber:
 
 > ⟪देवानां स्मरति⟫ "Han mindes guderne"
@@ -143,7 +161,9 @@ For alle disse verber kan objektet dog også stå i akkusativ:
 > ⟪देवान्स्मरति⟫ "Han mindes guderne"
 
 Yderligere senere.
+
 :::
+
 ## 14.4. Ordbog
 
 * **śīla n.** (⟪शील⟫) : (godt) karakter, moral
@@ -151,10 +171,14 @@ Yderligere senere.
 * **dīpa m.** (⟪दीप⟫) : lampe
 
 ::: media
+
 ![](/images/lekt1405.webp)
+
 Fig.: ⟪दीपाः⟫
 (Billedkilde: [Detaljer](/da/licenses#lekt1405))
+
 :::
+
 * **bala n.** (⟪बल⟫) : magt, styrke; hærstyrke, hærschar
 * **bāla 3** (⟪बाल⟫) : ung, barnlig, fjollet; m. dreng
 * **bālā f.** (⟪बाला⟫) : ung pige
@@ -190,22 +214,30 @@ Oversæt følgende ordsprog og lær dem udenad:
 ⟪१⟫. ⟪अनृत २⟫. ⟪ऋषि ३⟫. ⟪पाद ४⟫. ⟪बुद्धि ५⟫. ⟪गुरु ६⟫. ⟪स्वर्ग ७⟫. ⟪नगर ८⟫. ⟪धेनु ९⟫. ⟪द्विज १०⟫. ⟪मुक्ता ११⟫. ⟪विद्या १२⟫. ⟪वर्ण १३⟫. ⟪द्विजाति १४⟫. ⟪रूप १५⟫. ⟪प्रतिग्रह १६⟫. ⟪सोढ १७⟫. ⟪नायिका १८⟫. ⟪साध्वी १९⟫. ⟪अग्नि २०⟫. ⟪वैश्या २१⟫. ⟪लोक २२⟫. ⟪उक्ति २३⟫. ⟪शत्रु २४⟫. ⟪सुखवन्त् २५⟫. ⟪पुत्रवती⟫
 
 ::: media
+
 ![](/images/lekt1404.webp)
+
 Fig.: ⟪पुत्रवती⟫
 (Billedkilde: [Detaljer](/da/licenses#lekt1404))
+
 :::
+
 ⟪२६⟫. ⟪जल २७⟫. ⟪मार्ग २८⟫. ⟪मोक्ष २९⟫. ⟪शूद्रा ३०⟫. ⟪अन्न ३१⟫. ⟪साधु ३२⟫. ⟪नीति ३३⟫. ⟪योध ३४⟫. ⟪सत्यवन्त् ३५⟫. ⟪लाभ ३६⟫. ⟪मोह ३७⟫. ⟪गति ३८⟫. ⟪प्रश्न ३९⟫. ⟪सृष्टि ४०⟫. ⟪नेत्र ४१⟫. ⟪गुरुता ४२⟫. ⟪ईश्वर ४३⟫. ⟪कारण ४४⟫. ⟪कृत ४५⟫. ⟪धर्मवन्त् ४६⟫. ⟪युद्ध ४७⟫. ⟪दर्शन ४८⟫. ⟪धातु ४९⟫. ⟪गूढा ५०⟫. ⟪ईष्टा⟫ (2 betydninger)
 
 ⟪५१⟫. ⟪उदित ५२⟫. ⟪इदम् ५३⟫. ⟪किम्⟫
 
 ::: media
+
 ![](/images/lekt1403.webp)
+
 Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 (Billedkilde: [Detaljer](/da/licenses#lekt1403))
-:::
-**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
+:::
+
+**B) Oversæt:**
+
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 muligheder)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -232,7 +264,10 @@ Fig.: ⟪अयं बालः कस्याः पुत्रः ।⟫
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
+
 ![](/images/lekt1402.webp)
+
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Billedkilde: [Detaljer](/da/licenses#lekt1402))
+
 :::

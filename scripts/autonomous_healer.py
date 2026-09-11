@@ -28,6 +28,7 @@ if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
 import translation_qa as tqa
+from translation.config import LANGUAGES, LANG_NAMES
 
 LANG_CONFIG = {
     'si': {
@@ -59,6 +60,16 @@ LANG_CONFIG = {
     'zu': {
         'name': 'isiZulu (Zulu)',
         'heading_prefix': '# Isivivinyo'
+    },
+    'am': {
+        'name': 'Amharic (አማርኛ)',
+        'script_range': (0x1200, 0x137F),
+        'heading_prefix': '# ልምምድ'
+    },
+    'fa': {
+        'name': 'Persian (فارسی)',
+        'script_range': (0x0600, 0x06FF),
+        'heading_prefix': '# تمرین'
     }
 }
 
@@ -123,10 +134,10 @@ def preprocess_text(txt: str, lang: str = "") -> str:
     txt = re.sub(r'(Abb\.:[^\n]+)\n(?!\n)', r'\1\n\n', txt)
 
     # 5. Language-specific caption normalization
-    if lang == 'gez':
-        txt = re.sub(r'\(Bildquelle:', '(ምንጭ ምስሊ:', txt)
-        txt = re.sub(r'Bildquelle:', 'ምንጭ ምስሊ:', txt)
-        txt = re.sub(r'Abb\.:', 'ስዕሊ:', txt)
+    if lang in ('gez', 'am'):
+        txt = re.sub(r'\(Bildquelle:', '(የምስል ምንጭ:' if lang == 'am' else '(ምንጭ ምስሊ:', txt)
+        txt = re.sub(r'Bildquelle:', 'የምስል ምንጭ:' if lang == 'am' else 'ምንጭ ምስሊ:', txt)
+        txt = re.sub(r'Abb\.:', 'ምስል:' if lang == 'am' else 'ስዕሊ:', txt)
     elif lang == 'et':
         txt = re.sub(r'\(Bildquelle:', '(Pildi allikas:', txt)
         txt = re.sub(r'Bildquelle:', 'Pildi allikas:', txt)
@@ -137,10 +148,14 @@ def preprocess_text(txt: str, lang: str = "") -> str:
         txt = re.sub(r'Abb\.:', 'Umfanekiso:', txt)
         txt = re.sub(r'\bse-Präsens\b', 'sesikhathi esiyimanje', txt)
         txt = re.sub(r'\bPräsens\b', 'isikhathi esiyimanje', txt)
+    elif lang == 'fa':
+        txt = re.sub(r'\(Bildquelle:', '(منبع تصویر:', txt)
+        txt = re.sub(r'Bildquelle:', 'منبع تصویر:', txt)
+        txt = re.sub(r'Abb\.:', 'تصویر:', txt)
     return txt
 
 
-def extract_items_to_heal(txt: str, lang: str, detector):
+def extract_items_to_heal(txt: str, lang: str, detector, filepath: Path = None):
     """
     Identify problematic elements (headings, YAML frontmatter, paragraphs) that need translation.
     Returns:
@@ -151,6 +166,16 @@ def extract_items_to_heal(txt: str, lang: str, detector):
     cfg = LANG_CONFIG.get(lang, {})
     heading_prefix = cfg.get('heading_prefix')
     script_range = cfg.get('script_range')
+
+    # Build German master sentence set if filepath is provided
+    de_sent_set = set()
+    if filepath and lang not in tqa.DE_FALLBACK_ALLOWED:
+        fp = Path(filepath)
+        de_file = ROOT_DIR / "docs" / "lektionen" / fp.name
+        if not de_file.exists():
+            de_file = ROOT_DIR / "docs" / fp.name
+        if de_file.exists():
+            de_sent_set = tqa.get_de_sent_set(de_file)
 
     # 1. Direct fix for Exercise headings: # Übung \d+ or # Exercise \d+
     if heading_prefix:
@@ -167,7 +192,7 @@ def extract_items_to_heal(txt: str, lang: str, detector):
     yaml_m = re.match(r'^---\n(.*?)\n---\n', txt, flags=re.DOTALL)
     if yaml_m:
         for y_line in yaml_m.group(1).splitlines():
-            km = re.search(r'^(subtitle|description):\s*["\']?(.*?)["\']?\s*$', y_line, re.IGNORECASE)
+            km = re.search(r'^(subtitle|description|title):\s*["\']?(.*?)["\']?\s*$', y_line, re.IGNORECASE)
             if km:
                 field_name = km.group(1).lower()
                 y_val = km.group(2).strip()
@@ -176,8 +201,17 @@ def extract_items_to_heal(txt: str, lang: str, detector):
                 if script_range and any(script_range[0] <= ord(c) <= script_range[1] for c in y_clean):
                     # Already in target script
                     continue
-                if len(y_clean) >= 15 and not tqa.is_sanskrit_iast(y_clean):
-                    is_problematic = False
+                is_problematic = False
+                # 1. Verbatim German master check in frontmatter
+                if de_sent_set:
+                    y_clean_line = re.sub(r'[\u0900-\u097F]+', '', y_line.strip())
+                    y_clean_line = re.sub(r'⟪.*?⟫', '', y_clean_line).strip()
+                    y_clean_line = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', y_clean_line).strip()
+                    y_val_prose = re.sub(r'[\u0900-\u097F]+', '', y_val)
+                    y_val_prose = re.sub(r'⟪.*?⟫', '', y_val_prose).strip()
+                    if y_clean_line in de_sent_set or y_val_prose in de_sent_set:
+                        is_problematic = True
+                if not is_problematic and len(y_clean) >= 6 and not tqa.is_sanskrit_iast(y_clean):
                     # Check keywords
                     for kw in tqa.STRICT_DE_GRAMMAR_KEYWORDS + tqa.GERMAN_KEYWORDS:
                         if re.search(r'(?<!\w)' + re.escape(kw) + r'(?!\w)', y_clean, re.IGNORECASE):
@@ -193,12 +227,12 @@ def extract_items_to_heal(txt: str, lang: str, detector):
                                     is_problematic = True
                         except Exception:
                             pass
-                    if is_problematic:
-                        items.append({
-                            'type': 'yaml',
-                            'field': field_name,
-                            'original': y_val
-                        })
+                if is_problematic:
+                    items.append({
+                        'type': 'yaml',
+                        'field': field_name,
+                        'original': y_val
+                    })
 
     # 3. Paragraphs
     paras = txt.split('\n\n')
@@ -237,9 +271,10 @@ def extract_items_to_heal(txt: str, lang: str, detector):
             })
             continue
 
-        # 3c. Lingua LID
+        # 3c. Lingua LID (paragraph level)
         p_chk = re.sub(r'^[#|\s:-]+', '', clean_p, flags=re.M)
         p_chk = re.sub(r':br', ' ', p_chk).strip()
+        lid_hit = False
         if len(p_chk) >= 30 and not tqa.is_sanskrit_iast(p_chk):
             # Check script density for non-Latin target scripts
             if script_range:
@@ -252,21 +287,70 @@ def extract_items_to_heal(txt: str, lang: str, detector):
                 try:
                     if detector.detect_language_of(p_chk) == Language.GERMAN:
                         if not any(cit in p_chk for cit in CITATIONS):
-                            items.append({
-                                'type': 'para',
-                                'index': idx,
-                                'original': raw_p
-                            })
+                            lid_hit = True
                 except Exception:
                     pass
+
+        if lid_hit:
+            items.append({
+                'type': 'para',
+                'index': idx,
+                'original': raw_p
+            })
+            continue
+
+        # 3d. Line-level German residue & instruction detection
+        line_hit = False
+        for line in raw_p.splitlines():
+            l_clean = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', line.strip()).strip()
+            if len(l_clean) >= 12 and not l_clean.startswith('#') and not l_clean.startswith('|') and not l_clean.startswith('!'):
+                l_prose = re.sub(r'[\u0900-\u097F]+', '', l_clean)
+                l_prose = re.sub(r'⟪.*?⟫', '', l_prose).strip()
+                words = set(re.findall(r'\b[a-zäöüß]+\b', l_prose.lower()))
+                if words.intersection(tqa.COMMON_DE_WORDS | {'übersetzen', 'bilden', 'setzen', 'formt', 'ergänzen', 'bestimmen', 'schreiben', 'möglichkeiten'}):
+                    if detector:
+                        try:
+                            if detector.detect_language_of(l_prose) == Language.GERMAN:
+                                if not any(cit in l_prose for cit in CITATIONS):
+                                    line_hit = True
+                                    break
+                        except Exception:
+                            pass
+        if line_hit:
+            items.append({
+                'type': 'para',
+                'index': idx,
+                'original': raw_p
+            })
+            continue
+
+        # 3e. Verbatim German Master Sentence Check
+        if de_sent_set:
+            de_line_hit = False
+            for line in raw_p.splitlines():
+                l_clean = line.strip()
+                if len(l_clean) >= 15 and not l_clean.startswith('|') and not l_clean.startswith(':::') and not l_clean.startswith('!['):
+                    l_prose = re.sub(r'[\u0900-\u097F]+', '', l_clean)
+                    l_prose = re.sub(r'⟪.*?⟫', '', l_prose).strip()
+                    l_prose = re.sub(r'^[0-9\.\s\\=\-/*>\(\)]+', '', l_prose).strip()
+                    if l_prose and l_prose in de_sent_set:
+                        de_line_hit = True
+                        break
+            if de_line_hit:
+                items.append({
+                    'type': 'para',
+                    'index': idx,
+                    'original': raw_p
+                })
+                continue
 
     return txt, items
 
 
-def heal_file_pass(txt: str, lang: str, api_key: str, detector, de_exact: bool = False) -> str:
+def heal_file_pass(txt: str, lang: str, api_key: str, detector, de_exact: bool = False, filepath: Path = None) -> str:
     """Execute a single healing translation pass on text content."""
-    target_lang_name = LANG_CONFIG.get(lang, {}).get('name', lang)
-    txt, items = extract_items_to_heal(txt, lang, detector)
+    target_lang_name = LANG_CONFIG.get(lang, {}).get('name') or LANG_NAMES.get(lang, lang)
+    txt, items = extract_items_to_heal(txt, lang, detector, filepath=filepath)
 
     if not items and not de_exact:
         return txt
@@ -335,7 +419,9 @@ def heal_file(filepath: Path, lang: str, api_key: str, detector, dry_run: bool =
     txt = filepath.read_text(encoding='utf-8', errors='ignore')
     txt = preprocess_text(txt, lang)
 
-    tmp_path = Path(f"/tmp/payer_healer_verify_{lang}_{os.getpid()}_{filepath.name}")
+    tmp_dir = Path(f"/tmp/payer_healer_verify_{lang}_{os.getpid()}")
+    tmp_dir.mkdir(parents=True, exist_ok=True)
+    tmp_path = tmp_dir / filepath.name
 
     # Check if preprocessing alone resolved the fallback
     tmp_path.write_text(txt, encoding='utf-8')
@@ -359,7 +445,7 @@ def heal_file(filepath: Path, lang: str, api_key: str, detector, dry_run: bool =
             is_exact_copy = True
 
     # Pass 1
-    healed_txt = heal_file_pass(txt, lang, api_key, detector, de_exact=is_exact_copy)
+    healed_txt = heal_file_pass(txt, lang, api_key, detector, de_exact=is_exact_copy, filepath=filepath)
     tmp_path.write_text(healed_txt, encoding='utf-8')
     fb, reason = tqa.is_file_fallback(tmp_path, lang)
     if not fb:
@@ -369,7 +455,7 @@ def heal_file(filepath: Path, lang: str, api_key: str, detector, dry_run: bool =
         return True
 
     # Pass 2 (Retry on remaining residues)
-    healed_txt_2 = heal_file_pass(healed_txt, lang, api_key, detector, de_exact=False)
+    healed_txt_2 = heal_file_pass(healed_txt, lang, api_key, detector, de_exact=False, filepath=filepath)
     tmp_path.write_text(healed_txt_2, encoding='utf-8')
     fb2, reason2 = tqa.is_file_fallback(tmp_path, lang)
     tmp_path.unlink(missing_ok=True)
@@ -466,7 +552,13 @@ def main():
     parser.add_argument("--verbose", action="store_true", help="Verbose log output")
     args = parser.parse_args()
 
-    target_langs = [args.lang] if args.lang != 'all' else ['si', 'is', 'sl', 'gez', 'sv', 'et', 'zu']
+    if args.lang == 'all':
+        target_langs = list(LANGUAGES)
+    elif ',' in args.lang:
+        target_langs = [l.strip() for l in args.lang.split(',') if l.strip()]
+    else:
+        target_langs = [args.lang]
+
     for l in target_langs:
         run_healer(l, dry_run=args.dry_run, max_files=args.max_files, reverse=args.reverse, skip_files=args.skip, verbose=args.verbose)
 

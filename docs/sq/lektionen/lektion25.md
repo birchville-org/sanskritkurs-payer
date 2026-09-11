@@ -140,6 +140,7 @@ Shembull:
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Njerëzit bëjnë vepra të mira. Sepse ata dëshirojnë të shkojnë në qiell."
 
+:::
 ::: indent
 ⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Njerëzit bëjnë vepra të mira. Sepse ata dëshirojnë të shkojnë në qiell."
 :::

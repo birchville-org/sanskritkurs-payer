@@ -76,7 +76,7 @@ z.B.
 
 A) Write all ligatures appearing in the list above
 
-B) Schreiben und übersetzen Sie:
+B) Skriv och översätt:
 
 1\. devo viṣṇuḥ.
 
@@ -114,12 +114,10 @@ B) Schreiben und übersetzen Sie:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+C) Skriv:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
 D) Read, transliterate, and translate:
 
 ⟪शूद्रा नृत्यन्ति⟫ | ⟪साध्व्यः स्मरन्ति⟫ | ⟪देव्यो मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः स्वर्गं गच्छति⟫ | ⟪साधवो गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
-
-

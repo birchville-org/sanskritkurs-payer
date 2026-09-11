@@ -170,7 +170,7 @@ D) From which sound combinations could the following Sandhi forms have arisen? G
 
 E) Tõlgi sanskriti keelde:
 
-1\. Die Göttin war erzürnt.
+1. Jumalanna oli vihane.
 ⟪देवी कुपिता । देव्या कुपितम्⟫
 
 2\. Śūdras sind in den Himmel gelangt.
@@ -182,7 +182,7 @@ E) Tõlgi sanskriti keelde:
 4. Buddha õpetuse läbi vabastati inimesed.
 ⟪धर्मेण जना मुक्ताः ।⟫
 
-5\. Der Sohn tanzte.
+5. Poeg tantsis.
 ⟪पुत्रेण नृत्तम् ।⟫
 
 6. Amulett kaitses õpetajat.

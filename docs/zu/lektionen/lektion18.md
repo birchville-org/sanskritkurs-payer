@@ -234,7 +234,7 @@ Beispiele:
 
 :::
 
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "ndawonye, ​​no"
 
 Beispiele:
 

@@ -77,7 +77,7 @@ Fig.: Raquinta da la partiziun dals estaments dal temp medieval europeic (xilogr
 **Estament da la nobiltad** (~Kṣatriya): Tu protege = Ti protegia!
 **Estament dals purs** (~Vaiśya/Śūdra): Tuque labora = Ed ti lavura!
 
-Ils trais estaments portan la vesta相应 da lur respectiv estament. Sora dals – uschia designads sco volì da Dieu – estaments trona Cristus.
+Ils trais estaments portan la vesta correspundenta da lur respectiv estament. Sora dals – uschia designads sco volì da Dieu – estaments trona Cristus.
 
 Max Weber (1864–1920) definexa l’estament uschia:
 
@@ -3866,6 +3866,7 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
+:::
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  

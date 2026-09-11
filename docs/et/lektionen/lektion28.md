@@ -1,5 +1,5 @@
 ---
-title: "Lektion 28"
+title: "Õppetund 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
@@ -237,7 +237,7 @@ Beispiele:
 
 **Formation type 3: zero-grade root + -aya-**
 
-**Kommt vor.**
+**Esinemine.**
 
 :::
 
@@ -342,8 +342,8 @@ Näited:
 
 **Kausatiivi tüvi sufiksiga -ay- + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+Näide:
+**sthāpayitvā** (sthā-pay-i-tvā) "pärast püstitamist"
 
 :::
 
@@ -361,8 +361,8 @@ Näited:
 
 **Kui aga kausatiivi juursilp sisaldab lühikest -a-d enne ühte konsonanti, liitub absolutiivi -ya kausatiivi tüvele sufiksiga -ay- (ilma lõppeva a-ta)**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+Näide:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "pärast seda, kui ta oli lasknud tulla"
 
 :::
 

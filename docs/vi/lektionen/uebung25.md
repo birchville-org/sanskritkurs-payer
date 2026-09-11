@@ -65,10 +65,14 @@ Các Phật và A-la-hán đã được giải thoát khỏi khổ đau. Họ th
 Do tham lam, sân hận và si mê, con người bị hủy hoại. Khi thời điểm đến, họ rơi vào địa ngục.
 
 ::: media
+
 ![](/images/uebung040.webp)
+
 Hình: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
 (Nguồn ảnh: [Chi tiết](/licenses#uebung040))
+
 :::
+
 ⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
 Vị Kṣatriya mang những chiến binh anh hùng từ thành phố lớn để đối đầu với kẻ thù của ngôi làng.
 
@@ -88,7 +92,7 @@ Không có Rāma.
 Việc học tập của một vị thánh mang lại đức hạnh, không phải việc học tập của kẻ bất chính.
 
 ⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
-Rāma wartet auf Kṛṣṇa.
+Rāma đợi Kṛṣṇa.
 
 ⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
 Mọi việc đều dễ dàng (trọn vẹn).
@@ -112,7 +116,7 @@ Nếu ai đó, vì kiêu ngạo, tham lam, giận dữ hoặc sợ hãi mà đư
 ⟪भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥ ३ ॥⟫  
 Địa ngục sinh ra do cái ác, cái ác sinh ra từ sự nghèo khó, sự nghèo khó sinh ra từ việc không cho đi.
 
-:::
+
 ⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
 Một kẻ trộm được giải thoát khỏi tội trộm cắp nhờ hình phạt hoặc nhờ sự ân xá. Nhưng nếu nhà vua không trừng phạt kẻ đó, nhà vua sẽ gánh lấy tội lỗi của kẻ trộm.
 
@@ -124,9 +128,13 @@ Một kẻ trộm được giải thoát khỏi tội trộm cắp nhờ hình p
 Kinh tế mang lại lợi ích vì nó đem lại ngũ cốc, gia súc, vàng, kim loại và lao động.
 
 ::: media
+
 ![](/images/uebung042.webp)
+
 Hình: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Nguồn ảnh: [Chi tiết](/licenses#uebung042))
+
 :::
+
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
 Vì vậy, ba ngành khoa học đều lấy vương trượng (daṇḍa) làm nền tảng. Vương trượng vốn là nền tảng của đức hạnh tốt, mang lại cho muôn loài sự sở hữu và an định. Đức hạnh tốt là do rèn luyện hoặc bẩm sinh. Hành động thực tiễn chỉ rèn luyện được chất liệu phù hợp, chứ không phải chất liệu không phù hợp. Tri thức rèn luyện một tâm trí đã đạt đến chân lý nhờ vâng lời, lắng nghe, thấu hiểu, liễu tri và suy xét, chứ không phải tâm trí khác. ... Bởi vì từ những gì nghe được sinh ra nhận thức, từ nhận thức sinh ra thực hành, từ thực hành sinh ra sự tự chủ; như thế các ngành khoa học đáp ứng đúng mục đích của chúng. Tri thức và đức hạnh tốt là nguyên nhân để chiến thắng các giác quan. Điều này cần thiết để từ bỏ ái dục, sân hận, tham lam, kiêu mạn, say đắm và kích động.

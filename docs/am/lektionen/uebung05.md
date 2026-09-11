@@ -81,7 +81,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (ከካውጢሊያ-አርታሻስትራ 1.2.1 የተወሰደ)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫
 
@@ -92,10 +92,14 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 ⟪आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।⟫
 
 ::: media
+
 ![](/images/uebung010.webp)
+
 ስዕል፡ ⟪अभ्निवेशो न वा ।⟫
 (ምንጭ፡ [ዝርዝር](/licenses#uebung010))
+
 :::
+
 ---
 
 ## የሁለተኛ ልምምድ ልምምድ ክፍል 5
@@ -165,7 +169,10 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 ⟪मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः ॥⟫
 
 ::: media
+
 ![](/images/uebung009.webp)
+
 ስዕል፡ ⟪ऋग्वेदः⟫
 (ምስል ምንጭ፡ [ዝርዝር](/licenses#uebung009))
+
 :::
