@@ -14,6 +14,7 @@ last_reconstructed: 2026-04-30
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Verehrung des Gaṇeśa
+::: \n grammar-box
 :::
 
 ::: media
