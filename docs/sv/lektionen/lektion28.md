@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-16
 
 ---
 
-# Lesson 28
+# Lektion 28
 
 ## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 

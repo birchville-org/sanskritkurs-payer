@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 26
+# Lektion 26
 
 ## 26.1. Cerebralization rule for -s- within the word
 
@@ -183,7 +183,7 @@ Examples:
 
 :::
 
-## 26.8. Exercise
+## 26.8. Övning
 
 Form the corresponding future forms in number, person and voice (Parasmaipada, Ātmanepada):  
 

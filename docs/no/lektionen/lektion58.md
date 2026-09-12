@@ -1,5 +1,5 @@
 ---
-title: "Lesson 58"
+title: "Leksjon 58"
 subtitle: "The Dual Primary Endings (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 58
+# Leksjon 58
 
 ## 58.1. The Dual Endings (⟪द्विवचनम्⟫)
 
@@ -369,7 +369,7 @@ Paradigms:
 Fig.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt5808))
 :::
-## 58.7. Exercise
+## 58.7. Oppgave
 
 A) Determine and translate the following forms without aids, and form the corresponding i-aorist forms:
 

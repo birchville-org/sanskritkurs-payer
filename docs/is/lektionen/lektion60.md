@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 60
+# Kennslustund 60
 
 ## 60.1. The Dual Endings of the Perfect (⟪द्विवचनम्⟫)
 
@@ -520,7 +520,7 @@ Passive: ⟪यियक्ष्यते⟫ "it is wished to be sacrificed"
 
 For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
 
-## 60.7. Exercise
+## 60.7. Æfing
 
 A) Learn in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far:
 

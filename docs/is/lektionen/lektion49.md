@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 49
+# Kennslustund 49
 
 ## 49.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)
 
@@ -310,7 +310,7 @@ Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Image source: [Details](/is/licenses#lekt4906))
 :::
-## 49.5. Morphology Review Exercise
+## 49.5. Upprifjunaræfing í beygingarfræði
 
 Determine the following forms:
 
@@ -354,7 +354,7 @@ Determine the following forms:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Translation Exercise
+## 49.6. Þýðingaræfing
 
 ⟪बान⟫ (7th cent. CE): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35f.
 

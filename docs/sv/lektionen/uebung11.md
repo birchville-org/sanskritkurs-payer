@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 11
+# Övning 11
 
 A) Translate the following sentences
 
@@ -72,7 +72,7 @@ Abb.: ⟪केनाग्निरिज्यते ।⟫
 :::
 ---
 
-## Additional Exercises
+## Ytterligare övningar
 
 A) Translate into Sanskrit using passive constructions:
 

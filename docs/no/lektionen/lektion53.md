@@ -1,10 +1,10 @@
 ---
-title: "Lesson 53"
+title: "Leksjon 53"
 lesson_id: 53
 
 ---
 
-# Lesson 53
+# Leksjon 53
 
 ## 53.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
 
@@ -617,7 +617,7 @@ The second and third syllable of a ⟪पाद⟫ should not both be ⟪लघ�
 × × × ×   / — ◡ — —
 :::
 **In all Śloka forms, the main caesura is at the end of the 2nd ⟪पाद⟫: there is either word end or — in the case of long compounds — end of a compound component.**
-## 53.11. Exercise
+## 53.11. Oppgave
 
 ::: grammar-box
 **Identify the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**

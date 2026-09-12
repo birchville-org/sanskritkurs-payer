@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 37
+# Lektion 37
 
 ## 37.1. The Adverb (⟪क्रियाविशेषणम्⟫)
 
@@ -413,7 +413,7 @@ Note: ⟪किम्⟫ can mean not only "what?" but also as a question partic
 
 :::
 
-## 37.9. Vocabulary List
+## 37.9. Ordlista
 
 ⟪मूर्ख⟫ 3: dull-witted, stupid, foolish m. fool
 
@@ -449,7 +449,7 @@ Fig.: ⟪वृक्षः⟫
 
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Exercise
+## 37.10. Övning
 
 A) Answer the following questions in Sanskrit using the words provided in parentheses. Translate the question sentences.
 
@@ -613,7 +613,7 @@ Fig.: ⟪उपवृक्षं सीदन्ति⟫
 
 :::
 
-## 37.11. Review Exercise
+## 37.11. Repetitionsövning
 
 Translate into Sanskrit using exclusively perfect verb forms:
 

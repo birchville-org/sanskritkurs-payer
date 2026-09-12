@@ -231,7 +231,7 @@ Fig.: ⟪किमयं रथो बालान् सुखतां वह�
 
 ---
 
-## Exercise on Sandhi
+## Övningr on Sandhi
 
 Insert the words in parentheses into the following sentences and observe the rules of Sandhi:
 
@@ -256,7 +256,7 @@ Insert the words in parentheses into the following sentences and observe the rul
 
 ---
 
-## Additional Sanskrit Translations
+## Fler översättningar till sanskrit
 
 1. After the son is born, the Brahmin woman sends a servant to the Brahmin.
 **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति ।⟫**

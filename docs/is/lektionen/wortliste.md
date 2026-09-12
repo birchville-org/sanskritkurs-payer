@@ -8,7 +8,7 @@ outline: 2
 *All new words from the course in the order of their introduction, with thematic explanations.*
 
 
-## Lesson 2
+## Kennslustund 2
 
 
 
@@ -143,7 +143,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : person worthy of veneration: father, mother, elder relative, esp. teacher, master
 
-## Lesson 3
+## Kennslustund 3
 
 
 
@@ -222,7 +222,7 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
 
-## Lesson 5
+## Kennslustund 5
 
 
 
@@ -283,7 +283,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : bæði ... og.
 
-## Lesson 6
+## Kennslustund 6
 
 
 
@@ -320,7 +320,7 @@ In Sanskrit, verbs are cited in the **root form**. The number following the root
 **viś** 6 P (viśati) ⟪विश् विशति⟫ : ganga inn
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : sleppa, gefa frá sér, láta streyma út
 
-## Lesson 7
+## Kennslustund 7
 
 
 
@@ -361,7 +361,7 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 **aṅga** n. ⟪अङ्ग⟫ : limb of the body, component; also = **vedāṅga** = ⟪वेदाङ्ग⟫
 **gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : to go (According to the indigenous verb classification, it belongs to Present Class 1, but is in reality a formation with a present stem-forming suffix **-ccha-**: **gam** » Strengthened grade (**gm** ») **ga-ccha-ti**)
 
-## Lesson 8
+## Kennslustund 8
 
 
 
@@ -416,7 +416,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 **sukha** n. ⟪सुख⟫ : happiness, well-being
 **duḥkha** n. ⟪दुःख⟫ : unhappiness, suffering
 
-## Lesson 9
+## Kennslustund 9
 
 
 
@@ -470,7 +470,7 @@ to **yaj** 1 U:
 **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : trade
 **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
 
-## Lesson 10
+## Kennslustund 10
 
 
 
@@ -659,7 +659,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ---
 
-## Lesson 11
+## Kennslustund 11
 
 
 
@@ -713,7 +713,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣ** 6 P ⟪इष्⟫ : to wish
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
-## Lesson 12
+## Kennslustund 12
 
 
 
@@ -921,7 +921,7 @@ dviṣ 2 U:
 
 :::
 
-## Lesson 14
+## Kennslustund 14
 
 
 
@@ -962,7 +962,7 @@ Fig.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : speaking, the word
 * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
 
-## Lesson 15
+## Kennslustund 15
 
 
 
@@ -1090,7 +1090,7 @@ from this:
 
 :::
 
-## Lesson 16
+## Kennslustund 16
 
 
 
@@ -1181,7 +1181,7 @@ Abb.: ⟪अहिंसा⟫
 
 :::
 
-## Lesson 17
+## Kennslustund 17
 
 
 
@@ -1271,7 +1271,7 @@ from this:
 
 :::
 
-## Lesson 18
+## Kennslustund 18
 
 
 
@@ -1317,7 +1317,7 @@ from this:
 
 ⟪प्रभृति⟫ f.: beginning
 
-## Lesson 19
+## Kennslustund 19
 
 
 
@@ -1467,7 +1467,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟩ :** for, indeed (must never stand at the beginning of a sentence)
 
-## Lesson 20
+## Kennslustund 20
 
 
 
@@ -1585,7 +1585,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir oneself
 
-## Lesson 21
+## Kennslustund 21
 
 
 
@@ -1670,7 +1670,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## Lesson 22
+## Kennslustund 22
 
 
 
@@ -1760,7 +1760,7 @@ Goa = ⟪गोंय⟫
 
 :::
 
-## Lesson 23
+## Kennslustund 23
 
 
 
@@ -1782,7 +1782,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## Kennslustund 24
 
 
 
@@ -1949,7 +1949,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## Kennslustund 25
 
 
 
@@ -2197,7 +2197,7 @@ Fig.: ⟪हिरण्यम्⟫
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
 :::
-## Lesson 27
+## Kennslustund 27
 
 
 
@@ -2321,7 +2321,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 :::
 
-## Lesson 28
+## Kennslustund 28
 
 
 
@@ -2432,7 +2432,7 @@ Girl carrying load. Near Ahmedabad.
 
 ⟪भृत्य⟫ m.: subordinate, servant
 
-## Lesson 29
+## Kennslustund 29
 
 
 
@@ -2543,7 +2543,7 @@ PPP ⟪पूजित⟫
 
 :::
 
-## Lesson 30
+## Kennslustund 30
 
 
 
@@ -2725,7 +2725,7 @@ from this:
 
 ⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## Lesson 31
+## Kennslustund 31
 
 
 
@@ -2907,7 +2907,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** limb, body
 
-## Lesson 32
+## Kennslustund 32
 
 
 
@@ -3081,7 +3081,7 @@ Mehndi painting on hands in Mumbai.
 
 :::
 
-## Lesson 33
+## Kennslustund 33
 
 
 
@@ -3307,7 +3307,7 @@ Fig.: ⟪घृतमग्नौ जुहोति⟫
 
 :::
 
-## Lesson 34
+## Kennslustund 34
 
 
 
@@ -3417,7 +3417,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Kennslustund 35
 
 
 
@@ -3494,7 +3494,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## Lesson 36
+## Kennslustund 36
 
 
 
@@ -3721,7 +3721,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: own (my, your ...) m.: member
 
-## Lesson 37
+## Kennslustund 37
 
 
 
@@ -3769,7 +3769,7 @@ Fig.: ⟪वृक्षः⟫
 
 ⟪मुख⟫ n.: Mouth, face, front part, beginning
 
-## Lesson 38
+## Kennslustund 38
 
 
 
@@ -3953,7 +3953,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 :::
 
-## Lesson 40
+## Kennslustund 40
 
 
 
@@ -4103,7 +4103,7 @@ Fig.: ⟪स्वपन्ति⟫
 
 :::
 
-## Lesson 41
+## Kennslustund 41
 
 
 
@@ -4208,7 +4208,7 @@ PPP ⟪अतीत⟫ : n. past
 
 :::
 
-## Lesson 42
+## Kennslustund 42
 
 
 
@@ -4358,7 +4358,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, th
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Kennslustund 43
 
 
 
@@ -4516,7 +4516,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Kennslustund 44
 
 
 
@@ -4714,7 +4714,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## Lesson 45
+## Kennslustund 45
 
 
 
@@ -4730,7 +4730,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## Lesson 46
+## Kennslustund 46
 
 
 
@@ -5060,7 +5060,7 @@ Fig.: [⟪भोः⟫](/licenses#lekt4611)
 
 :::
 
-## Lesson 48
+## Kennslustund 48
 
 
 
@@ -5211,7 +5211,7 @@ Fig.: ⟪मम जाया⟫
 
 :::
 
-## Lesson 49
+## Kennslustund 49
 
 
 
@@ -5409,7 +5409,7 @@ Sri Lanka
 
 :::
 
-## Lesson 50
+## Kennslustund 50
 
 
 
@@ -5569,7 +5569,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## Kennslustund 51
 
 
 
@@ -5897,7 +5897,7 @@ Absol. ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Kennslustund 52
 
 
 

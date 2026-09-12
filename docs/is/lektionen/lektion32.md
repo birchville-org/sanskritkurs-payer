@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 32
+# Kennslustund 32
 
 ## 32.1. The Past Tenses
 
@@ -222,7 +222,7 @@ Abb.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Uppruni myndar: [Details](/is/licenses#lekt3206))
 :::
-## 32.6. Exercise
+## 32.6. Æfing
 
 A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and gender:
 
@@ -312,7 +312,7 @@ Fig.: ⟪बुद्धपुत्र इति बुद्धमार्ग
 Buddhist monk in Sri Lanka.
 (Image source: [Details](/is/licenses#lekt3208))
 :::
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. Upprifjunaræfing fyrir jólafríið
 
 Note: Originally, this was held each winter semester at the University of Tübingen. With Lesson 32, the two-week Christmas holidays began.
 
@@ -535,7 +535,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Image source: [Details](/is/licenses#lekt3209))
 :::
-## 32.8. Review Exercise
+## 32.8. Upprifjunaræfing
 
 Translate and analyze the following word forms:
 
@@ -580,7 +580,7 @@ Translate and analyze the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Translation Exercise
+## 32.9. Þýðingaræfing
 
 ::: compact
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br

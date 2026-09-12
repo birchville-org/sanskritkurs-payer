@@ -1,5 +1,5 @@
 ---
-title: "Exercise 39"
+title: "Oppgave 39"
 uebung_id: 39
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 39
+# Oppgave 39
 
 A) Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, Passive):
 

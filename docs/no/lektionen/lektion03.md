@@ -1,5 +1,5 @@
 ---
-title: "Lesson 3"
+title: "Leksjon 3"
 subtitle: "The Nominative Singular of the Feminine"
 lesson_id: 3
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 3
+# Leksjon 3
 
 ## 3.1. Nominative Singular of the Feminine
 
@@ -190,7 +190,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 **muditā** f. = ⟪मुदिता⟫ : joy, specifically sympathetic joy (opposite of envy).
 
 
-## 3.7. Exercise
+## 3.7. Oppgave
 
 **A) Put the following sentences into the plural:**
 

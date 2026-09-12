@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 41
+# Lektion 41
 
 ## 41.1. ⟪सुभाषिते⟫ (two proverbs)
 
@@ -490,7 +490,7 @@ PPP ⟪अतीत⟫ : n. past tense
 
 :::
 
-## 41.4. Exercise
+## 41.4. Övning
 
 A) Translate the two proverbs at the beginning of the lesson.
 

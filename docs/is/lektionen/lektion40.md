@@ -1,5 +1,5 @@
 ---
-title: "Lesson 40"
+title: "Kennslustund 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 40
+# Kennslustund 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -591,7 +591,7 @@ B) Transform the following verbal forms into the corresponding perfect forms. If
 68. ⟪पश्यामः⟫
 69. ⟪ईक्षे⟫
 
-## 40.8. Form Review Exercise
+## 40.8. Upprifjunaræfing í beygingarfræði
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 26"
+title: "Leksjon 26"
 subtitle: "Law of cerebralization for -s- within the word"
 lesson_id: 26
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 26
+# Leksjon 26
 
 ## 26.1. Cerebralization Law for -s- within the word
 
@@ -136,7 +136,7 @@ Examples:
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Exercise
+## 26.8. Oppgave
 
 Form the corresponding future forms in number, person and voice (Parasmaipada, Ātmanepada):  
 

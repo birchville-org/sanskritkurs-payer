@@ -1,5 +1,5 @@
 ---
-title: "Exercise 16"
+title: "Oppgave 16"
 uebung_id: 16
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 16
+# Oppgave 16
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
@@ -189,7 +189,7 @@ A) Form all cases learned so far for the following words as examples of the decl
 :::
 ---
 
-## Additional Exercises
+## Flere oppgaver
 
 B) Translate and resolve all compounds into Sanskrit:
 

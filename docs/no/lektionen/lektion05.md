@@ -1,5 +1,5 @@
 ---
-title: "Lesson 5"
+title: "Leksjon 5"
 subtitle: "Fundamentals of Nominal Compounds (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 5
+# Leksjon 5
 
 ## 5.1. Nominal Compounds (samāsa m. = ⟪समास⟫)
 
@@ -87,7 +87,7 @@ Words containing fewer syllables shall precede.
 Where two of the three last-mentioned provisions can apply simultaneously, always the rule given later shall be followed. (Examples of dual dvandvas for these rules in Kielhorn, Grammar § 570).
 
 
-## 5.4. Vocabulary
+## 5.4. Ordliste
 
 **Learn the following words:**
 
@@ -132,7 +132,7 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
 
-## 5.5. Exercise
+## 5.5. Oppgave
 
 **A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:**
 
@@ -169,7 +169,7 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
-## 5.6. Review Exercise
+## 5.6. Repetisjonsoppgave
 
 **A) Translate:**
 

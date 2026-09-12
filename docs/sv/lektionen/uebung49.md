@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 49
+# Övning 49
 
 Determine the following forms:
 

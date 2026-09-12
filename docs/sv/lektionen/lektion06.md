@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 6
+# Lektion 6
 
 ## 6.1. The Verbal Sentence
 
@@ -243,7 +243,7 @@ I sanskrit anges verb i **rotform**. Talet efter roten anger **konjugationsklass
 
 :::
 
-## 6.9. Review Exercise
+## 6.9. Repetitionsövning
 
 **A) Fill-in exercise: Form questions to which the sentences formed in the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

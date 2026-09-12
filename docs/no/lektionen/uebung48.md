@@ -1,5 +1,5 @@
 ---
-title: "Exercise 48"
+title: "Oppgave 48"
 uebung_id: 48
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 48
+# Oppgave 48
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson:
 
@@ -39,7 +39,7 @@ Fig.: ⟪विद्याविहीनः पशुः⟫
 :::
 ---
 
-## Translations into Sanskrit (Imperative)
+## Oversettelser til sanskrit (Imperative)
 
 B) Translate into Sanskrit using the imperative mood (preferably roots of class 2 and 3):
 

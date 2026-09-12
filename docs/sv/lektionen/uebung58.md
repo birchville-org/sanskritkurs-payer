@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 58
+# Övning 58
 
 ## A) iṣ-Aorist Transformations
 

@@ -1,5 +1,5 @@
 ---
-title: "Exercise 37"
+title: "Æfing 37"
 uebung_id: 37
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 37
+# Æfing 37
 
 A) Answer the following questions in Sanskrit using the words provided in parentheses:
 

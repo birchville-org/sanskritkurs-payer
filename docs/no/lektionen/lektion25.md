@@ -1,5 +1,5 @@
 ---
-title: "Lesson 25"
+title: "Leksjon 25"
 subtitle: 'Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 25
+# Leksjon 25
 
 ## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 
@@ -176,7 +176,7 @@ Example:
 ::: indent
 ⟪सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति⟫  = "Because the Sugata has fully awakened to truth, Ānanda asks Gautama about his teaching" (« "Thinking 'The Sugata has fully awakened to truth' ..." )
 :::
-## 25.5. Vocabulary
+## 25.5. Ordliste
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  to leave, abandon, forsake
 
@@ -360,7 +360,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / of a cow ; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## 25.6. Exercise
+## 25.6. Oppgave
 
 A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding the 4th Dative (⟪चतुर्थी⟫) and the 5th Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
 
@@ -392,7 +392,7 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ::: indent
 Explanation: ⟪राजा⟫ = Nom. sg. to ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Translation Exercise
+## 25.8. Oversettelsesoppgave
 
 1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. on the benefit of economics:
 

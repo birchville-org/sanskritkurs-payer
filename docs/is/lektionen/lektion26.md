@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 26
+# Kennslustund 26
 
 ## 26.1. Law of cerebralisations for -s- within the word
 
@@ -136,7 +136,7 @@ Examples:
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Exercise
+## 26.8. Æfing
 
 Form the corresponding future forms in number, person and voice (Parasmaipada, Ātmanepada):  
 

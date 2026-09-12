@@ -1,5 +1,5 @@
 ---
-title: "Exercise 38"
+title: "Æfing 38"
 uebung_id: 38
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 38
+# Æfing 38
 
 A) Insert the appropriate form of the words in parentheses into the following sentences and translate them:
 

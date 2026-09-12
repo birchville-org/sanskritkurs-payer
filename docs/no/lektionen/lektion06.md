@@ -1,5 +1,5 @@
 ---
-title: "Lesson 6"
+title: "Leksjon 6"
 subtitle: "The Structure of the Verbal Sentence (Agent and Verb Form)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 6
+# Leksjon 6
 
 ## 6.1. The Verbal Sentence
 
@@ -176,7 +176,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : to let go, to release from oneself, to emanate
 
 
-## 6.8. Exercise
+## 6.8. Oppgave
 
 **A) Form verbal sentences using the roots specified in parentheses by inserting them:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
@@ -212,7 +212,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 (Image source: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Review Exercise
+## 6.9. Repetisjonsoppgave
 
 **A) Fill-in exercise: Form questions for which the sentences formed after the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

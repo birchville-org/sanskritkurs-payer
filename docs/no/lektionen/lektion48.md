@@ -1,5 +1,5 @@
 ---
-title: "Lesson 48"
+title: "Leksjon 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 48
+# Leksjon 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -237,7 +237,7 @@ e.g. ⟪व्याघ्र⟫ m. "tiger" » ⟪वैयाघ्र⟫ 3 "de
 Fig.: ⟪वैयाघ्रं विजृम्भणम्⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt4801))
 :::
-## 48.4. Vocabulary
+## 48.4. Ordliste
 
 ⟪श्वस्⟫ : tomorrow
 
@@ -342,7 +342,7 @@ Fig.: ⟪मम जाया⟫
 (Image: Payer)
 (Bildekilde: [Detaljer](/no/licenses#lekt4809))
 :::
-## Lesson 48.5. Exercise
+## Leksjon 48.5. Oppgave
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
@@ -369,7 +369,7 @@ B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd a
 19. They (pl.) should sit in my house.
 20. Husbands should maintain their wives (in the sense of providing sustenance).
 
-## 48.6. Translation Exercise
+## 48.6. Oversettelsesoppgave
 
 ⟪मनुस्मृति ९⟫ (⟪स्त्रीधर्मः⟫):
 

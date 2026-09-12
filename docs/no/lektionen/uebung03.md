@@ -1,5 +1,5 @@
 ---
-title: "Exercise 3"
+title: "Oppgave 3"
 uebung_id: 3
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 3
+# Oppgave 3
 
 A) Convert the following sentences into the plural:
 

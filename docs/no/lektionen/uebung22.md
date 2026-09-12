@@ -1,5 +1,5 @@
 ---
-title: "Exercise 22"
+title: "Oppgave 22"
 uebung_id: 22
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 22
+# Oppgave 22
 
 A) Form and translate the Absolute for the following verbs:
 

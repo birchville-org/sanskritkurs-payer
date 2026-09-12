@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 31
+# Övning 31
 
 A) Translate the following sentences and resolve the compounds:
 

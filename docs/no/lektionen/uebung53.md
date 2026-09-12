@@ -1,11 +1,11 @@
 ---
-title: "Exercise 53"
+title: "Oppgave 53"
 uebung_id: 53
 category: "Übung"
 
 ---
 
-# Exercise 53
+# Oppgave 53
 
 The exercise for Lesson 53 consists of the metrical analysis (determination of the śloka schema) of all verses learned in the preceding lessons.
 

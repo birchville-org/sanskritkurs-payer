@@ -1,12 +1,12 @@
 ---
-title: "Exercise 60"
+title: "Oppgave 60"
 uebung_id: 60
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 60
+# Oppgave 60
 
 A) Learn in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far
 

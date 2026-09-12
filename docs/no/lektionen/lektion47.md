@@ -1,5 +1,5 @@
 ---
-title: "Lesson 47"
+title: "Leksjon 47"
 subtitle: "The Imperative (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 47
+# Leksjon 47
 
 ## 47.1. The Imperative (⟪लोट्⟫)
 
@@ -148,7 +148,7 @@ Fig.: ⟪नृत्यत⟫
 | **2nd Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3rd Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Exercise
+## 47.3. Oppgave
 
 A) Translate:
 

@@ -1,5 +1,5 @@
 ---
-title: "Exercise 28"
+title: "Oppgave 28"
 uebung_id: 28
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 28
+# Oppgave 28
 
 A) Form the causative of the following verb forms and participial forms:
 

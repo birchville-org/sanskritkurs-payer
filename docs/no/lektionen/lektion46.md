@@ -1,5 +1,5 @@
 ---
-title: "Lesson 46"
+title: "Leksjon 46"
 subtitle: "Formation of the 2nd Person Verb Forms (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 46
+# Leksjon 46
 
 ## 46.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
 
@@ -337,7 +337,7 @@ The periphrastic perfect is formed from:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
-## 46.2. Vocabulary List
+## 46.2. Ordliste
 
 ⟪सम⟫ 3: equal, same, similar
 
@@ -581,7 +581,7 @@ e.g.
 Fig.: [⟪भोः⟫](/no/licenses#lekt4611)
 (Bildekilde: [Detaljer](/no/licenses#lekt4611))
 :::
-## 46.3. Exercise
+## 46.3. Oppgave
 
 A) Determine and translate the following forms:
 

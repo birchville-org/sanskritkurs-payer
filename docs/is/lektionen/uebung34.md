@@ -1,5 +1,5 @@
 ---
-title: "Exercise 34"
+title: "Æfing 34"
 uebung_id: 34
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 34
+# Æfing 34
 
 A) Form the corresponding perfect tense forms for the following verb forms, matching person, number, and gender of the verb:
 

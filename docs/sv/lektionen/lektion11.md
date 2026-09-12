@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 11
+# Lektion 11
 
 ## 11.1. Double Accusative
 
@@ -77,7 +77,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
 
-## 11.3. Exercise
+## 11.3. Övning
 
 **A) Translate the following sentences:**
 
@@ -109,7 +109,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाका
 
 :::
 
-## 11.4. Review Exercise
+## 11.4. Repetitionsövning
 
 **A) Translate into Sanskrit using passive constructions:**
 1. Vaiśya women ask Brahmins about the Dharma.

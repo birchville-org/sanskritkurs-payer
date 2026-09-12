@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-07
 
 ---
 
-# Lesson 8
+# Kennslustund 8
 
 
 
@@ -229,7 +229,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 
 
 
-## 8.6. Exercise
+## 8.6. Æfing
 
 **A) Explain the following nouns by specifying the root from which they are derived and the nominal suffix. Provide gender and meaning:**
 1. lobha
@@ -281,7 +281,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 
 
-## 8.7. Reading and Translation Exercise
+## 8.7. Lestrar- og þýðingaræfing
 
 1. ⟪शूद्रो बालं नयति⟫ |
 2. ⟪कविर्देवं यजते⟫ |

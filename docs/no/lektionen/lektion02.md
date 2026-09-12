@@ -1,5 +1,5 @@
 ---
-title: "Lesson 2"
+title: "Leksjon 2"
 subtitle: "The Nominal Sentence and the Fundamentals of Declension"
 lesson_id: 2
 category: "Grammatik"
@@ -8,7 +8,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-# Lesson 2
+# Leksjon 2
 
 
 ## 2.1. The Nominal Sentence
@@ -212,7 +212,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, elder relative, esp. teacher, master
 
 
-## 2.6. Exercise
+## 2.6. Oppgave
 
 **A) Insert with due regard to Sandhi and form nominal sentences:**
 

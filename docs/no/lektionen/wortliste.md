@@ -3,12 +3,12 @@ outline: 2
 
 ---
 
-# Vocabulary List (Complete Overview)
+# Ordliste (fullstendig oversikt)
 
 *All new words from the course in the order of their introduction, with thematic explanations.*
 
 
-## Lesson 2
+## Leksjon 2
 
 
 
@@ -125,7 +125,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, elder relative, esp. teacher, master
 
-## Lesson 3
+## Leksjon 3
 
 
 
@@ -199,7 +199,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : joy, especially sympathetic joy (opposite of envy).
 
-## Lesson 5
+## Leksjon 5
 
 
 
@@ -255,7 +255,7 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
-## Lesson 6
+## Leksjon 6
 
 
 
@@ -289,7 +289,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 **viś** 6 P (viśati) ⟪विश् विशति⟫ : to enter
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : to let go, to release from oneself, to emanate
 
-## Lesson 7
+## Leksjon 7
 
 
 
@@ -325,7 +325,7 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 **aṅga** n. ⟪अङ्ग⟫ : limb of the body, component; also = **vedāṅga** = ⟪वेदाङ्ग⟫
 **gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : go (According to the indigenous verb classification, it belongs to Present Class 1, but is actually a formation with a present stem-forming suffix **-ccha-**: **gam** » Strengthened grade (**gm** ») **ga-ccha-ti**)
 
-## Lesson 8
+## Leksjon 8
 
 
 
@@ -373,7 +373,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 **sukha** n. ⟪सुख⟫ : happiness, well-being
 **duḥkha** n. ⟪दुःख⟫ : unhappiness, suffering
 
-## Lesson 9
+## Leksjon 9
 
 
 
@@ -419,7 +419,7 @@ to **yaj** 1 U:
 **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : trade
 **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
 
-## Lesson 10
+## Leksjon 10
 
 
 
@@ -559,7 +559,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ---
 
-## Lesson 11
+## Leksjon 11
 
 
 
@@ -609,7 +609,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣ** 6 P ⟪इष्⟫ : to wish
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
-## Lesson 12
+## Leksjon 12
 
 
 
@@ -710,7 +710,7 @@ Fig.: ⟪महावीरो जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## Lesson 13
+## Leksjon 13
 
 
 
@@ -786,7 +786,7 @@ dviṣ 2 U:
 **dveṣa** ⟪द्वेष⟫ : hatred
 :::
 
-## Lesson 14
+## Leksjon 14
 
 
 
@@ -823,7 +823,7 @@ Fig.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : speaking, the word
 * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
 
-## Lesson 15
+## Leksjon 15
 
 
 
@@ -920,7 +920,7 @@ from this:
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
 
-## Lesson 16
+## Leksjon 16
 
 
 
@@ -993,7 +993,7 @@ Abb.: ⟪अहिंसा⟫
 (Bildekilde: [Detaljer](/licenses#lekt1603))
 :::
 
-## Lesson 17
+## Leksjon 17
 
 
 
@@ -1060,7 +1060,7 @@ from this:
 ⟪दिष्ट्या⟫ Instr.: (lit.: by a fortunate circumstance) O fortunate circumstance (exclamation of joy and bliss)
 :::
 
-## Lesson 18
+## Leksjon 18
 
 
 
@@ -1106,7 +1106,7 @@ from this:
 
 ⟪प्रभृति⟫ f.: beginning
 
-## Lesson 19
+## Leksjon 19
 
 
 
@@ -1217,7 +1217,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## Lesson 20
+## Leksjon 20
 
 
 
@@ -1331,7 +1331,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Leksjon 21
 
 
 
@@ -1391,7 +1391,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## Lesson 22
+## Leksjon 22
 
 
 
@@ -1458,7 +1458,7 @@ Goa = ⟪गोंय⟫
 (Bildekilde: [Detaljer](/licenses#lekt2201))
 :::
 
-## Lesson 23
+## Leksjon 23
 
 
 
@@ -1480,7 +1480,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## Leksjon 24
 
 
 
@@ -1610,7 +1610,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## Leksjon 25
 
 
 
@@ -1806,7 +1806,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Leksjon 27
 
 
 
@@ -1893,7 +1893,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Bildekilde: [Detaljer](/licenses#lekt2705))
 :::
 
-## Lesson 28
+## Leksjon 28
 
 
 
@@ -1975,7 +1975,7 @@ Girl carrying a load. Near Ahmedabad.
 :::
 ⟪भृत्य⟫ m.: subordinate, servant
 
-## Lesson 29
+## Leksjon 29
 
 
 
@@ -2063,7 +2063,7 @@ Inf. ⟪रन्तुम्⟫
 PPP ⟪पूजित⟫
 :::
 
-## Lesson 30
+## Leksjon 30
 
 
 
@@ -2194,7 +2194,7 @@ from this:
 :::
 ⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## Lesson 31
+## Leksjon 31
 
 
 
@@ -2321,7 +2321,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** limb, body
 
-## Lesson 32
+## Leksjon 32
 
 
 
@@ -2448,7 +2448,7 @@ Mehndi painting on hands in Mumbai.
 (Bildekilde: [Detaljer](/licenses#lekt3206))
 :::
 
-## Lesson 33
+## Leksjon 33
 
 
 
@@ -2615,7 +2615,7 @@ Fig.: ⟪घृतमग्नौ जुहोति⟫
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
 
-## Lesson 34
+## Leksjon 34
 
 
 
@@ -2702,7 +2702,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Leksjon 35
 
 
 
@@ -2760,7 +2760,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildekilde: [Detaljer](/licenses#lekt3501))
 :::
 
-## Lesson 36
+## Leksjon 36
 
 
 
@@ -2934,7 +2934,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: one's own (my, your ...) m.: member
 
-## Lesson 37
+## Leksjon 37
 
 
 
@@ -2971,7 +2971,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## Lesson 38
+## Leksjon 38
 
 
 
@@ -3112,7 +3112,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Bildekilde: [Detaljer](/licenses#lekt3811))
 :::
 
-## Lesson 40
+## Leksjon 40
 
 
 
@@ -3227,7 +3227,7 @@ Fig.: ⟪स्वपन्ति⟫
 (Bildekilde: [Detaljer](/licenses#lekt4004))
 :::
 
-## Lesson 41
+## Leksjon 41
 
 
 
@@ -3307,7 +3307,7 @@ Fig.: ⟪शास्त्री⟫
 PPP ⟪अतीत⟫ : n. past
 :::
 
-## Lesson 42
+## Leksjon 42
 
 
 
@@ -3444,7 +3444,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Every day
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Leksjon 43
 
 
 
@@ -3575,7 +3575,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Leksjon 44
 
 
 
@@ -3725,7 +3725,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Bildekilde: [Detaljer](/licenses#lekt4408))
 :::
 
-## Lesson 45
+## Leksjon 45
 
 
 
@@ -3741,7 +3741,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## Lesson 46
+## Leksjon 46
 
 
 
@@ -3998,7 +3998,7 @@ Fig.: [⟪भोः⟫](/licenses#lekt4611)
 (Bildekilde: [Detaljer](/licenses#lekt4611))
 :::
 
-## Lesson 48
+## Leksjon 48
 
 
 
@@ -4116,7 +4116,7 @@ Fig.: ⟪मम जाया⟫
 (Bildekilde: [Detaljer](/licenses#lekt4809))
 :::
 
-## Lesson 49
+## Leksjon 49
 
 
 
@@ -4265,7 +4265,7 @@ Sri Lanka
 (Bildekilde: [Detaljer](/licenses#lekt4906))
 :::
 
-## Lesson 50
+## Leksjon 50
 
 
 
@@ -4390,7 +4390,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## Leksjon 51
 
 
 
@@ -4636,7 +4636,7 @@ Absol. ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Leksjon 52
 
 
 

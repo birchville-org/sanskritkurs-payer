@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 37
+# Övning 37
 
 A) Answer the following questions in Sanskrit using the words specified in parentheses:
 

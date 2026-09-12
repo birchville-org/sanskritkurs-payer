@@ -1,5 +1,5 @@
 ---
-title: "Exercise 50"
+title: "Oppgave 50"
 uebung_id: 50
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 50
+# Oppgave 50
 
 A) For reviewing declension: The following verse contains all singular declension forms for ⟪गुरु⟫ m.:
 
@@ -27,7 +27,7 @@ Teacher, protect me!
 
 ---
 
-## B) Translations
+## B) Oversettelser
 
 ### ⟪मनुस्मृति ४⟫, ⟪१७८⟫
 

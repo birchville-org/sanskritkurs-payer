@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 31
+# Lektion 31
 
 ## 31.1. The 7th Present Class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 
@@ -62,7 +62,7 @@ Example:
 *   Passive: ⟪भज्यते⟫ (either from the original root ⟪भज्⟫ or from *bhñj-ya-te)
 *   PPP: ⟪भग्न⟫ (possibly from *bhñj + na)
 :::
-## 31.2. Vocabulary List
+## 31.2. Ordlista
 
 ⟪युज्⟫ 7U ⟪युनक्ति⟫ : to yoke, to hitch, to harness, to attach; Ā also: to strain oneself (= to exert oneself), to connect with, to concentrate on (Locative, ⟪सप्तमी⟫)
 ::: indent
@@ -177,7 +177,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** body, physical form
 
-## 31.3. Exercise
+## 31.3. Övning
 
 A) Translate the following sentences and resolve the compounds:
 

@@ -1,5 +1,5 @@
 ---
-title: "Exercise 55"
+title: "Oppgave 55"
 uebung_id: 55
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 55
+# Oppgave 55
 
 Determine and translate the following forms, and form the corresponding **a-aorist** forms:
 

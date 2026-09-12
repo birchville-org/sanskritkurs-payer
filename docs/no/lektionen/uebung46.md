@@ -1,12 +1,12 @@
 ---
-title: "Exercise 46"
+title: "Oppgave 46"
 uebung_id: 46
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 46
+# Oppgave 46
 
 A) Determine and translate the following forms:
 

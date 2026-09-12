@@ -1,5 +1,5 @@
 ---
-title: "Exercise 10"
+title: "Oppgave 10"
 uebung_id: 10
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 10
+# Oppgave 10
 
 A) Form the passive for the following verb forms (with translation of the verb form), i.e., the passive that corresponds to the person and number of the verb form:
 
@@ -215,7 +215,7 @@ Fig.: ⟪ग्रामः⟫
 :::
 ---
 
-## Reading Exercise
+## Leseoppgave
 
 Read and translate, then convert to the passive voice:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 16"
+title: "Leksjon 16"
 subtitle: "On the Sandhi of Final Consonants"
 lesson_id: 16
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 16
+# Leksjon 16
 
 ## 16.1. On the Sandhi of Final Consonants
 
@@ -43,7 +43,7 @@ Examples:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल पुण्यवत्⟫ + ⟪ब्राह्मण⟫ = ⟪पुण्यवद्ब्राह्मण पुण्यवत्⟫ + ⟪नर⟫ = ⟪पुण्यवन्नर पुण्यवत्⟫ + ⟪पुरुष⟫ = ⟪पुण्यवत्पुरुष सत्यवत्⟫ + ⟪चैतन्य⟫ =⟪सत्यवच्चैतन्य सुखवत्⟫ + ⟪लोक⟫ = ⟪सुखवल्लोक पुत्रवत्⟫ + ⟪जन⟫ = ⟪पुत्रवज्जन बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Vocabulary List
+## 16.2. Ordliste
 
 ⟪अध्यापन⟫ n.: Teaching, instruction
 
@@ -103,7 +103,7 @@ Fig.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Bildekilde: [Detaljer](/no/licenses#lekt1603))
 :::
-## 16.3. Exercise
+## 16.3. Oppgave
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
@@ -122,7 +122,7 @@ B) Resolve the following compounds in Sanskrit, form sentences with inflected no
 
 ⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । ३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । ४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । ५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । ६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । ७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । ८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । १०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां करोति ।⟫
 
-## 16.4. Review Exercise
+## 16.4. Repetisjonsoppgave
 
 A) Form all the cases learned so far for the following words as examples of the declension classes studied thus far.
 

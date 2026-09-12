@@ -1,5 +1,5 @@
 ---
-title: "Exercise 14"
+title: "Æfing 14"
 uebung_id: 14
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 14
+# Æfing 14
 
 Translate the following proverbs and learn them by heart:
 

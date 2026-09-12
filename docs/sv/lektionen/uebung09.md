@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 9
+# Övning 9
 
 A) Attempt to determine the possible meanings of the following words:
 

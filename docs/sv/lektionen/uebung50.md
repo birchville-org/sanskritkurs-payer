@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 50
+# Övning 50
 
 A) For reviewing declension: The following verse contains all singular declension forms of ⟪गुरु⟫ m.:
 
@@ -27,7 +27,7 @@ Teacher, protect me!
 
 ---
 
-## B) Translations
+## B) Översättningar
 
 ### ⟪मनुस्मृति ४⟫, ⟪१७८⟫
 

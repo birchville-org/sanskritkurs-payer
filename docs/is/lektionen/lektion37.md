@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 37
+# Kennslustund 37
 
 ## 37.1. The Adverb (⟪क्रियाविशेषणम्⟫)
 
@@ -329,7 +329,7 @@ Note: ⟪किम्⟫ can mean not only "what?" but also as a question partic
 ::: indent
 ⟪किं क्रोधेन ।⟫ "What is the anger for? What does the anger help with? What should the anger do?"
 :::
-## 37.9. Vocabulary List
+## 37.9. Orðalisti
 
 ⟪मूर्ख⟫ 3: dull-witted, stupid, foolish m. fool
 
@@ -354,7 +354,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Exercise
+## 37.10. Æfing
 
 A) Answer the following questions in Sanskrit using the words provided in parentheses. Translate the question sentences.
 
@@ -474,7 +474,7 @@ Fig.: ⟪उपवृक्षं सीदन्ति⟫
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Review Exercise
+## 37.11. Upprifjunaræfing
 
 Translate into Sanskrit using exclusively perfect verb forms:
 

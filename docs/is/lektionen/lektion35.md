@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 35
+# Kennslustund 35
 
 ## 35.1. Perfect Type III: Strong Stem Guṇa/Long Grade
 
@@ -215,7 +215,7 @@ Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Uppruni myndar: [Upplýsingar](/is/licenses#lekt3501))
 :::
-## 35.5. Exercise
+## 35.5. Æfing
 
 A) Form the corresponding perfect forms for the following verb forms:
 

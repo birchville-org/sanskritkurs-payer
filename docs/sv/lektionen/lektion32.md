@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 32
+# Lektion 32
 
 ## 32.1. The Past Tenses
 
@@ -293,7 +293,7 @@ Mehndi painting on hands in Mumbai.
 
 :::
 
-## 32.6. Exercise
+## 32.6. Övning
 
 A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and gender:
 
@@ -387,7 +387,7 @@ Buddhist monk in Sri Lanka.
 
 :::
 
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. Repetitionsövning inför jullovet
 
 Note: Originally, this was held each winter semester at the University of Tübingen. For Lesson 32, the two-week Christmas holidays began.
 
@@ -614,7 +614,7 @@ Indian greeting / farewell.
 
 :::
 
-## 32.8. Review Exercise
+## 32.8. Repetitionsövning
 
 Translate and analyze the following word forms:
 
@@ -659,7 +659,7 @@ Translate and analyze the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Translation Exercise
+## 32.9. Översättningsövning
 
 ::: compact
 

@@ -1,4 +1,4 @@
-# Writing Exercise 9
+# Skrifæfing 9
 
 ### Word Division
 
@@ -26,7 +26,7 @@ The abbreviation sign (e.g., in references to works) is °, e.g. ⟪पा⟫° 
 
 Note that a, ā, o, and au are written according to the same basic scheme.
 
-## Exercise
+## Æfingr
 
 A) Write in Devanāgarī:
 

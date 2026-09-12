@@ -1,12 +1,12 @@
 ---
-title: "Exercise 32"
+title: "Oppgave 32"
 uebung_id: 32
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 32
+# Oppgave 32
 
 A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and genus verbi:
 
@@ -220,7 +220,7 @@ Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सु�
 :::
 ---
 
-## Exercise on Sandhi
+## Oppgaver on Sandhi
 
 Insert the words in parentheses in the following sentences and observe the rules of Sandhi:
 
@@ -253,7 +253,7 @@ Insert the words in parentheses in the following sentences and observe the rules
 
 ---
 
-## Additional Sanskrit Translations
+## Flere oversettelser til sanskrit
 
 1\. After the son is born, the Brahmin woman sends a servant to the Brahmin.
 **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**

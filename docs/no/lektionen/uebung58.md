@@ -1,12 +1,12 @@
 ---
-title: "Exercise 58"
+title: "Oppgave 58"
 uebung_id: 58
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 58
+# Oppgave 58
 
 ## A) इष्-लुङ् Transformations
 

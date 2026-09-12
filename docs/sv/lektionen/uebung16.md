@@ -196,7 +196,7 @@ A) Form all cases learned so far for the following words as examples of the decl
 
 ---
 
-## Additional Exercises
+## Ytterligare övningar
 
 B) Translate and resolve all compounds into Sanskrit:
 

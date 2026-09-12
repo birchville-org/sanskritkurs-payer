@@ -264,7 +264,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), whic
 
 
 
-## 8.6. Exercise
+## 8.6. Övning
 
 **A) Explain the following nouns by specifying the root from which they are derived and the nominal suffix. Indicate gender and meaning:**
 1. lobha
@@ -316,7 +316,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 
 
-## 8.7. Reading and Translation Exercise
+## 8.7. Läs- och översättningsövning
 
 1. ⟪शूद्रो बालं नयति⟫ |
 2. ⟪कविर्देवं यजते⟫ |

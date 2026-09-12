@@ -1,5 +1,5 @@
 ---
-title: "Exercise 18"
+title: "Æfing 18"
 uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Æfing 18
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 
@@ -88,7 +88,7 @@ Fig.: ⟪नास्ति कामसमो व्याधिः⟫
 :::
 ---
 
-## Additional Exercises
+## Frekari æfingar
 
 A) Resolve the following Sanskrit compounds and provide translation suggestions:
 

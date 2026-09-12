@@ -1,5 +1,5 @@
 ---
-title: "Exercise 59"
+title: "Oppgave 59"
 uebung_id: 59
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 59
+# Oppgave 59
 
 ::: media
 ![](/images/uebung098.webp)

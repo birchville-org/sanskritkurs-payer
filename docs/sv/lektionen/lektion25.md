@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 25
+# Lektion 25
 
 ## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 
@@ -470,7 +470,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / of a cow ; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## 25.6. Exercise
+## 25.6. Övning
 
 A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding the 4th Dative (⟪चतुर्थी⟫) and the 5th Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
 
@@ -524,7 +524,7 @@ Explanation: ⟪राजा⟫ = Nom. sg. to ⟪राजन्⟫ m. = ⟪न�
 
 :::
 
-## 25.8. Translation Exercise
+## 25.8. Översättningsövning
 
 1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. on the benefit of economics:
 

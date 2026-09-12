@@ -1,5 +1,5 @@
 ---
-title: "Exercise 43"
+title: "Æfing 43"
 uebung_id: 43
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 43
+# Æfing 43
 
 A) Form the corresponding **2nd person** for the following verb forms in tense, number, mood, etc.:
 
@@ -74,7 +74,7 @@ Fig.: ⟪दिशसि⟫
 :::
 ---
 
-## Translations into Sanskrit
+## Þýðingar á sanskrít
 
 B) Translate into Sanskrit:
 

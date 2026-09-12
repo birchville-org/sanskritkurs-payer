@@ -1,5 +1,5 @@
 ---
-title: "Lesson 12"
+title: "Leksjon 12"
 subtitle: "The Perfect Passive Participle (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 12
+# Leksjon 12
 
 
 ## 12.1. Perfect Passive Participle (PPP)
@@ -230,7 +230,7 @@ Fig.: ⟪महावीरो जिनः⟫
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 
-## 12.6. Exercise
+## 12.6. Oppgave
 
 **A) Form passive sentences in the past tense from the active sentences of [Lesson 7](/lektionen/lektion07), Exercise A; for intransitive verbs and verbs of motion, form active sentences in the past tense.**
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 60
+# Æfing 60
 
 A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far
 

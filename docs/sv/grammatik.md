@@ -4,7 +4,7 @@ outline: [2, 3]
 
 ---
 
-# Grammar Topics
+# Grammatikämnen
 
 This page provides a systematic overview of all grammatical topics in the Sanskrit course. Each of the 61 lessons is categorized thematically here.
 

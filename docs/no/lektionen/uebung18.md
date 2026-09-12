@@ -1,5 +1,5 @@
 ---
-title: "Exercise 18"
+title: "Oppgave 18"
 uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Oppgave 18
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 

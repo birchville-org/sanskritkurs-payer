@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 35
+# Lektion 35
 
 ## 35.1. Perfect Type III: Strong Stem Grade/Lengthened Grade
 
@@ -267,7 +267,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## 35.5. Exercise
+## 35.5. Övning
 
 A) Form the corresponding perfect forms for the following verb forms:
 

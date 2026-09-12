@@ -8,7 +8,7 @@ outline: 2
 *All new words from the course in the order of their introduction, with thematic explanations.*
 
 
-## Lesson 2
+## Lektion 2
 
 
 
@@ -143,7 +143,7 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, elder relative, esp. teacher, master
 
-## Lesson 3
+## Lektion 3
 
 
 
@@ -283,7 +283,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
-## Lesson 6
+## Lektion 6
 
 
 
@@ -333,7 +333,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 **viś** 6 P (viśati) ⟪विश् विशति⟫ : to enter
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : to let go, to release from oneself, to emanate
 
-## Lesson 7
+## Lektion 7
 
 
 
@@ -374,7 +374,7 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 **aṅga** n. ⟪अङ्ग⟫ : limb of the body, component; also = **vedāṅga** = ⟪वेदाङ्ग⟫
 **gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : to go (According to the indigenous verb classification, it belongs to Present Class 1, but is in reality a formation with a present stem-forming suffix **-ccha-**: **gam** » Strengthened grade (**gm** ») **ga-ccha-ti**)
 
-## Lesson 8
+## Lektion 8
 
 
 
@@ -429,7 +429,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 **sukha** n. ⟪सुख⟫ : happiness, well-being
 **duḥkha** n. ⟪दुःख⟫ : unhappiness, suffering
 
-## Lesson 9
+## Lektion 9
 
 
 
@@ -483,7 +483,7 @@ to **yaj** 1 U:
 **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : trade
 **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
 
-## Lesson 10
+## Lektion 10
 
 
 
@@ -671,7 +671,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ---
 
-## Lesson 11
+## Lektion 11
 
 
 
@@ -725,7 +725,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣ** 6 P ⟪इष्⟫ : to wish
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
-## Lesson 12
+## Lektion 12
 
 
 
@@ -933,7 +933,7 @@ dviṣ 2 U:
 
 :::
 
-## Lesson 14
+## Lektion 14
 
 
 
@@ -974,7 +974,7 @@ Fig.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : speaking, the word
 * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
 
-## Lesson 15
+## Lektion 15
 
 
 
@@ -1102,7 +1102,7 @@ from this:
 
 :::
 
-## Lesson 16
+## Lektion 16
 
 
 
@@ -1192,7 +1192,7 @@ Fig.: ⟪अहिंसा⟫
 
 :::
 
-## Lesson 17
+## Lektion 17
 
 
 
@@ -1280,7 +1280,7 @@ from this:
 
 :::
 
-## Lesson 18
+## Lektion 18
 
 
 
@@ -1326,7 +1326,7 @@ from this:
 
 ⟪प्रभृति⟫ f.: beginning
 
-## Lesson 19
+## Lektion 19
 
 
 
@@ -1476,7 +1476,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## Lesson 20
+## Lektion 20
 
 
 
@@ -1594,7 +1594,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Lektion 21
 
 
 
@@ -1679,7 +1679,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## Lesson 22
+## Lektion 22
 
 
 
@@ -1769,7 +1769,7 @@ Goa = ⟪गोंय⟫
 
 :::
 
-## Lesson 23
+## Lektion 23
 
 
 
@@ -1791,7 +1791,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## Lektion 24
 
 
 
@@ -1958,7 +1958,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## Lektion 25
 
 
 
@@ -2206,7 +2206,7 @@ Fig.: ⟪हिरण्यम्⟫
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
 :::
-## Lesson 27
+## Lektion 27
 
 
 
@@ -2330,7 +2330,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 :::
 
-## Lesson 28
+## Lektion 28
 
 
 
@@ -2441,7 +2441,7 @@ Girl carrying load. Near Ahmedabad.
 
 ⟪भृत्य⟫ m.: subordinate, servant
 
-## Lesson 29
+## Lektion 29
 
 
 
@@ -2552,7 +2552,7 @@ PPP ⟪पूजित⟫
 
 :::
 
-## Lesson 30
+## Lektion 30
 
 
 
@@ -2734,7 +2734,7 @@ from this:
 
 ⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## Lesson 31
+## Lektion 31
 
 
 
@@ -2916,7 +2916,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** limb, body
 
-## Lesson 32
+## Lektion 32
 
 
 
@@ -3090,7 +3090,7 @@ Mehndi painting on hands in Mumbai.
 
 :::
 
-## Lesson 33
+## Lektion 33
 
 
 
@@ -3318,7 +3318,7 @@ Abb.: ⟪घृतमग्नौ जुहोति⟫
 
 :::
 
-## Lesson 34
+## Lektion 34
 
 
 
@@ -3428,7 +3428,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Lektion 35
 
 
 
@@ -3505,7 +3505,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## Lesson 36
+## Lektion 36
 
 
 
@@ -3732,7 +3732,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: own (my, your ...) m.: member
 
-## Lesson 37
+## Lektion 37
 
 
 
@@ -3780,7 +3780,7 @@ Fig.: ⟪वृक्षः⟫
 
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## Lesson 38
+## Lektion 38
 
 
 
@@ -3964,7 +3964,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 :::
 
-## Lesson 40
+## Lektion 40
 
 
 
@@ -4114,7 +4114,7 @@ Fig.: ⟪स्वपन्ति⟫
 
 :::
 
-## Lesson 41
+## Lektion 41
 
 
 
@@ -4219,7 +4219,7 @@ PPP ⟪अतीत⟫ : n. past
 
 :::
 
-## Lesson 42
+## Lektion 42
 
 
 
@@ -4369,7 +4369,7 @@ Rituals are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, 
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Lektion 43
 
 
 
@@ -4527,7 +4527,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Lektion 44
 
 
 
@@ -4725,7 +4725,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## Lesson 45
+## Lektion 45
 
 
 
@@ -4741,7 +4741,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## Lesson 46
+## Lektion 46
 
 
 
@@ -5068,7 +5068,7 @@ Fig.: [⟪भोः⟩](/licenses#lekt4611)
 
 :::
 
-## Lesson 48
+## Lektion 48
 
 
 
@@ -5219,7 +5219,7 @@ Fig.: ⟪मम जाया⟫
 
 :::
 
-## Lesson 49
+## Lektion 49
 
 
 
@@ -5412,7 +5412,7 @@ Sri Lanka
 
 :::
 
-## Lesson 50
+## Lektion 50
 
 
 
@@ -5572,7 +5572,7 @@ not used in the other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## Lektion 51
 
 
 
@@ -5900,7 +5900,7 @@ Absol. ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Lektion 52
 
 
 

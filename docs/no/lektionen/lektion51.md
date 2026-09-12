@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 51
+# Leksjon 51
 
 ## 51.1. ⟪उपपद⟫-Compounds
 
@@ -574,7 +574,7 @@ Absol. ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  Proper name of a non-Aryan tribe
 
-## 51.7. Translation Exercise
+## 51.7. Oversettelsesoppgave
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

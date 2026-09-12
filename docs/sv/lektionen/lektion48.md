@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 48
+# Lektion 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -476,7 +476,7 @@ B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd a
 19. They (pl.) should sit in my house.
 20. Husbands should maintain their wives (in the sense of providing support).
 
-## 48.6. Translation Exercise
+## 48.6. Översättningsövning
 
 ⟪मनुस्मृति ९⟫ (⟪स्त्रीधर्मः⟫):
 

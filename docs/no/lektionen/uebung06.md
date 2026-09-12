@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 6
+# Oppgave 6
 
 A) Form verbal sentences by inserting the roots specified in parentheses:
 
@@ -152,7 +152,7 @@ Fig.: ⟪का नृत्यति ।⟫
 
 ---
 
-## Review Exercise Lesson 6
+## Repetisjonsoppgave leksjon 6
 
 A) Fill-in exercise: Form questions to which the sentences you form after following these fill-in exercises are answers:
 

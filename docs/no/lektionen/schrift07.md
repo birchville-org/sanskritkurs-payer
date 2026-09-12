@@ -1,6 +1,6 @@
 # Devanagari = ⟪देवनागरी⟫
 
-## Writing Exercise 7
+## Skriveoppgave 7
 
 ![](/images/schrift012.webp)
 
@@ -47,7 +47,7 @@ Regarding spelling:
 
 ![](/images/schrift014.webp)
 
-## Exercise
+## Oppgaver
 
 A) Write in Devanagari and provide the translation (requires Lesson 8):
 

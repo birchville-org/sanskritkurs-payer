@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 13
+# Lektion 13
 
 
 ## 13.1. PPP on -na-
@@ -274,7 +274,7 @@ dviṣ 2 U:
 
 :::
 
-## 13.10. Exercise
+## 13.10. Övning
 
 A) Translate and convert into active present tense sentences:
 

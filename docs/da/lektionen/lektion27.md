@@ -250,7 +250,7 @@ Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/da/licenses#lekt2705))
 :::
-## 27.6. Exercise
+## 27.6. Øvelse
 
 **A) Insert the expressions in parentheses into the following sentence in the Locative (⟪सप्तमी⟫) Singular and - where sensible - Plural. Observe the various Sandhi changes, i.e., write out each full sentence!**
 

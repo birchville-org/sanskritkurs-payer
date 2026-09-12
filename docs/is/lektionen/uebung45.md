@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 45
+# Æfing 45
 
 A) Translate into Sanskrit (use the imperfect for past tense):
 

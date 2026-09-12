@@ -1,5 +1,5 @@
 ---
-title: "Exercise 31"
+title: "Oppgave 31"
 uebung_id: 31
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 31
+# Oppgave 31
 
 A) Translate the following sentences and resolve the compounds:
 

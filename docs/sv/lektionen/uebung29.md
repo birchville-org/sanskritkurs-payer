@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 29
+# Övning 29
 
 Translate faithfully into good German and memorize the Sanskrit texts:
 

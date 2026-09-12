@@ -1,5 +1,5 @@
 ---
-title: "Exercise 47"
+title: "Æfing 47"
 uebung_id: 47
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 47
+# Æfing 47
 
 A) Translate:
 
@@ -46,7 +46,7 @@ My lady, your humiliation shall not be reported to Lord Rāma.
 
 ---
 
-## Translations into Sanskrit (Imperative)
+## Þýðingar á sanskrít (Imperative)
 
 B) Translate the following sentences into Sanskrit using the imperative mood:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 20"
+title: "Kennslustund 20"
 subtitle: "Possessive compounds = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 20
+# Kennslustund 20
 
 ## 20.1. Possessive Compounds = ⟪बहुव्रीहि⟫ m.
 
@@ -357,7 +357,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir, move
 
-## 20.10. Exercise 1
+## 20.10. Æfing 1
 
 Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways you consider possible in Sanskrit (exception: compounds with adverbial first member). Translate these differently resolved compounds into German, indicating the gender, case, and number of the entire compound.
 
@@ -443,7 +443,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Exercise 2
+## 20.11. Æfing 2
 
 A) Translate and resolve the compounds into Sanskrit:
 
@@ -459,7 +459,7 @@ B) Translate into Sanskrit using compounds:
 
 4. Śūdra women also have non-violence, truthfulness, purity, not grumbling, not being malicious, and forbearance as their dharma.
 
-## 20.12. Translation Exercise
+## 20.12. Þýðingaræfing
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १⟫.⟪३३॥⟫
 

@@ -7,7 +7,7 @@ status: stable
 
 ---
 
-# Lesson 61
+# Kennslustund 61
 
 ## 61.1. Declension of root nouns ending in -ā, -ī, -ū
 

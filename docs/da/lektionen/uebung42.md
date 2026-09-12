@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 42
+# Øvelse 42
 
 Translate:
 
@@ -52,7 +52,7 @@ Fig.: ⟪कृष्णस्तस्य लोकस्य पिता म�
 ⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन सीतरामयोर्विवाहोत्सवं निरवर्तयन् ॥⟫
 
 **Oversættelse:**
-Der var engang en konge ved navn Janaka i Mithilā. Han havde en datter ved navn Sītā. Hun var uovertruffen i skønhed og dyd. Mange prinser, der ønskede at gifte sig med hende, sendte послantere til Janaka.
+Der var engang en konge ved navn Janaka i Mithilā. Han havde en datter ved navn Sītā. Hun var uovertruffen i skønhed og dyd. Mange prinser, der ønskede at gifte sig med hende, sendte gesandter til Janaka.
 
 Men Janaka ønskede at give hende til en kraftfuld kṣatriya-prins. Derfor fastslog han, at hun skulle "erobres" gennem heltemod. Forholdet var det: Han ejede en yderst tung bue. Janaka lovede: "Den, der løfter denne bue og spænder en pil på den, skal gifte sig med min datter."
 

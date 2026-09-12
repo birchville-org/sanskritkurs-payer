@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 27
+# Æfing 27
 
 A) Insert the expressions in parentheses into the following sentences in the locative (⟪सप्तमी⟫) singular and — where appropriate — plural.
 

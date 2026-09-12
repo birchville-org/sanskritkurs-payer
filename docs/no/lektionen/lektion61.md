@@ -1,5 +1,5 @@
 ---
-title: "Lesson 61"
+title: "Leksjon 61"
 subtitle: "Declension of root nouns ending in -ā, -ī, -ū"
 next: false
 category: "Grammatik"
@@ -7,7 +7,7 @@ status: stable
 
 ---
 
-# Lesson 61
+# Leksjon 61
 
 ## 61.1. Declension of Root Nouns Ending in -ā, -ī, -ū
 

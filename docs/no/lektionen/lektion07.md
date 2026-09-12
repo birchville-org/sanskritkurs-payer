@@ -1,5 +1,5 @@
 ---
-title: "Lesson 7"
+title: "Leksjon 7"
 subtitle: "The verbal sentence with a direct object"
 lesson_id: 7
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 7
+# Leksjon 7
 
 
 ::: center
@@ -221,7 +221,7 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 
 
 
-## 7.7. Exercise
+## 7.7. Oppgave
 
 **A) Insert the direct object or directional accusative in both singular and plural:**
 

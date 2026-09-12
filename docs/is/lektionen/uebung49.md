@@ -1,5 +1,5 @@
 ---
-title: "Exercise 49"
+title: "Æfing 49"
 uebung_id: 49
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 49
+# Æfing 49
 
 Determine the following forms:
 

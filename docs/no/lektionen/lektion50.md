@@ -1,5 +1,5 @@
 ---
-title: "Lesson 50"
+title: "Leksjon 50"
 subtitle: "Nominal Formation: Regular Comparison"
 lesson_id: 50
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 50
+# Leksjon 50
 
 ## 50.1. Nominal Formation: Regular Comparison
 
@@ -196,7 +196,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## 50.3. Translation Exercise
+## 50.3. Oversettelsesoppgave
 
 A) For review of declension: the following verse contains all singular declension forms for ⟪गुरु⟫ m.:
 

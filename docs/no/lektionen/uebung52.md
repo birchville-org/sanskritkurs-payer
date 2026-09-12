@@ -1,12 +1,12 @@
 ---
-title: "Exercise 52"
+title: "Oppgave 52"
 uebung_id: 52
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 52
+# Oppgave 52
 
 ## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 

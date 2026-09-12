@@ -1,5 +1,5 @@
 ---
-title: "Exercise 2"
+title: "Æfing 2"
 uebung_id: 2
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 2
+# Æfing 2
 
 A) Insert the specified names and nouns into the following sentences, observing sandhi, and form nominal sentences:
 

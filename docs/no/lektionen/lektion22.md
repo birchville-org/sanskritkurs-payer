@@ -1,5 +1,5 @@
 ---
-title: "Lesson 22"
+title: "Leksjon 22"
 subtitle: "The Absolute (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 22
+# Leksjon 22
 
 ## 22.1. The Absolutives (⟪क्त्वा । ल्यप्⟫)
 
@@ -189,7 +189,7 @@ Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt2201))
 :::
-## 22.4. Exercise
+## 22.4. Oppgave
 
 **A) Form and translate the absolutive for the following verbs:**
 

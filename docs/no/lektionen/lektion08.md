@@ -1,5 +1,5 @@
 ---
-title: "Lesson 8"
+title: "Leksjon 8"
 subtitle: "Formation of Nouns & 8. Present Class"
 lesson_id: 8
 category: "Grammatik"
@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-07
 
 ---
 
-# Lesson 8
+# Leksjon 8
 
 
 
@@ -236,7 +236,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 
 
 
-## 8.6. Exercise
+## 8.6. Oppgave
 
 **A) Explain the following nouns by specifying the root from which they are derived and the nominal suffix. Provide gender and meaning:**
 1. lobha
@@ -288,7 +288,7 @@ kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatri
 
 
 
-## 8.7. Reading and Translation Exercise
+## 8.7. Lese- og oversettelsesoppgave
 
 1. ⟪शूद्रो बालं नयति⟫ |
 2. ⟪कविर्देवं यजते⟫ |

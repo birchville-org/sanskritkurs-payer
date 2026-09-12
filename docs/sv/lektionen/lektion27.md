@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 27
+# Lektion 27
 
 ## 27.1. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
 

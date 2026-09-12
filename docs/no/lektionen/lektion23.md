@@ -1,5 +1,5 @@
 ---
-title: "Lesson 23"
+title: "Leksjon 23"
 subtitle: "The Infinitive (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 23
+# Leksjon 23
 
 ## 23.1. The Infinitive (⟪तुमुन्⟫)
 
@@ -105,7 +105,7 @@ The other roots with -ṛ- in the penultimate position have facultative -ra- or 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
 
-## 23.5. Exercise
+## 23.5. Oppgave
 
 A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
@@ -195,7 +195,7 @@ Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt2302))
 :::
-## 23.6. Review Exercise
+## 23.6. Repetisjonsoppgave
 
 Please do not use any aids!
 

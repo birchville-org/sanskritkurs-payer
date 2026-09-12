@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 7
+# Kennslustund 7
 
 
 ::: center

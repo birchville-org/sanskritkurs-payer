@@ -1,12 +1,12 @@
 ---
-title: "Exercise 44"
+title: "Oppgave 44"
 uebung_id: 44
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 44
+# Oppgave 44
 
 A) Determine and translate the following forms:
 
@@ -69,7 +69,7 @@ A) Determine and translate the following forms:
 :::
 ---
 
-## Translations
+## Oversettelser
 
 B) Translate:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 56"
+title: "Leksjon 56"
 subtitle: "The Reduplicated Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 56
+# Leksjon 56
 
 ## 56.1. The reduplicated aorist
 
@@ -201,7 +201,7 @@ Fig.: ⟪अलं विषादेन⟫
 
 e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be omitted).
 :::
-## 56.5. Exercise
+## 56.5. Oppgave
 
 A) Determine and translate the following forms without aids (!):
 

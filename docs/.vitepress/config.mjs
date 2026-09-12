@@ -92,7 +92,7 @@ populateSidebar(bg, 'Урок', 'bg', 'Писмо', 'Упражнение');
 populateSidebar(tr, 'Ders', 'tr', 'Yazı', 'Egzersiz');
 populateSidebar(vi, 'Bài học', 'vi', 'Chữ viết', 'Bài tập');
 populateSidebar(da, 'Lektion', 'da', 'Skrift', 'Øvelse');
-populateSidebar(no, 'Leksjon', 'no', 'Skrift', 'Øvelse');
+populateSidebar(no, 'Leksjon', 'no', 'Skrift', 'Oppgave');
 populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
 populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
 

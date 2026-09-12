@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 47
+# Övning 47
 
 A) Translate:
 
@@ -46,7 +46,7 @@ Madam, your humiliation shall not be reported to Lord Rāma.
 
 ---
 
-## Translations into Sanskrit (Imperative)
+## Översättningar till sanskrit (Imperative)
 
 B) Translate the following sentences into Sanskrit using the imperative mood:
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Övning 18
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 
@@ -88,7 +88,7 @@ Fig.: ⟪नास्ति कामसमो व्याधिः⟫
 :::
 ---
 
-## Additional Exercises
+## Ytterligare övningar
 
 A) Resolve the following Sanskrit compounds and provide translation suggestions:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 24"
+title: "Leksjon 24"
 subtitle: 'The Dative (⟪चतुर्थी⟫ = "fourth case ending")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 24
+# Leksjon 24
 
 ## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
 
@@ -180,7 +180,7 @@ Example:
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "to this fire"
 :::
-## 24.4. Vocabulary List
+## 24.4. Ordliste
 
 ⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone or something); with Dative: enough for, sufficient for, equal to ; with Instrumental: enough with, stop , e.g. ⟪अलं क्रोधेन⟫ = "enough with the anger = stop being angry!"
 
@@ -298,7 +298,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
 
 ⟪पुनर्⟫ Adverb: again, back, return, but
 
-## 24.5. Exercise
+## 24.5. Oppgave
 
 A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 
@@ -342,7 +342,7 @@ D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ by an equi
 
 E) Replace in sentence A) 6 the dative construction by an equivalent construction with -⟪अर्थ⟫
 
-## 24.6. Further Exercises on the Use of the Dative
+## 24.6. Videre oppgaver i bruk av dativ
 
 Translate into Sanskrit:
 

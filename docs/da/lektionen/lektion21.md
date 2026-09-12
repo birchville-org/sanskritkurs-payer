@@ -279,7 +279,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## 21.5. Exercise
+## 21.5. Øvelse
 
 A) Translate the following compounds:
 

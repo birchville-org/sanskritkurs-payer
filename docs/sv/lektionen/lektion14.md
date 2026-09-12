@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 14
+# Lektion 14
 
 ## 14.1. Expressing the relationship of entities denoted by nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 
@@ -164,7 +164,7 @@ More later.
 
 :::
 
-## 14.4. Vocabulary list
+## 14.4. Ordlista
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
@@ -207,7 +207,7 @@ Translate the following proverbs and memorize them:
 
 **⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
-## 14.6. Exercise
+## 14.6. Övning
 
 **A) Form the singular and plural genitive for the following words. Provide meaning and gender of the words:**
 

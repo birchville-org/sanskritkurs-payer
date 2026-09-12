@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 52
+# Lektion 52
 
 ## 52.1. Neuter of stems ending in -i and -u
 
@@ -836,7 +836,7 @@ Inf. ⟪त्रातुम्⟫
 
 :::
 
-## 52.8. Translation Exercise
+## 52.8. Översättningsövning
 
 ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 

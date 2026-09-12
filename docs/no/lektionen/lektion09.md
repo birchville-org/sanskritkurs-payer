@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-07
 
 ---
 
-# Lesson 9
+# Leksjon 9
 
 
 
@@ -131,7 +131,7 @@ to **yaj** 1 U:
 **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
 
 
-## 9.4. Exercise
+## 9.4. Oppgave
 
 **A) Try to determine the possible meanings of the following words:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫

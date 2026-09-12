@@ -1,5 +1,5 @@
 ---
-title: "Lesson 17"
+title: "Leksjon 17"
 subtitle: "Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 17
+# Leksjon 17
 
 ## 17.1. Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
@@ -234,7 +234,7 @@ Also ⟪स्तु⟫ 2 U "to praise" has, alongside the forms given under 3.,
 | 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Vocabulary list
+## 17.6. Ordliste
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : to strike, to slay, to kill
 
@@ -289,7 +289,7 @@ thereof:
 ⟪दिष्ट्या⟫ Instr.: (literally: by a fortunate circumstance) O fortunate circumstance! (exclamation of joy and felicity)
 :::
 
-## 17.7. Exercise 1
+## 17.7. Oppgave 1
 
 A) Insert the verb in the following sentences and translate:
 
@@ -317,7 +317,7 @@ A) Insert the verb in the following sentences and translate:
 
 B) Put the agent and verb into the plural in the sentences formed in A).
 
-## 17.8. Exercise 2
+## 17.8. Oppgave 2
 
 Translate the following verb forms and provide the corresponding root:
 

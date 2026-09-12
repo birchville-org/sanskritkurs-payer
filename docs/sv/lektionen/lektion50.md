@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 50
+# Lektion 50
 
 ## 50.1. Nominal Formation: Regular Comparison
 
@@ -266,7 +266,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, country, region
 
-## 50.3. Translation Exercise
+## 50.3. Översättningsövning
 
 A) For reviewing declension: the following verse contains all singular declension forms of ⟪गुरु⟫ m.:
 

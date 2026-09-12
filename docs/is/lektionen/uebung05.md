@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 5
+# Æfing 5
 
 A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:
 
@@ -102,7 +102,7 @@ Fig.: ⟪अभ्निवेशो न वा ।⟫
 :::
 ---
 
-## Review Exercise Lesson 5
+## Upprifjunaræfing kennslustund 5
 
 A) Translate:
 

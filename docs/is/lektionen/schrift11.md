@@ -1,4 +1,4 @@
-# Writing Exercise 11
+# Skrifæfing 11
 
 ### Digits
 
@@ -10,7 +10,7 @@ Variant in the typeface of Kielhorn's Grammar:
 
 ![](/images/schrift027.jpg)
 
-### Exercise
+### Æfing
 
 A) Write in Devanāgarī:
 
@@ -24,6 +24,6 @@ B) Read and transliterate:
 
 ![](/images/schrift028.webp)
 
-### End of Writing Exercises
+### Lok skrifæfinga
 
 ## ⟪ॐ श्रीगणेशाय नमः ॐ⟫

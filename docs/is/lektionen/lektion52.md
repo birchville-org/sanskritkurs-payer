@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 52
+# Kennslustund 52
 
 ## 52.1. Neuter of stems in -i and -u
 
@@ -638,7 +638,7 @@ Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-## 52.8. Translation Exercise
+## 52.8. Þýðingaræfing
 
 ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 

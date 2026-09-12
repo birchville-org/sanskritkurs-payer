@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 15
+# Kennslustund 15
 
 ## 15.1. ⟪सुभाषितम् गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫
 
@@ -313,13 +313,13 @@ from this:
 
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Exercise 1
+## 15.9. Æfing 1
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
 ⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Exercise 2
+## 15.10. Æfing 2
 
 Resolve the following Tatpuruṣa as in Exercise 1:
 
@@ -331,7 +331,7 @@ Resolve the following Tatpuruṣa as in Exercise 1:
 Abb.: ⟪ग्रामदेवता⟫
 (Uppruni myndar: [Details](/is/licenses#lekt1508))
 :::
-## 15.11. Exercise 3
+## 15.11. Æfing 3
 
 A) Translate the proverb at the beginning of the lesson
 

@@ -75,7 +75,7 @@ Fig.: ⟪जलेश्वरो वरुणः⟫
 :::
 ---
 
-## Additional Exercises
+## Yderligere øvelser
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 

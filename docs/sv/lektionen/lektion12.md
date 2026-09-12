@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 12
+# Lektion 12
 
 
 ## 12.1. Perfect Passive Participle (PPP)

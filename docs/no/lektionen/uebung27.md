@@ -1,5 +1,5 @@
 ---
-title: "Exercise 27"
+title: "Oppgave 27"
 uebung_id: 27
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 27
+# Oppgave 27
 
 A) Insert the expressions in parentheses into the following sentences in the Locative (⟪सप्तमी⟫) Singular and — where appropriate — Plural.
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 52
+# Æfing 52
 
 ## ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 

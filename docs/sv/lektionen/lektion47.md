@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 47
+# Lektion 47
 
 ## 47.1. The Imperative (⟪लोट्⟫)
 

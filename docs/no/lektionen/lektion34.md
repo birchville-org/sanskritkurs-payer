@@ -4,7 +4,7 @@ lesson_id: 34
 status: stable
 ---
 
-# Lesson 34
+# Leksjon 34
 
 ## 34.1. The Perfect (⟪लिट्⟫)
 
@@ -260,7 +260,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## 34.7. Exercise
+## 34.7. Oppgave
 
 Form the corresponding perfect forms in person, number, and gender for the following verb forms:
 
@@ -296,7 +296,7 @@ Form the corresponding perfect forms in person, number, and gender for the follo
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Translation Exercise
+## 34.8. Oversettelsesoppgave
 
 Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
 

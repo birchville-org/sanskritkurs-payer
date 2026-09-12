@@ -4,7 +4,7 @@ lesson_id: 18
 
 ---
 
-# Lesson 18
+# Kennslustund 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -293,7 +293,7 @@ Abb.: ⟪उपनयनम्⟫
 ⟪प्रभृति⟫ f.: beginning, start
 
 :::
-## 18.5. Exercise
+## 18.5. Æfing
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 
@@ -359,7 +359,7 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Review Exercise
+## 18.6. Upprifjunaræfing
 
 Please do not use any aids!
 

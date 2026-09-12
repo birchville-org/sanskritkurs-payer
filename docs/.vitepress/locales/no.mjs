@@ -3,42 +3,42 @@ export const no = {
   lang: 'nb-NO',
   link: '/no/',
   title: 'Sanskritkurs',
-  description: 'Grammatikbok av Alois Payer',
+  description: 'Lærebok i sanskrit av Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'På denne siden' },
     returnToTopLabel: 'Tilbake til toppen',
     sidebarMenuLabel: 'Meny',
     darkModeSwitchLabel: 'Utseende',
-    lightModeSwitchTitle: 'Skift til lys tema',
-    darkModeSwitchTitle: 'Skift til mørkt tema',
+    lightModeSwitchTitle: 'Bytt til lyst tema',
+    darkModeSwitchTitle: 'Bytt til mørkt tema',
     langMenuLabel: 'Endre språk',
     nav: [
       { text: 'Hjem', link: '/no/' },
-      { text: 'TOC', link: '/no/lektionen/inhaltsverzeichnis' },
+      { text: 'Innholdsfortegnelse', link: '/no/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Kreditter', link: '/no/impressum' },
-      { text: '<span class="nav-gear-icon"></span>', link: '/no/settings', ariaLabel: 'Åpne Innstillinger' }
+      { text: 'Kolofon', link: '/no/impressum' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/no/settings', ariaLabel: 'Åpne innstillinger' }
     ],
     docFooter: {
-      prev: 'Forrige Lektion',
-      next: 'Neste Lektion'
+      prev: 'Forrige leksjon',
+      next: 'Neste leksjon'
     },
     sidebar: [
       { text: 'Innholdsfortegnelse', link: '/no/lektionen/inhaltsverzeichnis' },
       { text: 'Grammatikkemner', link: '/no/grammatik' },
       { text: 'Grammatikkindeks', link: '/no/themen' },
-      { text: 'Vokabular', link: '/no/lektionen/wortliste' },
+      { text: 'Ordliste', link: '/no/lektionen/wortliste' },
       { text: 'Glossar', link: '/no/lektionen/glossar' },
-      { text: 'Lektioner', collapsed: false, items: [] },
-      { text: 'Skript (Innledning)', collapsed: true, items: [] },
+      { text: 'Leksjoner', collapsed: false, items: [] },
+      { text: 'Skrift (Innledning)', collapsed: true, items: [] },
       { text: 'Oppgaver', collapsed: true, items: [] },
       { text: 'Juridisk', collapsed: true, items: [
-          { text: 'Juridisk merknad & Sitat', link: '/no/impressum' },
+          { text: 'Juridisk merknad & sitat', link: '/no/impressum' },
           { text: 'Bildelisenser', link: '/no/licenses' },
       ]}
     ],
     footer: {
-      message: "Del av Tüpfli's Globale Bibliotek",
+      message: "Del av Tüpfli's Global Village Library",
       copyright: 'Opphavsrett © 2008-2010 Alois Payer'
     }
   }

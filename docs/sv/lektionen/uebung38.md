@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 38
+# Övning 38
 
 A) Insert the appropriate form of the words in parentheses into the following sentences and translate them:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 45"
+title: "Leksjon 45"
 subtitle: "Formation of the verbal forms for the second person (⟪मध्यमः⟫) of athematic stems without a vowel-ending suffix (continuation)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 45
+# Leksjon 45
 
 ## 45.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)
 
@@ -99,11 +99,11 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 Fig.: ⟪भवति किं करोषि⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt4501))
 :::
-## 45.3. Vocabulary List
+## 45.3. Ordliste
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## 45.4. Exercise
+## 45.4. Oppgave
 
 A) Translate into Sanskrit (for past tense forms, please use the imperfect ⟪लङ्⟫):
 

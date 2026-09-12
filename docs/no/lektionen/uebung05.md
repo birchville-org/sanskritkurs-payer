@@ -1,5 +1,5 @@
 ---
-title: "Exercise 5"
+title: "Oppgave 5"
 uebung_id: 5
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 5
+# Oppgave 5
 
 A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:
 
@@ -98,7 +98,7 @@ Fig.: ⟪अभ्निवेशो न वा ।⟫
 :::
 ---
 
-## Review Exercise Lesson 5
+## Repetisjonsoppgave leksjon 5
 
 A) Translate:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 11"
+title: "Leksjon 11"
 subtitle: "The Double Accusative (Accusative of the Person and the Thing)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 11
+# Leksjon 11
 
 ## 11.1. Double Accusative
 
@@ -71,7 +71,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
 
-## 11.3. Exercise
+## 11.3. Oppgave
 
 **A) Translate the following sentences:**
 
@@ -100,7 +100,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाका
 (Bildekilde: [Detaljer](/no/licenses#lekt1101))
 :::
 
-## 11.4. Review Exercise
+## 11.4. Repetisjonsoppgave
 
 **A) Translate into Sanskrit using passive constructions:**
 1. Vaiśya women ask Brahmins about the Dharma.

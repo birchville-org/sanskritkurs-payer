@@ -1,6 +1,6 @@
-# Table of Contents
+# Innholdsfortegnelse
 
-## [Lesson 1](lektion01)
+## [Leksjon 1](lektion01)
 
 *   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Veneration of Gaṇeśa
 *   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Auspicious Beginning"
@@ -9,7 +9,7 @@
 *   2.1. On the Pronunciation of Individual Sounds
 *   3\. Exercise
 
-## [Lesson 2](lektion02)
+## [Leksjon 2](lektion02)
 
 *   1\. The Nominal Sentence
 *   2\. On Declension (Inflection of Nouns)
@@ -20,7 +20,7 @@
 *   5\. Vocabulary List
 *   6\. Exercise
 
-## [Lesson 3](lektion03)
+## [Leksjon 3](lektion03)
 
 *   1\. Nominative singular = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫ (Continuation)
 *   1.1. Nominative Singular ending in -s (Continuation)
@@ -32,7 +32,7 @@
 *   6\. Vocabulary List
 *   7\. Exercise
 
-## [Lesson 4](lektion04)
+## [Leksjon 4](lektion04)
 
 Spoken Sanskrit
 
@@ -46,7 +46,7 @@ Spoken Sanskrit
 *   1.5. Question Formulas
 *   2\. Exercise
 
-## [Lesson 5](lektion05)
+## [Leksjon 5](lektion05)
 
 *   1\. Nominal compounds = samāsa m. = ⟪समास⟫
 *   2\. On Sanskrit terminology for compounds
@@ -56,7 +56,7 @@ Spoken Sanskrit
 *   4\. Vocabulary list
 *   5\. Exercises
 
-## [Lesson 6](lektion06)
+## [Leksjon 6](lektion06)
 
 *   1\. The verbal sentence
 *   2\. On the formation of verb forms
@@ -74,7 +74,7 @@ Spoken Sanskrit
 *   8\. Exercises
 *   9\. Review exercises
 
-## [Lesson 7](lektion07)
+## [Leksjon 7](lektion07)
 
 Weekly saying
 
@@ -91,7 +91,7 @@ Weekly saying
 *   6\. Vocabulary list
 *   7\. Exercises
 
-## [Lesson 8](lektion08)
+## [Leksjon 8](lektion08)
 
 *   1\. On the formation of nouns
 *   2\. Classification of nominal suffixes
@@ -106,7 +106,7 @@ Weekly saying
 *   6\. Exercise
 *   7\. Reading and translation exercise
 
-## [Lesson 9](lektion09)
+## [Leksjon 9](lektion09)
 
 *   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("collective dvandva")
 *   2\. On the formation of nominal stems
@@ -115,7 +115,7 @@ Weekly saying
 *   3\. Vocabulary list
 *   4\. Exercise
 
-## [Lesson 10](lektion10)
+## [Leksjon 10](lektion10)
 
 *   1\. The passive sentence
 *   2\. The instrumental = tṛtīyā f. = ⟪तृतीया⟫ = "third case ending"
@@ -128,14 +128,14 @@ Weekly saying
 *   7\. Vocabulary list 2
 *   8\. Reading and translation exercise
 
-## [Lesson 11](lektion11)
+## [Leksjon 11](lektion11)
 
 *   1\. Double accusative
 *   2\. Vocabulary list
 *   3\. Exercise
 *   4\. Review exercise
 
-## [Lesson 12](lektion12)
+## [Leksjon 12](lektion12)
 
 *   1\. Perfect passive participle (PPP)
 *   1.1. Schema for transitive verbs
@@ -151,7 +151,7 @@ Weekly saying
 *   5.1. Passive and PPP of the roots learned so far
 *   6\. Exercise
 
-## [Lesson 13](lektion13)
+## [Leksjon 13](lektion13)
 
 *   1\. PPP in -na-
 *   2\. Further on the usage of the PPP
@@ -165,7 +165,7 @@ Weekly saying
 *   10\. Exercise
 *   11\. Review exercise
 
-## [Lesson 14](lektion14)
+## [Leksjon 14](lektion14)
 
 *   1\. Expressing the relationship of entities designated by nouns: the genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 *   2\. Formation of the genitive forms (ṣāṣṭhī f. = ⟪षष्ठी⟫)
@@ -174,7 +174,7 @@ Weekly saying
 *   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
 *   6\. Exercise
 
-## [Lesson 15](lektion15)
+## [Leksjon 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinative compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
@@ -189,14 +189,14 @@ Weekly saying
 *   10\. Exercise 2
 *   11\. Exercise 3
 
-## [Lesson 16](lektion16)
+## [Leksjon 16](lektion16)
 
 *   1\. On the sandhi of final consonants
 *   2\. Vocabulary list
 *   3\. Exercise
 *   4\. Review exercise
 
-## [Lesson 17](lektion17)
+## [Leksjon 17](lektion17)
 
 *   1\. Second present class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 *   2\. Roots of the second present class with stem gradation strong grade - weak grade
@@ -207,7 +207,7 @@ Weekly saying
 *   7\. Exercise 1
 *   8\. Exercise 2
 
-## [Lesson 18](lektion18)
+## [Leksjon 18](lektion18)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinative compounds (⟪तत्पुरुष⟫) with adverbial first member
@@ -219,7 +219,7 @@ Weekly saying
 *   5\. Exercise
 *   6\. Review exercise
 
-## [Lesson 19](lektion19)
+## [Leksjon 19](lektion19)
 
 *   1\. The relative clause
 *   2\. The relative pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
@@ -227,7 +227,7 @@ Weekly saying
 *   4\. Exercise
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lesson 20](lektion20)
+## [Leksjon 20](lektion20)
 
 *   1\. Possessive compounds = ⟪बहुव्रीहि⟫ m.
 *   2\. Bahuvrīhi with attributive first member
@@ -242,7 +242,7 @@ Weekly saying
 *   11\. Exercise 2
 *   12\. Translation exercise
 
-## [Lesson 21](lektion21)
+## [Leksjon 21](lektion21)
 
 *   1\. Further present stems ending in -nt
 *   1.1. Present participle (⟪लडादेशः⟫) Parasmaipada
@@ -252,7 +252,7 @@ Weekly saying
 *   4\. Vocabulary list
 *   5\. Exercise
 
-## [Lesson 22](lektion22)
+## [Leksjon 22](lektion22)
 
 *   1. The Absolutives (⟪क्त्वा । ल्यप्⟫)
 *   2. Formation of the Absolutives
@@ -265,7 +265,7 @@ Weekly saying
 *   3. Vocabulary list
 *   4. Exercises
 
-## [Lesson 23](lektion23)
+## [Leksjon 23](lektion23)
 
 *   1. The Infinitive (⟪तुमुन्⟫)
 *   2. Formation of the Infinitive (⟪तुमुन्⟫)
@@ -274,7 +274,7 @@ Weekly saying
 *   5. Exercises
 *   6. Review exercises
 
-## [Lesson 24](lektion24)
+## [Leksjon 24](lektion24)
 
 *   1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
 *   2. Formation of the Dative (⟪चतुर्थी⟫)
@@ -287,7 +287,7 @@ Weekly saying
 *   5. Exercises
 *   6. Further exercises on the use of the Dative
 
-## [Lesson 25](lektion25)
+## [Leksjon 25](lektion25)
 
 *   1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 *   2. Use of the Ablative (⟪पञ्चमी⟫)
@@ -298,7 +298,7 @@ Weekly saying
 *   7. ⟪सुभाषितानि⟫
 *   8. Translation exercises
 
-## [Lesson 26](lektion26)
+## [Leksjon 26](lektion26)
 
 *   1. Law of Cerebralisations for -s- within the word
 *   2. Law of Cerebralisations for Dentals within the word
@@ -309,7 +309,7 @@ Weekly saying
 *   7. Formation of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 *   8. Exercises
 
-## [Lesson 27](lektion27)
+## [Leksjon 27](lektion27)
 
 *   1\. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
 *   2\. Formation of the Locative (⟪सप्तमी⟫)
@@ -336,7 +336,7 @@ Weekly saying
 *   7.13. Relative pronouns: ⟪यद्⟫
 *   7.14. Interrogative pronouns: ⟪किम्⟫
 
-## [Lesson 28](lektion28)
+## [Leksjon 28](lektion28)
 
 *   1\. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 *   2\. Sentence construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
@@ -350,14 +350,14 @@ Weekly saying
 *   10\. Vocabulary list
 *   11\. Exercises
 
-## [Lesson 29](lektion29)
+## [Leksjon 29](lektion29)
 
 *   1. Use of the Parasmaipada and Ātmanepada in the Causative
 *   2. Vocabulary list
 *   3. Translation exercise for review
 *   4. Future and Causative forms of the roots learned so far
 
-## [Lesson 30](lektion30)
+## [Leksjon 30](lektion30)
 
 *   1. The 9th Present class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
 *   2. Usage of the Optative (⟪लिङ्⟫)
@@ -370,13 +370,13 @@ Weekly saying
 *   7. Exercise
 *   8. Review exercise on morphology
 
-## [Lesson 31](lektion31)
+## [Leksjon 31](lektion31)
 
 *   1. The 7th Present class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 *   2. Vocabulary list
 *   3. Exercise
 
-## [Lesson 32](lektion32)
+## [Leksjon 32](lektion32)
 
 *   1. The past tenses
 *   2. The Imperfect (⟪लङ्⟫)
@@ -388,7 +388,7 @@ Weekly saying
 *   6. Exercise
 *   7. Review exercise over the Christmas holidays
 
-## [Lesson 33](lektion33)
+## [Leksjon 33](lektion33)
 
 *   1. Reduplication (⟪अभ्यास⟫ m.)
 *   1.1. The reduplicating consonant
@@ -401,7 +401,7 @@ Weekly saying
 *   6. Vocabulary list
 *   7. Exercise
 
-## [Lesson 34](lektion34)
+## [Leksjon 34](lektion34)
 
 *   1. The Perfect (⟪लिट्⟫)
 *   2. The reduplicated Perfect (⟪द्वित्वलिट्⟫)
@@ -417,7 +417,7 @@ Weekly saying
 *   7. Exercise
 *   8. Translation exercise
 
-## [Lesson 35](lektion35)
+## [Leksjon 35](lektion35)
 
 *   1. Perfect Type III: Strong stem in guṇa grade/lengthened grade
 *   1.1. Perfect Type IIIa: Strong stem in guṇa grade/lengthened grade, weak stem in zero grade
@@ -430,7 +430,7 @@ Weekly saying
 *   4. Vocabulary list
 *   5. Exercise
 
-## [Lesson 36](lektion36)
+## [Leksjon 36](lektion36)
 
 *   1. Special formations of the Perfect
 *   2. The periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
@@ -441,7 +441,7 @@ Weekly saying
 *   7. Translation exercise
 *   8. Review exercise on morphology
 
-## [Lesson 37](lektion37)
+## [Leksjon 37](lektion37)
 
 *   1\. The Adverb (⟪क्रियाविशेषनम्⟫)
 *   2\. Adverbial Use of Case Forms
@@ -466,7 +466,7 @@ Weekly saying
 *   10\. Exercise
 *   11\. Review Exercise
 
-## [Lesson 38](lektion38)
+## [Leksjon 38](lektion38)
 
 *   1\. Solution of the Week
 *   2\. Sound Change of Nasals in Words
@@ -484,7 +484,7 @@ Weekly saying
 *   11\. Vocabulary List for Translation Exercise
 *   12\. Translation Exercise
 
-## [Lesson 39](lektion39)
+## [Leksjon 39](lektion39)
 
 *   1\. The personal endings of the first person (⟪तृतीयः पुरुषः⟫ = "third person")
 *   2\. Formation of the first-person verb forms of thematic present stems
@@ -505,7 +505,7 @@ Weekly saying
 *   4.6. Ninth present class (⟪क्र्यादि⟫)
 *   5\. Exercise
 
-## [Lesson 40](lektion40)
+## [Leksjon 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Formation of the first-person verb forms of the perfect (⟪लिट्⟫)
@@ -527,7 +527,7 @@ Weekly saying
 *   7\. Exercise
 *   8\. Review exercise on morphology
 
-## [Lesson 41](lektion41)
+## [Leksjon 41](lektion41)
 
 *   1\. ⟪सुभाषिते⟫ (two proverbs)
 *   2\. Further ⟪कृत्⟫ formations on -a
@@ -545,7 +545,7 @@ Weekly saying
 *   3\. Vocabulary list
 *   4\. Exercise
 
-## [Lesson 42](lektion42)
+## [Leksjon 42](lektion42)
 
 *   1\. Stems on -ṛ
 *   1.1. Stems with lengthened grade in the strong stem
@@ -557,7 +557,7 @@ Weekly saying
 *   3\. Exercise
 *   4\. Translation exercise
 
-## [Lesson 43](lektion43)
+## [Leksjon 43](lektion43)
 
 *   1\. Personal endings of the second person (⟪मध्यमः⟫ = "middle \<Person\>")
 *   2\. Formation of verbal forms of the second person (⟪मध्यमः⟫)
@@ -575,7 +575,7 @@ Weekly saying
 *   5\. Exercise
 *   6\. ⟪संवादः⟫ = Conversation
 
-## [Lesson 44](lektion44)
+## [Leksjon 44](lektion44)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) of athematic stems with a vowel-ending suffix
 *   1.1. Fifth present class (⟪स्वादि⟫)
@@ -591,7 +591,7 @@ Weekly saying
 *   6. Exercise
 *   7. Review exercise on morphology
 
-## [Lesson 45](lektion45)
+## [Leksjon 45](lektion45)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) of athematic stems without a vowel-ending suffix (continuation)
 *   1.1. Third present class (⟪जुहोत्यादि⟫)
@@ -600,7 +600,7 @@ Weekly saying
 *   3. Word list
 *   4. Exercise
 
-## [Lesson 46](lektion46)
+## [Leksjon 46](lektion46)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) perfect (⟪लिट्⟫)
 *   1.1. Endings
@@ -620,7 +620,7 @@ Weekly saying
 *   2. Word list
 *   3. Exercise
 
-## [Lesson 47](lektion47)
+## [Leksjon 47](lektion47)
 
 *   1\. The Imperative (⟪लोट्⟫)
 *   2\. Formation of the Imperative (⟪लोट्⟫) thematic present stems
@@ -632,7 +632,7 @@ Weekly saying
 *   2.6. Passive Voice
 *   3\. Exercise
 
-## [Lesson 48](lektion48)
+## [Leksjon 48](lektion48)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Formation of the Imperative (⟪लोट्⟫) athematic present stems
@@ -645,7 +645,7 @@ Weekly saying
 *   5\. Exercise
 *   6\. Translation Exercise
 
-## [Lesson 49](lektion49)
+## [Leksjon 49](lektion49)
 
 *   1\. Formation of the Imperative (⟪लोट्⟫) athematic present stems (Continuation)
 *   1.1. Seventh Present Class  (⟪रुधादि⟫)
@@ -658,13 +658,13 @@ Weekly saying
 *   5\. Review Exercise on Morphology
 *   6\. Translation Exercise
 
-## [Lesson 50](lektion47)
+## [Leksjon 50](lektion47)
 
 *   1\. Nominal Derivation: Regular Gradation (Guṇa)
 *   2\. Vocabulary List
 *   3\. Translation Exercise
 
-## [Lesson 51](lektion51)
+## [Leksjon 51](lektion51)
 
 *   1\. ⟪उपपद⟫-Compounds
 *   2\. Declension of Stems ending in a simple consonant (except Nasal, Semivowel, -s)
@@ -677,7 +677,7 @@ Weekly saying
 *   7\. Vocabulary List
 *   8\. Translation Exercise
 
-## [Lesson 52](lektion52)
+## [Leksjon 52](lektion52)
 
 *   1\. Neuter of stems ending in -i and -u
 *   2\. Nominal derivation
@@ -702,7 +702,7 @@ Weekly saying
 *   8\. Translation exercise
 *   9\. Tasks during the semester break
 
-## [Lesson 53](lektion53) (Semester break)
+## [Leksjon 53](lektion53) (Semester break)
 
 *   1\. The dual (⟪द्विवचन n.) of nouns
 *   2\. Dual endings of the noun
@@ -722,7 +722,7 @@ Weekly saying
 *   10.4. The epic Śloka (⟪श्लोक m.)
 *   11\. Exercise
 
-## [Lesson 54](lektion54)
+## [Leksjon 54](lektion54)
 
 *   1\. Preliminary Remarks
 *   2\. Word Formation: ⟪कृत्⟫-suffix -u on desiderative stems
@@ -733,12 +733,12 @@ Weekly saying
 *   6.1. The Aorist of the 3rd person singular passive
 *   7\. Exercise
 
-## [Lesson 55](lektion55)
+## [Leksjon 55](lektion55)
 
 *   1\. The a-Aorist (Aorist with thematic vowel)
 *   2\. Exercise
 
-## [Lesson 56](lektion56)
+## [Leksjon 56](lektion56)
 
 *   1\. The reduplicated Aorist
 *   1.1. Formation of the Aorist for causatives and roots of the 10th present class
@@ -747,12 +747,12 @@ Weekly saying
 *   4\. ⟪स्म⟫
 *   5\. Exercise
 
-## [Lesson 57](lektion57)
+## [Leksjon 57](lektion57)
 
 *   1\. Aorist 4: s-Aorist
 *   2\. Exercise
 
-## [Lesson 58](lektion58)
+## [Leksjon 58](lektion58)
 
 *   1\. Primary endings of the dual (⟪द्विवचनम्⟫)
 *   2\. The dual of thematic present classes: Indicative Present (⟪लट्⟫)
@@ -774,7 +774,7 @@ Weekly saying
 *   6\. Aorist 5: iṣ-Aorist
 *   7\. Exercise
 
-## [Lesson 59](lektion59)
+## [Leksjon 59](lektion59)
 
 *   1\. The secondary endings and imperative endings of the dual (⟪द्विवचनम्⟫)
 *   2\. The dual of thematic present classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
@@ -800,7 +800,7 @@ Weekly saying
 *   6\. Aorist (⟪लुङ्⟫) 7: sa-aorist (thematic s-aorist)
 *   7\. Exercise
 
-## [Lesson 60](lektion60)
+## [Leksjon 60](lektion60)
 
 *   1\. The perfect endings of the dual (⟪द्विवचनम्⟫)
 *   2\. The dual of the reduplicated perfect (⟪द्वित्वलिट्⟫)
@@ -824,7 +824,7 @@ Weekly saying
 *   6.2. Conjugation of the desiderative (⟪सन्⟫)
 *   7\. Exercise
 
-## [Lesson 61](lektion61)
+## [Leksjon 61](lektion61)
 
 *   1\. Declension of root nouns ending in -ā, -ī, -ū
 *   1.1. Root nouns ending in -ā at the end of ⟪तत्पुरुष⟫

@@ -1,4 +1,4 @@
-# Writing Exercise 8
+# Skriveoppgave 8
 
 Vowel signs for the beginning of a word, if the word is not written connected to a preceding word:
 
@@ -72,7 +72,7 @@ e.g.
 
 ⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
-## Exercise
+## Oppgaver
 
 A) Write all ligatures appearing in the list above
 

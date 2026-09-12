@@ -1,5 +1,5 @@
 ---
-title: "Exercise 13"
+title: "Oppgave 13"
 uebung_id: 13
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 13
+# Oppgave 13
 
 A) Translate and convert into active present tense sentences:
 
@@ -82,7 +82,7 @@ Fig.: ⟪अग्निर्गृहं दहति ।⟫
 :::
 ---
 
-## Additional Exercises
+## Flere oppgaver
 
 A) Translate the following sentences.
 

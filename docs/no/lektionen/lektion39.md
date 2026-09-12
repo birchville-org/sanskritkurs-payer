@@ -1,5 +1,5 @@
 ---
-title: "Lesson 39"
+title: "Leksjon 39"
 subtitle: 'The personal endings of the first person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**third** person")'
 lesson_id: 39
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 39
+# Leksjon 39
 
 ## 39.1. The personal endings of the first person (:sig[तृतीयः] ⟪पुरुषः⟫ = "**third** person")
 
@@ -275,7 +275,7 @@ Fig.: ⟪सो ऽस्मि⟫
 | **Optative - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Exercise
+## 39.5. Oppgave
 
 Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and diathesis (P, Ā, Passive).
 

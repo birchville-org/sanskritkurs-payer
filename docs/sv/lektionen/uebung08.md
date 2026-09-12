@@ -156,7 +156,7 @@ Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 
 ---
 
-## Reading Exercise
+## Läsövning
 
 1\. ⟪शूद्रो बालं नयति⟫ |
 The Śūdra leads the boy.

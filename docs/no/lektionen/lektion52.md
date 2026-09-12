@@ -1,5 +1,5 @@
 ---
-title: "Lesson 52"
+title: "Leksjon 52"
 subtitle: "Neuter of stems ending in -i and -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 52
+# Leksjon 52
 
 ## 52.1. Neuter of stems in -i and -u
 
@@ -638,7 +638,7 @@ Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-## 52.8. Translation Exercise
+## 52.8. Oversettelsesoppgave
 
 ⟪१⟫. ⟪मनुस्मृति ४⟫, ⟪१५९⟫ - ⟪१६१⟫
 

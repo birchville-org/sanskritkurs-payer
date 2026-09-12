@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 36
+# Lektion 36
 
 ## 36.1. Special formations of the perfect
 
@@ -332,7 +332,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: own (my, your ...) ; m.: member
 
-## 36.5. Exercise
+## 36.5. Övning
 
 A) The following roots have both a reduplicated and a periphrastic perfect. Form the corresponding periphrastic and reduplicated perfect forms for the following forms:
 
@@ -484,7 +484,7 @@ Fig.: ⟪पुत्रे जाते सुगतः कुलं धनं 
 | ⟪हृ⟫ 1U | IIIa | ⟪जहार⟫, ⟪जह्रे⟫ |
 
 
-## 36.7. Translation Exercise
+## 36.7. Översättningsövning
 
 Translate:
 
@@ -556,7 +556,7 @@ In this verse, ⟪ब्रू⟫ is constructed with the genitive
 
 :::
 
-## 36.8. Review Exercise on Morphology
+## 36.8. Repetitionsövning i formlära
 
 Determine and translate the following word forms in all possible ways:
 

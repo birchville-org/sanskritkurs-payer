@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 7
+# Lektion 7
 
 
 ::: center

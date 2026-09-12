@@ -1,4 +1,4 @@
-# Writing Exercise 10
+# Skriveoppgave 10
 
 ### Second Rule for Forming Consonant Ligatures
 
@@ -24,7 +24,7 @@ Examples (exceptions are underlined):
 
 ![](/images/schrift022.webp)
 
-### Exercise
+### Oppgave
 
 Write out all the ligatures listed above
 
@@ -36,7 +36,7 @@ Write out all the ligatures listed above
 
 ![](/images/schrift025.webp)
 
-### Exercise
+### Oppgave
 
 Read and transliterate:
 

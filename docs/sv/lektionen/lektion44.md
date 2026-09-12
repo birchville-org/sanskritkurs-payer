@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 44
+# Lektion 44
 
 ## 44.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with a vowel-ending suffix
 
@@ -459,7 +459,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## 44.6. Exercise
+## 44.6. Övning
 
 A) Determine and translate the following forms:
 

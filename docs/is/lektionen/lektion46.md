@@ -1,5 +1,5 @@
 ---
-title: "Lesson 46"
+title: "Kennslustund 46"
 subtitle: "Formation of the verbal forms for the second person (⟪मध्यमः⟫) Perfect tense (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 46
+# Kennslustund 46
 
 ## 46.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
 
@@ -575,7 +575,7 @@ e.g.
 Fig.: [⟪भोः⟩](/is/licenses#lekt4611)
 (Image source: [Details](/is/licenses#lekt4611))
 :::
-## 46.3. Exercise
+## 46.3. Æfing
 
 A) Determine and translate the following forms:
 

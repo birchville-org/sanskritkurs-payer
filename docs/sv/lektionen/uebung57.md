@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 57
+# Övning 57
 
 ## A) Aorist Transformations
 

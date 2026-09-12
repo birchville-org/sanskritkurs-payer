@@ -46,7 +46,7 @@ Nådig frue, din ydmygelse må ikke berettes for herre Rāma.
 
 ---
 
-## Translations into Sanskrit (Imperative)
+## Oversættelser til sanskrit (Imperative)
 
 B) Translate into Sanskrit using the Imperative:
 

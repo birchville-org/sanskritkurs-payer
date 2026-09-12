@@ -1,10 +1,10 @@
 # Devanagari = ⟪देवनागरी⟫
 
-## Writing Exercise 2
+## Skriveoppgave 2
 
 ![](/images/schrift004.webp)
 
-## Exercise
+## Oppgaver
 
 A) Write in Devanagari:
 

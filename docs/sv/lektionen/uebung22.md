@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 22
+# Övning 22
 
 A) Form and translate the absolute for the following verbs:
 

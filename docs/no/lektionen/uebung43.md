@@ -1,12 +1,12 @@
 ---
-title: "Exercise 43"
+title: "Oppgave 43"
 uebung_id: 43
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 43
+# Oppgave 43
 
 A) Form the corresponding **2nd person** of the following verb forms in tense, number, mood, etc.:
 
@@ -74,7 +74,7 @@ Fig.: ⟪दिशसि⟫
 :::
 ---
 
-## Translations into Sanskrit
+## Oversettelser til sanskrit
 
 B) Translate into Sanskrit:
 

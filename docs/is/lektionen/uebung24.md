@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 24
+# Æfing 24
 
 A) Form the dative singular and the dative (or ablative) plural, and provide the meaning of the nominal stem:
 
@@ -101,7 +101,7 @@ E) Replace the dative in sentence B) 6 with a construction using **-⟪अर्
 
 ---
 
-## Additional Translation Exercises
+## Frekari þýðingaræfingar
 
 1. The goddess, to whom no sacrifice has been offered, is angry with humans.
 **⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (or: ⟪कुप्यति ॥⟫)**

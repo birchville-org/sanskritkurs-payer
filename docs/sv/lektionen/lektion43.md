@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 43
+# Lektion 43
 
 ## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<Person\>")
 
@@ -143,7 +143,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, and ⟪वस्⟫ must not be used
 
 :::
 
-## 43.4. Vocabulary list
+## 43.4. Ordlista
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
@@ -289,7 +289,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## 43.5. Exercise
+## 43.5. Övning
 
 A) Form the corresponding 2nd person for the following verb forms in tense, number, mood etc.:
 

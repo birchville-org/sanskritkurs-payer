@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 44
+# Övning 44
 
 A) Determine and translate the following forms:
 
@@ -69,7 +69,7 @@ A) Determine and translate the following forms:
 :::
 ---
 
-## Translations
+## Översättningar
 
 B) Translate:
 

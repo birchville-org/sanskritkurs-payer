@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 39
+# Æfing 39
 
 A) Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, Passive):
 

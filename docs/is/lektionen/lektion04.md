@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 4
+# Kennslustund 4
 
 ## 4.1. Simple complement questions (word questions) and answers
 
@@ -87,7 +87,7 @@ Another example of other questions:
 NOTE: The answers you can give to such questions with your current Sanskrit knowledge do not, of course, yet correspond in every respect to idiomatic good Sanskrit.
 
 
-## 4.2. Exercise
+## 4.2. Æfing
 
 **A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (⟪विष्णुः कः⟫) and answer the questions in Sanskrit:**
 

@@ -152,7 +152,7 @@ Fig.: ⟪का नृत्यति ।⟫
 
 ---
 
-## Review Exercise Lesson 6
+## Upprifjunaræfing kennslustund 6
 
 A) Fill-in exercise: Form questions to which the sentences you form after following these fill-in exercises are answers:
 

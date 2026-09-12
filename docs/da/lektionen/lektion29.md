@@ -111,7 +111,7 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Translation Exercise for Review
+## 29.3. Oversættelsesøvelse til repetition
 
 Translate faithfully into good German and memorize the Sanskrit texts:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 41"
+title: "Leksjon 41"
 subtitle: "⟪सुभाषिते⟫ (two proverbs)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 41
+# Leksjon 41
 
 ## 41.1. ⟪सुभाषिते⟫ (two proverbs)
 
@@ -371,7 +371,7 @@ Fig.: ⟪शास्त्री⟫
 ::: indent
 PPP ⟪अतीत⟫ : n. past tense
 :::
-## 41.4. Exercise
+## 41.4. Oppgave
 
 A) Translate the two proverbs at the beginning of the lesson.
 

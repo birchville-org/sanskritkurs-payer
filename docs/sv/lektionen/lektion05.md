@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 5
+# Lektion 5
 
 ## 5.1. Nominal Compounds (samāsa m. = ⟪समास⟫)
 
@@ -121,7 +121,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
 
-## 5.5. Exercise
+## 5.5. Övning
 
 **A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:**
 
@@ -158,7 +158,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
-## 5.6. Review Exercise
+## 5.6. Repetitionsövning
 
 **A) Translate:**
 

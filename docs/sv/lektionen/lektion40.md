@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 40
+# Lektion 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -774,7 +774,7 @@ B) Omvandla följande verbformer till motsvarande perfektformer. Om det finns fl
 68. ⟪पश्यामः⟫
 69. ⟪ईक्षे⟫
 
-## 40.8. Form Review Exercise
+## 40.8. Repetitionsövning i formlära
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

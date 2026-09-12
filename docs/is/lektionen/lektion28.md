@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-16
 
 ---
 
-# Lesson 28
+# Kennslustund 28
 
 ## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -379,7 +379,7 @@ Girl carrying a burden. Near Ahmedabad.
 ⟪भृत्य⟫ m.: subordinate, servant
 
 
-## 28.11. Exercise
+## 28.11. Æfing
 
 **A) Form the causative of the following verb forms and participial forms, and provide their meaning:**
 

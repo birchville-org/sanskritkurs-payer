@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 46
+# Övning 46
 
 A) Determine and translate the following forms:
 

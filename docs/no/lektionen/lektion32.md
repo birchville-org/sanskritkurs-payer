@@ -1,11 +1,11 @@
 ---
-title: "Lesson 32"
+title: "Leksjon 32"
 lesson_id: 32
 status: stable
 
 ---
 
-# Lesson 32
+# Leksjon 32
 
 ## 32.1. The Past Tenses
 
@@ -222,7 +222,7 @@ Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Bildekilde: [Detaljer](/no/licenses#lekt3206))
 :::
-## 32.6. Exercise
+## 32.6. Oppgave
 
 A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and gender:
 
@@ -312,7 +312,7 @@ Fig.: ⟪बुद्धपुत्र इति बुद्धमार्ग
 Buddhist monk in Sri Lanka.
 (Bildekilde: [Detaljer](/no/licenses#lekt3208))
 :::
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. Repetisjonsoppgave for juleferien
 
 Note: Originally, this was held each winter semester at the University of Tübingen. For Lesson 32, the two-week Christmas holidays began.
 
@@ -535,7 +535,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Bildekilde: [Detaljer](/no/licenses#lekt3209))
 :::
-## 32.8. Review Exercise
+## 32.8. Repetisjonsoppgave
 
 Translate and identify the following word forms:
 
@@ -580,7 +580,7 @@ Translate and identify the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Translation Exercise
+## 32.9. Oversettelsesoppgave
 
 ::: compact
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br

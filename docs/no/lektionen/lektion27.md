@@ -1,5 +1,5 @@
 ---
-title: "Lesson 27"
+title: "Leksjon 27"
 subtitle: 'Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 27
+# Leksjon 27
 
 ## 27.1. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
 
@@ -250,7 +250,7 @@ Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Bildekilde: [Detaljer](/no/licenses#lekt2705))
 :::
-## 27.6. Exercise
+## 27.6. Oppgave
 
 **A) Insert the expressions in parentheses into the following sentence in the locative (⟪सप्तमी⟫) singular and, where appropriate, plural. Note the different sandhi rules; i.e., write out each full sentence!**
 

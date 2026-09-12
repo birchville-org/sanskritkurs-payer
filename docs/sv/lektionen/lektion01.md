@@ -8,7 +8,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-# Lesson 1
+# Lektion 1
 
 
 ::: center
@@ -228,7 +228,7 @@ Klassifizierung
 The best pronunciation is achieved when one reads the sentences, verses or words quite slowly and monotonously with exact consideration of the length of the vowels.
 
 
-## 1.3. Exercise
+## 1.3. Övning
 
 **A) Read the following words:**
 
@@ -247,7 +247,7 @@ The best pronunciation is achieved when one reads the sentences, verses or words
 The best pronunciation is achieved when one reads the sentences, verses or words quite slowly and monotonously with exact consideration of the length of the vowels.
 
 
-## 1.3. Exercise
+## 1.3. Övning
 
 **A) Read the following words:**
 

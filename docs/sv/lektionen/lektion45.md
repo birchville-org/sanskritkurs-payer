@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 45
+# Lektion 45
 
 ## 45.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)
 

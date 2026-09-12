@@ -1,5 +1,5 @@
 ---
-title: "Exercise 9"
+title: "Æfing 9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 9
+# Æfing 9
 
 A) Attempt to determine the possible meanings of the following words:
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 36
+# Övning 36
 
 A) Form both the reduplicated and periphrastic perfect forms for the following stems:
 
@@ -48,7 +48,7 @@ C) Form the corresponding perfect for the following stems:
 :::
 ---
 
-## Translations
+## Översättningar
 
 ⟪१⟫. **⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫**
 When a son was born to him, the Enlightened One left his family and property and went forth from home into homelessness. With his intellect he realized the Noble Truths, was liberated through the knowledge of suffering, and brought those noble people who desired liberation to insight — thus report the monks.

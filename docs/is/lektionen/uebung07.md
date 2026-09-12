@@ -1,5 +1,5 @@
 ---
-title: "Exercise 7"
+title: "Æfing 7"
 uebung_id: 7
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 7
+# Æfing 7
 
 A) Insert the direct object or directional accusative in both singular and plural (unless they are proper names):
 

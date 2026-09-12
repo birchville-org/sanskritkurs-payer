@@ -1,5 +1,5 @@
 ---
-title: "Exercise 32"
+title: "Æfing 32"
 uebung_id: 32
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 32
+# Æfing 32
 
 A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and genus verbi:
 
@@ -217,7 +217,7 @@ Fig.: ⟪किमयं रथो बालान् सुखतां वह�
 :::
 ---
 
-## Exercise on Sandhi
+## Æfingr on Sandhi
 
 Insert the words in parentheses into the following sentences and observe the rules of Sandhi:
 
@@ -242,7 +242,7 @@ Insert the words in parentheses into the following sentences and observe the rul
 
 ---
 
-## Additional Sanskrit Translations
+## Frekari sanskrítarþýðingar
 
 1. After the son is born, the Brahmin woman sends a servant to the Brahmin.
 **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति ।⟫**

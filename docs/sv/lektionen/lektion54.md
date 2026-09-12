@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 54
+# Lektion 54
 
 ## 54.1. Preliminary Remarks
 
@@ -231,7 +231,7 @@ Example:
 
 (The remaining forms of the passive are rendered in the aorist by Ātmanepada forms).
 :::
-## 54.7. Exercise
+## 54.7. Övning
 
 Translate the following forms in writing and form the corresponding aorist forms:
 

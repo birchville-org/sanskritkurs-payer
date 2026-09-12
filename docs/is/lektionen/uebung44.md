@@ -1,5 +1,5 @@
 ---
-title: "Exercise 44"
+title: "Æfing 44"
 uebung_id: 44
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 44
+# Æfing 44
 
 A) Determine and translate the following forms:
 
@@ -69,7 +69,7 @@ A) Determine and translate the following forms:
 :::
 ---
 
-## Translations
+## Þýðingar
 
 B) Translate:
 

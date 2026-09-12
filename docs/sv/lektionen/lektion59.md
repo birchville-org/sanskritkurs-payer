@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 59
+# Lektion 59
 
 ## 59.1. The secondary endings and dual imperative endings (⟪द्विवचनम्⟫)
 
@@ -747,7 +747,7 @@ Paradigm:
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / :sig[⟪अधिग्धास्⟫] | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / :sig[⟪अधिग्ध्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / :sig[⟪अदिग्ध⟫] | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Exercise
+## 59.7. Övning
 
 A) Translate the following text and identify all verbal forms occurring within it.
 

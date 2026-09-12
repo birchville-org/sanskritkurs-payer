@@ -1,5 +1,5 @@
 ---
-title: "Exercise 46"
+title: "Æfing 46"
 uebung_id: 46
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 46
+# Æfing 46
 
 A) Determine and translate the following forms:
 

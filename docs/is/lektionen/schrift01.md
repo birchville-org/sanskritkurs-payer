@@ -1,6 +1,6 @@
 # Devanagari = ⟪देवनागरी⟫
 
-## Writing Exercise 1
+## Skrifæfing 1
 
 Sanskrit was and is written in a variety of scripts. The following overview provides a small selection from these scripts:
 
@@ -28,7 +28,7 @@ The order when writing these combinations of consonant + vowel is:
 
 When writing, each letter including the crossbar is completed before the next letter is written.
 
-## Exercise
+## Æfingr
 
 Skrifið á devanāgarī:
 

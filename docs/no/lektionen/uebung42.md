@@ -1,5 +1,5 @@
 ---
-title: "Exercise 42"
+title: "Oppgave 42"
 uebung_id: 42
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 42
+# Oppgave 42
 
 Translate:
 

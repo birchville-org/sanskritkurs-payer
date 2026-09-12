@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 44
+# Leksjon 44
 
 ## 44.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with a vowel-ending suffix
 
@@ -459,7 +459,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## 44.6. Exercise
+## 44.6. Oppgave
 
 A) Determine and translate the following forms:
 
@@ -529,7 +529,7 @@ B) Translate the following:
 
 ⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-## 44.7. Morphology Review Exercise
+## 44.7. Repetisjonsoppgave i formlære
 
 Determine the following forms:
 

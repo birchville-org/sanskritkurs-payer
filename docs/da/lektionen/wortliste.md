@@ -1327,7 +1327,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Dette er faktisk en del af Ashramet i Ris
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Lektion 21
 
 
 
@@ -1387,7 +1387,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** cook (transitive) = boil, fry, roast etc.
 
-## Lesson 22
+## Lektion 22
 
 
 
@@ -1802,7 +1802,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Lektion 27
 
 
 
@@ -3440,7 +3440,7 @@ Rituals are performed for both, so-called ⟪श्राद्ध⟫ n. Every d
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Lektion 43
 
 
 
@@ -3571,7 +3571,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Lektion 44
 
 
 
@@ -3994,7 +3994,7 @@ Fig.: [⟪भोः⟫](/licenses#lekt4611)
 (Billedkilde: [Detaljer](/licenses#lekt4611))
 :::
 
-## Lesson 48
+## Lektion 48
 
 
 
@@ -4386,7 +4386,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, country, region
 
-## Lesson 51
+## Lektion 51
 
 
 
@@ -4632,7 +4632,7 @@ Absol. ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Lektion 52
 
 
 

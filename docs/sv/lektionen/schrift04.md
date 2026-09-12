@@ -1,6 +1,6 @@
 # Devanagari = ⟪देवनागरी⟫
 
-## Writing Exercise 4
+## Skrivövning 4
 
 ![](/images/schrift006.webp)
 
@@ -12,7 +12,7 @@ Writing:
 
 Note the mandatory writing of hṛ: ⟪हृ⟫
 
-## Exercise
+## Övningr
 
 A) Write in Devanagari:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 40"
+title: "Leksjon 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 40
+# Leksjon 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -516,7 +516,7 @@ from this:
 Fig.: ⟪स्वपन्ति⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt4004))
 :::
-## Lesson 40.7. Exercise
+## Leksjon 40.7. Oppgave
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
@@ -594,7 +594,7 @@ B) Convert the following verbal forms into their corresponding perfect forms. If
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Morphology Review Exercise
+## 40.8. Repetisjonsoppgave i formlære
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

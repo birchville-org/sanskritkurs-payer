@@ -1,11 +1,11 @@
 ---
-title: "Lesson 33"
+title: "Leksjon 33"
 lesson_id: 33
 status: stable
 
 ---
 
-# Lesson 33
+# Leksjon 33
 
 ## 33.1. The Reduplication (⟪अभ्यास⟫ m.)
 
@@ -366,7 +366,7 @@ Fig.: ⟪घृतमग्नौ जुहोति⟫
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
-## 33.7. Exercise
+## 33.7. Oppgave
 
 A) Insert the appropriate forms of the words in parentheses into the following sentence pattern:
 

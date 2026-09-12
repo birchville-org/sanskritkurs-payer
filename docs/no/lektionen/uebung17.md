@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 17
+# Oppgave 17
 
 A) Insert the verb in the following sentences and translate:
 
@@ -56,7 +56,7 @@ Fig.: ⟪बालब्राह्मणी रोदिति⟫
 
 ---
 
-## Verb Forms Exercise
+## Verboppgave
 
 Translate the following verb forms and provide the corresponding root:
 

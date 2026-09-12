@@ -1,5 +1,5 @@
 ---
-title: "Lesson 15"
+title: "Leksjon 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 15
+# Leksjon 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -318,7 +318,7 @@ from that:
 
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Exercise 1
+## 15.9. Oppgave 1
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
@@ -382,7 +382,7 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Exercise 2
+## 15.10. Oppgave 2
 
 Resolve the following Tatpuruṣa as in Exercise 1:
 
@@ -510,7 +510,7 @@ Resolve the following Tatpuruṣa as in Exercise 1:
 Fig.: ⟪ग्रामदेवता⟫
 (Bildekilde: [Detaljer](/no/licenses#lekt1508))
 :::
-## 15.11. Exercise 3
+## 15.11. Oppgave 3
 
 A) Translate the proverb at the beginning of the lesson
 

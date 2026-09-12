@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 12
+# Kennslustund 12
 
 
 ## 12.1. Perfect Passive Participle (PPP)
@@ -258,7 +258,7 @@ Fig.: ⟪महावीरो जिनः⟫
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 
-## 12.6. Exercise
+## 12.6. Æfing
 
 **A) Form passive sentences in the past tense from the active sentences of [Lesson 7](/lektionen/lektion07), Exercise A; for intransitive verbs and verbs of motion, form active sentences in the past tense.**
 

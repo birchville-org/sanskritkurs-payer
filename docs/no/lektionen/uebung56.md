@@ -1,5 +1,5 @@
 ---
-title: "Exercise 56"
+title: "Oppgave 56"
 uebung_id: 56
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 56
+# Oppgave 56
 
 Determine and translate the following forms:
 

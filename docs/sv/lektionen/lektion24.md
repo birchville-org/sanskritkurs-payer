@@ -236,7 +236,7 @@ Example:
 
 :::
 
-## 24.4. Vocabulary List
+## 24.4. Ordlista
 
 ⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone or something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough with, stop , e.g. ⟪अलं क्रोधेन⟫ = "enough with the anger = stop being angry!"
 
@@ -391,7 +391,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## 24.5. Exercise
+## 24.5. Övning
 
 A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 
@@ -435,7 +435,7 @@ D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ by an equi
 
 E) Replace in sentence A) 6 the dative construction by an equivalent construction with -⟪अर्थ⟫
 
-## 24.6. Further exercises on the use of the dative
+## 24.6. Ytterligare övningar i dativanvändning
 
 Translate into Sanskrit:
 

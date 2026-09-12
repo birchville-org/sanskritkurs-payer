@@ -1,12 +1,12 @@
 ---
-title: "Exercise 51"
+title: "Oppgave 51"
 uebung_id: 51
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 51
+# Oppgave 51
 
 ## ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫: ⟪आश्रमधर्मः⟫
 

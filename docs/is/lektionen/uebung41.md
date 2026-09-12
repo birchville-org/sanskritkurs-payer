@@ -1,5 +1,5 @@
 ---
-title: "Exercise 41"
+title: "Æfing 41"
 uebung_id: 41
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 41
+# Æfing 41
 
 A) Translate the two proverbs at the beginning of the lesson:
 

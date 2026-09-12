@@ -1,5 +1,5 @@
 ---
-title: "Lesson 29"
+title: "Kennslustund 29"
 subtitle: "Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative"
 lesson_id: 29
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 29
+# Kennslustund 29
 
 ## 29.1. Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative
 
@@ -36,7 +36,7 @@ Result: ⟪भक्ता विष्णुं पश्यन्ति⟫ = "
 
 The rules thus generally correspond to the rules for using the Ātmanepada (⟪आत्मनेपद⟫) with Ubhayapada (⟪उभयपद⟫) verbs.
 
-## 29.2. Vocabulary List
+## 29.2. Orðalisti
 
 Prefixes:
 
@@ -111,7 +111,7 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Translation Exercise for Review
+## 29.3. Þýðingaræfing til upprifjunar
 
 Translate word-for-word into good German and memorize the Sanskrit texts:
 

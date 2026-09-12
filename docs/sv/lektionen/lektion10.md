@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 10
+# Lektion 10
 
 ## 10.1. The Passive Sentence
 
@@ -312,7 +312,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **saha** ⟪सह⟫ : together with, jointly with (also in “to fight with” etc.) (Postposition with Instrumental)
 
 
-## 10.6. Exercise
+## 10.6. Övning
 
 **A) Form the passive for the following verb forms (with translation of the verb form):**
 
@@ -413,7 +413,7 @@ Abb.: ⟪तन्तुवायः⟫
 
 
 
-## 10.8. Reading and Translation Exercise
+## 10.8. Läs- och översättningsövning
 
 **Read and translate, then convert to the passive voice:**
 

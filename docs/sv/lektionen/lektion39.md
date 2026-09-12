@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 39
+# Lektion 39
 
 ## 39.1. The personal endings of the first person (:sig[तृतीयः] ⟪पुरुषः⟫ = "**third** person")
 
@@ -309,7 +309,7 @@ Abb.: ⟪सो ऽस्मि⟫
 
 :::
 
-## 39.5. Exercise
+## 39.5. Övning
 
 Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and diathesis (P, Ā, Passive).
 

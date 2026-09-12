@@ -2,34 +2,35 @@
 layout: home
 
 hero:
-  name: "Sanskrit Course"
-  text: "A Complete Course"
-  tagline: "by Alois Payer (Tüpfli's Global Village Library)"
+  name: "Sanskritkurs"
+  text: "Et komplett lærekurs"
+  tagline: "av Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: "Start Course"
+      text: "Start kurset"
       link: /no/lektionen/lektion01
     - theme: alt
-      text: "Grammar Topics"
+      text: "Grammatikkemner"
       link: /no/grammatik
 
 features:
-  - title: "Global & Polyglot"
-    details: "Fully available in 20+ languages through an automated, multi-stage AI translation cascade."
+  - title: "Globalt og flerspråklig"
+    details: "Fullt tilgjengelig på over 20 språk gjennom en automatisert, flertrinns AI-oversettelseskaskade."
   - title: "Offline-First PWA"
-    details: "The entire course (including the local search engine) is usable on all devices without an active internet connection."
-  - title: "Scholarly Typography"
-    details: "Native support for Devanāgarī and IAST transliteration with exact academic text alignment."
+    details: "Hele kurset (inkludert lokal søkemotor) kan brukes på alle enheter uten aktiv internettforbindelse."
+  - title: "Vitenskapelig typografi"
+    details: "Innebygd støtte for devanāgarī og IAST-translitterasjon med presis akademisk tekstjustering."
 
 ---
 
 ::: note-box
-The **Sanskrit course** by Alois Payer is a comprehensive, scientifically grounded program for learning the Sanskrit language and Devanāgarī script. This digital edition presents the entire course in a modern, multilingual, and searchable reading environment.
+Alois Payers **Sanskritkurs** er et omfattende, vitenskapelig fundert læreverk for å lære sanskrit og devanāgarī-skrift. Denne digitale utgaven presenterer hele kurset i et moderne, flerspråklig og søkbart lesemiljø.
 
-The languages were fully automatically translated from German with the help of a multi-stage AI cascade. Reports regarding translation errors are highly welcome.
+Språkene ble helautomatisk oversatt fra tysk ved hjelp av en flertrinns AI-kaskade. Tilbakemeldinger om oversettelsesfeil tas imot med stor takk.
 
-- **Contact & Participation**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Online-editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Current Version**: v1.8.4
+- **Kontakt og medvirkning**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Prosjekt-wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Online-redigerer**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
+- **Gjeldende versjon**: v1.8.4
 :::
+

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 37"
+title: "Oppgave 37"
 uebung_id: 37
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 37
+# Oppgave 37
 
 A) Answer the following questions in Sanskrit using the words specified in parentheses:
 

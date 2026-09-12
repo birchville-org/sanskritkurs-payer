@@ -1,5 +1,5 @@
 ---
-title: "Exercise 15"
+title: "Oppgave 15"
 uebung_id: 15
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 15
+# Oppgave 15
 
 A) Translate the proverb at the beginning of the lesson
 
@@ -75,7 +75,7 @@ Fig.: ⟪जलेश्वरो वरुणः⟫
 :::
 ---
 
-## Additional Exercises
+## Flere oppgaver
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 

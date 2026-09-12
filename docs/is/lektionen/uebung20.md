@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 20
+# Æfing 20
 
 A) Translate and resolve the compounds into Sanskrit:
 

@@ -8,7 +8,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-# Lesson 2
+# Lektion 2
 
 
 ## 2.1. The Nominal Sentence
@@ -212,7 +212,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 **guru** m. -- ⟪गुरु⟫ : person worthy of veneration: father, mother, elder relative, esp. teacher, master
 
 
-## 2.6. Exercise
+## 2.6. Övning
 
 **A) Insert the correct forms observing sandhi and form nominal sentences:**
 

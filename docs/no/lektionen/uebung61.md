@@ -1,11 +1,11 @@
 ---
-title: "Exercise 61"
+title: "Oppgave 61"
 uebung_id: 61
 category: "Übung"
 
 ---
 
-# Exercise 61
+# Oppgave 61
 
 Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises.
 

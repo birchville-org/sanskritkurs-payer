@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 55
+# Lektion 55
 
 ## 55.1. The a-aorist (Aorist with thematic vowel)
 
@@ -51,7 +51,7 @@ Note:
 ::: indent
 ⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
 :::
-## 55.2. Exercise
+## 55.2. Övning
 
 Determine and translate the following forms in writing, and form the corresponding a-aorist forms:
 

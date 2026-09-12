@@ -1,5 +1,5 @@
 ---
-title: "Exercise 35"
+title: "Oppgave 35"
 uebung_id: 35
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 35
+# Oppgave 35
 
 A) Form the corresponding perfect forms for the following verb forms:
 

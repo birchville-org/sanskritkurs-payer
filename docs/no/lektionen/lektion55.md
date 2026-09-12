@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 55
+# Leksjon 55
 
 ## 55.1. The a-aorist (Aorist with thematic vowel)
 
@@ -63,7 +63,7 @@ Note:
 
 :::
 
-## 55.2. Exercise
+## 55.2. Oppgave
 
 Determine and translate the following forms in writing, and form the corresponding a-aorist forms:
 

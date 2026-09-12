@@ -1,5 +1,5 @@
 ---
-title: "Lesson 43"
+title: "Leksjon 43"
 subtitle: 'Personal endings of the second person (⟪मध्यमः⟫ = "middle <person>")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 43
+# Leksjon 43
 
 ## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<Person\>")
 
@@ -131,7 +131,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at 
 ::: indent
 ⟪त्वां मां च⟫ "you and me"
 :::
-## 43.4. Vocabulary List
+## 43.4. Ordliste
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
@@ -250,7 +250,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## 43.5. Exercise
+## 43.5. Oppgave
 
 A) Form the corresponding 2nd person for the following verb forms in tense, number, mood etc.:
 

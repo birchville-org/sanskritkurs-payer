@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 56
+# Kennslustund 56
 
 ## 56.1. The reduplicated aorist
 
@@ -250,7 +250,7 @@ e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can someti
 
 :::
 
-## 56.5. Exercise
+## 56.5. Æfing
 
 A) Determine and translate the following forms without aids (!):
 

@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 46
+# Lektion 46
 
 ## 46.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
 
@@ -747,7 +747,7 @@ Fig.: [⟪भोः⟫](/sv/licenses#lekt4611)
 
 :::
 
-## 46.3. Exercise
+## 46.3. Övning
 
 A) Determine and translate the following forms:
 

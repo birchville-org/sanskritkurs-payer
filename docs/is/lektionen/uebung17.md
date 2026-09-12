@@ -56,7 +56,7 @@ Fig.: ⟪बालब्राह्मणी रोदिति⟫
 
 ---
 
-## Verb Form Exercise
+## Sagnmyndaæfing
 
 Translate the following verb forms and provide the corresponding root:
 

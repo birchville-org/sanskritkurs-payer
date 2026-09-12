@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 24
+# Kennslustund 24
 
 ## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
 
@@ -298,7 +298,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE.
 
 ⟪पुनर्⟫ Adverb: again, back, return, but
 
-## 24.5. Exercise
+## 24.5. Æfing
 
 A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 
@@ -342,7 +342,7 @@ D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ by an equi
 
 E) Replace in sentence A) 6 the dative construction by an equivalent construction with -⟪अर्थ⟫
 
-## 24.6. Further exercises on the use of the dative
+## 24.6. Frekari æfingar um notkun þágufalls
 
 Translate into Sanskrit:
 

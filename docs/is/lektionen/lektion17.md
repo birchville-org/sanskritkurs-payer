@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 17
+# Kennslustund 17
 
 ## 17.1. Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
@@ -234,7 +234,7 @@ Also ⟪स्तु⟫ 2 U "to praise" has, alongside the forms given under 3.,
 | 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Vocabulary list
+## 17.6. Orðalisti
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : to strike, to kill
 
@@ -289,7 +289,7 @@ thereof:
 ⟪दिष्ट्या⟫ Instr.: (lit.: by a happy chance) O happy chance (exclamation of joy and bliss)
 :::
 
-## 17.7. Exercise 1
+## 17.7. Æfing 1
 
 A) Insert the verb in the following sentences and translate:
 
@@ -315,7 +315,7 @@ A) Insert the verb in the following sentences and translate:
 
 B) Insert the agent and verb in the plural into the sentences formed in A)
 
-## 17.8. Exercise 2
+## 17.8. Æfing 2
 
 Translate the following verb forms and provide the corresponding root:
 

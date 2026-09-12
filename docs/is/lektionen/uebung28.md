@@ -1,5 +1,5 @@
 ---
-title: "Exercise 28"
+title: "Æfing 28"
 uebung_id: 28
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 28
+# Æfing 28
 
 A) Form the causative of the following verb forms and participial forms:
 

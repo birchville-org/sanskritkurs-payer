@@ -1,5 +1,5 @@
 ---
-title: "Lesson 54"
+title: "Leksjon 54"
 subtitle: "Preface"
 lesson_id: 54
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 54
+# Leksjon 54
 
 ## 54.1. Preliminary Remarks
 
@@ -104,7 +104,7 @@ c) ⟪उपजाति⟫
 ::: indent
 "If two pādas that have the characteristics of an Indravajrā or Upendravajrā are involved in a verse, they are called upajātis. Even if other meters are mixed into a verse, it is called an upajāti."
 :::
-## 54.4. Exercise on Metrics
+## 54.4. Oppgave on Metrics
 
 Determine the Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
@@ -231,7 +231,7 @@ Example:
 
 (The remaining forms of the passive are rendered in the Aorist by Ātmanepada forms).
 :::
-## 54.7. Exercise
+## 54.7. Oppgave
 
 Translate the following forms in writing and form the corresponding Aorist forms:
 

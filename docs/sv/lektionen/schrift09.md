@@ -1,4 +1,4 @@
-# Writing Exercise 9
+# Skrivövning 9
 
 ### Word Division
 
@@ -26,7 +26,7 @@ Abbreviation marks (e.g., in references to works) are °, e.g., ⟪पा⟫° =
 
 Note that a, ā, o, and au are written according to the same basic scheme.
 
-## Exercise
+## Övningr
 
 A) Write in Devanāgarī:
 

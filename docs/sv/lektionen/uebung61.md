@@ -5,7 +5,7 @@ category: "Übung"
 
 ---
 
-# Exercise 61
+# Övning 61
 
 Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises.
 

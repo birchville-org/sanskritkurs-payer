@@ -1,5 +1,5 @@
 ---
-title: "Exercise 23"
+title: "Oppgave 23"
 uebung_id: 23
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 23
+# Oppgave 23
 
 A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
@@ -112,7 +112,7 @@ Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
 :::
 ---
 
-## Additional Exercises
+## Flere oppgaver
 
 A) Translate into Sanskrit:
 

@@ -1,5 +1,5 @@
 ---
-title: "Lesson 21"
+title: "Leksjon 21"
 subtitle: "Further present stems ending in -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 21
+# Leksjon 21
 
 ## 21.1. Further present stems in -nt
 
@@ -279,7 +279,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## 21.5. Exercise
+## 21.5. Oppgave
 
 A) Translate the following compounds:
 

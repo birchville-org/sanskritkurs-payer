@@ -4,7 +4,7 @@ lesson_id: 53
 
 ---
 
-# Lesson 53
+# Kennslustund 53
 
 ## 53.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
 
@@ -850,7 +850,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 :::
 
 **In all Śloka forms, the main caesura is at the end of the 2. ⟪पाद⟫ : there is either word end or - in the case of long compounds - end of a compound component.**
-## 53.11. Exercise
+## 53.11. Æfing
 
 ::: grammar-box
 

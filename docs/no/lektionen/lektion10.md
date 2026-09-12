@@ -1,5 +1,5 @@
 ---
-title: "Lesson 10"
+title: "Leksjon 10"
 subtitle: "The Passive Sentence (Instrumental of the Agent)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 10
+# Leksjon 10
 
 ## 10.1. The Passive Sentence
 
@@ -202,7 +202,7 @@ e.g. **tan** 8 U.
 
 
 
-## 10.5. Vocabulary
+## 10.5. Ordliste
 
 **Learn the following words:**
 
@@ -268,7 +268,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **saha** ⟪सह⟫ : together with, jointly with (also in “to fight with” etc.) (Postposition with Instrumental)
 
 
-## 10.6. Exercise
+## 10.6. Oppgave
 
 **A) Form the passive for the following verb forms (with translation of the verb form):**
 
@@ -364,7 +364,7 @@ Fig.: ⟪तन्तुवायः⟫
 
 
 
-## 10.8. Reading and Translation Exercise
+## 10.8. Lese- og oversettelsesoppgave
 
 **Read and translate, then convert to the passive voice:**
 

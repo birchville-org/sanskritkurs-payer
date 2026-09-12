@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 6
+# Kennslustund 6
 
 ## 6.1. The Verbal Sentence
 
@@ -173,7 +173,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : to let go, to release from oneself, to emanate
 
 
-## 6.8. Exercise
+## 6.8. Æfing
 
 **A) Form verbal sentences with the roots given in parentheses by inserting them:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
@@ -209,7 +209,7 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 (Image source: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Review Exercise
+## 6.9. Upprifjunaræfing
 
 **A) Fill-in exercise: Form questions to which the sentences formed in the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

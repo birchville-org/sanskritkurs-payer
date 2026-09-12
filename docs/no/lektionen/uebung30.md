@@ -1,5 +1,5 @@
 ---
-title: "Exercise 30"
+title: "Oppgave 30"
 uebung_id: 30
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 30
+# Oppgave 30
 
 A) Convert the following verbal forms into their corresponding optative forms according to person, number, and gender of the verb:
 

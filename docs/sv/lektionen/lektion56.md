@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 56
+# Lektion 56
 
 ## 56.1. The reduplicated aorist
 
@@ -255,7 +255,7 @@ e.g. ⟪वसति स्म⟫ "there once lived" (⟪स्म⟫ can someti
 
 :::
 
-## 56.5. Exercise
+## 56.5. Övning
 
 A) Determine and translate the following forms without aids (!):
 

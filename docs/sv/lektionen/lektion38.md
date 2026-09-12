@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 38
+# Lektion 38
 
 ## 38.1. Solution of the Week
 
@@ -399,7 +399,7 @@ Fig.: ⟪अशोकवृक्षः⟫
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Image source: [Details](/sv/licenses#lekt3811))
 :::
-## 38.10. Exercise
+## 38.10. Övning
 
 A) Insert the corresponding form of the words in parentheses into the following sentences and translate them:
 
@@ -435,7 +435,7 @@ A) Insert the corresponding form of the words in parentheses into the following 
 
 ⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Word List for Translation Exercise
+## 38.11. Ordlista för översättningsövning
 
 ⟪प्राय⟫  m.: main thing, Instr. ⟪प्रायेण⟫ : mostly, usually (to ⟪प्र⟫-⟪इ⟫)
 
@@ -546,7 +546,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: downwards
 
-## 38.12. Translation Exercise
+## 38.12. Översättningsövning
 
 :sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 41
+# Övning 41
 
 A) Translate the two proverbs at the beginning of the lesson:
 
@@ -21,7 +21,7 @@ Instruction for fools leads to bitterness, not to peace. Drinking milk by snakes
 
 ---
 
-## Exercise Texts
+## Övningr Texts
 
 B) Translate:
 

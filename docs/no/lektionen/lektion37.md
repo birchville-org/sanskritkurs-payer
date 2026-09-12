@@ -1,5 +1,5 @@
 ---
-title: "Lesson 37"
+title: "Leksjon 37"
 subtitle: "The Adverb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 37
+# Leksjon 37
 
 ## 37.1. The Adverb (⟪क्रियाविशेषणम्⟫)
 
@@ -348,7 +348,7 @@ Note: ⟪किम्⟫ can mean not only "what?" but also as a question partic
 ::: indent
 ⟪किं क्रोधेन ।⟫ "What is the anger for? What does the anger help? What should the anger do?"
 :::
-## 37.9. Vocabulary List
+## 37.9. Ordliste
 
 ⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
@@ -373,7 +373,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Exercise
+## 37.10. Oppgave
 
 A) Answer the following questions in Sanskrit using the words provided in parentheses. Translate the question sentences.
 
@@ -493,7 +493,7 @@ Fig.: ⟪उपवृक्षं सीदन्ति⟫
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Review Exercise
+## 37.11. Repetisjonsoppgave
 
 Translate into Sanskrit using exclusively perfect verb forms:
 

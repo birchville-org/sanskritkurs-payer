@@ -4,7 +4,7 @@ lesson_id: 19
 
 ---
 
-# Lesson 19
+# Kennslustund 19
 
 ## 19.1. The Relative Clause
 
@@ -175,7 +175,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## 19.4. Exercise
+## 19.4. Æfing
 
 **Translate into Sanskrit:**
 

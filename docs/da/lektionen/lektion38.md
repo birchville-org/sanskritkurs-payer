@@ -398,7 +398,7 @@ Fig.: ⟪अशोकवृक्षः⟫
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Image source: [Details](/da/licenses#lekt3811))
 :::
-## 38.10. Exercise
+## 38.10. Øvelse
 
 A) Insert the corresponding form of the words in parentheses into the following sentences and translate them:
 

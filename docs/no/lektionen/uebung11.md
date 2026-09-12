@@ -1,5 +1,5 @@
 ---
-title: "Exercise 11"
+title: "Oppgave 11"
 uebung_id: 11
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 11
+# Oppgave 11
 
 A) Translate the following sentences
 
@@ -70,7 +70,7 @@ Fig.: ⟪केनाग्निरिज्यते ।⟫
 :::
 ---
 
-## Additional Exercises
+## Flere oppgaver
 
 A) Translate into Sanskrit using the passive voice:
 

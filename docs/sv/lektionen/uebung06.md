@@ -148,7 +148,7 @@ Fig.: ⟪का नृत्यति ।⟫
 
 ---
 
-## Review Exercise Lesson 6
+## Repetitionsövning lektion 6
 
 A) Fill-in exercise: Form questions to which the sentences you form after the following fill-in exercises are answers:
 

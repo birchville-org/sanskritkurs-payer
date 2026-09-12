@@ -1,5 +1,5 @@
 ---
-title: "Lesson 60"
+title: "Leksjon 60"
 subtitle: "The Dual endings of the Perfect (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 60
+# Leksjon 60
 
 ## 60.1. The Dual Endings of the Perfect (⟪द्विवचनम्⟫)
 
@@ -414,7 +414,7 @@ Passive: ⟪यियक्ष्यते⟫ "it is wished to be sacrificed"
 :::
 For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
 
-## 60.7. Exercise
+## 60.7. Oppgave
 
 A) Learn in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far:
 

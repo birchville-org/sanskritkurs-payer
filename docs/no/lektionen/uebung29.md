@@ -1,5 +1,5 @@
 ---
-title: "Exercise 29"
+title: "Oppgave 29"
 uebung_id: 29
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 29
+# Oppgave 29
 
 Translate faithfully into good German and memorize the Sanskrit texts:
 

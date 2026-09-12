@@ -5,7 +5,7 @@ status: stable
 
 ---
 
-# Lesson 31
+# Kennslustund 31
 
 ## 31.1. The 7th Present Class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 
@@ -177,7 +177,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** body, physical form
 
-## 31.3. Exercise
+## 31.3. Æfing
 
 A) Translate the following sentences and resolve the compounds:
 

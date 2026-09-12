@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 23
+# Lektion 23
 
 ## 23.1. The Infinitive (⟪तुमुन्⟫)
 
@@ -133,7 +133,7 @@ The other roots with -ṛ- in the penultimate position have facultative -ra- or 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
 
-## 23.5. Exercise
+## 23.5. Övning
 
 A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account the sound changes:
 
@@ -235,7 +235,7 @@ Chittorgarh = ⟪चित्तौडगढ⟫
 
 :::
 
-## 23.6. Review Exercise
+## 23.6. Repetitionsövning
 
 Please do not use any aids!
 

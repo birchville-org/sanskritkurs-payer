@@ -1,5 +1,5 @@
 ---
-title: "Exercise 20"
+title: "Oppgave 20"
 uebung_id: 20
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 20
+# Oppgave 20
 
 A) Translate and resolve the compounds into Sanskrit:
 

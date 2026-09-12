@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 17
+# Lektion 17
 
 ## 17.1. Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
@@ -254,7 +254,7 @@ Also ⟪स्तु⟫ 2 U "to praise" has, alongside the forms given under 3.,
 
 :::
 
-## 17.6. Vocabulary list
+## 17.6. Ordlista
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : to strike, to slay, to kill
 
@@ -330,7 +330,7 @@ thereof:
 
 :::
 
-## 17.7. Exercise 1
+## 17.7. Övning 1
 
 A) Insert the verb in the following sentences and translate them:
 
@@ -348,7 +348,7 @@ A) Insert the verb in the following sentences and translate them:
 
 B) Use the plural for agent and verb in sentences formed in A)
 
-## 17.8. Exercise 2
+## 17.8. Övning 2
 
 Translate the following verb forms and provide their corresponding roots:
 

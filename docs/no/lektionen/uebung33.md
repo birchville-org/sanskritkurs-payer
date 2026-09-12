@@ -1,5 +1,5 @@
 ---
-title: "Exercise 33"
+title: "Oppgave 33"
 uebung_id: 33
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 33
+# Oppgave 33
 
 A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
 

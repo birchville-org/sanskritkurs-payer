@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 57
+# Kennslustund 57
 
 ## 57.1. Aorist 4: s-Aorist
 
@@ -148,7 +148,7 @@ Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८�
 **In addition, for ⟪गम्⟫ there are the regular weak-grade forms:**
 **⟪अगसि⟫ (« \*a-gm-si) ⟪। अगथास् । अगत⟫ (in the P, ⟪गम्⟫ has the thematic aorist)**
 :::
-## 57.2. Exercise
+## 57.2. Æfing
 
 A) Translate and identify the following forms without aids, and form the corresponding aorist forms. Except for causatives and roots that form the s-aorist, the class of the corresponding aorist is given in parentheses:
 

@@ -4,7 +4,7 @@ lesson_id: 19
 
 ---
 
-# Lesson 19
+# Lektion 19
 
 ## 19.1. The Relative Clause
 
@@ -76,7 +76,7 @@ Note: In relative clauses of general validity, the optative is often used instea
 :::
 
 
-## 19.3. Vocabulary List
+## 19.3. Ordlista
 
 **⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, assets. ⟪अर्थम्⟫ (Acc.), ⟪अर्थेन⟫ (Instr.) with Gen. or as the second member of a Tatpuruṣa compound: for the sake of ..., in order to.
 
@@ -175,7 +175,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## 19.4. Exercise
+## 19.4. Övning
 
 **Translate into Sanskrit:**
 

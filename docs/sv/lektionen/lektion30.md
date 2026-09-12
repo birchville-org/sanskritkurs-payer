@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 30
+# Lektion 30
 
 ## 30.1. The 9th Present Class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
 
@@ -311,7 +311,7 @@ Examples:
 
 :::
 
-## 30.6. Vocabulary List
+## 30.6. Ordlista
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : to buy
 
@@ -481,7 +481,7 @@ from this:
 
 ⟪सनातन ३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## 30.7. Exercise
+## 30.7. Övning
 
 A) Convert the following verbal forms into optative forms corresponding to person, number, and gender of the verb:
 
@@ -555,7 +555,7 @@ B) Translate the following sentences and resolve the compounds into Sanskrit:
 
 ⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥ ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥ ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥ अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥ क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥ कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥ ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥ यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥ सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४⟫.⟪१३८॥⟫
 
-## 30.8. Morphology Review Exercise
+## 30.8. Repetitionsövning i formlära
 
 Determine and translate the following word forms:
 

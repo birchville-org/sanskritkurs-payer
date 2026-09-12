@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 19
+# Övning 19
 
 A) Translate into Sanskrit:
 

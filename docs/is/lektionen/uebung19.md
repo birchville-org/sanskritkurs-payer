@@ -1,5 +1,5 @@
 ---
-title: "Exercise 19"
+title: "Æfing 19"
 uebung_id: 19
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 19
+# Æfing 19
 
 A) Translate into Sanskrit:
 

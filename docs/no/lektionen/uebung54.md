@@ -1,5 +1,5 @@
 ---
-title: "Exercise 54"
+title: "Oppgave 54"
 uebung_id: 54
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 54
+# Oppgave 54
 
 Form the corresponding Aorist forms for the following Present or Perfect forms:
 

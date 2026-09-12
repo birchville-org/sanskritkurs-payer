@@ -1,12 +1,12 @@
 ---
-title: "Exercise 34"
+title: "Oppgave 34"
 uebung_id: 34
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 34
+# Oppgave 34
 
 A) Form the corresponding perfect tense forms in person, number, and genus verbi for the following verb forms:
 

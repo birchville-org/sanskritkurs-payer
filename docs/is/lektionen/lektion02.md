@@ -8,7 +8,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-# Lesson 2
+# Kennslustund 2
 
 
 ## 2.1. The Nominal Sentence
@@ -106,7 +106,7 @@ before other vowels: becomes **-a** (hiatus)
 **devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
 
-## 2.5. Vocabulary List
+## 2.5. Orðalisti
 
 **deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
@@ -212,7 +212,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, elder relative, esp. teacher, master
 
 
-## 2.6. Exercise
+## 2.6. Æfing
 
 **A) Insert while observing Sandhi and form nominal sentences:**
 

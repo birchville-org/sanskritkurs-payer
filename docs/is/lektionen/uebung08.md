@@ -1,5 +1,5 @@
 ---
-title: "Exercise 8"
+title: "Æfing 8"
 uebung_id: 8
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 8
+# Æfing 8
 
 A) Explain the following nouns by specifying the root from which they are derived and the nominal suffix. Provide gender and meaning:
 
@@ -152,7 +152,7 @@ Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 :::
 ---
 
-## Reading Exercise
+## Lestraræfing
 
 1\. ⟪शूद्रो बालं नयति⟫ |
 The Śūdra leads the boy.

@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 7
+## Skrifæfing 7
 
 ![](/images/schrift012.webp)
 
@@ -47,7 +47,7 @@ Regarding spelling:
 
 ![](/images/schrift014.webp)
 
-## Exercise
+## Æfingr
 
 A) Write in Devanāgarī and provide the translation (requires Lesson 8):
 

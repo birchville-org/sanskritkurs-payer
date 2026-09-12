@@ -1,5 +1,5 @@
 ---
-title: "Exercise 21"
+title: "Oppgave 21"
 uebung_id: 21
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 21
+# Oppgave 21
 
 A) Resolve the following Sanskrit compounds and translate them:
 
