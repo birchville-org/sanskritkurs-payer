@@ -9,7 +9,7 @@ title: "การตั้งค่า"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**เวอร์ชันปัจจุบัน**: `v1.8.4`
-**บันทึกการปล่อย & ประวัติการเปลี่ยนแปลง**: [มีอะไรใหม่ใน v1.8.4?](/th/release-notes)
+**เวอร์ชันปัจจุบัน**: `v1.8.5`
+**บันทึกการปล่อย & ประวัติการเปลี่ยนแปลง**: [มีอะไรใหม่ใน v1.8.5?](/th/release-notes)
 **ซอร์สโค้ด & ที่เก็บ**: [ที่เก็บ GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

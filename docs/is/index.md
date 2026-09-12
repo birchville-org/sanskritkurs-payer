@@ -31,5 +31,5 @@ Tungumálin voru þýdd sjálfvirkt úr þýsku með margra þrepa gervigreindar
 - **Hafa samband og þátttaka**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Wiki verkefnisins](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Netritill**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Núverandi útgáfa**: v1.8.4
+- **Núverandi útgáfa**: v1.8.5
 :::

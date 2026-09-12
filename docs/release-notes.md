@@ -8,6 +8,31 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.5 (September 2026)
+
+**Focus:** *QA Viewer & Editor Architecture, Navigation Parity across 38 Locales, Staging CI/CD Infrastructure & Nordic Polish*
+
+### ✨ Features & Highlights
+- **Interactive QA Viewer & Editor Preview Overhaul**:
+  - Fully restored table borders and cell styling in the live preview for multimd tables, headerless tables, and compact tables.
+  - Repaired SVG alert icons in editor preview and fixed CSS isolation for `.editor-preview`.
+  - Smart `END QA` exit routing: returns directly to the active language homepage or origin lesson instead of hardcoded German root.
+  - Robust initial context detection supporting URL parameters (`?lang=...&lesson=...`), document referrer, and local storage state.
+- **Universal Navbar Parity & Dynamic Link Synchronization**:
+  - Standardized the navbar `QA` label across all 38 locale configurations (`docs/.vitepress/locales/*.mjs`), eliminating mistranslations and ensuring full navbar visibility.
+  - Proactive link synchronization in `theme/index.mjs` ensuring all QA links carry the current language and lesson context on mount, route transitions, and user interactions.
+- **Nordic Localization & Structural Heading Convergence**:
+  - Comprehensive localization and navigation cleanup across Norwegian (`no`), Swedish (`sv`), Icelandic (`is`), and Danish (`da`).
+  - Strict enforcement of target-language headings in the translation pipeline and QA gate, purging residual untranslated headings.
+- **CI/CD & Staging Server Resilience**:
+  - Decoupled staging deployments into persistent containers managed via systemd user services on `nataraja`, guaranteeing zero downtime during builds.
+  - Optimized container lifecycle, port collision protection, and nginx clean-URL routing configuration.
+- **Parser & Syntax Robustness**:
+  - Normalized signal-red syntax (`:sig[...]`) with parser auto-recovery for missing leading colons.
+  - Updated container nesting documentation in `docs/public/qa_help.md`.
+
+---
+
 ## 🚀 Version 1.8.4 (September 2026)
 
 **Focus:** *100% Quality Convergence across All 48 Target Languages, Stopword Calibrations & Release Sync Automation*

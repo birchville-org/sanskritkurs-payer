@@ -31,5 +31,5 @@ Kielet on käännetty saksasta täysin automaattisesti monivaiheisen tekoälykas
 - **Yhteystiedot & Osallistuminen**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Verkkoeditori**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Nykyinen versio**: v1.8.4
+- **Nykyinen versio**: v1.8.5
 :::

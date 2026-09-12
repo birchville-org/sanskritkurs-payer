@@ -31,6 +31,6 @@ Språkene ble helautomatisk oversatt fra tysk ved hjelp av en flertrinns AI-kask
 - **Kontakt og medvirkning**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Prosjekt-wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online-redigerer**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Gjeldende versjon**: v1.8.4
+- **Gjeldende versjon**: v1.8.5
 :::
 

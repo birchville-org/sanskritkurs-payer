@@ -31,5 +31,5 @@ Języki zostały całkowicie automatycznie przetłumaczone z języka niemieckieg
 - **Kontakt i współpraca**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Wiki projektu](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Edytor online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Aktualna wersja**: v1.8.4
+- **Aktualna wersja**: v1.8.5
 :::
