@@ -1,12 +1,12 @@
 ---
-title: "Exercise 24"
+title: "Exercitatio 24"
 uebung_id: 24
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 24
+# Exercitatio 24
 
 A) Forma Casus Dativi Singularis et Casus Dati (vel Ablativi) Pluralis formentur, necnon significatio nominum stemmatum detur:
 

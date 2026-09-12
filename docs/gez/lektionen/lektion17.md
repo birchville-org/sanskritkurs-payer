@@ -254,7 +254,7 @@ Also ⟪स्तु⟫ 2 U "to praise" has, alongside the forms given under 3.,
 
 :::
 
-## 17.6. Vocabulary list
+## 17.6. ዝርዝር ቃላት
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : to strike, to kill
 

@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 48
+# Lekcija 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -342,7 +342,7 @@ Fig.: ⟪मम जाया⟫
 (Image: Payer)
 (Image source: [Details](/sh/licenses#lekt4809))
 :::
-## 48.5. Exercise
+## 48.5. Vežba
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
@@ -369,7 +369,7 @@ B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd a
 19. They (pl.) should sit in my house.
 20. Husbands should maintain their wives (in the sense of providing for them).
 
-## 48.6. Translation Exercise
+## 48.6. Vežba
 
 ⟪मनुस्मृति ९⟩ (⟪स्त्रीधर्मः⟩):
 

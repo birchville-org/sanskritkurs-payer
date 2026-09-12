@@ -527,7 +527,7 @@ Explanation: ⟪राजा⟫ = Nom. sg. to ⟪राजन्⟫ m. = ⟪न�
 
 :::
 
-## 25.8. Translation Exercise
+## 25.8. Prevajalska vaja
 
 1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. on the benefit of economics:
 

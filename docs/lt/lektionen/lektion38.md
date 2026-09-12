@@ -522,7 +522,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 :::
 
-## 38.10. Exercise
+## 38.10. Pratimas
 
 A) Insert the corresponding form of the words in parentheses into the following sentences and translate them:
 
@@ -700,7 +700,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: downwards
 
-## 38.12. Translation Exercise
+## 38.12. Pratimas
 
 :sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
 

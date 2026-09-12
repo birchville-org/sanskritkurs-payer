@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 50
+# Vežba 50
 
 A) For reviewing declension: The following verse contains all singular declension forms for ⟪गुरु⟫ m.:
 

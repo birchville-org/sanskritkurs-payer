@@ -443,7 +443,7 @@ Pav.: ⟪मम जाया⟫
 
 :::
 
-## 48.5. Exercise
+## 48.5. Pratimas
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 

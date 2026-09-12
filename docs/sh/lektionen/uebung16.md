@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 16
+# Vežba 16
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 

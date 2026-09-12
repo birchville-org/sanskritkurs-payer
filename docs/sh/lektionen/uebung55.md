@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 55
+# Vežba 55
 
 Determine and translate the following forms, and form the corresponding **a-aorist** forms:
 

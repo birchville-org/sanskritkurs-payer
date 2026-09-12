@@ -313,13 +313,13 @@ from that:
 
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Exercise 1
+## 15.9. Vežba 1
 
 Razriješite sljedeće složenice kao Tatpuruṣa na sanskrtu i prevedite ih. Navedite sva razrješenja i prijevode koji vam se čine mogućima. Također naznačite koji padež i broj predstavlja cijela složenica. (Kielhorn)
 
 ⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Exercise 2
+## 15.10. Vežba 2
 
 Resolve the following Tatpuruṣa as in Exercise 1:
 
@@ -331,7 +331,7 @@ Resolve the following Tatpuruṣa as in Exercise 1:
 Slika: ⟪ग्रामदेवता⟫
 (Izvor slike: [Details](/sh/licenses#lekt1508))
 :::
-## 15.11. Exercise 3
+## 15.11. Vežba 3
 
 A) Translate the proverb at the beginning of the lesson
 

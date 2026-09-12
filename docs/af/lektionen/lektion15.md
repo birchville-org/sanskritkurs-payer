@@ -6,7 +6,9 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 15
+---
+
+# Lesing 15
 
 ## 15.1. ⟪सुभाषितम् गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫
 
@@ -28,12 +30,12 @@ Die gevalleverhouding tussen die twee dele van 'n samestelling is onafhanklik va
 
 bv.
 
-&gt; Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
-&gt; Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
-&gt; Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
-&gt; Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
-&gt; Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
-&gt; ens.
+> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
+> Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
+> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
+> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
+> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
+> ens.
 
 Die geslag van 'n Tatpuruṣa is – met 'n paar uitsonderings – dié van sy tweede komponent.
 
@@ -306,13 +308,13 @@ thereof:
 
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Exercise 1
+## 15.9. Oefening 1
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
 ⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Exercise 2
+## 15.10. Oefening 2
 
 Resolve the following Tatpuruṣa as in Exercise 1:
 

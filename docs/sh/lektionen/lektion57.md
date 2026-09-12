@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 57
+# Lekcija 57
 
 ## 57.1. Aorist 4: s-Aorist
 
@@ -147,7 +147,7 @@ Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८�
 3. ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
 :::
-## 57.2. Exercise
+## 57.2. Vežba
 
 A) Translate and identify the following forms without aids, and form the corresponding aorist forms. Except for causatives and roots that form the s-aorist, the class of the corresponding aorist is given in parentheses:
 

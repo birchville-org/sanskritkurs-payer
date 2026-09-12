@@ -196,7 +196,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## 50.3. Translation Exercise
+## 50.3. Vežba
 
 A) For review of declension: the following verse contains all singular declension forms for ⟪गुरु⟫ m.:
 

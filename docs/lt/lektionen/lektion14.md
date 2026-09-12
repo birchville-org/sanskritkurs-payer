@@ -183,7 +183,7 @@ Translate the following proverbs and memorize them:
 
 **⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
-## 14.6. Exercise
+## 14.6. Pratimas
 
 **A) Form the singular and plural genitive for the following words. Provide meaning and gender of the words:**
 

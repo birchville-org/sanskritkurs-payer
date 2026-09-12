@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 27
+# Vežba 27
 
 A) Insert the expressions in parentheses into the following sentences in the Locative (⟪सप्तमी⟫) Singular and — where it makes sense — Plural.
 

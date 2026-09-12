@@ -754,7 +754,7 @@ Fig.: [⟪भोः⟫](/lt/licenses#lekt4611)
 
 :::
 
-## 46.3. Exercise
+## 46.3. Pratimas
 
 A) Determine and translate the following forms:
 

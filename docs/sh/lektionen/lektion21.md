@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 21
+# Lekcija 21
 
 ## 21.1. Further present stems in -nt
 
@@ -231,7 +231,7 @@ If one wishes to express not only politeness but also reverence for someone, one
 **⟪किमत्रभवत्यत्रभवतां भार्या⟫** = "Is the gracious (here present) woman your wife?"  
 **⟪किं तत्रभवतां कुशलवृत्तम्⟫** (in a letter or telephone conversation) = "Are you well?"
 :::
-## 21.4. Vocabulary List
+## 21.4. Rečnik
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** to assign something (Acc.) to someone, to let something come to someone, to love, honor, revere someone
 
@@ -279,7 +279,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## 21.5. Exercise
+## 21.5. Vežba
 
 A) Translate the following compounds:
 

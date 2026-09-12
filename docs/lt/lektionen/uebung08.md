@@ -152,7 +152,7 @@ Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
 :::
 ---
 
-## Reading Exercise
+## Skaitymo pratimas
 
 1\. ⟪शूद्रो बालं नयति⟫ |
 The Śūdra leads the boy.

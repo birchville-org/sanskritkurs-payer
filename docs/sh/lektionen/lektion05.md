@@ -150,7 +150,7 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
-## 5.6. Review Exercise
+## 5.6. Vežba za ponavljanje
 
 **A) Translate:**
 

@@ -298,7 +298,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE.
 
 ⟪पुनर्⟫ Adverb: again, back, return, but
 
-## 24.5. Exercise
+## 24.5. Pratimas
 
 A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 

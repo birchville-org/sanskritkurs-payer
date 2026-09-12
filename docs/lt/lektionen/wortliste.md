@@ -1451,7 +1451,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## Lesson 20
+## Pamoka 20
 
 
 
@@ -1569,7 +1569,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Pamoka 21
 
 
 
@@ -1654,7 +1654,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## Lesson 22
+## Pamoka 22
 
 
 
@@ -1744,7 +1744,7 @@ Goa = ⟪गोंय⟫
 
 :::
 
-## Lesson 23
+## Pamoka 23
 
 
 
@@ -1766,7 +1766,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## Pamoka 24
 
 
 
@@ -1933,7 +1933,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## Pamoka 25
 
 
 
@@ -2183,7 +2183,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Pamoka 27
 
 
 
@@ -2529,7 +2529,7 @@ PPP ⟪पूजित⟫
 
 :::
 
-## Lesson 30
+## Pamoka 30
 
 
 
@@ -2890,7 +2890,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟩ n.:** limb, body
 
-## Lesson 32
+## Pamoka 32
 
 
 
@@ -3400,7 +3400,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Pamoka 35
 
 
 
@@ -3477,7 +3477,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## Lesson 36
+## Pamoka 36
 
 
 
@@ -3704,7 +3704,7 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: own (my, your ...) m.: member
 
-## Lesson 37
+## Pamoka 37
 
 
 
@@ -3752,7 +3752,7 @@ Fig.: ⟪वृक्षः⟫
 
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## Lesson 38
+## Pamoka 38
 
 
 
@@ -3936,7 +3936,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 :::
 
-## Lesson 40
+## Pamoka 40
 
 
 
@@ -4191,7 +4191,7 @@ PPP ⟪अतीत⟫ : n. past
 
 :::
 
-## Lesson 42
+## Pamoka 42
 
 
 
@@ -4341,7 +4341,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Every day
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Pamoka 43
 
 
 
@@ -4499,7 +4499,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Pamoka 44
 
 
 
@@ -5039,7 +5039,7 @@ Pav.: [⟪भोः⟫](/licenses#lekt4611)
 
 :::
 
-## Lesson 48
+## Pamoka 48
 
 
 
@@ -5383,7 +5383,7 @@ Sri Lanka
 
 :::
 
-## Lesson 50
+## Pamoka 50
 
 
 
@@ -5869,7 +5869,7 @@ Absol ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Pamoka 52
 
 
 

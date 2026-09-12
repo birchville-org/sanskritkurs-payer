@@ -132,7 +132,7 @@ Pav.: Dievas Kāma = kāmadeva = ⟪कामदेव⟫, XVIII a.
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
 
-## 5.5. Exercise
+## 5.5. Pratimas
 
 **A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:**
 
@@ -169,7 +169,7 @@ Pav.: Dievas Kāma = kāmadeva = ⟪कामदेव⟫, XVIII a.
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
-## 5.6. Review Exercise
+## 5.6. Kartojimo pratimas
 
 **A) Translate:**
 

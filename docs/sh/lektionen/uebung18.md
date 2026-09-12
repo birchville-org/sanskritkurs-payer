@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Vežba 18
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 

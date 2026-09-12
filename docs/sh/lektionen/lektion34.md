@@ -261,7 +261,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## 34.7. Exercise
+## 34.7. Vežba
 
 Form the corresponding perfect tense forms for person, number, and gender from the following verb forms:
 
@@ -297,7 +297,7 @@ Form the corresponding perfect tense forms for person, number, and gender from t
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Translation Exercise
+## 34.8. Vežba
 
 Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
 

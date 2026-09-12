@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 21
+# Vežba 21
 
 A) Resolve the following Sanskrit compounds and translate them:
 

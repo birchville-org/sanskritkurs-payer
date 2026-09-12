@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 21
+# Pamoka 21
 
 ## 21.1. Further present stems in -nt
 

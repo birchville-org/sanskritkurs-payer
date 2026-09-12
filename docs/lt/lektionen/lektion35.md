@@ -260,7 +260,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## 35.5. Exercise
+## 35.5. Pratimas
 
 A) Form the corresponding perfect forms for the following verb forms:
 

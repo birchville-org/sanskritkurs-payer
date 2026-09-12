@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 4
+# Lekcija 4
 
 ## 4.1. Simple alternative questions (word questions) and answers
 
@@ -105,7 +105,7 @@ An example of other questions:
 NOTE: The answers you can give to such questions using your current Sanskrit knowledge do not yet correspond in every respect to idiomatic good Sanskrit.
 
 
-## 4.2. Exercise
+## 4.2. Vežba
 
 **A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (⟪विष्णुः कः⟫) and answer the questions in Sanskrit:**
 

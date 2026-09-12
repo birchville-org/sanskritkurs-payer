@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 26
+# Vežba 26
 
 Form the corresponding future tense forms in number, person, and gender (Parasmaipada, Ātmanepada):
 

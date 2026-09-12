@@ -4387,7 +4387,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, country, region
 
-## Lesson 51
+## გაკვეთილი 51
 
 
 

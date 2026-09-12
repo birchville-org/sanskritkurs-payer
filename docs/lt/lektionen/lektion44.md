@@ -457,7 +457,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## 44.6. Exercise
+## 44.6. Pratimas
 
 A) Determine and translate the following forms:
 

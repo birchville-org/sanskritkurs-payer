@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 42
+# Vežba 42
 
 Translate:
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 12
+# Vežba 12
 
 A) Form passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion form active sentences in the past tense.
 

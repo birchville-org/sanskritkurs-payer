@@ -175,7 +175,7 @@ Pav.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## 19.4. Exercise
+## 19.4. Pratimas
 
 **Translate into Sanskrit:**
 

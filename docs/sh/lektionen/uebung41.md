@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 41
+# Vežba 41
 
 A) Translate the two proverbs at the beginning of the lesson:
 

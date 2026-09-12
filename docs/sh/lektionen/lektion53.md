@@ -4,7 +4,7 @@ lesson_id: 53
 
 ---
 
-# Lesson 53
+# Lekcija 53
 
 ## 53.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
 

@@ -136,7 +136,7 @@ Examples:
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Exercise
+## 26.8. Vežba
 
 Form the corresponding future forms in number, person and voice (Parasmaipada, Ātmanepada):  
 

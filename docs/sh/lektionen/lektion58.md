@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 58
+# Lekcija 58
 
 ## 58.1. The Dual Endings (⟪द्विवचनम्⟫)
 
@@ -369,7 +369,7 @@ Paradigms:
 Fig.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
 (Image source: [Details](/sh/licenses#lekt5808))
 :::
-## 58.7. Exercise
+## 58.7. Vežba
 
 A) Determine and translate the following forms without aids, and form the corresponding i-aorist forms:
 

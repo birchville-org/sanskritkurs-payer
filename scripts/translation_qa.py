@@ -337,6 +337,11 @@ def is_file_fallback(filepath, code):
     if check_has_de_phrases(txt, code):
         return True, "Contains unallowed German/English phrases or remnants"
 
+    # 3b. English Heading / Metadata Fallback Check (for non-EN target languages)
+    if code != "en":
+        if re.search(r'^(?:#+\s+(?:Lesson\s+\d+|Exercise\s+\d+|Vocabulary\s+List\b|Review\s+Exercise\b)|title:\s*["\'](?:Lesson|Exercise)\s+\d+)', txt, re.M | re.I):
+            return True, "Contains untranslated English headings or title metadata"
+
     # 4. Unresolved Translation Placeholders Check
     if re.search(r'(?:⟨|&lang;)?(?:DEVA|IAST_L|STRUCT)_[0-9\u0966-\u096F\u0660-\u0669N]+(?:⟩|&rang;)?', txt):
         return True, "Contains unresolved translation placeholders"

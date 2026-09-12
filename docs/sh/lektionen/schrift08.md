@@ -1,4 +1,4 @@
-# Writing Exercise 8
+# Vežba pisanja 8
 
 Vowel signs for the beginning of a word, if the word is not written connected to a preceding word:
 

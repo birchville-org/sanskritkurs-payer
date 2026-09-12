@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 56
+# Vežba 56
 
 Determine and translate the following forms:
 

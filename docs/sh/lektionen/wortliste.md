@@ -8,7 +8,7 @@ outline: 2
 *All new words from the course in the order of their introduction, with thematic explanations.*
 
 
-## Lesson 2
+## Lekcija 2
 
 
 
@@ -143,7 +143,7 @@ Slika: Sādhu (⟪साधु⟫), hram Pashupatinath, Katmandu.
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, elder relative, esp. teacher, master
 
-## Lesson 3
+## Lekcija 3
 
 
 
@@ -283,7 +283,7 @@ Abb.: Bog Kāma = kāmadeva = ⟪कामदेव⟫, 18. vek
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
-## Lesson 6
+## Lekcija 6
 
 
 
@@ -416,7 +416,7 @@ Slika: **likh** (⟪लिख्⟫) : Drvena šiljka Bataka (Sumatra), kakva se
 **sukha** n. ⟪सुख⟫ : happiness, well-being
 **duḥkha** n. ⟪दुःख⟫ : unhappiness, suffering
 
-## Lesson 9
+## Lekcija 9
 
 
 
@@ -470,7 +470,7 @@ to **yaj** 1 U:
 **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟩ / ⟪वाणिज्या⟩ / ⟪वणिज्या⟩) : trade
 **śuśrūṣā** f. (⟪शुश्रूषा⟩) : obedience, obedient service
 
-## Lesson 10
+## Lekcija 10
 
 
 
@@ -655,7 +655,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ---
 
-## Lesson 11
+## Lekcija 11
 
 
 
@@ -709,7 +709,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣ** 6 P ⟪इष्⟫ : to wish
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
-## Lesson 12
+## Lekcija 12
 
 
 
@@ -917,7 +917,7 @@ dviṣ 2 U:
 
 :::
 
-## Lesson 14
+## Lekcija 14
 
 
 
@@ -958,7 +958,7 @@ Fig.: ⟪दीपाः⟫
 * **vac-ana n.** (⟪वचन⟫) : speaking, the word
 * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
 
-## Lesson 15
+## Lekcija 15
 
 
 
@@ -1086,7 +1086,7 @@ from this:
 
 :::
 
-## Lesson 16
+## Lekcija 16
 
 
 
@@ -1176,7 +1176,7 @@ Fig.: ⟪अहिंसा⟫
 
 :::
 
-## Lesson 17
+## Lekcija 17
 
 
 
@@ -1264,7 +1264,7 @@ from this:
 
 :::
 
-## Lesson 18
+## Lekcija 18
 
 
 
@@ -1310,7 +1310,7 @@ from this:
 
 ⟪प्रभृति⟫ f.: beginning
 
-## Lesson 19
+## Lekcija 19
 
 
 
@@ -1453,7 +1453,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## Lesson 20
+## Lekcija 20
 
 
 
@@ -1571,7 +1571,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Lekcija 21
 
 
 
@@ -1746,7 +1746,7 @@ Goa = ⟪गोंय⟫
 
 :::
 
-## Lesson 23
+## Lekcija 23
 
 
 
@@ -1768,7 +1768,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## Lekcija 24
 
 
 
@@ -1935,7 +1935,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## Lekcija 25
 
 
 
@@ -2186,7 +2186,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Lekcija 27
 
 
 
@@ -2310,7 +2310,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 :::
 
-## Lesson 28
+## Lekcija 28
 
 
 
@@ -2421,7 +2421,7 @@ Girl carrying load. Near Ahmedabad.
 
 ⟪भृत्य⟫ m.: subordinate, servant
 
-## Lesson 29
+## Lekcija 29
 
 
 
@@ -2532,7 +2532,7 @@ PPP ⟪पूजित⟫
 
 :::
 
-## Lesson 30
+## Lekcija 30
 
 
 
@@ -2893,7 +2893,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟩ n.:** limb, body
 
-## Lesson 32
+## Lekcija 32
 
 
 
@@ -3295,7 +3295,7 @@ Abb.: ⟪घृतमग्नौ जुहोति⟫
 
 :::
 
-## Lesson 34
+## Lekcija 34
 
 
 
@@ -3405,7 +3405,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Lekcija 35
 
 
 
@@ -3482,7 +3482,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 :::
 
-## Lesson 36
+## Lekcija 36
 
 
 
@@ -3757,7 +3757,7 @@ Fig.: ⟪वृक्षः⟫
 
 ⟪मुख⟫ n.: Mouth, face, front part, beginning
 
-## Lesson 38
+## Lekcija 38
 
 
 
@@ -3941,7 +3941,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 :::
 
-## Lesson 40
+## Lekcija 40
 
 
 
@@ -4196,7 +4196,7 @@ PPP ⟪अतीत⟫ : n. past
 
 :::
 
-## Lesson 42
+## Lekcija 42
 
 
 
@@ -4346,7 +4346,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, th
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Lekcija 43
 
 
 
@@ -4504,7 +4504,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Lekcija 44
 
 
 
@@ -4702,7 +4702,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 :::
 
-## Lesson 45
+## Lekcija 45
 
 
 
@@ -4718,7 +4718,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## Lesson 46
+## Lekcija 46
 
 
 
@@ -5045,7 +5045,7 @@ Fig.: [⟪भोः⟫](/licenses#lekt4611)
 
 :::
 
-## Lesson 48
+## Lekcija 48
 
 
 
@@ -5389,7 +5389,7 @@ Sri Lanka
 
 :::
 
-## Lesson 50
+## Lekcija 50
 
 
 
@@ -5549,7 +5549,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## Lekcija 51
 
 
 
@@ -5875,7 +5875,7 @@ Absol. ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Lekcija 52
 
 
 

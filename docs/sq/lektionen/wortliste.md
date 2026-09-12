@@ -1804,7 +1804,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Mësimi 27
 
 
 
@@ -1831,7 +1831,7 @@ from that:
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
 :::
-## Lesson 27
+## Mësimi 27
 
 
 
@@ -4374,7 +4374,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## Mësimi 51
 
 
 

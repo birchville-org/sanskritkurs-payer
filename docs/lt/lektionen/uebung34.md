@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 34
+# Pratimas 34
 
 A) Form the corresponding perfect tense forms for person, number, and gender of the following verb forms:
 

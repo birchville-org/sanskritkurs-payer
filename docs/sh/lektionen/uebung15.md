@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 15
+# Vežba 15
 
 A) Translate the proverb at the beginning of the lesson
 

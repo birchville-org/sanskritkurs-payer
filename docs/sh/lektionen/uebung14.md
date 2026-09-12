@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 14
+# Vežba 14
 
 Translate the following proverbs and memorize them:
 

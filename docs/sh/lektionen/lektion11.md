@@ -71,7 +71,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
 
-## 11.3. Exercise
+## 11.3. Vežba
 
 **A) Translate the following sentences:**
 
@@ -100,7 +100,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको महाका
 (Image source: [Details](/sh/licenses#lekt1101))
 :::
 
-## 11.4. Review Exercise
+## 11.4. Vežba za ponavljanje
 
 **A) Translate into Sanskrit using passive constructions:**
 1. Vaiśya women ask Brahmins about the Dharma.

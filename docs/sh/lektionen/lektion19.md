@@ -76,7 +76,7 @@ Napomena: U relativnim rečenicama općeg sadržaja često se koristi optativ um
 :::
 
 
-## 19.3. Vocabulary List
+## 19.3. Rečnik
 
 **⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, assets. ⟪अर्थम्⟫ (Acc.), ⟪अर्थेन⟫ (Instr.) with Gen. or as the second member of a Tatpuruṣa compound: for the sake of ..., in order to.
 
@@ -175,7 +175,7 @@ Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९�
 
 **⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
 
-## 19.4. Exercise
+## 19.4. Vežba
 
 **Translate into Sanskrit:**
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 36
+# Vežba 36
 
 A) Form both the reduplicated and periphrastic perfect forms for the following stems:
 

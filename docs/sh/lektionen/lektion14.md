@@ -150,7 +150,7 @@ However, with all these verbs, the object can also be in the accusative:
 
 More later.
 :::
-## 14.4. Vocabulary List
+## 14.4. Rečnik
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
@@ -189,7 +189,7 @@ Translate the following proverbs and memorize them:
 
 **⟪सत्यं लोकस्य दीपः ॥५॥⟫**
 
-## 14.6. Exercise
+## 14.6. Vežba
 
 **A) Form the singular and plural genitive for the following words. Provide meaning and gender:**
 

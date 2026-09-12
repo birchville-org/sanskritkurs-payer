@@ -113,7 +113,7 @@ The other roots with -ṛ- in the penultimate position have facultative -ra- or 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
 
-## 23.5. Exercise
+## 23.5. Vežba
 
 A) The following roots form the infinitive without a connecting vowel -i-. Form the infinitive, taking into account phonetic changes:
 
@@ -203,7 +203,7 @@ Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Image source: [Details](/sh/licenses#lekt2302))
 :::
-## 23.6. Review Exercise
+## 23.6. Vežba za ponavljanje
 
 Please do not use any aids!
 

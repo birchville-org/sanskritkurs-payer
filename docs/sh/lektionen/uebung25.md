@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 25
+# Vežba 25
 
 A) Complete the declension examples from Lesson 16 by adding the 4th Dative (⟪चतुर्थी⟫) and 5th Ablative (⟪पञ्चमी⟫).
 

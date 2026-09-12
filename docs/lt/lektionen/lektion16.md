@@ -103,7 +103,7 @@ Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Image source: [Details](/lt/licenses#lekt1603))
 :::
-## 16.3. Exercise
+## 16.3. Pratimas
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 

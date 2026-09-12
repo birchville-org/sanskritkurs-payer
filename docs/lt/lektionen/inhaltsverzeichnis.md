@@ -575,7 +575,7 @@ Savaitės posakis
 *   5\. Vyayama
 *   6\. ⟪संवादः⟩ = Saṃvāda
 
-## [Lesson 44](lektion44)
+## [Pamoka 44](lektion44)
 
 *   1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with a suffix ending in a vowel
 *   1.1. Fifth present class (⟪स्वादि⟫)
@@ -591,7 +591,7 @@ Savaitės posakis
 *   6. Exercise
 *   7. Review exercise on morphology
 
-## [Lesson 45](lektion45)
+## [Pamoka 45](lektion45)
 
 *   1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a suffix ending in a vowel (continuation)
 *   1.1. Third present class (⟪जुहोत्यादि⟫)
@@ -600,7 +600,7 @@ Savaitės posakis
 *   3. Word list
 *   4. Exercise
 
-## [Lesson 46](lektion46)
+## [Pamoka 46](lektion46)
 
 *   1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) perfect (⟪लिट्⟫)
 *   1.1. Endings

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 48
+# Vežba 48
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson:
 

@@ -215,7 +215,7 @@ Fig.: ⟪ग्रामः⟫
 :::
 ---
 
-## Reading Exercise
+## Skaitymo pratimas
 
 Read and translate, then convert to the passive voice:
 

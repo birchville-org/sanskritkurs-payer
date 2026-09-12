@@ -360,7 +360,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow ; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## 25.6. Exercise
+## 25.6. Pratimas
 
 A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding the 4th Dative (⟪चतुर्थी⟫) and 5th Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
 
@@ -392,7 +392,7 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ::: indent
 Explanation: ⟪राजा⟫ = Nom. sg. to ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Translation Exercise
+## 25.8. Pratimas
 
 1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. on the benefit of economics:
 

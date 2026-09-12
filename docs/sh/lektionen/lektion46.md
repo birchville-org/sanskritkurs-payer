@@ -581,7 +581,7 @@ e.g.
 Fig.: [⟪भोः⟩](/sh/licenses#lekt4611)
 (Image source: [Details](/sh/licenses#lekt4611))
 :::
-## 46.3. Exercise
+## 46.3. Vežba
 
 A) Determine and translate the following forms:
 

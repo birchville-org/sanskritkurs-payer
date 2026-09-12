@@ -1,4 +1,4 @@
-# Writing Exercise 10
+# Vežba pisanja 10
 
 ### Second Rule for Forming Consonant Ligatures
 

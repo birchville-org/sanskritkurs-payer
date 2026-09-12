@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 11
+# Vežba 11
 
 A) Translate the following sentences
 

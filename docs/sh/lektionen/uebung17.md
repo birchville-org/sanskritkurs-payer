@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 17
+# Vežba 17
 
 A) Insert the verb in the following sentences and translate them:
 

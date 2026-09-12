@@ -1,6 +1,6 @@
 # Devanagari = ⟪देवनागरी⟫
 
-## Script Exercise 4
+## Vežba pisma 4
 
 ![](/images/schrift006.webp)
 

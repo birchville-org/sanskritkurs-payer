@@ -99,11 +99,11 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 Fig.: ⟪भवति किं करोषि⟫
 (Image source: [Details](/sh/licenses#lekt4501))
 :::
-## 45.3. Vocabulary List
+## 45.3. Rečnik
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## 45.4. Exercise
+## 45.4. Vežba
 
 A) Translate into Sanskrit (for past tense forms, please use the imperfect ⟪लङ्⟫):
 

@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 56
+# Lekcija 56
 
 ## 56.1. The reduplicated aorist
 
@@ -200,7 +200,7 @@ Fig.: ⟪अलं विषादेन⟫
 
 e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be missing).
 :::
-## 56.5. Exercise
+## 56.5. Vežba
 
 A) Determine and translate the following forms without aids (!):
 

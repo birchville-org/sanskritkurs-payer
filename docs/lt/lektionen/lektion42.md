@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 42
+# Pamoka 42
 
 ## 42.1. Stems in -ṛ
 

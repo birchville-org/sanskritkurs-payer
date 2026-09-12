@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 34
+# Vežba 34
 
 A) Form the corresponding perfect tense forms for the following verb conjugations, matching person, number, and verbal gender:
 

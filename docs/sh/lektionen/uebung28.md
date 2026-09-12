@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 28
+# Vežba 28
 
 A) Form the causative of the following verb forms and participial forms:
 

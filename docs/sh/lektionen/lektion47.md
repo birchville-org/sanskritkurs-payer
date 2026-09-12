@@ -155,16 +155,16 @@ Slika: ⟪नृत्यत⟫
 | **2nd Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3rd Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
-## 47.3. Exercise
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
+## 47.3. Vežba
 
 ::: media
 ![](/images/lekt4703.webp)

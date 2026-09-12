@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 3
+# Lekcija 3
 
 ## 3.1. Nominative Singular of the Feminine
 

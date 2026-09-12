@@ -311,7 +311,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 :::
 
-## 27.6. Exercise
+## 27.6. Vežba
 
 **A) Insert the expressions in parentheses into the following sentence in the Locative (⟪सप्तमी⟫) Singular and - where sensible - Plural. Observe the different Sandhi, i.e., write out each full sentence!**
 

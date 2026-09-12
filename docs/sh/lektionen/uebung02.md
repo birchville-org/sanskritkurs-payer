@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 2
+# Vežba 2
 
 A) Insert the specified names and nouns into the following sentences, observing sandhi, and form nominal sentences:
 

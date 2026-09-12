@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 59
+# Pratimas 59
 
 ::: media
 ![](/images/uebung098.webp)

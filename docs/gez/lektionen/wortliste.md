@@ -2219,7 +2219,7 @@ PPP ⟪वृद्ध⟫ ፡ ትልቅ፣ አረጋዊ፣ የተጨመረ
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## ትምህርቲ 27
 
 
 
@@ -4578,7 +4578,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## ትምህርቲ 44
 
 
 
@@ -5651,7 +5651,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, country, region
 
-## Lesson 51
+## ትምህርቲ 51
 
 
 
@@ -5980,7 +5980,7 @@ Absol ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## ትምህርቲ 52
 
 
 

@@ -318,7 +318,7 @@ thereof:
 
 :::
 
-## 17.7. Exercise 1
+## 17.7. Vežba 1
 
 A) Insert the verb in the following sentences and translate:
 

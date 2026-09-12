@@ -215,7 +215,7 @@ Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/sh/licenses#lekt3501))
 :::
-## 35.5. Exercise
+## 35.5. Vežba
 
 A) Form the corresponding perfect forms for the following verb forms:
 

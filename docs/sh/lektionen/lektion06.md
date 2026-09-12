@@ -202,7 +202,7 @@ U sanskrtu se glagoli navode u **korijenskom obliku**. Broj nakon korijena ozna�
 (Image source: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Review Exercise
+## 6.9. Vežba za ponavljanje
 
 **A) Fill-in exercise: Form questions to which the sentences formed in the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

@@ -225,7 +225,7 @@ dviṣ 2 U:
 **dveṣa** ⟪द्वेष⟫ : hatred
 :::
 
-## 13.10. Exercise
+## 13.10. Pratimas
 
 A) Translate and convert into active present tense sentences:
 

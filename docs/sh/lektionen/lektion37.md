@@ -348,7 +348,7 @@ Note: ⟪किम्⟫ can mean not only "what?" but also as a question partic
 ::: indent
 ⟪किं क्रोधेन ।⟫ "What is the anger for? What does the anger help with? What should the anger do?"
 :::
-## 37.9. Vocabulary List
+## 37.9. Rečnik
 
 ⟪मूर्ख⟫ 3: dull-witted, stupid, foolish m. fool
 
@@ -373,7 +373,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Exercise
+## 37.10. Vežba
 
 A) Answer the following questions in Sanskrit using the words given in parentheses. Translate the question sentences.
 
@@ -493,7 +493,7 @@ Fig.: ⟪उपवृक्षं सीदन्ति⟫
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Review Exercise
+## 37.11. Vežba za ponavljanje
 
 Translate into Sanskrit using exclusively perfect verb forms:
 

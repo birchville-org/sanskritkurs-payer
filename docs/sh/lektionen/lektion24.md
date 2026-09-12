@@ -180,7 +180,7 @@ Example:
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "to this fire"
 :::
-## 24.4. Vocabulary List
+## 24.4. Rečnik
 
 ⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone or something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough of, stop (doing something), e.g., ⟪अलं क्रोधेन⟫ = "enough of anger = stop being angry!"
 
@@ -298,7 +298,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
 
 ⟪पुनर्⟫ Adverb: again, back, return, but
 
-## 24.5. Exercise
+## 24.5. Vežba
 
 A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
 

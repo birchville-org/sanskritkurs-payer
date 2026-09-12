@@ -487,7 +487,7 @@ PPP ⟪अतीत⟫ : n. past tense
 
 :::
 
-## 41.4. Exercise
+## 41.4. Vežba
 
 A) Translate the two proverbs at the beginning of the lesson.
 

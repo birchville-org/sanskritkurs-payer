@@ -242,7 +242,7 @@ Sanskrite veiksmažodžiai pateikiami **kamienine forma**. Skaičius po kamieno 
 
 :::
 
-## 6.9. Review Exercise
+## 6.9. Kartojimo pratimas
 
 **A) Fill-in exercise: Form questions to which the sentences formed in the following fill-in exercises are answers:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

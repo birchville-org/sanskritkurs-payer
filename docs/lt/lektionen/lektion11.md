@@ -77,7 +77,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
 
-## 11.3. Exercise
+## 11.3. Pratimas
 
 **A) Translate the following sentences:**
 

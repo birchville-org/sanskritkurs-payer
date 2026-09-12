@@ -131,7 +131,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at 
 ::: indent
 ⟪त्वां मां च⟫ "you and me"
 :::
-## 43.4. Vocabulary list
+## 43.4. Žodynėlis
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 

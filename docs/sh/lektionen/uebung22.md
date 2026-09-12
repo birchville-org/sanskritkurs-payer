@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 22
+# Vežba 22
 
 A) Form and translate the Absolute for the following verbs:
 

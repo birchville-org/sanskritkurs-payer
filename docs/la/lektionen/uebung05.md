@@ -1,12 +1,12 @@
 ---
-title: "Exercise 5"
+title: "Exercitatio 5"
 uebung_id: 5
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 5
+# Exercitatio 5
 
 A) Versa et composita sequentia translate, dvandva ibi occurrentia in Sanscritum resolve:
 

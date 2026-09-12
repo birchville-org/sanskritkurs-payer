@@ -50,7 +50,7 @@ Govoreni sanskrit
 
 *   1\. Nominalna kompozita = samāsa m. = ⟪समास⟫
 *   2\. O sanskrtskoj terminologiji za kompozita
-*   3\. Kопulative kompozite = Dvandva n. ("par") = ⟪द्वन्द्व⟫
+*   3\. Kopulativna kompozita = Dvandva n. ("par") = ⟪द्वन्द्व⟫
 *   3.1. Prednji članovi kompozita
 *   3.2. Pluralni Itaretaradvandva
 *   4\. Rječnik
@@ -151,7 +151,7 @@ Tjedna izreka
 *   5.1. Pasiv i PPP dotad naučenih korijena
 *   6\. Vježbe
 
-## [Lesson 13](lektion13)
+## [Lekcija 13](lektion13)
 
 *   1\. PPP on -na-
 *   2\. Further information on the use of the PPP
@@ -165,7 +165,7 @@ Tjedna izreka
 *   10\. Exercise
 *   11\. Review exercise
 
-## [Lesson 14](lektion14)
+## [Lekcija 14](lektion14)
 
 *   1\. The expression of the relationship between entities designated by nouns: the genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 *   2\. Formation of the genitive forms (ṣāṣṭhī f. = ⟪षष्ठी⟫)
@@ -174,7 +174,7 @@ Tjedna izreka
 *   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
 *   6\. Exercise
 
-## [Lesson 15](lektion15)
+## [Lekcija 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinative compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
@@ -189,7 +189,7 @@ Tjedna izreka
 *   10\. Exercise 2
 *   11\. Exercise 3
 
-## [Lesson 16](lektion16)
+## [Lekcija 16](lektion16)
 
 *   1\. On the sandhi of final consonants
 *   2\. Vocabulary list
@@ -527,7 +527,7 @@ Tjedna izreka
 *   7\. Vežba
 *   8\. Ponavljajuća vežba za morfologiju
 
-## [Lesson 41](lektion41)
+## [Lekcija 41](lektion41)
 
 *   1\. ⟪सुभाषिते⟫ (two proverbs)
 *   2\. Further ⟪कृत्⟫ formations in -a
@@ -545,7 +545,7 @@ Tjedna izreka
 *   3\. Vocabulary list
 *   4\. Exercise
 
-## [Lesson 42](lektion42)
+## [Lekcija 42](lektion42)
 
 *   1\. Stems in -ṛ
 *   1.1. Stems with lengthened grade in the strong stem
@@ -557,7 +557,7 @@ Tjedna izreka
 *   3\. Exercise
 *   4\. Translation exercise
 
-## [Lesson 43](lektion43)
+## [Lekcija 43](lektion43)
 
 *   1\. Personal endings of the second person (⟪मध्यमः⟫ = "middle \<Person\>")
 *   2\. Formation of verbal forms of the second person (⟪मध्यमः⟫)
@@ -575,7 +575,7 @@ Tjedna izreka
 *   5\. Exercise
 *   6\. ⟪संवादः⟫ = Conversation
 
-## [Lesson 44](lektion44)
+## [Lekcija 44](lektion44)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) of athematic stems with a vowel-ending suffix
 *   1.1. Fifth present class (⟪स्वादि⟫)
@@ -591,7 +591,7 @@ Tjedna izreka
 *   6. Exercises
 *   7. Morphology review exercises
 
-## [Lesson 45](lektion45)
+## [Lekcija 45](lektion45)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) of athematic stems without a vowel-ending suffix (continuation)
 *   1.1. Third present class (⟪जुहोत्यादि⟫)
@@ -600,7 +600,7 @@ Tjedna izreka
 *   3. Vocabulary list
 *   4. Exercises
 
-## [Lesson 46](lektion46)
+## [Lekcija 46](lektion46)
 
 *   1. Formation of the second-person verbal forms (⟪मध्यमः⟫) perfect tense (⟪लिट्⟫)
 *   1.1. Endings
@@ -620,7 +620,7 @@ Tjedna izreka
 *   2. Vocabulary list
 *   3. Exercises
 
-## [Lesson 47](lektion47)
+## [Lekcija 47](lektion47)
 
 *   1\. The Imperative (⟪लोट्⟫)
 *   2\. Formation of the Imperative (⟪लोट्⟫) thematic present stems
@@ -632,7 +632,7 @@ Tjedna izreka
 *   2.6. Passive Voice
 *   3\. Exercise
 
-## [Lesson 48](lektion48)
+## [Lekcija 48](lektion48)
 
 *   1\. ⟪सुभाषितानि⟫
 *   2\. Formation of the Imperative (⟪लोट्⟫) athematic present stems
@@ -645,7 +645,7 @@ Tjedna izreka
 *   5\. Exercise
 *   6\. Translation Exercise
 
-## [Lesson 49](lektion49)
+## [Lekcija 49](lektion49)
 
 *   1\. Formation of the Imperative (⟪लोट्⟫) athematic present stems (Continuation)
 *   1.1. Seventh Present Class  (⟪रुधादि⟫)
@@ -658,13 +658,13 @@ Tjedna izreka
 *   5\. Review Exercise on Morphology
 *   6\. Translation Exercise
 
-## [Lesson 50](lektion47)
+## [Lekcija 50](lektion47)
 
 *   1\. Nominal Derivation: Regular Gradation
 *   2\. Vocabulary List
 *   3\. Translation Exercise
 
-## [Lesson 51](lektion51)
+## [Lekcija 51](lektion51)
 
 *   1\. ⟪उपपद⟫-Compounds
 *   2\. Declension of Stems ending in a simple consonant (except Nasal, Semivowel, -s)
@@ -774,7 +774,7 @@ Tjedna izreka
 *   6. Aorist 5: iṣ-aorist
 *   7. Vježba
 
-## [Lesson 59](lektion59)
+## [Lekcija 59](lektion59)
 
 *   1\. The secondary endings and imperative endings of the dual (⟪द्विवचनम्⟫)
 *   2\. The dual of thematic present classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
@@ -800,7 +800,7 @@ Tjedna izreka
 *   6\. Aorist (⟪लुङ्⟫) 7: sa-aorist (thematic s-aorist)
 *   7\. Exercise
 
-## [Lesson 60](lektion60)
+## [Lekcija 60](lektion60)
 
 *   1\. The perfect endings of the dual (⟪द्विवचनम्⟫)
 *   2\. The dual of the reduplicated perfect (⟪द्वित्वलिट्⟫)

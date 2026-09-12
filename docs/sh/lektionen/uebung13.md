@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 13
+# Vežba 13
 
 A) Translate and convert into active present tense sentences:
 

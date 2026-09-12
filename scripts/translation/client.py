@@ -115,12 +115,25 @@ def translate_text(text, target_lang):
         'pt': "e.g. '# Lição N'",
         'vi': "e.g. '# Bài N'",
         'zu': "e.g. '# Isifundo N'",
-        'af': "e.g. '# Les N'",
+        'af': "e.g. '# Lesing N'",
         'lt': "e.g. '# Pamoka N'",
         'sh': "e.g. '# Lekcija N'",
         'sq': "e.g. '# Mësimi N'",
         'akk': "e.g. '# Limmadum N'",
         'am': "e.g. '# ትምህርት N'",
+        'gez': "e.g. '# ትምህርቲ N'",
+        'pl': "e.g. '# Lekcja N'",
+        'cs': "e.g. '# Lekce N'",
+        'sk': "e.g. '# Lekcia N'",
+        'sl': "e.g. '# Lekcija N'",
+        'ka': "e.g. '# გაკვეთილი N'",
+        'hy': "e.g. '# Դաս N'",
+        'si': "e.g. '# පාඩම N'",
+        'te': "e.g. '# పాఠం N'",
+        'da': "e.g. '# Lektion N'",
+        'no': "e.g. '# Leksjon N'",
+        'sv': "e.g. '# Lektion N'",
+        'is': "e.g. '# Kennslustund N'",
     }
     target_example = heading_mappings.get(target_lang, "")
     if target_example:
@@ -130,7 +143,7 @@ def translate_text(text, target_lang):
         "Rules: "
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
         "(2) Preserve unchanged: Markdown syntax, IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, ⟨BR⟩ placeholders, and ⟨STRUCT_N⟩ placeholders. "
-        f"(3) Translate '# Lektion N' headings to the target-language equivalent{target_example}. "
+        f"(3) Translate '# Lektion N', '## Übung', and '### Wortliste' headings to the target-language equivalent{target_example}. Headings and frontmatter titles must NEVER be translated into English unless the target language is English! "
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate a word or sentence into the target language, translate it into English as a fallback (NEVER leave it in German). "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "

@@ -366,7 +366,7 @@ Slika: ⟪घृतमग्नौ जुहोति⟫
 
 [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
 :::
-## 33.7. Exercise
+## 33.7. Vežba
 
 A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
 

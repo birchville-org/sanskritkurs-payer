@@ -104,7 +104,7 @@ c) ⟪उपजाति⟫
 ::: indent
 "If two pādas, which have the characteristics of Indravajrā or Upendravajrā respectively, are involved in a verse, then they are called Upajātis. Even if other meters are mixed into a verse, it is called Upajāti."
 :::
-## 54.4. Exercise on Metrics
+## 54.4. Vežba on Metrics
 
 Determine the Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
@@ -231,7 +231,7 @@ Example:
 
 (The remaining forms of the passive are rendered in the aorist by Ātmanepada forms).
 :::
-## 54.7. Exercise
+## 54.7. Vežba
 
 Translate the following forms in writing and form the corresponding aorist forms:
 

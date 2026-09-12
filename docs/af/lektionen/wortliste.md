@@ -1331,7 +1331,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Dit is eintjie van die Ashram in Rishikes
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir
 
-## Lesson 21
+## Lesing 21
 
 
 
@@ -1391,7 +1391,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, stewed) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, fry, roast etc.
 
-## Lesson 22
+## Lesing 22
 
 
 
@@ -1806,7 +1806,7 @@ Afbeelding: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## Lesing 27
 
 
 
@@ -2321,7 +2321,7 @@ From a Prajñāpāramitā manuscript.
 
 **⟪शरीर⟫ n.:** body, physical form
 
-## Lesson 32
+## Lesing 32
 
 
 
@@ -2448,7 +2448,7 @@ Mehndi painting on hands in Mumbai.
 (Image source: [Details](/licenses#lekt3206))
 :::
 
-## Lesson 33
+## Lesing 33
 
 
 
@@ -2702,7 +2702,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## Lesing 35
 
 
 
@@ -2760,7 +2760,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/licenses#lekt3501))
 :::
 
-## Lesson 36
+## Lesing 36
 
 
 
@@ -2971,7 +2971,7 @@ Afb.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: Mouth, face, front part, beginning
 
-## Lesson 38
+## Lesing 38
 
 
 
@@ -3444,7 +3444,7 @@ Rituals are performed for both, so-called ⟪श्राद्ध⟫ n. Every d
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## Lesson 43
+## Lesing 43
 
 
 
@@ -3575,7 +3575,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## Lesing 44
 
 
 
@@ -4265,7 +4265,7 @@ Sri Lanka
 (Image source: [Details](/licenses#lekt4906))
 :::
 
-## Lesson 50
+## Lesing 50
 
 
 
@@ -4390,7 +4390,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, country, region
 
-## Lesson 51
+## Lesing 51
 
 
 
@@ -4636,7 +4636,7 @@ Absol ⟪खनित्वा । खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## Lesing 52
 
 
 

@@ -131,7 +131,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at 
 ::: indent
 ⟪त्वां मां च⟫ "you and me"
 :::
-## 43.4. Vocabulary list
+## 43.4. Rečnik
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
@@ -250,7 +250,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## 43.5. Exercise
+## 43.5. Vežba
 
 A) Form the corresponding 2nd person for the following verb forms in tense, number, mood etc.:
 

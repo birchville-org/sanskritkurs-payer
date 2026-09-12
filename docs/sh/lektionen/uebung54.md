@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 54
+# Vežba 54
 
 Form the corresponding Aorist forms for the following Present or Perfect forms:
 

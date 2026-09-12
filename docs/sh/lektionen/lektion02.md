@@ -106,7 +106,7 @@ before other vowels: becomes **-a** (Hiatus)
 **devas + indras** » **deva indraḥ** = ⟪देव इन्द्रः⟫
 
 
-## 2.5. Vocabulary List
+## 2.5. Rečnik
 
 **deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
@@ -212,7 +212,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 **guru** m. -- ⟪गुरु⟫ : venerable person: father, mother, older relative, esp. teacher, master
 
 
-## 2.6. Exercise
+## 2.6. Vežba
 
 **A) Insert with due regard to Sandhi and form nominal sentences:**
 

@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 35
+# Vežba 35
 
 A) Form the corresponding perfect forms for the following verb forms:
 

@@ -198,7 +198,7 @@ Fig.: ⟪अलं विषादेन⟫
 
 e.g. ⟪वसति स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be missing).
 :::
-## 56.5. Exercise
+## 56.5. Pratimas
 
 A) Determine and translate the following forms without aids (!):
 

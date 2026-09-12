@@ -357,7 +357,7 @@ Rišikešas = ⟪ऋषिकेश⟫. „Tai iš tikrųjų yra dalis Rišikeš
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to stir, move
 
-## 20.10. Exercise 1
+## 20.10. Pratimas 1
 
 Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways you consider possible in Sanskrit (exception: compounds with adverbial first member). Translate these differently resolved compounds into English, and indicate the gender, case, and number of the entire compound.
 

@@ -535,7 +535,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Image source: [Details](/lt/licenses#lekt3209))
 :::
-## 32.8. Review Exercise
+## 32.8. Kartojimo pratimas
 
 Translate and analyze the following word forms:
 
@@ -580,7 +580,7 @@ Translate and analyze the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Translation Exercise
+## 32.9. Pratimas
 
 ::: compact
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br

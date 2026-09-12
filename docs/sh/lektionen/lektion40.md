@@ -414,7 +414,7 @@ As the first member of compounds, these pronouns have the stems:
 
 e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्पुस्तकानि⟫ "our books"
 :::
-## 40.6. Vocabulary List
+## 40.6. Rečnik
 
 ⟪पात्र⟫ n.: Venerable, Master, Worthy One
 
@@ -433,7 +433,7 @@ Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
 e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्पुस्तकानि⟫ "our books"
 :::
-## 40.6. Vocabulary List
+## 40.6. Rečnik
 
 ⟪पात्र⟫ n.: Venerable, Master, Worthy One
 
@@ -613,7 +613,7 @@ B) Pretvorite sljedeće glagolske oblike u odgovarajuće oblike perfekta. Kod vi
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Form Review Exercise
+## 40.8. Vežba za ponavljanje oblika
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

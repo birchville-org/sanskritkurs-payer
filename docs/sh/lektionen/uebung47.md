@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 47
+# Vežba 47
 
 A) Translate:
 

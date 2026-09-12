@@ -8,7 +8,7 @@ status: stable
 
 ---
 
-# Lesson 22
+# Lekcija 22
 
 ## 22.1. The Absolutive (⟪क्त्वा । ल्यप्⟫)
 
@@ -189,7 +189,7 @@ Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Image source: [Details](/sh/licenses#lekt2201))
 :::
-## 22.4. Exercise
+## 22.4. Vežba
 
 **A) Form and translate the absolutive for the following verbs:**
 

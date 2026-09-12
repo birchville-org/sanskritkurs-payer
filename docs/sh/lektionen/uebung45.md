@@ -7,7 +7,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 45
+# Vežba 45
 
 A) Translate into Sanskrit (use the imperfect for past tense):
 

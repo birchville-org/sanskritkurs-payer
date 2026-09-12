@@ -5,7 +5,7 @@ category: "Übung"
 
 ---
 
-# Exercise 61
+# Vežba 61
 
 Lesson 61 marks the conclusion of the Sanskrit course and contains no further written exercises.
 
