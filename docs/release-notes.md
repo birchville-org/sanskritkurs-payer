@@ -8,7 +8,7 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
-## 🚀 Version 1.8.5 (September 2026)
+## 🚀 Version 1.8.6 (September 2026)
 
 **Focus:** *QA Viewer & Editor Architecture, Navigation Parity across 38 Locales, Staging CI/CD Infrastructure & Nordic Polish*
 

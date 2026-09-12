@@ -31,5 +31,5 @@ Alois Payers **Sanskritkurs** är en omfattande, vetenskapligt grundad kurs för
 - **Kontakt och medverkan**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Projekt-wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online-redigerare**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Aktuell version**: v1.8.5
+- **Aktuell version**: v1.8.6
 :::

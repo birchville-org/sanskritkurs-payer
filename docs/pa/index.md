@@ -31,5 +31,5 @@ features:
 - **ਸੰਪਰਕ & ਯੋਗਦਾਨ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **ਔਨਲਾਈਨ ਸੰਪਾਦਕ**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **ਮੌਜੂਦਾ ਸੰਸਕਰਣ**: v1.8.5
+- **ਮੌਜੂਦਾ ਸੰਸਕਰਣ**: v1.8.6
 :::

@@ -31,5 +31,5 @@ features:
 - **தொடர்பு & பங்களிப்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **இணையவழி பதிப்பாசிரியர்**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **தற்போதைய பதிப்பு**: v1.8.5
+- **தற்போதைய பதிப்பு**: v1.8.6
 :::

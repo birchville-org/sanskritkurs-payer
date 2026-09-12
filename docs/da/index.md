@@ -31,5 +31,5 @@ Sprogene er blevet fuldt ud automatisk oversat fra tysk ved hjælp af en flertri
 - **Kontakt & medvirken**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Projekt-wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online-editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Aktuel version**: v1.8.5
+- **Aktuel version**: v1.8.6
 :::

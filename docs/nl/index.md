@@ -31,5 +31,5 @@ De talen zijn volledig automatisch vertaald uit het Duits met behulp van een mee
 - **Contact & Bijdrage**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online-editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Huidige versie**: v1.8.5
+- **Huidige versie**: v1.8.6
 :::

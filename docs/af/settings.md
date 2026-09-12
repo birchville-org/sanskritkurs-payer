@@ -8,7 +8,7 @@ title: "Instellings"
   <PayerLanguageSettings />
 </ClientOnly>
 ::: note-box  Informationen & Version
-**Huidige weergawe**: `v1.8.5`
-**Vrystellingsnotas & Changelog**: [Wat is nuut in v1.8.5?](/af/release-notes)
+**Huidige weergawe**: `v1.8.6`
+**Vrystellingsnotas & Changelog**: [Wat is nuut in v1.8.6?](/af/release-notes)
 **Bronkode & Bewaarplek**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

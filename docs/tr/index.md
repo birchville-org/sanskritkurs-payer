@@ -31,5 +31,5 @@ Diller, çok aşamalı bir yapay zeka zinciri kullanılarak tamamen otomatik ola
 - **İletişim & Katılım**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Proje Viki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Çevrimiçi Düzenleyici**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Güncel Sürüm**: v1.8.5
+- **Güncel Sürüm**: v1.8.6
 :::
