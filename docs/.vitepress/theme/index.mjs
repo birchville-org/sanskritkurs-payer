@@ -205,6 +205,12 @@ export default {
              if (m) {
                  localStorage.setItem('payer_last_lesson', m[2]);
              }
+             const pathParts = path.split('/').filter(Boolean);
+             let langCode = 'de';
+             if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
+                 langCode = pathParts[0];
+             }
+             localStorage.setItem('payer_last_lang', langCode);
         }, { immediate: true });
     }
   },
@@ -270,18 +276,32 @@ export default {
               }
           });
 
-          window.addEventListener('click', (e) => {
-              if (!e.isTrusted) return;
-              const itemHeader = e.target.closest('.VPSidebarItem.collapsible > .item');
-              if (itemHeader) {
-                   const clickedGroup = itemHeader.closest('.VPSidebarItem');
-                   if (!clickedGroup) return;
-                   const isCollapsed = clickedGroup.classList.contains('collapsed') || clickedGroup.classList.contains('is-collapsed');
-                   if (isCollapsed) {
-                       closeAllExcept(clickedGroup);
+           window.addEventListener('click', (e) => {
+               if (!e.isTrusted) return;
+
+               const qaLink = e.target.closest('a[href*="qa_viewer.html"]');
+               if (qaLink) {
+                   const path = window.location.pathname;
+                   const pathParts = path.split('/').filter(Boolean);
+                   let langCode = 'de';
+                   if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
+                       langCode = pathParts[0];
                    }
-              }
-          }, true);
+                   const m = path.match(/(lektion|schrift|uebung)0*(\d+)/i);
+                   const lessonParam = m ? `&lesson=${parseInt(m[2], 10)}` : '';
+                   qaLink.href = `/qa_viewer.html?lang=${langCode}${lessonParam}`;
+               }
+
+               const itemHeader = e.target.closest('.VPSidebarItem.collapsible > .item');
+               if (itemHeader) {
+                    const clickedGroup = itemHeader.closest('.VPSidebarItem');
+                    if (!clickedGroup) return;
+                    const isCollapsed = clickedGroup.classList.contains('collapsed') || clickedGroup.classList.contains('is-collapsed');
+                    if (isCollapsed) {
+                        closeAllExcept(clickedGroup);
+                    }
+               }
+           }, true);
       }
   }
 }
