@@ -48,11 +48,8 @@ jobs:
           mkdir -p /home/marco/staging/sanskritkurs-payer/dist-public
           rsync -a --delete docs/.vitepress/dist-public/ /home/marco/staging/sanskritkurs-payer/dist-public/
           cp -f nginx.conf /home/marco/staging/sanskritkurs-payer/nginx.conf
+          systemctl --user restart payer-staging.service 2>/dev/null || \
           docker run -d --replace --name payer-staging --restart always -p 8080:80 \
-            -v /home/marco/staging/sanskritkurs-payer/dist-public:/usr/share/nginx/html:ro \
-            -v /home/marco/staging/sanskritkurs-payer/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
-            nginx:alpine 2>/dev/null || \
-          docker run -d --name payer-staging --restart always -p 8080:80 \
             -v /home/marco/staging/sanskritkurs-payer/dist-public:/usr/share/nginx/html:ro \
             -v /home/marco/staging/sanskritkurs-payer/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
             nginx:alpine || true
