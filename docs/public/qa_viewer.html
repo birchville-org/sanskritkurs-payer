@@ -856,8 +856,8 @@
             <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 65px;"
                 onchange="updateLesson()">
             <select id="left-lang" onchange="updateFrames()">
-                <option value="qa/lektion01.html">Original HTML</option>
-                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
+                <option value="qa/lektion01.html" selected>Original HTML</option>
+                <option value="lektionen/lektion01">Deutsch (DE)</option>
                 <option value="en/lektionen/lektion01">English (EN)</option>
                 <option value="it/lektionen/lektion01">Italiano (IT)</option>
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
@@ -955,8 +955,8 @@
                 </span>
             </button>
             <select id="right-lang" onchange="updateFrames()">
-                <option value="qa/lektion01.html" selected>Original HTML</option>
-                <option value="lektionen/lektion01">Deutsch (DE)</option>
+                <option value="qa/lektion01.html">Original HTML</option>
+                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
                 <option value="en/lektionen/lektion01">English (EN)</option>
                 <option value="it/lektionen/lektion01">Italiano (IT)</option>
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
@@ -1198,44 +1198,89 @@
         // --- Sprach/Lektion-Erkennung aus Referrer + localStorage ---
 
         // Mapping: Sprachpräfix → dropdown value-Präfix
-        const LANG_TO_OPTION = {
-            '':   'lektionen/lektion01',      // DE (kein Präfix im Pfad)
-            'en': 'en/lektionen/lektion01',
-            'it': 'it/lektionen/lektion01',
-            'bg': 'bg/lektionen/lektion01',
-            'uk': 'uk/lektionen/lektion01',
-            'ru': 'ru/lektionen/lektion01',
-            'hi': 'hi/lektionen/lektion01',
-            'fr': 'fr/lektionen/lektion01',
-            'es': 'es/lektionen/lektion01',
-            'ta': 'ta/lektionen/lektion01',
-            'pa': 'pa/lektionen/lektion01',
-            'la': 'la/lektionen/lektion01',
-            'rm': 'rm/lektionen/lektion01',
-            'ro': 'ro/lektionen/lektion01',
-            'he': 'he/lektionen/lektion01',
-            'id': 'id/lektionen/lektion01',
-            'zh-CN': 'zh-CN/lektionen/lektion01',
-        };
+        function getOptionValForLang(lang) {
+            if (!lang || lang.toLowerCase() === 'de') return 'lektionen/lektion01';
+            return lang + '/lektionen/lektion01';
+        }
+
+        const LANG_TO_OPTION = new Proxy({}, {
+            get: (_, prop) => typeof prop === 'string' ? getOptionValForLang(prop) : undefined
+        });
+
+        function parsePathContext(pathname) {
+            if (!pathname) return null;
+            const clean = pathname.replace(/\/index\.html?$/i, '/').replace(/\.html$/i, '');
+
+            // 1. Lektion: /<lang>/lektionen/lektion<num> oder /lektionen/lektion<num>
+            const mLesson = clean.match(/^(?:\/([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?))?\/lektionen\/lektion0*(\d+)/i);
+            if (mLesson) {
+                return {
+                    lang: mLesson[1] || 'de',
+                    lesson: mLesson[2],
+                    isLesson: true,
+                    isHome: false
+                };
+            }
+
+            // 2. Sprach-Hauptseite: /<lang>/ oder /<lang>
+            const mHome = clean.match(/^\/([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?)(?:\/)?$/i);
+            if (mHome) {
+                return {
+                    lang: mHome[1],
+                    lesson: '1',
+                    isLesson: false,
+                    isHome: true
+                };
+            }
+
+            // 3. Deutsche Hauptseite: /
+            if (clean === '' || clean === '/') {
+                return {
+                    lang: 'de',
+                    lesson: '1',
+                    isLesson: false,
+                    isHome: true
+                };
+            }
+
+            return null;
+        }
+
+        window._qaReferrerUrl = null;
+        window._qaReferrerContext = null;
 
         function detectInitialContext() {
             // 1. URL-Parameter (höchste Priorität)
             const params = new URLSearchParams(window.location.search);
             const fileParam = params.get('file');
             if (fileParam) {
-                const m = fileParam.match(/docs\/(?:([a-z]{2}(?:-[A-Z]{2})?)\/)?lektionen\/lektion(\d+)\.md/);
-                if (m) return { lesson: m[2], lang: m[1] || '' };
+                const m = fileParam.match(/docs\/(?:([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?)\/)?lektionen\/lektion0*(\d+)\.md/i);
+                if (m) return { lesson: m[2], lang: m[1] || 'de', isLesson: true, isHome: false };
             }
-            if (params.get('lesson')) return { lesson: params.get('lesson'), lang: params.get('lang') || '' };
+            const paramLang = params.get('lang');
+            const paramLesson = params.get('lesson');
+            if (paramLang || paramLesson) {
+                return {
+                    lesson: paramLesson ? String(parseInt(paramLesson, 10)) : '1',
+                    lang: paramLang || 'de',
+                    isLesson: !!paramLesson,
+                    isHome: !paramLesson
+                };
+            }
 
             // 2. Referrer analysieren
             const ref = document.referrer;
             if (ref) {
                 try {
-                    const path = new URL(ref).pathname;
-                    // Erkennt: /LANG/lektionen/lektionNN, /lektionen/lektionNN
-                    const m = path.match(/^(?:\/([a-z]{2}))?\/lektionen\/(lektion)(\d+)/);
-                    if (m) return { lesson: m[3], lang: m[1] || '' };
+                    const refUrl = new URL(ref);
+                    if (refUrl.origin === window.location.origin && !refUrl.pathname.includes('qa_viewer')) {
+                        window._qaReferrerUrl = ref;
+                        const parsed = parsePathContext(refUrl.pathname);
+                        if (parsed) {
+                            window._qaReferrerContext = parsed;
+                            return parsed;
+                        }
+                    }
                 } catch(_) {}
             }
 
@@ -1243,7 +1288,7 @@
             try {
                 const s = localStorage.getItem('payer_last_lesson');
                 const l = localStorage.getItem('payer_last_lang') || '';
-                if (s) return { lesson: s, lang: l };
+                if (s || l) return { lesson: s || '1', lang: l || 'de', isLesson: true, isHome: false };
             } catch(_) {}
 
             return null;
@@ -1253,19 +1298,27 @@
             if (!ctx) return;
 
             // Lektion-Nummer setzen
-            if (ctx.lesson) lessonInput.value = parseInt(ctx.lesson);
+            if (ctx.lesson) lessonInput.value = parseInt(ctx.lesson, 10);
 
-            // Links immer Original HTML
+            // Links immer Original HTML als Referenz
+            const leftSel = document.getElementById('left-lang');
+            if (leftSel) {
+                const origOpt = Array.from(leftSel.options).find(o => o.value.includes('qa/'));
+                if (origOpt) leftSel.value = origOpt.value;
+            }
+
             // Rechts: erkannte Sprache (oder DE als Fallback)
             const rightSel = document.getElementById('right-lang');
-            const optionVal = LANG_TO_OPTION[ctx.lang] || 'lektionen/lektion01';
-            const opt = Array.from(rightSel.options).find(o => o.value === optionVal);
-            if (opt) rightSel.value = optionVal;
+            if (rightSel) {
+                const optionVal = getOptionValForLang(ctx.lang);
+                const opt = Array.from(rightSel.options).find(o => o.value === optionVal);
+                if (opt) rightSel.value = optionVal;
+            }
 
             // Letzte Auswahl merken
             try {
                 if (ctx.lesson) localStorage.setItem('payer_last_lesson', ctx.lesson);
-                localStorage.setItem('payer_last_lang', ctx.lang || '');
+                localStorage.setItem('payer_last_lang', ctx.lang || 'de');
             } catch(_) {}
         }
 
@@ -1317,24 +1370,61 @@
         }
 
         function performExit() {
-            const num = lessonInput.value.padStart(2, '0');
-            // Bevorzuge die aktuell gewählte Sprache über den Referrer
-            function langValToPath(val) {
-                if (!val || val.includes('qa/') || !val.includes('lektion')) return null;
-                return '/' + val.replace(/lektion\d+/, 'lektion' + num);
+            const num = String(lessonInput.value || '1').padStart(2, '0');
+            const leftVal  = document.getElementById('left-lang')?.value || '';
+            const rightVal = document.getElementById('right-lang')?.value || '';
+
+            function extractLang(val) {
+                if (!val || val.includes('qa/')) return null;
+                const m = val.match(/^([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?)\/lektionen/i);
+                if (m) return m[1];
+                if (val.startsWith('lektionen/')) return 'de';
+                return null;
             }
-            const leftVal  = document.getElementById('left-lang').value;
-            const rightVal = document.getElementById('right-lang').value;
-            const leftPath  = langValToPath(leftVal);
-            const rightPath = langValToPath(rightVal);
-            // Priorität: linke Sprache → rechte Sprache → Referrer → /
-            if (leftPath) { window.location.href = leftPath; return; }
-            if (rightPath) { window.location.href = rightPath; return; }
-            if (document.referrer && !document.referrer.includes('qa_viewer')) {
-                window.location.href = document.referrer;
+
+            // Ermittle aktive Sprache: Vorrang hat die Zielsprache (rechts, falls nicht qa/ oder de mit linker Fremdsprache)
+            let activeLang = extractLang(rightVal);
+            const leftLang = extractLang(leftVal);
+            if (!activeLang || (activeLang.toLowerCase() === 'de' && leftLang && leftLang.toLowerCase() !== 'de')) {
+                if (leftLang) activeLang = leftLang;
+            }
+            if (!activeLang && window._qaReferrerContext) {
+                activeLang = window._qaReferrerContext.lang;
+            }
+            if (!activeLang) {
+                try { activeLang = localStorage.getItem('payer_last_lang'); } catch(_) {}
+            }
+            if (!activeLang) activeLang = 'de';
+
+            const refCtx = window._qaReferrerContext;
+            const refUrl = window._qaReferrerUrl;
+
+            // 1. Kam der Nutzer von einer Seite dieser Origin mit übereinstimmender Sprache?
+            if (refCtx && refUrl && refCtx.lang.toLowerCase() === activeLang.toLowerCase()) {
+                // Kam von Hauptseite und Lektion ist unverändert 1 -> zurück zur Hauptseite
+                if (refCtx.isHome && (parseInt(lessonInput.value, 10) === 1 || !lessonInput.value)) {
+                    window.location.href = refUrl;
+                    return;
+                }
+                // Kam von derselben Lektion -> zurück zur Referrer-URL
+                if (refCtx.isLesson && parseInt(refCtx.lesson, 10) === parseInt(lessonInput.value, 10)) {
+                    window.location.href = refUrl;
+                    return;
+                }
+            }
+
+            // 2. Kam der Nutzer von einer Hauptseite und Lektion ist 1 (oder Lektion 1 ohne Lektions-Referrer)
+            if ((refCtx && refCtx.isHome && (parseInt(lessonInput.value, 10) === 1 || !lessonInput.value)) || (!refCtx && (parseInt(lessonInput.value, 10) === 1 || !lessonInput.value))) {
+                window.location.href = activeLang.toLowerCase() === 'de' ? '/' : `/${activeLang}/`;
                 return;
             }
-            window.location.href = '/';
+
+            // 3. Ziel-URL anhand der aktiven Sprache und Lektion konstruieren
+            if (activeLang.toLowerCase() === 'de') {
+                window.location.href = `/lektionen/lektion${num}`;
+            } else {
+                window.location.href = `/${activeLang}/lektionen/lektion${num}`;
+            }
         }
 
         // Sicherheitsabfrage beim Verlassen/Schließen des Tabs
@@ -1348,9 +1438,19 @@
         });
 
         // Dropdown-Auswahl bei Änderung persistieren
+        function persistLangSelection(val) {
+            if (!val || val.includes('qa/')) return;
+            const m = val.match(/^([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?)\/lektionen/i);
+            const lang = m ? m[1] : (val.startsWith('lektionen/') ? 'de' : '');
+            if (lang) {
+                try { localStorage.setItem('payer_last_lang', lang); } catch(_) {}
+            }
+        }
         document.getElementById('left-lang').addEventListener('change', function() {
-            const m = this.value.match(/^([a-z]{2})\/lektionen/);
-            try { localStorage.setItem('payer_last_lang', m ? m[1] : ''); } catch(_) {}
+            persistLangSelection(this.value);
+        });
+        document.getElementById('right-lang').addEventListener('change', function() {
+            persistLangSelection(this.value);
         });
 
         const initialCtx = detectInitialContext();
