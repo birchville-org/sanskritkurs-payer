@@ -15,7 +15,7 @@ export const af = {
     nav: [
       { text: 'Tuis', link: '/af/' },
       { text: 'TOC', link: '/af/lektionen/inhaltsverzeichnis' },
-      { text: 'V&A', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Krediete', link: '/af/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/af/settings', ariaLabel: 'Maak Instellings oop' }
     ],

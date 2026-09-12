@@ -14,6 +14,7 @@ export const vi = {
     nav: [
       { text: 'Trang chủ', link: '/vi/' },
       { text: 'Mục lục', link: '/vi/lektionen/inhaltsverzeichnis' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Thông tin pháp lý', link: '/vi/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/vi/settings', ariaLabel: 'Mở cài đặt' }
     ],

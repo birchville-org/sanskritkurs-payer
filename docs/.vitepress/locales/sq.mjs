@@ -15,7 +15,7 @@ export const sq = {
     nav: [
       { text: 'Kryefaqja', link: '/sq/' },
       { text: 'TOC', link: '/sq/lektionen/inhaltsverzeichnis' },
-      { text: 'Pyetje & Përgjigje', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Falënderime', link: '/sq/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/sq/settings', ariaLabel: 'Hap Cilësimet' }
     ],

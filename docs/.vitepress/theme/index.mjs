@@ -57,6 +57,20 @@ function updateNavbarLangLabel() {
         }
         labelSpan.textContent = langCode.toUpperCase();
     }
+function updateQaNavbarLinks(path) {
+    if (typeof document === 'undefined') return;
+    const currentPath = path || (typeof window !== 'undefined' ? window.location.pathname : '');
+    const pathParts = currentPath.split('/').filter(Boolean);
+    let langCode = 'de';
+    if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
+        langCode = pathParts[0];
+    }
+    const m = currentPath.match(/(lektion|schrift|uebung)0*(\d+)/i);
+    const lessonParam = m ? `&lesson=${parseInt(m[2], 10)}` : '';
+    const targetHref = `/qa_viewer.html?lang=${langCode}${lessonParam}`;
+    document.querySelectorAll('a[href*="qa_viewer.html"]').forEach(a => {
+        a.href = targetHref;
+    });
 }
 
 function closeAllExcept(clickedGroup) {
@@ -171,6 +185,7 @@ export default {
     onMounted(() => {
         setupInstallCapture()
         updateNavbarLangLabel()
+        updateQaNavbarLinks()
     })
 
     if (typeof document !== 'undefined') {
@@ -180,6 +195,7 @@ export default {
                  mergeTableCells();
                  fixTableColors();
                  updateNavbarLangLabel();
+                 updateQaNavbarLinks(path);
              }, 250);
              
              // License Audit ID Migration (Move ID from <a> to <tr> for highlighting)

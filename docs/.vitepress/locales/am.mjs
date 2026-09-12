@@ -15,7 +15,7 @@ export const am = {
     nav: [
       { text: 'መነሻ', link: '/am/' },
       { text: 'ማውጫ', link: '/am/lektionen/inhaltsverzeichnis' },
-      { text: 'ጥያቄና መልስ', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'ክሬዲቶች', link: '/am/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/am/settings', ariaLabel: 'ቅንብሮችን ክፈት' }
     ],

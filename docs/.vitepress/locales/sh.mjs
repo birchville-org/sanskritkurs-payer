@@ -15,7 +15,7 @@ export const sh = {
     nav: [
       { text: 'Početna', link: '/sh/' },
       { text: 'Sadržaj', link: '/sh/lektionen/inhaltsverzeichnis' },
-      { text: 'Pitanja', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Zasluge', link: '/sh/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/sh/settings', ariaLabel: 'Otvori postavke' }
     ],

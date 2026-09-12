@@ -16,7 +16,7 @@ export const he = {
     nav: [
       { text: 'דף הבית', link: '/he/' },
       { text: 'תוכן עניינים', link: '/he/lektionen/inhaltsverzeichnis' },
-      { text: 'שאלות ותשובות', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'אחריות', link: '/he/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/he/settings', ariaLabel: 'פתח הגדרות' }
     ],

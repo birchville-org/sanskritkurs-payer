@@ -15,7 +15,7 @@ export const lt = {
     nav: [
       { text: 'Pradžia', link: '/lt/' },
       { text: 'Turinys', link: '/lt/lektionen/inhaltsverzeichnis' },
-      { text: 'DU', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Ačiū', link: '/lt/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/lt/settings', ariaLabel: 'Atidaryti nustatymus' }
     ],

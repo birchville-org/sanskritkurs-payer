@@ -15,7 +15,7 @@ export const zhCN = {
     nav: [
       { text: '首页', link: '/zh-CN/' },
       { text: '目录', link: '/zh-CN/lektionen/inhaltsverzeichnis' },
-      { text: '问答', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: '鸣谢', link: '/zh-CN/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/zh-CN/settings', ariaLabel: '打开设置' }
     ],

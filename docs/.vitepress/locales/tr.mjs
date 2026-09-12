@@ -14,6 +14,7 @@ export const tr = {
     nav: [
       { text: 'Ana Sayfa', link: '/tr/' },
       { text: 'İçindekiler', link: '/tr/lektionen/inhaltsverzeichnis' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Künye', link: '/tr/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/tr/settings', ariaLabel: 'Ayarları aç' }
     ],

@@ -9,7 +9,7 @@ export const pt = {
     nav: [
       { text: 'Início', link: '/pt/' },
       { text: 'Índice', link: '/pt/lektionen/inhaltsverzeichnis' },
-      { text: 'Perguntas e Respostas', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Créditos', link: '/pt/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/pt/settings', ariaLabel: 'Abrir definições' }
     ],

@@ -15,7 +15,7 @@ export const zhTW = {
     nav: [
       { text: '首頁', link: '/zh-TW/' },
       { text: '目錄', link: '/zh-TW/lektionen/inhaltsverzeichnis' },
-      { text: '問答', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: '致謝', link: '/zh-TW/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/zh-TW/settings', ariaLabel: '開啟設定' }
     ],

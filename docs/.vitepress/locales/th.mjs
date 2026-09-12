@@ -15,7 +15,7 @@ export const th = {
     nav: [
       { text: 'หน้าหลัก', link: '/th/' },
       { text: 'สารบัญ', link: '/th/lektionen/inhaltsverzeichnis' },
-      { text: 'คำถาม', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'เครดิต', link: '/th/impressum' },
       { text: '<span class="nav-gear-icon"></span>', link: '/th/settings', ariaLabel: 'เปิดการตั้งค่า' }
     ],
