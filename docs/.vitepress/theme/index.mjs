@@ -57,6 +57,8 @@ function updateNavbarLangLabel() {
         }
         labelSpan.textContent = langCode.toUpperCase();
     }
+}
+
 function updateQaNavbarLinks(path) {
     if (typeof document === 'undefined') return;
     const currentPath = path || (typeof window !== 'undefined' ? window.location.pathname : '');
