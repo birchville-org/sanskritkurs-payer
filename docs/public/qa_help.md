@@ -27,20 +27,22 @@ Instead, the outer container must be defined with **4 colons (`::::`)**!
 ```markdown
 ::: grammar-box
 This text is inside the box.
-:::
+
 ::: indent
 This is indented.
+:::
 :::
 ```
 
 **Right:**
 ```markdown
-::: grammar-box
+:::: grammar-box
 This text is inside the box.
-:::
+
 ::: indent
 This is indented.
 :::
+::::
 ```
 
 ## 3. Extended Table Features
@@ -83,7 +85,7 @@ Make sure that empty cells in tables always contain a single space (`| |` instea
 There are two different red colors used in this project:
 
 **1. Scholarly Red (`#b22222`)**
-Used for Devanāgarī and morphological highlights. It is automatically applied to text inside the Devanāgarī brackets `...`. 
+Used for Devanāgarī and morphological highlights. It is automatically applied to text inside the Devanāgarī brackets `⟪...⟫`. 
 Please **do not** manually color Latin letters red using standard Markdown formatting (like `***`) to fake Scholarly Red.
 
 **2. Signal Red (`#ff0000`)**
