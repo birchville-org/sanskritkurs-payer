@@ -45,15 +45,16 @@ jobs:
 
       - name: 1. Deploy Local Live-Staging Container (Port 8080)
         run: |
-          docker stop payer-staging sanskrit-kurs 2>/dev/null || true
-          docker rm -f payer-staging sanskrit-kurs 2>/dev/null || true
+          mkdir -p /home/marco/staging/sanskritkurs-payer/dist-public
+          rsync -a --delete docs/.vitepress/dist-public/ /home/marco/staging/sanskritkurs-payer/dist-public/
+          cp -f nginx.conf /home/marco/staging/sanskritkurs-payer/nginx.conf
           docker run -d --replace --name payer-staging --restart always -p 8080:80 \
-            -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro \
-            -v $(pwd)/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
+            -v /home/marco/staging/sanskritkurs-payer/dist-public:/usr/share/nginx/html:ro \
+            -v /home/marco/staging/sanskritkurs-payer/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
             nginx:alpine 2>/dev/null || \
           docker run -d --name payer-staging --restart always -p 8080:80 \
-            -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro \
-            -v $(pwd)/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
+            -v /home/marco/staging/sanskritkurs-payer/dist-public:/usr/share/nginx/html:ro \
+            -v /home/marco/staging/sanskritkurs-payer/nginx.conf:/etc/nginx/conf.d/default.conf:ro \
             nginx:alpine || true
 
       - name: 2. Run Mobile Layout & Internal Link Audit
