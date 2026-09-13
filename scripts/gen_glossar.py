@@ -34,8 +34,11 @@ try:
         except Exception:
             return ""
 except ImportError:
-    def deva_to_iast(text: str) -> str:
-        return ""
+    raise RuntimeError(
+        "CRITICAL: 'indic_transliteration' ist nicht installiert! "
+        "Glossar-Generierung abgebrochen, um unvollständige/leere IAST-Spalten zu verhindern. "
+        "Bitte installieren mit: pip install indic_transliteration"
+    )
 
 # ── Sprachkonfiguration ──────────────────────────────────────────────────────
 LANG_CONFIG = {
@@ -304,7 +307,7 @@ def parse_entries(lang_dir: Path, de_dir: Path) -> list:
                     iast = bold_val
 
             if not iast:
-                iast = deva_to_iast(deva) or deva
+                iast = deva_to_iast(deva) or ""
 
             # Den restlichen Text nach dem Devanagari-Wort bzw. dem fettgedruckten Lemma bestimmen
             if m_bold:
@@ -386,13 +389,34 @@ def first_char(deva: str) -> str:
 def get_config(lang: str) -> dict:
     if lang in LANG_CONFIG:
         return LANG_CONFIG[lang]
+    
+    out_path = ROOT / ("docs/lektionen/glossar.md" if lang == "de" else f"docs/{lang}/lektionen/glossar.md")
+    title = f"Glossar Sanskrit–{lang.upper()}"
+    subtitle = "Zusammengestellt aus den Wortlisten des Sanskrit-Kurses von Alois Payer."
+    col_s, col_i, col_g, col_m, col_l = "Sanskrit", "IAST", "Genus", "Bedeutung", "Lektion"
+
+    # Bestehende übersetzte Header/Titel beibehalten, falls vorhanden
+    if out_path.exists():
+        try:
+            for line in out_path.read_text(encoding="utf-8").splitlines()[:30]:
+                if line.startswith("# "):
+                    title = line[2:].strip()
+                elif line.startswith("*") and line.endswith("*"):
+                    subtitle = line[1:-1].strip()
+                elif line.startswith("|") and "IAST" in line:
+                    cols = [c.strip() for c in line.strip("|").split("|")]
+                    if len(cols) == 5:
+                        col_s, col_i, col_g, col_m, col_l = cols
+        except Exception:
+            pass
+
     return {
         "dir": f"docs/lektionen" if lang == "de" else f"docs/{lang}/lektionen",
-        "glossar_path": f"docs/lektionen/glossar.md" if lang == "de" else f"docs/{lang}/lektionen/glossar.md",
-        "title": f"Glossar Sanskrit–{lang.upper()}",
-        "subtitle": "Zusammengestellt aus den Wortlisten des Sanskrit-Kurses von Alois Payer.",
-        "col_sanskrit": "Sanskrit", "col_iast": "IAST", "col_genus": "Genus",
-        "col_meaning": "Bedeutung", "col_lektion": "Lektion",
+        "glossar_path": str(out_path.relative_to(ROOT)),
+        "title": title,
+        "subtitle": subtitle,
+        "col_sanskrit": col_s, "col_iast": col_i, "col_genus": col_g,
+        "col_meaning": col_m, "col_lektion": col_l,
         "link_prefix": "/lektionen/lektion" if lang == "de" else f"/{lang}/lektionen/lektion",
     }
 
@@ -461,13 +485,13 @@ def main() -> None:
             lang = args[idx + 1]
 
     if lang == "all":
-        print("Generiere Glossar für alle Sprachen...")
-        # Check all existing language directories under docs/
+        print("Generiere Glossar für alle Übersetzungssprachen (DE bleibt als Master unberührt)...")
+        # Alle Sprachen unter docs/ ausser DE ermitteln
         all_langs = set(LANG_CONFIG.keys())
         for d in (ROOT / "docs").iterdir():
             if d.is_dir() and (d / "lektionen").exists():
                 all_langs.add(d.name)
-        all_langs.add("de")
+        all_langs.discard("de")
         for l in sorted(all_langs):
             generate(l)
     else:
