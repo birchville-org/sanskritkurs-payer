@@ -140,7 +140,7 @@ En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont co
 
 Pour la répartition des racines sur les différents types de formation, voir les sections consacrées à chaque type
 :::
-## 54.6. Wurzelaorist
+## 54.6. Aoriste radical
 
 ::: grammar-box
 **Formation :**

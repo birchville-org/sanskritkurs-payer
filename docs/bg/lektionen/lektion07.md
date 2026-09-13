@@ -197,29 +197,29 @@ status: stable
 | **śru** :br5 P:br⟪श्रु⟫:br"чуя" | **śṛ-ṇo** :br(3.ед.ч. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.мн.ч. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 
-## 7.6. Word List
+## 7.6. Списък с думи
 
-**Learn the following words:**
+**Научете следните думи:**
 
-**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : reach, arrive at, attain
-**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : reach, attain
-**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : be angry
-**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : be angry
-**khād** 1 P (khādati) ⟪खाद् खादति⟫ : chew, eat
-**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : hear (something: Accusative, someone: Genitive or Accusative; about: Accusative; from someone: Genitive, Ablative, Instrumental)
-**su** 5 U (sunoti) ⟪सु सुनोति⟫ : press out
-**soma** m. ⟪सोम⟫ : pressed drink, Soma; Moon (Which plant was used to press Soma is still disputed today).
+**aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : достигам, получавам
+**āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : достигам, придобивам
+**kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : гневя се, ядосвам се
+**krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : гневя се, сърдя се
+**khād** 1 P (khādati) ⟪खाद् खादति⟫ : дъвча, ям
+**śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : чувам (нещо: акузатив, някого: генитив или акузатив; за нещо: акузатив; от някого: генитив, аблатив, инструментал)
+**su** 5 U (sunoti) ⟪सु सुनोति⟫ : изстисквам
+**soma** m. ⟪सोम⟫ : изцедена напитка, сома; луна (кое растение е било използвано за изцеждане на сома, се оспорва и днес).
 ::: media
 ![](/images/lekt0701.webp)
-Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
-(Image source: [Details](/bg/licenses#lekt0701))
+ФИГ.: Това ли е било ведическото растение сома?: Червена мухоморка: *Amanita muscaria* (L.) Lam.
+(Източник на изображението: [Подробности](/bg/licenses#lekt0701))
 :::
-**phala** n. ⟪फल⟫ : fruit (also in a figurative sense: (karmic) fruit of an action)
-**nṛtya** n. ⟪नृत्य⟫ : dance
-**svarga** m. ⟪स्वर्ग⟫ : heaven
-**naraka** m. ⟪नरक⟫ : hell (According to one Hindu view, the universe has the shape of an egg (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Egg of Brahmā"): above the earth are six heavens with increasing bliss, below the earth are seven so-called **pātāla** n. = ⟪पाताल⟫, dwellings of the **nāga** m. = ⟪नाग⟫ (snakes) and other mythical beings, among them are 7 hells with increasing torments)
-**aṅga** n. ⟪अङ्ग⟫ : limb of the body, component; also = **vedāṅga** = ⟪वेदाङ्ग⟫
-**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : go (According to the indigenous verb classification, it belongs to Present Class 1, but is actually a formation with a present stem-forming suffix **-ccha-**: **gam** » Strengthened grade (**gm** ») **ga-ccha-ti**)
+**phala** n. ⟪फल⟫ : плод (също в преносен смисъл: (кармичен) плод на действие)
+**nṛtya** n. ⟪नृत्य⟫ : танц
+**svarga** m. ⟪स्वर्ग⟫ : небе
+**naraka** m. ⟪नरक⟫ : ад (според едно индуистко виждане вселената има формата на яйце (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Яйце на Брахма"): над земята има шест небеса с нарастващо блаженство, под земята има седем така наречени **pātāla** n. = ⟪पाताल⟫, обиталища на **nāga** m. = ⟪नाग⟫ (змии) и други митични същества, сред които се намират 7 ада с нарастващи мъчения)
+**aṅga** n. ⟪अङ्ग⟫ : член на тялото, съставна част; също = **vedāṅga** = ⟪वेदाङ्ग⟫
+**gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : вървя, отивам (според местната класификация на глаголите принадлежи към 1. сегашен клас, но всъщност е образувание със суфикс за образуване на сегашна основа **-ccha-**: **gam** » слаба степен (**gm** ») **ga-ccha-ti**)
 
 
 

@@ -10,33 +10,33 @@ status: stable
 
 # Pamoka 58
 
-## 58.1. The Dual Endings (⟪द्विवचनम्⟫)
+## 58.1. Dviejaskaitos pagrindinės galūnės (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: |
-|   |   | thematic | athematic |
+|   |   | teminis | ateminis |
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. The Dual of Thematic Present Classes: Indicative Present (⟪लट्⟫)
+## 58.2. Teminių prezento klasių dualis: prezento indikatyvas (⟪लट्⟫)
 
-Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
+Prieš -vas ir -vahe teminis balsis -a- pakeičiamas į -ā-.
 
-### 58.2.1. First Present Class (⟪भ्वादिगणः⟫)
+### 58.2.1. Pirmoji prezento klasė (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "to become, to be"
+⟪भू⟫ 1P "tapti, būti"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"we both become" | ⟪भवावहे⟫ |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"you both become" | ⟪भवेथे⟫:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"they both become" | ⟪भवेते⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"mudu tampame" | ⟪भवावहे⟫ |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"jūdu tampate" | ⟪भवेथे⟫:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"jiedu tampa" | ⟪भवेते⟫ |
 
-### 58.2.2. Fourth Present Class (⟪दिवादिगणः⟫)
+### 58.2.2. Ketvirtoji prezento klasė (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "to dance"
+⟪नृत्⟫ 4P "šokti"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -46,12 +46,12 @@ Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
 ::: media
 ![](/images/lekt5802.webp)
-Fig.: ⟪नृत्यतः ओडिसी⟫
-(Image source: [Details](/lt/licenses#lekt5802))
+Pav.: ⟪नृत्यतः ओडिसी⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5802))
 :::
-### 58.2.3. Sixth Present Class (⟪तुदादिगणः⟫)
+### 58.2.3. Šeštoji prezento klasė (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "to push, to strike"
+⟪तुद्⟫ 6U "stumti, mušti"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -60,9 +60,9 @@ Fig.: ⟪नृत्यतः ओडिसी⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Tenth Present Class (⟪चुरादिगणः⟫) and Causatives (⟪णिजन्त⟫)
+### 58.2.4. Dešimtoji prezento klasė (⟪चुरादिगणः⟫) ir kauzatyvai (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "vog"
+⟪चुर्⟫ 10U "vogti"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -350,28 +350,28 @@ Paradigmos:
 | **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Special features:**
+**Ypatumai:**
 
-1. For some roots, the connecting vowel -i- in ⟪आत्मनेपद⟫ can be replaced by -ī-. After ⟪ग्रह्⟫ 9U "to grasp", this replacement must occur in the P and Ā:  
+1. Kai kurioms šaknims jungiamasis balsis -i- ⟪आत्मनेपद⟫ gali būti pakeistas į -ī-. Po ⟪ग्रह्⟫ 9U "griebti, paimti" šis pakeitimas privalo įvykti P ir Ā:  
 ⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
 
-2. Roots of the 8th present class ending in -n (or -ṇ) can be grade-reduced in the 2.3.sg.Ā:  
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (root aorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+2. 8-osios prezento klasės šaknys, besibaigiančios -n (arba -ṇ), 2. ir 3. vns. Ā gali turėti žemąjį laipsnį:  
+⟪तन्⟫ 8U: 2.vns.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (šaknies aoristas) ; 3. vns. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
-3. ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā and others can take the form of the passive aorist instead of the 3.sg. Ā:  
+3. ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā ir kitos vietoj 3. vns. Ā gali įgyti pasyvo aoristo formą:  
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 
-4. ⟪विज्⟫ 7P has no ablaut:  
+4. ⟪विज्⟫ 7P neturi balsių kaitos (ablauto):  
 ⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
-Fig.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
-(Image source: [Details](/lt/licenses#lekt5808))
+Pav.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5808))
 :::
 ## 58.7. Pratimas
 
-A) Determine and translate the following forms without aids, and form the corresponding i-aorist forms:
+A) Nustatykite ir išverskite šias formas be pagalbinių priemonių bei sudarykite atitinkamas i-aoristo formas:
 
 1. ⟪औहे⟫
 2. ⟪जाग्रति⟫
@@ -393,7 +393,7 @@ A) Determine and translate the following forms without aids, and form the corres
 18. ⟪ऐक्षध्वम्⟫
 19. ⟪अचेतः⟫
 
-B) Translate and determine the following forms:
+B) Išverskite ir nustatykite šias formas:
 
 1. ⟪अनेढ्वम्⟫
 2. ⟪एनयोः⟫

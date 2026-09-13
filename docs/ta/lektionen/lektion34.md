@@ -102,9 +102,9 @@ status: stable
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| வேர் | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "இருக்க" மற்றும் ⟪अस्⟫ 4 "எறிய" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
@@ -158,7 +158,7 @@ status: stable
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अस्⟫ 2P "இருக்க":br⟪अस्⟫ 4 "எறிய" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::

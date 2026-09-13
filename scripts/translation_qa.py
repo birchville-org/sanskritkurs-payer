@@ -337,10 +337,55 @@ def is_file_fallback(filepath, code):
     if check_has_de_phrases(txt, code):
         return True, "Contains unallowed German/English phrases or remnants"
 
-    # 3b. English Heading / Metadata Fallback Check (for non-EN target languages)
+    # 3b. English & German Heading / Metadata Fallback Check
     if code != "en":
-        if re.search(r'^(?:#+\s+(?:Lesson\s+\d+|Exercise\s+\d+|Vocabulary\s+List\b|Review\s+Exercise\b)|title:\s*["\'](?:Lesson|Exercise)\s+\d+)', txt, re.M | re.I):
+        if re.search(r'^(?:#+\s+(?:Lesson\s+\d+|Exercise\s+\d+|Vocabulary\s+List\b|Review\s+Exercise\b|(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|\d+\.?)\s+Present\s+Class\b|Root\s+Aorist\b|Reduplicated\s+Aorist\b)|title:\s*["\'](?:Lesson|Exercise)\s+\d+)', txt, re.M | re.I):
             return True, "Contains untranslated English headings or title metadata"
+
+    if code != "de":
+        if re.search(r'^#+\s+(?:\d+\.\d+\.?\s+)?(?:Wortliste|Übung(?:\s+\d+)?|Wurzelaorist|(?:Erste|Zweite|Dritte|Vierte|Fünfte|Sechste|Siebte|Achte|Neunte|Zehnte|\d+\.?)\s+Präsensklasse|Reduplizierter\s+Aorist)\b', txt, re.M | re.I):
+            return True, "Contains untranslated German headings"
+
+    # 3c. Verb-definition script check for non-Latin languages
+    NON_LATIN_SCRIPTS = {
+        'am': r'[\u1200-\u137F]',  # Ethiopic
+        'ka': r'[\u10A0-\u10FF]',  # Georgian
+        'ta': r'[\u0B80-\u0BFF]',  # Tamil
+        'pa': r'[\u0A00-\u0A7F]',  # Gurmukhi
+        'hi': r'[\u0900-\u097F]',  # Devanagari
+        'ru': r'[\u0400-\u04FF]',  # Cyrillic
+        'bg': r'[\u0400-\u04FF]',  # Cyrillic
+        'uk': r'[\u0400-\u04FF]',  # Cyrillic
+    }
+    if code in NON_LATIN_SCRIPTS:
+        req_range = NON_LATIN_SCRIPTS[code]
+        for m in re.finditer(r'⟪[^⟫]+⟫\s+(?:\d+[PĀU]+|[PĀU])\s+"([^"]+)"', txt):
+            gloss = m.group(1).strip()
+            if re.search(r'[A-Za-z]{3,}', gloss) and not re.search(req_range, gloss):
+                return True, f"Contains untranslated verb gloss: \"{gloss}\""
+
+    # 3d. Prose Latin stop words check in non-Latin languages
+    if code in NON_LATIN_SCRIPTS:
+        en_de_stop_words = {
+            "the", "with", "from", "that", "this", "which", "into", "these", "those",
+            "der", "die", "das", "und", "oder", "nicht", "ist", "sind", "wird", "werden",
+            "von", "mit", "nach", "aus", "auf", "ein", "eine", "einer", "eines"
+        }
+        txt_no_media = re.sub(r':::\s*media\b.*?:::', '', txt, flags=re.DOTALL)
+        for line in txt_no_media.splitlines():
+            l_strip = line.strip()
+            if not l_strip or l_strip.startswith(('```', ':::', '![', '>', '|', '---', '#')):
+                continue
+            if any(p in l_strip for p in ['Lüders', 'Alsdorf', 'Göttingen', 'Vandenhoeck', 'Basham', 'Sibal', 'Bildquelle', 'Image source', 'Source de l', 'Details']):
+                continue
+            clean = re.sub(r'\[.*?\]\(.*?\)', '', l_strip)
+            clean = re.sub(r'⟪.*?⟫', '', clean)
+            clean = re.sub(r'`.*?`', '', clean)
+            clean = re.sub(r':sig\[.*?\]', '', clean)
+            words = [w.lower() for w in re.findall(r'\b[A-Za-z]{2,}\b', clean)]
+            hits = [w for w in words if w in en_de_stop_words]
+            if len(hits) >= 3:
+                return True, f"Contains untranslated prose: {l_strip[:50]}..."
 
     # 4. Unresolved Translation Placeholders Check
     if re.search(r'(?:⟨|&lang;)?(?:DEVA|IAST_L|STRUCT)_[0-9\u0966-\u096F\u0660-\u0669N]+(?:⟩|&rang;)?', txt):
