@@ -3,6 +3,7 @@ import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { registerServiceWorker } from './sw-register.js'
 import { setupInstallCapture } from './install-state.js'
+import { setupLocaleFilter, filterSidebarByLocales } from './locale-filter.js'
 
 import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
@@ -186,6 +187,7 @@ export default {
     // from install-state.js. This keeps install UI out of every other page.
     onMounted(() => {
         setupInstallCapture()
+        setupLocaleFilter()
         updateNavbarLangLabel()
         updateQaNavbarLinks()
     })
@@ -193,6 +195,7 @@ export default {
     if (typeof document !== 'undefined') {
         watch(() => route.path, (path) => {
              setTimeout(() => {
+                 filterSidebarByLocales();
                  closeInactiveGroups();
                  mergeTableCells();
                  fixTableColors();

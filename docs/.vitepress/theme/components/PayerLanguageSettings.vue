@@ -667,6 +667,9 @@ onMounted(() => {
   const path = window.location.pathname
   const match = path.match(/^\/([a-z]{2})(\/|$)/)
   currentLocale.value = match ? match[1] : 'de'
+  if (!selected.value.includes(currentLocale.value)) {
+    selected.value = [currentLocale.value, ...selected.value]
+  }
   
   setupInstallCapture()
   

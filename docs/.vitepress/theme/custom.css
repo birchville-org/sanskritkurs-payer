@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Noto+Sans+Tamil:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Noto+Sans+Tamil:wght@400;600&display=swap');
 
 html {
   text-rendering: optimizeLegibility;
@@ -7,7 +7,7 @@ html {
 }
 
 :root {
-  --vp-font-family-base: "Source Serif 4", serif;
+  --vp-font-family-base: "Source Serif 4", "EB Garamond", serif;
   --vp-font-family-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
   
   --vp-c-bg: #fcf9f2;
@@ -66,7 +66,7 @@ html {
 
 /* Typografie */
 .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6, .VPHero .name, .VPHero .text, blockquote {
-  font-family: "Source Serif 4", serif !important;
+  font-family: "Source Serif 4", "EB Garamond", serif !important;
   font-style: normal !important;
 }
 
@@ -755,6 +755,21 @@ html.is-embedded .VPContent {
   margin: 0 !important;
 }
 
+/* Ancient Greek (grc) & Modern Greek (el-GR) — Full polytonic Greek support via EB Garamond */
+html[lang="grc"],
+html[lang="el-GR"] {
+  --vp-font-family-base: "EB Garamond", "Gentium Plus", "Source Serif 4", serif;
+}
+
+html[lang="grc"] .vp-doc h1, html[lang="grc"] .vp-doc h2, html[lang="grc"] .vp-doc h3,
+html[lang="grc"] .vp-doc h4, html[lang="grc"] .vp-doc h5, html[lang="grc"] .vp-doc h6,
+html[lang="grc"] .VPHero .name, html[lang="grc"] .VPHero .text,
+html[lang="el-GR"] .vp-doc h1, html[lang="el-GR"] .vp-doc h2, html[lang="el-GR"] .vp-doc h3,
+html[lang="el-GR"] .vp-doc h4, html[lang="el-GR"] .vp-doc h5, html[lang="el-GR"] .vp-doc h6,
+html[lang="el-GR"] .VPHero .name, html[lang="el-GR"] .VPHero .text {
+  font-family: "EB Garamond", "Gentium Plus", "Source Serif 4", serif !important;
+}
+
 /* Tamil — Noto Sans Tamil font */
 html[lang="ta-IN"] {
   --vp-font-family-base: "Noto Sans Tamil", "Latha", "Tamil Sangam MN", sans-serif;
@@ -962,17 +977,17 @@ select.control-btn,
 }
 
 /* Dropdown list styling */
-.VPNavBarTranslations .menu,
-.VPNavBarTranslations .items,
 .VPNavBarTranslations .VPMenu {
   background-color: var(--color-parchment, #fcf9f2) !important;
   border: 1px solid var(--color-parchment-dark, #f1eee7) !important;
   border-radius: 6px !important;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+  max-height: min(75vh, 550px) !important;
+  overflow-y: auto !important;
+  overscroll-behavior: contain !important;
+  -webkit-overflow-scrolling: touch !important;
 }
 
-.dark .VPNavBarTranslations .menu,
-.dark .VPNavBarTranslations .items,
 .dark .VPNavBarTranslations .VPMenu {
   background-color: #241500 !important;
   border-color: rgba(255, 255, 255, 0.1) !important;
