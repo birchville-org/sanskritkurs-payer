@@ -85,7 +85,7 @@ The following infinitives are particularly noteworthy among the roots learned so
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
-ra- kao puni stupanj prema -ṛ- imaju u infinitivu: (Kielhorn)
+ra- kao puni stupanj prema -ṛ- imaju u infinitivu:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

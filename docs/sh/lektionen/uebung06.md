@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Vježba 6
 
-A) Tvorite glagolske rečenice uvrštavanjem zadanih korijena u zagradama: (Kielhorn)
+A) Tvorite glagolske rečenice uvrštavanjem zadanih korijena u zagradama:
 
 brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
 
@@ -43,7 +43,7 @@ dhenur viśati. dhenur bhavati.
 
 ⟪धेनुर्विशति । धेनुर्भवति ॥⟫
 
-B) Stavite rečenice sastavljene u vježbi A u množinu: (Kielhorn)
+B) Stavite rečenice sastavljene u vježbi A u množinu:
 
 brāhmaṇā yajanti / yajante / nṛtyanti / viśanti / manyante / yudhyante / nayanti / nayante / muhyanti.
 
@@ -63,7 +63,7 @@ dhenavo viśanti. dhenavo bhavanti.
 
 C) Prevedite na sanskrit:
 
-1\. On štuje žrtvom. (Žrtveni svećenik za gospodara žrtve) (Kielhorn)
+1\. On štuje žrtvom. (Žrtveni svećenik za gospodara žrtve)
 
 yajati.
 
@@ -99,7 +99,7 @@ kṣatriyā viśanti.
 
 ⟪ईश्वरः सृजति ।⟫
 
-7\. Kšatrija štuje žrtvom. (kao gospodar žrtve) (Kielhorn)
+7\. Kšatrija štuje žrtvom. (kao gospodar žrtve)
 
 kṣatriyo yajate.
 
@@ -153,9 +153,9 @@ Abb.: ⟪का नृत्यति ।⟫
 
 ---
 
-## Vježba za ponavljanje: Lekcija 6 (Kielhorn)
+## Vježba za ponavljanje: Lekcija 6
 
-A) Vježba umetanja: Sastavite pitanja na koja su rečenice koje tvorite odgovori: (Kielhorn)
+A) Vježba umetanja: Sastavite pitanja na koja su rečenice koje tvorite odgovori:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -245,7 +245,7 @@ sādhū rāmaḥ.
 
 ⟪साधू रामः ॥⟫
 
-B) Stavite u množinu: (Kielhorn)
+B) Stavite u množinu:
 
 1\. brāhmaṇo yajati.
 
@@ -359,7 +359,7 @@ kā imāḥ.
 
 ⟪का इमाः ॥⟫
 
-C) Tvorite Ātmanepada oblik za: (Kielhorn)
+C) Tvorite Ātmanepada oblik za:
 
 1\. rāmo yajati.
 
@@ -377,7 +377,7 @@ kṣatriyā nayante.
 
 ⟪क्षत्रिया नयन्ते ॥⟫
 
-D) Tvorite ženski rod za: (Kielhorn)
+D) Tvorite ženski rod za:
 
 1\. śūdro nayati.
 

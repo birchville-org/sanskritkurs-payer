@@ -153,7 +153,7 @@ However, this distinction is usually not made in Classical Sanskrit.)
 :::
 Examples:
 
-⟪मा कर्महेतुर्भूः⟫ "Ne budi onaj koga motivira plod djelovanja!" (injunktiv aorista) (⟪भगवद्गीता⟫ 2,47c) (Kielhorn)
+⟪मा कर्महेतुर्भूः⟫ "Ne budi onaj koga motivira plod djelovanja!" (injunktiv aorista) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं मा स्म गमः⟫ "Do not become effeminate!" (injunctive aorist) (⟪भगवद्गीता⟫ 2,3a)
 ::: media

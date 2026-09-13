@@ -8,8 +8,8 @@ title: "Podešavanja"
 <PayerLanguageSettings />
 </ClientOnly>
 
-::: note-box  Informationen & Version
-**Current Version**: `v1.8.6`
-**Release Notes & Changelog**: [What's new in v1.8.6?](/sh/release-notes)
-**Source Code & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
+::: note-box  Informacije i verzija
+**Trenutna verzija**: `v1.8.6`
+**Zabilješke o izdanju i dnevnik promjena**: [Što je novo u v1.8.6?](/sh/release-notes)
+**Izvorni kod i repozitorij**: [GitHub repozitorij](https://github.com/birchville-org/sanskritkurs-payer)
 :::

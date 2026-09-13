@@ -303,12 +303,12 @@ Abb.: ⟪श्रीगङ्गाधराय नमः⟫
 :::
 ---
 
-## Priča: Starac i majmuni (Sanskrit-Bālādarśa) (Kielhorn)
+## Priča: Starac i majmuni (Sanskrit-Bālādarśa)
 
 ⟪एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो ऽभवत् । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमगच्छत् ॥ तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त । वृद्धस्य तेषु स्पृहा जाती । परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः । तानवलोक्य वृद्धः प्रहर्षं गतः । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्राक्षिपत् । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं गतः ॥ अहो वृद्धस्य कौशलम् ॥⟫
 
-**Prijevod:** (Kielhorn)
-Jednom je neki starac išao u drugo selo i na putu se umorio. Da bi se odmorio, otišao je pod stablo manga uz put. Na tom su stablu visjeli zreli plodovi. Starac ih je poželio, ali se nije mogao popeti na stablo kako bi ih ubrao. Na sreću, na stablu je bilo nekoliko majmuna koji su jeli plodove. Kad je starac to vidio, obradovao se. Što je učinio? Uzeo je nekoliko kamenčića, nanišanio majmune i bacio ih. Majmuni su se razljutili, ubrali nekoliko plodova i bacili ih na starca. Starac je radosno pokupio plodove i nastavio svojim putem. Izvanredna je bila domišljatost toga starca! (Kielhorn)
+**Prijevod:**
+Jednom je neki starac išao u drugo selo i na putu se umorio. Da bi se odmorio, otišao je pod stablo manga uz put. Na tom su stablu visjeli zreli plodovi. Starac ih je poželio, ali se nije mogao popeti na stablo kako bi ih ubrao. Na sreću, na stablu je bilo nekoliko majmuna koji su jeli plodove. Kad je starac to vidio, obradovao se. Što je učinio? Uzeo je nekoliko kamenčića, nanišanio majmune i bacio ih. Majmuni su se razljutili, ubrali nekoliko plodova i bacili ih na starca. Starac je radosno pokupio plodove i nastavio svojim putem. Izvanredna je bila domišljatost toga starca!
 
 ::: media
 ![](/images/uebung054.webp)

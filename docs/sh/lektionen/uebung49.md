@@ -61,17 +61,17 @@ Abb.: ⟪गायी⟫
 :::
 ---
 
-## ⟪बाण⟫ (7. st. po Kr.): ⟪कादम्बरी⟫ (Kielhorn)
+## ⟪बाण⟫ (7. st. po Kr.): ⟪कादम्बरी⟫
 
-Pitanja kralja ⟪शूद्रक⟫ iz ⟪विदिशा⟫ papigi ⟪वैशम्पायन⟫: (Kielhorn)
+Pitanja kralja ⟪शूद्रक⟫ iz ⟪विदिशा⟫ papigi ⟪वैशम्पायन⟫:
 
 **⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ॥⟫**
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kralj reče: "Ostavimo sve to po strani! Zadovoljite našu znatiželju! Gospodine, ispričajte nam od početka: U kojoj ste zemlji rođeni? Tko vam je nadjenuo ime? Tko je vaša majka? Kako ste primili Vede? Kako ste se upoznali sa svetim spisima? Odakle ste stekli umjetnosti? Sjećate li se prošlih rođenja ili ispunjavate želje? Ili možda nosite krinku ptice u nekom skrovištu? Gdje ste prije živjeli? Koliko vam je godina? Kako ste uhvaćeni u kavez? I kako ste dospjeli u ruke Čandala? Kako ste uopće ovamo došli?" (Kielhorn)
+> Kralj reče: "Ostavimo sve to po strani! Zadovoljite našu znatiželju! Gospodine, ispričajte nam od početka: U kojoj ste zemlji rođeni? Tko vam je nadjenuo ime? Tko je vaša majka? Kako ste primili Vede? Kako ste se upoznali sa svetim spisima? Odakle ste stekli umjetnosti? Sjećate li se prošlih rođenja ili ispunjavate želje? Ili možda nosite krinku ptice u nekom skrovištu? Gdje ste prije živjeli? Koliko vam je godina? Kako ste uhvaćeni u kavez? I kako ste dospjeli u ruke Čandala? Kako ste uopće ovamo došli?"
 \>
-> A Vaiśampāyana, kojega je gospodar zemlje s iznenada probuđenom znatiželjom i s velikim poštovanjem upitao, razmisli na trenutak i odgovori s punim uvažavanjem: "Gospodaru, duga je to priča. Ako vas zanima, poslušajte me!" (Kielhorn)
+> A Vaiśampāyana, kojega je gospodar zemlje s iznenada probuđenom znatiželjom i s velikim poštovanjem upitao, razmisli na trenutak i odgovori s punim uvažavanjem: "Gospodaru, duga je to priča. Ako vas zanima, poslušajte me!"
 
 ::: media
 ![](/images/uebung079.webp)

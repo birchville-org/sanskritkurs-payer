@@ -11,7 +11,7 @@ lesson_id: 18
 ::: indent
 ⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativne složenice (⟪तत्पुरुष⟫) s priloškim predčlanom (Kielhorn)
+## 18.2. Determinativne složenice (⟪तत्पुरुष⟫) s priloškim predčlanom
 
 Kao adverbijalni (nedeklinabilni) prednji član mogu
 
@@ -228,25 +228,25 @@ sam-kṛ 8 ⟪संस्करोति⟫ : prepare, prepare for sacrifice, c
 
 ::: grammar-box
 
-Od korijena s preverbima mogu se pomoću kṛt-sufiksa tvoriti imenske riječi. (Kielhorn)
+Od korijena s preverbima mogu se pomoću kṛt-sufiksa tvoriti imenske riječi.
 
 :::
 Examples:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: posvećenje, priprava; obredi prijelaza = naziv za obrede koji prate različita životna razdoblja od začeća do smrti (v. o tome izvrstan sažetak kod Bashama, Wonder str. 160–170!) (Kielhorn)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: posvećenje, priprava; obredi prijelaza = naziv za obrede koji prate različita životna razdoblja od začeća do smrti (v. o tome izvrstan sažetak kod Bashama, Wonder str. 160–170!)
 
 ::: media
 ![](/images/lekt1804.webp)
 Slika: ⟪विवाहः⟫
-Vjenčanje = ⟪विवाह⟫ m., važan ⟪संस्कारः⟫ (Kielhorn)
+Vjenčanje = ⟪विवाह⟫ m., važan ⟪संस्कारः⟫
 (Izvor slike: [Details](/sh/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: dovođenje (k žrtvenoj vatri) = obred u kojem se muškim pripadnicima triju viših staleža stavlja sveti konac (⟪यज्ञोपवीत⟫ n.) i šapuće u uho sveti stih ⟪सावित्री⟫, koji od tada svakodnevno recitiraju pri izlasku i zalasku sunca. Za brahmane to je Ṛgveda III.62.10: (Kielhorn)
+upa-nī + -ana = ⟪उपनयन⟫ n.: dovođenje (k žrtvenoj vatri) = obred u kojem se muškim pripadnicima triju viših staleža stavlja sveti konac (⟪यज्ञोपवीत⟫ n.) i šapuće u uho sveti stih ⟪सावित्री⟫, koji od tada svakodnevno recitiraju pri izlasku i zalasku sunca. Za brahmane to je Ṛgveda III.62.10:
 
 ::: indent
-"Neka primimo uzvišeni sjaj boga Savitara, koji neka pokrene naše misli." (Kielhorn)
+"Neka primimo uzvišeni sjaj boga Savitara, koji neka pokrene naše misli."
 :::
-Kroz upanayanu događa se drugo rođenje, stoga: ⟪द्विज । द्विजाति⟫ (Kielhorn)
+Kroz upanayanu događa se drugo rođenje, stoga: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)

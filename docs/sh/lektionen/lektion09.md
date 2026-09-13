@@ -52,7 +52,7 @@ In addition to this basic rule for the formation of Samāhāradvandvas, there ar
 
 ::: grammar-box
 
-**Kṛt-sufiks -aka, femininum često -ikā, tvori nomina agentis (imenice koje izražavaju vršitelja radnje) za svaki korijen (Kielhorn).**
+**Kṛt-sufiks -aka, femininum često -ikā, tvori nomina agentis (imenice koje izražavaju vršitelja radnje) za svaki korijen.**
 
 A final vowel of the root as well as **-a-** in the penultimate position of the root are replaced by their lengthened grade (**vṛddhi**) (there are some exceptions), the other vowels are replaced by their strengthened grade (**guṇa**).
 

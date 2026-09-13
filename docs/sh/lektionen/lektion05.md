@@ -79,26 +79,24 @@ Primeri za pluralni dvandva:
 > (pesnici i učitelji [Plur.])
 > (Napomena: "Jedan pesnik i jedan učitelj" mora biti u dualu!)
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
-
-**Za redoslijed članova u dvandva složenici vrijede sljedeća pravila (Kielhorn):**
+**Za redoslijed članova u dvandva složenici vrijede sljedeća pravila:**
 Nazivi različitih staleža (**varṇa**) trebaju biti poredani prema svojoj hijerarhiji (najviši prvo).
 Ime starijeg brata treba prethoditi imenu mlađeg brata.
 Općenito, važnija riječ stavlja se na početak.
 Riječi koje završavaju na **-i** ili **-u** trebaju prethoditi.
 Riječi koje završavaju na **-a** i počinju samoglasnikom trebaju prethoditi.
-Riječi koje sadrže manje slogova trebaju prethoditi (Kielhorn).
+Riječi koje sadrže manje slogova trebaju prethoditi.
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
+Gdje bi dva od triju posljednjih pravila mogla istodobno doći u obzir, uvijek treba slijediti kasnije navedeno pravilo. (Primjeri dualnog dvandve za ova pravila kod Kielhorna, Gramatika § 570).
 
 
-## 5.4. Popis riječi (Kielhorn)
+## 5.4. Popis riječi
 
-**Naučite sljedeće riječi (Kielhorn):**
+**Naučite sljedeće riječi:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : sklonost, upornost, privrženost tijelu kao vlastitom (Kielhorn).
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : sklonost, upornost, privrženost tijelu kao vlastitom.
 
-**kāma** m. = ⟪काम⟫ : želja, požuda, ljubav, bog ljubavi Kāma (Kielhorn).
+**kāma** m. = ⟪काम⟫ : želja, požuda, ljubav, bog ljubavi Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
@@ -109,9 +107,9 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
 
-**trayī** f. = ⟪त्रयी⟫ : trojstvo; osobito tri Vede (Ṛgveda, Sāmaveda, Yajurveda) (Kielhorn).
+**trayī** f. = ⟪त्रयी⟫ : trojstvo; osobito tri Vede (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politika (Kielhorn).
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politika.
 
 **dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
 

@@ -41,55 +41,55 @@ Pav.: ⟪तब्लाः⟫
 :::
 ---
 
-## B) Word Forms
+## B) Žodžių nustatymas
 
-Determine and translate the following forms:
+Nustatykite ir išverskite šias formas:
 
 ::: media
 ![](/images/uebung097.webp)
-Fig.: ⟪मातुलङ्गविक्रेतायं ना ॥⟫  
-Pune - ⟪पुणे⟫  
-\[Image source: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Accessed on 2009-03-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial Use, No Derivative Works)\]
+Pav.: ⟪मातुलङ्गविक्रेतायं ना ॥⟫  
+Puna - ⟪पुणे⟫  
+\[Nuotraukos šaltinis: Anushruti RK. -- [http://www.flickr.com/photos/anushruti/1724235028/](http://www.flickr.com/photos/anushruti/1724235028/). -- Žiūrėta 2009-03-12. -- [Creative Commons licencija](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Priskyrimas, Nekomercinis naudojimas, Jokių išvestinių kūrinių)\]
 
-1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā you led for your own benefit
-2.  ⟪एनयोः⟫ - ⟪एतद् । इदम्⟫ Gen.Loc.du.m.f.n. these two / in these two
-3.  ⟪अष्टौ⟫ - ⟪अष्ट⟫ Nom.Voc.Acc. eight
-4.  ⟪चक्रम⟫ - ⟪क्रम्⟫ 2.pl.Perf.P you have walked
-5.  ⟪ना⟫ - ⟪नृ⟫ m. Nom.sg. the man
-6.  ⟪अत्तः⟫ - ⟪अद्⟫ 2P 3.du.Ind.Pres.P you two eat
-7.  ⟪अधृत⟫ - ⟪धृ⟫ 1U 3.sg.Aor(4).Ā he held fast for his own benefit ; ⟪अ⟫ + PPP to ⟪धृ⟫ 1U Voc.sg.m. O Unstable One!
-8.  ⟪ईहेरन्⟫ - ⟪ईह्⟫ 1Ā 3.pl.Opt.Ā they may desire
-9.  ⟪अधिजगे⟫ - ⟪अधि⟫-⟪इ⟫ 2Ā 1.3.sg.Perf.Ā I / he studied
-10.  ⟪जग्म⟫ - ⟪गम्⟫ 1P 2.pl.Perf.P you have gone
-11.  ⟪अघ्रात्⟫ - ⟪घ्रा⟫ 1P 3.sg.Aor(1).P he smelled
-12.  ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ 1.pl.Aor(4).P we saw
-13.  ⟪अस्थाः⟫ - ⟪अस्⟫ 4P 2.sg.Injunctive.Aor(2).P throw \[+ ⟪मा⟫ not\]
-14.  ⟪अधमः⟫ - ⟪ध्मा⟫ 1P 2.sg.Impf.P you have blown ; ⟪अधम⟫ 3 Nom.sg.m. the lowest
-15.  ⟪आनर्ध⟫ - ⟪ऋध्⟫ 5P 1.3.sg.Perf.P I / he prospered
-16.  ⟪पथोः⟫ - ⟪पथ्⟫ m. Gen.Loc.du of the two paths / on both paths
-17.  ⟪जेता⟫ - ⟪जेतृ⟫ m. Nom.sg. the victor
-18.  ⟪श्वा⟫ - ⟪श्वन्⟫ m. Nom.sg. the dog
-19.  ⟪स्वः⟫ - ⟪अस्⟫ 2P 1.du.Ind.Pres.P we two are ; ⟪स्व⟫ 3 Nom.sg.m. the own
-20.  ⟪यदृच्छया⟫ - Adv. by chance, spontaneously ...
-21.  ⟪अकार्षम्⟫ - ⟪कृ⟫ 8U 1.sg.Aor(4).P I made
-22.  ⟪क्रीणीथः⟫ - ⟪क्री⟫ 9U 2.du.Ind.Pres.P you two buy
-23.  ⟪क्रीणीथ⟫ - ⟪क्री⟫ 9U 2.pl.Ind.Pres.P you buy
-24.  ⟪जानानि⟫ - ⟪ज्ञा⟫ 9U 1.sg.Imperative.P I want to recognize
-25.  ⟪भोः⟫ - Indecl. hey!, hey there!
-26.  ⟪अजैष्त⟫ - ⟪जि⟫ 1P 2.pl.Aor(4).p you conquered
-27.  ⟪पुरा⟫ - Adv. earlier, once
-28.  ⟪देवा⟫ - ⟪देवृ⟫ m. Nom.sg. co-brother-in-law, brother of the wife
-29.  ⟪गन्धी⟫ - ⟪गन्धिन्⟫ 3 Nom.sg.m the one particularly characterized by smell
-30.  ⟪ईय⟫ - ⟪इ⟫ 2P 2.pl.Perf.P you have gone
-31.  ⟪नाना⟫ - Adv. in various ways
-32.  ⟪देह⟫ - ⟪दह्⟫ 1P 2.pl.Perf.P you have burned ; ⟪देह⟫ m. Voc.sg. O Body!
-33.  ⟪अतत⟫ - ⟪तन्⟫ 8U 3.sg.Aor(4/1).Ā he stretched for his own benefit ;⟪अ⟫ + PPP to ⟪तन्⟫ 8U Voc.sg.m. O Unstretched One!
-34.  ⟪आप्स्यावः⟫ - ⟪आप्⟫ 5P 1.du.Fut.P we two will attain
-35.  ⟪अतौत्त⟫ - ⟪तुद्⟫ 6U 2.pl.Aor(4).P you have struck
-36.  ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Acc.du.f.n. these / these two
-37.  ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Pres.P you two go ; ⟪इतस्⟫ Adv. from here
-38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P you gave
-39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Pres.P we two anoint
+1.  ⟪अनेढ्वम्⟫ - ⟪नी⟫ 1U 2.pl.Aor(4).Ā jūs vedėte savo naudai
+2.  ⟪एनयोः⟫ - ⟪एतद् । इदम्⟫ Gen.Loc.du.m.f.n. šių dviejų / šiuose dviejuose
+3.  ⟪अष्टौ⟫ - ⟪अष्ट⟫ Nom.Voc.Acc. aštuoni
+4.  ⟪चक्रम⟫ - ⟪क्रम्⟫ 2.pl.Perf.P jūs žengėte
+5.  ⟪ना⟫ - ⟪नृ⟫ m. Nom.sg. vyras
+6.  ⟪अत्तः⟫ - ⟪अद्⟫ 2P 3.du.Ind.Pres.P jiedu valgo / jūdu valgote
+7.  ⟪अधृत⟫ - ⟪धृ⟫ 1U 3.sg.Aor(4).Ā jis laikė savo naudai ; ⟪अ⟫ + PPP prie ⟪धृ⟫ 1U Voc.sg.m. Nepastovusis!
+8.  ⟪ईहेरन्⟫ - ⟪ईह्⟫ 1Ā 3.pl.Opt.Ā jie tegeidžia
+9.  ⟪अधिजगे⟫ - ⟪अधि⟫-⟪इ⟫ 2Ā 1.3.sg.Perf.Ā aš studijavau / jis studijavo
+10.  ⟪जग्म⟫ - ⟪गम्⟫ 1P 2.pl.Perf.P jūs nuėjote
+11.  ⟪अघ्रात्⟫ - ⟪घ्रा⟫ 1P 3.sg.Aor(1).P jis užuodė
+12.  ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ 1.pl.Aor(4).P mes matėme
+13.  ⟪अस्थाः⟫ - ⟪अस्⟫ 4P 2.sg.Injunctive.Aor(2).P mesk \[+ ⟪मा⟫ ne\]
+14.  ⟪अधमः⟫ - ⟪ध्मा⟫ 1P 2.sg.Impf.P tu pūtei ; ⟪अधम⟫ 3 Nom.sg.m. žemiausias
+15.  ⟪आनर्ध⟫ - ⟪ऋध्⟫ 5P 1.3.sg.Perf.P aš klestėjau / jis klestėjo
+16.  ⟪पथोः⟫ - ⟪पथ्⟫ m. Gen.Loc.du abiejų kelių / abiejuose keliuose
+17.  ⟪जेता⟫ - ⟪जेतृ⟫ m. Nom.sg. nugalėtojas
+18.  ⟪श्वा⟫ - ⟪श्वन्⟫ m. Nom.sg. šuo
+19.  ⟪स्वः⟫ - ⟪अस्⟫ 2P 1.du.Ind.Pres.P mudu esame ; ⟪स्व⟫ 3 Nom.sg.m. savas
+20.  ⟪यदृच्छया⟫ - Adv. atsitiktinai, savaime ...
+21.  ⟪अकार्षम्⟫ - ⟪कृ⟫ 8U 1.sg.Aor(4).P aš padariau
+22.  ⟪क्रीणीथः⟫ - ⟪क्री⟫ 9U 2.du.Ind.Pres.P jūdu perkate
+23.  ⟪क्रीणीथ⟫ - ⟪क्री⟫ 9U 2.pl.Ind.Pres.P jūs perkate
+24.  ⟪जानानि⟫ - ⟪ज्ञा⟫ 9U 1.sg.Imperative.P aš noriu atpažinti
+25.  ⟪भोः⟫ - Indecl. ei!, klausyk!
+26.  ⟪अजैष्त⟫ - ⟪जि⟫ 1P 2.pl.Aor(4).p jūs nugalėjote
+27.  ⟪पुरा⟫ - Adv. anksčiau, kadaise
+28.  ⟪देवा⟫ - ⟪देवृ⟫ m. Nom.sg. dieveris, vyro brolis
+29.  ⟪गन्धी⟫ - ⟪गन्धिन्⟫ 3 Nom.sg.m pasižymintis ypatingu kvapu
+30.  ⟪ईय⟫ - ⟪इ⟫ 2P 2.pl.Perf.P jūs nuėjote
+31.  ⟪नाना⟫ - Adv. įvairiais būdais
+32.  ⟪देह⟫ - ⟪दह्⟫ 1P 2.pl.Perf.P jūs sudeginote ; ⟪देह⟫ m. Voc.sg. Kūne!
+33.  ⟪अतत⟫ - ⟪तन्⟫ 8U 3.sg.Aor(4/1).Ā jis ištempė savo naudai ; ⟪अ⟫ + PPP prie ⟪तन्⟫ 8U Voc.sg.m. Neištemptasis!
+34.  ⟪आप्स्यावः⟫ - ⟪आप्⟫ 5P 1.du.Fut.P mudu pasieksime
+35.  ⟪अतौत्त⟫ - ⟪तुद्⟫ 6U 2.pl.Aor(4).P jūs smogėte
+36.  ⟪इमे⟫ - ⟪इदम्⟫ 3 Nom.pl.m.Nom.Acc.du.f.n. šie / šiedu
+37.  ⟪इतः⟫ - ⟪इ⟫ 2P 3.du.Ind.Pres.P jiedu eina ; ⟪इतस्⟫ Adv. iš čia
+38.  ⟪दद⟫ - ⟪दा⟫ 3U 2.pl.Perf.P jūs davėte
+39.  ⟪अञ्ज्वः⟫ - ⟪अञ्ज्⟫ 7P 1.du.Ind.Pres.P mudu tepame tepalu
 
 ![](/images/uebung096.webp)
 Pav.: ⟪श्वा श्वानमघ्रात्⟫

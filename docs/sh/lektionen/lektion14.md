@@ -99,7 +99,7 @@ The genitive plural of vowel-final stems is formed as follows:
 
 ::: grammar-box
 
-Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti napamet. (Kielhorn)
+Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti napamet.
 
 :::
 ::: center
@@ -116,7 +116,7 @@ Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti nap
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(i.e. either we follow paśu or like multisyllabic feminines ending in -ū) |
 
 :::
-**Upitne i pokazne zamjenice:** (Kielhorn)
+**Upitne i pokazne zamjenice:**
 
 ::: center
 

@@ -489,11 +489,11 @@ See also:
 
 ### 53.10.1. Significance of Determining the Meter
 
-Određivanje metra važno je iz sljedećih razloga: (Kielhorn)
+Određivanje metra važno je iz sljedećih razloga:
 
-1. **Estetski:** Stihovni metar pridonosi, između ostalog, ljepoti izričaja. Određeni metri mogu služiti i za izražavanje posebnih ugođaja, ili su dodijeljeni određenim staležima (⟪वर्ण⟫). Različiti se metri različito recitiraju. :br Dobar dojam estetskog učinka može se steći npr. iz recitacije ⟪शिवताण्डवस्तोत्र⟫ (hvalospjev Šivinu plesu): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) (Kielhorn)
-2. **Tekstualno-kritički:** Pogreške u stihovnom metru mogu ukazivati na to da tekst na određenom mjestu nije točno prenesen. Stihovni metar pomaže pri tekstualnim emendacijama. (Kielhorn)
-3. **Kronološki:** Određeni su metri tijekom povijesti doživjeli specifične promjene. To može pomoći pri približnom datiranju teksta. Vidi ovdje Hermann Oldenberg (1854–1920): Zur Geschichte der Triṣṭhubh; isti autor: Zur Geschichte des Śloka (Kielhorn).
+1. **Estetski:** Stihovni metar pridonosi, između ostalog, ljepoti izričaja. Određeni metri mogu služiti i za izražavanje posebnih ugođaja, ili su dodijeljeni određenim staležima (⟪वर्ण⟫). Različiti se metri različito recitiraju. :br Dobar dojam estetskog učinka može se steći npr. iz recitacije ⟪शिवताण्डवस्तोत्र⟫ (hvalospjev Šivinu plesu): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Tekstualno-kritički:** Pogreške u stihovnom metru mogu ukazivati na to da tekst na određenom mjestu nije točno prenesen. Stihovni metar pomaže pri tekstualnim emendacijama.
+3. **Kronološki:** Određeni su metri tijekom povijesti doživjeli specifične promjene. To može pomoći pri približnom datiranju teksta. Vidi ovdje Hermann Oldenberg (1854–1920): Zur Geschichte der Triṣṭhubh; isti autor: Zur Geschichte des Śloka.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -508,57 +508,57 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   **⟪वृत्त⟩ n.:** Meters in which the number of syllables (⟪अक्षर⟫) is fixed
 *   **⟪जाति⟩ f.:** Meters in which the sum of metrical units (⟪मात्रा⟫) (morae) is fixed (see below for these)
 
-**Kod metara kod kojih je broj slogova određen (⟪वृत्त⟫) može se najprije razlikovati: (Kielhorn)**
+**Kod metara kod kojih je broj slogova određen (⟪वृत्त⟫) može se najprije razlikovati:**
 
-*   Metri kod kojih je broj slogova određen, ali je dužina tih slogova samo djelomično određena (Kielhorn)
-*   Metri kod kojih je određen i broj slogova i njihova dužina (Kielhorn)
+*   Metri kod kojih je broj slogova određen, ali je dužina tih slogova samo djelomično određena
+*   Metri kod kojih je određen i broj slogova i njihova dužina
 :::
-### 53.10.3. Metrička dužina slogova (Kielhorn)
+### 53.10.3. Metrička dužina slogova
 
 ::: grammar-box
-**Mnemotehnički stih (Kielhorn)**
+**Mnemotehnički stih**
 
 :::
 ::: indent
 ⟪सानुस्वारश्च दीर्घश्च विसर्गी च गुरुर्भवेत् । वर्णः संयोगपूर्वश्च तथा पादान्तगो ऽपि वा ॥⟫
 :::
-"Slog je težak (dug): (Kielhorn)
+"Slog je težak (dug):
 
 *   ako njegov samoglasnik ima anusvāru,
 *   ako je dug,
 *   ako ima visargu,
 *   također ako stoji ispred suglasničkog skupa,
-*   te ako se slog nalazi na kraju četvrtine stiha (pāda)." (Kielhorn)
+*   te ako se slog nalazi na kraju četvrtine stiha (pāda)."
 ::: grammar-box
-**Slog je:** (Kielhorn)
+**Slog je:**
 
 *   ili **⟪लघु⟫ = lagan (kratak)**
 *   ili **⟪गुरु⟫ = težak (dug)**
 
-**⟪लघु⟫ = lagan je slog ako:** (Kielhorn)
+**⟪लघु⟫ = lagan je slog ako:**
 
 *   je njegov samoglasnik kratak i iza tog samoglasnika
 *   ne slijedi anusvāra,
 *   ne slijedi visarga,
-*   ne slijede dva suglasnika. (Kielhorn)
+*   ne slijede dva suglasnika.
 
-Kratki samoglasnici su a, i, u, ṛ, ḷ. (Kielhorn)
+Kratki samoglasnici su a, i, u, ṛ, ḷ.
 
-**Svi ostali slogovi su ⟪गुरु⟫ = teški. Posljednji slog četvrtine stiha (⟪पाद⟫) uvijek se smatra kao ⟪गुरु⟫.** (Kielhorn)
+**Svi ostali slogovi su ⟪गुरु⟫ = teški. Posljednji slog četvrtine stiha (⟪पाद⟫) uvijek se smatra kao ⟪गुरु⟫.**
 
-U metričkoj analizi označava: (Kielhorn)
+U metričkoj analizi označava:
 
 *   **◡** = ⟪ल⟫ = ⟪लघु⟫
 *   **—** = ⟪ग⟫ = ⟪गुरु⟫
 *   **×** = ⟪लघु⟫ ili ⟪गुरु⟫
-*   **/** = cezura (rastavljanje riječi) (Kielhorn)
+*   **/** = cezura (rastavljanje riječi)
 :::
 Example: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟫
 :::
-Raspodjela ⟪लघु⟫ i ⟪गुरु⟫: (Kielhorn)
+Raspodjela ⟪लघु⟫ i ⟪गुरु⟫:
 
 ::: metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
@@ -616,11 +616,11 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**In all Śloka forms, the main caesura is at the end of the 2nd ⟪पाद⟫: there is either word-end or — in the case of long compounds — end of a compound component.**
-## 53.11. Übung
+**Kod svih oblika šloke glavna cezura nalazi se na kraju 2. ⟪पाद⟫: ondje je ili kraj riječi ili — kod dugih kompozita — kraj kompozitnog člana.**
+## 53.11. Vježba
 
 ::: grammar-box
-**Odredite među svim dosad naučenim stihovima šloke. Izradite za njih pismeno metričku shemu. Ukažite na eventualne nepravilnosti odn. oblike vipule.** (Kielhorn)
+**Odredite među svim dosad naučenim stihovima šloke. Izradite za njih pismeno metričku shemu. Ukažite na eventualne nepravilnosti odn. oblike vipule.**
 :::
 ::: center
 Finitum feliciter 1984-02-15

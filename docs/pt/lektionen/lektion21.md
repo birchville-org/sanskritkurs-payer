@@ -175,12 +175,12 @@ Placa comemorativa de ⟪सती⟫ no palácio de Jodhpur - ⟪जोधप�
 ::: media
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
+"Um selo de sardônica dos séculos IV-VI d.C. representando Vishnu com um devoto. A inscrição em bactriano cursivo diz: 'Mihira, Vishnu e Shiva'."
 (Fonte da imagem: [Detalhes](/pt/licenses#lekt2102))
 :::
 
 ::: indent
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
+"Um selo de sardônica dos séculos IV-VI d.C. representando Vishnu com um devoto. A inscrição em bactriano cursivo diz: 'Mihira, Vishnu e Shiva'."
 :::
 ## 21.2. Sandhi para nasais finais
 

@@ -17,7 +17,7 @@ In order for insight to prevent the arising of suffering, a reasonable person sh
 
 ⟪२⟫. **⟪शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगव्द्गीतायां भगवतोच्यते ॥२॥⟫**
 (⟪भगवतो गीतायाम्⟫)
-Uzvišeni kaže u Bhagavadgīti da mačevi mogu samo rasjeći tijelo, ali duša (jīva) ne umire. (Kielhorn)
+Uzvišeni kaže u Bhagavadgīti da mačevi mogu samo rasjeći tijelo, ali duša (jīva) ne umire.
 
 ⟪३⟫. **⟪बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥⟫**
 One who has insight is freed from suffering; therefore, someone desiring liberation should concentrate through yoga.

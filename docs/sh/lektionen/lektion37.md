@@ -239,7 +239,7 @@ npr. ⟪तूष्णीं बभूव⟫ "postao je šuteći, utihnuo"
 Slika: ⟪तूष्णीं बभूवुः⟫
 (Izvor slike: [Detalji](/sh/licenses#lekt3703))
 :::
-## 37.7. Neodređene zamjenice (Kielhorn)
+## 37.7. Neodređene zamjenice
 
 ::: grammar-box
 Indefinite pronouns (indefinite pronominal words) are formed by attaching

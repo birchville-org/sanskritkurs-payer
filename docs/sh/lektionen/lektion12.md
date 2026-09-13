@@ -58,34 +58,34 @@ Primjer:
 **Vršioc radnje (kartṛ) u instrumentalu (tṛtīyā) -- trpni glagolski pridev u nominativu jednine srednjeg roda**
 
 Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)» (Kielhorn).
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)».
 
-Konstrukcija prema shemi II mnogo je rjeđa od konstrukcije prema shemi I (Kielhorn).
+Konstrukcija prema shemi II mnogo je rjeđa od konstrukcije prema shemi I.
 
 :::
 
-## 12.2. O značenju PPP-a (Kielhorn)
+## 12.2. O značenju PPP-a
 
-Dok tzv. «particip perfekta pasiva» kod prijelaznih glagola prvenstveno ima pasivno značenje (**āpta** = «postignut»), a kod neprijelaznih glagola i glagola kretanja aktivno značenje (**gata** = «otišao»), postoje glagoli kod kojih PPP može imati i aktivno i pasivno značenje (Kielhorn):
+Dok tzv. «particip perfekta pasiva» kod prijelaznih glagola prvenstveno ima pasivno značenje (**āpta** = «postignut»), a kod neprijelaznih glagola i glagola kretanja aktivno značenje (**gata** = «otišao»), postoje glagoli kod kojih PPP može imati i aktivno i pasivno značenje:
 
 z.B.
-**gata** = ⟪गत⟫ = «otišao» (aktiv); ali i: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = «prijeđeni put» (pasiv) (Kielhorn)
-**āpta** = ⟪आप्त⟫ = «postignut» (pasiv), «koji je postigao» (aktiv) (Kielhorn)
+**gata** = ⟪गत⟫ = «otišao» (aktiv); ali i: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = «prijeđeni put» (pasiv)
+**āpta** = ⟪आप्त⟫ = «postignut» (pasiv), «koji je postigao» (aktiv)
 
 ## 12.3. Tvorba trpnog glagolskog prideva
 
 ::: grammar-box
 
-Pojavljuju se sljedeći načini tvorbe (za svaki korijen treba naučiti njegov PPP!) (Kielhorn):
+Pojavljuju se sljedeći načini tvorbe (za svaki korijen treba naučiti njegov PPP!):
 
 **(meist) tiefstufige Wurzel**
 
 **+ -ta**
 sa spojnim vokalom **-i-** ispred: **-ita**
-bez spojnog vokala: **-ta** (Kielhorn)
+bez spojnog vokala: **-ta**
 **+ -na**
 
-Ženske osnove glase: **-tā**, **-itā**, **-nā**; srednji rod se sklanja kao **phala** n. (Kielhorn)
+Ženske osnove glase: **-tā**, **-itā**, **-nā**; srednji rod se sklanja kao **phala** n.
 
 :::
 
@@ -93,7 +93,7 @@ bez spojnog vokala: **-ta** (Kielhorn)
 
 #### 12.3.1.1. Bez veznog vokala -i- (aniṭ)
 
-*aniṭ* = «bez (*an-*) spojnog vokala *i*» (Kielhorn).
+*aniṭ* = «bez (*an-*) spojnog vokala *i*».
 
 ::: grammar-box
 
@@ -143,19 +143,19 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 
 ## 12.4. Laws of sound combination in the word
 
-Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva (Kielhorn):
+Kod *aniṭ*-tvorbi treba obratiti pažnju na sljedeće zakone glasovnih spojeva:
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| **1. k, t, p ispred bezvučnih okluziva (npr. t, th) ostaju nepromijenjeni (Kielhorn):** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct se zamjenjuje s kt = ⟪क्त्⟫ (Kielhorn):** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt se zamjenjuje s ṣṭ = ⟪ष्ट्⟫ (Kielhorn):** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Zvučni neaspirirani okluziv – osim j – ispred bezvučnog glasa zamjenjuje se odgovarajućim bezvučnim neaspiriranim glasom (Kielhorn):** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (važno za 2. razred prezenta) (Kielhorn) |
-| **5. jt se zamjenjuje s kt ili ṣṭ (Kielhorn):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Zvučni aspirirani okluziv + bezvučni okluziv » zvučni neaspirirani + zvučni aspirirani okluziv (Bartholomaeov zakon aspiracije) (Kielhorn):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t se zamjenjuje s ḍh uz duljenje prethodnog i odn. u; ili s gdh (Kielhorn):** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) «nešto sakriti» (Kielhorn)):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p ispred bezvučnih okluziva (npr. t, th) ostaju nepromijenjeni:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct se zamjenjuje s kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt se zamjenjuje s ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Zvučni neaspirirani okluziv – osim j – ispred bezvučnog glasa zamjenjuje se odgovarajućim bezvučnim neaspiriranim glasom:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (važno za 2. razred prezenta) |
+| **5. jt se zamjenjuje s kt ili ṣṭ:** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Zvučni aspirirani okluziv + bezvučni okluziv » zvučni neaspirirani + zvučni aspirirani okluziv (Bartholomaeov zakon aspiracije):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t se zamjenjuje s ḍh uz duljenje prethodnog i odn. u; ili s gdh:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) «nešto sakriti»):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 
 :::
 

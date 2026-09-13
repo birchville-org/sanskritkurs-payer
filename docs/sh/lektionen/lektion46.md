@@ -131,7 +131,7 @@ Verbs that follow this type:
 :::
 #### 46.1.5.2. Perfekt-Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
-Glagoli koji slijede ovaj tip: (Kielhorn)
+Glagoli koji slijede ovaj tip:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -154,9 +154,9 @@ Glagoli koji slijede ovaj tip: (Kielhorn)
 :::
 ### 46.1.6. Perfectum Typ IV: Wurzeln auf -ā / -ai
 
-*   Slaba osnova: (Kielhorn)
-*   ispred suglasnika: slabi stupanj-i (Kielhorn)
-*   ispred samoglasnika: slabi stupanj-ø (Kielhorn)
+*   Slaba osnova:
+*   ispred suglasnika: slabi stupanj-i
+*   ispred samoglasnika: slabi stupanj-ø
 
 ⟪दा⟫ 3U
 
@@ -174,11 +174,11 @@ Glagoli koji slijede ovaj tip: (Kielhorn)
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt tip V: suglasnik-a-suglasnik (Kielhorn)
+### 46.1.7. Perfekt tip V: suglasnik-a-suglasnik
 
-#### 46.1.7.1. Perfekt tip Va: suglasnik-a-suglasnik, slaba osnova slabi stupanj (Kielhorn)
+#### 46.1.7.1. Perfekt tip Va: suglasnik-a-suglasnik, slaba osnova slabi stupanj
 
-Glagoli koji slijede ovaj tip: (Kielhorn)
+Glagoli koji slijede ovaj tip:
 
 ::: indent
 1.  gam "ići"
@@ -187,7 +187,7 @@ Glagoli koji slijede ovaj tip: (Kielhorn)
 4.  vac "govoriti"
 5.  vad "govoriti"
 6.  yaj "žrtvovati"
-7.  itd. (Kielhorn)
+7.  itd.
 :::
 ⟪गम्⟫ 1P
 

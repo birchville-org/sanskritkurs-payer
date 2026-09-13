@@ -51,19 +51,19 @@ status: stable
 
 To be able to form sentences with these pronouns (sarvanāman n.), knowledge of the following sandhi rules is still necessary:
 
-### 4.1.2. Sandhi završnog -m (Kielhorn)
+### 4.1.2. Sandhi završnog -m
 
 ::: grammar-box
 
-**Završno -m zamjenjuje se anusvārom (-ṃ) ispred suglasnika. Na kraju rečenice ili stiha i ispred samoglasnika, -m ostaje nepromijenjeno (Kielhorn).**
+**Završno -m zamjenjuje se anusvārom (-ṃ) ispred suglasnika. Na kraju rečenice ili stiha i ispred samoglasnika, -m ostaje nepromijenjeno.**
 
 :::
 
-### 4.1.3. Sandhi završnog -e (Kielhorn)
+### 4.1.3. Sandhi završnog -e
 
 ::: grammar-box
 
-1. **Ispred a- ostaje -e nepromijenjeno: početno a- elidira s avagrahom (Kielhorn):**
+1. **Ispred a- ostaje -e nepromijenjeno: početno a- elidira s avagrahom:**
 npr. ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ «Ove vatre»
 
 2. **Before vowels other than short a-, -e is usually replaced by -a with hiatus. Replacement by -ay also occurs:**
@@ -77,11 +77,11 @@ e.g. ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (
 
 **Final -d is replaced by -t in pause as well as before voiceless gutturals (k, kh) and labials (p, ph).**
 
-Zamjena ispred drugih suglasnika raspravljat će se kasnije (Kielhorn).
+Zamjena ispred drugih suglasnika raspravljat će se kasnije.
 
 :::
 
-### 4.1.5. Upitni izrazi (Kielhorn)
+### 4.1.5. Upitni izrazi
 
 Using these pronouns, one forms, for example, the following question formulas:
 

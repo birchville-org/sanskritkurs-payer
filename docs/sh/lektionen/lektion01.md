@@ -133,7 +133,7 @@ Fig.: Title on cover
 
 For the inquisitive to look up:
 
-> **Lexikon der Sprachwissenschaft** (Kielhorn) / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. The Sounds of Sanskrit

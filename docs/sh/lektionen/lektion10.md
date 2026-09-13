@@ -115,12 +115,12 @@ Sanskrit passive constructions are extremely common: the passive is, after all, 
 
 ::: grammar-box
 
-**Instrumental (tṛtīyā) stoji uglavnom na pitanja (Kielhorn):**
+**Instrumental (tṛtīyā) stoji uglavnom na pitanja:**
 **Čime?**
 **S čim?**
 **S kim?**
 
-**Stoji (Kielhorn):**
+**Stoji:**
 1. **u pasivnim rečenicama: vršitelj (kartṛ) u instrumentalu**
 2. **za označavanje sredstva ili oruđa kojim se nešto izvršava**
 3. **za označavanje puta kojim netko nekamo stiže**

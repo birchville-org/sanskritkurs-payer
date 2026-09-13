@@ -24,12 +24,13 @@ features:
 ---
 
 ::: note-box
->> The **Sanskrit course** by Alois Payer is a comprehensive, scientifically grounded course for learning the Sanskrit language and Devanāgarī script. This digital edition presents the entire course in a modern, multilingual, and searchable reading environment.
+**Sanskritski tečaj** Aloisa Payera sveobuhvatan je, znanstveno utemeljen tečaj za učenje sanskrtskog jezika i pisma devanāgarī. Ovo digitalno izdanje predstavlja cijeli tečaj u modernom, višejezičnom okruženju za čitanje s mogućnošću pretraživanja.
 
->> The languages were fully automatically translated from German with the help of a multi-stage AI cascade. Reports regarding translation errors are very welcome.
+Jezici su potpuno automatski prevedeni s njemačkog jezika pomoću višestupanjske AI kaskade. Prijave pogrešaka u prijevodu vrlo su dobrodošle.
 
-- **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **Kontakt i suradnja**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online urednik**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Aktuelle Version**: v1.8.6
+- **Trenutna verzija**: v1.8.6
 :::
+

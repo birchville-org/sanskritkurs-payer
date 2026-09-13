@@ -124,7 +124,7 @@ prie **yaj** 1 U:
 **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : prekyba
 **śuśrūṣā** f. (⟪शुश्रूषा⟫) : paklusnumas, paklusni tarnystė
 
-## 9.4. Übung
+## 9.4. Pratimas
 
 
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫

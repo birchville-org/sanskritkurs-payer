@@ -41,7 +41,7 @@ U tradicionalnoj indijskoj gramatici razlikuju se kod sufiksa kojima se tvore im
 **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » umjesto padežnih nastavaka (npr. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
 **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-tvorbe ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Podjela prema priječnici (ablautu) (Kielhorn):**
+**Podjela prema priječnici (ablautu):**
 **guṇya** (⟪गुण्य⟫): tvorba punog stupnja
 **na guṇya** (⟪न गुण्य⟫): tvorba slabog stupnja
 **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): tvorba produženog stupnja
@@ -95,7 +95,7 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 ::: note-box
 **"Darshan"** or **"Darshana"** is a term from Hinduism for the sight and vision of the holy and divine. *Darshana* can refer, for example, to an official meeting between student and teacher, where the student has been invited by the teacher. It can also mean *immersing oneself* while contemplating an image of a deity. The latter meaning is the most common in contemporary Hindi usage. In connection with Mata Amritanandamayi, Darshan means the embrace by the Guru.
 
-Pobožni hindusi odlaze u hram kako bi stekli viđenje Boga (darśana) (Kielhorn).
+Pobožni hindusi odlaze u hram kako bi stekli viđenje Boga (darśana).
 :::
 
 ### 8.3.3. -tra n. (kṛt)
@@ -114,11 +114,11 @@ Pobožni hindusi odlaze u hram kako bi stekli viđenje Boga (darśana) (Kielhorn
 | **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
 
 ::: media
-**Prvobitna mantra Oṃ (⟪ॐ⟫) u različitim indijskim pismima (Kielhorn)**
+**Prvobitna mantra Oṃ (⟪ॐ⟫) u različitim indijskim pismima**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
-| U devanāgarīju | U bengalskom pismu (Kielhorn) |
+| U devanāgarīju | U bengalskom pismu |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
 | In Kannaresischer Schrift | In Tamil-Schrift |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
@@ -177,7 +177,7 @@ Example **tan** 8 U (⟪तन्⟫) "to stretch":
 3\. sg. Ā. **tanute** :br⟪तनुते⟫
 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
 :::
-Note: Regarding the debate on whether **tan** is actually a root of the 5th class (*tn » ta + no-), see Thumb-Hauschild, Handbuch des Sanskrit (Kielhorn) II, 265.
+Note: Regarding the debate on whether **tan** is actually a root of the 5th class (*tn » ta + no-), see Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
 The most important root of the 8th class is **kṛ** 8 U (⟪कृ⟫) "to do, to make". Its conjugation is irregular:
 

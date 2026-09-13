@@ -264,7 +264,7 @@ Bangalore = ಬೆಂಗಳೂರು
 
 :::
 
-⟪आस्⟫ 2. razred ⟪आस्ते⟫ pasiv ⟪आस्यते⟫ PPP ⟪आसित⟫ : sjediti (Kielhorn)
+⟪आस्⟫ 2. razred ⟪आस्ते⟫ pasiv ⟪आस्यते⟫ PPP ⟪आसित⟫ : sjediti
 
 thereof:
 
@@ -283,7 +283,7 @@ Fig.: ⟪योगासनम्⟫
 
 :::
 
-⟪रुद्⟫ 2. razred ⟪रोदिति⟫ pasiv ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : plakati, zavijati (Kielhorn)
+⟪रुद्⟫ 2. razred ⟪रोदिति⟫ pasiv ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : plakati, zavijati
 
 thereof:
 
@@ -293,9 +293,9 @@ thereof:
 
 :::
 
-⟪ब्रू⟫ 2. razred ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ bez pasiva i PPP: govoriti, reći (nekome: dvostruki akuzativ) (Kielhorn)
+⟪ब्रू⟫ 2. razred ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ bez pasiva i PPP: govoriti, reći (nekome: dvostruki akuzativ)
 
-⟪दुह्⟫ 2. razred ⟪दोग्धि⟫ pasiv ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : musti (Kielhorn)
+⟪दुह्⟫ 2. razred ⟪दोग्धि⟫ pasiv ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : musti
 
 ::: media
 
@@ -306,7 +306,7 @@ Fig.: ⟪दोग्धि⟫
 
 :::
 
-⟪दिश्⟫ 6. razred ⟪दिशति⟫ pasiv ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : pokazati, uputiti, zapovjediti (Kielhorn)
+⟪दिश्⟫ 6. razred ⟪दिशति⟫ pasiv ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : pokazati, uputiti, zapovjediti
 
 thereof:
 
@@ -346,6 +346,6 @@ B) Ustavite u rečenicama formiranim pod A) agens i glagol u množini
 
 ## 17.8. Vežba 2
 
-Prevedite sljedeće glagolske oblike i navedite pripadajući korijen: (Kielhorn)
+Prevedite sljedeće glagolske oblike i navedite pripadajući korijen:
 
 ⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫

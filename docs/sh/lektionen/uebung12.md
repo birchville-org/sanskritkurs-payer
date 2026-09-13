@@ -41,7 +41,7 @@ B) Form the corresponding PPPs for the verb forms of [Lesson 10](lektion10.md), 
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः ३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः ३⟫
 
-C) Tvorite rečenice iz [Lekcije 10](lektion10.md), vježba C, u pasivu i u prošlom vremenu: (Kielhorn)
+C) Tvorite rečenice iz [Lekcije 10](lektion10.md), vježba C, u pasivu i u prošlom vremenu:
 
 1\. Der Brāhmaṇa opfert der Göttin. ⟪ब्राह्मणो देवीं यजति ब्रामणेन देवीष्टा ।⟫
 
@@ -56,9 +56,9 @@ C) Tvorite rečenice iz [Lekcije 10](lektion10.md), vježba C, u pasivu i u pro�
 
 6\. Ko vidi vatru? ⟪को ऽग्निं पश्यति केनाग्निर्दृष्टः ।⟫
 
-7\. Ovaj se pjesnik sjeća mantre. (Kielhorn) ⟪अयं कविर्मन्त्रं स्मरति अनेन कविना मन्त्रः स्मृतः ।⟫
+7\. Ovaj se pjesnik sjeća mantre. ⟪अयं कविर्मन्त्रं स्मरति अनेन कविना मन्त्रः स्मृतः ।⟫
 
-8\. Ova božica štiti kšatrije. (Kielhorn) ⟪इयं देवी क्त्रिया रक्षति अनया देव्या क्षत्रिया रक्षिताः ।⟫
+8\. Ova božica štiti kšatrije. ⟪इयं देवी क्त्रिया रक्षति अनया देव्या क्षत्रिया रक्षिताः ।⟫
 
 9\. Kṣatriye žrtvuju Viṣṇuu. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 mogućnosti)
 ⟪क्षत्रियैर्विष्णुरिष्टः । क्षत्रियाभिर्विष्णुरिष्टः ।⟫
@@ -75,4 +75,4 @@ C) Tvorite rečenice iz [Lekcije 10](lektion10.md), vježba C, u pasivu i u pro�
 
 15\. On dostiže životinje. ⟪पशूल्ंलभते पशवो लब्धाः ।⟫
 
-16\. Koji se ratnici bore s kšatrijama? (Kielhorn) ⟪के योधाः क्षत्रियैः सह युध्यन्ते कैर्योधैः क्षत्रियैः सह युद्धम् ।⟫
+16\. Koji se ratnici bore s kšatrijama? ⟪के योधाः क्षत्रियैः सह युध्यन्ते कैर्योधैः क्षत्रियैः सह युद्धम् ।⟫

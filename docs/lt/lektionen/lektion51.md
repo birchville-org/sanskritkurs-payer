@@ -177,80 +177,83 @@ Vyriškoji lytis, moteriškoji lytis:
 
 :::
 ::: indent
-> Vienaskaita:
+Vienaskaita:
 
 :::
 ::: indent
-> Nomin. vok. ⟪सत्यवाक्⟫
+Nomin. vok. ⟪सत्यवाक्⟫
 Akus. ⟪सत्यवाचम्⟫
-> Instrument. ⟪सत्यवाचा⟫
+Instrument. ⟪सत्यवाचा⟫
 :::
-> Daugiskaita:
+Daugiskaita:
 
 ::: indent
-> Instrument. ⟪सत्यवाग्भिस्⟫
+Instrument. ⟪सत्यवाग्भिस्⟫
 Lok. ⟪सत्यवाक्षु⟫
 :::
-> Vidurinioji lytis
+Vidurinioji lytis
 
 ::: indent
-> Vienaskaita nomin. akus. vok. ⟪सत्यवाक्⟫
+Vienaskaita nomin. akus. vok. ⟪सत्यवाक्⟫
 Daugiskaita nomin. akus. vok. ⟪सत्यवाञ्चि⟫
 :::
-> ⟪शेषभुज्⟫ 3 „valgantis maisto likučius“
+⟪शेषभुज्⟫ 3 „valgantis maisto likučius“
 
 ::: indent
-> Vyriškoji lytis, moteriškoji lytis:
+Vyriškoji lytis, moteriškoji lytis:
 
 :::
-> ::: indent
+::: indent
 Vienaskaita:
 
-> ::: indent
+::: indent
 Nomin. vok. ⟪शेषभुक्⟫
 Akus. ⟪शेषभुजम्⟫
-> :::
+:::
 Daugiskaita:
 
-> ::: indent
+::: indent
 Instrument. ⟪शेषभुग्भिस्⟫
-> Lok. ⟪शेषभुक्षु⟫
-> Vidurinioji lytis
+Lok. ⟪शेषभुक्षु⟫
+:::
+Vidurinioji lytis
 
 ::: indent
-> Vienaskaita nomin. akus. vok. ⟪शेषभुक्⟫
+Vienaskaita nomin. akus. vok. ⟪शेषभुक्⟫
 Daugiskaita nomin. akus. vok. ⟪शेषभुञ्जि⟫
 :::
-> ⟪परिव्राज्⟫ v. „klajojantis vienuolis“
+⟪परिव्राज्⟫ v. „klajojantis vienuolis“
 
 ::: indent
-> Vyriškoji lytis, moteriškoji lytis:
+Vyriškoji lytis, moteriškoji lytis:
 
 :::
-> ::: indent
+::: indent
 Vienaskaita:
 
-> :::
+:::
 ::: indent
-> Nomin. vok. ⟪परिव्राट्⟫
+Nomin. vok. ⟪परिव्राट्⟫
 Akus. ⟪परिव्राजम्⟫
-> :::
+:::
 Daugiskaita:
 
-> ::: indent
+::: indent
 Instrument. ⟪परिव्राड्भिस्⟫
-> Lok. ⟪परिव्राट्सु⟫
+Lok. ⟪परिव्राट्सु⟫
 :::
-> ::: media
+::: media
 ![](/images/lekt5104.webp)
-> Pav.: ⟪परिव्राट् पुष्कर⟫
+Pav.: ⟪परिव्राट् पुष्कर⟫
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt5104))
-> ### 51.2.3. Kamienai su -h
+:::
+
+### 51.2.3. Kamienai su -h
 
 ::: grammar-box
-> **Prie balsiu prasidedančių galūnių -h lieka nepakitęs.**
+**Prie balsiu prasidedančių galūnių -h lieka nepakitęs.**
 
-> **Prie kitų galūnių**
+**Prie kitų galūnių**
 * **paprastai -h pakeičiama į -ḍh**
 * **jei pagrindinė šaknė prasideda d-, -h pakeičiama į -gh. Taip pat kai kuriuose kitose žodžių formose pasirinktinai arba privalomai (sąrašas pas Kielhorn, Gramatika §80,2)**
 * **(žodžio šaknies galūnėje -h pakeičiama į -dh)**
@@ -268,14 +271,14 @@ Vyriškoji lytis, moteriškoji lytis:
 
 :::
 ::: indent
-> Vienaskaita:
+Vienaskaita:
 
 :::
 ::: indent
 V.Š. ⟪घुट्⟫ (Grassmanno aspiracijos disimiliacijos dėsnis: ⟪गुढ्⟫ + s)
-> G. ⟪गुहम्⟫
+G. ⟪गुहम्⟫
 :::
-> Daugiskaita:
+Daugiskaita:
 
 ::: indent
 Įn. ⟪घुड्भिस्⟫
@@ -286,47 +289,47 @@ M. ⟪घुट्सु⟫
 Vyriškoji lytis, moteriškoji lytis:
 
 ::: indent
-> Vienaskaita:
+Vienaskaita:
 
 :::
 ::: indent
-> V.Š. ⟪ध्रुट् । ध्रुक्⟫
+V.Š. ⟪ध्रुट् । ध्रुक्⟫
 G. ⟪द्रुहम्⟫
 :::
-> Daugiskaita:
+Daugiskaita:
 
 ::: indent
-> Įn. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
+Įn. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
 M. ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
-> ## 51.3. Sandhi su prasidedančiu h-
+## 51.3. Sandhi su prasidedančiu h-
 
 ::: grammar-box
-> **Prieš prasidedantį h- prieš tai esantis uždarosios tarpos priebalsis pakeičiamas atitinkamu balsiuoju neaspiratu, o prasidedantis h- pakeičiamas balsiąja aspirata, atitinkančia tą uždarosios tarpos priebalsį:**
+**Prieš prasidedantį h- prieš tai esantis uždarosios tarpos priebalsis pakeičiamas atitinkamu balsiuoju neaspiratu, o prasidedantis h- pakeičiamas balsiąja aspirata, atitinkančia tą uždarosios tarpos priebalsį:**
 
 :::
 ::: indent
 ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-> ## 51.4. Sandhi su prasidedančiu ch-
+## 51.4. Sandhi su prasidedančiu ch-
 
 ::: grammar-box
-> **Prasidedantis ch- po trumpo balsio, po ⟪मा⟫ "ne" ir po ⟪आ⟫ "prie" pakeičiamas cch-:**
+**Prasidedantis ch- po trumpo balsio, po ⟪मा⟫ "ne" ir po ⟪आ⟫ "prie" pakeičiamas cch-:**
 
 :::
 ::: indent
-> ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
+⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
 :::
-> ## 51.5. -ch- žodžio viduje
+## 51.5. -ch- žodžio viduje
 
 ::: grammar-box
-> **Žodžio viduje -ch- po visų balsių pakeičiamas -cch-:**
+**Žodžio viduje -ch- po visų balsių pakeičiamas -cch-:**
 
 :::
 ::: indent
-> pvz. ⟪छिद्⟫ » ⟪चिच्छेद⟫
+pvz. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-> ## 51.6. Žodynas
+## 51.6. Žodynėlis
 
 ⟪अजिन⟫ n.: antilopės oda, ypač juodosios antilopės (miško ožys : _Antilope cervicapra_ L. ). Anksčiau paplitusi visame Indijos subkontinente nuo Pandžabo ir Sindas iki Bengalijos ir Kanyakumari (Komorino kyšulys) (tamilų k. : கன்னியாகுமரி) Žr.:
 

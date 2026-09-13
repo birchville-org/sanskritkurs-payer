@@ -102,16 +102,7 @@ Pav.: ⟪अभ्निवेशो न वा ।⟫
 
 ---
 
-## Lektion 5 pakartotinė pratikė
-
-A) Išverskite:
-
-1\. vidyā vārttā.
-
-
----
-
-## Lektion 5 pakartotinė pratikė
+## 5 pamokos kartojimo pratimas
 
 A) Išverskite:
 

@@ -35,16 +35,16 @@ Konačni glagolski oblik, tj. glagolski oblik sa ličnim nastavkom, u sanskrtu i
 
 U mnogim slučajevima nijansa značenja Ātmanepada više nije prepoznatljiva; čak i umetnički pesnici često koriste Ātmanepada bez razlike u značenju u odnosu na Parasmaipada. Ipak, pri prevodu je uvek potrebno pažljivo obratiti pažnju na to da li postoji takva nijansa značenja.
 
-Glagoli koji se koriste i u Parasmaipadi i u Ātmanepadi (u specifičnom značenju Ātmanepade) nazivaju se **Ubhayapada**-glagoli (**ubhayapada** n. = ⟪उभयपद⟫ = «oba oblika riječi») (Kielhorn).
+Glagoli koji se koriste i u Parasmaipadi i u Ātmanepadi (u specifičnom značenju Ātmanepade) nazivaju se **Ubhayapada**-glagoli (**ubhayapada** n. = ⟪उभयपद⟫ = «oba oblika riječi»).
 
 Verbs that are used in both the Parasmaipada and Ātmanepada (in the specific meaning of the Ātmanepada) are called **Ubhayapada**-verbs (**ubhayapada** n. = ⟪उभयपद⟫ = "both word forms").
 
-4. **Glagolski način** (Modus) (Kielhorn):
+4. **Glagolski način** (Modus):
 1. **Indikativ**: izjavni oblik
 2. **Optativ**: željni i mogućnosni oblik
 3. **Imperativ**: zapovjedni oblik
 
-5. **Vrijeme** (Tempus) (Kielhorn):
+5. **Vrijeme** (Tempus):
 1. **Prezent**: sadašnje vrijeme
 2. **Imperfekt**: prošlo nesvršeno vrijeme
 3. **Perfekt**: prošlo svršeno vrijeme

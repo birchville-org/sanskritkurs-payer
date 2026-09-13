@@ -214,7 +214,7 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **asmitā** f. = ⟪अस्मिता⟫ : "I-am-ness", i.e., the (false) belief: **I** am the one who sees, etc.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filozofija (znanost koja logički ispravnim obrazloženjima dolazi do svojih zaključaka) (Kielhorn).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filozofija (znanost koja logički ispravnim obrazloženjima dolazi do svojih zaključaka).
 
 **upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
 
@@ -1056,7 +1056,7 @@ Fig.: ⟪व्याघ्रः⟫
 
 ⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
-⟪अरि⟫ m.: neprijatelj (prema Thiemeu, Der Fremdling im Ṛgveda: izvorno = stranac) (Kielhorn)
+⟪अरि⟫ m.: neprijatelj (prema Thiemeu, Der Fremdling im Ṛgveda: izvorno = stranac)
 
 ::: indent
 
@@ -1072,7 +1072,7 @@ to ⟪जन्⟫
 
 :::
 
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; pasiv ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : umrijeti (prema indijskim gramatičarima: 6 Ā) (Kielhorn)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; pasiv ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : umrijeti (prema indijskim gramatičarima: 6 Ā)
 
 from this:
 
@@ -3245,11 +3245,11 @@ davon:
 **Fut.** ⟪हास्यति⟫  
 **Pas.** ⟪हीयते⟫  
 **Kau.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: napušten od, oskudijevajući, manjkav (Kielhorn)  
+**PPP** ⟪हीन⟫: napušten od, oskudijevajući, manjkav  
 **Inf.** ⟪हातुम्⟫
 od PPP ⟪हीन⟫:
 
-⟪हीनयान⟫ n.: manjkavo vozilo (budizma): pogrdan naziv predstavnika "velikog vozila", ⟪महायान⟫; manjkavi put (⟪यान⟫ uz ⟪या⟫ 2: ići). Izraz ⟪हीनयान⟫ više se ne bi trebao koristiti. Danas još postojeći oblik starog budizma naziva se ⟪थेरवाद⟫ (Kielhorn).
+⟪हीनयान⟫ n.: manjkavo vozilo (budizma): pogrdan naziv predstavnika "velikog vozila", ⟪महायान⟫; manjkavi put (⟪यान⟫ uz ⟪या⟫ 2: ići). Izraz ⟪हीनयान⟫ više se ne bi trebao koristiti. Danas još postojeći oblik starog budizma naziva se ⟪थेरवाद⟫.
 
 :::
 
@@ -3263,7 +3263,7 @@ Abb.: ⟪हीनयानमेव⟫
 
 :::
 
-⟪हु⟫ 3P ⟪जुहोति⟫: izliti u vatru (kao žrtvu, posebno pročišćeni maslac) (Kielhorn)
+⟪हु⟫ 3P ⟪जुहोति⟫: izliti u vatru (kao žrtvu, posebno pročišćeni maslac)
 
 ::: indent
 

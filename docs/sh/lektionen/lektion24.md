@@ -139,40 +139,40 @@ Further uses of the dative later.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalske osnove (Kielhorn)
+### 24.2.4. Vokalske osnove
 
 ::: grammar-box
-**Vokalske osnove** (Kielhorn)
+**Vokalske osnove**
 
-* **Imenice muškog i srednjeg roda na -a:** ⟪देव⟫ (Kielhorn)
+* **Imenice muškog i srednjeg roda na -a:** ⟪देव⟫
 * Dat. jd. ⟪देवाय⟫
 * Dat. mn. ⟪देवेभ्यस्⟫
-* **Imenice muškog roda na -i:** ⟪कवि⟫ (Kielhorn)
+* **Imenice muškog roda na -i:** ⟪कवि⟫
 * Dat. jd. ⟪कवये⟫
 * Dat. mn. ⟪कविभ्यस्⟫
-* **Imenice muškog roda na -u:** ⟪पशु⟫ (Kielhorn)
+* **Imenice muškog roda na -u:** ⟪पशु⟫
 * Dat. jd. ⟪पशवे⟫
 * Dat. mn. ⟪पशुभ्यस्⟫
-* **Imenice ženskog roda na -ā:** ⟪देवता⟫ (Kielhorn)
+* **Imenice ženskog roda na -ā:** ⟪देवता⟫
 * Dat. jd. ⟪देवतायै⟫
 * Dat. mn. ⟪देवताभ्यस्⟫
-* **Imenice ženskog roda na -ī:** ⟪देवी⟫ (Kielhorn)
+* **Imenice ženskog roda na -ī:** ⟪देवी⟫
 * Dat. jd. ⟪देव्यै⟫
 * Dat. mn. ⟪देवीभ्यस्⟫
-* **Imenice ženskog roda na -i:** ⟪श्रुति⟫ (Kielhorn)
-* Dat. jd. ⟪श्रुतये⟫ ili ⟪श्रुत्यै⟫ (tj. kao ⟪कवि⟫ ili kao ⟪देवी⟫) (Kielhorn)
+* **Imenice ženskog roda na -i:** ⟪श्रुति⟫
+* Dat. jd. ⟪श्रुतये⟫ ili ⟪श्रुत्यै⟫ (tj. kao ⟪कवि⟫ ili kao ⟪देवी⟫)
 * Dat. mn. ⟪श्रुतिभ्यस्⟫
-* **Imenice ženskog roda na -u:** ⟪धेनु⟫ (Kielhorn)
-* Dat. jd. ⟪धेनवे⟫ ili ⟪धेन्वै⟫ (Kielhorn)
+* **Imenice ženskog roda na -u:** ⟪धेनु⟫
+* Dat. jd. ⟪धेनवे⟫ ili ⟪धेन्वै⟫
 * Dat. mn. ⟪धेनुभ्यस्⟫
 :::
-## 24.3. Sandhi završnog -ai i -au (Kielhorn)
+## 24.3. Sandhi završnog -ai i -au
 
 ::: grammar-box
-**Sandhi završnog -ai i -au** (Kielhorn)
+**Sandhi završnog -ai i -au**
 
-* **-ai ispred početnog samoglasnika u pravilu se zamjenjuje s -ā (rjeđe s -āy kao unutar riječi)** (Kielhorn)
-* **-au ispred samoglasnika u pravilu se zamjenjuje s -āv (rjeđe s -ā)** (Kielhorn)
+* **-ai ispred početnog samoglasnika u pravilu se zamjenjuje s -ā (rjeđe s -āy kao unutar riječi)**
+* **-au ispred samoglasnika u pravilu se zamjenjuje s -āv (rjeđe s -ā)**
 
 Example:
 

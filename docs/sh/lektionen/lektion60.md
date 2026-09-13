@@ -324,11 +324,11 @@ See Kielhorn, Grammar § 443 - 445 for the rules on the use of the connecting vo
 
 1. The root is usually in the guṇa grade: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
-1. završno -i, -u zamjenjuje se s -ī ili -ū ako ne slijedi spojni samoglasnik: (Kielhorn)  
+1. završno -i, -u zamjenjuje se s -ī ili -ū ako ne slijedi spojni samoglasnik:  
 ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "željeti pobijediti"  
 ⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "željeti trčati"  
 
-2. završno -ṛ, -ṝ zamjenjuje se s -īr, iza labijala s -ūr ako ne slijedi spojni samoglasnik: (Kielhorn)  
+2. završno -ṛ, -ṝ zamjenjuje se s -īr, iza labijala s -ūr ako ne slijedi spojni samoglasnik:  
 ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "željeti učiniti"  
 ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "biti na samrti, željeti umrijeti"  
 ⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "željeti napuniti"  

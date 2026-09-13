@@ -506,7 +506,7 @@ Fig.: ⟪तीर्थङ्करः⟫
 ::: indent
 davon:
 
-⟪अवतार⟫ m.: (onaj koji silazi, silaženje) inkarnacija boga, posebno Viṣṇuovih 10 inkarnacija (v. Basham, Wonder str. 304–309) (Kielhorn)
+⟪अवतार⟫ m.: (onaj koji silazi, silaženje) inkarnacija boga, posebno Viṣṇuovih 10 inkarnacija (v. Basham, Wonder str. 304–309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
@@ -519,7 +519,7 @@ Slika: ⟪विष्णोर्दशावताराः⟫
 Impf. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
-pasiv ⟪सुप्यते⟫ (od *svp-ya-te) (Kielhorn)  
+pasiv ⟪सुप्यते⟫ (od *svp-ya-te)  
 Kaus. ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
@@ -528,7 +528,7 @@ davon:
 
 ⟪स्वप्न⟫ m.: Schlaf, Traum
 
-⟪सुप्ति⟫ f. (od *svp-ti): san, posebno duboki san (Kielhorn)
+⟪सुप्ति⟫ f. (od *svp-ti): san, posebno duboki san
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
@@ -595,7 +595,7 @@ B) Pretvorite sljedeće glagolske oblike u odgovarajuće oblike perfekta. Kod vi
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (ide prema tipu Vb) (Kielhorn)
+53.  ⟪अभजाम⟫ (ide prema tipu Vb)
 54.  ⟪जेष्यामः⟫
 55.  ⟪आसे⟫ (periphrast.)
 56.  ⟪विन्दामः⟫

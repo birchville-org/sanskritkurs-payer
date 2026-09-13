@@ -8,8 +8,8 @@ title: "[Ustawienia]"
 <PayerLanguageSettings />
 </ClientOnly>
 
-::: note-box  Informationen & Version
-**Aktuelle Version**: `v1.8.6`
-**Release Notes & Changelog**: [Was ist neu in v1.8.6?](/pl/release-notes)
-**Quellcode & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
+::: note-box  Informacje i wersja
+**Aktualna wersja**: `v1.8.6`
+**Informacje o wydaniu i dziennik zmian**: [Co nowego w v1.8.6?](/pl/release-notes)
+**Kod źródłowy i repozytorium**: [Repozytorium GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

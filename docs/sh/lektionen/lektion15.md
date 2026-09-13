@@ -72,11 +72,11 @@ The following special rule applies to the sequence of components in a Karmadhār
 ⟪नरसिंहः⟫ = ⟪सिंह इव नरः⟫ = "a man like a lion"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र इव पुरुषः⟫ = "a man like a tiger"
 
-*   ako Karmadhāraya izražava apoziciju (bliže određivanje zadnjeg člana imenicom), pobliže određujući član stoji u predčlanu, kao što to zahtijeva i opće pravilo za redoslijed članova u Tatpuruṣi: (Kielhorn)
+*   ako Karmadhāraya izražava apoziciju (bliže određivanje zadnjeg člana imenicom), pobliže određujući član stoji u predčlanu, kao što to zahtijeva i opće pravilo za redoslijed članova u Tatpuruṣi:
 
-⟪नरसिंहः⟫ se može razriješiti i kao: ⟪नर एव सिंहः⟫ = "Lav koji je (u stvarnosti) čovjek." (Kielhorn)
+⟪नरसिंहः⟫ se može razriješiti i kao: ⟪नर एव सिंहः⟫ = "Lav koji je (u stvarnosti) čovjek."
 
-Takve apozicijske Karmadhāraye razrješuju se u domaćim komentarima kao u gornjem primjeru pomoću ⟪एव⟫. (Kielhorn)
+Takve apozicijske Karmadhāraye razrješuju se u domaćim komentarima kao u gornjem primjeru pomoću ⟪एव⟫.
 
 :::
 ::: media
@@ -84,11 +84,11 @@ Takve apozicijske Karmadhāraye razrješuju se u domaćim komentarima kao u gorn
 Slika: ⟪नरसिंहः⟫
 (Izvor slike: [Details](/sh/licenses#lekt1503))
 :::
-## 15.4. Determinativne složenice s predčlanom u ne-atributivnom/apozicijskom padežnom odnosu prema zadnjem članu = Tatpuruṣa u užem smislu (Kielhorn)
+## 15.4. Determinativne složenice s predčlanom u ne-atributivnom/apozicijskom padežnom odnosu prema zadnjem članu = Tatpuruṣa u užem smislu
 
 ::: grammar-box
 
-[L90] Tatpuruṣa-spojevi mogući su za spojeve imenskih riječi (imenica i pridjeva), pri čemu predčlan - prema pravilima sintakse - može stajati u bilo kojem padežu. Kao što se očekuje, predčlan najčešće zastupa genitiv (⟪षष्ठी⟫), jer je to upravo padež za izražavanje odnosa među imenskim riječima. (Kielhorn)
+[L90] Tatpuruṣa-spojevi mogući su za spojeve imenskih riječi (imenica i pridjeva), pri čemu predčlan - prema pravilima sintakse - može stajati u bilo kojem padežu. Kao što se očekuje, predčlan najčešće zastupa genitiv (⟪षष्ठी⟫), jer je to upravo padež za izražavanje odnosa među imenskim riječima.
 
 :::
 [L93] npr.
@@ -96,13 +96,13 @@ Slika: ⟪नरसिंहः⟫
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य पुत्रः⟫ = "sin kšatrije", "mladi kšatrija", "pripadnik kšatrija"  
 Aku. jd. ⟪क्षत्रियपुत्रम्⟫  
 Gen. jd. ⟪क्षत्रियपुत्रस्य⟫  
-itd. (Kielhorn)  
+itd.  
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "priroda učitelja" (Kielhorn)
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "priroda učitelja"
 
-⟪धनलोभः⟫ = ⟪धनस्य लोभः⟫ = "žudnja za bogatstvom, pohlepa" (Kielhorn)
+⟪धनलोभः⟫ = ⟪धनस्य लोभः⟫ = "žudnja za bogatstvom, pohlepa"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य गतिः⟫ = "tok svijeta, ponašanje ljudi" (Kielhorn)
+⟪लोकगतिः⟫ =  ⟪लोकस्य गतिः⟫ = "tok svijeta, ponašanje ljudi"
 
 Almost every genitive relationship can be replaced by a Tatpuruṣa. The few exceptions see e.g. in Kale, A higher Sanskrit grammar § 211; there you will also find the corresponding passages in Pāṇini.
 
@@ -292,7 +292,7 @@ Fig.: ⟪व्याघ्रः⟫
 
 ⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
-⟪अरि⟫ m.: neprijatelj (prema Thiemeu, Der Fremdling im Ṛgveda: izvorno = stranac) (Kielhorn)
+⟪अरि⟫ m.: neprijatelj (prema Thiemeu, Der Fremdling im Ṛgveda: izvorno = stranac)
 
 ::: indent
 ⟪आर्य⟫ 3: Aryan, noble ; m. Aryan (self-designation of the Sanskrit-speaking ancient Indians, lit.: hospitable (Thieme)) ; nobleman, gentleman
@@ -302,7 +302,7 @@ to ⟪जन्⟫
 ::: indent
 ⟪जाति⟫ f.: rođenje, vrsta, kasta (za kastu kao ⟪जाति⟫ v. Basham, Wonder, str. 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; pasiv ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : umrijeti (prema indijskim gramatičarima: 6 Ā) (Kielhorn)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; pasiv ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : umrijeti (prema indijskim gramatičarima: 6 Ā)
 
 from that:
 
@@ -315,7 +315,7 @@ from that:
 :::
 ## 15.9. Vežba 1
 
-Razriješite sljedeće složenice kao Tatpuruṣa na sanskrtu i prevedite ih. Navedite sva razrješenja i prijevode koji vam se čine mogućima. Također naznačite koji padež i broj predstavlja cijela složenica. (Kielhorn)
+Razriješite sljedeće složenice kao Tatpuruṣa na sanskrtu i prevedite ih. Navedite sva razrješenja i prijevode koji vam se čine mogućima. Također naznačite koji padež i broj predstavlja cijela složenica.
 
 ⟪१⟫. ⟪देवेन्द्रस्य २⟫. ⟪दुःखदग्धा ३⟫. ⟪मोक्षधर्मः ४⟫. ⟪अन्नजातानि ५⟫. ⟪गृहकरणम् ६⟫. ⟪शूद्रकृतेन ७⟫. ⟪ईश्वरपूजा ८⟫. ⟪देवेश्वरः ९⟫. ⟪क्षत्रिययज्ञम् १०⟫. ⟪वैश्यभावेन ११⟫. ⟪देवगुरोः १२⟫. ⟪धनलोभः १३⟫. ⟪गृहदासी १४⟫. ⟪दुःखमोहः १५⟫. ⟪ग्रामेश्वरम् १६⟫. ⟪नगरजनाः १७⟫. ⟪यज्ञकालस्य १८⟫. ⟪देवगृहाणि १९⟫. ⟪देवपुत्राणाम् २०⟫. ⟪पश्विष्टिः २१⟫. ⟪स्मृत्युक्तम् २२⟫. ⟪गुरुगृहम् २३⟫. ⟪सोमयज्ञेन २४⟫. ⟪स्वर्गगताः २५⟫. ⟪सुखप्रश्नम् २६⟫. ⟪पशुधर्मः २७⟫. ⟪स्वर्गलोकः २८⟫. ⟪ऋषियज्ञैः २९⟫. ⟪तत्कालम् ३०⟫. ⟪सत्यवदनम्⟫
 

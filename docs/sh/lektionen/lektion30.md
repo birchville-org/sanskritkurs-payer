@@ -183,16 +183,16 @@ Examples:
 |**3rd Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
-### 30.4.2. Atematatski prezentski razredi (Kielhorn)
+### 30.4.2. Atematatski prezentski razredi
 
 ::: grammar-box
 **Parasmaipada:**
 
-**slaba prezentska osnova + -yā- (ispred -ur: -y-) + sekundarni nastavak** (Kielhorn)
+**slaba prezentska osnova + -yā- (ispred -ur: -y-) + sekundarni nastavak**
 
 **Ātmanepada:**
 
-**slaba prezentska osnova + -ī- + sekundarni nastavak** (Kielhorn)
+**slaba prezentska osnova + -ī- + sekundarni nastavak**
 :::
 Examples:
 

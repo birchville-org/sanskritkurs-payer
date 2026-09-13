@@ -620,9 +620,9 @@ Przykład:
 ::: grammar-box
 **Tworzenie trybu warunkowego (⟪ऌङ्⟫):**
 
-**Augment + stem of the simple future (⟪ऌत्⟫) + secondary endings**
+**Augment + temat czasu przyszłego prostego (⟪ऌत्⟫) + końcówki wtórne**
 
-to znaczy, jak imperfekt (⟪लङ्⟫) do stemu przyszłości.
+to znaczy, jak imperfekt (⟪लङ्⟫) do tematu czasu przyszłego.
 
 np. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::

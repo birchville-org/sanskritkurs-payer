@@ -146,30 +146,30 @@ Traditionally, one distinguishes:
 ::: media
 ![](/images/lekt2005.webp)
 Slika: ⟪देवा यीश्वादयः⟫
-Isus i ostali bogovi, Ahmedabad (Kielhorn)
+Isus i ostali bogovi, Ahmedabad
 (Izvor slike: [Details](/sh/licenses#lekt2005))
 :::
 
-## 20.4. Bahuvrīhi s padežnim predčlanom (Kielhorn)
+## 20.4. Bahuvrīhi s padežnim predčlanom
 
-tj. Bahuvrīhi čiji predčlan zastupa drugi padež osim nominativa (⟪प्रथमा⟫). (Kielhorn)
+tj. Bahuvrīhi čiji predčlan zastupa drugi padež osim nominativa (⟪प्रथमा⟫).
 
 Primjer:
 
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव रूपं यस्याः सा⟫ = "žena čiji je lik božanski", "žena božanskog izgleda" (Kielhorn)
+⟪देवरूपा⟫ = ⟪देवस्यैव रूपं यस्याः सा⟫ = "žena čiji je lik božanski", "žena božanskog izgleda"
 :::
 ::: grammar-box
 
-**Iznimka od općeg pravila o redoslijedu članova složenice:** (Kielhorn)
+**Iznimka od općeg pravila o redoslijedu članova složenice:**
 
-**Padežni član stoji na drugom mjestu ako označava dio tijela (posebno ruku):** (Kielhorn)
+**Padežni član stoji na drugom mjestu ako označava dio tijela (posebno ruku):**
 
 **Primjer:**
 
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो हस्ते⟫ (lok. jd.) ⟪यस्य सः⟫ = "onaj u čijoj se ruci nalazi štap", "onaj koji nosi štap u ruci" (Kielhorn)
+⟪दण्डहस्तः⟫ =  ⟪दण्डो हस्ते⟫ (lok. jd.) ⟪यस्य सः⟫ = "onaj u čijoj se ruci nalazi štap", "onaj koji nosi štap u ruci"
 :::
 ::: media
 ![](/images/lekt2001.webp)
@@ -177,20 +177,20 @@ Abb.: ⟪इन्द्रो वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
 (Izvor slike: [Details](/sh/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi s priloškim predčlanom (Kielhorn)
+## 20.5. Bahuvrīhi s priloškim predčlanom
 
-U predčlanu stoji prilog, prijedlog, preverb ili druga nepromjenjiva riječ; takve su složenice u pravilu ⟪नित्यसमास⟫. (Kielhorn)
+U predčlanu stoji prilog, prijedlog, preverb ili druga nepromjenjiva riječ; takve su složenice u pravilu ⟪नित्यसमास⟫.
 
 Primjeri:
 
 ::: indent
-⟪अपुत्रो नरः⟫ = ⟪पुत्रो यस्य नास्ति स नरः⟫ = "čovjek koji nema sina", "bezdetan čovjek" (Kielhorn)
+⟪अपुत्रो नरः⟫ = ⟪पुत्रो यस्य नास्ति स नरः⟫ = "čovjek koji nema sina", "bezdetan čovjek"
 
-⟪दुर्बल ३⟫ = "onaj čija je snaga loša", "nemoćan, slab" (Kielhorn)
+⟪दुर्बल ३⟫ = "onaj čija je snaga loša", "nemoćan, slab"
 :::
 ::: grammar-box
 
-**⟪सह⟫ "s" kao predčlan Bahuvrīhija često se zamjenjuje s ⟪स⟫.** (Kielhorn)
+**⟪सह⟫ "s" kao predčlan Bahuvrīhija često se zamjenjuje s ⟪स⟫.**
 
 **Example:**
 
@@ -246,14 +246,14 @@ Chennai = சென்னை
 Iako se svaki Bahuvrīhi može razriješiti u odnosnu rečenicu, ne može se svaka odnosna rečenica zamijeniti Bahuvrīhijem. Hermann Georg Jacobi (1850–1937), koji je pobliže istražio njihov odnos (Kielhorn, Jacobi 1897), piše:
 
 ::: indent
-"Pri prevođenju s modernog jezika na sanskrt, ne mogu se sve zavisne rečenice izraziti složenicama; samo one ukrasne i opisne. One pak koje sadrže pojmovno nužnu ili važnu odredbu javljaju se i u sanskrtu kao odnosne rečenice." (Kielhorn)
+"Pri prevođenju s modernog jezika na sanskrt, ne mogu se sve zavisne rečenice izraziti složenicama; samo one ukrasne i opisne. One pak koje sadrže pojmovno nužnu ili važnu odredbu javljaju se i u sanskrtu kao odnosne rečenice."
 :::
 ::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Image source: [Details](/sh/licenses#lekt2002))
 :::
-To je možda točno. Međutim, Indijci mnoge stvari smatraju ukrasnim i opisnim koje bismo mi smatrali "pojmovno nužnima ili važnima". (Kielhorn)
+To je možda točno. Međutim, Indijci mnoge stvari smatraju ukrasnim i opisnim koje bismo mi smatrali "pojmovno nužnima ili važnima".
 
 ## 20.9. Word List
 

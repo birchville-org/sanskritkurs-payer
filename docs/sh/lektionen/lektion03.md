@@ -197,46 +197,46 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द�
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kšatrija (žena kšatrijskog staleža).
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Žena Kšatrije.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : žena kšatrije.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : vajšija (žena vajšijskog staleža).
 
-**śūdrā** f. = ⟪शूद्रा⟫ : female Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : šudra (žena šudranskog staleža).
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : žena šudre.
 
-**devī** f. = ⟪देवी⟫ : goddess, esp. Durgā f. = ⟪दुर्गा⟫, the wife of Śiva = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : božica, osobito Durgā f. = ⟪दुर्गा⟫, Šivina supruga = ⟪शिव⟫.
 
 ::: media
 
 ![](/images/lekt0303.webp)
 
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
+Sl.: Durgā = ⟪दुर्गा⟫, Orissa
 
-(Image source: [Details](/images/lekt0303))
+(Izvor slike: [Pojedinosti](/images/lekt0303))
 
 :::
 
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+**sādhvī** f. = ⟪साध्वी⟫ : ženski rod uz sādhu (sveta žena).
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
+**gurvī** f. = ⟪गुर्वी⟫ : ženski rod uz guru (učiteljica).
 
-**asmitā** f. = ⟪अस्मिता⟫ : "I-ness", i.e., the (false) belief: **I** am the one who sees, etc.
+**asmitā** f. = ⟪अस्मिता⟫ : "ja-stvo", tj. (pogrešno) vjerovanje: **ja** sam taj koji vidi itd.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : philosophy (the science that arrives at its conclusions through logically correct reasoning).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filozofija (znanost koja logički ispravnim zaključivanjem dolazi do svojih spoznaja).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : disregard, equanimity.
+**upekṣā** f. = ⟪उपेक्षा⟫ : ravnodušnost, duševni mir.
 
-**karuṇā** f. = ⟪करुणा⟫ : compassion, pity.
+**karuṇā** f. = ⟪करुणा⟫ : suosjećanje, samilost.
 
-**muditā** f. = ⟪मुदिता⟫ : joy, specifically sympathetic joy (opposite of envy).
+**muditā** f. = ⟪मुदिता⟫ : radost zbog tuđe sreće (su-radost).
 
 
-## 3.7. Übung
+## 3.7. Vježba
 
-**A) Put the following sentences into the plural:**
+**A) Prebacite sljedeće rečenice u množinu:**
 
 1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
 2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫

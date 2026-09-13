@@ -4,29 +4,29 @@ outline: [2, 3]
 
 ---
 
-# Grammar Topics
+# Gramatičke teme
 
-This page provides a systematic overview of all grammatical topics in the Sanskrit course. Each of the 61 lessons is categorized thematically here.
+Ova stranica pruža sustavni pregled svih gramatičkih tema u tečaju sanskrta. Svaka od 61 lekcije ovdje je tematski razvrstana.
 
-## 1. Phonology & Script (Saṃhitā & Lipi)
+## 1. Fonologija i pismo (Saṃhitā & Lipi)
 
-*   **Introduction to Sounds**: Systematics and pronunciation -\> [Lesson 1](/sh/lektionen/lektion01)
-*   **Script Introduction (Devanāgarī)**:
-*   Vowels and simple consonants -\> [Lesson 40](/sh/lektionen/lektion40)
-*   Conjunct consonants (ligatures) -\> [Lesson 41](/sh/lektionen/lektion41) & [Lesson 42](/sh/lektionen/lektion42)
-*   **Sandhi (Sound Combination)**:
-*   Sandhi of final **-s/Visarga** -\> [Lesson 2](/sh/lektionen/lektion02), [Lesson 3](/sh/lektionen/lektion03), [Lesson 30](/sh/lektionen/lektion30)
-*   Sandhi of **-m, -e, -d** -\> [Lesson 4](/sh/lektionen/lektion04)
-*   **Vowel Sandhi** -\> [Lesson 3](/sh/lektionen/lektion03), [Lesson 24](/sh/lektionen/lektion24)
-*   Sandhi of **-n** -\> [Lesson 7](/sh/lektionen/lektion07)
-*   Sandhi for **Nasals** -\> [Lesson 21](/sh/lektionen/lektion21), [Lesson 26](/sh/lektionen/lektion26)
-*   Cerebralization (**n -\> ṇ / s -\> ṣ**) -\> [Lesson 10](/sh/lektionen/lektion10), [Lesson 26](/sh/lektionen/lektion26)
-*   Word Sandhi (h-, ch-) -\> [Lesson 44](/sh/lektionen/lektion44), [Lesson 51](/sh/lektionen/lektion51)
-*   **Consonant Sandhi** (Summaries) -\> [Lesson 16](/sh/lektionen/lektion16), [Lesson 43](/sh/lektionen/lektion43)
+*   **Uvod u glasove**: Sustav i izgovor -\> [Lekcija 1](/sh/lektionen/lektion01)
+*   **Uvod u pismo (Devanāgarī)**:
+*   Samoglasnici i jednostavni suglasnici -\> [Lekcija 40](/sh/lektionen/lektion40)
+*   Spojeni suglasnici (ligature) -\> [Lekcija 41](/sh/lektionen/lektion41) & [Lekcija 42](/sh/lektionen/lektion42)
+*   **Sandhi (glasovno povezivanje)**:
+*   Sandhi završnog **-s/Visarga** -\> [Lekcija 2](/sh/lektionen/lektion02), [Lekcija 3](/sh/lektionen/lektion03), [Lekcija 30](/sh/lektionen/lektion30)
+*   Sandhi za **-m, -e, -d** -\> [Lekcija 4](/sh/lektionen/lektion04)
+*   **Vokalni sandhi** -\> [Lekcija 3](/sh/lektionen/lektion03), [Lekcija 24](/sh/lektionen/lektion24)
+*   Sandhi za **-n** -\> [Lekcija 7](/sh/lektionen/lektion07)
+*   Sandhi za **nazale** -\> [Lekcija 21](/sh/lektionen/lektion21), [Lekcija 26](/sh/lektionen/lektion26)
+*   Cerebralizacija (**n -\> ṇ / s -\> ṣ**) -\> [Lekcija 10](/sh/lektionen/lektion10), [Lekcija 26](/sh/lektionen/lektion26)
+*   Sandhi riječi (h-, ch-) -\> [Lekcija 44](/sh/lektionen/lektion44), [Lekcija 51](/sh/lektionen/lektion51)
+*   **Suglasnički sandhi** (sažeci) -\> [Lekcija 16](/sh/lektionen/lektion16), [Lekcija 43](/sh/lektionen/lektion43)
 
-## 2. Lexicology (Morphology)
+## 2. Morfologija (oblici riječi)
 
-### 2.1 Nouns and Adjectives (Declension)
+### 2.1 Imenice i pridjevi (deklinacija)
 
 *   **Osnove**: Teorija padeža -\> [Lekcija 1](/sh/lektionen/lektion01), [Lekcija 2](/sh/lektionen/lektion02)
 *   **A-padeži** (Muški i Srednji rod) -\> [Lekcija 2](/sh/lektionen/lektion02), [Lekcija 7](/sh/lektionen/lektion07)

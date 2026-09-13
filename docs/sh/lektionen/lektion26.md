@@ -58,17 +58,17 @@ Primeri: videti ispod futur od  ⟪दुह्⟫ i  ⟪बुध्⟫
 Slika: Hermann Grassmann
 (Izvor slike: [Detalji](/sh/licenses#lekt2601))
 :::
-## 26.5. Sandhi riječi za -m, -n ispred sibilanata (Kielhorn)
+## 26.5. Sandhi riječi za -m, -n ispred sibilanata
 
 ::: grammar-box
-**Ispred sibilanata -n i -m zamjenjuju se s -ṃ-:** (Kielhorn)
+**Ispred sibilanata -n i -m zamjenjuju se s -ṃ-:**
 
-Primjer: vidi niže futur od ⟪मन्⟫ (Kielhorn)
+Primjer: vidi niže futur od ⟪मन्⟫
 :::
-## 26.6. Upotreba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) (Kielhorn)
+## 26.6. Upotreba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Jednostavni futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) izražava:** (Kielhorn)
+**Jednostavni futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) izražava:**
 
 **budućnost**
 **namjeravanu ili željenu radnju ("ići ću", "želim ići")**
@@ -79,9 +79,9 @@ Primjer: vidi niže futur od ⟪मन्⟫ (Kielhorn)
 **mišljenje govornika**
 **naredbu**
 
-**Futur djelomično stoji u konkurenciji s optativom (vidi kasnije).** (Kielhorn)
+**Futur djelomično stoji u konkurenciji s optativom (vidi kasnije).**
 :::
-npr. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Netko tko želi položiti zavjet ide u hram." (Kielhorn)
+npr. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Netko tko želi položiti zavjet ide u hram."
 
 
 ::: media
@@ -89,17 +89,17 @@ npr. ⟪व्रतं करिष्यन्देवगृहं गच्�
 Slika: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
 (Izvor slike: [Details](/sh/licenses#lekt2602))
 :::
-## 26.7. Tvorba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) (Kielhorn)
+## 26.7. Tvorba jednostavnog futura (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Jednostavni futur:** (Kielhorn)
+**Jednostavni futur:**
 
 :::
 ::: indent
-**Futurska osnova + primarni nastavak** (Kielhorn)
+**Futurska osnova + primarni nastavak**
 :::
 ::: grammar-box
-**Futurska osnova:** (Kielhorn)
+**Futurska osnova:**
 
 :::
 ::: indent
@@ -107,10 +107,10 @@ Slika: ⟪व्रतं करिष्यन्देवगृहं गच�
 **ili**  
 **(većinom) korijen u punom stupnju + -i- + -sya (= -iṣya)**
 :::
-**Koji korijen ima koji oblik futurske osnove, mora se naučiti s oblicima osnova! (Kielhorn)**  
-**Općenito se oblik korijena i spojni samoglasnik futura podudaraju s infinitivom. (Kielhorn)**  
-**Neki korijeni mogu tvoriti futur izborno sa spojnim samoglasnikom -i- ili bez njega. (Kielhorn)**  
-**Parasmaipada particip futura tvori se dodavanjem sufiksa -nt- na futursku osnovu, ženski rod izborno na -ntī ili -tī: (Kielhorn)**
+**Koji korijen ima koji oblik futurske osnove, mora se naučiti s oblicima osnova!**  
+**Općenito se oblik korijena i spojni samoglasnik futura podudaraju s infinitivom.**  
+**Neki korijeni mogu tvoriti futur izborno sa spojnim samoglasnikom -i- ili bez njega.**  
+**Parasmaipada particip futura tvori se dodavanjem sufiksa -nt- na futursku osnovu, ženski rod izborno na -ntī ili -tī:**
 
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫

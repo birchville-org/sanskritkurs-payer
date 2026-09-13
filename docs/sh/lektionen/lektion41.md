@@ -86,11 +86,11 @@ Primeri:
 
 :::
 
-### 41.2.2. Particip pasivne nužnosti (gerundiv) (⟪कृत्य⟫) (Kielhorn)
+### 41.2.2. Particip pasivne nužnosti (gerundiv) (⟪कृत्य⟫)
 
 ::: grammar-box
 
-**Kako bi se izrazila pasivna nužnost ("ono što se mora/treba učiniti"), mogu se pridjevi iz korijena i izvedenih glagolskih osnova po izboru tvoriti sljedećim sufiksima:** (Kielhorn)
+**Kako bi se izrazila pasivna nužnost ("ono što se mora/treba učiniti"), mogu se pridjevi iz korijena i izvedenih glagolskih osnova po izboru tvoriti sljedećim sufiksima:**
 
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
@@ -99,11 +99,11 @@ Primeri:
 
 :::
 
-#### 41.2.2.1. Sufiks -⟪तव्य⟫ / -⟪तव्या⟫ (Kielhorn)
+#### 41.2.2.1. Sufiks -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
 
-**Sufiks -⟪तव्य⟫ / -⟪तव्या⟫ dodaje se na korijene i izvedene glagolske osnove (npr. kauzativ) na isti način kao i infinitivni sufiks -⟪तुम्⟫ (v. [Lekciju 23](lektion23.md)), tj.:** (Kielhorn)
+**Sufiks -⟪तव्य⟫ / -⟪तव्या⟫ dodaje se na korijene i izvedene glagolske osnove (npr. kauzativ) na isti način kao i infinitivni sufiks -⟪तुम्⟫ (v. [Lekciju 23](lektion23.md)), tj.:**
 
 * **hochstufige Wurzel + ⟪तव्य⟫**
 
@@ -113,7 +113,7 @@ oder
 
 **U kauzativu:**
 
-* **Kauzativna osnova na -ay + -i- + ⟪तव्य⟫** (Kielhorn)
+* **Kauzativna osnova na -ay + -i- + ⟪तव्य⟫**
 
 :::
 
@@ -137,9 +137,9 @@ Beispiele:
 
 Hochstufige Wurzel + -⟪अनीय⟫ / -⟪अनीया⟫
 
-**Kauzativ i 10. prezentski razred:** (Kielhorn)
+**Kauzativ i 10. prezentski razred:**
 
-Korijen u obliku kauzativne osnove, bez -aya- + -⟪अनीय⟫ / -⟪अनीया⟫ (Kielhorn)
+Korijen u obliku kauzativne osnove, bez -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
 
 :::
 
@@ -348,21 +348,21 @@ Examples:
 
 ::: grammar-box
 
-Gerundiv se može rabiti atributno: (Kielhorn)
+Gerundiv se može rabiti atributno:
 
 :::
 
 ::: indent
 
-**⟪दर्शनीयं नगरम्⟫** = "grad koji se mora vidjeti; grad vrijedan gledanja" (Kielhorn)
+**⟪दर्शनीयं नगरम्⟫** = "grad koji se mora vidjeti; grad vrijedan gledanja"
 
 :::
 
-Gerundiv se može rabiti i kao predikatno ime u rečenicama s pasivnom konstrukcijom koje izražavaju obvezu ili zapovijed (s ⟪न⟫ zabranu, nemogućnost): (Kielhorn)
+Gerundiv se može rabiti i kao predikatno ime u rečenicama s pasivnom konstrukcijom koje izražavaju obvezu ili zapovijed (s ⟪न⟫ zabranu, nemogućnost):
 
 ::: indent
 
-**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Dvaputrođeni moraju vidjeti Varanasi" (Kielhorn)
+**⟪काशी द्विजैर्द्रष्टव्या⟫** = "Dvaputrođeni moraju vidjeti Varanasi"
 
 :::
 
@@ -375,22 +375,22 @@ Slika: ⟪दर्शनीयं नगरं काशी⟫
 
 :::
 
-### 41.2.4. Razlike u upotrebi gerundivnih sufiksa (Kielhorn)
+### 41.2.4. Razlike u upotrebi gerundivnih sufiksa
 
 ::: grammar-box
 
-Upotreba ovih sufiksa u velikoj se mjeri preklapa: (Kielhorn)
+Upotreba ovih sufiksa u velikoj se mjeri preklapa:
 
-* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** uvijek izražava nužnost i preferirano se rabi predikatno (rjeđe atributno). Tvorbe s ovim sufiksom ne bi se smjele rabiti u imenskim složenicama. (Kielhorn)
-* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) i -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (umjesto -⟪य⟫/-⟪या⟫):** mogu imati šire značenje u smislu vrijednosti (npr. "vrijedan gledanja") ili puke mogućnosti (⟪दृश्य⟫ "vidljiv"). Tvorbe s ovim sufiksima mogu se negirati s ⟪अ⟫-/-⟪अन्⟫- i javljaju se kao zadnji član ⟪तत्पुरुष⟫ složenica. (Kielhorn)
+* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** uvijek izražava nužnost i preferirano se rabi predikatno (rjeđe atributno). Tvorbe s ovim sufiksom ne bi se smjele rabiti u imenskim složenicama.
+* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) i -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (umjesto -⟪य⟫/-⟪या⟫):** mogu imati šire značenje u smislu vrijednosti (npr. "vrijedan gledanja") ili puke mogućnosti (⟪दृश्य⟫ "vidljiv"). Tvorbe s ovim sufiksima mogu se negirati s ⟪अ⟫-/-⟪अन्⟫- i javljaju se kao zadnji član ⟪तत्पुरुष⟫ složenica.
 
 :::
 
-### 41.2.5. Bez spajanja sa ⟪सु⟫- i ⟪दुस्⟫- (Kielhorn)
+### 41.2.5. Bez spajanja sa ⟪सु⟫- i ⟪दुस्⟫-
 
 ::: grammar-box
 
-S prefiksima ⟪सु⟫- i ⟪दुस्⟫- u značenju "lako" odn. "teško" gerundivi se ne smiju spajati. Umjesto njih stoje ⟪तत्पुरुष⟫ složenice tipa ⟪सुकर⟫ 3 ("lako za učiniti") (v. [Lekciju 18](lektion18.md)). (Kielhorn)
+S prefiksima ⟪सु⟫- i ⟪दुस्⟫- u značenju "lako" odn. "teško" gerundivi se ne smiju spajati. Umjesto njih stoje ⟪तत्पुरुष⟫ složenice tipa ⟪सुकर⟫ 3 ("lako za učiniti") (v. [Lekciju 18](lektion18.md)).
 
 :::
 

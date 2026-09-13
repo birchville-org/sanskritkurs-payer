@@ -216,40 +216,40 @@ Example:
 ::: grammar-box
 **Bildungstyp 4: Wurzel + -paya-**
 
-**Kod korijena na -ā i nekih drugih korijena:** (Kielhorn)
+**Kod korijena na -ā i nekih drugih korijena:**
 :::
 Examples:
 
 | Korijen | Kauzativ 3. jd. indikativ prezenta | Značenje |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | učiniti da stoji, postaviti |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(od: adhi+ā-paya-ti):br(za objašnjenje vidi Thumb-Hauschildt sv. I,2 str. 341) (Kielhorn) | dati studirati, poučavati |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(od: adhi+ā-paya-ti):br(za objašnjenje vidi Thumb-Hauschildt sv. I,2 str. 341) | dati studirati, poučavati |
 
 ::: grammar-box
-**Nepravilne tvorbe:** (Kielhorn)
+**Nepravilne tvorbe:**
 
-**Domaći gramatičari smatraju sljedeće oblike kauzativima:** (Kielhorn)
+**Domaći gramatičari smatraju sljedeće oblike kauzativima:**
 
 **han** : kauz. **ghātayati**¹ "dati pogubiti, dati ubiti"
 **pā** 2 "čuvati": **pālayati**² "prenijeti, spasiti, štititi"
 :::
-Napomene: (Kielhorn)
-1. **ghātayati** je u stvarnosti glagol izveden iz imenice **ghāta** m. "udarac" (denominativ) i koristi se umjesto kauzativa od **han**. (Kielhorn)
-2. **pālayati** je pravi kauzativ, ali od korijena **pṛ** 3 "prenijeti, spasiti, štititi": **pārayati** (pār-aya-ti) » **pālayati** (u nekim krajevima Indije glasu r odgovara l, u drugima obrnuto glasu l odgovara r). (Kielhorn)
+Napomene:
+1. **ghātayati** je u stvarnosti glagol izveden iz imenice **ghāta** m. "udarac" (denominativ) i koristi se umjesto kauzativa od **han**.
+2. **pālayati** je pravi kauzativ, ali od korijena **pṛ** 3 "prenijeti, spasiti, štititi": **pārayati** (pār-aya-ti) » **pālayati** (u nekim krajevima Indije glasu r odgovara l, u drugima obrnuto glasu l odgovara r).
 
 
-## 28.4. Tvorba pasiva (⟪यक्⟫) kauzativa (Kielhorn)
+## 28.4. Tvorba pasiva (⟪यक्⟫) kauzativa
 
 ::: grammar-box
-**Pasiv kauzativa tvori se ovako:** (Kielhorn)
+**Pasiv kauzativa tvori se ovako:**
 
-**Kauzativna osnova BEZ -aya- + pasivni sufiks -ya-** (Kielhorn)
+**Kauzativna osnova BEZ -aya- + pasivni sufiks -ya-**
 
 Primjeri:
 **bhāvyate** (bhāv-ya-te) "proizvodi se, biva stvoreno"
 **sthāpyate** (sthāp-ya-te) "postavlja se"
 :::
-Dok se pasiv izvornog korijena obično tvori od korijena u slabom stupnju, pasiv kauzativa obično se prepoznaje po tome što se tvori od korijena u punom odnosno produženom stupnju. (Kielhorn)
+Dok se pasiv izvornog korijena obično tvori od korijena u slabom stupnju, pasiv kauzativa obično se prepoznaje po tome što se tvori od korijena u punom odnosno produženom stupnju.
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
 

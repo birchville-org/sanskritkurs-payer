@@ -81,7 +81,7 @@ In order to be liberated, the wise wish to attain liberating insight.
 The gods are angry with these Brahmins who did not pay them homage.
 
 ⟪९⟫. **⟪मरणाय जना जायन्ते ॥९॥⟫**
-Da bi umrla, živa bića se rađaju. (Kielhorn)
+Da bi umrla, živa bića se rađaju.
 
 ::: media
 
@@ -96,48 +96,48 @@ Fig.: ⟪मरणाय जना जायन्ते⟫
 
 ## Syntaktische Variationen
 
-C) U rečenicama B) 1–4 zamijenite dative infinitivima (⟪तुमुन्⟫): (Kielhorn)
+C) U rečenicama B) 1–4 zamijenite dative infinitivima (⟪तुमुन्⟫):
 
 ⟪१⟫. ⟪ब्राह्मणो देवप्रतिमां द्रष्टुं गर्भगृहं विशति ॥ २⟫. ⟪नरा धनं लब्धुं व्रतानि चरन्ति ॥ ३⟫. ⟪गुरुर्धर्ममुपदेष्टुं नगरं गतः ॥ ४⟫. ⟪बाला अपि गुरुवचनं श्रोतुं नगरं गताः ॥⟫
 
-D) U rečenici B) 7 zamijenite konstrukciju s **-⟪अर्थ⟫** dativom: (Kielhorn)
+D) U rečenici B) 7 zamijenite konstrukciju s **-⟪अर्थ⟫** dativom:
 **⟪मोक्षाय बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥⟫**
 
-E) U rečenici B) 6 zamijenite dativ konstrukcijom s **-⟪अर्थ⟫**: (Kielhorn)
+E) U rečenici B) 6 zamijenite dativ konstrukcijom s **-⟪अर्थ⟫**:
 **⟪स्वर्गार्थं⟫ (ili: ⟪स्वर्गार्थाय⟫ / ⟪स्वर्गार्थेन⟫) ⟪नराः पुण्यं कर्तुमिच्छन्ति ॥⟫**
 
 ---
 
 ## Zusätzliche Übersetzungsübungen
 
-1\. Božica kojoj se nije prinijela žrtva ljuti se na ljude. (Kielhorn)
+1\. Božica kojoj se nije prinijela žrtva ljuti se na ljude.
 **⟪अनिष्टदेवी नरेभ्यः क्रुध्यति ।⟫ (ili: ⟪कुप्यति ॥⟫)**
 
 2\. On pušta kravu u selo.
 **⟪ग्रामाय धेनुं मुञ्चति ॥⟫**
 
-3\. Sad je dosta! (Dosta sa strpljenjem!) (Kielhorn)
+3\. Sad je dosta! (Dosta sa strpljenjem!)
 **⟪अलं क्षमया ॥⟫**
 
-4\. To je dobro za brahmana. (Kielhorn)
+4\. To je dobro za brahmana.
 **⟪एतद्ब्राह्मणाय सुखम् ।⟫ (ili: ⟪हितम् ॥⟫)**
 
 5\. Verehrung sei Śiva! Verehrung sei Śrī Gaṇeśa!
 **⟪शिवाय नमः । श्रीगणेशाय नमः ॥⟫**
 
-6\. Doviđenja! (Svako dobro Vam!) (Kielhorn)
+6\. Doviđenja! (Svako dobro Vam!)
 **⟪स्वस्ति भवते ।⟫ (ili: ⟪भवद्भ्यः⟫ / ⟪भवत्यै⟫ / ⟪भवतीभ्यः ॥⟫)**
 
 7\. Diese Frucht reicht zum Essen.
 **⟪इदं फलं अलं खादनाय ॥⟫**
 
-8\. Borac je dorastao (drugom) borcu. (Kielhorn)
+8\. Borac je dorastao (drugom) borcu.
 **⟪शक्तो योधो योधाय ॥⟫**
 
 9\. Čak ni Viṣṇu ne nadmašuje Śivu.
 **⟪विष्णुरपि शिवाय न प्रभवति ॥⟫**
 
-10\. Nakon što sam se poklonio trima mudracima... On se klanja pred Narasiṃhom. (Kielhorn)
+10\. Nakon što sam se poklonio trima mudracima... On se klanja pred Narasiṃhom.
 **⟪मुनित्रयं नमस्कृत्य⟫... ⟪। नरसिंहाय नमस्करोति ॥⟫**
 
 13\. He does not regard him as a blade of grass.

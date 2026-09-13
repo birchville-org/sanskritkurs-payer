@@ -129,37 +129,37 @@ Abb.: ⟪अनुक्रमेणैकशः⟫
 Red ispred hrama, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Izvor slike: [Details](/sh/licenses#lekt5204))
 :::
-## 52.4. Glagolske složenice koje izražavaju da nešto postaje ili se čini onim što prije nije bilo (⟪अभूततद्भावः⟫) (Kielhorn)
+## 52.4. Glagolske složenice koje izražavaju da nešto postaje ili se čini onim što prije nije bilo (⟪अभूततद्भावः⟫)
 
-### 52.4.1. cvi-tvorbe (Kielhorn)
+### 52.4.1. cvi-tvorbe
 
 ::: grammar-box
-**Ispred korijena (Kielhorn):**
+**Ispred korijena:**
 
 *   **⟪कृ⟫ 8U "činiti"**
 *   **⟪अस्⟫ 2P "biti"**
 *   **⟪भू⟫ 1P "postati"**
 
-**Imenice i pridjevi mogu se postaviti kao preverbi kako bi se izrazilo da netko čini osobu ili stvar onim, ili da osoba ili stvar postaje ono, što je tom imenskom riječi označeno. (Kielhorn)**
+**Imenice i pridjevi mogu se postaviti kao preverbi kako bi se izrazilo da netko čini osobu ili stvar onim, ili da osoba ili stvar postaje ono, što je tom imenskom riječi označeno.**
 
-**Završetak imenske riječi tretira se na sljedeći način: (Kielhorn)**
+**Završetak imenske riječi tretira se na sljedeći način:**
 
-*   **završno -a i -ā promjenjivih riječi zamjenjuje se s -ī (Kielhorn)**
+*   **završno -a i -ā promjenjivih riječi zamjenjuje se s -ī**
 Primjeri:
 ⟪कृष्णीभवति⟫ "nešto što nije crno postaje crno"  
 ⟪कृष्णीकरोti⟫ "čini crnim nešto što nije crno"  
 ⟪गङ्गीभवति⟫ "on/ona postaje poput Gangesa"  
 
-*   **završno -i i -u zamjenjuje se odgovarajućim dugim samoglasnikom (Kielhorn)**
+*   **završno -i i -u zamjenjuje se odgovarajućim dugim samoglasnikom**
 Primjeri:
 ⟪शुचीभवति⟫ "on/ona/ono postaje čisto"  
 ⟪गुरूभवामि⟫ "postajem učitelj"  
 
-*   **završno -ṛ zamjenjuje se s -rī (Kielhorn)**
-npr. ⟪पित्रीभवति⟫ "onaj koji nije otac (⟪पितृ⟫) postaje otac = čovjek dobiva svoje prvo dijete" (Kielhorn)
+*   **završno -ṛ zamjenjuje se s -rī**
+npr. ⟪पित्रीभवति⟫ "onaj koji nije otac (⟪पितृ⟫) postaje otac = čovjek dobiva svoje prvo dijete"
 
-*   **završno -n otpada, a prethodni samoglasnik tretira se prema upravo navedenim pravilima (Kielhorn)**
-npr. ⟪राजीबभूव⟫ "onaj (koji nije bio kralj) postade kralj (⟪राजन्⟫)" (Kielhorn)
+*   **završno -n otpada, a prethodni samoglasnik tretira se prema upravo navedenim pravilima**
+npr. ⟪राजीबभूव⟫ "onaj (koji nije bio kralj) postade kralj (⟪राजन्⟫)"
 
 *   **Other multi-stemmed nouns appear in the stem form they have in the locative (⟪सप्तमी⟫) plural. The stem then undergoes the usual sandhi rules. See Kielhorn, Grammar § 489,3.**
 e.g. ⟪तिर्यक्करोति⟫ "he places sideways (⟪तिर्यच्⟫)"
@@ -215,20 +215,20 @@ Example:
 ::: indent
 ⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
-## 52.5. Ponavljanje riječi (⟪द्विरुक्तम्⟫) (Kielhorn)
+## 52.5. Ponavljanje riječi (⟪द्विरुक्तम्⟫)
 
 ::: grammar-box
-**Ponavljanje riječi u sanskrtu izražava:** (Kielhorn)
+**Ponavljanje riječi u sanskrtu izražava:**
 
-*   **Ponavljanje radnje** (Kielhorn)  
+*   **Ponavljanje radnje**  
 npr. ⟪पुनः पुनः⟫ "uvijek iznova"
-*   **Distribuciju** (Kielhorn)  
+*   **Distribuciju**  
 Primjeri:
 ⟪पृथक्पृथक्⟫ "svaki zasebno, pojedinačno"  
 ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "što god ... to sve"  
 ⟪युगे युगे⟫ "u svakom pojedinom svjetskom razdoblju"
 
-**Povremeno se iz takvih spojeva može stvoriti složenica (Kielhorn)**
+**Povremeno se iz takvih spojeva može stvoriti složenica**
 
 :::
 Primjeri:
@@ -238,22 +238,22 @@ Primjeri:
 ⟪अल्पाल्प⟫ 3 "sasvim malen"
 ⟪नवनव⟫ 3 "uvijek nov"
 :::
-O takozvanim ⟪आम्रेडित⟫-složenicama, u kojima se sklonjene riječi ponavljaju, vidi Wackernagel, Altindische Grammatik II,1 str. 142ff. (Kielhorn)
-## 52.6. Brojevi (⟪सम्ख्या⟫ f.) (Kielhorn)
+O takozvanim ⟪आम्रेडित⟫-složenicama, u kojima se sklonjene riječi ponavljaju, vidi Wackernagel, Altindische Grammatik II,1 str. 142ff.
+## 52.6. Brojevi (⟪सम्ख्या⟫ f.)
 
 O onome što ovdje nije obrađeno vidi npr. Kielhorn, Grammatik §201f.
 
-### 52.6.1. Glavni brojevi (Kielhorn)
+### 52.6.1. Glavni brojevi
 
-#### 52.6.1.1. Brojevni pridjevi (za 1 do 19) (Kielhorn)
+#### 52.6.1.1. Brojevni pridjevi (za 1 do 19)
 
 ::: grammar-box
-**Brojevi od 1 do 19 su pridjevi.** (Kielhorn)
-**Brojevi od 1 do 4 različito se sklanjaju za tri roda.** (Kielhorn)
+**Brojevi od 1 do 19 su pridjevi.**
+**Brojevi od 1 do 4 različito se sklanjaju za tri roda.**
 
-**Za brojeve od 5 do 19 (:sig[⟪नवदशन्⟫]) postoji samo jedna jedinstvena sklonidba za sva tri roda.** (Kielhorn)
+**Za brojeve od 5 do 19 (:sig[⟪नवदशन्⟫]) postoji samo jedna jedinstvena sklonidba za sva tri roda.**
 
-**Za ove brojevne pridjeve vrijedi kao i za sve pridjeve: moraju se slagati u padežu, broju i rodu s pripadajućom imenicom i obrnuto (tj. za 1 jednina, za 2 dvojina, za ostale množina).** (Kielhorn)
+**Za ove brojevne pridjeve vrijedi kao i za sve pridjeve: moraju se slagati u padežu, broju i rodu s pripadajućom imenicom i obrnuto (tj. za 1 jednina, za 2 dvojina, za ostale množina).**
 :::
 Numeral adjectives:
 

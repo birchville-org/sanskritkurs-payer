@@ -78,39 +78,39 @@ Pavyzdžiai:
 
 ::: grammar-box
 
-**Bildung:**
+**Daryba:**
 
 **stiprusis kamienas:**
 *   3./1 vns. P perfekto baigiasi -au
 *   2 vns. P : aukštasis laipsnis -ā arba žemasis laipsnis -i
 
-**schwacher Stamm:**
-*   before consonant: Low grade -i
-*   before vowel: Low grade Ø
+**silpnasis kamienas:**
+*   prieš priebalsį: žemasis laipsnis -i
+*   prieš balsį: žemasis laipsnis Ø
 
 Sudaryta iš šaknų su -ā / -āi
 
 :::
 
-Example:
+Pavyzdys:
 
 
-| Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Šaknis | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfekto V tipas: šaknys priebalsis-a-priebalsis
 
 ::: grammar-box
 
-**Bildung:**
+**Daryba:**
 
-**starker Stamm:**
-*   3.sg.P: Extended grade
-*   2.sg.P: High grade
-*   1.sg.P: optionally High grade or Extended grade
+**stiprusis kamienas:**
+*   3.sg.P: ilginimo laipsnis
+*   2.sg.P: aukštasis laipsnis
+*   1.sg.P: pasirinktinai aukštasis arba ilginimo laipsnis
 
-**schwacher Stamm:** siehe Untertypen
+**silpnasis kamienas:** žr. potipius
 
 Sudaryta iš šaknų tipo (priebalsis)-priebalsis-a-priebalsis
 
@@ -120,7 +120,7 @@ Sudaryta iš šaknų tipo (priebalsis)-priebalsis-a-priebalsis
 
 ::: grammar-box
 
-**Bildung:**
+**Daryba:**
 
 :::
 
@@ -137,10 +137,10 @@ Sudaryta be kita ko iš šių šaknų:
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Examples:
+Pavyzdžiai:
 
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Šaknis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
@@ -149,11 +149,11 @@ Examples:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | ⟪ऊदे⟫ | ⟪ऊदिरे⟫ |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. Perfekto Vb tipas: silpnasis kamienas, sutraukimas (e-tipas)
 
 ::: grammar-box
 
-**Bildung:**
+**Daryba:**
 
 :::
 
@@ -165,19 +165,19 @@ Examples:
 :::
 
 Sudaryta iš šaknų su -a- tarp dviejų paprastų priebalsių, kurių pradinis priebalsis nesikeičia reduplikacijos skiemenyje (t. y. kurių pradinis priebalsis nėra gomurinis, aspirata ar h).
-Example:
+Pavyzdys:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Šaknis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak stem High grade
+### 35.3.3. Perfekto Vc tipas: šaknys priebalsis-a-priebalsis. Silpnasis kamienas, aukštasis laipsnis
 
 ::: grammar-box
 
-**Bildung:**
+**Daryba:**
 
-**weak stem:** High grade
+**silpnasis kamienas:** aukštasis laipsnis
 
 Sudaryta iš visų kitų šaknų su viduriniu -a-, t. y. šaknų su viduriniu -a-:
 *   kurios prasideda dviem priebalsiais
@@ -189,15 +189,15 @@ jei jos nepriklauso perfekto Va tipui.
 
 :::
 
-Example:
+Pavyzdys:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Šaknis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. Žodynėlis
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+⟪नश्⟫ 4P ⟪नश्यति⟫ : pražūti, sunykti, dingti
 
 ::: indent
 
@@ -208,9 +208,9 @@ Example:
 
 :::
 
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫ : dingti, pražūti, sunykti
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : to stride, to go
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : žengti, eiti
 
 ::: indent
 
@@ -228,13 +228,13 @@ Example:
 
 ![](/images/lekt3502.webp)
 
-Fig.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Image source: [Details](/lt/licenses#lekt3502))
+Pav.: ⟪क्रामन्ति⟫
+Einantys žmonės, Senegalas.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3502))
 
 :::
 
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): dainuoti, giedoti, deklamuoti giedamu tonu
 
 ::: indent
 
@@ -245,8 +245,8 @@ People walking, Senegal.
 **PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-thereof:
-**⟪गीता⟫ f.:** song, chant
+iš to:
+**⟪गीता⟫ f.:** daina, giesmė
 
 :::
 
@@ -254,15 +254,15 @@ thereof:
 
 ![](/images/lekt3501.webp)
 
-Fig.: ⟪जगुः⟫
-Temple musicians Kaadu Malleswara Temple Bangalore.
-(Image source: [Details](/lt/licenses#lekt3501))
+Pav.: ⟪जगुः⟫
+Šventyklos muzikantai, Kaadu Malleswara šventykla, Bengalūras.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3501))
 
 :::
 
 ## 35.5. Pratimas
 
-A) Form the corresponding perfect forms for the following verb forms:
+A) Sudarykite atitinkamas perfekto formas šioms veiksmažodžių formoms:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -278,7 +278,7 @@ A) Form the corresponding perfect forms for the following verb forms:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ irregular, according to Type Vb!
+15. ⟪भजन्ति⟫ netaisyklinga, pagal Vb tipą!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -298,9 +298,9 @@ A) Form the corresponding perfect forms for the following verb forms:
 
 ![](/images/lekt3503.webp)
 
-Fig.: ⟪मिमति⟫
-Market in Vadaseri, Tamil Nadu.
-(Image source: [Details](/lt/licenses#lekt3503))
+Pav.: ⟪मिमति⟫
+Turgus Vadaseryje, Tamilnadas.
+(Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3503))
 
 :::
 
@@ -317,7 +317,7 @@ Market in Vadaseri, Tamil Nadu.
 40. ⟪जुह्वति⟫
 41. ⟪अहरत्⟫
 
-B) Išverkite:
+B) Išverskite:
 
 ⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
@@ -326,7 +326,7 @@ B) Išverkite:
 ![](/images/lekt3504.webp)
 
 Pav.: ... ⟪ब्राह्मणाश्चेजुः⟫
-Yajña ceremony, Shiva ashram, Ganeshpuri.
+Yajña ceremonija, Šivos ašramas, Ganešpuris.
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt3504))
 
 :::

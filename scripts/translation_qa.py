@@ -76,8 +76,15 @@ COMMON_DE_WORDS = {
 CITATION_PATTERNS = [
     "Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams",
     "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf",
-    "Weber, Max", "Tübingen", "Tüpfli", "Bussmann", "Payer, Alois", "Hoffmann, Karl"
+    "Weber, Max", "Tübingen", "Tüpfli", "Bussmann", "Payer, Alois", "Hoffmann, Karl",
+    "Walker's mammals", "Sardonyx seal", "Creative Commons", "Accessed on"
 ]
+
+COMMON_EN_WORDS = {
+    "the", "that", "this", "these", "those", "with", "from", "which",
+    "they", "their", "have", "been", "were", "without", "under",
+    "before", "between", "your"
+}
 
 def clean_markdown_for_lid(txt):
     """Clean markdown formatting, frontmatter, and metadata before language detection."""
@@ -101,6 +108,7 @@ def clean_markdown_for_lid(txt):
         txt_no_yaml = "\n\n".join(yaml_vals) + "\n\n" + txt_no_yaml
         
     txt_no_meta = re.sub(r':::\s*deleteme-box\b.*', '', txt_no_yaml, flags=re.DOTALL)
+    txt_no_meta = re.sub(r':::\s*media\b.*?:::', '', txt_no_meta, flags=re.DOTALL)
     clean_txt = re.sub(r'^>+\s*', '', txt_no_meta, flags=re.MULTILINE)
     clean_txt = re.sub(r'[\u0900-\u097F]+', '', clean_txt)     # Remove Devanagari
     clean_txt = re.sub(r'⟪.*?⟫', '', clean_txt)              # Remove Sanskrit brackets
@@ -241,12 +249,28 @@ def check_has_de_phrases(txt, code, fast=False):
                 except Exception:
                     pass
 
+            # Require English check for languages where English is not allowed as fallback
+            if code not in DE_FALLBACK_ALLOWED and code not in ["en", "rm"]:
+                en_words = set(re.findall(r'\b[a-z]+\b', p.lower()))
+                en_hits = en_words.intersection(COMMON_EN_WORDS)
+                if code in ('no', 'da', 'sv', 'nl', 'af'):
+                    en_hits = en_hits - {'under', 'for'}
+                if len(en_hits) >= 1:
+                    try:
+                        lang_detected = detector.detect_language_of(p)
+                        if lang_detected == Language.ENGLISH:
+                            if any(cit in p for cit in CITATION_PATTERNS):
+                                continue
+                            return True
+                    except Exception:
+                        pass
+
     return False
 
 def verify_qa_integrity():
     """
     Self-verifying smoke test / plausibility gate.
-    Asserts that the detector is active and catches synthetic German text.
+    Asserts that the detector is active and catches synthetic German text and English text.
     Fails closed if the detector is broken or silently disabled.
     """
     test_de_text = "Dies ist ein deutscher Beispielsatz zum Einritzen in Palmblätter, der zweifelsfrei erkannt werden muss."
@@ -255,6 +279,12 @@ def verify_qa_integrity():
             raise RuntimeError(
                 f"[CRITICAL QA INTEGRITY FAILURE] German remnant detector is NOT operational for '{test_lang}'! "
                 f"Lingua language detector must be installed and functioning."
+            )
+    test_en_text = "Determine and translate the following forms and provide the root."
+    for test_lang in ['lt', 'pl', 'cs']:
+        if not check_has_de_phrases(test_en_text, test_lang):
+            raise RuntimeError(
+                f"[CRITICAL QA INTEGRITY FAILURE] English remnant detector is NOT operational for '{test_lang}'! "
             )
     return True
 
@@ -339,11 +369,11 @@ def is_file_fallback(filepath, code):
 
     # 3b. English & German Heading / Metadata Fallback Check
     if code != "en":
-        if re.search(r'^(?:#+\s+(?:Lesson\s+\d+|Exercise\s+\d+|Vocabulary\s+List\b|Review\s+Exercise\b|(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|\d+\.?)\s+Present\s+Class\b|Root\s+Aorist\b|Reduplicated\s+Aorist\b)|title:\s*["\'](?:Lesson|Exercise)\s+\d+)', txt, re.M | re.I):
+        if re.search(r'^(?:#+\s+(?:[A-Z]\)\s+)?(?:\d+\.\d+\.?\s+)?(?:Lesson\s+\d+|Exercise\s+\d+|Vocabulary(?:\s+List)?\b|Review\s+Exercise\b|Word\s+Forms\b|Verb\s+Forms(?:\s+Exercise)?\b|Translation\s+Exercise\b|Reading\s+Exercise\b|Writing\s+Exercise\b|(?:First|Second|Third|Fourth|Fifth|Sixth|Seventh|Eighth|Ninth|Tenth|\d+\.?)\s+Present\s+Class\b|Root\s+Aorist\b|Reduplicated\s+Aorist\b)|title:\s*["\'](?:Lesson|Exercise)\s+\d+)', txt, re.M | re.I):
             return True, "Contains untranslated English headings or title metadata"
 
     if code != "de":
-        if re.search(r'^#+\s+(?:\d+\.\d+\.?\s+)?(?:Wortliste|Übung(?:\s+\d+)?|Wurzelaorist|(?:Erste|Zweite|Dritte|Vierte|Fünfte|Sechste|Siebte|Achte|Neunte|Zehnte|\d+\.?)\s+Präsensklasse|Reduplizierter\s+Aorist)\b', txt, re.M | re.I):
+        if re.search(r'^#+\s+(?:[A-Z]\)\s+)?(?:\d+\.\d+\.?\s+)?(?:Wortliste|Übung(?:\s+\d+)?|Wortformen|Wortbestimmungen|Verbformen|Wiederholungsübung|Schreibübung|Leseübung|Übersetzungsübung|Wurzelaorist|(?:Erste|Zweite|Dritte|Vierte|Fünfte|Sechste|Siebte|Achte|Neunte|Zehnte|\d+\.?)\s+Präsensklasse|Reduplizierter\s+Aorist)\b', txt, re.M | re.I):
             return True, "Contains untranslated German headings"
 
     # 3c. Verb-definition script check for non-Latin languages
