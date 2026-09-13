@@ -217,7 +217,7 @@ Lég. : S'agissait-il de la plante du Soma védique ??: Amanite tue-mouches : *A
 **phala** n. ⟪फल⟫ : fruit (aussi au sens figuré : fruit (karmique) d'une action)
 **nṛtya** n. ⟪नृत्य⟫ : danse
 **svarga** m. ⟪स्वर्ग⟫ : ciel
-**naraka** m. ⟪नरक⟫ : enfer (selon une conception hindoue, l'univers a la forme d'un œuf (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Œuf de Brahmā") : au-dessus de la terre se trouvent six cieux avec un bonheur croissant, en dessous de la terre se trouvent sept所谓的 **pātāla** n. = ⟪पाताल⟫, demeures des **nāga** m. = ⟪नाग⟫ (serpents) et d'autres êtres mythiques, parmi lesquels se trouvent sept enfers avec des tourments croissants)
+**naraka** m. ⟪नरक⟫ : enfer (selon une conception hindoue, l'univers a la forme d'un œuf (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Œuf de Brahmā") : au-dessus de la terre se trouvent six cieux avec un bonheur croissant, en dessous de la terre se trouvent sept **pātāla** n. = ⟪पाताल⟫, demeures des **nāga** m. = ⟪नाग⟫ (serpents) et d'autres êtres mythiques, parmi lesquels se trouvent sept enfers avec des tourments croissants)
 **aṅga** n. ⟪अङ्ग⟫ : membre du corps, composant ; aussi = **vedāṅga** = ⟪वेदाङ्ग⟫
 **gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : aller (Selon la classification indigène des classes verbales, il appartient à la classe de présent 1, mais en réalité c'est une formation avec un suffixe de formation de radical de présent **-ccha-** : **gam** » degré faible (**gm** ») **ga-ccha-ti**)
 

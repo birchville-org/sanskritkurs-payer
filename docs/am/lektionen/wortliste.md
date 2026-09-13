@@ -3727,7 +3727,7 @@ PPP ⟪हृषित⟫
 
 ⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
 
-## Lektion 37
+## ትምህርት 37
 
 
 

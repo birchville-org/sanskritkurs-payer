@@ -10,16 +10,16 @@ hero:
       text: "பாடத்தைத் தொடங்கு"
       link: /ta/lektionen/lektion01
     - theme: alt
-      text: "Grammatik Themen"
+      text: "இலக்கண தலைப்புகள்"
       link: /ta/grammatik
 
 features:
-  - title: "Global & Polyglot"
-    details: "Vollständig verfügbar in 20+ Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade."
-  - title: "Offline-First PWA"
-    details: "Der gesamte Kurs (inklusive lokaler Suchmaschine) ist ohne aktive Internetverbindung auf allen Endgeräten nutzbar."
-  - title: "Scholarly Typography"
-    details: "Nativer Support für Devanāgarī und IAST-Transliteration mit exakter akademischer Textausrichtung."
+  - title: "உலகளாவிய மற்றும் பன்மொழி"
+    details: "தானியங்கி, பல அடுக்கு AI மொழிபெயர்ப்பு முறை மூலம் 20+ மொழிகளில் முழுமையாகக் கிடைக்கிறது."
+  - title: "ஆஃப்லைன்-முதன்மை PWA"
+    details: "முழுப் பாடநெறியும் (உள்ளூர் தேடுபொறி உட்பட) செயலில் உள்ள இணைய இணைப்பு இல்லாமல் அனைத்து சாதனங்களிலும் பயன்படுத்தக்கூடியது."
+  - title: "கல்விசார் அச்சுக்கலை"
+    details: "துல்லியமான கல்விசார் உரை அமைப்போடு தேவநாகரி மற்றும் IAST ஒலிபெயர்ப்பிற்கான இயல்பான ஆதரவு."
 
 ---
 

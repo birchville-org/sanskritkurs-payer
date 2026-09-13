@@ -192,7 +192,7 @@ status: stable
 :::
 **⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : መጥፋት፣ ማጣት፣ መጥፋት
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ ፦ መራመድ፣ መሄድ
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
@@ -226,7 +226,7 @@ Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (የምስል ምንጭ: [Details](/am/licenses#lekt3501))
 :::
-## 35.5. Übung
+## 35.5. መልመጃ
 
 A) ለሚከተሉት የግሥ ቅርጾች ተጓዳኝ ፍፁም (Perfekt) ቅርጾችን ይፍጠሩ (Kielhorn)፦
 

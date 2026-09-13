@@ -300,7 +300,7 @@ status: stable
 
 :::
 
-## 21.4. Wortliste
+## 21.4. የቃላት ዝርዝር
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
