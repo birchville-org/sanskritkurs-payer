@@ -9,7 +9,7 @@ title: "Indstillinger"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Aktuelle version**: `v1.8.6`
-**Udgivelsesnoter og ændringslog**: [Hvad er nyt i v1.8.6?](/da/release-notes)
+**Aktuelle version**: `v1.8.7`
+**Udgivelsesnoter og ændringslog**: [Hvad er nyt i v1.8.7?](/da/release-notes)
 **Kildekode og repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -8,6 +8,29 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.7 (September 2026)
+
+**Focus:** *English Residue Detection Gate, Language Switcher UX & Dropdown Scrolling, Polytonic Greek Typography & Multi-Locale Convergence*
+
+### ✨ Features & Highlights
+- **Universal English Residue QA Gate**:
+  - Extended `scripts/translation_qa.py` with Lingua-based statistical language detection and stopword verification for residual English content in all languages where English is not an allowed fallback.
+  - Added robust regex patterns targeting unlocalized exercise headers (`Word Forms`, `Verb Forms`, `Translation Exercise`, `Reading Exercise`, `Writing Exercise`) with optional alphabetic section prefixes.
+  - Implemented automatic media container stripping (`::: media ... :::`) in LID pre-processing to eliminate false alarms from English attribution/Flickr citations.
+- **Language Switcher UX & Dropdown Scrolling**:
+  - Added scrolling containment (`max-height: min(75vh, 550px)`, `overflow-y: auto`, `overscroll-behavior: contain`) to the language switcher menu, preventing the main page background from scrolling when browsing long locale lists.
+  - Synchronized language switcher options dynamically with active locales configured in Settings (`payer_active_locales`), defaulting to all available languages when unconfigured.
+- **Polytonic Greek Typography Enhancement**:
+  - Configured high-fidelity font stacks prioritizing `EB Garamond` and `Gentium Plus` for Ancient Greek (`grc`) and Modern Greek (`el-GR`), ensuring authentic rendering of polytonic diacritics and eta characters without browser synthetic bold distortion.
+- **Multi-Locale Translation Convergence**:
+  - Healed untranslated exercise headings, instructions, and vocabulary glosses across Lithuanian (`lt`), Serbo-Croatian (`sh`), Slovenian (`sl`), Polish (`pl`), and Portuguese (`pt`).
+  - Fully translated the offline PWA guide into Hebrew (`docs/he/pwa-guide.md`).
+  - Restored broken lesson 51 structures in Lithuanian and cleanly re-assembled `docs/lt/lektionen/wortliste.md`.
+- **Translation Prompt Hardening**:
+  - Updated LLM system instructions in `scripts/translation/client.py` to mandate complete localization of all subheadings and strictly disallow English fallback translations for non-English targets.
+
+---
+
 ## 🚀 Version 1.8.6 (September 2026)
 
 **Focus:** *QA Viewer & Editor Architecture, Navigation Parity across 38 Locales, Staging CI/CD Infrastructure & Nordic Polish*
