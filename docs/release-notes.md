@@ -8,6 +8,23 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.8 (September 2026)
+
+**Focus:** *Multi-Locale Glossary IAST Repair & Generator Hardening, Bulgarian Navigation Polish & Sidebar Deduplication*
+
+### ✨ Features & Highlights
+- **Universal Sanskrit Glossary IAST Column Repair across All 43 Locales**:
+  - Hardened `scripts/gen_glossar.py` to enforce `indic_transliteration` with a fail-fast runtime check, preventing silent degraded executions without transliteration libraries.
+  - Eliminated the fallback bug where missing IAST romanizations dumped raw Devanagari text into the IAST table column (`iast = deva_to_iast(deva) or ""`).
+  - Batch-regenerated all 43 localized glossaries (`docs/*/lektionen/glossar.md`), fixing over 27,000 table rows: every lemma now renders valid IAST romanization linked to the Cologne Monier-Williams Sanskrit-English Dictionary (`https://www.sanskrit-lexicon.uni-koeln.de/...`).
+  - Enhanced configuration handling in `gen_glossar.py` to automatically detect and preserve localized page titles and table column headers across all target languages.
+  - Safeguarded the German master source (`docs/lektionen/glossar.md`) from unintended batch overwrites.
+- **Bulgarian Navigation & Sidebar Deduplication**:
+  - Resolved duplicate menu entries in `docs/.vitepress/locales/bg.mjs` where both the vocabulary list and alphabetical glossary were labeled with the duplicate term for glossary (Rechnik).
+  - Renamed the vocabulary list entry to the canonical phrase for word list (Spisuk na dumite), matching the document heading and eliminating sidebar navigation ambiguity.
+
+---
+
 ## 🚀 Version 1.8.7 (September 2026)
 
 **Focus:** *English Residue Detection Gate, Language Switcher UX & Dropdown Scrolling, Polytonic Greek Typography & Multi-Locale Convergence*

@@ -9,7 +9,7 @@ title: "Nustatymai"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Dabartinė versija**: `v1.8.7`
-**Leidimo pastabos ir pakeitimų žurnalas**: [Kas naujo v1.8.7?](/lt/release-notes)
+**Dabartinė versija**: `v1.8.8`
+**Leidimo pastabos ir pakeitimų žurnalas**: [Kas naujo v1.8.8?](/lt/release-notes)
 **Šaltinio kodas ir saugykla**: [GitHub saugykla](https://github.com/birchville-org/sanskritkurs-payer)
 :::
