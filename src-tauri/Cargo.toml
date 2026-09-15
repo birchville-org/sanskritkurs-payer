@@ -1,0 +1,16 @@
+[package]
+name = "sanskritkurs-payer"
+version = "1.8.8"
+description = "Sanskritkurs — Alois Payer"
+authors = ["Alois Payer"]
+edition = "2021"
+
+[lib]
+name = "sanskritkurs_payer_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }

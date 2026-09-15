@@ -1,0 +1,47 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Sanskritkurs Payer",
+  "version": "1.8.8",
+  "identifier": "org.payer.sanskritkurs",
+  "build": {
+    "beforeDevCommand": "npm run docs:dev",
+    "devUrl": "http://localhost:5173",
+    "beforeBuildCommand": "python3 scripts/prepare_desktop_dist.py",
+    "frontendDist": "../dist_desktop"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Sanskritkurs Payer",
+        "width": 1280,
+        "height": 850,
+        "minWidth": 768,
+        "minHeight": 500,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "windows": {
+      "wix": {
+        "language": ["de-DE", "en-US"]
+      },
+      "nsis": {
+        "languages": ["German", "English"]
+      }
+    }
+  }
+}
