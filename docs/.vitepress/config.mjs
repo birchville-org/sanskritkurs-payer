@@ -97,6 +97,12 @@ populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
 populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
 
 
+const isDesktop = process.env.DESKTOP_BUILD === '1' || process.env.DESKTOP_BUILD === 'true';
+
+const desktopExcludes = [
+  'af/**', 'am/**', 'ar/**', 'bg/**', 'cs/**', 'da/**', 'el/**', 'es/**', 'fa/**', 'fi/**', 'fr/**', 'gez/**', 'grc/**', 'he/**', 'hi/**', 'hu/**', 'hy/**', 'id/**', 'is/**', 'it/**', 'ka/**', 'la/**', 'lt/**', 'nl/**', 'no/**', 'pa/**', 'pl/**', 'pt/**', 'rm/**', 'ro/**', 'ru/**', 'sh/**', 'si/**', 'sk/**', 'sl/**', 'sq/**', 'sv/**', 'ta/**', 'te/**', 'th/**', 'tr/**', 'uk/**', 'vi/**', 'zh/**', 'zh-CN/**'
+];
+
 const localeObjects = {
   de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is
 };
@@ -111,6 +117,7 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
+  srcExclude: isDesktop ? desktopExcludes : [],
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
@@ -124,7 +131,10 @@ export default defineConfig({
     ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
   ],
 
-  locales: {
+  locales: isDesktop ? {
+    root: { ...de },
+    en: { ...en }
+  } : {
     root: { ...de },
     en: { ...en },
     it: { ...it },
@@ -269,8 +279,10 @@ export default defineConfig({
     const path = require('path')
     function copyMdFiles(src, out) {
       if (!fs.existsSync(src)) return
+      const allowedDesktopDirs = new Set(['de', 'en', 'lektionen', 'public', 'qa'])
       for (const e of fs.readdirSync(src, { withFileTypes: true })) {
         if (e.name === '.vitepress' || e.name === 'deleteme') continue
+        if (isDesktop && e.isDirectory() && !allowedDesktopDirs.has(e.name)) continue
         const s = path.join(src, e.name), d = path.join(out, e.name)
         if (e.isDirectory()) copyMdFiles(s, d)
         else if (e.name.endsWith('.md')) {

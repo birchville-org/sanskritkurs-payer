@@ -10,6 +10,7 @@ import sys
 import json
 import shutil
 import re
+import subprocess
 
 OTHER_LANGS = [
     'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar',
@@ -22,6 +23,16 @@ def main():
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     src_dist = os.path.join(base_dir, 'docs', '.vitepress', 'dist')
     dst_dist = os.path.join(base_dir, 'dist_desktop')
+
+    if '--build' in sys.argv or not os.path.isdir(src_dist) or not os.path.isfile(os.path.join(src_dist, 'hashmap.json')):
+        print("Baue VitePress-Dokumentation für Desktop (nur DE + EN)...")
+        env = dict(os.environ)
+        env['DESKTOP_BUILD'] = '1'
+        cmd = 'npx vitepress build docs'
+        res = subprocess.run(cmd, shell=True, cwd=base_dir, env=env)
+        if res.returncode != 0:
+            print(f"FEHLER: VitePress Build fehlgeschlagen mit Exit-Code {res.returncode}", file=sys.stderr)
+            sys.exit(res.returncode)
 
     if not os.path.isdir(src_dist):
         print(f"FEHLER: Quellverzeichnis nicht gefunden: {src_dist}", file=sys.stderr)
