@@ -6,7 +6,10 @@ import os
 import sys
 import time
 import datetime
-import fcntl
+try:
+    import fcntl
+except ImportError:
+    fcntl = None
 import signal
 from .config import LOCK_FILE_PATH, STALE_LOCK_SEC
 
@@ -24,6 +27,9 @@ def is_pid_running(pid):
 
 def acquire_nyx_lock():
     global _nyx_lock_file
+
+    if fcntl is None:
+        return
 
     # Try non-destructive lock check
     try:
@@ -57,7 +63,7 @@ def acquire_nyx_lock():
             sys.stdout.flush()
             if lock_pid > 0 and is_pid_running(lock_pid):
                 try:
-                    os.kill(lock_pid, signal.SIGKILL)
+                    os.kill(lock_pid, getattr(signal, 'SIGKILL', signal.SIGTERM))
                 except Exception:
                     pass
 
