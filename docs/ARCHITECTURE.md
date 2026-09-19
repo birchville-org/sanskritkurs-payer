@@ -28,7 +28,7 @@ flowchart TB
 
     subgraph Nataraja["☸️ Nataraja (Pop!_OS Intel Mac - nataraja.local, 32GB RAM)"]
         GHR["GitHub Self-Hosted Runner (nataraja)"]
-        DOCKER["Docker Staging Web Server\n• Public: Port 8080\n• Author: Port 8081"]
+        DOCKER["Docker Staging Web Server\n• Public: Port 8080"]
         OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer\n• audit_mobile_links.py\n• score_translation_quality.py"]
         EXPORT["PDF & EPUB Exporter\n(export_pdf_epub.py)"]
@@ -70,7 +70,7 @@ flowchart TB
 | :--- | :--- | :--- | :--- |
 | **nike.local** | macOS (Apple Silicon M2, 24GB Unified Memory/VRAM) | • Interactive Pair Programming with Antigravity IDE<br>• Code Editing & Git Control<br>• Translation Runner Trigger (`lan_translate.py`) | Local NVMe (`/Volumes/SanDisk1TB/proj/Payer`) |
 | **nyx.local** | macOS (MacBook Air M4, 32GB Unified Memory/VRAM) | • Dedicated 35B Heavy LLM Mass Translation Server<br>• Zero-Cost Local Inference (~20 tokens/sec) | `http://nyx.local:8000` |
-| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080, Author :8081)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Automated PDF & EPUB Course Book Exporter<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Author Staging: `http://nataraja.local:8081`<br>• Ollama: `http://nataraja.local:11434` |
+| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Automated PDF & EPUB Course Book Exporter<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
 
 ---
 
@@ -86,8 +86,8 @@ flowchart TB
 When code is pushed to `main`:
 1. **GitHub Runner Event**: GitHub triggers `ci.yml` via outbound long-polling to `nataraja`.
 2. **Integrity Validation**: Runs `python3 scripts/pre_push_check.py` to enforce zero-HTML, YAML frontmatter, container boundaries (`::::`), and QA dropdown parity.
-3. **35-Locale Site Generation**: Compiles VitePress for both `public` and `author` environments utilizing 32GB physical RAM on Nataraja.
-4. **Live Staging Containers**: Restarts Nginx containers `payer-staging` (Port 8080) and `payer-author-staging` (Port 8081).
+3. **35-Locale Site Generation**: Compiles VitePress for public environment utilizing 32GB physical RAM on Nataraja.
+4. **Live Staging Container**: Restarts Nginx container `payer-staging` (Port 8080).
 5. **Mobile & Link Audit**: Executes `scripts/audit_mobile_links.py` to verify internal links and PWA manifest integrity.
 6. **Quality Benchmark**: Executes `scripts/score_translation_quality.py` to compute Devanāgarī preservation ratios.
 7. **Auxiliary QA & Remnant Scan**: Executes `scripts/qa_german_remnants.py`.
@@ -108,7 +108,7 @@ When an official release tag (e.g. `v1.6.5`) is pushed:
 | :--- | :--- | :--- | :--- |
 | **2026-08-11** | **Artifact Exporter** | Added automated PDF & EPUB exporter (`export_pdf_epub.py`) and release asset uploader. | Publishes EPUB & PDF course books on GitHub Releases. |
 | **2026-08-11** | **Auditing & QA** | Added Mobile Link Auditor (`audit_mobile_links.py`) and Quality Scorer (`score_translation_quality.py`). | Automated link, PWA, and Devanāgarī preservation scoring. |
-| **2026-08-11** | **Staging Server** | Deployed `payer-author-staging` container on port 8081. | Provides dedicated author/QA staging host alongside public site on 8080. |
+| **2026-08-11** | **Staging Server** | Decommissioned `payer-author-staging` container; consolidated on public staging (8080). | Single production staging host on port 8080. |
 | **2026-08-11** | **Node Hardware** | Specified `nyx.local` as MacBook Air M4 (32GB Unified Memory/VRAM). | Documented exact M4 generation architecture. |
 | **2026-08-11** | **Workstation** | Identified primary Mac workstation as `nike.local` (M2, 24GB VRAM). | Documented node hostname and Apple Silicon M2 specs. |
 | **2026-08-11** | **Infrastructure** | Added `nataraja` (Pop!_OS Intel Mac 32GB RAM) as dedicated GitHub Self-Hosted Runner. | Shifted site builds and Docker multi-arch builds off Workstation Mac. |
