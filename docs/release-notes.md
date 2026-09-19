@@ -8,6 +8,22 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.9 (September 2026)
+
+**Focus:** *Container Parser Hardening (`markdown-it-extensible@1.2.2`), QA Viewer Editor-Preview Parity & Cross-Platform Build Optimizations*
+
+### ✨ Features & Highlights
+- **Container Prefix Collision Resolution (`grammar-box2`)**:
+  - Eliminated a critical parsing collision in `markdown-it-extensible` where prefix containers (e.g. `grammar-box`) intercepted and falsely consumed more specific containers (e.g. `grammar-box2`).
+  - Hardened container matching regex (`^\s*${box}(?:\s+(.*)|(?=\[)(.*))?$`) and enforced longest-first container registration order.
+  - Upgraded project dependencies to `markdown-it-extensible@1.2.2` and aligned `qa_viewer.html` and `docs/.vitepress/config.mjs`.
+  - Refined editor preview CSS for `.grammar-box2` in `qa_viewer.html` (font-weight normalization, title hiding parity with `custom.css`).
+- **Build & Desktop Optimization**:
+  - Enhanced Windows cross-platform compatibility for translation lock management (`lock.py`) and git pre-push hooks.
+  - Streamlined desktop distribution build with selective VitePress compilation.
+
+---
+
 ## 🚀 Version 1.8.8 (September 2026)
 
 **Focus:** *Multi-Locale Glossary IAST Repair & Generator Hardening, Bulgarian Navigation Polish & Sidebar Deduplication*

@@ -9,7 +9,7 @@ title: "Setări"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Versiunea curentă**: `v1.8.8`
-**Note de lansare & Changelog**: [Ce este nou în v1.8.8?](/ro/release-notes)
+**Versiunea curentă**: `v1.8.9`
+**Note de lansare & Changelog**: [Ce este nou în v1.8.9?](/ro/release-notes)
 **Cod sursă & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::
