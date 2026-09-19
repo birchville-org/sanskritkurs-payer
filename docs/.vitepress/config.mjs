@@ -269,7 +269,32 @@ export default defineConfig({
         });
       });
 
-      md.use(extensiblePlugin);
+      const blockContainers = [
+        { name: 'grammar-box2', className: 'grammar-box2' },
+        { name: 'grammarbox2', className: 'grammar-box2' },
+        { name: 'grammar-box', className: 'grammar-box' },
+        { name: 'grammarbox', className: 'grammar-box' },
+        { name: 'metrik-schema', className: 'metrik-schema' },
+        { name: 'metrikschema', className: 'metrik-schema' },
+        { name: 'literatur-box', className: 'literatur-box' },
+        { name: 'literatur', className: 'literatur-box' },
+        { name: 'deleteme-box', className: 'deleteme-box' },
+        { name: 'deletemebox', className: 'deleteme-box' },
+        { name: 'note-box', className: 'note-box' },
+        { name: 'notebox', className: 'note-box' },
+        { name: 'laut-table', className: 'laut-table' },
+        { name: 'lauttable', className: 'laut-table' },
+        { name: 'no-header', className: 'no-header' },
+        { name: 'noheader', className: 'no-header' },
+        { name: 'important', className: 'important' },
+        { name: 'gaga-box', className: 'gaga-box' },
+        { name: 'compact', className: 'compact' },
+        { name: 'indent', className: 'indent' },
+        { name: 'center', className: 'center' },
+        { name: 'media', className: 'media' }
+      ];
+
+      md.use(extensiblePlugin, { blockContainers });
     }
   },
 

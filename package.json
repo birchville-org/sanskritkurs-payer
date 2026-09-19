@@ -18,16 +18,16 @@
     "iconv-lite": "^0.6.3",
     "markdown-it": "^14.2.0",
     "markdown-it-container": "^4.0.0",
-    "markdown-it-extensible": "^1.2.1",
+    "markdown-it-extensible": "^1.2.2",
     "markdown-it-multimd-table": "^4.2.3",
     "turndown": "^7.2.0",
     "turndown-plugin-gfm": "^1.0.2"
   },
   "devDependencies": {
+    "@tauri-apps/cli": "^2.11.4",
     "husky": "^9.1.7",
     "jsdom": "^29.1.1",
     "markdown-it-attrs": "^5.0.0",
-    "@tauri-apps/cli": "^2.11.4",
     "pdf-lib": "^1.17.1",
     "playwright": "^1.60.0",
     "puppeteer": "^25.2.1",

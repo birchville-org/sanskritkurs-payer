@@ -712,17 +712,23 @@
             background-color: #241500;
             border-left-color: #eab308;
         }
-        .editor-preview .grammar-box2 {
+        .editor-preview .grammar-box2,
+        .editor-preview .custom-block.grammar-box2 {
             background-color: #ffedd5;
             border-left: 5px solid #ea580c;
             padding: 1.25rem;
             margin: 1.5rem 0;
             border-radius: 0 8px 8px 0;
-            font-weight: 600;
+            font-size: 1.1rem;
         }
-        .dark .editor-preview .grammar-box2 {
+        .dark .editor-preview .grammar-box2,
+        .dark .editor-preview .custom-block.grammar-box2 {
             background-color: #361e04;
             border-left-color: #ea580c;
+        }
+        .editor-preview .grammar-box2 .custom-block-title,
+        .editor-preview .custom-block.grammar-box2 .custom-block-title {
+            display: none;
         }
 
         /* DELETEME BOX */
@@ -2712,7 +2718,7 @@
     <script type="module">
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
-        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible@1.1.0';
+        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible@1.2.2';
         const multimd = window.markdownitMultimdTable;
 
         function buildRenderer() {
@@ -2743,8 +2749,34 @@
                 });
             });
 
+            // Define custom block containers sorted longest-first so that prefixes (e.g. grammar-box) do not shadow specific containers (e.g. grammar-box2)
+            const blockContainers = [
+                { name: 'grammar-box2', className: 'grammar-box2' },
+                { name: 'grammarbox2', className: 'grammar-box2' },
+                { name: 'grammar-box', className: 'grammar-box' },
+                { name: 'grammarbox', className: 'grammar-box' },
+                { name: 'metrik-schema', className: 'metrik-schema' },
+                { name: 'metrikschema', className: 'metrik-schema' },
+                { name: 'literatur-box', className: 'literatur-box' },
+                { name: 'literatur', className: 'literatur-box' },
+                { name: 'deleteme-box', className: 'deleteme-box' },
+                { name: 'deletemebox', className: 'deleteme-box' },
+                { name: 'note-box', className: 'note-box' },
+                { name: 'notebox', className: 'note-box' },
+                { name: 'laut-table', className: 'laut-table' },
+                { name: 'lauttable', className: 'laut-table' },
+                { name: 'no-header', className: 'no-header' },
+                { name: 'noheader', className: 'no-header' },
+                { name: 'important', className: 'important' },
+                { name: 'gaga-box', className: 'gaga-box' },
+                { name: 'compact', className: 'compact' },
+                { name: 'indent', className: 'indent' },
+                { name: 'center', className: 'center' },
+                { name: 'media', className: 'media' }
+            ];
+
             // 2. markdown-it-extensible plugin (handles all block containers & inline directives)
-            md.use(extensiblePlugin);
+            md.use(extensiblePlugin, { blockContainers });
 
             return md;
         }

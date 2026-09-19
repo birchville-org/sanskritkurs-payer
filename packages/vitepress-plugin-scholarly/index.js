@@ -3,10 +3,10 @@ const container = require('markdown-it-container');
 module.exports = function scholarlyPlugin(md, options = {}) {
   // 1. Custom Boxes
   const customBoxes = {
-    'grammar-box': 'grammar-box',
-    'grammarbox': 'grammar-box',
     'grammar-box2': 'grammar-box2',
     'grammarbox2': 'grammar-box2',
+    'grammar-box': 'grammar-box',
+    'grammarbox': 'grammar-box',
     'media': 'media',
     'center': 'center',
     'metrik-schema': 'metrik-schema',
