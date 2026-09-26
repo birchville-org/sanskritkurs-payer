@@ -55,10 +55,10 @@ flowchart TB
     GHR -->|Multi-Arch Images pushen| GHCR
     EXPORT -->|Releases hochladen| GH_REL
 
-    style Workstation fill:#03192e,color:#fff,stroke:#48626e,stroke-width:2px
-    style Nyx fill:#241500,color:#fff,stroke:#e67e22,stroke-width:2px
-    style Nataraja fill:#0f2b1d,color:#fff,stroke:#2ecc71,stroke-width:2px
-    style GitHub fill:#1a1a2e,color:#fff,stroke:#8e44ad,stroke-width:2px
+    style Workstation fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style Nyx fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style Nataraja fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style GitHub fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
 ```
 
 ---

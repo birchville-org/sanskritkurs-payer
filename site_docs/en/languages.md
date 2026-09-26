@@ -54,10 +54,10 @@ flowchart TD
     G2 -->|Reject| EX2["Archived: Insufficient ROI"]
     G3 -->|Pass| PROD["Production Deployment (VitePress Navigation)"]
 
-    style G1 fill:#03192e,color:#fff,stroke:#48626e,stroke-width:2px
-    style G2 fill:#241500,color:#fff,stroke:#e67e22,stroke-width:2px
-    style G3 fill:#0f2b1d,color:#fff,stroke:#2ecc71,stroke-width:2px
-    style PROD fill:#1a1a2e,color:#fff,stroke:#8e44ad,stroke-width:2px
+    style G1 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style G2 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style G3 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+    style PROD fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
 ```
 
 ---

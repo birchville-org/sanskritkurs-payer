@@ -25,10 +25,11 @@ flowchart TD
     STAGE2 -->|QA Fehlgeschlagen| STAGE3["Stufe 3: Gemini 2.5 Pro (API)\n• Letzte Eskalationsstufe"]
     STAGE3 --> TM
 
-    style STAGE1 fill:#03192e,color:#fff,stroke:#48626e,stroke-width:2px
-    style STAGE2 fill:#241500,color:#fff,stroke:#e67e22,stroke-width:2px
-    style STAGE3 fill:#1a1a2e,color:#fff,stroke:#8e44ad,stroke-width:2px
-    style TM fill:#0f2b1d,color:#fff,stroke:#2ecc71,stroke-width:2px
+    style CHUNK fill:#e0f2f1,stroke:#00897b,stroke-width:2px
+    style STAGE1 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style STAGE2 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style STAGE3 fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style TM fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
 ```
 
 ---
