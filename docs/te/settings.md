@@ -9,7 +9,7 @@ title: "సెట్టింగ్లు"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**ప్రస్తుత సంస్కరణ**: `v1.8.9`
-**విడుదల గమనికలు & మార్పు జాబితా**: [v1.8.9లో కొత్తగా ఏమి ఉంది?](/te/release-notes)
+**ప్రస్తుత సంస్కరణ**: `v1.8.10`
+**విడుదల గమనికలు & మార్పు జాబితా**: [v1.8.10లో కొత్తగా ఏమి ఉంది?](/te/release-notes)
 **మూల కోడ్ & రిపొజిటరీ**: [GitHub రిపొజిటరీ](https://github.com/birchville-org/sanskritkurs-payer)
 :::

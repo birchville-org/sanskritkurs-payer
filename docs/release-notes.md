@@ -8,6 +8,25 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.10 (September 2026)
+
+**Focus:** *Documentation Portal & GitHub Pages Deployment (`mkdocs-material` & `mkdocs-static-i18n`), Bilingual System Architecture & Pipeline Guides*
+
+### ✨ Features & Highlights
+- **Official Documentation Portal on GitHub Pages**:
+  - Deployed bilingual project documentation portal (DE/EN) to [birchville-org.github.io/sanskritkurs-payer](https://birchville-org.github.io/sanskritkurs-payer/) analogous to `AlexandriaSandwich` and `boethlingk`.
+  - Configured MkDocs with Material theme (`blue grey` / `teal`), responsive tabs, search, and language switching.
+  - Isolated documentation directory in `site_docs/` to prevent interference with the VitePress interactive course.
+- **Bilingual Technical Guides**:
+  - Comprehensive documentation covering Distributed 3-Node Topology (`nike.local`, `nyx.local`, `nataraja.local`), Mermaid system diagrams, and Concurrency constraints.
+  - Detailed specifications of Weg B AI translation pipeline, cryptographic TM caching, and Devanāgarī protection filters.
+  - Quantitative benchmark analysis (248.3 GPU hours) and Three-Tier Exclusion Framework.
+  - PWA architecture, language-partitioned caching, and Docker/Desktop deployment guides.
+- **Automated CI/CD Workflow**:
+  - Added `.github/workflows/docs.yml` for automated MkDocs builds and deployment to the `gh-pages` branch upon pushes to `main`.
+
+---
+
 ## 🚀 Version 1.8.9 (September 2026)
 
 **Focus:** *Container Parser Hardening (`markdown-it-extensible@1.2.2`), QA Viewer Editor-Preview Parity & Cross-Platform Build Optimizations*

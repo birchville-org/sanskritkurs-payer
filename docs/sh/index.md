@@ -31,6 +31,6 @@ Jezici su potpuno automatski prevedeni s njemačkog jezika pomoću višestupanjs
 - **Kontakt i suradnja**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 - **Online urednik**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Trenutna verzija**: v1.8.9
+- **Trenutna verzija**: v1.8.10
 :::
 

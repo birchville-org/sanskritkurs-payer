@@ -9,7 +9,7 @@ title: "Ρυθμίσεις"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Τρέχουσα έκδοση**: `v1.8.9`
-**Σημειώσεις έκδοσης & Changelog**: [Τι νέο υπάρχει στην v1.8.9;](/el/release-notes)
+**Τρέχουσα έκδοση**: `v1.8.10`
+**Σημειώσεις έκδοσης & Changelog**: [Τι νέο υπάρχει στην v1.8.10;](/el/release-notes)
 **Πηγαίος κώδικας & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

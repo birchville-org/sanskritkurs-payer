@@ -9,7 +9,7 @@ title: "Podešavanja"
 </ClientOnly>
 
 ::: note-box  Informacije i verzija
-**Trenutna verzija**: `v1.8.9`
-**Zabilješke o izdanju i dnevnik promjena**: [Što je novo u v1.8.9?](/sh/release-notes)
+**Trenutna verzija**: `v1.8.10`
+**Zabilješke o izdanju i dnevnik promjena**: [Što je novo u v1.8.10?](/sh/release-notes)
 **Izvorni kod i repozitorij**: [GitHub repozitorij](https://github.com/birchville-org/sanskritkurs-payer)
 :::
