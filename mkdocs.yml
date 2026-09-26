@@ -1,0 +1,78 @@
+site_name: Sanskritkurs Payer
+site_url: https://birchville-org.github.io/sanskritkurs-payer/
+site_author: Marco Demarmels
+site_description: Wissenschaftliche Digitalisierung, Modernisierung und KI-gestützte mehrsprachige Übersetzung des Sanskritkurses von Prof. Dr. Alois Payer.
+repo_url: https://github.com/birchville-org/sanskritkurs-payer
+repo_name: birchville-org/sanskritkurs-payer
+
+docs_dir: site_docs
+
+theme:
+  name: material
+  language: de
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Wechsel zu dunklem Modus
+    - scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Wechsel zu hellem Modus
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: de
+          name: Deutsch
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Startseite: Home
+            Systemarchitektur: System Architecture
+            KI-Translations-Pipeline: AI Translation Pipeline
+            Sprachauswahl & Kriterien: Language Selection & Criteria
+            PWA & Infrastruktur: PWA & Infrastructure
+            Entwickler-Richtlinien: Developer Guidelines
+            Wiki-Übersicht: Wiki Index
+
+nav:
+  - Startseite: index.md
+  - Systemarchitektur: system-architecture.md
+  - KI-Translations-Pipeline: ai-translation.md
+  - Sprachauswahl & Kriterien: languages.md
+  - PWA & Infrastruktur: pwa-infrastructure.md
+  - Entwickler-Richtlinien: guidelines.md
+  - Wiki-Übersicht: wiki-home.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - tables
+  - attr_list

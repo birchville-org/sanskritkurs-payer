@@ -135,3 +135,6 @@ dist_exports/
 *.epub
 
 docs/.vitepress/.temp/
+
+# MkDocs local build output
+site/

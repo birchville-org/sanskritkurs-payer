@@ -128,3 +128,15 @@ npm run docs:build
 docker build -t sanskritkurs-payer:local .
 docker run -d -p 8080:80 sanskritkurs-payer:local
 ```
+
+---
+
+## 📚 Documentation & Technical Wiki
+
+Comprehensive project documentation is available in both German and English:
+- **Online Documentation (GitHub Pages):** [birchville-org.github.io/sanskritkurs-payer](https://birchville-org.github.io/sanskritkurs-payer/)
+- **Technical GitHub Wiki:** [github.com/birchville-org/sanskritkurs-payer/wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Local Documentation Sources:**
+  - 🇩🇪 [`site_docs/de/`](site_docs/de/) (Systemarchitektur, KI-Translations-Pipeline, Sprachauswahl, PWA & Richtlinien)
+  - 🇬🇧 [`site_docs/en/`](site_docs/en/) (System Architecture, AI Translation Pipeline, Language Selection, PWA & Guidelines)
+
