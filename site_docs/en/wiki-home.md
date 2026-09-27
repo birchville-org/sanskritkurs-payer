@@ -24,9 +24,6 @@ Empirical metrics from the 248.3-hour GPU benchmark, root-cause analysis of bott
 
 ---
 
-## 🔄 Wiki Synchronization
+## 🔄 Documentation Architecture
 
-Technical documentation updates are synchronized between this documentation portal and the GitHub Wiki.
-
-- **GitHub Wiki:** [github.com/birchville-org/sanskritkurs-payer/wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Local Clone:** `/Volumes/SanDisk1TB/proj/payer.wiki`
+All technical documentation is maintained as a Single Source of Truth directly within the repository under `site_docs/` and published via GitHub Pages. The standalone GitHub Wiki was retired in favor of this unified bilingual portal.

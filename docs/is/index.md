@@ -29,7 +29,7 @@ features:
 Tungumálin voru þýdd sjálfvirkt úr þýsku með margra þrepa gervigreindarkeðju. Ábendingar um þýðingarvillur eru mjög vel þegnar.
 
 - **Hafa samband og þátttaka**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Wiki verkefnisins](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Wiki verkefnisins](https://birchville-org.github.io/sanskritkurs-payer)
 - **Netritill**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Núverandi útgáfa**: v1.8.10
 :::

@@ -29,7 +29,7 @@ features:
 Jezici su potpuno automatski prevedeni s njemačkog jezika pomoću višestupanjske AI kaskade. Prijave pogrešaka u prijevodu vrlo su dobrodošle.
 
 - **Kontakt i suradnja**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Online urednik**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Trenutna verzija**: v1.8.10
 :::

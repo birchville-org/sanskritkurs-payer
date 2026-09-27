@@ -29,7 +29,7 @@ features:
 Các ngôn ngữ đã được dịch hoàn toàn tự động từ tiếng Đức bằng sự trợ giúp của AI (Qwen3.6-32B). Các báo cáo về lỗi dịch thuật rất được hoan nghênh.
 
 - **Nhận xét & Liên hệ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Wiki & Kiến trúc dành cho nhà phát triển**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Wiki & Kiến trúc dành cho nhà phát triển**: [GitHub Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Trình chỉnh sửa trực tuyến**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Phiên bản hiện tại**: v1.8.10
 :::

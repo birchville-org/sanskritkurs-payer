@@ -29,7 +29,7 @@ features:
 භාෂා සියල්ල බහු-පරිච්ඡේද කෘතිම බුද්ධි ශ්‍රේණියක් භාවිතයෙන් සම්පූර්ණයෙන්ම ස්වයංක්‍රීයව ජර්මානු භාෂාවෙන් පරිවර්තනය කර ඇත. පරිවර්තන දෝෂ පිළිබඳ වාර්තා ඉතා සුබපැතුම්.
 
 - **සම්බන්ධතා සහ දායකත්වය**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **මාර්ගගත සංස්කාරක**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **වත්මන් අනුවාදය**: v1.8.10
 :::

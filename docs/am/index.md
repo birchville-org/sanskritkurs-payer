@@ -29,7 +29,7 @@ features:
 ቋንቋዎቹ በሙሉ በራስ-ሰር በአንድ ብዙ-ደረጃ የኤፒአይ (AI) ካስኬድ ረዳት በመጠቀም ከጀርመን ቋንቋ ተተርጉመዋል። ስለ ትርጉም ስህተቶች የሚመለከቱ ማሳወቂያዎች በጣም የሚደገፉ ናቸው።
 
 - **አግኙን እና አስተዋጽኦ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **የመስመር ላይ አርታዒ**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **የቅርብ ጊዜ ስሪት**: v1.8.10
 :::

@@ -29,7 +29,7 @@ features:
 تمت ترجمة جميع اللغات تلقائيًا بالكامل باستخدام تسلسل هرمي متعدد المراحل للذكاء الاصطناعي. نرحب بجميع التقارير المتعلقة بالأخطاء في الترجمة.
 
 - **التواصل والمساهمة**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **جيت هب**: [ويكي المشروع](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **جيت هب**: [ويكي المشروع](https://birchville-org.github.io/sanskritkurs-payer)
 - **محرر عبر الإنترنت**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **الإصدار الحالي**: v1.8.10
 :::

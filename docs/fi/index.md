@@ -29,7 +29,7 @@ Alois Payerin **sanskritinkurssi** on kattava, tieteellisesti perusteltu koulutu
 Kielet on käännetty saksasta täysin automaattisesti monivaiheisen tekoälykaskadin avulla. Ilmoitukset käännösvirheistä ovat erittäin tervetulleita.
 
 - **Yhteystiedot & Osallistuminen**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Verkkoeditori**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Nykyinen versio**: v1.8.10
 :::

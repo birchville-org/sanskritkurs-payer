@@ -29,7 +29,7 @@ features:
 Gjuhët janë përkthyer plotësisht automatikisht nga gjermanishtja duke ndihmuar nga një kaskadë shumëstufen e inteligjencës artificiale. Raportimet për gabime përkthimi janë shumë të mirëpritura.
 
 - **Kontakt & Kontribut**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Wiki e Projektit](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Wiki e Projektit](https://birchville-org.github.io/sanskritkurs-payer)
 - **Redaktori online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Versioni aktual**: v1.8.10
 :::

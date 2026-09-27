@@ -29,7 +29,7 @@ Alois Payers **Sanskritkursus** er et omfattende, videnskabeligt funderet kursus
 Sprogene er blevet fuldt ud automatisk oversat fra tysk ved hjælp af en flertrins AI-kaskade. Tilbagemeldinger om oversættelsesfejl modtages med stor taknemmelighed.
 
 - **Kontakt & medvirken**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Projekt-wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Projekt-wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Online-editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Aktuel version**: v1.8.10
 :::

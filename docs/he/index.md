@@ -29,7 +29,7 @@ features:
 השפות תורגמו באופן אוטומטי מלא באמצעות קסקדה רב-שלבית של בינה מלאכותית. אנו מקבלים בברכה דיווחים על שגיאות תרגום.
 
 - **צור קשר והשתתפות**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **עורך מקוון**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **גרסה נוכחית**: v1.8.10
 :::

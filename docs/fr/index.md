@@ -29,7 +29,7 @@ Le **cours de sanskrit** d'Alois Payer est un programme complet et scientifiquem
 Les langues ont été entièrement traduites automatiquement de l'allemand à l'aide d'une cascade d'intelligence artificielle multi-niveaux. Les signalements concernant des erreurs de traduction sont les bienvenus.
 
 - **Contact & Contribution** : [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub** : [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub** : [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Éditeur en ligne** : Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Version actuelle** : v1.8.10
 :::

@@ -30,7 +30,7 @@ Das Projekt **Sanskritkurs Payer** überführt dieses historische Werk aus dem s
 | **Docker-Container** | Multi-Architektur-Produktionsimages (`linux/amd64`, `linux/arm64`) | `ghcr.io/birchville-org/sanskritkurs-payer:latest` |
 | **PWA & Offline-Engine** | Sprachspezifisches Caching (~23 MB pro Sprache), Fallback-Offline-Seiten | Service Worker (`workbox`) |
 | **Desktop-Bundles** | Eigenständige native Desktop-Applikation | Tauri DMG (`src-tauri`) |
-| **Technische Wiki-Dokumentation** | Systemarchitektur, Übersetzungsstrategie & Sprachkriterien | GitHub Wiki & diese MkDocs-Seite |
+| **Technische Wiki-Dokumentation** | Systemarchitektur, Übersetzungsstrategie & Sprachkriterien | Diese MkDocs-Seite (GitHub Pages) |
 
 ---
 
@@ -54,7 +54,7 @@ Das Projekt **Sanskritkurs Payer** überführt dieses historische Werk aus dem s
 ## 🔗 Externe Links & Repositories
 
 - **Quellcode Repository:** [github.com/birchville-org/sanskritkurs-payer](https://github.com/birchville-org/sanskritkurs-payer)
-- **Projekt-Wiki:** [github.com/birchville-org/sanskritkurs-payer/wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Online-Dokumentation (GitHub Pages):** [birchville-org.github.io/sanskritkurs-payer](https://birchville-org.github.io/sanskritkurs-payer/)
 - **Container Registry:** [ghcr.io/birchville-org/sanskritkurs-payer](https://ghcr.io/birchville-org/sanskritkurs-payer)
 - **Referenzprojekte:**
   - [AlexandriaSandwich](https://github.com/birchville-org/AlexandriaSandwich) — Hybrid-OCR und Buchdigitalisierung

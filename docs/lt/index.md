@@ -29,7 +29,7 @@ features:
 Kalbos buvo visiškai automatiškai išverstos iš vokiečių kalbos naudojant daugiaetapę dirbtinio intelekto grandinę. Atsiliepimai dėl vertimo klaidų yra labai laukiami.
 
 - **Kontaktai ir dalyvavimas**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Projekto wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Projekto wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Internetinis redaktorius**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Dabartinė versija**: v1.8.10
 :::

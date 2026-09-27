@@ -29,7 +29,7 @@ features:
 Οι γλώσσες μεταφράστηκαν πλήρως και αυτόματα από τα Γερμανικά με τη βοήθεια μιας πολυεπίπεδης αλυσίδας τεχνητής νοημοσύνης. Οι αναφορές σχετικά με λάθη μετάφρασης είναι ευπρόσδεκτες.
 
 - **Επικοινωνία & Συνεισφορά**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Διαδικτυακός επεξεργαστής**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Τρέχουσα έκδοση**: v1.8.10
 :::

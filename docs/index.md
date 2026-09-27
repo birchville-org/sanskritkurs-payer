@@ -28,7 +28,7 @@ Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundi
 Die Sprachen wurden mit Hilfe einer mehrstufigen KI-Kaskade vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
 
 - **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Online-Editor**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Aktuelle Version**: v1.8.10
 :::

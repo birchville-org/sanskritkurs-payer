@@ -29,7 +29,7 @@ Alois Payer **szanszkrit kurzja** egy átfogó, tudományosan megalapozott képz
 A nyelveket egy többlépcsős AI-kaskád segítségével teljesen automatikusan fordítottuk le németből. A fordítási hibákkal kapcsolatos visszajelzéseket nagyon szívesen fogadjuk.
 
 - **Kapcsolat & Közreműködés**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Projekt Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Projekt Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Online szerkesztő**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Jelenlegi verzió**: v1.8.10
 :::

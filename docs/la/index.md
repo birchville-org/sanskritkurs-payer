@@ -29,7 +29,7 @@ features:
 Linguae per gradus plures AI cascade omnino automaticè e Germanico in alias linguas conversae sunt. Nuntii de erroribus translationis valde accepti sunt.
 
 - **Contactus & Participatio**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Editor interretialis**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Versio Recens**: v1.8.10
 :::

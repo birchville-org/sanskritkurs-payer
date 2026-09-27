@@ -29,7 +29,7 @@ El **curso de sánscrito** de Alois Payer es un programa integral y científicam
 Los idiomas fueron traducidos completamente de forma automática desde el alemán mediante una cascada de IA multicapa. Los informes sobre errores de traducción son muy bienvenidos.
 
 - **Contacto y contribución**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Wiki del proyecto](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Wiki del proyecto](https://birchville-org.github.io/sanskritkurs-payer)
 - **Editor en línea**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Versión actual**: v1.8.10
 :::

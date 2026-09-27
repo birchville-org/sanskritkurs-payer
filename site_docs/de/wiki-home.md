@@ -24,9 +24,6 @@ Quantitative Leistungsdaten aus dem 248,3-Stunden-GPU-Benchmark, Analyse der Eng
 
 ---
 
-## 🔄 Wiki-Synchronisation
+## 🔄 Dokumentations-Architektur
 
-Änderungen an der technischen Dokumentation werden zwischen diesem Dokumentationsportal und dem GitHub-Wiki synchron gehalten.
-
-- **GitHub Wiki:** [github.com/birchville-org/sanskritkurs-payer/wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Lokaler Klon:** `/Volumes/SanDisk1TB/proj/payer.wiki`
+Die technische Dokumentation wird als Single Source of Truth direkt im Repository unter `site_docs/` gepflegt und automatisiert via GitHub Pages bereitgestellt. Das separate GitHub-Wiki wurde zugunsten dieses zweisprachigen Portals abgelöst.

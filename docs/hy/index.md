@@ -29,7 +29,7 @@ features:
 Լեզուները լիովին ավտոմատ կերպով գերմաներենից թարգմանվել են բազմաստիճան AI կասկադի օգնությամբ։ Շատ ողջունելի են թարգմանական սխալների վերաբերյալ հաղորդումները։
 
 - **Կապ և մասնակցություն**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Առցանց խմբագիր**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Թարմ տարբերակ**: v1.8.10
 :::

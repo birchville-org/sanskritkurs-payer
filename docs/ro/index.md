@@ -29,7 +29,7 @@ features:
 Limbile au fost traduse complet automat din germană cu ajutorul unei cascate de inteligență artificială în mai multe etape. Sesizările privind erorile de traducere sunt foarte binevenite.
 
 - **Contact și contribuție**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Editor online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
 - **Versiune curentă**: v1.8.10
 :::
