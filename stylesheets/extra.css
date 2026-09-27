@@ -1,0 +1,64 @@
+/* ==============================================================================
+   Mermaid High-Contrast Styling for Light & Dark Mode
+   ============================================================================== */
+
+/* Force high-contrast text color inside Mermaid nodes */
+.md-typeset .mermaid .node .nodeLabel,
+.md-typeset .mermaid .node text,
+.md-typeset .mermaid .cluster .nodeLabel,
+.md-typeset .mermaid .cluster text {
+  color: var(--md-typeset-color) !important;
+  fill: var(--md-typeset-color) !important;
+  font-weight: 500;
+}
+
+/* Edge labels contrast */
+.md-typeset .mermaid .edgeLabel {
+  color: var(--md-typeset-color) !important;
+  background-color: var(--md-default-bg-color) !important;
+}
+
+/* ==============================================================================
+   Dark Mode (Slate) Adaptations for Pastel Fills
+   Inverts light fills to deep, rich dark tones with bright borders in dark mode
+   ============================================================================== */
+
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill:#e3f2fd"],
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill: #e3f2fd"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill:#e3f2fd"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill: #e3f2fd"] {
+  fill: #0f2b48 !important;
+  stroke: #64b5f6 !important;
+}
+
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill:#fff3e0"],
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill: #fff3e0"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill:#fff3e0"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill: #fff3e0"] {
+  fill: #3e2406 !important;
+  stroke: #ffb74d !important;
+}
+
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill:#f3e5f5"],
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill: #f3e5f5"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill:#f3e5f5"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill: #f3e5f5"] {
+  fill: #2d163d !important;
+  stroke: #ba68c8 !important;
+}
+
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill:#e8f5e9"],
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill: #e8f5e9"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill:#e8f5e9"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill: #e8f5e9"] {
+  fill: #143520 !important;
+  stroke: #81c784 !important;
+}
+
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill:#e0f2f1"],
+[data-md-color-scheme="slate"] .mermaid .node [style*="fill: #e0f2f1"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill:#e0f2f1"],
+[data-md-color-scheme="slate"] .mermaid .cluster [style*="fill: #e0f2f1"] {
+  fill: #00363a !important;
+  stroke: #4db6ac !important;
+}
