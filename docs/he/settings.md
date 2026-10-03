@@ -9,7 +9,7 @@ title: "הגדרות"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**גרסה נוכחית**: `v1.8.10`
-**הערות שחרור ויומן שינויים**: [מה חדש ב-v1.8.10?](/he/release-notes)
+**גרסה נוכחית**: `v1.8.11`
+**הערות שחרור ויומן שינויים**: [מה חדש ב-v1.8.11?](/he/release-notes)
 **קוד מקור ורפוזיטורי**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -31,5 +31,5 @@ features:
 - **සම්බන්ධතා සහ දායකත්වය**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **මාර්ගගත සංස්කාරක**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **වත්මන් අනුවාදය**: v1.8.10
+- **වත්මන් අනුවාදය**: v1.8.11
 :::

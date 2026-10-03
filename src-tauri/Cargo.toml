@@ -1,6 +1,6 @@
 [package]
 name = "sanskritkurs-payer"
-version = "1.8.10"
+version = "1.8.11"
 description = "Sanskritkurs — Alois Payer"
 authors = ["Alois Payer"]
 edition = "2021"

@@ -8,6 +8,21 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.11 (Oktober 2026)
+
+**Focus:** *markdown-it-extensible 1.3.0 Integration & Container Nesting Normalization*
+
+### ✨ Features & Highlights
+- **Container Nesting Normalization (`markdown-it-extensible@1.3.0`)**:
+  - Automatisches Umschreiben von Container-Hierarchien bei verschachtelten Boxen (`autoNesting`), sodass äussere Boxen strikt mehr Doppelpunkte als innere Boxen besitzen.
+  - Verhindert das vorzeitige Schliessen von Eltern-Containern bei gleichartigen Doppelpunkt-Fences.
+  - Beseitigung von Child-Margin-Stacking (`margin-top: 0` auf `:first-child`, `margin-bottom: 0` auf `:last-child`) für alle Container-Typen bei titellosen Boxen.
+  - Vollständige Unterdrückung leerer Titelklammern (`[]`) und leerer Paragraphen (`p:empty`) innerhalb von Containern.
+- **Bereinigung**:
+  - Entfernung des veralteten, ungenutzten lokalen Verzeichnisses `packages/vitepress-plugin-scholarly`.
+
+---
+
 ## 🚀 Version 1.8.10 (September 2026)
 
 **Focus:** *Documentation Portal & GitHub Pages Deployment (`mkdocs-material` & `mkdocs-static-i18n`), Bilingual System Architecture & Pipeline Guides*

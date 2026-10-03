@@ -31,5 +31,5 @@ Gjuhët janë përkthyer plotësisht automatikisht nga gjermanishtja duke ndihmu
 - **Kontakt & Kontribut**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Wiki e Projektit](https://birchville-org.github.io/sanskritkurs-payer)
 - **Redaktori online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Versioni aktual**: v1.8.10
+- **Versioni aktual**: v1.8.11
 :::

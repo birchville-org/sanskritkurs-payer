@@ -31,5 +31,5 @@ features:
 - **التواصل والمساهمة**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **جيت هب**: [ويكي المشروع](https://birchville-org.github.io/sanskritkurs-payer)
 - **محرر عبر الإنترنت**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **الإصدار الحالي**: v1.8.10
+- **الإصدار الحالي**: v1.8.11
 :::

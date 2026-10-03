@@ -2,6 +2,11 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
+## [1.8.11] - 2026-10-03
+### Aktualisiert
+- **markdown-it-extensible 1.3.0:** Upgrade auf Plugin-Version 1.3.0 mit automatischer Container-Nesting-Normalisierung (`autoNesting`) und bereinigtem Theme-CSS (Entfernung von Child-Margin-Stacking bei titellosen Boxen und Unterdrückung leerer Titel-/Absatzelemente).
+- **Bereinigung:** Veraltetes, ungenutztes lokales Verzeichnis `packages/vitepress-plugin-scholarly` entfernt.
+
 ## [1.7.4] - 2026-08-26 (Hotfix)
 ### Behoben
 - **Build-Fix:** Fehlendes `languages.mjs` Update für die nordischen Sprachen eingecheckt. Das Script verursachte Diskrepanzen zwischen dem lokalen Pre-Push-Check und der GitHub Actions Umgebung.

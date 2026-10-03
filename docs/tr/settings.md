@@ -9,7 +9,7 @@ title: "[Ayarlar]"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Güncel Sürüm**: `v1.8.10`
-**Sürüm Notları & Değişiklik Günlüğü**: [v1.8.10'te neler var?](/tr/release-notes)
+**Güncel Sürüm**: `v1.8.11`
+**Sürüm Notları & Değişiklik Günlüğü**: [v1.8.11'te neler var?](/tr/release-notes)
 **Kaynak Kodu & Depo**: [GitHub Deposu](https://github.com/birchville-org/sanskritkurs-payer)
 :::

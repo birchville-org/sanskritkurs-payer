@@ -31,5 +31,5 @@ Limbile au fost traduse complet automat din germană cu ajutorul unei cascate de
 - **Contact și contribuție**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://birchville-org.github.io/sanskritkurs-payer)
 - **Editor online**: Via [QA](/qa_viewer.html){target="_blank"} (View-only, Write Login-protected)
-- **Versiune curentă**: v1.8.10
+- **Versiune curentă**: v1.8.11
 :::
