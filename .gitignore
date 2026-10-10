@@ -138,3 +138,4 @@ docs/.vitepress/.temp/
 
 # MkDocs local build output
 site/
+.zentauri/

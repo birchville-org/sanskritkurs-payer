@@ -118,6 +118,9 @@ All custom block containers and inline directives are powered by the official [`
   - `:sig[...]`: Signal Red (`#ff0000`) emphasis for Devanāgarī text.
   - `:br` or `[[br]]`: Line breaks inside table cells or captions.
   - `:indent` or `[[indent]]`: Inline indentation block.
+* **Footnotes & Definition Lists**:
+  - `[^1]` and `[^1]: Note text`: Standard scholarly footnotes.
+  - `Term\n: Definition`: Definition lists (`markdown-it-deflist`).
 
 ### NPM Registry & Documentation Links:
 * **NPM Package**: [`markdown-it-extensible`](https://www.npmjs.com/package/markdown-it-extensible)

@@ -8,6 +8,25 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.12 (Oktober 2026)
+
+**Focus:** *CodeMirror 6 Editor-Migration, Footnote & Deflist Rendering, Silent Auto-Repair State Preservation*
+
+### ✨ Features & Highlights
+- **QA-Viewer Editor-Upgrade (CodeMirror 6)**:
+  - Vollständige Migration von CodeMirror 5 (CDN) auf ein performantes lokales CodeMirror 6 Bundle (`docs/public/qa_editor.js`, esbuild).
+  - Native CM6 StateFields und dynamische Dekorationen für Container-Verschachtelungen (`::: grammar-box` etc.).
+  - Zeilennummern-Offsetting, Vim-Keymap-Compartment und entkoppelte Editor-Lifecycle-Verwaltung.
+- **Wissenschaftliche Fußnoten & Definitionslisten**:
+  - Integration von `markdown-it-footnote` und `markdown-it-deflist` im VitePress-Build (`config.mjs`) sowie im clientseitigen QA-Viewer-Renderer (`qa_viewer.html`).
+  - Scoped CSS-Styles für `.footnotes`, `.footnote-backref`, `<dt>` und `<dd>` im Light- und Dark-Theme.
+- **Silent Auto-Repair State-Preservation**:
+  - Nahtloser Erhalt von Cursor-Position (`selection`) und Scroll-Zustand (`scrollDOM`) beim automatischen Bereinigen von Tabellen- und Container-Syntax während des Speicherns.
+- **Dokumentation & Stabilität**:
+  - Aktualisierung der Schnellsyntax-Referenz in `docs/public/qa_help.md`.
+
+---
+
 ## 🚀 Version 1.8.11 (Oktober 2026)
 
 **Focus:** *markdown-it-extensible 1.3.0 Integration & Container Nesting Normalization*

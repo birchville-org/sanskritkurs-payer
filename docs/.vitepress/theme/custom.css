@@ -63,6 +63,47 @@ html {
   --vp-c-gutter: #0a1628;
 }
 
+/* ── Text Selection (Scholarly Synthesis Standard) ── */
+::selection {
+  background-color: #e4d5b7 !important;
+  color: #03192e !important;
+}
+
+.dark ::selection {
+  background-color: #27528a !important;
+  color: #e8e0d3 !important;
+}
+
+/* ── Highlight & Marker (Scholarly Synthesis Standard) ── */
+mark,
+.marker-yellow,
+.vp-doc mark,
+.vp-doc .marker-yellow {
+  background-color: #fef08a !important;
+  color: #1e293b !important;
+  padding: 0.1em 0.35em !important;
+  border-radius: 3px !important;
+}
+
+.dark mark,
+.dark .marker-yellow,
+.dark .vp-doc mark,
+.dark .vp-doc .marker-yellow {
+  background-color: #eab308 !important;
+  color: #03192e !important;
+  font-weight: 600 !important;
+  padding: 0.1em 0.35em !important;
+  border-radius: 3px !important;
+  box-shadow: 0 0 6px rgba(234, 179, 8, 0.3) !important;
+}
+
+.dark mark .sanskrit-dev,
+.dark .marker-yellow .sanskrit-dev,
+.dark .vp-doc mark .sanskrit-dev,
+.dark .vp-doc .marker-yellow .sanskrit-dev {
+  color: #8b1a1a !important;
+}
+
 
 /* Typografie */
 .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6, .VPHero .name, .VPHero .text, blockquote {
@@ -1102,4 +1143,28 @@ select.control-btn,
   width: auto !important;
   max-width: 160px !important;
   object-fit: contain !important;
+}
+
+/* Footnotes (markdown-it-footnote) and definition lists (markdown-it-deflist) */
+.vp-doc .footnotes {
+  margin-top: 2rem;
+  font-size: 0.9em;
+}
+.vp-doc .footnotes-sep {
+  border: 0;
+  border-top: 1px solid var(--vp-c-divider);
+}
+.vp-doc .footnotes-list p {
+  margin: 0.25rem 0;
+}
+.vp-doc .footnote-backref {
+  text-decoration: none;
+  margin-left: 0.25em;
+}
+.vp-doc dt {
+  font-weight: 600;
+  margin-top: 0.75rem;
+}
+.vp-doc dd {
+  margin-left: 1.5rem;
 }

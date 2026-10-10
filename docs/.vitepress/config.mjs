@@ -47,6 +47,8 @@ const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
 const attrs = require('markdown-it-attrs')
 import extensiblePlugin from 'markdown-it-extensible'
+import footnote from 'markdown-it-footnote'
+import deflist from 'markdown-it-deflist'
 import { getSidebarItems } from './utils.mjs'
 
 function populateSidebar(localeObj, lektionLabel, lektionPrefix, schriftLabel, uebungLabel) {
@@ -244,6 +246,8 @@ export default defineConfig({
     breaks: true,
     config: (md) => {
       md.use(attrs)
+      md.use(footnote)
+      md.use(deflist)
 
       md.use(multimd_table, {
         multiline: true,

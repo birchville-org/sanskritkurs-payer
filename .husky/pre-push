@@ -1,5 +1,9 @@
 # Führe zuerst alle qualitäts-checks durch
-PYTHONUTF8=1 NODE_OPTIONS=--max-old-space-size=16384 python3 scripts/pre_push_check.py --strict
+PYTHON_BIN="python3"
+if [ -f "./venv/bin/python" ]; then
+  PYTHON_BIN="./venv/bin/python"
+fi
+PYTHONUTF8=1 NODE_OPTIONS=--max-old-space-size=16384 "$PYTHON_BIN" scripts/pre_push_check.py --strict
 STATUS=$?
 
 if [ $STATUS -ne 0 ]; then

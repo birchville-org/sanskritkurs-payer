@@ -6,11 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sanskrit Course - Side-by-Side QA Viewer</title>
     <link rel="stylesheet" href="/.vitepress/theme/custom.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/mode/markdown/markdown.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/mode/xml/xml.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/keymap/vim.min.js"></script>
+    <script src="/qa_editor.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
 
@@ -31,6 +27,16 @@
             --color-parchment-dark: #001a24;
             --color-ink: #fcf9f2;
             --color-slate: #48626e;
+        }
+
+        ::selection {
+            background-color: #e4d5b7 !important;
+            color: #03192e !important;
+        }
+
+        .dark ::selection {
+            background-color: #27528a !important;
+            color: #e8e0d3 !important;
         }
 
         body,
@@ -389,7 +395,7 @@
         }
 
         .dragging iframe,
-        .dragging .CodeMirror,
+        .dragging .cm-editor,
         .dragging .editor-preview {
             pointer-events: none !important;
         }
@@ -457,7 +463,7 @@
         }
 
         /* --- CodeMirror Styles --- */
-        .CodeMirror {
+        .cm-editor {
             width: 100% !important;
             height: 100% !important;
             font-family: 'Source Serif 4', 'Newsreader', serif !important;
@@ -467,94 +473,121 @@
             color: var(--color-ink) !important;
         }
         
-        .CodeMirror-scroll {
+        .cm-scroller {
             height: 100% !important;
+            overflow: auto;
+            font-family: inherit;
         }
+        .cm-editor.cm-focused { outline: none; }
+        .cm-line[class*="block-l"] { position: relative; }
 
-        .CodeMirror-gutters {
+        .cm-gutters {
             background: transparent !important;
             border-right: none !important;
             padding-right: 0.5rem;
         }
 
-        .CodeMirror-linenumber {
+        .cm-lineNumbers .cm-gutterElement {
             color: #94a3b8 !important;
             font-family: 'Inter', sans-serif !important;
             font-size: 0.8rem !important;
             padding-right: 0.5rem;
         }
 
+        .cm-selectionBackground {
+            background-color: #e4d5b7 !important;
+        }
+        .cm-focused .cm-selectionBackground {
+            background-color: #d8c7a3 !important;
+        }
+        .dark .cm-selectionBackground,
+        .dark .cm-focused .cm-selectionBackground {
+            background-color: #27528a !important;
+        }
+        .dark .cm-line::selection,
+        .dark .cm-line > span::selection,
+        .dark .cm-line > span > span::selection {
+            background-color: #27528a !important;
+            color: #e8e0d3 !important;
+        }
+        .dark .cm-line::-moz-selection,
+        .dark .cm-line > span::-moz-selection,
+        .dark .cm-line > span > span::-moz-selection {
+            background-color: #27528a !important;
+            color: #e8e0d3 !important;
+        }
+
         /* Custom container borders in CodeMirror lines */
         /* Custom container borders in CodeMirror lines (Nested Support) */
         /* Custom container borders in CodeMirror lines (Nested Support) */
-        .CodeMirror-linebackground[class*="block-l0-"] {
+        .cm-line[class*="block-l0-"] {
             border-left-width: 3px !important;
             border-left-style: solid !important;
         }
-        .CodeMirror-linebackground.block-l0-grammar-box { border-left-color: var(--color-gold) !important; }
-        .CodeMirror-linebackground.block-l0-grammar-box2 { border-left-color: #ea580c !important; }
-        .CodeMirror-linebackground.block-l0-important { border-left-color: #8b5cf6 !important; }
-        .CodeMirror-linebackground.block-l0-note-box { border-left-color: #48626e !important; }
-        .CodeMirror-linebackground.block-l0-indent { border-left-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l0-center { border-left-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l0-media { border-left-color: #38bdf8 !important; }
-        .CodeMirror-linebackground.block-l0-deleteme-box { border-left-color: #f43f5e !important; }
-        .CodeMirror-linebackground.block-l0-no-header { border-left-color: #9ca3af !important; }
-        .CodeMirror-linebackground.block-l0-compact { border-left-color: #64748b !important; }
-        .CodeMirror-linebackground.block-l0-laut-table { border-left-color: #10b981 !important; }
-        .CodeMirror-linebackground.block-l0-metrik-schema { border-left-color: #64748b !important; }
+        .cm-line.block-l0-grammar-box { border-left-color: var(--color-gold) !important; }
+        .cm-line.block-l0-grammar-box2 { border-left-color: #ea580c !important; }
+        .cm-line.block-l0-important { border-left-color: #8b5cf6 !important; }
+        .cm-line.block-l0-note-box { border-left-color: #48626e !important; }
+        .cm-line.block-l0-indent { border-left-color: #94a3b8 !important; }
+        .cm-line.block-l0-center { border-left-color: #94a3b8 !important; }
+        .cm-line.block-l0-media { border-left-color: #38bdf8 !important; }
+        .cm-line.block-l0-deleteme-box { border-left-color: #f43f5e !important; }
+        .cm-line.block-l0-no-header { border-left-color: #9ca3af !important; }
+        .cm-line.block-l0-compact { border-left-color: #64748b !important; }
+        .cm-line.block-l0-laut-table { border-left-color: #10b981 !important; }
+        .cm-line.block-l0-metrik-schema { border-left-color: #64748b !important; }
 
         /* Layer 1 (Position 0px to 3px of content) */
-        .CodeMirror-linebackground[class*="block-l1-"]::before {
+        .cm-line[class*="block-l1-"]::before {
             content: "";
             position: absolute;
             top: 0; bottom: 0; left: 0;
             width: 3px; display: block;
             z-index: 10;
         }
-        .CodeMirror-linebackground.block-l1-grammar-box::before { background-color: var(--color-gold) !important; }
-        .CodeMirror-linebackground.block-l1-grammar-box2::before { background-color: #ea580c !important; }
-        .CodeMirror-linebackground.block-l1-important::before { background-color: #8b5cf6 !important; }
-        .CodeMirror-linebackground.block-l1-note-box::before { background-color: #48626e !important; }
-        .CodeMirror-linebackground.block-l1-indent::before { background-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l1-center::before { background-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l1-media::before { background-color: #38bdf8 !important; }
-        .CodeMirror-linebackground.block-l1-deleteme-box::before { background-color: #f43f5e !important; }
-        .CodeMirror-linebackground.block-l1-no-header::before { background-color: #9ca3af !important; }
-        .CodeMirror-linebackground.block-l1-compact::before { background-color: #64748b !important; }
-        .CodeMirror-linebackground.block-l1-laut-table::before { background-color: #10b981 !important; }
-        .CodeMirror-linebackground.block-l1-metrik-schema::before { background-color: #64748b !important; }
+        .cm-line.block-l1-grammar-box::before { background-color: var(--color-gold) !important; }
+        .cm-line.block-l1-grammar-box2::before { background-color: #ea580c !important; }
+        .cm-line.block-l1-important::before { background-color: #8b5cf6 !important; }
+        .cm-line.block-l1-note-box::before { background-color: #48626e !important; }
+        .cm-line.block-l1-indent::before { background-color: #94a3b8 !important; }
+        .cm-line.block-l1-center::before { background-color: #94a3b8 !important; }
+        .cm-line.block-l1-media::before { background-color: #38bdf8 !important; }
+        .cm-line.block-l1-deleteme-box::before { background-color: #f43f5e !important; }
+        .cm-line.block-l1-no-header::before { background-color: #9ca3af !important; }
+        .cm-line.block-l1-compact::before { background-color: #64748b !important; }
+        .cm-line.block-l1-laut-table::before { background-color: #10b981 !important; }
+        .cm-line.block-l1-metrik-schema::before { background-color: #64748b !important; }
 
         /* Layer 2 (Position 3px to 6px of content) */
-        .CodeMirror-linebackground[class*="block-l2-"]::after {
+        .cm-line[class*="block-l2-"]::after {
             content: "";
             position: absolute;
             top: 0; bottom: 0; left: 3px;
             width: 3px; display: block;
             z-index: 10;
         }
-        .CodeMirror-linebackground.block-l2-grammar-box::after { background-color: var(--color-gold) !important; }
-        .CodeMirror-linebackground.block-l2-grammar-box2::after { background-color: #ea580c !important; }
-        .CodeMirror-linebackground.block-l2-important::after { background-color: #8b5cf6 !important; }
-        .CodeMirror-linebackground.block-l2-note-box::after { background-color: #48626e !important; }
-        .CodeMirror-linebackground.block-l2-indent::after { background-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l2-center::after { background-color: #94a3b8 !important; }
-        .CodeMirror-linebackground.block-l2-media::after { background-color: #38bdf8 !important; }
-        .CodeMirror-linebackground.block-l2-deleteme-box::after { background-color: #f43f5e !important; }
-        .CodeMirror-linebackground.block-l2-no-header::after { background-color: #9ca3af !important; }
-        .CodeMirror-linebackground.block-l2-compact::after { background-color: #64748b !important; }
-        .CodeMirror-linebackground.block-l2-laut-table::after { background-color: #10b981 !important; }
-        .CodeMirror-linebackground.block-l2-metrik-schema::after { background-color: #64748b !important; }
+        .cm-line.block-l2-grammar-box::after { background-color: var(--color-gold) !important; }
+        .cm-line.block-l2-grammar-box2::after { background-color: #ea580c !important; }
+        .cm-line.block-l2-important::after { background-color: #8b5cf6 !important; }
+        .cm-line.block-l2-note-box::after { background-color: #48626e !important; }
+        .cm-line.block-l2-indent::after { background-color: #94a3b8 !important; }
+        .cm-line.block-l2-center::after { background-color: #94a3b8 !important; }
+        .cm-line.block-l2-media::after { background-color: #38bdf8 !important; }
+        .cm-line.block-l2-deleteme-box::after { background-color: #f43f5e !important; }
+        .cm-line.block-l2-no-header::after { background-color: #9ca3af !important; }
+        .cm-line.block-l2-compact::after { background-color: #64748b !important; }
+        .cm-line.block-l2-laut-table::after { background-color: #10b981 !important; }
+        .cm-line.block-l2-metrik-schema::after { background-color: #64748b !important; }
 
         /* Background Colors (Applied from the innermost block) */
-        .CodeMirror-linebackground.block-bg-grammar-box { background-color: rgba(234, 179, 8, 0.04) !important; }
-        .CodeMirror-linebackground.block-bg-grammar-box2 { background-color: rgba(234, 88, 12, 0.04) !important; }
-        .CodeMirror-linebackground.block-bg-important { background-color: rgba(139, 92, 246, 0.04) !important; }
-        .CodeMirror-linebackground.block-bg-note-box { background-color: rgba(72, 98, 110, 0.04) !important; }
-        .CodeMirror-linebackground.block-bg-indent { background-color: rgba(0, 0, 0, 0.01) !important; }
-        .CodeMirror-linebackground.block-bg-center { background-color: rgba(0, 0, 0, 0.02) !important; }
-        .CodeMirror-linebackground.block-bg-deleteme-box { background-color: rgba(244, 63, 94, 0.06) !important; }
-        .dark .CodeMirror-linebackground.block-bg-deleteme-box { background-color: rgba(244, 63, 94, 0.1) !important; }
+        .cm-line.block-bg-grammar-box { background-color: rgba(234, 179, 8, 0.04) !important; }
+        .cm-line.block-bg-grammar-box2 { background-color: rgba(234, 88, 12, 0.04) !important; }
+        .cm-line.block-bg-important { background-color: rgba(139, 92, 246, 0.04) !important; }
+        .cm-line.block-bg-note-box { background-color: rgba(72, 98, 110, 0.04) !important; }
+        .cm-line.block-bg-indent { background-color: rgba(0, 0, 0, 0.01) !important; }
+        .cm-line.block-bg-center { background-color: rgba(0, 0, 0, 0.02) !important; }
+        .cm-line.block-bg-deleteme-box { background-color: rgba(244, 63, 94, 0.06) !important; }
+        .dark .cm-line.block-bg-deleteme-box { background-color: rgba(244, 63, 94, 0.1) !important; }
 
         .backdrop-line { display: none; }
         
@@ -657,6 +690,14 @@
            Source values from docs/.vitepress/theme/custom.css
         */
 
+        /* FOOTNOTES & DEFINITION LISTS */
+        .editor-preview .footnotes { margin-top: 2rem; font-size: 0.9em; }
+        .editor-preview .footnotes-sep { border: 0; border-top: 1px solid #94a3b8; }
+        .editor-preview .footnotes-list p { margin: 0.25rem 0; }
+        .editor-preview .footnote-backref { text-decoration: none; margin-left: 0.25em; }
+        .editor-preview dt { font-weight: 600; margin-top: 0.75rem; }
+        .editor-preview dd { margin-left: 1.5rem; }
+
         /* LAYOUT */
         .editor-preview {
             font-family: 'Source Serif 4', serif;
@@ -697,6 +738,25 @@
         }
         .editor-preview table .hi-dev {
             font-size: 1.35em;
+        }
+
+        .editor-preview mark,
+        .editor-preview .marker-yellow {
+            background-color: #fef08a !important;
+            color: #1e293b !important;
+            padding: 0.1em 0.35em !important;
+            border-radius: 3px !important;
+        }
+        .dark .editor-preview mark,
+        .dark .editor-preview .marker-yellow {
+            background-color: #eab308 !important;
+            color: #03192e !important;
+            font-weight: 600 !important;
+            box-shadow: 0 0 6px rgba(234, 179, 8, 0.3) !important;
+        }
+        .dark .editor-preview mark .sanskrit-dev,
+        .dark .editor-preview .marker-yellow .sanskrit-dev {
+            color: #8b1a1a !important;
         }
 
         /* GRAMMAR BOX */
@@ -1024,6 +1084,8 @@
             <div class="syn-row" onclick="insertSnippet('[', '](url)')"><code>[Text](url)</code><span class="syn-desc" data-syn-d="link">Link</span></div>
             <div class="syn-row" onclick="insertSnippet('![', '](path)')"><code>![Alt](path)</code><span class="syn-desc" data-syn-d="img">Image</span></div>
             <div class="syn-row" onclick="insertSnippet('\n| A | B |\n|---|---|\n| ', ' | |')"><code>| A | B |</code><span class="syn-desc" data-syn-d="tbl">Table</span></div>
+            <div class="syn-row" onclick="insertSnippet('[^1]\n\n[^1]: ', '')"><code>[^1] Footnote</code><span class="syn-desc" data-syn-d="fn">Footnote</span></div>
+            <div class="syn-row" onclick="insertSnippet('\nTerm\n: ', '')"><code>Term : Def.</code><span class="syn-desc" data-syn-d="dl">Definition list</span></div>
             <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
             <h4 data-syn-h="ext">Extended Markdown</h4>
             <div class="syn-row" onclick="insertSnippet(':br', '')"><code>:br</code><span class="syn-desc" data-syn-d="br">Line break</span></div>
@@ -1074,13 +1136,13 @@
         const SYNTAX_I18N = {
             de: { std:'Standard Markdown', ext:'Erweitertes Markdown', mmd:'MultiMD Tabellen', cnt:'Container Blöcke',
                   h16:'H1–H6', bold:'Fett', ital:'Kursiv', code:'Code (Inline)', bq:'Zitatblock', list:'Liste',
-                  link:'Link', img:'Bild', tbl:'Tabelle', hr:'Trennlinie', br:'Zeilenumbruch', ind:'Einrückung',
+                  link:'Link', img:'Bild', tbl:'Tabelle', fn:'Fußnote', dl:'Definitionsliste', hr:'Trennlinie', br:'Zeilenumbruch', ind:'Einrückung',
                   cs:'Spalten (Colspan)', rs:'Zeilen (Rowspan)', yel:'gelb', ora:'orange', vio:'violett', gry:'grau',
                   indt:'eingerückt', ctr:'zentriert', med:'Bild-Block', del:'unsichtbar',
                   noh:'Tabelle ohne Header', cmp:'Kompakte Tabelle', laut:'Laut-Tabelle', met:'Metrik', dev:'Devanāgarī', skt:'explizites Sanskrit' },
             en: { std:'Standard Markdown', ext:'Extended Markdown', mmd:'MultiMD Tables', cnt:'Container Blocks',
                   h16:'H1–H6', bold:'Bold', ital:'Italic', code:'Inline code', bq:'Blockquote', list:'List',
-                  link:'Link', img:'Image', tbl:'Table', hr:'Ruler', br:'Line break', ind:'Inline indent',
+                  link:'Link', img:'Image', tbl:'Table', fn:'Footnote', dl:'Definition list', hr:'Ruler', br:'Line break', ind:'Inline indent',
                   cs:'Colspan', rs:'Rowspan', yel:'yellow', ora:'orange', vio:'violet', gry:'gray',
                   indt:'indented', ctr:'centered', med:'Image block', del:'invisible',
                   noh:'Table no header', cmp:'compact table', laut:'Sound table', met:'Metrics', dev:'Devanāgarī', skt:'explicit Sanskrit' },
@@ -1358,7 +1420,7 @@
         }
 
         function exitQA() {
-            const currentVal = cmEditor ? cmEditor.getValue() : (document.getElementById('editor-input') || {}).value || '';
+            const currentVal = cmEditor ? cmEditor.state.doc.toString() : (document.getElementById('editor-input') || {}).value || '';
             if (window._originalEditorContentText !== undefined && currentVal !== window._originalEditorContentText) {
                 const modal = document.getElementById('exit-confirm-modal');
                 modal.style.display = 'flex';
@@ -1435,7 +1497,7 @@
 
         // Sicherheitsabfrage beim Verlassen/Schließen des Tabs
         window.addEventListener('beforeunload', (e) => {
-            const currentVal = cmEditor ? cmEditor.getValue() : (document.getElementById('editor-input') || {}).value || '';
+            const currentVal = cmEditor ? cmEditor.state.doc.toString() : (document.getElementById('editor-input') || {}).value || '';
             if (window._originalEditorContentText !== undefined && currentVal !== window._originalEditorContentText) {
                 e.preventDefault();
                 e.returnValue = 'Achtung: Es gibt ungespeicherte Änderungen!';
@@ -1487,7 +1549,7 @@
                     return;
                 }
             }
-            let srcText = cmEditor ? cmEditor.getValue() : editorInput.value;
+            let srcText = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             let html = window.md.render(srcText);
             // Fallback: convert any remaining [[br]] or :br literals to <br> (safe inside <td>/<th>)
             html = html.replace(/(?:\[\[br\]\]|:br)/g, '<br>');
@@ -1501,7 +1563,7 @@
         function updateSaveButtonState() {
             const btn = document.getElementById('menu-save');
             if (!btn) return;
-            const currentText = cmEditor ? cmEditor.getValue() : (document.getElementById('editor-input') || {}).value || '';
+            const currentText = cmEditor ? cmEditor.state.doc.toString() : (document.getElementById('editor-input') || {}).value || '';
             if (currentText === window._originalEditorContentText) {
                 btn.style.pointerEvents = 'none';
                 btn.style.opacity = '0.5';
@@ -1559,10 +1621,9 @@
                 updateSaveButtonState();
                 renderPreview();
                 if (cmEditor) {
-                    cmEditor.setValue(editorInput.value);
+                    QaEditor.setDoc(cmEditor, editorInput.value);
                     const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                    cmEditor.setOption("firstLineNumber", offset + 1);
-                    updateCodeMirrorBlocks(cmEditor);
+                    QaEditor.setFirstLine(cmEditor, offset + 1);
                 }
                 return;
             }
@@ -1571,10 +1632,9 @@
                 updateSaveButtonState();
                 renderPreview();
                 if (cmEditor) {
-                    cmEditor.setValue(editorInput.value);
+                    QaEditor.setDoc(cmEditor, editorInput.value);
                     const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                    cmEditor.setOption("firstLineNumber", offset + 1);
-                    updateCodeMirrorBlocks(cmEditor);
+                    QaEditor.setFirstLine(cmEditor, offset + 1);
                 }
                 return;
             }
@@ -1589,16 +1649,15 @@
                 editorInput.value = cleanValue;
                 window._originalEditorContentText = cleanValue;
                 if (cmEditor) {
-                    cmEditor.setValue(cleanValue);
+                    QaEditor.setDoc(cmEditor, cleanValue);
                     const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                    cmEditor.setOption("firstLineNumber", offset + 1);
-                    updateCodeMirrorBlocks(cmEditor);
+                    QaEditor.setFirstLine(cmEditor, offset + 1);
                 }
             } catch(e) {
                 editorInput.value = '';
                 window._originalEditorContentText = '';
                 editorInput.placeholder = 'Error: ' + mdUrl + ' could not be loaded.';
-                if (cmEditor) cmEditor.setValue('');
+                if (cmEditor) QaEditor.setDoc(cmEditor, '');
             }
             updateSaveButtonState();
             renderPreview();
@@ -1617,54 +1676,8 @@
                 btn.classList.toggle('active', vimModeActive);
             }
             if (cmEditor) {
-                cmEditor.setOption('keyMap', vimModeActive ? 'vim' : 'default');
+                QaEditor.setVim(cmEditor, vimModeActive);
                 cmEditor.focus();
-            }
-        }
-
-        function updateCodeMirrorBlocks(cm) {
-            cm.eachLine((lineHandle) => {
-                cm.removeLineClass(lineHandle, 'background');
-            });
-            
-            const linesCount = cm.lineCount();
-            let blockStack = [];
-            
-            for (let i = 0; i < linesCount; i++) {
-                const lineText = cm.getLine(i);
-                
-                const openMatch = lineText.match(/^(:{3,5})\s*([\w-]+)/);
-                const closeMatch = lineText.trim().match(/^(:{3,5})$/);
-                
-                let toRemoveIndex = -1;
-                
-                if (openMatch) {
-                    blockStack.push({ level: openMatch[1].length, name: openMatch[2] });
-                } else if (closeMatch) {
-                    const level = closeMatch[1].length;
-                    for (let j = blockStack.length - 1; j >= 0; j--) {
-                        if (blockStack[j].level === level) {
-                            toRemoveIndex = j;
-                            break;
-                        }
-                    }
-                }
-                
-                // Add border lines for each active layer in stack (still includes the closed one on this line)
-                for (let depth = 0; depth < Math.min(blockStack.length, 3); depth++) {
-                    cm.addLineClass(i, 'background', `block-l${depth}-${blockStack[depth].name}`);
-                }
-                
-                // Add background color for innermost container
-                if (blockStack.length > 0) {
-                    const innermost = blockStack[blockStack.length - 1].name;
-                    cm.addLineClass(i, 'background', `block-bg-${innermost}`);
-                }
-                
-                // Remove closed block after current line has been processed
-                if (toRemoveIndex !== -1) {
-                    blockStack.splice(toRemoveIndex, 1);
-                }
             }
         }
 
@@ -1675,28 +1688,19 @@
             const editorInput = document.getElementById('editor-input');
             const editorPreview = document.getElementById('editor-preview');
 
-            // Initialize CodeMirror 5
-            cmEditor = CodeMirror.fromTextArea(editorInput, {
-                lineNumbers: true,
-                mode: 'markdown',
-                keyMap: 'vim',
-                lineWrapping: true,
-                theme: 'default'
-            });
-
+            // Initialize CodeMirror 6 (bundle: /qa_editor.js, source: scripts/qa-editor/entry.js)
             // Update content and trigger preview updates on changes
-            cmEditor.on('change', (cm) => {
-                editorInput.value = cm.getValue();
+            cmEditor = QaEditor.create(editorInput, (view) => {
+                editorInput.value = view.state.doc.toString();
                 updateSaveButtonState();
                 clearTimeout(editorDebounce);
                 editorDebounce = setTimeout(renderPreview, 300);
-                updateCodeMirrorBlocks(cm);
             });
 
             // Scroll Sync between CodeMirror-scroll and editorPreview
             // Wait slightly for CM to create its structure
             setTimeout(() => {
-                const cmScroll = document.querySelector('.CodeMirror-scroll');
+                const cmScroll = document.querySelector('.cm-scroller');
                 if (cmScroll) {
                     cmScroll.addEventListener('mouseenter', () => activeScroller = cmScroll);
                     cmScroll.addEventListener('touchstart', () => activeScroller = cmScroll);
@@ -1716,7 +1720,7 @@
 
             editorPreview.addEventListener('scroll', function() {
                 if (isDragging1 || isDragging2) return;
-                const cmScroll = document.querySelector('.CodeMirror-scroll');
+                const cmScroll = document.querySelector('.cm-scroller');
                 if (activeScroller === editorPreview && viewMode.startsWith('edit') && cmScroll) {
                     if (this.scrollHeight <= this.clientHeight) return;
                     const percentage = this.scrollTop / (this.scrollHeight - this.clientHeight);
@@ -1752,7 +1756,7 @@
             editorActions.style.display = isEditor ? 'flex' : 'none';
             
             const editorBackdrop = document.getElementById('editor-backdrop');
-            const cmWrapper = document.querySelector('.CodeMirror');
+            const cmWrapper = document.querySelector('.cm-editor');
 
             if (isEditor) {
                 leftRaw.style.display = 'none';
@@ -1782,7 +1786,7 @@
                 
                 loadEditorContent();
                 // Refresh CodeMirror after layout change so it measures correctly
-                if (cmEditor) setTimeout(() => cmEditor.refresh(), 100);
+                if (cmEditor) setTimeout(() => cmEditor.requestMeasure(), 100);
             } else {
                 leftPane.style.display = 'flex';
                 leftPane.style.width = '50%';
@@ -1799,14 +1803,14 @@
 
         function insertSnippet(before, after) {
             if (cmEditor) {
-                const selected = cmEditor.getSelection();
-                cmEditor.replaceSelection(before + selected + after);
-                // If no text was selected, place cursor between before and after
-                if (!selected) {
-                    const cursor = cmEditor.getCursor();
-                    const afterLines = after.split('\n');
-                    cmEditor.setCursor({ line: cursor.line - afterLines.length + 1, ch: 0 });
-                }
+                const sel = cmEditor.state.selection.main;
+                const selected = cmEditor.state.sliceDoc(sel.from, sel.to);
+                // Without a selection the cursor goes between before and after
+                cmEditor.dispatch({
+                    changes: { from: sel.from, to: sel.to, insert: before + selected + after },
+                    selection: { anchor: sel.from + before.length + (selected ? selected.length + after.length : 0) },
+                    scrollIntoView: true
+                });
                 cmEditor.focus();
             } else {
                 // Fallback to textarea API
@@ -1906,10 +1910,9 @@
                 editorInput.value = stripFrontmatter(content);
                 window._originalEditorContentText = editorInput.value;
                 if (cmEditor) {
-                    cmEditor.setValue(editorInput.value);
+                    QaEditor.setDoc(cmEditor, editorInput.value);
                     const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                    cmEditor.setOption("firstLineNumber", offset + 1);
-                    updateCodeMirrorBlocks(cmEditor);
+                    QaEditor.setFirstLine(cmEditor, offset + 1);
                 }
                 updateSaveButtonState();
                 editorInput.placeholder = 'Enter Markdown here…';
@@ -1979,13 +1982,20 @@
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
 
-            const currentValue = cmEditor ? cmEditor.getValue() : editorInput.value;
+            const currentValue = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             const repair = autoRepairContainerSyntax(currentValue);
             if (repair.modified) {
                 if (cmEditor) {
-                    cmEditor.setValue(repair.text);
+                    QaEditor.setDoc(cmEditor, repair.text, { preserveState: true });
                 } else {
+                    const start = editorInput.selectionStart;
+                    const end = editorInput.selectionEnd;
+                    const scroll = editorInput.scrollTop;
                     editorInput.value = repair.text;
+                    try {
+                        editorInput.setSelectionRange(start, end);
+                        editorInput.scrollTop = scroll;
+                    } catch (_) {}
                 }
                 if (btn) {
                     btn.style.backgroundColor = '#eab308';
@@ -1993,7 +2003,7 @@
                 }
             }
 
-            const savedValue = cmEditor ? cmEditor.getValue() : editorInput.value;
+            const savedValue = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             const text = (window._editorFrontmatter || '') + savedValue;
             const base64Content = btoa(unescape(encodeURIComponent(text)));
 
@@ -2090,10 +2100,9 @@
                 editorInput.value = cleanValue;
                 window._originalEditorContentText = cleanValue;
                 if (cmEditor) {
-                    cmEditor.setValue(cleanValue);
+                    QaEditor.setDoc(cmEditor, cleanValue);
                     const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                    cmEditor.setOption("firstLineNumber", offset + 1);
-                    updateCodeMirrorBlocks(cmEditor);
+                    QaEditor.setFirstLine(cmEditor, offset + 1);
                 }
                 updateSaveButtonState();
                 document.getElementById('btn-file-menu').textContent = 'File (📄 ' + handle.name + ') ▾';
@@ -2116,10 +2125,9 @@
                     editorInput.value = cleanValue;
                     window._originalEditorContentText = cleanValue;
                     if (cmEditor) {
-                        cmEditor.setValue(cleanValue);
+                        QaEditor.setDoc(cmEditor, cleanValue);
                         const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
-                        cmEditor.setOption("firstLineNumber", offset + 1);
-                        updateCodeMirrorBlocks(cmEditor);
+                        QaEditor.setFirstLine(cmEditor, offset + 1);
                     }
                     updateSaveButtonState();
                     renderPreview();
@@ -2147,13 +2155,20 @@
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
 
-            const currentValue = cmEditor ? cmEditor.getValue() : editorInput.value;
+            const currentValue = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             const repair = autoRepairContainerSyntax(currentValue);
             if (repair.modified) {
                 if (cmEditor) {
-                    cmEditor.setValue(repair.text);
+                    QaEditor.setDoc(cmEditor, repair.text, { preserveState: true });
                 } else {
+                    const start = editorInput.selectionStart;
+                    const end = editorInput.selectionEnd;
+                    const scroll = editorInput.scrollTop;
                     editorInput.value = repair.text;
+                    try {
+                        editorInput.setSelectionRange(start, end);
+                        editorInput.scrollTop = scroll;
+                    } catch (_) {}
                 }
                 if (btn) {
                     btn.style.backgroundColor = '#eab308'; // yellow warning color flash
@@ -2161,7 +2176,7 @@
                 }
             }
 
-            const savedValue = cmEditor ? cmEditor.getValue() : editorInput.value;
+            const savedValue = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             const text = (window._editorFrontmatter || '') + savedValue;
 
             // File System Access API — direktes Rückschreiben
@@ -2221,7 +2236,7 @@
             }
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
-            const currentValue = cmEditor ? cmEditor.getValue() : editorInput.value;
+            const currentValue = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             const text = (window._editorFrontmatter || '') + currentValue;
             
             try {
@@ -2383,7 +2398,7 @@
                     if (syncMode === 'pct' && e.data.pct !== undefined) {
                         isSyncing = true;
                         if (cmEditor) {
-                            const cmScroll = document.querySelector('.CodeMirror-scroll');
+                            const cmScroll = document.querySelector('.cm-scroller');
                             if (cmScroll) {
                                 const maxH = cmScroll.scrollHeight - cmScroll.clientHeight;
                                 if (maxH > 0) cmScroll.scrollTop = e.data.pct * maxH;
@@ -2484,14 +2499,14 @@
 
         function scrollCodeMirrorToHeading(cm, heading) {
             if (!heading) return;
-            const linesCount = cm.lineCount();
+            const doc = cm.state.doc;
             let targetLine = -1;
             
             // Clean numbers or spaces prefix from heading text
             const cleanHeading = heading.replace(/^\d+(\.\d+)*\.?\s+/, '').trim().toLowerCase();
             
-            for (let i = 0; i < linesCount; i++) {
-                const lineText = cm.getLine(i);
+            for (let i = 1; i <= doc.lines; i++) {
+                const lineText = doc.line(i).text;
                 const m = lineText.match(/^#{1,6}\s+(.+)/);
                 if (m) {
                     const candidate = m[1].trim().replace(/^\d+(\.\d+)*\.?\s+/, '').trim().toLowerCase();
@@ -2502,8 +2517,7 @@
                 }
             }
             if (targetLine !== -1) {
-                const rect = cm.charCoords({line: targetLine, ch: 0}, "local");
-                cm.scrollTo(null, rect.top - 50);
+                cm.scrollDOM.scrollTop = cm.lineBlockAt(doc.line(targetLine).from).top - 50;
             }
         }
 
@@ -2719,6 +2733,8 @@
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
         import extensiblePlugin from 'https://esm.sh/markdown-it-extensible@1.2.2';
+        import footnote from 'https://esm.sh/markdown-it-footnote@4.0.0';
+        import deflist from 'https://esm.sh/markdown-it-deflist@4.0.0';
         const multimd = window.markdownitMultimdTable;
 
         function buildRenderer() {
@@ -2732,6 +2748,9 @@
                 multiscript: true,
                 colspans: true
             });
+
+            md.use(footnote);
+            md.use(deflist);
 
             // Normalize any signal-red directive without leading colon: sig[...] -> :sig[...]
             md.core.ruler.before('linkify', 'sig_normalize', (state) => {
