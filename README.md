@@ -1,5 +1,11 @@
 # Sanskritkurs Payer (VitePress Migration)
 
+> **Vollständiger digitaler Sanskritkurs nach Alois Payer (Tüpfli's Global Village Library) mit multilingualer Grammatik, Vektorsatz und QA-Viewer.**
+>
+> 🌐 **Live-Dokumentation & Online-Kurs:** [https://birchville-org.github.io/sanskritkurs-payer/](https://birchville-org.github.io/sanskritkurs-payer/)  
+> 📖 **Payer Homelab App:** [https://payer.birchville.org](https://payer.birchville.org)  
+> 🏛️ **Birchville Portal:** [https://birchville.org](https://birchville.org)
+
 This repository contains the migrated and modernized version of the original Sanskrit course by Alois Payer. The content has been algorithmically parsed, cleaned of legacy HTML clutter, and reconstructed into a modern, lightning-fast static documentation site using [VitePress](https://vitepress.dev/).
 
 ## 🚀 Setup & Development
