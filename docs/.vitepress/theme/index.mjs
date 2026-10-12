@@ -14,6 +14,7 @@ import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import PayerNotFound from './components/PayerNotFound.vue'
 import PayerSemanticSearch from './components/PayerSemanticSearch.vue'
+import BirchvilleNavDrawer from './components/BirchvilleNavDrawer.vue'
 import 'markdown-it-extensible/css'
 import './custom.css'
 
@@ -172,7 +173,7 @@ export default {
   Layout: () => h(DefaultTheme.Layout, null, {
     'doc-before': () => h(PayerOfflineIndicator),
     'doc-footer-before': () => h(PayerDocFooter),
-    'nav-bar-content-after': () => h(PayerWideToggle),
+    'nav-bar-content-after': () => [h(PayerWideToggle), h(BirchvilleNavDrawer)],
     'nav-bar-search-before': () => h(PayerSemanticSearch)
   }),
   NotFound: PayerNotFound,
@@ -243,6 +244,7 @@ export default {
       app.component('PayerLanguageSettings', PayerLanguageSettings)
       app.component('PayerOfflineIndicator', PayerOfflineIndicator)
       app.component('PayerSemanticSearch', PayerSemanticSearch)
+      app.component('BirchvilleNavDrawer', BirchvilleNavDrawer)
       
       if (typeof window !== 'undefined') {
           // Suche: Detailansicht immer einschalten

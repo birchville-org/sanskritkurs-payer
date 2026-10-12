@@ -24,8 +24,8 @@ html {
   --vp-c-brand-3: #241500; 
   --vp-c-brand-soft: rgba(3, 25, 46, 0.05);
 
-  --vp-c-divider: #a1a1a1; 
-  --vp-c-border: #a1a1a1;
+  --vp-c-divider: #d8d2c6; 
+  --vp-c-border: #d8d2c6;
   --vp-c-gutter: transparent;
 }
 
@@ -1128,21 +1128,63 @@ select.control-btn,
   }
 }
 
-/* ── Navbar Logo Boundary Fix ── */
+/* ── Birchville Scholarly Synthesis: Header & Navigation Layout ── */
+.VPNavBar {
+  background-color: rgba(252, 249, 242, 0.88) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+.dark .VPNavBar {
+  background-color: rgba(10, 22, 40, 0.88) !important;
+  backdrop-filter: blur(14px) !important;
+  -webkit-backdrop-filter: blur(14px) !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
 .VPNavBarTitle {
   max-height: var(--vp-nav-height, 64px) !important;
-  overflow: hidden !important;
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.6rem !important;
 }
 
 .VPNavBarTitle .logo,
 .VPNavBarTitle img,
-.VPNavBarTitle svg,
 .VPImage.logo {
-  height: 28px !important;
-  max-height: 28px !important;
+  height: 2.1rem !important;
+  max-height: 2.1rem !important;
   width: auto !important;
-  max-width: 160px !important;
+  border-radius: 4px !important;
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.18)) !important;
   object-fit: contain !important;
+}
+
+.VPNavBarTitle .title {
+  font-size: 0.92rem !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.015em !important;
+  color: var(--vp-c-text-1) !important;
+}
+
+/* Universal Hamburger Drawer on all screens */
+.VPNavBarMenu {
+  display: none !important;
+}
+
+.VPNavBarHamburger {
+  display: none !important;
+}
+
+.VPNavScreen {
+  display: none !important;
+}
+
+.VPNavBar .content-body {
+  display: flex !important;
+  align-items: center !important;
+  gap: 4px !important;
 }
 
 /* Footnotes (markdown-it-footnote) and definition lists (markdown-it-deflist) */

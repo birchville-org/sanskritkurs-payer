@@ -176,6 +176,8 @@ export default defineConfig({
   },
   
   themeConfig: {
+    logo: '/birchville_logo.png',
+    siteTitle: 'Sanskritkurs',
     search: { 
       provider: 'local', 
       options: {

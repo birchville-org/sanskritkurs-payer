@@ -35,7 +35,7 @@ def build_exports(lang="de"):
         f"- **Herausgeber & Digitalisierung:** Sanskritkurs Payer Project\n"
         f"- **Webmaster & Kontakt:** webmaster@birchville.org\n"
         f"- **Lektorat & Mitarbeit:** onboarding@birchville.org\n"
-        f"- **Open-Source Standalone Editor:** https://github.com/marcodem/zentauri\n"
+        f"- **Open-Source Standalone Editor:** https://github.com/birchville-org/zentauri\n"
         f"- **Rechtlicher Hinweis:** Dieses Werk ist urheberrechtlich geschützt. Die vollständigen Lizenz- und Quellennachweise für sämtliche Texte, Schriften und Abbildungen sind im Anhang dieses Dokuments vollständig eingebunden.\n"
         f"- **Dokument-Typ:** Offizielles E-Book & PDF-Artefakt (Sanskritkurs Payer Project)\n\n"
         f"---\n\n"
