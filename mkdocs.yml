@@ -10,24 +10,26 @@ docs_dir: site_docs
 theme:
   name: material
   language: de
+  logo: assets/birchville_logo.png
+  favicon: assets/birchville_logo.png
   palette:
     - scheme: default
-      primary: blue grey
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-7
-        name: Wechsel zu dunklem Modus
+        icon: material/weather-night
+        name: Zu dunklem Design wechseln
     - scheme: slate
-      primary: blue grey
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/brightness-4
-        name: Wechsel zu hellem Modus
+        icon: material/weather-sunny
+        name: Zu hellem Design wechseln
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -78,4 +80,5 @@ markdown_extensions:
   - attr_list
 
 extra_css:
+  - stylesheets/birchville.css
   - stylesheets/extra.css

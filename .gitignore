@@ -92,6 +92,8 @@ archive/
 .codegraph/
 *.bak
 *.png
+!docs/public/birchville_logo.png
+!site_docs/assets/birchville_logo.png
 venv/
 proj
 /check_*.py
