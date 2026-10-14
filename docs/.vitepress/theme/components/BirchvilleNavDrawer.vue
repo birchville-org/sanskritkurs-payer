@@ -1,11 +1,12 @@
 <script setup>
-import { ref, computed, watch, onMounted, onUnmounted } from 'vue'
-import { withBase, useData, useRoute } from 'vitepress'
+import { ref, computed, watch, nextTick, onMounted, onUnmounted } from 'vue'
+import { withBase, useRoute } from 'vitepress'
 import { ACTIVE_LOCALES } from '../../languages.mjs'
 
-const { site, lang } = useData()
 const route = useRoute()
 const isOpen = ref(false)
+const toggleBtnRef = ref(null)
+const closeBtnRef = ref(null)
 
 const currentLang = computed(() => {
   const path = route.path || (typeof window !== 'undefined' ? window.location.pathname : '')
@@ -18,16 +19,33 @@ const currentLang = computed(() => {
 
 const isEn = computed(() => currentLang.value !== 'de')
 
-function toggle() {
-  isOpen.value = !isOpen.value
+function open() {
+  isOpen.value = true
+  nextTick(() => {
+    closeBtnRef.value?.focus()
+  })
 }
 
-function close() {
+function close(restoreFocus = true) {
+  if (!isOpen.value) return
   isOpen.value = false
+  if (restoreFocus) {
+    nextTick(() => {
+      toggleBtnRef.value?.focus()
+    })
+  }
 }
 
-// Close drawer on route change
-watch(() => route.path, close)
+function toggle() {
+  if (isOpen.value) {
+    close(true)
+  } else {
+    open()
+  }
+}
+
+// Close drawer on route change (without focus restore)
+watch(() => route.path, () => close(false))
 
 function handleKeydown(e) {
   if (e.key === 'Escape' && isOpen.value) {
@@ -83,6 +101,7 @@ const navLinks = computed(() => {
 
     <!-- Universal Hamburger Toggle Button -->
     <button
+      ref="toggleBtnRef"
       type="button"
       class="bv-hamburger-btn"
       :class="{ 'is-active': isOpen }"
@@ -103,14 +122,16 @@ const navLinks = computed(() => {
         class="bv-drawer-backdrop"
         :class="{ 'is-open': isOpen }"
         aria-hidden="true"
-        @click="close"
+        @click="close(true)"
       ></div>
 
       <aside
         class="bv-drawer-panel"
         :class="{ 'is-open': isOpen }"
         :aria-hidden="!isOpen"
+        :inert="!isOpen ? true : undefined"
         role="dialog"
+        aria-modal="true"
         :aria-label="isEn ? 'Navigation Menu' : 'Navigationsmenü'"
       >
         <!-- Drawer Header with Birchville Coat of Arms -->
@@ -123,10 +144,11 @@ const navLinks = computed(() => {
             </div>
           </div>
           <button
+            ref="closeBtnRef"
             type="button"
             class="bv-drawer-close"
             :aria-label="isEn ? 'Close menu' : 'Menü schliessen'"
-            @click="close"
+            @click="close(true)"
           >
             &times;
           </button>
@@ -141,7 +163,7 @@ const navLinks = computed(() => {
                 :href="item.href"
                 :target="item.target || null"
                 :rel="item.target ? 'noopener noreferrer' : null"
-                @click="close"
+                @click="close(false)"
               >
                 <span class="bv-link-text">{{ item.text }}</span>
                 <span v-if="item.badge" class="bv-link-badge">{{ item.badge }}</span>
@@ -300,7 +322,8 @@ const navLinks = computed(() => {
   flex-direction: column;
   overflow-y: auto;
   transform: translateX(100%);
-  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  visibility: hidden;
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.28s ease;
 }
 
 .dark .bv-drawer-panel {
@@ -309,6 +332,7 @@ const navLinks = computed(() => {
 
 .bv-drawer-panel.is-open {
   transform: translateX(0);
+  visibility: visible;
 }
 
 /* Drawer Header */
@@ -442,7 +466,7 @@ const navLinks = computed(() => {
   padding: 2px 7px;
   border-radius: 4px;
   margin-right: 0.5rem;
-  border: 1px solid rgba(180, 83, 9, 0.2);
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 25%, transparent);
 }
 
 .bv-link-arrow {
