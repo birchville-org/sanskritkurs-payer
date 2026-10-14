@@ -8,7 +8,7 @@ title: Settings
 </ClientOnly>
 
 ::: note-box  About & Version
-- **Current Version**: `v1.8.12`
-- **Release Notes & Changelog**: [What's new in v1.8.12?](/release-notes)
+- **Current Version**: `v1.8.13`
+- **Release Notes & Changelog**: [What's new in v1.8.13?](/release-notes)
 - **Source Code & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

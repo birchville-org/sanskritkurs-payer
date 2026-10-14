@@ -8,6 +8,30 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.13 (Oktober 2026)
+
+**Focus:** *Universal Slide-Over Navigation Drawer, Birchville Scholarly Synthesis Design Tokens, markdown-it-extensible 1.3.2 Security & Nesting Protection*
+
+### ✨ Features & Highlights
+- **Universal Slide-Over Navigation Drawer**:
+  - Neuer interaktiver Slide-Over Drawer (`BirchvilleNavDrawer.vue`) für nahtlose Navigation auf Desktop- und Mobilgeräten.
+  - Vollständiges Fokus-Management (Fokus-Trap-Vermeidung via `:inert`, `visibility: hidden`, `role="dialog"`, `aria-modal="true"` und automatischer Fokus-Rückstellung auf den Menü-Toggle).
+  - Schneller Direktzugriff auf Kurs-Inhaltsverzeichnis, Grammatik-Systematik, Wortliste, QA-Viewer und Birchville-Netzwerk-Ressourcen.
+- **Birchville „Scholarly Synthesis“ Standard**:
+  - Integration der standardisierten Design-Tokens und Frosted-Glass-Header (`backdrop-filter: blur(14px)`).
+  - Dezent eingebundenes Birchville-Wappen (`/birchville_logo.png`) im Header und Drawer-Kopf.
+  - Theme-adaptive Gestaltung für Light Mode (Warm Ivory & Deep Ink) und Dark Mode (Illuminierte Handschrift bei Kerzenlicht).
+- **Sicherheits- & Parser-Härtungen (`markdown-it-extensible@1.3.2`)**:
+  - Konsequenter XSS-Schutz durch HTML-Escaping bei benutzerdefinierten Container-Titeln.
+  - Attribut- und Tag-Injection-Schutz für alle Block-Container und Inline-Direktiven.
+  - Nesting-Stack-Schutz (`nesting.js`): Unbekannte Container schließen übergeordnete Blöcke nicht mehr vorzeitig.
+  - Robuste Regex-Prävention gegen Falsch-Positive bei Zeitangaben und URLs.
+- **Dokumentation & Portal-Verlinkung**:
+  - Aktualisierung der Repository- und Issue-Links auf die GitHub Organization `birchville-org`.
+  - Prominente Direktverlinkungen auf Online-Kurs, Portal und Homelab im README.
+
+---
+
 ## 🚀 Version 1.8.12 (Oktober 2026)
 
 **Focus:** *CodeMirror 6 Editor-Migration, Footnote & Deflist Rendering, Silent Auto-Repair State Preservation*

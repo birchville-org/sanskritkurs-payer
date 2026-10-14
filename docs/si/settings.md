@@ -9,7 +9,7 @@ title: "සැකසුම්"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**වත්මන් අනුවාදය**: `v1.8.12`
-**Release Notes & Changelog**: [Was is new in v1.8.12?](/si/release-notes)
+**වත්මන් අනුවාදය**: `v1.8.13`
+**Release Notes & Changelog**: [Was is new in v1.8.13?](/si/release-notes)
 **Source code & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -9,7 +9,7 @@ title: "[Asetukset]"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Nykyinen versio**: `v1.8.12`
-**Julkaisutiedot & Muutosloki**: [Mitä uutta versiossa v1.8.12?](/fi/release-notes)
+**Nykyinen versio**: `v1.8.13`
+**Julkaisutiedot & Muutosloki**: [Mitä uutta versiossa v1.8.13?](/fi/release-notes)
 **Lähdekoodi & Repository**: [GitHub-Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::
