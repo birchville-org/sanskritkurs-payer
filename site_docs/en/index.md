@@ -1,12 +1,88 @@
+<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem; padding: 1rem 1.25rem; background: var(--md-default-bg-color--light); border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px;">
+  <img src="../assets/birchville_logo.png" alt="Birchville Coat of Arms" style="height: 2.4rem; border-radius: 4px; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.18));">
+  <div>
+    <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--md-accent-fg-color); font-weight: 700;">Birchville Scholarly Synthesis</div>
+    <div style="font-size: 0.95rem; font-weight: 600; color: var(--md-default-fg-color);">Canonical Editions of Classical Indological Reference Works</div>
+  </div>
+</div>
+
 # 📖 Sanskritkurs Payer — Documentation & Architecture
 
-> **Scholarly digitization, modernization, and AI-powered translation of Prof. Dr. Alois Payer's Sanskrit Course across 38+ target languages.**
+**Scholarly digitization, modernization, and AI-powered translation of Prof. Dr. Alois Payer's Sanskrit Course across 38+ target languages.**
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Node](https://img.shields.io/badge/node-20%2B-blue)
-![VitePress](https://img.shields.io/badge/SSG-VitePress%201.6-purple)
-![PWA](https://img.shields.io/badge/PWA-Offline%20Ready-brightgreen)
-![Docker](https://img.shields.io/badge/docker-multi--arch-blue)
+---
+
+## ⚡ Quick Access & Applications
+
+<div class="quick-access-grid">
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">🌐</span>
+        <span class="quick-card-title">Interactive Course (PWA)</span>
+      </div>
+      <div class="quick-card-body">
+        Complete textbook featuring 60+ lessons, exercises, and script modules in a modern offline-capable web application.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://birchville-org.github.io/sanskritkurs-payer/docs/" class="quick-btn quick-btn-primary" target="_blank" rel="noopener">
+        <span>➔</span> Launch Course (PWA)
+      </a>
+    </div>
+  </div>
+
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">🏛️</span>
+        <span class="quick-card-title">System Architecture</span>
+      </div>
+      <div class="quick-card-body">
+        Distributed 3-node topology with workstation (`nike`), dedicated LLM server (`nyx`), and staging runner (`nataraja`).
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="system-architecture.md" class="quick-btn quick-btn-outline">
+        <span>➔</span> System Architecture
+      </a>
+    </div>
+  </div>
+
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">🤖</span>
+        <span class="quick-card-title">AI Translation Pipeline</span>
+      </div>
+      <div class="quick-card-body">
+        Weg-B translation strategy with Translation Memory, Devanāgarī protection filters, and 3-stage model hierarchy.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="ai-translation.md" class="quick-btn quick-btn-outline">
+        <span>➔</span> Translation Pipeline
+      </a>
+    </div>
+  </div>
+
+  <div class="quick-card">
+    <div>
+      <div class="quick-card-header">
+        <span class="quick-card-icon">💻</span>
+        <span class="quick-card-title">Source Code & Pipeline</span>
+      </div>
+      <div class="quick-card-body">
+        Open-source repository, Markdown parser (`markdown-it-extensible`), Service Worker, and Docker setups on GitHub.
+      </div>
+    </div>
+    <div class="quick-card-action">
+      <a href="https://github.com/birchville-org/sanskritkurs-payer" class="quick-btn quick-btn-outline" target="_blank" rel="noopener">
+        <span>➔</span> GitHub Repository
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -23,39 +99,54 @@ The **Sanskritkurs Payer** project transitions this academic resource from stati
 
 ## 🏛️ Core Artifacts & Deliverables
 
-| Artifact | Description | Technology / Path |
-| :--- | :--- | :--- |
-| **Interactive Sanskrit Course** | Comprehensive textbook with 60+ lessons, exercise modules, and writing guides | VitePress PWA in `docs/` |
-| **Multilingual Editions** | 35+ fully validated target languages (140/140 files per language) | LLM Pipeline (`nyx.local:8000`) |
-| **Docker Containers** | Multi-architecture production container images (`linux/amd64`, `linux/arm64`) | `ghcr.io/birchville-org/sanskritkurs-payer:latest` |
-| **PWA & Offline Engine** | Language-partitioned cache (~23 MB per language), offline fallback system | Service Worker (`workbox`) |
-| **Desktop Bundles** | Standalone native desktop application | Tauri DMG (`src-tauri`) |
-| **Technical Documentation** | System architecture, translation strategy & language evaluation criteria | This MkDocs site (GitHub Pages) |
+- **Interactive Sanskrit Course (PWA)** (`docs/`)  
+  Complete digital textbook with 60+ lessons, interactive exercises, and script guides in an offline-ready VitePress Progressive Web App.  
+  [:octicons-globe-16: Open Course Online](https://birchville-org.github.io/sanskritkurs-payer/docs/) · [:octicons-mark-github-16: Source Code in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
+
+- **Multilingual Editions (38+ Target Languages)**  
+  35+ fully validated target languages (140/140 files per language) preserving Devanāgarī graphemes and IAST diacritics via LLM pipeline (`nyx.local:8000`).  
+  [:octicons-book-16: Language Selection & Criteria](languages.md) · [:octicons-cpu-16: AI Translation Pipeline](ai-translation.md)
+
+- **Production Docker Containers** (`ghcr.io/birchville-org/sanskritkurs-payer:latest`)  
+  Multi-architecture production images (`linux/amd64`, `linux/arm64`) for local and server-side deployment.  
+  [:octicons-container-16: GitHub Container Registry](https://ghcr.io/birchville-org/sanskritkurs-payer)
+
+- **PWA & Offline Engine** (`workbox`)  
+  Language-partitioned caching (~23 MB per language) for autonomous offline execution including fallback mechanisms.  
+  [:octicons-workflow-16: PWA & Infrastructure](pwa-infrastructure.md)
+
+- **Desktop Applications** (`src-tauri`)  
+  Standalone native desktop application for macOS and Linux with system menu integration and local asset storage.  
+  [:octicons-device-desktop-16: View Source in `src-tauri`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/src-tauri)
+
+- **Technical Documentation (GitHub Pages)**  
+  Comprehensive system architecture, translation methodology, and developer guidelines.  
+  [:octicons-repo-16: GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 
 ---
 
 ## 🗺️ Documentation Overview
 
-1. **[System Architecture](system-architecture.md):**
+1. **[System Architecture](system-architecture.md):**  
    Distributed 3-node topology (Workstation `nike.local`, LLM engine `nyx.local`, Staging/Runner `nataraja.local`), Mermaid system diagrams, and concurrency constraints.
-2. **[AI Translation Pipeline](ai-translation.md):**
+2. **[AI Translation Pipeline](ai-translation.md):**  
    The Weg B translation strategy, Translation Memory (TM) with MD5 hashing, Devanāgarī protection filters, and 3-stage model hierarchy (Local, Sonnet, Gemini).
-3. **[Language Selection & Criteria](languages.md):**
+3. **[Language Selection & Criteria](languages.md):**  
    Empirical findings from the 248.3-hour GPU benchmark, the 3-tier exclusion framework, and the 38+ language matrix.
-4. **[PWA & Infrastructure](pwa-infrastructure.md):**
+4. **[PWA & Infrastructure](pwa-infrastructure.md):**  
    Service Worker caching strategies, VitePress multi-lingual setup, Docker staging, and release pipelines.
-5. **[Developer Guidelines](guidelines.md):**
+5. **[Developer Guidelines](guidelines.md):**  
    Devanāgarī/IAST typographical rules, grammar-box syntax conventions (`::: grammar-box`), QA gates, and code governance.
-6. **[Wiki Index](wiki-home.md):**
+6. **[Wiki Index](wiki-home.md):**  
    Direct index of all reference articles in the official GitHub Wiki.
 
 ---
 
-## 🔗 External Links & Repositories
+## 📜 License & Provenance
 
-- **Source Code Repository:** [github.com/birchville-org/sanskritkurs-payer](https://github.com/birchville-org/sanskritkurs-payer)
-- **Online Documentation (GitHub Pages):** [birchville-org.github.io/sanskritkurs-payer](https://birchville-org.github.io/sanskritkurs-payer/)
-- **Container Registry:** [ghcr.io/birchville-org/sanskritkurs-payer](https://ghcr.io/birchville-org/sanskritkurs-payer)
-- **Related Projects:**
+- **Original Work**: Prof. Dr. Alois Payer (Tübingen).
+- **Digital Edition, AI Pipeline & Web App**: [MIT License](https://github.com/birchville-org/sanskritkurs-payer/blob/main/LICENSE) (Copyright (c) 2026 Marco Demarmels / Birchville Foundation).
+- **Referenced Projects**:
   - [AlexandriaSandwich](https://github.com/birchville-org/AlexandriaSandwich) — Hybrid OCR & Book Digitization Pipeline
+  - [macdonell](https://github.com/birchville-org/macdonell) — A Vedic Grammar for Students (1916) 1:1 Digital Typeset
   - [boethlingk](https://github.com/birchville-org/boethlingk) — Pāṇini's Grammar (1887) Edition Pipeline
