@@ -752,7 +752,7 @@ Afbeelding: Melodie, gerelateerd aan c, kan afhankelijk van de stemhoogte worden
 
 Nu u de basis van het Sanskriet hebt geleerd, bent u hopelijk zoals de peuters in de video: soms onhandig, maar leergierig en met plezier bij de les. Behoud tot het einde van uw leven "een beginner's mind".
 
-::: center
+::: verse-box
 Dit wenst u uw Alois Payer
 
 Ofterdingen, 2009-03-09

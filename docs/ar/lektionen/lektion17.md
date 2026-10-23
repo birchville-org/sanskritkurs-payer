@@ -2,7 +2,7 @@
 title: "الدرس 17"
 subtitle: "الصف الثاني من الأفعال المضارعة (⟪अदादि⟫ = ⟪अद्⟫ وهكذا)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

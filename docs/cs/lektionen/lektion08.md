@@ -3,8 +3,8 @@ title: "Lekce 8"
 subtitle: "Tvorba podstatných jmen & 8. třída přítomného času"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

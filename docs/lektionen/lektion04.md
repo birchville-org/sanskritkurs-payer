@@ -2,7 +2,7 @@
 title: Lektion 4
 subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -81,7 +81,9 @@ Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 :::
 Ein Beispiel anderer Fragen:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.)
+:::
 
 ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit.
 

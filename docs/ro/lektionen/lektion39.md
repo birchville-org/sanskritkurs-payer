@@ -2,7 +2,7 @@
 title: "Lecție 39"
 subtitle: "Desinențele personale ale primei persoane (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = „**a treia** persoană”)"
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

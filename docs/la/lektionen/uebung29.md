@@ -2,7 +2,7 @@
 title: "Exercitatio 29"
 uebung_id: 29
 category: "Exercitatio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,10 +27,12 @@ Ignorantia significat, quod instabile, immundum, miserum et non-absolutum ut sta
 
 Ante regimen nimis severum (daṇḍa) creaturae tremere debent. Regimen languidum contemnitur. Regimen rectissimum colitur. Regene sapienter ductum apud subditos iustitiam, utilitatem et voluptatem fovet. Regime ob voluptatem et odium vel contemptum male ductum irascitiam etiam apud senes in silvas secessos et vagantes ascetas excitat, quanto magis patresfamilias. Regimen non exercitum comportamentum ut pisces (mātsyanayāya) efficit. Si nemo est qui regimen tueatur, fortior enim debiliorem devorat. Si debilis a regiminis possessore custoditur, floret.
 
-> Mundus cum suis quattuor ordinibus et vitis gradibus  
-> A rege per regimen custoditur:  
-> Gaudens de actione iure proprio et more suo  
-> In propriis viis se movet.
+::: indent
+Mundus cum suis quattuor ordinibus et vitis gradibus
+A rege per regimen custoditur:
+Gaudens de actione iure proprio et more suo
+In propriis viis se movet.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

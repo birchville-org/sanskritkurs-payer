@@ -2,7 +2,7 @@
 title: "Lektion 3"
 subtitle: "Denominativ singular av femininum"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ The Nominative Singular is formed without an ending:
 
 :::
 
-::: important
+::: warning-box
 
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose Nominative Singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the Nominative Singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -100,11 +100,15 @@ t.ex.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā är en gudom" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā är gudinnan för mat och matlagning, hon betraktas som en inkarnation av Pārvatī, Śivas hustru.)
+::: indent
+(Annapūrṇā är gudinnan för mat och matlagning, hon betraktas som en inkarnation av Pārvatī, Śivas hustru.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī är en gudinna" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī är gudomen Indras hustru.)
+::: indent
+(Indrāṇī är gudomen Indras hustru.)
+:::
 
 ::: media
 
@@ -129,7 +133,9 @@ t.ex.
 
 devī + umā » devy umā "Umā är en / gudinnan" = ⟪देव्युमा⟫
 
-> (Umā är ett namn för Pārvatī, Śivas hustru)
+::: indent
+(Umā är ett namn för Pārvatī, Śivas hustru)
+:::
 
 ::: grammar-box
 

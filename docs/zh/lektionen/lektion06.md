@@ -2,7 +2,7 @@
 title: "第6課"
 subtitle: "動詞句的結構（施事者與動詞形式）"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

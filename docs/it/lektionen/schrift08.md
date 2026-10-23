@@ -1,3 +1,4 @@
+
 # Esercizio di scrittura 8
 
 Segni vocalici per l'inizio della parola, qualora la parola non sia scritta in combinazione con una parola precedente:

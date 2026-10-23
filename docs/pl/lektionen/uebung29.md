@@ -2,7 +2,7 @@
 title: "[W1] Ācārya: „Śūdras erlangen keine Befreiung.“"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Niewiedza oznacza, że uważa się to, co przemijające, nieczyste, pełne cierp
 
 Przed zbyt surową władzą (daṇḍa) istoty drżeć muszą. Zbyt słaba władza jest pogardzana. Właściwie zrównoważona władza jest czczona. Mądrze prowadzona władza sprzyja u poddanych sprawiedliwości, zyskowi i przyjemności. Słabo prowadzona władza ze względu na przywiązanie lub nienawiść, albo pogardę, gniewa nawet starszych ludzi i wędrownych ascetów wycofanych do lasu, a już na pewno głowy domowe. Nie sprawowana władza powoduje zachowanie według zasady rybiej (mātsyanayāya). Gdy bowiem nie ma nikogo, kto utrzymuje władzę w ryzach, silniejszy pożera słabszego. Gdy jednak słaby jest chroniony przez władcę, on się rozwija.
 
-> Świat ze swoimi czterema varnami i etapami życia  
-> Jest chroniony przez króla poprzez rządy:  
-> Radosny z działalności zgodnie ze swoim prawem i obyczajami  
-> Porusza się swoimi własnymi ścieżkami.
+::: indent
+Świat ze swoimi czterema varnami i etapami życia
+Jest chroniony przez króla poprzez rządy:
+Radosny z działalności zgodnie ze swoim prawem i obyczajami
+Porusza się swoimi własnymi ścieżkami.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

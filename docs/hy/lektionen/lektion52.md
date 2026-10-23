@@ -2,7 +2,7 @@
 title: "Դաս 52"
 subtitle: "Չեզոք ստորակարգ բառեր -i և -u վերջավորություններով"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -424,7 +424,7 @@ b) «-fach» (անգամ). արտահայտվում է -:sig[⟪धा⟫] վե�
 
 ::: indent
 
-> մեկ անգամ. ⟪एकधा⟫
+մեկ անգամ. ⟪एकधा⟫
 երկու անգամ. ⟪द्विधा । द्वेधा⟫
 և այլն.
 

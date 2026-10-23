@@ -2,7 +2,7 @@
 title: "Ejercicio 9"
 uebung_id: 9
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -109,5 +109,4 @@ La economía es agricultura, ganadería y comercio.
 ![](/images/uebung013.webp)
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung013))
-::: \<!--  --\>
 :::

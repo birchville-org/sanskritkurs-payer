@@ -2,7 +2,7 @@
 title: "Pamoka 27"
 subtitle: 'Lokativo vartojimas (⟪सप्तमी⟫ f. = \"septintojo linksnio pabaiga\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. Lokatyvas (⟪सप्तमी⟫) atsakant į klausimą „Kur?“ nurodo erdvę, kurioje (prie, ant, pas) yra veikėjas (⟪कर्ता⟫) arba veikos objektas, arba kur pati veika vyksta.**
 
-> ⟪नगरे वसति⟫ = „Jis gyvena mieste“
+⟪नगरे वसति⟫ = „Jis gyvena mieste“
 
 :::
 
@@ -44,19 +44,19 @@ Džajpuras, 1875 m.
 
 **2. Lokatyvas atsakant į klausimą „Kada?“ nurodo laiką arba išorines aplinkybes:**
 
-> ⟪तस्मिन्काले⟫ = „tuo metu, tuo laiku“
+⟪तस्मिन्काले⟫ = „tuo metu, tuo laiku“
 
 **Čia priskiriamas ir vadinamasis Locativus Absolutus:**
 
 **Jei vieno asmens ar daikto veikla ar būseną lemia laikas, kuriuo – arba aplinkybės, kuriomis – kitas asmuo ar daiktas atlieka veiką arba yra tam tikroje būsenoje, tada žodis, nurodantis pirmąjį asmenį ar daiktą, kartu su jį toliau apibrėžiančiu žodžiu (dažnai tai dalyvis) vartojamas lokatyve (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = „kol laikas taip bėga...“
-\>
-> ⟪तस्मिन्गते⟫ = „kai jis buvo nuėjęs...“
+⟪एवं गच्छति काले⟫ = „kol laikas taip bėga...“
+
+⟪तस्मिन्गते⟫ = „kai jis buvo nuėjęs...“
 
 **Kartais veikėjas (⟪कर्ता⟫) nėra tiesiogiai nurodomas:**
 
-> ⟪एवं सति⟫ = „kadangi situacija tokia“
+⟪एवं सति⟫ = „kadangi situacija tokia“
 
 **Locativus absolutus turi būti verčiamas pagal kontekstą kaip „kol“ (pvz., esamasis dalyvis), „po to, kai“, „kai“ (pvz., praeities dalyvis), „kadangi“, „nes“, „nors“, „jei“ ir kt.**
 
@@ -78,7 +78,7 @@ Rajasthanas.
 
 **3. Lokatyvas taip pat atsako į klausimą „Kuo atžvilgiu?“ ir pan.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Jis jaučia meilę savo sūnui“ (žodžiškai: „Kuo atžvilgiu sūnaus, pas jį yra meilė“)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Jis jaučia meilę savo sūnui“ (žodžiškai: „Kuo atžvilgiu sūnaus, pas jį yra meilė“)
 
 :::
 
@@ -96,7 +96,7 @@ Holis.
 
 **4. Lokatyvas vietinėse leksikonuose ir komentaruose naudojamas nurodyti žodžio reikšmę:**
 
-> ⟪भू सत्तायाम्⟫ = „šaknis ⟪भू⟫ reikšme 'būtiškumas' (sat-tā)“
+⟪भू सत्तायाम्⟫ = „šaknis ⟪भू⟫ reikšme 'būtiškumas' (sat-tā)“
 
 :::
 

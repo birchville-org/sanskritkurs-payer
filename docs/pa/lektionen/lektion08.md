@@ -3,8 +3,8 @@ title: "ਪਾਠ 8"
 subtitle: "ਨਾਂਵ ਬਣਾਉਣ ਤੇ 8. ਵਰਤਮਾਨ ਕਾਲ"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

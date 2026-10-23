@@ -2,7 +2,7 @@
 title: "Lekcija 14"
 subtitle: "Izraz odnosa označenog imenicama: genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = šesti padež)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Primjeri:
 ::: grammar-box
 Normalan red riječi je:
 
-> **Određujuća riječ u genitivu — Bliže određena imenica u drugom padežu**
+**Određujuća riječ u genitivu — Bliže određena imenica u drugom padežu**
 :::
 **Genitiv i PPP:**
 
@@ -37,15 +37,15 @@ Kod PPP-ova genitiv može umjesto instrumentalisa (tṛtīyā) stajati za agensa
 
 Prema Pāṇiniju 2.3.67 kod PPP-a genitiv stoji ako PPP ima prezentno značenje (vidi gore), instrumentalit ako PPP ima prošlo vrijeme:
 
-> ⟪रामस्येष्टं फलम्⟫ "The desired fruit of Rāma = The fruit that Rāma currently desires"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
+⟪रामस्येष्टं फलम्⟫ "The desired fruit of Rāma = The fruit that Rāma currently desires"
+
+⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
 
 Naturally, when a PPP neuter singular is used as a verbal abstractum - that is, as a noun - the genitive case stands.
 
-> ⟪रामस्येष्टं फलम्⟫ "The desired fruit of Rāma = The fruit that Rāma currently desires"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
+⟪रामस्येष्टं फलम्⟫ "The desired fruit of Rāma = The fruit that Rāma currently desires"
+
+⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
 
 Naturally, when a PPP neuter singular is used as a verbal abstractum - that is, as a noun - the genitive case stands.
 :::
@@ -62,7 +62,7 @@ After a consonant, the regular genitive endings are:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
@@ -78,10 +78,10 @@ After a consonant, the regular genitive endings are:
 
 The genitive plural of vowel-final stems is formed as follows:
 
-> **-long final vowel of the stem + -nām**
+**-long final vowel of the stem + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominal Stem | Genitive Plural |
 | :--- | :--- |
@@ -102,7 +102,7 @@ The genitive plural of vowel-final stems is formed as follows:
 Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti napamet.
 
 :::
-::: center
+::: verse-box
 
 | Stamm | Genetiv Singular |
 | :--- | :--- |
@@ -118,7 +118,7 @@ Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti nap
 :::
 **Upitne i pokazne zamjenice:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Genitiv jednine vokalnih osnova tvori se nepravilno i korisno ga je naučiti nap
 :::
 **Formengleichheit:**
 
-::: important
+::: warning-box
 
 In all nominal stems except for masculines and neuters ending in -a and pronouns, the form of the genitive singular is identical with the form of the ablative (pañcamī "fifth case ending") singular!
 
@@ -142,11 +142,11 @@ Note that in stems ending with a consonant, the ablative and genitive singular s
 ::: grammar-box
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g., with verbs of remembrance:
 
-> ⟪देवानां स्मरति⟫ "He remembers the gods"
+⟪देवानां स्मरति⟫ "He remembers the gods"
 
 However, with all these verbs, the object can also be in the accusative:
 
-> ⟪देवान्स्मरति⟫ "He remembers the gods"
+⟪देवान्स्मरति⟫ "He remembers the gods"
 
 More later.
 :::

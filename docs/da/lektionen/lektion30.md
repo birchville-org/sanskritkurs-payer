@@ -2,7 +2,7 @@
 title: "Lektion 30"
 subtitle: 'Den 9. præsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ osv.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

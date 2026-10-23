@@ -1,3 +1,4 @@
+
 # Kirjoitusharjoitus 10
 
 ### Toinen sääntö konsonanttiligatuurien muodostamiseksi
@@ -8,13 +9,17 @@ Jos yhdistettävien konsonanttien ensimmäinen ei pääty pystyviivaan, seuraava
 
 Poikkeukset: Jos ⟪म्⟫ tai ⟪य्⟫ ovat ligatuuran toinen jäsen, ne kirjoitetaan lyhennettynä ensimmäisen merkin jälkeen:
 
-> ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+::: indent
+⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+:::
 
 Huomaa:
 
-> ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
-> 
-> ⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+::: indent
+⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
+
+⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+:::
 
 ![](/images/schrift020.jpg)
 

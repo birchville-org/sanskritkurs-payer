@@ -1,3 +1,4 @@
+
 # Exercício de Escrita 9
 
 ### Separação Silábica

@@ -2,7 +2,7 @@
 title: "Pamoka 54"
 subtitle: "Išankstinė pastaba"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Pav.: ⟪अयुयुत्सुरर्जुनः भगवद्गी�
 I schema:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 II schema:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Taigi keturių paskutinių skiemenų kiekis abiejose schemose yra vienodas.
 
 ⟪जगती⟫ pagrindinė forma: kaip ir ⟪त्रिष्टुभ्⟫, bet 12 skiemenų. Paskutiniai 5 kiekvieno pada skiemenai turi šiuos kiekius:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Be to, yra vadinamoji tipiška perteklinė ⟪त्रिष्टुभ्⟫ su penkių skiemenų pradine dalimi, kuri tęsiasi kaip ⟪त्रिष्टुभ्⟫ su keturių skiemenų pradine dalimi:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Vėlesniais laikais ⟪त्रिष्टुभ्⟫ formos yra nustatomos pagal griežtą ilgų ir trumpų skiemenų schemą, cezūra nebeatsako. Svarbiausios vėlesnės formos yra:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

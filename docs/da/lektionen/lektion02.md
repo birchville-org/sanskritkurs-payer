@@ -3,8 +3,8 @@ title: "Lektion 2"
 subtitle: "Nominal sætningen og grundlaget for deklinationslære"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Skema: Predikatsnomen - Subjekt**
+:::
 
+::: indent
 f.eks. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu er en gud."
 :::
 Et verbalt kopulaord ("er", "er/sind", "jeg er", "du er", "I er") er ikke nødvendigt, men kan nogle gange forekomme.
@@ -76,7 +78,9 @@ Udtalen af en ordslutning i sanskrit afhænger også af begyndelsen på det efte
 
 Se også oversigten:
 
-> **Payer, Alois (1944–):** Sandhi af ordsluttende -s. -- (Materialer til sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi af ordsluttende -s. -- (Materialer til sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Ordsluttende **-s**:
 
@@ -120,7 +124,9 @@ foran andre vokaler: bliver til **-a** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (tjenestestånd).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**De fire stænder (varṇa)**
+
 Ifølge den klassiske teori (f.eks. Manusmṛti I, 88-91) er opgaverne fordelt:
 
 **brāhmaṇerne**

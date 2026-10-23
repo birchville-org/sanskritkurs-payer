@@ -2,7 +2,7 @@
 title: "Ejercicio 36"
 uebung_id: 36
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -141,9 +141,9 @@ Determine y traduzca las siguientes formas verbales:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | reveló |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | une para sí |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | bebió |
-:::: media
+:::
+::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung059))
-::::
 :::

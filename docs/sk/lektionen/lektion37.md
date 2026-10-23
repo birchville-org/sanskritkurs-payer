@@ -2,7 +2,7 @@
 title: "Lekcia 37"
 subtitle: "Príslovka (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

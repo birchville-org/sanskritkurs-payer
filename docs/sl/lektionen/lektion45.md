@@ -2,7 +2,7 @@
 title: "Urok 45"
 subtitle: "Oblikovanje glagolskih oblik druge osebe (⟪मध्यमः⟫) ne-atematskih korenin brez vokalskega končnega sufiksa (nadaljevanje)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

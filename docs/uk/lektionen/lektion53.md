@@ -650,7 +650,9 @@ lesson_id: 53
 
 Див. також:
 
-> **Пайєр, Алоїс (1944–):** Вступ до екзегези санскритських текстів : конспект. -- Розд. 8: Справжня екзегеза, частина II: До окремих питань синхронного розуміння. -- Додаток B: До метрики санскритських текстів. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Пайєр, Алоїс (1944–):** Вступ до екзегези санскритських текстів : конспект. -- Розд. 8: Справжня екзегеза, частина II: До окремих питань синхронного розуміння. -- Додаток B: До метрики санскритських текстів. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Значення визначення метра
 
@@ -750,13 +752,13 @@ lesson_id: 53
 
 Розподіл ⟪लघु⟫ та ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -796,7 +798,7 @@ lesson_id: 53
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -804,7 +806,7 @@ lesson_id: 53
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -816,7 +818,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -824,7 +826,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -832,7 +834,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -840,7 +842,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -855,7 +857,7 @@ lesson_id: 53
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

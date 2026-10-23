@@ -2,7 +2,7 @@
 title: Lektion 14
 subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -27,7 +27,7 @@ Beispiele:
 ::: grammar-box
 Die normale Wortstellung ist:
 
-> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
+**Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
 :::
 **Genetiv und PPP:**
 
@@ -36,9 +36,9 @@ Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (
 
 Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat"
 
 Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
 :::
@@ -55,7 +55,7 @@ Nach Konsonant sind die regelmässigen Genetivendungen:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
@@ -71,10 +71,10 @@ Nach Konsonant sind die regelmässigen Genetivendungen:
 
 Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
-> **-langer auslautender Vokal des Stammes + -nām**
+**-langer auslautender Vokal des Stammes + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalstamm | Genetiv Plural |
 | :--- | :--- |
@@ -95,7 +95,7 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet und ist gut auswendig zu lernen.
 
 :::
-::: center
+::: verse-box
 
 | Stamm | Genetiv Singular |
 | :--- | :--- |
@@ -111,7 +111,7 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet
 :::
 **Fragepronomen und Demonstrativpronomen:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet
 :::
 **Formengleichheit:**
 
-::: important
+::: warning-box
 
 Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
 
@@ -135,11 +135,11 @@ Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv S
 ::: grammar-box
 Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
+⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
 
 Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
 
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
+⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
 
 Weiteres später.
 :::

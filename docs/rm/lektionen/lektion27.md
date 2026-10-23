@@ -2,7 +2,7 @@
 title: "Lecziun 27"
 subtitle: 'Utilisaziun dal locativ (⟪सप्तमी⟫ f. = "settema desinenza casala")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Il locativ (⟪सप्तमी⟫) designa, en resposta a la dumonda "Ubi?", il spazi en (a, sin, apud) il qual l'agens (⟪कर्ता⟫) u l'object d'ina acziun sa chatta u nua che l'acziun stessa ha lieu.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "El habitesch en la citad"
+⟪नगरे⟫ ⟪वसति⟫ = "El habitesch en la citad"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Il locatiu inditza, en resposta a la question "Cun when?", il moment u las circumstanzas externass:**
 
-> ⟪तस्मिन्काले⟫ = "a quel temp, en quella ura"
+⟪तस्मिन्काले⟫ = "a quel temp, en quella ura"
 
 **Qua i va era ditg dal c.d. Locativus Absolutus:**
 
 **Determines l'acziun u il stadi d'ina persuna u d'ina cosa il temp, a il qual – u las circumstanzas, sut las qualas – ina AUTRA persuna u cosa executescha in'acziun u sa chatta en in stadi determinà, alura stat la parola che designescha la prima persuna u cosa cun la parola che la detalia dapli (quai è savens in participi) en il locatiu (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "durant che il tempu passa uschè..."
->
-> ⟪तस्मिन्गते⟫ = "cun el era ì..."
+⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "durant che il tempu passa uschè..."
+
+⟪तस्मिन्गते⟫ = "cun el era ì..."
 
 **A voutas vegn l'agent (⟪कर्ता⟫) betg designà expressivamain:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "perquai quai è uschè"
+⟪एवं⟫ ⟪सति⟫ = "perquai quai è uschè"
 
 **Il locativus absolutus deve essere tradotto a seconda del contesto con "mentre" (ad es. participio presente), "dopo che", "quando" (ad es. PPP), "poiché", "perché", "sebbene", "se", ecc.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Il locativ stat era sin la dumonda "En relaziun cun quai?" u.a.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "El ha amor per ses figl" (literalmain "Relativamain al figl è en el amor")
+⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "El ha amor per ses figl" (literalmain "Relativamain al figl è en el amor")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Il locativ servexa en ils lexichs nativs ed apud ils commentaders per inditgar il signific d’ina paraula:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "la radis भू en il sennì da «esseivladadad» (sat-tā)"
+⟪भू⟫ ⟪सत्तायाम्⟫ = "la radis भू en il sennì da «esseivladadad» (sat-tā)"
 
 :::
 Ulteriura davart l'usi dal locatiu pli tard.

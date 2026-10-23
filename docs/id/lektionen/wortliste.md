@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta pelayan).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Empat golongan (varṇa)**
+
 Menurut teori klasik (misalnya Manusmṛti I, 88-91), tugas-tugas dibagi sebagai berikut:
 
 **Brahmana**
@@ -463,8 +465,6 @@ terkait **yaj** 1 U:
 ::: note-box
 Di India, kata-kata yang benar diyakini memiliki kekuatan magis; bahkan seluruh tatanan alam semesta dipertahankan dan diciptakan melalui kata-kata yang benar. Untuk konsep penting ini, lihat karya mendasar berikut:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Gambar: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
 **saha** ⟪सह⟫ : bersama, secara bersama-sama (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan disunting oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Gambar: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
 **saha** ⟪सह⟫ : bersama, secara bersama-sama (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Diterbitkan dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hal., hal. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Pelajari kata-kata berikut:
 **eva** ⟪एव⟫ : menekankan kata sebelumnya
 **asura** m. ⟪असुर⟫ : iblis
 
-> **ASURA.** 'Spiritual, ilahi.'
->
-> Pada bagian-bagian tertua dari Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura dalam agama Zoroaster. Dalam arti 'dewa', istilah ini diterapkan kepada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian istilah ini memperoleh makna yang sepenuhnya berlawanan, dan mulai menandakan, sebagaimana sekarang, seorang iblis atau musuh para dewa.
->
-> Kata ini ditemukan dengan makna ini dalam bagian-bagian akhir Ṛgveda, khususnya pada kitab terakhir, dan juga dalam Atharvaveda. Para Brāhmaṇa memberikan makna yang sama, dan mencatat banyak pertempuran antara para Asura dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku sebagai Asura." Pada bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung anak. Ia menciptakan Asura dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan pertama, dan menyatakan bahwa "ia menciptakan Asura dari napasnya yang lebih rendah." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa-dewa, manusia, leluhur, Gandharva, dan Apsaras dari air, dan bahwa para Asura, Rakṣasa, dan piśāca muncul dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh para Prajāpati.
->
-> Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan dalam Vāyu Purāṇa adalah: "Para Asura pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka disebut Asura." Kata ini telah lama digunakan sebagai nama umum untuk musuh-musuh para dewa, termasuk Daityas dan Danavas serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasa yang berasal dari Pulastya.
->
-> Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' oleh karena itu, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
->
-> [Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, ilahi.'
+
+Pada bagian-bagian tertua dari Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura dalam agama Zoroaster. Dalam arti 'dewa', istilah ini diterapkan kepada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian istilah ini memperoleh makna yang sepenuhnya berlawanan, dan mulai menandakan, sebagaimana sekarang, seorang iblis atau musuh para dewa.
+
+Kata ini ditemukan dengan makna ini dalam bagian-bagian akhir Ṛgveda, khususnya pada kitab terakhir, dan juga dalam Atharvaveda. Para Brāhmaṇa memberikan makna yang sama, dan mencatat banyak pertempuran antara para Asura dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku sebagai Asura." Pada bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung anak. Ia menciptakan Asura dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan pertama, dan menyatakan bahwa "ia menciptakan Asura dari napasnya yang lebih rendah." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa-dewa, manusia, leluhur, Gandharva, dan Apsaras dari air, dan bahwa para Asura, Rakṣasa, dan piśāca muncul dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh para Prajāpati.
+
+Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan dalam Vāyu Purāṇa adalah: "Para Asura pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka disebut Asura." Kata ini telah lama digunakan sebagai nama umum untuk musuh-musuh para dewa, termasuk Daityas dan Danavas serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasa yang berasal dari Pulastya.
+
+Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' oleh karena itu, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
+
+[Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3789,7 +3791,9 @@ dari itu:
 :::
 Untuk ⟪राहु⟫ dan ⟪केतु⟫ lihat:
 
-> **Payer, Alois (1944–):** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, planet pengembara tak terlihat . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, planet pengembara tak terlihat . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Gambar: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4405,7 +4409,9 @@ tidak digunakan dalam kala lainnya
 
 ⟪अजिन⟫ n.: kulit antelop, khususnya kulit antelop hitam (antelop rusa: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh subbenua India dari Punjab dan Sind hingga Bengalen dan dari Nepal hingga Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

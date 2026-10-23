@@ -2,7 +2,7 @@
 title: "Ejercicio 47"
 uebung_id: 47
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -155,5 +155,4 @@ Queremos ser guiados por ti.
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung075))
-::: \<!--  --\>
 :::

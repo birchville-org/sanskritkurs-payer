@@ -2,7 +2,7 @@
 title: "Lectio 7"
 subtitle: "Propositum verbi cum objecto directo"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lectio 7
 
 
-::: center
+::: verse-box
 **Sententia hebdomadis**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Deus vincit, non deus adversarius.
 ::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – objectum directum (karman n. = ⟪कर्मन्⟫) – verbum**
+:::
 
+::: indent
 exempli gratia
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma fructum comedit (manducat)."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahmanus deum sacrificium offert (pro aliquo)."

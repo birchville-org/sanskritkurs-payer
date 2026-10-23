@@ -2,7 +2,7 @@
 title: "Pamoka 23"
 subtitle: "Infinitivas (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Jei sanskrit kalboje norima išreikšti, kad veiksmas vyksta dėl kito veiksmo („kad būtų galima“), galima naudoti infinityvą (⟪तुमुन्⟩) veiksmui, dėl kurio jis vyksta. Infinitivas pirmiausia nurodo paskirtį ar tikslą:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟩ = „Rāma nuėjo, kad išklausytų mokytojo kalbą.“
+⟪रामो गुरुवचनं श्रोतुं गतः⟩ = „Rāma nuėjo, kad išklausytų mokytojo kalbą.“
 
 **Atkreipkite dėmesį, kad infinityvas – su keliais aiškiai apibrėžtais išimtimis – negali būti veiksmažodžio subjekto ar objekto:**
 
-> „Jis mokosi šokti“ negalima versti infinityvu („šokti“), bet reikia vartoti veiksmininką, pvz.: ⟪नर्तनमधीते⟩ (⟪इ⟩ + ⟪अधि⟩ 2 Ā: „mokytis“).
+„Jis mokosi šokti“ negalima versti infinityvu („šokti“), bet reikia vartoti veiksmininką, pvz.: ⟪नर्तनमधीते⟩ (⟪इ⟩ + ⟪अधि⟩ 2 Ā: „mokytis“).
 
 **Infinitivas taip pat vartojamas su veiksmažodžiais ir daiktavardžiais reikšmėmis „norėti“ ar „trokšti“, kai infinityvo ir veiksmažodžio veikėjas (⟪कर्तृ⟩) yra tapatus:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟩ = „Rāma nori išklausyti mokytojo kalbą.“
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟩ = „Rāma nori išklausyti mokytojo kalbą.“
 
 **Infinitivas taip pat vartojamas su veiksmažodžiais reikšmėmis „gebėti“, „yra“, „žinoti“, „pradėti“:**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = „Šventasis negali padaryti neteisybės.“  
-> ⟪अस्ति भोक्तुमन्नम्⟩ = „Yra maisto, kurį galima valgyti“ (⟪भुज्⟩ 7: Ā: valgyti, P: valdyti)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = „Šventasis negali padaryti neteisybės.“
+⟪अस्ति भोक्तुमन्नम्⟩ = „Yra maisto, kurį galima valgyti“ (⟪भुज्⟩ 7: Ā: valgyti, P: valdyti)
 
 **Infinitivas taip pat vartojamas su žodžiais reikšmėmis „pakankamai“, „gebantis“ ir daiktavardžiais reikšmėmis „sugebėjimas“, „galia“, „įgūdžiai“:**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟩ = „Ugnis turi galią sudeginti viską.“
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟩ = „Ugnis turi galią sudeginti viską.“
 
 **Taip pat su žodžiais, turinčiais reikšmę „laikas“, infinitas gali būti vartojamas išraiškose, tokiuose kaip „Laikas ...“:**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = „Laikas skirti dėmesį valgymui“ = „Laikas valgyti“
+⟪कालो भोजनं सेवितुम्⟫ = „Laikas skirti dėmesį valgymui“ = „Laikas valgyti“
 
 **Infinitas gali būti vartojamas aktyviai ir pasyviai. Vokiečių kalbos pasyvus infinitas sanskrite perteikiamas taip, kad veiksmažodis (ypač dažnai ⟪शक्⟫ „būti gebančiam, mokėti“), nuo kurio priklauso infinitas, yra dedamas į pasyvąją gretą.**
 
@@ -44,13 +44,13 @@ status: stable
 
 pvz.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = „Šventasis negali padaryti neteisybės.“
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = „Šventasis negali padaryti neteisybės.“
 
 **Antruoju asmeniu ⟪अर्ह्⟫ + infinitas dažnai vartojamas kaip švelnus įsakymas: „Turėtum.“**
 
 **Kai infinitas priklauso nuo daiktavardžio, jis negali būti sujungtas su juo į kompozitą. Išimtis yra Bahuvrīhi, kurių antrasis narys yra ⟪काम⟫ arba ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = „tas, kurio noras yra kalbėti; tas, kuris nori kalbėti“.
+⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = „tas, kurio noras yra kalbėti; tas, kuris nori kalbėti“.
 :::
 ## 23.2. Infinito (⟪तुमुन्⟫) formavimas
 

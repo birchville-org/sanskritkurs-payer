@@ -2,7 +2,7 @@
 title: "Oefening 38"
 uebung_id: 38
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 # Oefening 38

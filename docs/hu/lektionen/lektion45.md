@@ -2,7 +2,7 @@
 title: "Lecke 45"
 subtitle: "A 2. személy ragozott formáinak képzése (⟪मध्यमः⟫) athémás tövek esetén, amelyek nem végződnek magánhangzós képzőre (folytatás)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

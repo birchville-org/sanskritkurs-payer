@@ -2,7 +2,7 @@
 title: "Lekcia 22"
 subtitle: "Absolutívum (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -53,7 +53,7 @@ Množné číslo: **⟪गृहं प्रविश्य बालां द
 
 (zvyčajne) koreň v slabom stupni v tvare, ktorý má pred PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Iba záporové **a-** / **an-**兼容 s príponou **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "bez toho, aby urobil"
+Iba záporové **a-** / **an-** sa zlučuje s príponou **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "bez toho, aby urobil"
 
 :::
 **Príklady:**

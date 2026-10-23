@@ -655,7 +655,9 @@ Fig.: ⟪फले⟫
 
 ከምኡ’ውን ርአ፦
 
-> **ፓየር፣ ኣሎይስ (1944–)፡ ምእታው ናይ ትርጉም ጽሑፋት ሳንስክርት፡ መዝገበ ቃላት። -- ክፋል 8፡ እቲ ቀንዲ ትርጉም፣ ክፋል II፡ ናብ ሕቶታት ተመሳሳሊ መጽናዕቲ። -- ተወሳኺ B፡ ናይ ሜትሪክስ ጽሑፋት ሳንስክርት። -- URL፡ [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)**
+::: note-box
+**ፓየር፣ ኣሎይስ (1944–)፡ ምእታው ናይ ትርጉም ጽሑፋት ሳንስክርት፡ መዝገበ ቃላት። -- ክፋል 8፡ እቲ ቀንዲ ትርጉም፣ ክፋል II፡ ናብ ሕቶታት ተመሳሳሊ መጽናዕቲ። -- ተወሳኺ B፡ ናይ ሜትሪክስ ጽሑፋት ሳንስክርት። -- URL፡ [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)**
+:::
 
 ### 53.10.1. ትርጉም ናይ ምውሳን ሜትሪክስ
 
@@ -750,13 +752,13 @@ Fig.: ⟪फले⟫
 
 توزيع ⟪लघु⟫ و ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -796,7 +798,7 @@ Fig.: ⟪फले⟫
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -804,7 +806,7 @@ Fig.: ⟪फले⟫
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -816,7 +818,7 @@ Fig.: ⟪फले⟫
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -824,7 +826,7 @@ Fig.: ⟪फले⟫
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -832,7 +834,7 @@ Fig.: ⟪फले⟫
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -840,7 +842,7 @@ Fig.: ⟪फले⟫
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -855,7 +857,7 @@ Fig.: ⟪फले⟫
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

@@ -2,7 +2,7 @@
 title: "Ejercicio 7"
 uebung_id: 7
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -218,5 +218,4 @@ sa guruḥ. enaṃ śṛṇvanti.
 ![](/images/uebung006.jpg)
 Fig.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung006))
-::: \<!--  --\>
 :::

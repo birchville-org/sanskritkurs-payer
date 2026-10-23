@@ -2,7 +2,7 @@
 title: "Ders 14"
 subtitle: "İsimlerle belirtilen şeyler arasındaki ilişkinin ifadesi: Tamlayan hali (ṣaṣṭhī f. = ⟪षष्टी⟫ = altıncı hal eki)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ status: stable
 ::: grammar-box
 Normal kelime dizilimi şöyledir:
 
-> **Tamlayan durumunda belirleyici kelime — Başka bir halde belirlenen isim**
+**Tamlayan durumunda belirleyici kelime — Başka bir halde belirlenen isim**
 :::
 **Tamlayan ve PPP:**
 
@@ -37,9 +37,9 @@ PPP'lerde tamlayan, araç halinin (tṛtīyā) yerine edimci (kartṛ) için kul
 
 Pāṇini 2.3.67'ye göre, PPP present anlamına sahipse tamlayan, geçmiş zaman anlamına sahipse araç hal kullanılır:
 
-> ⟪रामस्येष्टं फलम्⟫ "Rāma'nın istediği meyve = Rāma'nın şu anda arzu ettiği meyve"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Rāma'nın istediği meyve"
+⟪रामस्येष्टं फलम्⟫ "Rāma'nın istediği meyve = Rāma'nın şu anda arzu ettiği meyve"
+
+⟪रामेणेष्टं फलम्⟫ "Rāma'nın istediği meyve"
 
 Elbette, bir PPP (Particip Past Passive) nötr tekil sayı, fiil kökü olarak yani isim olarak kullanıldığında, tamlayan (genitif) hali gelir.
 :::
@@ -56,7 +56,7 @@ Genitif, kök değişimi (ablaut) gösteren fiil köklerinden zayıf kökten tü
 * Çoğul: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | İsim Kökü | Zayıf Kök | Genetif Tekil | Genetif Çoğul |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Genitif, kök değişimi (ablaut) gösteren fiil köklerinden zayıf kökten tü
 
 Ünlüyle biten köklerin genitif çoğulu şu şekilde oluşturulur:
 
-> **-uzun ünlü kök sonu + -nām**
+**-uzun ünlü kök sonu + -nām**
 
 :::
-::: center
+::: verse-box
 
 | İsim Kökü | Genetif Çoğul |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Genitif, kök değişimi (ablaut) gösteren fiil köklerinden zayıf kökten tü
 Tekil çekimdeki ünlü ile biten köklerin genitif hali düzensiz olarak oluşturulur ve ezberlenmesi gerekir.
 
 :::
-::: center
+::: verse-box
 
 | Kök | Tekil Genitif |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Tekil çekimdeki ünlü ile biten köklerin genitif hali düzensiz olarak oluşt
 :::
 **Soru Zamirleri ve İşaret Zamirleri:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Tekil çekimdeki ünlü ile biten köklerin genitif hali düzensiz olarak oluşt
 :::
 **Form Benzerliği:**
 
-::: important
+::: warning-box
 
 a ile biten eril ve nötr isimler ile zamirler dışındaki tüm isimsel köklerde, tekil genitif hali, tekil ablative (pañcamī "beşinci hal eki") formuyla aynıdır!
 
@@ -136,11 +136,11 @@ Konsonantisch auslautenden Stämmen dikkat edin: Ablativ ve Genetiv tekil, Akkus
 ::: grammar-box
 Yukarıdaki temel kuralın aksine, Genetiv bazı fiillerin nesnesini ifade etmek için kullanılır; örneğin anma fiillerinde:
 
-> ⟪देवानां स्मरति⟫ "Tanrılara anar"
+⟪देवानां स्मरति⟫ "Tanrılara anar"
 
 Ancak bu fiillerin tümünde nesne Akkusatif olarak da yer alabilir:
 
-> ⟪देवान्स्मरति⟫ "Tanrılara anar"
+⟪देवान्स्मरति⟫ "Tanrılara anar"
 
 Daha fazla bilgi ileride.
 :::

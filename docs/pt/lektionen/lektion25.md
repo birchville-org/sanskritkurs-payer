@@ -1,8 +1,8 @@
 ---
 title: "Lição 25"
-subtitle: 'Formação do Ablativo (⟪पञ्चमी⟫ = "quinta desinência casuаl")'
+subtitle: 'Formação do Ablativo (⟪पञ्चमी⟫ = "quinta desinência casual")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -1,3 +1,4 @@
+
 # Exercice d’écriture 8
 
 Signes vocaliques pour le début d’un mot, lorsque le mot n’est pas lié à un mot précédent dans l’écriture :

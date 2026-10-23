@@ -3,15 +3,15 @@ title: "Les 1"
 subtitle: "De klanken van het Sanskriet"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Les 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Verering van Gaṇeśa
@@ -23,7 +23,7 @@ Afb. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Afbeeldingsbron: [Details](/nl/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ God, maak al mijn ondernemingen
 Vrij van hindernissen!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Gelukbrengend begin"
@@ -52,7 +52,7 @@ Afb. 1.1: Ardhanarīśvara
 (Afbeeldingsbron: [Details](/nl/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Van de woordbetekenis.
 Ter inleiding een curiosum:
 
 
->"Toen William Jones [1746–1794] en Henry Thomas Colebrooke (1765—1857) het Sanskrit voor het eerst grondig hadden bestudeerd, gedeeltelijk vertaald en hadden ontdekt dat het een rijke literatuur en geen geringe verwantschap met de klassieke talen vertoonde, stuitten zij op geen geringe weerstand. Aangezien met deze innige relatie van het Sanskrit tot de geografisch zo verafgelegen Europese talen de oude opvattingen, welke ofwel alle talen uit het Hebreeuws afleidden ofwel grotendeels van elkaar isoleerden, niet in overeenstemming te brengen waren, greep de beroemde filoloog Dugald Steward (1753—1828) naar de eenvoudigste uitweg, door de gehele geschiedenis met de Sanskrittaal voor een leugen te verklaren. Hij schreef een essay, waarin hij trachtte te bewijzen dat deze door de listige brahmanen naar het model van het Grieks en Latijn was samengesmeed en zowel de taal als ook de literatuur een vervalsing waren. Deze opvatting ontwikkelde nog in het jaar 1840 de professor te Dublin, Charles William Wall, breedvoerig (Göttingische gelehrte Anzeigen 1842 blz. 1888)."
->
-::: literatur-box
+::: note-box
+"Toen William Jones [1746–1794] en Henry Thomas Colebrooke (1765—1857) het Sanskrit voor het eerst grondig hadden bestudeerd, gedeeltelijk vertaald en hadden ontdekt dat het een rijke literatuur en geen geringe verwantschap met de klassieke talen vertoonde, stuitten zij op geen geringe weerstand. Aangezien met deze innige relatie van het Sanskrit tot de geografisch zo verafgelegen Europese talen de oude opvattingen, welke ofwel alle talen uit het Hebreeuws afleidden ofwel grotendeels van elkaar isoleerden, niet in overeenstemming te brengen waren, greep de beroemde filoloog Dugald Steward (1753—1828) naar de eenvoudigste uitweg, door de gehele geschiedenis met de Sanskrittaal voor een leugen te verklaren. Hij schreef een essay, waarin hij trachtte te bewijzen dat deze door de listige brahmanen naar het model van het Grieks en Latijn was samengesmeed en zowel de taal als ook de literatuur een vervalsing waren. Deze opvatting ontwikkelde nog in het jaar 1840 de professor te Dublin, Charles William Wall, breedvoerig (Göttingische gelehrte Anzeigen 1842 blz. 1888)."
+
 [Bron: **Kemmerich**, Max (1876–1932): Cultuur-curiosa. -- München : Langen. -- dl. 2. -- 1923. -- blz. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Geraadpleegd op 2010-01-10]
 :::
 
@@ -89,7 +89,9 @@ Afb.: bandtitel van een pocketuitgave
 (Afbeeldingsbron: [Details](/nl/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londen : Sidgwick & Jackson, 1954. -- Sindsdien vele uitgaven, ook pocketuitgaven. -- **Verplichte lectuur.** Een goed overzicht van leven, geschiedenis en cultuur in het pre-islamitische Indië. Algemeen overzicht van de verschillende terreinen van de klassieke Indologie.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londen : Sidgwick & Jackson, 1954. -- Sindsdien vele uitgaven, ook pocketuitgaven. -- **Verplichte lectuur.** Een goed overzicht van leven, geschiedenis en cultuur in het pre-islamitische Indië. Algemeen overzicht van de verschillende terreinen van de klassieke Indologie.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Afb.: titelblad
 
 Beste systematische grammatica:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatica van de Sanskriettaal / Uit het Engels vertaald door W. Solf [1862 - 1936]. -- Berlijn : Dümmler, 1888. -- XIII, 238 blz. -- Originele titel: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Afb.: omslagtitel
 
 Goede systematische grammatica op basis van de inheemse grammatici en tevens een inleiding tot Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : eigen beheer, 1983. -- 818 blz. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : eigen beheer, 1983. -- 818 blz. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Afb.: bandtitel
 
 Een goede, beknopte weergave van de Europese taalwetenschappelijke terminologie vindt men in:
 
-::: literatur-box
+::: note-box
 **Etymologisch woordenboek van de Duitse taal** / [Friedrich] Kluge (1856–1926). Bew. door Elmar Seebold. -- 24e, herziene en uitgebreide druk. -- Berlijn [enz.] : de Gruyter, 2002. - LXXXIX, 1023 blz. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- blz. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Afb.: omslagtitel
 
 Voor leergierigen ter naslag:
 
-> **Lexicon van de taalwetenschap** / red. door Hadumod Bussmann. -- 4e, herziene en bibliogr. aangevulde druk / met medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 blz. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexicon van de taalwetenschap** / red. door Hadumod Bussmann. -- 4e, herziene en bibliogr. aangevulde druk / met medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 blz. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. De klanken van het Sanskrit
@@ -146,7 +152,7 @@ De klanken van het Sanskrit volgens de traditionele Indiase classificatie en hun
 :::
 Moderne woordenboeken van het Sanskrit zijn volgens de volgorde van deze classificatie gerangschikt. Deze classificatie is voor het begrip van de Sanskrit-grammatica onmisbaar en moet daarom uit het hoofd gekend worden:
 
-::: note-box
+::: grammar-box
 Classificatie
 **enkelvoudige klinkers** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Classificatie
 :::
 ### 1.2.1. Over de uitspraak van afzonderlijke klanken
 
-::: laut-table
 | Klank | Beschrijving |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "korte a" wordt door Indiërs – al sinds oudsher – vaak uitgesproken als ə. In Europa spreekt men het uit als een korte a, in Bengalen als een korte donkere o. |
@@ -176,7 +181,6 @@ Classificatie
 | **h - ⟪ह्⟫** | Smeulklank, nooit een verlengingsteken. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stemloze ademklank met nasoon van de voorafgaande klinker of het tweede deel van de voorafgaande tweeklank: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **anusvara** -- ⟪अनुस्वर⟫. Voor sissende medeklinkers, h, l: nasalisatie van de klinker. In de uitklank = m. In het midden van een woord vóór medeklinkers: de nasale klank die overeenkomt met de volgende medeklinker: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 De beste uitspraak bereikt men door de zinnen, verzen of woorden vrij langzaam en monotoon te lezen, met nauwkeurige aandacht voor de lengte van de klinkers.
 
 

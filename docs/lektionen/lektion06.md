@@ -2,7 +2,7 @@
 title: Lektion 6
 subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

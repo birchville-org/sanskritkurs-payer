@@ -2,7 +2,7 @@
 title: "Lecke 57"
 subtitle: "Aorista 4: s-Aorista"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

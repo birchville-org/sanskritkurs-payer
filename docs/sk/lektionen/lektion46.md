@@ -2,7 +2,7 @@
 title: "Lekcia 46"
 subtitle: "Tvarotvorné vzory druhej osoby (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ odvodené od:
 :::
 K ⟪राहु⟫ a ⟪केतु⟫ pozri:
 
-> **Payer, Alois (1944–):** Dharmashastra : Úvod a prehľad. -- 10. Sakramenty a prechodné rituály (samskara). -- Príloha C: Rahu a Ketu, neviditeľní putovníci . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Úvod a prehľad. -- 10. Sakramenty a prechodné rituály (samskara). -- Príloha C: Rahu a Ketu, neviditeľní putovníci . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Obr.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/sk/licenses#lekt4602)

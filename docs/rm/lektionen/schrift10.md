@@ -1,3 +1,4 @@
+
 # Exercizi da scrittira 10
 
 ### La segunda regla per la furmaziun da ligaturas da consonantas
@@ -8,13 +9,17 @@ Sch'il emprun dals consonants che han da vegnir colliads na finischa betg cun in
 
 Excepziuns: Sian ⟪म्⟫ resp. ⟪य्⟫ il segund element da la ligatura, alura vegnan els scrits curtisà davos il emprun sign:
 
-> ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+::: indent
+⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+:::
 
 Memorisar:
 
-> ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
-> 
-> ⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+::: indent
+⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
+
+⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+:::
 
 ![](/images/schrift020.jpg)
 

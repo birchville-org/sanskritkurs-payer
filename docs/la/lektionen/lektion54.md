@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ Versus ⟪त्रिष्टुभ्⟫ ex quattuor undecim syllabarum प�
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Quantitas quattuor ultimorum syllabarum itaque in utrisque schematibus aequalis est.
 
 ⟪जगती⟫-forma fundamentalis: ut in ⟪त्रिष्टुभ्⟫, sed duodecimsyllaba. Ultime quinque syllabae cuiuslibet padam sequentes quantitates huiuscemodi ostendunt:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Praeterea est dicta typice supervacua ⟪त्रिष्टुभ्⟫ cum membro initiali quinquensyllabo, quae progreditur ut ⟪त्रिष्टुभ्⟫ cum membro initiali quaternensyllabo:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In posterioribus temporibus formae ⟪त्रिष्टुभ्⟫ secundum strictum schema longitudinum et brevium determinantur; cæsura iam non consideratur. Formae posteriores principales sunt:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

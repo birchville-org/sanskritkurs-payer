@@ -2,7 +2,7 @@
 title: "Esercizio 29"
 uebung_id: 29
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,8 +27,10 @@ L'ignoranza significa considerare ciò che è impermanente, impuro, sofferente e
 
 Gli essenti devono tremare davanti a un governo troppo severo (daṇḍa). Un governo molle viene disprezzato. Un governo esattamente giusto viene venerato. Un governo guidato saggiamente promuove tra i sudditi giustizia, profitto e piacere. Un governo mal guidato a causa di piacere e odio o disprezzo indigna persino gli anziani ritirati nella foresta e gli asceti erranti, tanto più i capifamiglia. Un governo non esercitato produce un comportamento come quello dei pesci (mātsyanayāya). Se non c'è nessuno che mantiene il governo, il più forte divora il più debole. Se il più debole è protetto dal detentore del governo, prospera.
 
-> Il mondo con i suoi quattro ordini e stadi di vita  
-> È protetto dal re attraverso il governo:  
-> Gioioso per l'attività secondo il proprio diritto e la propria consuetudine  
-> Si muove sulle proprie vie.
+::: indent
+Il mondo con i suoi quattro ordini e stadi di vita
+È protetto dal re attraverso il governo:
+Gioioso per l'attività secondo il proprio diritto e la propria consuetudine
+Si muove sulle proprie vie.
 
+:::

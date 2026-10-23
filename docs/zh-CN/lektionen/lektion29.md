@@ -2,7 +2,7 @@
 title: "第29课"
 subtitle: "使役式中帕拉西帕达（⟪परस्मैपद⟫）与阿特玛内帕达（⟪आत्मनेपद⟫）的用法"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

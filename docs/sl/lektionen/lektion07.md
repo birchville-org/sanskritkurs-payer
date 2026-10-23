@@ -2,7 +2,7 @@
 title: "Učenje 7"
 subtitle: "Glagolski stavek z neposrednim predmetom"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # Učbenik 7
 
 
-::: center
+::: verse-box
 
 **Tedenski citat**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ Bog zmaga, ne bogov nasprotnik.
 ## 7.1. Glagolski stavek z neposrednim predmetom
 
 ::: grammar-box
-
 **Shema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – neposredni predmet (karman n. = ⟪कर्मन्⟫) – glagol**
+:::
 
+::: indent
 npr.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma jede (poje) sadje."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman časti boga z žrtvovanjem (za nekoga drugega)."
-
 :::
 
 Če je glagol v Parasmaipada ali Ātmanepada, potem stoji neposredni predmet (**karman** n. = ⟪कर्मन्⟫) na splošno v **akuzativu** (tožilnik, dvitīyā f. = ⟪द्वितीया⟫).

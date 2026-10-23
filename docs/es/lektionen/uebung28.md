@@ -2,7 +2,7 @@
 title: "Ejercicio 28"
 uebung_id: 28
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -144,5 +144,4 @@ Para liberarlos del mal, Buda hace que personas nobles comprendan las verdades n
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung045))
-::: \<!--  --\>
 :::

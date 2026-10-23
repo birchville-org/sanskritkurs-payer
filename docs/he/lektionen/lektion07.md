@@ -2,7 +2,7 @@
 title: "שיעור 7"
 subtitle: "משפט פועל עם אובייקט ישיר"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # שיעור 7
 
 
-::: center
+::: verse-box
 **ציטוט השבוע**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **סכמה:**
 **(אגנס = kartṛ m. = ⟪कर्तृ⟫) – אובייקט ישיר (karman n. = ⟪कर्मन्⟫) – פועל**
+:::
 
+::: indent
 למשל
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "רמה אוכל (מאכיל) פרי."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "הברמן משבח אל בקורבן (למען אחר)."

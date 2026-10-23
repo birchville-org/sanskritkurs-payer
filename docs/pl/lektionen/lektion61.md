@@ -751,7 +751,7 @@ Ilustracja: Melodia, odniesiona do dźwięku c, może być transponowana w zale�
 
 Po tym, jak nauczyłeś się już podstaw sanskrytu, jesteś pewnie podobny do dzieci z filmu: czasem niezgrabny, ale chętny do nauki i ciekawy świata, z radością angażujący się w proces. Zachowaj „umysł początkującego” przez całe swoje życie.
 
-::: center
+::: verse-box
 Życzy Ci Twój Alois Payer
 
 Ofterdingen, 2009-03-09

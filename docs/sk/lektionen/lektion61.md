@@ -753,7 +753,7 @@ Obr.: Melódia, vzťahujúca sa na c, môže byť podľa rozsahu hlasu transpono
 
 Po tom, čo ste sa teraz naučili základy sanskrtu, dúfame, že ste ako deti vo videu: niekedy neobratné, ale ochotné sa učiť a žiadostivé o vedomosti, s radosťou pri práci. Udržujte si „mysľo začiatočníka“ až do konca svojho života.
 
-::: center
+::: verse-box
 To vám praje váš Alois Payer
 
 Ofterdingen, 2009-03-09

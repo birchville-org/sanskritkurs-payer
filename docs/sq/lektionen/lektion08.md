@@ -3,8 +3,8 @@ title: "Mësimi 8"
 subtitle: "Formimi i emrave & Klasa e 8-të e prezencit"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

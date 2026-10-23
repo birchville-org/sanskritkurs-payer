@@ -2,7 +2,7 @@
 title: บทที่ 42
 subtitle: "รากศัพท์ที่ลงท้ายด้วย -ṛ"
 lesson_id: 42
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

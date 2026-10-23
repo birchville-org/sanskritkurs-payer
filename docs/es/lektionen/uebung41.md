@@ -2,7 +2,7 @@
 title: "Ejercicio 41"
 uebung_id: 41
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -49,5 +49,4 @@ Los maestros deben instruir a los estudiantes; de los estudiantes se debe estudi
 ![](/images/uebung067.jpg)
 Fig.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung067))
-::: \<!--  --\>
 :::

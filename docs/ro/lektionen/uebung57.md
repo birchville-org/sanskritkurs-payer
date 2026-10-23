@@ -2,7 +2,7 @@
 title: "Exercițiul 57"
 uebung_id: 57
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -40,11 +40,11 @@ Traduceți și determinați următoarele forme și formați formele corespunzăt
 | ⟪२३⟫. | **⟪निन्य⟫** | *:sig[⟪नी⟫]* 1U: 2. Pl. Perf. P. (notați ați condus) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *:sig[⟪कृष्⟫]* 1P: 3. Pl. Ind. Präs. P. (ei trag) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *:sig[⟪प्रच्छ्⟫]* 6P: 3. Pl. Impf. P. Kaus. (ei au lăsat să întrebe) | **⟪अपप्रच्छन्⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung090))
-::::
 :::
 ---
 
@@ -112,9 +112,9 @@ Determinați și traduceți următoarele forme:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-:sig[⟪दा⟫]* 3Ā: 1. Pers. Sg. s-Aor. Ā. (am luat) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *:sig[⟪पाणि⟫]* m.: Nom. Ac. Voc. Du. (ambele mâini) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *:sig[⟪स्पृश्⟫]* 6P: 1. Pers. Sg. s-Aor. P. (am atins) |
-:::: media
+:::
+::: media
 ![](/images/uebung094.webp)
 Fig.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Sursă imagine: [Detalii](/licenses#uebung094))
-::::
 :::

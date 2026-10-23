@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Σούδρα (ὑπηρετικῆς τάξεως).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Τὰ τέσσαρα γένη (varṇa)**
+
 Κατὰ τὴν κλασικὴν θεωρίαν (π.χ. Manusmṛti I, 88-91) διανέμονται αἱ ἀποστολαί:
 
 **τῶν Βραχμάνων**
@@ -463,8 +465,6 @@ Max Weber (1864–1920) τάξιν οὕτως ὁρίζει:
 ::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung γίνεται διὰ das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
 - **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
 - **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ἐκ τῶν καταλειφθέντων ἐκδοθὲν ὑπὸ Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμ. 2: Varuna καὶ τὸ Ṛta. -- 1959. -- XXIII σσ., σσ. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ἐκ τῶν κατ
 **eva** ⟪एव⟫ : ἐπικρατοῦν τὴν προτέραν λέξιν
 **asura** m. ⟪असुर⟫ : δαίμων
 
-> **ASURA.** 'Πνευματικόν, θειόν.'
->
-> ἐν τοῖς ἀρχαιοτάτοις μέρεσι τῆς Ṛgveda ταύτη ἡ λέξις χρῶται πρὸς τὸ ὑψίστον πνεῦμα, καὶ ταύτην εἶναι τὴν Ἀχούρα τῶν Ζωροάστρεων. ἐν τῇ σημασίᾳ τοῦ 'θεοῦ' ἐχρήσατο πρὸς ἕκαστον τῶν κυριωτάτων θεῶν, ὡς πρὸς τὸν Ἰνδραν, τὸν Ἀγνιν, καὶ τὸν Βαρουṇαν. μετὰ ταῦτα ἔλαβεν ἀντιθέτην σημασίαν, καὶ ἐσήμαινε, ὡς νῦν, δαίμονα ἢ ἐχθρὸν τῶν θεῶν.
->
-> ἡ λέξις εὑρίσκεται ταύτην τὴν σημασίαν ἐν τοῖς ὕστατοις μέρεσι τῆς Ṛgveda, μάλιστα ἐν τῇ τελευταίᾳ βιβλίῳ, καὶ ἐν τῇ Atharvaveda. οἱ Brāhmaṇas τὴν αὐτὴν σημασίαν ἀποδίδουσιν, καὶ καταγράφουσι πολλὰς μάχας μεταξὺ τῶν Ἀσουρῶν καὶ τῶν θεῶν. κατὰ τὸ Taittirīya Brāhmaṇa, τὸ πνεῦμα *(asu)* τοῦ Prajapati ἐζωοποιήθη, καὶ "ἐκ τοῦ πνεύματος ἐκείνου ἐποίησεν ἑαυτὸν Ἀσουράς." ἐν ἄλλῳ μέρει τοῦ αὐτοῦ ἔργου λέγεται ὅτι Prajāpati "ἐκυήσατο. ἐποίησεν Ἀσουρὰς ἐκ τοῦ κοιλιακοῦ αὐτοῦ." τὸ Śatapatha Brāhmaṇa συμφωνεῖ μετὰ τῆς προτέρας ἀποφάσεως, καὶ λέγει ὅτι "ἐποίησεν Ἀσουρὰς ἐκ τοῦ κατώτερου πνεύματος." τὸ Taittirīya Āraṇyaka ἀποδίδωσι ὅτι Prajāpati ἐποίησεν θεούς, ἀνθρώπους, πατέρας, Γανδάρβας, καὶ Ἀψάρας ἐκ τοῦ ὕδατος, καὶ ὅτι οἱ Ἀσουρᾶς, Ρακσάσαις, καὶ πιśāca ἐξέφυον ἐκ τῶν σταγόνων αἵτινες ἐξεχύθησαν. ἡ ἀπόφασις τοῦ Manu εἶναι ὅτι ἐκτίσθησαν ὑπὸ τῶν Prajāpatis.
->
-> κατὰ τὸ Viṣṇu Purāṇa, ἐξήχθησαν ἐκ τῆς ὀσφύος τοῦ Βράχμαν (prajāpati). ἡ ἀφήγησις τοῦ Vāyu Purāṇa εἶναι: "Ἀσουρᾶς πρῶτον ἐξήχθησαν ὡς υἱοὶ ἐκ τῆς ὀσφύος αὐτοῦ (Prajāpati's). *Asu* δηλοῖται ὑπὸ τοῦ Brāhmaṇa σημαίνει πνεῦμα. ἐξ αὐτοῦ ταῦτα τὰ ὄντα ἐξήχθησαν· διὸ εἰσὶ Ἀσουρᾶς." ἡ λέξις ἐκ πολλοῦ χρόνου χρῶται ὡς γενικὸν ὄνομα τῶν ἐχθρῶν τῶν θεῶν, περιλαμβανομένων τῶν Δαιτύων καὶ Δαναβῶν καὶ ἄλλων ἀπογόνων τοῦ Kaśyapa, οὐ περιλαμβανομένων τῶν Ρακσάσεων ἀπογόνων τοῦ Pulastya.
->
-> ἐν τῇ σημασίᾳ ταύτη ἑτέρα ἐτυμολογία εὑρίσκεται αὐτῇ: ἡ πηγὴ οὐκέτι asu, 'πνεῦμα,' ἀλλὰ τὸ ἄρχον *a* λαμβάνεται ὡς ἀρνητικὸν πρόθεμα, καὶ *asura* σημαίνει 'οὐ θεός·' διότι, κατὰ τινάς, ἐξῆλθεν ἡ λέξις *sura,* κοινῶς χρῶται πρὸς 'θεόν.'"
->
-> [Πηγή: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Πνευματικόν, θειόν.'
+
+ἐν τοῖς ἀρχαιοτάτοις μέρεσι τῆς Ṛgveda ταύτη ἡ λέξις χρῶται πρὸς τὸ ὑψίστον πνεῦμα, καὶ ταύτην εἶναι τὴν Ἀχούρα τῶν Ζωροάστρεων. ἐν τῇ σημασίᾳ τοῦ 'θεοῦ' ἐχρήσατο πρὸς ἕκαστον τῶν κυριωτάτων θεῶν, ὡς πρὸς τὸν Ἰνδραν, τὸν Ἀγνιν, καὶ τὸν Βαρουṇαν. μετὰ ταῦτα ἔλαβεν ἀντιθέτην σημασίαν, καὶ ἐσήμαινε, ὡς νῦν, δαίμονα ἢ ἐχθρὸν τῶν θεῶν.
+
+ἡ λέξις εὑρίσκεται ταύτην τὴν σημασίαν ἐν τοῖς ὕστατοις μέρεσι τῆς Ṛgveda, μάλιστα ἐν τῇ τελευταίᾳ βιβλίῳ, καὶ ἐν τῇ Atharvaveda. οἱ Brāhmaṇas τὴν αὐτὴν σημασίαν ἀποδίδουσιν, καὶ καταγράφουσι πολλὰς μάχας μεταξὺ τῶν Ἀσουρῶν καὶ τῶν θεῶν. κατὰ τὸ Taittirīya Brāhmaṇa, τὸ πνεῦμα *(asu)* τοῦ Prajapati ἐζωοποιήθη, καὶ "ἐκ τοῦ πνεύματος ἐκείνου ἐποίησεν ἑαυτὸν Ἀσουράς." ἐν ἄλλῳ μέρει τοῦ αὐτοῦ ἔργου λέγεται ὅτι Prajāpati "ἐκυήσατο. ἐποίησεν Ἀσουρὰς ἐκ τοῦ κοιλιακοῦ αὐτοῦ." τὸ Śatapatha Brāhmaṇa συμφωνεῖ μετὰ τῆς προτέρας ἀποφάσεως, καὶ λέγει ὅτι "ἐποίησεν Ἀσουρὰς ἐκ τοῦ κατώτερου πνεύματος." τὸ Taittirīya Āraṇyaka ἀποδίδωσι ὅτι Prajāpati ἐποίησεν θεούς, ἀνθρώπους, πατέρας, Γανδάρβας, καὶ Ἀψάρας ἐκ τοῦ ὕδατος, καὶ ὅτι οἱ Ἀσουρᾶς, Ρακσάσαις, καὶ πιśāca ἐξέφυον ἐκ τῶν σταγόνων αἵτινες ἐξεχύθησαν. ἡ ἀπόφασις τοῦ Manu εἶναι ὅτι ἐκτίσθησαν ὑπὸ τῶν Prajāpatis.
+
+κατὰ τὸ Viṣṇu Purāṇa, ἐξήχθησαν ἐκ τῆς ὀσφύος τοῦ Βράχμαν (prajāpati). ἡ ἀφήγησις τοῦ Vāyu Purāṇa εἶναι: "Ἀσουρᾶς πρῶτον ἐξήχθησαν ὡς υἱοὶ ἐκ τῆς ὀσφύος αὐτοῦ (Prajāpati's). *Asu* δηλοῖται ὑπὸ τοῦ Brāhmaṇa σημαίνει πνεῦμα. ἐξ αὐτοῦ ταῦτα τὰ ὄντα ἐξήχθησαν· διὸ εἰσὶ Ἀσουρᾶς." ἡ λέξις ἐκ πολλοῦ χρόνου χρῶται ὡς γενικὸν ὄνομα τῶν ἐχθρῶν τῶν θεῶν, περιλαμβανομένων τῶν Δαιτύων καὶ Δαναβῶν καὶ ἄλλων ἀπογόνων τοῦ Kaśyapa, οὐ περιλαμβανομένων τῶν Ρακσάσεων ἀπογόνων τοῦ Pulastya.
+
+ἐν τῇ σημασίᾳ ταύτη ἑτέρα ἐτυμολογία εὑρίσκεται αὐτῇ: ἡ πηγὴ οὐκέτι asu, 'πνεῦμα,' ἀλλὰ τὸ ἄρχον *a* λαμβάνεται ὡς ἀρνητικὸν πρόθεμα, καὶ *asura* σημαίνει 'οὐ θεός·' διότι, κατὰ τινάς, ἐξῆλθεν ἡ λέξις *sura,* κοινῶς χρῶται πρὸς 'θεόν.'"
+
+[Πηγή: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3790,7 +3792,9 @@ PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 :::
 Προς ⟪राहु⟫ και ⟪केतु⟫ βλ.:
 
-> **Payer, Alois (1944–):** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι περιπλανώμενοι αστέρες . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι περιπλανώμενοι αστέρες . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Εἰκ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4406,7 +4410,9 @@ PPP ⟪रिष्ट⟫
 
 ⟪अजिन⟫ οὐδ.: δέρμα ἀντιλόπης, μάλιστα τὸ δέρμα τῆς μελαίνης ἀντιλόπης (ἡ ἐλαφότραγος ἀντιλόπη : _Antilope cervicapra_ L. ). Τὸ πρῶτον εὑρίσκετο ἐπὶ παντὸς τοῦ Ἰνδικοῦ ὑπηπείρου ἀπὸ Πενταποτάμου τε καὶ Σίνδου μέχρι Βεγγάλης καὶ ἀπὸ Νεπάλ μέχρι Κανυακουμαρίου (Ἄκρον Κωμορίν) (Ταμίλ: கன்னியாகுமரி) Βλέπε:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ἔκδ. -- Baltimore \[καὶ ἄλλα\] : Johns Hopkins Univ. Pr., 1999. -- 2 τόμ. -- ISBN 0-8018-5789-9. -- τόμ. 2. -- σ. 1193 ἑξ.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ἔκδ. -- Baltimore \[καὶ ἄλλα\] : Johns Hopkins Univ. Pr., 1999. -- 2 τόμ. -- ISBN 0-8018-5789-9. -- τόμ. 2. -- σ. 1193 ἑξ.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

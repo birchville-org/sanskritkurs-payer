@@ -2,7 +2,7 @@
 title: "Lektion 23"
 subtitle: "Infinitiven (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Hvis man i sanskrit vil udtrykke, at en handling sker med henblik på en anden handling ("for at"), kan man bruge infinitiven (⟪तुमुन्⟫) til den handling, som formålet er. Infinitiven angiver primært formålet eller hensigten:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma er gået for at høre mesterens tale."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma er gået for at høre mesterens tale."
 
 **Bemærk, at infinitiven – med nogle få veldefinerede undtagelser – ikke kan stå som subjekt eller objekt for et verbum:**
 
-> "Han lærer at danse" må man derfor ikke oversætte med infinitiven ("at danse"), men skal bruge et verbalnomen, f.eks.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "at lære").
+"Han lærer at danse" må man derfor ikke oversætte med infinitiven ("at danse"), men skal bruge et verbalnomen, f.eks.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "at lære").
 
 **Infinitiven bruges også med verber og substantiver i betydningen "ønske" eller "længes efter", når agens (⟪कर्तृ⟫) for infinitiven og verbet er identisk:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma ønsker at høre mesterens tale."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma ønsker at høre mesterens tale."
 
 **Infinitiven bruges bl.a. også med verber i betydningerne "være i stand til", "der findes/giver", "vide" og "begynde":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "En hellig kan ikke gøre uret."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Der findes mad at spise" (⟪भुज्⟫ 7: Ā: at spise, P: at regere)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "En hellig kan ikke gøre uret."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Der findes mad at spise" (⟪भुज्⟫ 7: Ā: at spise, P: at regere)
 
 **Infinitiven bruges også med ord i betydningerne "tilstrækkelig", "dygtig" og med substantiver i betydningerne "evne", "kraft", "færdighed":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ild har magten til at brænde alt."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ild har magten til at brænde alt."
 
 **Selv med ord i betydningen "tid" kan infinitiv bruges i udtryk som "Det er tid til at ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Det er tid at vie sig til maden" = "Det er tid at spise"
+⟪कालो भोजनं सेवितुम्⟫ = "Det er tid at vie sig til maden" = "Det er tid at spise"
 
 **Infinitiv kan bruges aktivisk og passivisk. En passiv infinitiv på tysk gengives i sanskrit ved, at verbet (særligt hyppigt ⟪शक्⟩ "være i stand til, kunne"), som infinitiv afhænger af, sættes i passiv.**
 
@@ -44,13 +44,13 @@ status: stable
 
 f.eks.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "En hellig kan ikke gøre uret."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "En hellig kan ikke gøre uret."
 
 **I 2. person bruges ⟪अर्ह्⟩ + infinitiv ofte som en mild befaling: "Du burde."**
 
 **Hvis infinitiv afhænger af et substantiv, må det ikke sammensættes med dette til en komposition. Undtagelser er Bahuvrīhi, hvis andet led er ⟪काम⟩ eller ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "en hvis ønske det er at tale; en der ønsker at tale".
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "en hvis ønske det er at tale; en der ønsker at tale".
 :::
 ## 23.2. Dannelsen af infinitiv (⟪तुमुन्⟩)
 

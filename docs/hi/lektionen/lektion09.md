@@ -3,8 +3,8 @@ title: "पाठ 9"
 subtitle: "​[L2] समाहारद्वन्द्व और नामप्रत्यय -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

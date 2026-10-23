@@ -2,7 +2,7 @@
 title: "第49課"
 subtitle: "命令式的構成（⟪लोट्⟫）無韻母變化的現在詞幹（續）"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

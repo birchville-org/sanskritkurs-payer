@@ -2,7 +2,7 @@
 title: "Lecție 52"
 subtitle: "Neutru al temelor în -i și -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

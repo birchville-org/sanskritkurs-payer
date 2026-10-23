@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ The ⟪त्रिष्टुभ्⟫ stanza consists of four eleven-syllable
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Oleh karena itu, kuantitas empat suku kata terakhir adalah identik dalam kedua skema.
 
 ⟪जगती⟫ bentuk dasar: seperti dengan ⟪त्रिष्टुभ्⟫, tetapi 12-suku kata. Lima suku kata terakhir dari setiap Pada menunjukkan kuantitas berikut:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Selain itu, terdapat apa yang disebut sebagai ⟪त्रिष्टुभ्⟫ yang biasanya berlebihan dengan anggota awal lima suku kata, yang berlanjut seperti ⟪त्रिष्टुभ्⟫ dengan anggota awal empat suku kata:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Pada masa kemudian, bentuk-bentuk ⟪त्रिष्टुभ्⟫ ditetapkan sesuai dengan skema ketat suku kata panjang dan pendek; caesura tidak lagi berperan. Bentuk-bentuk penting kemudian adalah:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

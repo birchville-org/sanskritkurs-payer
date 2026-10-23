@@ -2,7 +2,7 @@
 title: "Դաս 50"
 subtitle: "Հոլովումների կազմություն: Պարբերական աստիճանավորում"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

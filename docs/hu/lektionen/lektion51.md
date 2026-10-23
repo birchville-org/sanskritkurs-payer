@@ -2,7 +2,7 @@
 title: "51. lecke"
 subtitle: "⟪उपपद⟫-melléknév"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -343,7 +343,9 @@ pl. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: antilopabőr, különösen a feketeantilope (nyírszarvasantilope : _Antilope cervicapra_ L. ) bőre. Eredetileg az egész indiai szubkontinensen előfordult, Pandzsáb és Sindh tartományoktól Bengáliáig, valamint Nepáltól Kanyakumaríig (Cape Comorin) (tamil: கன்னியாகுmari). Lásd még:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiad. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193–1194. o.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiad. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193–1194. o.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

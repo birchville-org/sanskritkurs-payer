@@ -2,7 +2,7 @@
 title: "Ders 41"
 subtitle: "⟪सुभाषिते⟫ (iki atasözü)"
 lesson_id: 41
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -170,15 +170,15 @@ Ayrıntılı kurallar için bkz. Kielhorn, Grammatik der Sanskrit-Sprache, s. 19
 
 :::
 
-> Sonuçtaki ünlülerin işlenmesi:
+Sonuçtaki ünlülerin işlenmesi:
 
 ::: grammar-box
 
-> **-ā ile biten kökler, bu gerundivi -eya şeklinde oluşturur**
+**-ā ile biten kökler, bu gerundivi -eya şeklinde oluşturur**
 
 :::
 
-> Örnekler:
+Örnekler:
 
 ::: no-header
 
@@ -189,54 +189,56 @@ Ayrıntılı kurallar için bkz. Kielhorn, Grammatik der Sanskrit-Sprache, s. 19
 
 :::
 
-> ::: grammar-box
+::: grammar-box
 
-> **-i /-ī / -u / -ū /-ṛ ile biten kökler genellikle yüksek veya uzatılmış aşamaya sahiptir; bunlar, -⟪त्य⟫ (dişil: -⟪त्या⟫) soneki ile bir gerundiv oluşturan -i / -u /-ṛ köklerinden değildir.** (Bu köklerin listesi için Kielhorn, Grammatik §537'e bakınız).
-> Örnek:
+**-i /-ī / -u / -ū /-ṛ ile biten kökler genellikle yüksek veya uzatılmış aşamaya sahiptir; bunlar, -⟪त्य⟫ (dişil: -⟪त्या⟫) soneki ile bir gerundiv oluşturan -i / -u /-ṛ köklerinden değildir.** (Bu köklerin listesi için Kielhorn, Grammatik §537'e bakınız).
+Örnek:
+
+:::
+::: no-header
+
+| | |
+| :--- | :--- |
+⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "hatırlanması gereken" |
+
+:::
+
+::: grammar-box
+
+**-i/-ī ile biten kökler yüksek aşamaya sahiptir**
+Örnekler:
+
+:::
+::: no-header
+
+| | |
+| :--- | :--- |
+⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "satılması gereken; satılabilir" |
+⟪नी⟫ 1U | ⟪नेय⟫ 3 | "götürülmesi gereken" |
+
+:::
+
+::: media
+
+![lekt4103.jpg](/images/lekt4103.webp)
+
+Resim: ⟪विक्रेयाणि पुष्पानि⟫
+(Resim kaynağı: [Details](/tr/licenses#lekt4103))
+:::
+
+::: grammar-box
+
+**-u /-ū ile biten kökler, yüksek aşamalı -o'yu -ya'dan önce -av ile değiştirir; uzatılmış aşamalı -au'yu ise -āv ile. Bu durumda, uzatılmış aşama zorunluluğu ifade eder.**
+:::
+
+Örnek:
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-> ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "hatırlanması gereken" |
-
-:::
-
-> ::: grammar-box
-
-> **-i/-ī ile biten kökler yüksek aşamaya sahiptir**
-> Örnekler:
-
-::: no-header
-
-> | | |
-> | :--- | :--- |
-> ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "satılması gereken; satılabilir" |
-> ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "götürülmesi gereken" |
-
-> :::
-
-> ::: media
-
-> ![lekt4103.jpg](/images/lekt4103.webp)
-
-> Resim: ⟪विक्रेयाणि पुष्पानि⟫
-> (Resim kaynağı: [Details](/tr/licenses#lekt4103))
-> :::
-
-> ::: grammar-box
-
-> **-u /-ū ile biten kökler, yüksek aşamalı -o'yu -ya'dan önce -av ile değiştirir; uzatılmış aşamalı -au'yu ise -āv ile. Bu durumda, uzatılmış aşama zorunluluğu ifade eder.**
-> :::
-
-> Örnek:
-
-> ::: no-header
-
-> | | |
-> | :--- | :--- |
-> ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "övgüye layık olan; övülmesi gereken" |
->  | ⟪स्ताव्य⟫ 3 | "zorunlu olarak övülmesi gereken" |
+⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "övgüye layık olan; övülmesi gereken" |
+| ⟪स्ताव्य⟫ 3 | "zorunlu olarak övülmesi gereken" |
 
 :::
 

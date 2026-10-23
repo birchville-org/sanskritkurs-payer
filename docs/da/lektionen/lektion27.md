@@ -2,7 +2,7 @@
 title: "Lektion 27"
 subtitle: 'Brug af lokativ (⟪सप्तमी⟫ f. = \"syvende kasusendelse\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) angiver på spørgsmålet "Hvor?" det rum, i (på, ved, hos) hvilket agens (⟪कर्ता⟫) eller objektet for en handling befinder sig, eller hvor selve handlingen finder sted.**
 
-> ⟪नगरे वसति⟫ = "Han bor i byen"
+⟪नगरे वसति⟫ = "Han bor i byen"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokativ angiver på spørgsmålet "Hvornår?" tidspunktet eller de ydre omstændigheder:**
 
-> ⟪तस्मिन्काले⟫ = "på det tidspunkt, i den tid"
+⟪तस्मिन्काले⟫ = "på det tidspunkt, i den tid"
 
 **Hertil hører også den såkaldte Locativus Absolutus:**
 
 **Hvis handlingen eller tilstanden for en person eller ting bestemmer den tid, hvortil - eller de omstændigheder, under hvilke - EN ANDEN person eller ting udfører en handling eller befinder sig i en bestemt tilstand, så står ordet, der betegner den første person eller ting, sammen med det nærmere bestemmende ord (som ofte er et particip), i lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "mens tiden går..."
-\>
-> ⟪तस्मिन्गते⟫ = "da han var gået..."
+⟪एवं गच्छति काले⟫ = "mens tiden går..."
+
+⟪तस्मिन्गते⟫ = "da han var gået..."
 
 **Nogle gange angives agens (⟪कर्ता⟫) ikke eksplicit:**
 
-> ⟪एवं सति⟫ = "da det forholder sig sådan"
+⟪एवं सति⟫ = "da det forholder sig sådan"
 
 **Locativus absolutus skal efter kontekst oversættes med "mens" (f.eks. præsens particip), "efter", "da" (f.eks. PPP), "fordi", "selvom", "hvis" osv.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Lokativ bruges også på spørgsmålet "I forhold til hvad?" o.l.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Han har kærlighed til sin søn" (ordligt: "I forhold til sønnen er der hos ham kærlighed")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Han har kærlighed til sin søn" (ordligt: "I forhold til sønnen er der hos ham kærlighed")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokativet bruges i de indfødte ordbøger og hos kommentatorerne til at angive betydningen af et ord:**
 
-> ⟪भू सत्तायाम्⟫ = "roden ⟪भू⟫ i betydningen 'værenhed' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "roden ⟪भू⟫ i betydningen 'værenhed' (sat-tā)"
 
 :::
 Mere om brugen af lokativ senere.

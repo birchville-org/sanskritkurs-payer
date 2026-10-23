@@ -3,8 +3,8 @@ title: "Bài 2"
 subtitle: "Câu danh từ và những nền tảng của sự biến cách"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Mẫu: Danh từ vị ngữ - Chủ ngữ**
+:::
 
+::: indent
 Ví dụ: devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu là một vị thần."
 :::
 Một động từ liên kết (copula) ("là", "sind", "bin", "bist", "seid") không cần thiết, nhưng đôi khi có thể xuất hiện.
@@ -76,7 +78,9 @@ Các gốc danh từ sau đây, kết thúc bằng một nguyên âm, hình thà
 
 Xem thêm bảng tổng hợp:
 
-> **Payer, Alois (1944–):** Sandhi của -s ở âm cuối. -- (Tài liệu về Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi của -s ở âm cuối. -- (Tài liệu về Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Âm cuối **-s**:
 
@@ -120,7 +124,9 @@ trước các nguyên âm khác: chuyển thành **-a** (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (hàng phục dịch).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Bốn đẳng cấp (varṇa)**
+
 Theo lý thuyết cổ điển (ví dụ Manusmṛti I, 88-91), các nhiệm vụ được phân chia như sau:
 
 **của các Bà-la-môn**

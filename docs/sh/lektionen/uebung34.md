@@ -2,7 +2,7 @@
 title: "[Vježba 34]"
 uebung_id: 34
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -45,16 +45,18 @@ A) Form the corresponding perfect tense forms for the following verb conjugation
 
 Translate the following text from the ⟪पद्मपुराण⟩ regarding gifts to Brahmins:
 
-> ⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजोत्तम ।⟩  
-> ⟪विष्णुलोके सुखं भुङ्क्ते यावदिन्द्राश्चतुर्दश ॥१॥⟩  
-> ⟪सप्तद्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।⟩  
-> ⟪तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥⟩  
-> ⟪तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।⟩  
-> ⟪हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥⟩  
-> ⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।⟩  
-> ⟪स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥⟩  
-> ⟪अन्नं वारि द्विजश्रेष्ठ येन दत्तम् महीतले ।⟩  
-> ⟪तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟩
+::: indent
+⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजोत्तम ।⟩
+⟪विष्णुलोके सुखं भुङ्क्ते यावदिन्द्राश्चतुर्दश ॥१॥⟩
+⟪सप्तद्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।⟩
+⟪तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥⟩
+⟪तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।⟩
+⟪हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥⟩
+⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।⟩
+⟪स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥⟩
+⟪अन्नं वारि द्विजश्रेष्ठ येन दत्तम् महीतले ।⟩
+⟪तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟩
+:::
 
 Best of the twice-born! Whoever gives a Brahmin the earth together with its crops enjoys the world of Viṣṇu as long as fourteen Indras. Twice-born! The merit that someone obtains who gives away the whole world with its seven continents, that does a mortal obtain who gives a Brahmin a cow. Whoever gives gold to a Brahmin as small as a sesame seed, he comes together with 10 million families into the dwelling city of Hari (Viṣṇu). Best of the twice-born! A man who gives a girl together with jewelry (to a Brahmin), he comes to the seat of Brahmā and has no more rebirth. Best of the twice-born! Whoever has given food and water on the surface of the earth, he has given all gifts, bull among the twice-born!
 

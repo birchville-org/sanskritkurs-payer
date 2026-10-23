@@ -2,7 +2,7 @@
 title: "Pamoka 21"
 subtitle: "Dabartinės kamienų formos su -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

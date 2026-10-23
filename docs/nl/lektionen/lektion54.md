@@ -2,7 +2,7 @@
 title: "Les 54"
 subtitle: "Voorafgaande opmerking"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -46,36 +46,36 @@ De ⟪त्रिष्टुभ्⟫ kent twee basisschema’s, afhankelijk v
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 De kwantiteit van de vier laatste lettergrepen is dus in beide schema’s gelijk.
 
 ⟪जगती⟫-basisvorm: zoals bij ⟪त्रिष्टुभ्⟫, maar met 12 lettergrepen. De laatste 5 lettergrepen van elke pada hebben de volgende kwantiteiten:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Daarnaast bestaat er de zogenaamde typisch overtollige ⟪त्रिष्टुभ्⟫ met een vijflettergrepig begin, die verdergaat als een ⟪त्रिष्टुभ्⟫ met een vierlettergrepig begin:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In latere tijden worden de vormen van de ⟪त्रिष्टुभ्⟫ vastgelegd volgens een strikt schema van lange en korte lettergrepen; de cesuur speelt geen rol meer. De belangrijkste latere vormen zijn:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

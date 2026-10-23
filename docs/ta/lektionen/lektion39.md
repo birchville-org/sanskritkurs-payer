@@ -2,7 +2,7 @@
 title: "பாடம் 39"
 subtitle: 'முதல் பட்டினத்தின் நபர் முடிப்புகள் (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**மூன்றாம்** நபர்")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

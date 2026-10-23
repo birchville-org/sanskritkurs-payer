@@ -2,7 +2,7 @@
 title: "التمرین ۲۰"
 uebung_id: 20
 category: "تمرین"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

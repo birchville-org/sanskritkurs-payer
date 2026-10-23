@@ -2,7 +2,7 @@
 title: "Esercizio 54"
 uebung_id: 54
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -36,9 +36,9 @@ Formate le corrispondenti forme di aoristo dalle seguenti forme di presente o pe
 | ⟪२१⟫. | **⟪जायते⟫** | egli nasce | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | viene cantato | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | è andato | **⟪अगामि⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung093))
-::::
 :::

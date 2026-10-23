@@ -1,3 +1,4 @@
+
 # Exercițiu de scriere 8
 
 Semne vocale pentru începutul de cuvânt, în cazul în care cuvântul nu este scris legat de un cuvânt anterior:

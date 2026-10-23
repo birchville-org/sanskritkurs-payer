@@ -484,7 +484,9 @@ Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Siehe auch:
 
-> **Payer, Alois (1944–):** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Bedeutung der Bestimmung des Metrums
 
@@ -563,10 +565,10 @@ Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 :::
 Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
@@ -595,11 +597,11 @@ Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪राम�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
@@ -607,19 +609,19 @@ Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪ल�
 **Nebenschemata (⟪विपुला⟫) für a und c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
@@ -628,7 +630,7 @@ Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪ल�
 ::: grammar-box
 **Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

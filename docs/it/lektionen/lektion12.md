@@ -2,7 +2,7 @@
 title: Lektion 12
 subtitle: "Il participio perfetto passivo (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -28,9 +28,9 @@ Il PPP concorda in numero, caso e genere con l'oggetto.
 Non è necessario un verbo ausiliare ("essere").
 
 Esempi:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Dal santo è stato ottenuto un cielo) = Il santo ha ottenuto un cielo."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Dal brāhmaṇo è stata venerata la dea con un sacrificio) = Il brāhmaṇo ha venerato la dea con un sacrificio."
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Dal santo è stato ottenuto un cielo) = Il santo ha ottenuto un cielo."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Dal brāhmaṇo è stata venerata la dea con un sacrificio) = Il brāhmaṇo ha venerato la dea con un sacrificio."
 :::
 
 ### 12.1.2. Schema I per i verbi intransitivi e i verbi di movimento
@@ -41,7 +41,7 @@ Esempi:
 In questo caso, il PPP concorda con l'Agente in numero, caso e genere. Il Participio Perfetto "Passivo" ha, con i verbi intransitivi (verbi senza oggetto diretto) e i verbi di movimento, un significato attivo.
 
 Esempio:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La donna Kṣatriya è andata in città."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La donna Kṣatriya è andata in città."
 :::
 
 ### 12.1.3. Schema II per i verbi intransitivi e i verbi di movimento
@@ -50,7 +50,7 @@ Esempio:
 **Agente (kartṛ) nel strumentale (tṛtīyā) -- PPP al nominativo singolare neutro**
 
 Esempio:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Dal Kṣatriya è stato (nella città) andato) = Il Kṣatriya è (nella città) andato.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Dal Kṣatriya è stato (nella città) andato) = Il Kṣatriya è (nella città) andato.“
 
 La costruzione secondo lo Schema II è molto più rara rispetto alla costruzione secondo lo Schema I.
 :::

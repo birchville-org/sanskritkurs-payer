@@ -2,7 +2,7 @@
 title: "第17课"
 subtitle: "第二现在时类（⟪अदादि⟫ = ⟪अद्⟫ 等）"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

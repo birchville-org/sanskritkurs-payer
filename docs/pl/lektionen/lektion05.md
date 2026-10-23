@@ -2,7 +2,7 @@
 title: "Lekcja 5"
 subtitle: "Podstawy złożenia rzeczownikowego (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Przedrostki w złożeniach (nie tylko Dvandwa) mają zazwyczaj formę **niewzrus
 Przykłady Dvandwy liczby mnogiej:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanie, Kṣatrijowie, Vaiśjowie i Śudrowie)
-> 
-> lub = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((jeden/ten) Brahmanin, Kṣatrija, Vaiśja i Śudra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanie, Kṣatrijowie, Vaiśjowie i Śudrowie)
+
+lub = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((jeden/ten) Brahmanin, Kṣatrija, Vaiśja i Śudra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (poeci i nauczyciele [liczba mnoga])
-> (Uwaga: „Jeden poeta i jeden nauczyciel” musiałoby być w liczbie podwójnej!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(poeci i nauczyciele [liczba mnoga])
+(Uwaga: „Jeden poeta i jeden nauczyciel” musiałoby być w liczbie podwójnej!)
+:::
 
 **W odnośnym do kolejności członów w sandhi dwójczym (dvandva) obowiązują m.in. następujące zasady:**
 Nazwy różnych stanów społecznych (**varṇa**) należy porządkować zgodnie z ich hierarchią (najwyższy na pierwszym miejscu).

@@ -2,7 +2,7 @@
 title: "Lekcija 25"
 subtitle: 'Oblikovanje ablativa (⟪पञ्चमी⟫ = \"peti padež\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

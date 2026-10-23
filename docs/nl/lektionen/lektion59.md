@@ -2,7 +2,7 @@
 title: "Les 59"
 subtitle: "De secundaire uitgangen en de imperatieve uitgangen van de dualis (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

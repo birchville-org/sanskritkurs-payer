@@ -2,7 +2,7 @@
 title: "Lekcja 4"
 subtitle: "Zaimek pytający i zaimek wskazujący w mianowniku"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Za pomocą tych zaimków tworzy się np. następujące formuły pytające:
 :::
 Przykład innych pytań:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpowiedź: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (W zdaniu nominalnym można np. umieścić podmiot na początku, aby podkreślić nawiązanie do pytania.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpowiedź: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (W zdaniu nominalnym można np. umieścić podmiot na początku, aby podkreślić nawiązanie do pytania.)
+:::
 
 UWAGA: Odpowiedzi, które można udzielić na takie pytania przy użyciu dotychczasowej wiedzy z sanskrytu, oczywiście jeszcze nie we wszystkich aspektach odpowiadają idiomatycznie dobremu sanskrytowi.
 

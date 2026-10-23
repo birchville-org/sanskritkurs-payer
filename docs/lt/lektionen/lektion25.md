@@ -2,7 +2,7 @@
 title: "Pamoka 25"
 subtitle: 'Ablativo formavimas (⟪पञ्चमी⟫ = \"penktojo linksnio pabaiga\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

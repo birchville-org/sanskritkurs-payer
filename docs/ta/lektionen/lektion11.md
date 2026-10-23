@@ -2,7 +2,7 @@
 title: "பாடம் 11"
 subtitle: "இரட்டைப் பொருள் குறிப்பு (நபர் மற்றும் பொருளின் குறிப்பு)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

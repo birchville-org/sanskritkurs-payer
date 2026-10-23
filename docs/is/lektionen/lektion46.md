@@ -2,7 +2,7 @@
 title: "Kennslustund 46"
 subtitle: "Formation of the verbal forms for the second person (⟪मध्यमः⟫) Perfect tense (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -381,7 +381,9 @@ derived from:
 :::
 For ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois (1944–):** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/is/licenses#lekt4602)

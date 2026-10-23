@@ -2,7 +2,7 @@
 title: "Lekcja 7"
 subtitle: "Zdanie czasownikowe z dopełnieniem bliższym"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lekcja 7
 
 
-::: center
+::: verse-box
 **Słowo tygodnia**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Bóg zwycięża, nie bóstwo przeciwne.
 ::: grammar-box
 **Schemat:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – dopełnienie bierne (karman n. = ⟪कर्मन्⟫) – czasownik**
+:::
 
+::: indent
 np.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma je (kaut) owoc."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman czci boga ofiarą (za kogoś innego)."

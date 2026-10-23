@@ -71,7 +71,7 @@ Shembuj:
 :::
 ## 32.4. Shembuj për formimin e Imperfektit
 
-::: important
+::: warning-box
 **Për të demonstruar formimin e formeve, këtu gjithashtu formohen forma Ātmanepada për rrëzat Parasmaipada! Këto forma artificiale qëndrojnë midis \< \>.**
 :::
 ### 32.4.1. Klasat tematike të Presentit
@@ -582,7 +582,7 @@ Përktheni dhe përcaktoni format e mëposhtme të fjalëve:
 
 ## 32.9. Ushtrim përkthimi
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

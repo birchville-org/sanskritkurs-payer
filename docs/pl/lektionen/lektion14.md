@@ -2,7 +2,7 @@
 title: "Lekcja 14"
 subtitle: "Wyrażenie relacji między rzeczownikami: dopełniacz (ṣaṣṭhī f. = ⟪षष्टी⟫ = szósta końcówka przypadkowa)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,7 +32,7 @@ Przykłady:
 
 Normalna kolejność wyrazów to:
 
-> **Określnik w dopełniaczu — Określany rzeczownik w innym przypadku**
+**Określnik w dopełniaczu — Określany rzeczownik w innym przypadku**
 
 :::
 
@@ -44,9 +44,9 @@ W przypadku PPP dopełniacz może zastępować narzędnik (tṛtīyā) dla oznac
 
 Zgodnie z Pāṇini 2.3.67, w przypadku PPP dopełniacz występuje, gdy PPP ma znaczenie teraźniejsze (patrz wyżej), a narzędnik, gdy PPP ma znaczenie przeszłe:
 
-> ⟪रामस्येष्टं फलम्⟫ "Żądana przez Rāmę nagroda = Nagroda, której Rāma obecnie pragnie"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Nagroda, której Rāma pragnął"
+⟪रामस्येष्टं फलम्⟫ "Żądana przez Rāmę nagroda = Nagroda, której Rāma obecnie pragnie"
+
+⟪रामेणेष्टं फलम्⟫ "Nagroda, której Rāma pragnął"
 
 Oczywiście w przypadku rzeczownika rodzaju nijakiego w liczbie pojedynczej, który jest formą imiesłowu przymiotnikowego biernego (PPP) używanym jako rzeczownik abstrakcyjny, występuje dopełniacz.
 
@@ -66,7 +66,7 @@ Po spółgłosce regularne końcówki dopełniacza to:
 
 :::
 
-::: center
+::: verse-box
 
 | Rdzeń rzeczownikowy | Słaba forma rdzenia | Dopełniacz lp. | Dopełniacz lm. |
 | :--- | :--- | :--- | :--- |
@@ -83,11 +83,11 @@ Po spółgłosce regularne końcówki dopełniacza to:
 
 Dopełniacz liczby mnogiej rdzeni zakończonych samogłoską tworzy się w następujący sposób:
 
-> **-długie samogłoski rdzenia + -nām**
+**-długie samogłoski rdzenia + -nām**
 
 :::
 
-::: center
+::: verse-box
 
 | Rdzeń rzeczownikowy | Dopełniacz lm. |
 | :--- | :--- |
@@ -110,7 +110,7 @@ Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tw
 
 :::
 
-::: center
+::: verse-box
 
 | Plemię | Dopełniacz liczby pojedynczej |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tw
 
 **Zaimki pytające i wskazujące:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ Dopełniacz liczby pojedynczej plemion kończących się na samogłoskę jest tw
 
 **Równość form:**
 
-::: important
+::: warning-box
 
 We wszystkich plemionach rzeczownikowych z wyjątkiem męskich i nijakich na -a oraz zaimek forma dopełniacza liczby pojedynczej jest identyczna z formą ablativu (pañcamī "piąta końcówka przypadkowa") liczby pojedynczej!
 
@@ -154,11 +154,11 @@ Należy pamiętać, że w przypadku rdzeni kończących się spółgłoską dope
 
 Wbrew powyższej zasadzie podstawowej dopełniacz jest używany do wyrażenia obiektu niektórych czasowników, np. czasowników pamiętania:
 
-> ⟪देवानां स्मरति⟫ "Pamięta o bogach"
+⟪देवानां स्मरति⟫ "Pamięta o bogach"
 
 Jednakże przy wszystkich tych czasownikach obiekt może również wystąpić w bierniku:
 
-> ⟪देवान्स्मरति⟫ "Pamięta o bogach"
+⟪देवान्स्मरति⟫ "Pamięta o bogach"
 
 Dalsze informacje później.
 

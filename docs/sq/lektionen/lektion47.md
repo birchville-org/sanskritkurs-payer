@@ -2,7 +2,7 @@
 title: "Mësimi 47"
 subtitle: "Urdhësi (⟪लोट्⟫)"
 lesson_id: 47
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -50,7 +50,7 @@ Shembuj:
 ⟪चिरं जीवतु भवान् ।⟫ "Të jetoni gjatë!"
 :::
 ::: grammar-box
-> Urdhrat e mëshirshëm shprehen me dëshirë nga Imperativet Pasive.
+Urdhrat e mëshirshëm shprehen me dëshirë nga Imperativet Pasive.
 :::
 Shembuj:
 
@@ -59,7 +59,9 @@ Shembuj:
 
 ⟪निषद्यताम् ।⟫ "Ju lutem, uluni!"
 :::
-> Në Imperativin e Sanskritisë klasike, format e personit të parë janë forma të vjetra Konjunktivi. Konjunktivi vedik është kryesisht Modi që shpreh një dëshirë: "Ne duam të shkojmë!" "Le të shkojmë!"
+::: indent
+Në Imperativin e Sanskritisë klasike, format e personit të parë janë forma të vjetra Konjunktivi. Konjunktivi vedik është kryesisht Modi që shpreh një dëshirë: "Ne duam të shkojmë!" "Le të shkojmë!"
+:::
 
 ::: grammar-box
 Imperativi formohet nga stamba i prezencit.

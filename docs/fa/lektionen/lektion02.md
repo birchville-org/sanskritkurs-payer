@@ -3,8 +3,8 @@ title: "درس ۲"
 subtitle: "جمله اسمی و پایه‌های صرف"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **الگو: اسم مسند - نهاد**
+:::
 
+::: indent
 مثال: devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "ویشنو یک خداست."
 :::
 فعل ربطی ("است"، "هستند"، "ام"، "ای هستی"، "هستید") ضروری نیست، اما گاهی ممکن است ظاهر شود.
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 همچنین به خلاصه مراجعه کنید:
 
-> **پایر، آلويس \<1944 - \>:** ساندیا با پایان -s. -- (مواد مربوط به سانسکریت). -- نشانی: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**پایر، آلويس \<1944 - \>:** ساندیا با پایان -s. -- (مواد مربوط به سانسکریت). -- نشانی: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 پایان‌یافته **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : شودرا (طبقه خدمتگزاران).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**چهار طبقه (varṇa)**
+
 بر اساس نظریه کلاسیک (به عنوان مثال Manusmṛti I, 88-91)، وظایف به شرح زیر تقسیم شده‌اند:
 
 - **برهمه‌ها**

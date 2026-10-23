@@ -2,7 +2,7 @@
 title: "பாடம் 25"
 subtitle: 'அப்திவ் உருவாக்கம் (⟪पञ्चमी⟫ = "ஐந்தாம் விபத்தியுரு")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

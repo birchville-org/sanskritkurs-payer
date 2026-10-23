@@ -2,7 +2,7 @@
 title: "Lección 49"
 subtitle: "Formación del imperativo (⟪लोट्⟫) de las raíces presentes no temáticas (continuación)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

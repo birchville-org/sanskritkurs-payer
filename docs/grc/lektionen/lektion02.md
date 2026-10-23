@@ -3,8 +3,8 @@ title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 ---
 
 # Μάθημα βʹ
@@ -13,7 +13,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Σχήμα: Κατηγορούμενον ὄνομα - Ὑποκείμενον**
+:::
 
+::: indent
 οἷον devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Ὁ Βισνοῦς ἐστὶ θεός."
 :::
 Ῥῆμα συνδετικόν ("ἐστί", "εἰσί", "εἰμί", "εἶ", "ἐστέ") οὔκ ἐστιν ἀναγκαῖον, δύναται δὲ ἐνίοτε παρεῖναι.
@@ -72,7 +74,9 @@ last_reconstructed: 2026-04-30
 
 Ἴδε καὶ τὴν σύνοψιν:
 
-> **Payer, Alois (1944–):** Sandhi τοῦ τελικοῦ -s. -- (Ὕλαι περὶ τῆς Σανσκριτικῆς). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi τοῦ τελικοῦ -s. -- (Ὕλαι περὶ τῆς Σανσκριτικῆς). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Τὸ τελικὸν **-s**:
 
@@ -115,7 +119,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Σούδρα (τάξις ὑπηρετῶν).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Τὰ τέσσαρα γένη (varṇa)**
+
 Κατὰ τὴν κλασσικὴν θεωρίαν (π.χ. Manusmṛti I, 88-91) τὰ ἔργα οὕτω διανενεμημένα εἰσίν:
 
 - **τῶν Βραχμάνων**

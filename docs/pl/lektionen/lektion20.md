@@ -2,7 +2,7 @@
 title: "Lekcja 20"
 subtitle: "Złożenia dzierżawcze = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -488,42 +488,52 @@ Buddyta jako asceta przed swoim zbawczym oświeceniem, Gandhara, II/III w.
 ::: indent
 Wyjaśnienie: ⟪त्रिविध ३⟫ : "potrójny"
 :::
-> Definicja wyzwolenia według systemu Nyāya:
+::: indent
+Definicja wyzwolenia według systemu Nyāya:
+:::
 
 ::: indent
 ⟪बाधनालक्षणं दुःखम् ॥न्यायसूत्र १⟫.⟪२१॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १⟫.⟪२२॥⟫
 :::
-> Wypowiedź materialistów według ⟪सर्वदर्शनसंग्रह⟫ :
+::: indent
+Wypowiedź materialistów według ⟪सर्वदर्शनसंग्रह⟫ :
+:::
 
 ::: indent
 ⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादी⟫na⟪ं क्रियाश्च फलदायिकाः ॥⟫
 
 Wyjaśnienie: ⟪अत्मा⟫ = Nom.sg. mask. do ⟪आत्मन्⟫ m. "Ja, dusza ; Absolut, w zakresie jego urzeczywistnienia w jednostce"
 :::
-> Jeden ⟪सुभाषितम्⟫ :
+::: indent
+Jeden ⟪सुभाषितम्⟫ :
+:::
 
 ::: indent
-> ⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫
+⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫
 
 Wyjaśnienie: -da na końcu złożenia: "dający"
 :::
 ::: media
 ![](/images/lekt2009.webp)
-> Ilustracja: ⟪लोकानां करदा मही⟫
-> Karnataka
+Ilustracja: ⟪लोकानां करदा मही⟫
+Karnataka
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt2009))
 :::
-> O sprawach majątkowych:
+::: indent
+O sprawach majątkowych:
+:::
 
 ::: indent
-> ⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८⟫.⟪४१६॥⟫
+⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८⟫.⟪४१६॥⟫
 
 Wyjaśnienie: ⟪त्रयस्⟫ = Nom. mask. pl. do ⟪त्रि⟫ "trzy"
 :::
-> Jeden ⟪सुभाषितम्⟫ o kobiecej urodzie:
+::: indent
+Jeden ⟪सुभाषितम्⟫ o kobiecej urodzie:
+:::
 
 ::: indent
-> ⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫
+⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫
 
 Wyjaśnienie: wszystkie formy oprócz ⟪कं⟫ i ⟪स्त्रीणाम्⟫ to dopełniacz liczby pojedynczej rodzaju nijakiego i odnoszą się do ⟪वपुस्⟫.
 :::

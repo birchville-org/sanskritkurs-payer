@@ -2,7 +2,7 @@
 title: "Pamoka 44"
 subtitle: "Antros asmenies veiksmažodžio formų daryba (⟪मध्यमः⟫) bebalčiai kamienai su balsine galūne"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -235,7 +235,7 @@ Pvz. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 Vietnamo gramatikai laiko vokatīvą (⟪आमन्त्रितम्⟫) ne kaip savarankišką linksnį, o tik nominativo (⟪प्रथमा⟫) modifikacija.
 
-::: important
+::: warning-box
 
 **Vokativas skirtas šaukiniui, kreipimuisi ir yra nepriklausomas nuo likusios sakinio dalies, todėl skiriasi nuo kitų linksnių, kurie išreiškia ryšį su veiksmažodžiu arba kitu daiktavardžiu.**
 
@@ -249,7 +249,7 @@ Vietnamo gramatikai laiko vokatīvą (⟪आमन्त्रितम्⟫) n
 
 :::
 
-::: important
+::: warning-box
 
 **Venkite versti vokativą su **"O** ...".** Vokiečių kalboje nuolat naudojame vokatīvus, pavyzdžiui, kai sakome: "Brangiausias, ką šiandien ruošiam?" Niekas šioje reikšmėje nesakytų: **"O** brangiausias, ką šiandien ruošiam?"**
 

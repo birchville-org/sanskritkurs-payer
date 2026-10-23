@@ -2,7 +2,7 @@
 title: "ክፍለ-ወር 26"
 subtitle: "ስለ -s- በመካከለ-ውገድ ላይ የሚፈጸም የሰውነት-ማዕዘን ሕግ"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

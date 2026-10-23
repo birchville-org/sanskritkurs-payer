@@ -2,7 +2,7 @@
 title: "Pratimas 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -16,14 +16,16 @@ A) Deklinacijos kartojimui: Šis eilutė turi visus vienaskaitos linksniavimo pa
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> Mano mokytojas yra mano prieglobstis,  
-> Aš gerbiu savo mokytoją,  
-> Esu kartu su savo mokytoju,  
-> Garbė mano mokytojui,  
-> Nėra nieko aukštesnio už mokytoją,  
-> Esu savo mokytojo vaikas,  
-> Mano širdis yra pas mano mokytoją,  
-> Mokytojau, saugok mane!
+::: indent
+Mano mokytojas yra mano prieglobstis,
+Aš gerbiu savo mokytoją,
+Esu kartu su savo mokytoju,
+Garbė mano mokytojui,
+Nėra nieko aukštesnio už mokytoją,
+Esu savo mokytojo vaikas,
+Mano širdis yra pas mano mokytoją,
+Mokytojau, saugok mane!
+:::
 
 ---
 
@@ -36,7 +38,9 @@ A) Deklinacijos kartojimui: Šis eilutė turi visus vienaskaitos linksniavimo pa
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> Eikite gerųjų keliu, kuriuo ėjo tėvai, kuriuo ėjo seneliai. Jei einate šiuo keliu, patirsite žalos.
+::: indent
+Eikite gerųjų keliu, kuriuo ėjo tėvai, kuriuo ėjo seneliai. Jei einate šiuo keliu, patirsite žalos.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -45,7 +49,9 @@ A) Deklinacijos kartojimui: Šis eilutė turi visus vienaskaitos linksniavimo pa
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Šeimos tampa nešeimomis dėl blogų santuokų, ritualų praleidimo, Vedų nemokymo ir pažeidimų brahmanams.
+::: indent
+Šeimos tampa nešeimomis dėl blogų santuokų, ritualų praleidimo, Vedų nemokymo ir pažeidimų brahmanams.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -54,7 +60,9 @@ A) Deklinacijos kartojimui: Šis eilutė turi visus vienaskaitos linksniavimo pa
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> Šeimoje, kurioje vyras visada patenkintas žmona ir žmona vyru, tokioje šeimoje nuolatinė laimė yra tikra.
+::: indent
+Šeimoje, kurioje vyras visada patenkintas žmona ir žmona vyru, tokioje šeimoje nuolatinė laimė yra tikra.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -75,7 +83,9 @@ Pav.: ⟪संतुष्टो भार्यया भर्ता भर�
 **⟪आदित्याज्जायते वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Visada dalyvaukite Vedų studijose ir dievams skirtuose ritualuose. Tas, kuris dalyvauja dievams skirtuose ritualuose, iš tikrųjų gauna šį pasaulį su gyvais ir negyvais padariniais. Auka, teisingai įmesta į ugnį, kyla link saulės; iš saulės atsiranda lietus; iš lietaus – maistas; o iš maisto – gyvi padariniai.
+::: indent
+Visada dalyvaukite Vedų studijose ir dievams skirtuose ritualuose. Tas, kuris dalyvauja dievams skirtuose ritualuose, iš tikrųjų gauna šį pasaulį su gyvais ir negyvais padariniais. Auka, teisingai įmesta į ugnį, kyla link saulės; iš saulės atsiranda lietus; iš lietaus – maistas; o iš maisto – gyvi padariniai.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -89,8 +99,10 @@ Pav.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
 **⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Turi būti atsisakyta būsimos kančios.  
-> Šio atsisakančiojo priežastis yra matančiojo ir matomo [= suvokiančiojo ir suvokiamo] sąveika.
+::: indent
+Turi būti atsisakyta būsimos kančios.
+Šio atsisakančiojo priežastis yra matančiojo ir matomo [= suvokiančiojo ir suvokiamo] sąveika.
+:::
 
 ---
 
@@ -101,7 +113,9 @@ Pav.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Karalius] neturėtų nieko paniekinti, jis turėtų išklausyti kiekvieno nuomonę. Išmintingas žmogus pasisavina ir vaiko žodį, jei jis yra reikšmingas.
+::: indent
+[Karalius] neturėtų nieko paniekinti, jis turėtų išklausyti kiekvieno nuomonę. Išmintingas žmogus pasisavina ir vaiko žodį, jei jis yra reikšmingas.
+:::
 
 ---
 
@@ -112,18 +126,24 @@ Pav.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya** vadinamas dviejų gimimų turintis asmuo, kuris suteikia mokinio Upanayana ceremoniją ir tada jį moko Vedos, ritualo bei paslapties žinių.
+::: indent
+**Ācārya** vadinamas dviejų gimimų turintis asmuo, kuris suteikia mokinio Upanayana ceremoniją ir tada jį moko Vedos, ritualo bei paslapties žinių.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya** vadinamas tas, kuris dėl savo pragyvenimo moko dalies Vedos arba pagalbinių mokslų.
+::: indent
+**Upādhyāya** vadinamas tas, kuris dėl savo pragyvenimo moko dalies Vedos arba pagalbinių mokslų.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru** vadinamas Brahmanas, kuris tinkamai atlieka Niṣeka ir kitus ritualus bei leidžia jam gimti per maistą.
+::: indent
+**Guru** vadinamas Brahmanas, kuris tinkamai atlieka Niṣeka ir kitus ritualus bei leidžia jam gimti per maistą.
+:::

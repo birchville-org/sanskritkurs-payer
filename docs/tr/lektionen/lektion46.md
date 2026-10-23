@@ -2,7 +2,7 @@
 title: "Ders 46"
 subtitle: "İkinci kişi (⟪मध्यमः⟫) mükemmel zamanı (⟪लिट्⟫) fiil formlarının oluşumu"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ bundan:
 :::
 ⟪राहु⟩ ve ⟪केतु⟩ için bkz.:
 
-> **Payer, Alois (1944–):** Dharmashastra : Giriş ve Genel Bakış. -- 10. Sakramentler ve Geçiş Törenleri (samskara). -- Ek C: Rahu ve Ketu, görünmez gezegenler . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Giriş ve Genel Bakış. -- 10. Sakramentler ve Geçiş Törenleri (samskara). -- Ek C: Rahu ve Ketu, görünmez gezegenler . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Alb.: [⟪सूर्यः⟩, ⟪चन्द्रः⟩, ⟪मङ्गलः⟩](/tr/licenses#lekt4602)

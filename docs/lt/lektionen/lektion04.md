@@ -2,7 +2,7 @@
 title: "Pamoka 4"
 subtitle: "Klausiamieji ir rodiklieji įvardžiai nominatyve"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -85,7 +85,9 @@ Naudojant šiuos įvardžius sudaromi, pvz., tokie klausimai:
 :::
 Kitas klausimų pavyzdys:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Atsakymas: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Nominaliniame sakinyje galima, pavyzdžiui, iškelti subjektą į pradžią, kad būtų pabrėžtas ryšys su klausimu.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Atsakymas: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Nominaliniame sakinyje galima, pavyzdžiui, iškelti subjektą į pradžią, kad būtų pabrėžtas ryšys su klausimu.)
+:::
 
 PASTABA: Atsakymai, kuriuos galite duoti į tokius klausimus naudodami savo dabartines sanskrito žinias, savaime suprantama, dar ne visais atžvilgiais atitinka idiomiškai gerą sanskritą.
 

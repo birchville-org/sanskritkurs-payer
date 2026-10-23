@@ -1,3 +1,4 @@
+
 # Devanāgarī = ⟪देवनागरी⟫
 
 ## Exercício de Escrita 6

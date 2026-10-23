@@ -2,7 +2,7 @@
 title: "[Ejercicio 23]"
 uebung_id: 23
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -211,9 +211,9 @@ C) Proporcione las formas básicas (significado, clase de presente, modo, 3. sg.
 | Absoluto 1 | ⟪हत्वा⟫ |
 | Absoluto 2 | -⟪हत्य⟫ |
 | Infinitivo | ⟪हन्तुम्⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung036))
-::::
 :::

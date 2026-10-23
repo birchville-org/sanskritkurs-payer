@@ -2,7 +2,7 @@
 title: "Lekcja 3"
 subtitle: "Mianownik liczby pojedynczej rodzaju żeńskiego"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Mianownik liczby pojedynczej tworzy się bez końcówki:
 **Rodzaj żeński na -ā**: np. **devatā** f. "bóstwo" -- Mian. lp.: **devatā** = ⟪देवता⟫
 **Rodzaj żeński na -ī**: np. **devī** f. "bogini" -- Mian. lp.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Uwaga!** Istnieją również jednosylabiczne żeńskie rdzeniowe rzeczowniki na -ī, których mianownik liczby pojedynczej kończy się na -s: np. dhī f. "myśl" -- Mian. lp.: dhīs = ⟪धीस्⟫. Również lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "łódź" i tantrī (⟪तन्त्री⟫) f. "struna" tworzą nieregularnie mianownik liczby pojedynczej na -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ np.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā jest boginią” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā jest boginią jedzenia i gotowania, uważana za wcielenie Pārvatī, małżonki Śiwy.)
+::: indent
+(Annapūrṇā jest boginią jedzenia i gotowania, uważana za wcielenie Pārvatī, małżonki Śiwy.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrāṇī jest boginią” = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī jest małżonką boga Indry.)
+::: indent
+(Indrāṇī jest małżonką boga Indry.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ np.
 
 devī + umā » devy umā „Umā jest boginią” = ⟪देव्युमा⟫
 
-> (Umā to imię Pārvatī, małżonki Śiwy)
+::: indent
+(Umā to imię Pārvatī, małżonki Śiwy)
+:::
 
 ::: grammar-box
 **-a / -ā przed różną samogłoską:**

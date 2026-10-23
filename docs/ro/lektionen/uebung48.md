@@ -2,7 +2,7 @@
 title: "Exercițiul 48"
 uebung_id: 48
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -150,9 +150,9 @@ Soțul intră în soția sa, devine embrion și apoi se naște aici; în aceasta
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung084))
-:::: media
+:::
+::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung077))
-::::
 :::

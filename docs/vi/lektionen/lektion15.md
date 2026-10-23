@@ -2,7 +2,7 @@
 title: "Bài 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,12 +32,12 @@ Quan hệ cách thức của cả hai thành phần trong một hợp danh từ 
 
 ví dụ như
 
-> Cách danh số ít ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
-> Cách accusative số ít ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
-> Cách instrumental số ít ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
-> Cách genitive số ít ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
-> Cách danh số nhiều ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
-> v.v.
+Cách danh số ít ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+Cách accusative số ít ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+Cách instrumental số ít ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+Cách genitive số ít ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+Cách danh số nhiều ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+v.v.
 
 Giống của một Tatpuruṣa - với vài ngoại lệ - là giống của thành phần thứ hai (hậu tố) của nó.
 

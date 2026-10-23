@@ -3,8 +3,8 @@ title: "Lekcia 8"
 subtitle: "Tvorba podstatných mien & 8. trieda prvého času"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

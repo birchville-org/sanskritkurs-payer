@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (stan storilcev).
 
-::: note-box Štirje stanovi (varna)
+::: note-box
+**Štirje stanovi (varna)**
+
 
 Po klasični teoriji (npr. Manusmṛti I, 88-91) so naloge razporejene:
 
@@ -489,7 +491,6 @@ k **yaj** 1 U:
 
 **yajña** m. ⟪यज्ञ⟫ : Opfer
 
-:::
 ::: note-box
 
   Žrtvovanje v Indiji je predvsem čaščenje božanstva kot gosta. S tem se zavežeš božanstvu.
@@ -499,7 +500,6 @@ k **yaj** 1 U:
 
 **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
 
-:::
 ::: note-box
 
   S čimer si zaslužiš blaginjo in dobra ponovna rojstva.
@@ -508,14 +508,10 @@ k **yaj** 1 U:
 **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 **satya** n. ⟪सत्य⟫ : Wahrheit
 
-:::
 ::: note-box
 
 V Indiji so resnični besedi pripisovali magično moč, celoten svetovni red pa je bil vzdrževan in ustvarjen z resnično besedo. O tej pomembni ideji glej temeljno delo:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -547,7 +543,6 @@ Abb.: ⟪वरुणः⟫
   Imena teh **ṛṣi**jev so omenjena v Brāhmaṇah in v posebnih seznamih k Vedam. Vsi brahmani izvirajo iz takšnih **ṛṣi**jev, po katerih so poimenovane njihove **gotra** (⟪गोत्र⟫). Za pojem **gotra** glej Basham, *Wonder*, pogl. 5.
   :::
 
-:::
 ::: media
 
 ![](/images/lekt1002.jpg)
@@ -561,7 +556,7 @@ Slika: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vprašati (nekoga: tožilnik; po nečem: tožilnik)
 **saha** ⟪सह⟫ : skupaj z, z (tudi pri "boriti se z" itd.) (postpozicija z instrumentalom)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -593,7 +588,6 @@ Abb.: ⟪वरुणः⟫
   Imena teh **ṛṣi**jev so omenjena v Brāhmaṇah in v posebnih seznamih k Vedam. Vsi brahmani izvirajo iz takšnih **ṛṣi**jev, po katerih so poimenovane njihove **gotra** (⟪गोत्र⟫). Za pojem **gotra** glej Basham, *Wonder*, pogl. 5.
   :::
 
-:::
 ::: media
 
 ![](/images/lekt1002.jpg)
@@ -607,7 +601,7 @@ Slika: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vprašati (nekoga: tožilnik; po nečem: tožilnik)
 **saha** ⟪सह⟫ : skupaj z, z (tudi pri "boriti se z" itd.) (postpozicija z instrumentalom)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -841,17 +835,19 @@ Naučite se naslednjih besed:
 **eva** ⟪एव⟫ : poudarja predhodno besedo
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Duševno, božansko.'
->
-> V najstarejših delih Rgvede se ta izraz uporablja za vrhovnega duha in je enak Ahuri zoroastrcev. V pomenu 'bog' se je uporabljal za več glavnih božanstev, kot so Indra, Agni in Varuna. Kasneje je pridobil povsem nasproten pomen in začel označevati, kot danes, demona ali sovražnika bogov.
->
-> Ta beseda se pojavi s tem pomenom v kasnejših delih Rgvede, zlasti v zadnji knjigi, ter tudi v Atharvavedi. Brāhmaṇe ji pripisujejo enak pomen in poročajo o mnogih spopadih med Asurami in bogovi. Po Taittirīya Brāhmaṇi je dih (asu) Prajapatija oživel in "s tem dihom sem ustvaril Asure." V drugem delu istega dela je zapisano, da se je Prajāpati "zanosil. Ustvaril je Asure iz svojega trebuha." Śatapatha Brāhmaṇa se strinja s prvo izjavo in navaja, da "je ustvaril Asure iz svojega spodnjega diha." Taittirīya Āraṇyaka predstavlja, da je Prajāpati ustvaril bogove, ljudi, očete, Gandharve in Apsarase iz vode ter da so Asure, Rakṣase in piśāce nastali iz kapljic, ki so se razlile. Manu trdi, da so jih ustvarili Prajāpatiji.
->
-> Po Viṣṇu Purāni so bili ustvarjeni iz stegen Brahma (prajāpati). Opis v Vāyu Purāni je: "Asure so bili najprej ustvarjeni kot sinovi iz njegovih (Prajāpatijevih) stegen. *Asu* Brāhmaṇa razlaga kot dih. Iz njega so bili ti bitji ustvarjeni; zato so Asure." Beseda se že dolgo uporablja kot splošno ime za sovražnike bogov, vključno z Daityami in Danavami ter drugimi potomci Kaśyape, vendar ne vključuje Rakṣasov, ki so potomci Pulastyje.
->
-> V tem smislu je zanje najden drugačen izvor: vir ni več asu, 'dih', ampak začetni *a* se vzame kot negativna predpona, in asura pomeni 'ni bog'; zato se je po nekaterih pojavila beseda *sura*, ki se običajno uporablja za 'boga'."
->
-> [Vir: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duševno, božansko.'
+
+V najstarejših delih Rgvede se ta izraz uporablja za vrhovnega duha in je enak Ahuri zoroastrcev. V pomenu 'bog' se je uporabljal za več glavnih božanstev, kot so Indra, Agni in Varuna. Kasneje je pridobil povsem nasproten pomen in začel označevati, kot danes, demona ali sovražnika bogov.
+
+Ta beseda se pojavi s tem pomenom v kasnejših delih Rgvede, zlasti v zadnji knjigi, ter tudi v Atharvavedi. Brāhmaṇe ji pripisujejo enak pomen in poročajo o mnogih spopadih med Asurami in bogovi. Po Taittirīya Brāhmaṇi je dih (asu) Prajapatija oživel in "s tem dihom sem ustvaril Asure." V drugem delu istega dela je zapisano, da se je Prajāpati "zanosil. Ustvaril je Asure iz svojega trebuha." Śatapatha Brāhmaṇa se strinja s prvo izjavo in navaja, da "je ustvaril Asure iz svojega spodnjega diha." Taittirīya Āraṇyaka predstavlja, da je Prajāpati ustvaril bogove, ljudi, očete, Gandharve in Apsarase iz vode ter da so Asure, Rakṣase in piśāce nastali iz kapljic, ki so se razlile. Manu trdi, da so jih ustvarili Prajāpatiji.
+
+Po Viṣṇu Purāni so bili ustvarjeni iz stegen Brahma (prajāpati). Opis v Vāyu Purāni je: "Asure so bili najprej ustvarjeni kot sinovi iz njegovih (Prajāpatijevih) stegen. *Asu* Brāhmaṇa razlaga kot dih. Iz njega so bili ti bitji ustvarjeni; zato so Asure." Beseda se že dolgo uporablja kot splošno ime za sovražnike bogov, vključno z Daityami in Danavami ter drugimi potomci Kaśyape, vendar ne vključuje Rakṣasov, ki so potomci Pulastyje.
+
+V tem smislu je zanje najden drugačen izvor: vir ni več asu, 'dih', ampak začetni *a* se vzame kot negativna predpona, in asura pomeni 'ni bog'; zato se je po nekaterih pojavila beseda *sura*, ki se običajno uporablja za 'boga'."
+
+[Vir: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4809,7 +4805,9 @@ od tega:
 
 Za ⟪राहु⟫ in ⟪केतु⟫ glej:
 
-> **Payer, Alois (1944–):** Dharmashastra : uvod in pregled. -- 10. Sakramenti in prehajalni obredi (samskara). -- Priloga C: Rahu in Ketu, nevidna planeta . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : uvod in pregled. -- 10. Sakramenti in prehajalni obredi (samskara). -- Priloga C: Rahu in Ketu, nevidna planeta . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5606,7 +5604,9 @@ v ostalih časovih ni uporabljen
 
 ⟪अजिन⟫ n.: koža antilope, zlasti črna antilopa (črnogiba : _Antilope cervicapra_ L. ). Sprva je bila razširjena po celotnem indijskem podcelinskem območju od Pandžaba in Sinda do Bengala ter od Nepala do Kanyakumarija (Cape Comorin) (Tamil: கன்னியாகுமரி) Glej:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 

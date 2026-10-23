@@ -2,7 +2,7 @@
 title: "Gyakorlat 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ A király, ⟪शूद्रक⟫, ⟪विदिशा⟫ uralkodójának k�
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> A király így szólt: „Hagyjuk ezt a témát! Csillapítsd kíváncsiságunkat! Uram, mesélj nekünk az elejétől: Melyik földön születtél? Ki adta neked a nevet? Ki az anyád? Hogyan kaptad meg a Védákat? Hogyan ismerkedtél meg a tudományos művekkel? Honnan szerezted meg a művészeteket? Emlékszel-e korábbi születéseidre, vagy teljesítheted-e a kívánságokat? Vagy vajon madáröltözetet viselve, egy rejtekhelyen élsz? Vagy hol lakoztál korábban? Vagy hány éves vagy? Hogyan fogtak be egy ketrecbe? És hogyan kerültél a cāṇḍálasok kezére? Vagy hogyan jutottál ide?”
-\>
-> Vaiśampāyana azonban, akit a föld ura spontán felbukkanó kíváncsisággal és nagy tisztelettel kérdezett meg, egy pillanatra elgondolkodott, majd teli tisztelettel így válaszolt: „Király, ez egy hosszú történet. Ha érdekel, hallgass meg!”
+::: indent
+A király így szólt: „Hagyjuk ezt a témát! Csillapítsd kíváncsiságunkat! Uram, mesélj nekünk az elejétől: Melyik földön születtél? Ki adta neked a nevet? Ki az anyád? Hogyan kaptad meg a Védákat? Hogyan ismerkedtél meg a tudományos művekkel? Honnan szerezted meg a művészeteket? Emlékszel-e korábbi születéseidre, vagy teljesítheted-e a kívánságokat? Vagy vajon madáröltözetet viselve, egy rejtekhelyen élsz? Vagy hol lakoztál korábban? Vagy hány éves vagy? Hogyan fogtak be egy ketrecbe? És hogyan kerültél a cāṇḍálasok kezére? Vagy hogyan jutottál ide?”
+
+Vaiśampāyana azonban, akit a föld ura spontán felbukkanó kíváncsisággal és nagy tisztelettel kérdezett meg, egy pillanatra elgondolkodott, majd teli tisztelettel így válaszolt: „Király, ez egy hosszú történet. Ha érdekel, hallgass meg!”
+:::
 
 ::: media
 ![](/images/uebung079.webp)

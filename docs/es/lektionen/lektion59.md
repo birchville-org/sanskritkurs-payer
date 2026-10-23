@@ -2,7 +2,7 @@
 title: "Lección 59"
 subtitle: "Las desinencias secundarias y las desinuencias del imperativo en dual (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

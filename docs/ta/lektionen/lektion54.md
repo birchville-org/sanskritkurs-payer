@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,13 +48,13 @@ status: stable
 வரைவு I:
 
 :::
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 வரைவு II:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
@@ -62,13 +62,13 @@ metrik-schema
 
 ⟪जगती⟫ அடிப்படை வடிவம்: ⟪त्रिष्टुभ्⟫ போல, ஆனால் 12-எழுத்து. ஒவ்வொரு பதத்தின் கடைசி 5 எழுத்துகள் பின்வரும் அளவுகளை எடுத்துக்காட்டுகின்றன:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **— ◡ — ◡ —**
 :::
 அதே நேரத்தில், ஐந்து எழுத்து தொடக்க உறுப்புடன் கூடிய அழைக்கப்படும் வகை அளவுக்கு அதிகமான ⟪त्रिष्टुभ्⟫ உள்ளது, அது நான்கு எழுத்து தொடக்க உறுப்புடன் கூடிய ⟪त्रिष्टुभ्⟫ போல தொடர்கிறது:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
@@ -76,13 +76,13 @@ metrik-schema
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::

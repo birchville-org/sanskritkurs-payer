@@ -2,7 +2,7 @@
 title: "Lecție 43"
 subtitle: "Terminațiile personale pentru a doua persoană (⟪मध्यमः⟫ = „persoana de mijloc”)"
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

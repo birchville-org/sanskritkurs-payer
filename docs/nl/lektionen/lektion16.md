@@ -2,7 +2,7 @@
 title: "Les 16"
 subtitle: "Over de sandhi van uitklinkende medeklinkers"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,9 @@ Uitgaande gutturale, retroflexe, dentale en labiale stopklanken (d.w.z. geen nas
 | **voor nasalen** | **Vervanging door de overeenkomstige nasal:** :br **bijv.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-> Uitzondering op bovenstaande regel:
+::: indent
+Uitzondering op bovenstaande regel:
+:::
 
 Uitgaande dentale stopklank (geen nasal):
 

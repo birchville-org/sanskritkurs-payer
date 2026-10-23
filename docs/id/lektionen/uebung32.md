@@ -2,7 +2,7 @@
 title: "Latihan 32"
 uebung_id: 32
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -209,11 +209,11 @@ Determine and translate the following words:
 | ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. jamak m./n. PPP | pada yang ditunjuk |
 | ⟪८३⟫. **⟪अध्यापयति⟫** | 3. tunggal P. Ind. Pres. Kaus. | ia mengajar |
 | ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. jamak P. Ind. Pres. Kaus. | mereka menyuruh membaca |
-:::: media
+:::
+::: media
 ![](/images/uebung051.webp)
 Gbr.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Sumber gambar: [Detail](/en/licenses#uebung051))
-::::
 :::
 ---
 

@@ -2,7 +2,7 @@
 title: "Latihan 57"
 uebung_id: 57
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -40,11 +40,11 @@ Terjemahkan dan tentukan bentuk-bentuk berikut, lalu bentuk bentuk **aorist** ya
 | ⟪२३⟫. | **⟪निन्य⟫** | *:sig[⟪नी⟫]* 1U: 2. Pl. Perf. P. (you have led) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *:sig[⟪कृष्⟫]* 1P: 3. Pl. Ind. Präs. P. (they draw) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *:sig[⟪प्रच्छ्⟫]* 6P: 3. Pl. Impf. P. Kaus. (they caused to ask) | **⟪अपप्रच्छन्⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Image source: [Details](/en/licenses#uebung090))
-::::
 :::
 ---
 

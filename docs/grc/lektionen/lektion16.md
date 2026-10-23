@@ -2,7 +2,7 @@
 title: "Μάθημα 16"
 subtitle: "Περὶ τῆς ἁρμογῆς τελικῶν σύμφωνων"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

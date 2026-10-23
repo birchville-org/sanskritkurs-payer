@@ -2,7 +2,7 @@
 title: Lektion 23
 subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -14,28 +14,28 @@ status: stable
 ::: grammar-box
 **Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
 
 **Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+"Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
 
 **Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
 
 **Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
 
 **Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
 
 **Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
 
 **Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
 
@@ -43,13 +43,13 @@ status: stable
 
 z.B.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
 
 **In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".**
 
 **Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
 :::
 ## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
 

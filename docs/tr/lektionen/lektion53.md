@@ -485,7 +485,9 @@ Resim: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 :::
 Ayrıca bakınız:
 
-> **Payer, Alois (1944–):** Sanskrit metinlerinin tefsirine giriş : El yazısı. -- Bölüm 8: Asıl tefsir, Kısım II: Senkronik anlamlandırma ile ilgili tekil sorunlara. -- Ek B: Sanskrit metinlerinin metriğine dair. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Sanskrit metinlerinin tefsirine giriş : El yazısı. -- Bölüm 8: Asıl tefsir, Kısım II: Senkronik anlamlandırma ile ilgili tekil sorunlara. -- Ek B: Sanskrit metinlerinin metriğine dair. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Ölçünün belirlenmesinin önemi
 
@@ -560,10 +562,10 @@ Metrik analizde şu anlama gelir:
 :::
 ⟪लघु⟫ ve ⟪गुरु⟫ dağılımı:
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Epik Şlokası (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ Epiklerde (⟪महाभारत⟫, ⟪रामायण⟫) ve sayısız b
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Bir ⟪पाद⟫'in ikinci ve üçüncü heceleri aynı anda ⟪लघु⟫ olmamalıdır. b ve d'de 2-4. heceler ¯ ˘ ¯ olamaz.
@@ -601,19 +603,19 @@ Bir ⟪पाद⟫'in ikinci ve üçüncü heceleri aynı anda ⟪लघु⟫ 
 **Yan Şemalar (⟪विपुला⟫) a ve c için:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **Tüm Śloka formlarında ana kesim, 2. ⟪पाद⟫ :nın sonunda yer alır; burada ya kelime sonu vardır veya (uzun bileşiklerde) bir kompozisyon parçasının sonu bulunur.**
@@ -622,7 +624,7 @@ Bir ⟪पाद⟫'in ikinci ve üçüncü heceleri aynı anda ⟪लघु⟫ 
 ::: grammar-box
 **Şimdiye kadar öğrenilen tüm şiirler arasında Ślokaları belirleyin. Bu şiirlere ilişkin olarak metrik şemayı yazılı olarak hazırlayın. Olası düzensizlikleri veya Vipulā formlarını belirtin.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

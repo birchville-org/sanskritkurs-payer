@@ -2,7 +2,7 @@
 title: "تمرین ۱۷"
 uebung_id: 17
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

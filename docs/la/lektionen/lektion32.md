@@ -70,7 +70,7 @@ Exempla:
 :::
 ## 32.4. Exemplaria formationis imperfecti
 
-::: important
+::: warning-box
 **Ut demonstrationem formationum verborum exhibeamus, hic quoque formae Ātmanepadae ad radices Parasmaipadae formantur! Hae artificiales formae inter \< \> posita sunt.**
 :::
 ### 32.4.1. Classes thematicae praesentis
@@ -603,7 +603,7 @@ Traducere et determinare sequentes formas verborum:
 
 ## 32.9. Exercitium translationis
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

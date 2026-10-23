@@ -2,11 +2,12 @@
 title: "Lesing 23"
 subtitle: "Die Infinitief (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
+---
 
----# Les 23
+# Les 23
 
 ## 23.1. Die infinitief (⟪तुमुन्⟫)
 
@@ -236,4 +237,5 @@ C) Gee die stamvorme (d.w.s. teenwoordige tydklas, modus, 3de persoon enkelvoud 
 ⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 
 ⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
+
 

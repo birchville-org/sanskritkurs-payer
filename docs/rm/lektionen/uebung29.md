@@ -2,7 +2,7 @@
 title: "Esercitaziun 29"
 uebung_id: 29
 category: "Esercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,8 +27,10 @@ Ignoranza signifitgescha ch'ins vespa il transitoric, il impur, il dolent ed il 
 
 Davant in regim excessiv (daṇḍa) davan las creatiras tremblar. In regim lax è disprezzà. In regim exactamain correct è venerà. In regim guidà cun sagesseza promova tar ils sutdats dretg, profit e plaivorezza. In regim mal guidà perquai da plaivorezza ed odi u disprezzà arrabbescha era vegls che vivan retirads en la natira ed ascetas viagiants, per betg dir ils patris da famiglia. In regim betg exerceà provochescha in cumpurtament sco peschs (mātsyanayāya). Perquai che sche nagina persuna n'è preschenta che mantenescha il regim, devora il pli ferm il pli debel. Sche il pli debel è protegì dal detentur dal regim, crescha el.
 
-> Il mund cun ses quatter stans ed stadi da vita  
-> è protegì dal re per il regim:  
-> Allegrà davart l'activitad suenter ses dretg ed usanza  
-> mova ella sin ses propis curs.
+::: indent
+Il mund cun ses quatter stans ed stadi da vita
+è protegì dal re per il regim:
+Allegrà davart l'activitad suenter ses dretg ed usanza
+mova ella sin ses propis curs.
 
+:::

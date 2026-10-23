@@ -2,7 +2,7 @@
 title: "Lekce 4"
 subtitle: "Tázací a ukazovací zájmena v nominativu"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Pomocí těchto zájmen se tvoří např. následující otázkové formule:
 :::
 Příklad jiných otázek:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpověď: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (V nominativním souvětí lze předmět např. umístit na začátek, aby se zdůraznilo navázání na otázku.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpověď: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (V nominativním souvětí lze předmět např. umístit na začátek, aby se zdůraznilo navázání na otázku.)
+:::
 
 POZNÁMKA: Odpovědi, které můžete na takové otázky dát se svými dosavadními znalostmi sanskrtu, samozřejmě ještě neodpovídají ve všech ohledech idiomaticky dobrému sanskrtu.
 

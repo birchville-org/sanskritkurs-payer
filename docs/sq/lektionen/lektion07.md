@@ -2,7 +2,7 @@
 title: "Mësimi 7"
 subtitle: "Fjalitja me folje dhe objekt të drejtë"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Mësimi 7
 
 
-::: center
+::: verse-box
 **Thënja e javës**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -27,7 +27,7 @@ status: stable
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
-> Drejtësia fiton, jo padrejtësia,
+Drejtësia fiton, jo padrejtësia,
 E vërteta fiton, jo gënjeshtja,
 Durimi fiton, jo zemërimi,
 Zoti fiton, jo demoni.
@@ -39,7 +39,9 @@ Zoti fiton, jo demoni.
 ::: grammar-box
 **Skema:**
 **(Agjenti = kartṛ mashk. = ⟪कर्तृ⟫) – objekti i drejtpërdrejtë (karman neut. = ⟪कर्मन्⟫) – folja**
+:::
 
+::: indent
 p.sh.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma ha (ngul) një frut."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahmani nderon një zot me një flijim (për dikë tjetër)."

@@ -2,7 +2,7 @@
 title: "ለክፍል 17"
 subtitle: "ሁለተኛ የገቢ ምድብ (⟪अदादि⟫ = ⟪अद्⟫ ወዘተ)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

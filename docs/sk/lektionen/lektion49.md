@@ -2,7 +2,7 @@
 title: "Lekcia 49"
 subtitle: "Tvorba imperatívu (⟪लोट्⟫) athematických kmeňov prítomného času (pokračovanie)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

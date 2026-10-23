@@ -2,7 +2,7 @@
 title: "Lekcja 13"
 subtitle: "PPP na -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Zapoznaj się z następującymi słowami:
 **eva** ⟪एव⟫ : podkreśla poprzednie słowo
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Duchowy, boski.'
-\>
-> W najstarszych częściach Ṛgvedy termin ten jest używany w odniesieniu do najwyższego ducha i jest identyczny z Ahurą u Zoroastryjczyków. W znaczeniu 'bóg' był stosowany do kilku głównych bóstw, takich jak Indra, Agni i Waruna. Później nabrał całkowicie przeciwnego znaczenia i zaczął oznaczać, jak obecnie, demona lub wroga bogów.
-\>
-> Słowo to występuje w tym znaczeniu w późniejszych częściach Ṛgvedy, szczególnie w ostatniej księdze, a także w Atharwavedzie. Brāhmaṇy nadają mu to samo znaczenie i zapisują wiele starć między Asurami a bogami. Zgodnie z Taittirīya Brāhmaṇa, oddech Prajapati (asu) stał się żywy i "tym oddechem stworzyłem mnie jako Asurów." W innej części tego samego dzieła mówi się, że Prajāpati "zaciążał. Stworzył Asurów ze swojego brzucha." Śatapatha Brāhmaṇa zgadza się z poprzednim stwierdzeniem i twierdzi, że "stworzył Asurów ze swojego dolnego oddechu." Taittirīya Āraṇyka przedstawia Prajāpati jako twórcę bogów, ludzi, ojców, Gandharwów i Apsarases z wody, podczas gdy Asury, Rakṣasowie i piśācy wyłonili się z rozlanych kropli. Stwierdzenie Manu głosi, że zostali stworzeni przez Prajāpatis.
-\>
-> Zgodnie z Viṣṇu Purāṇa, zostali wyprodukowani z bioder Bramy (prajāpati). Relacja Vāyu Purāṇa brzmi: "Asury zostały po raz pierwszy wyprodukowane jako synowie z jego (Prajāpati's) bioder. *Asu* jest deklarowane przez Brāhmaṇa jako oznaczające oddech. Z niego powstały te istoty; stąd są Asurami." Słowo to od dawna jest używane jako ogólne określenie wrogów bogów, obejmujące Daityas i Danavas oraz innych potomków Kaśyapy, ale nie obejmujące Rakṣasów pochodzących od Pulastyi.
-\>
-> W tym znaczeniu znaleziono dla niego inne pochodzenie: źródłem nie jest już asu, 'oddech,' ale początkowe *a* jest brane jako negatywny przedrostek, a *asura* oznacza 'nie bóg;' stąd, według niektórych, powstało słowo *sura,* powszechnie używane dla 'boga.'"
-\>
-> [Źródło: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duchowy, boski.'
+
+W najstarszych częściach Ṛgvedy termin ten jest używany w odniesieniu do najwyższego ducha i jest identyczny z Ahurą u Zoroastryjczyków. W znaczeniu 'bóg' był stosowany do kilku głównych bóstw, takich jak Indra, Agni i Waruna. Później nabrał całkowicie przeciwnego znaczenia i zaczął oznaczać, jak obecnie, demona lub wroga bogów.
+
+Słowo to występuje w tym znaczeniu w późniejszych częściach Ṛgvedy, szczególnie w ostatniej księdze, a także w Atharwavedzie. Brāhmaṇy nadają mu to samo znaczenie i zapisują wiele starć między Asurami a bogami. Zgodnie z Taittirīya Brāhmaṇa, oddech Prajapati (asu) stał się żywy i "tym oddechem stworzyłem mnie jako Asurów." W innej części tego samego dzieła mówi się, że Prajāpati "zaciążał. Stworzył Asurów ze swojego brzucha." Śatapatha Brāhmaṇa zgadza się z poprzednim stwierdzeniem i twierdzi, że "stworzył Asurów ze swojego dolnego oddechu." Taittirīya Āraṇyka przedstawia Prajāpati jako twórcę bogów, ludzi, ojców, Gandharwów i Apsarases z wody, podczas gdy Asury, Rakṣasowie i piśācy wyłonili się z rozlanych kropli. Stwierdzenie Manu głosi, że zostali stworzeni przez Prajāpatis.
+
+Zgodnie z Viṣṇu Purāṇa, zostali wyprodukowani z bioder Bramy (prajāpati). Relacja Vāyu Purāṇa brzmi: "Asury zostały po raz pierwszy wyprodukowane jako synowie z jego (Prajāpati's) bioder. *Asu* jest deklarowane przez Brāhmaṇa jako oznaczające oddech. Z niego powstały te istoty; stąd są Asurami." Słowo to od dawna jest używane jako ogólne określenie wrogów bogów, obejmujące Daityas i Danavas oraz innych potomków Kaśyapy, ale nie obejmujące Rakṣasów pochodzących od Pulastyi.
+
+W tym znaczeniu znaleziono dla niego inne pochodzenie: źródłem nie jest już asu, 'oddech,' ale początkowe *a* jest brane jako negatywny przedrostek, a *asura* oznacza 'nie bóg;' stąd, według niektórych, powstało słowo *sura,* powszechnie używane dla 'boga.'"
+
+[Źródło: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

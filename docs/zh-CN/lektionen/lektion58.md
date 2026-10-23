@@ -2,7 +2,7 @@
 title: "第58课"
 subtitle: "双数（⟪द्विवचनम्⟫）的主要词尾"
 lesson_id: 58
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

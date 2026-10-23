@@ -2,7 +2,7 @@
 title: "Вправа 42"
 uebung_id: 42
 category: "Вправа"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

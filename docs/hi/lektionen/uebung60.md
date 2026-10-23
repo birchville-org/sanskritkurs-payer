@@ -2,7 +2,7 @@
 title: "अभ्यास ६०"
 uebung_id: 60
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

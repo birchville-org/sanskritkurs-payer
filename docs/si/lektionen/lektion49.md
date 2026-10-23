@@ -2,7 +2,7 @@
 title: "පාඩම 49"
 subtitle: "අකාරක වර්තමාන පදස්ථාපිතවල අණාර්ථකයේ නිර්මාණය (⟪लोट्⟫) (ඉදිරියට)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

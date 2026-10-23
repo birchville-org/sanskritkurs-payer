@@ -2,7 +2,7 @@
 title: "Lekcia 55"
 subtitle: "Aorist na -a (Aorist s tématickým vokálom)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

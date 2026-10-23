@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫：首陀羅（服務階層）。
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**四種姓 (varṇa)**
+
 根據古典理論（例如《摩奴法典》I, 88-91），職責分配如下：
 
 **婆羅門**
@@ -463,8 +465,6 @@ c) 透過對政治或神權統治力量的**佔有**作為壟斷（政治或神�
 ::: note-box
 在印度，人們認為真實的言語具有魔力；甚至整個宇宙秩序都是透過真理之言而維持與創生的。關於這一重要觀念，請參見以下基礎著作：
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由 Ludwig Alsdorf 整理出版於遺稿中。- Göttingen : Vandenhoeck & Ruprecht. -- 第二卷：Varuna 與 Ṛta。-- 1959. -- XXIII 頁，第 340 - 764 頁
 :::
 
@@ -496,7 +496,7 @@ Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由 Ludwig Al
 **prach** 第六類動詞現在時（pṛcchati！）⟪प्रच्छ् पृच्छति⟫：問（某人：對格；關於某事：對格）
 **saha** ⟪सह⟫：與……一起，共同（在「與……戰鬥」等情況下亦適用）（後置詞接工具格）
 
-::: literatur-box
+::: note-box
 呂德斯，海因里希（1869–1943）：《伐樓那》/ 海因里希·呂德斯。由路德維希·阿爾斯多夫整理出版於遺稿集。- 哥廷根：范登霍普與魯普雷希特出版社。-- 第二卷：《伐樓那與利塔》。-- 1959年出版。-- XXIII頁，第340 - 764頁
 :::
 
@@ -528,7 +528,7 @@ Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由 Ludwig Al
 **prach** 第六類動詞現在時（pṛcchati！）⟪प्रच्छ् पृच्छति⟫：問（某人：對格；關於某事：對格）
 **saha** ⟪सह⟫：與……一起，共同（在「與……戰鬥」等情況下亦適用）（後置詞接工具格）
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf從遺稿編輯出版。-哥廷根：Vandenhoeck & Ruprecht出版社。--第2卷：Varuna與Ṛta。--1959年出版。--共XXIII頁，第340-764頁
 :::
 ::: media
@@ -729,17 +729,19 @@ Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf�
 **eva** ⟪एव⟫ : 強調前面的詞
 **asura** m. ⟪असुर⟫ : 惡魔
 
-> **ASURA。**「靈性的，神聖的。」
->
-> 在《梨俱吠陀》最古老的部分中，這個詞被用來指最高精神，與祆教徒的阿胡拉（Ahura）相同。在「神」的意思上，它被應用於幾位主要的神祇，如因陀羅（Indra）、阿耆尼（Agni）和伐樓拿（Varuṇa）。後來它獲得了完全相反的意思，並開始像現在一樣表示惡魔或神的敵人。
->
-> 這個詞在《梨俱吠陀》的較晚部分，特別是最後一卷中，以及在《阿闥婆吠陀》中，都找到了這種意義。《梵書》賦予它相同的意義，並記錄了阿修羅與神之間的許多爭鬥。根據《泰帝利耶梵書》，普沙帕蒂的呼吸（*asu*）變得有生命，「憑藉那呼吸他創造了我阿修羅。」在同一作品的另一部分中說，普沙帕蒂「懷孕了。他從他的腹部創造了阿修羅。」《百道梵書》與前一種說法一致，並指出「他從他的下呼吸創造了阿修羅。」《泰帝利耶森林書》表示普沙帕蒂從水中創造了神、人、父親、乾闥婆和天女，而阿修羅、夜叉和食人鬼則從灑出的水滴中產生。摩奴的說法是他們是由普沙帕蒂創造的。
->
-> 根據《毗濕奴往世書》，他們是由梵天（普沙帕蒂）的腹股溝產生的。《風神往世書》的記載是：「阿修羅首先作為他的（普沙帕蒂）腹股溝之子產生。*Asu* 被《梵書》宣稱為呼吸的意思。從它這些生物產生了；因此他們是阿修羅。」這個詞長期以來被用作神的敵人的總稱，包括戴提亞人和達那婆人以及迦葉波的其他後裔，但不包括從普拉斯蒂耶下來的夜叉。
->
-> 在這種意義下，為它找到了不同的詞源：來源不再是 *asu*「呼吸」，而是初始的 *a* 被視為否定前綴，而 *asura* 意味著「不是神」；因此，根據某些人的說法，產生了詞 *sura*，通常用於「神」。」
->
-> [來源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA。**「靈性的，神聖的。」
+
+在《梨俱吠陀》最古老的部分中，這個詞被用來指最高精神，與祆教徒的阿胡拉（Ahura）相同。在「神」的意思上，它被應用於幾位主要的神祇，如因陀羅（Indra）、阿耆尼（Agni）和伐樓拿（Varuṇa）。後來它獲得了完全相反的意思，並開始像現在一樣表示惡魔或神的敵人。
+
+這個詞在《梨俱吠陀》的較晚部分，特別是最後一卷中，以及在《阿闥婆吠陀》中，都找到了這種意義。《梵書》賦予它相同的意義，並記錄了阿修羅與神之間的許多爭鬥。根據《泰帝利耶梵書》，普沙帕蒂的呼吸（*asu*）變得有生命，「憑藉那呼吸他創造了我阿修羅。」在同一作品的另一部分中說，普沙帕蒂「懷孕了。他從他的腹部創造了阿修羅。」《百道梵書》與前一種說法一致，並指出「他從他的下呼吸創造了阿修羅。」《泰帝利耶森林書》表示普沙帕蒂從水中創造了神、人、父親、乾闥婆和天女，而阿修羅、夜叉和食人鬼則從灑出的水滴中產生。摩奴的說法是他們是由普沙帕蒂創造的。
+
+根據《毗濕奴往世書》，他們是由梵天（普沙帕蒂）的腹股溝產生的。《風神往世書》的記載是：「阿修羅首先作為他的（普沙帕蒂）腹股溝之子產生。*Asu* 被《梵書》宣稱為呼吸的意思。從它這些生物產生了；因此他們是阿修羅。」這個詞長期以來被用作神的敵人的總稱，包括戴提亞人和達那婆人以及迦葉波的其他後裔，但不包括從普拉斯蒂耶下來的夜叉。
+
+在這種意義下，為它找到了不同的詞源：來源不再是 *asu*「呼吸」，而是初始的 *a* 被視為否定前綴，而 *asura* 意味著「不是神」；因此，根據某些人的說法，產生了詞 *sura*，通常用於「神」。」
+
+[來源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3789,7 +3791,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 :::
 關於 ⟪राहु⟫ 和 ⟪केतु⟫，請參見：
 
-> **Payer, Alois (1944–)：**《法論》：導論與概覽。 -- 第十節： sacraments 及過渡儀式（samskara）。 -- 附錄C：羅睺與計都，隱形的遊星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–)：**《法論》：導論與概覽。 -- 第十節： sacraments 及過渡儀式（samskara）。 -- 附錄C：羅睺與計都，隱形的遊星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 圖：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4405,7 +4409,9 @@ Karanji 湖 = ಕಾರಂಜಿ ಕೆರೆ
 
 ⟪अजिन⟫ n.：羚羊皮，特指黑羚（黑斑羚：_Antilope cervicapra_ L.）的皮。原產於整個印度次大陸，從旁遮普和信德到孟加拉，從尼泊爾到科摩林角（Cape Comorin）（泰米爾語：கன்னியாகுமரி）。參見：
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

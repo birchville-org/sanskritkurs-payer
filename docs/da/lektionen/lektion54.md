@@ -2,7 +2,7 @@
 title: "Lektion 54"
 subtitle: "Forord"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Fig.: ⟪अयुयुत्सुरर्जुनः भगवद्गी�
 Skema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Skema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Kvantiteten af de fire sidste stavelser er altså den samme i begge skemaer.
 
 ⟪जगती⟫-grundform: som ved ⟪त्रिष्टुभ्⟫, men 12-stavet. De sidste 5 stavelser i hvert pada fremhæver følgende kvantiteter:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Derudover findes den såkaldte typisk overflødige ⟪त्रिष्टुभ्⟫ med en femstavet startdel, der fortsætter som en ⟪त्रिष्टुभ्⟫ med en firestavet startdel:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 I senere tid bliver formerne for ⟪त्रिष्टुभ्⟫ fastlagt efter et strengt skema af længder og kortigheder, hvor caesuraen ikke længere spiller en rolle. De vigtigste senere former er:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

@@ -2,7 +2,7 @@
 title: "Latihan 40"
 uebung_id: 40
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -100,11 +100,11 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Image source: [Details](/en/licenses#uebung065))
-::::
 :::
 ---
 
@@ -149,9 +149,9 @@ Determine and translate the following word forms:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | Saya melihat |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | ia berkata |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | ia memukul |
-:::: media
+:::
+::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Sumber gambar: [Details](/en/licenses#uebung066))
-::::
 :::

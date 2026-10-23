@@ -2,7 +2,7 @@
 title: "Exercițiul 30"
 uebung_id: 30
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -171,9 +171,9 @@ Determinați și traduceți următoarele forme de cuvinte:
 | ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | ei |
 | ⟪३९⟫. ⟪तस्मिन्⟫ | Loc. sg. m./n. | în acesta, aici |
 | ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | celui existent / bunului |
-:::: media
+:::
+::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung047))
-::::
 :::

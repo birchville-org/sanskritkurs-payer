@@ -2,7 +2,7 @@
 title: "Lekcia 43"
 subtitle: 'Osobné koncovky druhej osoby (⟪मध्यमः⟫ = \"stredná <osoba>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

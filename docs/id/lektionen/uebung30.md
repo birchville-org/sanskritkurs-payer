@@ -2,7 +2,7 @@
 title: "Latihan 30"
 uebung_id: 30
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -179,13 +179,13 @@ Determine and translate the following word forms:
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | di dalamnya, dalam ini |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | kepada Keberadaan / Kebajikan |
 
-:::: media
+:::
+::: media
 
 ![](/images/uebung047.webp)
 
 Fig.: ⟪भक्त्याः⟫
 (Sumber gambar: [Rincian](/en/licenses#uebung047))
 
-::::
-
 :::
+

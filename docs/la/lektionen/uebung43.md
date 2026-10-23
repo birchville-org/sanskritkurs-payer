@@ -2,7 +2,7 @@
 title: "Exercitatio 43"
 uebung_id: 43
 category: "Exercitatio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

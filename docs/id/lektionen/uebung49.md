@@ -2,7 +2,7 @@
 title: "Latihan 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Pertanyaan Raja ⟪शूद्रक⟫ dari ⟪विदिशा⟫ kepada Bu
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Sang Raja berkata: "Biarkanlah semua itu! Penuhi rasa ingin tahu kami! Tuan, ceritakan kepada kami dari awal: Di negeri mana Anda dilahirkan? Siapa yang memberi nama kepada Anda? Siapakah ibu Anda? Bagaimana Anda memperoleh Weda? Bagaimana Anda menjadi akrab dengan karya-karya pengajaran? Dari mana Anda mendapatkan seni-seni? Apakah Anda dapat mengingat kelahiran sebelumnya atau memenuhi keinginan? Atau, dengan mengenakan pakaian seekor burung, apakah Anda bersembunyi di tempat persembunyian? Atau di mana Anda tinggal sebelumnya? Atau berapa usia Anda? Bagaimana Anda tertangkap dalam sangkar? Dan bagaimana Anda masuk ke tangan para Cāṇḍāla? Atau bagaimana Anda datang ke sini?"
-\>
-> Namun, Vaiśampāyana, yang telah ditanya oleh Penguasa Bumi dengan rasa ingin tahu yang muncul secara spontan dan dengan sangat hormat, berpikir sejenak lalu menjawab dengan penuh penghormatan: "Raja, ini adalah cerita yang panjang. Jika Anda tertarik, berikanlah telinga Anda kepada saya!"
+::: indent
+Sang Raja berkata: "Biarkanlah semua itu! Penuhi rasa ingin tahu kami! Tuan, ceritakan kepada kami dari awal: Di negeri mana Anda dilahirkan? Siapa yang memberi nama kepada Anda? Siapakah ibu Anda? Bagaimana Anda memperoleh Weda? Bagaimana Anda menjadi akrab dengan karya-karya pengajaran? Dari mana Anda mendapatkan seni-seni? Apakah Anda dapat mengingat kelahiran sebelumnya atau memenuhi keinginan? Atau, dengan mengenakan pakaian seekor burung, apakah Anda bersembunyi di tempat persembunyian? Atau di mana Anda tinggal sebelumnya? Atau berapa usia Anda? Bagaimana Anda tertangkap dalam sangkar? Dan bagaimana Anda masuk ke tangan para Cāṇḍāla? Atau bagaimana Anda datang ke sini?"
+
+Namun, Vaiśampāyana, yang telah ditanya oleh Penguasa Bumi dengan rasa ingin tahu yang muncul secara spontan dan dengan sangat hormat, berpikir sejenak lalu menjawab dengan penuh penghormatan: "Raja, ini adalah cerita yang panjang. Jika Anda tertarik, berikanlah telinga Anda kepada saya!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

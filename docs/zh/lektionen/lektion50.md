@@ -2,7 +2,7 @@
 title: "第50課"
 subtitle: "名詞構造：規則性比較"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

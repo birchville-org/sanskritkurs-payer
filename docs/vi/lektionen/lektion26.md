@@ -2,7 +2,7 @@
 title: "Bài 26"
 subtitle: "Quy luật Cerebralisations cho -s- ở giữa từ"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

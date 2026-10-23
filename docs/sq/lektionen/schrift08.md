@@ -1,3 +1,4 @@
+
 # Ushtrim shkrimi 8
 
 Shenja zanore për fillimin e fjalës, nëse fjala nuk është e lidhur me një fjalë të mëparshme në shkrim:

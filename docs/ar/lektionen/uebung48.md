@@ -2,7 +2,7 @@
 title: "الممارسة ٤٨"
 uebung_id: 48
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -141,11 +141,11 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung084.webp)
 م: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung084))
-:::: media
+:::
+::: media
 ![](/images/uebung077.webp)
 م: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung077))
 
-::::
 :::
 

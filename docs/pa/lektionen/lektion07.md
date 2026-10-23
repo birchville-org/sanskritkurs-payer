@@ -2,7 +2,7 @@
 title: "ਪਾਠ 7"
 subtitle: "ਸਿੱਧੇ ਕਰਤਾਰ ਵਾਲਾ ਕਿਰਿਆ ਵਾਕ"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # ਪਾਠ 7
 
 
-::: center
+::: verse-box
 **ਹਫ਼ਤਾਵਾਰੀ ਵਚਨ**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **ਸਕੀਮ:**
 **(ਕਰਤਾ = kartṛ m. = ⟪कर्तृ⟫) – ਪ੍ਰਤੱਖ ਕਾਰਕ (karman n. = ⟪कर्मन्⟫) – ਕਿਰਿਆ**
+:::
 
+::: indent
 ਉਦਾਹਰਨ ਵਜੋਂ
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "ਰਾਮ ਇੱਕ ਫਲ ਖਾਂਦਾ ਹੈ।"
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "ਬ੍ਰਾਹਮਣ ਇੱਕ ਦੇਵਤਾ ਦੀ ਯਜ਼ਨ ਕਰਦਾ ਹੈ (ਕਿਸੇ ਹੋਰ ਲਈ)।"

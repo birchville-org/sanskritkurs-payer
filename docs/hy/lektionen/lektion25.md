@@ -2,7 +2,7 @@
 title: "Դաս 25"
 subtitle: 'Աբլատիվի ձևավորում (⟪पञ्चमी⟫ = \"հինգերորդ դեպքի վերջավորություն\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

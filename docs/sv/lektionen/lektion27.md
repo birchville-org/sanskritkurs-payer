@@ -2,7 +2,7 @@
 title: "Lektion 27"
 subtitle: 'Användning av lokativ (⟪सप्तमी⟫ f. = "sjunde kasusändelse")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. The Locative (⟪सप्तमी⟫) answers the question "Where?" by indicating the space in (at, on, near) which the agent (⟪कर्ता⟫) or object of an action is located, or where the action itself takes place.**
 
-> ⟪नगरे वसति⟫ = "He lives in the city"
+⟪नगरे वसति⟫ = "He lives in the city"
 
 :::
 
@@ -44,19 +44,19 @@ Jaipur, 1875.
 
 **2. The Locative answers the question "When?" by indicating the point in time or external circumstances:**
 
-> ⟪तस्मिन्काले⟫ = "at that time, at this time"
+⟪तस्मिन्काले⟫ = "at that time, at this time"
 
 **Also belonging here is the so-called Locativus Absolutus:**
 
 **If an action or state of a person or thing determines the time at which, or the circumstances under which, ANOTHER person or thing performs an action or is in a specific state, then the word designating the first person or thing, together with the word further specifying it (which is often a participle), appears in the Locative case (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "while time passes thus..."
-\>
-> ⟪तस्मिन्गते⟫ = "when he had gone..."
+⟪एवं गच्छति काले⟫ = "while time passes thus..."
+
+⟪तस्मिन्गते⟫ = "when he had gone..."
 
 **Sometimes the agent (⟪कर्ता⟫) is not explicitly stated:**
 
-> ⟪एवं सति⟫ = "since the matter stands thus"
+⟪एवं सति⟫ = "since the matter stands thus"
 
 **The Locativus Absolutus must be translated according to context as "while" (e.g., Present Participle), "after", "when" (e.g., PPP), "since", "because", "although", "if", etc.**
 
@@ -78,7 +78,7 @@ Rajasthan.
 
 **3. The locative also answers the question "With respect to what?" etc.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "He has love for his son" (literally: "With respect to the son, there is love in him")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "He has love for his son" (literally: "With respect to the son, there is love in him")
 
 :::
 
@@ -96,7 +96,7 @@ Holi.
 
 **4. The locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
 
-> ⟪भू सत्तायाम्⟫ = "the root ⟪भू⟫ in the sense of 'beingness' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "the root ⟪भू⟫ in the sense of 'beingness' (sat-tā)"
 
 :::
 

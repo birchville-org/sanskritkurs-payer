@@ -2,7 +2,7 @@
 title: "Leçon 7"
 subtitle: "La proposition verbale avec objet direct"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Leçon 7
 
 
-::: center
+::: verse-box
 **Proverbe de la semaine**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Dieu triomphe, non l'anti-dieu.
 ::: grammar-box
 **Schéma :**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – objet direct (karman n. = ⟪कर्मन्⟫) – verbe**
+:::
 
+::: indent
 par ex.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : « Rāma mange (avale) un fruit. »
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : « Le Brahmane vénère un dieu par un sacrifice (pour quelqu'un d'autre). »

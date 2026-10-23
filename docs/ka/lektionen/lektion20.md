@@ -2,7 +2,7 @@
 title: "ლექსი 20"
 subtitle: "მფლობითური კომპოზიტები = ⟪बहुव्रीहि⟫ მ."
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

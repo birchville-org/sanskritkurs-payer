@@ -2,7 +2,7 @@
 title: "Lição 58"
 subtitle: "As desinências primárias do dual (⟪द्विवचनम्⟫)"
 lesson_id: 58
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

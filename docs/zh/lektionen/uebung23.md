@@ -2,7 +2,7 @@
 title: "練習23"
 uebung_id: 23
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

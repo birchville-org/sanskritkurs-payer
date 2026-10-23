@@ -2,7 +2,7 @@
 title: "Bài 6"
 subtitle: "Cấu trúc của câu vị ngữ (Chủ ngữ và hình thức động từ)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

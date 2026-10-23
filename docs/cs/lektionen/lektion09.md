@@ -3,8 +3,8 @@ title: "Lekce 9"
 subtitle: "Samāhāradvandva a nominální sufixy -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

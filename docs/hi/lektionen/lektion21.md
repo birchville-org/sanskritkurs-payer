@@ -2,7 +2,7 @@
 title: "पाठ २१​"
 subtitle: "-nt पर अंत होने वाले अन्य वर्तमानकाल के स्टेम्स"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

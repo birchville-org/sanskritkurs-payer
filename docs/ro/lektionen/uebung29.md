@@ -2,7 +2,7 @@
 title: "Exercițiul 29"
 uebung_id: 29
 category: "Exercițiul"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,8 +27,10 @@ Ignoranța înseamnă a considera ceea ce este impermanent, impur, suferință �
 
 Înainte de un guvern prea sever (daṇḍa), ființele trebuie să tremure. Un guvern lax este disprețuit. Un guvern exact și corect este venerat. Un guvern condus cu înțelepciune promovează printre supuși dreptatea, profitul și plăcerea. Un guvern condus prost din cauza plăcerii și urii sau a disprețului îi mânie chiar pe bătrânii retrași în pădure și pe renunțații erranți, cu atât mai mult pe cei de casă. Guvernul neexercitat produce un comportament precum al peștilor (mātsyanayāya). Dacă nu există nimeni care să mențină guvernul, cel puternic îl devorează pe cel slab. Dacă cel slab este protejat de deținătorul guvernului, el prosperă.
 
-> Lumea cu cele patru caste și stadii de viață  
-> Este protejată de rege prin guvern:  
-> Bucuroasă de activitatea conform dreptului și obiceiului propriu  
-> Ea se mișcă pe propriile ei căi.
+::: indent
+Lumea cu cele patru caste și stadii de viață
+Este protejată de rege prin guvern:
+Bucuroasă de activitatea conform dreptului și obiceiului propriu
+Ea se mișcă pe propriile ei căi.
 
+:::

@@ -2,7 +2,7 @@
 title: "Ushtrimi 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -16,14 +16,18 @@ A) Për përsëritjen e deklinimit: Varshi i mëposhtëm përmban të gjitha for
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> Mësimdhënësi im është streha ime,  
-> Unë nderoj mësimdhënësin tim,  
-> Jam bashkë me mësimdhënësin tim,  
+::: indent
+Mësimdhënësi im është streha ime,
+Unë nderoj mësimdhënësin tim,
+Jam bashkë me mësimdhënësin tim,
+:::
 ]nderim mësimdhënësit tim,  
-> Nuk ka asgjë më të lartë se sa mësimdhënësi,  
-> Jam fëmija i mësimdhënësit tim,  
-> Zemra ime është te mësimdhënësi im,  
-> Mësimdhënues, mbrojt më!
+::: indent
+Nuk ka asgjë më të lartë se sa mësimdhënësi,
+Jam fëmija i mësimdhënësit tim,
+Zemra ime është te mësimdhënësi im,
+Mësimdhënues, mbrojt më!
+:::
 
 ---
 
@@ -36,7 +40,9 @@ A) Për përsëritjen e deklinimit: Varshi i mëposhtëm përmban të gjitha for
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> Le të ecësh në rrugën e të mirëve, atë ku kanë shkuar baballarët, atë ku kanë shkuar stërgjyshër. Nëse ecën në këtë rrugë, atëherë nuk do të pësosh dëm.
+::: indent
+Le të ecësh në rrugën e të mirëve, atë ku kanë shkuar baballarët, atë ku kanë shkuar stërgjyshër. Nëse ecën në këtë rrugë, atëherë nuk do të pësosh dëm.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -45,7 +51,9 @@ A) Për përsëritjen e deklinimit: Varshi i mëposhtëm përmban të gjitha for
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Familjet bëhen jo-familje për shkak të martesave të këqija, për shkak të lënies në anë të ritualeve, për shkak të mos-studimit të Vedave dhe për shkak të kalimit mbi brahmanët.
+::: indent
+Familjet bëhen jo-familje për shkak të martesave të këqija, për shkak të lënies në anë të ritualeve, për shkak të mos-studimit të Vedave dhe për shkak të kalimit mbi brahmanët.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -54,7 +62,9 @@ A) Për përsëritjen e deklinimit: Varshi i mëposhtëm përmban të gjitha for
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> Një familje, ku bashkëshorti është gjithmonë i kënaqur me bashkëshorten dhe bashkëshortja është gjithmonë e kënaqur me bashkëshortin, në një të tillë familje është i sigurt lumturia e vazhdueshme.
+::: indent
+Një familje, ku bashkëshorti është gjithmonë i kënaqur me bashkëshorten dhe bashkëshortja është gjithmonë e kënaqur me bashkëshortin, në një të tillë familje është i sigurt lumturia e vazhdueshme.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -75,7 +85,9 @@ Fig.: ⟪संतुष्टो भार्यया भर्ता भर�
 **⟪आदित्याज्जायते वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Le të angazhohet gjithmonë në studimin e Vedave dhe në ritualet për perënditë. Sepse, ai që angazhohet në ritualet për perënditë, e fiton këtë botë nga gjallesat dhe joligjësit. Flijimi, i cili hidhet në zjarr në mënyrë të drejtë, shkon te dielli; nga dielli lind reshja; nga reshja lindi ushqimi; prej tij, krijesat.
+::: indent
+Le të angazhohet gjithmonë në studimin e Vedave dhe në ritualet për perënditë. Sepse, ai që angazhohet në ritualet për perënditë, e fiton këtë botë nga gjallesat dhe joligjësit. Flijimi, i cili hidhet në zjarr në mënyrë të drejtë, shkon te dielli; nga dielli lind reshja; nga reshja lindi ushqimi; prej tij, krijesat.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -89,8 +101,10 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
 **⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Duhet të braktiset vuajtja e ardhshme.  
-> Shkaku i këtij braktisje është lidhja midis shikuesit dhe të dukurit [= vëzhguesit dhe të vëzhguarit].
+::: indent
+Duhet të braktiset vuajtja e ardhshme.
+Shkaku i këtij braktisje është lidhja midis shikuesit dhe të dukurit [= vëzhguesit dhe të vëzhguarit].
+:::
 
 ---
 
@@ -101,7 +115,9 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Mbreti] të mos e përçmojë asgjë, ta dëgjojë mendimin e secilit. Një dijetar e merr vlerën edhe të fjalës së një djaloshi, nëse është domethënëse.
+::: indent
+[Mbreti] të mos e përçmojë asgjë, ta dëgjojë mendimin e secilit. Një dijetar e merr vlerën edhe të fjalës së një djaloshi, nëse është domethënëse.
+:::
 
 ---
 
@@ -112,18 +128,24 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya** quhet i Dvigjitur, ai që jep Upanayanamë nxënësit dhe më pas e mësonte Vedën, ritualet dhe doktrinën sekrete.
+::: indent
+**Ācārya** quhet i Dvigjitur, ai që jep Upanayanamë nxënësit dhe më pas e mësonte Vedën, ritualet dhe doktrinën sekrete.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya** quhet ai që, për të siguruar jetesën e vet, mëson një pjesë nga Veda ose shkencat ndihmëse.
+::: indent
+**Upādhyāya** quhet ai që, për të siguruar jetesën e vet, mëson një pjesë nga Veda ose shkencat ndihmëse.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru** quhet Brahmani që kryen sipas rregullave Niṣekamë dhe ritualet e tjera, duke e bërë atë të lindë nga ushqimi.
+::: indent
+**Guru** quhet Brahmani që kryen sipas rregullave Niṣekamë dhe ritualet e tjera, duke e bërë atë të lindë nga ushqimi.
+:::

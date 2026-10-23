@@ -2,7 +2,7 @@
 title: "Ders 7"
 subtitle: "Doğrudan nesneli yüklem cümlesi"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Ders 7
 
 
-::: center
+::: verse-box
 **Haftanın Sözü**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Tanrı galip gelir, tanrının düşmanı değil.
 ::: grammar-box
 **Şema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – doğrudan nesne (karman n. = ⟪कर्मन्⟫) – fiil**
+:::
 
+::: indent
 örn.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma bir meyve yer (kaut)."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman bir tanrıya (birisi için) bir sunakla tapan eder."

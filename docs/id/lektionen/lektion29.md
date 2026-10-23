@@ -2,7 +2,7 @@
 title: Pelajaran 29
 subtitle: "Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

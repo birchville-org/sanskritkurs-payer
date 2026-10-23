@@ -2,7 +2,7 @@
 title: "Ders 12"
 subtitle: "Geçmiş Zaman Edilgen Ortak (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Bu durumda PPP, nesne ile sayı, hal ve cinsiyette uyum sağlar.
 Bir yardımcı fiil ("olmak") gerekli değildir.
 
 Örnekler:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Aziz tarafından bir cennet elde edildi) = Aziz bir cennet elde etti."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahman tarafından tanrıça bir sunuyla onurlandırıldı) = Brahman tanrıçayı bir sunuyla onurlandırdı."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Aziz tarafından bir cennet elde edildi) = Aziz bir cennet elde etti."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahman tarafından tanrıça bir sunuyla onurlandırıldı) = Brahman tanrıçayı bir sunuyla onurlandırdı."
 :::
 
 ### 12.1.2. İletişimsiz fiiller ve hareket fiilleri için Şema I
@@ -42,7 +42,7 @@ Bir yardımcı fiil ("olmak") gerekli değildir.
 Bu durumda PPP, eden ile sayı, hal ve cinsiyette uyum sağlar. İletişimsiz fiillerde (doğrudan nesnesi olmayan fiiller) ve hareket fiillerinde Partizip Perfekt "Edilgen" aktif anlam taşır.
 
 Örnek:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya kadını şehre gitti."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya kadını şehre gitti."
 :::
 
 ### 12.1.3. II. Şema: Geçişsiz Fiiller ve Hareket Fiilleri İçin
@@ -51,7 +51,7 @@ Bu durumda PPP, eden ile sayı, hal ve cinsiyette uyum sağlar. İletişimsiz fi
 **Eden (kartṛ) Aletlik Çekim (tṛtīyā) -- PPP Yalın Tekil Dişil**
 
 Örnek:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya tarafından (şehre) gidildi) = Kṣatriya (şehre) gitti.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya tarafından (şehre) gidildi) = Kṣatriya (şehre) gitti.“
 
 II. Şema uyarınca yapı, I. Şema'ya göre yapıdan çok daha az yaygındır.
 :::

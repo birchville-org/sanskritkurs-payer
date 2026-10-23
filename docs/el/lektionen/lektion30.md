@@ -2,7 +2,7 @@
 title: "Μάθημα 30"
 subtitle: 'Η 9η κλάση του ενεστώτα (⟪क्र्यादि⟫ = \"⟪क्री⟫ κ.ο.κ.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

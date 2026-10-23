@@ -2,7 +2,7 @@
 title: "பாடம் 52"
 subtitle: "i மற்றும் -u ஆகியவற்றால் முடியும் பெயர்ச்சொற்களின் நடுவின"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

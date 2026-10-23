@@ -2,7 +2,7 @@
 title: "Učenje 4"
 subtitle: "Vprašalne in kazalne zaimke v nominativu"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ S pomočjo teh zaimkov se tvorijo npr. naslednje vprašalne oblike:
 :::
 Primer drugih vprašanj:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odgovor: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Pri nominalnem stavku lahko na primer postavimo subjekt na začetek, da poudarimo povezavo s vprašanjem.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odgovor: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Pri nominalnem stavku lahko na primer postavimo subjekt na začetek, da poudarimo povezavo s vprašanjem.)
+:::
 
 OPOMBA: Odgovori, ki jih lahko na takšna vprašanja podate s svojimi dosedanjimi znanji sanskrt, se seveda še ne ujemajo povsod s stilsko dobro sanskritščino.
 

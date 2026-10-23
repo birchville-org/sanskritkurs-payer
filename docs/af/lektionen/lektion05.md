@@ -2,7 +2,7 @@
 title: Lektion 5
 subtitle: "Grondbeginsels van nominale samestellings (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -62,16 +62,20 @@ Die voorste lede van komposita (nie net Dvandvas nie) het gewoonlik die vorm van
 Voorbeelde van Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmane, Kṣatriyas, Vaiśyas en Śūdras)
-> 
-> of = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> (('n/die) Brahmaan, Kṣatriya, Vaiśya en Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(Brahmane, Kṣatriyas, Vaiśyas en Śūdras)
+
+of = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+(('n/die) Brahmaan, Kṣatriya, Vaiśya en Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Digters en leermeesters [Meerv.])
-> (Opmerking: "'n Digter en 'n leermeester" moet in die dualis wees!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(Digters en leermeesters [Meerv.])
+(Opmerking: "'n Digter en 'n leermeester" moet in die dualis wees!)
+:::
 
 **Vir die volgorde van die lede in 'n Dvandva geld onder andere die volgende reëls:**
 - Die benaming van die verskillende stande (**varṇa**) moet volgens hulle hiërargie (hoogste eerste) georden word.

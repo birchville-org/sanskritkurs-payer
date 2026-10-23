@@ -2,7 +2,7 @@
 title: "Cvičenie 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Neviedomosť znamená, že sa nestále, nečisté, bolestivé a relativné pova�
 
 Pred prísnou vládou (daṇḍa) by sa bytosti mali triasť strachom. Slabá vláda je opovrhovaná. Správne vyvážená vláda je uctievaná. Múdro vedená vláda podporuje medzi poddanými spravodlivosť, zisk a radosť. Zle vedená vláda zo žiadosti alebo nenávisti, či opovrhovania, rozhnevá aj starcov a asketických pútnikov žijúcich v lesoch, natož domácnosti. Nevykonaná vláda vedie k správaniu podľa zákona veľkých rýb (mātsyanayāya). Ak nie je nikto, kto by vládnu moc udržoval v chode, silnejší pohlcuje slabšieho. Ak je slabý chránený vládcom, rozvíja sa.
 
-> Svet s jeho štyrmi stavmi a životnými etapami  
-> Je kráľom chránený prostredníctvom vlády:  
-> Radosť z činnosti podľa vlastného práva a vlastných zvykov  
-> Pohybuje sa na svojich vlastných dráhach.
+::: indent
+Svet s jeho štyrmi stavmi a životnými etapami
+Je kráľom chránený prostredníctvom vlády:
+Radosť z činnosti podľa vlastného práva a vlastných zvykov
+Pohybuje sa na svojich vlastných dráhach.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

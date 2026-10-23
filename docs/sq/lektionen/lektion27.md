@@ -2,7 +2,7 @@
 title: "Mësimi 27"
 subtitle: 'Përdorimi i Lokativit (⟪सप्तमी⟫ f. = "njëmbëdhjetë përfundim rasti")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokativi (⟪सप्तमी⟫) përgjigjet në pyetjen "Ku?" duke treguar hapësirën, ku (në, në, mbi, pranë) ndodhet agjenti (⟪कर्ता⟫) ose objekti i një veprimi, ose ku zhvillohet vetë veprimi.**
 
-> ⟪नगरे वसति⟫ = "Ai banon në qytet"
+⟪नगरे वसति⟫ = "Ai banon në qytet"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokativi përgjigjet në pyetjen "Kur?" duke treguar momentin kohor ose rrethanat e jashtme:**
 
-> ⟪तस्मिन्काले⟫ = "atëherë, në atë kohë"
+⟪तस्मिन्काले⟫ = "atëherë, në atë kohë"
 
 **Kjo përfshin edhe atë që quhet Locativus Absolutus:**
 
 **Nëse veprimi ose gjendja e një personi apo sendi përcakton kohën kur - ose rrethanat në të cilat - NJË PERSON TJETËR apo send kryen një veprim ose ndodhet në një gjendje të caktuar, atëherë fjala që tregon personin ose sendin e parë bashkë me fjalën që e specifikon atë (shpesh një participle) vihet në Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "ndërsa koha po kalon..."
-\>
-> ⟪तस्मिन्गते⟫ = "kur ai kishte shkuar..."
+⟪एवं गच्छति काले⟫ = "ndërsa koha po kalon..."
+
+⟪तस्मिन्गते⟫ = "kur ai kishte shkuar..."
 
 **Ndoshta agjenti (⟪कर्ता⟫) nuk përmendet veçmas:**
 
-> ⟪एवं सति⟫ = "pasi gjendja është kështu"
+⟪एवं सति⟫ = "pasi gjendja është kështu"
 
 **Locativus absolutus duhet të përkthehet sipas kontekstit me "ndërsa" (p.sh. participle present), "pas", "kur" (p.sh. PPP), "meqenëse", "sepse", "edhe pse", "nëse" etj.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Lokativi përdoret edhe për pyetjen "N lidhje me çfarë?" etj.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Ai ka dashuri për të birin e tij" (fjalë për fjalë: "Në lidhje me të birin, te ai ka dashuri")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Ai ka dashuri për të birin e tij" (fjalë për fjalë: "Në lidhje me të birin, te ai ka dashuri")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokativi shërben në leksikontë vendase dhe te komentuesit për të treguar kuptimin e një fjale:**
 
-> ⟪भू सत्तायाम्⟫ = "rrënja ⟪भू⟫ në kuptimin 'qenie' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "rrënja ⟪भू⟫ në kuptimin 'qenie' (sat-tā)"
 
 :::
 Më tepër për përdorimin e lokativit më vonë.

@@ -2,7 +2,7 @@
 title: "Lekcia 14"
 subtitle: "Vyjadrenie vzťahu medzi podstatnými menami: genitív (ṣaṣṭhī f. = ⟪षष्टी⟫ = šiesty pád)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Príklady:
 ::: grammar-box
 Normálne poradie slov je:
 
-> **Určujúce slovo v genitíve — bližšie určené podstatné meno v inom páde**
+**Určujúce slovo v genitíve — bližšie určené podstatné meno v inom páde**
 :::
 **Genitív a PPP:**
 
@@ -37,9 +37,9 @@ Pri prídavných menách utvorených z príčastia (PPP) môže genitív namiest
 
 Podľa Pāṇiniho 2.3.67 stojí pri PPP genitív, ak má PPP prítomný význam (pozri vyššie), inštrumentál, ak má PPP minulosťný význam:
 
-> ⟪रामस्येष्टं फलम्⟫ "Plod, ktorý Rāma žiada = Plod, ktorý Rāma práve želá"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Plod, ktorý Rāma žiadal"
+⟪रामस्येष्टं फलम्⟫ "Plod, ktorý Rāma žiada = Plod, ktorý Rāma práve želá"
+
+⟪रामेणेष्टं फलम्⟫ "Plod, ktorý Rāma žiadal"
 
 Samozrejme stojí pri PPP Neutrum Singular, ktoré sa používa ako verbálne abstraktum – teda ako podstatné meno – genitív.
 :::
@@ -56,7 +56,7 @@ Po konsonante sú pravidelné genitívne koncovky:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalný kmeň | Slabý kmeň | Genitív Singular | Genitív Plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Po konsonante sú pravidelné genitívne koncovky:
 
 Genitív plural vokálovo končiacich kmeňov sa tvorí takto:
 
-> **-dlhý koncový vokál kmeňa + -nām**
+**-dlhý koncový vokál kmeňa + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalný kmeň | Genitív Plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Genitív plural vokálovo končiacich kmeňov sa tvorí takto:
 Genitív jednotného čísla kmeňov končiacich na samohlásku sa tvorí nepravidelne a je dobré ho naučiť sa nazvyš.
 
 :::
-::: center
+::: verse-box
 
 | Kmeň | Genitív jednotného čísla |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Genitív jednotného čísla kmeňov končiacich na samohlásku sa tvorí neprav
 :::
 **Otázkové a ukazovacie zámená:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Genitív jednotného čísla kmeňov končiacich na samohlásku sa tvorí neprav
 :::
 **Zhoda tvarov:**
 
-::: important
+::: warning-box
 
 Pri všetkých nominálnych kmeňoch s výnimkou maskulín a neuter na -a a zámen je tvar genitívu jednotného čísla totožný s tvarom ablatívu (pañcamī "piata pádová koncovka") jednotného čísla!
 
@@ -136,11 +136,11 @@ Všímajte si, že pri koreňoch konsonanticky končiacich sa tvarujú ablatív 
 ::: grammar-box
 Napriek vyššie uvedenej základnej pravidle sa genitív používa na vyjadrenie objektu niektorých sloves, napr. pri slovesách spomínania:
 
-> ⟪देवानां स्मरति⟫ "Spomína na bohov"
+⟪देवानां स्मरति⟫ "Spomína na bohov"
 
 Pri všetkých týchto slovesách môže byť objekt však aj v akuzatíve:
 
-> ⟪देवान्स्मरति⟫ "Spomína na bohov"
+⟪देवान्स्मरति⟫ "Spomína na bohov"
 
 Ďalšie informácie neskôr.
 :::

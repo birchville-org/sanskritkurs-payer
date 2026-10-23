@@ -3,8 +3,8 @@ title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 ---
 
 # Lektion 2
@@ -14,7 +14,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Prädikatsnomen - Subjekt**
-  
+:::
+
+::: indent
 z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
 :::
 Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
@@ -75,7 +77,9 @@ Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darau
 
 Siehe auch die Übersicht:
 
-> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Auslautendes **-s**:
 
@@ -119,7 +123,9 @@ Auslautendes **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Die vier Stände (varna)**
+
 Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
 
 - **der Brahmanen**

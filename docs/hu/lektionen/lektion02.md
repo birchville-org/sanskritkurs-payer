@@ -3,8 +3,8 @@ title: "Lecke 2"
 subtitle: "A névszavas mondat és a ragozás alapjai"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,7 +14,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Séma: Predikátumnév - alany**
+:::
 
+::: indent
 pl. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = „Viṣṇu egy isten.”
 :::
 Egy ragozott igekötő („van”, „vagyok”, „te vagy”) nem szükséges, de néha előfordulhat.
@@ -73,7 +75,9 @@ A szanszkritban egy szó végződése a következő szó kezdőhangjától is f�
 
 Lásd még az áttekintést:
 
-> **Payer, Alois (1944–):** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Kiejtés végén álló **-s**:
 
@@ -116,7 +120,9 @@ Kiejtés végén álló **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (szolgáltatási rend).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**A négy rend (varṇa)**
+
 A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása:
 
 - **a bráhmanák**

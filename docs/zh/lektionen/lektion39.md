@@ -2,7 +2,7 @@
 title: "第39課"
 subtitle: '第一人称词尾（：:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**第三**人称\"）'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

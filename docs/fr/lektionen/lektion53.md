@@ -651,7 +651,9 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 
 Voir aussi :
 
-> **Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Importance de la détermination du mètre
 
@@ -753,13 +755,13 @@ Exemple : ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 Répartition de ⟪लघु⟫ et ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -797,7 +799,7 @@ La forme métrique la plus importante dans les épopées (⟪महाभार�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -805,7 +807,7 @@ La forme métrique la plus importante dans les épopées (⟪महाभार�
 
 **b = d :**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -817,7 +819,7 @@ La deuxième et la troisième syllabe d'un ⟪पाद⟫ ne doivent pas simult
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -825,7 +827,7 @@ La deuxième et la troisième syllabe d'un ⟪पाद⟫ ne doivent pas simult
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -833,7 +835,7 @@ La deuxième et la troisième syllabe d'un ⟪पाद⟫ ne doivent pas simult
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -841,7 +843,7 @@ La deuxième et la troisième syllabe d'un ⟪पाद⟫ ne doivent pas simult
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -856,7 +858,7 @@ La deuxième et la troisième syllabe d'un ⟪पाद⟫ ne doivent pas simult
 
 :::
 
-::: center
+::: verse-box
 
 center
 Finitum feliciter 1984-02-15

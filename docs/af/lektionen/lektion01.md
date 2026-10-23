@@ -3,14 +3,14 @@ title: "Lesing 1"
 subtitle: "Die klanke van Sanskrit"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 # Les 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Aanbidding van Gaṇeśa
@@ -22,7 +22,7 @@ Fig. 1.2: Ganesha, Adamspeak, Sri Lanka
 (Beeldbron: [Details](/af/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -39,7 +39,7 @@ God, maak al my pogings
 Vry van hindernisse!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 'Gunstige begin'
@@ -51,7 +51,7 @@ Fig. 1.1: Ardhanarīśvara
 (Beeldbron: [Details](/af/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -76,7 +76,7 @@ Om mee te begin, 'n merkwaardige feit:
 
 &gt;"Toe William Jones [1746–1794] en Henry Thomas Colebrooke (1765–1857) vir die eerste keer deeglik Sanskrit bestudeer, gedeeltes daarvan vertaal en ontdek het dat dit oor 'n ryk literatuur beskik en 'n nie geringe mate van verwantskap met die klassieke tale het, het hulle op aansienlike weerstand gestuit. Aangesien hierdie noue verwantskap tussen Sanskrit en die geografies so verafgeleë Europese tale nie met die ou sienings versoen kon word nie—wat óf alle tale teruggevoer het na Hebreeus óf hulle as grootliks van mekaar geïsoleer beskou het— die vermaarde filoloog Dugald Steward (1753–1828) het die maklikste uitweg gekies deur die hele geskiedenis van die Sanskriet as 'n vervalsking te verklaar. Hy het 'n opstel geskryf waarin hy probeer bewys het dat dit deur die kwaadwillige Brahmins na die model van Grieks en Latyn in die lewe geroep is, en dat sowel die taal as die letterkunde vervalsings was. Hierdie siening is eers in 1840 verder uitgewerk deur Charles William Wall, 'n professor in Dublin (Göttingische gelehrte Anzeigen 1842, bl. 1888)."
 &gt;
-::: literatur-box
+::: note-box
 [Bron: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Aanlyn: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Toegang verkry op 2010-01-10]
 :::
 
@@ -88,7 +88,9 @@ Afb.: Omslagtitel van ’n pocketboekuitgawe
 (Beeldbron: [Besonderhede](/af/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sedertdien verskeie uitgawes, insluitend pocketboekuitgawes. -- **Verpligte leesstof.** ’n Goede oorsig oor lewe, geskiedenis en kultuur in voor-islamitiese Indië. Algehele oorsig van die verskillende gebiede van klassieke Indologiese Studies.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sedertdien verskeie uitgawes, insluitend pocketboekuitgawes. -- **Verpligte leesstof.** ’n Goede oorsig oor lewe, geskiedenis en kultuur in voor-islamitiese Indië. Algehele oorsig van die verskillende gebiede van klassieke Indologiese Studies.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -98,7 +100,7 @@ Afb.: Titelblad
 
 Beste sistematiese grammatika:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Uit die Engels vertaal deur W. Solf [1862 - 1936]. -- Berlyn : Dümmler, 1888. -- XIII, 238 bladsye. -- Oorspronklike titel: A grammar of the Sanscrit language
 :::
 
@@ -110,7 +112,9 @@ Afb.: Omslagtitel
 
 Goede sistematiese grammatika gebaseer op inheemse grammatici en terselfdertyd ’n invoering tot Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Oorspronklik in Maleis geskryf. Vertaal na Engels deur K.V.R. Pai. -- Parathode : Selfuitgewer, 1983. -- 818 bladsye ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Oorspronklik in Maleis geskryf. Vertaal na Engels deur K.V.R. Pai. -- Parathode : Selfuitgewer, 1983. -- 818 bladsye ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -120,7 +124,7 @@ Afbeelding: Boekomslagtitel
 
 Een goede, beknopte weergave van de Europese taalkundige terminologie vindt men in:
 
-::: literatur-box
+::: note-box
 **Etymologisch Woordenboek van de Duitse Taal** / [Friedrich] Kluge (1856–1926). Bewerkt door Elmar Seebold. -- 24., doorz. en verl. dr.. -- Berlijn [en andere] : de Gruyter, 2002. - LXXXIX, 1023 blz. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- blz. XIII - XLVII.
 :::
 
@@ -132,7 +136,9 @@ Afbeelding: Boekomslagtitel (rug/voorzijde)
 
 Voor de nieuwsgierige lezer ter naslag:
 
-> **Lexikon der Sprachwissenschaft** / geredigeer deur Hadumod Bussmann. -- 4de hersiene en bibliografies aangevulde uitgawe / medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 bl. ; 22 cm. -- ISBN 978-3-520-45204-7 (Sien ook Kielhorn).
+::: note-box
+**Lexikon der Sprachwissenschaft** / geredigeer deur Hadumod Bussmann. -- 4de hersiene en bibliografies aangevulde uitgawe / medew. van Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 bl. ; 22 cm. -- ISBN 978-3-520-45204-7 (Sien ook Kielhorn).
+:::
 
 
 ## 1.2. De klanken van het Sanskriet
@@ -145,7 +151,7 @@ De klanken van het Sanskriet volgens de traditionele Indiase classificatie en hu
 :::
 Moderne woordenboeken van het Sanskriet zijn gerangschikt volgens deze classificatie. Deze classificatie is onmisbaar voor het begrip van de Sanskriet-grammatica en moet daarom uit het hoofd gekend worden:
 
-::: note-box
+::: grammar-box
 Classificatie
 **eenvoudige klinkers** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -163,7 +169,6 @@ Classificatie
 :::
 ### 1.2.1. Uitspraak van individuele klank
 
-::: laut-table
 | Klank | Beskrywing |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "korte a" word deur Indiërs -- reeds sedert antieke tye -- dikwels soos ə uitgespreek. In Europa word dit as 'n kort a gesproke, in Bengale as 'n kort donker o. |
@@ -175,7 +180,6 @@ Classificatie
 | **h - ⟪ह्⟫** | asemklank, nooit 'n verlengingsteken nie. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Onstemde asemklank met naslaan van die voorgaande klinker of die tweede deel van die voorafgaande diftong: agniḥ -- ⟪अग्निः⟫ = agnihī, devaiḥ -- ⟪देवैः⟫ = devaihī, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Voor sibilante, h, l: Nasalisering van die klinker. Aan die einde = m. In die middel voor konsonante: Die nasale wat ooreenstem met die volgende konsonant: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Die beste uitspraak word bereik as jy die sinne, verse of woorde redelik stadig en monotoon lees met akkurate inagnomeneming van die lengte van die klinkers.
 
 

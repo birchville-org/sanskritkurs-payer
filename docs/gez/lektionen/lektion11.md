@@ -2,7 +2,7 @@
 title: "ለክፍል 11"
 subtitle: "ሁለትዮቹ አኩዛቲቭ (የሰው እና የምልከታ አኩዛቲቭ)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

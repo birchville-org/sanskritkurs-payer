@@ -3,8 +3,8 @@ title: "Lektion 2"
 subtitle: "Nominalmeningen och grunderna i böjning"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Predicate Noun - Subject**
+:::
 
+::: indent
 e.g. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu is a god."
 :::
 A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may sometimes occur.
@@ -76,7 +78,9 @@ In Sanskrit, the final sound of a word also depends on the initial sound of the 
 
 See also the overview:
 
-> **Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Final **-s**:
 
@@ -120,7 +124,9 @@ before other vowels: becomes **-a** (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**De fyra stånden (varṇa)**
+
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
 **of the Brāhmaṇas**

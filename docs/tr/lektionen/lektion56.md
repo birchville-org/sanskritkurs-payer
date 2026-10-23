@@ -2,7 +2,7 @@
 title: "Ders 56"
 subtitle: "Çoğulma (reduplication) ile oluşturulan aorist"
 lesson_id: 56
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -189,7 +189,7 @@ Resim: ⟪अलं विषादेन⟫
 ::: grammar-box
 **⟪स्म⟫ vurgular: "şüphesiz, elbette, kesinlikle, tam olarak"**
 
-> **Ayrıca aşağıdaki yapı çok önemlidir:**
+**Ayrıca aşağıdaki yapı çok önemlidir:**
 
 :::
 ::: indent
@@ -199,7 +199,9 @@ Resim: ⟪अलं विषादेन⟫
 :::
 ## 56.5. Alıştırma
 
-> A) Yardımcı araçlar kullanmadan (!) aşağıdaki biçimleri belirleyin ve çevirin:
+::: indent
+A) Yardımcı araçlar kullanmadan (!) aşağıdaki biçimleri belirleyin ve çevirin:
+:::
 
 1.  ⟪अस्मत्⟫
 2.  ⟪अस्मात्⟫

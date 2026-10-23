@@ -2,7 +2,7 @@
 title: "Mësimi 54"
 subtitle: "Shënime paraprake"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Strofa ⟪त्रिष्टुभ्⟫ përbëhet nga katër strofa ⟪प�
 Skema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Skema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Sasi e katër zërave të fundit është pra e njëjtë në të dyja skemat.
 
 Forma bazë ⟪जगती⟫: si te ⟪त्रिष्टुभ्⟫, por me 12 zëra. Pesë zërat e fundit të çdo Pada shfaqin sasi të mëposhtme:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Përveç kësaj, ekziston ⟪त्रिष्टुभ्⟫-ja e quajtur tipike tepërse me pjesë fillimi pesëzërshe, e cila vazhdon si një ⟪त्रिष्टुभ्⟫ me pjesë fillimi katërzërshe:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Në periudha më të vona, format e ⟪त्रिष्टुभ्⟫ përcaktohen sipas një skeme të rreptë gjatësish dhe shkurtesash, caesura nuk luan më asnjë rol. Format kryesore të periudhave më të vona janë:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫
@@ -215,7 +215,7 @@ Shembull:
 ⟪गम् अगामि⟫
 
 
-> Zbritja e y para fundëzës:
+Zbritja e y para fundëzës:
 
 *   Rrënjët me -ā, -e, -ai, -o shtojnë një y midis -a-s së rrënjes dhe fundëzës:  
 Shembull:  

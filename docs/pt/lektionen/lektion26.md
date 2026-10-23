@@ -2,7 +2,7 @@
 title: "Lição 26"
 subtitle: "Lei da cerebraização para -s- no interior das palavras"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

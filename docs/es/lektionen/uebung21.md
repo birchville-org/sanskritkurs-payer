@@ -2,7 +2,7 @@
 title: "Ejercicio 21"
 uebung_id: 21
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -50,5 +50,4 @@ Quien ha vencido la ira, no odia a un enemigo, incluso si este lo mata. Quien, s
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung033))
-::: \<!--  --\>
 :::

@@ -2,7 +2,7 @@
 title: "[Bài 54]"
 subtitle: "Lời mở đầu"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Khúc ⟪त्रिष्टुभ्⟫ gồm bốn câu ⟪पाद⟫ mư�
 Sơ đồ I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Sơ đồ II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Do đó, lượng thanh của bốn âm tiết cuối cùng là như nhau trong cả hai sơ đồ.
 
 Dạng cơ bản của ⟪जगती⟫: giống như ⟪त्रिष्टुभ्⟫, nhưng có 12 âm tiết. Năm âm tiết cuối của mỗi Pada thể hiện các lượng thanh sau:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Bên cạnh đó còn có ⟪त्रिष्टुभ्⟫ được gọi là điển hình dư thừa với phần đầu năm âm tiết, tiếp tục như một ⟪त्रिष्टुभ्⟫ với phần đầu bốn âm tiết:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Về sau, các hình thức của ⟪त्रिष्टुभ्⟫ được quy định theo một sơ đồ nghiêm ngặt về độ dài và ngắn, đoạn ngắt không còn đóng vai trò nữa. Các hình thức quan trọng hơn sau này là:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

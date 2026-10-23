@@ -2,7 +2,7 @@
 title: "5. lecke"
 subtitle: "A névkompozitumok (szamásza) alapjai"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -63,16 +63,20 @@ Az összetett szavak (nem csak a Dvandva) első tagjai általában **névi alap*
 Példák a többes számú Dvandvára:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (brahmanák, kṣatriyák, vaiśyák és śūdrák)
-> 
-> vagy = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> (egy/brahmána, kṣatriya, vaiśya és śúdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(brahmanák, kṣatriyák, vaiśyák és śūdrák)
+
+vagy = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+(egy/brahmána, kṣatriya, vaiśya és śúdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Költők és tanárok [többes szám])
-> (Megjegyzés: „Egy költő és egy tanár” kettős számban kellene állnia!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(Költők és tanárok [többes szám])
+(Megjegyzés: „Egy költő és egy tanár” kettős számban kellene állnia!)
+:::
 
 **A Dvandva tagjainak sorrendjét illetően az alábbi szabályok vonatkoznak:**
 - A különböző rendek megnevezése (**varṇa**) hierarchiájuk szerint (legfelső először) kerüljön sorba.

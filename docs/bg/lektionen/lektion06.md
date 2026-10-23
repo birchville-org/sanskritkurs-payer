@@ -2,7 +2,7 @@
 title: "Урок 6"
 subtitle: "Структура на глаголовата изречение (агент и глаголна форма)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

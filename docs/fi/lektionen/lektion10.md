@@ -2,7 +2,7 @@
 title: "Oppitunti 10"
 subtitle: "Passiivilause (agensin instrumentaali)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Kaava:**
 **(Agens - kartṛ - instrumentaali (tṛtīyā)) - (suora objekti - karman - nominatiivi) - passiivinen verbimuoto**
+:::
 
+::: indent
 esim. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahmana palvoo jumalaa uhraamalla" (sanastaan: "Jumala palvotaan brahmanan toimesta uhraamalla.")
-
 Tämä lause on **täysin (!) merkitykseltään identtinen** seuraavan lauseen kanssa:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ vaihtoehtoisesti: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रा
 :::
 Sanskritin passiivirakenteet ovat erittäin yleisiä: passivi on nimittäin helpompi muodostaa kuin esimerkiksi lukuisat preesensvartiot.
 
-::: important
+::: warning-box
 **Sanskritin passiivilauseita ei yleensä tule kääntää saksaksi passiivimuotoon, koska saksan passiviilla on aivan eri tyyliöllinen funktio.**
 :::
 
@@ -234,8 +235,6 @@ Esim. **tan** 8 U.
 ::: note-box
 Intiassa aidolla sanalla uskottiin olevan taianomainen voima, jopa niin että koko maailmankunnossa on totuuden sanan ylläpitämä ja luoma järjestys. Tästä tärkeästä käsityksestä ks. perusteellinen teos:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Julkaistu postuumisti Ludwig Alsdorfin toimesta. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Kuv: ⟪तन्तुवायः⟫
 **Lue ja käännä sekä muuta passiiviin:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

@@ -2,7 +2,7 @@
 title: "Pelajaran 11"
 subtitle: "Akusatif ganda (Akusatif orang dan benda)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

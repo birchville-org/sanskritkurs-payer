@@ -2,7 +2,7 @@
 title: "Ejercicio 33"
 uebung_id: 33
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,9 +110,9 @@ Los de mente limitada realizan méritos y se abstienen del mal porque temen a lo
 ![](/images/uebung055.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung056))
-::::
 :::

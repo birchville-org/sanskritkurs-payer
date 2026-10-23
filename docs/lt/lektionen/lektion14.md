@@ -2,7 +2,7 @@
 title: "Pamoka 14"
 subtitle: "Santykio tarp daiktavardžiais žymimų dalykų išraiška: kilmininkas (ṣaṣṭhī f. = ⟪षष्टी⟫ = šeštoji linksnio pabaiga)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Pavyzdžiai:
 ::: grammar-box
 Įprasta žodžių tvarka yra:
 
-> **Nustatantis žodis kilmininke – Patikslinamas daiktavardžiu kitame linksnyje**
+**Nustatantis žodis kilmininke – Patikslinamas daiktavardžiu kitame linksnyje**
 :::
 **Kilmininkas ir PPP:**
 
@@ -37,9 +37,9 @@ Esant PPP, kilmininkas gali pakeisti įrankio linksnį (tṛtīyā) veikėjo (ka
 
 Pagal Pāṇini 2.3.67, esant PPP, kilmininkas vartojamas, jei PPP turi dabartinio laiko reikšmę (žr. aukščiau), o įrankio linksnis – jei PPP turi praeities laiko reikšmę:
 
-> ⟪रामस्येष्टं फलम्⟫ "Rāmos geidžiamas vaisius = Vaisius, kurio Rāma dabar trokšta"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Vaisius, kurio Rāma troško"
+⟪रामस्येष्टं फलम्⟫ "Rāmos geidžiamas vaisius = Vaisius, kurio Rāma dabar trokšta"
+
+⟪रामेणेष्टं फलम्⟫ "Vaisius, kurio Rāma troško"
 
 Žinoma, kai PPP (participo) vidurinio giminės vienaskaita vartojamas kaip verbalo abstraktas – t. y. kaip daiktavardis, vartojamas kilmininko linksnis.
 :::
@@ -56,7 +56,7 @@ Po konsonanto reguliariosios kilmininko galūnės yra:
 * Daugiskaita: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Daiktavardžio kamienas | Silpnasis kamienas | Kilmininkas vienaskaita | Kilmininkas daugiskaita |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Po konsonanto reguliariosios kilmininko galūnės yra:
 
 Balsiniu pabaigos kamienų kilmininkas daugiskaita kuriamas taip:
 
-> **-ilgas kamieno balsis + -nām**
+**-ilgas kamieno balsis + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Daiktavardžio kamienas | Kilmininkas daugiskaita |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Balsiniu pabaigos kamienų kilmininkas daugiskaita kuriamas taip:
 Vardinio linksnio vienaskaita balsiu baigiamų kamienų formuojama netaisyklingai ir ją reikia gerai išmokti.
 
 :::
-::: center
+::: verse-box
 
 | Kamienas | Vardinio linksnio vienaskaita |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Vardinio linksnio vienaskaita balsiu baigiamų kamienų formuojama netaisyklinga
 :::
 **Klausiamieji ir rodomieji įvardžiai:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Vardinio linksnio vienaskaita balsiu baigiamų kamienų formuojama netaisyklinga
 :::
 **Formų sutapimas:**
 
-::: important
+::: warning-box
 
 Visiems nominaliniams kamienams, išskyrus vyr. ir bevardės giminės žodžius su -a bei įvardžius, vardinio linksnio vienaskaitos forma sutampa su abliatyvo (pañcamī "penktoji linksnio galūnė") vienaskaitos forma!
 
@@ -136,11 +136,11 @@ Atkreipkite dėmesį, kad esant kamienams, besibaigiantiems priebalsiu, abliatyv
 ::: grammar-box
 Nepaisant aukščiau pateiktos bendrosios taisyklės, genetyvas vartojamas norint išreikšti kai kurių veiksmažodžių tiesioginius objektus, pvz., atminties veiksmų veiksmažodžių:
 
-> ⟪देवानां स्मरति⟫ „Jis prisimena dievus“
+⟪देवानां स्मरति⟫ „Jis prisimena dievus“
 
 Tačiau su visais šiais veiksmažodžiais objektas gali būti ir akuzatyve:
 
-> ⟪देवान्स्मरति⟫ „Jis prisimena dievus“
+⟪देवान्स्मरति⟫ „Jis prisimena dievus“
 
 Papildoma informacija pateikta vėliau.
 :::

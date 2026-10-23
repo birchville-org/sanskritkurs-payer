@@ -485,7 +485,9 @@ lesson_id: 53
 :::
 另請參見：
 
-> **Payer, Alois (1944–)：**《梵文文本釋經導論》：講義。 -- 第8章：真正的釋經，第二部分：同步理解之個別問題探討。 -- 附錄B：梵文文本詩律學簡介。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–)：**《梵文文本釋經導論》：講義。 -- 第8章：真正的釋經，第二部分：同步理解之個別問題探討。 -- 附錄B：梵文文本詩律學簡介。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. 確定詩律的重要性
 
@@ -560,10 +562,10 @@ lesson_id: 53
 :::
 ⟪लघु⟫ 與 ⟪गुरु⟫ 的分佈：
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. 史詩頌（⟪श्लोक⟫，陽性名詞）
@@ -589,11 +591,11 @@ lesson_id: 53
 
 **a = c：**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d：**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 ⟪पाद⟫ 的第二和第三個音節不應同時為 ⟪लघु⟫。在 b 和 d 中，音節 2-4 不得為 ¯ ˘ ¯。
@@ -601,19 +603,19 @@ lesson_id: 53
 **次要模式（⟪विपुला⟫）適用於 a 和 c：**
 
 **⟪विपुला⟫ 1：**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2：**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3：**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4：**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **在所有頌詩體式中，主要停頓位於第二⟪पाद⟫的末尾：此處要么是詞尾，要么（在長複合詞的情況下）是構詞成分的末尾。**
@@ -622,7 +624,7 @@ lesson_id: 53
 ::: grammar-box
 **請從所有迄今為止學過的詩句中找出頌詩。為這些頌詩書面寫出格律模式，並指出任何不規則性或Vipulā形式。**
 :::
-::: center
+::: verse-box
 完成於1984-02-15
 網路版完成於2009-01-19
 Alois Maria Payer

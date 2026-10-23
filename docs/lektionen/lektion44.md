@@ -2,7 +2,7 @@
 title: Lektion 44
 subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -185,7 +185,7 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 
 Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Der Vokativ dient dem Anruf, dem Ansprechen und steht ausserhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.**
 
 **Meist wird der Vokativ an den Beginn des Satzes gestellt:**
@@ -194,7 +194,7 @@ Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्र�
 ::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?"
 :::
-::: important
+::: warning-box
 **Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"**
 :::
 ::: media

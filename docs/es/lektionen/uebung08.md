@@ -2,7 +2,7 @@
 title: "Ejercicio 8"
 uebung_id: 8
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -212,7 +212,5 @@ El niño escribe una carta.
 
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
-
-::: \<!--  --\>
 
 :::

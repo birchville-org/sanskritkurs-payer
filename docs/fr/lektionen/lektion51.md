@@ -2,7 +2,7 @@
 title: "Leçon 51"
 subtitle: "⟪उपपद⟫-composés"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -314,7 +314,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: grammar-box
 **Devant un h- initial, une consonne occlusive précédente est remplacée par la non-aspirée sonore correspondante, et le h- initial est remplacé par l'aspirée sonore correspondant à cette occlusive :**
 
-> **Les mammifères du monde de Walker** / Ronald M. Nowak. -- 6e éd. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
+**Les mammifères du monde de Walker** / Ronald M. Nowak. -- 6e éd. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
 
 :::
 ::: media

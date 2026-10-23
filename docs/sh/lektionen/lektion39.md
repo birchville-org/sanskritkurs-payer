@@ -2,7 +2,7 @@
 title: "Lekcija 39"
 subtitle: 'Lične nastavke prve osobe (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**treća** osoba\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

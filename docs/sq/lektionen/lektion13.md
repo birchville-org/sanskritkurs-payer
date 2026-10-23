@@ -2,7 +2,7 @@
 title: "Mësimi 13"
 subtitle: "PPP në -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Mësoni fjalët e mëposhtme:
 **eva** ⟪एव⟫ : thekson fjalën paraardhëse
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Shpirtëror, hyjnor.'
-\>
-> Në pjesët më të vjetra të Ṛgvedës ky term përdoret për shpirtin suprem, dhe është i njëjtë me Ahura të zoroastrianëve. Në kuptimin e 'zotit' u aplikua për disa nga perënditë kryesore, si Indra, Agni dhe Varuṇa. Më vonë mori një kuptim krejtësisht të kundërt, dhe filloi të nënkuptojë, ashtu si tani, një demon ose armik perëndish.
-\>
-> Fjala gjendet me këtë kuptim në pjesët më të vona të Ṛgvedës, veçanërisht në librin e fundit, dhe gjithashtu në Atharvavedën. Brāhmaṇat i japin të njëjtin kuptim dhe regjistrojnë shumë konfrontime midis Asurave dhe perëndive. Sipas Taittirīya Brāhmaṇës, fryma *(asu)* e Prajapatit u bë e gjallë, dhe "me atë frymë ai krijoi mua si Asura." Në një pjesë tjetër të së njëjtit punë thuhet se Prajāpati "u shtatzënë. Ai krijoi Asura nga barku i tij." Śatapatha Brāhmaṇa pajtohet me deklaratën e parë dhe thotë se "ai krijoi Asura nga fryma e tij më e ulët." Taittirīya Āraṇyaka paraqet se Prajāpati krijoi perëndi, njerëz, baballarë, Gandharva dhe Apsaras nga uji, dhe se Asurat, Rakṣasat dhe piśācat u lindën nga pika që u shpërndanë. Deklarata e Manut është se ata u krijuan nga Prajāpatit.
-\>
-> Sipas Viṣṇu Purāṇës, ata u prodhuan nga gjendri i Brahma-s (prajāpati). Tregimi i Vāyu Purāṇës është: "Asurat u prodhuan së pari si bij nga gjendri i tij (i Prajāpatit). *Asu* shpallet nga Brāhmaṇa të nënkuptojë frymën. Nga ajo u prodhuan këta qenie; prandaj ata janë Asura." Fjala ka përdorur prej kohësh si emër të përgjithshëm për armiq të perëndive, duke përfshirë Daityat dhe Danavat dhe pasardhës të tjerë të Kaśyapa-s, por jo duke përfshirë Rakṣasat e lindur nga Pulastya.
-\>
-> Në këtë kuptim është gjetur një rrjedhë tjetër për të: burimi nuk është më asu, 'frymë', por fillimi *a* merret si prapashtesë negative, dhe *asura* nënkupton 'jo një zot;' prandaj, sipas disa, u lind fjala *sura,* e përdorur zakonisht për 'një zot.'"
-\>
-> [Burimi: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Shpirtëror, hyjnor.'
+
+Në pjesët më të vjetra të Ṛgvedës ky term përdoret për shpirtin suprem, dhe është i njëjtë me Ahura të zoroastrianëve. Në kuptimin e 'zotit' u aplikua për disa nga perënditë kryesore, si Indra, Agni dhe Varuṇa. Më vonë mori një kuptim krejtësisht të kundërt, dhe filloi të nënkuptojë, ashtu si tani, një demon ose armik perëndish.
+
+Fjala gjendet me këtë kuptim në pjesët më të vona të Ṛgvedës, veçanërisht në librin e fundit, dhe gjithashtu në Atharvavedën. Brāhmaṇat i japin të njëjtin kuptim dhe regjistrojnë shumë konfrontime midis Asurave dhe perëndive. Sipas Taittirīya Brāhmaṇës, fryma *(asu)* e Prajapatit u bë e gjallë, dhe "me atë frymë ai krijoi mua si Asura." Në një pjesë tjetër të së njëjtit punë thuhet se Prajāpati "u shtatzënë. Ai krijoi Asura nga barku i tij." Śatapatha Brāhmaṇa pajtohet me deklaratën e parë dhe thotë se "ai krijoi Asura nga fryma e tij më e ulët." Taittirīya Āraṇyaka paraqet se Prajāpati krijoi perëndi, njerëz, baballarë, Gandharva dhe Apsaras nga uji, dhe se Asurat, Rakṣasat dhe piśācat u lindën nga pika që u shpërndanë. Deklarata e Manut është se ata u krijuan nga Prajāpatit.
+
+Sipas Viṣṇu Purāṇës, ata u prodhuan nga gjendri i Brahma-s (prajāpati). Tregimi i Vāyu Purāṇës është: "Asurat u prodhuan së pari si bij nga gjendri i tij (i Prajāpatit). *Asu* shpallet nga Brāhmaṇa të nënkuptojë frymën. Nga ajo u prodhuan këta qenie; prandaj ata janë Asura." Fjala ka përdorur prej kohësh si emër të përgjithshëm për armiq të perëndive, duke përfshirë Daityat dhe Danavat dhe pasardhës të tjerë të Kaśyapa-s, por jo duke përfshirë Rakṣasat e lindur nga Pulastya.
+
+Në këtë kuptim është gjetur një rrjedhë tjetër për të: burimi nuk është më asu, 'frymë', por fillimi *a* merret si prapashtesë negative, dhe *asura* nënkupton 'jo një zot;' prandaj, sipas disa, u lind fjala *sura,* e përdorur zakonisht për 'një zot.'"
+
+[Burimi: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

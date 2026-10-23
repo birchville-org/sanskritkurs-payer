@@ -2,7 +2,7 @@
 title: "บทที่ 30"
 subtitle: 'กลุ่มกริยาปัจจุบันที่ 9 (⟪क्र्यादि⟫ = "⟪क्री⟫ เป็นต้น")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -628,7 +628,9 @@ Kuv: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Katso myös:
 
-> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Kap. 8: The actual exegesis, Part II: On individual questions of synchronous understanding. -- Appendix B: On the metrics of Sanskrit texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Kap. 8: The actual exegesis, Part II: On individual questions of synchronous understanding. -- Appendix B: On the metrics of Sanskrit texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Metrumin määrittämisen merkitys
 
@@ -648,7 +650,9 @@ Kuv.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Katso myös:
 
-> **Payer, Alois (1944–):** Johdatus sanskritintekstien eksegeesiin : käsikirjoitus. -- Luku 8: Oikea eksegeesi, osa II: Yksittäisiä kysymyksiä synkronisesta ymmärtämisestä. -- Liite B: Sanskritintekstien metriikasta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Johdatus sanskritintekstien eksegeesiin : käsikirjoitus. -- Luku 8: Oikea eksegeesi, osa II: Yksittäisiä kysymyksiä synkronisesta ymmärtämisestä. -- Liite B: Sanskritintekstien metriikasta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Mitan määrittämisen merkitys
 
@@ -748,13 +752,13 @@ Esimerkki: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ⟪लघु⟫ ja ⟪गुरु⟫ jakautuminen:
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -794,7 +798,7 @@ Tärkein runomitta eepoksissa (⟪महाभारत⟫, ⟪रामाय�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -802,7 +806,7 @@ Tärkein runomitta eepoksissa (⟪महाभारत⟫, ⟪रामाय�
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -814,7 +818,7 @@ Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪ल�
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -822,7 +826,7 @@ Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪ल�
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -830,7 +834,7 @@ Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪ल�
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -838,7 +842,7 @@ Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪ल�
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -853,7 +857,7 @@ Toisen ja kolmannen tavun tulee olla ⟪पाद⟫, ei samanaikaisesti ⟪ल�
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

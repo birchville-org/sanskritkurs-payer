@@ -2,7 +2,7 @@
 title: "Lekcia 27"
 subtitle: 'Použitie lokatívu (⟪सप्तमी⟫ f. = \"siedma koncovka pádu\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokatív (⟪सप्तमी⟫) na otázku "Kde?" vyjadruje priestor, v (na, pri) ktorom sa nachádza agens (⟪कर्ता⟫) alebo objekt činnosti, alebo kde samotná činnosť prebieha.**
 
-> ⟪नगरे वसति⟫ = "Býva v meste"
+⟪नगरे वसति⟫ = "Býva v meste"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokatív vyjadruje na otázku "Kedy?" časový okamih alebo vonkajšie okolnosti:**
 
-> ⟪तस्मिन्काले⟫ = "v tom čase, v tú dobu"
+⟪तस्मिन्काले⟫ = "v tom čase, v tú dobu"
 
 **Sem patrí aj tzv. Locativus Absolutus:**
 
 **Ak určuje činnosť alebo stav osoby alebo veci čas, ku ktorému – alebo okolnosti, za akých – INÁ osoba alebo vec vykonáva činnosť alebo sa nachádza v určitom stave, potom slovo označujúce prvú osobu alebo vec spolu so slovom ju bližšie určujúcim (často je to prídavné meno v tvare príčastia) stojí v lokatíve (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "kým čas plynie..."
-\>
-> ⟪तस्मिन्गते⟫ = "keď odišiel..."
+⟪एवं गच्छति काले⟫ = "kým čas plynie..."
+
+⟪तस्मिन्गते⟫ = "keď odišiel..."
 
 **Niekedy nie je agens (⟪कर्ता⟫) výslovne uvedený:**
 
-> ⟪एवं सति⟫ = "keďže je to tak"
+⟪एवं सति⟫ = "keďže je to tak"
 
 **Locativus absolutus sa podľa kontextu prekladá ako "kým" (napr. prítomné príčastie), "po tom, čo", "keď" (napr. minulé príčastie trpné), "pretože", "lebo", "hoci", "ak" atď.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Lokatív sa používa aj na otázku „Vzhľadom na čo?“ a podobne:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Má lásku k svojmu synovi“ (doslova: „Vzhľadom na syna je u neho láska“)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Má lásku k svojmu synovi“ (doslova: „Vzhľadom na syna je u neho láska“)
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokatív slúži v domácich slovníkoch a u komentátorov na uvedenie významu slova:**
 
-> ⟪भू सत्तायाम्⟫ = „koreň ⟪भू⟫ vo význame 'bytnosť' (sat-tā)“
+⟪भू सत्तायाम्⟫ = „koreň ⟪भू⟫ vo význame 'bytnosť' (sat-tā)“
 
 :::
 Ďalšie o používaní lokatívu neskôr.

@@ -2,7 +2,7 @@
 title: "பாடம் 13"
 subtitle: "na- இல் முடியும் PPP"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -175,17 +175,19 @@ mant அல்லது -vant ஆகியவற்றில் முடிவ�
 - **eva** ⟪एव⟫ : முந்தைய சொல்லை வலியுறுத்துதல்
 - **asura** p. ⟪असुर⟫ : அசுரன்
 
-> **அசுர.** 'ஆவி, தெய்வீகம்.'
->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->
-> விஷ்ணு புராணத்தின் படி, அவர்கள் பிரஹ்மாவினது (பிரஜாபதி) இடுப்பிலிருந்து உருவாக்கப்பட்டனர். வாயு புராணத்தின் கணக்கு: "அசுரர்கள் முதலில் அவரது (பிரஜாபதியின்) இடுப்பிலிருந்து மகன்களாக உருவாக்கப்பட்டனர். *அசு* என்பது பிராமணத்தால் மூச்சு என்று அறிவிக்கப்படுகிறது. அதிலிருந்து இந்த உயிரினங்கள் உருவாக்கப்பட்டன; எனவே அவர்கள் அசுரர்கள்." இந்த சொல் நீண்ட காலமாக தெய்வங்களின் எதிரிகளுக்கான பொதுவான பெயராகப் பயன்படுத்தப்படுகிறது, தைத்தியர்கள் மற்றும் தானவர்கள் மற்றும் கச்யபனின் பிறர் சந்ததியினர் அடங்கும், ஆனால் புலஸ்த்யாவிலிருந்து descended ரக்ஷசர்கள் அடங்காது.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [மூலம்: **டவுசன், ஜான் \<1820-1881\>:** ஒரு கிளாசிக்கல் அகராதி இந்திய புராணக்கதை மற்றும் சமயம், புவியியல், வரலாறு, மற்றும் இலக்கியம். -- லண்டன், ட்ரூப்னர், 1879. -- s.v. ]
+::: note-box
+**அசுர.** 'ஆவி, தெய்வீகம்.'
+
+In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+
+விஷ்ணு புராணத்தின் படி, அவர்கள் பிரஹ்மாவினது (பிரஜாபதி) இடுப்பிலிருந்து உருவாக்கப்பட்டனர். வாயு புராணத்தின் கணக்கு: "அசுரர்கள் முதலில் அவரது (பிரஜாபதியின்) இடுப்பிலிருந்து மகன்களாக உருவாக்கப்பட்டனர். *அசு* என்பது பிராமணத்தால் மூச்சு என்று அறிவிக்கப்படுகிறது. அதிலிருந்து இந்த உயிரினங்கள் உருவாக்கப்பட்டன; எனவே அவர்கள் அசுரர்கள்." இந்த சொல் நீண்ட காலமாக தெய்வங்களின் எதிரிகளுக்கான பொதுவான பெயராகப் பயன்படுத்தப்படுகிறது, தைத்தியர்கள் மற்றும் தானவர்கள் மற்றும் கச்யபனின் பிறர் சந்ததியினர் அடங்கும், ஆனால் புலஸ்த்யாவிலிருந்து descended ரக்ஷசர்கள் அடங்காது.
+
+According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+
+In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+
+[மூலம்: **டவுசன், ஜான் \<1820-1881\>:** ஒரு கிளாசிக்கல் அகராதி இந்திய புராணக்கதை மற்றும் சமயம், புவியியல், வரலாறு, மற்றும் இலக்கியம். -- லண்டன், ட்ரூப்னர், 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

@@ -70,7 +70,7 @@ Esempi:
 :::
 ## 32.4. Esempi di formazione dell'imperfetto
 
-::: important
+::: warning-box
 **Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra \< \>.**
 :::
 ### 32.4.1. Classi tematiche del presente
@@ -603,7 +603,7 @@ Tradurre e determinare le seguenti forme lessicali:
 
 ## 32.9. Esercizio di traduzione
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

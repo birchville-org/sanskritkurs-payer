@@ -2,7 +2,7 @@
 title: "Lecziun 3"
 subtitle: "Il nominativ singular dal feminin"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Il nominativ singular furman senza desinentza:
 - **Femininas cun -ā**: p.ex. **devatā** f. "divinitad" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Femininas cun -ī**: p.ex. **devī** f. "diva" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Attenziun!** Ultra da quai dat insatgi radischs verbalas femininas monosillabicas cun -ī, il cui nominativ singular finischa cun -s: p.ex. dhī f. "pensament" -- Nom. sg.: dhīs = ⟪धीस्⟫. Era lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "navet" e tantrī (⟪तन्त्री⟫) f. "chorda" furman irregularmain il nominativ singular cun -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ p.ex.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇa è ina divinitad" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇa è la dea dal mangiar e da la preparaziun, ella vala sco ina incarnaziun da Pārvatī, la consorta da Śiva.)
+::: indent
+(Annapūrṇa è la dea dal mangiar e da la preparaziun, ella vala sco ina incarnaziun da Pārvatī, la consorta da Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇi è ina diva" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇi è la consorta dal diev Indra.)
+::: indent
+(Indrāṇi è la consorta dal diev Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ p.ex.
 
 devī + umā » devy umā "Umā è ina / la deessa" = ⟪देव्युमा⟫
 
-> (Umā è in num per Pārvatī, la consorta da Śiva)
+::: indent
+(Umā è in num per Pārvatī, la consorta da Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā avant vocal dissimila:**

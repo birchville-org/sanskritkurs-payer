@@ -651,7 +651,9 @@ Példa:
 
 Lásd még:
 
-> **Payer, Alois (1944–):** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. A mérték meghatározásának jelentése
 
@@ -751,13 +753,13 @@ Példa: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ⟪लघु⟫ és ⟪गुरु⟫ eloszlása:
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -797,7 +799,7 @@ A legfontosabb versmérték az eposzokban (⟪महाभारत⟫, ⟪र�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -805,7 +807,7 @@ A legfontosabb versmérték az eposzokban (⟪महाभारत⟫, ⟪र�
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -817,7 +819,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -825,7 +827,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -833,7 +835,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -841,7 +843,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -856,7 +858,7 @@ A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪ल�
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

@@ -2,7 +2,7 @@
 title: "練習十四"
 uebung_id: 14
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

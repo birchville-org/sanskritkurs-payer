@@ -2,7 +2,7 @@
 title: "ክፍሊ 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -12,7 +12,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
@@ -251,7 +251,7 @@ status: stable
 
 የተዘጋጀቱ ቃላት ማለት:
 
-> "ከመጀመሪያው ቃል ጋር ያለውን ርክሽ የያዘ"
+"ከመጀመሪያው ቃል ጋር ያለውን ርክሽ የያዘ"
 
 ምሳሌ:
 

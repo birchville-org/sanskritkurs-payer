@@ -2,7 +2,7 @@
 title: "Oppitunti 49"
 subtitle: "Imperatiivin muodostus (⟪लोट्⟫) athemaattisten preesensvartojen vartalot (jatkoa)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

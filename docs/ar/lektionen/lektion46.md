@@ -2,7 +2,7 @@
 title: "الدرس 46"
 subtitle: "تكوين تصريفات الفعل للشخص الثاني (⟪मध्यमः⟫) الماضي التام (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ status: stable
 
 انظر إلى ⟪राहु⟫ و ⟪केतु⟫:
 
-> **باير، ألويس (1944–):** دارماساترا: مقدمة ونظرة عامة. -- 10. الأسرار والطقوس الانتقالية (سامسكارا). -- الملحق ج: راو وكيتو، الكواكب المتحركة غير المرئية . -- الرابط: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**باير، ألويس (1944–):** دارماساترا: مقدمة ونظرة عامة. -- 10. الأسرار والطقوس الانتقالية (سامسكارا). -- الملحق ج: راو وكيتو، الكواكب المتحركة غير المرئية . -- الرابط: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

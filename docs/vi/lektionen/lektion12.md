@@ -2,7 +2,7 @@
 title: "Bài 12"
 subtitle: "Phân từ quá khứ bị động (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Trong trường hợp này, PPP đồng nhất với tân ngữ về số, cách
 Không cần trợ động từ ("là").
 
 Ví dụ:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Thiên đường đã được đạt bởi vị Thánh) = Vị Thánh đã đạt được một thiên đường."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nữ thần đã được tôn vinh bởi vị Brahman với một lễ hy sinh) = Vị Brahman đã tôn vinh nữ thần với một lễ hy sinh."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Thiên đường đã được đạt bởi vị Thánh) = Vị Thánh đã đạt được một thiên đường."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nữ thần đã được tôn vinh bởi vị Brahman với một lễ hy sinh) = Vị Brahman đã tôn vinh nữ thần với một lễ hy sinh."
 :::
 
 ### 12.1.2. Sơ đồ I cho động từ bất chuyển và động từ chỉ sự di chuyển
@@ -42,7 +42,7 @@ Ví dụ:
 Trong trường hợp này, PPP đồng nhất với chủ ngữ về số, cách và giống. Phân từ Quá khứ "Bị động" có ý nghĩa chủ động đối với các động từ bất chuyển (động từ không có tân ngữ trực tiếp) và động từ chỉ sự di chuyển.
 
 Ví dụ:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Người phụ nữ Kṣatriya đã đi vào thành phố."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Người phụ nữ Kṣatriya đã đi vào thành phố."
 :::
 
 ### 12.1.3. Sơ đồ II cho động từ bất quy tắc và động từ chỉ chuyển động
@@ -51,7 +51,7 @@ Ví dụ:
 **Chủ ngữ (kartṛ) ở cách dụng cụ (tṛtīyā) -- PPP ở cách chủ ngữ số ít trung tính**
 
 Ví dụ:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Bị đi (vào thành phố) bởi Kṣatriya) = Vị Kṣatriya đã (đi vào thành phố).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Bị đi (vào thành phố) bởi Kṣatriya) = Vị Kṣatriya đã (đi vào thành phố).“
 
 Cấu trúc theo Sơ đồ II hiếm gặp hơn nhiều so với cấu trúc theo Sơ đồ I.
 :::

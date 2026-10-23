@@ -2,7 +2,7 @@
 title: Leçon 12
 subtitle: "Le participe passé passif (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -31,9 +31,9 @@ Une manière de former des phrases passées au passif est la construction avec l
 Un verbe auxiliaire (« être ») n’est pas nécessaire.
 
 Exemples :
-> **sādhunā svarga āptaḥ** = ⟪साधुनास्वर्गआप्तः⟫ = « (Du saint fut atteint le ciel) = Le saint a atteint le ciel. »
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेनदेवीष्टा⟫ = « (Du brahmane fut la déesse avec un sacrifice vénérée) = Le brahmane a vénéré la déesse avec un sacrifice. »
+**sādhunā svarga āptaḥ** = ⟪साधुनास्वर्गआप्तः⟫ = « (Du saint fut atteint le ciel) = Le saint a atteint le ciel. »
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेनदेवीष्टा⟫ = « (Du brahmane fut la déesse avec un sacrifice vénérée) = Le brahmane a vénéré la déesse avec un sacrifice. »
 
 :::
 
@@ -46,7 +46,7 @@ Une manière de former des phrases passées au passif est la construction avec l
 **En réalité, le PPP n'est pas un véritable participe, car il ne se forme pas à partir d'une racine verbale. Il s'agit plutôt d'une formation nominale à partir de la racine avec le suffixe primaire -ta ou -na. C'est pourquoi, dans la grammaire indienne, on parle du suffixe kta.**
 
 Exemple :
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = « La femme kṣatriya est allée à la ville. »
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = « La femme kṣatriya est allée à la ville. »
 
 :::
 
@@ -57,7 +57,7 @@ Exemple :
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
 Exemple :
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = « (Par le Kṣatriya, il a été (dans la ville) allé) = Le Kṣatriya est (dans la ville) allé. »
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = « (Par le Kṣatriya, il a été (dans la ville) allé) = Le Kṣatriya est (dans la ville) allé. »
 
 La construction selon le schéma II est beaucoup plus rare que la construction selon le schéma I.
 

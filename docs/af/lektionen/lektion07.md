@@ -2,7 +2,7 @@
 title: "Lesing 7"
 subtitle: "Die werkwoordsin met direkte voorwerp"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lesing 7
 
 
-::: center
+::: verse-box
 **Weekspreuk**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ God wen, nie die teen-God nie.
 ::: grammar-box
 **Skema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – direkte voorwerp (karman n. = ⟪कर्मन्⟫) – werkwoord**
+:::
 
+::: indent
 bv.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma eet (vreet) 'n vrug."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Die Brahmanis aanbid 'n god met 'n offer (vir iemand anders)."

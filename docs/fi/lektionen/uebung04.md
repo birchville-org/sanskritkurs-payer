@@ -2,7 +2,7 @@
 title: "[Harjoitus 4](/Lektion_10#Uebung_4)"
 uebung_id: 4
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

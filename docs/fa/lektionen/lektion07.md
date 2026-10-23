@@ -2,7 +2,7 @@
 title: "درس ۷"
 subtitle: "جمله فعلی با مفعول مستقیم"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # درس ۷
 
 
-::: center
+::: verse-box
 **سخن هفته**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **الگو:**
 **(فاعل = kartṛ m. = ⟪कर्तृ⟫) – مفعول مستقیم (karman n. = ⟪कर्मन्⟫) – فعل**
+:::
 
+::: indent
 به عنوان مثال
 - **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "راما میوه‌ای را می‌خورد (می‌کند)."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "براهمن یک خدا را با قربانی (برای دیگری) پرستش می‌کند."

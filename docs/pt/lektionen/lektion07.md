@@ -2,7 +2,7 @@
 title: "Lição 7"
 subtitle: "A oração verbal com objeto direto"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # Lição 7
 
 
-::: center
+::: verse-box
 **Versículo da semana**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Deus vence, não o antideus.
 ::: grammar-box
 **Esquema:**
 **(Agente = kartṛ m. = ⟪कर्तृ⟫) – objeto direto (karman n. = ⟪कर्मन्⟫) – Verbo**
+:::
 
+::: indent
 p. ex.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma come (mastiga) uma fruta."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "O brâmane adora um deus com um sacrifício (para outra pessoa)."

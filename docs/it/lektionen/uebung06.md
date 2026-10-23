@@ -2,7 +2,7 @@
 title: "Esercizio 6"
 uebung_id: 6
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

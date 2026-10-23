@@ -2,7 +2,7 @@
 title: "Oefening 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Onwetendheid betekent dat men het niet-duurzame, onreine, lijdelijke en niet-abs
 
 Voor een al te streng gezag (daṇḍa) moeten de wezens huiveren. Een slap gezag wordt veracht. Een precies juist gezag wordt vereerd. Een wijs geleid gezag bevordert bij de onderdanen recht, gewin en genot. Een uit wellust en haat of minachting slecht geleid gezag toornt zelfs oude mensen en zwervende asceten die zich in het woud hebben teruggetrokken, laat staan huisvaders. Niet toegepast gezag veroorzaakt een gedrag zoals bij vissen (mātsyanayāya). Als er niemand is die het gezag handhaaft, verslindt namelijk de sterkere de zwakkere. Wanneer de zwakke door de gezagsdrager wordt beschermd, gedijt hij.
 
-> De wereld met haar vier standen en levensfasen  
-> Wordt door de koning beschermd door middel van het bestuur:  
-> Blij over haar activiteit volgens eigen recht en eigen gewoonte  
-> Beweegt zij zich op haar eigen paden.
+::: indent
+De wereld met haar vier standen en levensfasen
+Wordt door de koning beschermd door middel van het bestuur:
+Blij over haar activiteit volgens eigen recht en eigen gewoonte
+Beweegt zij zich op haar eigen paden.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

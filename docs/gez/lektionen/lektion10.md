@@ -2,7 +2,7 @@
 title: "ለክፍል 10"
 subtitle: "የፓሲቭ ሐረግ (የአገልጋይ መሣሪያ)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,15 +13,14 @@ status: stable
 ## 10.1. የፓሲቭ ሐዲስ
 
 ::: grammar-box
-
 **ሰንጠረዥ:**
 **(አጀንስ - ካርትሪ - በኢንስትሩመንታል (ትሬቲያ) - (ቀጥተኛ ኦብጀክት - ካርማን - በኖሚናቲቭ) - ፓሲቭ የግስ ቅርጽ**
+:::
 
+::: indent
 ምሳሌ **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "አንድ ብራህማኒ በቅርበት አምላክን ያመልጣል" (ቃል በቃል: "አንድ አምላክ በአንድ ብራህማኒ በቅርበት ይመለጣል")
-
 ይህ ሐዲስ **በጣም (!) ትርጉሙ እኩል** ነው ምስ ሐዲስ:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
-
 :::
 
 ::: grammar-box
@@ -52,7 +51,7 @@ status: stable
 
 ግስያተ ሳንስክሪት ዘይትገበር ብዙኅ እዩ፡ እስመ ዘይትገበር ይትገበር እምነ ብዙኃት ግብረ ግስያት ዘበአምሳለ ዛቲ።
 
-::: important
+::: warning-box
 
 **ግስያተ ሳንስክሪት ዘይትገበር በአጠቃላይ በጀርመንኛ በግስያተ ዘይትገበር ኢይትነገር፡ እስመ ግስያተ ጀርመንኛ ዘይትገበር ካልእ ኄልዎቱ ዘይትገበር።**
 
@@ -265,9 +264,6 @@ status: stable
 
 በኢንዲያ ውስጥ ለእውነተኛ ቃል ከባድ ኃይል አለ። እንዲሁም ሙሉው የዓለም መዋቅር በእውነተኛ ቃል ይጠበቃል እና ይፈጥራል። ስለዚህ አስፈላጊው እይታ ማየት ይችላል፡
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Herausgegeben aus dem Nachlass von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -423,7 +419,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Herausgegeben aus de
 
 ⟪१⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |

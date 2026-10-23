@@ -2,7 +2,7 @@
 title: "Lekce 10"
 subtitle: "Pasivní věta (Instrumentál agensa)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,15 +13,14 @@ status: stable
 ## 10.1. Pasivní věta
 
 ::: grammar-box
-
 **Schéma:**
 **(Agens - kartṛ - v instrumentálu (tṛtīyā)) - (přímý objekt - karman - v nominativu) - pasivní tvar slovesa**
+:::
 
+::: indent
 např. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahman uctívá boha obětí" (doslova: "Boh je od brahmána s obětí uctíván.")
-
 Tato věta je **zcela (!) významově totožná** s větou:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
-
 :::
 
 ::: grammar-box
@@ -52,7 +51,7 @@ alternativně: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 
 Sanskritové pasivní konstrukce jsou mimořádně časté: pasiv je totiž snazší tvořit než například četné kmeny přítomného času.
 
-::: important
+::: warning-box
 
 **Sanskritové pasivní věty se obecně v němčině nesmí převádět do pasivu, protože německý pasiv má zcela jinou stylistickou funkci.**
 
@@ -265,9 +264,6 @@ např. **tan** 8 U.
 
 V Indii připisovali pravdivému slovu kouzelnou sílu, ba celá světová řádka je udržována a stvořena pravdivým slovem. K této důležité představě viz základní dílo:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozůstalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Svazek 2: Varuna a Ṛta. -- 1959. -- XXIII stran, str. 340 - 764
 
@@ -418,7 +414,7 @@ Obr.: ⟪तन्तुवायः⟫
 
 ⟪क १⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||

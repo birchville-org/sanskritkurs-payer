@@ -2,7 +2,7 @@
 title: "บทที่ 25"
 subtitle: 'การสร้างกรณีวิภัตติบทที่ 5 (⟪पञ्चमी⟫ = \"วิภัตติบทที่ห้า\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

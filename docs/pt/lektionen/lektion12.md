@@ -2,7 +2,7 @@
 title: "Lição 12"
 subtitle: "O particípio perfeito passivo (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ O PPP, neste caso, concorda com o objeto em número, caso e gênero.
 Um verbo auxiliar ("ser") não é necessário.
 
 Exemplos:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Pelo santo um céu foi alcançado) = O santo alcançou um céu.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Pelo brâmane a deusa foi venerada com um sacrifício) = O brâmane venerou a deusa com um sacrifício.“
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Pelo santo um céu foi alcançado) = O santo alcançou um céu.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Pelo brâmane a deusa foi venerada com um sacrifício) = O brâmane venerou a deusa com um sacrifício.“
 :::
 
 ### 12.1.2. Esquema I para verbos intransitivos e verbos de movimento
@@ -42,7 +42,7 @@ Exemplos:
 Neste caso, o PPP concorda com o agente em número, caso e gênero. O Particípio Perfeito “Passivo” tem um significado ativo com verbos intransitivos (verbos sem objeto direto) e verbos de movimento.
 
 Exemplo:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = “A mulher kṣatriya foi para a cidade.”
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = “A mulher kṣatriya foi para a cidade.”
 :::
 
 ### 12.1.3. Esquema II para verbos intransitivos e verbos de movimento
@@ -51,7 +51,7 @@ Exemplo:
 **Agente (kartṛ) no Instrumental (tṛtīyā) -- PPP no Nominativo Singular Neutro**
 
 Exemplo:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Pelo kṣatriya foi-se (à cidade)) = O kṣatriya foi (à cidade).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Pelo kṣatriya foi-se (à cidade)) = O kṣatriya foi (à cidade).“
 
 A construção segundo o Esquema II é muito mais rara que a construção segundo o Esquema I.
 :::

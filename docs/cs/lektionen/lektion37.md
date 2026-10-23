@@ -2,7 +2,7 @@
 title: "Lekce 37"
 subtitle: "Adverbia (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -323,7 +323,7 @@ Příklad:
 ::: grammar-box
 Schéma II:
 
-> Tázací částice (většinou na začátku věty) – věta
+Tázací částice (většinou na začátku věty) – věta
 
 Nejdůležitější tázací částice jsou:
 
@@ -334,7 +334,7 @@ Nejdůležitější tázací částice jsou:
 *   ⟪कच्चिद्⟫
 
 
-> Tyto částice odpovídají otazníku.
+Tyto částice odpovídají otazníku.
 :::
 Příklad:
 ::: indent

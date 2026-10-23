@@ -2,7 +2,7 @@
 title: "පාඩම 20"
 subtitle: "ආත්මාර්ථක බහුව्रीහි = ⟪बहुव्रीहि⟫ පු."
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

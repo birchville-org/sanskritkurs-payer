@@ -2,7 +2,7 @@
 title: "Exercice 23"
 uebung_id: 23
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -209,9 +209,9 @@ C) Donnez les formes de base (sens, classe de présent, mode, 3e sg. présent in
 | Absolutif 1 | ⟪हत्वा⟫ |
 | Absolutif 2 | -⟪हत्य⟫ |
 | Infinitif | ⟪हन्तुम्⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 Fig. : ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung036))
-::::
 :::

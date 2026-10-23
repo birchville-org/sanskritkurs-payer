@@ -2,7 +2,7 @@
 title: "Esercizio 32"
 uebung_id: 32
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -209,11 +209,11 @@ Determinare e tradurre le seguenti parole:
 | ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | tra gli incaricati |
 | ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Kaus. | insegna |
 | ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | fanno leggere |
-:::: media
+:::
+::: media
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung051))
-::::
 :::
 ---
 

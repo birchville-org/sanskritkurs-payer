@@ -2,7 +2,7 @@
 title: "第7课"
 subtitle: "带直接宾语的动词句"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # 第7课
 
 
-::: center
+::: verse-box
 **本周格言**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **结构：**
 **(施事者 = kartṛ m. = ⟪कर्तृ⟫) – 直接宾语 (karman n. = ⟪कर्मन्⟫) – 动词**
+:::
 
+::: indent
 例如
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : “罗摩吃（咀嚼）水果。”
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : “婆罗门以祭祀（为他人）供奉神。”

@@ -2,7 +2,7 @@
 title: "Lesing 51"
 subtitle: "⟪उपपद⟫-komposities"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -270,66 +270,69 @@ Manlijk, Vrouwelijk:
 
 :::
 ::: indent
-> Enkelvoud:
+Enkelvoud:
 
 :::
 ::: indent
-> Nominatief-Vocatief ⟪घुट्⟫ (Grassmanns wet van hauchdissimilatie: ⟪गुढ्⟫ + s)
-> Accusatief ⟪गुहम्⟫
+Nominatief-Vocatief ⟪घुट्⟫ (Grassmanns wet van hauchdissimilatie: ⟪गुढ्⟫ + s)
+Accusatief ⟪गुहम्⟫
 :::
-> Meervoud:
+Meervoud:
 
 ::: indent
-> Instrumentalis ⟪घुड्भिस्⟫
+Instrumentalis ⟪घुड्भिस्⟫
 Lokatief ⟪घुट्सु⟫
 :::
-> ⟪द्रुह्⟫ "schadelijk, hatend" (optioneel -ḍh/-gh)
+⟪द्रुह्⟫ "schadelijk, hatend" (optioneel -ḍh/-gh)
 
 Manlijk, Vrouwelijk:
 
 ::: indent
-> Enkelvoud:
+Enkelvoud:
 
 :::
 ::: indent
-> Nominatief-Vocatief ⟪ध्रुट् । ध्रुक्⟫
-> Accusatief ⟪द्रुहम्⟫
+Nominatief-Vocatief ⟪ध्रुट् । ध्रुक्⟫
+Accusatief ⟪द्रुहम्⟫
 :::
-> Meervoud:
+Meervoud:
 
 ::: indent
-> Instrumentalis ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
+Instrumentalis ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
 Lokatief ⟪ध्रुट्सु । ध्रुक्षु⟫
 :::
-> ## 51.3. Sandhi van aanvangend h-
+## 51.3. Sandhi van aanvangend h-
 
 ::: grammar-box
-> **Voor aanvangend h- wordt een voorafgaande sluitklank vervangen door de overeenkomstige stemmeloze niet-aspirat en het aanvangende h- door de bij deze sluitklank behorende stemmige aspirat:**
+**Voor aanvangend h- wordt een voorafgaande sluitklank vervangen door de overeenkomstige stemmeloze niet-aspirat en het aanvangende h- door de bij deze sluitklank behorende stemmige aspirat:**
 
 :::
-> ::: indent
-> ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-> ## 51.4. Sandhi van aanvangend ch-
+::: indent
+⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+## 51.4. Sandhi van aanvangend ch-
 
+:::
 ::: grammar-box
-> **Aanvangend ch- wordt na korte klinker, na ⟪मा⟫ "niet" en na ⟪आ⟫ "naar" vervangen door cch-:**
+**Aanvangend ch- wordt na korte klinker, na ⟪मा⟫ "niet" en na ⟪आ⟫ "naar" vervangen door cch-:**
 
 :::
-> ::: indent
-> ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
-> ## 51.5. -ch- in het woord
+::: indent
+⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
+## 51.5. -ch- in het woord
 
+:::
 ::: grammar-box
-> **In het woord wordt -ch- na alle klinkers vervangen door -cch-:**
+**In het woord wordt -ch- na alle klinkers vervangen door -cch-:**
 
 :::
-> ::: indent
-> bijv. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-> ## 51.6. Woordenlijst
+::: indent
+bijv. ⟪छिद्⟫ » ⟪चिच्छेद⟫
+## 51.6. Woordenlijst
 
 ⟪अजिन⟫ n.: antilopehuid, met name de huid van de zwarte antiloop (Hirschziegenantilope : _Antilope cervicapra_ L. ). Oorspronkelijk voorkomend op het hele Indische subcontinent van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி) Zie:
-> **Walker's Mammals of the World** / Ronald M. Nowak. -- 6de uitg. -- Baltimore \[et al.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Bd. 2. -- bl. 1193v.v.
+**Walker's Mammals of the World** / Ronald M. Nowak. -- 6de uitg. -- Baltimore \[et al.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Bd. 2. -- bl. 1193v.v.
 
+:::
 ::: media
 ![](/images/lekt5105.webp)
 Afb.:

@@ -2,7 +2,7 @@
 title: "பாடம் 26"
 subtitle: "சொல்லின் உள்ளே -s- க்கான மூளைப்படுத்தல் விதி"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

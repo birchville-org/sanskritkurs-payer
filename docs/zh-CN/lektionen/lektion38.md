@@ -2,7 +2,7 @@
 title: 第38课
 subtitle: "本周口号"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

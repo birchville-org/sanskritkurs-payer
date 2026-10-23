@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (stav služebníků).
 
-::: note-box Čtyři stavy (varna)
+::: note-box
+**Čtyři stavy (varna)**
+
 
 Podle klasické teorie (např. Manusmṛti I, 88-91) jsou úkoly rozděleny:
 
@@ -510,9 +512,6 @@ k **yaj** 1 U:
 
 V Indii se věřilo, že pravdivé slovo má kouzelnou moc; dokonce celý světový řád je udržován a stvořen pravdivým slovem. K této důležité představě viz základní dílo:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozůstalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Sv. 2: Varuna a Ṛta. -- 1959. -- XXIII S., s. 340 - 764
 
@@ -556,7 +555,7 @@ Obr.: ⟪विश्वामित्रः⟫
 **prach** 6. tř. (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ptát se (někoho: akuzativ; na něco: akuzativ)
 **saha** ⟪सह⟫ : spolu s, společně s (také u „bojovat proti“ atd.) (postpozice s instrumentálem)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozůstalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Sv. 2: Varuna a Ṛta. -- 1959. -- XXIII str., str. 340 - 764
 
@@ -600,7 +599,7 @@ Obr.: ⟪विश्वामित्रः⟫
 **prach** 6. tř. (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ptát se (někoho: akuzativ; na něco: akuzativ)
 **saha** ⟪सह⟫ : spolu s, společně s (také u „bojovat proti“ atd.) (postpozice s instrumentálem)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozůstalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Svazek 2: Varuna a Ṛta. -- 1959. -- XXIII stran, str. 340 - 764
 
@@ -833,17 +832,19 @@ Naučte se následující slova:
 **eva** ⟪एव⟫ : zdůrazňuje předchozí slovo
 **asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Duchovno, božsky.'
->
-> V nejstarších částech Rigvédy je tento termín používán pro Nejvyššího ducha a je totožný s Ahurou zoroastriánů. Ve smyslu 'bůh' byl aplikován na několik hlavních božstev, jako jsou Indra, Agni a Varuṇa. Později získal zcela opačný význam a začal znamenat, jak je tomu nyní, démona nebo nepřítele bohů.
->
-> Toto slovo se vyskytuje s tímto významem v pozdějších částech Rigvédy, zejména v poslední knize, a také ve Atharvavédě. Bráhmany přikládají stejné významy a zaznamenávají mnoho soubojů mezi Asury a bohy. Podle Taittiríja Bráhmany dech *(asu)* Prajápatiho ožil a "tímto dechem jsem stvořil Asury." V jiné části stejného dílu se říká, že Prajápati "otěhotněl. Stvořil Asury ze svého břicha." Šatapatha Bráhmana souhlasí s prvním tvrzením a uvádí, že "stvořil Asury ze svého spodního dechu." Taittiríja Áranjaka představuje, že Prajápati stvořil bohy, lidi, otce, Gandharvy a Apsarasy z vody a že Asurové, Rákšasové a piśácowé vzešli z kapek, které se rozlily. Manuovo tvrzení je, že byli stvořeni Prajápatis.
->
-> Podle Višňu Purány byli zplodeni ze stehna Brahmova (prajápatiho). Popis Váju Purány je: "Asurové byli nejprve zplodeni jako synové ze stehna (Prajápatiho). *Asu* je prohlášeno Bráhmánou za dech. Z něj byli tito bytosti zplodeni; proto jsou Asurové." Slovo bylo dlouho používáno jako obecný název pro nepřátele bohů, včetně Daityas a Danavas a dalších potomků Kašjapových, ale nezahrnuje Rákšasy zrozené z Pulasty.
->
-> V tomto smyslu byl pro něj nalezen jiný původ: zdrojem již není asu, 'dech', ale počáteční *a* je bráno jako záporná předpona, a asura znamená 'ne bůh;' tedy podle některých vzniklo slovo *súra*, běžně používané pro 'bůh'."
->
-> [Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duchovno, božsky.'
+
+V nejstarších částech Rigvédy je tento termín používán pro Nejvyššího ducha a je totožný s Ahurou zoroastriánů. Ve smyslu 'bůh' byl aplikován na několik hlavních božstev, jako jsou Indra, Agni a Varuṇa. Později získal zcela opačný význam a začal znamenat, jak je tomu nyní, démona nebo nepřítele bohů.
+
+Toto slovo se vyskytuje s tímto významem v pozdějších částech Rigvédy, zejména v poslední knize, a také ve Atharvavédě. Bráhmany přikládají stejné významy a zaznamenávají mnoho soubojů mezi Asury a bohy. Podle Taittiríja Bráhmany dech *(asu)* Prajápatiho ožil a "tímto dechem jsem stvořil Asury." V jiné části stejného dílu se říká, že Prajápati "otěhotněl. Stvořil Asury ze svého břicha." Šatapatha Bráhmana souhlasí s prvním tvrzením a uvádí, že "stvořil Asury ze svého spodního dechu." Taittiríja Áranjaka představuje, že Prajápati stvořil bohy, lidi, otce, Gandharvy a Apsarasy z vody a že Asurové, Rákšasové a piśácowé vzešli z kapek, které se rozlily. Manuovo tvrzení je, že byli stvořeni Prajápatis.
+
+Podle Višňu Purány byli zplodeni ze stehna Brahmova (prajápatiho). Popis Váju Purány je: "Asurové byli nejprve zplodeni jako synové ze stehna (Prajápatiho). *Asu* je prohlášeno Bráhmánou za dech. Z něj byli tito bytosti zplodeni; proto jsou Asurové." Slovo bylo dlouho používáno jako obecný název pro nepřátele bohů, včetně Daityas a Danavas a dalších potomků Kašjapových, ale nezahrnuje Rákšasy zrozené z Pulasty.
+
+V tomto smyslu byl pro něj nalezen jiný původ: zdrojem již není asu, 'dech', ale počáteční *a* je bráno jako záporná předpona, a asura znamená 'ne bůh;' tedy podle některých vzniklo slovo *súra*, běžně používané pro 'bůh'."
+
+[Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4754,7 +4755,9 @@ z toho:
 
 K ⟪राहु⟫ a ⟪केतु⟫ viz:
 
-> **Payer, Alois (1944–):** Dharmashastra : Úvod a přehled. -- 10. Sakramenta a obřady přechodu (samskára). -- Příloha C: Rahu a Ketu, neviditelné poutající planety . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Úvod a přehled. -- 10. Sakramenta a obřady přechodu (samskára). -- Příloha C: Rahu a Ketu, neviditelné poutající planety . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5551,7 +5554,9 @@ v ostatních časech se nepoužívá
 
 ⟪अजिन⟫ n.: kůže antilopy, zejména kůže černé antilopy (hirschziegenantilopa : _Antilope cervicapra_ L. ). Původně se vyskytovala na celém indickém subkontinentu od Punjabu a Sindhu až po Bengál a od Nepálu až po Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Viz:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 svazky. -- ISBN 0-8018-5789-9. -- Svazek 2. -- S. 1193následující
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 svazky. -- ISBN 0-8018-5789-9. -- Svazek 2. -- S. 1193následující
+:::
 
 ::: media
 

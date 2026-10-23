@@ -2,7 +2,7 @@
 title: "Bài 59"
 subtitle: "Các hậu tố nhị nguyên thứ cấp và hậu tố mệnh lệnh của số đôi (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

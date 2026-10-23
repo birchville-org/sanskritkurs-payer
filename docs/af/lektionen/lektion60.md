@@ -2,7 +2,7 @@
 title: "Lesing 60"
 subtitle: "Die duaal-perfekuitgang (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

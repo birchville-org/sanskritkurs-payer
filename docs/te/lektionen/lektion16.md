@@ -2,7 +2,7 @@
 title: "పాఠం 16"
 subtitle: "అంత్య వ్యంజనాల సందీ విషయంలో"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

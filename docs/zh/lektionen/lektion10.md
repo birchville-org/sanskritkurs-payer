@@ -2,7 +2,7 @@
 title: "第10課"
 subtitle: "被動句（施事工具格）"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **句型：**
 **(施事者 - kartṛ - 工具格 (tṛtīyā)) - (直接受事者 - karman - 主格) - 被動語態動詞形式**
+:::
 
+::: indent
 例如 **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = 「一位婆羅門以祭祀供奉一位神祇」（字面意思：「一位神祇被一位婆羅門以祭祀所供奉。」）
-
 此句與以下句子**完全（！）意義相同**：
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ status: stable
 :::
 梵語被動結構非常常見：畢竟，被動的構建比例如許多現在時詞幹更容易。
 
-::: important
+::: warning-box
 **梵語被動句在德語中通常不能用被動句來表達，因為德語的被動具有完全不同的風格功能。**
 :::
 
@@ -234,8 +235,6 @@ status: stable
 ::: note-box
 在印度，人們認為真實的言語具有魔力；甚至整個宇宙秩序都是透過真理之言而維持與創造的。關於這一重要觀念，請參見基礎著作：
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf從遺稿中編輯出版。-哥廷根：Vandenhoeck & Ruprecht。-- 第2卷：Varuna與Ṛta。-- 1959年。-- XXIII頁，第340 - 764頁
 :::
 
@@ -369,7 +368,7 @@ Lüders, Heinrich (1869–1943)：Varuna / Heinrich Lüders。由Ludwig Alsdorf�
 **請閱讀並翻譯，然後轉換為被動語態：**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

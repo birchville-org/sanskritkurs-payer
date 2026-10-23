@@ -2,7 +2,7 @@
 title: "Exercice 47"
 uebung_id: 47
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

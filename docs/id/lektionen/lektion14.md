@@ -2,7 +2,7 @@
 title: "Pelajaran 14"
 subtitle: "Ungkapan hubungan yang ditunjuk oleh kata benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Contoh-contoh:
 ::: grammar-box
 Urutan kata yang normal adalah:
 
-> **Kata penentu dalam Genitif — Kata benda yang ditentukan lebih lanjut dalam kasus lain**
+**Kata penentu dalam Genitif — Kata benda yang ditentukan lebih lanjut dalam kasus lain**
 :::
 **Genitif dan PPP:**
 
@@ -37,9 +37,9 @@ Pada PPP, genitif dapat menggantikan instrumentalis (tṛtīyā) untuk agen (kar
 
 Menurut Pāṇini 2.3.67, pada PPP genitif digunakan jika PPP memiliki makna present (lihat di atas), dan instrumentalis digunakan jika PPP memiliki makna lampau:
 
-> ⟪रामस्येष्टं फलम्⟫ "Buah yang diinginkan Rāma = Buah yang saat ini diinginkan oleh Rāma"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Buah yang telah diinginkan oleh Rāma"
+⟪रामस्येष्टं फलम्⟫ "Buah yang diinginkan Rāma = Buah yang saat ini diinginkan oleh Rāma"
+
+⟪रामेणेष्टं फलम्⟫ "Buah yang telah diinginkan oleh Rāma"
 
 Tentu saja, untuk PPP Neutrum Singular yang digunakan sebagai abstrak verbal - yaitu sebagai kata benda - maka digunakan Genetif.
 :::
@@ -56,7 +56,7 @@ Setelah konsonan, akhiran Genetif yang teratur adalah:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Akar Nominal | Bentuk Lemah | Genetif Singular | Genetif Plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Setelah konsonan, akhiran Genetif yang teratur adalah:
 
 Genetif Plural untuk akar yang berakhiran vokal dibentuk sebagai berikut:
 
-> **-vokal panjang akhir dari akar + -nām**
+**-vokal panjang akhir dari akar + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Akar Nominal | Genetif Plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Genetif Plural untuk akar yang berakhiran vokal dibentuk sebagai berikut:
 Genetif tunggal untuk stem vokal dibentuk secara tidak teratur dan harus dihafal dengan baik.
 
 :::
-::: center
+::: verse-box
 
 | Stem | Genetif Tunggal |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Genetif tunggal untuk stem vokal dibentuk secara tidak teratur dan harus dihafal
 :::
 **Kata ganti tanya dan kata ganti demonstratif:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Genetif tunggal untuk stem vokal dibentuk secara tidak teratur dan harus dihafal
 :::
 **Kesamaan bentuk:**
 
-::: important
+::: warning-box
 
 Pada semua stem nominal kecuali maskulinum dan neutrum berakhiran -a serta kata ganti, bentuk Genetif Tunggal identik dengan bentuk Ablatif (pañcamī "akhiran kasus kelima") Tunggal!
 
@@ -136,11 +136,11 @@ Perhatikan bahwa pada stem yang berakhir dengan konsonan, Ablativ dan Genetif Si
 ::: grammar-box
 Bertentangan dengan aturan dasar di atas, Genetif digunakan untuk menyatakan objek dari beberapa kata kerja, misalnya pada kata kerja mengingat:
 
-> ⟪देवानां स्मरति⟫ "Ia mengingat para dewa"
+⟪देवानां स्मरति⟫ "Ia mengingat para dewa"
 
 Namun, objek untuk semua kata kerja ini juga dapat berada dalam Akkusativ:
 
-> ⟪देवान्स्मरति⟫ "Ia mengingat para dewa"
+⟪देवान्स्मरति⟫ "Ia mengingat para dewa"
 
 Lebih lanjut nanti.
 :::

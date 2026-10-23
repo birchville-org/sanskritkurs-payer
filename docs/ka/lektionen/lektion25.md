@@ -2,7 +2,7 @@
 title: "ლექცია 25"
 subtitle: 'აბლატივის წარმოქმნა (⟪पञ्चमी⟫ = \"მეხუთე კასუსის დანართი\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Bài 23"
 subtitle: "Động từ nguyên mẫu (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Nếu muốn diễn đạt trong tiếng Phạn rằng một hành động xảy ra vì mục đích của một hành động khác ("để"), có thể sử dụng động từ nguyên mẫu (⟪तुमुन्⟫) cho hành động mà mục đích của nó là thực hiện. Động từ nguyên mẫu trước hết chỉ mục đích hoặc ý định:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma đã đi để nghe lời giảng của thầy."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma đã đi để nghe lời giảng của thầy."
 
 **Lưu ý rằng động từ nguyên mẫu — với một số ngoại lệ được xác định rõ ràng — không thể đứng làm chủ ngữ hoặc tân ngữ của động từ:**
 
-> "Anh ấy học nhảy" không được dịch bằng động từ nguyên mẫu ("nhảy"), mà phải sử dụng danh động từ, ví dụ: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "học").
+"Anh ấy học nhảy" không được dịch bằng động từ nguyên mẫu ("nhảy"), mà phải sử dụng danh động từ, ví dụ: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "học").
 
 **Động từ nguyên mẫu cũng được sử dụng với các động từ và danh từ mang nghĩa "mong muốn" hoặc "nhớ nhung", khi tác giả (⟪कर्तृ⟫) của động từ nguyên mẫu và động từ là giống nhau:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma mong muốn nghe lời giảng của thầy."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma mong muốn nghe lời giảng của thầy."
 
 **Động từ nguyên mẫu cũng được sử dụng với các động từ mang nghĩa "có khả năng", "tồn tại", "biết", "bắt đầu":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Một vị thánh không thể làm điều sai trái."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Có thức ăn để ăn" (⟪भुज्⟫ 7: Ā: ăn, P: cai trị)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Một vị thánh không thể làm điều sai trái."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Có thức ăn để ăn" (⟪भुज्⟫ 7: Ā: ăn, P: cai trị)
 
 **Động từ nguyên mẫu cũng được sử dụng với các từ mang nghĩa "đủ", "có khả năng" và với danh từ mang nghĩa "khả năng", "sức mạnh", "kỹ năng":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Lửa có sức mạnh thiêu rụi mọi thứ."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Lửa có sức mạnh thiêu rụi mọi thứ."
 
 **Ngay cả với các từ mang nghĩa "thời gian", động từ nguyên mẫu cũng có thể được sử dụng trong các cụm từ như "Đã đến lúc ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Đã đến lúc dành thời gian cho việc ăn uống" = "Đã đến lúc ăn"
+⟪कालो भोजनं सेवितुम्⟫ = "Đã đến lúc dành thời gian cho việc ăn uống" = "Đã đến lúc ăn"
 
 **Động từ nguyên mẫu có thể được sử dụng ở dạng chủ động và bị động. Một động từ nguyên mẫu bị động trong tiếng Đức được diễn đạt trong tiếng Sanskrit bằng cách chuyển động từ (đặc biệt thường xuyên là ⟪शक्⟩ "có khả năng, có thể"), mà động từ nguyên mẫu phụ thuộc vào nó, sang dạng bị động.**
 
@@ -44,13 +44,13 @@ status: stable
 
 ví dụ như
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Một vị thánh không thể làm điều sai trái."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Một vị thánh không thể làm điều sai trái."
 
 **Ở ngôi thứ hai, ⟪अर्ह्⟩ + động từ nguyên mẫu thường được sử dụng như một mệnh lệnh nhẹ nhàng: "Bạn nên".**
 
 **Khi động từ nguyên mẫu phụ thuộc vào một danh từ, nó không được hợp thành với danh từ đó. Ngoại lệ là các từ Bahuvrīhi, mà phần thứ hai của chúng là ⟪काम⟩ hoặc ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "người mà mong muốn của người đó là nói; một người muốn nói".
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "người mà mong muốn của người đó là nói; một người muốn nói".
 :::
 ## 23.2. Hình thành động từ nguyên mẫu (⟪तुमुन्⟩)
 

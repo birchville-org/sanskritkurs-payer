@@ -2,7 +2,7 @@
 title: "Bài 41"
 subtitle: "⟪सुभाषिते⟫ (hai tục ngữ)"
 lesson_id: 41
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

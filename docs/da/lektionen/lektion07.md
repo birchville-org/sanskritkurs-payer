@@ -2,7 +2,7 @@
 title: "Lektion 7"
 subtitle: "Verbalsætningen med direkte objekt"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lektion 7
 
 
-::: center
+::: verse-box
 **Ugens ord**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Gud sejrer, ikke modguden.
 ::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – direkte objekt (karman n. = ⟪कर्मन्⟫) – verbum**
+:::
 
+::: indent
 f.eks.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma spiser (kaut) en frugt."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahmanen tilbeder en gud med et offer (for nogen anden)."

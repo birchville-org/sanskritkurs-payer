@@ -2,7 +2,7 @@
 title: "ትምህርት 46"
 subtitle: "የሁለተኛ ሰው ተግባር ቅርጾች መፍጠር (⟪मध्यमः⟫) ፐርፌክት (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ Absol. -⟪ग्राह्य⟫
 
 ስለ ⟪राहु⟫ እና ⟪केतु⟫ እይታ፡-
 
-> **ፓየር፣ አሎይስ (1944–)፡** Dharmashastra : ማስተዋወቂያ እና አጠቃላይ እይታ። -- 10. ሳክራመንቶች እና የሽግግር ሥነ-ሥርዓቶች (samskara)። -- ተጨማሪ C፡ ራሁ እና ኬቱ፣ ያልታዩ የሚንቀሳቀሱ ኮከቦች ። -- URL፡ [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**ፓየር፣ አሎይስ (1944–)፡** Dharmashastra : ማስተዋወቂያ እና አጠቃላይ እይታ። -- 10. ሳክራመንቶች እና የሽግግር ሥነ-ሥርዓቶች (samskara)። -- ተጨማሪ C፡ ራሁ እና ኬቱ፣ ያልታዩ የሚንቀሳቀሱ ኮከቦች ። -- URL፡ [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

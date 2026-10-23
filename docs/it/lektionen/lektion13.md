@@ -2,7 +2,7 @@
 title: "Lezione 13"
 subtitle: "PPP su -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -165,17 +165,19 @@ Imparate le seguenti parole:
 **eva** ⟪एव⟫ : enfatizza la parola precedente
 **asura** m. ⟪असुर⟫ : demone
 
-> **ASURA.** 'Spirituale, divino.'
-\>
-> Nelle parti più antiche del Ṛgveda questo termine è usato per lo spirito supremo, ed è lo stesso dell'Ahura degli zoroastriani. Nel senso di 'dio' fu applicato a diverse divinità principali, come Indra, Agni e Varuṇa. In seguito acquisì un significato completamente opposto, venendo a significare, come ora, un demone o nemico degli dèi.
-\>
-> La parola si trova con questa significazione nelle parti più tarde del Ṛgveda, in particolare nell'ultimo libro, e anche nello Atharvaveda. I Brāhmaṇa attribuiscono lo stesso significato e registrano molte contese tra gli Asura e gli dèi. Secondo il Taittirīya Brāhmaṇa, il respiro *(asu)* di Prajapati divenne vivo, e "con quel respiro creai io gli Asura." In un'altra parte dello stesso lavoro si dice che Prajāpati "divenne incinta. Creò gli Asura dal suo addome." Il Śatapatha Brāhmaṇa concorda con la prima affermazione, e afferma che "creò gli Asura dal suo respiro inferiore." Il Taittirīya Āraṇyaka rappresenta che Prajāpati creò dèi, uomini, padri, Gandharva e Apsarasi dall'acqua, e che gli Asura, i Rakṣasa e i piśāca nacquero dalle gocce che furono versate. L'affermazione di Manu è che furono creati dai Prajāpati.
-\>
-> Secondo il Viṣṇu Purāṇa, furono prodotti dall'inguine di Brahma (prajāpati). Il racconto del Vāyu Purāṇa è: "Gli Asura furono prima prodotti come figli dal suo (di Prajāpati) inguine. *Asu* è dichiarato dai Brāhmaṇa significare respiro. Da esso questi esseri furono prodotti; da ciò sono Asura." La parola è stata a lungo usata come nome generale per i nemici degli dèi, inclusi i Daitya e Danava e altri discendenti di Kaśyapa, ma non includendo i Rakṣasa discesi da Pulastya.
-\>
-> In questo senso è stata trovata una derivazione diversa: la fonte non è più asu, 'respiro,' ma l'iniziale *a* è presa come prefisso negativo, e *asura* significa 'non un dio;' da ciò, secondo alcuni, nacque la parola *sura,* comunemente usata per 'un dio.'"
-\>
-> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spirituale, divino.'
+
+Nelle parti più antiche del Ṛgveda questo termine è usato per lo spirito supremo, ed è lo stesso dell'Ahura degli zoroastriani. Nel senso di 'dio' fu applicato a diverse divinità principali, come Indra, Agni e Varuṇa. In seguito acquisì un significato completamente opposto, venendo a significare, come ora, un demone o nemico degli dèi.
+
+La parola si trova con questa significazione nelle parti più tarde del Ṛgveda, in particolare nell'ultimo libro, e anche nello Atharvaveda. I Brāhmaṇa attribuiscono lo stesso significato e registrano molte contese tra gli Asura e gli dèi. Secondo il Taittirīya Brāhmaṇa, il respiro *(asu)* di Prajapati divenne vivo, e "con quel respiro creai io gli Asura." In un'altra parte dello stesso lavoro si dice che Prajāpati "divenne incinta. Creò gli Asura dal suo addome." Il Śatapatha Brāhmaṇa concorda con la prima affermazione, e afferma che "creò gli Asura dal suo respiro inferiore." Il Taittirīya Āraṇyaka rappresenta che Prajāpati creò dèi, uomini, padri, Gandharva e Apsarasi dall'acqua, e che gli Asura, i Rakṣasa e i piśāca nacquero dalle gocce che furono versate. L'affermazione di Manu è che furono creati dai Prajāpati.
+
+Secondo il Viṣṇu Purāṇa, furono prodotti dall'inguine di Brahma (prajāpati). Il racconto del Vāyu Purāṇa è: "Gli Asura furono prima prodotti come figli dal suo (di Prajāpati) inguine. *Asu* è dichiarato dai Brāhmaṇa significare respiro. Da esso questi esseri furono prodotti; da ciò sono Asura." La parola è stata a lungo usata come nome generale per i nemici degli dèi, inclusi i Daitya e Danava e altri discendenti di Kaśyapa, ma non includendo i Rakṣasa discesi da Pulastya.
+
+In questo senso è stata trovata una derivazione diversa: la fonte non è più asu, 'respiro,' ma l'iniziale *a* è presa come prefisso negativo, e *asura* significa 'non un dio;' da ciò, secondo alcuni, nacque la parola *sura,* comunemente usata per 'un dio.'"
+
+[Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

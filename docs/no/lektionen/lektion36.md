@@ -2,7 +2,7 @@
 title: "Leksjon 36"
 subtitle: "Special formations of the perfect"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

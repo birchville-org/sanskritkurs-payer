@@ -2,7 +2,7 @@
 title: "Mësimi 16"
 subtitle: "Rreth Sandhi të bashkëtingëlloreve në fund"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

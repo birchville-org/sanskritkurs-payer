@@ -2,7 +2,7 @@
 title: "ਪਾਠ 46"
 subtitle: "ਦੂਜੇ ਵਿਅਕਤੀ ਦੇ ਕ੍ਰਿਆ ਰੂਪਾਂ ਦੀ ਬਣਤਰ (⟪मध्यमः⟫) ਪੂਰਬਕਾਲ (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ Absol. -⟪ग्राह्य⟫
 
 ⟪राहु⟫ ਅਤੇ ⟪केतु⟫ ਲਈ ਦੇਖੋ:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois \<1944 - \>:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

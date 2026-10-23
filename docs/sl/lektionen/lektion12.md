@@ -2,7 +2,7 @@
 title: "Učenje 12"
 subtitle: "Particij preteklika pasivnega glagola (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ V tem primeru se PPP ujema s predmetom v številu, sklonu in spolu.
 Pomožni glagol ("biti") ni potreben.
 
 Primeri:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetnika je bil dosežen nebes) = Svetnik je dosegel nebo."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je bila boginja s žrtvovanjem čaščena) = Brahman je boginjo s žrtvovanjem častil."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetnika je bil dosežen nebes) = Svetnik je dosegel nebo."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je bila boginja s žrtvovanjem čaščena) = Brahman je boginjo s žrtvovanjem častil."
 
 :::
 
@@ -47,7 +47,7 @@ Primeri:
 V tem primeru se PPP ujema z agentom v številu, sklonu in spolu. Participle Perfekt "Passiv" ima pri ne tranzitivnih glagolih (glagoli brez neposrednega predmeta) in glagolih gibanja aktivno pomen.
 
 Primer:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je šla v mesto."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je šla v mesto."
 
 :::
 
@@ -58,7 +58,7 @@ Primer:
 **Deležnik (kartṛ) v instrumentalni (tṛtīyā) – trpni deležnik preteklosti v imenovalniku ednine srednjega spola**
 
 Primer:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya je šel (v mesto)) = Kṣatriya je šel (v mesto).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya je šel (v mesto)) = Kṣatriya je šel (v mesto).“
 
 Konstrukcija po Shemi II je veliko redkejša kot konstrukcija po Shemi I.
 

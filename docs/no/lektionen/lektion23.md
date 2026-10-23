@@ -2,7 +2,7 @@
 title: "Leksjon 23"
 subtitle: "The Infinitive (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma has gone to hear the teacher's discourse."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma has gone to hear the teacher's discourse."
 
 **Note that the infinitive — with a few strictly defined exceptions — cannot stand as the subject or object of a verb:**
 
-> "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
+"He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
 
 **The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wishes to hear the teacher's discourse."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wishes to hear the teacher's discourse."
 
 **The infinitive is also used, among other things, with verbs in the meanings "to be able," "there exists," "to know," "to begin":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "A holy person cannot do wrong."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "A holy person cannot do wrong."
+⟪अस्ति भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
 
 **The infinitive is also used with words meaning "sufficient," "able," and with nouns in the meanings "ability," "power," "skill":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Fire has the power to burn everything."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Fire has the power to burn everything."
 
 **Even with words meaning "time," the infinitive can be used in expressions like "It is time to ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
+⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
 
 **The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, to can"), from which the infinitive depends, into the passive voice.**
 
@@ -44,13 +44,13 @@ status: stable
 
 e.g.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "A holy person cannot do wrong."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "A holy person cannot do wrong."
 
 **In the 2nd person, ⟪अर्ह्⟫ + infinitive is often used as a mild command: "You should."**
 
 **When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis whose second member is ⟪काम⟩ or ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "one whose wish it is to speak; one who wishes to speak".
+⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "one whose wish it is to speak; one who wishes to speak".
 :::
 ## 23.2. Formation of the Infinitive (⟪तुमुन्⟫)
 

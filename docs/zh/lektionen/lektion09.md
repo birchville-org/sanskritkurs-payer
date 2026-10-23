@@ -3,8 +3,8 @@ title: "第9課"
 subtitle: "Samāhāradvandva 與名詞後綴 -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

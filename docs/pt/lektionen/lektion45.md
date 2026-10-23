@@ -2,7 +2,7 @@
 title: "Lição 45"
 subtitle: "Formação das formas verbais da 2ª pessoa (⟪मध्यमः⟫) de temas atemáticos sem sufixo terminado em vogal (continuação)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

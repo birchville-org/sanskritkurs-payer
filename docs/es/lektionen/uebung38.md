@@ -2,7 +2,7 @@
 title: "Ejercicio 38"
 uebung_id: 38
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -56,11 +56,11 @@ Los buenos reyes regalan a los hombres la ausencia de temor.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Si los reyes no guardan la justicia y la costumbre, los hombres están llenos de temor.
-:::: media
+:::
+::: media
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung063))
-::::
 :::
 ---
 

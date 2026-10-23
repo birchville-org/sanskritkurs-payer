@@ -2,7 +2,7 @@
 title: "Lección 30"
 subtitle: 'La novena clase de presente (⟪क्र्यादि⟫ = \"⟪क्री⟫ etc.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

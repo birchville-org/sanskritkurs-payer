@@ -2,7 +2,7 @@
 title: "Lecție 12"
 subtitle: "Participiul Perfect Pasiv (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ O modalitate de a forma propozițiile la pasiv în trecut este construcția cu a
 Nu este necesar un verb auxiliar („a fi”).
 
 Exemple:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(De către sfânt a fost obținut un cer) = Sfântul a obținut un cer.”
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(De către brahman a fost onorată zeița cu un sacrificiu) = Brahmanul a onorat zeița cu un sacrificiu.”
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(De către sfânt a fost obținut un cer) = Sfântul a obținut un cer.”
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(De către brahman a fost onorată zeița cu un sacrificiu) = Brahmanul a onorat zeița cu un sacrificiu.”
 :::
 
 ### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
@@ -42,7 +42,7 @@ Exemple:
 În acest caz, PPP-ul se acordă cu agentul în număr, caz și gen. Participiul Perfecț „Passiv” are, în cazul verbelor intranzitive (verbe fără obiect direct) și al verbelor de mișcare, un sens activ.
 
 Exemplu:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Femeia kṣatriya a mers în oraș.”
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Femeia kṣatriya a mers în oraș.”
 :::
 
 ### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
@@ -51,7 +51,7 @@ Exemplu:
 **Agent (kartṛ) în instrumental (tṛtīyā) -- PPP la nominativ singular neutru**
 
 Exemplu:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(De către kṣatriya s-a mers (în oraș)) = Kṣatriya a mers (în oraș).”
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(De către kṣatriya s-a mers (în oraș)) = Kṣatriya a mers (în oraș).”
 
 Construcția conform Schema II este mult mai rară decât construcția conform Schema I.
 :::

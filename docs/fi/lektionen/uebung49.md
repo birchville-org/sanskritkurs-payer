@@ -2,7 +2,7 @@
 title: "Harjoitus 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Kuninkaan ⟪शूद्रक⟫ maasta ⟪विदिशा⟫ esittämät k
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kuninkaalla oli sanonut: "Jätetäänkö tämä kaikki menemään? Tyydyttäkää uteliaisuuteni! Herra, kerro alusta asti: Missä maassa sinut syntyi? Kuka antoi sinulle nimen? Kuka on äitisi? Miten sait Vedat? Miten tutustuit opinkirjoihin? Mistä hankit taidot? Muistatko aiempia syntymiä tai voitko täyttää toiveita? Vai asutko piilossa, kun pukeudut linnun vaatteisiin? Tai missä asuit aiemmin? Vai kuinka vanha olet? Miten joudut häkkiin? Ja miten päädyit cāṇḍalas-käsien väliin? Tai miten tulit tänne?"
-\>
-> Vaiśampāyana, joka oli maan isännän spontaanilla uteliaisuudella kysynyt suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!"
+::: indent
+Kuninkaalla oli sanonut: "Jätetäänkö tämä kaikki menemään? Tyydyttäkää uteliaisuuteni! Herra, kerro alusta asti: Missä maassa sinut syntyi? Kuka antoi sinulle nimen? Kuka on äitisi? Miten sait Vedat? Miten tutustuit opinkirjoihin? Mistä hankit taidot? Muistatko aiempia syntymiä tai voitko täyttää toiveita? Vai asutko piilossa, kun pukeudut linnun vaatteisiin? Tai missä asuit aiemmin? Vai kuinka vanha olet? Miten joudut häkkiin? Ja miten päädyit cāṇḍalas-käsien väliin? Tai miten tulit tänne?"
+
+Vaiśampāyana, joka oli maan isännän spontaanilla uteliaisuudella kysynyt suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

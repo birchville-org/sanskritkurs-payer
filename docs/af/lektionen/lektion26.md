@@ -2,7 +2,7 @@
 title: "Lesing 26"
 subtitle: "Cerebralisasiewet vir -s- binne in die woord"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

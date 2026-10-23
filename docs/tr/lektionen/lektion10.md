@@ -2,7 +2,7 @@
 title: "Ders 10"
 subtitle: "Edilgeniş cümle (Edici araç durumu)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Şema:**
 **(Eden - kartṛ - Aletlik halde (tṛtīyā)) - (Doğrudan nesne - karman - Yalın halde) - edilgen fiil biçimi**
+:::
 
+::: indent
 Örn. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Bir Brahman bir tanrıya kurbanla ibadet eder" (kelimesi kelimesine: "Bir tanrı bir Brahman tarafından kurbanla ibadet edilir.")
-
 Bu cümle **tamamen (!) anlamca eşdeğerdir** şu cümleye:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatif: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो
 :::
 Sanskrit-geçil yapıları son derece yaygındır: zira geçil, örneğin çok sayıda şimdiki zaman kökü oluşturmak kadar kolaydır.
 
-::: important
+::: warning-box
 **Sanskritçe geçil cümleler genel olarak Almancada bir geçil cümlesi ile karşılanmamalıdır, çünkü Almanca geçili tamamen farklı bir üslup işlevine sahiptir.**
 :::
 
@@ -234,8 +235,6 @@ Bu derin aşamada **ya** veya **va** ile biten fiiller için geleneksel yerel ad
 ::: note-box
 Hindistan'da doğru söze sihirli güç atfedilirdi; hatta tüm dünya düzeni doğru söz tarafından korunur ve yaratılır. Bu önemli kavram için temel eser:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ölümünden sonra Ludwig Alsdorf tarafından yayımlanmıştır. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Resim: ⟪तन्तुवायः⟫
 **Okuyun, çevirin ve edilgen yapıya dönüştürün:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

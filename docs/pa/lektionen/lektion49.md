@@ -2,7 +2,7 @@
 title: "ਪਾਠ 49"
 subtitle: "ਅਥੇਮੈਟਿਕ ਪ੍ਰੇਸੈਂਟ ਸਟੈਮਾਂ ਦੇ ਇੰਪ੍ਰੈਟਿਵ ਦਾ ਗਠਨ (⟪लोट्⟫) (ਜਾਰੀ)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

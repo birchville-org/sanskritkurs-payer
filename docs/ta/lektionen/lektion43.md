@@ -2,7 +2,7 @@
 title: "பாடம் 43"
 subtitle: 'இரண்டாம் நபருக்கான சொல் முடிப்புகள் (⟪मध्यमः⟫ = "இடைநிலை <மனிதர்>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

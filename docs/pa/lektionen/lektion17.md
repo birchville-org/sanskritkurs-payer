@@ -2,7 +2,7 @@
 title: "ਪਾਠ 17"
 subtitle: "ਦੂਜੀ ਵਰਤਮਾਨ ਕਲਾ (⟪अदादि⟫ = ⟪अद्⟫ ਆਦਿ)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

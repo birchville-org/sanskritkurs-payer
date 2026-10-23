@@ -2,7 +2,7 @@
 title: "ትምህርት 45"
 subtitle: "የሁለተኛ ሰው ተግባር ቅርጾች መፍጠር (⟪मध्यमः⟫) በድምጺ የማይጠናቀቁ ቅጦች ላይ ቀጣይነት"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

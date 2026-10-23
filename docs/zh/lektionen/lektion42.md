@@ -2,7 +2,7 @@
 title: "第42課"
 subtitle: "以 -ṛ 結尾的詞幹"
 lesson_id: 42
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

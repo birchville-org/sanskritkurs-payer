@@ -2,7 +2,7 @@
 title: "Lecke 3"
 subtitle: "A nőnemű egyes szám birtokos esete"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ A nominativus singularist végződés nélkül képezik:
 **-ā**-ra végződő femininumok: pl. **devatā** f. "isten" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **-ī**-re végződő femininumok: pl. **devī** f. "istennő" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Figyelem!** Mellettük léteznek egy szótagú, femininum gyökérnevek -ī végződéssel, amelyek nominativus singularisa -s-ra végződik: pl. dhī f. "gondolat" -- Nom. sg.: dhīs = ⟪धीस्⟫. A lakṣmī (⟪लक्ष्मी⟫) f., a tarī (⟪तरी⟫) f. "csónak" és a tantrī (⟪तन्त्री⟫) f. "húr" is szabálytalanul képez -s végű nominativus singularist: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ pl.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā egy istennő” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā az ételek és a főzés istennője, őt Pārvatī megtestesülésének tartják, Śiva feleségéé.)
+::: indent
+(Annapūrṇā az ételek és a főzés istennője, őt Pārvatī megtestesülésének tartják, Śiva feleségéé.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrāṇī egy istennő” = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī Indra isten felesége.)
+::: indent
+(Indrāṇī Indra isten felesége.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ pl.
 
 devī + umā » devy umā „Umā egy / a istennő” = ⟪देव्युमा⟫
 
-> (Umā Pārvatī neve, Śiva felesége)
+::: indent
+(Umā Pārvatī neve, Śiva felesége)
+:::
 
 ::: grammar-box
 **-a / -ā idegen magánhangzó előtt:**

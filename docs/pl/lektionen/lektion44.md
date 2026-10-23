@@ -2,7 +2,7 @@
 title: "Lekcja 44"
 subtitle: "Tworzenie form czasownikowych drugiej osoby (⟪मध्यमः⟫) stemów atematycznych z sufiksem kończącym się na samogłoskę"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ np. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 
 Indyjscy gramatycy nie uznają wołacza (⟪आमन्त्रितम्⟫) za samodzielny przypadek, lecz jedynie jako modyfikację nominatywu (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Wołacz służy wezwaniu, zwracaniu się do kogoś i stoi poza związkiem z resztą zdania, różniąc się tym od innych przypadków, które wyrażają relację do czasownika lub innego rzeczownika.**
 
@@ -251,7 +251,7 @@ Indyjscy gramatycy nie uznają wołacza (⟪आमन्त्रितम्⟫
 
 :::
 
-::: important
+::: warning-box
 
 **Należy unikać tłumaczenia wołacza przy użyciu "**O** ...". W języku niemieckim stale używamy wołaczy, np. gdy mówimy: "Skořyszczu, co dziś gotujemy?". Nikt nie powiedziałby w tym znaczeniu: "**O** Skořyszczu, co dziś gotujemy?"**
 

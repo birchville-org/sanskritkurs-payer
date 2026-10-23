@@ -2,7 +2,7 @@
 title: "Ejercicio 27"
 uebung_id: 27
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -70,5 +70,4 @@ Si los maestros enseñan, los niños bien educados no deben charlar (hablar).
 ![](/images/uebung044.webp)
 Fig.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung044))
-::: \<!--  --\>
 :::

@@ -2,7 +2,7 @@
 title: "Pamoka 7"
 subtitle: "Veikiamasis sakinys su tiesioginiu papildiniu"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Pamoka 7
 
 
-::: center
+::: verse-box
 **Savaitės posakis**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Dievas nugalėdamas, o ne priešingas dievas.
 ::: grammar-box
 **Schema:**
 **(Agentas = kartṛ m. = ⟪कर्तृ⟫) – tiesioginis papildinys (karman n. = ⟪कर्मन्⟫) – veiksmažodis**
+:::
 
+::: indent
 pvz.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : „Rāma valgo (kaut) vaisių.“
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : „Brahmanas garbina dievą aukodamas (kam nors kitam).“

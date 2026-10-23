@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ La ⟪त्रिष्टुभ्⟩ ha dus schemas fundamentals, a secondar 
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 La quantitad dals ultims quatter silbas è uschia en dambes schemis la medema.
 
 ⟪जगती⟫-forma base: sco ⟪त्रिष्टुभ्⟫, ma cun 12 silbas. Las ultimas 5 silbas da mintga Pada resalvan las suentas quantitads:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Ensimul exista la cunvegionda tipica ⟨त्रिष्टुभ्⟩ cun in cumenzament quintersilabic, la quala cuntinuescha sco ina ⟨त्रिष्टुभ्⟩ cun in cumenzament quatersilabic:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 En pli tard vegnan las furmas da ⟪त्रिष्टुभ्⟫ fixadas suenter in schema strict da lungids e curtidas, la cesura n’ha pli nagina importanza. Las furmas pli impurtantas da pli tard èn:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

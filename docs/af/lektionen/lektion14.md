@@ -2,7 +2,7 @@
 title: "Lesion 14"
 subtitle: "Die uitdrukking van die verhouding tussen dinge wat deur selfstandige naamwoorde aangedui word: die genitief (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesde kasusuitgang)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -54,7 +54,7 @@ Na 'n medeklinker is die gereelde genitief-uitgange:
 * Meervoud: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Selfstandige naamwoordstam | Swak stam | Genitief enkelvoud | Genitief meervoud |
 | :--- | :--- | :--- | :--- |
@@ -71,7 +71,7 @@ Na 'n medeklinker is die gereelde genitief-uitgange:
 Die genitief meervoud van stam eindigend op 'n vokaal word soos volg gevorm: **finale lang vokaal van die stam + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Selfstandige naamwoordstam | Genitief meervoud |
 | :--- | :--- |
@@ -92,7 +92,7 @@ Die genitief meervoud van stam eindigend op 'n vokaal word soos volg gevorm: **f
 Die genetief enkelvoud van vokaleindende stamme word onreëlmatig gevorm en moet goed uit die kop geleer word.
 
 :::
-::: center
+::: verse-box
 
 | Stam | Genetief enkelvoud |
 | :--- | :--- |
@@ -108,7 +108,7 @@ Die genetief enkelvoud van vokaleindende stamme word onreëlmatig gevorm en moet
 :::
 **Vrae- en aanwysende voornaamwoorde:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -120,7 +120,7 @@ Die genetief enkelvoud van vokaleindende stamme word onreëlmatig gevorm en moet
 :::
 **Vormgelykheid:**
 
-::: important
+::: warning-box
 
 By alle nominale stamme, behalwe die maskulina en neutra op -a sowel as die voornaamwoorde, is die vorm van die genetief enkelvoud identies aan die vorm van die ablatief (pañcamī "vyfde kasusuitgang") enkelvoud!
 
@@ -132,11 +132,11 @@ Let daarop let dat by konsonantiese uitgangende stamme die ablatus en genitius e
 ::: grammar-box
 In stryd met die bovermelde basiese reël word die genitief gebruik om die voorwerp van sekere werkwoorde uit te druk, bv. by werkwoorde van gedenke:
 
-> ⟪देवानां स्मरति⟫ "Hy gedenk die gode"
+⟪देवानां स्मरति⟫ "Hy gedenk die gode"
 
 By al hierdie werkwoorde kan die voorwerp egter ook in die akkusatief staan:
 
-> ⟪देवान्स्मरति⟫ "Hy gedenk die gode"
+⟪देवान्स्मरति⟫ "Hy gedenk die gode"
 
 Verdere inligting later.
 :::

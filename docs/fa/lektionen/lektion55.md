@@ -2,7 +2,7 @@
 title: "درس ۵۵"
 subtitle: "آئوریست با a- (آئوریست همراه با واکه موضوع)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,11 +2,12 @@
 title: "Lesing 12"
 subtitle: "Die Partizip Perfek Passief (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
+---
 
----# Les 12
+# Les 12
 
 
 ## 12.1. Voltooide Perfekt Passief (PPP)
@@ -235,4 +236,5 @@ Afb.: ⟪महावीरो जिनः⟫
 **B) Vorm die ooreenstemmende PPPs vir die werkwoordvorms van [Leksie 10](/lektionen/lektion10), Oefening A. Let daarop dat 'n vorm soos sṛjati PPPs in alle drie geslagte ooreenstem.**
 
 **C) Plaas die sinne van [Leksie 10](/lektionen/lektion10), Oefening C, passief in die verlede tyd.**
+
 

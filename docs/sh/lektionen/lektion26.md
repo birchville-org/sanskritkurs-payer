@@ -2,7 +2,7 @@
 title: "Lekcija 26"
 subtitle: "Zakon cerebralizacije za -s- u sredini riječi"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

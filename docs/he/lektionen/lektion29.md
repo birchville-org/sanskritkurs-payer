@@ -2,7 +2,7 @@
 title: "שיעור 29"
 subtitle: "שימוש בפראסמייפדה (⟪परस्मैपद⟫) ואטמןאפדה (⟪आत्मनेपद⟫) בקאוטיבום"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

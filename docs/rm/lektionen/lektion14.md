@@ -2,7 +2,7 @@
 title: "Lecziun 14"
 subtitle: "L'expressiun dal rapport tranter quai ch'è designà tras substantivs: il genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesc casus)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Exemples:
 ::: grammar-box
 La posiziun normala da la paraula è:
 
-> **Paracla determinanta en il genitiv — Substantiv pli detaglià en in auter casus**
+**Paracla determinanta en il genitiv — Substantiv pli detaglià en in auter casus**
 :::
 **Genitiv e PPP:**
 
@@ -37,9 +37,9 @@ Cun PPPs po il genitiv vegnir duvrà en plaz dal instrumental (tṛtīyā) per l
 
 Suenter Pāṇini 2.3.67 stat en il PPP il genitiv, sche il PPP ha in significà presentic (vair qua sur), l'instrumental, sche il PPP ha in significà dal temp passà:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fruita che Rāma vul = La fruita, che Rāma vul actualmain"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruita, che Rāma ha vulì"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fruita che Rāma vul = La fruita, che Rāma vul actualmain"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruita, che Rāma ha vulì"
 
 Naturalmain stat en in PPP neutrum singular, che vegn duvrà sco abstractum verbal – uschia sco substantiv – il genitiv.
 :::
@@ -56,7 +56,7 @@ Suenter consonantas èn las finidas regularas dal genitiv:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Stin nominal | Stin debil | Genitiv singular | Genitiv plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Suenter consonantas èn las finidas regularas dal genitiv:
 
 Il genitiv plural da stins finents vocalicamain vegn furmà uschia:
 
-> **-vocal lung final dal stin + -nām**
+**-vocal lung final dal stin + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Stin nominal | Genitiv plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Il genitiv plural da stins finents vocalicamain vegn furmà uschia:
 Il genetiiv singular da stossclins vocalics vegn furmà irregularmain ed è bain a memoria.
 
 :::
-::: center
+::: verse-box
 
 | Stem | Genetiiv Singular |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Il genetiiv singular da stossclins vocalics vegn furmà irregularmain ed è bain
 :::
 **Interrogativpronomen e demonstrativpronomen:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Il genetiiv singular da stossclins vocalics vegn furmà irregularmain ed è bain
 :::
 **Formengleichheit:**
 
-::: important
+::: warning-box
 
 Cun tut ils stossclins nominalas cun excepziun dals masculina e neutra sin -a ed ils pronomens è la furma dal genetiiv singular identica cun la furma dal ablative (pañcamī "quint cas") singular!
 
@@ -136,11 +136,11 @@ Notai che cun stossclins consonanticus finalis ablative e genetiiv singular sun 
 ::: grammar-box
 Contrari a la regulaziun fundamentala sura vegn il genetiiv usà per exprimer l'object da quai ch'è verbs, p.ex. cun verbs dal remembrar:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "El remembra ils dèus"
+⟪देवानां⟫ ⟪स्मरति⟫ "El remembra ils dèus"
 
 Cun tut quests verbs po l'object era esser en l'accusativ:
 
-> ⟪देवान्स्मरति⟫ "El remembra ils dèus"
+⟪देवान्स्मरति⟫ "El remembra ils dèus"
 
 Ulteriur pli tard.
 :::

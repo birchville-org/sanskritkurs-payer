@@ -2,7 +2,7 @@
 title: "Lecke 10"
 subtitle: "Az passzív mondat (az agens instrumentalisa)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Séma:**
 **(Agens - kartṛ - az instrumentalisban (tṛtīyā)) - (közvetlen tárgy - karman - a nominativusban) - passzív igealak**
+:::
 
+::: indent
 pl. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Egy bráhman áldozattal istent tisztel" (szó szerint: "Egy istent tisztel egy bráhman áldozattal.")
-
 Ez a mondat **teljesen (!) jelentésben megegyezik** az alábbi mondattal:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatívan: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 :::
 A szanszkrit passzív szerkezetek kifejezetten gyakoriak: a passzív ugyanis könnyebben képezhető, mint pl. számos jelen idejű tő.
 
-::: important
+::: warning-box
 **A szanszkrit passzív mondatokat általában nem szabad németül passzív mondattal visszaadni, mivel a német passzív egészen más stilisztikai funkcióval rendelkezik.**
 :::
 
@@ -234,8 +235,6 @@ pl. **tan** 8 U.
 ::: note-box
 Indiában a valódi szó varázserőt tulajdonítottak, sőt az egész világrendet is a valódi szó tartja fenn és teremti meg. Erről a fontos elképzelésről lásd az alapvető művet:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hagyatékból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. köt.: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. old.
 :::
 
@@ -369,7 +368,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hagyatékból kiad
 **Olvassa el, fordítsa le és tegye passzívba:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

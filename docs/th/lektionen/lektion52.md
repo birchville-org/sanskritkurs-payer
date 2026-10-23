@@ -2,7 +2,7 @@
 title: "บทที่ 52"
 subtitle: "ลิงค์กลางของรากศัพท์ลงท้ายด้วย -i และ -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "பாடம் 36"
 subtitle: "முன்னிலை வினைமுறையின் சிறப்பு உருவாக்கங்கள்"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

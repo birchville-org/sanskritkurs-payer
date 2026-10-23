@@ -3,8 +3,8 @@ title: "ትምህርት 8"
 subtitle: "የስም ቅርጻ ቅርጽ እና 8. የቀረበ ጊዜ ክፍል"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

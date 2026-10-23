@@ -3,8 +3,8 @@ title: "Lekcja 2"
 subtitle: "Zdanie imienne i podstawy deklinacji"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schemat: Predykat nominalny - podmiot**
+:::
 
+::: indent
 np. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu jest bogiem."
 :::
 Czasownik kopulacyjny ("jest", "są", "jestem", "jesteś", "jesteście") nie jest konieczny, ale może czasem wystąpić.
@@ -76,7 +78,9 @@ Końcówka wyrazu w sanskrycie zależy również od początkowej spółgłoski n
 
 Zobacz również podsumowanie:
 
-> **Payer, Alois (1944–):** Sandhi końcowego -s. -- (Materiały do sanskrytu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi końcowego -s. -- (Materiały do sanskrytu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Końcowe **-s**:
 
@@ -120,7 +124,9 @@ przed innymi samogłoskami: zmienia się na **-a** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śudra (stan usługowy).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Cztery stany (varṇa)**
+
 Zgodnie z klasyczną teorią (np. Manusmṛti I, 88-91) zadania są rozdzielone:
 
 **brahmanów**

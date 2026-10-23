@@ -2,7 +2,7 @@
 title: "Gyakorlat 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -17,14 +17,16 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪न⟩ ⟪गुरोः⟩ ⟪परमं⟩ ⟪शिशुरस्मि⟩ ⟪गुरोर्⟩**  
 **⟪मतिरस्ति⟩ ⟪गुरौ⟩ ⟪मम⟩ ⟪पाहि⟩ ⟪गुरो⟩ ⟪॥⟩**
 
-> Tanítóm a menedékem,
-> Tanítómat imádom,
-> Tanítómmal vagyok,
-> Dicsőség tanítómnak,
-> Nincs magasabb a tanítónál,
-> Tanítóm gyermeke vagyok,
-> Szívem tanítómnál van,
-> Tanító, védj meg!
+::: indent
+Tanítóm a menedékem,
+Tanítómat imádom,
+Tanítómmal vagyok,
+Dicsőség tanítómnak,
+Nincs magasabb a tanítónál,
+Tanítóm gyermeke vagyok,
+Szívem tanítómnál van,
+Tanító, védj meg!
+:::
 
 ---
 
@@ -37,7 +39,9 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪तेन⟩ ⟪यायात्सतां⟩ ⟪मार्गम्⟩**  
 **⟪तेन⟩ ⟪गच्छन्न⟩ ⟪रिष्यते⟩ ⟪॥⟩ ⟪१⟩ ⟪॥⟩**
 
-> Menjenek a jók útján, amelyen az atyák mentek, amelyen az őseik mentek. Ha valaki ezen az úton halad, akkor nem szenved kárt.
+::: indent
+Menjenek a jók útján, amelyen az atyák mentek, amelyen az őseik mentek. Ha valaki ezen az úton halad, akkor nem szenved kárt.
+:::
 
 ### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪६३⟩
 
@@ -46,7 +50,9 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪कुलान्यकुलतां⟩ ⟪यान्ति⟩**  
 **⟪ब्राह्मणातिक्रमेण⟩ ⟪च⟩ ⟪॥⟩ ⟪२⟩ ⟪॥⟩**
 
-> A családok nemcsaládokká válnak a rossz házasságok, az áldozatok elmulasztása, a Védák tanulmányozásának elhanyagolása és a brahmanok elleni bűncselekmények miatt.
+::: indent
+A családok nemcsaládokká válnak a rossz házasságok, az áldozatok elmulasztása, a Védák tanulmányozásának elhanyagolása és a brahmanok elleni bűncselekmények miatt.
+:::
 
 ### ⟪मनुस्मृति⟩ ⟪३⟩, ⟪६०⟩
 
@@ -55,7 +61,9 @@ A) Az igeképzés ismétlésére: a következő vers tartalmazza az összes egye
 **⟪यस्मिन्नेव⟩ ⟪कुले⟩ ⟪नित्यम्⟩**  
 **⟪कल्याणं⟩ ⟪तत्र⟩ ⟪वै⟩ ⟪ध्रुवम्⟩ ⟪॥⟩ ⟪३⟩ ⟪॥⟩**
 
-> Olyan család, amelyben a férj mindig elégedett a feleségével és a feleség mindig elégedett a férjével, ilyen családban állandó boldogság biztos.
+::: indent
+Olyan család, amelyben a férj mindig elégedett a feleségével és a feleség mindig elégedett a férjével, ilyen családban állandó boldogság biztos.
+:::
 
 ::: media
 
@@ -80,7 +88,9 @@ Kép: ⟪संतुष्टो⟩ ⟪भार्यया⟩ ⟪भर्त
 **⟪आदित्याज्जायते⟩ ⟪वृष्टिर्⟩**  
 **⟪वृष्टेरन्नं⟩ ⟪ततः⟩ ⟪प्रजाः⟩ ⟪॥⟩ ⟪५⟩ ⟪॥⟩**
 
-> Mindig foglalkozzon a Védák tanulmányozásával és az isteneknek szánt áldozatokkal. Az, aki foglalkozik az isteneknek szánt áldozatokkal, ezt a világot kapja meg élő és élettelen dolgokkal. Az áldozat, amelyet helyesen a tűzbe dobnak, eljut az égbe, az égből eső jön, az esőből táplálék, a táplékból teremtmények.
+::: indent
+Mindig foglalkozzon a Védák tanulmányozásával és az isteneknek szánt áldozatokkal. Az, aki foglalkozik az isteneknek szánt áldozatokkal, ezt a világot kapja meg élő és élettelen dolgokkal. Az áldozat, amelyet helyesen a tűzbe dobnak, eljut az égbe, az égből eső jön, az esőből táplálék, a táplékból teremtmények.
+:::
 
 ::: media
 
@@ -98,8 +108,10 @@ Kép: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 **⟪हेयं⟩ ⟪दुःखमनागतम्⟩ ⟪॥⟩ ⟪६⟩ ⟪॥⟩**  
 **⟪द्रष्टृदृश्ययोः⟩ ⟪संयोगो⟩ ⟪हेयहेतुः⟩ ⟪॥⟩ ⟪७⟩ ⟪॥⟩**
 
-> A jövőbeli szenvedést fel kell adni.  
-> Ennek a feladónak az oka a látó és a látható [= észlelő és észlelt] kapcsolata.
+::: indent
+A jövőbeli szenvedést fel kell adni.
+Ennek a feladónak az oka a látó és a látható [= észlelő és észlelt] kapcsolata.
+:::
 
 ---
 
@@ -111,7 +123,9 @@ Kép: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [A király] semmit ne vetessen meg, hallgasson mindenki véleményére. Egy tudós magáévá teszi egy fiú szavát is, ha az jelentőséggel bír.
+::: indent
+[A király] semmit ne vetessen meg, hallgasson mindenki véleményére. Egy tudós magáévá teszi egy fiú szavát is, ha az jelentőséggel bír.
+:::
 
 ---
 
@@ -122,18 +136,24 @@ Kép: ⟪दैवे⟩ ⟪कर्मणि⟩ ⟪युक्तो⟩ ⟪�
 **⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**
 **⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> **Ācārya** az a kétszer született, aki adja a tanítónak az Upanayana szertartást, majd megtanítja neki a Védát, a rituálét és a titkos tanításokat.
+::: indent
+**Ācārya** az a kétszer született, aki adja a tanítónak az Upanayana szertartást, majd megtanítja neki a Védát, a rituálét és a titkos tanításokat.
+:::
 
 **⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**
 **⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**
 **⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**
 **⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> **Upādhyāya** az, aki megélhetése végett a Védának egy részét vagy segédtudományokat tanít.
+::: indent
+**Upādhyāya** az, aki megélhetése végett a Védának egy részét vagy segédtudományokat tanít.
+:::
 
 **⟪निषेकादीनि⟫ ⟪कर्माणि⟫**
 **⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**
 **⟪संभावयति⟫ ⟪चान्नेन⟫**
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** az a bráhmana, aki előírás szerint végrehajtja a Niṣeka szertartást és a többi rituálét, majd étellel létrehozza őt.
+::: indent
+**Guru** az a bráhmana, aki előírás szerint végrehajtja a Niṣeka szertartást és a többi rituálét, majd étellel létrehozza őt.
+:::

@@ -2,7 +2,7 @@
 title: "Lektion 13"
 subtitle: "PPP på -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -198,17 +198,19 @@ Lär dig följande ord:
 **eva** ⟪एव⟫ : betonar föregående ord
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spirituell, gudomlig.'
-\>
-> I de äldsta delarna av Ṛgveda används denna term för den högsta anden, och är densamma som Ahura hos zoroastristerna. I betydelsen 'gud' tillämpades den på flera av de främsta gudarna, såsom Indra, Agni och Varuṇa. Senare förvärvade det en helt motsatt betydelse och kom att betyda, som nu, en demon eller gudas fiende.
-\>
-> Ordet förekommer med denna betydelse i de senare delarna av Ṛgveda, särskilt i den sista boken, samt även i Atharvaveda. Brāhmaṇorna tilldelar samma betydelse åt det, och dokumenterar många strider mellan Asurerna och gudarna. Enligt Taittirīya Brāhmaṇa blev andedräkten *(asu)* hos Prajapati levande, och "med den här andedräkten skapade jag Asurerna." I en annan del av samma verk sägs att Prajāpati "blev gravid. Han skapade Asurerna från sin mage." Śatapatha Brāhmaṇa håller med om den tidigare påståendet, och anger att "han skapade Asurerna från sin nedre andedräkt." Taittirīya Āraṇyaka representerar att Prajāpati skapade gudar, människor, fäder, Gandharvas och Apsaraser från vatten, och att Asurerna, Rakṣasorna och piśācorna uppstod från de droppar som spilldes. Manus påstående är att de skapades av Prajāpatis.
-\>
-> Enligt Viṣṇu Purāṇa producerades de från Brahma's (prajāpati) ljumskar. Berättelsen i Vāyu Purāṇa är: "Asurerna producerades först som söner från hans (Prajāpati's) ljumskar. *Asu* förklaras av Brāhmaṇa att betyda andedräkt. Från den producerades dessa varelser; därav är de Asurerna." Ordet har länge använts som ett generellt namn för gudas fiender, inklusive Daityas och Danavas samt andra ättlingar till Kaśyapa, men inte inkluderande Rakṣasorna som härstammar från Pulastya.
-\>
-> I denna mening har en annan härledning hittats för det: källan är inte längre asu, 'andedräkt,' utan den inledande *a* tas som det negativa prefixet, och *asura* betyder 'inte en gud;' därav uppstod enligt vissa ordet *sura,* vanligtvis använt för 'en gud.'"
-\>
-> [Källa: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spirituell, gudomlig.'
+
+I de äldsta delarna av Ṛgveda används denna term för den högsta anden, och är densamma som Ahura hos zoroastristerna. I betydelsen 'gud' tillämpades den på flera av de främsta gudarna, såsom Indra, Agni och Varuṇa. Senare förvärvade det en helt motsatt betydelse och kom att betyda, som nu, en demon eller gudas fiende.
+
+Ordet förekommer med denna betydelse i de senare delarna av Ṛgveda, särskilt i den sista boken, samt även i Atharvaveda. Brāhmaṇorna tilldelar samma betydelse åt det, och dokumenterar många strider mellan Asurerna och gudarna. Enligt Taittirīya Brāhmaṇa blev andedräkten *(asu)* hos Prajapati levande, och "med den här andedräkten skapade jag Asurerna." I en annan del av samma verk sägs att Prajāpati "blev gravid. Han skapade Asurerna från sin mage." Śatapatha Brāhmaṇa håller med om den tidigare påståendet, och anger att "han skapade Asurerna från sin nedre andedräkt." Taittirīya Āraṇyaka representerar att Prajāpati skapade gudar, människor, fäder, Gandharvas och Apsaraser från vatten, och att Asurerna, Rakṣasorna och piśācorna uppstod från de droppar som spilldes. Manus påstående är att de skapades av Prajāpatis.
+
+Enligt Viṣṇu Purāṇa producerades de från Brahma's (prajāpati) ljumskar. Berättelsen i Vāyu Purāṇa är: "Asurerna producerades först som söner från hans (Prajāpati's) ljumskar. *Asu* förklaras av Brāhmaṇa att betyda andedräkt. Från den producerades dessa varelser; därav är de Asurerna." Ordet har länge använts som ett generellt namn för gudas fiender, inklusive Daityas och Danavas samt andra ättlingar till Kaśyapa, men inte inkluderande Rakṣasorna som härstammar från Pulastya.
+
+I denna mening har en annan härledning hittats för det: källan är inte längre asu, 'andedräkt,' utan den inledande *a* tas som det negativa prefixet, och *asura* betyder 'inte en gud;' därav uppstod enligt vissa ordet *sura,* vanligtvis använt för 'en gud.'"
+
+[Källa: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 

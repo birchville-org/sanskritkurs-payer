@@ -747,7 +747,7 @@ Fig.: Melodi, relateret til c, kan transponeres efter stemmeleje.
 
 Nu hvor du har lært grundlaget for sanskrit, håber vi, at du er som børnene i videoen: nogle gange klodset, men nysgerrig efter at lære og med glæde ved sagen. Bevar "en begynderhjerne" resten af dit liv.
 
-::: center
+::: verse-box
 Det ønsker din Alois Payer dig
 
 Ofterdingen, 2009-03-09

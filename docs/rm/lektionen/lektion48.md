@@ -2,7 +2,7 @@
 title: "Lecziun 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -12,7 +12,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -199,7 +199,7 @@ Cun il suffix **-a** e (raramain) **-ya** po in num derivar in auter num. En que
 
 Las paraulas derivadas han il signifitg:
 
-> «ina relaziun cun quai che è designà tras la parola fundamentala»
+«ina relaziun cun quai che è designà tras la parola fundamentala»
 
 p.ex.
 

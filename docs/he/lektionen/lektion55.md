@@ -2,7 +2,7 @@
 title: "שיעור 55"
 subtitle: "אָאוֹריסט a (אָאוֹריסט עם תמַה-וקאל)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

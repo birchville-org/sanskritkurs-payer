@@ -3,8 +3,8 @@ title: "Lektion 2"
 subtitle: "Nominalinis sakinys ir linksniavimo pagrindai"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Predikatinis daiktavardis – subjektas**
+:::
 
+::: indent
 pvz. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = „Višnus yra dievas.“
 :::
 Veikiamoji jungtis („yra“, „esu“, „esi“ ir kt.) nėra būtina, tačiau kartais gali pasitaikyti.
@@ -76,7 +78,9 @@ Sanskrite žodžio galūnė taip pat priklauso nuo kitojo, einančio po jo, žod
 
 Žr. taip pat apžvalgą:
 
-> **Payer, Alois (1944–):** Galūnės -s sandhi. -- (Sanskrito medžiaga). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Galūnės -s sandhi. -- (Sanskrito medžiaga). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Galūnė **-s**:
 
@@ -120,7 +124,9 @@ prieš kitus balsius: tampa **-a** (hiatusas)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Šūdra (paslaugų kasta).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Keturios luomų grupės (varṇa)**
+
 Pagal klasikinę teoriją (pvz., Manusmṛti I, 88-91) užduotys pasiskirsto taip:
 
 **brahmanų**

@@ -2,7 +2,7 @@
 title: "Latihan 17"
 uebung_id: 17
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

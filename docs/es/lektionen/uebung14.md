@@ -2,7 +2,7 @@
 title: "Ejercicio 14"
 uebung_id: 14
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -179,5 +179,4 @@ Rāma recuerda el mantra del maestro virtuoso.
 ![](/images/uebung017.webp)
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung017))
-::: \<!--  --\>
 :::

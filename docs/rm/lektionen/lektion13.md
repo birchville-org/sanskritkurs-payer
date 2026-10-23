@@ -2,7 +2,7 @@
 title: "Lecziun 13"
 subtitle: "PPP sin -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Memorisai las suandantas paraulas:
 **eva** ⟪एव⟫ : accentuescha la parola precedenta
 **asura** m. ⟪असुर⟫ : demun
 
-> **ASURA.** 'Spiritual, divin.'
->
-> En las part veglias dal Ṛgveda questa parola è adoperada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il senn da 'deus' è ella vegnida applicada a blers dals deus principals, sco per Indra, Agni e Varuṇa. Suenter ha ella gudagnà in senn totalmain cuntrari ed è sa sviluppada, sco ussa, a demun u inimic dals deus.
->
-> Questa parola cun quest senn sa chatta en las part pli novs dal Ṛgveda, specialmain en l'ultim chapitel, ed era en l'Atharvaveda. Ils Brāhmaṇas attribueschan il medem senn a questa parola e documenteschan bleras cumbattiments tranter ils Asuras ed ils deus. Cunform al Taittirīya Brāhmaṇa, il spirt *(asu)* da Prajapati è vegnì viv e "cun quest spirt ha el creà nus Asuras." En in'autra part da la medema ovra stat che Prajāpati "è vegnì enstupidà. El ha creà Asuras da ses abdomen." Il Śatapatha Brāhmaṇa è cunform a la decleraziun avant e stat che "el ha creà Asuras da ses spirt inferiur." Il Taittirīya Āraṇyaka rapportescha che Prajāpati ha creà deus, umans, paters, Gandharvas e Apsarases da l'aua, ed che ils Asuras, Rakṣasas e piśācas èn naschids da las guttas ch'èn vegnidas versadas. La decleraziun da Manu è che els èn vegnids creads dals Prajāpatis.
->
-> Cunform al Viṣṇu Purāṇa èn els naschids dal gremel da Brahma (prajāpati). Il rapport dal Vāyu Purāṇa è: "Asuras èn vegnids creads per emprim sco figls da ses (Prajāpati's) gremel. *Asu* è declerà dal Brāhmaṇa sco spirt. Da quest'idea èn quels essers naschids; perquai èn els Asuras." La parola è dapi lung temp adoperada sco num general per ils inimics dals deus, cunzunt ils Daityas e Danavas ed autras discendents da Kaśyapa, ma betg cunzunt ils Rakṣasas discendents da Pulastya.
->
-> En quest senn è ina derivaziun differenta chattada per ella: la font n'è betg pli asu, 'spirt', ma l'inizial *a* è prendì sco prefix negativ e *asura* significia 'betg in deus'; perquai, cunform ad auters, è naschida la parola *sura*, adoperada usitadamain per 'in deus.'"
->
-> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, divin.'
+
+En las part veglias dal Ṛgveda questa parola è adoperada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il senn da 'deus' è ella vegnida applicada a blers dals deus principals, sco per Indra, Agni e Varuṇa. Suenter ha ella gudagnà in senn totalmain cuntrari ed è sa sviluppada, sco ussa, a demun u inimic dals deus.
+
+Questa parola cun quest senn sa chatta en las part pli novs dal Ṛgveda, specialmain en l'ultim chapitel, ed era en l'Atharvaveda. Ils Brāhmaṇas attribueschan il medem senn a questa parola e documenteschan bleras cumbattiments tranter ils Asuras ed ils deus. Cunform al Taittirīya Brāhmaṇa, il spirt *(asu)* da Prajapati è vegnì viv e "cun quest spirt ha el creà nus Asuras." En in'autra part da la medema ovra stat che Prajāpati "è vegnì enstupidà. El ha creà Asuras da ses abdomen." Il Śatapatha Brāhmaṇa è cunform a la decleraziun avant e stat che "el ha creà Asuras da ses spirt inferiur." Il Taittirīya Āraṇyaka rapportescha che Prajāpati ha creà deus, umans, paters, Gandharvas e Apsarases da l'aua, ed che ils Asuras, Rakṣasas e piśācas èn naschids da las guttas ch'èn vegnidas versadas. La decleraziun da Manu è che els èn vegnids creads dals Prajāpatis.
+
+Cunform al Viṣṇu Purāṇa èn els naschids dal gremel da Brahma (prajāpati). Il rapport dal Vāyu Purāṇa è: "Asuras èn vegnids creads per emprim sco figls da ses (Prajāpati's) gremel. *Asu* è declerà dal Brāhmaṇa sco spirt. Da quest'idea èn quels essers naschids; perquai èn els Asuras." La parola è dapi lung temp adoperada sco num general per ils inimics dals deus, cunzunt ils Daityas e Danavas ed autras discendents da Kaśyapa, ma betg cunzunt ils Rakṣasas discendents da Pulastya.
+
+En quest senn è ina derivaziun differenta chattada per ella: la font n'è betg pli asu, 'spirt', ma l'inizial *a* è prendì sco prefix negativ e *asura* significia 'betg in deus'; perquai, cunform ad auters, è naschida la parola *sura*, adoperada usitadamain per 'in deus.'"
+
+[Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

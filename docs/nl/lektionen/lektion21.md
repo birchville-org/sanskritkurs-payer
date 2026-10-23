@@ -2,7 +2,7 @@
 title: "Les 21"
 subtitle: "Verdere tegenwoordige stamvormen op -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

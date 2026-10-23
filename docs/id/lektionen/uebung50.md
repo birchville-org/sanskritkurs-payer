@@ -2,7 +2,7 @@
 title: "Latihan 50"
 uebung_id: 50
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -16,13 +16,15 @@ A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam 
 **⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
 
 [Guru saya adalah tempat berlindungku,  
-> Aku menghormati guruku,  
-> Aku berada di samping guruku,  
-> Puji bagi guruku,  
-> Tidak ada yang lebih tinggi dari guru,  
-> Aku adalah anak didik guruku,  
-> Hatiku bersama guruku,  
-> Guru, lindungilah aku!]
+::: indent
+Aku menghormati guruku,
+Aku berada di samping guruku,
+Puji bagi guruku,
+Tidak ada yang lebih tinggi dari guru,
+Aku adalah anak didik guruku,
+Hatiku bersama guruku,
+Guru, lindungilah aku!]
+:::
 
 ---
 
@@ -35,7 +37,9 @@ A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam 
 **⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
 **⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Ikuti jalan orang baik, yang telah dilalui oleh para leluhur, yang telah dilalui oleh para kakek. Jika seseorang mengikuti jalan ini, maka ia tidak akan mengalami bahaya.
+::: indent
+Ikuti jalan orang baik, yang telah dilalui oleh para leluhur, yang telah dilalui oleh para kakek. Jika seseorang mengikuti jalan ini, maka ia tidak akan mengalami bahaya.
+:::
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
@@ -44,7 +48,9 @@ A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam 
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Keluarga menjadi bukan-keluarga melalui pernikahan buruk, melalui pengabaian ritual, melalui tidak mempelajari Veda, dan melalui pelanggaran terhadap Brāhmaṇa.
+::: indent
+Keluarga menjadi bukan-keluarga melalui pernikahan buruk, melalui pengabaian ritual, melalui tidak mempelajari Veda, dan melalui pelanggaran terhadap Brāhmaṇa.
+:::
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
@@ -53,7 +59,9 @@ A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam 
 **⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
 **⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> Sebuah keluarga di mana suami selalu puas dengan istri, dan istri dengan suami, dalam keluarga seperti itu, kebahagiaan terjamin.
+::: indent
+Sebuah keluarga di mana suami selalu puas dengan istri, dan istri dengan suami, dalam keluarga seperti itu, kebahagiaan terjamin.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -74,7 +82,9 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 **⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Seseorang harus selalu terlibat dalam studi Veda dan ritual untuk para dewa. Karena seseorang yang terlibat dalam ritual untuk para dewa memperoleh dunia ini, baik yang hidup maupun yang tidak hidup. Korban yang dengan benar dimasukkan ke dalam api pergi ke matahari; dari matahari, hujan muncul; dari hujan makanan; dari itu, makhluk.
+::: indent
+Seseorang harus selalu terlibat dalam studi Veda dan ritual untuk para dewa. Karena seseorang yang terlibat dalam ritual untuk para dewa memperoleh dunia ini, baik yang hidup maupun yang tidak hidup. Korban yang dengan benar dimasukkan ke dalam api pergi ke matahari; dari matahari, hujan muncul; dari hujan makanan; dari itu, makhluk.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -88,8 +98,10 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
 **⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Penderitaan di masa depan harus ditinggalkan.  
-> Penyebab penghindaran ini adalah hubungan antara sang penglihat dan yang terlihat [= persepsi dan objek persepsi].
+::: indent
+Penderitaan di masa depan harus ditinggalkan.
+Penyebab penghindaran ini adalah hubungan antara sang penglihat dan yang terlihat [= persepsi dan objek persepsi].
+:::
 
 ---
 
@@ -100,7 +112,9 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪बालस्याप्यर्थवद्वाक्यम्⟫**  
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [Raja] tidak boleh meremehkan apa pun; ia harus mendengarkan pendapat setiap orang. Seorang sarjana juga mengadopsi kata-kata seorang anak, jika kata-kata tersebut bermakna.
+::: indent
+[Raja] tidak boleh meremehkan apa pun; ia harus mendengarkan pendapat setiap orang. Seorang sarjana juga mengadopsi kata-kata seorang anak, jika kata-kata tersebut bermakna.
+:::
 
 ---
 
@@ -111,18 +125,24 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
 **⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> **Ācārya** disebut sebagai dwija yang memberikan Upanayana kepada siswa dan kemudian mengajarkannya Veda, ritual, dan doktrin rahasia.
+::: indent
+**Ācārya** disebut sebagai dwija yang memberikan Upanayana kepada siswa dan kemudian mengajarkannya Veda, ritual, dan doktrin rahasia.
+:::
 
 **⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
 **⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> **Upādhyāya** disebut sebagai seseorang yang mengajarkan sebagian Veda atau ilmu-ilmu bantu demi penghidupannya.
+::: indent
+**Upādhyāya** disebut sebagai seseorang yang mengajarkan sebagian Veda atau ilmu-ilmu bantu demi penghidupannya.
+:::
 
 **⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
 **⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  
 **⟪संभावयति⟫ ⟪चान्नेन⟫**  
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** disebut sebagai Brāhmaṇa yang melaksanakan Niṣeka dan ritual lainnya sesuai dengan aturan serta menyebabkan kelahirannya melalui makanan.
+::: indent
+**Guru** disebut sebagai Brāhmaṇa yang melaksanakan Niṣeka dan ritual lainnya sesuai dengan aturan serta menyebabkan kelahirannya melalui makanan.
+:::

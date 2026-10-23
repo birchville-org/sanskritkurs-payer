@@ -2,7 +2,7 @@
 title: "Exercițiul 39"
 uebung_id: 39
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -103,9 +103,9 @@ A) Formați pentru următoarele forme verbale formele persoanei întâi, care co
 
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung064.webp)
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Sursă imagine: [Detalii](/licenses#uebung064))
-::::
 :::

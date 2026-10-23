@@ -2,7 +2,7 @@
 title: "Ders 54"
 subtitle: "Önbilgi"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Resim: ⟪अयुयुत्सुरर्जुनः भगवद्गी
 Şema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Şema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Dolayısıyla son dört hecenin miktarı her iki şemada da aynıdır.
 
 ⟪जगती⟫-temel form: ⟪त्रिष्टुभ्⟫'de olduğu gibi, ancak 12 heceli. Her Pada'nın son 5 hecesi aşağıdaki miktarları vurgular:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Bunun yanı sıra, beş heceli baş parçaya sahip olan ve dört heceli baş parçalı bir ⟪त्रिष्टुभ्⟫ gibi devam eden tipik fazla ⟪त्रिष्टुभ्⟫ da vardır:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Daha sonraki dönemlerde ⟪त्रिष्टुभ्⟫ formları, uzun ve kısa seslerin sıkı bir şemasına göre belirlenir; kesme noktasının artık önemi yoktur. Önemli sonraki formlar şunlardır:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

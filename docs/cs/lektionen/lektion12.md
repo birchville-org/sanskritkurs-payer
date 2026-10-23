@@ -2,7 +2,7 @@
 title: "Lekce 12"
 subtitle: "Participium perfekta pasiva (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ V tomto případě PPP souhlasí s předmětem v čísle, pádu a rodu.
 Pomocné sloveso („být“) není nutné.
 
 Příklady:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nebesa byla dosažena svatým) = Svatý dosáhl nebes.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Bohyně byla uctěvána brahmánem obětí) = Brahman uctil bohyni obětí.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nebesa byla dosažena svatým) = Svatý dosáhl nebes.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Bohyně byla uctěvána brahmánem obětí) = Brahman uctil bohyni obětí.“
 :::
 
 ### 12.1.2. Schéma I pro intranzitivní slovesa a slovesa pohybu
@@ -42,7 +42,7 @@ Příklady:
 V tomto případě PPP souhlasí s agentem v čísle, pádu a rodu. Participium Perfektum „trpné“ má u intranzitivních sloves (sloves bez přímého předmětu) a sloves pohybu význam činný.
 
 Příklad:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijovna šla do města.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijovna šla do města.“
 :::
 
 ### 12.1.3. Schéma II pro intranzitivní slovesa a slovesa pohybu
@@ -51,7 +51,7 @@ Příklad:
 **Agent (kartṛ) v instrumentálu (tṛtīyā) -- PPP v nominativu singuláru neutra**
 
 Příklad:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Od kṣatriji bylo (do města) šlo) = Kṣatriya je (do města) šel.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Od kṣatriji bylo (do města) šlo) = Kṣatriya je (do města) šel.“
 
 Konstrukce podle Schématu II je mnohem vzácnější než konstrukce podle Schématu I.
 :::

@@ -2,7 +2,7 @@
 title: "Mësimi 25"
 subtitle: 'Formimi i Ablativit (⟪पञ्चमी⟫ = \"njëmbëdhjetë përfundim rasti\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

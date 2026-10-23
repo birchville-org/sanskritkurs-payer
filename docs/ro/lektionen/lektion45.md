@@ -2,7 +2,7 @@
 title: "Lecție 45"
 subtitle: "Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice fără sufix cu final vocalică (continuare)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

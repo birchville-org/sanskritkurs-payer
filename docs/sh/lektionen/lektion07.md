@@ -2,7 +2,7 @@
 title: "Lekcija 7"
 subtitle: "Rečenica sa glagolskim predikatom i direktnim objektom"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lekcija 7
 
 
-::: center
+::: verse-box
 **Tjedni citat**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Bog pobjeđuje, ne demon.
 ::: grammar-box
 **Shema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – izravni predmet (karman n. = ⟪कर्मन्⟫) – glagol**
+:::
 
+::: indent
 npr.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma jede (kaut) voće."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahmanin obožava boga žrtvom (za nekog drugog)."

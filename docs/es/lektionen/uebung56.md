@@ -2,7 +2,7 @@
 title: "Ejercicio 56"
 uebung_id: 56
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -94,10 +94,10 @@ Determine y traduzca las siguientes formas:
 | ⟪७८⟫. | **⟪अकस्मात्⟫** | inesperadamente (Adv.) |
 | ⟪७९⟫. | **⟪मित्रध्रुक्⟫** | *:sig[⟪मित्रद्रुह्⟫]*: Nom. Voc. Sg. m. f. n. (dañador de enemigos) |
 | ⟪८०⟫. | **⟪अवोचन्⟫** | *:sig[⟪वच्⟫]* 2P: 3. Pl. a-Aor. P. (hablaron) |
-:::: media
+:::
+::: media
 ![](/images/uebung091.webp)
 Fig.: ⟪जेरिम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung091))
 
-::::
 :::

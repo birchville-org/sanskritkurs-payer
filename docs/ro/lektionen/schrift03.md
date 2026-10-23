@@ -1,3 +1,4 @@
+
 # Devanāgarī = ⟪देवनागरी⟫
 
 ## Exercițiu de scriere 3

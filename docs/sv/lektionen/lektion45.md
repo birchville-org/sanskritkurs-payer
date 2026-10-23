@@ -2,7 +2,7 @@
 title: "Lektion 45"
 subtitle: "Bildning av verbformer i andra person (⟪मध्यमः⟫) av atematiska stammar utan vokaliskt slutande suffix (fortsättning)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

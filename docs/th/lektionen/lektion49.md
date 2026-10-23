@@ -2,7 +2,7 @@
 title: "บทที่ 49"
 subtitle: "การสร้างกริยาบอกคำสั่ง (⟪लोट्⟫) จากรากปัจจุบันที่ไม่ใช่ประเภท athematic (ต่อจากส่วนก่อนหน้า)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

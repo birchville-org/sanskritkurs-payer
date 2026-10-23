@@ -2,7 +2,7 @@
 title: "Mësimi 41"
 subtitle: "⟪सुभाषिते⟫ (dy parujari)"
 lesson_id: 41
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -138,7 +138,7 @@ Rrëz (në shkallën e thelluar, të lartë ose të zgjatur) + -⟪य⟫
 
 Rregullat e sakta shihni te Kielhorn, Grammatik der Sanskrit-Sprache, fq. 195 - 197!
 :::
-> Trajtimi i zanoreve në fund:
+Trajtimi i zanoreve në fund:
 
 ::: grammar-box
 **1. Rrëzët me -ā formojnë këtë gerundiv në -eya**

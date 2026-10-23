@@ -70,7 +70,7 @@ Ejemplos:
 :::
 ## 32.4. Ejemplos de formación del imperfecto
 
-::: important
+::: warning-box
 **Para demostrar la formación de las formas, aquí también se forman formas de Ātmanepada a partir de raíces de Parasmaipada. ¡Estas formas artificiales están entre \< \>.**
 :::
 ### 32.4.1. Clases temáticas de presente
@@ -603,7 +603,7 @@ Traduzca y determine las siguientes formas de palabras:
 
 ## 32.9. Ejercicio de traducción
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

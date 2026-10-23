@@ -2,7 +2,7 @@
 title: "ਪਾਠ 45"
 subtitle: "ਦੂਜੇ ਵਿਅਕਤੀ ਦੇ ਕ੍ਰਿਆ ਰੂਪਾਂ ਦੀ ਬਣਤਰ (⟪मध्यमः⟫) ਅਥੇਮੈਟਿਕ ਸ਼ਾਖਿਆਵਾਂ ਵਿੱਚ, ਜਿਨ੍ਹਾਂ ਦੇ ਅੰਤ ਵਿੱਚ ਸਵਰ ਨਾਲ ਮੁੱਕਣ ਵਾਲਾ ਪ੍ਰਤੀਕ ਨਹੀਂ ਹੈ (ਜਾਰੀ)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -3,8 +3,8 @@ title: "Les 2"
 subtitle: "De nominale zin en de basis van de vervoeging"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -17,7 +17,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Esquema: Nombre predicativo - Sujeto**
+:::
 
+::: indent
 p.ej. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu es un dios."
 :::
 No es necesaria una cópula verbal ("es", "son", "soy", "eres", "séis"), pero a veces puede aparecer.
@@ -78,7 +80,9 @@ La salida de una palabra se rige en sánscrito también por la entrada de la sig
 
 Véase también el resumen:
 
-> **Payer, Alois (1944–):** Sandhi de -s final. -- (Materiales para el sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi de -s final. -- (Materiales para el sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Salida **-s**:
 
@@ -121,7 +125,9 @@ Salida **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (stand van de dienstverleners).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**De vier standen (varṇa)**
+
 Volgens de klassieke theorie (bijv. Manusmṛti I, 88-91) zijn de taken als volgt verdeeld:
 
 **van de Brahmanen**

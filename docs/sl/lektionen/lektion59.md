@@ -2,7 +2,7 @@
 title: "Ura 59"
 subtitle: "Sekundarne končnice in imperativne končnici dualisa (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

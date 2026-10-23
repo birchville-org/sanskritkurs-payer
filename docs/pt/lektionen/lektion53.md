@@ -658,7 +658,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Ver também:
 
-> **Payer, Alois \<1944 - \>:** Introdução à exegese de textos sânscritos : Apostila. -- Cap. 8: A exegese propriamente dita, Parte II: Sobre questões individuais da compreensão sincrônica. -- Apêndice B: Sobre a métrica dos textos sânscritos. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois \<1944 - \>:** Introdução à exegese de textos sânscritos : Apostila. -- Cap. 8: A exegese propriamente dita, Parte II: Sobre questões individuais da compreensão sincrônica. -- Apêndice B: Sobre a métrica dos textos sânscritos. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Importância da determinação do metro
 
@@ -758,13 +760,13 @@ Exemplo: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 Distribuição de ⟪लघु⟫ e ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -804,7 +806,7 @@ O metro mais importante nos épicos (⟪महाभारत⟫, ⟪राम�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -812,7 +814,7 @@ O metro mais importante nos épicos (⟪महाभारत⟫, ⟪राम�
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -824,7 +826,7 @@ A segunda e a terceira sílaba de um ⟪पाद⟫ não devem ser simultaneame
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -832,7 +834,7 @@ A segunda e a terceira sílaba de um ⟪पाद⟫ não devem ser simultaneame
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -840,7 +842,7 @@ A segunda e a terceira sílaba de um ⟪पाद⟫ não devem ser simultaneame
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -848,7 +850,7 @@ A segunda e a terceira sílaba de um ⟪पाद⟫ não devem ser simultaneame
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -863,7 +865,7 @@ A segunda e a terceira sílaba de um ⟪पाद⟫ não devem ser simultaneame
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

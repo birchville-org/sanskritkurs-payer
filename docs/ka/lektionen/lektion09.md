@@ -3,8 +3,8 @@ title: "ლექსი 9"
 subtitle: "სამაჰარადვანდვა და ნომინალური სუფიქსები -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

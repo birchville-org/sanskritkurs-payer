@@ -2,7 +2,7 @@
 title: "Mësimi 39"
 subtitle: 'Përfundimet personale të personit të parë (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**personi i tretë**\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

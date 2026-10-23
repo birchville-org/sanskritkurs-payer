@@ -484,7 +484,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Si veda anche:
 
-> **Payer, Alois (1944–):** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Importanza della determinazione del metro
 
@@ -565,10 +567,10 @@ Esempio: Bhagavadgītā 1,1:
 :::
 Distribuzione di ⟪लघु⟫ (laghu) e ⟪गुरु⟫ (guru):
 
-::: metrik-schema
+::: verse-box
 — — — —    **◡ — — —**  ◡ ◡ — —    **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —    **◡ — — —**  ◡ ◡ — ◡    **◡ — ◡ —**
 :::
 ### 53.10.4. Lo śloka epico (⟪श्लोक⟫ m.)
@@ -597,11 +599,11 @@ La metrica più importante nei poemi epici (⟪महाभारत⟫, ⟪र�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 La seconda e la terza sillaba di un pāda non dovrebbero essere entrambe leggere (laghu). In b e d, la sequenza sillabica 2-4 non può essere ¯ ˘ ¯.
@@ -609,19 +611,19 @@ La seconda e la terza sillaba di un pāda non dovrebbero essere entrambe leggere
 **Schemi secondari (⟪विपुला⟫) per a e c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **In tutte le forme dello śloka, la cesura principale si trova alla fine del 2. ⟪पाद⟫: vi è fine di parola o, nel caso di lunghi composti, fine di un membro del composto.**
@@ -630,7 +632,7 @@ La seconda e la terza sillaba di un pāda non dovrebbero essere entrambe leggere
 ::: grammar-box
 **Identificare, tra tutti i versi studiati finora, le ślokas. Redigere per esse lo schema metrico scritto. Segnalare eventuali irregolarità o forme Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  

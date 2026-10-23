@@ -3,15 +3,15 @@ title: "Lekce 1"
 subtitle: "Zvuky sanskrtu"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Lekce 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Uctívání Gaṇeši
@@ -23,7 +23,7 @@ Obr. 1.2: Gaṇeša, Adamspeak, Srí Lanka
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Bože, učin všechny mé záměry
 Bez překážek!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Příznivý začátek"
@@ -52,7 +52,7 @@ Obr. 1.1: Ardhanarīśvara
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Významu slova.
 Na úvod kuriozita:
 
 
->"Když William Jones [1746–1794] a Henry Thomas Colebrooke (1765—1857) poprvé důkladně studovali sanskrt, částečně ho přeložili a zjistili, že má bohatou literaturu a značné příbuzenství s klasickými jazyky, narazili na značný odpor. Protože se s tímto úzkým vztahem sanskrtu k geograficky tak vzdáleným evropským jazykům nedaly slučit staré názory, které buď odvozovaly všechny jazyky z hebrejštiny, nebo je považovaly za vzájemně izolované, uchýlil se slavný filolog Dugald Steward (1753—1828) k nejjednoduššímu východisku, když celou historii sanskrtního jazyka označil za lež. Napsal esej, ve které se snažil dokázat, že byla podvodnými brámany složena podle vzoru řečtiny a latiny a že jazyk i literatura jsou padělkem. Tento názor rozvíjel ještě v roce 1840 profesor z Dublinu Charles William Wall podrobně (Göttingische gelehrte Anzeigen 1842 S. 1888)."
->
-::: literatur-box
+::: note-box
+"Když William Jones [1746–1794] a Henry Thomas Colebrooke (1765—1857) poprvé důkladně studovali sanskrt, částečně ho přeložili a zjistili, že má bohatou literaturu a značné příbuzenství s klasickými jazyky, narazili na značný odpor. Protože se s tímto úzkým vztahem sanskrtu k geograficky tak vzdáleným evropským jazykům nedaly slučit staré názory, které buď odvozovaly všechny jazyky z hebrejštiny, nebo je považovaly za vzájemně izolované, uchýlil se slavný filolog Dugald Steward (1753—1828) k nejjednoduššímu východisku, když celou historii sanskrtního jazyka označil za lež. Napsal esej, ve které se snažil dokázat, že byla podvodnými brámany složena podle vzoru řečtiny a latiny a že jazyk i literatura jsou padělkem. Tento názor rozvíjel ještě v roce 1840 profesor z Dublinu Charles William Wall podrobně (Göttingische gelehrte Anzeigen 1842 S. 1888)."
+
 [Zdroj: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- Mnichov : Langen. -- Svazek 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Přístup dne 10. ledna 2010]
 :::
 
@@ -89,7 +89,9 @@ Obr.: Titulní strana knižního vydání v edici Pocket Books
 (Zdroj obrázku: [Podrobnosti](/cs/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ část: Přehled kultury indického subkontinentu před příchodem muslimů. -- Londýn : Sidgwick & Jackson, 1954. -- Od té doby mnoho vydání, včetně edic Pocket Books. -- **Povinná četba.** Dobrý přehled o životě, historii a kultuře předmuslimského Indie. Celkový přehled různých oblastí klasické indologie.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ část: Přehled kultury indického subkontinentu před příchodem muslimů. -- Londýn : Sidgwick & Jackson, 1954. -- Od té doby mnoho vydání, včetně edic Pocket Books. -- **Povinná četba.** Dobrý přehled o životě, historii a kultuře předmuslimského Indie. Celkový přehled různých oblastí klasické indologie.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Obr.: Titulní list
 
 Nejlepší systematická gramatika:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Z angličtiny přeložil W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 S. -- Původní název: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Obr.: Titulní strana obálky
 
 Dobrá systematická gramatika založená na domácích gramatických autorech a zároveň úvod do Pāṇiniho díla:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Původně napsáno v malajálamu. Do angličtiny přeložil K.V.R. Pai. -- Parathode : Vlastním nákladem, 1983. -- 818 S. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Původně napsáno v malajálamu. Do angličtiny přeložil K.V.R. Pai. -- Parathode : Vlastním nákladem, 1983. -- 818 S. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Obr.: Titulní obal
 
 Dobrý, stručný přehled evropské terminologie lingvistiky lze nalézt v:
 
-::: literatur-box
+::: note-box
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Obr.: Titulní strana obalu
 
 Pro zvědavé k nahlédnutí:
 
-> **Slovník lingvistiky** / vydal Hadumod Bussmann. -- 4., přeprac. a bibliogr. rozš. vyd. / za spoluúč. Hartmuta Lauffera. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Slovník lingvistiky** / vydal Hadumod Bussmann. -- 4., přeprac. a bibliogr. rozš. vyd. / za spoluúč. Hartmuta Lauffera. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Zvuky sanskrtu
@@ -146,7 +152,7 @@ Zvuky sanskrtu podle tradiční indické klasifikace a jejich vědecká transkri
 :::
 Moderní slovníky sanskrtu jsou seřazeny podle tohoto klasifikačního systému. Tato klasifikace je nezbytná pro pochopení sanskrtské gramatiky a musí být tedy naučena nazpaměť:
 
-::: note-box
+::: grammar-box
 Klasifikace
 **jednoduché samohlásky** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klasifikace
 :::
 ### 1.2.1. K výslovnosti jednotlivých hlásek
 
-::: laut-table
 | Hlaska | Popis |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "krátké a" je u Indů -- již od starověku -- často vyslovováno jako ə. V Evropě se vyslovuje jako krátké a, v Bengálsku jako krátké tmavé o. |
@@ -176,7 +181,6 @@ Klasifikace
 | **h - ⟪ह्⟫** | dechová hláska, nikdy znak pro prodloužení. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Neznělá dechová hláska s dozněvem předchozí samohlásky nebo druhé části předcházejícího diftongu: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvára** -- ⟪अनुस्वर⟫. Před šumivými hláskami, h, l: nazalizace samohlásky. Na konci slova = m. Uprostřed slova před souhláskou: nazalizace odpovídající následující souhlásce: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Nejlepší výslovnosti dosáhnete, když věty, verše nebo slova čtete poměrně pomalu a monotónně s přesným dodržováním délky samohlásek.
 
 

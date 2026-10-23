@@ -2,7 +2,7 @@
 title: "ਪਾਠ 6"
 subtitle: "ਕ੍ਰਿਆ ਵਾਕ ਦੀ ਬਣਤਰ (ਕਰਤਾ ਅਤੇ ਕ੍ਰਿਆ ਰੂਪ)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

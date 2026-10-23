@@ -2,7 +2,7 @@
 title: "பாடம் 46"
 subtitle: "இரண்டாம் வேற்றுமை வினைச்சொற்களின் உருவாக்கம் (⟪मध्यमः⟫) முன்னிலை (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫
 
 ⟪राहु⟫ மற்றும் ⟪केतु⟫ க்கு பார்ப்பதற்கு:
 
-> **பேயர், அலோயிஸ் \<1944 - \>:** தர்மசாஸ்திரம் : அறிமுகம் மற்றும் கண்ணோட்டம். -- 10. புனிதக் காரியங்கள் மற்றும் மாற்றச் சடங்குகள் (சம்ஸ்காரம்). -- அட்டவணை C: ராகு மற்றும் கேது, தெரியாத சுற்று நட்சத்திரங்கள் . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**பேயர், அலோயிஸ் \<1944 - \>:** தர்மசாஸ்திரம் : அறிமுகம் மற்றும் கண்ணோட்டம். -- 10. புனிதக் காரியங்கள் மற்றும் மாற்றச் சடங்குகள் (சம்ஸ்காரம்). -- அட்டவணை C: ராகு மற்றும் கேது, தெரியாத சுற்று நட்சத்திரங்கள் . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

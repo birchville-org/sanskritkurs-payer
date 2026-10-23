@@ -525,8 +525,10 @@
             border-left-style: solid !important;
         }
         .cm-line.block-l0-grammar-box { border-left-color: var(--color-gold) !important; }
+        .cm-line.block-l0-warning-box { border-left-color: #ea580c !important; }
+        .cm-line.block-l0-verse-box { border-left-color: #64748b !important; }
         .cm-line.block-l0-grammar-box2 { border-left-color: #ea580c !important; }
-        .cm-line.block-l0-important { border-left-color: #8b5cf6 !important; }
+        .cm-line.block-l0-important { border-left-color: #ea580c !important; }
         .cm-line.block-l0-note-box { border-left-color: #48626e !important; }
         .cm-line.block-l0-indent { border-left-color: #94a3b8 !important; }
         .cm-line.block-l0-center { border-left-color: #94a3b8 !important; }
@@ -546,8 +548,10 @@
             z-index: 10;
         }
         .cm-line.block-l1-grammar-box::before { background-color: var(--color-gold) !important; }
+        .cm-line.block-l1-warning-box::before { background-color: #ea580c !important; }
+        .cm-line.block-l1-verse-box::before { background-color: #64748b !important; }
         .cm-line.block-l1-grammar-box2::before { background-color: #ea580c !important; }
-        .cm-line.block-l1-important::before { background-color: #8b5cf6 !important; }
+        .cm-line.block-l1-important::before { background-color: #ea580c !important; }
         .cm-line.block-l1-note-box::before { background-color: #48626e !important; }
         .cm-line.block-l1-indent::before { background-color: #94a3b8 !important; }
         .cm-line.block-l1-center::before { background-color: #94a3b8 !important; }
@@ -567,8 +571,10 @@
             z-index: 10;
         }
         .cm-line.block-l2-grammar-box::after { background-color: var(--color-gold) !important; }
+        .cm-line.block-l2-warning-box::after { background-color: #ea580c !important; }
+        .cm-line.block-l2-verse-box::after { background-color: #64748b !important; }
         .cm-line.block-l2-grammar-box2::after { background-color: #ea580c !important; }
-        .cm-line.block-l2-important::after { background-color: #8b5cf6 !important; }
+        .cm-line.block-l2-important::after { background-color: #ea580c !important; }
         .cm-line.block-l2-note-box::after { background-color: #48626e !important; }
         .cm-line.block-l2-indent::after { background-color: #94a3b8 !important; }
         .cm-line.block-l2-center::after { background-color: #94a3b8 !important; }
@@ -581,8 +587,10 @@
 
         /* Background Colors (Applied from the innermost block) */
         .cm-line.block-bg-grammar-box { background-color: rgba(234, 179, 8, 0.04) !important; }
+        .cm-line.block-bg-warning-box { background-color: rgba(234, 88, 12, 0.04) !important; }
+        .cm-line.block-bg-verse-box { background-color: rgba(100, 116, 139, 0.04) !important; }
         .cm-line.block-bg-grammar-box2 { background-color: rgba(234, 88, 12, 0.04) !important; }
-        .cm-line.block-bg-important { background-color: rgba(139, 92, 246, 0.04) !important; }
+        .cm-line.block-bg-important { background-color: rgba(234, 88, 12, 0.04) !important; }
         .cm-line.block-bg-note-box { background-color: rgba(72, 98, 110, 0.04) !important; }
         .cm-line.block-bg-indent { background-color: rgba(0, 0, 0, 0.01) !important; }
         .cm-line.block-bg-center { background-color: rgba(0, 0, 0, 0.02) !important; }
@@ -614,8 +622,10 @@
         }
         
         .block-grammar-box .block-indicator { background: #eab308; }
+        .block-warning-box .block-indicator { background: #ea580c; }
+        .block-verse-box .block-indicator { background: #64748b; }
         .block-grammar-box2 .block-indicator { background: #ea580c; }
-        .block-important .block-indicator { background: #8b5cf6; }
+        .block-important .block-indicator { background: #ea580c; }
         .block-note-box .block-indicator { background: #48626e; }
         .block-indent .block-indicator { background: #cbd5e1; }
         .block-center .block-indicator { background: #94a3b8; }
@@ -772,9 +782,55 @@
             background-color: #241500;
             border-left-color: #eab308;
         }
+
+        /* WARNING BOX (Birchville Scholarly Warning) */
+        .editor-preview .warning-box,
+        .editor-preview .custom-block.warning-box {
+            background-color: #fff7ed !important;
+            border-left: 5px solid #ea580c !important;
+            padding: 1.25rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            font-size: 1.1rem !important;
+            color: var(--vp-c-text-1) !important;
+        }
+        .dark .editor-preview .warning-box,
+        .dark .editor-preview .custom-block.warning-box {
+            background-color: #361e04 !important;
+            border-left-color: #ea580c !important;
+        }
+        .editor-preview .warning-box .custom-block-title,
+        .editor-preview .custom-block.warning-box .custom-block-title {
+            display: none !important;
+        }
+
+        /* VERSE BOX (for Ślokas, Mantras, Prayers, Reading Texts) */
+        .editor-preview .verse-box,
+        .editor-preview .custom-block.verse-box {
+            width: 100% !important;
+            text-align: center !important;
+            margin: 2rem 0 !important;
+            display: block !important;
+        }
+        .editor-preview .verse-box p,
+        .editor-preview .custom-block.verse-box p {
+            text-align: center !important;
+            white-space: pre-line !important;
+            display: block !important;
+            width: 100% !important;
+            margin: 0 auto 1.25rem auto !important;
+            line-height: 1.55 !important;
+        }
+        .editor-preview .verse-box .custom-block-title,
+        .editor-preview .custom-block.verse-box .custom-block-title {
+            display: none !important;
+        }
+
+        /* Legacy grammar-box2 support */
         .editor-preview .grammar-box2,
         .editor-preview .custom-block.grammar-box2 {
-            background-color: #ffedd5;
+            background-color: #fff7ed;
             border-left: 5px solid #ea580c;
             padding: 1.25rem;
             margin: 1.5rem 0;
@@ -922,8 +978,8 @@
             <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 65px;"
                 onchange="updateLesson()">
             <select id="left-lang" onchange="updateFrames()">
-                <option value="qa/lektion01.html" selected>Original HTML</option>
-                <option value="lektionen/lektion01">Deutsch (DE)</option>
+                <option value="qa/lektion01.html">Original HTML</option>
+                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
                 <option value="en/lektionen/lektion01">English (EN)</option>
                 <option value="it/lektionen/lektion01">Italiano (IT)</option>
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
@@ -1021,8 +1077,8 @@
                 </span>
             </button>
             <select id="right-lang" onchange="updateFrames()">
-                <option value="qa/lektion01.html">Original HTML</option>
-                <option value="lektionen/lektion01" selected>Deutsch (DE)</option>
+                <option value="qa/lektion01.html" selected>Original HTML</option>
+                <option value="lektionen/lektion01">Deutsch (DE)</option>
                 <option value="en/lektionen/lektion01">English (EN)</option>
                 <option value="it/lektionen/lektion01">Italiano (IT)</option>
                 <option value="ru/lektionen/lektion01">Русский (RU)</option>
@@ -1095,19 +1151,16 @@
             <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
             <h4 data-syn-h="cnt">Container Blocks</h4>
             <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')" style="border-left: 4px solid #eab308; padding-left: 6px;"><code>::: grammar-box</code><span class="syn-desc" data-syn-d="yel">yellow</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: grammar-box2\n', '\n:::')" style="border-left: 4px solid #ea580c; padding-left: 6px;"><code>::: grammar-box2</code><span class="syn-desc" data-syn-d="ora">orange</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: important\n', '\n:::')" style="border-left: 4px solid #8b5cf6; padding-left: 6px;"><code>::: important</code><span class="syn-desc" data-syn-d="vio">violet</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: warning-box\n', '\n:::')" style="border-left: 4px solid #ea580c; padding-left: 6px;"><code>::: warning-box</code><span class="syn-desc" data-syn-d="wrn">terracotta</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: verse-box\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: verse-box</code><span class="syn-desc" data-syn-d="vrs">verse/śloka</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: note-box\n', '\n:::')" style="border-left: 4px solid #48626e; padding-left: 6px;"><code>::: note-box</code><span class="syn-desc" data-syn-d="gry">gray</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: indent\n', '\n:::')" style="border-left: 4px solid #94a3b8; padding-left: 6px;"><code>::: indent</code><span class="syn-desc" data-syn-d="indt">indented</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: center\n', '\n:::')" style="border-left: 4px solid #94a3b8; padding-left: 6px;"><code>::: center</code><span class="syn-desc" data-syn-d="ctr">centered</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: media\n', '\n:::')" style="border-left: 4px solid #38bdf8; padding-left: 6px;"><code>::: media</code><span class="syn-desc" data-syn-d="med">Image block</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: deleteme-box\n', '\n:::')" style="border-left: 4px solid #f43f5e; padding-left: 6px;"><code>::: deleteme-box</code><span class="syn-desc" data-syn-d="del">invisible</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: no-header\n', '\n:::')" style="border-left: 4px solid #9ca3af; padding-left: 6px;"><code>::: no-header</code><span class="syn-desc" data-syn-d="noh">Table no header</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: compact</code><span class="syn-desc" data-syn-d="cmp">compact table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')" style="border-left: 4px solid #10b981; padding-left: 6px;"><code>::: laut-table</code><span class="syn-desc" data-syn-d="laut">Sound table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrics</span></div>
-
-                        <div class="syn-row" onclick="insertSnippet('\n::: custom-block\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: custom-block</code><span class="syn-desc" data-syn-d="cus">custom-block</span></div>
             <!-- END_CONTAINER_SNIPPETS -->
         </div>
         <div class="pane" id="left-pane">
@@ -1924,10 +1977,11 @@
                 if (e.message.includes('Token')) localStorage.removeItem('github_pat');
             }
         }
-        const KNOWN_CONTAINER_TYPES = ['center', 'media', 'note-box', 'tip', 'warning', 'info', 'danger',
-            'grammar-box', 'grammarbox', 'indent', 'laut-table', 'compact',
-            'grammar-note', 'deleteme-box', 'no-header', 'metrik-schema',
-            'grammar-box2', 'grammarbox2', 'important'];
+        const KNOWN_CONTAINER_TYPES = ['center', 'media', 'note-box', 'notebox', 'tip', 'warning', 'info', 'danger',
+            'grammar-box', 'grammarbox', 'warning-box', 'warningbox', 'verse-box', 'versebox',
+            'indent', 'laut-table', 'lauttable', 'compact', 'grammar-note', 'deleteme-box', 'deletemebox',
+            'no-header', 'noheader', 'metrik-schema', 'metrikschema', 'grammar-box2', 'grammarbox2',
+            'important', 'literatur-box', 'literatur'];
 
         function autoRepairContainerSyntax(content) {
             let lines = content.split('\n');
@@ -2732,7 +2786,7 @@
     <script type="module">
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
-        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible@1.2.2';
+        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible@1.4.0';
         import footnote from 'https://esm.sh/markdown-it-footnote@4.0.0';
         import deflist from 'https://esm.sh/markdown-it-deflist@4.0.0';
         const multimd = window.markdownitMultimdTable;
@@ -2768,30 +2822,37 @@
                 });
             });
 
-            // Define custom block containers sorted longest-first so that prefixes (e.g. grammar-box) do not shadow specific containers (e.g. grammar-box2)
+            // Define custom block containers (aligned with markdown-it-extensible 1.4.0)
             const blockContainers = [
-                { name: 'grammar-box2', className: 'grammar-box2' },
-                { name: 'grammarbox2', className: 'grammar-box2' },
                 { name: 'grammar-box', className: 'grammar-box' },
                 { name: 'grammarbox', className: 'grammar-box' },
-                { name: 'metrik-schema', className: 'metrik-schema' },
-                { name: 'metrikschema', className: 'metrik-schema' },
-                { name: 'literatur-box', className: 'literatur-box' },
-                { name: 'literatur', className: 'literatur-box' },
-                { name: 'deleteme-box', className: 'deleteme-box' },
-                { name: 'deletemebox', className: 'deleteme-box' },
+                { name: 'warning-box', className: 'warning-box' },
+                { name: 'warningbox', className: 'warning-box' },
+                { name: 'verse-box', className: 'verse-box' },
+                { name: 'versebox', className: 'verse-box' },
                 { name: 'note-box', className: 'note-box' },
                 { name: 'notebox', className: 'note-box' },
-                { name: 'laut-table', className: 'laut-table' },
-                { name: 'lauttable', className: 'laut-table' },
+                { name: 'indent', className: 'indent' },
+                { name: 'media', className: 'media' },
                 { name: 'no-header', className: 'no-header' },
                 { name: 'noheader', className: 'no-header' },
-                { name: 'important', className: 'important' },
-                { name: 'gaga-box', className: 'gaga-box' },
-                { name: 'compact', className: 'compact' },
-                { name: 'indent', className: 'indent' },
+
+                // Graceful Aliasing für Alt-Container (Abwärtskompatibilität)
+                { name: 'important', className: 'warning-box' },
+                { name: 'literatur-box', className: 'note-box' },
+                { name: 'literatur', className: 'note-box' },
+                { name: 'compact', className: 'verse-box' },
+
+                // Strukturelle & Redaktionelle Legacy-Container
+                { name: 'grammar-box2', className: 'grammar-box2' },
+                { name: 'grammarbox2', className: 'grammar-box2' },
+                { name: 'metrik-schema', className: 'metrik-schema' },
+                { name: 'metrikschema', className: 'metrik-schema' },
                 { name: 'center', className: 'center' },
-                { name: 'media', className: 'media' }
+                { name: 'laut-table', className: 'laut-table' },
+                { name: 'lauttable', className: 'laut-table' },
+                { name: 'deleteme-box', className: 'deleteme-box' },
+                { name: 'deletemebox', className: 'deleteme-box' }
             ];
 
             // 2. markdown-it-extensible plugin (handles all block containers & inline directives)

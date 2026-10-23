@@ -2,7 +2,7 @@
 title: "Oefening 14"
 uebung_id: 14
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -21,12 +21,16 @@ Deugd is de sieraad van de mens.
 Door waarheid wordt de mens geluk.
 
 ⟪पापा नराः स्वर्गं न लभन्ते ॥४॥⟫  
-> Slechte mensen komen niet in de hemel.
+::: indent
+Slechte mensen komen niet in de hemel.
+:::
 
 ⟪सत्यं लोकस्य दीपः ॥५॥⟫  
 Waarheid is het licht van de wereld.
 
-> A) Vorm de genitief enkelvoud en meervoud van de volgende woorden. Geef betekenis en geslacht van de woorden aan:
+::: indent
+A) Vorm de genitief enkelvoud en meervoud van de volgende woorden. Geef betekenis en geslacht van de woorden aan:
+:::
 
 ⟪१⟫. ⟪अनृत⟫ : n. onwaarheid — ⟪अनृतस्य अनृतानाम् २⟫. ⟪ऋषि⟫ : m. vedische wijze — ⟪ऋषेः ऋषीणाम् ३⟫. ⟪पाद⟫ : m. voet — ⟪पादस्य पादानाम् ४⟫. ⟪बुद्धि⟫ : f. kennis — ⟪बुद्धेः⟫ (⟪बुद्ध्याः⟫) ⟪बुद्धीनाम् ५⟫. ⟪गुरु⟫ : m. meester — ⟪गुरोः गुरूणाम् ६⟫. ⟪स्वर्ग⟫ : m. hemel — ⟪स्वर्गस्य स्वर्गाणाम् ७⟫. ⟪नगर⟫ : n. stad — ⟪नगरस्य नगराणाम् ८⟫. ⟪धेनु⟫ : f. koe — ⟪धेनोः⟫ (⟪धेन्वाः⟫) ⟪धेनूनाम् ९⟫. ⟪द्विज⟫ : m. tweemaal geboren — ⟪द्विजस्य द्विजानाम् १०⟫. ⟪मुक्ता⟫ : f. de verlossene — ⟪मुक्तायाः मुक्तानाम् ११⟫. ⟪विद्या⟫ : f. kennis, wetenschap — ⟪विद्यायाः विद्यानाम् १२⟫. ⟪वर्ण⟫ : m. stand — ⟪वर्णस्य वर्णानाम् १३⟫. ⟪द्विजाति⟫ : 3 tweemaal geboren — ⟪द्विजातेः⟫ (⟪द्विजात्याः⟫) ⟪द्विजातीनाम् १४⟫. ⟪रूप⟫ : n. vorm — ⟪रूपस्य रूपाणाम् १५⟫. ⟪प्रतिग्रह⟫ : m. aanneming — ⟪प्रतिग्रहस्य प्रतिग्रहाणाम्⟫
 

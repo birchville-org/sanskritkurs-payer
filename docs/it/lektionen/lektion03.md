@@ -2,7 +2,7 @@
 title: "Lezione 3"
 subtitle: "Il nominativo singolare del femminile"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Il nominativo singolare si forma senza desinenza:
 **Femminili in -ā**: es. **devatā** f. "divinità" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Femminili in -ī**: es. **devī** f. "dea" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Attenzione!** Esistono inoltre nomi radicali femminili monosillabici in -ī, il cui nominativo singolare termina in -s: es. dhī f. "pensiero" -- Nom. sg.: dhīs = ⟪धीस्⟫. Anche lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barca" e tantrī (⟪तन्त्री⟫) f. "corda" formano irregolarmente il nominativo singolare in -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ ad esempio
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā è una divinità" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā è la dea del cibo e della cucina, considerata un'incarnazione di Pārvatī, la consorte di Śiva.)
+::: indent
+(Annapūrṇā è la dea del cibo e della cucina, considerata un'incarnazione di Pārvatī, la consorte di Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī è una dea" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī è la consorte del dio Indra.)
+::: indent
+(Indrāṇī è la consorte del dio Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ ad esempio
 
 devī + umā » devy umā "Umā è una / la dea" = ⟪देव्युमा⟫
 
-> (Umā è un nome per Pārvatī, la consorte di Śiva)
+::: indent
+(Umā è un nome per Pārvatī, la consorte di Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā prima di vocale dissimile:**

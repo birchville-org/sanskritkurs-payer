@@ -2,7 +2,7 @@
 title: "Άσκηση 35"
 uebung_id: 35
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

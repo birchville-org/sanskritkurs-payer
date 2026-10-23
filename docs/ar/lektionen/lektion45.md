@@ -2,7 +2,7 @@
 title: "الدرس 45"
 subtitle: "تصريف أفعال الشخص الثاني (⟪मध्यमः⟫) للجذور غير الصوتية التي لا تنتهي بلاحقة صوتية (استكمال)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

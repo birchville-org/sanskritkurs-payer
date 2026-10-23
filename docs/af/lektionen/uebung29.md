@@ -2,7 +2,7 @@
 title: "Oefening 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 # Oefening 29
@@ -21,10 +21,12 @@ Onkunde beteken om die onbestendige, die onreine, die pynlike en die nie-absolut
 
 Wese moet sidder by 'n regime (daṇḍa) wat te hard is. 'n Los regime word verag. 'n Regime wat presies reg is, word vereer. 'n Wys bestuurde regime bevorder geregtigheid, wins en plesier onder sy onderdane. 'n Swak bestuurde regime uit wellus, haat of minagting wek selfs die toorn op van ou mans wat in die woud teruggetrek het en rondtrekkende askete; hoeveel te meer dan van huishouders. 'n Gebrek aan bestuur lei tot gedrag soortgelyk aan dié van visse (mātsyanayāya). Want wanneer daar niemand is om die bestuur handhaaf nie, verslind die sterker die swakker. Wanneer die swakkes deur die heerser beskerm word, floreer hulle.
 
-> Die Welt met haar vier stande en lewensfases  
-> word deur die koning beskerm deur middel van regeer:  
-> Bly oor die aktiwiteit volgens eie reg en eie gebruik  
-> beweeg sy op haar eie paaie.
+::: indent
+Die Welt met haar vier stande en lewensfases
+word deur die koning beskerm deur middel van regeer:
+Bly oor die aktiwiteit volgens eie reg en eie gebruik
+beweeg sy op haar eie paaie.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

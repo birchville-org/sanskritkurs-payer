@@ -2,7 +2,7 @@
 title: "Učenje 27"
 subtitle: 'Uporaba lokativa (⟪सप्तमी⟫ f. = "sednja končnica sklonov")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) na vprašanje "Kje?" označuje prostor, kjer se nahaja subjekt (⟪कर्ता⟩) ali objekt dejanja, kjer pa se samo dejanje odvija.**
 
-> ⟪नगरे वसति⟫ = "Prebiva v mestu"
+⟪नगरे वसति⟫ = "Prebiva v mestu"
 
 :::
 
@@ -44,19 +44,19 @@ Jaipur, 1875.
 
 **2. Lokativ na vprašanje "Kdaj?" označuje časovni trenutek ali zunanje okoliščine:**
 
-> ⟪तस्मिन्काले⟫ = "v tistem trenutku, v tem času"
+⟪तस्मिन्काले⟫ = "v tistem trenutku, v tem času"
 
 **Sem spada tudi tako imenovani Locativus Absolutus:**
 
 **Če dejanje ali stanje osebe ali stvari določa čas, v katerem - ali okoliščine, pod katerimi - DRUGA oseba ali stvar opravlja dejanje ali se nahaja v določenem stanju, potem beseda, ki označuje prvo osebo ali stvar, skupaj z besedo, ki jo natančneje določa (pogosto je to pridevnik), stopi v lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "medtem ko čas mineva..."
-\>
-> ⟪तस्मिन्गते⟫ = "ko je odšel..."
+⟪एवं गच्छति काले⟫ = "medtem ko čas mineva..."
+
+⟪तस्मिन्गते⟫ = "ko je odšel..."
 
 **Včasih subjekt (⟪कर्ता⟩) ni posebej označen:**
 
-> ⟪एवं सति⟫ = "ker je stanje takšno"
+⟪एवं सति⟫ = "ker je stanje takšno"
 
 **Locativus absolutus se mora glede na kontekst prevajati z "medtem ko" (npr. pridevnik v sedanjiku), "po tem, ko", "ko" (npr. PPP), "ker", "zato ker", "čeprav", "ko" itd.**
 
@@ -79,7 +79,7 @@ Rajasthan.
 
 **3. Lokativ stoji tudi na vprašanje „Glede na kaj?“ itd.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „On ima rad svojega sina“ (dobesedno „Glede na sina je pri njem ljubezen“)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „On ima rad svojega sina“ (dobesedno „Glede na sina je pri njem ljubezen“)
 
 :::
 
@@ -98,7 +98,7 @@ Holi.
 
 **4. Lokativ se v domačih leksikonih in pri komentatorjih uporablja za navedbo pomena besede:**
 
-> ⟪भू सत्तायाम्⟫ = „koren ⟪भू⟫ v pomenu ‚bitje‘ (sat-tā)“
+⟪भू सत्तायाम्⟫ = „koren ⟪भू⟫ v pomenu ‚bitje‘ (sat-tā)“
 
 :::
 

@@ -2,7 +2,7 @@
 title: "Bài 47"
 subtitle: "Mệnh lệnh thức (⟪लोट्⟫)"
 lesson_id: 47
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

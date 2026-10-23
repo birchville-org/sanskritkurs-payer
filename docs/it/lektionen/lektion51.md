@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -342,7 +342,9 @@ ad es. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: pelle di antilope, in particolare la pelle dell'antilope nera (antilope cervo-capra : _Antilope cervicapra_ L. ). Originariamente presente in tutto il subcontinente indiano, dal Punjab e dal Sind al Bengala e dal Nepal al Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Vedi:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 voll. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pag. 1193s.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 voll. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pag. 1193s.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

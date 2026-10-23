@@ -2,7 +2,7 @@
 title: "Lektion 20"
 subtitle: "Possessive sammensætninger (⟪बहुव्रीहि⟫)"
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Ushtrimi 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Pyetjet e mbretit ⟪शूद्रक⟫ nga ⟪विदिशा⟫ tek papa
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Mbreti foli: "Le të mbetet gjithçka ashtu siç është! Shijoni kureshtjen tonë! Zoti, tregoni na nga fillimi: Në cilin vend u lindët? Kush ju dha emrin? Kush është nëna juaj? Si i morët Vedat? Si u njohët me veprat mësimore? Nga keni fituar artesë? A mund të kujtoni lindje të mëparshme ose të plotësoni dëshira? Apo a banoni, duke veshur rroba të një shpendi, në një fshehtinë? Apo ku keni banuar më parë? Ose sa vjeç jeni? Si u kapët në një kafaz? Dhe si hynit në duart e Cāṇḍālas? Apo si erdhët këtu?"
-\>
-> Por Vaiśampāyana, i cili ishte pyetur nga Zoti i Tokës me kureshtje të lindur spontane dhe me respekt të madh, mendoi për një moment dhe pastaj iu përgjigjuar me respekt të plotë: "Mbret, kjo është një histori e gjatë. Nëse ju intereson, më hyni veshin tuaj!"
+::: indent
+Mbreti foli: "Le të mbetet gjithçka ashtu siç është! Shijoni kureshtjen tonë! Zoti, tregoni na nga fillimi: Në cilin vend u lindët? Kush ju dha emrin? Kush është nëna juaj? Si i morët Vedat? Si u njohët me veprat mësimore? Nga keni fituar artesë? A mund të kujtoni lindje të mëparshme ose të plotësoni dëshira? Apo a banoni, duke veshur rroba të një shpendi, në një fshehtinë? Apo ku keni banuar më parë? Ose sa vjeç jeni? Si u kapët në një kafaz? Dhe si hynit në duart e Cāṇḍālas? Apo si erdhët këtu?"
+
+Por Vaiśampāyana, i cili ishte pyetur nga Zoti i Tokës me kureshtje të lindur spontane dhe me respekt të madh, mendoi për një moment dhe pastaj iu përgjigjuar me respekt të plotë: "Mbret, kjo është një histori e gjatë. Nëse ju intereson, më hyni veshin tuaj!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

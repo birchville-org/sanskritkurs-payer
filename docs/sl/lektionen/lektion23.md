@@ -2,7 +2,7 @@
 title: "Učenje 23"
 subtitle: "Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Če želimo v sanskrtu izraziti, da se dejanje zgodi zaradi drugega dejanja ("da bi"), lahko za dejanje, zaradi katerega se zgodi, uporabimo infinitiv (⟪तुमुन्⟩). Infinitiv predvsem označuje namen ali nameravost:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma je odšel, da bi poslušal govor mojstra."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma je odšel, da bi poslušal govor mojstra."
 
 **Upoštevajte, da infinitiv – z nekaj točno določenimi izjemami – ne more stati kot subjekt ali objekt glagola:**
 
-> "Uči se plesati" torej ne smemo prevajati z infinitivom ("plesati"), temveč moramo uporabiti verbalno imenico, npr.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "učiti se").
+"Uči se plesati" torej ne smemo prevajati z infinitivom ("plesati"), temveč moramo uporabiti verbalno imenico, npr.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "učiti se").
 
 **Infinitiv se uporablja tudi z glagoli in imeni v pomenu "želeti" ali "hrepeneti", ko sta agens (⟪कर्तृ⟫) infinitiva in glagola identična:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma želi poslušati govor mojstra."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma želi poslušati govor mojstra."
 
 **Infinitiv se med drugim uporablja tudi z glagoli v pomenu "biti sposoben", "obstajati", "vedeti", "začeti":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Svetnik ne more storiti krivice."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Obstaja hrana za jesti" (⟪भुज्⟫ 7: Ā: jesti, P: vladati)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Svetnik ne more storiti krivice."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Obstaja hrana za jesti" (⟪भुज्⟫ 7: Ā: jesti, P: vladati)
 
 **Infinitiv se uporablja tudi z besedami v pomenu "dovolj", "sposoben" in z imeni v pomenu "zmožnost", "moč", "spretnost":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ogenj ima moč, da vse spali."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ogenj ima moč, da vse spali."
 
 **Tudi z besedami v pomenu "čas" se lahko uporablja infinitiv v izrazih, kot je "Čas je za ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Čas je, da se posveti hrani" = "Čas je za jesti"
+⟪कालो भोजनं सेवितुम्⟫ = "Čas je, da se posveti hrani" = "Čas je za jesti"
 
 **Infinitiv se lahko uporablja aktivno in pasivno. Nemški pasivni infinitiv se v sanskrtu izrazi tako, da se glagol (zlasti pogosto ⟪शक्⟩ "bit sposoben, znati"), od katerega je infinitiv odvisen, postavi v pasiv.**
 
@@ -44,13 +44,13 @@ status: stable
 
 npr.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Svetnik ne more storiti krivice."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Svetnik ne more storiti krivice."
 
 **V drugem osebniku se ⟪अर्ह्⟩ + infinitiv pogosto uporablja kot blažji ukaz: "Moral bi."**
 
 **Če je infinitiv odvisen od imena, se z njim ne sme združiti v kompozitum. Izjema so Bahuvrīhi, katerih drugo člen je ⟪काम⟩ ali ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "tisti, katerega želja je govoriti; tisti, ki želi govoriti".
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "tisti, katerega želja je govoriti; tisti, ki želi govoriti".
 :::
 ## 23.2. Oblikovanje infinitiva (⟪तुमुन्⟩)
 

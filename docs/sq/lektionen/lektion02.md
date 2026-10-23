@@ -3,8 +3,8 @@ title: "Mësimi 2"
 subtitle: "Propozicioni nominal dhe bazat e deklimit"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Skema: Emër predikativ - Subjekt**
+:::
 
+::: indent
 p.sh. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu është një hyjni."
 :::
 Një kopulë verbale ("është", "janë", "jam", "je", "jeni") nuk është e nevojshme, por mund të shfaqet ndonjëherë.
@@ -76,7 +78,9 @@ Dalja e një fjale rregullohet në sanskrit edhe sipas hyrjes së fjalës pasues
 
 Shihni gjithashtu përmbledhjen:
 
-> **Payer, Alois (1944–):** Sandhi i -s në dalje. -- (Materiale për Sanskritin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi i -s në dalje. -- (Materiale për Sanskritin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s** në dalje:
 
@@ -120,7 +124,9 @@ para zanoreve të tjera: bëhet **-a** (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta e shërbëtorëve).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Katër shtresat (varṇa)**
+
 Sipas teorisë klasike (p.sh. Manusmṛti I, 88-91), detyrat janë të shpërndara:
 
 **brahmanëve**

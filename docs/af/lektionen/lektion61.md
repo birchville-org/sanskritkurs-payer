@@ -749,7 +749,7 @@ Afbeelding: Melodie, gerelateerd aan c, kan afhankelijk van de stemomvang worden
 
 Nadat u nou die grondslae van Sanskrit geleer het, hoop ons dat u soos die kleuters in die video is: soms onhandig, maar leergierig en met vreugde by die saak. Hou 'n "beginner's mind" tot aan u lewendag.
 
-::: center
+::: verse-box
 Dit wens u toe, Alois Payer
 
 Ofterdingen, 2009-03-09

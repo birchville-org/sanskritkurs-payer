@@ -2,7 +2,7 @@
 title: "Lectio 45"
 subtitle: "Formationes verbi personae secundae (⟪मध्यमः⟫) stemmatum athematicorum sine suffixo vocali terminato (continuatio)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

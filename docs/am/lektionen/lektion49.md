@@ -2,7 +2,7 @@
 title: "ትምህርት 49"
 subtitle: "የአዘዋዋሪ ቅርጽ መፍጠር (⟪लोट्⟫) ስም-ሳይ ጥቅጥቅ ያሉ የአሁን ጊዜ ሥሮች (ቀጣይ)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

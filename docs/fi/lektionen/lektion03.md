@@ -2,7 +2,7 @@
 title: "Oppitunti 3"
 subtitle: "Nominatiivin yksikkö naispuolisessa sukupuolessa"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominatiivin yksikön muodostavat ilman päätteettä:
 **Naispuoliset substantiivit päättymällä -ā**: esim. **devatā** f. "jumaluus" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Naispuoliset substantiivit päättymällä -ī**: esim. **devī** f. "jumalatar" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Huomio!** Sen lisäksi on olemassa yksitavuisia naispuolisia verbijänteitä päättymällä -ī, joiden nominatiivin yksikkö päättyy -s:ään: esim. dhī f. "ajatus" -- Nom. sg.: dhīs = ⟪धीस्⟫. Myös lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "vene" ja tantrī (⟪तन्त्री⟫) f. "kieli" muodostavat epäsäännöllisesti nominatiivin yksikön päättymällä -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ esim.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā on jumalatar" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā on ruokien ja kokkaamisen jumalatar, häntä pidetään Pārvatīn, Śivan puolison, inkarnaationa.)
+::: indent
+(Annapūrṇā on ruokien ja kokkaamisen jumalatar, häntä pidetään Pārvatīn, Śivan puolison, inkarnaationa.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī on jumalatar" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī on jumala Indran puoliso.)
+::: indent
+(Indrāṇī on jumala Indran puoliso.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ esim.
 
 devī + umā » devy umā "Umā on jumalatar" = ⟪देव्युमा⟫
 
-> (Umā on nimi Pārvatīlle, Śivan puolisolle)
+::: indent
+(Umā on nimi Pārvatīlle, Śivan puolisolle)
+:::
 
 ::: grammar-box
 **-a / -ā epäsamanlaisen vokaalin edellä:**

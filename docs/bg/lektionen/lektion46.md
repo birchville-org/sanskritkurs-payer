@@ -2,7 +2,7 @@
 title: "Урок 46"
 subtitle: "Образуване на глаголни форми за второ лице (⟪मध्यमः⟫) Перфект (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 :::
 За ⟪राहु⟫ и ⟪केतु⟫ вж.:
 
-> **Payer, Alois (1944–):** Dharmashastra : Въведение и преглед. -- 10. Сакраменти и обреди на преминаване (samskara). -- Приложение C: Раху и Кету, невидимите странстващи звезди . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Въведение и преглед. -- 10. Сакраменти и обреди на преминаване (samskara). -- Приложение C: Раху и Кету, невидимите странстващи звезди . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Ил.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/bg/licenses#lekt4602)

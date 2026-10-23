@@ -1,3 +1,4 @@
+
 # Pisna vaja 8
 
 Samoglasniški znaki za besedni začetek, če beseda ni v pisanju povezana s predhodnjo besedo:

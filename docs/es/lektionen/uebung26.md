@@ -2,7 +2,7 @@
 title: "Ejercicio 26"
 uebung_id: 26
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -142,5 +142,4 @@ C) Futuro opcional con y sin **-i-**:
 ![](/images/uebung043.webp)
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung043))
-::: \<!--  --\>
 :::

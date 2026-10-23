@@ -2,7 +2,7 @@
 title: "Lectio 5"
 subtitle: "Fundamenta compositionum nominalium (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Membra priora compositorum (non solum dvandvarum) regulariter formam **staminis 
 Exempla dvandvae pluralis:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanes, Kṣatriyas, Vaiśyas et Śūdras)
->
-> aut = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((unus/ille) Brahmana, Kṣatriya, Vaiśya et Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanes, Kṣatriyas, Vaiśyas et Śūdras)
+
+aut = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((unus/ille) Brahmana, Kṣatriya, Vaiśya et Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Poetae et magistri [Plur.])
-> (Annotatio: "Unus poeta et unus magister" numero duali stare deberet!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Poetae et magistri [Plur.])
+(Annotatio: "Unus poeta et unus magister" numero duali stare deberet!)
+:::
 
 **Pro ordine membrorum in Dvandva valent inter alia haec regulae:**
 Nominatio variorum ordinum (**varṇa**) secundum hierarchiam (summus primus) disponi debet.

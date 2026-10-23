@@ -2,7 +2,7 @@
 title: "పాఠం 11"
 subtitle: "ద్వివిధ కర్త్రు (వ్యక్తి యొక్క కర్త్రు మరియు వస్తువు యొక్క కర్త్రు)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "บทที่ 43"
 subtitle: 'ท้ายนามบุคคลสรรพนามบุรุษที่ 2 (⟪मध्यमः⟫ = \"บุรุษที่ <กลาง>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

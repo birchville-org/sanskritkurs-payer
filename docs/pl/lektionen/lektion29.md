@@ -2,7 +2,7 @@
 title: "Lekcja 29"
 subtitle: "Użycie Parasmaipada (⟪परस्मैपद⟫) i Ātmanepada (⟪आत्मनेपद⟫) w kausatywie"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

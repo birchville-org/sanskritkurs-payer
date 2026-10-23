@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob 
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
 
 ⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

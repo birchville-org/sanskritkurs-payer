@@ -2,7 +2,7 @@
 title: "Lección 44"
 subtitle: "Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) de las raíces no temáticas con sufijo que termina en vocal"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ p. ej. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Los gramáticos nativos no consideran el vocativo (⟪आमन्त्रितम्⟫) como un caso propio, sino únicamente como una modificación del nominativo (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **El vocativo sirve para el llamamiento, la invocación y se sitúa fuera de la relación con el resto de la oración, por lo que difiere de los demás casos, que expresan una relación con el verbo o con otro sustantivo.**
 
 **Por lo general, el vocativo se coloca al inicio de la oración:**
@@ -193,7 +193,7 @@ Los gramáticos nativos no consideran el vocativo (⟪आमन्त्रि�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Hijo, ¿qué dices?"
 :::
-::: important
+::: warning-box
 **Se debe evitar traducir el vocativo con "**¡Oh** ...". En alemán utilizamos constantemente vocativos, por ejemplo cuando decimos: "Cariño, ¿qué cocinamos hoy?". Nadie diría en este sentido: "**¡Oh** cariño, ¿qué cocinamos hoy?**"**
 :::
 ::: media

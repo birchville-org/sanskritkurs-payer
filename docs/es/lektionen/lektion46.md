@@ -2,7 +2,7 @@
 title: "Lección 46"
 subtitle: "Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) Perfecto (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -379,7 +379,9 @@ Derivados:
 :::
 Sobre ⟪राहु⟫ y ⟪केत⟫ú véase:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois \<1944 - \>:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/es/licenses#lekt4602)
@@ -390,15 +392,11 @@ Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/es/licenses#lekt4603)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4603))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/es/licenses#lekt4604)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4604))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt4605.webp)
@@ -464,8 +462,6 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/es/licenses#lekt4608)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4608))
-::: \<!--  --\>
-
 :::
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout" (domador de elefantes); ⟪चरिष्णु⟫ 3 "móvil", ⟪दूरशब्द⟫ m. "llamada telefónica a distancia, teléfono" » ⟪चरिष्णुदूरशब्द⟫ "teléfono móvil" (formación de palabras: A. Payer)

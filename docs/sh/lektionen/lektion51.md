@@ -2,7 +2,7 @@
 title: "Lekcija 51"
 subtitle: "⟪उपपद⟫-kompoziti"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -468,7 +468,9 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). It originally occurred throughout the Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+:::
 
 ::: media
 

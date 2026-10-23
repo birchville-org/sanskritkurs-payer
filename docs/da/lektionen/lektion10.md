@@ -2,7 +2,7 @@
 title: "Lektion 10"
 subtitle: "Den passiviske sætning (instrumentalis af agenten)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Skema:**
 **(Agens - kartṛ - i instrumentalis (tṛtīyā)) - (direkt objekt - karman - i nominativ) - passiv verbumform**
+:::
 
+::: indent
 f.eks. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "En brahman ærer en gud med et offer" (ordligt: "En gud bliver af en brahman med et offer æret.")
-
 Denne sætning er **fuldstændig (!) meningsmæssigt ækvivalent** med sætningen:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternativt: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम�
 :::
 Sanskrit-passivkonstruktioner er ualmindeligt hyppige: passivet kan jo også dannes lettere end f.eks. mange præsensstammer.
 
-::: important
+::: warning-box
 **Sanskrit-passivsætninger må generelt ikke gengives på tysk med en passivsætningsform, da det tyske passiv har en helt anden stilistisk funktion.**
 :::
 
@@ -234,8 +235,6 @@ f.eks. **tan** 8 U.
 ::: note-box
 I Indien tillagde man det sande ord magisk kraft, ja hele verdensordenen opretholdes og skabes gennem det sande ord. Se for denne vigtige forestilling det grundlæggende værk:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Udgivet efter hans efterladte papirer af Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna og Ṛta. -- 1959. -- XXIII s., S. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Læs og oversæt, og omskriv til passiv:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

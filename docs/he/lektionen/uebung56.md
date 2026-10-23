@@ -2,7 +2,7 @@
 title: "תרגיל 56"
 uebung_id: 56
 category: "תרגיל"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -95,11 +95,11 @@ last_reconstructed: 2026-05-15
 | ⟪७८⟫. | **⟪अकस्मात्⟫** | בפתאומיות (תואר פועל) |
 | ⟪७९⟫. | **⟪मित्रध्रुक्⟫** | *:sig[⟪मित्रद्रुह्⟫]*: Nom. Vok. Sg. m. f. n. (מכשיר אויבים) |
 | ⟪८०⟫. | **⟪अवोचन्⟫** | *:sig[⟪वच्⟫]* 2P: 3. Pl. a-Aor. P. (הם דיברו) |
-:::: media
+:::
+::: media
 ![](/images/uebung091.webp)
 מקור: ⟪जेरिम⟫
 (מקור תמונה: [פרטים](/licenses#uebung091))
 
-::::
 :::
 

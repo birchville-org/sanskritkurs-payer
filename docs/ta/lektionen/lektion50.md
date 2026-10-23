@@ -2,7 +2,7 @@
 title: "பாடம் 50"
 subtitle: "பெயர் உருவாக்கம்: வழக்கமான உயர்த்தல்"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

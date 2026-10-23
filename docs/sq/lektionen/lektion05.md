@@ -2,7 +2,7 @@
 title: "Mësimi 5"
 subtitle: "Bazat e kompozitave emërore (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -68,16 +68,20 @@ Pjesët e para të kompozitave (jo vetëm Dvandvas) kanë në përgjithësi form
 Shembuj për Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanët, Kṣatriyas, Vaiśyas dhe Śūdras)
-> 
-> ose = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((një/ai) Brahmane, Kṣatriya, Vaiśya dhe Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanët, Kṣatriyas, Vaiśyas dhe Śūdras)
+
+ose = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((një/ai) Brahmane, Kṣatriya, Vaiśya dhe Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Poezë dhe mësues [Shum.] )
-> (Shënim: "Një poet dhe një mësues" duhet të jetë në dyj!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Poezë dhe mësues [Shum.] )
+(Shënim: "Një poet dhe një mësues" duhet të jetë në dyj!)
+:::
 
 **Për rendin e pjesëve në një Dvandva vlenin, ndër të tjera, rregullat e mëposhtme:**
 Emërtimi i staneve të ndryshme (**varṇa**) duhet të renditet sipas hierarkisë së tyre (më i larti më parë).

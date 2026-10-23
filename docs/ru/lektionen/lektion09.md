@@ -3,8 +3,8 @@ title: "Урок 9"
 subtitle: "Самāхарадвандва и номинальные суффиксы -ка/-ака"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

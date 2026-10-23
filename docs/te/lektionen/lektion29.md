@@ -2,7 +2,7 @@
 title: "పాఠం 29"
 subtitle: "కారకంలో పరస్మైపదం (⟪परस्मैपद⟫) మరియు ఆత్మనేపదం (⟪आत्मनेपद⟫) వినియోగం"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

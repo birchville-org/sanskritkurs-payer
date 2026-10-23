@@ -2,7 +2,7 @@
 title: "Lekcja 52"
 subtitle: "Rodnik nijaki rdzeni na -i i -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -649,26 +649,26 @@ Wyjaśnienie: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvan
 ::: indent
 ⟪वेदो ऽखिलो धर्ममूलम् स्मृतिशी⟫:sig[⟪ले⟫] ⟪च तद्विदाम् । आचआरश्चैव साधूनाम् आत्मनस्तुष्टिरेव च ॥६॥⟫
 
-> Wyjaśnienie: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+Wyjaśnienie: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र १⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ O ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ w życiu księcia
 
 ⟪एवं वश्येन्द्रियः परस्त्रीद्रव्यहिंसाश्च वर्जयेत्⟫, ⟪स्वप्नं लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं च व्यवहारम् ।२। धर्मार्थाविरोधेन कामं सेवेत⟫, ⟪न निःसुखः स्यात् ।३। समं वा त्रिवर्गमन्योन्यानुबद्धम् ।४। एको ह्यत्यासेवितो धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च पीदयति ।५। अर्थ एव प्रधान इति कौटिल्यः ।६। अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि धर्मका⟫:sig[⟪मावि⟫]⟪ति ।७।⟫
 
 ::: indent
-> Wyjaśnienia:
+Wyjaśnienia:
 
 ⟪इतरौ⟫ Nom.Akk.Dual.m do ⟪इतर⟫ 3 "inny"
 
 ⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ jest Dualdvandva)
 :::
-> ⟪४⟫. ⟪अश्वघोष⟫ (II w. n.e.): ⟪बुद्धचरित ४⟫ Oświecenie zbawcze Buddy
+⟪४⟫. ⟪अश्वघोष⟫ (II w. n.e.): ⟪बुद्धचरित ४⟫ Oświecenie zbawcze Buddy
 
 ::: media
-> ![](/images/lekt5216.webp)
+![](/images/lekt5216.webp)
 Ilustracja: ⟪अश्वत्थो महाबोधिवृक्षः⟫
-> _Ficus religiosa_ L. ⟪बोधगया⟫, ok. 1810
-> (Źródło obrazu: [Szczegóły](/pl/licenses#lekt5216))
+_Ficus religiosa_ L. ⟪बोधगया⟫, ok. 1810
+(Źródło obrazu: [Szczegóły](/pl/licenses#lekt5216))
 :::
 ## 52.9. Zadania podczas wakacji semestralnych
 

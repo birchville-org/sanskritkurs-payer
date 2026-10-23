@@ -2,7 +2,7 @@
 title: "Lecke 44"
 subtitle: "A 2. személy ragozott formáinak képzése (⟪मध्यमः⟫) hangszótagos tövek, vokális végződésű képzővel"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -186,7 +186,7 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 
 A helyi grammatikusok a vocativust (⟪आमन्त्रितम्⟫) nem tekintik önálló esetszónak, csupán a nominativus (⟪प्रथमा⟫) módosításának.
 
-::: important
+::: warning-box
 **A vocativus a megszólítás, az elhívás szolgálatában áll, és kívül esik a mondat többi részével való összefüggésen, így eltér a többi esetszónál, amelyek egy ige vagy más névszó közötti kapcsolatot fejeznek ki.**
 
 **A vocativust általában a mondat elejére helyezzük:**
@@ -195,7 +195,7 @@ A helyi grammatikusok a vocativust (⟪आमन्त्रितम्⟫) nem
 ::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Gyermek, mit mit?"
 :::
-::: important
+::: warning-box
 **Kerüljük a vocativ fordítását "**Ó** ..."-vel. Németül folyamatosan használunk vocatívokat, amikor például azt mondjuk: "Drágám, mit főzünk ma?". Senki sem mondaná ezt az értelemben: "**Ó** drágám, mit főzünk ma?**"
 :::
 ::: media

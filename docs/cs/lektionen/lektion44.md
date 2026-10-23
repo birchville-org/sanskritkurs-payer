@@ -2,7 +2,7 @@
 title: "Lekce 44"
 subtitle: "Tvoření tvarů sloves druhé osoby (⟪मध्यमः⟫) athematických kmenů s vokálově končící příponou"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ např. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Domácí gramatici považují vokativ (⟪आमन्त्रितम्⟫) za samostatný pád, nýbrž pouze za modifikaci nominativu (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Vokativ slouží k oslovování a stojí mimo souvislost se zbytkem věty, liší se tedy od ostatních pádů, které vyjadřují vztah k slovesu nebo k jinému podstatnému jménu.**
 
@@ -251,7 +251,7 @@ Domácí gramatici považují vokativ (⟪आमन्त्रितम्⟫) 
 
 :::
 
-::: important
+::: warning-box
 
 **Vyhněte se překladu vokativu pomocí „Ó“ ... V němčině neustále používáme vokativy, když například řekneme: „Miláčku, co dnes vaříme?“ Nikdo v tomto významu neřekne: „Ó miláčku, co dnes vaříme?“**
 

@@ -2,7 +2,7 @@
 title: "Lesson 44"
 subtitle: "Formation of the 2nd person verbal forms (⟪मध्यमः⟫) of athematic stems with a vowel-ending suffix"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ e.g. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 Native grammarians do not consider the vocative (⟪आमन्त्रितम्⟫) to be an independent case, but only a modification of the nominative (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **The vocative serves for calling out, addressing, and stands outside the syntactic connection with the rest of the sentence; it thus differs from other cases, which express a relationship to the verb or to another noun.**
 
 **Most often, the vocative is placed at the beginning of the sentence:**
@@ -193,7 +193,7 @@ Native grammarians do not consider the vocative (⟪आमन्त्रित�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Child, what are you saying?"
 :::
-::: important
+::: warning-box
 **Avoid translating the vocative with "**O** ...".** We constantly use vocatives in German when we say, for example: "Darling, what are we cooking today?". Nobody would say in this sense: "**O** Darling, what are we cooking today?"**
 :::
 ::: media

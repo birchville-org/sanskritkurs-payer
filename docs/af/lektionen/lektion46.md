@@ -2,7 +2,7 @@
 title: "Lesing 46"
 subtitle: "Vorming van die werkwoordsvorms vir die tweede persoon (⟪मध्यमः⟫) Perfektyd (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -479,7 +479,9 @@ daarvandaan:
 
 Vir ⟪राहु⟫ en ⟪केतु⟫ sien:
 
-> **Payer, Alois (1944–):** Dharmashastra : Inleiding en Oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu, die onsigbare wandelende sterre . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Inleiding en Oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu, die onsigbare wandelende sterre . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

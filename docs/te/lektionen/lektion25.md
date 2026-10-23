@@ -2,7 +2,7 @@
 title: "పాఠం 25"
 subtitle: 'అభ్యర్థన విభక్తి రూపం (⟪पञ्चमी⟫ = "ఐదవ విభక్తి ప్రత్యయం")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

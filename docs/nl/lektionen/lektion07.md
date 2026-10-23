@@ -2,7 +2,7 @@
 title: "Les 7"
 subtitle: "De werkwoordelijke zin met lijdend voorwerp"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Les 7
 
 
-::: center
+::: verse-box
 **Weekspreuk**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ God overwint, niet de tegen-god.
 ::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – lijdend voorwerp (karman n. = ⟪कर्मन्⟫) – werkwoord**
+:::
 
+::: indent
 bijv.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma eet (kaut) een vrucht."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "De brahmaan vereert een god met een offer (voor iemand anders)."

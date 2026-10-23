@@ -2,7 +2,7 @@
 title: "Leksjon 11"
 subtitle: "The Double Accusative (Accusative of the Person and the Thing)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

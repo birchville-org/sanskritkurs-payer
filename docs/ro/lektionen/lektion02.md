@@ -3,8 +3,8 @@ title: "Lecție 2"
 subtitle: "Propoziția nominală și bazele declinării"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Nume predicativ - Subiect**
+:::
 
+::: indent
 ex. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu este un zeu."
 :::
 O copulă verbală ("este", "sunt", "sunt eu", "ești", "sunteți") nu este necesară, dar poate apărea uneori.
@@ -76,7 +78,9 @@ Următoarele tematici nominale, care se termină într-o vocală, formează Nomi
 
 Consultați, de asemenea, rezumatul:
 
-> **Payer, Alois (1944–):** Sandhi pentru -s final. -- (Materiale de sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi pentru -s final. -- (Materiale de sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s final:**
 
@@ -120,7 +124,9 @@ după **a-**: **-as**
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (rang al serviciilor).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Cele patru stări (varṇa)**
+
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
 
 **a brahmanilor**

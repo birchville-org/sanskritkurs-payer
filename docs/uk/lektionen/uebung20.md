@@ -2,7 +2,7 @@
 title: "Вправа 20"
 uebung_id: 20
 category: "Вправа"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

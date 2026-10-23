@@ -2,7 +2,7 @@
 title: "పాఠం 60"
 subtitle: "ద్వంద్వ విభక్తిలో పూర్ణకాల ప్రత్యయాలు (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

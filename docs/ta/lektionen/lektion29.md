@@ -2,7 +2,7 @@
 title: "பாடம் 29"
 subtitle: "காரணத்தில பரமசைபதத்தின் (⟪परस्मैपद⟫) மற்றும் ஆத்மனைபதத்தின் (⟪आत्मनेपद⟫) பயன்பாடு"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

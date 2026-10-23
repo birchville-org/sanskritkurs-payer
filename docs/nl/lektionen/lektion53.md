@@ -1,8 +1,9 @@
 ---
 title: "Les 53"
 lesson_id: 53
+---
 
----# Les 53
+# Les 53
 
 ## 53.1. Het duale (⟪द्विवचन⟫ n.) van de zelfstandige naamwoorden
 
@@ -615,4 +616,5 @@ Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय नमः⟫
 :::
+
 

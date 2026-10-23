@@ -2,7 +2,7 @@
 title: "Alıştırma 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Resm.: ⟪गायी⟫
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kral şöyle dedi: "Bütün bunları olduğu gibi bırakalım! Merakımızı giderin! Efendim, bize baştan itibaren anlatın: Hangi ülkede doğdunuz? Size ismi kim verdi? Anneniz kimdir? Vedaları nasıl edindiniz? Öğretisel eserlerle nasıl tanıştınız? Sanatları nereden öğrendiniz? Önceki doğumlarınızı veya dilekleri hatırlayabiliyor musunuz? Yoksa bir kuşun elbisesini giyerek saklandığınız bir yer mi işgal ediyorsunuz? Yoksa daha önce nerede ikamet ettiniz? Yaşınız kaçta? Nasıl bir kafese hapsedildiniz? Ve nasıl Çāṇḍala'ların eline düştünüz? Yoksa buraya nasıl geldiniz?"
-\>
-> Vaiśampāyana ise, Dünya'nın Efendisi tarafından doğuştan gelen bir merakla büyük saygıyla sorulduğunda, bir an düşündü ve ardından tam saygı ile cevap verdi: "Kralım, bu uzun bir hikaye. Eğer ilginizi çekiyorsa, kulağınızı bana verin!"
+::: indent
+Kral şöyle dedi: "Bütün bunları olduğu gibi bırakalım! Merakımızı giderin! Efendim, bize baştan itibaren anlatın: Hangi ülkede doğdunuz? Size ismi kim verdi? Anneniz kimdir? Vedaları nasıl edindiniz? Öğretisel eserlerle nasıl tanıştınız? Sanatları nereden öğrendiniz? Önceki doğumlarınızı veya dilekleri hatırlayabiliyor musunuz? Yoksa bir kuşun elbisesini giyerek saklandığınız bir yer mi işgal ediyorsunuz? Yoksa daha önce nerede ikamet ettiniz? Yaşınız kaçta? Nasıl bir kafese hapsedildiniz? Ve nasıl Çāṇḍala'ların eline düştünüz? Yoksa buraya nasıl geldiniz?"
+
+Vaiśampāyana ise, Dünya'nın Efendisi tarafından doğuştan gelen bir merakla büyük saygıyla sorulduğunda, bir an düşündü ve ardından tam saygı ile cevap verdi: "Kralım, bu uzun bir hikaye. Eğer ilginizi çekiyorsa, kulağınızı bana verin!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

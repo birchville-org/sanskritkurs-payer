@@ -2,7 +2,7 @@
 title: "第25課"
 subtitle: "奪格的形成（⟪पञ्चमी⟫ = 「第五格詞尾」）"
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

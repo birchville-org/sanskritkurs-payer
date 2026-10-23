@@ -3,14 +3,14 @@ title: "Lecziun 1"
 subtitle: "Ils sons dal sanscrit"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Lecziun 1
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Omagi dal Gaṇeśa
@@ -22,7 +22,7 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -39,7 +39,7 @@ Diu, fa tut mes emprendiments
 Libers da obstaculs!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Cumenzament auspicious"
@@ -51,7 +51,7 @@ Fig. 1.1: Ardhanarīśvara
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -73,9 +73,9 @@ Dal signific da la paraula.
 
 Al cumenzament in curiosum:
 
->
->[Fontana: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Access il 2010-01-10]
-::: literatur-box
+::: note-box
+
+[Fontana: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Access il 2010-01-10]
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 :::
 
@@ -87,7 +87,9 @@ Fig.: Titul da la coperta d'ina ediziun da tschep
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura bleras ediziuns, er ediziuns da tschep. -- **Lectura obligatoria.** Ina buna survista davart vita, istorgia e cultura en l'India preislamica. Survista generala da las differentas areas da la classica indologia.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Dapi alura bleras ediziuns, er ediziuns da tschep. -- **Lectura obligatoria.** Ina buna survista davart vita, istorgia e cultura en l'India preislamica. Survista generala da las differentas areas da la classica indologia.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -97,7 +99,7 @@ Fig.: Titelpagina
 
 La meglra grammatica sistematica:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 :::
 
@@ -109,7 +111,9 @@ Fig.: Titul da la coperta
 
 Ina buna grammatica sistematica sin la basa dals grammatichers nativs ed al emprim in'introducziun en Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmainent scrit en malayalam. Translatà en englais da K.V.R. Pai. -- Parathode : Edituraziun propria, 1983. -- 818 paginas ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmainent scrit en malayalam. Translatà en englais da K.V.R. Pai. -- Parathode : Edituraziun propria, 1983. -- 818 paginas ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -119,7 +123,7 @@ Abb.: Copertina dal titel
 
 Ina buna, curta preschentaziun da la terminologia linguistica europeica chattais Vus en:
 
-::: literatur-box
+::: note-box
 **Dicziunari etimologic da la lingua tudestga** / [Friedrich] Kluge (1856–1926). Elavurà da Elmar Seebold. -- 24., actualisada e augmentada ediziun. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- p. XIII - XLVII.
 :::
 
@@ -131,7 +135,9 @@ Abb.: Copertina dal titel
 
 Per curios da consultar:
 
-> **Lexicon da la linguistica** / edità da Hadumod Bussmann. -- 4., actualisada ed augmentada bibliograficamain ediziun / cun la collavuraziun da Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexicon da la linguistica** / edità da Hadumod Bussmann. -- 4., actualisada ed augmentada bibliograficamain ediziun / cun la collavuraziun da Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Ils sons dal Sanscrit
@@ -144,7 +150,7 @@ Ils sons dal Sanscrit tenor la classificaziun indiana tradiziunala e lur transli
 :::
 Dicziunaris moderns dal Sanscrit èn ordinaus tenor questa classificaziun. Questa classificaziun è indispensabla per il chapiment da la gramatica dal Sanscrit e dovra perquai d'esser savida a memoria:
 
-::: note-box
+::: grammar-box
 Classificaziun
 **vocalas simplas** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -162,7 +168,6 @@ Classificaziun
 :::
 ### 1.2.1. A la pronunzia da singuls sons
 
-::: laut-table
 | Son | Descripziun |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "cort a" vegn pronunzià dals Indians -- gia da temp antich -- spess sco ə. En Europa sa pronunzia el sco curt a, en Bengalina sco curt o scur. |
@@ -174,7 +179,6 @@ Classificaziun
 | **h - ⟪ह्⟫** | son da spira, mai sign d'allungament. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Son da spira senza vusch cun la resonanza dal vocal precedent u dal segund part dal diphtong precedent: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Avant sons da siffla, h, l: Nasalisaziun dal vocal. En la fin = m. En il center avant consonantas: il nasal correspundent a la consonanta suandanta: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 La meglra pronunzia cuntanscha ins, sche ins legia las frasis, vers u pleds abast lentamain e monotun cun la precisiun exacta da la lunghezza dals vocals.
 
 

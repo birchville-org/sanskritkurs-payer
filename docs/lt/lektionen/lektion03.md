@@ -2,7 +2,7 @@
 title: "Pamoka 3"
 subtitle: "Moterškos giminės vienaskaitos vardininkas"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominativo vienaskaitą sudaro be priesagos:
 **Moteriškosios giminės žodžiai su -ā**: pvz., **devatā** f. „dievybė“ – Nom. sg.: **devatā** = ⟪देवता⟫
 **Moteriškosios giminės žodžiai su -ī**: pvz., **devī** f. „deivė“ – Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Atkreipkite dėmesį!** Be to, yra vienos skiemenų moteriškosios giminės šakninių daiktavardžių su -ī, kurių nominativo vienaskaita baigiasi -s: pvz., dhī f. „mintis“ – Nom. sg.: dhīs = ⟪धीस्⟫. Taip pat lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. „valtis“ ir tantrī (⟪तन्त्री⟫) f. „styga“ sudaro netvarkingai nominativo vienaskaitą su -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ pvz.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇė yra deivė“ = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇė yra maisto ir virimo deivė, ji laikoma Pārvatī, Šivos žmonos, inkarnacija.)
+::: indent
+(Annapūrṇė yra maisto ir virimo deivė, ji laikoma Pārvatī, Šivos žmonos, inkarnacija.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrānė yra deivė“ = ⟪देवीन्द्राणी⟫
 
-> (Indrānė yra dievo Indros žmona.)
+::: indent
+(Indrānė yra dievo Indros žmona.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ pvz.
 
 devī + umā » devy umā „Umā yra / ta deivė“ = ⟪देव्युमा⟫
 
-> (Umā yra Pārvatī, Šivos žmonos, vardas)
+::: indent
+(Umā yra Pārvatī, Šivos žmonos, vardas)
+:::
 
 ::: grammar-box
 **-a / -ā prieš nesuderinamą balsį:**

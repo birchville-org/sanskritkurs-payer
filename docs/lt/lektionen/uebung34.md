@@ -2,7 +2,7 @@
 title: "Pratimas 34"
 uebung_id: 34
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -45,16 +45,18 @@ A) Form the corresponding perfect tense forms for person, number, and gender of 
 
 Translate the following text from the ⟪पद्मपुराण⟩ regarding gifts to Brahmins:
 
-> ⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजोत्तम ।⟫  
-> ⟪विष्णुलोके सुखं भुङ्क्ते यावदिन्द्राश्चतुर्दश ॥१॥⟫  
-> ⟪सप्तद्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।⟫  
-> ⟪तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥⟫  
-> ⟪तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।⟫  
-> ⟪हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥⟫  
-> ⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।⟫  
-> ⟪स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥⟫  
-> ⟪अन्नं वारि द्विजश्रेष्ठ येन दत्तम् महीतले ।⟫  
-> ⟪तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟫
+::: indent
+⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजोत्तम ।⟫
+⟪विष्णुलोके सुखं भुङ्क्ते यावदिन्द्राश्चतुर्दश ॥१॥⟫
+⟪सप्तद्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज ।⟫
+⟪तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥⟫
+⟪तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति ।⟫
+⟪हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥⟫
+⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।⟫
+⟪स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥⟫
+⟪अन्नं वारि द्विजश्रेष्ठ येन दत्तम् महीतले ।⟫
+⟪तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟫
+:::
 
 Geriausias dviejų kartų gimusių! Kas dovanotą brahmanui žemę su jos derliais, mėgaujasi Višnos pasauliu tiek pat, kiek keturiolika Indra. Dviejų kartų gimęs! Nuopelnus, kuriuos gauna tas, kuris dovanoja visą pasaulį su jo septyniomis žemynais, gauna mirtingasis, kuris dovanotą brahmanui karvę. Kas dovanotą brahmanau auksą mažesnę už sezamo grūdą, tas ateina į Hari (Višnos) miestą kartu su 10 milijonų šeimomis. Geriausias dviejų kartų gimusių! Žmogus, kuris dovanotą mergaitę su papuošalais (brahmanui), tas ateina į Brahma sėdynę ir neturi daugiau gimimo. Geriausias dviejų kartų gimusių! Kas duoda maistą ir vandenį ant žemės paviršiaus, tas davė visas dovanas, jaučias tarp dviejų kartų gimusių!
 

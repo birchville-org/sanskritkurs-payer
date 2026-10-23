@@ -2,7 +2,7 @@
 title: "పాఠం 45"
 subtitle: "రెండవ వ్యక్తించే క్రియా రూపాల నిర్మాణం (⟪मध्यमः⟫) అథేమటిక వాక్యభాగాలు, స్వరంతో ముగిసే పరిమాణం లేనివి (తదుపరి)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

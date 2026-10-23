@@ -2,7 +2,7 @@
 title: Lektion 12
 subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -28,9 +28,9 @@ Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht übere
 Ein Hilfsverb („sein“) ist nicht nötig.
 
 Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
 :::
 
 ### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
@@ -41,7 +41,7 @@ Beispiele:
 In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
 
 Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
 :::
 
 ### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
@@ -50,7 +50,7 @@ Beispiel:
 **Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
 
 Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
 
 Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
 :::

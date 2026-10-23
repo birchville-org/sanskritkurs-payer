@@ -2,7 +2,7 @@
 title: "Les 14"
 subtitle: "De uitdrukking van de relatie tussen door zelfstandige naamwoorden aangeduide entiteiten: de genitief (ṣaṣṭhī f. = ⟪षष्टी⟫ = zesde casusuitgang)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Voorbeelden:
 ::: grammar-box
 De normale woordvolgorde is:
 
-> **Bepalend woord in de genitief — nader bepaald substantief in een andere naamval**
+**Bepalend woord in de genitief — nader bepaald substantief in een andere naamval**
 :::
 **Genitief en PPP:**
 
@@ -37,9 +37,9 @@ Bij PPP's kan de genitief in plaats van de instrumentalis (tṛtīyā) voor de a
 
 Volgens Pāṇini 2.3.67 staat bij het PPP de genitief wanneer het PPP presentische betekenis heeft (zie hierboven), de instrumentalis wanneer het PPP verleden-tijdsbetekenis heeft:
 
-> ⟪रामस्येष्टं फलम्⟫ "Het door Rāma gewenste resultaat = Het resultaat dat Rāma momenteel wenst"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Het resultaat dat Rāma heeft gewenst"
+⟪रामस्येष्टं फलम्⟫ "Het door Rāma gewenste resultaat = Het resultaat dat Rāma momenteel wenst"
+
+⟪रामेणेष्टं फलम्⟫ "Het resultaat dat Rāma heeft gewenst"
 
 Uiteraard staat bij een PPP Neutrum Enkelvoud, dat als verbaal abstractum - dus als zelfstandig naamwoord - wordt gebruikt, de genitief.
 :::
@@ -56,7 +56,7 @@ Na een medeklinker zijn de regelmatige genitiefuitgangen:
 * Meervoud: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominaalstam | Zwakke stam | Genitief Enkelvoud | Genitief Meervoud |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Na een medeklinker zijn de regelmatige genitiefuitgangen:
 
 De genitief Meervoud van klinkerig eindigende stammen wordt zo gevormd:
 
-> **-lange uitlopende klinker van de stam + -nām**
+**-lange uitlopende klinker van de stam + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominaalstam | Genitief Meervoud |
 | :--- | :--- |
@@ -96,7 +96,7 @@ De genitief Meervoud van klinkerig eindigende stammen wordt zo gevormd:
 De genetivus enkelvoud van stamwoorden die op een klinker uitkomen, wordt onregelmatig gevormd en moet goed uit het hoofd worden geleerd.
 
 :::
-::: center
+::: verse-box
 
 | Stam | Genetivus enkelvoud |
 | :--- | :--- |
@@ -112,7 +112,7 @@ De genetivus enkelvoud van stamwoorden die op een klinker uitkomen, wordt onrege
 :::
 **Vragende voornaamwoorden en aanwijzende voornaamwoorden:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ De genetivus enkelvoud van stamwoorden die op een klinker uitkomen, wordt onrege
 :::
 **Vormgelijkheid:**
 
-::: important
+::: warning-box
 
 Bij alle nominale stammen, met uitzondering van de mannelijke en neutrale vormen op -a en de voornaamwoorden, is de vorm van de genetivus enkelvoud identiek aan die van de ablatus (pañcamī "vijfde casuseindiging") enkelvoud!
 
@@ -136,11 +136,11 @@ Let op dat bij medeklinker-uitgangende stamvormen de ablative en genitieve enkel
 ::: grammar-box
 In tegenstelling tot de bovenstaande basisregel wordt de genitief gebruikt om het object van sommige werkwoorden uit te drukken, bijvoorbeeld bij werkwoorden van herinneren:
 
-> ⟪देवानां स्मरति⟫ "Hij denkt aan de goden"
+⟪देवानां स्मरति⟫ "Hij denkt aan de goden"
 
 Bij al deze werkwoorden kan het object echter ook in de accusatief staan:
 
-> ⟪देवान्स्मरति⟫ "Hij denkt aan de goden"
+⟪देवान्स्मरति⟫ "Hij denkt aan de goden"
 
 Meer hierover later.
 :::

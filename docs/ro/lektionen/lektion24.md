@@ -2,7 +2,7 @@
 title: "Lecție 24"
 subtitle: "Dativul (⟪चतुर्थी⟫ = „a patra terminație cazuală”)"
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

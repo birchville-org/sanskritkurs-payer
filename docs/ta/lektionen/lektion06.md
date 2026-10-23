@@ -2,7 +2,7 @@
 title: "பாடம் 6"
 subtitle: "வினைச்சொல் வாக்கியத்தின் அமைப்பு (காரணம் மற்றும் வினை வடிவம்)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

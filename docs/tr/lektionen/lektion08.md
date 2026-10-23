@@ -3,8 +3,8 @@ title: "Ders 8"
 subtitle: "İsimler ve 8. Şimdiki Zaman Sınıfı"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

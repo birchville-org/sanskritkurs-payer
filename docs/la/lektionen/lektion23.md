@@ -2,7 +2,7 @@
 title: Lektion 23
 subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -14,28 +14,28 @@ status: stable
 ::: grammar-box
 **Si vis Sanscritice exprimere quod actus propter alium actum fiat ("ad faciendum"), pro actu, propter quem fit, infinitivus (⟪तुमुन्⟫) adhiberi potest. Infinitivus primo loco finem vel intentionem designat:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma abiit, ut orationem magistri audiret."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma abiit, ut orationem magistri audiret."
 
 **Nota est quod infinitivus — cum quibusdam definitis exceptionibus — non posset esse subiectum vel obiectum verbi:**
 
-> "Er lernt tanzen" non cum infinitivo ("tanthenium") verti potest, sed nomen verbale adhibendum est, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "discere").
+"Er lernt tanzen" non cum infinitivo ("tanthenium") verti potest, sed nomen verbale adhibendum est, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "discere").
 
 **Infinitivus etiam adhibetur cum verbis et substantivis in sensu "velle" sive "cupere", cum agens (⟪कर्तृ⟫) infinitivi et verbi idem sit:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma vult audire orationem Magistri."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma vult audire orationem Magistri."
 
 **Infinitiv quoque adhibetur in verbis quae significare possunt "capax esse", "esse", "scire", "incipere":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Sanctus iniuriam facere non potest."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Est cibus edendus" (⟪भुज्⟫ 7: Ā: edere, P: regere)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Sanctus iniuriam facere non potest."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Est cibus edendus" (⟪भुज्⟫ 7: Ā: edere, P: regere)
 
 **Infinitivus etiam adhibetur cum verbis in significationibus "satis", "capax" et cum substantivis in significationibus "facultas", "vis", "peritia":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Ignis potest omnia comburere."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Ignis potest omnia comburere."
 
 **Verbum infinitivum etiam cum vocabulis quae "tempus" significant adhiberi potest in expressionibus ut "Tempus est ut ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Tempus est cibum curare" = "Tempus est edendi"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Tempus est cibum curare" = "Tempus est edendi"
 
 **Infinitivum activum et passivum adhiberi potest. Infinitivus passivus in lingua Germanica ita in Sanscrito redditur, ut verbum (saepe ⟪शक्⟫ "posse, posse"), a quo infinitivus pendet, in passivum ponatur.**
 
@@ -43,13 +43,13 @@ status: stable
 
 e.g.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Sanctus iniuriam facere non potest."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Sanctus iniuriam facere non potest."
 
 **In secunda persona, ⟪अर्ह्⟫ + infinitivum saepe ut mitior iussio adhibetur: "Tu deberes."**
 
 **Si infinitivus a nomine pendet, cum eo non in compositionem coniungi debet. Excipiuntur Bahuvrīhi, quorum secundum membrum est ⟪काम⟫ aut ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "eius qui loqui vult; qui loqui cupit".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "eius qui loqui vult; qui loqui cupit".
 :::
 ## 23.2. Formationis infinitivi (⟪तुमुन्⟫)
 

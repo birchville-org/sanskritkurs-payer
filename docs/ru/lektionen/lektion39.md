@@ -2,7 +2,7 @@
 title: "Урок 39"
 subtitle: "Личные окончания первого лица (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = «**третье** лицо»)"
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

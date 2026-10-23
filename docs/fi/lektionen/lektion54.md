@@ -2,7 +2,7 @@
 title: "Oppitunti 54"
 subtitle: "Esipuhe"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -49,36 +49,36 @@ Kuv.: ⟪अयुयुत्सुरर्जुनः⟫
 Kaava I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Kaava II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Neljän viimeisen tavun kvantiteetti on siis sama molemmissa malleissa.
 
 ⟪जगती⟫-päämuoto: kuten ⟪त्रिष्टुभ्⟫, mutta 12-tavuinen. Jokaisen padan viimeiset viisi tavua nousevat seuraaviin kvantiteetteihin:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Sen lisäksi on olemassa ns. tyypillisesti ylimääräinen ⟪त्रिष्टुभ्⟫ viisitavuinen alkuosalla, joka jatkuu kuten ⟪त्रिष्टुभ्⟫ nelitavuinen alkuosalla:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Myöhemmin ⟪त्रिष्टुभ्⟫-muodot vakiintuvat tiukan pituuksien ja lyhyiden välien kaavan mukaan; katkapaikka ei enää ole merkittävä. Tärkeimmät myöhemmät muodot ovat:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

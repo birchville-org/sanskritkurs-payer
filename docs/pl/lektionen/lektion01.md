@@ -3,15 +3,15 @@ title: "Lekcja 1"
 subtitle: "Zgłoski sanskrytu"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Lekcja 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Czczenie Gaṇeśi
@@ -23,7 +23,7 @@ Rys. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Boże, spraw, aby wszystkie moje przedsięwzięcia
 Były wolne od przeszkód!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Szczęśliwy początek"
@@ -52,7 +52,7 @@ Rys. 1.1: Ardhanarīśvara
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Znaczenia słowa.
 Na początek ciekawostka:
 
 
->"Gdy William Jones [1746–1794] i Henry Thomas Colebrooke (1765—1857) po raz pierwszy gruntownie studiowali sanskryt, częściowo go przetłumaczyli i odkryli, że posiada on bogatą literaturę oraz znaczną pokrewieństwo z językami klasycznymi, napotkali na spory opór. Ponieważ bliska relacja sanskrytu z tak geograficznie oddalonymi językami europejskimi nie mogła być pogodzona ze starym przekonaniem, które albo wyprowadzało wszystkie języki z hebrajskiego, albo uważało je za w większości izolowane od siebie, słynny filolog Dugald Steward (1753—1828) podjął najprostsze wyjście, ogłaszając całą historię z językiem sanskrytu za kłamstwo. Napisał esej, w którym próbował udowodnić, że został on sfabrykowany przez podstępnych braminów na wzór greki i łaciny, a zarówno język, jak i literatura są fałszerstwem. Pogląd ten rozwijał jeszcze w 1840 roku profesor z Dublinu, Charles William Wall, obszernie (Göttingische gelehrte Anzeigen 1842 s. 1888)."
->
-::: literatur-box
+::: note-box
+"Gdy William Jones [1746–1794] i Henry Thomas Colebrooke (1765—1857) po raz pierwszy gruntownie studiowali sanskryt, częściowo go przetłumaczyli i odkryli, że posiada on bogatą literaturę oraz znaczną pokrewieństwo z językami klasycznymi, napotkali na spory opór. Ponieważ bliska relacja sanskrytu z tak geograficznie oddalonymi językami europejskimi nie mogła być pogodzona ze starym przekonaniem, które albo wyprowadzało wszystkie języki z hebrajskiego, albo uważało je za w większości izolowane od siebie, słynny filolog Dugald Steward (1753—1828) podjął najprostsze wyjście, ogłaszając całą historię z językiem sanskrytu za kłamstwo. Napisał esej, w którym próbował udowodnić, że został on sfabrykowany przez podstępnych braminów na wzór greki i łaciny, a zarówno język, jak i literatura są fałszerstwem. Pogląd ten rozwijał jeszcze w 1840 roku profesor z Dublinu, Charles William Wall, obszernie (Göttingische gelehrte Anzeigen 1842 s. 1888)."
+
 [Źródło: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- Monachium : Langen. -- Tom 2. -- 1923. -- s. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Dostęp 10.01.2010]
 :::
 
@@ -89,7 +89,9 @@ Ilustracja: Okładka wydania kieszonkowego
 (Źródło obrazu: [Szczegóły](/pl/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Część: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londyn : Sidgwick & Jackson, 1954. -- Od tego czasu wiele wydań, również wydania kieszonkowe. **Obowiązkowa lektura.** Dobre wprowadzenie do życia, historii i kultury przedmuzułmańskiej Indii. Całościowy przegląd różnych obszarów klasycznej indologii.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Część: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londyn : Sidgwick & Jackson, 1954. -- Od tego czasu wiele wydań, również wydania kieszonkowe. **Obowiązkowa lektura.** Dobre wprowadzenie do życia, historii i kultury przedmuzułmańskiej Indii. Całościowy przegląd różnych obszarów klasycznej indologii.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Ilustracja: Strona tytułowa
 
 Najlepsza systematyczna gramatyka:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Z angielskiego przełożył W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 s. -- Tytuł oryginału: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Ilustracja: Okładka
 
 Dobra systematyczna gramatyka oparta na miejscowych gramatykach i jednocześnie wprowadzenie do Pāṇiniego:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Oryginalnie napisane w malajalam. Przetłumaczone na angielski przez K.V.R. Pai'a. -- Parathode : Wydawca własny, 1983. -- 818 s. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Oryginalnie napisane w malajalam. Przetłumaczone na angielski przez K.V.R. Pai'a. -- Parathode : Wydawca własny, 1983. -- 818 s. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Ilustracja: Okładka z tytułem
 
 Dobry, zwięzły przegląd europejskiej terminologii lingwistycznej znajduje się w:
 
-::: literatur-box
+::: note-box
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Oprac. przez Elmar Seebold. -- 24., przejrzyana i uzupełniona edycja. -- Berlin [i in.] : de Gruyter, 2002. - LXXXIX, 1023 s. : 24 cm. -- ISBN 3-11-017473-1 Oprawa miękka. -- s. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Ilustracja: Okładka z tytułem
 
 Dla ciekawskich do wykorzystania:
 
-> **Lexikon der Sprachwissenschaft** / pod red. Hadumod Bussmann. -- 4., przejrzyana i bibliograficznie uzupełniona edycja / przy współudziale Hartmuta Lauffera. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexikon der Sprachwissenschaft** / pod red. Hadumod Bussmann. -- 4., przejrzyana i bibliograficznie uzupełniona edycja / przy współudziale Hartmuta Lauffera. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Samogłoski sanskrytu
@@ -146,7 +152,7 @@ Samogłoski sanskrytu według tradycyjnej indyjskiej klasyfikacji i ich naukowa 
 :::
 Współczesne słowniki sanskrytu są uporządkowane zgodnie z tą klasyfikacją. Klasyfikacja ta jest niezbędna do zrozumienia gramatyki sanskrytu i dlatego musi być znana na pamięć:
 
-::: note-box
+::: grammar-box
 Klasyfikacja
 **samogłoski proste** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klasyfikacja
 :::
 ### 1.2.1. O wymowie poszczególnych głosek
 
-::: laut-table
 | Głoska | Opis |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "krótkie a" jest przez Indusów -- już od dawna -- często wymawiane jako ə. W Europie wymawia się je jako krótkie a, w Bengalu jako krótkie ciemne o. |
@@ -176,7 +181,6 @@ Klasyfikacja
 | **h - ⟪ह्⟫** | dźwięk charkotliwy, nigdy znak wydłużenia. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Bezzgłoskowy dźwięk charkotliwy z rezonansem poprzedzającej samogłoski lub drugiej części poprzedzającego dyftongu: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anuswara** -- ⟪अनुस्वर⟫. Przed szumami, h, l: nazalizacja samogłoski. Na końcu wyrazu = m. Wewnątrz wyrazu przed spółgłoskami: nosówka odpowiadająca następującej spółgłosce: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Najlepszą wymowę osiąga się, gdy czyta się zdania, wersy lub słowa dość powoli i monotonnie, dokładnie uwzględniając długość samogłosek.
 
 

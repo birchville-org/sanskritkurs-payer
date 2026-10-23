@@ -2,7 +2,7 @@
 title: "الدرس 25"
 subtitle: 'تكوين حالة النصب (⟪पञ्चमी⟫ = \"النهاية الإعرابية الخامسة\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

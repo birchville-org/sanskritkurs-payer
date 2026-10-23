@@ -2,7 +2,7 @@
 title: "పాఠం 55"
 subtitle: "a-ఆరస్ట్ (థీమావోకల్‌తో ఆరస్ట్)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

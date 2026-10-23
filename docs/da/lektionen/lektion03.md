@@ -2,7 +2,7 @@
 title: "Lektion 3"
 subtitle: "Denominativ singular af femininum"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Danner nominativ singular uden endelse:
 **Feminina på -ā**: f.eks. **devatā** f. "guddom" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminina på -ī**: f.eks. **devī** f. "gudinde" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Bemærk!** Der findes også entstavelige feminine rodnomina på -ī, hvis nominativ singular ender på -s: f.eks. dhī f. "tanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Også lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "båd" og tantrī (⟪तन्त्री⟫) f. "streng" danner uregelmæssigt nominativ singular på -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā er en guddom" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā er gudinden for mad og madlavning, hun anses for en inkarnation af Pārvatī, Shivas hustru.)
+::: indent
+(Annapūrṇā er gudinden for mad og madlavning, hun anses for en inkarnation af Pārvatī, Shivas hustru.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī er en gudinde" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī er guden Indras hustru.)
+::: indent
+(Indrāṇī er guden Indras hustru.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ e.g.
 
 devī + umā » devy umā "Umā er en / gudinden" = ⟪देव्युमा⟫
 
-> (Umā er et navn for Pārvatī, Shivas hustru.)
+::: indent
+(Umā er et navn for Pārvatī, Shivas hustru.)
+:::
 
 ::: grammar-box
 **-a / -ā foran uensartet vokal:**

@@ -3,15 +3,15 @@ title: "Pamoka 1"
 subtitle: "Sanskrito garsai"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Pamoka 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Garbinimas Ganešai
@@ -23,7 +23,7 @@ Garbinimas Ganešai
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Dieve, padaryk visas mano pastangas
 Be kliūčių!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Sėkminga pradžia"
@@ -52,7 +52,7 @@ maṅgalacaraṇam
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Kaip žodis ir mintis supratimui
 Pradžioje keistumas:
 
 
->"Kai Viljamas Džonsas [1746–1794] ir Henriko Tomas Kolbrūkas (1765—1857) pirmą kartą išsamiai studijavo sanskritą, dalinai jį išvertė ir rado, kad jis turi turtingą literatūrą ir nemažą giminybę su klasikine kalbomis, jie susidūrė su dideliu pasipriešinimu. Kadangi šis gilus sanskrito ryšys su geografiškai taip tolimomis europiečių kalbomis negalėjo būti suderintas su senaisiais pažiūromis, kurios arba visoms kalboms priskiria hebrajų kilmę, arba jas iš dalies izoliuoja viena nuo kitos, todėl garsusis filologas Dugaldas Stiuartas (1753—1828) pasirinko paprasčiausią išeitį, paskelbdamas visą istoriją su sanskrito kalba melu. Jis parašė esė, kurioje bandė įrodyti, kad ji buvo sukurtą brahmanų pagal graikų ir lotynų kalbų pavyzdį, o pati kalba bei literatūra yra padirbtina. Šią nuomonę dar 1840 metais išplėtojo Dublino profesorius Čarlzas Viljamas Volas plačiai (Göttingische gelehrte Anzeigen 1842 S. 1888)."
->
-::: literatur-box
+::: note-box
+"Kai Viljamas Džonsas [1746–1794] ir Henriko Tomas Kolbrūkas (1765—1857) pirmą kartą išsamiai studijavo sanskritą, dalinai jį išvertė ir rado, kad jis turi turtingą literatūrą ir nemažą giminybę su klasikine kalbomis, jie susidūrė su dideliu pasipriešinimu. Kadangi šis gilus sanskrito ryšys su geografiškai taip tolimomis europiečių kalbomis negalėjo būti suderintas su senaisiais pažiūromis, kurios arba visoms kalboms priskiria hebrajų kilmę, arba jas iš dalies izoliuoja viena nuo kitos, todėl garsusis filologas Dugaldas Stiuartas (1753—1828) pasirinko paprasčiausią išeitį, paskelbdamas visą istoriją su sanskrito kalba melu. Jis parašė esė, kurioje bandė įrodyti, kad ji buvo sukurtą brahmanų pagal graikų ir lotynų kalbų pavyzdį, o pati kalba bei literatūra yra padirbtina. Šią nuomonę dar 1840 metais išplėtojo Dublino profesorius Čarlzas Viljamas Volas plačiai (Göttingische gelehrte Anzeigen 1842 S. 1888)."
+
 [Šaltinis: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Prisijungta 2010-01-10]
 :::
 
@@ -89,7 +89,9 @@ Pav.: Popierinio formato knygos viršelis
 (Nuotraukos šaltinis: [Išsamiau](/lt/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ dalis: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Nuo to laiko išleista daug leidimų, įskaitant popierinio formato. -- **Privaloma literatūra.** Geras apžvalginis tekstas apie gyvenimą, istoriją ir kultūrą priešmusulmoniškame Indijoje. Bendras klasikinės indologijos įvairių sričių apžvalginis tekstas.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ dalis: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Nuo to laiko išleista daug leidimų, įskaitant popierinio formato. -- **Privaloma literatūra.** Geras apžvalginis tekstas apie gyvenimą, istoriją ir kultūrą priešmusulmoniškame Indijoje. Bendras klasikinės indologijos įvairių sričių apžvalginis tekstas.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Pav.: Titulinis lapas
 
 Geriausia sisteminė gramatika:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Iš anglų kalbos vertė W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 psl. -- Originalus pavadinimas: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Pav.: Viršelio pavadinimas
 
 Gera sisteminė gramatika, paremta vietiniais gramatikais ir kartu įvadas į Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Iš pradžių parašyta malajalų kalba. Į anglų kalbą išvertė K.V.R. Pai. -- Parathode : Savileidys, 1983. -- 818 psl. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Iš pradžių parašyta malajalų kalba. Į anglų kalbą išvertė K.V.R. Pai. -- Parathode : Savileidys, 1983. -- 818 psl. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Pav.: Viršelio pavadinimas
 
 Gerą, glaustą Europos kalbotyros terminijos aprašymą rasite:
 
-::: literatur-box
+::: note-box
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Parengė Elmar Seebold. -- 24-asis peržiūrėtas ir papildytas leidimas. -- Berlin [u.a.] : de Gruyter, 2002. -- 1023 p. -- ISBN 3-11-017473-1.I.
 :::
 
@@ -133,7 +137,9 @@ Pav.: Viršelio pavadinimas
 
 Smalsiems ieškantiems papildomos informacijos:
 
-> **Lexikon der Sprachwissenschaft** / išleido Hadumod Bussmann. -- 4-asis pataisytas ir bibliografiškai papildytas leidimas / bendradarbiaujant Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexikon der Sprachwissenschaft** / išleido Hadumod Bussmann. -- 4-asis pataisytas ir bibliografiškai papildytas leidimas / bendradarbiaujant Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Sanskrito garsai
@@ -146,7 +152,7 @@ Tradicinės indų klasifikacijos ir mokslinė transkripcija Sanskrito garsai.
 :::
 Šiuolaikinės Sanskrito žodynai sudaryti pagal šią klasifikaciją. Ši klasifikacija yra būtina Sanskrito gramatikos supratimui, todėl ją reikia išmokti atmintinai:
 
-::: note-box
+::: grammar-box
 Klasifikacija
 **paprasti balsiai** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klasifikacija
 :::
 ### 1.2.1. Apie atskirų garsų tarimą
 
-::: laut-table
 | Garsas | Aprašymas |
 | :--- | :--- |
 | **a - ⟪अ⟫** | Trumpasis „a“ indai – jau nuo seniausių laikų – dažnai tarika kaip ə. Europoje jis tariamas kaip trumpasis a, Bengalijoje – kaip trumpasis tamsusis o. |
@@ -176,7 +181,6 @@ Klasifikacija
 | **h - ⟪ह्⟫** | aspiracijos garsas, niekada ne ilginimo ženklas. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Neskatas aspiracijos garsas su ankstesniojo balsaus arba ankstesniojo diphthongo antrosios dalies aidu: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Prie švilpiančių garsų, h, l: balsaus nosinėjimasis. Galūnėje = m. Viduryje prieš priebalsius: nosinis, atitinkantis sekantįjį priebalsį: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Geriausią tarimą pasiekiama, jei sakinius, eilutes arba žodžius skaitant gana lėtai ir monotoniškai, tiksliai atsižvelgiant į balsų ilgumą.
 
 

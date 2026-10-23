@@ -2,7 +2,7 @@
 title: "Ejercicio 19"
 uebung_id: 19
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -62,5 +62,4 @@ Quien precisamente tiene prosperidad, ese es un erudito.
 ![](/images/uebung029.webp)
 Lám.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung029))
-::: \<!--  --\>
 :::

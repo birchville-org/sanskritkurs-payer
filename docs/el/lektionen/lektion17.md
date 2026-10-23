@@ -2,7 +2,7 @@
 title: "Μάθημα 17"
 subtitle: "Δεύτερη κλάση ριζικών παρατατικών (⟪अदादि⟫ = ⟪अद्⟫ κ.ο.κ.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

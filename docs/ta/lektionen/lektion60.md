@@ -2,7 +2,7 @@
 title: "பாடம் 60"
 subtitle: "இரட்டைப் பெயர்ச்சொற்களின் முன்னிலை வினைமுற்று (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

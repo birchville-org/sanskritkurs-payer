@@ -1,3 +1,4 @@
+
 # Písmo cvičení 8
 
 Samohláskové značky pro začátek slova, pokud není slovo ve zápisu spojeno s předchozím slovem:

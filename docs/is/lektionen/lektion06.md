@@ -2,7 +2,7 @@
 title: "Lección 6"
 subtitle: "La estructura de la oración verbal (agente y forma verbal)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

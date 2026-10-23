@@ -3,8 +3,8 @@ title: "Lição 2"
 subtitle: "A oração nominal e os fundamentos da declinação"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Esquema: Nome predicativo - Sujeito**
+:::
 
+::: indent
 p.ex. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu é um deus."
 :::
 Uma cópula verbal ("é", "são", "sou", "és", "sois") não é necessária, mas pode ocorrer às vezes.
@@ -76,7 +78,9 @@ A terminação de uma palavra no sânscrito também se ajusta à inicial da pala
 
 Veja também o resumo:
 
-> **Payer, Alois (1944–):** Sandhi de -s final. -- (Materiais sobre Sânscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi de -s final. -- (Materiais sobre Sânscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s final:**
 
@@ -120,7 +124,9 @@ antes de outras vogais: torna-se **-a** (Hiato)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (casta de prestadores de serviços).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Os quatro estados (varṇa)**
+
 De acordo com a teoria clássica (por exemplo, Manusmṛti I, 88-91), as tarefas estão distribuídas:
 
 **dos brâmanes**

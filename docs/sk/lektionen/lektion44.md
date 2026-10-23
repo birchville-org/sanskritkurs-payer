@@ -2,7 +2,7 @@
 title: "Lekcia 44"
 subtitle: "Tvorba slovesných foriem druhej osoby (⟪मध्यमः⟫) atematických koreňov s vokálovým koncovým suffixom"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -235,7 +235,7 @@ napr. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Domáci gramatici nepovažujú vokatív (⟪आमन्त्रितम्⟫) za samostatný pád, ale len za modifikáciu nominatívu (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Vokatív slúži na oslovovanie a stojí mimo súvislosti so zvyškom vety, líši sa teda od ostatných pádov, ktoré vyjadrujú vzťah k slovesu alebo k inému podstatnému meniu.**
 
@@ -249,7 +249,7 @@ Domáci gramatici nepovažujú vokatív (⟪आमन्त्रितम्⟫
 
 :::
 
-::: important
+::: warning-box
 
 **Vyhnite sa prekladu vokatívu pomocou "**O** ...". V nemčine neustále používame vokativy, keď napríklad povieme: "Miláčik, čo dnes varíme?". Nikto v tomto význame nepovie: "**O** miláčik, čo dnes varíme?"**
 

@@ -2,7 +2,7 @@
 title: "Oefening 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 # Oefening 50
@@ -98,7 +98,9 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Die koning] moet niets verag, hy moet die mening van elkeen hoor. 'n Geleerde pas ook die woord van 'n kind aan, indien dit betekenisvol is.
+::: indent
+[Die koning] moet niets verag, hy moet die mening van elkeen hoor. 'n Geleerde pas ook die woord van 'n kind aan, indien dit betekenisvol is.
+:::
 
 ---
 
@@ -109,18 +111,24 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya** word die tweemaal-geborene genoem, wat aan die leerling Upanayana gee en hom dan die Veda, die ritueel en die geheime leer onderwys.
+::: indent
+**Ācārya** word die tweemaal-geborene genoem, wat aan die leerling Upanayana gee en hom dan die Veda, die ritueel en die geheime leer onderwys.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya** word die een genoem, wat om sy broodwinning wil 'n deel van die Veda of die hulpwetenskappe onderwys.
+::: indent
+**Upādhyāya** word die een genoem, wat om sy broodwinning wil 'n deel van die Veda of die hulpwetenskappe onderwys.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru** word die Brahman genoem, wat volgens voorskrif Niṣeka en die ander rituele voltrek en hom deur kos laat ontstaan.
+::: indent
+**Guru** word die Brahman genoem, wat volgens voorskrif Niṣeka en die ander rituele voltrek en hom deur kos laat ontstaan.
+:::

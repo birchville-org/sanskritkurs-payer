@@ -2,7 +2,7 @@
 title: "Դաս 29"
 subtitle: "Պարասմայիպադայի (⟪परस्मैपद⟫) և Ātmanepada-ի (⟪आत्मनेपद⟫) կիրառումը կաուսատիվում"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

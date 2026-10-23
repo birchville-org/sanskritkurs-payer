@@ -2,7 +2,7 @@
 title: "12. lecke"
 subtitle: "A PPP (befejezett passzív melléknévi igenév)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ Ebben az esetben a PPP megegyezik a tárgy számában, esetében és nemében.
 Segédige („lenni“) nem szükséges.
 
 Példák:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(A szenttől egy mennyország megszerzett) = A szent megszerezte a mennyországot.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(A brahmanától az istennőt egy áldozattal tiszteletben tartották) = A brahmana tisztelte az istennőt egy áldozattal.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(A szenttől egy mennyország megszerzett) = A szent megszerezte a mennyországot.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(A brahmanától az istennőt egy áldozattal tiszteletben tartották) = A brahmana tisztelte az istennőt egy áldozattal.“
 
 :::
 
@@ -47,7 +47,7 @@ Példák:
 Ebben az esetben a PPP megegyezik az agens számában, esetében és nemében. Az intranszitatív igékhez (közvetlen tárgy nélküli igék) és mozgásigékhez a Participle Perfekt „Passiv“ aktív jelentéssel bír.
 
 Példa:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „A kṣatriya nő a városba ment.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „A kṣatriya nő a városba ment.“
 
 :::
 
@@ -58,7 +58,7 @@ Példa:
 **Cselekvő (kartṛ) instrumentális esetben (tṛtīyā) -- PPP nominativus singularis semleges nemben**
 
 Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A ksatrijától [a városba] mentetett) = A ksatirja (a városba) ment.”
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A ksatrijától [a városba] mentetett) = A ksatirja (a városba) ment.”
 
 A II. séma szerinti szerkezet sokkal ritkább, mint az I. séma szerinti.
 

@@ -2,7 +2,7 @@
 title: "පාඩම 60"
 subtitle: "ද්විත්වයේ සම්පූර්ණ කාල ප්‍රත්‍යය (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

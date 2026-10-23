@@ -753,7 +753,7 @@ Fig.: Melodia, relacionada a c, pode ser transposta dependendo da tessitura voca
 
 Su che Vus avais ussa imparà ils fundament dal sanscrit, spetgain nus ch’Vus seias sco ils uffants pitschens en il video: a maun ina giada maladretgs, ma avids d’imparar e da savair ed entusiasmads per la materia. Mantegnì fin a la fin da Vossa vita «ina ment principianta».
 
-::: center
+::: verse-box
 Quai Vus gida Voss Alois Payer
 
 Ofterdingen, 2009-03-09

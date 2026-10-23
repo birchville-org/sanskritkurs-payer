@@ -1,3 +1,4 @@
+
 # Ushtrim Shkrimi 10
 
 ### Rregulli i Dytë për Formimin e Ligaturave të Konsonanteve
@@ -8,13 +9,17 @@ Nëse konsonanti i parë që duhet të bashkohet nuk përfundon me një vijë ve
 
 Përjashtime: Nëse ⟪म्⟫ ose ⟪य्⟫ janë pjesa e dytë e ligaturës, ato shkruhen të shkurtruara pas simbolit të parë:
 
-> ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+::: indent
+⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+:::
 
 Mbani mend:
 
-> ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
-> 
-> ⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+::: indent
+⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
+
+⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+:::
 
 ![](/images/schrift020.jpg)
 

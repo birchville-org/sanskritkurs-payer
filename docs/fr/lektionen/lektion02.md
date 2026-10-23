@@ -3,8 +3,8 @@ title: "Leçon 2"
 subtitle: "La proposition nominale et les fondements de la déclinaison"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schéma : Nom prédicatif - Sujet**
+:::
 
+::: indent
 ex. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu est un dieu."
 :::
 Une copule verbale ("est", "sont", "je suis", "tu es", "vous êtes") n'est pas nécessaire, mais peut parfois apparaître.
@@ -76,7 +78,9 @@ En sanskrit, la finale d'un mot est également déterminée par l'initiale du mo
 
 Voir aussi le tableau récapitulatif :
 
-> **Payer, Alois (1944–) :** Sandhi des finales en -s. -- (Matériaux pour le sanskrit). -- URL : http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–) :** Sandhi des finales en -s. -- (Matériaux pour le sanskrit). -- URL : http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Finales en **-s** :
 
@@ -120,7 +124,9 @@ devant d'autres voyelles : devient **-a** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordre de service).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Les quatre états (varṇa)**
+
 Selon la théorie classique (par ex. Manusmṛti I, 88-91), les tâches sont réparties :
 
 **des Brahmanes**

@@ -2,7 +2,7 @@
 title: "Lekce 39"
 subtitle: 'Osobní koncovky první osoby (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**třetí** osoba\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

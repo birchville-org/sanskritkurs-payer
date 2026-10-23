@@ -2,7 +2,7 @@
 title: "Ejercicio 45"
 uebung_id: 45
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -62,5 +62,4 @@ Enemigo, con la espada no abres el alma (la vida).
 ![](/images/uebung074.webp)
 Fig.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung074))
-::: \<!--  --\>
 :::

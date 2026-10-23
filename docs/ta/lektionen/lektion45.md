@@ -2,7 +2,7 @@
 title: "பாடம் 45"
 subtitle: "இரண்டாம் வேற்றுமை வினைச்சொற்களின் உருவாக்கம் (⟪मध्यमः⟫) துடிப்பற்ற தனிமங்களுக்குச் சுவை முடிச்சு இல்லாமல் முடிவதில்லை (தொடர்ச்சி)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

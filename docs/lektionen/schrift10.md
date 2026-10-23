@@ -1,3 +1,4 @@
+
 # Schriftübung 10
 
 ### Zweite Regel zur Bildung von Konsonantenligaturen
@@ -8,13 +9,17 @@ Wenn der erste der zu verbindenden Konsonanten nicht mit einem senkrechten Stric
 
 Ausnahmen: Sind ⟪म्⟫ bzw. ⟪य्⟫ das zweite Glied der Ligatur, so werden sie verkürzt hinter das erste Zeichen geschrieben:
 
-> ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+::: indent
+⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+:::
 
 Merke:
 
-> ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
-> 
-> ⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+::: indent
+⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
+
+⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+:::
 
 ![](/images/schrift020.jpg)
 

@@ -2,7 +2,7 @@
 title: "Les 30"
 subtitle: 'De negende presentieklassse (⟪क्र्यादि⟫ = \"⟪क्री⟫ enz.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

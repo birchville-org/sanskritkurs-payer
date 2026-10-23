@@ -2,7 +2,7 @@
 title: "Exercice 36"
 uebung_id: 36
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -141,9 +141,9 @@ Déterminez et traduisez les formes de mot suivantes :
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | il révéla |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pr. | il relie pour lui |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | il but |
-:::: media
+:::
+::: media
 ![](/images/uebung059.webp)
 Fig. : ⟪जगौ⟫
 (Source de l'image : [Détails](/fr/licenses#uebung059))
-::::
 :::

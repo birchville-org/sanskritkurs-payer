@@ -2,7 +2,7 @@
 title: "Lição 10"
 subtitle: "A oração passiva (Instrumental do agente)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Esquema:**
 **(Agente - kartṛ - no instrumental (tṛtīyā)) - (objeto direto - karman - no nominativo) - forma verbal passiva**
+:::
 
+::: indent
 p. ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Um brâmane adora um deus com um sacrifício" (literalmente: "Um deus é adorado por um brâmane com um sacrifício.")
-
 Esta frase é **completamente (!) idêntica em significado** à frase:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ p. ex. **ijyate** = ⟪इज्यते⟫ "Sacrifica-se" (literalmente: "ador
 :::
 As construções passivas em sânscrito são extremamente comuns: a passiva é, de fato, mais fácil de formar do que, por exemplo, os numerosos radicais do presente.
 
-::: important
+::: warning-box
 **As frases passivas em sânscrito geralmente não devem ser traduzidas para o português por uma frase passiva, pois a passiva em português tem uma função estilística completamente diferente.**
 :::
 
@@ -228,8 +229,6 @@ p. ex. **tan** 8 U.
 ::: note-box
 Na Índia, atribuía-se poder mágico à palavra verdadeira; de fato, toda a ordem do mundo é mantida e criada pela palavra verdadeira. Para esta importante concepção, veja a obra fundamental:
 
-:::
-::: literatur-box
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editado postumamente por Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e o Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
@@ -360,7 +359,7 @@ Fig.: ⟪तन्तुवायः⟫
 ⟪क⟫
 
 ⟪१⟫.
-::: center
+::: verse-box
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫

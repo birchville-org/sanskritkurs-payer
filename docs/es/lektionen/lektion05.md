@@ -2,7 +2,7 @@
 title: "Lección 5"
 subtitle: "Fundamentos de los compuestos nominales (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Los miembros iniciales de los compuestos (no solo Dvandvas) tienen generalmente 
 Ejemplos de Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanes, Kṣatriyas, Vaiśyas y Śūdras)
-> 
-> o = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((un/el) Brahman, Kṣatriya, Vaiśya y Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanes, Kṣatriyas, Vaiśyas y Śūdras)
+
+o = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((un/el) Brahman, Kṣatriya, Vaiśya y Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Poetas y maestros [Plur.])
-> (Nota: "Un poeta y un maestro" debería estar en dual)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Poetas y maestros [Plur.])
+(Nota: "Un poeta y un maestro" debería estar en dual)
+:::
 
 **Para el orden de los miembros en un Dvandva se aplican, entre otras, las siguientes reglas:**
 La designación de los distintos estamentos (**varṇa**) debe ordenarse según su jerarquía (el más alto primero).

@@ -2,7 +2,7 @@
 title: "పాఠం 46"
 subtitle: "రెండవ వ్యక్తి యొక్క క్రియా రూపాల నిర్మాణం (⟪मध्यमः⟫) పూర్వకాలం (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -478,7 +478,9 @@ Absol. -⟪ग्राह्य⟫
 
 ⟪राहु⟫ మరియు ⟪केतु⟫ గురించి చూడండి:
 
-> **పేయర్, అలోయిస్ (1944–):** ధర్మశాస్త్రం: పరిచయం మరియు సమీక్ష. -- 10. సంస్కారాలు మరియు మార్పు వేడుకలు (సంస్కార). -- అనుబంధం C: రాహు మరియు కేతు, అదృశ్య భ్రమణ నక్షత్రాలు . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**పేయర్, అలోయిస్ (1944–):** ధర్మశాస్త్రం: పరిచయం మరియు సమీక్ష. -- 10. సంస్కారాలు మరియు మార్పు వేడుకలు (సంస్కార). -- అనుబంధం C: రాహు మరియు కేతు, అదృశ్య భ్రమణ నక్షత్రాలు . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

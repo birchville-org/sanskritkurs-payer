@@ -81,9 +81,9 @@ Shembuj:
 *   përpara konsonantit: Niveli i ulët -i
 *   përpara zanorëve: Niveli i ulët Ø
 
-> Formohet nga rrëzë me -ā / -āi
+Formohet nga rrëzë me -ā / -āi
 :::
-> Shembull:
+Shembull:
 
 
 | Rrëza | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -93,43 +93,43 @@ Shembuj:
 ## 35.3. Perfekt Tipi V: Rrëza Konsonant-a-Konsonant
 
 ::: grammar-box
-> **Formimi:**
+**Formimi:**
 
 **Stol i fortë:**
-> *   3.sg.P: Niveli i zgjatuar
+*   3.sg.P: Niveli i zgjatuar
 *   2.sg.P: Niveli i lartë
-> *   1.sg.P: në mënyrë opsionale Niveli i lartë ose Niveli i zgjatuar
+*   1.sg.P: në mënyrë opsionale Niveli i lartë ose Niveli i zgjatuar
 
 **Stol i dobët:** shih nëntipet
 
-> Formohet nga rrëza të tipit (Konsonant)-Konsonant-a-Konsonant
+Formohet nga rrëza të tipit (Konsonant)-Konsonant-a-Konsonant
 :::
-> ### 35.3.1. Perfekt Tipi Va: stol i dobët me nivel të ulët
+### 35.3.1. Perfekt Tipi Va: stol i dobët me nivel të ulët
 
 ::: grammar-box
-> **Formimi:**
+**Formimi:**
 
 :::
 ::: indent
-> **Stol i dobët:** Niveli i ulët
+**Stol i dobët:** Niveli i ulët
 :::
-> Formohet veçanërisht nga rrëzat:
+Formohet veçanërisht nga rrëzat:
 *   ⟪गम्⟫
-> *   ⟪हन्⟫
+*   ⟪हन्⟫
 *   ⟪जन्⟫
-> *   ⟪वच्⟫
+*   ⟪वच्⟫
 *   ⟪वद्⟫
-> *   ⟪यज्⟫
+*   ⟪यज्⟫
 Shembuj:
 
 
-> | Rrëza | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Rrëza | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
-> | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
+| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-> | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | ⟪ऊदे⟫ | ⟪ऊदिरे⟫ |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | ⟪ऊदे⟫ | ⟪ऊदिरे⟫ |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Perfekt Tipi Vb: rrjedhë e dobët Kontraksion (tipi me -e-)

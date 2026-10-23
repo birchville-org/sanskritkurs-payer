@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (classa da prestaziuns).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Ils quatter stadis (varṇa)**
+
 Tenor la teoria classica (p.ex. Manusmṛti I, 88-91) èn las incumbensas distribuidas:
 
 **dals Brahman**
@@ -463,8 +465,6 @@ per **yaj** 1 U:
 ::: note-box
 En l'India attribuiva ins al verbatim magìa, e tut l'ordinaziun dal mund vegn mantegnida e creada tras il verbatim. Per questa concepziun impurtanta vesair l'ovra fundamental:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dal postament publicà da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : dumandar (inquaquant: Acc.; davart inquaquant: Acc.)
 **saha** ⟪सह⟫ : ensemen cun, ensemen cun (era en cas da „lutar cun“ etc.) (Postposiziun cun instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dal postament elavurà da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e l'Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : dumandar (inquaquant: Acc.; davart inquaquant: Acc.)
 **saha** ⟪सह⟫ : ensemen cun, ensemen cun (era en cas da „lutar cun“ etc.) (Postposiziun cun instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edità dal postum da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII paginas, pagina 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Memorisar las suandantas paraulas:
 **eva** ⟪एव⟫ : emfatgescha la parola precedenta
 **asura** m. ⟪असुर⟫ : demun
 
-> **ASURA.** 'Spiritual, divin.'
->
-> En las part veglias dal Ṛgveda questa parola vegn duvrada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il senn da 'deus' è ella vegnida applicada a blers dals deus principals, sco per Indra, Agni e Varuṇa. Suenter ha ella gudagnà in senn totalmain cuntrari e significia sco ussa, in demun u inimic dals deus.
->
-> La parola vegn chattada cun quest senn en las part pli novas dal Ṛgveda, specialmain en l'ultim liber, ed er en l'Atharvaveda. Ils Brāhmaṇas attacheschan il medem senn a questa parola e rapportan bleras cumbattiments tranter ils Asuras ed ils deus. Cunform al Taittirīya Brāhmaṇa, il spirt *(asu)* da Prajapati è vegnì viv e "cun quest spirt ha el creà mi Asuras." En in'autra part dal medem lavur è ditg che Prajāpati "è vegnì enclaussà. El ha creà Asuras da ses abdomen." Il Śatapatha Brāhmaṇa è cunform a la decleraziun anteriura e declera che "el ha creà Asuras da ses spirt inferiur." Il Taittirīya Āraṇyaka represchenta che Prajāpati ha creà deus, umans, patris, Gandharvas e Apsarases da l'aua, ed ils Asuras, Rakṣasas e piśācas èn naschids da las guttas ch'èn vegnidas versadas. La decleraziun da Manu è che els èn vegnids creads dals Prajāpatis.
->
-> Cunform al Viṣṇu Purāṇa, els èn naschids dal gremel da Brahma (prajāpati). La decleraziun dal Vāyu Purāṇa è: "Asuras èn vegnids creads sco figls da ses (Prajāpati's) gremel. *Asu* è declerà dal Brāhmaṇa sco spirt. Da questas essers èn naschids; perquai èn els Asuras." La parola è da temp veglia duvrada sco num general per ils inimics dals deus, cun l'inclusiun da Daityas e Danavas ed autras discendents da Kaśyapa, ma betg cun l'inclusiun dals Rakṣasas discendents da Pulastya.
->
-> En quest senn è ina derivaziun differenta chattada per ella: la font n'è betg pli asu, 'spirt', ma l'inizial *a* è prendì sco prefix negativ e *asura* significia 'betg in deus;' perquai, cunform ad auturs, è naschida la parola *sura,* comunamain duvrada per 'in deus.'"
->
-> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, divin.'
+
+En las part veglias dal Ṛgveda questa parola vegn duvrada per il spirit suprem, ed è la medema sco l'Ahura dals Zoroastrians. En il senn da 'deus' è ella vegnida applicada a blers dals deus principals, sco per Indra, Agni e Varuṇa. Suenter ha ella gudagnà in senn totalmain cuntrari e significia sco ussa, in demun u inimic dals deus.
+
+La parola vegn chattada cun quest senn en las part pli novas dal Ṛgveda, specialmain en l'ultim liber, ed er en l'Atharvaveda. Ils Brāhmaṇas attacheschan il medem senn a questa parola e rapportan bleras cumbattiments tranter ils Asuras ed ils deus. Cunform al Taittirīya Brāhmaṇa, il spirt *(asu)* da Prajapati è vegnì viv e "cun quest spirt ha el creà mi Asuras." En in'autra part dal medem lavur è ditg che Prajāpati "è vegnì enclaussà. El ha creà Asuras da ses abdomen." Il Śatapatha Brāhmaṇa è cunform a la decleraziun anteriura e declera che "el ha creà Asuras da ses spirt inferiur." Il Taittirīya Āraṇyaka represchenta che Prajāpati ha creà deus, umans, patris, Gandharvas e Apsarases da l'aua, ed ils Asuras, Rakṣasas e piśācas èn naschids da las guttas ch'èn vegnidas versadas. La decleraziun da Manu è che els èn vegnids creads dals Prajāpatis.
+
+Cunform al Viṣṇu Purāṇa, els èn naschids dal gremel da Brahma (prajāpati). La decleraziun dal Vāyu Purāṇa è: "Asuras èn vegnids creads sco figls da ses (Prajāpati's) gremel. *Asu* è declerà dal Brāhmaṇa sco spirt. Da questas essers èn naschids; perquai èn els Asuras." La parola è da temp veglia duvrada sco num general per ils inimics dals deus, cun l'inclusiun da Daityas e Danavas ed autras discendents da Kaśyapa, ma betg cun l'inclusiun dals Rakṣasas discendents da Pulastya.
+
+En quest senn è ina derivaziun differenta chattada per ella: la font n'è betg pli asu, 'spirt', ma l'inizial *a* è prendì sco prefix negativ e *asura* significia 'betg in deus;' perquai, cunform ad auturs, è naschida la parola *sura,* comunamain duvrada per 'in deus.'"
+
+[Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3788,7 +3790,9 @@ da quai:
 :::
 A ⟪राहु⟫ e ⟪केतु⟫ vesair:
 
-> **Payer, Alois (1944–):** Dharmashastra: Introducziun e survista. -- 10. Sacraments e ritus da transiziun (samskara). -- Appendix C: Rahu e Ketu, ils planets viagiadors invisibels . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra: Introducziun e survista. -- 10. Sacraments e ritus da transiziun (samskara). -- Appendix C: Rahu e Ketu, ils planets viagiadors invisibels . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4403,7 +4407,9 @@ betg duvrà en ils ulteriurs temps
 
 ⟪अजिन⟫ n.: pel d’antilopa, specialmain la pel da l’antilopa negra (antilopa cervicapra : _Antilope cervicapra_ L. ). Originarmain era preschenta sin l’entir subcontinent indian dal Punjab e Sind fin al Bengala e dal Nepal fin a Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Vesa:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

@@ -2,7 +2,7 @@
 title: "ლექსიონი 21"
 subtitle: "სხვა წარმოებადები -nt-ზე"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

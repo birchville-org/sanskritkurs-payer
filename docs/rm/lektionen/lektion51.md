@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -341,7 +341,9 @@ p.ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: pel d'antilopa, spezialmain il pel da l'antilopa negra (gatt antilop: _Antilope cervicapra_ L. ). Originàrmain era preschenta sin l'entir subcuntinent indian dal Punjab e Sind fin al Bengala ed dal Nepal fin a Kanyakumari (Cap Comorin) (Tamil: கன்னியாகுமரி) Vesei:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

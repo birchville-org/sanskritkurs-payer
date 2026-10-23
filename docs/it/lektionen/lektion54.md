@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ La ⟪त्रिष्टुभ्⟫ ha due schemi fondamentali, a seconda ch
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 La quantità delle ultime quattro sillabe è quindi identica in entrambi gli schemi.
 
 Forma base ⟪जगती⟫: come nella ⟪त्रिष्टुभ्⟫, ma di dodici sillabe. Le ultime cinque sillabe di ogni Pada presentano le seguenti quantità:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Inoltre esiste la cosiddetta tipica ⟪त्रिष्टुभ्⟫ sovrabbondante con un primo membro di cinque sillabe, che prosegue come una ⟪त्रिष्टुभ्⟫ con un primo membro di quattro sillabe:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In epoca successiva le forme della ⟪त्रिष्टुभ्⟫ vengono stabilite secondo uno schema rigoroso di lunghezze e brevizze; la cesura non ha più importanza. Le forme successive più importanti sono:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

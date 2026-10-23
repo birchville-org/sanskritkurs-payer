@@ -2,7 +2,7 @@
 title: "第16課"
 subtitle: "關於詞尾輔音的連聲"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

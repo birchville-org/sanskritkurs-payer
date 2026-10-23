@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : 首陀罗（服务阶层）。
 
-::: note-box 四个瓦尔那 (varna)
+::: note-box
+**四个瓦尔那 (varna)**
+
 
 根据古典理论（例如《摩奴法典》I, 88-91），职责分配如下：
 
@@ -516,9 +518,6 @@ c) 通过阶层对政治或神权统治权力的**占有**作为垄断（政治�
 
 在印度，人们认为真实的言语具有魔力；事实上，整个宇宙秩序都由真实言语维持和创造。关于这一重要观念，请参阅基础著作：
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由Ludwig Alsdorf整理遗稿出版。- 哥廷根：Vandenhoeck & Ruprecht出版社。-- 第2卷：《Varuna与Ṛta》。-- 1959年出版。-- XXIII页，第340 - 764页
 
@@ -562,7 +561,7 @@ Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由Ludwig Als
 **prach** 第六人称单数现在时 (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫：问（某人：宾格；关于某事：与格）
 **saha** ⟪सह⟫：与……一起，共同（也用于“与……战斗”等）（后置于工具格）
 
-::: literatur-box
+::: note-box
 
 吕德斯，海因里希 (1869–1943)：《伐楼那》/ 海因里希·吕德斯。由路德维希·阿尔斯多夫根据遗稿编辑整理。- 哥廷根：范登霍普与鲁普雷希特出版社。-- 第二卷：《伐楼那与利塔》。-- 1959年出版。-- XXIII页，第340-764页
 
@@ -606,7 +605,7 @@ Lüders, Heinrich (1869–1943)：《Varuna》/ Heinrich Lüders。由Ludwig Als
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ ：问（某人：与格；关于某事：宾格）
 **saha** ⟪सह⟫ ：与……一起，共同（也可用于“与……战斗”等语境）（接工具格的后置词）
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. 由 Ludwig Alsdorf 从遗稿中编辑出版。 - 哥廷根 : Vandenhoeck & Ruprecht. -- 第2卷: Varuna 与 Ṛta。 -- 1959. -- XXIII页，第340 - 764页
 
@@ -818,17 +817,19 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. 由 Ludwig Alsdorf �
 **eva** ⟪एव⟫ : 强调前面的词
 **asura** m. ⟪असुर⟫ : 恶魔
 
-> **ASURA。** “精神的，神圣的。”
->
-> 在《梨俱吠陀》最古老的部分中，这个词被用来指最高精神，与琐罗亚斯德教徒的阿胡拉（Ahura）相同。在“神”的含义上，它被应用于几位主要的神祇，如因陀罗（Indra）、阿耆尼（Agni）和伐楼那（Varuṇa）。后来它获得了完全相反的含义，并像现在一样表示恶魔或神的敌人。
->
-> 这个词在《梨俱吠陀》的后期部分，特别是最后一卷中，以及在《阿闼婆吠陀》中都找到了这种意义。《梵书》赋予它相同的含义，并记录了许多阿修罗与神之间的争斗。根据《泰帝利耶梵书》，普拉萨帕蒂的呼吸（*asu*）变得有生命，并且“用那呼吸他创造了我们这些阿修罗。”在同一作品的另一部分中说，普拉萨帕蒂“怀孕了。他从腹部创造了阿修罗。”《百道梵书》与前者陈述一致，并指出“他从下呼吸创造了阿修罗。”《泰帝利耶森林书》表示普拉萨帕蒂从水中创造了神、人、父亲、乾闼婆和阿普萨拉，而阿修罗、罗刹和食人魔则从洒出的水滴中诞生。摩奴的说法是他们由普拉萨帕蒂创造。
->
-> 根据《毗湿奴往世书》，他们是从梵天（普拉萨帕蒂）的腹股沟产生的。《风神往世书》的说法是：“阿修罗首先作为他的（普拉萨帕蒂的）腹股沟的儿子产生。*Asu* 被《梵书》宣布为呼吸的意思。从它这些生物产生；因此他们是阿修罗。”这个词长期以来一直用作神的敌人的总称，包括戴提亚和达那婆以及其他迦叶波的后裔，但不包括从普拉斯蒂耶-descended的罗刹。
->
-> 在这种意义上，人们为它找到了不同的词源：来源不再是*asu*，“呼吸”，而是初始*a*被视为否定前缀，因此*asura*意味着“不是神”；因此，根据某些人的说法，产生了*sura*这个词，通常用于表示“一个神。”
->
-> [来源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA。** “精神的，神圣的。”
+
+在《梨俱吠陀》最古老的部分中，这个词被用来指最高精神，与琐罗亚斯德教徒的阿胡拉（Ahura）相同。在“神”的含义上，它被应用于几位主要的神祇，如因陀罗（Indra）、阿耆尼（Agni）和伐楼那（Varuṇa）。后来它获得了完全相反的含义，并像现在一样表示恶魔或神的敌人。
+
+这个词在《梨俱吠陀》的后期部分，特别是最后一卷中，以及在《阿闼婆吠陀》中都找到了这种意义。《梵书》赋予它相同的含义，并记录了许多阿修罗与神之间的争斗。根据《泰帝利耶梵书》，普拉萨帕蒂的呼吸（*asu*）变得有生命，并且“用那呼吸他创造了我们这些阿修罗。”在同一作品的另一部分中说，普拉萨帕蒂“怀孕了。他从腹部创造了阿修罗。”《百道梵书》与前者陈述一致，并指出“他从下呼吸创造了阿修罗。”《泰帝利耶森林书》表示普拉萨帕蒂从水中创造了神、人、父亲、乾闼婆和阿普萨拉，而阿修罗、罗刹和食人魔则从洒出的水滴中诞生。摩奴的说法是他们由普拉萨帕蒂创造。
+
+根据《毗湿奴往世书》，他们是从梵天（普拉萨帕蒂）的腹股沟产生的。《风神往世书》的说法是：“阿修罗首先作为他的（普拉萨帕蒂的）腹股沟的儿子产生。*Asu* 被《梵书》宣布为呼吸的意思。从它这些生物产生；因此他们是阿修罗。”这个词长期以来一直用作神的敌人的总称，包括戴提亚和达那婆以及其他迦叶波的后裔，但不包括从普拉斯蒂耶-descended的罗刹。
+
+在这种意义上，人们为它找到了不同的词源：来源不再是*asu*，“呼吸”，而是初始*a*被视为否定前缀，因此*asura*意味着“不是神”；因此，根据某些人的说法，产生了*sura*这个词，通常用于表示“一个神。”
+
+[来源：**Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4743,7 +4744,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 关于⟪राहु⟫和⟪केतु⟫，请参阅：
 
-> **Payer, Alois (1944–)：**《法论》：导论与概述。 -- 第十部分：十种圣礼与过渡仪式（samskara）。 -- 附录C：罗睺和计都，两颗隐形的行星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–)：**《法论》：导论与概述。 -- 第十部分：十种圣礼与过渡仪式（samskara）。 -- 附录C：罗睺和计都，两颗隐形的行星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5537,7 +5540,9 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ（卡兰吉湖）
 
 ⟪अजिन⟫ 中性名词：羚羊皮，特指黑羚羊（黑羚 : _Antilope cervicapra_ L. ）的皮。它原本分布于整个印度次大陆，从旁遮普和信德到孟加拉，从尼泊尔到坎尼亚库马里（Cape Comorin）（泰米尔语：கன்னியாகுமரி）。参见：
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 

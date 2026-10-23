@@ -2,7 +2,7 @@
 title: "บทที่ 45"
 subtitle: "การสร้างรูปกริยาบุรุษที่สอง (⟪मध्यमः⟫) ของรากศัพท์ประเภทอเทอมะที่ไม่มีส่วนท้ายลงด้วยสระ (ต่อจากก่อนหน้า)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Övning 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Ignorance means regarding the impermanent, impure, painful, and non-absolute as 
 
 Creatures must tremble before a too harsh regime (daṇḍa). A lax regime is despised. A correctly balanced regime is revered. A wisely guided regime promotes righteousness, profit, and pleasure among the subjects. A poorly governed regime due to lust or hatred or contempt angers even old men and wandering ascetics who have withdrawn into the forest, let alone householders. Unexercised regime leads to behavior like that of fish (mātsyanayāya). For if there is no one to uphold the regime, the strong devour the weak. If the weak are protected by the ruler, they flourish.
 
-> The world with its four varṇas and āśramas  
-> Is protected by the king through governance:  
-> Glad about activity according to its own dharma and custom,  
-> It moves along its own paths.
+::: indent
+The world with its four varṇas and āśramas
+Is protected by the king through governance:
+Glad about activity according to its own dharma and custom,
+It moves along its own paths.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

@@ -2,7 +2,7 @@
 title: "Bài 16"
 subtitle: "Về Sandhi của phụ âm cuối"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

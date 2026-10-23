@@ -2,7 +2,7 @@
 title: "Oppitunti 45"
 subtitle: "Verbinmuotojen toisen persoonan muodostaminen (⟪मध्यमः⟫) atemaattisissa vartaloissa, joissa ei ole vokaalilla päättyvää päätteitä (jatkoa)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

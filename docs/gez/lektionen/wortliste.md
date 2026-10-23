@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box አርባዕቱ ክፍለ ሕዝብ (varna)
+::: note-box
+**አርባዕቱ ክፍለ ሕዝብ (varna)**
+
 
 በመሠረተ ቃል ዘጥንታዊት (ለምሳሌ ማኑስምርቲ ፩፣ ፹፰-፺፩) ተከፍለ እሙንቱ ግብራት፡
 
@@ -522,9 +524,6 @@ outline: 2
 
 በሕንድ እውነተኛው ቃል አስማታዊ ኃይል እንዳለው ይታመን ነበር፤ በእርግጥም መላው የዓለም ሥርዓት በእውነተኛው ቃል ይጠበቃል እንዲሁም ይፈጠራል። ስለዚህ አስፈላጊ ጽንሰ ሐሳብ መሠረታዊውን ሥራ ተመልከት፦
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -570,7 +569,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : መጠየቅ (አንድን ሰው: ተሳቢ፤ ስለ አንድ ነገር: ተሳቢ)
 **saha** ⟪सह⟫ : ከጋራ፣ ከጋራ (እንዲሁም "ከጋራ መዋጋት" ወዘተ) (የቦታ መስተዋድድ ከመሳሪያ ጋር)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -616,7 +615,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ይስአል (ለአሐዱ፡ ተውሳከ ግብር፤ ስለ አሐዱ፡ ተውሳከ ግብር)
 **saha** ⟪सह⟫ : ምስለ፣ ኅብረ (እስከ "ይትዋጋ ምስለ" ወዘተ.) (ድኅረ ቃል ምስለ መሣርያዊ)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -852,17 +851,19 @@ Zur Wortbildung:
 - **eva** ⟪एव⟫ : betont vorhergehendes Wort
 - **asura** m. ⟪असुर⟫ : Dämon
 
-> **ASURA.** 'Spiritual, divine.'
->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, divine.'
+
+In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+
+The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+
+According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+
+In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+
+[Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4850,7 +4851,9 @@ davon:
 
 ለ ⟪राहु⟫ ወ ⟪केतु⟫ ርአይ፡
 
-> **Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5667,7 +5670,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (Blackbuck : _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sind to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+:::
 
 ::: media
 

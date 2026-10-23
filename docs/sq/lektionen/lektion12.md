@@ -2,7 +2,7 @@
 title: "Mësimi 12"
 subtitle: "Participi i Shkurtër Pasiv (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Në këtë rast, PPP përputhet me objektin në numër, raste dhe gjini.
 Nuk është i nevojshëm një folje ndihmëse ("të jesh").
 
 Shembuj:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Nga i shenjti u arrit një qiell) = I shenjti ka arritur një qiell."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nga brahmani u nderua hyjnesha me një flijim) = Brahmani e nderoi hyjneshën me një flijim."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Nga i shenjti u arrit një qiell) = I shenjti ka arritur një qiell."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Nga brahmani u nderua hyjnesha me një flijim) = Brahmani e nderoi hyjneshën me një flijim."
 :::
 
 ### 12.1.2. Skema I për foljet intransitive dhe foljet e lëvizjes
@@ -42,7 +42,7 @@ Shembuj:
 Në këtë rast, PPP përputhet me agensin në numër, raste dhe gjini. Participo i Përsosur "Pasiv" ka kuptim aktiv te foljet intransitive (folje pa objekt të drejtpërdrejtë) dhe te foljet e lëvizjes.
 
 Shembull:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Grua kshatriya ka shkuar në qytet."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Grua kshatriya ka shkuar në qytet."
 :::
 
 ### 12.1.3. Skema II për foljet intransitive dhe foljet e lëvizjes
@@ -51,7 +51,7 @@ Shembull:
 **Agjenti (kartṛ) në Instrumental (tṛtīyā) -- PPP në Nominativ Singular Neutër**
 
 Shembull:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(U ecën (në qytet) nga Kṣatriya) = Kṣatriya ka ecur (në qytet).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(U ecën (në qytet) nga Kṣatriya) = Kṣatriya ka ecur (në qytet).“
 
 Konstrukcioni sipas Skemës II është shumë më i rrallë se konstrukcioni sipas Skemës I.
 :::

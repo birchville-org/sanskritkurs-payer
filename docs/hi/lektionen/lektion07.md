@@ -2,7 +2,7 @@
 title: "पाठ 7​"
 subtitle: "सीधे कर्म वाले क्रिया वाक्य"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # पाठ 7
 
 
-::: center
+::: verse-box
 **सप्ताह का वाक्य**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **आरेख:**
 **(kartṛ m. = ⟪कर्तृ⟫) – प्रत्यक्ष वस्तु (karman n. = ⟪कर्मन्⟫) – क्रिया**
+:::
 
+::: indent
 उदाहरण के लिए,
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "राम एक फल खाता है।"
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "ब्राह्मण एक देवता की पूजा करता है (किसी अन्य के लिए)।"

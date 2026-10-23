@@ -2,7 +2,7 @@
 title: "Bài 29"
 subtitle: "Cách dùng Parasmaipada (⟪परस्मैपद⟫) và Ātmanepada (⟪आत्मनेपद⟫) trong dạng nguyên nhân"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

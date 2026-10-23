@@ -2,7 +2,7 @@
 title: "第21課"
 subtitle: "其他以 -nt 結尾的現在詞幹"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

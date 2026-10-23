@@ -2,7 +2,7 @@
 title: "[Vaja 32]"
 uebung_id: 32
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

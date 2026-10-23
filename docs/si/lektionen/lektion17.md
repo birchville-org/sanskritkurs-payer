@@ -2,7 +2,7 @@
 title: "පාඩම 17"
 subtitle: "දෙවන වර්තමාන කාල පන්තිය (⟪अदादि⟫ = ⟪अद्⟫ ආදී)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lekce 7"
 subtitle: "Slovesná věta s přímým objektem"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # Lekce 7
 
 
-::: center
+::: verse-box
 
 **Týdenní heslo**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ Bůh vítězí, ne protibůh.
 ## 7.1. Slovesná věta s přímým objektem
 
 ::: grammar-box
-
 **Schéma:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – přímý objekt (karman n. = ⟪कर्मन्⟫) – sloveso**
+:::
 
+::: indent
 např.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : „Ráma jí (kaut) ovoce.“
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : „Brahman uctívá boha obětí (pro někoho jiného).“
-
 :::
 
 Pokud je sloveso v parasmaipada nebo ātmanepada, stojí přímý objekt (**karman** n. = ⟪कर्मन्⟫) obecně v **akuzativu** (4. pád, dvitīyā f. = ⟪द्वितीया⟫).

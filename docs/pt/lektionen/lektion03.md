@@ -2,7 +2,7 @@
 title: "Lição 3"
 subtitle: "O nominativo singular do feminino"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Formam o nominativo singular sem terminação:
 - **Femininos em -ā**: p.ex. **devatā** f. "divindade" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Femininos em -ī**: p.ex. **devī** f. "deusa" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Atenção!** Além disso, existem nomes-raiz femininos monossilábicos em -ī, cujo nominativo singular termina em -s: p.ex. dhī f. "pensamento" -- Nom. sg.: dhīs = ⟪धीस्⟫. Também lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barco" e tantrī (⟪तन्त्री⟫) f. "corda" formam irregularmente o nominativo singular em -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -71,11 +71,15 @@ p. ex.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā é uma divindade" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā é a deusa dos alimentos e da culinária, ela é considerada uma encarnação de Pārvatī, a esposa de Śiva.)
+::: indent
+(Annapūrṇā é a deusa dos alimentos e da culinária, ela é considerada uma encarnação de Pārvatī, a esposa de Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī é uma deusa" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī é a esposa do deus Indra.)
+::: indent
+(Indrāṇī é a esposa do deus Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -94,7 +98,9 @@ p. ex.
 
 devī + umā » devy umā "Umā é uma / a deusa" = ⟪देव्युमा⟫
 
-> (Umā é um nome para Pārvatī, a esposa de Śiva)
+::: indent
+(Umā é um nome para Pārvatī, a esposa de Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā antes de uma vogal diferente:**

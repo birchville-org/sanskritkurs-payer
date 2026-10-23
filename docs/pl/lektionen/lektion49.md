@@ -2,7 +2,7 @@
 title: "Lekcja 49"
 subtitle: "Tworzenie trybu rozkazującego (⟪लोट्⟫) w przypadkach pni prezencji beztematycznych (kontynuacja)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

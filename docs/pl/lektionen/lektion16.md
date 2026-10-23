@@ -2,7 +2,7 @@
 title: "Lekcja 16"
 subtitle: "Sandhi spółgłosek końcowych"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -27,7 +27,9 @@ Końcowe zwarte gardłowe, retrofleksyjne, dziąsłowe i wargowe (tj. nie nosowe
 :::
 Wyjątek od powyższej zasady:
 
-> Końcowy zwarty dziąsłowy (nie nosowy):
+::: indent
+Końcowy zwarty dziąsłowy (nie nosowy):
+:::
 
 ::: no-header
 

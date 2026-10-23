@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Șudră (rang al serviciilor).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Cele patru stări (varṇa)**
+
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite astfel:
 
 **a brahmanilor**
@@ -467,8 +469,6 @@ la **yaj** 1 U:
 ::: note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba mai mult, întreaga ordine cosmică este menținută și creată prin cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
-:::
-::: literatur-box
 [LN471] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire, editat de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
@@ -500,7 +500,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Ac.; despre ceva: Ac.)
 **saha** ⟪सह⟫ : împreună cu, alături de (de asemenea în contextul „a lupta împotriva“ etc.) (Postpoziție cu Instrumental)
 
-::: literatur-box
+::: note-box
 [LN503] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Din moștenire editorială de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
@@ -532,7 +532,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : a întreba (pe cineva: Ac.; despre ceva: Ac.)
 **saha** ⟪सह⟫ : împreună cu, alături de (de asemenea în contextul „a lupta împotriva“ etc.) (Postpoziție cu Instrumental)
 
-::: literatur-box
+::: note-box
 [LN535] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editat din moștenire de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 ::: media
@@ -733,17 +733,19 @@ Fig.: ⟪महावीरो जिनः⟫
 **eva** ⟪एव⟫ : subliniază cuvântul precedent
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritual, divin.'
->
-> În cele mai vechi părți ale Ṛgvedei, acest termen este folosit pentru spiritul suprem și este același cu Ahura al zoroastrienilor. În sensul de 'zeu', a fost aplicat mai multor zei principali, precum Indra, Agni și Varuṇa. Ulterior a căpătat un sens complet opus și a început să semnifice, așa cum este acum, un demon sau inamic al zeilor.
->
-> Cuvântul se găsește cu această semnificație în părțile ulterioare ale Ṛgvedei, în special în ultima carte, și de asemenea în Atharvaveda. Brāhmaṇele atașează același sens și înregistrează multe confruntări între Asuri și zei. Conform Taittirīya Brāhmaṇa, suflarea *(asu)* lui Prajapati a devenit vie și "cu acea suflare l-a creat pe mine, Asura." În altă parte a aceluiași text se spune că Prajāpati "s-a făcut gravid. A creat Asuri din abdomenul său." Śatapatha Brāhmaṇa este de acord cu prima afirmație și afirmă că "a creat Asuri din suflarea sa inferioară." Taittirīya Āraṇyaka prezintă faptul că Prajāpati a creat zei, oameni, părinți, Gandharva și Apsarase din apă, iar Asurii, Rakṣasas și piśācas au apărut din picăturile vărsate. Declarația lui Manu este că aceștia au fost creați de Prajāpatis.
->
-> Conform Viṣṇu Purāṇa, aceștia au fost produși din șoldul lui Brahma (prajāpati). Relatarea Vāyu Purāṇa este: "Asurii au fost mai întâi produși ca fii din șoldul său (al lui Prajāpati). *Asu* este declarat de Brāhmaṇa ca însemnând suflare. Din aceasta au fost produși aceste ființe; de aceea sunt Asuri." Cuvântul a fost folosit mult timp ca nume general pentru inamicii zeilor, inclusiv Daityas și Danavas și alți descendenți ai Kaśyapa, dar nu incluzând Rakṣasas descendenți din Pulastya.
->
-> În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, 'suflare', ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică 'nu un zeu'; de aceea, conform unor surse, a apărut cuvântul *sura*, folosit comun pentru 'un zeu'."
->
-> [Sursă: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, divin.'
+
+În cele mai vechi părți ale Ṛgvedei, acest termen este folosit pentru spiritul suprem și este același cu Ahura al zoroastrienilor. În sensul de 'zeu', a fost aplicat mai multor zei principali, precum Indra, Agni și Varuṇa. Ulterior a căpătat un sens complet opus și a început să semnifice, așa cum este acum, un demon sau inamic al zeilor.
+
+Cuvântul se găsește cu această semnificație în părțile ulterioare ale Ṛgvedei, în special în ultima carte, și de asemenea în Atharvaveda. Brāhmaṇele atașează același sens și înregistrează multe confruntări între Asuri și zei. Conform Taittirīya Brāhmaṇa, suflarea *(asu)* lui Prajapati a devenit vie și "cu acea suflare l-a creat pe mine, Asura." În altă parte a aceluiași text se spune că Prajāpati "s-a făcut gravid. A creat Asuri din abdomenul său." Śatapatha Brāhmaṇa este de acord cu prima afirmație și afirmă că "a creat Asuri din suflarea sa inferioară." Taittirīya Āraṇyaka prezintă faptul că Prajāpati a creat zei, oameni, părinți, Gandharva și Apsarase din apă, iar Asurii, Rakṣasas și piśācas au apărut din picăturile vărsate. Declarația lui Manu este că aceștia au fost creați de Prajāpatis.
+
+Conform Viṣṇu Purāṇa, aceștia au fost produși din șoldul lui Brahma (prajāpati). Relatarea Vāyu Purāṇa este: "Asurii au fost mai întâi produși ca fii din șoldul său (al lui Prajāpati). *Asu* este declarat de Brāhmaṇa ca însemnând suflare. Din aceasta au fost produși aceste ființe; de aceea sunt Asuri." Cuvântul a fost folosit mult timp ca nume general pentru inamicii zeilor, inclusiv Daityas și Danavas și alți descendenți ai Kaśyapa, dar nu incluzând Rakṣasas descendenți din Pulastya.
+
+În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, 'suflare', ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică 'nu un zeu'; de aceea, conform unor surse, a apărut cuvântul *sura*, folosit comun pentru 'un zeu'."
+
+[Sursă: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3790,7 +3792,9 @@ din aceasta:
 :::
 Pentru ⟪राहु⟫ și ⟪केतु⟫ vezi:
 
-> **Payer, Alois (1944–):** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4395,7 +4399,9 @@ nu este folosit în celelalte timpuri verbale
 
 ⟪अजिन⟫ n.: blană de antilopă, în special blana antilopei negre (antilopa cu coarne de cerb : _Antilope cervicapra_ L. ). Era originară pe întregul subcontinent indian, din Punjab și Sind până în Bengal și din Nepal până la Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Vezi:
 
-> **Mamiferele lumii ale lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+::: note-box
+**Mamiferele lumii ale lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

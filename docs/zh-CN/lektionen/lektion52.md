@@ -2,7 +2,7 @@
 title: "第52课"
 subtitle: "以-i和-u结尾的中性名词"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

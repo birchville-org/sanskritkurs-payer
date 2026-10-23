@@ -2,7 +2,7 @@
 title: "பாடம் 24"
 subtitle: 'தித்திய பண்பு (⟪चतुर्थी⟫ = "நான்காம் வேற்றுமை முடிப்பு")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

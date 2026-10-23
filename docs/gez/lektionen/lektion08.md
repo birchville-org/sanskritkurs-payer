@@ -3,8 +3,8 @@ title: "ለክፈል 8"
 subtitle: "የስም ልማት እና 8. የጥብቅ ክፍል"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

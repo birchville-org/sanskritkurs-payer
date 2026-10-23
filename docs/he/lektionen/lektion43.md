@@ -2,7 +2,7 @@
 title: "שיעור 43"
 subtitle: 'סיומות אישיות של האדם השני (⟪मध्यमः⟫ = \"אמצעי <אדם>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

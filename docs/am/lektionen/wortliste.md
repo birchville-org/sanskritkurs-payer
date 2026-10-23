@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : ሹድራ (የአገልግሎት ደረጃ)።
 
-::: note-box አራቱ የህብረተሰብ ክፍሎች (varna)
+::: note-box
+**አራቱ የህብረተሰብ ክፍሎች (varna)**
+
 
 ከቅድመ ታሪክ ጽንሰ-ሐሳብ (ለምሳሌ Manusmṛti I, 88-91) መሰረት ስራዎች ተከፋፍለዋል፡
 
@@ -516,9 +518,6 @@ outline: 2
 
 በሕንድ ለእውነተኛ ቃል ማጽዳት ተሰጥቷል፣ እንዲሁም ሙሉው የዓለም ትዕዛዝ በእውነተኛ ቃል ይጠበቃል እና ይፈጠራል። ስለዚህም ወሳኝ ሀሳብ ይመልከቱ፡-
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ከ Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -563,7 +562,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ከ Nachl. hrsg. von
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ማጠየቅ (ማንኛውም አንድን ሰው፡ Akk.; ከአንድ ነገር ጋር፡ Akk.)
 **saha** ⟪सह⟫ : ከ... ጋር፣ በአንድነት (በ"ከ... ጋር መፋለም" ወዘተ. በመሆኑ) (Postposition mit Instrumentalis)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -607,7 +606,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : ማጠየቅ (ማንኛውም አንድን ሰው፡ Akk.; ከአንድ ነገር ጋር፡ Akk.)
 **saha** ⟪सह⟫ : ከ... ጋር፣ በአንድነት (በ"ከ... ጋር መፋለም" ወዘተ. በመሆኑ) (Postposition mit Instrumentalis)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -842,17 +841,19 @@ Wortbildung **an-** („un-“) + **ṛta** n.
 **eva** ⟪एव⟫ : ቀዳሚውን ቃል ያጎለብታል
 **asura** m. ⟪असुर⟫ : ዲሞን
 
-> **ASURA.** 'Spiritual, divine.'
->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, divine.'
+
+In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+
+The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+
+According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+
+In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+
+[Quelle: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4789,7 +4790,9 @@ PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 
 ለ ⟪राहु⟫ እና ⟪केतु⟫ ይመልከቱ፡
 
-> **ፓየር፣ አሎይስ (1944–)፡** Dharmashastra፡ ማስተዋወቂያ እና አጠቃላይ እይታ። -- 10. ሳክራመንቶች እና ሽግግር ሥነ ሥርዓቶች (samskara)። -- ተያያዥ ሰሌዳ C፡ ራሁ እና ኬቱ፣ ያልታዩ የሚንቀሳቀሱ ኮከቦች ። -- URL፡ [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**ፓየር፣ አሎይስ (1944–)፡** Dharmashastra፡ ማስተዋወቂያ እና አጠቃላይ እይታ። -- 10. ሳክራመንቶች እና ሽግግር ሥነ ሥርዓቶች (samskara)። -- ተያያዥ ሰሌዳ C፡ ራሁ እና ኬቱ፣ ያልታዩ የሚንቀሳቀሱ ኮከቦች ። -- URL፡ [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5598,7 +5601,9 @@ Perf. ⟪चचक्षे⟫
 
 ⟪अजिन⟫ n.: የአንቴሎፕ ጥቅልል ፣ በተለይም የጨረር አንቴሎፕ ጥቅልል (Hirschziegenantilope : _Antilope cervicapra_ L. ). በመጀመሪያው ላይ ከተነሳ የኢንዲያ ቀንብ ሁሉም ከፓንጃብ እና ሲንድ ወደ ቤንጋል እና ከኔፓል ወደ ካንያኩማሪ (Cape Comorin) (Tamil: கன்னியாகுமரி) ይመለከቱ፡-
 
-> **ዋልከርስ ሕይወት ያላቸው እንስሳት** / ሮናልድ ኤም. ኖቫክ. -- 6. ed. -- ባልቲሞር \[u.a.\] : ጆንስ ኮፕኪንስ ዩኒቨርሲቲ ስፕሪንግስ. 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**ዋልከርስ ሕይወት ያላቸው እንስሳት** / ሮናልድ ኤም. ኖቫክ. -- 6. ed. -- ባልቲሞር \[u.a.\] : ጆንስ ኮፕኪንስ ዩኒቨርሲቲ ስፕሪንግስ. 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 

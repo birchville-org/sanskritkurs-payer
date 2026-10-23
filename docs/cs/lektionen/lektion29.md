@@ -2,7 +2,7 @@
 title: "Lekce 29"
 subtitle: "Použití parasmaipada (⟪परस्मैपद⟫) a ātmanepada (⟪आत्मनेपद⟫) v kauzativu"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

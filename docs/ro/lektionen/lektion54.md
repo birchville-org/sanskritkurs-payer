@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ Strofa ⟪त्रिष्टुभ्⟫ constă din patru ⟪पाद⟫ de
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Quantitatea celor patru ultime silabe este, așadar, aceeași în ambele scheme.
 
 Forma de bază ⟪जगती⟫: ca la ⟪त्रिष्टुभ्⟫, dar de douăsprezece silabe. Ultimele cinci silabe ale fiecărui Pada evidențiază următoarele cantități:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Împreună cu aceasta există așa-numita ⟪त्रिष्टुभ्⟫ tipic suplimentară, cu un segment inițial de cinci silabe, care continuă ca o ⟪त्रिष्टुभ्⟫ cu un segment inițial de patru silabe:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 În perioadele ulterioare, formele ⟪त्रिष्टुभ्⟫ sunt stabilite conform unei scheme riguroase de lungimi și scurtimi, pauza jucând un rol nul. Cele mai importante forme ulterioare sunt:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

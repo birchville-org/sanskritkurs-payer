@@ -1,6 +1,6 @@
 {
   "name": "sanskritkurs-pipeline",
-  "version": "1.8.13",
+  "version": "1.8.14",
   "description": "SSG Pipeline für Sanskritkurs",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "markdown-it": "^14.2.0",
     "markdown-it-container": "^4.0.0",
     "markdown-it-deflist": "^4.0.0",
-    "markdown-it-extensible": "^1.3.2",
+    "markdown-it-extensible": "^1.4.0",
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-multimd-table": "^4.2.3",
     "turndown": "^7.2.0",

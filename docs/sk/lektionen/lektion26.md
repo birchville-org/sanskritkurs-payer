@@ -2,7 +2,7 @@
 title: "Lekcia 26"
 subtitle: "Zákon cerebralizácie pre -s- vo vnútri slova"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

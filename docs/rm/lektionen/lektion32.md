@@ -70,7 +70,7 @@ Ezempels:
 :::
 ## 32.4. Exempels per la furmaziun dal imperfect
 
-::: important
+::: warning-box
 **Per demonstrar la furmaziun dals fegls vegnan quai era furmads fegls d’Atmanepada a radats da Parasmaipada! Questas furmaziuns artificialas sa chescan tranter \< \>.**
 :::
 ### 32.4.1. Classes da prezens tematic
@@ -603,7 +603,7 @@ Traducir y determinar las siguientes formas de palabras:
 
 ## 32.9. Exercizi da translaziun
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

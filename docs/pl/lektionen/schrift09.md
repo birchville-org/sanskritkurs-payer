@@ -1,3 +1,4 @@
+
 # Ćwiczenie pisma 9
 
 ### Dzielenie wyrazów

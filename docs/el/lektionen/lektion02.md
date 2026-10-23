@@ -3,8 +3,8 @@ title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 ---
 
 # Μάθημα 2
@@ -13,7 +13,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Σχήμα: Ονοματικό ρήμα - Υποκείμενο**
+:::
 
+::: indent
 π.χ. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Ο Βισνού είναι θεός."
 :::
 Δεν απαιτείται ρήμα σύνδεσης ("είναι", "είμαι", "εσύ είσαι"), αλλά μπορεί να εμφανίζεται μερικές φορές.
@@ -72,7 +74,9 @@ last_reconstructed: 2026-04-30
 
 Δείτε επίσης την επισκόπηση:
 
-> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Υλικό για τα Σανσκριτικά). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Υλικό για τα Σανσκριτικά). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Τελικό **-s**:
 
@@ -115,7 +119,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (στάση παροχής υπηρεσιών).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Οι τέσσερις τάξεις (varṇa)**
+
 Σύμφωνα με την κλασική θεωρία (π.χ. Manusmṛti I, 88-91), οι εργασίες κατανέμονται ως εξής:
 
 - **των Βραχμανών**

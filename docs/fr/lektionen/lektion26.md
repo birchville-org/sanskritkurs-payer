@@ -2,7 +2,7 @@
 title: "Leçon 26"
 subtitle: "Loi de cérébralisation pour -s- à l'intérieur du mot"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

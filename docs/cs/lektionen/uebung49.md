@@ -2,7 +2,7 @@
 title: "Cvičení 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Otázky krále ⟪शूद्रक⟫ z ⟪विदिशा⟫ k papouškovi
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Král řekl: "Nechejme to být! Uspokojte naši zvědavost! Pane, vyprávějte nám od začátku: V které zemi jste se narodil? Kdo vám dal jméno? Kdo je vaše matka? Jak jste získal Védy? Jak jste se seznámil s učenými texty? Odkud jste získal umění? Dokážete si vzpomenout na předchozí narození nebo splnit přání? Nebo zda se skrýváte, když nosíte ptáčí šaty? Kde jste dříve bydlel? Nebo kolik máte let? Jak jste se dostal do klece? A jak jste se ocitl v rukou Cāṇḍálovů? Nebo jak jste se sem dostal?"
-\>
-> Vaiśampāyana, který byl pánem země s spontánně vzniklou zvědavostí a velkým respektem dotázán, na okamžik přemýšlel a pak odpověděl plný úcty: "Králi, to je dlouhý příběh. Pokud vás zajímá, poslouchejte!"
+::: indent
+Král řekl: "Nechejme to být! Uspokojte naši zvědavost! Pane, vyprávějte nám od začátku: V které zemi jste se narodil? Kdo vám dal jméno? Kdo je vaše matka? Jak jste získal Védy? Jak jste se seznámil s učenými texty? Odkud jste získal umění? Dokážete si vzpomenout na předchozí narození nebo splnit přání? Nebo zda se skrýváte, když nosíte ptáčí šaty? Kde jste dříve bydlel? Nebo kolik máte let? Jak jste se dostal do klece? A jak jste se ocitl v rukou Cāṇḍálovů? Nebo jak jste se sem dostal?"
+
+Vaiśampāyana, který byl pánem země s spontánně vzniklou zvědavostí a velkým respektem dotázán, na okamžik přemýšlel a pak odpověděl plný úcty: "Králi, to je dlouhý příběh. Pokud vás zajímá, poslouchejte!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

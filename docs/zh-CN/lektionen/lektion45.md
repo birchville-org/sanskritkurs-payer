@@ -2,7 +2,7 @@
 title: 第45课
 subtitle: "第二人称动词形式的构成（⟪मध्यमः⟫）无元音结尾词尾的非主题词干（续）"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

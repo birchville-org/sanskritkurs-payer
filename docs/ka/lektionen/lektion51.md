@@ -2,7 +2,7 @@
 title: "ლექსი 51"
 subtitle: "⟪उपपद⟫-კომპოზიტები"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -333,7 +333,9 @@ c) ⟪कृत्⟫-შესაბამისობა -a
 
 ⟪अजिन⟫ ср. р.: шкура антилопы, особенно шкура черной антилопы (черная антилопа: _Antilope cervicapra_ L. ). Изначально встречалась по всему индийскому субконтиненту: от Пенджаба и Синда до Бенгалии, а также от Непала до Каньякумари (мыс Коморин) (Тамильский: கன்னியாகுமரி). См.:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

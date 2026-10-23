@@ -2,7 +2,7 @@
 title: "ትምህርት 10"
 subtitle: "የፓሲቭ ሐረግ (የአገልጋይ መሣሪያ)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,15 +13,14 @@ status: stable
 ## 10.1. የፓሲቭ ሐረግ
 
 ::: grammar-box
-
 **ስኬማ፡**
 **(አጀንስ - ካርትሪ - በኢንስትሩመንታሊስ (ትሪቲያ) - (ቀጥተኛ ኦብጀክት - ካርማን - በኖሚናቲቭ) - ፓሲቭ የግስ ቅርጽ**
+:::
 
+::: indent
 ለምሳሌ **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "አንድ ብራህማኒ በቅዳሜ አንድ አምላክ ያክብራል" (ቃል በቃል፡ "አንድ አምላክ በአንድ ብራህማኒ በቅዳሜ ይከብራል።")
-
 ይህ ሐረግ **ሙሉ በሙሉ (!) ትርጉም እኩል** ነው ከሚከተለው ሐረግ ጋር፡
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
-
 :::
 
 ::: grammar-box
@@ -52,7 +51,7 @@ status: stable
 
 የሳንስክሪት ፓሲቭ ግንባታዎች በጣም ብዙ ጊዜ ይገኛሉ፡- ፓሲቭ ለምሳሌ ከብዙ ፕሬዘንት ስታምፖች ጋር ሲነፃፀር ለመፍጠር ቀላል ነው።
 
-::: important
+::: warning-box
 
 **በአጠቃላይ የሳንስክሪት ፓሲቭ ሀሳቦች በጀርመንኛ በፓሲቭ ሀሳብ መተርጎም አይገባቸውም፣ ምክንያቱም የጀርመንኛ ፓሲቭ ሙሉ በሙሉ የተለየ ስታይሊስቲክ ተግባር ስላለው።**
 
@@ -264,9 +263,6 @@ z.B.
 
 በኢንዲያ እውነተኛ ቃል ላይ ኃይል እንደሚኖር ይታመናል፣ እንዲሁም ሙሉው የዓለም ሥርዓት በእውነተኛ ቃል ይጠበቃል እና ይፈጠራል። ስለዚህ አስፈላጊ ሀሳብ ለማየት መሰረታዊውን ሥራ ይመልከቱ፦
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -419,7 +415,7 @@ Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. 
 
 ⟪क १⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||

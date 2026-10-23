@@ -2,7 +2,7 @@
 title: "Exercício 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -16,8 +16,10 @@ A) Para revisão da declinação: O seguinte verso contém todas as formas de de
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> Meu guru é meu refúgio,  
-> Adoro meu guru,  
+::: indent
+Meu guru é meu refúgio,
+Adoro meu guru,
+:::
 Estou junto com meu guru,  
 Homenagem ao meu guru,  
 Não há nada superior ao guru,  
@@ -36,7 +38,9 @@ Guru, protege-me!
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> Ande pelo caminho dos bons, pelo qual os pais andaram, pelo qual os avós andaram. Se você andar por esse caminho, não sofrerá dano.
+::: indent
+Ande pelo caminho dos bons, pelo qual os pais andaram, pelo qual os avós andaram. Se você andar por esse caminho, não sofrerá dano.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -45,7 +49,9 @@ Guru, protege-me!
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Famílias tornam-se não-famílias por casamentos inadequados, pela omissão dos rituais, pelo não-estudo dos Vedas e por ofensas aos brâmanes.
+::: indent
+Famílias tornam-se não-famílias por casamentos inadequados, pela omissão dos rituais, pelo não-estudo dos Vedas e por ofensas aos brâmanes.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -54,7 +60,9 @@ Guru, protege-me!
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> Em uma família onde o marido está sempre satisfeito com a esposa e a esposa está sempre satisfeita com o marido, há certeza de felicidade perpétua.
+::: indent
+Em uma família onde o marido está sempre satisfeito com a esposa e a esposa está sempre satisfeita com o marido, há certeza de felicidade perpétua.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -75,7 +83,9 @@ Fig.: ⟪संतुष्टो भार्यया भर्ता भर�
 **⟪आदित्याज्जायते वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Empenhe-se sempre no estudo dos Vedas e nos rituais para os deuses. Pois quem se empenha nos rituais para os deuses obtém este mundo, composto de seres vivos e não vivos. O sacrifício que é corretamente lançado no fogo vai para o sol; do sol surge a chuva; da chuva, alimento; e desse alimento, as criaturas.
+::: indent
+Empenhe-se sempre no estudo dos Vedas e nos rituais para os deuses. Pois quem se empenha nos rituais para os deuses obtém este mundo, composto de seres vivos e não vivos. O sacrifício que é corretamente lançado no fogo vai para o sol; do sol surge a chuva; da chuva, alimento; e desse alimento, as criaturas.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -89,8 +99,10 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
 **⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Deve-se abandonar o sofrimento futuro.  
-> A causa desse abandono é a conexão entre o que vê e o visível [= o perceptor e o percebido].
+::: indent
+Deve-se abandonar o sofrimento futuro.
+A causa desse abandono é a conexão entre o que vê e o visível [= o perceptor e o percebido].
+:::
 
 ---
 
@@ -101,7 +113,9 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [O rei] não deve desprezar nada; ele deve ouvir a opinião de todos. Um erudito também se apropria da palavra de um menino, se ela for significativa.
+::: indent
+[O rei] não deve desprezar nada; ele deve ouvir a opinião de todos. Um erudito também se apropria da palavra de um menino, se ela for significativa.
+:::
 
 ---
 
@@ -112,18 +126,24 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> Chama-se **Ācārya** ao duas vezes nascido que dá o Upanayana ao aluno e depois lhe ensina o Veda, o ritual e a doutrina secreta.
+::: indent
+Chama-se **Ācārya** ao duas vezes nascido que dá o Upanayana ao aluno e depois lhe ensina o Veda, o ritual e a doutrina secreta.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> Chama-se **Upādhyāya** àquele que, por causa de seu sustento, ensina uma parte do Veda ou as ciências auxiliares.
+::: indent
+Chama-se **Upādhyāya** àquele que, por causa de seu sustento, ensina uma parte do Veda ou as ciências auxiliares.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> Chama-se **Guru** ao brâmane que realiza corretamente o Niṣeka e os outros rituais, fazendo-o nascer por meio de alimento.
+::: indent
+Chama-se **Guru** ao brâmane que realiza corretamente o Niṣeka e os outros rituais, fazendo-o nascer por meio de alimento.
+:::

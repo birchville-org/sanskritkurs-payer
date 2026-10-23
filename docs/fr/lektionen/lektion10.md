@@ -2,7 +2,7 @@
 title: "Leçon 10"
 subtitle: "La phrase passive (Instrumental de l'agent)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schéma :**
 **(Agent - kartṛ - au Instrumental (tṛtīyā)) - (Objet direct - karman - au Nominatif) - forme verbale passive**
+:::
 
+::: indent
 ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Un brāhmane vénère un dieu par une offrande" (littéralement : "Un dieu est vénéré par un brāhmane par une offrande.")
-
 Cette phrase est **totalement (!) synonyme** de la phrase :
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ ou alternativement : **rāmeṇa grāmo gamyate** = ⟪रामेण ग्र
 :::
 Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines verbales au présent.
 
-::: important
+::: warning-box
 **Les phrases passives en sanskrit ne doivent généralement pas être rendues en allemand par une phrase passive, car le passif allemand remplit une fonction stylistique tout à fait différente.**
 :::
 
@@ -234,8 +235,6 @@ par ex. **tan** 8 U.
 ::: note-box
 En Inde, on attribuait au mot vrai un pouvoir magique, et en fait tout l'ordre cosmique est maintenu et créé par le mot vrai. Pour cette conception importante, voir l'ouvrage fondamental :
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943) : Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Lég. : ⟪तन्तुवायः⟫
 **Lisez et traduisez, puis mettez à la voix passive :**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

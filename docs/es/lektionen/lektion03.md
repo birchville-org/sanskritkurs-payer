@@ -2,7 +2,7 @@
 title: "Lección 3"
 subtitle: "El nominativo singular del femenino"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Forman el nominativo singular sin terminación:
 **Femeninos en -ā**: p. ej. **devatā** f. "divinidad" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Femeninos en -ī**: p. ej. **devī** f. "diosa" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **¡Atención!** Junto a ello existen nombres radicales femeninos monosílabos en -ī, cuyo nominativo singular termina en -s: p. ej. dhī f. "pensamiento" -- Nom. sg.: dhīs = ⟪धीस्⟫. También forman irregularmente el nominativo singular en -s: lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barca" y tantrī (⟪तन्त्री⟫) f. "cuerda": lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ p. ej.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā es una deidad" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā es la diosa de los alimentos y la cocina, se considera una encarnación de Pārvatī, la consorte de Śiva.)
+::: indent
+(Annapūrṇā es la diosa de los alimentos y la cocina, se considera una encarnación de Pārvatī, la consorte de Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī es una diosa" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī es la consorte del dios Indra.)
+::: indent
+(Indrāṇī es la consorte del dios Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ p. ej.
 
 devī + umā » devy umā "Umā es una / la diosa" = ⟪देव्युमा⟫
 
-> (Umā es un nombre para Pārvatī, la consorte de Śiva)
+::: indent
+(Umā es un nombre para Pārvatī, la consorte de Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā ante vocal no afín:**

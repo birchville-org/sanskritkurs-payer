@@ -2,7 +2,7 @@
 title: "Lezione 10"
 subtitle: "La frase passiva (Instrumentale dell'agente)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,9 +13,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(agente - kartṛ - allo strumento (tṛtīyā)) - (oggetto diretto - karman - al nominativo) - forma verbale passiva**
+:::
 
+::: indent
 ad es. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = «Un bramano venera un dio con un sacrificio» (letteralmente: "Un dio viene venerato da un bramano con un sacrificio.")
-
 Questa frase è **del tutto (!) equivalente** alla frase:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -41,7 +42,7 @@ Alla frase attiva **rāmo grāmaṃ gacchati** = ⟪रामो ग्राम
 :::
 Le costruzioni passive del sanscrito sono estremamente frequenti: il passivo, infatti, è anche più facile da formare rispetto a, ad esempio, numerosi temi presentiiali.
 
-::: important
+::: warning-box
 **Le frasi passive in sanscrito non devono generalmente essere rese in tedesco mediante una frase passiva, poiché il passivo tedesco ha una funzione stilistica completamente diversa.**
 :::
 
@@ -232,8 +233,6 @@ ad es. **tan** 8 U.
 ::: note-box
 In India si attribuiva alla parola vera un potere magico, sì che l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione si veda l'opera fondamentale:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A cura del lascito di Ludwig Alsdorf. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
 :::
 
@@ -367,7 +366,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Leggete e traducete, poi convertite alla forma passiva:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

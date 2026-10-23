@@ -2,11 +2,12 @@
 title: "Les 10"
 subtitle: "Die passieve sin (Instrumentalis van die Agent)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
+---
 
----# Les 10
+# Les 10
 
 ## 10.1. Die passiewe sin
 
@@ -389,3 +390,4 @@ Afbeelding: ⟪तन्तुवायः⟫
 ⟪९⟫. ⟪गजो गच्छति⟫ | |
 ⟪१०⟫. ⟪हरिर्गृहं गच्छति⟫ | |
 ⟪११⟫. ⟪सारथी रथं नयति⟫ ||
+

@@ -2,7 +2,7 @@
 title: "Exercise 33"
 uebung_id: 33
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

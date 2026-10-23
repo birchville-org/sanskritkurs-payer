@@ -2,7 +2,7 @@
 title: "Lección 27"
 subtitle: 'Uso del locativo (⟪सप्तमी⟫ f. = "séptima terminación casual")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. El locativo (⟪सप्तमी⟫) responde a la pregunta "¿Dónde?" indicando el espacio en (en, sobre, junto al) cual se encuentra el agente (⟪कर्ता⟫) o el objeto de una acción, o donde tiene lugar la propia acción.**
 
-> ⟪नगरे वसति⟫ = "Él reside en la ciudad"
+⟪नगरे वसति⟫ = "Él reside en la ciudad"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. El locativo indica, ante la pregunta "¿Cuándo?", el momento o las circunstancias externas:**
 
-> ⟪तस्मिन्काले⟫ = "en ese momento, en aquel tiempo"
+⟪तस्मिन्काले⟫ = "en ese momento, en aquel tiempo"
 
 **También pertenece a este grupo el llamado Locativus Absolutus:**
 
 **Si la acción o el estado de una persona o cosa determina el tiempo en que —o las circunstancias bajo las cuales— otra PERSONA O COSA realiza una acción o se encuentra en un estado determinado, la palabra que designa a la primera persona o cosa junto con la palabra que la determina más específicamente (que frecuentemente es un participio) aparece en locativo (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "mientras el tiempo transcurre así..."
-\>
-> ⟪तस्मिन्गते⟫ = "cuando él se había ido..."
+⟪एवं गच्छति काले⟫ = "mientras el tiempo transcurre así..."
+
+⟪तस्मिन्गते⟫ = "cuando él se había ido..."
 
 **A veces el agente (⟪कर्ता⟫) no se designa explícitamente:**
 
-> ⟪एवं सति⟫ = "dado que las cosas están así"
+⟪एवं सति⟫ = "dado que las cosas están así"
 
 **El Locativus absolutus debe traducirse según el contexto como "mientras" (p. ej., participio presente), "después de que", "cuando" (p. ej., PPP), "ya que", "porque", "aunque", "si" y otros.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. El locativo también responde a la pregunta "¿En relación con qué?" y similares:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Él tiene amor por su hijo" (literalmente: "En relación con el hijo, hay en él amor")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Él tiene amor por su hijo" (literalmente: "En relación con el hijo, hay en él amor")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. El locativo se utiliza en los diccionarios nativos y entre comentaristas para indicar el significado de una palabra:**
 
-> ⟪भू सत्तायाम्⟫ = "la raíz ⟪भू⟫ en el significado de 'seridad' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "la raíz ⟪भू⟫ en el significado de 'seridad' (sat-tā)"
 
 :::
 Más sobre el uso del locativo más adelante.

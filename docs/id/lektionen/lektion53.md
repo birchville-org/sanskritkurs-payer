@@ -485,7 +485,9 @@ Ilustrasi: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्�
 :::
 Lihat juga:
 
-> **Payer, Alois (1944–):** Pengantar Eksegesis Teks Sanskerta : Diktat. -- Bab 8: Eksegesis Sebenarnya, Bagian II: Pertanyaan Khusus Pemahaman Sinkronis. -- Lampiran B: Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Pengantar Eksegesis Teks Sanskerta : Diktat. -- Bab 8: Eksegesis Sebenarnya, Bagian II: Pertanyaan Khusus Pemahaman Sinkronis. -- Lampiran B: Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Pentingnya Penentuan Metrum
 
@@ -560,10 +562,10 @@ Contoh: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Distribusi ⟪लघु⟫ dan ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Śloka epik (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ Metrum paling penting dalam epik (⟪महाभारत⟫, ⟪रामा�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Suku kata kedua dan ketiga dari sebuah ⟪पाद⟫ sebaiknya tidak sekaligus menjadi ⟪लघु⟫. Pada b dan d, suku kata 2-4 tidak boleh ¯ ˘ ¯.
@@ -601,19 +603,19 @@ Suku kata kedua dan ketiga dari sebuah ⟪पाद⟫ sebaiknya tidak sekaligus
 **Skema sampingan (⟪विपुला⟫) untuk a dan c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **Pada semua bentuk Śloka, cesura utama terletak di akhir baris 2. ⟪पाद⟫ : di sana terdapat akhir kata atau — pada majemuk panjang — akhir dari salah satu komponen komposisi.**
@@ -622,7 +624,7 @@ Suku kata kedua dan ketiga dari sebuah ⟪पाद⟫ sebaiknya tidak sekaligus
 ::: grammar-box
 **Tentukan di antara semua bait yang telah dipelajari sejauh ini, mana yang merupakan Śloka. Buatlah skema metrik secara tertulis untuk bait-bait tersebut. Tunjukkan ketidakberaturan atau bentuk Vipulā yang mungkin ada.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

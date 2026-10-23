@@ -2,7 +2,7 @@
 title: "Mësimi 44"
 subtitle: "Formimi i formave verbale të personit të dytë (⟪मध्यमः⟫) steme atematike me prapashtesë që mbaron në zanor"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ p.sh. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Gramatikantët vendas e konsiderojnë vokativin (⟪आमन्त्रितम्⟫) jo si një raste të veçantë, por vetëm si modifikim i nominativit (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Vokativi shërben për thirrjen, adresimin dhe qëndron jashtë lidhjes me pjesën tjetër të fjalisë, prandaj ndryshon nga rastet e tjera që shprehin marrëdhënien me verbin ose me një emër tjetër.**
 
@@ -251,7 +251,7 @@ Gramatikantët vendas e konsiderojnë vokativin (⟪आमन्त्रित�
 
 :::
 
-::: important
+::: warning-box
 
 **Duhet të shmangim përkthimin e vokativit me "**O** ...". Ne përdorim vazhdimisht vokativet në gjermanisht, kur për shembull themi: "Dashnorë, çfarë po gatim sot?". Askush nuk do të thotë në këtë kuptim: "**O** dashnor, çfarë po gatim sot?"**
 

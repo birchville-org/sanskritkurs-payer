@@ -2,7 +2,7 @@
 title: "Leçon 44"
 subtitle: "Formation des formes verbales de la 2e personne (⟪मध्यमः⟫) des thèmes athématiques avec suffixe à terminaison vocalique"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ ex. ⟪द्विष्⟫ 2U : ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 Les grammairiens indigènes ne considèrent pas le vocatif (⟪आमन्त्रितम्⟫) comme un cas à part entière, mais seulement comme une modification du nominatif (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Le vocatif sert à l'appel, au fait de s'adresser à quelqu'un et se trouve en dehors du lien avec le reste de la phrase, il diffère donc des autres cas qui expriment une relation au verbe ou à un autre nom.**
 
 **Le plus souvent, le vocatif est placé au début de la phrase :**
@@ -193,7 +193,7 @@ Les grammairiens indigènes ne considèrent pas le vocatif (⟪आमन्त�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Enfant, que dis-tu ?"
 :::
-::: important
+::: warning-box
 **Évitez de traduire le vocatif par "**Ô** ...". Nous utilisons constamment des vocatifs en allemand, lorsque nous disons par exemple : "Chéri(e), que cuisinons-nous aujourd'hui ?". Personne ne dira dans ce sens : "**Ô** chéri(e), que cuisinons-nous aujourd'hui ?"**
 :::
 ::: media

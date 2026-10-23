@@ -2,7 +2,7 @@
 title: "第55課"
 subtitle: "a-不定過去時（帶主題元音的不定過去時）"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

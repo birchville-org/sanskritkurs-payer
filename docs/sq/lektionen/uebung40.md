@@ -2,7 +2,7 @@
 title: "Ushtrimi 40"
 uebung_id: 40
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -111,7 +111,9 @@ Fig.: ⟪आशिमेति⟫
 
 ## Përcaktimi i formave të fjalëve
 
-> Përcaktoni dhe përktheni format e mëposhtme të fjalëve:
+::: indent
+Përcaktoni dhe përktheni format e mëposhtme të fjalëve:
+:::
 
 ::: grammar-box
 | Forma e fjalës | Përcaktimi | Kuptimi |

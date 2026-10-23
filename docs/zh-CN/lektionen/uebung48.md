@@ -2,7 +2,7 @@
 title: "练习 48"
 uebung_id: 48
 category: "练习"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -151,11 +151,11 @@ B) 使用祈使语气（ preferably 第二类和第三类词根）翻译成梵�
 ![](/images/uebung084.webp)
 图：⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 （图片来源：[详情](/licenses#uebung084)）
-:::: media
+:::
+::: media
 ![](/images/uebung077.webp)
 图：⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 （图片来源：[详情](/licenses#uebung077)）
 
-::::
 :::
 

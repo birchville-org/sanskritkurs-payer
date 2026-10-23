@@ -2,7 +2,7 @@
 title: "Pelajaran 10"
 subtitle: "Kalimat pasif (Instrumentalis agen)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Skema:**
 **(Agen - kartṛ - dalam Kasus Instrumental (tṛtīyā)) - (Objek Langsung - karman - dalam Kasus Nominatif) - bentuk kata kerja pasif**
+:::
 
+::: indent
 mis. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Seorang Brahmana menyembah seorang dewa dengan sebuah persembahan" (secara harfiah: "Seorang dewa disembah oleh seorang Brahmana dengan sebuah persembahan.")
-
 Kalimat ini **sama sekali (!) sama artinya** dengan kalimat:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatif: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो
 :::
 Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dibentuk daripada, misalnya, banyak batang present.
 
-::: important
+::: warning-box
 **Kalimat pasif Sanskerta umumnya tidak boleh diterjemahkan ke dalam kalimat pasif bahasa Jerman, karena fungsi stilistik pasif bahasa Jerman sangat berbeda.**
 :::
 
@@ -234,8 +235,6 @@ misalnya **tan** 8 U.
 ::: note-box
 Di India, kata-kata yang benar diyakini memiliki kekuatan magis; bahkan seluruh tatanan dunia dipertahankan dan diciptakan oleh kata-kata yang benar. Untuk konsep penting ini, lihat karya dasar:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Diterbitkan dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hal., hlm. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Gbr.: ⟪तन्तुवायः⟫
 **Baca dan terjemahkan, lalu ubah ke bentuk pasif:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

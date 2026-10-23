@@ -2,7 +2,7 @@
 title: "ლექცია 39"
 subtitle: 'პირველი პიროვნების პერსონალური დამატებები (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**მესამე** პიროვნება\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

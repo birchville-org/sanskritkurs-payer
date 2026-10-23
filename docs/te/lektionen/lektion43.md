@@ -2,7 +2,7 @@
 title: "పాఠం 43"
 subtitle: 'రెండవ వ్యక్తి యొక్క వాక్యంతో కూడిన పదాలు (⟪मध्यमः⟫ = "మధ్య వ్యక్తి")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

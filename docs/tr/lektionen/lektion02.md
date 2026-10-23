@@ -3,8 +3,8 @@ title: "Ders 2"
 subtitle: "İsim cümlesi ve çekimlemenin temelleri"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Şema: Yüklem İsmi - Özne**
+:::
 
+::: indent
 örn. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu bir tanrıdır."
 :::
 Fiilsel bir kopula ("dir", "lar", "im", "sin", "siniz") gerekli değildir, ancak bazen ortaya çıkabilir.
@@ -76,7 +78,9 @@ Sanskrit'te bir kelimenin sonu, ardından gelen kelimenin başına göre de şek
 
 Ayrıca şuna bakınız:
 
-> **Payer, Alois (1944–):** Sonda -s olan Sandhi. -- (Sanskrit Materyalleri). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sonda -s olan Sandhi. -- (Sanskrit Materyalleri). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Sonda **-s**:
 
@@ -120,7 +124,9 @@ Diğer ünlülerden önce: **-a**'ya dönüşür (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Hizmet sınıfı).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Dört sınıf (varṇa)**
+
 Klasik teoriye göre (örneğin Manusmṛti I, 88-91) görevler şu şekilde dağıtılmıştır:
 
 **Brahmanaların**

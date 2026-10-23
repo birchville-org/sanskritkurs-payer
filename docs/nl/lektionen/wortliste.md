@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (dienstverlenende stand).
 
-::: note-box De vier standen (varna)
+::: note-box
+**De vier standen (varna)**
+
 
 Volgens de klassieke theorie (bijv. Manusmṛti I, 88-91) zijn de taken verdeeld:
 
@@ -344,7 +346,7 @@ In het Sanskriet worden de werkwoorden in de **stamvorm** weergegeven. Het getal
 
 ![](/images/lekt0701.webp)
 
->> Afb.: Was dit de vedische somaplant?: Vliegenzwam: *Amanita muscaria* (L.) Lam.
+Afb.: Was dit de vedische somaplant?: Vliegenzwam: *Amanita muscaria* (L.) Lam.
 (Bron: [Details](/licenses#lekt0701))
 
 :::
@@ -487,14 +489,14 @@ bij **yaj** 1 U:
 
   ::: note-box
 
->>   Voor het stads- en dorpsleven zie Basham, *Wonder*, hoofdstuk 6.
+Voor het stads- en dorpsleven zie Basham, *Wonder*, hoofdstuk 6.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : Opfer
 
   ::: note-box
 
->>   Het offer is in India in de eerste plaats een verering van de godheid als gast. Hierdoor verplicht men zich jegens de godheid.
+Het offer is in India in de eerste plaats een verering van de godheid als gast. Hierdoor verplicht men zich jegens de godheid.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
   :::
@@ -503,7 +505,7 @@ bij **yaj** 1 U:
 
   ::: note-box
 
->>   Hiermee verdient men welzijn en goede wedergeboorten.
+Hiermee verdient men welzijn en goede wedergeboorten.
   :::
 
 - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
@@ -511,11 +513,8 @@ bij **yaj** 1 U:
 
 ::: note-box
 
->> In India schreef men het ware woord toverskracht toe, ja de hele wereldorde wordt door het ware woord onderhouden en geschapen. Voor dit belangrijke concept zie het fundamentele werk:
+In India schreef men het ware woord toverskracht toe, ja de hele wereldorde wordt door het ware woord onderhouden en geschapen. Voor dit belangrijke concept zie het fundamentele werk:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit de nalatenschap uitgegeven door Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en de Ṛta. -- 1959. -- XXIII blz., blz. 340 - 764
 
@@ -559,7 +558,7 @@ Afb.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: acc.; naar iets: acc.)
 - **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit de nalatenschap uitgegeven door Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en de Ṛta. -- 1959. -- XXIII blz., blz. 340 - 764
 
@@ -603,7 +602,7 @@ Afb.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: acc.; naar iets: acc.)
 - **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit de nalatenschap uitgegeven door Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en de Ṛta. -- 1959. -- XXIII blz., blz. 340 - 764
 
@@ -667,11 +666,17 @@ Afb.: ⟪विश्वामित्रः⟫
 **Leer de volgende woorden:**
 
 - **iti** ⟪इति⟫ : zo
->>   - Staat *na* de formulering van een gedachte, wens, uitspraak, citaat gelijk als aanhalingstekens (").
+::: indent
+- Staat *na* de formulering van een gedachte, wens, uitspraak, citaat gelijk als aanhalingstekens (").
+:::
   - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen zeggen: 'Heiligen komen in de hemel'" = "Brahmanen zeggen dat heiligen in de hemel komen".
->>   - In het Sanskriet bestaat er geen indirecte rede; vormingen met **iti** moeten in het Duits vaak in indirecte rede worden weergegeven.
+::: indent
+- In het Sanskriet bestaat er geen indirecte rede; vormingen met **iti** moeten in het Duits vaak in indirecte rede worden weergegeven.
+:::
   - **... (citaat) ... iti śrutiḥ** = "zo de Veda".
->>   - Vaak is na **iti** een werkwoord van denken toe te voegen: "denkend: '...' doet hij dat". In het Duits idiomatisch weergeven (bijv. "Omdat hij honger heeft, gaat hij...").
+::: indent
+- Vaak is na **iti** een werkwoord van denken toe te voegen: "denkend: '...' doet hij dat". In het Duits idiomatisch weergeven (bijv. "Omdat hij honger heeft, gaat hij...").
+:::
 - **evam** ⟪एवम्⟫ : zo (bijwoordelijk, bijv. **evaṃ jayati** "zo overwint hij").
 - **na** ⟪न⟫ : niet
   - Ontkent afzonderlijke woorden (staat er direct voor: **na sādhuḥ** "een niet-goede") of hele zinnen (staat aan het begin of direct voor het werkwoord).
@@ -835,17 +840,19 @@ Leer de volgende woorden:
 **eva** ⟪एव⟫ : benadrukt het voorafgaande woord
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritueel, goddelijk.'
->
-> In de oudste delen van de Ṛgveda wordt deze term gebruikt voor de hoogste geest en is hetzelfde als de Ahura van de Zoroastrische gelovigen. In de betekenis van 'god' werd het toegepast op verschillende belangrijke godheden, zoals Indra, Agni en Varuṇa. Later verkreeg het een volledig tegenovergestelde betekenis en ging het, zoals nu, verwijzen naar een demon of vijand van de goden.
->
-> Dit woord komt met deze betekenis voor in de latere delen van de Ṛgveda, vooral in het laatste boek, en ook in de Atharvaveda. De Brāhmaṇas geven het dezelfde betekenis en beschrijven veel gevechten tussen de Asuras en de goden. Volgens het Taittirīya Brāhmaṇa werd de adem *(asu)* van Prajapati levend, en "met die adem schiep ik de Asuras." In een ander deel van hetzelfde werk wordt gezegd dat Prajāpati "zwanger werd. Hij schiep Asuras uit zijn buik." Het Śatapatha Brāhmaṇa sluit aan bij de eerste uitspraak en stelt dat "hij Asuras schiep uit zijn lagere adem." Het Taittirīya Āraṇyaka stelt dat Prajāpati goden, mensen, vaders, Gandharvas en Apsarases schiep uit water, en dat de Asuras, Rakṣasas en piśācas voortkwamen uit druppels die morsen werden. De uitspraak van Manu is dat ze door de Prajāpatis werden geschapen.
->
-> Volgens de Viṣṇu Purāṇa werden ze voortgebracht uit het schaamgebied van Brahma (prajāpati). De beschrijving in de Vāyu Purāṇa luidt: "Asuras werden eerst als zonen voortgebracht uit zijn (Prajāpati's) schaamgebied. *Asu* wordt door de Brāhmaṇa verklaard als adem betekenis. Uit deze bestonden ze; vandaar dat ze Asuras heten." Het woord wordt al lang gebruikt als algemene naam voor de vijanden van de goden, waaronder de Daityas en Danavas en andere nakomelingen van Kaśyapa, maar niet de Rakṣasas die afstammen van Pulastya.
->
-> In deze betekenis is een andere afleiding voor het woord gevonden: de bron is niet langer asu, 'adem,' maar het initiële *a* wordt opgevat als de negatieve prefix, en *asura* betekent 'niet een god;' vandaar dat volgens sommigen het woord *sura* ontstond, vaak gebruikt voor 'een god.'"
->
-> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritueel, goddelijk.'
+
+In de oudste delen van de Ṛgveda wordt deze term gebruikt voor de hoogste geest en is hetzelfde als de Ahura van de Zoroastrische gelovigen. In de betekenis van 'god' werd het toegepast op verschillende belangrijke godheden, zoals Indra, Agni en Varuṇa. Later verkreeg het een volledig tegenovergestelde betekenis en ging het, zoals nu, verwijzen naar een demon of vijand van de goden.
+
+Dit woord komt met deze betekenis voor in de latere delen van de Ṛgveda, vooral in het laatste boek, en ook in de Atharvaveda. De Brāhmaṇas geven het dezelfde betekenis en beschrijven veel gevechten tussen de Asuras en de goden. Volgens het Taittirīya Brāhmaṇa werd de adem *(asu)* van Prajapati levend, en "met die adem schiep ik de Asuras." In een ander deel van hetzelfde werk wordt gezegd dat Prajāpati "zwanger werd. Hij schiep Asuras uit zijn buik." Het Śatapatha Brāhmaṇa sluit aan bij de eerste uitspraak en stelt dat "hij Asuras schiep uit zijn lagere adem." Het Taittirīya Āraṇyaka stelt dat Prajāpati goden, mensen, vaders, Gandharvas en Apsarases schiep uit water, en dat de Asuras, Rakṣasas en piśācas voortkwamen uit druppels die morsen werden. De uitspraak van Manu is dat ze door de Prajāpatis werden geschapen.
+
+Volgens de Viṣṇu Purāṇa werden ze voortgebracht uit het schaamgebied van Brahma (prajāpati). De beschrijving in de Vāyu Purāṇa luidt: "Asuras werden eerst als zonen voortgebracht uit zijn (Prajāpati's) schaamgebied. *Asu* wordt door de Brāhmaṇa verklaard als adem betekenis. Uit deze bestonden ze; vandaar dat ze Asuras heten." Het woord wordt al lang gebruikt als algemene naam voor de vijanden van de goden, waaronder de Daityas en Danavas en andere nakomelingen van Kaśyapa, maar niet de Rakṣasas die afstammen van Pulastya.
+
+In deze betekenis is een andere afleiding voor het woord gevonden: de bron is niet langer asu, 'adem,' maar het initiële *a* wordt opgevat als de negatieve prefix, en *asura* betekent 'niet een god;' vandaar dat volgens sommigen het woord *sura* ontstond, vaak gebruikt voor 'een god.'"
+
+[Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -3000,7 +3007,7 @@ Steengroeve ten zuiden van Pune, Maharashtra.
 ![](/images/lekt3205.webp)
 
 Afbeelding: ⟪लक्ष्यम्⟫
->> Schietoefening / pijlricht, Karnataka.
+Schietoefening / pijlricht, Karnataka.
 (Bron afbeelding: [Details](/licenses#lekt3205))
 
 :::
@@ -4755,7 +4762,9 @@ daarvan:
 
 Zie voor ⟪राहु⟫ en ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5549,7 +5558,9 @@ wordt in de overige tijden niet gebruikt
 
 ⟪अजिन⟫ n.: antilopenvacht, met name de vacht van de zwarte antilope (hertgeitantilope: _Antilope cervicapra_ L.). Kwam oorspronkelijk voor op het hele Indiase subcontinent, van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி). Zie:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
+:::
 
 ::: media
 

@@ -2,7 +2,7 @@
 title: "Lekce 52"
 subtitle: "Střední rod kmenů na -i a -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

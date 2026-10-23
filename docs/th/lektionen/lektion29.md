@@ -2,7 +2,7 @@
 title: "บทที่ 29"
 subtitle: "การใช้ Parasmaipada (⟪परस्मैपद⟫) และ Ātmanepada (⟪आत्मनेपद⟫) ในรูปเหตุกัตตุวาจก"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

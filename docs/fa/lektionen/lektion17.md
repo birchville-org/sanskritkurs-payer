@@ -2,7 +2,7 @@
 title: "درس ۱۷"
 subtitle: "کلاس دوم زمان حال (⟪अदादि⟫ = ⟪अद्⟫ و غیره)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

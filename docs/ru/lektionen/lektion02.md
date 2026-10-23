@@ -3,8 +3,8 @@ title: "Урок 2"
 subtitle: "Именное предложение и основы склонения"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Схема: Именная часть сказуемого — подлежащее**
+:::
 
+::: indent
 напр. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Вишну есть бог."
 :::
 Глагольная связка ("есть", "суть", "являюсь", "являешься", "являетесь") не требуется, но иногда может встречаться.
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 См. также обзор:
 
-> **Payer, Alois (1944–):** Сандхи конечного -s. -- (Материалы по санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Сандхи конечного -s. -- (Материалы по санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Конечное **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Шудра (сословие обслуживающего персонала).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Четыре сословия (varṇa)**
+
 Согласно классической теории (напр., Manusmṛti I, 88-91), обязанности распределены следующим образом:
 
 **брахманов**

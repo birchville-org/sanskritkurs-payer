@@ -2,7 +2,7 @@
 title: "ਪਾਠ 55"
 subtitle: "ਏ-ਅੋਰਿਸਟ (ਥੀਮੈਟ ਵੋਕਲ ਨਾਲ ਅੋਰਿਸਟ)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

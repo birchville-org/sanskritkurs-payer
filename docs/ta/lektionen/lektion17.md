@@ -2,7 +2,7 @@
 title: "பாடம் 17"
 subtitle: "இரண்டாவது முன்னிலை வகுப்பு (⟪अदादि⟫ = ⟪अद्⟫ மற்றும் பிற)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

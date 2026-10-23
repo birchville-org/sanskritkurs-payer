@@ -2,7 +2,7 @@
 title: "Lekcja 50"
 subtitle: "Tworzenie rzeczowników: regularne stopniowanie"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -247,7 +247,7 @@ Wyjaśnienie:
 ::: indent
 ⟪उपनीय तु यः शिष्यं वेदमधापयेत्द्द्विजः । सकल्पं सरहस्यं च तमाचार्यां प्रचक्षते ॥९॥ एकदेशं तु वेदस्य वेदाङ्गान्यपि वा पुनः । यो ऽध्यापयति वृत्त्यर्थम् उपाध्यायः स उच्यते ॥१०॥ निषेका⟫:sig[⟪दीनि⟫] ⟪कर्माणि यः करोति यथाविधि । संभावयति चान्नेन स विप्रो गुरुरुच्यते ॥११॥⟫
 
-> Wyjaśnienia:
+Wyjaśnienia:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
 :::
 

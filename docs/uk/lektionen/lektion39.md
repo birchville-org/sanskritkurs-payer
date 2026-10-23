@@ -2,7 +2,7 @@
 title: "Урок 39"
 subtitle: 'Особові закінчення першої особи (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**третя** особа\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

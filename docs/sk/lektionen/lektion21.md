@@ -2,7 +2,7 @@
 title: "Lekcia 21"
 subtitle: "Ďalšie korene prítomného času na -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lekcja 30"
 subtitle: 'Dziewiąta klasa czasownika (⟪क्र्यादि⟫ = \"⟪क्री⟫ itd.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

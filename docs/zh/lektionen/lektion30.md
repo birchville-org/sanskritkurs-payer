@@ -2,7 +2,7 @@
 title: "第30課"
 subtitle: '第九現在時類（⟪क्र्यादि⟫ = \"⟪क्री⟫ 等\"）'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -118,8 +118,8 @@ status: stable
 
 | |第三人稱單數|第三人稱複數|
 | :--- | :--- | :--- |
-|**Parasmaipada（他動語態）**|**-t**|無詞幹變化類別：**-an** 或 **-ur**：<br>願意：** -ur**|
-|**Ātmanepada（自動語態）**|**-ta**|無詞幹變化類別：**-ata**（源自 *nta）：<br>願意：** -ran**|
+|**Parasmaipada（他動語態）**|**-t**|無詞幹變化類別：**-an** 或 **-ur**：:br願意：** -ur**|
+|**Ātmanepada（自動語態）**|**-ta**|無詞幹變化類別：**-ata**（源自 *nta）：:br願意：** -ran**|
 
 :::
 ## 30.4. 虛擬語氣現在時的構成（⟪लिङ्⟫）

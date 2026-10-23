@@ -2,7 +2,7 @@
 title: "第55课"
 subtitle: "a-词干过去时（带主题元音的过去时）"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

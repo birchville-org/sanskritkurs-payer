@@ -2,7 +2,7 @@
 title: "Ejercicio 54"
 uebung_id: 54
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -36,9 +36,9 @@ Formen los correspondientes aoristos de las siguientes formas de presente o perf
 | ⟪२१⟫. | **⟪जायते⟫** | él nace | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | se canta | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | se ha ido | **⟪अगामि⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung093))
-::::
 :::

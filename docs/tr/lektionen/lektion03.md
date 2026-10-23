@@ -2,7 +2,7 @@
 title: "Ders 3"
 subtitle: "Dişil cinsiyetin tekil halinin nominativ hali"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Tekil durum halini ek almadan şu şekilde oluştururlar:
 **-ā** ile biten dişil isimler: Örn. **devatā** f. "tanrıça" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **-ī** ile biten dişil isimler: Örn. **devī** f. "tanrıça" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Dikkat!** Bunların yanı sıra, tek heceli dişi kök isimler de -ī ile biter ancak tekil durum hali -s ile biter: Örn. dhī f. "düşünce" -- Nom. sg.: dhīs = ⟪धीस्⟫. Ayrıca lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "tekne" ve tantrī (⟪तन्त्री⟫) f. "tel" isimleri de düzensiz bir şekilde tekil durum halini -s ile oluşturur: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ u / -ū + u- / ū- » **-ū-**
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā bir ilahedir" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā yiyeceklerin ve pişirmenin tanrıçasıdır; Şiva'nın eşi Pārvatī'nin bir tezahürü olarak kabul edilir.)
+::: indent
+(Annapūrṇā yiyeceklerin ve pişirmenin tanrıçasıdır; Şiva'nın eşi Pārvatī'nin bir tezahürü olarak kabul edilir.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī bir ilahedir" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī, tanrı Indra'nın eşidir.)
+::: indent
+(Indrāṇī, tanrı Indra'nın eşidir.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ u / -ū » **-v-**
 
 devī + umā » devy umā "Umā bir / ilahedir" = ⟪देव्युमा⟫
 
-> (Umā, Śiva'nın eşi Pārvatī için bir isimdir)
+::: indent
+(Umā, Śiva'nın eşi Pārvatī için bir isimdir)
+:::
 
 ::: grammar-box
 **-a / -ā benzer olmayan ünlüden önce:**

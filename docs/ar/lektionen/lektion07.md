@@ -2,7 +2,7 @@
 title: "الدرس 7"
 subtitle: "الجملة الفعلية مع المفعول به المباشر"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # الدرس 7
 
 
-::: center
+::: verse-box
 **عبارة الأسبوع**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **المخطط:**
 **(الفاعل = kartṛ m. = ⟪कर्तृ⟫) – المفعول به المباشر (karman n. = ⟪कर्मन्⟫) – الفعل**
+:::
 
+::: indent
 على سبيل المثال
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "راما يأكل (يبتلع) فاكهة."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "يكرم البراهمان إلهًا بذبيحة (لشخص آخر)."

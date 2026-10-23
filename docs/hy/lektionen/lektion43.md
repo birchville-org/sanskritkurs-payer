@@ -2,7 +2,7 @@
 title: "Դաս 43"
 subtitle: 'Երկրորդ դեմքի անձնական վերջավորություններ (⟪मध्यमः⟫ = \"միջին <դեմք>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

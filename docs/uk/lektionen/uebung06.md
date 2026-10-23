@@ -2,7 +2,7 @@
 title: "Вправа 6"
 uebung_id: 6
 category: "Вправа"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

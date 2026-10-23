@@ -2,7 +2,7 @@
 title: "Alıştırma 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,15 +23,17 @@ Cehalet, kalıcı olmayanı, kirliyi, acı dolu ve mutlak olmayanı; kalıcı, t
 
 Aşırı sert bir yönetim (daṇḍa) karşısında varlıklar ürpermelidir. Zayıf bir yönetim hor görülür. Tamamen doğru olan bir yönetim saygı görür. Bilgelikle yönetilen bir yönetim, altındaki halkta adaleti, kazancı ve keyfi teşvik eder. Keyif veya nefret ya da hor görme nedeniyle kötü yönetilen bir yönetim, ormana çekilmiş yaşlıları ve dolaşan azapları bile öfkelendirir, ne kadar da ev sahiplerini! Uygulanmayan yönetim balıklar gibi bir davranışa yol açar (mātsyanayāya). Yönetimi sürdüren kimse yoksa, güçlü olan zayıfı yutar. Zayıf yönetici tarafından korunursa, gelişir.
 
-> Dört kaste ve dört yaşam evresinden oluşan dünya  
-> Kral tarafından yönetimi aracılığıyla korunur:  
-> Kendi haklarına ve kendi geleneklerine göre yaptıklarıyla sevinç duyarak  
-> Kendi yollarında ilerler.
+::: indent
+Dört kaste ve dört yaşam evresinden oluşan dünya
+Kral tarafından yönetimi aracılığıyla korunur:
+Kendi haklarına ve kendi geleneklerine göre yaptıklarıyla sevinç duyarak
+Kendi yollarında ilerler.
 
-> Dört varna ve dört āśrama ile dünya  
-> Kral tarafından yönetimi aracılığıyla korunur:  
-> Kendi dharma ve kendi ācāra doğrultusunda hareket ederek  
-> Kendi yollarında ilerler.
+Dört varna ve dört āśrama ile dünya
+Kral tarafından yönetimi aracılığıyla korunur:
+Kendi dharma ve kendi ācāra doğrultusunda hareket ederek
+Kendi yollarında ilerler.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

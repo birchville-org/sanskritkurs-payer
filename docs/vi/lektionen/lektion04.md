@@ -2,7 +2,7 @@
 title: "Bài 4"
 subtitle: "Đại từ nghi vấn và đại từ chỉ định ở cách danh xưng"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -47,33 +47,30 @@ status: stable
 
 ### 4.1.2. Sandhi von auslautendem -m ### 4.1.2. Sandhi của âm cuối -m
 
-::: grammar-box ::: grammar-box
+::: grammar-box
 **Âm cuối -m được thay thế bằng Anusvāra (-ṃ) trước phụ âm. Ở cuối câu hoặc khổ thơ và trước nguyên âm, -m được giữ nguyên.**
-::: :::
 :::
 ### 4.1.3. Sandhi von auslautendem -e ### 4.1.3. Sandhi của âm cuối -e
 
-::: grammar-box ::: grammar-box
+::: grammar-box
 1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:** 1. **trước a-, -e không thay đổi: âm đầu a- bị lược bỏ với Avagraha:**
 z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ "Diese Feuer"    Ví dụ: ete + agnayas » ete 'gnayaḥ = ⟪एते ऽग्नयः⟫ "Những ngọn lửa này"
 
 2. **Trước các nguyên âm khác với a ngắn, -e thường được thay thế bằng -a với Hiatus. Việc thay thế bằng -ay cũng xảy ra:**
 z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"    Ví dụ: ime + īśvarās » ima īśvarāḥ = ⟪इम ईश्वराः⟫ (hiếm: imay īśvarāh = ⟪इमयीश्वराः⟫) "Những vị CHỦ NHÂN này"
-::: :::
 :::
 ### 4.1.4. Sandhi von auslautendem -d ### 4.1.4. Sandhi của âm cuối -d
 
-::: grammar-box ::: grammar-box
+::: grammar-box
 **Âm cuối -d được thay thế bằng -t trong trạng thái dừng (pausa) cũng như trước các âm họng vô thanh (k, kh) và môi (p, ph).**
 
 Việc thay thế trước các phụ âm khác sẽ được thảo luận sau. Hãy tránh những sự va chạm âm thanh như vậy tạm thời!
-::: :::
 :::
 ### 4.1.5. Frageformeln ### 4.1.5. Công thức câu hỏi
 
 Bằng cách sử dụng những đại từ này, người ta tạo ra các công thức câu hỏi ví dụ như sau:
 
-::: no-header ::: no-header
+::: no-header
 | | | | | | | | |
 | :--- | :--- | :--- | :--- | | --- | --- | --- | --- |
 | **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" | **Số ít** | **Trung tính** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं किम्⟫, ⟪किमिदम्⟫ | "Đó là gì?" |
@@ -85,7 +82,9 @@ Bằng cách sử dụng những đại từ này, người ta tạo ra các cô
 :::
 Một ví dụ về các câu hỏi khác:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Trả lời: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Trong câu danh từ, người ta có thể đặt chủ ngữ ở đầu câu để nhấn mạnh sự liên kết với câu hỏi.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Trả lời: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Trong câu danh từ, người ta có thể đặt chủ ngữ ở đầu câu để nhấn mạnh sự liên kết với câu hỏi.)
+:::
 
 CHÚ THÍCH: Những câu trả lời mà bạn có thể đưa ra cho các câu hỏi như vậy dựa trên kiến thức Sanskrit hiện tại của mình, đương nhiên vẫn chưa hoàn toàn phù hợp với tiếng Sanskrit chuẩn mực về mọi mặt.
 

@@ -2,7 +2,7 @@
 title: "ትምህርት 59"
 subtitle: "የሁለተኛ ደረጃ መጨረሻዎች እና የአዘዋዋሪ መጨረሻዎች ለሁለት ቁጥር (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

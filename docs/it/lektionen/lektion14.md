@@ -2,7 +2,7 @@
 title: "Lezione 14"
 subtitle: "L'espressione della relazione tra ciò che è designato da sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Esempi:
 ::: grammar-box
 La normale posizione della parola è:
 
-> **Parola determinante al genitivo — Sostantivo ulteriormente determinato in un altro caso**
+**Parola determinante al genitivo — Sostantivo ulteriormente determinato in un altro caso**
 :::
 **Genitivo e PPP:**
 
@@ -37,9 +37,9 @@ Nei PPP il genitivo può sostituire l'ablativo (tṛtīyā) per l'agente (kart�
 
 Secondo Pāṇini 2.3.67, quando il PPP ha un significato presente, si usa il genitivo; quando il PPP ha un significato passato, si usa l'ablativo:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Il frutto desiderato da Rāma = Il frutto che Rāma desidera attualmente"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Il frutto che Rāma ha desiderato"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Il frutto desiderato da Rāma = Il frutto che Rāma desidera attualmente"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Il frutto che Rāma ha desiderato"
 
 Naturalmente, quando un PPP neutro singolare è usato come astratto verbale - cioè come sostantivo - si usa il genitivo.
 :::
@@ -56,7 +56,7 @@ Dopo una consonante le desinenze regolari del genitivo sono:
 * Pluraleeeeee: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Radice nominale | Schwacher Tema | Genitivo Singolare | Genitivo Plurale |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Dopo una consonante le desinenze regolari del genitivo sono:
 
 Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 
-> **-vocale lunga della radice + -nām**
+**-vocale lunga della radice + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Radice nominale | Genitivo Plurale |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 Il genitivo singolare dei temi vocalici si forma in modo irregolare e deve essere imparato a memoria.
 
 :::
-::: center
+::: verse-box
 
 | Tema | Genitivo singolare |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Il genitivo singolare dei temi vocalici si forma in modo irregolare e deve esser
 :::
 **Pronomi interrogativi e dimostrativi:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,12 +124,12 @@ Il genitivo singolare dei temi vocalici si forma in modo irregolare e deve esser
 :::
 **Identità di forma:**
 
-::: important
+::: warning-box
 
 In tutti i temi nominali, ad eccezione dei maschili e neutri in -a e dei pronomi, la forma del genitivo singolare è identica a quella dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
 :::
-::: important
+::: warning-box
 
 In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
@@ -141,11 +141,11 @@ Si noti che nelle radici con desinenza consonantica, l'ablativo e il genitivo si
 ::: grammar-box
 Contrariamente alla regola generale sopra esposta, il genitivo viene utilizzato per esprimere l'oggetto di alcuni verbi, ad esempio i verbi di ricordo:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Egli ricorda gli dèi"
+⟪देवानां⟫ ⟪स्मरति⟫ "Egli ricorda gli dèi"
 
 Per tutti questi verbi l'oggetto può tuttavia trovarsi anche all'accusativo:
 
-> ⟪देवान्स्मरति⟫ "Egli ricorda gli dèi"
+⟪देवान्स्मरति⟫ "Egli ricorda gli dèi"
 
 Ulteriore materiale più avanti.
 :::

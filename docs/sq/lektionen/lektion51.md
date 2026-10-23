@@ -2,7 +2,7 @@
 title: "Mësimi 51"
 subtitle: "Kompozitumet ⟪उपपद⟫"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -333,7 +333,9 @@ p.sh. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: Lëkurë antilope, veçanërisht lëkura e antilopecës së zezë (Antilope hirsute : _Antilope cervicapra_ L. ). Fillimisht gjendej në të gjithë kontinentin indian nga Punjab dhe Sind deri në Bengal dhe nga Nepal në Kanyakumari (Kepi Comorin) (Tamil: கன்னியாகுமரி) Shihni:
 
-> **Gjitarët e botës së Walker-it** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vëllime. -- ISBN 0-8018-5789-9. -- Vëllimi 2. -- Fq. 1193f.
+::: note-box
+**Gjitarët e botës së Walker-it** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vëllime. -- ISBN 0-8018-5789-9. -- Vëllimi 2. -- Fq. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

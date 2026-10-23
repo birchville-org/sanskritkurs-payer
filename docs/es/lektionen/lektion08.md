@@ -3,8 +3,8 @@ title: "Lección 8"
 subtitle: "Formación de nombres y Clase presente 8"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -87,8 +87,6 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0801))
-::: \<!--  --\>
-
 :::
 ::: note-box
 **"Darshan"** o **"Darshana"** es un término del hinduismo para la visión y la visión de lo santo y lo divino. Bajo *Darshana* se entiende, por ejemplo, el encuentro oficial entre alumno y maestro, en el que el alumno fue invitado por el maestro. Pero también puede significar el *sumergirse* al contemplar una imagen de un dios. Este último significado es el más común en el uso actual del hindi. En relación con Mata Amritanandamayi, Darshan significa el abrazo del Guru.

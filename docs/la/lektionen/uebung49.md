@@ -2,7 +2,7 @@
 title: "Exercitatio 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Quaestiones regis ⟪शूद्रक⟫ ex ⟪विदिशा⟫ ad psitta
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Rex ait: "Sinamus haec in suo statu manere! Satisfacite curiositati nostrae! Domine, narrate nobis ab initio: In qua terra nati estis? Quis vobis nomen dedit? Quae mater vestra est? Quomodo Vēdas accepistis? Quomodo doctrinas didicistis? Unde artes comparastis? An memoriam habetis priorum nativitatum an vota exaudiri potestis? Aut habitatistis, induto vestimento avis, in latebra? Aut ubi habitastis prius? Aut quot annos natus estis? Quomodo in caveam capti estis? Et quomodo in manus Cāṇḍālarum venistis? Aut quomodo huc venistis?"
-\>
-> Vaiśampāyana autem, qui a Domino terrarum sponte nata curiositate cum magno reverentia interrogatus esset, paululum cogitavit et deinde plenus honoris respondit: "Rex, longa est historia. Si te interest, auribus meis utere!"
+::: indent
+Rex ait: "Sinamus haec in suo statu manere! Satisfacite curiositati nostrae! Domine, narrate nobis ab initio: In qua terra nati estis? Quis vobis nomen dedit? Quae mater vestra est? Quomodo Vēdas accepistis? Quomodo doctrinas didicistis? Unde artes comparastis? An memoriam habetis priorum nativitatum an vota exaudiri potestis? Aut habitatistis, induto vestimento avis, in latebra? Aut ubi habitastis prius? Aut quot annos natus estis? Quomodo in caveam capti estis? Et quomodo in manus Cāṇḍālarum venistis? Aut quomodo huc venistis?"
+
+Vaiśampāyana autem, qui a Domino terrarum sponte nata curiositate cum magno reverentia interrogatus esset, paululum cogitavit et deinde plenus honoris respondit: "Rex, longa est historia. Si te interest, auribus meis utere!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

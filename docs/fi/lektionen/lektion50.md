@@ -2,7 +2,7 @@
 title: "Oppitunti 50"
 subtitle: "Nominaalinen muodostus: säännöllinen asteistus"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

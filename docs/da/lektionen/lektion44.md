@@ -2,7 +2,7 @@
 title: "Lektion 44"
 subtitle: "Dannelsen af verbalformer for 2. person (⟪मध्यमः⟫) athematiske stammer med vokalisk endende suffix"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ f.eks. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 De indiske grammatikere betragter ikke vokativ (⟪आमन्त्रितम्⟫) som en selvstændig kasus, men kun som en modifikation af nominativ (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Vokativet bruges til at kalde på eller tale til nogen og står uden for sammenhængen med resten af sætningen, således at det adskiller sig fra de andre kasus, der udtrykker en relation til verbet eller et andet substantiv.**
 
@@ -251,7 +251,7 @@ De indiske grammatikere betragter ikke vokativ (⟪आमन्त्रित�
 
 :::
 
-::: important
+::: warning-box
 
 **Undgå at oversætte vokativet med "**O** ...". Vi bruger konstant vokativer på tysk, når vi f.eks. siger: "Kæreste, hvad laver vi til mad i dag?". Ingen vil sige på denne måde: "**O** kæreste, hvad laver vi til mad i dag?"**
 

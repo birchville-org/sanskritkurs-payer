@@ -2,7 +2,7 @@
 title: "Bài 44"
 subtitle: "Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) của các gốc không có âm đệm, với hậu tố kết thúc bằng nguyên âm"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ Ví dụ: ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ �
 
 Các nhà ngữ pháp bản địa không xem cách gọi (⟪आमन्त्रितम्⟫) là một trường hợp riêng biệt, mà chỉ coi đó là sự biến đổi của cách chủ ngữ (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Cách gọi dùng để hô gọi, thưa gửi và đứng ngoài mối liên hệ với phần còn lại của câu, do đó khác biệt với các trường hợp khác biểu thị mối quan hệ với động từ hoặc một danh từ khác.**
 
 **Thông thường, cách gọi được đặt ở đầu câu:**
@@ -193,7 +193,7 @@ Các nhà ngữ pháp bản địa không xem cách gọi (⟪आमन्त्
 ::: indent
 ⟪बाल किं वदसि⟫ = "Hỡi đứa trẻ, ngươi nói gì?"
 :::
-::: important
+::: warning-box
 **Tránh dịch cách gọi với "**Hỡi** ...". Trong tiếng Đức, chúng ta thường xuyên sử dụng các từ hô gọi khi ví dụ nói: "Em yêu, hôm nay chúng ta nấu món gì?". Không ai lại nói theo nghĩa này là: "**Hỡi** em yêu, hôm nay chúng ta nấu món gì?"**
 :::
 ::: media

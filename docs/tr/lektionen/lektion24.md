@@ -2,7 +2,7 @@
 title: "Ders 24"
 subtitle: 'Dativ (⟪चतुर्थी⟫ = "dördüncü hal eki")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

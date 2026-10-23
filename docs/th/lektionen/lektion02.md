@@ -3,8 +3,8 @@ title: "บทที่ 2"
 subtitle: "ประโยคนามและพื้นฐานของการผันรูป"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,7 +14,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **แผนภาพ: นามคำคุณศัพท์ในตำแหน่งกริยา - ประธาน**
+:::
 
+::: indent
 เช่น devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "วิษณุเป็นเทพเจ้า"
 :::
 ไม่จำเป็นต้องมีกริยาเชื่อมโยง (copula) ("คือ", "เป็น", "ฉันคือ", "คุณคือ", "พวกท่านคือ") แต่อาจปรากฏในบางกรณี
@@ -73,7 +75,9 @@ last_reconstructed: 2026-04-30
 
 ดูสรุปเพิ่มเติม:
 
-> **Payer, Alois (1944–):** สันธิของ -s ที่ออกเสียงท้าย. -- (วัสดุสำหรับภาษาสันสกฤต). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** สันธิของ -s ที่ออกเสียงท้าย. -- (วัสดุสำหรับภาษาสันสกฤต). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 การลงท้ายด้วย **-s**:
 
@@ -116,7 +120,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** นามบุรุษ -- ⟪शूद्र⟫ : ศูทร (สถานะผู้ให้บริการ).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**วรรณะทั้งสี่ (varṇa)**
+
 ตามทฤษฎีคลาสสิก (เช่น Manusmṛti I, 88-91) งานถูกแบ่งดังนี้:
 
 - **ของพราหมณ์**

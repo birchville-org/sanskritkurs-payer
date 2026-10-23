@@ -2,7 +2,7 @@
 title: "Դաս 17"
 subtitle: "Երկրորդ ներկա ժամանակի դաս (⟪अदादि⟫ = ⟪अद्⟫ և այլն)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

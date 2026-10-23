@@ -755,7 +755,7 @@ Tāla: Rūpaka: o |4
 
 Mivel most megismerte a szanszkrit alapjait, remélhetőleg olyanok, mint a videóban szereplő kisgyermekek: néha ügyetlenek, de tanulni és tudni vágyók, valamint örömmel végzik a feladatot. Megőrizve „kezdők gondolkodását” egész életük során.
 
-::: center
+::: verse-box
 Ezt kívánja Önnek Alois Payer
 
 Ofterdingen, 2009-03-09

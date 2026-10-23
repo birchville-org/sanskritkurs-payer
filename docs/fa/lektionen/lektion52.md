@@ -2,7 +2,7 @@
 title: "درس ۵۲"
 subtitle: "خنثی از پایه‌های منتهی به -i و -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

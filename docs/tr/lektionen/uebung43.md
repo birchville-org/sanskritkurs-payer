@@ -2,7 +2,7 @@
 title: "Alıştırma 43"
 uebung_id: 43
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

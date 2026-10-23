@@ -2,7 +2,7 @@
 title: "Урок 25"
 subtitle: "Образуване на аблатив (⟪पञ्चमी⟫ = „пети падежен край“)"
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -205,7 +205,7 @@ Absol. 2: -⟪त्यज्य⟫
 ⟪धृ⟫ 1U ⟪धरति⟫ : държа, задържа
 
 ::: indent
-> Фут. ⟪धरिष्यति⟫  
+Фут. ⟪धरिष्यति⟫
 Пас. ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
 Инф. ⟪धर्तुम्⟫  

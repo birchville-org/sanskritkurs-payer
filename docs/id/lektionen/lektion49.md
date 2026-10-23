@@ -2,7 +2,7 @@
 title: "Pelajaran 49"
 subtitle: "Pembentukan Imperatif (⟪लोट्⟫) pada stem presentum athematic (lanjutan)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -475,7 +475,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Shihni gjithashtu:
 
-> **Payer, Alois (1944–):** Hyrje në ekzegjezën e teksteve sanskrite : Skript. -- Kap. 8: Ekzegjeza e vërtetë, pjesa II: Për çështje të caktuara të kuptimit sinkron. -- Shtesë B: Për metrikën e teksteve sanskrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Hyrje në ekzegjezën e teksteve sanskrite : Skript. -- Kap. 8: Ekzegjeza e vërtetë, pjesa II: Për çështje të caktuara të kuptimit sinkron. -- Shtesë B: Për metrikën e teksteve sanskrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Rëndësia e përcaktimit të metrit
 
@@ -548,12 +550,14 @@ Shembull: ⟪भगवद्गीता १⟫,⟪१⟫:
 ::: indent
 ⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟫
 :::
-> Shpërndarja e ⟪लघु⟫ dhe ⟪गुरु⟫ :
+::: indent
+Shpërndarja e ⟪लघु⟫ dhe ⟪गुरु⟫ :
+:::
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Epik Śloka (⟪श्लोक⟫ m.)
@@ -579,11 +583,11 @@ Metrika më e rëndësishme vargje në epikë (⟪महाभारत⟫, ⟪�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 E dyta dhe e treta vargje e një ⟪पाद⟫ nuk duhet të jenë njëkohësisht ⟪लघु⟫. Në b dhe d, vargjet 2 - 4 nuk mund të jenë ¯ ˘ ¯.
@@ -593,7 +597,7 @@ E dyta dhe e treta vargje e një ⟪पाद⟫ nuk duhet të jenë njëkohësi
 ::: grammar-box
 **Përcaktoni midis të gjitha vargjeve të mësuar deri tani ato që janë Ślokas. Bëni skemën metrike për këto në mënyrë të shkruar. Tregoni çdo mosrregullsi ose forma Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

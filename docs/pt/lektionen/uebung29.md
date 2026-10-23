@@ -2,7 +2,7 @@
 title: "Exercício 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Ignorância significa considerar o impermanente, impuro, sofrido e não-absolute
 
 Diante de um governo excessivamente rigoroso (daṇḍa), as criaturas devem tremer. Um governo frouxo é desprezado. Um governo justo e equilibrado é venerado. Um governo bem conduzido promove justiça, lucro e prazer entre os súditos. Um governo mal administrado por causa de prazer ou ódio, ou desprezo, enfurece até os anciãos retirados na floresta e os ascetas errantes, quanto mais os chefes de família. O governo não exercido resulta em comportamento como o dos peixes (mātsyanayāya). Pois, quando não há ninguém que mantenha o governo em ordem, o mais forte devora o mais fraco. Quando o fraco é protegido pelo detentor do governo, ele prospera.
 
-> O mundo com seus quatro estados e estágios de vida  
-> É protegido pelo rei através do governo:  
-> Alegre com a atividade segundo seu próprio direito e costume  
-> Move-se em seus próprios caminhos.
+::: indent
+O mundo com seus quatro estados e estágios de vida
+É protegido pelo rei através do governo:
+Alegre com a atividade segundo seu próprio direito e costume
+Move-se em seus próprios caminhos.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

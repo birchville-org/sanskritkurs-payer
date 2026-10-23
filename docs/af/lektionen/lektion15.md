@@ -2,7 +2,7 @@
 title: "Lesing 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -30,12 +30,12 @@ Die gevalleverhouding tussen die twee dele van 'n samestelling is onafhanklik va
 
 bv.
 
-> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
-> Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
-> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
-> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
-> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
-> ens.
+Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+ens.
 
 Die geslag van 'n Tatpuruṣa is – met 'n paar uitsonderings – dié van sy tweede komponent.
 

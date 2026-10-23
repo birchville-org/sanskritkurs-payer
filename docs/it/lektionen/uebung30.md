@@ -2,7 +2,7 @@
 title: "[Esercizio 30]"
 uebung_id: 30
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -171,9 +171,9 @@ Si determinino e si traducano le seguenti forme lessicali:
 | ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | a loro |
 | ⟪३९⟫. ⟪तस्मिन्⟫ | Loc. sg. m./n. | in ciò, in questo |
 | ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | all'Essente / al Buono |
-:::: media
+:::
+::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung047))
-::::
 :::

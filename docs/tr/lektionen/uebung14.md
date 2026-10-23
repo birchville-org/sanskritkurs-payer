@@ -2,7 +2,7 @@
 title: "Alıştırma 14"
 uebung_id: 14
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ Aşağıdaki atasözlerini çevirin ve ezberleyin:
 Alçak kişi konuşmaz ve hareket etmez; iyi olan kişi konuşmaz, aksine hareket eder.
 
 ⟪शीलं नरस्य भूषणम् ॥२॥⟫  
-> Erdem insanın süsüdür.
+::: indent
+Erdem insanın süsüdür.
+:::
 
 ⟪सत्येन जनानां सुखं भवति ॥३॥⟫  
 Gerçeklikle insanlar mutluluğa erer.

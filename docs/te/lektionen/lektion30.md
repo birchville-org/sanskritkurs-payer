@@ -2,7 +2,7 @@
 title: "పాఠం 30"
 subtitle: '9వ వర్తమాన కాల వర్గం (⟪क्र्यादि⟫ = \"⟪क्री⟫ మొదలైనవి\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

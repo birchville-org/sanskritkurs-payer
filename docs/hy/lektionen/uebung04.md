@@ -2,7 +2,7 @@
 title: "Վարժություն 4"
 uebung_id: 4
 category: "Վարժություն"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

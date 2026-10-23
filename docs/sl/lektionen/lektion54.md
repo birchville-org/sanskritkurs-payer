@@ -2,7 +2,7 @@
 title: "Učenje 54"
 subtitle: "Predgovor"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Slika: ⟪अयुयुत्सुरर्जुनः भगवद्गी
 Shema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Shema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Količina štirih zadnjih silab je torej v obeh shemah enaka.
 
 ⟪जगती⟫-osnovna oblika: kot pri ⟪त्रिष्टुभ्⟫, a dvanajsetsilna. Zadnjih pet silab vsakega pada ima naslednje količine:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Poleg tega obstaja t. i. tipično odvečna ⟪त्रिष्टुभ्⟫ s petsilnim začetnim delom, ki se nadaljuje kot ⟪त्रिष्टुभ्⟫ s štirasilnim začetnim delom:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 V poznejši dobi so oblike ⟪त्रिष्टुभ्⟫ določene po strogem sistemu dolžin in kratkosti, cezura ne igra več vloge. Najpomembnejše poznejše oblike so:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

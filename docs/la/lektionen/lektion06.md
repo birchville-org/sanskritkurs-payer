@@ -2,7 +2,7 @@
 title: "Lectio 6"
 subtitle: "Structura orationis verbalis (agens et forma verbalis)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

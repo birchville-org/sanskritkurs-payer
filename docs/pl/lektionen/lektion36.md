@@ -2,7 +2,7 @@
 title: "Lekcja 36"
 subtitle: "Specjalne formy czasu Perfekt"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -441,7 +441,7 @@ Ilustracja: ⟪येन प्रीणात्युपाध्यायं 
 ::: indent
 ⟪श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः । न हृष्यति ग्लायति वा स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः ॥⟫
 
-> Wyjaśnienie: ⟪विज्ञेय ३⟫: ten, który jest do poznania; ten, który należy znać (jako)
+Wyjaśnienie: ⟪विज्ञेय ३⟫: ten, który jest do poznania; ten, który należy znać (jako)
 :::
 4\. ⟪मनुस्मृति २⟫.⟪११०⟫ o właściwym postępowaniu brahmana:
 

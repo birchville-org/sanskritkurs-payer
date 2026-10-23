@@ -2,7 +2,7 @@
 title: "Ejercicio 58"
 uebung_id: 58
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -93,5 +93,4 @@ Pune - ⟪पुणे⟫
 ![](/images/uebung096.webp)
 Fig.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung096))
-::: \<!--  --\>
 :::

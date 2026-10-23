@@ -1,3 +1,4 @@
+
 # Písomný cvik 8
 
 Samohláskové znamienka na začiatku slova, ak slovo nie je v písme spojené s predchádzajúcim slovom:

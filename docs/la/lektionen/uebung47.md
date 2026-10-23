@@ -2,7 +2,7 @@
 title: "Exercitium 47"
 uebung_id: 47
 category: "Exercitium"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

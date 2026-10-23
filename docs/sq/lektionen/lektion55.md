@@ -2,7 +2,7 @@
 title: "Mësimi 55"
 subtitle: "Aoristi i a- (Aoristi me vokalin e temës)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

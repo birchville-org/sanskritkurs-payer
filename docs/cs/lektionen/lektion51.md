@@ -2,7 +2,7 @@
 title: "Lekce 51"
 subtitle: "⟪उपपद⟫-kompozita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -333,7 +333,9 @@ např. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: kůže antilopy, zejména kůže černé antilopy (Hirschziegenantilope : _Antilope cervicapra_ L. ). Původně se vyskytovala na celém indickém subkontinentu od Paňdžábu a Sindhu až po Bengál a od Nepálu až po Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Viz:
 
-> **Savci světa podle Walkera** / Ronald M. Nowak. -- 6. vyd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 svazky. -- ISBN 0-8018-5789-9. -- Svazek 2. -- S. 1193n.
+::: note-box
+**Savci světa podle Walkera** / Ronald M. Nowak. -- 6. vyd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 svazky. -- ISBN 0-8018-5789-9. -- Svazek 2. -- S. 1193n.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

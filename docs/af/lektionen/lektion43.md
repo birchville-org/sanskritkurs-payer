@@ -2,7 +2,7 @@
 title: "Lesing 43"
 subtitle: 'Persoonlike uitgang van die tweede persoon (⟪मध्यमः⟫ = "middelste <persoon>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

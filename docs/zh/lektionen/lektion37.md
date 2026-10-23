@@ -2,7 +2,7 @@
 title: "第37課"
 subtitle: "副詞 (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -323,7 +323,7 @@ status: stable
 ::: grammar-box
 模式 II：
 
-> 疑問粒子（通常位於句首）- 句子
+疑問粒子（通常位於句首）- 句子
 
 最重要的疑問粒子有：
 

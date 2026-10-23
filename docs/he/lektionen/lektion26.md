@@ -2,7 +2,7 @@
 title: "שיעור 26"
 subtitle: "חוק הסרברליזציה עבור -s- בתוך המילה"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

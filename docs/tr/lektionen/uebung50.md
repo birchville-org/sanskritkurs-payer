@@ -2,7 +2,7 @@
 title: "Alıştırma 50"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -16,14 +16,16 @@ A) Çekimlemeyi tekrarlamak için: Aşağıdaki şiir, ⟪गुरु⟫ m. iç
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> Öğretmenim sığınağımdır,  
-> Öğretmene saygı gösteririm,  
-> Öğretmenimle birlikteyim,  
-> Saygı öğretmenime,  
-> Öğretmenden daha yüce bir şey yoktur,  
-> Ben öğretmenimin çocuğuyum,  
-> Kalbim öğretmenimde,  
-> Öğretmen, beni koru!
+::: indent
+Öğretmenim sığınağımdır,
+Öğretmene saygı gösteririm,
+Öğretmenimle birlikteyim,
+Saygı öğretmenime,
+Öğretmenden daha yüce bir şey yoktur,
+Ben öğretmenimin çocuğuyum,
+Kalbim öğretmenimde,
+Öğretmen, beni koru!
+:::
 
 ---
 
@@ -36,7 +38,9 @@ A) Çekimlemeyi tekrarlamak için: Aşağıdaki şiir, ⟪गुरु⟫ m. iç
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> İyi insanların gittiği yolda, ataların gittiği yolda, dedelerin gittiği yolda yürüyün. Bu yolda yüründüğünde zarar görmezsiniz.
+::: indent
+İyi insanların gittiği yolda, ataların gittiği yolda, dedelerin gittiği yolda yürüyün. Bu yolda yüründüğünde zarar görmezsiniz.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -45,7 +49,9 @@ A) Çekimlemeyi tekrarlamak için: Aşağıdaki şiir, ⟪गुरु⟫ m. iç
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Aileler, kötü evliliklerle, ritüellerin terk edilmesiyle, Vedaların çalışılmamasıyla ve Brahmanlara karşı işlenen suçlarla aile olmaktan çıkar.
+::: indent
+Aileler, kötü evliliklerle, ritüellerin terk edilmesiyle, Vedaların çalışılmamasıyla ve Brahmanlara karşı işlenen suçlarla aile olmaktan çıkar.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -54,7 +60,9 @@ A) Çekimlemeyi tekrarlamak için: Aşağıdaki şiir, ⟪गुरु⟫ m. iç
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> Eşinin karısıyla ve karısının eşinin her zaman memnun olduğu bir ailede, sürekli mutluluk kesindir.
+::: indent
+Eşinin karısıyla ve karısının eşinin her zaman memnun olduğu bir ailede, sürekli mutluluk kesindir.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -75,7 +83,9 @@ Resim: ⟪संतुष्टो भार्यया भर्ता भर�
 **⟪आदित्याज्जायते वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> Vedaları okumaya ve tanrılar için ritüelleri yerine getirmeye her zaman devam edilmelidir. Çünkü tanrılar için ritüellerde bulunan kişi, canlı ve cansızlardan oluşan bu dünyayı elde eder. Ateşe doğru şekilde atılan kurban güneşe gider; Güneş'ten yağmur oluşur, yağmurdan yiyecek ortaya çıkar ve ondan da canlılar doğar.
+::: indent
+Vedaları okumaya ve tanrılar için ritüelleri yerine getirmeye her zaman devam edilmelidir. Çünkü tanrılar için ritüellerde bulunan kişi, canlı ve cansızlardan oluşan bu dünyayı elde eder. Ateşe doğru şekilde atılan kurban güneşe gider; Güneş'ten yağmur oluşur, yağmurdan yiyecek ortaya çıkar ve ondan da canlılar doğar.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -89,8 +99,10 @@ Resim: ⟪दैवे कर्मणि युक्तो हि बिभर
 **⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
 **⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Gelecekteki acıyı ortadan kaldırmaktır.  
-> Bu ortadan kaldırmanın nedeni, gören ile görülenin [= algılayan ve algılananın] birleşimidir.
+::: indent
+Gelecekteki acıyı ortadan kaldırmaktır.
+Bu ortadan kaldırmanın nedeni, gören ile görülenin [= algılayan ve algılananın] birleşimidir.
+:::
 
 ---
 
@@ -101,7 +113,9 @@ Resim: ⟪दैवे कर्मणि युक्तो हि बिभर
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [Kral], hiçbir şeyi küçümsememeli, herkesin görüşünü dinlemelidir. Bir bilge, anlamlıysa bir çocuğun sözünü de benimser.
+::: indent
+[Kral], hiçbir şeyi küçümsememeli, herkesin görüşünü dinlemelidir. Bir bilge, anlamlıysa bir çocuğun sözünü de benimser.
+:::
 
 ---
 
@@ -112,18 +126,24 @@ Resim: ⟪दैवे कर्मणि युक्तो हि बिभर
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> **Ācārya**, öğrenciye Upanayana törenini uygulayan ve ardından ona Vedaları, ritüeli ve gizli öğretileri öğretmeye hak kazanan İkinci Doğumludur.
+::: indent
+**Ācārya**, öğrenciye Upanayana törenini uygulayan ve ardından ona Vedaları, ritüeli ve gizli öğretileri öğretmeye hak kazanan İkinci Doğumludur.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> **Upādhyāya**, geçimini sağlamak amacıyla Vedaların bir bölümünü veya yardımcı bilimleri öğreten kişidir.
+::: indent
+**Upādhyāya**, geçimini sağlamak amacıyla Vedaların bir bölümünü veya yardımcı bilimleri öğreten kişidir.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> **Guru**, kurallara uygun olarak Niṣeka ve diğer ritüelleri yerine getiren ve onu yiyecek yoluyla var eden Brahman'dır.
+::: indent
+**Guru**, kurallara uygun olarak Niṣeka ve diğer ritüelleri yerine getiren ve onu yiyecek yoluyla var eden Brahman'dır.
+:::

@@ -2,7 +2,7 @@
 title: "Lecke 46"
 subtitle: "A második személy ragozott formáinak képzése (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ ebből:
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ vonatkozásában lásd:
 
-> **Payer, Alois (1944–):** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (samskara). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (samskara). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Kép: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/hu/licenses#lekt4602)

@@ -2,7 +2,7 @@
 title: "Ders 27"
 subtitle: 'Lokativ Kullanımı (⟪सप्तमी⟫ f. = "yedinci hal eki")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokatif (⟪सप्तमी⟫), "Nerede?" sorusuna karşılık olarak, ajanın (⟪कर्ता⟫) veya bir eylemin nesnesinin bulunduğu mekânı ya da eylemin kendisinin gerçekleştiği yeri belirtir.**
 
-> ⟪नगरे वसति⟫ = "Şehirde oturur"
+⟪नगरे वसति⟫ = "Şehirde oturur"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokatif, "Ne zaman?" sorusuna karşılık olarak zaman noktasını veya dış koşulları belirtir:**
 
-> ⟪तस्मिन्काले⟫ = "o anda, bu sırada"
+⟪तस्मिन्काले⟫ = "o anda, bu sırada"
 
 **Buraya ayrıca Locativus Absolutus da dahildir:**
 
 **Bir kişinin veya şeyin eylemi veya durumu, başka bir kişi veya şeyin belirli bir durumda olduğu veya belirli bir eylemi gerçekleştirdiği zamanı - veya koşulları - belirlerse, ilk kişi veya şeyi tanımlayan kelime, onu daha yakından tanımlayan kelimeyle (ki bu sıklıkla bir ortaçtır) birlikte Lokatif halini alır (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "zaman böyle geçerken..."
-\>
-> ⟪तस्मिन्गते⟫ = "gittiğinde..."
+⟪एवं गच्छति काले⟫ = "zaman böyle geçerken..."
+
+⟪तस्मिन्गते⟫ = "gittiğinde..."
 
 **Bazen ajan (⟪कर्ता⟫) ayrıca belirtilmez:**
 
-> ⟪एवं सति⟫ = "durum böyle olduğu için"
+⟪एवं सति⟫ = "durum böyle olduğu için"
 
 **Locativus absolutus, bağlama göre "sırasında" (örn. Şimdiki Zaman Ortacı), "sonra", "zaten" (örn. Geçmiş Tamamlanmış Zaman Ortacı), "çünkü", "zira", "halbuki", "eğer" vb. şeklinde çevrilmelidir.**
 
@@ -67,7 +67,7 @@ Rajasthan.
 
 **3. Lokatif, "Neyle ilgili olarak?" sorusuna vb. yanıtlar da verir:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Oğluna sevgisi vardır" (kelimesi kelimeye: "Oğluyla ilgili olarak onun yanında sevgi vardır")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Oğluna sevgisi vardır" (kelimesi kelimeye: "Oğluyla ilgili olarak onun yanında sevgi vardır")
 
 :::
 ::: media
@@ -81,7 +81,7 @@ Holi.
 
 **4. Lokatif, yerel sözlüklerde ve yorumcular tarafından bir kelimenin anlamını belirtmek için kullanılır:**
 
-> ⟪भू सत्तायाम्⟫ = "sat-tā (varlık-olma) anlamında ⟪भू⟫ kökü"
+⟪भू सत्तायाम्⟫ = "sat-tā (varlık-olma) anlamında ⟪भू⟫ kökü"
 
 :::
 Lokatifin kullanımı hakkında daha fazla bilgi ileride.

@@ -2,7 +2,7 @@
 title: Lektion 21
 subtitle: "Autres thèmes du présent en -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

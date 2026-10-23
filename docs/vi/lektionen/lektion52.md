@@ -2,7 +2,7 @@
 title: "Bài 52"
 subtitle: "Giống trung của các gốc từ tận cùng bằng -i và -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

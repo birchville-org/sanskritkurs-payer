@@ -2,7 +2,7 @@
 title: "Μάθημα 6"
 subtitle: "Η δομή της ρηματικής πρότασης (Υποκείμενο και Ρηματικός τύπος)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

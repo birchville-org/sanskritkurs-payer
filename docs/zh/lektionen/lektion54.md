@@ -2,7 +2,7 @@
 title: "第54課"
 subtitle: "前言"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ status: stable
 模式一：
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 模式二：
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 因此，兩種模式中最後四個音節的數量是相同的。
 
 ⟪जगती⟫基本形式：與⟪त्रिष्टुभ्⟫相同，但為十二音節。每個Pada的最後五個音節具有以下數量：
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 此外，還有所謂的典型多餘⟪त्रिष्टुभ्⟫，其起始部分為五音節，後續行為如同具有四音節起始部分的⟪त्रिष्टुभ्⟫：
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 在後期，⟪त्रिष्टुभ्⟫的形式根據長短音的嚴格模式確定，韻腳不再起重要作用。最重要的後期形式是：
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

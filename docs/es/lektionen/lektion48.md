@@ -2,7 +2,7 @@
 title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -11,7 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -198,7 +198,7 @@ Con el sufijo **-a** y (menos frecuentemente) **-ya** se puede derivar un sustan
 
 Las palabras derivadas tienen el significado:
 
-> "que tiene alguna relación con lo designado por la palabra base"
+"que tiene alguna relación con lo designado por la palabra base"
 
 por ejemplo:
 
@@ -265,8 +265,6 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4802))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt4803.webp)

@@ -106,13 +106,15 @@ All custom block containers and inline directives are powered by the official [`
 
 ### Syntax Quick Reference:
 * **Block Containers (`:::` / `::::`)**:
-  - `::: grammar-box` & `::: grammar-box2`: Highlighted grammar rule boxes.
-  - `::: indent`: Running text paragraph indentation container.
+  - `::: grammar-box`: Highlighted grammar rule boxes (Birchville Gold).
+  - `::: warning-box`: Didactic guidance & potential pitfalls (Scholarly Terracotta).
+  - `::: verse-box`: Ślokas, mantras, reading texts & metrics (centered, optimized typography).
   - `::: note-box`: Informational callout box.
-  - `::: deleteme-box`: Scholarly sources / metadata container (hidden in frontend view).
+  - `::: indent`: Running text paragraph indentation container.
   - `::: media`: Scholarly image container block.
+  - `::: deleteme-box`: Scholarly sources / metadata container (hidden in frontend view).
   - `::: no-header`: Table wrapper to hide empty table headers.
-  - `::: compact`, `::: center`, `::: metrik-schema`, `::: laut-table`, `::: important`
+  - `::: center`, `::: metrik-schema`, `::: laut-table`
 * **Inline Directives**:
   - `⟪...⟫` or `《...》`: Sanskrit/Devanāgarī scholarly brackets.
   - `:sig[...]`: Signal Red (`#ff0000`) emphasis for Devanāgarī text.

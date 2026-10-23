@@ -2,7 +2,7 @@
 title: "تمرين 60"
 uebung_id: 60
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Lecziun 4"
 subtitle: "Pronoms interrogativs e demonstrativs en il nominativ"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Cun questis pronomins furman ins per exempel las frimas d'interrogaziun suandant
 :::
 In exempl da autras dumondas:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ resposta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Qua po man al suttetg nominal il subject per exempel en l'entschatta, per accentuar la connexiun cun la dumonda.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ resposta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Qua po man al suttetg nominal il subject per exempel en l'entschatta, per accentuar la connexiun cun la dumonda.)
+:::
 
 NOTIZIA: Las respostas, che Vus pudais dar cun voss savair da sanscrit fin qua a talas dumondas, correspundan naturalmain anc betg en mintga relaziun al bon sanscrit idiomatic.
 

@@ -2,7 +2,7 @@
 title: "Les 44"
 subtitle: "Vorming van de vervoegingsvormen voor de tweede persoon (⟪मध्यमः⟫) van athematische stammen met een op een klinker eindigend suffix"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ b.v. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 De inheemse grammatici beschouwen de vocatief (⟪आमन्त्रितम्⟫) niet als een eigen naamval, maar slechts als een modificatie van de nominatief (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **De vocatief dient tot het aanroepen en het aanspreken en staat buiten het verband met de rest van de zin; hij onderscheidt zich dus van de andere naamvallen, die een relatie tot het werkwoord of tot een ander nomen uitdrukken.**
 
 **Meestal wordt de vocatief aan het begin van de zin geplaatst:**
@@ -193,7 +193,7 @@ De inheemse grammatici beschouwen de vocatief (⟪आमन्त्रितम
 ::: indent
 ⟪बाल किं वदसि⟫ = "Kind, wat zeg jij?"
 :::
-::: important
+::: warning-box
 **Men vermijde de vertaling van de vocatief met "**O** ...". Wij gebruiken in het Nederlands voortdurend vocatieven, wanneer wij b.v. zeggen: "Schat, wat koken we vandaag?". Niemand zal in deze betekenis zeggen: "**O** schat, wat koken we vandaag?"**
 :::
 ::: media

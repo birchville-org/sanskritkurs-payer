@@ -2,7 +2,7 @@
 title: "Kennslustund 45"
 subtitle: "Formation of the verbal forms for the second person (⟪मध्यमः⟫) of athematic stems without a vowel-ending suffix (continuation)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

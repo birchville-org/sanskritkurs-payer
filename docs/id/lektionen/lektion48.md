@@ -2,7 +2,7 @@
 title: "Pelajaran 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -12,7 +12,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -199,7 +199,7 @@ Dengan suffix **-a** dan (jarang) **-ya**, sebuah nomina dapat diturunkan dari n
 
 Kata-kata yang diturunkan memiliki makna:
 
-> "memiliki hubungan tertentu dengan apa yang dimaksud oleh kata dasar"
+"memiliki hubungan tertentu dengan apa yang dimaksud oleh kata dasar"
 
 mis.
 

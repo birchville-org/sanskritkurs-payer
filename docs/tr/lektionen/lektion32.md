@@ -71,7 +71,7 @@ status: stable
 :::
 ## 32.4. İmperfekt Yapısına Örnekler
 
-::: important
+::: warning-box
 **Formların oluşumunu göstermek için, burada Parasmaipada köklerine ek olarak Ātmanepada formları da oluşturulmuştur! Bu yapay formlar \< \> arasında yer alır.**
 :::
 ### 32.4.1. Temalı Şimdiki Zaman Sınıfları
@@ -582,7 +582,7 @@ Aşağıdaki kelime biçimlerini çevirin ve belirleyin:
 
 ## 32.9. Çeviri Alıştırması
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

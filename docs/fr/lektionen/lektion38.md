@@ -2,7 +2,7 @@
 title: Leçon 38
 subtitle: "Solution de la semaine"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

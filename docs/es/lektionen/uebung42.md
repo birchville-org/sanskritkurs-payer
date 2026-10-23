@@ -2,7 +2,7 @@
 title: "Ejercicio 42"
 uebung_id: 42
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -73,5 +73,4 @@ El corazón del rey Janaka estaba muy alegre. Luego, hizo venir a Daśaratha y a
 ![](/images/uebung069.webp)
 Fig.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung069))
-::: \<!--  --\>
 :::

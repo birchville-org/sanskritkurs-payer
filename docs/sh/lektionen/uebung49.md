@@ -2,7 +2,7 @@
 title: "[Vježba 49]"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Pitanja kralja ⟪शूद्रक⟫ iz ⟪विदिशा⟫ papigi ⟪�
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kralj reče: "Ostavimo sve to po strani! Zadovoljite našu znatiželju! Gospodine, ispričajte nam od početka: U kojoj ste zemlji rođeni? Tko vam je nadjenuo ime? Tko je vaša majka? Kako ste primili Vede? Kako ste se upoznali sa svetim spisima? Odakle ste stekli umjetnosti? Sjećate li se prošlih rođenja ili ispunjavate želje? Ili možda nosite krinku ptice u nekom skrovištu? Gdje ste prije živjeli? Koliko vam je godina? Kako ste uhvaćeni u kavez? I kako ste dospjeli u ruke Čandala? Kako ste uopće ovamo došli?"
-\>
-> A Vaiśampāyana, kojega je gospodar zemlje s iznenada probuđenom znatiželjom i s velikim poštovanjem upitao, razmisli na trenutak i odgovori s punim uvažavanjem: "Gospodaru, duga je to priča. Ako vas zanima, poslušajte me!"
+::: indent
+Kralj reče: "Ostavimo sve to po strani! Zadovoljite našu znatiželju! Gospodine, ispričajte nam od početka: U kojoj ste zemlji rođeni? Tko vam je nadjenuo ime? Tko je vaša majka? Kako ste primili Vede? Kako ste se upoznali sa svetim spisima? Odakle ste stekli umjetnosti? Sjećate li se prošlih rođenja ili ispunjavate želje? Ili možda nosite krinku ptice u nekom skrovištu? Gdje ste prije živjeli? Koliko vam je godina? Kako ste uhvaćeni u kavez? I kako ste dospjeli u ruke Čandala? Kako ste uopće ovamo došli?"
+
+A Vaiśampāyana, kojega je gospodar zemlje s iznenada probuđenom znatiželjom i s velikim poštovanjem upitao, razmisli na trenutak i odgovori s punim uvažavanjem: "Gospodaru, duga je to priča. Ako vas zanima, poslušajte me!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

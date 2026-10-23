@@ -2,7 +2,7 @@
 title: "Cvičenie 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Otázky kráľa ⟪शूद्रक⟫ z ⟪विदिशा⟫ smerom k pap
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kráľ povedal: "Nechajme to tak! Uspokojte našu zvedavosť! Pane, rozprávajte nám od začiatku: V akej krajine ste sa narodili? Kto vám dal meno? Kto je vaša matka? Ako ste získali Védy? Ako ste sa oboznámili s učebnicami? Odkiaľ ste získali umenia? Pamätáte si na predchádzajúce narodenia alebo plníte želania? Alebo bývate, keď nosíte odev vtáka, v úkryte? Alebo kde ste bývali skôr? Alebo koľko máte rokov? Ako ste sa dostali do klietky? A ako ste sa ocitli v rukách Cāṇḍálov? Alebo ako ste sa sem dostali?"
-\>
-> Vaiśampāyana však, ktorý bol pýtaný Pánom zeme so spontánnou zvedavosťou a veľkým rešpektom, na chvíľu zamyslel a potom odpovedal plný úcty: "Kráľ, to je dlhý príbeh. Ak vás to zaujíma, venujte mi svoje ucho!"
+::: indent
+Kráľ povedal: "Nechajme to tak! Uspokojte našu zvedavosť! Pane, rozprávajte nám od začiatku: V akej krajine ste sa narodili? Kto vám dal meno? Kto je vaša matka? Ako ste získali Védy? Ako ste sa oboznámili s učebnicami? Odkiaľ ste získali umenia? Pamätáte si na predchádzajúce narodenia alebo plníte želania? Alebo bývate, keď nosíte odev vtáka, v úkryte? Alebo kde ste bývali skôr? Alebo koľko máte rokov? Ako ste sa dostali do klietky? A ako ste sa ocitli v rukách Cāṇḍálov? Alebo ako ste sa sem dostali?"
+
+Vaiśampāyana však, ktorý bol pýtaný Pánom zeme so spontánnou zvedavosťou a veľkým rešpektom, na chvíľu zamyslel a potom odpovedal plný úcty: "Kráľ, to je dlhý príbeh. Ak vás to zaujíma, venujte mi svoje ucho!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

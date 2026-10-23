@@ -70,7 +70,7 @@ Voorbeelde:
 :::
 ## 32.4. Voorbeelde vir die vorming van die onvoltooid teenwoordige tyd
 
-::: important
+::: warning-box
 **Om die vorming van die vorms te demonstreer, word hier ook Ātmanepada-vorms vir Parasmaipada-wortels gevorm! Hierdie kunsmatige vorms staan tussen \< \>.**
 :::
 ### 32.4.1. Thematische teenwoordige tyd klasse
@@ -575,7 +575,7 @@ Vertaal en bepaal die volgende woordvorms:
 
 ## 32.9. Vertaaloefening
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

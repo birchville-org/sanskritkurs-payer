@@ -2,7 +2,7 @@
 title: "Oppitunti 14"
 subtitle: "Substantiiveilla tarkoitettujen asioiden välisen suhteen ilmaisu: genetiivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = kuudes kasuspääte)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Esimerkit:
 ::: grammar-box
 Normaalisanajärjestys on:
 
-> **Genetiivin määrittävä sana — erikseen taivutettu substantiivi**
+**Genetiivin määrittävä sana — erikseen taivutettu substantiivi**
 :::
 **Genetiivi ja PPP:**
 
@@ -37,9 +37,9 @@ PPP:n yhteydessä genetiivi voi korvata instrumentaalin (tṛtīyā) agentin (ka
 
 Pāṇinin 2.3.67 mukaan PPP:n yhteydessä genetiivi esiintyy, jos PPP:llä on preesensin merkitys (ks. yllä), ja instrumentaali, jos PPP:llä on menneisyyden merkitys:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Rāman toivoma hedelmä = Hedelmä, jota Rāma juuri nyt toivoo"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Hedelmä, jonka Rāma on toivonut"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Rāman toivoma hedelmä = Hedelmä, jota Rāma juuri nyt toivoo"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Hedelmä, jonka Rāma on toivonut"
 
 Luonnollisesti genetiivi sijaitsee silloin, kun PPP:n neutrin yksikköä käytetään verbalitina eli substantiivina.
 :::
@@ -56,7 +56,7 @@ Konsonantin jälkeen säännölliset genetiivin päätteen ovat:
 * monikko: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalstamm | Schwacher Vartalo | genetiivi yksikkö | genetiivi monikko |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Konsonantin jälkeen säännölliset genetiivin päätteen ovat:
 
 Genetiivin monikko vokaalipäätteisten varjojen muodostetaan näin:
 
-> **-pitkä päätteen vokaali + -nām**
+**-pitkä päätteen vokaali + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominaalivarsi | genetiivi monikko |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Genetiivin monikko vokaalipäätteisten varjojen muodostetaan näin:
 Vokaalisesti päättyvien varren genetiivin yksikkö muodostuu epäsäännöllisesti, ja se on hyvä opetella ulkoa.
 
 :::
-::: center
+::: verse-box
 
 | Varsi | Genetiivin yksikkö |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Vokaalisesti päättyvien varren genetiivin yksikkö muodostuu epäsäännöllis
 :::
 **Kysymys- ja demonstratiivipronominit:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Vokaalisesti päättyvien varren genetiivin yksikkö muodostuu epäsäännöllis
 :::
 **Muodon yhtäläisyys:**
 
-::: important
+::: warning-box
 
 Kaikilla nominivarrella lukuun ottamatta maskuliineja ja neutrejä -a-päätteisinä sekä pronomineissa genetiivin yksikön muoto on sama kuin ablatiivin (pañcamī "viides taivutuspääte") yksikön muoto!
 
@@ -136,11 +136,11 @@ Huomaa, että konsonanttivartaloisissa vartalossa ablatiivin ja genetiivin yksik
 ::: grammar-box
 Yllä olevan perussäännön vastaisesti genetiiviä käytetään ilmaisemaan joitain verbejä, esimerkiksi muistamisverbejä:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Hän muistelee jumalia"
+⟪देवानां⟫ ⟪स्मरति⟫ "Hän muistelee jumalia"
 
 Näiden verbien kohde voi kuitenkin olla myös akkusatiivissa:
 
-> ⟪देवान्स्मरति⟫ "Hän muistelee jumalia"
+⟪देवान्स्मरति⟫ "Hän muistelee jumalia"
 
 Lisää myöhemmin.
 :::

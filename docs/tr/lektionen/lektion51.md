@@ -2,7 +2,7 @@
 title: "Ders 51"
 subtitle: "⟪उपपद⟫-Bileşikler"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -165,29 +165,29 @@ Kielhorn, Grammatik S. 16ff.'de tam paradigmalara bakınız.
 ⟪सत्यवाच्⟫ 3 "doğruluk söyleyen" (⟪बहुव्रीहि⟫)
 
 ::: indent
-> Maskulin, Feminin:
+Maskulin, Feminin:
 
 :::
 ::: indent
-> Tekil:
+Tekil:
 
 :::
 ::: indent
-> Nom.Vok. ⟪सत्यवाक्⟫
+Nom.Vok. ⟪सत्यवाक्⟫
 Akk. ⟪सत्यवाचम्⟫
-> Enstr. ⟪सत्यवाचा⟫
+Enstr. ⟪सत्यवाचा⟫
 :::
-> Çoğul:
+Çoğul:
 
 ::: indent
-> Enstr. ⟪सत्यवाग्भिस्⟫
+Enstr. ⟪सत्यवाग्भिस्⟫
 Lok. ⟪सत्यवाक्षु⟫
 :::
-> Nötr
+Nötr
 
 ::: indent
-> Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
-> Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
+Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
+Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
 
 **yani**
 
@@ -202,176 +202,169 @@ Lok. ⟪सत्यवाक्षु⟫
 ⟪सत्यवाच्⟫ 3 "doğruluk söyleyen" (⟪बहुव्रीहि⟫)
 
 ::: indent
-> Maskulin, Feminin:
+Maskulin, Feminin:
 
 :::
 ::: indent
-> Tekil:
+Tekil:
 
 :::
 ::: indent
-> Nom.Vok. ⟪सत्यवाक्⟫
+Nom.Vok. ⟪सत्यवाक्⟫
 Akk. ⟪सत्यवाचम्⟫
-> Enstr. ⟪सत्यवाचा⟫
+Enstr. ⟪सत्यवाचा⟫
 :::
-> Çoğul:
+Çoğul:
 
 ::: indent
-> Enstr. ⟪सत्यवाग्भिस्⟫
+Enstr. ⟪सत्यवाग्भिस्⟫
 Lok. ⟪सत्यवाक्षु⟫
 :::
-> Nötr
+Nötr
 
 ::: indent
-> Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
-> Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
+Tekil Nom.Akk.Vok. ⟪सत्यवाक्⟫
+Çoğul Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
 :::
-> ⟪शेषभुज्⟫ 3 "yemek artıkları yiyen"
+⟪शेषभुज्⟫ 3 "yemek artıkları yiyen"
 
 ::: indent
-> Maskulin, Feminin:
+Maskulin, Feminin:
 
 :::
-> ::: indent
-> Tekil:
+::: indent
+Tekil:
 
-> ::: indent
-> Nom.Vok. ⟪शेषभुक्⟫
-> Akk. ⟪शेषभुजम्⟫
-> Çoğul:
+:::
+::: indent
+Nom.Vok. ⟪शेषभुक्⟫
+Akk. ⟪शेषभुजम्⟫
+Çoğul:
+
+:::
+::: indent
+Enstr. ⟪शेषभुग्भिस्⟫
+Lok. ⟪शेषभुक्षु⟫
+:::
+Nötr
 
 ::: indent
-> Enstr. ⟪शेषभुग्भिस्⟫
-> Lok. ⟪शेषभुक्षु⟫
+Tekil Nom.Akk.Vok. ⟪शेषभुक्⟫
+Çoğul Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
 :::
-> Nötr
+⟪परिव्राज्⟫ m. "gezgin keşiş"
 
 ::: indent
-> Tekil Nom.Akk.Vok. ⟪शेषभुक्⟫
-> Çoğul Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
-:::
-> ⟪परिव्राज्⟫ m. "gezgin keşiş"
+Maskulin, Feminin:
 
+:::
 ::: indent
-> Maskulin, Feminin:
+Tekil:
 
 :::
-> ::: indent
-> Tekil:
-
-> ::: indent
-> Nom.Vok. ⟪परिव्राट्⟫
-> Akk. ⟪परिव्राजम्⟫
-> Çoğul:
-
 ::: indent
-> Enstr. ⟪परिव्राड्भिस्⟫
-> Lok. ⟪परिव्राट्सु⟫
+Nom.Vok. ⟪परिव्राट्⟫
+Akk. ⟪परिव्राजम्⟫
+Çoğul:
+
 :::
-> ::: media
+::: indent
+Enstr. ⟪परिव्राड्भिस्⟫
+Lok. ⟪परिव्राट्सु⟫
+:::
+::: media
 ![](/images/lekt5104.webp)
-> Resim: ⟪परिव्राट् पुष्कर⟫
+Resim: ⟪परिव्राट् पुष्कर⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt5104))
-> ### 51.2.3. -h ile biten kökler
+### 51.2.3. -h ile biten kökler
 
+:::
 ::: grammar-box
-> **Ünlü ile başlayan bir ekten önce -h değişmeden kalır.**
+**Ünlü ile başlayan bir ekten önce -h değişmeden kalır.**
 
-> **Diğer eklerden önce**
+**Diğer eklerden önce**
 * **-h genellikle -ḍh ile değiştirilir**
-> * **temel kök d- ile başlıyorsa, -h yerine -gh gelir. Ayrıca bazı diğer kelimelerde de isteğe bağlı veya zorunlu olarak (Kielhorn, Grammatik §80,2'de listelenmiştir)**
+* **temel kök d- ile başlıyorsa, -h yerine -gh gelir. Ayrıca bazı diğer kelimelerde de isteğe bağlı veya zorunlu olarak (Kielhorn, Grammatik §80,2'de listelenmiştir)**
 * **(kök isminin sonunda -h, -dh ile değiştirilir)**
 
 **Bu değişikliklerden sonra kök, sanki -ḍh, -gh veya -dh ile bitermiş gibi işlemeye devam eder.**
 
 **Kielhorn'un Dilbilgisi'ndeki (Grammatik) 20. ve sonraki sayfalardaki paradigmalara bakınız.**
-::: -> :::
+:::
 Örnekler:
 
-:::
-::: indent -> ::: indent
+::: indent
 ⟪गुह्⟫ 3 "verbergend" -> ⟪गुह्⟫ 3 "gizleyen"
 
 Maskulinum, Femininum: -> Eril, Dişi:
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 Singular: -> Tekil:
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 Nom.Vok. ⟪घुट्⟫ (Grassmannsches Hauchdissimilationsgesetz: ⟪गुढ्⟫ + s) -> Yal.Çağ. ⟪घुट्⟫ (Grassmann ünsüz benzerliğini azaltma kuralı: ⟪गुढ्⟫ + s)
 Akk. ⟪गुहम्⟫ -> Bel. ⟪गुहम्⟫
-::: -> :::
+:::
 Plural: -> Çoğul:
 
-:::
-::: indent -> ::: indent
+::: indent
 Instr. ⟪घुड्भिस्⟫ -> Alet. ⟪घुड्भिस्⟫
 Lok. ⟪घुट्सु⟫ -> Bul. ⟪घुट्सु⟫
-::: -> :::
+:::
 ⟪द्रुह्⟫ "zarar veren, nefret eden" (isteğe bağlı -ḍh/-gh)
 
 Maskulinum, Femininum: -> Eril, Dişi:
 
-:::
-::: indent -> ::: indent
+::: indent
 Singular: -> Tekil:
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 Nom.Vok. ⟪ध्रुट् । ध्रुक्⟫ -> Yal.Çağ. ⟪ध्रुट् । ध्रुक्⟫
 Akk. ⟪द्रुहम्⟫ -> Bel. ⟪द्रुहम्⟫
-::: -> :::
+:::
 Plural: -> Çoğul:
 
-:::
-::: indent -> ::: indent
+::: indent
 Instr. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫ -> Alet. ⟪ध्रुड्भिस् । ध्रुग्भिस्⟫
 Lok. ⟪ध्रुट्सु । ध्रुक्षु⟫ -> Bul. ⟪ध्रुट्सु । ध्रुक्षु⟫
-::: -> :::
 :::
 ## 51.3. Sandhi von anlautendem h- -> ## 51.3. Başında h- bulunan kelimelerde Sandhi
 
-::: grammar-box -> ::: grammar-box
+::: grammar-box
 **Başında h- bulunan bir kelime öncesi, önceki pürüz sesini (konsonant) ilgili sessiz olmayan aspiratsız karşılığıyla değiştirilir ve baştaki h-, bu pürüz sesine uygun sessiz olmayan aspiratlı sese dönüşür:**
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫ -> ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-::: -> :::
 :::
 ## 51.4. Sandhi von anlautendem ch- -> ## 51.4. Başında ch- bulunan kelimelerde Sandhi
 
-::: grammar-box -> ::: grammar-box
+::: grammar-box
 **Başta ch-, kısa ünlüden sonra, ⟪मा⟫ "değil" ve ⟪आ⟫ "için/zorunda" kelimelerinden sonra cch- ile değiştirilir:**
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫ -> ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न च्छिन्दति⟫
-::: -> :::
 :::
 ## 51.5. -ch- im Wortinnern -> ## 51.5. Kelime içindeki -ch-
 
-::: grammar-box -> ::: grammar-box
+::: grammar-box
 **Kelime içinde, tüm ünlülerden sonra -ch-, -cch- ile değiştirilir:**
 
-::: -> :::
 :::
-::: indent -> ::: indent
+::: indent
 örn. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-::: -> :::
 :::
 ## 51.6. Wortliste -> ## 51.6. Kelime listesi
 
 ⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe: -> ⟪अजिन⟫ n.: Antilop derisi, özellikle siyah antilobun (Hirsch-keçi antilobi: _Antilope cervicapra_ L.) derisi. Orijinal olarak Hindistan yarımadasının tamamında, Pencap ve Sind'den Bengal'e ve Nepal'den Kanyakumari'ye (Comorin Burnu) (Tamil: கன்னியாகுமரி) yaygındı. Bakınız:
 
-> **Walker'ın Dünya Memelileri** / Ronald M. Nowak. -- 6. baskı. -- Baltimore \[diğer yerler\] : Johns Hopkins Univ. Yayınları, 1999. -- 2 cilt. -- ISBN 0-8018-5789-9. -- Cilt 2. -- S. 1193f.
+::: note-box
+**Walker'ın Dünya Memelileri** / Ronald M. Nowak. -- 6. baskı. -- Baltimore \[diğer yerler\] : Johns Hopkins Univ. Yayınları, 1999. -- 2 cilt. -- ISBN 0-8018-5789-9. -- Cilt 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

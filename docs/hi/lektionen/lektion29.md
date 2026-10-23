@@ -2,7 +2,7 @@
 title: "पाठ 29"
 subtitle: "कारकप्रयोग में परस्मैपद (⟪⟪परस्मैपद⟫⟫) और आत्मनेपद (⟪⟪आत्मनेपद⟫⟫) का प्रयोग"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -3,8 +3,8 @@ title: "पाठ 2"
 subtitle: "नामवाक्य और विभक्ति के मूल सिद्धांत"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **आरेख: विशेषण-विषय**
+:::
 
+::: indent
 उदा. devo viṣṇuḥ = ⟪⟪देवो⟫⟫ ⟪⟪विष्णुः⟫⟫ = "विष्णु एक देवता है।"
 :::
 क्रियात्मक उपसर्ग ("है", "हैं", "मैं हूँ", "तुम हो", "आप हैं") की आवश्यकता नहीं है, लेकिन कभी-कभी यह दिखाई दे सकता है।
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 देखें भी अवलोकन:
 
-> **पेयर, अलोइस \<1944 - \>:** अंत्य -s की संधि। -- (संस्कृत सामग्री)। -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**पेयर, अलोइस \<1944 - \>:** अंत्य -s की संधि। -- (संस्कृत सामग्री)। -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 अंत्य **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** p. -- ⟪⟪शूद्र⟫⟫ : शूद्र (सेवा वर्ग)।
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**चार वर्ण (varṇa)**
+
 शास्त्रीय सिद्धांत के अनुसार (उदाहरणार्थ Manusmṛti I, 88-91) कर्तव्य वितरित हैं:
 
 - **ब्राह्मणों के**

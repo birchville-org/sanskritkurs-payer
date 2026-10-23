@@ -2,7 +2,7 @@
 title: "Lektion 12"
 subtitle: "Particippet av det perfekta passivet (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ In this case, the PPP agrees with the object in number, case, and gender.
 An auxiliary verb ("to be") is not necessary.
 
 Examples:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(By the saint, heaven was attained) = The saint has attained heaven."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(By the Brahmin, the goddess was worshipped with a sacrifice) = The Brahmin has worshipped the goddess with a sacrifice."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(By the saint, heaven was attained) = The saint has attained heaven."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(By the Brahmin, the goddess was worshipped with a sacrifice) = The Brahmin has worshipped the goddess with a sacrifice."
 
 :::
 
@@ -47,7 +47,7 @@ Examples:
 In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Participle "Passive" has an active meaning with intransitive verbs (verbs without a direct object) and verbs of motion.
 
 Example:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "The Kṣatriya woman has gone into the city."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "The Kṣatriya woman has gone into the city."
 
 :::
 
@@ -58,7 +58,7 @@ Example:
 **Agent (kartṛ) i instrumentalis (tṛtīyā) -- PPP i nominativ singular neutrum**
 
 Exempel:
-> **kṣatriyeṇa (nagaraṃ gatam)** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = ”(Av kṣatriyan gick (till staden)) = Kṣatriyan har gått (till staden).”
+**kṣatriyeṇa (nagaraṃ gatam)** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = ”(Av kṣatriyan gick (till staden)) = Kṣatriyan har gått (till staden).”
 
 Konstruktionen enligt Schema II är mycket mer sällsynt än konstruktionen enligt Schema I.
 

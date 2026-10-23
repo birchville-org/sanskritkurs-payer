@@ -2,7 +2,7 @@
 title: "पाठ 17"
 subtitle: "दूसरा वर्तमानकाल श्रेणी (⟪⟪अदादि⟫⟫ = ⟪⟪अद्⟫⟫ आदि)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

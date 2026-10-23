@@ -88,7 +88,7 @@ Ví dụ:
 
 ## 32.4. Ví dụ về cách hình thành thì Quá khứ chưa hoàn thành
 
-::: important
+::: warning-box
 
 **Để minh họa cách hình thành các dạng thức, ở đây cũng sẽ tạo ra các dạng thức Ātmanepada cho các gốc động từ Parasmaipada! Các dạng thức nhân tạo này được đặt trong dấu ngoặc nhọn \< \>.**
 
@@ -668,7 +668,7 @@ Dịch và xác định các dạng từ sau:
 
 ## 32.9. Bài tập dịch thuật
 
-::: compact
+::: verse-box
 
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br

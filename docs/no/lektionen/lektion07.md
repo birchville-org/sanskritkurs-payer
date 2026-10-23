@@ -2,7 +2,7 @@
 title: "Leksjon 7"
 subtitle: "The verbal sentence with a direct object"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Leksjon 7
 
 
-::: center
+::: verse-box
 **Weekly Verse**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ God conquers, not the anti-god.
 ::: grammar-box
 **Schema:**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – direct object (karman n. = ⟪कर्मन्⟫) – verb**
+:::
 
+::: indent
 e.g.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma eats (devours) a fruit."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "The Brahmin worships a god with an offering (for someone else)."

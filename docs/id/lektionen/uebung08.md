@@ -2,7 +2,7 @@
 title: "Latihan 8"
 uebung_id: 8
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

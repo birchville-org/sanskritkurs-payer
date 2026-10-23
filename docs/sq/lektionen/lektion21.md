@@ -2,7 +2,7 @@
 title: "Mësimi 21"
 subtitle: "Steme të tjera prezensi me -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

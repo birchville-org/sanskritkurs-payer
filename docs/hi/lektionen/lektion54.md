@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,13 +48,13 @@ status: stable
 स्कीमा I:
 
 :::
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — / × ◡ — ***— ◡ — —***
 :::
 स्कीमा II:
 
-::: metrik-schema
+::: verse-box
 मेट्रिक-स्कीमा
 × — × — × / × ◡ ***— ◡ — —***
 :::
@@ -62,13 +62,13 @@ metrik-schema
 
 ⟪जगती⟫ मूल रूप: ⟪त्रिष्टुभ्⟫ की तरह, लेकिन 12-वर्णीय। प्रत्येक पाद के अंतिम 5 वर्ण निम्नलिखित मात्राएँ दर्शाते हैं:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 ***— ◡ — ◡ —***
 :::
 इसके अलावा, जिसका प्रारंभिक अंग पाँच-वर्ण वाला है, उसकी प्रसिद्ध अतिरिक्त ⟪त्रिष्टुभ्⟫ है, जो चार-वर्ण वाले प्रारंभिक अंग वाले ⟪त्रिष्टुभ्⟫ की तरह आगे बढ़ती है:
 
-::: metrik-schema
+::: verse-box
 मेट्रिक-स्कीमा
 — × — × / × ◡ — ***— ◡ — —***
 :::
@@ -76,13 +76,13 @@ metrik-schema
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 ***—*** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 ***◡*** — ◡ — , — ◡ ◡ — ◡ — —
 :::

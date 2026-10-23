@@ -2546,7 +2546,7 @@ dependencies = [
 
 [[package]]
 name = "sanskritkurs-payer"
-version = "1.8.13"
+version = "1.8.14"
 dependencies = [
  "tauri",
  "tauri-build",

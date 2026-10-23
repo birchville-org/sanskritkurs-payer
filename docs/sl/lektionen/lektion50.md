@@ -2,7 +2,7 @@
 title: "Urok 50"
 subtitle: "Oblikovanje imen: pravilno stopnjevanje"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

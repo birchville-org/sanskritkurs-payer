@@ -2,7 +2,7 @@
 title: "Leksjon 29"
 subtitle: "Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

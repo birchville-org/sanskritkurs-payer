@@ -2,7 +2,7 @@
 title: "पाठ 20"
 subtitle: "स्वामिकर्मधारय समास = ⟪⟪बहुव्रीहि⟫⟫ पुं."
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

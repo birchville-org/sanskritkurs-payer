@@ -1,3 +1,4 @@
+
 # Rašto pratimas 8
 
 Balsių ženklai žodžio pradžiai, jei žodis nėra rašomas sujungtas su ankstesniu žodžiu:

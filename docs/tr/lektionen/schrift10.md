@@ -1,3 +1,4 @@
+
 # Yazma Alıştırması 10
 
 ### Ünsüz bağlarının oluşturulmasına ilişkin ikinci kural
@@ -8,13 +9,17 @@ Birleştirilecek ünsüzlerden ilki dikey bir çizgiyle bitmiyorsa, sonraki üns
 
 İstisnalar: ⟪म्⟫ veya ⟪य्⟫ bağın ikinci bileşeni ise, bunlar ilk karakterin arkasına kısaltılmış olarak yazılır:
 
-> ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+::: indent
+⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
+:::
 
 Not:
 
-> ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
-> 
-> ⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+::: indent
+⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
+
+⟪क्ष⟫ kṣa, ⟪ज्ञ⟫ jña, ⟪ण्ण⟫ ṇṇa, ⟪ह्ण⟫ hṇa
+:::
 
 ![](/images/schrift020.jpg)
 

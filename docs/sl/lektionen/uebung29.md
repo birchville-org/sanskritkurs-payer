@@ -2,7 +2,7 @@
 title: "[Vaja 29]"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Nevednost pomeni, da nestalno, nečisto, boleče in neabsolutno obravnavamo kot 
 
 Pred pretrdim vladanjem (daṇḍa) morajo bitja drhteti. Popustljivo vladanje je prezirano. Pravilno uravnoteženo vladanje je spoštovano. Pametno vodjeno vladanje pri podložnikih spodbuja pravico, korist in užitke. Slabo vodjeno vladanje zaradi strasti ali sovraštva oziroma prezira razdraži celo starce in askete, ki so se umaknili v gozd, kaj šele očete družin. Neizvajano vladanje povzroči vedenje po zakonu rib (mātsyanayāya). Če namreč ni nikogar, ki bi ohranjal vladanje, močnejši požre šibkejšega. Če je šibki pod zaščito nosilca oblasti, uspeva.
 
-> Svet s svojimi štirimi stanovi in življenjskimi stopnjami  
-> Varuje kralj z vladanjem:  
-> Vesel nad delovanjem po lastnem pravu in običaju  
-> Se giblje na svojih poteh.
+::: indent
+Svet s svojimi štirimi stanovi in življenjskimi stopnjami
+Varuje kralj z vladanjem:
+Vesel nad delovanjem po lastnem pravu in običaju
+Se giblje na svojih poteh.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

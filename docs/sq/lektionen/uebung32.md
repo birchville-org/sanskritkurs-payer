@@ -2,7 +2,7 @@
 title: "Ushtrimi 32"
 uebung_id: 32
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -120,7 +120,9 @@ Fig.: ⟪सम्पन्नरूपा⟫
 
 ## Përcaktimi i formave fjalësh
 
-> Përcaktoni dhe përktheni fjalët e mëposhtme:
+::: indent
+Përcaktoni dhe përktheni fjalët e mëposhtme:
+:::
 
 ::: grammar-box
 | Forma fjalë | Përcaktim | Kuptimi |

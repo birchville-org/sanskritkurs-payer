@@ -71,7 +71,7 @@ Contoh:
 :::
 ## 32.4. Contoh-contoh pembentukan imperfek
 
-::: important
+::: warning-box
 **Untuk mendemonstrasikan pembentukan bentuk-bentuk ini, bentuk-bentuk Ātmanepada juga dibentuk di sini dari akar-akar Parasmaipada! Bentuk-bentuk buatan ini berada di antara \< \>.**
 :::
 ### 32.4.1. Kelas-kelas present tematik
@@ -604,7 +604,7 @@ Terjemahkan dan tentukan bentuk kata berikut:
 
 ## 32.9. Latihan Terjemahan
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

@@ -88,7 +88,7 @@ Examples:
 
 ## 32.4. Examples of Imperfect Formation
 
-::: important
+::: warning-box
 
 **To demonstrate the formation of forms, Ātmanepada forms are also created here for Parasmaipada roots! These artificial forms stand between \< \>.**
 
@@ -661,7 +661,7 @@ Translate and analyze the following word forms:
 
 ## 32.9. Översättningsövning
 
-::: compact
+::: verse-box
 
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br

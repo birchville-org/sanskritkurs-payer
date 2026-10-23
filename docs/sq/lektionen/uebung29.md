@@ -2,7 +2,7 @@
 title: "Ushtrimi 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Ignoranca do të thotë se një e papërmbajtur, e papastër, dhimbjeprurëse dh
 
 Para një sundimi shumë të ashpër (daṇḍa), qeniet duhet të dridhen. Një sundim i dobët dhe i shtrënguar poshtrohet. Një sundim i drejtë nderohet. Një sundim i udhëhequr me mençuri nxit te nënshtasit drejtësinë, fitimin dhe kënaqësinë. Një sundim i keq të udhëhequr nga dëshira dhe urrejtje ose poshtërim e zemëron edhe të moshuarit që kanë ikur në pyll dhe aventurierët, aq më tepse familjarët. Sundimi i papërdorur shkakton sjellje si peshqit (mātsyanayāya). Nëse nuk ka askënd që e mbajë sundimin, më i fortët e hëngër më të dobëtin. Nëse i dobëti mbrohet nga pronari i sundimit, ai lulëzon.
 
-> Bota me katër vargut dhe fazat e jetës  
-> Mbrohet nga mbreti përmes sundimit:  
-> Gëzohet për veprimtarinë sipas të drejtës dhe zakoneve të veta  
-> Lëviz në rrugët e veta.
+::: indent
+Bota me katër vargut dhe fazat e jetës
+Mbrohet nga mbreti përmes sundimit:
+Gëzohet për veprimtarinë sipas të drejtës dhe zakoneve të veta
+Lëviz në rrugët e veta.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

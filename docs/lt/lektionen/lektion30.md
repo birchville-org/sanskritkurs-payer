@@ -2,7 +2,7 @@
 title: "Pamoka 30"
 subtitle: '9. Esamasis laiko klasė (⟪क्र्यादि⟫ = \"⟪क्री⟫ ir t.t.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

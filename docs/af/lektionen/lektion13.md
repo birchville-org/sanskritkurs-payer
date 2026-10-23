@@ -2,7 +2,7 @@
 title: "Lesing 13"
 subtitle: "PPP op -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -195,17 +195,29 @@ Leer die volgende woorde:
 - **eva** ⟪एव⟫ : beklemtoon die vorige woord
 - **asura** m. ⟪असुर⟫ : demoon
 
-> **ASURA.** 'Geestelik, goddelik.'
+::: indent
+**ASURA.** 'Geestelik, goddelik.'
+:::
 \&gt;
-> In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriete. In die sin van 'god' is dit toegepas op verskeie van die hoofgode, soos Indra, Agni en Varuṇa. Dit het daarna 'n heeltemal teenoorgestelde betekenis aangeneem en het, soos nou, 'n demoon of vyand van die gode gaan beteken.
+::: indent
+In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriete. In die sin van 'god' is dit toegepas op verskeie van die hoofgode, soos Indra, Agni en Varuṇa. Dit het daarna 'n heeltemal teenoorgestelde betekenis aangeneem en het, soos nou, 'n demoon of vyand van die gode gaan beteken.
+:::
 \&gt;
-> Die woord kom met hierdie betekenis voor in die latere gedeeltes van die Rigveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brahmana's heg dieselfde betekenis daaraan, en neem baie stryde tussen die Asura's en die gode op. Volgens die Taittirīya Brāhmaṇa het die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my, die Asuras, geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling en verklaar dat "hy Asuras geskep het uit sy onderste asem." Die Taittirīya Āraṇyaka stel dit dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat gemors is, ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
+::: indent
+Die woord kom met hierdie betekenis voor in die latere gedeeltes van die Rigveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brahmana's heg dieselfde betekenis daaraan, en neem baie stryde tussen die Asura's en die gode op. Volgens die Taittirīya Brāhmaṇa het die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my, die Asuras, geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling en verklaar dat "hy Asuras geskep het uit sy onderste asem." Die Taittirīya Āraṇyaka stel dit dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat gemors is, ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
+:::
 \&gt;
-> Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) voortgebring. Die weergawe van die Vāyu Purāṇa is: "Asuras is eers as seuns uit sy (Prajāpati se) lies voortgebring. *Asu* word deur Brāhmaṇa verklaar as asem. Daaruit is hierdie wesens voortgebring; daarom is hulle Asuras." Die woord word al lank gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander nakomelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
+::: indent
+Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) voortgebring. Die weergawe van die Vāyu Purāṇa is: "Asuras is eers as seuns uit sy (Prajāpati se) lies voortgebring. *Asu* word deur Brāhmaṇa verklaar as asem. Daaruit is hierdie wesens voortgebring; daarom is hulle Asuras." Die woord word al lank gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander nakomelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
+:::
 \&gt;
-> In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' nie, maar die aanvanklike *a* word as die negatiewe voorvoegsel beskou, en *asura* beteken 'nie 'n god nie;' hieruit het, volgens sommige, die woord *sura* ontstaan, wat algemeen gebruik word vir ''n god.'"
+::: indent
+In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' nie, maar die aanvanklike *a* word as die negatiewe voorvoegsel beskou, en *asura* beteken 'nie 'n god nie;' hieruit het, volgens sommige, die woord *sura* ontstaan, wat algemeen gebruik word vir ''n god.'"
+:::
 \&gt;
-> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+[Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 

@@ -2,7 +2,7 @@
 title: "பயிற்சி 27"
 uebung_id: 27
 category: "பயிற்சி"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

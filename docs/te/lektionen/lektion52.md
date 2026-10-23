@@ -2,7 +2,7 @@
 title: "పాఠం 52"
 subtitle: "i మరియు -u తో ముగిసే వాక్యభాగాల యొక్క నపుంసకలింగం"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

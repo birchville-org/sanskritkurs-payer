@@ -2,7 +2,7 @@
 title: "ਪਾਠ 16"
 subtitle: "ਅੰਤਿਮ ਵਰਣਾਂ ਦੇ ਸੰਧੀ ਬਾਰੇ"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

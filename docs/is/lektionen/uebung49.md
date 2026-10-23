@@ -2,7 +2,7 @@
 title: "Æfing 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Questions of King ⟪शूद्रक⟫ from ⟪विदिशा⟫ to the 
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> The King spoke: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you your name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? Where did you acquire your arts? Can you remember previous births or fulfill wishes? Or do you inhabit a hiding place by wearing the garment of a bird? Or where did you dwell earlier? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you get here?"
-\>
-> Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity and great respect, thought for a moment and then answered with full reverence: "King, this is a long story. If it interests you, lend me your ear!"
+::: indent
+The King spoke: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you your name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? Where did you acquire your arts? Can you remember previous births or fulfill wishes? Or do you inhabit a hiding place by wearing the garment of a bird? Or where did you dwell earlier? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you get here?"
+
+Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity and great respect, thought for a moment and then answered with full reverence: "King, this is a long story. If it interests you, lend me your ear!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

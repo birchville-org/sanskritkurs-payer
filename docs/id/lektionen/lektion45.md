@@ -2,7 +2,7 @@
 title: "Pelajaran 45"
 subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) dari akar non-atmatik yang tidak berakhiran vokal (lanjutan)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

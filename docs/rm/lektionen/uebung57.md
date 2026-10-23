@@ -2,7 +2,7 @@
 title: "Esercitaziun 57"
 uebung_id: 57
 category: "Esercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

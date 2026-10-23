@@ -2,7 +2,7 @@
 title: "Bài 14"
 subtitle: "Cách diễn đạt mối quan hệ của những gì được danh từ chỉ định: cách sở hữu (ṣaṣṭhī f. = ⟪षष्टी⟫ = cách kết thúc thứ sáu)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Ví dụ:
 ::: grammar-box
 Trật tự từ bình thường là:
 
-> **Từ xác định ở Sở cách — Danh từ được xác định thêm ở một cách kết khác**
+**Từ xác định ở Sở cách — Danh từ được xác định thêm ở một cách kết khác**
 :::
 **Sở cách và PPP:**
 
@@ -37,9 +37,9 @@ Với các PPP, Sở cách có thể thay thế cho Công cụ cách (tṛtīyā
 
 Theo Pāṇini 2.3.67, khi PPP có nghĩa hiện tại (xem ở trên), Sở cách được sử dụng; khi PPP có nghĩa quá khứ, Công cụ cách được sử dụng:
 
-> ⟪रामस्येष्टं फलम्⟫ "Quả trái mà Rāma mong muốn = Quả trái mà Rāma hiện đang mong ước"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Quả trái mà Rāma đã mong ước"
+⟪रामस्येष्टं फलम्⟫ "Quả trái mà Rāma mong muốn = Quả trái mà Rāma hiện đang mong ước"
+
+⟪रामेणेष्टं फलम्⟫ "Quả trái mà Rāma đã mong ước"
 
 Dĩ nhiên, đối với một PPP neutrum số ít được sử dụng như một danh từ trừu tượng (verbal abstract) — tức là dưới dạng danh từ — thì cách sở hữu (genitive) được sử dụng.
 :::
@@ -56,7 +56,7 @@ Sau khi kết thúc bằng phụ âm, các đuôi sở hữu thông thường l�
 * Số nhiều: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Gốc danh từ | Gốc yếu | Sở hữu số ít | Sở hữu số nhiều |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Sau khi kết thúc bằng phụ âm, các đuôi sở hữu thông thường l�
 
 Sở hữu số nhiều của các gốc kết thúc bằng nguyên âm được hình thành như sau:
 
-> **-Nguyên âm dài kết thúc của gốc + -nām**
+**-Nguyên âm dài kết thúc của gốc + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Gốc danh từ | Sở hữu số nhiều |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Sở hữu số nhiều của các gốc kết thúc bằng nguyên âm được
 Số ít cách sở hữu của các gốc từ kết thúc bằng nguyên âm được hình thành một cách bất quy tắc và cần phải học thuộc lòng.
 
 :::
-::: center
+::: verse-box
 
 | Gốc từ | Số ít cách sở hữu |
 | :--- | :br :--- |
@@ -112,7 +112,7 @@ Số ít cách sở hữu của các gốc từ kết thúc bằng nguyên âm �
 :::
 **Đại từ nghi vấn và đại từ chỉ định:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :br :--- | :br kim | :br tad | :br etad | :br idam |
@@ -124,7 +124,7 @@ Số ít cách sở hữu của các gốc từ kết thúc bằng nguyên âm �
 :::
 **Sự giống nhau về hình thức:**
 
-::: important
+::: warning-box
 
 Đối với tất cả các gốc danh từ, ngoại trừ giống đực và giống trung kết thúc bằng -a cùng với các đại từ, hình thức của số ít cách sở hữu giống hệt với hình thức của số ít cách xa (pañcamī "hậu tố cách thứ năm")!
 
@@ -136,11 +136,11 @@ Lưu ý rằng ở các gốc từ kết thúc bằng phụ âm, cách Cách (Ab
 ::: grammar-box
 Trái với quy tắc cơ bản trên, Sở hữu cách được sử dụng để biểu thị tân ngữ của một số động từ, ví dụ như các động từ chỉ sự nhớ lại:
 
-> ⟪देवानां स्मरति⟫ "Ngài nhớ lại các vị thần"
+⟪देवानां स्मरति⟫ "Ngài nhớ lại các vị thần"
 
 Tuy nhiên, với tất cả những động từ này, tân ngữ cũng có thể ở dạng Tân ngữ (Accusative):
 
-> ⟪देवान्स्मरति⟫ "Ngài nhớ lại các vị thần"
+⟪देवान्स्मरति⟫ "Ngài nhớ lại các vị thần"
 
 Chi tiết hơn sẽ được trình bày sau.
 :::

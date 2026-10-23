@@ -2,7 +2,7 @@
 title: "Esercizio 38"
 uebung_id: 38
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -55,11 +55,11 @@ I buoni re donano agli uomini l'assenza di timore.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Se i re non custodiscono la giustizia e l'usanza, gli uomini sono pieni di timore.
-:::: media
+:::
+::: media
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung063))
-::::
 :::
 ---
 

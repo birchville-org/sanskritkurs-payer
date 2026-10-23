@@ -2,7 +2,7 @@
 title: Lektion 46
 subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -373,7 +373,9 @@ Absol. -⟪ग्राह्य⟫
 :::
 περὶ ⟪राहु⟫ καὶ ⟪केतु⟫ βλέπε:
 
-> **Payer, Alois (1944–):** Dharmashastra : εἰσαγωγή καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὰς μετάβασης (samskara). -- Παράρτημα C: Rahu καὶ Ketu, οἄορατοι πλανήται . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : εἰσαγωγή καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὰς μετάβασης (samskara). -- Παράρτημα C: Rahu καὶ Ketu, οἄορατοι πλανήται . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Ἀπ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/grc/licenses#lekt4602)

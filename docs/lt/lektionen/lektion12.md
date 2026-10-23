@@ -2,7 +2,7 @@
 title: "Pamoka 12"
 subtitle: "Perfekto dalyvio kamandainis (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ Vienas būdų sudaryti praeities laiko būtojo kilmės sakinius yra konstrukcija
 Pagalbinis veiksmažodis („būti“) nėra būtinas.
 
 Pavyzdžiai:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nuo šventojo buvo pasiektas dangus) = Šventasis pasiekė dangų.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Nuo brahmano buvo garbinta deivė aukojant) = Brahmanas garbino deivę aukodamas.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Nuo šventojo buvo pasiektas dangus) = Šventasis pasiekė dangų.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Nuo brahmano buvo garbinta deivė aukojant) = Brahmanas garbino deivę aukodamas.“
 
 :::
 
@@ -47,7 +47,7 @@ Pavyzdžiai:
 Šiuo atveju PPP sutampa su veikėju skaičiumi, linksniu ir giminė. „Būtojo kilmės“ dalyvis netiesiniams veiksmažodžiams (veiksmažodžiams be tiesioginio objekto) ir judesio veiksmažodžiams turi aktyvią reikšmę.
 
 Pavyzdys:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijos motis nuėjo į miestą.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Kṣatrijos motis nuėjo į miestą.“
 
 :::
 
@@ -58,7 +58,7 @@ Pavyzdys:
 **Agentas (kartṛ) įnagininku (tṛtīyā) -- PPP nominatyve vienaskaitos vidurinio lyties**
 
 Pavyzdys:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Nuo kšatrijos buvo (į miestą) eita) = Kšatrija yra (į miestą) ėjęs.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Nuo kšatrijos buvo (į miestą) eita) = Kšatrija yra (į miestą) ėjęs.“
 
 II schema konstrukcija yra daug rečiau pasitaikanti nei I schema konstrukcija.
 

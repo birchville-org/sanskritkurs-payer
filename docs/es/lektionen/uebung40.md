@@ -2,7 +2,7 @@
 title: "Ejercicio 40"
 uebung_id: 40
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -100,11 +100,11 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung065))
-::::
 :::
 ---
 
@@ -149,9 +149,9 @@ Determine y traduzca las siguientes formas verbales:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | yo vi |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | él dijo |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | él golpeó |
-:::: media
+:::
+::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung066))
-::::
 :::

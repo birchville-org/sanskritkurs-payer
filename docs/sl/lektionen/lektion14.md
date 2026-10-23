@@ -2,7 +2,7 @@
 title: "Učenje 14"
 subtitle: "Izraz za razmerje med imeničnimi pojmi: rodilnik (ṣaṣṭhī f. = ⟪षष्टी⟫ = šesti sklon)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,7 +32,7 @@ Primeri:
 
 Običajna vrstoslovja besed je:
 
-> **Določilna beseda v rodilniku — Natančneje določen samostojnik v drugem sklonu**
+**Določilna beseda v rodilniku — Natančneje določen samostojnik v drugem sklonu**
 
 :::
 
@@ -44,9 +44,9 @@ Pri PPP-ih lahko rodilnik namesto instrumentalisa (tṛtīyā) stoji za agenta (
 
 Po Pāṇiniju 2.3.67 stoji pri PPP-ju rodilnik, če ima PPP prisotni pomen (glej zgoraj), instrumental pa, če ima PPP pretekli pomen:
 
-> ⟪रामस्येष्टं फलम्⟫ "Rāmova želena sadje = Sadje, ki si ga Rāma trenutno želi"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Sadje, ki si ga je Rāma želel"
+⟪रामस्येष्टं फलम्⟫ "Rāmova želena sadje = Sadje, ki si ga Rāma trenutno želi"
+
+⟪रामेणेष्टं फलम्⟫ "Sadje, ki si ga je Rāma želel"
 
 Seveda je pri trpnem deležniku srednjega spola v ednini, ki se uporablja kot glagolski abstrakt – torej kot samostalnik – v rodilniku.
 
@@ -66,7 +66,7 @@ Po soglasniku so pravilne rodilniške končnice:
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
@@ -83,11 +83,11 @@ Po soglasniku so pravilne rodilniške končnice:
 
 Rodilnik množine samoglasniških korenov se tvori takole:
 
-> **-dolg končni samoglasnik korena + -nām**
+**-dolg končni samoglasnik korena + -nām**
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalstamm | Genetiv Plural |
 | :--- | :--- |
@@ -110,7 +110,7 @@ Genitiv enostavka samoglasniško končanih korenin se tvori nepravilno in ga je 
 
 :::
 
-::: center
+::: verse-box
 
 | Korenina | Genitiv enostavka |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Genitiv enostavka samoglasniško končanih korenin se tvori nepravilno in ga je 
 
 **Vprašalni in kazalni zaimki:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ Genitiv enostavka samoglasniško končanih korenin se tvori nepravilno in ga je 
 
 **Oblikovna enakost:**
 
-::: important
+::: warning-box
 
 Pri vseh nominalnih koreninah z izjemo moškega in srednjega roda na -a ter zaimkov je oblika genitiva enostavka identična obliki ablativa (pañcamī "peti sklon") enostavka!
 
@@ -154,11 +154,11 @@ Bodite pozorni, da se pri konsonantsko zaključenih korenih ablativ in genitiv s
 
 Nasproti zgoraj navedenemu osnovnemu pravilu se genitiv uporablja za izražanje objekta nekaterih glagolov, na primer pri glagolih spominjanja:
 
-> ⟪देवानां स्मरति⟫ "Spominja se bogov"
+⟪देवानां स्मरति⟫ "Spominja se bogov"
 
 Pri vseh teh glagolih pa je objekt lahko tudi v akuzativu:
 
-> ⟪देवान्स्मरति⟫ "Spominja se bogov"
+⟪देवान्स्मरति⟫ "Spominja se bogov"
 
 Nadaljnje kasneje.
 

@@ -2,7 +2,7 @@
 title: "Učenje 17"
 subtitle: "Druga klasa prezenta (⟪अदादि⟫ = ⟪अद्⟫ itd.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "పాఠం 57"
 subtitle: "ఆయిస్ట్ 4: s-ఆయిస్ట్"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -99,7 +99,9 @@ dhvam కు వర్తించే నియమం:
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
-> పరాదిగణాలు:
+::: indent
+పరాదిగణాలు:
+:::
 
 ⟪नी⟫ 1U "నడిపించు"
 

@@ -2,7 +2,7 @@
 title: "الدرس 26"
 subtitle: "قانون التمدد القحفي لـ -s- في وسط الكلمة"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

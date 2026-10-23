@@ -2,7 +2,7 @@
 title: "Exercițiul 33"
 uebung_id: 33
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,9 +110,9 @@ Cele limitate mental fac meritoriu și se abțin de la rău, deoarece se tem de 
 ![](/images/uebung055.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung056))
-::::
 :::

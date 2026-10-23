@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordo ministerialis).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Quattuor ordines (varṇa)**
+
 Secundum doctrinam classicam (exempli gratia Manusmṛti I, 88-91) officia ita distribuuntur:
 
 **Brāhmanorum**
@@ -463,8 +465,6 @@ ad **yaj** 1 U:
 ::: note-box
 In India verbo vero vim magicam attribuebant, immo totum ordinem mundi per verbum verum conservatur et creatur. De hac imagine momenti fundamentalis vide opus principale:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento edidit Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : interrogare (aliquem: Acc.; de aliqua re: Acc.)
 **saha** ⟪सह⟫ : simul cum, communiter cum (etiam in "pugnare cum" etc.) (Postpositio cum Instrumentali)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento edidit Ludwig Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tomus 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : interrogare (aliquem: Acc.; de aliqua re: Acc.)
 **saha** ⟪सह⟫ : simul cum, communiter cum (etiam in "pugnare cum" etc.) (Postpositio cum Instrumentali)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. e hereditate editum a Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Tomus 2: Varuna et Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Hae verba discite:
 **eva** ⟪एव⟫ : verbum praecedens confirmat
 **asura** m. ⟪असुर⟫ : daemon
 
-> **ASURA.** 'Spiritualis, divinus.'
->
-> In antiquissimis Ṛgvedae partibus hoc nomen pro supremo spiritu adhibetur, et idem est ac Ahura Zoroastrianorum. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni, et Varuṇa. Postea omnino contrarium sensum acquisivit, et daemonem vel hostem deorum significare coepit.
->
-> Hoc verbo hoc sensu in posterioribus Ṛgvedae partibus, praesertim in libro ultimo, etiam in Atharvaveda invenitur. Brāhmaṇae eundem sensum ei adtribuunt, et multas contentiones inter Asuras et deos referunt. Secundum Taittirīya Brāhmaṇam, spiritus *(asu)* Prajāpatis vivificatus est, et "illo spiritu me Asuras creavit." In alia parte eiusdem operis dicitur Prajāpatem "concipere. Asuras ex abdomine suo creavit." Śatapatha Brāhmaṇa priori sententiae consentit, et statuit "Asuras ex inferiore spiritu suo creavit." Taittirīya Āraṇyaka repraesentat Prajāpatem deos, homines, patres, Gandharvas, et Apsarasas ex aqua creavisse, et Asuras, Rakṣasas, et piśācas ex guttis quae effusae sunt ortas esse. Manu's dictum est eos a Prajāpatibus creatos fuisse.
->
-> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpatī) procreati sunt. Narratio Vāyu Purāṇae est: "Asurae primum ut filii ex lumbis eius (Prajāpatī) procreati sunt. *Asu* a Brāhmaṇa spiritum significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae vocantur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae filios includens, sed Rakṣasas a Pulastyā descendentes non includens.
->
-> In hoc sensu alia derivatio pro eo inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus;' unde, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
->
-> [Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritualis, divinus.'
+
+In antiquissimis Ṛgvedae partibus hoc nomen pro supremo spiritu adhibetur, et idem est ac Ahura Zoroastrianorum. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni, et Varuṇa. Postea omnino contrarium sensum acquisivit, et daemonem vel hostem deorum significare coepit.
+
+Hoc verbo hoc sensu in posterioribus Ṛgvedae partibus, praesertim in libro ultimo, etiam in Atharvaveda invenitur. Brāhmaṇae eundem sensum ei adtribuunt, et multas contentiones inter Asuras et deos referunt. Secundum Taittirīya Brāhmaṇam, spiritus *(asu)* Prajāpatis vivificatus est, et "illo spiritu me Asuras creavit." In alia parte eiusdem operis dicitur Prajāpatem "concipere. Asuras ex abdomine suo creavit." Śatapatha Brāhmaṇa priori sententiae consentit, et statuit "Asuras ex inferiore spiritu suo creavit." Taittirīya Āraṇyaka repraesentat Prajāpatem deos, homines, patres, Gandharvas, et Apsarasas ex aqua creavisse, et Asuras, Rakṣasas, et piśācas ex guttis quae effusae sunt ortas esse. Manu's dictum est eos a Prajāpatibus creatos fuisse.
+
+Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpatī) procreati sunt. Narratio Vāyu Purāṇae est: "Asurae primum ut filii ex lumbis eius (Prajāpatī) procreati sunt. *Asu* a Brāhmaṇa spiritum significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae vocantur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae filios includens, sed Rakṣasas a Pulastyā descendentes non includens.
+
+In hoc sensu alia derivatio pro eo inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus;' unde, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
+
+[Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3789,7 +3791,9 @@ ex quo:
 :::
 Ad ⟪राहु⟫ et ⟪केतु⟫ vide:
 
-> **Payer, Alois (1944–):** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, planetae errantes invisibiles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, planetae errantes invisibiles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4405,7 +4409,9 @@ in ceteris temporibus non adhibetur
 
 ⟪अजिन⟫ n.: pellis antilopina, praesertim pellis antilopae nigrae (antilope cervina : _Antilope cervicapra_ L. ). Primitus per totum subcontinentem Indicum occurrebat, a Punjab et Sind usque ad Bengalam et a Nepala usque ad Kanyakumari (Promunturium Comorinum) (Tamil: கன்னியாகுமரி) Vide:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[et alibi\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- vol. 2. -- p. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[et alibi\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- vol. 2. -- p. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

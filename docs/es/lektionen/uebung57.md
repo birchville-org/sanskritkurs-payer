@@ -2,7 +2,7 @@
 title: "Ejercicio 57"
 uebung_id: 57
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -40,11 +40,11 @@ Traduzca y determine las siguientes formas y forme las correspondientes formas d
 | ⟪२३⟫. | **⟪निन्य⟫** | *:sig[⟪नी⟫]* 1U: 2. Pl. Perf. P. (vosotros habéis guiado) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *:sig[⟪कृष्⟫]* 1P: 3. Pl. Ind. Pres. P. (ellos se mueven) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *:sig[⟪प्रच्छ्⟫]* 6P: 3. Pl. Impf. P. Caus. (ellos dejaron preguntar) | **⟪अपप्रच्छन्⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung090))
-::::
 :::
 ---
 
@@ -112,9 +112,9 @@ Determine y traduzca las siguientes formas:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-:sig[⟪दा⟫]* 3Ā: 1. Sg. s-Aor. Ā. (tomé) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *:sig[⟪पाणि⟫]* m.: Nom. Acus. Voc. Du. (ambas manos) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *:sig[⟪स्पृश्⟫]* 6P: 1. Sg. s-Aor. P. (toqué) |
-:::: media
+:::
+::: media
 ![](/images/uebung094.webp)
 Fig.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung094))
-::::
 :::

@@ -2,11 +2,12 @@
 title: "Lesing 52"
 subtitle: "Neutrum van die stamme op -i en -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
+---
 
----# Les 52
+# Les 52
 
 ## 52.1. Neutrale vorme van stamwoorde wat op -i en -u eindig
 
@@ -701,4 +702,5 @@ Afbeelding: ⟪श्रीगुम्पिः⟫ , ⟪मम मन्त्�
 (Foto: Payer)
 (Bron foto: [Details](/af/licenses#lekt5201))
 :::
+
 

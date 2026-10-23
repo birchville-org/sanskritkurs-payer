@@ -3,8 +3,8 @@ title: "ትምህርት 2"
 subtitle: "የስም ዓረፍተ ነገር እና የዲክሊኔሽን መሰረቶች"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,11 +14,11 @@ last_reconstructed: 2026-04-30
 ## 2.1. የስም ሀብት ሀብት
 
 ::: grammar-box
-
 **ስኬም: ፕሪዲኬትስክር - ሰብጀክት**
+:::
 
+::: indent
 ለምሳሌ devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu አምላክ ነው።"
-
 :::
 
 የተግባር ኮፕላ ("ነው"፣ "ነው"፣ "ነኝ"፣ "ነህ"፣ "ነው") አስፈላጊ አይደለም፣ ነገር ግን ምናልባት ሊከሰት ይችላል።
@@ -83,7 +83,9 @@ last_reconstructed: 2026-04-30
 
 አጠቃላይ እይታውንም ይመልከቱ፡
 
-> **Payer, Alois (1944–):** Sandhi (Kielhorn). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi (Kielhorn). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 የመጨረሻው **-s** (Sandhi) (Kielhorn)፡
 
@@ -127,7 +129,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : ሹድራ (የአገልግሎት ደረጃ)።
 
-::: note-box አራቱ ደረጃዎች (varna)
+::: note-box
+**አራቱ ደረጃዎች (varna)**
+
 
 በባህላዊ ጽንሰ-ሐሳብ (ለምሳሌ Manusmṛti I, 88-91) መሰረት ስራዎች ተከፋፍለዋል፡
 

@@ -3,15 +3,15 @@ title: "ለክቴሽን 1"
 subtitle: "የሳንስክሪት ድምጾች"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # ቀጥታ 1
 
 
-::: center
+::: verse-box
 
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
@@ -28,7 +28,7 @@ gaṇeśapūjanam
 
 :::
 
-::: center
+::: verse-box
 
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -47,7 +47,7 @@ sarvakāryeṣu sarvadā |**
 
 :::
 
-::: center
+::: verse-box
 
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
@@ -64,7 +64,7 @@ maṅgalacaraṇam
 
 :::
 
-::: center
+::: verse-box
 
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
@@ -89,10 +89,9 @@ pārvatīparameśvarau |**
 በመጀመሪያ አንድ ልብስ፡
 
 
->"ውልያም ጆንስ [1746–1794] እና ንጉሥ ሆልስ ቶማስ ኮለብሩክ (1765—1857) ሳንስክሪት በመጀመሪያው ጊዜ ተማርተው ነበር፣ በአንድ ጊዜ ተረክበው እና ነበር፣ ያለው ሰፊ ትምህርት እና ከክላሲካል ቋንቋዎች ጋር ያለው ከፍተኛ ተመሳሳይነት አለው፣ ከዚያም በኋላ ሰፊ ቃል አለመስማማት ነበር. ይህ በዚህ ሳንስክሪት ከጂኦግራፊያዊ ርቀት ያለው ከአውሮፓ ቋንቋዎች ጋር ያለው ከፍተኛ ተመሳሳይነት ምንም አይነት ከፍተኛ ተመሳሳይነት አለው፣ ይህም በአንድ ጊዜ ከእስክያንድሪያ ቋንቋ ሁሉም ቋንቋዎች ይመጣሉ እና በአንድ ላይ ከተለያዩ ተግባራት ላይ ይነጥቃል። በዚህ ምክንያት ታዋቂው ፊልሎጅስት ዱጋልድ ስቲውርድ (1753—1828) ቀላል መንገድ ይዞ ነበር፣ ሙሉውን ታሪክ በሳንስክሪት ቋንቋ ለእውነተኛ እውነት አደረገ. ይህን ፓርቲ ነበር፣ በዚህ ውስጥ ማስረጃ ለማድረግ ይሞክር ነበር፣ ይህም በብራማንዎች ከግሪክ እና ላቲን ተመሳሳይነት ያለው እና በዚህ ቋንቋ እና ሙሉውም ትምህርት ነበር. ይህ አመለካከት በ1840 ዓም. ላይ በዱብሊን ፕሮፌስር ቻርለስ ዊልያም ዋል በዝርዝር (ጎቲንገር ፊልሎጂካል ኣንዛይገን 1842 ፍ. 1888)."
->
+::: note-box
+"ውልያም ጆንስ [1746–1794] እና ንጉሥ ሆልስ ቶማስ ኮለብሩክ (1765—1857) ሳንስክሪት በመጀመሪያው ጊዜ ተማርተው ነበር፣ በአንድ ጊዜ ተረክበው እና ነበር፣ ያለው ሰፊ ትምህርት እና ከክላሲካል ቋንቋዎች ጋር ያለው ከፍተኛ ተመሳሳይነት አለው፣ ከዚያም በኋላ ሰፊ ቃል አለመስማማት ነበር. ይህ በዚህ ሳንስክሪት ከጂኦግራፊያዊ ርቀት ያለው ከአውሮፓ ቋንቋዎች ጋር ያለው ከፍተኛ ተመሳሳይነት ምንም አይነት ከፍተኛ ተመሳሳይነት አለው፣ ይህም በአንድ ጊዜ ከእስክያንድሪያ ቋንቋ ሁሉም ቋንቋዎች ይመጣሉ እና በአንድ ላይ ከተለያዩ ተግባራት ላይ ይነጥቃል። በዚህ ምክንያት ታዋቂው ፊልሎጅስት ዱጋልድ ስቲውርድ (1753—1828) ቀላል መንገድ ይዞ ነበር፣ ሙሉውን ታሪክ በሳንስክሪት ቋንቋ ለእውነተኛ እውነት አደረገ. ይህን ፓርቲ ነበር፣ በዚህ ውስጥ ማስረጃ ለማድረግ ይሞክር ነበር፣ ይህም በብራማንዎች ከግሪክ እና ላቲን ተመሳሳይነት ያለው እና በዚህ ቋንቋ እና ሙሉውም ትምህርት ነበር. ይህ አመለካከት በ1840 ዓም. ላይ በዱብሊን ፕሮፌስር ቻርለስ ዊልያም ዋል በዝርዝር (ጎቲንገር ፊልሎጂካል ኣንዛይገን 1842 ፍ. 1888)."
 
-::: literatur-box
 
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 
@@ -110,7 +109,9 @@ pārvatīparameśvarau |**
 
 :::
 
->**ባሻም**, ኤ. ኤል. (አርተር ልዌሊን) (፲፱፻፲፬–፲፱፻፹፮) _ሕንድ የነበረችው ድንቅ_ ክፍል: የሕንድ ንዑስ-አህጉር ባህል ጥናት ሙስሊሞች ከመምጣታቸው በፊት። -- ለንደን: ሲድግዊክ እና ጃክሰን, ፲፱፻፶፬። -- ከዚያን ጊዜ ጀምሮ ብዙ እትሞች, የኪስ መጽሐፍ እትሞችን ጨምሮ። -- **ግዴታ ንባብ።** በሙስሊሞች ዘመን በፊት በሕንድ የነበረውን ሕይወት, ታሪክ እና ባህል ጥሩ አጠቃላይ እይታ። የጥንታዊ ሕንዳዊ ጥናት የተለያዩ ዘርፎች አጠቃላይ እይታ።
+::: indent
+**ባሻም**, ኤ. ኤል. (አርተር ልዌሊን) (፲፱፻፲፬–፲፱፻፹፮) _ሕንድ የነበረችው ድንቅ_ ክፍል: የሕንድ ንዑስ-አህጉር ባህል ጥናት ሙስሊሞች ከመምጣታቸው በፊት። -- ለንደን: ሲድግዊክ እና ጃክሰን, ፲፱፻፶፬። -- ከዚያን ጊዜ ጀምሮ ብዙ እትሞች, የኪስ መጽሐፍ እትሞችን ጨምሮ። -- **ግዴታ ንባብ።** በሙስሊሞች ዘመን በፊት በሕንድ የነበረውን ሕይወት, ታሪክ እና ባህል ጥሩ አጠቃላይ እይታ። የጥንታዊ ሕንዳዊ ጥናት የተለያዩ ዘርፎች አጠቃላይ እይታ።
+:::
 
 ::: media
 
@@ -124,7 +125,7 @@ pārvatīparameśvarau |**
 
 Beste systematische Grammatik:
 
-::: literatur-box
+::: note-box
 
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 
@@ -142,7 +143,9 @@ Beste systematische Grammatik:
 
 ጥሩ ሥርዓታዊ ሰዋስው በአገር ውስጥ ሰዋስው ሊቃውንት መሠረት እና በተመሳሳይ ጊዜ ወደ ፓኒኒ መግቢያ:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
+:::
 
 ::: media
 
@@ -155,7 +158,7 @@ Beste systematische Grammatik:
 
 ሓደ ቀሊልን ዝተጠርነፈን ኣብቲ ስነ-ቃል ዘለዉ ቃላት ንምግላጽ ዝከኣል መብርሂ ክትረክቦ ትኽእል፡
 
-::: literatur-box
+::: note-box
 
 **ኣብ ስነ-ቃል ዘለዉ ቃላት ንምግላጽ ዝከኣል መብርሂ** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
@@ -172,7 +175,9 @@ Beste systematische Grammatik:
 
 ንዝኾነ ሰብ ዘለዎም ቃላት ንምግላጽ ዝከኣል መብርሂ ክትረክቦ ትኽእል፡
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. ናይ ስንስክሪት ቃላት
@@ -189,7 +194,7 @@ Beste systematische Grammatik:
 
 ናይ ስንስክሪት ቃላት ኣብ ውሽጢ እንድያ ምስል ክትርከቦ ትኽእል።
 
-::: note-box
+::: grammar-box
 
 ኣብ ውሽጢ እንድያ ምስል ክትርከቦ ትኽእል።
 - **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫):
@@ -210,7 +215,6 @@ Beste systematische Grammatik:
 
 ### 1.2.1. Zur Aussprache einzelner Laute
 
-::: laut-table
 
 | Laut | Beschreibung |
 | :--- | :--- |
@@ -224,7 +228,6 @@ Beste systematische Grammatik:
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 
-:::
 
 ምርጡን አነባበብ ለማግኘት ዓረፍተ ነገሮችን፣ ጥቅሶችን ወይም ቃላትን በጣም በዝግታ እና በአንድ ድምፅ የአናባቢዎችን ርዝመት በትክክል በማክበር ማንበብ ነው።
 

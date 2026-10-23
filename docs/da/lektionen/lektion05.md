@@ -2,7 +2,7 @@
 title: "Lektion 5"
 subtitle: "Grundlæggende om nominalkomposita (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Forledene i sammensætninger (ikke kun Dvandva) har som regel formen af den ufor
 Eksempler på plural-dvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmaner, Kṣatriyas, Vaiśyas og Śūdras)
-> 
-> eller = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((en/der) Brahmane, Kṣatriya, Vaiśya og Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmaner, Kṣatriyas, Vaiśyas og Śūdras)
+
+eller = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((en/der) Brahmane, Kṣatriya, Vaiśya og Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Digtere og lærere [Plur.])
-> (Bemærk: "En digter og en lærer" skulle stå i dualis!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Digtere og lærere [Plur.])
+(Bemærk: "En digter og en lærer" skulle stå i dualis!)
+:::
 
 **For rækkefølgen af led i et dvandva gælder bl.a. følgende regler:**
 Betegnelsen for de forskellige stænder (**varṇa**) skal ordnes efter deres hierarki (højeste først).

@@ -558,12 +558,14 @@ Przykład: ⟪भगवद्गीता १⟩,⟪१⟩:
 ::: indent
 ⟪धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किम् अकुर्वत संजय ॥१॥⟩
 :::
-> Rozkład ⟪लघु⟩ i ⟪गुरु⟩ :
+::: indent
+Rozkład ⟪लघु⟩ i ⟪गुरु⟩ :
+:::
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Epicki śloka (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ Najważniejszą miarą wersyfikacyjną w eposach (⟪महाभारत⟫, �
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Druga i trzecia sylaba ⟪पाद⟫ nie powinny być jednocześnie ⟪लघु⟫. W b i d sylaby 2-4 nie mogą mieć formy ¯ ˘ ¯.
@@ -601,19 +603,19 @@ Druga i trzecia sylaba ⟪पाद⟫ nie powinny być jednocześnie ⟪लघ�
 **Schematy poboczne (⟪विपुला⟩) dla a i c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **We wszystkich formach ślok główna cezura występuje na końcu 2. ⟪पाद⟫ : tam znajduje się koniec słowa lub – w przypadku długich złożenia – koniec członu składniowego.**
@@ -622,7 +624,7 @@ Druga i trzecia sylaba ⟪पाद⟫ nie powinny być jednocześnie ⟪लघ�
 ::: grammar-box
 **Wśród dotychczas poznanych wierszy wyznacz śloki. Sporządź dla nich pisemny schemat metryczny. Zwróć uwagę na ewentualne nieregularności lub formy Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

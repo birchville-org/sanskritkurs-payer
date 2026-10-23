@@ -2,7 +2,7 @@
 title: Lektion 12
 subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -28,9 +28,9 @@ Il PPP correspunda en quest cas cun l'object en numer, cas e gender.
 Ina vartverb (“ess”) n’è necessari.
 
 Esempis:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Dal sant è stà cuntanschì il tschiel) = Il sant ha cuntanschì in tschiel.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Dal brahman è stada adorada la deessa cun in sacrifici) = Il brahman ha adorà la deessa cun in sacrifici.“
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Dal sant è stà cuntanschì il tschiel) = Il sant ha cuntanschì in tschiel.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Dal brahman è stada adorada la deessa cun in sacrifici) = Il brahman ha adorà la deessa cun in sacrifici.“
 :::
 
 ### 12.1.2. Schema I per verbs intransitivs e verbs dal moviment
@@ -41,7 +41,7 @@ Esempis:
 En quest cas, concorda il participi dal perfectum passivum cun l'agent en numer, cas e genère. Il participi dal perfectum passiv ha en verbs intransitivs (verbs senza object direct) e verbs dal moviment significaziun activa.
 
 Esempio:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „La donna Kṣatriya è andata in città.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „La donna Kṣatriya è andata in città.“
 :::
 
 ### 12.1.3. Schema II per verbs intransitivs e verbs dal moviment
@@ -50,7 +50,7 @@ Esempio:
 **Agent (kartṛ) instrumental (tṛtīyā) -- PPP nominativ singular neutrum**
 
 Esempel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Dal Kṣatriya è (in la citad) ìt) = Il Kṣatriya è (in la citad) ìt.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Dal Kṣatriya è (in la citad) ìt) = Il Kṣatriya è (in la citad) ìt.“
 
 La construcziun suenter il schem II è mult pli rara che la construcziun suenter il schem I.
 :::

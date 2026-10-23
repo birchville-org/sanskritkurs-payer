@@ -2,7 +2,7 @@
 title: "Lección 12"
 subtitle: "El participio perfecto pasivo (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ En este caso, el PPP concuerda con el objeto en número, caso y género.
 No se necesita un verbo auxiliar ("ser").
 
 Ejemplos:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Por el Santo fue alcanzado un cielo) = El Santo ha alcanzado un cielo."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Por el Brahmana fue venerada la Diosa con un sacrificio) = El Brahmana ha venerado a la Diosa con un sacrificio."
+**sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Por el Santo fue alcanzado un cielo) = El Santo ha alcanzado un cielo."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Por el Brahmana fue venerada la Diosa con un sacrificio) = El Brahmana ha venerado a la Diosa con un sacrificio."
 :::
 
 ### 12.1.2. Esquema I para verbos intransitivos y verbos de movimiento
@@ -42,9 +42,7 @@ Ejemplos:
 En este caso, el PPP concuerda con el agente en número, caso y género. El Participio Perfecto "Pasivo" tiene un significado activo en el caso de verbos intransitivos (verbos sin objeto directo) y verbos de movimiento.
 
 Ejemplo:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La mujer kṣatriya ha ido a la ciudad."
-::: \<!--  --\>
-
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "La mujer kṣatriya ha ido a la ciudad."
 :::
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
 
@@ -52,7 +50,7 @@ Ejemplo:
 **Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativoooooo Singular Neutro**
 
 Ejemplo:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Por el kṣatriya se fue (a la ciudad)) = El kṣatriya se fue (a la ciudad).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Por el kṣatriya se fue (a la ciudad)) = El kṣatriya se fue (a la ciudad).“
 
 La construcción según el Esquema II es mucho más rara que la construcción según el Esquema I.
 :::

@@ -2,7 +2,7 @@
 title: Lektion 29
 subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

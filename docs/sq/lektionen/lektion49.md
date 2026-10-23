@@ -2,7 +2,7 @@
 title: "Mësimi 49"
 subtitle: "Formimi i Imperativit (⟪लोट्⟫) për rrënjët e prezencit pa temë (Vazhdimi)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

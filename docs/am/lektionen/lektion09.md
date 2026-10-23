@@ -3,8 +3,8 @@ title: "ትምህርት 9"
 subtitle: "ሳማሃራድቭንድቫ እና ኖሚናል ስፖስፍኤስ -ካ/-አካ"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

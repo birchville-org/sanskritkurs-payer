@@ -2,7 +2,7 @@
 title: "பாடம் 20"
 subtitle: "உரிமச்சொல் = ⟪बहुव्रीहि⟫ ஆண்பால்"
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

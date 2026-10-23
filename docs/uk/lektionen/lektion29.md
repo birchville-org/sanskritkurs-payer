@@ -2,7 +2,7 @@
 title: "Урок 29"
 subtitle: "Вживання парасмаїпади (⟪परस्मैपद⟫) та атманепади (⟪आत्मनेपद⟫) у каузативі"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

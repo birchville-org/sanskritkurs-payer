@@ -2,7 +2,7 @@
 title: "Lekcija 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -12,7 +12,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम् वद ॥१॥ धर्मं चर ॥२॥ मातृदेवो भव ॥३॥ गौरवं प्राप्यते दानात् ॥४॥ श्वः कार्यमद्य कुर्वीत ॥५॥ विद्याविहीनः पशुः ॥६॥ लाघवं वैयाकरणस्य भूषणम् ॥७॥⟫
 :::
 ## 48.2. Formation of the Imperative (⟪लोट्⟫) athematic present stems
@@ -187,7 +187,7 @@ With the suffix **-a** and (less frequently) **-ya**, a new noun can be derived 
 
 The derived words have the meaning:
 
-> "having some relation to that denoted by the base word"
+"having some relation to that denoted by the base word"
 
 e.g.
 

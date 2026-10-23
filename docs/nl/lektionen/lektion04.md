@@ -2,7 +2,7 @@
 title: "Les 4"
 subtitle: "Vragpronomen en aanwijzende voornaamwoorden in de nominatief"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -85,7 +85,9 @@ Con estos pronombres se forman, por ejemplo, las siguientes fórmulas interrogat
 :::
 Een voorbeeld van andere vragen:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwoord: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kan men in de nominale zin het onderwerp bijvoorbeeld aan het begin plaatsen om de aansluiting bij de vraag te benadrukken.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwoord: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kan men in de nominale zin het onderwerp bijvoorbeeld aan het begin plaatsen om de aansluiting bij de vraag te benadrukken.)
+:::
 
 OPMERKING: De antwoorden die u met uw huidige kennis van het Sanskriet op dergelijke vragen kunt geven, komen vanzelfsprekend nog niet in alle opzichten overeen met idiomatisch goed Sanskriet.
 

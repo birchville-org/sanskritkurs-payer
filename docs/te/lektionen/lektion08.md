@@ -3,8 +3,8 @@ title: "పాఠం 8"
 subtitle: "నామవాచకాల రూపకల్పన & 8. ప్రస్తుత కాల వర్గం"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

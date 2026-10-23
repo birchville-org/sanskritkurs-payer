@@ -3,8 +3,8 @@ title: "第2課"
 subtitle: "名詞句與變格基礎"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,11 +14,11 @@ last_reconstructed: 2026-04-30
 ## 2.1. 名詞句
 
 ::: grammar-box
-
 **範例：表語名詞 - 主語**
+:::
 
+::: indent
 例如 devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = 「毗濕奴是一位神。」
-
 :::
 
 語法上的繫詞（「是」、「都是」、「我是」、「你是」、「你們是」）並非必要，但有時會出現。
@@ -84,7 +84,9 @@ last_reconstructed: 2026-04-30
 
 請參閱以下概覽：
 
-> **Payer, Alois (1944–)：**尾音 -s 的連聲規則。--（梵語教材）。-- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–)：**尾音 -s 的連聲規則。--（梵語教材）。-- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 尾音為 **-s**：
 
@@ -128,7 +130,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫：首陀羅（服務階層）。
 
-::: note-box 四種姓（varna）
+::: note-box
+**四種姓（varna）**
+
 
 根據古典理論（例如《摩奴法典》I, 88-91），職責分配如下：
 

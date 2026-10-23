@@ -2,7 +2,7 @@
 title: "Lesing 49"
 subtitle: "Vorming van die Imperatief (⟪लोट्⟫) atematiese teenwoordige stamme (voortsetting)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

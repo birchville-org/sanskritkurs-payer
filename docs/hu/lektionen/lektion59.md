@@ -2,7 +2,7 @@
 title: "Lecke 59"
 subtitle: "A dualis másodlagos végződései és az imperativus végződése (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

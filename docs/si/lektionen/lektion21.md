@@ -2,7 +2,7 @@
 title: "පාඩම 21"
 subtitle: "nt මත අවසන් වන තවත් වර්තමාන කාල මූල"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -1,3 +1,4 @@
+
 # Devanāgarī = ⟪देवनागरी⟫
 
 ## Exercício de Escrita 7
@@ -18,29 +19,31 @@ r depois de consoante: /
 
 *   para outras letras: na parte inferior da letra
 
-> ⟪क्र⟫ ⟪ख्र⟫ ⟪ग्र⟫ ⟪घ्र⟫ ⟪ङ्र्⟫  
-> kra khra gra ghra ṅra
-> 
-> ⟪च्र⟫ ⟪छ्र⟫ ⟪ज्र⟫ ⟪झ्र⟫ ⟪ञ्र⟫  
-> cra, chra, jra, jhra, ñra
-> 
-> ⟪ट्र⟫ ⟪ठ्र⟫ ⟪ड्र⟫ ⟪ढ्र्⟫ ⟪ढ्र⟫ ⟪स्ण्र⟫  
-> ṭra ṭhra ḍra ḍhra ṇra
-> 
-> ⟪त्र⟫ ⟪थ्र⟫ ⟪द्र⟫ ⟪ध्र⟫ ⟪न्र⟫  
-> tra thra dra dhra nra
-> 
-> ⟪प्र⟫ ⟪फ्र⟫ ⟪ब्र⟫ ⟪भ्र⟫ ⟪म्र⟫  
-> pra phra bra bhra mra
-> 
-> ⟪य्र⟫ ⟪व्र⟫  
-> yra vra
-> 
-> ⟪श्र⟫ ⟪ष्र⟫ ⟪स्र⟫  
-> śra ṣra sra
-> 
-> ⟪ह्र⟫  
-> hra
+::: indent
+⟪क्र⟫ ⟪ख्र⟫ ⟪ग्र⟫ ⟪घ्र⟫ ⟪ङ्र्⟫
+kra khra gra ghra ṅra
+
+⟪च्र⟫ ⟪छ्र⟫ ⟪ज्र⟫ ⟪झ्र⟫ ⟪ञ्र⟫
+cra, chra, jra, jhra, ñra
+
+⟪ट्र⟫ ⟪ठ्र⟫ ⟪ड्र⟫ ⟪ढ्र्⟫ ⟪ढ्र⟫ ⟪स्ण्र⟫
+ṭra ṭhra ḍra ḍhra ṇra
+
+⟪त्र⟫ ⟪थ्र⟫ ⟪द्र⟫ ⟪ध्र⟫ ⟪न्र⟫
+tra thra dra dhra nra
+
+⟪प्र⟫ ⟪फ्र⟫ ⟪ब्र⟫ ⟪भ्र⟫ ⟪म्र⟫
+pra phra bra bhra mra
+
+⟪य्र⟫ ⟪व्र⟫
+yra vra
+
+⟪श्र⟫ ⟪ष्र⟫ ⟪स्र⟫
+śra ṣra sra
+
+⟪ह्र⟫
+hra
+:::
 
 Zur Schreibung:
 

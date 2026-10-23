@@ -2,7 +2,7 @@
 title: "ትምህርት 11"
 subtitle: "ሁለትዮሽ አኩዘቲቭ (የሰው እና የምህር አኩዘቲቭ)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

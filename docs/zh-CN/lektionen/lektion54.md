@@ -2,7 +2,7 @@
 title: 第54课
 subtitle: "前言"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -59,7 +59,7 @@ status: stable
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × — × — / × ◡ — **— ◡ — —**
 
@@ -67,7 +67,7 @@ status: stable
 
 模式一：
 
-::: metrik-schema
+::: verse-box
 
 Metrik-Schema
 × — × — / × ◡ — **— ◡ — —**
@@ -81,7 +81,7 @@ Schema II:
 
 ⟪जगती⟫基本形式：与⟪त्रिष्टुभ्⟫相同，但为12音节。每个Pada的后5个音节具有以下数量特征：
 
-::: metrik-schema
+::: verse-box
 
 **— ◡ — ◡ —**
 
@@ -91,7 +91,7 @@ Schema II:
 **— ◡ — ◡ —**
 此外，还存在所谓的典型多余⟪त्रिष्टुभ्⟫，其首部分为五音节，随后演变为具有四音节首部分的⟪त्रिष्टुभ्⟫：
 
-::: metrik-schema
+::: verse-box
 
 — × — × / × ◡ — **— ◡ — —**
 
@@ -101,7 +101,7 @@ Schema II:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 
@@ -111,7 +111,7 @@ a) ⟪इन्द्रवज्रा⟫
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 
 韵律模式
 **◡** — ◡ — , — ◡ ◡ — ◡ — —

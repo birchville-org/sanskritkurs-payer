@@ -2,7 +2,7 @@
 title: "Lekcja 45"
 subtitle: "Tworzenie form czasownikowych drugiej osoby (⟪मध्यमः⟫) stemów atematycznych bez sufiksów kończących się na samogłoskę (ciąg dalszy)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

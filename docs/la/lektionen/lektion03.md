@@ -2,7 +2,7 @@
 title: Lektion 3
 subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -27,7 +27,7 @@ Nominativus singularis sine desinentia formatur:
 - **Femina in -ā**: exempli gratia **devatā** f. "dea" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Femina in -ī**: exempli gratia **devī** f. "dea" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Attenzione!** Interim sunt etiam monosyllabica feminina radicalia in -ī, quorum Nominativus singularis in -s desinit: exempli gratia dhī f. "mens" -- Nom. sg.: dhīs = ⟪धीस्⟫. Item lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "navis" et tantrī (⟪तन्त्री⟫) f. "chorda" irregulariter formant Nominativum singularem in -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -70,11 +70,15 @@ e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā est deitas" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā est dea ciborum et coquinae, quae ut Pārvatī, uxor Śivae, incarnatio habetur.)
+::: indent
+(Annapūrṇā est dea ciborum et coquinae, quae ut Pārvatī, uxor Śivae, incarnatio habetur.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī dea est" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī uxor dei Indra est.)
+::: indent
+(Indrāṇī uxor dei Indra est.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -93,7 +97,9 @@ exempli gratia
 
 devī + umā » devy umā "Umā est dea" = ⟪देव्युमा⟫
 
-> (Umā nomen est Pārvatī, coniugis Śivae)
+::: indent
+(Umā nomen est Pārvatī, coniugis Śivae)
+:::
 
 ::: grammar-box
 **-a / -ā ante vocalem dissimilem:**

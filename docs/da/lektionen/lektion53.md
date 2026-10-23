@@ -642,7 +642,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Se også:
 
-> **Payer, Alois (1944–):** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Betydningen af bestemmelse af metrummet
 
@@ -736,13 +738,13 @@ Example: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -779,7 +781,7 @@ Det vigtigste versmål i epikerne (⟪महाभारत⟫, ⟪रामा�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -787,7 +789,7 @@ Det vigtigste versmål i epikerne (⟪महाभारत⟫, ⟪रामा�
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -799,7 +801,7 @@ Den anden og tredje stavelse i et ⟪पाद⟫ bør ikke samtidig være ⟪�
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -807,7 +809,7 @@ Den anden og tredje stavelse i et ⟪पाद⟫ bør ikke samtidig være ⟪�
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -815,7 +817,7 @@ Den anden og tredje stavelse i et ⟪पाद⟫ bør ikke samtidig være ⟪�
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -823,7 +825,7 @@ Den anden og tredje stavelse i et ⟪पाद⟫ bør ikke samtidig være ⟪�
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -838,7 +840,7 @@ Den anden og tredje stavelse i et ⟪पाद⟫ bør ikke samtidig være ⟪�
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

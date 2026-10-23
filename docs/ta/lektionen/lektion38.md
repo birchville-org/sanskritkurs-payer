@@ -2,7 +2,7 @@
 title: "பாடம் 38"
 subtitle: "வாரத்தின் தீர்வு"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

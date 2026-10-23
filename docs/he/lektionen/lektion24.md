@@ -2,7 +2,7 @@
 title: "שיעור 24"
 subtitle: 'המקרה הדאטיבי (⟪चतुर्थी⟫ = \"סיומת המקר הרביעית\")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

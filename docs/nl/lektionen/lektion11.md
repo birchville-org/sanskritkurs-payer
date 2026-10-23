@@ -2,7 +2,7 @@
 title: "Les 11"
 subtitle: "De dubbele accusatief (accusatief van persoon en zaak)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

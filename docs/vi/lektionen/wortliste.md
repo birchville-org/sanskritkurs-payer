@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (tầng lớp lao động dịch vụ).
 
-::: note-box Bốn đẳng cấp (varna)
+::: note-box
+**Bốn đẳng cấp (varna)**
+
 
 Theo lý thuyết cổ điển (ví dụ Manusmṛti I, 88-91), các nhiệm vụ được phân chia như sau:
 
@@ -515,9 +517,6 @@ liên quan đến **yaj** 1 U:
 
 Ở Ấn Độ, người ta tin rằng lời nói chân thật có sức mạnh ma thuật; thậm chí toàn bộ trật tự vũ trụ được duy trì và sáng tạo bởi lời nói chân thật. Về quan niệm quan trọng này, xem tác phẩm nền tảng:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Từ di cảo, biên tập bởi Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 
@@ -563,7 +562,7 @@ Abb.: ⟪⟪विश्वामित्रः⟫⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : hỏi (ai đó: Cách 4; về điều gì đó: Cách 4)
 **saha** ⟪सह⟫ : cùng với, chung với (cũng dùng trong ngữ cảnh "chiến đấu với" v.v.) (Hậu giới từ đi kèm Cách 5)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Từ di sản biên tập bởi Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 
@@ -609,7 +608,7 @@ Abb.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : hỏi (ai đó: Cách 4; về điều gì đó: Cách 4)
 **saha** ⟪सह⟫ : cùng với, chung với (cũng dùng trong ngữ cảnh "chiến đấu với" v.v.) (Hậu giới từ đi kèm Cách 5)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Xuất bản từ di sản do Ludwig Alsdorf biên tập. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 
@@ -844,17 +843,19 @@ Học các từ sau:
 **eva** ⟪एव⟫ : nhấn mạnh từ đứng trước
 **asura** m. ⟪असुर⟫ : ác quỷ
 
-> **ASURA.** 'Thần thánh, thiêng liêng.'
->
-> Trong những phần cổ xưa nhất của Rigveda, thuật ngữ này được dùng để chỉ linh hồn tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành biểu tượng của ác quỷ hoặc kẻ thù của các vị thần.
->
-> Từ này xuất hiện với ý nghĩa này trong những phần sau của Rigveda, đặc biệt là quyển cuối cùng, và cũng có trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa, và ghi lại nhiều cuộc tranh đấu giữa Asuras và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với phát biểu trước đó, và tuyên bố rằng "ông tạo ra Asuras từ hơi thở dưới." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước rơi vãi. Tuyên bố của Manu là họ được tạo ra bởi các Prajāpatis.
->
-> Theo Viṣṇu Purāṇa, họ được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được tạo ra; do đó họ là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng dõi Pulastya.
->
-> Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã xuất hiện từ *sura,* thường được dùng cho 'một vị thần.'"
->
-> [Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Thần thánh, thiêng liêng.'
+
+Trong những phần cổ xưa nhất của Rigveda, thuật ngữ này được dùng để chỉ linh hồn tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành biểu tượng của ác quỷ hoặc kẻ thù của các vị thần.
+
+Từ này xuất hiện với ý nghĩa này trong những phần sau của Rigveda, đặc biệt là quyển cuối cùng, và cũng có trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa, và ghi lại nhiều cuộc tranh đấu giữa Asuras và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với phát biểu trước đó, và tuyên bố rằng "ông tạo ra Asuras từ hơi thở dưới." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước rơi vãi. Tuyên bố của Manu là họ được tạo ra bởi các Prajāpatis.
+
+Theo Viṣṇu Purāṇa, họ được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được tạo ra; do đó họ là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng dõi Pulastya.
+
+Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã xuất hiện từ *sura,* thường được dùng cho 'một vị thần.'"
+
+[Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4856,7 +4857,9 @@ từ đó:
 
 Xem về ⟪राहु⟫ và ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Các nghi lễ thánh hiến và nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh lang thang vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Các nghi lễ thánh hiến và nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh lang thang vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5680,7 +5683,9 @@ không được sử dụng trong các thì khác
 
 ⟪अजिन⟫ n.: da linh dương, đặc biệt là da của loài linh dương đen (linh dương hươu dê : _Antilope cervicapra_ L. ). Ban đầu phân bố khắp tiểu lục địa Ấn Độ từ Punjab và Sind đến Bengal và từ Nepal đến Kanyakumari (Mũi Comorin) (Tiếng Tamil: கன்னியாகுமரி) Xem:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 

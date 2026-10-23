@@ -2,7 +2,7 @@
 title: "Pratimas 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Nežinojimas reiškia, kad laikiną, nešvarų, kantrų ir neabsoliutų laiko am
 
 Prieš per griežtą valdymą (daṇḍa) būtybės turi drebėti. Silpnas valdymas yra niekinamas. Tinkamas valdymas yra gerbiamas. Išmintingai vadovaujamas valdymas skatina teisingumą, naudą ir malonumą povaldininkuose. Valdomas dėl meilės ar neapykantos arba paniekos blogai valdymas pykdo net miške pasitraukusius senolius ir klajojančius asketus, o juo labiau namų šeimininkus. Nevykdomas valdymas sukelia elgesį kaip žuvims (mātsyanayāya). Jei nėra to, kas palaiko valdymą, stipresnis nuskriaudžia silpnesnį. Jei silpnasis yra saugomas valdovo, jis klesti.
 
-> Pasaulė su savo keturiomis kasta ir gyvenimo stadijomis  
-> Yra saugoma karaliaus per valdymą:  
-> Džiaugdamasi veikla pagal savo teisę ir paprotį  
-> Ji juda savo keliais.
+::: indent
+Pasaulė su savo keturiomis kasta ir gyvenimo stadijomis
+Yra saugoma karaliaus per valdymą:
+Džiaugdamasi veikla pagal savo teisę ir paprotį
+Ji juda savo keliais.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

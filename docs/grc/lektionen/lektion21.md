@@ -2,7 +2,7 @@
 title: "Μάθημα 21"
 subtitle: "Ἐπόμενοι ρίζες παρατατικοῦ μετὰ -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

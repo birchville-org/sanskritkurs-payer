@@ -2,7 +2,7 @@
 title: "Lekce 3"
 subtitle: "Nominativ singuláru feminina"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominativ singuláru tvoří bez koncovky:
 **Feminina na -ā**: např. **devatā** f. "božstvo" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminina na -ī**: např. **devī** f. "bohyně" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Pozor!** Vedle toho existují jednoslabičná ženská kořenová podstatná jména na -ī, jejichž nominativ singuláru končí na -s: např. dhī f. "myšlenka" -- Nom. sg.: dhīs = ⟪धीस्⟫. Také lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "loď" a tantrī (⟪तन्त्री⟫) f. "struna" tvoří nepravidelně nominativ singuláru na -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ např.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā je božstvo“ = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā je bohyně jídla a vaření, považována za ztělesnění Pārvatī, manželky Śivy.)
+::: indent
+(Annapūrṇā je bohyně jídla a vaření, považována za ztělesnění Pārvatī, manželky Śivy.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrāṇī je bohyně“ = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī je manželka boha Indry.)
+::: indent
+(Indrāṇī je manželka boha Indry.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ např.
 
 devī + umā » devy umā „Umā je bohyně“ = ⟪देव्युमा⟫
 
-> (Umā je jméno pro Pārvatī, manželku Śivu)
+::: indent
+(Umā je jméno pro Pārvatī, manželku Śivu)
+:::
 
 ::: grammar-box
 **-a / -ā před odlišnou samohláskou:**

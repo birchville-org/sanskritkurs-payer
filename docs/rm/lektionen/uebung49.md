@@ -2,7 +2,7 @@
 title: "[Esercizi 49]"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -70,9 +70,11 @@ Dumondas dal re ⟪शूद्रक⟫ da ⟪विदिशा⟫ al papegaj 
 
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
-> Il re ha dit: « Lasciamo stare tutto ciò! Soddisfate la nostra curiosità! Signore, raccontateci dall’inizio: in quale paese siete nato? Chi vi ha dato il nome? Chi è vostra madre? Come avete ottenuto i Veda? Come vi siete familiarizzato con le opere didattiche? Da dove avete acquisito le arti? Ricordate nascite precedenti o esaudire desideri? Oppure abitate, indossando il vestito di un uccello, un nascondiglio? O dove abitavate prima? O quanti anni avete? Come siete stati catturati in una gabbia? E come siete finiti nelle mani dei Cāṇḍālas? O come siete venuti qui?»
->
-> Vaiśampāyana, tuttavia, che era stato posto dal signore da la terra con curiosità spontanea e grande rispetto, ha riflettuto un momento e poi ha risposto pieno di riverenza: «Re, questa è una storia lunga. Se vi interessa, prestateci il vostro orecchio!»
+::: indent
+Il re ha dit: « Lasciamo stare tutto ciò! Soddisfate la nostra curiosità! Signore, raccontateci dall’inizio: in quale paese siete nato? Chi vi ha dato il nome? Chi è vostra madre? Come avete ottenuto i Veda? Come vi siete familiarizzato con le opere didattiche? Da dove avete acquisito le arti? Ricordate nascite precedenti o esaudire desideri? Oppure abitate, indossando il vestito di un uccello, un nascondiglio? O dove abitavate prima? O quanti anni avete? Come siete stati catturati in una gabbia? E come siete finiti nelle mani dei Cāṇḍālas? O come siete venuti qui?»
+
+Vaiśampāyana, tuttavia, che era stato posto dal signore da la terra con curiosità spontanea e grande rispetto, ha riflettuto un momento e poi ha risposto pieno di riverenza: «Re, questa è una storia lunga. Se vi interessa, prestateci il vostro orecchio!»
+:::
 
 ::: media
 ![](/images/uebung079.webp)

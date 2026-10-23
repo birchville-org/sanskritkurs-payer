@@ -2,7 +2,7 @@
 title: "Lesson 59"
 subtitle: "The Secondary Endings and Dual Imperative Endings (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

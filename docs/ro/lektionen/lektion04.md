@@ -2,7 +2,7 @@
 title: "Lecție 4"
 subtitle: "Pronumele interogative și pronumele demonstrative în nominativ"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Prin intermediul acestor pronume se formează, de exemplu, următoarele formule 
 :::
 Un exemplu de alte întrebări:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Răspuns: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (În această construcție nominală, se poate plasa subiectul, de exemplu, la început, pentru a sublinia legătura cu întrebarea.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Răspuns: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (În această construcție nominală, se poate plasa subiectul, de exemplu, la început, pentru a sublinia legătura cu întrebarea.)
+:::
 
 NOTĂ: Răspunsurile pe care le puteți oferi la astfel de întrebări, folosind cunoștințele dvs. actuale de sanscrită, nu corespund, desigur, în niciun fel unei exprimări idiomatice perfecte a sanscritei.
 

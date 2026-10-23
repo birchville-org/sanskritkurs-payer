@@ -2,7 +2,7 @@
 title: "Lektion 7"
 subtitle: "Verbsatsen med direkt objekt"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # Lektion 7
 
 
-::: center
+::: verse-box
 
 **Weekly Verse**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ God conquers, not the anti-god.
 ## 7.1. The verbal sentence with direct object
 
 ::: grammar-box
-
 **Schema:**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – direct object (karman n. = ⟪कर्मन्⟫) – verb**
+:::
 
+::: indent
 e.g.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma eats (devours) a fruit."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "The Brahmin worships a god with a sacrifice (for someone else)."
-
 :::
 
 If the verb is in Parasmaipada or Ātmanepada, then the direct object (**karman** n. = ⟪कर्मन्⟫) is generally in the **Accusative** (objective case, dvitīyā f. = ⟪द्वितीया⟫).

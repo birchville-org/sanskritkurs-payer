@@ -2,7 +2,7 @@
 title: "Leksjon 3"
 subtitle: "The Nominative Singular of the Feminine"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ The Nominative Singular is formed without an ending:
 **Feminines in -ā**: e.g., **devatā** f. "deity" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminines in -ī**: e.g., **devī** f. "goddess" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose Nominative Singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the Nominative Singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is a deity" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā is the goddess of food and cooking; she is considered an embodiment of Pārvatī, Śiva's consort.)
+::: indent
+(Annapūrṇā is the goddess of food and cooking; she is considered an embodiment of Pārvatī, Śiva's consort.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī is a goddess" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī is the consort of the god Indra.)
+::: indent
+(Indrāṇī is the consort of the god Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ e.g.
 
 devī + umā » devy umā "Umā is a / the goddess" = ⟪देव्युमा⟫
 
-> (Umā is a name for Pārvatī, Śiva's consort)
+::: indent
+(Umā is a name for Pārvatī, Śiva's consort)
+:::
 
 ::: grammar-box
 **-a / -ā before a dissimilar vowel:**

@@ -2,7 +2,7 @@
 title: "अभ्यास 9"
 uebung_id: 9
 category: "अभ्यास"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

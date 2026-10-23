@@ -2,7 +2,7 @@
 title: "Les 12"
 subtitle: "Het Participle Perfectum Passivum (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -27,9 +27,9 @@ Het PPP komt in dit geval qua getal, naamval en geslacht overeen met het lijdend
 Een hulpwerkwoord („zijn“) is niet nodig.
 
 Voorbeelden:
-\> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Door de heilige werd een hemel verkregen) = De heilige heeft een hemel verkregen.“
-\> 
-\> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Door de brahmaan werd de godin met een offer vereerd) = De brahmaan heeft de godin met een offer vereerd.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Door de heilige werd een hemel verkregen) = De heilige heeft een hemel verkregen.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Door de brahmaan werd de godin met een offer vereerd) = De brahmaan heeft de godin met een offer vereerd.“
 :::
 
 ### 12.1.2. Schema I voor intransitieve werkwoorden en werkwoorden van beweging
@@ -40,7 +40,7 @@ Voorbeelden:
 In dit geval komt het PPP qua getal, naamval en geslacht overeen met het agens. Het voltooid deelwoord „passief“ heeft bij intransitieve werkwoorden (werkwoorden zonder lijdend voorwerp) en bewegingswerkwoorden een actieve betekenis.
 
 Voorbeeld:
-\> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „De Kṣatriya-vrouw is naar de stad gegaan.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „De Kṣatriya-vrouw is naar de stad gegaan.“
 :::
 
 ### 12.1.3. Schema II voor intransitieve werkwoorden en werkwoorden van beweging
@@ -49,7 +49,7 @@ Voorbeeld:
 **Agens (kartṛ) in de instrumentalis (tṛtīyā) -- PPP in de nominatief enkelvoud onzijdig**
 
 Voorbeeld:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Door de Kṣatriya werd (naar de stad) gegaan) = De Kṣatriya is (naar de stad) gegaan.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Door de Kṣatriya werd (naar de stad) gegaan) = De Kṣatriya is (naar de stad) gegaan.“
 
 De constructie volgens Schema II is veel zeldzamer dan de constructie volgens Schema I.
 :::

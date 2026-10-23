@@ -2,7 +2,7 @@
 title: "Lekcja 23"
 subtitle: "Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Aby w sanskrycie wyrazić, że czynność odbywa się dla innej czynności ("aby"), można użyć infinitivu (⟪तुमुन्⟫) dla czynności, której celem jest dokonanie. Infinitiv oznacza przede wszystkim cel lub zamiar:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma poszedł, aby wysłuchać mowy mistrza."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma poszedł, aby wysłuchać mowy mistrza."
 
 **Należy pamiętać, że infinitiv – z kilkoma ściśle określonymi wyjątkami – nie może stanowić podmiotu ani obiektu czasownika:**
 
-> "Uczy się tańczyć" nie należy tłumaczyć za pomocą infinitivu ("tańczyć"), lecz należy użyć rzeczownika odczasownikowego, np.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "uczyć się").
+"Uczy się tańczyć" nie należy tłumaczyć za pomocą infinitivu ("tańczyć"), lecz należy użyć rzeczownika odczasownikowego, np.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "uczyć się").
 
 **Infinitiv jest również używany z czasownikami i rzeczownikami w znaczeniu "życzyć" lub "pragnąć", gdy agens (⟪कर्तृ⟫) infinitivu i czasownika są identyczni:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma pragnie wysłuchać mowy mistrza."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma pragnie wysłuchać mowy mistrza."
 
 **Infinitiv jest między innymi używany z czasownikami w znaczeniach "być zdolnym", "istnieć", "wiedzieć", "rozpocząć":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Święty nie może dopuścić się krzywdy."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Jest jedzenie do zjedzenia" (⟪भुज्⟫ 7: Ā: jeść, P: rządzić)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Święty nie może dopuścić się krzywdy."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Jest jedzenie do zjedzenia" (⟪भुज्⟫ 7: Ā: jeść, P: rządzić)
 
 **Infinitiv jest również używany z słowami w znaczeniach "wystarczający", "zdolny" oraz z rzeczownikami w znaczeniach "zdolność", "moc", "zręczność":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ogień ma moc spalać wszystko."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ogień ma moc spalać wszystko."
 
 **Infinitiv może być również używany z rzeczownikami oznaczającymi „czas” w wyrażeniach typu „Czas na …”:**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = „Czas zająć się jedzeniem” = „Czas jeść”
+⟪कालो भोजनं सेवितुम्⟫ = „Czas zająć się jedzeniem” = „Czas jeść”
 
 **Infinitiv może być używany w formie czynnej i biernej. Niemiecki infinitiv bierny oddaje się po sanskrycku poprzez umieszczenie czasownika (szczególnie często ⟪शक्⟩ „być zdolnym, móc”), od którego zależy infinitiv, w formę bierną.**
 
@@ -44,13 +44,13 @@ status: stable
 
 np.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = „Święty nie może zrobić krzywdy.”
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = „Święty nie może zrobić krzywdy.”
 
 **W drugiej osobie ⟪अर्ह्⟩ + infinitiv często używany jest jako łagodny rozkaz: „Powinieneś.”**
 
 **Jeśli infinitiv zależy od rzeczownika, nie może być z nim połączony w jedno słowo złożone. Wyjątek stanowią Bahuvrīhi, których drugim członem jest ⟪काम⟩ lub ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = „ten, którego pragnieniem jest mówienie; ten, który chce mówić”.
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = „ten, którego pragnieniem jest mówienie; ten, który chce mówić”.
 :::
 ## 23.2. Tworzenie infinitivu (⟪तुमुन्⟩)
 

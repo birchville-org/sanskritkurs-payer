@@ -2,7 +2,7 @@
 title: "Lezione 7"
 subtitle: "La frase verbale con oggetto diretto"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # Lezione 7
 
 
-::: center
+::: verse-box
 **Proverbio della settimana**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Dio trionfa, non il demone.
 ::: grammar-box
 **Schema:**
 **(Agente = kartṛ m. = ⟪कर्तृ⟫) – oggetto diretto (karman n. = ⟪कर्मन्⟫) – verbo**
+:::
 
+::: indent
 ad esempio
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma mangia (mangia) un frutto."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Il brāhmaṇo venera una divinità con un sacrificio (per qualcun altro)."

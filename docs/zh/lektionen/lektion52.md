@@ -2,7 +2,7 @@
 title: "第52課"
 subtitle: "以-i和-u結尾的名詞中性格"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

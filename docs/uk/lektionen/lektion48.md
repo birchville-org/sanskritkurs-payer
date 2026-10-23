@@ -2,7 +2,7 @@
 title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -11,7 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -198,7 +198,7 @@ status: stable
 
 Утворені слова мають значення:
 
-> "той, що має певне відношення до того, що позначено основним словом"
+"той, що має певне відношення до того, що позначено основним словом"
 
 наприклад,
 
@@ -265,8 +265,6 @@ status: stable
 Рис.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Джерело зображення: [Деталі](/uk/licenses#lekt4802))
-::: \<!--  -→
-
 :::
 ::: media
 ![](/images/lekt4803.webp)

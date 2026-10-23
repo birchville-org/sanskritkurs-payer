@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (dienslewende stand).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Die vier stande (varṇa)**
+
 Volgens die klassieke teorie (bv. Manusmṛti I, 88-91) is die take verdeel:
 
 **van die Brahmanen**
@@ -463,8 +465,6 @@ vir **yaj** 1 U:
 ::: note-box
 In Indië het men aan die ware woord magiese krag toegeskryf, ja die hele wêreldorde word deur die ware woord behou en geskep. Vir hierdie belangrike voorstelling sien die fundamentele werk:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Afbeelding: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: Akk.; over iets: Akk.)
 **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij „vechten met“ enz.) (Postpositie met Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap geredigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Afbeelding: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : vragen (iemand: Akk.; over iets: Akk.)
 **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij „vechten met“ enz.) (Postpositie met Instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit die nalatenskap redigeer deur Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna en die Ṛta. -- 1959. -- XXIII bl., bl. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Leer die volgende woorde:
 **eva** ⟪एव⟫ : beklemtoon voorafgaande woord
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritueel, goddelik.'
->
-> In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriers. In die betekenis van 'god' is dit toegepas op verskeie van die hoofdeïteite, soos Indra, Agni en Varuṇa. Dit het later 'n heeltemal teenoorgestelde betekenis verkry en het, soos nou, 'n demon of vyand van die gode beteken.
->
-> Die woord word met hierdie betekenis gevind in die later dele van die Ṛgveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brāhmaṇas heg dieselfde betekenis daaraan en registreer baie gevegte tussen die Asuras en die gode. Volgens die Taittirīya Brāhmaṇa is die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my Asuras geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling, en stel dat "hy Asuras uit sy laer asem geskep het." Die Taittirīya Āraṇyaka verteenwoordig dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat mors was ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
->
-> Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) geproduseer. Die rekening van die Vāyu Purāṇa is: "Asuras is eerste as seuns uit sy (Prajāpati's) lies geproduseer. *Asu* word deur Brāhmaṇa verklaar om asem te beteken. Van dit hierdie wesens is geproduseer; vandaar hulle is Asuras." Die woord word lankal gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander afstammelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
->
-> In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' maar die aanvanklike *a* word geneem as die negatiewe voorvoegsel, en *asura* beteken 'n god nie; vandaar, volgens sommige, het die woord *sura* ontstaan, algemeen gebruik vir 'n god.'"
->
-> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritueel, goddelik.'
+
+In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriers. In die betekenis van 'god' is dit toegepas op verskeie van die hoofdeïteite, soos Indra, Agni en Varuṇa. Dit het later 'n heeltemal teenoorgestelde betekenis verkry en het, soos nou, 'n demon of vyand van die gode beteken.
+
+Die woord word met hierdie betekenis gevind in die later dele van die Ṛgveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brāhmaṇas heg dieselfde betekenis daaraan en registreer baie gevegte tussen die Asuras en die gode. Volgens die Taittirīya Brāhmaṇa is die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my Asuras geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling, en stel dat "hy Asuras uit sy laer asem geskep het." Die Taittirīya Āraṇyaka verteenwoordig dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat mors was ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
+
+Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) geproduseer. Die rekening van die Vāyu Purāṇa is: "Asuras is eerste as seuns uit sy (Prajāpati's) lies geproduseer. *Asu* word deur Brāhmaṇa verklaar om asem te beteken. Van dit hierdie wesens is geproduseer; vandaar hulle is Asuras." Die woord word lankal gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander afstammelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
+
+In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' maar die aanvanklike *a* word geneem as die negatiewe voorvoegsel, en *asura* beteken 'n god nie; vandaar, volgens sommige, het die woord *sura* ontstaan, algemeen gebruik vir 'n god.'"
+
+[Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2139,7 +2141,7 @@ Toek. ⟪अशिष्यति⟫
 Pass. ⟪अश्यते⟫  
 Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
-> Inf. ⟪अशितुम्⟫
+Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
@@ -2875,7 +2877,7 @@ Toekoms. ⟪ग्लास्यति⟫
 Pass. ⟪ग्लायते⟫  
 Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
-> Inf. ⟪ग्लातुम्⟫  
+Inf. ⟪ग्लातुम्⟫
 Absol. -⟪ग्लाय⟫
 :::
 ⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : iets ruik
@@ -2886,7 +2888,7 @@ Toekoms. ⟪घ्रास्यति⟫
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
 PPP ⟪घ्रात । घ्राण⟫  
-> Inf. ⟪घ्रातुम्⟫  
+Inf. ⟪घ्रातुम्⟫
 Absol. -⟪घ्राय⟫
 :::
 ⟪प्री⟫ 9U ⟪प्रीणति⟫ : vermaak, bly wees; liefhê, gunstig teenoor iemand wees
@@ -2897,48 +2899,50 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Toekoms. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-> Kaus. :sig[⟪प्रीणयति⟫]  
-> PPP ⟪प्रीत⟫  
-> Inf. ⟪प्रेतुम्⟫
+Kaus. :sig[⟪प्रीणयति⟫]
+PPP ⟪प्रीत⟫
+Inf. ⟪प्रेतुम्⟫
 :::
-> ⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : raak
+::: indent
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : raak
+:::
 
 ::: indent
-> Perf. IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-> Toekoms. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
-> Pass. ⟪स्पृश्यते⟫  
-> Kaus. ⟪स्पर्शयति⟫  
-> PPP ⟪स्पृष्ट⟫  
-> Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
-> Absol. -⟪स्पृश्य⟫
+Perf. IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫
+Toekoms. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫
+Pass. ⟪स्पृश्यते⟫
+Kaus. ⟪स्पर्शयति⟫
+PPP ⟪स्पृष्ट⟫
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫
+Absol. -⟪स्पृश्य⟫
 :::
-> ::: media
-> ![](/images/lekt3606.webp)
+::: media
+![](/images/lekt3606.webp)
 Afb.: ⟪सुगतो भूमीं पस्पर्श⟫
-> (Beeldbron: [Details](/licenses#lekt3606))
-> :::
-> ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : styf word: regop staan (hare), bly wees oor (Instr., Akk., Lok.)
+(Beeldbron: [Details](/licenses#lekt3606))
+:::
+::: indent
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : styf word: regop staan (hare), bly wees oor (Instr., Akk., Lok.)
+:::
 
 ::: indent
-> Perf. II ⟪जहर्ष⟫  
-> Toekoms. ⟪हर्षिष्यति⟫  
-> Pass. ⟪हृष्यते⟫  
-> Kaus. ⟪हर्षयति⟫  
-> PPP ⟪हृषित⟫
+Perf. II ⟪जहर्ष⟫
+Toekoms. ⟪हर्षिष्यति⟫
+Pass. ⟪हृष्यते⟫
+Kaus. ⟪हर्षयति⟫
+PPP ⟪हृषित⟫
 :::
-> ::: media
-> ![](/images/lekt3604.webp)
+::: media
+![](/images/lekt3604.webp)
 Afb.: ⟪लोमहर्षः⟫
-> (Beeldbron: [Details](/licenses#lekt3604))
-> :::
+(Beeldbron: [Details](/licenses#lekt3604))
+:::
 
-> ⟪स्वक⟫ 3: eie (myne, joune ...) m.: lid
+::: indent
+⟪स्वक⟫ 3: eie (myne, joune ...) m.: lid
+:::
 
-> ## Les 37
-
-
-
-
+## Les 37
 
 
 
@@ -2948,7 +2952,13 @@ Afb.: ⟪लोमहर्षः⟫
 
 
 
-> ⟪मूर्ख⟫ 3: stompsinnig, dom, dwaas m. Domkop
+
+
+
+
+::: indent
+⟪मूर्ख⟫ 3: stompsinnig, dom, dwaas m. Domkop
+:::
 
 ⟪मुनि⟫ m.: Wise man, (silent) ascetic
 
@@ -3790,7 +3800,9 @@ daarvan:
 :::
 Vir ⟪राहु⟫ en ⟪केतु⟫ sien:
 
-> **Payer, Alois (1944–):** Dharmashastra : Inleiding en oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu (Kielhorn). -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Inleiding en oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu (Kielhorn). -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Afb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4406,7 +4418,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sind to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)
@@ -4856,6 +4870,6 @@ Toek. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण । त्रात⟫
-> Inf. ⟪त्रातुम्⟫
+Inf. ⟪त्रातुम्⟫
 :::
 

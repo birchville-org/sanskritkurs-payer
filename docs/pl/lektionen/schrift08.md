@@ -1,3 +1,4 @@
+
 # Ćwiczenie pisma 8
 
 Znaki samogłoskowe na początku słowa, jeśli słowo nie jest połączone w zapisie z poprzednim słowem:

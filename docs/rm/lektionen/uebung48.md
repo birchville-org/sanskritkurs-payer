@@ -2,7 +2,7 @@
 title: "Esercitaziun 48"
 uebung_id: 48
 category: "Esercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

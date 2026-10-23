@@ -2,7 +2,7 @@
 title: "Pratimas 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Karaliaus ⟪शूद्रक⟫ iš ⟪विदिशा⟫ klausimai papūg
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Karalius tarė: „Palikime tai ramybėje! Patenkinkite mūsų smalsumą! Viešpatie, papasakokite nuo pat pradžių: kurioje šalyje jūs gimėte? Kas jums davė vardą? Kas yra jūsų motina? Kaip įgijote Vedas? Kaip susipažinote su mokslinėmis žiniomis? Iš kur įgijote menų žinių? Ar prisimenate ankstesnius gimimus, ar galite išpildyti norus? Ar gyvenate pasislėpę, apsirengęs paukščio drabužiu? Arba kur anksčiau gyvenote? Arba kiek jums metų? Kaip patekote į narvą? Ir kaip atsidūrėte Candalų rankose? Arba kaip čia patekote?“
-\>
-> Vaiampajana, kuris buvo paklaustas žemės valdovo su spontaniškai kilusiu smalsumu ir dideliu pagarba, trumpai pagalvojo ir tada atsakė pilnas pagarbos: „Karaliau, tai ilga istorija. Jei jus domina, pasiklausykite!“
+::: indent
+Karalius tarė: „Palikime tai ramybėje! Patenkinkite mūsų smalsumą! Viešpatie, papasakokite nuo pat pradžių: kurioje šalyje jūs gimėte? Kas jums davė vardą? Kas yra jūsų motina? Kaip įgijote Vedas? Kaip susipažinote su mokslinėmis žiniomis? Iš kur įgijote menų žinių? Ar prisimenate ankstesnius gimimus, ar galite išpildyti norus? Ar gyvenate pasislėpę, apsirengęs paukščio drabužiu? Arba kur anksčiau gyvenote? Arba kiek jums metų? Kaip patekote į narvą? Ir kaip atsidūrėte Candalų rankose? Arba kaip čia patekote?“
+
+Vaiampajana, kuris buvo paklaustas žemės valdovo su spontaniškai kilusiu smalsumu ir dideliu pagarba, trumpai pagalvojo ir tada atsakė pilnas pagarbos: „Karaliau, tai ilga istorija. Jei jus domina, pasiklausykite!“
+:::
 
 ::: media
 ![](/images/uebung079.webp)

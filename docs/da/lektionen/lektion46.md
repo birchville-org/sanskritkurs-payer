@@ -2,7 +2,7 @@
 title: "Lektion 46"
 subtitle: "Dannelsen af verbalformer for 2. person (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -466,7 +466,9 @@ deraf:
 
 Se til ⟪राहु⟫ og ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Introduktion og oversigt. -- 10. Sakramenter og overgangsritualer (samskara). -- Appendiks C: Rahu og Ketu, de usynlige vandreende stjerner . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Introduktion og oversigt. -- 10. Sakramenter og overgangsritualer (samskara). -- Appendiks C: Rahu og Ketu, de usynlige vandreende stjerner . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

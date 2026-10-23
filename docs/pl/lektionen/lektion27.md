@@ -2,7 +2,7 @@
 title: "Lekcja 27"
 subtitle: 'Użycie lokativu (⟪सप्तमी⟫ f. = \"siódmy przypadek\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) na pytanie "Gdzie?" oznacza przestrzeń, w (na, przy) której agens (⟪कर्ता⟫) lub obiekt czynności się znajduje, albo gdzie sama czynność ma miejsce.**
 
-> ⟪नगरे वसति⟫ = "On mieszka w mieście"
+⟪नगरे वसति⟫ = "On mieszka w mieście"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Dżajpur, 1875.
 
 **2. Lokativ na pytanie "Kiedy?" oznacza moment czasu lub zewnętrzne okoliczności:**
 
-> ⟪तस्मिन्काले⟫ = "w owym momencie, w tym czasie"
+⟪तस्मिन्काले⟫ = "w owym momencie, w tym czasie"
 
 **Należy tu również zaliczyć tzw. Locativus Absolutus:**
 
 **Jeśli czynność lub stan osoby lub rzeczy wyznacza czas, w którym - lub okoliczności, pod którymi - INNA osoba lub rzecz dokonuje czynności lub znajduje się w określonym stanie, wtedy słowo oznaczające pierwszą osobę lub rzecz wraz ze słowem ją bliżej określającym (często jest to imiesłów) występuje w lokatywie (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "gdy czas tak mija..."
-\>
-> ⟪तस्मिन्गते⟫ = "gdy on odszedł..."
+⟪एवं गच्छति काले⟫ = "gdy czas tak mija..."
+
+⟪तस्मिन्गते⟫ = "gdy on odszedł..."
 
 **Czasami agens (⟪कर्ता⟫) nie jest wyraźnie oznaczony:**
 
-> ⟪एवं सति⟫ = "skoro tak się rzecz ma"
+⟪एवं सति⟫ = "skoro tak się rzecz ma"
 
 **Locativus absolutus należy tłumaczyć w zależności od kontekstu jako "podczas" (np. imiesłów czasu teraźniejszego), "po", "gdy" (np. PPP), "skoro", "ponieważ", "mimo że", "jeśli" itp.**
 
@@ -69,7 +69,7 @@ Radżastan.
 
 **3. Lokatyw występuje również na pytanie „W odniesieniu do czego?” itp.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Ma miłość do swojego syna” (dosł. „W odniesieniu do synu jest przy nim miłość”)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Ma miłość do swojego syna” (dosł. „W odniesieniu do synu jest przy nim miłość”)
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokatyw służy w rodzimych słownikach i u komentatorów do podania znaczenia słowa:**
 
-> ⟪भू सत्तायाम्⟫ = „korzeń ⟪भू⟫ w znaczeniu 'bytność' (sat-tā)”
+⟪भू सत्तायाम्⟫ = „korzeń ⟪भू⟫ w znaczeniu 'bytność' (sat-tā)”
 
 :::
 Dalsze informacje na temat użycia lokatywu później.

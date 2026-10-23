@@ -2,7 +2,7 @@
 title: Lektion 27
 subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -24,7 +24,7 @@ status: stable
 
 **1. Der Lokativ (⟪सप्तमी⟫) bezeichnet auf die Frage "Wo?" den Raum, in (an, auf, bei) welchem der Agens (⟪कर्ता⟫) oder das Objekt einer Handlung sich befindet oder wo die Handlung selbst vor sich geht.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "Er wohnt in der Stadt"
+⟪नगरे⟫ ⟪वसति⟫ = "Er wohnt in der Stadt"
 
 :::
 ::: media
@@ -38,19 +38,19 @@ Jaipur, 1875.
 
 **2. Der Lokativ bezeichnet auf die Frage "Wann?" den Zeitpunkt oder die äusseren Umstände:**
 
-> ⟪तस्मिन्काले⟫ = "zu jenem Zeitpunkt, zu dieser Zeit"
+⟪तस्मिन्काले⟫ = "zu jenem Zeitpunkt, zu dieser Zeit"
 
 **Hierher gehört auch der sog. Locativus Absolutus:**
 
 **Bestimmt die Handlung oder der Zustand einer Person oder Sache die Zeit, zu welcher - oder die Umstände, unter denen - eine ANDERE Person oder Sache eine Handlung vollbringt oder sich in einem bestimmten Zustand befindet, so tritt das die erste Person oder Sache bezeichnende Wort zusammen mit dem dasselbe näher bestimmenden Wort (das häufig ein Partizip ist) in den Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit so vergeht..."
-\>
-> ⟪तस्मिन्गते⟫ = "als er gegangen war..."
+⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit so vergeht..."
+
+⟪तस्मिन्गते⟫ = "als er gegangen war..."
 
 **Manchmal wird der Agens (⟪कर्ता⟫) nicht extra bezeichnet:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "da es sich so verhält"
+⟪एवं⟫ ⟪सति⟫ = "da es sich so verhält"
 
 **Der Locativus absolutus muss je nach Zusammenhang übersetzt werden mit "während" (z.B. Partizip Präsens), "nachdem", "als" (z.B. PPP), "da", "weil", "obwohl", "wenn" u.s.w.**
 
@@ -68,7 +68,7 @@ Rajasthan.
 
 **3. Der Lokativ steht auch auf die Frage "In Bezug auf was?" u.ä.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Er hat Liebe zu seinem Sohn" (wörtl. "In Bezug auf den Sohn ist bei ihm Liebe")
+⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Er hat Liebe zu seinem Sohn" (wörtl. "In Bezug auf den Sohn ist bei ihm Liebe")
 
 :::
 ::: media
@@ -82,7 +82,7 @@ Holi.
 
 **4. Der Lokativ dient in den einheimischen Lexika und bei Kommentatoren zur Angabe der Bedeutung eines Worts:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)"
+⟪भू⟫ ⟪सत्तायाम्⟫ = "die Wurzel ⟪भू⟫ in der Bedeutung 'Seiendheit' (sat-tā)"
 
 :::
 Weiteres zum Gebrauch des Lokativ später.

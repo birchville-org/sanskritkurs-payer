@@ -2,7 +2,7 @@
 title: "Lekcja 46"
 subtitle: "Tworzenie form czasownikowych drugiej osoby (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -368,7 +368,9 @@ pochodne:
 :::
 W sprawie ⟪राहु⟫ i ⟪केतु⟫ zobacz:
 
-> **Payer, Alois (1944–):** Dharmashastra : Wprowadzenie i przegląd. -- 10. Sakramenty i rytuały przejścia (samskara). -- Dodatek C: Rahu i Ketu, niewidoczne planety . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Wprowadzenie i przegląd. -- 10. Sakramenty i rytuały przejścia (samskara). -- Dodatek C: Rahu i Ketu, niewidoczne planety . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Ilustracja: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/pl/licenses#lekt4602)

@@ -2,7 +2,7 @@
 title: "Bài 55"
 subtitle: "Aorist nguyên mẫu (Aorist với nguyên âm chủ đề)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

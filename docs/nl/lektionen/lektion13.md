@@ -2,7 +2,7 @@
 title: "Les 13"
 subtitle: "PPP op -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -165,17 +165,19 @@ Leer de volgende woorden:
 - **eva** ⟪एव⟫ : benadrukt het voorgaande woord
 - **asura** m. ⟪असुर⟫ : demon
 
-\> **ASURA.** ‘Geestelijk, goddelijk.’
-\>
-\> In de oudste delen van de Ṛgveda wordt deze term gebruikt voor de allerhoogste geest, en is hij hetzelfde als de Ahura van de zoroastriërs. In de betekenis van ‘god’ werd hij toegepast op verschillende van de belangrijkste goden, zoals Indra, Agni en Varuṇa. Later kreeg het een volkomen tegengestelde betekenis en ging het, net als nu, een demon of vijand van de goden aanduiden.
-\>
-\> Het woord komt met deze betekenis voor in de latere delen van de Ṛgveda, met name in het laatste boek, en ook in de Atharvaveda. De Brāhmaṇa’s kennen er dezelfde betekenis aan toe en vermelden vele strijdtochten tussen de Asura’s en de goden. Volgens de Taittirīya Brāhmaṇa kwam de adem *(asu)* van Prajapati tot leven, en „met die adem schiep hij ons, de Asura’s“. In een ander deel van hetzelfde werk wordt gezegd dat Prajāpati „zwanger werd. Hij schiep Asura’s uit zijn buik.“ De Śatapatha Brāhmaṇa sluit aan bij de eerdere uitspraak en stelt dat „hij Asura’s schiep uit zijn lagere adem“. De Taittirīya Āraṇyaka beschrijft dat Prajāpati goden, mensen, vaders, Gandharva’s en Apsara’s uit water schiep, en dat de Asura’s, Rakṣasa’s en Piśāca’s voortkwamen uit de druppels die werden gemorst. Manu stelt dat zij door de Prajāpati’s werden geschapen.
-\>
-\> Volgens de Viṣṇu Purāṇa werden zij voortgebracht uit de lies van Brahma (prajāpati). Het verslag van de Vāyu Purāṇa luidt: „Asura’s werden eerst als zonen voortgebracht uit zijn (Prajāpati’s) lies. *Asu* wordt door de Brāhmaṇa’s verklaard als ‘adem’. Daaruit werden deze wezens voortgebracht; vandaar dat zij Asura’s zijn.” Het woord wordt al lang gebruikt als algemene benaming voor de vijanden van de goden, waaronder de Daitya’s en Danava’s en andere afstammelingen van Kaśyapa, maar met uitzondering van de Rakṣasa’s die afstammen van Pulastya.
-\>
-\> In deze betekenis is er een andere afleiding voor gevonden: de bron is niet langer *asu*, ‘adem’, maar de beginletter *a* wordt opgevat als het ontkennende voorvoegsel, en *asura* betekent ‘geen god’; vandaar is volgens sommigen het woord *sura* ontstaan, dat gewoonlijk wordt gebruikt voor ‘een god’."
-\>
-\> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- Londen, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** ‘Geestelijk, goddelijk.’
+
+In de oudste delen van de Ṛgveda wordt deze term gebruikt voor de allerhoogste geest, en is hij hetzelfde als de Ahura van de zoroastriërs. In de betekenis van ‘god’ werd hij toegepast op verschillende van de belangrijkste goden, zoals Indra, Agni en Varuṇa. Later kreeg het een volkomen tegengestelde betekenis en ging het, net als nu, een demon of vijand van de goden aanduiden.
+
+Het woord komt met deze betekenis voor in de latere delen van de Ṛgveda, met name in het laatste boek, en ook in de Atharvaveda. De Brāhmaṇa’s kennen er dezelfde betekenis aan toe en vermelden vele strijdtochten tussen de Asura’s en de goden. Volgens de Taittirīya Brāhmaṇa kwam de adem *(asu)* van Prajapati tot leven, en „met die adem schiep hij ons, de Asura’s“. In een ander deel van hetzelfde werk wordt gezegd dat Prajāpati „zwanger werd. Hij schiep Asura’s uit zijn buik.“ De Śatapatha Brāhmaṇa sluit aan bij de eerdere uitspraak en stelt dat „hij Asura’s schiep uit zijn lagere adem“. De Taittirīya Āraṇyaka beschrijft dat Prajāpati goden, mensen, vaders, Gandharva’s en Apsara’s uit water schiep, en dat de Asura’s, Rakṣasa’s en Piśāca’s voortkwamen uit de druppels die werden gemorst. Manu stelt dat zij door de Prajāpati’s werden geschapen.
+
+Volgens de Viṣṇu Purāṇa werden zij voortgebracht uit de lies van Brahma (prajāpati). Het verslag van de Vāyu Purāṇa luidt: „Asura’s werden eerst als zonen voortgebracht uit zijn (Prajāpati’s) lies. *Asu* wordt door de Brāhmaṇa’s verklaard als ‘adem’. Daaruit werden deze wezens voortgebracht; vandaar dat zij Asura’s zijn.” Het woord wordt al lang gebruikt als algemene benaming voor de vijanden van de goden, waaronder de Daitya’s en Danava’s en andere afstammelingen van Kaśyapa, maar met uitzondering van de Rakṣasa’s die afstammen van Pulastya.
+
+In deze betekenis is er een andere afleiding voor gevonden: de bron is niet langer *asu*, ‘adem’, maar de beginletter *a* wordt opgevat als het ontkennende voorvoegsel, en *asura* betekent ‘geen god’; vandaar is volgens sommigen het woord *sura* ontstaan, dat gewoonlijk wordt gebruikt voor ‘een god’."
+
+[Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- Londen, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

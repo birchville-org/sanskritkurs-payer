@@ -2,7 +2,7 @@
 title: "Lekcia 58"
 subtitle: "Primárne koncovky duálu (⟪द्विवचनम्⟫)"
 lesson_id: 58
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

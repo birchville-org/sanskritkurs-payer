@@ -2,7 +2,7 @@
 title: "පාඩම 43"
 subtitle: 'දෙවන පුද්ගලයා සඳහා වූ විශේෂ පරිසමාප්ති (⟪मध्यमः⟫ = "මධ්‍යම <පුද්ගලයා>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

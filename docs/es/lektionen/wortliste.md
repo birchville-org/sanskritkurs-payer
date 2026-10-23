@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (orden de servicios).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Los cuatro estamentos (varṇa)**
+
 Según la teoría clásica (p. ej., Manusmṛti I, 88-91), las tareas se distribuyen:
 
 **de los Brahmanes**
@@ -463,8 +465,6 @@ a **yaj** 1 U:
 ::: note-box
 En la India se atribuía al palabra verdadera un poder mágico; de hecho, todo el orden cósmico se mantiene y crea mediante la palabra verdadera. Para esta importante concepción, véase la obra fundamental:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf a partir del manuscrito. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : preguntar (a alguien: Ac.; por algo: Ac.)
 **saha** ⟪सह⟫ : junto con, en compañía de (también en el contexto de „luchar contra“ etc.) (Posposición con Instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf a partir del manuscrito. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : preguntar (a alguien: Ac.; por algo: Ac.)
 **saha** ⟪सह⟫ : junto con, en compañía de (también en el contexto de „luchar contra“ etc.) (Posposición con Instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf a partir del manuscrito. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Aprenda las siguientes palabras:
 **eva** ⟪एव⟫ : enfatiza la palabra precedente
 **asura** m. ⟪असुर⟫ : demonio
 
-> **ASURA.** 'Espiritual, divino.'
->
-> En las partes más antiguas del Ṛgveda este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios' se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
->
-> Esta palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati cobró vida y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó a los Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la primera afirmación y establece que "creó a los Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La afirmación de Manu es que fueron creados por los Prajāpatis.
->
-> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (de Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
->
-> En este sentido se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios.'"
->
-> [Fuente: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Espiritual, divino.'
+
+En las partes más antiguas del Ṛgveda este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios' se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
+
+Esta palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati cobró vida y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó a los Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la primera afirmación y establece que "creó a los Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La afirmación de Manu es que fueron creados por los Prajāpatis.
+
+Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (de Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
+
+En este sentido se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios.'"
+
+[Fuente: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3790,7 +3792,9 @@ de ello:
 :::
 Para ⟪राहु⟫ y ⟪केतु⟫ véase:
 
-> **Payer, Alois (1944–):** Dharmashastra : Introducción y visión general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Introducción y visión general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4406,7 +4410,9 @@ no se utiliza en los demás tiempos verbales
 
 ⟪अजिन⟫ n.: piel de antílope, especialmente la piel del antílope negro (antílope ciervo: _Antilope cervicapra_ L. ). Originariamente se encontraba en todo el subcontinente indio, desde Punjab y Sind hasta Bengala y desde Nepal hasta Kanyakumari (Cabo Comorín) (Tamil: கன்னியாகுமரி) Véase:
 
-> **Los mamíferos del mundo de Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+::: note-box
+**Los mamíferos del mundo de Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

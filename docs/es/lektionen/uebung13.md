@@ -2,7 +2,7 @@
 title: "Ejercicio 13"
 uebung_id: 13
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -278,7 +278,5 @@ E) Traduzca al sánscrito:
 
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung018))
-
-::: \<!--  --\>
 
 :::

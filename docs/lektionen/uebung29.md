@@ -2,7 +2,7 @@
 title: "Übung 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,10 +27,12 @@ Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absol
 
 Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische (mātsyanayāya). Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
 
-> Die Welt mit ihren vier Ständen und Lebensstadien  
-> Wird vom König durch das Regiment beschützt:  
-> Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
-> Bewegt sie sich auf ihren eigenen Bahnen.
+::: indent
+Die Welt mit ihren vier Ständen und Lebensstadien
+Wird vom König durch das Regiment beschützt:
+Froh über die Tätigkeit nach eigenem Recht und eigener Sitte
+Bewegt sie sich auf ihren eigenen Bahnen.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

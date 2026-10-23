@@ -2,7 +2,7 @@
 title: "Oppitunti 4"
 subtitle: "Kysyvät pronominit ja demonstratiivipronominit nominativissa"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Näiden pronominaalien avulla muodostetaan esimerkiksi seuraavat kysymyslauseet:
 :::
 Esimerkki muista kysymyksistä:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟩ Vastaus: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Tässä nominilauseessa voi esimerkiksi asettaa subjektin alkuun korostaakseen yhteyttä kysymykseen.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟩ Vastaus: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Tässä nominilauseessa voi esimerkiksi asettaa subjektin alkuun korostaakseen yhteyttä kysymykseen.)
+:::
 
 HUOMAUTUS: Vastaukset, joita voit antaa näihin kysymyksiin aiemman sanskritintuntemuksesi perusteella, eivät tietenkään vielä ole kaikilta osin idiomattisesti hyvää sanskritia.
 

@@ -2,7 +2,7 @@
 title: "บทที่ 16"
 subtitle: "เรื่อง สันธิ ของพยัญชนะท้าย"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

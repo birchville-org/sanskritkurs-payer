@@ -2,7 +2,7 @@
 title: "ትምህርት 7"
 subtitle: "ቀጥተኛ ነገር ያለውን የግስ ሐረግ"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # ትምህርት 7
 
 
-::: center
+::: verse-box
 **የሳምንት አባባል**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **ስኬማ፡**
 **(ግብረኛ = kartṛ m. = ⟪कर्तृ⟫) – ቀጥታ ቁጥጥር (karman n. = ⟪कर्मन्⟫) – ግስ**
+:::
 
+::: indent
 ለምሳሌ
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "ራማ ፍሬ ይበላል (ይበላል)።"
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "ብራህማኑ አምላክን በቅዳሜ (ለሌላ ሰው) ይከብረዋል።"

@@ -2,7 +2,7 @@
 title: Lektion 23
 subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -14,28 +14,28 @@ status: stable
 ::: grammar-box
 **Per exprimir en sànscrit qu’ina activitad vegnia exercida per l’emprim d’ina autra activitad (“per far”), po usar si per l’activitad, per la quala ella vegnia exercida, l’infinitiv (⟪तुमुन्⟫). L’infinitiv designescha en emprima lingia lo scop u l’intenziun:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma è ì, per audir il discurs dal magister."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma è ì, per audir il discurs dal magister."
 
 **Notai che l'infinitiv - cun quai ch'ins cumpetidas excepziuns - na po betg figurer sco subject u object d'in verbi:**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
+"Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
 
 **L'infinitiv vegn er anuzà cun verbs e sustantivs en il significà «vesser» u «sperar», sche l'agens (⟪कर्तृ⟫) da l'infinitiv e dal verb èn identics:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = «Rāma vulèl audir il discurs dal maister.»
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = «Rāma vulèl audir il discurs dal maister.»
 
 **L'infinitiv vegn adina puspè duvrà cun verbs en il significà « esser capable », « exister », « savair », « cumenzar »:**
 
-> ⟪⟪साधुरधर्मं⟫⟪कर्तुं⟫⟪न⟫⟪शक्नोति⟫ = "In sanctus male facere non potest."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Est cibus edendi" (⟪भुज्⟫ 7: Ā: edere, P: regere)
+⟪⟪साधुरधर्मं⟫⟪कर्तुं⟫⟪न⟫⟪शक्नोति⟫ = "In sanctus male facere non potest."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Est cibus edendi" (⟪भुज्⟫ 7: Ā: edere, P: regere)
 
 **L infinitiv vegn adina emprimà cun pleds en il significà «suficient», «capabel» e cun sustantivs en il significà «capacitad», «pussaivladad», «abilità»:**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Il fieu ha la pussaivladad da brisar tut."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Il fieu ha la pussaivladad da brisar tut."
 
 **Anche cun paraulas en il significà «temp» po l'infinitiv vegnir adina en exprissiuns sco «È temp da ...»:**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "È temp da s'occupar dal mangiar" = "È temp da mangiar"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "È temp da s'occupar dal mangiar" = "È temp da mangiar"
 
 **L'infinitiv pozz' vegnir duvrà activamain e passivamain. In infinitiv passiv en tudestg vegn represchentà en il sanscrit cun il fatg che il verb (fitg spess ⟪शक्⟫ "esser abilità, pudair"), da il qual l'infinitiv dependa, vegn mess al passiv.**
 
@@ -43,13 +43,13 @@ status: stable
 
 p.ex.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "In sanctus male facere non potest."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "In sanctus male facere non potest."
 
 **En la 2. persuna vegn ⟪अर्ह्⟫ + infinitiv savens dovrad sco cumand moderat: "ti duessas".**
 
 **Penda l'infinitiv d'in nomen, na dastga el betg vegnir collià cun chel sco cumpositum. Scartads èn ils Bahuvrīhi, dals quals il membrum posteriur è ⟪काम⟫ u ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "in che vul dir; un che descria da dir".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "in che vul dir; un che descria da dir".
 :::
 ## 23.2. Furmaziun dal infinitiv (⟪tumun⟫)
 

@@ -2,7 +2,7 @@
 title: "ਵਿਅਾਸ ੨੧"
 uebung_id: 21
 category: "ਵਿਅਾਸ"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

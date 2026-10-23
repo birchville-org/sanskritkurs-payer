@@ -2,7 +2,7 @@
 title: "Lección 45"
 subtitle: "Formación de las formas verbales de la segunda persona (⟪मध्यमः⟫) de las raíces atemáticas sin sufijo que termine en vocal (continuación)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

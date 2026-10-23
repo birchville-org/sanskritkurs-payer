@@ -2,7 +2,7 @@
 title: "Ura 51"
 subtitle: "⟪उपपद⟫-zloženi"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -493,7 +493,9 @@ npr. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: koža antilope, zlasti črna antilopa (črnoznana antilopa : _Antilope cervicapra_ L. ). Izvirno je živela po celotnem indijskem podkontinentu od Pandžaba in Sinda do Bengala ter od Nepala do Kanyakumarija (rt Comorin) (Tamil: கன்னியாகுமரி) Glej:
 
-> **Walkerjevi sesalci sveta** / Ronald M. Nowak. -- 6. izd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 zvezka. -- ISBN 0-8018-5789-9. -- Zv. 2. -- Str. 1193f.
+::: note-box
+**Walkerjevi sesalci sveta** / Ronald M. Nowak. -- 6. izd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 zvezka. -- ISBN 0-8018-5789-9. -- Zv. 2. -- Str. 1193f.
+:::
 
 ::: media
 
@@ -518,7 +520,7 @@ Glej ⟪ऋतु⟫ v Manu III, 45-48: po tem ⟪ऋतु⟫ traja 16 dni (po 
 
 Ker ovulacija poteka 14 dni pred začetkom mesečnega krvavenja, je pri tej določitvi plodnega obdobja plodnost skoraj "zagotovljena" za razmik mesečnih krvavenj od 19 do 30 dni. Prepovedani dnevi (11. in 13.) izboljšajo verjetnost za spolni odnos na 12. in 14. dan, to je verjetnost zanositve pri ciklusu 28 dni (življenjska doba spermijev v ženski je približno 3 dni). Te določbe so kot nekakšen pozitiven upor metode Knaus-Ogino.
 
-> **Walkerjevi sesalci sveta** / Ronald M. Nowak. -- 6. izd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 zvezka. -- ISBN 0-8018-5789-9. -- Zv. 2. -- Str. 1193f.
+**Walkerjevi sesalci sveta** / Ronald M. Nowak. -- 6. izd. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 zvezka. -- ISBN 0-8018-5789-9. -- Zv. 2. -- Str. 1193f.
 
 :::
 ::: media

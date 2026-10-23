@@ -3,8 +3,8 @@ title: "Урок 2"
 subtitle: "Именната конструкция и основите на склонението"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Схема: Предикатно име - Подлог**
+:::
 
+::: indent
 напр. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Вишну е бог."
 :::
 Глаголна копула ("е", "са", "съм", "си", "сте") не е необходима, но понякога може да се срещне.
@@ -76,11 +78,13 @@ last_reconstructed: 2026-04-30
 
 Вижте също обобщението:
 
-> **Payer, Alois (1944–):** Сандхи на изходящо -s. -- (Материали по санскрит). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Сандхи на изходящо -s. -- (Материали по санскрит). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Крайно **-s**:
 
-**im absoluten Auslaut** (Satzende) се превръща в **Visarga (-ḥ)**:
+**в абсолютен ауслаут** (край на изречението) се превръща в **Visarga (-ḥ)**:
 **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
 **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
 **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** м. -- ⟪शूद्र⟫ : Шудра (съсловие на служителите).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Четирите съсловия (varṇa)**
+
 Според класическата теория (напр. Manusmṛti I, 88-91) задачите са разпределени:
 
 **на брахманите**

@@ -2,7 +2,7 @@
 title: "Leksjon 39"
 subtitle: 'The personal endings of the first person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**third** person")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Učenje 39"
 subtitle: 'Osebne končnice prve osebe (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**tretja** oseba\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

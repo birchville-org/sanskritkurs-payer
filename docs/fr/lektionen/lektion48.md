@@ -2,7 +2,7 @@
 title: Leçon 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -11,7 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
@@ -250,7 +250,7 @@ Avec le suffixe **-a** et (plus rarement) **-ya**, un autre nom peut être déri
 
 Les mots dérivés ont le sens :
 
-> "ayant une certaine relation avec ce qui est désigné par le mot de base"
+"ayant une certaine relation avec ce qui est désigné par le mot de base"
 
 par exemple :
 

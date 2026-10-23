@@ -2,7 +2,7 @@
 title: "Mësimi 57"
 subtitle: "Aoristi 4: s-Aorist"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

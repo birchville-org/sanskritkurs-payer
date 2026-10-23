@@ -2,7 +2,7 @@
 title: "Lecție 46"
 subtitle: "Formarea formelor verbale de a doua persoană (⟪मध्यमः⟫) Perfectul (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ din acesta:
 :::
 Pentru ⟪राहु⟫ și ⟪केतु⟫ vezi:
 
-> **Payer, Alois (1944–):** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și ritualuri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și ritualuri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Ilustr.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/ro/licenses#lekt4602)

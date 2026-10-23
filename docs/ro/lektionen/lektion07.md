@@ -2,7 +2,7 @@
 title: "Lecție 7"
 subtitle: "Propoziția verbală cu obiect direct"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # Lecția 7
 
 
-::: center
+::: verse-box
 **Cuvântul săptămânii**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Dumnezeu învinge, nu demonul.
 ::: grammar-box
 **Schema:**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – complement direct (karman n. = ⟪कर्मन्⟫) – verb**
+:::
 
+::: indent
 de exemplu:
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫: „Rāma mănâncă (gustă) un fruct.”
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫: „Brahmanul închină unui zeu cu un sacrificiu (pentru altcineva).”

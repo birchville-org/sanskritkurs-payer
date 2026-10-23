@@ -2,7 +2,7 @@
 title: "التمرين 41"
 uebung_id: 41
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Latihan 39"
 uebung_id: 39
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -103,9 +103,9 @@ A) Bentuklah bentuk orang pertama yang sesuai dengan bentuk kata kerja berikut d
 
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung064.webp)
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Image source: [Details](/en/licenses#uebung064))
-::::
 :::

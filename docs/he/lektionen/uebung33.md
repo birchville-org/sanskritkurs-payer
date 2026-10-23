@@ -2,7 +2,7 @@
 title: "תרגיל 33"
 uebung_id: 33
 category: "תרגיל"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,9 +110,9 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung055.webp)
 תמונה: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (מקור תמונה: [פרטים](/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 תמונה: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (מקור תמונה: [פרטים](/licenses#uebung056))
-::::
 :::

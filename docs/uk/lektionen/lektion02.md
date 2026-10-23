@@ -3,8 +3,8 @@ title: "Урок 2"
 subtitle: "Іменний речення та основи відмінювання"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,11 +14,11 @@ last_reconstructed: 2026-04-30
 ## 2.1. Іменний речення
 
 ::: grammar-box
-
 **Схема: предикативне іменник - підмет**
+:::
 
+::: indent
 наприклад, devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Вішну є богом."
-
 :::
 
 Дієслівний зв'язок ("є", "суть", "я є", "ти єси", "ви єсте") не є обов'язковим, але іноді може зустрічатися.
@@ -83,7 +83,9 @@ last_reconstructed: 2026-04-30
 
 Дивіться також огляд:
 
-> **Payer, Alois (1944–):** Sandhi від кінцевого -s. -- (Матеріали з санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi від кінцевого -s. -- (Матеріали з санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Кінцеве **-s**:
 
@@ -96,7 +98,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Шудра (стан обслуговуючого персоналу).
 
-::: note-box Чотири стани (варни)
+::: note-box
+**Чотири стани (варни)**
+
 
 Згідно з класичною теорією (наприклад, Manusmṛti I, 88-91) обов'язки розподілені так:
 

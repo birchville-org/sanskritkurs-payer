@@ -1,3 +1,4 @@
+
 ## Latihan Aksara 8
 
 Tanda vokal untuk awal kata, jika kata tersebut tidak terhubung secara tertulis dengan kata sebelumnya:

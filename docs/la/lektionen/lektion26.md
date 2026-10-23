@@ -2,7 +2,7 @@
 title: "Lectio 26"
 subtitle: "Lex cerebrale pro -s- in medio verbi"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

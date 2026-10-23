@@ -3,8 +3,8 @@ title: "Դաս 8"
 subtitle: "Հոլովվող անունների կազմումը եւ 8-րդ ներկայի դաս"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

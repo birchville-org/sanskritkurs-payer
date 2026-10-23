@@ -2,7 +2,7 @@
 title: "Դաս 6"
 subtitle: "Եղանակի նախադասության կառուցվածքը (գործող և եղանակային ձև)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

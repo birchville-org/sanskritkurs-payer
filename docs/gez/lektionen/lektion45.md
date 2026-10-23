@@ -2,7 +2,7 @@
 title: "ቀጥታ 45"
 subtitle: "የሁለተኛ ሰው ተዋጽኦ ቅርጾች መፍጠር (⟪मध्यमः⟫) ስም-መጨረሻ የሌለው ስም-መሰረት (ቀጣይ)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

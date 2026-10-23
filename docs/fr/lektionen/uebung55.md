@@ -2,7 +2,7 @@
 title: "Exercice 55"
 uebung_id: 55
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -46,9 +46,9 @@ Déterminez et traduisez les formes suivantes, puis formez les formes correspond
 | ⟪३१⟫. | **⟪अशुष्याम⟫** | *:sig[⟪शुष्⟫]* 4P : 1. Pl. Impf. P. (nous devînmes secs) | **⟪अशुषाम⟫** |
 | ⟪३२⟫. | **⟪सिष्णेह⟫** | *:sig[⟪स्निह्⟫]* 4P : 1. 3. Sg. Perf. P. (j'aimais / il aimait) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
 
-:::: media
+:::
+::: media
 ![](/images/uebung092.webp)
 Fig. : ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung092))
-::::
 :::

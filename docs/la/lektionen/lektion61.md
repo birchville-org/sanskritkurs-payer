@@ -753,7 +753,7 @@ Fig.: Melodia, ad c relata, pro qualitate vocis transponi potest.
 
 Postquam nunc fundamenta Sanscriti didicisti, spero te esse sicut infantes in video: interdum ineptus, sed discendi et sciendi cupidus et cum gaudio in re. Retine usque ad finem vitae tuam "mentem principis".
 
-::: center
+::: verse-box
 Hoc tibi optat Alois Payer
 
 Ofterdingen, 2009-03-09

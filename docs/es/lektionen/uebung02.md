@@ -2,7 +2,7 @@
 title: "Ejercicio 2"
 uebung_id: 2
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -106,5 +106,4 @@ sādhur guruḥ.
 ![](/images/uebung002.jpg)
 Fig.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung002))
-::: \<!--  --\>
 :::

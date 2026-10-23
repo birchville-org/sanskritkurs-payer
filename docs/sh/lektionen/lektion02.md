@@ -3,8 +3,8 @@ title: "Lekcija 2"
 subtitle: "Nominalni rečenica i osnive deklinacije"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Šema: Predikatska imenica - Subjekt**
+:::
 
+::: indent
 npr. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu je bog."
 :::
 Verbalna kopula ("je", "jesu", "sam", "si", "ste") nije potrebna, ali se ponekad može pojaviti.
@@ -76,7 +78,9 @@ In Sanskrit, the final sound of a word also depends on the initial sound of the 
 
 See also the overview:
 
-> **Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Final **-s**:
 
@@ -120,7 +124,9 @@ before other vowels: becomes **-a** (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Četiri staleža (varṇa)**
+
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
 **of the Brāhmaṇas**

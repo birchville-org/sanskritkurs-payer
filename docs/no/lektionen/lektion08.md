@@ -3,8 +3,8 @@ title: "Leksjon 8"
 subtitle: "Formation of Nouns & 8. Present Class"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

@@ -71,7 +71,7 @@ Príklady:
 :::
 ## 32.4. Príklady tvorby imperfekta
 
-::: important
+::: warning-box
 **Na demonštráciu tvorby foriem sa tu tvoria aj formy Ātmanepady k koreňom Parasmaipada! Tieto umelé formy sú medzi \< \>.**
 :::
 ### 32.4.1. Tematické triedy prítomného času
@@ -582,7 +582,7 @@ Preložte a určite nasledujúce slovné tvary:
 
 ## 32.9. Prekladové cvičenie
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

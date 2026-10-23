@@ -2,7 +2,7 @@
 title: "Pamoka 10"
 subtitle: "Veikiamasis sakinys (veikėjo instrumentalis)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,15 +13,14 @@ status: stable
 ## 10.1. Veikiamasis sakinys
 
 ::: grammar-box
-
 **Schema:**
 **(Veikėjas - kartṛ - įnagininkas (tṛtīyā)) - (tiesioginis papildinys - karman - vardininkas) - veiksmažodžio veikiamosios rūšies forma**
+:::
 
+::: indent
 pvz. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahmanas garbina dievą aukojimu" (wörtlich: "Dievas yra garbinamas brahmano aukojimu.")
-
 Šis sakinys yra **visiškai (!) reikšmingai tapatus** sakiniui:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
-
 :::
 
 ::: grammar-box
@@ -52,7 +51,7 @@ alternatyviai: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 
 Sanskrito pasyvinės konstrukcijos yra itin dažnos: pasyvas yra lengviau sudaromas nei, pavyzdžiui, daugybė esamojo laiko kamienų.
 
-::: important
+::: warning-box
 
 **Sanskrito neveikiamosios rūšies sakiniai paprastai neturėtų būti verčiami neveikiamąja rūšimi, nes lietuvių kalboje neveikiamoji rūšis atlieka kitokią stilistinę funkciją.**
 
@@ -265,9 +264,6 @@ Pvz., **tan** 8 U.
 
 Indijoje tikėta, kad tiesinis žodis turi magišką galią. Net visa pasaulio tvarka išlaikoma ir sukurta tiesiniu žodžiu. Apie šią svarbią idėją žr. pagrindinį darbą:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -418,7 +414,7 @@ Pav.: ⟪तन्तुवायः⟫
 
 ⟪क १⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||

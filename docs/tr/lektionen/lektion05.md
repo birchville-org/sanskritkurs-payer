@@ -2,7 +2,7 @@
 title: "Ders 5"
 subtitle: "Kelime bileşiklerinin (samāsa) temelleri"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Bileşiklerin (sadece dvandvalar değil) ön üyeleri genellikle değişmemiş *
 Çoğul dvandvalara örnekler:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanlar, Kṣatriyalar, Vaişyalar ve Śūdras)
-> 
-> veya = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((bir/şu) Brahman, Kṣatriya, Vaiśya ve Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanlar, Kṣatriyalar, Vaişyalar ve Śūdras)
+
+veya = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((bir/şu) Brahman, Kṣatriya, Vaiśya ve Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Şairler ve öğretmenler [Çokl.])
-> (Not: "Bir şair ve bir öğretmen" ikilikte olmalıydı!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Şairler ve öğretmenler [Çokl.])
+(Not: "Bir şair ve bir öğretmen" ikilikte olmalıydı!)
+:::
 
 **Bir Dvandva içindeki bileşenlerin sırası için aşağıdaki kurallar geçerlidir:**
 Farklı sınıfların (**varṇa**) adları hiyerarşilerine göre (en yüksek önce) sıralanmalıdır.

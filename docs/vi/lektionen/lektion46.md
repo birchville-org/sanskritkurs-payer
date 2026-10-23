@@ -2,7 +2,7 @@
 title: "Bài 46"
 subtitle: "Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) Hoàn thành (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ từ đó:
 
 Xem ⟪राहु⟫ và ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Phép lễ nghi và Nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Giới thiệu và Tổng quan. -- 10. Phép lễ nghi và Nghi thức chuyển tiếp (samskara). -- Phụ lục C: Rahu và Ketu, những hành tinh vô hình . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

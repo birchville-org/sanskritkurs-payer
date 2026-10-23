@@ -2,7 +2,7 @@
 title: "Lección 43"
 subtitle: 'Desinencias personales de la segunda persona (⟪मध्यमः⟫ = \"persona media\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

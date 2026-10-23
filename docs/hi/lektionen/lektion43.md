@@ -2,7 +2,7 @@
 title: "पाठ 43"
 subtitle: 'द्वितीय पुरुष के विभक्ति-प्रत्यय (⟪⟪मध्यमः⟫⟫ = "मध्यम <पुरुष>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

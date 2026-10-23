@@ -2,7 +2,7 @@
 title: "Latihan 56"
 uebung_id: 56
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -94,10 +94,10 @@ Determine and translate the following forms:
 | ⟪७८⟫. | **⟪अकस्मात्⟫** | secara tak terduga (Adv.) |
 | ⟪७९⟫. | **⟪मित्रध्रुक्⟫** | *:sig[⟪मित्रद्रुह्⟫]*: Nom. Voc. Sg. m. f. n. (pemusnah musuh) |
 | ⟪८०⟫. | **⟪अवोचन्⟫** | *:sig[⟪वच्⟫]* 2P: 3. Pl. a-Aor. P. (mereka berbicara) |
-:::: media
+:::
+::: media
 ![](/images/uebung091.webp)
 Fig.: ⟪जेरिम⟫
 (Sumber gambar: [Rincian](/en/licenses#uebung091))
 
-::::
 :::

@@ -2,7 +2,7 @@
 title: "ఉపాధ్యాయుడు 18"
 uebung_id: 18
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

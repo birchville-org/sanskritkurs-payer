@@ -3,8 +3,8 @@ title: "පාඩම 2"
 subtitle: "නාම වාක්‍යය සහ විභක්ති පද්ධතියේ මූලික කරුණු"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **ප්‍රස්තාරය: ප්‍රතිජ්ඞාන නාමය - විෂය**
+:::
 
+::: indent
 උදා: devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu යනු දෙවියෙකි."
 :::
 ක්‍රියාපද සහකාරය ("is", "are", "am", "art", "be") අවශ්‍ය නොවේ, කෙසේ වෙතත් එය සමහර විට දක්නට ලැබිය හැක.
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 පහත සාරාංශය ද බලන්න:
 
-> **Payer, Alois (1944–):** -s අවසාන වචනයක සන්ධි. -- (සංස්කෘත ද්‍රව්‍ය). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** -s අවසාන වචනයක සන්ධි. -- (සංස්කෘත ද්‍රව්‍ය). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 අවසාන **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** p. -- ⟪शूद्र⟫ : ශූද්‍ර (සේවා පන්තිය).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**සිව් වර්ණ (varṇa)**
+
 සම්ප්‍රදායික න්‍යායට අනුව (උදා. මනුස්මෘති I, 88-91) කාර්යයන් බෙදා ඇත්තේ:
 
 **බ්‍රාහ්මණයන්ගේ**

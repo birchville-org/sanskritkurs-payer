@@ -2,7 +2,7 @@
 title: "Lekcija 13"
 subtitle: "PPP na -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -198,17 +198,19 @@ Naučite sljedeće riječi:
 **eva** ⟪एव⟫ : naglašava prethodnu riječ
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritualno, božansko.'
-\>
-> U najstarijim dijelovima Ṛgvede ovaj se termin koristi za vrhovnog duha i isti je kao Ahura kod Zoroastrijanaca. U značenju 'bog' primjenjivao se na nekoliko glavnih božanstava, kao što su Indra, Agni i Varuṇa. Kasnije je steklo potpuno suprotno značenje i počelo označavati, kao sada, demona ili neprijatelja bogova.
-\>
-> Ova se riječ s tim značenjem nalazi u kasnijim dijelovima Ṛgvede, posebno u posljednjoj knjizi, a također i u Atharvavedi. Brāhmaṇe pridaju joj isto značenje i bilježe mnoge sukobe između Asura i bogova. Prema Taittirīya Brāhmaṇi, dah *(asu)* Prajapatija oživio je i "tim dahom stvorio sam sebe kao Asure." U drugom dijelu istog djela kaže se da je Prajāpati "postao trudan. Stvorio je Asure iz svog trbuha." Śatapatha Brāhmaṇa slaže se s prvom izjavom i navodi da je "stvorio Asure iz svog donjeg daha." Taittirīya Āraṇyaka predstavlja da je Prajāpati stvorio bogove, ljude, očeve, Gandharve i Apsarase iz vode, te da su Asure, Rakṣase i piśāce proizašli iz kapi koje su se prosule. Izjava Manua je da su ih stvorili Prajāpatiji.
-\>
-> Prema Viṣṇu Purāṇi, proizvedeni su iz bedra Brahme (prajāpatija). Izvještaj Vāyu Purāṇe glasi: "Asure su prvo proizvedeni kao sinovi iz njegovog (Prajāpatijevog) bedra. *Asu* Brāhmaṇa proglašava da znači dah. Od njega su ova bića proizvedena; stoga su Asure." Riječ se dugo koristi kao opći naziv za neprijatelje bogova, uključujući Daitye i Danave te druge potomke Kaśyape, ali ne i Rakṣase koji potječu od Pulastyje.
-\>
-> U ovom se smislu za nju pronašla drugačija etimologija: izvor više nije asu, 'dah', već se početno *a* uzima kao negativni prefiks, a *asura* znači 'ne bog;' stoga je, prema nekima, nastala riječ *sura*, koja se uobičajeno koristi za 'boga'."
-\>
-> [Izvor: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritualno, božansko.'
+
+U najstarijim dijelovima Ṛgvede ovaj se termin koristi za vrhovnog duha i isti je kao Ahura kod Zoroastrijanaca. U značenju 'bog' primjenjivao se na nekoliko glavnih božanstava, kao što su Indra, Agni i Varuṇa. Kasnije je steklo potpuno suprotno značenje i počelo označavati, kao sada, demona ili neprijatelja bogova.
+
+Ova se riječ s tim značenjem nalazi u kasnijim dijelovima Ṛgvede, posebno u posljednjoj knjizi, a također i u Atharvavedi. Brāhmaṇe pridaju joj isto značenje i bilježe mnoge sukobe između Asura i bogova. Prema Taittirīya Brāhmaṇi, dah *(asu)* Prajapatija oživio je i "tim dahom stvorio sam sebe kao Asure." U drugom dijelu istog djela kaže se da je Prajāpati "postao trudan. Stvorio je Asure iz svog trbuha." Śatapatha Brāhmaṇa slaže se s prvom izjavom i navodi da je "stvorio Asure iz svog donjeg daha." Taittirīya Āraṇyaka predstavlja da je Prajāpati stvorio bogove, ljude, očeve, Gandharve i Apsarase iz vode, te da su Asure, Rakṣase i piśāce proizašli iz kapi koje su se prosule. Izjava Manua je da su ih stvorili Prajāpatiji.
+
+Prema Viṣṇu Purāṇi, proizvedeni su iz bedra Brahme (prajāpatija). Izvještaj Vāyu Purāṇe glasi: "Asure su prvo proizvedeni kao sinovi iz njegovog (Prajāpatijevog) bedra. *Asu* Brāhmaṇa proglašava da znači dah. Od njega su ova bića proizvedena; stoga su Asure." Riječ se dugo koristi kao opći naziv za neprijatelje bogova, uključujući Daitye i Danave te druge potomke Kaśyape, ali ne i Rakṣase koji potječu od Pulastyje.
+
+U ovom se smislu za nju pronašla drugačija etimologija: izvor više nije asu, 'dah', već se početno *a* uzima kao negativni prefiks, a *asura* znači 'ne bog;' stoga je, prema nekima, nastala riječ *sura*, koja se uobičajeno koristi za 'boga'."
+
+[Izvor: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 

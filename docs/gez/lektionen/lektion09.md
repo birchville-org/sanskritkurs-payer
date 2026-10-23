@@ -3,8 +3,8 @@ title: "ትምህርት 9"
 subtitle: "ሳማሃራድቫንዳ እና ኖሚናል ስፖስትፍስ -ካ/-አካ"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -113,7 +113,7 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 ::: media
 
-> ![](/images/lekt0902.webp)
+![](/images/lekt0902.webp)
 
 ስዕሊ: **kāru** = ⟪कारु⟫, Gujarat.
 
@@ -123,25 +123,29 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 :::
 
-> - **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-> - **kuśīlava** m. (⟪कुशीलव⟫) : (የሚጓዝ) ሰው ስራ፣ ተጻቃዊ፣ ዘመናዊ
-> - **kusīda** n. (⟪कुसीद⟫) : Wucher
-> - **kusīda** n. (⟪कुसीद⟫) : ወጥነት
-> - **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : ziehen
-> - **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : ማንሳት
-> - **kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : pflügen
+::: indent
+- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
+- **kuśīlava** m. (⟪कुशीलव⟫) : (የሚጓዝ) ሰው ስራ፣ ተጻቃዊ፣ ዘመናዊ
+- **kusīda** n. (⟪कुसीद⟫) : Wucher
+- **kusīda** n. (⟪कुसीद⟫) : ወጥነት
+- **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : ziehen
+- **kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : ማንሳት
+- **kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : pflügen
+:::
 
 
->   - ከዚህ፡ **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : ማሰማት
+::: indent
+- ከዚህ፡ **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : ማሰማት
 
-> - **dāna** n. (⟪दान⟫) : መስጠት፣ ስምዕት፣ ነፃነት
-> - **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-> - **pratigraha** m. (⟪प्रतिग्रह⟫) : መቀበል፣ ስምዕት
-> - **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-> - **pravacana** n. (⟪प्रवचन⟫) : ቃል፣ (የሚነገር) ትምህርት
-> - **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-> - **pāśupālya** n. (⟪पाशुपाल्य⟫) : ማህበር፣ የእንስሳት ማሰማት
-> - zu **yaj** 1 U:
+- **dāna** n. (⟪दान⟫) : መስጠት፣ ስምዕት፣ ነፃነት
+- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
+- **pratigraha** m. (⟪प्रतिग्रह⟫) : መቀበል፣ ስምዕት
+- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
+- **pravacana** n. (⟪प्रवचन⟫) : ቃል፣ (የሚነገር) ትምህርት
+- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
+- **pāśupālya** n. (⟪पाशुपाल्य⟫) : ማህበር፣ የእንስሳት ማሰማት
+- zu **yaj** 1 U:
+:::
 
 ::: media
 

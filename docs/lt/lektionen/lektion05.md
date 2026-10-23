@@ -2,7 +2,7 @@
 title: "Pamoka 5"
 subtitle: "Daiktinių junginių (samāsa) pagrindai"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Sudurtinių žodžių (ne tik dvandva) pirmieji nariai paprastai turi nepakitusi
 Pavyzdžiai su daugiskaitos dvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (brahmanai, kṣatrijai, vaišjos ir šūdras)
-> 
-> arba = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> (vienas/šis brahmanas, kṣatrijas, vaišja ir šūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(brahmanai, kṣatrijai, vaišjos ir šūdras)
+
+arba = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+(vienas/šis brahmanas, kṣatrijas, vaišja ir šūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (poetai ir mokytojai [daugisk.])
-> (Pastaba: „Vienas poetas ir vienas mokytojas“ turėtų būti dviejų skaičiaus!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(poetai ir mokytojai [daugisk.])
+(Pastaba: „Vienas poetas ir vienas mokytojas“ turėtų būti dviejų skaičiaus!)
+:::
 
 **Taikantis dvandva sandūrinių žodžių tvarkai galioja šie taisyklės:**
 Skirtingų varṇa (kastos) pavadinimai turi būti išdėstyti pagal jų hierarchiją (pirmiausia aukščiausią).

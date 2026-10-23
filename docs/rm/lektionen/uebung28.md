@@ -2,7 +2,7 @@
 title: "Esercitaziun 28"
 uebung_id: 28
 category: "Esercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

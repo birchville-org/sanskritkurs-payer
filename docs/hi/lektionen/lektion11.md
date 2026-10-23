@@ -2,7 +2,7 @@
 title: "पाठ ११"
 subtitle: "द्विविध अभिदान (व्यक्ति का अभिदान और वस्तु का अभिदान)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Mësimi 14"
 subtitle: "Shprehja e marrëdhënies midis atyre që shënohen nga emrat: Gjenitivi (ṣaṣṭhī f. = ⟪षष्टी⟫ = rasti i gjashtë)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,7 +32,7 @@ Shembuj:
 
 Renditja normale e fjalëve është:
 
-> **Fjala përcaktuese në Gjenitiv — Emri i mëtejshëm në një rast tjetër**
+**Fjala përcaktuese në Gjenitiv — Emri i mëtejshëm në një rast tjetër**
 
 :::
 
@@ -44,9 +44,9 @@ Në rastin e PPP-ve, gjenitivi mund të zëvendësojë instrumentalin (tṛtīy�
 
 Sipas Pāṇinit 2.3.67, në rastin e PPP-së, gjenitivi përdoret kur PPP-ja ka kuptim prezentik (shih më sipër), ndërsa instrumentali përdoret kur PPP-ja ka kuptim të kaluar:
 
-> ⟪रामस्येष्टं फलम्⟫ "Fruti e dëshiruar nga Rāma = Fruti që Rāma po e dëshiron tani"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Fruti që Rāma kishte dëshiruar"
+⟪रामस्येष्टं फलम्⟫ "Fruti e dëshiruar nga Rāma = Fruti që Rāma po e dëshiron tani"
+
+⟪रामेणेष्टं फलम्⟫ "Fruti që Rāma kishte dëshiruar"
 
 Natyrisht, kur një PPP Neutër Singular përdoret si abstrakt verbal — pra si emër — gjendet në raste gjenitive.
 
@@ -66,7 +66,7 @@ Pas konsonantit, përfundimet rregulltare gjenitive janë:
 
 :::
 
-::: center
+::: verse-box
 
 | Emër steme | Forma e dobët | Gjenitiv Singular | Gjenitiv Plural |
 | :--- | :--- | :--- | :--- |
@@ -83,11 +83,11 @@ Pas konsonantit, përfundimet rregulltare gjenitive janë:
 
 Gjenitivi plural i emrave me përfundim vokalik formohet kështu:
 
-> **-vokali i gjatë përfundimtar i stemes + -nām**
+**-vokali i gjatë përfundimtar i stemes + -nām**
 
 :::
 
-::: center
+::: verse-box
 
 | Emër steme | Gjenitiv Plural |
 | :--- | :--- |
@@ -110,7 +110,7 @@ Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyr
 
 :::
 
-::: center
+::: verse-box
 
 | Rrënja | Gjenitiv Singular |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyr
 
 **Pronoma pyetëse dhe demonstrative:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ Gjenitivi i numrit njëjës i rrënjëve me përfundim zanor formohet në mënyr
 
 **Barazia e formës:**
 
-::: important
+::: warning-box
 
 Në të gjitha rrënjët emërore përjashtojtë maskulinet dhe neutrat me -a si dhe pronomat, forma e gjenitivit të numrit njëjës është identike me formën e ablativit (pañcamī "fundimi i pestë gramatical") të numrit njëjës!
 
@@ -154,11 +154,11 @@ Vinihëroni se te në rastin e rrënjeve që përfundojnë me bashkëtingëllore
 
 Përtej rregullit të përgjithshëm më sipër, gjenerativi përdoret për të shprehur objektin e disa foljeve, p.sh. te foljet e kujtesës:
 
-> ⟪देवानां स्मरति⟫ "Ai kujton perënditë"
+⟪देवानां स्मरति⟫ "Ai kujton perënditë"
 
 Megjithatë, te të gjitha këto folje objekti mund të qëndrojë edhe në akuzativ:
 
-> ⟪देवान्स्मरति⟫ "Ai kujton perënditë"
+⟪देवान्स्मरति⟫ "Ai kujton perënditë"
 
 Më shumë më vonë.
 

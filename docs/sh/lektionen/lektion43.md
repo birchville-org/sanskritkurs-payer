@@ -2,7 +2,7 @@
 title: "Lekcija 43"
 subtitle: 'Lične nastavke druge osobe (⟪मध्यमः⟫ = "srednja <osoba>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

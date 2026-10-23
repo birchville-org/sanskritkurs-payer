@@ -2,7 +2,7 @@
 title: "Oppitunti 5"
 subtitle: "Nominaalisten yhdyssanojen (samāsa) perusteet"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -63,16 +63,20 @@ Kompositumien etuliitteet (ei vain dvandvat) ovat yleensä muuttamattoman **nomi
 Esimerkkejä pluraldvandvasta:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (brahmanit, kṣatriyat, vaiśyat ja śūdrat)
-> 
-> taiemmin = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> (yksi/brahmani, kṣatriya, vaiśya ja śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(brahmanit, kṣatriyat, vaiśyat ja śūdrat)
+
+taiemmin = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+(yksi/brahmani, kṣatriya, vaiśya ja śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (runoilijat ja opettajat [monikko])
-> (Huomautus: "Yksi runoilija ja yksi opettaja" tulisi olla duaalimuodossa!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(runoilijat ja opettajat [monikko])
+(Huomautus: "Yksi runoilija ja yksi opettaja" tulisi olla duaalimuodossa!)
+:::
 
 **Dvandva-yhdistelmässä olevien jäsenten järjestys noudattaa seuraavia sääntöjä:**
 - Eri kastien (**varṇa**) nimitykset tulee järjestää hierarkian mukaisesti (korkein ensin).

@@ -2,7 +2,7 @@
 title: "பாடம் 16"
 subtitle: "இறுதி ஒலிப்புகளின் சந்தி"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lecziun 44"
 subtitle: "Furmaziun dals verbs da la segunda persuna (⟪मध्यमः⟫) stammas atematicas cun suffix vocalic"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ p.ex. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Ils grammatics nativs cunsidereschan il vocativ (⟪आमन्त्रितम्⟫) betg sco casus independent, mabain mo sco modificaziun dal nominativ (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Il vocativ serva per il clam, l'interpellaziun ed è independent dal rest da la frasa; el differescha uschia dals auters casus, che expriman ina relaziun al verb u ad in'autra paraula nominala.**
 
 **Il vocativ vegn per ordinari posiziunà al cumenzament da la frasa:**
@@ -193,7 +193,7 @@ Ils grammatics nativs cunsidereschan il vocativ (⟪आमन्त्रित�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Bambin, tge disch ti?"
 :::
-::: important
+::: warning-box
 **Evitai la tradiziun dal vocativ cun "**O** ...". En tudestg duvrais nus constantamain vocativs, per exempel sche nus disch: "Amur, co cuochin nus oz?". Nagin dirà en quest sens: "**O** amur, co cuochin nus oz?"**
 :::
 ::: media

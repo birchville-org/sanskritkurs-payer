@@ -2,7 +2,7 @@
 title: "Lecziun 5"
 subtitle: "Fundaments da cumponiments nominalis (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Ils elements avant da cumponiments (betg mo Dvandvas) han en general la furma da
 Exemples per Dvandvas dal plural:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanas, Kṣatriyas, Vaiśyas e Śūdras)
-> 
-> u = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((in/il) Brahmana, Kṣatriya, Vaiśya e Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(Brahmanas, Kṣatriyas, Vaiśyas e Śūdras)
+
+u = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+((in/il) Brahmana, Kṣatriya, Vaiśya e Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (poe tschertgients e magisters [Plur.])
-> (Nota: "In po tschertgient e magister" duesscha en il dual star!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(poe tschertgients e magisters [Plur.])
+(Nota: "In po tschertgient e magister" duesscha en il dual star!)
+:::
 
 **Per l'ordinaziun dals elements in Dvandva valan tranter auter las suandantas reglas:**
 - La designaziun dals differents stads (**varṇa**) duessa tenor lur hierarchia (il pli aut per l'emprim) vegnir ordenada.

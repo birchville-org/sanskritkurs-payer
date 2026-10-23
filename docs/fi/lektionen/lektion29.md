@@ -2,7 +2,7 @@
 title: Oppitunti 29
 subtitle: "Parasmaipadan (⟪परस्मैपद⟫) ja Ātmanepadan (⟪आत्मनेपद⟫) käyttö kausatiivissa"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

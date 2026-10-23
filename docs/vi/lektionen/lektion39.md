@@ -2,7 +2,7 @@
 title: "Bài 39"
 subtitle: 'Các hậu tố ngôi thứ nhất (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**ngôi thứ ba**")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

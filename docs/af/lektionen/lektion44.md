@@ -2,7 +2,7 @@
 title: "Lesing 44"
 subtitle: "Vorming van die werkwoordsvorms vir die tweede persoon (⟪मध्यमः⟫) van athemeatiese stamme met 'n vokale eindende suffix"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ Daarbenewens geld die volgende reëls van woord-sandhi.
 
 Inboorlinggrammatikane beskou die vokatief (⟪आमन्त्रितम्⟫) nie as 'n geval op sigself nie, maar slegs as 'n wysiging van die nominatief (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Die vokatief word gebruik om iemand aan te roep of aan te spreek en staan buite die konteks van die res van die sin; dit verskil dus van die ander gevalle, wat 'n verhouding tot die werkwoord of tot 'n ander selfstandige naamwoord uitdruk.**
 
 **Die vokatief word gewoonlik aan die begin van die sin geplaas:**
@@ -193,7 +193,7 @@ Inboorlinggrammatikane beskou die vokatief (⟪आमन्त्रितम्
 ::: indent
 ⟪बाल किं वदसि⟫ = "Kind, wat sê jy?"
 :::
-::: important
+::: warning-box
 **Mens behoort te vermy om die vokatief met "**O** …" te vertaal. Ons gebruik vokatiewe die heeltyd in Duits, byvoorbeeld wanneer ons sê: "Darling, what shall we cook today?". Niemand sou in hierdie konteks sê: "**O** darling, what shall we cook today?"**
 :::
 ::: media

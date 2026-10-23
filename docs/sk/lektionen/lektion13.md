@@ -2,7 +2,7 @@
 title: "Lekcia 13"
 subtitle: "PPP na -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -17,7 +17,7 @@ Pre rozdelenie PPP na -ta- resp. -na- nemožno stanoviť žiadne pevné pravidl�
 
 ::: grammar-box
 
-> Takmer všetky korene na -d tvoria PPP na -na-. V tomto prípade sa -d-n- nahradí za -n-n-, čo sa inak v slovné sandhi nestáva, ale ide o napodobnenie vetného sandhi.
+Takmer všetky korene na -d tvoria PPP na -na-. V tomto prípade sa -d-n- nahradí za -n-n-, čo sa inak v slovné sandhi nestáva, ale ide o napodobnenie vetného sandhi.
 
 Príklad:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
@@ -168,17 +168,19 @@ Naučte sa nasledujúce slová:
 **eva** ⟪एव⟫ : zdôrazňuje predchádzajúce slovo
 **asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Duchovné, božské.'
-\>
-> V najstarších častiach Ṛgvédy sa tento termín používa pre vrcholného ducha a je totožný s Ahurou u zoroastriánov. V zmysle 'boh' bol používaný pre niekoľko hlavných božstiev, ako Indra, Agni a Varuṇa. Neskôr nadobudol úplne opačný význam a začal znamenať, ako dnes, démona alebo nepriateľa bohov.
-\>
-> Toto slovo sa vyskytuje s týmto významom v neskorších častiach Ṛgvédy, najmä v poslednej knihe, ako aj vo Atharvavéde. Bráhmany pripisujú rovnaký význam a zaznamenávajú mnohé súboje medzi Asurmi a bohmi. Podľa Taittiríja Bráhmany dych *(asu)* Prajápata sa stal živým a "týmto dychom som stvoril ja Asurov." V inej časti tej istej práce sa hovorí, že Prajápati "sa stal tehotným. Stvoril Asurov zo svojho brucha." Šatapatha Bráhmana súhlasí s prvým vyhlásením a uvádza, že "stvoril Asurov zo svojho spodného dychu." Taittiríja Áranjaka predstavuje, že Prajápati stvoril bohov, ľudí, otcov, Gandharvov a Apsarás z vody a že Asurovia, Rákšasovia a piśácovia vzišli z kvapiek, ktoré sa rozlili. Manuv výrok je, že ich stvorili Prajápatiovia.
-\>
-> Podľa Višṇu Purány boli produkovaní z rozkroku Brahmánu (prajápata). Príbeh Vájú Purány znie: "Asurovia boli prvýkrát produkovaní ako synovia z jeho (Prajápata) rozkroku. *Asu* je Bráhmaňou vyhlásená za dych. Z neho boli tieto bytosti produkované; preto sú Asurovia." Slovo sa už dlho používa ako všeobecný názov pre nepriateľov bohov, vrátane Daityas a Danavov a iných potomkov Kaśjapa, ale nezahŕňa Rákšasov zostupujúcich z Pulasty.
-\>
-> V tomto zmysle bol pre ne nájdený iný pôvod: zdrojom už nie je asu, 'dych,' ale počiatočné *a* sa berie ako záporný predpona a *asura* znamená 'nie boh;' preto, podľa niektorých, vzniklo slovo *súra,* bežne používané pre 'boha.'"
-\>
-> [Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duchovné, božské.'
+
+V najstarších častiach Ṛgvédy sa tento termín používa pre vrcholného ducha a je totožný s Ahurou u zoroastriánov. V zmysle 'boh' bol používaný pre niekoľko hlavných božstiev, ako Indra, Agni a Varuṇa. Neskôr nadobudol úplne opačný význam a začal znamenať, ako dnes, démona alebo nepriateľa bohov.
+
+Toto slovo sa vyskytuje s týmto významom v neskorších častiach Ṛgvédy, najmä v poslednej knihe, ako aj vo Atharvavéde. Bráhmany pripisujú rovnaký význam a zaznamenávajú mnohé súboje medzi Asurmi a bohmi. Podľa Taittiríja Bráhmany dych *(asu)* Prajápata sa stal živým a "týmto dychom som stvoril ja Asurov." V inej časti tej istej práce sa hovorí, že Prajápati "sa stal tehotným. Stvoril Asurov zo svojho brucha." Šatapatha Bráhmana súhlasí s prvým vyhlásením a uvádza, že "stvoril Asurov zo svojho spodného dychu." Taittiríja Áranjaka predstavuje, že Prajápati stvoril bohov, ľudí, otcov, Gandharvov a Apsarás z vody a že Asurovia, Rákšasovia a piśácovia vzišli z kvapiek, ktoré sa rozlili. Manuv výrok je, že ich stvorili Prajápatiovia.
+
+Podľa Višṇu Purány boli produkovaní z rozkroku Brahmánu (prajápata). Príbeh Vájú Purány znie: "Asurovia boli prvýkrát produkovaní ako synovia z jeho (Prajápata) rozkroku. *Asu* je Bráhmaňou vyhlásená za dych. Z neho boli tieto bytosti produkované; preto sú Asurovia." Slovo sa už dlho používa ako všeobecný názov pre nepriateľov bohov, vrátane Daityas a Danavov a iných potomkov Kaśjapa, ale nezahŕňa Rákšasov zostupujúcich z Pulasty.
+
+V tomto zmysle bol pre ne nájdený iný pôvod: zdrojom už nie je asu, 'dych,' ale počiatočné *a* sa berie ako záporný predpona a *asura* znamená 'nie boh;' preto, podľa niektorých, vzniklo slovo *súra,* bežne používané pre 'boha.'"
+
+[Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

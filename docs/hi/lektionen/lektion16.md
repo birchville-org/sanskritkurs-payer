@@ -2,7 +2,7 @@
 title: "पाठ १६"
 subtitle: "अंत्य व्यंजन के संधि की ओर"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

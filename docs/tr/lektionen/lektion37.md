@@ -2,7 +2,7 @@
 title: "Ders 37"
 subtitle: "Zarf (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -323,7 +323,7 @@ Fiil - cümlenin geri kalanı
 ::: grammar-box
 Şema II:
 
-> Soru edatı (genellikle cümlenin başında) - Cümle
+Soru edatı (genellikle cümlenin başında) - Cümle
 
 En önemli soru edatları şunlardır:
 

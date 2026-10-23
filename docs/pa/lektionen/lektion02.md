@@ -3,8 +3,8 @@ title: "ਪਾਠ 2"
 subtitle: "ਨਾਂਵ ਵਾਕ ਅਤੇ ਵਿਸ਼ੇਸ਼ਣ ਦੇ ਮੂਲ ਸਿਧਾਂਤ"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **ਸਕੀਮ: ਪ੍ਰੇਡਿਕੇਟ ਨਾਂਵ - ਸਬਜੈਕਟ**
+:::
 
+::: indent
 ਉਦਾਹਰਣ ਵਜੋਂ devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu ਇੱਕ ਦੇਵਤਾ ਹੈ।"
 :::
 ਇੱਕ ਕ੍ਰਿਆਤਮਕ ਕੜੀ ("ਹੈ", "ਹਨ", "ਹਾਂ", "ਹੋ ਤੁਸੀਂ", "ਤੁਸੀਂ ਹੋ") ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ, ਪਰ ਕਦੇ-ਕਦਾਈਂ ਇਹ ਦਿਖਾਈ ਦੇ ਸਕਦੀ ਹੈ।
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 ਇਹ ਵੀ ਦੇਖੋ:
 
-> **ਪੇਅਰ, ਅਲੋਇਸ (1944–):** ਅੰਤਿਮ -s ਦੀ ਸੰਧਿ। -- (ਸੰਸਕ੍ਰਿਤ ਸਮੱਗਰੀ)। -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**ਪੇਅਰ, ਅਲੋਇਸ (1944–):** ਅੰਤਿਮ -s ਦੀ ਸੰਧਿ। -- (ਸੰਸਕ੍ਰਿਤ ਸਮੱਗਰੀ)। -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 ਅੰਤਿਮ **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : ਸ਼ੂਦਰ (ਸੇਵਾ ਵਰਗ)।
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**ਚਾਰ ਵਰਣ (varṇa)**
+
 ਕਲਾਸਿਕ ਸਿਧਾਂਤ (ਜਿਵੇਂ ਕਿ ਮਨੁੱਖ ਧਰਮਸ਼ਾਸਤ੍ਰ I, 88-91) ਅਨੁਸਾਰ ਕੰਮ ਵੰਡੇ ਗਏ ਹਨ:
 
 **ਬ੍ਰਾਹਮਣਾਂ ਦੇ**

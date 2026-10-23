@@ -2,7 +2,7 @@
 title: "Ejercicio 32"
 uebung_id: 32
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -209,11 +209,11 @@ Determine y traduzca las siguientes palabras:
 | ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | entre los encargados |
 | ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Kaus. | él enseña |
 | ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | ellos hacen leer |
-:::: media
+:::
+::: media
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung051))
-::::
 :::
 ---
 
@@ -321,5 +321,4 @@ Una vez, un anciano fue a otro pueblo y se cansó en el camino. Para descansar, 
 ![](/images/uebung054.webp)
 Fig.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung054))
-::: \<!--  --\>
 :::

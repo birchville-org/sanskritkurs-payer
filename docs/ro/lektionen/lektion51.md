@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -342,7 +342,9 @@ ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: blană de antilopă, în special blana antilopii negre (antilopă cerb-capră: _Antilope cervicapra_ L.). Era originar pe întregul subcontinent indian, de la Punjab și Sind până în Bengal și de la Nepal până la Kanyakumari (Capul Comorin) (Tamil: கன்னியாகுமரி) Vezi:
 
-> **Mamiferele lumii lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+::: note-box
+**Mamiferele lumii lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

@@ -2,7 +2,7 @@
 title: "ለክፍል 7"
 subtitle: "የግስ-ፍጥነት ሀረግ በቀጥታ ንብረት"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # ትምህርት 7
 
 
-::: center
+::: verse-box
 
 **የሳምንት ምሳሌ**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ status: stable
 ## 7.1. የድግ ሀረግ ከቀጥተኛ ቁምነገር ጋር
 
 ::: grammar-box
-
 **ስኬማ፦**
 **(አጀንስ = kartṛ m. = ⟪कर्तृ⟫) – ቀጥተኛ ቁምነገር (karman n. = ⟪कर्मन्⟫) – ድግ**
+:::
 
+::: indent
 ምሳሌ
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "ራማ ፍሬ ይበላል (ይመታል)።"
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "ብራህማኑ አምላክን በመስዋእት ያከብራል (ለአንድ ሰው)።"
-
 :::
 
 ድጉ በ Parasmaipada ወይም Ātmanepada ከሆነ፣ ቀጥተኛው ቁምነገር (**karman** n. = ⟪कर्मन्⟫) በአጠቃላይ **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫) ውስጥ ይሆናል።

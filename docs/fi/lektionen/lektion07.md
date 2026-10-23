@@ -2,7 +2,7 @@
 title: "Oppitunti 7"
 subtitle: "Verbilause, jossa on suora objekti"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # Oppitunti 7
 
 
-::: center
+::: verse-box
 **Viikon sananlasku**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Jumala voittaa, ei vastajumala.
 ::: grammar-box
 **Kaava:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – suora objekti (karman n. = ⟪कर्मन्⟫) – verbi**
+:::
 
+::: indent
 esim.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma syö (kaut) hedelmän."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Brahmani palvoo jumalaa uhrauksella (jonkun muun puolesta)."

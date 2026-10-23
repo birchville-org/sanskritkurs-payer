@@ -3,8 +3,8 @@ title: "Bài 8"
 subtitle: "Hình thành danh từ & Lớp hiện tại thứ 8"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

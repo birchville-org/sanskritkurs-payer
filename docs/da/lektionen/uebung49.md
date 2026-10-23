@@ -2,7 +2,7 @@
 title: "Øvelse 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Kongens spørgsmål til papegøjen: ⟪शूद्रक⟫ fra ⟪विदि
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kongen sagde: "Lad os lade det ligge! Tilfredsstil vor nysgerrighed! Herre, fortæl os fra begyndelsen: I hvilket land blev du født? Hvem gav dig navnet? Hvem er din mor? Hvordan har du opnået Vedaerne? Hvordan har du gjort dig bekendt med de lærde værker? Hvor har du erhvervet kunsterne? Kan du huske tidligere fødsler eller opfylde ønsker? Eller bebor du, idet du bærer en fugles dragt, et skjulested? Eller hvor boede du tidligere? Eller hvor gammel er du? Hvordan blev du fanget i en bur? Og hvordan kom du i hænderne på cāṇḍālas? Eller hvordan er du kommet hertil?"
-\>
-> Vaiśampāyana, der var blevet spurgt af jordens herre med spontan nysgerrighed og stor respekt, tænkte et øjeblik over det og svarede derefter med fuld ærefrygt: "Konge, dette er en lang historie. Hvis det interesserer dig, lyt da til mig!"
+::: indent
+Kongen sagde: "Lad os lade det ligge! Tilfredsstil vor nysgerrighed! Herre, fortæl os fra begyndelsen: I hvilket land blev du født? Hvem gav dig navnet? Hvem er din mor? Hvordan har du opnået Vedaerne? Hvordan har du gjort dig bekendt med de lærde værker? Hvor har du erhvervet kunsterne? Kan du huske tidligere fødsler eller opfylde ønsker? Eller bebor du, idet du bærer en fugles dragt, et skjulested? Eller hvor boede du tidligere? Eller hvor gammel er du? Hvordan blev du fanget i en bur? Og hvordan kom du i hænderne på cāṇḍālas? Eller hvordan er du kommet hertil?"
+
+Vaiśampāyana, der var blevet spurgt af jordens herre med spontan nysgerrighed og stor respekt, tænkte et øjeblik over det og svarede derefter med fuld ærefrygt: "Konge, dette er en lang historie. Hvis det interesserer dig, lyt da til mig!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

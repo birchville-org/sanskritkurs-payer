@@ -2,7 +2,7 @@
 title: "පාඩම 46"
 subtitle: "දෙවන පුද්ගලයාගේ ක්‍රියාවලි ආකාර සෑදීම (⟪मध्यमः⟫) පෙරතත්වය (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -488,7 +488,9 @@ PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 
 ⟪राहु⟫ සහ ⟪केतु⟫ සඳහා බලන්න:
 
-> **පේයර්, ඇලොයිස් (1944–):** ධර්මශාස්ත්‍ර : හැඳින්වීම සහ අනුපිළිවෙල. -- 10. ප්‍රතිමාන සහ ගමන් මාර්ග (සංස්කෘත). -- අනුබැඳිය C: රාහු සහ කේතු, නොපෙනෙන සංචාරක තරු . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**පේයර්, ඇලොයිස් (1944–):** ධර්මශාස්ත්‍ර : හැඳින්වීම සහ අනුපිළිවෙල. -- 10. ප්‍රතිමාන සහ ගමන් මාර්ග (සංස්කෘත). -- අනුබැඳිය C: රාහු සහ කේතු, නොපෙනෙන සංචාරක තරු . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -543,7 +545,7 @@ Inf. ⟪तोष्टुम्⟫
 
 ::: indent
 
-> සම්පූර්ණ කාලය Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
+සම්පූර්ණ කාලය Vb ⟪ननाम⟫, ⟪नेमुर्⟫
 අනාගත කාලය ⟪नंस्यति⟫  
 සක්‍රිය ⟪नम्यते⟫  
 හේතුක ⟪नमयति । नामयति⟫  

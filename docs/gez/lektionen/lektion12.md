@@ -2,7 +2,7 @@
 title: "ሊቅነት 12"
 subtitle: "የተሠማረ ስም (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ status: stable
 ግስ ዘይትረድእ ("ኮነ") ኢይትአዘዝ።
 
 Examples:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
 
 :::
 
@@ -47,7 +47,7 @@ Examples:
 በዝንቱ ነገር፣ ተሳቢ ግስ ዘኀለፈ ጊዜ ይትዋሐድ ምስለ ፈጻሚ በቍጽር፣ በዐውድ ወበጾታ። ተሳቢ ግስ ዘኀለፈ ጊዜ "ተገብሮ" ለግስ ዘኢይትዐደው (ግስ ዘአልቦ ተሳቢ ቀጥተኛ) ወለግስ ዘእንቅስቃሴ ትርጉም ዘፈጻሚ አለው።
 
 ምሳሌ:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „እታ ኽሻትርያ ናብ ከተማ ኸይዳ።“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „እታ ኽሻትርያ ናብ ከተማ ኸይዳ።“
 
 :::
 
@@ -58,7 +58,7 @@ Examples:
 **الفاعل (kartṛ) في الآلة (tṛtīyā) -- اسم المفعول الماضي في حالة الرفع المفرد المحايد**
 
 مثال:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(ذهب من قبل الكشاتريا إلى المدينة) = ذهب الكشاتريا (إلى المدينة).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(ذهب من قبل الكشاتريا إلى المدينة) = ذهب الكشاتريا (إلى المدينة).“
 
 بناء المخطط الثاني أقل شيوعاً بكثير من بناء المخطط الأول.
 

@@ -2,7 +2,7 @@
 title: "Ushtrimi 57"
 uebung_id: 57
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -51,7 +51,9 @@ Fig.: ⟪वारानास्यां गङ्गायामप्लो�
 
 ## B) Përcaktimet e fjalëve
 
-> Përcaktoni dhe përktheni format e mëposhtme:
+::: indent
+Përcaktoni dhe përktheni format e mëposhtme:
+:::
 
 ::: grammar-box
 | Nr. | Forma | Përcaktimi / Kuptimi |

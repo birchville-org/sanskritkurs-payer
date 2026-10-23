@@ -2,7 +2,7 @@
 title: "පුහුණුව 6"
 uebung_id: 6
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -27,7 +27,9 @@ devo nṛtyati. devo yudhyate. devaḥ smarati. devaḥ sṛjati.
 
 ⟪देवो नृत्यति । देवो युध्यते । देवः स्मरति । देवः सृजति ।⟫
 
-> කවි ... (man, smṛ, viś)
+::: indent
+කවි ... (man, smṛ, viś)
+:::
 
 \= ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 

@@ -2,7 +2,7 @@
 title: "Exercice 44"
 uebung_id: 44
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -151,9 +151,9 @@ Déterminez les formes de mot suivantes :
 | ⟪३८⟫. **⟪पिपूर्मः⟫** | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. **⟪कैः⟫** | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. **⟪कृत्येन⟫** | ⟪कृ⟫ (8U) Gérondif Instr. sg. m./n. |
-:::: media
+:::
+::: media
 ![](/images/uebung073.webp)
 Fig. : ⟪वदिता⟫
 (Source de l'image : [Détails](/fr/licenses#uebung073))
-::::
 :::

@@ -2,7 +2,7 @@
 title: "Exercițiul 36"
 uebung_id: 36
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -141,9 +141,9 @@ Determinați și traduceți următoarele forme de cuvânt:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | él reveló |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | él conecta para sí |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | él bebió |
-:::: media
+:::
+::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung059))
-::::
 :::

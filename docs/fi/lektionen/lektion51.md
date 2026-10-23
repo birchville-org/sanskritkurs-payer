@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -343,7 +343,9 @@ esim. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: antiloopinnahka, erityisesti mustan antiloopin (hirvenantilooppi: _Antilope cervicapra_ L.) nahka. Se esiintyi alun perin koko Intian niemimaan alueella Punjabin ja Sindin alueelta Bengaliin sekä Nepalista Kanyakumariin (Cape Comorin) (tamiliksi: கன்னியாகுmari). Katso:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 osaa. -- ISBN 0-8018-5789-9. -- Osa 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 osaa. -- ISBN 0-8018-5789-9. -- Osa 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

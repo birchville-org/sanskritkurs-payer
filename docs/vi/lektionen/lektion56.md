@@ -2,7 +2,7 @@
 title: "[Bài 56]"
 subtitle: "[Bài tập lặp lại Aorist]"
 lesson_id: 56
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

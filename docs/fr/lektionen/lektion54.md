@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -47,13 +47,13 @@ L’⟪त्रिष्टुभ्⟫ possède deux schémas fondamentaux, se
 Schéma I :
 
 :::
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schéma II :
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
@@ -61,13 +61,13 @@ La quantité des quatre dernières syllabes est donc identique dans les deux sch
 
 Forme fondamentale de l’⟪जगती⟫ : comme pour l’⟪त्रिष्टुभ्⟫, mais à douze syllabes. Les cinq dernières syllabes de chaque Pada présentent les quantités suivantes :
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **— ◡ — ◡ —**
 :::
 Parallèlement, il existe la soi-disant ⟪त्रिष्टुभ्⟫ typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une ⟪त्रिष्टुभ्⟫ avec un premier membre de quatre syllabes :
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
@@ -75,13 +75,13 @@ metrik-schema
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::

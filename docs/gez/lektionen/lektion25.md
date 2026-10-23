@@ -2,7 +2,7 @@
 title: "ለክፍል 25"
 subtitle: 'የአባቲቭ (⟪पञ्चमी⟫ = "አምስተኛው የግስ ቃል መጨረሻ") መፍጠር'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

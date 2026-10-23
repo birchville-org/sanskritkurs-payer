@@ -2,7 +2,7 @@
 title: "Lesson 55"
 subtitle: "The a-Aorist (Aorist with thematic vowel)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

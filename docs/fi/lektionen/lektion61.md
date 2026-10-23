@@ -753,7 +753,7 @@ Kuv: Melodia, suhteutettu c-vireeseen, voidaan transponoida äänialasta riippue
 
 Kun olet nyt oppinut sanskritin perusteet, toivottavasti sinäkin olet kuin videon pienet lapset: joskus kömpelö, mutta oppimishaluinen ja tiedonjano sekä iloinen asiasta. Säilytä "aloittelijan mieli" loppuun asti.
 
-::: center
+::: verse-box
 Tämän toivoo sinulle Alois Payer
 
 Ofterdingen, 2009-03-09

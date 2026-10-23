@@ -2,7 +2,7 @@
 title: "Ćwiczenie 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Pytania króla ⟪शूद्रक⟫ z ⟪विदिशा⟫ do papugi ⟪
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Król rzekł: "Zostawmy to wszystko! Zaspokójcie naszą ciekawość! Panie, opowiedz nam od początku: W jakim kraju zostałeś narodzony? Kto dał ci imię? Kim jest twoja matka? Jak zdobyłeś Wedy? Jak zapoznałeś się z traktatami naukowymi? Skąd nabyłeś sztuki? Czy pamiętasz poprzednie narodzenia, czy spełniasz życzenia? A może, nosząc upierzenie ptaka, ukrywasz się w kryjówce? A może gdzie mieszkałeś wcześniej? A może ile masz lat? Jak dostałeś się do klatki? I jak trafiłeś w ręce Cāṇḍālasów? A może jak dotarłeś tutaj?"
-\>
-> Vaiśampāyana jednak, który został zapytany przez Pana Ziemi ze spontanicznie powstałą ciekawością i z wielkim szacunkiem, przez chwilę się zastanowił, a następnie odpowiedział z pełnym szacunkiem: "Królu, to długa historia. Jeśli cię interesuje, pożycz mi swoje ucho!"
+::: indent
+Król rzekł: "Zostawmy to wszystko! Zaspokójcie naszą ciekawość! Panie, opowiedz nam od początku: W jakim kraju zostałeś narodzony? Kto dał ci imię? Kim jest twoja matka? Jak zdobyłeś Wedy? Jak zapoznałeś się z traktatami naukowymi? Skąd nabyłeś sztuki? Czy pamiętasz poprzednie narodzenia, czy spełniasz życzenia? A może, nosząc upierzenie ptaka, ukrywasz się w kryjówce? A może gdzie mieszkałeś wcześniej? A może ile masz lat? Jak dostałeś się do klatki? I jak trafiłeś w ręce Cāṇḍālasów? A może jak dotarłeś tutaj?"
+
+Vaiśampāyana jednak, który został zapytany przez Pana Ziemi ze spontanicznie powstałą ciekawością i z wielkim szacunkiem, przez chwilę się zastanowił, a następnie odpowiedział z pełnym szacunkiem: "Królu, to długa historia. Jeśli cię interesuje, pożycz mi swoje ucho!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

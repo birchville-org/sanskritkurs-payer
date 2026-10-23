@@ -2,7 +2,7 @@
 title: درس ۴۲
 subtitle: "پایه‌های ختم‌شده به -ṛ"
 lesson_id: 42
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

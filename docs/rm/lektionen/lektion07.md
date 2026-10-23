@@ -2,7 +2,7 @@
 title: "Lecziun 7"
 subtitle: "La frasa verbala cun object direct"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Lecziun 7
 
 
-::: center
+::: verse-box
 **Sprech da la emna**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Dieu gudogna, betg il contra-dieu.
 ::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – object direct (karman n. = ⟪कर्मन्⟫) – verb**
+:::
 
+::: indent
 e.g.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma mangia (mangia) in fruit."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Il brahman onura in dieu cun in sacrifici (per qualchidà autra)."

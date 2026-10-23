@@ -484,7 +484,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Vide etiam:
 
-> **Payer, Alois (1944–):** Introductio in exegese textuum Sanscriticorum : Scriptum. -- Cap. 8: Exegesis propria, pars II: De quaestionibus singulis de intelligentia synchrona. -- Appendicula B: De metrica textuum Sanscriticorum. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introductio in exegese textuum Sanscriticorum : Scriptum. -- Cap. 8: Exegesis propria, pars II: De quaestionibus singulis de intelligentia synchrona. -- Appendicula B: De metrica textuum Sanscriticorum. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Pondus determinationis metri
 
@@ -565,10 +567,10 @@ Exemplum: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 :::
 Distributio लघु et गुरु :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Epicus Śloka (⟪श्लोक⟫ m.)
@@ -597,11 +599,11 @@ Praestantissimum versificandi genus in Epicis (⟪महाभारत⟫, ⟪�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Secunda et tertia syllaba unius ⟪पाद⟫ simul non debent esse ⟨⟪लघु⟫. In b et d syllaba 2 - 4 non debet esse ¯ ˘ ¯.
@@ -609,19 +611,19 @@ Secunda et tertia syllaba unius ⟪पाद⟫ simul non debent esse ⟨⟪ल�
 **Schemata secundaria (⟪विपुला⟫) pro a et c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **In omnibus formis Śloka principalis caesura est ad finem 2. ⟪पाद⟫ : ibi est vel finis verbi aut — in compositionibus longioribus — finis membri compositi.**
@@ -630,7 +632,7 @@ Secunda et tertia syllaba unius ⟪पाद⟫ simul non debent esse ⟨⟪ल�
 ::: grammar-box
 **Determinate inter omnes versus hactenus didictos Ślokas. De his scribite schemata metrica. Monstrentur irregularitates vel formae Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

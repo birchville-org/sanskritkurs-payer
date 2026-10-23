@@ -2,7 +2,7 @@
 title: "Lecke 30"
 subtitle: 'A 9. jelen idő osztály (⟪क्र्यादि⟫ = \"⟪क्री⟫ stb.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

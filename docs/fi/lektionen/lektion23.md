@@ -2,7 +2,7 @@
 title: "Oppitunti 23"
 subtitle: "Infinitiivi (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Jos sanskritissa halutaan ilmaista, että toiminta tapahtuu jonkin toisen toiminnan vuoksi ("jotta"), voidaan käyttää infinitiivia (⟪तुमुन्⟫) toiminnalle, jonka vuoksi se tapahtuu. Infinitiivi ilmaisee ensisijaisesti tarkoituksen tai aikomuksen:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma on mennyt kuuntelemaan mestarin puhetta."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma on mennyt kuuntelemaan mestarin puhetta."
 
 **Huomaa, että infinitiivi — joillakin tiukasti määritetyillä poikkeuksilla lukuun ottamatta — ei voi toimia verbin subjektina tai objektina:**
 
-> "Hän oppii tanssimaan" ei siis voi kääntää infinitiivillä ("tanssia"), vaan on käytettävä verbijohdosta, esim.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "oppia").
+"Hän oppii tanssimaan" ei siis voi kääntää infinitiivillä ("tanssia"), vaan on käytettävä verbijohdosta, esim.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "oppia").
 
 **Infinitiiviä käytetään myös verbeissä ja substantiiveissa merkityksessä "haluta" tai "kaivata", kun infinitiivin ja verbin agenssi (⟪कर्तृ⟫) ovat samat:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma haluaa kuulla mestarin puheen."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma haluaa kuulla mestarin puheen."
 
 **Infinitiivia käytetään muun muassa verbeissä, jotka tarkoittavat "olla kykenevä", "on olemassa", "tietää" ja "alkaa":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Pyhimys ei voi tehdä vääryyttä."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "On ruokaa syötäväksi" (⟪भुज्⟩ 7: Ā: syödä, P: hallita)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Pyhimys ei voi tehdä vääryyttä."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "On ruokaa syötäväksi" (⟪भुज्⟩ 7: Ā: syödä, P: hallita)
 
 **Infinitiivia käytetään myös sanojen "riittävä" ja "kykenevä" sekä substantiivien "taito", "voima" ja "taituruus" kanssa:**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Tulilla on voima polttaa kaiken."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Tulilla on voima polttaa kaiken."
 
 **Sanassa "aika" merkityksessä infinitiiviä voidaan käyttää myös ilmaisuissa kuten "On aika ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "On aika omistautua ruokailulle" = "On aika syödä"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "On aika omistautua ruokailulle" = "On aika syödä"
 
 **Infinitiiviä voidaan käyttää sekä aktiivisesti että passiivisesti. Saksalainen passiivin infinitiivi käännetään sanskritiksi siten, että verbi (erityisesti yleensä ⟪शक्⟫ "kykenevä, pystyä"), josta infinitiivi riippuu, muutetaan passiiviin.**
 
@@ -44,13 +44,13 @@ status: stable
 
 esim.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Pyhimys ei voi tehdä väärinkäytöstä."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Pyhimys ei voi tehdä väärinkäytöstä."
 
 **Toisessa persoonassa ⟪अर्ह्⟫ + infinitiiviä käytetään usein lempeänä käskynä: "Sinun pitäisi".**
 
 **Jos infinitiivi riippuu substantiivista, sitä ei saa yhdistää tähän substantiiviin yhdyssanaksi. Poikkeuksena ovat Bahuvrīhi-yhdyssanat, joiden toinen jäsen on ⟪काम⟫ tai ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "jonka halu puhua on; joku, joka haluaa puhua".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "jonka halu puhua on; joku, joka haluaa puhua".
 :::
 ## 23.2. Infinitiivin muodostus (⟪तुमुन्⟫)
 

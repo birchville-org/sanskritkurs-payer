@@ -2,7 +2,7 @@
 title: "[Bài tập 29]"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Vô minh có nghĩa là xem những gì vô thường, không thanh tịnh, đ�
 
 Trước một chế độ cai trị quá nghiêm khắc (daṇḍa), các sinh vật phải run sợ. Một chế độ cai trị lỏng lẻo bị khinh bỉ. Một chế độ cai trị đúng đắn được tôn kính. Một chế độ cai trị được dẫn dắt bởi trí tuệ thúc đẩy công lý, lợi ích và niềm vui ở các thần dân. Một chế độ cai trị bị điều hành kém do ham muốn hoặc thù hận hay khinh bỉ khiến cả những người già sống ẩn dật trong rừng và các nhà khổ hạnh lữ hành đều nổi giận, chưa nói gì đến những người chủ gia đình. Chế độ cai trị không được thực hiện dẫn đến hành vi như cá (mātsyanayāya). Khi không có ai duy trì chế độ cai trị, kẻ mạnh sẽ nuốt chửng kẻ yếu. Nếu kẻ yếu được người nắm quyền bảo vệ, họ sẽ phát triển thịnh vượng.
 
-> Thế giới với bốn giai cấp và các giai đoạn đời sống  
-> Được vị vua bảo vệ bằng cách cai trị:  
-> Vui mừng với hoạt động theo đúng pháp luật và phong tục riêng của mình  
-> Nó di chuyển trên những con đường riêng của nó.
+::: indent
+Thế giới với bốn giai cấp và các giai đoạn đời sống
+Được vị vua bảo vệ bằng cách cai trị:
+Vui mừng với hoạt động theo đúng pháp luật và phong tục riêng của mình
+Nó di chuyển trên những con đường riêng của nó.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

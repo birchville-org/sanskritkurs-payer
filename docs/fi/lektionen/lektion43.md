@@ -2,7 +2,7 @@
 title: "Oppitunti 43"
 subtitle: 'Toisen persoonan päätteet (⟪मध्यमः⟫ = "keskipersona")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

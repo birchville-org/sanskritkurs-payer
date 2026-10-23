@@ -2,7 +2,7 @@
 title: "Lección 36"
 subtitle: "Formaciones especiales del pretérito perfecto"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

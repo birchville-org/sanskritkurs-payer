@@ -2,7 +2,7 @@
 title: "Lecke 29"
 subtitle: "A parasmaipada (⟪परस्मैपद⟫) és az ātmanepada (⟪आत्मनेपद⟫) használata a kausatívban"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

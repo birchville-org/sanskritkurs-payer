@@ -2,7 +2,7 @@
 title: "الدرس 30"
 subtitle: 'الصف التاسع من الأزمنة الحالية (⟪क्र्यादि⟫ = \"⟪क्री⟫ وما إلى ذلك\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

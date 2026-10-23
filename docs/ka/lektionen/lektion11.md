@@ -2,7 +2,7 @@
 title: "ლექსია 11"
 subtitle: "ორმაგი ბრალდების მიმართულება (პირისა და საგნის ბრალდების მიმართულება)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

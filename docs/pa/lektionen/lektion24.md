@@ -2,7 +2,7 @@
 title: "ਪਾਠ 24"
 subtitle: 'ਦਾਤਰੀ (⟪चतुर्थी⟫ = "ਚੌਥਾ ਵਿਕਾਰ")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

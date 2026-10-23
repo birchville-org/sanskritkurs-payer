@@ -2,7 +2,7 @@
 title: "درس ۲۱"
 subtitle: "بن‌های حال دیگر با پسوند -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

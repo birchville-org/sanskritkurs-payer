@@ -982,7 +982,7 @@ Hình: Giai điệu, quy về nốt c, có thể được chuyển tông tùy th
 
 Sau khi bạn đã học xong những nền tảng cơ bản của tiếng Sanskrit, chúng tôi hy vọng rằng bạn cũng giống như các em nhỏ trong video: đôi khi vụng về, nhưng ham học hỏi và tràn đầy niềm vui với môn học. Hãy giữ mãi "tâm trí của người mới bắt đầu" cho đến hết cuộc đời bạn.
 
-::: center
+::: verse-box
 
 Lời chúc từ Alois Payer của bạn
 

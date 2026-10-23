@@ -2,7 +2,7 @@
 title: "Exercițiul 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Fig.: ⟪गायी⟫
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Regele a vorbit: "Să lăsăm toate acestea deoparte! Satisfaceti-vă curiozitatea! Doamne, spuneți-ne de la început: În ce țară v-ați născut? Cine v-a dat numele? Cine este mama dumneavoastră? Cum ați obținut Vede? Cum v-ați familiarizat cu tratatele de învățătură? De unde ați dobândit artelor? Vă puteți aminti de nașteri anterioare sau împlini dorințe? Sau locuiți, purtând haina unui pasăre, într-un refugiu? Sau unde ați locuit mai devreme? Sau câți ani aveți? Cum ați fost prins într-o cușcă? Și cum ați ajuns în mâinile Cāṇḍālas? Sau cum ați venit aici?"
-\>
-> Vaiśampāyana, însă, care fusese întrebat cu o curiozitate spontană de către Stăpânul Pământului, cu mare respect, a reflectat o clipă și apoi a răspuns plin de prețuire: "Rege, aceasta este o poveste lungă. Dacă vă interesează, împrumutați-mi urechea dumneavoastră!"
+::: indent
+Regele a vorbit: "Să lăsăm toate acestea deoparte! Satisfaceti-vă curiozitatea! Doamne, spuneți-ne de la început: În ce țară v-ați născut? Cine v-a dat numele? Cine este mama dumneavoastră? Cum ați obținut Vede? Cum v-ați familiarizat cu tratatele de învățătură? De unde ați dobândit artelor? Vă puteți aminti de nașteri anterioare sau împlini dorințe? Sau locuiți, purtând haina unui pasăre, într-un refugiu? Sau unde ați locuit mai devreme? Sau câți ani aveți? Cum ați fost prins într-o cușcă? Și cum ați ajuns în mâinile Cāṇḍālas? Sau cum ați venit aici?"
+
+Vaiśampāyana, însă, care fusese întrebat cu o curiozitate spontană de către Stăpânul Pământului, cu mare respect, a reflectat o clipă și apoi a răspuns plin de prețuire: "Rege, aceasta este o poveste lungă. Dacă vă interesează, împrumutați-mi urechea dumneavoastră!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

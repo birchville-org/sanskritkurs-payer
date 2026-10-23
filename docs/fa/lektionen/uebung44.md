@@ -2,7 +2,7 @@
 title: "تمرین ۴۴"
 uebung_id: 44
 category: "تمرین"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

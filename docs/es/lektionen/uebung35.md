@@ -2,7 +2,7 @@
 title: "Ejercicio 35"
 uebung_id: 35
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -87,5 +87,4 @@ C) Transforme las oraciones del ejercicio B) reemplazando perfectos por imperfec
 ![](/images/uebung058.webp)
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Fuente de la imagen: [Detalles](/licenses#uebung058))
-::: \<!--  --\>
 :::

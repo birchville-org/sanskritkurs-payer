@@ -3,8 +3,8 @@ title: "Pelajaran 2"
 subtitle: "Kalimat Nominal dan Dasar-Dasar Deklinasi"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Skema: Nama Predikat - Subjek**
+:::
 
+::: indent
 mis. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu adalah seorang dewa."
 :::
 Kopula verbal ("adalah", "saya adalah", "kamu adalah") tidak diperlukan, tetapi kadang-kadang dapat muncul.
@@ -75,7 +77,9 @@ Akhiran sebuah kata dalam bahasa Sanskerta juga bergantung pada awalan kata beri
 
 Lihat juga ikhtisar:
 
-> **Payer, Alois (1944–):** Sandhi pada akhiran -s. -- (Materi tentang bahasa Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi pada akhiran -s. -- (Materi tentang bahasa Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s** di akhir kata:
 
@@ -119,7 +123,9 @@ sebelum vokal lain: berubah menjadi **-a** (Hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta pelayan).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Empat golongan (varṇa)**
+
 Menurut teori klasik (misalnya Manusmṛti I, 88-91), tugas-tugas dibagi:
 
 **para Brahmana**

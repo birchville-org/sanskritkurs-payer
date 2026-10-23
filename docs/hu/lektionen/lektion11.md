@@ -2,7 +2,7 @@
 title: "Lecke 11"
 subtitle: "A kettős accusativus (személy és dolog szerinti accusativus)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

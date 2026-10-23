@@ -2,7 +2,7 @@
 title: "Leçon 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -36,12 +36,12 @@ La relation casuelle des deux membres d’un composé est indépendante du cas d
 
 par ex.
 
-> Nominatif sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
-> Accusatif sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
-> Instrumental sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
-> Génitif sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
-> Nominatif pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
-> etc.
+Nominatif sg. ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+Accusatif sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+Instrumental sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+Génitif sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+Nominatif pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+etc.
 
 Le genre d’un Tatpuruṣa est, à quelques exceptions près, celui de son second membre.
 

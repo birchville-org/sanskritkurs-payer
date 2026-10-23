@@ -2,7 +2,7 @@
 title: "Ejercicio 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Preguntas del rey ⟪शूद्रक⟫ de ⟪विदिशा⟫ al loro �
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> El rey dijo: «¡Dejemos eso de lado! ¡Satisfagan nuestra curiosidad! Señor, cuéntenos desde el principio: ¿En qué país nació usted? ¿Quién le dio su nombre? ¿Quién es su madre? ¿Cómo obtuvo los Vedas? ¿Cómo se familiarizó con las obras doctrinales? ¿De dónde adquirió las artes? ¿Puede recordar nacimientos anteriores o cumplir deseos? ¿O habita, vistiendo la piel de un pájaro, en un escondite? ¿O dónde vivía antes? ¿O cuántos años tiene usted? ¿Cómo fue capturado en una jaula? Y, ¿cómo llegó a manos de los cāṇḍālas? O, ¿cómo ha venido usted hasta aquí?»
-\>
-> Vaiśampāyana, sin embargo, que había sido preguntado por el señor de la tierra con una curiosidad espontánea y gran respeto, reflexionó un momento y luego respondió lleno de reverencia: «Rey, esta es una historia larga. Si le interesa, ¡presteme su oído!»
+::: indent
+El rey dijo: «¡Dejemos eso de lado! ¡Satisfagan nuestra curiosidad! Señor, cuéntenos desde el principio: ¿En qué país nació usted? ¿Quién le dio su nombre? ¿Quién es su madre? ¿Cómo obtuvo los Vedas? ¿Cómo se familiarizó con las obras doctrinales? ¿De dónde adquirió las artes? ¿Puede recordar nacimientos anteriores o cumplir deseos? ¿O habita, vistiendo la piel de un pájaro, en un escondite? ¿O dónde vivía antes? ¿O cuántos años tiene usted? ¿Cómo fue capturado en una jaula? Y, ¿cómo llegó a manos de los cāṇḍālas? O, ¿cómo ha venido usted hasta aquí?»
+
+Vaiśampāyana, sin embargo, que había sido preguntado por el señor de la tierra con una curiosidad espontánea y gran respeto, reflexionó un momento y luego respondió lleno de reverencia: «Rey, esta es una historia larga. Si le interesa, ¡presteme su oído!»
+:::
 
 ::: media
 ![](/images/uebung079.webp)

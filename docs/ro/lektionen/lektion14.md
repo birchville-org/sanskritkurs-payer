@@ -2,7 +2,7 @@
 title: "Lecție 14"
 subtitle: "Expresia relației dintre cele denumite prin substantive: Genitivul (ṣaṣṭhī f. = ⟪षष्टी⟫ = a șasea terminație de caz)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Exemple:
 ::: grammar-box
 Ordinul normal al cuvintelor este:
 
-> **Cuvântul determinativ în genitiv — Substantivul determinat mai precis într-un alt caz**
+**Cuvântul determinativ în genitiv — Substantivul determinat mai precis într-un alt caz**
 :::
 **Genitivul și PPP:**
 
@@ -37,9 +37,9 @@ La PPP, genitivul poate sta în locul instrumentalului (tṛtīyā) pentru agent
 
 Conform Pāṇini 2.3.67, la PPP, genitivul stă dacă PPP are sens prezent (vezi mai sus), instrumentalul, dacă PPP are sens trecut:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Rodul dorit de Rāma = Rodul pe care Rāma îl dorește în prezent"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Rodul pe care Rāma l-a dorit"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Rodul dorit de Rāma = Rodul pe care Rāma îl dorește în prezent"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Rodul pe care Rāma l-a dorit"
 
 Desigur, la un PPP Neutru Singular, care este folosit ca abstract verbal - adică ca substantiv - se găsește genitivul.
 :::
@@ -56,7 +56,7 @@ După consoană, terminațiile regulate ale genitivului sunt:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Rădăcină nominală | Forma slabă | Genitiv singular | Genitiv plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ După consoană, terminațiile regulate ale genitivului sunt:
 
 Genitivul plural al rădăcinilor care se termină în vocalică se formează astfel:
 
-> **-vocalică lungă de final a rădăcinii + -nām**
+**-vocalică lungă de final a rădăcinii + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Rădăcină nominală | Genitiv plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Genitivul plural al rădăcinilor care se termină în vocalică se formează as
 Genitivul singular al rădăcinilor care se termină în vocală este format neregulat și trebuie învățat pe de rost.
 
 :::
-::: center
+::: verse-box
 
 | Rădăcină | Genitiv Singular |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Genitivul singular al rădăcinilor care se termină în vocală este format ner
 :::
 **Pronumele interogative și demonstrative:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Genitivul singular al rădăcinilor care se termină în vocală este format ner
 :::
 **Identitatea formelor:**
 
-::: important
+::: warning-box
 
 La toate rădăcinile nominale, cu excepția masculinelor și neutrelor în -a și a pronumelor, forma genitivului singular este identică cu forma ablativului (pañcamī "cincilea terminatie de caz") singular!
 
@@ -138,11 +138,11 @@ Rețineți că la temele care se termină în consoană, ablativul și genitivul
 ::: grammar-box
 Împotriva regulii generale de mai sus, genitivul este folosit pentru a exprima obiectul unor verbe, de exemplu, verbe ale amintirii:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "El își amintește de zei"
+⟪देवानां⟫ ⟪स्मरति⟫ "El își amintește de zei"
 
 Pentru toate aceste verbe, obiectul poate fi, de asemenea, în acuzativ:
 
-> ⟪देवान्स्मरति⟫ "El își amintește de zei"
+⟪देवान्स्मरति⟫ "El își amintește de zei"
 
 Mai multe detalii mai târziu.
 :::

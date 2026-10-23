@@ -2,7 +2,7 @@
 title: "تمرین ۱۲"
 uebung_id: 12
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Μάθημα 12"
 subtitle: "Το Παρακείμενο Παθητικού Μετοχής (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht übere
 Ein Hilfsverb („sein“) ist nicht nötig.
 
 Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
 :::
 
 ### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
@@ -42,7 +42,7 @@ Beispiele:
 In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
 
 Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
 :::
 
 ### 12.1.3. Σχήμα II για τα άτρεπτα ρήματα και τα ρήματα της κινήσεως
@@ -51,7 +51,7 @@ Beispiel:
 **Προαιρετικός (kartṛ) εν όργανον (tṛtīyā) -- PPP στον ονομαστική ενικός ουδέτερο**
 
 Παράδειγμα:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(ὑπὸ τοῦ क्षत्रिय) ἐπορεύθη (εἰς τὴν πόλιν) = ὁ क्षत्रिय ἐπορεύθη (εἰς τὴν πόλιν).“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(ὑπὸ τοῦ क्षत्रिय) ἐπορεύθη (εἰς τὴν πόλιν) = ὁ क्षत्रिय ἐπορεύθη (εἰς τὴν πόλιν).“
 
 Ἡ κατασκευὴ κατὰ τὸ Σχήμα II πολὺ σπανιότερά ἐστιν ἢ ἡ κατασκευὴ κατὰ τὸ Σχήμα I.
 :::

@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (tjenestestånd).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**De fire stænder (varṇa)**
+
 Ifølge den klassiske teori (f.eks. Manusmṛti I, 88-91) er opgaverne fordelt:
 
 **af brahmanerne**
@@ -459,8 +461,6 @@ til **yaj** 1 U:
 ::: note-box
 I Indien tillagde man det sande ord magisk kraft, ja hele verdensordenen opretholdes og skabes gennem det sande ord. Se det grundlæggende værk for denne vigtige forestilling:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Udgivet efter hans efterladte papirer af Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna og Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -492,7 +492,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : spørge (noen: Akk.; om noe: Akk.)
 **saha** ⟪सह⟫ : sammen med, i lag med (også ved "kjempe mot" osv.) (postposisjon med instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Utgitt fra etterlatte papirer av Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna og Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -524,7 +524,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : spørge (noen: Akk.; om noe: Akk.)
 **saha** ⟪सह⟫ : sammen med, i lag med (også ved "kjempe mot" osv.) (postposisjon med instrumentalis)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Udgivet efterladt af Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna og Ṛta. -- 1959. -- XXIII s., S. 340 - 764
 :::
 ::: media
@@ -725,17 +725,19 @@ Lær følgende ord:
 **eva** ⟪एव⟫ : fremhæver det forudgående ord
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spirituel, guddommelig.'
->
-> I de ældste dele af Ṛgveda bruges dette begreb om den højeste ånd og er det samme som Ahura hos zoroastrerne. I betydningen 'gud' blev det anvendt om flere af de vigtigste guddomme, såsom Indra, Agni og Varuṇa. Senere fik det en helt modsat betydning og kom til at betegne, som nu, en demon eller gudes fjende.
->
-> Ordet findes med denne betydning i de senere dele af Ṛgveda, især i den sidste bog, og også i Atharvaveda. Brāhmaṇas tillægger det samme betydning og fortæller om mange kampe mellem Asuras og guderne. Ifølge Taittirīya Brāhmaṇa blev ånden *(asu)* hos Prajapati levende, og "med denne ånd skabte han mig som Asuras." I en anden del af det samme værk siges det, at Prajāpati "blev gravid. Han skabte Asuras fra sin mave." Śatapatha Brāhmaṇa stemmer overens med den første udsagn og siger, at "han skabte Asuras fra sin nedre ånde." Taittirīya Āraṇyaka repræsenterer, at Prajāpati skabte guder, mennesker, fædre, Gandharvas og Apsarases fra vand, og at Asuras, Rakṣasas og piśācas opstod fra de dråber, der blev spildt. Manus udsagn er, at de blev skabt af Prajāpatis.
->
-> Ifølge Viṣṇu Purāṇa blev de produceret fra Brahma's (prajāpati) lyske. Beretningen i Vāyu Purāṇa er: "Asuras blev først produceret som sønner fra hans (Prajāpati's) lyske. *Asu* er erklæret af Brāhmaṇa at betyde ånde. Fra den blev disse væsener produceret; derfor er de Asuras." Ordet har længe været brugt som et generelt navn for gudes fjender, herunder Daityas og Danavas samt andre efterkommere af Kaśyapa, men ikke Rakṣasas nedstammet fra Pulastya.
->
-> I denne betydning er en anden afledning fundet for det: kilden er ikke længere asu, 'ånd', men den indledende *a* betragtes som det negative præfiks, og *asura* betyder 'ikke en gud'; derfor opstod ifølge nogle ordet *sura*, almindeligt brugt for 'en gud.'"
->
-> [Kilde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spirituel, guddommelig.'
+
+I de ældste dele af Ṛgveda bruges dette begreb om den højeste ånd og er det samme som Ahura hos zoroastrerne. I betydningen 'gud' blev det anvendt om flere af de vigtigste guddomme, såsom Indra, Agni og Varuṇa. Senere fik det en helt modsat betydning og kom til at betegne, som nu, en demon eller gudes fjende.
+
+Ordet findes med denne betydning i de senere dele af Ṛgveda, især i den sidste bog, og også i Atharvaveda. Brāhmaṇas tillægger det samme betydning og fortæller om mange kampe mellem Asuras og guderne. Ifølge Taittirīya Brāhmaṇa blev ånden *(asu)* hos Prajapati levende, og "med denne ånd skabte han mig som Asuras." I en anden del af det samme værk siges det, at Prajāpati "blev gravid. Han skabte Asuras fra sin mave." Śatapatha Brāhmaṇa stemmer overens med den første udsagn og siger, at "han skabte Asuras fra sin nedre ånde." Taittirīya Āraṇyaka repræsenterer, at Prajāpati skabte guder, mennesker, fædre, Gandharvas og Apsarases fra vand, og at Asuras, Rakṣasas og piśācas opstod fra de dråber, der blev spildt. Manus udsagn er, at de blev skabt af Prajāpatis.
+
+Ifølge Viṣṇu Purāṇa blev de produceret fra Brahma's (prajāpati) lyske. Beretningen i Vāyu Purāṇa er: "Asuras blev først produceret som sønner fra hans (Prajāpati's) lyske. *Asu* er erklæret af Brāhmaṇa at betyde ånde. Fra den blev disse væsener produceret; derfor er de Asuras." Ordet har længe været brugt som et generelt navn for gudes fjender, herunder Daityas og Danavas samt andre efterkommere af Kaśyapa, men ikke Rakṣasas nedstammet fra Pulastya.
+
+I denne betydning er en anden afledning fundet for det: kilden er ikke længere asu, 'ånd', men den indledende *a* betragtes som det negative præfiks, og *asura* betyder 'ikke en gud'; derfor opstod ifølge nogle ordet *sura*, almindeligt brugt for 'en gud.'"
+
+[Kilde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3786,7 +3788,9 @@ deraf:
 :::
 Til ⟪राहु⟫ og ⟪केतु⟫ se:
 
-> **Payer, Alois (1944–):** Dharmashastra : introduktion og oversigt. -- 10. Sakramenter og overgangsritualer (samskara). -- Appendiks C: Rahu og Ketu, de usynlige vandreplaneter . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : introduktion og oversigt. -- 10. Sakramenter og overgangsritualer (samskara). -- Appendiks C: Rahu og Ketu, de usynlige vandreplaneter . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4402,7 +4406,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antilopeskind, især skindet af den sorte antilope (hjorteantilope : _Antilope cervicapra_ L.). Oprindeligt udbredt over hele det indiske subkontinent fra Punjab og Sindh til Bengalen og fra Nepal til Kanyakumari (Kap Comorin) (tamilsk: கன்னியாகுமரி). Se:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

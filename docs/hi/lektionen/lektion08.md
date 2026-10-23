@@ -3,8 +3,8 @@ title: "पाठ 8"
 subtitle: "नामों का निर्माण और ८. वर्तमानकाल श्रेणी"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Ezercitaziun 23"
 uebung_id: 23
 category: "Ezercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -212,9 +212,9 @@ C) Dat las formas da la radisch (significà, classa da prezens, modus, 3. sg. pr
 | Absolutiv 1 | ⟪हत्वा⟩ |
 | Absolutiv 2 | -⟪हत्य⟩ |
 | Infinitiv | ⟪हन्तुम्⟩ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 Abb.: ⟪बालाः⟩ ⟪पिबन्ति⟩
 (Sursa d'imagines: [Detagls](/licenses#uebung036))
-::::
 :::

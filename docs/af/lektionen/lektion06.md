@@ -2,7 +2,7 @@
 title: "Lesing 6"
 subtitle: "Die konstruksie van die werkwoordlike sin (subjek en werkwoordsvorm)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

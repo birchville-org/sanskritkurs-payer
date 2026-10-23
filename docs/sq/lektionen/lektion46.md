@@ -2,7 +2,7 @@
 title: "Mësimi 46"
 subtitle: "Formimi i formave verbale të personit të dytë (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ prej tij:
 :::
 Për ⟪राहु⟫ dhe ⟪केतु⟫ shihni:
 
-> **Payer, Alois (1944–):** Dharmashastra: Hyrje dhe Përmbledhje. -- 10. Sakramente dhe Rite kalimi (samskara). -- Shtesë C: Rahu dhe Ketu, yjtë lëvizës të padukshëm. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra: Hyrje dhe Përmbledhje. -- 10. Sakramente dhe Rite kalimi (samskara). -- Shtesë C: Rahu dhe Ketu, yjtë lëvizës të padukshëm. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/sq/licenses#lekt4602)

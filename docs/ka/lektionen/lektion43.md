@@ -2,7 +2,7 @@
 title: "ლექცია 43"
 subtitle: 'მე-2 პირის პირადი დანართები (⟪मध्यमः⟫ = \"საშუალო <პირ>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

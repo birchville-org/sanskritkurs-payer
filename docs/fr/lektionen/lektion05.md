@@ -2,7 +2,7 @@
 title: "Leçon 5"
 subtitle: "Fondamentaux des composés nominaux (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Les membres antérieurs des composés (pas seulement les Dvandvas) ont général
 Exemples de Pluraldvandva :
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brâhmanes, Kṣatriyas, Vaiśyas et Śûdras)
-> 
-> ou = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> (un/le Brâhmane, Kṣatriya, Vaiśya et Śûdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brâhmanes, Kṣatriyas, Vaiśyas et Śûdras)
+
+ou = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+(un/le Brâhmane, Kṣatriya, Vaiśya et Śûdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Poètes et enseignants [Plur.])
-> (Remarque : « Un poète et un enseignant » devrait être au duel !)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Poètes et enseignants [Plur.])
+(Remarque : « Un poète et un enseignant » devrait être au duel !)
+:::
 
 **Pour l’ordre des membres dans un Dvandva, valent entre autres les règles suivantes :**
 La désignation des différents états (**varṇa**) doit être ordonnée selon leur hiérarchie (le plus élevé en premier).

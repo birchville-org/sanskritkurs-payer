@@ -2,7 +2,7 @@
 title: "第11课"
 subtitle: "双宾格（人与物的宾格）"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -3,8 +3,8 @@ title: "Lección 8"
 subtitle: "Formación de sustantivos y 8. Clase de presente"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

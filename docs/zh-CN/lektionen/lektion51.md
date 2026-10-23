@@ -2,7 +2,7 @@
 title: "第51课"
 subtitle: "⟪उपपद⟫复合词"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -333,7 +333,9 @@ c) ⟪कृत्⟫后缀 -a
 
 ⟪अजिन⟫ n.：羚羊皮，特指黑羚羊（黑羚 : _Antilope cervicapra_ L.）的皮。原产于整个印度次大陆，从旁遮普和信德到孟加拉，从尼泊尔到坎尼亚库马里（科摩林角）（泰米尔语：கன்னியாகுமரி）。参见：
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

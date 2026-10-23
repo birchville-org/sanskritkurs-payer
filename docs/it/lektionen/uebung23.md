@@ -2,7 +2,7 @@
 title: "Esercizio 23"
 uebung_id: 23
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -212,9 +212,9 @@ C) Fornite le forme della radice (significato, classe del presente, modo, 3. sg.
 | Assolutivo 1 | ⟪हत्वा⟫ |
 | Assolutivo 2 | -⟪हत्य⟫ |
 | Infinito | ⟪हन्तुम्⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung036))
-::::
 :::

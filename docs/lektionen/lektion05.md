@@ -2,7 +2,7 @@
 title: Lektion 5
 subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -64,16 +64,20 @@ Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form
 Beispiele für Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
-> 
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
+
+oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Dichter und Lehrer [Plur.])
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(Dichter und Lehrer [Plur.])
+(Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+:::
 
 **Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:**
 - Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäss ihrer Hierarchie (höchster zuerst) geordnet werden.

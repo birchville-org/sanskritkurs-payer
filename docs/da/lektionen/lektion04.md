@@ -2,7 +2,7 @@
 title: "Lektion 4"
 subtitle: "Spørgende og påpegende pronominer i nominativ"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Med disse pronominer dannes der f.eks. følgende spørgsformler:
 :::
 Et eksempel på andre spørgsmål:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Svar: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (I en nominal sætning kan man f.eks. placere subjektet i starten for at understrege sammenhængen med spørgsmålet.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Svar: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (I en nominal sætning kan man f.eks. placere subjektet i starten for at understrege sammenhængen med spørgsmålet.)
+:::
 
 BEMÆRK: De svar, du kan give på sådanne spørgsmål med dine hidtidige sanskritkundskaber, svarer naturligvis endnu ikke i alle henseender til idiomatisk godt sanskrit.
 

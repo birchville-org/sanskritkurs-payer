@@ -2,7 +2,7 @@
 title: "Exercice 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Questions du roi ⟪शूद्रक⟫ de ⟪विदिशा⟫ au perroqu
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Le roi dit : « Laissons cela de côté ! Satisfaites notre curiosité ! Seigneur, racontez-nous depuis le début : Dans quel pays êtes-vous né ? Qui vous a donné le nom ? Qui est votre mère ? Comment avez-vous obtenu les Védas ? Comment vous êtes-vous familiarisé avec les traités ? D'où avez-vous acquis les arts ? Vous souvenez-vous des naissances antérieures ou pouvez-vous exaucer des vœux ? Ou habitez-vous, en portant le vêtement d'un oiseau, un refuge ? Ou où habitiez-vous auparavant ? Ou quel âge avez-vous ? Comment avez-vous été capturé dans une cage ? Et comment êtes-vous tombé entre les mains des Cāṇḍālas ? Ou comment êtes-vous venu ici ? »
-\>
-> Vaiśampāyana, cependant, qui avait été interrogé avec une curiosité spontanée par le Seigneur de la Terre avec un grand respect, réfléchit un instant puis répondit avec toute la vénération : « Roi, c'est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
+::: indent
+Le roi dit : « Laissons cela de côté ! Satisfaites notre curiosité ! Seigneur, racontez-nous depuis le début : Dans quel pays êtes-vous né ? Qui vous a donné le nom ? Qui est votre mère ? Comment avez-vous obtenu les Védas ? Comment vous êtes-vous familiarisé avec les traités ? D'où avez-vous acquis les arts ? Vous souvenez-vous des naissances antérieures ou pouvez-vous exaucer des vœux ? Ou habitez-vous, en portant le vêtement d'un oiseau, un refuge ? Ou où habitiez-vous auparavant ? Ou quel âge avez-vous ? Comment avez-vous été capturé dans une cage ? Et comment êtes-vous tombé entre les mains des Cāṇḍālas ? Ou comment êtes-vous venu ici ? »
+
+Vaiśampāyana, cependant, qui avait été interrogé avec une curiosité spontanée par le Seigneur de la Terre avec un grand respect, réfléchit un instant puis répondit avec toute la vénération : « Roi, c'est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
+:::
 
 ::: media
 ![](/images/uebung079.webp)

@@ -1,3 +1,4 @@
+
 # Exercitium Scriptionis 9
 
 ### Divisio Verborum

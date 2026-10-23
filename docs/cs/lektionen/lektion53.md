@@ -485,7 +485,9 @@ Obr.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Viz také:
 
-> **Payer, Alois (1944–):** Úvod do exegése sanskrtských textů : skript. -- Kap. 8: Vlastní exegése, část II: K jednotlivým otázkám synchronického chápání. -- Příloha B: Ke metrice sanskrtských textů. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Úvod do exegése sanskrtských textů : skript. -- Kap. 8: Vlastní exegése, část II: K jednotlivým otázkám synchronického chápání. -- Příloha B: Ke metrice sanskrtských textů. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Význam určení metra
 
@@ -560,10 +562,10 @@ Příklad: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Rozložení ⟪लघु⟫ a ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Epický ślóka (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ Nejdůležitější veršový metr v epopejích (⟪महाभारत⟫, �
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Druhá a třetí slabika ⟪पाद⟫ by neměly být zároveň ⟪लघु⟫. V b a d nesmí být slabiky 2 - 4 ¯ ˘ ¯.
@@ -601,19 +603,19 @@ Druhá a třetí slabika ⟪पाद⟫ by neměly být zároveň ⟪लघु�
 **Vedlejší schémata (⟪विपुला⟩) pro a a c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **U všech slokaform je hlavní pauza na konci 2. ⟪पाद⟫ : zde je buď konec slova, nebo – u dlouhých složenin – konec jedné části složení.**
@@ -622,7 +624,7 @@ Druhá a třetí slabika ⟪पाद⟫ by neměly být zároveň ⟪लघु�
 ::: grammar-box
 **Určete mezi všemi doposud naučenými verši sloky. K těmto vytvořte písemně metrický schéma. Uveďte případné nepravidelnosti nebo tvary Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

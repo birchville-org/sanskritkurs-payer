@@ -2,7 +2,7 @@
 title: "Lekcia 25"
 subtitle: 'Tvorba ablatívu (⟪पञ्चमी⟫ = \"piaty pádový koncovka\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

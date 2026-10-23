@@ -2,7 +2,7 @@
 title: "ትምህርት 26"
 subtitle: "በቃላት ውስጥ ለ -s- የሚሰራው የሰሜን ስሜት ሕግ"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

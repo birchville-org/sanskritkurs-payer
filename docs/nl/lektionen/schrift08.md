@@ -1,3 +1,4 @@
+
 # Schrijfoefening 8
 
 Klinkertekens aan het begin van een woord, als het woord in de spelling niet met een voorgaand woord is verbonden:

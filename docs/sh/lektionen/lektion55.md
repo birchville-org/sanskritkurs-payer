@@ -2,7 +2,7 @@
 title: "Lekcija 55"
 subtitle: "Aorist na bazi tematskog vokala a (tematski aorist)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

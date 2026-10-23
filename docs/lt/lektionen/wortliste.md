@@ -25,7 +25,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Šūdra (paslaugų kasta).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Keturios luomų grupės (varṇa)**
+
 Pagal klasikinę teoriją (pvz., Manusmṛti I, 88-91) užduotys pasiskirsto taip:
 
 **brahmanų**
@@ -418,9 +420,6 @@ Paaiškinimas: dvijātīnām = Genitive (Wesfall) Plural to dvijāti (versti či
 
 Indijoje tikėta, kad tiesinis žodis turi magišką galią. Net visa pasaulio tvarka išlaikoma ir sukurta tiesiniu žodžiu. Apie šią svarbią idėją žr. pagrindinį darbą:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -617,17 +616,19 @@ Išmokite šiuos žodžius:
 **eva** ⟪एव⟫ : pabrėžia ankstesnį žodį
 **asura** m. ⟪असुर⟫ : demonas
 
-> **ASURA.** 'Dvasinis, dieviškas.'
-\>
-> Seniausiose Ṛgvedos dalyse šis terminas vartojamas aukščiausiajam dvasingumui apibūdinti ir yra tas pats, kas Zoroastrizmo Ahura. Dievo reikšme jis buvo pritaikytas keliems pagrindiniams dievams, tokieems kaip Indra, Agni ir Varuṇa. Vėliau jis įgavo visiškai priešingą reikšmę ir tapo demonu arba dievų priešu.
-\>
-> Šią reikšmę šis žodys randamas vėlesnėse Ṛgvedos dalyse, ypač paskutinėje knygoje, taip pat Atharvavedoje. Brāhmaṇos priskiria jam tą pačią reikšmę ir fiksuoja daugybę kovų tarp Asurų ir dievų. Pagal Taittirīya Brāhmaṇą, Prajapatio kvėpavimas *(asu)* tapo gyvas, ir "su tuo kvėpavimu jis sukūrė mane Asurus." Kitoje to paties veikalo dalyje sakoma, kad Prajāpati "apvaisino. Jis sukūrė Asurus iš savo pilvo." Śatapatha Brāhmaṇa sutampa su pirmuoju teiginiu ir teigia, kad "jis sukūrė Asurus iš savo apatinio kvėpavimo." Taittirīya Āraṇyaka teigia, kad Prajāpati sukūrė dievus, žmones, tėvus, Gandharvas ir Apsarases iš vandens, o Asurai, Rakṣasos ir piśācas atsirado iš išbarstytų lašelių. Manu teiginys yra tas, kad juos sukūrė Prajāpatis.
-\>
-> Pagal Viṣṇu Purāṇą, jie buvo sukurti iš Brahma (prajāpati) kirkšnies. Vāyu Purāṇos aprašymas yra: "Asurai pirmiausia buvo sukurti kaip sūnūs iš jo (Prajāpati) kirkšnies. *Asu* Brāhmaṇa deklaruojamas kaip kvėpavimas. Iš jo šie būtybės buvo sukurtos; todėl jie yra Asurai." Žodis ilgai buvo vartojamas kaip bendras dievų priešų pavadinimas, įskaitant Daityas ir Danavas bei kitus Kaśyapa palikuonis, bet neįskaitant Rakṣasų, kilusių iš Pulastya.
-\>
-> Šioje reikšmėje jam buvo rasta kitokios kilmės: šaltinis nebe asu, 'kvėpavimas,' o pradinis *a* imamas kaip neigiamas priešdėlis, ir *asura* reiškia 'ne dievas;' todėl, kai kurių nuomone, atsirado žodis *sura,* dažnai vartojamas 'dievui.'"
-\>
-> [Šaltinis: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Dvasinis, dieviškas.'
+
+Seniausiose Ṛgvedos dalyse šis terminas vartojamas aukščiausiajam dvasingumui apibūdinti ir yra tas pats, kas Zoroastrizmo Ahura. Dievo reikšme jis buvo pritaikytas keliems pagrindiniams dievams, tokieems kaip Indra, Agni ir Varuṇa. Vėliau jis įgavo visiškai priešingą reikšmę ir tapo demonu arba dievų priešu.
+
+Šią reikšmę šis žodys randamas vėlesnėse Ṛgvedos dalyse, ypač paskutinėje knygoje, taip pat Atharvavedoje. Brāhmaṇos priskiria jam tą pačią reikšmę ir fiksuoja daugybę kovų tarp Asurų ir dievų. Pagal Taittirīya Brāhmaṇą, Prajapatio kvėpavimas *(asu)* tapo gyvas, ir "su tuo kvėpavimu jis sukūrė mane Asurus." Kitoje to paties veikalo dalyje sakoma, kad Prajāpati "apvaisino. Jis sukūrė Asurus iš savo pilvo." Śatapatha Brāhmaṇa sutampa su pirmuoju teiginiu ir teigia, kad "jis sukūrė Asurus iš savo apatinio kvėpavimo." Taittirīya Āraṇyaka teigia, kad Prajāpati sukūrė dievus, žmones, tėvus, Gandharvas ir Apsarases iš vandens, o Asurai, Rakṣasos ir piśācas atsirado iš išbarstytų lašelių. Manu teiginys yra tas, kad juos sukūrė Prajāpatis.
+
+Pagal Viṣṇu Purāṇą, jie buvo sukurti iš Brahma (prajāpati) kirkšnies. Vāyu Purāṇos aprašymas yra: "Asurai pirmiausia buvo sukurti kaip sūnūs iš jo (Prajāpati) kirkšnies. *Asu* Brāhmaṇa deklaruojamas kaip kvėpavimas. Iš jo šie būtybės buvo sukurtos; todėl jie yra Asurai." Žodis ilgai buvo vartojamas kaip bendras dievų priešų pavadinimas, įskaitant Daityas ir Danavas bei kitus Kaśyapa palikuonis, bet neįskaitant Rakṣasų, kilusių iš Pulastya.
+
+Šioje reikšmėje jam buvo rasta kitokios kilmės: šaltinis nebe asu, 'kvėpavimas,' o pradinis *a* imamas kaip neigiamas priešdėlis, ir *asura* reiškia 'ne dievas;' todėl, kai kurių nuomone, atsirado žodis *sura,* dažnai vartojamas 'dievui.'"
+
+[Šaltinis: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3531,7 +3532,9 @@ iš to:
 
 Dėl ⟪राहु⟫ ir ⟪केतु⟫ žr.:
 
-> **Payer, Alois (1944–):** Dharmashastra : įvadas ir apžvalga. -- 10. Sakramentai ir perėjimo ritualai (samskara). -- Priedas C: Rahu ir Ketu, nematomos klajojančios žvaigždės . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : įvadas ir apžvalga. -- 10. Sakramentai ir perėjimo ritualai (samskara). -- Priedas C: Rahu ir Ketu, nematomos klajojančios žvaigždės . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -4202,7 +4205,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antilopės oda, ypač juodosios antilopės (miško ožys : _Antilope cervicapra_ L. ). Anksčiau paplitusi visame Indijos subkontinente nuo Pandžabo ir Sindas iki Bengalijos ir Kanyakumari (Komorino kyšulys) (tamilų k. : கன்னியாகுமரி) Žr.:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

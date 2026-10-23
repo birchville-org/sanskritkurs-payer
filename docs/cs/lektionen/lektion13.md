@@ -2,7 +2,7 @@
 title: "Lekce 13"
 subtitle: "PPP na -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -17,7 +17,7 @@ Pro rozdělení PPP na -ta- a -na- nelze stanovit pevná pravidla. Avšak:
 
 ::: grammar-box
 
-> Většina kořenů končících na -d tvoří PPP na -na-. V tomto případě se -d-n- nahrazuje za -n-n-, což by jinak ve slovním sandhi nenastalo, ale jde o napodobení větného sandhi.
+Většina kořenů končících na -d tvoří PPP na -na-. V tomto případě se -d-n- nahrazuje za -n-n-, což by jinak ve slovním sandhi nenastalo, ale jde o napodobení větného sandhi.
 
 Příklad:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
@@ -168,17 +168,19 @@ Naučte se následující slova:
 **eva** ⟪एव⟫ : zdůrazňuje předchozí slovo
 **asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Duchovní, božský.'
-\>
-> V nejstarších částech Rigvédy je tento termín používán pro Nejvyššího ducha a je totožný s Ahurou u Zoroastra. Ve smyslu 'bůh' byl aplikován na několik hlavních božstev, jako jsou Indra, Agni a Varuṇa. Později získal zcela opačný význam a začal znamenat, jak je tomu nyní, démona nebo nepřítele bohů.
-\>
-> Toto slovo se vyskytuje s tímto významem v pozdějších částech Rigvédy, zejména v poslední knize, a také ve Atharvavédě. Bráhmany přikládají stejné významy a zaznamenávají mnoho soubojů mezi Asury a bohy. Podle Taittiríja Bráhmany dech *(asu)* Prajápatiho ožil a "tímto dechem jsem stvořil Asury." V jiné části stejného dílu se říká, že Prajápati "otěhotněl. Stvořil Asury ze svého břicha." Šatapatha Bráhmana souhlasí s prvním tvrzením a uvádí, že "stvořil Asury ze svého spodního dechu." Taittiríja Áranjaka představuje, že Prajápati stvořil z vody bohy, lidi, otce, Gandharvy a Apsarásy a že Asurové, Rákšasové a piśácowé vzešli z kapek, které se rozlily. Manu tvrdí, že byli stvořeni Prajápatis.
-\>
-> Podle Višňu Purány byli zplodeni ze stehna Brahmova (prajápatiho). Popis Váju Purány je: "Asurové byli nejprve zplodeni jako synové ze stehna (Prajápatiho). *Asu* je Bráhmánou prohlášeno za dech. Z něj byli tato stvoření zplodena; proto jsou Asurové." Slovo je dlouho používáno jako obecný název pro nepřátele bohů, včetně Daityas a Danavas a dalších potomků Kašjapových, ale nezahrnuje Rákšasy zrozené z Pulasty.
-\>
-> V tomto smyslu byl pro něj nalezen jiný původ: zdrojem již není asu, 'dech', ale počáteční *a* je bráno jako záporná předpona a *asura* znamená 'ne bůh;' odtud, podle některých, vzniklo slovo *sura,* běžně používané pro 'bůh.'"
-\>
-> [Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duchovní, božský.'
+
+V nejstarších částech Rigvédy je tento termín používán pro Nejvyššího ducha a je totožný s Ahurou u Zoroastra. Ve smyslu 'bůh' byl aplikován na několik hlavních božstev, jako jsou Indra, Agni a Varuṇa. Později získal zcela opačný význam a začal znamenat, jak je tomu nyní, démona nebo nepřítele bohů.
+
+Toto slovo se vyskytuje s tímto významem v pozdějších částech Rigvédy, zejména v poslední knize, a také ve Atharvavédě. Bráhmany přikládají stejné významy a zaznamenávají mnoho soubojů mezi Asury a bohy. Podle Taittiríja Bráhmany dech *(asu)* Prajápatiho ožil a "tímto dechem jsem stvořil Asury." V jiné části stejného dílu se říká, že Prajápati "otěhotněl. Stvořil Asury ze svého břicha." Šatapatha Bráhmana souhlasí s prvním tvrzením a uvádí, že "stvořil Asury ze svého spodního dechu." Taittiríja Áranjaka představuje, že Prajápati stvořil z vody bohy, lidi, otce, Gandharvy a Apsarásy a že Asurové, Rákšasové a piśácowé vzešli z kapek, které se rozlily. Manu tvrdí, že byli stvořeni Prajápatis.
+
+Podle Višňu Purány byli zplodeni ze stehna Brahmova (prajápatiho). Popis Váju Purány je: "Asurové byli nejprve zplodeni jako synové ze stehna (Prajápatiho). *Asu* je Bráhmánou prohlášeno za dech. Z něj byli tato stvoření zplodena; proto jsou Asurové." Slovo je dlouho používáno jako obecný název pro nepřátele bohů, včetně Daityas a Danavas a dalších potomků Kašjapových, ale nezahrnuje Rákšasy zrozené z Pulasty.
+
+V tomto smyslu byl pro něj nalezen jiný původ: zdrojem již není asu, 'dech', ale počáteční *a* je bráno jako záporná předpona a *asura* znamená 'ne bůh;' odtud, podle některých, vzniklo slovo *sura,* běžně používané pro 'bůh.'"
+
+[Zdroj: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

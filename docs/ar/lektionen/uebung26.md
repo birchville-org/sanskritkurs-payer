@@ -2,7 +2,7 @@
 title: "التمرين 26"
 uebung_id: 26
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

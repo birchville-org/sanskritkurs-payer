@@ -3,8 +3,8 @@ title: "Lecziun 8"
 subtitle: "Furmaziun da sustantivs & Classa da present 8"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

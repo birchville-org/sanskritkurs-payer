@@ -2,7 +2,7 @@
 title: "Pelajaran 5"
 subtitle: "Dasar-dasar Komposita Nomina (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Unsur depan komposita (tidak hanya Dvandva) umumnya berbentuk **akar nominal** y
 Contoh Dvandja Plural:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmana, Kṣatriya, Vaiśya dan Śūdra)
-> 
-> atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((seorang/ sang) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmana, Kṣatriya, Vaiśya dan Śūdra)
+
+atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((seorang/ sang) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Penyair dan guru [Plural])
-> (Catatan: "Seorang penyair dan seorang guru" harus berada dalam bentuk Dual!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Penyair dan guru [Plural])
+(Catatan: "Seorang penyair dan seorang guru" harus berada dalam bentuk Dual!)
+:::
 
 **Untuk urutan unsur-unsur dalam Dvandva, berlaku antara lain aturan berikut:**
 Penamaan berbagai kasta (**varṇa**) harus diurutkan sesuai hierarkinya (yang tertinggi terlebih dahulu).

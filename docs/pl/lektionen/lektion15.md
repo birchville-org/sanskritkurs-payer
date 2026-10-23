@@ -2,7 +2,7 @@
 title: "Lekcja 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -31,12 +31,12 @@ Zależność przypadkowa obu członów złożenia jest niezależna od tego, w ja
 
 np.
 
-> Mian. lp ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
-> Biern. lp ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
-> Narz. lp ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
-> Dopełn. lp ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
-> Mian. lm ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
-> itd.
+Mian. lp ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+Biern. lp ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+Narz. lp ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+Dopełn. lp ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+Mian. lm ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+itd.
 
 Rod gramatyczny Tatpuruṣy jest – z nielicznymi wyjątkami – taki jak jego człon drugi.
 

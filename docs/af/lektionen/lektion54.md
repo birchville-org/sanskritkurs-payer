@@ -2,7 +2,7 @@
 title: "Lesing 54"
 subtitle: "Voorafgaande opmerking"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -46,36 +46,36 @@ Die ⟪त्रिष्टुभ्⟫ het twee basiese patrone, afhangende da
 Skema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Patroon II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Die hoeveelheid van die laaste vier lettergrepe is dus dieselfde in beide skemas.
 
 ⟪जगती⟫—Basiese vorm: soos in ⟪त्रिष्टुभ्⟫, maar 12 lettergrepe lank. Die laaste 5 lettergrepe van elke pada het die volgende hoeveelhede:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Daarbenewens is daar die sogenaamde tipies supernumerêre ⟪त्रिष्टुभ्⟫ met 'n vyflettergreep-openingssegment, wat voortgaan soos 'n ⟪त्रिष्टुभ्⟫ met 'n vierlettergreep-openingssegment:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In latere tye is die vorme van die ⟪त्रिष्टुभ्⟫ gestandaardiseer volgens 'n streng skema van lang en kort lettergrepe; keusuur het nie meer 'n rol gespeel nie. Die belangrikste latere vorme is:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

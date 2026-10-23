@@ -71,7 +71,7 @@ Primeri:
 :::
 ## 32.4. Primeri tvorbe imperfekta
 
-::: important
+::: warning-box
 **Za demonstracijo tvorbe oblik se tukaj tvorijo tudi oblike Ātmanepada za korene Parasmaipada! Te umetne oblike so med znaki \< \>.**
 :::
 ### 32.4.1. Tematske razrede prezenta
@@ -582,7 +582,7 @@ Prevajajte in določite naslednje oblike besed:
 
 ## 32.9. Vaja prevajanja
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

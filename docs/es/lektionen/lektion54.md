@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ La ⟪त्रिष्टुभ्⟫ presenta dos esquemas básicos, dependie
 Esquema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Esquema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 La cuantidad de las cuatro últimas sílabas es, por tanto, idéntica en ambos esquemas.
 
 Forma básica de ⟪जगती⟫ (jagatī): como en la ⟪त्रिष्टुभ्⟫, pero de doce sílabas. Las últimas cinco sílabas de cada Pada presentan las siguientes cantidades:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Además, existe la llamada ⟪त्रिष्टुभ्⟫ (triṣṭubh) típicamente sobredimensionada, con un primer miembro de cinco sílabas, que continúa como una ⟪त्रिष्टुभ्⟫ con un primer miembro de cuatro sílabas:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 En épocas posteriores, las formas de la ⟪त्रिष्टुभ्⟫ se fijan según un estricto esquema de largas y breves, y la cesura deja de tener importancia. Las formas posteriores más importantes son:
 
 a) ⟪इन्द्रवज्रा⟫ (indravajrā)
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫ (upendravajrā)
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫ (upajāti)
@@ -274,7 +274,5 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
-::: \<!--  --\>
-
 :::
 

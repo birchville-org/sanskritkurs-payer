@@ -2,7 +2,7 @@
 title: "පාඩම 24"
 subtitle: 'දත්ත කාරකය (⟪चतुर्थी⟫ = "සිව්වන විභක්ති පර්යන්තය")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

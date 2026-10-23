@@ -2,7 +2,7 @@
 title: "Lekce 45"
 subtitle: "Tvoření tvarů sloves druhé osoby (⟪मध्यमः⟫) athematických kmenů bez vokálově končící přípony (pokračování)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

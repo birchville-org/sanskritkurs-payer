@@ -2,7 +2,7 @@
 title: "[Ejercicio 30]"
 uebung_id: 30
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -171,9 +171,9 @@ Determine y traduzca las siguientes formas:
 | ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | a ellas |
 | ⟪३९⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. | en ello, en esto |
 | ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | al Ser / al Bueno |
-:::: media
+:::
+::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung047))
-::::
 :::

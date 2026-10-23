@@ -2,7 +2,7 @@
 title: "Lesing 17"
 subtitle: "Tweede teenwoordige klas (⟪अदादि⟫ = ⟪अद्⟫ ens.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

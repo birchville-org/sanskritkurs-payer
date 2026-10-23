@@ -2,7 +2,7 @@
 title: "Lekce 23"
 subtitle: "Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Pokud chceme v sanskrtu vyjádřit, že činnost probíhá pro účel jiné činnosti („aby“), můžeme pro činnost, jejíž účelem je, použít infinitiv (⟪तुमुन्⟫). Infinitiv primárně označuje účel nebo záměr:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = „Ráma odešel, aby poslechl přednášku mistra.“
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = „Ráma odešel, aby poslechl přednášku mistra.“
 
 **Všimněte si, že infinitiv – s několika pevně definovanými výjimkami – nemůže stát jako předmět nebo subjekt slovesa:**
 
-> „Učí se tančit“ tedy nelze přeložit infinitivem („tančit“), ale je třeba použít verbální substantivo, např.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „učit se“).
+„Učí se tančit“ tedy nelze přeložit infinitivem („tančit“), ale je třeba použít verbální substantivo, např.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „učit se“).
 
 **Infinitiv se také používá se slovesy a podstatnými jmény ve významu „přát si“ nebo „toužit“, pokud je agens (⟪कर्तृ⟫) infinitivu a slovesa totožný:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = „Ráma si přeje poslechnout přednášku mistra.“
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = „Ráma si přeje poslechnout přednášku mistra.“
 
 **Infinitiv se mimo jiné používá také u sloves ve významu „být schopen“, „existovat“, „vědět“, „začít“:**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = „Svatý nemůže spáchat nepravost.“  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = „Existuje jídlo k jídlu“ (⟪भुज्⟫ 7: Ā: jíst, P: vládnout)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = „Svatý nemůže spáchat nepravost.“
+⟪अस्ति भोक्तुमन्नम्⟫ = „Existuje jídlo k jídlu“ (⟪भुज्⟫ 7: Ā: jíst, P: vládnout)
 
 **Infinitiv se také používá s výrazy ve významu „dostatečný“, „schopný“ a s podstatnými jmény ve významu „schopnost“, „síla“, „zručnost“:**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = „Oheň má moc spálit vše.“
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = „Oheň má moc spálit vše.“
 
 **Infinitiv lze použít i s výrazy ve významu „čas“, např. v konstrukcích typu „Je čas …“:**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = „Je čas věnovat se jídlu“ = „Je čas jíst“
+⟪कालो भोजनं सेवितुम्⟫ = „Je čas věnovat se jídlu“ = „Je čas jíst“
 
 **Infinitiv může být používán aktivně i pasivně. Pasivní infinitiv v němčině se v sanskrtu vyjadřuje tím, že sloveso (zejména často ⟪शक्⟫ „být schopen, umět“), od něhož infinitiv závisí, je uvedeno do pasiva.**
 
@@ -44,13 +44,13 @@ status: stable
 
 např.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = „Svatý nemůže spáchat křivdu.“
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = „Svatý nemůže spáchat křivdu.“
 
 **Ve 2. osobě se ⟪अर्ह्⟫ + infinitiv často používá jako měkký rozkaz: „Měl bys.“**
 
 **Pokud infinitiv závisí na podstatném jménu, nesmí být s ním spojen do kompozita. Výjimkou jsou Bahuvrīhi, jejichž druhým členem je ⟪काम⟫ nebo ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = „ten, jehož přáním je mluvit; ten, kdo chce mluvit“.
+⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = „ten, jehož přáním je mluvit; ten, kdo chce mluvit“.
 :::
 ## 23.2. Tvoření infinitivu (⟪तुमुन्⟫)
 

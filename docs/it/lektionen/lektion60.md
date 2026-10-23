@@ -2,7 +2,7 @@
 title: "Lezione 60"
 subtitle: "Le desinenze del duale del perfetto (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -70,7 +70,7 @@ Exemple:
 :::
 ## 32.4. Exemple de formare a imperfectului
 
-::: important
+::: warning-box
 **Pentru a demonstra formarea formelor, sunt formate aici și forme Ātmanepada pentru rădăcinile Parasmaipada! Aceste forme artificiale se află între \< \>.**
 :::
 ### 32.4.1. Clase tematice de prezent
@@ -603,7 +603,7 @@ Traduceți și determinați următoarele forme de cuvinte:
 
 ## 32.9. Exercițiu de traducere
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

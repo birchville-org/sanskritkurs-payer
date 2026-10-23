@@ -2,7 +2,7 @@
 title: "Lección 26"
 subtitle: "Ley de cerebralización para -s- en el interior de la palabra"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

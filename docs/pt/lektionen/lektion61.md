@@ -752,7 +752,7 @@ Fig.: A melodia, referenciada a c, pode ser transposta conforme o registro vocal
 
 Agora que você aprendeu os fundamentos do sânscrito, esperamos que esteja como as crianças pequenas no vídeo: às vezes desajeitado, mas ávido por aprender e conhecimento, e com alegria na tarefa. Mantenha "uma mente de principiante" até o fim da sua vida.
 
-::: center
+::: verse-box
 Isso lhe deseja seu Alois Payer
 
 Ofterdingen, 2009-03-09

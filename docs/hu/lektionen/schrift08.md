@@ -1,3 +1,4 @@
+
 # Írásgyakorlat 8
 
 Magánhangzójelek szókezdő helyzetben, ha a szó nem kapcsolódik írásban egy előző szóhoz:

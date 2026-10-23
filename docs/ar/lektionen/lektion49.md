@@ -2,7 +2,7 @@
 title: "الدرس 49"
 subtitle: "صيغة الأمر (⟪लोट्⟫) لأصول المضارع غير المتحرك (استكمال)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

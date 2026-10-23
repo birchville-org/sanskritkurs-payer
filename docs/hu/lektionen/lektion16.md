@@ -2,7 +2,7 @@
 title: "16. lecke"
 subtitle: "A szó végén álló mássalhangzók sandhijáról"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

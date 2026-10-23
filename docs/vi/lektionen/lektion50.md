@@ -2,7 +2,7 @@
 title: "Bài 50"
 subtitle: "Hình thành danh từ: biến đổi đều đặn"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

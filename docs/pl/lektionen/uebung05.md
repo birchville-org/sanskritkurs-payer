@@ -2,7 +2,7 @@
 title: "Ćwiczenie 5"
 uebung_id: 5
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -98,7 +98,7 @@ Ilustracja: ⟪अभ्निवेशो न वा ।⟫
 :::
 ---
 
->> ## ĀbÜbung Lektion 5
+## ĀbÜbung Lektion 5
 ---
 
 ## Ćwiczenie powtórkowe Lekcja 5

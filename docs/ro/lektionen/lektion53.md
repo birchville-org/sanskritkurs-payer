@@ -628,7 +628,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Vezi de asemenea:
 
-> **Payer, Alois (1944–):** Introducere în exegeza textelor sanscrite : Script. -- Cap. 8: Exegeza propriu-zisă, Partea a II-a: La anumite probleme de înțelegere sincron. -- Anexa B: Despre metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introducere în exegeza textelor sanscrite : Script. -- Cap. 8: Exegeza propriu-zisă, Partea a II-a: La anumite probleme de înțelegere sincron. -- Anexa B: Despre metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Semnificația determinării metrului
 
@@ -648,7 +650,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 Vedeți, de asemenea:
 
-> **Payer, Alois (1944–):** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Semnificația stabilirii metricii
 
@@ -748,13 +752,13 @@ Exemplu: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 Distribuirea ⟪लघु⟫ și ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -794,7 +798,7 @@ Cel mai important metru în epopee (⟪महाभारत⟫, ⟪रामा
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -802,7 +806,7 @@ Cel mai important metru în epopee (⟪महाभारत⟫, ⟪रामा
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -814,7 +818,7 @@ A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan 
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -822,7 +826,7 @@ A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan 
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -830,7 +834,7 @@ A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan 
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -838,7 +842,7 @@ A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan 
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -853,7 +857,7 @@ A doua și a treia silabă a unui ⟪पाद⟫ nu ar trebui să fie simultan 
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

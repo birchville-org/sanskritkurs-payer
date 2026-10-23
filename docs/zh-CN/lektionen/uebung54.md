@@ -2,7 +2,7 @@
 title: "练习 54"
 uebung_id: 54
 category: "练习"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -36,11 +36,11 @@ last_reconstructed: 2026-05-15
 | ⟪२१⟫. | **⟪जायते⟫** | 他被出生 | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | 被唱 | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | 被走 | **⟪अगामि⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung093.webp)
 图：⟪अगायि⟫
 （图片来源：[详情](/licenses#uebung093)）
 
-::::
 :::
 

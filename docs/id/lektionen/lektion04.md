@@ -2,7 +2,7 @@
 title: "Pelajaran 4"
 subtitle: "Kata tanya dan kata ganti demonstratif dalam kasus nominatif"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 :::
 Contoh pertanyaan lainnya:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟩ ⟪कः⟩ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟩. (Dalam kalimat nominal, subjek dapat diletakkan di awal untuk menekankan kesinambungan dengan pertanyaan.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟩ ⟪कः⟩ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟩. (Dalam kalimat nominal, subjek dapat diletakkan di awal untuk menekankan kesinambungan dengan pertanyaan.)
+:::
 
 CATATAN: Jawaban yang dapat Anda berikan terhadap pertanyaan-pertanyaan tersebut dengan pengetahuan Sanskerta Anda sejauh ini, tentu saja belum sepenuhnya sesuai dengan standar bahasa Sanskerta yang idiomatis.
 

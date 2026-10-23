@@ -3,8 +3,8 @@ title: "Urok 2"
 subtitle: "Imenski stavek in osnove sklanjanja"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Shema: Predikatsko ime - Subjekt**
+:::
 
+::: indent
 npr. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu je bog."
 :::
 Glagolska kopula ("je", "so", "sem", "si", "ste") ni nujna, vendar se lahko včasih pojavi.
@@ -76,7 +78,9 @@ Končna črka besede se v sanskrtu prilagodi tudi začetni črki naslednje besed
 
 Glej tudi preglednico:
 
-> **Payer, Alois (1944–):** Sandhi končnega -s. -- (Gradiva za sanskrt). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi končnega -s. -- (Gradiva za sanskrt). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Končno **-s**:
 
@@ -120,7 +124,9 @@ pred drugimi samoglasniki: postane **-a** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (stan uslužbencev).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Štirje stanovi (varṇa)**
+
 Po klasični teoriji (npr. Manusmṛti I, 88-91) so naloge razporejene:
 
 **brahmanov**

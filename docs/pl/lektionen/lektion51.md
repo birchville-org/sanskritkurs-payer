@@ -2,7 +2,7 @@
 title: "Lekcja 51"
 subtitle: "⟪उपपद⟫-złożenia"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -167,53 +167,53 @@ Liczba pojedyncza:
 
 ::: indent
 
-> Mianownik.Wołacz ⟪शत्रुजित्⟫ (śatrujit + s)
+Mianownik.Wołacz ⟪शत्रुजित्⟫ (śatrujit + s)
 Biernik ⟪शत्रुजितम्⟫
 
 :::
 
-> Liczba mnoga:
+Liczba mnoga:
 
 ::: indent
 
-> Mianownik.Biernik.Wołacz ⟪शत्रुजितस्⟫
-> Narzędnik ⟪शत्रुजिद्भिस्⟫
-> Miejscownik ⟪शत्रुजित्सु⟫
+Mianownik.Biernik.Wołacz ⟪शत्रुजितस्⟫
+Narzędnik ⟪शत्रुजिद्भिस्⟫
+Miejscownik ⟪शत्रुजित्सु⟫
 
 :::
 
-> Rodaj nijaki
+Rodaj nijaki
 
 ::: indent
 
-> Liczba pojedyncza Mianownik.Biernik.Wołacz ⟪शत्रुजित्⟫
-> Liczba mnoga Mianownik.Biernik.Wołacz :sig[⟪शत्रुजिन्ति⟫]
+Liczba pojedyncza Mianownik.Biernik.Wołacz ⟪शत्रुजित्⟫
+Liczba mnoga Mianownik.Biernik.Wołacz :sig[⟪शत्रुजिन्ति⟫]
 
 :::
 
-> ⟪सुयुध्⟫ 3 "dobrze walczący"
+⟪सुयुध्⟫ 3 "dobrze walczący"
 
 ::: indent
 
-> Liczba pojedyncza Mianownik.Wołacz.m.ż.n. ⟪सुयुत्⟫
-> itd.
+Liczba pojedyncza Mianownik.Wołacz.m.ż.n. ⟪सुयुत्⟫
+itd.
 
 :::
 
-> Pełne paradigmy u Kielhorna, Gramatyka str. 16nast.
+Pełne paradigmy u Kielhorna, Gramatyka str. 16nast.
 
-> ### 51.2.2. Plemiona na zwarte spółgłoski palatalne (c, ch, j), ś, ṣ
+### 51.2.2. Plemiona na zwarte spółgłoski palatalne (c, ch, j), ś, ṣ
 
 ::: grammar-box
 
-> **Przed końcówką zaczynającą się samogłoską, koniec plemienia pozostaje niezmieniony.**
+**Przed końcówką zaczynającą się samogłoską, koniec plemienia pozostaje niezmieniony.**
 
-> **Przed pozostałymi końcówkami obowiązuje:**
+**Przed pozostałymi końcówkami obowiązuje:**
 
-> * **końcowe -c i -j są zastępowane przez k, a plemiono jest następnie traktowane tak, jakby kończyło się na -k**
-> * **w niektórych słowach (lista u Kielhorna, Gramatyka str. 18) końcowe -j jest zastępowane przez -ṭ**
-> * **końcowe -ch jest zastępowane przez -ṭ**
-> * **końcowe -ś i -ṣ są – z kilkoma wyjątkami – zastępowane przez -ṭ. W przypadkach wyjątkowych -ś i -ṣ są zastępowane przez -k**
+* **końcowe -c i -j są zastępowane przez k, a plemiono jest następnie traktowane tak, jakby kończyło się na -k**
+* **w niektórych słowach (lista u Kielhorna, Gramatyka str. 18) końcowe -j jest zastępowane przez -ṭ**
+* **końcowe -ch jest zastępowane przez -ṭ**
+* **końcowe -ś i -ṣ są – z kilkoma wyjątkami – zastępowane przez -ṭ. W przypadkach wyjątkowych -ś i -ṣ są zastępowane przez -k**
 
 **tzn.**
 
@@ -466,7 +466,9 @@ np. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: skóra antylopy, zwłaszcza skóra czarnej antylopy (antylopka czarna : _Antilope cervicapra_ L. ). Występowała pierwotnie na całym subkontynencie indyjskim od Pendżabu i Sindu do Bengalu oraz od Nepalu po Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Por.:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 

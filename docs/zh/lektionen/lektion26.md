@@ -2,7 +2,7 @@
 title: "第26課"
 subtitle: "詞中-s-的腦化律"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

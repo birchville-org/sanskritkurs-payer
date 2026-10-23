@@ -2,7 +2,7 @@
 title: "Ejercicio 48"
 uebung_id: 48
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -150,9 +150,9 @@ El esposo entra en su esposa, se convierte en embrión y luego nace aquí; en es
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung084))
-:::: media
+:::
+::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung077))
-::::
 :::

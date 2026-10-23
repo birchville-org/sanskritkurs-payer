@@ -2,7 +2,7 @@
 title: "第4課"
 subtitle: "主格中的疑問代詞與指示代詞"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ status: stable
 :::
 其他問題範例：
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，您可以在名詞句中將主語例如移至句首，以強調與問題的銜接。）
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，您可以在名詞句中將主語例如移至句首，以強調與問題的銜接。）
+:::
 
 註：憑藉您目前所學的梵文知識，對這些問題所作的回答，自然還未在所有方面都符合地道的梵文規範。
 

@@ -2,7 +2,7 @@
 title: "Pelajaran 7"
 subtitle: "Kalimat verbal dengan objek langsung"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Pelajaran 7
 
 
-::: center
+::: verse-box
 **Kutipan Mingguan**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Tuhan menang, bukan dewa palsu.
 ::: grammar-box
 **Skema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – objek langsung (karman n. = ⟪कर्मन्⟫) – kata kerja**
+:::
 
+::: indent
 misalnya
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma makan (mengunyah) sebuah buah."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahmana memuja seorang dewa dengan sebuah persembahan (untuk orang lain)."

@@ -70,7 +70,7 @@ Esimerkit:
 :::
 ## 32.4. Imperfektiiiiii muodostuksen esimerkit
 
-::: important
+::: warning-box
 **Muotojen muodostuksen demonstroimiseksi tässä muodostetaan myös ātmanepada-muotoja parasmaipada-juurille! Nämä keinotekoiset muodot ovat välissä \< \>.**
 :::
 ### 32.4.1. Teemalliset preesensluokat
@@ -603,7 +603,7 @@ Käännä ja määritä seuraavat sanamuodot:
 
 ## 32.9. Käännösharjoitus
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

@@ -2,7 +2,7 @@
 title: "Lição 27"
 subtitle: 'Uso do locativo (⟪सप्तमी⟫ f. = "sétima terminação casuística")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. O locativo (⟪सप्तमी⟫) designa, em resposta à pergunta "Onde?", o espaço no qual (em, sobre, junto a) o agente (⟪कर्ता⟫) ou o objeto de uma ação se encontra, ou onde a própria ação ocorre.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "Ele mora na cidade"
+⟪नगरे⟫ ⟪वसति⟫ = "Ele mora na cidade"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. O locativo indica, em resposta à pergunta "Quando?", o momento ou as circunstâncias externas:**
 
-> ⟪तस्मिन्काले⟫ = "naquele momento, nesta época"
+⟪तस्मिन्काले⟫ = "naquele momento, nesta época"
 
 **A este grupo pertence também o chamado Locativus Absolutus:**
 
 **Se a ação ou o estado de uma pessoa ou coisa determina o tempo em que — ou as circunstâncias sob as quais — uma OUTRA pessoa ou coisa realiza uma ação ou se encontra em um determinado estado, então a palavra que designa a primeira pessoa ou coisa, juntamente com a palavra que a qualifica (que frequentemente é um particípio), é colocada no locativo (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "enquanto o tempo passa assim..."
->
-> ⟪तस्मिन्गते⟫ = "quando ele se foi..."
+⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "enquanto o tempo passa assim..."
+
+⟪तस्मिन्गते⟫ = "quando ele se foi..."
 
 **Às vezes, o agente (⟪कर्ता⟫) não é indicado separadamente:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "sendo assim"
+⟪एवं⟫ ⟪सति⟫ = "sendo assim"
 
 **O locativo absoluto deve ser traduzido, conforme o contexto, por "enquanto" (p. ex., particípio presente), "depois que", "quando" (p. ex., PPP), "visto que", "porque", "embora", "se", etc.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. O locativo também responde à pergunta "Em relação a quê?" e similares:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ele tem amor por seu filho" (lit. "Em relação ao filho, há amor nele")
+⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ele tem amor por seu filho" (lit. "Em relação ao filho, há amor nele")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. O locativo é usado nos léxicos nativos e por comentadores para indicar o significado de uma palavra:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "a raiz ⟪भू⟫ no significado de 'existência' (sat-tā)"
+⟪भू⟫ ⟪सत्तायाम्⟫ = "a raiz ⟪भू⟫ no significado de 'existência' (sat-tā)"
 
 :::
 Mais sobre o uso do locativo posteriormente.

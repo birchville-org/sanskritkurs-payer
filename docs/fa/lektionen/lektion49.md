@@ -2,7 +2,7 @@
 title: درس ۴۹
 subtitle: "ساخته شدن امری (⟪लोट्⟫) بن‌های پیشین بدون هوا (ادامه)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "دستور زبان"
 status: stable
 ---

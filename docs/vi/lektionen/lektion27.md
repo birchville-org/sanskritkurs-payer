@@ -2,7 +2,7 @@
 title: "Bài 27"
 subtitle: 'Cách sử dụng cách địa vị (⟪सप्तमी⟫ f. = \"hậu tố cách địa vị thứ bảy\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. Cách địa (⟪सप्तमी⟫) trả lời cho câu hỏi "Ở đâu?" chỉ không gian, nơi mà (ở, trên, bên cạnh) tác nhân (⟪कर्ता⟫) hoặc đối tượng của một hành động đang hiện diện, hoặc nơi chính hành động đó diễn ra.**
 
-> ⟪नगरे वसति⟫ = "Ngài ấy cư trú trong thành phố"
+⟪नगरे वसति⟫ = "Ngài ấy cư trú trong thành phố"
 
 :::
 
@@ -44,19 +44,19 @@ Jaipur, 1875.
 
 **2. Cách địa trả lời cho câu hỏi "Khi nào?" chỉ thời điểm hoặc các hoàn cảnh bên ngoài:**
 
-> ⟪तस्मिन्काले⟫ = "vào thời điểm đó, vào lúc ấy"
+⟪तस्मिन्काले⟫ = "vào thời điểm đó, vào lúc ấy"
 
 **Cũng thuộc loại này là cái được gọi là Locativus Absolutus (Cách địa tuyệt đối):**
 
 **Nếu hành động hoặc trạng thái của một người hay vật xác định thời điểm mà - hoặc hoàn cảnh dưới đó - MỘT NGƯỜI HAY VẬT KHÁC thực hiện một hành động hoặc ở trong một trạng thái nhất định, thì từ chỉ người hay vật thứ nhất cùng với từ xác định thêm nó (thường là một phân từ) sẽ ở cách địa (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "trong khi thời gian trôi qua..."
-\>
-> ⟪तस्मिन्गते⟫ = "khi ngài ấy đã đi..."
+⟪एवं गच्छति काले⟫ = "trong khi thời gian trôi qua..."
+
+⟪तस्मिन्गते⟫ = "khi ngài ấy đã đi..."
 
 **Đôi khi tác nhân (⟪कर्ता⟫) không được nêu rõ:**
 
-> ⟪एवं सति⟫ = "vì tình hình như vậy"
+⟪एवं सति⟫ = "vì tình hình như vậy"
 
 **Locativus absolutus phải được dịch tùy theo ngữ cảnh với "trong khi" (ví dụ: phân từ hiện tại), "sau khi", "khi" (ví dụ: PPP - quá khứ phân từ bị động), "vì", "bởi vì", "mặc dù", "nếu" v.v.**
 
@@ -78,7 +78,7 @@ Rajasthan.
 
 **3. Cách bổ ngữ (Lokativ) cũng được dùng để trả lời câu hỏi "Liên quan đến cái gì?" và các dạng tương tự:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hắn có tình yêu thương đối với con trai mình" (nghĩa đen: "Liên quan đến người con, tình yêu thương hiện hữu ở hắn")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hắn có tình yêu thương đối với con trai mình" (nghĩa đen: "Liên quan đến người con, tình yêu thương hiện hữu ở hắn")
 
 :::
 
@@ -96,7 +96,7 @@ Holi.
 
 **4. Cách bổ ngữ (Lokativ) được các từ điển bản địa và các nhà chú giải sử dụng để chỉ rõ nghĩa của một từ:**
 
-> ⟪भू सत्तायाम्⟫ = "Gốc từ ⟪भू⟫ với nghĩa là 'tính hiện hữu' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "Gốc từ ⟪भू⟫ với nghĩa là 'tính hiện hữu' (sat-tā)"
 
 :::
 

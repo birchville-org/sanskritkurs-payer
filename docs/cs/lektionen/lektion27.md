@@ -2,7 +2,7 @@
 title: "Lekce 27"
 subtitle: 'Užití lokativu (⟪सप्तमी⟫ f. = \"sedmý pádový koncovka\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) odpovídá na otázku "Kde?" a označuje prostor, v (na, u) kterém se nachází agens (⟪कर्ता⟫) nebo objekt děje, nebo kde samotný děj probíhá.**
 
-> ⟪नगरे वसति⟫ = "Bydlí ve městě"
+⟪नगरे वसति⟫ = "Bydlí ve městě"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokativ označuje na otázku "Kdy?" časový okamžik nebo vnější okolnosti:**
 
-> ⟪तस्मिन्काले⟫ = "v onen čas, v tuto dobu"
+⟪तस्मिन्काले⟫ = "v onen čas, v tuto dobu"
 
 **Sem patří také tzv. Locativus Absolutus:**
 
 **Pokud děj nebo stav osoby či věci určuje čas, kdy – nebo okolnosti, za kterých – JINÁ osoba nebo věc vykonává činnost nebo se nachází v určitém stavu, pak slovo označující první osobu či věc spolu se slovem ji blíže určujícím (kterým je často participium) stojí v lokativu (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "zatímco čas plyne..."
-\>
-> ⟪तस्मिन्गते⟫ = "když odešel..."
+⟪एवं गच्छति काले⟫ = "zatímco čas plyne..."
+
+⟪तस्मिन्गते⟫ = "když odešel..."
 
 **Někdy není agens (⟪कर्ता⟫) výslovně uveden:**
 
-> ⟪एवं सति⟫ = "jelikož je to tak"
+⟪एवं सति⟫ = "jelikož je to tak"
 
 **Locativus absolutus se musí podle kontextu přeložit jako "zatímco" (např. participium přítomné), "poté, co", "když" (např. PPP), "jelikož", "protože", "ačkoli", "kdy" atd.**
 
@@ -69,7 +69,7 @@ Rádžasthán.
 
 **3. Lokativ stojí také na otázku „Vzhledem k čemu?“ apod.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Má lásku ke svému synovi“ (doslova: „Vzhledem k synovi je u něj láska“)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „Má lásku ke svému synovi“ (doslova: „Vzhledem k synovi je u něj láska“)
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Hólí.
 
 **4. Lokativ slouží v domácích slovnících a u komentátorů k určení významu slova:**
 
-> ⟪भू सत्तायाम्⟫ = „kořen ⟪भू⟫ ve významu ‚bytostnost‘ (sat-tā)“
+⟪भू सत्तायाम्⟫ = „kořen ⟪भू⟫ ve významu ‚bytostnost‘ (sat-tā)“
 
 :::
 Další informace o užití lokativu později.

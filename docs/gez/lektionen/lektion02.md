@@ -3,8 +3,8 @@ title: "ለክፍል 2"
 subtitle: "የስም ሀረግ እና የዲክሊኔሽን መሰረቶች"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,11 +14,11 @@ last_reconstructed: 2026-04-30
 ## 2.1. የስም ሀብት
 
 ::: grammar-box
-
 **ስኬማ፡ ተዋሳይ ስም - ዓቃቢ**
+:::
 
+::: indent
 ምሳሌ፡ devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "ቢሽኑ አምላክ ነው።"
-
 :::
 
 የተግባር ተዋሳይ ("ነው"፣ "ነን"፣ "ኔ ነኝ"፣ "አንተ ነህ"፣ "እናንተ ናችኋል") አስፈላጊ አይደለም፣ ነገር ግን በአንዳንድ ጊዜ ሊኖር ይችላል።
@@ -84,7 +84,9 @@ last_reconstructed: 2026-04-30
 
 እባክዎ ይህንን ማጠቃለያ ያስተውሉ፡
 
-> **Payer, Alois (1944–):** የመጨረሻ -s ሳንዲ. -- (የሳንስክርት ቁጥጥር) -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** የመጨረሻ -s ሳንዲ. -- (የሳንስክርት ቁጥጥር) -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 የመጨረሻ **-s**፡
 
@@ -128,7 +130,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-::: note-box አርባዕቱ መደባት (ቫርና)
+::: note-box
+**አርባዕቱ መደባት (ቫርና)**
+
 
 በጥንታዊት ትምህርት (ለምሳሌ ማኑስምርቲ ፩, ፹፰-፺፩) ተግባራት ይከፋፈላሉ:
 

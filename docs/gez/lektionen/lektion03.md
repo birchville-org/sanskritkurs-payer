@@ -2,7 +2,7 @@
 title: "ለክፍል 3"
 subtitle: "የሴት አንድነት ርእሰ-ጽሑፍ"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ status: stable
 
 :::
 
-::: important
+::: warning-box
 
 **ጥንቃቄ!** በተጨማሪም አንድ ሰው የሆኑ ሴት ሥር ስማዊ መሰረቶች በ -ī የሚጠናቀቁ ሲሆን አንጻራዊ ስም ብቸኛ በ -s ይጠናቀቃል፡ ምሳሌ dhī f. "አስተላላፊ" -- አንጻራዊ ስም ብቸኛ፡ dhīs = ⟪धीस्⟫. እንዲሁም lakṣmī (⟪लक्ष्मी⟫) f.፣ tarī (⟪तरी⟫) f. "መርከብ" እና tantrī (⟪तन्त्री⟫) f. "መስመር" ያልተለመደ አንጻራዊ ስም ብቸኛ በ -s ይፈጠራል፡ lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -88,11 +88,15 @@ u / -ū + u- / ū- » **-ū-**
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā አንዷ እግዚአብሔር ናት" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā የምግብ እና የማሰስ አለዋት ስትል ትታወቃለች፤ እንዲሁም የśiva ጽኑ ወይም ትዳር ናት።)
+::: indent
+(Annapūrṇā የምግብ እና የማሰስ አለዋት ስትል ትታወቃለች፤ እንዲሁም የśiva ጽኑ ወይም ትዳር ናት።)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī አንዷ እግዚአብሔር ናት" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī የእግዚአብሔር Indra ሚስት ናት።)
+::: indent
+(Indrāṇī የእግዚአብሔር Indra ሚስት ናት።)
+:::
 
 ::: media
 
@@ -117,7 +121,9 @@ u / -ū » **-v-**
 
 devī + umā » devy umā "Umā አንዷ / እግዚአብሔር ናት" = ⟪देव्युमा⟫
 
-> (Umā የśiva ሚስት Pārvatī ስም ናት)
+::: indent
+(Umā የśiva ሚስት Pārvatī ስም ናት)
+:::
 
 ::: grammar-box
 

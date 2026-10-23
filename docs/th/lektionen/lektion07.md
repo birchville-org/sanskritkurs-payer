@@ -2,7 +2,7 @@
 title: "บทที่ 7"
 subtitle: "ประโยคกริยาที่มีกรรมตรง"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # บทที่ 7
 
 
-::: center
+::: verse-box
 **คำคมประจำสัปดาห์**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **แผนผัง:**
 **(ผู้กระทำ = kartṛ m. = ⟪कर्तृ⟫) – กรรมตรง (karman n. = ⟪कर्मन्⟫) – กริยา**
+:::
 
+::: indent
 ตัวอย่างเช่น
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma กิน (กิน) ผลไม้หนึ่งผล."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "พราหมณ์บูชาเทพเจ้าหนึ่งองค์ด้วยการบูชายัญ (สำหรับผู้อื่น)."

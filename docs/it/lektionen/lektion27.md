@@ -2,7 +2,7 @@
 title: "Lezione 27"
 subtitle: 'Uso del locativo (⟪सप्तमी⟫ f. = "settima desinenza casuale")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -23,7 +23,7 @@ status: stable
 
 **1. Il locativo (⟪सप्तमी⟫) indica, in risposta alla domanda «Dove?», lo spazio in cui (su, presso) si trova l’agente (⟪कर्ता⟫) o l’oggetto di un’azione si trova, oppure dove si svolge l’azione stessa.**
 
-\> ⟪नगरे वसति⟫ = «Lui abita in città»
+⟪नगरे वसति⟫ = «Lui abita in città»
 
 :::
 ::: media
@@ -37,19 +37,19 @@ Jaipur, 1875.
 
 **2. Il locativo indica, in risposta alla domanda «Quando?», il momento o le circostanze esterne:**
 
-\> ⟪तस्मिन्काले⟫ = «in quel momento, in quel periodo»
+⟪तस्मिन्काले⟫ = «in quel momento, in quel periodo»
 
 **Rientra in questa categoria anche il cosiddetto locativo assoluto:**
 
 **Se l’azione o lo stato di una persona o di una cosa determina il momento in cui – o le circostanze in cui – un’ALTRA persona o cosa compie un’azione o si trova in un determinato stato, la parola che designa la prima persona o cosa si unisce alla parola che la specifica più precisamente (che spesso è un participio) nel locativo (⟪सप्तमी⟫):**
 
-\> ⟪एवं गच्छति काले⟫ = "mentre il tempo scorre così..."
-\>
-\> ⟪तस्मिन्गते⟫ = "quando se n’era andato..."
+⟪एवं गच्छति काले⟫ = "mentre il tempo scorre così..."
+
+⟪तस्मिन्गते⟫ = "quando se n’era andato..."
 
 **A volte l’agente (⟪कर्ता⟫) non viene indicato espressamente:**
 
-\> ⟪एवं सति⟫ = «poiché le cose stanno così»
+⟪एवं सति⟫ = «poiché le cose stanno così»
 
 **Il locativo assoluto deve essere tradotto, a seconda del contesto, con «mentre» (ad es. participio presente), «dopo che», «quando» (ad es. PPP), «poiché», «perché», «sebbene», «se» ecc.**
 
@@ -67,7 +67,7 @@ Rajasthan.
 
 **3. Il locativo risponde anche alla domanda "Riguardo a cosa?" e simili:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Ha amore per suo figlio" (letteralmente: "Riguardo al figlio, c'è in lui amore")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Ha amore per suo figlio" (letteralmente: "Riguardo al figlio, c'è in lui amore")
 
 :::
 ::: media
@@ -81,7 +81,7 @@ Holi.
 
 **4. Il locativo viene utilizzato nei lessici nativi e tra i commentatori per indicare il significato di una parola:**
 
-> ⟪भू सत्तायाम्⟫ = "la radice ⟪भू⟫ nel significato di 'essere' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "la radice ⟪भू⟫ nel significato di 'essere' (sat-tā)"
 
 :::
 Ulteriori informazioni sull'uso del locativo più avanti.

@@ -2,7 +2,7 @@
 title: "Lección 14"
 subtitle: "La expresión de la relación entre lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminación casual)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Ejemplos:
 ::: grammar-box
 La posición normal de las palabras es:
 
-> **Palabra determinativa en genitivo — Sustantivo más precisamente determinado en otro caso**
+**Palabra determinativa en genitivo — Sustantivo más precisamente determinado en otro caso**
 :::
 **Genitivo y participio de pasado pasivo:**
 
@@ -37,9 +37,9 @@ En los participios de pasado pasivo, el genitivo puede ocupar el lugar del instr
 
 Según Pāṇini 2.3.67, en el participio de pasado pasivo se usa el genitivo si el participio tiene un significado presente (ver arriba), y el instrumental si el participio tiene un significado pasado:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fruta deseada por Rāma = La fruta que Rāma desea actualmente"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruta que Rāma ha deseado"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "La fruta deseada por Rāma = La fruta que Rāma desea actualmente"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "La fruta que Rāma ha deseado"
 
 Por supuesto, en un participio de pasado pasivo neutro singular, que se usa como un abstracto verbal, es decir, como un sustantivo, se utiliza el genitivo.
 :::
@@ -56,7 +56,7 @@ Después de una consonante, las terminaciones regulares del genitivo son:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Raíz nominal | Schwacher Tema | Genitivo Singular | Genitivo Plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Después de una consonante, las terminaciones regulares del genitivo son:
 
 El genitivo plural de las raíces terminadas en vocal se forma de la siguiente manera:
 
-> **-vocal larga final de la raíz + -nām**
+**-vocal larga final de la raíz + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Raíz nominal | Genitivo Plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ El genitivo plural de las raíces terminadas en vocal se forma de la siguiente m
 El genitivo singular de las raíces que terminan en vocal se forma irregularmente y debe aprenderse de memoria.
 
 :::
-::: center
+::: verse-box
 
 | Raíz | Genitivo Singular |
 | :--- | :--- |
@@ -112,7 +112,7 @@ El genitivo singular de las raíces que terminan en vocal se forma irregularment
 :::
 **Pronombres interrogativos y demostrativos:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,12 +124,12 @@ El genitivo singular de las raíces que terminan en vocal se forma irregularment
 :::
 **Identidad de forma:**
 
-::: important
+::: warning-box
 
 En todas las raíces nominales, con excepción de los masculinos y neutros en -a y de los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
 :::
-::: important
+::: warning-box
 
 En todas las raíces nominales, excepto los masculinos y neutros en -a y los pronombres, la forma del genitivo singular es idéntica a la forma del ablativo (pañcamī "quinta terminación casual") singular.
 
@@ -141,11 +141,11 @@ Tenga en cuenta que, en las raíces que terminan en consonante, el ablativo y el
 ::: grammar-box
 Contrario a la regla anterior, se usa el genitivo para expresar el objeto de ciertos verbos, por ejemplo, verbos de recuerdo:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Él recuerda a los dioses"
+⟪देवानां⟫ ⟪स्मरति⟫ "Él recuerda a los dioses"
 
 Sin embargo, con todos estos verbos, el objeto también puede estar en acusativo:
 
-> ⟪देवान्स्मरति⟫ "Él recuerda a los dioses"
+⟪देवान्स्मरति⟫ "Él recuerda a los dioses"
 
 Más detalles más adelante.
 :::

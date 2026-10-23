@@ -2,7 +2,7 @@
 title: "Esercizio 33"
 uebung_id: 33
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,9 +110,9 @@ Gli esseri mentalmente limitati compiono azioni meritorie e si astengono dal mal
 ![](/images/uebung055.webp)
 Immagine: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 Immagine: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung056))
-::::
 :::

@@ -2,7 +2,7 @@
 title: "Bài 17"
 subtitle: "Lớp động từ hiện tại thứ hai (⟪अदादि⟫ = ⟪अद्⟫ v.v.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

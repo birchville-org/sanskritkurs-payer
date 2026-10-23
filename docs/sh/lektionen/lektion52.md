@@ -2,7 +2,7 @@
 title: "Lekcija 52"
 subtitle: "Srednji rod imenica na -i i -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

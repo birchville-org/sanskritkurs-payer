@@ -2,7 +2,7 @@
 title: "Esercizio 44"
 uebung_id: 44
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -151,9 +151,9 @@ Determinare le seguenti forme di parola:
 | ⟪३८⟫. **⟪पिपूर्मः⟫** | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. **⟪कैः⟫** | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. **⟪कृत्येन⟫** | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. |
-:::: media
+:::
+::: media
 ![](/images/uebung073.webp)
 Fig.: ⟪वदिता⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung073))
-::::
 :::

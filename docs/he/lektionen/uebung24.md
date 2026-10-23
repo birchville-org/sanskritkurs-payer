@@ -2,7 +2,7 @@
 title: "תרגיל 24"
 uebung_id: 24
 category: "תרגיל"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

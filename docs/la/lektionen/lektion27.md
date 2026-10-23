@@ -2,7 +2,7 @@
 title: "Lectio 27"
 subtitle: 'Usus casus locativi (⟪सप्तमी⟫ f. = \"septima desinentia casus\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Casus Locativus (⟪सप्तमी⟫) ad quaestionem "Ubi?" spatium designat, in quo (apud, super, iuxta) agens (⟪कर्ता⟫) vel obiectum actionis versatur, ubi ipsa actio peragitur.**
 
-> ⟪नगरे वसति⟫ = "In urbe habitat"
+⟪नगरे वसति⟫ = "In urbe habitat"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Iaiapura, 1875.
 
 **2. Casus Locativus ad quaestionem "Quando?" tempus vel circumstantias externas designat:**
 
-> ⟪तस्मिन्काले⟫ = "eo tempore, illa hora"
+⟪तस्मिन्काले⟫ = "eo tempore, illa hora"
 
 **Huc etiam pertinet Locativus Absolutus:**
 
 **Si actio vel status personae vel rei tempus determinat, quo - aut circumstantias, sub quibus - ALIA persona vel res actionem perficit vel in certo statu versatur, verbum personam vel rem primam designans simul cum verbo eandem magis specificante (quod saepe participium est) in locativum (⟪सप्तमी⟫) venit:**
 
-> ⟪एवं गच्छति काले⟫ = "tempore sic fluente..."
-\>
-> ⟪तस्मिन्गते⟫ = "cum abiisset..."
+⟪एवं गच्छति काले⟫ = "tempore sic fluente..."
+
+⟪तस्मिन्गते⟫ = "cum abiisset..."
 
 **Saepe agens (⟪कर्ता⟫) non expresse designatur:**
 
-> ⟪एवं सति⟫ = "cum ita res se habeat"
+⟪एवं सति⟫ = "cum ita res se habeat"
 
 **Locativus absolutus secundum contextum verti debet cum "dum" (e.g. participium praesens), "postquam", "cum" (e.g. PPP), "quod", "quia", "etsi", "si" etc.**
 
@@ -67,7 +67,7 @@ Rajasthan.
 
 **3. Casus locativus etiam respondet quaestioni "Super quid?" vel sim.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Amorem erga filium habet" (liter. "Super filium est apud eum amor")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Amorem erga filium habet" (liter. "Super filium est apud eum amor")
 
 :::
 ::: media
@@ -81,7 +81,7 @@ Holi.
 
 **4. Casus locativus in lexicis indigenis et apud commentatores ad significandam vocabuli significationem adhibetur:**
 
-> ⟪भू सत्तायाम्⟫ = "radix ⟪भू⟫ in significatione 'esseitas' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "radix ⟪भू⟫ in significatione 'esseitas' (sat-tā)"
 
 :::
 De ulterioribus locativi usibus postea.

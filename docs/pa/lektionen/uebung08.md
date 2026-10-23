@@ -2,7 +2,7 @@
 title: "ਪਾਠ 8"
 uebung_id: 8
 category: "ਪਾਠ"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

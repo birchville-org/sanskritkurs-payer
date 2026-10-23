@@ -2,7 +2,7 @@
 title: "[Esercizi 30]"
 uebung_id: 30
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -172,9 +172,9 @@ Determinai e traduschai las suandantas formas da paraula:
 | ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | a ella |
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Lok. sg. m./n. | en quai, en quest |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | al essent / bun |
-:::: media
+:::
+::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Font dal maletg: [Detagls](/licenses#uebung047))
-::::
 :::

@@ -3,12 +3,12 @@ title: "Урок 1"
 subtitle: "Звученето на санскрит"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Поклонение на Gaṇeśa
@@ -20,7 +20,7 @@ gaṇeśapūjanam
 (Източник на изображението: [Подробности](/bg/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -37,7 +37,7 @@ sarvakāryeṣu sarvadā |**
 Свободни от препятствия!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Щастливо начало"
@@ -49,7 +49,7 @@ maṅgalacaraṇam
 (Източник на изображението: [Подробности](/bg/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -71,12 +71,10 @@ Pārvatī и Śiva,
 
 За начало едно любопитно нещо:
 
->
->[Източник: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Достъп на 2010-01-10]
-::: literatur-box
+::: note-box
+
+[Източник: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Достъп на 2010-01-10]
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
-:::
-::: literatur-box
 [Източник: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Посетен на 2010-01-10]
 :::
 
@@ -88,7 +86,9 @@ Pārvatī и Śiva,
 (Източник на изображението: [Подробности](/bg/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Част: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Оттогава много издания, включително книжки в твърда обложка. -- **Задължителна литература.** Добър преглед на живота, историята и културата в предмюсюлманска Индия. Общ преглед на различните области на класическата индология.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Част: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Оттогава много издания, включително книжки в твърда обложка. -- **Задължителна литература.** Добър преглед на живота, историята и културата в предмюсюлманска Индия. Общ преглед на различните области на класическата индология.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -98,7 +98,7 @@ Pārvatī и Śiva,
 
 Най-добрата систематична граматика:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Преводач от английски: W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 стр. -- Оригинален заглавие: A grammar of the Sanscrit language
 :::
 
@@ -110,7 +110,9 @@ Pārvatī и Śiva,
 
 Добра систематична граматика, базирана на местните грамматици и едновременно с това въведение в Пāṇини:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Първоначално написана на малаялам. Преведена на английски от K.V.R. Pai. -- Parathode : Самоиздание, 1983. -- 818 стр. ; 23 см.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Първоначално написана на малаялам. Преведена на английски от K.V.R. Pai. -- Parathode : Самоиздание, 1983. -- 818 стр. ; 23 см.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -120,7 +122,7 @@ Pārvatī и Śiva,
 
 Кратко и ясно представяне на европейската лингвистична терминология се намира в:
 
-::: literatur-box
+::: note-box
 **Етимологичен речник на немския език** / [Фридрих] Клуге (1856–1926). Подготвен от Елмар Зееболд. -- 24., прераб. и доп. изд.. -- Берлин [и др.] : де Грютер, 2002. - LXXXIX, 1023 стр. : 24 см. -- ISBN 3-11-017473-1 Меки корици. -- стр. XIII - XLVII.
 :::
 
@@ -132,7 +134,9 @@ Pārvatī и Śiva,
 
 За любознателните за справка:
 
-> **Речник на лингвистиката** / под ред. на Хадумод Бусман. -- 4., прераб. и библиогр. доп. изд. / при съавт. на Хартмут Лауфер. -- Щутгарт : Крьонер, 2008. -- 816 стр. ; 22 см. -- ISBN 978-3-520-45204-7
+::: indent
+**Речник на лингвистиката** / под ред. на Хадумод Бусман. -- 4., прераб. и библиогр. доп. изд. / при съавт. на Хартмут Лауфер. -- Щутгарт : Крьонер, 2008. -- 816 стр. ; 22 см. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Звучите на санскрита
@@ -145,7 +149,7 @@ Pārvatī и Śiva,
 :::
 Съвременните речници на санскита са подредени според тази класификация. Тази класификация е съществена за разбирането на санскритската граматика и следователно трябва да се знае наизуст:
 
-::: note-box
+::: grammar-box
 Класификация
 **прости гласни** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -163,7 +167,6 @@ Pārvatī и Śiva,
 :::
 ### 1.2.1. За произношението на отделните звукове
 
-::: laut-table
 | Звук | Описание |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "късо a" се произнася от индийците -- още от древни времена -- често като ə. В Европа се произнася като късо a, в Бенгал като късо тъмно o. |
@@ -175,7 +178,6 @@ Pārvatī и Śiva,
 | **h - ⟪ह्⟫** | дихателен звук, никога знак за удължаване. |
 | **ḥ - :** | **Висарга (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Безгласен дихателен звук с призвуци на предходния гласен или втората част на предходното дифтонг: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Анусвара** -- ⟪अनुस्वर⟫. Преди шипящи, h, l: назализация на гласния. В края = m. Вътре в думата пред съгласни: назалният, отговарящ на следващия съгласен: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Най-доброто произношение се постига, когато четете изреченията, стиховете или думите доста бавно и монотонно, като внимателно спазвате дължината на гласните.
 
 

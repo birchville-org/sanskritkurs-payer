@@ -2,7 +2,7 @@
 title: "Bài 3"
 subtitle: "Cách danh xưng số ít của giống cái"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ Hình thành số ít chủ ngữ mà không có kết thúc:
 
 :::
 
-::: important
+::: warning-box
 
 **Chú ý!** Bên cạnh đó, có những danh từ gốc giống cái một âm tiết kết thúc bằng -ī, số ít chủ ngữ của chúng kết thúc bằng -s: ví dụ. dhī f. "ý nghĩ" -- Nominative sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "thuyền" và tantrī (⟪तन्त्री⟫) f. "dây đàn" cũng hình thành số ít chủ ngữ không đều với -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -88,11 +88,15 @@ Ví dụ
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā là một vị thần" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā là nữ thần của thức ăn và nấu nướng, bà được coi là một hóa thân của Pārvatī, vợ của Śiva.)
+::: indent
+(Annapūrṇā là nữ thần của thức ăn và nấu nướng, bà được coi là một hóa thân của Pārvatī, vợ của Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī là một nữ thần" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī là vợ của thần Indra.)
+::: indent
+(Indrāṇī là vợ của thần Indra.)
+:::
 
 ::: media
 

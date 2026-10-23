@@ -2,7 +2,7 @@
 title: "पाठ 24"
 subtitle: 'डेटिव (⟪⟪चतुर्थी⟫⟫ = "चतुर्थ विभक्ति")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

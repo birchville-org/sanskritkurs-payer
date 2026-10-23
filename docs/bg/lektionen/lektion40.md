@@ -2,7 +2,7 @@
 title: "Урок 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -503,7 +503,7 @@ PPP ⟪तीर्ण⟫
 Страдателен залог ⟪सुप्यते⟫ (от \*svp-ya-te)  
 Каузатив ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
-> Инфинитив ⟪स्वप्तुम्⟫
+Инфинитив ⟪स्वप्तुम्⟫
 
 от това:
 

@@ -2,7 +2,7 @@
 title: "Mësimi 36"
 subtitle: "Formime të veçanta të Perfektit"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

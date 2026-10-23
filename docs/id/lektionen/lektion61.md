@@ -755,7 +755,7 @@ Fig.: Melodi, yang dirujuk ke c, dapat ditransposisikan tergantung pada jangkaua
 
 Setelah Anda sekarang telah mempelajari dasar-dasar Sanskerta, semoga Anda seperti balita-balita dalam video: kadang-kadang canggung, tetapi bersemangat untuk belajar dan penuh rasa ingin tahu, serta menikmati prosesnya. Pertahankan "pikiran pemula" hingga akhir hidup Anda.
 
-::: center
+::: verse-box
 This is your wish from your Alois Payer
 
 Ofterdingen, 2009-03-09

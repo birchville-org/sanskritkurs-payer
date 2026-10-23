@@ -2,7 +2,7 @@
 title: "Ejercicio 43"
 uebung_id: 43
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -65,11 +65,11 @@ A) Forme la **segunda persona** correspondiente en tiempo, número, modo, etc. d
 | ⟪५०⟫. **⟪सीदामि⟫** | ⟪सीदसि⟫ |
 | ⟪५१⟫. **⟪तिष्ठन्ति⟫** | ⟪तिष्ठथ⟫ |
 | ⟪५२⟫. **⟪आहरत्⟫** | ⟪आहरः⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung070))
-::::
 :::
 ---
 

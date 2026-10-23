@@ -485,7 +485,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Individual Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Individual Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Significance of Determining the Meter
 
@@ -560,10 +562,10 @@ Example: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. The Epic Śloka (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ The most important verse meter in the epics (⟪महाभारत⟫, ⟪र
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 The second and third syllable of a ⟪पाद⟫ should not both be ⟪लघु⟫. In b and d, syllables 2–4 may not be ¯ ˘ ¯.
@@ -601,19 +603,19 @@ The second and third syllable of a ⟪पाद⟫ should not both be ⟪लघ�
 **Secondary schemes (⟪विपुला⟫) for a and c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **In all Śloka forms, the main caesura is at the end of the 2nd ⟪पाद⟫: there is either word end or — in the case of long compounds — end of a compound component.**
@@ -622,7 +624,7 @@ The second and third syllable of a ⟪पाद⟫ should not both be ⟪लघ�
 ::: grammar-box
 **Identify the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

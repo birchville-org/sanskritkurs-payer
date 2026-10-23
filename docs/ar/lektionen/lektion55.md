@@ -2,7 +2,7 @@
 title: "الدرس 55"
 subtitle: "الأورست ذو الـ a (الأورست مع صوت الموضوع)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

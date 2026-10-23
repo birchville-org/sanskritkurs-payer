@@ -2,7 +2,7 @@
 title: "Μάθημα 38"
 subtitle: "Λύση της εβδομάδας"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

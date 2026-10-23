@@ -2,7 +2,7 @@
 title: Lektion 46
 subtitle: "Formazione delle forme verbali della 2ª persona (⟪मध्यमः⟫) del perfetto (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -373,7 +373,9 @@ Derivati:
 :::
 Per ⟪राहु⟫ e ⟪केतु⟫ vedere:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois \<1944 - \>:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/it/licenses#lekt4602)

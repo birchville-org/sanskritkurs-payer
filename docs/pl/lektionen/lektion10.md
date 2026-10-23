@@ -2,7 +2,7 @@
 title: "Lekcja 10"
 subtitle: "Zdanie bierne (Instrumentalis agensa)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schemat:**
 **(Agens - kartṛ - w narzędniku (tṛtīyā)) - (bezpośredni obiekt - karman - w mianowniku) - forma czasownikowa bierna**
+:::
 
+::: indent
 np. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahman czci boga ofiarą" (dosłownie: "Bóg jest czczony przez brahmana ofiarą.")
-
 To zdanie jest **zupełnie (!) równoznaczne znaczeniowo** z zdaniem:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatywnie: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 :::
 Konstrukcje bierne sanskryckie są wyjątkowo częste: bierna jest przecież łatwiejsza do utworzenia niż np. liczne tematy teraźniejszego czasu.
 
-::: important
+::: warning-box
 **Zdania bierne w sanskrycie ogólnie nie należy oddawać w języku niemieckim za pomocą zdania biernego, ponieważ niemiecki bierny ma zupełnie inną funkcję stylistyczną.**
 :::
 
@@ -234,8 +235,6 @@ np. **tan** 8 U.
 ::: note-box
 W Indiach przypisywano prawdziwemu słowu moc magiczną, a nawet cały porządek świata jest utrzymywany i stworzony przez prawdziwe słowo. W sprawie tego ważnego pojęcia zob. podstawowe dzieło:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Wydane z spuścizny przez Ludwiga Alsdorfa. - Getynga : Vandenhoeck & Ruprecht. -- T. 2: Varuna i Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Ilustracja: ⟪तन्तुवायः⟫
 **Przeczytaj i przetłumacz, a następnie przekształć na stronę bierną:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

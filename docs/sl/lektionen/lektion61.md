@@ -992,7 +992,7 @@ Slika: Melodija, glede na c, se lahko transponira glede na glasovni razpon.
 
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stoji na začetku pouka karnatske glasbe. Glej video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Dostop 2009-03-05
 
-::: center
+::: verse-box
 
 Želi vam vaš Alois Payer
 

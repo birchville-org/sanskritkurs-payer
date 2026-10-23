@@ -3,15 +3,15 @@ title: "Lecke 1"
 subtitle: "A szanszkrit hangjai"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Lecke 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Gaṇeśa tisztelete
@@ -23,7 +23,7 @@ Gaṇeśa tisztelete
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Istenem, tedd minden vállalkozásomat
 Akadálymentessé!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Szerencsés kezdet"
@@ -52,7 +52,7 @@ maṅgalacaraṇam
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ A szavak értelmének.
 Kezdésként egy kuriózum:
 
 
->"Amikor William Jones [1746–1794] és Henry Thomas Colebrooke (1765—1857) először alaposan tanulmányozta a szanszkritot, részben lefordította és megállapította, hogy gazdag irodalommal és jelentős rokonsággal rendelkezik a klasszikus nyelvekkel, nem csekély ellenállásba ütköztek. Mivel a szanszkrit e földrajzilag oly távoli európai nyelvekkel való szoros kapcsolata nem volt összeegyeztethető a régi felfogásokkal, amelyek vagy minden nyelvet a héberből vezettek le, vagy nagy részben egymástól elszigetelten kezelték őket, ezért a híres filológus, Dugald Steward (1753—1828) a legegyszerűbb kiutat választotta, amikor az egész történetet a szanszkrit nyelvvel kapcsolatban hazugságnak nyilvánította. Írt egy esszét, amelyben megpróbálta bizonyítani, hogy a szellemes brahmanák a görög és latin mintájára kovácsolták össze, és hogy mind a nyelv, mind az irodalom hamisítvány. Ezt a nézetet még 1840-ben Dublin professzora, Charles William Wall részletesen kifejtette (Göttingische gelehrte Anzeigen 1842, 1888. o.)."
->
-::: literatur-box
+::: note-box
+"Amikor William Jones [1746–1794] és Henry Thomas Colebrooke (1765—1857) először alaposan tanulmányozta a szanszkritot, részben lefordította és megállapította, hogy gazdag irodalommal és jelentős rokonsággal rendelkezik a klasszikus nyelvekkel, nem csekély ellenállásba ütköztek. Mivel a szanszkrit e földrajzilag oly távoli európai nyelvekkel való szoros kapcsolata nem volt összeegyeztethető a régi felfogásokkal, amelyek vagy minden nyelvet a héberből vezettek le, vagy nagy részben egymástól elszigetelten kezelték őket, ezért a híres filológus, Dugald Steward (1753—1828) a legegyszerűbb kiutat választotta, amikor az egész történetet a szanszkrit nyelvvel kapcsolatban hazugságnak nyilvánította. Írt egy esszét, amelyben megpróbálta bizonyítani, hogy a szellemes brahmanák a görög és latin mintájára kovácsolták össze, és hogy mind a nyelv, mind az irodalom hamisítvány. Ezt a nézetet még 1840-ben Dublin professzora, Charles William Wall részletesen kifejtette (Göttingische gelehrte Anzeigen 1842, 1888. o.)."
+
 [Forrás: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Letérés: 2010-01-10]
 :::
 
@@ -89,7 +89,9 @@ Kezdésként egy kuriózum:
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ rész: A szubkontinens kultúrájának áttekintése a muzulmánok érkezése előtt. -- London : Sidgwick & Jackson, 1954. -- Azóta számos kiadás, köztük zsebkönyvkiadások is. -- **Kötelező olvasmány.** Jó áttekintés az életről, történelemről és kultúráról a muzulmánok előtti Indiában. Átfogó áttekintés a klasszikus indológia különböző területeiről.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ rész: A szubkontinens kultúrájának áttekintése a muzulmánok érkezése előtt. -- London : Sidgwick & Jackson, 1954. -- Azóta számos kiadás, köztük zsebkönyvkiadások is. -- **Kötelező olvasmány.** Jó áttekintés az életről, történelemről és kultúráról a muzulmánok előtti Indiában. Átfogó áttekintés a klasszikus indológia különböző területeiről.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Kezdésként egy kuriózum:
 
 A legjobb rendszerezett grammatika:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Angolból fordította W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 o. -- Eredeti cím: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ A legjobb rendszerezett grammatika:
 
 Jó rendszerezett grammatika a helyi grammatikusok alapjain, amely egyben bevezetés Pāṇini művébe:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Eredetileg malajálamul írta. Angolra fordította K.V.R. Pai. -- Parathode : Saját kiadás, 1983. -- 818 o. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Eredetileg malajálamul írta. Angolra fordította K.V.R. Pai. -- Parathode : Saját kiadás, 1983. -- 818 o. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Jó rendszerezett grammatika a helyi grammatikusok alapjain, amely egyben beveze
 
 Egy jó, tömör áttekintést az európai nyelvészeti terminológiáról a következő műben találunk:
 
-::: literatur-box
+::: note-box
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Szerk.: Elmar Seebold. -- 24., átdolgozott és bővített kiadás. -- Berlin [és m.] : de Gruyter, 2002. - LXXXIX, 1023 o. : 24 cm. -- ISBN 3-11-017473-1 Kötött kiadás. -- XIII - XLVII. o.
 :::
 
@@ -133,7 +137,9 @@ Egy jó, tömör áttekintést az európai nyelvészeti terminológiáról a kö
 
 Kíváncsiaknak utánanézhető:
 
-> **Lexikon der Sprachwissenschaft** / szerk.: Hadumod Bussmann. -- 4., átdolgozott és bibliográfiai kiegészítésekkel ellátott kiadás. / közreműködött: Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 o. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexikon der Sprachwissenschaft** / szerk.: Hadumod Bussmann. -- 4., átdolgozott és bibliográfiai kiegészítésekkel ellátott kiadás. / közreműködött: Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 o. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. A szanszkrit hangjai
@@ -146,7 +152,7 @@ A szanszkrit hangok a hagyományos indiai osztályozás szerint és tudományos 
 :::
 A modern szanszkrit szótárak ebben az osztályozási sorrendben vannak elhelyezve. Ez az osztályozás a szanszkrit grammatika megértéséhez elengedhetetlen, ezért azt fejből kell tudni:
 
-::: note-box
+::: grammar-box
 Osztályozás
 **egyszerű magánhangzók** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Osztályozás
 :::
 ### 1.2.1. Az egyes hangok kiejtéséről
 
-::: laut-table
 | Hang | Leírás |
 | :--- | :--- |
 | **a - ⟪अ⟫** | A rövid a-t az indiaiak – már régóta – gyakran ə-ként ejtik. Európában rövid a-ként, Bengálban pedig rövid sötét o-ként hangzanak. |
@@ -176,7 +181,6 @@ Osztályozás
 | **h - ⟪ह्⟫** | Aspirált hang, soha nem hosszúsági jel. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Hangtalan aspirált hang a megelőző magánhangzó vagy az előtte lévő diftongus második tagjának utóhangjával: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anuszvára** -- ⟪अनुस्वर⟫. Zöngétlen hangok, h, l előtt: a magánhangzó nazalizálása. Szóvégi helyzetben = m. Szóbeli helyzetben mássalhangzó előtt: a következő mássalhangzónak megfelelő nazális hang: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 A legjobb kiejtést akkor érjük el, ha az monoton és viszonylag lassan olvassuk a mondatokat, verseket vagy szavakat, pontosan figyelve a magánhangzók hosszúságára.
 
 

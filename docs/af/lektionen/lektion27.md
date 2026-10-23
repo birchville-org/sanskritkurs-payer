@@ -2,7 +2,7 @@
 title: "Lesing 27"
 subtitle: 'Gebruik van die Lokatief (⟪सप्तमी⟫ f. = "seste geval-uitgang")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -25,7 +25,7 @@ status: stable
 
 **1. Die lokatiwus (⟪सप्तमी⟫) beantwoord die vraag 'Waar?' deur die ruimte aan te dui waarin (by, op, naby) die agent (⟪कर्ता⟫) of die voorwerp van 'n handeling geleë is, of waar die handeling self plaasvind.**
 
-> ⟪नगरे वसति⟫ = "Hy woon in die stad"
+⟪नगरे वसति⟫ = "Hy woon in die stad"
 
 :::
 
@@ -43,19 +43,19 @@ Jaipur, 1875.
 
 **2. Die lokatiewe geval dui die tyd of eksterne omstandighede aan in reaksie op die vraag "Wanneer?":**
 
-> ⟪तस्मिन्काले⟫ = "op daardie tydstip, op daardie tyd"
+⟪तस्मिन्काले⟫ = "op daardie tydstip, op daardie tyd"
 
 **Dit sluit ook die sogenaamde lokatiewe absoluut in:**
 
 **As die handeling of toestand van 'n persoon of ding die tyd bepaal waarop – of die omstandighede waaronder – 'n ANDER persoon of ding 'n handeling verrig of in 'n bepaalde toestand is, dan dui die woord wat die eerste persoon of ding aandui, saam met die woord wat dit meer in detail spesifiseer (wat dikwels 'n deelwoord is) in die lokatiewe geval (⟪सप्तमी⟫):
 
-> ⟪एवं गच्छति काले⟫ = "terwyl die tyd só verbygaan..."
+⟪एवं गच्छति काले⟫ = "terwyl die tyd só verbygaan..."
 \&gt;
-> ⟪तस्मिन्गते⟫ = "toe hy weg was..."
+⟪तस्मिन्गते⟫ = "toe hy weg was..."
 
 **Soms word die agent (⟪कर्ता⟫) nie uitdruklik genoem nie:**
 
-> ⟪एवं सति⟫ = "aangesien dit so is"
+⟪एवं सति⟫ = "aangesien dit so is"
 
 **Afhangende van die konteks, moet die lokatiewe absoluut vertaal word as "terwyl" (bv. teenwoordige deelwoord), "na", "toe" (bv. verlede deelwoord), "aangesien", "omdat", "alhoewel", "as", ens.**
 **Nota: in die absolutiewe geval moet die agent van die absolutiewe klousule dieselfde wees as die agent van die hoofklousule; in die lokatiewe absolutiewe moet die agent van die lokatiewe absolutiewe verskil van die agent van die hoofwerkwoord.**
@@ -76,7 +76,7 @@ Rajasthan.
 
 **3. Die lokatief word ook gebruik as antwoord op vrae soos 'In verhouding tot wat?' en soortgelyke:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hy het liefde vir sy seun" (lit. "Wat die seun betref, is daar liefde in hom")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hy het liefde vir sy seun" (lit. "Wat die seun betref, is daar liefde in hom")
 
 :::
 
@@ -94,7 +94,7 @@ Holi.
 
 **4. In plaaslike woordeboeke en onder kommentators word die lokatiwus gebruik om die betekenis van 'n woord aan te dui:**
 
-> ⟪भू सत्तायाम्⟫ = "die wortel ⟪भू⟫ in die sin van 'bestaan' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "die wortel ⟪भू⟫ in die sin van 'bestaan' (sat-tā)"
 
 :::
 

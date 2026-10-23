@@ -2,7 +2,7 @@
 title: "Pamoka 13"
 subtitle: "PPP su priesdėliu -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Išmokite šiuos žodžius:
 **eva** ⟪एव⟫ : pabrėžia ankstesnį žodį
 **asura** m. ⟪असुर⟫ : demonas
 
-> **ASURA.** 'Dvasinis, dieviškas.'
-\>
-> Seniausiose Ṛgvedos dalyse šis terminas vartojamas aukščiausiajam dvasingumui apibūdinti ir yra tas pats, kas Zoroastrizmo Ahura. Dievo reikšme jis buvo pritaikytas keliems pagrindiniams dievams, tokieems kaip Indra, Agni ir Varuṇa. Vėliau jis įgavo visiškai priešingą reikšmę ir tapo demonu arba dievų priešu.
-\>
-> Šią reikšmę šis žodys randamas vėlesnėse Ṛgvedos dalyse, ypač paskutinėje knygoje, taip pat Atharvavedoje. Brāhmaṇos priskiria jam tą pačią reikšmę ir fiksuoja daugybę kovų tarp Asurų ir dievų. Pagal Taittirīya Brāhmaṇą, Prajapatio kvėpavimas *(asu)* tapo gyvas, ir "su tuo kvėpavimu jis sukūrė mane Asurus." Kitoje to paties veikalo dalyje sakoma, kad Prajāpati "apvaisino. Jis sukūrė Asurus iš savo pilvo." Śatapatha Brāhmaṇa sutampa su pirmuoju teiginiu ir teigia, kad "jis sukūrė Asurus iš savo apatinio kvėpavimo." Taittirīya Āraṇyaka teigia, kad Prajāpati sukūrė dievus, žmones, tėvus, Gandharvas ir Apsarases iš vandens, o Asurai, Rakṣasos ir piśācas atsirado iš išbarstytų lašelių. Manu teiginys yra tas, kad juos sukūrė Prajāpatis.
-\>
-> Pagal Viṣṇu Purāṇą, jie buvo sukurti iš Brahma (prajāpati) kirkšnies. Vāyu Purāṇos aprašymas yra: "Asurai pirmiausia buvo sukurti kaip sūnūs iš jo (Prajāpati) kirkšnies. *Asu* Brāhmaṇa deklaruojamas kaip kvėpavimas. Iš jo šie būtybės buvo sukurtos; todėl jie yra Asurai." Žodis ilgai buvo vartojamas kaip bendras dievų priešų pavadinimas, įskaitant Daityas ir Danavas bei kitus Kaśyapa palikuonis, bet neįskaitant Rakṣasų, kilusių iš Pulastya.
-\>
-> Šioje reikšmėje jam buvo rasta kitokios kilmės: šaltinis nebe asu, 'kvėpavimas,' o pradinis *a* imamas kaip neigiamas priešdėlis, ir *asura* reiškia 'ne dievas;' todėl, kai kurių nuomone, atsirado žodis *sura,* dažnai vartojamas 'dievui.'"
-\>
-> [Šaltinis: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Dvasinis, dieviškas.'
+
+Seniausiose Ṛgvedos dalyse šis terminas vartojamas aukščiausiajam dvasingumui apibūdinti ir yra tas pats, kas Zoroastrizmo Ahura. Dievo reikšme jis buvo pritaikytas keliems pagrindiniams dievams, tokieems kaip Indra, Agni ir Varuṇa. Vėliau jis įgavo visiškai priešingą reikšmę ir tapo demonu arba dievų priešu.
+
+Šią reikšmę šis žodys randamas vėlesnėse Ṛgvedos dalyse, ypač paskutinėje knygoje, taip pat Atharvavedoje. Brāhmaṇos priskiria jam tą pačią reikšmę ir fiksuoja daugybę kovų tarp Asurų ir dievų. Pagal Taittirīya Brāhmaṇą, Prajapatio kvėpavimas *(asu)* tapo gyvas, ir "su tuo kvėpavimu jis sukūrė mane Asurus." Kitoje to paties veikalo dalyje sakoma, kad Prajāpati "apvaisino. Jis sukūrė Asurus iš savo pilvo." Śatapatha Brāhmaṇa sutampa su pirmuoju teiginiu ir teigia, kad "jis sukūrė Asurus iš savo apatinio kvėpavimo." Taittirīya Āraṇyaka teigia, kad Prajāpati sukūrė dievus, žmones, tėvus, Gandharvas ir Apsarases iš vandens, o Asurai, Rakṣasos ir piśācas atsirado iš išbarstytų lašelių. Manu teiginys yra tas, kad juos sukūrė Prajāpatis.
+
+Pagal Viṣṇu Purāṇą, jie buvo sukurti iš Brahma (prajāpati) kirkšnies. Vāyu Purāṇos aprašymas yra: "Asurai pirmiausia buvo sukurti kaip sūnūs iš jo (Prajāpati) kirkšnies. *Asu* Brāhmaṇa deklaruojamas kaip kvėpavimas. Iš jo šie būtybės buvo sukurtos; todėl jie yra Asurai." Žodis ilgai buvo vartojamas kaip bendras dievų priešų pavadinimas, įskaitant Daityas ir Danavas bei kitus Kaśyapa palikuonis, bet neįskaitant Rakṣasų, kilusių iš Pulastya.
+
+Šioje reikšmėje jam buvo rasta kitokios kilmės: šaltinis nebe asu, 'kvėpavimas,' o pradinis *a* imamas kaip neigiamas priešdėlis, ir *asura* reiškia 'ne dievas;' todėl, kai kurių nuomone, atsirado žodis *sura,* dažnai vartojamas 'dievui.'"
+
+[Šaltinis: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

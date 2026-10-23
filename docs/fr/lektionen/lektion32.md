@@ -88,7 +88,7 @@ Exemples :
 
 ## 32.4. Exemples de formation de l’imparfait
 
-::: important
+::: warning-box
 
 **Afin de démontrer la formation des formes, des formes Ātmanepada sont également formées ici pour les racines Parasmaipada ! Ces formes artificielles se trouvent entre \< \>.**
 
@@ -682,7 +682,7 @@ Traduisez et analysez les formes de mots suivantes :
 
 ## 32.9. Exercice de traduction
 
-::: compact
+::: verse-box
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫

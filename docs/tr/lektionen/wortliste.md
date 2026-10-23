@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (hizmet sınıfı).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Dört sınıf (varṇa)**
+
 Klasik teoriye göre (örneğin Manusmṛti I, 88-91) görevler şu şekilde dağıtılmıştır:
 
 **Brahmanların**
@@ -463,8 +465,6 @@ bundan: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष�
 ::: note-box
 Hindistan'da doğru söze sihirli güç atfedilirdi; hatta tüm dünya düzeni doğru sözle korunur ve yaratılır. Bu önemli kavram için bkz. temel eser:
 
-:::
-::: literatur-box
 [LN467] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Nachlass'tan Ludwig Alsdorf tarafından düzenlendi. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Resim: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : sormak (birine: Akk.; bir şey hakkında: Akk.)
 **saha** ⟪सह⟫ : birlikte, beraber ile (ayrıca "ile savaşmak" vb. bağlamlarda) (Araç haliyle kullanılan postpozisyon)
 
-::: literatur-box
+::: note-box
 [LN499] Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ludwig Alsdorf tarafından arşivden düzenlenmiş. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Resim: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : sormak (birine: Akk.; bir şey hakkında: Akk.)
 **saha** ⟪सह⟫ : birlikte, beraber ile (ayrıca "ile savaşmak" vb. bağlamlarda) (Araç haliyle kullanılan postpozisyon)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Yazarın ölümünden sonra Ludwig Alsdorf tarafından yayına hazırlanmıştır. - Göttingen : Vandenhoeck & Ruprecht. -- Cilt 2: Varuna ve Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Aşağıdaki kelimeleri öğrenin:
 **eva** ⟪एव⟫ : önceki kelimeyi vurgular
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Manevi, ilahi.'
->
-> Ṛgveda'nın en eski bölümlerinde bu terim, Zerdüştlülerin Ahurası ile aynı olan üstün ruh için kullanılır. 'Tanrı' anlamında, Indra, Agni ve Varuṇa gibi başlıca tanrıların birkaçına uygulanmıştır. Daha sonra tamamen zıt bir anlam kazanmış ve şimdi olduğu gibi, tanrıların düşmanı veya demonu ifade etmeye başlamıştır.
->
-> Bu anlamla kelime, Ṛgveda'nın daha sonraki bölümlerinde, özellikle son kitapta ve ayrıca Atharvaveda'da bulunur. Brāhmaṇalar da aynı anlamı verir ve Asuralar ile tanrılar arasındaki birçok mücadeleyi kaydeder. Taittirīya Brāhmaṇa'ya göre, Prajapati'nin nefesi *(asu)* canlandı ve "o nefesle ben Asuraları yarattım." Aynı eserin başka bir yerinde Prajāpati'nin "hamile kaldığı" ve "karınlarından Asuraları yarattığı" söylenir. Śatapatha Brāhmaṇa önceki ifadeyle uyum içindedir ve "alt nefesinden Asuraları yarattığını" belirtir. Taittirīya Āraṇyaka, Prajāpati'nin sudan tanrıları, insanları, ataları, Gandharvaları ve Apsarasalari yarattığını ve Asuraların, Rakṣasaların ve piśācaların dökülen damlalardan çıktığını anlatır. Manu'nun ifadesi, bunların Prajāpatisler tarafından yaratıldığı yönündedir.
->
-> Viṣṇu Purāṇa'ya göre, Brahma'nın (prajāpati) kasığından üretildiler. Vāyu Purāṇa'nın anlatımı şöyledir: "Asuralar ilk olarak oğulları olarak kasığından (Prajāpati'nin) üretildi. *Asu*, Brāhmaṇa tarafından nefes anlamına geldiği ilan edilir. Bu varlıklar ondan üretildi; bu yüzden Asuralardır." Kelime, Daityalar ve Danavalar ile Kaśyapa'nın diğer soyundan gelenleri dahil olmak üzere tanrıların düşmanları için genel bir isim olarak uzun süredir kullanılmaktadır, ancak Pulastya'dan soyundan gelen Rakṣasaları dahil etmemektedir.
->
-> Bu anlamda, kelime için farklı bir türetme bulunmuştur: kaynak artık asu, 'nefes' değil, başlangıçtaki *a* olumsuz önek olarak alınır ve *asura*, 'tanrı olmayan' anlamına gelir; bu nedenle, bazılarına göre *sura* kelimesi ortaya çıkmıştır ki bu genellikle 'bir tanrı' için kullanılır."
->
-> [Kaynak: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Manevi, ilahi.'
+
+Ṛgveda'nın en eski bölümlerinde bu terim, Zerdüştlülerin Ahurası ile aynı olan üstün ruh için kullanılır. 'Tanrı' anlamında, Indra, Agni ve Varuṇa gibi başlıca tanrıların birkaçına uygulanmıştır. Daha sonra tamamen zıt bir anlam kazanmış ve şimdi olduğu gibi, tanrıların düşmanı veya demonu ifade etmeye başlamıştır.
+
+Bu anlamla kelime, Ṛgveda'nın daha sonraki bölümlerinde, özellikle son kitapta ve ayrıca Atharvaveda'da bulunur. Brāhmaṇalar da aynı anlamı verir ve Asuralar ile tanrılar arasındaki birçok mücadeleyi kaydeder. Taittirīya Brāhmaṇa'ya göre, Prajapati'nin nefesi *(asu)* canlandı ve "o nefesle ben Asuraları yarattım." Aynı eserin başka bir yerinde Prajāpati'nin "hamile kaldığı" ve "karınlarından Asuraları yarattığı" söylenir. Śatapatha Brāhmaṇa önceki ifadeyle uyum içindedir ve "alt nefesinden Asuraları yarattığını" belirtir. Taittirīya Āraṇyaka, Prajāpati'nin sudan tanrıları, insanları, ataları, Gandharvaları ve Apsarasalari yarattığını ve Asuraların, Rakṣasaların ve piśācaların dökülen damlalardan çıktığını anlatır. Manu'nun ifadesi, bunların Prajāpatisler tarafından yaratıldığı yönündedir.
+
+Viṣṇu Purāṇa'ya göre, Brahma'nın (prajāpati) kasığından üretildiler. Vāyu Purāṇa'nın anlatımı şöyledir: "Asuralar ilk olarak oğulları olarak kasığından (Prajāpati'nin) üretildi. *Asu*, Brāhmaṇa tarafından nefes anlamına geldiği ilan edilir. Bu varlıklar ondan üretildi; bu yüzden Asuralardır." Kelime, Daityalar ve Danavalar ile Kaśyapa'nın diğer soyundan gelenleri dahil olmak üzere tanrıların düşmanları için genel bir isim olarak uzun süredir kullanılmaktadır, ancak Pulastya'dan soyundan gelen Rakṣasaları dahil etmemektedir.
+
+Bu anlamda, kelime için farklı bir türetme bulunmuştur: kaynak artık asu, 'nefes' değil, başlangıçtaki *a* olumsuz önek olarak alınır ve *asura*, 'tanrı olmayan' anlamına gelir; bu nedenle, bazılarına göre *sura* kelimesi ortaya çıkmıştır ki bu genellikle 'bir tanrı' için kullanılır."
+
+[Kaynak: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3787,7 +3789,9 @@ Bundan türeyenler:
 :::
 ⟪राहु⟫ ve ⟪केतु⟫ için bkz.:
 
-> **Payer, Alois (1944–):** Dharmashastra : Giriş ve Genel Bakış. -- 10. Sakramentler ve Geçiş Ritüelleri (samskara). -- Ek C: Rahu ve Ketu, görünmez yürüyen yıldızlar . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Giriş ve Genel Bakış. -- 10. Sakramentler ve Geçiş Ritüelleri (samskara). -- Ek C: Rahu ve Ketu, görünmez yürüyen yıldızlar . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Resm.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4403,7 +4407,9 @@ diğer zamanlarda kullanılmaz
 
 ⟪अजिन⟫ n.: antilop derisi, özellikle kara antilobun derisi (kara antilop : _Antilope cervicapra_ L. ). Başlangıçta bütün Hindistan alt kıtasında, Pencap ve Sind'den Bengal'e ve Nepal'den Kanyakumari'ye (Cape Comorin) kadar bulunurdu (Tamilce: கன்னியாகுமரி) Bakınız:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. baskı. -- Baltimore \[vd.\] : Johns Hopkins Univ. Pr., 1999. -- 2 c. -- ISBN 0-8018-5789-9. -- C. 2. -- s. 1193 vd.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. baskı. -- Baltimore \[vd.\] : Johns Hopkins Univ. Pr., 1999. -- 2 c. -- ISBN 0-8018-5789-9. -- C. 2. -- s. 1193 vd.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

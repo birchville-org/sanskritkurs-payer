@@ -2,9 +2,10 @@
 title: "[Esercizio 49]"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
+---
 
----# Esercizio 49
+# Esercizio 49
 
 Identificate le seguenti forme:
 
@@ -66,9 +67,11 @@ Le domande del re ⟪शूद्रक⟫ di ⟪विदिशा⟫ al pappag
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Il re disse: "Lasciamo stare tutto questo! Soddisfa la nostra curiosità! Signore, raccontaci dall'inizio: In quale paese sei nato? Chi ti ha dato il nome? Chi è tua madre? Come hai ottenuto i Veda? Come ti sei familiarizzato con le opere dottrinali? Da dove hai acquisito le arti? Ricordi le nascite precedenti o puoi esaudire i desideri? Oppure, indossando il manto di un uccello, ti nascondi in un rifugio? O dove abitavi prima? O quanti anni hai? Come sei finito catturato in una gabbia? E come sei caduto nelle mani dei Cāṇḍāla? O come sei arrivato qui?"
-\>
-> Vaiśampāyana, però, che era stato interrogato dal signore della terra con una curiosità spontanea e grande rispetto, rifletté per un istante e poi rispose con pieno rispetto: "Re, questa è una storia lunga. Se ti interessa, presta il tuo orecchio!"
+::: indent
+Il re disse: "Lasciamo stare tutto questo! Soddisfa la nostra curiosità! Signore, raccontaci dall'inizio: In quale paese sei nato? Chi ti ha dato il nome? Chi è tua madre? Come hai ottenuto i Veda? Come ti sei familiarizzato con le opere dottrinali? Da dove hai acquisito le arti? Ricordi le nascite precedenti o puoi esaudire i desideri? Oppure, indossando il manto di un uccello, ti nascondi in un rifugio? O dove abitavi prima? O quanti anni hai? Come sei finito catturato in una gabbia? E come sei caduto nelle mani dei Cāṇḍāla? O come sei arrivato qui?"
+
+Vaiśampāyana, però, che era stato interrogato dal signore della terra con una curiosità spontanea e grande rispetto, rifletté per un istante e poi rispose con pieno rispetto: "Re, questa è una storia lunga. Se ti interessa, presta il tuo orecchio!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

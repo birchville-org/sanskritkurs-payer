@@ -2,7 +2,7 @@
 title: "ლექსიონი 57"
 subtitle: "აორისტი 4: s-აორისტი"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

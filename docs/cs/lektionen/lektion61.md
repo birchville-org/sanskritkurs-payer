@@ -976,7 +976,7 @@ Obr.: Melodie, vztažená na c, může být podle hlasového rozsahu transponov�
 
 Po tom, co jste se nyní naučili základy sanskrtu, doufáme, že jste jako malé děti ve videu: někdy neobratní, ale ochotni se učit a žízniví po vědomostech, s radostí při práci. Udržte si až do konce svého života „mysl začátečníka“.
 
-::: center
+::: verse-box
 
 To vám přeje váš Alois Payer
 

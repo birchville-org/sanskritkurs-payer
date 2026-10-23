@@ -753,7 +753,7 @@ Resim: Melodi, c'ye göre ayarlanmıştır; ses aralığına bağlı olarak tran
 
 Şimdi Sanskrit temellerini öğrendiğinize göre, umarım videodaki küçük çocuklar gibi olursunuz: bazen beceriksiz, ama öğrenmeye ve bilgiye aç, işin tadını çıkaran. Ömrünüzün sonuna kadar "yeni başlayan zihni" koruyun.
 
-::: center
+::: verse-box
 Bu dileklerle, Alois Payer
 
 Ofterdingen, 2009-03-09

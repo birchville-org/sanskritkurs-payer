@@ -3,8 +3,8 @@ title: "ਪਾਠ 9"
 subtitle: "ਸਮਾਹਾਰਦਵੰਦਵ ਅਤੇ ਨਾਮਾਂਤਰ -ਕ/-ਅਕ"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

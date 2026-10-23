@@ -2,7 +2,7 @@
 title: "第29課"
 subtitle: "使役式中帕拉西巴達（⟪परस्मैपद⟫）與阿特曼帕達（⟪आत्मनेपद⟫）的用法"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

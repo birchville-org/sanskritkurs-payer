@@ -2,7 +2,7 @@
 title: "Lekcia 4"
 subtitle: "Otázkové a ukazovacie zámeny v nominatíve"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Pomocou týchto zámen sa tvoria napr. nasledujúce otázkové vzorce:
 :::
 Príklad iných otázok:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpoveď: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (V nominatívnom vete možno napríklad postaviť podmet na začiatok, aby sa zdôraznilo nadväzovanie na otázku.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Odpoveď: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (V nominatívnom vete možno napríklad postaviť podmet na začiatok, aby sa zdôraznilo nadväzovanie na otázku.)
+:::
 
 POZNÁMKA: Odpovede, ktoré môžete na takéto otázky dať so svojimi doterajšími vedomosťami sanskrtu, samozrejme ešte nezodpovedajú vo všetkých ohľadoch idiomaticky dobrému sanskrtu.
 

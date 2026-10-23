@@ -2,7 +2,7 @@
 title: "Вправи 31"
 uebung_id: 31
 category: "Вправи"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

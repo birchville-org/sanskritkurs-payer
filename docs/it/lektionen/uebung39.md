@@ -2,7 +2,7 @@
 title: "Esercizio 39"
 uebung_id: 39
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -103,9 +103,9 @@ A) Formare le forme della prima persona corrispondenti alle seguenti forme verba
 
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung064.webp)
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung064))
-::::
 :::

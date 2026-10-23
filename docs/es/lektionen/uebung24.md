@@ -2,7 +2,7 @@
 title: "Ejercicio 24"
 uebung_id: 24
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -157,5 +157,4 @@ E) Sustituya en la oración B) 6 el dativo por una construcción con **-⟪अ�
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung038))
-::: \<!--  --\>
 :::

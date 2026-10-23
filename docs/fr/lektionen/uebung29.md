@@ -2,7 +2,7 @@
 title: "Exercice 29"
 uebung_id: 29
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,10 +27,12 @@ L'ignorance signifie que l'on considère comme permanent, pur, joyeux ou absolu 
 
 Devant un gouvernement trop rigoureux (daṇḍa), les êtres doivent frémir. Un gouvernement laxiste est méprisé. Un gouvernement juste est vénéré. Un gouvernement bien dirigé favorise chez les sujets le droit, le profit et la joie. Un gouvernement mal dirigé par la passion ou la haine, ou par mépris, irrite même les vieillards retirés dans les forêts et les ascètes errants, à plus forte raison les pères de famille. Un gouvernement non exercé produit un comportement de type poisson (mātsyanayāya). En effet, s'il n'y a personne pour maintenir le gouvernement, le plus fort dévore le plus faible. Si le faible est protégé par le détenteur du pouvoir, il prospère.
 
-> Le monde avec ses quatre ordres et stades de vie  
-> Est protégé par le roi par le gouvernement :  
-> Joyeux de l'activité selon son propre droit et sa propre coutume  
-> Elle se meut sur ses propres voies.
+::: indent
+Le monde avec ses quatre ordres et stades de vie
+Est protégé par le roi par le gouvernement :
+Joyeux de l'activité selon son propre droit et sa propre coutume
+Elle se meut sur ses propres voies.
+:::
 
 
 ::: media

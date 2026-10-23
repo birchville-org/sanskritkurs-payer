@@ -2,7 +2,7 @@
 title: "Esercizio 40"
 uebung_id: 40
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -100,11 +100,11 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del Perfetto
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung065))
-::::
 :::
 ---
 
@@ -149,9 +149,9 @@ Determinare e tradurre le seguenti forme verbali:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | io vidi |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | egli disse |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | egli colpì |
-:::: media
+:::
+::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung066))
-::::
 :::

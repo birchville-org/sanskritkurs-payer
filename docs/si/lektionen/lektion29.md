@@ -2,7 +2,7 @@
 title: "පාඩම 29"
 subtitle: "හේතුක ක්‍රියාවල පරස්මৈපද (⟪परस्मैपद⟫) සහ ආත්මනේපද (⟪आत्मनेपद⟫) භාවිතය"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

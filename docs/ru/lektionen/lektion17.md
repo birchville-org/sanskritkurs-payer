@@ -2,7 +2,7 @@
 title: "Урок 17"
 subtitle: "Второй класс настоящего времени (⟪अदादि⟫ = ⟪अद्⟫ и т.д.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

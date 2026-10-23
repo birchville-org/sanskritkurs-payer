@@ -2,7 +2,7 @@
 title: "Lecziun 36"
 subtitle: "Furmas spezialas dal perfectum"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

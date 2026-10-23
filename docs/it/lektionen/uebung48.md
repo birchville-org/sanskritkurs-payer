@@ -2,7 +2,7 @@
 title: "Esercizio 48"
 uebung_id: 48
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -150,9 +150,9 @@ Il marito entra nella propria moglie, diventa un embrione e poi nasce qui; in ci
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung084))
-:::: media
+:::
+::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung077))
-::::
 :::

@@ -2,7 +2,7 @@
 title: "Lekce 17"
 subtitle: "Druhá třída přítomného času (⟪अदादि⟫ = ⟪अद्⟫ atd.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

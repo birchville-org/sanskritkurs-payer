@@ -2,7 +2,7 @@
 title: "27. lecke"
 subtitle: 'A lokativusz használata (⟪सप्तमी⟫ f. = \"hetedik esetrag\")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. A lokativuszószó (⟪सप्तमी⟫) a "Hol?" kérdésre válaszolva azt a teret jelöli, amelyben (azalatt, azon, mellette) az agens (⟪कर्ता⟫) vagy egy cselekvés tárgya tartózkodik, vagy ahol maga a cselekmény lezajlik.**
 
-> ⟪नगरे वसति⟫ = "A városban lakik"
+⟪नगरे वसति⟫ = "A városban lakik"
 
 :::
 
@@ -44,19 +44,19 @@ Jaipur, 1875.
 
 **2. A lokativuszószó a "Mikor?" kérdésre válaszolva az időpontot vagy a külső körülményeket jelöli:**
 
-> ⟪तस्मिन्काले⟫ = "abban az időpontban, abban az időben"
+⟪तस्मिन्काले⟫ = "abban az időpontban, abban az időben"
 
 **Ide tartozik úgynevezett Locativus Absolutus is:**
 
 **Ha egy személy vagy dolog cselekvése vagy állapota határozza meg azt az időpontot, amikor – vagy a körülményeket, amelyek között – egy MÁSIK személy vagy dolog cselekvést hajt végre, vagy meghatározott állapotban van, akkor az első személyt vagy tárgyat jelölő szó együtt a azt pontosabban meghatározó szóval (amely gyakran egy igenev) lokativuszószóban áll (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "amíg az idő így telik..."
-\>
-> ⟪तस्मिन्गते⟫ = "amikor ő már elment..."
+⟪एवं गच्छति काले⟫ = "amíg az idő így telik..."
+
+⟪तस्मिन्गते⟫ = "amikor ő már elment..."
 
 **Néha az agens (⟪कर्ता⟫) nincs külön megjelölve:**
 
-> ⟪एवं सति⟫ = "mivel így áll a helyzet"
+⟪एवं सति⟫ = "mivel így áll a helyzet"
 
 **A Locativus absolutust a kontextusnak megfelelően kell lefordítani "amíg" (pl. jelen időű igenev), "miután", "amikor" (pl. múlt idejű igemód), "mivel", "mert", "bár", "ha" stb. jelentéssel.**
 
@@ -78,7 +78,7 @@ Rádzsasztán.
 
 **3. A lokativus a „Miben?” vagy hasonló kérdésekre is áll:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = „Ő szeretetet táplál fia iránt” (szó szerint: „A fiúval kapcsolatban nála szeretet van”)
+⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = „Ő szeretetet táplál fia iránt” (szó szerint: „A fiúval kapcsolatban nála szeretet van”)
 
 :::
 
@@ -96,7 +96,7 @@ Holi.
 
 **4. A lokativus a helyi szótárakban és a kommentátoroknál egy szó jelentésének megadására szolgál:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "a gyökér ⟪भू⟫ jelentése 'létezés' (sat-tā)"
+⟪भू⟫ ⟪सत्तायाम्⟫ = "a gyökér ⟪भू⟫ jelentése 'létezés' (sat-tā)"
 
 :::
 

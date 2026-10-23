@@ -2,7 +2,7 @@
 title: "ትምህርት 55"
 subtitle: "የ a-አዎርስት (አዎርስት በቲማ ቃል)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

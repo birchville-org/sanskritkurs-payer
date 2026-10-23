@@ -2,7 +2,7 @@
 title: "Bài 45"
 subtitle: "Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) của các gốc không có âm tiết, không kết thúc bằng nguyên âm ở hậu tố (tiếp tục)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

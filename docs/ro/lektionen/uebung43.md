@@ -2,7 +2,7 @@
 title: "Exercițiul 43"
 uebung_id: 43
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -65,11 +65,11 @@ A) Formați persoana a **2-a** corespunzătoare, în timp, număr, mod etc., pen
 | ⟪५०⟫. **⟪सीदामि⟫** | ⟪सीदसि⟫ |
 | ⟪५१⟫. **⟪तिष्ठन्ति⟫** | ⟪तिष्ठथ⟫ |
 | ⟪५२⟫. **⟪आहरत्⟫** | ⟪आहरः⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung070))
-::::
 :::
 ---
 

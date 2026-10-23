@@ -2,7 +2,7 @@
 title: "ትምህርት 29"
 subtitle: "በካውሴቲቭ ውስጥ የፓራስማፓዳ (⟪परस्मैपद⟫) እና Ātmanepada (⟪आत्मनेपद⟫) ተጠቃሚነት"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

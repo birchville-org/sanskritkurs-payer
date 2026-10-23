@@ -2,7 +2,7 @@
 title: "Урок 25"
 subtitle: 'Образование аблатива (⟪पञ्चमी⟫ = "окончание пятого падежа")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

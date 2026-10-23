@@ -2,7 +2,7 @@
 title: "Lesson 49"
 subtitle: "Formation of the Imperative (⟪लोट्⟫) athematic present stems (continued)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

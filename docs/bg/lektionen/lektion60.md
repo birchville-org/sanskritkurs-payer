@@ -2,7 +2,7 @@
 title: "Урок 60"
 subtitle: "Двойствени окончания на перфекта (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

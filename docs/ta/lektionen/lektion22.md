@@ -2,7 +2,7 @@
 title: "பாடம் 22"
 subtitle: "முற்றெச்சம் (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

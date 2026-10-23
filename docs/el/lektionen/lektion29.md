@@ -2,7 +2,7 @@
 title: Lektion 29
 subtitle: "Χρήση του Parasmaipada (⟪परस्मैपद⟫) και Ātmanepada (⟪आत्मनेपद⟫) στο Αιτιατικό"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

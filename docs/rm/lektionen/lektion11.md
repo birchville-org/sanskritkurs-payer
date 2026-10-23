@@ -2,7 +2,7 @@
 title: "Lecziun 11"
 subtitle: "L’accusativ doppi (accusativ da la persuna e da la cosa)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -485,7 +485,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Vesa er:
 
-> **Payer, Alois (1944–):** Introducziun en l'exegesa da texts sanscrits : script. -- Cap. 8: L'exegesa en il pli stretg senn, part II: A singulas dumondas da la comprension sincrónica. -- Appendix B: A la metrica da texts sanscrits. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introducziun en l'exegesa da texts sanscrits : script. -- Cap. 8: L'exegesa en il pli stretg senn, part II: A singulas dumondas da la comprension sincrónica. -- Appendix B: A la metrica da texts sanscrits. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Significaziun da la determinaziun dal metr
 
@@ -560,10 +562,10 @@ Exempel: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Distribuziun da ⟪लघु⟫ e ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Il Śloka epic (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ Il vers principal en las epopeas (⟪महाभारत⟫, ⟪रामा�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 La segunda e terza sillaba d'in ⟪पाद⟫ na duessan betg esser simultanamain ⟪लघु⟫. En b e d na po la sillaba 2 - 4 betg esser ¯ ˘ ¯.
@@ -601,19 +603,19 @@ La segunda e terza sillaba d'in ⟪पाद⟫ na duessan betg esser simultanam
 **Schemauxiliar (⟪विपुला⟫) per a e c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **En tut las furmas da śloka sa chatta la cesura principala a la fin dal 2. ⟪पाद⟫: là èsi fin da la parola u – en cas da cumponiments lungids – fin d’in element dal cumponiment.**
@@ -622,7 +624,7 @@ La segunda e terza sillaba d'in ⟪पाद⟫ na duessan betg esser simultanam
 ::: grammar-box
 **Identifitgai tranter tut ils verss emprims aprenzids las ślokas. Redactai per quai il schema metric scrit. Inditgai eventuals irregularitads u furmas da Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

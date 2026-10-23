@@ -2,7 +2,7 @@
 title: "Lecție 44"
 subtitle: "Formarea formelor verbale de a doua persoană (⟪मध्यमः⟫) ale rădăcinilor atematice cu sufix care se termină în vocală"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ ex. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 
 Gramaticienii indigeni nu consideră vocativul (⟪आमन्त्रितम्⟫) ca un caz distinct, ci doar o modificare a nominativului (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Vocativul servește pentru adresare, chemare și se află în afara relației cu restul propoziției, diferind astfel de celelalte cazuri care exprimă o relație cu verbul sau cu un alt substantiv.**
 
 **De obicei, vocativul este plasat la începutul propoziției:**
@@ -193,7 +193,7 @@ Gramaticienii indigeni nu consideră vocativul (⟪आमन्त्रित�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Copile, ce spui?"
 :::
-::: important
+::: warning-box
 **Evitați traducerea vocativului cu "**O** ...". În germană folosim constant vocativi, de exemplu când spunem: "Iubite, ce gătim azi?". Nimeni nu va spune în acest sens: "**O** iubite, ce gătim azi?"**
 :::
 ::: media

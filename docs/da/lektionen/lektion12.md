@@ -2,7 +2,7 @@
 title: "Lektion 12"
 subtitle: "Particippet Perfekt Passiv (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ PPPet stemmer i dette tilfælde overens med objektet i antal, kasus og køn.
 Et hjælpeverb ("at være") er ikke nødvendigt.
 
 Eksempler:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Fra den hellige blev et paradis opnået) = Den hellige har opnået et paradis."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Fra brahmanen blev gudinden med et offer æret) = Brahmanen har æret gudinden med et offer."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Fra den hellige blev et paradis opnået) = Den hellige har opnået et paradis."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Fra brahmanen blev gudinden med et offer æret) = Brahmanen har æret gudinden med et offer."
 :::
 
 ### 12.1.2. Skema I for intransitive verber og bevægelsesverber
@@ -42,7 +42,7 @@ Eksempler:
 I dette tilfælde stemmer PPPet overens med agenten i antal, kasus og køn. Participle Perfekt "Passiv" har ved intransitive verber (verber uden direkte objekt) og bevægelsesverber aktiv betydning.
 
 Eksempel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriyakvinden er gået ind i byen."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriyakvinden er gået ind i byen."
 :::
 
 ### 12.1.3. Skema II for intransitive verber og bevelsesverber
@@ -51,7 +51,7 @@ Eksempel:
 **Agent (kartṛ) i instrumentalis (tṛtīyā) -- PPP i nominativ singular neutrum**
 
 Eksempel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Fraḳsatriyen blev (til byen) gået) = Frakxatriyaen er (til byen) gået.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Fraḳsatriyen blev (til byen) gået) = Frakxatriyaen er (til byen) gået.“
 
 Konstruktionen efter skema II er meget sjældnere end konstruktioner efter skema I.
 :::

@@ -3,8 +3,8 @@ title: "第8課"
 subtitle: "名詞的構成與第8類現在時"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

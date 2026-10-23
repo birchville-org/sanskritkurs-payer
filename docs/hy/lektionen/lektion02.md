@@ -3,8 +3,8 @@ title: "Դաս 2"
 subtitle: "Գոյական նախադասությունը և խոնարհման հիմունքները"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Սխեմա. Պրեդիկատային անուն - ենթակա**
+:::
 
+::: indent
 Օր. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = «Վիշնուն աստված է»:
 :::
 Կապակ (կրկնություն) («է», «են», «եմ», «ես ես», «դուք եք») անհրաժեշտ չէ, բայց կարող է երբեմն հանդիպել:
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 Տես նաև ցանկը՝
 
-> **Payer, Alois (1944–):** Վերջնական -s-ի սանդհի: -- (Սանսկրիտի նյութեր) (Kielhorn). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Վերջնական -s-ի սանդհի: -- (Սանսկրիտի նյութեր) (Kielhorn). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Վերջին **-s**-ը՝
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : Շուդրա (ծառայողական դաս):
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Չորս դասերը (varṇa)**
+
 Դասական տեսության համաձայն (օր. Մանուսմրիտի I, 88-91) առաքելությունները բաշխված են.
 
 **բրահմանների**

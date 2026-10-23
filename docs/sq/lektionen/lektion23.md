@@ -2,7 +2,7 @@
 title: "Mësimi 23"
 subtitle: "Infinitivi (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Nëse dëshironi të shprehni në sanskritisht se një veprim ndodh për hir të një veprimi tjetër ("për të"), mund të përdorni infinitivin (⟪तुमुन्⟩) për veprimin për të cilin bëhet fjalë. Infinitivi shpreh kryesisht qëllimin ose synimin:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma ka shkuar për të dëgjuar fjalën e mësuesit."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma ka shkuar për të dëgjuar fjalën e mësuesit."
 
 **Kujdesuni që infinitivi — me disa përjashtime të caktuara mirë — nuk mund të përdoret si subjekt ose objekt i një folje:**
 
-> Pra, nuk duhet ta përktheni "Ai mëson të vallëzojë" me infinitiv ("të vallëzojë"), por duhet të përdorni një emër verbal, për shembull: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "mësoj").
+Pra, nuk duhet ta përktheni "Ai mëson të vallëzojë" me infinitiv ("të vallëzojë"), por duhet të përdorni një emër verbal, për shembull: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "mësoj").
 
 **Infinitivi përdoret gjithashtu me folje dhe emra në kuptimin "duan" ose "dëshirojnë fort", kur agjenti (⟪कर्तृ⟩) i infinitivit dhe i foljes janë të njëjtë:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma dëshiron të dëgjojë fjalën e mësuesit."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma dëshiron të dëgjojë fjalën e mësuesit."
 
 **Infinitivi përdoret, ndër të tjera, edhe me folje në kuptimet "është i aftë", "ka", "di", "fillon":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Një shenjtë nuk mund të bëjë padrejtësi."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Ka ushqim për të ngrënë" (⟪भुज्⟩ 7: Ā: haq, P: sundon)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Një shenjtë nuk mund të bëjë padrejtësi."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Ka ushqim për të ngrënë" (⟪भुज्⟩ 7: Ā: haq, P: sundon)
 
 **Infinitivi përdoret gjithashtu me fjalë në kuptimet "mjaftueshëm", "i aftë" dhe me emra në kuptimet "aftësi", "fuqi", "kujdes":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Zjarri ka fuqinë të digjë gjithçka."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Zjarri ka fuqinë të digjë gjithçka."
 
 **Edhe me fjalë që do të thotë "kohë", infinitivi mund të përdoret në shprehje si "Është koha për ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Është koha për t'iu përkushtuar ushqimit" = "Është koha për të ngrënë"
+⟪कालो भोजनं सेवितुम्⟫ = "Është koha për t'iu përkushtuar ushqimit" = "Është koha për të ngrënë"
 
 **Infinitivi mund të përdoret aktivisht dhe pasivisht. Një infinitiv pasiv në gjermane përkthehet në sanskritisht duke venditur veprorin (shpesh ⟪शक्⟩ "të jesh i aftë, të mundësh"), nga varet infinitivi, në trajtën pasive.**
 
@@ -44,13 +44,13 @@ status: stable
 
 p.sh.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Një shenjtë nuk mund të kryejë padrejtësi."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Një shenjtë nuk mund të kryejë padrejtësi."
 
 **Një person i dytë, ⟪अर्ह्⟩ + infinitivi shpesh përdoret si urdhër i butë: "Ti duhet të...".**
 
 **Kur infinitivi varet nga një emër, ai nuk duhet të bashkohet me këtë në një kompozit. Përjashtim bëjnë Bahuvrīhi, ku pjesa e dytë është ⟪काम⟩ ose ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "një i cili dëshiron të flasë; një që dëshiron të flasë".
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "një i cili dëshiron të flasë; një që dëshiron të flasë".
 :::
 ## 23.2. Formimi i infinitivit (⟪तुमुन्⟩)
 

@@ -2,7 +2,7 @@
 title: "Lektion 17"
 subtitle: "Andra preteritumklassen (⟪अदादि⟫ = ⟪अद्⟫ osv.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

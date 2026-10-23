@@ -2,7 +2,7 @@
 title: "Lecke 43"
 subtitle: 'A második személy ragjai (⟪मध्यमः⟫ = \"középső <személy>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

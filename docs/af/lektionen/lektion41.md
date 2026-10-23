@@ -2,7 +2,7 @@
 title: "Lesing 41"
 subtitle: "⟪सुभाषिते⟫ (twee spreekwoorde)"
 lesson_id: 41
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

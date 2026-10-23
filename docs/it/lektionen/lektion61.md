@@ -766,7 +766,7 @@ Fig.: La melodia, riferita a c, può essere trasposta a seconda del registro voc
 
 Dopo aver appreso le basi del sanscrito, si spera che siate come i bambini piccoli nel video: a volte goffi, ma desiderosi di imparare e di conoscenza, e con gioia nel fare le cose. Mantenete fino alla fine della vostra vita "una mente da principiante".
 
-::: center
+::: verse-box
 Questo vi augura il vostro Alois Payer
 
 Ofterdingen, 2009-03-09

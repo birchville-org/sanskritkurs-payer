@@ -2,7 +2,7 @@
 title: "[Vježba 50]"
 uebung_id: 50
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -16,7 +16,9 @@ A) For reviewing declension: The following verse contains all singular declensio
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-> My teacher is my refuge,  
+::: indent
+My teacher is my refuge,
+:::
 I honor my teacher,  
 I am together with my teacher,  
 Homage to the teacher,  
@@ -36,7 +38,9 @@ Teacher, protect me!
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-> One should walk on the path of the good, on which the fathers have walked, on which the grandfathers have walked. If one walks on this path, then no harm is suffered.
+::: indent
+One should walk on the path of the good, on which the fathers have walked, on which the grandfathers have walked. If one walks on this path, then no harm is suffered.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -45,7 +49,9 @@ Teacher, protect me!
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-> Families become non-families through bad marriages, through omission of rituals, through not studying the Vedas, and through offenses against Brahmins.
+::: indent
+Families become non-families through bad marriages, through omission of rituals, through not studying the Vedas, and through offenses against Brahmins.
+:::
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -54,7 +60,9 @@ Teacher, protect me!
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-> In a family where the husband is always content with the wife and the wife with the husband, in such a family constant happiness is certain.
+::: indent
+In a family where the husband is always content with the wife and the wife with the husband, in such a family constant happiness is certain.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -75,7 +83,9 @@ Fig.: ⟪संतुष्टो भार्यया भर्ता भर�
 **⟪आदित्याज्जायते वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं ततः प्रजाः ॥ ५ ॥⟫**
 
-> One should always engage in the study of the Vedas and in rituals for the gods. For one who engages in rituals for the gods obtains this world of animate and inanimate beings. The sacrifice that is properly cast into the fire goes to the sun; from the sun rain arises, from rain food arises, and from that creatures arise.
+::: indent
+One should always engage in the study of the Vedas and in rituals for the gods. For one who engages in rituals for the gods obtains this world of animate and inanimate beings. The sacrifice that is properly cast into the fire goes to the sun; from the sun rain arises, from rain food arises, and from that creatures arise.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -89,7 +99,9 @@ Fig.: ⟪दैवे कर्मणि युक्तो हि बिभर�
 **⟪हेयं दुःखमनागतम् ॥ ६ ॥⟫**  
 **⟪द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥ ७ ॥⟫**
 
-> Future suffering is to be abandoned.  
+::: indent
+Future suffering is to be abandoned.
+:::
 The cause of this abandonment is the connection between the seer and the seen [= perceiver and perceivable].
 
 ---
@@ -101,7 +113,9 @@ The cause of this abandonment is the connection between the seer and the seen [=
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत पाण्डितः ॥ ८ ॥⟫**
 
-> [The king] should not disdain anything; he should listen to the opinion of everyone. A scholar also adopts the word of a boy if it is meaningful.
+::: indent
+[The king] should not disdain anything; he should listen to the opinion of everyone. A scholar also adopts the word of a boy if it is meaningful.
+:::
 
 ---
 
@@ -112,18 +126,24 @@ The cause of this abandonment is the connection between the seer and the seen [=
 **⟪सकल्पं सरहस्यं च⟫**  
 **⟪तमाचार्यां प्रचक्षते ॥ ९ ॥⟫**
 
-> An **Ācārya** is called the twice-born who gives Upanayana to the student and then teaches him the Veda, ritual, and secret doctrine.
+::: indent
+An **Ācārya** is called the twice-born who gives Upanayana to the student and then teaches him the Veda, ritual, and secret doctrine.
+:::
 
 **⟪एकदेशं तु वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि वा पुनः ।⟫**  
 **⟪यो ऽध्यापयति वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः स उच्यते ॥ १० ॥⟫**
 
-> An **Upādhyāya** is called one who teaches a part of the Veda or the auxiliary sciences for the sake of his livelihood.
+::: indent
+An **Upādhyāya** is called one who teaches a part of the Veda or the auxiliary sciences for the sake of his livelihood.
+:::
 
 **⟪निषेकादीनि कर्माणि⟫**  
 **⟪यः करोति यथाविधि ।⟫**  
 **⟪संभावयति चान्नेन⟫**  
 **⟪स विप्रो गुरुरुच्यते ॥ ११ ॥⟫**
 
-> A **Guru** is called the Brāhmaṇa who performs Niṣeka and the other rituals according to rule and causes him to arise through food.
+::: indent
+A **Guru** is called the Brāhmaṇa who performs Niṣeka and the other rituals according to rule and causes him to arise through food.
+:::

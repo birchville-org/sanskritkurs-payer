@@ -3,15 +3,15 @@ title: "Lektion 1"
 subtitle: "Sanskritets ljud"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Lektion 1
 
 
-::: center
+::: verse-box
 
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
@@ -28,7 +28,7 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 
 :::
 
-::: center
+::: verse-box
 
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
@@ -47,7 +47,7 @@ Free from obstacles!
 
 :::
 
-::: center
+::: verse-box
 
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
@@ -64,7 +64,7 @@ Fig. 1.1: Ardhanarīśvara
 
 :::
 
-::: center
+::: verse-box
 
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
@@ -89,10 +89,9 @@ Of the sense of the word.
 At the beginning, a curiosity:
 
 
->"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) initially studied Sanskrit thoroughly, partially translated it and found that it had a rich literature and considerable kinship with the classical languages, they encountered no little resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
->
+::: note-box
+"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) initially studied Sanskrit thoroughly, partially translated it and found that it had a rich literature and considerable kinship with the classical languages, they encountered no little resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
 
-::: literatur-box
 
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 
@@ -110,7 +109,9 @@ Abb.: Cover title of a paperback edition
 
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, also paperback editions. -- **Required reading.** A good overview of life, history and culture in pre-Muslim India. Comprehensive overview of the various fields of classical Indology.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, also paperback editions. -- **Required reading.** A good overview of life, history and culture in pre-Muslim India. Comprehensive overview of the various fields of classical Indology.
+:::
 
 ::: media
 
@@ -124,7 +125,7 @@ Abb.: Title page
 
 Best systematic grammar:
 
-::: literatur-box
+::: note-box
 
 **Kielhorn**, Franz (1840–1908): Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
 
@@ -142,7 +143,9 @@ Abb.: Cover title
 
 Good systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm.
+:::
 
 ::: media
 
@@ -155,7 +158,7 @@ Bildtext: Bokomslagets titel
 
 En tydlig och koncis översikt över europeisk lingvistisk terminologi finns i:
 
-::: literatur-box
+::: note-box
 
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearbeitet von Elmar Seebold. -- 24., durchgesehene und erweiterte Auflage. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Broschur. -- S. XIII - XLVII.
 
@@ -172,7 +175,9 @@ Bildtext: Bokomslagets titel
 
 För den vetgirige som referensverk:
 
-> **Lexikon der Sprachwissenschaft** / herausgegeben von Hadumod Bussmann. -- 4., durchgesehene und bibliographisch ergänzte Auflage / unter Mitarbeit von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexikon der Sprachwissenschaft** / herausgegeben von Hadumod Bussmann. -- 4., durchgesehene und bibliographisch ergänzte Auflage / unter Mitarbeit von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 ## 1.2. Sanskritljuden
 
@@ -188,7 +193,7 @@ Sanskritljuden enligt den traditionella indiska klassificeringen och deras veten
 
 Moderna sanskritordböcker är ordnade enligt denna klassificering. Denna indelning är avgörande för att förstå sanskritgrammatiken och måste därför läras utantill:
 
-::: note-box
+::: grammar-box
 
 Klassifizierung
 - **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫):
@@ -209,7 +214,6 @@ Klassifizierung
 
 ### 1.2.1. On the pronunciation of individual sounds
 
-::: laut-table
 
 | Sound | Description |
 | :--- | :--- |
@@ -223,7 +227,6 @@ Klassifizierung
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Voiceless aspirate with an echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Before sibilants, h, l: nasalization of the vowel. At the end of a word = m. In the middle of a word before consonants: the nasal corresponding to the following consonant: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 
-:::
 
 The best pronunciation is achieved when one reads the sentences, verses or words quite slowly and monotonously with exact consideration of the length of the vowels.
 

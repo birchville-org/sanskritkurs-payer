@@ -2,7 +2,7 @@
 title: "第46課"
 subtitle: "第二人稱動詞形式的構成（⟪मध्यमः⟫）完成時（⟪लिट्⟫）"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ status: stable
 :::
 關於 ⟪राहु⟫ 和 ⟪केतु⟫，請參見：
 
-> **Payer, Alois (1944–)：** Dharmashastra：導論與概覽。 -- 第十節：十種聖禮與過渡儀式（samskara）。 -- 附錄 C：羅睺與計都，隱形的遊星 。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–)：** Dharmashastra：導論與概覽。 -- 第十節：十種聖禮與過渡儀式（samskara）。 -- 附錄 C：羅睺與計都，隱形的遊星 。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 圖：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/zh/licenses#lekt4602)

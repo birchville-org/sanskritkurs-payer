@@ -2,7 +2,7 @@
 title: "पाठ 49"
 subtitle: "आत्मनेपद के कृदंत का निर्माण (⟪⟪लोट्⟫⟫) अथेमैटिक वर्तमान काल के मूल (जारी)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

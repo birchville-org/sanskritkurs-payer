@@ -2,7 +2,7 @@
 title: "Μάθημα 49"
 subtitle: "Σύνταξις του ὀρθατικοῦ (⟪लोट्⟫) ἀθεματικῶν ἱσταμένων ριζῶν (συνέχεια)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Leçon 14"
 subtitle: "L'expression de la relation entre ce qui est désigné par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Exemples :
 ::: grammar-box
 La position normale des mots est :
 
-> **Génitif déterminant — Nom déterminé dans un autre cas**
+**Génitif déterminant — Nom déterminé dans un autre cas**
 :::
 **Génitif et participe passé :**
 
@@ -37,9 +37,9 @@ Dans les constructions avec des participes passés, le génitif peut remplacer l
 
 Conformément à Pāṇini 2.3.67, lorsque le participe passé (PPP) a une signification présente, le génitif est utilisé ; lorsque le PPP a une signification passée, l’instrumental est utilisé :
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ «Le fruit souhaité par Rāma = Le fruit que Rāma souhaite actuellement»
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ «Le fruit que Rāma a souhaité»
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ «Le fruit souhaité par Rāma = Le fruit que Rāma souhaite actuellement»
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ «Le fruit que Rāma a souhaité»
 
 Bien sûr, dans le cas d’un PPP neutre au singulier, utilisé comme un abstrait verbal — c’est-à-dire comme un substantif — le génitif est employé.
 :::
@@ -56,7 +56,7 @@ Après les consonnes, les terminaisons régulières du génitif sont :
 * Pluriel : **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Thème nominal | Thème faible | Génitif singulier | Génitif pluriel |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Après les consonnes, les terminaisons régulières du génitif sont :
 
 Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 
-> **voyelle finale longue du thème + -nām**
+**voyelle finale longue du thème + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Thème nominal | Génitif pluriel |
 | :--- | :--- |
@@ -96,7 +96,7 @@ Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 Le génitif singulier des thèmes en voyelle est formé de manière irrégulière et doit être appris par cœur.
 
 :::
-::: center
+::: verse-box
 
 | Thème | Génitif singulier |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Le génitif singulier des thèmes en voyelle est formé de manière irrégulièr
 :::
 **Pronoms interrogatifs et démonstratifs :**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ Le génitif singulier des thèmes en voyelle est formé de manière irrégulièr
 :::
 **Identité de forme :**
 
-::: important
+::: warning-box
 
 Pour tous les thèmes nominaux, à l'exception des masculins et neutres en -a ainsi que des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī "cinquième terminaison casuelle") singulier !
 
@@ -138,11 +138,11 @@ Notez que, pour les stems consonnantiques, l'ablatif et le génitif singulier so
 ::: grammar-box
 Contra la règle de base ci-dessus, le génitif est utilisé pour exprimer l'objet de certains verbes, par exemple les verbes de mémoire :
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ « Il se souvient des dieux »
+⟪देवानां⟫ ⟪स्मरति⟫ « Il se souvient des dieux »
 
 Pour tous ces verbes, l'objet peut également être au cas accusatif :
 
-> ⟪देवान्स्मरति⟩ « Il se souvient des dieux »
+⟪देवान्स्मरति⟩ « Il se souvient des dieux »
 
 Plus tard.
 :::

@@ -2,7 +2,7 @@
 title: "ለክፍል 44"
 subtitle: "የሁለተኛ ሰው ተግባር ቅርጾችን መፍጠር (⟪मध्यमः⟫) በድምጺ የማይጠቀሙ ስርዓቶች ከቃላት የሚጠናቀቁ ቅጦች"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ e.g. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 ሊቃውንት ሰዋስው ዘሀገር አልቊጽርዎሙ ለቃለ አድኅሮት (⟪आमन्त्रितम्⟫) ከመ ጾታ ስም ዘርእስ፣ አላ ከመ ለውጥ ዘጾታ ስም ዘርእስ (⟪प्रथमा⟫)።
 
-::: important
+::: warning-box
 
 **ቃለ አድኅሮት የዓዋቂት ወይስ የጥሪት ቃል ነው፣ ወአልቦቱ ተዛምዶ ምስለ ካልእ ቃል ዘዓረፍተ ነገር፣ ወበዝንቱ ይትፌለጥ እምካልአት ጾታ ስም ዘይትናገራ ተዛምዶ ምስለ ግስ ወይስ ምስለ ካልእ ስም።**
 
@@ -251,7 +251,7 @@ e.g. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 :::
 
-::: important
+::: warning-box
 
 **Avoid translating the vocative with "**O** ...". We constantly use vocatives in German when we say, for example: "Darling, what are we cooking today?". No one would say in this sense: "**O** Darling, what are we cooking today?"**
 

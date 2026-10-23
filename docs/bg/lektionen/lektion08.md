@@ -3,8 +3,8 @@ title: "Урок 8"
 subtitle: "Образуване на съществителни имена & 8. клас на настоящето време"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

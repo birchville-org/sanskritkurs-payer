@@ -2,7 +2,7 @@
 title: "บทที่ 46"
 subtitle: "การสร้างรูปกริยาบุรุษที่สอง (⟪मध्यमः⟫) สมัยปัจจุบัน (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -480,7 +480,9 @@ Absol. -⟪ग्राह्य⟫
 
 ดู ⟪राहु⟫ และ ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ ดาวเคราะห์ล่องหน. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ ดาวเคราะห์ล่องหน. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

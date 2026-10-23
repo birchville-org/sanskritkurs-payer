@@ -2,7 +2,7 @@
 title: "Урок 43"
 subtitle: 'Особові закінчення другої особи (⟪मध्यमः⟫ = \"середня <особа>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

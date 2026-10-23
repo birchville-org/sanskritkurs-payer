@@ -70,7 +70,7 @@ Példák:
 :::
 ## 32.4. Példák az imperfect képzésére
 
-::: important
+::: warning-box
 **A formák képzésének demonstrálása érdekében itt az Parasmaipada gyökökhöz Ātmanepada formákat is képezünk! Ezek a mesterséges formák \< \> között állnak.**
 :::
 ### 32.4.1. Témás jelen idő osztályok
@@ -603,7 +603,7 @@ Fordítsa le és határozza meg a következő szóalakokat:
 
 ## 32.9. Fordítási gyakorlat
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫

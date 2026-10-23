@@ -2,7 +2,7 @@
 title: "Lekce 46"
 subtitle: "Tvoření slovesných tvarů 2. osoby (⟪मध्यमः⟫) perfekt (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -379,7 +379,9 @@ od toho:
 :::
 K ⟪राहु⟫ a ⟪केतु⟫ viz:
 
-> **Payer, Alois (1944–):** Dharmashastra : Úvod a přehled. -- 10. Sakramenta a obřady přechodu (samskara). -- Příloha C: Rahu a Ketu, neviditelné planetky . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Úvod a přehled. -- 10. Sakramenta a obřady přechodu (samskara). -- Příloha C: Rahu a Ketu, neviditelné planetky . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Obr.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/cs/licenses#lekt4602)

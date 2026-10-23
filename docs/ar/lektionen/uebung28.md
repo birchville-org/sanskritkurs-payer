@@ -2,7 +2,7 @@
 title: "تمرين 28"
 uebung_id: 28
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

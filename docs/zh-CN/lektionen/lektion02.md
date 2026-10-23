@@ -3,8 +3,8 @@ title: "第2课"
 subtitle: "名词句与变格基础"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,11 +14,11 @@ last_reconstructed: 2026-04-30
 ## 2.1. 名词句
 
 ::: grammar-box
-
 **模式：谓语名词 - 主语**
+:::
 
+::: indent
 例如，devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = “毗湿奴是一位神。”
-
 :::
 
 动词系词（“是”、“都是”、“我是”、“你是”、“你们是”）并非必需，但有时会出现。
@@ -84,7 +84,9 @@ Sanskrit中有：
 
 另见概述：
 
-> **Payer, Alois (1944–):** 词尾 -s 的连音。 -- （梵语材料）。-- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** 词尾 -s 的连音。 -- （梵语材料）。-- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 词尾的 **-s**：
 
@@ -128,7 +130,9 @@ Sanskrit中有：
 
 **śūdra** m. -- ⟪शूद्र⟫：首陀罗（服务阶层）。
 
-::: note-box 四个种姓 (varna)
+::: note-box
+**四个种姓 (varna)**
+
 
 根据古典理论（例如《摩奴法典》I, 88-91），职责分配如下：
 

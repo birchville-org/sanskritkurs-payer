@@ -2,7 +2,7 @@
 title: "Bài tập 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Câu hỏi của vua ⟪शूद्रक⟫ từ ⟪विदिशा⟫ dàn
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Nhà vua nói: "Hãy để tất cả những điều đó sang một bên! Hãy thỏa mãn trí tò mò của chúng ta! Thưa ngài, xin hãy kể cho chúng tôi nghe từ đầu: Ngài được sinh ra ở đâu? Ai đã đặt tên cho ngài? Mẹ của ngài là ai? Làm thế nào mà ngài có được các Veda? Ngài đã làm quen với các tác phẩm giáo lý như thế nào? Từ đâu mà ngài có được những nghệ thuật? Ngài có nhớ lại những kiếp sống trước đây hay thực hiện được các nguyện cầu không? Hay là ngài, bằng cách khoác lên mình bộ lông của một loài chim, đang ẩn náu ở đâu? Hay là trước đây ngài đã sống ở đâu? Hoặc bao nhiêu tuổi thì ngài bị bắt vào lồng? Và làm thế nào mà ngài lại rơi vào tay những người Cāṇḍāla? Hay là làm thế nào mà ngài đến được nơi đây?"
-\>
-> Nhưng Vaiśampāyana, người đã được Chúa tể của Trái Đất hỏi với sự tò mò tự nhiên và lòng kính trọng lớn lao, đã suy nghĩ một lát rồi đáp lại với đầy vẻ tôn kính: "Tâu bệ hạ, đó là một câu chuyện dài. Nếu ngài quan tâm, xin hãy lắng nghe!"
+::: indent
+Nhà vua nói: "Hãy để tất cả những điều đó sang một bên! Hãy thỏa mãn trí tò mò của chúng ta! Thưa ngài, xin hãy kể cho chúng tôi nghe từ đầu: Ngài được sinh ra ở đâu? Ai đã đặt tên cho ngài? Mẹ của ngài là ai? Làm thế nào mà ngài có được các Veda? Ngài đã làm quen với các tác phẩm giáo lý như thế nào? Từ đâu mà ngài có được những nghệ thuật? Ngài có nhớ lại những kiếp sống trước đây hay thực hiện được các nguyện cầu không? Hay là ngài, bằng cách khoác lên mình bộ lông của một loài chim, đang ẩn náu ở đâu? Hay là trước đây ngài đã sống ở đâu? Hoặc bao nhiêu tuổi thì ngài bị bắt vào lồng? Và làm thế nào mà ngài lại rơi vào tay những người Cāṇḍāla? Hay là làm thế nào mà ngài đến được nơi đây?"
+
+Nhưng Vaiśampāyana, người đã được Chúa tể của Trái Đất hỏi với sự tò mò tự nhiên và lòng kính trọng lớn lao, đã suy nghĩ một lát rồi đáp lại với đầy vẻ tôn kính: "Tâu bệ hạ, đó là một câu chuyện dài. Nếu ngài quan tâm, xin hãy lắng nghe!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

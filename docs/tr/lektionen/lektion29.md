@@ -2,7 +2,7 @@
 title: "Ders 29"
 subtitle: "Kausativ'da Parasmaipada (⟪परस्मैपद⟫) ve Ātmanepada'nın (⟪आत्मनेपद⟫) kullanımı"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

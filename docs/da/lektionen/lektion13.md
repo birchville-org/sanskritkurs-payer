@@ -2,7 +2,7 @@
 title: "Lektion 13"
 subtitle: "PPP på -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Lær følgende ord:
 **eva** ⟪एव⟫ : fremhæver det foregående ord
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spirituel, guddommelig.'
-\>
-> I de ældste dele af Ṛgveda bruges dette begreb om den højeste ånd, og er det samme som Ahura hos zoroastrerne. I betydningen 'gud' blev det anvendt om flere af de vigtigste guddomme, såsom Indra, Agni og Varuṇa. Senere fik det en helt modsat betydning, og kom til at betyde, som nu, en demon eller fjende af guderne.
-\>
-> Ordet findes med denne betydning i de senere dele af Ṛgveda, især i den sidste bog, og også i Atharvaveda. Brāhmaṇas tillægger det samme betydning, og optager mange kampe mellem Asuras og guderne. Ifølge Taittirīya Brāhmaṇa blev ånden *(asu)* hos Prajapati levende, og "med den ånd skabte jeg Asuras." I en anden del af det samme værk siges det, at Prajāpati "blev gravid. Han skabte Asuras fra sin mave." Śatapatha Brāhmaṇa stemmer overens med den tidligere udsagn, og angiver at "han skabte Asuras fra sin nedre ånde." Taittirīya Āraṇyaka repræsenterer at Prajāpati skabte guder, mennesker, fædre, Gandharvas og Apsarases fra vand, og at Asuras, Rakṣasas og piśācas opstod fra dråberne der blev spildt. Manus udsagn er at de blev skabt af Prajāpatis.
-\>
-> Ifølge Viṣṇu Purāṇa blev de produceret fra Brahma's (prajāpati) lyske. Beretningen om Vāyu Purāṇa er: "Asuras blev først produceret som sønner fra hans (Prajāpati's) lyske. *Asu* er erklæret af Brāhmaṇa at betyde ånde. Fra det blev disse væsener produceret; derfor er de Asuras." Ordet har længe været brugt som et generelt navn for guderne fjender, herunder Daityas og Danavas samt andre efterkommere af Kaśyapa, men ikke Rakṣasas nedstammer fra Pulastya.
-\>
-> I denne betydning er en anden afledning fundet for det: kilden er ikke længere asu, 'ånd,' men den indledende *a* tages som det negative præfiks, og *asura* betyder 'ikke en gud;' derfor opstod ifølge nogle ordet *sura,* almindeligt brugt for 'en gud.'"
-\>
-> [Kilde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spirituel, guddommelig.'
+
+I de ældste dele af Ṛgveda bruges dette begreb om den højeste ånd, og er det samme som Ahura hos zoroastrerne. I betydningen 'gud' blev det anvendt om flere af de vigtigste guddomme, såsom Indra, Agni og Varuṇa. Senere fik det en helt modsat betydning, og kom til at betyde, som nu, en demon eller fjende af guderne.
+
+Ordet findes med denne betydning i de senere dele af Ṛgveda, især i den sidste bog, og også i Atharvaveda. Brāhmaṇas tillægger det samme betydning, og optager mange kampe mellem Asuras og guderne. Ifølge Taittirīya Brāhmaṇa blev ånden *(asu)* hos Prajapati levende, og "med den ånd skabte jeg Asuras." I en anden del af det samme værk siges det, at Prajāpati "blev gravid. Han skabte Asuras fra sin mave." Śatapatha Brāhmaṇa stemmer overens med den tidligere udsagn, og angiver at "han skabte Asuras fra sin nedre ånde." Taittirīya Āraṇyaka repræsenterer at Prajāpati skabte guder, mennesker, fædre, Gandharvas og Apsarases fra vand, og at Asuras, Rakṣasas og piśācas opstod fra dråberne der blev spildt. Manus udsagn er at de blev skabt af Prajāpatis.
+
+Ifølge Viṣṇu Purāṇa blev de produceret fra Brahma's (prajāpati) lyske. Beretningen om Vāyu Purāṇa er: "Asuras blev først produceret som sønner fra hans (Prajāpati's) lyske. *Asu* er erklæret af Brāhmaṇa at betyde ånde. Fra det blev disse væsener produceret; derfor er de Asuras." Ordet har længe været brugt som et generelt navn for guderne fjender, herunder Daityas og Danavas samt andre efterkommere af Kaśyapa, men ikke Rakṣasas nedstammer fra Pulastya.
+
+I denne betydning er en anden afledning fundet for det: kilden er ikke længere asu, 'ånd,' men den indledende *a* tages som det negative præfiks, og *asura* betyder 'ikke en gud;' derfor opstod ifølge nogle ordet *sura,* almindeligt brugt for 'en gud.'"
+
+[Kilde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

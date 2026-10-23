@@ -2,7 +2,7 @@
 title: "الدرس 50"
 subtitle: "اشتقاق الاسم: التدرج المنتظم"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

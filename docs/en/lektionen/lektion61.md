@@ -753,7 +753,7 @@ Fig.: Melody, referenced to c, can be transposed depending on vocal range.
 
 Now that you have learned the basics of Sanskrit, hopefully you are like the toddlers in the video: sometimes clumsy, but eager to learn and acquire knowledge, with joy in what you do. Keep "a beginner's mind" until the end of your life.
 
-::: center
+::: verse-box
 This is wished for you by your Alois Payer
 
 Ofterdingen, 2009-03-09

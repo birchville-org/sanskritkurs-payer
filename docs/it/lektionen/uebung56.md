@@ -2,7 +2,7 @@
 title: "Esercizio 56"
 uebung_id: 56
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -94,10 +94,10 @@ Determinare e tradurre le seguenti forme:
 | ⟪७८⟫. | **⟪अकस्मात्⟫** | inaspettatamente (Avv.) |
 | ⟪७९⟫. | **⟪मित्रध्रुक्⟫** | *:sig[⟪मित्रद्रुह्⟫]*: Nom. Vok. Sg. m. f. n. (distruttore di nemici) |
 | ⟪८०⟫. | **⟪अवोचन्⟫** | *:sig[⟪वच्⟫]* 2P: 3. Pl. a-Aor. P. (parlarono) |
-:::: media
+:::
+::: media
 ![](/images/uebung091.webp)
 Fig.: ⟪जेरिम⟫
 (Fonte immagine: [Dettagli](/it/licenses#uebung091))
 
-::::
 :::

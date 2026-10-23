@@ -2,7 +2,7 @@
 title: "Exercice 30"
 uebung_id: 30
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -171,9 +171,9 @@ Déterminez et traduisez les formes lexicales suivantes :
 | ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | à elles |
 | ⟪३९⟫. ⟪तस्मिन्⟫ | Loc. sg. m./n. | là-dedans, en ceci |
 | ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | à l'Être / au Bon |
-:::: media
+:::
+::: media
 ![](/images/uebung047.webp)
 Fig. : ⟪भक्त्याः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung047))
-::::
 :::

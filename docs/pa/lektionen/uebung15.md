@@ -2,7 +2,7 @@
 title: "ਅਭਿਆਸ 15"
 uebung_id: 15
 category: "ਅਭਿਆਸ"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

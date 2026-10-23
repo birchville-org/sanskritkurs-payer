@@ -2,7 +2,7 @@
 title: "Latihan 23"
 uebung_id: 23
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -212,9 +212,9 @@ B) Decline **⟪क्षत्रिया⟫** (f.) in all cases known to you:
 | Absolute 1 | ⟪हत्वा⟫ |
 | Absolute 2 | -⟪हत्य⟫ |
 | Infinitive | ⟪हन्तुम्⟫ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Image source: [Details](/en/licenses#uebung036))
-::::
 :::

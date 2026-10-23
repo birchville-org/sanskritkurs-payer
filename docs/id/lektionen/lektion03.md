@@ -2,7 +2,7 @@
 title: "Pelajaran 3"
 subtitle: "Nominatif tunggal untuk kata benda feminin"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominatif Singular dibentuk tanpa akhiran:
 **Kata Benda Feminin berakhiran -ā**: mis. **devatā** f. "dewa" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Kata Benda Feminin berakhiran -ī**: mis. **devī** f. "dewi" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Perhatian!** Selain itu, ada kata benda akar feminin bersuku kata tunggal berakhiran -ī yang Nominatif Singularnya berakhir dengan -s: mis. dhī f. "pikiran" -- Nom. sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "perahu", dan tantrī (⟪तन्त्री⟫) f. "senar" juga membentuk Nominatif Singular secara tidak teratur berakhiran -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ misalnya
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā adalah dewi makanan dan memasak, ia dianggap sebagai perwujudan Pārvatī, istri Śiva.)
+::: indent
+(Annapūrṇā adalah dewi makanan dan memasak, ia dianggap sebagai perwujudan Pārvatī, istri Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī adalah istri dewa Indra.)
+::: indent
+(Indrāṇī adalah istri dewa Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ misalnya
 
 devī + umā » devy umā "Umā adalah seorang / sang dewi" = ⟪देव्युमा⟫
 
-> (Umā adalah nama lain untuk Pārvatī, istri Śiva)
+::: indent
+(Umā adalah nama lain untuk Pārvatī, istri Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā sebelum vokal yang tidak serupa:**

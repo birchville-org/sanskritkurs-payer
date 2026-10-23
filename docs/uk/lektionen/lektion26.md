@@ -2,7 +2,7 @@
 title: "Урок 26"
 subtitle: "Закон церебралізації для -s- всередині слова"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

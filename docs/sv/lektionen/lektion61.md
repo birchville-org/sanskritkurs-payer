@@ -996,7 +996,7 @@ Fig.: Melodi, relaterad till c, kan transponeras beroende på röstläge.
 
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ står i början av undervisningen i kannadisk musik. Se videon: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Åtkomst 2009-03-05
 
-::: center
+::: verse-box
 
 This is wished to you by your Alois Payer
 

@@ -2,7 +2,7 @@
 title: "Oppitunti 52"
 subtitle: "Neutritumin varret, jotka päättyvät -i ja -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

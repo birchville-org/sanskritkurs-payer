@@ -2,7 +2,7 @@
 title: "Lezione 17"
 subtitle: "Seconda classe del presente (⟪अदादि⟫ = ⟪अद्⟫ ecc.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lecție 5"
 subtitle: "Bazele compozițiilor nominale (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Elementele anterioare ale compuselor (nu doar Dvandvas) au, de regulă, forma **
 Exemple de Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmani, Kṣatriyas, Vaiśyas și Śūdras)
-> 
-> sau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((un/bramanul), Kṣatriya, Vaiśya și Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmani, Kṣatriyas, Vaiśyas și Śūdras)
+
+sau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((un/bramanul), Kṣatriya, Vaiśya și Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Poeți și profesori [Plur.])
-> (Notă: „Un poet și un profesor” ar trebui să fie la dual!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Poeți și profesori [Plur.])
+(Notă: „Un poet și un profesor” ar trebui să fie la dual!)
+:::
 
 
 ## 5.4. Listă de cuvinte

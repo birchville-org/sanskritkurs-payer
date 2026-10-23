@@ -3,8 +3,8 @@ title: "பாடம் 2"
 subtitle: "பெயர்ச்சொல் வாக்கியம் மற்றும் சொல்லிலக்கண அடிப்படைகள்"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **அமைப்பு: இலக்கணப் பெயர் - வினைச்சொல்**
+:::
 
+::: indent
 எ.கா., devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "விஷ்ணு ஒரு கடவுள்."
 :::
 வினைச்சொல் இணைப்பு ("ஆகும்", "ஆவர்", "நான் ஆகிறேன்", "நீ ஆகிறாய்", "நீங்கள் ஆகிறீர்கள்") தேவையில்லை, ஆனால் சில நேரங்களில் இருக்கலாம்.
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 மேலும் காண்க:
 
-> **Payer, Alois (1944–):** -s இன் சந்தி. -- (சமஸ்கிருதப் பொருட்கள்). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** -s இன் சந்தி. -- (சமஸ்கிருதப் பொருட்கள்). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 இறுதியில் **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : சூத்திரர் (சேவை வகுப்பு).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**நான்கு வர்ணங்கள் (varṇa)**
+
 பாரம்பரிய கோட்பாட்டின்படி (எ.கா., மனுஸ்மிருதி I, 88-91) பணிகள் பின்வருமாறு பிரிக்கப்பட்டுள்ளன:
 
 **பிராமணர்களின்**

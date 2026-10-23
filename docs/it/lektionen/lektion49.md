@@ -2,7 +2,7 @@
 title: Lektion 49
 subtitle: "Formazione dell'imperativo (⟪लोट्⟫) dei temi atematici del presente (continuazione)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

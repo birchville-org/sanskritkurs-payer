@@ -2,7 +2,7 @@
 title: "Lección 54"
 subtitle: "Nota preliminar"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ The ⟪त्रिष्टुभ्⟫ has two basic schemata, depending on wh
 Schema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 The quantity of the last four syllables is therefore identical in both schemata.
 
 ⟪जगती⟫-basic form: as with ⟪त्रिष्टुभ्⟫, but 12-syllabic. The last five syllables of each Pada exhibit the following quantities:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 In addition, there is the so-called typically superfluous ⟪त्रिष्टुभ्⟫ with a five-syllabic initial member, which continues like an ⟪त्रिष्टुभ्⟫ with a four-syllabic initial member:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 In later times, the forms of the ⟪त्रिष्टुभ्⟫ are fixed according to a strict schema of long and short syllables; the caesura no longer plays any role. The most important later forms are:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

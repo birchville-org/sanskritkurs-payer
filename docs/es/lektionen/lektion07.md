@@ -2,7 +2,7 @@
 title: "Lección 7"
 subtitle: "La oración verbal con objeto directo"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # Lección 7
 
 
-::: center
+::: verse-box
 **Frase de la semana**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Dios prevalece, no el adversario divino.
 ::: grammar-box
 **Esquema:**
 **(Agente = kartṛ m. = ⟪कर्तृ⟫) – objeto directo (karman n. = ⟪कर्मन्⟫) – verbo**
+:::
 
+::: indent
 p.ej.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma come (devora) una fruta."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "El brahmán venera a un dios con un sacrificio (para alguien más)."

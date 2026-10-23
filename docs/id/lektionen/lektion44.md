@@ -2,7 +2,7 @@
 title: "Pelajaran 44"
 subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) dari stam atematik dengan akhiran vokal"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -183,7 +183,7 @@ Contoh: ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » 
 
 Para grammatikawan lokal tidak menganggap vocativ (⟪आमन्त्रितम्⟫) sebagai kasus mandiri, melainkan hanya sebagai modifikasi dari nominativ (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Vocativ digunakan untuk panggilan, sapaan, dan berada di luar hubungan dengan sisa kalimat, sehingga berbeda dari kasus-kasus lain yang menyatakan hubungan dengan kata kerja atau nomina lainnya.**
 
 **Vocativ biasanya ditempatkan di awal kalimat:**
@@ -192,7 +192,7 @@ Para grammatikawan lokal tidak menganggap vocativ (⟪आमन्त्रि�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Anak, apa yang kau katakan?"
 :::
-::: important
+::: warning-box
 **Hindari menerjemahkan vocativ dengan "**O** ...". Kami secara rutin menggunakan vocatif dalam bahasa Jerman, misalnya ketika kita berkata: "Sayang, apa yang akan kita masak hari ini?". Tidak ada orang yang dalam makna ini akan berkata: "**O** sayang, apa yang akan kita masak hari ini?"**
 :::
 ::: media

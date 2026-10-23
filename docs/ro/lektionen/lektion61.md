@@ -763,7 +763,7 @@ Fig.: Melodia, raportată la do, poate fi transpusă în funcție de registrul v
 
 După ce ați învățat acum bazele sanscrite, sunteți, sper, ca bebelușii din videoclip: uneori stângaci, dar dornici de învățare și cunoaștere, și bucuroși în ceea ce faceți. Păstrați până la sfârșitul vieții „o minte de începător”.
 
-::: center
+::: verse-box
 Acesta este dorința dumneavoastră, Alois Payer
 
 Ofterdingen, 09.03.2009

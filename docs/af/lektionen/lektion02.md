@@ -3,8 +3,8 @@ title: "Lesing 2"
 subtitle: "Die naamlike sin en die beginsels van deklinasie"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -14,7 +14,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Skema: Predikaatsnomen - Subjek**
+:::
 
+::: indent
 bv. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu is 'n god."
 :::
 'n Werkwoordelike kopula ("is") is nie nodig nie, maar kan soms voorkom.
@@ -73,7 +75,9 @@ In Sanskrit word die slotklank van 'n woord ook bepaal deur die beginklank van d
 
 Sien ook die oorsig:
 
-> **Payer, Alois \<1944 - \>:** Sandhi van slotklank -s. -- (Materiale vir Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois \<1944 - \>:** Sandhi van slotklank -s. -- (Materiale vir Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Uitgaande **-s**:
 
@@ -116,7 +120,9 @@ Uitgaande **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (diensstand).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Die vier stande (varṇa)**
+
 Volgens die klassieke teorie (bv. Manusmṛti I, 88-91) is die take verdeel:
 
 - **van die Brahmane**

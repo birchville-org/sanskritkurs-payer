@@ -1,3 +1,4 @@
+
 # Devanāgarī = ⟪देवनागरी⟫
 
 ## Skriveoppgave 1

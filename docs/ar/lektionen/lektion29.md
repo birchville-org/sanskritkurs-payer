@@ -2,7 +2,7 @@
 title: "الدرس 29"
 subtitle: "استخدام الصيغة للمجهول (⟪परस्मैपद⟫) وصيغة للمتكلم (⟪आत्मनेपद⟫) في صيغة السببية"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

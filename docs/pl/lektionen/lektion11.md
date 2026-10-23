@@ -2,7 +2,7 @@
 title: "Lekcja 11"
 subtitle: "Podwielny biernik (biernik osoby i rzeczy)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

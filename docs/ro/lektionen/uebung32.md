@@ -2,7 +2,7 @@
 title: "Exercițiul 32"
 uebung_id: 32
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -209,11 +209,11 @@ Determinați și traduceți următoarele cuvinte:
 | ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | la cei însărcinați |
 | ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Kaus. | el instruiește |
 | ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | ei permit citirea |
-:::: media
+:::
+::: media
 ![](/images/uebung051.webp)
 Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
 (Sursă imagine: [Detalii](/licenses#uebung051))
-::::
 :::
 ---
 

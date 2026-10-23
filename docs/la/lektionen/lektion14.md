@@ -2,7 +2,7 @@
 title: Lektion 14
 subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -27,7 +27,7 @@ Exempla:
 ::: grammar-box
 Ordinaria verborum positio est:
 
-> **Genetivum determinans — Substantivum determinatum in alio casu**
+**Genetivum determinans — Substantivum determinatum in alio casu**
 :::
 **Genetivum et PPP:**
 
@@ -36,9 +36,9 @@ Apud participia praeterita genitivus pro ablativo instrumentali (tṛtīyā) pro
 
 Post Pāṇini 2.3.67, apud PPP, Genetivus stat, si PPP praesentis significationis est (vide supra), Instrumentalis, si PPP praeteriti significationis est:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Fructus a Rāma optatus = Fructus quem Rāma praesens optat"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Fructus quem Rāma optavit"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Fructus a Rāma optatus = Fructus quem Rāma praesens optat"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Fructus quem Rāma optavit"
 
 Quippe cum PPP neutro singulari, quod ut verbi abstractum, id est ut nomen, adhibeatur, genitivus stat.
 :::
@@ -55,7 +55,7 @@ Post consonantes, des sunt regulae casus genetivi:
 * Pluralis: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalis radix | Stamen infirmum | Genetivus singularis | Genetivus pluralis |
 | :--- | :--- | :--- | :--- |
@@ -71,10 +71,10 @@ Post consonantes, des sunt regulae casus genetivi:
 
 Genetivus pluralis stemmatim vocaliter desinentium sic formatur:
 
-> **-langer auslautender Vokal des Stammes + -nām**
+**-langer auslautender Vokal des Stammes + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominalis radix | Genitivus pluralis |
 | :--- | :--- |
@@ -95,7 +95,7 @@ Genetivus pluralis stemmatim vocaliter desinentium sic formatur:
 Genetivus singularis stemmatium vocaliter desinentium irregulariter formatur et bene memoriter discendus est.
 
 :::
-::: center
+::: verse-box
 
 | Genus | Casus Singularis |
 | :--- | :--- |
@@ -111,7 +111,7 @@ Genetivus singularis stemmatium vocaliter desinentium irregulariter formatur et 
 :::
 **Interrogativa et demonstrativa:**
 
-::: center
+::: verse-box
 
 | | | quid | id | hoc | is |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Genetivus singularis stemmatium vocaliter desinentium irregulariter formatur et 
 :::
 **Formae similitudo:**
 
-::: important
+::: warning-box
 
 In omnibus nominum stemmatibus, exceptis masculinis et neutralibus in -a et pronomibus, forma genitivi singularis idem est cum forma ablativi (pañcamī "casus quintus") singularis!
 
@@ -135,11 +135,11 @@ Caveto quod in stemmatibus consonantibus finalibus, ablativus et genitivus singu
 ::: grammar-box
 Contraria regula superiore, Genitivus adhibetur, ut obiectum quorundam verborum exprimatur, verbi gratia in verbis memorandi:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Memor est deorum"
+⟪देवानां⟫ ⟪स्मरति⟫ "Memor est deorum"
 
 Hisce verbis obiectum tamen etiam in accusativo stare potest:
 
-> ⟪देवान्स्मरति⟫ "Memor est deorum"
+⟪देवान्स्मरति⟫ "Memor est deorum"
 
 Postea cetera.
 :::

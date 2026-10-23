@@ -2,7 +2,7 @@
 title: "Mësimi 3"
 subtitle: "Nominativin e vetës së femrës"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominativ Singular formohet pa përfundim:
 **Feminitive me -ā**: p.sh. **devatā** f. "perëndeshë" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminitive me -ī**: p.sh. **devī** f. "perëndeshë" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Vëmendje!** Përveç kësaj, ka emra rrënjorë feminitet njëshkronjorë me -ī, të cilëve Nominativ Singular përfundon në -s: p.sh. dhī f. "mendim" -- Nom. sg.: dhīs = ⟪धीस्⟫. Po ashtu lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "varkë" dhe tantrī (⟪तन्त्री⟫) f. "kordë" formojnë Nominativ Singular në mënyrë të parregullt me -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ p.sh.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇa është një hyjni" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇa është zonja e ushqimeve dhe gatimit, ajo konsiderohet si një përfaqësim i Pārvatī's, bashkëshortes së Śivas.)
+::: indent
+(Annapūrṇa është zonja e ushqimeve dhe gatimit, ajo konsiderohet si një përfaqësim i Pārvatī's, bashkëshortes së Śivas.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇi është një zonjë" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇi është bashkëshortja e hyjit Indra.)
+::: indent
+(Indrāṇi është bashkëshortja e hyjit Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ p.sh.
 
 devī + umā » devy umā "Umā është një / zonja" = ⟪देव्युमा⟫
 
-> (Umā është një emër për Pārvatī, bashkëshorten e Śivas)
+::: indent
+(Umā është një emër për Pārvatī, bashkëshorten e Śivas)
+:::
 
 ::: grammar-box
 **-a / -ā përpara zanoreve të pa ngjashme:**

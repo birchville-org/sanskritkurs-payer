@@ -2,7 +2,7 @@
 title: "Leçon 11"
 subtitle: "L'accusatif double (accusatif de la personne et de la chose)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

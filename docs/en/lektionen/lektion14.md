@@ -2,7 +2,7 @@
 title: "Lesson 14"
 subtitle: "The expression of the relationship of that designated by nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Examples:
 ::: grammar-box
 The normal word order is:
 
-> **Determining word in the genitive — Further specified noun in another case**
+**Determining word in the genitive — Further specified noun in another case**
 :::
 **Genitive and PPP:**
 
@@ -37,9 +37,9 @@ With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for t
 
 According to Pāṇini 2.3.67, with PPPs the genitive stands if the PPP has present-tense meaning (see above), and the instrumental stands if the PPP has past-tense meaning:
 
-> ⟪रामस्येष्टं फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
+⟪रामस्येष्टं फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
+
+⟪रामेणेष्टं फलम्⟫ "The fruit that Rāma desired"
 
 Naturally, when a PPP neuter singular is used as a verbal abstract — that is, as a noun — the genitive case stands.
 :::
@@ -56,7 +56,7 @@ After a consonant, the regular genitive endings are:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ After a consonant, the regular genitive endings are:
 
 The genitive plural of vowel-final stems is formed as follows:
 
-> **-long final vowel of the stem + -nām**
+**-long final vowel of the stem + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Nominal Stem | Genitive Plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ The genitive plural of vowel-final stems is formed as follows:
 The genitive singular of stems ending in a vowel is formed irregularly and must be learned by heart.
 
 :::
-::: center
+::: verse-box
 
 | Stem | Genitive singular |
 | :--- | :--- |
@@ -112,7 +112,7 @@ The genitive singular of stems ending in a vowel is formed irregularly and must 
 :::
 **Interrogative and demonstrative pronouns:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ The genitive singular of stems ending in a vowel is formed irregularly and must 
 :::
 **Identity of form:**
 
-::: important
+::: warning-box
 
 In all nominal stems except for the masculine and neuter stems ending in -a, as well as pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
 
@@ -136,11 +136,11 @@ Note that in stems ending with a consonant, the ablative and genitive singular s
 ::: grammar-box
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. with verbs of remembrance:
 
-> ⟪देवानां स्मरति⟫ "He remembers the gods"
+⟪देवानां स्मरति⟫ "He remembers the gods"
 
 However, with all these verbs, the object can also be in the accusative:
 
-> ⟪देवान्स्मरति⟫ "He remembers the gods"
+⟪देवान्स्मरति⟫ "He remembers the gods"
 
 More later.
 :::

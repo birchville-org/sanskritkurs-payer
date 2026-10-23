@@ -2,7 +2,7 @@
 title: "Les 10"
 subtitle: "De passieve zinsconstructie (instrumentalis van het agens)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agent - kartṛ - in de instrumentalis (tṛtīyā)) - (direct object - karman - in de nominativ) - passieve werkwoordsvorm**
+:::
 
+::: indent
 bijv. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Een brahmaan vereert een god met een offer" (letterlijk: "Een god wordt door een brahmaan met een offer vereerd.")
-
 Deze zin is **volledig (!) betekenisgelijk** met de zin:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatief: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम�
 :::
 Sanskrit-passiefconstructies zijn uiterst frequent: het passief is immers ook makkelijker te vormen dan bijvoorbeeld talrijke tegenwoordige stamvormen.
 
-::: important
+::: warning-box
 **Sanskrit-passiefzinnen mogen in het Duits over het algemeen niet door een Duitse passiefzin worden weergegeven, omdat het Duitse passivum een geheel andere stilistische functie heeft.**
 :::
 
@@ -233,8 +234,6 @@ De traditionele inheemse benaming voor deze vorming van de lage trap bij werkwoo
 ::: note-box
 In India schreef men toverkracht toe aan het ware woord; ja, de hele wereldorde wordt door het ware woord in stand gehouden en geschapen. Zie voor deze belangrijke opvatting het fundamentele werk:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Uit d. nal. uitg. door Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Deel 2: Varuna en het Ṛta. -- 1959. -- XXIII blz., blz. 340 - 764
 :::
 
@@ -368,7 +367,7 @@ Afbeelding: ⟪तन्तुवायः⟫
 **Lees en vertaal en zet om in het passief:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

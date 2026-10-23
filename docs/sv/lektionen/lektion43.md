@@ -2,7 +2,7 @@
 title: "Lektion 43"
 subtitle: 'Personändelser för 2:a person (⟪मध्यमः⟫ = "mellersta <person>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

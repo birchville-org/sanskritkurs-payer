@@ -2,7 +2,7 @@
 title: "Lecție 3"
 subtitle: "Nominativul singular al femininului"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominativul singular se formează fără sufix:
 **Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Atenție!** Există, de asemenea, substantive rădăcină feminine monosilabice în -ī ale căror nominative singulare se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează în mod neregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ de ex.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā este zeița mâncării și a gătitului, fiind considerată o întrupare a Pārvatī, soția lui Śiva.)
+::: indent
+(Annapūrṇā este zeița mâncării și a gătitului, fiind considerată o întrupare a Pārvatī, soția lui Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrāṇī este o zeiță” = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī este soția zeului Indra.)
+::: indent
+(Indrāṇī este soția zeului Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ de ex.
 
 devī + umā » devy umā „Umā este o / zeița” = ⟪देव्युमा⟫
 
-> (Umā este un nume pentru Pārvatī, soția lui Śiva)
+::: indent
+(Umā este un nume pentru Pārvatī, soția lui Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā înainte de o vocală diferită:**

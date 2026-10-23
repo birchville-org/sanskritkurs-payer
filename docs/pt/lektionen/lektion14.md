@@ -2,7 +2,7 @@
 title: "Lição 14"
 subtitle: "A expressão da relação de posse por substantivos: o genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminação casual)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Exemplos:
 ::: grammar-box
 A ordem normal das palavras é:
 
-> **Palavra determinante no genitivo — Substantivo qualificado em outro caso**
+**Palavra determinante no genitivo — Substantivo qualificado em outro caso**
 :::
 **Genitivo e PPP:**
 
@@ -37,9 +37,9 @@ Com PPPs, o genitivo pode ser usado em vez do instrumental (tṛtīyā) para o a
 
 Segundo Pāṇini 2.3.67, o genitivo é usado com o PPP, quando o PPP tem um significado de presente (ver acima), e o instrumental, quando o PPP tem um significado de passado:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "O fruto desejado por Rāma = O fruto que Rāma deseja atualmente"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "O fruto que Rāma desejou"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "O fruto desejado por Rāma = O fruto que Rāma deseja atualmente"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "O fruto que Rāma desejou"
 
 Naturalmente, com um PPP neutro singular, que é usado como um abstrato verbal - ou seja, como um substantivo - usa-se o genitivo.
 :::
@@ -56,7 +56,7 @@ Após uma consoante, as desinências regulares do genitivo são:
 * Plural: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Tema nominal | Tema fraco | Genitivo singular | Genitivo plural |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Após uma consoante, as desinências regulares do genitivo são:
 
 O genitivo plural de temas que terminam em vogal é formado da seguinte maneira:
 
-> **-vogal final longa do tema + -nām**
+**-vogal final longa do tema + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Radical nominal | Genitivo Plural |
 | :--- | :--- |
@@ -96,7 +96,7 @@ O genitivo plural de temas que terminam em vogal é formado da seguinte maneira:
 O genitivo singular dos temas vocálicos é formado irregularmente e deve ser aprendido de cor.
 
 :::
-::: center
+::: verse-box
 
 | Tema | Genitivo Singular |
 | :--- | :--- |
@@ -112,7 +112,7 @@ O genitivo singular dos temas vocálicos é formado irregularmente e deve ser ap
 :::
 **Pronomes interrogativos e demonstrativos:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ O genitivo singular dos temas vocálicos é formado irregularmente e deve ser ap
 :::
 **Identidade de formas:**
 
-::: important
+::: warning-box
 
 Em todos os temas nominais, exceto nos masculinos e neutros em -a e nos pronomes, a forma do genitivo singular é idêntica à forma do ablativo (pañcamī "quinta desinência casuál") singular!
 
@@ -136,11 +136,11 @@ Note que, em radicais terminados em consoante, o ablativo e o genitivo singular 
 ::: grammar-box
 Contrariamente à regra básica acima, o genitivo é usado para expressar o objeto de alguns verbos, por exemplo, com verbos de lembrança:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Ele recorda os deuses"
+⟪देवानां⟫ ⟪स्मरति⟫ "Ele recorda os deuses"
 
 Com todos estes verbos, no entanto, o objeto também pode estar no acusativo:
 
-> ⟪देवान्स्मरति⟫ "Ele recorda os deuses"
+⟪देवान्स्मरति⟫ "Ele recorda os deuses"
 
 Mais sobre isso posteriormente.
 :::

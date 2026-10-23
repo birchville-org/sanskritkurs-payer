@@ -485,7 +485,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Significance of Determining the Meter
 
@@ -560,10 +562,10 @@ Example: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Raspodjela ⟪लघु⟫ i ⟪गुरु⟫:
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. The epic Śloka (⟪श्लोक⟫ m.)
@@ -589,11 +591,11 @@ The most important verse meter in the epics (⟪महाभारत⟫, ⟪र
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 The second and third syllable of a ⟪पाद⟫ should not simultaneously be ⟪लघु⟫. In b and d, syllables 2-4 may not be ¯ ˘ ¯.
@@ -601,19 +603,19 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 **Secondary schemes (⟪विपुला⟫) for a and c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **Kod svih oblika šloke glavna cezura nalazi se na kraju 2. ⟪पाद⟫: ondje je ili kraj riječi ili — kod dugih kompozita — kraj kompozitnog člana.**
@@ -622,7 +624,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 ::: grammar-box
 **Odredite među svim dosad naučenim stihovima šloke. Izradite za njih pismeno metričku shemu. Ukažite na eventualne nepravilnosti odn. oblike vipule.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

@@ -2,7 +2,7 @@
 title: "Ejercicio 46"
 uebung_id: 46
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -87,5 +87,4 @@ Para el indomable (no yogui) no hay comprensión.
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung080))
-::: \<!--  --\>
 :::

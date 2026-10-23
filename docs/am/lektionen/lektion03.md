@@ -2,7 +2,7 @@
 title: "ትምህርት 3"
 subtitle: "የጾታ ስም ለአንድ ቁጥር"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ Nominativ Singular በሳይጨምር ይሰራል:
 
 :::
 
-::: important
+::: warning-box
 
 **ማስጠንቀቂያ!** በተጨማሪም አንድ-አስርት የሆኑ ፈረንሳይ ቃላት በ -ī የሚጠናቀቁ ናቸው፣ Nominativ Singular በ -s ይሰራል: ምሳሌ፣ dhī f. "አስተላላፊ" -- Nom. sg.: dhīs = ⟪धीस्⟫. እንዲሁም lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "መንገድ" እና tantrī (⟪तन्त्री⟫) f. "መስመር" በተለየ መልኩ Nominativ Singular በ -s ይሰራል: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -88,11 +88,15 @@ u / -ū + u- / ū- » **-ū-**
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā አምላክ ናት" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā የምግብ እና የምግብ ዝግጅት አምላክ ስትሆን ለፓርቫቲ ልክ እንደ ተራወጠ ትቆጠራለች፣ የሽቪያ ሚስት።)
+::: indent
+(Annapūrṇā የምግብ እና የምግብ ዝግጅት አምላክ ስትሆን ለፓርቫቲ ልክ እንደ ተራወጠ ትቆጠራለች፣ የሽቪያ ሚስት።)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī አምላክ ናት" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī የአምላክ ኢንድራ ሚስት ናት።)
+::: indent
+(Indrāṇī የአምላክ ኢንድራ ሚስት ናት።)
+:::
 
 ::: media
 
@@ -117,7 +121,9 @@ u / -ū » **-v-**
 
 devī + umā » devy umā "Umā አምላክ ናት" = ⟪देव्युमा⟫
 
-> (Umā ለፓርቫቲ ስም ነች፣ የሽቪያ ሚስት)
+::: indent
+(Umā ለፓርቫቲ ስም ነች፣ የሽቪያ ሚስት)
+:::
 
 ::: grammar-box
 

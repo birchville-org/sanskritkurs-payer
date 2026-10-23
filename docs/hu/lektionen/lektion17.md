@@ -2,7 +2,7 @@
 title: "17. lecke"
 subtitle: "Második jelen idő osztály (⟪अदादि⟫ = ⟪अद्⟫ stb.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

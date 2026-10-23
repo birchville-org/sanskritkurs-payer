@@ -2,7 +2,7 @@
 title: "[Pelajaran 13]"
 subtitle: "[PPP pada -na-]"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Pelajari kata-kata berikut:
 **eva** ⟪एव⟫ : menekankan kata sebelumnya
 **asura** m. ⟪असुर⟫ : iblis
 
-> **ASURA.** 'Spiritual, ilahi.'
-\>
-> Pada bagian tertua Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura dari Zoroastrianisme. Dalam arti 'dewa', istilah ini diterapkan pada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian memperoleh makna yang sepenuhnya berlawanan, dan menjadi berarti, seperti sekarang ini, iblis atau musuh para dewa.
-\>
-> Kata ini ditemukan dengan makna ini pada bagian akhir Ṛgveda, khususnya pada buku terakhir, dan juga dalam Atharvaveda. Brāhmaṇas memberikan makna yang sama, dan mencatat banyak pertempuran antara Asuras dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku Asuras." Pada bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung. Ia menciptakan Asuras dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan sebelumnya, dan menyatakan bahwa "ia menciptakan Asuras dari napas bawahnya." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa, manusia, ayah-ayah, Gandharvas, dan Apsarases dari air, dan bahwa Asuras, Rakṣasas, dan piśācas berasal dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh Prajāpatis.
-\>
-> Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan Vāyu Purāṇa adalah: "Asuras pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka adalah Asuras." Kata ini telah lama digunakan sebagai nama umum untuk musuh para dewa, termasuk Daityas dan Danavas serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasas yang berasal dari Pulastya.
-\>
-> Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' karenanya, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
-\>
-> [Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritual, ilahi.'
+
+Pada bagian tertua Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura dari Zoroastrianisme. Dalam arti 'dewa', istilah ini diterapkan pada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian memperoleh makna yang sepenuhnya berlawanan, dan menjadi berarti, seperti sekarang ini, iblis atau musuh para dewa.
+
+Kata ini ditemukan dengan makna ini pada bagian akhir Ṛgveda, khususnya pada buku terakhir, dan juga dalam Atharvaveda. Brāhmaṇas memberikan makna yang sama, dan mencatat banyak pertempuran antara Asuras dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku Asuras." Pada bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung. Ia menciptakan Asuras dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan sebelumnya, dan menyatakan bahwa "ia menciptakan Asuras dari napas bawahnya." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa, manusia, ayah-ayah, Gandharvas, dan Apsarases dari air, dan bahwa Asuras, Rakṣasas, dan piśācas berasal dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh Prajāpatis.
+
+Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan Vāyu Purāṇa adalah: "Asuras pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka adalah Asuras." Kata ini telah lama digunakan sebagai nama umum untuk musuh para dewa, termasuk Daityas dan Danavas serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasas yang berasal dari Pulastya.
+
+Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' karenanya, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
+
+[Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

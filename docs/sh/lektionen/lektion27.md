@@ -2,7 +2,7 @@
 title: "Lekcija 27"
 subtitle: 'Upotreba lokativa (⟪सप्तमी⟫ f. = "sedmo padežno završetak")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -26,7 +26,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) na pitanje "Gde?" označava prostor u (na, uz, kod) kome se nalazi agens (⟪कर्ता⟫) ili objekat radnje, ili gde se sama radnja odvija.**
 
-> ⟪नगरे वसति⟫ = "On živi u gradu"
+⟪नगरे वसति⟫ = "On živi u gradu"
 
 :::
 
@@ -44,19 +44,19 @@ Džajpur, 1875.
 
 **2. Lokativ na pitanje "Kada?" označava trenutak ili spoljne okolnosti:**
 
-> ⟪तस्मिन्काले⟫ = "u tom trenutku, u to vreme"
+⟪तस्मिन्काले⟫ = "u tom trenutku, u to vreme"
 
 **Ovde spada i tzv. Locativus Absolutus:**
 
 **Ako radnja ili stanje osobe ili stvari određuje vreme u koje - ili okolnosti pod kojima - DRUGA osoba ili vrši radnju ili se nalazi u određenom stanju, tada reč koja označava prvu osobu ili stvari zajedno sa reči koja je bliže određuje (što često bude particip) prelazi u lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "dok vreme tako prolazi..."
-\>
-> ⟪तस्मिन्गते⟫ = "kada je on otišao..."
+⟪एवं गच्छति काले⟫ = "dok vreme tako prolazi..."
+
+⟪तस्मिन्गते⟫ = "kada je on otišao..."
 
 **Ponekad agens (⟪कर्ता⟫) nije posebno označen:**
 
-> ⟪एवं सति⟫ = "pošto je situacija takva"
+⟪एवं सति⟫ = "pošto je situacija takva"
 
 **Locativus absolutus se mora prevoditi u zavisnosti od konteksta sa "dok" (npr. particip prezenta), "nakon", "kada" (npr. PPP), "pošto", "jer", "iako", "ako" itd.**
 
@@ -78,7 +78,7 @@ Rajasthan.
 
 **3. The locative also answers the question "With respect to what?" etc.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "He has love for his son" (literally: "With respect to the son, there is love in him")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "He has love for his son" (literally: "With respect to the son, there is love in him")
 
 :::
 
@@ -96,7 +96,7 @@ Holi.
 
 **4. The locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
 
-> ⟪भू सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
 
 :::
 

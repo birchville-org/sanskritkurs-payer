@@ -2,7 +2,7 @@
 title: "Pamoka 6"
 subtitle: "Veikalo sakinio sanda (veikėjas ir veiksmažodžio forma)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

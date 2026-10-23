@@ -2,7 +2,7 @@
 title: "Učenje 26"
 subtitle: "Zakon o cerebralizaciji za -s- znotraj besede"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

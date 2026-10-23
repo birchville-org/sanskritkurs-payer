@@ -2,7 +2,7 @@
 title: "Mësimi 10"
 subtitle: "Fjalitja pasive (Instrumentali i agjentit)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Skema:**
 **(Agjent - kartṛ - në Instrumental (tṛtīyā)) - (Objekt i drejtpërdrejtë - karman - në Nominativ) - formë verbale pasive**
+:::
 
+::: indent
 p.sh. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Një brahman e adhuron një hyjni me një flijim" (fjalë për fjalë: "Një hyjni adhurohet nga një brahman me një flijim.")
-
 Ky propozicion është **plotësisht (!) i barabartë në kuptim** me propozimin:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternativisht: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रा�
 :::
 Konstruktimet pasive të sanskritishtit janë jashtëzakonisht të shpeshta: pasi pasivi është më i lehtë për t'u formuar se sa, p.sh., numëroshme rrënjësh prezensi.
 
-::: important
+::: warning-box
 **Fjalitë pasive të sanskritishtit, në përgjithësi, nuk duhet të rikthehen në gjermanisht me një fjalim pasiv, pasi pasivi gjerman ka një funksion krejtësisht tjetër stilistik.**
 :::
 
@@ -234,8 +235,6 @@ p.sh. **tan** 8 U.
 ::: note-box
 Në Indi, fjala e vërtetë i atribuohesh fuqia magjike, madje e gjithë rendi botëror mbahet dhe krijohet nga fjala e vërtetë. Për këtë koncept të rëndësishëm shihni veprën bazë:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Përgatitur nga trashëgimia e autorit nga Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vëllimi 2: Varuna dhe Ṛta. -- 1959. -- XXIII faqe, fq. 340 - 764
 :::
 

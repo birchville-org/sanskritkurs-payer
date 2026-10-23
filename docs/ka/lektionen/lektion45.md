@@ -2,7 +2,7 @@
 title: "ლექსი 45"
 subtitle: "მე-2 პირის ვერბალური ფორმების წარმოქმნა (⟪मध्यमः⟫) ათემატური ფუძეებისა, რომელთაც არ აქვთ ვოკალური ბოლოსართი (გაგრძელება)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

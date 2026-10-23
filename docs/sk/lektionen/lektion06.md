@@ -2,7 +2,7 @@
 title: "Lekcia 6"
 subtitle: "Stavba slovesnej vety (agent a slovesný tvar)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

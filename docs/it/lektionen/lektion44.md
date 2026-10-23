@@ -2,7 +2,7 @@
 title: "Lezione 44"
 subtitle: "Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di stemmi atematici con suffisso terminante in vocale"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ ad es. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 I grammatici indigeni non considerano il vocativo (⟪आमन्त्रितम्⟫) come un caso autonomo, ma solo come una modifica del nominativo (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Il vocativo serve per l'invocazione, il chiamare e si trova al di fuori del contesto con il resto della frase, differenziandosi quindi dagli altri casi che esprimono una relazione rispetto al verbo o a un altro sostantivo.**
 
 **Solitamente il vocativo viene posto all'inizio della frase:**
@@ -193,7 +193,7 @@ I grammatici indigeni non considerano il vocativo (⟪आमन्त्रि�
 ::: indent
 ⟪बाल किं वदसि⟫ = "Figlio, cosa dici?"
 :::
-::: important
+::: warning-box
 **Evitare la traduzione del vocativo con "**O** ...". In tedesco usiamo costantemente i vocativi, ad esempio quando diciamo: "Tesoro, cosa cuciniamo oggi?". Nessuno direbbe in questo senso: "**O** tesoro, cosa cuciniamo oggi?"**
 :::
 ::: media

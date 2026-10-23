@@ -2,7 +2,7 @@
 title: "Exercise 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Ignorance means regarding the impermanent, impure, painful, and non-absolute as 
 
 Beings must tremble before a too harsh regime (daṇḍa). A lax regime is despised. A precisely correct regime is revered. A wisely conducted regime promotes righteousness, profit, and pleasure among the subjects. A poorly conducted regime due to pleasure or hatred or contempt angers even old men retired to the forest and wandering ascetics, let alone householders. Unexercised regime results in behavior like that of fish (mātsyanayāya). For if there is no one to uphold the regime, the stronger devours the weaker. If the weak are protected by the holder of the regime, they flourish.
 
-> The world with its four varṇas and āśramas  
-> Is protected by the king through governance:  
-> Rejoicing in activity according to its own dharma and custom,  
-> It moves along its own paths.
+::: indent
+The world with its four varṇas and āśramas
+Is protected by the king through governance:
+Rejoicing in activity according to its own dharma and custom,
+It moves along its own paths.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

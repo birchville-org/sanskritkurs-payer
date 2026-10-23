@@ -2,7 +2,7 @@
 title: "Lekcija 23"
 subtitle: "Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Ako se u sanskrtu želi izraziti da se neka radnja obavlja radi druge radnje ("kako bi"), za radnju zbog koje se nešto čini može se koristiti infinitiv (⟪तुमुन्⟩). Infinitiv prvenstveno označava svrhu ili namjeru:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma je otišao kako bi čuo govor učitelja."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma je otišao kako bi čuo govor učitelja."
 
 **Imajte na umu da infinitiv – uz nekoliko strogo definiranih iznimaka – ne može stajati kao subjekt ili objekt glagola:**
 
-> "Uči plesati" se stoga ne smije prevoditi s infinitivom ("plesati"), već treba koristiti verbalnu imenicu, npr.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "učiti").
+"Uči plesati" se stoga ne smije prevoditi s infinitivom ("plesati"), već treba koristiti verbalnu imenicu, npr.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "učiti").
 
 **Infinitiv se također koristi s glagolima i imenicama u značenju "željeti" ili "želeti", kada su agens (⟪कर्तृ⟫) infinitiva i glagola identični:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma želi čuti govor učitelja."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma želi čuti govor učitelja."
 
 **Infinitiv se, među ostalim, koristi i s glagolima u značenjima "mogući biti", "postojati", "znati", "početi":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Svetac ne može učiniti zlo."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Postoji hrane za jesti" (⟪भुज्⟫ 7: Ā: jesti, P: vladati)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Svetac ne može učiniti zlo."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Postoji hrane za jesti" (⟪भुज्⟫ 7: Ā: jesti, P: vladati)
 
 **Infinitiv se također koristi s riječima u značenjima "dovoljno", "moguć" i s imenicama u značenjima "sposobnost", "moć", "vještina":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vatra ima moć spaliti sve."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vatra ima moć spaliti sve."
 
 **The infinitive can also be used with words meaning "time" in expressions like "It is time to ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
+⟪कालो भोजनं सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
 
 **The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, to can") from which the infinitive depends into the passive voice.**
 
@@ -44,13 +44,13 @@ status: stable
 
 e.g.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "A holy person cannot do wrong."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "A holy person cannot do wrong."
 
 **In the 2nd person, ⟪अर्ह्⟩ + infinitive is often used as a mild command: "You should."**
 
 **When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis whose second member is ⟪काम⟩ or ⟪मनस्⟩:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "one whose wish it is to speak; one who wishes to speak".
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "one whose wish it is to speak; one who wishes to speak".
 :::
 ## 23.2. Formation of the Infinitive (⟪तुमुन्⟩)
 

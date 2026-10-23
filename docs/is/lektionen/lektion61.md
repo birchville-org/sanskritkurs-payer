@@ -992,7 +992,7 @@ Mynd: Laglínan, miðuð við c, má færast eftir raddsviði.
 
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ er í upphafi kennslu í kannada tónlist. Sjá myndbandið: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Skoðað 2009-03-05
 
-::: center
+::: verse-box
 
 This is wished for you by your Alois Payer
 

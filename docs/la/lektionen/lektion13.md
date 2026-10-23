@@ -2,7 +2,7 @@
 title: "Lectio 13"
 subtitle: "PPP in -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -158,17 +158,19 @@ Haec verba discite:
 **eva** ⟪एव⟫ : verbum praecedens emphaticum reddit
 **asura** m. ⟪असुर⟫ : daemon
 
-> **ASURA.** 'Spiritualis, divinus.'
-\>
-> In antiquissimis Ṛgvedae partibus hoc nomen pro supremo spiritu adhibetur, idemque est ac Ahura apud Zoroastrianos. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni et Varuṇa. Postea omnino contrarium sensum adeptum est, daemonem vel hostem deorum significans, ut nunc fit.
-\>
-> Hoc vocabulo in posterioribus Ṛgvedae partibus, praesertim in libro ultimo, etiam in Atharvaveda invenitur. Brāhmaṇae eundem sensum ei adtribuunt, multasque pugnas inter Asuras et deos narrat. Secundum Taittirīya Brāhmaṇa, spiritus *(asu)* Prajāpatis animatus est, et "illo spiritu me Asuras creavi." In alia parte eiusdem operis dicitur Prajāpatem "concipere. Asuras ex abdomine suo creavit." Śatapatha Brāhmaṇa priori sententiae consentit, et statuit "Asuras ex inferiore spiritu suo creavit." Taittirīya Āraṇyaka repraesentat Prajāpatem deos, homines, patres, Gandharvas et Apsarases ex aqua creavisse, Asuras vero, Rakṣasas et piśācas ex guttis quae effusae sunt ortos esse. Manu affirmat eos a Prajāpatibus creatos fuisse.
-\>
-> Secundum Viṣṇu Purāṇa, ex inguinibus Brahmae (prajāpatis) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex inguine eius (Prajāpatis) procreati sunt. *Asu* a Brāhmaṇis spiritum significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae vocantur." Nomen diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae progenies includens, sed Rakṣasas a Pulastyā descendentes non includens.
-\>
-> In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus;' unde, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
-\>
-> [Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spiritualis, divinus.'
+
+In antiquissimis Ṛgvedae partibus hoc nomen pro supremo spiritu adhibetur, idemque est ac Ahura apud Zoroastrianos. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni et Varuṇa. Postea omnino contrarium sensum adeptum est, daemonem vel hostem deorum significans, ut nunc fit.
+
+Hoc vocabulo in posterioribus Ṛgvedae partibus, praesertim in libro ultimo, etiam in Atharvaveda invenitur. Brāhmaṇae eundem sensum ei adtribuunt, multasque pugnas inter Asuras et deos narrat. Secundum Taittirīya Brāhmaṇa, spiritus *(asu)* Prajāpatis animatus est, et "illo spiritu me Asuras creavi." In alia parte eiusdem operis dicitur Prajāpatem "concipere. Asuras ex abdomine suo creavit." Śatapatha Brāhmaṇa priori sententiae consentit, et statuit "Asuras ex inferiore spiritu suo creavit." Taittirīya Āraṇyaka repraesentat Prajāpatem deos, homines, patres, Gandharvas et Apsarases ex aqua creavisse, Asuras vero, Rakṣasas et piśācas ex guttis quae effusae sunt ortos esse. Manu affirmat eos a Prajāpatibus creatos fuisse.
+
+Secundum Viṣṇu Purāṇa, ex inguinibus Brahmae (prajāpatis) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex inguine eius (Prajāpatis) procreati sunt. *Asu* a Brāhmaṇis spiritum significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae vocantur." Nomen diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae progenies includens, sed Rakṣasas a Pulastyā descendentes non includens.
+
+In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus;' unde, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
+
+[Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

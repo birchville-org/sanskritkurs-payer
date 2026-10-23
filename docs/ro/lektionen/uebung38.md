@@ -2,7 +2,7 @@
 title: "Exercițiul 38"
 uebung_id: 38
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -56,11 +56,11 @@ Regii buni oferă oamenilor lipsa de frică.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Dacă regii nu păstrează dreptatea și uzanțele, oamenii sunt plini de frică.
-:::: media
+:::
+::: media
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung063))
-::::
 :::
 ---
 

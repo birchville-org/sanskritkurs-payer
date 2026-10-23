@@ -2,7 +2,7 @@
 title: "अभ्यास ८"
 uebung_id: 8
 category: "अभ्यास"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

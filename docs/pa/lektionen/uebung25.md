@@ -2,7 +2,7 @@
 title: "ਅਭਿਆਸ ੨੫"
 uebung_id: 25
 category: "ਅਭਿਆਸ"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "درس ۲۹"
 subtitle: "کاربرد پاراسمپادا (⟪परस्मैपद⟫) و آتمنپادا (⟪आत्मनेपद⟫) در کائساتیvom"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

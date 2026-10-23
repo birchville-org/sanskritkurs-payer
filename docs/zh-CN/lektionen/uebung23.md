@@ -2,7 +2,7 @@
 title: "练习 23"
 uebung_id: 23
 category: "练习"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -212,11 +212,11 @@ C) 请给出以下动词的词干形式（含义、现在时类、语态、第�
 | 绝对分词 1 | ⟪हत्वा⟩ |
 | 绝对分词 2 | -⟪हत्य⟩ |
 | 不定式 | ⟪हन्तुम्⟩ |
-:::: media
+:::
+::: media
 ![](/images/uebung036.webp)
 图注：⟪बालाः⟩ ⟪पिबन्ति⟩
 (图片来源：[详情](/licenses#uebung036))
 
-::::
 :::
 

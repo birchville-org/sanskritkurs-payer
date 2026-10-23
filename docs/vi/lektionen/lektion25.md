@@ -2,7 +2,7 @@
 title: "Bài 25"
 subtitle: 'Hình thành cách Abalatīv (⟪पञ्चमी⟫ = \"tận cùng cách thứ năm\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

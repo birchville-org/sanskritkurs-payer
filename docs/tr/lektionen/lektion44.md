@@ -2,7 +2,7 @@
 title: "Ders 44"
 subtitle: "İkinci kişi fiil formlarının oluşumu (⟪मध्यमः⟫) ünlü ile biten soneçli, solunumsuz köklerde"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -184,7 +184,7 @@ Ayrıca, aşağıdaki kelime sandhi kuralları da uygulanır.
 
 Yerli gramerciler Vokatifi (⟪आमन्त्रितम्⟫) bağımsız bir hal olarak değil, yalnızca Yalın hâlin (⟪प्रथमा⟫) bir değişimi olarak görürler.
 
-::: important
+::: warning-box
 **Vokatif, hitap etme ve seslenmeyi ifade eder; cümlenin geri kalanıyla olan bağlamın dışında yer alır, dolayısıyla bir fiille veya başka bir isimle ilişki kuran diğer hallerden farklıdır.**
 
 **Vokatif genellikle cümlenin başına getirilir:**
@@ -193,7 +193,7 @@ Yerli gramerciler Vokatifi (⟪आमन्त्रितम्⟫) bağımsız
 ::: indent
 ⟪बाल किं वदसि⟫ = "Çocuk, ne diyorsun?"
 :::
-::: important
+::: warning-box
 **Vokatifin çevirisinde "**Ey** ..." kalıbından kaçının. Almancada örneğin "Canım, bugün ne pişirelim?" derken sürekli Vokatif kullanırız. Kimse bu anlamda "**Ey** canım, bugün ne pişirelim?" demez.**
 :::
 ::: media

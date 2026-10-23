@@ -2,7 +2,7 @@
 title: "Lekce 25"
 subtitle: 'Vznik ablativu (⟪पञ्चमी⟫ = \"pátý pádový koncovka\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -24,7 +24,9 @@ Nyní rozpoznáte důvod pro pořadí pádů (⟪विभक्ति⟫) v san
 
 **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
-> Otázka, vztažná a ukazovací zájmena:
+::: indent
+Otázka, vztažná a ukazovací zájmena:
+:::
 
 ::: grammar-box
 

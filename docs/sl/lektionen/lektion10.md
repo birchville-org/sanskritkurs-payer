@@ -2,7 +2,7 @@
 title: "Urok 10"
 subtitle: "Pasivni stavk (instrumental agensa)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -13,15 +13,14 @@ status: stable
 ## 10.1. Pasivna stavka
 
 ::: grammar-box
-
 **Shema:**
 **(Agens - kartṛ - v instrumentalnem primeru (tṛtīyā)) - (neposredni predmet - karman - v nominativu) - pasivna oblika glagola**
+:::
 
+::: indent
 npr. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahman časti boga z daritvijo" (doslovno: "Boga časti brahman z daritvijo.")
-
 Ta stavka je **popolnoma (!) enakovredna** po pomenu stavek:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
-
 :::
 
 ::: grammar-box
@@ -52,7 +51,7 @@ alternativno: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम�
 
 Sanskrtne trpne konstrukcije so izjemno pogoste: trpnik je namreč tudi lažje tvorljiv kot npr. številni sedanjiki.
 
-::: important
+::: warning-box
 
 **Sanskrtnih trpnih stavkov se v nemščini na splošno ne sme prevajati s trpnim stavkom, saj ima nemški trpnik povsem drugačno stilistično funkcijo.**
 
@@ -271,9 +270,6 @@ npr. **tan** 8 U.
 
 V Indiji so pravemu besednemu izrazu pripisovali čarobno moč, celo vesoljni red je ohranjen in ustvarjen z resničnim besednim izrazom. Za to pomembno predstavo glej temeljno delo:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Herausgegeben aus dem Nachlass von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 
@@ -305,7 +301,6 @@ Abb.: ⟪वरुणः⟫
   Imena teh **ṛṣi**jev so omenjena v Brāhmaṇah in v posebnih seznamih Ved. Vsi brahmani izvirajo iz takšnih **ṛṣi**jev, po katerih so poimenovane njihove **gotra** (⟪गोत्र⟫). Za pojem **gotra** glej Basham, *Wonder*, pogl. 5.
   :::
 
-:::
 ::: media
 
 ![](/images/lekt1002.jpg)
@@ -426,7 +421,7 @@ Slika: ⟪तन्तुवायः⟫
 
 ⟪क १⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
@@ -451,7 +446,7 @@ Slika: ⟪तन्तुवायः⟫
 
 ⟪क १⟫.
 
-::: center
+::: verse-box
 
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||

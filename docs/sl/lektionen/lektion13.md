@@ -2,7 +2,7 @@
 title: "Ura 13"
 subtitle: "PPP na -na-"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Naučite se naslednjih besed:
 **eva** ⟪एव⟫ : poudarja predhodno besedo
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Duševno, božansko.'
-\>
-> V najstarejših delih Ṛgvede se ta izraz uporablja za vrhovnega duha in je enak Ahuri zoroastrcev. V pomenu 'bog' se je uporabljal za več glavnih božanstev, kot so Indra, Agni in Varuṇa. Kasneje je pridobil popolnoma nasproten pomen in začel označevati, kot danes, demona ali sovražnika bogov.
-\>
-> Ta beseda se pojavi s tem pomenom v poznejših delih Ṛgvede, zlasti v zadnji knjigi, ter tudi v Atharvavedi. Brāhmaṇe ji pripisujejo enak pomen in poročajo o mnogih spopadih med Asurami in bogovi. Po Taittirīya Brāhmaṇi je dih *(asu)* Prajapatija oživel in "s tem dihom sem ustvaril Asure." V drugem delu istega dela je zapisano, da se je Prajāpati "zanosil. Ustvaril je Asure iz svojega trebuha." Śatapatha Brāhmaṇa se strinja s prvo izjavo in navaja, da "je ustvaril Asure iz svojega spodnjega diha." Taittirīya Āraṇyaka predstavlja, da je Prajāpati ustvaril bogove, ljudi, očete, Gandharve in Apsarase iz vode ter da so Asure, Rakṣase in piśāce nastali iz kapljic, ki so se razlile. Manu trdi, da so jih ustvarili Prajāpatiji.
-\>
-> Po Viṣṇu Purāṇi so bili ustvarjeni iz Brahamovega dimlja (prajāpati). Opis v Vāyu Purāṇi pravi: "Asure so bili najprej ustvarjeni kot sinovi iz njegovega (Prajāpatija) dimlja. *Asu* Brāhmaṇa razlaga kot dih. Iz njega so bili ti bitji ustvarjeni; zato so Asure." Beseda se že dolgo uporablja kot splošno ime za sovražnike bogov, vključno z Daityami in Danavami ter drugimi potomci Kaśyape, vendar ne vključuje Rakṣasov, ki so potomci Pulastyje.
-\>
-> V tem smislu je zanje najden drugačen izvor: vir ni več asu, 'dih', ampak se začetni *a* obravnava kot negativna predpona, in asura pomeni 'ni bog;' zato se je po nekaterih pojavila beseda *sura*, ki se običajno uporablja za 'boga'."
-\>
-> [Vir: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duševno, božansko.'
+
+V najstarejših delih Ṛgvede se ta izraz uporablja za vrhovnega duha in je enak Ahuri zoroastrcev. V pomenu 'bog' se je uporabljal za več glavnih božanstev, kot so Indra, Agni in Varuṇa. Kasneje je pridobil popolnoma nasproten pomen in začel označevati, kot danes, demona ali sovražnika bogov.
+
+Ta beseda se pojavi s tem pomenom v poznejših delih Ṛgvede, zlasti v zadnji knjigi, ter tudi v Atharvavedi. Brāhmaṇe ji pripisujejo enak pomen in poročajo o mnogih spopadih med Asurami in bogovi. Po Taittirīya Brāhmaṇi je dih *(asu)* Prajapatija oživel in "s tem dihom sem ustvaril Asure." V drugem delu istega dela je zapisano, da se je Prajāpati "zanosil. Ustvaril je Asure iz svojega trebuha." Śatapatha Brāhmaṇa se strinja s prvo izjavo in navaja, da "je ustvaril Asure iz svojega spodnjega diha." Taittirīya Āraṇyaka predstavlja, da je Prajāpati ustvaril bogove, ljudi, očete, Gandharve in Apsarase iz vode ter da so Asure, Rakṣase in piśāce nastali iz kapljic, ki so se razlile. Manu trdi, da so jih ustvarili Prajāpatiji.
+
+Po Viṣṇu Purāṇi so bili ustvarjeni iz Brahamovega dimlja (prajāpati). Opis v Vāyu Purāṇi pravi: "Asure so bili najprej ustvarjeni kot sinovi iz njegovega (Prajāpatija) dimlja. *Asu* Brāhmaṇa razlaga kot dih. Iz njega so bili ti bitji ustvarjeni; zato so Asure." Beseda se že dolgo uporablja kot splošno ime za sovražnike bogov, vključno z Daityami in Danavami ter drugimi potomci Kaśyape, vendar ne vključuje Rakṣasov, ki so potomci Pulastyje.
+
+V tem smislu je zanje najden drugačen izvor: vir ni več asu, 'dih', ampak se začetni *a* obravnava kot negativna predpona, in asura pomeni 'ni bog;' zato se je po nekaterih pojavila beseda *sura*, ki se običajno uporablja za 'boga'."
+
+[Vir: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

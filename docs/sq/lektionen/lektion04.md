@@ -2,7 +2,7 @@
 title: "Mësimi 4"
 subtitle: "Pronomatet pyetëse dhe demonstrative në nominativ"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Me anë të këtyre përemrave formohen, për shembull, formulat vijuese pyetës
 :::
 Një shembull i pyetjeve të tjera:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Përgjigje: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Në një fjali nominale, subjekti mund të vendoset në fillim për të theksuar lidhjen me pyetjen.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Përgjigje: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Në një fjali nominale, subjekti mund të vendoset në fillim për të theksuar lidhjen me pyetjen.)
+:::
 
 SHËNIM: Përgjigjet që mund të jepni për këto pyetje me njohuritë tuaja aktuale sanskrite, natyrisht se nuk janë ende në çdo aspekt stilisht të përsosura sanskrit.
 

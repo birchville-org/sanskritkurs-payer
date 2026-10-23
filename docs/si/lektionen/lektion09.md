@@ -3,8 +3,8 @@ title: "පාඩම 9"
 subtitle: "සමහාරද්වන්ද්ව & නාමපරිච්ඡේද -ක/-අක"
 lesson_id: 9
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

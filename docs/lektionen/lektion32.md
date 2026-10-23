@@ -70,7 +70,7 @@ Beispiele:
 :::
 ## 32.4. Beispiele für die Imperfektbildung
 
-::: important
+::: warning-box
 **Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
 :::
 ### 32.4.1. Thematische Präsensklassen
@@ -603,7 +603,7 @@ Indian greeting / farewell.
 
 ## 32.9. Übersetzungsübung
 
-::: compact
+::: verse-box
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br

@@ -651,7 +651,9 @@ lesson_id: 53
 
 另见：
 
-> **Payer, Alois (1944–):** 梵语文本诠释学导论：讲义。 -- 第8章：实质性的文本诠释，第二部分：关于同步理解的具体问题。 -- 附录B：梵语文本的韵律学。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** 梵语文本诠释学导论：讲义。 -- 第8章：实质性的文本诠释，第二部分：关于同步理解的具体问题。 -- 附录B：梵语文本的韵律学。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. 韵律确定的意义
 
@@ -751,13 +753,13 @@ lesson_id: 53
 
 ⟪लघु⟫ 和 ⟪गुरु⟫ 的分布：
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -797,7 +799,7 @@ lesson_id: 53
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -805,7 +807,7 @@ lesson_id: 53
 
 **b = d：**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -817,7 +819,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -825,7 +827,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -833,7 +835,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -841,7 +843,7 @@ lesson_id: 53
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -856,7 +858,7 @@ lesson_id: 53
 
 :::
 
-::: center
+::: verse-box
 
 圆满终结于 1984-02-15
 电子版成功完成于 2009-01-19

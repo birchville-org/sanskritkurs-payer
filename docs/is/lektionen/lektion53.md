@@ -662,7 +662,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 
 See also:
 
-> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Significance of Determining the Meter
 
@@ -756,13 +758,13 @@ Example: ⟪भगवद्गीता १⟫,⟪१⟫:
 
 Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -799,7 +801,7 @@ The most important verse meter in the epics (⟪महाभारत⟫, ⟪र
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -807,7 +809,7 @@ The most important verse meter in the epics (⟪महाभारत⟫, ⟪र
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -819,7 +821,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -827,7 +829,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -835,7 +837,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -843,7 +845,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -858,7 +860,7 @@ The second and third syllable of a ⟪पाद⟫ should not simultaneously be 
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

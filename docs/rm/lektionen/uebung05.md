@@ -2,7 +2,7 @@
 title: "Exercizi 5"
 uebung_id: 5
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Ejercicio 18"
 uebung_id: 18
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -145,5 +145,4 @@ El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su dest
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung028))
-::: \<!--  --\>
 :::

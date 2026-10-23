@@ -2,7 +2,7 @@
 title: "Lekcja 39"
 subtitle: 'Końcówki osobowe pierwszej osoby (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**trzecia** osoba\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

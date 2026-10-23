@@ -1,3 +1,4 @@
+
 # Tabula Contentorum
 
 ## [Lectio 1](lektion01)
@@ -5,7 +6,7 @@
 *   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Veneratio Gaṇeśae
 *   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Incipit felix"
 *   1\. Litteratura principiantibus in Indologia
-*   2\. Soni Sanscritici secundum classificationem Indianam传统 et eorum transliteratio scientifica
+*   2\. Soni Sanscritici secundum classificationem Indianam traditionalem et eorum transliteratio scientifica
 *   2.1. De pronuntiatione singularum sonorum
 *   3\. Exercitatio
 

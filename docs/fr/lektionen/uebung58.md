@@ -2,7 +2,7 @@
 title: "Exercice 58"
 uebung_id: 58
 category: "Exercice"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Урок 49"
 subtitle: "Образуване на императива (⟪लोट्⟫) при тематичните настоящими корени (продължение)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

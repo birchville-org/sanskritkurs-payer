@@ -2,7 +2,7 @@
 title: "Lesing 3"
 subtitle: "Die nominatief enkelvoud van die vroulike geslag"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ Die nominatief enkelvoud word sonder 'n uitgang gevorm:
 
 :::
 
-::: important
+::: warning-box
 
 **Let op!** Daarbenewens is daar eensillabige vroulike wortelnomina op -ī, waarvan die nominatief enkelvoud op -s eindig: bv. dhī f. "gedagte" -- Nom. sg.: dhīs = ⟪धीस्⟫. Ook lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boot" en tantrī (⟪तन्त्री⟫) f. "snaar" vorm onreëlmatig die nominatief enkelvoud op -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -87,11 +87,15 @@ bv.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is 'n godheid" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā is die godin van voedsel en van kookkuns, sy word beskou as 'n verpersoonliking van Pārvatī, die gade van Śiva.)
+::: indent
+(Annapūrṇā is die godin van voedsel en van kookkuns, sy word beskou as 'n verpersoonliking van Pārvatī, die gade van Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī is 'n godin" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī is die gade van die god Indra.)
+::: indent
+(Indrāṇī is die gade van die god Indra.)
+:::
 
 ::: media
 
@@ -116,7 +120,9 @@ bv.
 
 devī + umā » devy umā "Umā is 'n / die godin" = ⟪देव्युमा⟫
 
-> (Umā is 'n naam vir Pārvatī, die gade van Śiva)
+::: indent
+(Umā is 'n naam vir Pārvatī, die gade van Śiva)
+:::
 
 ::: grammar-box
 

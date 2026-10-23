@@ -3,15 +3,15 @@ title: "Pelajaran 1"
 subtitle: "Bunyi-bunyi dalam Bahasa Sanskerta"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Pelajaran 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Pujian kepada Gaṇeśa
@@ -23,7 +23,7 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Sumber gambar: [Details](/id/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Wahai Tuhan, buatlah semua usahaku
 Bebas dari hambatan!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Awal yang Membawa Keberuntungan"
@@ -52,7 +52,7 @@ Fig. 1.1: Ardhanarīśvara
 (Sumber gambar: [Details](/id/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Makna dari sebuah kalimat.
 Di awal, sebuah keanehan:
 
 
->"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskerta secara mendalam, sebagian menerjemahkannya dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat disesuaikan dengan pandangan lama, yang baik menurunkan semua bahasa dari Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar yang paling sederhana dengan menyatakan seluruh sejarah bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya merupakan pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
->
-::: literatur-box
+::: note-box
+"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskerta secara mendalam, sebagian menerjemahkannya dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat disesuaikan dengan pandangan lama, yang baik menurunkan semua bahasa dari Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar yang paling sederhana dengan menyatakan seluruh sejarah bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya merupakan pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
+
 [Sumber: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
 :::
 
@@ -89,7 +89,9 @@ Ilm.: Sampul judul edisi buku saku
 (Sumber gambar: [Details](/id/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk juga edisi buku saku. -- **Wajib baca.** Gambaran umum yang baik tentang kehidupan, sejarah dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk juga edisi buku saku. -- **Wajib baca.** Gambaran umum yang baik tentang kehidupan, sejarah dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Ilm.: Halaman judul
 
 Tata bahasa sistematis terbaik:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 hlm. -- Judul asli: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Ilm.: Sampul belakang
 
 Tata bahasa sistematis yang baik berdasarkan pada para grammatikus pribumi dan sekaligus pengantar ke Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Awalnya ditulis dalam bahasa Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Awalnya ditulis dalam bahasa Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Gbr.: Sampul judul
 
 Sebuah paparan yang baik dan ringkas mengenai terminologi linguistik Eropa dapat ditemukan dalam:
 
-::: literatur-box
+::: note-box
 **Kamus Etimologi Bahasa Jerman** / [Friedrich] Kluge (1856–1926). Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah direvisi dan diperluas. -- Berlin [dlsb.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Jilid tipis. -- Hlm. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Gbr.: Sampul belakang judul
 
 Untuk para pembaca yang ingin tahu sebagai referensi:
 
-> **Ensiklopedia Linguistik** / disunting oleh Hadumod Bussmann. -- Edisi ke-4, yang telah direvisi dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 hlm. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Ensiklopedia Linguistik** / disunting oleh Hadumod Bussmann. -- Edisi ke-4, yang telah direvisi dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 hlm. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Bunyi-bunyi Sanskerta
@@ -146,7 +152,7 @@ Bunyi-bunyi Sanskerta menurut klasifikasi India tradisional dan transliterasi il
 :::
 Kamus Sanskerta modern disusun sesuai urutan klasifikasi ini. Klasifikasi ini sangat penting untuk memahami tata bahasa Sanskerta dan karenanya harus dihafal:
 
-::: note-box
+::: grammar-box
 Klasifikasi
 **vokal sederhana** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klasifikasi
 :::
 ### 1.2.1. Tentang Pengucapan Bunyi-bunyi Tertentu
 
-::: laut-table
 | Bunyi | Deskripsi |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "a pendek" sering diucapkan oleh orang India -- sudah sejak zaman kuno -- seperti ə. Di Eropa, bunyi ini diucapkan sebagai a pendek; di Bengali sebagai o gelap pendek. |
@@ -176,7 +181,6 @@ Klasifikasi
 | **h - ⟪ह्⟫** | bunyi aspirasi, bukan tanda pemanjangan. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Bunyi aspirasi tak bersuara dengan gema dari vokal sebelumnya atau bagian kedua dari diftong yang mendahuluinya: agniḥ -- ⟪अग्निः⟫ = agnihī, devaiḥ -- ⟪देवैः⟫ = devaihī, gauḥ -- ⟪गौः⟫ = gauhū |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Sebelum bunyi sibilan, h, l: nasalisasi vokal. Di akhir suku kata = m. Di tengah kalimat sebelum konsonan: nasal yang sesuai dengan konsonan berikutnya: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Pengucapan terbaik dicapai ketika Anda membaca kalimat, bait, atau kata-kata agak lambat dan monoton dengan memperhatikan panjang vokal secara akurat.
 
 

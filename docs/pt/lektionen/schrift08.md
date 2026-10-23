@@ -1,3 +1,4 @@
+
 # Exercício de escrita 8
 
 Sinais vocálicos para o início da palavra, caso a palavra não esteja escrita ligada a uma palavra anterior:

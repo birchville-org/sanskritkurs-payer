@@ -2,7 +2,7 @@
 title: "שיעור 17"
 subtitle: "הכיתה השנייה של הנוכחי (⟪अदादि⟫ = ⟪अद्⟫ וכו')"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

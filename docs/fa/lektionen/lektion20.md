@@ -2,7 +2,7 @@
 title: "درس بیستم"
 subtitle: "ترکیب‌های مالکیتی = ⟪बहुव्रीहि⟫ مذکر"
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

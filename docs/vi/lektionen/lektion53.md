@@ -493,7 +493,9 @@ Hình: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 :::
 Xem thêm:
 
-> **Payer, Alois (1944–):** Giới thiệu về việc chú giải văn bản Sanskrit : Giáo trình. -- Chương 8: Việc chú giải thực sự, Phần II: Về các vấn đề cụ thể của việc hiểu biết đồng đại. -- Phụ lục B: Về luật bằng trắc của văn bản Sanskrit. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Giới thiệu về việc chú giải văn bản Sanskrit : Giáo trình. -- Chương 8: Việc chú giải thực sự, Phần II: Về các vấn đề cụ thể của việc hiểu biết đồng đại. -- Phụ lục B: Về luật bằng trắc của văn bản Sanskrit. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Ý nghĩa của việc xác định luật bằng trắc
 
@@ -570,10 +572,10 @@ Ví dụ: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Sự phân bố của ⟪लघु⟫ và ⟪गुरु⟫ :
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Câu thơ sử thi Śloka (⟪श्लोक⟫ giống đực)
@@ -599,11 +601,11 @@ Thể thơ quan trọng nhất trong các sử thi (⟪महाभारत⟫,
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Âm tiết thứ hai và thứ ba của một ⟪पाद⟫ không nên đồng thời là ⟪लघु⟫. Trong b và d, âm tiết 2 - 4 không được là ¯ ˘ ¯.
@@ -611,19 +613,19 @@ Thể thơ quan trọng nhất trong các sử thi (⟪महाभारत⟫,
 **Mẫu phụ (⟪विपुला⟩) cho a và c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **Trong tất cả các dạng śloka, đoạn ngắt chính nằm ở cuối dòng thứ hai ⟪पाद⟫ : đó là điểm kết thúc của từ hoặc — đối với các hợp danh dài — kết thúc của một thành phần cấu tạo.**
@@ -632,7 +634,7 @@ Thể thơ quan trọng nhất trong các sử thi (⟪महाभारत⟫,
 ::: grammar-box
 **Xác định các śloka trong tất cả các bài thơ đã học từ trước. Hãy viết ra sơ đồ nhịp điệu cho những bài đó. Chỉ ra các bất thường hoặc dạng Vipulā nếu có.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer

@@ -2,7 +2,7 @@
 title: Lektion 10
 subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -14,9 +14,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agens - kartṛ - im Instrumentalis (tṛtīyā)) - (direktes Objekt - karman - im Nominativ) - passive Verbalform**
+:::
 
+::: indent
 z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Ein Brahmane verehrt einen Gott mit einem Opfer" (wörtlich: "Ein Gott wird von einem Brahmanen mit einem Opfer verehrt.")
-
 Dieser Satz ist **völlig (!) bedeutungsgleich** mit dem Satz:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
 :::
@@ -42,7 +43,7 @@ Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रा�
 :::
 Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
 
-::: important
+::: warning-box
 **Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.**
 :::
 
@@ -233,8 +234,6 @@ z.B.
 ::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
@@ -370,7 +369,7 @@ Abb.: ⟪तन्तुवायः⟫
 ⟪क⟫
 
 ⟪१⟫.
-::: center
+::: verse-box
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫

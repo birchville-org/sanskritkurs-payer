@@ -2,7 +2,7 @@
 title: "[Harjoitus 29]"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -29,10 +29,12 @@ Tuntemattomuus tarkoittaa, että pysymätöntä, ep puhdasta, kärsimyksellistä
 
 Liian ankaran hallinnon (daṇḍa) edellä olentojen on pakko vapista. Huolimaton hallinto on halveksittua. Juuri oikea hallinto on kunnioitettua. Viisaasti johdettu hallinnon edistää alamaisissa oikeutta, hyötyä ja iloa. Hallinto, joka on huonosti johdettu rakkauden tai vihan tai halveksunnan vuoksi, vihastuttaa jopa metsään vetäytyneitä vanhuksia ja vaeltavia asketeja, sitäkin enemmän kotiväkeä. Harjoittamaton hallinto aiheuttaa kaltaista käyttäytymistä (mātsyanayāya). Jos ei ole ketään, joka ylläpitää hallintoa, vahvempi nielaisee heikomman. Jos heikko on suojassa hallitsijan toimesta, hän menestyy.
 
-> Maailma sen neljässä asteessa ja elämänvaiheissa
-> On kuninkaan suojassa hallinnon kautta:
-> Iloinen omasta toiminnastaan oman oikeutensa ja oman tapansa mukaan
-> Liikkuu omilla radoillaan.
+::: indent
+Maailma sen neljässä asteessa ja elämänvaiheissa
+On kuninkaan suojassa hallinnon kautta:
+Iloinen omasta toiminnastaan oman oikeutensa ja oman tapansa mukaan
+Liikkuu omilla radoillaan.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

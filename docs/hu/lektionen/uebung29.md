@@ -2,7 +2,7 @@
 title: "[Gyakorlat 29]"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -29,10 +29,12 @@ A tudatlanság azt jelenti, hogy az állandótlanat, a tisztátalant, a szenved�
 
 A túlságosan szigorú kormányzás (daṇḍa) előtt a lényeknek remegniük kell. A laza kormányzást megvetik. A pontosan helyes kormányzást tisztelik. Az okosan irányított kormányzás igazságot, hasznot és örömöt biztosít a alattvalók számára. Az örömtől vagy gyűlölettől, illetve megvetéstől rosszul irányított kormányzás még a erdőbe visszavonult öregeket és vándorósvégzőköt is dühíti, nemhogy a háztartás urait. A gyakorlatlan kormányzás olyan viselkedést eredményez, mint a halaké (mātsyanayāya). Ha nincs senki, aki fenntartaná a kormányzást, az erősebb elnyeli a gyengébbet. Ha a gyenge kormányzótól védve van, akkor virágzik.
 
-> A világ négy rendjével és életfokozatával  
-> A király kormányzással védi:  
-> Örülve a saját jog és szokás szerinti tevékenységnek  
-> Saját pályáin halad.
+::: indent
+A világ négy rendjével és életfokozatával
+A király kormányzással védi:
+Örülve a saját jog és szokás szerinti tevékenységnek
+Saját pályáin halad.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

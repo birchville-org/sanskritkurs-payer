@@ -989,7 +989,7 @@ Pav.: Melody, referenced to c, can be transposed depending on vocal range.
 
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05
 
-::: center
+::: verse-box
 
 Jūsų linki Alois Payer
 

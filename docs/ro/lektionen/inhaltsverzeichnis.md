@@ -1,3 +1,4 @@
+
 # Cuprins
 
 ## [Lecție 1](lektion01)
@@ -712,7 +713,7 @@ Proverbul săptămânii
 *   4\. Dualul rădăcinilor care se termină în vocală
 *   5\. Dualdvandva
 *   6\. Dualul pronumelor
-*   7\. Adjective pronominalе
+*   7\. Adjective pronominale
 *   8\. Comparare neregulată
 *   9\. Declinarea comparativelor în -īyas
 *   10\. Metrică (teoria măsurilor versurilor)

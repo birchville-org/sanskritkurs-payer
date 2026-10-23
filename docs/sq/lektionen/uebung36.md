@@ -2,7 +2,7 @@
 title: "Ushtrimi 36"
 uebung_id: 36
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -101,7 +101,9 @@ Fig.: ⟪भुक्त्वा घ्रात्वा च न हृष्�
 
 ## Përcaktimi i formave të fjalëve
 
-> Përcaktoni dhe përktheni format e mëposhtme të fjalëve:
+::: indent
+Përcaktoni dhe përktheni format e mëposhtme të fjalëve:
+:::
 
 ::: grammar-box
 | Forma e fjalës | Përcaktimi | Kuptimi |

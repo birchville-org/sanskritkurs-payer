@@ -2,7 +2,7 @@
 title: "Mësimi 11"
 subtitle: "Akuzativ i dyfishtë (Akuza e personit dhe e gjërës)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

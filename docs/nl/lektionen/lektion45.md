@@ -2,7 +2,7 @@
 title: "Les 45"
 subtitle: "Vorming van de vervoegingsvormen voor de tweede persoon (⟪मध्यमः⟫) athematische stammen zonder vocaal eindigend suffix (vervolg)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

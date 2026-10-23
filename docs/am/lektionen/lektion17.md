@@ -2,7 +2,7 @@
 title: "ትምህርት 17"
 subtitle: "ሁለተኛው የፕሬዝንት ክፍል (⟪अदादि⟫ = ⟪अद्⟫ ወዘተ)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: Lektion 45
 subtitle: "Furmaziun da las formas verbalas da la 2. persuna (⟪मध्यमः⟫) da stems atematics senza sufix vocalic (continuaziun)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

@@ -2,7 +2,7 @@
 title: "Leçon 23"
 subtitle: "L'infinitif (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Si l'on souhaite exprimer en sanskrit qu'une action se produit en vue d'une autre action (« afin de »), on peut utiliser l'infinitif (⟪तुमुन्⟫) pour l'action en vue de laquelle elle se produit. L'infinitif désigne avant tout le but ou l'intention :**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = « Rāma est parti pour écouter le discours du maître. »
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = « Rāma est parti pour écouter le discours du maître. »
 
 **Notez que l'infinitif – à l'exception de quelques exceptions bien définies – ne peut pas fonctionner comme sujet ou objet d'un verbe :**
 
-> On ne doit donc pas traduire « Il apprend à danser » par l'infinitif (« danser »), mais utiliser un nom verbal, par exemple : ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā : « apprendre »).
+On ne doit donc pas traduire « Il apprend à danser » par l'infinitif (« danser »), mais utiliser un nom verbal, par exemple : ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā : « apprendre »).
 
 **L'infinitif est également utilisé avec des verbes et des substantifs signifiant « souhaiter » ou « désirer », lorsque l'agent (⟪कर्तृ⟫) de l'infinitif et du verbe sont identiques :**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = « Rāma souhaite écouter le discours du maître. »
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = « Rāma souhaite écouter le discours du maître. »
 
 **L'infinitif est également utilisé, entre autres, avec des verbes signifiant « être capable », « il y a », « savoir », « commencer » :**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = « Un saint ne peut pas faire de mal. »  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = « Il y a de la nourriture à manger » (⟪भुज्⟫ 7 : Ā : manger, P : régner)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = « Un saint ne peut pas faire de mal. »
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = « Il y a de la nourriture à manger » (⟪भुज्⟫ 7 : Ā : manger, P : régner)
 
 **L'infinitif est également utilisé avec des mots signifiant « suffisant », « capable » et avec des substantifs signifiant « capacité », « force », « habileté » :**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = « Le feu a le pouvoir de brûler tout. »
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = « Le feu a le pouvoir de brûler tout. »
 
 **L'infinitif peut également être utilisé avec des mots signifiant « temps » dans des expressions telles que « Il est temps de ... » :**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = « Il est temps de se consacrer à la nourriture » = « Il est temps de manger »
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = « Il est temps de se consacrer à la nourriture » = « Il est temps de manger »
 
 **L'infinitif peut être utilisé à la fois activement et passivement. Un infinitif passif en allemand est rendu en sanskrit en mettant le verbe (souvent ⟪शक्⟫ « être capable, pouvoir »), dont dépend l'infinitif, à la voix passive.**
 
@@ -44,13 +44,13 @@ status: stable
 
 par exemple
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = « Un saint ne peut pas faire de mal. »
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = « Un saint ne peut pas faire de mal. »
 
 **À la 2e personne, ⟪अर्ह्⟫ + infinitif est souvent utilisé comme un ordre poli : « Tu devrais ».**
 
 **Lorsque l'infinitif dépend d'un nom, il ne doit pas être lié à celui-ci sous forme de composé. Sont exceptés les Bahuvrīhi, dont le deuxième membre est ⟪काम⟫ ou ⟪मनस्⟫ :**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = « celui dont le souhait est de parler ; celui qui souhaite parler ».
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = « celui dont le souhait est de parler ; celui qui souhaite parler ».
 :::
 ## 23.2. Formation de l'infinitif (⟪tumun⟫)
 

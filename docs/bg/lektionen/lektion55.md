@@ -2,7 +2,7 @@
 title: "Урок 55"
 subtitle: "a-аорист (Аорист с тематичен гласен звук)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

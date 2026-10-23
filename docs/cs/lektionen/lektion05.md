@@ -2,7 +2,7 @@
 title: "Lekce 5"
 subtitle: "Základy nominálních složenin (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Předčleny složených slov (ne jen dvandv) mají obvykle tvar nezměněného *
 Příklady plurálních dvandv:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (bráhmanové, kṣatrijové, vaišjové a šúdrové)
-> 
-> nebo = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> (jeden/bráhman, kṣatrija, vaišja a šúdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(bráhmanové, kṣatrijové, vaišjové a šúdrové)
+
+nebo = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+(jeden/bráhman, kṣatrija, vaišja a šúdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (básníci a učitelé [plur.])
-> (Poznámka: „Jeden básník a jeden učitel“ by muselo být ve duálu!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(básníci a učitelé [plur.])
+(Poznámka: „Jeden básník a jeden učitel“ by muselo být ve duálu!)
+:::
 
 **Pro pořadí členů v dvandva platí mimo jiné následující pravidla:**
 Označení různých stavů (**varṇa**) má být uspořádáno podle jejich hierarchie (nejvyšší nejdříve).

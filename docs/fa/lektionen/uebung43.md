@@ -2,7 +2,7 @@
 title: "تمرین ۴۳"
 uebung_id: 43
 category: "تمرین"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

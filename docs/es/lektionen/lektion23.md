@@ -2,7 +2,7 @@
 title: "Lección 23"
 subtitle: "El infinitivo (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Si se desea expresar en sánscrito que una actividad se realiza con el fin de otra actividad ("para"), se puede usar el infinitivo (⟪तुमुन्⟫) para la actividad con cuyo fin se realiza. El infinitivo designa principalmente el propósito o la intención:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma se ha ido para escuchar el discurso del maestro."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma se ha ido para escuchar el discurso del maestro."
 
 **Tenga en cuenta que el infinitivo — con algunas excepciones bien definidas — no puede funcionar como sujeto u objeto de un verbo:**
 
-> Por lo tanto, no se debe traducir "aprende a bailar" con el infinitivo ("bailar"), sino que se debe usar un nombre verbal, por ejemplo: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "aprender").
+Por lo tanto, no se debe traducir "aprende a bailar" con el infinitivo ("bailar"), sino que se debe usar un nombre verbal, por ejemplo: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "aprender").
 
 **El infinitivo también se utiliza con verbos y sustantivos en el significado de "desear" o "anhelar", cuando el agente (⟪कर्तृ⟫) del infinitivo y del verbo son idénticos:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma desea escuchar el discurso del maestro."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma desea escuchar el discurso del maestro."
 
 **El infinitivo también se utiliza, entre otras cosas, con verbos en los significados de "ser capaz", "haber", "saber", "comenzar":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Un santo no puede hacer una injusticia."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Hay comida para comer" (⟪भुज्⟫ 7: Ā: comer, P: gobernar)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Un santo no puede hacer una injusticia."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Hay comida para comer" (⟪भुज्⟫ 7: Ā: comer, P: gobernar)
 
 **El infinitivo también se utiliza con palabras en los significados de "suficiente", "capaz" y con sustantivos en los significados de "habilidad", "fuerza", "habilidad":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "El fuego tiene el poder de quemar todo."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "El fuego tiene el poder de quemar todo."
 
 **También se puede usar el infinitivo con palabras en el significado de "tiempo" en expresiones como "Es hora de ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es hora de dedicarse a comer" = "Es hora de comer"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es hora de dedicarse a comer" = "Es hora de comer"
 
 **El infinitivo puede usarse activa y pasivamente. Un infinitivo pasivo en alemán se reproduce en sánscrito poniendo el verbo (con mayor frecuencia ⟪शक्⟫ "ser capaz, poder"), del cual depende el infinitivo, en voz pasiva.**
 
@@ -44,13 +44,13 @@ status: stable
 
 por ejemplo
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Un santo no puede hacer una injusticia."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Un santo no puede hacer una injusticia."
 
 **En la segunda persona, ⟪अर्ह्⟫ + infinitivo se usa a menudo como un mandato suave: "Deberías".**
 
 **Cuando el infinitivo depende de un sustantivo, no debe unirse con este a un compuesto. La excepción son los Bahuvrīhi, cuyo segundo miembro es ⟪काम⟫ o ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "aquel cuyo deseo es hablar; alguien que desea hablar".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "aquel cuyo deseo es hablar; alguien que desea hablar".
 :::
 ## 23.2. Formación del infinitivo (⟪तुमुन्⟫)
 

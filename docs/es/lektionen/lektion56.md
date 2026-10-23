@@ -2,7 +2,7 @@
 title: "Lección 56"
 subtitle: "El aoristo con reduplicación"
 lesson_id: 56
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

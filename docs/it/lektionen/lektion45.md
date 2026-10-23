@@ -2,7 +2,7 @@
 title: Lektion 45
 subtitle: "Formazione delle forme verbali della 2ª persona (⟪मध्यमः⟫) dei temi atematici senza suffisso vocalico (continuazione)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

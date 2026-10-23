@@ -2,7 +2,7 @@
 title: "అభ్యాసం 37"
 uebung_id: 37
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

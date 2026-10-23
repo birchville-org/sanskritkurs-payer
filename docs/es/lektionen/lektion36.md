@@ -2,7 +2,7 @@
 title: "Lección 36"
 subtitle: "Formaciones especiales del pretérito perfecto"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -112,11 +112,9 @@ Inf. ⟪चेतुम्⟫
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3601))
-::: \<!--  --\>
+:::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : caminar, ir, irse
-
-:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -133,8 +131,6 @@ Inf. ⟪व्रजितुम्⟫
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3602))
-::: \<!--  --\>
-
 :::
 ::: indent
 de ello:
@@ -242,11 +238,9 @@ PPP ⟪हृषित⟫
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3604))
-::: \<!--  --\>
+:::
 
 ⟪स्वक⟫ 3: propio (mío, tuyo ...) ; m.: miembro
-
-:::
 ## 36.5. Ejercicio
 
 A) Las siguientes raíces tienen tanto perfecto reduplicado como perifrástico. Forme las correspondientes formas de perfecto perifrástico y reduplicado para las siguientes formas:

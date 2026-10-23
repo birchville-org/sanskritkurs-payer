@@ -3,8 +3,8 @@ title: "Lezione 2"
 subtitle: "La proposizione nominale e le basi della declinazione"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Nome predicativo - Soggetto**
+:::
 
+::: indent
 ad es. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu è un dio."
 :::
 Una copula verbale ("è", "sono", "io sono", "tu sei", "voi siete") non è necessaria, ma può talvolta comparire.
@@ -76,7 +78,9 @@ In sanscrito la finale di una parola si regola anche in base all'inizio della pa
 
 Vedi anche la panoramica:
 
-> **Payer, Alois (1944–):** Sandhi di -s finale. -- (Materiali sul sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi di -s finale. -- (Materiali sul sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s finale:**
 
@@ -120,7 +124,9 @@ prima di altre vocali: diventa **-a** (iato)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordine di servizio).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**I quattro stati (varṇa)**
+
 Secondo la teoria classica (ad es. Manusmṛti I, 88-91) i compiti sono distribuiti:
 
 **dei Brahmani**

@@ -2,7 +2,7 @@
 title: "ለጽሐፈ 43"
 subtitle: 'የሁለተኛ ሰው መጨረሻዎች (⟪मध्यमः⟫ = "መካከለኛ <ሰው>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Ders 59"
 subtitle: "İkincil sonlar ve ikil emir kipi sonları (⟪द्विवचनम्⟫)"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -421,7 +421,9 @@ Emir Kipi (⟪लोट्⟫)
 
 ⟪सु⟫ 5U "sıkmak"
 
-> İhtimal Kipi (⟪विधिलिङ्⟫)
+::: indent
+İhtimal Kipi (⟪विधिलिङ्⟫)
+:::
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |

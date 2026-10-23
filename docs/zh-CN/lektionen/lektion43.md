@@ -2,7 +2,7 @@
 title: "第43课"
 subtitle: "第二人称词尾（⟪मध्यमः⟫ = “中位<人>”）"
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

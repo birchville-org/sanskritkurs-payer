@@ -2,7 +2,7 @@
 title: "Ders 43"
 subtitle: 'İkinci şahıs sonları (⟪मध्यमः⟫ = \"orta <kişi>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

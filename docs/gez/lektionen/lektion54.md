@@ -2,7 +2,7 @@
 title: "ለክፍል 54"
 subtitle: "ቅድመ-ማስታወቂያ"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -60,7 +60,7 @@ Schema I:
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × — × — / × ◡ — **— ◡ — —**
 
@@ -68,7 +68,7 @@ Schema I:
 
 Schema II:
 
-::: metrik-schema
+::: verse-box
 
 × — × — × / × ◡ **— ◡ — —**
 
@@ -78,7 +78,7 @@ Schema II:
 
 ⟪जगती⟫-መሠረታዊ ቅርጽ: እንደ ⟪त्रिष्टुभ्⟫፣ ግን 12-ፊደል ያለው። የእያንዳንዱ ⟪पाद⟫ የመጨረሻዎቹ 5 ፊደላት የሚከተሉትን ብዛቶች ይይዛሉ:
 
-::: metrik-schema
+::: verse-box
 
 **— ◡ — ◡ —**
 
@@ -86,7 +86,7 @@ Schema II:
 
 ከዚህ በተጨማሪ፣ አምስት ፊደል ያለው መጀመሪያ ክፍል ያለው፣ እና አራት ፊደል ያለው መጀመሪያ ክፍል ካለው ⟪त्रिष्टुभ्⟫ ጋር ተመሳሳይ በሆነ መንገድ የሚቀጥል፣ የተለመደው ከመጠን በላይ የሆነ ⟪त्रिष्टुभ्⟫ አለ:
 
-::: metrik-schema
+::: verse-box
 
 — × — × / × ◡ — **— ◡ — —**
 
@@ -96,7 +96,7 @@ Schema II:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 
@@ -104,7 +104,7 @@ a) ⟪इन्द्रवज्रा⟫
 
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 

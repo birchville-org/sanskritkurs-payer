@@ -2,7 +2,7 @@
 title: "Lekcja 54"
 subtitle: "Uwagi wstępne"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Wers ⟪त्रिष्टुभ्⟫ składa się z czterech jedenastozgło
 Schemat I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schemat II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Ilość sylab w czterech ostatnich sylabach jest więc taka sama w obu schematach.
 
 Podstawowa forma ⟪जगती⟫: jak w przypadku ⟪त्रिष्टुभ्⟫, ale jedenastozgłoskowa. Ostatnie pięć sylab każdego Pada wykazuje następujące ilości:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Obok tego występuje tzw. typowo nadmiarowy ⟪त्रिष्टुभ्⟫ z pięciosylabowym początkiem, który kontynuuje się jak ⟪त्रिष्टुभ्⟫ z czterosylabowym początkiem:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 W późniejszych czasach formy ⟪त्रिष्टुभ्⟫ zostają ustalone według ścisłego schematu długości i krótkości, a cezura nie odgrywa już roli. Najważniejsze późniejsze formy to:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

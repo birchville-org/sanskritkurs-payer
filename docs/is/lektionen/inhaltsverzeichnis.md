@@ -1,3 +1,4 @@
+
 # Efnisyfirlit
 
 ## [Kennslustund 1](lektion01)

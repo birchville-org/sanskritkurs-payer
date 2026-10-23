@@ -2,7 +2,7 @@
 title: "[Vaja 49]"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -69,9 +69,11 @@ Vprašanja kralja ⟪शूद्रक⟫ iz ⟪विदिशा⟫ papigu �
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kralj je rekel: "Pojdimo naj vse to pustimo! Zadovoljite našo radovednost! Gospod, povejte nam od začetka: V kateri deželi ste bili rojeni? Kdo vam je dal ime? Kdo je vaša mati? Kako ste pridobili vede? Kako ste se seznanili s poučnimi deli? Od kod ste pridobili umetnosti? Se lahko spomnite prejšnjih rojstev ali izpolnjujete želje? Ali pa živite, ko nosite perje ptice, v skritem kraju? Ali kje ste prej živeli? Ali koliko let imate? Kako ste bili ujeti v kletko? In kako ste prišli v roke Cāṇḍālas? Ali kako ste prišli sem?"
-\>
-> Vaiśampāyana pa, ki ga je gospod zemlje z spontano nastalo radovednostjo vprašal s velikim spoštovanjem, je razmišljal nekaj trenutkov in nato odgovoril z veliko spoštovanjem: "Kralj, to je dolga zgodba. Če vas zanima, mi posodite svoje uho!"
+::: indent
+Kralj je rekel: "Pojdimo naj vse to pustimo! Zadovoljite našo radovednost! Gospod, povejte nam od začetka: V kateri deželi ste bili rojeni? Kdo vam je dal ime? Kdo je vaša mati? Kako ste pridobili vede? Kako ste se seznanili s poučnimi deli? Od kod ste pridobili umetnosti? Se lahko spomnite prejšnjih rojstev ali izpolnjujete želje? Ali pa živite, ko nosite perje ptice, v skritem kraju? Ali kje ste prej živeli? Ali koliko let imate? Kako ste bili ujeti v kletko? In kako ste prišli v roke Cāṇḍālas? Ali kako ste prišli sem?"
+
+Vaiśampāyana pa, ki ga je gospod zemlje z spontano nastalo radovednostjo vprašal s velikim spoštovanjem, je razmišljal nekaj trenutkov in nato odgovoril z veliko spoštovanjem: "Kralj, to je dolga zgodba. Če vas zanima, mi posodite svoje uho!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

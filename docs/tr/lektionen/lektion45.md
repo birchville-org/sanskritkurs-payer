@@ -2,7 +2,7 @@
 title: "Ders 45"
 subtitle: "2. Kişi fiil çekimlerinin oluşumu (⟪मध्यमः⟫) ünsüz köklü, sesli ile biten eki olmayan kökler için (Devam)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "第3課"
 subtitle: "陰性單數主格"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ status: stable
 **以-ā結尾的陰性名詞**：例如 **devatā** f. 「神靈」——單數主格：**devatā** = ⟪देवता⟫
 **以-ī結尾的陰性名詞**：例如 **devī** f. 「女神」——單數主格：**devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **注意！** 此外，還存在以-ī結尾的單音節陰性根名詞，其單數主格以-s結尾：例如 dhī f. 「思想」——單數主格：dhīs = ⟪धीस्⟫。此外，lakṣmī (⟪लक्ष्मी⟫) f.、tarī (⟪तरी⟫) f. 「船」以及 tantrī (⟪तन्त्री⟫) f. 「弦」也均以不規則方式構成以-s結尾的單數主格：lakṣmīs = ⟪लक्ष्मीस्⟫。
 :::
 
@@ -72,11 +72,15 @@ u / -ū + u- / ū- » **-ū-**
 
 devatā + annapūrṇā » devatānnapūrṇā 「Annapūrṇā 是一位神祇」= ⟪देवतान्नपूर्णा⟫
 
-> （Annapūrṇā 是食物與烹飪的女神，她被視為 Śiva 之妻 Pārvatī 的化身。）
+::: indent
+（Annapūrṇā 是食物與烹飪的女神，她被視為 Śiva 之妻 Pārvatī 的化身。）
+:::
 
 devī + indrāṇī » devīndrāṇī 「Indrāṇī 是一位女神」= ⟪देवीन्द्राणी⟫
 
-> （Indrāṇī 是神祇 Indra 的妻子。）
+::: indent
+（Indrāṇī 是神祇 Indra 的妻子。）
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ u / -ū » **-v-**
 
 devī + umā » devy umā 「Umā 是一位／那位女神」= ⟪देव्युमा⟫
 
-> （Umā 是 Pārvatī 的名字，Pārvatī 是 Śiva 的妻子）
+::: indent
+（Umā 是 Pārvatī 的名字，Pārvatī 是 Śiva 的妻子）
+:::
 
 ::: grammar-box
 **-a / -ā 在遇到不同類型的元音前：**

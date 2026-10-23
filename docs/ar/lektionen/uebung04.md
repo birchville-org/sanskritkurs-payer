@@ -2,7 +2,7 @@
 title: "تمرين 4"
 uebung_id: 4
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

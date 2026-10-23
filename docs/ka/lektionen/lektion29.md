@@ -2,7 +2,7 @@
 title: "ლექსი 29"
 subtitle: "პარასმაიპადას (⟪परस्मैपद⟫) და Ātmanepada-ს (⟪आत्मनेपद⟫) გამოყენება კაუზატივში"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

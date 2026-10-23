@@ -8,6 +8,25 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.8.14 (Oktober 2026)
+
+**Focus:** *Scholarly Synthesis v2 Box System Migration (6,392 Files), Container Taxonomy Consolidation, markdown-it-extensible 1.4.0 & Native Navbar Restoration*
+
+### ✨ Features & Highlights
+- **Scholarly Synthesis v2 Boxensystem (6.392 Dateien)**:
+  - Vollständige Migration aller 61 Lektionen, 57 Übungsdateien, 11 Schriftlektionen, Inhaltsverzeichnisse und Wortlisten über Deutsch und alle 46 aktiven Zielsprachen auf das konsolidierte 6-Container-Minimal-Set (`grammar-box`, `warning-box`, `note-box`, `verse-box`, `indent`, `media`) gemäss `docs/METHODIK_BOXENSYSTEM.md`.
+  - 100 % Text- und Segmenterhalt über alle 6.392 Dateien (verifiziert durch automatisches Diff-Gate), sodass sämtliche bestehenden Übersetzungen und das Translation Memory unverändert gültig bleiben.
+  - Sprachübergreifende Entflechtung von Regelschemata und Beispielen (`::: grammar-box` + `::: indent`) sowie Bereinigung historischer Container- und Blockquote-Artefakte (`scripts/transform_lang_v2.py`).
+- **Typografie, Renderer & QA-Viewer (`markdown-it-extensible@1.4.0`)**:
+  - Einführung von `::: warning-box` (Scholarly Terracotta `#ea580c`) als Ersatz für das violette `::: important`-Verkehrsschild sowie `::: verse-box` für Ślokas, Mantras und metrische Schemata.
+  - Abwärtskompatibles Aliasing für Legacy-Container (`important` -> `warning-box`, `literatur-box` -> `note-box`, `compact` -> `verse-box`) in `docs/.vitepress/config.mjs` und `docs/public/qa_viewer.html`.
+  - Aktualisierung der CodeMirror-6-Container-Dekorationen, Snippet-Toolbar und Kurzreferenz (`docs/public/qa_help.md`).
+- **Navigation & Portal**:
+  - Wiederherstellung der nativen VitePress-Top-Navigation und Entfernung des redundanten Hamburger-Menüs (`BirchvilleNavDrawer`).
+  - Ausrichtung des Dokumentationsportals (`site_docs/`) am Birchville Scholarly Synthesis Standard mit Curation Badge und Quick-Access Grid.
+
+---
+
 ## 🚀 Version 1.8.13 (Oktober 2026)
 
 **Focus:** *Universal Slide-Over Navigation Drawer, Birchville Scholarly Synthesis Design Tokens, markdown-it-extensible 1.3.2 Security & Nesting Protection*

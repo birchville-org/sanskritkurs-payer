@@ -2,7 +2,7 @@
 title: "Les 51"
 subtitle: "⟪उपपद⟫-samenstellingen"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -331,7 +331,9 @@ bijv. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ## 51.6. Woordenlijst
 
 ⟪अजिन⟫ n.: antilopehuid, met name de huid van de zwarte antiloop (Hirschziegenantilope : _Antilope cervicapra_ L. ). Oorspronkelijk voorkomend op het hele Indische subcontinent van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி) Zie:
-&gt; **Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk. -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen. -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk. -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen. -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

@@ -2,7 +2,7 @@
 title: "第7課"
 subtitle: "帶有直接賓格的動詞句"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # 第7課
 
 
-::: center
+::: verse-box
 
 **每週箴言**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ status: stable
 ## 7.1. 帶直接賓格的動詞句
 
 ::: grammar-box
-
 **範例：**
 **(施事者 = kartṛ m. = ⟪कर्तृ⟫) – 直接賓語 (karman n. = ⟪कर्मन्⟫) – 動詞**
+:::
 
+::: indent
 例如
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫：「羅摩吃（咀嚼）一顆水果。」
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫：「婆羅門以祭品（為他人）供奉神明。」
-
 :::
 
 若動詞為他動語態（Parasmaipada）或自益語態（Ātmanepada），則直接賓語（**karman** n. = ⟪कर्मन्⟫）通常處於**第四格**（業格，dvitīyā f. = ⟪द्वितीया⟫）。

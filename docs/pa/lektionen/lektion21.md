@@ -2,7 +2,7 @@
 title: "ਪਾਠ 21"
 subtitle: "nt 'ਤੇ ਖਤਮ ਹੋਣ ਵਾਲੇ ਹੋਰ ਵਰਤਮਾਨ ਕਾਲ ਦੇ ਰੂਪ"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

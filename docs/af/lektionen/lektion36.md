@@ -2,7 +2,7 @@
 title: "Lesing 36"
 subtitle: "Spesiale formasjonar av perfektum"
 lesson_id: 36
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

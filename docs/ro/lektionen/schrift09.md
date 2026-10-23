@@ -1,3 +1,4 @@
+
 # Exercițiu de scriere 9
 
 ### Separarea cuvintelor în silabe

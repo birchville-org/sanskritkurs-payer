@@ -2,7 +2,7 @@
 title: "第40課"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

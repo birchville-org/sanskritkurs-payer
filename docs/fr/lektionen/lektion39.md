@@ -2,7 +2,7 @@
 title: "Leçon 39"
 subtitle: "Les désinences personnelles de la première personne (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = « **troisième** personne »)"
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

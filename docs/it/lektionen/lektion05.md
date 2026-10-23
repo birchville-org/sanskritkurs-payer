@@ -2,7 +2,7 @@
 title: "Lezione 5"
 subtitle: "Fondamenti dei composti nominali (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -62,16 +62,20 @@ Gli elementi iniziali dei composti (non solo Dvandvas) hanno di norma la forma d
 Esempi di Pluraleeeeedvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmani, Kṣatriya, Vaiśya e Śūdra)
-> 
-> oppure = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> (un/uno Brahmana, Kṣatriya, Vaiśya e Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(Brahmani, Kṣatriya, Vaiśya e Śūdra)
+
+oppure = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+(un/uno Brahmana, Kṣatriya, Vaiśya e Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (poeti e insegnanti [Plur.])
-> (Nota: "Un poeta e un insegnante" dovrebbe essere al duale!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(poeti e insegnanti [Plur.])
+(Nota: "Un poeta e un insegnante" dovrebbe essere al duale!)
+:::
 
 **Per l'ordine dei membri in un Dvandva valgono, tra le altre, le seguenti regole:**
 - La designazione dei diversi ordini sociali (**varṇa**) deve essere ordinata secondo la loro gerarchia (il più alto per primo).

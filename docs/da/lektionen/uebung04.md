@@ -2,7 +2,7 @@
 title: "Øvelse 4"
 uebung_id: 4
 category: "Øvelse"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

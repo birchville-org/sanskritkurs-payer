@@ -2,7 +2,7 @@
 title: "Lección 60"
 subtitle: "Las desinencias duales del perfecto (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -200,8 +200,6 @@ Ver paradigmas en Kielhorn, Gramática § 124:
 ::: media
 ![](/images/lekt6001.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6002.webp)
@@ -239,8 +237,6 @@ Ejemplo: ⟪प्रतीची⟫
 ::: media
 ![](/images/lekt6003.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6004.webp)
@@ -427,14 +423,10 @@ A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del deside
 ::: media
 ![](/images/lekt6007.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6009.webp)

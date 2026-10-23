@@ -2,7 +2,7 @@
 title: "Lição 49"
 subtitle: "Formação do imperativo (⟪लोट्⟫) de temas presentes atemáticos (continuação)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

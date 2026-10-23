@@ -2,7 +2,7 @@
 title: "Lectio 49"
 subtitle: "Formationis imperativi (⟪लोट्⟫) athematicorum praesentis radicalium (continuatio)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

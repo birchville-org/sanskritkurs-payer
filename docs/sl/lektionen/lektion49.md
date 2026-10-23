@@ -2,7 +2,7 @@
 title: "Učenje 49"
 subtitle: "Oblikovanje imperativa (⟪लोट्⟫) ne-atematskih prezentskih korenin (nadaljevanje)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

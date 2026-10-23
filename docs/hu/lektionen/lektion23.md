@@ -2,7 +2,7 @@
 title: "23. lecke"
 subtitle: "Az infinitívus (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -16,28 +16,28 @@ status: stable
 
 **Ha szanszkritul azt szeretnénk kifejezni, hogy egy tevékenység egy másik tevékenység céljából történik („hogy…-jon”), a cselekvés, amelynek célja, kifejezésére használhatjuk a végtelen módot (⟪तुमुन्⟫). A végtelen mód elsősorban a célt vagy szándékot jelöli:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Ráma elment, hogy meghallgassa a mester beszédét."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Ráma elment, hogy meghallgassa a mester beszédét."
 
 **Vegye észre, hogy az infinitívuszt – néhány szigorúan meghatározott kivételtől eltekintve – nem lehet igének alanyaként vagy tárgyaként használni:**
 
-> "Megtanul táncolni" tehát nem lehet az infinitívussal ("táncolni") lefordítani, hanem egy névmást kell használni, például: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "tanulni").
+"Megtanul táncolni" tehát nem lehet az infinitívussal ("táncolni") lefordítani, hanem egy névmást kell használni, például: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "tanulni").
 
 **Az infinitívuszt akkor is használjuk igék és főnevek "kívánni" vagy "vágyakozni" jelentésében, ha az infinitívus és az ige alanya (⟪कर्तृ⟫) megegyezik:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Ráma hallani kívánja a mester beszédét."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Ráma hallani kívánja a mester beszédét."
 
 **Az infinituszt többek között olyan igékben használják, amelyek jelentése: "képes lenni", "létezik", "tudni", "kezdeni":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = „Egy szent nem tehet jót.”
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = „Van mit enni” (⟪भुज्⟩ 7: Ā: enni, P: uralkodni)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = „Egy szent nem tehet jót.”
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = „Van mit enni” (⟪भुज्⟩ 7: Ā: enni, P: uralkodni)
 
 **Az infinituszt továbbá olyan szavakkal használják, amelyek jelentése: "megfelelő", "képes" és olyan főnevekkel, amelyek jelentése: "képesség", "erő", "ügyesség":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "A tűnek ereje van mindent elégetni."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "A tűnek ereje van mindent elégetni."
 
 **Az infinitívuszt a „idő” jelentésű szavakkal is lehet használni olyan kifejezésekben, mint „Idő van a ...-ra”:**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = „Idő van az evésre összpontosítani” = „Idő van enni”
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = „Idő van az evésre összpontosítani” = „Idő van enni”
 
 **Az infinitívuszt aktívan és passzívan is lehet használni. A német nyelvben a passzív infinitívuszt szanszkritban úgy adják vissza, hogy az igét (különösen gyakran a ⟪शक्⟫ „képes lenni, tudni” igét), amelytől az infinitívus függ, passzív alakba helyezzük.**
 
@@ -45,13 +45,13 @@ status: stable
 
 pl.
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Egy szent nem követhet el bűnt."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Egy szent nem követhet el bűnt."
 
 **A 2. személyben a ⟪अर्ह्⟫ + igeképző gyakran enyhített parancsként használatos: "Te kellene, hogy..."**
 
 **Ha az infinitívus egy főnévtől függ, nem kapcsolódhat hozzá összetett szóként. Kivételt képeznek a Bahuvrīhi-szavak, amelyek második tagja ⟪काम⟫ vagy ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „egy olyan, akinek a vágya beszélni; egy, aki beszélni kíván”.
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „egy olyan, akinek a vágya beszélni; egy, aki beszélni kíván”.
 
 :::
 

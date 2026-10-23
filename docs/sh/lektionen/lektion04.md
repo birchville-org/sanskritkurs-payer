@@ -2,7 +2,7 @@
 title: "Lekcija 4"
 subtitle: "Upitna i demonstrativna zamjenica u nominativu"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -100,7 +100,9 @@ Using these pronouns, one forms, for example, the following question formulas:
 
 An example of other questions:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Answer: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In a nominal sentence, the subject can be placed at the beginning to emphasize connection with the question.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Answer: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In a nominal sentence, the subject can be placed at the beginning to emphasize connection with the question.)
+:::
 
 NOTE: The answers you can give to such questions using your current Sanskrit knowledge do not yet correspond in every respect to idiomatic good Sanskrit.
 

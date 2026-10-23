@@ -2,7 +2,7 @@
 title: "Lição 4"
 subtitle: "Pronomes interrogativos e pronomes demonstrativos no nominativo"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Por meio destes pronomes, formam-se, p. ex., as seguintes fórmulas interrogativ
 :::
 Um exemplo de outras perguntas:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Resposta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Aqui, na frase nominal, pode-se colocar o sujeito, por exemplo, no início para enfatizar a conexão com a pergunta.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Resposta: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Aqui, na frase nominal, pode-se colocar o sujeito, por exemplo, no início para enfatizar a conexão com a pergunta.)
+:::
 
 NOTA: As respostas que você pode dar a tais perguntas com seu conhecimento atual de sânscrito, naturalmente, ainda não correspondem em todos os aspectos a um sânscrito idiomaticamente bom.
 

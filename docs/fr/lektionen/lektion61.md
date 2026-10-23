@@ -994,7 +994,7 @@ Lég. : Mélodie, rapportée à do (c), peut être transposée selon la tessitur
 
 Maintenant que vous avez acquis les bases du sanskrit, vous êtes probablement comme les tout-petits dans la vidéo : parfois maladroits, mais avides d'apprendre et de connaissances, et prenant plaisir à l'exercice. Gardez jusqu'à la fin de votre vie « un esprit d'initié ».
 
-::: center
+::: verse-box
 
 C'est ce que vous souhaite Alois Payer
 

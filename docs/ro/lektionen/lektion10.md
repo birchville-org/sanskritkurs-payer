@@ -2,7 +2,7 @@
 title: "Lecție 10"
 subtitle: "Propoziția pasivă (Instrumentalul agentului)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agent - kartṛ - în Instrumental (tṛtīyā)) - (Obiect direct - karman - în Nominativ) - formă verbală pasivă**
+:::
 
+::: indent
 ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Un brahman îl onorează pe un zeu cu o jertfă" (literal: "Un zeu este onorat de un brahman cu o jertfă.")
-
 Această propoziție este **complet (!) sinonimă** cu propoziția:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो
 :::
 Construcțiile pasive în sanscrită sunt extrem de frecvente: passivul este, de asemenea, mai ușor de format decât, de exemplu, numeroasele rădăcini prezente.
 
-::: important
+::: warning-box
 **Propozițiile pasive în sanscrită nu trebuie, în general, redate în germană printr-o propoziție pasivă, deoarece passivul german are o funcție stilistică complet diferită.**
 :::
 
@@ -234,8 +235,6 @@ de ex. **tan** 8 U.
 ::: note-box
 În India se atribuia cuvântului adevărat o putere magică, ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă consultați lucrarea fundamentală:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editat din moștenire de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Citiți și traduceți, apoi transformați la pasiv:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

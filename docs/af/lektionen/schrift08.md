@@ -1,3 +1,4 @@
+
 # Skryfoefening 8
 
 Vokaattekens aan die begin van 'n woord, mits die woord nie met 'n koppelteken aan 'n voorafgaande woord vasgekoppel is nie:

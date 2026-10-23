@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ A ⟪त्रिष्टुभ्⟫-nak két alapvető sémája van, attól f
 I. séma:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 II. séma:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 A négy utolsó szótag mennyisége tehát mindkét sémában azonos.
 
 ⟪जगती⟫-alapforma: mint a ⟪त्रिष्टुभ्⟫ esetében, de 12 szótagú. Az egyes pada utolsó öt szótagja a következő mennyiségeket emeli ki:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Mellette létezik az úgynevezett tipikusan fölösleges ⟪त्रिष्टुभ्⟫ ötszótagú kezdőrészével, amely továbbhalad egy ⟪त्रिष्टुभ्⟫ négy szótagú kezdőrészével:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Későbbi korban a ⟪त्रिष्टुभ्⟫ formáit szigorú hosszú-rövid sémák szerint rögzítik, a caesura már nem játszik szerepet. A legfontosabb későbbi formák a következők:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

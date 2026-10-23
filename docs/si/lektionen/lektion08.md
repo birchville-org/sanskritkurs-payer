@@ -3,8 +3,8 @@ title: "පාඩම 8"
 subtitle: "නාම සෑදීම සහ 8. වර්තමාන වර්ගය"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

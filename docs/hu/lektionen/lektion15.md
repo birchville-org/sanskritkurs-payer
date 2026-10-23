@@ -2,7 +2,7 @@
 title: "Lecke 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -38,12 +38,12 @@ A összetett szó mindkét tagjának esetviszonya független attól, hogy az ös
 
 pl.
 
-> Nominatívus, egyes szám ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
-> Akkusztívus, egyes szám ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
-> Instrumentális, egyes szám ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
-> Genitívus, egyes szám ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
-> Nominatívus, többes szám ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
-> stb.
+Nominatívus, egyes szám ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫
+Akkusztívus, egyes szám ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫
+Instrumentális, egyes szám ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫
+Genitívus, egyes szám ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫
+Nominatívus, többes szám ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫
+stb.
 
 A tatpuruṣa összetett szó nemét – néhány kivétellel – a hátsó tag határozza meg.
 

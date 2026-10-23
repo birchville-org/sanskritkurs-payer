@@ -2,7 +2,7 @@
 title: "பயிற்சி 14"
 uebung_id: 14
 category: "பயிற்சி"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

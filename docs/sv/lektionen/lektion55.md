@@ -2,7 +2,7 @@
 title: "Lektion 55"
 subtitle: "Aorist med a-temavokal i sanskrit"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

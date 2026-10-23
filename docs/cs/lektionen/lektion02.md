@@ -3,8 +3,8 @@ title: "Lekce 2"
 subtitle: "Jmenovací věta a základy deklinace"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schéma: Predikativní podstatné jméno - Subjekt**
+:::
 
+::: indent
 např. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu je bůh."
 :::
 Slovesné spojení ("je", "jsou", "jsem", "jsi", "jste") není nutné, ale může se někdy vyskytovat.
@@ -76,7 +78,9 @@ Koncovka slova se v sanskrtu řídí také počáteční hláskou následující
 
 Viz také přehled:
 
-> **Payer, Alois (1944–):** Sandhi koncového -s. -- (Materiály k sanskrtu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi koncového -s. -- (Materiály k sanskrtu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Koncové **-s**:
 
@@ -91,7 +95,9 @@ Koncové **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Šúdra (stav služebníků).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Čtyři stavy (varṇa)**
+
 Podle klasické teorie (např. Manusmṛti I, 88-91) jsou úkoly rozděleny:
 
 **brahmanů**

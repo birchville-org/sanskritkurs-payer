@@ -2,7 +2,7 @@
 title: "Les 3"
 subtitle: "De nominatief enkelvoud van het vrouwelijk geslacht"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ De nominatief enkelvoud wordt gevormd zonder uitgang:
 **Vrouwelijke naamwoorden op -ā**: bijv. **devatā** v. "godheid" -- Nom. sg.: **devatā** = ⟪देवता⟫
 **Vrouwelijke naamwoorden op -ī**: bijv. **devī** v. "godin" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Let op!** Daarnaast bestaan er eenlettergrepige vrouwelijke wortelnomina op -ī, waarvan de nominatief enkelvoud eindigt op -s: bijv. dhī v. "gedachte" -- Nom. sg.: dhīs = ⟪धीस्⟫. Ook lakṣmī (⟪लक्ष्मी⟫) v., tarī (⟪तरी⟫) v. "boot" en tantrī (⟪तन्त्री⟫) v. "snaar" vormen onregelmatig de nominatief enkelvoud op -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 

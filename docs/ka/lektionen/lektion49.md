@@ -2,7 +2,7 @@
 title: "ლექსი 49"
 subtitle: "იმპერატივის წარმოქმნა (⟪लोट्⟫) ათემატური პრეზენტის ფუძეები (გაგრძელება)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,7 @@ PPP ⟪ध्यात⟫
 ::: media
 ![](/images/lekt4908.webp)
 სურ.: ⟪शुकः⟫
-> Plum-headed Parakeet = Psittacula cyanocephala
+Plum-headed Parakeet = Psittacula cyanocephala
 (სურათის წყარო: [დეტალები](/ka/licenses#lekt4908))
 :::
 

@@ -2,7 +2,7 @@
 title: "Mësimi 45"
 subtitle: "Formimi i formave verbale të personit të dytë (⟪मध्यमः⟫) steme athematike pa prapasësi me fund vokal (Vazhdimi)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

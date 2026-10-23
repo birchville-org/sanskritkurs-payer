@@ -2,7 +2,7 @@
 title: "Урок 45"
 subtitle: "Образуване на глаголни форми за второ лице (⟪मध्यमः⟫) на атематични основи без вокално завършващ суфикс (продължение)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

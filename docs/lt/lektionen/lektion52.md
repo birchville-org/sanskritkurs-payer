@@ -2,7 +2,7 @@
 title: "Pamoka 52"
 subtitle: "Vidurinės giminės kamienai su -i ir -u"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

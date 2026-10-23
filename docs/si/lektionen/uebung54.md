@@ -2,7 +2,7 @@
 title: "අභ්‍යාස 54"
 uebung_id: 54
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 

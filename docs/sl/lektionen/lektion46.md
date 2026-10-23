@@ -2,7 +2,7 @@
 title: "Učenje 46"
 subtitle: "Oblikovanje glagolskih oblik druge osebe (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -489,7 +489,9 @@ iz tega:
 
 Glej za ⟪राहु⟫ in ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Uvod in pregled. -- 10. Sakramenti in prehodi (samskara). -- Priloga C: Rahu in Ketu, nevidni planeti . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Uvod in pregled. -- 10. Sakramenti in prehodi (samskara). -- Priloga C: Rahu in Ketu, nevidni planeti . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

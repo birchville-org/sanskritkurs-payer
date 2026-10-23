@@ -2,7 +2,7 @@
 title: "Les 46"
 subtitle: "Vorming van de vervoegingen voor de 2e persoon (⟪मध्यमः⟫) Perfectum (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -373,7 +373,9 @@ afgeleid daarvan:
 :::
 Zie voor ⟪राहु⟫ en ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Afb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/nl/licenses#lekt4602)

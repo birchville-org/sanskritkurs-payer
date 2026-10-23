@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta e shërbëtorëve).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Katër shtresat (varṇa)**
+
 Sipas teorisë klasike (p.sh. Manusmṛti I, 88-91), detyrat janë të shpërndara:
 
 **të Brahmanëve**
@@ -463,8 +465,6 @@ për **yaj** 1 U:
 ::: note-box
 Në Indi, fjala e vërtetë i atribuohet fuqisë magjike; madje, gjithë rendi botëror mbahet dhe krijohet nga fjala e vërtetë. Për këtë koncept të rëndësishëm shihni veprën themelore:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. From the posthumous works edited by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : të pyes (dikë: Akuzativ; për diçka: Akuzativ)
 **saha** ⟪सह⟫ : së bashku me, në mënyrë të përbashkët (edhe te „të luftosh me“ etj.) (Postpozicion me Instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Nga trashëgimia e botuar nga Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vëllimi 2: Varuna dhe Ṛta. -- 1959. -- XXIII faqe, fq. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : të pyes (dikë: Akuzativ; për diçka: Akuzativ)
 **saha** ⟪सह⟫ : së bashku me, në mënyrë të përbashkët (edhe te „të luftosh me“ etj.) (Postpozicion me Instrumental)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Përdorur nga trashëgimia letrare e hartuar nga Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vëllimi 2: Varuna dhe Ṛta. -- 1959. -- XXIII faqe, fq. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Mësojeni fjalët e mëposhtme:
 **eva** ⟪एव⟫ : thekson fjalën paraardhëse
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Shpirtëror, hyjnor.'
->
-> Në pjesët më të vjetra të Ṛgvedës ky term përdoret për shpirtin suprem, dhe është i njëjtë me Ahurën e zoroastristëve. Në kuptimin e 'zoti' u aplikua për disa nga perënditë kryesore, si Indra, Agni dhe Varuṇa. Më vonë ai mori një kuptim krejtësisht të kundërt, dhe filloi të nënkuptojë, ashtu si tani, një demon ose armik perëndish.
->
-> Fjala gjendet me këtë kuptim në pjesët më të vona të Ṛgvedës, veçanërisht në librin e fundit, dhe gjithashtu në Atharvavedën. Brāhmaṇat i japin të njëjtin kuptim dhe regjistrojnë shumë konfrontime midis Asurave dhe perëndive. Sipas Taittirīya Brāhmaṇës, fryma *(asu)* e Prajapatit u bë e gjallë, dhe "me atë frymë ai krijoi mua si Asura." Në një pjesë tjetër të së njëjtit veprë thuhet se Prajāpati "u shtatzën. Ai krijoi Asura nga barku i tij." Śatapatha Brāhmaṇa pajtohet me deklaratën e parë, dhe shpall se "ai krijoi Asura nga fryma e tij më e ulët." Taittirīya Āraṇyaka paraqet se Prajāpati krijoi perëndi, njerëz, baballarë, Gandharvas dhe Apsarases nga uji, dhe se Asurat, Rakṣasat dhe piśācat u lindën nga pika që u shpërndanë. Deklarata e Manut është se ata u krijuan nga Prajāpatit.
->
-> Sipas Viṣṇu Purāṇës, ata u prodhuan nga gjuri i Brahma-s (prajāpati). Tregimi i Vāyu Purāṇës është: "Asurat u prodhuan së pari si bij nga gjuri i tij (i Prajāpatit). *Asu* shpallet nga Brāhmaṇa të nënkuptojë frymën. Nga ajo u prodhuan këta qenie; prandaj ata janë Asura." Fjala ka përdorur prej kohësh si emër i përgjithshëm për armiq të perëndive, duke përfshirë Daityas dhe Danavas dhe pasardhës të tjerë të Kaśyapa-s, por jo duke përfshirë Rakṣasat e lindur nga Pulastya.
->
-> Në këtë kuptim është gjetur një rrjedhje tjetër për të: burimi nuk është më asu, 'frymë,' por fillimi *a* merret si prapashtesë negative, dhe *asura* nënkupton 'jo një zot;' prandaj, sipas disa, u lind fjala *sura,* e përdorur zakonisht për 'një zot.'"
->
-> [Burimi: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Shpirtëror, hyjnor.'
+
+Në pjesët më të vjetra të Ṛgvedës ky term përdoret për shpirtin suprem, dhe është i njëjtë me Ahurën e zoroastristëve. Në kuptimin e 'zoti' u aplikua për disa nga perënditë kryesore, si Indra, Agni dhe Varuṇa. Më vonë ai mori një kuptim krejtësisht të kundërt, dhe filloi të nënkuptojë, ashtu si tani, një demon ose armik perëndish.
+
+Fjala gjendet me këtë kuptim në pjesët më të vona të Ṛgvedës, veçanërisht në librin e fundit, dhe gjithashtu në Atharvavedën. Brāhmaṇat i japin të njëjtin kuptim dhe regjistrojnë shumë konfrontime midis Asurave dhe perëndive. Sipas Taittirīya Brāhmaṇës, fryma *(asu)* e Prajapatit u bë e gjallë, dhe "me atë frymë ai krijoi mua si Asura." Në një pjesë tjetër të së njëjtit veprë thuhet se Prajāpati "u shtatzën. Ai krijoi Asura nga barku i tij." Śatapatha Brāhmaṇa pajtohet me deklaratën e parë, dhe shpall se "ai krijoi Asura nga fryma e tij më e ulët." Taittirīya Āraṇyaka paraqet se Prajāpati krijoi perëndi, njerëz, baballarë, Gandharvas dhe Apsarases nga uji, dhe se Asurat, Rakṣasat dhe piśācat u lindën nga pika që u shpërndanë. Deklarata e Manut është se ata u krijuan nga Prajāpatit.
+
+Sipas Viṣṇu Purāṇës, ata u prodhuan nga gjuri i Brahma-s (prajāpati). Tregimi i Vāyu Purāṇës është: "Asurat u prodhuan së pari si bij nga gjuri i tij (i Prajāpatit). *Asu* shpallet nga Brāhmaṇa të nënkuptojë frymën. Nga ajo u prodhuan këta qenie; prandaj ata janë Asura." Fjala ka përdorur prej kohësh si emër i përgjithshëm për armiq të perëndive, duke përfshirë Daityas dhe Danavas dhe pasardhës të tjerë të Kaśyapa-s, por jo duke përfshirë Rakṣasat e lindur nga Pulastya.
+
+Në këtë kuptim është gjetur një rrjedhje tjetër për të: burimi nuk është më asu, 'frymë,' por fillimi *a* merret si prapashtesë negative, dhe *asura* nënkupton 'jo një zot;' prandaj, sipas disa, u lind fjala *sura,* e përdorur zakonisht për 'një zot.'"
+
+[Burimi: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3788,7 +3790,9 @@ prej kësaj:
 :::
 Për ⟪राहु⟫ dhe ⟪केतु⟫ shihni:
 
-> **Payer, Alois (1944–):** Dharmashastra: Hyrje dhe Përmbledhje. -- 10. Sakramente dhe Rite kalimi (samskara). -- Shtesë C: Rahu dhe Ketu, yjtët lundrues të padukshëm. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra: Hyrje dhe Përmbledhje. -- 10. Sakramente dhe Rite kalimi (samskara). -- Shtesë C: Rahu dhe Ketu, yjtët lundrues të padukshëm. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4390,7 +4394,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sind to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

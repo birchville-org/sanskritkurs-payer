@@ -2,7 +2,7 @@
 title: 第57课
 subtitle: "不定过去时 4: s-不定过去时"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

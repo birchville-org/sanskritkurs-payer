@@ -2,7 +2,7 @@
 title: "Leçon 3"
 subtitle: "Le nominatif singulier du féminin"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Le nominatif singulier se forme sans terminaison :
 **Féminins en -ā** : par ex. **devatā** f. "divinité" -- Nom. sg. : **devatā** = ⟪देवता⟫
 **Féminins en -ī** : par ex. **devī** f. "déesse" -- Nom. sg. : **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Attention !** Il existe également des noms racinaux féminins monosyllabiques en -ī, dont le nominatif singulier se termine par -s : par ex. dhī f. "pensée" -- Nom. sg. : dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "bateau" et tantrī (⟪तन्त्री⟫) f. "corde" forment également de manière irrégulière le nominatif singulier en -s : lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ par ex.
 
 devatā + annapūrṇā » devatānnapūrṇā « Annapūrṇā est une divinité » = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā est la déesse de la nourriture et de la cuisine, elle est considérée comme une incarnation de Pārvatī, l'épouse de Śiva.)
+::: indent
+(Annapūrṇā est la déesse de la nourriture et de la cuisine, elle est considérée comme une incarnation de Pārvatī, l'épouse de Śiva.)
+:::
 
 devī + indrāṇī » devīndrāṇī « Indrāṇī est une déesse » = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī est l'épouse du dieu Indra.)
+::: indent
+(Indrāṇī est l'épouse du dieu Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ par ex.
 
 devī + umā » devy umā « Umā est une / la déesse » = ⟪देव्युमा⟫
 
-> (Umā est un nom pour Pārvatī, l'épouse de Śiva)
+::: indent
+(Umā est un nom pour Pārvatī, l'épouse de Śiva)
+:::
 
 ::: grammar-box
 **-a / -ā devant une voyelle dissemblable :**

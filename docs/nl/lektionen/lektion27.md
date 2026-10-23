@@ -2,7 +2,7 @@
 title: "Les 27"
 subtitle: 'Gebruik van de Lokatief (⟪सप्तमी⟫ f. = "zevende kasusuitgang")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -24,7 +24,7 @@ status: stable
 
 **1. De lokatief (⟪सप्तमी⟫) duidt bij de vraag „Waar?” de ruimte aan waarin (aan, op, bij) de agent (⟪कर्ता⟫) of het object van een handeling zich bevindt of waar de handeling zelf plaatsvindt.**
 
-> ⟪नगरे वसति⟫ = „Hij woont in de stad“
+⟪नगरे वसति⟫ = „Hij woont in de stad“
 
 :::
 ::: media
@@ -38,19 +38,19 @@ Jaipur, 1875.
 
 **2. De locatief geeft bij de vraag "Wanneer?" het tijdstip of de uiterlijke omstandigheden aan:**
 
-> ⟪तस्मिन्काले⟫ = „op dat moment, op dat tijdstip“
+⟪तस्मिन्काले⟫ = „op dat moment, op dat tijdstip“
 
 **Hieronder valt ook de zogenaamde Locativus Absolutus:**
 
 **Als de handeling of de toestand van een persoon of zaak bepalend is voor het tijdstip waarop – of de omstandigheden waaronder – een ANDERE persoon of zaak een handeling verricht of zich in een bepaalde toestand bevindt, dan wordt het woord dat de eerste persoon of zaak aanduidt, samen met het woord dat deze nader specificeert (dat vaak een deelwoord is) in de locatief (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "terwijl de tijd zo verstrijkt..."
+⟪एवं गच्छति काले⟫ = "terwijl de tijd zo verstrijkt..."
 \&gt;
-> ⟪तस्मिन्गते⟫ = "toen hij weg was..."
+⟪तस्मिन्गते⟫ = "toen hij weg was..."
 
 **Soms wordt de agent (⟪कर्ता⟫) niet apart benoemd:**
 
-> ⟪एवं सति⟫ = "aangezien het zo is"
+⟪एवं सति⟫ = "aangezien het zo is"
 
 **De locativus absolutus moet, afhankelijk van de context, worden vertaald met "terwijl" (bijv. onvoltooid deelwoord), "nadat", "toen" (bijv. voltooid deelwoord), "omdat", "hoewel", "wanneer" enz.**
 
@@ -68,7 +68,7 @@ Rajasthan.
 
 **3. De locatief staat ook op de vraag "In relatie tot wat?" en dergelijke:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hij heeft liefde voor zijn zoon" (letterlijk: "In relatie tot de zoon is bij hem liefde")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hij heeft liefde voor zijn zoon" (letterlijk: "In relatie tot de zoon is bij hem liefde")
 
 :::
 ::: media
@@ -82,7 +82,7 @@ Holi.
 
 **4. De locatief wordt in de inheemse lexica en bij commentatoren gebruikt om de betekenis van een woord aan te geven:**
 
-> ⟪भू सत्तायाम्⟫ = "de wortel ⟪भू⟫ in de betekenis 'bestaan' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "de wortel ⟪भू⟫ in de betekenis 'bestaan' (sat-tā)"
 
 :::
 Meer over het gebruik van de locatief later.

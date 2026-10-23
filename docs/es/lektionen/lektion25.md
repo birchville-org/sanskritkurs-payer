@@ -2,7 +2,7 @@
 title: "Lección 25"
 subtitle: 'Formación del ablativo (⟪पञ्चमी⟫ = \"quinta terminación casuál\")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

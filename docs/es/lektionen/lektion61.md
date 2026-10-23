@@ -446,8 +446,6 @@ Observe el significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6103.webp)
@@ -664,8 +662,6 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6118.webp)
@@ -681,8 +677,6 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
-::: \<!--  --\>
-
 :::
 ::: media
 ![](/images/lekt6117.webp)
@@ -766,7 +760,7 @@ Fig.: La melodía, referida a do, puede transponerse según el registro vocal.
 
 Una vez que ha aprendido los fundamentos del sánscrito, espero que se sienta como los niños pequeños en el video: a veces torpe, pero con ganas de aprender y conocer, y disfrutando del proceso. Mantenga "una mente de principiante" hasta el final de su vida.
 
-::: center
+::: verse-box
 Eso le desea su Alois Payer
 
 Ofterdingen, 2009-03-09

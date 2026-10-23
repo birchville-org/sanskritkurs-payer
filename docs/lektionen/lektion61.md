@@ -756,7 +756,7 @@ Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
 
 Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
 
-::: center
+::: verse-box
 Das wünscht Ihnen Ihr Alois Payer
 
 Ofterdingen, 2009-03-09

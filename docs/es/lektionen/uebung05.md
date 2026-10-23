@@ -2,7 +2,7 @@
 title: "Ejercicio 5"
 uebung_id: 5
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -167,5 +167,4 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 ![](/images/uebung009.webp)
 Fig.: ⟪ऋग्वेदः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung009))
-::: \<!--  --\>
 :::

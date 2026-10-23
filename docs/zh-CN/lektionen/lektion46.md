@@ -2,7 +2,7 @@
 title: "第46课"
 subtitle: "第二人称动词形式的构成（⟪मध्यमः⟫）完成时（⟪लिट्⟫）"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ status: stable
 :::
 关于 ⟪राहु⟫ 和 ⟪केतु⟫，参见：
 
-> **Payer, Alois (1944–)：**《法论》：导言与概览。 -- 第十部分：十种圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，两大隐游星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–)：**《法论》：导言与概览。 -- 第十部分：十种圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，两大隐游星。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 图注：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/zh-CN/licenses#lekt4602)
@@ -530,11 +532,11 @@ PPP ⟪द्रुत⟫
 ⟪भ्रम्⟫ 第一人称单数主动语态 ⟪भ्रमति ।⟫ 第四人称复数 :sig[⟪भ्रा⟫]⟪म्यति⟫ : 漫游，徘徊
 
 ::: indent
-> 完成时态虚拟语气 ⟪बभ्राम⟫，⟪बभ्रमुर् ।⟫ 第二人称复数 ⟪भ्रेमुर्⟫  
+完成时态虚拟语气 ⟪बभ्राम⟫，⟪बभ्रमुर् ।⟫ 第二人称复数 ⟪भ्रेमुर्⟫
 将来时态 ⟪भ्रमिष्यति⟫  
 使役动词 ⟪भ्रमयति⟫  
-> 过去分词 :sig[⟪भ्रा⟫]⟪न्त⟫  
-> 不定式 ⟪भ्रमितुम्⟫  
+过去分词 :sig[⟪भ्रा⟫]⟪न्त⟫
+不定式 ⟪भ्रमितुम्⟫
 独立分词 -⟪भ्रम्य⟫
 派生自：
 ⟪विभ्रम⟫ 阳性名词：漫游，混乱，错误

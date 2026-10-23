@@ -484,7 +484,9 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Véase también:
 
-> **Payer, Alois (1944–):** Introducción a la exégesis de textos en sánscrito : Manuscrito. -- Cap. 8: La exégesis propiamente dicha, Parte II: Sobre cuestiones individuales de comprensión sincrónica. -- Apéndice B: Sobre la métrica de los textos en sánscrito. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Introducción a la exégesis de textos en sánscrito : Manuscrito. -- Cap. 8: La exégesis propiamente dicha, Parte II: Sobre cuestiones individuales de comprensión sincrónica. -- Apéndice B: Sobre la métrica de los textos en sánscrito. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Importancia de la determinación del metro
 
@@ -565,10 +567,10 @@ Ejemplo: Bhagavadgītā 1,1:
 :::
 Distribución de ⟪लघु⟫ (laghu) y ⟪गुरु⟫ (guru):
 
-::: metrik-schema
+::: verse-box
 — — — —    **◡ — — —**  ◡ ◡ — —    **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —    **◡ — — —**  ◡ ◡ — ◡    **◡ — ◡ —**
 :::
 ### 53.10.4. El śloka épico (⟪श्लोक⟫ m.) \<!--  --\>
@@ -597,11 +599,11 @@ La métrica más importante en los épicos (⟪महाभारत⟫, ⟪र�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 La segunda y tercera sílaba de un pāda no deben ser simultáneamente laghu (ligeras). En b y d, la secuencia de las sílabas 2 a 4 no puede ser ¯ ˘ ¯.
@@ -609,19 +611,19 @@ La segunda y tercera sílaba de un pāda no deben ser simultáneamente laghu (li
 **Esquemas secundarios (vipulā) para a y c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **En todas las formas de śloka, la cesura principal se encuentra al final del 2.° pāda: allí hay final de palabra o, en el caso de compuestos largos, final de un componente del compuesto.**
@@ -630,7 +632,7 @@ La segunda y tercera sílaba de un pāda no deben ser simultáneamente laghu (li
 ::: grammar-box
 **Identifique entre todos los versos estudiados hasta ahora las ślokas. Elabore por escrito el esquema métrico correspondiente a estos versos. Señale cualquier irregularidad o formas de Vipulā.**
 :::
-::: center
+::: verse-box
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  

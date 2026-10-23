@@ -2,7 +2,7 @@
 title: "பாடம் 58"
 subtitle: "இரட்டையின் முதன்மை முனைகள் (⟪द्विवचनम्⟫)"
 lesson_id: 58
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

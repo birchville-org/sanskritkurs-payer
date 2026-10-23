@@ -2,7 +2,7 @@
 title: "Lição 43"
 subtitle: 'Desinências pessoais da segunda pessoa (⟪मध्यमः⟫ = \"pessoa média\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

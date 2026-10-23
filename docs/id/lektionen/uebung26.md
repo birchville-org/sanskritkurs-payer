@@ -2,7 +2,7 @@
 title: "Latihan 26"
 uebung_id: 26
 category: "Latihan"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

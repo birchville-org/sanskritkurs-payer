@@ -2,7 +2,7 @@
 title: "练习 42"
 uebung_id: 42
 category: "练习"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Вправа 45"
 uebung_id: 45
 category: "Вправа"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

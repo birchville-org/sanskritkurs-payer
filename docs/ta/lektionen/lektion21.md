@@ -2,7 +2,7 @@
 title: "பாடம் 21"
 subtitle: "nt எனும் முன்னிலை மூலங்களைக் கொண்ட பிற"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

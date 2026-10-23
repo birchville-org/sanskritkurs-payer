@@ -2,7 +2,7 @@
 title: "תרגיל 31"
 uebung_id: 31
 category: "תרגיל"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

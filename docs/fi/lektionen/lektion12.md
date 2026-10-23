@@ -2,7 +2,7 @@
 title: "Oppitunti 12"
 subtitle: "Perfektin passiivin partisiippi (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Tässä tapauksessa PPP taivuttaa lukua, sijaa ja sukua samoin kuin objekti.
 Apuverbi ("olla") ei ole tarpeen.
 
 Esimerkkejä:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Pyhän saavutti taivaan) = Pyhä on saavuttanut taivaan."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahmanin palvoi jumalatarta uhraamalla) = Brahmani on palvonut jumalatarta uhraamalla."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Pyhän saavutti taivaan) = Pyhä on saavuttanut taivaan."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahmanin palvoi jumalatarta uhraamalla) = Brahmani on palvonut jumalatarta uhraamalla."
 :::
 
 ### 12.1.2. Kaava I intransitiivisille verbeille ja liikkeen verbeille
@@ -42,7 +42,7 @@ Esimerkkejä:
 Tässä tapauksessa PPP taivuttaa lukua, sijaa ja sukua samoin kuin agentti. "Passiivin" perfektin partisiipilla on intransitiivisten verbien (verbien ilman suoraa objektia) ja liikkeen verbien kohdalla aktiivinen merkitys.
 
 Esimerkki:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya-nainen on mennyt kaupunkiin."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya-nainen on mennyt kaupunkiin."
 :::
 
 ### 12.1.3. Kaavio II intransitiivisille verbeille ja liikkeen verbeille
@@ -51,7 +51,7 @@ Esimerkki:
 **Agens (kartṛ) instrumentaalisissa (tṛtīyā) -- PPP nominatiivin yksikön neutrimuodossa**
 
 Esimerkki:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriyan toimesta) (kaupunkiin) on menty” = Kṣatriya on (mennyt kaupunkiin).
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriyan toimesta) (kaupunkiin) on menty” = Kṣatriya on (mennyt kaupunkiin).
 
 Schema II:n rakenteita esiintyy huomattavasti harvemmin kuin schema I:n rakenteita.
 :::

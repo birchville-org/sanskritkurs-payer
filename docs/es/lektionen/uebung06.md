@@ -2,7 +2,7 @@
 title: "Ejercicio 6"
 uebung_id: 6
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -608,7 +608,5 @@ sarvathā kuśalam.
 
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung005))
-
-::: \<!--  --\>
 
 :::

@@ -2,7 +2,7 @@
 title: "Lekcija 21"
 subtitle: "Dalji prezentski korjeni na -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

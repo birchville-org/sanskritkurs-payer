@@ -2,7 +2,7 @@
 title: "Lectio 12"
 subtitle: "Participium Perfecti Passivi (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ PPP in hoc casu cum objecto numero, casu et genere convenit.
 Verbum auxiliare (esse) non necessarium est.
 
 Exemplaria:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(A sancto caelum adeptum est) = Sanctus caelum adeptus est."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(A Brahmano dea cum sacrificio venerata est) = Brahmanus deam cum sacrificio veneratus est."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(A sancto caelum adeptum est) = Sanctus caelum adeptus est."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(A Brahmano dea cum sacrificio venerata est) = Brahmanus deam cum sacrificio veneratus est."
 :::
 
 ### 12.1.2. Schema I pro verbis intransitivis et motus
@@ -42,7 +42,7 @@ Exemplaria:
 In hoc casu PPP cum agente numero, casu et genere convenit. Participium Perfectorum "Passivum" pro verbis intransitivis (verbis sine objecto directo) et motus activam significationem habet.
 
 Exemplum:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Mulier Kṣatriya in urbem abiit."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Mulier Kṣatriya in urbem abiit."
 :::
 
 ### 12.1.3. Schema II pro intransitivis verbis et motus verbis
@@ -51,7 +51,7 @@ Exemplum:
 **Agens (kartṛ) in Instrumentali (tṛtīyā) -- PPP in Nominativo Singulari Neutro**
 
 Exemplum:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A Kṣatriya est (in urbem) itum) = Kṣatriya (in urbem) iit.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A Kṣatriya est (in urbem) itum) = Kṣatriya (in urbem) iit.“
 
 Constructio secundum Schema II multo rarior est quam constructio secundum Schema I.
 :::

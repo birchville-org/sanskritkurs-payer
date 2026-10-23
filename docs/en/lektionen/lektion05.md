@@ -2,7 +2,7 @@
 title: "Lesson 5"
 subtitle: "Fundamentals of Nominal Compounds (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ The padas of compounds (not only dvandvas) generally take the form of the unchan
 Examples of plural dvandvas:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmins, Kṣatriyas, Vaiśyas and Śūdras)
-> 
-> or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((a/the) Brahmin, Kṣatriya, Vaiśya and Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmins, Kṣatriyas, Vaiśyas and Śūdras)
+
+or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((a/the) Brahmin, Kṣatriya, Vaiśya and Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (poets and teachers [Plural])
-> (Note: "A poet and a teacher" would have to be in the Dual!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(poets and teachers [Plural])
+(Note: "A poet and a teacher" would have to be in the Dual!)
+:::
 
 **For the order of members in a Dvandva compound, among other rules apply:**
 The designation of the different castes (**varṇa**) should be ordered according to their hierarchy (highest first).

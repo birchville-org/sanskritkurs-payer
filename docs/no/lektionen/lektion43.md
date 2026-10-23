@@ -2,7 +2,7 @@
 title: "Leksjon 43"
 subtitle: 'Personal endings of the second person (⟪मध्यमः⟫ = "middle <person>")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

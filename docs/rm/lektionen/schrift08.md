@@ -1,3 +1,4 @@
+
 # Esergiziun da scrittira 8
 
 Signs vocalics per l’inizi da la parola, sche la parola n’è betg colliada cun ina parola precedenta en la scrittira:

@@ -2,7 +2,7 @@
 title: "[Bài 38]"
 subtitle: "[Bài giải trong tuần]"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

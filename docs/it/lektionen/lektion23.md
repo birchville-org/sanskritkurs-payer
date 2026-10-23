@@ -2,7 +2,7 @@
 title: "Lezione 23"
 subtitle: "L'infinito (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Se si vuole esprimere in sanscrito che un'azione avviene per un'altra azione ("per"), si può usare l'infinito (⟪तुमुन्⟫) per l'azione per cui avviene. L'infinito indica principalmente lo scopo o l'intenzione:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma è andato per ascoltare il discorso del maestro."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma è andato per ascoltare il discorso del maestro."
 
 **Si noti che l'infinito - con alcune eccezioni ben definite - non può fungere da soggetto o oggetto di un verbo:**
 
-> "Impara a ballare" non si traduce quindi con l'infinito ("ballare"), ma si deve usare un nome verbale, ad esempio: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "imparare").
+"Impara a ballare" non si traduce quindi con l'infinito ("ballare"), ma si deve usare un nome verbale, ad esempio: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "imparare").
 
 **L'infinito è usato anche con verbi e sostantivi nel significato di "desiderare" o "bramare", quando l'agente (⟪कर्तृ⟫) dell'infinito e del verbo sono identici:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma desidera ascoltare il discorso del maestro."
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma desidera ascoltare il discorso del maestro."
 
 **L'infinito è inoltre usato con verbi nei significati di "essere in grado di", "esserci", "sapere", "iniziare":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Un santo non può fare un torto."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "C'è cibo da mangiare" (⟪भुज्⟫ 7: Ā: mangiare, P: governare)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Un santo non può fare un torto."
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "C'è cibo da mangiare" (⟪भुज्⟫ 7: Ā: mangiare, P: governare)
 
 **L'infinito è usato anche con parole nei significati di "sufficiente", "capace" e con sostantivi nei significati di "capacità", "forza", "abilità":**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Il fuoco ha il potere di bruciare tutto."
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Il fuoco ha il potere di bruciare tutto."
 
 **Anche con parole nel significato di "tempo" l'infinito può essere usato in espressioni come "È il momento di ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "È il momento di dedicarsi al cibo" = "È il momento di mangiare"
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "È il momento di dedicarsi al cibo" = "È il momento di mangiare"
 
 **L'infinito può essere usato attivamente e passivamente. Un infinito passivo in tedesco è reso in sanscrito ponendo il verbo (specialmente spesso ⟪शक्⟫ "essere in grado, potere"), dal quale dipende l'infinito, al passivo.**
 
@@ -44,13 +44,13 @@ status: stable
 
 ad esempio
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Un santo non può fare un torto."
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Un santo non può fare un torto."
 
 **Nella 2. persona ⟪अर्ह्⟫ + infinito è spesso usato come comando gentile: "Dovresti".**
 
 **Quando l'infinito dipende da un sostantivo, non può essere unito con questo in un composto. Fanno eccezione i Bahuvrīhi, il cui secondo membro è ⟪काम⟫ o ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "uno il cui desiderio è parlare; uno che desidera parlare".
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "uno il cui desiderio è parlare; uno che desidera parlare".
 :::
 ## 23.2. Formazione dell'infinito (⟪तुमुन्⟫)
 
@@ -85,7 +85,7 @@ Tra le radici finora apprese, si prestano particolare attenzione i seguenti infi
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
-\>\> -ra- come livello alto per -ṛ- hanno nell'infinitivo:
+-ra- come livello alto per -ṛ- hanno nell'infinitivo:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

@@ -2,7 +2,7 @@
 title: "Pamoka 50"
 subtitle: "Daiktavardžių darymas: reguliarus laipsniavimas"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

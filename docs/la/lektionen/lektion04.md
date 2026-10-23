@@ -2,7 +2,7 @@
 title: "Lectio 4"
 subtitle: "Pronominalia interrogativa et demonstrativa in casu nominativo"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ His pronominibus formantur e.g. sequentes formulae interrogativae:
 :::
 Exemplum aliarum quaestionum:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Responsio: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hic in sententia nominali subjectum, exempli gratia, ad initium poni potest, ut nexus cum quaestione magis efferatur.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Responsio: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hic in sententia nominali subjectum, exempli gratia, ad initium poni potest, ut nexus cum quaestione magis efferatur.)
+:::
 
 ANNOTATIO: Responso, quae cum vestris adhuc Sanscriti notitiis ad has quaestiones dare potestis, sane nondem omnibus ex partibus idiomate bono Sanscrito respondent.
 

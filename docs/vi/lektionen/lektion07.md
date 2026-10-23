@@ -2,7 +2,7 @@
 title: "[Bài 7]"
 subtitle: "[Câu vị ngữ với tân ngữ trực tiếp]"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Bài 7
 
 
-::: center
+::: verse-box
 **Câu nói trong tuần**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ Thượng đế thắng, ma vương thua.
 ::: grammar-box
 **Sơ đồ:**
 **(Chủ ngữ = kartṛ m. = ⟪कर्तृ⟫) – Tân ngữ trực tiếp (karman n. = ⟪कर्मन्⟫) – Động từ**
+:::
 
+::: indent
 Ví dụ:
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma ăn (kaut) một quả."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman thờ phụng một vị thần bằng lễ tế (cho người khác)."

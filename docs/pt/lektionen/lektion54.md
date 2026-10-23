@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,36 +48,36 @@ A ⟪त्रिष्टुभ्⟫ tem dois esquemas básicos, dependendo se
 Esquema I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Esquema II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 A quantidade das quatro últimas sílabas é, portanto, igual em ambos os esquemas.
 
 Forma básica do ⟪जगती⟫: como no ⟪त्रिष्टुभ्⟫, mas com 12 sílabas. As últimas 5 sílabas de cada pada têm as seguintes quantidades:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Além disso, existe o chamado ⟪त्रिष्टुभ्⟫ tipicamente supranumerário com uma abertura de cinco sílabas, que continua como um ⟪त्रिष्टुभ्⟫ com uma abertura de quatro sílabas:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 Em tempos posteriores, as formas do ⟪त्रिष्टुभ्⟫ são fixadas de acordo com um esquema estrito de sílabas longas e breves, a cesura já não desempenha qualquer papel. As formas posteriores mais importantes são:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

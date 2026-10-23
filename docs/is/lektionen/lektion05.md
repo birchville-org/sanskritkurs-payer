@@ -2,7 +2,7 @@
 title: "Lección 5"
 subtitle: "Grundvallaratriði samsettra nafnorða (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -68,16 +68,20 @@ The prefixes of compounds (not only Dvandvas) generally have the form of the unc
 Examples of plural dvandvas:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmans, Kṣatriyas, Vaiśyas and Śūdras)
-> 
-> or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((a/the) Brahman, Kṣatriya, Vaiśya and Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmans, Kṣatriyas, Vaiśyas and Śūdras)
+
+or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((a/the) Brahman, Kṣatriya, Vaiśya and Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (poets and teachers [Plur.])
-> (Note: "One poet and one teacher" would have to be in the dual!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(poets and teachers [Plur.])
+(Note: "One poet and one teacher" would have to be in the dual!)
+:::
 
 **Eftirfarandi reglur gilda meðal annars um röð liða í Dvandva:**
 Heiti stéttanna (**varṇa**) skal raðað eftir stigveldi þeirra (hæst fyrst).

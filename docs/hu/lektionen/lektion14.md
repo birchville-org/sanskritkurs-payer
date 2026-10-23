@@ -2,7 +2,7 @@
 title: "14. lecke"
 subtitle: "A főnevekkel jelölt dolgok közötti viszony kifejezése: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatodik esetrag)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Példák:
 ::: grammar-box
 A szórend általában a következő:
 
-> **Birtokos esetű határozó szó — Másik esetszámú, pontosított főnév**
+**Birtokos esetű határozó szó — Másik esetszámú, pontosított főnév**
 :::
 **Birtokos eset és PPP:**
 
@@ -37,9 +37,9 @@ A PPP-k esetén a birtokos eset az eszközhatározó (tṛtīyā) helyett állha
 
 Pāṇini 2.3.67 szabálya szerint a PPP esetén a birtokos eset áll, ha az igeképző jelen időt jelent (lásd fent), az eszközhatározó pedig, ha múlt időt fejez ki:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "A Rāma által kívánt gyümölcs = Az a gyümölcs, amelyet Rāma jelenleg kíván"
-> 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Az a gyümölcs, amelyet Rāma kívánt"
+⟪रामस्येष्टं⟫ ⟪फलम्⟫ "A Rāma által kívánt gyümölcs = Az a gyümölcs, amelyet Rāma jelenleg kíván"
+
+⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Az a gyümölcs, amelyet Rāma kívánt"
 
 Természetesen egy PPP semleges nemű egyes számú alaknál, amelyet névmási igeképzőként – azaz főnévként – használnak, a birtokos eset áll.
 :::
@@ -56,7 +56,7 @@ Mássalhangzó után a rendszeres birtokos eset végződése:
 * többes szám: **-ām**
 
 :::
-::: center
+::: verse-box
 
 | Névstammbázis | Schwacher Tő | birtokos eset (genitivus) egyes szám | birtokos eset (genitivus) többes szám |
 | :--- | :--- | :--- | :--- |
@@ -72,10 +72,10 @@ Mássalhangzó után a rendszeres birtokos eset végződése:
 
 A magánhangzó végződésű tövek többes számának birtokos esete így képződik:
 
-> **-hosszú végződő magánhangzó a tövben + -nām**
+**-hosszú végződő magánhangzó a tövben + -nām**
 
 :::
-::: center
+::: verse-box
 
 | Névstám | birtokos eset (genitivus) többes szám |
 | :--- | :--- |
@@ -96,7 +96,7 @@ A magánhangzó végződésű tövek többes számának birtokos esete így kép
 A magánhangzó végződésű tövek genetivus singularisát szabálytalanul képezik, és jól memorizálni kell.
 
 :::
-::: center
+::: verse-box
 
 | Tő | Genetivus singularis |
 | :--- | :--- |
@@ -112,7 +112,7 @@ A magánhangzó végződésű tövek genetivus singularisát szabálytalanul ké
 :::
 **Kérdő- és mutatószók:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,14 +124,14 @@ A magánhangzó végződésű tövek genetivus singularisát szabálytalanul ké
 :::
 **Formamegfelelés:**
 
-::: important
+::: warning-box
 
 Minden névszó tőnél, kivéve a -a végződésű hímneműeket és középneműeket, valamint a névmásokat, a genetivus singularis alakja megegyezik az ablativus (pañcamī "ötös esetrag") singularis alakjával!
 
 :::
 **Formengleichheit:**
 
-::: important
+::: warning-box
 
 Minden névi tőnél, az -a végű hímnemű és középnemű kivételével, valamint a névmásoknál az egyes szám birtokos eset formája megegyezik az ötödik eset (pañcamī „ötös esetrag”) egyes szám elvételével!
 
@@ -143,11 +143,11 @@ Vegye észre, hogy a mássalhangzóra végződő töveknél az egyes szám elvé
 ::: grammar-box
 A fenti alapszabály ellenére a birtokos esetet használják egyes igék tárgyának kifejezésére, például az emlékezés igéinél:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Emlékezik az istenekről"
+⟪देवानां⟫ ⟪स्मरति⟫ "Emlékezik az istenekről"
 
 Ezeknél a igék esetén azonban az alany állhat akkuzatívban is:
 
-> ⟪देवान्स्मरति⟫ "Emlékezik az istenekről"
+⟪देवान्स्मरति⟫ "Emlékezik az istenekről"
 
 Továbbiak később.
 :::

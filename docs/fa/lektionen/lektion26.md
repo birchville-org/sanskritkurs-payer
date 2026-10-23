@@ -2,7 +2,7 @@
 title: "درس ۲۶"
 subtitle: "قانون سیری‌شدگی برای -s- در میان واژه"
 lesson_id: 26
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Exercício 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 # Exercício 49
@@ -67,9 +67,11 @@ Perguntas do rei ⟪शूद्रक⟫ de ⟪विदिशा⟫ ao papagai
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> O rei disse: "Deixe tudo isso de lado! Satisfaza nossa curiosidade! Senhor, conte-nos desde o início: Em que país você nasceu? Quem lhe deu o nome? Quem é sua mãe? Como você recebeu os Vedas? Como se familiarizou com as obras didáticas? De onde adquiriu as artes? Você consegue lembrar de nascimentos anteriores ou realizar desejos? Ou você habita, vestindo a pele de um pássaro, um esconderijo? Ou onde você morava antes? Ou quantos anos você tem? Como foi capturado em uma gaiola? E como caiu nas mãos dos cāṇḍālas? Ou como veio parar aqui?"
-\>
-> Vaiśampāyana, porém, que havia sido perguntado pelo Senhor da Terra com uma curiosidade espontânea e grande respeito, refletiu por um momento e então respondeu com plena reverência: "Rei, esta é uma história longa. Se você estiver interessado, preste atenção!"
+::: indent
+O rei disse: "Deixe tudo isso de lado! Satisfaza nossa curiosidade! Senhor, conte-nos desde o início: Em que país você nasceu? Quem lhe deu o nome? Quem é sua mãe? Como você recebeu os Vedas? Como se familiarizou com as obras didáticas? De onde adquiriu as artes? Você consegue lembrar de nascimentos anteriores ou realizar desejos? Ou você habita, vestindo a pele de um pássaro, um esconderijo? Ou onde você morava antes? Ou quantos anos você tem? Como foi capturado em uma gaiola? E como caiu nas mãos dos cāṇḍālas? Ou como veio parar aqui?"
+
+Vaiśampāyana, porém, que havia sido perguntado pelo Senhor da Terra com uma curiosidade espontânea e grande respeito, refletiu por um momento e então respondeu com plena reverência: "Rei, esta é uma história longa. Se você estiver interessado, preste atenção!"
+:::
 
 ::: media
 ![](/images/uebung079.webp)

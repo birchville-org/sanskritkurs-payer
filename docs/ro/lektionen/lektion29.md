@@ -2,7 +2,7 @@
 title: "Lecție 29"
 subtitle: "Utilizarea Parasmaipada (⟪परस्मैपद⟫) și Ātmanepada (⟪आत्मनेपद⟫) în causativ"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

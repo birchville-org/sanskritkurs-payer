@@ -2,7 +2,7 @@
 title: "Latihan 38"
 uebung_id: 38
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -55,11 +55,11 @@ Good kings grant people fearlessness.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Jika raja-raja tidak menegakkan keadilan dan adat, rakyat dipenuhi ketakutan.
-:::: media
+:::
+::: media
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Sumber gambar: [Details](/en/licenses#uebung063))
-::::
 :::
 ---
 

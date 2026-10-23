@@ -2,7 +2,7 @@
 title: "Lição 21"
 subtitle: "Outras raízes de presente em -nt"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lekce 49"
 subtitle: "Tvoření imperativu (⟪लोट्⟫) athematických kmenů přítomného času (pokračování)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

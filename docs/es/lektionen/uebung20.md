@@ -2,7 +2,7 @@
 title: "Ejercicio 20"
 uebung_id: 20
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -292,5 +292,4 @@ Los pobres, que no desean, tienen muchos hijos, los ricos no tienen un solo hijo
 ![](/images/uebung032.webp)
 Fig.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung032))
-::: \<!--  --\>
 :::

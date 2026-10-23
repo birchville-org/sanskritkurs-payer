@@ -2,7 +2,7 @@
 title: "पाठ 6"
 subtitle: "क्रियावाक्य की रचना (कर्ता और क्रिया रूप)"
 lesson_id: 6
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

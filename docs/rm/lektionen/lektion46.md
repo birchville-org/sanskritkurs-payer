@@ -2,7 +2,7 @@
 title: "Lecziun 46"
 subtitle: "Furmaziun dals verbs da la segunda persuna (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ quai da:
 :::
 Per ⟪राहु⟫ e ⟪केतु⟫ vesair:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introducziun e survista. -- 10. Sacraments e ritgs da transiziun (samskara). -- Appendix C: Rahu e Ketu, las stailas invisiblas dal moviment. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois \<1944 - \>:** Dharmashastra : Introducziun e survista. -- 10. Sacraments e ritgs da transiziun (samskara). -- Appendix C: Rahu e Ketu, las stailas invisiblas dal moviment. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/rm/licenses#lekt4602)

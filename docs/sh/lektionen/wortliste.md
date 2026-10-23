@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-::: note-box Četiri staleža (varna)
+::: note-box
+**Četiri staleža (varna)**
+
 
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed as follows:
 
@@ -518,9 +520,6 @@ to **yaj** 1 U:
 
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
-:::
-
-::: literatur-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 
@@ -564,7 +563,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
 **saha** ⟪सह⟫ : together with, jointly with (also in the context of "to fight with" etc.) (Postposition with Instrumental)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 
@@ -608,7 +607,7 @@ Fig.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
 **saha** ⟪सह⟫ : together with, jointly with (also in the context of "to fight with" etc.) (Postposition with Instrumental)
 
-::: literatur-box
+::: note-box
 
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 
@@ -841,17 +840,19 @@ Naučite se sljedećih riječi:
 **eva** ⟪एव⟫ : naglašava prethodnu riječ
 **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Duševno, božansko.'
->
-> U najstarijim dijelovima Ṛgvede ovaj se termin koristi za vrhovnog duha i isti je kao Ahura kod Zoroastrijanaca. U smislu 'boga' primjenjivao se na nekoliko glavnih božanstava, kao što su Indra, Agni i Varuṇa. Kasnije je steklo potpuno suprotan značenje i počelo označavati, kao sada, demona ili neprijatelja bogova.
->
-> Riječ se nalazi s tim značenjem u kasnijim dijelovima Ṛgvede, posebno u posljednjoj knjizi, a također i u Atharvavedi. Brāhmaṇas pridaju joj isto značenje i bilježe mnoge sukobe između Asura i bogova. Prema Taittirīya Brāhmaṇi, dah *(asu)* Prajapatija oživio je i "tim dahom stvorio sam Asure." U drugom dijelu istog djela kaže se da je Prajāpati "postao trudan. Stvorio je Asure iz svog trbuha." Śatapatha Brāhmaṇa slaže se s prethodnom izjavom i navodi da je "stvorio Asure iz svog donjeg daha." Taittirīya Āraṇyaka predstavlja da je Prajāpati stvorio bogove, ljude, očeve, Gandharve i Apsarase iz vode, a da su Asure, Rakṣase i piśāce proizašli iz kapi koje su se prosule. Manuova tvrdnja je da su ih stvorili Prajāpatiji.
->
-> Prema Viṣṇu Purāṇi, proizvedeni su iz bedra Brahma (prajāpati). Izvještaj Vāyu Purāṇe glasi: "Asure su prvi put proizvedeni kao sinovi iz njegovog (Prajāpati) bedra. *Asu* Brāhmaṇa proglašava da znači dah. Od njega su ova bića proizvedena; stoga su Asure." Riječ se dugo koristi kao opći naziv za neprijatelje bogova, uključujući Daitye i Danave te druge potomke Kaśyape, ali ne i Rakṣase koji potječu od Pulastyje.
->
-> U ovom smislu pronađena je drugačija derivacija za nju: izvor više nije asu, 'dah', već se početno *a* uzima kao negativni prefiks, a *asura* znači 'nije bog'; stoga je, prema nekima, nastala riječ *sura*, koja se obično koristi za 'boga.'"
->
-> [Izvor: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Duševno, božansko.'
+
+U najstarijim dijelovima Ṛgvede ovaj se termin koristi za vrhovnog duha i isti je kao Ahura kod Zoroastrijanaca. U smislu 'boga' primjenjivao se na nekoliko glavnih božanstava, kao što su Indra, Agni i Varuṇa. Kasnije je steklo potpuno suprotan značenje i počelo označavati, kao sada, demona ili neprijatelja bogova.
+
+Riječ se nalazi s tim značenjem u kasnijim dijelovima Ṛgvede, posebno u posljednjoj knjizi, a također i u Atharvavedi. Brāhmaṇas pridaju joj isto značenje i bilježe mnoge sukobe između Asura i bogova. Prema Taittirīya Brāhmaṇi, dah *(asu)* Prajapatija oživio je i "tim dahom stvorio sam Asure." U drugom dijelu istog djela kaže se da je Prajāpati "postao trudan. Stvorio je Asure iz svog trbuha." Śatapatha Brāhmaṇa slaže se s prethodnom izjavom i navodi da je "stvorio Asure iz svog donjeg daha." Taittirīya Āraṇyaka predstavlja da je Prajāpati stvorio bogove, ljude, očeve, Gandharve i Apsarase iz vode, a da su Asure, Rakṣase i piśāce proizašli iz kapi koje su se prosule. Manuova tvrdnja je da su ih stvorili Prajāpatiji.
+
+Prema Viṣṇu Purāṇi, proizvedeni su iz bedra Brahma (prajāpati). Izvještaj Vāyu Purāṇe glasi: "Asure su prvi put proizvedeni kao sinovi iz njegovog (Prajāpati) bedra. *Asu* Brāhmaṇa proglašava da znači dah. Od njega su ova bića proizvedena; stoga su Asure." Riječ se dugo koristi kao opći naziv za neprijatelje bogova, uključujući Daitye i Danave te druge potomke Kaśyape, ali ne i Rakṣase koji potječu od Pulastyje.
+
+U ovom smislu pronađena je drugačija derivacija za nju: izvor više nije asu, 'dah', već se početno *a* uzima kao negativni prefiks, a *asura* znači 'nije bog'; stoga je, prema nekima, nastala riječ *sura*, koja se obično koristi za 'boga.'"
+
+[Izvor: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 
@@ -4771,7 +4772,9 @@ from this:
 
 To ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois (1944–):** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra: Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 
@@ -5565,7 +5568,9 @@ not used in other tenses
 
 ⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck : _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sind to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [etc.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- pp. 1193f.
+:::
 
 ::: media
 

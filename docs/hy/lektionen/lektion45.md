@@ -2,7 +2,7 @@
 title: "Դաս 45"
 subtitle: "Երկրորդ դեմքի ձևերի կազմումը (⟪मध्यमः⟫) անշնչառական արմատների համար՝ առանց վանկավերջ ձայնավորով ավարտվող հավելվածի (շարունակություն)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

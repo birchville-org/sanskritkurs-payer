@@ -71,7 +71,7 @@ Voorbeelden:
 :::
 ## 32.4. Voorbeelden voor de vorming van het Imperfectum
 
-::: important
+::: warning-box
 **Om de vorming van de vormen te demonstreren, worden hier ook Ātmanepada-vormen gevormd voor Parasmaipada-wortels! Deze kunstmatige vormen staan tussen \< \>.**
 :::
 [76] ### 32.4.1. Thematische tegenwoordige tijd klassen
@@ -579,7 +579,7 @@ Vertaal en bepaal de volgende woordvormen:
 
 ## 32.9. Vertaaloefening
 
-::: compact
+::: verse-box
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
 ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br

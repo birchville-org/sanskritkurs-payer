@@ -2,7 +2,7 @@
 title: "ਪਾਠ 29"
 subtitle: "ਕਾਰਕ ਵਿੱਚ ਪਰਸਮੈਪਦ (⟪परस्मैपद⟫) ਅਤੇ ਆਤਮਨੇਪਦ (⟪आत्मनेपद⟫) ਦੀ ਵਰਤੋਂ"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

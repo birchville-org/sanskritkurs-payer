@@ -2,7 +2,7 @@
 title: "Exercițiul 7"
 uebung_id: 7
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Ders 23"
 subtitle: "Sıfat (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Sanskrit'te bir eylemin başka bir eylem uğruna gerçekleştiğini ("...mak için") ifade etmek istendiğinde, gerçekleştirilmek üzere olan eylem için edatgen (⟪तुमुन्⟫) kullanılabilir. Edatgen öncelikle amacı veya niyeti belirtir:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma, üstadın konuşmasını duymak için gitti."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma, üstadın konuşmasını duymak için gitti."
 
 **Edatgenin - bazı kesin tanımlı istisnalar dışında - bir fiilin özne veya nesnesi olarak duramayına dikkat ediniz:**
 
-> "Dans etmeyi öğrenir" cümlesi bu nedenle edatgen ("dans etmek") ile değil, bir fiil ismi kullanarak çevrilmelidir; örn.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "öğrenmek").
+"Dans etmeyi öğrenir" cümlesi bu nedenle edatgen ("dans etmek") ile değil, bir fiil ismi kullanarak çevrilmelidir; örn.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "öğrenmek").
 
 **Edatgen, ayrıca "dilemek" veya "özlemek" anlamlarındaki fiiller ve isimlerle, edatgenin özne'si (⟪कर्तृ⟫) ile fiilin öznesi aynı olduğunda kullanılır:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma, üstadın konuşmasını duymak ister."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma, üstadın konuşmasını duymak ister."
 
 **Edatgen ayrıca "yapabilmek", "var olmak", "bilmek", "başlamak" anlamlarındaki fiillerle de kullanılır:**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Bir aziz hata yapamaz."
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Yenilecek yemek var" (⟪भुज्⟫ 7: Ā: yemek, P: yönetmek)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Bir aziz hata yapamaz."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Yenilecek yemek var" (⟪भुज्⟫ 7: Ā: yemek, P: yönetmek)
 
 **Edatgen ayrıca "yeterli", "yetenekli" anlamlarındaki kelimelerle ve "beceri", "güç", "ustalık" anlamlarındaki isimlerle de kullanılır:**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ateş her şeyi yakma gücüne sahiptir."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Ateş her şeyi yakma gücüne sahiptir."
 
 **Zamân anlamındaki kelimelerle birlikte, "… yapma zamanıdır" gibi ifadelerde infinitif kullanılabilir:**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Yemeğe yönelme zamanıdır" = "Yemek yeme zamanıdır"
+⟪कालो भोजनं सेवितुम्⟫ = "Yemeğe yönelme zamanıdır" = "Yemek yeme zamanıdır"
 
 **Infinitif aktif ve pasif olarak kullanılabilir. Almancadaki bir pasif infinitif, Sanskritçe'de genellikle ⟪शक्⟩ "yapabilmek, yetenekli olmak" fiilinin pasife çekilmesiyle ifade edilir; bu fiilden infinitif türemiştir.**
 
@@ -44,13 +44,13 @@ status: stable
 
 örn.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Bir aziz haksızlık yapamaz."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟩ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟩ = "Bir aziz haksızlık yapamaz."
 
 **2. şahısta ⟪अर्ह्⟩ + infinitif genellikle yumuşatılmış bir emir olarak kullanılır: "Sen yapmalısın."**
 
 **Infinitif bir isimden türemişse, bu iki kelime bileşik oluşturmak üzere bağlanamaz. İstisna olarak, ikinci bileşeni ⟪काम⟩ veya ⟪मनस्⟩ olan Bahuvrīhi bileşikler vardır:**
 
-> ⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "Konuşmak isteyen; konuşmayı arzulayan biri."
+⟪वक्तुकामः⟩ = ⟪वक्तुं कामो यस्य सः⟩ = "Konuşmak isteyen; konuşmayı arzulayan biri."
 :::
 ## 23.2. Infinitifin Oluşturulması (⟪तुमुन्⟩)
 

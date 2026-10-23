@@ -2,7 +2,7 @@
 title: "Lekce 50"
 subtitle: "Tvoření podstatných jmen: pravidelné stupňování"
 lesson_id: 50
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

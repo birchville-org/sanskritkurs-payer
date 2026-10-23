@@ -2,7 +2,7 @@
 title: "الدرس 16"
 subtitle: "حول ساندِ الحروف الساكنة في نهاية الكلمة"
 lesson_id: 16
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

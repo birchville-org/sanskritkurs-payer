@@ -3,8 +3,8 @@ title: "ლექცია 2"
 subtitle: "სახელობითი წინადადება და დეკლინაციის ფუნდამენტები"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **სქემა: პრედિકატიული სახელი - სუბიექტი**
+:::
 
+::: indent
 მაგ., devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "ვიშნუ ღმერთია."
 :::
 ვერბალური კოპულა ("არის", "იყვნენ", "მე ვარ", "შენ ხარ", "თქვენ ხართ") საჭირო არ არის, მაგრამ ზოგჯერ შეიძლება გვხვდებოდეს.
@@ -76,7 +78,9 @@ last_reconstructed: 2026-04-30
 
 იხ. ასევე შეჯამება:
 
-> **Payer, Alois (1944–):** ბოლო -s-ის სანდჰი. -- (სანსკრიტის მასალები). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** ბოლო -s-ის სანდჰი. -- (სანსკრიტის მასალები). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 ბოლო **-s**:
 
@@ -120,7 +124,9 @@ last_reconstructed: 2026-04-30
 
 **śūdra** m. -- ⟪शूद्र⟫ : შუდრა (სამსახურის კასტა).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**ოთხი წოდება (varṇa)**
+
 კლასიკური თეორიის მიხედვით (მაგ. Manusmṛti I, 88-91) მოვალეობები განაწილებულია:
 
 **ბრაჰმანების**

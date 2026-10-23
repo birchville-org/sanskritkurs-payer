@@ -756,7 +756,7 @@ Fig.: Melodia, ad c referens, secundum regionem vocis transponi potest.
 
 Postquam nunc fundamenta Sanscriti didicisti, spero te ut parvuli in video esse: interdum ineptus, sed discendi et sciendi cupidus et laetia in re. Retine usque ad finem vitae tuae "mens principiantis".
 
-::: center
+::: verse-box
 Hoc tibi optat tuus Alois Payer
 
 Ofterdingen, 2009-03-09

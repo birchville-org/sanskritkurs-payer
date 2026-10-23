@@ -2,7 +2,7 @@
 title: "ቀጥታ ክፍል 29"
 subtitle: "በካውሴቲቭ ውስጥ የፓራስማይፓዳ (⟪परस्मैपद⟫) እና አትማነፓዳ (⟪आत्मनेपद⟫) ተጠቃሚነት"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

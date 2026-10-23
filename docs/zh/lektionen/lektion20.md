@@ -2,7 +2,7 @@
 title: "第20課"
 subtitle: "所有複合詞 = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

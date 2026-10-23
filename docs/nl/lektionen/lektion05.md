@@ -2,7 +2,7 @@
 title: "Les 5"
 subtitle: "Grondslagen van de nominale samenstellingen (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -62,11 +62,15 @@ De voorleden van samengestelde woorden (niet alleen dvandva’s) hebben in de re
 Voorbeelden van meervouds-Dvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫ (brahmanen, kṣatriya’s, vaiśya’s en śūdra’s)
-\> 
-\> of = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫ ((een) Brahmaan, Kṣatriya, Vaiśya en Śūdra)
+::: indent
+
+of = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫ ((een) Brahmaan, Kṣatriya, Vaiśya en Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫ = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫ (dichters en leraren [mv.])
-\> (Opmerking: „Een dichter en een leraar” zou in het dual moeten staan!)
+::: indent
+(Opmerking: „Een dichter en een leraar” zou in het dual moeten staan!)
+:::
 
 **Voor de volgorde van de leden in een Dvandva gelden o.a. de volgende regels:**
 De benaming van de verschillende standen (**varṇa**) dient volgens hun hiërarchie (hoogste eerst) geordend te worden.

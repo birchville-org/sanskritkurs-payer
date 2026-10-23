@@ -2,7 +2,7 @@
 title: Lektion 21
 subtitle: "其他以 -nt 结尾的现在词干"
 lesson_id: 21
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

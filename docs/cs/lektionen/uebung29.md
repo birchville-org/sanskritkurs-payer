@@ -2,7 +2,7 @@
 title: "Cvičení 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Nevědomost znamená, že člověk považuje pomíjivé, nečisté, trpící a r
 
 Před příliš přísnou vládou (daṇḍa) by se bytosti měly třást. Slabá vláda je opovrhována. Spravedlivě vyvážená vláda je ctěna. Moudře vedená vláda podporuje u poddaných právo, prospěch a radost. Špatně vedená vláda z důvodu vášní nebo nenávisti či opovržení rozhořčí i starce a lesní askety, natožpak domovníky. Nevykonávaná vláda způsobuje stav podle zásady „velké ryby polyší malé“ (mātsyanayāya). Pokud není nikdo, kdo by vládu udržoval, silnější pohlcuje slabšího. Pokud je slabý chráněn vládcem, daří se mu.
 
-> Svět se svými čtyřmi stavy a životními fázemi  
-> Je králem chráněn prostřednictvím vlády:  
-> Radostný z činnosti podle vlastního práva a vlastní zvyklosti  
-> Pohybuje se na svých vlastních drahách.
+::: indent
+Svět se svými čtyřmi stavy a životními fázemi
+Je králem chráněn prostřednictvím vlády:
+Radostný z činnosti podle vlastního práva a vlastní zvyklosti
+Pohybuje se na svých vlastních drahách.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

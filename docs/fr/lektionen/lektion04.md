@@ -2,7 +2,7 @@
 title: "Leçon 4"
 subtitle: "Pronoms interrogatifs et pronoms démonstratifs au nominatif"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -100,7 +100,9 @@ La substitution devant d'autres consonantes sera abordée plus tard. Évitez pro
 
 Un exemple d'autres questions :
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Réponse : viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Ici, on peut placer le sujet d’une phrase nominale au début, par exemple, pour souligner la continuité avec la question.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Réponse : viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Ici, on peut placer le sujet d’une phrase nominale au début, par exemple, pour souligner la continuité avec la question.)
+:::
 
 REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos connaissances actuelles en sanskrit ne correspondent bien sûr pas encore à un bon sanskrit idiomatique à tous égards.
 

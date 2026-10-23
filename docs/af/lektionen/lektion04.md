@@ -2,7 +2,7 @@
 title: "Lesing 4"
 subtitle: "Vraëpronomena en demonstratiewe pronomena in die nominatief"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Met behulp van hierdie voornaamwoorde vorm men byvoorbeeld die volgende vraeform
 :::
 'n Voorbeeld van ander vrae:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Antwoord: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In 'n nominale sin kan die onderwerp byvoorbeeld na die begin geplaas word om aansluiting by die vraag te beklemtoon.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Antwoord: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In 'n nominale sin kan die onderwerp byvoorbeeld na die begin geplaas word om aansluiting by die vraag te beklemtoon.)
+:::
 
 AANTEKENING: Die antwoorde wat u met u tot dusver verkryde Sanskritkennis op sulke vrae kan gee, stem natuurlik nog nie in elke opsig idiomaties goeie Sanskrit nie.
 

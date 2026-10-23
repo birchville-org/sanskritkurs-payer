@@ -2,7 +2,7 @@
 title: "Latihan 33"
 uebung_id: 33
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,9 +110,9 @@ Makhluk yang terbatas secara intelektual melakukan perbuatan terpuji dan menjauh
 ![](/images/uebung055.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Image source: [Details](/en/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Image source: [Details](/en/licenses#uebung056))
-::::
 :::

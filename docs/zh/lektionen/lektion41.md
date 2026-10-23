@@ -2,7 +2,7 @@
 title: "第41課"
 subtitle: "⟪सुभाषिते⟫ （兩則諺語）"
 lesson_id: 41
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

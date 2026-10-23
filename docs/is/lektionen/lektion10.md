@@ -2,7 +2,7 @@
 title: "Lección 10"
 subtitle: "La oración pasiva (Instrumental del agente)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agent - kartṛ - in the Instrumental (tṛtīyā)) - (direct object - karman - in the Nominative) - passive verbal form**
+:::
 
+::: indent
 e.g. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "A Brahman worships a god with an offering" (literally: "A god is worshipped by a Brahman with an offering.")
-
 This sentence is **completely (!) semantically identical** to the sentence:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatively: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 :::
 Sanskrit passive constructions are extremely common: the passive is, after all, easier to form than numerous present stems.
 
-::: important
+::: warning-box
 **Sanskrit passive sentences should generally not be rendered in German using a passive construction, as the German passive serves a completely different stylistic function.**
 :::
 
@@ -234,8 +235,6 @@ e.g. **tan** 8 U.
 ::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Read and translate, then convert to the passive voice:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

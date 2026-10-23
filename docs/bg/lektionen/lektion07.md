@@ -2,7 +2,7 @@
 title: "Урок 7"
 subtitle: "Глаголно изречение с директен обект"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # Урок 7
 
 
-::: center
+::: verse-box
 **Седмичен изречение**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **Схема:**
 **(Агент = kartṛ м. = ⟪कर्तृ⟫) – директен обект (karman с. = ⟪कर्मन्⟫) – глагол**
+:::
 
+::: indent
 напр.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : „Рама яде (кълва) плод.“
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : „Брахманът почита бог с жертвоприношение (за друг).“

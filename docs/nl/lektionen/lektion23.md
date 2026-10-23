@@ -2,7 +2,7 @@
 title: "Les 23"
 subtitle: "De infinitief (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -14,27 +14,27 @@ status: stable
 ::: grammar-box
 **Als men in het Sanskriet wil uitdrukken dat een handeling omwille van een andere handeling plaatsvindt (“om te”), kan men voor de handeling omwille waarvan deze plaatsvindt de infinitief (⟪तुमुन्⟫) gebruiken. De infinitief duidt in de eerste plaats het doel of de bedoeling aan:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma is gegaan om de toespraak van de meester te horen."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma is gegaan om de toespraak van de meester te horen."
 
 **Let op: de infinitief kan – op enkele vastomlijnde uitzonderingen na – niet als onderwerp of lijdend voorwerp van een werkwoord fungeren:**
 
-> „Hij leert dansen“ mag dus niet met de infinitief („dansen“) worden vertaald, maar er moet een werkwoordelijk naamwoord worden gebruikt, bijvoorbeeld: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „leren”).
+„Hij leert dansen“ mag dus niet met de infinitief („dansen“) worden vertaald, maar er moet een werkwoordelijk naamwoord worden gebruikt, bijvoorbeeld: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „leren”).
 
 **De infinitief wordt ook gebruikt met werkwoorden en zelfstandige naamwoorden in de betekenis van "wensen" of "verlangen", wanneer de agent (⟪कर्तृ⟫) van de infinitief en van het werkwoord identiek zijn:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wenst de toespraak van de Meester te horen."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wenst de toespraak van de Meester te horen."
 
 **De infinitief wordt onder andere ook gebruikt bij werkwoorden met de betekenissen "in staat zijn", "er is", "weten" en "beginnen":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Een heilige kan geen onrecht doen."  
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Er is eten" (⟪भुज्⟫ 7: Ā: eten, P: regeren)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Een heilige kan geen onrecht doen."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Er is eten" (⟪भुज्⟫ 7: Ā: eten, P: regeren)
 
 **De infinitief wordt ook gebruikt met woorden in de betekenissen „voldoende”, „bekwaam” en met zelfstandige naamwoorden in de betekenissen „bekwaamheid”, „kracht”, „vaardigheid”:**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vuur heeft de macht om alles te verbranden."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vuur heeft de macht om alles te verbranden."
 **Ook met woorden die ‘tijd’ betekenen, kan de infinitief worden gebruikt in uitdrukkingen als ‘Het is tijd om …’:**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Het is tijd om aan het eten te beginnen" = "Het is tijd om te eten"
+⟪कालो भोजनं सेवितुम्⟫ = "Het is tijd om aan het eten te beginnen" = "Het is tijd om te eten"
 
 **De infinitief kan zowel in de actieve als in de passieve vorm worden gebruikt. Een passieve infinitief in het Duits wordt in het Sanskriet weergegeven door het werkwoord (vooral vaak ⟪शक्⟫ "in staat zijn, kunnen"), waarvan de infinitief afhangt, in de passieve vorm te zetten.**
 
@@ -42,13 +42,13 @@ status: stable
 
 bijv.
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "Een heilige kan geen onrecht doen."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "Een heilige kan geen onrecht doen."
 
 **In de tweede persoon wordt ⟪अर्ह्⟫ + de infinitief vaak gebruikt als een milde bevelsvorm: "Je zou moeten".**
 
 **Als de infinitief afhankelijk is van een zelfstandig naamwoord, mag deze niet met dit zelfstandig naamwoord worden samengevoegd tot een samengesteld woord. Uitzonderingen hierop zijn bahuvrīhi’s waarvan het tweede lid ⟪काम⟫ of ⟪मनस्⟫ is:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "iemand wiens wens het is om te spreken; iemand die wenst te spreken".
+⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "iemand wiens wens het is om te spreken; iemand die wenst te spreken".
 
 **Werkwoorden met een preverbium vormen de infinitief op dezelfde wijze als de eenvoudige wortels.**
 :::

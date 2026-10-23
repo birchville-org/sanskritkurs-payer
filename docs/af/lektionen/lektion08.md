@@ -3,8 +3,8 @@ title: "Lesing 8"
 subtitle: "Vorming van Nomina & 8. Teenwoordige Klas"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 # Les 8

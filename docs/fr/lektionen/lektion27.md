@@ -2,7 +2,7 @@
 title: "Leçon 27"
 subtitle: 'Usage du locatif (⟪सप्तमी⟫ f. = "septième terminaison casuelle")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Le locatif (⟪सप्तमी⟫) répond à la question "Où ?" en indiquant l'espace dans (à, sur, chez) lequel l'agent (⟪कर्ता⟫) ou l'objet d'une action se trouve, ou bien où l'action elle-même se déroule.**
 
-> ⟪नगरे वसति⟫ = "Il habite dans la ville"
+⟪नगरे वसति⟫ = "Il habite dans la ville"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Le locatif répond à la question "Quand ?" en indiquant le moment ou les circonstances extérieures :**
 
-> ⟪तस्मिन्काले⟫ = "à ce moment-là, à cette époque"
+⟪तस्मिन्काले⟫ = "à ce moment-là, à cette époque"
 
 **Il en va de même pour le dit Locativus Absolutus :**
 
 **Si l'action ou l'état d'une personne ou d'une chose détermine le moment auquel - ou les circonstances dans lesquelles - une AUTRE personne ou chose accomplit une action ou se trouve dans un état donné, alors le mot désignant la première personne ou chose, conjointement avec le mot la précisant davantage (qui est souvent un participe), se met au locatif (⟪सप्तमी⟫) :**
 
-> ⟪एवं गच्छति काले⟫ = "pendant que le temps s'écoule ainsi..."
-\>
-> ⟪तस्मिन्गते⟫ = "quand il était parti..."
+⟪एवं गच्छति काले⟫ = "pendant que le temps s'écoule ainsi..."
+
+⟪तस्मिन्गते⟫ = "quand il était parti..."
 
 **Parfois, l'agent (⟪कर्ता⟫) n'est pas explicitement mentionné :**
 
-> ⟪एवं सति⟫ = "puisque les choses se présentent ainsi"
+⟪एवं सति⟫ = "puisque les choses se présentent ainsi"
 
 **Le Locativus absolutus doit être traduit selon le contexte par "pendant" (par ex. participe présent), "après que", "quand" (par ex. PPP), "puisque", "parce que", "bien que", "si" etc.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Le locatif répond également à la question « Par rapport à quoi ? » et similaires :**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = « Il a de l’amour pour son fils » (littéralement « Par rapport au fils, il y a de l’amour chez lui »)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = « Il a de l’amour pour son fils » (littéralement « Par rapport au fils, il y a de l’amour chez lui »)
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Le locatif est utilisé dans les lexiques indigènes et chez les commentateurs pour indiquer le sens d’un mot :**
 
-> ⟪भू सत्तायाम्⟫ = « la racine ⟪भू⟫ dans le sens de « être » (sat-tā) »
+⟪भू सत्तायाम्⟫ = « la racine ⟪भू⟫ dans le sens de « être » (sat-tā) »
 
 :::
 D’autres détails sur l’usage du locatif suivront plus tard.

@@ -2,7 +2,7 @@
 title: "Exercise 56"
 uebung_id: 56
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

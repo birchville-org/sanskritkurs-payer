@@ -2,7 +2,7 @@
 title: "Դաս 46"
 subtitle: "Երկրորդ դեմքի բայական ձևերի կազմումը (⟪मध्यमः⟫) Պերֆեկտ (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -458,7 +458,9 @@ PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 
 Տես ⟪राहु⟫ և ⟪केतु⟫.
 
-> **Payer, Alois (1944–).** Dharmashastra՝ ներածություն և ընդհանուր տեսք. -- 10. Սակրամենտներ և անցումային ծիսակարգեր (samskara). -- Հավելված C. Ռահու և Կետու, անտեսանելի շարժուն աստղեր. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–).** Dharmashastra՝ ներածություն և ընդհանուր տեսք. -- 10. Սակրամենտներ և անցումային ծիսակարգեր (samskara). -- Հավելված C. Ռահու և Կետու, անտեսանելի շարժուն աստղեր. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 
 ::: media
 

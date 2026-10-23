@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -342,7 +342,9 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: kulit rusa, khususnya kulit rusa hitam (nilgai: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh anak benua India dari Punjab dan Sindh hingga Bengal dan dari Nepal ke Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

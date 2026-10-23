@@ -1,3 +1,4 @@
+
 # Kirjoitusharjoitus 8
 
 Vokaalimerkit sanan alussa, jos sanaa ei ole kirjoitettu yhdistettynä edeltävään sanaan:

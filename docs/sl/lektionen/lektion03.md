@@ -2,7 +2,7 @@
 title: "Učenje 3"
 subtitle: "Nominativ enote ženskega spola"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ Nominativ singular tvorijo brez končnice:
 
 :::
 
-::: important
+::: warning-box
 
 **Pozor!** Poleg tega obstajajo enosložna ženska korenska imena na -ī, katerih nominativ singular se konča na -s: npr. dhī f. "misel" -- Nom. sg.: dhīs = ⟪धीस्⟫. Tudi lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "ladja" in tantrī (⟪तन्त्री⟫) f. "žica" tvorijo nepravilno nominativ singular na -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -88,11 +88,15 @@ npr.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā je boginja" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā je boginja hrane in kuhanja, velja za inkarnacijo Pārvatī, žene Śive.)
+::: indent
+(Annapūrṇā je boginja hrane in kuhanja, velja za inkarnacijo Pārvatī, žene Śive.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī je boginja" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī je žena boga Indre.)
+::: indent
+(Indrāṇī je žena boga Indre.)
+:::
 
 ::: media
 

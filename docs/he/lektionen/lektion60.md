@@ -2,7 +2,7 @@
 title: "שיעור 60"
 subtitle: "סיומות הדיאל של הפערפקט (⟪द्विवचनम्⟫)"
 lesson_id: 60
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

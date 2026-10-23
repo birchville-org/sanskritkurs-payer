@@ -2,7 +2,7 @@
 title: "Ders 4"
 subtitle: "Nominativteki soru zamirleri ve işaret zamirleri"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Bu zamirler kullanılarak örneğin aşağıdaki soru kalıpları oluşturulur:
 :::
 Başka bir soru örneği:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Cevap: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Burada, soruya bağlantıyı vurgulamak için isim cümlesinde özne başa alınabilir.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः कः⟫ Cevap: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Burada, soruya bağlantıyı vurgulamak için isim cümlesinde özne başa alınabilir.)
+:::
 
 NOT: Şu ana kadar edindiğiniz Sanskrit bilgileriyle bu tür sorulara verebileceğiniz cevaplar, doğal olarak her açıdan idiyomatik olarak iyi Sanskritçe değildir.
 

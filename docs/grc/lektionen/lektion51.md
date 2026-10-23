@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -341,7 +341,9 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪अजिन⟫ n.: δέρμα ἀντιλώπου, ἰδίως τὸ τοῦ μέλαινας ἀντιλώπου (Hirschziegenantilope : _Antilope cervicapra_ L. ). Ἐξ ἀρχῆς ἐν τῇ ὅλῃ Ἰνδικῇ χερσονήσῳ ἐπανέκειτο ἀπὸ τοῦ Παντζάμπ καὶ Σίνδ ἕως τῆς Βεγγάλης καὶ ἀπὸ τοῦ Νεπάλ ἕως τῆς Κανυιαμαρί (Cape Comorin) (Ταμιλικὰ: கன்னியாகுமரி) Βλέπε:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

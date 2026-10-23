@@ -2,7 +2,7 @@
 title: "Lekcija 12"
 subtitle: "Perfekt pasivni particip (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,9 +32,9 @@ PPP se u ovom slučaju slaže s objektom po broju, padežu i rodu.
 Pomoćni glagol ("biti") nije potreban.
 
 Primjeri:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetca je postignut raj) = Svetac je postigao raj."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je boginja s žrtvom počašćena) = Brahman je počastio boginju s žrtvom."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Od svetca je postignut raj) = Svetac je postigao raj."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Od brahmana je boginja s žrtvom počašćena) = Brahman je počastio boginju s žrtvom."
 
 :::
 
@@ -47,7 +47,7 @@ Primjeri:
 U ovom slučaju PPP se slaže s agentom po broju, padežu i rodu. Participle Perfekt "Passiv" kod intranzitivnih glagola (glagoli bez izravnog objekta) i glagola kretanja ima aktivno značenje.
 
 Primjer:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je otišla u grad."
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya žena je otišla u grad."
 
 :::
 
@@ -58,7 +58,7 @@ Primjer:
 **Vršioc radnje (kartṛ) u instrumentalu (tṛtīyā) -- trpni glagolski pridev u nominativu jednine srednjeg roda**
 
 Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)».
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = «(Od strane kšatrije je bilo otiđeno (u grad)) = Kšatrija je otišao (u grad)».
 
 Konstrukcija prema shemi II mnogo je rjeđa od konstrukcije prema shemi I.
 

@@ -2,7 +2,7 @@
 title: "Lecke 37"
 subtitle: "Az határozószó (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -323,57 +323,57 @@ Példa:
 ::: grammar-box
 II. séma:
 
-> Kérdő részecske (általában a mondat elején) – mondat
+Kérdő részecske (általában a mondat elején) – mondat
 
-> A legfontosabb kérdő részecskék:
+A legfontosabb kérdő részecskék:
 
-> *   ⟪अपि⟫
+*   ⟪अपि⟫
 
-> *   ⟪किम्⟫ (gyakran negatív válaszra utal)
+*   ⟪किम्⟫ (gyakran negatív válaszra utal)
 
-> *   ⟪कच्चिद्⟫
+*   ⟪कच्चिद्⟫
 
 
-> Ezek a részecskék megfelelnek a kérdőjelnek.
-> :::
-> Példa:
-> ::: indent
-> ⟪अपि सत्यम् ।⟫ "Valóban igaz-e?"
+Ezek a részecskék megfelelnek a kérdőjelnek.
+:::
+Példa:
+::: indent
+⟪अपि सत्यम् ।⟫ "Valóban igaz-e?"
 
-> ⟪किं शक्नोति ।⟫ "Tud-e ő?"
+⟪किं शक्नोति ।⟫ "Tud-e ő?"
 
-> ⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Megbízta-e a kṣatriya az ellenségeket?"
-> :::
-> Megjegyzés: ⟪किम्⟫ nemcsak "mit?" jelentéssel, hanem kérdőrészként is használható, jelentése: "miért?, mire?". Különösen az instrumentálissal (⟪तृतीया⟫):
-> ::: indent
-> ⟪किं क्रोधेन ।⟫ "Mire a harag? Mire jó a harag? Mi célja a haragnak?"
-> :::
-> ## 37.9. Szószedet
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Megbízta-e a kṣatriya az ellenségeket?"
+:::
+Megjegyzés: ⟪किम्⟫ nemcsak "mit?" jelentéssel, hanem kérdőrészként is használható, jelentése: "miért?, mire?". Különösen az instrumentálissal (⟪तृतीया⟫):
+::: indent
+⟪किं क्रोधेन ।⟫ "Mire a harag? Mire jó a harag? Mi célja a haragnak?"
+:::
+## 37.9. Szószedet
 
-> ⟪मूर्ख⟫ 3: tompaelméjű, buta, ostoba m. bolond
+⟪मूर्ख⟫ 3: tompaelméjű, buta, ostoba m. bolond
 
-> ⟪मुनि⟫ m.: bölcs, (hallgatózó) aszkéta
+⟪मुनि⟫ m.: bölcs, (hallgatózó) aszkéta
 
-> ::: indent
-> ⟪शाक्यमुनि⟫ m.: aszkéta a ⟪शाक्य⟫ (kṣatriyák a ⟪कपिलवस्तु⟫) nemzetségéből = Buddha Gautama
-> :::
-> ::: media
-> ![lekt3705.jpg](/images/lekt3705.jpg)
-> Ábra: ⟪शाक्यमुनिः⟫
-> (Képmegjelenítés: [Részletek](/hu/licenses#lekt3705))
-> :::
-> ⟪दिन⟫ n.: nap
+::: indent
+⟪शाक्यमुनि⟫ m.: aszkéta a ⟪शाक्य⟫ (kṣatriyák a ⟪कपिलवस्तु⟫) nemzetségéből = Buddha Gautama
+:::
+::: media
+![lekt3705.jpg](/images/lekt3705.jpg)
+Ábra: ⟪शाक्यमुनिः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3705))
+:::
+⟪दिन⟫ n.: nap
 
-> ⟪वृक्ष⟫ m.: fa
+⟪वृक्ष⟫ m.: fa
 
-> ::: media
-> ![lekt3706.jpg](/images/lekt3706.webp)
-> Ábra: ⟪वृक्षः⟫
-> (Képmegjelenítés: [Részletek](/hu/licenses#lekt3706))
-> :::
-> ⟪मुख⟫ n.: száj, arc, elülső rész, kezdet
+::: media
+![lekt3706.jpg](/images/lekt3706.webp)
+Ábra: ⟪वृक्षः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3706))
+:::
+⟪मुख⟫ n.: száj, arc, elülső rész, kezdet
 
-> ## 37.10. Gyakorlat
+## 37.10. Gyakorlat
 
 A) Válaszoljon a következő kérdésekre szanszkrit nyelven, a zárójelben megadott szavak segítségével. Fordítsa le a kérdéseket.
 
@@ -401,7 +401,6 @@ Példa: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪रा
 
 ⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
-:::
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
 Ábra: ⟪कृष्णः बलरामश्च⟫

@@ -2,7 +2,7 @@
 title: Lektion 11
 subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

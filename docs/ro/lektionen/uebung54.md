@@ -2,7 +2,7 @@
 title: "Exercițiul 54"
 uebung_id: 54
 category: "Exercițiu"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -36,9 +36,9 @@ Formați corespunzătoarele forme de aorist pentru următoarele forme de prezent
 | ⟪२१⟫. | **⟪जायते⟫** | el se naște | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | este cântat | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | este mers | **⟪अगामि⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung093))
-::::
 :::

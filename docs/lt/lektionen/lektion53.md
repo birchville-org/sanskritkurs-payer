@@ -746,13 +746,13 @@ Pavyzdys: ⟪भगवद्गीता १⟩,⟪१⟩:
 
 ⟪लघु⟩ ir ⟪गुरु⟩ pasiskirstymas:
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -789,7 +789,7 @@ Svarbiausias epų (⟪महाभारत⟫, ⟪रामायण⟩) bei da
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -797,7 +797,7 @@ Svarbiausias epų (⟪महाभारत⟫, ⟪रामायण⟩) bei da
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -809,7 +809,7 @@ Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु�
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -817,7 +817,7 @@ Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु�
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -825,7 +825,7 @@ Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु�
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -833,7 +833,7 @@ Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु�
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -848,7 +848,7 @@ Antroji ir trečioji ⟪पाद⟫ silaba neturėtų būti kartu ⟪लघु�
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

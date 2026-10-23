@@ -2,7 +2,7 @@
 title: "第57課"
 subtitle: "未完成過去時4：s-未完成過去時"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

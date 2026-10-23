@@ -340,54 +340,55 @@ Shembuj:
 
 :::
 
-> Rregullat në detaje te Kielhorn, Grammatik § 461.
+Rregullat në detaje te Kielhorn, Grammatik § 461.
 
 **Reduplikimi: sipas rregullave të përgjithshme. Por vokali i reduplikimit: në vend të a,i,u qëndron ā, e, o**
 Shembuj:
 
-> | ⟪दा⟫ 3U | ⟪देदीय⟫- |
-> | --- | --- |
-> | ⟪भू⟫ 1P | ⟪बोभूय⟫- |
-> | ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
-> | ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
-> | ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
-> | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
+| ⟪दा⟫ 3U | ⟪देदीय⟫- |
+| --- | --- |
+| ⟪भू⟫ 1P | ⟪बोभूय⟫- |
+| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
+| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
+| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
+| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
-> ::: grammar-box
+::: grammar-box
 
 **Rrënjët e formës -a-Nasal nuk e zgjasin vokalin në sylabën e reduplikimit, por e përsërisin nasal.**
 
-> :::
+:::
 
-> ::: indent
+::: indent
 
-> p.sh. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
-> :::
+p.sh. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+:::
 
 **Te disa rrënjë midis vokalit të sylabës së reduplikimit dhe konsonantit fillor të rrënjës shfaqet -nī- ose -rī- (-rī- te rrënjët që përmbajnë një ṛ në Intensiv).**
 
-> ::: indent
+::: indent
 
-> p.sh.
-> ⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
-> ⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
-> :::
+p.sh.
+⟪पत्⟫ 1P: ⟪प⟫:sig[⟪नी⟫]⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫:sig[⟪री⟫]⟪वृत्य⟫-
+:::
 
-> ::: grammar-box
+::: grammar-box
 
 **Konjugimi:**
 
-> *   **Stemi i prezencës: si një Ātmanepada e klasës së 4-të të prezencës (⟪दिवादिगण⟫).**
-> *   **Pasiv dhe stemit e tjerë të kohëve: nëse një vokal i paraprihet -ya- së stemit intensiv, atëherë -ya- zëvendësohet me -y-, nëse një konsonant i paraprijet -ya- së, atëherë -ya- bie:**
->     *   **Prezës Pasiv: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
->     *   **Perfekt: periphrastik: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
->     *   **Aorist: Aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
->     *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
->     *   **Futur periphrastik: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Stemi i prezencës: si një Ātmanepada e klasës së 4-të të prezencës (⟪दिवादिगण⟫).**
+*   **Pasiv dhe stemit e tjerë të kohëve: nëse një vokal i paraprihet -ya- së stemit intensiv, atëherë -ya- zëvendësohet me -y-, nëse një konsonant i paraprijet -ya- së, atëherë -ya- bie:**
+*   **Prezës Pasiv: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfekt: periphrastik: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aorist: Aorist iṣ (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **Futur periphrastik: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 
 
 ### 61.3.2. Intensivi i Parasmaipada
 
+:::
 ::: grammar-box
 
 **Stamba e Presentit (formatet e tjera janë jashtëzakonisht të rralla): Formimi dhe konjugimi si një folje e klasës së 3-të të Presentit (⟪जुहोत्यादिगण⟫) me ndryshimin që vokali i silabës së ripërsëritjes është në nivel të lartë, dhe kur është -a- në nivel të zgjatur.**
@@ -981,7 +982,7 @@ Abb.: Melodia, e lidhur me c, mund të transpozohet sipas lartësisë së zërit
 
 Pashtu që tani keni mësuar bazat e sanskritishtë, shpresojmë që të jeni si fëmijët në video: ndonjëherë të paaftë, por me dëshirë për mësim dhe dije, dhe me kënaqesi në punën tuaj. Ruani "një mendje fillestare" deri në fund të jetës suaj.
 
-::: center
+::: verse-box
 
 Këtë dëshiron për ju Alois Payer
 

@@ -2,7 +2,7 @@
 title: Lección 38
 subtitle: "Solución de la semana"
 lesson_id: 38
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -241,8 +241,6 @@ Fig.: ⟪हस्ती⟫
 
 Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
-
-::: \<!--  --\>
 
 :::
 

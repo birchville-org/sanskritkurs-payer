@@ -2,7 +2,7 @@
 title: "පාඩම 45"
 subtitle: "දෙවන පුද්ගලයාගේ ක්‍රියාවලි ආකාර සෑදීම (⟪मध्यमः⟫) ශ්වසන රහිත මූල ආකාර වලට ස්වර අන්ත ප්‍රත්‍යයක් නොමැතිව (ඉදිරියට)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

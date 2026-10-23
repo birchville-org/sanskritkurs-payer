@@ -2,7 +2,7 @@
 title: "పాఠం 17"
 subtitle: "రెండవ ప్రసెన్స్ వర్గం (⟪अदादि⟫ = ⟪अद्⟫ మొదలైనవి)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

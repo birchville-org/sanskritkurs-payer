@@ -2,7 +2,7 @@
 title: "Les 17"
 subtitle: "Tweede presentisklasse (⟪अदादि⟫ = ⟪अद्⟫ enz.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

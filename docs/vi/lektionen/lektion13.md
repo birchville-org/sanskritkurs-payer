@@ -2,7 +2,7 @@
 title: "[Bài 13]"
 subtitle: "[PPP trên -na-]"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -168,17 +168,19 @@ Học các từ sau đây:
 **eva** ⟪एव⟫ : nhấn mạnh từ đứng trước
 **asura** m. ⟪असुर⟫ : Ác ma
 
-> **ASURA.** 'Thần linh, thiêng liêng.'
-\>
-> Trong những phần cổ xưa nhất của Ṛgveda, thuật ngữ này được dùng cho thần linh tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành chỉ á ma hoặc kẻ thù của các vị thần.
-\>
-> Từ này xuất hiện với ý nghĩa này trong các phần sau của Ṛgveda, đặc biệt là quyển cuối cùng, và cũng trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa đó, và ghi lại nhiều cuộc tranh đấu giữa các Asura và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với tuyên bố trước đó, và nói rằng "ông tạo ra Asuras từ hơi thở dưới của mình." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước bị rơi vãi. Tuyên bố của Manu là chúng được tạo ra bởi các Prajāpatis.
-\>
-> Theo Viṣṇu Purāṇa, chúng được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được sản sinh; do đó chúng là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm cả Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng Pulastya.
-\>
-> Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã nảy sinh từ *sura,* thường được dùng cho 'một vị thần.'"
-\>
-> [Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Thần linh, thiêng liêng.'
+
+Trong những phần cổ xưa nhất của Ṛgveda, thuật ngữ này được dùng cho thần linh tối cao, và cũng chính là Ahura của người Zoroastrian. Theo nghĩa 'thần', nó được áp dụng cho một số vị thần chính, như Indra, Agni và Varuṇa. Sau đó nó mang một nghĩa hoàn toàn trái ngược, và trở thành chỉ á ma hoặc kẻ thù của các vị thần.
+
+Từ này xuất hiện với ý nghĩa này trong các phần sau của Ṛgveda, đặc biệt là quyển cuối cùng, và cũng trong Atharvaveda. Các văn bản Brāhmaṇa gán cho nó cùng nghĩa đó, và ghi lại nhiều cuộc tranh đấu giữa các Asura và các vị thần. Theo Taittirīya Brāhmaṇa, hơi thở *(asu)* của Prajapati trở nên sống động, và "với hơi thở đó ông đã tạo ra tôi là Asuras." Trong một phần khác của cùng tác phẩm, người ta nói rằng Prajāpati "đã thụ thai. Ông tạo ra Asuras từ bụng mình." Śatapatha Brāhmaṇa phù hợp với tuyên bố trước đó, và nói rằng "ông tạo ra Asuras từ hơi thở dưới của mình." Taittirīya Āraṇyaka mô tả rằng Prajāpati tạo ra các vị thần, con người, tổ tiên, Gandharvas và Apsarases từ nước, còn Asuras, Rakṣasas và piśācas nảy sinh từ những giọt nước bị rơi vãi. Tuyên bố của Manu là chúng được tạo ra bởi các Prajāpatis.
+
+Theo Viṣṇu Purāṇa, chúng được sinh ra từ háng của Brahma (prajāpati). Câu chuyện trong Vāyu Purāṇa là: "Asuras trước tiên được sinh ra như những người con từ háng của ông (Prajāpati). *Asu* được Brāhmaṇa tuyên bố có nghĩa là hơi thở. Từ đó những sinh vật này được sản sinh; do đó chúng là Asuras." Từ này đã lâu được dùng như một tên gọi chung cho kẻ thù của các vị thần, bao gồm cả Daityas và Danavas cùng những hậu duệ khác của Kaśyapa, nhưng không bao gồm Rakṣasas thuộc dòng Pulastya.
+
+Theo nghĩa này, một nguồn gốc khác đã được tìm thấy cho nó: nguồn không còn là asu, 'hơi thở,' mà âm đầu *a* được lấy làm tiền tố phủ định, và *asura* có nghĩa là 'không phải thần;' do đó, theo một số người, đã nảy sinh từ *sura,* thường được dùng cho 'một vị thần.'"
+
+[Nguồn: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

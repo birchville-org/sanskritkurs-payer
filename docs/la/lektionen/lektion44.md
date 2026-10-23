@@ -2,7 +2,7 @@
 title: "Lectio 44"
 subtitle: "Formationes verbi personae secundae (⟪मध्यमः⟫) stemmatum athematicorum cum suffixo vocali terminato"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -186,7 +186,7 @@ exempli gratia ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि
 
 Grammatici indigeni vocativum (⟪आमन्त्रितम्⟫) non ut casum proprium considerant, sed solumtamquam modificationem nominativi (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 **Vocativus ad invocationem, ad alloquium destinatus est et extra contextum ceterae orationis positus est, itaque a casibus aliis differt, qui relationem ad verbum vel ad nomen alterum exprimunt.**
 
 **Vocativus plerumque in initium orationis ponitur:**
@@ -195,7 +195,7 @@ Grammatici indigeni vocativum (⟪आमन्त्रितम्⟫) non ut c
 ::: indent
 ⟪बाल किं वदसि⟫ = "Puer, quid dicis?"
 :::
-::: important
+::: warning-box
 **Evitanda est translatio vocativi cum "**O** ...". Nos in lingua Germanica saepissime utimur vocativis, cum dicimus: "Amice, quid hodie coquemus?". Nemo in hac significatione dicet: "**O** amice, quid hodie coquemus?"**
 :::
 ::: media

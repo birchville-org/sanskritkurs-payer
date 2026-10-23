@@ -3,8 +3,8 @@ title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 ---
 
 # Lectio 2
@@ -13,7 +13,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Nomen praedicativum - Subiectum**
+:::
 
+::: indent
 z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu est deus."
 :::
 Copula verbalis ("est", "sunt", "sum", "es") non necessaria est, sed interdum occurrit.
@@ -72,7 +74,9 @@ Finis verbi in Sanscrito etiam secundum initium sequentis verbi regitur. Haec ph
 
 Vide etiam summam:
 
-> **Payer, Alois (1944–):** Sandhi vocis finalis -s. -- (Materialia Sanscritica). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi vocis finalis -s. -- (Materialia Sanscritica). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 **-s** finale:
 
@@ -115,7 +119,9 @@ Vide etiam summam:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (ordo servilis).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Quattuor ordines (varṇa)**
+
 Secundum theoriam classicam (e.g. Manusmṛti I, 88-91) officia distributa sunt:
 
 - **Brahmanorum**

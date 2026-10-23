@@ -2,7 +2,7 @@
 title: "4. lecke"
 subtitle: "Kérdő- és mutatómások nominativus esete"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -82,7 +82,9 @@ Ezekkel a névmásokkal például a következő kérdő formulákat képezhetjü
 :::
 Egy másik példa kérdésekre:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Válasz: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Egy nominális mondatban a tárgyat például az elejére helyezhetjük, hogy hangsúlyozzuk a kérdésre való kapcsolódást.)
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Válasz: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Egy nominális mondatban a tárgyat például az elejére helyezhetjük, hogy hangsúlyozzuk a kérdésre való kapcsolódást.)
+:::
 
 MEGJEGYZÉS: A válaszok, amelyeket eddigi szanszkrit tudásukkal ilyen kérdésekre adhatnak, természetesen még nem felelnek meg minden szempontból az idiomatikusan jó szanszkritnak.
 

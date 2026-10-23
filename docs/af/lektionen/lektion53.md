@@ -483,7 +483,9 @@ Afbeelding: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्�
 :::
 Sien ook:
 
-> **Payer, Alois (1944–):** Inleiding tot die eksegese van Sanskrittekste : Skrips. -- Hoofstuk 8: Die ware eksegese, Deel II: Tot enkele vraestellings van simultaniese begrip. -- Aanhangsel B: Oor die metrika van Sanskrittekste. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Inleiding tot die eksegese van Sanskrittekste : Skrips. -- Hoofstuk 8: Die ware eksegese, Deel II: Tot enkele vraestellings van simultaniese begrip. -- Aanhangsel B: Oor die metrika van Sanskrittekste. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Betekenis van die bepaling van die metrum
 
@@ -556,10 +558,10 @@ Voorbeeld: ⟪भगवद्गीता १⟫,⟪१⟫:
 :::
 Verdeling van ⟪लघु⟫ en ⟪गुरु⟫:
 
-::: metrik-schema
+::: verse-box
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
-::: metrik-schema
+::: verse-box
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Die epiese śloka (⟪श्लोक⟫ m.)
@@ -585,11 +587,11 @@ Die belangrikste versmaat in die eposse (⟪महाभारत⟫, ⟪रा�
 
 **a = c:**
 :::
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-::: metrik-schema
+::: verse-box
 × × × ×   **◡ — ◡ —**
 :::
 Die tweede en derde lettergrepe van 'n ⟪पाद⟫ mag nie albei ⟪लघु⟫ wees nie. In b en d mag sillabes 2–4 nie ¯ ˘ ¯ wees nie.
@@ -597,19 +599,19 @@ Die tweede en derde lettergrepe van 'n ⟪पाद⟫ mag nie albei ⟪लघ�
 **Sub-skemas (⟪विपुला⟫) vir a en c:**
 
 **⟪विपुला⟫ 1:**
-::: metrik-schema
+::: verse-box
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-::: metrik-schema
+::: verse-box
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-::: metrik-schema
+::: verse-box
 × × × ×   / — ◡ — —
 :::
 **In alle vorme van die śloka val die hoofkeisersnit aan die einde van die tweede ⟪पाद⟫: dit is óf die einde van 'n woord óf – in die geval van lang samestelde woorde – die einde van 'n bestanddeel van die samestelling.**
@@ -618,7 +620,7 @@ Die tweede en derde lettergrepe van 'n ⟪पाद⟫ mag nie albei ⟪लघ�
 ::: grammar-box
 **Identifiseer die ślokas onder al die verse wat tot dusver geleer is. Skryf die metriese skema vir hierdie uit. Wys enige onreëlmatighede of Vipulā-vorme aan.**
 :::
-::: center
+::: verse-box
 Suksesvol voltooi op 15 Februarie 1984
 Aanlynuitgawe suksesvol voltooi op 19 Januarie 2009
 Alois Maria Payer

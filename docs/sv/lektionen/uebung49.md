@@ -2,7 +2,7 @@
 title: "Övning 49"
 uebung_id: 49
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -77,9 +77,11 @@ Kung ⟪शूद्रक⟫ av ⟪विदिशा⟫ frågor till papegojan
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Kungen sade: "Låt oss lämna allt det där! Tillfredsställ vår nyfikenhet! Herre, berätta för oss från början: I vilket land föddes du? Vem gav dig namnet? Vem är din mor? Hur fick du Vedaskrifterna? Hur blev du bekant med läroböckerna? Varifrån fick du konsten? Kan du minnas tidigare födslar eller uppfylla önskningar? Eller bor du, genom att bära en fågels dräkt, i ett gömställe? Eller var bodde du tidigare? Eller hur gammal är du? Hur blev du fångad i en bur? Och hur hamnade du i händerna på Cāṇḍālas? Eller hur kom du hit?"
-\>
-> Vaiśampāyana, som med stor respekt hade blivit tillfrågad av jordens herre med spontant uppkommen nyfikenhet, funderade ett ögonblick och svarade sedan full av vördnad: "Kung, det är en lång historia. Om det intresserar dig, lyssna på mig!"
+::: indent
+Kungen sade: "Låt oss lämna allt det där! Tillfredsställ vår nyfikenhet! Herre, berätta för oss från början: I vilket land föddes du? Vem gav dig namnet? Vem är din mor? Hur fick du Vedaskrifterna? Hur blev du bekant med läroböckerna? Varifrån fick du konsten? Kan du minnas tidigare födslar eller uppfylla önskningar? Eller bor du, genom att bära en fågels dräkt, i ett gömställe? Eller var bodde du tidigare? Eller hur gammal är du? Hur blev du fångad i en bur? Och hur hamnade du i händerna på Cāṇḍālas? Eller hur kom du hit?"
+
+Vaiśampāyana, som med stor respekt hade blivit tillfrågad av jordens herre med spontant uppkommen nyfikenhet, funderade ett ögonblick och svarade sedan full av vördnad: "Kung, det är en lång historia. Om det intresserar dig, lyssna på mig!"
+:::
 
 ::: media
 

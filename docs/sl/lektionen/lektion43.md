@@ -2,7 +2,7 @@
 title: "Ura 43"
 subtitle: 'Osebna končnica druge osebe (⟪मध्यमः⟫ = \"srednja <oseba>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

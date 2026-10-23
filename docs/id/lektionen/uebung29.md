@@ -2,7 +2,7 @@
 title: "Latihan 29"
 uebung_id: 29
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -27,8 +27,10 @@ Ketidaktahuan berarti menganggap yang tidak kekal, kotor, menyakitkan, dan bukan
 
 Sebelum rezim (daṇḍa) yang terlalu keras, makhluk harus gemetar. Rezim yang longgar dihina. Rezim yang seimbang dengan tepat dipuja. Rezim yang dijalankan dengan bijak mempromosikan kebenaran, keuntungan, dan kesenangan di antara para subjek. Rezim yang dijalankan dengan buruk karena kesenangan dan kebencian atau kontemptus membuat marah bahkan pertapa tua dan pertapa pengembara yang telah menarik diri ke hutan, apalagi rumah tangga. Rezim yang tidak aktif menyebabkan perilaku seperti ikan (mātsyanayāya). Karena jika tidak ada yang menjaga rezim, yang lebih kuat menelan yang lemah. Jika yang lemah dilindungi oleh pemegang rezim, ia berkembang biak.
 
-> Dunia dengan empat estate dan tahap hidupnya  
-> Dilindungi oleh raja melalui rezim:  
-> Gembira tentang aktivitas sesuai hak dan kebiasaan mereka sendiri  
-> Bergerak di jalurnya sendiri.
+::: indent
+Dunia dengan empat estate dan tahap hidupnya
+Dilindungi oleh raja melalui rezim:
+Gembira tentang aktivitas sesuai hak dan kebiasaan mereka sendiri
+Bergerak di jalurnya sendiri.
 
+:::

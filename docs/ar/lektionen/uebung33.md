@@ -2,7 +2,7 @@
 title: "التمرين 33"
 uebung_id: 33
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -110,11 +110,11 @@ last_reconstructed: 2026-05-15
 ![](/images/uebung055.webp)
 م: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung055))
-:::: media
+:::
+::: media
 ![](/images/uebung056.webp)
 م: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (مصدر الصورة: [تفاصيل](/licenses#uebung056))
 
-::::
 :::
 

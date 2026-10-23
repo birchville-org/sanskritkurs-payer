@@ -2,7 +2,7 @@
 title: "පාඩම 25"
 subtitle: 'අපදාන කාරකයේ නිර්මාණය (⟪पञ्चमी⟫ = "පස්වන කාරක විභක්තිය")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

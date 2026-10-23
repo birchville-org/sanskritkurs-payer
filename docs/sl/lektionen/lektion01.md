@@ -3,15 +3,15 @@ title: "Ura 1"
 subtitle: "Zvoki sanskrta"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Ura 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Čaščenje Gaṇeše
@@ -23,7 +23,7 @@ Slika 1.2: Gaṇeša, Adamspeak, Šrilanka
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Bog, naredi vse moje podvige
 Brez ovir!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Srečen začetek"
@@ -52,7 +52,7 @@ Slika 1.1: Ardhanarīśvara
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Smisla besede.
 Na začetku nekaj čudnega:
 
 
->"Ko sta William Jones [1746–1794] in Henry Thomas Colebrooke (1765—1857) sanskrit prvič temeljito študirala, delno prevedla in ugotovila, da ima bogato literaturo in precejšnjo sorodnost s klasičnimi jeziki, sta naletela na precejšen odpor. Ker se z intimno povezavo sanskrta tako geografsko oddaljenimi evropskimi jeziki starih prepričanj, ki so ali vse jezike izvajali iz hebrejščine ali jih večinoma izolirala drug od drugega, ni dalo uskladiti, je znanstveni filolog Dugald Steward (1753—1828) izbral najpreprostejši izhod, tako da je celotno zgodovino z sanskrtom razglasil za laž. Napisal je esej, v katerem se je skušal dokazati, da so jo zviti brahmani izklesali po vzoru grščine in latinščine ter da sta tako jezik kot literatura ponarejena. To stališče je še leta 1840 podrobno razvil profesor v Dublinu, Charles William Wall (Göttingische gelehrte Anzeigen 1842 str. 1888)."
->
-::: literatur-box
+::: note-box
+"Ko sta William Jones [1746–1794] in Henry Thomas Colebrooke (1765—1857) sanskrit prvič temeljito študirala, delno prevedla in ugotovila, da ima bogato literaturo in precejšnjo sorodnost s klasičnimi jeziki, sta naletela na precejšen odpor. Ker se z intimno povezavo sanskrta tako geografsko oddaljenimi evropskimi jeziki starih prepričanj, ki so ali vse jezike izvajali iz hebrejščine ali jih večinoma izolirala drug od drugega, ni dalo uskladiti, je znanstveni filolog Dugald Steward (1753—1828) izbral najpreprostejši izhod, tako da je celotno zgodovino z sanskrtom razglasil za laž. Napisal je esej, v katerem se je skušal dokazati, da so jo zviti brahmani izklesali po vzoru grščine in latinščine ter da sta tako jezik kot literatura ponarejena. To stališče je še leta 1840 podrobno razvil profesor v Dublinu, Charles William Wall (Göttingische gelehrte Anzeigen 1842 str. 1888)."
+
 [Vir: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Dostop 10. januarja 2010]
 :::
 
@@ -89,7 +89,9 @@ Slika: Naslovnica zbirke knjig v mehki vezavi
 (Vir slike: [Podrobnosti](/sl/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ del: Pregled kulture indijskega polotoka pred prihodom Muslimanov. -- London : Sidgwick & Jackson, 1954. -- Od takrat številne izdaje, vključno z izdajami v mehki vezavi. -- **Obvezna literatura.** Dober pregled življenja, zgodovine in kulture v predislamski Indiji. Celovit pregled različnih področij klasične indologije.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ del: Pregled kulture indijskega polotoka pred prihodom Muslimanov. -- London : Sidgwick & Jackson, 1954. -- Od takrat številne izdaje, vključno z izdajami v mehki vezavi. -- **Obvezna literatura.** Dober pregled življenja, zgodovine in kulture v predislamski Indiji. Celovit pregled različnih področij klasične indologije.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Slika: Naslovnica
 
 Najboljša sistematična gramatika:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Prevod iz angleščine W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 str. -- Izvirni naslov: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Slika: Naslovnica ovitka
 
 Dobra sistematična gramatika, ki temelji na domačih gramatiki in hkrati uvod v Pāṇinija:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originalno napisano v malajalamščini. Prevod v angleščino K.V.R. Pai. -- Parathode : Samozaložba, 1983. -- 818 str. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originalno napisano v malajalamščini. Prevod v angleščino K.V.R. Pai. -- Parathode : Samozaložba, 1983. -- 818 str. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Slika: Naslovna platnica
 
 Dobro, jedrnato predstavitev evropske terminologije jezikoslovja najdete v:
 
-::: literatur-box
+::: note-box
 **Etymološki slovar nemškega jezika** / [Friedrich] Kluge (1856–1926). Uredil Elmar Seebold. -- 24., pregledana in dopolnjena izdaja. -- Berlin [in dr.] : de Gruyter, 2002. - LXXXIX, 1023 str. : 24 cm. -- ISBN 3-11-017473-1 Vezava v mehkih platnicah. -- str. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Slika: Naslovna platnica z ovitkom
 
 Za radovedneže za nadaljnje preverjanje:
 
-> **Slovar jezikoslovja** / uredila Hadumod Bussmann. -- 4., pregledana in bibliografsko dopolnjena izdaja / pod sodelovanjem Hartmuta Laufferja. -- Stuttgart : Kröner, 2008. -- 816 str. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Slovar jezikoslovja** / uredila Hadumod Bussmann. -- 4., pregledana in bibliografsko dopolnjena izdaja / pod sodelovanjem Hartmuta Laufferja. -- Stuttgart : Kröner, 2008. -- 816 str. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Glasovi sanskrta
@@ -146,7 +152,7 @@ Glasovi sanskrta po tradicionalni indijski klasifikaciji in njihova znanstvena t
 :::
 Sodobni slovarji sanskrta so razvrščeni po vrsti te klasifikacije. Ta klasifikacija je za razumevanje sanskrtske gramatike nepogrešljiva in jo je zato treba znati na pamet:
 
-::: note-box
+::: grammar-box
 Klasifikacija
 **preprosti samoglasniki** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klasifikacija
 :::
 ### 1.2.1. O izgovoru posameznih glasov
 
-::: laut-table
 | Glas | Opis |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "kratko a" se pri Indijcih -- že od nekdaj -- pogosto izgovarja kot ə. V Evropi se izgovarja kot kratko a, v Bengalu pa kot kratko temno o. |
@@ -176,7 +181,6 @@ Klasifikacija
 | **h - ⟪ह्⟫** | dihalski glas, nikoli znak za podaljšanje. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Brezglasni dihalski glas z odmevom predhodnega samoglasnika ali drugega dela predhodnega dipftonga: agniḥ -- ⟪अग्निः⟫ = agnihī, devaiḥ -- ⟪देवैः⟫ = devaihī, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Pred frikativi, h, l: nazalizacija samoglasnika. Na koncu = m. V sredini besede pred soglasniki: nazal, ki ustreza naslednjemu soglasniku: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Najboljši izgovor dosežemo, če stavke, verzove ali besede beremo precej počasi in monotono z natančnim upoštevanjem dolžine samoglasnikov.
 
 

@@ -2,7 +2,7 @@
 title: "Lecziun 10"
 subtitle: "La frasa passiva (Instrumental dal agent)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agens - kartṛ - en l’Instrumental (tṛtīyā)) - (object direct - karman - en il Nominativ) - forma verbala passiva**
+:::
 
+::: indent
 z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "In brahman onura in dieu cun in sacrifici" (literalmain: "In dieu vegn onurà da in brahman cun in sacrifici.")
-
 Questa frasa è **cumpletamain (!) sinonima** a la frasa:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ Al passiv **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्राम�
 :::
 Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present.
 
-::: important
+::: warning-box
 **Frasas passivas en sanscrit pon esser tradusidas en general en passiv en rätoromanisch, perquai che il passiv en linguas occidentalas ha ina funcziun stilistica differenta.**
 :::
 
@@ -226,8 +227,6 @@ z.B. **tan** 8 U.
 ::: note-box
 **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
 
-:::
-::: literatur-box
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
@@ -358,7 +357,7 @@ Fig.: ⟪तन्तुवायः⟫
 ⟪क⟫
 
 ⟪१⟫.
-::: center
+::: verse-box
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫

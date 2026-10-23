@@ -2,7 +2,7 @@
 title: "Lecție 23"
 subtitle: "Infinitivul (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Dacă se dorește exprimarea în sanscrită că o acțiune se întreprinde în scopul altei acțiuni („pentru a”), se poate folosi infinitivul (⟪तुमुन्⟫) pentru acțiunea în scopul căreia se întreprinde acțiunea principală. Infinitivul indică, în primul rând, scopul sau intenția:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = „Rāma a plecat pentru a asculta discursul maestrului.”
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = „Rāma a plecat pentru a asculta discursul maestrului.”
 
 **Rețineți că infinitivul – cu unele excepții strict definite – nu poate funcționa ca subiect sau obiect al unui verb:**
 
-> Astfel, nu se traduce „Învață să danseze” cu infinitivul („să danseze”), ci se folosește un substantiv verbal, de exemplu: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „a învăța”).
+Astfel, nu se traduce „Învață să danseze” cu infinitivul („să danseze”), ci se folosește un substantiv verbal, de exemplu: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: „a învăța”).
 
 **Infinitivul este, de asemenea, utilizat cu verbe și substantive cu sensul de „a dori” sau „a tânji”, atunci când agentul (⟪कर्तृ⟫) infinitivului și al verbului sunt identici:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = „Rāma dorește să asculte discursul maestrului.”
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = „Rāma dorește să asculte discursul maestrului.”
 
 **Infinitivul este, printre altele, utilizat și cu verbe cu sensurile de „a fi capabil”, „a exista”, „a ști”, „a începe”:**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = „Un sfânt nu poate face rău.”  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = „Există hrană de mâncat” (⟪भुज्⟫ 7: Ā: a mânca, P: a conduce)
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = „Un sfânt nu poate face rău.”
+⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = „Există hrană de mâncat” (⟪भुज्⟫ 7: Ā: a mânca, P: a conduce)
 
 **Infinitivul este, de asemenea, utilizat cu cuvinte cu sensurile de „suficient”, „capabil” și cu substantive cu sensurile de „capacitate”, „putere”, „pricepere”:**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = „Focul are puterea de a arde totul.”
+⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = „Focul are puterea de a arde totul.”
 
 **Infinitivul poate fi, de asemenea, utilizat cu cuvinte cu sensul de „timp” în expresii precum „Este timpul să ...”:**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = „Este timpul să te dedici mâncării” = „Este timpul să mănânci”
+⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = „Este timpul să te dedici mâncării” = „Este timpul să mănânci”
 
 **Infinitivul poate fi utilizat activ și pasiv. Un infinitiv pasiv în limba germană este redat în sanscrită prin aceea că verbul (în special frecvent ⟪शक्⟫ „a fi capabil, a putea”), de care depinde infinitivul, este pus la vocea pasivă.**
 
@@ -44,13 +44,13 @@ status: stable
 
 de exemplu,
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = „Un sfânt nu poate face rău.”
+⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = „Un sfânt nu poate face rău.”
 
 **La persoana a II-a, ⟪अर्ह्⟫ + infinitiv este adesea utilizat ca o poruncă blândă: „Ar trebui să.”**
 
 **Când infinitivul depinde de un substantiv, acesta nu trebuie să formeze cu acesta un compus. Sunt exceptate compusele Bahuvrīhi, al cărui al doilea element este ⟪काम⟫ sau ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „cel al cărui dorință este de a vorbi; cel care dorește să vorbească”.
+⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „cel al cărui dorință este de a vorbi; cel care dorește să vorbească”.
 :::
 ## 23.2. Formarea infinitivului (⟪तुमुन्⟫)
 

@@ -2,7 +2,7 @@
 title: "Pelajaran 23"
 subtitle: "Infinitif (⟪तुमुन्⟫)"
 lesson_id: 23
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,28 +15,28 @@ status: stable
 ::: grammar-box
 **Jika ingin menyatakan dalam bahasa Sanskerta bahwa suatu tindakan dilakukan demi tujuan tindakan lain ("untuk"), infinitif (⟪तुमुन्⟫) dapat digunakan untuk tindakan yang menjadi tujuannya. Infinitif terutama menunjukkan tujuan atau maksud:**
 
-> ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma telah pergi untuk mendengarkan ceramah guru."
+⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma telah pergi untuk mendengarkan ceramah guru."
 
 **Perhatikan bahwa infinitif — dengan beberapa pengecualian yang telah didefinisikan secara ketat — tidak dapat berfungsi sebagai subjek atau objek dari sebuah kata kerja:**
 
-> "Ia belajar menari" tidak boleh diterjemahkan dengan infinitif ("menari"), melainkan harus menggunakan kata kerja nominal, misalnya: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "belajar").
+"Ia belajar menari" tidak boleh diterjemahkan dengan infinitif ("menari"), melainkan harus menggunakan kata kerja nominal, misalnya: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "belajar").
 
 **Infinitif juga digunakan bersama kata kerja dan kata benda dengan makna "ingin" atau "merindukan", ketika agens (⟪कर्तृ⟫) dari infinitif dan kata kerja tersebut identik:**
 
-> ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma ingin mendengarkan ceramah guru."
+⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma ingin mendengarkan ceramah guru."
 
 **Infinitif juga digunakan, antara lain, dengan kata kerja dalam makna "mampu", "ada", "tahu", "mulai":**
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Seorang orang suci tidak dapat melakukan ketidakadilan."
-> ⟪अस्ति भोक्तुमन्नम्⟫ = "Ada makanan untuk dimakan" (⟪भुज्⟫ 7: Ā: makan, P: memerintah)
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "Seorang orang suci tidak dapat melakukan ketidakadilan."
+⟪अस्ति भोक्तुमन्नम्⟫ = "Ada makanan untuk dimakan" (⟪भुज्⟫ 7: Ā: makan, P: memerintah)
 
 **Infinitif juga digunakan bersama kata-kata dalam makna "cukup", "mampu" dan dengan kata benda dalam makna "kemampuan", "kekuatan", "keterampilan":**
 
-> ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Api memiliki kekuatan untuk membakar segala sesuatu."
+⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Api memiliki kekuatan untuk membakar segala sesuatu."
 
 **Kata infinitif juga dapat digunakan dengan kata yang berarti "waktu" dalam ungkapan seperti "Sudah waktunya untuk ...":**
 
-> ⟪कालो भोजनं सेवितुम्⟫ = "Sudah waktunya untuk makan" = "Sudah waktunya untuk makan"
+⟪कालो भोजनं सेवितुम्⟫ = "Sudah waktunya untuk makan" = "Sudah waktunya untuk makan"
 
 **Infinitif dapat digunakan secara aktif dan pasif. Infinitif pasif dalam bahasa Jerman direpresentasikan dalam bahasa Sanskerta dengan mengubah kata kerja (terutama sering ⟪शक्⟫ "mampu, dapat"), yang menjadi dasar infinitif tersebut, ke dalam bentuk pasif.**
 
@@ -44,13 +44,13 @@ status: stable
 
 misalkan:
 
-> ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "Seorang orang suci tidak dapat melakukan ketidakadilan."
+⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "Seorang orang suci tidak dapat melakukan ketidakadilan."
 
 **Dalam bentuk orang kedua, ⟪अर्ह्⟫ + Infinitif sering digunakan sebagai perintah yang lebih halus: "Kau seharusnya".**
 
 **Ketika infinitif bergantung pada sebuah kata benda, ia tidak boleh digabungkan menjadi satu kata majemuk (kompositum) dengannya. Pengecualian adalah Bahuvrīhi, di mana bagian keduanya adalah ⟪काम⟫ atau ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "seseorang yang keinginannya adalah untuk berbicara; seseorang yang ingin berbicara".
+⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "seseorang yang keinginannya adalah untuk berbicara; seseorang yang ingin berbicara".
 :::
 ## 23.2. Pembentukan Infinitif (⟪तुमुन्⟫)
 

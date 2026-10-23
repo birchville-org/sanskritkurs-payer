@@ -2,7 +2,7 @@
 title: "Урок 45"
 subtitle: "Утворення дієслівних форм другої особи (⟪मध्यमः⟫) безтематичних основ без суфікса, що закінчується на голосний (продовження)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Leçon 46"
 subtitle: "Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -374,7 +374,9 @@ Absol. -⟪ग्राह्य⟫
 :::
 Pour ⟪राहु⟫ et ⟪केतु⟫, voir :
 
-> **Payer, Alois (1944–) :** Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles. -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–) :** Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles. -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Légende : [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/fr/licenses#lekt4602)

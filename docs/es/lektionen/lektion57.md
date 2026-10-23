@@ -2,7 +2,7 @@
 title: "Lección 57"
 subtitle: "Aoristo 4: aoristo s"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

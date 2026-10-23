@@ -2,7 +2,7 @@
 title: "Ejercicio 15"
 uebung_id: 15
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -145,5 +145,4 @@ Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione 
 ![](/images/uebung016.webp)
 Fig.: ⟪गृहकरणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung016))
-::: \<!--  --\>
 :::

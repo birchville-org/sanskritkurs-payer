@@ -2,7 +2,7 @@
 title: "Urok 11"
 subtitle: "Dvojni tožilnik (tožilnik osebe in stvari)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

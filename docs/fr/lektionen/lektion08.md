@@ -3,8 +3,8 @@ title: "Leçon 8"
 subtitle: "Formation des noms &amp; 8e classe de présent"
 lesson_id: 8
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-05-07
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 

@@ -2,7 +2,7 @@
 title: "පාඩම 57"
 subtitle: "අයරිස්ට් 4: s-අයරිස්ට්"
 lesson_id: 57
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Lekcia 45"
 subtitle: "Tvarotvorná koncovka druhej osoby (⟪मध्यमः⟫) atematických koreňov bez vokálového koncového prípony (pokračovanie)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

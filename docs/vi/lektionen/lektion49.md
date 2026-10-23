@@ -2,7 +2,7 @@
 title: "Bài 49"
 subtitle: "Hình thành thì mệnh lệnh (⟪लोट्⟫) của các gốc hiện tại không có âm đệm (tiếp theo)"
 lesson_id: 49
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

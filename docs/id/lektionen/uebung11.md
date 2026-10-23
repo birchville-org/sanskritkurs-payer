@@ -2,7 +2,7 @@
 title: "Latihan 11"
 uebung_id: 11
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

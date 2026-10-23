@@ -1,3 +1,4 @@
+
 # Yazma Alıştırması 8
 
 Kelime başındaki sesli harf işaretleri, eğer kelime önceki bir kelime ile yazıda bağlı değilse:

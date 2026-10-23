@@ -2,7 +2,7 @@
 title: "Урок 11"
 subtitle: "Подвійний знахідний відмінок (знахідний особовий та речовий)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

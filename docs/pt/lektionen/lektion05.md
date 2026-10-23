@@ -2,7 +2,7 @@
 title: "Lição 5"
 subtitle: "Fundamentos dos compostos nominais (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -63,16 +63,20 @@ Os membros anteriores dos compostos (não apenas os Dvandvas) têm, via de regra
 Exemplos de Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brâmanes, Kṣatriyas, Vaiśyas e Śūdras)
-> 
-> ou = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((um/o) Brâmane, Kṣatriya, Vaiśya e Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+(Brâmanes, Kṣatriyas, Vaiśyas e Śūdras)
+
+ou = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+((um/o) Brâmane, Kṣatriya, Vaiśya e Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Poetas e mestres [Plur.])
-> (Nota: "Um poeta e um mestre" deveria estar no dual!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+(Poetas e mestres [Plur.])
+(Nota: "Um poeta e um mestre" deveria estar no dual!)
+:::
 
 **Para a ordem dos membros em um Dvandva, aplicam-se, entre outras, as seguintes regras:**
 - A designação das diferentes castas (**varṇa**) deve ser ordenada de acordo com sua hierarquia (a mais alta primeiro).

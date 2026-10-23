@@ -2,7 +2,7 @@
 title: "Eserzitziun 37"
 uebung_id: 37
 category: "Eserzitziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

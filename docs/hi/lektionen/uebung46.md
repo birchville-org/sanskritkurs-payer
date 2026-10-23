@@ -2,7 +2,7 @@
 title: "अभ्यास 46"
 uebung_id: 46
 category: "अभ्यास"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

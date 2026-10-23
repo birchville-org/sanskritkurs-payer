@@ -2,7 +2,7 @@
 title: "पाठ 55"
 subtitle: "अ-आर्सीस्ट (विषमकाल में विषयस्वर के साथ)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

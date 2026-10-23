@@ -2,7 +2,7 @@
 title: Lektion 24
 subtitle: "与格（⟪चतुर्थी⟫ = 「第四格词尾」）"
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---

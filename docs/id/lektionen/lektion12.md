@@ -2,7 +2,7 @@
 title: "Pelajaran 12"
 subtitle: "Partisip Perfek Pasif (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ Dalam kasus ini, PPP sesuai dengan objek dalam jumlah, kasus, dan jenis kelamin.
 Kata kerja bantu ("menjadi") tidak diperlukan.
 
 Contoh:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Oleh orang suci, surga diperoleh) = Orang suci telah memperoleh surga."
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Oleh brahmana, dewi disembah dengan persembahan) = Brahmana telah menyembah dewi dengan persembahan."
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Oleh orang suci, surga diperoleh) = Orang suci telah memperoleh surga."
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Oleh brahmana, dewi disembah dengan persembahan) = Brahmana telah menyembah dewi dengan persembahan."
 :::
 
 ### 12.1.2. Skema I untuk kata kerja intransitif dan kata kerja pergerakan
@@ -42,7 +42,7 @@ Contoh:
 Dalam kasus ini, PPP sesuai dengan agen dalam jumlah, kasus, dan jenis kelamin. Partisip Perfek "Pasif" memiliki makna aktif pada kata kerja intransitif (kata kerja tanpa objek langsung) dan kata kerja pergerakan.
 
 Contoh:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Istri ksatria telah pergi ke kota.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Istri ksatria telah pergi ke kota.“
 :::
 
 ### 12.1.3. Skema II untuk kata kerja intransitif dan kata kerja pergerakan
@@ -51,7 +51,7 @@ Contoh:
 **Agen (kartṛ) dalam Kasus Instrumen (tṛtīyā) -- PPP di Nominatif Singular Neutrum**
 
 Contoh:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Oleh ksatria telah (ke kota) pergi) = Ksatria itu telah (ke kota) pergi.“
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Oleh ksatria telah (ke kota) pergi) = Ksatria itu telah (ke kota) pergi.“
 
 Konstruksi menurut Skema II jauh lebih jarang daripada konstruksi menurut Skema I.
 :::

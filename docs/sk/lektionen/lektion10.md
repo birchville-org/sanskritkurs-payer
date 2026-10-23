@@ -2,7 +2,7 @@
 title: "Lekcia 10"
 subtitle: "Pasívna veta (Instrumentál agensa)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schéma:**
 **(Agens - kartṛ - v inštrumentáli (tṛtīyā)) - (priamy objekt - karman - v nominatíve) - pasívny tvar slovesa**
+:::
 
+::: indent
 napr. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahman uctieva boha obetou" (doslovné: "Boh je od brahmaňa s obetou uctievaný.")
-
 Táto veta je **úplne (!) významovo totožná** s vetou:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternatívne: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम
 :::
 Sanskritové pasívne konštrukcie sú mimoriadne časté: pasíva sa totiž ľahšie tvorí ako napr. množstvo kmeňov prezenčných.
 
-::: important
+::: warning-box
 **Sanskritové pasívne vety sa vo všeobecnosti nemajú v nemčine vyjadrovať pomocou pasívnej vety, pretože nemecké pasívo má úplne inú štýlovú funkciu.**
 :::
 
@@ -234,8 +235,6 @@ napr. **tan** 8 U.
 ::: note-box
 V Indii sa pravému slovu pripisovala čarovná moc, dokonca celý svetový poriadok je udržiavaný a vytváraný pravým slovom. K tejto dôležitej predstave pozri základné dielo:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Z pozostalosti vydal Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Zv. 2: Varuna a Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Obr.: ⟪तन्तुवायः⟫
 **Čítajte, preložte a pretvorte do trpného rodu:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

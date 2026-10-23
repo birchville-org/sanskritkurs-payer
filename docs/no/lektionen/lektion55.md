@@ -2,7 +2,7 @@
 title: "Leksjon 55"
 subtitle: "A-aoristen (aorist med tematisk vokal)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "7. lecke"
 subtitle: "Az állítmányos mondat közvetlen tárggyal"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,11 +11,11 @@ status: stable
 # 7. lecke
 
 
-::: center
+::: verse-box
 **Heti idézet**
 :::
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -37,7 +37,9 @@ Az Isten győz, nem az istentelen.
 ::: grammar-box
 **Séma:**
 **(Alany = kartṛ m. = ⟪कर्तृ⟫) – közvetlen tárgy (karman n. = ⟪कर्मन्⟫) – ige**
+:::
 
+::: indent
 pl.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : „Ráma eszik (kaut) egy gyümölcsöt.”
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : „A bráhmanas istent áldozattal tisztel (valaki másért).”

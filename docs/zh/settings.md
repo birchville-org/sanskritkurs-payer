@@ -9,7 +9,7 @@ title: "設定"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**最新版本**：`v1.8.13`
-**發行說明與變更日誌**：[v1.8.13 更新內容](/zh/release-notes)
+**最新版本**：`v1.8.14`
+**發行說明與變更日誌**：[v1.8.14 更新內容](/zh/release-notes)
 **原始碼與程式庫**：[GitHub 程式庫](https://github.com/birchville-org/sanskritkurs-payer)
 :::

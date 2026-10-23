@@ -2,7 +2,7 @@
 title: "Lekcija 3"
 subtitle: "Nominativ jednine ženskog roda"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -34,7 +34,7 @@ The Nominative Singular is formed without an ending:
 
 :::
 
-::: important
+::: warning-box
 
 **Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose Nominative Singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the Nominative Singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
@@ -112,11 +112,15 @@ npr.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā je božanstvo" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā je božica hrane i kuhanja, smatra se utjelovljenjem Pārvatījeve, Šiveove supruge.)
+::: indent
+(Annapūrṇā je božica hrane i kuhanja, smatra se utjelovljenjem Pārvatījeve, Šiveove supruge.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī je božica" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī je supruga boga Indre.)
+::: indent
+(Indrāṇī je supruga boga Indre.)
+:::
 
 ::: media
 
@@ -141,7 +145,9 @@ npr.
 
 devī + umā » devy umā "Umā je božica" = ⟪देव्युमा⟫
 
-> (Umā je ime za Pārvatī, Šivuovu suprugu)
+::: indent
+(Umā je ime za Pārvatī, Šivuovu suprugu)
+:::
 
 ::: grammar-box
 

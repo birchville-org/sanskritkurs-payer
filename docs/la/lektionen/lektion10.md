@@ -2,7 +2,7 @@
 title: "Lectio 10"
 subtitle: "Propositum passivum (Instrumentalis agentis)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Schema:**
 **(Agens - kartṛ - in Instrumentali (tṛtīyā)) - (Objectum directum - karman - in Nominativo) - forma verbalis passiva**
+:::
 
+::: indent
 e.g. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Brahmanus deum sacrificium offert" (literally: "Deus a Brahmano cum sacrificio colitur.")
-
 Haec sententia est **plane (!) significatu aequivalens** cum sententia:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternative: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्राम�
 :::
 Constructiones passivae Sanscriticae valde saepe occurrunt: nam etiam facilior est passivum formari quam, exempli gratia, plures radix praesentis.
 
-::: important
+::: warning-box
 **Propositiones passivae Sanscriticae in Germanico sermone, ut generaliter dicitur, non per propositionem passivam reddi debent, quia Germanicum passivum omnino aliam functionem stilisticam habet.**
 :::
 
@@ -234,8 +235,6 @@ e.g. **tan** 8 U.
 ::: note-box
 In India verbo vero vim magicam attribuebant, immo totum ordinem mundi per verbum verum conservatur et creatur. De hac imagine momenti fundamentalis vide opus principale:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex posthumis edidit Ludwig Alsdorf. - Göttingae : Vandenhoeck & Ruprecht. -- Tomus 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Legite et vertite ac in passivum convertite:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

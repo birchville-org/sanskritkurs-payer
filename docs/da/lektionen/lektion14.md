@@ -2,7 +2,7 @@
 title: "Lektion 14"
 subtitle: "Udtrykket for forholdet mellem det, der betegnes ved substantiver: genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sjette kasusendelse)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,7 +32,7 @@ Eksempler:
 
 Den normale ordstilling er:
 
-> **Bestemmende ord i genitiv — Nærmere bestemt substantiv i en anden kasus**
+**Bestemmende ord i genitiv — Nærmere bestemt substantiv i en anden kasus**
 
 :::
 
@@ -44,9 +44,9 @@ Ved PPP'er kan genitivet i stedet for instrumentalis (tṛtīyā) stå for agent
 
 Ifølge Pāṇini 2.3.67 står der genitiv ved PPP'et, hvis PPP'et har præsensbetydning (se ovenfor), og instrumentalis, hvis PPP'et har fortidsbetydning:
 
-> ⟪रामस्येष्टं फलम्⟫ "Den af Rāma ønskede frugt = Den frugt, som Rāma i øjeblikket ønsker"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Den frugt, som Rāma har ønsket"
+⟪रामस्येष्टं फलम्⟫ "Den af Rāma ønskede frugt = Den frugt, som Rāma i øjeblikket ønsker"
+
+⟪रामेणेष्टं फलम्⟫ "Den frugt, som Rāma har ønsket"
 
 Selvfølgelig står der i tilfælde af et PPP neutrum singular, som bruges som verbalabstraktum - altså som substantiv - genitiv.
 
@@ -66,7 +66,7 @@ Efter konsonant er de regelmæssige genitivendelser:
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalstamme | Svag stamme | Genitiv singular | Genitiv plural |
 | :--- | :--- | :--- | :--- |
@@ -83,11 +83,11 @@ Efter konsonant er de regelmæssige genitivendelser:
 
 Genitiv plural af vokalisk udløbende stammer dannes således:
 
-> **-lang udløbende vokal af stammen + -nām**
+**-lang udløbende vokal af stammen + -nām**
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalstamme | Genitiv plural |
 | :--- | :--- |
@@ -110,7 +110,7 @@ Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør ind
 
 :::
 
-::: center
+::: verse-box
 
 | Stammen | Genitiv singular |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør ind
 
 **Interrogativ- og demonstrativpronomen:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ Genitiv singular af vokalisk stammende stammer dannes uregelmæssigt og bør ind
 
 **Formensammenfald:**
 
-::: important
+::: warning-box
 
 Hos alle nominalstammer undtagen maskulina og neutra på -a samt pronominerne er formen for genitiv singular identisk med formen for ablativ (pañcamī "femte kasusendelse") singular!
 
@@ -154,11 +154,11 @@ Bemærk, at ved stammer med konsonantisk udlødning er ablativ og genitiv ental 
 
 I modsætning til ovenstående grundregel bruges genitiv til at udtrykke objektet for nogle verber, f.eks. ved minder-verber:
 
-> ⟪देवानां स्मरति⟫ "Han mindes guderne"
+⟪देवानां स्मरति⟫ "Han mindes guderne"
 
 For alle disse verber kan objektet dog også stå i akkusativ:
 
-> ⟪देवान्स्मरति⟫ "Han mindes guderne"
+⟪देवान्स्मरति⟫ "Han mindes guderne"
 
 Yderligere senere.
 

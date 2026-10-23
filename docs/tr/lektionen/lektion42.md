@@ -2,7 +2,7 @@
 title: "Ders 42"
 subtitle: "ṛ ile biten kökler"
 lesson_id: 42
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

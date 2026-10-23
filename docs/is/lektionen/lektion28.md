@@ -2,7 +2,7 @@
 title: "Lección 28"
 lesson_id: 28
 status: stable
-last_reconstructed: 2026-05-16
+last_reconstructed: 2026-10-23
 
 ---
 

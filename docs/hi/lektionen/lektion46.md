@@ -2,7 +2,7 @@
 title: "पाठ 46"
 subtitle: "द्वितीय पुरुष के क्रिया रूपों का निर्माण (⟪⟪मध्यमः⟫⟫) पूर्णकाल (⟪⟪लिट्⟫⟫)"
 lesson_id: 46
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -366,7 +366,9 @@ Absol. -⟪ग्राह्य⟫
 :::
 ⟪राहु⟫ और ⟪केतु⟫ के लिए देखें:
 
-> **पेयर, अलोइस (1944–):** धर्मशास्त्र : परिचय और अवलोकन. -- 10. संस्कार और संक्रमण अनुष्ठान (संस्कार). -- अनुलग्नक सी: राहु और केतु, अदृश्य चलते तारे . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**पेयर, अलोइस (1944–):** धर्मशास्त्र : परिचय और अवलोकन. -- 10. संस्कार और संक्रमण अनुष्ठान (संस्कार). -- अनुलग्नक सी: राहु और केतु, अदृश्य चलते तारे . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 अभ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/hi/licenses#lekt4602)

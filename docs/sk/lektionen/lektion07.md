@@ -2,7 +2,7 @@
 title: "Lekcia 7"
 subtitle: "Veta s slovesom a priamym objektom"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,14 +11,14 @@ status: stable
 # Lekcia 7
 
 
-::: center
+::: verse-box
 
 **Týždenné heslo**
 
 :::
 
 
-::: center
+::: verse-box
 
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
@@ -41,14 +41,14 @@ Boh víťazí, nie božský nepriateľ.
 ## 7.1. Slovesná veta s priamym objektom
 
 ::: grammar-box
-
 **Schéma:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – priame objekt (karman n. = ⟪कर्मन्⟫) – sloveso**
+:::
 
+::: indent
 napr.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : „Ráma jedie (požíva) ovocie.“
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : „Brahman uctieva boha obetou (pre niekoho iného).“
-
 :::
 
 Ak je sloveso v tvare Parasmaipada alebo Ātmanepada, stojí priame objekt (**karman** n. = ⟪कर्मन्⟫) všeobecne v **akuzatíve** (4. pád, dvitīyā ž. = ⟪द्वितीया⟫).

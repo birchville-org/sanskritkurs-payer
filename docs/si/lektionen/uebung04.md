@@ -2,7 +2,7 @@
 title: "අභ්‍යාසය 4"
 uebung_id: 4
 category: "අභ්‍යාසය"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

@@ -2,7 +2,7 @@
 title: "పాఠం 7"
 subtitle: "ప్రత్యక్ష కర్తతో కూడిన క్రియా వాక్యం"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -11,12 +11,12 @@ status: stable
 # పాఠం 7
 
 
-::: center
+::: verse-box
 **వార వచనం**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -39,7 +39,9 @@ status: stable
 ::: grammar-box
 **సూత్రం:**
 **(కర్త = kartṛ m. = ⟪कर्तृ⟫) – ప్రత్యక్ష కర్మ (karman n. = ⟪कर्मन्⟫) – క్రియ**
+:::
 
+::: indent
 ఉదాహరణకు
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "రామ ఫలాన్ని తింటాడు."
 **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "బ్రాహ్మణుడు దేవుడిని యజ్ఞంతో పూజిస్తాడు (ఇతరుల కోసం)."

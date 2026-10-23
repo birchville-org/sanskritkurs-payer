@@ -2,7 +2,7 @@
 title: "Lektion 45"
 subtitle: "Dannelsen af verbalformer for 2. person (⟪मध्यमः⟫) athematiske stammer uden vokalisk endende suffix (fortsættelse)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -11,7 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-::: center
+::: verse-box
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -198,7 +198,7 @@ Com o sufixo **-a** e (mais raramente) **-ya**, um substantivo pode ser derivado
 
 As palavras derivadas têm o significado:
 
-> "tendo alguma relação com o que é designado pela palavra base"
+"tendo alguma relação com o que é designado pela palavra base"
 
 p. ex.
 

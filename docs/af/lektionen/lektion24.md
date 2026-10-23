@@ -2,7 +2,7 @@
 title: "Lesing 24"
 subtitle: 'Die datief (⟪चतुर्थी⟫ = "vierde naamvalsuitgang")'
 lesson_id: 24
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

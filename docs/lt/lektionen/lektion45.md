@@ -2,7 +2,7 @@
 title: "Pamoka 45"
 subtitle: "Antros asmenies veiksmažodžio formų kūrimas (⟪मध्यमः⟫) bebalėms šaknims, neturinčioms balsinio priesagos pabaigos (tęsinys)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

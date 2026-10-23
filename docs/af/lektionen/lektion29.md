@@ -2,7 +2,7 @@
 title: "Lesing 29"
 subtitle: "Gebruik van die Parasmaipada (⟪परस्मैपद⟫) en Ātmanepada (⟪आत्मनेपद⟫) in die Kausatief"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

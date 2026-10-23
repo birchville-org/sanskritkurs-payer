@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : śūdra (szolgálati rend).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**A négy rend (varṇa)**
+
 A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása:
 
 **a brāhmanáké**
@@ -463,8 +465,6 @@ ebből: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृष�
 ::: note-box
 Indiában az igaz szón varázserőt tulajdonítottak, sőt az egész világrendet az igaz szó tartja fenn és teremti meg. E fontos elképzelésről lásd az alapvető művet:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hagyatékból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. köt.: Varuna és a Ṛta. -- 1959. -- XXIII o., o. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Kép: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : kérdezni (valakit: Akk.; valamiről: Akk.)
 **saha** ⟪सह⟫ : együtt, társul (pl. „küzd valakivel“ stb.) (posztpozíció az instrumentálissal)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A szerző hagyatékából kiadta Ludwig Alsdorf. – Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. – 1959. -- XXIII old., 340–764. old.
 :::
 
@@ -528,7 +528,7 @@ Kép: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : kérdezni (valakit: Akk.; valamiről: Akk.)
 **saha** ⟪सह⟫ : együtt, társul (pl. „küzd valakivel“ stb.) (posztpozíció az instrumentálissal)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hagyatékból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. köt.: Varuna és a Ṛta. -- 1959. -- XXIII o., o. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Tanulják meg a következő szavakat:
 **eva** ⟪एव⟫ : hangsúlyozza az előtte álló szót
 **asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Spirituális, isteni.'
->
-> A Ṛgvéda legrégebbi részeiben ezt a kifejezést a legfelső szellemre használják, és ugyanazt jelenti, mint az ahura a zoroasztriánusoknál. Az 'isten' értelemben több fő istenségre is alkalmazták, mint például Indra, Agni és Varuṇa esetében. Később teljesen ellentétes jelentést kapott, és most már démonnak vagy az istenek ellenségének nevezik.
->
-> Ezt a jelentést a Ṛgvéda későbbi részeiben, különösen az utolsó könyvben találjuk meg, valamint az Atharvavédában is. A Brāhmaṇák ugyanerre a jelentésre utalnak, és sok küzdelmet rögzítenek az Asurák és az istenek között. A Taittirīya Brāhmaṇa szerint Prajapati lélegzete *(asu)* életre kelt, és "azzal a lélegzettel teremtette meg engem Asurákként." Ugyanezen mű másik részében azt mondják, hogy Prajāpati "terhes lett. Hasból teremtette az Asurákat." A Śatapatha Brāhmaṇa megegyezik az előző állítással, és azt mondja, hogy "alsó lélegzetéből teremtette az Asurákat." A Taittirīya Āraṇyaka szerint Prajāpati isteneket, embereket, atyákat, Gandharvák és Apsarasok teremtett a vízből, míg az Asurák, Rakṣasas és piśācas a kiömlött cseppekből származtak. Manu állítása szerint őket a Prajāpatis teremtették.
->
-> A Viṣṇu Purāṇa szerint Brahma (prajāpati) csípőjéből származtak. A Vāyu Purāṇa leírása: "Az Asurák először fiakként születtek meg (Prajāpati) csípőjéből. *Asu* a Brāhmaṇa szerint lélegzetet jelent. Ebből ezek a lények születtek; ezért Asurák." A szó régóta általános névként használatos az istenek ellenségeire, beleértve a Daityas és Danavasokat, valamint Kaśyapa egyéb leszármazottait, de nem tartalmazza Pulastya leszármazott Rakṣasasokat.
->
-> Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és asura azt jelenti: 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'isten' jelentésben használnak."
->
-> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Spirituális, isteni.'
+
+A Ṛgvéda legrégebbi részeiben ezt a kifejezést a legfelső szellemre használják, és ugyanazt jelenti, mint az ahura a zoroasztriánusoknál. Az 'isten' értelemben több fő istenségre is alkalmazták, mint például Indra, Agni és Varuṇa esetében. Később teljesen ellentétes jelentést kapott, és most már démonnak vagy az istenek ellenségének nevezik.
+
+Ezt a jelentést a Ṛgvéda későbbi részeiben, különösen az utolsó könyvben találjuk meg, valamint az Atharvavédában is. A Brāhmaṇák ugyanerre a jelentésre utalnak, és sok küzdelmet rögzítenek az Asurák és az istenek között. A Taittirīya Brāhmaṇa szerint Prajapati lélegzete *(asu)* életre kelt, és "azzal a lélegzettel teremtette meg engem Asurákként." Ugyanezen mű másik részében azt mondják, hogy Prajāpati "terhes lett. Hasból teremtette az Asurákat." A Śatapatha Brāhmaṇa megegyezik az előző állítással, és azt mondja, hogy "alsó lélegzetéből teremtette az Asurákat." A Taittirīya Āraṇyaka szerint Prajāpati isteneket, embereket, atyákat, Gandharvák és Apsarasok teremtett a vízből, míg az Asurák, Rakṣasas és piśācas a kiömlött cseppekből származtak. Manu állítása szerint őket a Prajāpatis teremtették.
+
+A Viṣṇu Purāṇa szerint Brahma (prajāpati) csípőjéből származtak. A Vāyu Purāṇa leírása: "Az Asurák először fiakként születtek meg (Prajāpati) csípőjéből. *Asu* a Brāhmaṇa szerint lélegzetet jelent. Ebből ezek a lények születtek; ezért Asurák." A szó régóta általános névként használatos az istenek ellenségeire, beleértve a Daityas és Danavasokat, valamint Kaśyapa egyéb leszármazottait, de nem tartalmazza Pulastya leszármazott Rakṣasasokat.
+
+Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és asura azt jelenti: 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'isten' jelentésben használnak."
+
+[Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3790,7 +3792,9 @@ ebből:
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ vonatkozásában lásd:
 
-> **Payer, Alois (1944–):** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rituálék (szamszkára). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rituálék (szamszkára). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Ábra: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4406,7 +4410,9 @@ a többi időben nem használatos
 
 ⟪अजिन⟫ n.: antilopbőr, különösen a fekete antilop (szarvasantilop : _Antilope cervicapra_ L. ) bőre. Eredetileg az egész indiai szubkontinensen előfordult Punjáb és Sindh tartományoktól Bengáliáig, valamint Nepáltól Kanyakumariig (Cape Comorin) (Tamil: கன்னியாகுமரி) Lásd:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiad. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193f. o.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. kiad. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 kötet. -- ISBN 0-8018-5789-9. -- 2. kötet. -- 1193f. o.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

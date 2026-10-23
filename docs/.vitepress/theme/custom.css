@@ -233,7 +233,24 @@ mark,
   border: 1px solid #94a3b8 !important;
 }
 
-/* Phonetic Tables (Lektion 1, etc.) */
+/* Erste Tabellenspalte: Mindestbreite zur Verhinderung unerwünschter Umbrüche */
+.vp-doc table td:first-child,
+.vp-doc table th:first-child {
+  width: 9.5rem;
+}
+
+.vp-doc table td:first-child {
+  white-space: nowrap;
+}
+
+/* Tabellen mit langen Fließtexten in Spalte 1 (z. B. Sandhi-Erklärungen) dürfen umbrechen */
+.vp-doc table td:first-child:has(p),
+.vp-doc table td:first-child.wrap,
+.vp-doc .wrap-col1 table td:first-child {
+  white-space: normal;
+}
+
+/* Abwärtskompatibilität für laut-table */
 .vp-doc .custom-block.laut-table table td:first-child {
   white-space: nowrap;
   min-width: 9rem;
@@ -370,6 +387,28 @@ html[dir="rtl"] .vp-doc em {
 
 .vp-doc .custom-block.grammar-box2 .custom-block-title {
   display: none;
+}
+
+/* Custom Block: Warning-Box (Birchville Scholarly Warning) */
+.vp-doc .custom-block.warning-box {
+  background-color: #fff7ed !important; /* Warm peach */
+  border: none !important;
+  border-left: 5px solid #ea580c !important; /* Scholarly Terracotta */
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  font-size: 1.1rem !important;
+  color: var(--vp-c-text-1) !important;
+}
+
+.dark .vp-doc .custom-block.warning-box {
+  background-color: #361e04 !important;
+  border-left-color: #ea580c !important;
+}
+
+.vp-doc .custom-block.warning-box .custom-block-title {
+  display: none !important;
 }
 
 .vp-doc .grammar-box2 blockquote {
@@ -536,6 +575,29 @@ html[dir="rtl"] .vp-doc em {
   font-size: 4rem !important;
   line-height: 1.2 !important;
   display: block !important;
+}
+
+/* Verse Box (for Ślokas, Mantras, Prayers, Reading Texts) */
+.vp-doc .verse-box,
+.vp-doc .custom-block.verse-box {
+  width: 100% !important;
+  text-align: center !important;
+  margin: 2rem 0 !important;
+  display: block !important;
+}
+
+.vp-doc .verse-box p,
+.vp-doc .custom-block.verse-box p {
+  text-align: center !important;
+  white-space: pre-line !important;
+  display: block !important;
+  width: 100% !important;
+  margin: 0 auto 1.25rem auto !important;
+  line-height: 1.55 !important;
+}
+
+.vp-doc .custom-block.verse-box .custom-block-title {
+  display: none !important;
 }
 
 /* Important Box (Violet with Traffic Sign) */
@@ -1166,25 +1228,6 @@ select.control-btn,
   font-weight: 700 !important;
   letter-spacing: -0.015em !important;
   color: var(--vp-c-text-1) !important;
-}
-
-/* Universal Hamburger Drawer on all screens */
-.VPNavBarMenu {
-  display: none !important;
-}
-
-.VPNavBarHamburger {
-  display: none !important;
-}
-
-.VPNavScreen {
-  display: none !important;
-}
-
-.VPNavBar .content-body {
-  display: flex !important;
-  align-items: center !important;
-  gap: 4px !important;
 }
 
 /* Footnotes (markdown-it-footnote) and definition lists (markdown-it-deflist) */

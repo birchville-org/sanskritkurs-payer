@@ -2,7 +2,7 @@
 title: "Pamoka 29"
 subtitle: "Parasmaipada (⟪परस्मैपद⟫) ir Ātmanepada (⟪आत्मनेपद⟫) vartojimas kausatyvo formose"
 lesson_id: 29
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

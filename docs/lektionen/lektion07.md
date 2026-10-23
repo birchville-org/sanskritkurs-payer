@@ -2,7 +2,7 @@
 title: Lektion 7
 subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -10,12 +10,12 @@ status: stable
 # Lektion 7
 
 
-::: center
+::: verse-box
 **Wochenspruch**
 :::
 
 
-::: center
+::: verse-box
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -38,7 +38,9 @@ Gott siegt, nicht der Widergott.
 ::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb**
+:::
 
+::: indent
 z.B.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."

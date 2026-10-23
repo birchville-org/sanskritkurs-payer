@@ -2,7 +2,7 @@
 title: "ਪਾਠ 52"
 subtitle: "i ਅਤੇ -u ਨਾਲ ਸਮਾਪਤ ਹੋਣ ਵਾਲੇ ਵਿਸ਼ੇਸ਼ ਪਦਾਂ ਦਾ ਨਿਰਪੁੰਸ਼ ਲਿੰਗ"
 lesson_id: 52
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

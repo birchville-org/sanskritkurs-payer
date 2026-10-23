@@ -2,7 +2,7 @@
 title: "Bài 10"
 subtitle: "Câu bị động (Instrumentalis của tác nhân)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Mẫu câu:**
 **(Chủ ngữ - kartṛ - ở cách dụng cụ (tṛtīyā)) - (Tân ngữ trực tiếp - karman - ở cách chủ ngữ) - dạng động từ bị động**
+:::
 
+::: indent
 Ví dụ: **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Một người Bà-la-môn thờ phụng một vị thần bằng một lễ vật" (nghĩa đen: "Một vị thần được thờ phụng bởi một người Bà-la-môn bằng một lễ vật.")
-
 Câu này **hoàn toàn (!) đồng nghĩa** với câu:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ hoặc: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रामो ग
 :::
 Các cấu trúc bị động trong tiếng Phạn rất thường gặp: thực tế, việc hình thành thể bị động dễ dàng hơn nhiều so với ví dụ như vô số gốc hiện tại.
 
-::: important
+::: warning-box
 **Các câu bị động trong tiếng Phạn nói chung không nên được diễn đạt bằng một câu bị động trong tiếng Đức, vì thể bị động của tiếng Đức có chức năng phong cách hoàn toàn khác.**
 :::
 
@@ -234,8 +235,6 @@ Ví dụ: **tan** 8 U.
 ::: note-box
 Ở Ấn Độ, lời nói chân thật được cho là có sức mạnh ma thuật; thậm chí toàn bộ trật tự vũ trụ được duy trì và sáng tạo bởi lời nói chân thật. Để hiểu rõ quan niệm quan trọng này, xem tác phẩm nền tảng:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Xuất bản từ di sản do Ludwig Alsdorf biên tập. - Göttingen : Vandenhoeck & Ruprecht. -- Tập 2: Varuna và Ṛta. -- 1959. -- XXIII trang, S. 340 - 764
 :::
 
@@ -369,7 +368,7 @@ Hình: ⟪तन्तुवायः⟫
 **Hãy đọc, dịch sang tiếng Việt và chuyển sang bị động:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

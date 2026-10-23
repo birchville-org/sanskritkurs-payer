@@ -2,7 +2,7 @@
 title: "Ders 17"
 subtitle: "İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫ = ⟪अद्⟫ vb.)"
 lesson_id: 17
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

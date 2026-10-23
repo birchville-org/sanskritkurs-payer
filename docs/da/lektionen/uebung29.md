@@ -2,7 +2,7 @@
 title: "Øvelse 29"
 uebung_id: 29
 category: "Übung"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -23,10 +23,12 @@ Uvidenhed betyder, at man betragter det Foranderlige, Det Upure, Det Smertefulde
 
 Foran et for strengt styre (daṇḍa) skal væsener ryste af skræk. Et slapt styre bliver foragtet. Et lige rigtigt styre bliver æret. Et klogeligt ledt styre fremmer retfærdighed, gevinst og lyst blandt undersåtterne. Et dårligt ledt styre på grund af lyst og had eller foragt volder selv gamle, der er trukket tilbage til skoven, og vandrende asketer i vrede, hvor meget så ikke husfædre. Ikke-udøvet styre medfører adfærd som fisk (mātsyanayāya). Hvis der ikke er nogen, der opretholder styret, sluger den stærke den svage. Hvis den svage beskyttes af styrets indehaver, trives han.
 
-> Verden med sine fire stænder og levefaser  
-> Beskyttes af kongen gennem styret:  
-> Glad over sin virksomhed efter egen ret og skik  
-> Bevæger den sig på sine egne baner.
+::: indent
+Verden med sine fire stænder og levefaser
+Beskyttes af kongen gennem styret:
+Glad over sin virksomhed efter egen ret og skik
+Bevæger den sig på sine egne baner.
+:::
 
 ::: media
 ![](/images/uebung046.webp)

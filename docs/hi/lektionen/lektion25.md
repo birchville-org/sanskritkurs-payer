@@ -2,7 +2,7 @@
 title: "पाठ 25"
 subtitle: 'षष्ठी विभक्ति का निर्माण (⟪⟪पञ्चमी⟫⟫ = "षष्ठी विभक्ति का प्रत्यय")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

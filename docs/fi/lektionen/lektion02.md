@@ -3,8 +3,8 @@ title: "Oppitunti 2"
 subtitle: "Nominaalilause ja deklinaation perusteet"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Kaava: Predikaattinominatiivi - Subjekti**
+:::
 
+::: indent
 esim. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu on jumala."
 :::
 Verbiä "olla" ("on", "ovat", "olen", "olet", "olette") ei tarvita, mutta se voi joskus esiintyä.
@@ -76,7 +78,9 @@ Sanskritissa sanan lopun äänteet mukautuvat myös seuraavan sanan alkuääntei
 
 Katso myös yhteenveto:
 
-> **Payer, Alois (1944–):** Lopun -s sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Lopun -s sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Lopun **-s**:
 
@@ -120,7 +124,9 @@ muiden vokaalien edellä: muuttuu **-a:ksi** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (palvelussääty).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Neljä säätyä (varṇa)**
+
 Klassisen teorian mukaan (esim. Manusmṛti I, 88-91) tehtävät on jaettu:
 
 **brahmanien**

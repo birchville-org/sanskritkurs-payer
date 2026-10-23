@@ -2,7 +2,7 @@
 title: "第4课"
 subtitle: "主格中的疑问代词和指示代词"
 lesson_id: 4
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -73,7 +73,9 @@ status: stable
 :::
 另一个疑问句的例子：
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，名词句中可将主语置于句首，例如，以强调与问题的衔接。）
+::: indent
+viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，名词句中可将主语置于句首，例如，以强调与问题的衔接。）
+:::
 
 注：您目前凭借所学梵语知识对这类问题给出的回答，自然尚未在各方面都符合地道的梵语表达。
 

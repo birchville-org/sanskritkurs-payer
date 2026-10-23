@@ -2,7 +2,7 @@
 title: "पाठ 45"
 subtitle: "द्वितीय पुरुष के क्रिया रूपों का निर्माण (⟪⟪मध्यमः⟫⟫) अथेमाटिक वंशों का, जिनके उपसर्ग स्वरान्त नहीं हैं (अनुक्रम)"
 lesson_id: 45
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

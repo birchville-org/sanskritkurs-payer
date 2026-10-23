@@ -2,7 +2,7 @@
 title: "Ezercitaziun 50"
 uebung_id: 50
 category: "Ezercitaziun"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -15,7 +15,9 @@ A) Per la repetiziun da la declinaziun: Il vers suenterent cuntegna tut las form
 **⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫**  
 **⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
 
-> Mia magistra è mia protecziun,  
+::: indent
+Mia magistra è mia protecziun,
+:::
 Jau onuresch ma magister,  
 Jau sun cun mes magister ensemen,  
 Onur al ma magister,  
@@ -35,7 +37,9 @@ Magister, custodi mai!
 **⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
 **⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Ina vart vegn sin il via dals bun, sin la quala ils patris han gì, sin la quala ils avos onn gì. Sche in va sin questa via, alura n'ha el nagin detriment.
+::: indent
+Ina vart vegn sin il via dals bun, sin la quala ils patris han gì, sin la quala ils avos onn gì. Sche in va sin questa via, alura n'ha el nagin detriment.
+:::
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
@@ -44,7 +48,9 @@ Magister, custodi mai!
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Famiglias vegnan a famiglias malgias per malas nuzas, per la ommissiun dals ritgs, per il na-studiar las Vedas e per transgressiuns cunter brahmanes.
+::: indent
+Famiglias vegnan a famiglias malgias per malas nuzas, per la ommissiun dals ritgs, per il na-studiar las Vedas e per transgressiuns cunter brahmanes.
+:::
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
@@ -53,7 +59,9 @@ Magister, custodi mai!
 **⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
 **⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> Ina famiglia, nua che il marià cun la sposa è adina cuntenta e la sposa cun il marià, en ina tal famiglia è l'adina feliç cert.
+::: indent
+Ina famiglia, nua che il marià cun la sposa è adina cuntenta e la sposa cun il marià, en ina tal famiglia è l'adina feliç cert.
+:::
 
 ::: media
 ![](/images/uebung081.webp)
@@ -74,7 +82,9 @@ Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 **⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Ina s'engascha adina en il studiar las Vedas e en ils ritgs per ils deus. Sche in s'engascha en ils ritgs per ils deus, alura riceva el questa mund da vivents e non-vivents. Il sacrifici, che è en moda dretga lantschà en il fieu, va al sun, dal sun nascha la plievgia, da la plievgia nascha il mangiativel, dals quai las creatiras.
+::: indent
+Ina s'engascha adina en il studiar las Vedas e en ils ritgs per ils deus. Sche in s'engascha en ils ritgs per ils deus, alura riceva el questa mund da vivents e non-vivents. Il sacrifici, che è en moda dretga lantschà en il fieu, va al sun, dal sun nascha la plievgia, da la plievgia nascha il mangiativel, dals quai las creatiras.
+:::
 
 ::: media
 ![](/images/uebung082.webp)
@@ -88,7 +98,9 @@ Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
 **⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Abandonar è il suentervenint dolur.  
+::: indent
+Abandonar è il suentervenint dolur.
+:::
 Causa da quest abandonader è la connexiun dal visur e il visibel [= percipient ed object da percepziun].
 
 
@@ -101,7 +113,9 @@ Causa da quest abandonader è la connexiun dal visur e il visibel [= percipient 
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [Il rex] na dispremia nagut, el audia l'opiniun da mintgin. In savì ademplescha era la paraula d'in puer, sche ella è impurtanta.
+::: indent
+[Il rex] na dispremia nagut, el audia l'opiniun da mintgin. In savì ademplescha era la paraula d'in puer, sche ella è impurtanta.
+:::
 
 ---
 
@@ -112,18 +126,24 @@ Causa da quest abandonader è la connexiun dal visur e il visibel [= percipient 
 **⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
 **⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> **Ācārya** è numnà quel ch'è naschì duas giadas, il qual dat l'Upanayana al discepel ed el ensogna alura il Veda, il ritual e la dottrina secreta.
+::: indent
+**Ācārya** è numnà quel ch'è naschì duas giadas, il qual dat l'Upanayana al discepel ed el ensogna alura il Veda, il ritual e la dottrina secreta.
+:::
 
 **⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
 **⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> **Upādhyāya** è numnà quel, il qual ensogna ina part dal Veda u las scienzas auxiliaras per sasez sustegniment.
+::: indent
+**Upādhyāya** è numnà quel, il qual ensogna ina part dal Veda u las scienzas auxiliaras per sasez sustegniment.
+:::
 
 **⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
 **⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  
 **⟪संभावयति⟫ ⟪चान्नेन⟫**  
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** è numnà il Brahman, il qual executa conformamain las disposiziuns Niṣeka e ils auters rituals ed el fa nascher el tras nutriment.
+::: indent
+**Guru** è numnà il Brahman, il qual executa conformamain las disposiziuns Niṣeka e ils auters rituals ed el fa nascher el tras nutriment.
+:::

@@ -2,7 +2,7 @@
 title: "Lecție 25"
 subtitle: 'Formarea ablativului (⟪पञ्चमी⟫ = "cincilea terminație cazuală")'
 lesson_id: 25
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

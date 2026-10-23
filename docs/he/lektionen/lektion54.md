@@ -2,7 +2,7 @@
 title: Lektion 54
 subtitle: "Vorbemerkung"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -48,13 +48,13 @@ status: stable
 סכמה I:
 
 :::
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 סכמה II:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
@@ -62,13 +62,13 @@ metrik-schema
 
 צורת הבסיס של ה⟪जगती⟫: כמו ה⟪त्रिष्टुभ्⟫, אך 12 הברות. חמש ההברות האחרונות של כל פאדה מרימות את הכמויות הבאות:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **— ◡ — ◡ —**
 :::
 בנוסף קיימת כן ה⟪त्रिष्टुभ्⟫ הנקראת 'טיפוסית עודפת' עם מרכיב התחלתי בן 5 הברות, שמתקדמת כשיר ה⟪त्रिष्टुभ्⟫ עם מרכיב התחלתי בן 4 הברות:
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
@@ -76,13 +76,13 @@ metrik-schema
 
 א) ה⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 ב) ה⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::

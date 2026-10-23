@@ -2,7 +2,7 @@
 title: "تمرين 3"
 uebung_id: 3
 category: "تمرين"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

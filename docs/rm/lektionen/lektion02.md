@@ -3,8 +3,8 @@ title: "Lecziun 2"
 subtitle: "La frasa nominala ed ils fundament da la declinaziun"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schema: Predicat - Subject**
+:::
 
+::: indent
 p.ex. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu è in diu."
 :::
 Ina copula verbala ("è", "sün", "su", "es", "ess") n'è betg necessari, ma po vegnir adina puspè.
@@ -76,7 +78,9 @@ La fin d'in pled s'orientescha en il sanscript er tenor l'inizial dal pled suand
 
 Vesa er la survista:
 
-> **Payer, Alois \<1944 - \>:** Sandhi da -s finala. -- (Materials al sanscrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois \<1944 - \>:** Sandhi da -s finala. -- (Materials al sanscrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Finala **-s**:
 
@@ -120,7 +124,9 @@ Finala **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (classa da prestaziuns).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Ils quatter stadis (varṇa)**
+
 Secund la teoria classica (p.ex. Manusmṛti I, 88-91) èn las activitads distribuidas:
 
 - **dals Brahmanes**

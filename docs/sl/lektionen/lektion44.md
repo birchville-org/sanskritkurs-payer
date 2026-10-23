@@ -2,7 +2,7 @@
 title: "Urok 44"
 subtitle: "Oblikovanje glagolskih oblik druge osebe (⟪मध्यमः⟫) atematskih korenov z vokalskim končnim sufiksom"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -237,7 +237,7 @@ npr. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪
 
 Domorodni gramatiki obravnavajo vokativ (⟪आमन्त्रितम्⟫) ne kot samostojni sklon, temveč le kot modifikacijo nominativa (⟪प्रथमा⟫).
 
-::: important
+::: warning-box
 
 **Vokativ služi klicu, nagovoru in stoji zunaj povezave z ostankom stavka, zato se razlikuje od drugih sklonov, ki izražajo odnos do glagola ali drugega imenika.**
 
@@ -251,7 +251,7 @@ Domorodni gramatiki obravnavajo vokativ (⟪आमन्त्रितम्⟫
 
 :::
 
-::: important
+::: warning-box
 
 **Izogibajte se prevajanju vokativa z "**O** ...". V nemščini pogosto uporabljamo vokative, ko na primer rečemo: "Dragi, kaj danes kuhamo?". Noben v tem pomenu ne bi rekel: "**O** dragi, kaj danes kuhamo?"**
 

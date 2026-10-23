@@ -2,7 +2,7 @@
 title: "Les 43"
 subtitle: 'Persoonlijke uitgangen van de tweede persoon (⟪मध्यमः⟫ = \"midden <persoon>\")'
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

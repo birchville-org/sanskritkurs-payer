@@ -2,7 +2,7 @@
 title: "Урок 43"
 subtitle: "Лични окончания за второ лице (⟪मध्यमः⟫ = „средно <лице>“ )"
 lesson_id: 43
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

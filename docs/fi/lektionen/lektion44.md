@@ -2,7 +2,7 @@
 title: "Oppitunti 44"
 subtitle: "Toisen persoonan verbinen muodostaminen (⟪मध्यमः⟫) atemaattisissa varmoissa, joiden päätteet päättyvät vokaaliin"
 lesson_id: 44
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -186,7 +186,7 @@ Esim. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 
 Paikalliset grammatikot eivät pidä vokatia (⟪आमन्त्रितम्⟫) erillisenä sijana, vaan ainoastaan nominatiivin (⟪प्रथमा⟩) muunnelmana.
 
-::: important
+::: warning-box
 **Vokatiivia käytetään huutamiseen, puhutteluun ja se on irrallaan muusta lauseesta, joten se eroaa muista sijamuodoista, jotka ilmaisevat suhdetta verbiin tai toiseen substantiiviin.**
 
 **Vokatiivi sijoitetaan yleensä lauseen alkuun:**
@@ -195,7 +195,7 @@ Paikalliset grammatikot eivät pidä vokatia (⟪आमन्त्रितम�
 ::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Lapsinen, mitä sanot?"
 :::
-::: important
+::: warning-box
 **Vältä vokatiivin kääntämistä muodolla "O ...". Käytämme saksassa jatkuvasti vokatiivia, kun sanomme esimerkiksi: "Rakas, mitä keitämme tänään?". Kukaan ei sano tässä merkityksessä: "**O** rakas, mitä keitämme tänään?"**
 :::
 ::: media

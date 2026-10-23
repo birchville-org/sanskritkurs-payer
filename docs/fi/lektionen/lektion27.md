@@ -2,7 +2,7 @@
 title: "Oppitunti 27"
 subtitle: 'Lokatiivin käyttö (⟪सप्तमी⟫ f. = "seitäs sijapääte")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokatiivi (⟪सप्तमी⟫) vastaa kysymykseen "Missä?" ja ilmaisee tilan, jossa agenssi (⟪कर्ता⟫) tai teon kohde sijaitsee, tai jossa toiminta itse tapahtuu.**
 
-> ⟪नगरे वसति⟫ = "Hän asuu kaupungissa"
+⟪नगरे वसति⟫ = "Hän asuu kaupungissa"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokatiivi vastaa kysymykseen "Milloin?" ja ilmaisee ajankohdan tai ulkoiset olosuhteet:**
 
-> ⟪तस्मिन्काले⟫ = "sillä hetkellä, silloin"
+⟪तस्मिन्काले⟫ = "sillä hetkellä, silloin"
 
 **Tähän liittyy myös ns. Locativus Absolutus:**
 
 **Jos jonkun henkilön tai esineen toiminta tai tila määrittää ajan, jolloin – tai olosuhteet, joissa – TOINEN henkilö tai esine suorittaa toiminnan tai on tietyssä tilassa, sanan, joka merkitsee ensimmäistä henkilöä tai esinettä, ja sen tarkentavan sanan (joka usein on partisiippi) tulee olla lokatiivissa (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "kun aika kuluu näin..."
-\>
-> ⟪तस्मिन्गते⟫ = "kun hän oli lähtenyt..."
+⟪एवं गच्छति काले⟫ = "kun aika kuluu näin..."
+
+⟪तस्मिन्गते⟫ = "kun hän oli lähtenyt..."
 
 **Agenssia (⟪कर्ता⟫) ei joskus erikseen mainita:**
 
-> ⟪एवं सति⟫ = "koska asia on näin"
+⟪एवं सति⟫ = "koska asia on näin"
 
 **Locativus absolutus käännetään kontekstin mukaan sanalla "kun" (esim. preesenspartisiippi), "sen jälkeen kun", "kun" (esim. PPP), "koska", "sillä että", "vaikka", "jos" jne.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Lokatiivi vastaa myös kysymykseen "Mitä varten?" tms.:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hänellä on rakkautta poikaansa kohtaan" (sanm. "Poikaa varten on hänen luonaan rakkautta")
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Hänellä on rakkautta poikaansa kohtaan" (sanm. "Poikaa varten on hänen luonaan rakkautta")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokatiivia käytetään kotimaisissa sanakirjoissa ja kommentaattoreiden teksteissä sanan merkityksen ilmaisemiseen:**
 
-> ⟪भू सत्तायाम्⟫ = "juuri ⟪भू⟫ merkityksessä 'olemassaolo' (sat-tā)"
+⟪भू सत्तायाम्⟫ = "juuri ⟪भू⟫ merkityksessä 'olemassaolo' (sat-tā)"
 
 :::
 Lisää lokatiivin käytöstä myöhemmin.

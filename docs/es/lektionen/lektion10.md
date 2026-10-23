@@ -2,7 +2,7 @@
 title: "Lección 10"
 subtitle: "La oración pasiva (Instrumental del agente)"
 lesson_id: 10
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -15,9 +15,10 @@ status: stable
 ::: grammar-box
 **Esquema:**
 **(Agente - kartṛ - en el Instrumental (tṛtīyā)) - (objeto directo - karman - en el Nominativo) - forma verbal pasiva**
+:::
 
+::: indent
 p. ej. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन देव इज्यते⟫ = "Un brahmán venera a un dios con una ofrenda" (literalmente: "Un dios es venerado por un brahmán con una ofrenda.")
-
 Esta oración es **completamente (!) equivalente en significado** con la oración:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो देवं यजति⟫ / ⟪यजते⟫
 :::
@@ -43,7 +44,7 @@ alternativamente: **rāmeṇa grāmo gamyate** = ⟪रामेण ग्रा
 :::
 Las construcciones pasivas del sánscrito son extremadamente frecuentes: el pasivo, de hecho, también es más fácil de formar que, por ejemplo, numerosas raíces presentes.
 
-::: important
+::: warning-box
 **Las oraciones pasivas en sánscrito, por lo general, no deben traducirse al alemán mediante una oración pasiva, ya que el pasivo alemán tiene una función estilística completamente diferente.**
 :::
 
@@ -234,8 +235,6 @@ p. ej. **tan** 8 U.
 ::: note-box
 En la India se atribuía al palabra verdadera un poder mágico, de hecho todo el orden mundial se mantiene y crea mediante la palabra verdadera. Para esta importante concepción véase la obra fundamental:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf a partir del manuscrito. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., pp. 340 - 764
 :::
 
@@ -368,7 +367,7 @@ Fig.: ⟪तन्तुवायः⟫
 **Lea y traduzca, y convierta a voz pasiva:**
 
 ⟪क १⟫.
-::: center
+::: verse-box
 ⟪मक्षिका व्रणमिच्छन्ति धनमिच्छन्ति पार्थिवाः⟫ |
 ⟪नीचाः कलहमिच्छन्ति शान्तिमिच्छन्ति साधवः⟫ ||
 :::

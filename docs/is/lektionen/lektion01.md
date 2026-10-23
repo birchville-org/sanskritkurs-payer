@@ -3,15 +3,15 @@ title: "Lección 1"
 subtitle: "Los sonidos del sánscrito"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Kennslustund 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Veneration of Gaṇeśa
@@ -23,7 +23,7 @@ Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Uppruni myndar: [Upplýsingar](/is/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ God, make all my undertakings
 Free from obstacles!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Auspicious Beginning"
@@ -52,7 +52,7 @@ Fig. 1.1: Ardhanarīśvara
 (Uppruni myndar: [Upplýsingar](/is/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Of the sense of the word.
 At the beginning, a curiosity:
 
 
->"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) initially studied Sanskrit thoroughly, partially translated it and found that it had a rich literature and considerable kinship with the classical languages, they encountered no little resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
->
-::: literatur-box
+::: note-box
+"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) initially studied Sanskrit thoroughly, partially translated it and found that it had a rich literature and considerable kinship with the classical languages, they encountered no little resistance. Since this intimate relationship of Sanskrit to European languages so geographically distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the famous philologist Dugald Steward (1753—1828) took the simplest way out by declaring the entire history with the Sanskrit language a lie. He wrote an essay in which he tried to prove that it had been forged by the rascally Brahmins according to the pattern of Greek and Latin, and that both the language and the literature were a forgery. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 :::
 
@@ -89,7 +89,9 @@ Mynd: Cover title of a paperback edition
 (Uppruni myndar: [Upplýsingar](/is/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, also paperback editions. -- **Mandatory reading.** A good overview of life, history and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Part: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Since then many editions, also paperback editions. -- **Mandatory reading.** A good overview of life, history and culture in pre-Islamic India. Comprehensive overview of the various fields of classical Indology.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Mynd: Title page
 
 Best systematic grammar:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammar of the Sanskrit language / Translated from English by W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Original title: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Mynd: Cover title
 
 Good systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 p. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 p. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Mynd: Einbandtitel -> Fig.: Cover title
 
 A good, concise presentation of European linguistic terminology can be found in:
 
-::: literatur-box
+::: note-box
 **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. -> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Edited by Elmar Seebold. -- 24th, revised and expanded ed.. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- pp. XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Mynd: Umschlagtitel -> Fig.: Title on cover
 
 For the inquisitive to look up:
 
-> **Lexicon of Linguistics** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Lexicon of Linguistics** / ed. by Hadumod Bussmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. The Sounds of Sanskrit
@@ -146,7 +152,7 @@ The sounds of Sanskrit according to the traditional Indian classification and th
 :::
 Modern dictionaries of Sanskrit are arranged in the order of this classification. This classification is essential for understanding Sanskrit grammar and therefore must be memorized:
 
-::: note-box
+::: grammar-box
 Klassifikation -> Classification
 **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): -> - **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ ->   ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Klassifikation -> Classification
 :::
 ### 1.2.1. On the pronunciation of individual sounds
 
-::: laut-table
 | Sound | Description |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "short a" is often pronounced by Indians -- already since ancient times -- as ə. In Europe it is pronounced as short a, in Bengal as short dark o. |
@@ -176,7 +181,6 @@ Klassifikation -> Classification
 | **h - ⟪ह्⟫** | aspirate, never a lengthening mark. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Voiceless aspirate with the echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- ⟪अग्निः⟫ = agnih, devaiḥ -- ⟪देवैः⟫ = devaih, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Before sibilants, h, l: nasalization of the vowel. At the end of a word = m. Within a word before consonants: the nasal corresponding to the following consonant: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 The best pronunciation is achieved when one reads the sentences, verses or words quite slowly and monotonously with exact consideration of the length of the vowels.
 
 

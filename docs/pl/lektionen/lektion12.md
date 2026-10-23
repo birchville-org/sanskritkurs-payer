@@ -2,7 +2,7 @@
 title: "Lekcja 12"
 subtitle: "Imiesłów przymiotny bierny czasu przeszłego (PPP)"
 lesson_id: 12
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -29,9 +29,9 @@ W tym przypadku PPP zgadza się z obiektem pod względem liczby, przypadka i rod
 Czasownik posiłkowy („być“) nie jest konieczny.
 
 Przykłady:
-> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Ojcem niebios został osiągnięty przez świętego) = Święty osiągnął niebiosa.“
-> 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Bóstwo zostało uczczone przez brahmana ofiarą) = Brahman uczcił bóstwo ofiarą.“
+**sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = „(Ojcem niebios został osiągnięty przez świętego) = Święty osiągnął niebiosa.“
+
+**brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = „(Bóstwo zostało uczczone przez brahmana ofiarą) = Brahman uczcił bóstwo ofiarą.“
 :::
 
 ### 12.1.2. Schemat I dla czasowników nieprzechodnich i czasowników ruchu
@@ -42,7 +42,7 @@ Przykłady:
 W tym przypadku PPP zgadza się z agentem pod względem liczby, przypadka i rodzaju. Imiesłów Przeszły „bierny“ ma w przypadku czasowników nieprzechodnich (czasowników bez bezpośredniego obiektu) i czasownikach ruchu znaczenie czynne.
 
 Przykład:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Żona kszatrija poszła do miasta.“
+**kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = „Żona kszatrija poszła do miasta.“
 :::
 
 ### 12.1.3. Schemat II dla czasów nieprzechodnich i czasów ruchu
@@ -51,7 +51,7 @@ Przykład:
 **Agens (kartṛ) w narzędniku (tṛtīyā) -- PPP w mianowniku liczby pojedynczej rodzaju nijakiego**
 
 Przykład:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Przez Kṣatriyę) (do miasta) poszlo” = „Kṣatriya (poszedł do miasta).”
+**kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Przez Kṣatriyę) (do miasta) poszlo” = „Kṣatriya (poszedł do miasta).”
 
 Konstrukcja według Schematu II jest znacznie rzadsza niż konstrukcja według Schematu I.
 :::

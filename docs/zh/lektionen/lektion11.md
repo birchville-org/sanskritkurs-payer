@@ -2,7 +2,7 @@
 title: "第11課"
 subtitle: "雙重賓格（人與事物的賓格）"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

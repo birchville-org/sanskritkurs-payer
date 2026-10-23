@@ -2,7 +2,7 @@
 title: "Lekcia 3"
 subtitle: "Nominatív singuláru feminína"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -28,7 +28,7 @@ Nominatív singulár tvoria bez koncovky:
 **Ženské mená na -ā**: napr. **devatā** ž. „božstvo“ – Nom. sg.: **devatā** = ⟪देवता⟫
 **Ženské mená na -ī**: napr. **devī** ž. „bohyňa“ – Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Pozor!** Okrem toho existujú jednoslabičné ženské koreňové podstatné mená na -ī, ktorých nominatív singulár končí na -s: napr. dhī ž. „myšlienka“ – Nom. sg.: dhīs = ⟪धीस्⟫. Tiež lakṣmī (⟪लक्ष्मी⟫) ž., tarī (⟪तरी⟫) ž. „loď“ a tantrī (⟪तन्त्री⟫) ž. „struna“ tvoria nepravidelne nominatív singulár na -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -72,11 +72,15 @@ napr.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇá je bohyňa“ = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇá je bohyňa jedla a varenia, považuje sa za vtelenie Pārvatího, manželky Śivy.)
+::: indent
+(Annapūrṇá je bohyňa jedla a varenia, považuje sa za vtelenie Pārvatího, manželky Śivy.)
+:::
 
 devī + indrāṇī » devīndrāṇī „Indrāṇí je bohyňa“ = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇí je manželka boha Indraho.)
+::: indent
+(Indrāṇí je manželka boha Indraho.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -95,7 +99,9 @@ napr.
 
 devī + umā » devy umá „Umá je bohyňa“ = ⟪देव्युमा⟫
 
-> (Umá je meno pre Pārvatí, manželku Śivu)
+::: indent
+(Umá je meno pre Pārvatí, manželku Śivu)
+:::
 
 ::: grammar-box
 **-a / -ā pred nezhodnou samohláskou:**

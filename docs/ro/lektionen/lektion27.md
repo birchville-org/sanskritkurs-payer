@@ -2,7 +2,7 @@
 title: "Lecție 27"
 subtitle: 'Utilarea cazului locativ (⟪सप्तमी⟫ f. = "a șaptea terminație de caz")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Cazul locativ (⟪सप्तमी⟫) răspunde la întrebarea "Unde?" indicând spațiul în (la, pe, lângă) care se află agentul (⟪कर्ता⟫) sau obiectul unei acțiuni, sau locul în care se desfășoară însăși acțiunea.**
 
-> ⟪नगरे वसति⟫ = "El locuiește în oraș"
+⟪नगरे वसति⟫ = "El locuiește în oraș"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Cazul locativ indică, răspunzând la întrebarea "Când?", momentul sau circumstanțele exterioare:**
 
-> ⟪तस्मिन्काले⟫ = "în acel moment, în acea vreme"
+⟪तस्मिन्काले⟫ = "în acel moment, în acea vreme"
 
 **Aici se încadrează și ceea ce se numește Locativus Absolutus:**
 
 **Dacă acțiunea sau starea unei persoane sau lucruri determină timpul în care - sau circumstanțele sub care - o ALTĂ persoană sau lucru săvârșește o acțiune sau se află într-o anumită stare, atunci cuvântul care indică prima persoană sau lucru împreună cu cuvântul care o specifică mai detaliat (care este adesea un participiu) trece în cazul locativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "pe măsură ce timpul trece..."
-\>
-> ⟪तस्मिन्गते⟫ = "după ce el plecase..."
+⟪एवं गच्छति काले⟫ = "pe măsură ce timpul trece..."
+
+⟪तस्मिन्गते⟫ = "după ce el plecase..."
 
 **Uneori, agentul (⟪कर्ता⟫) nu este menționat explicit:**
 
-> ⟪एवं सति⟫ = "deoarece lucrurile stau așa"
+⟪एवं सति⟫ = "deoarece lucrurile stau așa"
 
 **Locativus absolutus trebuie tradus în funcție de context cu "în timp ce" (de ex. participiu prezent), "după ce", "când" (de ex. PPP), "deoarece", "pentru că", "deși", "dacă" etc.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Locativul se folosește și pentru întrebarea „În raport cu ce?” sau similar:**
 
-> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „El are iubire pentru fiul său” (literal: „În raport cu fiul, este la el iubire”)
+⟪अस्ति तस्य पुत्रे स्नेहः⟫ = „El are iubire pentru fiul său” (literal: „În raport cu fiul, este la el iubire”)
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Locativul este utilizat în dicționarele native și de către comentatori pentru a indica sensul unui cuvânt:**
 
-> ⟪भू सत्तायाम्⟫ = „rădăcina ⟪भू⟫ în sensul de „ființare” (sat-tā)”
+⟪भू सत्तायाम्⟫ = „rădăcina ⟪भू⟫ în sensul de „ființare” (sat-tā)”
 
 :::
 Mai multe detalii despre utilizarea locativului mai târziu.

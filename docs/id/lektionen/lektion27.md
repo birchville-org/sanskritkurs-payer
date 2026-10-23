@@ -2,7 +2,7 @@
 title: "Pelajaran 27"
 subtitle: 'Penggunaan Lokativ (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")'
 lesson_id: 27
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -25,7 +25,7 @@ status: stable
 
 **1. Lokativ (⟪सप्तमी⟫) menjawab pertanyaan "Di mana?" menunjukkan ruang, di (di, pada, dekat) mana Agen (⟪कर्ता⟫) atau objek suatu tindakan berada, atau di mana tindakan itu sendiri berlangsung.**
 
-> ⟪नगरे वसति⟫ = "Ia tinggal di kota"
+⟪नगरे वसति⟫ = "Ia tinggal di kota"
 
 :::
 ::: media
@@ -39,19 +39,19 @@ Jaipur, 1875.
 
 **2. Lokativ menjawab pertanyaan "Kapan?" menunjukkan waktu atau keadaan eksternal:**
 
-> ⟪तस्मिन्काले⟫ = "pada saat itu, pada waktu itu"
+⟪तस्मिन्काले⟫ = "pada saat itu, pada waktu itu"
 
 **Di sini juga termasuk yang disebut Locativus Absolutus:**
 
 **Jika tindakan atau keadaan seseorang atau sesuatu menentukan waktu, di mana - atau keadaan, di bawah mana - ORANG ATAU BENDA LAIN melakukan tindakan atau berada dalam kondisi tertentu, maka kata yang menunjukkan orang atau benda pertama bersama dengan kata yang lebih menentukan sama (yang sering kali merupakan partisisp) berada dalam Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं गच्छति काले⟫ = "sementara waktu berlalu..."
-\>
-> ⟪तस्मिन्गते⟫ = "ketika ia telah pergi..."
+⟪एवं गच्छति काले⟫ = "sementara waktu berlalu..."
+
+⟪तस्मिन्गते⟫ = "ketika ia telah pergi..."
 
 **Kadang-kadang Agen (⟪कर्ता⟫) tidak disebutkan secara eksplisit:**
 
-> ⟪एवं सति⟫ = "karena keadaan demikian"
+⟪एवं सति⟫ = "karena keadaan demikian"
 
 **Locativus absolutus harus diterjemahkan sesuai konteks dengan "sementara" (mis. Partisisp Present), "setelah", "ketika" (mis. PPP), "karena", "sebab", "meskipun", "jika" dan lain-lain.**
 
@@ -69,7 +69,7 @@ Rajasthan.
 
 **3. Lokatif juga muncul sebagai respons terhadap pertanyaan "Sehubungan dengan apa?" dll.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ia memiliki cinta kepada putranya" (lit. "Sehubungan dengan putra, cinta ada padanya")
+⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ia memiliki cinta kepada putranya" (lit. "Sehubungan dengan putra, cinta ada padanya")
 
 :::
 ::: media
@@ -83,7 +83,7 @@ Holi.
 
 **4. Lokatif digunakan dalam kamus lokal dan oleh para komentator untuk menunjukkan makna sebuah kata:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
+⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
 
 :::
 Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.

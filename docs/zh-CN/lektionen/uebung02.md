@@ -2,7 +2,7 @@
 title: "练习 2"
 uebung_id: 2
 category: "练习"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 

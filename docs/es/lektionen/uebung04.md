@@ -2,7 +2,7 @@
 title: "Ejercicio 4"
 uebung_id: 4
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -93,5 +93,4 @@ etat kim? eṣā pipīlikā.
 ![](/images/uebung003.webp)
 Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung003))
-::: \<!--  --\>
 :::

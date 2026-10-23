@@ -2,11 +2,12 @@
 title: "Lesing 37"
 subtitle: "Die Bywoord (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
+---
 
----# Les 37
+# Les 37
 
 ## 37.1. Die bywoorde (⟪क्रियाविशेषणम्⟫)
 
@@ -495,3 +496,4 @@ Afbeelding: ⟪उपवृक्षं सीदन्ति⟫
 Vertaal na Sanskrit deur uitsluitend werkwoordsvorms van die Perfek te gebruik:
 
 As eens 'n bejaarde na 'n ander dorp gegaan het, het hy onderweg moeg geword. Hy is toe gaan rus by die voet van 'n mango boom wat aan die kant gestaan het. Op hierdie boom was ryp vrugte. Die bejaarde het lus gekry vir daardie vrugte. Maar hy kon nie op die boom klim en na die vrugte reik nie. Gelukkig was daar appe op hierdie boom wat vrugte geëet het. As hy dit gesien het, het die bejaarde bly geword. Wat het hy gedoen? Hy het 'n paar klippe geneem, op die appe gerig en gegooi. Die kwaad geword appe het vrugte gepluk en na die bejaarde gegooi. Die bejaarde het dit bly geneem en na sy gewenste plek gegaan. Kyk, die lot van die bejaarde!
+

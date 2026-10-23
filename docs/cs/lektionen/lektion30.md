@@ -2,7 +2,7 @@
 title: "Lekce 30"
 subtitle: 'Devátá třída přítomného času (⟪क्र्यादि⟫ = \"⟪क्री⟫ atd.\")'
 lesson_id: 30
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Latihan 36"
 uebung_id: 36
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -141,9 +141,9 @@ Determine and translate the following word forms:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | ia mengungkapkan |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | ia menghubungkan untuk dirinya sendiri |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | ia minum |
-:::: media
+:::
+::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
 (Sumber gambar: [Details](/en/licenses#uebung059))
-::::
 :::

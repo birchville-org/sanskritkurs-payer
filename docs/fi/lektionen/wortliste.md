@@ -34,7 +34,9 @@ outline: 2
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (palvelussääty).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Neljä säätyä (varṇa)**
+
 Klassisen teorian (esim. Manusmṛti I, 88-91) mukaan tehtävät ovat jakautuneet:
 
 **brahamanien**
@@ -463,8 +465,6 @@ verbijohdannolle **yaj** 1 U:
 ::: note-box
 Intiassa uskottiin totuudellisen sanan taikavoimaan; jopa koko maailmanjärjestys säilyy ja luodaan totuudellisen sanan voimalla. Tähän tärkeään käsitykseen ks. perustava teos:
 
-:::
-::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Tekijän jättämistä papereista toim. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Osa 2: Varuna und das Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -496,7 +496,7 @@ Kuv.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : kysyä (joku: Akk.; jostakin: Akk.)
 **saha** ⟪सह⟫ : yhdessä, samassa (myös "taistella jonkun kanssa" jne.) (Postpositio instrumentatiivin kanssa)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Toim. Ludwig Alsdorf jälkikäteen julkaisemasta aineistosta. - Göttingen : Vandenhoeck & Ruprecht. -- Vsk. 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
@@ -528,7 +528,7 @@ Kuv.: ⟪विश्वामित्रः⟫
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : kysyä (joku: Akk.; jostakin: Akk.)
 **saha** ⟪सह⟫ : yhdessä, samassa (myös "taistella jonkun kanssa" jne.) (Postpositio instrumentatiivin kanssa)
 
-::: literatur-box
+::: note-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Jäämistöstä toim. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Osa 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 ::: media
@@ -729,17 +729,19 @@ Opiskele seuraavat sanat:
 **eva** ⟪एव⟫ : korostaa edeltävää sanaa
 **asura** m. ⟪असुर⟫ : demoni
 
-> **ASURA.** 'Hengellinen, jumalallinen.'
->
-> Ṛgvedan vanhimmissa osissa tätä termiä käytetään ylin henki tarkoittaen, ja se on sama kuin zoroastrilaisten Ahura. 'Jumala' merkityksessä sitä käytettiin useille pääjumaluuksille, kuten Indra, Agni ja Varuṇa. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nyt, demonia tai jumalien vihollista.
->
-> Sana löytyy tällä merkityksellä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengenvetoinen *(asu)* tuli eläväksi, ja "sillä hengenvetolla hän loi minut Asuroiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "tuli raskaaksi. Hän loi Asuroja vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asuroja alemmasta hengenvetostaan." Taittirīya Āraṇyaka esittää, että Prajāpati loi jumalat, ihmiset, isät, Gandharvat ja Apsarat vedestä, ja että Asurat, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan ne luotiin Prajāpatisien toimesta.
->
-> Viṣṇu Purāṇan mukaan ne syntyivät Brahma'n (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurat luotiin ensin poikina hänen (Prajāpatin) lantiostaan. *Asu* määritellään Brāhmaṇassa hengenvetoksi. Sen kautta nämä olennot syntyivät; siksi ne ovat Asuroita." Sanaa on jo kauan käytetty yleisenä nimenä jumalien vihollisille, mukaan lukien Daityat ja Danavat sekä muut Kaśypan jälkeläiset, mutta ei mukaan lukien Pulastyasta polveutuvat Rakṣasat.
->
-> Tässä merkityksessä sille on löydetty eri johtoperä: lähteenä ei ole enää asu, 'hengenveto', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala'; joten syntyi joillekin sana *sura*, jota yleisesti käytetään 'jumalasta'."
->
-> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Hengellinen, jumalallinen.'
+
+Ṛgvedan vanhimmissa osissa tätä termiä käytetään ylin henki tarkoittaen, ja se on sama kuin zoroastrilaisten Ahura. 'Jumala' merkityksessä sitä käytettiin useille pääjumaluuksille, kuten Indra, Agni ja Varuṇa. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nyt, demonia tai jumalien vihollista.
+
+Sana löytyy tällä merkityksellä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengenvetoinen *(asu)* tuli eläväksi, ja "sillä hengenvetolla hän loi minut Asuroiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "tuli raskaaksi. Hän loi Asuroja vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asuroja alemmasta hengenvetostaan." Taittirīya Āraṇyaka esittää, että Prajāpati loi jumalat, ihmiset, isät, Gandharvat ja Apsarat vedestä, ja että Asurat, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan ne luotiin Prajāpatisien toimesta.
+
+Viṣṇu Purāṇan mukaan ne syntyivät Brahma'n (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurat luotiin ensin poikina hänen (Prajāpatin) lantiostaan. *Asu* määritellään Brāhmaṇassa hengenvetoksi. Sen kautta nämä olennot syntyivät; siksi ne ovat Asuroita." Sanaa on jo kauan käytetty yleisenä nimenä jumalien vihollisille, mukaan lukien Daityat ja Danavat sekä muut Kaśypan jälkeläiset, mutta ei mukaan lukien Pulastyasta polveutuvat Rakṣasat.
+
+Tässä merkityksessä sille on löydetty eri johtoperä: lähteenä ei ole enää asu, 'hengenveto', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala'; joten syntyi joillekin sana *sura*, jota yleisesti käytetään 'jumalasta'."
+
+[Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -3790,7 +3792,9 @@ tästä:
 :::
 Katso sanasta ⟪राहु⟫ ja ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : johdanto ja katsaus. -- 10. Sakramentit ja siirtymiseremoniat (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: note-box
+**Payer, Alois (1944–):** Dharmashastra : johdanto ja katsaus. -- 10. Sakramentit ja siirtymiseremoniat (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+:::
 ::: media
 ![](/images/lekt4602.webp)
 Kuv: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4406,7 +4410,9 @@ ei käytössä muissa aikamuodoissa
 
 ⟪अजिन⟫ n.: antiloopin nahka, erityisesti mustan antiloopin (hirviantilooppi: _Antilope cervicapra_ L.) nahka. Se esiintyi alun perin koko Intian niemimaalla Punjabista ja Sindistä Bengaliin sekä Nepalista Kanyakumariin (Cape Comorin) (tamili: கன்னியாகுமரி). Katso:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 osaa. -- ISBN 0-8018-5789-9. -- Osa 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 osaa. -- ISBN 0-8018-5789-9. -- Osa 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

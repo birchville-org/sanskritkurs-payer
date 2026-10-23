@@ -2,7 +2,7 @@
 title: "Latihan 54"
 uebung_id: 54
 category: "Exercise"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -36,9 +36,9 @@ last_reconstructed: 2026-05-15
 | ⟪२१⟫. | **⟪जायते⟫** | dia dilahirkan | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | itu dinyanyikan | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | itu telah pergi | **⟪अगामि⟫** |
-:::: media
+:::
+::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
 (Sumber gambar: [Details](/en/licenses#uebung093))
-::::
 :::

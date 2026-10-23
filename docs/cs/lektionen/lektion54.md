@@ -2,7 +2,7 @@
 title: "Lekce 54"
 subtitle: "Předmluva"
 lesson_id: 54
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -48,36 +48,36 @@ Obr.: ⟪अयुयुत्सुरर्जुनः भगवद्गी�
 Schéma I:
 
 :::
-::: metrik-schema
+::: verse-box
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schéma II:
 
-::: metrik-schema
+::: verse-box
 × — × — × / × ◡ **— ◡ — —**
 :::
 Kvantita posledních čtyř slabik je tedy v obou schématech stejná.
 
 Základní tvar ⟪जगती⟫: jako u ⟪त्रिष्टुभ्⟫, ale dvanáctislabičný. Posledních pět slabik každého pada má následující kvantity:
 
-::: metrik-schema
+::: verse-box
 **— ◡ — ◡ —**
 :::
 Kromě toho existuje tzv. typicky přebytečná ⟪त्रिष्टुभ्⟫ s pětislabičným počátečním členem, která pokračuje jako ⟪त्रिष्टुभ्⟫ se čtyřslabičným počátečním členem:
 
-::: metrik-schema
+::: verse-box
 — × — × / × ◡ — **— ◡ — —**
 :::
 V pozdější době jsou tvary ⟪त्रिष्टुभ्⟫ stanoveny podle přísného schématu délek a krátkostí, caesura již nehraje roli. Nejdůležitější pozdější tvary jsou:
 
 a) ⟪इन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-::: metrik-schema
+::: verse-box
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫

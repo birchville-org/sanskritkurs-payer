@@ -2,7 +2,7 @@
 title: Lektion 3
 subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -27,7 +27,7 @@ Den Nominativ Singular bilden ohne Endung:
 - **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
-::: important
+::: warning-box
 **Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
@@ -71,11 +71,15 @@ z.B.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+::: indent
+(Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.)
+:::
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.)
+::: indent
+(Indrāṇī ist die Gattin des Gottes Indra.)
+:::
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -94,7 +98,9 @@ z.B.
 
 devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas)
+::: indent
+(Umā ist ein Name für Pārvatī, die Gattin Śivas)
+:::
 
 ::: grammar-box
 **-a / -ā vor unähnlichem Vokal:**

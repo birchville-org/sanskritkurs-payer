@@ -2,7 +2,7 @@
 title: "Pamoka 51"
 subtitle: "⟪उपपद⟫-kompozitai"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -127,14 +127,14 @@ Vienaskaita:
 V. G. ⟪शत्रुजित्⟫ (śatrujit + s)
 G. ⟪शत्रुजितम्⟫
 :::
-> Daugiskaita:
+Daugiskaita:
 
 ::: indent
 V. G. G. ⟪शत्रुजितस्⟫
 Įn. ⟪शत्रुजिद्भिस्⟫
 Vi. ⟪शत्रुजित्सु⟫
 :::
-> Beveik
+Beveik
 
 ::: indent
 Vienaskaita V. G. G. ⟪शत्रुजित्⟫
@@ -206,6 +206,7 @@ Vyriškoji lytis, moteriškoji lytis:
 ::: indent
 Vienaskaita:
 
+:::
 ::: indent
 Nomin. vok. ⟪शेषभुक्⟫
 Akus. ⟪शेषभुजम्⟫
@@ -333,7 +334,7 @@ pvz. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 
 ⟪अजिन⟫ n.: antilopės oda, ypač juodosios antilopės (miško ožys : _Antilope cervicapra_ L. ). Anksčiau paplitusi visame Indijos subkontinente nuo Pandžabo ir Sindas iki Bengalijos ir Kanyakumari (Komorino kyšulys) (tamilų k. : கன்னியாகுமரி) Žr.:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6th ed. -- Baltimore [et al.] : Johns Hopkins Univ. Press, 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- Pp. 1193f.
 
 ::: media
 ![](/images/lekt5105.webp)

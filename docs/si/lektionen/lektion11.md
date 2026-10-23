@@ -2,7 +2,7 @@
 title: "පාඩම 11"
 subtitle: "ද්විත්ව කර්තෘ කාරකය (පුද්ගලයාගේ සහ දෙයේ කර්තෘ කාරකය)"
 lesson_id: 11
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

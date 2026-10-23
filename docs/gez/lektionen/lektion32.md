@@ -88,7 +88,7 @@ Beispiele:
 
 ## ፴፪.፬. ምሳሌያት ለግሥ-አልቦት
 
-::: important
+::: warning-box
 
 **ለአርአያ አሰራረ ቅርጻት፡ እሙንቱ ቅርጻት ዘĀtmanepada እምቃላት-ግስ ዘParasmaipada ይትገበሩ! እሉ ቅርጻት ሠራዒያን በውስተ \< \> ይትረከቡ።**
 
@@ -666,7 +666,7 @@ Anmerkung: Ursprünglich wurde diese Vorlesung an der Universität Tübingen jew
 
 ## 32.9. ልምድ ትርጉም
 
-::: compact
+::: verse-box
 
 ⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
 ⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br

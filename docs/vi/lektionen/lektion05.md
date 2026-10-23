@@ -2,7 +2,7 @@
 title: "Bài 5"
 subtitle: "Nền tảng của danh từ hợp ngữ (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -65,16 +65,20 @@ Các thành phần đầu của hợp danh từ (không chỉ Dvandva) thường
 Ví dụ về Dvandva số nhiều:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmanas, Kṣatriyas, Vaiśyas và Śūdras)
-> 
-> hoặc = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((một/người) Brahmana, Kṣatriya, Vaiśya và Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmanas, Kṣatriyas, Vaiśyas và Śūdras)
+
+hoặc = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((một/người) Brahmana, Kṣatriya, Vaiśya và Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Các nhà thơ và giáo sư [Số nhiều])
-> (Lưu ý: "Một nhà thơ và một giáo sư" phải ở số đôi!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Các nhà thơ và giáo sư [Số nhiều])
+(Lưu ý: "Một nhà thơ và một giáo sư" phải ở số đôi!)
+:::
 
 **Đối với thứ tự các thành phần trong một từ compound Dvandva, áp dụng các quy tắc sau:**
 Tên gọi của các giai cấp khác nhau (**varṇa**) nên được sắp xếp theo thứ tự phân cấp (cao nhất trước).

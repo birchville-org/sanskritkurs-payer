@@ -2,7 +2,7 @@
 title: "第59课"
 subtitle: "双数（⟪द्विवचनम्⟫）的次要词尾和命令式词尾"
 lesson_id: 59
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

@@ -2,7 +2,7 @@
 title: "Oppitunti 13"
 subtitle: "PPP -na-päätteellä"
 lesson_id: 13
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -170,17 +170,19 @@ Opiskele seuraavat sanat:
 **eva** ⟪एव⟫ : korostaa edeltävää sanaa
 **asura** m. ⟪असुर⟫ : demoni
 
-> **ASURA.** 'Hengellinen, jumalallinen.'
-\>
-> Ṛgvedan vanhimmissa osissa tätä termiä käytetään korkeimmasta hengestä, ja se on sama kuin zarathustralaisten Ahura. 'Jumala'-merkityksessä sitä käytettiin useisiin pääjumaliin, kuten Indraan, Agniin ja Varuṇaan. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nykyäänkin, demonia tai jumalien vihollista.
-\>
-> Sana esiintyy tässä merkityksessä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengitys *(asu)* elävöittyi, ja "sillä hengityksellä hän loi minut Asuroiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "raskautui. Hän loi Asurot vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asurot alemmasta hengityksestään." Taittirīya Āraṇyaka esittää, että Prajāpati loi vedestä jumalat, ihmiset, isät, Gandharvat ja Apsarat, ja että Asurat, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan heidät loi Prajāpatit.
-\>
-> Viṣṇu Purāṇan mukaan ne syntyivät Brahma'n (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurat syntyivät ensin hänen (Prajāpatin) lantiostaan poikina. *Asu* määritellään Brāhmaṇassa hengitykseksi. Niistä nämä olennot syntyivät; siksi he ovat Asuroita." Sanaa on pitkään käytetty yleisenä nimenä jumalien vihollisista, mukaan lukien Daityat ja Danavat sekä muut Kaśyapan jälkeläiset, mutta ei Pulastyasta polveutuvia Rakṣasasia.
-\>
-> Tässä merkityksessä sille on löydetty eri johtaminen: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala'; joten syntyi joillekin sana *sura*, jota yleisesti käytetään 'jumalasta'."
-\>
-> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+::: note-box
+**ASURA.** 'Hengellinen, jumalallinen.'
+
+Ṛgvedan vanhimmissa osissa tätä termiä käytetään korkeimmasta hengestä, ja se on sama kuin zarathustralaisten Ahura. 'Jumala'-merkityksessä sitä käytettiin useisiin pääjumaliin, kuten Indraan, Agniin ja Varuṇaan. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nykyäänkin, demonia tai jumalien vihollista.
+
+Sana esiintyy tässä merkityksessä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengitys *(asu)* elävöittyi, ja "sillä hengityksellä hän loi minut Asuroiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "raskautui. Hän loi Asurot vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asurot alemmasta hengityksestään." Taittirīya Āraṇyaka esittää, että Prajāpati loi vedestä jumalat, ihmiset, isät, Gandharvat ja Apsarat, ja että Asurat, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan heidät loi Prajāpatit.
+
+Viṣṇu Purāṇan mukaan ne syntyivät Brahma'n (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurat syntyivät ensin hänen (Prajāpatin) lantiostaan poikina. *Asu* määritellään Brāhmaṇassa hengitykseksi. Niistä nämä olennot syntyivät; siksi he ovat Asuroita." Sanaa on pitkään käytetty yleisenä nimenä jumalien vihollisista, mukaan lukien Daityat ja Danavat sekä muut Kaśyapan jälkeläiset, mutta ei Pulastyasta polveutuvia Rakṣasasia.
+
+Tässä merkityksessä sille on löydetty eri johtaminen: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala'; joten syntyi joillekin sana *sura*, jota yleisesti käytetään 'jumalasta'."
+
+[Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+:::
 
 ::: media
 ![](/images/lekt1301.webp)

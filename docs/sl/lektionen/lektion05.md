@@ -2,7 +2,7 @@
 title: "Učenje 5"
 subtitle: "Osnove nominalnih skladov (samāsa)"
 lesson_id: 5
-last_reconstructed: 2026-05-07
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -68,16 +68,20 @@ Predčleni kompozitov (ne le Dvandvas) imajo običajno obliko nespremenjenega **
 Primeri za Pluraldvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
-> (Brahmani, Kṣatrijas, Vaiśyas in Śūdras)
-> 
-> ali = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
-> ((en/ta) Brahman, Kṣatriya, Vaiśya in Śūdra)
+::: indent
+= brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+(Brahmani, Kṣatrijas, Vaiśyas in Śūdras)
+
+ali = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+((en/ta) Brahman, Kṣatriya, Vaiśya in Śūdra)
+:::
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
-> (Pesniki in učitelji [Plur.])
-> (Opomba: "En pesnik in en učitelj" bi moralo biti v dualu!)
+::: indent
+= kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+(Pesniki in učitelji [Plur.])
+(Opomba: "En pesnik in en učitelj" bi moralo biti v dualu!)
+:::
 
 **Za vrstni red členov v dvandvi veljajo med drugim naslednja pravila:**
 Poimenovanje različnih stanov (**varṇa**) naj bo urejeno glede na njihovo hierarhijo (najvišji najprej).

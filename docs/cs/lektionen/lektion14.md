@@ -2,7 +2,7 @@
 title: "Lekce 14"
 subtitle: "Vyjádření vztahu označeného podstatným jménem: genitiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = šestý pád)"
 lesson_id: 14
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 
@@ -32,7 +32,7 @@ Příklady:
 
 Normální pořadí slov je:
 
-> **Určující slovo v genitivu — bližší určené substantivum v jiném pádu**
+**Určující slovo v genitivu — bližší určené substantivum v jiném pádu**
 
 :::
 
@@ -44,9 +44,9 @@ U příčestí minulých trpných (PPP) může genitiv nahradit instrumentál (t
 
 Podle Pāṇiniho 2.3.67 stojí u PPP genitiv, má-li PPP přítomný význam (viz výše), a instrumentál, má-li PPP minulý význam:
 
-> ⟪रामस्येष्टं फलम्⟫ "Plod, jejž Rāma žádá = Plod, který Rāma právě žádá"
-> 
-> ⟪रामेणेष्टं फलम्⟫ "Plod, který Rāma žádal"
+⟪रामस्येष्टं फलम्⟫ "Plod, jejž Rāma žádá = Plod, který Rāma právě žádá"
+
+⟪रामेणेष्टं फलम्⟫ "Plod, který Rāma žádal"
 
 Samozřejmě stojí u PPP Neutrum Singular, které je používáno jako verbální abstraktum – tedy jako podstatné jméno, genitiv.
 
@@ -66,7 +66,7 @@ Po konsonantu jsou pravidelné genitivní koncovky:
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalní kmen | Slabý kmen | Genitiv Singular | Genitiv Plural |
 | :--- | :--- | :--- | :--- |
@@ -83,11 +83,11 @@ Po konsonantu jsou pravidelné genitivní koncovky:
 
 Genitiv plurálu vokálově končících kmenů se tvoří takto:
 
-> **-dlouze končící vokál kmene + -nām**
+**-dlouze končící vokál kmene + -nām**
 
 :::
 
-::: center
+::: verse-box
 
 | Nominalní kmen | Genitiv Plural |
 | :--- | :--- |
@@ -110,7 +110,7 @@ Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je d
 
 :::
 
-::: center
+::: verse-box
 
 | Kmen | Genitiv singuláru |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je d
 
 **Tázací a ukazovací zájmena:**
 
-::: center
+::: verse-box
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ Genitiv singuláru vokálně končících kmenů je tvořen nepravidelně a je d
 
 **Shoda tvarů:**
 
-::: important
+::: warning-box
 
 U všech nominálních kmenů s výjimkou maskulin a neuter na -a a zájmen je tvar genitivu singuláru totožný s tvarem ablativu (pañcamī "páté pádové koncovky") singuláru!
 
@@ -154,11 +154,11 @@ Vezměte na vědomí, že u kmenů končících souhláskou se ablativ a genitiv
 
 Na rozdíl od výše uvedené základní pravidla se genitiv používá k vyjádření předmětu některých sloves, např. u sloves paměti:
 
-> ⟪देवानां स्मरति⟫ "Pamatuje na bohy"
+⟪देवानां स्मरति⟫ "Pamatuje na bohy"
 
 U všech těchto sloves může být předmět však také v akuzativu:
 
-> ⟪देवान्स्मरति⟫ "Pamatuje na bohy"
+⟪देवान्स्मरति⟫ "Pamatuje na bohy"
 
 Další informace později.
 

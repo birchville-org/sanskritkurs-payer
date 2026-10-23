@@ -3,8 +3,8 @@ title: "Lekcia 2"
 subtitle: "Podstatné meno a základy deklinácie"
 lesson_id: 2
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
@@ -15,7 +15,9 @@ last_reconstructed: 2026-04-30
 
 ::: grammar-box
 **Schéma: Predikátové podstatné meno – Podmet**
+:::
 
+::: indent
 napr. devo viṣṇuḥ = ⟪देवो विष्णुः⟫ = "Viṣṇu je boh."
 :::
 Slovesné sloveso bytia ("je", "sú", "som", "siš", "ste") nie je potrebné, ale môže sa niekedy vyskytovať.
@@ -24,7 +26,7 @@ Neexistujú **žiadne členy**: **devaḥ** -- ⟪देवः⟫ môže znamena
 
 Hoci je v sanskrite slovosled pomerne voľný (najmä v veršoch), pri preklade nominaľnej vety je vždy na prvom mieste potrebné zvážiť preklad podľa vyššie uvedeného štandardného schémy.
 
-V nominaľnej vete stojí podmet v nominatíve (prvý prípad = **prathamā** f. = ⟪प्रथमा⟫). Predikátové podstatné meno sa zhoduje s podmetom v čísle a páde; ak je predikátové podstatné meno prídavným menom, aj v rodе.
+V nominaľnej vete stojí podmet v nominatíve (prvý prípad = **prathamā** f. = ⟪प्रथमा⟫). Predikátové podstatné meno sa zhoduje s podmetom v čísle a páde; ak je predikátové podstatné meno prídavným menom, aj v rode.
 
 
 ## 2.2. K deklinácii (skloňovanie podstatných mien)
@@ -76,7 +78,9 @@ Koncovka slova sa v sanskrite riadi aj začiatkom nasledujúceho slova. Tento ja
 
 Pozri tiež prehľad:
 
-> **Payer, Alois (1944–):** Sandhi koncového -s. -- (Materiály k sanskrtu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+::: note-box
+**Payer, Alois (1944–):** Sandhi koncového -s. -- (Materiály k sanskrtu). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+:::
 
 Koncové **-s**:
 
@@ -120,7 +124,9 @@ pred ostatnými vokálmi: sa mení na **-a** (hiatus)
 
 **śūdra** m. -- ⟪शूद्र⟫ : Šúdra (stav služobníkov).
 
-::: note-box Die vier Stände (varna)
+::: note-box
+**Štyri stavy (varṇa)**
+
 Podľa klasickej teórie (napr. Manusmṛti I, 88-91) sú úlohy rozdelené:
 
 **bráhmanov**

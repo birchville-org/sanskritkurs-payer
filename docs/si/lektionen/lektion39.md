@@ -2,7 +2,7 @@
 title: "පාඩම 39"
 subtitle: 'පළමු පුද්ගලයාගේ පුද්ගල අවසාන (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**තෙවන** පුද්ගලයා")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

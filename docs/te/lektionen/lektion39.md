@@ -2,7 +2,7 @@
 title: "పాఠం 39"
 subtitle: 'మొదటి వ్యక్తి యొక్క వాక్యంతో కూడిన పదాలు (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**మూడవ** వ్యక్తి\")'
 lesson_id: 39
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

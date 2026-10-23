@@ -2,7 +2,7 @@
 title: "Lezione 55"
 subtitle: "L'aoristo in -a (Aoristo con vocale tematica)"
 lesson_id: 55
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 

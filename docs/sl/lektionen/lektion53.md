@@ -652,7 +652,9 @@ Slika: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 
 Glej tudi:
 
-> **Payer, Alois (1944–):** Uvod v egzegezo sanskrtskih besedil : skripta. -- Pogl. 8: Prava egzegeza, del II: K posameznim vprašanjam sočasnega razumevanja. -- Dodatek B: O metrikah sanskrtskih besedil. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+::: note-box
+**Payer, Alois (1944–):** Uvod v egzegezo sanskrtskih besedil : skripta. -- Pogl. 8: Prava egzegeza, del II: K posameznim vprašanjam sočasnega razumevanja. -- Dodatek B: O metrikah sanskrtskih besedil. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+:::
 
 ### 53.10.1. Pomen določitve metrika
 
@@ -746,13 +748,13 @@ Primer: ⟪भगवद्गीता १⟩,⟪१⟩:
 
 Porazdelitev ⟪लघु⟩ in ⟪गुरु⟩ :
 
-::: metrik-schema
+::: verse-box
 
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 
@@ -789,7 +791,7 @@ Najpomembnejša metrika v epikah (⟪महाभारत⟫, ⟪रामा�
 
 :::
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — — —**
 
@@ -797,7 +799,7 @@ Najpomembnejša metrika v epikah (⟪महाभारत⟫, ⟪रामा�
 
 **b = d:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   **◡ — ◡ —**
 
@@ -809,7 +811,7 @@ Druga in tretja zloga ⟪पाद⟫ ne smeta biti hkrati ⟪लघु⟫. V b 
 
 **⟪विपुला⟫ 1:**
 
-::: metrik-schema
+::: verse-box
 
 × × × —   ◡ ◡ ◡ —
 
@@ -817,7 +819,7 @@ Druga in tretja zloga ⟪पाद⟫ ne smeta biti hkrati ⟪लघु⟫. V b 
 
 **⟪विपुला⟫ 2:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — ◡ ◡ —
 
@@ -825,7 +827,7 @@ Druga in tretja zloga ⟪पाद⟫ ne smeta biti hkrati ⟪लघु⟫. V b 
 
 **⟪विपुला⟫ 3:**
 
-::: metrik-schema
+::: verse-box
 
 × — ◡ —   — / — — —
 
@@ -833,7 +835,7 @@ Druga in tretja zloga ⟪पाद⟫ ne smeta biti hkrati ⟪लघु⟫. V b 
 
 **⟪विपुला⟫ 4:**
 
-::: metrik-schema
+::: verse-box
 
 × × × ×   / — ◡ — —
 
@@ -848,7 +850,7 @@ Druga in tretja zloga ⟪पाद⟫ ne smeta biti hkrati ⟪लघु⟫. V b 
 
 :::
 
-::: center
+::: verse-box
 
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19

@@ -2,7 +2,7 @@
 title: "Esercizio 55"
 uebung_id: 55
 category: "Esercizio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -46,9 +46,9 @@ Determinare e tradurre le seguenti forme e formare le corrispondenti forme dell�
 | ⟪३१⟫. | **⟪अशुष्याम⟫** | *:sig[⟪शुष्⟫]* 4P: 1. Pl. Impf. P. (we became dry) | **⟪अशुषाम⟫** |
 | ⟪३२⟫. | **⟪सिष्णेह⟫** | *:sig[⟪स्निह्⟫]* 4P: 1. 3. Sg. Perf. P. (I loved / he loved) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
 
-:::: media
+:::
+::: media
 ![](/images/uebung092.webp)
 Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung092))
-::::
 :::

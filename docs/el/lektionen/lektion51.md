@@ -2,7 +2,7 @@
 title: Lektion 51
 subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
-last_reconstructed: 2026-05-21
+last_reconstructed: 2026-10-23
 category: "Grammatik"
 status: stable
 ---
@@ -341,7 +341,9 @@ status: stable
 
 ⟪अजिन⟫ n.: δέρμα αντιλόπης, ιδίως το δέρμα της μαύρης αντιλόπης (αντιλώπη ελάφι: _Antilope cervicapra_ L. ). Εμφανιζόταν αρχικά σε όλη την ινδική υποήπειρο, από το Παντζάμπ και το Σίντ έως τη Βεγγάλη και από το Νεπάλ μέχρι το Κανγιακούμαρι (Cape Comorin) (Ταμίλ: கன்னியாகுμரி) Δείτε επίσης:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+::: note-box
+**Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+:::
 
 ::: media
 ![](/images/lekt5105.webp)

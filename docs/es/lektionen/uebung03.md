@@ -2,7 +2,7 @@
 title: "Ejercicio 3"
 uebung_id: 3
 category: "Ejercicio"
-last_reconstructed: 2026-05-15
+last_reconstructed: 2026-10-23
 ---
 
 
@@ -169,5 +169,4 @@ dvijāḥ kṣatriyāḥ.
 ![](/images/uebung001.webp)
 Fig.: ⟪पशुर्धेनुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung001))
-::: \<!--  --\>
 :::

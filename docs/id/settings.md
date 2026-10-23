@@ -9,7 +9,7 @@ title: "[Pengaturan]"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Versi Saat Ini**: `v1.8.13`
-**Catatan Rilis & Changelog**: [Apa yang Baru di v1.8.13?](/id/release-notes)
+**Versi Saat Ini**: `v1.8.14`
+**Catatan Rilis & Changelog**: [Apa yang Baru di v1.8.14?](/id/release-notes)
 **Kode Sumber & Repositori**: [Repositori GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

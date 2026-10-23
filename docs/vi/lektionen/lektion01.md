@@ -3,15 +3,15 @@ title: "[Bài 1]"
 subtitle: "Các âm trong tiếng Phạn"
 lesson_id: 1
 category: "Grammatik"
-status: "stable"
-last_reconstructed: 2026-04-30
+status: stable
+last_reconstructed: 2026-10-23
 
 ---
 
 # Bài 1
 
 
-::: center
+::: verse-box
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Sự tôn kính Gaṇeśa
@@ -23,7 +23,7 @@ Hình 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0102))
 :::
 
-::: center
+::: verse-box
 :sig[लम्बोदर नमस् तुभ्यं]
 :sig[सततं मोदकप्रिय ⟪|⟫]
 :sig[निर्विघ्नं कुरु मे देव]
@@ -40,7 +40,7 @@ Lạy Thần, xin hãy làm cho mọi nỗ lực của tôi
 Trọn vẹn không chướng ngại!
 :::
 
-::: center
+::: verse-box
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Khởi đầu tốt lành"
@@ -52,7 +52,7 @@ Hình 1.1: Ardhanarīśvara
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0101))
 :::
 
-::: center
+::: verse-box
 :sig[वागर्थाविव संपृक्तौ]
 :sig[वागर्थप्रतिपत्तये ⟪|⟫]
 :sig[जगतः पितरौ वन्दे]
@@ -75,9 +75,9 @@ Như lời nói và ý nghĩa để hiểu biết
 Mở đầu bằng một điều kỳ lạ:
 
 
->"Khi William Jones [1746–1794] và Henry Thomas Colebrooke (1765—1857) lần đầu tiên nghiên cứu kỹ lưỡng tiếng Phạn, một phần dịch thuật và phát hiện ra rằng nó có một nền văn học phong phú và mối quan hệ đáng kể với các ngôn ngữ cổ điển, họ đã gặp phải sự phản đối không nhỏ. Vì mối quan hệ mật thiết của tiếng Phạn với các ngôn ngữ châu Âu cách xa về mặt địa lý không thể phù hợp với những quan niệm cũ, vốn hoặc bắt nguồn tất cả các ngôn ngữ từ tiếng Hebrew hoặc phần lớn tách biệt với nhau, nên nhà ngữ văn nổi tiếng Dugald Steward (1753—1828) đã chọn cách giải quyết đơn giản nhất, bằng cách tuyên bố toàn bộ câu chuyện với ngôn ngữ Phạn là một lời nói dối. Ông đã viết một bài tiểu luận, trong đó cố gắng chứng minh rằng nó được những kẻ gian xảo của người Brahman tạo ra theo mẫu tiếng Hy Lạp và Latinh, và cả ngôn ngữ cũng như văn học đều là một sự giả mạo. Quan điểm này còn được phát triển rộng rãi bởi giáo sư tại Dublin, Charles William Wall, vào năm 1840 (Göttingische gelehrte Anzeigen 1842 S. 1888)."
->
-::: literatur-box
+::: note-box
+"Khi William Jones [1746–1794] và Henry Thomas Colebrooke (1765—1857) lần đầu tiên nghiên cứu kỹ lưỡng tiếng Phạn, một phần dịch thuật và phát hiện ra rằng nó có một nền văn học phong phú và mối quan hệ đáng kể với các ngôn ngữ cổ điển, họ đã gặp phải sự phản đối không nhỏ. Vì mối quan hệ mật thiết của tiếng Phạn với các ngôn ngữ châu Âu cách xa về mặt địa lý không thể phù hợp với những quan niệm cũ, vốn hoặc bắt nguồn tất cả các ngôn ngữ từ tiếng Hebrew hoặc phần lớn tách biệt với nhau, nên nhà ngữ văn nổi tiếng Dugald Steward (1753—1828) đã chọn cách giải quyết đơn giản nhất, bằng cách tuyên bố toàn bộ câu chuyện với ngôn ngữ Phạn là một lời nói dối. Ông đã viết một bài tiểu luận, trong đó cố gắng chứng minh rằng nó được những kẻ gian xảo của người Brahman tạo ra theo mẫu tiếng Hy Lạp và Latinh, và cả ngôn ngữ cũng như văn học đều là một sự giả mạo. Quan điểm này còn được phát triển rộng rãi bởi giáo sư tại Dublin, Charles William Wall, vào năm 1840 (Göttingische gelehrte Anzeigen 1842 S. 1888)."
+
 [Nguồn: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Truy cập ngày 10-01-2010]
 :::
 
@@ -89,7 +89,9 @@ Abb.: Bìa sách của một ấn bản bìa mềm
 (Nguồn ảnh: [Chi tiết](/vi/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Phần: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Từ đó có nhiều ấn bản, bao gồm cả các ấn phẩm bìa mềm. -- **Đọc bắt buộc.** Một cái nhìn tổng quan tốt về cuộc sống, lịch sử và văn hóa ở Ấn Độ trước Hồi giáo. Tổng quan toàn diện về các lĩnh vực khác nhau của Ấn Độ học cổ điển.
+::: note-box
+**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Phần: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Từ đó có nhiều ấn bản, bao gồm cả các ấn phẩm bìa mềm. -- **Đọc bắt buộc.** Một cái nhìn tổng quan tốt về cuộc sống, lịch sử và văn hóa ở Ấn Độ trước Hồi giáo. Tổng quan toàn diện về các lĩnh vực khác nhau của Ấn Độ học cổ điển.
+:::
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -99,7 +101,7 @@ Abb.: Trang tiêu đề
 
 Hệ thống ngữ pháp tốt nhất:
 
-::: literatur-box
+::: note-box
 **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Übersetzt aus dem Englischen von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 :::
 
@@ -111,7 +113,9 @@ Abb.: Bìa sách bìa cứng
 
 Hệ thống ngữ pháp tốt dựa trên các nhà ngữ pháp bản địa và đồng thời là một giới thiệu về Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
+::: note-box
+**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
+:::
 
 ::: media
 ![](/images/lekt0107.jpg)
@@ -121,7 +125,7 @@ Abb.: Bìa sách
 
 Một trình bày tốt, ngắn gọn về thuật ngữ ngôn ngữ học châu Âu có thể tìm thấy trong:
 
-::: literatur-box
+::: note-box
 **Từ điển Etymological của tiếng Đức** / [Friedrich] Kluge (1856–1926). Biên tập bởi Elmar Seebold. -- 24., bản hiệu đính và mở rộng. -- Berlin [và các nơi khác] : de Gruyter, 2002. - LXXXIX, 1023 trang : 24 cm. -- ISBN 3-11-017473-1 Bìa mềm. -- Trang XIII - XLVII.
 :::
 
@@ -133,7 +137,9 @@ Abb.: Bìa bìa
 
 Dành cho những người ham hiểu biết để tra cứu:
 
-> **Từ điển Ngôn ngữ học** / biên tập bởi Hadumod Bussmann. -- 4., bản hiệu đính và bổ sung thư mục. / dưới sự cộng tác của Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 trang ; 22 cm. -- ISBN 978-3-520-45204-7
+::: note-box
+**Từ điển Ngôn ngữ học** / biên tập bởi Hadumod Bussmann. -- 4., bản hiệu đính và bổ sung thư mục. / dưới sự cộng tác của Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 trang ; 22 cm. -- ISBN 978-3-520-45204-7
+:::
 
 
 ## 1.2. Các âm của tiếng Sanskrit
@@ -146,7 +152,7 @@ Các âm của tiếng Sanskrit theo phân loại truyền thống Ấn Độ v�
 :::
 Các từ điển Sanskrit hiện đại được sắp xếp theo thứ tự của phân loại này. Phân loại này là không thể thiếu để hiểu Ngữ pháp Sanskrit và do đó phải được học thuộc lòng:
 
-::: note-box
+::: grammar-box
 Phân loại
 **Nguyên âm đơn** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
@@ -164,7 +170,6 @@ Phân loại
 :::
 ### 1.2.1. Về cách phát âm của từng âm
 
-::: laut-table
 | Âm | Mô tả |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "a ngắn" thường được người Ấn Độ -- từ thời cổ đại -- phát âm như ə. Ở châu Âu, nó được đọc là a ngắn; ở Bengal, nó được đọc là o tối màu ngắn. |
@@ -176,7 +181,6 @@ Phân loại
 | **h - ⟪ह्⟫** | âm hơi, không bao giờ là dấu kéo dài. |
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Âm hơi vô thanh có dư âm của nguyên âm đứng trước hoặc phần thứ hai của phụ âm đôi (diphthong) đứng trước: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Trước các âm xát, h, l: mũi hóa nguyên âm. Ở cuối câu = m. Trong giữa câu trước phụ âm: là âm mũi tương ứng với phụ âm theo sau: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-:::
 Cách phát âm tốt nhất đạt được khi bạn đọc các câu, thơ hoặc từ khá chậm và đơn điệu, đồng thời chú ý chính xác đến độ dài của các nguyên âm.
 
 

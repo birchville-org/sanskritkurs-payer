@@ -1,3 +1,4 @@
+
 # Exercitium scripturae 8
 
 Signa vocalium ad initium verbi, si verbum non coniungitur cum verbo praecedente in scriptura:
