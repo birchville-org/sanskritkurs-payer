@@ -93,6 +93,7 @@ archive/
 *.bak
 *.png
 !docs/public/birchville_logo.png
+!docs/public/og-icon.png
 !site_docs/assets/birchville_logo.png
 venv/
 proj

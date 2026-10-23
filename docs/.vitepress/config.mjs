@@ -129,8 +129,14 @@ export default defineConfig({
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'Sanskritkurs' }],
-    ['link', { rel: 'apple-touch-icon', href: '/pwa-icons/icon-192.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/og-icon.png' }],
     ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:image', content: 'https://payer.birchville.org/og-icon.png' }],
+    ['meta', { property: 'og:image:width', content: '128' }],
+    ['meta', { property: 'og:image:height', content: '128' }],
+    ['meta', { name: 'twitter:card', content: 'summary' }],
+    ['meta', { name: 'twitter:image', content: 'https://payer.birchville.org/og-icon.png' }],
   ],
 
   locales: isDesktop ? {
