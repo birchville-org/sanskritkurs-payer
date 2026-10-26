@@ -12,6 +12,7 @@ src-tauri/gen/
 CLAUDE_REVIEW.md
 deleteme/
 docs/.zennotes/
+docs/public/alexis/
 
 # Local tooling / dev artifacts
 __pycache__/
