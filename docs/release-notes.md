@@ -8,7 +8,7 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
-## 🚀 Version 1.9.0 (Oktober 2026)
+## 🚀 Version 1.9.1 (Oktober 2026)
 
 **Focus:** *82% Asset- & Build-Footprint Reduction, 17 Published Core Locales with Contact Dispatch, Open Graph Mail Capsules & Local Storage Sanitization*
 

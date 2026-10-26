@@ -3,7 +3,7 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
-## [1.9.0] - 2026-10-26
+## [1.9.1] - 2026-10-26
 ### Hinzugefügt
 - **Kernsprachen-Fokussierung**: Einschränkung der publizierten Sprachen auf 17 Kernsprachen (DE, EN, FR, IT, RM, ES, EL, CS, HI, TA, AR, HE, RU, UK, ID, ZH-CN, ZH).
 - **Kontakt-Hinweis**: Im Sprachwahl-Modal Hinweis für weitere Sprachwünsche: „Für weitere Sprachen bitte webmaster@birchville.org kontaktieren“.
