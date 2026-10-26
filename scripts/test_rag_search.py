@@ -84,15 +84,10 @@ def run_rag_search(query, lang="de", top_k=3):
     print(f"🌐 Sprache: [{lang}] | Frage: '{query}'")
     print("=" * 70)
 
-    # 1. Index-Datei ermitteln
-    if lang in ("de", "root"):
-        idx_file = ROOT / "docs" / "public" / "vector_index.json"
-    else:
-        idx_file = ROOT / "docs" / "public" / f"vector_index_{lang}.json"
-
+    # 1. Index-Datei ermitteln (.payer/ prioritär, Fallback docs/public/)
+    idx_file = ROOT / ".payer" / (f"vector_index_{lang}.json" if lang not in ("de", "root") else "vector_index.json")
     if not idx_file.exists():
-        # Fallback auf .payer/
-        idx_file = ROOT / ".payer" / f"vector_index_{lang}.json" if lang != "de" else ROOT / ".payer" / "vector_index.json"
+        idx_file = ROOT / "docs" / "public" / (f"vector_index_{lang}.json" if lang not in ("de", "root") else "vector_index.json")
 
     if not idx_file.exists():
         print(f"❌ Vektorindex-Datei für [{lang}] nicht gefunden: {idx_file}")

@@ -32,13 +32,9 @@ def dot_product(vecA, vecB):
     return sum(a * b for a, b in zip(vecA, vecB))
 
 def search(query, lang="de", top_k=5):
-    if lang == "de" or lang == "root":
-        idx_file = ROOT / "docs" / "public" / "vector_index.json"
-    else:
-        idx_file = ROOT / "docs" / "public" / f"vector_index_{lang}.json"
-
+    idx_file = ROOT / ".payer" / (f"vector_index_{lang}.json" if lang not in ("de", "root") else "vector_index.json")
     if not idx_file.exists():
-        idx_file = ROOT / ".payer" / f"vector_index_{lang}.json" if lang != "de" else ROOT / ".payer" / "vector_index.json"
+        idx_file = ROOT / "docs" / "public" / (f"vector_index_{lang}.json" if lang not in ("de", "root") else "vector_index.json")
 
     if not idx_file.exists():
         print(f"❌ Vector index file not found at {idx_file}. Build it first with: python3 scripts/build_vector_index.py --lang {lang}")

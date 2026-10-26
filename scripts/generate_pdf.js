@@ -91,9 +91,9 @@ async function generatePDF() {
     copiedPages.forEach((page) => mergedPdf.addPage(page));
   }
 
-  const outputPath = 'docs/public/downloads/Payer_Sanskritkurs_de.pdf';
-  if (!fs.existsSync('docs/public/downloads')) {
-    fs.mkdirSync('docs/public/downloads', { recursive: true });
+  const outputPath = 'dist_exports/Payer_Sanskritkurs_de.pdf';
+  if (!fs.existsSync('dist_exports')) {
+    fs.mkdirSync('dist_exports', { recursive: true });
   }
 
   console.log(`Speichere Buch unter ${outputPath}...`);
