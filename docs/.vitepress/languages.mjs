@@ -10,7 +10,7 @@
 // - isiZulu (zu): Severe tokenizer penalty and low token throughput. Agglutinative nominal prefix morphology disrupts Sanskrit grammar structures.
 
 export const ACTIVE_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'am', 'gez', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is'
+  'de', 'en', 'fr', 'it', 'rm', 'es', 'el', 'hi', 'ta', 'ar', 'he', 'ru', 'uk', 'cs', 'zh-CN', 'zh', 'id'
 ];
 
 export const DEFAULT_LOCALES = [];

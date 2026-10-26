@@ -42,6 +42,7 @@ import { da } from './locales/da.mjs'
 import { no } from './locales/no.mjs'
 import { sv } from './locales/sv.mjs'
 import { is } from './locales/is.mjs'
+import { cs } from './locales/cs.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
@@ -97,7 +98,7 @@ populateSidebar(da, 'Lektion', 'da', 'Skrift', 'Øvelse');
 populateSidebar(no, 'Leksjon', 'no', 'Skrift', 'Oppgave');
 populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
 populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
-
+populateSidebar(cs, 'Lekce', 'cs', 'Písmo', 'Cvičení');
 
 const isDesktop = process.env.DESKTOP_BUILD === '1' || process.env.DESKTOP_BUILD === 'true';
 
@@ -105,10 +106,24 @@ const desktopExcludes = [
   'af/**', 'am/**', 'ar/**', 'bg/**', 'cs/**', 'da/**', 'el/**', 'es/**', 'fa/**', 'fi/**', 'fr/**', 'gez/**', 'grc/**', 'he/**', 'hi/**', 'hu/**', 'hy/**', 'id/**', 'is/**', 'it/**', 'ka/**', 'la/**', 'lt/**', 'nl/**', 'no/**', 'pa/**', 'pl/**', 'pt/**', 'rm/**', 'ro/**', 'ru/**', 'sh/**', 'si/**', 'sk/**', 'sl/**', 'sq/**', 'sv/**', 'ta/**', 'te/**', 'th/**', 'tr/**', 'uk/**', 'vi/**', 'zh/**', 'zh-CN/**'
 ];
 
+const allLangDirs = [
+  'af', 'am', 'bg', 'da', 'fa', 'fi', 'gez', 'grc', 'hu', 'hy', 'is', 'ka', 'la', 'lt', 'nl', 'no', 'pa', 'pl', 'pt', 'ro', 'sh', 'si', 'sk', 'sl', 'sq', 'sv', 'te', 'th', 'tr', 'vi'
+];
+const webExcludes = allLangDirs.filter(d => !ACTIVE_LOCALES.includes(d)).map(d => `${d}/**`);
+
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, cs
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
+
+const publishedWebLocales = {};
+for (const code of ACTIVE_LOCALES) {
+  if (code === 'de') {
+    publishedWebLocales.root = { ...de };
+  } else if (localeObjects[code]) {
+    publishedWebLocales[code] = { ...localeObjects[code] };
+  }
+}
 
 // QA Viewer navbar link enabled for convenient testing
 
@@ -119,7 +134,7 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
-  srcExclude: isDesktop ? desktopExcludes : [],
+  srcExclude: isDesktop ? desktopExcludes : webExcludes,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
@@ -142,44 +157,7 @@ export default defineConfig({
   locales: isDesktop ? {
     root: { ...de },
     en: { ...en }
-  } : {
-    root: { ...de },
-    en: { ...en },
-    it: { ...it },
-    ru: { ...ru },
-    uk: { ...uk },
-    hi: { ...hi },
-    fr: { ...fr },
-    es: { ...es },
-    ta: { ...ta },
-    pa: { ...pa },
-    la: { ...la },
-    rm: { ...rm },
-    ro: { ...ro },
-    id: { ...id },
-    'zh-CN': { ...zhCN },
-    he: { ...he },
-    ar: { ...ar },
-    el: { ...el },
-    th: { ...th },
-    grc: { ...grc },
-    fi: { ...fi },
-    hu: { ...hu },
-    zh: { ...zh },
-    fa: { ...fa },
-    nl: { ...nl },
-    am: { ...am },
-    af: { ...af },
-    lt: { ...lt },
-    sh: { ...sh },
-    sq: { ...sq },
-    pt: { ...pt },
-    bg: { ...bg },
-    da: { ...da },
-    no: { ...no },
-    sv: { ...sv },
-    is: { ...is }
-  },
+  } : publishedWebLocales,
   
   themeConfig: {
     logo: '/birchville_logo.png',
@@ -220,30 +198,23 @@ export default defineConfig({
           }
         },
         locales: {
-          // ── v1.2 languages ────────────────────────────────────────────────────
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
+          fr: { translations: { button: { buttonText: 'Rechercher' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          // bg: { translations: { button: { buttonText: 'Търсене' } } },
+          rm: { translations: { button: { buttonText: 'Tschertgar' } } },
+          es: { translations: { button: { buttonText: 'Buscar' } } },
+          el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
+          hi: { translations: { button: { buttonText: 'खोज' } } },
+          ta: { translations: { button: { buttonText: 'தேடு' } } },
+          ar: { translations: { button: { buttonText: 'بحث' } } },
+          he: { translations: { button: { buttonText: 'חפש' } } },
           ru: { translations: { button: { buttonText: 'Поиск' } } },
           uk: { translations: { button: { buttonText: 'Пошук' } } },
-          hi: { translations: { button: { buttonText: 'खोज' } } },
-          fr: { translations: { button: { buttonText: 'Rechercher' } } },
-          // ── v1.3 languages ────────────────────────────────────────────────────
-          es: { translations: { button: { buttonText: 'Buscar' } } },
-          ta: { translations: { button: { buttonText: 'தேடு' } } },
-          pa: { translations: { button: { buttonText: 'ਖੋਜ' } } },
-          id: { translations: { button: { buttonText: 'Cari' } } },
+          cs: { translations: { button: { buttonText: 'Hledat' } } },
           'zh-CN': { translations: { button: { buttonText: '搜索' } } },
-          he: { translations: { button: { buttonText: 'חפש' } } },
-          rm: { translations: { button: { buttonText: 'Tschertgar' } } },
-          ar: { translations: { button: { buttonText: 'بحث' } } },
-          la: { translations: { button: { buttonText: 'Quaerere' } } },
-          sq: { translations: { button: { buttonText: 'Kërko' } } },
-          el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
-          th: { translations: { button: { buttonText: 'ค้นหา' } } },
-          ro: { translations: { button: { buttonText: 'Căutare' } } },
-          grc: { translations: { button: { buttonText: 'Ἀναζήτησις' } } }
+          zh: { translations: { button: { buttonText: '搜尋' } } },
+          id: { translations: { button: { buttonText: 'Cari' } } }
         }
       }
     }

@@ -52,6 +52,12 @@
       </div>
     </div>
 
+    <!-- Contact note for additional hidden languages -->
+    <div class="settings-contact-notice">
+      <span class="contact-notice-icon">✉️</span>
+      <span class="contact-notice-text" v-html="contactNoticeHtml"></span>
+    </div>
+
 
     <!-- Per-locale prefetch indicators -->
     <div v-if="Object.keys(localeStatus).length > 0" class="locale-status-list">
@@ -192,6 +198,7 @@ const LOCALE_TEXTS = {
     unavailableStatus: 'Installation nicht verfügbar',
     unavailableHint: 'Für PWA-Installation: HTTPS-Verbindung und moderner Browser (Chrome, Edge, Safari 16.4+) erforderlich (oder App ist bereits installiert).',
     preparingApp: 'App wird vorbereitet…',
+    contactHint: 'Für weitere Sprachen bitte webmaster@birchville.org kontaktieren',
   },
   en: {
     activeLanguages: 'Selected for Offline Download',
@@ -211,6 +218,7 @@ const LOCALE_TEXTS = {
     unavailableStatus: 'Installation not available',
     unavailableHint: 'For PWA installation: HTTPS connection and a modern browser (Chrome, Edge, Safari 16.4+) required (or app is already installed).',
     preparingApp: 'Preparing app…',
+    contactHint: 'For further languages, please contact webmaster@birchville.org',
   },
   it: {
         activeLanguages: 'Lingue attive',
@@ -451,6 +459,14 @@ const LOCALE_TEXTS = {
 
 // Computed helper — returns localized strings for the current locale, with German as fallback
 const t = computed(() => LOCALE_TEXTS[currentLocale.value] || LOCALE_TEXTS.de)
+
+const contactNoticeHtml = computed(() => {
+  const text = t.value.contactHint || 'Für weitere Sprachen bitte webmaster@birchville.org kontaktieren'
+  return text.replace(
+    'webmaster@birchville.org',
+    '<a href="mailto:webmaster@birchville.org" class="contact-email-link">webmaster@birchville.org</a>'
+  )
+})
 
 function markDirty() {
   dirty.value = true
@@ -914,6 +930,38 @@ async function installApp() {
 
 .locale-status.status-error {
   color: var(--vp-c-danger-1, #b40000);
+}
+
+.settings-contact-notice {
+  margin-top: 1.5rem;
+  padding: 0.875rem 1.125rem;
+  background: var(--vp-c-bg-soft, #f1eee7);
+  border: 1px solid var(--vp-c-divider, #d8d2c6);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.9375rem;
+  color: var(--vp-c-text-2, #1e2d37);
+  line-height: 1.5;
+}
+
+.dark .settings-contact-notice {
+  background: var(--vp-c-bg-soft, #0f1e35);
+  border-color: var(--vp-c-divider, #334155);
+  color: var(--vp-c-text-2, #c4bba5);
+}
+
+.contact-notice-icon {
+  font-size: 1.15rem;
+  flex-shrink: 0;
+}
+
+.contact-email-link {
+  color: var(--vp-c-brand, #b45309);
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* Install section styling */
