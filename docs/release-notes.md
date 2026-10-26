@@ -8,6 +8,29 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.9.0 (Oktober 2026)
+
+**Focus:** *82% Asset- & Build-Footprint Reduction, 17 Published Core Locales with Contact Dispatch, Open Graph Mail Capsules & Local Storage Sanitization*
+
+### ✨ Features & Highlights
+- **Performance & Rendering**:
+  - **82.4 % Footprint-Reduktion des SSG-Builds**: Bereinigung des `dist/`-Umfangs von 709 MB auf ca. 125 MB zur Ermöglichung des vollständigen Hostings auf GitHub Pages und CDNs.
+  - **QA-Viewer WebP-Migration**: Konvertierung der unkomprimierten Lektionsscans und Devanāgarī-Tafeln von PNG auf hochoptimiertes WebP (von 33 MB auf 6 MB komprimiert).
+  - **Vektor-Suchindex-Optimierung**: Kompaktierung der Minisearch-Indizes auf die publizierten Kernsprachen.
+- **Datenintegrität & Kernfunktionen**:
+  - **Fokussierung auf 17 publizierte Kernsprachen**: Veröffentlichung von Deutsch (DE), Englisch (EN), Französisch (FR), Italienisch (IT), Rumantsch (RM), Spanisch (ES), Neugriechisch (EL), Tschechisch (CS), Hindi (HI), Tamil (TA), Arabisch (AR), Hebräisch (HE), Russisch (RU), Ukrainisch (UK), Indonesisch (ID), Vereinfachtes Chinesisch (zh-CN) und Traditionelles Chinesisch (ZH).
+  - **Kontakt-Hinweis im Language-Settings-Modal**: Anzeige des Hinweises „Für weitere Sprachen bitte webmaster@birchville.org kontaktieren“ für unpublizierte Sprachen.
+  - **Open Graph & Apple Mail Kapseln**: Kompakte Open Graph Icons und standardisierte Meta-Tags für saubere Vorschauen in Mail-Clients und Messenger-Diensten.
+- **Sicherheit & Sandbox**:
+  - **LocalStorage-Härtung**: Automatische Bereinigung veralteter oder unpublizierter Sprachauswahlen aus dem lokalen Browser-Speicher (`localStorage`).
+  - **XSS-Prävention**: Renderung der Hinweistexte im Sprach-Modal über native Text-Nodes ohne `v-html`.
+  - **Strenges URL-Parsing**: Exakte Segment-Erkennung für regionale Sprachcodes (`zh-CN`).
+- **Plattform- & Backend-Stabilität**:
+  - **Saubere Artefakt-Generierung**: Ausschluss unkompilierter Roh-Markdown-Dateien aus den Ausgabeverzeichnissen in `dist/`.
+  - **Tschechische (CS) Navigation**: Lückenlose Sidebar- und Navigationsanbindung für Tschechisch.
+
+---
+
 ## 🚀 Version 1.8.14 (Oktober 2026)
 
 **Focus:** *Scholarly Synthesis v2 Box System Migration (6,392 Files), Container Taxonomy Consolidation, markdown-it-extensible 1.4.0 & Native Navbar Restoration*

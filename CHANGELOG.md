@@ -2,7 +2,20 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
-## [1.8.11] - 2026-10-03
+
+## [1.9.0] - 2026-10-26
+### Hinzugefügt
+- **Kernsprachen-Fokussierung**: Einschränkung der publizierten Sprachen auf 17 Kernsprachen (DE, EN, FR, IT, RM, ES, EL, CS, HI, TA, AR, HE, RU, UK, ID, ZH-CN, ZH).
+- **Kontakt-Hinweis**: Im Sprachwahl-Modal Hinweis für weitere Sprachwünsche: „Für weitere Sprachen bitte webmaster@birchville.org kontaktieren“.
+- **Open Graph**: Icons und standardisierte Meta-Tags für kompakte Mail-Kapseln (Apple Mail etc.).
+
+### Optimiert
+- **Build- & Asset-Footprint**: Reduktion des Ausgabevolumens von 709 MB auf ca. 125 MB (-82.4 %) für GitHub Pages Betrieb; WebP-Migration der Lektionsscans im QA-Viewer und Pruning des Minisearch-Vektorindexes.
+
+### Behoben
+- **LocalStorage Sanitization**: Bereinigung ungültiger Locales im Browser-Speicher.
+- **Sicherheit & Parsing**: Entfernung von `v-html` bei Hinweistexten und striktes Parsing für Subtags wie `zh-CN`.
+
 ### Aktualisiert
 - **markdown-it-extensible 1.3.0:** Upgrade auf Plugin-Version 1.3.0 mit automatischer Container-Nesting-Normalisierung (`autoNesting`) und bereinigtem Theme-CSS (Entfernung von Child-Margin-Stacking bei titellosen Boxen und Unterdrückung leerer Titel-/Absatzelemente).
 - **Bereinigung:** Veraltetes, ungenutztes lokales Verzeichnis `packages/vitepress-plugin-scholarly` entfernt.
