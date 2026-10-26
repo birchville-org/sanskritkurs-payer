@@ -8,7 +8,7 @@
 // Or as part of docs:build via npm post-hook.
 // ============================================================
 
-import { readdir, writeFile, stat } from 'node:fs/promises'
+import { readdir, writeFile, stat, rm } from 'node:fs/promises'
 import { join, relative } from 'node:path'
 
 const DIST_DIR = new URL('../docs/.vitepress/dist/', import.meta.url).pathname
@@ -74,6 +74,19 @@ async function main() {
     console.error(`[manifests] ERROR: dist dir not found: ${DIST_DIR}`)
     console.error(`[manifests] Run "npm run docs:build" first.`)
     process.exit(1)
+  }
+
+  // Clean up any uncompiled markdown copies of excluded locales in dist
+  const distEntries = await readdir(DIST_DIR, { withFileTypes: true })
+  const coreDirs = new Set(['assets', 'images', 'lektionen', 'qa', 'pwa-icons'])
+  for (const entry of distEntries) {
+    if (entry.isDirectory()) {
+      const name = entry.name
+      if (!coreDirs.has(name) && !LOCALES.includes(name) && name !== 'de') {
+        const full = join(DIST_DIR, name)
+        await rm(full, { recursive: true, force: true })
+      }
+    }
   }
 
   const htmlFiles = await collectHtmlFiles(DIST_DIR)

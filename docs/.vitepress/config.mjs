@@ -54,6 +54,7 @@ import { getSidebarItems } from './utils.mjs'
 
 function populateSidebar(localeObj, lektionLabel, lektionPrefix, schriftLabel, uebungLabel) {
   if (!localeObj || !localeObj.themeConfig || !Array.isArray(localeObj.themeConfig.sidebar)) return;
+  if (lektionPrefix !== 'root' && !ACTIVE_LOCALES.includes(lektionPrefix)) return;
   const itemGroups = localeObj.themeConfig.sidebar.filter(g => Array.isArray(g.items));
   if (itemGroups[0]) itemGroups[0].items = getSidebarItems('lektion', lektionLabel, lektionPrefix, 10);
   if (itemGroups[1]) itemGroups[1].items = getSidebarItems('schrift', schriftLabel, lektionPrefix);

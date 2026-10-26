@@ -20,7 +20,11 @@ export function getActiveLocales() {
 
   try {
     const parsed = JSON.parse(stored)
-    return Array.isArray(parsed) ? parsed : DEFAULT_LOCALES
+    if (Array.isArray(parsed)) {
+      const valid = parsed.filter(l => ALL_LOCALES.includes(l))
+      return valid.length > 0 ? valid : (DEFAULT_LOCALES.length > 0 ? DEFAULT_LOCALES : [...ALL_LOCALES])
+    }
+    return DEFAULT_LOCALES
   } catch {
     return DEFAULT_LOCALES
   }

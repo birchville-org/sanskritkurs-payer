@@ -55,7 +55,11 @@
     <!-- Contact note for additional hidden languages -->
     <div class="settings-contact-notice">
       <span class="contact-notice-icon">✉️</span>
-      <span class="contact-notice-text" v-html="contactNoticeHtml"></span>
+      <span class="contact-notice-text">
+        {{ t.contactPrefix || 'Für weitere Sprachen bitte' }}
+        <a href="mailto:webmaster@birchville.org" class="contact-email-link">webmaster@birchville.org</a>
+        {{ t.contactSuffix || 'kontaktieren.' }}
+      </span>
     </div>
 
 
@@ -198,7 +202,8 @@ const LOCALE_TEXTS = {
     unavailableStatus: 'Installation nicht verfügbar',
     unavailableHint: 'Für PWA-Installation: HTTPS-Verbindung und moderner Browser (Chrome, Edge, Safari 16.4+) erforderlich (oder App ist bereits installiert).',
     preparingApp: 'App wird vorbereitet…',
-    contactHint: 'Für weitere Sprachen bitte webmaster@birchville.org kontaktieren',
+    contactPrefix: 'Für weitere Sprachen bitte',
+    contactSuffix: 'kontaktieren.',
   },
   en: {
     activeLanguages: 'Selected for Offline Download',
@@ -218,7 +223,8 @@ const LOCALE_TEXTS = {
     unavailableStatus: 'Installation not available',
     unavailableHint: 'For PWA installation: HTTPS connection and a modern browser (Chrome, Edge, Safari 16.4+) required (or app is already installed).',
     preparingApp: 'Preparing app…',
-    contactHint: 'For further languages, please contact webmaster@birchville.org',
+    contactPrefix: 'For further languages, please contact',
+    contactSuffix: '.',
   },
   it: {
         activeLanguages: 'Lingue attive',
@@ -460,14 +466,6 @@ const LOCALE_TEXTS = {
 // Computed helper — returns localized strings for the current locale, with German as fallback
 const t = computed(() => LOCALE_TEXTS[currentLocale.value] || LOCALE_TEXTS.de)
 
-const contactNoticeHtml = computed(() => {
-  const text = t.value.contactHint || 'Für weitere Sprachen bitte webmaster@birchville.org kontaktieren'
-  return text.replace(
-    'webmaster@birchville.org',
-    '<a href="mailto:webmaster@birchville.org" class="contact-email-link">webmaster@birchville.org</a>'
-  )
-})
-
 function markDirty() {
   dirty.value = true
 }
@@ -681,8 +679,8 @@ onMounted(() => {
   selected.value = getActiveLocales()
   
   const path = window.location.pathname
-  const match = path.match(/^\/([a-z]{2})(\/|$)/)
-  currentLocale.value = match ? match[1] : 'de'
+  const firstSeg = path.split('/').filter(Boolean)[0] || ''
+  currentLocale.value = ALL_LOCALES.includes(firstSeg) ? firstSeg : 'de'
   if (!selected.value.includes(currentLocale.value)) {
     selected.value = [currentLocale.value, ...selected.value]
   }
