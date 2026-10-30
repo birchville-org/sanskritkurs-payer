@@ -1,6 +1,6 @@
 # Architekturplan: Vollständiges Hosting auf GitHub Pages (github.io)
 
-> **Status:** Konzept / Machbarkeitsplan  
+> **Status:** Im Backlog geparkt (Phase 1 umgesetzt in v1.9.1; Phasen 2–5 zur späteren Umsetzung vorgemerkt)  
 > **Projekt:** Sanskritkurs Payer (VitePress Multi-Language SSG)  
 > **Datum:** Oktober 2026  
 > **Ziel:** Vollständiger Betrieb des Kurses auf `github.io` ohne dedizierte Server-Infrastruktur

@@ -316,6 +316,17 @@ Verwaltung des Modell-Downloads und Fallback-Lösungen.
 
 ## Backlog
 
+### Hosting & Deployment Migration
+
+- [ ] **Vollständige Migration des Kurses auf GitHub Pages (`github.io`)**
+  - **Status:** Phase 1 (Asset- & Footprint-Reduktion von 709 MB auf 125 MB, 17 Kernsprachen, WebP-Scans) erfolgreich abgeschlossen (Release v1.9.1).
+  - **Offene Schritte:**
+    - [ ] **Phase 2 (URL & Routing):** Finale Festlegung Base-Pfad (`base: '/sanskritkurs-payer/'` oder Custom Subdomain `sanskrit.birchville.org`).
+    - [ ] **Phase 3 (CI/CD Pipeline):** Workflow für VitePress-Pages-Deployment aufsetzen (`.github/workflows/deploy-pages.yml` mit Swap & `actions/deploy-pages@v4`).
+    - [ ] **Phase 4 (Portal-Harmonisierung):** MkDocs-Doku (`site_docs/`) in VitePress integrieren oder sauber als Unterverzeichnis koexistieren lassen.
+    - [ ] **Phase 5 (Docker-Entlastung):** Homelab/Staging auf rein interne Zwecke beschränken; öffentliches Web-Hosting 100 % serverlos via GitHub Pages.
+  - **Referenz:** Siehe [`.planning/PLAN_GITHUB_PAGES_HOSTING.md`](PLAN_GITHUB_PAGES_HOSTING.md).
+
 ### Quality & Content Cleanup
 
 - [x] **BG-Version beibehalten (Ausblendung storniert)** — Bulgarisch (`bg`) bleibt vollständig in der öffentlichen Navigation und in `DEFAULT_LOCALES` aktiv.
