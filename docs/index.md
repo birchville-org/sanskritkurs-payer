@@ -30,5 +30,5 @@ Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch au
 - **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
 - **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/birchville-org/zentauri)
 - **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Aktuelle Version**: v1.10.0
+- **Aktuelle Version**: v1.10.1
 :::

@@ -8,11 +8,13 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
-## 🚀 Version 1.10.0 (Oktober 2026)
+## 🚀 Version 1.10.1 (Oktober 2026)
 
-**Focus:** *Integration der 18. aktiven Sprache (Telugu / te-IN), vollständiges Telugu-Glossar (778 Einträge), Single Source of Truth für Topics-Data & Bereinigung von Footer- und Language-Settings-Komponenten*
+**Focus:** *Entfernung aller Kurs-PDFs und EPUBs aus Repository, Releases und Produktions-Pipeline sowie Integration der 18. aktiven Sprache (Telugu / te-IN)*
 
 ### ✨ Features & Highlights
+- **Plattform- & Backend-Stabilität**:
+  - **Vollständiger Ausschluss von Kurs-PDFs & EPUBs**: Löschung sämtlicher generierter Kurs-PDFs und EPUBs (`dist_exports/`, GitHub Releases, Test-PDFs) sowie Entfernung der Export-Skripte (`export_pdf_epub.py`, `export_vitepress_pdf.js`, `generate_pdf.js`, `export_typst_*`). Strikter Ausschluss von `**/*.pdf` und `**/*.epub` in VitePress (`srcExclude`), Docker (`.dockerignore`) und Git (`.gitignore`).
 - **Datenintegrität & Kernfunktionen**:
   - **18. aktive Sprache (Telugu / te-IN)**: Vollständige Übersetzung und Freischaltung des gesamten Sanskritkurses in Telugu (61 Lektionen, 57 Übungsdateien, 11 Schriftlektionen, Inhaltsverzeichnis und Wortliste).
   - **Telugu-Glossar (`docs/te/lektionen/glossar.md`)**: Automatisierte Generierung von 778 Glossareinträgen mit doppelter Schriftführung (IAST und Telugu-Skript via `indic_transliteration`).
