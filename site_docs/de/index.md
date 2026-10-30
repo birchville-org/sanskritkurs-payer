@@ -101,27 +101,27 @@ Das Projekt **Sanskritkurs Payer** überführt dieses historische Werk aus dem s
 
 - **Interaktiver Sanskritkurs (PWA)** (`docs/`)  
   Vollständiges Lehrbuch mit über 60 Lektionen, interaktiven Übungen und Schriftlehrgängen in einer offlinefähigen VitePress Progressive Web App.  
-  [:octicons-tag-16: Release v1.10.1](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [:octicons-mark-github-16: Quellcode in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
+  [Release v1.10.1](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [Quellcode in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
 
 - **Mehrsprachige Editionen (38+ Zielsprachen)**  
   35+ vollständig validierte Zielsprachen (140/140 Dateien je Sprache) mit strikter Wahrung von Devanāgarī-Graphemen und IAST-Diakritika via LLM-Pipeline (`nyx.local:8000`).  
-  [:octicons-book-16: Sprachauswahl & Kriterien](languages.md) · [:octicons-cpu-16: KI-Translations-Pipeline](ai-translation.md)
+  [Sprachauswahl & Kriterien](languages.md) · [KI-Translations-Pipeline](ai-translation.md)
 
 - **Produktions-Docker-Images** (`ghcr.io/birchville-org/sanskritkurs-payer:latest`)  
   Multi-Architektur-Produktionsimages (`linux/amd64`, `linux/arm64`) für lokale und containerisierte Serverbereitstellung.  
-  [:octicons-container-16: GitHub Container Registry](https://ghcr.io/birchville-org/sanskritkurs-payer)
+  [GitHub Container Registry](https://ghcr.io/birchville-org/sanskritkurs-payer)
 
 - **PWA & Offline-Engine** (`workbox`)  
   Sprachspezifisches Caching (~23 MB pro Sprache) für vollständig autarke Offline-Nutzung inklusive Fallback-Seiten.  
-  [:octicons-workflow-16: PWA & Infrastruktur](pwa-infrastructure.md)
+  [PWA & Infrastruktur](pwa-infrastructure.md)
 
 - **Desktop-Bundles** (`src-tauri`)  
   Eigenständige native Desktop-Applikation für macOS und Linux mit nativer Menüführung und Offline-Assets.  
-  [:octicons-device-desktop-16: Quellcode in `src-tauri`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/src-tauri)
+  [Quellcode in `src-tauri`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/src-tauri)
 
 - **Technische Dokumentation (GitHub Pages)**  
   Vollständige technische Architektur-, Translations- und Richtlinien-Dokumentation.  
-  [:octicons-repo-16: GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
+  [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 
 ---
 
