@@ -19,15 +19,15 @@
     <div>
       <div class="quick-card-header">
         <span class="quick-card-icon">📦</span>
-        <span class="quick-card-title">Releases & Offline-Editionen</span>
+        <span class="quick-card-title">Releases & Versionen</span>
       </div>
       <div class="quick-card-body">
-        Vollständiges Lehrbuch als publiziertes PDF (776 Seiten) und EPUB (Deutsch und Englisch) zum direkten Download.
+        Versionshistorie, Release Notes, Quellcode-Archive und Produktions-Builds auf GitHub.
       </div>
     </div>
     <div class="quick-card-action">
       <a href="https://github.com/birchville-org/sanskritkurs-payer/releases/latest" class="quick-btn quick-btn-primary" target="_blank" rel="noopener">
-        <span>➔</span> Releases & Downloads (v1.10.0)
+        <span>➔</span> Releases (v1.10.0)
       </a>
     </div>
   </div>
@@ -101,7 +101,7 @@ Das Projekt **Sanskritkurs Payer** überführt dieses historische Werk aus dem s
 
 - **Interaktiver Sanskritkurs (PWA)** (`docs/`)  
   Vollständiges Lehrbuch mit über 60 Lektionen, interaktiven Übungen und Schriftlehrgängen in einer offlinefähigen VitePress Progressive Web App.  
-  [:octicons-tag-16: Release v1.10.0 (PDF & EPUB)](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [:octicons-mark-github-16: Quellcode in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
+  [:octicons-tag-16: Release v1.10.0](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [:octicons-mark-github-16: Quellcode in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
 
 - **Mehrsprachige Editionen (38+ Zielsprachen)**  
   35+ vollständig validierte Zielsprachen (140/140 Dateien je Sprache) mit strikter Wahrung von Devanāgarī-Graphemen und IAST-Diakritika via LLM-Pipeline (`nyx.local:8000`).  

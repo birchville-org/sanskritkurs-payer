@@ -31,7 +31,6 @@ flowchart TB
         DOCKER["Docker Staging Web Server\n• Public: Port 8080\n• Author: Port 8081"]
         OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer"]
-        EXPORT["PDF & EPUB Exporter"]
         VAULT["TM Cache & Session Vault"]
     end
 
@@ -39,7 +38,6 @@ flowchart TB
         GH_REPO["birchville-org/sanskritkurs-payer (main)"]
         GHCR["GitHub Container Registry (ghcr.io)"]
         GH_PAGES["GitHub Pages (Documentation)"]
-        GH_REL["GitHub Release Assets (.epub / .pdf)"]
     end
 
     IDE -->|Local Development| SSD
@@ -50,10 +48,8 @@ flowchart TB
     GHR -->|VitePress Build (38 Locales)| DOCKER
     GHR -->|Vector Indexing| OLLAMA
     GHR -->|Quality Audit| AUDIT
-    GHR -->|Export Generation| EXPORT
     GHR -->|Backup Vaulting| VAULT
     GHR -->|Push Multi-Arch Images| GHCR
-    EXPORT -->|Upload Release Assets| GH_REL
 
     style Workstation fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
     style Nyx fill:#fff3e0,stroke:#f57c00,stroke-width:2px

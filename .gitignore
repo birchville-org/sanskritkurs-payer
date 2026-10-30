@@ -136,6 +136,7 @@ docs/AUTHORS_GUIDE.md
 
 docs/public/downloads/*.pdf
 dist_exports/
+*.pdf
 *.epub
 
 docs/.vitepress/.temp/

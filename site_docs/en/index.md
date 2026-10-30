@@ -19,15 +19,15 @@
     <div>
       <div class="quick-card-header">
         <span class="quick-card-icon">📦</span>
-        <span class="quick-card-title">Releases & Offline Editions</span>
+        <span class="quick-card-title">Releases & Versions</span>
       </div>
       <div class="quick-card-body">
-        Complete textbook available as publication-grade PDF (745 pages) and EPUB (German and English) for direct download.
+        Version history, release notes, source archives, and production builds on GitHub.
       </div>
     </div>
     <div class="quick-card-action">
       <a href="https://github.com/birchville-org/sanskritkurs-payer/releases/latest" class="quick-btn quick-btn-primary" target="_blank" rel="noopener">
-        <span>➔</span> Releases & Downloads (v1.10.0)
+        <span>➔</span> Releases (v1.10.0)
       </a>
     </div>
   </div>
@@ -101,7 +101,7 @@ The **Sanskritkurs Payer** project transitions this academic resource from stati
 
 - **Interactive Sanskrit Course (PWA)** (`docs/`)  
   Complete digital textbook with 60+ lessons, interactive exercises, and script guides in an offline-ready VitePress Progressive Web App.  
-  [:octicons-tag-16: Release v1.10.0 (PDF & EPUB)](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [:octicons-mark-github-16: Source Code in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
+  [:octicons-tag-16: Release v1.10.0](https://github.com/birchville-org/sanskritkurs-payer/releases/latest) · [:octicons-mark-github-16: Source Code in `docs/`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/docs)
 
 - **Multilingual Editions (38+ Target Languages)**  
   35+ fully validated target languages (140/140 files per language) preserving Devanāgarī graphemes and IAST diacritics via LLM pipeline (`nyx.local:8000`).  

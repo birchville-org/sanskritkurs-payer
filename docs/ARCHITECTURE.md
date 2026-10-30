@@ -31,7 +31,6 @@ flowchart TB
         DOCKER["Docker Staging Web Server\n• Public: Port 8080"]
         OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer\n• audit_mobile_links.py\n• score_translation_quality.py"]
-        EXPORT["PDF & EPUB Exporter\n(export_pdf_epub.py)"]
         VAULT["TM Cache & Session Vault\n(/home/marco/payer_backups)"]
         VEC["Vector Indexing Engine\n(build_vector_index.py)"]
     end
@@ -39,7 +38,6 @@ flowchart TB
     subgraph GitHub["☁️ GitHub Remote"]
         GH_REPO["marcodem/sanskritkurs-payer (main)"]
         GHCR["GitHub Container Registry (ghcr.io)"]
-        GH_REL["GitHub Release Assets (.epub / .pdf)"]
     end
 
     %% Interactions & Styling
@@ -51,10 +49,8 @@ flowchart TB
     GHR -->|Build VitePress 35 Locales| DOCKER
     GHR -->|Execute Vector Indexing| OLLAMA
     GHR -->|Execute Mobile & Quality Audit| AUDIT
-    GHR -->|Build PDF & EPUB Artifacts| EXPORT
     GHR -->|Create Backups| VAULT
     GHR -->|Build & Push Multi-Arch Images| GHCR
-    EXPORT -->|Upload Artifacts to Releases| GH_REL
 
     style Workstation fill:#03192e,color:#fff,stroke:#48626e,stroke-width:2px
     style Nyx fill:#241500,color:#fff,stroke:#e67e22,stroke-width:2px
@@ -70,7 +66,7 @@ flowchart TB
 | :--- | :--- | :--- | :--- |
 | **nike.local** | macOS (Apple Silicon M2, 24GB Unified Memory/VRAM) | • Interactive Pair Programming with Antigravity IDE<br>• Code Editing & Git Control<br>• Translation Runner Trigger (`lan_translate.py`) | Local NVMe (`/Volumes/SanDisk1TB/proj/Payer`) |
 | **nyx.local** | macOS (MacBook Air M4, 32GB Unified Memory/VRAM) | • Dedicated 35B Heavy LLM Mass Translation Server<br>• Zero-Cost Local Inference (~20 tokens/sec) | `http://nyx.local:8000` |
-| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Automated PDF & EPUB Course Book Exporter<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
+| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
 
 ---
 
@@ -94,11 +90,9 @@ When code is pushed to `main`:
 8. **Vector Indexing**: Runs `scripts/build_vector_index.py` against Ollama `nomic-embed-text` on Nataraja.
 9. **Vault Archiving**: Archives `.payer/tm/` to ``/home/marco/payer_backups/tm_backup_<timestamp>.tar.gz``.
 
-### 4.3. Release Asset Pipeline (`deploy.yml`)
-When an official release tag (e.g. `v1.6.5`) is pushed:
+### 4.3. Release Pipeline (`deploy.yml`)
+When an official release tag (e.g. `v1.10.0`) is pushed:
 1. Multi-platform Docker builds for `linux/amd64` and `linux/arm64` pushed to `ghcr.io`.
-2. PDF & EPUB exporter (`scripts/export_pdf_epub.py`) builds consolidated course books.
-3. Uploads generated `.epub` and `.pdf` files directly as GitHub Release Assets via `gh release upload`.
 
 ---
 

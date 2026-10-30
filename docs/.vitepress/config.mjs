@@ -137,7 +137,7 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
-  srcExclude: isDesktop ? desktopExcludes : webExcludes,
+  srcExclude: [...(isDesktop ? desktopExcludes : webExcludes), '**/*.pdf', '**/*.epub'],
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],

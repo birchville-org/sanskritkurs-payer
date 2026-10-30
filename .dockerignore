@@ -4,3 +4,6 @@ node_modules
 # dist/ wird vom Workflow nativ gebaut und dann in Docker kopiert — NICHT ignorieren
 *.log
 .DS_Store
+dist_exports/
+*.pdf
+*.epub
