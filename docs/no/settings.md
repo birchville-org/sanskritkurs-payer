@@ -9,7 +9,7 @@ title: "Settings"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Current Version**: `v1.9.1`
-**Release Notes & Changelog**: [What's new in v1.9.1?](/no/release-notes)
+**Current Version**: `v1.10.0`
+**Release Notes & Changelog**: [What's new in v1.10.0?](/no/release-notes)
 **Source Code & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import { useData } from 'vitepress'
 import { data } from '../../data/topics.data.js'
+import { ACTIVE_LOCALES } from '../../languages.mjs'
 
 const { page } = useData()
 
@@ -10,7 +11,7 @@ const currentLessonNumber = computed(() => {
   return match ? parseInt(match[1]) : null
 })
 
-const LOCALES = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
+const LOCALES = ACTIVE_LOCALES.filter(l => l !== 'de')
 const currentLocale = computed(() => {
   const first = page.value.relativePath.split('/')[0]
   return LOCALES.includes(first) ? first : 'root'
@@ -65,7 +66,8 @@ function getLabel(num) {
     en: 'Lesson',
     it: 'Lezione',
     es: 'Lección',
-    bg: 'Урок'
+    bg: 'Урок',
+    te: 'పాఠం'
   }
   return labels[currentLocale.value] || 'Lesson'
 }
@@ -76,7 +78,8 @@ function getHeading() {
     en: 'Related Topics',
     it: 'Argomenti correlati',
     es: 'Temas relacionados',
-    bg: 'Свързани теми'
+    bg: 'Свързани теми',
+    te: 'సంబంధిత విషయాలు'
   }
   return headings[currentLocale.value] || 'Related Topics'
 }

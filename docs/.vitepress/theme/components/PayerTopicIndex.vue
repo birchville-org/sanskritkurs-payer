@@ -3,10 +3,11 @@ import { useRoute } from 'vitepress'
 import { useData } from 'vitepress'
 import { computed } from 'vue'
 import { data } from '../../data/topics.data.js'
+import { ACTIVE_LOCALES } from '../../languages.mjs'
 
 const route = useRoute()
 
-const LOCALES = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
+const LOCALES = ACTIVE_LOCALES.filter(l => l !== 'de')
 
 const langPrefix = computed(() => {
   const first = route.path.split('/').filter(Boolean)[0]

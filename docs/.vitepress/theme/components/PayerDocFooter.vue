@@ -43,180 +43,52 @@ const labels = computed(() => {
   return FOOTER_LABELS[currentLang.value] || FOOTER_LABELS.de
 })
 
+const TITLE_TERMS = {
+  en: { Schriftübung: 'Writing Exercise', Lektion: 'Lesson', Übung: 'Exercise', Schrift: 'Script' },
+  it: { Schriftübung: 'Esercizio di scrittura', Lektion: 'Lezione', Übung: 'Esercizio', Schrift: 'Scrittura' },
+  es: { Schriftübung: 'Ejercicio de escritura', Lektion: 'Lección', Übung: 'Ejercicio', Schrift: 'Escritura' },
+  fr: { Schriftübung: "Exercice d'écriture", Lektion: 'Leçon', Übung: 'Exercice', Schrift: 'Écriture' },
+  bg: { Schriftübung: 'Упражнение по писмо', Lektion: 'Урок', Übung: 'Упражнение', Schrift: 'Писмо', Devanāgarī: 'Деванагари' },
+  ru: { Schriftübung: 'Упражнение по письму', Lektion: 'Лекция', Übung: 'Упражнение', Schrift: 'Письмо' },
+  uk: { Schriftübung: 'Вправа з письма', Lektion: 'Лекція', Übung: 'Вправа', Schrift: 'Письмо' },
+  hi: { Schriftübung: 'लिपि अभ्यास', Lektion: 'पाठ', Übung: 'अभ्यास', Schrift: 'लिपि' },
+  ta: { Schriftübung: 'எழுத்து பயிற்சி', Lektion: 'பாடம்', Übung: 'பயிற்சி', Schrift: 'எழுத்து' },
+  te: { Schriftübung: 'లిపి అభ్యాసం', Lektion: 'పాఠం', Übung: 'అభ్యాసం', Schrift: 'లిపి' },
+  pa: { Schriftübung: 'ਲਿਪੀ ਅਭਿਆਸ', Lektion: 'ਪਾਠ', Übung: 'ਅਭਿਆਸ', Schrift: 'ਲਿਪੀ' },
+  la: { Schriftübung: 'Exercitatio scripturae', Lektion: 'Lectio', Übung: 'Exercitatio', Schrift: 'Scriptura' },
+  rm: { Schriftübung: 'Exercizi da scrittira', Lektion: 'Lecziun', Übung: 'Exercizi', Schrift: 'Scrittira' },
+  ro: { Schriftübung: 'Exercițiu de scriere', Lektion: 'Lecție', Übung: 'Exercițiu', Schrift: 'Scriere' },
+  he: { Schriftübung: 'תרגיל כתיבה', Lektion: 'שיעור', Übung: 'תרגיל', Schrift: 'כתב' },
+  id: { Schriftübung: 'Latihan Menulis', Lektion: 'Pelajaran', Übung: 'Latihan', Schrift: 'Aksara' },
+  ar: { Schriftübung: 'تمرين كتابة', Lektion: 'درس', Übung: 'تمرين', Schrift: 'خط' },
+  cs: { Schriftübung: 'Písemné cvičení', Lektion: 'Lekce', Übung: 'Cvičení', Schrift: 'Písmo' },
+  'zh-CN': { Schriftübung: '书写练习', Lektion: '课', Übung: '练习', Schrift: '字母' },
+  zh: { Schriftübung: '書寫練習', Lektion: '課', Übung: '練習', Schrift: '字母' },
+  el: { Schriftübung: 'Άσκηση Γραφής', Lektion: 'Μάθημα', Übung: 'Άσκηση', Schrift: 'Γραφή' },
+  grc: { Schriftübung: 'Ἄσκησις γραφῆς', Lektion: 'Μάθημα', Übung: 'Ἄσκησις', Schrift: 'Γραφή' },
+  th: { Schriftübung: 'แบบฝึกหัดการเขียน', Lektion: 'บทเรียน', Übung: 'แบบฝึกหัด', Schrift: 'อักษร' },
+  fi: { Schriftübung: 'Kirjoitusharjoitus', Lektion: 'Oppitunti', Übung: 'Harjoitus', Schrift: 'Kirjoitus' },
+  hu: { Schriftübung: 'Írásgyakorlat', Lektion: 'Lecke', Übung: 'Gyakorlat', Schrift: 'Írás' },
+  pt: { Schriftübung: 'Exercício de escrita', Lektion: 'Lição', Übung: 'Exercício', Schrift: 'Escrita' },
+  af: { Schriftübung: 'Skryfoefening', Lektion: 'Les', Übung: 'Oefening', Schrift: 'Skrif' },
+  lt: { Schriftübung: 'Rašymo užduotis', Lektion: 'Pamoka', Übung: 'Užduotis', Schrift: 'Raštas' },
+  sh: { Schriftübung: 'Vežba pisanja', Lektion: 'Lekcija', Übung: 'Vežba', Schrift: 'Pismo' },
+  sq: { Schriftübung: 'Ushtrim shkrimi', Lektion: 'Mësimi', Übung: 'Ushtrim', Schrift: 'Shkrimi' },
+  am: { Schriftübung: 'የጽሑፍ ልምምድ', Lektion: 'ትምህርት', Übung: 'ልምምድ', Schrift: 'ጽሑፍ' },
+  fa: { Schriftübung: 'تمرین نوشتاری', Lektion: 'درس', Übung: 'تمرین', Schrift: 'خط' },
+  nl: { Schriftübung: 'Schrijfoefening', Lektion: 'Les', Übung: 'Oefening', Schrift: 'Schrift' }
+}
+
 const translateTitle = (text) => {
   if (!text) return ''
   const l = currentLang.value
-  if (l === 'de') return text
-  
+  if (l === 'de' || !TITLE_TERMS[l]) return text
+
+  const map = TITLE_TERMS[l]
   let t = text
-  if (l === 'it') {
-    t = t.replace(/Schriftübung/g, 'Esercizio di scrittura')
-    t = t.replace(/Lektion/g, 'Lezione')
-    t = t.replace(/Übung/g, 'Esercizio')
-    t = t.replace(/Schrift/g, 'Scrittura')
-  } else if (l === 'es') {
-    t = t.replace(/Schriftübung/g, 'Ejercicio de escritura')
-    t = t.replace(/Lektion/g, 'Lección')
-    t = t.replace(/Übung/g, 'Ejercicio')
-    t = t.replace(/Schrift/g, 'Escritura')
-  } else if (l === 'en') {
-    t = t.replace(/Schriftübung/g, 'Writing Exercise')
-    t = t.replace(/Lektion/g, 'Lesson')
-    t = t.replace(/Übung/g, 'Exercise')
-    t = t.replace(/Schrift/g, 'Script')
-  } else if (l === 'bg') {
-    t = t.replace(/Schriftübung/g, 'Упражнение по писмо')
-    t = t.replace(/Lektion/g, 'Урок')
-    t = t.replace(/Übung/g, 'Упражнение')
-    t = t.replace(/Schrift/g, 'Писмо')
-    t = t.replace(/Devanāgarī/g, 'Деванагари')
-  } else if (l === 'ru') {
-    t = t.replace(/Schriftübung/g, 'Упражнение по письму')
-    t = t.replace(/Lektion/g, 'Лекция')
-    t = t.replace(/Übung/g, 'Упражнение')
-    t = t.replace(/Schrift/g, 'Письмо')
-  } else if (l === 'uk') {
-    t = t.replace(/Schriftübung/g, 'Вправа з письма')
-    t = t.replace(/Lektion/g, 'Лекція')
-    t = t.replace(/Übung/g, 'Вправа')
-    t = t.replace(/Schrift/g, 'Письмо')
-  } else if (l === 'hi') {
-    t = t.replace(/Schriftübung/g, 'लिपि अभ्यास')
-    t = t.replace(/Lektion/g, 'पाठ')
-    t = t.replace(/Übung/g, 'अभ्यास')
-    t = t.replace(/Schrift/g, 'लिपि')
-  } else if (l === 'fr') {
-    t = t.replace(/Schriftübung/g, "Exercice d'écriture")
-    t = t.replace(/Lektion/g, 'Leçon')
-    t = t.replace(/Übung/g, 'Exercice')
-    t = t.replace(/Schrift/g, 'Écriture')
-  } else if (l === 'ta') {
-    t = t.replace(/Schriftübung/g, 'எழுத்து பயிற்சி')
-    t = t.replace(/Lektion/g, 'பாடம்')
-    t = t.replace(/Übung/g, 'பயிற்சி')
-    t = t.replace(/Schrift/g, 'எழுத்து')
-  } else if (l === 'pa') {
-    t = t.replace(/Schriftübung/g, 'ਲਿਪੀ ਅਭਿਆਸ')
-    t = t.replace(/Lektion/g, 'ਪਾਠ')
-    t = t.replace(/Übung/g, 'ਅਭਿਆਸ')
-    t = t.replace(/Schrift/g, 'ਲਿਪੀ')
-  } else if (l === 'la') {
-    t = t.replace(/Schriftübung/g, 'Exercitatio scripturae')
-    t = t.replace(/Lektion/g, 'Lectio')
-    t = t.replace(/Übung/g, 'Exercitatio')
-    t = t.replace(/Schrift/g, 'Scriptura')
-  } else if (l === 'rm') {
-    t = t.replace(/Schriftübung/g, "Exercizi da scrittira")
-    t = t.replace(/Lektion/g, 'Lecziun')
-    t = t.replace(/Übung/g, 'Exercizi')
-    t = t.replace(/Schrift/g, 'Scrittira')
-  } else if (l === 'ro') {
-    t = t.replace(/Schriftübung/g, 'Exercițiu de scriere')
-    t = t.replace(/Lektion/g, 'Lecție')
-    t = t.replace(/Übung/g, 'Exercițiu')
-    t = t.replace(/Schrift/g, 'Scriere')
-  } else if (l === 'he') {
-    t = t.replace(/Schriftübung/g, 'תרגיל כתיבה')
-    t = t.replace(/Lektion/g, 'שיעור')
-    t = t.replace(/Übung/g, 'תרגיל')
-    t = t.replace(/Schrift/g, 'כתב')
-  } else if (l === 'id') {
-    t = t.replace(/Schriftübung/g, 'Latihan Menulis')
-    t = t.replace(/Lektion/g, 'Pelajaran')
-    t = t.replace(/Übung/g, 'Latihan')
-    t = t.replace(/Schrift/g, 'Aksara')
-  } else if (l === 'ar') {
-    t = t.replace(/Schriftübung/g, 'تمرين كتابة')
-    t = t.replace(/Lektion/g, 'درس')
-    t = t.replace(/Übung/g, 'تمرين')
-    t = t.replace(/Schrift/g, 'خط')
-  } else if (l === 'arc') {
-    t = t.replace(/Schriftübung/g, 'Writing Exercise')
-    t = t.replace(/Lektion/g, 'Lesson')
-    t = t.replace(/Übung/g, 'Exercise')
-    t = t.replace(/Schrift/g, 'Script')
-  } else if (l === 'zh-CN') {
-    t = t.replace(/Schriftübung/g, '书写练习')
-    t = t.replace(/Lektion/g, '课')
-    t = t.replace(/Übung/g, '练习')
-    t = t.replace(/Schrift/g, '字母')
-  } else if (l === 'th') {
-    t = t.replace(/Schriftübung/g, 'แบบฝึกหัดการเขียน')
-    t = t.replace(/Lektion/g, 'บทเรียน')
-    t = t.replace(/Übung/g, 'แบบฝึกหัด')
-    t = t.replace(/Schrift/g, 'อักษร')
-  } else if (l === 'el') {
-    t = t.replace(/Schriftübung/g, 'Άσκηση Γραφής')
-    t = t.replace(/Lektion/g, 'Μάθημα')
-    t = t.replace(/Übung/g, 'Άσκηση')
-    t = t.replace(/Schrift/g, 'Γραφή')
-  } else if (l === 'grc') {
-    t = t.replace(/Schriftübung/g, 'Ἄσκησις γραφῆς')
-    t = t.replace(/Lektion/g, 'Μάθημα')
-    t = t.replace(/Übung/g, 'Ἄσκησις')
-    t = t.replace(/Schrift/g, 'Γραφή')
-  } else if (l === 'cop') {
-    t = t.replace(/Schriftübung/g, 'Writing Exercise')
-    t = t.replace(/Lektion/g, 'Lesson')
-    t = t.replace(/Übung/g, 'Exercise')
-    t = t.replace(/Schrift/g, 'Script')
-  } else if (l === 'fi') {
-    t = t.replace(/Schriftübung/g, 'Kirjoitusharjoitus')
-    t = t.replace(/Lektion/g, 'Oppitunti')
-    t = t.replace(/Übung/g, 'Harjoitus')
-    t = t.replace(/Schrift/g, 'Kirjoitus')
-  } else if (l === 'hu') {
-    t = t.replace(/Schriftübung/g, 'Írásgyakorlat')
-    t = t.replace(/Lektion/g, 'Lecke')
-    t = t.replace(/Übung/g, 'Gyakorlat')
-    t = t.replace(/Schrift/g, 'Írás')
-  } else if (l === 'pt') {
-    t = t.replace(/Schriftübung/g, 'Exercício de escrita')
-    t = t.replace(/Lektion/g, 'Lição')
-    t = t.replace(/Übung/g, 'Exercício')
-    t = t.replace(/Schrift/g, 'Escrita')
-  } else if (l === 'af') {
-    t = t.replace(/Schriftübung/g, 'Skryfoefening')
-    t = t.replace(/Lektion/g, 'Les')
-    t = t.replace(/Übung/g, 'Oefening')
-    t = t.replace(/Schrift/g, 'Skrif')
-  } else if (l === 'lt') {
-    t = t.replace(/Schriftübung/g, 'Rašymo užduotis')
-    t = t.replace(/Lektion/g, 'Pamoka')
-    t = t.replace(/Übung/g, 'Užduotis')
-    t = t.replace(/Schrift/g, 'Raštas')
-  } else if (l === 'sh') {
-    t = t.replace(/Schriftübung/g, 'Vežba pisanja')
-    t = t.replace(/Lektion/g, 'Lekcija')
-    t = t.replace(/Übung/g, 'Vežba')
-    t = t.replace(/Schrift/g, 'Pismo')
-  } else if (l === 'sq') {
-    t = t.replace(/Schriftübung/g, 'Ushtrim shkrimi')
-    t = t.replace(/Lektion/g, 'Mësimi')
-    t = t.replace(/Übung/g, 'Ushtrim')
-    t = t.replace(/Schrift/g, 'Shkrimi')
-  } else if (l === 'am') {
-    t = t.replace(/Schriftübung/g, 'የጽሑፍ ልምምድ')
-    t = t.replace(/Lektion/g, 'ትምህርት')
-    t = t.replace(/Übung/g, 'ልምምድ')
-    t = t.replace(/Schrift/g, 'ጽሑፍ')
-  } else if (l === 'fa') {
-    t = t.replace(/Schriftübung/g, 'تمرین نوشتاری')
-    t = t.replace(/Lektion/g, 'درس')
-    t = t.replace(/Übung/g, 'تمرین')
-    t = t.replace(/Schrift/g, 'خط')
-  } else if (l === 'nl') {
-    t = t.replace(/Schriftübung/g, 'Schrijfoefening')
-    t = t.replace(/Lektion/g, 'Les')
-    t = t.replace(/Übung/g, 'Oefening')
-    t = t.replace(/Schrift/g, 'Schrift')
-  } else if (l === 'zh') {
-    t = t.replace(/Schriftübung/g, '書寫練習')
-    t = t.replace(/Lektion/g, '課')
-    t = t.replace(/Übung/g, '練習')
-    t = t.replace(/Schrift/g, '字母')
+  for (const [key, val] of Object.entries(map)) {
+    t = t.replaceAll(key, val)
   }
-  
   return t
 }
 

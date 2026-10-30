@@ -8,6 +8,28 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.10.0 (Oktober 2026)
+
+**Focus:** *Integration der 18. aktiven Sprache (Telugu / te-IN), vollständiges Telugu-Glossar (778 Einträge), Single Source of Truth für Topics-Data & Bereinigung von Footer- und Language-Settings-Komponenten*
+
+### ✨ Features & Highlights
+- **Datenintegrität & Kernfunktionen**:
+  - **18. aktive Sprache (Telugu / te-IN)**: Vollständige Übersetzung und Freischaltung des gesamten Sanskritkurses in Telugu (61 Lektionen, 57 Übungsdateien, 11 Schriftlektionen, Inhaltsverzeichnis und Wortliste).
+  - **Telugu-Glossar (`docs/te/lektionen/glossar.md`)**: Automatisierte Generierung von 778 Glossareinträgen mit doppelter Schriftführung (IAST und Telugu-Skript via `indic_transliteration`).
+  - **Themenübersicht Telugu (`docs/te/themen.md`)**: Vollständige Lokalisierung der grammatischen Indexseite auf Telugu (`వ్యాకరణ పట్టిక`).
+  - **VitePress-Locale-Integration**: Vollständige Konfiguration von `docs/.vitepress/locales/te.mjs`, Aufnahme in `ACTIVE_LOCALES` und Anbindung an den QA-Viewer (`qa_viewer.html`).
+- **Performance & Rendering**:
+  - **Komponenten-Refactoring `PayerDocFooter.vue`**: Ersetzung einer 170-zeiligen `if / else if`-Kaskade durch ein kompaktes, deklaratives `TITLE_TERMS`-Lookup-Objekt mit nativer `.replaceAll()`-Logik. Ergänzung von Telugu (`te`) und Tschechisch (`cs`); Entfernung ausgeschlossener antiker Sprachen (`arc`, `cop`).
+  - **Single Source of Truth für Topic-Indizes**: Veraltete, hartcodierte Locales-Listen in `topics.data.js`, `PayerTopicIndex.vue` und `PayerRelatedLessons.vue` durch den direkten Import von `ACTIVE_LOCALES` aus `languages.mjs` ersetzt.
+- **Sicherheit & Sandbox**:
+  - **Language-Settings-Bereinigung**: Vollständige Lokalisierung für Telugu und Tschechisch in `PayerLanguageSettings.vue`. Entfernung von totem Feedback-Code und ungenutzten Fallbacks.
+  - **Link-Konsistenz**: Korrektur interner Dokumentationslinks in `settings.md` auf kanonische Pfade.
+- **Plattform- & Backend-Stabilität**:
+  - **SSG-Manifest-Generierung**: Saubere Einbindung von `manifest-te.json` mit 142 generierten URLs im VitePress-Postbuild.
+  - **Pre-Push-Verifikation**: Erfolgreiche Validierung aller 18 aktiven Sprachversionen gegen strikte QA- und Translation-Memory-Kriterien.
+
+---
+
 ## 🚀 Version 1.9.1 (Oktober 2026)
 
 **Focus:** *82% Asset- & Build-Footprint Reduction, 17 Published Core Locales with Contact Dispatch, Open Graph Mail Capsules & Local Storage Sanitization*

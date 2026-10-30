@@ -13,7 +13,8 @@ export default {
       'auf dieser seite', 'impressum', 'bildlizenzen'
     ]
 
-    const LOCALES = ['', 'en', 'it', 'es', 'fr', 'hi', 'bg', 'ru', 'uk', 'ta', 'pa', 'la', 'rm', 'ro']
+    const { ACTIVE_LOCALES } = await import('../languages.mjs')
+    const LOCALES = ['', ...ACTIVE_LOCALES.filter(l => l !== 'de')]
 
     const baseDir = path.resolve(__dirname, '..', '..')
 

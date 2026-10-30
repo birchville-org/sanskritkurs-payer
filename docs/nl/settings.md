@@ -9,7 +9,7 @@ title: "Instellingen"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Huidige versie**: `v1.9.1`
-**Release-opmerkingen & Changelog**: [Wat is nieuw in v1.9.1?](/nl/release-notes)
+**Huidige versie**: `v1.10.0`
+**Release-opmerkingen & Changelog**: [Wat is nieuw in v1.10.0?](/nl/release-notes)
 **Broncode & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

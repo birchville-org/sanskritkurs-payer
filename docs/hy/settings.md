@@ -9,7 +9,7 @@ title: "Կարգավորումներ"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Ընթացիկ տարբերակը**: `v1.9.1`
-**Թողարկման նշումներ և փոփոխությունների ժամացույց**: [Ի՞նչ է նոր v1.9.1-ում](/hy/release-notes)
+**Ընթացիկ տարբերակը**: `v1.10.0`
+**Թողարկման նշումներ և փոփոխությունների ժամացույց**: [Ի՞նչ է նոր v1.10.0-ում](/hy/release-notes)
 **Աղբյուր կոդ և պահեստ**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

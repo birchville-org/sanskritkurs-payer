@@ -9,7 +9,7 @@ title: "Налаштування"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Поточна версія**: `v1.9.1`
-**Примітки до випуску та журнал змін**: [Що нового у v1.9.1?](/uk/release-notes)
+**Поточна версія**: `v1.10.0`
+**Примітки до випуску та журнал змін**: [Що нового у v1.10.0?](/uk/release-notes)
 **Вихідний код та репозиторій**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

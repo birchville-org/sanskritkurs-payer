@@ -461,6 +461,42 @@ const LOCALE_TEXTS = {
     unavailableHint: 'להתקנת PWA: נדרש חיבור HTTPS ודפדפן מודרני.',
     preparingApp: 'מכין אפליקציה...',
   },
+  te: {
+    activeLanguages: 'క్రియాశీల భాషలు',
+    availableLanguages: 'మరిన్ని భాషలను జోడించండి',
+    title: 'సెట్టింగ్‌లు',
+    hint: 'నావిగేషన్‌లో చూపించడానికి మరియు ఆఫ్‌లైన్‌లో అందుబాటులో ఉంచడానికి భాషలను ఎంచుకోండి.',
+    currentBadge: 'ప్రస్తుత',
+    saveBtn: 'భద్రపరచు',
+    saving: 'సేవ్ చేస్తోంది...',
+    validationError: 'కనీసం ఒక భాషను ఎంచుకోవాలి.',
+    installing: 'యాప్ ఇన్‌స్టాల్ అవుతోంది…',
+    installBtn: '📱 వెబ్ యాప్‌ను ఇన్‌స్టాల్ చేయండి',
+    installHint: 'డెస్క్‌టాప్ లేదా స్మార్ట్‌ఫోన్‌లో పూర్తి ఆఫ్‌లైన్ ఉపయోగం కోసం.',
+    installedStatus: 'వెబ్ యాప్ ఇన్‌స్టాల్ చేయబడింది',
+    installedHint: 'యాప్ స్వతంత్ర అనువర్తనంగా నడుస్తోంది.',
+    unavailableStatus: 'ఇన్‌స్టాలేషన్ అందుబాటులో లేదు',
+    unavailableHint: 'PWA ఇన్‌స్టాలేషన్ కోసం: HTTPS కనెక్షన్ మరియు ఆధునిక బ్రౌజర్ (Chrome, Edge, Safari 16.4+) అవసరం.',
+    preparingApp: 'యాప్ సిద్ధమవుతోంది…',
+  },
+  cs: {
+    activeLanguages: 'Aktivní jazyky',
+    availableLanguages: 'Přidat další jazyky',
+    title: 'Nastavení',
+    hint: 'Vyberte jazyky, které se mají zobrazovat v navigaci a být dostupné offline.',
+    currentBadge: 'aktuální',
+    saveBtn: 'Uložit',
+    saving: 'Ukládání...',
+    validationError: 'Musí být vybrán alespoň jeden jazyk.',
+    installing: 'Aplikace se instaluje…',
+    installBtn: '📱 Instalovat webovou aplikaci',
+    installHint: 'Pro plné offline použití na počítači nebo chytrém telefonu.',
+    installedStatus: 'Webová aplikace je nainstalována',
+    installedHint: 'Aplikace běží jako samostatná aplikace.',
+    unavailableStatus: 'Instalace není k dispozici',
+    unavailableHint: 'Pro instalaci PWA: Vyžadováno připojení HTTPS a moderní prohlížeč.',
+    preparingApp: 'Připravuje se aplikace…',
+  },
 }
 
 // Computed helper — returns localized strings for the current locale, with German as fallback
@@ -532,25 +568,6 @@ async function prefetchLocale(locale) {
   }
 }
 
-// Localized save-feedback strings (computed to follow currentLocale)
-const saveFeedback = {
-  // accessed via `saveFeedback[currentLocale.value]?.key ?? saveFallback.key`
-}
-const saveFallback = {
-  saving: '⏳ Salva...',
-  offlineUnavailable: ' (caching offline indisponibil — fără Service Worker)',
-  downloading: (done, total) => `⏳ Se descarcă limbile noi (${done}/${total})...`,
-  cached: (name, cached, total, done, tot) => `✓ ${name}: ${cached}/${total} pagini în cache (${done}/${tot})`,
-  failed: (name, done, tot) => `⚠ ${name}: descărcare eșuată (${done}/${tot})`,
-  summaryAdded: (n) => `+${n} limbă/limbi adăugate`,
-  summaryRemoved: (n) => `-${n} limbă/limbi eliminate`,
-  summaryUnchanged: 'nicio modificare',
-  summarySaved: (parts) => `✓ ${parts}`,
-  summaryNoCache: (parts) => `ℹ ${parts} — cache offline necesită implementare production`,
-  error: (msg) => `⚠ Eroare la salvare: ${msg}`,
-  timeout: '⚠ Salvare anulată (timeout). Reîncărcați pagina.',
-}
-
 // Localized messages for save() flow — keyed by currentLocale
 const SAVE_MSG = {
   de: {
@@ -587,8 +604,8 @@ const SAVE_MSG = {
 
 function msg(key, ...args) {
   const loc = SAVE_MSG[currentLocale.value] || SAVE_MSG.de
-  const fn = loc[key]
-  return typeof fn === 'function' ? fn(...args) : (fn ?? saveFallback[key])
+  const fn = loc[key] ?? SAVE_MSG.de[key]
+  return typeof fn === 'function' ? fn(...args) : fn
 }
 
 async function save() {
