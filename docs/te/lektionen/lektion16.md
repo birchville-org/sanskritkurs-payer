@@ -99,24 +99,24 @@ status: stable
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(చిత్ర మూలం: [Details](/te/licenses#lekt1603))
+చిత్రం: ⟪अहिंसा⟫
+"అరచేతిలో చక్రం ఉన్న చేయి జైన అహింసా వ్రతానికి ప్రతీక. మధ్యలో ఉన్న పదం \"అహింస\". ఆ చక్రం ధర్మచక్రాన్ని సూచిస్తుంది, ఇది సత్యం మరియు అహింసల నిరంతర సాధన ద్వారా పునర్జన్మ చక్రాన్ని నిలిపివేయాలనే సంకల్పాన్ని తెలియజేస్తుంది."
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1603))
 :::
-## 16.3. Exercise
+## 16.3. అభ్యాసం
 
-A) Convert the following expressions into Tatpuruṣa compounds and translate them:
+ఎ) క్రింది పదబంధాలను తత్పురుష సమాసాలుగా మార్చండి మరియు వాటిని అనువదించండి:
 
 ⟪१⟫. ⟪देवस्य पुरुषः । २⟫. ⟪गुणवती ब्राह्मणी । ३⟫. ⟪सत्यवान्ब्राह्मणः । ४⟫. ⟪पशुमन्तो जनाः ।⟫
 
 ::: media
 ![](/images/lekt1604.webp)
-Abb.: ⟪पशुमन्तो जनाः हरियाणा⟫ / హర్యానా
-(చిత్ర మూలం: [Details](/te/licenses#lekt1604))
+చిత్రం: ⟪पशुमन्तो जनाः हरियाणा⟫ / హర్యానా
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः पुत्रः । ६⟫.  ⟪सुखवत्या वैश्यायाः पुत्रः । ७⟫. ⟪कवेरुक्त्याः सत्यम् । ८⟫. ⟪शिवेन रक्षिता बाला । ९⟫. ⟪रामेण पीतं जलम् । १०⟫. ⟪फलवांल्लाभः । ११⟫. ⟪इष्टाया देवतायाः पूजा । १२⟫. ⟪देवानां स्तुतिः ।⟫
 
-B) Resolve all compounds in the following sentences into Sanskrit, form sentences with inflected nouns and translate them:
+బి) క్రింది వాక్యాలలోని అన్ని సమాసాలను సంస్కృతంలో విడదీయండి, విభక్తి రూపాలతో కూడిన నామపదాలతో వాక్యాలను ఏర్పరచండి మరియు అనువదించండి:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति ।⟫
 

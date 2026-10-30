@@ -61,9 +61,9 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫
 
-Explanation: brahmavihāra: "Abiding states of Brahma", also called the "Immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step "radiates" all of reality. These four also play a role in Yoga (Yogasūtra 1,33) for calming the mind.
+వివరణ: brahmavihāra: "బ్రహ్మవిహారాలు", "అప్రమేయాలు" అని కూడా పిలువబడే అపరిమిత మనోభావాలు. ఇవి బౌద్ధ ధ్యాన పద్ధతులను సూచిస్తాయి, వీటి ద్వారా ధ్యానం చేసే సాధకుడు క్రమంగా, అంచలవారీగా సమస్త వాస్తవికతను ప్రేమతో "ప్రసరింపజేస్తాడు". మనస్సును ప్రశాంతపరచడానికి ఈ నాలుగు భావనలు యోగశాస్త్రంలో కూడా (యోగసూత్రం 1,33) ముఖ్యమైన పాత్ర పోషిస్తాయి.
 
-The unlimited attitudes are: goodwill, compassion, sympathetic joy, and equanimity.
+ఆ అపరిమిత మనోభావాలు: మైత్రి (స్నేహభావం), కరుణ (దయ), ముదిత (సహానుభూతిపూర్వక ఆనందం), మరియు ఉపేక్ష (సమభావం).
 
 maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
@@ -73,9 +73,9 @@ maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः⟫
 
-Explanation: pañca = "five"
+వివరణ: pañca = "ఐదు"
 
-The five afflictions are: ignorance, egoism, greed, hatred, and clinging to life.
+ఆ పంచ క్లేశాలు: అవిద్య (అజ్ఞానం), అస్మిత (అహంకారం), రాగం (ఆశ/వ్యామోహం), ద్వేషం, మరియు అభినవేశం (జీవితంపై విపరీతమైన మోహం).
 
 avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 

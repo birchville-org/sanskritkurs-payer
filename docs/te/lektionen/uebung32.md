@@ -247,54 +247,54 @@ B) అనువదించండి మరియు సంస్కృతంల
 1. కొడుకు జన్మించిన తర్వాత, బ్రాహ్మణ స్త్రీ ఒక సేవకుడిని బ్రాహ్మణుడి వద్ద పంపుతుంది.
 **⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति ।⟫**
 
-2\. The holy one has endured the evil done to him.
+2\. సాధువు తనకు జరిగిన అపకారాన్ని ఓర్చుకున్నాడు.
 **⟪साधुना कृतं पापं सोढम् ॥⟫**
 
-3\. Morality is the ornament of man.
+3\. శీలమే మానవునికి భూషణం.
 **⟪शीलं नरस्य भूषणम् ॥⟫**
 
-4\. The mighty warriors have gone to the Brahmin village.
+4\. బలవంతులైన యోధులు బ్రాహ్మణుల గ్రామానికి వెళ్లారు.
 **⟪बलवद्योधा ब्राह्मणग्रामं गताः ॥⟫**
 
-5\. The girl is weeping.
+5\. బాలిక ఏడుస్తున్నది.
 **⟪बाला रोदिति ॥⟫**
 
-6\. There is no disease like lust, no enemy like confusion, no fire like anger, no happiness like knowledge.
+6\. కామము వంటి వ్యాధి లేదు, మోహము వంటి శత్రువు లేడు, క్రోధము వంటి అగ్ని లేదు, జ్ఞానము వంటి సుఖము లేదు.
 **⟪नास्ति कामसमो व्याधिर्नास्ति मोहसमो रिपुः ।⟫**
 **⟪नास्ति क्रोधसमो वह्निर्नास्ति ज्ञानसमं सुखम् ॥⟫**
 
-7\. A man protected by the goddess is happy.
+7\. దేవిచే రక్షింపబడిన మానవుడు సుఖవంతుడు.
 **⟪यं नरं देवी रक्षति स सुखवान् ॥⟫**
 
-8\. With whatever wind a cloud lets fall water, with that wind a scholar moves his umbrella.
+8\. మేఘం ఏ ఏ గాలితోనైతే నీటిని కురిపిస్తుందో, ఆయా గాలితోనే పండితుడు తన గొడుగును తిప్పుతాడు.
 **⟪येन येन च वातेन वारिदो वारिं मुञ्चति ।⟫**
 **⟪तेन तेन च वातेन छत्रं वहति पण्डितः ॥⟫**
 
-9\. The cycle of rebirths has no beginning.
+9\. సంసారము అనాది కాలికమైనది (పునర్జన్మ చక్రానికి ఆది లేదు).
 **⟪अनादिकालिकः संसारः ॥⟫**
 
-10\. Welcome to the queen!
+10\. దేవికి (రాణికి) స్వాగతం!
 **⟪स्वागतं देव्यै ॥⟫**
 
-11\. For the sake of heaven, people do meritorious deeds.
+11\. స్వర్గం కోసం మానవులు పుణ్యకార్యాలు చేస్తారు.
 **⟪स्वर्गेभ्यो नराः पुण्यं कुर्वते ॥⟫**
 
-12\. Goodbye!
+12\. మళ్లీ కలుద్దాం!
 **⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
 ![](/images/uebung052.webp)
-Fig.: ⟪पुनर्दर्शनाय⟫
-(Image source: [Details](/licenses#uebung052))
+చిత్రం: ⟪पुनर्दर्शनाय⟫
+(చిత్ర మూలం: [వివరాలు](/te/licenses#uebung052))
 :::
 ---
 
-## Scholarly Fragment (Stotra)
+## విద్వత్ ఖండం (స్తోత్రం)
 
 **⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् ।⟫**  
 **⟪आशयच्चामृतं देवान्वेदमध्यापयद्विधिम् ।⟫**  
 **⟪आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥⟫**  
-The exalted Hari is my refuge, who sent his enemies to heaven, caused his followers to know the meaning of the Veda, gave Amṛta to the gods to eat, taught the Veda to the creator, and established the earth in water.
+శత్రువులను స్వర్గానికి పంపినవాడు, తన భక్తులకు వేదార్థాన్ని బోధించినవాడు, దేవతలకు అమృతాన్ని ఆరగించినవాడు, బ్రహ్మదేవునికి వేదాన్ని ఉపదేశించినవాడు, జలములపై భూమిని నిలిపినవాడు అయిన ఆ శ్రీహరియే నాకు గతి (శరణు).
 
 ::: media
 ![](/images/uebung053.webp)

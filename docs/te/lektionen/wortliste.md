@@ -4353,7 +4353,7 @@ PPP ⟪रिष्ट⟫
 Fig.: ⟪कल्याणी⟫
 (Image source: [Details](/licenses#lekt5003))
 :::
-⟪कु⟫- : as the first member of compounds: bad
+⟪कु⟫- : సమాసాలలో పూర్వపదంగా: చెడు, దుష్ట
 
 ::: media
 ![](/images/lekt5004.webp)
@@ -4397,7 +4397,7 @@ Fig.:
 :::
 ⟪अतिथि⟫ m.: guest
 
-⟪अभ्यन्तर⟫ 3: located inside, nearest; m. the closest relative, native
+⟪अभ्यन्तर⟫ 3: లోపల ఉన్న, అత్యంత సమీపమైన; పుం. సన్నిహిత బంధువు, స్థానికుడు
 
 ⟪अरण्य⟫ n.: అడవి, వనం
 
@@ -4657,7 +4657,7 @@ Abb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Image source: [Details](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: inside, within ; Postposition with Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): inside, in the middle ; Postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
+⟪अन्तर्⟫ క్రియావిశేషణం: లోపల, అంతర్భాగంలో ; షష్ఠి, సప్తమీ విభక్తులతో పరపదం (⟪षष्टी⟫, ⟪सप्तमी⟫): లోపల, మధ్యలో ; షష్ఠి, పంచమీ విభక్తులతో పరపదం (⟪षष्ठी⟫, ⟪पञ्चमी⟫): నుండి బయటకు ...
 
 ⟪अन्योन्य⟫ 3: mutually, each other
 

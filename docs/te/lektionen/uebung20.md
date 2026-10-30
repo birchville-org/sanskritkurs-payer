@@ -195,19 +195,19 @@ Fig.: ⟪सम्पन्नरूपा रूपसम्पन्ना⟫
 
 ---
 
-## Scholarly Fragments
+## విద్వత్ ఖండాలు
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥ योगसूत्र १⟫.⟪३३ ॥⟫  
-The clarification of the mind occurs through the unfolding of friendly goodwill, compassion, sympathetic joy, and equanimity, which have happiness and suffering, merit and non-merit as their object.
+సుఖం, దుఃఖం, పుణ్యం, పాపం అనే విషయాల పట్ల వరుసగా మైత్రి (స్నేహం), కరుణ (దయ), ముదిత (సంతోషం), ఉపేక్ష (సమభావం) అనే భావనలను పెంపొందించడం ద్వారా చిత్త ప్రసన్నత (మనశ్శాంతి) కలుగుతుంది.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥ योगसूत्र २⟫.⟪१ ॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥ योगसूत्र २⟫.⟪२ ॥⟫  
-Yoga of action is asceticism, Vedic study, and attentive service to the LORD. Its goal is the unfolding of concentration and the weakening of "torments".
+తపస్సు, స్వాధ్యాయం (వేదాధ్యయనం), ఈశ్వర ప్రణిధానం (ఈశ్వరారాధన) క్రియాయోగం అనబడుతుంది. సమాధి భావనను సాధించడం, క్లేశాలను (బాధలను) తగ్గించడం దీని లక్ష్యం.
 
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १⟫.⟪१ ॥⟫  
-The highest goal of man is that the triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from gods.*)
+త్రివిధ దుఃఖాల యొక్క సంపూర్ణ నివృత్తియే పరమ పురుషార్థం. (*త్రివిధ దుఃఖాలు: ఆధ్యాత్మిక, ఆధిభౌతిక, ఆధిదైవిక దుఃఖాలు.*)
 
 ⟪बाधनालक्षणं दुःखम् ॥ न्यायसूत्र १⟫.⟪२१ ॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥ न्यायसूत्र १⟫.⟪२२ ॥⟫  
-Suffering is characterized by distress. Liberation is the complete freedom from it.
+బాధను కలిగించే లక్షణమే దుఃఖం. దాని నుండి సంపూర్ణ విముక్తియే అపవర్గం (మోక్షం).
 
 ⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः ॥⟫  
 స్వర్గం లేదు, ముక్తి లేదు, పరలోక ఆత్మ లేదు; వర్ణాశ్రమ ధర్మానికి సంబంధించిన ఫలదాయక కర్మలు లేవు. ( ⟪सर्वदर्शनसंग्रह⟫ )

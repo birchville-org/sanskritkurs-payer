@@ -12,6 +12,7 @@ import { hi } from './locales/hi.mjs'
 // ── v1.3 languages ────────────────────────────────────────────────────────────
 import { es } from './locales/es.mjs'
 import { ta } from './locales/ta.mjs'
+import { te } from './locales/te.mjs'
 import { pa } from './locales/pa.mjs'
 // ── v1.3 additional ───────────────────────────────────────────────────────────
 import { la } from './locales/la.mjs'
@@ -66,6 +67,7 @@ populateSidebar(en, 'Lesson', 'en', 'Script', 'Exercise');
 populateSidebar(it, 'Lezione', 'it', 'Scrittura', 'Esercizio');
 populateSidebar(es, 'Lección', 'es', 'Escritura', 'Ejercicio');
 populateSidebar(ta, 'பாடம்', 'ta', 'எழுத்து', 'பயிற்சி');
+populateSidebar(te, 'పాఠం', 'te', 'లిపి', 'అభ్యాసం');
 populateSidebar(pa, 'ਪਾਠ', 'pa', 'ਲਿਪੀ', 'ਅਭਿਆਸ');
 populateSidebar(ru, 'Лекция', 'ru', 'Письмо', 'Упражнение');
 populateSidebar(uk, 'Лекція', 'uk', 'Письмо', 'Вправа');
@@ -113,7 +115,7 @@ const allLangDirs = [
 const webExcludes = allLangDirs.filter(d => !ACTIVE_LOCALES.includes(d)).map(d => `${d}/**`);
 
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, cs
+  de, en, it, ru, uk, hi, fr, es, ta, te, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, cs
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
@@ -208,6 +210,7 @@ export default defineConfig({
           el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
           hi: { translations: { button: { buttonText: 'खोज' } } },
           ta: { translations: { button: { buttonText: 'தேடு' } } },
+          te: { translations: { button: { buttonText: 'వెతకండి' } } },
           ar: { translations: { button: { buttonText: 'بحث' } } },
           he: { translations: { button: { buttonText: 'חפש' } } },
           ru: { translations: { button: { buttonText: 'Поиск' } } },

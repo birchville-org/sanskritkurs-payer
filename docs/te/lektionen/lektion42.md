@@ -208,44 +208,44 @@ PPP ⟪शस्त⟫
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Wife (⟪भार्या⟫ = Gerundive to ⟪भृ⟫ : One who is to be carried, one who is to be sustained, one entitled to maintenance)
 
-⟪पितृ⟫ m.: Father
+⟪पितृ⟫ పుం.: తండ్రి
 
-⟪पितृ⟫ m. Plural: the deceased male ancestors, i.e.,
+⟪पितृ⟫ పుం. బహువచనం: గతించిన పురుష పితృదేవతలు (పూర్వీకులు), అనగా
 
-1. Father, Grandfather, Great-grandfather
-2. The progenitors of humanity
+1. తండ్రి, తాత, ముత్తాత
+2. మానవాళి యొక్క మూలపురుషులు
 
-Rituals are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, three male ancestors (paternal and maternal) are offered water and on specific occasions rice balls or flour balls (⟪पिण्ड⟫ m. "balls"). Thus, the ancestors receive nourishment. The performance of this ceremony is one reason why a man should beget a son. Those who are connected through this ⟪पिण्ड⟫-gift are called ⟪सपिण्ड⟫ (those who share ⟪पिण्ड⟫). ⟪सपिण्ड⟫ encompasses six generations: three backwards (up to the great-grandfather) and three forwards (up to the great-grandson).
+వీరిద్దరికీ ఆచారాలు నిర్వహించబడతాయి, వీటిని ⟪श्राद्ध⟫ నపుం. అంటారు. ప్రతిరోజూ ముగ్గురు పురుష పూర్వీకులకు (పితృ మరియు మాతృ పక్షాల) నీరు, నిర్దిష్ట సందర్భాలలో అన్నపు ముద్దలు లేదా పిండి ముద్దలు (⟪पिण्ड⟫ పుం. "పిండాలు") సమర్పించబడతాయి. ఈ విధంగా పూర్వీకులు ఆహారాన్ని పొందుతారు. ఈ శ్రాద్ధ కర్మ నిర్వహణే ఒక పురుషుడు పుత్రుడిని ఎందుకు కనాలి అనేదానికి ఒక ముఖ్య కారణం. ఈ ⟪पिण्ड⟫ దానం ద్వారా అనుసంధానించబడిన వారిని ⟪सपिण्ड⟫ (సపిండులు, ఎవరికైతే ⟪पिण्ड⟫ సామాన్యమో వారు) అంటారు. ⟪सपिण्ड⟫ ఆరు తరాలను కలిగి ఉంటుంది: వెనుకకు మూడు తరాలు (ముత్తాత వరకు) మరియు ముందుకు మూడు తరాలు (మునిమనుమడి వరకు).
 
-⟪तात⟫ m.: Papa
+⟪तात⟫ పుం.: నాన్న, తండ్రి
 
-⟪मातृ⟫ f.: Mother
+⟪मातृ⟫ స్త్రీ.: తల్లి
 
-⟪पुत्र⟫ m.: Son
+⟪पुत्र⟫ పుం.: కుమారుడు
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Daughter
+⟪दुहितृ⟫ స్త్రీ. ⟪सुता⟫ స్త్రీ.: కుమార్తె
 
-⟪नप्तृ⟫ m.: Grandson
+⟪नप्तृ⟫ పుం.: మనుమడు
 
-⟪भ्रातृ⟫ m.: Brother
+⟪भ्रातृ⟫ పుం.: సోదరుడు
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Sister
+⟪स्वसृ⟫ స్త్రీ., ⟪भगिनी⟫ స్త్రీ.: సోదరి
 
-⟪देवृ⟫ m.: Brother of the husband (brother-in-law to the wife)
+⟪देवृ⟫ పుం.: భర్త సోదరుడు (మరిది / బావ)
 
-⟪यातृ⟫ m.: Wife of the husband's brother
+⟪यातृ⟫ స్త్రీ.: భర్త సోదరుని భార్య (తోటికోడలు)
 
-⟪ननान्दृ⟫ f.: Sister of the husband
+⟪ननान्दृ⟫ స్త్రీ.: భర్త సోదరి (ఆడపడుచు)
 
-⟪श्वसुर⟫ f.: Father-in-law (in ancient times: only of the wife)
+⟪श्वसुर⟫ పుం.: మామగారు (ప్రాచీన కాలంలో: భార్యకు మాత్రమే)
 
-⟪श्वस्रू⟫ f.: Mother-in-law (declension follows later)
+⟪श्वस्रू⟫ స్త్రీ.: అత్తగారు (విభక్తి రూపాలు తర్వాత వస్తాయి)
 
-⟪मातुल⟫ m.: Maternal uncle (mother's brother)
+⟪मातुल⟫ పుం.: మేనమామ (తల్లి సోదరుడు)
 
-⟪मातुलानी⟫ f.: Wife of the maternal uncle (maternal aunt by marriage)
+⟪मातुलानी⟫ స్త్రీ.: మేనత్త / అత్త (మేనమామ భార్య)
 
-⟪पितृव्य⟫ m.: Paternal uncle (father's brother)
+⟪पितृव्य⟫ పుం.: పినతండ్రి / పెదతండ్రి (తండ్రి సోదరుడు)
 
 ⟪पितामह⟫ m.: తండ్రి వైపు నాన్న
 

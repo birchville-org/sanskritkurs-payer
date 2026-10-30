@@ -133,28 +133,28 @@ a / -ā + o- / au- » **-au-**
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are Twice-born" = ⟪द्विजा वैश्याः⟫
 
 
-## 3.6. Word List
+## 3.6. పదకోశం
 
-**Learn the following words:**
+**క్రింది పదాలను నేర్చుకోండి:**
 
-**śruti** f. = ⟪श्रुति⟫ : hearing, eternal tradition (designation for the Vedas and Brāhmaṇa's).
+**śruti** స్త్రీ. = ⟪श्रुति⟫ : వినుట, సనాతన సంప్రదాయం (వేదాలు మరియు బ్రాహ్మణాలకు ఉపయోగించే పేరు).
 
-**smṛti** f. = ⟪स्मृति⟫ : recollection, memory, meditative recollection = mindfulness, tradition (counter-concept to **śruti**). Includes:
-the six **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** f. (⟪शिक्षा⟫): correct pronunciation
-2. **chandas** n. (⟪छन्दस्⟫): meter
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): grammar
-4. **nirukta** n. (⟪निरुक्त⟫) : word explanation, etymology
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomy, calendar science
-6. **kalpa** m. (⟪कल्प⟫) : ceremonial
-**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : treatises for the performance of great sacrifices
-**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : treatises for the ceremonies and sacrifices of daily life
-**dharmasūtra** n. (⟪धर्मसूत्र⟫) and **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : treatises on law and custom (right conduct)
-the great epics **mahābhārata** n. (⟪महाभारत⟫) and **rāmāyaṇa** n. (⟪रामायण⟫)
-the **purāṇa** n. (⟪पुराण⟫)
-**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : treatises on worldly wisdom
+**smṛti** స్త్రీ. = ⟪स्मृति⟫ : స్మరణ, జ్ఞాపకం, ధ్యానపూర్వక స్మృతి = జాగ్రత్త, సంప్రదాయం (**śruti** కి విరుద్ధ భావన). వీటిని కలిగి ఉంటుంది:
+- ఆరు **vedāṅga** నపుం. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** స్త్రీ. (⟪शिक्षा⟫): సరైన ఉచ్చారణ
+  2. **chandas** నపుం. (⟪छन्दस्⟫): ఛందస్సు
+  3. **vyākaraṇa** నపుం. (⟪व्याकरण⟫): వ్యాకరణం
+  4. **nirukta** నపుం. (⟪निरुक्त⟫) : పద వివరణ, వ్యుత్పత్తి
+  5. **jyotiṣa** నపుం. (⟪ज्योतिष⟫) : జ్యోతిష్యం, కాలగణన
+  6. **kalpa** పుం. (⟪कल्प⟫) : కల్పం, యజ్ఞ విధి
+- **śrautasūtra** నపుం. (⟪श्रौतसूत्र⟫) : మహా యజ్ఞాల ఆచరణకు సంబంధించిన సూత్ర గ్రంథాలు
+- **gṛhyasūtra** నపుం. (⟪गृह्यसूत्र⟫) : దైనందిన జీవితంలోని సంస్కారాలు, యజ్ఞాల సూత్ర గ్రంథాలు
+- **dharmasūtra** నపుం. (⟪धर्मसूत्र⟫) మరియు **dharmaśāstra** నపుం. (⟪धर्मशास्त्र⟫) : ధర్మం, ఆచారం (సదాచారం) గురించిన ధర్మశాస్త్రాలు
+- గొప్ప ఇతిహాసాలు **mahābhārata** నపుం. (⟪महाभारत⟫) మరియు **rāmāyaṇa** నపుం. (⟪रामायण⟫)
+- **purāṇa** నపుం. (⟪पुराण⟫)
+- **nītiśāstra** నపుం. (⟪नीतिशास्त्र⟫) : లౌకిక నీతి శాస్త్రాలు
 
-**smṛti** is also particularly a designation for Dharma treatises.
+**smṛti** అనేది ప్రత్యేకంగా ధర్మశాస్త్ర గ్రంథాలకు కూడా ఒక నామం.
 
 **ధేను** స్త్రీ. = ⟪धेनु⟫ : (పాలు ఇచ్చే) గాడిద.
 

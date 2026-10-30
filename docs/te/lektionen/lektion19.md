@@ -111,49 +111,49 @@ von ⟪स्था⟫ :
 **⟪गर्भ⟫ m.:** గర్భాశయం, గర్భం, అంతర్భాగం, భ్రూణం / ఫీటస్. బహువ్రీహి చివరలో తరచుగా: "అంతర్భాగం", ఉదాహరణకు
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "whose interior is money = in which money resides"
+**⟪धनगर्भ⟫ 3:** "ఎవరి అంతర్భాగంలో ధనం ఉందో = దేనిలో ధనం ఉంటుందో"
 
-**⟪गर्भगृह⟩ n.:** the innermost sanctum of a Hindu temple, which contains the most important deity image of the temple (for the structure of Hindu temples see: Volwahsen, A.: India : Buildings of Hindus, Buddhists and Jains. -- Munich, 1968)
+**⟪गर्भगृह⟫ n.:** ఒక హిందూ దేవాలయం యొక్క అత్యంత అంతర్గత గర్భగుడి, ఇది ఆలయంలోని అత్యంత ముఖ్యమైన దైవ విగ్రహాన్ని కలిగి ఉంటుంది (హిందూ దేవాలయాల నిర్మాణం కోసం చూడండి: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Fig.: ⟪गर्भगृहम्⟫
+చిత్రం: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Image source: [Details](/te/licenses#lekt1901))
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** water-bearer = rain cloud
+**⟪वारिद⟫ m.:** నీటిని ఇచ్చేది = వర్ష మేఘం
 
 ::: media
 ![](/images/lekt1902.jpg)
-Fig.: ⟪वारिदः⟫
+చిత్రం: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Image source: [Details](/te/licenses#lekt1902))
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** to blow
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** వీచు, వీచుట
 
-from this:
+దీని నుండి:
 
 ::: indent
-**⟪वात⟫ m.:** wind
+**⟪वात⟫ m.:** గాలి, వాయువు
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** to lead, to drive (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** నడుపు, వహించు, మోయు (సకర్మక)
 
-**⟪छत्त्र⟫ n.:** sunshade, umbrella
+**⟪छत्त्र⟫ n.:** గొడుగు, ఛత్రము
 
 ::: media
 ![](/images/lekt1904.webp)
-Fig.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Image source: [Details](/te/licenses#lekt1904))
+చిత్రం: ⟪छत्त्रम्⟫
+"_ఓణప్పొట్టన్_ (ഓണപ്പൊട്ടന്‍), సంప్రదాయ వేషధారణలో కేరళలోని దక్షిణ ప్రాంతాలలో ఒక ఆచారం. _ఓణప్పొట్టన్_ ఓణం పండుగ సమయంలో ఇళ్లను సందర్శించి దీవెనలు అందిస్తాడు. ఇటీవలి కాలంలో _ఓణప్పొట్టన్_ గ్రామాలకే పరిమితమై అరుదైన దృశ్యంగా మారాడు."
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** scholar, sage ; 3: clever, knowledgeable (in)
+**⟪पण्डित⟫ m.:** పండితుడు, విద్వాంసుడు ; 3: నిపుణుడు, ప్రజ్ఞావంతుడు (విషయంలో)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Fig.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
-(Image source: [Details](/te/licenses#lekt1903))
+చిత్రం: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(చిత్ర మూలం: [వివరాలు](/te/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** to reside with, to inhabit (Acc., Loc.) ; to visit, to go to (Acc.) ; to serve, to tend, to worship ; to practice, to use ; to accompany, to have sexual intercourse
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** సమీపంలో నివసించు, నివాసముండు (ద్వితీయ, సప్తమీ విభక్తులు) ; దర్శించు, వద్దకు వెళ్లు (ద్వితీయ) ; సేవించు, పూజించు, ఆరాధించు ; అభ్యసించు, అనుభవించు ; సాంగత్యం చేయు, సంభోగించు
 
 **⟪नि⟫ ఉపసర్గ:** క్రిందకు, లోపలికి
 
