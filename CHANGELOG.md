@@ -3,6 +3,13 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [1.10.2] - 2026-10-31
+### Behoben
+- **Tabellen-Zeilenumbrüche (`:br`):** Upgrade auf `markdown-it-extensible@1.4.2` zur Behebung von Grenzfällen bei Zeilenumbrüchen in Tabellenzellen vor Ziffern (`:br5 P`) und nach Wortzeichen (`Wurzel:br`).
+
+### Entfernt
+- **Tauri Desktop Wrapper:** `src-tauri/` und zugehörige Desktop-Build-Skripte entfernt; Konzentration auf Standard Web- & PWA-Distribution.
+
 ## [1.9.1] - 2026-10-26
 ### Hinzugefügt
 - **Kernsprachen-Fokussierung**: Einschränkung der publizierten Sprachen auf 17 Kernsprachen (DE, EN, FR, IT, RM, ES, EL, CS, HI, TA, AR, HE, RU, UK, ID, ZH-CN, ZH).

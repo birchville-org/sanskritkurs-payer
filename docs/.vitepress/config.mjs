@@ -111,7 +111,6 @@ const webExcludes = allLangDirs.filter(d => !ACTIVE_LOCALES.includes(d)).map(d =
 const localeObjects = {
   de, en, it, ru, uk, hi, fr, es, ta, te, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, da, no, sv, is, cs
 };
-const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
 const publishedWebLocales = {};
 for (const code of ACTIVE_LOCALES) {

@@ -8,6 +8,18 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.10.2 (Oktober 2026)
+
+**Focus:** *Tauri-Deprecation & Migration auf Standard Web/PWA-Hosting sowie Korrektur von Tabellen-Zeilenumbrüchen (`:br`)*
+
+### ✨ Features & Highlights
+- **Plattform- & Backend-Stabilität**:
+  - **Tauri Desktop Wrapper vollständig entfernt**: Vollständiger Rückbau des veralteten Desktop-Wrappers `src-tauri/` sowie Bereinigung der Konfigurationen und Build-Skripte (`config.mjs`, `locale-filter.js`, `package.json`, `.gitignore`). Die Plattform fokussiert sich nun ausschließlich auf Web und PWA.
+- **Datenintegrität & Kernfunktionen**:
+  - **Tabellen-Zeilenumbrüche (`:br`)**: Aktualisierung auf `markdown-it-extensible@1.4.2`. Behebung von Regex-Grenzfällen bei Zeilenumbrüchen innerhalb von Tabellenzellen, sodass `:br` nun auch unmittelbar vor Ziffern (z. B. Verbklassen `:br5 P`) sowie unmittelbar nach Wortzeichen (z. B. `Wurzel:br`) zuverlässig in `<br>`-Tags gerendert wird.
+
+---
+
 ## 🚀 Version 1.10.1 (Oktober 2026)
 
 **Focus:** *Entfernung aller Kurs-PDFs und EPUBs aus Repository, Releases und Produktions-Pipeline sowie Integration der 18. aktiven Sprache (Telugu / te-IN)*
