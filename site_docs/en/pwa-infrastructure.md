@@ -42,11 +42,3 @@ docker pull ghcr.io/birchville-org/sanskritkurs-payer:latest
 # Run locally
 docker run -d -p 8080:80 ghcr.io/birchville-org/sanskritkurs-payer:latest
 ```
-
----
-
-## 4. Native Desktop Bundles (Tauri)
-
-The course is also packaged as a native desktop application using [Tauri](https://tauri.app/):
-- **Preparation:** `python3 scripts/prepare_desktop_dist.py` (filters core locales for minimal bundle size).
-- **Build Execution:** `npx tauri build --bundles dmg`.

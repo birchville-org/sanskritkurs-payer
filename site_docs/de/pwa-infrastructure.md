@@ -42,11 +42,3 @@ docker pull ghcr.io/birchville-org/sanskritkurs-payer:latest
 # Lokal starten
 docker run -d -p 8080:80 ghcr.io/birchville-org/sanskritkurs-payer:latest
 ```
-
----
-
-## 4. Desktop-Applikation (Tauri)
-
-Über [Tauri](https://tauri.app/) steht der Kurs als native Desktop-App für macOS zur Verfügung:
-- **Vorbereitung:** `python3 scripts/prepare_desktop_dist.py` (filtert Kernsprachen für minimale App-Größe).
-- **Build:** `npx tauri build --bundles dmg`.

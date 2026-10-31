@@ -1,9 +1,6 @@
 node_modules/
 docs/.vitepress/dist
 docs/.vitepress/cache
-dist_desktop/
-src-tauri/target/
-src-tauri/gen/
 .DS_Store
 .vscode/Payer.code-workspace
 *.log

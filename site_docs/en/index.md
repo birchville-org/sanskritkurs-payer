@@ -115,10 +115,6 @@ The **Sanskritkurs Payer** project transitions this academic resource from stati
   Language-partitioned caching (~23 MB per language) for autonomous offline execution including fallback mechanisms.  
   [PWA & Infrastructure](pwa-infrastructure.md)
 
-- **Desktop Applications** (`src-tauri`)  
-  Standalone native desktop application for macOS and Linux with system menu integration and local asset storage.  
-  [View Source in `src-tauri`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/src-tauri)
-
 - **Technical Documentation (GitHub Pages)**  
   Comprehensive system architecture, translation methodology, and developer guidelines.  
   [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)

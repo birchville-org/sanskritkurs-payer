@@ -103,12 +103,6 @@ populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
 populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
 populateSidebar(cs, 'Lekce', 'cs', 'Písmo', 'Cvičení');
 
-const isDesktop = process.env.DESKTOP_BUILD === '1' || process.env.DESKTOP_BUILD === 'true';
-
-const desktopExcludes = [
-  'af/**', 'am/**', 'ar/**', 'bg/**', 'cs/**', 'da/**', 'el/**', 'es/**', 'fa/**', 'fi/**', 'fr/**', 'gez/**', 'grc/**', 'he/**', 'hi/**', 'hu/**', 'hy/**', 'id/**', 'is/**', 'it/**', 'ka/**', 'la/**', 'lt/**', 'nl/**', 'no/**', 'pa/**', 'pl/**', 'pt/**', 'rm/**', 'ro/**', 'ru/**', 'sh/**', 'si/**', 'sk/**', 'sl/**', 'sq/**', 'sv/**', 'ta/**', 'te/**', 'th/**', 'tr/**', 'uk/**', 'vi/**', 'zh/**', 'zh-CN/**'
-];
-
 const allLangDirs = [
   'af', 'am', 'bg', 'da', 'fa', 'fi', 'gez', 'grc', 'hu', 'hy', 'is', 'ka', 'la', 'lt', 'nl', 'no', 'pa', 'pl', 'pt', 'ro', 'sh', 'si', 'sk', 'sl', 'sq', 'sv', 'te', 'th', 'tr', 'vi'
 ];
@@ -137,7 +131,7 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
-  srcExclude: [...(isDesktop ? desktopExcludes : webExcludes), '**/*.pdf', '**/*.epub'],
+  srcExclude: [...webExcludes, '**/*.pdf', '**/*.epub'],
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
@@ -157,10 +151,7 @@ export default defineConfig({
     ['meta', { name: 'twitter:image', content: 'https://payer.birchville.org/og-icon.png' }],
   ],
 
-  locales: isDesktop ? {
-    root: { ...de },
-    en: { ...en }
-  } : publishedWebLocales,
+  locales: publishedWebLocales,
   
   themeConfig: {
     logo: '/birchville_logo.png',
@@ -298,10 +289,8 @@ export default defineConfig({
     const path = require('path')
     function copyMdFiles(src, out) {
       if (!fs.existsSync(src)) return
-      const allowedDesktopDirs = new Set(['de', 'en', 'lektionen', 'public', 'qa'])
       for (const e of fs.readdirSync(src, { withFileTypes: true })) {
         if (e.name === '.vitepress' || e.name === 'deleteme') continue
-        if (isDesktop && e.isDirectory() && !allowedDesktopDirs.has(e.name)) continue
         const s = path.join(src, e.name), d = path.join(out, e.name)
         if (e.isDirectory()) copyMdFiles(s, d)
         else if (e.name.endsWith('.md')) {

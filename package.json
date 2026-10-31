@@ -9,8 +9,6 @@
     "docs:build": "NODE_OPTIONS=\"--max-old-space-size=32768\" vitepress build docs",
     "postdocs:build": "node scripts/gen_locale_manifests.mjs",
     "docs:preview": "vitepress preview docs",
-    "desktop:prepare": "python3 scripts/prepare_desktop_dist.py",
-    "desktop:build": "python3 scripts/prepare_desktop_dist.py && npx tauri build --bundles dmg",
     "prepare": "husky",
     "build:qa-editor": "esbuild scripts/qa-editor/entry.js --bundle --minify --format=iife --outfile=docs/public/qa_editor.js"
   },
@@ -33,7 +31,6 @@
     "@codemirror/state": "^6.7.6",
     "@codemirror/view": "^6.43.14",
     "@replit/codemirror-vim": "^6.4.0",
-    "@tauri-apps/cli": "^2.11.4",
     "husky": "^9.1.7",
     "jsdom": "^29.1.1",
     "markdown-it-attrs": "^5.0.0",

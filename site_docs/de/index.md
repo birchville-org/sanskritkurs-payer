@@ -115,10 +115,6 @@ Das Projekt **Sanskritkurs Payer** überführt dieses historische Werk aus dem s
   Sprachspezifisches Caching (~23 MB pro Sprache) für vollständig autarke Offline-Nutzung inklusive Fallback-Seiten.  
   [PWA & Infrastruktur](pwa-infrastructure.md)
 
-- **Desktop-Bundles** (`src-tauri`)  
-  Eigenständige native Desktop-Applikation für macOS und Linux mit nativer Menüführung und Offline-Assets.  
-  [Quellcode in `src-tauri`](https://github.com/birchville-org/sanskritkurs-payer/tree/main/src-tauri)
-
 - **Technische Dokumentation (GitHub Pages)**  
   Vollständige technische Architektur-, Translations- und Richtlinien-Dokumentation.  
   [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
