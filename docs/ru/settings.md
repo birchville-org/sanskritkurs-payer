@@ -8,7 +8,7 @@ title: Настройки
 </ClientOnly>
 
 ::: note-box  О программе и версия
-- **Текущая версия**: `v1.10.2`
-- **Release Notes & Changelog**: [What's new in v1.10.2?](/release-notes)
+- **Текущая версия**: `v1.10.3`
+- **Release Notes & Changelog**: [What's new in v1.10.3?](/release-notes)
 - **Исходный код и репозиторий**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

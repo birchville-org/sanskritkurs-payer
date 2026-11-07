@@ -76,10 +76,10 @@ def send_email(report_markdown: str, target_email: str = "webmaster@birchville.o
 async def main():
     print("[*] Starting Autonomous Update Agent...")
     
-    # We use gemini-2.5-pro for advanced multi-step reasoning
+    # We use gemini-3.1-pro-preview for advanced multi-step reasoning
     config = LocalAgentConfig(
         tools=[run_shell_command, read_file, write_file],
-        model="gemini-2.5-pro",
+        model="gemini-3.1-pro-preview",
         system_instructions=(
             "Du bist ein autonomer DevOps und Security Engineer Agent für ein VitePress Projekt. "
             "Deine Aufgabe ist es, nächtliche Updates durchzuführen und den Build zu verifizieren. "

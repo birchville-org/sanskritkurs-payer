@@ -82,7 +82,7 @@ async function main() {
   for (const entry of distEntries) {
     if (entry.isDirectory()) {
       const name = entry.name
-      if (!coreDirs.has(name) && !LOCALES.includes(name) && name !== 'de') {
+      if (!coreDirs.has(name) && !LOCALES.includes(name)) {
         const full = join(DIST_DIR, name)
         await rm(full, { recursive: true, force: true })
       }
@@ -97,6 +97,7 @@ async function main() {
   for (const locale of LOCALES) byLocale[locale] = []
 
   for (const file of htmlFiles) {
+    if (file.startsWith('qa/') || file.startsWith('alexis/') || file === 'qa_viewer.html') continue
     const locale = detectLocale(file)
     byLocale[locale].push(toCleanUrl(file))
   }

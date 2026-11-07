@@ -5,7 +5,6 @@ import { registerServiceWorker } from './sw-register.js'
 import { setupInstallCapture } from './install-state.js'
 import { setupLocaleFilter, filterSidebarByLocales } from './locale-filter.js'
 
-import PayerNavButton from './components/PayerNavButton.vue'
 import PayerDocFooter from './components/PayerDocFooter.vue'
 import PayerTopicIndex from './components/PayerTopicIndex.vue'
 import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
@@ -239,7 +238,6 @@ export default {
   },
   enhanceApp({ app }) {
 
-      app.component('PayerNavButton', PayerNavButton)
       app.component('PayerTopicIndex', PayerTopicIndex)
       app.component('PayerRelatedLessons', PayerRelatedLessons)
       app.component('PayerLanguageSettings', PayerLanguageSettings)
@@ -283,16 +281,21 @@ export default {
               return active ? active.innerText.trim() : null;
           };
 
+          let scrollTicking = false;
           window.addEventListener('scroll', () => {
-              if (window.parent !== window) { 
-                  window.parent.postMessage({
-                      type: 'scroll',
-                      pct: window.scrollY / (document.documentElement.scrollHeight - window.innerHeight),
-                      activeHeader: getActiveHeader(),
-                      id: window.name || 'left-frame'
-                  }, '*');
+              if (window.parent !== window && !scrollTicking) {
+                  scrollTicking = true;
+                  requestAnimationFrame(() => {
+                      window.parent.postMessage({
+                          type: 'scroll',
+                          pct: window.scrollY / (document.documentElement.scrollHeight - window.innerHeight),
+                          activeHeader: getActiveHeader(),
+                          id: window.name || 'left-frame'
+                      }, '*');
+                      scrollTicking = false;
+                  });
               }
-          });
+          }, { passive: true });
 
           window.addEventListener('message', (e) => {
               if (e.data.type === 'setScroll') {

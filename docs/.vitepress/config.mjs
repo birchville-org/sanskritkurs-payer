@@ -130,7 +130,8 @@ export default defineConfig({
   base: '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
-  srcExclude: [...webExcludes, '**/*.pdf', '**/*.epub'],
+  metaChunk: true,
+  srcExclude: [...webExcludes, 'qa/**', 'de/**', '**/*.pdf', '**/*.epub'],
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
@@ -278,7 +279,7 @@ export default defineConfig({
         { name: 'deletemebox', className: 'deleteme-box' }
       ];
 
-      md.use(extensiblePlugin, { blockContainers });
+      md.use(extensiblePlugin, { blockContainers, injectStyles: false });
     }
   },
 
@@ -286,19 +287,24 @@ export default defineConfig({
   buildEnd: async (siteConfig) => {
     const fs = require('fs')
     const path = require('path')
-    function copyMdFiles(src, out) {
+    const excludedRootDirs = new Set([
+      '.vitepress', 'deleteme', 'public', 'qa', 'de',
+      ...allLangDirs.filter(d => !ACTIVE_LOCALES.includes(d))
+    ])
+    function copyMdFiles(src, out, isRoot = false) {
       if (!fs.existsSync(src)) return
       for (const e of fs.readdirSync(src, { withFileTypes: true })) {
+        if (isRoot && excludedRootDirs.has(e.name)) continue
         if (e.name === '.vitepress' || e.name === 'deleteme') continue
         const s = path.join(src, e.name), d = path.join(out, e.name)
-        if (e.isDirectory()) copyMdFiles(s, d)
+        if (e.isDirectory()) copyMdFiles(s, d, false)
         else if (e.name.endsWith('.md')) {
           fs.mkdirSync(path.dirname(d), { recursive: true })
           fs.copyFileSync(s, d)
         }
       }
     }
-    copyMdFiles(siteConfig.srcDir, siteConfig.outDir)
+    copyMdFiles(siteConfig.srcDir, siteConfig.outDir, true)
 
     // Force copy qa_viewer.html to output dir
     const qaHtmlSrc = path.join(siteConfig.srcDir, 'public', 'qa_viewer.html')

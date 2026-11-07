@@ -84,7 +84,8 @@
 </template>
 
 <script setup>
-import { ref, onMounted, nextTick } from 'vue'
+import { ref, nextTick } from 'vue'
+import { ACTIVE_LOCALES } from '../../languages.mjs'
 
 const isOpen = ref(false)
 const query = ref('')
@@ -122,15 +123,6 @@ function closeModal() {
 function setQuery(qText) {
   query.value = qText
   performSearch()
-}
-
-function dotProduct(vecA, vecB) {
-  let score = 0.0
-  const len = vecA.length
-  for (let i = 0; i < len; i++) {
-    score += vecA[i] * vecB[i]
-  }
-  return score
 }
 
 async function performSearch() {
@@ -188,7 +180,9 @@ function getBadgeColor(score) {
 function navigateTo(item) {
   closeModal()
   const cleanName = item.file.replace('.md', '')
-  window.location.href = `/lektionen/${cleanName}.html`
+  const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || ''
+  const prefix = (seg && seg !== 'de' && ACTIVE_LOCALES.includes(seg)) ? `/${seg}` : ''
+  window.location.href = `${prefix}/lektionen/${cleanName}`
 }
 </script>
 

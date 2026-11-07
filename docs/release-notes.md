@@ -8,6 +8,26 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.10.3 (November 2026)
+
+**Focus:** *Architektur- & Performance-Optimierung: 98 % CSS-Bundle-Reduktion, 60 % geringerer Build-Footprint, Dependency- & Zombie-Bereinigung*
+
+### ✨ Features & Highlights
+- **Performance & Rendering**:
+  - **98 % CSS-Bundle-Reduktion**: Deaktivierung der redundanten Seiten-Style-Injektion (`injectStyles: false`) in `markdown-it-extensible`. Das globale CSS-Bundle schrumpfte von 9,56 MB auf 176 KB.
+  - **Site-Metadaten-Auslagerung (`metaChunk: true`)**: Durch die Auslagerung von Hash-Maps und Site-Daten in einen gemeinsamen Chunk sowie den Ausschluss interner QA-Logs sank das `dist/`-Volumen um ~770 MB (von 1,3 GB auf 529 MB).
+  - **Scroll-Sync-Drosselung**: Drosselung des iframe-Scroll-Listeners im QA Viewer via `requestAnimationFrame` und passive Event-Listener zur Vermeidung von Layout-Thrashing.
+- **Plattform- & Backend-Stabilität**:
+  - **Dependency-Bereinigung**: Entfernung von 9 ungenutzten Bibliotheken (`chrome-remote-interface`, `iconv-lite`, `turndown`, `turndown-plugin-gfm`, `markdown-it-container`, `jsdom`, `pdf-lib`, `playwright`, `puppeteer`) und Bereinigung verwaister Skripte in `package.json`.
+  - **Zombie-Code-Beseitigung**: Löschung ungenutzter Komponenten (`PayerNavButton.vue`, `PayerWidthSelector.vue`), verwaister Ordner (`docs/de/pwa-guide.md`) und toter Suchroutinen (`dotProduct`).
+  - **Optimierter BuildEnd-Hook**: Kopieren von Markdown-Dateien nach `dist/` auf aktive Locales beschränkt, wodurch tausende redundante I/O-Operationen entfallen.
+  - **Manifest-Bereinigung**: Ausschluss interner QA-Dateien aus `manifest-de.json`.
+- **Datenintegrität & Kernfunktionen**:
+  - **QA Viewer Typografie & Synchronisation**: Angleichung des Font-Stacks an den Birchville Scholarly Synthesis Standard (`STIX Two Text`, `Murty Sanskrit`, `Noto Serif Devanagari`), Aktualisierung auf `markdown-it-extensible@1.4.2` und Normalisierung der Zeilenabstände in Vers- und Zentrierungsblöcken.
+  - **Locale-sensitives Routing in der Semantischen Suche**: Saubere Sprachpräfix- und Clean-URL-Navigation.
+
+---
+
 ## 🚀 Version 1.10.2 (Oktober 2026)
 
 **Focus:** *Tauri-Deprecation & Migration auf Standard Web/PWA-Hosting sowie Korrektur von Tabellen-Zeilenumbrüchen (`:br`)*
