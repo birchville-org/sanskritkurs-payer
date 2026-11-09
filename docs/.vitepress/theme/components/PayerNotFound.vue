@@ -38,7 +38,7 @@ const texts = computed(() => {
     return {
       title: 'PAGE NON TROUVÉE',
       quote: "Mais si vous ne changez pas de direction, et si vous continuez à chercher, vous risquez de vous retrouver là où vous vous dirigez.",
-      linkText: 'Zurück zur Startseite'
+      linkText: "Retour à l'accueil"
     }
   }
   

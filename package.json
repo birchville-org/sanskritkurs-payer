@@ -1,8 +1,7 @@
 {
   "name": "sanskritkurs-pipeline",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "description": "SSG Pipeline für Sanskritkurs",
-  "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_OPTIONS=\"--max-old-space-size=32768\" vitepress build docs",
@@ -10,14 +9,6 @@
     "docs:preview": "vitepress preview docs",
     "prepare": "husky",
     "build:qa-editor": "esbuild scripts/qa-editor/entry.js --bundle --minify --format=iife --outfile=docs/public/qa_editor.js"
-  },
-  "dependencies": {
-    "markdown-it": "^14.2.0",
-    "markdown-it-attrs": "^5.0.0",
-    "markdown-it-deflist": "^4.0.0",
-    "markdown-it-extensible": "^1.4.2",
-    "markdown-it-footnote": "^4.0.0",
-    "markdown-it-multimd-table": "^4.2.3"
   },
   "devDependencies": {
     "@codemirror/commands": "^6.11.1",
@@ -27,11 +18,12 @@
     "@codemirror/view": "^6.43.14",
     "@replit/codemirror-vim": "^6.4.0",
     "husky": "^9.1.7",
+    "markdown-it-attrs": "^5.0.0",
+    "markdown-it-deflist": "^4.0.0",
+    "markdown-it-extensible": "^1.4.2",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-multimd-table": "^4.2.3",
     "vite": "^8.0.16",
     "vitepress": "^1.6.4"
-  },
-  "optionalDependencies": {
-    "@esbuild/linux-x64": "^0.28.1",
-    "@rollup/rollup-linux-x64-gnu": "^4.22.4"
   }
 }

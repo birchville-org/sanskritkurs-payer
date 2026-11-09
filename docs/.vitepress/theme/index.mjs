@@ -298,7 +298,7 @@ export default {
           }, { passive: true });
 
           window.addEventListener('message', (e) => {
-              if (e.data.type === 'setScroll') {
+              if (e.data?.type === 'setScroll' && typeof e.data.top === 'number') {
                   window.scrollTo({ top: e.data.top, behavior: 'auto' });
               }
           });

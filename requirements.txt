@@ -1,0 +1,8 @@
+# Python Dependencies for Sanskritkurs Pipeline
+lingua-language-detector>=2.2.0
+indic_transliteration>=2.3.82
+google-antigravity>=0.1.4
+python-dotenv>=1.2.0
+
+# Optional fallback detector (scripts/translation/quality_control.py)
+# langdetect>=1.0.9

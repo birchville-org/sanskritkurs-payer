@@ -8,6 +8,25 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 1.10.4 (November 2026)
+
+**Focus:** *Architektur- & Ghost-Dependency-Bereinigung, Event-Listener- & Memory-Leak-Härtung, Scroll-Sync-Typensicherheit*
+
+### ✨ Features & Highlights
+- **Plattform- & Backend-Stabilität**:
+  - **Dependency- & Scope-Bereinigung**: Nicht existierenden Einstiegspunkt (`main: index.js`) entfernt; ungenutztes Root-`markdown-it` sowie veraltete `optionalDependencies` beseitigt; Build-Plugins sauber in `devDependencies` deklariert.
+  - **Zombie- & Altdateien bereinigt**: Löschung verwaister Theme-Skripte (`debug.mjs`, `theme/data/topics.js`), ungenutzter Locales (`zh-TW.mjs`), getrackter Multithread-Backups (`lan_translate.py.multithread`) und redundanter Versions-Dateien (`RELEASE-NOTES-v1.6.md`).
+  - **Python Pipeline Requirements**: Minimale, unmissverständliche `requirements.txt` für die Translations- und QA-Pipeline angelegt.
+- **Performance & Rendering**:
+  - **Event-Listener & Memory-Leak-Härtung**: Idempotenz-Guard für `setupInstallCapture()` in `install-state.js` und Beseitigung redundanter Aufrufe in `PayerLanguageSettings.vue`. Sauberes Deregistrieren des SW-Message-Listeners in `PayerOfflineIndicator.vue` (`onUnmounted`).
+  - **QA-Viewer-Renderer-Singleton**: Caching der Markdown-it-Instanz für `window.render()` im QA Viewer verhindert teure Parser-Neuinstanziierungen bei jedem Tastendruck.
+- **Datenintegrität & Kernfunktionen**:
+  - **Scroll-Sync-Typensicherheit**: Nullsichere Auswertung (`e.data?.type`) und Typ-Prüfung auf numerischen `pct`- bzw. `top`-Wert in `index.mjs` und `qa_viewer.html` verhindert fehlerhaftes Zurückspringen an den Seitenanfang.
+  - **Architekturgrenzen**: Ausschluss interner Markdown-Dokumente (`ARCHITECTURE.md`, `METHODIK_BOXENSYSTEM.md`, `public/**`) aus den kompilierenden VitePress-Routen.
+  - **Lokalisierung**: Französischer 404-Zurück-Link von deutschem Text auf `Retour à l'accueil` korrigiert.
+
+---
+
 ## 🚀 Version 1.10.3 (November 2026)
 
 **Focus:** *Architektur- & Performance-Optimierung: 98 % CSS-Bundle-Reduktion, 60 % geringerer Build-Footprint, Dependency- & Zombie-Bereinigung*

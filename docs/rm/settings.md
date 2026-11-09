@@ -9,7 +9,7 @@ title: "Impostaziuns"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Versiun actuala**: `v1.10.3`
-**Release Notes & Changelog**: [Quai è nov en v1.10.3?](/rm/release-notes)
+**Versiun actuala**: `v1.10.4`
+**Release Notes & Changelog**: [Quai è nov en v1.10.4?](/rm/release-notes)
 **Codisurs & Repository**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

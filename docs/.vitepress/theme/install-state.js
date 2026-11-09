@@ -16,6 +16,7 @@
 // Reactive-like state (module-private, exposed via getters)
 let deferredPrompt = null
 let installed = false
+let captureInitialized = false
 const listeners = new Set()
 
 function notify() {
@@ -66,7 +67,8 @@ export function subscribe(listener) {
  * Attach global listeners. Call exactly once (typically in theme index.mjs setup()).
  */
 export function setupInstallCapture() {
-  if (typeof window === 'undefined') return
+  if (typeof window === 'undefined' || captureInitialized) return
+  captureInitialized = true
 
   // Already installed (e.g. user opened the app from home screen / desktop)
   if (window.matchMedia?.('(display-mode: standalone)').matches) {

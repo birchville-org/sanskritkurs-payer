@@ -131,7 +131,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   cleanUrls: true,
   metaChunk: true,
-  srcExclude: [...webExcludes, 'qa/**', 'de/**', '**/*.pdf', '**/*.epub'],
+  srcExclude: [...webExcludes, 'qa/**', 'de/**', 'ARCHITECTURE.md', 'METHODIK_BOXENSYSTEM.md', 'public/**', '**/*.pdf', '**/*.epub'],
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],

@@ -156,7 +156,6 @@
 import { ref, onMounted, onUnmounted, computed } from 'vue'
 import { ALL_LOCALES, getActiveLocales, setActiveLocales } from '../lang-settings.js'
 import {
-  setupInstallCapture,
   subscribe as subscribeInstall,
   getDeferredPrompt,
   clearDeferredPrompt,
@@ -701,9 +700,7 @@ onMounted(() => {
   if (!selected.value.includes(currentLocale.value)) {
     selected.value = [currentLocale.value, ...selected.value]
   }
-  
-  setupInstallCapture()
-  
+
   unsubscribeInstall = subscribeInstall((state) => {
     installAvailable.value = state.available
     alreadyInstalled.value = state.installed

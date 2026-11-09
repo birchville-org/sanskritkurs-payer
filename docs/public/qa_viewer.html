@@ -2644,7 +2644,7 @@
                         }, 150);
                     }, { passive: true });
                     window.addEventListener('message', (e) => {
-                        if (e.data.type === 'setTheme') {
+                        if (e.data?.type === 'setTheme') {
                             if (window.location.pathname.toLowerCase().includes('/qa/')) return;
                             document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
                         }
@@ -2671,10 +2671,10 @@
                     window.__QA_RECEIVER__ = true;
                     window.parent.postMessage({ type: 'getTheme' }, '*');
                     window.addEventListener('message', (e) => {
-                        if (e.data.type === 'setScroll') {
+                        if (e.data?.type === 'setScroll' && typeof e.data.pct === 'number') {
                             const scrollH = document.documentElement.scrollHeight;
                             window.scrollTo({ top: e.data.pct * Math.max(0, scrollH - window.innerHeight), behavior: 'auto' });
-                        } else if (e.data.type === 'setTheme') {
+                        } else if (e.data?.type === 'setTheme') {
                             if (window.location.pathname.toLowerCase().includes('/qa/')) return;
                             document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
                         }
@@ -2802,8 +2802,12 @@
         // Expose to the non-module script block so it can use buildRenderer()
         window.buildRenderer = buildRenderer;
 
-        // Exported convenience wrapper for direct render calls
-        window.render = (text) => buildRenderer().render(text);
+        // Exported convenience wrapper for direct render calls with cached renderer instance
+        let _cachedRenderer = null;
+        window.render = (text) => {
+            if (!_cachedRenderer) _cachedRenderer = buildRenderer();
+            return _cachedRenderer.render(text);
+        };
 
         // Fetch live NPM package metadata for Help Modal
         async function fetchNpmDocs() {

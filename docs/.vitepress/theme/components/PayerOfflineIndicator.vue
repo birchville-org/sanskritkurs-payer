@@ -8,6 +8,17 @@ function updateOnlineStatus() {
   offline.value = !navigator.onLine
 }
 
+function handleSwMessage(event) {
+  if (event.data?.type === 'PREFETCH_PROGRESS' ||
+      event.data?.type === 'PREFETCH_BATCH_PROGRESS') {
+    syncing.value = true
+  }
+  if (event.data?.type === 'PREFETCH_COMPLETE' ||
+      event.data?.type === 'PREFETCH_BATCH_COMPLETE') {
+    syncing.value = false
+  }
+}
+
 // Listen for prefetch progress from SW
 onMounted(() => {
   if (typeof navigator !== 'undefined') {
@@ -17,16 +28,7 @@ onMounted(() => {
     
     // Listen for SW prefetch progress events
     if (navigator.serviceWorker) {
-      navigator.serviceWorker.addEventListener('message', (event) => {
-        if (event.data?.type === 'PREFETCH_PROGRESS' ||
-            event.data?.type === 'PREFETCH_BATCH_PROGRESS') {
-          syncing.value = true
-        }
-        if (event.data?.type === 'PREFETCH_COMPLETE' ||
-            event.data?.type === 'PREFETCH_BATCH_COMPLETE') {
-          syncing.value = false
-        }
-      })
+      navigator.serviceWorker.addEventListener('message', handleSwMessage)
     }
   }
 })
@@ -35,6 +37,9 @@ onUnmounted(() => {
   if (typeof window !== 'undefined') {
     window.removeEventListener('online', updateOnlineStatus)
     window.removeEventListener('offline', updateOnlineStatus)
+  }
+  if (typeof navigator !== 'undefined' && navigator.serviceWorker) {
+    navigator.serviceWorker.removeEventListener('message', handleSwMessage)
   }
 })
 </script>

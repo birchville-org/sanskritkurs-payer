@@ -3,6 +3,20 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [1.10.4] - 2026-11-09
+### Behoben
+- **Scroll-Sync & Typensicherheit**: Typ-Prüfung und Null-Safety bei `setScroll` (`index.mjs`, `qa_viewer.html`) verhindert unbeabsichtigtes Scrollen auf `top: 0`.
+- **Event-Listener & Memory Leaks**: Idempotenz-Guard in `install-state.js` und Deregistrierung des ServiceWorker-Listeners in `PayerOfflineIndicator.vue`.
+- **404-Lokalisierung**: Französischer Zurück-Link in `PayerNotFound.vue` korrigiert.
+
+### Optimiert
+- **Paket- & Scope-Bereinigung**: `package.json` bereinigt (toter Einstiegspunkt `index.js`, ungenutztes `markdown-it` und veraltete `optionalDependencies` entfernt; Build-Plugins nach `devDependencies` verschoben).
+- **Architekturgrenzen**: Ausschluss interner Markdown-Dateien (`ARCHITECTURE.md`, `METHODIK_BOXENSYSTEM.md`, `public/**`) aus VitePress-Build (`srcExclude`).
+- **QA-Viewer-Renderer**: Singleton-Caching der Markdown-it-Instanz für `window.render`.
+
+### Entfernt
+- **Zombie- & Altdateien**: Verwaiste Theme-Dateien (`debug.mjs`, `theme/data/topics.js`), ungenutzte Locales (`zh-TW.mjs`), Multithread-Backup (`lan_translate.py.multithread`) und redundante `RELEASE-NOTES-v1.6.md`.
+
 ## [1.10.2] - 2026-10-31
 ### Behoben
 - **Tabellen-Zeilenumbrüche (`:br`):** Upgrade auf `markdown-it-extensible@1.4.2` zur Behebung von Grenzfällen bei Zeilenumbrüchen in Tabellenzellen vor Ziffern (`:br5 P`) und nach Wortzeichen (`Wurzel:br`).
