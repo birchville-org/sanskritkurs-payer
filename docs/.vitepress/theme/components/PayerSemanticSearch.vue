@@ -21,6 +21,10 @@
               <span class="brain-badge">🧠 Semantische Suche</span>
               <p class="subtitle">Durchsuche den Sanskritkurs nach Bedeutung und Konzepten</p>
             </div>
+            <div class="header-status" v-if="workerStatus">
+              <span class="status-dot" :class="workerStatus"></span>
+              <span class="status-text">{{ workerStatusLabel }}</span>
+            </div>
             <button class="close-btn" @click="closeModal">&times;</button>
           </div>
 
@@ -84,7 +88,7 @@
 </template>
 
 <script setup>
-import { ref, nextTick } from 'vue'
+import { ref, computed, nextTick } from 'vue'
 import { ACTIVE_LOCALES } from '../../languages.mjs'
 
 const isOpen = ref(false)
@@ -93,15 +97,62 @@ const isLoading = ref(false)
 const hasSearched = ref(false)
 const results = ref([])
 const searchInput = ref(null)
+const workerStatus = ref('') // 'loading_model' | 'ready' | 'fallback'
+const searchMethod = ref('') // 'vector' | 'hybrid'
+
 let vectorIndex = null
+let loadedLocale = ''
+let worker = null
+
+function getActiveLocale() {
+  if (typeof window === 'undefined') return 'de'
+  const seg = window.location.pathname.split('/').filter(Boolean)[0] || ''
+  return (seg && seg !== 'de' && ACTIVE_LOCALES.includes(seg)) ? seg : 'de'
+}
+
+const workerStatusLabel = computed(() => {
+  if (workerStatus.value === 'ready') return 'KI-Modell bereit'
+  if (workerStatus.value === 'loading_model') return 'Modell lädt...'
+  if (workerStatus.value === 'fallback') return 'Hybrid-Modus'
+  return ''
+})
+
+function initWorker() {
+  if (typeof window === 'undefined' || !window.Worker || worker) return
+  try {
+    worker = new Worker('/search-worker.js', { type: 'module' })
+    worker.onmessage = (e) => {
+      const data = e.data || {}
+      if (data.type === 'STATUS') {
+        workerStatus.value = data.status
+      } else if (data.type === 'RESULTS') {
+        results.value = data.results || []
+        searchMethod.value = data.method || 'vector'
+        isLoading.value = false
+      }
+    }
+    worker.postMessage({ type: 'INIT' })
+  } catch (err) {
+    console.warn('[PayerSearch] Worker initialization failed, using in-thread search:', err)
+    workerStatus.value = 'fallback'
+  }
+}
 
 async function loadIndex() {
-  if (vectorIndex) return;
+  const currentLocale = getActiveLocale()
+  if (vectorIndex && loadedLocale === currentLocale) return
+
+  const primaryUrl = currentLocale === 'de' ? '/vector_index.json' : `/vector_index_${currentLocale}.json`
   try {
-    const resp = await fetch('/vector_index.json')
+    let resp = await fetch(primaryUrl)
+    if (!resp.ok && currentLocale !== 'de') {
+      // Fallback to German index if language-specific index is missing
+      resp = await fetch('/vector_index.json')
+    }
     if (resp.ok) {
       const data = await resp.json()
       vectorIndex = data.records || []
+      loadedLocale = currentLocale
     }
   } catch (e) {
     console.warn('Vektorindex konnte nicht geladen werden:', e)
@@ -110,6 +161,7 @@ async function loadIndex() {
 
 function openModal() {
   isOpen.value = true
+  initWorker()
   loadIndex()
   nextTick(() => {
     if (searchInput.value) searchInput.value.focus()
@@ -125,6 +177,39 @@ function setQuery(qText) {
   performSearch()
 }
 
+// In-thread hybrid search fallback if worker is unavailable
+function inThreadSearch(q) {
+  const qTokens = q.toLowerCase().split(/\s+/).filter(w => w.length > 1)
+  const scored = []
+
+  for (const record of (vectorIndex || [])) {
+    const heading = (record.heading || '').toLowerCase()
+    const snippet = (record.snippet || '').toLowerCase()
+    let matched = 0
+    let bonus = 0
+
+    for (const t of qTokens) {
+      if (heading.includes(t)) {
+        matched++
+        bonus += 0.25
+      } else if (snippet.includes(t)) {
+        matched++
+      }
+    }
+
+    if (matched > 0) {
+      const ratio = matched / qTokens.length
+      const sim = Math.min(0.95, 0.45 + (ratio * 0.35) + bonus)
+      scored.push({ ...record, score: sim })
+    }
+  }
+
+  scored.sort((a, b) => b.score - a.score)
+  results.value = scored.slice(0, 5)
+  searchMethod.value = 'hybrid'
+  isLoading.value = false
+}
+
 async function performSearch() {
   if (!query.value.trim()) return
   isLoading.value = true
@@ -138,33 +223,24 @@ async function performSearch() {
     return
   }
 
-  // Client-side text keyword + semantic similarity scoring
-  const keywords = query.value.toLowerCase().split(/\s+/).filter(w => w.length > 2)
-
-  const scored = vectorIndex.map(record => {
-    let textScore = 0
-    const text = (record.heading + ' ' + record.snippet).toLowerCase()
-    
-    keywords.forEach(kw => {
-      if (text.includes(kw)) textScore += 0.25
+  // Delegate search to Web Worker
+  if (worker) {
+    worker.postMessage({
+      type: 'SEARCH',
+      query: query.value.trim(),
+      records: vectorIndex,
+      lang: loadedLocale
     })
 
-    // Combine keyword relevance with embedding score if present
-    let score = textScore
-    if (record.embedding) {
-      // Dummy query embedding simulation or dot product match
-      score += 0.5
-    }
-
-    return {
-      ...record,
-      score: Math.min(score, 0.98)
-    }
-  })
-
-  scored.sort((a, b) => b.score - a.score)
-  results.value = scored.slice(0, 5)
-  isLoading.value = false
+    // Safety timeout: fall back to in-thread scoring if worker doesn't respond in 4s
+    setTimeout(() => {
+      if (isLoading.value) {
+        inThreadSearch(query.value.trim())
+      }
+    }, 4000)
+  } else {
+    inThreadSearch(query.value.trim())
+  }
 }
 
 function formatFileName(filename) {
@@ -258,6 +334,46 @@ function navigateTo(item) {
   font-size: 24px;
   color: #48626e;
   cursor: pointer;
+}
+
+.header-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #48626e;
+  margin-left: auto;
+  margin-right: 12px;
+  padding: 3px 8px;
+  background: #f1eee7;
+  border-radius: 12px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.status-dot.ready {
+  background: #10b981;
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.5);
+}
+
+.status-dot.loading_model {
+  background: #f59e0b;
+  animation: pulse 1.5s infinite;
+}
+
+.status-dot.fallback {
+  background: #64748b;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.85); }
 }
 
 .payer-semantic-input-wrap {

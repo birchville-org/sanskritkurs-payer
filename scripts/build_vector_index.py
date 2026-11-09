@@ -124,23 +124,22 @@ def build_index(lang="de"):
         }
         idx_file.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
         
-        # Only export compacted index for default web app (German / root) to docs/public/
-        if lang in ("de", "root"):
-            compact_records = []
-            for r in records:
-                cr = dict(r)
-                if "embedding" in cr and cr["embedding"]:
-                    cr["embedding"] = [round(x, 4) for x in cr["embedding"]]
-                compact_records.append(cr)
-            pub_payload = {
-                "lang": lang,
-                "total_sections": len(compact_records),
-                "embedded_sections": success_count,
-                "records": compact_records
-            }
-            pub_file.write_text(json.dumps(pub_payload, separators=(',', ':'), ensure_ascii=False), encoding="utf-8")
+        # Export compacted index to docs/public/ (rounded to 4 decimal places for web footprint)
+        compact_records = []
+        for r in records:
+            cr = dict(r)
+            if "embedding" in cr and cr["embedding"]:
+                cr["embedding"] = [round(x, 4) for x in cr["embedding"]]
+            compact_records.append(cr)
+        pub_payload = {
+            "lang": lang,
+            "total_sections": len(compact_records),
+            "embedded_sections": success_count,
+            "records": compact_records
+        }
+        pub_file.write_text(json.dumps(pub_payload, separators=(',', ':'), ensure_ascii=False), encoding="utf-8")
 
-    dest_info = pub_file.name if lang in ("de", "root") else idx_file.name
+    dest_info = f"{idx_file.name} + {pub_file.name}"
     print(f"✅ Vector index for [{lang}] complete: {success_count} sections embedded in {dest_info}")
 
 if __name__ == "__main__":

@@ -22,7 +22,8 @@ const PRECACHE_URLS = [
   '/offline.html',
   '/manifest.json',
   '/pwa-icons/icon-192.png',
-  '/pwa-icons/icon-512.png'
+  '/pwa-icons/icon-512.png',
+  '/search-worker.js'
 ]
 
 // ============================================================
