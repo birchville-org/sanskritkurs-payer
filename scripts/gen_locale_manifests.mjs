@@ -97,7 +97,7 @@ async function main() {
   for (const locale of LOCALES) byLocale[locale] = []
 
   for (const file of htmlFiles) {
-    if (file.startsWith('qa/') || file.startsWith('alexis/') || file === 'qa_viewer.html') continue
+    if (file.startsWith('qa/') || file === 'qa_viewer.html') continue
     const locale = detectLocale(file)
     byLocale[locale].push(toCleanUrl(file))
   }
