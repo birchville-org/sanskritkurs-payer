@@ -1,4 +1,4 @@
-name: Deploy Documentation to GitHub Pages
+name: Validate MkDocs Documentation
 
 on:
   push:
@@ -10,29 +10,16 @@ on:
       - '.github/workflows/docs.yml'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  deploy:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
 
-      - name: Install documentation dependencies
+      - name: Validate MkDocs build
         run: |
-          pip install --upgrade pip
-          pip install mkdocs \
-                      mkdocs-material \
-                      mkdocs-static-i18n \
-                      pymdown-extensions
-
-      - name: Build and deploy to GitHub Pages
-        run: |
-          mkdocs gh-deploy --force
+          uv run --with mkdocs-material --with mkdocs-static-i18n mkdocs build --strict

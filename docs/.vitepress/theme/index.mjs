@@ -19,9 +19,22 @@ import './custom.css'
 
 import { ACTIVE_LOCALES as LANGUAGES } from '../languages.mjs'
 
+function stripBase(pathname) {
+    const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+    if (base && pathname.startsWith(base)) {
+        return pathname.slice(base.length) || '/';
+    }
+    return pathname;
+}
+
+function withBase(path) {
+    const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
+    return base + (path.startsWith('/') ? path : '/' + path);
+}
+
 function updateNavbarLangLabel() {
     if (typeof document === 'undefined') return;
-    const pathParts = window.location.pathname.split('/').filter(Boolean);
+    const pathParts = stripBase(window.location.pathname).split('/').filter(Boolean);
     let langCode = 'de';
     if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
         langCode = pathParts[0];
@@ -62,7 +75,7 @@ function updateNavbarLangLabel() {
 
 function updateQaNavbarLinks(path) {
     if (typeof document === 'undefined') return;
-    const currentPath = path || (typeof window !== 'undefined' ? window.location.pathname : '');
+    const currentPath = stripBase(path || (typeof window !== 'undefined' ? window.location.pathname : ''));
     const pathParts = currentPath.split('/').filter(Boolean);
     let langCode = 'de';
     if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
@@ -70,7 +83,7 @@ function updateQaNavbarLinks(path) {
     }
     const m = currentPath.match(/(lektion|schrift|uebung)0*(\d+)/i);
     const lessonParam = m ? `&lesson=${parseInt(m[2], 10)}` : '';
-    const targetHref = `/qa_viewer.html?lang=${langCode}${lessonParam}`;
+    const targetHref = withBase(`/qa_viewer.html?lang=${langCode}${lessonParam}`);
     document.querySelectorAll('a[href*="qa_viewer.html"]').forEach(a => {
         a.href = targetHref;
     });
@@ -227,7 +240,7 @@ export default {
              if (m) {
                  localStorage.setItem('payer_last_lesson', m[2]);
              }
-             const pathParts = path.split('/').filter(Boolean);
+             const pathParts = stripBase(path).split('/').filter(Boolean);
              let langCode = 'de';
              if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
                  langCode = pathParts[0];
@@ -308,7 +321,7 @@ export default {
 
                const qaLink = e.target.closest('a[href*="qa_viewer.html"]');
                if (qaLink) {
-                   const path = window.location.pathname;
+                   const path = stripBase(window.location.pathname);
                    const pathParts = path.split('/').filter(Boolean);
                    let langCode = 'de';
                    if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
@@ -316,7 +329,7 @@ export default {
                    }
                    const m = path.match(/(lektion|schrift|uebung)0*(\d+)/i);
                    const lessonParam = m ? `&lesson=${parseInt(m[2], 10)}` : '';
-                   qaLink.href = `/qa_viewer.html?lang=${langCode}${lessonParam}`;
+                   qaLink.href = withBase(`/qa_viewer.html?lang=${langCode}${lessonParam}`);
                }
 
                const itemHeader = e.target.closest('.VPSidebarItem.collapsible > .item');

@@ -12,6 +12,7 @@ import { readdir, writeFile, stat, rm } from 'node:fs/promises'
 import { join, relative } from 'node:path'
 
 const DIST_DIR = new URL('../docs/.vitepress/dist/', import.meta.url).pathname
+const BASE_PATH = (process.env.VITEPRESS_BASE || '/').replace(/\/$/, '')
 
 import { ACTIVE_LOCALES as LOCALES } from '../docs/.vitepress/languages.mjs'
 
@@ -50,7 +51,7 @@ function toCleanUrl(relativePath) {
   if (path === '') path = '/'
   // Ensure leading slash
   if (!path.startsWith('/')) path = '/' + path
-  return path
+  return BASE_PATH + path
 }
 
 /**

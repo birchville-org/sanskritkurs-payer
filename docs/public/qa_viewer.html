@@ -1039,6 +1039,7 @@
         </div>
 
         <div class="controls-group group-right">
+            <span id="broker-user-badge" style="display:none; font-size:0.78em; margin-right:8px; padding:3px 8px; border-radius:4px; background:var(--vp-c-bg-soft); color:var(--vp-c-text-2); border:1px solid var(--vp-c-divider);"></span>
             <button class="control-btn" onclick="openCloudFile()" id="btn-cloud-load" style="background:#2563eb; color:white; min-width: 130px; margin-right: 10px;" title="Load current lesson from GitHub">Load from Cloud</button>
             <button class="VPSwitch" onclick="toggleTheme()" id="theme-btn" title="Toggle Theme">
                 <span class="check">
@@ -1855,6 +1856,27 @@
             notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 15000);
         }
 
+        window._qaBrokerActive = false;
+        async function detectQaBroker() {
+            try {
+                const res = await fetch('/api/qa/me', { cache: 'no-store' });
+                if (!res.ok) return;
+                const data = await res.json();
+                if (data && data.authenticated) {
+                    window._qaBrokerActive = true;
+                    const badge = document.getElementById('broker-user-badge');
+                    if (badge) {
+                        badge.textContent = `👤 ${data.name || data.user}`;
+                        badge.title = `Authelia Zero-PAT aktiv (${data.groups ? data.groups.join(', ') : ''})`;
+                        badge.style.display = 'inline-block';
+                    }
+                }
+            } catch (_) {
+                // Static hosting / github.io without local broker -> fallback to PAT / local FS
+            }
+        }
+        detectQaBroker();
+
         function getGitHubToken() {
             let token = localStorage.getItem('github_pat');
             if (!token) {
@@ -1874,28 +1896,33 @@
             relPath += '.md';
             const filepath = 'docs/' + relPath;
 
-            const token = getGitHubToken();
-            if (!token) return;
-
             try {
-                let res = await fetch(`https://api.github.com/repos/marcodem/sanskritkurs-payer/contents/${filepath}?ref=author-drafts`, {
-                    headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' },
-                    cache: 'no-store'
-                });
-                
-                if (!res.ok) {
-                    res = await fetch(`https://api.github.com/repos/marcodem/sanskritkurs-payer/contents/${filepath}?ref=main`, {
+                let content = '';
+                if (window._qaBrokerActive) {
+                    const res = await fetch(`/api/qa/file?path=${encodeURIComponent(filepath)}`, { cache: 'no-store' });
+                    const data = await res.json();
+                    if (!res.ok) throw new Error(data.error || 'Broker-Fehler beim Laden.');
+                    content = data.content;
+                } else {
+                    const token = getGitHubToken();
+                    if (!token) return;
+                    let res = await fetch(`https://api.github.com/repos/birchville-org/sanskritkurs-payer/contents/${filepath}?ref=author-drafts`, {
                         headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' },
                         cache: 'no-store'
                     });
                     if (!res.ok) {
-                        if (res.status === 401 || res.status === 403) throw new Error('Token ungültig oder keine Lese/Schreibrechte.');
-                        throw new Error('Datei nicht gefunden.');
+                        res = await fetch(`https://api.github.com/repos/birchville-org/sanskritkurs-payer/contents/${filepath}?ref=main`, {
+                            headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' },
+                            cache: 'no-store'
+                        });
+                        if (!res.ok) {
+                            if (res.status === 401 || res.status === 403) throw new Error('Token ungültig oder keine Lese/Schreibrechte.');
+                            throw new Error('Datei nicht gefunden.');
+                        }
                     }
+                    const data = await res.json();
+                    content = decodeURIComponent(escape(atob(data.content)));
                 }
-                
-                const data = await res.json();
-                const content = decodeURIComponent(escape(atob(data.content)));
                 
                 const editorInput = document.getElementById('editor-input');
                 editorInput.value = stripFrontmatter(content);
@@ -1968,8 +1995,11 @@
                 alert('Bitte zuerst eine Datei laden.');
                 return;
             }
-            const token = getGitHubToken();
-            if (!token) return;
+            let token = null;
+            if (!window._qaBrokerActive) {
+                token = getGitHubToken();
+                if (!token) return;
+            }
 
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
@@ -2001,58 +2031,73 @@
 
             if (btn) btn.textContent = 'Speichert...';
             try {
-                const owner = 'marcodem';
-                const repo = 'sanskritkurs-payer';
-                const branch = 'author-drafts';
-                const headers = { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' };
-
-                let branchRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/branches/${branch}`, { headers });
-                if (!branchRes.ok) {
-                    const mainRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/ref/heads/main`, { headers });
-                    const mainData = await mainRes.json();
-                    await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs`, {
-                        method: 'POST',
-                        headers,
-                        body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: mainData.object.sha })
-                    });
-                }
-
-                let fileSha = undefined;
-                const fileRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}?ref=${branch}`, { headers });
-                if (fileRes.ok) {
-                    const fileData = await fileRes.json();
-                    fileSha = fileData.sha;
-                }
-
-                const updateRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}`, {
-                    method: 'PUT',
-                    headers,
-                    body: JSON.stringify({
-                        message: `Redaktionelle Änderung: ${window._currentCloudFile}`,
-                        content: base64Content,
-                        branch: branch,
-                        sha: fileSha
-                    })
-                });
-                
-                if (!updateRes.ok) {
-                    if (updateRes.status === 401 || updateRes.status === 403) throw new Error('Token ungültig oder keine Schreibrechte.');
-                    throw new Error('Speichern auf GitHub fehlgeschlagen (Status ' + updateRes.status + ')');
-                }
-
-                const prsRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls?head=${owner}:${branch}&base=main&state=open`, { headers });
-                const prsData = await prsRes.json();
-                if (prsData.length === 0) {
-                    await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls`, {
-                        method: 'POST',
-                        headers,
+                if (window._qaBrokerActive) {
+                    const brokerRes = await fetch('/api/qa/file', {
+                        method: 'PUT',
+                        headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify({
-                            title: 'Redaktionelle Änderungen (QA-Viewer)',
-                            head: branch,
-                            base: 'main',
-                            body: 'Automatischer Pull Request des QA-Viewers.\nBitte Änderungen im "Files changed" Tab prüfen und dann mergen.'
+                            path: window._currentCloudFile,
+                            content: text
                         })
                     });
+                    const brokerData = await brokerRes.json();
+                    if (!brokerRes.ok) {
+                        throw new Error(brokerData.error || 'Broker-Speichern fehlgeschlagen.');
+                    }
+                } else {
+                    const owner = 'birchville-org';
+                    const repo = 'sanskritkurs-payer';
+                    const branch = 'author-drafts';
+                    const headers = { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' };
+
+                    let branchRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/branches/${branch}`, { headers });
+                    if (!branchRes.ok) {
+                        const mainRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/ref/heads/main`, { headers });
+                        const mainData = await mainRes.json();
+                        await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs`, {
+                            method: 'POST',
+                            headers,
+                            body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: mainData.object.sha })
+                        });
+                    }
+
+                    let fileSha = undefined;
+                    const fileRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}?ref=${branch}`, { headers });
+                    if (fileRes.ok) {
+                        const fileData = await fileRes.json();
+                        fileSha = fileData.sha;
+                    }
+
+                    const updateRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}`, {
+                        method: 'PUT',
+                        headers,
+                        body: JSON.stringify({
+                            message: `Redaktionelle Änderung: ${window._currentCloudFile}`,
+                            content: base64Content,
+                            branch: branch,
+                            sha: fileSha
+                        })
+                    });
+                    
+                    if (!updateRes.ok) {
+                        if (updateRes.status === 401 || updateRes.status === 403) throw new Error('Token ungültig oder keine Schreibrechte.');
+                        throw new Error('Speichern auf GitHub fehlgeschlagen (Status ' + updateRes.status + ')');
+                    }
+
+                    const prsRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls?head=${owner}:${branch}&base=main&state=open`, { headers });
+                    const prsData = await prsRes.json();
+                    if (prsData.length === 0) {
+                        await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls`, {
+                            method: 'POST',
+                            headers,
+                            body: JSON.stringify({
+                                title: 'Redaktionelle Änderungen (QA-Viewer)',
+                                head: branch,
+                                base: 'main',
+                                body: 'Automatischer Pull Request des QA-Viewers.\nBitte Änderungen im "Files changed" Tab prüfen und dann mergen.'
+                            })
+                        });
+                    }
                 }
 
                 window._originalEditorContentText = savedValue;

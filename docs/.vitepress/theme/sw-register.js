@@ -23,9 +23,10 @@ export function registerServiceWorker() {
   
   window.addEventListener('load', async () => {
     try {
-      const swUrl = port ? '/sw.js' : '/sw.js'
+      const baseUrl = import.meta.env.BASE_URL || '/'
+      const swUrl = baseUrl + 'sw.js'
       const registration = await navigator.serviceWorker.register(swUrl, {
-        scope: '/'
+        scope: baseUrl
       })
       
       console.log('[SW] Registered:', registration.scope, '(port:', port || 'default', ')')

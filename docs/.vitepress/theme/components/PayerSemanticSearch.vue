@@ -89,6 +89,7 @@
 
 <script setup>
 import { ref, computed, nextTick } from 'vue'
+import { withBase } from 'vitepress'
 import { ACTIVE_LOCALES } from '../../languages.mjs'
 
 const isOpen = ref(false)
@@ -106,7 +107,11 @@ let worker = null
 
 function getActiveLocale() {
   if (typeof window === 'undefined') return 'de'
-  const seg = window.location.pathname.split('/').filter(Boolean)[0] || ''
+  const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '')
+  const pathname = base && window.location.pathname.startsWith(base)
+    ? window.location.pathname.slice(base.length)
+    : window.location.pathname
+  const seg = pathname.split('/').filter(Boolean)[0] || ''
   return (seg && seg !== 'de' && ACTIVE_LOCALES.includes(seg)) ? seg : 'de'
 }
 
@@ -142,12 +147,12 @@ async function loadIndex() {
   const currentLocale = getActiveLocale()
   if (vectorIndex && loadedLocale === currentLocale) return
 
-  const primaryUrl = currentLocale === 'de' ? '/vector_index.json' : `/vector_index_${currentLocale}.json`
+  const primaryUrl = withBase(currentLocale === 'de' ? '/vector_index.json' : `/vector_index_${currentLocale}.json`)
   try {
     let resp = await fetch(primaryUrl)
     if (!resp.ok && currentLocale !== 'de') {
       // Fallback to German index if language-specific index is missing
-      resp = await fetch('/vector_index.json')
+      resp = await fetch(withBase('/vector_index.json'))
     }
     if (resp.ok) {
       const data = await resp.json()

@@ -127,7 +127,7 @@ export default defineConfig({
   title: "Sanskritkurs",
   description: "Grammatik Lehrbuch von Alois Payer",
   lang: 'de-DE',
-  base: '/',
+  base: process.env.VITEPRESS_BASE || '/',
   ignoreDeadLinks: true,
   cleanUrls: true,
   metaChunk: true,

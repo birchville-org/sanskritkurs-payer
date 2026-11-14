@@ -1,4 +1,4 @@
-name: Multi-Platform Docker Build
+name: Dual-Target Release (GitHub Pages + Multi-Arch Docker)
 
 on:
   push:
@@ -6,23 +6,24 @@ on:
       - 'v[0-9]*.[0-9]*.[0-9]*'
   workflow_dispatch:
 
-
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   NODE_OPTIONS: "--max-old-space-size=32768"
 
+permissions:
+  contents: read
+  packages: write
+  pages: write
+  id-token: write
+
 concurrency:
-  group: docker-${{ github.sha }}
+  group: release-${{ github.sha }}
   cancel-in-progress: true
 
 jobs:
-  build-and-push:
+  build-and-push-docker:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -47,9 +48,9 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
-      - name: Build VitePress (Public)
+      - name: Build VitePress (Docker Root Base)
         run: |
-          npm install
+          npm ci
           NODE_OPTIONS="--max-old-space-size=32768" VITEPRESS_ENV=public npx vitepress build docs
           node scripts/gen_locale_manifests.mjs
           mv docs/.vitepress/dist docs/.vitepress/dist-public
@@ -89,3 +90,52 @@ jobs:
           labels: ${{ steps.meta-public.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+  build-and-deploy-pages:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Swap Space (32 GB)
+        run: |
+          sudo swapoff -a || true
+          sudo fallocate -l 32G /mnt/swapfile || sudo dd if=/dev/zero of=/mnt/swapfile bs=1M count=32768
+          sudo chmod 600 /mnt/swapfile
+          sudo mkswap /mnt/swapfile
+          sudo swapon /mnt/swapfile
+          free -h
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Build VitePress (GitHub Pages Subpath)
+        run: |
+          npm ci
+          NODE_OPTIONS="--max-old-space-size=32768" VITEPRESS_ENV=public VITEPRESS_BASE=/sanskritkurs-payer/ npx vitepress build docs
+          VITEPRESS_BASE=/sanskritkurs-payer/ node scripts/gen_locale_manifests.mjs
+
+      - name: Build MkDocs into /dev-docs/
+        run: |
+          uv run --with mkdocs-material --with mkdocs-static-i18n mkdocs build --strict -d docs/.vitepress/dist/dev-docs
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/.vitepress/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

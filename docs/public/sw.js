@@ -12,18 +12,21 @@ const CACHE_NAME = `payer-cache-${CACHE_VERSION}`
 // Default matches lang-settings.js DEFAULT_LOCALES.
 let ACTIVE_LOCALES = ['de', 'en', 'it']
 
+// Dynamic base path from sw.js location (e.g. '/' or '/sanskritkurs-payer/')
+const BASE_PATH = self.location.pathname.replace(/sw\.js$/, '');
+
 // Cache key for persisting active_locales across SW restarts.
 // Not a real URL — lives only inside Cache Storage.
-const LOCALES_CACHE_KEY = new Request('/__payer_locales')
+const LOCALES_CACHE_KEY = new Request(BASE_PATH + '__payer_locales')
 
 // Assets to pre-cache during install
 const PRECACHE_URLS = [
-  '/',
-  '/offline.html',
-  '/manifest.json',
-  '/pwa-icons/icon-192.png',
-  '/pwa-icons/icon-512.png',
-  '/search-worker.js'
+  BASE_PATH,
+  BASE_PATH + 'offline.html',
+  BASE_PATH + 'manifest.json',
+  BASE_PATH + 'pwa-icons/icon-192.png',
+  BASE_PATH + 'pwa-icons/icon-512.png',
+  BASE_PATH + 'search-worker.js'
 ]
 
 // ============================================================
@@ -383,7 +386,7 @@ async function networkFirst(request) {
     if (request.destination === 'document' 
         || (request.headers.get('accept') || '').includes('text/html')) {
       console.log('[SW] No cache, serving offline.html')
-      const offlinePage = await cache.match('/offline.html')
+      const offlinePage = await cache.match(BASE_PATH + 'offline.html')
       if (offlinePage) return offlinePage
     }
     
@@ -510,20 +513,23 @@ async function autoEvictOnQuotaPressure() {
     for (const request of requests) {
       if (request.url === LOCALES_CACHE_KEY.url) continue
       const url = new URL(request.url)
+      const relPath = url.pathname.startsWith(BASE_PATH)
+        ? '/' + url.pathname.slice(BASE_PATH.length)
+        : url.pathname
       
       // Protect infrastructure assets
-      if (['/', '/index.html', '/offline.html', '/manifest.json'].includes(url.pathname) ||
-          url.pathname.startsWith('/pwa-icons/') ||
-          url.pathname.startsWith('/assets/')) {
+      if (['/', '/index.html', '/offline.html', '/manifest.json'].includes(relPath) ||
+          relPath.startsWith('/pwa-icons/') ||
+          relPath.startsWith('/assets/')) {
         continue
       }
       
       // Protect binary assets shared across locales
-      if (url.pathname.match(/\.(css|js|woff2?|ttf|otf|png|jpe?g|gif|svg|webp|ico|mp3|wav|pdf)$/i)) {
+      if (relPath.match(/\.(css|js|woff2?|ttf|otf|png|jpe?g|gif|svg|webp|ico|mp3|wav|pdf)$/i)) {
         continue
       }
       
-      const m = url.pathname.match(/^\/([a-z]{2,3}(?:-[A-Z]{2})?)(?:\/|$)/)
+      const m = relPath.match(/^\/([a-z]{2,3}(?:-[A-Z]{2})?)(?:\/|$)/)
       
       if (!m) {
          // DE root path without prefix
