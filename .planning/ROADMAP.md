@@ -318,13 +318,13 @@ Verwaltung des Modell-Downloads und Fallback-Lösungen.
 
 ### Hosting & Deployment Migration
 
-- [ ] **Vollständige Migration des Kurses auf GitHub Pages (`github.io`)**
-  - **Status:** Phase 1 (Asset- & Footprint-Reduktion von 709 MB auf 125 MB, 17 Kernsprachen, WebP-Scans) erfolgreich abgeschlossen (Release v1.9.1).
-  - **Offene Schritte:**
-    - [ ] **Phase 2 (URL & Routing):** Finale Festlegung Base-Pfad (`base: '/sanskritkurs-payer/'` oder Custom Subdomain `sanskrit.birchville.org`).
-    - [ ] **Phase 3 (CI/CD Pipeline):** Workflow für VitePress-Pages-Deployment aufsetzen (`.github/workflows/deploy-pages.yml` mit Swap & `actions/deploy-pages@v4`).
-    - [ ] **Phase 4 (Portal-Harmonisierung):** MkDocs-Doku (`site_docs/`) in VitePress integrieren oder sauber als Unterverzeichnis koexistieren lassen.
-    - [ ] **Phase 5 (Docker-Entlastung):** Homelab/Staging auf rein interne Zwecke beschränken; öffentliches Web-Hosting 100 % serverlos via GitHub Pages.
+- [x] **Vollständige Migration des Kurses auf GitHub Pages (`github.io`)**
+  - **Status:** Phasen 1–4 im Repository abgeschlossen (Dual-Target-Pipeline, Subpath-Routing `/sanskritkurs-payer/`, MkDocs `/dev-docs/`-Integration, Authelia Zero-PAT Broker).
+  - **Schritte:**
+    - [x] **Phase 2 (URL & Routing):** Dynamisches Base-Routing (`VITEPRESS_BASE=/sanskritkurs-payer/` für Pages, `base: '/'` für Docker) umgesetzt.
+    - [x] **Phase 3 (CI/CD Pipeline):** Dual-Target-Workflow in `.github/workflows/deploy.yml` mit `actions/deploy-pages@v4` aufgesetzt (`build_type: workflow`).
+    - [x] **Phase 4 (Portal-Harmonisierung):** MkDocs-Doku (`site_docs/`) wird im Workflow nach `/dev-docs/` gebaut.
+    - [ ] **Phase 5 (Infrastruktur-Aktivierung):** Release triggern + Traefik-Redirect auf `payer.birchville.org` aktivieren.
   - **Referenz:** Siehe [`.planning/PLAN_GITHUB_PAGES_HOSTING.md`](PLAN_GITHUB_PAGES_HOSTING.md).
 
 ### Quality & Content Cleanup

@@ -28,8 +28,12 @@ export function filterSidebarByLocales() {
 
   const activeLocales = getActiveLocales()
   
-  // Detect current locale from URL
-  const pathname = window.location.pathname
+  // Detect current locale from URL (strip base prefix)
+  const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '')
+  const rawPathname = window.location.pathname
+  const pathname = (base && rawPathname.startsWith(base))
+    ? (rawPathname.slice(base.length) || '/')
+    : rawPathname
   const currentLocaleMatch = pathname.match(/^\/([^/]+)(?:\/|$)/)
   let currentLocale = 'de'
   if (currentLocaleMatch && ALL_LOCALES.includes(currentLocaleMatch[1])) {

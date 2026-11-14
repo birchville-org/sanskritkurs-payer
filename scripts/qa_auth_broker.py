@@ -130,10 +130,12 @@ class QABrokerHandler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def _get_identity(self) -> dict:
-        user = (self.headers.get("Remote-User") or "").strip()
-        name = (self.headers.get("Remote-Name") or user).strip()
-        email = (self.headers.get("Remote-Email") or (f"{user}@birchville.org" if user else "")).strip()
-        groups = parse_groups(self.headers.get("Remote-Groups") or "")
+        clean = lambda v: re.sub(r"[\r\n\0]+", "", v or "").strip()
+        user = clean(self.headers.get("Remote-User"))
+        name = clean(self.headers.get("Remote-Name")) or user
+        raw_email = clean(self.headers.get("Remote-Email"))
+        email = raw_email if (raw_email and "@" in raw_email) else (f"{user}@birchville.org" if user else "")
+        groups = parse_groups(clean(self.headers.get("Remote-Groups")))
         is_admin = "admins" in groups or "lldap_admin" in groups
         can_write = bool(user) and ("lldap_strict_readonly" not in groups) and (
             is_admin

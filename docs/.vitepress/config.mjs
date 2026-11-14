@@ -123,6 +123,8 @@ for (const code of ACTIVE_LOCALES) {
 
 // QA Viewer navbar link enabled for convenient testing
 
+const basePath = (process.env.VITEPRESS_BASE || '/').replace(/\/$/, '');
+
 export default defineConfig({
   title: "Sanskritkurs",
   description: "Grammatik Lehrbuch von Alois Payer",
@@ -134,14 +136,14 @@ export default defineConfig({
   srcExclude: [...webExcludes, 'qa/**', 'de/**', 'ARCHITECTURE.md', 'METHODIK_BOXENSYSTEM.md', 'public/**', '**/*.pdf', '**/*.epub'],
 
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico', sizes: 'any' }],
-    ['link', { rel: 'icon', href: '/favicon.png', type: 'image/png' }],
-    ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ['link', { rel: 'icon', href: `${basePath}/favicon.ico`, sizes: 'any' }],
+    ['link', { rel: 'icon', href: `${basePath}/favicon.png`, type: 'image/png' }],
+    ['link', { rel: 'manifest', href: `${basePath}/manifest.json` }],
     ['meta', { name: 'theme-color', content: '#03192e' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
     ['meta', { name: 'apple-mobile-web-app-title', content: 'Sanskritkurs' }],
-    ['link', { rel: 'apple-touch-icon', href: '/og-icon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: `${basePath}/og-icon.png` }],
     ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:image', content: 'https://payer.birchville.org/og-icon.png' }],
@@ -181,13 +183,16 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
+              const rawPath = typeof window !== 'undefined' ? window.location.pathname : '/';
+              const cleanPath = rawPath.replace(/^\/sanskritkurs-payer(?=\/|$)/, '') || '/';
+              const seg = cleanPath.split('/').filter(Boolean)[0] || '';
+              const cleanId = result.id.replace(/^\/sanskritkurs-payer(?=\/|$)/, '') || '/';
               if (seg.match(/^[a-z]{2,3}(-[A-Z]{2})?$/)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
-                return result.id.startsWith('/' + seg + '/');
+                return cleanId.startsWith('/' + seg + '/');
               }
               // Root/DE: nur Seiten ohne Sprachpräfix (kein /xx/ oder /xx-XX/ am Anfang)
-              return !result.id.match(/^\/[a-z]{2,3}(-[A-Z]{2})?\//);
+              return !cleanId.match(/^\/[a-z]{2,3}(-[A-Z]{2})?\//);
             }
           }
         },

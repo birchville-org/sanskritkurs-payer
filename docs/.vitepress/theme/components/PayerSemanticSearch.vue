@@ -125,7 +125,7 @@ const workerStatusLabel = computed(() => {
 function initWorker() {
   if (typeof window === 'undefined' || !window.Worker || worker) return
   try {
-    worker = new Worker('/search-worker.js', { type: 'module' })
+    worker = new Worker(withBase('/search-worker.js'), { type: 'module' })
     worker.onmessage = (e) => {
       const data = e.data || {}
       if (data.type === 'STATUS') {
@@ -261,9 +261,9 @@ function getBadgeColor(score) {
 function navigateTo(item) {
   closeModal()
   const cleanName = item.file.replace('.md', '')
-  const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || ''
-  const prefix = (seg && seg !== 'de' && ACTIVE_LOCALES.includes(seg)) ? `/${seg}` : ''
-  window.location.href = `${prefix}/lektionen/${cleanName}`
+  const locale = getActiveLocale()
+  const prefix = (locale && locale !== 'de') ? `/${locale}` : ''
+  window.location.href = withBase(`${prefix}/lektionen/${cleanName}`)
 }
 </script>
 

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sanskrit Course - Side-by-Side QA Viewer</title>
-    <script src="/qa_editor.js"></script>
+    <script src="qa_editor.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=STIX+Two+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Noto+Serif+Devanagari:wght@400;600;700&display=swap');
 
@@ -972,7 +972,7 @@
 <body class="light">
     <div class="header">
         <div class="controls-group group-left">
-            <a href="/" class="home-link" title="Home">&#127963;&#65039;</a>
+            <a href="./" class="home-link" title="Home">&#127963;&#65039;</a>
             <span class="lesson-label">Lektion</span>
             <input type="number" id="lesson-num" value="1" min="1" max="61" style="width: 65px;"
                 onchange="updateLesson()">
@@ -1120,7 +1120,8 @@
     </div>
 
     <script>
-        const baseUrl = window.location.origin + "/";
+        const basePath = window.location.pathname.replace(/qa_viewer\.html.*$/i, '') || '/';
+        const baseUrl = window.location.origin + basePath;
         let isDragging1 = false;
         let isDragging2 = false;
 
@@ -1269,7 +1270,11 @@
 
         function parsePathContext(pathname) {
             if (!pathname) return null;
-            const clean = pathname.replace(/\/index\.html?$/i, '/').replace(/\.html$/i, '');
+            let rel = pathname;
+            if (basePath !== '/' && rel.startsWith(basePath)) {
+                rel = '/' + rel.slice(basePath.length);
+            }
+            const clean = rel.replace(/\/index\.html?$/i, '/').replace(/\.html$/i, '');
 
             // 1. Lektion: /<lang>/lektionen/lektion<num> oder /lektionen/lektion<num>
             const mLesson = clean.match(/^(?:\/([a-zA-Z]{2,3}(?:-[a-zA-Z]{2})?))?\/lektionen\/lektion0*(\d+)/i);
@@ -1475,15 +1480,15 @@
 
             // 2. Kam der Nutzer von einer Hauptseite und Lektion ist 1 (oder Lektion 1 ohne Lektions-Referrer)
             if ((refCtx && refCtx.isHome && (parseInt(lessonInput.value, 10) === 1 || !lessonInput.value)) || (!refCtx && (parseInt(lessonInput.value, 10) === 1 || !lessonInput.value))) {
-                window.location.href = activeLang.toLowerCase() === 'de' ? '/' : `/${activeLang}/`;
+                window.location.href = activeLang.toLowerCase() === 'de' ? basePath : `${basePath}${activeLang}/`;
                 return;
             }
 
             // 3. Ziel-URL anhand der aktiven Sprache und Lektion konstruieren
             if (activeLang.toLowerCase() === 'de') {
-                window.location.href = `/lektionen/lektion${num}`;
+                window.location.href = `${basePath}lektionen/lektion${num}`;
             } else {
-                window.location.href = `/${activeLang}/lektionen/lektion${num}`;
+                window.location.href = `${basePath}${activeLang}/lektionen/lektion${num}`;
             }
         }
 

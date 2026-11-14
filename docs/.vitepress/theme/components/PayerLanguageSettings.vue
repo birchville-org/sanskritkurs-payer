@@ -154,6 +154,7 @@
 
 <script setup>
 import { ref, onMounted, onUnmounted, computed } from 'vue'
+import { withBase } from 'vitepress'
 import { ALL_LOCALES, getActiveLocales, setActiveLocales } from '../lang-settings.js'
 import {
   subscribe as subscribeInstall,
@@ -522,7 +523,7 @@ const localeStatus = ref({})
  */
 async function prefetchLocale(locale) {
   try {
-    const manifestUrl = `/manifest-${locale}.json`
+    const manifestUrl = withBase(`/manifest-${locale}.json`)
     const resp = await fetch(manifestUrl, { credentials: 'same-origin' })
     if (!resp.ok) {
       console.warn(`[Settings] manifest-${locale}.json not found: ${resp.status}`)
@@ -694,7 +695,9 @@ async function save() {
 onMounted(() => {
   selected.value = getActiveLocales()
   
-  const path = window.location.pathname
+  const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '')
+  const rawPath = window.location.pathname
+  const path = (base && rawPath.startsWith(base)) ? rawPath.slice(base.length) : rawPath
   const firstSeg = path.split('/').filter(Boolean)[0] || ''
   currentLocale.value = ALL_LOCALES.includes(firstSeg) ? firstSeg : 'de'
   if (!selected.value.includes(currentLocale.value)) {
@@ -748,7 +751,7 @@ async function installApp() {
   const localePayload = []
   for (const locale of activeLocales) {
     try {
-      const manifestUrl = `/manifest-${locale}.json`
+      const manifestUrl = withBase(`/manifest-${locale}.json`)
       const resp = await fetch(manifestUrl, { credentials: 'same-origin' })
       if (resp.ok) {
         const manifest = await resp.json()

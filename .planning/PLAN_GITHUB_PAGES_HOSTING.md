@@ -96,25 +96,26 @@ Weil sowohl `github.io` als auch der `ghcr.io`-Docker-Container bei jedem Releas
 ### Phase 1: Asset-Entschlackung (1-GB-Garantie) — [ERLEDIGT]
 - [x] PDFs und EPUBs via `srcExclude: ['**/*.pdf', '**/*.epub']` in [config.mjs](file:///Volumes/SanDisk1TB/proj/Payer/docs/.vitepress/config.mjs#L140) ausgeschlossen (`v1.10.1`), `dist`-Footprint auf ~450 MB reduziert.
 
-### Phase 2: All-in-One Docker-Erweiterung & Authelia-Broker (Architektur C) — [OFFEN]
-- [ ] **Schritt 2.1 (`scripts/qa_auth_broker.py`):** Implementierung des HTTP-Brokers (`/api/qa/me`, `GET/PUT /api/qa/file`) mit Pfad-Whitelist, TOTALBREMSE-Check und Git-Author-Mapping (`Remote-Name` / `Remote-Email`).
-- [ ] **Schritt 2.2 ([Dockerfile](file:///Volumes/SanDisk1TB/proj/Payer/Dockerfile), [nginx.conf](file:///Volumes/SanDisk1TB/proj/Payer/nginx.conf), `scripts/docker-entrypoint.sh`):**
+### Phase 2: All-in-One Docker-Erweiterung & Authelia-Broker (Architektur C) — [ERLEDIGT]
+- [x] **Schritt 2.1 ([scripts/qa_auth_broker.py](file:///Volumes/SanDisk1TB/proj/Payer/scripts/qa_auth_broker.py)):** Implementierung des HTTP-Brokers (`/api/qa/me`, `GET/PUT /api/qa/file`) mit Pfad-Whitelist, TOTALBREMSE-Check, LLDAP-Gruppenrechten (`admins`, `users`, `alexandria-users`, `lldap_strict_readonly`, `lector-<lang>`) und Git-Author-Mapping (`Remote-Name` / `Remote-Email`).
+- [x] **Schritt 2.2 ([Dockerfile](file:///Volumes/SanDisk1TB/proj/Payer/Dockerfile), [nginx.conf](file:///Volumes/SanDisk1TB/proj/Payer/nginx.conf), [scripts/docker-entrypoint.sh](file:///Volumes/SanDisk1TB/proj/Payer/scripts/docker-entrypoint.sh)):**
   - Einbettung von `python3` und `qa_auth_broker.py` in das bestehende Docker-Image.
   - Automatischer Start des Brokers auf `127.0.0.1:8081`, sobald `GITHUB_TOKEN` beim Container-Start übergeben wird.
   - Nginx-Location `/api/qa/` mit Weiterleitung der `Remote-*`-Header von Authelia.
-- [ ] **Schritt 2.3 ([docs/public/qa_viewer.html](file:///Volumes/SanDisk1TB/proj/Payer/docs/public/qa_viewer.html)):**
+- [x] **Schritt 2.3 ([docs/public/qa_viewer.html](file:///Volumes/SanDisk1TB/proj/Payer/docs/public/qa_viewer.html)):**
   - Automatische Erkennung von `/api/qa/me` beim Start (Anzeige des eingeloggten Authelia-Nutzers im Header).
-  - Nutzung von `/api/qa/file` in [`openCloudFile()`](file:///Volumes/SanDisk1TB/proj/Payer/docs/public/qa_viewer.html#L1873-L1921) und [`saveCloudFile()`](file:///Volumes/SanDisk1TB/proj/Payer/docs/public/qa_viewer.html#L1970-L2077) ohne PAT-Prompt.
-  - Korrektur des Repository-Owners von `marcodem` auf `birchville-org` im lokalen Fallback.
+  - Nutzung von `/api/qa/file` in `openCloudFile()` und `saveCloudFile()` ohne PAT-Prompt.
+  - Korrektur des Repository-Owners von `marcodem` auf `birchville-org` im lokalen Fallback sowie Subpath-kompatibles Base-Routing.
 
-### Phase 3: Vereinheitlichter Dual-Target CI/CD Workflow (`.github/workflows/deploy.yml`) — [OFFEN]
-- [ ] Erweiterung von [.github/workflows/deploy.yml](file:///Volumes/SanDisk1TB/proj/Payer/.github/workflows/deploy.yml), sodass nach dem einmaligen `Build VitePress (Public)`-Schritt:
-  1. das Multi-Arch Docker-Image (`linux/amd64`, `linux/arm64`) wie bisher auf `ghcr.io/birchville-org/sanskritkurs-payer` gepusht wird **und**
-  2. parallel oder direkt im Anschluss `docs/.vitepress/dist-public` via `actions/upload-pages-artifact@v3` und `actions/deploy-pages@v4` auf GitHub Pages veröffentlicht wird.
+### Phase 3: Vereinheitlichter Dual-Target CI/CD Workflow ([.github/workflows/deploy.yml](file:///Volumes/SanDisk1TB/proj/Payer/.github/workflows/deploy.yml)) — [ERLEDIGT]
+- [x] Erweiterung von [.github/workflows/deploy.yml](file:///Volumes/SanDisk1TB/proj/Payer/.github/workflows/deploy.yml):
+  1. `build-and-push-docker`: Baut mit `base: '/'` und pusht das Multi-Arch Docker-Image (`linux/amd64`, `linux/arm64`) auf `ghcr.io/birchville-org/sanskritkurs-payer`.
+  2. `build-and-deploy-pages`: Baut VitePress mit `VITEPRESS_BASE=/sanskritkurs-payer/`, integriert MkDocs in `/dev-docs/` und deployt via `actions/upload-pages-artifact@v3` und `actions/deploy-pages@v4` auf GitHub Pages (`build_type: workflow` aktiv).
 
-### Phase 4: Traefik- & Authelia-Konfiguration — [OFFEN]
+### Phase 4: Traefik- & Authelia-Konfiguration (Option 5b: Redirect + Autoren-Gate) — [OFFEN — Infrastruktur]
 - [ ] Hinterlegen von `GITHUB_TOKEN` in der Docker-Compose-Konfiguration des Payer-Containers.
-- [ ] Aktivieren der `authelia@docker`-Middleware in Traefik für `/qa_viewer.html` und `/api/qa/`.
+- [ ] Traefik-Router 1 (Priorität hoch): `Host(\`payer.birchville.org\`) && (Path(\`/qa_viewer.html\`) || PathPrefix(\`/api/qa/\`) || Path(\`/qa_editor.js\`))` -> Middleware `authelia@docker` -> Container Port `80`.
+- [ ] Traefik-Router 2 (Fallback-Redirect): `Host(\`payer.birchville.org\`)` -> `redirectRegex` nach `https://docs.birchville.org/sanskritkurs-payer/${1}` (permanent `true`).
 
 ### Phase 5: End-to-End Validierung — [OFFEN]
 - [ ] Verifikation, dass ein Release-Run sowohl `ghcr.io/...:latest` als auch `github.io` synchron aktualisiert.

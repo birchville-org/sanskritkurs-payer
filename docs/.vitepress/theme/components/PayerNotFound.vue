@@ -3,7 +3,7 @@ import { computed } from 'vue'
 
 const goHome = (e) => {
   e.preventDefault()
-  window.location.href = '/'
+  window.location.href = import.meta.env.BASE_URL || '/'
 }
 
 // Simple localization based on current URL path
@@ -15,7 +15,9 @@ const texts = computed(() => {
       linkText: 'Zur Startseite'
     }
   }
-  const path = window.location.pathname
+  const base = (import.meta.env.BASE_URL || '/').replace(/\/$/, '')
+  const rawPath = window.location.pathname
+  const path = (base && rawPath.startsWith(base)) ? (rawPath.slice(base.length) || '/') : rawPath
   if (path.startsWith('/en/')) {
     return {
       title: 'PAGE NOT FOUND',
