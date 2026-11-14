@@ -8,6 +8,22 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 2.0.0 (November 2026)
+
+**Focus:** *Dual-Target GitHub Pages Migration (`/sanskritkurs-payer/`) & Authelia Zero-PAT QA Broker*
+
+### ✨ Features & Highlights
+- **Datenintegrität & Kernfunktionen**:
+  - **Dual-Target GitHub Pages Hosting**: Release-Workflow baut und deployt die statische Plattform nach `docs.birchville.org/sanskritkurs-payer/` (`github.io`) inklusive MkDocs-Entwicklerdokumentation unter `/dev-docs/` sowie parallel als Multi-Arch-Container nach GHCR.
+  - **Subpath-Routing (`/sanskritkurs-payer/`)**: Durchgängige `BASE_URL`- und Subpath-Unterstützung in VitePress, Service Worker (`sw.js`), Locale-Manifesten, Semantischer Suche und 404-Umleitungen bei unverändertem Root-`/`-Betrieb im Docker-Container.
+- **Sicherheit & Sandbox**:
+  - **Authelia Zero-PAT Broker (`scripts/qa_auth_broker.py`)**: Löst Client-seitige GitHub PATs im QA Viewer ab. Nutzt Authelia `Remote-Groups`/`Remote-User`/`Remote-Email` Header, erzwingt `TOTALBREMSE` auf `docs/lektionen/*.md` für Nicht-Admins und validiert Pfade sowie Header gegen Injektionen.
+- **Plattform- & Backend-Stabilität**:
+  - **Docker & Nginx Integration**: `docker-entrypoint.sh` startet bei gesetztem `GITHUB_TOKEN` den internen Broker auf `127.0.0.1:8081`; Nginx proxyt `/api/qa/` mit `Remote-*` Headern.
+  - **Lockfile-Parität**: `package-lock.json` für deterministische CI-Builds (`npm ci`) synchronisiert.
+
+---
+
 ## 🚀 Version 1.10.4 (November 2026)
 
 **Focus:** *Architektur- & Ghost-Dependency-Bereinigung, Event-Listener- & Memory-Leak-Härtung, Scroll-Sync-Typensicherheit*

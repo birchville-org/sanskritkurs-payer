@@ -9,7 +9,7 @@ title: "Cilësimet"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Versioni aktuale**: `v1.10.4`
-**Shënimet e lëshimit dhe ndryshimet**: [Çfarë ka të re në v1.10.4?](/sq/release-notes)
+**Versioni aktuale**: `v2.0.0`
+**Shënimet e lëshimit dhe ndryshimet**: [Çfarë ka të re në v2.0.0?](/sq/release-notes)
 **Kodi burimor dhe depozita**: [Depozita GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -9,7 +9,7 @@ title: "Nastavení"
 </ClientOnly>
 
 ::: note-box  Informace a verze
-**Aktuální verze**: `v1.10.4`
-**Poznámky k vydání a přehled změn**: [Co je nového ve v1.10.4?](/cs/release-notes)
+**Aktuální verze**: `v2.0.0`
+**Poznámky k vydání a přehled změn**: [Co je nového ve v2.0.0?](/cs/release-notes)
 **Zdrojový kód a repozitář**: [GitHub repozitář](https://github.com/birchville-org/sanskritkurs-payer)
 :::

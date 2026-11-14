@@ -9,7 +9,7 @@ title: "ማስተካከያዎች"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**የአሁን ስሪት**: `v1.10.4`
-**የብራዝ ማስታወሻዎች እና የለውጥ መዝገብ**: [በv1.10.4 ውስጥ ምን አዲስ ነው?](/gez/release-notes)
+**የአሁን ስሪት**: `v2.0.0`
+**የብራዝ ማስታወሻዎች እና የለውጥ መዝገብ**: [በv2.0.0 ውስጥ ምን አዲስ ነው?](/gez/release-notes)
 **የምንጭ ኮድ እና ማከማቻ**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

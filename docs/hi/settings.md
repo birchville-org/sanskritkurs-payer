@@ -9,7 +9,7 @@ title: "सेटिंग्स"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**वर्तमान संस्करण**: `v1.10.4`
-**रिलीज़ नोट्स और चेंजलॉग**: [v1.10.4 में क्या नया है?](/hi/release-notes)
+**वर्तमान संस्करण**: `v2.0.0`
+**रिलीज़ नोट्स और चेंजलॉग**: [v2.0.0 में क्या नया है?](/hi/release-notes)
 **स्रोत कोड और रिपॉजिटरी**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

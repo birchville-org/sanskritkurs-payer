@@ -9,7 +9,7 @@ title: "الإعدادات"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**الإصدار الحالي**: `v1.10.4`
-**ملاحظات الإصدار وسجل التغييرات**: [ما الجديد في v1.10.4؟](/ar/release-notes)
+**الإصدار الحالي**: `v2.0.0`
+**ملاحظات الإصدار وسجل التغييرات**: [ما الجديد في v2.0.0؟](/ar/release-notes)
 **الكود المصدري والمستودع**: [مستودع GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

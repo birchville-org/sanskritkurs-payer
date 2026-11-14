@@ -9,7 +9,7 @@ title: "ቅንብሮች"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**የአሁን ስሪት**: `v1.10.4`
-**የባለሙያ ማስታወሻዎች እና የለውጥ መዝገብ**: [በv1.10.4 ውስጥ ምን አዲስ ነው?](/am/release-notes)
+**የአሁን ስሪት**: `v2.0.0`
+**የባለሙያ ማስታወሻዎች እና የለውጥ መዝገብ**: [በv2.0.0 ውስጥ ምን አዲስ ነው?](/am/release-notes)
 **የምንጭ ኮድ እና ማከማቻ**: [የGitHub ማከማቻ](https://github.com/birchville-org/sanskritkurs-payer)
 :::

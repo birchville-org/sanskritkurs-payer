@@ -1,6 +1,6 @@
 {
   "name": "sanskritkurs-pipeline",
-  "version": "1.10.4",
+  "version": "2.0.0",
   "description": "SSG Pipeline für Sanskritkurs",
   "scripts": {
     "docs:dev": "vitepress dev docs",

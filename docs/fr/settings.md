@@ -9,7 +9,7 @@ title: "Paramètres"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Version actuelle** : `v1.10.4`
-**Notes de version & Journal des modifications** : [Quoi de neuf dans v1.10.4 ?](/fr/release-notes)
+**Version actuelle** : `v2.0.0`
+**Notes de version & Journal des modifications** : [Quoi de neuf dans v2.0.0 ?](/fr/release-notes)
 **Code source & Dépôt** : [Dépôt GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::

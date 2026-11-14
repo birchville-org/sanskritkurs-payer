@@ -3,6 +3,18 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [2.0.0] - 2026-11-14
+### Hinzugefügt
+- **Dual-Target GitHub Pages Hosting**: Automatisiertes Deployment auf `docs.birchville.org/sanskritkurs-payer/` (`github.io`) parallel zum Multi-Arch Docker-Image (`ghcr.io/birchville-org/sanskritkurs-payer`) inkl. integriertem MkDocs-Output unter `/dev-docs/`.
+- **Authelia Zero-PAT Broker (`scripts/qa_auth_broker.py`)**: Serverseitiger HTTP-Broker (`127.0.0.1:8081`) für den QA Viewer ohne Client-PATs im Browser, geschützt durch Authelia `Remote-Groups`/`Remote-User` Header, Pfad-Whitelist und `TOTALBREMSE` für `docs/lektionen/*.md`.
+
+### Geändert
+- **Subpath-Kompatibilität (`/sanskritkurs-payer/`)**: Dynamische `VITEPRESS_BASE`-Unterstützung in VitePress-Konfiguration, Service Worker (`sw.js`), Suchfilter, Sprachwahl, 404-Routing und `gen_locale_manifests.mjs`.
+- **Docker & Nginx**: `docker-entrypoint.sh` startet bei gesetztem `GITHUB_TOKEN` den Zero-PAT-Broker und leitet `/api/qa/` über Nginx mit Authelia-Headern weiter.
+
+### Sicherheit
+- **Broker-Härtung**: Header-Steuerzeichen-Sanitisierung (`_sanitize_header`), E-Mail-Formatvalidierung (`_EMAIL_RE`) und strikte LLDAP-Gruppenprüfung.
+
 ## [1.10.4] - 2026-11-09
 ### Behoben
 - **Scroll-Sync & Typensicherheit**: Typ-Prüfung und Null-Safety bei `setScroll` (`index.mjs`, `qa_viewer.html`) verhindert unbeabsichtigtes Scrollen auf `top: 0`.

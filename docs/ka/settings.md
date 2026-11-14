@@ -9,7 +9,7 @@ title: "პარამეტრები"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**მიმდინარე ვერსია**: `v1.10.4`
-**გამოშვების შენიშვნები და ცვლილებათა ჟურნალი**: [რა არის ახალი v1.10.4-ში?](/ka/release-notes)
+**მიმდინარე ვერსია**: `v2.0.0`
+**გამოშვების შენიშვნები და ცვლილებათა ჟურნალი**: [რა არის ახალი v2.0.0-ში?](/ka/release-notes)
 **წყაროს კოდი და რეპოზიტორი**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

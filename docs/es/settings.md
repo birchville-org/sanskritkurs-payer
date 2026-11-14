@@ -9,7 +9,7 @@ title: "Configuración"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Versión actual**: `v1.10.4`
-**Notas de la versión y registro de cambios**: [¿Qué hay de nuevo en v1.10.4?](/es/release-notes)
+**Versión actual**: `v2.0.0`
+**Notas de la versión y registro de cambios**: [¿Qué hay de nuevo en v2.0.0?](/es/release-notes)
 **Código fuente y repositorio**: [Repositorio de GitHub](https://github.com/birchville-org/sanskritkurs-payer)
 :::
