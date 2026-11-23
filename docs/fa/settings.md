@@ -9,7 +9,7 @@ title: "تنظیمات"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**نسخه فعلی**: `v2.0.0`
-**یادداشت‌های انتشار و تغییرات**: [چه چیزی در v2.0.0 جدید است؟](/fa/release-notes)
+**نسخه فعلی**: `v2.0.1`
+**یادداشت‌های انتشار و تغییرات**: [چه چیزی در v2.0.1 جدید است؟](/fa/release-notes)
 **کد منبع و مخزن**: [مخزن گیت‌هاب](https://github.com/birchville-org/sanskritkurs-payer)
 :::

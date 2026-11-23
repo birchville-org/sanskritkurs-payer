@@ -2,7 +2,7 @@
 
 ## 1. Overview & Objectives
 
-The **Payer Sanskritkurs Translation & Publishing System** is built on a distributed 3-node topology designed for zero-cost local AI inference, continuous quality assurance, automated web publishing, and semantic vector indexing.
+The **Payer Sanskritkurs Translation & Publishing System** is built on a distributed 3-node topology designed for zero-cost local AI inference, continuous quality assurance, and automated web publishing.
 
 By physically decoupling **interactive pair-programming**, **compute-heavy LLM inference**, and **CI/CD background builds**, the architecture maximizes throughput, guarantees stability, and prevents memory deadlocks.
 
@@ -29,7 +29,7 @@ flowchart TB
     subgraph Nataraja["☸️ Nataraja (Pop!_OS Intel Mac - nataraja.local, 32GB RAM)"]
         GHR["GitHub Self-Hosted Runner (nataraja)"]
         DOCKER["Docker Staging Web Server\n• Public: Port 8080\n• Author: Port 8081"]
-        OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
+        OLLAMA["Ollama Server (Port 11434)\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer"]
         VAULT["TM Cache & Session Vault"]
     end
@@ -46,7 +46,6 @@ flowchart TB
     MLX -->|Inference| MODEL
     GH_REPO -->|Long-Polling WebSocket| GHR
     GHR -->|VitePress Build (38 Locales)| DOCKER
-    GHR -->|Vector Indexing| OLLAMA
     GHR -->|Quality Audit| AUDIT
     GHR -->|Backup Vaulting| VAULT
     GHR -->|Push Multi-Arch Images| GHCR
@@ -78,7 +77,6 @@ flowchart TB
 - **Responsibilities:**
   - Multi-locale VitePress full build (38 locales under 32 GB swap).
   - Staging servers on Port 8080 (Public) and Port 8081 (Author/Review).
-  - Semantic embeddings via Ollama (`nomic-embed-text`).
   - Automated Translation Memory backup routines and snapshot vaults.
 
 ---

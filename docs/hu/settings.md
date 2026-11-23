@@ -9,7 +9,7 @@ title: "Beállítások"
 </ClientOnly>
 
 ::: note-box  Informationen & Version
-**Jelenlegi verzió**: `v2.0.0`
-**Kiadási megjegyzések és changelog**: [Újdonságok a v2.0.0-ban](/hu/release-notes)
+**Jelenlegi verzió**: `v2.0.1`
+**Kiadási megjegyzések és changelog**: [Újdonságok a v2.0.1-ban](/hu/release-notes)
 **Forráskód és tároló**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
 :::

@@ -12,7 +12,6 @@ import PayerWideToggle from './components/PayerWideToggle.vue'
 import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import PayerNotFound from './components/PayerNotFound.vue'
-import PayerSemanticSearch from './components/PayerSemanticSearch.vue'
 import PayerMwPopup from './components/PayerMwPopup.vue'
 import 'markdown-it-extensible/css'
 import './custom.css'
@@ -186,7 +185,6 @@ export default {
     'doc-before': () => h(PayerOfflineIndicator),
     'doc-footer-before': () => h(PayerDocFooter),
     'nav-bar-content-after': () => h(PayerWideToggle),
-    'nav-bar-search-before': () => h(PayerSemanticSearch),
     'layout-bottom': () => h(PayerMwPopup)
   }),
   NotFound: PayerNotFound,
@@ -255,7 +253,6 @@ export default {
       app.component('PayerRelatedLessons', PayerRelatedLessons)
       app.component('PayerLanguageSettings', PayerLanguageSettings)
       app.component('PayerOfflineIndicator', PayerOfflineIndicator)
-      app.component('PayerSemanticSearch', PayerSemanticSearch)
       app.component('PayerMwPopup', PayerMwPopup)
       
       if (typeof window !== 'undefined') {

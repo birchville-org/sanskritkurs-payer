@@ -11,7 +11,9 @@
 - ✅ **v1.6 Developer Experience / Extension** — Phase 23 (shipped 2026-07-15)
 - ✅ **v1.7 Key Locales 100% Completion & UI Polish** — (shipped 2026-08-22)
 - ✅ **v1.8 Polyglot 100% Completion (48 Languages) & Autonomous Healing** — (shipped 2026-09-10, Release v1.8.3)
-- 📅 **v2.0 WebGPU KI-Suche (Semantic RAG)** — Phasen 24-27 (Planned)
+- ✅ **v1.9 Core Languages & Footprint Pruning** — (shipped 2026-10-26, Release v1.9.1)
+- ✅ **v2.0 Dual-Target GitHub Pages & Authelia Zero-PAT Broker** — (shipped 2026-11-14, Release v2.0.0)
+- ❌ **v2.1 WebGPU KI-Suche (Semantic RAG)** — Cancelled / Removed (YAGNI, 2026-11-23)
 
 
 ## Phasen
@@ -273,44 +275,14 @@ Fokus auf 100% Vollständigkeit und Ausmerzung jeglicher Fallbacks für zentrale
 
 </details>
 
-<details open>
-<summary>📋 v2.0 WebGPU KI-Suche (Semantic RAG) — Phasen 24-27 📅</summary>
+<details>
+<summary>📋 v2.1 WebGPU KI-Suche (Semantic RAG) — Phasen 24-27 ❌ Cancelled / Removed (YAGNI, 2026-11-23)</summary>
 
-### Phase 24: Static Embedding Pipeline (Build-Time)
-Fokus auf die Vektorisierung aller Lektionen während des VitePress Builds.
-- [ ] **Plan 24.1**: Chunk-Extraktion (Grammar-Boxen/Sektionen) aus allen Markdown-Files konfigurieren.
-- [ ] **Plan 24.2**: Einbindung eines Node.js-basierten lokalen Embedding-Modells.
-- [ ] **Plan 24.3**: Erstellung und Caching des statischen `vector-index-[lang].json`.
-- **Erfolgskriterien**:
-    - Build erzeugt pro Sprache eine Vektor-Datei.
-    - Die Datei enthält Text-Chunks und korrespondierende Embeddings.
+> **Entscheidung (2026-11-23):** Vollständiger Rückbau nach YAGNI. Die reguläre VitePress-Volltextsuche (MiniSearch mit Diakritika-Normalisierung) und der Grammatik-Index liefern direkten Zugriff auf die Original-Boxen ohne ~69 MB statische Vektor-Indizes (`vector_index*.json`), ohne 1–2 GB WebGPU-Downloads und ohne BYOK-API-Hürde gegenüber Copy & Paste in externe KI-Assistenten.
 
-### Phase 25: Client-side Semantic Search (Runtime)
-Fokus auf das semantische Matching der Nutzeranfrage im Client.
-- [ ] **Plan 25.1**: Neues Suchfeld "KI-Suche" (Toggle) in VitePress implementieren.
-- [ ] **Plan 25.2**: Laden des 25MB Embedding-Modells per Web Worker im Hintergrund.
-- [ ] **Plan 25.3**: Cosinus-Ähnlichkeits-Berechnung zum Finden der Top-3 Chunks aus dem Index.
-- **Erfolgskriterien**:
-    - Eine semantische Anfrage liefert die relevantesten Textstellen offline zurück.
-
-### Phase 26: WebGPU LLM Answer Generation (RAG) ⭐ PRIORITY
-Das Herzstück des Release: Live-Generierung der Antwort im Browser.
-- [ ] **Plan 26.1**: Integration von `@mlc-ai/web-llm` und Setup für Gemma 2B IT.
-- [ ] **Plan 26.2**: RAG-System-Prompt: Einspeisen der Top-3 Chunks in den Chat-Context.
-- [ ] **Plan 26.3**: UI-Streaming: Die Antwort wird im ChatGPT-Stil in die KI-Suche getippt.
-- [ ] **Plan 26.4**: Quellenverlinkung der genutzten Chunks.
-- **Erfolgskriterien**:
-    - Das LLM antwortet kohärent und zitiert die Lektionen.
-    - Vollständig lokal und offline.
-
-### Phase 27: Provider-Pattern & Model Management
-Verwaltung des Modell-Downloads und Fallback-Lösungen.
-- [ ] **Plan 27.1**: Implementierung des `AIService` (WebGPU vs. API Provider-Pattern).
-- [ ] **Plan 27.2**: Einbau eines OpenRouter-API-Fallbacks für nicht WebGPU-fähige Geräte.
-- [ ] **Plan 27.3**: Opt-In UX: Modal zum Herunterladen des Modells inkl. PWA Service-Worker-Caching-Logik.
-- **Erfolgskriterien**:
-    - Nutzer ohne GPU können die KI-Suche via API-Key nutzen.
-    - Modell wird nur nach expliziter Zustimmung gecacht.
+### Phase 24–27: Zurückgebaut
+- `scripts/build_vector_index.py`, `scripts/test_vector_search.py`, `scripts/test_rag_search.py` entfernt.
+- `docs/.vitepress/theme/components/PayerSemanticSearch.vue`, `docs/.vitepress/theme/ai-service.js`, `docs/public/search-worker.js`, `docs/public/llm-worker.js` und alle `docs/public/vector_index*.json` entfernt.
 
 </details>
 
@@ -356,7 +328,7 @@ Verwaltung des Modell-Downloads und Fallback-Lösungen.
 | 23 | v1.6 | 2/2 | Complete | 2026-07-15 |
 | 23c | v1.7 | 1/1 | Complete | 2026-08-22 |
 | 23d | v1.8 | 7/7 | Complete | 2026-09-10 |
-| 24 | v2.0 | 0/3 | Planned | - |
-| 25 | v2.0 | 0/3 | Planned | - |
-| 26 | v2.0 | 0/4 | Planned | - |
-| 27 | v2.0 | 0/3 | Planned | - |
+| 24 | v2.1 | 3/3 | Cancelled / Removed (YAGNI) | 2026-11-23 |
+| 25 | v2.1 | 3/3 | Cancelled / Removed (YAGNI) | 2026-11-23 |
+| 26 | v2.1 | 4/4 | Cancelled / Removed (YAGNI) | 2026-11-23 |
+| 27 | v2.1 | 3/3 | Cancelled / Removed (YAGNI) | 2026-11-23 |

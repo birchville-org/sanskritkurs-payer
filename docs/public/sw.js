@@ -5,7 +5,7 @@
 
 // Cache Name with Version
 // Convention: payer-v{phase}-r{revision}
-const CACHE_VERSION = 'payer-v20-r1'
+const CACHE_VERSION = 'payer-v20-r2'
 const CACHE_NAME = `payer-cache-${CACHE_VERSION}`
 
 // Active locales — synced from client via postMessage.
@@ -25,8 +25,7 @@ const PRECACHE_URLS = [
   BASE_PATH + 'offline.html',
   BASE_PATH + 'manifest.json',
   BASE_PATH + 'pwa-icons/icon-192.png',
-  BASE_PATH + 'pwa-icons/icon-512.png',
-  BASE_PATH + 'search-worker.js'
+  BASE_PATH + 'pwa-icons/icon-512.png'
 ]
 
 // ============================================================

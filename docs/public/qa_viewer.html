@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
     <title>Sanskrit Course - Side-by-Side QA Viewer</title>
     <script src="qa_editor.js"></script>
     <style>
@@ -14,6 +15,7 @@
         }
 
         :root {
+            color-scheme: light;
             --color-parchment: #fcf9f2;
             --color-parchment-dark: #f1eee7;
             --color-ink: #03192e;
@@ -22,6 +24,7 @@
         }
 
         .dark {
+            color-scheme: dark;
             --color-parchment: #03192e;
             --color-parchment-dark: #001a24;
             --color-ink: #fcf9f2;
@@ -254,16 +257,6 @@
             flex-direction: column;
         }
 
-        /* Force light theme for original Payer content regardless of global mode */
-        .pane.is-original {
-            background: #fcf9f2 !important;
-            color: #03192e !important;
-        }
-
-        .pane.is-original iframe {
-            background: #fcf9f2 !important;
-        }
-
         .signalrot {
             font-weight: bold;
         }
@@ -366,12 +359,6 @@
             height: 100%;
             resize: none;
             outline: none;
-        }
-
-        /* Special case: Raw source of original Payer pages should stay light */
-        .pane.is-original .raw-viewer {
-            background: white !important;
-            color: #03192e !important;
         }
 
         .resizer {
@@ -1245,13 +1232,55 @@
             localStorage.setItem('vitepress-theme-appearance', isDark ? 'dark' : 'light');
             syncThemeToFrames();
         }
+        function getFramePath(frame) {
+            try {
+                const p = frame.contentWindow?.location?.pathname;
+                if (p && p !== 'blank') return p.toLowerCase();
+            } catch(_) {}
+            return (frame.src || '').toLowerCase();
+        }
+        function applyThemeToFrame(frame, isDark) {
+            if (!frame) return;
+            const path = getFramePath(frame);
+            const isOriginal = path.includes('/qa/');
+            try {
+                const doc = frame.contentDocument || frame.contentWindow?.document;
+                if (doc && doc.documentElement) {
+                    if (isOriginal) {
+                        let styleEl = doc.getElementById('qa-dark-style');
+                        if (isDark) {
+                            if (!styleEl) {
+                                styleEl = doc.createElement('style');
+                                styleEl.id = 'qa-dark-style';
+                                styleEl.textContent = `
+                                    :root { color-scheme: dark; }
+                                    html, body { background: #03192e !important; color: #fcf9f2 !important; }
+                                    a { color: #eab308 !important; }
+                                    a:visited { color: #d97706 !important; }
+                                    hr { border-color: #334155 !important; }
+                                    table, td, th { border-color: #334155 !important; }
+                                    font[color="#000000"], font[color="black"] { color: #fcf9f2 !important; }
+                                    font[color="#800000"], font[color="maroon"] { color: #f87171 !important; }
+                                    font[color="#000080"], font[color="navy"] { color: #93c5fd !important; }
+                                `;
+                                (doc.head || doc.documentElement).appendChild(styleEl);
+                            }
+                        } else if (styleEl) {
+                            styleEl.remove();
+                        }
+                    } else {
+                        doc.documentElement.classList.toggle('dark', isDark);
+                    }
+                }
+            } catch(_) {}
+            if (!isOriginal && frame.contentWindow) {
+                frame.contentWindow.postMessage({ type: 'setTheme', theme: isDark ? 'dark' : 'light' }, '*');
+            }
+        }
         function syncThemeToFrames() {
             const isDark = document.documentElement.classList.contains('dark');
-            const msg = { type: 'setTheme', theme: isDark ? 'dark' : 'light' };
-            const lSrc = leftFrame.src.toLowerCase();
-            const rSrc = rightFrame.src.toLowerCase();
-            if (leftFrame.contentWindow && !lSrc.includes('/qa/')) leftFrame.contentWindow.postMessage(msg, '*');
-            if (rightFrame.contentWindow && !rSrc.includes('/qa/')) rightFrame.contentWindow.postMessage(msg, '*');
+            applyThemeToFrame(leftFrame, isDark);
+            applyThemeToFrame(rightFrame, isDark);
         }
         const savedTheme = localStorage.getItem('vitepress-theme-appearance') || 'light';
         if (savedTheme === 'dark') document.documentElement.classList.add('dark');
@@ -1548,8 +1577,8 @@
             }
             let srcText = cmEditor ? cmEditor.state.doc.toString() : editorInput.value;
             let html = window.md.render(srcText);
-            // Fallback: convert any remaining [[br]] or :br literals to <br> (safe inside <td>/<th>)
-            html = html.replace(/(?:\[\[br\]\]|:br)/g, '<br>');
+            // Fallback: convert any remaining [[br]] or :br / ：br literals to <br> (safe inside <td>/<th>)
+            html = html.replace(/(?:\[\[br\]\]|[:：]br)/g, '<br>');
             editorPreview.innerHTML = html;
         }
 
@@ -2619,8 +2648,6 @@
             let lUrl = leftVal.includes('lektion') ? baseUrl + leftVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + leftVal;
             let rUrl = rightVal.includes('lektion') ? baseUrl + rightVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + rightVal;
             if (rUrl.includes('wortliste')) lUrl = noEquivalentMsg;
-            document.getElementById('left-pane').classList.toggle('is-original', lUrl.toLowerCase().includes('/qa/'));
-            document.getElementById('right-pane').classList.toggle('is-original', rUrl.toLowerCase().includes('/qa/'));
             if (viewMode === 'raw') {
                 fetchRaw(lUrl, leftRaw, leftFrame);
                 fetchRaw(rUrl, rightRaw, rightFrame);
@@ -2742,9 +2769,9 @@
         rightFrame.onload = () => { injectReceiver(rightFrame); };
 
         setInterval(() => {
-            if (viewMode === 'rendered') {
+            if (viewMode === 'rendered' || viewMode === 'edit-3col') {
                 injectSender(leftFrame);
-                injectReceiver(rightFrame);
+                if (viewMode === 'rendered') injectReceiver(rightFrame);
             }
         }, 2000);
 

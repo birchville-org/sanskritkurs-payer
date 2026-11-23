@@ -3,6 +3,17 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [2.0.1] - 2026-11-23
+### Behoben
+- **`:br`- / `：br`-Zeilenumbrüche**: `payer_br_fix`-Regel in `docs/.vitepress/config.mjs` (und `qa_viewer.html`-Fallback) rendert verbleibende `:br`- und Vollbreiten-`：br`-Marker direkt vor Buchstaben (z. B. `:brjuhu`, `:brMaskulinum`) sowie außerhalb von Tabellen zuverlässig als `<br>`.
+- **QA-Viewer Tag/Nacht-Modus**: Tag/Nacht-Umschaltung in `docs/public/qa_viewer.html` wirkt nun konsistent auf beide Frames (VitePress-Lektionen, Original-HTML `/qa/*.html` und Raw-Viewer).
+
+### Aktualisiert
+- **Author Help & Doku-Parität**: `docs/public/qa_help.md` auf das v2.0.0 Dual-Target-Setup (`payer.birchville.org/qa_viewer.html` mit Authelia Zero-PAT Broker, LLDAP-Gruppen und `TOTALBREMSE`) aktualisiert; Service Worker `CACHE_VERSION` auf `payer-v20-r2` hochgezählt; `ARCHITECTURE.md` und `site_docs/*/system-architecture.md` bereinigt.
+
+### Entfernt
+- **Semantische KI-Suche (YAGNI)**: `PayerSemanticSearch.vue`, `search-worker.js`, `build_vector_index.py`, Testskripte sowie alle 18 `docs/public/vector_index*.json` entfernt (-69 MB in `docs/public/`).
+
 ## [2.0.0] - 2026-11-14
 ### Hinzugefügt
 - **Dual-Target GitHub Pages Hosting**: Automatisiertes Deployment auf `docs.birchville.org/sanskritkurs-payer/` (`github.io`) parallel zum Multi-Arch Docker-Image (`ghcr.io/birchville-org/sanskritkurs-payer`) inkl. integriertem MkDocs-Output unter `/dev-docs/`.

@@ -2,21 +2,27 @@
 
 This reference documents tricky edge cases, container nesting, and specific rules for the Payer project.
 
-## 1. Offline Editing Process and Functions
+## 1. Editing Modes, Authelia Zero-PAT & Functions
 
-With version 1.7.0, the QA Viewer operates entirely serverless. This means you read and save changes directly via the **GitHub Cloud**.
+With **v2.0.0**, the platform runs in a **Dual-Target** setup:
+* **Editorial QA Gateway (`https://payer.birchville.org/qa_viewer.html`):** Authenticated via **Authelia** with the **Zero-PAT Broker** (`/api/qa/*`). Authors do **not** need to configure a GitHub Personal Access Token (PAT) in the browser. Permissions follow your LLDAP group:
+  - `admins` / `lldap_admin`: Full write access, including the German master lessons (`docs/lektionen/*.md`).
+  - `users` / `alexandria-users`: Write access to all translations (`docs/<lang>/lektionen/*.md`); German master files remain protected (`TOTALBREMSE`).
+  - `lldap_strict_readonly`: Read-only preview.
+* **Public GitHub Pages (`https://docs.birchville.org/sanskritkurs-payer/qa_viewer.html`):** Static read-only mirror (developer docs at `/dev-docs/`). Direct cloud saving without the Homelab broker falls back to a GitHub PAT prompt (request access at `webmaster@birchville.org`) or local file saving via the File System Access API.
 
 ### The Most Important Buttons
-* **Load from Cloud (Blue Button):** This is the most crucial step! When you open the QA Viewer, you only see a read-only preview. Click this button to download the markdown source code live from GitHub and unlock the editor.
+* **Load from Cloud (Blue Button):** When you open the QA Viewer, you see a read-only comparison first. Click this button to load the Markdown source from GitHub (via the Authelia broker or direct GitHub API) and unlock the editor.
 * **File ▾ Menu:**
-  - **Set PAT (GitHub Token):** Before you can save to the cloud, you must provide your Personal Access Token (PAT) here once, so GitHub recognizes you as an author. **To apply for a PAT, please contact the publisher via email at `webmaster@birchville.org`.**
-  - **Save (Commit to PR):** Saves your changes, creates a new Git commit in the background, and pushes it directly into a Pull Request. This also triggers the "Silent Auto-Repair" for broken tables.
-* **Sync:** Controls how the left and right halves of the screen are coupled when scrolling (e.g., based on headings).
-* **View:** Toggles the left reading view between the finished website (Rendered) and the raw markdown code.
+  - **Save (`Ctrl + S` / `Cmd + S`):** Saves your changes and creates a Git commit/PR via the Authelia Zero-PAT Broker (on `payer.birchville.org`) or GitHub PAT fallback. Automatically triggers "Silent Auto-Repair" for broken tables.
+  - **Save As... (System) / Open File... (System):** Read or save Markdown files directly on your local disk using the browser File System Access API.
+* **Sync:** Controls how the left and right halves of the screen are coupled when scrolling (e.g., based on headings or percentage).
+* **View:** Switches between `View (Rendered)`, `View (Raw Source)`, `2-Col Edit`, and `3-Col Edit`.
 * **SWAP:** Swaps the left and right columns.
-* **VIM:** Activates special keyboard shortcuts (for advanced users only; activates a subset of the VIM editor keybindings).
+* **VIM:** Toggles Vim keybindings in the CodeMirror editor.
+* **Theme Toggle (Sun/Moon):** Switches both panes (VitePress lessons, Original Payer HTML, and Raw Source) between light and dark mode.
 * **Reset:** Discards all local, unsaved changes and restores the original text.
-* **Left vs. Right:** Set the reference language on the **left side** (usually DE) and the target language on the **right side** (e.g., ID, ES, EN).
+* **Left vs. Right:** Set the reference (Original HTML or `DE`) on the **left side** and the target language on the **right side** (e.g., `EN`, `FR`, `ES`, `HI`, `ID`).
 
 ## 2. The 4-Colon Problem (Container Nesting)
 

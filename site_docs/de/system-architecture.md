@@ -2,7 +2,7 @@
 
 ## 1. Übersicht & Zielsetzung
 
-Das **Payer Sanskritkurs Übersetzungs- und Publikationssystem** basiert auf einer verteilten 3-Node-Topologie, die für lokale KI-Inferenz, kontinuierliche Qualitätssicherung, automatisierte Web-Generierung und semantische Vektorsuche optimiert ist.
+Das **Payer Sanskritkurs Übersetzungs- und Publikationssystem** basiert auf einer verteilten 3-Node-Topologie, die für lokale KI-Inferenz, kontinuierliche Qualitätssicherung und automatisierte Web-Generierung optimiert ist.
 
 Durch die physische Entkopplung von **interaktiver Entwicklung**, **rechenintensiver LLM-Inferenz** und **Hintergrund-Builds/Staging** werden Ressourcen optimal ausgelastet und Deadlocks vermieden.
 
@@ -29,7 +29,7 @@ flowchart TB
     subgraph Nataraja["☸️ Nataraja (Pop!_OS Intel Mac - nataraja.local, 32GB RAM)"]
         GHR["GitHub Self-Hosted Runner (nataraja)"]
         DOCKER["Docker Staging Webserver\n• Public: Port 8080\n• Author: Port 8081"]
-        OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
+        OLLAMA["Ollama Server (Port 11434)\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer"]
         VAULT["TM Cache & Session Vault"]
     end
@@ -46,7 +46,6 @@ flowchart TB
     MLX -->|Inferenz| MODEL
     GH_REPO -->|Long-Polling WebSocket| GHR
     GHR -->|VitePress Build (38 Locales)| DOCKER
-    GHR -->|Vektor-Indexierung| OLLAMA
     GHR -->|Qualitäts-Audit| AUDIT
     GHR -->|Backup & Archivierung| VAULT
     GHR -->|Multi-Arch Images pushen| GHCR
@@ -78,7 +77,6 @@ flowchart TB
 - **Aufgaben:**
   - VitePress Full-Build (38 Sprachen parallel unter 32 GB Swap).
   - Staging-Server auf Port 8080 (Public) und Port 8081 (Author/Review).
-  - Lokale Embeddings via Ollama (`nomic-embed-text`).
   - Nächtliche TM-Backups und Snapshot-Vaults.
 
 ---

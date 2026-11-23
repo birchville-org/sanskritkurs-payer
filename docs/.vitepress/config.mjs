@@ -285,6 +285,36 @@ export default defineConfig({
       ];
 
       md.use(extensiblePlugin, { blockContainers, injectStyles: false });
+
+      // Convert remaining :br markers (including :br<letter> like :brjuhu or :brMaskulinum and list items)
+      // while preserving inline code spans, fenced code blocks, and ::br / :br: literals.
+      md.core.ruler.after('scholarly_fixes', 'payer_br_fix', (state) => {
+        const brSplitRe = /(?<![:：])[:：]br(?![:：])/;
+        for (const token of state.tokens) {
+          if (token.type !== 'inline' || !token.children) continue;
+          let changed = false;
+          const newChildren = [];
+          for (const child of token.children) {
+            if (child.type !== 'text' || !child.content || !brSplitRe.test(child.content)) {
+              newChildren.push(child);
+              continue;
+            }
+            changed = true;
+            const parts = child.content.split(brSplitRe);
+            parts.forEach((part, idx) => {
+              if (idx > 0) {
+                newChildren.push(new state.Token('hardbreak', 'br', 0));
+              }
+              if (part) {
+                const t = new state.Token('text', '', 0);
+                t.content = part;
+                newChildren.push(t);
+              }
+            });
+          }
+          if (changed) token.children = newChildren;
+        }
+      });
     }
   },
 

@@ -8,6 +8,20 @@ description: Overview of updates, new features, and technical enhancements in Sa
 
 Overview of releases, new features, and technical optimizations in the Sanskritkurs platform.
 
+## 🚀 Version 2.0.1 (November 2026)
+
+**Focus:** *`:br` / `：br` Rendering Fix, Dual-Pane Dark Mode & YAGNI Cleanup*
+
+### ✨ Features & Highlights
+- **Datenintegrität & Kernfunktionen**:
+  - **`:br`- & `：br`-Umbrüche**: Neue `payer_br_fix`-Regel in `config.mjs` (und Fallback in `qa_viewer.html`) wandelt bisher ungerenderte `:br`-Marker direkt vor Buchstaben (z. B. `:brjuhu`, `:brMaskulinum`), in Listen sowie Vollbreiten-`：br` sauber in `<br>` um.
+  - **QA-Viewer Tag/Nacht-Umschaltung**: `applyThemeToFrame()` wendet Hell/Dunkel nun synchron auf beide Spalten inkl. Original-HTML (`/qa/*.html`) und Raw-Viewer an.
+- **Plattform- & Backend-Stabilität**:
+  - **Author Help & Service Worker**: `qa_help.md` auf Dual-Target-Architektur (Authelia Zero-PAT Broker, LLDAP-Gruppen) aktualisiert; Service Worker `CACHE_VERSION` auf `payer-v20-r2` angehoben.
+  - **YAGNI-Bereinigung**: Ungenutzte semantische KI-Suche samt `search-worker.js`, `build_vector_index.py` und 18 `vector_index*.json`-Dateien entfernt (-69 MB in `docs/public/`).
+
+---
+
 ## 🚀 Version 2.0.0 (November 2026)
 
 **Focus:** *Dual-Target GitHub Pages Migration (`/sanskritkurs-payer/`) & Authelia Zero-PAT QA Broker*

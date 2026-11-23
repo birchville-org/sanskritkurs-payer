@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-The **Payer Sanskritkurs Translation & Publishing System** is a distributed, multi-node architecture designed for high-performance AI translation, continuous quality assurance, automated web publishing, and vector-search indexing.
+The **Payer Sanskritkurs Translation & Publishing System** is a distributed, multi-node architecture designed for high-performance AI translation, continuous quality assurance, and automated web publishing.
 
 The system decouples **interactive development/pair-programming**, **heavy LLM inference**, and **CI/CD background builds** across three dedicated nodes in the local network.
 
@@ -29,10 +29,9 @@ flowchart TB
     subgraph Nataraja["☸️ Nataraja (Pop!_OS Intel Mac - nataraja.local, 32GB RAM)"]
         GHR["GitHub Self-Hosted Runner (nataraja)"]
         DOCKER["Docker Staging Web Server\n• Public: Port 8080"]
-        OLLAMA["Ollama Server (Port 11434)\n• nomic-embed-text\n• qwen2.5:7b"]
+        OLLAMA["Ollama Server (Port 11434)\n• qwen2.5:7b"]
         AUDIT["Mobile Link Auditor & Quality Scorer\n• audit_mobile_links.py\n• score_translation_quality.py"]
         VAULT["TM Cache & Session Vault\n(/home/marco/payer_backups)"]
-        VEC["Vector Indexing Engine\n(build_vector_index.py)"]
     end
 
     subgraph GitHub["☁️ GitHub Remote"]
@@ -47,7 +46,6 @@ flowchart TB
     MLX -->|Inference| MODEL
     GH_REPO -->|Long-Polling WebSocket| GHR
     GHR -->|Build VitePress 35 Locales| DOCKER
-    GHR -->|Execute Vector Indexing| OLLAMA
     GHR -->|Execute Mobile & Quality Audit| AUDIT
     GHR -->|Create Backups| VAULT
     GHR -->|Build & Push Multi-Arch Images| GHCR
@@ -66,7 +64,7 @@ flowchart TB
 | :--- | :--- | :--- | :--- |
 | **nike.local** | macOS (Apple Silicon M2, 24GB Unified Memory/VRAM) | • Interactive Pair Programming with Antigravity IDE<br>• Code Editing & Git Control<br>• Translation Runner Trigger (`lan_translate.py`) | Local NVMe (`/Volumes/SanDisk1TB/proj/Payer`) |
 | **nyx.local** | macOS (MacBook Air M4, 32GB Unified Memory/VRAM) | • Dedicated 35B Heavy LLM Mass Translation Server<br>• Zero-Cost Local Inference (~20 tokens/sec) | `http://nyx.local:8000` |
-| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
+| **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Public :8080)<br>• Mobile Link Auditor & Quality Benchmark Engine<br>• Auxiliary Ollama LLM Server<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Public Staging: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
 
 ---
 
@@ -87,8 +85,7 @@ When code is pushed to `main`:
 5. **Mobile & Link Audit**: Executes `scripts/audit_mobile_links.py` to verify internal links and PWA manifest integrity.
 6. **Quality Benchmark**: Executes `scripts/score_translation_quality.py` to compute Devanāgarī preservation ratios.
 7. **Auxiliary QA & Remnant Scan**: Executes `scripts/qa_german_remnants.py`.
-8. **Vector Indexing**: Runs `scripts/build_vector_index.py` against Ollama `nomic-embed-text` on Nataraja.
-9. **Vault Archiving**: Archives `.payer/tm/` to ``/home/marco/payer_backups/tm_backup_<timestamp>.tar.gz``.
+8. **Vault Archiving**: Archives `.payer/tm/` to ``/home/marco/payer_backups/tm_backup_<timestamp>.tar.gz``.
 
 ### 4.3. Release Pipeline (`deploy.yml`)
 When an official release tag (e.g. `v1.10.0`) is pushed:
@@ -111,4 +108,5 @@ When an official release tag (e.g. `v1.10.0`) is pushed:
 | **2026-08-11** | **Backup System** | Activated automated TM Cache Vault archiving on Nataraja. | Guaranteed 100% recovery safety for translation memory files. |
 | **2026-08-11** | **Pipeline Logic** | Configured `generate_report.py` priority queue sequence (`EN` ➔ `BG`). | Enforced exact Weg B sequence override requested by user. |
 | **2026-08-12** | **Semantic AI Search** | Integrated `PayerSemanticSearch.vue` frontend component & pre-compiled vector index (`docs/public/vector_index.json`). | Enables instant, 100% client-side semantic vector search in browser without server dependencies. |
+| **2026-11-23** | **Search Simplification (YAGNI)** | Removed Semantic AI Search / WebGPU RAG / ONNX workers and `vector_index*.json` artifacts (~69 MB). | Keeps VitePress MiniSearch (with IAST normalization) and Grammar Index as zero-overhead lookup. |
 
